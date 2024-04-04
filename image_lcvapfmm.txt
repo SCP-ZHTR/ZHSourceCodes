@@ -1,0 +1,6 @@
+image: 'https://i.imgur.com/kVoi0cf.png'
+owner: 生菜
+owner-wiki: helloahuman
+license: '0'
+other-license: ''
+note: 就是門

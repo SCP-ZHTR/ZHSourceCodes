@@ -1,0 +1,79 @@
+[[include :scp-zh-tr:component:scp-meta-title-hiding]]
+[[>]]
+[[module rate]]
+[[/>]]
+
+[[include :scp-zh-tr:theme:ad-abyssum]]
+
+[[include :scp-zh-tr:component:info-ayers
+|page=scp-5693
+|authorPage=http://www.scp-wiki.net/the-bread-box
+|comments=**[https://scp-wiki.wikidot.com/scp-5693 SCP-5693]：** 欲知上帝理財觀念，觀其所贈之人足矣
+（If you want to know what God thinks about money, just look at the people he gives it to）
+**原著：** [[*user Deadly Bread]]@@ @@
+**譯者：** [[*user Edward_Knave]]@@ @@
+----
++++* 原著其他作品
+[[include :scp-wiki:more-by:deadly-bread]]
+[[/div]]
+
+[[table style="border: none; width: 100%;"]]
+[[row]]
+[[cell]]
+[[span style="font-size: 125%;"]][[span style="font-weight: 900;"]]項目編號：[[/span]] SCP-5693[[/span]]
+[[/cell]]
+[[cell style="text-align: right;"]]
+[[span style="font-weight: 900; font-size: 125%;"]]###990000|維安等級 3/5693##[[/span]]
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+[[span style="font-size: 125%;"]][[span style="font-weight: 900;"]]收容等級：[[/span]]  EUCLID[[/span]]
+[[/cell]]
+[[cell style="text-align: right;"]]
+[[span style="font-weight: 900; font-size: 125%;"]]###990000|保密文件##[[/span]]
+[[/cell]]
+[[/row]]
+[[/table]]
+-----
+[[include component:image-block name=https://scp-wiki.wdfiles.com/local--files/scp-5693/termite.png|caption=嘗試對SCP-5693進行侵入觀測所得影像]]
+**特殊收容措施：** 鑒於SCP-5693所致結構損毀，廢物處理站點Site-27應繼續維持廢棄。由此，第二個臨時站點已在安全距離外建立，以觀察該項目群落。對廢物處理站點Site-27先前目的之研究現已視為最優先任務。為免項目群落不必要的擴張，被指派至SCP-5693的人員應對宗教或相關議題不抱持任何明顯立場。
+
+**描述：** SCP-5693指稱一個尺寸未定的白蟻群落，現時佔據著廢物處理站點Site-27底層。[[footnote]]位於澳洲北領地一處偏遠區域的臨時站點，現已廢棄。鑒於檔案闕如，該站點先前目的現時未知。[[/footnote]]SCP-5693與所有已知白蟻物種皆不匹配，惟其蟻塚在表面上與羅盤白蟻（//Nasutitermes triodiae//，又稱聖堂白蟻）相似，具有向上觸及天花瓷磚與通風管線的大型蟻塚。該等蟻塚在表面上形似鐘塔，有雕以相信具有神學意義的未知符號。該等符號每當在SCP-5693進入吞食事件時，就會發出藍光。
+
+在吞食事件期間，SCP-5693可以吞噬任何材質。SCP-5693會優先選擇放出神性輻射的物件，尤以與宗教有關聯者為甚。[[footnote]]鑒於現場大部分物件與宗教之間的因果關聯，該等物件已足以予該項目吞食。[[/footnote]]這種輻射會隨後在SCP-5693產生的酶內傳遞，將受影響的物件轉化成為木漿。該材質大部分會被SCP-5693吞噬，惟推定有其中15%用以進一步擴張群落。SCP-5693每日會轉化450公斤的材料，現時推測指出SCP-5693會在2038年完全吞噬整幢站點建築。  
+
+廢物處理站點Site-27在發現當下已告荒廢，故目前未知SCP-5693如何達到現時規模。然而，透過次聲波造影，已在站點遺址發現部分或完全未被SCP-5693觸及的各種殘存文物，在其週邊形成未被項目觸及的地帶。該等物件包括：
+* 有害的廢料袋（過剩而未有內容物）。
+* 各種科學設備及儀器[[footnote]]當中大部分已經嚴重損毀，雖被發現在Thaumiel級異常保護之下曾經頻繁使用。[[/footnote]]
+* 數瓶寬口玻璃瓶，瓶內充滿一種[[[SCP-5993|未知物質]]]。
+* [[span class="ruby"]]約西．萊納[[span class="rt"]]Yossi Leiner[[/span]][[/span]]及[[span class="ruby"]]蘭道爾．班諾克[[span class="rt"]]Randall Bannock[[/span]][[/span]]著[[span class="ruby"]]《宗教文物之正確處置》[[span class="rt"]]//The Proper Disposal of Religious Artifacts//[[/span]][[/span]]。
+* 幾片畫有戰術神學部徽的混凝土及石膏塊。戰術神學部宣稱對該項目毫不知情，並拒絕再作評論。
+
+值得注意的是，與宗教廢棄物與神學廢料有關的嚴重化學侵蝕在SCP-5693群落先前所用的收容間[[footnote]]根據從該設施所得圖則所示。[[/footnote]]被發現，然而可見有效阻止該項目擴張至站點其他地方。
+
+對該等物件的獨特意義的後續研究現時待准。
+----
+[[>]]
+[[module rate]]
+[[/>]]
+
+[[footnoteblock]]
+
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[SCP-5692]]] | [http://www.scp-wiki.net/the-bread-box Deadly Bread作者頁] | [[[SCP-5694]]] >>
+[[/=]]
+[[/div]]
+
+[[include :scp-zh-tr:component:license-box
+|lang=EN
+|author=Deadly Bread]]
+=====
+> **圖檔名稱：** termite.png
+> **圖像名稱：** CSIRO ScienceImage 2183 Termite Colony（經項目作者編輯）
+> **圖像作者：** [[[https://www.scienceimage.csiro.au/image/2183|CSIRO]]]
+> **授權方式：** CC BY-3.0
+> **圖源連結：** [[[https://commons.wikimedia.org/wiki/File:CSIRO_ScienceImage_2183_Termite_Colony.jpg|維基共享資源]]]
+=====
+[[include :scp-zh-tr:component:license-box-end]]

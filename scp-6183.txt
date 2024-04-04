@@ -1,0 +1,1514 @@
+[[include :scp-wiki:theme:admo]]
+
+[[module CSS]]
+:root {
+
+--logo: url('https://scpdsandbox.wdfiles.com/local--files/collab%3Abillith-montagueetc-liryn/mnes.png');
+
+--fadeout-background: black;
+--fadeout-time: 3s;
+
+}
+
+@import url('http://smlt.wdfiles.com/local--code/ukwhatn%3Afadeout/1');
+
+.fadeout-wrapper {
+position: relative;
+overflow: hidden;
+}
+
+.fadeout-wrapper .cover {
+position: absolute;
+top: 0px;
+left: 0px;
+width: 100%;
+height: 200%;
+z-index: 2;
+background: var(--fadeout-background);
+color: transparent;
+animation: cover-anim var(--fadeout-time) linear 0s 1 forwards;
+}
+
+
+@keyframes cover-anim {
+0% {
+opacity: 0;
+}
+
+100% {
+opacity: 1;
+}
+}
+
+.fadeout-wrapper .escape {
+display: inline-block;
+position: relative;
+z-index: 3;
+}
+
+.fadeout-wrapper .fadein-txt {
+position: relative;
+z-index: 3;
+opacity: 30%;
+animation: cover-anim var(--txt-fadein-time) linear var(--txt-fadein-delay) 1 forwards;
+}
+
+.image-block, .scp-image-block {
+border-bottom-color: rgb(30, 30, 30);
+}
+
+.text-part .main-class {
+background-color: rgba(0, 0, 0, 0.5) !important;
+}
+
+[[/module]]
+
+[[div style="display: none;"]]
+[[include component:image-block
+| name=https://scp-wiki.wikidot.com/local--files/admonition/blackbox.png
+| caption=ADMONITION
+| width=100%
+| align=center]]
+[[/div]]
+
+[[div class="admo-intermission_splash"]]
+
+[[div class="admo-rate_splash"]]
+[[include info:start]]
+原文：[https://scp-wiki.wikidot.com/scp-6183 SCP-6183] 黑 條
+作者：[[*user Billith]]、[[*user MontagueETC]]、[[*user Liryn]]
+譯者：[[*user Frederica Bernkastel]]
+[[include info:end]]
+[[/div]]
+
+[[div]]
+[[span class="cond"]]間幕：[[/span]]
+
+[[span class="ctrl"]]黑 條[[/span]]
+[[/div]]
+
+[[/div]]
+
+[[div_ class="fadeout-wrapper"]]
+
+[[=image https://scp-wiki.wdfiles.com/local--files/scp-7549/recurrent_triangle.png style="width: 10rem; opacity: 70%;" link="https://scp-zh-tr.wikidot.com/deleted"]]
+
+[[=]]
+++ [[span class="bt"]]本檔案已標記為刪除[[/span]]
+[[/=]]
+
+@@ @@
+
+@@ @@
+
+[[include :scp-zh-tr:component:customizable-acs
+|containment-class= keter
+|containment-color= 82, 11, 32
+|secondary-class= radix
+|secondary-color= 60, 60, 60
+|inc-split-color= --]]]
+
+[[include :scp-zh-tr:component:customizable-acs
+|container-class= keter
+|containment-image= https://scp-wiki.wdfiles.com/local--files/component%3Aanomaly-class-bar/keter-icon.svg
+|containment-color= 82, 11, 32
+|inc-esoteric-layout = --]]]
+
+[[div class="anom-bar-esoteric"]]
+[[include :scp-zh-tr:component:customizable-acs
+|clearance-five-image= https://scp-wiki.wdfiles.com/local--files/scp-6183/1e.png
+|inc-clearance-image= --]
+|item-number= SCP-6183
+|clearance=5
+|container-class= keter
+|containment-image= https://scp-wiki.wdfiles.com/local--files/component%3Aanomaly-class-bar/keter-icon.svg
+|containment-color= 82, 11, 32
+|inc-esoteric-layout = --]
+|disruption-class= infrared
+|disruption-image= https://scp-wiki.wdfiles.com/local--files/scp-6445/Infrared.svg
+|disruption-color= 0, 0, 0
+|inc-disruption= --]
+|risk-class= cryptic
+|risk-image= https://scp-wiki.wdfiles.com/local--files/scp-6183/Cryptic.svg
+|risk-color= 255, 255, 255
+|inc-risk= --]
+|secondary-class= radix
+|secondary-icon= https://scp-wiki.wdfiles.com/local--files/scp-6183/RADIX.svg
+|secondary-color= 60, 60, 60
+|risk-text= 風險等級：
+|item-text= SCP-
+|level-text= 級  
+|clearance-number-text= ▒
+|clearance-text= ▛▙▇▀
+|containment-text= 收容等級：
+|disruption-text= 擾動等級：
+|secondary-text= 次要等級：
+|inc-custom-text= --]]]
+[[/div]]
+
+[[include component:image-block
+name=https://scp-wiki.wikidot.com/local--files/admonition/admo-6183-tunnel.jpg
+|caption=前往謨涅摩敘涅研究站的通道。
+|align=center
+|width=100%
+]]
+
+[[div class="acstable widetable"]]
+||~ 指定部門 ||~ 計畫負責人 ||
+||= 廢除部、本質物理學部[[span class="fnnum"]].[[/span]][[span class="fncon"]]應[已刪除]要求。[[/span]]  ||= C．布羅德主任 ||
+||~ 指定站點 ||~ 研究負責人 ||
+||= Site-01、Site-17、Site-19、Site-[已刪除]||= ▂▕▄▄▙▝ ||
+[[/div]]
+
+[[div class="modal"]]
+[[span class="st"]]特殊收容措施：[[/span]] 由於SCP-6183並不完全存在於本相位空間迭代[[span class="fnnum"]].[[/span]][[span class="fncon"]]宇宙總能量與物質的全狀態集合，理論上可在所述時間線的初始條件（即任何事物、任何地點、任何時間）下加以訪問。[[/span]]的可接觸部分，目前無法確認當前進行中的收容作業成果。[[span class="fnnum"]].[[/span]][[span class="fncon"]]**Infrared：** 項目能造成/正在造成的擾動程度無法識別。
+@@ @@
+**Cryptic：** 項目能造成/正在造成的危險程度無法識別。[[/span]]
+
+儘管SCP-6183的存在提供所有可預見的益處，但仍需要盡快實行有的監督與收容媒介。[[span class="fnnum"]].[[/span]][[span class="fncon"]]**Radix：** 項目已納入了基金會的指揮結構。[[/span]]
+[[/div]]
+
+[[div class="modal"]]
+[[include component:image-block
+|name=https://scp-wiki.wdfiles.com/local--files/scp-6183/stares.gif
+|caption=[已刪除]
+|width=300px
+|align=right
+]]
+[[span class="st"]]描述：[[/span]]
+@@ @@
+
+[[div class="blockquote" style="background-color: rgb(var(--admo-color-dark)); font-size: 70%;"]]
+{{項目引述未設置對象實例；description_2.rtf不存在}}
+[[/div]]
+
+[[div class="blockquote" style="background-color: rgb(var(--admo-color-dark)); font-size: 70%;"]]
+{{項目引述未設置對象實例；description_3.rtf不存在}}
+[[/div]]
+
+[[div class="blockquote" style="background-color: rgb(var(--admo-color-dark)); font-size: 70%;"]]
+{{項目引述未設置對象實例；description_4.rtf不存在}}
+[[/div]]
+
+[[div class="blockquote" style="background-color: rgb(var(--admo-color-dark)); font-size: 70%;"]]
+{{項目引述未設置對象實例；description_5.rtf不存在}}
+[[/div]]
+
+[[div class="blockquote" style="background-color: rgb(var(--admo-color-dark)); font-size: 70%;"]]
+{{項目引述未設置對象實例；description_6.rtf不存在}}
+[[/div]]
+
+
+[[/div]]
+
+@@ @@
+
+[[div class="notation"]]
+= [[span class="st"]]附錄6183/I：[[/span]] 發現
+----
+
+[[include component:image-block
+| name=https://scp-wiki.wdfiles.com/local--files/scp-6183/server.png
+| caption=SCP-6183-A。
+| width=20rem
+| align=right]]
+
+SCP-6183是在調查持續惡化數據庫問題後發現的異常，該問題導致了所有刪除的記憶體空間全區段無法進行完整覆寫。紀錄與資訊安全管理部在研究受損部分後，發現已刪除檔案數據永久備分被存入了祕密基金會伺服器之中（SCP-6183-A），據稱該伺服器是由位於Site-19第48層的「刪除部」部門所持有，但該部門根本就不存在。
+
+SCP-6183-A接受了大約1%的主檔案庫（SCP-6183-A-1）刪除SCP文件，無論該設備是否連接網路或電力都會發生，即便將其存入[[[scp-7579 | 法拉第排除場]]]亦同。
+
+近乎所有觀察到的SCP-6183-A-1實體都遭受了嚴重毀壞，經常達到連存取都做不到的程度。然而，逐個對SCP-6183-A-1進行詳細檢查後，能發現隱藏其中的訊息：
+
+~~~~
+
+[[div class="blockquote" style="background-color: rgb(var(--admo-color-dark)); font-size: 70%;"]]
+{{項目引述未設置對象實例；messagelog_1.rtf不存在}}
+[[/div]]
+
+[[div class="blockquote" style="background-color: rgb(var(--admo-color-dark)); font-size: 70%;"]]
+{{項目引述未設置對象實例；messagelog_2.rtf不存在}}
+[[/div]]
+
+[[div class="blockquote" style="background-color: rgb(var(--admo-color-dark)); font-size: 70%;"]]
+{{項目引述未設置對象實例；messagelog_3.rtf不存在}}
+[[/div]]
+
+[[/div]]
+
+@@ @@
+
+[[div class="blockquote" style="background-color: rgb(var(--admo-color-dark)); font-size: 70%;"]]
+{{項目引述未設置對象實例；addenda_2.rtf不存在}}
+[[/div]]
+
+@@ @@
+
+[[div class="blockquote" style="background-color: rgb(var(--admo-color-dark)); font-size: 70%;"]]
+{{項目引述未設置對象實例；addenda_3.rtf不存在}}
+[[/div]]
+
+@@ @@
+
+[[div class="jotting tableb"]]
+= [[span class="st"]]附錄6183/IV：[[/span]] 廢除會議
+
+[[table]]
+[[row]]
+[[hcell]]
+▌▚▛ ▖▇ ▜▕▒▁█
+[[/hcell]]
+[[/row]]
+[[row]]
+[[cell]]
+**地點：** Site-01會議室 B
+
+**列席：**
+
+* O5-8
+* 卡爾文．布羅德主任（[[[decom-dept-hub | 廢除部]]]）
+* 西蒙．彼得里科奧主任（分析部）
+* 伊茜．雷恩代爾博士（奧秘消解部）
+
+[[/cell]]
+[[/row]]
+[[row]]
+[[hcell]]
+«抄錄開始»
+[[/hcell]]
+[[/row]]
+[[row]]
+[[hcell]]
+[[div class="blockquote"]]
+
+**彼得里科奧主任：** 感謝各位今日的參與。
+
+**布羅德主任：** 不好意思，但我記得我們是要向整個議會提交報告吧？
+
+**O5-8：** 我們當前的工作比較分散──這幾天有太多火勢急著去撲滅了，相信你們都很清楚的。
+
+**雷恩代爾博士：** 是啊，大多是字面意思的火。
+
+**布羅德主任：** //<埋怨>// 去你媽的氣候變遷。
+
+**彼得里科奧主任：** 至於比喻方面的火，就恰好跟我們今天要在這裡開會的原因直接相關。正如你們所看到的那樣......
+
+= //<彼得里科奧主任將一疊文件挪到了桌子對面的O5-8面前。>//
+
+**彼得里科奧主任：** 在過去十年來，我們發現新異常的速度激增了44%以上。
+
+**O5-8：** 是啊，這樣的成長已經到了......令人擔憂的地步，過去我們每季會填上十幾個二十幾個空槽。現在感覺我們一天就能填上兩倍數量的空槽了。
+
+**彼得里科奧主任：** 你的推估跟真實情況很接近了。
+
+**O5-8：** 對其成因有任何頭緒嗎？若是如此，有什麼可行的收容措施嗎？
+
+**布羅德主任：** 如果有這麼簡單就好了。
+
+**彼得里科奧主任：** 如果這樣的數據屬於異常，也許我們能帶來更好的消息吧。不幸的是，我們的問題根源就只是來自於正常的統計結果。
+
+**雷恩代爾博士：** 就一般通則而言，異常會促成更多的異常。非歐基里德空間能扭曲周圍的幾何，奇蹟術師能將魔法注入日常用品，還能將他們的技藝傳授給基線人類，異常動物則會瘋狂的繁殖、雜交、變異。說直白點，即便我們不考慮其他狀況，一個現實扭曲者在周末時間對面紗造成的損害都能令人相當吃驚。
+
+異常擴散的自然速度、無授權奇蹟術士的增加、近期自由港蜂巢意識激長......我們正處於「異常嬰兒潮」的邊緣狀態，如果再不加以控制，我們將直接進入[[[SCP-6383|NK級「常態終結」情景]]]。[[span class="fnnum"]].[[/span]][[span class="fncon"]]異常透過對現實的壓倒影響、純粹數量等因素的結合，使常態與面紗的維持變得不再可能。[[/span]]
+
+**O5-8：** 我們有什麼解決方法？
+
+**布羅德主任：** 廢除似乎是唯一長期可持續的有潛力選擇。我們的資源根本不足以持續進行收容任務。不幸的是，我們不確定這是否是當前可選的選項之一。
+
+**O5-8：** 是的。後勤問題很複雜。
+
+**布羅德主任：** 對新人來說是這樣的。你很清楚廢除可不是便宜的措施。除此之外，為了避免異常影響惡化或對基金會資產及職員造成傷害，不但需要採取必要的預防措施，還需要開發並製造適當的設備確保成功率最大化等等。
+
+**雷恩代爾博士：** 後果同樣是代價高昂的。與奧祕消解──異常廢料處置──過程相比，處理放射性廢棄物的[[[SCP-5243 |風險幾乎是零]]]。而每個異常都有自己獨特的處理參數，我想廢除工作也是跑不掉的。
+
+**布羅德主任：** 正是，而且除此之外，過去三年來的廢除成功率一直在持續下降，下降的幅度甚至超過了25%以上。
+
+**O5-8：** 所以異常還變得越來越難以收拾了。我們可知道原因？
+
+**彼得里科奧主任：** 仍然是統計學。這就是個簡單的文化轉移──基金會存在的時間越長，異常分子及其組織就越可能開發出針對我們的反制措施。就結果而言，相關異常似乎正在適應我們的做法。
+
+**O5-8：** 嗯，要高度關注的問題。我們要怎麼做呢？虛假資訊行動？模因製劑？現在我們把所有事情藏回原狀的成本是多少？
+
+**雷恩代爾博士：** 我們對可行研究與潛在方案已經有了些粗略的想法──那張電子表格呢？
+
+= //<[已刪除]遞給了O5-8一張紙。>//
+
+**O5-8：** 謝......
+
+= //<紀錄靜默。>//
+
+**布羅德主任：** 你們......都有看到吧？
+
+**雷恩代爾博士：** //我的天啊//！
+
+= //<O5-8小心不要看到那張紙，並用對面彼得里科奧主任遞來的紙張將其壓在桌上。>//
+
+**布羅德主任：** 為求紀錄，我，呃，我認為自己剛剛目擊到了一隻無體的手臂，它將一張文件遞給監督者後就消失了。
+
+**彼得里科奧主任：** 設施遭到突破了嗎？
+
+= //<O5-8冷靜地按下桌子上的按鈕，身體前傾並向內置麥克風通話。>//
+
+**O5-8：** 我需要模因小隊過來這裡進行檢查，可能需要接受認知危害接踵。我們似乎收到了意料之外的文件。
+
+[[/div]]
+[[/hcell]]
+[[/row]]
+[[row]]
+[[hcell]]
+«抄錄結束»
+[[/hcell]]
+[[/row]]
+[[row]]
+[[hcell]]
+[[/hcell]]
+[[/row]]
+[[/table]]
+
+= [[span class="st"]]附錄結束[[/span]]
+[[/div]]
+
+@@ @@
+
+[[div class="jotting tableb"]]
+
+= **addenda_5.rtf**
+----
+
+[[table]]
+[[row]]
+[[hcell]]
+ ▀ ▝ ▙▚▞▁ █▕ ▅
+[[/hcell]]
+[[/row]]
+[[row]]
+[[cell]]
+**地點：** Site-17 休息室 3
+
+**列席：**
+
+* 康斯坦斯．摩根初級研究員
+* [已刪除]
+[[/cell]]
+[[/row]]
+[[row]]
+[[hcell]]
+«抄錄開始»
+[[/hcell]]
+[[/row]]
+[[row]]
+[[hcell]]
+[[div class="blockquote"]]
+
+= //<[已刪除]頭部顯現。>//
+
+**[已刪除]：** 別怕。
+
+= //<摩根研究員尖叫，退向後頭的平臺而失去平衡。>//
+
+**[已刪除]：** 我說過別──不，抱歉，抱歉，我將自己受到的挫折發洩到你身上了，這一點也不公平。你收到我們的訊息了嗎？
+
+**摩根研究員：** 我──怎，怎麼回事？誰──怎麼回事啊？
+
+**[已刪除]：** //<環視週遭>// 媽的，我肯定是過頭了。現在幾點來著？
+
+**摩根研究員：** 呃，11點左右.....上午的11點。
+ 
+**[已刪除]：** 很好，好。1-4會議廳怎麼走？
+
+**摩根研究員：** 那.....就在我們所在地的下方。是，呃，大概吧。呃，大廳有個電梯但是......
+
+**[已刪除]：** 了解，感恩。
+
+掰。
+
+**摩根研究員：** 嗯.....
+
+= //<[已刪除]頭部顯現。>//
+
+**摩根研究員：** //<鎮靜自己>// 好吧，就這樣囉。
+
+[[/div]]
+[[/hcell]]
+[[/row]]
+[[row]]
+[[hcell]]
+«抄錄結束»
+[[/hcell]]
+[[/row]]
+[[row]]
+[[hcell]]
+[[/hcell]]
+[[/row]]
+[[/table]]
+
+= [[span class="st"]]附錄結束[[/span]]
+[[/div]]
+
+@@ @@
+
+[[div class="jotting tableb"]]
+
+= **addenda_6.rtf**
+----
+
+[[table]]
+[[row]]
+[[hcell]]
+ ▒▟▀ ▝▙▚
+[[/hcell]]
+[[/row]]
+[[row]]
+[[cell]]
+**地點：** Site-17 會議室 104
+
+**列席：**
+* H．吉娜維芙主任（本質物理學部）
+* [已刪除]
+[[/cell]]
+[[/row]]
+[[row]]
+[[hcell]]
+«抄錄開始»
+[[/hcell]]
+[[/row]]
+[[row]]
+[[hcell]]
+[[div class="blockquote"]]
+
+**[已刪除]：** 好的，感謝你在日常安排中抽出時間跟我談話。
+
+**吉娜維芙主任：** 有個漂浮腦袋佔據了我安排面試新員工的地方。我的部門人手本來就已經很不足了，你還把申請人給嚇跑。顯然這會是個我需要擔憂的問題。
+
+**[已刪除]：** 好吧，無論如何，很高興能像這樣跟你說話。我最後一次跟別人面對面交談可是......
+
+你知道的，我還真說不上來。你可能已經聽說過了，我們通常只能伸出單個肢體來。這是門......不怎麼精密的科學。如果你不去想它，效果反而會更好些。
+
+**吉娜維芙主任：** 好喔。那，你為什麼在這呢？
+
+**[已刪除]：** 你們沒有收到訊息嗎？我們特別指名要找你的。
+
+**吉娜維芙主任：** 我確實有收到你的信件，但不曉得這對我和本部門有什麼關係。
+
+**[已刪除]：** 這跟數據庫有關係。也跟你的職責有關係。但主要是數據庫啦。東西都寫在紙條上了。
+
+= //<吉娜維芙主任拿起紙條重新讀過。有隻手出現抓了抓[已刪除]的鼻子後消失了。>//
+
+**[已刪除]：** 超讚。你不會相信我有多少次試圖用手去抓了。我肯定已經癢，癢一個小時了。
+
+**吉娜維芙主任：** //<視線離開書頁往上移。>// 你便條最後寫的「[查詢：拒絕]」是什麼意思？
+
+**[已刪除]：** 恐怕我不能回答這個問題。我想你也是知道的。還不是時候。
+
+**吉娜維芙主任：** 那我們將直接殺入正題了。從你剛剛的小把戲中我已經知道了，我並沒有能力阻止你離開，所以我會盡量不浪費你太多時間：問題不算我的。
+
+**[已刪除]：** 這樣的言論大可不必。在這裡我們都是同事不是嗎？還記得我曾經去找過你嗎？請你注意，我有充分認識到自己的風險。
+
+**吉娜維芙主任：** 你是從哪來到這裡的？你是說哪些風險？為什麼說我也有責任？
+
+**[已刪除]：** 我也希望能向你解釋，但這已經超出你的認知範圍了。這沒有非邏輯，也沒有不存在，有種很不一樣的東西，而且是很不一樣的糟東西。
+
+**吉娜維芙主任：** 你願意盡你所能給我些啟發嗎？
+
+**[已刪除]：** 這將會是......相當不利的。
+
+**吉娜維芙主任：** 給我們點能做的吧。畢竟你自稱是來自基金會的某個部門。
+
+**[已刪除]：** //<嘆氣>// 我該怎麼......
+
+這並不是說你們所說的那些資訊並不存在。它就在這裡，從未消失，完全沒有消失。這就是問題所在，也是我們為什麼要進行這該死的對話的原因。
+
+所有組成都是你不可觸及的。我無法指出它們在哪。但我現在確實看到了它們。它們是如此的痛苦，感受到了如此多的//仇恨//。尖叫、燃燒、沒完沒了。然後......在那一切之上......
+
+= //<紀錄靜默。>//
+
+@@ @@
+
+**[已刪除]：** ▜ ▔▕ ▌ ▊ ▇ ▟▇▛ ▀ ▔ ▙▘▃▟ ▀ ▂▗ ▞▒ ▉▊ ▄▆
+
+**吉娜維芙主任：** 這太荒謬了。它們是在你屏障一側顯現的！你們「部門」才應該是處理這個問題的人！
+
+**[已刪除]：** 我很抱歉，我們別無他法。你們必須是那個做出改變的人。
+
+所以你的決定是？
+
+= //<紀錄靜默。吉娜維芙主任嘴部遭到刪除。>//
+
+**[已刪除]：** 你沒有這種權力。
+
+**吉娜維芙主任：** //<靜默。震耳欲聾。>//
+
+**[已刪除]：** 沒有必要大喊大叫。
+
+[[/div]]
+[[/hcell]]
+[[/row]]
+[[row]]
+[[hcell]]
+«抄錄結束»
+[[/hcell]]
+[[/row]]
+[[row]]
+[[hcell]]
+[[/hcell]]
+[[/row]]
+[[/table]]
+
+= [[span class="st"]]附錄結束[[/span]]
+[[/div]]
+
+@@ @@
+
+[[div class="jotting tableb"]]
+
+= **addenda_7.rtf**
+----
+
+[[table]]
+[[row]]
+[[hcell]]
+ ▖▙▙ ▇▛▓ ▂▒▓ ▍▌░▖▄▄
+[[/hcell]]
+[[/row]]
+[[row]]
+[[cell]]
+**地點：** Site-[已刪除] 會議室 ▚▍▐
+
+**列席：**
+* ▚ ▛ ▉ ▒ ▚ ▐ ▒▟ ▔ ▅
+*  ▜▇ ▃ ▙█ ▗▟ ▏ ▎
+
+[[/cell]]
+[[/row]]
+[[row]]
+[[hcell]]
+«抄錄開始»
+[[/hcell]]
+[[/row]]
+[[row]]
+[[hcell]]
+[[div class="blockquote"]]
+
+**[已刪除]：** 我？你想知道我的事？
+
+**吉娜維芙主任：** 這是個訪談，不是嗎？
+
+**[已刪除]：** //<大笑>// 你還是不明白是吧？
+
+**吉娜維芙主任：** 幫助我弄明白。
+
+**[已刪除]：** 罷了。你問吧。時候到了你就會想出方法了。
+
+**吉娜維芙主任：** 刪除。這個部門是如何誕生的？
+
+**[已刪除]：** 所有事情都是這樣吧？平等而相反的力量產生另一個更平等更相反的力量。雖然我很猶豫在任何意義上將其稱為「存在」就是了。
+
+**吉娜維芙主任：** 請詳細說明。
+
+**[已刪除]：** 好喔，如果不是那該死的數據庫問題，我就不會在這裡了。這就是我們任務的諷刺之處。我們在這裡是因為我們不應該這樣的。在那白色空間中，它使世上一切都有了意義。
+
+**吉娜維芙主任：** 白色空間？[[span class="fnnum"]].[[/span]][[span class="fncon"]]根據刪除部特工觀測與描述原理模擬結果顯示，該領域組成與[[[SCP-6747]]]-A1近似。[[/span]]
+
+**[已刪除]：** 我來自另一個未受占用的時空。想想看平行宇宙，就由虛空與其他時間線彈出的多維垃圾所構成。虛空部分就是白色空間，垃圾則是黑色空間。兩者共同構成了不是這裡一切的一切，也就是灰色。你的世界加上我的世界等於數據庫。
+
+**吉娜維芙主任：** //數據庫//──？
+
+= //<[已刪除]頭部融解並開始變形。一隻額外的肢體顯現，成為大約2公尺長的蠕動頭足類觸手。這個觸手不受控制的痙攣抽搐著。[已刪除]似乎沒有發現它的存在。>//
+
+**吉娜維芙主任：** //<清喉嚨>// 讓我們換個話題。你都沒怎麼說自己的事情。說說你的童年──說說你最早具有的記憶。我們就從那裡開始。
+
+**[已刪除]：** 沒問題，只是會有些模糊喔。
+
+= //<當觸手轉化為大量細珠時，兩隻手臂與一條軀幹自法的顯現了，所有珠子都掉到了地上並失去活力。能看到[已刪除]正操縱著相連的手，邊思考邊撫摸著自己的下巴。>//
+
+**[已刪除]：** 八零年代末，我在內布拉斯加州的森特長大。我最早的記憶是......在慶祝自己的生日。我不確定是幾歲生日了。
+
+**吉娜維芙主任：** 我本以為是更......非典型的記憶？考慮到這一切......
+
+**[已刪除]：** 喔，沒有，喔對了，那是在利茲，是七零年代，外頭很溫暖的。
+
+**吉娜維芙主任：** 呃......了解了。問題出在......
+
+**[已刪除]：** 不，不，不，我在彭薩拉科長大，我記得當時我在游泳。那裡又黑又冷。我是一條澳洲囊口七鰓鰻。我是魚，不是鰻。
+
+**吉娜維芙主任：** 我......不好意思？
+
+= //<[已刪除]呻吟著，用雙手抱住了頭。>//
+
+**[已刪除]：** 不！根本就不是這樣。那是什麼？暴雪中的阿普謝倫斯克？抑或是恩那胡德？我究竟是醒著還是在作夢？
+
+我現在確定了。那是......那是在珀斯，我溺死了。溺死了。死得很痛苦。
+
+= //<[已刪除]手指抓緊，陷入了他的頭皮與臉部。能聽見濕潤的撕裂聲。吉娜維芙主任毫無反應。[已刪除]的傷口並沒有出血。//░//>//
+
+**[已刪除]：** 我仍能聽見潮水的聲音。你聽不見嗎？
+
+= //<[已刪除]咳嗽著，嘔吐出了鹽水。>//
+
+**吉娜維芙主任：** [已刪除]，你到底想跟我說什麼？
+
+**[已刪除]：** 我過了很多次生日。我的許多部分都有過生日。我有無數次頭一次的記憶。也許哪天我也會有你的記憶。
+
+**吉娜維芙主任：** 這怎麼可能？
+
+= //<[已刪除]顫抖著。它一次向兩個不同的方向看去，然後一次向兩個不同的方向看去，然後又一次向兩個不同的方向看去，然後又向兩個方向看去。然後又是一個。>//
+
+**[已刪除]：** //<低語>// 我們被刪除了。
+
+**吉娜維芙主任：** 被誰刪除？
+
+**[已刪除]：** [查詢：拒絕]
+
+**吉娜維芙主任：** 怎樣？被誰刪除了？
+
+**[已刪除]：** [查詢：拒絕]
+
+**吉娜維芙主任：** [已刪除]？你說得毫無道理啊。
+
+**[已刪除]：** [查詢：拒絕]
+
+**吉娜維芙主任：** 你怎麼突然不講話？
+
+= //<[已刪除]與吉娜維芙主任直接對視而後[表達：拒絕]>//
+
+**吉娜維芙主任：** 繼續保持沉默對你我都毫無幫助的。
+
+**[已刪除]：** [已刪除]
+
+**[已刪除]：** [已刪除]
+
+**[已刪除]：** [已刪除]
+
+**[已刪除]：** [已刪除]
+
+**吉娜維芙主任：** 算了。我們之後再試吧。本次「訪談」結束。
+
+**[已刪除]：** [[span class="escape"]][已刪除][[/span]]
+
+= //<[已刪除]遭到刪除。>//
+
+[[/div]]
+[[/hcell]]
+[[/row]]
+[[row]]
+[[hcell]]
+«抄錄結束»
+[[/hcell]]
+[[/row]]
+[[row]]
+[[hcell]]
+[[/hcell]]
+[[/row]]
+[[/table]]
+
+= [[span class="st"]]附錄結束[[/span]]
+[[/div]]
+
+@@ @@
+[[div class="blockquote" style="background-color: rgb(var(--admo-color-dark)); font-size: 70%;"]]
+{{項目引述未設置對象實例；addenda_7.rtf [[span class="escape"]]不存在[[/span]]}}
+[[/div]]
+
+@@ @@
+
+[[div class="jotting tableb"]]
+= **ad░enda_8.rtf**
+----
+
+[[table]]
+[[row]]
+[[hcell]]
+ ▟▚▛░▙▞
+[[/hcell]]
+[[/row]]
+[[row]]
+[[cell]]
+[[include component:image-block
+|name=https://scp-wiki.wdfiles.com/local--files/scp-6183/hall1.png
+|caption= [已刪除]
+|width=200px
+|align=left
+]]
+
+@@ @@
+
+
+SCP-▞▛░3-B是一系列異常現象，影響全球基金會設施內的各類通道，例如走廊與樓░間等。 ▉▛▞▕ ▍▚▂ ▗▚▝░▘▕▕▏ ▜▆描述▓▉ ▙▀▓  ▚▀░ ▙▞▎▛▄▕▃▁ ▋ ▞ ▙ ▕  導致數量未知的此類結構自發 ▎ ▇ ▛ ▁ ▌ ▃ ▛ ░ ░ ▚ ▁ ▙ ▂ ▒ ▂ ▔其內部▔ ▓ ▕ ▜  ▍ ▐ ░ ▞ 丟失。因而使潛在傷亡與無法使用空間甚▛包括全▒▘ ▒▛▎▁▕▞▓▏▞▅▝ ▁▔▞▔▀▁▅ ▋▇▔ ▏▒▂▉▕▗▅ ▇ ▃ ▙ ▄ ▕的維安設施未▌▏▄ ▍▇▘▞。除此之外，其░現速率及逐次涵蓋空間面積皆已證實上升▍▒▛▌▓▟ ▒▞ ▊▇▙ ▒▕▊▞▟▁  ▝▜▕▞▔▝▃▔▝ ▓▘▅ ▞▎▞▎ ▊ ▞▒相關的 ▎ ▇ ▛ ▁  ▌ ▃ ▛ ░ ▎▀▍▎▇█ ▆▍ ▂▏▖▄▎▝▚▍▀▁ ▇▁ ▟▋▅  ▆▇▎▚▃▚▛▅  ▍▙▐▍ ▟▍▘▄▀▁▅ ▊▎ ▎▉▃▙ ▒ ▖ ▌ ▖以上的描述。
+
+基金會分░▒人員預▋▟▝  ▋█▔▘▄ ▓▗▜▀持續活▞█▛▕▄▆▖ █▏▋▍月 ▉▂▇▜▎▐▙ ▃▌░▀▘ ▊▝▒▞▁▅ ▟▓▔▗▚▛ ▛▗█ █ ▅▊產生█▗ 最▐▝▍█▀▃ ▗▂▝ ▂▞▔▖▞▌  ▛▘▗▅█ ▓法運作，這▒得▝▗▒ ▞▍  ▚▎▇▆ ▊▝▘▁▞▂▅▉ ▌▄ ▙▜▔ ▋▛▒潰且%8a▗▐ █▀ ▃▟▚ ▐▜▍▝  ▋ ▇▊ ▜ ▗▙▛▉█d  ▟▓ ▄▙▝ ▞▉▄▙▐▒止存在。░
+@@ @@
+[[div class="blockquote" style="background-color: rgb(var(--admo-color-dark)); font-size: 70%;"]]
+{{##yellow|讀取文件期間發生錯誤；任務意外終止##}}
+[[/div]]
+@@ @@
+[[/cell]]
+[[/row]]
+[[/table]]
+[[/div]]
+
+
+@@ @@
+
+[[div class="notation tableb widetable"]]
+
+= [[span class="st"]]附錄6183/X：[[/span]] SCP-6183-C初步測試
+----
+@@ @@
+**前言：** ▍ ▆ ▏ ░ ▌ ▄ ▙ ▜ ▇ ▏ ▁ ▙ ▕ ▎ ▇ ▛用於 ░ ▕ ▝ ▚▚ ▕ ▉ ▁ ▗ ▂ ▕▟ ▘ ▔ ▒▝ ▕ ▗ ▋▙ ▒ ▖ ▌ ▖ ▐ ▟▒ ▝ ▒ ▁   ▃ ▙ ▄標▅ ▊ ▅ ▞  ▋ ▒▞▀文▀▞牛▏ ▄ ▍ ▇ ▘ ▞ ▞ ▖ ▘ ▃ ▄░▅ ▚ ▟ ▊ ▐▟ ▎ ▚▁▙ ▂ ▒ ▂ ▔ ▛ ▎▐ ▄ ▜ ▟ ▗ ▜SCP-▇▀▇▀▇▀▝ ▔ ▓▙ ▒針▜▇寸▐ ░ ▞ ▐ ▎ ▉冊▚▉▟除▁▙程。
+
+▇ ▇因▞ ▙ ░ ▞ ▃ ▎ ▏ ▚ ▍ ░ ▞ ▘ ▐ ▍ ▋▒ ▅▊ ▅▁ ▇▜ ▙▄▌░▔▒知。
+@@ @@
+[[table]]
+[[row]]
+[[hcell]]
+測試編號：001
+[[/hcell]]
+[[/row]]
+[[row]]
+[[cell]]
+**測試對象：** [[[log-of-anomalous-items | 異常項目 #1]]][[span class="fnnum"]].[[/span]][[span class="fncon"]]一盞不可摧毀的檯燈，先前曾放置於賴特博士的辦公室內。[[/span]]
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+**結果：** 成功刪除項目。
+[[/cell]]
+[[/row]]
+[[row]]
+[[hcell]]
+[[/hcell]]
+[[/row]]
+[[row]]
+[[cell]]
+**備註：** 通常情況下，這種項目是我們最後考慮要廢除的東西，但考慮到它不可摧毀且完全無害，真是個完美的測試對象。總而░之，這是個很好的開始。
+
+[[>]]
+//布羅德主任//
+[[/>]]
+
+[[/cell]]
+[[/row]]
+[[row]]
+[[hcell]]
+測試編號：029
+[[/hcell]]
+[[/row]]
+[[row]]
+[[cell]]
+**測試對象：** [[[SCP-352]]]
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+**結果：** 成功刪除項目。
+[[/cell]]
+[[/row]]
+[[row]]
+[[hcell]]
+[[/hcell]]
+[[/row]]
+[[row]]
+[[cell]]
+**備註：** 我們沒有理由相信SCP-6183-C對活體無效，但能證實這點總是好的。
+
+[[>]]
+//布羅德主任//
+[[/>]]
+
+[[/cell]]
+[[/row]]
+[[row]]
+[[hcell]]
+測試編號：044
+[[/hcell]]
+[[/row]]
+[[row]]
+[[cell]]
+**測試項目：** [[[SCP-3333]]]
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+**結果：** 成功刪除項目。由於刪除行動連帶的因▟逆行，確認Observation Post-3333外已有12名基金會人員遭到暗殺後為SCP-3333-1實體取代。
+[[/cell]]
+[[/row]]
+[[row]]
+[[hcell]]
+[[/hcell]]
+[[/row]]
+[[row]]
+[[cell]]
+**備註：** 儘管SCP-6183-C需要利用基金會的文件資料▄▍▀▌▜▟▁ █▝▀▟▚▌▄ 其目標，SCP-6183-C仍具備能力識別那些研究人員尚未知曉的SCP-3333-1實體。當前要給出確定結論還為時過早，但這可能足以支持吉娜維芙主任的理論，也就是SCP-6183-C是由概念層面消滅其目標。
+
+[[>]]
+//布羅德主任//
+[[/>]]
+
+[[/cell]]
+[[/row]]
+[[row]]
+[[hcell]]
+測試編號：081
+[[/hcell]]
+[[/row]]
+[[row]]
+[[cell]]
+**測試項目：** ##green|**不衰的野獸**##.
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+**結果：** 成功刪除##green|**測試項目**##。在6個小時後，##green|**噬心者**##重新出現在中國█████ ████████（該地同時是[[[SCP-553]]]的收容地點）並隨即就地突破收容。與此同時，所有SCP-553實體都消失無蹤了，甚至連洞穴系統中與Site-37共125個收容實▆用░▞實▔豊亦同。
+
+於16小時後將##green|**披上鱗片的憎恨**##送回收容區時，發現鱗片上出現了某種晶狀結構，背部還長出了一組鱗翅狀翅膀。
+[[/cell]]
+[[/row]]
+[[row]]
+[[hcell]]
+[[/hcell]]
+[[/row]]
+[[row]]
+[[cell]]
+**備註：** ##green|**A’zieb之卵**##是透過「覆寫」其他異常完成自我的再證成嗎？考慮到SCP-6183-C影響相關的潛在影響，有必要進行進一步的研究。
+
+[[>]]
+//吉娜維芙主任//
+[[/>]]
+
+[[/cell]]
+[[/row]]
+[[row]]
+[[hcell]]
+測試編號：082
+[[/hcell]]
+[[/row]]
+[[row]]
+[[cell]]
+**測試項目：** ##green|**仇恨在無盡▞流流淌的存在**##.
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+**結果：** 成功刪除##green|**噁心之女**##。[[[scp-4000 | 基於協議4000-Eshu而受限制]]]通道隨即遭到阻斷，認定其中的生命體皆已丟失。
+[[/cell]]
+[[/row]]
+[[row]]
+[[hcell]]
+[[/hcell]]
+[[/row]]
+[[row]]
+[[cell]]
+**備註：** 這就是個░誤。今後所有刪除##green|**那頭該死大蜥蜴**##的提案都將受到拒絕。走這條[[[SCP-6820|路]]]肯定沒有好處，即便這條路真的存在也是如此。
+
+[[>]]
+//布羅德主任//
+[[/>]]
+
+[[/cell]]
+[[/row]]
+[[row]]
+[[hcell]]
+測試編號：112
+[[/hcell]]
+[[/row]]
+[[row]]
+[[cell]]
+**測試項目：** [[[scp-5789|SCP-𝕐]]]
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+**結果：** 成功刪除項目。
+[[/cell]]
+[[/row]]
+[[row]]
+[[hcell]]
+[[/hcell]]
+[[/row]]
+[[row]]
+[[cell]]
+**備註：** SCP-6183-C能夠廢除純數學異常，這讓我們能決▔定▚▛生證明它是在概念空間內運作的。然而該空間的確切性質還有待確認。
+
+[[>]]
+//吉娜維芙主任//
+[[/>]]
+
+[[/cell]]
+[[/row]]
+[[/table]]
+
+[[/div]]
+
+@@ @@
+
+[[div class="blockquote" style="background-color: rgb(var(--admo-color-dark)); font-size: 70%;"]]
+{{項目引述未設置對象實例；addenda_11.rtf不存在}}
+[[/div]]
+
+@@ @@
+
+[[div class="notation tableb widetable"]]
+
+= [[span class="st"]]附錄6183/XII：[[/span]] 黑條事故紀錄
+----
+@@ @@
+**前言：** ▞ ▄ ▂ ▉ ░ ▁ ▅ ▉ ▙ ▀ ▙ ▘ ▆ ▎ ▌ ▄後續▙▟▍ ▆ ▂ ▒ ▇ ▛ ▁ ▒ ▂ ▙ ▓ ▅ ▅ ▙ ░高優░▒度▓ █ ▘ ▐ ▋ ▎ ▗ █ ▂ ▖ ▌▍▙▐▍▟力▚計▄ ▚ ▐ ▞ ▙ ▇ ▇ ▋ ▋ ▌ ▞ ▉ ▛ ▟ ▐ ▁ ▛ ▋ ▌ ▁ ▊ █ ▜ ▘ ▃ ▛ ▃ ▋ ▋ ▙ ▌ ▙ ▇ ▔ ▓ ▛ ░ ▅ ▀ ▏ ▝ ▆ ▝ ▉ ▙▇ ▖ ▇ ▚ ░ ▜ ▅ ▇▇ ▔ ▇ ▔ ▔ ▜ ▒ ▔ ▕ ▌ ▀ ▞ ░ ▆ ▆ ▎ ▒ ▙生性▅▆▖ ▗ ▇ ▂ ▏ ▋▚▋▘▘▛█▝ ▖ ▄ ▙內源地▎▘▞展▝ ▉ ▘ ░ ▂ ▔ ▖ ░ ▁ ▚ ▃ ▋▊ ▇▟ ▔ █ ▋▆ ▕ ▜▋▛ ▀「▓覆▇▄▉寫▆」，▖ ▛▇ ▁ ▘ ▕ ▕ ▋ ▟▞ ▃▒▊ ▍ ▛▅ ▕▇▞.
+@@ @@
+[[table]]
+[[row]]
+[[hcell]]
+**黑條事故編號：** 0001
+[[/hcell]]
+[[/row]]
+[[row]]
+[[cell]]
+**摘要：** 於美國加州聖何塞溫徹斯特神秘屋發現了非歐基里德建築異常。基金會自動化分▔ ▇ ▔及系統將其歸定為SCP-3333。
+
+在歸定完成的三天後，SCP-3333地下室出現了單個窗口，窗口顯示出了美國華盛頓州貝克山-斯諾夸爾米國家森林的風景。這促使人員更進一步的探索該異常，最終發現SCP-3333頂層天花板上出現了上鎖的活板門。
+
+意識到SCP-3333與SCP-3333-D迅速增加的相似度，布羅德主任趕在有任何SCP-3333-1實體顯現以前，使用SCP-6183-C將SCP-3333[[span class="fnnum"]].[[/span]][[span class="fncon"]]現已歸定為SCP-3333-D^^2^^。[[/span]]刪除。░▙
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+
+**░註：** 我本期望被刪除異常出現覆寫的狀況只會發生在[[span style="color:green"]]**不死蜥蜴**[[/span]]那次慘敗，但這個測試似乎暗示了情況並不是這樣。我們當然沒那麼走運了。
+
+RAISA已接獲指示修改SCP分類演算法，以阻止未來有SCP被賦予過去遭刪除SCP的編號。希望這樣能進一步防止同性質的事件發生。
+
+至少至少，讓它作為臨▟的變通方案生效吧。
+
+[[>]]
+//布羅德主任//
+[[/>]]
+
+[[/cell]]
+[[/row]]
+[[/table]]
+[[/div]]
+
+@@ @@
+
+[[div class="blockquote" style="background-color: rgb(var(--admo-color-dark)); font-size: 70%;"]]
+{{項目引述未設置對象實例；incident_log_2.rtf不存在}}
+[[/div]]
+
+@@ @@
+
+[[div class="blockquote" style="background-color: rgb(var(--admo-color-dark)); font-size: 70%;"]]
+{{項目引述未設置對象實例；incident_log_3.rtf不存在}}
+[[/div]]
+
+@@ @@
+
+[[div class="notation tableb widetable"]]
+[[table]]
+[[row]]
+[[hcell]]
+**黑條事故編號：** 0004
+[[/hcell]]
+[[/row]]
+[[row]]
+[[cell]]
+**摘要：** [已刪除]
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+
+**備註：** 基金會數據庫出大事了。編輯遭到撤銷，文件被破壞或者恣意刪除。昨天還存放重要資訊的░方今天卻只剩下刪減與黑條。就這一點而言，這個事故紀錄甚至可能進不了SCP-6183的檔案。
+
+我們正高速墜入一起前所未有的內▟通訊大斷線。直到目前為止，共有9座維安設施推定為失效或失聯，還有其他13座設施也瀕臨這樣的命運。▆▙▝
+
+[[>]]
+//布羅德主任//
+[[/>]]
+
+[[/cell]]
+[[/row]]
+[[/table]]
+[[/div]]
+
+@@ @@
+[[div class="blockquote" style="background-color: rgb(var(--admo-color-dark)); font-size: 70%;"]]
+{{##red|數據庫## **##blue|incident_logs_db.xml##** ##red|無法讀取，因為其正處於毀損或使用狀態。請聯繫你的系統管理員了解更多細節。##}}
+[[/div]]
+@@ @@
+
+[[div class="notation tableb widetable"]]
+[[table]]
+[[row]]
+[[hcell]]
+**黑條事故編號：** 1416
+[[/hcell]]
+[[/row]]
+[[row]]
+[[cell]]
+**摘要：** [已刪除]
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+
+**▞▞▁░█：** 已經到頭了，不是嗎？
+
+[[>]]
+//[已刪除]//
+[[/>]]
+
+[[/cell]]
+[[/row]]
+[[/table]]
+
+[[/div]]
+@@ @@
+[[div class="blockquote" style="background-color: rgb(var(--admo-color-dark)); font-size: 70%;"]]
+{{項目引述未設置對象實例；addenda_13.rtf不存在}}
+[[/div]]
+@@ @@
+
+@@ @@
+[[div class="blockquote" style="background-color: rgb(var(--admo-color-dark)); font-size: 70%;"]]
+{{項目引述未設置對象實例；addenda_14.rtf不存在}}
+[[/div]]
+@@ @@
+
+@@ @@
+[[div class="blockquote" style="background-color: rgb(var(--admo-color-dark)); font-size: 70%;"]]
+{{項目引述未設置對象實例；addenda_15.rtf不存在}}
+[[/div]]
+@@ @@
+
+
+@@ @@
+[[div class="blockquote" style="background-color: rgb(var(--admo-color-dark)); font-size: 70%;"]]
+{{項目引述未設置對象實例；addenda_16.rtf不存在}}
+[[/div]]
+@@ @@
+
+@@ @@
+
+[[div class="jotting tableb"]]
+
+= [[span class="st"]]附錄6183/XVII：[[/span]] 探索謨涅摩敘涅研究站
+----
+
+
+[[table]]
+[[row]]
+[[hcell]]
+ ▖ ▙▙ ▇ ▛▓▂ ▒
+[[/hcell]]
+[[/row]]
+[[row]]
+[[cell]]
+
+**列席：**
+* ▚▛ ▉▒ ▚ ▐▒▟▔▅ ▟ ▖ ▁
+* D-6183
+
+**前言：** ▝ ▟ ▖ ▁ ▐ ▙ ▍ ▌ ▟ ▟ ▂ ▕ ▖ ▝ ▋ ▞ ▍ ▁ ▎▚ ▁ ▌ ▌▐ ▂ ▉無法▉▓ ▃ ▊▄▜▜ ▏ ▆ ▜為行▞▍▒█▐ ▂ ▚ ▒█ ▆▇█剩▓餘▄咅▐ ▇ ▄寺▚▃工▐▖█▔▏
+
+為使▞▁█金會更加了解SCP-6183，授權探索號稱謨涅摩敘涅研究站的地下通道。一名D級人員（D-6183）配備了肩載攝影機、頭燈、遠距離（約0.5公里）的2250流明手電筒、輔助視聽紀錄/通訊硬體，[[span class="fnnum"]].[[/span]][[span class="fncon"]]例如帶有領夾式麥克風的便攜發信器。[[/span]]並將該員綁在了回收繩索上。而後將D級人員送入了Site-19本不存在的地下48層中，並在刪除部人員提供指引下成功找到了向下的路徑。
+
+相▓ ▙己▟▆錄 ▞▙ ▝ ▖|▝▟▚▉▙ ▚▚ ▞▊下 。
+@@ @@
+
+[[/cell]]
+[[/row]]
+[[row]]
+[[hcell]]
+«抄錄開始»
+[[/hcell]]
+[[/row]]
+[[row]]
+[[hcell]]
+[[div class="blockquote"]]
+
+[[include component:image-block
+|name=https://scp-wiki.wdfiles.com/local--files/scp-6183/deepestwell.png
+|caption=過去從未為人所知的Site-19維修通道樓梯間。
+|width=100%
+|align=center
+]]
+
+@@ @@
+
+= //<D-6183相機連線。片刻後通訊建立完成，向該員介紹了定位謨涅摩敘涅研究站的方法。螢幕顯示了Site-19維修通道的內部。視野內幾公尺的範圍內能得到適度的照明，超過這個範圍後便快速暗了下來。>//
+
+**D-6183：** 唉呦。
+
+**控制室：** 只要按照給你的指示順序來就行了。還有別拿手電筒照自己的眼睛喔，視網膜會燒壞的。
+
+**D-6183：** 我不是白癡好嗎？讓我們趕快完成這個節目吧。我待會還要去公共休息室看《可可夜總會》的，我才不要錯過任何畫面。
+
+**控制室：** 都已經就定位了，但該花多少時間就多少時間，我們這比你的電影之夜優先級高多了。
+
+= //<觀察到D-6183接近了走廊的遠處，發現了單扇的木門。另一側則觀測到了樓梯間（參見附圖），往下通向了地下48層。影像回饋確認其材質並非混凝土與鋼鐵，而是石膏板與層壓地面。>//
+
+**D-6183：** 這整個都看起來很不合適。有點像是民居住宅耶。
+
+= //<D-6183將手電筒往下方的黑暗照去；似乎沒有什麼效果。>//
+
+**D-6183：** 我能從這裡聽到一點風聲。空氣很冷，出乎意料的冷。
+
+**控制室：** 明白了。還有什麼不尋常的地方嗎？
+
+**D-6183：** 沒有──呃──既然你都已▟問了，有啦，有陣嗡嗡聲。先前走廊沒有的，你聽的到嗎？
+
+= //<D-6183停止移動後短暫停頓；兩個麥克風都沒有收到異常的聲音。>//
+
+**控制室：** 通訊只有記錄到沉默，我們有在檢查紀錄的內容了，目前還沒有發現就是了。
+
+= //<D-6183繼續往下方的黑暗前進。手電筒照亮了該員周圍的一小片區域（直徑約1公尺）。在樓梯的底部連接到了另一個入口，通向另一個大小不明的無照明空間。>//
+
+**D-6183：** 怎麼這麼安靜啊？我知道自己這樣太多話了，但現在真的就是，太安靜了。原本的嗡嗡聲也不見了，甚至連我的耳鳴聲都消失了。嗯，事情通常在變安靜時會變糟糕吧，我可真為這個事實感到不安。現在我開始想念那個聲音了。
+
+**控制室：** 請繼續往地下48層前進。░
+
+**D-6183：** 說好的「該花多少時間就多少時間」呢？這地方真糟糕。我不知道這沉默是怎樣，但它真的讓我很緊張。
+
+= //<能看見言//▞//員正在空間內走動，天花板已經超出了可見範圍。室內沒有任何擺設但鋪設有地毯。後來該員發現了有磨砂玻璃的燈具，但沒有找到燈具的開關。D-6183將手伸入了燈具，並在一陣子後將手抽回。>//
+
+**D-6183 :** 沒燈泡也沒電線。
+
+= //<前往室內的遠端，發現一條急轉彎的左向通道，該通道持續向外延伸出去。繞過彎道後，畫面顯示了一條筆直的樓梯，那條向上的樓梯正沐浴在燈光下。光線似乎沒有受到影響D-6183手電筒與頭燈的現象所影響。D-6183檢查其回收繩索後繼續前進。>//
+
+@@ @@
+
+[[=image https://scp-wiki.wdfiles.com/local--files/scp-6183/room.gif]]
+
+@@ @@
+
+@@ @@
+
+**D-6183：** 繩子還在。我的安全線還在在。我要來搞些探索，然後回去看《可可夜總會》。買杯他們每週四都會送來的鮮榨蘋果汁。潮爽的。
+
+**控制室：** 今天是星期三喔。
+
+**D-6183：** 你這是想把我這一整天就這麼毀掉嗎？
+
+**控制室：**  如果我說不，你還能再很自然的接著開一個玩笑嗎？
+
+**D-6183：** 不。
+
+**控制室：** 好的，那麼，我沒有想要把你這一整天就這麼毀掉。
+
+**D-6183：** 我很確定，因為這對你來說很自然對吧？
+
+**控制室：** //<嘆氣>//
+
+**D-6183：** 不過認真的，這地方到底是怎樣？太他媽空了吧。而且還非常乾淨，地上連一點擦痕都沒有。嗡嗡聲也不只是嗡嗡聲，我現在終於明白了。
+
+**控制室：** 你能說得更具體些嗎？
+
+= //<靜默。>//
+
+**D-6183：** 嗯？
+
+**控制室：** D-6183，你在嗎？
+
+**D-6183：** 還在，抱歉。嗡嗡聲。對，嗡嗡聲。那不僅僅只是一種聲音，那是種體感。跟黑暗有關的東西。那比普通的空氣都更濃，我呼吸時還能感受到那在胸口的震動。
+
+**控制室：** 如果你開始感到頭░目眩，請告知我們。
+
+= //<該員沒有回應，只是繼續走道朝光源走去。D-6183連接突然中斷，部分原因可能是該員距離指揮室的距離過遠了。音訊在10秒後成功重新連起。>//
+
+**D-6183：** [靜電音] ──感覺我的頭被鉗子夾住了。 [靜電音] ──全身都有針扎。
+
+**控制室：** 我們剛剛短暫失去了與你的聯繫，你能重複你剛剛所說的話嗎？
+
+**D-6183：** 我就說了我的頭爆幹痛。我無法思考。而且還全身刺痛......等等，這他媽三小？
+
+**控制室：** 我們剛剛還失去了影像的訊號，請試著給出更多描述......
+
+**D-6183：** 那他媽是我的手！它是由......蠟燭做成的......那甚至有個貫穿中指的燭芯。天啊我感覺不到我的手了。到底是怎樣啊？
+
+**控制室：** 你確定──？
+
+**D-6183：** 我確定？我剛剛折斷了我的一根手指。一點感覺也沒有。幹你娘，我想我快吐了了。我......哦天啊......
+
+**控制室：** 我們現在要啟動你的回收繩索了。不要再拔你的任何手指了。無論是臘質還怎樣都是。確保你的罩子有拉上了，以免被摩擦灼傷。▚▍
+
+**D-6183：** 我沒有出血。我不認為這是......可修復的。請讓我離開這裡吧。如果我們離開得夠快，我還能趕上看《可可夜總會》的時間呢。
+
+**控制室：** 你應該會在五秒後感受到劇烈的拉扯。
+
+= //<控制室授權啟動D-6183的回收繩索，回收繩索是由絞盤驅動，能以每小時10公里的速度將綑綁人員或測試者自敵意環境中回收。絞盤在通電後迅速纏繞收繩，但纜繩卻未被收緊，D-6183配備麥克風也沒有傳來預期的騷動聲。>//
+
+**控制室：** D-6183，你有沒有把繩子拴好？
+
+**D-6183：** 喔──嘿，抱歉我......我剛剛失神了一下。你剛剛說了什麼？
+
+**控制室：** 我們正在按商量好的方式救援你，但我們擔心你的安全繩出問題了。你能確定它是否還繫在你身上嗎？
+
+= //<紀錄靜默。纜繩已經完整收回，發現繩索仍與基金會分配的D-6183穿著安全帶相連。>//
+
+**控制室：** D-6183，聽到請回答。
+
+**D-6183：** 我還在，發生什麼了？你為什麼無視我？把我拉出來。現在。求你了。
+
+**控制室：** 我們已經收回了你的安全帶，你是把它摘下來了嗎？
+
+**D-6183：** 沒有啊。
+
+**控制室：** 你現在狀態如何？
+
+**D-6183：** 我現在──啊，好的，我發現問題所在了。
+
+**控制室：** 喔？
+
+**D-6183：** 耶。我的上半身消失了耶。這是什麼時候的事啊？
+
+**控制室：** 你......聽起來沒那麼在乎的樣子。
+
+**D-6183：** 我有擔心。好吧，我原本有擔心，但那是在我，呃，開始變成蠟燭和，呃......他媽的，義大利寬麵之前。
+
+**控制室：** 不好意思，義大利寬麵？
+
+**D-6183：** 那是一種義大利麵。
+
+**控制室：** 我知道。只是你剛剛從未提過任何跟義大利麵有關的事情。
+
+**D-6183：** 是囉，嗯哼，感覺時間在這裡走的速度不一樣，好像我可以看到▃ ▊ ▄ ▜▜ ▏▆ ▜▞ ▍▐ ▂▚▟也能看到我。有時候你說話說得很慢，有時又快到我幾乎跟不上。其他時候你甚至完全不鳥我。我也意識到了，我在這裡並不孤單。從來都不孤單。
+
+**控制室：** 誰跟你一起？
+
+**D-6183：** 我。我的碎片，還有其他人的碎片。這麼多的小碎片就在這些黑雲裡。你......你吸收它們，它們填補了被抹消的空白。被刪除掉。
+ 
+就像是一千塊拼圖，每塊都有缺角的部分，然後都一起扔進了盒子裡。拼圖確實可以完成，但畫面終究是拼湊出來的結果。我能感覺到這裡有數百人在下面面。他們都在等待。等待死亡，但死亡卻從未到來。這個結構有缺陷，輪子已經壞掉了，鏡子照映出了負像。平等而相反的力量。為什麼會感覺如此熟悉？我是誰？
+
+**控制室：** 你還能動嗎？
+
+**D-6183：** 能。呃，不能，呃，算能吧。我可以向某些方向移動。比如說吧，向樓梯間移動就可以。要是我試圖離開這條走廊，我就會開始失去自己的一部分。我能感覺到，那很疼。
+
+我想──我想我已經被標記了。這就是為什麼我不能離開。不能從那裡離開。
+
+**控制室：** 這是什麼意思？
+
+**D-6183：** 我得到了巨大的晉升。
+
+**控制室：** 晉升？D級沒有......什麼晉升的。
+
+**D-6183：** 那就更有理由接受了。他們甚至還分配給我一個超重要的任務。
+
+**控制室：** 那這個超重要任務究竟是要？
+
+**D-6183：** 傳遞訊息。
+
+= //<音訊在不久後丟失，並且在也沒有回復。在探索分析中，從錄製影像中回收了一組嚴重毀損的畫面。D-6183，原名[已刪除]，已判定為行動中失蹤。更進一步的通訊嘗試只會產生混雜的結果。>//
+
+@@ @@
+
+@@ @@
+
+[[=]]
+[[collapsible show="+ 查看回收影像" hide=" "]]
+[[div class="escape"]]
+[[include component:image-block
+|name=https://scp-wiki.wdfiles.com/local--files/scp-6183/finality.png
+|caption=已知該員最終位置。
+|width=100%
+|align=center
+]]
+@@ @@
+
+@@ @@
+
+@@ @@
+
+@@ @@
+
+[[/div]]
+[[div class="cover"]]
+[[/div]]
+[[/collapsible]]
+[[/=]]
+
+@@ @@
+
+[[/div]]
+[[/hcell]]
+[[/row]]
+[[row]]
+[[hcell]]
+«抄錄結束»
+[[/hcell]]
+[[/row]]
+[[row]]
+[[hcell]]
+[[/hcell]]
+[[/row]]
+[[/table]]
+[[/div]]
+[[/div]]
+@@ @@
+@@ @@
+[[div class="admo-end_card table4"]]
+[[div class="admo-credits"]]
+[[div]]
+++ [[span class="ctrl"]]ADMO[[/span]]
+[[/div]]
+[[div]]
+[[span class="cond"]]@@ @@ **BILLITH** @@ + @@ **MONTAGUEETC**謹獻[[/span]]
+[[/div]]
+[[/div]]
+
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[SCP-6182]]] | SCP-6183 | [[[SCP-6184]]] >>
+[[/=]]
+[[/div]]
+
+[[collapsible show="» 查看注腳 «" hide="« 隱藏注腳 »"]]
+[[div class="notation" style="padding: 0.5rem; font-size: 0.9em;"]]
+[[<]]
+++++ @@      @@ FOOTNOTES & REFERENCES
+# 應[已刪除]要求。
+# 宇宙總能量與物質的全狀態集合，理論上可在所述時間線的初始條件（即任何事物、任何地點、任何時間）下加以訪問。
+# **Infrared：** 項目能造成/正在造成的擾動程度無法識別。 **Cryptic：** 項目能造成/正在造成的危險程度無法識別。
+# **Radix：** 項目已納入了基金會的指揮結構。
+# 異常透過對現實的壓倒影響、純粹數量等因素的結合，使常態與面紗的維持變得不再可能。
+# 根據刪除部特工觀測與描述原理模擬結果顯示，該領域組成與[[[SCP-6747]]]-A1近似。
+# 一盞不可摧毀的檯燈，先前曾放置於賴特博士的辦公室內。
+# 現已歸定為SCP-3333-D^^2^^。
+# 例如帶有領夾式麥克風的便攜發信器。
+[[/<]]
+[[/div]]
+[[/collapsible]]
+
+[[div style="height: 10px;"]]
+[[/div]]
+[[include :scp-zh-tr:component:license-box
+|author=Billith, MontagueETC, & Liryn]]
+[[<]]
+=====
+> **Filename:** Infrared.svg
+> **Author:** [[*user MontagueETC]]
+> **License:** CC BY-SA 3.0
+=====
+> **Filename:** Cryptic.svg
+> **Author:** [[*user MontagueETC]]
+> **License:** CC BY-SA 3.0
+=====
+> **Filename:** Radix.svg
+> **Author:** [[*user MontagueETC]]
+> **License:** CC BY-SA 3.0
+> **Derivative of:**
+> -----
+> **Name:** Radix.svg
+> **Author:** [[*user Enderman_desu]]
+> **License:** CC BY-SA 3.0
+> **Source Link:** [[[http://scp-jp-storage.wikidot.com/file:6759963-214-lh87 | SCP JP Storage]]]
+=====
+> **Filename:** stares.png
+> **Author:** [[*user MontagueETC]]
+> **License:** CC BY-SA 3.0
+> **Derivative of:**
+> -----
+> **Name:** facilis descensus Averno
+> **Author:** [[[https://www.flickr.com/photos/wonderferret/ | wonderferret]]]
+> **License:** CC BY 2.0
+> **Source Link:** [[[https://www.flickr.com/photos/wonderferret/82444866/ | Flickr]]]
+=====
+> **Filename:** server.png
+> **Author:** [[*user Billith]] & [[*user MontagueETC]]
+> **License:** CC BY-SA 3.0
+> **Derivative of:**
+> -----
+> **Name:** Rack001.jpg
+> **Author:** Jfreyre
+> **License:** CC BY-SA 3.0
+> **Source Link:** [[[https://commons.wikimedia.org/wiki/File:Rack001.jpg | Wikimedia Commons]]]
+> -----
+> **Name:** mnes.png
+> **Author:** [[*user Billith]]
+> **License:** CC BY-SA 3.0
+=====
+> **Filename:** room.png
+> **Author:** [[*user MontagueETC]]
+> **License:** CC BY-SA 3.0
+> **Derivative of:**
+> -----
+> **Name:** Stairs in the darkness
+> **Author:** [[[https://www.flickr.com/people/underscript/ | Andrey]]]
+> **License:** CC BY 2.0
+> **Source Link:** [[[https://www.flickr.com/photos/underscript/16934987446 | Flickr]]]
+=====
+> **Filename:** blackbox.png
+> **Author:** [[*user Liryn]]
+> **License:** CC BY-SA 3.0
+> -----
+> **Name:** Descent
+> **Author:** It's No Game
+> **License:** CC-BY 2.0
+> **Source Link:** [https://www.flickr.com/photos/duncanh1/11276337644/ Flickr]
+=====
+> **Filename:** rsm.png
+> **Author:** [[*user Billith]]
+> **License:** CC BY-SA 3.0
+=====
+> **Filename:** admo-6183-tunnel.jpg
+> **Author:** [[*user Billith]]
+> **License:** CC BY-SA 3.0
+> -----
+> **Name:** Descent
+> **Author:** It's No Game
+> **License:** CC-BY 2.0
+> **Source Link:** [https://www.flickr.com/photos/duncanh1/11276337644/ Flickr]
+=====
+> **Filename:** 1e
+> **Author:** [[*user Billith]]
+> **License:** CC BY-SA 3.0
+> **Derivative of:**
+> -----
+> **Name:** Stairs
+> **Author:** Robin Fensom
+> **License:** CC-BY 2.0
+> **Source Link:** [https://www.flickr.com/photos/robinfensom/2261721990/ Flickr]
+=====
+> **Filename:** deepwell.png
+> **Author:** [[*user Billith]]
+> **License:** CC BY-SA 3.0
+> **Derivative of:**
+> -----
+> **Name:** downstairs
+> **Author:** glasseyes view
+> **License:** CC BY-SA 2.0
+> **Source Link:** [https://www.flickr.com/photos/axelhartmann/9288312316/ Flickr]
+=====
+> **Filename:** finality
+> **Author:** [[*user Billith]]
+> **License:** CC BY-SA 3.0
+> **Derivative of:**
+> -----
+> **Name:** Silence in.jpg
+> **Author:** VA Photography
+> **License:** CC BY-SA 4.0
+> **Source Link:** [https://commons.wikimedia.org/wiki/File:Slience_in.jpg Wikimedia Commons]
+=====
+> **Filename:** darkplace.mp3
+> **Author:** [[*user Billith]]
+> **License:** CC BY-SA 3.0
+=====
+> **Filename:** hall1.png
+> **Author:** [[*user Billith]]
+> **License:** CC BY-SA 3.0
+> **Derivative of:**
+> -----
+> **Name:** T.K. Mc
+> **Author:** Down the Hall
+> **License:** Public Domain
+> **Source Link:** [https://www.flickr.com/photos/189605865@N06/51669003803/ Flickr]
+=====
+=====
+[[/<]]
+[[include :scp-zh-tr:component:license-box-end]]
+
+[[/div]]
+[[html]]
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.0/jquery.min.js"></script>
+<audio onloadeddata="var music = this; setTimeout(function() { music.play(); }, 242000)" loop>
+    <source src="https://scp-wiki.wdfiles.com/local--files/goblincon-6183-billith-montagueetc-liryn/darkplace.mp3" type="audio/mp3" />
+</audio>
+
+[[/html]]

@@ -1,0 +1,67 @@
+[[include info:start]]
+原文：[https://scp-wiki.wikidot.com/thaumiel Project Thaumiel]
+作者：[[*user TroyL]]
+譯者：[[*user Mang Gwan]]
+[[include info:end]]
+
+> 需要進一步核准。
+> 
+> //現在請輸入密碼//：
+> 
+> **黑月是否嚎叫？**
+
+> 否，但麻雀之鳴悅耳動聽。
+
+> ... 不正確。
+> 
+> //現在請輸入密碼//：
+> 
+> **黑月是否嚎叫？**
+
+> 是，但僅於凜冬之中。
+
+> ... 不正確。
+
+> 讓我進去
+
+> 需要進一步核准。
+> 
+> //現在請輸入密碼//：
+> 
+> **黑月是否嚎叫？**
+
+> 界面已停止操作三分鐘。請問你是否需要協助？
+
+> 否
+
+> 請問你是否打算繼續連線？
+
+> 是
+
+> 只在月虧之時。
+
+> //請站離界面及把雙手放在頭上。你沒有查閱**檔案狀態：[[span class="ruby"]]Thaumiel[[span class="rt"]]雙極神[[/span]][[/span]]** 的權限//.
+> 
+> 維安人員會盡快前往協助。
+> 
+> 請勿作出抵抗。
+
+> * [[[Clavis]]]
+> * [[[Corvus]]]
+> * [[[Cygnus]]]
+> * [[[Lux]]]
+> * [[[Pila]]]
+> * [[[Rota]]]
+> * [[[Virr]]]
+> * [[[Visium]]]
+ 
+> * [[[Capitis]]]
+> * [[[Exanimis]]]
+> * [[[Flos]]]
+> * [[[Illac]]]
+> * [[[Numerus]]]
+> * [[[Serus]]]
+> * [[[Umbra]]]
+
+[[include :scp-zh-tr:component:license-box |author=TroyL]]
+[[include :scp-zh-tr:component:license-box-end]]

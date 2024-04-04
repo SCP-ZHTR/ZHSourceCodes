@@ -1,0 +1,109 @@
+[[include info:start]]
+原文：[http://www.scpwiki.com/misterfrown-s-proposal-j MisterFrown's Proposal-J] 老套路
+作者：[[*user MisterFrown]]
+譯者：[[*user Frederica Bernkastel]]
+[[include info:end]]
+
+[[module css]]
+.footnotes-footer {
+display:none;
+}
+[[/module]]
+
+[[include :scp-wiki:component:image-block name=https://scp-wiki.wdfiles.com/local--files/scp-001/fractal-mka.jpeg|caption=SCP-001-J。]]
+
+**項目編號：** SCP-001-J
+
+**項目等級：** Non-Anomalous
+
+**特殊收容措施：** 由於SCP-001-J位於[[[SCP-001]]]檔案頁面之中，無須執行傳統的收容措施。相應的，應著重於替代方案的開發作業。
+
+**描述：** SCP-001-J是Berryman-Langford模因滅殺劑，此簡單圖像在橙色背景上描繪了一堆螺旋體，旨在保護SCP-001檔案頁面。
+
+儘管管理員和監督者議會一再堅持相反意見，已證實SCP-001-J完全無效且無法殺死任何生物，其唯一可觀察到的傷害形式，乃是對引起視力不佳或敏感人士的輕微不適感。由於各類SCP-001檔案缺乏任何功能防護，除了無法識別中心頂部警告為假的新員工以外，所有職員都能隨意閱讀所有提交的SCP-001提案，這代表著對基金會安全不可接受的破壞。
+
+SCP-001-J替代方案相繼提出，例如僱傭槍手射殺所有顯然滑到頁面底部過的人員，[[footnote]]相關人員在叛逃後成立了「[[[chaos-insurgency-hub|渾沌反叛軍]]]」，因為他們所聲稱的「健康福利不佳」問題。[[/footnote]]但都在隨後因總體而言不可行遭到否決。
+
+@@@@
+@@@@
+
+[[div style="background: url(http://scp-wiki.wdfiles.com/local--files/the-great-hippo/SCP_icon%281%29.png) top right no-repeat; float: center; border: solid 3px #444444; width: 85%; padding: 1px 15px; margin: auto; margin-top: 10px; margin-bottom: 10px; box-shadow: 0 1px 3px rgba(0,0,0,.2);"]]
+[[table style="align:left; margin-top: 10px;"]]
+[[row]]
+[[hcell style="text-align:right"]]
+**自：**
+[[/hcell]]
+[[cell]]
+##red|@@administrator@overwatch.scp.int@@##
+[[/cell]]
+[[/row]]
+[[row]]
+[[hcell style="text-align:right"]]
+**致：**
+[[/hcell]]
+[[cell]]
+職員（群體發送）
+[[/cell]]
+[[/row]]
+[[row]]
+[[hcell style="text-align:right"]]
+**主旨：**
+[[/hcell]]
+[[cell]]
+好啦，就這樣。
+[[/cell]]
+[[/row]]
+[[row]]
+[[hcell style="text-align:right"]]
+**日期：**
+[[/hcell]]
+[[cell]]
+23/05/13
+[[/cell]]
+[[/row]]
+[[/table]]
+-----
+
+致全體職員，
+
+Berryman-Langford模因滅殺劑的失敗，被認為是我作為基金會管理員最大的遺憾。不過經過深思熟慮，我終於想出了合適的解決方案，以確保SCP-001檔案能得到一勞永逸的保護。
+
+[[=]]
+
+[[collapsible show="開啟附錄" hide="關閉附錄"]]
+
+[[=]]
+
+[[image https://www.publicdomainpictures.net/pictures/290000/velka/mountains-hiking-1548857055lt4.jpg]]
+
+[[/=]]
+
+[[/collapsible]]
+
+[[/=]]
+
+----
+
+管理員
+控制、收容、保護[[/div]]
+
+@@@@
+@@@@
+
+[[include :scp-zh-tr:component:license-box
+|author=MisterFrown
+]]
+=====
+> **Filename:** fractal-mka.jpeg
+> **Name:** Feather fractal
+> **Author:** Kevin Dooley
+> **License:** CC BY 2.0
+> **Source Link:** [[[https://www.flickr.com/photos/pagedooley/36578381671|Flickr]]]
+
+> **Filename:** mountains-hiking-1548857055lt4.jpg
+> **Name:** Mountains In Winter, Hiking
+> **Author:** George Hodan
+> **License:** CC0 Public Domain
+> **Source Link:** [[[https://www.publicdomainpictures.net/en/view-image.php?image=282436&picture=mountains-hiking|PublicDomainPictures]]]
+=====
+[[include :scp-zh-tr:component:license-box-end]]

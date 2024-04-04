@@ -1,0 +1,6 @@
+image: 'https://i.imgur.com/h9b27cd.jpg'
+owner: 湊有希祐
+owner-wiki: 'minatoyukiyo '
+license: '0'
+other-license: ''
+note: ''

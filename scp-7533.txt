@@ -1,0 +1,177 @@
+[[div style="display: none;"]]
+[[include :scp-wiki:theme:flopstyle-dark]]
+[[/div]]
+[[include component:scp-meta-title-hiding css-style=modern]]
+[[module CSS]]
+ :root{
+    /* -- TITLES -- */
+    --header-title: "SCP基金會";
+    --header-subtitle: "控制 · 收容 · 保護";
+}
+
+.byline span:nth-of-type(2):before{
+     content: "⧗"
+}
+.byline span:nth-of-type(2):after{
+     content: ""
+}
+[[/module]]
+
+[[div class="anchor"]]
+[[div class="authorbox tableb"]]
+[[module ListPages name="="]]
+||~ %%title%% ||
+||= [[span class="bt bb"]] 作者 [[/span]] [[*user NecroKitten]] ||
+||~ 發佈於17 Oct 2022||
+[[/module]]
+
+[[/div]]
+[[/div]]
+
+[[include info:start]]
+**篇名︰**SCP-7533 -- **N是「霓虹」（Neon）**
+**作者 :** [[*user NecroKitten]]
+**譯者：**[[*user helloahuman]]
+**原文：**[[http://scp-wiki.wikidot.com/scp-7533 SCP-7533 - N is for Neon]]
+[[include info:end]]
+
+[[div class="byline"]]
+[[span]] NecroKitten著 [[/span]]
+[[span]] 閲讀需時5分鐘 [[/span]]
+[[/div]]
+
+[[div class="anom-bar-esoteric"]]
+[[include :scp-zh-tr:component:customizable-acs
+|item-number= SCP-7533
+|clearance=2
+|container-class= euclid
+|containment-image= https://scp-wiki.wdfiles.com/local--files/component%3Aanomaly-class-bar/euclid-icon.svg
+|container-color= 255, 145, 175
+|disruption-class= vlam
+|disruption-image= https://scp-wiki.wdfiles.com/local--files/component%3Aanomaly-class-bar/vlam-icon.svg
+|disruption-color= 255, 145, 175
+|inc-disruption= --]
+|risk-class= 謹慎
+|risk-image= https://scp-wiki.wdfiles.com/local--files/component%3Aanomaly-class-bar/caution-icon.svg
+|risk-color= 255, 145, 175
+|inc-risk= --]
+|risk-text= 風險等級：
+|item-text= SCP-
+|level-text= 等級
+|clearance-number-text= 2
+|clearance-text= 保密
+|containment-text= 收容等級：
+|disruption-text= 瓦解等級：
+|secondary-text= Secondary Class:
+|inc-custom-text= --]]]
+[[/div]]
+
+[[include :scp-zh-tr:component:acs-animation]]
+
+[[include :scp-wiki:component:image-block-peppo
+|name=http://scp-wiki.wikidot.com/local--files/scp-7533/7533Main
+|caption=SCP-7533棲息的街道
+|width=300px
+]]
+
+**項目編號：**SCP-7533
+
+**項目等級：**Euclid
+
+**特殊收容措施：**由於SCP-7533的異常性質，使得項目難以被收容。機動特遣隊Ifalos-Rho「致命陷阱」將持續追蹤SCP-7533，並將其行蹤向研究人員匯報。項目棲息地已受到基金會以適當措施封鎖並限制其擴張。 
+
+任何情況下都嚴禁人員與SCP-7533互動，任何進入項目棲息地，並意圖與異常或其影響交流者都視為已丟失。
+
+一旦人員遭遇了異常、具吸引力、引人注目或與預期現實不一的現象時，應立即向最近的醫療室回報，並在事後向你的上司回報。
+
+**描述：**SCP-7533是一種形似深海鮟鱇成年體[[footnote]]未知物體的模糊或黑暗圖像。[[/footnote]]的生物，漫游於日本的各大都市。雖然SCP-7533傾向於在有充足食物的區域滯留，但項目多數時間都仍在那些人流較少的區域游蕩，如黑暗且狹窄的陋巷、鐵路系統及維護用隧道。
+
+當項目處於被動狀態下，SCP-7553以具有明顯折射現象的無形空間顯現，類似被粉紅色陰影所籠罩的熱柏油。當項目進入主動狀態以進行捕食行為時，項目將現形並可見。
+
+SCP-7533的實際大小未知。經測量後，估計其長度達2.1-2.3米。與其他正常個體一樣，SCP-7533的視力較差。而與正常個體不同的是，項目擁有超正常尺寸的牙齒及冷發光的後背。SCP-7533用於捕食的「誘餌」類似一個發散著柔和粉光的煤油燈，與霓虹燈光一致。此「誘餌」所發出的光芒會輕微波動，但其輪廓仍然不變。在目前的紀錄中，這些光芒皆呈貝克·米勒粉紅色[[footnote]]又稱P-618，肖斯粉紅及拘留室粉紅。此色彩被觀測到具有減少惡意、暴力或攻擊性行為的能力。[[/footnote]]ₒ
+
+SCP-7533主要以大型動物及被異常現象吸引的生物（主要是人類）為食。即使其視力較差，SCP-7533之狩獵能力依然良好。當獵物靠近時，項目能高速衝刺，但其將迅速陷入疲勞。由於此限制，SCP-7533傾向於潛伏於一個合適的位置並吸引獵物接近。這對SCP-7533相對簡單。
+
+SCP-7533所發出的粉光已證實具有認知危害，能有效削弱及操縱其獵物，其影響範圍目前仍然未知。暴露在粉光下時，人員將出現恐懼、焦慮、不安、困惑、畏怯等表現、以及幻視、幻聽和類似海市蜃樓的幻覺，這使得人員將在不知情的情況下接近SCP-7533，以便捕食。
+
+值得注意的是，人員遭遇SCP-7533所產生的幻覺是僅限個人的，因此可以透過幻覺中的矛盾之處來分辨現實及幻覺。目前仍待觀察此異常效應是用於捕食，還是保護自身。
+
+**附錄7533.1 - 發現紀錄**
+
+18/4/2018，伊藤雛田的死亡引起了基金會對SCP-7533的關注。當時陪同伊藤雛田的中村明將項目之存在回報至當地警方。隨後潛伏的基金會特工迅速察覺並控制了項目。在檢視了中村明手機内的影像紀錄後，基金會認為有必要進行監控及收容工作。
+
+以下影像紀錄已由日文轉錄並轉譯至中文。
+
+[[collapsible show="開啟" hide="關閉"]]
+**發現過程的影像紀錄：**
+
+[[div class="blockquote" style="border-radius: 10px; margin: 10px"]]
+**來源：**從中村明的手機中恢復的影像紀錄，拍攝於18/04/2018。
+
+**目擊者：**中村明及伊藤雛田（已死亡）
+-----
+
+[紀錄開始]
+
+//紀錄開始，一個正在大笑的高大男性出現，目前推測是伊藤雛田。他行走在日本澀谷一個充滿耀眼霓虹燈光的小巷。明顯地，伊藤雛田處於醉酒狀態。可以聽見中村明和他的朋友有説有笑。//
+
+**伊藤雛田：**你有聽到那些聲音嗎？這些嗡嗡聲太吵了，看來有些人需要修一下他們的霓虹招牌了，哈哈！
+
+**中村明：**兄弟，我沒聽到欸。或許我需要再喝點！哈哈哈！
+
+//他們的笑聲回蕩在小巷裏，攝影機展示了各式各樣，不同顏色的霓虹燈。情趣酒店招牌上的箭頭指向後巷的更深處，帶有強烈色彩的的商店招牌正在閃爍。當他們走至小巷的更深處時，燈光的顔色開始變為單一的粉紅色。//
+
+**伊藤雛田：**哇哦！這些燈發生什麽事了？你不覺得這很像一些情趣酒店裏面會有的情景嗎？明，你要不要跟我一起進去酒店看一下？ //他笑了，在攝像機前擺出親吻的姿勢。//
+
+**中村明：**//大笑。//別説幹話了，不過一些酒店真的是挺瘋狂的。上次春和她朋友住的那家酒店房間裏有恐龍，甚至還有**整個**泳池在裏面。
+
+**伊藤雛田：**什麼？真的嗎？太爽了吧。//他望向攝像機遠處並熱情地指向一個正在高速閃爍的粉紅色霓虹箭頭標示。//一起跟著它走吧！我覺得裏面肯定有好康的。
+
+//伊藤雛田走到了小巷內其中一個黑暗的岔路。隨後，他在一個小屋的前面停下了。小屋的窗戶充滿了詭異的明亮粉紅色，光芒甚至從小屋内溢出來了。//
+
+**伊藤雛田：**門是開著的！一起進去看看。
+
+**中村明：**//（緊張地）//兄弟，我不知道，但這裏看起來有點危險。我有些不祥的預感。
+
+//在中村明説完之前，伊藤雛田已經打開了小屋的門，並已經進入小屋，隨著燈光前進。//
+
+**伊藤雛田：**來嘛！大膽點！
+ 
+//中村明嘆了一口氣，然後小心地跟著伊藤雛田前進。攝像機緩慢地環繞了房間一圈，鮮艷的粉紅色牆紙及粉紅色塗鴉覆蓋了整個房間，包括地板和天花板。//
+
+**中村明：**這也太//粉//了吧？哪個正常人會喜歡 -- 嘿老兄，別走得那麽深！這個地方讓我感到毛骨悚然。
+
+//遠方傳來了伊藤雛田的腳步聲及他的聲音。他的聲音開始產生回音。//
+
+**伊藤雛田：**來嘛，快點！你一定要看看這地方！這裏好像一些遊樂場的後院。我覺得這可能是一些性愛店鋪或者情趣酒店的倉庫。//他的笑聲在走廊內回蕩。//
+
+//中村明走進小屋的走廊。不同大小的鏡子在牆上排列整齊，而雜亂的繩燈則在天花板上彎曲地延伸至深處。當他在看著鏡子時，影像出現了微弱的閃光以及短暫的雜訊。中村明突然皺眉並輕輕地搖頭，可見其感到困惑。影像中未見伊藤雛田，但仍然可以聽到他的聲音在遠處傳來。他呼喚中村明下來地下室，但在一聲刺耳的尖叫後陷入沉默。//
+
+//中村明迅速地前往黑暗的地下室，並在途中呼喚伊藤雛田。影像開始變得模糊，只能聼見因下樓梯而產生的腳步聲。隨著中村明越來越接近地下室，霓虹燈所發出的嗡嗡聲變得越來越大聲。//
+
+//由於攝像機掉落至地上，驚恐的尖叫被打斷了。隨後，中村明拿起了攝影機，可以聽見正在顫抖的呼吸及低聲的咒駡。由於場景的黑暗和剛才的跌落，攝像機的焦點轉移至遭嚴重扭曲的霓虹燈光，以及伊藤雛田屍體的輪廓。影像內可以聽到一個迅速，微弱的折斷聲，這是因SCP-7533吞噬了伊藤雛田的頭顱而產生的。隨後，SCP-7533迅速消失。//
+
+//影像紀錄中可以聽見劇烈的呼吸聲。霓虹燈光的嗡嗡聲充滿了被粉紅色燈光覆蓋的地下室。手機被倉促地晃動並關閉，影像紀錄隨之結束。//
+
+
+[[include component:image-block
+| name=http://scp-wiki.wikidot.com/local--files/scp-7533/HinataEdit
+| caption=伊藤雛田的最後已知圖像
+| width=300px
+| align=middle]]
+
+[紀錄結束]
+[[/collapsible]]
+[[/div]]
+
+自警方回收影像紀錄，中村明已經正常程序施以記憶刪除並失去了一切有關此次事故的記憶。伊藤雛田的屍體已被基金會人員回收並處理。
+
+[[footnoteblock]]
+
+
+[[include :scp-wiki:component:earthworm
+| first=false| last=false | hub=yes
+| previous-url=/scp-7470| previous-title=M是「月光」
+| next-url=/scp-7559| next-title=O是「器官」
+| hub-url=/scp-anthology-hub | hub-title=SCP驚選集中心頁
+]]

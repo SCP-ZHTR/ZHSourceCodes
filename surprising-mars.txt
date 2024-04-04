@@ -1,0 +1,81 @@
+[[include :scp-zh-tr:theme:space]]
+[[module CSS]]
+:root:lang(zh) {
+    --header-subtitle: "紙貓貓的火星基地";
+}
+.translate-list h5 {
+    margin-left: 20px;
+}
+.translate-list ul {
+    margin-left: 10px;
+}
+
+.bibcite:before {
+    content: "徽章";
+}
+.bibcite {
+    color: rgb(var(--space-moon));
+}
+.reference .r-heading {
+    display: none;
+}
+.reference .r-content img {
+    display: block;
+    margin: auto;
+}
+.reference .r-footer {
+    display: none;
+}
+.bibitem{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+[[/module]]
+
+[[include info:start]]
+作者：[[*user surprising_mars]]
+篇名：紙貓貓的火星基地
+[[include info:end]]
+
+[[tabview]]
+[[tab 翻譯]]
+[[div class="translate-list"]]
++++ 項目
+* [[[scp-175|SCP-175 - 藏寶圖]]]
+* [[[scp-488|SCP-488 - 吸引流星的人]]]
+* [[[scp-1360|SCP-1360 - 遊隼系列機器人31號]]]
+* [[[scp-1565|SCP-1565 - 火星龜]]] [((bibcite 2023ZHhonglam2))]
+* [[[scp-7179|SCP-7179 - E是「永恆」（Eternity）]]]
+* [[[scp-7290|SCP-7290 - 地獄子彈]]]
+* [[[scp-7409|SCP-7409 - 世界已逝]]] [((bibcite 2023ZHjamcon))]
+----
++++ 故事
++++++ 安德森機器人 - 遊隼系列
+* [[[peregrine|遊隼]]]
+* [[[last-meetings|最後的見面]]]
+[[/div]]
+[[/tab]]
+[[tab mars.aic]]
+> **名稱：**mars.aic
+>
+> **暱稱：**紙貓貓、紙貓咪
+>
+> **職位：**Site-ZH-11通用aic
+**特點：**mars.aic能操作各類電子設備，且因Site-ZH-11需要處理大量機密文件，mars.aic擅於文書相關工作，並具備最先進的資訊安全防護技術。
+
+**虛擬形象：**mars.aic常用的虛擬形象是摺紙貓咪，其主體為鵝黃色，但鼻尖、脖頸、四肢末端及尾部呈白色；有時會於背部模擬出外側為鵝黃色、內側為白色的翅膀。
+
+**性格：**正向、溫和、冷淡。
+
+**行事：**公事公辦。關乎他人的事會優先考量對方的建議。收到請求時會依照關係決定，關係好的話通常不違反規定都會同意。
+
+**人際關係：**對陌生人的初始態度為友善，然後好感度隨對方態度跟相處時間增加。
+[[/tab]]
+[[tab 徽章]]
+[[bibliography title=""]]
+: 2023ZHjamcon : [[image https://i.imgur.com/hAvO2cL.png width="150px"]][[[jamcon-zh-2023|拜請！高速寶山大王：繁中急迫競賽 2.0 - 月亮女巫獎]]]
+: 2023ZHhonglam2 : [[image https://i.imgur.com/cFaO3wM.gif width="150px"]][[[honglam-battle-2-0|《癌又又蝟鴨：紅藍爭霸戰2.0》 - 翻譯號！特別獎章]]]
+[[/bibliography]]
+[[/tab]]
+[[/tabview]]

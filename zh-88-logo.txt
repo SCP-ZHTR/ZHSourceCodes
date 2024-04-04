@@ -1,0 +1,85 @@
+[[include :scp-wiki:theme:monotypical]]
+[[module CSS]]
+:root {
+    --linkColor: #88C0D0;
+
+    --primaryBackgroundColor: #FFFFFF;
+    --secondaryBackgroundColor: #E5E9F0;
+    --tertiaryBackgroundColor: #D8DEE9;
+    --borderColor: #4C566A;
+
+    --shadow: rgba(46,52,64,0.25);
+
+    --selectionColor: #EBCB8B;
+    --textColor: #2E3440;
+    --textColor-alt: #434C5E;
+}
+#side-bar, #license-area {
+    --secondaryBackgroundColor: #2E3440;
+    --tertiaryBackgroundColor: #434C5E;
+    --textColor: #D8DEE9;
+}
+ 
+    /*----- Technical Variables -----*/
+ 
+    --body-font: 'Ubuntu', sans-serif;
+    --header-font: 'Century Gothic', 'Quicksand', sans-serif;
+    --header-title: 'SCP基金會';
+ 
+    --sidebar-width: 15rem;
+    --sidebar-timing: 0.275s ease-out;
+    --header-height: 3.5rem;
+    --page-content-width: 954px;
+ 
+    --radius-adjust: 0.95rem;
+    --link-timing: .125s ease-out;
+}
+[[/module]]
+[[>]]
+[[module rate]]
+[[/>]]
+[[include :scp-zh-tr:component:author-label-source start=--
+|name= Dr V Valentine
+|no-right-margin=*]]
+**標題：**Site-ZH-88的標誌
+**繪者：**[[*user Dr V Valentine]]
+**授權方式：**CC BY-SA 3.0
+[[include :scp-zh-tr:component:author-label-source end=--]]
+
+[[div class="meta-title"]]
+Site-ZH-88的標誌
+[[/div]]
+
+= [[image https://i.imgur.com/zRTGwj5.png height="400px"]]
+@@ @@
+----
+@@ @@
+[[div class="monoboxical"]]
+[[div class="meta-title"]]
+一些你也許能用到的變化
+[[/div]]
+> [[collapsible show="白底展示用版本" hide="白底展示用版本"]]
+> = [[image https://i.imgur.com/26RyFBG.png height="400px"]]
+> [[/collapsible]]
+
+> [[collapsible show="去背版本" hide="去背版本(基礎萬用的去背版本)"]]
+> = [[image https://i.imgur.com/plAW3Hw.png height="400px"]]
+> [[/collapsible]]
+
+> [[collapsible show="黑色版本" hide="黑色版本(也許會需要)"]]
+> = [[image https://i.imgur.com/maeaESP.png height="400px"]]
+> [[/collapsible]]
+
+> [[collapsible show="深色底部應用版本" hide="深色底部應用版本(多了一圈白圈，在深色中比較明顯)"]]
+> = [[image https://i.imgur.com/IAHkgqm.png height="400px"]]
+> [[/collapsible]]
+
+> [[collapsible show="20%濃度版本" hide="20%濃度版本(可以拿去當一些文件的背景)"]]
+> = [[image https://i.imgur.com/CqZpW7d.png height="400px"]]
+> [[/collapsible]]
+
+[[/div]]
+
+金融站點 Site-ZH-88 ，88或無限或銅錢或Art nouveau，大概至少我是這樣希望的。
+
+※如果有需要其他變化(其他色系，印章效果等)歡迎留言，有委託的話會在更新的

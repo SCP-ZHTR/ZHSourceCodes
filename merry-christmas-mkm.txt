@@ -1,0 +1,7 @@
+[[include :scp-wiki:theme:black-highlighter-theme]]
+
+[[include info:start]]
+作者：[[*user k1s10r0db00ne]]
+[[include info:end]]
+
+[[image https://imgur.com/GASBhwk.jpg]]

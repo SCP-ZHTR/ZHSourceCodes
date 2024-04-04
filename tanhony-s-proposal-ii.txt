@@ -1,0 +1,22 @@
+[[include info:start]]
+作者：[[*user Tanhony]]
+篇名：SCP-001 - Tanhony的提案之二
+原文：[https://scp-wiki.wikidot.com/tanhony-s-proposal-ii SCP-001 - Tanhony's Proposal II]
+譯者：[[*user Adev Drafaski]]，[[*user helloahuman]]
+[[include info:end]]
+
+
+[!--
+Fragments:
+http://scp-wiki.wikidot.com/fragment:tanhony-s-proposal-ii-1
+http://scp-wiki.wikidot.com/fragment:tanhony-s-proposal-ii-2
+http://scp-wiki.wikidot.com/fragment:tanhony-s-proposal-ii-3
+http://scp-wiki.wikidot.com/fragment:tanhony-s-proposal-ii-4
+http://scp-wiki.wikidot.com/fragment:tanhony-s-proposal-ii-5
+http://scp-wiki.wikidot.com/fragment:tanhony-s-proposal-ii-6
+http://scp-wiki.wikidot.com/fragment:tanhony-s-proposal-ii-7
+--]
+
+[[module ListPages category="fragment" parent="." limit="1" order="created_at" offset="@URL|0"]]
+%%content%%
+[[/module]]

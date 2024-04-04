@@ -1,0 +1,26 @@
+[[div class="warning warning-for-home-page" style="text-align: center; color: #600;"]]
+[[div class="unmargined"]]
+警告：基金會之資料庫為
+[[/div]]
+[[div class="unmargined" style="font-size: 400%; font-weight: bold; margin: 2px 0 5px;"]]
+機密情報
+[[/div]]
+[[div class="unmargined"]]
+禁止任何未經授權之存取
+違反者受到追蹤、定位並且拘禁
+[[/div]]
+[[/div]]
+
+[[div class="content-panel centered standalone"]]
+[[/div]]
+
+[[module css]]
+#page-title {
+    display: none;
+}
+
+.hr-main hr {
+    box-shadow: 0 1px 6px rgb(0 0 0 / 40%);
+    margin: 1.5rem 0;
+}
+[[/module]]

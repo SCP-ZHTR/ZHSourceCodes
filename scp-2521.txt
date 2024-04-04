@@ -1,0 +1,128 @@
+[[>]]
+[[module Rate]]
+[[/>]]
+
+[[include component:image-block name=http://scp-wiki.wdfiles.com/local--files/scp-2521/scp_number.jpg|caption=[[image http://scp-wiki.wdfiles.com/local--files/scp-2521/camera_icon.png style="width:50px;"]]]]
+[[image http://scp-wiki.wdfiles.com/local--files/scp-2521/scp.png style="margin: -10px 0px; width: 35px"]][[size 20px]]**-#:** ●●|##grey|●●●●●##|●●|##grey|●##[[/size]]
+@@@@
+@@@@
+[[image http://scp-wiki.wdfiles.com/local--files/scp-2521/keter.png style="width:100px;"]]
+~~~~~~~~
+----
+[[=image http://scp-wiki.wdfiles.com/local--files/scp-2521/lock2.png style="width:110px;"]]
+[[=image http://scp-wiki.wdfiles.com/local--files/scp-2521/documents4.png style="width:370px;"]]  
+[[=image http://scp-wiki.wdfiles.com/local--files/scp-2521/clearance6.png style="width:475px;"]] 
+----
+[[=image http://scp-wiki.wdfiles.com/local--files/scp-2521/info.png style="width:75px;"]]
+[[=image http://scp-wiki.wdfiles.com/local--files/scp-2521/physical6.png style="width:315px;"]]
+[[=image http://scp-wiki.wdfiles.com/local--files/scp-2521/intangible3.png style="width:350px;"]]
+[[=image http://scp-wiki.wdfiles.com/local--files/scp-2521/thought5.png style="width:550px;"]]
+-----
+[[=image http://scp-wiki.wdfiles.com/local--files/scp-2521/test_logs.png style="width:100px;"]]
+[[<image http://scp-wiki.wdfiles.com/local--files/scp-2521/a.png style="width:75px;"]]
+[[=image http://scp-wiki.wdfiles.com/local--files/scp-2521/test_a3.png style="width:660px;"]]
+[[<image http://scp-wiki.wdfiles.com/local--files/scp-2521/b.png style="width:75px;"]]
+[[=image http://scp-wiki.wdfiles.com/local--files/scp-2521/test_b2.png style="width:660px;"]]
+@@@@
+@@@@
+@@@@
+@@@@
+
+[[footnoteblock]]
+
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[SCP-2520]]] | SCP-2521 | [[[SCP-2522]]] >>
+[[/=]]
+[[/div]]
+
+[[include :scp-zh-tr:component:license-box
+|author=LurkD]]
+=====
+> **檔案名稱：**scp_number.jpg
+> **圖像作者：**LurkD
+> **圖像授權協議：**CC BY-SA 3.0
+> **圖源連結：**[[[http://scp-wiki.wikidot.com/scp-2521|SCP Wiki]]]
+> **衍生自：**
+> ------
+> **圖像名稱：**humantropy
+> **圖像作者：**Philip Ob Rey
+> **圖像授權協議：**Copyrighted（經許可後使用）
+> **圖源連結：**[[[http://www.humantropy.com/|Link]]]
+
+> **檔案名稱：**a.png
+> **圖像作者：**LurkD
+> **圖像授權協議：**CC BY-SA 3.0
+> **圖源連結：**[[[http://scp-wiki.wikidot.com/scp-2521|SCP Wiki]]]
+
+> **檔案名稱：**b.png
+> **圖像作者：**LurkD
+> **圖像授權協議：**CC BY-SA 3.0
+> **圖源連結：**[[[http://scp-wiki.wikidot.com/scp-2521|SCP Wiki]]]
+
+> **檔案名稱：**camera_icon.png
+> **圖像作者：**LurkD
+> **圖像授權協議：**CC BY-SA 3.0
+> **圖源連結：**[[[http://scp-wiki.wikidot.com/scp-2521|SCP Wiki]]]
+
+> **檔案名稱：**clearance6.png
+> **圖像作者：**LurkD
+> **圖像授權協議：**CC BY-SA 3.0
+> **圖源連結：**[[[http://scp-wiki.wikidot.com/scp-2521|SCP Wiki]]]
+
+> **檔案名稱：**documents4.png
+> **圖像作者：**LurkD
+> **圖像授權協議：**CC BY-SA 3.0
+> **圖源連結：**[[[http://scp-wiki.wikidot.com/scp-2521|SCP Wiki]]]
+
+> **檔案名稱：**info.png
+> **圖像作者：**LurkD
+> **圖像授權協議：**CC BY-SA 3.0
+> **圖源連結：**[[[http://scp-wiki.wikidot.com/scp-2521|SCP Wiki]]]
+
+> **檔案名稱：**intangible3.png
+> **圖像作者：**LurkD
+> **圖像授權協議：**CC BY-SA 3.0
+> **圖源連結：**[[[http://scp-wiki.wikidot.com/scp-2521|SCP Wiki]]]
+
+> **檔案名稱：**keter.png
+> **圖像作者：**LurkD
+> **圖像授權協議：**CC BY-SA 3.0
+> **圖源連結：**[[[http://scp-wiki.wikidot.com/scp-2521|SCP Wiki]]]
+
+> **檔案名稱：**lock2.png
+> **圖像作者：**LurkD
+> **圖像授權協議：**CC BY-SA 3.0
+> **圖源連結：**[[[http://scp-wiki.wikidot.com/scp-2521|SCP Wiki]]]
+
+> **檔案名稱：**physical6.png
+> **圖像作者：**LurkD
+> **圖像授權協議：**CC BY-SA 3.0
+> **圖源連結：**[[[http://scp-wiki.wikidot.com/scp-2521|SCP Wiki]]]
+
+> **檔案名稱：**scp.png
+> **圖像作者：**LurkD
+> **圖像授權協議：**CC BY-SA 3.0
+> **圖源連結：**[[[http://scp-wiki.wikidot.com/scp-2521|SCP Wiki]]]
+
+> **檔案名稱：**test_a3.png
+> **圖像作者：**LurkD
+> **圖像授權協議：**CC BY-SA 3.0
+> **圖源連結：**[[[http://scp-wiki.wikidot.com/scp-2521|SCP Wiki]]]
+
+> **檔案名稱：**test_b2.png
+> **圖像作者：**LurkD
+> **圖像授權協議：**CC BY-SA 3.0
+> **圖源連結：**[[[http://scp-wiki.wikidot.com/scp-2521|SCP Wiki]]]
+
+> **檔案名稱：**test_logs.png
+> **圖像作者：**LurkD
+> **圖像授權協議：**CC BY-SA 3.0
+> **圖源連結：**[[[http://scp-wiki.wikidot.com/scp-2521|SCP Wiki]]]
+
+> **檔案名稱：**thought5.png
+> **圖像作者：**LurkD
+> **圖像授權協議：**CC BY-SA 3.0
+> **圖源連結：**[[[http://scp-wiki.wikidot.com/scp-2521|SCP Wiki]]]
+=====
+[[include :scp-zh-tr:component:license-box-end]]

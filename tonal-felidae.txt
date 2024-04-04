@@ -1,0 +1,57 @@
+[[include :scp-wiki:theme:monotypical]]
+[[module CSS]]
+:root {
+    --linkColor: #88C0D0;
+
+    --primaryBackgroundColor: #FFFFFF;
+    --secondaryBackgroundColor: #E5E9F0;
+    --tertiaryBackgroundColor: #D8DEE9;
+    --borderColor: #4C566A;
+
+    --shadow: rgba(46,52,64,0.25);
+
+    --selectionColor: #EBCB8B;
+    --textColor: #2E3440;
+    --textColor-alt: #434C5E;
+}
+#side-bar, #license-area {
+    --secondaryBackgroundColor: #2E3440;
+    --tertiaryBackgroundColor: #434C5E;
+    --textColor: #D8DEE9;
+}
+ 
+    /*----- Technical Variables -----*/
+ 
+    --body-font: 'Ubuntu', sans-serif;
+    --header-font: 'Century Gothic', 'Quicksand', sans-serif;
+    --header-title: 'SCP基金會';
+ 
+    --sidebar-width: 15rem;
+    --sidebar-timing: 0.275s ease-out;
+    --header-height: 3.5rem;
+    --page-content-width: 954px;
+ 
+    --radius-adjust: 0.95rem;
+    --link-timing: .125s ease-out;
+}
+[[/module]]
+[[>]]
+[[module rate]]
+[[/>]]
+[[include :scp-zh-tr:component:author-label-source start=--
+|name= Dr V Valentine
+|no-right-margin=*]]
+**標題：**Meow!!Gwan
+**繪者：**[[*user Dr V Valentine]]
+**授權方式：**CC BY-SA 3.0
+[[include :scp-zh-tr:component:author-label-source end=--]]
+
+[[div class="meta-title"]]
+Meow!!Gwan
+[[/div]]
+
+= [[image https://i.imgur.com/F7X9eZK.png height="600px"]]
+@@ @@
+----
+@@ @@
+遲到的聖夜禮物，給可愛的[[*user Mang Gwan]]

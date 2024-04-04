@@ -1,0 +1,198 @@
+[[include info:start]]
+**原文：**[http://www.scp-wiki.net/component:scp-hover-box SCP Hover Box]
+
+**作者：**[[*user Woedenaz]]
+
+**譯者：**[[*user Viken-K]]
+[[include info:end]]
+[[module css]]
+h1, h2 {
+    text-align: center;
+}
+
+.help {
+    display: flex;
+    align-content: stretch;
+    padding-top: 1em;
+}
+
+.help blockquote {
+    margin: 0;
+    font-size: 85%;
+}
+
+.help blockquote > p {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    align-content: center;
+    margin-right: 0;
+    min-height: 2rem;
+    margin: 0;
+}
+
+.help blockquote > p * {
+    margin: 0 0.1rem;
+    height: 100%;
+}
+
+.help blockquote:nth-of-type(1) {
+    background: transparent;
+    border: unset;
+    box-shadow: unset;
+    text-align: right;
+    margin-right: 0;
+    padding: 0;
+}
+
+.help blockquote:nth-of-type(1) > p {
+    justify-content: flex-end;
+}
+
+.help blockquote:nth-of-type(2) {
+    margin-left: 1em;
+    width: 50%;
+}
+[[/module]]
+
+[[include :scp-zh-tr:component:scp-hover-box-styling]]
+
+[[include :scp-zh-tr:component:scp-hover-box-structure
+|container-number=one
+|corner-cutout=1em
+|container-bgcolor=rgba(252, 252, 252)
+|container-txtcolor=rgba(12, 12, 12)
+|container-hover-bgcolor=rgba(12, 12, 12)
+|container-hover-txtcolor=rgba(252, 252, 252)
+|container-stroke-color=rgba(244, 244, 244)
+|container-hover-stroke-color=rgba(180, 35, 35)
+|background-url=https://scp-wiki.wikidot.com/local--files/component:scp-hover-box/scp-2105.gif
+|background-vertical-position=30%
+|link-fill-color=rgba(252, 252, 252)
+|link-stroke-width=0.125rem
+|link-stroke-color=rgba(12, 12, 12)
+|anchor=4205
+|link=https://scp-wiki.wikidot.com/scp-4205
+|title=SCP-4205
+|sub-title=In the Eyes of the Beholder
+|blerb=**「如果你還記得我，我不在乎整個世界將我遺忘。」― 村上春樹，海岸上的卡夫卡**
+]]
+
++ 如何使用
+
+++ 1. 複製以下的代碼。
+++ 2. 跟隨著底下的指引。
+
++++ 只需要添加一次。
+> @@[[include :scp-zh-tr:component:scp-hover-box-styling]]@@
+
++++ 每當你要使用一個Hover Box時就添加一次。
+> @@[[include :scp-zh-tr:component:scp-hover-box-structure@@
+> @@|container-number=one@@
+> @@|corner-cutout=1em@@
+> @@|container-bgcolor=rgba(252, 252, 252)@@
+> @@|container-txtcolor=rgba(12, 12, 12)@@
+> @@|container-hover-bgcolor=rgba(12, 12, 12)@@
+> @@|container-hover-txtcolor=rgba(252, 252, 252)@@
+> @@|container-stroke-color=rgba(244, 244, 244)@@
+> @@|container-hover-stroke-color=rgba(180, 35, 35)@@
+> @@|background-url=http://www.scp-wiki.net/local--files/component:scp-hover-box/scp-2105.gif@@
+> @@|background-vertical-position=30%@@
+> @@|link-fill-color=rgba(252, 252, 252)@@
+> @@|link-stroke-width=0.125rem@@
+> @@|link-stroke-color=rgba(12, 12, 12)@@
+> @@|anchor=4205@@
+> @@|link=http://www.scp-wiki.net/scp-4205@@
+> @@|title=SCP-4205@@
+> @@|sub-title=In the Eyes of the Beholder@@
+> @@|blerb=**「如果你還記得我，我不在乎整個世界將我遺忘。」― 村上春樹，海岸上的卡夫卡**@@
+> @@]]@@
+
+[[div_ class="help"]]
+> 只需要在頁面的最上方include過一次就好了。 ↦
+> 
+> 
+> 引用組件的起始位置。**每使用一個區塊就要把這一整部份的代碼都貼上去。** ↦
+> 
+> 給予頁面中的每個方塊獨特的名字。**使用英文字，不要使用數字。** ↦
+> 
+> 角落被移除的量。//設置為0時是方形。// ↦
+> 
+> 游標**未**懸浮於上時的背景顏色//（接受 hex, rgb, rgba, hsl）// ↦
+> 
+> 游標**未**懸浮於上時的文字顏色//（接受 hex, rgb, rgba, hsl）// ↦
+> 
+> **當**游標懸浮於上時的背景顏色//（接受 hex, rgb, rgba, hsl）// ↦
+> 
+> **當**游標懸浮於上時的文字顏色//（接受 hex, rgb, rgba, hsl）// ↦
+> 
+> 游標**未**懸浮於上時的邊框顏色//（接受 hex, rgb, rgba, hsl）// ↦
+> 
+> **當**游標懸浮於上時的邊框顏色//（接受 hex, rgb, rgba, hsl）// ↦
+> 
+> 這個標題背景圖案的URL ↦
+> 
+> 標題圖片的垂直位置。預設為0。//（接受 px, rem, em, %）// ↦
+> 
+> 標題的文字顏色//（接受 hex, rgb, rgba, hsl）// ↦
+> 
+> 標題文字邊框的寬度//設置0為無邊線// ↦
+> 
+> 標題文字邊框的顏色//（接受 hex, rgb, rgba, hsl）// ↦
+> 
+> 如果包含了導覽，這可以用來設置錨點。 ↦
+> 
+> 文章的連結 ↦
+> 
+> 文章的標題 ↦
+> 
+> 文章的副標題 ↦
+> 
+> 打在底部的文字。 //可以使用格式。// ↦
+> 
+> 
+
+> [[include :scp-zh-tr:component:scp-hover-box-styling]]
+> 
+> 
+> [[include :scp-zh-tr:component:scp-hover-box-structure
+> 
+> |**container-number**=one
+> 
+> |**corner-cutout**=1em
+> 
+> |**container-bgcolor**=rgba(252, 252, 252)
+> 
+> |**container-txtcolor**=rgba(12, 12, 12)
+> 
+> |**container-hover-bgcolor**=rgba(12, 12, 12)
+> 
+> |**container-hover-txtcolor**=rgba(252, 252, 252)
+> 
+> |**container-stroke-color**=rgba(244, 244, 244)
+> 
+> |**container-hover-stroke-color**=rgba(180, 35, 35)
+> 
+> |**background-url**=@@http://thisisalink.com/image.jpg@@
+> 
+> |**background-vertical-position**=30%
+> 
+> |**link-fill-color**=rgba(252, 252, 252)
+> 
+> |**link-stroke-width**=0.125rem
+> 
+> |**link-stroke-color**=rgba(12, 12, 12)
+> 
+> |**anchor**=4205
+> 
+> |**link**=@@http://www.scp-wiki.net/scp-4205@@
+> 
+> |**title**=SCP-4205
+> 
+> |**sub-title**=In the Eyes of the Beholder
+> 
+> |**blerb**@@=**This is a blerb!**@@
+> 
+> ]]
+> 
+[[/div]]

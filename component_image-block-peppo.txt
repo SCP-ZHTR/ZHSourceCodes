@@ -1,0 +1,48 @@
+[[iftags +組件]]
+修訂了圖像塊模塊
+* 將圖片的右邊與內容對齊，而不是只跟等級模塊的邊緣對齊。
+* 如果用戶的窗口寬度小於600像素時清除浮動屬性並將圖片置中。
+
+由 PeppersGhost 和 Stormbreath 制作。
+
+[[[SCP-4703|範例在這裡！]]]
+
+請複製下列的代碼到你的作品中即可使用，如果需要可以調整名稱、標題和寬度欄位。
+
+> [[include component:image-block-peppo
+> |name=http://scp-wiki.wdfiles.com/local--files/scp-4703/4703.jpg
+> |caption= Put your caption here!
+> |width=300px
+> ]]
+
+
+[[=]]
++ 查看頁面源代碼
+[[/=]]
+[[/iftags]]
+[[iftags -組件]]
+
+
+[[include :scp-wiki:component:image-block
+|name={$name}
+|caption={$caption}
+|width={$width}|width=300px
+|link={$link}|link=#
+|align=right
+]]
+
+[[module CSS]]
+/* Aligns image to right edge */
+.scp-image-block.block-right {
+    margin: 0em 0em 1em 2em;
+}
+
+/* Visually centers image block */
+@media only screen and (max-width: 600px) {
+    .scp-image-block.block-right{
+        float: none;
+        margin: 10px auto;
+    }
+}
+[[/module]]
+[[/iftags]]

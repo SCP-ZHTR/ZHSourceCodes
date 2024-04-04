@@ -1,0 +1,772 @@
+[[include :scp-wiki:theme:admo]]
+[[module css]]
+
+:root {
+
+--header-title: "收穫";
+
+--admo-backdrop: url(http://scptestwiki.wikidot.com/local--files/sigma:admonition-redesign-6269/mcmachine-bg.webp);
+
+--admo-color-bright: 40, 160, 200;
+--admo-color-dim: 5, 14, 26;
+--admo-color-dark: 0, 3, 11;
+--admo-color-alt: 49, 135, 163;
+
+--general-border-color: 30, 36, 50;
+--basalt-tertiary-color: 10, 26, 44;
+--darkdocument-background-color: 4, 14, 18;
+
+--side-bar-link-color-hover: var(--basalt-light-text-color);
+--top-bar-dropdown-link-color-hover: var(--basalt-light-text-color);
+--login-status-text-color-hover: var(--basalt-light-text-color);
+--selection-text-color: var(--basalt-light-text-color);
+
+--two-color: var(--admo-color-bright) !important;
+--four-color: 194, 85, 0 !important;
+
+}
+[[/module]]
+
+[[div style="display: none;"]]
+[[include component:image-block
+name=http://scpdsandbox.wdfiles.com/local--files/collab%3Aclaw2/ClawLogo.png
+|caption=MCM
+|width=100%
+|align=center]]
+[[/div]]
+
+[[=]]
+[[include info:start]]
+**SCP-6269 - 多重宇宙夾娃娃機**
+**作者：**[[*user GremlinGroup]], [[*user DodoDevil]], [[*user JakdragonX]], [[*user Fishish]]
+**原文：**[https://scp-wiki.wikidot.com/scp-6269 SCP-6269 - The Multiversal Claw Machine]
+**譯者：**[[*user Kikunai]]
+**圖像：** 見底部。
+
+[[include info:end]]
+[[/=]]
+
+[[div class="ethics_memo"]]
+自萌生了得到足夠D級人員的想法之後，這無論是在實踐方面，還是在道德方面都一直困擾著我們的組織。
+
+我們一直尋求一羣能夠安全開展研究、收容異常威脅和保護人類的勞動力，使我們在施行暴行時沾沾自喜：長期容許不公平的刑事司法系統的存在，剝削那些最需要社會支持的人，並拒絕承認最基本的人權與自由。
+
+我們以前這樣做是因為沒有選擇的餘地。
+
+情況已不再如此：從今天起，我們基金會將不再將無辜的靈魂拖入黑暗——它們將繼續淋浴在光明之中，享受自由。
+
+我們有了新的方法。
+
+非常合乎道德的方法。
+@@ @@
+
+[[div style="text-align: right; font-size: 0.9em; font-style: italic;"]]
+Vanessa Woodford,
+倫理委員會——收穫代表。
+[[/div]]
+[[/div]]
+
+@@ @@
+
+[[include :scp-zh-tr:component:customizable-acs
+|containment-class= thaumiel
+|containment-color= 0, 135, 189
+|secondary-class= ethical
+|secondary-color= 144, 144, 144
+|inc-split-color= --]]]
+
+[[include :scp-zh-tr:component:customizable-acs
+|containment-class= thaumiel
+|containment-image= https://scp-wiki.wikidot.com/local--files/component:anomaly-class-bar/thaumiel-icon.svg
+|containment-color= 0, 135, 189
+|inc-esoteric-layout = --]]]
+
+[[div class="anom-bar-esoteric"]]
+
+[[include :scp-zh-tr:component:anomaly-class-bar-source
+|item-number= SCP-6269
+|clearance= 4
+|container-class= thaumiel
+|secondary-class= ethical
+|secondary-icon= https://scp-wiki.wdfiles.com/local--files/calibri-s-mega-cool-art-page-it-s-mostly-just-icons-but-what/Glorious.svg
+|disruption-class= vlam
+|risk-class= 謹慎
+]]
+[[/div]]
+
+[[div class="tableb table2"]]
+[[include component:image-block
+name=https://scp-wiki.wdfiles.com/local--files/scp-6269/Control1.jpg
+|caption= SCP-6269控制室 D-76F-32B.
+|width=100%
+|align=center]]
+
+[[div class="widetable"]]
+||~ 指定站點 ||~ 指定部門 ||
+||= Site-77-Prime，-SubPrime。 ||= //收穫部，工程部，人事部// ||
+||~ 指定宇宙 ||~  指定人員 ||
+||= -Prime,-SubPrime; 其他宇宙（用以取得收穫）。 ||= G Greeboni主管，Evan Pereira，Janice Reilly，7,300+ 其他指定人員。 ||
+[[/div]]
+
+[[div class="modal"]]
+[[include component:image-block
+name=https://scp-wiki.wdfiles.com/local--files/scp-6269/Work1.jpg
+|caption=人員根據DotMCM:EATM協議進行SCP-6269半月一次的檢查。
+|width=300px
+|align=right]]
+
+++ [[span class="st"]]__收容措施 -- 使用方式：__[[/span]]
+
+為確保正確使用，受過培訓的人員應只可依照[[span class="ruby"]]多重宇宙爪機部：道德收穫培訓手冊[[span class="rt"]]Department of the Multiversal Claw Machine: Ethical Acquisitions Training Manual[[/span]][[/span]]，簡稱 "DotMCM:EATM" 內的規條操作SCP-6269。
+
+若發現SCP-6269的指定人員未能遵守DotMCM:EATM，依照違規的嚴重程度，可能會遭受處決，被基金會開除，停職，或者暫時失去機械爪的操作權。
+
+根據DotMCM:EATM，所有指定至SCP-6269的人員和獨立組件必須留在-Prime和-SubPrime宇宙。應定期半月一次檢查位於- SubPrime宇宙的SCP-6269組件 ，以確保爪機持續不停地運行。
+
+為便於參考，在此附上部分DotMCM:EATM中的關鍵規條：
+* 只有完成「[[span class="ruby"]]MCM[[span class="rt"]]多重宇宙爪機[[/span]][[/span]]道德收穫」網上課程——並至少得到50％正確率——的受認可人員獲准操作SCP-6269的組件。
+* 必須從非-Prime的宇宙獲取D級人員；SCP-6269與其操作人員應處於以下列出的宇宙：-Prime和-SubPrime.
+* 在一既定時間內只允許一名操作員控制SCP-6269的主要收穫模組； 其他操作員必須遵守安排的的時間表工作。
+
+-----
+
+++ [[span class="st"]]__收容程序 -- 籌款方式：__[[/span]]
+
+--合值$250,000美金的25美分硬幣應半月一次運到Site-77作為SCP-6269的操作成本。--無須籌集更多外來資金。SCP-6269有能力以合乎道德的籌款方法無限自給自足。
+
+----
+
+[[include component:image-block
+name=https://scp-wiki.wdfiles.com/local--files/scp-6269/CLAW1.jpg
+|caption=SCP-6269-爪。
+|width=290px
+|align=right]]
+
+++ [[span class="st"]]__描述：__[[/span]]
+
+SCP-6269（俗名「多重宇宙爪機」）為基金會研發，以硬幣操作的本徵機器[[span class="fnnum"]].[[/span]][[span class="fncon"]]非軍事用途版本的「本徵武器」：本徵武器指異常的大規模殺傷性武器，而本徵機器是指異常的大規模//生產性//機器[[/span]]，用途為以合乎道德手段收穫D級人員。
+
+由於SCP-6269在機械上、技術上以及本質物理上的複雜性，SCP-6269絕大部分的組件都處於指定宇宙-SubPrime。位於此宇宙的機械系統利用了奇術時間膨脹和減熵應對措施[[span class="fnnum"]].[[/span]][[span class="fncon"]]包括但不限於：煉金術、非牛頓物理場產生器、反時間計算系統、以及大量WD-40。[[/span]]，以此將損耗減至最小。-SubPrime 內的SCP-6269組件由[[span class="st"]]Logan.aic[[/span]]監控，其通過生成額外的系統冗餘[[span class="fnnum"]].[[/span]][[span class="fncon"]]譯註：系統冗餘（Redundancy），指系統為了提昇其可靠度，刻意配置重複的零件或是機能。冗餘一般是為了備用，或是失效安全的考量，也有可能是為了提昇系統性能，像是衛星導航系統接收器，或是多線程電腦處理。[[/span]]——通過將 -SubPrime內的物質轉化為SCP-6269的額外機械部件——來確保SCP-6269持續運行。
+
+SCP-6269 的一部分機械部件位於-Prime ——SCP基金會-Prime 的母宇宙，其中包括：
+ 
+* **SCP-6269-爪：** SCP-6269-爪 是主要的物理收穫組件，用於捕獲目標人員或物體，並能夠在多種環境中進行精確機動。
+* **SCP-6269-穴：** SCP-6269-穴 是一個可調節，且自我穩定的多重宇宙獾洞。[[span class="fnnum"]].[[/span]][[span class="fncon"]]蟲洞連接處於同一宇宙中的兩個位置，而獾洞則連接處於不同宇宙之間的兩個位置。[[/span]]SCP-6269-爪 在一般操作程序下會插入SCP-6269-穴 以得到目標。
+* **SCP-6269-幕：** SCP-6269-幕為一系列複雜的監視器和控件，包括**SCP-6269-爪** 和**-穴** 的物理控制系統，並為**-爪** 的操作員提供視覺反饋。 當中內置的[[span class="ruby"]]Hunter-Catcher[[span class="rt"]]獵者-捕者[[/span]][[/span]]系統能夠在收穫前監控多達15,000個不同個體。
+
+已證明SCP-6269成功率甚高——在投用後的五年內以道德手段取得基金會現時近乎85%的D級人員。有關更多資訊請參閱[[span class="st"]]SCP-6269 -- 收穫記錄[[/span]].
+[[/div]]
+[[/div]]
+
+@@ @@
+
+[[div class="ethics_memo"]]
+我聽聞有些人在問「我們//怎樣//知道SCP-6269是合乎道德的？」，所以我將會在此花少許時間解答這些不必要的疑慮。
+
+在整個多元宇宙中，SCP基金會-PRIME是SCP基金會唯一使用SCP-6269的迭代宇宙；其餘宇宙中都不存在類近的項目。 這意味着//所有//其他SCP基金會都存在於不那麼道德的宇宙中，因為他們開發SCP-6269並不是為了合乎道德地取得D級人員。總而言之，通過使用 SCP-6269從那些非Prime 宇宙中取得D級人員是完全合乎道德的，因為任何非Prime 個體居住在一個比-Prime宇宙較不道德的宇宙內。
+
+我希望這能夠釋除你們的疑慮。 如果任何人有任何更多疑慮，歡迎他們請求允許視察運行中的SCP-6269，以了解它有多合符道德。
+
+@@ @@
+
+[[div style="text-align: right; font-size: 0.9em; font-style: italic;"]]
+你的朋友，
+Vanessa Woodford，
+倫理委員會 -- 收穫部門代表。
+[[/div]]
+[[/div]]
+
+@@ @@
+
+[[div class="jotting tableb table2"]]
+[[=]]
++ __SCP-6269 -- 收穫記錄：__
+[[/=]]
+----
+[[=image https://scp-wiki.wdfiles.com/local--files/scp-6269/Hlogo4.png width="100px"]]
+
+> 以下紀錄為節選的SCP-6269收穫記錄。完整的收穫記錄可應要求提供。
+
+[[table]]
+[[row]]
+[[hcell]]
+收穫編號： 200013
+[[/hcell]]
+[[/row]]
+[[row]]
+[[cell]]
+**__宇宙編號：__** AU-543246-A
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+**__獲得物：__** D-114239, D-453234
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+**__操作成本：__** 兩枚25分硬幣
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+**__備註：__** D-453234目擊到取得D-114239的過程，表示SCP-6269-爪的抓力十分舒服，而且過程合乎道德。在收穫後的例行監察中，可注意D-453234一直向着SCP-6269-穴大聲請求希望自己被取獲。
+
+在收穫後的採訪中，D-453234 報告稱他對收穫的方式以及道德程度感到滿意。 此外，他報告說他的背痛在被收穫後已經消退[[span class="fnnum"]].[[/span]][[span class="fncon"]]這與SCP-6269的作用無關，但仍然完全符合道德標準。[[/span]]
+[[/cell]]
+[[/row]]
+[[row]]
+[[hcell]]
+收穫編號： 200106
+[[/hcell]]
+[[/row]]
+[[row]]
+[[cell]]
+**__宇宙編號：__** AU-278341-C
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+**__獲得物：__** D-234765，D-173524，D-653458等人[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+**__操作成本：__** 一枚25分硬幣
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+**__備註：__** 為了測試SCP-6269-爪的承載能力而從SCP-6269-穴中取出15名D級人員。所有取得的D級人員都報告沒有明顯不適，除了監控設備在取得D-173452期間檢測他心率輕微升高，因為操作SCP-6269過程的道德程度讓他非常驚訝。
+
+操作員因本次操作的成本效益而受到稱讚，但不建議其餘人員嘗試這種操作方式，因為這樣很難抓住15名人員，又同時顧及安全和道德。
+[[/cell]]
+[[/row]]
+[[row]]
+[[hcell]]
+收穫編號： 2002307
+[[/hcell]]
+[[/row]]
+[[row]]
+[[cell]]
+**__宇宙編號：__** AU-467845-A
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+**__獲得物：__** N/A （以前為一隻美國鬥牛犬）[[span class="fnnum"]].[[/span]][[span class="fncon"]]臨時編號為D-101：[[span class="ruby"]]犬級[[span class="rt"]]Dog-Class[[/span]][[/span]]人員。[[/span]]
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+**__操作成本：__** 一枚25分硬幣
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+**__備註：__** 一名**-爪** 操作員在駕駛艙下方找到一枚25分硬幣。為了解決員工士氣低落的問題，他將硬幣操作SCP-6269後取得一隻雄性美國鬥牛犬。這暫時提升了員工的士氣，直到Greeboni主管將鬥牛犬歸還給AU-467845-A。
+
+Greeboni主管提醒基金會人員將鬥牛犬歸還給它的主人是最合乎道德的決定；人員的士氣似乎得到了顯著提升。
+[[/cell]]
+[[/row]]
+[[row]]
+[[hcell]]
+收獲編號： 6008999
+[[/hcell]]
+[[/row]]
+[[row]]
+[[cell]]
+**__宇宙編號：__** AU-01C4RS4-Z
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+**__獲得物：__** 2019 Nissan Sentra (前D-234523)
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+**__操作成本：__** 一枚25分硬幣
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+**__備註：__** 由於**-穴** 的尺寸有限，**-幕** 操作員稱較難進行收穫。
+
+將**-穴** 擴展以此解決這個問題。隨後獲得物被Greeboni主管徵用，用作以合乎道德的方式承載對SCP-6269的持續運行至關重要的人員。
+
+[[/cell]]
+[[/row]]
+[[row]]
+[[hcell]]
+收獲編號： 7009023
+[[/hcell]]
+[[/row]]
+[[row]]
+[[cell]]
+**__宇宙編號：__** AU-00002-B
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+**__獲得物：__** D-345731
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+**__操作成本：__** 一枚25分硬幣
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+**__備註：__** 在嘗試取得D-345731時，因後勤錯誤而導致資金供應短暫中斷，令SCP-6269暫停運行近2小時。 雖然之後成功取得D-345731，但已暫緩SCP-6269所有的操作，直到找到一種有效、合乎道德且可靠的資金供應方法。
+[[/cell]]
+[[/row]]
+[[row]]
+[[hcell]]
+收獲編號： 7009024
+[[/hcell]]
+[[/row]]
+[[row]]
+[[cell]]
+**__宇宙編號：__** AU-346721-D
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+**__獲得物：__** 一筒合值10美元的25分硬幣
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+**__操作成本：__** 一枚25分硬幣
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+**__備註：__** 已解決籌款問題。
+[[/cell]]
+[[/row]]
+[[row]]
+[[hcell]]
+[[/hcell]]
+[[/row]]
+[[/table]]
+[[/div]]
+
+@@ @@
+
+[[div class="darkdocument tableb table2"]]
+[[=]]
++ __SCP-6269 -- 事件：001__
++++ 代號： 油猴
+[[/=]]
+
+[[div class="blockquote"]]
+[[span class="bigtext"]]__情況：__[[/span]] 在進行收獲編號#7203244的取獲後，Angelica Spear操作員報告稱SCP-6269-爪發出「嗡嗡聲」。Spear操作員花了幾小時試圖尋找噪音來源，但沒有成功。以下收獲記錄詳細描述操作員 Spear為解決自操作開始以來第一個導致SCP-6269操作困難而進行的創意嘗試。
+
+[[table]]
+[[row]]
+[[hcell]]
+收獲編號： 7203245
+[[/hcell]]
+[[/row]]
+[[row]]
+[[cell]]
+**__宇宙編號：__** AU-576897-F
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+**__獲得物：__** D-763547
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+**__備註：__** 在緊接收獲編號7203244後，Spear操作員找到了一名自己的迭代，可能是為了解決機器發出的噪音。由於SCP-6269於迭代的宇宙不存在，D-763547未能提供有意義的見解，接着收獲如常進行。
+
+[[/cell]]
+[[/row]]
+[[row]]
+[[hcell]]
+收獲編號： 7203246
+[[/hcell]]
+[[/row]]
+[[row]]
+[[cell]]
+**__宇宙編號：__** AU-234897-A，AU-234897-B，//已省略10項條目。//
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+**__獲得物：__** D-876452，D-876453，//已省略10項條目。//
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+**__備註：__** Spear操作員挑選12名自己的迭代，優先考慮具有任何有意義的重型機械背景的宇宙迭代。[[span class="fnnum"]].[[/span]][[span class="fncon"]]雖然SCP-6269的操作僅限於經過認可的操作員，只要非Prime個體作為顧問，獲取自己的迭代被視為道德。[[/span]]在向12名迭代成功解釋情況後，所有Angelica Spear的迭代集思廣益，得出一個可行的解決方案。向SCP-6269-爪塗抹WD-40被視為最道德的解決方案。
+
+在解決問題後，已根據標準收穫程序指派所有Spear操作員的非Prime迭代為D級人員。
+
+[[/cell]]
+[[/row]]
+[[row]]
+[[hcell]]
+[[/hcell]]
+[[/row]]
+[[/table]]
+
+**__解決方案：__** Spear操作員以他的敏捷思維解決了問題001，而塗抹WD-40的程序附加至SCP-6269的收容協議之中。
+[[/div]]
+[[/div]]
+
+@@ @@
+
+[[div class="darkdocument table2"]]
+[[=]]
++ __SCP-6269 -- 事件：002__
++++ 代號： 小鳥
+[[/=]]
+
+[[div class="blockquote"]]
+[[span class="st"]]__情況：__[[/span]] SCP基金會-Prime 網絡爬蟲於一次例行掃描中，在社交媒體平台推特上發現了一個經常發布有關SCP-6269機密資訊的帳戶。 此帳戶——@mcm_worker——詳細描述SCP-6269的能力、基金會為取得D級人員而運行SCP-6269的這個資訊，以及分配至SCP-6269的技術人員和操作員的個人資料。 由於DotMCM:EATM中規定人員嚴格保密，已假定這些「推文」並非由收穫部人員發佈；因此可能性最高的推論為：SCP-6269內部機器的複雜程度導致它產生自我意識。
+----
+[[span class="st"]]__威脅常態內容：__[[/span]] 以下為@mcm_worker發出的「推文」節選：
+
+@@ @@
+
+[[div class="jotting"]]
+我們很溫柔的夾他們。用很溫柔的力度。這樣才能保持道德。
+
+[[div style="text-align: right; font-size: 0.9em; font-style: italic;"]]
+10:14 PM · Jan 9, 2022 · Twitter for Android
+[[/div]]
+----
+
+今天又用完硬幣了
+
+[[div style="text-align: right; font-size: 0.9em; font-style: italic;"]]
+6:58 PM · Jan 9, 2022 · Twitter for Android
+[[/div]]
+----
+
+你-prime永遠不會被爪機捉到。所以如果你被捉到了，你就不是你-prime
+
+[[div style="text-align: right; font-size: 0.9em; font-style: italic;"]]
+2:17 PM · Jan 15, 2022 · Twitter for Android
+[[/div]]
+[[/div]]
+
+@@ @@
+
+[[span class="st"]]__應對：__[[/span]] 為確定造成此數據安全漏洞成因，對SCP-6269的實體和數位系統進行了全面檢查，並刪除了@mcm_worker的社交媒體帳戶。然而，由於檢查**-SubPrime** 宇宙裏的SCP-6269組件的工作忙碌，以及該帳戶持續發佈的內容有機會威脅常態，被批准聘請一名專家作為額外的緊急響應措施。
+
+[[/div]]
+[[/div]]
+
+@@ @@
+
+[[div class="jotting tableb table2"]]
+[[=]]
++ 事件：002 -- 緊急應對措施
+[[/=]]
+
+[[table]]
+[[row]]
+[[hcell]]
+收獲編號： D02421
+[[/hcell]]
+[[/row]]
+[[row]]
+[[cell]]
+**__宇宙編號：__** -OG_CaN43
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+**__獲得物：__**  [*/scp-5242 Place H. MD., PhD.主管]-OG_CaN43.[[span class="fnnum"]].[[/span]][[span class="fncon"]]Place H. MD., PhD.主管對興建SCP-6269-穴有着莫大貢獻，但在展示安全欄杆數量不足時不慎掉入獾洞。他目前的下落仍然不明。[[/span]]
+
+[[/cell]]
+[[/row]]
+[[row]]
+[[hcell]]
+[[/hcell]]
+[[/row]]
+[[row]]
+[[cell]]
+**__地點：__** 收穫取得區-Site-77-Prime
+
+**__在場人員：__**
+* G Greeboni主管，
+* Place H. MD., PhD.主管 -OG_CaN43，
+* Evan Pereira操作員。
+
+**__前言：__** 在取得Place H. MD., PhD.主管-OG_CaN43後，G Greeboni主管詢問個體有關當前SCP-6269的狀況，並望有所解答。
+[[/cell]]
+[[/row]]
+[[row]]
+[[hcell]]
+«錄音逐字稿»
+[[/hcell]]
+[[/row]]
+[[row]]
+[[cell]]
+**Place H.主管：** 啥鬼？我在哪？！喂，有人能把我從這東西弄下來嗎？！
+
+**Greeboni主管：** 不可。根據DotMCM:EATM，我們在確認收穫成功前不可以這樣做。你是Place H.主管，對吧？
+
+**Place H.主管：** 取......獲?等等，這玩意是怎樣把我提起來的？這東西只有，誒，兩根尖頭？！
+
+**Greeboni主管：** 放他下來，Evan。順便想讚一下你爪子控制得不錯。
+
+**Evan：** 謝謝！
+
+**Greeboni主管：** 好的，Place H.主管，歡迎來臨 Prime宇宙——
+
+**Place H.主管：** 「Prime宇宙」？這個名字是不是有點太自大了吧？
+
+**Greeboni主管：** 我不是取名字的那個。說起名字，我是Greeboni主管，那位是Evan 。
+
+**Evan：** 嗨，謝謝你在被我們捉到前把食物留在桌上，不然會把獾洞弄成一團糟。
+
+**Place H.主管：** 獾啥——？
+
+**Greeboni主管：** 讓我們切入正題，好嗎？我們帶你來這裡是因為我們需要你的幫助。這是我們第一次做這樣的事情，但我們很確定這一切都是道德的，所以不用擔心。
+
+**Greeboni主管：** 不管怎麼說，我們一直在透過監視器觀察你的舉止。在所有Place H.主管們中，你是我們見過的最令人印象深刻的一個。
+
+**Evan：** 我很喜歡看到你用那個機器做的事！
+
+**Greeboni主管：** 好了Evan。我們要集中精神。//［停頓］//正如我所說，你已經認識SCP-6269-爪。它是一個由SCP基金會-Prime複合本徵機器的其中一部分，而它最近——
+
+**Place H.主管：** 開始做一些奇怪，意料之外的事？
+
+**Evan：** 對！你是怎樣知道的？
+
+**Place. H.主管：** 憑直覺猜的。那麼，它是在拆解現實的結構嗎？創建新的元敘事層？也許散播到一個新的時間軸？
+
+**Greeboni主管：** 不完全是。是推文。
+
+**Place. H.主管：**  //推文？//就像在推特推文？
+
+**Greeboni主管：** 正是。我們現在進行全面診斷。我們最有可能的推測是它有了自我意識，但我們還未定位它的智慧在哪裏集中，或者它是如何使用互聯網的。
+
+**Place. H.主管：** 等等，你是怎樣知道是SCP-6269造成的？你有沒有檢查員工的互聯網存取記錄？
+
+**Greeboni主管：** 嗯，那會很不道德，不是嗎？
+
+**Place. H.主管：** ……不會啊？
+
+**Greeboni主管：** 嗯......你是對的。其實我很肯定DotMCM:EATM確實有提及關於這個的——
+
+**Dir Place. H.：** 這個甚麼？
+
+**Greeboni主管：** ——我需要去拿我的那本。
+
+**Place. H.主管：** 好的......當然了，悉隨尊便。看，你說完了嗎？因為我現在真的很想回去。
+
+**Greeboni主管：** 回去哪裏？Evan，繼續收穫。
+[[/cell]]
+[[/row]]
+[[row]]
+[[hcell]]
+«結束記錄»
+[[/hcell]]
+[[/row]]
+[[row]]
+[[cell]]
+**__結語：__** Place H.主管被指派為D級人員#7362HA61。收穫部已斟酌針對員工的互聯網訪問及使用記錄進行審視，並最終認為這是道德的。
+
+[[include component:image-block
+name=https://scp-wiki.wdfiles.com/local--files/scp-6269/Evan.jpg
+|caption= SCP-6269操作員Evan Pereira正在使用SCP-6269-幕的一個組件。
+|width=100%
+|align=center]]
+[[/cell]]
+[[/row]]
+[[/table]]
+[[/div]]
+
+@@ @@
+
+[[div class="darkdocument tableb table2"]]
+[[=]]
++ __事件：002 – 解決衝突__
++++ 代號：龜鴿
+[[/=]]
+
+[[div class="blockquote"]]
+[[span class="st"]]__前言：__[[/span]] 在審視站點互聯網使用情況及活動記錄後，已識別@mcm_worker帳號背後使用者的身份，並與Greeboni主管進行會談。根據DotMCM:EATM，該員工在調查期間的記錄中保持匿名，而且在以下記錄被標識為「藍鳥」。
+
+[[table]]
+[[row]]
+[[hcell]]
+«錄音抄錄»
+[[/hcell]]
+[[/row]]
+[[row]]
+[[cell]]
+**藍鳥：** 所以你們對我有意見？
+
+**Greeboni主管：** 藍鳥，我們對你的行為沒意見，只是對你的社交媒體......習慣稍有微言。
+
+**藍鳥：** 我今個月已經達到我所有目標了。所以如果我在休息時間都花在手機上呢？DotMCM:EATM指明享受停工時間對員工心理健康很重要。
+
+**Greeboni主管：** 我應該更清晰地說的。收穫部對你的推特帳號有意見。你在網上亂發SCP-6269的機密資訊。這並不恰當。
+
+**藍鳥：** 老兄，我真的只是在推特混日子而已。人家喜歡我的推文，覺得它們很棒。
+
+**Greeboni主管：** 老實說，部門並不太關心外人的意見——他們有意見這個事實//才是重點//。
+
+**藍鳥：** 嗯，好吧，隨便啦。但我一直都在注意所有支持爪機的人；所有明白它那麼道德的人。我的追蹤者//超//喜歡爪機。看看這個，然後告訴我，我所做的事是「有害的機密洩露」，正如DotMCM:EATM中第12章2B部分所定義的。
+
+//藍鳥將已解鎖的手機在桌上向前推。//
+
+**Greeboni主管：** 你真的向我引用我自己的守則？我知道甚麼被定義為——等等。你只有二十個追隨者？
+
+**藍鳥：** 嗯，不錯吧？只花了一個月就有這麼多。
+
+**Greeboni主管：** 這......這人數根本比一箱記憶消除劑的份量還少。
+
+**藍鳥：** 不必要這麼粗魯。推特對我這樣的人來說是個很難建立粉絲團的地方。
+
+**Greeboni主管：** 我對此感到抱歉；我不是故意這麼粗魯的。我只是覺得驚訝。通報指這是一場大型安全漏洞。我認得這裏超過半數的名字，他們都是//這個部門//的！
+
+**藍鳥：** 嗯，我這裏有些朋友想知道我對我們工作的看法。他們說我「對這個世界有着獨特的看法」，我覺得這樣很酷。
+
+**Greeboni主管：** 嗯......這確實改變了事態。我過來這裏預期自己把帳號刪除，然後道德地把你開除。我甚至在考慮處決。
+
+**藍鳥：** 我肯定你已知道DotMCM:EATM中第12章1L部分指出，除非發生不道德的事件，這部分特別且道德地避免員工的社交媒體活動。
+
+**Greeboni主管：** 我知道。這就是我所指的：這沒有違反道德規條，幾乎沒有任何可疑活動可言，這只是滄海一粟！您是否願意做出妥協？
+
+**藍鳥：** 你有甚麼想法？
+
+[[/cell]]
+[[/row]]
+[[row]]
+[[hcell]]
+«結束記錄»
+[[/hcell]]
+[[/row]]
+[[/table]]
+
+[[span class="st"]]__結語：__[[/span]]在Greeboni主管和藍鳥之間隨後的討論中，@mcm_worker帳戶被認為可以保持活躍狀態，然而有以下限制：
+
+* 帳户應設為私人帳號，因此只有白名單內的SCP基金會員工可以存取帳號的內容。[[span class="bigtext"]]［**已實行**］[[/span]]
+* 所有曾接觸@mcm_worker帳户的非基金會用户應被定位及接受記憶刪除。[[span class="bigtext"]]［**已實行**］[[/span]]
+* T徹底檢查帳戶是否存在不道德內容。[[span class="bigtext"]]［**已實行**］[[/span]][[span class="fnnum"]].[[/span]][[span class="fncon"]]在調查過程中發現，由於主題環繞SCP-6269，該帳戶自成立以來不存在此類素材。[[/span]]
+
+後續報告表明是次干預成功；網上沒有發現類似SCP-6269機械的提及，並且發現該帳戶在道德上提高了員工的士氣。
+[[/div]]
+[[/div]]
+
+@@ @@
+
+[[div class="overwatch_memo"]]
+有些人只把[*/admonition-hub 我們基金會最偉大的作品看待為失敗的趨勢。]他們將我們最偉大的成就、我們最高尚的追求視為我們傲慢的表現；它們預示著我們即將到來的厄運。
+
+但是[*/scp-6659 沒有神因為我們超越自身地位來懲罰我們。]我們不會讓別人[*/scp-6747以筆紙決定我們的限制。]我們也不會[*/scp-6820 向尖叫着「無可接受」的野獸畏縮。]
+
+我們不是以神話和衝動行事的組織——我們建立在合理的原則之上：社會可以賴以生存的穩定基石。我們知道我們的價值在於遵守指導我們行為的道德規範，並要求我們對社會和人類負責。
+
+@@ @@
+
+[[=]]
+所以，有時我們做對了，真應該感到驚訝嗎？
+
+@@ @@
+
++++ - 監督者議會
+[[size 90%]]控制、收容、保護[[/size]]
+[[/=]]
+[[/div]]
+
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[SCP-6268]]] | SCP-6269 | [[[SCP-6270]]] >>
+[[/=]]
+[[/div]]
+
+[[=]]
+[[collapsible show="» 顯示腳註 «" hide="« 收起腳註 »"]]
+@@ @@
+[[div class="notation" style="padding: 0.5rem 0.5rem 0.5rem 0.5rem; font-size: 90%; font-family: 'Work Sans', sans-serif;"]]
+[[<]]
++++++ @@  	@@ 腳註&參考資料
+# 非軍事用途版本的「本徵武器」：本徵武器指異常的大規模殺傷性武器，而本徵機器是指異常的大規模//生產性//機器。
+# 包括但不限於：煉金術、非牛頓物理場產生器、反時間計算系統、以及大量WD-40。
+# 譯註：系統冗餘（Redundancy），指系統為了提昇其可靠度，刻意配置重複的零件或是機能。冗餘一般是為了備用，或是失效安全的考量，也有可能是為了提昇系統性能，像是衛星導航系統接收器，或是多線程電腦處理。
+# 蟲洞連接處於同一宇宙中的兩個位置，而獾洞則連接處於不同宇宙之間的兩個位置。
+# 這與SCP-6269的作用無關，但仍然完全符合道德標準。
+# 臨時編號為D-101：[[span class="ruby"]]犬級[[span class="rt"]]Dog-Class[[/span]][[/span]]人員。
+# 雖然SCP-6269的操作僅限於經過認可的操作員，只要非Prime個體作為顧問，獲取自己的迭代被視為道德。
+# Place H. MD., PhD.主管對興建SCP-6269-穴有着莫大貢獻，但在展示安全欄杆數量不足時不慎掉入獾洞。他目前的下落仍然不明。
+# 在調查過程中發現，由於主題環繞SCP-6269，該帳戶自成立以來不存在此類素材。
+[[/<]]
+[[/div]]
+[[/collapsible]]
+[[/=]]
+
+[[div style="height: 10px;"]]
+[[/div]]
+
+[[=]]
+[[include :scp-zh-tr:component:license-box
+|author=[[*user GremlinGroup]], [[*user DodoDevil]], [[*user JakdragonX]], [[*user Fishish]]
+=====
+> **檔案名稱：** Claw1.jpg
+> **圖像名稱：** Big Mechanical Claw
+> **圖像作者：** Michael Coghlan
+> **圖像授權協議：** CC BY-SA 2.0
+> **圖源連結：** https://www.flickr.com/photos/89165847@N00/22839004436
+-----
+> **檔案名稱：** Clawlogo.png
+> **圖像名稱：** Big Mechanical Claw
+> **圖像作者：** Michael Coghlan + [[*user GremlinGroup]]
+> **圖像授權協議：** CC BY-SA 2.0
+> **圖源連結：** https://www.flickr.com/photos/89165847@N00/22839004436
+------
+> **檔案名稱：** Hlogo4.jpg
+> **圖像名稱：** MCM Dept Logo
+> **圖像作者：**[[*user HarryBlank]]
+> **圖像授權協議：** CC BY-SA 3.0
+> **圖源連結：** this page
+-----
+> **檔案名稱：** N/A
+> **圖像名稱：** GLORIOUS
+> **圖像作者：** [[*user Calibold]]
+> **圖像授權協議：** CC BY-SA 3.0
+> **圖源連結：** https://scp-wiki.wikidot.com/calibri-s-mega-cool-art-page-it-s-mostly-just-icons-but-what
+-----
+> **檔案名稱：** Control1.jpg
+> **圖像名稱：** Canadian Science - TRIUMF cyclotron
+> **圖像作者：** Adam Foster
+> **圖像授權協議：** CC BY-SA 2.0
+> **圖源連結：** https://commons.wikimedia.org/wiki/File:Canadian_Science_-_TRIUMF_cyclotron_-_Flickr_-_Cargo_Cult_(4).jpg
+-----
+> **檔案名稱：** Work1.jpg
+> **圖像名稱：** GODDARD 40TH ANNIVERSARY - DPLA
+> **圖像作者：** National Aeronautics and Space Administration
+> **圖像授權協議：** Public Domain
+> **圖源連結：** https://commons.wikimedia.org/wiki/File:GODDARD_40TH_ANNIVERSARY_-_DPLA_-_59704d18fcd39df4818fe965e429d088.jpg
+-----
+> **檔案名稱：** Evan.jpg
+> **圖像名稱：** Sonar Technician stands watch in the sonar control room aboard USS Carney.
+> **圖像作者：** Official U.S. Navy Page
+> **圖像授權協議：** CC BY 2.0
+> **圖源連結：** https://www.flickr.com/photos/56594044@N06/44442135022
+-----
+> **檔案名稱：** mcmachine-bg.webp
+> **圖像名稱：** Sky 68
+> **圖像作者：** Whistleswhite
+> **圖像授權協議：** CC BY-SA 4.0
+> **圖源連結：** https://commons.wikimedia.org/wiki/File:Sky_68.jpg
+=====
+[[include :scp-zh-tr:component:license-box-end]]
+
+[[/=]]

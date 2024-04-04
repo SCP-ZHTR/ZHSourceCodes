@@ -1,0 +1,13 @@
+[[include :scp-wiki:component:black-highlighter-theme-dev]]
+[[include :scp-wiki:theme:scp-offices-theme]]
+
+
+[[include info:start]]
+標題：Dr.Ray的異常項目分級圖標 - Apollyon
+繪者：[[*user PeiWeiArtz]]
+授權方式：CC BY-SA 4.0
+
+[[include info:end]]
+
+
+[[image https://i.imgur.com/5nRH5aL.png]]

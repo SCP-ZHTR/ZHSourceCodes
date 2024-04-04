@@ -1,0 +1,241 @@
+[[include component:scp-meta-title-hiding css-style=classic-ayers]]
+
+[[include :scp-zh-tr:component:interwiki-style
+| priority=2
+| theme=http://scp-zh-tr.wdfiles.com/local--code/scp-zh-418/1
+]]
+
+[[div style="display: none;"]]
+[[code type="CSS"]]
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+HK:wght@900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+Thai:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:wght@700&display=swap');
+
+body {
+    font-family: 'Noto Serif HK', 'Noto Serif Thai', 'Noto Serif', serif;
+}
+.menu-item img {display: none;}
+[[/code]]
+[[/div]]
+
+[[include :scp-wiki:theme:minimal
+|title=Foundations
+|subtitle=活在編造出的「真相」]]
+
+[[include :scp-zh-tr:component:info-ayers
+|page=scp-zh-418
+|authorPage=http://www.scp-wiki.net/yourAuthorPage
+|comments= 作者：[[user Mang Gwan]] _
+篇名：SCP-ZH-418 - 查無此項目
+]]
+[[>]]
+[[module rate]]
+[[/>]]
+> = 歡迎查閱Site-ZH-11資料庫
+
+> [[>]]
+> 搜尋檔案：SCP-ZH-418
+> [[/>]]
+
+[[div class="blockquote"]]
+[[include :scp-zh-tr:component:coltop |show=SCP-ZH-418 |nohide=1]]
+I/O-SILVER 發現系統異常，修復中……
+[[span class="delay"]]查無檔案：SCP-ZH-418[[/span]]
+[[include :scp-zh-tr:component:colend |nohide=1]]
+[[/div]]
+
+
+> [[>]]
+> 搜尋檔案：ZH-418
+> [[/>]]
+
+[[div class="blockquote"]]
+[[include :scp-zh-tr:component:coltop |show=SCP-ZH-418 |nohide=1]]
+I/O-SILVER 發現系統異常，修復中……
+[[span class="delay"]]查無檔案：SCP-ZH-418[[/span]]
+[[include :scp-zh-tr:component:colend |nohide=1]]
+[[/div]]
+
+> [[>]]
+> 關閉 I/O-SILVER
+> [[/>]]
+
+> 無效指令，為保護資料庫不受異常危害及確保資料一致，I/O-SILVER 無法關閉
+> 建議：系統可以生成有時效的旁路至獨立資料庫以繞過部分檢索和保護程式
+>> = [[size 150%]]警告！[[/size]]
+>> 強行繞過 I/O-SILVER 可能會導致資料庫出錯，輸出不正確或過時檔案。
+> = 請輸入密語以執行旁路指令：
+> = **黑月是否嚎叫？**
+
+> [[>]]
+> 確定生成旁路
+> = **是或不是，吾等所找之物不是答案而是真相**
+> [[/>]]
+
+> 密語確認，旁路編號：ZHS11FB7T14U41421142211613692，有效時間尚餘三十分鐘。
+> = .
+> = .
+> = .
+> 發現檔案備份 SCP-ZH-418 （最後備份日期：1972/10/11）
+ _
+ _
+
+[[div style="border: 0.125rem solid #d4d4d4; padding: 1em;"]]
+**檔案編號：** SCP-ZH-418
+
+**異常推定等級：** Safe 或 Euclid
+
+**暫設收容措施：** 異常所在建築目前以工程意外為由暫停施工，兩名維安人員偽裝成工地保安以阻止平民進入，並散播工地鬧鬼的傳言減少被非法潛入的可能。
+
+**基本異常描述：** SCP-ZH-418 是一個位於台灣新竹市東區光復路二段 321 號（原 臺灣總督府天然瓦斯研究所）的人造地下空間。項目入口的暗門在 9 月 25 日因翻新工程時的檢查在最低層的一間儲物間西側牆壁發現，發現過程中造成一名建築工人嚴重受傷，已將其受到異常傷害部分截除並以工業意外掩飾事件。
+
+**探索簡要報告：**
+
+[[div class="blockquote"]]
+1972/9/30
+ _
+門後的空間有複合異常效應，光線在當中會快速減弱（減弱速度應該和亮度呈某種指數關係，50 流明及 100 流明的電筒能照亮約20厘米的距離），在能照亮的區域的左側牆上嵌有一小型金屬牌上刻有「SCP財団怪奇部門新竹州司令部兼研究所」字樣及稍下方有應為未完全撕去海報的殘留痕跡上面勉強可分辨的日文字跡意為「大日本[未能辨識]局訪客，請先[未能辨識]登記」。
+ _
+另外該空間疑似有把置入其中的外物水份除去的異常，推測發現者的右手完全乾枯脫水的傷勢及同行一隻探測犬的鼻部疑似灼傷皆因此異常造成。
+[[/div]]
+
+[[div class="blockquote"]]
+1972/10/04
+ _
+根據線索，在IJAMEA的戰後回收文件中找到某個類似的情報封鎖陣列，而在日本分部借出領域專家[已刪減]的協助下開始破除作業。
+[[/div]]
+
+[[div class="blockquote"]]
+1972/10/05
+ _
+破除作業在進行至約 1.7 米時，發現一節完全乾燥的手指，專家因身體不適而暫時中止作業。而扯出該手指得出一個從手掌計起 30 厘米木乃伊化及後完全腐化成白骨的左前臂。其後嘗試對發現手指處為中心對空間內進行半徑兩米的打撈，結果如下：
+* 一具男性骸骨
+* 五塊未知物種的骨頭
+* 一條破損的未知蛆蟲
+* 一根完全燃燒的照明棒（應為 9 月 30 日時投入作測試用）
+> 1972/10/06（骸骨檢查簡要）
+>  _
+> 從打撈出的骸骨，可以辨認出其為 1.92 米的高加索種男性，死亡年份為 1945 年，其身體有多粗劣的骨折修復痕跡，而從木乃伊化的左手可以看到一個「新竹 英 008」的烙印及手指甲因磨損而全部脱落。 
+>> 1972/10/07
+>> 
+>> 一份對二戰東亞戰線英軍因失踪判定死亡的完整名單的查詢請求已向主站提交
+[[/div]]
+
+[[div class="blockquote"]]
+1972/10/07
+ _
+專家因身體不適而不能現場參加破除作業，僅以電話遙距指導。
+
+在進行多 30 厘米的破除作業後，陣列被完全清除。後面的空間傳出極度強烈腐臭味而造成五名人員不適。陣列後半米處有一被向內拉開的鐵門，其 8 厘米厚的門體在門把下方 10 厘米處被破開一個直徑約為 10 厘米的洞 且門上滿佈劃痕，門旁散落大量骨骼碎片和血跡。門後是一 20 乘 15 乘 5 米的空間，散落大約二十具白骨，少量空罐頭和用過的急救用品和兩個火堆痕跡，在正對面的門中卡着一具[[[who-is-the-asian-orphan|混集着前述蛆蟲的巨大屍體]]]（蛆蟲狀生物似乎未完全死亡，對光照時仍有輕微反應）。
+
+進一步探索需要待移走此屍體後方可繼續。
+[[/div]]
+
+[[div class="blockquote" style="background: url(http://scp-wiki.wdfiles.com/local--files/the-great-hippo/SCP_icon%281%29.png) top right no-repeat; border: solid 1px #000; padding: 5px 15px 15px 15px; box-shadow: 0 1px 3px rgba(0,0,0,.2); margin: 2% 4% 4% 4%;"]]
+= [[size 150%]]根據 O5 議會指令[[/size]]
+繁中分部需立刻停止所有對 SCP-ZH-418 調查工作，目前所有有關文件調到 Site-168 籌備委員會資料庫。
+該異常的調查權及建築的管理權轉交予 Site-168 。
+**所有其餘文件備份需悉數銷毀。**
+[[>]]
+1972/10/11
+[[/>]]
+[[/div]]
+[[/div]]
+ _
+ _
+> [[>]]
+> 閱覽完畢，關閉旁路及重置獨立資料庫
+> [[/>]]
+
+> 指令確定
+
+> [[>]]
+> 搜尋檔案：新竹市東區光復路二段 321 號
+> [[/>]]
+
+> 該址為工業技術研究院，其地下層目前為 Site-168 其中一間前台辦公室。
+
+> [[>]]
+> 預約到訪 Site-168[[span class="blink"]]_[[/span]]
+> [[/>]]
+
+[[module css]]
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+TC:wght@900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+JP:wght@900&display=swap');
+ :root{
+    --barColour: #000;
+}
+
+#container-wrap-wrap, #header h1 a, #header h2 {
+    font-family: 'Noto Serif TC', 'Noto Serif JP', serif; 
+
+}
+
+#header , blockquote strong, .blockquote strong{
+    filter: drop-shadow(0px 0px 2px black);
+    text-decoration: none;
+}
+
+strong{
+    text-decoration: underline;
+}
+
+.colmod-link-top {
+    margin: 1em 0;
+}
+
+@keyframes fade-in{  
+    0%{ opacity: 0;}
+    100%{opacity:1;}
+}
+@-webkit-keyframes fade-in{
+    0%{ opacity: 0;}
+    100%{opacity:1;}
+}
+@-ms-keyframes fade-in{
+    0%{ opacity: 0;}
+    100%{opacity:1;}
+}
+@-o-keyframes fade-in{
+    0%{ opacity: 0;}
+    100%{opacity:1;}
+}
+@-moz-keyframes fade-in{
+    0%{ opacity: 0;}
+    100%{opacity:1;}
+}
+
+.delay {
+    opacity: 0;   
+    animation: fade-in 1s ease 2s 1;
+    -webkit-animation: fade-in 1s ease 2s 1;
+    -moz-animation: fade-in 1s ease 2s 1;
+    -o-animation: fade-in 1s ease 2s 1;
+    -ms-animation: fade-in 1s ease 2s 1;
+      
+    animation-fill-mode:forwards;
+    -webkit-animation-fill-mode: forwards;  
+      -o-animation-fill-mode: forwards;
+      -ms-animation-fill-mode: forwards;   
+      -moz-animation-fill-mode: forwards;
+}
+
+.blink {
+    opacity: 0;   
+    animation: fade-in 0.8s ease infinite;
+    -webkit-animation: fade-in 0.8s ease infinite;
+    -moz-animation: fade-in 0.8s ease infinite;
+    -o-animation: fade-in 0.8s ease infinite;
+    -ms-animation: fade-in 0.8s ease infinite;
+}
+
+@media (min-width: 767px) {
+body {
+    zoom: 1.1;
+    -moz-transform: scale(1.1);
+    -moz-transform-origin: 0 0;
+}
+}
+
+#u-meta-title-hiding .meta-title { color:#000 }
+[[/module]]

@@ -1,0 +1,607 @@
+[[include :scp-wiki:theme:admo]]
+
+[[module CSS]]
+
+:root {
+
+--header-title: "告誡";
+
+--main-content-width: 1000rem;
+--main-content-top-margin: 0rem;
+--main-content-side-margin: 0vw;
+--rate-module-background-color: var(--basalt-primary-color);
+--search-icon-color: var(--basalt-main-text-color);
+--scrollbar-thumb-color: var(--basalt-main-text-color), 0.6;
+--selection-text-color: var(--basalt-light-text-color);
+
+}
+
+#main-content {
+padding-bottom: 3rem;
+padding-top: 0;
+}
+
+#header {
+background: rgb(var(--admo-color-dark));
+box-shadow: none;
+}
+
+#page-content {
+margin-bottom: 3rem;
+padding-block: unset;
+}
+
+#action-area {
+margin: auto;
+padding-top: 3rem;
+max-width: 70rem;
+}
+
+#page-options-container, #main-content > .page-tags {
+margin-inline: 3vw;
+}
+
+#page-content > p:nth-of-type(1), #page-content > p:nth-of-type(2) {
+margin: 0;
+}
+
+/* =============================================== */
+
+.admohub-rate {
+position: absolute;
+top: calc(var(--header-final-height) + 10rem);
+left: 0;
+right: 0;
+text-align: center;
+z-index: 2;
+}
+
+.admohub-splash {
+display: flex;
+flex-flow: column nowrap;
+justify-content: center;
+align-items: center;
+height: calc(100vh - var(--header-final-height));
+background-image: linear-gradient(0deg, rgb(0, 0, 0) 0%, rgba(0,0,0,0.8) 100%), url(https://scp-wiki.wikidot.com/local--files/admonition/ball.gif);
+background-size: cover;
+background-position: center;
+background-repeat: no-repeat;
+}
+
+.admohub-title {
+display: flex;
+justify-content: center;
+align-items: center;
+width: 100vw;
+height: 100%;
+backdrop-filter: blur(8px);
+background-image: radial-gradient(circle, rgb(148, 148, 148) 0%, rgb(30, 30, 30) 70%);
+background-repeat: no-repeat;
+background-position: center;
+background-size: 300%;
+-webkit-background-clip: text !important;
+-webkit-text-fill-color: transparent;
+font-size: 16vw;
+font-family: var(--header-font);
+animation: title 25s ease infinite;
+}
+
+.admohub-title p {
+letter-spacing: -1.2vw;
+}
+
+@keyframes title {
+
+0% {
+background-position: left;
+}
+
+50% {
+background-position: right;
+}
+
+100% {
+background-position: left;
+}
+
+}
+
+.admohub-quote {
+display: flex;
+flex-flow: column nowrap;
+justify-content: center;
+align-items: center;
+width: 45vw;
+height: 100vh;
+margin: auto auto 10vh;
+font-family: 'Roboto Condensed', var(--UI-font);
+font-weight: bold;
+font-size: 2.5vw;
+text-align: center;
+color: rgb(133, 133, 133);
+line-height: 2.5vw;
+}
+
+.admohub-quote > span {
+font-family: 'Sofia Sans', var(--UI-font);
+}
+
+.admohub-quote::after {
+content: "阿克頓爵士";
+margin-top: 2vw;
+font-size: 50%;
+font-weight: 900;
+opacity: 60%;
+}
+
+.admohub-container {
+display: flex;
+flex-flow: column nowrap;
+justify-content: center;
+}
+
+.admohub-episode {
+display: flex;
+flex-flow: row nowrap;
+justify-content: center;
+align-items: stretch;
+height: 100vh;
+box-sizing: border-box;
+}
+
+.admohub-epimage {
+background-image: linear-gradient(-90deg, rgb(0, 0, 0) 0%, rgba(0, 0, 0, 0) 100%), linear-gradient(45deg, rgb(0, 0, 0) 0%, rgba(0, 0, 0, 0) 30%), var(--admohub-epbg);
+background-size: cover;
+background-position: 65% center;
+width: 50vw;
+}
+
+#u-6488 .admohub-epimage {
+image-rendering: pixelated;
+}
+
+.admohub-epdesc {
+display: flex;
+flex-flow: column nowrap;
+justify-content: space-evenly;
+position: relative;
+background-image: linear-gradient(-245deg, rgb(0, 0, 0) 6%, rgba(var(--admohub-epcolor), 0.13) 100%);
+width: 50vw;
+padding: 2.5vw 3vw;
+box-sizing: border-box;
+}
+
+.admohub-epdirector {
+position: absolute;
+top: 11vh;
+right: 5vw;
+font-family: 'Roboto Condensed', var(--UI-font);
+font-size: 1.3vw;
+font-weight: bold;
+}
+
+.admohub-epdirector::before {
+content: "導演";
+margin-right: 0.9vw;
+font-weight: lighter;
+opacity: 80%;
+}
+
+.admohub-eptitle {
+font-family: var(--header-font);
+font-size: 5vw;
+line-height: 3.8vw;
+letter-spacing: -0.15vw;
+color: rgb(158, 158, 158);
+}
+
+.admohub-epno {
+display: block;
+font-family: 'Roboto Condensed', var(--UI-font);
+font-size: 2vw;
+font-weight: bold;
+opacity: 70%;
+}
+
+a.admohub-eplink, a.admohub-accesslink {
+display: block;
+max-width: 19vw;
+padding: 1.3vw 1vw;
+background-color: rgba(0, 0, 0, 0.3);
+border: solid 0.2vw rgba(255, 255, 255, 0.15);
+font-family: 'Roboto Condensed',var(--UI-font);
+font-weight: bold;
+text-decoration: none !important;
+color: rgb(var(--basalt-main-text-color));
+text-align: center;
+transition-duration: 0.1s;
+}
+
+a.admohub-eplink {
+font-size: 2.5vw;
+line-height: 3vw;
+}
+
+a.admohub-accesslink {
+font-size: 1vw;
+line-height: 1vw;
+opacity: 60%;
+}
+
+a.admohub-eplink:hover, a.admohub-accesslink:hover {
+color: rgb(32, 32, 32);
+border-color: transparent;
+background-color: rgba(var(--basalt-main-text-color), 0.9);
+}
+
+a.admohub-accesslink:hover {
+opacity: 100%;
+}
+
+.admohub-title, .admohub-epno, .admohub-eptitle {
+user-select: none;
+}
+
+.admohub-about {
+display: flex;
+flex-flow: column nowrap;
+justify-content: center;
+align-items: center;
+height: 135vh;
+max-width: 30rem !important;
+margin: auto;
+font-family: var(--UI-font);
+word-spacing: 4px;
+}
+
+/* =============================================== */
+
+@media only screen and (max-width: 1230px) {
+
+.admohub-epimage {
+width: 45vw;
+}
+
+.admohub-epdesc {
+width: 55vw;
+padding: 0.5vw 0vw;
+}
+
+.admohub-epdirector {
+font-size: 2vw;
+}
+
+.admohub-epno {
+font-size: 3vw;
+}
+
+.admohub-eptitle {
+font-size: 6vw;
+line-height: 4.8vw;
+}
+
+a.admohub-eplink, a.admohub-accesslink {
+max-width: 28vw;
+padding: 2.3vw 1vw;
+}
+
+a.admohub-eplink {
+font-size: 3.5vw;
+line-height: 4vw;
+}
+
+a.admohub-accesslink {
+font-size: 1.6vw;
+line-height: 1.6vw;
+opacity: 70%;
+}
+
+}
+
+@media only screen and (max-width: 940px) {
+
+.admohub-splash {
+background-image: none;
+}
+
+.admohub-quote {
+font-size: 3.5vw;
+line-height: 3.5vw;
+}
+
+.admohub-epimage {
+display: none;
+}
+
+.admohub-epdesc {
+width: 100%;
+padding: 5.5vw 2.5vw;
+background-image: linear-gradient(90deg, rgb(0, 0, 0) 30%, rgba(0,0,0,0.4) 100%), linear-gradient(220deg, rgb(0, 0, 0) 0%, rgba(0,0,0,0) 40%), var(--admohub-epbg);
+background-size: cover;
+background-position: left center;
+}
+
+.admohub-epdirector {
+top: 5vw;
+right: 8vw;
+font-size: 2.6vw;
+}
+
+.admohub-epno {
+font-size: 4vw;
+}
+
+.admohub-eptitle {
+font-size: 8vw;
+line-height: 6.3vw;
+}
+
+a.admohub-eplink, a.admohub-accesslink {
+max-width: 36vw;
+padding: 3.3vw 2vw;
+}
+
+a.admohub-eplink {
+font-size: 4.5vw;
+line-height: 5vw;
+}
+
+a.admohub-accesslink {
+font-size: 2.3vw;
+line-height: 2.3vw;
+}
+
+}
+
+@media only screen and (max-width: 760px) {
+
+.admohub-splash {
+height: 65vh;
+}
+
+.admohub-quote {
+width: 80%;
+font-size: 4.5vw;
+line-height: 3.5vw;
+}
+
+.admohub-epdesc {
+align-items: center;
+background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.9) 0%, rgba(0,0,0,0.3) 100%), var(--admohub-epbg);
+background-position: center;
+text-align: center;
+}
+
+.admohub-epdirector {
+font-size: 3.3vw;
+opacity: 70%;
+}
+
+.admohub-epdirector::before {
+display: none;
+}
+
+.admohub-epno {
+font-size: 5vw;
+}
+
+.admohub-eptitle {
+font-size: 10vw;
+line-height: 8.3vw;
+}
+
+a.admohub-eplink, a.admohub-accesslink {
+max-width: unset;
+background-color: rgba(0, 0, 0, 0.6);
+padding: 4.3vw 9vw;
+}
+
+a.admohub-eplink {
+font-size: 7.5vw;
+line-height: 8vw;
+}
+
+a.admohub-accesslink {
+font-size: 3.5vw;
+line-height: 4vw;
+}
+
+.admohub-about {
+height: 120vh;
+max-width: unset !important;
+margin-inline: 3vw;
+font-size: 3vw;
+text-align: justify;
+}
+
+}
+
+/* =============================================== */
+
+#u-6820 {
+--admohub-epbg: url(https://scp-wiki.wikidot.com/local--files/admonition/admo-6820-epimage.jpg);
+--admohub-epcolor: 97, 129, 196;
+}
+
+#u-6747 {
+--admohub-epbg: url(https://scp-wiki.wikidot.com/local--files/admonition/admo-6747-epimage.webp);
+--admohub-epcolor: 63, 0, 214;
+}
+
+#u-6659 {
+--admohub-epbg: url(https://scp-wiki.wikidot.com/local--files/admonition/admo-6659-tets.png);
+--admohub-epcolor: 255, 115, 60;
+}
+
+#u-6488 {
+--admohub-epbg: url(https://scp-wiki.wdfiles.com/local--files/scp-6488/infovore.jpg);
+--admohub-epcolor: 0, 200, 210;
+}
+
+#u-6183 {
+--admohub-epbg: url(https://scp-wiki.wikidot.com/local--files/admonition/blackbox.png);
+--admohub-epcolor: 20, 20, 20;
+}
+
+#u-7243 {
+--admohub-epbg: url(https://scp-wiki.wdfiles.com/local--files/scp-7243/admo-7243-exactus.jpg);
+--admohub-epcolor: 0, 145, 102;
+}
+
+[[/module]]
+
+[[div style="display: none;"]]
+[[include component:image-block
+name=https://scp-wiki.wdfiles.com/local--files/admonition/admo-thumbnail.png
+|caption=告誡
+|width=100%
+|align=center]]
+[[/div]]
+
+[[div class="admohub-rate"]]
+[[module Rate]]
+[[/div]]
+
+[[div class="admohub-splash"]]
+
+[[div class="admohub-title"]]
+告誡
+[[/div]]
+
+[[/div]]
+
+[[span class="admohub-quote"]]
+[[size 80%]]「權力令人腐敗，絕對的權力令人徹底腐敗。」[[/size]][[/span]]
+
+[[div class="admohub-container"]]
+
+[[div id="6820" class="admohub-episode"]]
+[[div class="admohub-epimage"]]
+[[/div]]
+[[div class="admohub-epdesc"]]
+[[div]]
+[[span class="admohub-epdirector"]]PLACEHOLDER[[/span]]
+[[/div]]
+[[div]]
+[[span class="admohub-epno"]]第 **一** 幕[[/span]]
+[[span class="admohub-eptitle"]]抹殺嘗試[[/span]]
+[[/div]]
+[[div]]
+[[a class="admohub-eplink" href="/scp-6820"]]閱覽章節[[/a]]
+[[a class="admohub-accesslink" href="/scp-6820/offset/1"]]閱覽無障礙模式 [[/a]]
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[div id="6747" class="admohub-episode"]]
+[[div class="admohub-epimage"]]
+[[/div]]
+[[div class="admohub-epdesc"]]
+[[div]]
+[[span class="admohub-epdirector"]]RALLISTON[[/span]]
+[[/div]]
+[[div]]
+[[span class="admohub-epno"]]第 **二** 幕[[/span]]
+[[span class="admohub-eptitle"]]混沌理論[[/span]]
+[[/div]]
+[[div]]
+[[a class="admohub-eplink" href="/scp-6747"]]閱覽章節[[/a]]
+[[a class="admohub-accesslink" href="/scp-6747/offset/1"]]閱覽無障礙模式 [[/a]]
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[div id="6659" class="admohub-episode"]]
+[[div class="admohub-epimage"]]
+[[/div]]
+[[div class="admohub-epdesc"]]
+[[div]]
+[[span class="admohub-epdirector"]]DODODEVIL[[/span]]
+[[/div]]
+[[div]]
+[[span class="admohub-epno"]]第 **三** 幕[[/span]]
+[[span class="admohub-eptitle"]]超然上智[[/span]]
+[[/div]]
+[[div]]
+[[a class="admohub-eplink" href="/scp-6659"]]閱覽章節[[/a]]
+[[a class="admohub-accesslink" href="/scp-6659/offset/1"]]閱覽無障礙模式[[/a]]
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[div id="6488" class="admohub-episode"]]
+[[div class="admohub-epimage"]]
+[[/div]]
+[[div class="admohub-epdesc"]]
+[[div]]
+[[span class="admohub-epdirector"]]JACK IKE[[/span]]
+[[/div]]
+[[div]]
+[[span class="admohub-epno"]]第 **四** 幕[[/span]]
+[[span class="admohub-eptitle"]]第八誡命[[/span]]
+[[/div]]
+[[div]]
+[[a class="admohub-eplink" href="/scp-6488"]]閱覽章節[[/a]]
+[[a class="admohub-accesslink" href="/scp-6488/offset/1"]]閱覽無障礙模式[[/a]]
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[div id="6183" class="admohub-episode"]]
+[[div class="admohub-epimage"]]
+[[/div]]
+[[div class="admohub-epdesc"]]
+[[div]]
+[[span class="admohub-epdirector"]]BILLITH @@ @@ + @@ @@ MONTAGUEETC[[/span]]
+[[/div]]
+[[div]]
+[[span class="admohub-epno"]]間幕[[/span]]
+[[span class="admohub-eptitle"]]黑條[[/span]]
+[[/div]]
+[[div]]
+[[a class="admohub-eplink" href="/scp-6183"]]閱覽章節[[/a]]
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[div id="7243" class="admohub-episode"]]
+[[div class="admohub-epimage"]]
+[[/div]]
+[[div class="admohub-epdesc"]]
+[[div]]
+[[span class="admohub-epdirector"]]HARRYBLANK[[/span]]
+[[/div]]
+[[div]]
+[[span class="admohub-epno"]]第 **五** 幕[[/span]]
+[[span class="admohub-eptitle"]]存在消解[[/span]]
+[[/div]]
+[[div]]
+[[a class="admohub-eplink" href="https://scp-wiki.wikidot.com/scp-7243"]]閱覽章節[[/a]]
+[[a class="admohub-accesslink" href="https://scp-wiki.wikidot.com/scp-7243/offset/1"]]閱覽無障礙模式[[/a]]
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[/div]]
+
+[[div class="admohub-about"]]
+[[div]]
+
+[[span class="bigtext"]]**告誡**[[/span]]是一個合著系列，通常與SCP項目文章相關，且這些文章的內容皆與全能一詞環環相扣。主要訴說了一個//全能//的基金會以自身的任務宗旨還有人類的傲慢為核心，正試圖去收容那些勢不可擋之物，將原先的不可能給蹂躪在地。
+
+章節中的每一部分都會交由一名優秀的獨特作者擔任「導演」，以獨特的文筆風格來探討整個基金會宇宙，再與本中心頁的其中一個特殊環節相呼應來作總結。新章節將按照整體計劃不定期發佈；系列將包括十個章節，以及數篇補充文章。
+= @@ @@
+
+就規矩上來講，[[span class="bigtext"]]**告誡**[[/span]]是[[[ site-17-hub|Site-17深井目錄]]]世界觀中的其中一個時間線分支；當中出現的角色、異常以及其它設定皆出自該中心頁內，並有可能會在不完全遵守原作設定的情況下來採用其設定。
+= @@ @@
+
+[[div style="font-size: 90%;"]]
+= 由Liryn，Placeholder McD一同建立、維護
+[[/div]]
+
+[[div style="word-spacing: 2px;"]]
+= **[[[https://discord.gg/ZAyqDSpZ4Y|加入Metafoundation的Discord]]]**
+[[/div]]
+
+[[/div]]
+[[/div]]

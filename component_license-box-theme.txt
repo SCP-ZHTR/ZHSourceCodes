@@ -1,0 +1,9 @@
+[[include :scp-zh-tr:component:license-box-backend
+|lang{$lang}=false
+|lang={$lang}
+|lang=false
+|author={$author}
+|author=%%created_by%%
+|translator={$translator}
+|translator=%%created_by%%
+]]

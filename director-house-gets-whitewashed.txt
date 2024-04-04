@@ -1,0 +1,229 @@
+[[include :scp-wiki:theme:black-highlighter-theme]]
+[[include :scp-wiki:theme:highroller]]
+[[include :scp-zh-tr:component:rso]]
+[[include :scp-zh-tr:component:info-ayers
+|lang=en[!-- EN/RU/KO/CN/FR/PL/ES/TH/JP/DE/IT/UA/PTBR --]
+|page=director-house-gets-whitewashed[!-- url of your page on the scp wiki --]
+|authorPage=http://www.scp-wiki.net/rounderhouse-s-author-page[!-- link to your author page --]
+|comments= Coming Soon - Rounderhouse
+]]
+[[=]]
+[[include info:start]]
+**House主管是個白人（還有其他可以自欺的謊話）**
+**作者：**[[*user rounderhouse]]
+**原文：**[https://scp-wiki.wikidot.com/director-house-gets-whitewashed Director House Is A Cracker (And Other Lies You Can Tell Yourself) ]
+**譯者：**[[*user Kikunai]]
+**圖像：** 見底部。
+[[include info:end]]
+[[/=]]
+[[module CSS]]
+:root:lang(zh){
+    --header-title: "SITE-666";
+    --header-subtitle: "陰間維加斯";
+}
+
+.info-container{
+--barColour: rgb(var(--dark-accent));
+--linkColour: rgb(var(--bright-accent));
+}
+
+.sign {
+    color: white;
+}
+
+.ature, .ature a, .ature a:visited {
+    color: rgb(var(--bright-accent));
+}
+[[/module]]
+
+監督特工Alice Sterling坐在她小小的辦公室裏的小小辦公桌前，盯着她那堆積如山的文書工作。她這幾天已經任由紙張積累，暗自視這座小丘為她放任而自然繁茂的花園，直到現實湧回腦袋，記起自己還要付租金，而能付租金的前提便是不被解僱。
+
+她輕嘆，手伸到背後，將自己一頭紅髮盤成髮髻，最後插上鉛筆當作髮簪。她擺弄着桌上的米色電腦，移動了機身、調整了螢幕，又將文具盒重新對齊着牆壁，擦去金毛獵犬裱框照片上的灰塵。
+
+她幾乎鼓起了翻開文件第一頁的勇氣，直至與她不夠十尺的門砰然打開，大力撞到牆上。她根據開門的力度，推測映入眼簾的是日曆巨大的身軀——但不，門框內的只是一位身材瘦長、皮膚呈太妃糖色，穿著筆挺的西裝，打著筆挺的領帶的男人。他彎着腰喘息。
+
+「老闆，我現正在處理文書。」她撒了難以令人信服的謊。
+
+男子終於挺直身子，讓她能夠仔細端詳他的臉。他眉頭心鎖，耳朵赤紅，嘴角固定在快要張口咆哮的樣子。
+
+//喔，老天。//
+
+「你呃，你還好嗎，老闆？」
+
+「**我不好**！」他扯着嗓子。「我完全不好，Sterling，而一個//死剩種//決定了我這一輩子不會再好起來。拿起槍，跟我來。」他轉頭便快步前往大堂。
+
+她拿起隨身手槍和外套，跟着他背後輕跑。男子其實不在跑，但她留意到他的步伐在生氣時似乎會加長，一步便能跨過一個小村莊。兩人在Site-666猶如迷宮般的地下通道穿梭。
+
+「又發生了那種事，對吧？」
+
+「對，//又來了//。」
+
+「你真的需要不再被這些事激怒了。」
+
+「我在你開始工作時才不會被激怒，[[span class="ruby"]]Snowman[[span class="rt"]]雪人[[/span]][[/span]]。」
+
+「那你繼續發怒吧。」
+
+兩人經過一扇門。House用拳頭大力鎚敲它。幾秒後，他們只聽到如卡通般的重擊聲和沙沙聲，接着門打開了，露出正在健身的日曆。House只瞄了她半眼，也許是他在相識後第一次這樣做。
+
+「起來，一起走！」
+
+他在日曆回應前便走向電梯。日曆低頭，疑惑地看着Sterling。
+
+「我邊走邊解釋，來吧。」
+
+儘管她剛才的安慰，Sterling並沒有在前往電梯的路程上解釋，三人擠在電梯裏的時候也沒有。站點的電梯可輕鬆容納幾個並肩站立的人（和惡魔）；但在這程，House以他那僅僅壓制着，且幾乎明顯的憤怒氣場佔據了電梯的前方，其餘兩人試圖將自己在角落擠得小小的——這對Sterling而言很困難，對日曆而言更甚，到了可笑的程度。
+
+她彎腰，向Sterling耳語：「我不明白，這麼多的怒意是怎樣塞到如此小的人類裏頭？」
+
+「這叫『精神崩潰』——」
+
+「你們給我閉嘴！這是正常得很的反應！」前方的House厲聲道。
+
+「老闆......」
+
+「我不會聽到的，Alice。我不會聽到你想說的話，聽到的話我也不會開心。我每天都在面對着來自每一個維度、每一個惡魔、每一個維加斯的發牌人的//各種破事//。我//最根本//的期待就是對我外表最根本的尊重。這等要求是不是太過分了嗎，Alice？是嗎？**是嗎？**」
+
+她清楚感覺到他其實並不想要答案。
+
+「基金會只會聘用國家——不，世界上最優秀絕頂的人才！這是一個遍地都是天才的組織，在這裏，連愛因斯坦覺得自己是尾正在出席門薩會議，而且特別笨的大頭魚。但這群人連//這個//也做不好！我人就在這裏啊，幹你娘。」
+
+他面頰的顏色從可可滲至深紅。顏色恢復原狀的時候，三人到了Thorner博士的辦公室門前。主管毫不客氣地將門踢開，但日曆和Sterling比他更先聽到最後的對話。
+
+「那些人應該發明那種呃，可以發熱的機器，然後呃，將那些小小的爆米花籽加熱成呃，完整爆米花。」Alice從那人甜美的聲音認出是她最蠢的特工。
+
+「有喔，Clark。那座機器叫作爆米花機。」Thorner在House衝進房間前說道。這位細小如鼠，戴着大眼鏡的女士站在她凌亂的辦公桌後面，撫平身上白袍的皺紋。
+
+「House主管，真是平平無奇的驚喜。我沒想到你的來臨呢。」
+
+「你的確沒有。」他咆哮。
+
+「你聽起來跟平時不同。我想猜度你現在的情緒，但我我對你的心理模擬還沒足夠信心來應付更複雜的情緒。Alice，他怎麼了？」
+
+「他很憤怒，Tess。」
+
+「原來如此。原因跟以往一樣，還是更有趣的？」
+
+「跟以往一樣。」
+
+「原來如此。」
+
+Clark從角落走過來。「老闆，你真的需要——」他似乎沒注意到Sterling浮誇地示意他他媽的閉嘴。
+
+「給我他媽的閉嘴，Clark。」
+
+「收到，長官。」
+
+日曆終於成功從門框擠入房間。「感覺除了我以外大家都知道發生了什麼，來解釋一下。」
+
+Sterling嘆息，挨在辦公桌上。「親愛的，House主管時常遭遇到一個問題——」
+
+「**不是//我//的問題，是//那幫人//的！**」
+
+「對，對，隨便你怎樣說。重點是，基金會裏的人經常，呃，那個字是甚麼來着......」
+
+「**搞砸。**」
+
+「//未能如實地//描繪我們親愛的老闆的容貌。有時是細節——眼睛、鼻子、頭髮......天啊你們還記得那次他的爛頭髮嗎？」
+
+「他的樣子就像人家在他的天靈蓋放了一個Pyrex玻璃盤子，然後用除草機替他理髮。」Clark站在角落咯咯笑着。
+
+「聽着，我可以//接受//這種事。這聽起來很白痴，但大多數人都超級不擅長形容別人的身體特徵。」有着塗漆便士皮膚色的男人說。「但這個？**太離譜**了。我不會容忍此等破事。Thorner，開始工作。」
+
+女士深深嘆息，打開了她的筆電。
+
+日曆好奇問道：「『這個』是甚麼意思？」
+
+「『這個』。」索納將螢幕翻轉，宣告着。
+
+[[=image https://scp-wiki.wdfiles.com/local--files/director-house-gets-whitewashed/directorhouse.jpg]]
+
+女惡魔退縮了。
+
+「他是//誰//啦？」
+
+她抬起頭，看到Sterling和Clark強忍著笑聲，而House沉着面色。
+
+「但......但他是——」
+
+「白的！你沒有眼花！他是......雪惡魔！酵母色的珠穆朗瑪峰雪人！」他自言自語地胡言亂語。「看着我，**看着我**！」他猛地拉下西裝袖子，露出手臂的皮膚。「我的膚色的Hex色碼跟那隻怪物的根本不在同一個色系啊。」
+
+Sterling輕聲笑了。
+
+「我向世上每一個神明發誓，Alice，我會確保你死後墮入每一個存在的地獄。環遊他媽的地下世界，寶貝。」
+
+「請你穿好襯衫，除非你也想給我們看看那裏的膚色？」
+
+日曆為了阻止House撲向他的維安主任而不得不捏住他的西裝外套領子，維安主任卻出色地躲開了。
+
+「冷靜，冷靜！我們在幫你，不是嗎？但，嗯，就是這樣，日曆，但我個人還是不明白為甚麼他會如此激動。」
+
+「我們皮囊裏的味道都是一樣的。」Thorner頭也沒離開她的筆記型電腦，高興地說道。
+
+「那是因為你們三人比Home Depot的內部裝修油漆部還要白。你們比身處暴雪的北極熊還要白；比漂白水膠樽內部還要白；比共和黨全國代表大會的人還要白；比——」
+
+「我是紅色的！」日曆反駁。
+
+「你的頭髮是白色的！」
+
+「你的//襯衫//是白色！」
+
+「你給我閉閉。你們三人的黑色素總量根本都不夠填好油漆顏色樣本的格子。重點是，[[span class="ruby"]]我他媽的是棕色的[[span class="rt"]]I’m brown as hell[[/span]][[/span]]——」
+
+「地獄其實挺紅的。」
+
+「——老子的父親是他媽的棕色，父親的父親也他媽的是棕色，如果我讓某個月薪跟我在一套衣服上花的錢一樣多的笨蛋研究員抹掉這一點，我就完蛋了。」
+
+一陣沉默過後，日曆問了一道顯而易見的問題。
+
+「那，你打算怎麼辦？」
+
+「身為擁有大量資源的人，我發出了幫忙的請求，並從Site-7徵用了一台簡單的.AIC。當有人將帶有關鍵字‘house’或者‘site-666’的圖像上載到基金會的電子服務，我就會收到通知，接着我就能埋伏，等待獵物了。」
+
+「然後呢？你叫他不要這樣做？」
+
+Thorner瞬間站了起來。「捉到了。Area-14，一級人員，Rob Berr初級研究員。唔，在美國的另一側呢。如果搭穿梭機就能很快到達。」
+
+House咧齒笑了。「不是，但我們現在會這樣行。」
+----
+初級研究員Rob Berr躺在自己的床鋪上。Area-14與文明世界的其他部分隔絕開來，這為其工作人員提供了一些舒適的生活條件——其中之一就是為每位研究員提供了一間獨立的宿舍。雖然只是跟酒店房間差不多，但卻為他提供了足夠的私人空間，讓他可以在沒有窺探者的情況下進行他的黑暗行動。
+
+Berr有一個愛好。他有藝術天賦，他的愛好就是利用這種天賦，不光彩、不準確，有時甚至是不公地繪畫與他有過節的異常現象和人員。「與他有過節」指的往往是武斷的和虛構的事，但這並不能改變他的平板電腦上現在有一個名副其實的圖片集的事實——其中最新的一幅畫描繪着一個留著絡腮鬍子，穿着新春攻勢時燙平好的襯衫，而且有着蛋黃醬膚色的男子。"Directorhouse.jpg"是他迄今為止最好的作品。
+
+門被炸開時，他正在創作後續作品。他根本沒有機會繼續下去。
+
+一個巨大的紅色模糊物猛撲過來，在他拿到通訊器之前抓住他的雙腿，將他舉到空中。 兩名特工就在門外站崗。一張熟悉——雖然是顛倒的——臉孔映入眼簾。
+
+「嘿，混帳。還記得我嗎？」Randall House主管微笑問道，雙眼充滿了瘋狂。
+
+Burr試着結結巴巴地回答。
+
+「我就當你認得了。我看到了你畫的肖像！說真的，我很開心。我喜歡你說我看起來像在嘉年華帳篷裏付了五塊錢剃了鬍鬚，雖然我實際上剃鬚要花三十塊錢，而且幾乎從不在嘉年華帳篷裏剃鬚。你這混帳。說回正題，我很喜歡它，但呃，你漏掉了一個//小//細節。」
+
+主管撲了過去，雙手抓住Berr的頭部兩側。
+
+「**老子不是白人**。我不是[[span class="ruby"]]陶瓷寄生蟲[[span class="rt"]]porcelain parasite[[/span]][[/span]]，不是[[span class="ruby"]]鹽湯[[span class="rt"]]salt soup[[/span]][[/span]]，不是[[span class="ruby"]]粟粉遠征者[[span class="rt"]]cornstarch crusader[[/span]][[/span]]，不是[[span class="ruby"]]因為乳酪過期而大叫的人[[span class="rt"]]expired yogurt yeller[[/span]][[/span]]、[[span class="ruby"]]白堊孩子[[span class="rt"]]chalk child[[/span]][[/span]]、[[span class="ruby"]]雅各主義猿人[[span class="rt"]]Yakubian ape[[/span]][[/span]][[footnote]]譯註：梗來自[https://www.reddit.com/r/BrandNewSentence/comments/xdghtz/send_me_your_cranial_measurements_you_old/ 此推文]。伊斯蘭民族是反白人、主張黑人優越主義以及反猶主義傾向根據的信仰的新興組織，根據該組織，雅各是一位6000年前的黑人科學家，為了報復而製造了白人種族，因此白人在本質上是邪惡的。來自[https://en.m.wikipedia.org/wiki/Yakub_(Nation_of_Islam) 英文維基百科]。 [[/footnote]]、無用途麪粉、漂白水惡魔、[[span class="ruby"]]警察至上主義北極熊[[span class="rt"]]pro-police polar bear[[/span]][[/span]]、無調味過的雞肉、[[span class="ruby"]]香草猩猩[[span class="rt"]]vanilla gorilla[[/span]][[/span]]、北極猴、尼安德特人Norman、香料不耐者、太淡色的愛爾淡啤酒、無法曬黑者、單色梵高、白旗火雞、[[span class="ruby"]]歐洲窮人[[span class="rt"]]European you’re-a-poor[[/span]][[/span]]、也不是白色惡魔[[footnote]]譯註：即白人[[/footnote]]，你這個混帳。
+
+他的呼吸粗重。
+
+「明白了麼？」
+
+Burr嗚咽，好像在同意似的。
+
+「OK。OK，很好。」House笑了。「行了，打斷他的腿吧。」
+
+[[=image https://scp-wiki.wdfiles.com/local--files/agent-calendars-hot-date-1/SITE666PATCH.png width="75px"]]
+
+[[include :scp-zh-tr:component:license-box]]
+=====
+> **Filename:** site666.png
+> **Author:** [[*user jerden]]
+> **License:** CC BY-SA 3.0
+> **Source Link:** [/secure-facilities-locations SCP Foundation Wiki]
+
+> **Filename:** directorhouse.jpg
+> **Author:** --Stupid Dumb Idiot Bozo-- TheRubber
+> **License:** CC BY-SA 3.0
+> **Source Link:** [https://youtu.be/s0EfpbjQZAo&t=3 Youtube]
+=====
+[[include :scp-zh-tr:component:license-box-end]]

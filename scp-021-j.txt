@@ -1,0 +1,31 @@
+[[include component:scp-meta-title-hiding css-style=classic]]
+[[include info:start]]
+**SCP-021-J - 邪惡 :(**
+**原文：**[https://scp-wiki.wikidot.com/scp-021-j SCP-021-J - Evil :(]
+作者：[[*user bigmaleman]]
+譯者：[[*user Tostren]]
+[[include info:end]]
+
+[[include component:image-block name=https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Plastic_Water_Bottle.jpg/640px-Plastic_Water_Bottle.jpg|caption=邪惡 :(]]
+
+**項目編號：**SCP-021-J
+
+**項目等級：**圍險
+
+**特殊收容措施：**吳法收榮
+
+**描述：**邪惡的水憑
+
+
+[[include :scp-zh-tr:component:license-box
+|author=bigmaleman
+|translator=Tostren
+|lang=EN]]
+=====
+> **檔案名稱：** Plastic_Water_Bottle.jpg
+> **圖像作者：** Kykywinks
+> **圖像授權協議：** CC 4.0
+> **圖源連結：** https://commons.wikimedia.org/wiki/File:Plastic_Water_Bottle.jpg
+
+=====
+[[include :scp-zh-tr:component:license-box-end]]

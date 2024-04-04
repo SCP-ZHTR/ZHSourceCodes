@@ -1,0 +1,37 @@
+[[div id="new-pages-feed"]]
+[[module Listpages category="_default adult wanderers" tags="-原創 -翻譯" order="@URL|created_at" perPage="250" limit="@URL" offset="@URL"]]
+[[div class="time-of-creation"]]
+ %%created_at%%
+[[/div]]
+[[div class="created_by_name"]]
+%%created_by%%
+[[/div]]
+[[div class="created_by_id"]]
+%%created_by_id%%
+[[/div]]
+[[div class="name-of-page"]]
+%%fullname%%
+[[/div]]
+[[div class="vote_num"]]
+%%rating_votes%%
+[[/div]]
+[[div class="rating"]]
+%%rating%%
+[[/div]]
+[[div class="tags_list"]]
+%%tags%%
+[[/div]]
+[[div class="hidden_tags_list"]]
+%%_tags%%
+[[/div]]
+[[div class="title"]]
+%%title_linked%%
+[[/div]]
+[[div class="comments"]]
+%%comments%%
+[[/div]]
+
+
+
+[[/module]]
+[[/div]]

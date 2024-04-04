@@ -1,0 +1,322 @@
+[[iftags +外觀主題]]
+[[module css]]
+.scp-image-block.block-right {
+    margin: 1em 0 1em 2em;
+}
+
+.scp-image-block img {
+    min-width: 100%;
+    border: 0.5rem solid rgba(var(--pale-gray-monochrome));
+    box-sizing: border-box;
+}
+.colors_container {
+    width: 90%;
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+    font-weight: 700;
+    font-family: var(--header-font);
+}
+
+.colors_container >  .colors,
+.colors_container >  .subcolors {
+    width: 100%;
+    flex-shrink: 0;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.colors > .color,
+.subcolors > .color {
+    display: flex;
+    flex-direction: row;
+    flex-grow: 2;
+    justify-content: center;
+    align-items: flex-end;
+    padding: 0.5rem;
+    margin: 0.5rem;
+}
+
+.colors > .color > .sub,
+.subcolors > .color > .sub,
+.colors > .color > .sub > .css-variable,
+.subcolors > .color > .sub > .css-variable {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.colors > .color {
+    height: 7rem;
+    flex-basis: calc((100%/2) - 2rem);
+}
+
+.colors > .color.one {
+    background-color: rgba(var(--gray-monochrome),1);
+}
+
+.colors > .color.two {
+    background-color: rgba(var(--bright-accent),1);
+}
+
+.subcolors > .color {
+    height: 3rem;
+    font-size: 75%;
+    text-align: center;
+    flex-basis: calc((100%/6) - 2rem);
+}
+
+.colors > .color.one,
+.subcolors > .color.three,
+.subcolors > .color.five {
+    color: rgba(var(--swatch-text-light),1);
+}
+
+.subcolors > .color.one {
+    background-color: rgba(var(--pale-gray-monochrome),1);
+}
+
+.subcolors > .color.two {
+    background-color: rgba(var(--light-gray-monochrome),1);
+}
+
+.subcolors > .color.three {
+    background-color: rgba(var(--dark-gray-monochrome),1);
+}
+
+.subcolors > .color.four {
+    background-color: rgba(var(--medium-accent),1);
+}
+
+.subcolors > .color.five {
+    background-color: rgba(var(--dark-accent),1);
+}
+
+.subcolors > .color.six {
+    background-color: rgba(var(--newpage-color),1);
+}
+
+.color > .sub > .css-variable {
+    font-size: 75%;
+    letter-spacing: 0.1em;
+    font-family: var(--body-font);
+}
+
+[[/module]]
+
+[[=]]
++ 主題顏色
+[[/=]]
+
+[[div_ class="colors_container"]]
+[[div_ class="colors"]]
+[[div_ class="color one"]]
+[[div_ class="color sub"]]
+Palm Leaf [[span class="css-variable"]]@@--gray-monochrome@@[[/span]][[span class="css-variable"]]@@(45, 70, 45)@@[[/span]]
+[[/div]]
+[[/div]]
+[[div_ class="color two"]]
+[[div_ class="color sub"]]
+Golden Yellow [[span class="css-variable"]]@@--bright-accent@@[[/span]][[span class="css-variable"]]@@(255, 219, 90)@@[[/span]]
+[[/div]]
+[[/div]]
+[[/div]]
+[[div_ class="subcolors"]]
+[[div_ class="color one"]]
+[[div_ class="color sub"]]
+Surf [[span class="css-variable"]]@@--pale-gray-monochrome@@[[/span]][[span class="css-variable"]]@@(178, 210, 180)@@[[/span]]
+[[/div]]
+[[/div]]
+[[div_ class="color two"]]
+[[div_ class="color sub"]]
+Envy [[span class="css-variable"]]@@--light-gray-monochrome@@[[/span]][[span class="css-variable"]]@@(130, 160, 135)@@[[/span]]
+[[/div]]
+[[/div]]
+[[div_ class="color three"]]
+[[div_ class="color sub"]]
+Cardin Green [[span class="css-variable"]]@@--dark-gray-monochrome@@[[/span]][[span class="css-variable"]]@@(30, 55, 30)@@[[/span]]
+[[/div]]
+[[/div]]
+[[div_ class="color four"]]
+[[div_ class="color sub"]]
+Gold Tips [[span class="css-variable"]]@@--medium-accent@@[[/span]][[span class="css-variable"]]@@(228, 180, 28)@@[[/span]]
+[[/div]]
+[[/div]]
+[[div_ class="color five"]]
+[[div_ class="color sub"]]
+Dark Goldenrod [[span class="css-variable"]]@@--dark-accent@@[[/span]][[span class="css-variable"]]@@(185, 150, 17)@@[[/span]]
+[[/div]]
+[[/div]]
+[[div_ class="color six"]]
+[[div_ class="color sub"]]
+Mango Tango [[span class="css-variable"]]@@--newpage-color@@[[/span]][[span class="css-variable"]]@@(221, 102, 17)@@[[/span]]
+[[/div]]
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[div class="scp-image-block block-right" style="width:300px;"]]
+[[image http://wanderers-library.wdfiles.com/local--files/component%3Atheme/wandererslibary_logobg.png width="300px" style="width:300px;" link="http://wanderers-library.wdfiles.com/local--files/component%3Atheme/wandererslibary_logobg.png"]]
+[[div class="scp-image-caption" style="width:300px"]]
+流浪者圖書館標誌
+[[/div]]
+[[/div]]
+
++ 示例
+
+可通過五個連字符“@@-----@@”創建水平分割線。若它未被放在其他部件（諸如引用塊）中，則會左右延伸貫穿頁面。這種將文件分割為多個部分的線就是分割線。
+
+-----
+
+如果將“@@-----@@”放入類（class）為“fancyhr”的div元素中，則可以顯示另一種水平線樣式，如下所示：
+[[div class="code"]]
+@@[[div_ class="fancyhr"]]@@
+@@-----@@
+@@[[/div]]@@
+[[/div]]
+
+效果如下：
+
+[[div_ class="fancyhr"]]
+-----
+[[/div]]
+
+[[div_ class="fancyborder"]]
+任何元素添加“fancyborder”類（class），即可顯示特殊邊框。例如，這是此方塊的代碼：
+[[div_ class="code"]]
+@@[[div_ class="fancyborder"]]@@
+@@文字內容@@
+@@[[/div]]@@
+[[/div]]
+[[/div]]
+
+標題可通過在一行字起始處輸入1至6個加號“+”來創建
+
+[[collapsible show="+ 標題" hide="- 標題"]]
++ 1 級標題
+
+++ 2 級標題
+
++++ 3 級標題
+
+++++ 4 級標題
+
++++++ 5 級標題
+
+++++++ 6 級標題
+[[/collapsible]]
+
+@@ @@
+
+[[tabview]]
+[[tab 分頁]]
+此為分頁（tab view）。
+[[/tab]]
+[[tab 分頁]]
+看，這有更多文字。
+
+多麽精巧絕倫。
+[[/tab]]
+[[tab 長Tab]]
+這是一個長的tab，它有很多文字。
+
+這是一個長的tab，它有很多文字。
+
+這是一個長的tab，它有很多文字。
+
+這是一個長的tab，它有很多文字。
+
+這是一個長的tab，它有很多文字。
+
+這是一個長的tab，它有很多文字。
+
+這是一個長的tab，它有很多文字。
+
+這是一個長的tab，它有很多文字。
+
+這是一個長的tab，它有很多文字。
+
+這是一個長的tab，它有很多文字。
+
+這是一個長的tab，它有很多文字。
+
+這是一個長的tab，它有很多文字。
+[[/tab]]
+[[tab 空tab]]
+[[/tab]]
+[[tab 空tab]]
+[[/tab]]
+[[tab 空tab]]
+[[/tab]]
+[[tab 空tab]]
+[[/tab]]
+[[tab 空tab]]
+[[/tab]]
+[[tab 空tab]]
+[[/tab]]
+[[/tabview]]
+
+> 這是一個引用塊，在一行字的起始處加上“> ”來創建。
+> 
+> 更多文字
+> -----
+> 一條分割線
+> 
+>> 嵌套引用塊
+
+||~ 這是 ||~ 表格 ||
+||你應該老早 || 就知道怎麽 ||
+||||做這個了吧 ||
+
+[[=]]
+正文字體為 Adelle Sans / 微軟雅黑。
+[[span style="font-family: var(--header-font);"]]頁眉及標題字體為 Zuijin / 隸書。[[/span]]
+[[span style="font-family: var(--mono-font);"]]等寬字為 Adaptive Mono / 新宋體。[[/span]]
+[[/=]]
+
+-----
+
+
+[[collapsible show="+ 顯示代碼" hide="- 隱藏代碼"]]
+[[code type="css"]]
+/*
+ * Wanderers' Dust Jacket Theme
+ *  Developed by Woedenaz
+ *  Build on nuSCP by Woedenaz and Croquembouche
+ *  Version: 1.00
+*/ 
+ 
+@import url("http://scp-wiki-cn.wikidot.com/wanderers:dustjacket-theme/code/1");
+
+
+:root:lang(zh) {
+  
+    --header-title: "流浪者圖書館";
+
+    /* Typefaces */
+    --body-font: adelle-sans, 'Lato', 'Microsoft YaHei', sans-serif;
+    --header-font: 'zuijinregular', 'Poppins',  LiSu, sans-serif;
+    --title-font: 'zuijinregular', 'Poppins', LiSu, sans-serif;
+    --mono-font: adaptive-mono, "PT Mono", "Andale Mono", "Courier New", NSimSun, Courier, monospace;
+    }
+
+#header h1 a {
+    font-size: 200%;
+}
+
+#header h1 a::before {
+    content: "流浪者圖書館";
+}
+div#extrac-div-3::before {
+    content: "流浪者圖書館";
+}
+    
+[[/code]]
+[[/collapsible]]
+[[/iftags]]
+
+[[module css]]
+@import url("http://scp-zh-tr.wikidot.com/wanderers:dustjacket-theme/code/1");
+[[/module]]

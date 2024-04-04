@@ -1,0 +1,7 @@
+[[tab 合格作品(機械抓取式)]]
+
+[[module Listpages category="*" tag="原創" created_by="ZH_mercury" separate="no" perPage="100" order="created_at" prependLine="發表次序 篇名 (評分)"]]
+# %%title_linked%% (%%rating%%)
+[[/module]]
+
+先讓我把人事的內容砍了，最近大整理個（？

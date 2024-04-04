@@ -1,0 +1,298 @@
+[[include :scp-zh-tr:component:three-enclosures-headquarters]]
+-------
+[[div style="background: url(https://i.imgur.com/aI6B4FE.png) center top no-repeat ; float: center; border: gray 1px; padding: 7px; margin: 3px; background-color: #fafafa ; team-win-chance: 100%; box-shadow: 0px 0px 1px 2px"]]
+[[span style="float:left; margin-right: 15px;"]]
+[[/span]]
+[[=]]
+[[size 150%]]
++ 基金會原創之星
+[[/size]]
+-------
+本頁面在整修維護中，預計四月中旬重新開始運營。
+[!--
+久等啦，關於我們原創組的獎勵頁終於終於登場了喔！
+
+有了翻譯建設的[[[foundation-star|基金會之星]]]後原創的當然也要有星星啦
+
+日後隨著我們每次的大小競賽舉辦，參賽者將視情況取得不同的星星點數
+
+每次增加點數原創之星的徽章都將發生細微的變化
+
+在這個頁面中我們記錄了所有在比賽中得到星星點數的作品與稱號
+
+得到這項獎勵的朋友們可自由的將徽章與稱號帶回作者頁中使用
+
+期盼看到大家在賽場上閃耀的樣子啦！加油
+--]
+[[/=]]
+[[/div]]
+
+@@ @@
+[[div style="border: gray 2px; padding: 7px; margin: 3px; background-color: #fafafa; team-win-chance: 100%; box-shadow: 0px 0px 5px 3px";]]
+[[table]][[row]][[cell style="width: 40%; margin:auto;padding-left: 20px"]]
+[[=]]
+[[image https://i.imgur.com/BZMDVb8.png width="180px"]]
+[[/=]]
+----
+[[size 150%]]
+= **[[user Jhih]] (2)**
+[[/size]]
+[[=]]
+[[collapsible show="時空旅人 ▼" hide="收起 ▲"]]
+《平行宇宙》 - 時空旅人_永保安康
+
+[[/collapsible]]
+[[/=]]
+@@ @@
+[[/cell]]
+[[cell style="width: 60%; margin:auto;padding-left: 5px"]]
+[[size 120%]]
+= **[[[*summer-contest-2019|2019暑期 平行宇宙 比賽]]]**
+[[/size]]
+------
+* [[[*scp-zh-515|SCP-ZH-515]]] 平安符
+@@ @@
+
+[[/cell]]
+[[/row]]
+[[/table]]
+[[/div]]
+-----------------------------------------------------------
+[[div style="border: gray 2px; padding: 7px; margin: 3px; background-color: #fafafa; team-win-chance: 100%; box-shadow: 0px 0px 5px 3px";]]
+[[table]][[row]][[cell style="width: 40%; margin:auto;padding-left: 20px"]]
+[[=]]
+[[image https://i.imgur.com/7lDcMdR.png width="180px"]]
+[[/=]]
+----
+[[size 150%]]
+= **[[user Reverberate_a]](4)**
+[[/size]]
+[[=]]
+[[collapsible show="稱號一覽 ▼" hide="收起 ▲"]]
+《平行宇宙賽》 - 時空旅人_別再穿越了
+《中秋烏路賽》 - 月餅達人_烤肉就是萬家香
+[[/collapsible]]
+[[/=]]
+@@ @@
+[[/cell]]
+[[cell style="width: 60%; margin:auto;padding-left: 5px"]]
+[[size 120%]]
+= **[[[*summer-contest-2019|2019暑期 平行宇宙 比賽]]]**
+[[/size]]
+------
+* [[[*you-need-icecream-in-summer|假如你來到這個宇宙請保持冷靜]]]
+@@ @@
+[[size 120%]]
+= **[[[*noisy-mid-autumn-festival|中秋烏路賽]]]**
+[[/size]]
+------
+* [[[*scp-zh-815|SCP-ZH-815]]] 一家烤肉萬家香
+
+[[/cell]]
+[[/row]]
+[[/table]]
+[[/div]]
+-----------------------------------------------------------
+[[div style="border: gray 2px; padding: 7px; margin: 3px; background-color: #fafafa; team-win-chance: 100%; box-shadow: 0px 0px 5px 3px";]]
+[[table]][[row]][[cell style="width: 40%; margin:auto;padding-left: 20px"]]
+[[=]]
+[[image https://i.imgur.com/BZMDVb8.png width="180px"]]
+[[/=]]
+----
+[[size 150%]]
+= **[[user Mayaw Kacaw ]](2)**
+[[/size]]
+[[=]]
+[[collapsible show="稱號一覽 ▼" hide="收起 ▲"]]
+《平行宇宙賽》 - 時空旅人_永和有永和路，中和也有永和路
+[[/collapsible]]
+[[/=]]
+@@ @@
+[[/cell]]
+[[cell style="width: 60%; margin:auto;padding-left: 5px"]]
+[[size 120%]]
+= **[[[*summer-contest-2019|2019暑期 平行宇宙 比賽]]]**
+[[/size]]
+------
+* [[[*scp-zh-199|SCP-ZH-199]]] 中永和迷宮
+
+[[/cell]]
+[[/row]]
+[[/table]]
+[[/div]]
+-----------------------------------------------------------
+[[div style="border: gray 2px; padding: 7px; margin: 3px; background-color: #fafafa; team-win-chance: 100%; box-shadow: 0px 0px 5px 3px";]]
+[[table]][[row]][[cell style="width: 40%; margin:auto;padding-left: 20px"]]
+[[=]]
+[[image https://i.imgur.com/qC3Q2qP.png width="180px"]]
+[[/=]]
+----
+[[size 150%]]
+= **[[user vomiter ]](3)**
+[[/size]]
+[[=]]
+[[collapsible show="稱號一覽 ▼" hide="收起 ▲"]]
+《中秋烏路賽》 - 月餅達人_廣寒寂寥
+[[/collapsible]]
+[[/=]]
+@@ @@
+[[/cell]]
+[[cell style="width: 60%; margin:auto;padding-left: 5px"]]
+[[size 120%]]
+= **[[[*summer-contest-2019|2019暑期 平行宇宙 比賽]]]**
+[[/size]]
+------
+* [[[*cats-in-kaleidoscopes|萬華鏡中的貓]]]
+@@ @@
+[[size 120%]]
+= **[[[*noisy-mid-autumn-festival|中秋烏路賽]]]**
+[[/size]]
+------
+* [[[*mu-yi-115|木易藏書閣目錄 木-一一五 ]]] 《望月箸》
+* [[[*scp-zh-272|SCP-ZH-272 ]]]  望地月岩
+
+[[/cell]]
+[[/row]]
+[[/table]]
+[[/div]]
+-----------------------------------------------------------
+[[div style="border: gray 2px; padding: 7px; margin: 3px; background-color: #fafafa; team-win-chance: 100%; box-shadow: 0px 0px 5px 3px";]]
+[[table]][[row]][[cell style="width: 40%; margin:auto;padding-left: 20px"]]
+[[=]]
+[[image https://i.imgur.com/BZMDVb8.png width="180px"]]
+[[/=]]
+----
+[[size 150%]]
+= **[[user Chromeblush  ]](2)**
+[[/size]]
+[[=]]
+[[collapsible show="稱號一覽 ▼" hide="收起 ▲"]]
+《中秋烏路賽》 - 月餅達人_不要蛋黃
+[[/collapsible]]
+[[/=]]
+@@ @@
+[[/cell]]
+[[cell style="width: 60%; margin:auto;padding-left: 5px"]]
+[[size 120%]]
+= **[[[*noisy-mid-autumn-festival|中秋烏路賽]]]**
+[[/size]]
+------
+* [[[*no-cooked-yolk-is-life|圓之夢，夢中之黃不是吉祥]]]
+
+[[/cell]]
+[[/row]]
+[[/table]]
+[[/div]]
+-----------------------------------------------------------
+[[div style="border: gray 2px; padding: 7px; margin: 3px; background-color: #fafafa; team-win-chance: 100%; box-shadow: 0px 0px 5px 3px";]]
+[[table]][[row]][[cell style="width: 40%; margin:auto;padding-left: 20px"]]
+[[=]]
+[[image https://i.imgur.com/cepFzsC.png width="180px"]]
+[[/=]]
+----
+[[size 150%]]
+= **[[user SamScript ]](1)**
+[[/size]]
+[[=]]
+[[collapsible show="稱號一覽 ▼" hide="收起 ▲"]]
+《中秋烏路賽》 - 月餅達人
+[[/collapsible]]
+[[/=]]
+@@ @@
+[[/cell]]
+[[cell style="width: 60%; margin:auto;padding-left: 5px"]]
+[[size 120%]]
+= **[[[*noisy-mid-autumn-festival|中秋烏路賽]]]**
+[[/size]]
+------
+* [[[*scp-zh-913|SCP-ZH-913]]] 回家月餅
+
+[[/cell]]
+[[/row]]
+[[/table]]
+[[/div]]
+-----------------------------------------------------------
+[[div style="border: gray 2px; padding: 7px; margin: 3px; background-color: #fafafa; team-win-chance: 100%; box-shadow: 0px 0px 5px 3px";]]
+[[table]][[row]][[cell style="width: 40%; margin:auto;padding-left: 20px"]]
+[[=]]
+[[image https://i.imgur.com/cepFzsC.png width="180px"]]
+[[/=]]
+----
+[[size 150%]]
+= **[[user Etinjat ]](1)**
+[[/size]]
+[[=]]
+[[collapsible show="稱號一覽 ▼" hide="收起 ▲"]]
+《中秋烏路賽》 - 月餅達人
+[[/collapsible]]
+[[/=]]
+@@ @@
+[[/cell]]
+[[cell style="width: 60%; margin:auto;padding-left: 5px"]]
+[[size 120%]]
+= **[[[*noisy-mid-autumn-festival|中秋烏路賽]]]**
+[[/size]]
+------
+* [[[*wanderers:wandered-at-night|中秋夜遣懷]]] 
+
+[[/cell]]
+[[/row]]
+[[/table]]
+[[/div]]
+-----------------------------------------------------------
+[[div style="border: gray 2px; padding: 7px; margin: 3px; background-color: #fafafa; team-win-chance: 100%; box-shadow: 0px 0px 5px 3px";]]
+[[table]][[row]][[cell style="width: 40%; margin:auto;padding-left: 20px"]]
+[[=]]
+[[image https://i.imgur.com/cepFzsC.png width="180px"]]
+[[/=]]
+----
+[[size 150%]]
+= **[[user minmasterqw ]](1)**
+[[/size]]
+[[=]]
+[[collapsible show="稱號一覽 ▼" hide="收起 ▲"]]
+《中秋烏路賽》 - 月餅達人
+[[/collapsible]]
+[[/=]]
+@@ @@
+[[/cell]]
+[[cell style="width: 60%; margin:auto;padding-left: 5px"]]
+[[size 120%]]
+= **[[[*noisy-mid-autumn-festival|中秋烏路賽]]]**
+[[/size]]
+------
+* **[[[*scp-zh-259|SCP-ZH-259]]]** 人去餅空
+
+[[/cell]]
+[[/row]]
+[[/table]]
+[[/div]]
+-----------------------------------------------------------
+[[div style="border: gray 2px; padding: 7px; margin: 3px; background-color: #fafafa; team-win-chance: 100%; box-shadow: 0px 0px 5px 3px";]]
+[[table]][[row]][[cell style="width: 40%; margin:auto;padding-left: 20px"]]
+[[=]]
+[[image https://i.imgur.com/cepFzsC.png width="180px"]]
+[[/=]]
+----
+[[size 150%]]
+= **[[user Lostwhat]](1)**
+[[/size]]
+[[=]]
+[[collapsible show="稱號一覽 ▼" hide="收起 ▲"]]
+《中秋烏路賽》 - 月餅達人
+[[/collapsible]]
+[[/=]]
+@@ @@
+[[/cell]]
+[[cell style="width: 60%; margin:auto;padding-left: 5px"]]
+[[size 120%]]
+= **[[[*noisy-mid-autumn-festival|中秋烏路賽]]]**
+[[/size]]
+------
+* **[[[*no-door-open-for-me|只不過是人生、只不過是罪惡、只不過是一場濫用職權的普通實驗]]]** 
+
+[[/cell]]
+[[/row]]
+[[/table]]
+[[/div]]
+-----------------------------------------------------------

@@ -1,0 +1,516 @@
+[[include :scp-zh-tr:component:toggle-sidebar]]
+
+[[include :scpko:theme:anniversary
+|custom=1|bg=#FFF|ip=#000|font=#000
+|subtitle=退役人員事務部門
+]]
+
+[[include :scp-zh-tr:component:info-ayers
+|lang=zh
+|page=scp-1000-ko
+|authorPage=http://scpko.wikidot.com/thd-glasses-hub
+|comments=
+原文：[http://scpko.wikidot.com/scp-1000-ko SCP-1000-KO] [韓文]
+第一譯文：[https://scp-wiki.wikidot.com/scp-1000-ko SCP-1000-KO][[span class="ruby"]]星章[[span class="rt"]]基金會之星[[/span]][[/span]] _
+作者：[[*user thd-glasses]] _
+第一譯者：[[*user fluxman]]、[[*user thd-glasses]] _
+第二譯者：[[*user Frederica Bernkastel]] _
+代碼修整：[[*user Mang Gwan]] _
+
+摘錄內容：
+> 人類史是持續的鬥爭，是與無盡威脅的鬥爭。
+> 它折磨我們，粉碎我們，摧殘我們。
+> 然而，在此之後那相當嶄新的一步才使我們真正成為我們。
+>  
+> 您獻身於基金會使命的最前線。
+> 我們都由衷感激您不渝的忠誠。
+> 感謝您為保護人類與常態做出的重大貢獻。
+> 我們謹代表全體人類記住您的榮譽。
+> 
+> 為了表達敬意，我們將授予您這枚星章。
+]]
+
+@@@@
+@@@@
+
+@@@@
+@@@@
+
+[[div class="award"]]
+
+[[module rate]]
+
+[[div class="star"]]
+[[/div]]
+
++ [[span]]基金會之星[[/span]]勳章
+++ [[span]]全人類[[/span]]之至高榮譽
+@@ @@
++++ 人類史是[[span]]持續的鬥爭，[[/span]][[span]]是與無盡威脅的鬥爭。[[/span]]
++++ 它折磨我們，[[span]]粉碎我們，[[/span]][[span]]摧殘我們。[[/span]]
++++ 然而，[[span class="divide"]][[span]]在此之後那[[/span]][[span]]相當嶄新的一步[[/span]][[/span]][[span]]才使我們真正成為我們。[[/span]]
+@@ @@
++++ 您獻身於[[span class="divide"]][[span]]基金會使命[[/span]][[span]]的最前線。[[/span]][[/span]]
++++ 我們都由衷感激您[[span]]不渝的忠誠。[[/span]]
++++ 感謝您為[[span class="divide"]][[span]]保護人類與常態[[/span]][[span]]做出的重大貢獻。[[/span]][[/span]]
++++ 我們謹代表[[span]]全體人類[[/span]][[span]]記住您的榮譽。[[/span]]
+@@ @@
++++ 為了表達敬意，[[span]]我們將授予您這枚星章。[[/span]]
+
+[[/div]]
+
+
+@@@@
+@@@@
+@@@@
+@@@@
+
+@@@@
+@@@@
+@@@@
+@@@@
+
+@@@@
+@@@@
+@@@@
+@@@@
+
+[[div class="message"]]
+
+[[div class="smalltitle"]]
+
+= **[[span]]退役人員事務部門[[/span]] [[span class="divide"]][[span]]致[[/span]] [[span]]「基金會之星」獲得者[[/span]][[/span]]**
+@@@@
+@@@@
+@@@@
+@@@@
+[[/div]]
+----
+= **SCP-1000-KO通用指引**
+
+@@@@
+@@@@
+
+很榮幸能將「基金會之星」授予我們的英雄。如果您是我們英雄的家眷，請容我們向殉職者表達最深切的哀悼與敬意。基金會發誓必會守護我們英雄的榮譽與家屬。
+
+我是監督者指揮部退役人員事務部門的金正皓部長。我代表監督者指揮部O5議會與退役人員事務部門全體，再度向我們英雄的貢獻與犧牲深表感激。
+
+本文將解釋何謂「基金會之星」，並告知領受者SCP-1000-KO的基本資訊。就原則而言，本文件的內容應由退役人員事務部門官員為您說明，如果您並未獲得此待遇，請透過文件底部的聯繫方式與退役人員事務部門聯繫。我們將竭誠為您處理相關事宜。
+
+@@@@
+@@@@
+
+「基金會之星」是以全體O5議會成員名義授予的至高榮譽。基金會之星設立於1944年，旨在以正確方式紀念我們的英雄，他們或者為基金會使命做出了重大貢獻，或者拯救了無數的平民與他的戰友，抑或是留下了其他與前者相當的偉大成就。
+
+由於基金會的隱蔽性質，我們的英雄無法獲得他們應得的榮譽與敬重。為了解決這樣的問題，基金會設立了退役人員事務部門，由本部門制訂各類措施作為補償。
+
+獲獎者及其直系親屬可從退役人員事務部門獲得多種福利，如養老金、基金會紀念物、在認同國籍的國家公墓中獲得安葬等等。進一步的福利及其相關細節請參閱其他文件。
+
+@@@@
+@@@@
+
+此外，將提供「星章」授予基金會之星獲得者。頒發物有二：勳章與牌匾，以下描述將對此進行相關說明。
+
+「基金會之星」是被歸定為SCP-1000-KO的Thaumiel級異常工具，是由本部門負責設計、製造與維護，以保護我們的英雄及其親友。上述物品是在占星學的良辰吉日時，透過隕鐵、鉑金、銥金所打造。該雕刻物具有局部現實槽的功能，儘管其效果並不強大，卻足以阻止那些針對個人的攻擊行為。
+
+獲獎者應使SCP-1000-KO隨身在側。牌匾應置於家中，離開家門時應攜帶勳章。你不需要配戴勳章，只要將其放入包內即可。我們理解本措施頗為麻煩，以下將提供解釋說明其必要性。
+
+@@@@
+@@@@
+@@@@
+@@@@
+
+----
+= **SCP-1000-KO史**
+
+@@@@
+@@@@
+
+自1944年設立以來，「基金會之星」始終僅有形式功能，但到了1999年，基金會之星被賦予了特殊的使命與功能。
+
+1999年春，一名敵方嫌疑人在被機動特遣隊抓獲後，於轉運過程中自殺而大出血身亡。他透過自己的血與死對我們施加了詛咒，並導致那些被基金會視為英雄的人受其危害。這是對抓捕他特工的公然報復──他是獲得基金會之星的有力候選人。
+
+這只是個小事件，受到波及者卻不在少數。在該名PoI自殺後不到一個星期內，還在世的15位「基金會之星」獲得者有14位去世了。基金會人員的士氣大受打擊。在監督者指揮部的命令下，立即組建了保護倖存者並解除咒怨的團隊。
+
+幸運的是，倖存者的健康並沒有受到任何影響。然而，對死者進行調查卻顯示了嚴峻的事實，異常造成的現實扭曲是物理規律層級的，而解除詛咒的嘗試卻屢屢無法成功。
+
+@@@@
+@@@@
+
+應對小組分成兩個方向展開研究。一是這咒怨是如何運作的，並仔細擬測應對的預防措施，二是找出倖存者為何能從咒怨中倖存。令人訝異的是，兩者都導向了同樣的結論：他在朝鮮戰爭期間獲得的紀念遺物，有效阻止了咒怨的觸發。那是一把古王朝超常應對機構特製的劍，這把劍直到今日都還在發揮作用，從各方面來說都是相當驚人的發現。
+
+在數個月的分析、實驗與研究後，我們終於發現了那個遺物的結構與功能。那是個奇特的造物，有著比四寅劍更細緻的防禦機制，並按照陰陽五行的原理設計，使其能夠蘊藏陽氣，驅除陰厲。在占星術良辰吉日製作的劍，能夠使劍上的純陽之氣發揮強大的驅魔作用，並在與原料純陰隕鐵互相相合後，陰陽互斥，雕刻的模擬迴路在周圍部屬了活躍隔絕場。當代超常科學將其命名為局部現實槽，人工仿製如此技術在今日已經相當難得一見了。
+
+在無數次測驗與努力後，我們終於找到了合適的匠人，並確認了那把劍的精確原料。藉此，SCP-1000-KO成為了基金會能夠持續生產的少數Thaumiel實體之一。然而它也受到了隕鐵相當稀有，以及每12年只有1個時辰能進行製造的嚴格時間限制。
+
+牌匾與徽章中使用的SCP-1000-KO，是由經雕刻隕鐵球做為原料所製成，並在鍍上鉑銥合金後雕刻為八角形。它是防禦用工具，不僅滿足了阻絕1999年咒怨的原始目的，還保護你免於大多數的非物理異常威脅，從而正確的發揮其稀有特性。
+
+@@@@
+@@@@
+@@@@
+@@@@
+
+----
+= **如何使用SCP-1000-KO**
+
+@@@@
+@@@@
+
+牌匾SCP-1000-KO最大保護範圍達半徑500公尺，但在半徑200~300公尺以內最能保障您的安全。退役人員事務部門將會根據您的需求，將牌匾放置在您家中最適合的位置。
+
+徽章SCP-1000-KO最大保護範圍是半徑50公尺。為求方便，我們將尺寸縮小並在後方加上別針，以便您將其別在胸前位置。如果您無心將徽章丟失，我們會盡量為您補辦，但由於最近一批的供應量相當有限，我們無法保證一定還有庫存。另外丟失徽章將使你的安全無法獲得保障，並有可能在此期間受到傷害，建議您在丟失徽章期間盡可能留在家中，並盡量謹慎不要使徽章丟失。
+
+綜上所述，SCP-1000-KO是應當在我們英雄左右的物品。我們也在物件上配備了緊急通報功能。您可以在牌匾的後方找到通報按鈕，也可以透過破壞徽章完成通報。一旦你遭遇了異常威脅、敵對GoI或非異常安全危險時，請不要猶豫立即使用它。您可以事先向基金會駐地與政府安全機構諮詢相關職能。無論您在什麼時候或身在何處，快速應對小組必定會立即前往發信地點。
+
+退役人員事務部門每年都會派遣團隊，確保SCP-1000-KO正常運作，並檢查當地現實槽與緊急通報系統EVATTRY的剩餘可用時間。您可以自行調整接受檢查的時間，也可以推延到隔年再做檢查，但為了您的安全，我們強烈建議您進行年度檢查。另外由於供應的短缺，推遲檢查最多可以到6年。我們預先感謝您的諒解。
+
+無論我們的英雄是殉職、戰死或因其他原因逝世，遺屬都可以保留「基金會之星」。遺屬也可以選擇歸還上述物品，在這種情況下，本部門將提供完全相同的複製品。如果您有相關要求請聯繫本部門，歸還的SCP-1000-KO將從原本飾物中取出，並成為我們MTF單位的戰術防護裝置。
+
+@@@@
+@@@@
+@@@@
+@@@@
+
+----
+= **結語**
+
+@@@@
+@@@@
+
+我們希望您已經對「基金會之星」與星章有足夠的了解。基金會之星是我們能授予的最高榮譽，而SCP-1000-KO則是我們對英雄的最高尊重。
+
+@@@@
+@@@@
+
+在「基金會之星」受到咒怨影響後，有人建議取消此政策，或只在當事人死後才予以頒發，以免讓受獎者遭受詛咒。然而，如果基金會不再紀念我們的英雄，誰還會願意在面紗後獻身？這是個宣告的問題，基金會究竟要屈服於異常，拋棄理應給予的榮譽，還是維持我們的授勳不惜一切代價？
+
+我們選擇了磊落的道路。SCP-1000-KO將作為「基金會之星」的牌匾與徽章繼續存在。這是基金會與人類為了報答英雄的終身奉獻，所應做到最基本的事情。
+@@@@
+@@@@
+
+基金會對我們的英雄及其家人表達最深切的感謝，無論我們的英雄是否還在基金會內，我們都會保證給予您最優惠的待遇。如果您對以上說明有任何疑問，或在使用過程中遭遇任何問題，請撥打以下電話聯繫我們。
+
+@@@@
+@@@@
+@@@@
+@@@@
+
+[[=image http://scpko.wdfiles.com/local--files/main/logo_white.png style="width: 50%; max-width: 150px; min-width: 70px;"]]
+
+@@@@
+@@@@
+
+[[div class="smalltitle"]]
+= **基金會 [[span]]退役人員事務部門[[/span]]**
+[[/div]]
+
+= 分機 0038 _
++1-000-001-0038
+
+@@@@
+@@@@
+@@@@
+@@@@
+
+[[/div]]
+
+
+
+[[module CSS]]
+/*-----zh-font -adaptation-----*/
+@import url(https://fonts.googleapis.com/earlyaccess/cwtexming.css);
+@import url(https://fonts.googleapis.com/earlyaccess/cwtexkai.css);
+
+@font-face {
+    font-family: 'Daehan-Bold';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_twelve@1.1/Daehan-Bold.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+h1, #page-title {
+    font-family: 'cwTeXKai', serif;
+}
+/*----------*/
+:root {
+  --header-logo: url(http://scpko.wdfiles.com/local--files/main/logo_white.png) 0px 35px no-repeat;
+  --barColour: #000;
+  --gap: 6px;
+  --width: 14px;
+}
+
+#header h1 a::before {
+   content: "SCP基金會";
+}
+
+
+#header h2 span {
+  margin-left: 20px;
+}
+
+#page-title, #breadcrumbs {
+  display: none;
+}
+
+div#extra-div-2 {
+  height: 34px;
+  z-index: -1;
+}
+
+#main-content {
+  margin-top: -20px;
+}
+
+.info-container .collapsible-block-unfolded {
+  border-color: rgba(0, 0, 0, 0.8);
+}
+
+.info-container .collapsible-block-unfolded {
+  height: 55em;
+}
+
+.info-container .collapsible-block-unfolded-link {
+  transform: translateY(calc(55em - 1.5em)) rotate(180deg);
+  mask-size: calc(100% + 10px);
+}
+
+.info-container .collapsible-block-unfolded-link .collapsible-block-link {
+  transform: rotate(180deg);
+}
+
+.award {
+  z-index: 1;
+  position: relative;
+  width: 100%;
+  text-align: center;
+  box-sizing: border-box;
+  padding: 70px 11% 70px 11%;
+  border-left: var(--width) solid #000;
+  border-right: var(--width) solid #000;
+}
+
+.award::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: var(--gap);
+  width: calc( 100% - 2*var(--gap) );
+  height: 100%;
+  border-left: var(--width) solid #000;
+  border-right: var(--width) solid #000;
+  box-sizing: border-box;
+}
+
+.award::after {
+  content: "";
+  position: absolute;
+  top: -2px;
+  left: calc( var(--width) * (-1) );
+  width: calc( 100% + 2*var(--width) + 1px );
+  height: calc( 100% + 4px );
+
+  background-repeat: no-repeat;
+  background-size: 50.1%;
+  background-image: url(http://scpko.wdfiles.com/local--files/scp-1000-ko/corner0.png), url(http://scpko.wdfiles.com/local--files/scp-1000-ko/corner2.png), url(http://scpko.wdfiles.com/local--files/scp-1000-ko/corner3.png), url(http://scpko.wdfiles.com/local--files/scp-1000-ko/corner4.png);
+  background-position: top left, top right, bottom left, bottom right;
+}
+
+.award .star {
+  z-index: 10;
+  position: relative;
+  width: 50%;
+  height: 0;
+  padding: 25% 0;
+  margin: 0 auto;
+  margin-bottom: 1em;
+
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-position: center;
+  background-image: url(http://scpko.wdfiles.com/local--files/component:thd-achievement-base/100.png);
+}
+
+.award h1 span, .award h2 span, .award h3 span,
+.award h1 span span, .award h2 span span, .award h3 span span {
+  z-index: 20;
+  position: relative;
+  line-height: 2;
+/*  word-break: keep-all;*/
+  font-weight: normal;
+}
+
+.award h1 span {
+  color: #000;
+  text-shadow: 0.3px 0.3px 0.1px #000, 0.3px -0.3px 0.1px #000, -0.3px 0.3px 0.1px #000, -0.3px -0.3px 0.1px #000;
+}
+
+.award h2 span {
+  font-family: 'cwTeXMing', serif;
+}
+
+.award h3 span {
+  font-family: 'Daehan-Bold';
+}
+
+.award h1, .award h2, .award h3 {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.award h1 span span, .award h2 span span, .award h3 span span, .message strong span {
+  white-space: nowrap;
+/*  word-break: keep-all;*/
+}
+
+.page-rate-widget-box {
+  z-index: 15;
+  position: absolute;
+  top: 47px;
+  right: 45px;
+}
+
+div.page-rate-widget-box,
+div.page-rate-widget-box .rate-points,
+div.page-rate-widget-box .rateup, .page-rate-widget-box .ratedown,
+div.page-rate-widget-box .cancel {
+  background-color: transparent !important;
+  border: none;
+  box-shadow: none;
+}
+
+.page-rate-widget-box .rate-points,
+.page-rate-widget-box .rateup a, .page-rate-widget-box .ratedown a,
+.page-rate-widget-box .cancel a {
+  color: #FFF;
+  text-shadow: 0 0 2px black;
+  border-radius: 0;
+}
+
+.page-rate-widget-box .rateup a:hover, .page-rate-widget-box .ratedown a:hover,
+.page-rate-widget-box .cancel a:hover {
+  background: #FFF;
+  color: #000;
+  text-shadow: none;
+  border-radius: 0;
+}
+
+#action-area .page-rate-widget-box {
+  position: static;
+  top: unset;
+  right: unset;
+}
+
+.message p {
+  font-family: 'cwTeXMing', serif;
+  font-size: 1.3em;
+  line-height: 1.8;
+/*  word-break: keep-all;*/
+  text-align: justify;
+}
+
+.message strong {
+  display: inline-block;
+  margin-top: -1.65em;
+  background: #FFF;
+  padding: 0 15px;
+  line-height: 1;
+}
+
+.message .smalltitle strong {
+  font-size: 120%;
+  line-height: 1.5;
+}
+
+#top-bar .open-menu a {
+  border: 0.2em solid #000;
+  border-radius: 0;
+  color: #000;
+}
+
+.info-container .collapsible-block-content {
+  text-align: center;
+}
+
+.translation_block {
+  display: none;
+}
+
+
+@media (max-width: 767px) {
+  :root {
+    --gap: 1.1vw;
+    --width: 2.2vw;
+  }
+  #header h2 span {
+    margin-left: 10px;
+  }
+  .award::after {
+    background-size: 65%;
+  }
+  .award {
+    padding: 15vw 12% 70px 12%;
+  }
+  .page-rate-widget-box {
+    top: calc( 3.2*var(--width) );
+    right: calc( 2.5*var(--width) );
+  }
+  .message {
+    text-align: left;
+  }
+}
+
+@media (max-width: 580px) {
+  #header h2 span {
+    margin-left: 0;
+  }
+  #search-top-box-input {
+    display: none;
+  }
+  .award {
+    padding: 15vw 10% 70px 10%;
+  }
+  .award h3 span span.divide,
+  .message strong span.divide {
+    white-space: normal;
+  }
+  .award h3 span span.divide span,
+  .message strong span.divide span {
+    white-space: nowrap;
+  }
+  .message p {
+    font-size: 1.15em;
+    line-height: 1.7;
+    word-break: normal;
+  }
+}
+@media (max-width: 385px) {
+  .award h3 span,
+  .award h3 span span,
+  .award h3 span span.divide span, {
+    word-break: normal;
+    white-space: normal;
+  }
+}
+[[/module]]
+
+[[div style="display: none;"]]
+[[code type="css"]]
+#interwiki a,
+#side-bar a:visited, #interwiki a:visited,
+#interwiki a.newpage {
+  color: #000;
+}
+#interwiki .menu-item img {
+  filter: brightness(0);
+}
+
+#interwiki .side-block {
+  border: none;
+  box-shadow: none;
+}
+[[/code]]
+[[/div]]
+[[include :scp-zh-tr:component:interwiki-style
+| priority=1
+| theme=http://scp-zh-tr.wdfiles.com/local--code/scp-1000-ko/1
+]]

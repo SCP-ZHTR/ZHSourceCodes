@@ -1,0 +1,175 @@
+[[include info:start]]
+[[span style="color:black"]]
+原文：[[[http://lafundacionscp.wikidot.com/peligro-igniciervos|Peligro: ¡Igniciervos!]]]
+作者：[[*user Dc_Yerko]]
+
+英文翻譯：[[[http://scp-int.wikidot.com/peligro-igniciervos|Danger: Incinideer!]]]
+英文譯者：[[*user Uncle Nicolini]]
+
+譯者：[[*user feitag]]
+圖片來源：[[[http://lafundacionscp.wikidot.com/forum/t-12088177/peligro-igniciervos#post-4282193|圖片出處見原作者帖]]]
+[[/span]]
+[[include info:end]]
+
+[[include :scp-zh-tr:theme:wilsons]]
+
+[[div class="wilson-border"]]
+[[div class="wilson-header"]]
+[[size 1.75em]][[span style="-webkit-text-stroke-width: 1px; -webkit-text-stroke-color: white; -moz-text-stroke-width: 1px; -moz-text-stroke-color: white;"]]危險：燃火鹿！[[/span]][[/size]]
+[[/div]]
+[[div class="wilson-body"]]
+
+[[=image http://scp-yerko-2.wdfiles.com/local--files/wilsons/Fire-1.jpg]]
+
+
+
+[[table]]
+[[row]]
+[[cell style="width: 50%; margin:auto; padding-right: 5px;"]]
+
+哈囉，我是一隻燃火鹿！你可以藉由我和我的表親紅鹿非常相似的外表，以及我熊熊燃燒的熾熱鹿角來認出我。別擔心，我的火焰並不會傷害我，但無論如何你應該小心我和我的火。
+
+我非常喜歡我的家族，和他們分開讓我感到難過，所以我邀請他們和我一起住在這裡，就在翠綠的亞馬遜！這是巴西的一片大森林，充滿了各種各樣的動植物，包括像我們一樣的特別生物！
+
+[[/cell]]
+[[cell style="width: 50%; margin:auto; padding-left: 10px;"]]
+我的家族就是我的一切，這代表陌生人太接近我的家族的時候讓會讓我緊張，所以請保持距離，特別是你身上有易燃物的時候！那樣對森林裡的大家都有危險！
+
+我們知道我們的火有多危險，就算我們不能控制我們頭上的火，但我們總是盡全力避免點燃其他東西，所以我們傾向於待在山谷中。如果有意外發生，我們會盡快用土覆蓋火焰，然後等待消防員！
+
+[[/cell]]
+[[/row]]
+[[/table]]
+[[/div]]
+
+[[div class="wilson-subtitle"]]
+關於我的注意事項和事實！
+[[/div]]
+[[div class="wilson-body"]]
+[[table]]
+[[row]]
+[[cell style="width: 50%; margin:auto; padding-right: 5px;"]]
+* 我發現黃色和橙色很難區分，但是你穿這些顏色不會讓我看不到你！
+* 我可以在幾乎一公里遠的地方知道你的野餐籃裡面是什麼，所以不要讓目光離開你的食物！
+* 我的耳朵非常善於識別森林中的奇怪聲音，所以我們知道你是否來拜訪我們！
+* 我們非常容易受驚嚇，而且會保護家族，所以別來拜訪我們！
+[[/cell]]
+[[cell style="width: 50%; margin:auto; padding-left: 10px;"]]
+* 你知道我們的火焰強度反映了我們的情緒嗎？燃燒得越明亮，我們就越快樂！悶燃的越小，我們就越悲傷......
+* 年輕雄鹿喜歡一起開派對！有時我們會生一座火，然後圍著它跳個幾小時。
+* 生質燃料對我們來說是美食！
+* 我們的火焰供給我們心臟的能量，而不是相反。不要讓我們的火焰熄滅！
+[[/cell]]
+[[/row]]
+[[/table]]
+[[/div]]
+
+[[div class="wilson-subtitle"]]
+重要提醒！
+[[/div]]
+[[div class="wilson-body"]]
+> 狩獵 //Cervus ignis// (燃火鹿)，和狩獵其他異常生物一樣，都是被嚴格禁止的。獵人以及購買該物種之狩獵所衍生的產品的人，有可能失去作為異常社區公民之全部特權。
+> 
+> 這種動物的馴化被認為是不可行且危險的，並將撤銷上述特權作為懲罰。
+> 
+> 將此生物的存在暴露於公眾所知，將導致特權喪失，並以罪犯身分重新安置到 Facility-17。[[footnote]]異常罪犯收容設施 17，專門用於容納失去做為基金會根據 2007 自由異常社區條約 (Treaty on Free Anomalous Communities, TFAC) 所授權的異常社區成員之特權的人形異常。[[/footnote]]
+> 
+> -- Alonso de la Cruz
+> -- 保護異常動物
+> -- SCP 基金會
+
+[[/div]]
+[[div class="wilson-subtitle"]]
+__如有疑問或欲投訴：__
+地址：亞馬遜州 瀑布鎮 赫蕉大道 (Av. Heliconia, Pueblo Salto del Amazonas)[[footnote]]在 TFAC 之下的異常社區，能經由亞馬遜瀑布中的道路抵達。[[/footnote]]
+電話：+55 2913-5931
+Email：info@solucionesdewilson.latam
+威爾遜生物應對組！ ⁂ soluciones-de-wilson-latm
+[[/div]]
+[[/div]]
+[[div class="wilson-border" style="margin-top: 7em;"]]
+[[div class="wilson-subtitle"]]
+寄件人：Alonso de la Cruz
+收件人：Tim Wilson
+日期：27/10/2007
+[[/div]]
+[[div class="wilson-body"]]
+Wilson,
+
+我和您連絡是為了告知您我已經審查了您的提案。恐怕我們必需拒絕。這些生物不能在亞馬遜自由行動。的確，自從您抵達以來，由這些動物引起的火災件數已大幅減少，但我們已經開始注意到它們近年來開始失去對人類的恐懼。
+
+有一天，我們被告知在瑪瑙斯市有一隻燃火鹿闖入了垃圾場。市民們認為它著火了，然後那可憐的傢伙就死於他們對他扔去的水。那時我們走運，可以利用這個情況，宣稱他的死因是垃圾中毒，但這早就不讓人愉快了，Wilson。
+
+人們和動物互相危害。
+
+我們將不得不取消這個計畫。我希望所有燃火鹿盡快被圈養。
+
+[[>]]
+此致，
+Alonso de la Cruz
+[[/>]]
+[[/div]]
+[[/div]]
+[[div class="wilson-border" style="margin-top: 7em;"]]
+[[div class="wilson-subtitle"]]
+寄件人：Tim Wilson
+收件人：Alonso de la Cruz
+日期：6/11/2007
+[[/div]]
+[[div class="wilson-body"]]
+Mr. De la Cruz,
+
+我們按你的要求做了，但遇到了問題。我和男孩們在完成將一些家族從臥舖車搬運到卡車上之後，正在喝咖啡與吃餅乾，突然......原住民！他們騎著類似於三腳藍色美洲豹的動物到來，用弓箭瞄準我和孩子們。  我們能做的只有舉起雙手，抱樂觀的希望。
+
+其中一人──有著非常長的頭髮，騎在最大隻的藍色美洲豹上──接近我並開始說一堆我不了解的事情。然後他拿走我的咖啡，之後他們帶走卡車上的燃火鹿！這一切都發生得如此之快，我的心臟依然感覺要跳出我的胸膛。
+
+我只是希望他們不要受傷，那些小動物是無辜的！
+[[>]]
+抱樂觀的希望，
+Tim Wilson
+[[/>]]
+[[/div]]
+[[/div]]
+[[div class="wilson-border" style="margin-top: 7em;"]]
+[[div class="wilson-subtitle"]]
+寄件人：Alonso de la Cruz
+收件人：Tim Wilson
+日期：11/7/2007
+[[/div]]
+[[div class="wilson-body"]]
+Mr. Wilson,
+
+一些騎著燃火鹿的原住民用火箭攻擊了我們在亞馬遜雨林的其中一支偵察隊。這不是第一次發生類似的事情，顯然也不會是最後一次。
+
+有人說世界上最大的異常活動中心在美國，他們錯了。那只是最受注目的地方。這裡有著全世界最大、最多樣性的異常森林與地景。那麼難道你會告訴我這裡幾乎沒有異常嗎？這裡遍佈與滿溢著異常，但我們缺乏像你們的美國監管者一樣的資源與力量。
+
+威爾遜生物應對組在北美和日本堅實地確立了自身的地位。在我看來，是時候停止小型實驗，並進駐拉丁美洲。
+
+在這個地方的動物需要您，Wilson。我等待您的回覆。
+
+[[>]]
+
+Alonso de la Cruz
+[[/>]]
+[[/div]]
+[[/div]]
+[[div class="wilson-border" style="margin-top: 7em;"]]
+[[div class="wilson-subtitle"]]
+寄件人：Tim Wilson
+收件人：Alonso de la Cruz
+日期：13/7/2007
+[[/div]]
+[[div class="wilson-body"]]
+Mr. De La Cruz,
+
+這個月在巴西一直是情緒的雲霄飛車！我是孩子的時候，我一直聽老師們講述在亞馬遜所存在的動物有令人難以置信的多樣性，我好奇你是否曾想像過這也適用在異常上。
+
+頑強的單大象、威風的燃火鹿、那些在感到威脅時會變成小型坦克的金屬毛蟲，而現在又有這些大美洲豹。我和我的團隊很著迷，我們迫不及待地想看到更多。當你準備好要討論細節時，打電話給我。
+
+我們的家族擴展到拉丁美洲！
+[[>]]
+還在拆行李，
+Tim Wilson
+[[/>]]
+[[/div]]
+[[/div]]

@@ -1,0 +1,11 @@
+[[include :scp-zh-tr:theme:black-highlighter-theme]]
+
+[[iftags +_theme-temp]]
+該頁面目前已被停用。請不要從這個位址進行include。取而代之的是，請使用以下的代碼：
+
+[[div class="code"]]
+@@[[include :scp-zh-tr:theme:black-highlighter-theme]]@@
+[[/div]]
+
+真正的頁面在[[[theme:black-highlighter-theme|這裡]]]。
+[[/iftags]]

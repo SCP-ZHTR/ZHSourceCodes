@@ -1,0 +1,21 @@
+[[include :scp-zh-tr:theme:penumbra]]
+[[include :scp-zh-tr:component:toggle-sidebar]]
+[[module css]]
+:root {
+  --accentColor: #FF2D2D;
+  --lgurl: url("https://i.imgur.com/jd3H6iO.png");
+}
+#page-content .yui-navset .yui-content > div[style*="none"] {
+    animation: none 
+}
+#page-content .yui-navset .yui-content > div[style*="block"] {
+    animation: none 
+}
+[[/module]]
+
+[[include info:start]]
+**篇名：** 問題一：忒修斯之船
+**作者：** [[*user Kikunai]]
+[[include info:end]]
+@@ @@
+[[include component:image-block name=https://i.imgur.com/LK7qQpy.png|caption=如您已不在原本的宇宙，失去了樣貌和一切可以辨認您的特徵，連名字都是借舊同事的，問：您還是原來的Adam嗎？[http://scp-zh-tr.wikidot.com/and-then-there-were-you （██分）]|width=150%]]

@@ -1,0 +1,33 @@
+[[include :scp-zh-tr:component:scp-pride]]
+[[include component:scp-meta-title-hiding css-style=classic]]
+[[include info:start]]
+篇名:  SCP-3491- [無題鶴]
+原文：[https://scp-wiki.wikidot.com/scp-3491 SCP-3491 [UNTITLED TSURU]]
+作者：[[*user dalopon]]
+譯者：[[*user Red phosphorus ]]
+[[include info:end]]
+
+**項目編號**: SCP-3491
+
+**項目等級**: Euclid
+
+**特殊收容措施**: SCP-3491當前被保留於Site-15。除非提供適當設備，否則任何對象皆不可距離SCP-3491一公尺內超過30秒。
+
+所有距離SCP-3491五十公分內的實體皆必須接受淨化程序。
+
+**描述**: SCP-3491是一隻在鋼製鳥籠中的紙摺鳥。SCP-3491以未知方式懸在鳥籠中央。值得注意的是，SCP-3491的其中一個翼尖被稍微撕裂。
+
+從距離實體10公尺開始，可以偵測到電子，使SCP-3491與人類對象之間的能量增加。隨著對象靠近，電荷呈指數增加，直到對對象產生危險。過度暴露於SCP-3491產生的電荷將導致個體垂直中心的集中燒傷。
+
+移除SCP-3491的嘗試並不成功。當距離5公分以內，靠近的物體與SCP-3491之間產生的電荷強大到足以導致物質完全分解。這使得對象穿戴的任何防護材料都毫無用處。
+
+在這些強烈電荷產生後，SCP-3491的組成都沒有受到任何損害。
+
+
+[[footnoteblock]]
+
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[SCP-3490]]] | SCP-3491 | [[[SCP-3492]]] >>
+[[/=]]
+[[/div]]

@@ -1,0 +1,81 @@
+[[iftags +組件]]
+[[note]]
+**作者：**
+[[*user Ayers]]
+----
+**主力協助者：**
+[[*user Woedenaz]]
+----
+**其他協助者：**
+[[*user Rounderhouse]], [[*user djkaktus]] and [[*user Uncle-Nicolini]]
+----
+**如何使用：**
+http://scp-zh-tr.wikidot.com/component:info-ayers#toc4
+[[/note]]
+-----
+
+
+++ __範例__
+
+[[include :scp-zh-tr:component:info-ayers-source
+|page=component:info-ayers[!-- url of your page on the scp wiki --]
+|authorPage=http://www.scp-wiki.net/ayers-array[!-- link to your author page --]
+|comments=看看我！我是資訊模塊！
+]]
+[[collapsible show="[+] 範例代碼" hide ="[-] 範例代碼"]]
+> [[include :scp-zh-tr:component:info-ayers
+> |page=component:info-ayers[!-- url of your page on the scp wiki --]
+> |authorPage=http://www.scp-wiki.net/ayers-array[!-- link to your author page --]
+> |comments=Look at me! I'm an info module! Yay!
+> ]]
+[[/collapsible]]
+
+@@ @@
+@@ @@
+
+++ __這是做什麼用的？__
+
+這是一個用來在文章頁面頂端顯示著作資訊的工具。這本來是很容易打亂文章節奏的行為，但這個工具可以讓你在不破壞讀者閱讀體驗的同時又不需要特別建立作者回覆來說明著作資訊或作者心得。
+
+有些作者可能會選擇用這個區塊放內容警示，但這並不是一個常見做法而且也不總是有效 -- 看見一篇文章的時候沒有看見內容警示，那就代表沒有警示。
+@@ @@
+@@ @@
+
+++ __這是黑色標記筆(nuSCP)主題的一部份？__
+
+不是。雖然他們兩個放在一起的時候看起來棒極了，他們其實是分開的模塊。他們只是因為__看起來太棒了__所以才經常被放在一起。
+@@ @@
+@@ @@
+++ __這是怎麼運作的，還有我該怎麼使用它？__
+它是個摺疊塊（collapsible）。就是這樣。一個風格獨特的折疊塊。
+
+以下是你該加到文章**最頂部**的代碼：
+> [[include :scp-zh-tr:component:info-ayers
+> |page=scp-XXXX@@[!-- 你的頁面在這個維基網站的URL --]@@
+> |authorPage=http://www.scp-wiki.net/yourAuthorPage@@[!-- 你的作者頁連結 --]@@
+> |comments=任何作者回應（圖像來源、批評感謝、各式各樣的）
+> ]]
+**重要：** 如果你的作者回應多於一段，你必須在每一段的後面多加一個半形空白，否則文字不會顯示出來！另外，如果你的最後一行以 ]] 作為結尾（例如div區塊的結束語法），你必須在後面多加一串@@@@@@ @@
+-----
+這個模板有些div你可以自己用CSS模塊來調整。你可以將某些div隱藏來移除對應的部分：
+* #u-author_block -- 作者頁按鈕
+* .translation_block -- 他語言版本
+
+你還可以調整這兩個變數來改變資訊模塊的顏色
+
+> @@[[module CSS]]@@
+> .info-container{
+> @@--barColour: #633;@@ -- 這是收合條與作者按鈕的顏色
+> @@--linkColour: #FFF;@@ -- 這是"i"和作者頁按鈕中的文字的顏色
+> }
+> @@[[/module]]@@
+[[/iftags]]
+
+[[iftags -組件]]
+[[include :scp-zh-tr:component:info-ayers-source
+|comments={$comments}
+|page={$page}
+|authorPage={$authorPage}
+|comments={$comments}
+]]
+[[/iftags]]

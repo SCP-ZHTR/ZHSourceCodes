@@ -1,0 +1,140 @@
+[[include :scp-zh-tr:theme:black-highlighter-theme]]
+[[include :scp-wiki:theme:minimalist-bhl]]
+
+[[module CSS]]
+:root:lang(zh){
+     --header-title: "非現實部";
+     --header-subtitle: "使非現實成為 ㅤㅤㅤㅤ";
+     --lgurl: url('http://scp-wiki.wikidot.com/local--files/unreality-hub/Unreality%20Header%20Logo.svg');
+}
+[[/module]]
+
+[[include info:start]]
+原文：[http://www.scpwiki.com/your-imaginary-friend Your Imaginary Friend ] 你的想像朋友
+作者：[[*user Fishish]]、[[*user Deadly Bread]]
+譯者：[[*user Frederica Bernkastel]]
+
+**作者頁面！** [[[fishishpage | Fishish作者頁面]]]
+[[include info:end]]
+
+@@ @@
+//我從未見過這個。//
+
+他可不買帳。他那看我的空洞眼神已經表露無遺了。
+
+//這些文件是從你的帳號上傳數據庫的。//
+
+//是啊，而且我告訴你，我做不到這種事。在過去的幾天內，我甚至登不進我的帳號。//
+
+RAISA充滿了米色能量。別問我啥是米色能量，總之這可以完美形容他們的辦公室。坐在我面前的人嘆了口氣，稍稍轉動了他的螢幕。
+
+//就......聽著，我知道你是新來的，而且這通常沒啥大不了的，但拜託，即便是假文件這也太懶了。現在你只要承認自己搞砸了這東西，我們就能進入下一步了。//
+
+我看著這個男人。//確實//聽起來挺不錯的，就算這會害我因為自己根本沒做的事情訓斥也是。畢竟，這又不像是我洩漏了機密資訊。我快速看過了自己被指控製作的文件。
+
+@@ @@
+------
+@@ @@
+
+[[div class="blockquote"]]
+++ SCP基金會維安設施檔案
+
+------
+
+**Site-0：** 非現實部
+
+**官方名稱：** 基金會非現實收容設施
+
+**站點識別碼：** NULL-Site-0
+
+[[include component:image-block
+| name=https://scp-wiki.wdfiles.com/local--files/your-imaginary-friend/Unrealitysite2
+| caption=非現實部。
+| width=16em]]
+------
+++ 基本資料
+------
+**建立於：** 是的。
+
+**創始主任：** John H. Kempelen
+
+**地點：** N/A、N/E、Null、0、0、0、等等。
+
+**站點功能：** 收容與研究非現實。
+
+**面積：** 標準。
+------
+++ 部門/翼區
+------
+**一號部門：** Kempelen/Gat穩定陣列。
+
+**𝝿號部門：** 現實注入陣列。
+
+**下一部門：** 儲存。
+
+**毗連部門：** 收容翼區。
+
+**前一部門：** 收容翼區。
+
+**部門：** 行政管理。
+
+------
+++ 人員配置概況：
+------
+
+**站點主任：** John Doe
+
+**站點副主任：** Mary Smith.
+
+**人士副主任：** Robert Johnson。
+
+**設施副主任：** John Brown。
+
+**研究副主任：**  Jennifer Williams。
+
+**收容副主任：** Thomas Miller。
+
+**維安副主任：** John Davis。
+
+**特遣隊副主任：** Robert。
+
+**駐站心理學家：** John Smith。
+
+**駐站人員：** 無。
+
+**現實聯絡員：** Alex Thorley。
+------
+**補充資訊：** N/A。
+[[/div]]
+
+@@ @@
+@@ @@
+------
+@@ @@
+@@ @@
+
+我轉頭看向RAISA職員。
+
+//所以，如果我承認，它就能被刪掉是嗎？//
+
+他似乎鬆了口氣。
+
+//這會讓你得去數據庫強制課程，但沒錯。//
+
+//聽起來不賴。是我幹的沒錯。//
+
+他笑了。
+
+//很高興與您談話，Thorley閣下。//
+
+在他刪除檔案後，我站了起來，直到回到公寓前我始終一言不發。即便我想說我也說不出來。慢慢地，我嘗試解開一個沒有真正碎片的拼圖。
+
+當我盯著牆壁，大腦在資訊響起的噪音中嗡嗡作響，我始終在想那個被刪除檔案中的一行文字。//現實聯絡員： Alex Thorley。//
+
+為什麼非現實部會對一個基金會新人有興趣？更重要的是，現實聯絡員究竟是什麼？這個問題就跟我身陷的沒人理爛攤子一樣真實。
+
+我想得愈多，就愈覺得沒道理。現實注入陣列是什麼？為什麼會有個假網路檔案憑空出現？又為什麼要以//我的名字//發布？
+
+有個想法突然出現在我的腦海裡，怎樣都揮不去。
+
+[[[something-glowing | 嗯。]]]

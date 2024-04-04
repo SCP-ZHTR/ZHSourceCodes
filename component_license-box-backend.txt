@@ -1,0 +1,78 @@
+[[module CSS]]
+.licensebox22 .collapsible-block-link {
+margin-left:.25em;
+padding: .25em;
+font-weight: bold;
+opacity: .5;
+color: inherit;
+    -webkit-transition: opacity 0.5s ease-in-out;
+    -moz-transition: opacity 0.5s ease-in-out;
+    transition: opacity 0.5s ease-in-out;
+}
+.licensebox22 .collapsible-block-link:hover {
+opacity:1;
+}
+.licensebox22 .collapsible-block-link:active {
+opacity:1;
+}
+
+[[/module]]
+[[div class="licensebox22"]]
+[[collapsible show="‡ 授權/引用資訊" hide="‡ 隱藏 授權/引用資訊"]]
+請在引用該頁面時添加以下資訊：
+[[module listpages range="."]]
+> 發表於[http://scp-zh-tr.wikidot.com/ SCP繁體中文維基]的《%%title_linked%%》由{$author}著作[[iftags +翻譯]][[#if {$translator} | ，由{$translator}翻譯 | ]][[/iftags]]，來源網址為：http://scp-zh-tr.wikidot.com/%%fullname%%。授權方式為 [https://creativecommons.org/licenses/by-sa/3.0/deed.zh_TW CC-BY-SA]。
+> [[iftags +翻譯]]
+> 其原文發表於[\
+[[#if {$lang} |  | http://scp-wiki.net SCP Wiki ]]\
+[[#if {$langEN} |  | http://scp-wiki.net SCP Wiki ]]\
+[[#if {$langINT} |  | http://scp-int.wikidot.com/ SCP-INT Wiki ]]\
+[[#if {$langRU} |  | http://scpfoundation.net/ SCP-RU Wiki ]]\
+[[#if {$langKO} |  | http://ko.scp-wiki.net/ SCP-KO Wiki ]]\
+[[#if {$langCN} |  | http://scp-wiki-cn.wikidot.com/ SCP-CN Wiki ]]\
+[[#if {$langFR} |  | http://fondationscp.wikidot.com/ SCP-FR Wiki ]]\
+[[#if {$langPL} |  | http://scp-wiki.net.pl/ SCP-PL Wiki ]]\
+[[#if {$langES} |  | http://lafundacionscp.wikidot.com/ SCP-ES Wiki ]]\
+[[#if {$langTH} |  | http://scp-th.wikidot.com/ SCP-TH Wiki ]]\
+[[#if {$langJP} |  | http://scp-jp.wikidot.com/ SCP-JP Wiki ]]\
+[[#if {$langDE} |  | http://scp-wiki-de.wikidot.com/ SCP-DE Wiki ]]\
+[[#if {$langIT} |  | http://fondazionescp.wikidot.com/ SCP-IT Wiki ]]\
+[[#if {$langUA} |  | http://scp-ukrainian.wikidot.com/ SCP-UA Wiki ]]\
+[[#if {$langPT} |  | http://scp-pt-br.wikidot.com/ SCP-PT Wiki ]]\
+[[#if {$langCS} |  | http://scp-cs.wikidot.com/ SCP-CS Wiki ]]\
+[[#if {$langZH} |  | http://scp-zh-tr.wikidot.com/ SCP-ZH Wiki ]]\
+[[#if {$langEL} |  | http://scp-el.wikidot.com/ SCP-EL Wiki ]]\
+[[#if {$langND} |  | http://scp-nd.wikidot.com/ SCP-ND Wiki ]]\
+[[#if {$langTR} |  | http://scpvakfi.wikidot.com/ SCP-TR Wiki ]]\
+[[#if {$langVN} |  | http://scp-vn.wikidot.com/ SCP-VN Wiki ]]\
+[[#if {$langID} |  | http://scp-idn.wikidot.com/ SCP-ID Wiki ]]\
+[[#if {$langAR} |  | http://scp-ar.wikidot.com/ SCP-AR Wiki ]]\
+]。原文來源： \
+[[#if {$lang} |  | http://scpwiki.com/ ]]\
+[[#if {$langEN} |  | http://scpwiki.com/ ]]\
+[[#if {$langINT} |  | http://scp-int.wikidot.com/ ]]\
+[[#if {$langRU} |  | http://scpfoundation.net/ ]]\
+[[#if {$langKO} |  | http://ko.scp-wiki.net/ ]]\
+[[#if {$langCN} |  | http://scp-wiki-cn.wikidot.com/ ]]\
+[[#if {$langFR} |  | http://fondationscp.wikidot.com/ ]]\
+[[#if {$langPL} |  | http://scp-wiki.net.pl/ ]]\
+[[#if {$langES} |  | http://lafundacionscp.wikidot.com/ ]]\
+[[#if {$langTH} |  | http://scp-th.wikidot.com/ ]]\
+[[#if {$langJP} |  | http://scp-jp.wikidot.com/ ]]\
+[[#if {$langDE} |  | http://scp-wiki-de.wikidot.com/ ]]\
+[[#if {$langIT} |  | http://fondazionescp.wikidot.com/ ]]\
+[[#if {$langUA} |  | http://scp-ukrainian.wikidot.com/ ]]\
+[[#if {$langPT} |  | http://scp-pt-br.wikidot.com/ ]]\
+[[#if {$langCS} |  | http://scp-cs.wikidot.com/ ]]\
+[[#if {$langZH} |  | http://scp-zh-tr.wikidot.com/ ]]\
+[[#if {$langEL} |  | http://scp-el.wikidot.com/ ]]\
+[[#if {$langND} |  | http://scp-nd.wikidot.com/ ]]\
+[[#if {$langTR} |  | http://scpvakfi.wikidot.com/ ]]\
+[[#if {$langVN} |  | http://scp-vn.wikidot.com/ ]]\
+[[#if {$langID} |  | http://scp-idn.wikidot.com/ ]]\
+[[#if {$langAR} |  | http://scp-ar.wikidot.com/ ]]\
+%%fullname%% 。授權方式為 [https://creativecommons.org/licenses/by-sa/3.0/deed.zh_TW CC-BY-SA]。
+[[/iftags]]
+[[/module]]
+欲瞭解更多資訊，請詳見 [http://scp-zh-tr.wikidot.com/licensing-guide 授權指南]。
+**詳細授權資訊**

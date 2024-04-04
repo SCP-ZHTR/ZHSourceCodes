@@ -1,0 +1,190 @@
+[[include component:scp-meta-title-hiding css-style=bhl]]
+[[include :scp-wiki:theme:black-highlighter-theme]]
+[[include :scp-wiki:theme:minimalist-bhl]]
+[[include info:start]]
+作者：[[*user Billith]]
+篇名：A Conflict of Interest 利益相衝
+原文：[https://scp-wiki.wikidot.com/scp-5646 SCP-5646]
+譯者：[[*user k1s10r0db00ne]]
+[[include info:end]]
+[[include :scp-wiki:component:fade-in speed=.9]]
+> 給IT部門：
+> 
+> 今天是我第五次爲這份文件遞交請求了。很明顯後臺出了點問題，可能是數據庫損壞了又或者是有指標參考出錯？不管怎樣，無論我用哪個控制檯，我都沒辦法成功正確地分析處理這些數據。請儘快解決這個問題。
+> 
+> H. Alexander博士，理論異常部
+
+------
+
+
+
+
+
+[[html]]
+<script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+<style type="text/css" id="internal-style">
+@import url("https://d3g0gp89917ko0.cloudfront.net/v--95415cd81222/common--modules/css/pagerate/PageRateWidgetModule.css");
+@import url("https://d3g0gp89917ko0.cloudfront.net/v--95415cd81222/common--theme/base/css/style.css");
+@import url("https://scp-wiki.wdfiles.com/component:theme/code/1");
+title-fade {
+  font-size: 72px;
+  background: -webkit-linear-gradient(#eee, #333);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+</style>
+ 
+ <div id="main-content" class="main-content" style="">
+<div id="page-content" class="page-content" style="">
+
+<p><iframe src="/thebillith/html/1ffb8351dd0024bc347dff21c05605c11d950093-1089285798226675619" allowtransparency="true" frameborder="0" class="html-block-iframe"></iframe><br />
+<div class="scp-image-block block-right" style="width:300px;"><img src="http://scp-sandbox-3.wdfiles.com/local--files/thebillith/conflict.jpeg" style="width:300px;" class="image" />
+<div class="scp-image-caption" style="width:300px;">
+<p>SCP-<span class="numba1">5</span><span class="numba2">6</span><span class="numba3">4</span><span class="numba4">6</span>的標示牌</p>
+</div>
+</div>
+<p style="font-family:Verdana,sans-serif;font-size: 1em;"><span style="font-weight:bold;">項目編號：</span>SCP-<span class="numba1">5</span><span class="numba2">6</span><span class="numba3">4</span><span class="numba4">6</span></p>
+<p style="font-family:Verdana,sans-serif;font-size: 1em;"><span style="font-weight:bold;">項目等級：</span><span id="truth">Fluxus</span></p>
+<script>
+var numpicker = setInterval(randnum,90);
+var objpicker = setInterval(randobj, 900);
+var contpicker = setInterval(randcont,20000);
+var clearpicker =  setInterval(randclear, 9000);
+var floorpicker =  setInterval(randlev, 7000);
+var sitepicker = setInterval(randsite, 7000);
+
+
+function randnum(){
+
+var iteratenum1= document.getElementsByClassName("numba1");
+var iteratenum2= document.getElementsByClassName("numba2");
+var iteratenum3= document.getElementsByClassName("numba3");
+var iteratenum4= document.getElementsByClassName("numba4");
+var a = Math.floor(Math.random()*9);
+var b = Math.floor(Math.random()*9);
+var c = Math.floor(Math.random()*9);
+var d = Math.floor(Math.random()*9);
+
+
+
+
+for(var i = 0; i < iteratenum1.length; i++) {
+
+iteratenum1[i].innerHTML = a;
+iteratenum2[i].innerHTML = b;
+iteratenum3[i].innerHTML = c;
+iteratenum4[i].innerHTML = d;
+}
+}
+function randobj() {
+
+  var x = Math.floor(Math.random() * 16);
+
+  var obclas= ["Fluxus","Safe","Neutralized","Pending","Unallocated","Uncontained","Gödel","Kušum","Cernunnos","Ticonderoga","Anomalous", "Argus","Drygioni","Damballah", "Thaumiel","[UNDEFINED]","Euclid"]
+  document.getElementById("truth").innerHTML = obclas[x];
+}
+function randcont() {
+var w = Math.floor(Math.random() * 12);
+var conttype=["不應保持開放進入，也不應被關閉或以任何方式阻礙進入異常。","已爲基金會員工的安全着想而被無效化。","的收容措施很有可能是引發當前正在進行的CK級現實重構場景。在有進一步通知前，基金會一切活動將暫停。","未被收容。"," CONTAINMENT MEASURES NOT FOUND @ LINE 50","不應保持開放進入，也不應被關閉或以任何方式阻礙進入異常。","不應保持開放進入，也不應被關閉或以任何方式阻礙進入異常。","不應保持開放進入，也不應被關閉或以任何方式阻礙進入異常。","不應保持開放進入，也不應被關閉或以任何方式阻礙進入異常。","不應保持開放進入，也不應被關閉或以任何方式阻礙進入異常。","不應保持開放進入，也不應被關閉或以任何方式阻礙進入異常。","不應保持開放進入，也不應被關閉或以任何方式阻礙進入異常。"]
+document.getElementById("contain").innerHTML = conttype[w];
+}
+<!-----removed clearance randomization tool, will keep if it seems like something worth having.---->
+// function randclear() {
+// var t = Math.floor(Math.random() * 11);
+// var s = Math.floor(Math.random() * 4);
+// document.getElementById("clearance").innerHTML = s+1;
+// document.getElementById("clearance2").innerHTML = s+1;
+
+//var cleartype=["one","two","three","three","three","three","three","three","three","four","five"]
+// var clearCaptype=["ONE","TWO","THREE","THREE","THREE","THREE","THREE","THREE","THREE","FOUR","FIVE"]
+
+// document.getElementById("clearancespell").innerHTML = cleartype[t];
+// document.getElementById("clearancespellcap").innerHTML = clearCaptype[t];---->
+
+// removed name randomization tool - too chaotic
+// document.getElementById("subfirstname").innerHTML = sufirsttype[t];
+// document.getElementById("sublastname").innerHTML = sulasttype[t];
+// document.getElementById("secfirstname").innerHTML = sefirsttype[t];
+// document.getElementById("seclastname").innerHTML = selasttype[t];
+// document.getElementById("lovedone").innerHTML = lovetype[t];
+// var sufirsttype=["Gene","Gene","Gene","Markus","Renton","Edward","Ayla","Hazel","Aiden","Christopher","████████"]
+// var sulasttype=["Halliburton","Halliburton","Halliburton","Mcclanahan","Graves","Hastings","Rosales","Chapman","Bradshaw","Schaefer","████████"]
+// var sefirsttype=["Hane","Hane","Hane","Nickolai","Hector","Hane","Hane","Hane","Hane","Hane","Hane"]
+// var selasttype=["Dougherty","Dougherty","Archaki","Mcneil","Dougherty","Dougherty","Dougherty","Dougherty","Dougherty","Dougherty","Dougherty"]
+// var lovetype=[]
+// }
+ 
+function randlev() {
+var u = Math.floor(Math.random() * 35);
+document.getElementById("level").innerHTML = u;
+}
+function randsite() {
+var v = Math.floor(Math.random() * 99);
+document.getElementById("site").innerHTML = v+10;
+document.getElementById("site2").innerHTML = v+10;
+}
+
+
+
+
+
+
+</script>
+<strong>特殊收容措施：</strong><p> SCP-<span class="numba1">5</span><span class="numba2">6</span><span class="numba3">4</span><span class="numba4">6</span><span ID="contain">不應保持開放進入，也不應被關閉或以任何方式阻礙進入異常。</span></p>
+<p>極不鼓勵人員通過SCP-<span class="numba1">5</span><span class="numba2">6</span><span class="numba3">4</span><span class="numba4">6</span>——無論項目提供的道路表現得何等便捷。SCP-<span class="numba1">5</span><span class="numba2">6</span><span class="numba3">4</span><span class="numba4">6</span>應被Site-<span ID="site">64</span>保安部門以看管該設施其他位置一樣的監視密度、透過閉路電視監控；任何進入SCP-<span class="numba1">5</span><span class="numba2">6</span><span class="numba3">4</span><span class="numba4">6</span>的員工將被視爲折損人員。</p>
+<p><strong>描述：</strong> SCP-<span class="numba1">5</span><span class="numba2">6</span><span class="numba3">4</span><span class="numba4">6</span>是一條位於Site-<span ID="site2">64</span>，地下第<span ID="level">27</span>層的通道。該異常沒有門窗，路線也不線性地連結到設施的其他部分。發現在SCP-<span class="numba1">5</span><span class="numba2">6</span><span class="numba3">4</span><span class="numba4">6</span>的入口處附近有以非異常金色塑膠彩上色的&quot;請勿阻塞&quot; 和&quot;請勿保持開放&quot; 字句。即使追溯至1943年的記錄，也無法尋獲任何關於SCP-<span class="numba1">5</span><span class="numba2">6</span><span class="numba3">4</span><span class="numba4">6</span>的建造記錄，也沒發現該通道出現在任何藍圖、視察檔案或人員記錄之中。SCP-<span class="numba1">5</span><span class="numba2">6</span><span class="numba3">4</span><span class="numba4">6</span>的盡頭保持未知。</p>
+<p><strong>事件<span class="numba1">5</span><span class="numba2">6</span><span class="numba3">4</span><span class="numba4">6</span>-A：</strong></p>
+<p>在10/28/1986的大約上午9:45，一名被識別爲權限等級<span ID="clearance">3</span>級的初級研究員Gene Halliburton被觀察到從SCP-<span class="numba1">5</span><span class="numba2">6</span><span class="numba3">4</span><span class="numba4">6</span>中走出來。該研究員先前曾被他的一名熟人上報失蹤了12天——當他們在亞利桑那州博因頓峽谷健行途中，一場山洪席捲了他的紮營地，將Halliburton與他同行的其他人分散。他直至此事件前一度被推斷已死亡。</p>
+<p>研究員Halliburton隨即被拘留並審訊。以下是一段對象證詞的音頻記錄。</p>
+<blockquote>
+<p style="text-align: center;"><span style="text-decoration: underline;"><strong>訪問<span class="numba1">5</span><span class="numba2">6</span><span class="numba3">4</span><span class="numba4">6</span>-A</strong></span></p>
+<p><strong>訪問者：</strong> Hane Dougherty，基金會後勤及資產管理部主任</p>
+<p><strong>受訪者：</strong><span ID="clearance2">3</span>級初級研究員Gene Halliburton</p>
+<hr />
+<p>&lt;記錄開始&gt;</p>
+<p><strong>Dougherty:</strong> 好的， Gene——首先我得說我很高興見到你仍然生還，而且看上去挺健康。</p>
+<p><strong>Halliburton:</strong> 我感覺良好——只是我不知道爲什麼你們都在大驚小怪。我覺得你們根本沒必要爲了我一個人全軍出動。</p>
+<p><strong>Dougherty:</strong> 這是僅是標準流程，對事不對人。我肯定你是知道你的重新出現的這件事對我們來說的——<em>嚴肅性</em>——？</p>
+<p><strong>Halliburton:</strong> 是因爲那個標示嗎？我沒有認知到那是個大問題，說實話那句標語有點帶誤導性&#8230;我以爲它通向小賣部——至少它會帶我去正確的方向。我怎麼知道，原來我還要隨身帶着一個指南針才能避免走錯路。 </p>
+<p><strong>Dougherty:</strong>  [停頓] ——Gene，你認知到這幾個禮拜發生了什麼事嗎？</p>
+<p><strong>Halliburton:</strong> 什麼——我當然知道。如果你是指我的精神敏度的話，我會想提醒你我們的工作環境實行無騷擾工作場所政策。那是我女兒的生日。我們去了海灘玩。我還請了幾天假來和大男孩們一起去維加斯玩。</p>
+<p><strong>Dougherty:</strong> 那亞利桑那州呢？肯定會記得這個的。</p>
+<p><strong>Halliburton:</strong> 嗯？關於它啊？那是個爲旅行劃上句點的好方法。那天天氣很好。我們還去了看漩渦，順帶一提我覺得它很有可能是個異常。你應該要抽個時間去看看它。</p>
+<p><strong>Dougherty:</strong> 我也覺得。嗯，當你不在的時候，後勤部更新了讀卡機，他們發了替換品。舊卡不再有用了，所以如果你不想收到警示的次數多過你洗手次數的話，我現在就需要馬上更新你的。</p>
+<p><strong>Halliburton:</strong> 啊，我懂了。</p>
+<p><em>可聽見一些窸窸窣窣的聲音。</em></p>
+<p><strong>Halliburton:</strong> 給你。</p>
+<p><strong>Dougherty:</strong> 啊，完美。請等一下。</p>
+<p><em>先是幾秒鐘的靜默，然後一陣塑料滑動的噪音，緊跟着一連串失控般的嗶嗶聲。</em></p>
+<p><strong>Dougherty:</strong> 哼嗯嗯......</p>
+<p><em>另一陣塑料滑動的噪音，更多的平調。</em></p>
+<p><strong>Halliburton:</strong> ——出了什麼問題嗎？</p>
+<p><strong>Dougherty:</strong> 大概因爲這個權限驗證蠢東西是個次品，手持式的在這裏跟伺服器的連結不太穩定。我這次會一次搞定它的，待著。</p>
+<p><em>因椅子向後推而出現的一陣刮擦與嘎吱聲。能聽見Dougherty起身並離開了房間。</em></p>
+<p><strong>Halliburton:</strong>  [嘆氣] </p>
+<p><em>大約兩分鐘的靜默。</em></p>
+<p><em>門被大聲的打開了，伴隨着數對鞋子產生的腳步聲。</em></p>
+<p><strong>維安人員:</strong> 好了，走吧！起身！我叫你站起來！！</p>
+<p><strong>Halliburton:</strong>——他媽的什麼事？！——</p>
+<p><em>騷亂、掙扎的聲音。</em></p>
+<p><strong>Halliburton:</strong>——我是一名<span ID="clearancespell">三</span>—— [低吼聲] ——他媽——級——<span ID="clearancespellcap">三</span>級！R&amp;D！—— [呻吟聲] ——</p>
+<p><strong>維安人員:</strong> 就算你是我老母穢土轉生的屍體我也不管！當我說走，你——走！</p>
+<p><strong>Halliburton:</strong>——但——呃啊——我、我什麼都沒有做！ [哭泣] ——我什麼都<em>沒有</em>——<em>做</em>！</p>
+<p><em>持續三十秒的掙扎，伴隨在地上拖拉的聲音。</em></p>
+<p><strong>Halliburton:</strong> 救——救命！來人救命啊！——拜託！——你們要對我做什麼？—— [哭泣] ——放開我！我要見我的家人！MAGGIE！—— [哭泣] </p>
+<p><em>音頻錄音顯示接下來的幾分鐘皆爲接近的內容。騷動逐漸安靜下來，留在房間裡的某人關掉了錄音機。</em></p>
+<p>&lt;記錄結束&gt;</p>
+<hr />
+<p><em>註：在合適的行動採取之前，個體不斷請求會見他的家屬。人事檔案顯示沒有家族的姓氏與個體聲稱的姓氏吻合。值得注意的是，已故的Gene Halliburton沒有子孫。研究員Halliburton的出現已被斷定與他的失蹤無關。</em></p>
+</blockquote>
+</div>
+</div>
+
+[[/html]]
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[SCP-5645]]] | SCP-5646 | [[[SCP-5647]]] >>
+[[/=]]
+[[/div]]

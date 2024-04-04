@@ -1,0 +1,17 @@
+[[include info:start]]
+作者：[[*user Wright Wilson]]
+[[include info:end]]
+@@ @@
+[[div class="scp-image-block block-center" style="width:100%;"]]
+[[image https://i.imgur.com/kDZza0j.png style="width:100%;" link=#]]
+[[div class="scp-image-caption" style="width:100%;"]]
+張道士
+[[/div]]
+[[/div]]
+@@ @@
+[[div class="scp-image-block block-center" style="width:100%;"]]
+[[image https://i.imgur.com/YtcaXOq.png style="width:100%;" link=#]]
+[[div class="scp-image-caption" style="width:100%;"]]
+文研究員(班長)
+[[/div]]
+[[/div]]

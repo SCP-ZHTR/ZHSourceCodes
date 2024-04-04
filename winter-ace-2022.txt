@@ -1,0 +1,1 @@
+[[module Redirect destination="http://scp-zh-tr.wikidot.com/zh999-contest"]]

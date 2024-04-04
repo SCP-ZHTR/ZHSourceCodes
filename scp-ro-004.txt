@@ -1,0 +1,51 @@
+[[include :scp-zh-tr:info:start]]
+**[[[http://scp-ro.wikidot.com/scp-ro-004-english|SCP-RO-004]]]**
+**作者：** [[*user Geremina]]
+**英文譯本翻譯者：**[[*user Geremina]]
+**繁中譯本譯者：**[[*user minmasterqw]]
+**Image From:** [https://cdn.pixabay.com/photo/2016/04/16/21/49/deer-1333814_960_720.jpg Pixabay]
+[[include :scp-zh-tr:info:end]]
+
+[[=]]
+[[image https://i.imgur.com/S6KxS2N.png height="60px" width="60px" style="vertical-align:middle;"]][[span style="vertical-align:middle;font-size:1.5rem"]]**由摩爾多瓦組控制**[[/span]][[image https://i.imgur.com/S6KxS2N.png height="60px" width="60px" style="vertical-align:middle;"]]
+[[/=]]
+
+[[=]]
+[[size 140%]]
+##darkred|下面列出的文件為高度機密，必須以3/RO-004級權限訪問##[[/size]]
+[[/=]]
+[[=]]
+[[collapsible show="+ 查看SCP-RO-004文件紀錄 +" hide="- 登出 -"]]
+
+[[div class="scp-image-block block-right" style="width:{$width};"]]
+[[image https://cdn.pixabay.com/photo/2016/04/16/21/49/deer-1333814_960_720.jpg style="width:{$width};" link={$link}]]
+[[div class="scp-image-caption" style="width:{$width};"]]
+SCP-RO-004個體之一
+[[/div]]
+[[/div]]
+[[<]]
+**項目編號：** SCP-RO-004
+
+**項目等級：** Euclid
+
+**特殊收容措施：**所有SCP-RO-004實體會被收容在虛擬實境所模擬的空間中。必須每2天為對象提供虛擬實境所模擬的食物，並且在SCP-RO-004個體的每次變形時必需根據變形的結果本身來更換棲息地。
+
+所有變形事例都必須寫在附錄004-Φ中。
+
+**描述：**SCP-RO-004是一種由虛擬實境所組成的異常生物。 SCP-RO-004實體只能以虛擬實境所模擬的食物為食，SCP-RO-004所適合的食物類型會因其所代表的物種而異。
+
+SCP-RO-004所有個體都代表同一物種，但可以 多個個體同時變形而改變所代表物種。無法記錄SCP-RO-004個體之間的配偶，也無法區分性別。
+
+**附錄-004-Φ：**物種轉換日誌
+
+* 獅子
+* 鹿
+* 麑
+* 兔子
+* 鯉魚
+* SCP-RO-███
+* **[拒絕訪問]**
+* 人類
+[[/<]]
+[[/collapsible]]
+[[/=]]

@@ -1,0 +1,96 @@
+[[module CSS]]
+@import url(https://scp-zh-tr.wdfiles.com/local--code/component%3Afade-in/1);
+@import url("https://scp-zh-tr.wdfiles.com/local--code/component%3Afade-in/{$speed}");
+[[/module]]
+
+[[iftags +組件]]
+[[div style="border: 1px solid #ddd; padding: 1em;"]]
++ 這是什麼
+
+這是個能讓頁面中的所有事物平滑淡入，而非在頁面載入時就立即顯現出來的組件，
+
+淡入的時間點也可以交錯開來，也就是頁面內的每個要素一個接著一個出現，而不是全部同時。
+
++ 使用方法
+
+於任何wiki頁面中加入以下代碼：
+
+[[div class="code"]]
+@@[[include :scp-zh-tr:component:fade-in speed=1]]@@
+[[/div]]
+
+speed=1：所有事物同時出現
+speed=2：每間格0.5秒才顯現出下一樣事物
+speed=3：每間格0.25秒才顯現出下一樣事物
+
++ 使用限制
+
+淡入的效果僅適用於#page-content的直接子元素。它無法應用在巢狀元素（如位於引用塊或div裡面的內容）或頁面中的其它部分（像是側邊欄）之上。
+
+//（如果這與你頁面中的其它動畫相互衝突（像是，[[[component:acs-animation | ACS 動畫]]]），你可以簡單地把出問題的動畫元素用div包起來，然後你就能加以利用這個組件了。）//
+
+同時，它也僅會應用於你頁面中的前15個元素上面，而在那之後的元素就只會於同一時間顯現出來。這已經足夠讓讀者在打開頁面時，獲得一個平滑地載入體驗了，但若他們想要直接拉到底部去看，那他們就只能坐在那邊等上很長一段時間了。
+[[/div]]
+-----
+
++ 原始碼
+
+[[code type="css"]]
+@media screen and (prefers-reduced-motion: no-preference) {
+  #page-title, #breadcrumbs, #page-content > * {
+    animation-name: fadeIn;
+    animation-duration: 1s;
+    animation-iteration-count: 1;
+    animation-timing-function: ease-out;
+    animation-fill-mode: backwards;
+  }
+}
+
+#page-title { animation-delay: 0s; }
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translate(0,30px);
+  }
+  to {
+    opacity: 1;
+    transform: translate(0,0);
+  }
+}
+
+:root {
+  --fade-in-delay: 0s;
+}
+
+#page-content > :nth-child(1) { animation-delay: calc(1 * var(--fade-in-delay)); }
+#page-content > :nth-child(2) { animation-delay: calc(2 * var(--fade-in-delay)); }
+#page-content > :nth-child(3) { animation-delay: calc(3 * var(--fade-in-delay)); }
+#page-content > :nth-child(4) { animation-delay: calc(4 * var(--fade-in-delay)); }
+#page-content > :nth-child(5) { animation-delay: calc(5 * var(--fade-in-delay)); }
+#page-content > :nth-child(6) { animation-delay: calc(6 * var(--fade-in-delay)); }
+#page-content > :nth-child(7) { animation-delay: calc(7 * var(--fade-in-delay)); }
+#page-content > :nth-child(8) { animation-delay: calc(8 * var(--fade-in-delay)); }
+#page-content > :nth-child(9) { animation-delay: calc(9 * var(--fade-in-delay)); }
+#page-content > :nth-child(10) { animation-delay: calc(10 * var(--fade-in-delay)); }
+#page-content > :nth-child(11) { animation-delay: calc(11 * var(--fade-in-delay)); }
+#page-content > :nth-child(12) { animation-delay: calc(12 * var(--fade-in-delay)); }
+#page-content > :nth-child(13) { animation-delay: calc(13 * var(--fade-in-delay)); }
+#page-content > :nth-child(14) { animation-delay: calc(14 * var(--fade-in-delay)); }
+#page-content > :nth-child(15) { animation-delay: calc(15 * var(--fade-in-delay)); }
+#page-content > :nth-child(n+15) { animation-delay: calc(16 * var(--fade-in-delay)); }
+[[/code]]
+
+[[code type="css"]]
+:root {
+   --fade-in-delay: 0.5s;
+}
+[[/code]]
+
+[[code type="css"]]
+:root {
+  --fade-in-delay: 0.25s;
+}
+[[/code]]
+
+[[/iftags]]

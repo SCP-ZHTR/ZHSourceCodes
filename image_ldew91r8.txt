@@ -1,0 +1,6 @@
+image: 'https://i.imgur.com/LuIgsRt.jpeg'
+owner: 秋天
+owner-wiki: Fallen_Truth
+license: '0'
+other-license: ''
+note: ''

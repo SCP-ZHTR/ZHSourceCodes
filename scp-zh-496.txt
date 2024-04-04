@@ -1,0 +1,24 @@
+[[include component:scp-meta-title-hidding]]
+[[include info:start]]
+**作者：**[[*user samscript]]
+**篇名：**SCP-ZH-496 安全極限距離
+**圖片來源 Image Credit：**所有相片皆由作者[[*user samscript]]所拍攝與後製。All images used in this article is photographed and edited by the author [[user samscript]].
+[[include info:end]]
+
+[[module ListPages category="fragment" parent="." limit="1" order="created_at" offset="@URL|0"]]
+%%content%%
+[[/module]]
+
+[!-- If anyone is going to translate this entry into any other languages, texts of these iteration are in the following link addresses:--]
+[!-- http://scp-zh-tr.wikidot.com/fragment:scp-zh-496-1 --]
+[!-- http://scp-zh-tr.wikidot.com/fragment:scp-zh-496-2 --]
+[!-- http://scp-zh-tr.wikidot.com/fragment:scp-zh-496-3 --]
+[!-- http://scp-zh-tr.wikidot.com/fragment:scp-zh-496-4 --]
+[!-- http://scp-zh-tr.wikidot.com/fragment:scp-zh-496-5 --]
+[!-- http://scp-zh-tr.wikidot.com/fragment:scp-zh-496-6 --]
+
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[SCP-ZH-495]]] | SCP-ZH-496 | [[[SCP-ZH-497]]] >>
+[[/=]]
+[[/div]]

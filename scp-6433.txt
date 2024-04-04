@@ -1,0 +1,60 @@
+[[include component:scp-meta-title-hiding css-style=penumbra]]
+[[include :scp-wiki:theme:foxtrot]]
+
+[[>]]
+[[include info:start]]
+[[<]]
+原文：[https://scp-wiki.wikidot.com/scp-6433 SCP-6433] 你想要的一切時光
+作者：[[*user LORDXVNV]]
+譯者：[[*user Frederica Bernkastel]]
+[[include info:end]]
+[[/<]]
+[[/>]]
+
+[[include :scp-zh-tr:component:classified-bar-woed
+|lv=3
+|item=6433
+|oc=Safe
+|lang=EN
+]]
+
+[[include component:image-block name=https://scp-wiki.wdfiles.com/local--files/scp-6433/snowglobeout.jpg|width=100%|align=center|caption=SCP-6433內部小屋所見。]]
+
+**特殊收容措施：** SCP-6433應收容於Area-150的標準項目儲存櫃。SCP-6433內部存放至多2個基金會標準便條貼與簽字筆。
+
+任何具有家族或個人抑鬱症史或自殺念頭的人員不得訪問SCP-6433。
+
+------
+
+**描述：** SCP-6433是一顆雪景球，其內部有著一座冰凍海洋中的沙島。島上有一棵似乎正要結出果實的椰子樹，除此之外還有一間茅草屋子。兩者皆覆蓋著一層薄雪。從外面觀測，SCP-6433的內部似乎並無降雪。
+
+人類在肌膚接觸SCP-6433後將會進入其內部。該員會出現在冰凍海洋的特定浮冰上，該浮冰將會有通往島上的清晰道路。茅草屋的內部是有著基金會標準辦公桌椅的書房，除此之外並無任何舒適取向的家具。
+
+當人員位於項目內部時，感知效應將掩飾雪景球的外部，並產生有著無限汪洋的幻覺。人員在從內部接觸項目壁面便能脫離SCP-6433。幻覺並不會干擾人員脫離。並未有任何強迫效應迫使人員留滯內部。
+
+SCP-6433內部人類不會感到任何不適，這包括了口渴、飢餓或基於溫度的負面感受。基線現實每經過1秒，內部人員的感知將會經過1000秒，身體年齡則會老化100秒。
+
+項目內部無法聽見任何聲音。
+
+------
+
+**發現：** SCP-6433是在1995年，律師兼犯罪小說家史賓塞．傑拉爾德．霍金失蹤後，在其個人物品中尋獲的。霍金因為在1983-1994年期間，作為全職律師又能每年平均出版50本創作而頗具知名度。他的小說普遍被認為是公式化的犯罪驚悚作品。在失蹤的前幾年間，他的創作融入了越來越多的文學元素，卻因為銷售數據和惡劣批評的影響而未有起色。
+
+在對SCP-6433進行初步調查期間，發現了霍金已經木乃伊化的屍體，碳元素檢定結果達到將近五百年。另外，同時發現了將小屋塞滿的300萬頁活頁紙，每張紙都寫滿了手寫的文字，並已經大致整理成完整的手稿。
+
+對手稿的初步調查顯示，這些創作與霍金已發表的作品相比，具有更實驗性、個人性且前衛的寫作風格，其故事性也明顯地有所提升。除此之外這些手稿並未發現任何異常。所有手稿都已經焚燒處理完畢。
+
+
+[[include :scp-zh-tr:component:license-box
+|author=LORDXVNV
+]]
+=====
+> **Filename:**snowglobeout.jpg
+> **Name:** Sea Ice in the Chukchi Sea
+> **Author:** NASA Goddard
+> **License:** CC 2.0
+> **Source Link:** https://www.flickr.com/photos/24662369@N07/7348953402
+> **Additional Notes:** Cropped by LORDXVNV
+
+=====
+[[include :scp-zh-tr:component:license-box-end]]

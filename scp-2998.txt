@@ -1,0 +1,59 @@
+[[include component:scp-meta-title-hidding]]
+[[module CSS]]
+#page-title {
+  display: none;
+}
+
+.meta-title {
+  border-bottom: solid 1px #bbbbbb;
+  color: #990011;
+  font-weight: normal;
+  margin: 0 0 0.6em;
+  padding: 0 0 0.25em;
+  font-size: 200%;
+}
+
+.meta-title p {
+  margin: 0;
+}
+[[/module]]
+
+[[include info:start]]
+**作者：**[[*user eskobar]]
+**譯者：**[[*user samscript]]
+**篇名：**異常傳播訊號，2485 MHz
+**原文：**[http://www.scp-wiki.net/scp-2998 SCP-2998]
+----
+謝謝緣分、SCP基金會，以及所有喜歡這篇作品的人。
+解析請看**[[[scp-2998-declassification-zh|此處]]]**
+[[include info:end]]
+
+[!--
+子頁面:
+http://scp-zh-tr.wikidot.com/fragment:scp-2998-1
+http://scp-zh-tr.wikidot.com/fragment:scp-2998-2
+http://scp-zh-tr.wikidot.com/fragment:scp-2998-3
+http://scp-zh-tr.wikidot.com/fragment:scp-2998-4
+http://scp-zh-tr.wikidot.com/fragment:scp-2998-5
+http://scp-zh-tr.wikidot.com/fragment:scp-2998-6
+http://scp-zh-tr.wikidot.com/fragment:scp-2998-7
+http://scp-zh-tr.wikidot.com/fragment:scp-2998-8
+http://scp-zh-tr.wikidot.com/fragment:scp-2998-9
+http://scp-zh-tr.wikidot.com/fragment:scp-2998-10
+--]
+
+[[module ListPages parent="." category="fragment" limit="1" order="created_at" offset="@URL|0"]]
+[[div class="meta-title"]]
+%%title%%
+[[/div]]
+
+%%content%%
+[[/module]]
+
+[[footnoteblock]]
+
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[SCP-2997]]] | SCP-2998 | [[[SCP-2999]]] >>
+[[/=]]
+[[/div]]

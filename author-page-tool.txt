@@ -1,0 +1,248 @@
+[[module css]]
+
+.infobox {
+ display:inline-box;
+ overflow:hidden;
+ position:fixed;
+ right: 1em;
+ bottom: 2em;
+ width: 21%;
+ width: calc(50vw - 520px);
+ min-width: 250px;
+ height:23%;
+ padding:1%;
+ float:top; 
+ box-shadow: 0px 4px 8px 0 rgba(0, 0, 0, 0.2), 0px 6px 20px 0 rgba(0, 0, 0, 0.19);
+ background-color:#ffffff;
+ opacity: 1;
+ transition: all 0.5s ease-out;
+}
+
+.infobox:hover {
+  color:rgba(0, 0, 0, 0.5);
+  background-color:rgba(255, 255, 255, 0.5);
+}
+
+.preview{
+ color:grey;
+ width:100%;
+ display: inline-block;
+ padding-left:1%;
+ transition: box-shadow 1s ease-out;
+}
+
+.preview:hover{
+ box-shadow: 0px 4px 10px 0 rgba(0, 0, 0, 0.19);
+ transition: box-shadow 0.3s ease-out;
+}
+
+.preview.yes:hover, .preview.true:hover{
+  background: url('http://scpsandboxcn.wikidot.com/local--files/asriel3/logo.png') 80% 50% fixed no-repeat;
+}
+
+.preview .span { 
+ opacity: 0;
+ pointer-events: none;
+ transition: all 0.3s ease-in-out;
+ text-overflow:ellipsis;
+ position:fixed;
+ z-index: 11;
+ right: 1em;
+ bottom: 2em;
+ width:21%;
+ width: calc(50vw - 520px);
+ min-width: 250px;
+ height:23%;
+ padding:1%;
+ float:top; 
+ color:grey;
+ text-size:0.9em;
+ font-family:Segoe UI Light,Verdana,sans-serif;
+}
+
+.preview:hover .span { 
+ opacity: 1;
+ background-color:#ffffff;
+}
+
+.collab-header{
+ display:none;
+}
+
+.imagepre{
+ background:#fff;
+ max-width:80%;
+ position:absolute;
+ right: 1em;
+ bottom:calc(100% - 1em);
+ box-shadow: 0px 4px 8px 0 rgba(0, 0, 0, 0.2), 0px 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.imagepre.\{\$image\} {
+display:none
+}
+
+@media screen and (max-width:992px) {
+    .preview .span{
+    	display: none;
+    }
+    .infobox {
+    	position: relative;
+    	margin: 1em auto;
+    	right: 0;
+    	bottom: 0;
+    }
+}
+
+#page-options-container {
+ background: transparent;
+ position: relative;
+ z-index: 10;
+}
+
+#action-area { position: relative; z-index: 20; }
+
+[[/module]]
+
+[[>]]
+[[module rate]]
+[[/>]]
+
++ 摘要：
+
+把以下代碼貼到你的人事頁裡面：
+
+> @@[[include :scp-zh-tr:component:author-page order=created_at]]@@
+這個組件將會依頁面創建時間為順序，自動生成你所有作品的清單。它們將會被分為五個類別：SCP檔案、故事、GoI格式、翻譯，以及其它。
+
+以下的摺疊頁裡面有著，當正常使用這個組件時的展示成果。這個展示成果會顯示出5篇這個wiki裡面最新創建的頁面 -- 在你人事頁裡面的版本則會顯示所有由你發佈的頁面。
+
+[[collapsible show="[ 顯示展示成果 ]" hide="[ 隱藏展示成果 ]" hideLocation="both"]]
+[[div class="infobox"]]
+
+[[module Listpages category="-fragment -component" date="last 24 hours" order="created_at" limit="1" order="random"]]
+= **[[[*%%link%%|隨機作品！]]]**
+[[/module]]
+= 由 {{**[[*user Croquembouche]]**}} 與 {{**[[*user W Asriel]]**}}所做
+[[module Countpages category="-fragment -component" date="last 24 hours" order="created_at"]]
+= 最近24小時內新增了%%total%%個頁面
+[[/module]]
+[[/div]]
+
+-----
+[[=]]
+++* 新頁面
+[[/=]]
+-----
+[[module ListPages category="-fragment -component" date="last 24 hours" order="created_at" limit="5"]]
+[[div class="preview"]]
+**%%title_linked%%**
+ +**{{%%rating%%}}**@@   @@^^...^^ **{{%%comments%%}}**
+//最新評論由// **{{%%commented_by%%}}** //於// **{{%%commented_at|%D %H:%M%%}}** //發表//
+//最後編輯：//**{{%%updated_by%%}}** //於// **{{%%updated_at|%D %H:%M%%}}**
+[[div class="span"]]
+[[image :first class="imagepre yes"]]
+%%preview%%
+##000000|//標籤：//## %%tags%%
+[[/div]]
+[[/div]]
+[[/module]]
+
+...
+...
+
+[[/collapsible]]
+
++ 可選參數
+
+這裡總共有5個，你可以輸入至組件裡來做個人化調整的參數。以下是一個該組建的範例，以及各項具體的預設值。
+
+> @@[[include :scp-zh-tr:component:author-page@@ 
+> @@  order=created_at |@@
+> @@  perpage=100 |@@
+> @@  background=yes |@@
+> @@  image=yes |@@
+> @@  sortbar=yes |@@
+> @@]]@@
+
+我將會為你一一解釋這些參數的用途。
+
+**Order：**填入於 ##red|order=## 後面的內容將會決定你排列清單的方式。你可能會比較偏好透過發佈日期、編輯日期、評分，或任何可能的方式來排列你的頁面。這裡有一些很實用的選項：
+||~ 屬性||~ 意義||
+|| name || 由A到Z，根據你頁面的URL來進行排列 ||
+|| title || 由A到Z，根據你頁面的標題來進行排列 ||
+||rating desc|| 根據評分數來進行排列||
+||random || 隨機排列（每一分鐘重新打亂一次） ||
+||created_at || 根據頁面創建的日期來進行排列 ||
+||updated_at || 根據頁面最後一次更新的日期來進行排列 ||
+這些都將按升序排列 -- 如果你想要降序排列的話，在後面加上「desc」，就像這樣：「created_at desc」
+看看[http://www.wikidot.com/doc-modules:listpages-module#toc3 這裡]以獲得頁面排序器可輸入屬性的完整列表。
+
+**Perpage：**每一頁所能顯示的最大條目數量 -- 如果你有一大堆作品的話，這還蠻好用的。預設值為20，最大值為250。
+
+**Background：**當你把游標懸停在某個東西上面時，是否要讓一個很精美的SCP logo出現在背景裡。預設值是「no」。
+把游標懸停在以下的展示之上，來看看會出現什麼。
+
+[[module ListPages name="author-page-tool"]]
+[[div class="preview yes"]]
+**%%title_linked%%**
+ +**{{%%rating%%}}**@@   @@^^...^^ **{{%%comments%%}}**
+//最新評論由// **{{%%commented_by%%}}** //於// **{{%%commented_at|%D %H:%M%%}}** //發表//
+
+透過 {{**background=yes**}} 來啟用背景。
+[[/div]]
+[[/module]]
+[[module ListPages name="author-page-tool"]]
+[[div class="preview"]]
+**%%title_linked%%**
+ +**{{%%rating%%}}**@@   @@^^...^^ **{{%%comments%%}}**
+//最新評論由// **{{%%commented_by%%}}** //於// **{{%%commented_at|%D %H:%M%%}}** //發表//
+
+透過 {{**background=no**}} 來禁能背景，或是乾脆不添加這整個參數。
+[[/div]]
+[[/module]]
+
+**Image：**當你的游標懸停在上面時，是否要將你頁面的第一張圖片顯示於預覽之上。請謹記如若你啟用圖片的話，你人事頁面的加載速度可能會變得非常慢，所以是否使用取決於你自己。
+[[module ListPages name="scp-105"]]
+[[div class="preview"]]
+**%%title_linked%%**
+ +**{{%%rating%%}}**@@   @@^^...^^ **{{%%comments%%}}**
+透過使用 {{**image=yes**}} 或 {{**image=true**}} 來啟用圖片。
+[[div class="span"]]
+[[image :first class="imagepre"]]
+%%preview%%
+##000000|//標籤：//## %%tags%%
+[[/div]]
+[[/div]]
+[[/module]]
+[[module ListPages name="scp-105"]]
+[[div class="preview"]]
+**%%title_linked%%**
+ +**{{%%rating%%}}**@@   @@^^...^^ **{{%%comments%%}}**
+圖片預設是不啟用的 -- 你可把範例代碼裡有「image」的那行刪掉。
+[[div class="span"]]
+%%preview%%
+##000000|//標籤：//## %%tags%%
+[[/div]]
+[[/div]]
+[[/module]]
+
+**Sortbar：**寫著「依照創建時間 | 近期發佈 | 最高得分 | 近期更新」的那一欄是否會出現於你頁面的最上方。預設值為「yes」。你可以使用 ##red|sortbat=no## 來禁能它。
+
++ 合作
+關於合作作品，雖然那一個wiki頁面可能不是由你所發佈的，但你肯定想讓它也出現在你的人事頁面之中對吧！標準的組件沒辦法顯示並非由你所創建的頁面 -- 為了要顯示額外的合作頁面，請將以下代碼添加在先前的include區塊後面。
+
+> @@[[include :scp-zh-tr:component:author-page-collab@@
+> @@  name=合作文章的頁面名 |@@
+> @@  written_by=頁面的作者（可選）|@@
+> @@  note=你想要對這個頁面留下的一些註記（可選）|@@
+> @@  background=yes |@@
+> @@  image=yes | @@ 
+> @@]]@@
+在 ##red|name=## 後面要填入的應該是那篇文章的頁面名，也就是你可以在URL裡面看到的，而不是文章的標題。舉例來說，填入 ##red|scp-309-j## ，而不是「我該怎樣把已發佈的文檔刪除？」
+
+每一個合作頁面都會需要你include一個新的組件。
+
++ 一點小知識
+1. 在添加完該組件之後，這個工具將會列出所有由用戶 — 也就是創建人事頁面的人 — 所創建的頁面。這通常不會出錯，但若你曾替其他用戶發佈文章、改過wiki帳戶名稱、要求其他用戶幫你發佈人事頁......等等的話，這個模組可能無法正常地運作。
+2. 當你有使用到合作組件的時候，請記得 ##red|written_by=## 和 ##red|note=## 的後面不允許填入##red|"## 或 ##red||## 當作輸入內容。並且輸入也不允許是空格符號。

@@ -1,0 +1,38 @@
+[[include :scp-wiki:component:black-highlighter-theme-dev]]
+[[include :scptestwiki:component:rounderformat]]
+
+[[include info:start]]
+作者：[[*user k1s10r0db00ne]]
+篇名：今天也是普通的一天 Today is Just Another Ordinary Day
+
+某程度上算是Valmua的起源，吧？
+[[include info:end]]
+
+[[module ListPages category="fragment" parent="." order="created_at" limit="1" offset="@URL|0"]]
+%%content%%
+[[/module]]
+
+----
+[[include :scp-wiki:component:license-box]]
+=====
+> ##black|**Filename:** Countryside (Balabanovo, Kaluzhskaya Oblast, Russia)##
+> ##black|**Author:** Olga Kruglova##
+> ##black|**License:** Creative Commons Attribution 2.0 Generic##
+> ##black|**Source Link:** https://commons.wikimedia.org/wiki/File:Countryside_(Balabanovo,_Kaluzhskaya_Oblast,_Russia).jpg##
+
+> ##black|**Filename:** Sanfine International Hospital Ward 01##
+> ##black|**Author:** Wnkwdy##
+> ##black|**License:** Creative Commons Attribution-Share Alike 4.0 International##
+> ##black|**Source Link:** https://commons.wikimedia.org/wiki/File:Sanfine_International_Hospital_Ward_01.jpg##
+
+> ##black|**Filename:** TREATMENT PHYSIOTHERAPY ROOM##
+> ##black|**Author:** Unknown##
+> ##black|**License:** CC0 Public Domain##
+> ##black|**Source Link:** https://pixy.org/6513606/##
+
+> ##black|**Filename:** A dormitory room at the US Air Force Academy##
+> ##black|**Author:** Unknown##
+> ##black|**License:** Public Domain##
+> ##black|**Source Link:** https://nara.getarchive.net/media/a-dormitory-room-at-the-us-air-force-academy-3f2f15##
+=====
+[[include :scp-wiki:component:license-box-end]]

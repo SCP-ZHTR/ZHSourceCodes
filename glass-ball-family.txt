@@ -1,0 +1,14 @@
+[[include info:start]]
+**篇名：** 全家福
+**作者：** [[*user cywhitebear]]
+[[include info:end]]
+
+[[div class="scp-image-block block-center" style="width:100%;"]]
+[[image https://imgur.com/exalEfs.png       
+style="width:100%;" link=#]]
+[[div class="scp-image-caption" style="width:100%;"]]
+左起分別為SCP-ZH-187-3, -1, -2, -4
+
+
+[[/div]]
+[[/div]]

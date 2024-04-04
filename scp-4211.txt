@@ -1,0 +1,780 @@
+[[include component:scp-meta-title-hiding css-style=classic]]
+[[include info:start]]
+原文：[http://www.scpwiki.com/scp-4211 SCP-4211] 紀念冊
+作者：[[*user Ayers]]
+譯者：[[*user Frederica Bernkastel]]
+[[[ayers-array|訪問作者頁]]]
+^^[https://www.youtube.com/watch?v=5IsSpAOD6K8 「一生一次」]^^
+-----
+**Image Sources:**
+* 1) [https://commons.wikimedia.org/wiki/File:G-C-Woolley-page-of-diary-No2.jpg notebook.jpg -- "GC Wooley Diary 2" Photo by CEphoto, Uwe Aranas; CC BY-SA 3.0 (modified)]
+* 2) [https://www.flickr.com/photos/blue_mountains_library_-_local_studies/39699392250 cipher1.jpg -- "The Hordern Tree" by Blue Mountains Library; CC BY-SA 2.0]
+* 3) [https://de.wikipedia.org/wiki/Datei:Oldfieldpointlight.jpg  cipher2.jpg -- "OLD FIELD POINT LIGHT" by US Coast Guard; Public Domain]
+* 4) [https://www.maxpixel.net/Old-Dining-Room-Table-Window-Historically-Chair-222407 cipher3.jpg -- "Old Dining Room Table Window Historically Chair" by Unknown; CC0]
+* 5) [https://commons.wikimedia.org/wiki/File:OYSTER_BEDS_OF_WILLAPA_BAY,_WHERE_LARGE_NUMBERS_OF_%22GHOST_SHRIMP%22_ARE_ENDANGERING_THE_OYSTER_POPULATION_BY_DISTURBING..._-_NARA_-_545092.jpg cipher4.jpg -- "OYSTER BEDS (...)" by US Archives and Records Administration; Public Domain]
+* 6) [https://www.flickr.com/photos/simpleinsomnia/10559033393/in/photostream/ cipher5.jpg -- "Photo booth: Akward smiling woman" by simpleinsomnia; CC BY 2.0 (modified)]
+
+摘錄內容：
+> 你從未真正忘掉他對嗎，爺爺？我知道你已經老了，也很清楚你所剩的時間不多，但那就是讓我難以忘懷。翻看你的日記，爺爺，我真不知道該說些什麼才好。我不知道癡呆症是如何摧殘你的，但我能感受到你在字裡行間想要傳達的東西。
+
+[[include info:end]]
+
+[[module CSS]]
+.scp-image-caption{position: inherit;}
+.page-rate-widget-box{position: relative;bottom: 1em;}
+
+sup {
+
+vertical-align: top; position: relative; top: -0.5em;
+}
+.footnoteref a{
+color: transparent;
+}
+.footnoteref a::before{
+color: #00A;
+font-size: 12px;
+font-weight: bold;
+content: "[!]";
+text-decoration: none;
+}
+
+.footnotes-footer{display:none;}
+
+.document {
+border-radius: 10px;
+border:solid 1px #ccc;
+background: rgba(0,0,0,0.05);
+width:96.5%;
+padding: 10px;
+box-shadow: 0 2px 4px rgba(68, 68, 68, .5);
+}
+
+.bibcite{
+vertical-align: top; position: relative; top: -0.5em;font-size: 85%;}
+[[/module]]
+
+[[include component:image-block
+    width=250px|
+    name=https://scp-wiki.wdfiles.com/local--files/scp-4211/notebook.jpg|
+    caption=SCP-4211。已消除圖像模因危害性質。|
+]]
+**項目編號：** SCP-4211
+@@ @@
+**項目等級：** Safe
+@@ @@
+**特殊收容措施：** SCP-4211應收容於標準Safe級儲存櫃內。建議在處理SCP-4211後服用W級記憶增強劑，以緩解項目具有的輕度模因危害。SCP-4211紀錄人員應按月進行替換，以防止人員的認知能力受到不可逆轉的損害。
+@@ @@
+**描述：** SCP-4211是一系列具危害日記內容的總稱──這些書面文件具有認知危害，除非滿足特定條件否則將無法閱讀日記的真實內容。((bibcite cognito))具體而言，上述文本內容受到了混亂內容的加密，如果讀者並未獲得指定密鑰，文本將會異動以掩蔽其真實內容。
+
+所謂的指定密鑰，是針對圖像與問題誘發的型態形成((bibcite rupert))共鳴，推測該內容是由原作者所設定的。正因如此，唯有共感能力強烈的讀者，以及大腦功能與原作者相似的讀者，才能看見SCP-4211原始內容。
+
+試圖轉錄、討論或複製SCP-4211內容均會導致相同的結果：在精神上與作者達成相當程度的同步，本來就能查看原始內容者就能理解這些二手內容，否則仍舊只能獲得錯誤的版本。無論接觸了SCP-4211正確還是錯誤的版本，都有可能導致以下的短暫症狀：
+* 混亂
+* 失憶症
+* 頭痛/偏頭痛
+* 高度視雪症
+* 錯誤記憶
+* 睡眠癱瘓
+* 顏面識別障礙((bibcite face))
+* 幻覺
+SCP-4211日記本最初是在老奧古斯都．埃爾里希((bibcite Ehrlich))處發現的，推測他向第三方購得了該日記本。由於異常的自我隱蔽特性，對日記本內容的研究相當有限。不過筆跡分析證實日記本的內容是由多名作者所著成。對內容的元分析顯示，這些作者反覆提及了家庭成員溺斃的事件，儘管許多個體根本沒有相應的經驗。
+[[=]]
+-----
+[[size 150%]]附錄4211.1 -- 抄錄內容 [[/size]]
+----
+[[/=]]
+[[div class="document"]]
+[[=]]
+[[collapsible show="► 存取SCP-4211-1抄本內容 ◄" hide="▼ 已存取抄本 ▼"]]
+[[/=]]
+[[html]]
+
+<style>
+@import url(http://d3g0gp89917ko0.cloudfront.net/v--edac79f846ba/common--theme/base/css/style.css);
+@import url(http://www.scp-wiki.net/component:theme/code/1);
+
+.teletype{
+font-family: 'Andale Mono', 'Courier New', Courier, monospace;
+}
+div.dashyboi{background-color: rgba(0,0,0,0.1); border-radius: 10px; border:dashed 1px black; padding: 10px;}
+
+table, td {
+  border-collapse: collapse;
+}
+th{
+text-align: left;
+}
+
+div.dashyboi a{
+font-size: 0px;}
+
+div.dashyboi a::after{
+font-size: 12px;
+content: "☐";
+cursor: pointer;
+}
+
+div.dashyboi a:hover::after{
+content: "☑";
+text-decoration: none;
+}
+</style>
+<body>
+
+<div id="container">
+<div class="dashyboi">
+<center><u><b>
+<p class="teletype">認知危害內容警告</p>
+</u></b>
+<p class="teletype">需要與[已攔截認知危害]因素達成心態同調。</p>
+<p class="teletype">請如實回答以下問題：</p>
+<p><img src="http://scp-wiki.wdfiles.com/local--files/scp-4211/cipher1.jpg" style="height: 20em; border: 1px solid black;"></p>
+<p class="teletype">哪個部分最吸引你的目光？</p>
+</center>
+<table style="width:25%;margin: 0 auto;">
+  <tr>
+    <td><span class="teletype">樹木</span></td>
+    <td><a onclick='document.getElementById("container").innerHTML = ver1a'>☐</a></td>
+  </tr>
+  <tr>
+    <td><span class="teletype">原野</span></td>
+    <td><a onclick='document.getElementById("container").innerHTML = ver1b'>☐</a></td>
+  </tr>
+  <tr>
+    <td><span class="teletype">天空</span></td>
+    <td><a onclick='document.getElementById("container").innerHTML = ver1c'>☐</a></td>
+  </tr>
+</table>
+<br><br><br>
+</div>
+</div>
+</body>
+<script>
+ver1a='<div id="container"><div class="dashyboi"><center><u><b><p class="teletype">認知危害內容警告</p></u></b><p class="teletype">需要與[已攔截認知危害]因素達成心態同調。</p><p class="teletype">請如實回答以下問題：</p><p><img src="http://scp-wiki.wdfiles.com/local--files/scp-4211/cipher1.jpg" style="height: 20em; border: 1px solid black;"></p><p class="teletype">哪個部分最吸引你的目光？</p><table style="width:25%;margin: 0 auto;"><tr><td><span class="teletype">樹木</span></td><td><span style="color: #b01;">☑</span></td></tr><tr><td><span class="teletype">原野</span></td><td><span style="color: #b01;">☐</span></td></tr><tr><td><span class="teletype">天空</span></td><td><span style="color: #b01;">☐</span></td></tr></table><p class="teletype" style="color: green;"><b>[✔] 心態同調完成。</b></p></div></center><blockquote><p><center><b>日記段落 1</b></center></p><hr><div class="teletype"><p>親愛的日記......這樣嗎？不對，感覺不太對勁，我得習慣怎麼寫這個才行。我不太清楚爺爺拿這本發霉舊日記時到底在想什麼，「為了保持他的記憶」究竟是什麼意思？上頭還有一張奶奶很奇怪的照片，雖然看起來有點不太對勁不過算了。照片下還寫著這樣的內容「你還記得他做了什麼嗎？」</p><p>你從未真正忘掉他對嗎，爺爺？我知道你已經老了，也很清楚你所剩的時間不多，但那就是讓我難以忘懷。翻看你的日記，爺爺，我真不知道該說些什麼才好。我不知道癡呆症是如何摧殘你的，但我能感受到你在字裡行間想要傳達的東西。<br><br></p><p>我最近晚上都過得不太好，我常在半夜驚醒，滿身大汗又疼痛不已。我想我可能在惡夢中翻來覆去傷了身子。醫生開了菸葉給我幫我緩解壓力，但我仍是常常承受夜驚之苦。</p><p>有時候當我醒來，夢魘仍舊未曾散去。我醒著，身體卻癱軟不已，仿佛身體不是我的一樣。而在房間的角落，有個身影就會顯現出來，在我看不見的地方對我說悄悄話。</p><p>有時候我就會這樣坐著好幾個小時，任憑那個存在包圍著我，注視著我。</p>這樣的夜晚使我變得虛弱破碎不堪。我只是想好好睡一覺，我的思想卻不讓我闔眼。常識告訴我這只是壓力過大，但我的某個部分卻意識到遠遠不僅如此。</p><p>也許是城市的步調終於影響到了我。人們總說一旦過了三十歲，人就會開始踩煞車了，而這時我需要照顧的就只有我自己了。我一生都住在這裡，就跟我的父母一樣。我想在我重新站穩腳跟前，我應該會去鄉下隱居一段日子。</p><p>希望爸爸的鞦韆還掛在老家那棵橡樹上。</p></div></blockquote>'
+
+ver1b='<div id="container"><div class="dashyboi"><center><u><b><p class="teletype">認知危害內容警告</p></u></b><p class="teletype">需要與[已攔截認知危害]因素達成心態同調。</p><p class="teletype">請如實回答以下問題：</p><p><img src="http://scp-wiki.wdfiles.com/local--files/scp-4211/cipher1.jpg" style="height: 20em; border: 1px solid black;"></p><p class="teletype">哪個部分最吸引你的目光？</p><table style="width:25%;margin: 0 auto;"><tr><td><span class="teletype">樹木</span></td><td><span style="color: #b01;">☐</span></td></tr><tr><td><span class="teletype">原野</span></td><td><span style="color: #b01;">☑</span></td></tr><tr><td><span class="teletype">天空</span></td><td><span style="color: #b01;">☐</span></td></tr></table><p class="teletype" style="color: green;"><b>[✔] 心態同調完成。</b></p></div></center><blockquote><p><center><b>日記段落 1</b></center></p><hr><div class="teletype"><p>親愛的日記......這樣嗎？不對，感覺不太對勁，我得習慣怎麼寫這個才行。我不太清楚爺爺拿這本發霉舊日記時到底在想什麼，「為了保持他的記憶」究竟是什麼意思？上頭還有一張奶奶很奇怪的照片，雖然看起來有點不太對勁不過算了。照片下還寫著這樣的內容「你還記得他做了什麼嗎？」</p><p>你從未真正忘掉他對嗎，爺爺？我知道你已經老了，也很清楚你所剩的時間不多，但那就是讓我難以忘懷。翻看你的日記，爺爺，我真不知道該說些什麼才好。我不知道癡呆症是如何摧殘你的，但我能感受到你在字裡行間想要傳達的東西。<br><br></p><p>我最近晚上都過得不太好，我常在半夜驚醒，滿身大汗又疼痛不已。我想我可能在惡夢中翻來覆去傷了身子。醫生開了菸葉給我幫我緩解壓力，但我仍是常常承受夜驚之苦。</p><p>有時候當我醒來，夢魘仍舊未曾散去。我醒著，身體卻癱軟不已，仿佛身體不是我的一樣。而在房間的角落，有個身影就會顯現出來，在我看不見的地方對我說悄悄話。</p><p>有時候我就會這樣坐著好幾個小時，任憑那個存在包圍著我，注視著我。</p>這樣的夜晚使我變得虛弱破碎不堪。我只是想好好睡一覺，我的思想卻不讓我闔眼。常識告訴我這只是壓力過大，但我的某個部分卻意識到遠遠不僅如此。</p><p>也許是城市的步調終於影響到了我。人們總說一旦過了三十歲，人就會開始踩煞車了，而這時我需要照顧的就只有我自己了。我一生都住在這裡，就跟我的父母一樣。我想在我重新站穩腳根前，我應該會去鄉下隱居一段日子。</p><p>希望爸爸的原野還是像往日那樣美麗。</p></div></blockquote>'
+
+ver1c='<div id="container"><div class="dashyboi"><center><u><b><p class="teletype">認知危害內容警告</p></u></b><p class="teletype">需要與[已攔截認知危害]因素達成心態同調。</p><p class="teletype">請如實回答以下問題：</p><p><img src="http://scp-wiki.wdfiles.com/local--files/scp-4211/cipher1.jpg" style="height: 20em; border: 1px solid black;"></p><p class="teletype">哪個部分最吸引你的目光？</p><table style="width:25%;margin: 0 auto;"><tr><td><span class="teletype">樹木</span></td><td><span style="color: #b01;">☐</span></td></tr><tr><td><span class="teletype">原野</span></td><td><span style="color: #b01;">☐</span></td></tr><tr><td><span class="teletype">天空</span></td><td><span style="color: #b01;">☑</span></td></tr></table><p class="teletype" style="color: green;"><b>[✔] 心態同調完成。</b></p></div></center><blockquote><p><center><b>日記段落 1</b></center></p><hr><div class="teletype"><p>親愛的日記......這樣嗎？不對，感覺不太對勁，我得習慣怎麼寫這個才行。我不太清楚爺爺拿這本發霉舊日記時到底在想什麼，「為了保持他的記憶」究竟是什麼意思？上頭還有一張奶奶很奇怪的照片，雖然看起來有點不太對勁不過算了。照片下還寫著這樣的內容「你還記得他做了什麼嗎？」</p><p>你從未真正忘掉他對嗎，爺爺？我知道你已經老了，也很清楚你所剩的時間不多，但那就是讓我難以忘懷。翻看你的日記，爺爺，我真不知道該說些什麼才好。我不知道癡呆症是如何摧殘你的，但我能感受到你在字裡行間想要傳達的東西。<br><br></p><p>我最近晚上都過得不太好，我常在半夜驚醒，滿身大汗又疼痛不已。我想我可能在惡夢中翻來覆去傷了身子。醫生開了菸葉給我幫我緩解壓力，但我仍是常常承受夜驚之苦。</p><p>有時候當我醒來，夢魘仍舊未曾散去。我醒著，身體卻癱軟不已，仿佛身體不是我的一樣。而在房間的角落，有個身影就會顯現出來，在我看不見的地方對我說悄悄話。</p><p>有時候我就會這樣坐著好幾個小時，任憑那個存在包圍著我，注視著我。</p>這樣的夜晚使我變得虛弱破碎不堪。我只是想好好睡一覺，我的思想卻不讓我闔眼。常識告訴我這只是壓力過大，但我的某個部分卻意識到遠遠不僅如此。</p><p>也許是城市的步調終於影響到了我。人們總說一旦過了三十歲，人就會開始踩煞車了，而這時我需要照顧的就只有我自己了。我一生都住在這裡，就跟我的父母一樣。我想在我重新站穩腳根前，我應該會去鄉下隱居一段日子。</p><p>希望鄉村的夜空仍舊和從前那樣遍布繁星。</p></div></blockquote>'
+</script>
+[[/html]]
+[[/collapsible]]
+[[/div]]
+@@ @@
+[[div class="document"]]
+[[=]]
+[[collapsible show="► 存取SCP-4211-2抄本內容 ◄" hide="▼ 已存取抄本 ▼"]]
+[[/=]]
+[[html]]
+
+<style>
+@import url(http://d3g0gp89917ko0.cloudfront.net/v--edac79f846ba/common--theme/base/css/style.css);
+@import url(http://www.scp-wiki.net/component:theme/code/1);
+
+.teletype{
+font-family: 'Andale Mono', 'Courier New', Courier, monospace;
+}
+div.dashyboi{background-color: rgba(0,0,0,0.1); border-radius: 10px; border:dashed 1px black; padding: 10px;}
+
+table, td {
+  border-collapse: collapse;
+}
+th{
+text-align: left;
+}
+
+div.dashyboi a{
+font-size: 0px;}
+
+div.dashyboi a::after{
+font-size: 12px;
+content: "☐";
+cursor: pointer;
+}
+
+div.dashyboi a:hover::after{
+content: "☑";
+text-decoration: none;
+}
+</style>
+<body>
+
+<div id="container">
+<div class="dashyboi">
+<center><u><b>
+<p class="teletype">認知危害內容警告</p>
+</u></b>
+<p class="teletype">需要與[已攔截認知危害]因素達成心態同調。</p>
+<p class="teletype">請如實回答以下問題：</p>
+<p><img src="http://scp-wiki.wdfiles.com/local--files/scp-4211/cipher2.jpg" style="height: 20em; border: 1px solid black;"></p>
+<p class="teletype">這裡是哪裡？</p>
+</center>
+<table style="width:25%;margin: 0 auto;">
+  <tr>
+    <td><span class="teletype">家園</span></td>
+    <td><a onclick='document.getElementById("container").innerHTML = ver2a'>☐</a></td>
+  </tr>
+  <tr>
+    <td><span class="teletype">地獄</span></td>
+    <td><a onclick='document.getElementById("container").innerHTML = ver2b'>☐</a></td>
+  </tr>
+  <tr>
+    <td><span class="teletype">希望</span></td>
+    <td><a onclick='document.getElementById("container").innerHTML = ver2c'>☐</a></td>
+  </tr>
+</table>
+<br><br><br>
+</div>
+</div>
+</body>
+<script>
+ver2a='<div id="container"><div class="dashyboi"><center><u><b><p class="teletype">認知危害內容警告</p></u></b><p class="teletype">需要與[已攔截認知危害]因素達成心態同調。</p><p class="teletype">請如實回答以下問題：</p><p><img src="http://scp-wiki.wdfiles.com/local--files/scp-4211/cipher2.jpg" style="height: 20em; border: 1px solid black;"></p><p class="teletype">這裡是哪裡？</p><table style="width:25%;margin: 0 auto;"><tr><td><span class="teletype">家園</span></td><td><span style="color: #b01;">☑</span></td></tr><tr><td><span class="teletype">地獄</span></td><td><span style="color: #b01;">☐</span></td></tr><tr><td><span class="teletype">希望</span></td><td><span style="color: #b01;">☐</span></td></tr></table><p class="teletype" style="color: green;"><b>[✔] 心態同調完成。</b></p></div></center><blockquote><p><center><b>日記段落2</b></center></p><hr><div class="teletype"><p>回到故鄉真是讓人備感懷念。新鮮的空氣、鹹鹹的海風......平靜之地。它給了我一些能量，讓我能不顧一切的挺下去。我覺得自己變得更完整了一些。</p><p>我想自從我來到這裡後，我的呼吸變得更容易了。我很確定我的肩膀變得更加放鬆。這種安全感是不可能在城市喧囂中找到的；這麼久以來，我真的很需要這樣的平靜。我以後應該會常常回來這裡！</p><p>沒有任何人在這裡了。我猜他們可能去度假了？我真是個糟糕的兒子，連自己父母去哪了都不知道？真該去道個歉的。</p><p>真奇怪，雖然這裡只有我一個人，我卻不覺得孤單。也許是因為我知道他們離我不遠。真希望我能在這裡遇到他們。我上次見到他們還是</p><p style="text-align: right; font-size: 75%;">（此時此刻我實在是想不起來。我明天早上再補上吧。我想至少也有好幾年？）</p><p>晚上變得好冷，我用爸爸留下的煤生了點火（爸爸，我明天會補回去的）</p><p>我終於回家了。</p></div></blockquote>'
+
+ver2b='<div id="container"><div class="dashyboi"><center><u><b><p class="teletype">認知危害內容警告</p></u></b><p class="teletype">需要與[已攔截認知危害]因素達成心態同調。</p><p class="teletype">請如實回答以下問題：</p><p><img src="http://scp-wiki.wdfiles.com/local--files/scp-4211/cipher2.jpg" style="height: 20em; border: 1px solid black;"></p><p class="teletype">這裡是哪裡？</p><table style="width:25%;margin: 0 auto;"><tr><td><span class="teletype">家園</span></td><td><span style="color: #b01;">☐</span></td></tr><tr><td><span class="teletype">地獄</span></td><td><span style="color: #b01;">☑</span></td></tr><tr><td><span class="teletype">希望</span></td><td><span style="color: #b01;">☐</span></td></tr></table><p class="teletype" style="color: green;"><b>[✔] 心態同調完成。</b></p></div></center><blockquote><p><center><b>日記段落2</b></center></p><hr><div class="teletype"><p>我回到了爸的家。在這裡度過的記憶仍然記憶猶新，我很確信這裡就是那些夢魘的根源。也許在這裡過夜能讓我內心的恐懼孩童安定下來？</p><p>這個地方比我記憶中小太多了。我想這是因為我長大後再回來的緣故，不過依舊是讓我驚訝不已。</p><p>他還沒補好媽媽說要帶我離開時砸出來的窟窿。<br><br>你難道就不會負責任地做好事情嗎？你自己砸的東西，就該他媽的自己解決。木頭都被白蟻蛀掉了，就因為你連自己的房子都顧不好！怎麼會有人渣連留給孩子的遺產都搞成這樣？就因為他對自己的人生不滿？</p><p>爸不在這裡。也許是在酒吧睡著了，或者跳入海中追求信仰了，我不在乎。我只是回來找我的房子，或者是回來找他麻煩，我不確定我更想要做哪個。</p><p>我至少十年沒見過他了，最後一次見到他應該是</p><p style="text-align: right; font-size: 75%;">（突然記不起來了。我明天再補。）</p><p>夜晚好冷。也許我根本不該回到牆壁薄成這樣的破地方。<br><br>我把爸用剩的煤燒完了。</p></div></blockquote>'
+
+ver2c='<div id="container"><div class="dashyboi"><center><u><b><p class="teletype">認知危害內容警告</p></u></b><p class="teletype">需要與[已攔截認知危害]因素達成心態同調。</p><p class="teletype">請如實回答以下問題：</p><p><img src="http://scp-wiki.wdfiles.com/local--files/scp-4211/cipher2.jpg" style="height: 20em; border: 1px solid black;"></p><p class="teletype">Where is this?</p><table style="width:25%;margin: 0 auto;"><tr><td><span class="teletype">家園</span></td><td><span style="color: #b01;">☐</span></td></tr><tr><td><span class="teletype">地獄</span></td><td><span style="color: #b01;">☐</span></td></tr><tr><td><span class="teletype">希望</span></td><td><span style="color: #b01;">☑</span></td></tr></table><p class="teletype" style="color: green;"><b>[✔] 心態同調完成。</b></p></div></center><blockquote><p><center><b>日記段落2</b></center></p><hr><div class="teletype"><p>已經好幾年沒回老家了。有點白蟻問題，很多東西都被蛀出了洞，但房子卻還屹立不搖。真是個神奇的地方。</p><p>我用在房子裡找到的火柴點了火，標籤上寫說這是二十年前製造的了。不知道為什麼，我突然在火堆前哭了出來。不過我並非感到悲傷。只是我需要這樣來提醒自己過去的日子。</p><p>爸爸總是說，無論多麼黑暗，我永遠會是我。即便身處黑暗，我仍有那堆火焰。</p><p>我好想他，上次見到他還是在</p><p style="text-align: right; font-size: 75%;">（五年？十年？現在記不起來，稍後再填上吧。）</p><p>我希望他們回家後，能看到一個充滿生命力的回家兒子。天啊，當我離開時......狀態並沒有太好。</p><p>夜晚很冷，但火焰使我感到溫暖。</p></div></blockquote>'
+</script>
+[[/html]]
+[[/collapsible]]
+[[/div]]
+@@ @@
+[[div class="document"]]
+[[=]]
+[[collapsible show="► 存取SCP-4211-3抄本內容 ◄" hide="▼ 已存取抄本 ▼"]]
+[[/=]]
+[[html]]
+
+<style>
+@import url(http://d3g0gp89917ko0.cloudfront.net/v--edac79f846ba/common--theme/base/css/style.css);
+@import url(http://www.scp-wiki.net/component:theme/code/1);
+
+.teletype{
+font-family: 'Andale Mono', 'Courier New', Courier, monospace;
+}
+div.dashyboi{background-color: rgba(0,0,0,0.1); border-radius: 10px; border:dashed 1px black; padding: 10px;}
+
+table, td {
+  border-collapse: collapse;
+}
+th{
+text-align: left;
+}
+
+div.dashyboi a{
+font-size: 0px;}
+
+div.dashyboi a::after{
+font-size: 12px;
+content: "☐";
+cursor: pointer;
+}
+
+div.dashyboi a:hover::after{
+content: "☑";
+text-decoration: none;
+}
+</style>
+<body>
+
+<div id="container">
+<div class="dashyboi">
+<center><u><b>
+<p class="teletype">認知危害內容警告</p>
+</u></b>
+<p class="teletype">需要與[已攔截認知危害]因素達成心態同調。</p>
+<p class="teletype">請如實回答以下問題：</p>
+<p><img src="http://scp-wiki.wdfiles.com/local--files/scp-4211/cipher3.jpg" style="height: 20em; border: 1px solid black;"></p>
+<p class="teletype">你有何感受？</p>
+</center>
+<table style="width:25%;margin: 0 auto;">
+  <tr>
+    <td><span class="teletype">孤獨</span></td>
+    <td><a onclick='document.getElementById("container").innerHTML = ver3a'>☐</a></td>
+  </tr>
+  <tr>
+    <td><span class="teletype">恐懼</span></td>
+    <td><a onclick='document.getElementById("container").innerHTML = ver3b'>☐</a></td>
+  </tr>
+  <tr>
+    <td><span class="teletype">混亂</span></td>
+    <td><a onclick='document.getElementById("container").innerHTML = ver3c'>☐</a></td>
+  </tr>
+</table>
+<br><br><br>
+</div>
+</div>
+</body>
+<script>
+ver3a='<div id="container"><div class="dashyboi"><center><u><b><p class="teletype">認知危害內容警告</p></u></b><p class="teletype">需要與[已攔截認知危害]因素達成心態同調。</p><p class="teletype">請如實回答以下問題：</p><p><img src="http://scp-wiki.wdfiles.com/local--files/scp-4211/cipher3.jpg" style="height: 20em; border: 1px solid black;"></p><p class="teletype">你有何感受？</p><table style="width:25%;margin: 0 auto;"><tr><td><span class="teletype">孤獨</span></td><td><span style="color: #b01;">☑</span></td></tr><tr><td><span class="teletype">恐懼</span></td><td><span style="color: #b01;">☐</span></td></tr><tr><td><span class="teletype">混亂</span></td><td><span style="color: #b01;">☐</span></td></tr></table><p class="teletype" style="color: green;"><b>[✔] 心態同調完成。</b></p></div></center><blockquote><p><center><b>日記段落3</b></center></p><hr><div class="teletype"><p>我睡不著。幹，我好想睡一覺，但......我在夢魘中感受到了那個影子，不知道為什麼離我越來越近了，也許是天黑了，也許是因為家裡沒有任何人了。我只好待在火爐前想等人來，我想在那之前我不可能睡得著的。先坐在這裡吧。那些菸草葉，醫生......</p><p>他對我大吼大叫，要我從他的房子裡滾出去。我跟他說我是他兒子，他卻大發雷霆。我不明白，這是某種殘酷的玩笑話嗎？我還沒來得及說出我想說的話，他就不認我了？他用槍指著我的臉，要我滾出我自己的房子？</p><p>我正在開車回家的路上。那王八蛋把我扔進了泥巴坑裡。我得花上一整個小時才能回到家洗澡，我到時候再回來寫我的感受，媽的。<br><br></p><p>不太對勁</p><p>我需要看醫生</p><p>我剛剛去了一趟廁所，鏡子裡的不是我的臉。</p><p>手也不是我的手</p><p>但我記得......小指頭上的疤，那是用開罐器時割到的。還有我手背上的傷，那是鄰居家的狗抓的，他們不得不把那狗弄暈才救下了我。我額頭上的傷痕則是車禍留下的。</p><p>我父母一輩子都生活在城市裡。</p><p>那是誰的房子？<br><br></p><p>那個人也不是我爸。他沒有那麼老。但那絕對是我爸媽的房子<span style="font-size: 70%">是吧？</span></p><p>那是我叔叔戴夫。奶奶的遺屬給了他那棟房子。為什麼我會覺得那是我老家？我從未去過那裡。</p></div></blockquote>'
+
+ver3b='<div id="container"><div class="dashyboi"><center><u><b><p class="teletype">認知危害內容警告</p></u></b><p class="teletype">需要與[已攔截認知危害]因素達成心態同調。</p><p class="teletype">請如實回答以下問題：</p><p><img src="http://scp-wiki.wdfiles.com/local--files/scp-4211/cipher3.jpg" style="height: 20em; border: 1px solid black;"></p><p class="teletype">你有何感受？</p><table style="width:25%;margin: 0 auto;"><tr><td><span class="teletype">孤獨</span></td><td><span style="color: #b01;">☐</span></td></tr><tr><td><span class="teletype">恐懼</span></td><td><span style="color: #b01;">☑</span></td></tr><tr><td><span class="teletype">混亂</span></td><td><span style="color: #b01;">☐</span></td></tr></table><p class="teletype" style="color: green;"><b>[✔] 心態同調完成。</b></p></div></center><blockquote><p><center><b>日記段落3</b></center></p><hr><div class="teletype"><p>幹，我就是睡不著，這裡太奇怪了。我發誓只要閉上眼哪怕一秒鐘，就能感受到有什麼東西在屋子陰影裡竄動。也許是因為天黑了，也許是因為我已經三天沒睡了，總之我就是睡不著，有如夢中的黑暗離我越來越近，完全不知道為什麼會這樣。我只想在火堆裡坐一會，至少讓我的呼吸平穩下來，心也能夠放緩。<br><br><br><br></p><p>我坐在車裡，他媽的全身是泥。老爸衝進門來，把槍塞到我的嘴巴裡，對我大吼大叫質問我是誰。我甚至能嘗到鐵的味道。他不認得自己的兒子了？這玩笑話未免也太過殘酷了吧？我只是他媽想跟他聊聊，他卻他媽的不認我了？</p><p>他他媽的把我踹進泥巴坑裡，於是我只好他媽渾身是泥的開一小時車回家。幹他媽的，我待會再寫，總是幹你娘機掰咧。剛剛到底是怎樣？<br><br></p><p>不太對勁</p><p>我需要看醫生</p><p>我剛剛去了一趟廁所，鏡子裡的不是我的臉。</p><p>手也不是我的手</p><p>但我記得......小指頭上的疤，那是用開罐器時割到的。還有我手背上的傷，那是鄰居家的狗抓的，他們不得不把那狗弄暈才救下了我。我額頭上的傷痕則是車禍留下的。</p><p>我父母一輩子都生活在城市裡。</p><p>那是誰的房子？<br><br></p><p>那個人也不是我爸。他沒有那麼老。但那絕對是我爸媽的房子<span style="font-size: 70%">是吧</span></p><p>那是我叔叔戴夫。奶奶的遺屬給了他那棟房子。為什麼我會覺得那是我老家？我從未去過那裡。</p></blockquote>'
+
+ver3c='<div id="container"><div class="dashyboi"><center><u><b><p class="teletype">認知危害內容警告</p></u></b><p class="teletype">需要與[已攔截認知危害]因素達成心態同調。</p><p class="teletype">請如實回答以下問題：</p><p><img src="http://scp-wiki.wdfiles.com/local--files/scp-4211/cipher3.jpg" style="height: 20em; border: 1px solid black;"></p><p class="teletype">你有何感受？</p><table style="width:25%;margin: 0 auto;"><tr><td><span class="teletype">孤獨</span></td><td><span style="color: #b01;">☐</span></td></tr><tr><td><span class="teletype">恐懼</span></td><td><span style="color: #b01;">☐</span></td></tr><tr><td><span class="teletype">混亂</span></td><td><span style="color: #b01;">☑</span></td></tr></table><p class="teletype" style="color: green;"><b>[✔] 心態同調完成。</b></p></div></center><blockquote><p><center><b>日記段落3</b></center></p><hr><div class="teletype"><p>不太對勁</p><p>我需要看醫生</p><p>我剛剛去了一趟廁所，鏡子裡的不是我的臉</p><p>手也不是我的手</p><p>但我記得......小指頭上的疤，那是用開罐器時割到的。還有我手背上的傷，那是鄰居家的狗抓的，他們不得不把那狗弄暈才救下了我。我額頭上的傷痕則是車禍留下的。</p><p>我父母一輩子都生活在城市裡</p><p>那麼這是誰的房子？</p><p>我抖得好厲害。這到底是怎麼回事？如果<s>爸爸</s> 屋主現在回來，我要如何解釋？他會大發雷霆吧？我需要把我的感受說出來，這真的是我的感受嗎？我頭好痛，我無法正常思考。</p><p>陰影在逼近，那是我的夢魘。我坐在我的車裡，<s>爸爸</s> 那個人敲打我的窗戶，質問我怎麼停在他家門口。我不能告訴他我用了他家的煤。我到底怎麼了？<br><br></p><p> 那個人不是我爸。他沒有那麼老。但那絕對是我爸媽的房子 <span style="font-size: 70%">是吧</span></p><p>那是我叔叔戴夫。奶奶的遺屬給了他那棟房子。為什麼我會覺得那是我老家？我從未去過那裡。</p></blockquote>'
+</script>
+[[/html]]
+[[/collapsible]]
+[[/div]]
+@@ @@
+[[div class="document"]]
+[[=]]
+[[collapsible show="► 存取SCP-4211-4抄本內容 ◄" hide="▼ 已存取抄本 ▼"]]
+[[/=]]
+[[html]]
+
+<style>
+@import url(http://d3g0gp89917ko0.cloudfront.net/v--edac79f846ba/common--theme/base/css/style.css);
+@import url(http://www.scp-wiki.net/component:theme/code/1);
+
+.teletype{
+font-family: 'Andale Mono', 'Courier New', Courier, monospace;
+}
+div.dashyboi{background-color: rgba(0,0,0,0.1); border-radius: 10px; border:dashed 1px black; padding: 10px;}
+
+table, td {
+  border-collapse: collapse;
+}
+th{
+text-align: left;
+}
+
+div.dashyboi a{
+font-size: 0px;}
+
+div.dashyboi a::after{
+font-size: 12px;
+content: "☐";
+cursor: pointer;
+}
+
+div.dashyboi a:hover::after{
+content: "☑";
+text-decoration: none;
+}
+</style>
+<body>
+
+<div id="container">
+<div class="dashyboi">
+<center><u><b>
+<p class="teletype">認知危害內容警告</p>
+</u></b>
+<p class="teletype">需要與[已攔截認知危害]因素達成心態同調。</p>
+<p class="teletype">請如實回答以下問題：</p>
+<p><img src="http://scp-wiki.wdfiles.com/local--files/scp-4211/cipher4.jpg" style="height: 20em; border: 1px solid black;"></p>
+<p class="teletype">你能相信自己的記憶嗎？</p>
+</center>
+<table style="width:25%;margin: 0 auto;">
+  <tr>
+    <td><span class="teletype">是</span></td>
+    <td><a onclick='document.getElementById("container").innerHTML = ver4a'>☐</a></td>
+  </tr>
+  <tr>
+    <td><span class="teletype">否</span></td>
+    <td><a onclick='document.getElementById("container").innerHTML = ver4b'>☐</a></td>
+  </tr>
+  <tr>
+    <td><span class="teletype">我不確定</span></td>
+    <td><a onclick='document.getElementById("container").innerHTML = ver4c'>☐</a></td>
+  </tr>
+</table>
+<br><br><br>
+</div>
+</div>
+</body>
+<script>
+ver4a='<div id="container"><div class="dashyboi"><center><u><b><p class="teletype">認知危害內容警告</p></u></b><p class="teletype">需要與[已攔截認知危害]因素達成心態同調。</p><p class="teletype">請如實回答以下問題：</p><p><img src="http://scp-wiki.wdfiles.com/local--files/scp-4211/cipher4.jpg" style="height: 20em; border: 1px solid black;"></p><p class="teletype">你能相信自己的記憶嗎？</p><table style="width:25%;margin: 0 auto;"><tr><td><span class="teletype">是</span></td><td><span style="color: #b01;">☑</span></td></tr><tr><td><span class="teletype">否</span></td><td><span style="color: #b01;">☐</span></td></tr><tr><td><span class="teletype">我不確定</span></td><td><span style="color: #b01;">☐</span></td></tr></table><p class="teletype" style="color: green;"><b>[✔] 心態同調完成。</b></p></div></center><blockquote><p><center><b>日記段落4</b></center></p><hr><div class="teletype"><p>你有在商場迷路的記憶嗎？有在大人的人潮中，瘋狂地尋找著那隻來救你的手的記憶嗎？</p><p>你有那場車禍的記憶嗎？我額頭的傷疤就是在那時候留下的，那撞破了我的頭骨，醫生不得不用膠水之類的東西把那裡填上。我記得那個剎那時間變得好慢好慢，記得安全帶重重的壓住了我的胸口，記得頭骨碎裂的瞬間，灼熱的劇痛遍布我的臉龐。</p><p>你有我們兜風之旅的記憶嗎？我記得在汽油完全用完前，我衝入城中飆了好幾個小時。我和我的朋友從來沒有那麼開心過，仿佛世上再無憂慮。<br><br></p><p>我媽說我從來沒在商場迷過路<br><br>他對此感到非常驕傲<br><br><br>那場車禍發生時我只有三歲<br><br><br>我朋友根本不記得我們出去兜風過<br><br>甚至沒人知道我們有飆過車。<br><br></p><p>但我全都記得。我的記憶決定了我是誰。那就是我的全部<p><p>我相信我的記憶。我必須相信我的記憶。如果我連自己都沒法相信，那還能相信什麼呢？<br><br></p><p>我根本不記得這日記裡的任何內容。我根本沒有寫過日記。這些事情也從未發生在我身上過。但這股熟悉感又是怎麼回事？<br><br><br><br></p><p>甚至連他也是我想像出來的嗎？<br><br></p><p>我需要見他。我需要知道。</p></div></blockquote>'
+
+ver4b='<div id="container"><div class="dashyboi"><center><u><b><p class="teletype">認知危害內容警告</p></u></b><p class="teletype">需要與[已攔截認知危害]因素達成心態同調。</p><p class="teletype">請如實回答以下問題：</p><p><img src="http://scp-wiki.wdfiles.com/local--files/scp-4211/cipher4.jpg" style="height: 20em; border: 1px solid black;"></p><p class="teletype">你能相信自己的記憶嗎？</p><table style="width:25%;margin: 0 auto;"><tr><td><span class="teletype">是</span></td><td><span style="color: #b01;">☐</span></td></tr><tr><td><span class="teletype">否</span></td><td><span style="color: #b01;">☑</span></td></tr><tr><td><span class="teletype">我不確定</span></td><td><span style="color: #b01;">☐</span></td></tr></table><p class="teletype" style="color: green;"><b>[✔] 心態同調完成。</b></p></div></center><blockquote><p><center><b>日記段落4</b></center></p><hr><div class="teletype"><p>你有在商場迷路的記憶嗎？有在大人的人潮中，瘋狂地尋找著那隻來救你的手的記憶嗎？</p><p>你有那場車禍的記憶嗎？我額頭的傷疤就是在那時候留下的，那撞破了我的頭骨，醫生不得不用膠水之類的東西把那裡填上。我記得那個剎那時間變得好慢好慢，記得安全帶重重的壓住了我的胸口，記得頭骨碎裂的瞬間，灼熱的劇痛遍布我的臉龐。</p><p>你有我們兜風之旅的記憶嗎？我記得在汽油完全用完前，我衝入城中飆了好幾個小時。我和我的朋友從來沒有那麼開心過，仿佛世上再無憂慮。<br><br></p><p>我媽說我從來沒在商場迷過路<br><br>他對此感到非常驕傲<br><br><br>那場車禍發生時我只有三歲<br><br><br>我朋友根本不記得我們出去兜風過<br><br>甚至沒人知道我們有飆過車。<br><br></p><p>但我卻記得這些。是因為那些都未曾發生過......所以才不那麼真實嗎？<p><p>記憶是我的一切。我必須相信我的記憶。如果我連自己都沒法相信，那還能相信什麼呢？<br><br></p><p>我根本不記得這日記裡的任何內容。我根本沒有寫過日記。這些事情也從未發生在我身上過。但這股熟悉感又是怎麼回事？<br><br><br><br></p><p>甚至連他也是我想像出來的嗎？<br><br></p><p>我需要見他。我需要知道。</p></div></blockquote>'
+
+ver4c='<div id="container"><div class="dashyboi"><center><u><b><p class="teletype">認知危害內容警告</p></u></b><p class="teletype">需要與[已攔截認知危害]因素達成心態同調。</p><p class="teletype">請如實回答以下問題：</p><p><img src="http://scp-wiki.wdfiles.com/local--files/scp-4211/cipher4.jpg" style="height: 20em; border: 1px solid black;"></p><p class="teletype">你能相信自己的記憶嗎？</p><table style="width:25%;margin: 0 auto;"><tr><td><span class="teletype">是</span></td><td><span style="color: #b01;">☐</span></td></tr><tr><td><span class="teletype">否</span></td><td><span style="color: #b01;">☐</span></td></tr><tr><td><span class="teletype">我不確定</span></td><td><span style="color: #b01;">☑</span></td></tr></table><p class="teletype" style="color: green;"><b>[✔] 心態同調完成。</b></p></div></center><blockquote><p><center><b>日記段落4</b></center></p><hr><div class="teletype"><p>你有在商場迷路的記憶嗎？有在大人的人潮中，瘋狂地尋找著那隻來救你的手的記憶嗎？</p><p>你有那場車禍的記憶嗎？我額頭的傷疤就是在那時候留下的，那撞破了我的頭骨，醫生不得不用膠水之類的東西把那裡填上。我記得那個剎那時間變得好慢好慢，記得安全帶重重的壓住了我的胸口，記得頭骨碎裂的瞬間，灼熱的劇痛遍布我的臉龐。</p><p>你有我們兜風之旅的記憶嗎？我記得在汽油完全用完前，我衝入城中飆了好幾個小時。我和我的朋友從來沒有那麼開心過，仿佛世上再無憂慮。<br><br></p><p>我媽說我從來沒在商場迷過路<br><br>他對此感到非常驕傲<br><br><br>那場車禍發生時我只有三歲<br><br><br>我朋友根本不記得我們出去兜風過<br><br>甚至沒人知道我們有飆過車。<br><br></p><p>是他們全都忘記了，還是我的記憶已經無法信任？<p><p>但我的記憶就是我的一切了。我必須相信我的記憶。如果我失去了記憶......那麼我又會是誰？<br><br><br></p><p>我根本不記得這日記裡的任何內容。我根本沒有寫過日記。這些事情也從未發生在我身上過。但這股熟悉感又是怎麼回事？<br><br><br><br></p><p>甚至連他也是我想像出來的嗎？<br><br></p><p>我需要見他。我需要知道。</p></div></blockquote>'
+
+</script>
+[[/html]]
+[[/collapsible]]
+[[/div]]
+[[bibliography title="Footnotes"]]
+: cognito: 若心靈未能成功同調，就會看到作者預先寫好的其他替換內容。
+@@ @@
+: rupert: **定義 -- 型態形成學：** 相信記憶是自然固有，能在集體意識中共享無須直接接觸交流的理論。參見謝德瑞克，R；（1996）「思想圈，型態形成場與阿卡夏記錄」//基金會精神衛生期刊// 卷7(1)，頁1-14。
+@@ @@
+: face: 使人無法辨別他人面孔的神經系統疾病。
+@@ @@
+: Ehrlich: POI-9873（已故）。在該員死後，從他的財產中回收了多個SCP物品。
+[[/bibliography]]
+[[html]]
+<style>
+@import url(http://d3g0gp89917ko0.cloudfront.net/v--edac79f846ba/common--theme/base/css/style.css);
+@import url(http://www.scp-wiki.net/component:theme/code/1);
+
+a:hover{
+cursor: pointer;
+}
+
+.tooltip {
+  position: relative;
+  display: inline-block;
+}
+
+.nobr {white-space: nowrap;}
+
+.tooltip .tooltiptext {
+  visibility: hidden;
+  background-color: #f4f4f4;
+  padding: 0.25em;
+  border: 1px solid #999;
+  text-align: left;
+
+  /* Position the tooltip */
+  position: absolute;
+  z-index: 1;
+  top: 100%;
+  left: 50%;
+  margin-left: -6em;
+  margin-top: 0.5em;
+}
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+}
+</style>
+<br>
+<br>
+<br>
+<br>
+<div style="text-align: right; font-size: 95%">page revision: 1, 最後編輯於: 10 Oct 1976, 03:38 (湖裡)
+<br>
+<div class="nobr">
+<a>你不記得了嗎</a> [<a>?</a>]
+</div>
+<div id="page-options-bottom" class="page-options-bottom">
+
+<div class="tooltip"><a>編輯</a></div>
+
+<a> 評分 (<span id="prw54355">20i+37</span>)</a>
+
+<a>標籤</a>
+
+<div class="tooltip"><a>討論 (1.6e<sup>-35</sup>)</a></div>
+
+<div class="tooltip"><a>歷程紀錄?</a></div>
+
+<a>檔案</a>
+
+<a>打印</a>
+
+<a>網站工具</a>
+
+<div class="block1" style="display: inline;">
+<a>+&nbsp;選項</a>
+</div>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+[[/html]]
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+[[div class="document"]]
+[[=]]
+[[collapsible show="► 存取SCP-4211-█抄本內容 ◄" hide="▼ 已存取抄本 ▼"]]
+[[/=]]
+[[html]]
+
+<style>
+@import url(http://d3g0gp89917ko0.cloudfront.net/v--edac79f846ba/common--theme/base/css/style.css);
+@import url(http://www.scp-wiki.net/component:theme/code/1);
+
+.teletype{
+font-family: 'Andale Mono', 'Courier New', Courier, monospace;
+}
+div.dashyboi{background-color: rgba(0,0,0,0.1); border-radius: 10px; border:dashed 1px black; padding: 10px;}
+
+table, td {
+  border-collapse: collapse;
+}
+th{
+text-align: left;
+}
+
+</style>
+<body>
+
+<div id="container">
+<div class="dashyboi">
+<center><u><b>
+<p class="teletype">認知危害內容警告</p>
+</u></b>
+<p class="teletype">需要與[已攔截認知危害]因素達成心態同調。</p>
+<p class="teletype">請如實回答以下問題：</p>
+<p><img src="http://scp-wiki.wdfiles.com/local--files/scp-4211/cipher5.png" style="height: 20em; border: 1px solid black;"></p>
+<p class="teletype">你還記得他做了什麼嗎？</p>
+</center>
+<table style="width:25%;margin: 0 auto;">
+  <tr>
+    <td><span class="teletype">當然</span></td>
+    <td><a>☑</a></td>
+  </tr>
+  <tr>
+    <td><span class="teletype">我虧欠他</span></td>
+    <td><a>☑</a></td>
+  </tr>
+  <tr>
+    <td><span class="teletype">我的一切</span></td>
+    <td><a>☑</a></td>
+  </tr>
+</table>
+<center>
+<p class="teletype" style="color: green;"><b>[✔] 他一直在呼喚你，直到今日也一直如此。</b></p>
+</center>
+</div>
+</body>
+<blockquote>
+<p><center><b>日記段落5</b></center></p>
+<hr>
+<div class="teletype">
+<p>影子把我帶回了這裡。帶回這個我生命早該終結的地方。帶回這個我被拯救的地方。我終於意識到那個帶我回來的影子是誰了。是你對嗎？凱蒂？</p>
+
+<p>我記得你，凱蒂，儘管其他人都不記得了，我記得你。對不起。</p>
+
+<p>真的很對不起。</p>
+
+<p>好似湖上的天鵝一般。<br><br><br><br></p>
+
+<p>你在暗處看著我，對嗎？<br><br></p>
+
+<p>你想著我嗎？你會恨我嗎？你是在呼喚我，還是在對我糾纏不休，凱蒂？</p>
+
+<p>已經無所謂了，我知道你想要什麼了。</p>
+
+<p>你想要我回去。</p>
+
+<p>你想要我和你一起回到那裡去。</p>
+
+<p>是的，我能聽到你，凱蒂。</p>
+
+<p>我能聽到你。</p>
+
+<p>謝謝你等了我那麼久。<p>
+
+<p>我能聽到你。</p>
+
+<p>我能聽到你。</p>
+
+<p>我將涉過足腰的淤泥。</p>
+
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<p>我將游入冰冷的湖水。<p>
+
+<p style="text-align: center;">我將再度被拖入湖裡。</p>
+
+<p style="text-align: right;">但這次你不會再救我出來了。</p>
+<br><br>
+<br><br>
+<p>但這次你不會再為我而死了。</p>
+
+<p style="text-align: right;">夢魘將會結束。</p>
+<br><br><br>
+<p>而你我又能在一起了</p>
+
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<p>我當然沒有生氣</p>
+
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<p>我當然也記得你</p>
+
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+
+<p>我好想你</p>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<p>我依舊愛著你</p>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<p>就算我已經不是原來的我，那也無所謂</p>
+
+<br><br>
+<p style="text-align: right">就算你也不是原來的你，那也沒關係</p>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<p style="text-align: center;"><a href="http://scp-zh-tr.wikidot.com/scp-2316" target="_parent"> 我回來了</a></p>
+</div>
+</blockquote>
+[[/html]]
+[[/collapsible]]
+[[/div]]
+[[div style="font-size: 0"]]
+this link is here so this page appears on the 2316 backlinks page. bear in mind the actual link is the a tag above
+[[[SCP-2316]]]
+[[/div]]
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+[[footnoteblock style="display:none;"]]
+
+
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[SCP-4210]]] | SCP-4211 | [[[SCP-4212]]] >>
+[[/=]]
+[[/div]]

@@ -1,0 +1,8 @@
+[[include :scp-sandbox2-zh:collab:scp-series-1-tales-edition]]
+
+
+[[module Listpages category="*" order="rating desc" created_by="mang gwan" separate="no" perPage="1000"]]
+# (+**%%rating%%**) || **[[[%%fullname%%|%%title%%]]]**   
+[[/module]]
+
+[[module Categories includeHidden="yes"]]

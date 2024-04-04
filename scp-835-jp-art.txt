@@ -1,0 +1,11 @@
+[[include component:scp-meta-title-hiding css-style=classic]]
+[[include info:start]]
+**標題:** [http://scp-jp.wikidot.com/scp-835-jp SCP-835-JP]
+**作者:** ©︎[[*user home-watch]]
+**繪者：** [[*user Lillian1152]]
+CC-BY-SA3.0
+[[include info:end]]
+
++ [http://scp-zh-tr.wikidot.com/scp-835-jp SCP-835-JP]
+
+[[image https://imgur.com/H1CkK73.jpg]]

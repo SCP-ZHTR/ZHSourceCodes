@@ -1,0 +1,33 @@
+[!--
+EN Interwiki調整式樣組件, 基於 7happy7 及 Sekai-s 的 CN Interwiki。
+
+Please note that as of 2022-03-15, the new EN interwiki is not yet active on the EN SCP Wiki, so this styling component will not yet work.
+
+Interwiki: https://scpwiki.com/interwiki
+原始碼：https://github.com/scpwiki/interwiki
+
+另可參見： https://scpwiki.com/how-to-create-a-branch-of-the-scp-foundation
+
+用法：
+
+在打算重新設計 Interwiki 的頁面上：
+
+ [[include :scp-zh-tr:component:interwiki-style
+| priority=X
+| theme=<link to CSS stylesheet>
+| css=<URI-encoded CSS>
+]]
+
+priority 值必須設置為比該主題擴展的主題的優先級大 1 的數字。
+
+範例：
+- 網站的基本主題（對於SCP Wiki，這是Sigma-9）的優先級為0。
+- 一個設計用於已經使用Sigma-9樣式的頁面的CSS主題（也就是Sigma-9的延伸主題），其優先級為1。
+- 黑市主題拓展了黑色標記筆主題，它的優先級是2；因此黑市主題的優先級將是3。
+
+theme 值是可選的，可以是 CSS 樣式表的 URL，例如一個 CSS 主題。 css 值是可選的，可以是 URI 編碼的 CSS 以直接應用於 Interwiki。要對 CSS 進行 URI 編碼，請參閱 https://meyerweb.com/eric/tools/dencoder
+--]
+
+[[embed]]
+<iframe src="//interwiki.scpwiki.com/styleFrame.html?priority={$priority}&theme={$theme}&css={$css}" style="display: none"></iframe>
+[[/embed]]

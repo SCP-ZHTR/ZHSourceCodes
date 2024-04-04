@@ -1,0 +1,182 @@
+[[iftags +組件]]
+[[module css]]
+@import url("https://nu-scptheme.github.io/Black-Highlighter/css/min/normalize.min.css");
+@import url("https://nu-scptheme.github.io/Black-Highlighter/css/min/black-highlighter.min.css");
+div.blockquote {
+    padding-top: 0.5em;
+}
+div.blockquote tt {
+    margin: 0.5em 1em 1em 1em;
+    display: block;
+    background-color: rgb(var(--dark-gray-monochrome));
+    color: rgb(var(--white-monochrome));
+    padding: 0.5em;
+}
+[[/module]]
+[[=]]
+[[module Rate]]
+[[div_ class="blockquote"]]
+
+
+一眼便知。
+為那些//真的//想要用暗色側邊欄黑標老教父版式於其文章的人而設計：
+只需添加以下引用程式碼：
+
+
+{{[[include :scp-zh-tr:component:bhl-dark-sidebar]]}}
+[[/div]]
+[[/=]]
+[[/iftags]]
+
+[[div [[iftags -組件]]style="display: none"[[/iftags]]]]
+-----
+[[collapsible show="+ 展示組件代碼" hide="- 隱藏組件代碼"]]
+[[module CSS show="true"]]
+#side-bar {
+    /* ===SECONDARY & TERTIARY COLORS=== */
+    /* Editing these will edit a vast majority of theme elements. Useful for making dark themes */
+
+    /* Colors for Secondary & Tertiary items like Blockquote and YUI Tabs */
+    --swatch-secondary-color: var(--swatch-menubg-dark-color);
+    --swatch-tertiary-color: var(--swatch-menubg-medium-color);
+    --swatch-alternate-color: var(--swatch-menubg-light-color);
+
+    /* Text Colors for Secondary & Tertiary items like Sidebar Headers and Top-Bar Menu Text */
+    --swatch-text-secondary-color: var(--swatch-menutxt-dark-color);
+    --swatch-text-tertiary-color: var(--swatch-menutxt-light-color);
+    
+    /* ===SIDE-BAR ELEMENTS=== */
+
+     /* ===SIDE-BAR GENERAL=== */
+    --sidebar-bg-color: var(--swatch-menubg-dark-color);
+    --sidebar-resources-bg-color: 0,0,0,0;
+    --sidebar-media-bg-color: 0,0,0,0;
+
+     /* ===SIDEBLOCK MENU=== */
+    --sideblock-heading-border-color: var(--bright-accent);
+    --sideblock-heading-bg-color: 0,0,0,0; /* Transparent */
+    --sideblock-heading-text-color: var(--swatch-text-tertiary-color);
+
+     /* ===MENU-ITEMS=== */
+    --sidebar-border-color: var(--swatch-primary), 0.08;
+    --sidebar-subtest-color: var(--swatch-text-tertiary-color);
+    
+    --sidebar-links-text: var(--swatch-text-tertiary-color);
+    --sidebar-links-hover-bg-color: var(--bright-accent);
+    --sidebar-links-hover-text-color: var(--swatch-text-tertiary-color);
+
+     /* ===SIDEBAR COLLAPSIBLES=== */
+     /*Folded Colors */
+    --sidebar-collapsible-fld-link-bg: var(--swatch-primary), 0.25;
+    --sidebar-collapsible-fld-link-color: var(--swatch-text-tertiary-color);
+    --sidebar-collapsible-fld-link-hover-color: var(--swatch-text-tertiary-color);
+    --sidebar-collapsible-fld-arrow-hover-color: var(--swatch-text-tertiary-color);
+
+     /*Unfolded Colors */
+    --sidebar-collapsible-ufld-link-bg: var(--swatch-primary-darker), 0.25;
+    --sidebar-collapsible-ufld-link-color: var(--swatch-text-tertiary-color);
+    --sidebar-collapsible-ufld-link-hover-color: var(--swatch-text-tertiary-color);
+    --sidebar-collapsible-ufld-arrow-hover-color: var(--swatch-text-tertiary-color);
+
+     /* Unfolded Body Colors */
+    --sidebar-collapsible-link-color: var(--swatch-text-tertiary-color);
+    --sidebar-collapsible-link-hover-color: var(--swatch-text-tertiary-color);
+    
+    scrollbar-color:
+     rgba(var(--swatch-primary-darker), 0.1) /* Thumb */
+     rgba(var(--swatch-secondary-color), 0.05); /* Track */
+    
+    border-color: rgba(var(--swatch-secondary-color), 0.4);
+}
+
+/* Hover Scrollbar Behavior */
+#side-bar:hover,
+#side-bar:active {
+    scrollbar-color:
+     rgb(var(--swatch-primary-darker), 1) /* Thumb */
+     rgb(var(--swatch-menubg-dark-color), 1); /* Track */
+}
+
+#side-bar:focus-within {
+    scrollbar-color:
+     rgb(var(--swatch-primary-darker), 1) /* Thumb */
+     rgb(var(--swatch-menubg-color), 1); /* Track */
+}
+
+#side-bar::-webkit-scrollbar-track {
+    background-color: rgba(var(--swatch-tertiary-color), 0.8);
+}
+
+#side-bar::-webkit-scrollbar,
+#side-bar::-webkit-scrollbar-thumb,
+#side-bar::-webkit-scrollbar-corner {
+    background-color: rgba(var(--swatch-menubg-dark-color), 0);
+}
+
+#side-bar .side-block.media a:any-link {
+    background: rgba(var(--swatch-menubg-light-color),0.75) !important;
+}
+
+#side-bar .side-block.media a::before {
+    background: rgb(var(--social-color));
+}
+
+#side-bar .side-block.media a img {
+    filter: drop-shadow(0 0 0 rgba(var(--swatch-alternate-color),0));
+    transition: filter 200ms cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+#side-bar .side-block.media a:hover img,
+#side-bar .side-block.media a:active img {
+    filter: drop-shadow(0.1875rem 0.1875rem 0 rgb(var(--swatch-alternate-color)));
+}
+
+#side-bar .side-block.media a:focus-within img {
+    filter: drop-shadow(0.1875rem 0.1875rem 0 rgb(var(--swatch-alternate-color)));
+}
+
+html:not(:lang(cn)) div.scpnet-interwiki-wrapper p::before {
+    box-shadow: inherit;
+}
+
+.scpnet-interwiki-wrapper {
+    -webkit-filter: invert(0.8) hue-rotate(180deg) saturate(0.8);
+            filter: invert(0.8) hue-rotate(180deg) saturate(0.8);
+}
+[[/module]]
+[[/collapsible]]
+[[/div]]
+
+[[module css]]
+.side-block .entry-title{
+display:none !important;
+}
+
+.side-block .entry-title.undefined{
+display:block !important;
+}
+
+.side-block .原創 .entry-title.undefined, .side-block .翻譯 .entry-title.undefined, .side-block .藝術作品 .entry-title.undefined{
+display:none !important;
+}
+
+.side-block .原創 .entry-title.original, .side-block .翻譯 .entry-title.trans, .side-block .藝術作品 .entry-title.art{
+display:block !important;
+}
+
+.side-block .藝術作品 .entry-title.original, .side-block .藝術作品 .entry-title.trans{
+display:none !important;
+}
+
+
+.side-block .entry-title{
+width:170px;
+overflow:hidden !important;
+white-space:nowrap !important;
+text-overflow:ellipsis !important;
+}
+
+.side-block .entry-title:hover{
+white-space:normal !important;
+}
+[[/module]]

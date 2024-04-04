@@ -1,0 +1,94 @@
+[[include :scp-zh-tr:theme:halloween]]
+[[module CSS]]
+.shape-ex11{
+    width: 150px;
+    height: 60px;
+    display: block;
+    text-align: center;
+    cursor: pointer;
+    line-height: 40px;
+    color: #9900FF;
+    background-color: transparent;
+    position: relative;
+    transition: all .3s linear;
+    display: inline-block;
+    font-size: 16px;
+}
+.button {
+    padding: 15px 32px;
+    text-decoration: none;
+    margin:0px auto;
+    cursor: pointer;
+}
+.shape-ex11 > p{
+    position: relative;
+    z-index: 1;
+}
+.shape-ex11::before{
+    content: "";
+    width: 20px;
+    height: 20px;
+    display: block;
+    box-sizing: border-box;
+    border-top: 2px solid #9900FF;
+    border-left: 2px solid #9900FF;
+    position: absolute;
+    top: 0;
+    left: 0;
+    transition: all .3s linear;
+}
+.shape-ex11::after{
+    content: "";
+    width: 20px;
+    height: 20px;
+    display: block;
+    box-sizing: border-box;
+    border-bottom: 2px solid #9900FF;
+    border-right: 2px solid #9900FF;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    transition: all .3s linear;
+}
+.shape-ex11:hover::before,
+.shape-ex11:hover::after{
+    width: 100%;
+    height: 100%;
+}
+
+[[/module]]
+
+[[=]]
+
+[[div class="shape-ex11"style="text-align:center;height:100%;line-height:100%;width:230px;"]]
+[[span style="font-weight: normal;font-size: 180%;"]]**[http://scp-zh-tr.wikidot.com/candy-pumpkin-2021-a 老掉牙鬼故事2]**[[/span]]
+[[/div]]
+
+[[div class="shape-ex11"style="text-align:center;height:100%;line-height:100%;width:230px;"]]
+[[span style="font-weight: normal;font-size: 180%;"]]**[http://scp-zh-tr.wikidot.com/candy-pumpkin-2021-b Trick or Treat]**[[/span]]
+[[/div]]
+
+----
+
+[[/=]]
+> + **題目：Trick or Treat**
+> 
+> +++ **題目說明**：這是一個非常自由的創作主題，基金會的萬聖夜。只需要創作出你心目中，基金會宇宙在萬聖節的樣子即可。(很歡樂基金會也沒有問題)
+> +++ **活動日期**：即日起至 2021/11/06，23:59
+> 
+> +++ **接受作品：**手繪、電繪、複合媒材、立體半立體、攝影、影片等等。
+>   
+> +++ **獎品：**所有作品將在周刊展出，最棒的一篇是29號的封面 (歡迎贊助線上獎品)
+> 
+> +++ **參加方式**：在完成作品後在本文下方黏貼作品，或正式於網站發表後將頁面連結貼在下方討論串也可以，有任何問題也歡迎留言詢問。
+> @@ @@
+@@ @@
+[[=]]
+[[div class="collapsible-block" style="background:#2e157a;padding:.3em;font-size:1.5em"]]
+[[collapsible show="▼ 點擊留言報名 ▼" hide="▲ 收起來 ▲"]]
+[[div class="collapsible-block" style="font-size:1em"]]
+[[module comments]]
+[[/div]]
+[[/collapsible]]
+[[/div]]
+[[/=]]

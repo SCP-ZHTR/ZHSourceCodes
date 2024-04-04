@@ -1,0 +1,392 @@
+[[include :scp-wiki:theme:black-highlighter-theme]]
+[[include :scp-wiki:theme:isolated-terminal]]
+[[module css]]
+:root {
+  --accentColor: 32, 234, 245;
+  --darkColor: 8, 52, 74;
+}
+}
+[[/module]]
+
+[[tabview]]
+[[tab 監測]]
+[[module CountPages tags="+scp +原創"]]
+原創SCP數量：%%total%%
+[[/module]]
+[[module CountPages category="*" tags="-scp +原創"]]
+原創非SCP數量：%%total%%
+[[/module]]
+[[module CountPages tags="+scp +翻譯"]]
+翻譯SCP數量：%%total%%
+[[/module]]
+[[module CountPages category="*" tags="-scp +翻譯"]]
+翻譯非SCP數量：%%total%%
+[[/module]]
+[[/tab]]
+
+[[tab 沒有標籤的頁面]]
+[[module ListPages category="." separate="no" tags="-" perPage="20" order="name"]]
+|| %%title_linked%% || **%%Rating%%** || [[user %%created_by%%]] || %%created_at%% ||
+[[/module]]
+[[/tab]]
+
+[[tab 區域代碼檢測]]
+[[module ListPages category="." separate="no" tags="+翻譯 -en -ru -ko -fr -pl -es -th -jp -de -it -ua -pt -cs -nd-da -nd-fo -nd-no -nd-sv -vn -tr -id -ar -int  -eo  -詮釋資料  -管理  -指導 " perPage="250"]]
+# %%title_linked%%
+[[/module]]
+[[/tab]]
+
+[[tab 戶口普查]]
+[[*user  minatoyukiyo]]
+[[*user  R_Brown_Bear]]
+[[*user  Katty_a_cat]]
+[[*user  Fallen_Truth]]
+[[*user  Anastasialee]]
+[[*user  deanpan0312]]
+[[*user Spins2517]]
+[[*user Dr besch]]
+[[*user DrZhanyuan_DanielB]]
+[[*user Lins58]]
+[[*user Dr Roger_F_XL]]
+[[*user pedder]]
+
+[[module ListPages category="*" created_by="R_Brown_Bear" order="created_at_desc" separate="no" ]]
+||%%title_linked%%||##red|**%%created_at%%**##||%%rating%%||
+[[/module]]
+[[/tab]]
+[[/tabview]]
+
+@@ @@
+[[collapsible show="月刊工具"]]
+[[tabview]]
+[[tab 原創]]
+[[module Listpages separate="no" tags="原創 -藝術作品" created_at="last 1 month"]]
+
+@@[[@@div class="f-con"]]
+@@++++ [http://scp-zh-tr.wikidot.com/@@%%fullname%% %%title%% %%created_at%%]
+摘錄內容
+@@　@@
+@@[[>]]@@
+@@**作者** [[user @@%%created_by%%@@]]@@
+@@[[/>]]@@
+@@[[@@/div]]
+@@@@
+
+[[/module]]
+[[/tab]]
+[[tab 翻譯]]
+[[module Listpages separate="no" tags="翻譯 -藝術作品" created_at="last 1 month"]]
+
+@@[[@@div class="f-con"]]
+@@++++ [http://scp-zh-tr.wikidot.com/@@%%fullname%% %%title%% %%created_at%%]
+摘錄內容
+@@　@@
+@@[[>]]@@
+@@**作者** [[user ]]@@
+@@**譯者** [[user @@%%created_by%%@@]]@@
+@@[[/>]]@@
+@@[[@@/div]]
+@@@@
+
+[[/module]]
+[[/tab]]
+[[tab 藝術作品]]
+[[module Listpages separate="no" tags="藝術作品" created_at="last 1 month"]]
+
+@@[[@@div class="f-con"]]
+@@++++ [http://scp-zh-tr.wikidot.com/@@%%fullname%% %%title%% %%created_at%%]
+@@[[@@image XXX]]
+@@　@@
+@@[[>]]@@
+@@**繪者** [[*user ]]@@
+@@**搬運** [[*user ]]@@
+@@[[/>]]@@
+@@[[@@/div]]
+@@@@
+
+[[/module]]
+
+[[/tab]]
+[[/tabview]]
+[[/collapsible]]
+
+----
+
+[[collapsible show="Dr.V的工作A區"]]
+[[tabview]]
+[[tab 原創SCP]]
+[[module CSS]]
+.content-panel .content-type-title > p {
+  margin: 0;
+}
+.content-panel .content-type-title {
+  font-size: 120%;
+  font-weight: bold;
+  padding: 5px 20px;
+  background-color: #666;
+  color: #fff;
+  border-radius: 8px 8px 0 0;
+  box-shadow: inset 0 1px 1px rgba(255,255,255,.8),
+    inset 0 15px 1px rgba(255,255,255,.2),
+    inset 0 15px 10px rgba(255,255,255,.2);
+}
+.content-panel .content-type-description {
+padding: 0 20px;
+text-align: justify;
+}
+.content-panel.content-row .content-type-description {
+padding: 5px 20px;
+}
+.content-panel.content-row .content-type-description-2 {
+padding: 0 20px;
+text-align: justify; 
+}
+[[/module]]
+
+[[div class="content-panel standalone content-row"]]
+[[div class="content-type-title"]]
+最新原創作品
+[[/div]]
+
+[[div class="content-type-description-2"]]
+
+[[table style="width: 100%;"]]
+[[row style="font-weight: bold; color: #fff; background-color: #666;"]]
+[[cell style="padding: 0 2px; width: 50%;"]]
+頁面名稱
+[[/cell]]
+[[cell style="padding: 0 2px; width: 25%; text-align: center;"]]
+建立日期
+[[/cell]]
+[[cell style="padding: 0 2px; width: 20%; text-align: center;"]]
+創建者
+[[/cell]]
+[[cell style="padding: 0 2px; text-align: center;"]]
+評分
+[[/cell]]
+[[/row]]
+[[/table]]
+
+[[/div]]
+
+[[div class="content-type-description"]]
+
+[[module ListPages order="created_at desc" prependLine="[[include component:listpages-table]]" perPage="20" appendLine="[[/table]]" category="-fragment, -prime"  separate="false" tags="+SCP -翻譯  " rss="Most Recently Translated"]]
+[[row]]
+[[cell style="vertical-align: top;"]]
+%%title_linked%%
+[[/cell]]
+[[cell style="vertical-align: top; text-align: justify;"]]
+%%created_at|%Y年%m月%d日 %H:%M|agohover%%
+[[/cell]]
+[[cell style="vertical-align: top; text-align: left;"]]
+%%created_by_linked%%
+[[/cell]]
+[[cell style="vertical-align: top; text-align: justify;"]]
+%%rating%%
+[[/cell]]
+[[/row]]
+[[/module]]
+
+[[/div]]
+[[/div]]
+[[/tab]]
+
+[[tab 故事]]
+[[div class="content-panel standalone content-row"]]
+[[div class="content-type-title"]]
+最新故事作品
+[[/div]]
+
+[[div class="content-type-description-2"]]
+
+[[table style="width: 100%;"]]
+[[row style="font-weight: bold; color: #fff; background-color: #666;"]]
+[[cell style="padding: 0 2px; width: 50%;"]]
+頁面名稱
+[[/cell]]
+[[cell style="padding: 0 2px; width: 25%; text-align: center;"]]
+建立日期
+[[/cell]]
+[[cell style="padding: 0 2px; width: 20%; text-align: center;"]]
+創建者
+[[/cell]]
+[[cell style="padding: 0 2px; text-align: center;"]]
+評分
+[[/cell]]
+[[/row]]
+[[/table]]
+
+[[/div]]
+
+[[div class="content-type-description"]]
+
+[[module ListPages order="created_at desc" prependLine="[[include component:listpages-table]]" perPage="30" appendLine="[[/table]]" category="-fragment, -prime"  separate="false" tags="-SCP +原創 -藝術作品 -中心 +故事 -wanderers " rss="Most Recently Translated"]]
+[[row]]
+[[cell style="vertical-align: top;"]]
+%%title_linked%%
+[[/cell]]
+[[cell style="vertical-align: top; text-align: justify;"]]
+%%created_at|%Y年%m月%d日 %H:%M|agohover%%
+[[/cell]]
+[[cell style="vertical-align: top; text-align: left;"]]
+%%created_by_linked%%
+[[/cell]]
+[[cell style="vertical-align: top; text-align: justify;"]]
+%%rating%%
+[[/cell]]
+[[/row]]
+[[/module]]
+[[/div]]
+[[/div]]
+[[/tab]]
+
+[[tab 綜合]]
+[[div class="content-panel standalone content-row"]]
+[[div class="content-type-title"]]
+最新綜合作品
+[[/div]]
+
+[[div class="content-type-description-2"]]
+
+[[table style="width: 100%;"]]
+[[row style="font-weight: bold; color: #fff; background-color: #666;"]]
+[[cell style="padding: 0 2px; width: 50%;"]]
+頁面名稱
+[[/cell]]
+[[cell style="padding: 0 2px; width: 25%; text-align: center;"]]
+建立日期
+[[/cell]]
+[[cell style="padding: 0 2px; width: 20%; text-align: center;"]]
+創建者
+[[/cell]]
+[[cell style="padding: 0 2px; text-align: center;"]]
+評分
+[[/cell]]
+[[/row]]
+[[/table]]
+
+[[/div]]
+
+[[div class="content-type-description"]]
+
+[[module ListPages order="created_at desc" prependLine="[[include component:listpages-table]]" perPage="30" appendLine="[[/table]]" category="-fragment, -prime"  separate="false" tags="-SCP +原創 -藝術作品 goi格式 creepypasta wanderers " rss="Most Recently Translated"]]
+[[row]]
+[[cell style="vertical-align: top;"]]
+%%title_linked%%
+[[/cell]]
+[[cell style="vertical-align: top; text-align: justify;"]]
+%%created_at|%Y年%m月%d日 %H:%M|agohover%%
+[[/cell]]
+[[cell style="vertical-align: top; text-align: left;"]]
+%%created_by_linked%%
+[[/cell]]
+[[cell style="vertical-align: top; text-align: justify;"]]
+%%rating%%
+[[/cell]]
+[[/row]]
+[[/module]]
+[[/div]]
+[[/div]]
+[[/tab]]
+[[/tabview]]
+[[/collapsible]]
+
+
+
+[[collapsible show="Dr.V的工作B區"]]
+[[tabview]]
+[[tab 最新翻譯一覽]]
+[[module CSS]]
+.content-panel .content-type-title > p {
+  margin: 0;
+}
+.content-panel .content-type-title {
+  font-size: 120%;
+  font-weight: bold;
+  padding: 5px 20px;
+  background-color: #666;
+  color: #fff;
+  border-radius: 8px 8px 0 0;
+  box-shadow: inset 0 1px 1px rgba(255,255,255,.8),
+    inset 0 15px 1px rgba(255,255,255,.2),
+    inset 0 15px 10px rgba(255,255,255,.2);
+}
+.content-panel .content-type-description {
+padding: 0 20px;
+text-align: justify;
+}
+.content-panel.content-row .content-type-description {
+padding: 5px 20px;
+}
+.content-panel.content-row .content-type-description-2 {
+padding: 0 20px;
+text-align: justify;
+}
+[[/module]]
+
+[[div class="content-panel standalone content-row"]]
+[[div class="content-type-title"]]
+最新翻譯
+[[/div]]
+
+[[div class="content-type-description-2"]]
+
+[[table style="width: 100%;"]]
+[[row style="font-weight: bold; color: #fff; background-color: #666;"]]
+[[cell style="padding: 0 2px; width: 50%;"]]
+頁面名稱
+[[/cell]]
+[[cell style="padding: 0 2px; width: 25%; text-align: center;"]]
+建立日期
+[[/cell]]
+[[cell style="padding: 0 2px; width: 20%; text-align: center;"]]
+創建者
+[[/cell]]
+[[cell style="padding: 0 2px; text-align: center;"]]
+評分
+[[/cell]]
+[[/row]]
+[[/table]]
+
+[[/div]]
+
+[[div class="content-type-description"]]
+
+[[module ListPages order="created_at desc" prependLine="[[include component:listpages-table]]" perPage="30" appendLine="[[/table]]" category="-fragment, -prime"  separate="false" tags="翻譯 +SCP " rss="Most Recently Translated"]]
+[[row]]
+[[cell style="vertical-align: top;"]]
+%%title_linked%%
+[[/cell]]
+[[cell style="vertical-align: top; text-align: justify;"]]
+%%created_at|%Y年%m月%d日 %H:%M|agohover%%
+[[/cell]]
+[[cell style="vertical-align: top; text-align: left;"]]
+%%created_by_linked%%
+[[/cell]]
+[[cell style="vertical-align: top; text-align: justify;"]]
+%%rating%%
+[[/cell]]
+[[/row]]
+[[/module]]
+
+[[/div]]
+[[/div]]
+
+[[/tab]]
+[[/tabview]]
+[[/collapsible]]
+----
+[[collapsible show="Dr.V的工作C區"]]
+
+[[module ListPages  tags="+scp 翻譯 +EN -搞笑 -001提案" perPage="200" separate="no" order="name"]]
+# %%title_linked%% %%created_at%%  by %%created_by%%
+[[/module]]
+
+
+
+[[/collapsible]]
+
+-----
+= [[size 140%]]**[[[*valentine-00 |V. Evaluation Room]]]** | **kyo.aic's terminals**[[/size]]
+----

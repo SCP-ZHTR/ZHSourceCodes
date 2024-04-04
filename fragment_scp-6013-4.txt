@@ -1,0 +1,1820 @@
+[[=]]
+[[div class="Rosetta"]]
+----
++ **##2f8761|警告：以下資料為6013.RP級機密##**
+----
++++ 該資料僅限Site-82及不潔陰影行動內部傳閱。未經授權發佈該文件或其內容的人員將受紀律處分，最重處罰包括依照咒詛應變方案執行之絕罰。
+[[/div]]
+[[/=]]
+----
+= **[[[https://scp-zh-tr.wikidot.com/scp-6013/offset/1 | << 該文件為羅塞塔協定官方指引之一部分。]]]**
+----
+[[=]]
++++++ 孫薩蘭語綜合辭典，羅塞塔協定週期7-07更新
+//站點主管以賽亞．卡姆斯基博士編排、彙整//
+[[/=]]
+----
+[[=]]
++++ 形容詞
+[[/=]]
+[[include :scp-wiki:component:responsive-tables-source |responsive-table-start= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |header-start= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |header-cell-start= --] ]]
+字詞
+[[include :scp-wiki:component:responsive-tables-source |header-cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |header-cell-start= --] ]]
+定義一
+[[include :scp-wiki:component:responsive-tables-source |header-cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |header-cell-start= --] ]]
+定義二
+[[include :scp-wiki:component:responsive-tables-source |header-cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |header-cell-start= --] ]]
+定義三
+[[include :scp-wiki:component:responsive-tables-source |header-cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |header-cell-start= --] ]]
+定義四
+[[include :scp-wiki:component:responsive-tables-source |header-cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |header-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-start= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=字詞]]
+**Anäi**
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義一 ]]
+大量
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義二 ]]
+龐大的
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義三 ]]
+偉大的
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義四 ]]
+
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-start= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=字詞]]
+**Calcaf**
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義一 ]]
+已切斷的／已截斷的
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義二 ]]
+已分離的
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義三 ]]
+愚蠢的／愚昧的
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義四 ]]
+
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-start= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=字詞]]
+**Cupard**
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義一 ]]
+柔軟的／溫柔的
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義二 ]]
+仁慈的
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義三 ]]
+甜的／鹹的／美味的
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義四 ]]
+
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-start= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=字詞]]
+**Derti**
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義一 ]]
+年輕的
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義二 ]]
+新的
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義三 ]]
+簡單的／細小的
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義四 ]]
+
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-start= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=字詞]]
+**Ertir**
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義一 ]]
+苦的／酸的
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義二 ]]
+有毒的
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義三 ]]
+苛性／酸性
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義四 ]]
+
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-start= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=字詞]]
+**Giuir**
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義一 ]]
+闕失的／不在的
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義二 ]]
+透明的
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義三 ]]
+不可見的
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義四 ]]
+
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-start= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=字詞]]
+**Harran**
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義一 ]]
+腐爛的／骯髒的
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義二 ]]
+邪惡的
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義三 ]]
+已死的
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義四 ]]
+
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-start= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=字詞]]
+**Juiet**
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義一 ]]
+忠誠的
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義二 ]]
+有愛的／可信的
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義三 ]]
+尊敬的
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義四 ]]
+
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-start= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=字詞]]
+**Kerk**
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義一 ]]
+必要的／必需的
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義二 ]]
+珍貴的
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義三 ]]
+養成的／長成的
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義四 ]]
+
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-start= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=字詞]]
+**Klavak**
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義一 ]]
+皇族的／聖職的
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義二 ]]
+虔誠的
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義三 ]]
+正式的
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義四 ]]
+妊娠的／可生養的／精壯的
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-start= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=字詞]]
+**Mekht**
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義一 ]]
+鏽蝕的／已沾污的
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義二 ]]
+破損的／損傷的
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義三 ]]
+被封印（並移去）的
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義四 ]]
+
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-start= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=字詞]]
+**Offi**
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義一 ]]
+自由的／野性的
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義二 ]]
+獲得解放的
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義三 ]]
+飄浮的／漂蕩的
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義四 ]]
+
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-start= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=字詞]]
+**Ohrt**
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義一 ]]
+空的
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義二 ]]
+寬敞的／巨大的
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義三 ]]
+荒涼的
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義四 ]]
+空虛的／空心的
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-start= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=字詞]]
+**Pief**
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義一 ]]
+令人滿意的
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義二 ]]
+好的／可接受的
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義三 ]]
+
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義四 ]]
+
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-start= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=字詞]]
+**Solitir**
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義一 ]]
+孤獨的／單獨的
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義二 ]]
+遙遠的
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義三 ]]
+放逐的／流亡的
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義四 ]]
+
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-start= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=字詞]]
+**Valk**
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義一 ]]
+閃亮的／發光的
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義二 ]]
+正義的
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義三 ]]
+光明的／驕傲的
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義四 ]]
+潔淨的
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-start= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=字詞]]
+**Vasar**
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義一 ]]
+古舊的／古老的
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義二 ]]
+最初的／最先的
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義三 ]]
+
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義四 ]]
+
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-start= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=字詞]]
+**Wark**
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義一 ]]
+構建而成的
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義二 ]]
+雕塑而成的
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義三 ]]
+創造而成的／召喚而來的
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義四 ]]
+
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |responsive-table-end= --] ]]
+----
+[[=]]
++++ 名詞
+[[/=]]
+[[include :scp-wiki:component:responsive-tables-source |responsive-table-start= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |header-start= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |header-cell-start= --] ]]
+字詞
+[[include :scp-wiki:component:responsive-tables-source |header-cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |header-cell-start= --] ]]
+定義一
+[[include :scp-wiki:component:responsive-tables-source |header-cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |header-cell-start= --] ]]
+定義二
+[[include :scp-wiki:component:responsive-tables-source |header-cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |header-cell-start= --] ]]
+定義三
+[[include :scp-wiki:component:responsive-tables-source |header-cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |header-cell-start= --] ]]
+定義四
+[[include :scp-wiki:component:responsive-tables-source |header-cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |header-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-start= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=字詞]]
+**Akaras**
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義一 ]]
+原野／牧場
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義二 ]]
+礁岩／海床
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義三 ]]
+地面
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義四 ]]
+世界
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-start= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=字詞]]
+**Antush**
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義一 ]]
+人物／主體
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義二 ]]
+物件／客體
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義三 ]]
+小石／細砂
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義四 ]]
+一者（即「某人」）
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-start= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=字詞]]
+**Batrav**
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義一 ]]
+子宮／發源地
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義二 ]]
+手／口
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義三 ]]
+海／洋
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義四 ]]
+花園
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-start= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=字詞]]
+**Bhekter**
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義一 ]]
+爪
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義二 ]]
+鉤
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義三 ]]
+牙齒
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義四 ]]
+野獸／害獸
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-start= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=字詞]]
+**Bylari**
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義一 ]]
+歌曲
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義二 ]]
+聖詩／佈道
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義三 ]]
+
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義四 ]]
+
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-start= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=字詞]]
+**Cerji**
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義一 ]]
+棺材
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義二 ]]
+蛹／繭
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義三 ]]
+箱子／容器
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義四 ]]
+肚腹／胃
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-start= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=字詞]]
+**Cirrak**
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義一 ]]
+寺廟／教堂
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義二 ]]
+城市
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義三 ]]
+疾病
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義四 ]]
+
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-start= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=字詞]]
+**Dox**
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義一 ]]
+預視／預兆
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義二 ]]
+預期
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義三 ]]
+視野／神視
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義四 ]]
+
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-start= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=字詞]]
+**Epurvett**
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義一 ]]
+問好
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義二 ]]
+你好／再見
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義三 ]]
+請／謝謝
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義四 ]]
+
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-start= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=字詞]]
+**Eshal**
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義一 ]]
+血液／膽汁
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義二 ]]
+毒藥／毒液
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義三 ]]
+經血／精液
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義四 ]]
+卵子
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-start= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=字詞]]
+**Ferrin**
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義一 ]]
+金屬
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義二 ]]
+裝甲／外殼
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義三 ]]
+堡壘
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義四 ]]
+
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-start= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=字詞]]
+**Furoo**
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義一 ]]
+秘密／密謀
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義二 ]]
+罪疚／羞恥
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義三 ]]
+憂懼
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義四 ]]
+怯懦
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-start= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=字詞]]
+**Gräpaf**
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義一 ]]
+融和／聯合
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義二 ]]
+群組／集體
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義三 ]]
+信仰
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義四 ]]
+集會
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-start= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=字詞]]
+**Huwanz**
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義一 ]]
+風
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義二 ]]
+冰／雪
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義三 ]]
+寒冷
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義四 ]]
+死亡
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-start= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=字詞]]
+**Hyott**
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義一 ]]
+權威／命令
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義二 ]]
+奴役／隸屬
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義三 ]]
+服從
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義四 ]]
+
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-start= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=字詞]]
+**Ion**
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義一 ]]
+救世主／先知
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義二 ]]
+大術士伊仰（推定）
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義三 ]]
+
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義四 ]]
+
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-start= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=字詞]]
+**Ipther**
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義一 ]]
+水
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義二 ]]
+泥土／淤泥
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義三 ]]
+奶／蜜
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義四 ]]
+
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-start= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=字詞]]
+**Istan**
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義一 ]]
+太陽／月亮
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義二 ]]
+星星
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義三 ]]
+火燄
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義四 ]]
+痛楚
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-start= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=字詞]]
+**Jumer**
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義一 ]]
+神明
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義二 ]]
+（天）神
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義三 ]]
+願望
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義四 ]]
+
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-start= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=字詞]]
+**Kalme**
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義一 ]]
+屍體／墳墓
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義二 ]]
+井
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義三 ]]
+洞穴
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義四 ]]
+
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-start= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=字詞]]
+**Keukot**
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義一 ]]
+肺／鰓
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義二 ]]
+胸口
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義三 ]]
+鍛造爐／坩堝
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義四 ]]
+
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-start= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=字詞]]
+**Kojad**
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義一 ]]
+惡魔／邪靈
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義二 ]]
+怪物
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義三 ]]
+敵人
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義四 ]]
+
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-start= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=字詞]]
+**Kulo**
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義一 ]]
+（腸道）蠕蟲
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義二 ]]
+間諜
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義三 ]]
+平民／弱者
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義四 ]]
+竊賊
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-start= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=字詞]]
+**Lamat**
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義一 ]]
+名稱
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義二 ]]
+稱號／職業／職位
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義三 ]]
+物種
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義四 ]]
+
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-start= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=字詞]]
+**Loväät**
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義一 ]]
+愛／情愛
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義二 ]]
+一窩／集群
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義三 ]]
+懷孕／收獲／收穫
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義四 ]]
+
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-start= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=字詞]]
+**Luli**
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義一 ]]
+呼吸／氣息
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義二 ]]
+靈魂
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義三 ]]
+意圖／感受
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義四 ]]
+
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-start= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=字詞]]
+**Mayagh**
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義一 ]]
+使命／誓約
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義二 ]]
+承諾／約束
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義三 ]]
+真理
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義四 ]]
+刀劍
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-start= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=字詞]]
+**Molag**
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義一 ]]
+帝王
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義二 ]]
+頂峰／巔峰
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義三 ]]
+紀念物／雕像
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義四 ]]
+
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-start= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=字詞]]
+**Nälkä**
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義一 ]]
+饑餓／需求
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義二 ]]
+欲求
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義三 ]]
+力量／權力
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義四 ]]
+生命
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-start= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=字詞]]
+**Noron**
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義一 ]]
+屠夫／開膛手
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義二 ]]
+謀殺者／殺手
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義三 ]]
+（偉大的）戰士
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義四 ]]
+
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-start= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=字詞]]
+**Nutäm**
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義一 ]]
+巫師／薩滿
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義二 ]]
+女孩／女人／母親
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義三 ]]
+女祭司／貞女
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義四 ]]
+先導者／駕馭者？（推測）
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-start= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=字詞]]
+**Nuterr**
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義一 ]]
+士兵
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義二 ]]
+祭司／牧師
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義三 ]]
+男孩／男人／父親
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義四 ]]
+
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-start= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=字詞]]
+**Oktoi**
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義一 ]]
+氣味／味道
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義二 ]]
+蒸氣／煙霧
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義三 ]]
+灰燼／灰塵
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義四 ]]
+餘燼
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-start= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=字詞]]
+**Oork**
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義一 ]]
+力量／驅動力
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義二 ]]
+肌肉／裝甲
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義三 ]]
+恐怖
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義四 ]]
+軍團
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-start= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=字詞]]
+**Ord**
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義一 ]]
+皮膚／血肉
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義二 ]]
+毛髮／鱗片
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義三 ]]
+布料／袋子
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義四 ]]
+毯子
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-start= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=字詞]]
+**Pertit**
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義一 ]]
+群眾／暴徒
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義二 ]]
+鳥群／獸群
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義三 ]]
+魚群
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義四 ]]
+
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-start= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=字詞]]
+**Rortir**
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義一 ]]
+思想
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義二 ]]
+閃電／火花
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義三 ]]
+心
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義四 ]]
+風暴
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-start= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=字詞]]
+**Rudoye**
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義一 ]]
+工具
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義二 ]]
+兵器
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義三 ]]
+器官／肢體
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義四 ]]
+鑰匙／關鍵
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-start= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=字詞]]
+**Ryratal**
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義一 ]]
+謝罪
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義二 ]]
+懺悔
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義三 ]]
+原諒
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義四 ]]
+
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-start= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=字詞]]
+**Saran**
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義一 ]]
+字詞／言語
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義二 ]]
+咒語
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義三 ]]
+指示
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義四 ]]
+禱告
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-start= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=字詞]]
+**Sone**
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義一 ]]
+筋／脈
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義二 ]]
+腹／內臟
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義三 ]]
+卷軸
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義四 ]]
+黏土／蠟
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-start= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=字詞]]
+**Suarn**
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義一 ]]
+復仇／審判
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義二 ]]
+影子
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義三 ]]
+匕首／刀
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義四 ]]
+憎恨
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-start= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=字詞]]
+**Trypori**
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義一 ]]
+空洞／傷口
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義二 ]]
+根
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義三 ]]
+河川
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義四 ]]
+地洞／隧道
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-start= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=字詞]]
+**Tsat**
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義一 ]]
+路徑
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義二 ]]
+旅程／目的地
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義三 ]]
+旅行者
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義四 ]]
+舌頭／語言
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-start= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=字詞]]
+**Ulks**
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義一 ]]
+土壤
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義二 ]]
+岩／石
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義三 ]]
+骨骼／骷髏
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義四 ]]
+身體
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-start= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=字詞]]
+**Valasi**
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義一 ]]
+鯨魚
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義二 ]]
+利維坦／巨獸
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義三 ]]
+[[span class="ruby"]]執官[[span class="rt"]]Archon[[/span]][[/span]]？（推測）
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義四 ]]
+
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-start= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=字詞]]
+**Valkion**
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義一 ]]
+祝福
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義二 ]]
+致意／敬禮
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義三 ]]
+恭賀
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義四 ]]
+
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-start= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=字詞]]
+**Warat**
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義一 ]]
+雕塑家／建築師
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義二 ]]
+建造者
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義三 ]]
+工程師
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義四 ]]
+
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-start= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=字詞]]
+**Xerxen**
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義一 ]]
+試煉
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義二 ]]
+苦難／掙扎
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義三 ]]
+戰鬥／戰爭
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義四 ]]
+測試／測驗
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-start= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=字詞]]
+**Yool**
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義一 ]]
+背叛／叛徒
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義二 ]]
+出賣／褻瀆
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義三 ]]
+癌症
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義四 ]]
+過敏
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |responsive-table-end= --] ]]
+----
+[[=]]
++++ 動詞
+[[/=]]
+[[include :scp-wiki:component:responsive-tables-source |responsive-table-start= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |header-start= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |header-cell-start= --] ]]
+字詞
+[[include :scp-wiki:component:responsive-tables-source |header-cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |header-cell-start= --] ]]
+定義一
+[[include :scp-wiki:component:responsive-tables-source |header-cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |header-cell-start= --] ]]
+定義二
+[[include :scp-wiki:component:responsive-tables-source |header-cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |header-cell-start= --] ]]
+定義三
+[[include :scp-wiki:component:responsive-tables-source |header-cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |header-cell-start= --] ]]
+定義四
+[[include :scp-wiki:component:responsive-tables-source |header-cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |header-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-start= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=字詞]]
+**Alka**
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義一 ]]
+開始／結束
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義二 ]]
+啟始／起動
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義三 ]]
+
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義四 ]]
+
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-start= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=字詞]]
+**Bapta**
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義一 ]]
+清潔／清洗
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義二 ]]
+沖洗／清除
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義三 ]]
+下雨／如雨降下
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義四 ]]
+
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-start= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=字詞]]
+**Borra**
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義一 ]]
+（雙手）合攏緊握
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義二 ]]
+縫合／編織
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義三 ]]
+提議／暗示
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義四 ]]
+引導／掌舵
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-start= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=字詞]]
+**Byla**
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義一 ]]
+聽
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義二 ]]
+歌唱／大叫
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義三 ]]
+奏樂
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義四 ]]
+
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-start= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=字詞]]
+**Cera**
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義一 ]]
+攻打
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義二 ]]
+拳打／腳踢／噬咬
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義三 ]]
+對抗／反抗
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義四 ]]
+
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-start= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=字詞]]
+**Doxa**
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義一 ]]
+預期／預料
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義二 ]]
+思考
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義三 ]]
+想像
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義四 ]]
+
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-start= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=字詞]]
+**Enra**
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義一 ]]
+聚攏／匯聚
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義二 ]]
+會合
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義三 ]]
+融解／混合
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義四 ]]
+
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-start= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=字詞]]
+**Fotia**
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義一 ]]
+燃燒／點燃
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義二 ]]
+使之枯萎
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義三 ]]
+使之乾燥／使之凋謝
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義四 ]]
+
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-start= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=字詞]]
+**Friyja**
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義一 ]]
+呼吸
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義二 ]]
+脈動
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義三 ]]
+顫抖
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義四 ]]
+
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-start= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=字詞]]
+**Hamba**
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義一 ]]
+受孕／創造
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義二 ]]
+施肥／使之生養／使之受精／產生
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義三 ]]
+建立
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義四 ]]
+令某物成為另一物 _
+（如「令其強大」「令其完整」等）
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-start= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=字詞]]
+**Hyoda**
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義一 ]]
+說
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義二 ]]
+投擲
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義三 ]]
+唾吐
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義四 ]]
+
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-start= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=字詞]]
+**Itia**
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義一 ]]
+離開
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義二 ]]
+消失
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義三 ]]
+死亡
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義四 ]]
+
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-start= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=字詞]]
+**Jona**
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義一 ]]
+宣道／鼓吹
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義二 ]]
+轉換／使之轉信
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義三 ]]
+攜帶／舉起
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義四 ]]
+
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-start= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=字詞]]
+**Korata**
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義一 ]]
+刮擦
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義二 ]]
+刻印
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義三 ]]
+刺青
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義四 ]]
+書寫
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-start= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=字詞]]
+**Litca**
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義一 ]]
+看見
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義二 ]]
+閱讀
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義三 ]]
+理解／知道
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義四 ]]
+
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-start= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=字詞]]
+**Madra**
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義一 ]]
+保護／護衛
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義二 ]]
+養育
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義三 ]]
+防禦／擁護
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義四 ]]
+治療
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-start= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=字詞]]
+**Nälkä**
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義一 ]]
+生活
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義二 ]]
+渴求／需求
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義三 ]]
+欲求
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義四 ]]
+
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-start= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=字詞]]
+**Nolaa**
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義一 ]]
+睡眠／躺臥
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義二 ]]
+隱匿
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義三 ]]
+消失
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義四 ]]
+孕育／養成／成長
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-start= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=字詞]]
+**Oorka**
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義一 ]]
+殺害／殘害
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義二 ]]
+粉碎／摧毀
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義三 ]]
+
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義四 ]]
+
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-start= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=字詞]]
+**Povtora**
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義一 ]]
+重覆／覆述
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義二 ]]
+繼續
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義三 ]]
+重覆進行
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義四 ]]
+
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-start= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=字詞]]
+**Prata**
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義一 ]]
+祈禱
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義二 ]]
+求助
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義三 ]]
+乞求
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義四 ]]
+服從
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-start= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=字詞]]
+**Rifka**
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義一 ]]
+撤退／逃跑
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義二 ]]
+從某物逃離
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義三 ]]
+
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義四 ]]
+
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-start= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=字詞]]
+**Siola**
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義一 ]]
+貫穿
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義二 ]]
+挖掘／刺穿
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義三 ]]
+經歷／通過／徹查
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義四 ]]
+
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-start= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=字詞]]
+**Suarna**
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義一 ]]
+復仇／尋仇
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義二 ]]
+潛入／竊盜
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義三 ]]
+妨擾／滋擾
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義四 ]]
+威脅／脅迫
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-start= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=字詞]]
+**Sukana**
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義一 ]]
+（宗教上）揚升
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義二 ]]
+上升
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義三 ]]
+變得完整／成為一體
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義四 ]]
+鞠躬／臣服
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-start= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=字詞]]
+**Surva**
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義一 ]]
+飲食
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義二 ]]
+從自己取出
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義三 ]]
+透徹理解／內化
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義四 ]]
+吞嚥
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-start= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=字詞]]
+**Taca**
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義一 ]]
+借取
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義二 ]]
+交易／交換
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義三 ]]
+取來／給予
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義四 ]]
+
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-start= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=字詞]]
+**Thurayya**
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義一 ]]
+打碎／分解
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義二 ]]
+分開／使之裂開
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義三 ]]
+粉碎／瓦解
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義四 ]]
+群聚
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-start= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=字詞]]
+**Tsatsa**
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義一 ]]
+移動／行走
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義二 ]]
+旅行
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義三 ]]
+踏上旅途
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義四 ]]
+流動／流過
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-start= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=字詞]]
+**Urna**
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義一 ]]
+靜止
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義二 ]]
+停止
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義三 ]]
+石化／骨化
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義四 ]]
+
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-start= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=字詞]]
+**Voya**
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義一 ]]
+使之疲憊／耗盡
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義二 ]]
+拖曳／拖累
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義三 ]]
+掉下／倒下
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義四 ]]
+
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-start= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=字詞]]
+**Warra**
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義一 ]]
+雕刻
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義二 ]]
+繪畫／製作
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義三 ]]
+塑造
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義四 ]]
+改變
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-start= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=字詞]]
+**Wiita**
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義一 ]]
+到來／到達
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義二 ]]
+返回
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義三 ]]
+等候
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義四 ]]
+
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-start= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=字詞]]
+**Yikaya**
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義一 ]]
+游泳
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義二 ]]
+跳躍
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義三 ]]
+
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=定義四 ]]
+
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |responsive-table-end= --] ]]
+----

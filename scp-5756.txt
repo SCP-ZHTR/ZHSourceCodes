@@ -1,0 +1,143 @@
+[[include :scp-zh-tr:theme:blankstyle]]
+[[module css]]
+:root {
+    --timeDelay: 1s;
+}
+[[/module]]
+
+[[include info:start]]
+**SCP-5756 - 持續提醒**
+**作者：**[[*user Placeholder McD]]
+**原文：**[https://scp-wiki.wikidot.com/scp-5756 SCP-5756 - The Constant Reminder]
+**譯者：**[[*user Kikunai]] 
+**圖像：** 見底部。
+
+[[include info:end]]
+
+[[include component:anomaly-class-bar-source-alt
+|item-number= SCP-5756
+|clearance= 2
+|container-class= safe
+|secondary-class= none
+|disruption-class= vlam
+|risk-class= notice
+]]
+
+----
+**特殊收容措施：** 當發生SCP-5756事件時，應通報控制與收容部部長（現為R. Pensak），隨而沒受所有受影響物品。
+
+**2017年9月10日更新：**特此在此禁止JM64技工使用SCP-5756-A。[[span class="fnnum"]].[[/span]][[span class="fncon"]]只要他不知道，就不能傷害到他。 //-- Ibanez D. 部長//[[/span]]
+----
+[[include component:image-block
+    name=https://scp-wiki.wdfiles.com/local--files/scp-5756/locker.png|
+    caption=SCP-5756-A（左）|
+    align=right|    
+    width=265px|
+]]
+
+**描述：** SCP-5756是指一個影響位於Site-43清潔與維護部區域，編號4B的個人儲物櫃（以下稱之為SCP-5756-A）的現象。存放SCP-5756-A的物品每年一次會被SCP-5756損壞。此現象十分罕見，且未完全被理解清楚。
+
+**發現：** JM64（Philip E. Deering）技工於2013年9月7日下班後，把制服、工作靴及職員證件存放到他的指定個人儲物櫃內。隨後JM64回住所就寢，並第二天依照[/scp-5243 年度協議]繼續留在該處。JM64於上班前打開儲物櫃，並發現他所需的制服從腰部以下轉化成一件紅色實驗袍。他向他的上司報告該事件，後者則觀察到該衣料屬於標準應用超自然部祭袍的一部分。[[span class="fnnum"]].[[/span]][[span class="fncon"]]Site-43應用超自然部的研究項目為奧祕物質的應用性。[[/span]]
+----
+**附錄5756-1，事件記錄：** 以下列出了更多SCP-5756事件。
+
+[[div class="tableb table1"]]
+||~ 事件記錄5756-B||
+|| **日期：** 2014年9月9日 _
+**記錄官：** D. Ibanez（無職銜部長）[[span class="fnnum"]].[[/span]][[span class="fncon"]] Ibanez部長近期辭任了控制與收容部部長一職——這是她辭任前的最後一項職務。[[/span]] ||
+|| **概要：** 事件發生的兩天前，JM64把與上年一樣的同一組物品放在儲物櫃內，並遺留一件在職員活動中拿到的蛋糕——但忘記了第二天是禁止取回物品的。他返回後發現蛋糕消失了，而且其中一隻工作靴被置換成一隻磨損的皮鞋。JM64報告指對此有種奇怪的熟悉感，但隨即被因失去蛋糕而產生的失落感所取代。||
+|| **備註：** 這次事件正好發生在上次事件的一年後。與其他收容活動之間的關係尚且不明朗。Deering被允許繼續使用SCP-5756-A，前提為需上報其餘以後出現的事件。||
+[[/div]]
+
+[[html]]
+<br style="line-height: 1px" />
+[[/html]]
+
+[[div class="tableb table1"]]
+||~ 事件記錄5756-C||
+|| **日期：** 2015年9月9日 _
+**記錄官：** R. Pensak（控制與收容部部長 ）||
+|| **概要：** 與上年一樣，JM64把同樣的物品存放到儲物櫃內，並依照Pensak部長的指示在SCP-5756-A裏安置錄影機。JM64返回後，發現自己的職員證件折成兩半，但該碎片顯示的為他的兄弟及前應用超自然部研究員Dougall Deering博士。其餘物品無恙，亦成功取回錄影機。JM64表示對此感到沮喪，因為他在這十年裏數次嘗試與其兄弟聯絡，但都無濟於事。 ||
+|| **備註：** 分析發現，受影響職員證件與標準的不同；例如D. Deering博士的證件照似乎是在他最後已知照片的數年後再次拍攝的。從中取得的影片僅限於 4 級或更高權限人員觀看。 _
+ _
+將會為JM64提供一張新的職員證件，並隱瞞[/scp-5956 其兄弟死於2002年的事實]。||
+[[/div]]
+
+[[html]]
+<br style="line-height: 1px" />
+[[/html]]
+
+[[div class="tableb table1"]]
+||~ 事件記錄5756-D||
+|| **日期：** 2017年9月9日 _
+**記錄官：** R. Pensak（控制與收容部部長 ）||
+|| **概要：** 如往年一樣，今年JM64把相同的物品——加上自己的手錶——存放到儲物櫃內，並依照Pensak部長的指示留下一支筆和一張信紙。JM64返回後，發現自己的手錶錶面碎裂，其餘表面被鈍挫磨至不反光。筆消失了，而信紙上寫着「我知道那不是你」。||
+|| **備註：** 進行了機器檢測，發現文字與D. Deering博士的字跡有92%吻合。||
+|| **2017年9月10日更新：** 已指定JM64使用新的個人儲物櫃。從今以後只有授權人員才能使用SCP-5756-A。 //—追剿與鎮壓部部長 D. Ibanez// ||
+[[/div]]
+
+----
+= **按情形需要進一步審查5756-4級別權限**
+
+[[=]]
+[[collapsible show="» 重新認證權限憑證 «" hide="« 憑證已確認 »"]]
+[[/=]]
+
+[[html]]
+<br style="line-height: 1px" />
+[[/html]]
+
+[[div class="table4"]]
+||||~ 附錄5756-2：影片抄錄 ||
+|||| **概要：** 以下是從5756-C事件中取得的影片抄錄。||
+||||~ <開始紀錄> ||
+||= N/A || 畫面一片黑暗，SCP-5756-A仍然被關上。||
+||= 00:00 || 畫面開始呈現泛紅色調。 ||
+||= 00:12 || 櫃門被打開。可見一人正在脫下他身穿的應用超自然部制服，並把它掛在鏡頭範圍外。 制服從腰下與一般的清潔與維護部制服融合。 ||
+||= 00:13 || 那人停下動作，伸手拿出JM64的職員證件。他檢視證件，神情顯得憂傷，接着掩口嗚咽。 ||
+||= 00:15 || 那人鎮定了下來，慢慢走向房間的遠處。當他重新出現在鏡頭範圍內時，可見先前被遮擋着，放在長凳上的物品，包括一隻皮鞋、一隻工作靴和一件發霉的蛋糕。那人把證件放在這些物品之中。  ||
+||= 00:20 || 那人幾分鐘後從長凳站起來，無聲吶喊着。他在口袋裏取出另一張證件，折成兩半，把碎片丟進儲物櫃後並隨即大力關上櫃門。 ||
+||= N/A || 其餘錄像損壞。 ||
+||||~ <紀錄結束> ||
+|||| **備註：** 雖然有着顯著的面部毛髮增長，仍可辨別該人為Dougall Deering博士。 ||
+[[/div]]
+
+[[=]]
+[[/collapsible]]
+[[/=]]
+
+[[html]]
+<br style="line-height: 1px" />
+[[/html]]
+----
+[[=]]
+
+
+[[div]]
+[[=]]
+<< **[[[SCP-5956]]]** | **[/on-guard-43-hub 力與毒之語]** | **[[[SCP-5238]]]** >>
+[[/=]]
+[[/div]]
+
+[[collapsible show="»更多Placeholder McD的作品 «" hide="« 更少Placeholder McD的作品 »" hideLocation="both"]]
+[[include more-by:placeholder-mcd]]
+[[/collapsible]]
+
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[SCP-5755]]] | SCP-5756 | [[[SCP-5757]]] >>
+[[/=]]
+[[/div]]
+
+[[include :scp-zh-tr:component:license-box
+|author=[[*user Placeholder McD]] ]]
+=====
+> **檔案名稱：**locker.png
+> **圖像名稱：** 1.29.15 Lockers
+> **圖像作者：** Darcy
+> **圖像授權協議：** CC BY 2.0
+> **圖源連結：** https://www.flickr.com/photos/49142686@N00/16214297877/
+
+=====
+[[include :scp-zh-tr:component:license-box-end]]
+@@ @@

@@ -1,0 +1,446 @@
+[[include :scp-zh-tr:theme:blankstyle]]
+
+[[module css]]
+
+@import url('https://scp-wiki.wdfiles.com/local--files/taboo/Museo.css');
+
+:root{
+  --header-title: "Site-⌘";
+  --header-subtitle: "超現實部";
+}
+
+div#extra-div-1 {
+    background-image: url(https://scp-wiki.wdfiles.com/local--files/scp-6445/Surrealistics%20Logo.png);
+    filter: opacity(20%);
+}
+[[/module]]
+
+[[module css]]
+.page {
+    display: block;
+    overflow: hidden;
+    font-family: "Monotype Corsiva", "Bradley Hand ITC", sans-serif;
+    font-style: normal;
+    background-attachment: scroll;
+    background-clip: border-box;
+    background-color: transparent;
+    background-image: linear-gradient(to top ,rgb(202, 219, 228) 0%, rgb(231, 233, 220) 8%);
+    background-origin: padding-box;
+    background-position: 0px 8px;
+    background-repeat: repeat;
+    background-size: 100% 20px;
+    border: 1px solid #CCC;
+    border-radius: 10px;
+    padding: 10px 10px;
+    margin-bottom: 10px;
+    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.2)
+}
+.page p,
+.page ul {
+    line-height: 20px;
+    margin: 0;
+}
+[[/module]]
+
+[[include :scp-zh-tr:component:anomaly-class-bar-source
+|item-number=5763
+|clearance= 3
+|container-class= esoteric
+|secondary-class= thaumiel
+|secondary-icon=https://scp-wiki.wikidot.com/local--files/component:anomaly-class-bar/thaumiel-icon.svg
+|disruption-class= dark
+|risk-class= 注意
+]]
+
+**特殊收容措施：** 為確保基金會人員對本文件的充分理解，只有在放棄SCP-5763達2週後，才能由超現實部主任親自修改本文件。此外，禁止超現實部全體職員訪問本文件的描述部分，因為這很有可能導致該異常的失效。[[footnote]]不過為了清楚起見，鼓勵該部門職員閱讀收容措施段落。[[/footnote]]
+
+由於SCP-5763對超現實部有維持其功能的要求，SCP-5763與所有相關異常將集中收容於Site-⌘，並接受超現實部主任的直接監督。考慮到SCP-5763具有高度成癮性，項目只能由超現實部部員服用之。
+
+當前超現實部主任為Marcel Sequitur。
+
+文件從這裡開始出現損壞。
+
+**描述：** @@ @@
+@@ @@
+@@ @@
+@@ @@
+
+[[span style="font-family: 'museo';font-weight:700;font-size:1.2em"]]譫妄症是你自作自受。你能處理好這些後果嗎？[[/span]]
+
+不可知劑，一種由基金會提煉出的異常化學製品，以提供Site-⌘超現實部服用。SCP-5763的效果如下：
+* [[[SCP-4923|語義解離]]]
+* 幻聽與幻視
+* [已刪除資料]幻覺
+* [已刪除資料]意識局部喪失
+* 物體恆存概念完全欠乏
+* 對現實的不明把握
+* 對現實的完全把握
+* [[span style="font-family: 'museo';font-weight:700;font-size:1.2em"]]現實是什麼？[[/span]]
+* [[span style="font-family: 'museo';font-weight:700;font-size:1.2em"]]這是一個夢，還是你的夢醒時分？[[/span]]
+
+[[span style="font-family: 'museo';font-weight:700;font-size:1.2em"]]不可知劑。一種精煉而粗糙的物質。能夠放開你的束縛就是一種奇蹟，你不這麼認為嗎？然而，在這最後的問題中，我想要知道我到底是誰？[[/span]]
+
+尚未清楚SCP-5763的運作方式。用以製造它的成分劇變於[[span style="font-family: 'museo';font-weight:700;font-size:1.2em"]]其似乎存在的無限時間中，祈禱這個秘密不會被洩漏。[[/span]]
+
+[[span style="font-family: 'museo';font-weight:700;font-size:1.2em"]]我們不想要曝光。[[/span]]
+
+SCP-5763的製造者為Jamie Robertson高級研究員，時間在其被調入當前所在站點Site-⌘後不久。[[span style="font-family: 'museo';font-weight:700;font-size:1.2em"]]如何讓他適應自己的造物使他陷入漩渦。就像他那螺旋裝訂的筆記本一樣。[[/span]]
+
+[[span style="font-family: 'museo';font-weight:700;font-size:1.2em"]]建築師的胡言亂語也能變得清楚。你渴望得到啟蒙嗎？[[/span]]
+
+[[div_ class="no-addendum"]]
+[[div_ class="center-collapse"]]
+[[collapsible show="對。" hide="你總有一天會醒來的。是吧？"]]
+
+@@ @@
+
+[[div class="page"]]
+
+這是對基金會不相信化學製品的初次測試。當前尚未命名。我是Jamie Robertson高級研究員，正在測試一種旨在 —— 使最可笑的東西合理化 —— 讓異常變得更簡單的化學物質。我一直在研究的SCP是不可能被搞懂的，但通常來說總是會有方法的。只是這個方法往往也是反常的。
+
+@@ @@
+
+我將服用一小帖。來看看效果如何。
+
+[[/div]]
+
+[[div class="page"]]
+
+Jamie Robertson高級研究員。在先前的數次測試中都沒有感受到任何效果，因此將在第五次測試中加倍劑量。
+
+[[/div]]
+
+[[div class="page"]]
+
+Jamie Robertson高級研究員。沒有效果。也許是成分失效的原因。正在研究可能的替代方案。我聽說Site-██在用這種東西做實驗，就那個無概念部。也許要考慮調走。
+
+[[/div]]
+
+[[div class="page"]]
+
+Jamie Robertson高級研究員。Site-██超棒，無概念部已經在這方面做了很多工作了。假設，推測。不知道當中有多少是正確的，但也許這裡該有個步驟。
+
+[[/div]]
+
+[[div class="page"]]
+
+至少可以說，Site-██很有趣，我後面就會填上這個數字了。事實證明，主要還是不行。他們甚至一直在考慮重新為站點和部門命名。
+
+@@ @@
+
+也許我的化學製品將需要再等等。
+
+[[/div]]
+
+[[div class="page"]]
+
+--天空是金色的，草地是灰色的。我想我能在遠處的某個地方看見自己。我當我想走路，天就變亮地就變暗直到我眼花撩亂--
+
+@@ @@
+
+我道歉。這不是拿來寫工作日記的地方。
+
+[[/div]]
+
+[[div class="page"]]
+
+我在思考夢，因為我早先時候用了這本日記，錯誤的日記。如果製造妄想的關鍵成分就是安慰劑怎麼辦？我相信它是有道理的，或者是有效的，有的對吧？
+
+@@ @@
+
+可能要由 --Sequiter-- Sequitur主任執行。
+
+[[/div]]
+
+[[div class="page"]]
+
+Site-⌘是新的名字，與象徵意義有關。對我來說則毫無意義。但這就是我在這裡的原因。基礎技術，花俏的閱夢者，無法認知到我的夢或將成為現實，但也許當我清醒到可以製造煉金術和有效安慰劑的正面或反面時，它就會使我變得清晰。
+
+[[/div]]
+
+[[div class="page"]]
+
+我可能有答案了。這太奇怪了，但如果這行得通，至少沒有人會因意外誤食非生成劑。
+
+[[/div]]
+
+[[div class="page"]]
+
+[[span style="font-family: 'museo';font-weight:700;font-size:1.2em"]]{{已刪除資料}}[[/span]]
+
+[[/div]]
+
+[[div class="page"]]
+
+它起效了。
+
+[[/div]]
+
+[[div class="page"]]
+
+它起效了。夢的關鍵是什麼？還有要相信嗎？
+
+@@ @@
+
+我無法相信。
+
+[[/div]]
+
+[[div class="page"]]
+
+非關聯的解決方案
+--非關解決方案
+解散
+爭議？
+稀釋？--
+
+@@ @@
+
+--懷疑？
+SCP-1278 2999 4721 4923 5763
+記憶強化劑-- 採取
+--反記憶強化劑--
+
+@@ @@
+
+--Conceptions[[footnote]]**譯注：**構想[[/footnote]]
+Concepto[[footnote]]**譯注：**概念[[/footnote]]--
+
+@@ @@
+
+--Atheogstic[[footnote]]**譯注：**無神論者[[/footnote]]
+Athetostic
+Athosic--
+
+@@ @@
+@@ @@
+
+Agnostic[[footnote]]**譯注：**不可知劑[[/footnote]]
+
+[[/div]]
+
+[[div class="page"]]
+
+不可知劑當前仍在測試中。我不認為會有職員會想買這個。
+
+@@ @@
+
+我可能需要偽造某些藥。
+
+[[/div]]
+
+[[div class="page"]]
+
+--朋友與同事們好，我在這--
+
+@@ @@
+
+--Seq--
+
+@@ @@
+
+--不可知劑：一種藥物，用以記--
+
+@@ @@
+
+不可知劑 - 睡前服用的藍色藥丸，認知夢遊
+
+[[/div]]
+
+[[div class="page"]]
+
+Sequitur買了它。他愛上它了。
+
+@@ @@
+
+如果根本什麼也沒有，我是在欺騙我的上級這個有效嗎？但如果它真有效怎麼辦？
+
+@@ @@
+
+安慰劑只是我設想步驟的一部分。不過這讓它變便宜了。
+
+[[/div]]
+
+[[div class="page"]]
+
+可能要從研究中抽身休息一下，好搞清楚我想做什麼。也許我該再次研究4923。這個機率--我非常想用在不可知劑--
+
+[[/div]]
+
+[[div class="page"]]
+
+[[span style="font-family: 'museo';font-weight:700;font-size:1.2em"]]老實說非常好[[/span]]
+
+@@ @@
+
+[[span style="font-family: 'museo';font-weight:700;font-size:1.2em"]]120 000 000 000 --000-- 就是九[[/span]]
+
+@@ @@
+
+[[span style="font-family: 'museo';font-weight:700;font-size:1.2em"]]擰死它的神經元慢慢變成石頭[[/span]]
+
+@@ @@
+
+[[span style="font-family: 'museo';font-weight:700;font-size:1.2em"]]注意認知詛咒自我神祇？[[/span]]
+
+@@ @@
+
+[[span style="font-family: 'museo';font-weight:700;font-size:1.2em"]]語意錨亻叚[[/span]]
+
+@@ @@
+
+[[span style="font-family: 'museo';font-weight:700;font-size:1.2em"]]不可知劑[[/span]]
+
+@@ @@
+
+[[span style="font-family: 'museo';font-weight:700;font-size:1.2em"]]不可知劑讓 你 --的-- 懷疑[[/span]]
+
+[[span style="font-family: 'museo';font-weight:700;font-size:1.2em"]]真實的戰士[[/span]]
+
+@@ @@
+@@ @@
+[[span style="font-family: 'museo';font-weight:700;font-size:1.2em"]]簡潔？[[/span]]
+@@ @@
+
+@@ @@
+我們都瘋了
+
+[[/div]]
+
+[[div class="page"]]
+
+我是在寫三小？
+
+[[/div]]
+
+[[div class="page"]]
+
+不知何故，我在一夜之間突然對SCP-4923有了足夠的理解，我還重寫了它的大量內容。也許能多幹幾次。安眠藥會延長嗎？
+
+@@ @@
+
+實際上，安眠藥能做不可知劑嗎？如果服用者覺得這樣有用應該可以對吧？
+
+[[/div]]
+
+[[div class="page"]]
+
+我要把它撕了。但那就代表著我擁有它。是時候重寫它了，看看Markel有多喜歡這個。
+
+[[/div]]
+
+[[div class="page"]]
+
+我這做了4個月才知道他的名字是Marcel，是c不是k
+
+@@ @@
+
+隨便，我想Marcel不會計較的
+
+[[/div]]
+
+[[div class="page"]]
+
+@@ @@
+@@ @@
+[[span style="font-family: 'museo';font-weight:700;font-size:1.2em"]]卡爾 榮格[[/span]]
+[[span style="font-family: 'museo';font-weight:700;font-size:1.2em"]]湯瑪斯 赫胥黎[[/span]]
+[[span style="font-family: 'museo';font-weight:700;font-size:1.2em"]]約翰 洛克[[/span]]
+@@ @@
+[[span style="font-family: 'museo';font-weight:700;font-size:1.2em"]]我能寫本書了[[/span]]
+
+[[/div]]
+
+[[div class="page"]]
+
+Jamie Robertson的虛無指南的指南的指南
+
+@@ @@
+
+雖然不能發布但會很靈巧的
+
+[[/div]]
+
+[[div class="page"]]
+
+也許需要讓它感覺更真實。
+
+@@ @@
+
+成癮
+昂貴的創造--更多薪水給我？--
+主要症狀
+
+@@ @@
+
+如果我告訴職員他們的牙齒也會掉下來會怎樣？
+
+[[/div]]
+
+[[div class="page"]]
+
+Marcel正要為了牙齒的事情炮我。也許我該坦白的？
+
+[[/div]]
+
+[[div class="page"]]
+
+我還以為我知道自己的藥物是怎樣起作用的。從化學上來講是這樣沒錯啦。
+
+[[/div]]
+
+[[div class="page"]]
+
+[[span style="font-family: 'museo';font-weight:700;font-size:1.2em"]]致我所愛[[/span]]
+
+@@ @@
+
+[[span style="font-family: 'museo';font-weight:700;font-size:1.2em"]]這是我對抗夢與夢魘所需發送的最後一則訊息。 這是我為了基金會做的最後一項任務。我創造的可不是藥[[/span]]
+
+@@ @@
+
+[[span style="font-family: 'museo';font-weight:700;font-size:1.2em"]]用謊言造了一道門[[/span]]
+
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+[[span style="font-family: 'museo';font-weight:700;font-size:1.2em"]]這工作對我來說太多了，我要讓他們去解決它[[/span]]
+
+@@ @@
+@@ @@
+@@ @@
+
+[[/div]]
+
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+
+[[=]]
+[[[http://scp-zh-tr.wikidot.com/scp-5763/offset/1|故事可沒有這麼容易就結束。]]]
+[[/=]]
+[[/collapsible]]
+[[/div]]
+[[/div]]
+
+[[footnoteblock]]
+
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[SCP-5762]]] | SCP-5763| [[[SCP-5764]]] >>
+[[/=]]
+[[/div]]

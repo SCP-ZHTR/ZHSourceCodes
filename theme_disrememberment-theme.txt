@@ -1,0 +1,526 @@
+[[iftags +外觀主題]]
+[[module css]]
+@import url("https://nu-scptheme.github.io/Black-Highlighter/css/min/normalize.min.css");
+@import url("https://nu-scptheme.github.io/Black-Highlighter/css/min/black-highlighter.min.css");
+.unmargined {
+  position: relative;
+  background-color: rgba(var(--dark-accent),1) !important;
+  border: solid 1px rgb(var(--dark-accent)) !important;
+  box-shadow: unset !important;
+}
+
+.unmargined > div:first-of-type {
+  font-family: var(--title-font);
+  color: rgb(var(--white-monochrome)) !important;
+}
+
+.unmargined > div:nth-of-type(2) {
+  font-family: var(--title-font);
+  color: rgb(var(--white-monochrome)) !important;
+  font-weight: 900;
+  white-space: pre-line;
+  font-size: 90%
+}
+
+.unmargined > div:nth-of-type(3) {
+  font-family: var(--body-font);
+  color: rgb(var(--pale-gray-monochrome)) !important;
+  font-weight: 900;
+  font-size: 90%
+}
+
+#page-title {
+    text-align: center !important;
+    font-family: var(--header-font);
+    font-size: 270%;
+}
+
+@media only screen and (max-width: 765px) {
+  #page-title {
+  font-size: 170%;
+  white-space: nowrap;
+  }
+ }
+
+.colors_container {
+    width: 98%;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+       -moz-box-orient: vertical;
+       -moz-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    margin: 0 auto;
+    font-weight: 700;
+    font-family: var(--header-font);
+    color: rgba(var(--white-monochrome), 1);
+}
+
+.colors_container > .colors,
+.colors_container > .subcolors {
+    width: 100%;
+    -webkit-flex-shrink: 0;
+        -ms-flex-negative: 0;
+            flex-shrink: 0;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-flex-wrap: wrap;
+        -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
+}
+
+.colors > .color,
+.subcolors > .color {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: row;
+       -moz-box-orient: horizontal;
+       -moz-box-direction: normal;
+        -ms-flex-direction: row;
+            flex-direction: row;
+    -webkit-box-flex: 2;
+    -webkit-flex-grow: 2;
+       -moz-box-flex: 2;
+        -ms-flex-positive: 2;
+            flex-grow: 2;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+       -moz-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    -webkit-box-align: end;
+    -webkit-align-items: flex-end;
+       -moz-box-align: end;
+        -ms-flex-align: end;
+            align-items: flex-end;
+    padding: 0.5rem;
+    margin: 0.5rem;
+}
+
+.colors > .color > .sub,
+.subcolors > .color > .sub,
+.colors > .color > .sub > .css-variable,
+.subcolors > .color > .sub > .css-variable {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+       -moz-box-orient: vertical;
+       -moz-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+       -moz-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+       -moz-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    width: 100%;
+}
+
+.colors > .color {
+    height: 7rem;
+    -webkit-flex-basis: -webkit-calc((100%/2) - 2rem);
+        -ms-flex-preferred-size: calc((100%/2) - 2rem);
+            flex-basis: -moz-calc((100%/2) - 2rem);
+            flex-basis: calc((100%/2) - 2rem);
+}
+
+.colors > .color.one {
+    background-color: rgba(var(--gray-monochrome), 1);
+}
+
+.colors > .color.two {
+    background-color: rgba(var(--bright-accent), 1);
+}
+
+.subcolors > .color {
+    height: 3rem;
+    font-size: 75%;
+    text-align: center;
+    -webkit-flex-basis: -webkit-calc((100%/7) - 2rem);
+        -ms-flex-preferred-size: calc((100%/7) - 2rem);
+            flex-basis: -moz-calc((100%/7) - 2rem);
+            flex-basis: calc((100%/7) - 2rem);
+}
+
+.subcolors > .color.one {
+    background-color: rgba(var(--newpage-color), 1);
+}
+
+.subcolors > .color.two {
+    background-color: rgba(var(--bright-accent), 1);
+}
+
+.subcolors > .color.three {
+    background-color: rgba(var(--medium-accent), 1);
+}
+
+.subcolors > .color.four {
+    background-color: rgba(var(--gray-monochrome), 1);
+}
+
+.color > .sub > .css-variable {
+    font-size: 80%;
+    letter-spacing: 0.1em;
+    font-family: var(--body-font);
+}
+[[/module]]
+[[>]]
+[[module Rate]]
+[[/>]]
+
+[[div_ style=""filter: display:flex;"]]
+[[image http://scp-wiki.wdfiles.com/local--files/component%3Ablack-highlighter-theme-dev/black-highlighter-logo.svg]]
+[[/div]]
+
+----
+
+[[=]]
++ 外觀主題配色
+[[/=]]
+
+[[div_ class="colors_container"]]
+[[div_ class="colors"]]
+[[div_ class="color one"]]
+[[div_ class="color sub"]]
+Camelot[[span class="css-variable"]]@@--newpage-color@@[[/span]][[span class="css-variable"]]@@#7F2E43@@[[/span]]
+[[/div]]
+[[/div]]
+[[div_ class="color two"]]
+[[div_ class="color sub"]]
+Scorpion[[span class="css-variable"]]@@--bright-accent@@[[/span]][[span class="css-variable"]]@@#5A5A5A@@[[/span]]
+[[/div]]
+[[/div]]
+[[/div]]
+[[div_ class="subcolors"]]
+[[div_ class="color three"]]
+[[div_ class="color sub"]]
+Lonestar[[span class="css-variable"]]@@--medium-accent@@[[/span]][[span class="css-variable"]]@@#670000@@[[/span]]
+[[/div]]
+[[/div]]
+[[div_ class="color four"]]
+[[div_ class="color sub"]]
+Ship Gray[[span class="css-variable"]]@@--dark-accent@@[[/span]][[span class="css-variable"]]@@#424248@@[[/span]]
+[[/div]]
+[[/div]]
+[[/div]]
+[[/div]]
+
+----
+
+[[div class="scp-image-block block-right" style="width:200px;"]]
+[[image http://themes.wdfiles.com/local--files/helloworld/o2.png]]
+[[div class="scp-image-caption" style="width:width:200px;;"]]
+忽怠Logo
+[[/div]]
+[[/div]]
+
+++ 注意：這是根據Black Highlighter(黑色標記筆)主題進而改版製作的。您還需要導入Black Highlighter主題才能使用此主題。 [http://www.scp-wiki.net/component:black-highlighter-theme-dev 更多詳情請見此]
+
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+
+在任何維基上添加下面兩行代碼到您的頁面最上方即可使用：
+
+[[div class="code"]]
+@@[[include :scp-zh-tr:component:black-highlighter-theme-dev]]@@
+@@[[include :scp-zh-tr:component:disrememberment-theme]]@@
+[[/div]]
+
++ 範例
+
+一條水平線可以透括使用5個連字號「@@-----@@」來創建，並且如果它沒被包在任何東西裡面的話（例如引用塊），它會延伸並橫跨整個頁面。在這份文件中被拿來分段的就是水平線。
+
+-----
+
+標題可以被以在一行的開頭添加一至六個加號「+」來創建
+
+[[collapsible show="+ 標題" hide="- 標題"]]
++ 一級標題
+
+++ 二級標題
+
++++ 三級標題
+
+++++ 四級標題
+
++++++ 五級標題
+
+++++++ 六級標題
+[[/collapsible]]
+
+@@ @@
+
+[[tabview]]
+[[tab Tabulator]]
+用你的想像力來假裝這裡有段「測試假文」。
+[[/tab]]
+[[tab Tabulation]]
+嘿，看看這裡，這裡有更多文字。
+
+多麼別緻啊。
+[[/tab]]
+[[tab 長Tab]]
+這是個長Tab。裡面容納了大量文字。
+
+這是個長Tab。裡面容納了大量文字。
+
+這是個長Tab。裡面容納了大量文字。
+
+這是個長Tab。裡面容納了大量文字。
+
+這是個長Tab。裡面容納了大量文字。
+
+這是個長Tab。裡面容納了大量文字。
+
+這是個長Tab。裡面容納了大量文字。
+
+這是個長Tab。裡面容納了大量文字。
+
+這是個長Tab。裡面容納了大量文字。
+
+這是個長Tab。裡面容納了大量文字。
+
+這是個長Tab。裡面容納了大量文字。
+[[/tab]]
+[[tab 空 Tab]]
+[[/tab]]
+[[tab 空 Tab]]
+[[/tab]]
+[[tab 空 Tab]]
+[[/tab]]
+[[tab 空 Tab]]
+[[/tab]]
+[[tab 空 Tab]]
+[[/tab]]
+[[tab 空 Tab]]
+weed lmao
+[[/tab]]
+[[/tabview]]
+
+> 這是個引用塊，可以透過在每一行的開頭添加「> 」來創建。
+> 
+> 更多文字
+> -----
+> 這是個水平線。
+>
+>> 巢狀引用塊
+>>> 還有更多[[footnote]] 然後這裡是註解！ [[/footnote]]
+
+||~ 這是個  ||~ 表格 ||
+||你應該要 || 要知道該如何 ||
+||||創建這東西了||
+
+----
+
+[[=]]
+[[span style="font-family: var(--header-font);"]]Header和Title使用的字體是Poppins。[[/span]]
+[[span style="font-family: var(--body-font);"]]Body使用的字體是Lato。[[/span]]
+[[span style="font-family: var(--mono-font);"]]Monospace使用的字體是PT Mono。[[/span]]
+[[/=]]
+
+-----
+
+[[collapsible hideLocation="both" show="+ 外觀主題代碼" hide="- 關閉"]]
+[[code type="css"]]
+
+/*
+    Disrememberment Theme
+    [2020 Wikidot Theme]
+    Created by Rounderhouse.
+    Based on Black Highlighter Theme created by Woedenaz and Croquembouche.
+    Ennui Logo made by Ayers, CC BY SA 3.0.
+*/
+
+@import url("https://nu-scptheme.github.io/Black-Highlighter/stable/styles/normalize.min.css");
+@import url("https://nu-scptheme.github.io/Black-Highlighter/stable/styles/black-highlighter.min.css");
+
+/* Fonts */
+
+@import url('https://fonts.googleapis.com/css?family=Lato:400,900|PT+Mono|Poppins:600,800');
+
+/* All Vars Used */
+
+:root:lang(zh) {
+    /* S-CSS-P Integration */
+    /* If you're making a new CSS theme, please include the following three variables at minimum. */
+    --theme-base: "nuscp";
+    /* must be either "nuscp" or "sigma9" */
+    --theme-id: "disrememberment";
+    /* set this to the URL of your theme's page - eg for "component:ar-theme", set it to "ar-theme" */
+    --theme-name: "Dsirememberment Theme";
+    /* set this to your theme's full name */
+        
+    /* Header */
+    --logo-image: url("http://themes.wdfiles.com/local--files/helloworld/o2.png");
+    --header-title: "O5 協議：忽怠";
+    --header-subtitle: "善意的謊言，惡毒的內心";
+
+    /* Typefaces */
+    --body-font: 'Lato', sans-serif;
+    --header-font: 'Poppins', sans-serif;
+    --title-font: 'Poppins', sans-serif;
+    --mono-font: "PT Mono", "Andale Mono", "Courier New", Courier, monospace;
+
+    /* Standard Colors */
+    --white-monochrome: 252, 252, 252;
+    /* white */
+    --pale-gray-monochrome: 244, 244, 244;
+    /* v light gray for blockquotes and stuff */
+    --light-gray-monochrome: 120, 120, 120;
+    /* light accent gray for login status */
+    --gray-monochrome: 66, 66, 72;
+    /* gray */
+    --dark-gray-monochrome: 48, 48, 52;
+    /* dark accent gray for sidebar background */
+    --black-monochrome: 12, 12, 12;
+    /* black */
+    --bright-accent: 90, 90, 90;
+    /* blue */
+    --medium-accent: 103, 0, 0;
+    /* medium blue */
+    --dark-accent: 103, 0, 0;
+    /* dark blue */
+    --newpage-color: 99, 190, 255;
+    /* bright blue */
+
+    /* Primary Theme Colors */
+    --swatch-background: var(--white-monochrome);
+    --swatch-primary: var(--medium-accent);
+    --swatch-primary-darker: var(--bright-accent);
+    --swatch-primary-darkest: var(--bright-accent);
+    /* Primary Text Colors */
+    --swatch-text-dark: var(--black-monochrome);
+    --swatch-text-light: var(--white-monochrome);
+    --swatch-important-text: var(--bright-accent);
+    
+    /* Primary Menu Colors */
+    --swatch-menubg-color: var(--gray-monochrome);
+    --swatch-menubg-light-color: var(--gray-monochrome);
+    --swatch-menubg-medium-color: var(--gray-monochrome);
+    --swatch-menubg-medium-dark-color: var(--black-monochrome);
+    --swatch-menubg-dark-color: var(--dark-gray-monochrome);
+    --swatch-menubg-black-color: var(--black-monochrome);
+    --swatch-menubg-hover-color: var(--gray-monochrome);
+    --swatch-menutxt-dark-color: var(--white-monochrome);
+    --swatch-menutxt-light-color: var(--white-monochrome);
+    --swatch-border-color: var(--black-monochrome);
+    /* Primary Header Colors */
+    --swatch-headerh1-color: var(--white-monochrome);
+    --swatch-headerh2-color: var(--white-monochrome);
+    --swatch-topmenu-border-color: var(--dark-gray-monochrome);
+    --swatch-topmenu-bg-color: var(--dark-gray-monochrome);
+    
+    --rating-module-button-color: var(--black-monochrome);
+    --rating-module-text-color: var(--black-monochrome);
+
+    /* Sidebar */
+    --sidebar-transition-timing: 0.5s ease-in-out 0.1s;
+    --sidebar-internal-border-thickness: 0.125rem;
+
+    --background-gradient-color: 90, 90, 90;
+    --background-gradient-distance: 30rem;
+
+    /* Header Gradients */
+
+    --gradient-header: linear-gradient(to bottom, rgba(var(--black-monochrome),0.97) 0%, rgb(var(--dark-gray-monochrome)) 100%);
+    --gradient-topmenu: linear-gradient(to bottom,
+     white 0%,
+     white 7.5rem,
+     rgba(var(--swatch-topmenu-border-color), 1) 7.5rem,
+     rgba(var(--swatch-topmenu-bg-color), 1) 7.625rem,
+     rgba(var(--swatch-topmenu-bg-color), 0.95) calc(100% - 0.125rem),
+     rgba(var(--swatch-topmenu-bg-color), 1) calc(100% - 0.125rem),
+     rgba(var(--swatch-topmenu-border-color), 1) 100%);
+    --gradient-topmenu-mobile: linear-gradient(to bottom,
+     rgba(var(--swatch-topmenu-border-color), 1) 0,
+     rgba(var(--swatch-topmenu-bg-color), 1) 0.125rem,
+     rgba(var(--swatch-topmenu-bg-color), 1) calc(3rem - 0.125rem),
+     rgba(var(--swatch-topmenu-bg-color), 1) calc(3rem - 0.125rem),
+     rgba(var(--swatch-topmenu-border-color), 1) 3rem);
+    --gradient-sidemenu-header: linear-gradient(40deg,
+     rgba(var(--medium-accent), 0.45) 0%,
+     rgba(var(--medium-accent), 0.55) 100%);
+    --gradient-background: linear-gradient(to bottom,
+     rgba(var(--background-gradient-color), 1) calc(calc(0 / 100) * var(--background-gradient-distance)),
+     rgba(var(--background-gradient-color), 0.987) calc(calc(0.8 / 100) * var(--background-gradient-distance)),
+     rgba(var(--background-gradient-color), 0.951) calc(calc(2.9 / 100) * var(--background-gradient-distance)),
+     rgba(var(--background-gradient-color), 0.896) calc(calc(6.4 / 100) * var(--background-gradient-distance)),
+     rgba(var(--background-gradient-color), 0.825) calc(calc(11 / 100) * var(--background-gradient-distance)),
+     rgba(var(--background-gradient-color), 0.741) calc(calc(16.6 / 100) * var(--background-gradient-distance)),
+     rgba(var(--background-gradient-color), 0.648) calc(calc(23.1 / 100) * var(--background-gradient-distance)),
+     rgba(var(--background-gradient-color), 0.55) calc(calc(30.4 / 100) * var(--background-gradient-distance)),
+     rgba(var(--background-gradient-color), 0.45) calc(calc(38.3 / 100) * var(--background-gradient-distance)),
+     rgba(var(--background-gradient-color), 0.352) calc(calc(46.7 / 100) * var(--background-gradient-distance)),
+     rgba(var(--background-gradient-color), 0.259) calc(calc(55.4 / 100) * var(--background-gradient-distance)),
+     rgba(var(--background-gradient-color), 0.175) calc(calc(64.4 / 100) * var(--background-gradient-distance)),
+     rgba(var(--background-gradient-color), 0.104) calc(calc(73.5 / 100) * var(--background-gradient-distance)),
+     rgba(var(--background-gradient-color), 0.049) calc(calc(82.5 / 100) * var(--background-gradient-distance)),
+     rgba(var(--background-gradient-color), 0.013) calc(calc(91.4 / 100) * var(--background-gradient-distance)),
+     rgba(var(--background-gradient-color), 0) calc(calc(100 / 100) * var(--background-gradient-distance)));
+}
+
+.scp-image-block {
+   color: rgb(var(--white-monochrome));
+}
+#login-status {
+   color: rgb(var(--light-gray-monochrome));
+}
+
+#side-bar .heading p, #side-bar .side-block>.collapsible-block .collapsible-block-link {
+   color: rgb(var(--black-monochrome));
+   background-color: rgb(var(--light-gray-monochrome));
+}
+blockquote {
+    background-color: rgba(0,0,0,0.05);
+}
+#side-bar div.menu-item>:not(:nth-child(2)):not(.collapsible-block) {
+   color: rgb(var(--pale-gray-monochrome));
+}
+.yui-navset .yui-nav li a em, .yui-navset-top .yui-nav li a em, .yui-navset-bottom .yui-nav li a em {
+   color: white;
+}
+
+#page-content .collapsible-block-link{color: #000;}
+
+#page-title{
+text-align: center!important;
+}
+
+.code {
+   background-color: rgba(var(--bright-accent), .75);
+   border-style: dashed;
+}
+[[/code]]
+[[/collapsible]]
+[[/iftags]]
+
+[[module css]]
+@import url("http://scp-zh-tr.wikidot.com/theme:disrememberment-theme/code/1");
+[[/module]]

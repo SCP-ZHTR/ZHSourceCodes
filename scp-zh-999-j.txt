@@ -1,0 +1,110 @@
+[[include component:scp-meta-title-hiding css-style=classic]]
+
+[[include info:start]]
+
+**SCP-ZH-999-J：工**
+@@ @@
+**原作者：**[[*user Pao Mian]]
+@@ @@
+**客串：**[[*user SamScript]] & [[*user LuLu_Lucifelle]] & [[*user k1s10r0db00ne]] & [[*user AbyssDream]]
+@@ @@
+圖片屬於自製。
+
+[[include info:end]]
+
+[[=image https://i.imgur.com/saixHs0.png]]
+
+[[div class="blockquote"]]
+夭壽阿這他媽才[[[zh999-contest|活動]]]第三天
+
+[[>]]
+— Dir. Shaman Surge
+[[/>]]
+
+[[/div]]
+
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+
+[[=]]
+[[collapsible show="SCiPNET提示：本文件已更新！" hide="正在顯示已歸檔文件：SCP-ZH-999-J-D"]]
+
+[[=image https://i.imgur.com/YAxZBap.png]]
+
+
+[[<]]
+
+[[div class="blockquote"]]
+已廢除
+
+[[>]]
+— Dr. Han-Qing-Ku
+[[/>]]
+
+[[/div]]
+
+@@ @@
+
+[[div class="blockquote"]]
+欸不是我蠻喜歡這篇的欸拜託不要這樣
+
+[[>]]
+— Dr. Lucifelle
+[[/>]]
+[[/div]]
+
+@@ @@
+
+[[div class="blockquote"]]
+咩噗
+
+[[>]]
+— Dr. Kris Boone
+[[/>]]
+[[/div]]
+
+@@ @@
+
+[[div class="blockquote"]]
+好
+
+[[>]]
+— Dir. AD
+[[/>]]
+[[/div]]
+
+@@ @@
+
+[[div class="blockquote"]]
+我說廢除就是廢除
+Q.E.D.
+[[>]]
+— Dr. Han-Qing-Ku
+[[/>]]
+[[/div]]
+
+@@ @@
+
+[[div class="blockquote"]]
+夠了我一定要禁言你們
+
+[[>]]
+— Dir. Shaman Surge
+[[/>]]
+[[/div]]
+
+[[/<]]
+
+[[/collapsible]]
+[[/=]]

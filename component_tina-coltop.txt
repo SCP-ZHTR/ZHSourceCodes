@@ -1,0 +1,14 @@
+[[module css]]
+@import url('http://scp-zh-tr.wikidot.com/theme:tina');
+[[/module]]
+
+[[include :scp-zh-tr:component:tina-coltop-deep
+ifprot={$ifprot}|ifprot=rawmode
+|heading={$heading}|heading=p
+|align={$align}|align=left
+|nohide={$nohide}|nohide=0
+|folded={$folded}|folded=1
+|hide={$hide}|hide={$show}
+|hidesign={$hidesign}|hidesign=▼
+|show={$show}|show=摺疊頁
+|showsign={$showsign}|showsign=▶]]

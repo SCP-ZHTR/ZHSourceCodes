@@ -1,0 +1,45 @@
+[[include info:start]]
+**原文：**[http://www.scpwiki.com/taboo Taboo] 禁忌之地
+**作者：**[[*user PeppersGhost]]
+**譯者：**[[*user EmptyName723]]
+
+感謝[[*user AbyssDream]]幫忙編輯圖片。
+[[[http://www.scp-wiki.net/dr-john-peppersghost-pepper-s-personnel-file|點這裡以看到更多此作者的作品！]]]
+[[include info:end]]
+
+[[module ListPages  category="fragment" parent="." limit="1" order="created_at" offset="@URL|0"]]
+%%content%%
+[[/module]]
+
+[!--
+翻譯者們，下面是每個頁面的原網址：
+* http://scp-wiki.wikidot.com/fragment:taboo-1 -- Main document
+* http://scp-wiki.wikidot.com/fragment:taboo-2 -- O5-4000-F26 note
+* http://scp-wiki.wikidot.com/fragment:taboo-3 -- Colorblind version
+* http://scp-wiki.wikidot.com/fragment:taboo-4
+--]
+
+[!--如果你在翻譯這篇文章並需要上方的警告圖片的話，這裡是Photoshop檔： http://www.scp-wiki.net/local--files/4000contestpeppersghost/TabooWarning.psd
+
+或如果你沒有Photoshop的話，也可以私信原作者喔！--]
+
+[!--
+已翻譯版本：
+* http://scp-zh-tr.wikidot.com/fragment:taboo-1 -- 主文件
+* http://scp-zh-tr.wikidot.com/fragment:taboo-2 -- O5-4000-F26紀錄
+* http://scp-zh-tr.wikidot.com/fragment:taboo-3 -- 色盲無障礙模式
+* http://scp-zh-tr.wikidot.com/fragment:taboo-4 
+--]
+
+[[include :scp-zh-tr:component:license-box
+|author=PeppersGhost]]
+=====
+**Image 1**
+> **檔案名稱：**//Up-in-the-Air_Gabriela-Pinto_CC2_edited2.jpg//
+> **圖像名稱：**//Up in the Air//
+> **圖像作者：**Gabriela Pinto
+> **圖像授權協議：**CC BY 2.0
+> **圖源連結：** https://www.flickr.com/photos/gabrielap93/9779144082/
+
+=====
+[[include :scp-zh-tr:component:license-box-end]]

@@ -1,0 +1,18 @@
+[[include info:start]]
+作者 : [[*user Reverberate_a]]
+你說什麼？特殊國與國關係？
+不，讓我用基金會的方式告訴你，這是異常國與國關係。
+
+資料文本：https://www.president.gov.tw/NEWS/5749
+中華民國總統府
+[[include info:end]]
+
+
+[[module ListPages  category="fragment" parent="." limit="1" order="created_at" offset="@URL|0"]]
+%%content%%
+[[/module]]
+
+[!--
+http://scp-zh-tr.wikidot.com/fragment:raisa-lee-teng-hui-1
+http://scp-zh-tr.wikidot.com/fragment:raisa-lee-teng-hui-2
+--]

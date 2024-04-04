@@ -1,0 +1,13 @@
+[[include component:scp-meta-title-hiding css-style=penumbra]]
+[[include info:start]]
+> 原文：[http://www.scpwiki.com/scp-5763 SCP-5763] 我夢見了我是一隻蝴蝶
+> 作者：[[*user CompleteIndie]]
+> 譯者：[[*user Frederica Bernkastel]]
+[[include info:end]]
+
+[[module ListPages  category="fragment" parent="." limit="1" order="name" offset="@URL|0"]]
+%%content%%
+[[/module]]
+
+[!-- http://scp-zh-tr.wikidot.com/fragment:scp-5763-1 --]
+[!-- http://scp-zh-tr.wikidot.com/fragment:scp-5763-2 --]

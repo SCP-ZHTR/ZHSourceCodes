@@ -1,0 +1,62 @@
+[[include component:scp-meta-title-hiding css-style=classic]]
+[[include info:start]]
+原文：[https://scp-wiki.wikidot.com/scp-3071 SCP-3071] 一根超香蕉
+作者：[[*user fabula]]
+譯者：[[*user Frederica Bernkastel]]
+[[include info:end]]
+
+**項目編號：** SCP-3071
+
+**項目等級：** Neutralised
+
+[[include component:image-block
+| name=https://scp-wiki.wdfiles.com/local--files/scp-3071/SCP-3071.svg
+| caption=香蕉的藝術展示。
+| align=right]]
+
+**特殊收容措施：** SCP-3071殘餘已全數焚毀。測試也已經完成。瑪莎．蘭利的寵物（一隻貓與兩隻雪貂）由Site 126維安警衛麥克爾．皮爾森撫養，目前均已死亡。
+
+**描述：** SCP-3071是1987年3月23日，蘇格蘭亞伯丁民宅屋主瑪莎．蘭利頭部中一根非異常香芽蕉的實體化。
+
+SCP-3071使瑪莎．蘭利的大部分腦組織與頭骨分裂並彈出。SCP-3071發生餐廳鄰近空間中發現了上述兩者的碎片，周圍的牆壁與天花板上也沾染了各種污漬。推定瑪莎．蘭利在SCP-3071發生後的0至0.5秒內死亡。香蕉也在同時發生了爆炸。
+
+在自殺通報使警方介入後，基金會才意識到了SCP-3071的存在。至今仍無法確認SCP-3071的發生原因，但已經否定了多種假設，包括瞬間移動、手動插入與沃荷效應。
+
+**附錄3071.1：** 測試紀錄
+> **測試編號：** 1
+> **測試內容：** 將50根香芽蕉連續瞬間移動到50個D級人員的頭部。
+> **測試結果：** 發現人類特別容易受到香蕉瞬間移動的影響。
+
+> **測試編號：** 2
+> **測試內容：** 使用AR-15擊發50根香芽蕉子彈。
+> **測試結果：** 未獲取新資訊。
+
+> **測試編號：** 3
+> **測試內容：** 以7.3公斤巨搥重擊50根香芽蕉。
+> **測試結果：** 未獲取新資訊。
+
+> **測試編號：** 4
+> **測試內容：** 用牛排刀將50根香芽蕉切成1.5 公分寬的香蕉片。
+> **測試結果：** 未獲取新資訊。
+
+> **測試編號：** 5
+> **測試內容：** 將50個D級人員連續瞬間移動到50根香芽蕉上。
+> **測試結果：** 發現香蕉特別容易受到人類瞬間移動的影響。
+
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[SCP-3070]]] | SCP-3071 | [[[SCP-3072]]] >>
+[[/=]]
+[[/div]]
+
+[[include :scp-zh-tr:component:license-box
+|author=fabuIa
+]]
+=====
+> **Filename:** SCP-3071.svg
+> **Author:** Elembis
+> **License:** Public Domain
+> **Source Link:** https://commons.wikimedia.org/wiki/File:Bananas.svg
+> **Additional Notes:** Originally titled bananas.svg. Renamed by me for ease of storage.
+=====
+[[include :scp-zh-tr:component:license-box-end]]

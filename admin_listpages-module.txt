@@ -1,0 +1,14 @@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+Listpages
+[[module Listpages pagetype="@URL" category="@URL" tags="@URL" parent="@URL" link_to="@URL" created_at="@URL" updated_at="@URL" created_by="@URL" rating="@URL" votes="@URL" offset="@URL" range="@URL" name="@URL" fullname="@URL" perPage="250" order="size desc"]]
+[[div class="title_linked"]]
+%%title_linked%%
+[[/div]]
+[[/module]]

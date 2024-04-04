@@ -1,0 +1,43 @@
+[[include info:start]]
+作者：[[*user Dysadron]]
+篇名：我，055
+原文：[http://www.scp-wiki.net/i-055 I,055]
+譯者：[[*user k1s10r0d]]
+[[include info:end]]
+
+我......天殺的，我發誓我有一個有關的笑話
+@@
+@@
+@@
+@@
+@@
+@@
+@@
+@@
+@@
+@@
+@@
+@@
+@@
+@@
+@@
+@@
+@@
+@@
+@@
+@@
+@@
+@@
+@@
+@@
+@@
+@@
+@@
+@@
+@@
+@@
+[[collapsible show="我，摺疊頁" hide="這些故事會讓你嘖嘖稱奇。"]]
+[[module ListPages parent="i-hub" order="created_at"]]
+%%title_linked%%
+[[/module]]
+[[/collapsible]]

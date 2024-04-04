@@ -1,0 +1,104 @@
+[[include :scp-zh-tr:component:scp-meta-title-hiding]]
+
+[[include info:start]]
+**SCP-6586 - 森林之魂**
+**原文：**[https://scp-wiki.wikidot.com/scp-6586 SCP-6586] -  Forest Spirits
+**作者：**[[*user Some Reference]]
+**譯者：**[[*user feitag]]
+[[include info:end]]
+[[include :scp-wiki:theme:paperstack]]
+[[div class="logo"]]
+[[image https://scp-wiki.wdfiles.com/local--files/theme%3Apaperstack/lgtrans.png]]
+[[/div]]
+[[div class="header-container-ex"]]
+[[div class="header-info"]]
+[[div class="header-info-flex"]]
+[[div class="text-item"]]
+[[size 90%]]##grey|**負責站點：**##[[/size]]
+
+[[size 220%]]**N/A**[[/size]]
+[[/div]]
+
+[[div class="text-item"]]
+[[size 90%]]##grey|**負責部門：**##[[/size]]
+
+[[size 220%]]**異常生態系部門**[[/size]]
+[[/div]]
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[div class="anom-bar-esoteric"]]
+
+
+[[include :scp-zh-tr:component:customizable-acs
+|containment-class= keter
+|containment-color= 255,56,46
+|secondary-class= uncontained
+|secondary-color= 110,70,64
+|inc-split-color= --]]]
+
+[[include :scp-zh-tr:component:customizable-acs
+|containment-class= keter
+|containment-image= https://scp-wiki.wdfiles.com/local--files/component%3Aanomaly-class-bar/keter-icon.svg
+|containment-color= 255,56,46
+|inc-esoteric-layout = --]]]
+
+[[div class="anom-bar-esoteric"]]
+
+[[include :scp-zh-tr:component:anomaly-class-bar-source
+|item-number= 6586
+|clearance= 1
+|container-class= keter
+|secondary-class= uncontained
+|secondary-icon= https://scp-wiki.wdfiles.com/local--files/component%3Aanomaly-class-bar/uncontained-icon.svg
+|disruption-class= ekhi
+|risk-class= notice
+]]
+
+[[/div]]
+
+[[/div]]
+
+
+[[include :scp-wiki:component:acs-animation]]
+
+@@ @@
+
+**特殊收容措施：**基金會的隱藏攝影機應監視所有已知的 SCP-6586 顯現地點，以及其他已知可能顯現地點，觀察是否出現 SCP-6586 事件的跡象。一旦發現異常活動，若有平民在場，應使用該區域植入的通氣管釋放主要由H級與B級混合而成的氣膠型記憶刪除劑。此後，派遣離現場最近的相關機動特遣組前去援救所有目擊者並將他們送回家，以及碰觸一個大型 SCP-6586 物體。
+
+由於 SCP-6586 顯現點的出現頻率和範圍，已批准大幅提高用於平民目擊者救援特化機動特遣組的預算。此外，目前正在開發幾種能夠使用衛星影像來偵測 SCP-6586 事件的演算法。演算法應盡快實用化，以降低大規模分散式區域攝影機所耗費的成本。
+
+目前認為沒有必要採取進一步行動。
+
+**描述：**SCP-6586 是偶爾出現的異常現象[[footnote]]在全世界範圍，每周約發生四次。[[/footnote]]：非物理實在的森林生態系突然顯現在原本無法存在此種生態系的地區。SCP-6586 通常擁有更廣泛區域當中的原生動植物群，前述生物體的行為與相似物種的典型行為相同。值得注意的是，在受影響地區也發現了類似已滅絕生物的個體。尚未觀察到任何 SCP-6586 事件重複出現在先前曾受本異常影響的區域。
+
+SCP-6586 事件發生時，其中顯現的物體將穿透地面以及任何環境中的固體，然而由於 SCP-6586 的非物質性質，這對周圍物理環境沒有明顯的持續影響。前述物體通常是半透明而帶有微弱的藍灰色，唯一的例外是 SCP-6586-1。
+
+SCP-6586-1 是一塊固體花崗岩墓碑，與其他 SCP-6586 物體同時顯現。它與所有事件中產生的物體明顯不同，因為它既是物質又不透明。在 SCP-6586-1 前方的泥土地上始終存在著一枝該地區原生的枯萎花朵。
+
+一旦人類與 SCP-6586 事件中顯現的大型動植物接觸後[[footnote]]不包括草、小型林下植物、微生物和小型昆蟲。[[/footnote]]，除 SCP-6586-1 以外的所有 SCP-6586 物體將在幾分鐘內漸漸劣化直至消失。在所有前述物體完全解體後，受影響的地區接下來的24小時內將經歷大量降雨，即使原本該地的氣候由於極端溫度或其他環境因子而不利於這種天氣出現。
+
+ 2102 年在巴西馬瑙斯附近首次發現了 SCP-6586 現象顯現，大約是在地球上最後一片天然雨林遭到破壞之後。這些現象只發生在曾經有森林但後來同樣遭到破壞的地區。異常的來源仍然未知。
+
+[[footnoteblock]]
+
+@@ @@
+
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[SCP-6586]]] | SCP-6586 | [[[SCP-6586]]] >>
+[[/=]]
+[[/div]]
+
+
+[[=]]
+[[include :scp-zh-tr:component:license-box
+|author=Some Reference
+|translator=feitag
+|lang=]]
+
+[[include :scp-zh-tr:component:license-box-end]]
+
+[[/=]]
+@@ @@

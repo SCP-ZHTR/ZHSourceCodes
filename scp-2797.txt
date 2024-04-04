@@ -1,0 +1,41 @@
+[[include component:scp-meta-title-hiding css-style=classic]]
+[[include info:start]]
+篇名:  SCP-2797 - 松鼠抑或蛋白質
+原文：[https://scp-wiki.wikidot.com/scp-2797 SCP-2797 Белки]
+作者：[[*user anqxyr]]
+譯者：[[*user Red phosphorus ]]
+[[include info:end]]
+
+[[include component:image-block name=http://scp-wiki.wdfiles.com/local--files/scp-2797/squirrel.jpg|caption=SCP-2797]]
+
+**項目編號：**SCP-2797
+
+**項目等級：**Euclid
+
+**特殊收容措施：**SCP-2797的實例不得與任何形式的生物材質接觸。人員必須穿著能承受SCP-2797實例抓咬的防護衣。
+
+**描述：**SCP-2797是一群數量約800隻，視覺上外型與//Sciurus vulgaris//——即歐亞紅松鼠相似的有機體的統稱。
+
+當SCP-2797實例接觸生物物質時，即展現出異常的行為與能力。而根據表現出的行為變化，SCP-2797可被分類為幾個各別的群體，包括:
+
+* **SCP-2797-A**：尋找生物材料，並提取0.2-0.3公斤的碎塊，再將碎塊運送給其他群體的成員。
+
+* **SCP-2797-B**：能夠在鄰近的範圍內自發性地催化多種化學、生物反應。
+
+* **SCP-2797-E**：使用從SCP-2797-A獲取的材料建構出肌肉組織的片塊。
+
+* **SCP-2797-F**：與非異常的有機體融合並對自身進行改造，以改良自身。
+
+* **SCP-2797-K**：將受傷或是不活動的SCP-2797成員拆解成構築材料、或是使用現有材料以建構出新的SCP-2797樣本。
+
+SCP-2797是由位於俄羅斯，下瓦爾托夫斯克的普羅米修斯實驗室的承包商創造。由於項目展項出的異常性質，且在俄羅斯語中「蛋白質」與「松鼠」是同形詞，確信SCP-2797是由於錯誤翻譯而被創造的。
+
+雖然SCP-2797旨在用於細胞手術及人工器官生產，但由於其規模及物理限制，他們無法進行這些事情。
+
+[[footnoteblock]]
+
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[SCP-2796]]] | SCP-2797 | [[[SCP-2798]]] >>
+[[/=]]
+[[/div]]

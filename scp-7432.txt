@@ -1,0 +1,55 @@
+[[include :scp-zh-tr:theme:blankstyle fade=a]]
+[[module css]]
+body {
+    background-image: linear-gradient(
+        to bottom,
+        #BCBCBC, #BCBCBC 90px,
+        #BCBCBC 90px, #e0e0e0 200px,
+        #e0e0e0 200px, #e0e0e0 100%);
+    background-repeat: no-repeat;
+}
+[[/module]]
+[[include credit:start]]
+**原著：** [[*user Jack Ike]]
+**譯者：** [[*user edward-knave]]
+**原題：** SCP-7432 - K is for Keystone
+**譯題：** SCP-7432 - K是「[[span class="ruby"]]拱心石[[span class="rt"]]Keystone[[/span]][[/span]]」
+**原文：** https://scp-wiki.wikidot.com/scp-7432
+----
+[[=]]
+**譯摘：**
+//SCP-7432的時間追蹤器從TL-7432-!發訊，意味著SCP-7432以一個可能被回收的狀態重新顯現。特遣隊Ora-4奉命出動，以儘可能回收SCP-7432，並紀錄TL-7432-!的內容。//
+
+//那地景無情的勻稱，假裝尋常而拙劣至極的偽裝本應是它致命的弱點，卻其實是它最強的殺著：讓人依憑的假象，誘人泥足深陷，在這眼前藏鏡的恐怖迷宮之中愈陷愈深。//
+[[/=]]
+[[include credit:end]]
+[[module ListPages category="fragment" parent="." order="name" limit="1" offset="@URL|0"]]
+%%content%%
+[[/module]]
+
+[!-- https://scp-wiki.wikidot.com/fragment:scp-7432-1 原文P1--]
+[!-- https://scp-wiki.wikidot.com/fragment:scp-7432-2 原文P2--]
+[!-- https://scp-wiki.wikidot.com/fragment:scp-7432-3 原文P3--]
+[!-- https://scp-wiki.wikidot.com/fragment:scp-7432-4 原文P4--]
+[!-- https://scp-zh-tr.wikidot.com/fragment:scp-7432-1 譯文P1--]
+[!-- https://scp-zh-tr.wikidot.com/fragment:scp-7432-2 譯文P2--]
+[!-- https://scp-zh-tr.wikidot.com/fragment:scp-7432-3 譯文P3--]
+[!-- https://scp-zh-tr.wikidot.com/fragment:scp-7432-4 譯文P4--]
+
+@@ @@
+
+[[include :scp-wiki:component:earthworm
+| first=false| last=false | hub=yes
+| previous-url=/scp-7396| previous-title=J是「投棄貨」
+| next-url=/scp-7450 | next-title=L是「悲嘆」
+| hub-url=/scp-anthology-hub | hub-title=SCP驚選集中心頁
+]]
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[SCP-7431]]] | SCP-7432| [[[SCP-7433]]] >>
+[[/=]]
+[[/div]]
+[[include :scp-zh-tr:component:license-box
+|lang=EN
+|author=Jack Ike]]
+[[include :scp-zh-tr:component:license-box-end]]

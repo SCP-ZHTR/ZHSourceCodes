@@ -1,0 +1,10 @@
+[[module ListPages category="fragment" parent="." limit="1" order="name" offset="@URL|0"]]
+
+%%content%%
+[[/module]]
+
+[!--
+http://scp-zh-tr.wikidot.com/fragment:scp-zh-0100-01
+http://scp-zh-tr.wikidot.com/fragment:scp-zh-0100-02
+http://scp-zh-tr.wikidot.com/fragment:scp-zh-0100-03
+--]

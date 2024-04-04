@@ -1,0 +1,38 @@
+[[%%content{0}%%module css]]
+#page-title{
+display:none;
+}
+#u-meta-title-hiding{
+display:block;
+}
+
+#u-meta-title-hiding .meta-title p{
+margin:0;
+line-height:100%;
+}
+
+#u-meta-title-hiding .meta-title {
+color: #ededed;
+font-family: 'Josefin Sans', sans-serif;
+font-size: 1.65rem;
+text-align: center;
+border-color: #ededed;
+}
+#u-meta-title-hiding .meta-title {
+border-color: #bbb;
+}
+h1, #u-meta-title-hiding .meta-title {
+padding: 0 0 0.25em;
+margin: 0 0 0.6em;
+font-weight: normal;
+}
+#u-meta-title-hiding .meta-title {
+margin: 0 0 0.5em 0;
+padding-top: 0.5em;
+border-bottom: 1px solid #d5d5d6;
+}
+user agent stylesheet
+div {
+display: block;
+}
+[[%%content{0}%%/module]]

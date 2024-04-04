@@ -1,0 +1,42 @@
+[[include :scp-zh-tr:component:scp-meta-title-hiding css-style=classic]]
+[[include credit:start]]
+**原著：** [[*user LORDXVNV]]
+**譯者：** [[*user edward-knave]]
+**原題：** SCP-6510 - Rings of Flight
+**譯題：** SCP-6510 - 飛天環
+**原文：** https://scp-wiki.wikidot.com/scp-6510
+[[include credit:end]]
+
+**項目編號：** SCP-6510
+
+**項目等級：** Safe
+
+**特殊收容措施：** SCP-6510現時分開保存於Site-106內兩個標準的Safe級儲物箱。一切後續測試提請須向採購與清算部轉達。
+
+[[include :scp-wiki:component:image-block name=https://live.staticflickr.com/4050/4378431447_31c8ca2977_o.jpg|caption=SCP-6510的其中一半，兩半已分開存放以免誤用。]]
+
+**描述：** SCP-6510是一對不鏽鋼製的穿環。
+
+SCP-6510的異常特性在佩戴於耳垂、鼻中隔、肚臍、眼眉、嘴唇、舌頭或生殖器時，或只佩戴其中一個時俱不會生效。
+
+SCP-6510的主要特性會在佩戴於人類[[span class="ruby"]]乳頭[[span class="rt"]]//papilla mammaria//[[/span]][[/span]]時生效。穿戴SCP-6510者會取得將項目加速至5g[[footnote]]1 g 等於 9.81 公尺每平方秒，約為地球重力場對在水平面的物體施加的加速度。[[/footnote]]的能力。SCP-6510會對使用者的身體施加張力，由此提供自行指向的飛行能力。SCP-6510賦予的加速度與穿戴者身體的質量無關：不論其身體質量，使用該項目者都將會達到一致的最高加速度。
+
+SCP-6510的次要特性令穿戴者身體組織的抗張及抗壓強度得以增強，穿戴者的乳頭將能完全抵抗因創傷所致的截斷。穿戴SCP-6510者時常在經過高速撞擊後仍能生還且免受永久傷害。
+
+所有穿戴SCP-6510的人皆報告可以完美地實時控制該項目的能力。在收容前持有該項目的人曾將之用作快速的空中移動，將此能力再現並為基金會專門特工所用的構思已因測試過程中發現的緣故而得證不可行。
+
+測試者一致報告SCP-6510不具麻醉能力，而神經活動掃瞄顯示[[span class="ruby"]]前扣帶皮層[[span class="rt"]]Anterior cingulate cortex[[/span]][[/span]]出現與乳頭承受5g加速度時所受痛楚一致的神經活動。一切將SCP-6510對穿戴者身體施力分散的嘗試都會導致其主要特性失效。
+
+[[footnoteblock]]
+
+[[include :scp-zh-tr:component:license-box
+|lang=EN
+|author=LORDXVNV]]
+=====
+> **圖檔名稱：**
+> **圖像名稱：** My nipple ring! I love finding long lost stuff in my desk
+> **圖像作者：** Rod Herrea
+> **授權方式：** CC BY 2.0
+> **圖源連結：** [https://www.flickr.com/photos/42018036@N00/4378431447 Flickr]
+=====
+[[include :scp-zh-tr:component:license-box-end]]

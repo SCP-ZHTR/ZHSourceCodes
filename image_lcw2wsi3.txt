@@ -1,0 +1,6 @@
+image: 'https://i.imgur.com/H8MOzDa.jpg'
+owner: feitag
+owner-wiki: feitag
+license: '0'
+other-license: ''
+note: ''

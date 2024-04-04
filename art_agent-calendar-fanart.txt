@@ -1,0 +1,22 @@
+[[include info:start]]
+**篇名：** 日曆特工
+**作者：** [[*user Kikunai]]
+[[include info:end]]
+
+[[div class="scp-image-block block-center" style="width:100%;"]]
+[[image https://i.imgur.com/Nj3xTwZ.png    
+style="width:100%;" link=#]]
+[[div class="scp-image-caption" style="width:100%;"]]
+[/scp-7666 日曆特工]
+
+[[/div]]
+[[/div]]
+@@ @@
+[[div class="scp-image-block block-center" style="width:100%;"]]
+[[image https://i.imgur.com/UaL2D4B.png   
+style="width:100%;" link=#]]
+[[div class="scp-image-caption" style="width:100%;"]]
+香香的日曆🥺
+
+[[/div]]
+[[/div]]

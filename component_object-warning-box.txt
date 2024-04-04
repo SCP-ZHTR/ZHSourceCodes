@@ -1,0 +1,123 @@
+[[include info:start]]
+**原文：**[http://www.scp-wiki.wikidot.com/component:object-warning-box Object Warning Box]
+
+**作者：**[[*user Woedenaz]]
+
+**譯者：**[[*user Viken-K]]
+[[include info:end]]
+[[module css]]
+h1, h2 {
+    text-align: center;
+}
+
+.help {
+    display: flex;
+    align-content: stretch;
+    padding-top: 1em;
+}
+
+.help blockquote {
+    margin: 0;
+    font-size: 85%;
+}
+
+.help blockquote > p {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    align-content: center;
+    margin-right: 0;
+    min-height: 2rem;
+    margin: 0;
+}
+
+.help blockquote > p * {
+    margin: 0 0.1rem;
+    height: 100%;
+}
+
+.help blockquote:nth-of-type(1) {
+    background: transparent;
+    border: unset;
+    box-shadow: unset;
+    text-align: right;
+    margin-right: 0;
+    padding: 0;
+}
+
+.help blockquote:nth-of-type(1) > p {
+    justify-content: flex-end;
+}
+
+.help blockquote:nth-of-type(2) {
+    margin-left: 1em;
+    width: 50%;
+}
+[[/module]]
+
+[[include :scp-zh-tr:component:object-warning-box-source
+|bg-image=https://scp-wiki.wikidot.com/local--files/component:object-warning-box-source/scp-logo.svg
+|bg-opacity=0.15
+|bg-size=105% 105%
+|text-top=根據監督者議會的命令
+|text-bottom=以下檔案為 4/2935 級機密
+**禁止未經授權的訪問。** 
+|object-number=2935
+]]
+
+[[iftags +組件]]
++ 如何使用
+
+++ 1. 複製以下的代碼。
+++ 2. 跟隨著底下的指南。
+
+> @@[[include :scp-zh-tr:component:object-warning-box-source@@
+> @@|bg-image=http://這裡是URL.com@@
+> @@|bg-opacity=0.15@@
+> @@|bg-size=105% 105%@@
+> @@|text-top=根據監督者議會的命令@@
+> @@|text-bottom=以下檔案為 4/2935 級機密 @@
+> @@**禁止未經授權的訪問。**@@
+> @@|object-number=2935@@
+> @@]]@@
+
+[[div_ class="help"]]
+> 該部件include的起始位置。**當你每使用一個方塊就需要貼上整串代碼。** ↦
+> 
+> 背景圖片 //（預設是SCP的Logo）// ↦
+> 
+> 背景圖片的不透明度 //（以SCP的Logo來說，建議設置為0.15）// ↦
+> 
+> 背景大小 //（預設為"Contain"）// ↦
+> 
+> 上半部分的文字內容。 //（允許分行。）//  ↦
+> 
+> 下半部分的文字內容。 //（允許分行。）// ↦
+> 
+> 接續在下半部分文字後的內容。 //（注意：每一行末必須留下一個空格// ↦
+> 
+> 項目的編號 ↦
+> 
+> 該部件include的結束位置。 ↦
+> 
+
+> [[include :scp-zh-tr:component:object-warning-box-source
+> 
+> |bg-image=http://這裡是URL.com
+> 
+> |bg-opacity=0.15
+> 
+> |bg-size=105% 105%
+> 
+> |text-top=根據監督者議會的命令
+> 
+> |text-bottom=以下檔案為 4/2935 級機密
+> 
+> @@**禁止未經授權的訪問。**@@
+> 
+> |object-number=2935
+> 
+> ]]
+> 
+[[/div]]
+[[/iftags]]

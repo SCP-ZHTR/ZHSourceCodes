@@ -1,0 +1,9 @@
+[[include component:scp-meta-title-hiding css-style=classic]]
+[[include info:start]]
+**標題:** [http://scp-zh-tr.wikidot.com/scp-zh-922 SCP-ZH-922]
+**作者:** ©︎[[*user SamScript]]
+**繪者：** [[*user Lillian1152]]
+CC-BY-SA3.0
+[[include info:end]]
+
+[[image https://imgur.com/pR9zeXK.jpg]]

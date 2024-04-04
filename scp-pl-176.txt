@@ -1,0 +1,99 @@
+[[include :scp-wiki:info:start]]
+原文：[http://scp-pl.wikidot.com/scp-pl-176 SCP-PL-176] [波蘭文]
+第一譯文：[http://scp-int.wikidot.com/scp-pl-176 SCP-PL-176] 你媽
+作者：[[*user Jasiu06]]
+第一譯者：[[*user KubKac]]
+第二譯者：[[*user Frederica Bernkastel]]
+[[include :scp-wiki:info:end]]
+
+[[include :scp-zh-tr:theme:blankstyle]]
+
+[[module css]]
+body{
+    --barColour: #b8a499;
+}
+
+:root:lang(zh){
+  --header-title: "戰術神學部";
+  --header-subtitle: "亞伯拉罕支部";
+}
+@media (max-width: 768px) {
+    :root {
+         --header-title: "Tact. Theo.";
+    }
+}
+
+div#extra-div-1 {
+    background-image: url(http://topia.wikidot.com/local--files/in-heaven-a-spirit-doth-dwell/tactical-theology.png);
+    filter: opacity(20%);
+}
+
+#header h1 a::before,
+#header h2::before {
+    background: -webkit-linear-gradient(#801818, #000000);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+[[/module]]
+
+[[include :scp-zh-tr:component:classified-bar-woed
+|lv=4
+|item=PL-176
+|oc=sAFE
+|lang=ZH
+]]
+-----
+
+**特殊收容措施：** 基金會已向SCP-PL-176提供保證，使他能在Site-17擁有一套自己的公寓。他自願留在收容區域，並有權按照自己的意願離開站點；然而根據O5/PL-176-003命令，他仍然需要接受知情的站點職員持續觀察。
+------
+
+**描述：** SCP-PL-176是一名中東裔女性，外貌大約50歲。他自稱是聖經中來自拿撒勒的瑪麗亞，他身邊激增的阿基瓦輻射水準證實了該身分。如果他的說詞屬實，他的實際年齡應高達2040歲左右。
+
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+
+----
+[[=]]
+[[collapsible show="你有（1）條新訊息" hide=" "]]
+[[<]]
+[[div style="color: black; background:#DFFFF3 url(http://scp-wiki.wdfiles.com/local--files/the-great-hippo/scp_trans.png) center no-repeat; float: center; border: solid 1px #000000; padding: 15px 15px; box-shadow: 0 1px 3px rgba(0,0,0,.2); width: 84%; margin: 4% 4% 4% 4%"]]
+**自：** 瑪麗亞 <##red|@@mary.pl-176@scp.foundation.int@@##>
+**主旨：** 拜訪。
+----
+
+親愛的，我知道你身為O5-13有很多工作要做，畢竟你還要從鹿神之類的敵基督手中拯救世界，但也許你能偶爾來見見自己被關起來的母親。
+
+[[image http://scp-int.wdfiles.com/local--files/scp-pl-176/kawa_z_rana_jak_smietana_en.jpg]]
+[[/div]]
+[[/<]]
+[[/collapsible]]
+[[/=]]
+
+----
+
+[[footnoteblock title="Przypisy"]]
+
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[SCP-PL-175]]] | SCP-PL-176 | [[[SCP-PL-177]]] >>
+[[/=]]
+[[/div]]

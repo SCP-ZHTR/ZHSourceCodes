@@ -1,0 +1,54 @@
+[[include :scp-wiki:theme:black-highlighter-theme]]
+
+[[include info:start]]
+作者：[[*user k1s10r0db00ne]]
+[[include info:end]]
+
+[[image https://imgur.com/W0Ndack.jpg]]
+[[=]]
+@@ @@
+@@ @@
+//There'll be no Christmas bells for the next//
+@@ @@
+//All along that jingle, jangle, jingle
+(Jingle, jangle)
+As I sit right there waiting for you
+(Jingle, jangle)
+And they sing, "Next year the more the giggle"
+(Jingle, jangle)
+And that song as far I see ain't not going wrong
+(Jingle, jangle)//
+@@ @@
+//Oh, Neviim
+(aic)
+Oh, Neviim
+(aic)
+Tell me all your knowing
+As far as you can see//
+@@ @@
+//All along that jingle, jangle, jingle
+(Jingle, jangle)
+As you talk everything's gone wrong
+(Jingle, jangle)
+And you sing, "the hatred soon disentangled"
+(Jingle, jangle)
+And that song ain't so very far from wrong
+(Jingle, jangle)//
+@@ @@
+@@ @@
+@@ @@
+[[/=]]
+> **標題：** k1s10r0d的提案
+> **作者：** [[*user k1s10r0db00ne]]
+> **原文：** http://scp-zh-tr.wikidot.com/k1s10r0d-s-proposal
+> CC-BY-SA3.0
+@@ @@
+----
+[[include :scp-zh-tr:component:license-box]]
+=====
+> **檔案名稱：**Morning view from Westin Tokyo
+> **圖像作者：**Joi Ito
+> **圖像授權協議：**CC BY 2.0
+> **圖源連結：** https://www.flickr.com/photos/joi/1434693715
+=====
+[[include :scp-zh-tr:component:license-box-end]]

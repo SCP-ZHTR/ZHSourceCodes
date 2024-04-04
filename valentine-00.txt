@@ -1,0 +1,223 @@
+[[include :scp-wiki:theme:black-highlighter-theme]]
+[[include :scp-wiki:theme:the-way-out]]
+[[module CSS]]
+@import url(http://scp-sandbox2-zh.wikidot.com/snow-dance/code/1);
+[[/module]]
+[[module css]]
+:root:lang(zh) {
+    /* S-CSS-P Integration */
+    /* If you're making a new CSS theme, please include the following three variables at minimum. */
+    --theme-base: "nuscp";
+    /* must be either "nuscp" or "sigma9" */
+    --theme-id: "nuscp";
+    /* set this to the URL of your theme's page - eg for "component:ar-theme", set it to "ar-theme" */
+    --theme-name: "nu-SCP Theme";
+    /* set this to your theme's full name */
+        
+    /* Header */
+    --logo-image: url("https://i.imgur.com/0Zjqw2n.png");
+    --header-title: "V. Evaluation Room";
+    --header-subtitle: "Under Construction";
+
+    /* Typefaces */
+    --body-font: 'Lato', sans-serif;
+    --header-font: 'Poppins', sans-serif;
+    --title-font: 'Poppins', sans-serif;
+    --mono-font: "PT Mono", "Andale Mono", "Courier New", Courier, monospace;
+    /*連結顏色 */
+    --visited-link-color:0,60,157;
+    --link-color:54,147,224;
+}
+}
+[[/module]]
+
+
+
+[[tabview]]
+[[tab 工作紀錄]]
+[[=]]
+
+----------
+++ 工作
+----------
+
+[[[*/fragment:front-page-news-bulletin |首頁新聞]]]
+[[[*/fragment:front-page-features |首頁展出]]]
+[[[*/fragment:front-page-top-announcement |首頁跑馬燈箱]]]
+[[[*/attribution-metadata|歸屬資料]]]
+[[[*/home-cookie-root|餅乾根]]]
+[[[*http://scp-sandbox-zh.wikidot.com/valentine-00 |Dr.V的沙盒筆記]]]
+[[[*/tag-guide| 標籤使用教學]]]
+[[[*/archived-news |新聞檔案室]]]
+[[[*/wiki-syntax |維基语法]]]
+[[[*translation-reservation|翻譯預約表]]]
+[[[*/tongwen-guan |翻譯中心]]]
+[[[*info-2203|標籤小組工作區]]]
+[[[*foundation-star|基金會之星]]]
+[[[*foundation-star-zh|基金會原創之星]]]
+---------
+++ 等著完成的工作
+----------
+藝術頁指南
+人事檔案頁+Kyo.aic
+吼吼類
+糖貓
+布偶
+推車
+[http://scp-zh-tr.wikidot.com/reverberation Reverberate]
+[[/=]]
+[[/tab]]
+
+[[tab 作品集]]
+[[=]]
+----------
+
+++ SCP檔案
+
+----------
+
+**太陽餅獅**
+**[[[SCP-ZH-618]]]**
+**末狀記憶**
+**[[[SCP-ZH-023]]]**
+**小蜜蜂餐車**
+**[[[SCP-ZH-082]]]**
+
+@@ @@
+--------
+
+++ 關注組織
+
+--------
+
+**威爾遜生物對應組**
+**[http://scp-zh-tr.wikidot.com/esther 小動物檔案：Esther！]**
+
+
+@@ @@
+@@ @@
+
+--------
+
+++ 故事
+
+------
+
+**[[[site-zh-02-eater |B3冷凍庫幽靈饕客]]]**
+**[[[*childhood|孩子的世界]]]**
+**[[[*caged-bird|籠中鳥]]]**
+**[[[*self-service-laundry-zh|基金會員工排起了隊]]]**
+**[[[*on-the-tree|死貓吊樹頭]]]**
+**[[[*wanderers:outer-space-marketing-articles-tyrosine|羅威爾的碗與天鵝]]]**
+**[[[*to-the-doctor|你是啥物人？]]]**
+**[[[*snedronningen|百花魔女的愛之書]]]**
+
+@@ @@
+------
+
+++ 其他
+
+------
+**[[[*shopping-arcade|繁中站點地下街]]]**
+**[[[*give-it-shape|賦其以形]]]**
+
+@@ @@
+------
+
+++ CSS主題
+
+------
+**[[[*/component:site-zh-02 |site-zh-02模板]]]**
+**[[[*/component:three-enclosures-headquarters |三垣CSS主題]]]**
+**[[[*/theme:laundry |洗衣店 主題CSS]]]**
+@@ @@
+------
+
+@@ @@
+[[/=]]
+[[/tab]]
+
+
+[[tab 版權資訊]]
+---------
+++ 四處拼湊
+--------
+人事檔案的大頭照與雪花LOGO圖騰皆由本人繪製
+使用的主題來自於[[*user Rounderhouse]]所製作的[http://www.scpwiki.com/theme:the-way-out The Way Out Theme] 出路主題，進行了標題與文字的替換以及連結色彩的微調處理。
+2020/12/23
+-----
+美麗星空特效來自於
+[http://scp-jp.wikidot.com/esoteric-syntax 難解Wikidot構文]
+2021/01/18
+-----
+經過微調使美麗星空特效效果反轉
+2021/04/08
+-----
+[[/tab]]
+
+[[tab 關於Dr.V的那些小事]]
+----
+炙燒比目魚鰭邊肉，燒烤，咖哩飯，牛排，冰淇淋，章魚燒，炸雞，花椰菜，筊白筍，玉米筍，油菜，烤雞，烤魚，鮭魚，水晶魚，鱈魚，秋刀魚，炸魚，鵝肉，火鍋，烤鴨，味增湯，蒸蛋，玉米濃湯，胡瓜肉湯，披薩，熱湯，剝皮辣椒雞，甕仔雞，米血糕，毛豆，飯，炒飯，鳳梨蝦球，螃蟹米糕，龍鬚菜，皇帝豆，豆腐，豆皮，豆包，豆皮壽司，浦燒鰻，歐姆蛋包飯，紅酒燉牛肉，馬鈴薯燉肉，味增豬肉湯，烤肋排，烤魚下巴，烤香魚，荷包蛋，苦瓜鹹蛋，炒茄子，炸雞排，滷味，素肉，漢堡，水煮餐，稀飯，白稀飯，麻芛羹，乾麵線，薑母鴨，羊肉爐，肉包，杏包菇，菌類，竹笙，草菇，蘑菇，白蘿蔔，關東煮，油豆腐，松阪豬，炸排骨，滷排骨，滷雞腿，肉丸，貢丸，肉乾，粽子，蝦子，雞心，腸子，隔間肉，奇怪內臟，海帶，海菜，海藻，山藥排骨湯。
+
+甜點用另外一個胃
+抹茶冰淇淋，焙茶冰淇淋，鐵觀音冰淇淋，冰淇淋，霜淇淋，薰衣草奶茶布丁，布丁，烤年糕，艾草烤年糕，鬆餅，烈日鬆餅，蛋糕，布朗尼，水晶蛋糕，泡芙，餅乾，爆米花，慕斯，派，司康，大福，雞蛋糕，車輪餅，鳳梨酥，水果酥，日式饅頭，湯圓，芝麻湯圓，芋圓，果凍。
+
+其他
+綠茶，紅茶，烏龍茶，茶，花茶，伯爵紅茶，水，過濾過的水，冰水，礦泉水，0卡可樂，柳橙汁，橘子汁，葡萄汁，葡萄柚汁，葡萄柚綠茶，波爾茶，麥香綠茶，愛玉檸檬，檸檬綠茶，蜂蜜水，糖水，芒果，草莓，蘋果，葡萄，橘子，黃色西瓜，香蕉，水蜜桃，粉紅色柚子，楊桃，藍莓。
+
+[[/tab]]
+[[tab 自動工作目錄]]
+[[collapsible show="全頁面"]]
+[[module ListPages category="*" created_by="Dr V Valentine" order="created_at_desc" separate="no" CountPages tags="-scp -故事 -creepypasta -藝術作品" ]]
+||%%title_linked%%||##red|**%%created_at%%**##||%%rating%%||
+[[/module]]
+[[/collapsible]]
+[[collapsible show="基金會刊物"]]
+[[module ListPages category="*" created_by="Dr V Valentine" order="created_at_desc" separate="no" CountPages tags="-scp -故事 -creepypasta -藝術作品 +新聞 -翻譯 " ]]
+||%%title_linked%%||##red|**%%created_at%%**##||%%rating%%||
+[[/module]]
+[[/collapsible]]
+[[collapsible show="競賽與活動"]]
+[[module ListPages category="*" created_by="Dr V Valentine" order="created_at_desc" separate="no" CountPages tags="-scp -故事 -creepypasta -藝術作品 競賽 挑戰活動 -翻譯 " ]]
+||%%title_linked%%||##red|**%%created_at%%**##||%%rating%%||
+[[/module]]
+[[/collapsible]]
+[[collapsible show="零件"]]
+[[module ListPages category="*" created_by="Dr V Valentine" order="created_at_desc" separate="no" CountPages tags="-scp -故事 -creepypasta -藝術作品 -翻譯 +段落" ]]
+||%%title_linked%%||##red|**%%created_at%%**##||%%rating%%||
+[[/module]]
+[[/collapsible]]
+[[/tab]]
+
+[[tab 自動作品目錄]]
+[[collapsible show="原創文字"]]
+[[module ListPages category="*" created_by="Dr V Valentine" order="created_at_desc" separate="no" CountPages tags="scp 故事 creepypasta +原創" ]]
+||%%title_linked%%||##red|**%%created_at%%**##||%%rating%%||
+[[/module]]
+[[/collapsible]]
+[[collapsible show="原創藝作"]]
+[[module ListPages category="*" created_by="Dr V Valentine" order="created_at_desc" separate="no" CountPages tags="+藝術作品 +原創" ]]
+||%%title_linked%%||##red|**%%created_at%%**##||%%rating%%||
+[[/module]]
+[[/collapsible]]
+[[collapsible show="翻譯藝作"]]
+[[module ListPages category="*" created_by="Dr V Valentine" order="created_at_desc" separate="no" CountPages tags="+藝術作品 +翻譯" ]]
+||%%title_linked%%||##red|**%%created_at%%**##||%%rating%%||
+[[/module]]
+[[/collapsible]]
+[[collapsible show="翻譯"]]
+[[module ListPages category="*" created_by="Dr V Valentine" order="created_at_desc" separate="no" CountPages tags="+翻譯 -藝術作品 -外觀主題 -組件 -組件後端 " ]]
+||%%title_linked%%||##red|**%%created_at%%**##||%%rating%%||
+[[/module]]
+[[/collapsible]]
+[[collapsible show="外觀主題"]]
+[[module ListPages category="*" created_by="Dr V Valentine" order="created_at_desc" separate="no" CountPages tags="+外觀主題" ]]
+||%%title_linked%%||##red|**%%created_at%%**##||%%rating%%||
+[[/module]]
+[[/collapsible]]
+[[/tab]]
+[[/tabview]]
+-------------------------------------------------------------------------------------
+@@@@
+= [[size 180%]]**V. Evaluation Room** | **[[[*valentine-02|kyo.aic's terminals]]]**[[/size]]
+----

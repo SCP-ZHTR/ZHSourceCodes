@@ -1,0 +1,16 @@
+@@@@
+@@@@
+[[include info:start]]
+**篇名：**擲鈴手生創 中心頁
+**作者：**[[*user sigtina]]
+**創作年：**2022
+[[include info:more]]
+= **[[[zh-sigtina |sigtina的作者頁面]]]**
+[[include info:end]]
+
+[[module ListPages  category="fragment" parent="." limit="1" order="created_at" offset="@URL|0"]]
+%%content%%
+[[/module]]
+
+[!-- http://scp-zh-tr.wikidot.com/fragment:bell-tosser-1 --]
+[!-- http://scp-zh-tr.wikidot.com/fragment:bell-tosser-2 --]

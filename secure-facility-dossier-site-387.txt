@@ -1,0 +1,323 @@
+[[include :scp-zh-tr:component:toggle-sidebar]]
+[[include info:start]]
+原文：[https://scp-wiki.wikidot.com/secure-facility-dossier-site-387 Secure Facility Dossier: Site-387] 維安設施檔案：Site-387
+作者：[[*user Anky swallow]]
+譯者：[[*user Frederica Bernkastel]]
+[[include info:end]]
+[[module CSS]]
+
+#header {
+    background: url("https://scp-sandbox-3.wdfiles.com/local--files/anky-remix/SCP_Foundation_%28emblem%29%20%281%29.svg") 0px 30px no-repeat;
+    background-size: 6.5rem;
+}
+
+body {
+    font-family: Arial;
+    font-size: 16px;
+    color: #000;
+}
+
+blockquote,
+div.blockquote {
+    padding: 1em;
+    margin: 1em 0;
+    border: 2px solid #000;
+    border-radius: 10px;
+    background-color: #D6EFFF;
+}
+
+.part blockquote,
+.blockquote.part {
+    background-color: #B8D7F3;
+    border: 1px solid #000;
+    border-radius: 2.5px;
+}
+
+.white blockquote,
+.blockquote.white{
+    background-color: #FFFFFF;
+    border: 1px solid #000;
+    border-radius: 2.5px;
+}
+
+.scp-image-block {
+    background-color: #B8D7F3;
+    border: 1px solid #000;
+    border-radius: 2.5px;
+    margin: 10px;
+    padding: 1em;
+}
+
+.scp-image-block .scp-image-caption {
+    background-color: #FFFFFF;
+    border: 1px solid #000;
+    border-radius: 2.5px;
+    margin: 0px;
+}
+
+
+.email {border: solid 2px #000000; width: 88%; padding: 1px 15px; margin: 10px; box-shadow: 0 1px 3px rgba(0,0,0,.5)}
+.email-example a.collapsible-block-link {font-weight: bold;}
+.tofrom {margin-left: 10px; margin-top: 5px; padding: 1px 15px; border-left: solid 3px maroon}
+}
+[[/module]]
+@@ @@
+[[div style="font-family: Inter,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen,Ubuntu,Cantarell,'Fira
+    Sans','Droid Sans','Helvetica Neue',sans-serif; font-size: 0.95em; color: #333;"]]
+你在第一個上班日就被叫去見站點主任。當然，你並沒有做錯任何事。不。你還忙著學習這整個地方的來龍去脈，以及要怎麼在這裡混的訣竅，根本就還沒有空能搞砸任何事情。但郵件的內容非常明確：//你已受召集參與阿奇主任的Site-387站點介紹會。//
+
+你四處打聽，最終有不少上了年紀的職員在翻了翻白眼後，向你指了扇寫上「site 387在此」的維修門。這個用樂高拼成的字跡可說不上是正式，但你還能怎麼辦？冒險無視站點主任的直接命令？
+
+門後通向了一扇又大又髒的房間，除了角落有一些垃圾和唯一的照明物──佔據了大部分空間的中央大桌──外，這裡就沒什麼特別的東西了。還沒等你的雙眼適應過來看清桌上那一大堆小樂高，一個滿臉鬍鬚的老人就猛地轉過身來面向了你。
+
+「貝凱西！我等你很久啦！」
+
+「啊！靠，老兄......你不會......」
+
+那人臉色蒼白，目光呆滯，看起來是很久沒好好吃上一頓飯了。他看起來完全不像是站點主任，但他的牌子上就是這樣寫的。
+
+「呃......我很抱歉。然後我叫貝卡，謝謝。很高興見到你──」
+
+「──站點主任阿奇，是的。」
+
+真的？就他？
+
+「好的，我是為了Site-387的郵件而來的。」
+
+幾乎就像是被訓練師說了觸發短語一樣，站點主任阿奇宛如看見獵物的捕食者般亮起雙眼，慌忙地拿來了一本藍色小冊子。
+
+「太棒啦，好！讀這個！現在！」
+
+「謝謝你......長官。」
+
+你小心翼翼的接過小冊子開始閱讀。站點主任阿奇就在你肩後左右卡位，好像是想跟你一起讀似的。
+@@ @@
+[[/div]]
+[[div class="blockquote"]]
+[[div class="blockquote white"]]
+[[f<image https://scp-sandbox-3.wdfiles.com/local--files/anky-remix/SCP_Foundation_%28emblem%29%20%281%29.svg width="140px"]]
+[[=]]
+++ **SCP基金會維安設施檔案**
+[[/=]]
+
++++ **Site-387**
+
+**官方名稱：** SCP基金會意外異常收容與研究設施
+
+**站點識別碼：** OKIRK-Site-387
+[[/div]]
+@@ @@
+[[=]]
+[[div style="background-color: #000; margin: 1px 1px; height: 2px;"]]
+[[/div]]
+[[div class="blockquote part"]]
+++ **基本資訊**
+[[/div]]
+[[/=]]
+
+**創成：** 07/02/2014
+@@ @@
+**創始主任：** 費里斯．阿奇
+@@ @@
+**地點：** 改建後的Site-19地下室
+@@ @@
+@@ @@
+[[=]]
+[[div style="background-color: #000; margin: 1px 1px; height: 2px;"]]
+[[/div]]
+[[div class="blockquote part"]]
+++ **站點概述**
+[[/div]]
+[[/=]]
+
+Site-387是基金會最小的站點，是Site-19重要區域的1:45縮比複製站點，主要是由[[[SCP-387]]]所建成。Site-387收容了基金會已收容之其他異常的複製品，此類複製品亦複製了原本項目的異常特性，但僅能對樂高組成個體造成影響。Site-387站點功能幾乎與Site-19完全相同，只是為了配合迷你模型而做出了一些調整。
+
+由於項目安全且可替代的特性，倫理委員會一直在推動對這些子異常實體進行實驗。儘管一直在推動對這些子異常實體可以輕易摧毀與重建，但已認定摧毀由SCP-387所造實體是有違倫理的行為，因為這些子異常實體明顯具有與現實對應項目相當的智慧。這也是上述子異常實體均收容於與非樂高對應物近似收容間的原因。
+
+Site-387站點職員與Site-19當前職員完全相同。他們具有完全的感知能力，並也受到基金會人權法案的保障。站點職員與整體基金會的通訊，是由站點主任阿奇透過樂高電子零件進行。於Site-387外部與桌下空間為職員提供了住所，並額外建造了部分建築提升其整體便利性。所有職員均與創建者直接相關，因此新員工在入職之初必須創建一個自己的迷你模型，當人員先前創建的迷你模型遭到解體時亦須由其加以重建。
+
+Site-387是由站點主任阿奇於一次收容突破期間，憑藉一己之力獨立建造的，當時他被鎖進了SCP-387儲存室長達28小時，並在期間發現SCP-387可以複製大多數的異常效應與個人人格。在事件落幕後，站點主任阿奇設法說服了O5議會創建Site-387，聲稱此乃對危險異常進行實驗的簡單方法，完全不會有任何危險或收容突破疑慮。該計畫最終在倫理委員會的支持下得以通過，但委員會忽略了可替換人員的影響。由於缺乏其他對此感興趣的人員，阿奇至今仍是Site-387的負責人兼唯一人類職員。
+
+[[/div]]
+@@ @@
+[[div style="font-family: Inter,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen,Ubuntu,Cantarell,'Fira
+    Sans','Droid Sans','Helvetica Neue',sans-serif; font-size: 0.95em; color: #333;"]]
+認真？他就是個華麗樂高房主任。
+
+「讓我猜猜看，你想讓我成為職員？」你破梗地說道。
+
+「噓──別打岔。」主任很快地咕噥道。
+
+「我們還沒讀到最讚讚讚的部分呢！」他唱道。「慕什女士說我可以在這寫上任何想寫的東西！」
+
+你正在慢慢失去耐心。不過嘿，把這些搞定後，你要做的就只有祈禱自己的模型小人不要掛掉，這樣你就不用再度回到這個......令人沮喪的地下室。
+[[/div]]
+@@ @@
+[[div class="blockquote"]]
+[[=]]
+[[div class="blockquote part"]]
+
+++ **收容異常**
+[[/div]]
+[[/=]]
+
+Site-387幾乎收容了所有Site-19對應異常。不過因為由SCP-387所製造實體除了每兩月一次的除灰以外，無須接受任何的維護，因此大多數異常都只被簡單裝入一個封閉立方體內。以下僅列出在測試中常用的異常：
+@@ @@
+[[div style="background-color: #000; margin: 1px 1px; height: 2px;"]]
+[[/div]]
+@@ @@
+[[include :scp-wiki:component:image-features-source |hover-enlarge=--]
+|enlarge-amount=10
+|speed=120
+|url=https://scp-wiki.wdfiles.com/local--files/secure-facility-dossier-site-387/173-BRICK-silly
+|add-caption=true
+|caption= 等比例之SCP-173-B與柯蒂斯初級研究員。
+|align=right
+|float=true
+|width=200px
+|alt=alt|alt-text=SCP-173的圖像，項目是由混凝土與鋼筋構成的大型物體，有條手臂狀的樂高肢體伸出。一名SCP研究員正縮著身子看向它。
+]]
++++ **[[[SCP-173]]]-Brick**
+@@ @@
+**阿奇主任的筆記：** 這小王八蛋在非樂高Site-19可是數一數二難收容的傢伙。幸運的是迷你模型並不需要眨眼。所以我就只是把D級模型的腿拆下來後往它的收容間放。事實上這傢伙在這真是幾乎無害的，它甚至連扭脖子也沒意義，畢竟迷你模型的脖子甚至能轉到背後去。
+
+有時我會用它來練習瞪眼。它可能沒有眼睛吧，但它看著我的方式……我可能會整天都迷失在那空洞的彩繪螺柱上。我確實這麼做了，而現在我已經很擅長瞪眼比賽了！
+@@ @@
+[[div style="background-color: #000; margin: 1px 1px; height: 2px;"]]
+[[/div]]
+@@ @@
+[[include :scp-wiki:component:image-features-source |hover-enlarge=--]
+|enlarge-amount=10
+|speed=120
+|url=https://scp-wiki.wdfiles.com/local--files/secure-facility-dossier-site-387/049-BRICK-silly
+|add-caption=true
+|caption= SCP-049-B與柯蒂斯初級研究員跳探戈。
+|align=left
+|float=true
+|width=200px
+|alt=alt|alt-text=SCP-049的圖像，項目是中世紀瘟疫醫生，有著白色的喙與黑色斗篷，但全都是由樂高積木所做成的。它正在與一名研究員跳探戈。
+]]
++++ **[[[SCP-049]]]-Brick**
+@@ @@
+**阿奇主任的筆記：** 跟049不一樣。他不再是那個冷酷無情的殭屍。他......很不一樣。他那粗魯的喙變得柔軟，神秘的斗篷也敞了開來。瘟疫無法感染樂高，沒事幹的049就只好跟職員交談來打發時間。他的問題得到了緩解，現在他變得更友善了。他也跟我交談，儘管他也看到了我身上的病，但他還是愛我。但是我們永遠不能接觸，因為他是樂高，而我是肉體。我曾發誓過永遠不會把自己做成迷你模型，但049讓我這個誓約變得很有挑戰。
+@@ @@
+@@ @@
+儘管我很痛苦，但為了保護我們倆，我不得不把他從我身邊鎖起來。肉體的墮落絕不能與樂高的欲望相提並論。
+@@ @@
+[[div style="background-color: #000; margin: 1px 1px; height: 2px;"]]
+[[/div]]
+@@ @@
+[[include :scp-wiki:component:image-features-source |hover-enlarge=--]
+|enlarge-amount=10
+|speed=120
+|url=https://scp-wiki.wdfiles.com/local--files/secure-facility-dossier-site-387/096-BRICK-silly
+|add-caption=true
+|caption= SCP-096-B因為柯蒂斯初級研究員的無意目擊後，進入了憤怒狀態。
+|align=right
+|float=true
+|width=200px
+|alt=alt|alt-text=SCP-096的圖像，項目是面色蒼白、憔悴不堪、下巴張得又寬又大的長人，但是是由樂高所做。它正高舉雙臂追逐著一名研究員。
+]]
++++ **[[[SCP-096]]]-Brick**
+@@ @@
+**阿奇主任的筆記：** 別擔心，這圖像很安全的，它只針對迷你模型，這讓我有很多機會能用它去測試一些問題！這也是他們當時聘用我的原因啦。實際上有很多人對這個感到很好奇，甚至有整整四個真人（我喜歡稱他們為「巨大人型」）為此造訪Site-387！當中甚至有三人是專門到訪的！以下是我在測試中發現的一些問題：
+
+是的，它能追你追上飛機，就直接跳上去。不，它不能追你追到外太空，但它會鎖定你的精確位置，直到你再度回到地球。不，你沒法誘惑它。說它其實很帥也只有一點點作用而已。給它照鏡子會讓它陷入抑鬱狀態。是，它能把兩隻手都塞進自己嘴巴裡，但你要把它卸下來才行，迷你模型的手臂沒法彎那麼彎。不，它無法在太陽裡生存，因為它是塑膠造的。是，它會游泳，而且泳技好的驚人。我們很確定它不會說話，當我們給它看了SCP-729-J-Brick時，它最多也只能發出超級高亢的尖叫聲。
+@@ @@
+[[div style="background-color: #000; margin: 1px 1px; height: 2px;"]]
+[[/div]]
+@@ @@
+[[include :scp-wiki:component:image-features-source |hover-enlarge=--]
+|enlarge-amount=10
+|speed=120
+|url=https://scp-wiki.wdfiles.com/local--files/secure-facility-dossier-site-387/682-BRICK-sillys
+|add-caption=true
+|caption= SCP-682-B與柯蒂斯初級研究員
+後者在之後接受了重新組裝。 _
+|align=left
+|float=true
+|width=325px
+|alt=alt|alt-text=SCP-682的圖像，項目是長滿綠毛、骨頭突出的大蜥蜴，但都是由樂高所組成的。一名SCP研究員驚恐的縮在角落。
+]]
++++ **[[[SCP-682]]]-Brick**
+@@ @@
+**阿奇主任的筆記：** 我試過了，我真試過了。它同樣無法摧毀。我幾乎試過了所有的終結紀錄，甚至連樂高分離器都用上了，但仍舊一無所獲。樂高只是重新相互聚合，不然就是重新生長或複製之類的。
+
+有一線希望試，儘管它仍舊憎惡所有生命，但它對我們這些巨大人型仍舊是無能為力的。如果它真的適應過頭了，我就再造一個然後把舊的這個用混凝土埋起來。它還是個小可愛。我是說，它用花栗鼠的聲音大談要終結所有生命的樣子實在太可愛了。我把它放在了我桌上的罐子裡作為消遣。慕什女士說過我造的682實在太多了，但從這地方成立以來，他根本就沒來過這裡，所以我覺得我幹的還行。Site-387的682必須裝進丙酮裡，因為我不能再使用鹽酸了。
+[[/div]]
+@@ @@
+[[div style="font-family: Inter,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen,Ubuntu,Cantarell,'Fira
+    Sans','Droid Sans','Helvetica Neue',sans-serif; font-size: 0.95em; color: #333;"]]
+
+就這樣？我可以走了嗎？主任把那「檔案」拽走，扔到了另一張你剛剛沒注意到，比較小的桌子上。或許是因為那桌子被太多外賣食品、零件、垃圾與曾經的床墊壓住了，你只把它當成了垃圾堆。
+
+無論如何，你開始以尚不失禮貌的最高速離開。你才走到樓梯口，阿奇逮住了你的肩膀。你整個人都僵住了，就像是廉價的塑膠樂高一樣僵硬。
+
+「不不不，你還不能離開。」
+
+喔幹。
+
+「你忘了你的迷你模型！」
+
+你曾考慮過硬闖他的阻攔，高歌離席，但這樣做會很麻煩。畢竟技術上來講，他至少也是個站點主任。你看了眼他隨手呈上的紅色盆子，挑出了能組成你最重要的幾個部分：軀幹、腿、頭與頭髮。
+
+他抓走你的迷你模型，把它舉到了自己面前，一眼看著迷你模型，另一眼則看著你。在幾秒鐘的尷尬後，他把這個迷你女士放進了SCP-682-B的收容間裡。
+
+「幹三小！」你吼道。
+
+「嘿嘿。這叫做成年禮。再做一個吧。」
+
+你感到噁心，還是又做了一個。「也許是我把你帶來這世上的。但你現在是阿奇的了。對不起。」在你將這位迷你女士的靈魂永遠交給主任之前，你低聲對自己說道。
+
+阿奇只是拿起他並扔給了SCP-131-B。阿奇還沒有放開他的魔掌。當他專注於要為你的塑膠二重身找到合適崗位時，你躡手躡腳地離開了地下室，生怕他又要你再捏一個。你重新回到了乾淨整潔的Site-19站點大廳，吸了一口新鮮空氣。你希望你的迷你模型不要被分離器搞死。
+
+你注意到在門的對面有塊白板，又是個你先前肯定沒注意到的地方。上頭寫著：「Site-387迷你模型死亡人數：5603」。你嘆了口氣，把數字給改了。
+@@ @@
+@@ @@
+[[include :scp-zh-tr:component:license-box
+|author=Anky swallow
+]]
+[[div class="blockquote"]]
+=====
+[[div class="blockquote part"]]
+**Filename:** SCP_studs_049_silly.png
+**Name:** 049-BRICK-silly
+**Author:** [[*user Anky Swallow]]
+**License:** CC BY-SA 3.0
+**Additional Notes:** Created using Stud.io
+[[/div]]
+=====
+[[div class="blockquote part"]]
+**Filename:** SCP_studs_096_silly.png
+**Name:** 096-BRICK-silly
+**Author:** [[*user Anky Swallow]]
+**License:** CC BY-SA 3.0
+**Additional Notes:** Created using Stud.io
+[[/div]]
+=====
+[[div class="blockquote part"]]
+**Filename:** SCP_studs_173_silly.png
+**Name:** 173-BRICK-silly
+**Author:** [[*user Anky Swallow]]
+**License:** CC BY-SA 3.0
+**Additional Notes:** Created using Stud.io
+[[/div]]
+=====
+[[div class="blockquote part"]]
+**Filename:** SCP_studs_682_silly.png
+**Name:** 682-BRICK-silly
+**Author:** [[*user Anky Swallow]]
+**License:** CC BY-SA 3.0
+**Additional Notes:** Created using Stud.io
+[[/div]]
+=====
+[[div class="blockquote part"]]
+**Filename:** SCP_Foundation_(emblem) (1).svg
+**Author:** [[*user Anky Swallow]]
+**License:** CC BY-SA 3.0
+**Additional Notes:** Created using Adobe Illustrator
+[[/div]]
+=====
+[[/div]]
+[[include :scp-zh-tr:component:license-box-end]]
+[[/div]]

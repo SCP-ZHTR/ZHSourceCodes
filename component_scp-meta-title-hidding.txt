@@ -1,0 +1,22 @@
+[[module Listpages range="." tags="+scp"]]
+
+[[%%content{0}%%module css]]
+div#page-title{
+color:transparent;
+white-space:nowrap;
+text-overflow:ellipsis;
+overflow:hidden;
+text-transform: uppercase;
+-webkit-user-select:none;
+-moz-user-select:none;
+-o-user-select:none;
+user-select:none;
+}
+
+div#page-title::before{
+content:"%%name%%";
+color:#901;
+}
+
+[[%%content{0}%%/module]]
+[[/module]]

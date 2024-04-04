@@ -1,0 +1,141 @@
+[[div style="display: none;"]]
+[[include :scp-wiki:theme:flopstyle]]
+[[/div]]
+[[include :scp-zh-tr:theme:pataphysics]]
+[[include :scp-wiki:component:centered-header-sigma-9]]
+[[include component:scp-meta-title-hiding css-style=classic]]
+
+[[module CSS]]
+.footnotes-footer {
+    visibility: hidden;
+    height: 0;
+    padding: 0;
+    margin: 0;
+}
+ :root{
+   --header-title: "‘超形上學部";
+   --header-subtitle: "封緘殘酷作者";
+   --titleColor: hsl(0, 0%, 91%);
+   --subtitleColor: hsl(0, 0%, 91%);
+   --lgurl: url(https://scp-wiki.wikidot.com/local--files/theme:pataphysics/pataphysicslogo-ani.svg);
+}
+@media (max-width: 830px) {
+    :root {
+         --header-title: "‘超形上學部";
+    }
+}
+ #page-title{
+     display: none;
+}
+ #header::before{
+     opacity: .7;
+}
+ #header h1 a::before{
+     text-shadow:
+          -1.75px -1.75px hsl(0, 0%, 5%),
+          0       -1.75px hsl(0, 0%, 5%),
+          1.75px  -1.75px hsl(0, 0%, 5%),
+          1.75px   0   hsl(0, 0%, 5%),
+          1.75px   1.75px hsl(0, 0%, 5%),
+          0        1.75px hsl(0, 0%, 5%),
+          -1.75px  1.75px hsl(0, 0%, 5%),
+          -1.75px  0   hsl(0, 0%, 5%);
+}
+ #header h2::before{
+     text-shadow:
+          -1px -1px hsl(0, 0%, 5%),
+          0    -1px hsl(0, 0%, 5%),
+          1px  -1px hsl(0, 0%, 5%),
+          1px   0   hsl(0, 0%, 5%),
+          1px   1px hsl(0, 0%, 5%),
+          0     1px hsl(0, 0%, 5%),
+          -1px  1px hsl(0, 0%, 5%),
+          -1px  0   hsl(0, 0%, 5%);
+}
+ #header-extra-div-1::before{
+     display: none;
+}
+[[/module]]
+
+[[include info:start]]
+**SCP-6584 - 此乃拖延症的教訓**
+**作者：**[[*user NDHeckfire]]
+**原文：**[https://scp-wiki.wikidot.com/scp-6584 This is a Lesson in Procrastination]
+**譯者：**[[*user Kikunai]]
+**圖像：** 見底部。
+
+[[include info:end]]
+[[include :scp-zh-tr:component:author-label-source start=--
+|name=NDHeckfire]]
+**SCP-6584** - 此乃拖延症的教訓
+[[include :scp-zh-tr:component:author-label-source end=--]]
+
+[[div style="color: black; background:#4B3366 url(http://scp-wiki.wdfiles.com/local--files/the-great-hippo/scp_trans.png) center no-repeat; float: center; border: solid 1px #000000; padding: 15px 15px; box-shadow: 0 1px 3px rgba(0,0,0,.2); width: 84%; margin: 4% 4% 4% 4%"]]
+
+[[=]]
+++++* **##white|⚠ 來自超形上學部的通知 ⚠##**
+
+##white|以下檔案內容可能含有了多個嵌入型敍述危害[[footnote]]**敍述危害：** 一種影響敍事元素及其傳遞方式的漸層式危害，通常會與受影響對象一同滅亡。[[/footnote]]媒介，未接種疫苗人員若感知到上述媒介，將有機會嚴重傷害自身、身處的基線現實、以及所有與其相關及交叉的子敍事。因此只有超形上學部人員獲准閱讀此檔案。##
+[[/=]]
+[[/div]]
+----
+[[include component:image-block
+| name=http://scpdsandbox.wikidot.com/local--files/heckfire-surreal/patasphere.gif
+| caption=超形上圈的特有結構佈設，以及六個相關的子敍事。
+| width=200px
+| align=right
+]]
+
+**項目編號：** SCP-6584
+
+**項目等級：** Thaumiel
+
+**特殊收容措施：** SCP-6584的永久作用現由超形上學部維護。除實驗以外，只有在現任超形上學部主任和大多數監督者指揮部成員的批准下才允許使用SCP-6584。
+
+在SCP-6584被視為無效或無法使用的時候，必須立刻啓動超維度Pickman-Reynders敍事波動錨，避免SCP-6584造成站點局部現實中所有異常效應的失效。
+
+**描述：** SCP-6584是指一超形上學部製的人工元虛構結構。SCP-6584能夠終止或無效化基線現實中作者干擾度的進展；簡單而言，即暫停宇宙敍事的膨脹。
+
+SCP-6584能夠在形而上層面在所有異常，包括異常物品、實體、地點和現象上應用。當該異常被SCP-6584鎖定和受其影響後，項目將產生超形上效果，使該異常不再由同一或不同作者實體（下稱[[[sandrewswann-s-proposal|SWN-001實體]]][[footnote]]**SWN-001：** 與我們基線現實有超形上連結的超維度角色。[[/footnote]]）在另一現實繼續發展，導致該異常在功能上視為「非活躍」。
+
+仍未知曉上述效果的運作形成，但基金會超形上學專家推測SCP-6584不知為何能夠釋出一種具高影響性的模因危害（即「全向模因」）。此模因危害能夠突破超形上圈[[footnote]]**超形上圈：** SWN-001透過此超媒介將超形上及形而上概念投射到我們的現實中。[[/footnote]]的膈膜，影響多個SWN-001實體。據推測，此模因危害將觸發SWN-001實體的一種心理狀況，使它們經歷永久的「創意緩流」或「寫手障礙」。
+
+@@ @@
+
+= __**應用附錄：**__
+
+自從在2028年製造SCP-6584後，基金會已經多次利用項目惰化異常。經過多番考慮後，大多數監督者議會成員決定超形上學部啓動《[[span class="ruby"]]倦怠計劃[[span class="rt"]]Project BURNOUT[[/span]][[/span]]》，其目的為盡可能將SCP-6584應用至所有在基金會監察下的異常。
+
+因超過5000個異常的敍事發展停滯不前，《倦怠計劃》被視為成功，由此阻止了多宗收容突破和異常特性的新顯現。統計部亦表示新異常的發現/再次發現數量急劇下降，基金會人員的工作衝突和壓力程度也降至歷史新低。
+
+據推測，基金會將於2030前最終達到REN級「[[[quiet-days|平靜的日子]]]」情景。 
+
+
+@@ @@
+
+**附加更新：**
+
+現任超形上學部主任[[[scp-6747|Dr. Placeholder McDoctorate]]]決定將SCP-6584納入《倦怠計劃》的目標之一，換言之SCP-6584的效果會因此影響自身。PH. McDoctorate表示這會移除所有與SCP-6584有關的SWN-001干擾。
+
+SCP-6584應用在目標後，與其有關的SWN-001實體（即[[*user NDHeckfire]]）受到SCP-6584的影響，因此剝離實體對SCP-6584之宇宙敍事膨脹的控制權及作者支配權。
+
+這似乎導致[[span class="blinkbar"]]|[[/span]]
+
+@@ @@
+
+@@ @@
+
+[[=]]
+[[div class="footer-wikiwalk-nav"]]
+<< [[[SCP-6583]]] | SCP-6584 | [[[SCP-6585]]] >>
+[[/div]]
+[[/=]]
+
+[[include :scp-zh-tr:component:license-box]]
+=====
+> **Filename:** patasphere.gif
+> **Name:** File:Spherical.Signature,Uranus.vs.Jupiter.gif
+> **License:**  Creative Commons Attribution-Share Alike 4.0 International
+> **Source Link:** https://commons.wikimedia.org/wiki/File:Spherical.Signature,Uranus.vs.Jupiter.gif
+=====
+[[include :scp-zh-tr:component:license-box-end]]

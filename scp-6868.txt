@@ -1,0 +1,252 @@
+[[include component:scp-meta-title-hiding css-style=bhl]]
+[[include :scp-wiki:theme:black-highlighter-theme]]
+[[include :scp-wiki:component:toggle-sidebar-bhl]]
+[[include :scp-wiki:component:bhl-dark-sidebar]]
+[[include :scp-wiki:component:centered-header-bhl]]
+[[include :scp-wiki:component:ratio-bar base=-- |ex=--]]
+
+[[include :scp-wiki:component:acs-animation]]
+[[include :scp-wiki:component:fade-in speed=4]]
+
+[[module CSS]]
+.wonder {
+    border: solid 1px #999999;
+    background:#f2f2c2;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+.text{
+    border:dotted 1px #000000;
+    background:#FFFFFF;
+    width:90%;
+    padding:1px 15px;
+    margin: 10px auto;
+}
+
+span.blue{
+max-width: 300px;
+border-radius: 15px;
+padding: 4px 8px;
+display: inline-block;
+text-align: left; float:right;
+background-color: #3578e5;
+color: #fff;
+}
+
+span.green{
+max-width: 300px;
+border-radius: 15px;
+padding: 4px 8px;
+display: inline-block;
+text-align: left; float:left;
+background-color: #f1f0f0;
+}
+blockquote{background-color: transparent;}
+[[/module]]
+
+[[include info:start]]
+篇名:  SCP-6868 - 橡皮小鴨泡泡鮑比
+原文：[https://scp-wiki.wikidot.com/scp-6868 SCP-6868 Bubbly Bobby the Rubber Ducky]
+作者：[[*user Tstaffor]]
+譯者：[[*user Red phosphorus ]]
+[[include info:end]]
+
+[[include :scp-wiki:component:author-label-source start=--
+|name=Tstaffor
+|no-right-margin=*]]
+這篇是對[[*user cremo]]的文章的重寫
+
+你可以在這裡查看我的更多作品：
+[http://scp-wiki.wikidot.com/tstaffor-s-author-page Tstaffor's Isolated Containment Terminal]
+[[include :scp-wiki:component:author-label-source end=--]]
+
+[[include :scp-zh-tr:component:anomaly-class-bar-source
+|item-number= 6868
+|clearance= 2
+|container-class= safe
+|secondary-class= none
+|secondary-icon= https://urlhere.com
+|disruption-class= dark
+|risk-class= 危險
+]]
+
+----
+
+[[include component:image-block name=https://scp-wiki.wdfiles.com/local--files/scp-6868/scp_bobby.jpg|caption=SCP-6868。]]
+
+**特殊收容措施：**SCP-6868應被收容位於Site-228的標準活體物品收容單元中。對SCP-6868的所有處置都應在戴手套的情況下進行。
+
+SCP-6868不得接近任何液體。
+
+**描述：**SCP-6868是一個9x9.5x8公分大、有生命及知覺的橡膠玩具鴨。有一個風格化的紫色W字樣印刷在其底部。SCP-6868 能夠透過小幅度的跳躍緩慢地移動自己。
+
+自回收以來，SCP-6868拒絕所有的交流嘗試，並跳離任何試圖接近它的人員。已判定SCP-6868罹患觸摸恐懼症。[[footnote]]害怕與人接觸或被觸摸。[[/footnote]]
+
+它的主要異常性質會在與任何液體發生物理接觸時觸發。SCP-6868能夠將液態物質轉化為純淨水及粉紅色肥皂泡。接著肥皂泡形成各種船隻、潛艇和飛機的小型活體複製品，並開始自主飛行與航行。這些肥皂泡被認為是可食用的，且味道類似於草莓。
+
+該異常性質可將液體以每秒5公升的速率轉化為純淨水。該過程是自發的，SCP-6868似乎無法控制該效應。一旦將其從液體移出，轉化過程將立即停止，且所有轉化後的液體沒有展現出進一步的異常性質。
+
+**附錄6868-1：發現紀錄**
+在例行的簡訊監控期間，一系列似乎提及異常物體的簡訊促使基金會在Klaus Heartz的私人物品中發現了SCP-6868。Klaus Heartz和 Otto Knebel之間的簡訊摘錄如下。
+
+[[div class="text"]]
+[[span class="blue"]]otto[[/span]]
+@@ @@
+@@ @@
+[[span class="green"]]怎麼了[[/span]]
+@@ @@
+@@ @@
+[[span class="blue"]]在路邊發現一個箱子。記得在倉庫打開的那些東西嗎?[[/span]]
+@@ @@
+@@ @@
+@@ @@
+[[span class="green"]]我當然記得! 你要打開它嗎?[[/span]]
+@@ @@
+@@ @@
+[[span class="blue"]]你曉得的。神秘寶箱開箱時間。[[/span]]
+@@ @@
+[[span class="blue"]]啊我恨死這些笨剪刀了。我剛開箱時割到手指[[/span]]
+@@ @@
+@@ @@
+@@ @@
+[[span class="green"]] lol 偷東西，活該![[/span]]
+@@ @@
+@@ @@
+[[span class="blue"]]嘿，裡面不知道會是什麼[[/span]]
+@@ @@
+@@ @@
+[[span class="green"]]這大概是某個老兄的郵件吧。你很快會覺得自己是個爛人了，倒數3... 2...[[/span]]
+@@ @@
+@@ @@
+[[span class="blue"]]什麼???[[/span]]
+@@ @@
+[[span class="blue"]]真詭異[[/span]]
+@@ @@
+[[span class="blue"]]箱子在發出聲響[[/span]]
+@@ @@
+@@ @@
+[[span class="green"]]恭喜，你剛剛偷了某人的寵物蛇[[/span]]
+@@ @@
+@@ @@
+[[span class="blue"]]我不這麼認為。箱子上沒有氣孔[[/span]]
+@@ @@
+[[span class="blue"]]...然~後裡面是一隻橡皮小鴨跟一張便條。[[/span]]
+@@ @@
+[[span class="blue"]]哎呀[[/span]]
+@@ @@
+**註記：**Heartz隨後發送了一張手寫便條的照片，該便條內容轉錄如下：
+
+[[div class="wonder"]]
+[[>]]
+[[image http://scp-wiki.wdfiles.com/local--files/theme%3Awondertainment/wondertainmentSmall.png]]
+[[/>]]
+我從工作場所帶給你新款的原型! 很抱歉我不能時常在你身邊。希望我不在的時候鮑比能陪伴你 ♡
+[[>]]
+愛你的，爸爸
+[[/>]]
+[[/div]]
+
+
+[[span class="green"]]喔，更糟了。你從一名孩子偷來的。[[/span]]
+@@ @@
+@@ @@
+[[span class="blue"]] 等等 等等 等等[[/span]]
+@@ @@
+[[span class="green"]]怎麼了?[[/span]]
+@@ @@
+@@ @@
+@@ @@
+[[span class="blue"]]這玩意自己動起來了。它也沒有電池阿! 到底???:[[/span]]
+@@ @@
+[[span class="blue"]][[=image https://scp-wiki.wdfiles.com/local--files/scp-6868/box_bobby.jpg]][[/span]]
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+[[span class="green"]]他看起來有點可愛[[/span]]
+@@ @@
+@@ @@
+[[span class="blue"]]它就只是自己跳來跳去。真酷的玩具。[[/span]]
+@@ @@
+@@ @@
+[[span class="green"]]傳個影片給我看[[/span]]
+@@ @@
+@@ @@
+[[span class="blue"]]看看這個!!我根本沒去碰它!!![[/span]]
+[[span class="blue"]][[=image https://scp-wiki.wdfiles.com/local--files/scp-6868/run_bobby.jpg]][[/span]]
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+[[span class="green"]]你的貓會吃掉它的 lol[[/span]]
+@@ @@
+@@ @@
+[[span class="blue"]]他移動得真快[[/span]]
+@@ @@
+[[span class="blue"]]好了，我把他逼到角落了[[/span]]
+@@ @@
+@@ @@
+[[span class="green"]]你家的大門鎖住了，你能讓我進去嗎?[[/span]]
+@@ @@
+[[span class="green"]]Klaus, 你到門口了嗎?[[/span]]
+@@ @@
+[[span class="green"]]Klaus?[[/span]]
+@@ @@
+@@ @@
+[[/div]]
+
+在對Klaus Heartz進行驗屍時，發現其所有的體液皆變為純淨水，且在Heartz的胸腔內發現了大量的粉紅色肥皂泡。
+
+
+[[footnoteblock]]
+----
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[SCP-6867]]] | SCP-6868 | [[[SCP-6869]]] >>
+[[/=]]
+[[/div]]
+----
+[[include :scp-wiki:more-by:tstaffor]]
+
+[[div]]
+[[=]]
+[[include :scp-zh-tr:component:license-box
+|author=the great hippo
+|translator=Red phosphorus
+|lang=EN ]]
+=====
+[[<]]
+> **檔案名稱:** scp_bobby
+> **圖像作者:** Tstaffor
+> **圖像授權協議:** CC BY-SA 3.0
+> **圖源連結:** this page
+[[/<]]
+=====
+[[<]]
+> **檔案名稱:** box_bobby
+> **圖像作者:** Tstaffor
+> **圖像授權協議:** CC BY-SA 3.0
+> **圖源連結:** this page
+[[/<]]
+=====
+[[<]]
+> **檔案名稱:** run_bobby
+> **圖像作者:** Tstaffor
+> **圖像授權協議:** CC BY-SA 3.0
+> **圖源連結:** this page
+[[/<]]
+=====
+[[include :scp-wiki:component:license-box-end]]
+[[/=]]
+[[/div]]

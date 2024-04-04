@@ -1,0 +1,457 @@
+[[iftags +外觀主題]]
+[[module css]]
+@import url("https://nu-scptheme.github.io/Black-Highlighter/css/min/normalize.min.css");
+@import url("https://nu-scptheme.github.io/Black-Highlighter/css/min/black-highlighter.min.css");
+#page-title {
+    text-align: center !important;
+    font-family: var(--header-font);
+    font-size: 270%;
+}
+
+@media only screen and (max-width: 765px) {
+  #page-title {
+  font-size: 170%;
+  white-space: nowrap;
+  }
+ }
+[[/module]]
+[[>]]
+[[module Rate]]
+[[/>]]
+
+[[div_ style="filter: none;"]]
+[[image https://scp-wiki.wdfiles.com/local--files/theme%3Ablack-highlighter-theme/black-highlighter-logo.svg]]
+[[/div]]
+
+----
+
+[[=]]
++ 外觀主題顏色
+[[/=]]
+
+[[include :scp-wiki:component:theme-squares -=-
+| color1-name=Ship Gray
+| color1-variable=--gray-monochrome
+| color1-info=#424248
+| color1-has-light-text=1
+| color2-name=Sail
+| color2-variable=--bright-accent
+| color2-info=#A4C2EC
+| subcolor1-name=Cornflower
+| subcolor1-variable=--medium-accent
+| subcolor1-info=#5C95E6
+| subcolor2-name=Endeavor
+| subcolor2-variable=--dark-accent
+| subcolor2-info=#275495
+| subcolor2-has-light-text=1
+]]
+
+----
+
+[[div class="scp-image-block block-right" style="max-width: 300px;"]]
+[[image https://scp-wiki.wdfiles.com/local--files/goc-hub-page/GOC-Logo-v4.png]]
+[[div class="scp-image-caption" style="max-width: 300px;"]]
+全球超自然聯盟圖章
+[[/div]]
+[[/div]]
+
+++ 註記：這是基於黑色標記筆而成的外觀主題。 你得要導入黑色標記筆外觀主題才能夠使用這個外觀主題。 [[[theme:black-highlighter-theme|點這裡瞭解更多。]]]
+
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+
+在任何維基頁面上使用：
+
+[[div class="code"]]
+@@[[include :scp-zh-tr:theme:black-highlighter-theme]]@@
+@@[[include :scp-zh-tr:theme:goc]]@@
+[[/div]]
+
++ 範例
+
+一條水平線可以以5個「連字號@@----@@」建立，如果沒有被放在任何東西（像是引用塊），就會延伸並橫跨整個頁面。 在這份文件中用來分段的就是這條水平線。
+
+-----
+
+標題可以在該行的開頭前增加一到六個加號「+」來生成
+
+[[collapsible show="+ 標題" hide="- 標題"]]
++ 一級標題
+
+++ 二級標題
+
++++ 三級標題
+
+++++ 四級標題
+
++++++ 五級標題
+
+++++++ 六級標題
+[[/collapsible]]
+
+@@ @@
+
+[[tabview]]
+[[tab Tabulator]]
+用你的想像力來假裝這裡有{{Lorem Ipsum}}。
+
+* [[span style="color: rgb(var(--dark-accent))"]]已造訪過連結[[/span]]
+* [[span style="color: rgb(var(--medium-accent))"]]未造訪過連結[[/span]]
+* [[span style="color: rgb(var(--link-color))"]]不存在的連結[[/span]]
+[[/tab]]
+[[tab Tabulation]]
+嘿，看看這裡，更多的字。
+
+多麼典雅。
+[[/tab]]
+[[tab 長Tab]]
+這是個長tab。 裡面裝有大量的字。
+
+這是個長tab。 裡面裝有大量的字。
+
+這是個長tab。 裡面裝有大量的字。
+
+這是個長tab。 裡面裝有大量的字。
+
+這是個長tab。 裡面裝有大量的字。
+
+這是個長tab。 裡面裝有大量的字。
+
+這是個長tab。 裡面裝有大量的字。
+
+這是個長tab。 裡面裝有大量的字。
+
+這是個長tab。 裡面裝有大量的字。
+
+這是個長tab。 裡面裝有大量的字。
+
+這是個長tab。 裡面裝有大量的字。
+
+這是個長tab。 裡面裝有大量的字。
+[[/tab]]
+[[tab 空Tab]]
+[[/tab]]
+[[tab 空Tab]]
+[[/tab]]
+[[tab 空Tab]]
+[[/tab]]
+[[tab 空Tab]]
+[[/tab]]
+[[tab 空Tab]]
+[[/tab]]
+[[tab 空Tab]]
+大麻 lmao
+[[/tab]]
+[[/tabview]]
+
+> 這是引用塊，在每一行前面輸入「>」或使用{{@@[[div class="blockquote"]]@@}}就能夠生成。
+> 
+> 更多文字
+> -----
+> 這是水平線
+> 
+>> 巢狀引用塊
+>>> 和另一個[[footnote]]然後這裡是腳注！[[/footnote]]
+
+這個是多用途的GOC logo div：
+
+[[div class="warning"]]
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+[[/div]]
+
+[[div class="code"]]
+@<[[div class="warning"]]>@
+@<我的內容在這！>@
+@<[[/div]]>@
+[[/div]]
+
+----
+
+||~ 這是個 ||~ 表格 ||
+|| 你應該已經 || 知道怎麼弄出 ||
+|||| 這些 ||
+
+----
+
+[[=]]
+[[span style="font-family: var(--header-font);"]] Header和標題字型用的是Russo One。[[/span]]
+[[span style="font-family: var(--body-font);"]] Body字型用的是Inter。[[/span]]
+[[span style="font-family: var(--mono-font);"]] Monospace字型用的是PT Mono。[[/span]]
+[[/=]]
+
+----
+[[/iftags]]
+[[div [[iftags -外觀主題]]style="display: none"[[/iftags]]]]
+[[collapsible show="+ 顯示主題代碼" hide="- 隱藏主題代碼"]]
+[[module CSS show="true"]]
+/*
+依職權 外觀主題
+[2020 Wikidot 外觀主題]
+由Rounderhouse和aismallard製作。
+感謝wctaiwan、stormbreath、TSATPWTCOTTTADC、Woedenaz的意見和協助。
+基於Woedenaz和Croquembouche製作的黑色標記筆主題。
+GOC logo是由7happy7製作。 以CC BY SA 3.0授權
+
+*/
+
+/* 字型 */
+
+@import url('https://fonts.googleapis.com/css2?family=Russo+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+TC&display=swap');
+
+/* GOC logo */
+
+@import url('https://scp-wiki.wdfiles.com/local--files/theme%3Agoc/goc-logo.css');
+
+/* 變數定義 */
+
+:root:lang(zh) {
+    /* S-CSS-P 整合 */
+    /* 如果你要做新的CSS外觀主題，請導入至少三個下方所列的變數。 */
+    --theme-base: 'black-highlighter';
+    /* 只能是「黑色標記筆」或「sigma9」的其中一個 */
+    --theme-id: 'black-highlighter';
+    /* 設定你的外觀主題頁面超連結 – 例如像「component:ar-theme」，就要設定為「ar-theme」 */
+    --theme-name: 'goc';
+    /* 設定這個為你的外觀主題全名 */
+    --theme-name-full: 'Ex Officio Theme';
+    /* 不確定這是不是正確的變數 */
+
+    /* Header */
+    /* 動態GOC logo，感謝7happy7！ */
+    --header-title: '全球超自然聯盟';
+    --header-subtitle: '案件存檔';
+
+    /* 字體 */
+    --header-font: 'Russo One', 'Noto Sans TC', sans-serif;
+    --title-font: 'Russo One', 'Noto Sans TC',sans-serif;
+    --mono-font: 'PT Mono', 'Andale Mono', 'Courier New', Courier, monospace;
+
+    /* 標準顏色 */
+    --white-monochrome: 252, 252, 252;
+    /* 白色 */
+    --pale-gray-monochrome: 244, 244, 244;
+    /*給引用塊和其他東西的v亮灰色 */
+    --light-gray-monochrome: 170, 170, 170;
+    /* 用於登入狀態的淺灰色 */
+    --gray-monochrome: 66, 66, 72;
+    /* 灰色 */
+    --dark-gray-monochrome: 48, 48, 52;
+    /* 用於側欄背景的暗灰色 */
+    --black-monochrome: 12, 12, 12;
+    /* 黑色 */
+    --pale-accent: 164, 194, 236;
+    --bright-accent: 164, 194, 236;
+    /* 亮藍色 */
+    --medium-accent: 92, 149, 230;
+    /* 淡藍色 */
+    --dark-accent: 39, 84, 149;
+    /* v 淡藍色 */
+    --newpage-color: 99, 190, 255;
+
+    /* 主要的主題顏色 */
+    --swatch-primary: var(--bright-accent);
+    --swatch-primary-darker: var(--medium-accent);
+    --swatch-primary-darkest: var(--dark-accent);
+
+    /* 主要的選單顏色 */
+    --swatch-menubg-color: var(--pale-gray-monochrome);
+    --swatch-menubg-dark-color: var(--medium-accent);
+    --swatch-menubg-hover-color: var(--gray-monochrome);
+    --swatch-menutxt-light-color: var(--white-monochrome);
+    --swatch-border-color: var(--bright-accent);
+
+    /* 主要的Header顏色 */
+    --swatch-headerh1-color: var(--dark-accent);
+    --swatch-headerh2-color: var(--dark-accent);
+    --rating-module-button-color: var(--black-monochrome);
+    --rating-module-text-color: var(--black-monochrome);
+
+    /* Header位置測量 */
+    --header-height-on-desktop: 11rem;
+    --header-height-on-mobile: 7.5rem;
+    --topbar-height-on-desktop: 1.875rem;
+    --topbar-height-on-mobile: 3.5rem;
+
+    /* 側欄 */
+    --sidebar-transition-timing: 0.5s ease-in-out 0.1s;
+    --sidebar-internal-border-thickness: 0.125rem;
+    --background-gradient-distance: 20rem;
+    --diagonal-stripes: none;
+}
+
+@media only screen and (max-width: 26.5625rem) {
+    :root {
+     --header-title: "UNGOC";
+    }
+}
+
+:root:lang(zh) {
+    /* ===背景梯度=== */
+
+     /* ===通用背景=== */
+     /* Gradient Color used for the --gradient-background var */
+    --background-gradient-color: var(--bright-accent);
+
+    /* ===頂欄梯度=== */
+     /* Colors used in the --gradient-topmenu var to give the topbar its color */
+     --swatch-topmenu-border-color: var(--medium-accent);
+     --swatch-topmenu-bg-color: var(--bright-accent);
+
+    /* ===連結顏色=== */
+    --link-color: var(--swatch-primary-darker);
+    --visited-link-color: var(--swatch-primary-darkest);
+    --hover-link-color: var(--swatch-primary-darkest);
+}
+
+
+#header {
+    /* ===HEADER元素=== */
+     /* ===HEADER標題=== */
+     /* Header H1和H2顏色 */
+    --swatch-headerh1-color: var(--medium-accent);
+    --swatch-headerh2-color: var(--dark-accent);
+
+     /* ===搜尋列元素=== */
+    --search-icon-color: var(--swatch-text-tertiary-color);
+
+     /* ===登入欄元素=== */
+    --login-line-divider-color: var(--swatch-text-tertiary-color);
+    --login-username-color: var(--swatch-text-tertiary-color);
+    --login-myaccount-color: var(--swatch-text-tertiary-color);
+    --login-arrow-color: var(--swatch-text-tertiary-color);
+}
+
+#top-bar {
+    /* ===頂欄元素=== */
+
+     /* ===頂欄分類=== */
+    --topmenu-category-color: var(--swatch-text-tertiary-color);
+    --topmenu-category-hover-color: var(--swatch-text-tertiary-color);
+    --topmenu-hover-border-color: var(--swatch-primary);
+
+    --mobile-topmenu-sidebar-button-color: var(--swatch-text-tertiary-color);
+}
+
+/* ===腳注=== */
+#footer {
+    --footer-link-hover-color: var(--swatch-text-tertiary-color);
+}
+
+    /* ===授權區域=== */
+#license-area {
+    --license-link-hover-color: var(--swatch-text-tertiary-color);
+}
+
+/* 新增捲軸 */
+html,
+body,
+#side-bar:hover {
+    scrollbar-color: rgb(var(--bright-accent)) rgb(var(--dark-accent));
+}
+
+::-webkit-scrollbar,
+#side-bar:hover::-webkit-scrollbar {
+    background-color: rgb(var(--bright-accent));
+}
+
+::-webkit-scrollbar-thumb,
+#side-bar:hover::-webkit-scrollbar-thumb {
+    background-color: rgb(var(--dark-accent));
+}
+
+/* Header陰影和顏色 */
+#header {
+    -webkit-filter: drop-shadow(-.1rem .1rem 0 white);
+            filter: drop-shadow(-.1rem .1rem 0 white);
+}
+
+#top-bar,
+#top-bar ::before,
+#top-bar ::after {
+    -webkit-filter: unset;
+            filter: unset;
+}
+
+#header h1 a::before {
+    color: rgb(var(--dark-accent));
+}
+
+/* 移除黑色標記筆的主header和標題的文字間距 */
+#header h1 a::before,
+#page-title {
+    letter-spacing: 0;
+}
+
+/* 登入狀態連結 */
+#login-status a {
+    color: rgb(var(--dark-accent));
+    font-weight: bold;
+}
+
+/* 搜尋欄 */
+#search-top-box input.empty {
+    background-color: rgba(var(--pale-gray-monochrome));
+    color: rgb(var(--medium-accent));
+}
+
+blockquote,
+.blockquote {
+    border-style: outset;
+    border-color: rgb(var(--bright-accent));
+    background-color: rgba(var(--light-gray-monochrome), 0.03);
+}
+
+/* 設定水平線為跟GOC格式同樣的雙線條 */
+hr {
+    padding: 0.0313rem;
+    border-top: 0.125rem solid #777;
+    border-bottom: 0.0625rem solid #777;
+    background: transparent;
+}
+
+/* 設定頂欄上的section背景和樣式 */
+#extra-div-2 {
+    --drop-shadow: rgb(var(--pale-gray-monochrome));
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 11rem;
+    background: url('https://scp-wiki.wdfiles.com/local--files/theme%3Agoc/goc-background.png');
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: cover;
+    pointer-events: none;
+    -webkit-filter: drop-shadow(-0.125rem 0.125rem 1rem var(--drop-shadow));
+            filter: drop-shadow(-0.125rem 0.125rem 1rem var(--drop-shadow));
+}
+
+div.warning {
+    width: 80%;
+    margin: 0.625rem auto;
+    padding: 0.9375rem;
+    border: solid 0.125rem rgb(var(--swatch-primary-darker));
+    background: #fff url('https://scp-wiki.wdfiles.com/local--files/theme%3Agoc/goc-fade.png') center no-repeat;
+    color: black;
+    text-align: center;
+}
+
+div.warning hr {
+    border-color: rgb(var(--swatch-primary-darker));
+}
+
+[[/module]]
+[[/collapsible]]
+[[/div]]

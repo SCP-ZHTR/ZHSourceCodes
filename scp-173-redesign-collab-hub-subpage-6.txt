@@ -1,0 +1,395 @@
+[[include info:start]]
+**原文標題：**[https://scp-wiki.wikidot.com/scp-173-redesign-collab-hub-subpage-6 SCP-173 Redesign Collab: Gallery 6]
+**翻譯標題：**SCP-173的重新設計合作中心：子頁面６
+**繪者：** [[*user Elenee FishTruck]]等
+**搬運：** [[*user Dr V Valentine]]
+**創作年：** 2022
+**搬運年：** 2022
+[[include info:end]]
+
+[[include :scp-zh-tr:theme:basalt darkmode=a]]
+
+[[module css]]
+/* isolates wideness to this class */
+.widebox {
+   width: 99.3vw;
+   max-width: 100vw !important;
+   position: relative;
+   left: calc(-49.65vw + 50%);
+}
+/* centers page title */
+#page-title {
+  text-align: center;
+}
+
+/* destroys the second brazil in the page */
+#page-content p br:nth-child(2) {
+  display: none;
+}
+[[/module]]
+
+------
+[[=]]
+
+@@
+@@
+@@
+@@
+
++ __請拜訪 [[[peanut-gallery|中心頁面]]] 查閱更多畫廊。__
+
+@@
+@@
+@@
+@@
+
+[[/=]]
+
+[[div class="widebox"]]
+
+------
+
+[[html]]
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300');
+
+/* contains multitudes..... and images */
+.imagecollection {
+   display: flex;
+   flex-flow: row wrap;
+   justify-content: flex-start;
+   padding: 0;
+}
+
+/* makes ur image boxes square  */
+.imagecollection .imagebox {
+  background: transparent;
+  position: relative;
+  box-sizing: border-box;
+  width: 14.1vw;
+  height: 14.1vw;
+  margin: 0;
+}
+
+/* adds that hover gradient to each image box */
+.imagecollection .imagebox:before{
+  content: "";
+  position: absolute;
+  background: linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(0,0,0,0) 35%);
+  height: 100%;
+  width: 100%;
+  z-index: 1;
+  opacity: 0.75;
+  transition: 0.5s;
+  pointer-events: none;
+}
+
+.imagecollection .imagebox:hover:before {
+  opacity: 1;
+}
+
+/* the image */
+.imagecollection .imagebox img {
+  display: block;
+  margin: auto;
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+  object-position: center;
+}
+
+/* caption below every image ,,,. */
+.caption {
+  padding: 0.8em;
+  bottom: 0;
+  position: absolute;
+  z-index: 2;
+}
+.caption a {
+  color: white;
+  font-family: 'Open Sans';
+  font-size: 1.5em;
+  text-decoration: none;
+}
+
+.caption a:hover {
+  color: white;
+  text-decoration: underline;
+}
+
+/* mobile shit */
+@media screen and (max-width: 1200px) {
+  .imagecollection .imagebox {
+    width: 24.82vw;
+    height: 24.82vw;
+  }
+}
+
+@media screen and (max-width: 640px) {
+  .imagecollection .imagebox {
+    width: 100vw;
+    height: 56.25vw;
+  }
+}
+</style>
+<div class="imagecollection">
+
+<div class="imagebox">
+   <a href="https://i.imgur.com/KzJXTPM.png" target="_blank">
+   <img src="https://i.imgur.com/KzJXTPM.png" >
+   </a>
+   <span class="caption"><a href="http://instagram.com/leo_the_ceo_of_furry" target="_blank">the_ceo_of_funny</a></span>
+</div>
+
+<div class="imagebox">
+   <a href="https://i.imgur.com/Mgzd2qR.png" target="_blank">
+   <img src="https://i.imgur.com/Mgzd2qR.png" >
+   </a>
+   <span class="caption"><a href="https://twitter.com/SYwaves" target="_blank">@SYwaves</a></span>
+</div>
+
+<div class="imagebox">
+   <a href="https://i.imgur.com/HU6bwC3.png" target="_blank">
+   <img src="https://i.imgur.com/HU6bwC3.png" >
+   </a>
+   <span class="caption">TheRaptorLad</span>
+</div>
+
+<div class="imagebox">
+   <a href="https://i.imgur.com/a8U1bG1.png" target="_blank">
+   <img src="https://i.imgur.com/a8U1bG1.png" >
+   </a>
+   <span class="caption"><a href="https://twitter.com/MorganT1o" target="_blank">@MorganT1o</a></span>
+</div>
+
+<div class="imagebox">
+   <a href="https://i.imgur.com/dVMGDDc.png" target="_blank">
+   <img src="https://i.imgur.com/dVMGDDc.png" >
+   </a>
+   <span class="caption">FNAFguy</span>
+</div>
+
+<div class="imagebox">
+   <a href="https://i.imgur.com/hUmNJuq.png" target="_blank">
+   <img src="https://i.imgur.com/hUmNJuq.png" >
+   </a>
+   <span class="caption"><a href="https://twitter.com/VTomioka" target="_blank">@VTomioka</a></span>
+</div>
+
+<div class="imagebox">
+   <a href="https://i.imgur.com/xo6TEGY.jpg?width=401&height=625" target="_blank">
+   <img src="https://i.imgur.com/xo6TEGY.jpg?width=401&height=625" >
+   </a>
+   <span class="caption"><a href="https://twitter.com/Caio_no_abismo" target="_blank">@Caio_no_abismo</a></span>
+</div>
+
+<div class="imagebox">
+   <a href="https://i.imgur.com/0ohbaKb.jpg?width=625&height=625" target="_blank">
+   <img src="https://i.imgur.com/0ohbaKb.jpg?width=625&height=625" >
+   </a>
+   <span class="caption"><a href="https://twitter.com/Mollysium" target="_blank">@Mollysium</a></span>
+</div>
+
+<div class="imagebox">
+   <a href="https://i.imgur.com/llEfo1z.jpg?width=625&height=625" target="_blank">
+   <img src="https://i.imgur.com/llEfo1z.jpg?width=625&height=625" >
+   </a>
+   <span class="caption"><a href="https://instagram.com/malcrow7/?hl=en" target="_blank">@malcrow7</a></span>
+</div>
+
+<div class="imagebox">
+   <a href="https://i.imgur.com/QJKZWTy.png?width=625&height=625" target="_blank">
+   <img src="https://i.imgur.com/QJKZWTy.png?width=625&height=625" >
+   </a>
+   <span class="caption"><a href="https://twitter.com/TheVolgun" target="_blank">@TheVolgun</a></span>
+</div>
+
+<div class="imagebox">
+   <a href="https://i.imgur.com/FoxrTcr.png?width=625&height=625" target="_blank">
+   <img src="https://i.imgur.com/FoxrTcr.png?width=625&height=625" >
+   </a>
+   <span class="caption"><a href="https://twitter.com/TheVolgun" target="_blank">@TheVolgun</a></span>
+</div>
+
+<div class="imagebox">
+   <a href="https://i.imgur.com/Qqw60j2.png?width=625&height=625" target="_blank">
+   <img src="https://i.imgur.com/Qqw60j2.png?width=625&height=625" >
+   </a>
+   <span class="caption"><a href="https://twitter.com/TheVolgun" target="_blank">@TheVolgun</a></span>
+</div>
+
+<div class="imagebox">
+   <a href="https://i.imgur.com/6IItUFD.png?width=469&height=625" target="_blank">
+   <img src="https://i.imgur.com/6IItUFD.png?width=469&height=625" >
+   </a>
+   <span class="caption"><a href="https://twitter.com/Phage_G_" target="_blank">@Phage_G_</a></span>
+</div>
+
+<div class="imagebox">
+   <a href="https://i.imgur.com/8oldd4y.jpg?width=500&height=625" target="_blank">
+   <img src="https://i.imgur.com/8oldd4y.jpg?width=500&height=625" >
+   </a>
+   <span class="caption"><a href="https://twitter.com/ScribblesHorror" target="_blank">@ScribblesHorror</a></span>
+</div>
+
+<div class="imagebox">
+   <a href="https://i.imgur.com/VflqlsV.jpg?width=483&height=625" target="_blank">
+   <img src="https://i.imgur.com/VflqlsV.jpg?width=483&height=625" >
+   </a>
+   <span class="caption"><a href="https://twitter.com/TheCTneedsme" target="_blank">@TheCTneedsme</a></span>
+</div>
+
+<div class="imagebox">
+   <a href="https://i.imgur.com/TlaZaq9.jpg?width=532&height=625" target="_blank">
+   <img src="https://i.imgur.com/TlaZaq9.jpg?width=532&height=625" >
+   </a>
+   <span class="caption"><a href="https://twitter.com/TripleScribble" target="_blank">@TripleScribble</a></span>
+</div>
+
+<div class="imagebox">
+   <a href="https://i.imgur.com/A4RETxv.jpg?width=679&height=625" target="_blank">
+   <img src="https://i.imgur.com/A4RETxv.jpg?width=679&height=625" >
+   </a>
+   <span class="caption"><a href="https://twitter.com/Xinexes" target="_blank">@Xinexes</a></span>
+</div>
+
+<div class="imagebox">
+   <a href="https://i.imgur.com/IyH9JCU.jpg?width=569&height=625" target="_blank">
+   <img src="https://i.imgur.com/IyH9JCU.jpg?width=569&height=625" >
+   </a>
+   <span class="caption"><a href="https://twitter.com/wifi_failure" target="_blank">@wifi_failure</a></span>
+</div>
+
+<div class="imagebox">
+   <a href="https://i.imgur.com/wq5bEJd.png?width=442&height=625" target="_blank">
+   <img src="https://i.imgur.com/wq5bEJd.png?width=442&height=625" >
+   </a>
+   <span class="caption"><a href="https://twitter.com/AphelionArts" target="_blank">@AphelionArts</a></span>
+</div>
+
+<div class="imagebox">
+   <a href="https://i.imgur.com/nQoDcdP.png" target="_blank">
+   <img src="https://i.imgur.com/nQoDcdP.png" >
+   </a>
+   <span class="caption"><a href="https://twitter.com/WoodDanArt" target="_blank">@WoodDanArt</a></span>
+</div>
+
+<div class="imagebox">
+   <a href="https://i.imgur.com/KfeSQpi.png" target="_blank">
+   <img src="https://i.imgur.com/KfeSQpi.png" >
+   </a>
+   <span class="caption"><a href="https://twitter.com/yozephdraws" target="_blank">@yozephdraws</a></span>
+</div>
+
+<div class="imagebox">
+   <a href="https://i.imgur.com/mQpoRmD.png" target="_blank">
+   <img src="https://i.imgur.com/mQpoRmD.png" >
+   </a>
+   <span class="caption"><a href="https://twitter.com/bear_sprite" target="_blank">@bear_sprite</a></span>
+</div>
+
+<div class="imagebox">
+   <a href="https://i.imgur.com/7Rd4G96.png" target="_blank">
+   <img src="https://i.imgur.com/7Rd4G96.png" >
+   </a>
+   <span class="caption"><a href="https://twitter.com/GMCC1233" target="_blank">@GMCC1233</a></span>
+</div>
+
+<div class="imagebox">
+   <a href="https://i.imgur.com/87znfcl.png" target="_blank">
+   <img src="https://i.imgur.com/87znfcl.png" >
+   </a>
+   <span class="caption"><a href="https://twitter.com/TimUniverses" target="_blank">@TimUniverses</a></span>
+</div>
+
+<div class="imagebox">
+   <a href="https://i.imgur.com/epVS4GM.png?width=1111&height=625" target="_blank">
+   <img src="https://i.imgur.com/epVS4GM.png?width=1111&height=625" >
+   </a>
+   <span class="caption"><a href="https://twitter.com/affraystudios" target="_blank">@affraystudios</a></span>
+</div>
+
+<div class="imagebox">
+   <a href="https://i.imgur.com/m22baum.jpg?width=946&height=625" target="_blank">
+   <img src="https://i.imgur.com/m22baum.jpg?width=946&height=625" >
+   </a>
+   <span class="caption"><a href="https://twitter.com/KinoZukna" target="_blank">@KinoZukna</a></span>
+</div>
+
+<div class="imagebox">
+   <a href="https://i.imgur.com/f8e88Vh.jpg?width=417&height=625" target="_blank">
+   <img src="https://i.imgur.com/f8e88Vh.jpg?width=417&height=625" >
+   </a>
+   <span class="caption"><a href="https://twitter.com/eggnog_art" target="_blank">@eggnog_art</a></span>
+</div>
+
+<div class="imagebox">
+   <a href="https://i.imgur.com/jjrspLV.png?width=625&height=625" target="_blank">
+   <img src="https://i.imgur.com/jjrspLV.png?width=625&height=625" >
+   </a>
+   <span class="caption"><a href="https://twitter.com/FranceAndres4" target="_blank">@FranceAndres4</a></span>
+</div>
+
+<div class="imagebox">
+   <a href="https://i.imgur.com/INXugd4.jpg?width=594&height=625" target="_blank">
+   <img src="https://i.imgur.com/INXugd4.jpg?width=594&height=625" >
+   </a>
+   <span class="caption"><a href="https://abstractfigure.com/" target="_blank">@JCodyLambert</a></span>
+</div>
+
+<div class="imagebox">
+   <a href="https://i.imgur.com/r9OhOqC.png?width=486&height=625" target="_blank">
+   <img src="https://i.imgur.com/r9OhOqC.png?width=486&height=625" >
+   </a>
+   <span class="caption"><a href="https://twitter.com/manoel_art_" target="_blank">@manoel_art</a></span>
+</div>
+
+<div class="imagebox">
+   <a href="https://i.imgur.com/nbKGrvK.png?width=603&height=625" target="_blank">
+   <img src="https://i.imgur.com/nbKGrvK.png?width=603&height=625" >
+   </a>
+   <span class="caption"><a href="https://twitter.com/Zizlime2" target="_blank">@Zizlime2</a></span>
+</div>
+
+<div class="imagebox">
+   <a href="https://i.imgur.com/GDIwSWC.jpg?width=637&height=625" target="_blank">
+   <img src="https://i.imgur.com/GDIwSWC.jpg?width=637&height=625" >
+   </a>
+   <span class="caption"><a href="https://instagram.com/nanaturbii/" target="_blank">@na_naturbii</a></span>
+</div>
+
+<div class="imagebox">
+   <a href="https://i.imgur.com/WdJeMQG.jpg?width=914&height=625" target="_blank">
+   <img src="https://i.imgur.com/WdJeMQG.jpg?width=914&height=625" >
+   </a>
+   <span class="caption"><a href="https://twitter.com/DeckOfSpadesArt" target="_blank">@DeckOfSpadesArt</a></span>
+</div>
+
+<div class="imagebox">
+   <a href="https://i.imgur.com/EAEfmi6.jpg?width=871&height=625" target="_blank">
+   <img src="https://i.imgur.com/EAEfmi6.jpg?width=871&height=625" >
+   </a>
+   <span class="caption"><a href="https://twitter.com/numituzineru" target="_blank">@numituzineru</a></span>
+</div>
+
+<div class="imagebox">
+   <a href="https://i.imgur.com/JtKYOyJ.jpg?width=388&height=625" target="_blank">
+   <img src="https://i.imgur.com/JtKYOyJ.jpg?width=388&height=625" >
+   </a>
+   <span class="caption"><a href="https://twitter.com/numituzineru" target="_blank">@numituzineru</a></span>
+</div>
+
+
+</div>
+<script>
+var cards = $(".imagebox");
+console.log(cards.length);
+for(var i = 0; i < cards.length; i++){
+    var target = Math.floor(Math.random() * cards.length -1) + 1;
+    var target2 = Math.floor(Math.random() * cards.length -1) +1;
+    cards.eq(target).before(cards.eq(target2));
+}
+</script>
+[[/html]]
+[[/div]]

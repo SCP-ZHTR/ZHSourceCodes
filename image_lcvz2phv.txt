@@ -1,0 +1,6 @@
+image: 'https://i.imgur.com/PKEroRT.jpeg'
+owner: 阿因
+owner-wiki: Aindavis_817
+license: '0'
+other-license: ''
+note: ''

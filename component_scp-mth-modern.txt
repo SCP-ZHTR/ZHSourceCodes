@@ -1,0 +1,18 @@
+[[%%content{0}%%module css]]
+#u-meta-title-hiding{
+display:block;
+}
+#u-meta-title-hiding .meta-title p{
+margin:0;
+}
+
+#page-title{
+display:none!important;
+}
+#u-meta-title-hiding{
+margin:0;
+}
+#u-meta-title-hiding .meta-title::before,#u-meta-title-hiding .meta-title::after{
+height:0.10rem;
+}
+[[%%content{0}%%/module]]

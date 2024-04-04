@@ -1,0 +1,4 @@
+##white|人事檔案條件達成聲明：##
+[[module countpages created_by="=" rating=">=3" tags="原創"]]
+##white|我有 %%total%% 篇合格原創作品##
+[[/module]]

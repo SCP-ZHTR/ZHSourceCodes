@@ -1,0 +1,29 @@
+[[include :scp-zh-tr:theme:basalt darkmode=a]]
+
+[[include info:start]]
+作者：[[*user k1s10r0db00ne]]
+[[include info:end]]
+@@ @@
+[[image https://i.imgur.com/0ZVZICg.jpg]]
+
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+[[=]]
+[[collapsible show="附上更多的Alouette Aperturus" hide="收起"]]
+@@ @@
+[[image https://i.imgur.com/rgINgPn.jpg width="500px"]]
+@@ @@
+[[image https://i.imgur.com/I1p75DE.png width="500px"]]
+@@ @@
+[[/collapsible]]
+[[/=]]
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@

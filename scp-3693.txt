@@ -1,0 +1,77 @@
+[[include theme:black-highlighter-theme]]
+[[include component:info-ayers
+|lang=en[!-- EN/RU/KO/CN/FR/PL/ES/TH/JP/DE/IT/UA/PTBR --]
+|page=scp-3693[!-- url of your page on the scp wiki --]
+|authorPage=http://www.scp-wiki.net/djkaktus[!-- link to your author page --]
+|comments=N/A
+]]
+[[module CSS]]
+sup {
+vertical-align: top; position: relative; top: -0.5em;
+}
+:root{
+--cutColour: #fafafa;
+--barColour: #590505;
+}
+.translation_block{
+display:none;}
+
+.info-container .collapsible-block-folded a{
+color: #FFF;}
+.info-container .collapsible-block-unfolded-link a{
+color: #FFF;}
+
+.info-container .collapsible-block-link,
+.info-container:hover .collapsible-block-link {
+line-height: 1.6em;
+}
+[[/module]]
+
+[[include info:start]]
+篇名：後記—明鏡之後，模糊不清
+原文：[[[http://www.scpwiki.com/scp-3693| SCP-3693 - Postscript - Through A Glass, Darkly]]]
+原作者：[[*user djkaktus]]、[[*user The Great Hippo]]
+翻譯者：[[*user Nyunyunyun]]
+[[include info:end]]
+
+[[include :scp-zh-tr:component:anomaly-class-bar-source
+|lang=zh
+|item-number= 3693
+|clearance= 2
+|container-class= euclid
+|secondary-class= none
+|disruption-class= dark
+|risk-class= 注意
+]]
+
+-----
+
+[[include component:image-block name=http://scp-wiki.wikidot.com/local--files/scp-3693/theother.jpg |caption=SCP-3693的插圖]]
+
+**項目編號：**SCP-3693
+
+**項目等級：**Euclid
+
+**特殊收容措施：**SCP-3693收容於Site-19的安全儲存庫中。由於SCP-3693行為不定，且無法以視覺紀錄設備感知SCP-3693，項目應隨時由一名位於直接與其收容室相鄰的有窗觀察室的人類觀察者進行監視。項目行為的任何變化均應向SCP-3693的收容專家回報。
+
+**描述：**SCP-3693是一座1.6公尺高，年齡無法確定的年輕女子的陶瓷雕塑。 
+
+SCP-3693只能在觀察者閉上眼睛時被看見。儘管可以通過閉合的眼瞼觀察到，其他障礙物（例如牆壁或門）仍會將其部分或全部遮蔽。通常可以觀察到其位於離地數公分處盤旋，但在一段時間沒有移動時偶爾會沉靜在地面上。
+
+當被觀察時，SCP-3693將快速靠近觀察者，進入最靠近的無障礙空間（最多數公分遠）並面對觀察者。根據觀察者的高度，SCP-3693將移至視線水平處漂浮。如果觀察者離開原本位置並保持雙眼閉合，SCP-3693將跟隨於其面前，並保持相同的距離。一旦觀察者睜開眼睛，SCP-3693會停止一切動作。即使不被觀測，SCP-3693仍占有空間且可以進行物理上的互動；該項目似乎無法穿過牆壁或與門進行互動。
+
+觀察SCP-3693的對象經常報告稱有被監視的感覺。長時間的接觸通常會導致中度不安。SCP-3693在基金會收容期間未採取任何敵對行為。
+
+**附錄 3693.1：**發現
+
+SCP-3693於1995年在日本羽島被基金會人員發現，當時正在調查當地傳說中一個被情人拋棄並殺害的女人的鬼魂。在調查一間廢棄倉庫的地下室時，特工們觀察到SCP-3693壓在玻璃隔板上，在他們閉眼時跟隨著他們。對現場的進一步調查發現了大量混凝土碎片和扭曲的鋼筋，以及幾個被血液和排泄物堵塞的排水口。一名頸部折斷的女子屍體在附近被發現。
+
+將SCP-3693固定並移出現場後，基金會特工返回倉庫以繼續對現場的檢查，但地下室無法再次被定位。對回收的屍體的身分調查正在進行。
+
+[[footnoteblock]]
+
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[SCP-3692]]] | SCP-3693 | [[[SCP-3694]]] >>
+[[/=]]
+[[/div]]

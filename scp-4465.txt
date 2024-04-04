@@ -1,0 +1,33 @@
+[[include component:scp-meta-title-hiding css-style=classic]]
+[[include info:start]]
+**SCP-4465：人不能獨自而活**
+
+**原作者：**[[*user darkstuff]]
+**譯者：**[[*user Pao Mian]]
+
+**原連結：**[[[http://scp-wiki.wikidot.com/scp-4465|這裡]]]
+[[include info:end]]
+
+**項目編號：**SCP-4465
+
+**項目等級：** Safe
+
+**特殊收容措施：**SCP-4465須被保存於一維安收容鎖櫃內。
+
+**描述：**SCP-4465是一把格洛克17手槍，其確切的異常性質目前仍未查清。已在接下來的數月內安排面向該項目的性質試驗。
+
+SCP-4465原先和Arnold Dubar的遺體在公寓內一同尋獲，該死者以將手腕放血的方式進行自殺。就在遺體被發現的三天後，他的大學室友、母親以及其寵物狗都遭受到相同形式的槍殺，這些人在自殺發生後的十分鐘內同樣以顳顎被子彈射穿至後腦勺的形式死去，這些子彈與SCP-4465彈匣內的子彈比對過後皆相符。Arnold Dubar生前所居的公寓和上述距離最近的受害者相差了3000公里遠。
+
+
+[[collapsible show="SCP-4465 試驗摘錄" hide="SCP-4465 試驗摘錄"]]
+//因道德考量，本試驗已被終止。//
+[[/collapsible]]
+
+[[footnoteblock]]
+
+
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[SCP-4464]]] | SCP-4465 | [[[SCP-4466]]] >>
+[[/=]]
+[[/div]]

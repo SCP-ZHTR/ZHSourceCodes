@@ -1,0 +1,23 @@
+[[include info:start]]
+作者：[[*user Wright Wilson]]
+[[include info:end]]
+[[div class="scp-image-block block-center" style="width:100%;"]]
+[[image https://i.imgur.com/k9wcos7.png style="width:100%;" link=#]]
+[[div class="scp-image-caption" style="width:100%;"]]
+SCP-999
+[[/div]]
+[[/div]]
+@@ @@
+[[div class="scp-image-block block-center" style="width:100%;"]]
+[[image https://i.imgur.com/uEbEoJw.png style="width:100%;" link=#]]
+[[div class="scp-image-caption" style="width:100%;"]]
+SCP-166
+[[/div]]
+[[/div]]
+@@ @@
+[[div class="scp-image-block block-center" style="width:100%;"]]
+[[image https://i.imgur.com/Duz5JBe.png style="width:100%;" link=#]]
+[[div class="scp-image-caption" style="width:100%;"]]
+SCP-049
+[[/div]]
+[[/div]]

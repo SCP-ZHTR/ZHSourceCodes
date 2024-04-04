@@ -1,0 +1,149 @@
+@@@@
+
+[[=]]
+[[image artwork.gif]]
+[[/=]]
+[[module CSS]]
+.content-panel .content-type-title > p {
+  margin: 0;
+}
+.content-panel .content-type-title {
+  font-size: 120%;
+  font-weight: bold;
+  padding: 5px 20px;
+  background-color: #666;
+  color: #fff;
+  border-radius: 8px 8px 0 0;
+  box-shadow: inset 0 1px 1px rgba(255,255,255,.8),
+    inset 0 15px 1px rgba(255,255,255,.2),
+    inset 0 15px 10px rgba(255,255,255,.2);
+}
+.content-panel .content-type-description {
+padding: 0 20px;
+text-align: justify;
+}
+.content-panel.content-row .content-type-description {
+padding: 5px 20px;
+}
+.content-panel.content-row .content-type-description-2 {
+padding: 0 20px;
+text-align: justify; 
+}
+[[/module]]
+
++ 關於藝術創作
+
+除了文字創作，基金會也接受各種藝術創作的投稿，繪圖與立體作品(雕塑甚至是玩偶)音樂及影片也都沒有問題，只要是跟SCP宇宙相關的藝術作品我們都非常歡迎。
+
+唯獨您**必須保證該創作由您原創**或是翻譯自其他分部的藝術創作，仿畫及轉載分享還請移動至[http://scp-zh-tr.wikidot.com/forum/c-6293973/ 同人藝術創作]或其他的[http://scp-zh-tr.wikidot.com/chat-guide#u-start 聊天平台]與大家討論。
+
+因應本站長久以來的圖像方針，除了部分僅由工作人員建立基礎的檔案外，我們並無開放使用站內的檔案上傳功能，如果您有圖片上傳的需求請使用外聯的[https://imgur.com/ 圖床網站]，再將圖片網址導回網站內部使用。
+
+另外圖床方面我們推薦使用https://imgur.com/[https://imgur.com/ imgur]做為您上傳圖片所使用的網站。
+如果您有任何疑問會需要協助的部分歡迎您與[http://scp-zh-tr.wikidot.com/contact-staff 工作人員]聯繫。
+
+了解更多圖片使用的相關詳情請移至 [[[image-use-policy | 圖像使用政策]]]。
+
+* **[[[/scp-artwork-hub|藝術創作中心]]]**
+* **[https://imgur.com/ imgur]老牌免費的圖片空間網站**
+
+
+
+[[div class="content-panel standalone content-row"]]
+[[div class="content-type-title"]]
+原創藝術作品
+[[/div]]
+
+[[div class="content-type-description-2"]]
+
+[[table style="width: 100%;"]]
+[[row style="font-weight: bold; color: #fff; background-color: #666;"]]
+[[cell style="padding: 0 2px; width: 50%;"]]
+頁面名稱
+[[/cell]]
+[[cell style="padding: 0 2px; width: 25%; text-align: center;"]]
+建立日期
+[[/cell]]
+[[cell style="padding: 0 2px; width: 20%; text-align: center;"]]
+創建者
+[[/cell]]
+[[cell style="padding: 0 2px; text-align: center;"]]
+評分
+[[/cell]]
+[[/row]]
+[[/table]]
+
+[[/div]]
+
+[[div class="content-type-description"]]
+
+[[module ListPages order="created_at desc" prependLine="[[include component:listpages-table]]" perPage="30" appendLine="[[/table]]" category="-fragment, -prime"  separate="false" tags="藝術作品 -翻譯" rss="Most Recently Translated"]]
+[[row]]
+[[cell style="vertical-align: top;"]]
+%%title_linked%%
+[[/cell]]
+[[cell style="vertical-align: top; text-align: justify;"]]
+%%created_at|%Y年%m月%d日 %H:%M|agohover%%
+[[/cell]]
+[[cell style="vertical-align: top; text-align: left;"]]
+%%created_by_linked%%
+[[/cell]]
+[[cell style="vertical-align: top; text-align: justify;"]]
+%%rating%%
+[[/cell]]
+[[/row]]
+[[/module]]
+
+[[/div]]
+[[/div]]
+
+----
+[[div class="content-panel standalone content-row"]]
+[[div class="content-type-title"]]
+翻譯藝術作品
+[[/div]]
+
+[[div class="content-type-description-2"]]
+
+[[table style="width: 100%;"]]
+[[row style="font-weight: bold; color: #fff; background-color: #666;"]]
+[[cell style="padding: 0 2px; width: 50%;"]]
+頁面名稱
+[[/cell]]
+[[cell style="padding: 0 2px; width: 25%; text-align: center;"]]
+建立日期
+[[/cell]]
+[[cell style="padding: 0 2px; width: 20%; text-align: center;"]]
+譯者/搬運
+[[/cell]]
+[[cell style="padding: 0 2px; text-align: center;"]]
+評分
+[[/cell]]
+[[/row]]
+[[/table]]
+
+[[/div]]
+
+[[div class="content-type-description"]]
+
+[[module ListPages order="created_at desc" prependLine="[[include component:listpages-table]]" perPage="30" appendLine="[[/table]]" category="-fragment, -prime"  separate="false" tags="+藝術作品 翻譯 " rss="Most Recently Translated"]]
+[[row]]
+[[cell style="vertical-align: top;"]]
+%%title_linked%%
+[[/cell]]
+[[cell style="vertical-align: top; text-align: justify;"]]
+%%created_at|%Y年%m月%d日 %H:%M|agohover%%
+[[/cell]]
+[[cell style="vertical-align: top; text-align: left;"]]
+%%created_by_linked%%
+[[/cell]]
+[[cell style="vertical-align: top; text-align: justify;"]]
+%%rating%%
+[[/cell]]
+[[/row]]
+[[/module]]
+
+[[/div]]
+[[/div]]
+
+----

@@ -1,0 +1,480 @@
+[[include :scp-zh-tr:theme:black-highlighter-theme]]
+[[module css]]
+.bounty-popup {
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    position: fixed;
+    display: flex;
+    z-index: 3;
+}
+.bounty-popup:not(:target) {
+    opacity: 0;
+    display: none;
+}
+.bounty-popup:target {
+    opacity: 1;
+    animation-duration: 0.3s;
+    animation-name: fade-in;
+    -moz-animation-duration: 0.5s;
+    -moz-animation-name: fade-in;
+    -webkit-animation-duration: 0.5s;
+    -webkit-animation-name: fade-in;
+}
+.bounty-popup .modalbox{background:var(--gradient-header);}
+.bounty-popup .modalbox .credit {
+    max-height:220px;
+    overflow-y:scroll
+}
+@media (max-width:1025px){
+.bounty-box{
+    height:990px!important
+}
+}
+@media (max-width:755px){
+.bounty-box{
+    height:unset!important
+}
+.bounty {
+    transform:none!important;
+    margin:2em!important;
+}
+}
+:root {
+    --gradient-header: url(https://i.imgur.com/Q6a6etT.jpg);
+}
+:root {
+    /* S-CSS-P Integration */
+    --theme-base: "nuscp";
+    --theme-id: "bounty-hunter";
+    --theme-name: "賞金獵人";
+    /* set this to your theme's full name */
+    --header-title: "賞金獵人";
+    --header-subtitle: "冒險者公會的佈告欄";
+ /*
+ rgb(252, 252, 252)
+ rgb(244, 244, 244)
+ rgb(170, 170, 170)
+ rgb(66, 66, 72)
+ rgb(48, 48, 52)
+ rgb(12, 12, 12)
+ rgb(217, 237, 229)
+ rgb(232, 197, 87)
+ rgb(59, 53, 40)
+ rgb(73, 142, 140)
+ */
+    /* Standard Colors */
+    --white-monochrome: 252, 252, 252;
+    /* white */
+    --pale-gray-monochrome: 244, 244, 244;
+    /* v light gray for blockquotes and stuff */
+    --light-gray-monochrome: 170, 170, 170;
+    /* light accent gray for login status */
+    --gray-monochrome: 66, 66, 72;
+    /* gray */
+    --dark-gray-monochrome: 48, 48, 52;
+    /* dark accent gray for sidebar background */
+    --black-monochrome: 12, 12, 12;
+    /* black */
+    --bright-accent: 217, 237, 229;
+    /* bright yellow */
+    --medium-accent: 232, 197, 87;
+    /* medium yellow 4 header */
+    --dark-accent: 59, 53, 40;
+    /* dark blue */
+    --link-color: 73, 142, 140;
+    /* blue */
+
+    /* Primary Theme Colors */
+    --swatch-background: 240, 240, 240;
+    --swatch-primary: var(--medium-accent);
+    --swatch-primary-darker: var(--dark-accent);
+    --swatch-primary-darkest: var(--dark-accent);
+    /* Primary Text Colors */
+    --swatch-text-dark: var(--black-monochrome);
+    --swatch-text-light: var(--white-monochrome);
+    --swatch-important-text: var(--bright-accent);
+ 
+    /* Primary Menu Colors */
+    --swatch-menubg-color: var(--dark-accent);
+    --swatch-menubg-light-color: var(--white-monochrome);
+    --swatch-menubg-medium-color: var(--medium-accent);
+    --swatch-menubg-medium-dark-color: var(--black-monochrome);
+    --swatch-menubg-dark-color: var(--black-monochrome);
+    --swatch-menubg-black-color: var(--black-monochrome);
+    --swatch-menubg-hover-color: var(--gray-monochrome);
+    --swatch-menutxt-dark-color: var(--white-monochrome);
+    --swatch-menutxt-light-color: var(--white-monochrome);
+    --swatch-border-color: var(--medium-accent);
+    /* Primary Header Colors */
+    --swatch-headerh1-color: var(--bright-accent) !important;
+    --swatch-headerh2-color: var(--bright-accent) !important;
+    --swatch-topmenu-border-color: var(--dark-accent);
+    --swatch-topmenu-bg-color: var(--dark-accent);
+ 
+    --rating-module-button-color: var(--black-monochrome);
+    --rating-module-text-color: var(--black-monochrome);
+ 
+     --diagonal-stripes: none;
+ 
+     --cutColour: rgb(var(--bright-accent));
+     --barColour: rgb(var(--dark-accent));
+}
+.bounty {
+width:calc(1.2 * 250px);
+height:calc(1.2 * 350px);
+background:var(--img);
+background-size:contain;
+position:relative;
+float:left;
+transition:.5s transform
+}
+.bounty:hover{transform:scale(1)!important;z-index:3}
+.bounty > p {
+    position: absolute;
+    margin: 315px 20px 0;
+    height: 100px;
+    /* overflow: hidden; */
+    background: linear-gradient(rgb(var(--black-monochrome)), rgb(var(--black-monochrome)) 60px,transparent);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    z-index: 2;
+}
+.bounty > a {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    display: block;
+    z-index: 1;
+}
+
+[[/module]]
+
+[[include info:start-standalone]]
+素材來源
+[https://pixabay.com/photos/board-wood-texture-plank-natural-19208/ 木板]，[https://pixabay.com/photos/bridge-riveting-heads-rivet-rusted-114139/ 鉚釘]，[https://pixabay.com/photos/old-paper-background-vintage-1267044/ 紙張]。
+由[[*user Dr V Valentine]]加工製作。
+----
+++++* 協力
+[[*user AbyssDream]] 帥氣的額外獎品。
+[[*user Unihedron]] CSS與很多編碼的複雜東東。
+感謝他們(◕ H ◕)
+[[include info:end]]
+[[module css]]
+.void {font-family: serif; font-weight:100; color: #FFFFF0; text-shadow: 0 0 4px
+ #000000;}.void:hover {text-decoration: none; border-bottom: 1px solid #FFBB00;}.void span {font-size: 1.7em;}
+[[/module]]
+[[image https://i.imgur.com/MnlhJLm.png link ="summer-contest-2020"]]
+
+-----
+> 
+> + 成果發布
+> +++* 積分最優秀賞金獵人
+> 第一名[[*user vomiter]] (7+9+11+12=39
+> [[collapsible show="作品一覽 ▼" hide="收起"]]
+> **1200字短文**[[[scp-zh-461|SCP-ZH-461]]] 人們緊抓著冰塊 (7) 
+> **無需收容**[[[scp-zh-391|SCP-ZH-391]]] 雨停之前 (9) 
+> **他站人物**[[[19th-bureau-of-mss-of-china|中國國安部，不應存在的十九局]]] (11) 
+> **反**[[[scp-zh-451|SCP-ZH-451]]] 反對者與蠕蟲 (12) 
+> [[/collapsible]]
+> 第二名[[*user Reverberate_a]] (13+12+12=37
+> [[collapsible show="作品一覽 ▼" hide="收起"]]
+> **1200字短文**[[[scp-zh-015|SCP-ZH-015]]] 七人八笑 (13) 
+> **K級情景**[[[scp-zh-113|SCP-ZH-113]]] 抹殺事情的真相 (12) 
+> **他站人物**[[[human-sorrows-and-joys|人的悲歡，並不相通]]] (12) 
+> [[/collapsible]]
+> 第三名[[*user Lostwhat]] (7+14+5=26
+> [[collapsible show="作品一覽 ▼" hide="收起"]]
+> **1200字短文**[[[scp-zh-040|SCP-ZH-040]]] 觀眾視角 (7) 
+> **K級情景**[[[five-minutes-to-end|距離世界末日還有五分鐘]]] (14) 
+> **K級情景**[[[scp-zh-014|SCP-ZH-014]]] (5) [[footnote]] 合著平分分數 [[/footnote]]
+> [[/collapsible]]
+> 
+
+> 
+> +++* 六項選賞題目中的最高分
+> ||~ 題目||~ 得獎作品||~ 得獎者||
+> ||**已解明**||[[[SCP-ZH-729]]]|| [[*user Viken-K]]||
+> ||**1200字挑戰**||[[[SCP-ZH-015]]] ||[[*user Reverberate_a]]||
+> ||**K級情景**||[[[five-minutes-to-end|距離世界末日還有五分鐘]]]||[[*user Lostwhat]]||
+> ||**無需收容**||[[[SCP-ZH-391]]] ||[[*user vomiter]]||
+> ||**他站人物**||[[[chowder-date|濃湯約會]]]||[[*user Bales20147]]||
+> ||**反**||[[[SCP-ZH-451]]]||[[*user vomiter]]||
+> 
+
+ 
+
+
+
+-----
+[[f>toc]]
++++ 規則
+2020夏季競賽活動採取積分制，參加者須報名登錄為賞金獵人，自由的在六道懸賞題目中選取自己感興趣的題目創作並且投稿，我們接受以下8種格式的創作 001 提案、SCP檔案、故事、-EX(已解明)、-J(搞笑)、GOI格式、creepypasta、流浪者圖書館，投稿參賽。並且無限制參賽作品的交件數量，但每一份作品僅能對應一題的懸賞題目，投稿時請於info頁面中註明是挑戰那項懸賞題目，請務必注意題目敘述，參賽作品內容須與題目符合。
+
+在活動截止時我們將由專人統計積分並發表比賽成果，積分最高的前三位獵人將得到懸賞，本次活動能以單人或雙人組合參賽挑戰，組合不綁死，你也可以和你的夥伴只合作一份就拆夥，只需在info頁面註明此份作品為合著即可，分數統計時合著作品的積分將平均的分配給組合的成員。
+
+= ##AA0000|主辦單位保有活動最終解釋權及變更活動內容細節之權利。##
+-----
++++ 賽程解說
+[[=]]
+++++++* 由於用戶多數位於相同時區內，以下所標示的日期及時間的基準皆以(GMT+8)為主。
+[[/=]]
+
+--##003C9D|**報名期間為【2020年7月17日(五)】至【2020年8月21日 (五) 11:00】**##，請活動的參與者於本頁填寫報名表格參與競賽，如果對操作與報名有任何疑問歡迎留言或前往[http://scp-zh-tr.wikidot.com/chat-guide 各大聯絡窗口] 請求協助。--
+
+--開放投稿的**##003C9D|徵件時間為【2020年7月24日 (五) 12:00】至【2020年8月21日 (五) 12:00】**##請各位參賽者，務必在徵件開始後投稿的頁面上加上"**##AA0000|2020夏季競賽##**"的標籤[[footnote]] 標籤在頁面最下方的紅色選項中，如有任何疑問請至[http://scp-zh-tr.wikidot.com/chat-guide 各大聯絡窗口] 尋求協助[[/footnote]]以便讀者能快速的找到你的投稿。--
+
+--**##003C9D|投票日期為【2020年7月24日 ( 五) 12:00】至【2020年8月23日 (日)20:00】##**截止。--
+
+
+最後提醒一下新進人員們，記得投票打分數時不能幫自己按+分，誤觸或希望更改/取消投票只需點選評分欄位的**Ｘ**符號就好。
+------------
++++ 題目
+
+[[div_ class="bounty-box" style="background: var(--gradient-header);    position: relative;height: 660px;"]]
+[[div_ class="bounty" style="--img:url(https://i.imgur.com/VtMw1lV.png);transform:scale(.55);margin:-4em -2em"]]
+[[a href="#u-bounty-1"]]@@ @@[[/a]]
+[[module ListPages tags="+原創 +2020夏季競賽 +_賞金已解明" separate="no" wrapper="no" limit="8"]]
+%%title%%
+[[/module]]
+[[/div]]
+
+[[div_ class="bounty" style="--img:url(https://i.imgur.com/KXKoDlt.png);transform:scale(.65);margin:-41px -30px"]]
+[[a href="#u-bounty-2"]]@@ @@[[/a]]
+[[module ListPages tags="+原創 +2020夏季競賽 +_賞金1200字" separate="no" wrapper="no" limit="8"]]
+%%title%%
+[[/module]]
+[[/div]]
+
+[[div_ class="bounty" style="--img:url(https://i.imgur.com/12UsnM9.png);transform:scale(.7);margin:-46px"]]
+[[a href="#u-bounty-3"]]@@ @@[[/a]]
+[[module ListPages tags="+原創 +2020夏季競賽 +_賞金K級情景" separate="no" wrapper="no" limit="8"]]
+%%title%%
+[[/module]]
+[[/div]]
+
+[[div_ class="bounty" style="--img:url(https://i.imgur.com/lxDot1A.png);transform:scale(.6);margin:-35px"]]
+[[a href="#u-bounty-4"]]@@ @@[[/a]]
+[[module ListPages tags="+原創 +2020夏季競賽 +_賞金無需收容" separate="no" wrapper="no" limit="8"]]
+%%title%%
+[[/module]]
+[[/div]]
+
+[[div_ class="bounty" style="--img:url(https://i.imgur.com/Z49qPx0.png);transform:scale(.58);margin:-41px"]]
+[[a href="#u-bounty-5"]]@@ @@[[/a]]
+[[module ListPages tags="+原創 +2020夏季競賽  +_賞金他站人物" separate="no" wrapper="no" limit="8"]]
+%%title%%
+[[/module]]
+[[/div]]
+
+[[div_ class="bounty" style="--img:url(https://i.imgur.com/RCaA6pe.png);transform:scale(.54);margin:-38px"]]
+[[a href="#u-bounty-6"]]@@ @@[[/a]]
+[[module ListPages tags="+原創 +2020夏季競賽 +_賞金反" separate="no" wrapper="no" limit="8"]]
+%%title%%
+[[/module]]
+[[/div]]
+[[/div]]
+
+
+
+-----
+
+[[div id="bounty-1" class="bounty-popup"]]
+[[div class="fader"]]
+[[iframe http://scp-jp-sandbox3.wdfiles.com/local--code/credit%3Abackmodule/1 ]]
+[[/div]]
+[[div class="modalcontainer"]]
+[[div class="modalbox"]]
+= ##eee|以--已解明--為創作主題發想，在限定的 ８ 種格式內，選擇一種完成一篇原創作品。##
+------
+[[div class="credit"]]
+[[iframe http://scp-wiki.wdfiles.com/local--code/info%3Astyle/3 class="close-credits"]]
+
+[[module ListPages tags="+原創 +2020夏季競賽 +_賞金已解明" separate="no" wrapper="no" limit="100" perPage="100"]]
+> %%title_linked%%
+[[/module]]
+
+[[div class="credit-back" style="text-align: center;"]]
+[[iframe http://scp-zh-tr.wikidot.com/info:style/code/2 style="height:2em;width: 100%;margin: 0;padding: 0;border: 0;background: transparent;" scrolling="no"]]
+[[/div]]
+[[/div]]
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[div id="bounty-2" class="bounty-popup"]]
+[[div class="fader"]]
+[[iframe http://scp-jp-sandbox3.wdfiles.com/local--code/credit%3Abackmodule/1 ]]
+[[/div]]
+[[div class="modalcontainer"]]
+[[div class="modalbox"]]
+= ##eee|在本次競賽規定的 8 種投稿類型中，選擇一種創作出一份1200字以內的作品。##
+------
+[[div class="credit"]]
+[[iframe http://scp-wiki.wdfiles.com/local--code/info%3Astyle/3 class="close-credits"]]
+
+[[module ListPages tags="+原創 +2020夏季競賽 +_賞金1200字" separate="no" wrapper="no" limit="100" perPage="100"]]
+> %%title_linked%%
+[[/module]]
+
+[[div class="credit-back" style="text-align: center;"]]
+[[iframe http://scp-zh-tr.wikidot.com/info:style/code/2 style="height:2em;width: 100%;margin: 0;padding: 0;border: 0;background: transparent;" scrolling="no"]]
+[[/div]]
+[[/div]]
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[div id="bounty-3" class="bounty-popup"]]
+[[div class="fader"]]
+[[iframe http://scp-jp-sandbox3.wdfiles.com/local--code/credit%3Abackmodule/1 ]]
+[[/div]]
+[[div class="modalcontainer"]]
+[[div class="modalbox"]]
+= ##eee|請以末日為主題創作出一份作品##
+= ##eee|本題沒有限制只能使用目前已經有的K級情景##
+------
+[[div class="credit"]]
+[[iframe http://scp-wiki.wdfiles.com/local--code/info%3Astyle/3 class="close-credits"]]
+
+[[module ListPages tags="+原創 +2020夏季競賽 +_賞金K級情景" separate="no" wrapper="no" limit="100" perPage="100"]]
+> %%title_linked%%
+[[/module]]
+
+[[div class="credit-back" style="text-align: center;"]]
+[[iframe http://scp-zh-tr.wikidot.com/info:style/code/2 style="height:2em;width: 100%;margin: 0;padding: 0;border: 0;background: transparent;" scrolling="no"]]
+[[/div]]
+[[/div]]
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[div id="bounty-4" class="bounty-popup"]]
+[[div class="fader"]]
+[[iframe http://scp-jp-sandbox3.wdfiles.com/local--code/credit%3Abackmodule/1 ]]
+[[/div]]
+[[div class="modalcontainer"]]
+[[div class="modalbox"]]
+= ##eee|以無需收容為創作主題，在活動限定的 8 種格式中選擇一種投稿。##
+------
+[[div class="credit"]]
+[[iframe http://scp-wiki.wdfiles.com/local--code/info%3Astyle/3 class="close-credits"]]
+
+[[module ListPages tags="+原創 +2020夏季競賽 +_賞金無需收容" separate="no" wrapper="no" limit="100" perPage="100"]]
+> %%title_linked%%
+[[/module]]
+
+[[div class="credit-back" style="text-align: center;"]]
+[[iframe http://scp-zh-tr.wikidot.com/info:style/code/2 style="height:2em;width: 100%;margin: 0;padding: 0;border: 0;background: transparent;" scrolling="no"]]
+[[/div]]
+[[/div]]
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[div id="bounty-5" class="bounty-popup"]]
+[[div class="fader"]]
+[[iframe http://scp-jp-sandbox3.wdfiles.com/local--code/credit%3Abackmodule/1 ]]
+[[/div]]
+[[div class="modalcontainer"]]
+[[div class="modalbox"]]
+= ##eee|以他站人物(ZH以外的人物)為創作主題，以不是自己所原創的人物為主角，在限定的８ 種格式內，選擇一種完成一篇原創作品。##
+------
+[[div class="credit"]]
+[[iframe http://scp-wiki.wdfiles.com/local--code/info%3Astyle/3 class="close-credits"]]
+
+[[module ListPages tags="+原創 +2020夏季競賽 +_賞金他站人物" separate="no" wrapper="no" limit="100" perPage="100"]]
+> %%title_linked%%
+[[/module]]
+
+[[div class="credit-back" style="text-align: center;"]]
+[[iframe http://scp-zh-tr.wikidot.com/info:style/code/2 style="height:2em;width: 100%;margin: 0;padding: 0;border: 0;background: transparent;" scrolling="no"]]
+[[/div]]
+[[/div]]
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[div id="bounty-6" class="bounty-popup"]]
+[[div class="fader"]]
+[[iframe http://scp-jp-sandbox3.wdfiles.com/local--code/credit%3Abackmodule/1 ]]
+[[/div]]
+[[div class="modalcontainer"]]
+[[div class="modalbox"]]
+= ##eee|以反為創作主題，不論是反叛、反轉甚至是渾沌反叛軍，到真的實際意義上的顛倒與逆境等，自由定義自己的反，並投稿創作。##
+
+[[div class="credit"]]
+[[iframe http://scp-wiki.wdfiles.com/local--code/info%3Astyle/3 class="close-credits"]]
+
+[[module ListPages tags="+原創 +2020夏季競賽 +_賞金反" separate="no" wrapper="no" limit="100" perPage="100"]]
+> %%title_linked%%
+[[/module]]
+
+[[div class="credit-back" style="text-align: center;"]]
+[[iframe http://scp-zh-tr.wikidot.com/info:style/code/2 style="height:2em;width: 100%;margin: 0;padding: 0;border: 0;background: transparent;" scrolling="no"]]
+[[/div]]
+[[/div]]
+[[/div]]
+[[/div]]
+[[/div]]
+----
++++ 獎項
+* 冠軍[*https://www.books.com.tw/products/G090000000 【博客來】全商品電子禮物卡_1000元(TWD)] 或  [*https://store.steampowered.com/account/redeemwalletcode?l=tchinese Steam 錢包序號_1000元(TWD)] **二選一**
+* 亞軍[*https://www.books.com.tw/products/G090000002?loc=P_0006_001 【博客來】全商品電子禮物卡_ 600元(TWD)]  或  [*https://store.steampowered.com/account/redeemwalletcode?l=tchinese Steam 錢包序號_ 600元(TWD)] **二選一**
+* 季軍[*https://www.books.com.tw/products/G090000003?loc=P_0007_001 【博客來】全商品電子禮物卡_ 200元(TWD)]  或  [*https://store.steampowered.com/account/redeemwalletcode?l=tchineseSteam  Steam 錢包序號_ 200元(TWD)] **二選一**
+------------
+除了上述的積分前三名外，六項選賞題目中的最高分，[[*user AbyssDream]]偷偷的加碼提供了能放置在人事檔案中的帥氣徽章。
+----
++++ 重點整理
+* 標示的日期及時間的基準皆以(GMT+8)為主。
+* 本次競賽採取報名制。
+* 允許雙人組合參賽，結算時分數由雙方均分。
+* 務必於info頁面中註明是挑戰那項懸賞題目，與作者名稱。
+* 一份作品僅能投稿一項懸賞題目。
+* 報名期間為【2020年7月17日(五)】至【2020年8月21日 (五) 11:00】
+* 比賽期間為【2020年7月17日(五)】至【2020年8月23日 (日)20:00】
+* 正式收件為【2020年7月24日 (五) 12:00】至【2020年8月21日 (五) 12:00】
+* 請務必在比賽作品上添加"2020夏季競賽"與"原創"的兩種標籤。[[footnote]] 還不熟悉標籤操作的成員們請前往留言詢問或是在我們的[[[*chat-guide|聊天室與各大窗口]]]求助) [[/footnote]]
+* 開放001提案、SCP檔案、故事、-EX(已解明)、-J(搞笑)、GOI格式、creepypasta、流浪者圖書館，等8種格式投稿參賽。
+* 本次競賽無限制參賽作品的交件數量，但一份作品僅能對應一種懸賞題目。
+* 擁有wikidot帳號並申請[[[*system:join|加入站點]]]的會員才能參與投票或投稿。
+* **主辦單位保有活動最終解釋權及變更活動內容細節之權利**。
+----
++++ 報名區
+　**※ 關於報名有任何不確定與疑問請至留言板或是我們的[http://scp-zh-tr.wikidot.com/chat-guide 各大聯絡窗口] 尋求協助，感謝。**
+||||||~ 報名區 ||
+|| [[*user Xina Harwood]] || [[*user ZH_mercury]] || [[*user Unihedron]] ||
+|| [[*user Dr V Valentine ]] || [[*user Fan Yeh]] || [[*user k1s10r0d]] ||
+|| [[*user ting129]] || [[*user Viken-K]] || [[*user Chromeblushowo]] ||
+|| [[*user kingdom war]] || [[*user Nelson Tam]] || [[*user bales20147]] ||
+|| [[*user YONGZUN]] || [[*user Lostwhat]] || [[*user Mimaomao]] ||
+|| [[*user Qmariocurl]] || [[*user vomiter]] || [[*user Reverberate_a]] ||
+|| [[*user minmasterqw]] || [[*user samscript]] || [[*user K the intern]] ||
+|| [[*user Boooonta]] || [[*user Red Paint]] || [[*user sigtina]] ||
+------------------------------------
++++ 參賽作品
+++++* 已解明
+[[module ListPages category="*" tags="+2020夏季競賽 +_賞金已解明" order="rating desc" separate="no" ]]
+||**%%title_linked%%** ||%%created_by%%||**%%rating%%** ||
+[[/module]]
+++++* 1200字挑戰
+[[module ListPages category="*" tags="+2020夏季競賽 +_賞金1200字" order="rating desc" separate="no" ]]
+||**%%title_linked%%** ||%%created_by%%||**%%rating%%** ||
+[[/module]]
+++++* K級情景
+[[module ListPages category="*" tags="+2020夏季競賽 +_賞金K級情景" order="rating desc" separate="no" ]]
+||**%%title_linked%%** ||%%created_by%%||**%%rating%%** ||
+[[/module]]
+++++* 無需收容
+[[module ListPages category="*" tags="+2020夏季競賽 +_賞金無需收容" order="rating desc" separate="no" ]]
+||**%%title_linked%%** ||%%created_by%%||**%%rating%%** ||
+[[/module]]
+++++* 他站人物
+[[module ListPages category="*" tags="+2020夏季競賽 +_賞金他站人物" order="rating desc" separate="no" ]]
+||**%%title_linked%%** ||%%created_by%%||**%%rating%%** ||
+[[/module]]
+++++* 反
+[[module ListPages category="*" tags="+2020夏季競賽 +_賞金反" order="rating desc" separate="no" ]]
+||**%%title_linked%%** ||%%created_by%%||**%%rating%%** ||
+[[/module]]

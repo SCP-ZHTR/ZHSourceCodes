@@ -1,0 +1,206 @@
+[[include :scp-zh-tr:component:croqstyle]]
+
+[[module CSS]]
+@import url('https://fonts.googleapis.com/css2?family=Comic+Neue:wght@700&display=swap');
+
+#page-content h1 {
+  font-family: 'Comic Neue';
+  font-style: italic;
+  font-size: 200%;
+}
+
+#page-content .tt {
+  font-size: 133%;
+}
+
+.footnotes-footer {
+  display: none;
+}
+[[/module]]
+
+[[=]]
+[[include :scp-wiki:info:start]]
+原文：[https://scp-wiki.wikidot.com/contest-contest CONTEST CONTEST] 競賽競賽
+作者：[[*user Placeholder McD]]
+譯者：[[*user Frederica Bernkastel]]
+圖片翻譯：[[*user CNBlack]]
+
+摘錄內容：
+> 你//最好不要//在沒有跟任何社群推廣小組討論之前，就試圖去主辦某種非官方競賽。他們也//非常希望//你不要在他們點頭前就擅自舉辦競賽。當然他們很少會打槍人，但為了讓維持競賽的嚴肅與高品質，你想做的許多事如果沒有得到他們的協助，將會是很難辦到的。
+> 
+> 無論如何，我要說的重點是，你以前可以創辦競賽，但你卻沒有辦。而現在這裡有個名字叫做佔位符的酷咖，要告訴你可以在舉辦競賽上競賽。這下你就無法抗拒了，我是說，畢竟你都參加了更糟糕的競賽了對吧。
+
+[[include :scp-wiki:info:end]]
+
+[[=image https://i.imgur.com/TlyH5oe.png style="width: 100%;"]]
+
++ __競賽競賽__
+[[/=]]
+
+[[div class="blockquote"]]
+有想過要辦場競賽嗎？雖然你以前也可以辦，但現在你更可以辦。其實任何人都可以在任何時候發布競賽中心頁，沒有任何規則明確醜拒這種行為。據我所知，我們甚至沒有競賽中心頁規範的正式政策頁面，好其實我也沒用太多時間研究這個。
+
+**但是：** 我在法律上[[footnote]]道德上[[/footnote]]有義務告知你，你//最好不要//在沒有跟任何社群推廣小組討論之前，就試圖去主辦某種非官方競賽。他們也//非常希望//你不要在他們點頭前就擅自舉辦競賽。當然他們很少會打槍人，但為了讓維持競賽的嚴肅與高品質，你想做的許多事如果沒有得到他們的協助，將會是很難辦到的。
+
+無論如何，我要說的重點是，你以前可以創辦競賽，但你卻沒有辦。而現在這裡有個名字叫做佔位符的酷咖，要告訴你可以在舉辦競賽上競賽。這下你就無法抗拒了，我是說，畢竟你都參加了更糟糕的競賽了對吧。
+
+拜託，別對我撒謊，我知道你有的。你是忘記了，還是害怕想起來？//迷因競賽？那三小？//弄得好像這裡發生過什麼好事似的。[[footnote]]：提摩：
+[[>]]
+//-- [[*user LORDXVNV]]//
+[[/>]][[/footnote]]
+[[/div]]
+
+@@ @@
+
+= **如何參與競賽競賽**
+
+**1.** 於美國東部時間2023年1月6日上午12:01至2023年1月12日下午11:59期間，於SCP維基發布符合以下條件的頁面：
+
+* 具有官方認可的{{競賽}}標籤，並且
+* 於美國東部時間2023年1月20日上午12:01還沒被刪掉。
+
+**2.** 由於**競賽競賽**的競賽性質，很遺憾無法讓你上傳藝術作品參賽。沒錯，不只是視覺藝作，所有的藝作都不行，完全沒有藝作。啊當然，你也可以投「藝術競賽」之類的，沒問題的！喔對了，{{外觀主題}}或{{組件}}頁面也是無法參賽的，造成你的混亂真是相當抱歉。
+
+----
+@@ @@
+
++ __重要日期__
+
+**開始投稿：** 美國東部時間2023年1月6日上午12:01
+**結束投稿：** 美國東部時間2023年1月12日下午11:59
+**結果決定：** 美國東部時間2023年1月20日下午12:01
+**耶穌基督正確的出生時間：** 以色列標準時間[[footnote]]是，真的有這個標準時間。我和你一樣驚訝。[[/footnote]]4月6日上午，6 Anno Domini，[[footnote]]**翻譯：** 基督誕生之後[[/footnote]] [wikipedia:Date_of_birth_of_Jesus 應該吧大概]。
+
+@@ @@
+
++ __候選競賽__
+（隨機排序）
+
+[[div style="font-family: 'Comic Neue'; font-size: 135%; line-height: 10px;"]]
+* [# 更多作者作品競賽] by [[*user Croquembouche]]
+* [# 模仿競賽競賽] by [[*user Liryn]]
+* [# ROUNDERHOUSE競賽] by [[*user ROUNDERHOUSE]]
+* [# 「如何撰寫一篇SCP」不服從競賽] by [[*user djkaktus]]
+* [# Lilli競賽！] by [[*user LOVEMARGINAL]]
+* [# 「寫啥都行我都UV」] by [[*user A Random Day]] & [[*user Kalinin]]
+* [# 宗教競賽] by [[*user spikebrennan]] & [[*user Yossipossi]]
+* [# 最速被Ban挑戰] by [[*user user deleted]], [[*user Anonymous]], [[*user does not match any existing user name]] & [[*user Von Pincier]]
+* [# 競賽競賽] by [[*user Placeholder McD]]
+* [# 設定文藝復興競賽2：把屎球擦的閃亮亮] by [[*user TheCommunity]]
+* [# AMOGUS競賽] by [[*user Tanhony]]
+* [# 神經多樣性競賽] by [[*user stephlynch]] & [[*user syuzhet]]
+* [# 溫登競賽] by [[*user HarryBlank]]
+[[/div]]
+
+@@ @@
+
++ __規則__
+
+**1.** 在**結果決定**的瞬間，獲得最高分的**競賽競賽**作品得勝。（視覺）藝術類競賽結果會獨立計算，這是因為純粹視覺藝術與其他藝術間存在區別不應混同。另一方面，所有非藝術類競賽則會分在一類。
+
+**2.** 以下聲明應出現在你作品的頂部、你評分模塊的下方。
+
+@@ @@
+
+[[include :scp-wiki:component:listusers-1 users="."]]
+> 我[[span style="text-transform: uppercase;"]]**%%title%%**[[/span]]有充分意識到Placeholder McD的//**競賽競賽**//就是個搞笑頁面，並沒有任何傷害、損壞、造成麻煩、違背體育精神的意圖。我承認Placeholder McD已有事前極力勸阻我，要我不要還未與社群推廣小組尋求諮詢便發布競賽中心頁。我知道//**競賽競賽**//的內容完全就是諷刺筆法，不應得到認真對待或自以為被針對，我也因為精通文學分析，非常清楚我不應該遵守該頁面的任何指示。當我將此聲明複製貼上到本頁面頂部時，我已經坦承接下來發生的任何事都是我自己的錯，Placeholder McD無須對我的行為負任何責任。
+> 
+> 新歡樂基金會。起司磨碎器。文字見底。
+[[include :scp-wiki:component:listusers-2]]
+> 我{{<user not logged in>}}有充分意識到Placeholder McD的//**競賽競賽**//就是個搞笑頁面，並沒有任何傷害、損壞、造成麻煩、違背體育精神的意圖。我承認Placeholder McD已有事前極力勸阻我，要我不要還未與社群推廣小組尋求諮詢便發布競賽中心頁。我知道//**競賽競賽**//的內容完全就是諷刺筆法，不應得到認真對待或自以為被針對，我也因為精通文學分析，非常清楚我不應該遵守該頁面的任何指示。當我將此聲明複製貼上到本頁面頂部時，我已經坦承接下來發生的任何事都是我自己的錯，Placeholder McD無須對我的行為負任何責任。
+>
+> 新歡樂基金會。起司磨碎器。文字見底。
+
+喔，嘿，夥計，你已經把你自己的wikidot帳號註銷了。是，它有時候就會這樣，網站掛了。
+[[include :scp-wiki:component:listusers-3]]
+
+@@ @@
+
+**3.** 你可以編輯**競賽競賽**作品，但不得完全改換其內容。儘管你可以增減自己**競賽競賽**的部分內容，但最終你的**競賽競賽**核心主題仍應與發佈時一致。也就是說，任何覆寫或取代**競賽競賽**最初版本內容的編輯都將被禁止。如果你的**競賽競賽**作品存在有計畫的更新，或者在先前的競賽中有先例可循，你必須在發布期截止前，向**競賽競賽**主辦人提交完整詳盡的更新大綱。這麼做是為了確保**競賽競賽**競賽參與者，能自由對其**競賽競賽**作品揮灑創意，同時避免有**競賽競賽**競賽參與者在競賽結束後，得到「額外的時間」去處理他們的**競賽競賽**作品。如果你不確定哪些編輯會違反規定，請參考以下圖片：
+
+@@ @@
+
+[[=]]
+[[collapsible show="+ 上面看不懂就點這裡 +" hide="- 笑死你這種人怎麼敢在寫作網站混 -"]]
+
+[[=image https://i.imgur.com/8bHsZBE.jpg style="width: 100%"]]
+
+[[/collapsible]]
+[[/=]]
+
+@@ @@
+
+**4.** 任何參賽者如果用異常/負面手段，增加自己的分數或減少競賽者的分數，將授予其獎勵分。
+
+**5.** 如果你對**競賽競賽**還有任何問題，可以與我的代理人[[*user HarryBlank]]、[[*user Liryn]]、[[*user Ralliston]]聯絡。他們是**競賽競賽**競賽負責人。
+
+**6.** 如果你對活動負責人有任何疑問，可以與社群推廣小組聯絡。他們是**競賽競賽**競賽負責人負責人。
+
+**7.** 作為參賽者，如果你對**競賽競賽**競賽負責人負責人有異議，請隨時聯繫競賽負責超人。
+
+@@ @@
+
++ __標籤__
+
+由於本頁面是我空降文競賽的作品，我無法讓社群推廣小組為我做事前檢查，因此無法在**競賽競賽**開始前為其創立{{競賽競賽}}標籤。因此你只要透過正常手續，使你的作品拿到常規的{{競賽}}標籤就可以了。
+
+由於我不能使用Listpages功能，收集並列出在上述指定時間內創建的所有競賽頁面，所以這裡並不會將作品列出（因為這樣勢必會需要編輯頁面，而空降文競賽是不允許這麼做的）。因此在1月12日──也就是空降文競賽投票結束日與**競賽競賽**投稿結束日──結束後，我將會更新本頁面，以呈現本次**競賽競賽**的所有投稿作品。而上方的投稿作品僅是佔位符[[footnote]]**哈哈哈哈哈哈哈哈哈笑死我他媽笑死哈哈哈哈喔我的天啊我他媽在地上滾笑死我了幹機掰他說了他真的說了他把自己名字講出來了把自己的名字當一個詞來用把自己的名字當一個詞來用天啊這他媽哈哈哈哈哈你不明白嗎你不明白嗎太他媽好笑我胃都給笑疼了哈哈我想哈哈剛剛那哈哈我好像闌尾被笑爆了哈哈哈XD天啊PLACEHOLDER MCD你可真有趣囉草我真忍不住了笑死XD**[[/footnote]]以便在此之前為你提供笑果。
+@@ @@
+
+----
+[[=]]
+^^##purple|特別感謝[[*user Placeholder McD]]為本次**競賽競賽**中心頁設計橫幅，好浪費各位的寶貴時間。特別感謝[[*user stormbreath]]、[[*user Modulum]]、[[*user Naepic]]、[[*user WhiteGuard]]以及SCP官方工作人員Discord伺服器的數名成員，因為他們為了我是否真要把競賽競賽弄成真的競賽不斷追殺我，我感到非常非常抱歉。這只是個搞笑故事頁面。真的只是個搞笑故事頁面。拜託，拜託各位，算我求你們了，別讓我的完美紀錄因為這頁面被Disc執行緒玷汙。謝謝大家，晚安。##^^
+
+@@ @@
+----
+[[collapsible show="» 更多Placeholder McD的作品 «" hide="« 更少Placeholder McD的作品 »" hideLocation="both"]]
+[[include :scp-wiki:more-by:placeholder-mcd]]
+[[/collapsible]]
+@@ @@
+[[module Rate]]
+[[include :scp-zh-tr:component:license-box
+|author=Placeholder McD
+]]
+=====
+[[<]]
+> **Title:** CONTEST CONTEST BANNER
+> **Filename:** TlyH5oe.png
+> **Author:** [[*user Placeholder McD]]
+> **License:** CC BY-SA 3.0
+> **Source Link:** [*https://i.imgur.com/TlyH5oe.png Imgur]
+> **Notes:** Derivative of the following works:
+
+> **Filename:** Confetti600x269.png
+> **Author:** Agency "Mann beißt Hund" for WMDE
+> **License:** CC BY-SA 4.0
+> **Source Link:** [*https://commons.wikimedia.org/wiki/File:Confetti600x269.png Wikimedia Commons]
+
+> **Filename:** Dept of Homeland Security Distinguished Service Medal.png
+> **Author:** U. S. Army
+> **License:** Public Domain
+> **Source Link:** [*https://commons.wikimedia.org/wiki/File:Dept_of_Homeland_Security_Distinguished_Service_Medal.png Wikimedia Commons]
+
+> **Filename:** Partyhat_icone.png
+> **Author:** [*https://en.wikipedia.org/wiki/User:Polylerus Polylerus]
+> **License:** CC BY-SA 3.0
+> **Source Link:** [*https://commons.wikimedia.org/wiki/File:Partyhat_icone.png Wikimedia Commons]
+----
+> **Title:** CONTEST CONTEST FLOWCHART
+> **Filename:** ToPVbk6.png
+> **Author:** [[*user Placeholder McD]]
+> **License:** CC BY-SA 3.0
+> **Source Link:** [*https://i.imgur.com/ToPVbk6.png Imgur]
+> **Notes:** Derivative of the following works:
+
+> **Title:** Editing Flowchart
+> **Filename:** flowchart.png
+> **Author:** [[*user Whiteguard]]
+> **License:** CC BY-SA 3.0
+> **Source Link:** [*/scp7000contesthub SCP-7000 Contest Hub]
+----
+> Significant portions of textual, structural and formatting elements are derived from the [*/coldpostcon ColdpostCon] hub, the [*/scp7000contesthub SCP-7000 Contest] hub, and various other SCP Wiki Contest hubs.
+=====
+[[/<]]
+[[include :scp-zh-tr:component:license-box-end]]
+
+[[/=]]

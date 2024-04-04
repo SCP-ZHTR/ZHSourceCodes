@@ -1,0 +1,170 @@
+[[include info:start]]
+原文：[http://www.scp-wiki.net/experiment-log-914-hub Experiment Log 914 - Hub]
+作者：[[*user cutefish]]
+譯者：[[*user vomiter]]
+[[include info:end]]
+
+[[include :scp-wiki:component:black-highlighter-theme-dev]]
+
+[[=]]
+[[div style="display: inline-block; border-radius: 4px; border:solid 2px #444444; background:#FCFCFC; float:top; width:80%; padding:20px; color:#222222"]]
+[[size xx-large]]**Site-19 23號設施 卷宗**[[/size]]
+-----
+[[<]]
+++ 基本資訊
+
+**建立於：** 1988年12月12日
+
+**位置：** 美國[已編輯]
+
+**掩蓋故事：** [已編輯] 政府的倉庫
+
+**功能：** [[[SCP-914]]]的收容與研究、異常物件的收容
+
+**大小：** 面積0.025平方公里
+
+**人員**
+
+* **設施主管：** 亞瑟 ‧ 哈克特博士
+* **收容主管：** 麻里沙 · 諾伍德博士
+* **警衛隊長：** 阿蘭 ‧ 席德納特工
+
+* **行政人員：** 18
+* **維護人員：** 21
+* **研究人員：** 47
+* **D級人員：** 25
+* **其他：** 4
+
+++ 設施平面圖
+[[/<]]
+[[div style="border:solid 1px #222222; background:#FFFFFF"]]
+[[image https://i.imgur.com/8FumnnG.jpg link="https://i.imgur.com/8FumnnG.jpg"]]
+[[/div]]
+[[div style="border:solid 1px #222222; background:#EEEEEE"]]
+**設施布局 (點擊放大)**
+[[/div]]
+> [[collapsible show="[+ 細節說明 +]" hide="[- 細節說明 -]" hideLocation="both"]]
+> [[<]]
+> **停車場：** 設施建築後方的一片平坦混凝土區域。此設計目的為使運輸異常物件時的可見性最小化。
+> 
+> **站點自助餐廳：** 在指定用餐時段為站點內人員提供飲食的空間。
+> 
+> **食物倉庫/廚房：** 用於儲藏與處理食物的空間。基於距離考量，食物和水會每天被配送至23號設施並被儲存在這裡。隨後食物會經過烹煮並提供給站內人員。
+> 
+> **維護人員辦公室：** 維護人員（包含安全管理工作人員與清潔人員等）的辦公室。
+> 
+> **休息室：** 工作人員在非勤務時間可以使用此房間以休息。由於2019年4月10日的事故，休息室的內部稍微寬闊一些。
+> 
+> **人員住所：** 為非D級人員的站內人員住宿提供的設施內兩層區域。個別房間與結構並未呈現在圖上。
+> 
+> **研究人員辦公室：** 研究人員的辦公室。高級研究員的辦公室位於黃綠色的區塊。
+> 
+> **多功能會議室：** 可以用於會議、報告與研討會。
+> 
+> **行政人員辦公室：** 行政人員的辦公室。
+> 
+> **研究間 109-B：** 存放SCP-914的空間。該研究間的地板被稍微墊高並在SCP-914下方舖有鐵片，以此避免靜電造成的損害。
+> 
+> **焚化爐：** 存放焚化爐的空間，用於銷毀機密資料。偶爾該焚化爐也會被用於銷毀SCP-914產生的物件。[[footnote]]這類情況被明定於SCP基金會對異常現象處理政策第三節與倫理委員會判決10A-0344（對未經許可的異常無效化行為之追溯性認可）。[[/footnote]]
+> 
+> **研究間 109-A：** 用於儲放SCP-914產物的空間。
+> 
+> **初步測試室：** 用於對異常產品進行初步測試的實驗室。異常產品的各項特性與效應會以各種方式被記錄，若該物件有足夠研究價值可能會被送往主要設施以進行進一步檢驗。
+> 
+> **D級人員住所：** 為D級人員住宿提供的設施內區域。個別房間與結構並未呈現在圖上。
+> [[/<]]
+> [[/collapsible]]
+
+[[<]]
+++ 額外資訊
+
+位於[已編輯]的Site-19 23號設施是專門收容[[[SCP-914]]]與其產物的設施建築。該設施是在更大的Site-19指揮體系管理之下。
+
+23號設施最初於1988年作為獨立的複數大型異常收容設施。隨著2008年異常物件A██████被重新分類為SCP-914，它被遷移至23號設施，同時該設施也被改造為專為SCP-914研究所用的研究用建築物。前Site-19 Euclid級收容主管的Charles Gears博士被調往23號設施以監控其研究。對SCP-914的研究從該年9月9日開始。
+
+2017年4月期間，23號設施經歷擴建與部分重建以容納數量漸增的研究員與數年來累積的大量試驗產物。亞瑟 · 哈克特博士與路西烏斯 · 瓦里塔斯博士被調往23號設施接替Charles Gears博士的工作，兩人分別擔任行政方面與研究方面的主管。
+
+[[module ListPages limit="1" category="*" order="updated_at desc"]]
+截至%%updated_at|%d/%m/%Y%%，23號設施已經對SCP-914進行過████次個別試驗。如需查閱所有試驗的紀錄請用下方連結。
+[[/module]]
+
+[[=]]
+> [[collapsible show="[+ 實驗紀錄 +]" hide="[- 實驗紀錄 -]" hideLocation="both"]]
+>
+> [[[http://www.scp-wiki.net/experiment-log-914/offset/0 | Part I]]]
+>
+> [[[http://www.scp-wiki.net/experiment-log-914/offset/1 | Part II]]]
+>
+> [[[http://www.scp-wiki.net/experiment-log-914/offset/2 | Part III]]]
+>
+> [[[http://www.scp-wiki.net/experiment-log-914/offset/3 | Part IV]]]
+>
+> [[[http://www.scp-wiki.net/experiment-log-914/offset/4 | Part V]]]
+>
+> [[[http://www.scp-wiki.net/experiment-log-914/offset/5 | Part VI]]]
+>
+> [[[http://www.scp-wiki.net/experiment-log-914/offset/6 | Part VII]]]
+>
+> [[[http://www.scp-wiki.net/experiment-log-914/offset/7 | Part VIII]]]
+>
+> [[[http://www.scp-wiki.net/experiment-log-914/offset/8 | Part IX]]]
+>
+> [[[http://www.scp-wiki.net/experiment-log-914/offset/9 | Part X]]]
+>
+> [[[http://www.scp-wiki.net/experiment-log-914/offset/10 | Part XI]]]
+>
+> [[[http://www.scp-wiki.net/experiment-log-914/offset/11 | Part XII]]]
+>
+> [[[http://www.scp-wiki.net/experiment-log-914/offset/12 | Part XIII]]]
+>
+> [[[http://www.scp-wiki.net/experiment-log-914/offset/13 | Part XIV]]]
+> [[/collapsible]]
+[[/=]]
+-----
+[[footnoteblock title=""]]
+[[/<]]
+[[/div]]
+
+[[image https://scp-wiki.wdfiles.com/local--files/experiment-log-914-hub/decoration.png link="#" style="display: inline-block; width:90%; padding:60px 0px; background=#000000"]]
+
+[[div style="display: inline-block; border-radius: 4px; border:solid 2px #444444; background:#FCFCFC; float:top; width:80%; padding:10px; color:#222222"]]
+[[size x-large]]**如何新增內容**[[/size]]
+[[size x-small]]添加條目時的可參考資源[[/size]]
+[[size x-small]]（目前未針對繁中使用者進行優化）[[/size]]
+-----
+**[[[SCP-914]]]** 作者： [[*user Dr Gears]]
+> 這是SCP-914的本文。你可以從中找到有關它外觀、組成以及其他性質的資訊。
+
+**[[[http://www.scp-wiki.net/sandbox:914-test-logs | SCP-914實驗紀錄沙盒（英文）]]]**
+> 這是實驗紀錄的沙盒。任何人都可以在上面發表他們的紀錄條目，而版主（[[*user Leveritas]]）會把其中優良的條目新增到正式網站上的實驗紀錄中。如果想知道有那些東西會被增刪，請參考下方的正式指導。你可以對你的條目寫一些非世界觀內的註解，也可以讓其他成員幫忙看看你的條目。
+
+**[[[scp-914-experiment-log-guidelines | 實驗紀錄正式指導]]]** 作者： [[*user Leveritas]]
+> 這是有關新增SCP-914實驗紀錄的正式指導。沙盒中的內容會根據本文進行增刪。
+[!--
+**[[[https://discord.gg/48qAQqW | SCP-914 Discord 伺服器（英文）]]]**
+> 這是SCP-914的非官方Discord伺服器，你可以在其中找人幫忙對你的原創內容給一些點子和意見
+--]
+[[/div]]
+[[/=]]
+
+[[include :scp-zh-tr:component:license-box
+|author= CuteFish]]
+=====
+> **檔案名稱：** 8FumnnG.jpg
+> **圖像作者：** [[*user Mang Gwan]]
+> **文字譯者：** [[*user vomiter]]
+> **圖像授權協議：** CC BY-SA 3.0
+> **圖源連結：** [[[https://i.imgur.com/8FumnnG.jpg|Imgur]]]
+> **衍生自：**
+> ------
+> **檔案名稱：**  914enlarged.png
+> **圖像作者：** [[*user CuteFish]]
+> **圖像授權協議：** CC BY-SA 3.0
+> **圖源連結：** [[[http://www.scp-wiki.net/experiment-log-914-hub|Experiment Log 914 - Hub]]]
+
+> **檔案名稱：** decoration
+> **圖像作者：** [[*user CuteFish]]
+> **圖像授權協議：** CC BY-SA 3.0
+> **圖源連結：** [[[http://www.scp-wiki.net/experiment-log-914-hub|Experiment Log 914 - Hub]]]
+=====
+[[include :scp-zh-tr:component:license-box-end]]

@@ -1,0 +1,11 @@
+**作品列表：**
+
+[[module Listpages category="*" tag="原創" created_by="Jhih" separate="no" perPage="1000"]]
+# [[[%%fullname%%|%%title%%]]] 評分： %%rating%%
+[[/module]]
+
+等我有想法我會再來修。
+
+[[collapsible show="+ 當你的作品得到的分數恰到好處時.png" hide="- ✋(*˘- ˘*) 👌"]]
+[[image https://i.imgur.com/ekppksi.png]]
+[[/collapsible]]

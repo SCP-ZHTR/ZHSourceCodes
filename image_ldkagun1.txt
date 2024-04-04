@@ -1,0 +1,6 @@
+image: 'https://i.imgur.com/bg8etkx.jpg'
+owner: 'Edward Knave'
+owner-wiki: edward-knave
+license: '0'
+other-license: ''
+note: 攝於高雄市簡單生活商旅，人類紀元12019年初。

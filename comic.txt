@@ -1,0 +1,62 @@
+[[include info:start]]
+**篇名：**Ctrl Z博士從週刊上剪下的四格漫畫
+**作者：** [[*user Control Z]]
+----
+
+[[=]]
+[*http://scp-zh-tr.wikidot.com/bangyen Ctrl Z博士的辦公室]
+[[/=]]
+
+[[include info:end]]
+
+[[include component:image-block
+    name=https://imgur.com/srZc3y7.jpg |
+    caption=跑酷！ |
+    align=center |
+    width=90%
+]]
+@@ @@
+----
+@@ @@
+[[include component:image-block
+    name=https://imgur.com/2SAZVeW.jpg |
+    caption=真的是蠻屌的 |
+    align=center |
+    width=90%
+]]
+@@ @@
+----
+@@ @@
+[[include component:image-block
+    name=https://imgur.com/VeyDpEp.jpg |
+    caption=炸啦哪次不炸 |
+    align=center |
+    width=90%
+]]
+@@ @@
+----
+@@ @@
+[[include component:image-block
+    name=https://imgur.com/DW3zCKG.jpg |
+    caption=站點都市傳說 |
+    align=center |
+    width=90%
+]]
+@@ @@
+----
+@@ @@
+[[include component:image-block
+    name=https://imgur.com/uwlD68k.jpg |
+    caption=既然都是獨眼貓那我們就是朋友了 |
+    align=center |
+    width=90%
+]]
+@@ @@
+----
+@@ @@
+[[include component:image-block
+    name=https://imgur.com/GWdgyEa.jpg |
+    caption=There is 1 PEANUT among us. |
+    align=center |
+    width=90%
+]]

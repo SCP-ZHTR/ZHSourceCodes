@@ -1,0 +1,7 @@
+[[include info:start]]
+原作者 : [[*user NocturnalT]]
+[[include info:end]]
+
+
+[[include component:image-block name=https://i.imgur.com/5mDEO4R.jpg|caption=Site-ZH-16]]
+[[include component:image-block name=https://i.imgur.com/A4EM2QT.jpg|caption=炸炸饅印章]]

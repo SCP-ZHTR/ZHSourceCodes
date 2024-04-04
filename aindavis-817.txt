@@ -1,0 +1,296 @@
+[[include :scp-zh-tr:component:site-zh-44]]
+ [[# A]]
+> 請注意，本檔案更新中。
+> [[>]]
+> 完成日期：遙遙無期
+> [[/>]]
+
+[[tabview]]
+[[tab 作品資料夾]]
+[[size larger]]**__SCP相關創作__**[[/size]]
+
+[[size larger]]**《項目》**[[/size]]
+
+[http://scp-zh-tr.wikidot.com/scp-zh-962 SCP-ZH-962 - 似是而非]  與[[*user samscript]]的合著作品
+ 
+ 
+[[size larger]]**《故事》**[[/size]]
+
+[http://scp-zh-tr.wikidot.com/greening 站點綠化提案] [[collapsible show="▲關於站點綠化提案，來自Ain的一則留言" hide="關閉留言"]]
+>
+> [[=]]
+> 我接到許多關於綠化提案的電話，介於各種流言確實導致許多人工作不寧，因此所以我在這裡統一回答：
+> 不，我的興趣不是把人活埋。是，那是我策劃的。
+> 所謂的真正綠化提案究竟存不存在、會重啟嗎？
+> ████████並且以本人的名義████以及██
+> 17.08.001-3
+> [資料刪除]
+> [[/=]]
+[[/collapsible]]
+
+[http://scp-zh-tr.wikidot.com/head 首級]
+
+[http://scp-zh-tr.wikidot.com/tidal 潮間時分]
+
+[http://scp-zh-tr.wikidot.com/fridge 冰箱]
+
+[http://scp-zh-tr.wikidot.com/one-of-the-secrets 表層變動] ☆ 2021年03月展出作品
+
+[http://scp-zh-tr.wikidot.com/nice-to-see-you 故人聚首]
+
+[http://scp-zh-tr.wikidot.com/identification-card 識別證]
+
+[http://scp-zh-tr.wikidot.com/after-i-left 我走後]
+
+[[[anthurium|火鶴花]]]
+
+[[size larger]]**《合著故事》**[[/size]]
+
+[http://scp-zh-tr.wikidot.com/cat-day 貓耳日] 負責部分：光圈先決
+
+[http://scp-zh-tr.wikidot.com/multiversal-valentine 歡迎，敬啟者] 負責部分：第三黎明
+
+[[size larger]]**《藝術作品》**[[/size]]
+
+[http://scp-zh-tr.wikidot.com/ain-draw-something 阿因的藝作合輯1]
+
+@@ @@
+----
+[[size larger]]**__原創故事__**[[/size]]
+
+[[size larger]]**《單篇故事》**[[/size]]
+
+[[[ignore|視而不見]]] ☆ 2023年10月展出作品
+
+[http://scp-zh-tr.wikidot.com/wanderers:full-of 滿桌的○○] ☆ 2023年8月展出作品
+
+[http://scp-zh-tr.wikidot.com/wanderers:pershana-s-diary#side-bar 珀沙那的日記] ☆ 2023年2月展出作品
+
+[[[fleeting|轉瞬即逝]]]
+
+[http://scp-zh-tr.wikidot.com/wanderers:long-winter 長冬] ☆ 2024年1月展出作品
+
+
+[[size larger]]**《系列：星間狂想》**[[/size]]
+
+[[[wanderers:star-maker|星星製造者]]] ☆ 2021年09月展出作品
+
+[[[wanderers:eos-and-sun|太陽禁止進入]]] ☆ 2022年11月展出作品
+
+[[[wanderers:bar-story|人類、空賊和治安官走進酒吧]]]
+
+
+@@ @@
+----
+[[collapsible show="記錄用" hide="收起"]]
+[[module Listpages category="*" tag="+原創 -附加資料" created_by="Aindavis_817" separate="no" perPage="100" order="created_at" prependLine="發表順序 | 篇名 | 發表日期 |  評分 "]]
+#  %%title_linked%% | %%created_at%% | (%%rating%%)
+[[/module]]
+[[/collapsible]]
+
+
+[[>]]
+[#A ▲【返回上方】]
+[[/>]]
+[[/tab]]
+
+
+[[tab 主要人物資訊]]
+[[size larger]]**《Site-ZH-44 資源主任》**[[/size]]
+
+**Ain**
+
+登記名稱：Annice I███ Norton
+通用稱呼：Ain
+性別：女
+年齡：30
+所屬站點：Site-ZH-44
+當前職務：資源部主任
+職務內容：站內資金運轉與改革等事項
+
+**簡介：**
+正式名稱為 Annice I. Norton，但日常中鮮少有人以此方式稱呼她，她也不習慣有人在正式場合外的時間這麼稱呼自己。
+
+過去為三垣直屬的機動性職員，並與火鶴花搭檔行動，無明確所屬站點，申請駐站後轉調至44站擔任資源部主任。
+工作狂，重視工作效率，性格嚴肅且直接，對不熟悉的人事物相當冷血，對熟識的人則有相對溫和的一面。厭惡任何計畫外的突發狀況。
+
+
+**出場作品**[[footnote]]僅列出我寫的作品[[/footnote]]
+[http://scp-zh-tr.wikidot.com/greening 站點綠化提案] 
+[http://scp-zh-tr.wikidot.com/cat-day 貓耳日][[footnote]]此為合著作品[[/footnote]] 光圈先決部分
+[http://scp-zh-tr.wikidot.com/fridge 冰箱] 
+[http://scp-zh-tr.wikidot.com/one-of-the-secrets 表層變動] 
+[http://scp-zh-tr.wikidot.com/nice-to-see-you 故人聚首] 
+[http://scp-zh-tr.wikidot.com/scp-zh-962 SCP-ZH-962 - 似是而非] 
+[http://scp-zh-tr.wikidot.com/identification-card 識別證]
+[[[anthurium|火鶴花]]]
+[[[ain-draw-something|阿因的藝作合輯1]]]
+@@ @@
+[[collapsible show="辦公室內的冰箱似乎有東西，要打開看看嗎？" hide="記得關冰箱門，冰東西要寫名字，週五下班時間固定清理無所屬的物品"]]
+
+冰箱裡有一條吐司、幾種吐司配醬和幾包冷凍薯條。
+
+[[/collapsible]]
+
+
+> [[=]]
+> [[size larger]]**《寫作注意事項》**[[/size]]
+> [[/=]]
+> 描寫Ain這個角色的幾個簡單準則：
+>
+> 1. 集嚴肅、撲克臉、工作狂為一體的存在。
+> 2. 討厭任何不在計劃上的變化。例：遲到。
+> 3. Ain的警戒心相當重，不會輕易相信他人，不會心軟，更不會對陌生人施予同情等態度。
+> 4. **不會隨便攻擊別人。** 鑒於有聊天室玩梗的情況，我認為這點必須加粗提醒，即使是某位銀髮女僕也不會沒有理由的打下去。
+> 5. Ain或AIN兩者寫法都正確。
+> @@ @@
+>  如果還是有不確定的部分，歡迎至官方Discord群組請人幫忙召喚我回答你的疑惑。
+> @@ @@
+Ain博士標籤
+[[module ListPages created_at= rating="<100" tags="+Ain博士" perPage="15" separate="no" order="created_at"]]
+# %%created_at%% %%title_linked%% by %%created_by%% (%%rating%%)
+[[/module]]
+
+[[>]]
+[#A ▲【返回上方】]
+[[/>]]
+[[/tab]]
+
+[[tab 其他人物資訊]]
+
+[[# A]]
+[[toc title="目錄"]]
+
+[[=]]
+++ [[size larger]]**《特工》**[[/size]]
+[[/=]]
+> **火鶴花**
+> 男性，年齡大於AIN，紅髮是後天染成
+> --當前所屬站點：Site-ZH-44-- **叛離SCP基金會，當前下落不明**[[footnote]]「我可能在紐西蘭。」[[/footnote]]
+> [[collapsible show=" 職務：機動性特工……？" hide="「繼續前進，不要回頭。」"]]
+> 過去是直屬三垣的機動性特工，與Ain一起在各站點與區域為三垣辦事，與Ain拆夥後進入三垣直屬機動特遣隊「脈動節點」參與特殊計畫，一度升職為隊長[[footnote]]「你懂得，隊長這位子不好做，稍微惹上司不滿就會被踢下來。反正隊長的薪水沒有比較多。」[[/footnote]]。
+> 與Ain失聯多年。[[footnote]]「因為我們吵架了。」[[/footnote]]
+> [[/collapsible]]
+> 具有與敘事層對話的能力，時常被誤認為在自言自語或發神經。
+> 性格大膽開放，喜歡喝酒，不喜歡選邊站，認為自己每次選邊都會出錯。與Ain默契極佳。
+> 
+> **出場作品**
+> [[[nice-to-see-you|故人聚首]]] 主要角色
+> [[[scp-zh-962|SCP-ZH-962 - 似是而非]]] 主要角色
+> [[[anthurium|火鶴花]]] 主要角色
+> [[[ain-draw-something|阿因的藝作合輯1]]]
+> 
+> **寫作注意事項；**如果要寫這個角色，建議先讀過上方作品，並且不要濫寫其打破第四道牆的能力。[[footnote]]「但我被允許在這裡亂講話。嗨。」[[/footnote]][[footnote]]「等等，什麼叫『你只能在這個格子裡說話』？你有一整個專屬頁面能做任何事情，但我只能分到這塊格子？」[[/footnote]][[footnote]]「好吧，保持頁面整潔聽起來很合理。」[[/footnote]]
+> [[>]]
+> [#A ▲【返回目錄】][[footnote]]「掰。」[[/footnote]]
+> [[/>]]
+
+
+
+[[=]]
+++ [[size larger]]**《資源主任助理》**[[/size]]
+[[/=]]
+> **青竹**
+> 男性，45歲
+> 當前所屬站點：Site-ZH-44
+> 職務：資源主任助理。
+> Ain轉調於此進行人事整頓前就在44站工作的職員，曾經是前資源主任鬱呂的直系下屬。
+> 喜歡八卦和摸魚，但是技術不好總是會被發現在偷懶。
+> 不會主動提及過去的44站發生的事情，但可從他口中得知某些人稱呼過去的混亂時期為黑死病。
+> 
+> **出場作品**
+> [http://scp-zh-tr.wikidot.com/one-of-the-secrets 表層變動] 配角
+> [[[scp-zh-962|SCP-ZH-962 - 似是而非]]] 配角
+> [[[identification-card|識別證]]] 主要角色
+> [[[ain-draw-something|阿因的藝作合輯1]]]
+> [[>]]
+> [#A ▲【返回目錄】]
+> [[/>]]
+
+[[=]]
+++ [[size larger]]**《助理研究員》**[[/size]]
+[[/=]]
+> **謝士純**
+> 男性，24歲
+> 當前所屬站點：Site-ZH-02
+> 職務：助理研究員。與游安瑜為同期。
+> 於02站經歷初期培訓，經Ain的申請進入44站實習，後回到02站正式上工。
+> 
+> 容易猶豫，想法創新但做事手法保守，需要他人支持才敢展開行動，時常被前輩們叮囑需要更勇於表現。
+> 經常與02站點的人工智慧Maddy[[[one-of-the-secrets|一起行動]]]。
+> 
+> **出場作品**
+> [http://scp-zh-tr.wikidot.com/greening 站點綠化提案] 主要角色
+> [http://scp-zh-tr.wikidot.com/head 首級] 主要角色
+> [http://scp-zh-tr.wikidot.com/one-of-the-secrets 表層變動] 主要角色
+> [[[scp-zh-962|SCP-ZH-962 - 似是而非]]] 配角
+> ----
+> **游安瑜**
+> 女性，24歲
+> 當前所屬站點：Site-ZH-26
+> 職務：助理研究員。與謝士純為同期。
+> 於02站經歷初期培訓，經Ain的申請後進入44站實習，後轉調至26站正式上工。
+> 認真進取、謙虛有禮，在海邊長大，對於海洋相關知識有相當程度的理解，大學主修也與此相關。
+> 
+> **出場作品**
+> [http://scp-zh-tr.wikidot.com/tidal 潮間時分] 主要角色
+> [[>]]
+> [#A ▲【返回目錄】]
+> [[/>]]
+
+[[=]]
+++ [[size larger]]**《人工智慧助理》**[[/size]]
+[[/=]]
+> **Maddy**
+> 當前所屬站點：Site-ZH-02
+> 以機械擬真頭顱為移動載體的人工智慧，多數時間於Site-ZH-02的員工餐廳食堂入口駐點，擺放位置據傳與風水有關。主要用途為站內基礎設施說明與路線引導，類似於資訊服務站。
+> 
+> 喜歡與他人攀談社交。不具備自行移動的能力，時常要求別人將自己順路帶去他處，在結識職員謝士純後，這件事大多由他負責，時常能看見兩者[[[one-of-the-secrets|一起行動]]]。
+> 
+> **出場作品**
+> [http://scp-zh-tr.wikidot.com/head 首級] 主要角色
+> [http://scp-zh-tr.wikidot.com/one-of-the-secrets 表層變動] 主要角色
+> [[[scp-zh-962|SCP-ZH-962 - 似是而非]]] 配角
+> 
+> [[>]]
+> [#A ▲【返回目錄】]
+> [[/>]]
+
+[[=]]
+++ [[size larger]]**《醫療人員》**[[/size]]
+[[/=]]
+> **時雅蓮**
+> 女性，年齡未知
+> 當前所屬站點：Site-ZH-44
+> 職務：護理長
+> 溫和和藹的女士，因負責站點人員的醫療狀況整合而對於各人員的身體狀況瞭若指掌。
+> 會溫柔的依照天氣和個人狀況提醒他們注意自身的健康。遇到困難的人員常常去她那裡小坐聽取建言。
+> 處理完傷口會給予一顆水果糖，然後提醒吃完糖果要刷牙，不吃糖的人則給予一塊蘇打餅乾。
+> 
+> **出場作品**
+> [http://scp-zh-tr.wikidot.com/one-of-the-secrets 表層變動] 配角
+> ----
+> **張懿承**
+> 男性，26歲
+> 當前所屬站點：Site-ZH-44
+> 職務：護理員。
+> 除了簡易傷病處置以外，其他時間也負責協助資源部的基礎醫療用品發派。
+> 急性子，有任何不滿都會直接去資源部申請經費調整，
+> 通常會因此被要求把公文重新看十遍，發現是自己看錯後遭主任驅逐。
+> [[>]]
+> [#A ▲【返回目錄】]
+> [[/>]]
+
+
+[[/tab]]
+
+[[tab 玻璃展示櫃]]
+[[=]]
+> 【[[[jamcon-zh-2023|繁中急迫競賽 2.0]]]-電電參加獎】
+> [[image https://i.imgur.com/t2YInKJ.png width="150px"]]
+[[/=]]
+
+
+
+[[/tab]]
+[[/tabview]]

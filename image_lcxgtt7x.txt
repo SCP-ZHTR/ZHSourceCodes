@@ -1,0 +1,6 @@
+image: 'https://imgur.com/monrTld.jpg'
+owner: 狗蟻
+owner-wiki: s97169
+license: '0'
+other-license: ''
+note: '我原本要放我的臉的 但我都找不到 所以留白給你們填'

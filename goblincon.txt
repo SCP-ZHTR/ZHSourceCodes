@@ -1,0 +1,176 @@
+[[include info:start]]
+原文：[https://scp-wiki.wikidot.com/goblincon GoblinCon] 哥布林競賽
+作者：[[*user Naepic]]
+譯者：[[*user Frederica Bernkastel]]
+[[include info:end]]
+
+[[image https://scp-wiki.wdfiles.com/local--files/goblincon/banner.png]]
+
+----
+
+兩年前的這一天，SCP-5257遭遇了一些技術問題，網站工作人員不得不鎖定這個項目編號，使其無法填上任何文章。在此之後又有四個SCP空槽成為此類故障的受害者。後來這些漏洞被我們稱為「**空槽哥布林**」。
+
+好的，現在這些故障已經修好啦，這些空槽可以自由使用了。為了慶祝這一點，我們將會舉辦「哥布林競賽」，好將這五個空槽哥布林填起來！為此我們幫每個空槽都準備了對應的競賽主題，你將有七天的時間為選定的//一個//空槽撰寫SCP文章。哥布林競賽開始！
+
+那這競賽有什麼了不起的地方呢？好吧，為了紀念這些空槽是刪除文章造成的結果──只能填上一篇文章！所有未能在競賽中取勝的文章（沒有獲得任何空槽哥布林編號的文章）將會被從維基上抹除！這是一場大逃殺，只有能站到最後的文章才能倖存下來！
+
+@@@@
+@@@@
+@@@@
+@@@@
+
+...
+
+@@@@
+@@@@
+@@@@
+@@@@
+
+呃，好吧，我們所謂的「將會被從維基上抹除」其實是**將會被隱藏兩週**的意思。我們實際上並不會刪除這些文章（除非作者親自要求），只會把它隱藏起來，以確保維持競賽氛圍的同時，你的UV與評論都能繼續保留。在兩週過後，請聯繫工作人員，我們將會把你的文章重新放到可用的SCP空位裡。
+
+[[=]]
++++ 空槽哥布林，主題以及贏家：
+++++ 3775 - 1976年班：[http://scp-zh-tr.wikidot.com/scp-3775  A Wild Party]
+++++ 5257 - 故障：[http://scp-zh-tr.wikidot.com/scp-5257  A Crappy Idea]
+++++ 6467 - 幻想哥布林：[http://scp-zh-tr.wikidot.com/scp-6467  Boblin the Goblin]
+++++ 6109 - 大逃殺：[http://scp-zh-tr.wikidot.com/scp-6109  Melitzah]
+++++ 6183 - 刪除：[http://scp-zh-tr.wikidot.com/scp-6183  黑 條]
+[[/=]]
+
++ 重要日期：
+
+**公告：** 東部時間2023年5月12日12:01 AM。
+**開始發布：** 東部時間2023年5月19日12:01 AM。
+**結束發布：** 東部時間2023年5月21日11:59 PM。
+**結果決定：** 東部時間2023年5月28日12:01 AM。
+**文章復歸：** 2023年6月11日
+
+[[iframe https://scpwiki.github.io/timer/timer.html?lang=en&time=2023-06-02T04%3A00%3A35.100Z&progress=Voting+ends+in style="width: 750px; height: 200px; border: 0; text-align: center;"]]
+
++ 參賽作品：
+
+[[=]]
+參賽作品將在2022年5月19日上午12:01發布期後出現在這裡
+[[/=]]
+
+++ SCP-3775 - 1976年班
+
+[[module ListPages category="_default" separate="no" tags="+goblincon2023 +_goblin-76" perPage="100" order="random"]]
+* [[size 120%]][[span style="font-weight: bold"]]%%title_linked%%[[/span]][[/size]] [[size 105%]]//by// [[span style="font-weight: bold"]]%%created_by%%[[/span]][[/size]]
+[[/module]]
+
+
+++ SCP-5257 - 故障
+
+[[module ListPages category="_default" separate="no" tags="+goblincon2023 +_goblin-glitch" perPage="100" order="random"]]
+* [[size 120%]][[span style="font-weight: bold"]]%%title_linked%%[[/span]][[/size]] [[size 105%]]//by// [[span style="font-weight: bold"]]%%created_by%%[[/span]][[/size]]
+[[/module]]
+
+++ SCP-6467 - 幻想哥布林
+
+[[module ListPages category="_default" separate="no" tags="+goblincon2023 +_goblin-goblin" perPage="100" order="random"]]
+* [[size 120%]][[span style="font-weight: bold"]]%%title_linked%%[[/span]][[/size]] [[size 105%]]//by// [[span style="font-weight: bold"]]%%created_by%%[[/span]][[/size]]
+[[/module]]
+
+++ SCP-6109 - 大逃殺
+
+[[module ListPages category="_default" separate="no" tags="+goblincon2023 +_goblin-royale" perPage="100" order="random"]]
+* [[size 120%]][[span style="font-weight: bold"]]%%title_linked%%[[/span]][[/size]] [[size 105%]]//by// [[span style="font-weight: bold"]]%%created_by%%[[/span]][[/size]]
+[[/module]]
+
+++ SCP-6183 - 刪除
+
+[[module ListPages category="_default" separate="no" tags="+goblincon2023 +_goblin-deletions" perPage="100" order="random"]]
+* [[size 120%]][[span style="font-weight: bold"]]%%title_linked%%[[/span]][[/size]] [[size 105%]]//by// [[span style="font-weight: bold"]]%%created_by%%[[/span]][[/size]]
+[[/module]]
+
+
+[[=]]
+[[collapsible show="+ 點此按順序查看參賽作品一覽 +" hide="- 點此縮回 -"]]
+
+[[module ListPages category="_default adult" separate="no" tags="+goblincon2023 -hub -donotshowupinmodule" perPage="100" order="created_at desc"]]
+* [[size 120%]][[span style="font-weight: bold"]]%%title_linked%%[[/span]][[/size]] [[size 105%]]//by// [[span style="font-weight: bold"]]%%created_by%%[[/span]][[/size]]
+[[/module]]
+
+[[/collapsible]]
+[[/=]]
+
+[[=]]
+恭喜[[*user Billith]]以其作品[[[SCP-6183]]]拿下了哥布林競賽的總冠軍！
+
+[[/=]]
+
++ 參賽須知：
+
+**這次競賽有點特別，請仔細閱讀！**
+
+
+**1.** 將你上傳的文章網址設為{{「goblincon-XXXX-[yourusername]」}}，{{XXXX}}是你要參賽的空槽編號，{{[yourusername]}}則是你的網站使用者名稱。你還應該給文章一個標題，格式是{{「SCP-XXXX - 你的標題」}}。
+
+舉例來說，如果我（stormbreath）在1976年班主題中投稿了名為「Kirk Lonwood社區學院」的文章，它的網址將會是{{「goblincon-3775-stormbreath」}}，而標題則是{{「SCP-3775 - Kirk Lonwood社區學院」}}。
+
+**2.** 加上「{{goblincon2023}}」標籤，這樣它就會顯示在這個頁面裡。
+
+**3.** 為你想要參加的主題添加對應的主題標籤。以下是可用的標籤一覽。
+
+「{{_goblin-76}}」對應SCP-3775
+「{{_goblin-glitch}}」對應SCP-5257
+「{{_goblin-goblin}}」對應SCP-6467
+「{{_goblin-royale}}」對應SCP-6109
+「{{_goblin-deletions}}」對應SCP-6183
+
+
+[[=]]
+-- **不要在發布開始前就上傳文章，這會讓你被取消資格！** --
+[[/=]]
+
++ 標籤：
+
+正如前文所述，只要在標籤加入「{{goblincon2023}}」你的文章就會出現在這個頁面上，你還需要加上主題標籤，以便讓我們知道你要參加的是哪個主題。如果你不排斥的話，我們也鼓勵你為自己的作品上標籤。為了讓流程更順利些，我們有[[[a-laymen-s-guide-to-tagging|標籤入門指南]]]以及[http://05command.wikidot.com/tech-hub-tag-list 所有當前標籤列表]可供參考。請在自上標籤時先查閱這這些資料，它們都會是很好的資源！
+
+[[=]]
+-- **但是為自己的作品上「{{scp}}」標籤是不行的！這只有標籤小組的成員能夠上標。** --
+[[/=]]
+
+如果你有任何疑問，請隨時向[http://05command.wikidot.com/maintenance-and-ancillary-staff-team-main#toc8 標籤小隊]的成員請求協助，你可以透過維基PM或[https://discord.gg/G8WypMXYNQ MAST官方Discord伺服器]聯繫他們。
+
++ 規則：
+
+* 友善對待他人。我們不會容忍不良行徑，這也可能導致你的參賽資格遭到撤銷。
+
+* 每個使用者只能上傳一篇作品，也__只能從五個主題中選一個參賽__ **合著是允許的，**但這將算作是所有合著者的一篇作品。合著作品也只能從五個主題中選一個參賽。
+
+* 不允許舊稿參賽。所有參賽作品都應該是新生的稿件。
+
+* 在發布期間允許編輯行為。在發布期結束後，將不再允許對文章的重大改動編輯。SPaG編輯是允許的，經競賽負責人批准的改動也是如此。
+
+* 由於時間較短的限制，本競賽無法以匿名方式投稿文章。
+
+* 獲獎者將由得分數決定。每個主題都會選出自己的第一名，全主題總得票數最高的作品則是優勝者。各主題的第一名文章將移入對應空槽哥布林的編號中，以作為他們的獎品。優勝者將能選擇一篇文章放上網站首頁。
+
+* 參賽作品也會遵循正常刪除程序。
+
+* 任何參賽者若採取非正常/消極行為，以求增加自己的總票數或者減少對手的總票數，將會被取消本次參賽資格，還有可能遭到禁止參與其他競賽，更可能在考慮相關行為後受到更進一步的紀律處分。破壞行徑包括但不限於：
+ * 在對手發布作品後幾分鐘便無條件DV其作品。
+ * 向其他使用者發送你作品相關的資訊。
+ * 惡意煽動UV/DV潮，無論是對你或對他人的作品。
+
+* 本次競賽的主持人是[[*user stormbreath]]、[[*user Modulum]]、[[*user Naepic]]、[[*user WhiteGuard]]。正如前文所述，如果你對競賽有任何問題，請隨時聯繫他們或[[[http://05command.wikidot.com/community-outreach-main|社群營運小組]]]。任何違反上述規則的作品、以上未列舉而違背體育精神的行為、或者有違競賽主題的投稿，競賽負責人都有權撤銷其參賽資格。所有決定都可以向負責人方提起上訴。
+
+------
+
+[[=]]
+^^特別感謝[[*user Modulum]]為本次競賽準備的橫幅設計！^^
+[[/=]]
+
+[[include :scp-zh-tr:component:license-box
+|author=Naepic
+]]
+=====
+> **Filename:** banner.png
+> **Name:** Goblin illustration from 19th century.jpg
+> **Author:** John Dickson Batten
+> **License:** Public Domain
+> **Source Link:** [http://commons.wikipedia.org/wiki/file:goblin_illustration_from_19th_century.jpg Wikimedia Commons]
+=====
+[[include :scp-zh-tr:component:license-box-end]]

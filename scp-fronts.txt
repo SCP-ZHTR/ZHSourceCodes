@@ -1,0 +1,38 @@
+[[include info:start]]
+作者：[[*user The Administrator]]
+篇名：SCP 前台組織
+原文：[https://scp-wiki.wikidot.com/scp-fronts SCP Fronts]
+
+譯者：[[user Mang Gwan]]
+[[include info:end]]
+SCP 基金會利用一些其他企業和組織的存在作為幌子來掩蓋自身的存在。他們既可以是附近的花店，乃至是跨國企業。以下是就是其中一小部份的網頁：
+----
+
+[[<image http://scp-wiki.wikidot.com/local--files/scp-fronts/SoapFromCorpses.jpg size="medium" link="*http://scp-inc.wikidot.com"]]
+[[span style="font-size:200%;line-height: 200%; color: #4ae;"]]屍皂珀股份有限公司 [[/span]]
+乾淨得就像在天堂那樣！
+//你的首選人屍製肥皂和皂鹼產品！享受無與倫比的潔淨以及沉浸在中泡沫的煥然一新，令你置信它那逆轉老化、細胞重生的魔力。//
+
+
+------
+
+[[<image http://scp-wiki.wikidot.com/local--files/scp-fronts/Skeptics.jpg size="medium" link="*http://scp-society.wikidot.com"]]
+[[span style="font-size:200%;line-height: 200%; color: #222;"]]{{思裁辟社}} [[/span]]
+//我們是一個要打破各種陰謀論者和超自然現象迷的愚昧迷思的懷疑論者社團。// 
+
+------
+[[<image http://scp-wiki.wikidot.com/local--files/scp-fronts/SouthCheyennePoint.jpg size="medium" link="*http://scp-069-j.wikidot.com"]]
+[[span style="font-size: 200%;line-height: 150%;color: #3f0c04;font-weight:bold;transform: scaleY(1.15);display: block;"]]{{夏安南角
+}} [[/span]]
+專為獨具慧眼的家庭而設的私人社區。
+//夏安南角是一個私人發展項目，旨在為居民營造一個完美的生活環境。入住申請僅在有空缺且進行一系列嚴格審查後接受辦理。目前我們的項目並沒有空缺。//
+
+
+[[include :scp-zh-tr:component:license-box author=The Administrator]]
+=====
+> **Filename:** All of the files present on this page
+> **Author:** [[*user far2]]
+> **License:** CC BY-SA 3.0
+> **Source Link:** [https://scp-wiki.wikidot.com/scp-fronts SCP Foundation Wiki]
+=====
+[[include :scp-zh-tr:component:license-box-end]]

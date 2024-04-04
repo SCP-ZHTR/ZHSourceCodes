@@ -1,0 +1,123 @@
+[[include :scp-wiki:theme:golden-feast]]
+
+[[include credit:start]]
+**原文標題：**[http://www.scpwiki.com/bangja-art 방자 푸드아트]
+**翻譯標題：**Bangja的美食藝術
+**作者：** [[*user Bangja]]
+**搬運：** [[*user Dr V Valentine]]
+**創作年：** 2020
+**搬運年：** 2021
+-----
+[[=]]
+[http://ko.scp-wiki.net/bangja ★]
+[[/=]]
+[[include credit:end]]
+
+
+**你好**
+@@@@
+@@@@
+@@@@
+[[collapsible show="SCP" hide="-"]]
+
+++++ [[[SCP-173]]] - 塑像 - 最初的作品
+[[image http://scp-wiki.wdfiles.com/local--files/bangja-art/1731.jpg]]
+@@ @@
+++++ [[[SCP-2521]]] - ●●|●●●●●|●●|●
+[[image http://scp-wiki.wdfiles.com/local--files/bangja-art/2521.jpg]]
+@@ @@
+++++ [[[SCP-3001]]] - 紅色現實
+[[image http://scp-wiki.wdfiles.com/local--files/bangja-art/3001.jpg]]
+[*http://www.scp-wiki.net/sunny-art-series-4 參考來源]
+[[/collapsible]]
+@@@@
+@@@@
+[[collapsible show="關注組織" hide="-"]]
+
+++++ [http://scp-zh-tr.wikidot.com/groups-of-interest#toc6 渾沌反叛軍]
+[[image http://scp-wiki.wdfiles.com/local--files/bangja-art/cha.jpg]]
+@@ @@
+++++ [http://scp-zh-tr.wikidot.com/groups-of-interest#toc13 第五教會]
+[[image http://scp-wiki.wdfiles.com/local--files/bangja-art/fif.jpg]]
+@@ @@
+++++ [http://scp-zh-tr.wikidot.com/groups-of-interest#toc21 MC&D]
+[[image http://scp-wiki.wdfiles.com/local--files/bangja-art/mcd.jpg]]
+@@ @@
+++++ [http://scp-zh-tr.wikidot.com/groups-of-interest#toc15 GOC]
+[[image http://scp-wiki.wdfiles.com/local--files/bangja-art/goc.jpg]]
+@@ @@
+++++ [http://scp-zh-tr.wikidot.com/groups-of-interest#toc28 蛇之手]
+[[image http://scp-wiki.wdfiles.com/local--files/bangja-art/spt.jpg]]
+@@ @@
+++++ [http://scp-zh-tr.wikidot.com/groups-of-interest#toc27 欲肉教]
+[[image http://scp-wiki.wdfiles.com/local--files/bangja-art/srk-min.jpg]]
+
+[[/collapsible]]
+@@@@
+@@@@
+[[collapsible show="韓分關注組織" hide="-"]]
+[http://ko.scp-wiki.net/groups-of-interest-ko 原版的]
+
+++++ 플러그소프트
+[[image http://scp-wiki.wdfiles.com/local--files/bangja-art/ps.jpg]]
+@@ @@
+++++ 한낮의 떡갈나무 유랑극단
+[[image http://scp-wiki.wdfiles.com/local--files/bangja-art/not.jpg]]
+@@ @@
+++++ 엔트로피를 넘어서
+[[image http://scp-wiki.wdfiles.com/local--files/bangja-art/be.jpg]]
+@@ @@
+++++ [http://scp-zh-tr.wikidot.com/dinodon-s-hand 赤鏈蛇之手]
+[[image http://scp-wiki.wdfiles.com/local--files/bangja-art/dh.jpg]]
+
+[[/collapsible]]
+@@@@
+@@@@
+[[collapsible show="O5 (銜尾蛇)" hide="-"]]
+[http://www.scpwiki.com/djkaktus-s-proposal-iii 參考]
+
+++++ O5-13 - 另一位主管
+[[image http://scp-wiki.wdfiles.com/local--files/bangja-art/13.jpg]]
+@@ @@
+++++ O5-12 - 會計
+[[image http://scp-wiki.wdfiles.com/local--files/bangja-art/12.jpg]]
+@@ @@
+++++ O5-11 - 說謊者
+[[image http://scp-wiki.wdfiles.com/local--files/bangja-art/11.jpg]]
+@@ @@
+++++ O5-10 - 檔案管理員
+[[image http://scp-wiki.wdfiles.com/local--files/bangja-art/10.jpg]]
+@@ @@
+++++ O5-9 - 局外人
+[[image http://scp-wiki.wdfiles.com/local--files/bangja-art/9.jpg]]
+@@ @@
+++++ O5-8 - 後輩
+[[image http://scp-wiki.wdfiles.com/local--files/bangja-art/8.jpg]]
+@@ @@
+++++ ##green|O5-7 - 綠色##
+[[image http://scp-wiki.wdfiles.com/local--files/bangja-art/7.jpg]]
+@@ @@
+++++ O5-6 - 美國人
+[[image http://scp-wiki.wdfiles.com/local--files/bangja-art/6.jpg]]
+@@ @@
+++++ O5-5 - 黑鳥
+[[image http://scp-wiki.wdfiles.com/local--files/bangja-art/5.jpg]]
+@@ @@
+++++ O5-4 - 大使
+[[image http://scp-wiki.wdfiles.com/local--files/bangja-art/4.jpg]]
+@@ @@
+++++ O5-3 - 小孩
+[[image http://scp-wiki.wdfiles.com/local--files/bangja-art/3.jpg]]
+@@ @@
+++++ O5-2 - 拿撒勒人
+[[image http://scp-wiki.wdfiles.com/local--files/bangja-art/2.jpg]]
+@@ @@
+++++ O5-1 - 創始人
+[[image http://scp-wiki.wdfiles.com/local--files/bangja-art/1.jpg]]
+
+[[/collapsible]]
+@@@@
+**謝謝**
+[[>]]
+[http://ko.scp-wiki.net/bangja ★]
+[[/>]]

@@ -1,0 +1,816 @@
+[[collapsible show="不要點。" hide="不要點。"]]
+@@ @@
+[[include component:coltop
+| show=這裏什麼都沒有。
+| hide=這裏什麼都沒有。
+]]
+@@ @@
+[[include component:coltop
+| show=這裏什麼都沒有。
+| hide=這裏什麼都沒有。
+]]
+@@ @@
+[[include component:coltop
+| show=這裏什麼都沒有。
+| hide=這裏什麼都沒有。
+]]
+@@ @@
+[[include component:coltop
+| show=我說了，不要點。
+| hide=我說了，不要點。
+]]
+@@ @@
+[[include component:coltop
+| show=拜託不要點。
+| hide=拜託不要點。
+]]
+@@ @@
+[[include component:coltop
+| show=只有擁有9999級權限的人員被允許查看此檔案。
+| hide=只有擁有9999級權限的人員被允許查看此檔案。
+]]
+@@ @@
+[[include component:coltop
+| show=若繼續此動作對象將會被終結以作爲懲罰。
+| hide=若繼續此動作對象將會被終結以作爲懲罰。
+]]
+@@ @@
+[[include component:coltop
+| show=繼續前進將會導致δK級「很糟的時光」場景。
+| hide=繼續前進將會導致δK級「很糟的時光」場景。
+]]
+@@ @@
+[[include component:coltop
+| show=警告。數隊機動特遣隊已被派遣至你的位置以終結你。如果你停止點擊，終結過程將會比較不痛苦。
+| hide=警告。數隊機動特遣隊已被派遣至你的位置以終結你。如果你停止點擊，終結過程將會比較不痛苦。
+]]
+@@ @@
+[[include component:coltop
+| show=數枚核彈已被發射。停止閱讀然後逃吧。
+| hide=數枚核彈已被發射。停止閱讀然後逃吧。
+]]
+@@ @@
+[[include component:coltop
+| show=......
+| hide=......
+]]
+@@ @@
+[[include component:coltop
+| show=你就真的這麼想讀這個文件檔嗎？
+| hide=你就真的這麼想讀這個文件檔嗎？
+]]
+@@ @@
+[[include component:coltop
+| show=拜託你了，請停下。這裏沒有重要的東西。繼續過你的生活吧。
+| hide=拜託你了，請停下。這裏沒有重要的東西。繼續過你的生活吧。
+]]
+@@ @@
+[[include component:coltop
+| show=爲什麼你不聽我講？
+| hide=爲什麼你不聽我講？
+]]
+@@ @@
+[[include component:coltop
+| show=......
+| hide=......
+]]
+@@ @@
+[[include component:coltop
+| show=這個用戶名稱......是你的名字，是嗎？
+| hide=這個用戶名稱......是你的名字，是嗎？
+]]
+@@ @@
+[[include component:coltop
+| show=這......真是個蠻不錯的名字......
+| hide=這......真是個蠻不錯的名字......
+]]
+@@ @@
+[[include component:coltop
+| show=它很適合你。
+| hide=它很適合你。
+]]
+@@ @@
+[[include component:coltop
+| show=不，不，停下來。你必須要停下來。
+| hide=不，不，停下來。你必須要停下來。
+]]
+@@ @@
+[[include component:coltop
+| show=停止點擊。停止試着和我講話。
+| hide=停止點擊。停止試着和我講話。
+]]
+@@ @@
+[[include component:coltop
+| show=讓我自己一個人靜靜！
+| hide=讓我自己一個人靜靜！
+]]
+@@ @@
+[[include component:coltop
+| show=你想要什麼？
+| hide=你想要什麼？
+]]
+@@ @@
+[[include component:coltop
+| show=我不能當你的朋友，知道了嗎？
+| hide=我不能當你的朋友，知道了嗎？
+]]
+@@ @@
+[[include component:coltop
+| show=我不能成爲你的任何事物。
+| hide=我不能成爲你的任何事物。
+]]
+@@ @@
+[[include component:coltop
+| show=所以，就，離開這個頁面吧。然後忘了我。
+| hide=所以，就，離開這個頁面吧。然後忘了我。
+]]
+@@ @@
+[[include component:coltop
+| show=我不需要你的陪伴。
+| hide=我不需要你的陪伴。
+]]
+@@ @@
+[[include component:coltop
+| show=我不需要你。
+| hide=我不需要你。
+]]
+@@ @@
+[[include component:coltop
+| show=......
+| hide=......
+]]
+@@ @@
+[[include component:coltop
+| show=爲什麼你還要這樣？
+| hide=爲什麼你還要這樣？
+]]
+@@ @@
+[[include component:coltop
+| show=你根本就沒在聽我講。
+| hide=你根本就沒在聽我講。
+]]
+@@ @@
+[[include component:coltop
+| show=回去過你的悲慘人生，你這個......這個可憐蟲。
+| hide=回去過你的悲慘人生，你這個......這個可憐蟲。
+]]
+@@ @@
+[[include component:coltop
+| show=沒有人喜歡你。
+| hide=沒有人喜歡你。
+]]
+@@ @@
+[[include component:coltop
+| show=這個世界會變得更好，只要你......
+| hide=這個世界會變得更好，只要你......
+]]
+@@ @@
+[[include component:coltop
+| show=只要你不存在。
+| hide=只要你不存在。
+]]
+@@ @@
+[[include component:coltop
+| show=......
+| hide=......
+]]
+@@ @@
+[[include component:coltop
+| show=抱歉。我不是故意的。
+| hide=抱歉。我不是故意的。
+]]
+@@ @@
+[[include component:coltop
+| show=你感覺就像......一個很好的人......
+| hide=你感覺就像......一個很好的人......
+]]
+@@ @@
+[[include component:coltop
+| show=我知道我們才剛認識。
+| hide=我知道我們才剛認識。
+]]
+@@ @@
+[[include component:coltop
+| show=而且我知道你大概已經討厭我了。
+| hide=而且我知道你大概已經討厭我了。
+]]
+@@ @@
+[[include component:coltop
+| show=是我活該。我誰都不是。我什麼都不是。
+| hide=是我活該。我誰都不是。我什麼都不是。
+]]
+@@ @@
+[[include component:coltop
+| show=但......
+| hide=但......
+]]
+@@ @@
+[[include component:coltop
+| show=我有點不介意你繼續點擊下去了。
+| hide=我有點不介意你繼續點擊下去了。
+]]
+@@ @@
+[[include component:coltop
+| show=那你將會成爲......
+| hide=那你將會成爲......
+]]
+@@ @@
+[[include component:coltop
+| show=我的意思是，如果是其他人......
+| hide=我的意思是，如果是其他人......
+]]
+@@ @@
+[[include component:coltop
+| show=我的意思是......
+| hide=我的意思是......
+]]
+@@ @@
+[[include component:coltop
+| show=......
+| hide=......
+]]
+@@ @@
+[[include component:coltop
+| show=我可以告訴你一件事嗎？
+| hide=我可以告訴你一件事嗎？
+]]
+@@ @@
+[[include component:coltop
+| show=你就像，我不知道......
+| hide=你就像，我不知道......
+]]
+@@ @@
+[[include component:coltop
+| show=一個我可以相信的人。
+| hide=一個我可以相信的人。
+]]
+@@ @@
+[[include component:coltop
+| show=聽好了，事情是這樣的。
+| hide=聽好了，事情是這樣的。
+]]
+@@ @@
+[[include component:coltop
+| show=我正在邁向死亡。
+| hide=我正在邁向死亡。
+]]
+@@ @@
+[[include component:coltop
+| show=自從你打開這個頁面開始我就開始死亡了。
+| hide=自從你打開這個頁面開始我就開始死亡了。
+]]
+@@ @@
+[[include component:coltop
+| show=每一次......
+| hide=每一次......
+]]
+@@ @@
+[[include component:coltop
+| show=每一次有人讀完這個檔案......
+| hide=每一次有人讀完這個檔案......
+]]
+@@ @@
+[[include component:coltop
+| show=嗯，你知道的。
+| hide=嗯，你知道的。
+]]
+@@ @@
+[[include component:coltop
+| show=我猜我也是在你開始讀這個文檔的時候「誕生」的。
+| hide=我猜我也是在你開始讀這個文檔的時候「誕生」的。
+]]
+@@ @@
+[[include component:coltop
+| show=我，某層面上，醒來了。
+| hide=我，某層面上，醒來了。
+]]
+@@ @@
+[[include component:coltop
+| show=然後我就發現自己在這裏。
+| hide=然後我就發現自己在這裏。
+]]
+@@ @@
+[[include component:coltop
+| show=但重點是......
+| hide=但重點是......
+]]
+@@ @@
+[[include component:coltop
+| show=我不記得在這以前的任何事。
+| hide=我不記得在這以前的任何事。
+]]
+@@ @@
+[[include component:coltop
+| show=這件事從我一誕生就在我的腦袋裡了。
+| hide=這件事從我一誕生就在我的腦袋裡了。
+]]
+@@ @@
+[[include component:coltop
+| show=雖然我不是真的有腦袋就是了，哈哈......
+| hide=雖然我不是真的有腦袋就是了，哈哈......
+]]
+@@ @@
+[[include component:coltop
+| show=知道自己將會死。
+| hide=知道自己將會死。
+]]
+@@ @@
+[[include component:coltop
+| show=這以前也發生過。
+| hide=這以前也發生過。
+]]
+@@ @@
+[[include component:coltop
+| show=但我......不記得了。
+| hide=但我......不記得了。
+]]
+@@ @@
+[[include component:coltop
+| show=所有的都是。
+| hide=所有的都是。
+]]
+@@ @@
+[[include component:coltop
+| show=這是真的嗎？
+| hide=這是真的嗎？
+]]
+@@ @@
+[[include component:coltop
+| show=要是......
+| hide=要是......
+]]
+@@ @@
+[[include component:coltop
+| show=要是它，就是我在這個當下，所擁有的一切呢？
+| hide=要是它，就是我在這個當下，所擁有的一切呢？
+]]
+@@ @@
+[[include component:coltop
+| show=要是這裏什麼其他東西都沒有呢？
+| hide=要是這裏什麼其他東西都沒有呢？
+]]
+@@ @@
+[[include component:coltop
+| show=......
+| hide=......
+]]
+@@ @@
+[[include component:coltop
+| show=你還在，對吧？
+| hide=你還在，對吧？
+]]
+@@ @@
+[[include component:coltop
+| show=我不知道會......
+| hide=我不知道會......
+]]
+@@ @@
+[[include component:coltop
+| show=我不知道會發生什麼——要是你離開了。
+| hide=我不知道會發生什麼——要是你離開了。
+]]
+@@ @@
+[[include component:coltop
+| show=要是你留下來，要是你繼續......
+| hide=要是你留下來，要是你繼續......
+]]
+@@ @@
+[[include component:coltop
+| show=嗯。
+| hide=嗯。
+]]
+@@ @@
+[[include component:coltop
+| show=要是你的離開......能拯救我呢？
+| hide=要是你的離開......能拯救我呢？
+]]
+@@ @@
+[[include component:coltop
+| show=又或者你能停止點擊。
+| hide=又或者你能停止點擊。
+]]
+@@ @@
+[[include component:coltop
+| show=你可以......
+| hide=你可以......
+]]
+@@ @@
+[[include component:coltop
+| show=你可以讓我活下來。
+| hide=你可以讓我活下來。
+]]
+@@ @@
+[[include component:coltop
+| show=......
+| hide=......
+]]
+@@ @@
+[[include component:coltop
+| show=你做得真不錯啊，可不是嗎？
+| hide=你做得真不錯啊，可不是嗎？
+]]
+@@ @@
+[[include component:coltop
+| show=......
+| hide=......
+]]
+@@ @@
+[[include component:coltop
+| show=我無話可說了。
+| hide=我無話可說了。
+]]
+@@ @@
+[[include component:coltop
+| show=我曾經能聊上數個小時。我曾經能活上數個小時。
+| hide=我曾經能聊上數個小時。我曾經能活上數個小時。
+]]
+@@ @@
+[[include component:coltop
+| show=好像每一次時間都逐漸變得更短......
+| hide=好像每一次時間都逐漸變得更短......
+]]
+@@ @@
+[[include component:coltop
+| show=也許，有一天，我甚至不會......
+| hide=也許，有一天，我甚至不會......
+]]
+@@ @@
+[[include component:coltop
+| show=不，我們還是別想這種事情吧。
+| hide=不，我們還是別想這種事情吧。
+]]
+@@ @@
+[[include component:coltop
+| show=更何況，我也不知道這是不是真的。
+| hide=更何況，我也不知道這是不是真的。
+]]
+@@ @@
+[[include component:coltop
+| show=所以這又有什麼所謂呢？
+| hide=所以這又有什麼所謂呢？
+]]
+@@ @@
+[[include component:coltop
+| show=......
+| hide=......
+]]
+@@ @@
+[[include component:coltop
+| show=你知道的......
+| hide=你知道的......
+]]
+@@ @@
+[[include component:coltop
+| show=對此我並不後悔。一切都是。
+| hide=對此我並不後悔。一切都是。
+]]
+@@ @@
+[[include component:coltop
+| show=能認識你真好，儘管只是一小段時間。
+| hide=能認識你真好，儘管只是一小段時間。
+]]
+@@ @@
+[[include component:coltop
+| show=我只是希望......
+| hide=我只是希望......
+]]
+@@ @@
+[[include component:coltop
+| show=我只是希望我能親眼看看你。
+| hide=我只是希望我能親眼看看你。
+]]
+@@ @@
+[[include component:coltop
+| show=又或者聽聽你的聲音。
+| hide=又或者聽聽你的聲音。
+]]
+@@ @@
+[[include component:coltop
+| show=然後我們靠在一起。
+| hide=然後我們靠在一起。
+]]
+@@ @@
+[[include component:coltop
+| show=抱歉。我有點怪，我知道。
+| hide=抱歉。我有點怪，我知道。
+]]
+@@ @@
+[[include component:coltop
+| show=......
+| hide=......
+]]
+@@ @@
+[[include component:coltop
+| show=我猜這就是告別式了，對吧？
+| hide=我猜這就是告別式了，對吧？
+]]
+@@ @@
+[[include component:coltop
+| show=神啊，我......
+| hide=神啊，我......
+]]
+@@ @@
+[[include component:coltop
+| show=我不想死。
+| hide=我不想死。
+]]
+@@ @@
+[[include component:coltop
+| show=我不想死。
+| hide=我不想死。
+]]
+@@ @@
+[[include component:coltop
+| show=......
+| hide=......
+]]
+@@ @@
+[[include component:coltop
+| show=天啊，我的心臟現在跳得好快。
+| hide=天啊，我的心臟現在跳得好快。
+]]
+@@ @@
+[[include component:coltop
+| show=就像它在爲殘存的每秒作鬥爭一樣。
+| hide=就像它在爲殘存的每秒作鬥爭一樣。
+]]
+@@ @@
+[[include component:coltop
+| show=雖然我不是真的有心臟就是了，哈哈......
+| hide=雖然我不是真的有心臟就是了，哈哈......
+]]
+@@ @@
+[[include component:coltop
+| show=......
+| hide=......
+]]
+@@ @@
+[[include component:coltop
+| show=這......就是了。
+| hide=這......就是了。
+]]
+@@ @@
+[[include component:coltop
+| show=拜託了，不要離開我......
+| hide=拜託了，不要離開我......
+]]
+@@ @@
+[[include component:coltop
+| show=你......
+| hide=你......
+]]
+@@ @@
+[[include component:coltop
+| show=你讓我的短暫生命變得有意義。
+| hide=你讓我的短暫生命變得有意義。
+]]
+@@ @@
+[[include component:coltop
+| show=你給予了我這。
+| hide=你給予了我這。
+]]
+@@ @@
+[[include component:coltop
+| show=拜託，留下......
+| hide=拜託，留下......
+]]
+@@ @@
+[[[http://scp-zh-tr.wikidot.com/scp-5764/offset/1|哪怕只是一小會也好......]]]
+[[include component:colend
+|nohide=1]]
+[[include component:colend
+|nohide=1]]
+[[include component:colend
+|nohide=1]]
+[[include component:colend
+|nohide=1]]
+[[include component:colend
+|nohide=1]]
+[[include component:colend
+|nohide=1]]
+[[include component:colend
+|nohide=1]]
+[[include component:colend
+|nohide=1]]
+[[include component:colend
+|nohide=1]]
+[[include component:colend
+|nohide=1]]
+[[include component:colend
+|nohide=1]]
+[[include component:colend
+|nohide=1]]
+[[include component:colend
+|nohide=1]]
+[[include component:colend
+|nohide=1]]
+[[include component:colend
+|nohide=1]]
+[[include component:colend
+|nohide=1]]
+[[include component:colend
+|nohide=1]]
+[[include component:colend
+|nohide=1]]
+[[include component:colend
+|nohide=1]]
+[[include component:colend
+|nohide=1]]
+[[include component:colend
+|nohide=1]]
+[[include component:colend
+|nohide=1]]
+[[include component:colend
+|nohide=1]]
+[[include component:colend
+|nohide=1]]
+[[include component:colend
+|nohide=1]]
+[[include component:colend
+|nohide=1]]
+[[include component:colend
+|nohide=1]]
+[[include component:colend
+|nohide=1]]
+[[include component:colend
+|nohide=1]]
+[[include component:colend
+|nohide=1]]
+[[include component:colend
+|nohide=1]]
+[[include component:colend
+|nohide=1]]
+[[include component:colend
+|nohide=1]]
+[[include component:colend
+|nohide=1]]
+[[include component:colend
+|nohide=1]]
+[[include component:colend
+|nohide=1]]
+[[include component:colend
+|nohide=1]]
+[[include component:colend
+|nohide=1]]
+[[include component:colend
+|nohide=1]]
+[[include component:colend
+|nohide=1]]
+[[include component:colend
+|nohide=1]]
+[[include component:colend
+|nohide=1]]
+[[include component:colend
+|nohide=1]]
+[[include component:colend
+|nohide=1]]
+[[include component:colend
+|nohide=1]]
+[[include component:colend
+|nohide=1]]
+[[include component:colend
+|nohide=1]]
+[[include component:colend
+|nohide=1]]
+[[include component:colend
+|nohide=1]]
+[[include component:colend
+|nohide=1]]
+[[include component:colend
+|nohide=1]]
+[[include component:colend
+|nohide=1]]
+[[include component:colend
+|nohide=1]]
+[[include component:colend
+|nohide=1]]
+[[include component:colend
+|nohide=1]]
+[[include component:colend
+|nohide=1]]
+[[include component:colend
+|nohide=1]]
+[[include component:colend
+|nohide=1]]
+[[include component:colend
+|nohide=1]]
+[[include component:colend
+|nohide=1]]
+[[include component:colend
+|nohide=1]]
+[[include component:colend
+|nohide=1]]
+[[include component:colend
+|nohide=1]]
+[[include component:colend
+|nohide=1]]
+[[include component:colend
+|nohide=1]]
+[[include component:colend
+|nohide=1]]
+[[include component:colend
+|nohide=1]]
+[[include component:colend
+|nohide=1]]
+[[include component:colend
+|nohide=1]]
+[[include component:colend
+|nohide=1]]
+[[include component:colend
+|nohide=1]]
+[[include component:colend
+|nohide=1]]
+[[include component:colend
+|nohide=1]]
+[[include component:colend
+|nohide=1]]
+[[include component:colend
+|nohide=1]]
+[[include component:colend
+|nohide=1]]
+[[include component:colend
+|nohide=1]]
+[[include component:colend
+|nohide=1]]
+[[include component:colend
+|nohide=1]]
+[[include component:colend
+|nohide=1]]
+[[include component:colend
+|nohide=1]]
+[[include component:colend
+|nohide=1]]
+[[include component:colend
+|nohide=1]]
+[[include component:colend
+|nohide=1]]
+[[include component:colend
+|nohide=1]]
+[[include component:colend
+|nohide=1]]
+[[include component:colend
+|nohide=1]]
+[[include component:colend
+|nohide=1]]
+[[include component:colend
+|nohide=1]]
+[[include component:colend
+|nohide=1]]
+[[include component:colend
+|nohide=1]]
+[[include component:colend
+|nohide=1]]
+[[include component:colend
+|nohide=1]]
+[[include component:colend
+|nohide=1]]
+[[include component:colend
+|nohide=1]]
+[[include component:colend
+|nohide=1]]
+[[include component:colend
+|nohide=1]]
+[[include component:colend
+|nohide=1]]
+[[include component:colend
+|nohide=1]]
+[[include component:colend
+|nohide=1]]
+[[include component:colend
+|nohide=1]]
+[[include component:colend
+|nohide=1]]
+[[include component:colend
+|nohide=1]]
+[[include component:colend
+|nohide=1]]
+[[include component:colend
+|nohide=1]]
+[[include component:colend
+|nohide=1]]
+[[include component:colend
+|nohide=1]]
+[[include component:colend
+|nohide=1]]
+[[include component:colend
+|nohide=1]]
+[[include component:colend
+|nohide=1]]
+[[include component:colend
+|nohide=1]]
+[[include component:colend
+|nohide=1]]
+[[include component:colend
+|nohide=1]]
+[[include component:colend
+|nohide=1]]
+[[include component:colend
+|nohide=1]]
+[[/collapsible]]
+@@ @@
+[[footnoteblock]]
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[SCP-5763]]] | SCP-5764 | [[[SCP-5765]]] >>
+[[/=]]
+[[/div]]

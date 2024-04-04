@@ -1,0 +1,13 @@
+[[include character:start]]
+
+----
+
++++++* 張道士
+
+任職於 Site-ZH-25 的文物／文本收容管理員，專長是中國歷史以及考古學。他習慣穿着灰黑色馬褂出現，金絲圓框眼鏡更是最為顯眼的特徵。
+
+身為[[[after-the-boom|口述異常史部職員]]]的他常常負責為許多異常相關的事件[[[the-moon-voice-1|製作口述筆錄]]]，但也會處理與[[[scp-zh-252|異常項目]]][[[scp-zh-261|的訪談]]]。在紀錄上，他一手包辦了許多紀錄位於[[[sarkic-case-study-03-the-luo-ting-n-a-of-new-cha-ling|香港的異常歷史]]]及蒐集其文件的工作。
+
+所有被標記為 //張道士// 的文件都可以在[/system:page-tags/tag/張道士 這裡]找到。
+
+[[include character:end]]

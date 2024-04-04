@@ -1,0 +1,90 @@
+[[include :scp-zh-tr:theme:blankstyle]]
+
+[[include info:start]]
+**原作：**[[*user bigslothonmyface]]
+**篇名：**SCP-6622 - 河狸之力
+**原文：**[https://scp-wiki.wikidot.com/scp-6622 SCP-6622 - Beaver Power]
+**譯者：**[[*user Red phosphorus]]
+[[include info:end]]
+@@@@
+[[include :scp-wiki:component:author-label-source start=--
+|name=bigslothonmyface
+|no-right-margin=*]]
+[[*user bigslothonmyface]]所著
+你可以在他的[[[https://scp-wiki.wikidot.com/bigslothonmyface-author-page |作者頁]]]找到更多他的作品。
+[[include :scp-wiki:component:author-label-source end=--]]
+
+[[include :scp-zh-tr:component:anomaly-class-bar-source
+|item-number= SCP-6622
+|clearance= 4
+|container-class= esoteric
+|secondary-class= archon
+|secondary-icon= http://scp-wiki.wdfiles.com/local--files/component%3Aanomaly-class-bar/archon-icon.svg
+|disruption-class= dark
+|risk-class= 注意
+]]
+
+
+----
+
+[[div class="scp-image-block block-center" style="width:100%;"]]
+[[image https://scp-wiki.wdfiles.com/local--files/scp-6622/6622-lodge.jpeg style="width:100%;" link=https://scp-wiki.wdfiles.com/local--files/scp-6622/6622-lodge.jpeg]]
+[[div class="scp-image-caption" style="width:100%;"]]
+SCP-6622-B-4，目前為英屬哥倫比亞省溫哥華市96%的都會區供電。
+[[/div]]
+[[/div]]
+
+----
+
+**特殊收容措施：**MTF Omega-43 (「交給河狸」)的任務為限制公眾對SCP-6622的認知，及將6622-B實例接地，直到附近的電力系統可以兼容它們。除此之外，收容僅限於在高風險地區對6622-A實例進行定期餵養和照顧。
+
+如有可能，新服役的基金會設施將建立在已由SCP-6622的基礎設施提供服務的區域。
+
+**描述：**SCP-6622-A是美洲河狸(//Castor canadensis//)的一個亞群，牠們建造並維護SCP-6622-B。只有6622-A實例會與6622-B互動；非異常河狸不會靠近。
+
+SCP-6622-B是河狸水壩及巢穴，通過未知且異常高效率的方式發電。每個實例持續不斷地輸出6802 MW電力。[[footnote]]大約相當於洛杉磯市的尖峰用電量。[[/footnote]]目前，基金會已知12個不同的6622-B實例。
+
+SCP-6622-B產生的電力經由仙女環、樹根，及其他自然生成路徑分配到人造電力基礎設施中。上述基礎建設的任何一處與肥沃土壤接觸時，電力即傳送其中。發現這種傳輸的背後機制是Beta級優先研究事項。
+
+SCP-6622-A實例經常在偏遠或不合適的地點築壩。MTF Omega-43已將6622-B實例部分納入96座城市的電網，但每個月有數百萬瓩的電力浪費在避免電網過載，及基金會無法將更多電力輸往高電力需求地區上。為SCP-6622開發更好的調節基礎設施是Alpha級優先研究事項。
+
+建立SCP-6622-A的圈養繁殖計畫的嘗試，以及野生群落的遷移皆失敗—實例只建造出非異常水壩。在受控的環境中再現異常是Omega級優先研究事項。
+
+[[include component:image-block name=https://scp-wiki.wdfiles.com/local--files/scp-6622/6622-beaver.jpeg|width=300px|caption=SCP-6622-A-41，在預定餵食後不久。]]
+
+**發現：**2020年11月10日，Site-43經歷了災難性的電力過載。第一個已知的SCP-6622巢穴後來在5.8公里外的奧薩布爾河上被發現。
+
+在九個月的時間裡，清潔與維護部部長Amelia Torosyan將站點轉變為完全依賴由SCP-6622供電。Torosyan的初步設計為SCP-6622全球輸電系統奠定了基礎，自實施以來估計減少了450百萬噸二氧化碳的排放。
+
+**後記：**Torosyan部長於2021年8月3日進入Site-43的主發電站後，在她的工作台上發現了一堆乾泥巴和樹枝，它們被粗糙地塑造成一顆心。Torosyan要求將塑像保留在她的私人住所中，請求得到了批准。
+
+@@ @@
+
+@@ @@
+
+@@ @@
+[[=]]
+
+
+
+[[include :scp-zh-tr:component:license-box
+|author=bigslothonmyface]]
+=====
+> *檔案名稱：6622-lodge**
+> **圖像作者：paulyang**
+> **圖像授權協議：CC BY-SA 3.0**
+> **圖源連結：https://nl.wikipedia.org/wiki/Bevers_(geslacht)#/media/Bestand:Beaver_dam_in_super_national_forest.JPG**
+=====
+> **檔案名稱：6622-beaver**
+> **圖像作者：steve from washington, dc, usa**
+> **圖像授權協議：CC BY-SA 2.0**
+> **圖源連結：https://en.wikipedia.org/wiki/Beaver#/media/File:American_Beaver.jpg**
+=====
+[[include :scp-wiki:component:license-box-end]]
+[[/=]]
+
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[SCP-6621]]] | SCP-6622 | [[[SCP-6623]]] >>
+[[/=]]
+[[/div]]

@@ -1,0 +1,326 @@
+[[include :scp-wiki:theme:foxtrot dark=a]]
+
+@@@@
+@@@@
+@@@@
+
+[[module CSS]]
+@import url('https://scp-sandbox-3.wikidot.com/local--files/knave-repository/PeakFont_NaniFont.css');
+
+#page-title {
+  display: none;
+}
+
+#page-content .authorlink-wrapper {
+  margin-top: 0.2rem;
+}
+
+.authorlink-wrapper > a {
+  width:inherit !important;
+  text-align:center !important;
+  margin:auto;
+ border-bottom:none !important;
+}
+
+
+#header h1 {
+font-family: NaniFont;
+color: #fff;
+}
+
+:root {
+--header-title: "SCP基金會";
+--header-subtitle: "控制，收容，保護";
+--accent: 140, 69, 255;
+--dark-bg-1: #211531;
+--dark-bg-2: #0B0E15;
+--head-font: NaniFont;
+--logo-img: url(https://scp-wiki.wikidot.com/local--files/scp-7785/DrawnLogo.png);
+}
+
+.wideman {
+  width: 100vw;
+max-width: none;
+  position: relative;
+  left: calc(-50vw + 50%);
+background: #fff;
+color: black;
+}
+
+.wideman p {
+   font-family: 'The Peak Font  Beta';
+   font-weight: normal;
+   font-style: normal;
+   font-size: 4em;
+}
+
+.pome p {
+  font-family: 'The Peak Font  Beta';
+  font-weight: normal;
+  font-style: normal;
+  font-size: 2.5em;
+  letter-spacing: -0.03em;
+  line-height: 1.4em;
+}
+
+.frametop {
+  margin-bottom:-7rem;
+  display: block;
+}
+
+.frametop-mobile {
+  width: 100vw;
+  max-width: none;
+  position: relative;
+  left: calc(-50vw + 50%);
+  margin-bottom:-5rem;
+  display: none;
+}
+
+.bottomFrame {
+margin-top:-5rem;
+}
+
+#page-content div.fullWidthImg {
+  width: 100vw;
+  max-width: none;
+  position: relative;
+  left: calc(-50vw + 50%);
+}
+
+.imageDesktop { display:block; }
+.imageMobile { display:none; }
+
+@media only screen and (max-width: 640px) {
+
+.pome p {
+  font-size: 2.2em;
+  letter-spacing: -0.04em;
+}
+
+
+.imageDesktop { display:none; }
+.imageMobile { display:block; }
+
+/* maybe not */
+/* .frametop {display:none;} */
+
+  .pome p {
+    font-size: 2em;
+  }
+
+  .frametop {
+    display: none;
+  }
+
+  .frametop-mobile {
+    display: block;
+  }
+  .bottomFrame {
+  width: 100vw;
+  max-width: none;
+  position: relative;
+  left: calc(-50vw + 50%);
+  margin-top: -2rem;
+  }
+}
+
+[[/module]]
+[!-- 209, 40, 40
+
+
+https://fontlibrary.org/en/font/poorfish
+https://fontlibrary.org/en/font/toscuchet-cm
+--]
+
+[[=]]
+[[module Rate]]
+[[/=]]
+[[include :scp-wiki:component:author-label-source start=--
+|name=PeppersGhost]]
+= **[https://scp-wiki.wikidot.com/scp-7785 SCP-7785]** - 橫緯先生與縱維先生（Mr. Lengthwise and Mr. Longways）
+= [[*user PeppersGhost]]著
+= [[*user Edward_Knave]]譯
+
+-----
+
+[[=]]
+**[http://www.scpwiki.com/peppersghost 更多原著者作品]**
+[[/=]]
+[[include :scp-wiki:component:author-label-source end=--]]
+
+= [[image https://scp-wiki.wikidot.com/local--files/scp-7785/ScratchedAnomBar.png]]
+
+
+= [[image https://scp-wiki.wikidot.com/local--files/scp-7785/Longboys1alt.png]]
+
+
+[[div class="frametop"]]
+= [[image https://scp-wiki.wikidot.com/local--files/scp-7785/LongboysFrame3.png]]
+[[/div]]
+
+
+[[div class="frametop-mobile"]]
+= [[image https://scp-wiki.wikidot.com/local--files/scp-7785/LongboysFrameMobile.png]]
+[[/div]]
+
+[[div class="pome"]]
+[[=]]
+守藏物品列管編號
+七千七百又八十五。
+當心！如你所閱報告
+未必容你生還無誤。
+
+歐氏歸定在此意指
+諸多事情有所錯解。
+若你徹悟應懼之事
+自當枕戈待旦不懈。
+
+至於特殊收容措施
+只需做好一事足矣：
+停止閱讀，敬而遠之
+此詩於你絕為不宜。
+
+= [[image https://scp-wiki.wikidot.com/local--files/scp-7785/barrier.gif width="15%"]]
+
+= [[image https://scp-wiki.wikidot.com/local--files/scp-7785/LongboysPT2small.png]]
+
+= [[image https://scp-wiki.wikidot.com/local--files/scp-7785/barrier.gif width="15%"]]
+
+描述：慘白穿黑衣裳。
+成形為了童書一部。
+某日兩人奇襲文章
+作者遭鉤慘不忍睹。
+
+橫緯先生、縱維先生。
+如今不再止於虛構。
+行音走韻無可競爭。
+讀者為其加持魔咒。
+
+= [[image https://scp-wiki.wikidot.com/local--files/scp-7785/barrier.gif width="15%"]]
+
+= [[image https://scp-wiki.wikidot.com/local--files/scp-7785/LongboysPT3small.png]]
+
+= [[image https://scp-wiki.wikidot.com/local--files/scp-7785/barrier.gif width="15%"]]
+
+
+橫緯先生頭上帶帽
+豬肉派帽，時尚服貼。
+他的雙眼被它遮到
+你只能見饑餓笑靨。
+
+橫緯性喜潛行而上
+沿地爬牆再上天花。
+當他脫帽作敬禮樣
+凝視如向靈魂喧嘩。
+
+= [[image https://scp-wiki.wikidot.com/local--files/scp-7785/barrier.gif width="15%"]]
+
+
+= [[image https://scp-wiki.wikidot.com/local--files/scp-7785/LenthwiseUnderbed.png]]
+
+
+= [[image https://scp-wiki.wikidot.com/local--files/scp-7785/barrier.gif width="15%"]]
+
+海軍外套披縱維身。
+喘笑皆因貼身緊繃。
+他的名字你已聽聞
+門邊守候半夜三更。
+
+如果見到他，請等候
+勿張開雙唇發尖叫
+若你失敗而被拖逗
+即永眠夢中不見曉。
+
+
+= [[image https://scp-wiki.wikidot.com/local--files/scp-7785/barrier.gif width="15%"]]
+
+= [[image https://scp-wiki.wikidot.com/local--files/scp-7785/LongwaysDoorwaysmall.png]]
+
+
+
+數羊之際應當警醒
+被鋪底下始終隱匿——
+當你躺下床上眠瞑
+身旁兩笑就在旋即。
+
+
+[[div class="bottomFrame"]]
+= [[image
+https://scp-wiki.wikidot.com/local--files/scp-7785/LongboysFrame4V2.png]]
+[[/div]]
+[[/=]]
+[[/div]]
+
+[[div class="fullWidthImg"]]
+[[div class="imageDesktop"]]
+= [[image https://scp-wiki.wikidot.com/local--files/scp-7785/LengthwiseLongwaysfull.png style="width:100vw;"]]
+[[/div]]
+[[div class="imageMobile"]]
+[[image https://scp-wiki.wikidot.com/local--files/scp-7785/LengthwiseLongwaysMobile.png]]
+[[/div]]
+[[/div]]
+
+
+[!--
+[[div class="wideman"]]
+= 晚
+
+= 安
+[[/div]]
+--]
+
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+
+[[include :scp-zh-tr:component:license-box
+|lang=EN
+|author=PeppersGhost
+]]
+=====
+> **圖檔名稱：** barrier.gif, LengthwiseLongwaysfull.png, LengthwiseLongwaysMobile.png, LenthwiseUnderbed.png, Longboys1alt.png, LongboysFrame3.png, LongboysFrame4V2.png, LongboysFrameMobile.png, LongboysPT2small.png, LongboysPT3small.png, LongwaysDoorwaysmall.png
+> **圖像作者：** [[*user peppersghost]]
+> **授權方式：** CC BY-SA 3.0
+> **圖源連結：** [https://scp-wiki.wikidot.com/scp-7785 SCP Foundation Wiki]
+
+> **圖檔名稱：** DrawnLogo.png
+> **圖像作者：** [[*user peppersghost]]
+> **授權方式：** CC BY-SA 3.0
+> **圖源連結：** [https://scp-wiki.wikidot.com/scp-7785 SCP Foundation Wiki]
+> **衍生來源：**
+> ----
+> **圖檔名稱：** logo.png
+> **圖像作者：** [[*user far2]]
+> **授權方式：** CC BY-SA 3.0
+> **圖源連結：** [https://scp-wiki.wikidot.com/ SCP Foundation Wiki]
+
+> **檔案名稱：** PeakFont_NaniFont.css
+> **該檔案以Transfonter將以下兩種字體整合於CSS架構而成。**
+>> **附件名稱：** 隨峰體
+>> **檔案作者：** 阿坤
+>> **授權方式：** SIL Open Font License
+>> **檔案連結：** [https://cjkfonts.io/blog/ThePeakFont cjkfonts.io]
+>> ----
+>> **附件名稱：** 何某手寫體
+>> **檔案作者：** Max
+>> **授權方式：** SIL Open Font License 1.1
+>> **檔案連結：** [https://github.com/max32002/nanifont Github]
+
+> **圖檔名稱：** ScratchedAnomBar.png
+> **圖像作者：** [[*user peppersghost]]
+> **授權方式：** CC BY-SA 3.0
+> **圖源連結：** [https://scp-wiki.wikidot.com/scp-7785 SCP Foundation Wiki]
+> **衍生來源：**
+> ----
+> **圖檔名稱：** Classified Bar Woed
+> **圖像作者：** [[*user woedenaz]]
+> **授權方式：** CC BY-SA 3.0
+> **圖源連結：** [https://scp-wiki.wikidot.com/component:classified-bar-woed SCP Foundation Wiki]
+
+=====
+[[include :scp-zh-tr:component:license-box-end]]

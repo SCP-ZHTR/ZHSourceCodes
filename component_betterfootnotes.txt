@@ -1,0 +1,152 @@
+[[iftags +組件]]
+
+[[module CSS]]
+@import url("https://nu-scptheme.github.io/Black-Highlighter/css/min/normalize.min.css");
+@import url("https://nu-scptheme.github.io/Black-Highlighter/css/min/black-highlighter.min.css");
+:root{
+    --header-title:"SCP基金會";
+    --header-subtitle:"控制，收容，保護";
+}
+[[/module]]
+
+[[div style="border: solid 2px #ededed; padding: 0.5rem; margin: 4px;"]]
+
+當然，所謂的「更好」是個主觀概念，但//所見即所得。//
+
+這個組件仿造了[http://scp-wiki.wikidot.com/scp-4485 SCP-4485]裡面所能看到的自定義註解。
+
+++ 範例:
+
+文字[[span class="fnnum"]].[[/span]][[span class="fncon"]]註解裡的文字。[[/span]]
+文字[[span class="fnnum"]].[[/span]][[span class="fncon"]]註解裡的文字。[[/span]]和更多的文字。
+文字[[span class="fnnum"]].[[/span]][[span class="fncon"]]註解裡的文字。[[/span]]。更多文字。
+沒有註解的文字。
+
+++ 如何使用：
+
+請在文章裡面添加以下的代碼，一次就好：
+
+> @@[[include :scp-zh-tr:component:betterfootnotes]]@@
+
+每當你要使用到註解的時候，請複製以下的架構：
+
+> @@[[span class="fnnum"]].[[/span]][[span class="fncon"]]註解裡的文字。[[/span]]@@
+
+++ 備註：
+
+- //fnnum//這個span class裡面包含有一個英文句點，這是因為它需要至少一個非空格字符才能夠正常解析。
+
+- 你可以透過以下的方式來自定義註解上標數字的顏色：
+
+> @@[[module CSS]]@@
+> :root {
+> @@    --fnColor: 在這裡輸入顏色;@@
+> }
+> [[/module]]
+
+沒有修改的話預設顏色是**##E6283C|#E6283C##**.
+
+- 在底下不會有註解列表。
+
+- 可以跟Sigma-9一起使用，但可能不會那麼的完美。
+
+- 特別感謝[[*user Woedenaz]]他那無可挑剔的設計感，以及[[*user Placeholder McD]]--騷擾--鼓勵著我完成這份作品。
+
+[[/div]]
+
+-----
+
+++ 原始碼：
+
+[[/iftags]]
+
+[[div [[iftags -組件]]style="display: none"[[/iftags]]]]
+[[module CSS show="true"]]
+
+:root {
+    --posX: calc(50% - 358px - 12rem);
+}
+
+/*--- Footnote Auto-counter --*/
+#page-content {
+    counter-reset: megacount;
+}
+
+/*--- Footnote Superscript Number --*/
+.fnnum {
+    display: inline-block;
+    text-indent: calc(-1% - 0.1em);
+    overflow: hidden;
+    line-height: 83%;
+    text-decoration: none;
+    font-weight: bold;
+    font-style: initial;
+    color: transparent;
+    position: relative; top: -0.25em; font-size: 82%;
+    padding: .15em calc(.21em - 0.4px) .12em calc(.11em - 1px);
+    margin-left: -0.06em;
+    margin-right: -0.25em;
+    counter-increment: megacount;
+    user-select: none;
+}
+.fnnum::after {
+    content: "" counter(megacount);
+    color: var(--fnColor, #E6283C);
+}
+.fnnum:hover {
+    text-decoration: none;
+    cursor: pointer;
+    background-color: var(--fnColor, #E6283C);
+}
+.fnnum:hover::after { color: white; }
+
+/*--- Footnote Content Wrapper --*/
+.fncon {
+    position: absolute;
+    right: calc(var(--posX) + 80px);
+    line-height: 1.2;
+    padding: 0.82rem;
+    width: 10.3rem;
+    background: white;
+    border: 2px solid black;
+    font-weight: initial;
+    font-style: initial;
+    text-align: initial;
+    pointer-events: none;
+    opacity: 0;
+    transition: opacity 0.15s linear, right 0.3s cubic-bezier(.08,.72,.5,.94);
+    z-index: 9;
+}
+.fnnum:hover + .fncon {
+    opacity: 1;
+    right: var(--posX);
+}
+.fncon::before {
+    position: absolute;
+    top: 0; left: 0;
+    transform: translateX(-52%) translateY(-55%) scale(1.15);
+    background-color: var(--fnColor, #E6283C);
+    color: white;
+    content: counter(megacount);
+    font-size: initial;
+    font-weight: bold;
+    font-style: initial;
+    padding-left: 0.32em; padding-right: 0.32em;
+    padding-top: 0.18rem; padding-bottom: 0.08rem;
+}
+
+/*--- Mobile Query --*/
+@media only screen and (max-width: 1279px) {
+    .fncon {
+        position: fixed;
+        bottom: 1.3rem;
+        left: calc(11% - 50px);
+        width: 70%;
+        transition: opacity 0.15s linear, left 0.3s cubic-bezier(.08,.72,.5,.94);
+    }
+    .fnnum:hover + .fncon {
+        left: 11%;
+     }
+}
+[[/module]]
+[[/div]]

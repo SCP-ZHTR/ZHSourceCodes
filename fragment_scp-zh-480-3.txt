@@ -1,0 +1,56 @@
+[[module css]]
+.footnoteref{
+color: #FF5555;
+}
+.danke{
+padding: 5px 5px 5px 15px;
+margin-bottom:10px;
+width: 100%;
+font-family: monospace;
+font-size: 1.1em; }
+
+.agent{
+background-color:#002200;
+border: 3px solid #55AA55;
+color: #77CC77;
+}
+
+.site{
+background-color:#222200;
+border: 3px solid #AAAA55;
+color: #DDDD77;
+}
+[[/module]]
+[[div class="danke agent"]]
+[[size 130%]]
+你好
+
+這份文件是留給從第7341世界線，循著第335次投放的文件來到這裡的人的
+
+謝謝你在無限多條世界線
+
+無限延伸的時間中找到了我存在的證據
+
+可能你的人生不會有任何改變
+
+但這就是我活下去的意義
+[[>]]
+Dr.Sevan
+[[/>]]
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+網站瀏覽次數：7341335
+@@ @@
+[[/size]]
+[[/div]]
+[[=]]
+[[[http://scp-zh-tr.wikidot.com/scp-zh-480/offset/3|回到正軌]]]
+[[/=]]

@@ -1,0 +1,728 @@
+[[include info:start-standalone]]
+**作者：**[[*user DrClef]]
+
+**原文連結:[http://www.scp-wiki.net/crossoverprojectindex Project Crossover]**
+
+**譯者：** [[*user Dr V Valentine ]]
+
+**備注：感謝**[[*user vomiter ]]與[[*user feitag]]給予的翻譯建議與指正。
+
+[[include info:end]]
+
+[[module CSS]]
+.content-panel .content-type-title > p {
+  margin: 0;
+}
+.content-panel .content-type-title {
+  font-size: 120%;
+  font-weight: bold;
+  padding: 5px 20px;
+  background-color: #666;
+  color: #fff;
+  border-radius: 8px 8px 0 0;
+  box-shadow: inset 0 1px 1px rgba(255,255,255,.8),
+    inset 0 15px 1px rgba(255,255,255,.2),
+    inset 0 15px 10px rgba(255,255,255,.2);
+}
+.content-panel .content-type-description {
+padding: 0 20px;
+text-align: justify;
+}
+.content-panel.content-row .content-type-description {
+padding: 5px 20px;
+}
+.content-panel.content-row .content-type-description-2 {
+padding: 0 20px;
+text-align: justify; 
+}
+[[/module]]
+
+[[div class="content-panel standalone content-row"]]
+[[div style="padding: 5px 15px;"]]
+[[=]]
+
+
+你知道，SCP基金會正迅速成為網路上的一個重要的「東西」，(如果他還不算重要的話)，然而我們還差一步才能成為一個完整而豐富的「東西」。
+
+糟糕的跨界同人小說（crossover fanfiction）。
+
+這是給你的挑戰：創作關於SCP基金會和任何你想選擇的虛構世界之間的跨界同人小說。它可以是歡樂的，詼諧的，甚至嚴肅得要命，
+"最瘋狂"的跨界同人還有額外的加分。只要寫的很好就沒問題了。
+
+以上。
+
+—Clef
+[[/=]]
+[[/div]]
+[[div class="content-type-description-2"]]
+
+[[table style="width: 100%;"]]
+[[row style="font-weight: bold; color: #fff; background-color: #666;"]]
+[[cell style="padding: 0 2px; width: 50%;"]]
+頁面
+[[/cell]]
+[[cell style="padding: 0 2px; width: 25%; text-align: center;"]]
+創作日期
+[[/cell]]
+[[cell style="padding: 0 2px; text-align: center;"]]
+作者
+[[/cell]]
+[[/row]]
+
+[[/div]]
+
+[[div class="content-type-description"]]
+
+[[row]]
+[[cell style="vertical-align:top;"]]
+[[[the-hitchhiker-s-guide-to-the-library|]]]
+[[/cell]]
+[[cell style="vertical-align: top; text-align:center;"]]
+26 Nov 2018, 10:50
+[[/cell]]
+[[cell style="vertical-align: top; text-align: left;"]]
+[[*user mayoculpa]]
+[[/cell]]
+[[/row]]
+
+[[row]]
+[[cell style="vertical-align:top;"]]
+[[[fifthbobpentapants|]]]
+[[/cell]]
+[[cell style="vertical-align: top; text-align:center;"]]
+20 Nov 2018, 14:00
+[[/cell]]
+[[cell style="vertical-align: top; text-align: left;"]]
+[[*user Westrin]]
+[[/cell]]
+[[/row]]
+
+[[row]]
+[[cell style="vertical-align:top;"]]
+[[[godsofthewaste|]]]
+[[/cell]]
+[[cell style="vertical-align: top; text-align:center;"]]
+12 Nov 2018, 13:06
+[[/cell]]
+[[cell style="vertical-align: top; text-align: left;"]]
+[[*user AdminBright]]
+[[/cell]]
+[[/row]]
+
+[[row]]
+[[cell style="vertical-align:top;"]]
+[[[it-had-all-been-for-nothing|]]]
+[[/cell]]
+[[cell style="vertical-align: top; text-align:center;"]]
+14 Jun 2018, 05:06
+[[/cell]]
+[[cell style="vertical-align: top; text-align: left;"]]
+[[*user Foxcheetah]]
+[[/cell]]
+[[/row]]
+
+[[row]]
+[[cell style="vertical-align:top;"]]
+[[[heroic-spirit-alexei-belitrov|]]]
+[[/cell]]
+[[cell style="vertical-align: top; text-align:center;"]]
+15 Aug 2017, 11:01
+[[/cell]]
+[[cell style="vertical-align: top; text-align: left;"]]
+[[*user MrWrong]]
+[[/cell]]
+[[/row]]
+
+[[row]]
+[[cell style="vertical-align:top;"]]
+[[[keters-with-hats|]]]
+[[/cell]]
+[[cell style="vertical-align: top; text-align:center;"]]
+11 Apr 2017, 06:30
+[[/cell]]
+[[cell style="vertical-align: top; text-align: left;"]]
+[[*user Crash1337]]
+[[/cell]]
+[[/row]]
+
+[[row]]
+[[cell style="vertical-align:top;"]]
+[[[mystery-skipper-theater-3000|]]]
+[[/cell]]
+[[cell style="vertical-align: top; text-align:center;"]]
+8 Apr 2017, 02:28
+[[/cell]]
+[[cell style="vertical-align: top; text-align: left;"]]
+[[*user Roget]]
+[[/cell]]
+[[/row]]
+
+[[row]]
+[[cell style="vertical-align:top;"]]
+[[[grand-theft-anomaly|]]]
+[[/cell]]
+[[cell style="vertical-align: top; text-align:center;"]]
+4 Feb 2017, 02:22
+[[/cell]]
+[[cell style="vertical-align: top; text-align: left;"]]
+[[*user Cyantreuse]]
+[[/cell]]
+[[/row]]
+
+[[row]]
+[[cell style="vertical-align:top;"]]
+[[[holding-on|]]]
+[[/cell]]
+[[cell style="vertical-align: top; text-align:center;"]]
+26 Oct 2016, 19:56
+[[/cell]]
+[[cell style="vertical-align: top; text-align: left;"]]
+[[*user Jack Ike]]
+[[/cell]]
+[[/row]]
+
+[[row]]
+[[cell style="vertical-align:top;"]]
+[[[the-broken-god-of-ayrshire-chapter-1|]]]
+[[/cell]]
+[[cell style="vertical-align: top; text-align:center;"]]
+29 May 2016, 03:54
+[[/cell]]
+[[cell style="vertical-align: top; text-align: left;"]]
+[[*user Smapti]]
+[[/cell]]
+[[/row]]
+
+[[row]]
+[[cell style="vertical-align:top;"]]
+[[[too-slow|]]]
+[[/cell]]
+[[cell style="vertical-align: top; text-align:center;"]]
+18 Apr 2016, 08:20
+[[/cell]]
+[[cell style="vertical-align: top; text-align: left;"]]
+[[*user daveyoufool]]
+[[/cell]]
+[[/row]]
+
+[[row]]
+[[cell style="vertical-align:top;"]]
+[[[home-is-a-place-with-mushrooms|]]]
+[[/cell]]
+[[cell style="vertical-align: top; text-align:center;"]]
+4 Apr 2016, 07:42
+[[/cell]]
+[[cell style="vertical-align: top; text-align: left;"]]
+[[*user Agent MacLeod]]
+[[/cell]]
+[[/row]]
+
+[[row]]
+[[cell style="vertical-align:top;"]]
+[[[and-then-there-were-none|]]]
+[[/cell]]
+[[cell style="vertical-align: top; text-align:center;"]]
+3 Mar 2015, 07:11
+[[/cell]]
+[[cell style="vertical-align: top; text-align: left;"]]
+[[*user Bennings]]
+[[/cell]]
+[[/row]]
+
+[[row]]
+[[cell style="vertical-align:top;"]]
+[[[the-lingering-lark-of-leviathan-square|]]]
+[[/cell]]
+[[cell style="vertical-align: top; text-align:center;"]]
+14 Feb 2015, 09:33
+[[/cell]]
+[[cell style="vertical-align: top; text-align: left;"]]
+[[*user daveyoufool]]
+[[/cell]]
+[[/row]]
+
+[[row]]
+[[cell style="vertical-align:top;"]]
+[[[dial-s-for-scp|]]]
+[[/cell]]
+[[cell style="vertical-align: top; text-align:center;"]]
+24 Nov 2014, 22:34
+[[/cell]]
+[[cell style="vertical-align: top; text-align: left;"]]
+[[*user Loiterer87]]
+[[/cell]]
+[[/row]]
+
+[[row]]
+[[cell style="vertical-align:top;"]]
+[[[the-foundation-never-changes|]]]
+[[/cell]]
+[[cell style="vertical-align: top; text-align:center;"]]
+7 Aug 2014, 23:53
+[[/cell]]
+[[cell style="vertical-align: top; text-align: left;"]]
+[[*user ChrisAKAPiefish]]
+[[/cell]]
+[[/row]]
+
+[[row]]
+[[cell style="vertical-align:top;"]]
+[[[peace-i-would-settle-for-that|]]]
+[[/cell]]
+[[cell style="vertical-align: top; text-align:center;"]]
+27 Apr 2014, 07:12
+[[/cell]]
+[[cell style="vertical-align: top; text-align: left;"]]
+[[*user Bennings]]
+[[/cell]]
+[[/row]]
+
+[[row]]
+[[cell style="vertical-align:top;"]]
+[[[skip-jam-part-one|]]]
+[[/cell]]
+[[cell style="vertical-align: top; text-align:center;"]]
+7 Apr 2014, 12:10
+[[/cell]]
+[[cell style="vertical-align: top; text-align: left;"]]
+[[*user Bryx]]
+[[/cell]]
+[[/row]]
+
+[[row]]
+[[cell style="vertical-align:top;"]]
+[[[belation-in-the-evening|]]]
+[[/cell]]
+[[cell style="vertical-align: top; text-align:center;"]]
+31 Mar 2014, 12:47
+[[/cell]]
+[[cell style="vertical-align: top; text-align: left;"]]
+[[*user Djoric]]
+[[/cell]]
+[[/row]]
+
+[[row]]
+[[cell style="vertical-align:top;"]]
+[[[mint-condition|]]]
+[[/cell]]
+[[cell style="vertical-align: top; text-align:center;"]]
+27 Feb 2014, 06:28
+[[/cell]]
+[[cell style="vertical-align: top; text-align: left;"]]
+[[*user FortuneFavorsBold]]
+[[/cell]]
+[[/row]]
+
+[[row]]
+[[cell style="vertical-align:top;"]]
+[[[stupendous-containment-procedures|]]]
+[[/cell]]
+[[cell style="vertical-align: top; text-align:center;"]]
+26 Feb 2014, 12:19
+[[/cell]]
+[[cell style="vertical-align: top; text-align: left;"]]
+[[*user Ihp]]
+[[/cell]]
+[[/row]]
+
+[[row]]
+[[cell style="vertical-align:top;"]]
+[[[vibeo-james|]]]
+[[/cell]]
+[[cell style="vertical-align: top; text-align:center;"]]
+7 Feb 2014, 06:13
+[[/cell]]
+[[cell style="vertical-align: top; text-align: left;"]]
+[[*user Roget]]
+[[/cell]]
+[[/row]]
+
+[[row]]
+[[cell style="vertical-align:top;"]]
+[[[now-the-we-expunged|]]]
+[[/cell]]
+[[cell style="vertical-align: top; text-align:center;"]]
+12 Dec 2013, 11:43
+[[/cell]]
+[[cell style="vertical-align: top; text-align: left;"]]
+[[*user Drewbear]]
+[[/cell]]
+[[/row]]
+
+[[row]]
+[[cell style="vertical-align:top;"]]
+[[[solvin-center-of-problems|]]]
+[[/cell]]
+[[cell style="vertical-align: top; text-align:center;"]]
+27 Nov 2013, 16:51
+[[/cell]]
+[[cell style="vertical-align: top; text-align: left;"]]
+[[*user TwistedGears]]
+[[/cell]]
+[[/row]]
+
+[[row]]
+[[cell style="vertical-align:top;"]]
+[[[timeandrelativedimensionsincontainmentprotocols|]]]
+[[/cell]]
+[[cell style="vertical-align: top; text-align:center;"]]
+18 Nov 2013, 17:48
+[[/cell]]
+[[cell style="vertical-align: top; text-align: left;"]]
+[[*user AdminBright]]
+[[/cell]]
+[[/row]]
+
+[[row]]
+[[cell style="vertical-align:top;"]]
+[[[cart-can-can-cart|]]]
+[[/cell]]
+[[cell style="vertical-align: top; text-align:center;"]]
+18 Nov 2013, 06:40
+[[/cell]]
+[[cell style="vertical-align: top; text-align: left;"]]
+[[*user Randomini]]
+[[/cell]]
+[[/row]]
+
+[[row]]
+[[cell style="vertical-align:top;"]]
+[[[piercing-the-night-vale|]]]
+[[/cell]]
+[[cell style="vertical-align: top; text-align:center;"]]
+22 Oct 2013, 09:13
+[[/cell]]
+[[cell style="vertical-align: top; text-align: left;"]]
+[[*user Gargus]]
+[[/cell]]
+[[/row]]
+
+[[row]]
+[[cell style="vertical-align:top;"]]
+[[[agent-brown-and-the-case-of-the-missing-amulet|]]]
+[[/cell]]
+[[cell style="vertical-align: top; text-align:center;"]]
+19 May 2013, 10:12
+[[/cell]]
+[[cell style="vertical-align: top; text-align: left;"]]
+[[*user Roget]]
+[[/cell]]
+[[/row]]
+
+[[row]]
+[[cell style="vertical-align:top;"]]
+[[[saturday-night-scp-showdown|]]]
+[[/cell]]
+[[cell style="vertical-align: top; text-align:center;"]]
+31 Jan 2013, 11:23
+[[/cell]]
+[[cell style="vertical-align: top; text-align: left;"]]
+[[*user Smapti]]
+[[/cell]]
+[[/row]]
+
+[[row]]
+[[cell style="vertical-align:top;"]]
+[[[issue-100|]]]
+[[/cell]]
+[[cell style="vertical-align: top; text-align:center;"]]
+21 Jan 2013, 02:57
+[[/cell]]
+[[cell style="vertical-align: top; text-align: left;"]]
+[[*user Ihp]]
+[[/cell]]
+[[/row]]
+
+[[row]]
+[[cell style="vertical-align:top;"]]
+[[[inertiatic-scp|]]]
+[[/cell]]
+[[cell style="vertical-align: top; text-align:center;"]]
+30 Dec 2012, 16:26
+[[/cell]]
+[[cell style="vertical-align: top; text-align: left;"]]
+(user deleted)
+[[/cell]]
+[[/row]]
+
+[[row]]
+[[cell style="vertical-align:top;"]]
+[[[theselfinsert|]]]
+[[/cell]]
+[[cell style="vertical-align: top; text-align:center;"]]
+10 Dec 2012, 18:41
+[[/cell]]
+[[cell style="vertical-align: top; text-align: left;"]]
+[[*user AdminBright]]
+[[/cell]]
+[[/row]]
+
+[[row]]
+[[cell style="vertical-align:top;"]]
+[[[kunststoff-strand|]]]
+[[/cell]]
+[[cell style="vertical-align: top; text-align:center;"]]
+16 Nov 2012, 09:21
+[[/cell]]
+[[cell style="vertical-align: top; text-align: left;"]]
+[[*user Djoric]]
+[[/cell]]
+[[/row]]
+
+[[row]]
+[[cell style="vertical-align:top;"]]
+[[[occurrence-of-oddness|]]]
+[[/cell]]
+[[cell style="vertical-align: top; text-align:center;"]]
+25 Sep 2012, 09:38
+[[/cell]]
+[[cell style="vertical-align: top; text-align: left;"]]
+[[*user Djoric]]
+[[/cell]]
+[[/row]]
+
+[[row]]
+[[cell style="vertical-align:top;"]]
+[[[scp-mlp-dnc|]]]
+[[/cell]]
+[[cell style="vertical-align: top; text-align:center;"]]
+28 Jun 2012, 12:57
+[[/cell]]
+[[cell style="vertical-align: top; text-align: left;"]]
+[[*user Gargus]]
+[[/cell]]
+[[/row]]
+
+[[row]]
+[[cell style="vertical-align:top;"]]
+[[[batman-s-newest-threat|]]]
+[[/cell]]
+[[cell style="vertical-align: top; text-align:center;"]]
+10 Jun 2012, 13:42
+[[/cell]]
+[[cell style="vertical-align: top; text-align: left;"]]
+Nyka
+[[/cell]]
+[[/row]]
+
+[[row]]
+[[cell style="vertical-align:top;"]]
+[[[holder-of-the-foundation|]]]
+[[/cell]]
+[[cell style="vertical-align: top; text-align:center;"]]
+31 May 2012, 05:05
+[[/cell]]
+[[cell style="vertical-align: top; text-align: left;"]]
+[[*user VAElynx]]
+[[/cell]]
+[[/row]]
+
+[[row]]
+[[cell style="vertical-align:top;"]]
+[[[i-wanna-be-the-very-best|]]]
+[[/cell]]
+[[cell style="vertical-align: top; text-align:center;"]]
+3 Feb 2012, 02:39
+[[/cell]]
+[[cell style="vertical-align: top; text-align: left;"]]
+[[*user Dexanote]]
+[[/cell]]
+[[/row]]
+
+[[row]]
+[[cell style="vertical-align:top;"]]
+[[[hephaestus|]]]
+[[/cell]]
+[[cell style="vertical-align: top; text-align:center;"]]
+23 Jan 2012, 09:03
+[[/cell]]
+[[cell style="vertical-align: top; text-align: left;"]]
+[[*user Eskobar]]
+[[/cell]]
+[[/row]]
+
+[[row]]
+[[cell style="vertical-align:top;"]]
+[[[knee-deep-in-the-keter|]]]
+[[/cell]]
+[[cell style="vertical-align: top; text-align:center;"]]
+21 Jan 2012, 14:11
+[[/cell]]
+[[cell style="vertical-align: top; text-align: left;"]]
+[[*user zaratustra]]
+[[/cell]]
+[[/row]]
+
+[[row]]
+[[cell style="vertical-align:top;"]]
+[[[containingcreation|]]]
+[[/cell]]
+[[cell style="vertical-align: top; text-align:center;"]]
+20 Jan 2012, 16:07
+[[/cell]]
+[[cell style="vertical-align: top; text-align: left;"]]
+[[*user MisterBibs]]
+[[/cell]]
+[[/row]]
+
+[[row]]
+[[cell style="vertical-align:top;"]]
+[[[onceandfutureemperor|]]]
+[[/cell]]
+[[cell style="vertical-align: top; text-align:center;"]]
+18 Jan 2012, 04:30
+[[/cell]]
+[[cell style="vertical-align: top; text-align: left;"]]
+[[*user ChazzK]]
+[[/cell]]
+[[/row]]
+
+[[row]]
+[[cell style="vertical-align:top;"]]
+[[[the-case-of-the-missing-hand|]]]
+[[/cell]]
+[[cell style="vertical-align: top; text-align:center;"]]
+15 Jan 2012, 09:12
+[[/cell]]
+[[cell style="vertical-align: top; text-align: left;"]]
+[[*user Tanhony]]
+[[/cell]]
+[[/row]]
+
+[[row]]
+[[cell style="vertical-align:top;"]]
+[[[whatcha-doing|]]]
+[[/cell]]
+[[cell style="vertical-align: top; text-align:center;"]]
+15 Jan 2012, 03:05
+[[/cell]]
+[[cell style="vertical-align: top; text-align: left;"]]
+[[*user Doktori]]
+[[/cell]]
+[[/row]]
+
+[[row]]
+[[cell style="vertical-align:top;"]]
+[[[scp-foundation-the-movie-2|]]]
+[[/cell]]
+[[cell style="vertical-align: top; text-align:center;"]]
+14 Jan 2012, 14:37
+[[/cell]]
+[[cell style="vertical-align: top; text-align: left;"]]
+[[*user Edrobot]]
+[[/cell]]
+[[/row]]
+
+[[row]]
+[[cell style="vertical-align:top;"]]
+[[[still-in-business|]]]
+[[/cell]]
+[[cell style="vertical-align: top; text-align:center;"]]
+14 Jan 2012, 12:06
+[[/cell]]
+[[cell style="vertical-align: top; text-align: left;"]]
+[[*user Tom Serveaux]]
+[[/cell]]
+[[/row]]
+
+[[row]]
+[[cell style="vertical-align:top;"]]
+[[[dreams|]]]
+[[/cell]]
+[[cell style="vertical-align: top; text-align:center;"]]
+14 Jan 2012, 04:27
+[[/cell]]
+[[cell style="vertical-align: top; text-align: left;"]]
+[[*user MisterBibs]]
+[[/cell]]
+[[/row]]
+
+[[row]]
+[[cell style="vertical-align:top;"]]
+[[[dr-ikari-i-presume|]]]
+[[/cell]]
+[[cell style="vertical-align: top; text-align:center;"]]
+14 Jan 2012, 04:09
+[[/cell]]
+[[cell style="vertical-align: top; text-align: left;"]]
+[[*user Edrobot]]
+[[/cell]]
+[[/row]]
+
+[[row]]
+[[cell style="vertical-align:top;"]]
+[[[scp-1926-r|]]]
+[[/cell]]
+[[cell style="vertical-align: top; text-align:center;"]]
+13 Jan 2012, 14:52
+[[/cell]]
+[[cell style="vertical-align: top; text-align: left;"]]
+[[*user eric_h]]
+[[/cell]]
+[[/row]]
+
+[[row]]
+[[cell style="vertical-align:top;"]]
+[[[on-the-o5-s-secret-service|]]]
+[[/cell]]
+[[cell style="vertical-align: top; text-align:center;"]]
+13 Jan 2012, 13:24
+[[/cell]]
+[[cell style="vertical-align: top; text-align: left;"]]
+[[*user Anaxagoras]]
+[[/cell]]
+[[/row]]
+
+[[row]]
+[[cell style="vertical-align:top;"]]
+[[[letter-of-the-day|]]]
+[[/cell]]
+[[cell style="vertical-align: top; text-align:center;"]]
+13 Jan 2012, 11:46
+[[/cell]]
+[[cell style="vertical-align: top; text-align: left;"]]
+[[*user Djoric]]
+[[/cell]]
+[[/row]]
+
+[[row]]
+[[cell style="vertical-align:top;"]]
+[[[smooth-as-silk|]]]
+[[/cell]]
+[[cell style="vertical-align: top; text-align:center;"]]
+13 Jan 2012, 11:40
+[[/cell]]
+[[cell style="vertical-align: top; text-align: left;"]]
+[[*user Djoric]]
+[[/cell]]
+[[/row]]
+
+[[row]]
+[[cell style="vertical-align:top;"]]
+[[[this-is-always-a-horrible-idea|]]]
+[[/cell]]
+[[cell style="vertical-align: top; text-align:center;"]]
+13 Jan 2012, 07:43
+[[/cell]]
+[[cell style="vertical-align: top; text-align: left;"]]
+[[*user Djoric]]
+[[/cell]]
+[[/row]]
+
+[[row]]
+[[cell style="vertical-align:top;"]]
+[[[incident-report-kaf-09|]]]
+[[/cell]]
+[[cell style="vertical-align: top; text-align:center;"]]
+13 Jan 2012, 06:20
+[[/cell]]
+[[cell style="vertical-align: top; text-align: left;"]]
+[[*user Candlebeam]]
+[[/cell]]
+[[/row]]
+
+[[/table]]
+
+[[/div]]
+@@@@
+[[/div]]

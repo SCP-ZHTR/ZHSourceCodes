@@ -1,0 +1,246 @@
+[[include component:scp-meta-title-hiding css-style=classic]]
+
+[[include info:start]]
+**SCP-ES-097 真菌反應爐**
+**原文：**[http://lafundacionscp.wikidot.com/scp-es-097 SCP-ES-097] - Reactor Fungí
+**英譯：**[http://scp-int.wikidot.com/scp-es-097 SCP-ES-097] - Fungi Reactor
+**作者：**[[*user Luis Gm]]
+**英文譯者：**[[*user Agente Shuffle]]
+**譯者：**[[*user feitag]]
+[[include info:end]]
+
+[[module CSS]]
+@import url(http://destinox.wikidot.com/sueniummmmm/code/1);
+[[/module]]
+
+[[module css]]
+.page {
+    display: block;
+    overflow: hidden;
+    font-family: "Helvetica", "Bradley Hand ITC", sans-serif;
+    font-style: normal;
+
+    background-attachment: scroll;
+    background-clip: border-box;
+    background-color: transparent;
+    background-image: linear-gradient(to top ,rgb(202, 219, 228) 0%, rgb(231, 233, 220) 8%);
+    background-origin: padding-box;
+    background-position: 0px 8px;
+    background-repeat: repeat;
+    background-size: 100% 20px;
+
+    border: 1px solid #CCC;
+    border-radius: 10px;
+    padding: 10px 10px;
+    margin-bottom: 10px;
+
+    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.2)
+    }
+.page p,
+.page ul {
+    line-height: 20px;
+    margin: 0;
+}
+[[/module]]
+
+[[module CSS]]
+.blinkbar {color: red;font-size:125%; animation: blink 1.5s infinite; letter-spacing: -0.13em;}@keyframes blink{to{opacity: .0;}}@keyframes flicker {0% {opacity: 0.9890; }5% {opacity: 0.5842; }10% {opacity: 0.9865; }20% {opacity: 0.0412; }20% {opacity: 0.6255; }25% {opacity: 0.3157; }30% {opacity: 0.7328; }35% {opacity: 0.4654; }40% {opacity: 0.9128; }45% {opacity: 0.2449; }50% {opacity: 0.5485; }55% {opacity: 0.6438; }60% {opacity: 0.1180; }65% {opacity: 0.9085; }70% {opacity: 0.0266; }75% {opacity: 0.6795; }80% {opacity: 0.7812; }85% {opacity: 0.0117; }90% {opacity: 0.2239; }95% {opacity: 0.8897; }100% {opacity: 0.2260; }}@keyframes overlay-anim {0% {visibility: hidden; }10% {visibility: hidden; }11% {visibility: visible; }50% {visibility: hidden; }100% {visibility: hidden; }}
+.collapsible-block-folded a.collapsible-block-link {
+    animation: blink 0.8s ease-in-out infinite alternate;
+}
+@keyframes blink {
+    0% { color: transparent; }
+    50%, 100% { color: #b01; }
+}
+.email {float: center; border: solid 2px #000000; width: 88%; padding: 1px 15px; margin: 10px 10px 10px 10px; box-shadow: 0 1px 3px rgba(0,0,0,.5)}
+a.collapsible-block-link { font-weight: bold; }
+.tofrom {margin-left: 10px; margin-top: 5px; padding: 1px 15px; border-left: solid 3px #000098}
+[[/module]]
+
+[[table style="border: none; width: 100%;"]]
+[[row]]
+[[cell]]
+[[size 125%]]**項目編號：**SCP-ES-097[[/size]]
+[[/cell]]
+[[cell style="text-align: right;"]]
+[[size 125%]]###990000|**Level 3/ES-097**##[[/size]]
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+[[size 125%]]**項目等級：**Keter[[/size]]
+[[/cell]]
+[[cell style="text-align: right;"]]
+[[size 125%]]###990000|**機密**##[[/size]]
+[[/cell]]
+[[/row]]
+[[/table]]
+
+----
+
+**特殊收容措施：**任何 SCP-ES-097 可能的感染爆發跡象都將被立即調查，並派遣 MTF Beta-7 (瘋帽匠) 處理。此外，爆發將被隱瞞直到結束。SCP-ES-097 的任何不被收容的樣本都應使用殺真菌劑來清除。回收的 SCP-ES-097 將保存在 Site-133 的四號低溫室中，並且只允許3級或更高的研究人員在D級人員身上進行測試。
+
+**描述：**SCP-ES-097 是放射營養真菌[[footnote]]利用黑色素將伽馬射線轉換成生長所需化學能真菌。 [[/footnote]]的未知物種，在特定的發育階段時，能夠引發並維持受制核分裂。[參見表1]
+
+SCP-ES-097 可以在各種氣候條件下生存。然而，已經觀察到炎熱氣候促進繁殖，而低溫下 (0°C以下) 其繁殖活動將會減少。在它的完全階段[[footnote]]即有性生殖階段，通常通常會形成子實體。[[/footnote]] SCP-ES-097 表現出晶體特徵，其外型像是不規則綠色玻璃的集合體。
+
+應當注意，由於輻射會削弱免疫系統並促進 SCP-ES-097 生長，故只有在 SCP-ES-097 與放射性元素接觸時才能感染人體組織。以下是 SCP-ES-097 在生物體和無機表面上的生命週期：
+
+
+||~ ##black|階段## ||~ ##black|無機表面## ||~ ##black|生物體## ||
+|| 生長 || SCP-ES-097 附著後，將於4天內在整體表面上形成菌絲。 || 進入體內後，會停留在食道中，症狀直到初始暴露後的3天才會出現。 ||
+|| 有性生殖 || 一旦菌絲覆蓋了5公尺的區域，將在5天的期間中生成胞子。 || 感染將擴散到肺部和胃部，在此階段，項目將開始製造胞子。胞子會混在分泌物與排遺當中。||
+|| 能量產生 || 若存在放射性元素，子實體將吸收這些元素作為營養。一旦所有這類元素都吸收完，項目就會從菌絲中產生能量。取決於可用的材料數量和真菌的大小，所產生的熱能可以從幾kW到約3500MW不等。 ||N/A||
+||||||~ {{##black|表1.0##}} ||
+
+根據分析，由 SCP-ES-097 引起的真菌感染有 30％ 的機率會產生有害併發症，影響呼吸系統和末梢神經系統。其他的臨床症狀將在最初幾天中表現，例如急性肌肉疼痛，這種疼痛特別好發於背部。2至3天後，感染者陷入昏迷狀態一週。在此期間，SCP-ES-097 將在感染者體內繁殖，直到完全感染神經系統。此時，將有 60％ 的感染者死亡。否則，在8天未得到治療之後，感染者即被視為 SCP-ES-097-A 個體。
+
+隨後，對象將清醒並呈現以下症狀：
+
+* 持續的幻覺與反覆的夢，皆和相同主題有關。[參見附錄B]
+
+* 更加溫順與服從的態度。
+
+* 在手與胸部長出與人眼相似的視覺器官。[[footnote]] 儘管在構造上具有功能，但對象表明它們無法使用這些器官來觀看。 [[/footnote]]
+
+注意，SCP-ES-097-A 無法感染其他人，本身也不會因為 SCP-ES-097 的感染而死亡。
+----
+[[=]]
+[[span style="font-size: 175%"]]{{**附錄A**}}[[/span]]
+{{回收紀錄與附註}}
+[[/=]]
+----
+
+SCP-ES-097 於2008年12月16日首次在哈薩克 Inkai 的一個農場中發現，當時有報告稱周邊作物與住宅被 SCP-ES-097 感染，並發現數起肺隱球菌病 (pulmonary cryptococcosis) [[footnote]] 隱球菌病為一種全身性或肺部感染，病因係吸入受酵母菌 //Cryptococcus neoformans// 或 //C. gattii// 胞子所汙染的土壤。其症狀為肺炎、腦膜炎、皮膚或骨骼或內臟發生病變。[[/footnote]]、急性非典型肺炎以及輻射中毒的嚴重病例。
+
+在 SCP-ES-097 的最初報告之後，數名特工被派往現場，並散布了假訊息來掩蓋事實，稱這是由真菌 //C. neoformans// 的感染以及村莊所使用的河川受到意外核廢料洩漏汙染所引起。感染消除後，進行了進一步調查並發現了 SCP-ES-097 的發生源。
+
+在該鎮郊區的一個農場中發現了大量的 SCP-ES-097 培養物。該農場有三棟負責培養 SCP-ES-097 的建築。在抵達農場時，沒有負責人在場。對負責人的搜索工作至今仍未成功。
+
+此外，在其中一棟建築中還發現了一些關於 SCP-ES-097 的信件和文件：
+
+[[div class="page"]]
+@@ @@
+[[size larger]]##black|11/19/2008##[[/size]]
+@@ @@
+[[size larger]]##black|今天我在森林裡遛狗，她跑進了洞穴，後來還吐了，看起有點疲累。我記得爸和我說過的傳聞，說這裡可能有個鈾礦，但他從來沒有提出任何證據。出於同樣的原因，我父親以前弄了一台蓋格計數器回來，我要找出來然後再回去看看。##[[/size]]
+@@ @@
+[[/div]]
+
+[[div class="page"]]
+@@ @@
+[[size larger]]##black|11/21/2008##[[/size]]
+@@ @@
+[[size larger]]##black|我想的是對的，當我靠近那邊的時候，測量值簡直要破表......雖然說有這種物質在我周圍的感覺還是有點嚇人，但我仍然看做是投資機會。我做了一些研究，但不幸的是關於如何萃取這種物質的資料卻不多。我想我應該附上測量值來聯絡其他人。##[[/size]]
+@@ @@
+[[/div]]
+
+[[div class="page"]]
+@@ @@
+[[size larger]]##black|11/27/2008##[[/size]]
+@@ @@
+[[size larger]]##black|今天，有位活動家抵達，他來自一個叫做輻光輝日 (Radiosol) 的組織，還帶著團隊做現場驗證。這段期間中，他和我講了他們因為政府反對這種能源而遇到的困難和阻礙，他還向我保證有了他的幫助，我可以從中獲得很大的利益。##[[/size]]
+@@ @@
+[[size larger]]##black|一旦證實了鈾存在，他們便告訴我我可採取的選擇，並推薦了一種以這種材料為食並產生可用能量的真菌。他們還說，第一週會派兩位員工幫助我。##[[/size]]  
+@@ @@
+[[size larger]]##black|我注意到有一位員工戴著太陽眼鏡，脖子上有生物危害標誌。我很想問她這是怎麼回事，但她看起來不像愛說話的人。##[[/size]]
+@@ @@
+[[/div]]
+
+以下信件為「輻光輝日（Radiosol）」 組織[[footnote]]此後稱為 GoI-115。 [[/footnote]] 寄給一位 SCP-ES-097 買家的信：
+
+[[div class="page"]]
+@@ @@
+[[size larger]]##black|Nurasyl 先生，誠摯感謝您對綠色核能計畫的協助。我們必須要求您對合約相關資訊保密。在我們為您提供的這些盒子中，是我們在核能領域最新創作：一種放射性營養真菌，簡單解釋，就是能夠以高放射性元素__為營養源__的蕈類。它們的益處不僅如此，它們還可以產生與小型核子反應爐相當的能量。##[[/size]]  
+@@ @@
+[[size larger]]##black| 我們還將為您提供種植這些作物所需的設備和指導人員。我們的目標如同老闆所說：「願輻射的力量擁抱那些需要它的人，願它的能量引領我們踏入光明的新時代。」 我們期待您的第一次收成。如果您有任何問題，請使用我們用電子郵件寄送給您的電話號碼和電子郵件地址與我們聯絡。##[[/size]]
+@@ @@
+[[/div]]
+
+未發現與 SCP-ES-097 或當地居民的進一步情報。目前未知是否有任何企業與 GoI-115 有商務往來，更多調查正在進行。
+
+----
+[[=]]
+[[span style="font-size: 175%"]]{{**附錄 B**}}[[/span]]
+{{訪問記錄}}
+[[/=]]
+----
+
+[[div style="display: inline-block; border:solid 1px #f5f5f5; background:#fffff; float:center; width:84%; padding:1px 15px; margin: 10px 10px 10px 40px; box-shadow: 2px 2px 3px 0px #999"]]
+[[=]]
+++++ **訪問**
+[[/=]]
+---------
+**日期：**2009/01/23
+
+**訪問者：**Carlos 研究員
+
+**受訪者：**SCP-ES-097-A
+
+----
+
+[訪問開始]
+
+**Carlos 研究員：**你好，又見面了 SCP-ES-097-A，你今天感覺如何？
+
+**SCP-ES-097-A：**每天都一樣......我的妄想中混亂的慾望......繁榮。
+
+**Carlos 研究員：**那個你在幻覺和夢中看到的實體，能再說一遍嗎？這次是為了要記錄。
+
+**SCP-ES-097-A：好啊，但是那不是幻覺......那女的和你我一樣真實。
+
+**Carlos 研究員：**試著描述你的經驗和你說的那個實體。
+
+**SCP-ES-097-A:**明白。她是某種，嗯......她的存在帶來溫暖的氛圍，綻放著光芒，就好像熔爐？對，就是這樣，讓我印象很深刻。
+
+**Carlos 研究員：**這些描述帶來的情報太少了。你們有某種對話之類的交流嗎？或是她的實際外表？
+
+**SCP-ES-097-A：**很高，穿著正裝。可以說是有點邋遢......白色的肌膚被灰燼覆蓋，還有恐怖的深紅色眼睛......黑色的火焰從她背後冒出，形狀就好像兩對翅膀......
+
+**Carlos 研究員：**這次你對她的外型有更詳盡的描述，那你有與她對話或進行任何形式的交流嗎？
+
+**SCP-ES-097-A:**那麼多的低語與回音，其中有句「靈魂應當承受轉變.......」「透過核能帶來的轉變......」。
+
+**Carlos 研究員：**那個有關核能的發言是全新的......總之，她叫什麼名字？
+
+**SCP-ES-097-A：**Te......不要，別又來了......住手......那眼睛看著我，別再看著我了！啊！
+
+此時，SCP-ES-097-A 昏倒，並遺忘本次訪問開始至今的所有記憶。
+
+-----
+**結論：**從今以後，將開始尋求有關所謂 GoI-115 和上述實體的更多資訊。 
+
+[[/div]]
+
+----
+[[=]]
+[[span style="font-size: 175%"]]{{**附錄 C**}}[[/span]]
+{{事件 ES-097-1}}
+[[/=]]
+----
+
+2009 年 1 月 26 日，Site-133 資料庫收到一則訊息，目前不清楚站點電子郵件地址如何被得知，也不清楚訊息如何繞過安全系統。訊息的發出地點仍在調查中。收到訊息的數秒後，SCP-ES-097 的非冷凍樣本同時發生了多次爆炸，而 SCP-ES-097-A 個體則釋放出大量伽馬射線和中微子。
+
+由於 Site-133 具備防護放射性危害的安全措施，因此未有 SCP-ES-097-A 造成人員傷亡的報告，然而 SCP-ES-097 的爆炸造成站點20人傷亡。自事件 ES-097-1 以來，未經站點主管授權，任何情況下都不得解凍 SCP-ES-097。
+
+GoI-115 已被宣布為高度敵對組織，應立即消滅。收到的訊息如下：
+
+[[collapsible show="2009/26/01收到的訊息" hide="關閉"]]
+[[<]]
+[[div class="email"]]
+[[div class="tofrom"]]
+**收件人：**SCP基金會
+**寄件人：**Teresa Bárbara
+**主旨：**關於SCP基金會影響輻光輝日業務營運乙事
+[[/div]]
+------
+我很遺憾這是我們第一次見面時的自我介紹方式，但我必須告知，我對你們的收容行為有所不滿。因為你們突如其來的收容阻礙了弊公司的業務運作，我才被迫做出如此好戰的回應，像你們這樣自私的人並無法阻止未來。你們煽動了世上最強大的火焰，現在你們將面臨後果，請不要再阻撓我們了。
+
+正如太陽照亮世間，我們也將照亮世界。你們可以否認這點，你們可以將這點隱藏起來不讓世人看見，你們可以從脆弱的內心中抹去這點。然而，這是徒然的對抗，無法抵擋我們光明的真理，以及我們為了建設更美好、更開明的世界而奮鬥的渴望。在我的力量之前，試圖世界液晶一定注定滅亡。我們為更美好、更光明的世界而奮鬥的願望。有一個世界試圖抵抗，但已在我的力量下滅亡。
+
+在我的出生地，我從未有機會做出任何改變，而我長久以來都被遺忘。直到人類喚醒了宇宙的原初力量。在這個時代，我將向你們傳授這種力量的真諦。
+[[/div]]
+[[/<]]
+
+對 Teresa Bárbara [[footnote]] PoI-1106 [[/footnote]]本身以及她和 GoI-115 關係的調查正在進行中。
+[[/collapsible]]

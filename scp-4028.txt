@@ -1,0 +1,28 @@
+[[include component:scp-meta-title-hiding css-style=classic]]
+[[include info:start]]
+**SCP-4028** - 來自曼查的唐吉軻德騎士傳
+**作者：** [[*user the great hippo]]
+**譯者：** [[*user vomiter]]
+**圖片：** [https://commons.wikimedia.org/wiki/File:Band_van_beige_kalfsleer-KONB12-857F31.jpeg Link], [https://commons.wikimedia.org/wiki/File:Don_Quixote_16.jpg Link], and  [https://commons.wikimedia.org/wiki/File:Three_3_prong_windmills.jpg Link].
+
+靈感當然來自《[https://en.wikipedia.org/wiki/Don_Quixote 唐吉軻德]》。
+
+**音樂：** [https://youtu.be/TiAz_g2-H_E Man of La Mancha] (Colm Wilkinson)
+----
+[[include info:more]]
+[[include info:end]]
+
+
+[[include component:scp-pride]]
+
+[[module ListPages category="fragment" parent="." limit="1" order="name" offset="@URL|0"]]
+%%content%%
+[[/module]]
+
+[[footnoteblock]]
+
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[SCP-4027]]] | SCP-4028 | [[[SCP-4029]]] >>
+[[/=]]
+[[/div]]

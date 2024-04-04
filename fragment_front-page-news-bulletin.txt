@@ -1,0 +1,101 @@
+[!-- It is not suggested to add more than four news, otherwise it looks "full". There is no minimum though. You can remove this block if you don't want news. --]
+[[div class="news-block content-panel"]]
+[[div class="panel-heading"]]
+新聞
+[[/div]]
+[[div class="panel-body"]]
+
+
+
+[!-- News: Entry 1 --]
+[[div class="alternate unmargined"]]
+[[div class="news-title"]]
+2023年09月25日**【競賽活動】**
+[[/div]]
+[[div class="news-content"]]
+[[[summer-clear-sky-contest|夏日晴空]]]競賽的結果已經決定！恭喜獲獎者：
+冠軍：【盛夏行者】[[[underground-city-date|地下街約會]]] - [[*user AbyssDream]]
+亞軍：【仲夏行者】[[[queen-of-farangaw | 馬蘭女王]]] - [[*user SamScript]]
+季軍：【初夏行者】[[[fleeting | 轉瞬即逝]]] - [[*user Aindavis_817]]
+[[/div]]
+[[/div]]
+
+
+
+
+[!-- News: Entry 2 --]
+[[div class="alternate unmargined"]]
+[[div class="news-title"]]
+2023年08月14日**【競賽活動】**
+[[/div]]
+[[div class="news-content"]]
+2023夏季競賽《暑氣蒸騰熱血大決戰》結果正式出爐！恭喜得獎者： _
+冠軍：[[*user AbyssDream]] - 29分 _
+亞軍：[[*user SamScript]] - 23分 _
+季軍：[[*user EmptyName723]] - 17分 _
+感謝各位的熱情參與！
+
+[[/div]]
+[[/div]]
+
+
+
+[!-- News: Entry 3 --]
+[[div class="alternate unmargined"]]
+[[div class="news-title"]]
+2023年07月20日**【競賽活動】**
+[[/div]]
+[[div class="news-content"]]
+* 2023夏季競賽《暑氣蒸騰熱血大決戰》今日展開。本次競賽的徵件時間是【2023年07月09日（日）】至【2023年07月30日（日）23:59】。更多競賽詳細資訊請見▶[[[summer-contest-2023|活動網頁]]]。
+[[/div]]
+[[/div]]
+
+
+
+[!-- News: Entry 4 --]
+[[div class="alternate unmargined"]]
+[[div class="news-title"]]
+2023年06月20日**【競賽活動】**
+[[/div]]
+[[div class="news-content"]]
+* 夏日晴空競賽的題目於今日公開。本次競賽的徵件時間是【2023年08月15日（日）】至【2023年08月29日（日）23:59】。更多競賽詳細資訊請見▶[[[summer-clear-sky-contest|活動網頁]]]。
+[[/div]]
+[[/div]]
+
+
+
+
+[!-- News: Footer --]
+[[/div]]
+[[div class="panel-footer"]]
+[[[archived-news|新聞檔案室]]]
+[[/div]]
+[[/div]]
+
+[[module css]]
+.news-block .panel-body {
+padding: 0;
+}
+.news-block .panel-body .alternate {
+padding: 5px 10px;
+}
+.news-block .news-title {
+font-weight: bold;
+font-size: 110%;
+margin-bottom: 5px;
+color: #633;
+}
+.news-block .news-content {
+margin: 5px 0;
+}
+.news-block .news-title > p,
+.news-block .news-content > p {
+margin: 0;
+}
+[[/module]]
+
+[[include custom:start]]
+.news-block .news-title {
+color:#caaaaa;
+}
+[[include custom:end]]

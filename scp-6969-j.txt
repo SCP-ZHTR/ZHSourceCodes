@@ -1,0 +1,29 @@
+[[include :scp-zh-tr:component:adult-content-warning
+|sexual-references=1
+]]
+[[module CSS]]
+.meta-title p {
+    color: transparent !important;
+    font-size: 0 !important;
+}
+[[/module]]
+
+[[include component:scp-meta-title-hiding css-style=classic]]
+
+[[include info:start]]
+**SCP-6969-J - 性愛梗新劇場版：終**
+**作者：** [[*user yossipossi]]
+**原文：** [https://scp-wiki.wikidot.com/scp-6969-j SCP-6969-J - The End of Sex 6.9: You Can (Not) Reproduce]
+**譯者：**[[*user Kikunai]] 
+**圖像：** 見底部。
+
+部分內容引用了[[[SCP-6969|]]]和[[[SCP-6820|]]]的譯文。
+
+[[include info:end]]
+
+[[module ListPages category="fragment" parent="." limit="1" order="created_at" offset="@URL|0"]]
+%%content%%
+[[/module]]
+
+[!-- https://scp-zh-tr.wikidot.com/fragment:scp-6969-j-1 --]
+[!-- https://scp-zh-tr.wikidot.com/fragment:scp-6969-j-2 --]

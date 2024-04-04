@@ -1,0 +1,6 @@
+image: 'https://i.imgur.com/vC6PPfk.jpg'
+owner: 'Edward Knave'
+owner-wiki: edward-knave
+license: '0'
+other-license: ''
+note: 從紐西蘭到大澳。

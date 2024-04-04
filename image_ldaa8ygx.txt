@@ -1,0 +1,6 @@
+image: 'https://i.imgur.com/DuW6kcv.jpg'
+owner: Kai
+owner-wiki: KaiTenno
+license: '0'
+other-license: ''
+note: 對我也想知道裡面到底是甚麼

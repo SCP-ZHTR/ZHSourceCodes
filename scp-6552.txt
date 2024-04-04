@@ -1,0 +1,78 @@
+[[include component:scp-meta-title-hiding css-style=classic]]
+[[include :scp-wiki:component:ratio-bar base=-- |ex=--]]
+
+[[include info:start]]
+篇名:  SCP-6552 - 潮汐.wav
+原文：[https://scp-wiki.wikidot.com/scp-6552 SCP-6552 Tidal.wav]
+作者：[[*user Tstaffor ]]
+譯者：[[*user Red phosphorus ]]
+[[include info:end]]
+
+[[include :scp-wiki:component:author-label-source start=--
+|name=Tstaffor]]
+= [[[tstaffor-s-author-page|Author Page]]] | [[[the-scip-squad-podcast-hub|Podcast]]] | [[[https://scp-wiki.wikidot.com/random:random-page|Feeling Lucky?]]]
+
+**Tstaffor的精選作品：**
+* [[[SCP-6557]]] - Annihilation From a Cross Across Time
+* [[[SCP-5846]]] - The One-Stop Shop
+* [[[SCP-6547]]] - Worlds Within Worlds Within Worlds...
+[[include :scp-wiki:component:author-label-source end=--]]
+
+[[include component:image-block name=http://scpsandboxcn.wikidot.com/local--files/iceredtea/tidalwav.png|caption=SCP-6552.|width=200px]]
+
+**項目編號：**SCP-6552
+
+**項目等級：**Safe
+
+**特殊收容措施：**SCP-6552儲存於異常-文件-文件夾-47。停止對SCP-6552的所有測試，且在任何情況下任何人都不得重新命名或播放SCP-6552。
+
+**描述：**SCP-6552是一個.wav文件，由水拍打岸邊的聲音組成。當文件以可與.wav形成複合詞的名稱命名並被播放時，將發生與複合詞相對應的異常事件。
+[[=]]
+[[include :snippets:html5player
+|type=audio
+|url=https://scp-wiki.wdfiles.com/local--files/scp-6552/wav.wav
+]]
+[[/=]]
+
+**附錄 6552.1 測試紀錄：**
+Henderson博士指示D-41897如何命名SCP-6552。D-41897播放檔案3-10次，隨後Henderson博士紀錄發生的現象。
+||~ SCP-6552之名稱 ||~ 異常事件 ||
+|| 聲.wav || SCP-6552的聲音並非從連接電腦、用來播放音頻的揚聲器發出。而是從構成.wav文件本身的像素發出。 ||
+|| 熱.wav || 播放SCP-6552的房間開始以每秒1°C的速度升溫。 ||
+|| 蒸氣.wav || 當播放時，播放它的電腦的所有使用者介面被重組以符合「蒸氣波」美學。 ||
+|| 腦.wav || Test-Site-98的所有人員都能聽到正在被播放的SCP-6552，儘管沒有錄音設備記錄到任何聲音。 ||
+|| 微.wav || 播放時，播放SCP-6552的裝置發出集中輻射，導致D-41897在音頻播放3次後死亡。 ||
+|| 潮汐.wav || 發生在Test-Site-98的洪水導致異常效應的結果紀錄無法恢復。重建及將新的替補人員轉移到Test-Site-98正在進行。 ||
+
+[[footnoteblock]]
+----
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[SCP-6551]]] | SCP-6552 | [[[SCP-6553]]] >>
+[[/=]]
+[[/div]]
+----
+[[include :scp-wiki:more-by:tstaffor]]
+
+[[div]]
+[[=]]
+[[include :scp-zh-tr:component:license-box
+|author=Tstaffor]]
+=====
+[[<]]
+> **檔案名稱：** tidalwav.png
+> **圖像作者：** Wilfredor
+> **圖像授權協議：** CC BY-SA 4.0
+> **圖源連結：** https://commons.wikimedia.org/wiki/File:Heraldic_waves.svg
+[[/<]]
+=====
+[[<]]
+> **檔案名稱：** wav.wav
+> **作者：** apsbin
+> **授權協議：** CC BY 3.0
+> **來源連結：** https://commons.wikimedia.org/wiki/File:Pyramidal_waves,_It%C5%8D,_Shizuoka,_-Jan._2012_a.ogv
+[[/<]]
+=====
+[[include :scp-wiki:component:license-box-end]]
+[[/=]]
+[[/div]]

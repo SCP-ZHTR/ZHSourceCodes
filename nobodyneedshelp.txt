@@ -1,0 +1,260 @@
+[[module CSS]]
+#header {background-image: url(http://smlt.wdfiles.com/local--files/plaguebearer%3Anobody/%3F);}
+#header h1 a {
+    display: block;
+    margin: 0;
+    padding: 80px 0 25px;
+    line-height: 0px;
+    max-height: 0px;
+    color: transparent;
+    background: transparent;
+    font-family: BauhausLTDemi. 'Nanum Gothic'. Arial. sans-serif;
+    text-decoration: none;
+    text-shadow: none;
+    letter-spacing: 0.9px;
+}
+ 
+#header h1 a::before {
+    content: "Nobody";
+    color: #fff;
+    letter-spacing: -0.02em;
+    text-shadow: 3px 3px 5px #000;
+}
+ 
+#header h2 span {
+    display: block;
+    margin: 0;
+    padding: 19px 0;
+    line-height: 0px;
+    max-height: 0px;
+    font-weight: bold;
+    color: transparent;
+    text-shadow: none;
+}
+ 
+#header h2 span::before {
+    content: '...';
+    color: #fff;
+    text-shadow: 1px 1px 1px #000;
+    text-shadow: 1px 1px 1px rgba(0,0,0,.8);
+}
+
+sup {
+  vertical-align: top;
+  position: relative;
+  top: -0.5em;
+}
+
+.scp-image-block.block-right { margin: 1em 2em 1em 1em; }
+
+[[/module]]
+
+[[include info:start]]
+ 作者 : [[*user ting129]]
+[[include info:end]]
+
+[[module css]]
+.footnoteref{
+color: #FF5555;
+}
+.danke{
+padding: 5px 5px 5px 15px;
+margin-bottom:10px;
+width: 100%;
+font-family: monospace;
+font-size: 1.1em; }
+
+.agent{
+background-color:#002200;
+border: 3px solid #55AA55;
+color: #77CC77;
+}
+
+.site{
+background-color:#222200;
+border: 3px solid #AAAA55;
+color: #DDDD77;
+}
+[[/module]]
+
+[[div class="danke agent"]]
+[[=]]
+[[size 130%]]
+//10月26日//
+
+//下午1:48//
+<N0daby建立了聊天室>
+
+//下午1:50//
+<longkee56加入了聊天室>
+
+<ffffff00o加入了聊天室>
+
+[[/=]]
+
+[[>]]
+
+我需要兩個穩定錨，不用太純，跟官方
+的一樣就好。
+
+[[/>]]
+
+[[<]]
+
+##F5F5F5|**longkee56**##
+我這昨天來了兩箱，怎交？
+
+[[/<]]
+[[/size]]
+[[size 130%]]
+[[>]]
+
+mail我的意識，錢之後給你。儘快。
+
+[[/>]]
+
+[[=]]
+
+//下午1:73//
+<d0anl7加入了聊天室>
+
+[[/=]]
+
+[[<]]
+
+##F5F5F5|**d0anl7**##
+現在是只有我卡在超位元嗎？
+
+[[/<]]
+[[/size]]
+[[size 130%]]
+[[=]]
+
+//下午5:45//
+
+[[/=]]
+
+[[>]]
+
+我想是的，兄弟。
+
+[[/>]]
+
+[[<]]
+
+##F5F5F5|**ffffff00o**##
+快出來吧，那裡對大腦不好www
+[[/size]]
+[[size 130%]]
+##F5F5F5|**d0anl7**##
+我出來了啦，三天前。別藉機損我。
+[[/<]]
+[[/size]]
+[[size 130%]]
+[[>]]
+
+我找你是有原因的，幫我把IJA那邊對
+我不利的行動排掉，不然很難找另外一
+邊的麻煩。
+
+[[/>]]
+
+[[<]]
+
+##F5F5F5|**d0anl7**##
+看你的誠意。
+
+[[/<]]
+[[/size]]
+[[size 130%]]
+[[>]]
+
+四件功，還有一棟東京的房子。
+
+[[/>]]
+
+[[=]]
+
+<ffffff00o退出了聊天室>
+
+[[/=]]
+
+[[<]]
+
+##F5F5F5|**d0anl7**##
+成交。
+[[/size]]
+[[size 130%]]
+##F5F5F5|**longkee56**##
+剛好說一下，寄了。
+[[/<]]
+[[/size]]
+[[size 130%]]
+[[>]]
+
+感謝，再聯絡。
+
+[[/>]]
+
+[[=]]
+
+<N0daby將longkee56自聊天室中移除>
+
+<N0daby將d0anl7自聊天室中移除>
+
+<N0daby退出了聊天室>
+[[/size]]
+@@ @@
+[[/div]]
+[[/=]]
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+[[div class="danke agent"]]
+
+[[=]]
+[[size 130%]]
+//下午1:73//
+
+[[/=]]
+
+[[<]]
+
+##F5F5F5|**d0anl7**##
+現在是只有我卡在超位元嗎？
+
+[[/<]]
+[[/size]]
+[[/div]]
+
+[[include info:start]]
+ 作者 : [[*user ting129]]
+[[include info:end]]

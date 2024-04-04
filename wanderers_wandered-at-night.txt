@@ -1,0 +1,228 @@
+[[div class="ff-pc"]]
+[[include :etinjat:css:flip-book-page-1-left]]
+
+
+[[div class="poem"]]
+
+@@@@
+@@@@
+役 形 勞 骨 損@@  @@張 羽 亂 心 飛
+@@@@
+伏 枕 巾 濕 甚@@  @@舉 頭 明 鑒 微
+@@@@
+@@@@
+欲 將 霜 淚 寄@@  @@孰 把 黯 雲 堆
+@@@@
+還 續 黃 花 酒@@  @@滿 接 白 玉 杯
+@@@@
+@@@@
+[[/div]]
+[[include :etinjat:css:flip-book-page-2-left]]
+
+
+
+[[include :etinjat:css:flip-book-page-3-left]]
+
+第三页左侧
+
+[[include :etinjat:css:flip-book-page-4-left]]
+
+第四页左侧
+
+[[include :etinjat:css:flip-book-page-5-left]]
+第五页左侧
+[[include :etinjat:css:flip-book-backcover]]
+
+ [#u-p-5 琅嬛福地藏书阁]
+
+
+[[include :etinjat:css:flip-book-page-5-right]]
+第五页右侧
+[[include :etinjat:css:flip-book-page-4-right]]
+第四页右侧
+[[include :etinjat:css:flip-book-page-3-right]]
+第三页右侧
+[[include :etinjat:css:flip-book-page-2-right]]
+
+[[div class="poem"]]
+
+@@@@
+@@@@
+遊 尊 孤 影 惡@@  @@邀 筆 鮮 人 回
+@@@@
+飲 盡 新 思 苦@@  @@夢 鉤 殘 恨 頹
+@@@@
+@@@@
+孤 舟 南 浦 繫@@  @@杜 宇 北 林 催
+@@@@
+天 漢 曷 奔 湧@@  @@乘 風 揚 月 歸
+@@@@
+@@@@
+
+[[/div]]
+
+[[include :etinjat:css:flip-book-page-1-right]]
+
+[[div class="poem"]]
+
+
+@@@@
+@@@@
+聒 聲 擾 我 扉@@  @@夜 夜 彩 煙 輝
+@@@@
+萬 戶 闔 家 樂@@  @@獨 居 久 客 悲
+@@@@
+@@@@
+低 簷 垂 冷 露@@  @@高 樹 起 秋 黴
+@@@@
+曳 炬 銀 波 退@@  @@移 燈 玄 浪 隨
+@@@@
+@@@@
+
+[[/div]]
+
+[[include :etinjat:css:flip-book-cover-start]]
+
+[[a href="#u-p-1"]]中 秋 夜 遣 懷[[/a]]
+
+[[include :etinjat:css:flip-book-cover-end]]
+
+[[div class="book-memu memu-1 " ]]
+[#u 封面]
+[#u-p-1 第一頁]
+[#u-p-2 第二頁]
+[[/div]]
+
+[[include :etinjat:css:flip-book-over]]
+@@@@
+@@@@ 
+@@@@
+@@@@
+[[>]]
+[[module Rate]]
+[[/>]]
+[[/div]]
+
+[[div class="phone"]]
+
+[[include info:start]]
+原作者：[[*user Etinjat]]
+[[include info:end]]
+
+聒聲擾我扉，夜夜彩煙輝
+@@@@
+萬戶闔家樂，獨居久客悲
+@@@@
+@@@@
+低簷垂冷露，高樹起秋黴
+@@@@
+曳炬銀波退，移燈玄浪隨
+@@@@
+@@@@
+役形勞骨損，張羽亂心飛
+@@@@
+伏枕巾濕甚，舉頭明鑒微
+@@@@
+@@@@
+欲將霜淚寄，孰把黯雲堆
+@@@@
+還續黃花酒，滿接白玉杯
+@@@@
+@@@@
+遊樽孤影惡，邀筆鮮人回
+@@@@
+飲盡新思苦，夢鉤殘恨頹
+@@@@
+@@@@
+孤舟南浦繫，杜宇北林催
+@@@@
+天漢曷奔湧，乘風揚月歸 
+@@@@
+@@@@
+@@@@
+@@@@
+[[/div]]
+
+
+
+
+[[include :etinjat:css:flip-book]]
+[[include :scp-wiki-cn:theme:black-highlighter-theme]]
+[[include :scp-wiki-cn:theme:broken-world]]
+
+
+
+[[module css]]
+
+:root{
+--logo-image: var(--scp-image);
+  --header-title:"流浪者圖書館";
+ --header-subtitle:" 今夜月明人盡望，不知秋思落誰家";
+}
+
+#header #header-extra-div-1, #header #header-extra-div-2 {
+    top: 1rem;
+}
+
+#side-bar div.menu-item > a:last-of-type {
+width: 72%;
+}
+
+.page-note {
+
+  writing-mode:  vertical-rl;
+
+    display: block;
+/*    overflow: hidden;*/
+    font-family: kaiti,"Monotype Corsiva", "Bradley Hand ITC", sans-serif;
+    font-style: normal;
+    background-attachment: scroll;
+    background-clip: border-box;
+    background-color: #e7e9dc;
+    background-image: linear-gradient(to right , rgb(231, 233, 220) 2%);
+    background-origin: padding-box;
+    background-position: 0px 10px;
+    background-repeat: repeat;
+    background-size: 100% 10px;
+
+    border: 1px solid #CCC;
+    /*border-radius: 10px;*/
+    padding: 2em 3em 0 0px;
+    /*box-shadow: 0px 1px 3px rgb(0, 0, 0, 0.2); 不要使用阴影*/
+
+}
+
+.books-1-start a{
+padding:0.4em 0 0.4em 0;
+}
+
+.poem {
+    line-height: 20px;
+    margin: 0;
+       font-size: 150%;
+}
+
+.phone{
+ display:none;
+}
+
+#page-title{
+display:none;
+}
+
+ @media (max-width: 479px) {
+#page-title{
+display:block;
+}
+.ff-pc{
+display:none;
+}
+.phone{
+display:block;
+text-align: center;
+font-size: 170%;
+font-family: 'Andale Mono', 'Courier New', Courier, monospace;   
+   
+}
+}
+[[/module]]

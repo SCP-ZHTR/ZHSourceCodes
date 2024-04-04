@@ -1,0 +1,6 @@
+image: 'https://i.imgur.com/8e2JDFr.jpg'
+owner: SamScript
+owner-wiki: SamScript
+license: '0'
+other-license: ''
+note: 有點可惜，圖很嚇人但我修圖技術太糟了，阿彌陀佛

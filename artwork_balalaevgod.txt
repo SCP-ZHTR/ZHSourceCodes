@@ -1,0 +1,86 @@
+[[include info:start]]
+原文：[http://scp-ru.wikidot.com/artwork:balalaevgod Архив работ Саввы Балаева]
+作者：[[*user balalaevgod]]
+譯者：[[*user k1s10r0db00ne]]
+[[include info:end]]
+
+[[module CSS]]
+#header {
+    background: url(http://scp-ru.wdfiles.com/local--files/artwork%3Arussian-art-hub/scp-art-hub.png) 10px 40px no-repeat;
+    background-size: 100px;
+}
+
+
+
+#header h1 a::before {
+    content: "SCP基金會俄分藝作中心頁";
+    color: white;
+    text-shadow: 1px 1px 0px black;
+}
+
+#header h1 a span{
+    display: block;
+    content: "";
+    visibility: hidden;
+}
+
+#header h2 {
+    margin-left: 120px;
+    padding: 0;
+    clear: left;
+    float: left;
+    font-size: 105%;
+    max-height: 38px;
+}
+#header h2 span {
+    display: block;
+    margin: 0;
+    padding: 19px 0;
+    line-height: 0px;
+    max-height: 0px;
+    font-weight: bold;
+    color: transparent;
+    text-shadow: none;
+}
+ 
+#header h2 span::before {
+    content: 'Саввы Балаева的作品歸檔';
+    color: #f0f0c0;
+    text-shadow: 1px 1px 1px #000000;
+    text-shadow: 1px 1px 1px rgba(0,0,0,.8);
+}
+#header {
+    background: url(http://scp-ru.wdfiles.com/local--files/artwork%3Arussian-art-hub/scp-art-hub.png) 10px 40px no-repeat;
+    background-size: 100px;
+}
+[[/module]]
+
+[[table]]
+[[row]]
+[[cell]]
+[[include :scp-sandbox-3:image-zoom name=http://scp-ru.wdfiles.com/local--files/artwork:balalaevgod/0nMlf-hwk-E.png|caption=SCP-096|width=300px|align=left]]
+[[/cell]]
+[[cell]]
+[[include :scp-sandbox-3:image-zoom name=http://scp-ru.wdfiles.com/local--files/artwork:balalaevgod/3r4H8YKTxCQ.png|caption=SCP-682|width=300px|align=left]]
+[[/cell]]
+[[cell]]
+[[include :scp-sandbox-3:image-zoom name=http://scp-ru.wdfiles.com/local--files/artwork:balalaevgod/Eo3U214KTTg.png|caption=SCP-610|width=300px|align=left]]
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+[[include :scp-sandbox-3:image-zoom name=http://scp-ru.wdfiles.com/local--files/artwork:balalaevgod/pdoV4qWI3lU.png|caption=SCP-082|width=300px|align=left]]
+[[/cell]]
+[[cell]]
+[[include :scp-sandbox-3:image-zoom name=http://scp-ru.wdfiles.com/local--files/artwork:balalaevgod/qJ6LycB4XDE.png|caption=SCP-049|width=300px|align=left]]
+[[/cell]]
+[[cell]]
+[[include :scp-sandbox-3:image-zoom name=http://scp-ru.wdfiles.com/local--files/artwork:balalaevgod/sSI8tMonoHg.png|caption=SCP-4666|width=300px|align=left]]
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+[[include :scp-sandbox-3:image-zoom name=http://scp-ru.wdfiles.com/local--files/artwork:balalaevgod/zWWYuycSHmk.png|caption=SCP-1069-RU|width=300px|align=left]]
+[[/cell]]
+[[/row]]
+[[/table]]

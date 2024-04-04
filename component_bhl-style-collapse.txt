@@ -1,0 +1,398 @@
+[[include :scp-zh-tr:theme:black-highlighter-theme]]
+[[div style="display:none;"]]
+[[include :scp-zh-tr:component:bhl-dark-sidebar]]
+[[/div]]
+[[include component:bhl-style-collapse-source]]
+[[>]]
+[[module Rate]]
+[[/>]]
+[[div_ class="no-addendum"]]
+[[collapsible show="代碼" hide="代碼"]]
+[[div_ style="font-size: 65%;"]]
+[[code type="css"]]
+/* BHL styled collapsibles with fancy-schamncy animations! By Monkatraz */
+/* #page-content is shoved everywhere to make sure it's the most specific thingy */
+/* Styling! */
+#page-content .collapsible-block-folded, #page-content .collapsible-block-unfolded-link {
+    margin-top: 10px;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    box-shadow: rgb(128, 128, 128) 0px 0px 3px 0px;
+    /* Animated things */
+    transition: background 0.2s linear;
+    background: rgb(66, 66, 72);
+    /* Technical bits */
+    width: min-content;
+    white-space: nowrap;
+    overflow: hidden;
+}
+/* The Clicky Text */
+#page-content .collapsible-block-link {
+    color: white;
+    font-weight: bold;
+}
+/* Gets rid of the underline when hovering over the collapsible */
+#page-content .collapsible-block-link:hover {
+    text-decoration: none
+}
+/* Collapsible content */
+#page-content .collapsible-block-content {
+    border-bottom: solid 3px rgb(66,66,72);
+    /* Animated things */
+    transition: border-top-color 0.2s linear;
+    border-top: solid rgb(66, 66, 72) 5px;
+}
+/* End of addendum tag */
+#page-content .collapsible-block-content::after {
+    content:"附錄結束";
+    font-weight: bold;
+    font-size: 95%;
+    color:white;
+    background: rgb(66, 66, 72);
+    width: 150px;
+    border-radius: 3px;
+    /* Technical bits */
+    display: block;
+    text-align: center;
+    margin:auto;
+    margin-bottom: -3px;
+}
+/* Folded blocks are animated, unfolded ones are not */
+#page-content .collapsible-block-folded {
+    transition: max-width 0.2s linear;
+    max-width: 7.8em;
+}
+#page-content .collapsible-block-unfolded-link{
+    width: min-content;
+}
+/* Addendum counter */
+#page-content {
+    counter-reset: collapse;
+}
+#page-content .collapsible-block, #page-content .unfolded-collapse, #page-content .centered-unfolded-collapse{
+    counter-increment: collapse;
+}
+
+/* Addendum prefixes */
+#page-content .collapsible-block-folded .collapsible-block-link::before {
+    content: "▷ 附錄 XXXX." counter(collapse);
+    border-right: dotted 0.25em;
+    padding-right: 1rem;
+    margin-right: 1rem;
+    font-weight: normal;
+    font-family: var(--mono-font);
+}
+#page-content .collapsible-block-unfolded .collapsible-block-link::before {
+    content: "▽ 附錄 XXXX." counter(collapse);
+    border-right: dotted 0.25em;
+    padding-right: 1rem;
+    margin-right: 1rem;
+    font-weight: normal;
+    font-family: var(--mono-font);
+}
+/* Hovering effects */
+#page-content .collapsible-block-folded:hover, #page-content .collapsible-block-unfolded-link:hover{
+    background: rgb(100, 46, 44);
+    max-width: 100%;
+}
+/* Top of the collapsible border - because it looks prettier this way */
+#page-content .collapsible-block-unfolded-link:hover + .collapsible-block-content{
+    border-top-color: rgb(100, 46, 44);
+}
+/* Accent flash when clicking, also forces the collapsible to expand */
+#page-content .collapsible-block-folded:active, #page-content .collapsible-block-unfolded-link:active{
+    transition: background 0s, max-width 0s;
+    background: rgb(133, 0, 5);
+    max-width: 100%;
+}
+/* Done with normal collapsibles, now we do all the variations */
+/* Unfolded collapsible */
+#page-content .unfolded-collapse{
+    margin-top: 10px;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    box-shadow: rgb(128, 128, 128) 0px 0px 3px 0px;
+    background: rgb(66, 66, 72);
+    /* Text */
+    color: white;
+    font-weight: bold;
+    /* Technical bits */
+    width: min-content;
+    white-space: nowrap;
+    overflow: hidden;
+}
+/* Addendum prefix */
+#page-content .unfolded-collapse::before {
+    content: "▽ 附錄 XXXX." counter(collapse);
+    border-right: dotted 0.25em;
+    padding-right: 1rem;
+    margin-right: 1rem;
+    font-weight: normal;
+    font-family: var(--mono-font);
+}
+/* Bottom border */
+#page-content .unfolded-collapse-border {
+    display: block;
+    width: 700px;
+    border-top: solid rgb(66, 66, 72) 5px;
+}
+/* Centering, very simple */
+#page-content .center-collapse .collapsible-block-folded, #page-content .center-collapse .collapsible-block-unfolded-link, #page-content .center-collapse .unfolded-collapse{
+    margin:auto;
+    margin-top: 10px;
+}
+/* Removing the slick animation and addendum number because you're a monster */
+/* Set back the max width and just ignore the transition screwyness */
+#page-content .no-addendum .collapsible-block-folded {
+    max-width: auto;
+}
+/* Prefixes */
+#page-content .no-addendum .collapsible-block-unfolded .collapsible-block-link::before, #page-content .no-addendum .unfolded-collapse::before {
+    content: "▽";
+    border-right: none;
+    padding-right: 0rem;
+}
+#page-content .no-addendum .collapsible-block-folded .collapsible-block-link::before {
+    content: "▷";
+    border-right: none;
+    padding-right: 0rem;
+}
+/* Kill the automatic footer because you haven no trouble figuring out where your addendums end */
+#page-content .no-footer .collapsible-block-content{
+    border-bottom: none;
+}
+#page-content .no-footer .collapsible-block-content::after{
+    display:none;
+}
+/* Fittingly, we finish with the footer object */
+/* The footer is actually the giant bottom border object because larger -> smaller works better */
+#page-content .addendumfooter{
+    display: block;
+    border-bottom: solid 3px rgb(66,66,72);
+    margin:auto;
+    text-align: center;
+}
+/* Texty bits */
+#page-content .addendumfooter::after{
+    content: "附錄結束";
+    font-weight: bold;
+    font-size: 95%;
+    color:white;
+    background: rgb(66, 66, 72);
+    width: 150px;
+    border-radius: 3px;
+    /* Technical bits */
+    display: block;
+    text-align: center;
+    margin:auto;
+    margin-bottom: -3px;
+}
+/* Ayer's info-bar patch */
+#page-content .info-container .collapsible-block {
+    counter-increment: none;
+}
+#page-content .info-container .collapsible-block-folded, #page-content .info-container .collapsible-block-unfolded-link  {
+    transition: none;
+    width: 100%;
+    max-width: 100%;
+    margin: 0 auto;
+    padding: 0;
+    box-shadow: none;
+    background: var(--barColour);
+}
+#page-content .info-container .collapsible-block-folded::before, #page-content .info-container .collapsible-block-unfolded-link::before  {
+    content: "";
+    display: none;
+}
+#page-content .info-container .collapsible-block-content {
+    border-bottom: none;
+    transition: none;
+    border-top: none;
+}
+#page-content .info-container .collapsible-block-content::after {
+    display: none;
+}
+[[/code]]
+[[/div]]
+[[/collapsible]]
+[[/div]]
+@@@@
+[[div class="no-addendum" style="border: solid 1px #444444; padding: 1px 10px; margin: auto; box-shadow: 1px 1px 5px rgba(0,0,0,.3)"]]
++ Including
+在任何維基上：
+[[div class="code"]]
+@@[[i@@nclude :scp-zh-tr:component:bhl-style-collapse-source]]
+[[/div]]
+
+如果你沒有在文章之中使用[http://scp-zh-tr.wikidot.com/theme:black-highlighter-theme 黑色標記筆 外觀主題]的話，請在先前的 include 後方插入這段CSS模組：
+[[collapsible show="CSS" hide="CSS"]]
+[[div_ style="font-size: 65%;"]]
+[[code type="css"]]
+[[module css]]
+/* bhl-style-collapse Sigma-9 Compatiblity Patch */
+#page-content .collapsible-block-folded, #page-content .collapsible-block-unfolded, #page-content .unfolded-collapse{
+    line-height: 1.4;
+}
+#page-content .collapsible-block-folded .collapsible-block-link::before, #page-content .collapsible-block-unfolded .collapsible-block-link::before, #page-content .unfolded-collapse::before {
+    font-family: monospace;
+    font-size: 130%;
+    margin-left: -0.4em
+}
+[[/module]]
+[[/code]]
+[[/div]]
+[[/collapsible]]
+@@ @@
+[[/div]]
++ 這是什麼
+這是一個非官方推出的[http://scp-zh-tr.wikidot.com/theme:black-highlighter-theme 黑色標記筆主題]組件，讓你可以在文章之中使用會動，而且動得相當順滑的BHL風格摺疊頁按鈕。它會作用於你頁面之中的所有{{[collapsible]}}元素之上。你的文章可能只需要小小微調一下就可以相容使用了。
+
+[[collapsible show="點我一下！" hide="點我一下！"]]
+
+**特點：**
+* 流暢且錦上添花的動畫絕對能讓一些人點爆你的upvote鈕
+* 在手機上也可相容
+* 有部分是可以自定義的（詳見下文）
+* 真正意義上的替你算你的附錄有幾個 lamo
+* 為那些不怎麼在意頁面上的可點擊要素的人帶來了獨立的自定義div裝飾
+* 那個在打開摺疊時會從向右轉為向下的箭頭**也太酷了吧**!?
+* 你知道你只要拿到足夠多的upvote，你就能在最終達到心靈上的寧靜祥和。來吧，使用這個模組，這就是你所需要的。
+
+**使用限制：**
+* 它將會作用在//所有//的折疊頁上面。如果你有部分是想要自行設計的話，你可能得要學一下CSS的編寫技巧。
+* 當你把{{hideLocation}}設定為"both"的時候，它看起來會挺糟糕的。
+* 它不會出奇地為巢狀折疊頁提供支援。這只是CSS而已。
+
+[[/collapsible]]
+
+[[div_ class="no-addendum"]]
+[[collapsible show="更新日誌" hide="更新日誌"]]
+**7/9/2020**
+* 新增對Sigma-9的相容性更新
+* 修正與Ayer的著作資訊模組所會發生的衝突
+[[/collapsible]]
+[[/div]]
+-----
++ 使用方法
+[[div style="border: solid 1px #444444; padding: 1px 10px; margin: auto; box-shadow: 1px 1px 5px rgba(0,0,0,.3)"]]
++++++ 折疊頁
+**一般的：**
+這個組件是對標準的折疊頁做出調整，所以這基本上是一樣的。強烈建議你在'show'與'hide'裡面填入相同的內容。
+
+//注意：// 「{{附錄 XXXX.N}}」是會自動添加並根據先前有幾個折疊頁來增加計數的。這可以被移除，詳見下文。
+[[collapsible show="酷東西" hide="酷東西"]]
+[[code]]
+[[collapsible show="酷東西" hide="酷東西"]]
+我就是東西！
+[[/collapsible]]
+[[/code]]
+[[/collapsible]]
+**保持展開的：**
+說白一點，這其實就只是個「固定位置」的裝飾性元素。你實際上沒有把你的內容放進「可折疊要素」裡面。
+
+//注意：// 那個「{{附錄 XXXX.N}}」在計數時也會把這個算進去。
+[[div_ class="unfolded-collapse"]]
+酷東西
+[[/div]]
+[[div_ class="unfolded-collapse-border"]]
+[[/div]]
+[[code]]
+[[div_ class="unfolded-collapse"]]
+酷東西
+[[/div]]
+[[div_ class="unfolded-collapse-border"]]
+[[/div]]
+[[/code]]
+[[/div]]
+----
+[[div style="border: solid 1px #444444; padding: 1px 10px; margin: auto; box-shadow: 1px 1px 5px rgba(0,0,0,.3)"]]
++++++ 改良版
+**置中化：**
+[[div_ class="center-collapse"]]
+[[collapsible show="酷東西" hide="酷東西"]]
+[[code]]
+[[div_ class="center-collapse"]]
+[[collapsible show="酷東西" hide="酷東西"]]
+我就是東西！
+[[/collapsible]]
+[[/div]]
+[[/code]]
+[[/collapsible]]
+[[/div]]
+
+[[div_ class="center-collapse"]]
+[[div_ class="unfolded-collapse"]]
+酷東西
+[[/div]]
+[[div_ class="unfolded-collapse-border"]]
+[[/div]]
+[[/div]]
+[[code]]
+[[div_ class="center-collapse"]]
+[[div_ class="unfolded-collapse"]]
+酷東西
+[[/div]]
+[[div_ class="unfolded-collapse-border"]]
+[[/div]]
+[[/div]]
+[[/code]]
+
+**移除「附錄」和動畫：**
+//注意：// 那個「{{附錄 XXXX.N}}」在計數時也會把這個算進去。
+[[div_ class="no-addendum"]]
+[[collapsible show="酷東西" hide="酷東西"]]
+[[code]]
+[[div_ class="no-addendum"]]
+[[collapsible show="酷東西" hide="酷東西"]]
+我就是東西！
+[[/collapsible]]
+[[/div]]
+[[/code]]
+[[/collapsible]]
+[[/div]]
+
+[[div_ class="no-addendum"]]
+[[div_ class="unfolded-collapse"]]
+酷東西
+[[/div]]
+[[div_ class="unfolded-collapse-border"]]
+[[/div]]
+[[/div]]
+[[code]]
+[[div_ class="no-addendum"]]
+[[div_ class="unfolded-collapse"]]
+酷東西
+[[/div]]
+[[div_ class="unfolded-collapse-border"]]
+[[/div]]
+[[/div]]
+[[/code]]
+
+**移除結尾：**
+[[div_ class="no-footer"]]
+[[collapsible show="酷東西" hide="酷東西"]]
+[[code]]
+[[div_ class="no-footer"]]
+[[collapsible show="酷東西" hide="酷東西"]]
+我就是東西！
+[[/collapsible]]
+[[/div]]
+[[/code]]
+[[/collapsible]]
+[[/div]]
+@@@@
+[[/div]]
+----
+[[div style="border: solid 1px #444444; padding: 1px 10px; margin: auto; box-shadow: 1px 1px 5px rgba(0,0,0,.3)"]]
++++++ 單獨只有結尾
+[[code]]
+[[div_ class="addendumfooter"]]
+[[/div]]
+[[/code]]
+[[div_ class="addendumfooter"]]
+[[/div]]
+@@@@
+[[/div]]
++ 貢獻名單
+* [[*user monkatraz]]
+* Google上的大約1500多人

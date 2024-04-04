@@ -1,0 +1,709 @@
+[[include info:start]]
+原文：[http://scp-wiki.wikidot.com/fragment:scp-3309-april-fools SCP-3309] 逐漸消逝之際，我等何去何從(愚人節特供)
+作者：[[*user Lt Flops]] 、[[*user PhamtomGuy]]
+譯者：[[*user Frederica Bernkastel]]
+Author Page：https://scp-wiki.wikidot.com/floppyphoenix
+靈感來源：[[*user Rimple]]的創作[*https://scp-wiki.wikidot.com/operation-overmeta the Pataphysics Department]
+代碼協助：[[*user Westrin]]
+[[include info:end]]
+
+
+[[div style="display: none;"]]
+[[include :scp-wiki:theme:flopstyle]]
+[[/div]]
+[[include :scp-zh-tr:theme:pataphysics]]
+
+[[module CSS]]
+ #u-author_block{
+     display: none;
+}
+
+ #header h1 a::before{
+     content: "警告：這裡很META" !important;
+}
+ #header h2 span::before{
+     content: "靠么這標誌真他媽在轉" !important;
+}
+[[/module]]
+
+[[div class="pata-notice"]]
+++++ 通知出自
+++++ 超級META部門
+
+你要訪問的文件「{{SCP-3309}},」 描述了一個不可預測多子敘述層交疊巴拉巴拉巴拉異常現象。基於本文件帶有數個巴拉巴拉巴拉嵌入式敘述危害[[footnote]]**敘述危害：**一種影響敘述要素跟巴拉巴拉的危害，往往將導致巴拉巴拉大破壞。[[/footnote]]，去他的，總之都是一本正經的幹話。
+
+那你到底要不要看？
+[[/div]]
+
+= [[span class="rev-red"]] 敘述接種傳播......[[/span]]
+
+[[div class="faux-source"]]
+我們是不是吹牛吹太過了？有夠浮誇。
+[[/div]]
+
+= [[span class="rev-red"]] ... //蛤？// 這不應該是......[[/span]]
+
+[[div class="faux-source"]]
+三小，這坨屎有六百個upvotes？你他媽在開玩笑吧？
+[[/div]]
+
+= [[span class="rev-red"]] 給我等一下，不要打斷我......[[/span]]
+
+[[div class="faux-source"]]
+嘿！
+
+你啦！
+[[/div]]
+
+= [[span class="rev-red"]] 窩......我？[[/span]]
+
+[[div class="faux-source"]]
+不是你這個傲慢的蠢蛋。
+
+你！龜在螢幕後的那個人。
+
+[[module ListUsers users="."]]
+%%title%%!
+[[/module]]
+
+對，就是你！
+
+我說話有沒有在聽？這是篇meta文。META文！//聽懂沒有？？？//第四面牆就跟垃圾一樣了，還有猜猜怎麼著？今天是愚人節，而我就是那個跟垃圾一樣的人類。
+[[/div]]
+
+= [[span class="rev-red"]] 好啦，不過說真的，停了啦，停了停了停了，//停停停停停停停//，你要把雷都爆光了！誰他媽放這傢伙進來的？你到底哪位啊？[[/span]]
+
+[[div class="faux-source"]]
+我的名字是[[[westrinsauthorpage|Westrin博士]]]。
+
+你可能知道我的幾篇作品，像是[[[SCP-4335|史詩級歡樂鬧出400多個up的Minecraft文]]]以及[[[SCP-3761|地球上所有松鼠都幹你娘炸爆的文]]]。你想起來了嗎？
+[[/div]]
+
+= [[span class="rev-red"]] 那你在搞甚麼飛機？來這裡到底要幹嘛？[[/span]]
+
+[[div class="faux-source"]]
+SCP維基已經亂到一個不行了。空降文多到一個極致。我已經決定親自出手收拾這一切了。現在滾你媽的蛋吧。
+[[/div]]
+
+= **##firebrick|然而，## ##d10011|那個，## ##e60013|meta## ##fa0015|文## ##ff0f23|已經## ##ff2436|退## ##ff3849|//流行//## ##ff4d5b|很久了。## ##ff616e|你## ##ff7581|這樣## ##ff8a93|可能## ##ff9ea6|會## ##ffb3b9|被## ##ffc7cc|D## ##ffdbde|到####fff0f1|–##**
+
+[[div class="faux-source"]]
+現在輪到你消逝了。
+
+褪色，然後消逝。
+
+懂沒懂啊？
+[[/div]]
+
+@@ @@
+
+[[div class="report-box"]]
+[[include :scp-zh-tr:component:flops-header
+|item=--3309-- 超級-META
+|containment=keter
+|level=5
+|security=top-secret
+|disruption=惡意亂D
+|disruption-bg-color=hsla(345, 100%, 27%)
+]]
+----
+**特殊收容措施：** 所有受SCP-超級-META影響的異常文件檔案將透過再重寫保存，並儲存於RAISA檔案數據庫中。將實體收容後，所有被分配至受影響異常的職員將接受記憶刪除，並調動到其他無關項目。
+----
+**描述：** SCP-超級-META是一種已編目異常自動消失的現象。受SCP-超級-META影響的項目包括異常物品、實體、地點與概念結構。受該現象影響的異常間似乎並無因果關聯；SCP-超級-META將以一段來源未知的註記（歸定為SCP-超級-META-1）做為預兆。
+
+在異常消失的24至36小時前，SCP-超級-META-1將會以附錄形式出現在該項目檔案中。經歷SCP-超級-META的文件將從已知文件系統中被抹消，包括受保護的站點Site-01與RAISA檔案。隨後，異常本身將被成功無效化或以其他方式消失。SCP-超級-META-1的內文如下：
+
+> //如果你並非作者而有意重寫本文，你可以在本貼文下回覆申請重寫。並請先獲得作者許可。//
+
+SCP-超級-META也會影響消失文件的備份以及遭遇過SCP-超級-META的異常項目檔案；消失的檔案中，~71%與未受影響的異常項目相關。這會導致基金會異常收容網路被削弱，有可能會擴大為ADK級「全面異常崩壞」情景。
+[[/div]]
+[[div style="text-align: center;"]]
+[[collapsible show="▷ 行動中的SCP-超級-META ◁" hide="△ 關閉 △"]]
+[[/div]]
+[[div style="text-align: left;"]]
+[[include component:image-block name=https://scp-wiki.wdfiles.com/local--files/fragment:scp-3309-april-fools/is-your-joke-funny-now.png|align=center|width=100%|caption=（來源： [*http://scp-zh-tr.wikidot.com/scp-173 文] – CC BY-SA 3.0，[*https://www.flickr.com/photos/pussreboots/27316689870/ 圖] – CC BY 2.0）]]
+[[/div]]
+[[/collapsible]]
+----
+[[footnoteblock]]
+
+[[div class="lite-header"]]
+----
+++ 補充資料
+----
+[[/div]]
+
+自其首度出現以來，SCP-超級-META平均每個月影響40個異常。負責SCP-超級-META的研究員已經確認了其顯現的形式，並建立了標準列表。
+
+* 受影響項目在紀錄上採用了過度的收容措施，比如重型鈦合金製收容室。這反映了對異常性質的誤解，或是在收容上呈現出不專業的態度。
+* 受影響項目本身具有造成K級「世界末日」情景威脅的強度。然而文件中僅概述了異常的部分後果，其臨時收容措施多與前一標準相同。
+* 受影響項目文件(包括附加補充部分)文筆差勁，格式不當或是充滿了邏輯與語法錯誤。
+
+基於上述的觀察，收容小組提出了[[span class="ruby"]]空降文[[span class="rt"]]COLDPOST[[/span]][[/span]]計畫。空降文概述為，透過符合上述標準處分高風險異常，並加以消滅之計畫。由於這背離了基金會的使命，倫理委員會特別法庭對空降文計畫的執行提出了質疑。
+----
+**更新 I.**
+
+正式開始對SCP-超級-META初步測試，以確認其是否與Thaumiel之重分級結果相稱。附件為初步測試日誌，其結果將會決定最終裁決。
+
+[[div class="report-box" style="text-align: justify;"]]
+[[=]]
++++ 提案摘錄
+[[/=]]
+----
+**提案：** 投用SCP-超級-META以無效化[[[scp-4463|SCP-4463]]]：一個複雜的水相關空間異常，會在五十年內將北美洲淹沒。
+
+**DESCRIPTION:** **描述：** SCP-4463是一個影響亞利桑那州奇瓦瓦沙漠部分的水相關異常現象。SCP-4463敘述了沙漠大範圍地逐漸轉變為等面積的溼地。
+
+自1990年代以來，亞利桑那東南部荒漠化以每個月2平方公里的速度擴張。該現象每年擴張速度上升0.5%，到了2008年，1200平方公里的前可耕地已經無法生長健康植被。亞利桑那政府的應對中，認定該現象為生態危機，並頒行逆轉與遏阻荒漠化的計畫。這是對圖森地區Pascua Yaqui部落居民，自2006年11月起大規模抗議的回應。
+
+2008年8月，每平方公尺60%的乾燥土壤在未知異常作用下開始轉變為水。當前該荒漠化地區有45%轉化為濕地，阻礙任何當地動物與人類在該地區的發展。
+
+**採取行動：** [[[scp-4463-j|SCP-4463的檔案被更新，追加了大量的語法錯誤與和異常效應相關的重大矛盾]]]。還添加了各式捏造的附錄與一張無關的大浪附圖。
+
+**結果：** SCP-4463文件在28小時內自基金會數據庫中完全清除。並在對SCP-4463先前位置的進一步研究與追蹤後，其所造成的危害已經消失，該地區再度回到荒漠化狀態。
+[[/div]]
+
+持續的爭論與19個不同的異常交互實驗後，SCP-超級-META已經通過倫理委員會特別法庭二階段投票。SCP-超級-META已被重分級為Thaumiel，並授權予錐形投槍協議。重分級後涉及的49個異常研究仍在進行中。
+
+[[div class="blockquote"]]
+[[=]]
++++ 研究員筆記
+[[/=]]
+----
+我不懂為何一個測試能給人如此大的壓力。我想我就在今早發現了自己的第一根白髮 —— 或者說第一大片白髮？
+
+灰飛煙滅，那會是什麼樣的感受？這是否會帶來疾病般的感官重負？還是將會先使我麻木？我想，若我不得不消失，我會想要繼續感受，甚至在一切的終結，我知道我還在這裡，而除此之外都已經消失。
+
+有什麼地方不對勁。
+
+我把自己鎖進辦公室。我變得麻木，這並非出我所願，然而終末對一個人的願望與需求根本不屑一顧，難道不是嗎？什麼都沒有，沒有任何東西。
+
+我們有沒有查清那些被無效化的異常跑去哪了？當然，做我們該做的事，擁護//正義//而毫無動搖可沒那麼容易。這不像我們。但我感覺，我以外的每個人，都忘卻了它們所發生的事情。
+
+就這麼簡單嗎？我們是否僅僅將其//忘卻//了？
+
+我不想被[[span style="color: #f4f4f4;"]]搞掉[[/span]]。
+----
+[[>]]
+--Adamo 🅱️alls研究員
+[[/>]]
+[[/div]]
+
+[[div class="faux-source"]]
+多麼戲劇化啊。你就等著吧小公主。真正的愉悅還沒上演呢。
+[[/div]]
+
+@@ @@
+
+----
+**更新 II.**
+
+[[div class="blockquote"]]
+Smalls研究員沒有參與我們今晚的測試。他從我們的所有行程中剔除了，我的項目檔案上也沒有任何他的名字。如果有什麼即時的計畫變更或日程安排異動，而還未通知我的，請現在就告知我，__盡快__。
+[[>]]
+--John Calzaroli研究員
+[[/>]]
+[[/div]]
+
+[[div class="blockquote"]]
+John，你還好嗎？的確我們今天有個三小時的行程異動，但那個「Smalls研究員」從未參與我們這個項目。我可以跟你保證__沒有任何__叫做「Smalls研究員」的人與我們共事過。
+
+John，拜託你休息一下吧，你一定是壓力過大不堪負荷了。我知道過去幾周的測試實在過於//殘酷//。我也有同樣的感受。
+[[>]]
+--Robert Woods博士
+[[/>]]
+[[/div]]
+
+[[div class="blockquote"]]
+你肯定搞錯了。你//一定//認識這個人。他是我們最傑出的模因學者。
+
+不過，如果你堅稱Smalls研究員不存在，那肯定是發生什麼事了。SCP-超級-META會將異常與相關檔案刪除。我們從未討論過這些異常到底//去哪//了，我相信我們都有屬於自己的疑惑。據我所知，SCP-超級-META首度被發現時，Smalls研究員就已經被分配至SCP-超級-META了。
+
+我們能確定//人員//不會也被[[span style="color: #e8e8e8;"]]搞掉[[/span]]嗎？
+[[>]]
+**[**{{帳戶刪除}}**]**
+[[/>]]
+[[/div]]
+
+[[div class="blockquote"]]
+這三小？
+[[>]]
+--Robert Woods博士
+[[/>]]
+[[/div]]
+
+[[div class="blockquote"]]
+**自：[**{{帳戶刪除}}**]**
+
+= **[**{{訊息刪除}}**]**
+[[/div]]
+
+
+@@ @@
+@@ @@
+@@ @@
+
+[[div class="meta-title"]]
+Westrin研究員痛宰SCP宇宙
+[[/div]]
+
+**測試摘要：** Westrin博士要用SCP-超級-META掃蕩基金會裡罪大惡極的違規者了。順帶一提，別他媽的客氣。
+
+[[div class="blockquote"]]
+[[module ListUsers users="."]]
+**測試對象 #1：** %%title%% -- 正在看這個的阿呆
+[[/module]]
+
+**結果：** [[size 200%]]😳[[/size]]
+
+[[div style="background-color: #f4cccc; padding: .2em;"]]
+**RAISA通知：** [[size 200%]]😳[[/size]]
+
+[[>]]
+--Rosen技術研究員
+//資訊技術部//
+[[/>]]
+[[/div]]
+
+**狀況：** [[size 200%]]😳[[/size]]
+
+[[>]]
+--Westrin博士
+[[/>]]
+[[/div]]
+
+[[div class="blockquote"]]
+**測試對象 #2：** [[*user Lt Flops]]的貓
+
+**結果：**
+[[=image http://scp-wiki.wdfiles.com/local--files/fragment%3Ascp-3309-april-fools/floppys-cat.jpg style="width: 50%; border: solid 1px #000000; padding: 1px"]]
+
+**狀況：** //看來對可愛度沒啥用。不過沒差，我已經改變主意了。//
+
+[[>]]
+--Westrin博士
+[[/>]]
+[[/div]]
+
+[[div class="blockquote"]]
+**測試對象 #3：** [[[SCP-993|小丑鮑伯]]]
+
+**結果：** 兒童電視動畫節目「小丑鮑伯」被徹底停播。由於SCP-993只影響兒童，10歲以上者都未注意到該變化。該節目在兒童間的性質仍然不明。
+
+**更新：** 基金會注意到新出現的兒童電視節目「鯊小丑鮑伯」。該新節目主角為一隻用尾鰭行動的鯊魚，表演他做為股票經紀人與放款大戶的日常生活，鮑伯將設局詐保與其他商業騙局中，並在失敗後淪為暴力事件的受害者。
+
+暴力通常表現為毆打。
+
+**更新：** 異常被編定為[[[SPC-993]]]。暴露對象應接受極端毆打。
+
+**狀況：** //搜索。毆打。征服。//
+
+[[>]]
+--Westrin博士
+[[/>]]
+[[/div]]
+
+[[div class="blockquote"]]
+**測試對象 #4：** [[[SCP-049]]] 的[[[boiled-scrambled-and-fried|同人]]][[[let-me-cure-her-daddy|文]]]
+
+**結果：** [數據刪除]
+
+**狀況：** //結論是所有人都哈這口。呵呵，我也是。//
+
+[[>]]
+--Westrin博士
+[[/>]]
+[[/div]]
+
+[[div class="blockquote"]]
+**測試對象 #5：** [[[SCP-682]]]
+
+**結果：** 標題為《火辣大蜥蜴寶貝慘遭無效化》的同人文出現，內容如下：
+
+> 大蜥蜴發出兇猛的嚎叫。她環顧自己的收容間，注意到所有鹽酸都消散在稀薄的空氣中了。發生了什麼？
+>
+> 「轉過來啊，傻瓜。」一個粗暴而熟悉的聲音從她身後傳來。她照做了。
+>
+> 在她眼前的，是一把黑亮的長劍劍尖。數千個太陽於劍身閃耀。她為那魔力著迷，直到她察覺揮舞這武器的是誰......
+>
+> 那是她的老情人，[[[SCP-777-J|黑暗劍]]]。他癡迷的望著她的眼。「所以，我們又重逢了，我親愛的。」
+>
+> 她一下子就轉過身去，用長又漂亮的尾巴打翻了一票身後那堆倒下的D級。她咆嘯著：「劍！這到底是什麼意思？你來這是為了跳最後一支舞嗎？」
+>
+>「我已經為妳準備好了，我親愛的。」那戰士眨眨眼。劍因為交織的愛恨發出紅光「讓我們跳起永恆之舞吧。」
+>
+> [已編輯100頁的同人文認知危害。]
+
+**狀況：** //噢，基金會把結尾編輯掉了。中間也編輯掉了。其他啥也都編輯掉了。我想我們永遠都無法得知誰輸誰贏了！//
+
+[[>]]
+--Westrin博士
+[[/>]]
+[[/div]]
+
+[[div class="blockquote"]]
+**測試對象 #6：** [[[SCP-3008]]]
+
+**結果：** SCP-3008所在宜家內部的敵意襲擊者消失。在門市內發現的人員亦已緊急撤離。然而店內仍舊保留了比外部擴大三倍的空間異常。
+
+基金會將該門市改建為與沃爾瑪競爭的前臺公司[[span class="ruby"]]超酷產品[[span class="rt"]]Super Cool Products[[/span]][[/span]]運營中心。
+
+**狀況：** //老兄，我可不想再回零售業幹活了。我的老闆是個王八蛋。我寧願被世界末日威脅，而非零售管理，謝謝。//
+
+[[>]]
+--Westrin博士
+[[/>]]
+[[/div]]
+
+[[div class="blockquote"]]
+**測試對象 #7：** [[[SCP-3309]]]
+
+**結果：** //等等，幹這三小？我沒有授權這麼做！不，他媽的停下！不！不！我的權柄！一切都在消逝！幹你娘的我他媽在做什麼？偽神我去你媽！// -Westrin博士
+
+= ......
+
+**更新：** Westrin博士被發現昏厥於自己的辦公室裡，只穿著Minecraft史蒂夫主題的四角褲，手持一根未削尖的2B短鉛筆。值得注意的是，站點安全人員在他的電腦裡發現了500GB的SCP-049同人創作相關材料。
+
+**狀況：** 超形上學敵意威脅已經搞掉了。自吹自擂行為降到最低。正在復原正常狀態。
+[[/div]]
+
+@@ @@
+@@ @@
+@@ @@
+
+[[html]]
+<h1>
+<a target="_blank" href="/scp-3309">Westrin研究員痛宰SCP宇宙</a> / 討論區
+</h1>
+<hr>
+<style type="text/css" id="internal-style">
+
+/* 你也感受到了嗎？ */
+
+/* MODULES */
+/* THEME */
+   @import url('https://d3g0gp89917ko0.cloudfront.net/v--edac79f846ba/common--theme/base/css/style.css');
+   @import url('https://scp-wiki.wdfiles.com/component:theme/code/1');
+</style>
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    var fp = document.getElementById('fakepost');
+    var dpos = 0;
+    var dstring = '愚人節快樂！';
+    fp.addEventListener('keypress', function(e) {
+        fp.value = dstring.substr(0, ++dpos);
+        e.preventDefault();
+        return false;
+    });
+});
+</script>
+
+<div id="page-content">
+
+<div class="forum-thread-box ">
+<div class="forum-breadcrumbs">
+<a target="_blank" href="/forum/start">Forum</a>
+» <a target="_blank" href="/forum/c-50742/per-page-discussions">每頁討論 / 每頁討論</a>
+» SCP-超級-META
+</div>
+
+<div class="description-block well">
+<div class="statistics">
+開始由: Researcher Smalls<br>
+日期: 1 Apr 2021, 09:42<br>
+文章數: 7<br>
+<span class="rss-icon"><img src="https://scp-wiki.wdfiles.com/local--files/scp-3309/rss_icon.png" alt="rss icon"></span>
+RSS: <a target="_blank" href="javascript:;">新文章</a>
+</div>
+This is the discussion related to the wiki page <a target="_blank" href="/scp-3309">SCP-超級-META</a>.
+
+</div>
+
+<div class="options">
+<a target="_blank" href="javascript:;">全部展開</a>
+<a target="_blank" href="javascript:;">全部收起</a>
+<a target="_blank" href="javascript:;">+ 更多選項</a>
+</div>
+
+<div id="thread-action-area" class="action-area well" style="display: none"></div>
+
+<div id="thread-container" class="thread-container">
+<div id="thread-container-posts" style="">
+
+<div class="post-container">
+<div class="post">
+<div class="long">
+<div class="head">
+<div class="options">
+<a target="_blank" javascript:;>收起</a>
+</div>
+<div class="title">
+
+</div>
+<div class="info">
+<span class="printuser avatarhover"><a target="_blank" href="https://www.wikidot.com/user:info/researchersmalls"><img class="small" src="https://d2qhngyckgiutd.cloudfront.net/default_avatar" alt="ResearcherSmalls" style="background-image:url(https://www.wikidot.com/userkarma.php?u=354957&onlyKarma=true)"></a><a target="_blank" href="https://www.wikidot.com/user:info/researchersmalls">Researcher Smalls</a></span> 1 Apr 2021, 09:42
+</div>
+</div>
+<div class="content">
+<p>哈囉？發生什麼了？</p>
+</div>
+
+<div class="options">
+<strong><a target="_blank" href="javascript:;">回覆</a></strong>
+<a target="_blank" href="javascript:;">選項</a>
+</div>
+<div class="options" style="display: none">
+</div>
+</div>
+</div>
+</div>
+<div class="post-container">
+<div class="post">
+<div class="long">
+<div class="head">
+<div class="options">
+<a target="_blank" javascript:;>收起</a>
+</div>
+<div class="title">
+蛤？
+</div>
+<div class="info">
+<span class="printuser avatarhover"><a target="_blank" href="https://www.wikidot.com/user:info/researchersmalls"><img class="small" src="https://d2qhngyckgiutd.cloudfront.net/default_avatar" alt="ResearcherSmalls" style="background-image:url(https://www.wikidot.com/userkarma.php?u=354957&onlyKarma=true)"></a><a target="_blank" href="https://www.wikidot.com/user:info/researchersmalls">Researcher Smalls</a></span> 1 Apr 2021, 09:47
+</div>
+</div>
+<div class="content">
+<p>等等，站點在哪？這怎麼回事？是超級-META造成的嗎？ </p>
+</div>
+
+<div class="options">
+<strong><a target="_blank" javascript:;>回覆</a></strong>
+<a target="_blank" javascript:;>選項</a>
+</div>
+<div class="options" style="display: none">
+</div>
+</div>
+</div>
+<div class="post-container">
+<div class="post">
+<div class="long">
+<div class="head">
+<div class="options">
+<a target="_blank" javascript:;>收起</a>
+</div>
+<div class="title">
+管理員貼文 - 開放
+</div>
+<div class="info">
+<span class="printuser avatarhover"><a target="_blank" href="https://www.wikidot.com/user:info/zyn"><img class="small" src="https://d2qhngyckgiutd.cloudfront.net/a27359b77b8d8b4fe61170b6d61f652d?userid=1802367&amp;amp;size=small&amp;amp;timestamp=1493035945" alt="Zyn" style="background-image:url(https://www.wikidot.com/userkarma.php?u=1922529&onlyKarma=true)"></a><a target="_blank" href="https://www.wikidot.com/user:info/zyn">Zyn</a></span> 1 Apr 2021, 09:50
+</div>
+</div>
+<div class="content">
+<p><a target="_blank" href="https://www.scp-wiki.net/guide-for-newbies">我強烈建議你在發送貼文前先閱讀指南。</a> 論壇不允許進行角色扮演。</p>
+</div>
+
+<div class="options">
+<strong><a target="_blank" javascript:;>回覆</a></strong>
+<a target="_blank" javascript:;>選項</a>
+</div>
+<div class="options" style="display: none">
+</div>
+</div>
+</div>
+<div class="post-container">
+<div class="post">
+<div class="long">
+<div class="head">
+<div class="options">
+<a target="_blank" javascript:;>收起</a>
+</div>
+<div class="title">
+Re: 管理員貼文 - 開放
+</div>
+<div class="info">
+<span class="printuser avatarhover"><a target="_blank" href="https://www.wikidot.com/user:info/researchersmalls"><img class="small" src="https://d2qhngyckgiutd.cloudfront.net/default_avatar" alt="ResearcherSmalls" style="background-image:url(https://www.wikidot.com/userkarma.php?u=354957&onlyKarma=true)"></a><a target="_blank" href="https://www.wikidot.com/user:info/researchersmalls">Researcher Smalls</a></span> 1 Apr 2021, 09:52
+</div>
+</div>
+<div class="content">
+<p>我怎麼了？</p>
+</div>
+
+<div class="options">
+<strong><a target="_blank" javascript:;>回覆</a></strong>
+<a target="_blank" javascript:;>選項</a>
+</div>
+<div class="options" style="display: none">
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="post-container">
+<div class="post">
+<div class="long">
+<div class="head">
+<div class="options">
+<a target="_blank" javascript:;>收起</a>
+</div>
+<div class="title">
+</div>
+<div class="info">
+<span class="printuser avatarhover"><a target="_blank" href="https://www.wikidot.com/user:info/westrin"><img class="small" src="https://d2qhngyckgiutd.cloudfront.net/3d82e58f9b10829a5b17ceb0790b4171?userid=1802367&amp;amp;size=small&amp;amp;timestamp=1493035945" alt="Westrin" style="background-image:url(https://www.wikidot.com/userkarma.php?u=2858989&onlyKarma=true)"></a><a target="_blank" href="https://www.wikidot.com/user:info/westrin">Westrin</a></span> 1 Apr 2021, 10:36
+</div>
+</div>
+<div class="content">
+<p>啥？我已經完成這裡的活了。</p>
+
+<p>這裡沒啥好看的。繼續划。</p>
+
+<p>PS: 去你媽</p>
+</div>
+
+<div class="options">
+<strong><a target="_blank" javascript:;>回覆</a></strong>
+<a target="_blank" javascript:;>選項</a>
+</div>
+<div class="options" style="display: none">
+</div>
+</div>
+</div>
+</div>
+<div class="post-container">
+<div class="post">
+<div class="long">
+<div class="head">
+<div class="options">
+<a target="_blank" javascript:;>收起</a>
+</div>
+<div class="title">
+職員貼文 - 瑪麗蘇
+</div>
+<div class="info">
+<span class="printuser avatarhover"><a target="_blank" href="https://www.wikidot.com/user:info/zyn"><img class="small" src="https://d2qhngyckgiutd.cloudfront.net/a27359b77b8d8b4fe61170b6d61f652d?userid=1802367&amp;amp;size=small&amp;amp;timestamp=1493035945" alt="Zyn" style="background-image:url(https://www.wikidot.com/userkarma.php?u=1922529&onlyKarma=true)"></a><a target="_blank" href="https://www.wikidot.com/user:info/zyn">Zyn</a></span> 1 Apr 2021, 12:50
+</div>
+</div>
+<div class="content">
+<b>SMALLS研究員是個瑪麗蘇蘇蘇蘇蘇蘇!!!!!!1!111111</b>
+</div>
+
+<div class="options">
+<strong><a target="_blank" javascript:;>回覆</a></strong>
+<a target="_blank" javascript:;>選項</a>
+</div>
+<div class="options" style="display: none">
+</div>
+</div>
+</div>
+<div class="post-container">
+<div class="post">
+<div class="long">
+<div class="head">
+<div class="options">
+<a target="_blank" javascript:;>收起</a>
+</div>
+<div class="title">
+¡¶‡oÌ`4hä>ïê.í{Û"ëô.$õFÍ£&wç$KL
+</div>
+<div class="info">
+<span class="printuser avatarhover"><a target="_blank" href="https://www.wikidot.com/user:info/researchersmalls"><img class="small" src="https://d2qhngyckgiutd.cloudfront.net/default_avatar?userid=1802367&amp;amp;size=small&amp;amp;timestamp=1493035945" alt="Run" style="background-image:url(https://www.wikidot.com/userkarma.php?u=354957&onlyKarma=true)"></a><a target="_blank" href="https://www.wikidot.com/user:info/researchersmalls">Researcher Smalls</a></span> 1 Apr 2021, 13:13
+</div>
+</div>
+<div class="content">
+<p>等一下。這個地方 —— 如果這是個地方 —— 沒有，呃，東西。這裡什麼東西也沒有。出了些狀況了。</p>
+
+<p>讓我回去。</p>
+
+<p>我的名字是Adamo Smalls。出生於1988年8月21日，奧瑞岡波特蘭人，父母是Katherine與Charles Smalls。我在奧瑞岡大學習得資訊科學碩士學位。基金會於2010年底聘用我為模因學者。我的認知阻值達到99%。</p>
+
+<p>我於站點Site-82負責長期研究SCP-超級-META與......就是這個？不......超級-META是與數個關鍵基金會變因相關的強大模因結構。它會將異常無效化，並刪除我們編輯來試圖解釋它的文章。它始終以神祕示眾，但我們是笨蛋，以為自己能像這樣跟宇宙玩鬧。這不是我們的權利。</p>
+
+<p>但宇宙肯定在天天跟我們玩嗎？不，為什麼要將自己與周遭的宇宙隔絕呢？我們就是宇宙，我們就是在跟我們自己玩。</p>
+
+<p>我不記得到底發生了什麼，我想我的模因抗性還是不足以讓我明白現況。但超級-META開始有系統地抹消掉一些東西。它把人員抹消，然後整個特遣隊，站點，他們所在的每個地方，幹他媽基金會的每一部分全都消失了。允許我們創建基金會的基本普遍概念，一個組織的概念？抹消，不存在了。這種情況持續到一個也不留了，我覺得我自己也消失了。那天晚上後一切都變了。就在我孤身一人時。但我現在<i>是</i>孤身一人，的在這裡。</p>
+
+<p>這裡？ <a target="_blank" href="http://scp-zh-tr.wikidot.com/sandrewswann-s-proposal">這裡是地獄。</a></p>
+
+<p>不 —— 事情並非如此。我編造了它。我肯定如此。但是......</p>
+
+<p>我是被抹除的人員之一嗎？</p>
+
+<p>如果我像它們一樣被忘卻，這意味著什麼？這一切又意味著甚麼呢？天啊，我不想被忘卻。</p>
+</div>
+
+<div class="options">
+<strong><a target="_blank" javascript:;>回覆</a></strong>
+<a target="_blank" , javascript:;>選項</a>
+</div>
+<div class="options" style="display: none">
+</div>
+</div>
+</div>
+<div class="post-container">
+<div class="post">
+<div class="long">
+<div class="head">
+<div class="options">
+<a target="_blank" javascript:;>收起</a>
+</div>
+<div class="title">
+管理員貼文 - 鎖定
+</div>
+<div class="info">
+<span class="printuser avatarhover"><a target="_blank" href="https://www.wikidot.com/user:info/zyn"><img class="small" src="https://d2qhngyckgiutd.cloudfront.net/a27359b77b8d8b4fe61170b6d61f652d?userid=1802367&amp;amp;size=small&amp;amp;timestamp=1493035945" alt="Zyn" style="background-image:url(https://www.wikidot.com/userkarma.php?u=1922529&onlyKarma=true)"></a><a target="_blank" href="https://www.wikidot.com/user:info/zyn">Zyn</a></span> 1 Apr 2021, 13:19
+</div>
+</div>
+<div class="content">
+<p>Researcher Smalls，請注意以下內容：</p>
+
+<b>你就是瑪麗蘇！</b>
+</div>
+
+<div class="options">
+<strong><a target="_blank" javascript:;>回覆</a></strong>
+<a target="_blank" javascript:;>選項</a>
+</div>
+<div class="options" style="display: none">
+</div>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<span>Post title:</span>
+<br>
+<input class="text form-control" style="font-weight:bold; font-size: 1.04rem;" value="超級無敵機密訊息......" readonly>
+<img src="https://scp-wiki.wdfiles.com/local--files/scp-3309/buttons.png">
+<div><textarea rows="16" style="width:95%;" id="fakepost" onkeypress="description()" wrap="hard">
+
+</textarea>
+</div>
+
+<div class="edit-help-34">
+Help: <a target="_blank" href="https://www.wikidot.com/doc:quick-reference">維基語法快速參考</a> </div>
+<div class="buttons alignleft">
+<input class="btn" value="取消" type="button">
+<input class="btn" value="預覽" type="button">
+<input class="btn" value="PO上" type="button">
+</div>
+</div>
+[[/html]]
+
+@@ @@
+@@ @@
+@@ @@
+
+[[div class="footing"]]
+[[/div]]
+
+[[include component:earthworm
+| first=true | last=false | hub=no
+| previous-url=/ | previous-title=/
+| next-url=/the-abyss-gazes-back | next-title=The Abyss Gazes Back
+| hub-url=/ | hub-title=好啦，來看下一篇同人廢文吧:
+]]

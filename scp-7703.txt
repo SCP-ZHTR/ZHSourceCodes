@@ -1,0 +1,353 @@
+[[include theme:black-highlighter-theme]]
+[[include :scptestwiki:undervegas]]
+[[include :scp-zh-tr:component:rso]]
+[[module CSS]]
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,900;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Shade&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Staatliches&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+:root:lang(zh){
+    --logo-image: url("http://scpdsandbox.wdfiles.com/local--files/site-333/At3.png");
+    --header-title: "SITE-333";
+    --header-subtitle: "天上人間";
+    --header-font: 'Playfair Display', serif;
+    --title-font: 'Playfair Display', serif;
+    --body-font: 'Telex', sans-serif;
+    --bright-accent: 0, 109, 255;
+    --medium-accent: 0, 63, 197;
+    --dark-accent: 0, 22, 142;
+
+    --link-color: var(--medium-accent);
+}
+
+#extra-div-1 {
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 10rem;
+    background-image: url("http://scpdsandbox.wdfiles.com/local--files/site-333/PanoRam2.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: repeat-x;
+    pointer-events: none;
+}
+
+#extra-div-2 {
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 10rem;
+    background: linear-gradient(0deg, rgba(0, 109, 255,1) 35%, rgba(204, 226, 255) 97%);
+    pointer-events: none;
+    opacity: 0.40;
+}
+
+#extra-div-3 {
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 10rem;
+    background-image: url("http://scptestwiki.wdfiles.com/local--files/undervegas/dicegold.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: repeat-x;
+    pointer-events: none;
+    opacity: 0.65;
+
+}
+
+/* *** DIVS *** */
+.addendum {
+    border:solid 2px rgb(var(--bright-accent));
+    background:#F5F5F5;
+    width:84%;
+    padding:1px 15px;
+    margin: 10px auto;
+}
+
+.label {
+    background: rgb(var(--bright-accent));
+    color: white;
+    padding: 3px;
+    border-radius: 4px;
+    font-family: monospace;
+    white-space: nowrap;
+}
+
+.doc {
+    background-color: rgb(var(--bright-accent));
+    color: white;
+    font-family: var(--mono-font);
+    padding: 0 1.5rem;
+    font-size: 1.1em;
+    width: fit-content;
+    position: relative;
+    top: -2em;
+    border-radius: 4px;
+    margin-bottom: -3rem;
+}
+
+.addendum {margin-top: 1.6rem;}
+
+.angled {clip-path: polygon(4% 0%, 100% 0%, 96% 100%, 0% 100%); border-radius: 5px;}
+
+.foundation {
+    border:solid 3px #444;
+    background: #f2f2c2 url('https://scp-wiki.wdfiles.com/local--files/theme%3Aredtape/scp_trans.png') center center no-repeat;
+    padding: 1.5rem;
+    margin-bottom: 10px;
+    color: black;
+}
+.foundation p {
+    margin: none;
+}
+
+.foundation.snow {
+    background: #fff url('https://scp-wiki.wdfiles.com/local--files/theme%3Aredtape/scp_trans.png') center center no-repeat;
+}
+
+.foundation.raisa {
+    background: #f2f2c2 url('https://scp-wiki.wdfiles.com/local--files/theme%3Aredtape/raisa_trans.png') center center no-repeat;
+    background-size: 29rem;
+    text-align: center;
+}
+.foundation.alt {
+    background: #fff url('https://scp-wiki.wdfiles.com/local--files/theme%3Ai57/scp-logo-i57.png') center center no-repeat;
+}
+
+.generic {
+   position: relative;
+   margin: 0.5em 1.25rem;
+   padding: 0.825em 1.25em;
+   clear: both;
+   clip-path: polygon(93% 0px, 100% 15.11%, 100% 100%, 0px 100%, 0px 0px);
+   border-left: 4px solid gray;
+}
+.generic hr {background: gray; border: none;}
+.generic h1, .generic h2, .generic h3, .generic h4, .generic h5, .generic h6 {color: #515050;}
+.generic.red {background: #ff4a4a3d;}
+.generic.blue {background: #4a80ff3d;}
+.generic.yellow {background: #fff77f3d;}
+.generic.purple {background: #a561d536;}
+.generic.green {background: #CDE5DD;}
+
+
+#header::before {
+    left: 0.5rem;
+    background-position: center -0.5rem;
+    opacity: 1;
+}
+
+#header h1, #header h2 {
+    margin: 1.7rem 0;
+}
+
+}
+.table2 {
+    --accentColor: rgb(40, 135, 189);
+}
+.custom2 .wiki-content-table {
+    width: 100%;
+}
+[[/module]]
+
+[[include :scp-wiki:info:start]]
+原文：[http://www.scpwiki.com/scp-7703 SCP-7703] 宛如頭上一洞
+作者：[[*user DodoDevil]]、[[*user Rounderhouse]]
+譯者：[[*user Frederica Bernkastel]]
+[[include :scp-wiki:info:end]]
+@@ @@
+
+[[include :scp-zh-tr:component:anomaly-class-bar-source
+|item-number= 7703
+|clearance= 2
+|container-class= pending
+|secondary-class=
+|secondary-icon=
+|disruption-class= N/A
+|risk-class= N/A
+]]
+-----
+@@ @@
+@@ @@
+
+= //##Orange|**諾亞．帕特爾**##更新了異常分類系統版頭：//
+
+[[include :scp-zh-tr:component:anomaly-class-bar-source
+|item-number= 7703
+|clearance= 0
+|container-class= Non-Anomalous
+|secondary-class=
+|secondary-icon=
+|disruption-class= N/A
+|risk-class= N/A
+]]
+-----
+@@ @@
+@@ @@
+
+= //##Blue|**文森特．伯哈特**##更新了異常分類系統版頭：//
+
+[[include :scp-zh-tr:component:anomaly-class-bar-source
+|item-number= 7703
+|clearance= 2
+|container-class= pending
+|secondary-class=
+|secondary-icon=
+|disruption-class= N/A
+|risk-class= N/A
+]]
+-----
+@@ @@
+@@ @@
+
+= //##Orange|**諾亞．帕特爾**##更新了異常分類系統版頭：//
+
+[[include :scp-zh-tr:component:anomaly-class-bar-source
+|item-number= 7703
+|clearance= 0
+|container-class= Non-Anomalous
+|secondary-class=
+|secondary-icon=
+|disruption-class= N/A
+|risk-class= N/A
+]]
+-----
+@@ @@
+@@ @@
+[[div class="blockquote table4 tableb"]]
+[[table class="wiki-content-table" style="width: 100%"]]
+[[row]]
+[[hcell]]
+**__{{Site-333 -- 跨部門文字通訊紀錄：}}__**
+{{12/12/2022 -- 上午10:03}}
+[[/hcell]]
+[[/row]]
+[[row]]
+[[cell]]
+* ##blue|**文森特．伯哈特**##，主任；
+* ##red|**東尼．卡塔拉諾**##，會計兼旅遊人員；
+* ##green|**萊昂諾拉．莫拉雷斯**##，野生動物專員；
+* ##orange|**諾亞．帕特爾**##，神秘動物學家兼博物館館長。
+[[/cell]]
+[[/row]]
+[[row]]
+[[hcell]]
+[[/hcell]]
+[[/row]]
+[[row]]
+[[cell]]
+##blue|**文森特．伯哈特##：** 諾亞，如果你再這樣，我發誓一定會把你的伺服器訪問權拔掉。
+
+##red|**東尼．卡塔拉諾##：** 我們都知道那是個沒用的威脅，文森特。就算你能鎖**[*http://scp-zh-tr.wikidot.com/secure-facility-dossier-site-333 Site-333]** Scip.net的任何人，那也只會是你自己。
+
+##blue|**文森特．伯哈特##：**我可以把你的電腦直接扔出窗外。
+
+##red|**東尼．卡塔拉諾##：** 好喔，算你狠。
+
+##orange|**諾亞．帕特爾##：** 它完全就是個非異常。你們反應過激了！
+
+##blue|**文森特．伯哈特##：** 諾亞，你腦子他媽有洞。
+
+##orange|**諾亞．帕特爾##：** 曾經有！曾經而已，他們已經把它補上了。
+
+##green|**萊昂諾拉．莫拉雷斯##：** 現在是怎樣？
+
+##red|**東尼．卡塔拉諾##：** 有個人在周末掏錢在自己腦袋鑽了洞。
+
+##green|**萊昂諾拉．莫拉雷斯##：** 等等，這就是諾亞禿頭的原因嗎？還有那些紗布？
+
+##orange|**諾亞．帕特爾##：** 這叫顱骨穿孔術，是真正的醫療程序。等等啊，我去找張照片
+
+[[include component:image-block name=https://scp-wiki.wdfiles.com/local--files/scp-7703/headhole.jpg|align=center|caption=//提取癲狂之石//，希羅尼默思．博什，繪於1450 –1516。]]
+
+##blue|**文森特．伯哈特##：** 那傢伙才不是醫生。
+
+##green|**萊昂諾拉．莫拉雷斯##：** 我很確定這只是幅寓言畫。
+
+##red|**東尼．卡塔拉諾##：** 諾亞，你到底是在哪裡給人家打洞的？
+
+##orange|**諾亞．帕特爾##：** 商業街有間新店。就在東尼披薩店的旁邊。這就是個正常交易。是約翰．克拉克醫生動的手術，他很熟的。
+
+##blue|**文森特．伯哈特##：** 那傢伙也不是醫生。
+
+##orange|**諾亞．帕特爾##：** 我不懂你們為啥都要拿這事刁難我。我看了一個廣告說可以治療頭痛就去了，鑽個洞，填起來，然後我就在這了。這就是個上古醫療法，有好幾萬人都這麼做過。
+
+##blue|**文森特．伯哈特##：** 是啊，而且那些人都死透了，而你還活著，這就是為什麼那是異常。
+
+##orange|**諾亞．帕特爾##：** 喔是嗎？那金字塔是異常嗎？巨石陣呢？西恩塔呢？雖然那很古老，我們不曉得那是怎樣運作的，但並不代表那就是異常吧？
+
+##green|**萊昂諾拉．莫拉雷斯##：** 諾亞，你講的那些確實都是異常──當然他們都是用正常的方法建造的，我們也都知道那是怎麼建造的──但那些確實都是異常。
+
+##red|**東尼．卡塔拉諾##：** 無論如何，你現在感覺如何？
+
+##orange|**諾亞．帕特爾##：** 呃，剛開始有點疼，尤其是他們把皮膚撥開的時候。他們是塗了一點麻藥，不過在他們拿出鑽頭後就不再有用了。媽的，那有夠大聲的。
+
+##orange|**諾亞．帕特爾##：** 接下來的內容可能有點駭人。這有點像，嗯，好難打比方啊。好喔，你見過建築工人在混凝土上打洞嗎？就是那樣，只不過他們是打在你的腦子上。
+
+##orange|**諾亞．帕特爾##：** 然後你就超級爽了。就像是水壩破裂的時候，湖水的感覺一定很好吧，所有東西都在向外衝，你的視野分裂成無限的小碎片，不知道為啥，還能讓你記住一些從未記住的事情？比如你在母親子宮裡的記憶？
+
+##orange|**諾亞．帕特爾##：** 然後就又變得很疼。我昏了過去，當我再度醒過來時，他們正在把我的皮膚釘回原位。
+
+##green|**萊昂諾拉．莫拉雷斯##：** 等等，他們是用釘的不是縫的，你的頭皮恢復了嗎？
+
+##orange|**諾亞．帕特爾##：** 對，是辦公室的那種釘書機；醫生把它打開來，然後對著我的頭釘。
+
+##green|**萊昂諾拉．莫拉雷斯##：** 好喔，我挺文森特。這根本不正常。
+
+##red|**東尼．卡塔拉諾##：** 不知道耶，我比較支持諾亞。我是說，人體可以處理一些瘋狂的東西。誰能說這事情異常不異常呢？
+
+##orange|**諾亞．帕特爾##：** 對啊，文森特真的夠了。是啊，我禿頭。是啊，我頭上有洞，但我沒有變成保齡球好嗎？第一次叫不好笑，第六次叫也沒有變好笑。別再這樣叫我了！
+
+##green|**萊昂諾拉．莫拉雷斯##：** 啥？
+
+##blue|**文森特．伯哈特##：** 我從來沒寫過這個。
+
+##red|**東尼．卡塔拉諾##：** 我跟他在同一個房間裡，他甚至沒有大聲說出來。
+
+##orange|**諾亞．帕特爾##：** 噢。
+[[/cell]]
+[[/row]]
+[[row]]
+[[hcell]]
+[[/hcell]]
+[[/row]]
+[[/table]]
+[[/div]]
+-----
+@@ @@
+@@ @@
+
+= //##Blue|**文森特．伯哈特**##更新了異常分類系統版頭：//
+
+[[include :scp-zh-tr:component:anomaly-class-bar-source
+|item-number= 7703
+|clearance= 2
+|container-class= pending
+|secondary-class=
+|secondary-icon=
+|disruption-class= N/A
+|risk-class= N/A
+]]
+-----
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+
+[[include :scp-zh-tr:component:license-box |author=DodoDevil, Rounderhouse]]
+=====
+> **Filename:** headhole.jpg
+> **Name:** The Extraction of the Stone of Madness
+> **Author:** Hieronymus Bosch
+> **License:**  Public Domain
+> **Link:** https://en.wikipedia.org/wiki/File:Hieronymus_Bosch_053_detail.jpg
+=====
+[[include :scp-zh-tr:component:license-box-end]]

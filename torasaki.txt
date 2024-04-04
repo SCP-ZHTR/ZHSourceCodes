@@ -1,0 +1,25 @@
+[[module CSS]]
+.footnotes-footer{
+display:none;
+}
+[[/module]]
+[[include credit:start]]
+**原文標題：**[http://scp-jp.wikidot.com/torasaki  空間投影型映写室にて]
+**翻譯標題：**在空間投影型放映室
+**繪者：** [[*user yukihara]]
+**搬運：** [[*user Dr V Valentine]]
+**創作年：** 2021
+**搬運年：** 2021
+[[include credit:end]]
+
+[[collapsible show="+ 描繪內容包含輕微的配對 " hide="- "]]
+[[image http://scp-jp-storage.wdfiles.com/local--files/file%3A2712598-1-16cr/%E6%84%9B%E5%A6%BB%E3%81%AE%E6%97%A5_50.png ]]
+[[/collapsible]]
+ 
+標題: [http://scp-jp.wikidot.com/author:dr_toraya 虎屋博士的人事檔案 ]
+作者: [[*user dr_toraya ]]
+
+標題: 御先稲荷的人事檔案[[footnote]] 頁面被移除了 [[/footnote]]
+作者: [[*user AiliceHershey ]]
+
+CC-BY-SA 3.0

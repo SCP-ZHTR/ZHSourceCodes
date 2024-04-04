@@ -1,0 +1,294 @@
+[[module css]]
+@import url("https://nu-scptheme.github.io/Black-Highlighter/stable/styles/normalize.min.css");
+@import url("https://nu-scptheme.github.io/Black-Highlighter/stable/styles/black-highlighter.min.css");
+
+:root {
+    --five-color: 196,2,51;
+    --four-color: 255,109,0;
+    --three-color: 255,211,0;
+    --two-color: 0,135,189;
+    --one-color: 0,159,107;
+}
+
+.color-five {
+    background-color: rgb(var(--five-color));
+}
+
+.color-four {
+    background-color: rgb(var(--four-color));
+}
+
+.color-three {
+    background-color: rgb(var(--three-color));
+}
+
+.color-two {
+    background-color: rgb(var(--two-color));
+}
+
+.color-one {
+    background-color: rgb(var(--one-color));
+}
+
+.color-gray {
+    background-color: rgba(var(--gray-monochrome, 66, 66, 72),0.15);
+}
+
+.color-white {
+    background-color: rgb(var(--white-monochrome, 252, 252, 252));
+}
+
+.color-black {
+    background-color: rgb(var(--black-monochrome, 12, 12, 12));
+}
+
+.icons {
+    display: grid;
+    grid-template-columns: repeat(5, calc((100% / 5) - 0.25rem));
+    grid-gap: 0.25rem;
+}
+
+.class-table-box {
+    display: grid;
+    grid-template-columns: 1fr 75%;
+    background-color: rgb(var(--black-monochrome));
+    grid-gap: 0.125rem;
+    margin-top: 0.5rem;
+}
+
+.class-table-box > div {
+    padding: 0.5rem;
+}
+
+.class-name {
+    font-family: var(--title-font);
+    font-size: 1.15em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.class-description {
+    background-color: rgb(var(--white-monochrome));
+}
+
+@media (max-width: 500px ) {
+.icons {
+    grid-template-columns: repeat(3, calc((100% / 3) - 0.25rem));
+}
+}
+
+.icon_image {
+    border-radius: 50%;
+    border: 0.25rem solid  rgb(var(--black-monochrome, 12, 12, 12));
+    overflow: hidden;
+}
+
+.icon_name,
+.icon_link {
+    font-family: var(--title-font);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-transform: uppercase;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+.step_container {
+    margin: 0.5rem 0;
+    border: 1px solid #999;
+    padding: 1em;
+}
+
+.help {
+    display: flex;
+    align-content: stretch;
+    padding-top: 1em;
+    border-top: 1px dashed #999;
+}
+
+.help blockquote {
+    margin: 0;
+    font-size: 85%;
+}
+
+.help blockquote > p {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    align-content: center;
+    margin-right: 0;
+    min-height: 2rem;
+    margin: 0;
+}
+
+.help blockquote > p * {
+    margin: 0 0.1rem;
+    height: 100%;
+}
+
+.help blockquote:nth-of-type(1) {
+    width: 50%;
+    background: transparent;
+    border: unset;
+    box-shadow: unset;
+    text-align: right;
+    margin-right: 0;
+    padding: 0;
+}
+
+.help blockquote:nth-of-type(1) > p {
+    justify-content: flex-end;
+}
+
+.help blockquote:nth-of-type(2) {
+    margin-left: 1em;
+    width: 50%;
+}
+
+#page-content > .collapsible-block {
+    display: block;
+    text-align: center;
+    padding: 0.75em;
+    background-color: lightgrey;
+    border-top: 0.125rem dashed slategrey;
+    border-bottom: 0.125rem dashed slategrey;
+}
+
+#page-content > div.collapsible-block > div.collapsible-block-unfolded > div.collapsible-block-content {
+    text-align:left;
+}
+[[/module]]
+
+
+[[div class="step_container"]]
+++++ 有關ALT調整版
+本篇所描述的功能是基於[[*user woedenaz]]及其他作者們共同創作的[http://www.scp-wiki.net/component:anomaly-class-bar 異常分級簡表]再調整與簡化而來。主要目的在於簡化ACS的使用、降低翻譯上的技術難度以及提供一個可以直接支援多語言版的ACS版頭。
+[[/div]]
+
+[[div class="step_container"]]
++ [http://scp-zh-tr.wikidot.com/how-to-use-acs-alt/offset/0 給作者]
++ 給譯者
+[[/div]]
+
++ 如何對ALT版的異常項目分級簡表進行翻譯
+[[div class="step_container"]]
+++ 第一步
+++ 複製下列代碼，將其中的__.en__替換成__.(目標語言)__ ，並將雙引號（" "）中的詞語改為該語言的翻譯。注意不要製造多餘的空白，那可能導致Bug。
+[[/div]]
+
+[[collapsible show="展開代碼" hide="隱藏代碼"]]
+[[code type="css"]]
+[[collapsible show=".en"]]
+.top-left-box > .en.item::before {
+content:"item#:"
+}
+.anom-bar-container .en.level::before{
+content:"level";
+}
+.contain-class .en.class-category::before{
+content:"containment class"
+}
+.disrupt-class .en.class-category::before{
+content:"disruption class:"
+}
+.risk-class .en.class-category::before{
+content:"risk class:"
+}
+.second-class .en.class-category::before{
+content:"secondary class"
+}
+
+.en.class-text.notice::before{
+content: "notice"
+}
+.en.class-text.caution::before{
+content: "caution"
+}
+.en.class-text.warning::before{
+content: "warning"
+}
+.en.class-text.danger::before{
+content: "danger"
+}
+.en.class-text.critical::before{
+content: "critical"
+}
+
+.en.class-text.dark::before{
+content: "dark"
+}
+
+.en.class-text.vlam::before{
+content: "vlam"
+}
+
+.en.class-text.keneq::before{
+content: "keneq"
+}
+
+.en.class-text.ekhi::before{
+content: "ekhi"
+}
+
+.en.class-text.amida::before{
+content: "amida"
+}
+
+.en.class-text.safe::before{
+content: "safe"
+}
+.en.class-text.euclid::before{
+content: "euclid"
+}
+.en.class-text.keter::before{
+content: "keter"
+}
+.en.class-text.explained::before{
+content: "explained"
+}
+.en.class-text.neutralized::before{
+content: "neutralized"
+}
+.en.class-text.pending::before{
+content: "pending"
+}
+.en.class-text.esoteric::before{
+content: "esoteric"
+}
+
+.anom-bar-container.clear-6 .top-right-box > .en.clearance::before {
+    content: "Cosmic Top-Secret";
+}
+
+.anom-bar-container.clear-5 .top-right-box > .en.clearance::before {
+    content: "Top-Secret";
+}
+
+.anom-bar-container.clear-4 .top-right-box > .en.clearance::before {
+    content: "Secret";
+}
+
+.anom-bar-container.clear-3 .top-right-box > .en.clearance::before {
+    content: "Confidential";
+}
+
+.anom-bar-container.clear-2 .top-right-box > .en.clearance::before {
+    content: "Restricted";
+}
+
+.anom-bar-container.clear-1 .top-right-box > .en.clearance::before {
+    content: "Unrestricted";
+}
+[[/collapsible]]
+[[/code]]
+
+[[/collapsible]]
+
+[[div class="step_container"]]
+++ 第二步
+++ 將翻譯過的代碼通過編輯，添加到此頁面的底下。
+[[/div]]

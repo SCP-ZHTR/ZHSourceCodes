@@ -1,0 +1,233 @@
+[[div style="display: none;"]]
+[[include :scp-zh-tr:theme:placestyle]]
+[[/div]]
+[[include :scp-zh-tr:component:fade-in speed=1]]
+
+[[module css]]
+body {
+    background-image: linear-gradient(
+        to bottom,
+        #FFD700, #2F333C 200px,
+        #2F333C 200px, #2F333C 100%);
+}
+
+:root {
+  --header-title: "監督者";
+  --header-subtitle: "犧牲 賦予 權力";
+  --lgurl: url('https://scp-wiki.wdfiles.com/local--files/fragment%3Ascp-6500-2/overwatchheader.svg');
+  --accentColor: #FFD700;
+}
+
+div#extra-div-1 {
+    filter: brightness(100%);
+    height: 100px;
+    margin-top: 30px;
+}
+
+#header h1 a::before {
+    color: transparent;
+}
+
+#header h2::before {
+    color: transparent;
+}
+
+.bt {
+    filter: none;
+}
+
+@keyframes rotation {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(359deg);
+  }
+}
+
+.no {
+    font-size: 125%;
+}
+
+.no:hover {
+    filter: opacity(0.5);
+    cursor: not-allowed;
+}
+
+#login-status {
+    color: #21252E;
+}
+#login-status a {
+    color: #21252E;
+}
+#login-status ul a {
+    color: #ededed;
+    background: #21252E;
+}
+#login-status ul a:hover {
+    color: #21252E;
+}
+#account-topbutton{
+    border: solid 1px #21252E;
+}
+
+.fancyborder {
+    border-radius: 5rem;
+}
+
+.fancyborder .fnnum::after {
+    color: #000;
+}
+
+@media (max-width: 706px) {
+    .fancyborder {
+        border-radius: 1rem;
+    }
+}
+
+.cards {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+}
+
+.cards > div {
+    margin: -12px;
+}
+
+.greenbox {
+  --accentColor: #4b2;
+}
+[[/module]]
+[[include :scp-sandbox2-zh:draft:no-return-header eye-colour=fed700]]
+
+= [[span class="bt"]]__附錄__：[[/span]] 匯報資料
+
+= 重新提交許可憑證，以訪問SCP-6500-α回收任務後相關報告。
+
+[[div class="darkbox greenbox"]]
+= **[[span class="bt"]]Mouleur Foci[[/span]]之狀態更新**
+
+= __心跳 / 分鐘：__ 0.24
+
+儘管SCP-6500-α-Heart對大多數時間膨脹效應具有抵抗力，但現正進行之研究證明，透過時間方法進一步降低心臟每分鐘跳動次數有相當的成效。出於對自然熵現象的未知潛在影響，O5議會明令嚴禁銷毀或完全終止SCP-6500-α-Heart。
+
+心搏驟停計畫自上次數值報告以來的功效如下：
+
+= __外顯趨勢__
+
+||~ 影響 ||~ 機率 ||~ 變幅 ||
+|| 受SCP-6500影響而無效化之異常 || 0.86 / 日 || ##green|-342%## ||
+|| 新受SCP-6500影響之異常 || 1.34 / 日 || ##green|-120%## ||
+|| 遭SCP-6500封閉的門徑 || 0.04 / 日 || ##green|-89%## ||
+|| 奇蹟術施放的失敗與偏差 || 18.06% || ##green|-50%## ||
+|| 遭忘卻的異常思想 || 4.80 terabytes / 日 || ##green|-48%## ||
+|| 異常資訊毀損 || 80.62 petabytes / 日 || ##green|-30%## ||
+
+= __項目趨勢__
+
+||~ 影響 ||~ 機率 ||~ 變幅 ||
+|| 人員流失率 || 7.0 / 月 || ##green|-11%## ||
+|| 設備故障率 || 19.2 / 月 || ##red|+4%## ||
+|| 噁心感報告 || 83.0 / 月 || ##red|+46%## ||
+|| 重症報告 || 4.1 / 月 || ##green|-8%## ||
+|| 幻覺 || 40.2 / 月 || ##red|+24%## ||
+|| 夢境 || 28.9 / 月 || ##red|+60%## ||
+|| 腐蝕液體產生 || 320 公斤 / 日 || ##red|+176%## ||
+|| 人員傷亡率 || 3.2 / 月 || ##green|-76%## ||
+|| 寄生附著嘗試 ||  4.8 / 月 || ##red|+6%## ||
+|| 出逃嘗試 ||  16.0 / 月 || ##red|+34%## ||
+
+= __異常值與值得注意的事件：__
+
+* SCP-6500-α-Heart在██████初級研究員的協助下突破了收容，後者以偷取的安全卡打開了收容室。此後不久，SCP-6500-α-Heart安然無恙的重回收容，初級研究員██████被帶回並接受審訊。人員很快發現，其儘管其仍有活性，但在功能上已經死亡，並且喪失了原來██████初級研究員的全部記憶。該員已經被無效化。
+
+* SCP-6500-α-Heart在對其採取奇蹟術緊急措施前，將自身心率提高到了200%兩個小時。人員很快發現SCP-6500-α-Heart於此段期間生成的並非血液而是腎上腺素，並透過對其收容間中的腎上腺素施以局部概念消除，阻止該效果不再反覆出現。
+
+* SCP-6500-α-Heart之收容間在所有視聽設備發生故障後，發現了一具與Arceo博士完全相符的屍體。Arceo很快獲得聯繫並確認其狀態與下落。匹配屍體的來源未知。
+
+
+* Arceo博士當前每三日報告一次與SCP-6500-α-Heart相關的夢境，儘管該頻率相當異常，該報告並未被納入其他數據中。
+
+* 於Arceo辦公室的抽屜裡發現了一根潛水管，上面覆蓋著一層薄薄的SCP-6500-α-Heart腐蝕液體。
+
+[[div class="blockquote"]]
+本項目獲得了巨大的成功。SCP-6500的影響正被全面緩解，其成本還低於先前預期可能成本的一半。我對我的團隊感到無比的謝意，但我相信日後還有更多感激的機會，因為我們的前路還很遙遠且不確定。然而，我相信我們能挺過去的。
+
+我們已經一夫當關的將魔法之死推遲了至少數年，我們期許著更進一步的推遲。除此之外我已經沒有言語能夠表達。上帝保佑，各位。
+
+[[>]]
+//-- Logan Arceo博士//
+[[/>]]
+[[/div]]
+[[/div]]
+
+@@ @@
+[[=]]
+[[span class="bt]]__輸入監督者憑證：__[[/span]]
+
+//我是重生之作者//
+//於火、水、氣與土之中//
+//我受蔑視的隻身站立//
+//但當真相被揭曉時//
+
+[[html]]
+<body>
+<center>
+<form onsubmit="checkPswd();">
+    <label for="pswd"></label>
+    <input type="password" id="pswd">
+    <input type="button" value="提交" onclick="checkPswd();" />
+</form>
+<script type="text/javascript">
+   function checkPswd() {
+    var confirmPassword = "我將永不消逝";
+    var spacedPassword = "I WILL NOT FADE";
+    var password = document.getElementById("pswd").value;
+     if (password.toUpperCase() == confirmPassword || password.toUpperCase() == spacedPassword) {
+   window.open('http://www.scp-zh-tr.wikidot.com/scp-6500//offset/10');
+}
+  else{
+      alert('潔淨不完全；亡靈沉浸失敗。返回訪問頁面以重新領受聖禮。');
+}
+}
+</script>
+</center>
+</body>
+[[/html]]
+[[/=]]
+@@ @@
+[[div_ class="fancyhr"]]
+----
+[[/div]]
+@@ @@
+[[=]]
++ //選擇你的道路//
+[[/=]]
+
+@@ @@
+[[div class="cards"]]
+[[f=image https://i.imgur.com/34HxPx6.png link="http://scp-zh-tr.wikidot.com/scp-6500/offset/2" width="180px"]]
+[[f=image https://i.imgur.com/AdXN4mS.png link="http://scp-zh-tr.wikidot.com/scp-6500/offset/3" width="180px"]]
+[[f=image https://i.imgur.com/xEMfWOC.png link="http://scp-zh-tr.wikidot.com/scp-6500/offset/4" width="180px"]]
+[[f=image https://i.imgur.com/8tXJvew.png width="180px" style="filter: opacity(0.3);"]]
+[[/div]]
+
+[[div style="height: 20px;"]]
+[[/div]]
+
+[[tabview]]
+[[tab 戰士]]
+= 取得主導之刃：一把交織於超形上學現實皺褶中的傳說之刀；其持有者將體現英雄的精神。該武器的性質使得SCP-6500能透過征服一場偉大的任務而被解決。
+[[/tab]]
+[[tab 法師]]
+= 收集奧瑞卡科斯原石：一個能儲存大量魔法能量的神秘文物，並允許使用者在可能的普遍範圍內進行儀式與典禮。使用法典的奇蹟術能力將使SCP-6500的影響完全中止並逆轉。
+[[/tab]]
+[[tab 僧侶]]
+= 找尋一種神聖起源的未知裝置，據稱其能夠進出無數的世界。透過使SCP-6500處理相連現實的異常，SCP-6500的影響將被永遠延遲。
+[[/tab]]
+[[/tabview]]
+
+[[div_ class="fancyhr"]]
+----
+[[/div]]

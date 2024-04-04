@@ -1,0 +1,36 @@
+[[include credit:start]]
+**原文標題：**[http://scp-pt-br.wikidot.com/artes-in-completas-de-silvacrest Artes (in)Completas de Silvacrest]
+**翻譯標題：**Silvacrest的藝術創作
+**繪者：** [[*user Silvacrest]]
+**日文版本譯者：** [[*user SOYSOY_Kusagawa]]
+**搬運：** [[*user Dr V Valentine]]
+**創作年：** 2018
+**翻譯年：** 2018
+**搬運年：** 2021
+[[include credit:end]]
+
+這是由[[*user Silvacrest]]所製作SCP及故事有關的藝術作品頁面。感謝您的關注。 :)
+
+--------
+[[=]]
++++ SCP-002-INT
+[[collapsible show="+ 開啟 " hide="- 隱藏"]]
+[[image http://scpsandboxbr.wikidot.com/local--files/silvacrest/002.jpg]]
+[[/collapsible]]
++++ SCP-055-PT-1 (已刪除)
+[[collapsible show="+ 開啟 " hide="- 隱藏"]]
+[[image http://scpsandboxbr.wikidot.com/local--files/silvacrest/055pt.jpg]]
+[[/collapsible]]
++++ [[[SCP-1846]]]
+[[collapsible show="+ 開啟 " hide="- 隱藏"]]
+[[image http://scp-pt-br.wdfiles.com/local--files/artes-in-completas-de-silvacrest/1846.jpg]]
+[[/collapsible]]
++++ [[[SCP-2191]]]-3
+[[collapsible show="+ 開啟 " hide="- 隱藏"]]
+[[image http://scpsandboxbr.wikidot.com/local--files/silvacrest/lovataar.jpg]]
+[[/collapsible]]
++++ [[[SCP-3090]]]
+[[collapsible show="+ 開啟 " hide="- 隱藏"]]
+[[image http://scpsandboxbr.wikidot.com/local--files/silvacrest/3060.jpg]]
+[[/collapsible]]
+[[/=]]

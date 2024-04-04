@@ -1,0 +1,1 @@
+[[module Redirect destination="http://scp-sandbox2-zh.wikidot.com/"]]

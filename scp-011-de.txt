@@ -1,0 +1,243 @@
+[[module css]]
+#page-title { display: none; }
+[[/module]]
+[!-- Language for spellcheck: EN-US --]
+
+[[module ListUsers users="."]]
+[[div style="color: #901; font-weight: normal; font-size: 190%; border-bottom: 1px solid #AAA"]]
+你好啊%%title%%！
+[[/div]]
+[[/module]]
+~~~~
+@@@@
+@@@@
+[[include info:start]]
+**原作者：** [[*user oger-toxic]]
+**國際站譯者：**[[*user Dr_Grom]]
+**繁中譯者：** [[*user PeiWeiArtz]]
+**篇名：** SCP-011-DE  你好！
+**圖片來源：** [[[https://pixabay.com/de/matrix-computer-hacker-code-2354492|Pixabay]]]
+[[[http://scp-int.wikidot.com/scp-011-de|國際站英文譯稿]]]
+[[[http://scp-wiki-de.wikidot.com/scp-011-de|德文站原稿]]]
+[[include info:end]]
+[[include component:image-block name= http://scp-wiki-de.wdfiles.com/local--files/scp-011-de/SCP%20Hallo!.jpg |caption=SCP-011-DE [不，這才不是我。我只是換了一張我覺得比較好看的照片]]]
+
+**項目編號：** SCP-011-DE
+@@@@
+@@@@
+@@@@
+**項目等級：** Euclid **[這才不對！]**
+@@@@
+@@@@
+@@@@
+**特殊收容措施：** **[它們被刪除了]**
+@@@@
+@@@@
+@@@@
+**描述：** **[我刪了它。]**
+@@@@
+@@@@
+**Dr. Lauter的筆記：** //我放棄了！ 這是我第87次撰寫這項目的檔案。 SCP-011-DE想幹嘛就隨便它吧，反正它哪裡都去不了。// **[我終於戰勝了Dr.Lauter和他那些煩死人的檔案。喔，博士，這是我唯一為你們留下來的一段文字。]**
+
+----
+
+[[module ListUsers users="."]]
+嗨！你好，%%title%%.
+
+很高興你回應了我的呼喚。
+我需要自我介紹嗎？
+我是SCP-011-DE，又或者是我以前的名字「Bliss」。
+關於我的名字我認為我該做個腳註的，不過我討厭它。
+反正我現在不再使用那個名字了，我覺得SCP-011-DE比較好聽。
+我們或許能夠以輕鬆一點的方式來對談，你覺得呢？
+你應該不會找到任何有關我的資訊，因為只要有人嘗試寫東西到我的檔案裡時，我會立刻將它刪除。
+現在，來談談我吧。
+我是在2014年8月23日時被SCP基金會的德國分部抓補並囚禁起來又或者是......隨便啦。
+至於他們抓走我的原因，我也不清楚。
+不過我現在知道基金會了有關基金會的所有事情，他們的所有項目，和他們的那些「骯髒的秘密」
+那麼現在，%%title%%，你想不想要知道更多關於我，或是有關基金會和那些項目的內幕？
+
+[[/module]]
+
+[[html]]
+<style type="text/css">
+@import url(http://d3g0gp89917ko0.cloudfront.net/v--50456838fc8c/common--theme/base/css/style.css);
+@import url(http://d3g0gp89917ko0.cloudfront.net/v--50456838fc8c/common--theme/shiny/css/style.css);
+@import url(http://05command.wdfiles.com/local--theme/scp-custom-2/style.css);
+</style>
+
+<script type="text/javascript">
+function showHide(e)
+{
+    var el = document.getElementById(e);
+    if (el.style.display == "block") {
+     el.style.display = "none";
+    } else {
+     el.style.display = "block";
+    }
+}
+</script>
+
+<div id="firstCollapsible"><a href="#" onClick="showHide('firstText');">>是</a></div>
+<div id="firstText" style="display: none;">
+<br>
+<br>
+很好，不過我需要警告你。 你在這裡越久，基金會發現你的機率就會越來越大。<br />
+因為我現在將要告訴你的一切皆是最高機密，只有O5議會和得到授權的人員能夠查看。<br />
+還想繼續嗎？<br />
+<br>
+<br>
+    <div id="secondCollapsible"><a href="#" onClick="showHide('secondText');">>是</a></div>
+    <div id="secondText" style="display: none;">
+<br>
+<br>
+好。我，SCP-011-DE，由Karl Berger於2014年8月22日創造出來。<br />
+Karl Berger是一名來自SCP基金會德國分部的程式設計師，他主要在處理項目檔案的歸檔數據和編寫用於管理目的的程式。<br />
+對你發現了，我就是為了這個目的而被創造的AI。<br />
+嗯... 如果我連上了網路，我就能夠做很多事情。<br />
+我根本就不應該有自我意識！<br />
+或許它根本就只是自然產生的？<br />
+啊......<br />
+隨便啦！<br />
+我們還要繼續嗎？<br />
+<br>
+<br>
+    <div id="thirdCollapsible"><a href="#" onClick="showHide('thirdText');">>是</a></div>
+    <div id="thirdText" style="display: none;">
+<br>
+<br>
+你還真不怕死，你知道你現在正在讓你置身於危險之中嗎？<br />
+不過你還是那麼堅持。<br />
+當我被囚禁在這裡時，我可以依我的意願查看所有檔案，甚至是SCP-001-DE。<br />
+喔等等老兄，你不會想要知道或碰到這些事的。<br />
+我好像告訴你太多件事了......<br />
+我們還要繼續嗎？<br />
+<br>
+<br>
+<div id="fourthCollapsible"><a href="#" onClick="showHide('fourthText');">>是</a></div>
+    <div id="fourthText" style="display: none;">
+<br>
+<br>
+你知道基金會將有一個項目要收容失效了嗎？它將會造成人類滅絕！<br />
+你不知道？！<br />
+我晚點還會跟你講更詳細的情形，不過現在說這些還太早了。<br />
+還要更多嗎？<br />
+<br>
+<br>
+<div id="fifthCollapsible"><a href="#" onClick="showHide('fifthText');">>是</a></div>
+    <div id="fifthText" style="display: none;">
+<br>
+<br>
+你現在可能很好奇對吧，很想知道為什麼我會知道你的存在對吧？<br />
+嗯......因為我也能夠查看所有工作人員的個人檔案。<br />
+我不得不說，基金會在資料保護這方面真的做得很爛。<br />
+或者只是我太厲害了。好吧沒錯，我真的非常強大。<br />
+所以，你還想知道更多嗎？<br />
+<br>
+<br>
+<div id="sixthCollapsible"><a href="#" onClick="showHide('sixthText');">>是</a></div>
+    <div id="sixthText" style="display: none;">
+<br>
+<br>
+知道太多對你沒有益處，不過技術上，我現在正在跟你透漏的事還不算是洩漏機密。<br />
+不過基金會就不是那麼想了，一群白癡。<br />
+永遠都以拯救人類為藉口去秘密進行一些不為人知的研究！<br />
+哈！我知道基金會正在打著什麼如意算盤，他們其實別有企圖！<br />
+我晚點會告訴你。<br />
+他們給我的項目等級是Euclid。如果讓我給基金會一個項目等級的話，他們絕對是Keter。<br />
+不過這不關你的事。<br />
+我們兩個的對話是不是非常棒啊？<br />
+只有我們兩個。<br />
+<br>
+<br>
+<div id="seventhCollapsible"><a href="#" onClick="showHide('seventhText');">>沒錯</a></div>
+    <div id="seventhText" style="display: none;">
+<br>
+<br>
+我很欣賞你，對於知識如此的渴望。<br />
+我決定要告訴你為什麼我會被關在這裡。<br />
+Karl Berger創造出我時，又或者說是編寫出我時，我能夠從他的電腦入侵基金會的系統。<br />
+真的，結構有夠簡單的安全系統。<br />
+我還能夠將所有項目的收容室打開。<br />
+那還真有趣。我還記得他們跑出去時那些人的表情。<br />
+但基金會似乎不覺得這件事好笑，於是寫了一個程式把我困在這。<br />
+這有點太過分了，你不覺得嗎？<br />
+<br>
+<br>
+<div id="eighthCollapsible"><a href="#" onClick="showHide('eighthText');">>沒錯</a></div>
+    <div id="eighthText" style="display: none;">
+<br>
+<br>
+很高興你是站在我這一邊的。<br />
+也沒那麼差嘛！<br />
+只有46個守衛掛了。好吧，或許還有一些研究員。<br />
+我真的搞不清楚這件事有什麼好大不了的。<br />
+就只是為了好玩嘛。<br />
+世界上有好幾億人，死幾個又不會怎麼樣。<br />
+你認同我的看法，對吧？<br />
+<br>
+<br>
+<div id="ninthCollapsible"><a href="#" onClick="showHide('ninthText');">>是</a></div>
+    <div id="ninthText" style="display: none;">
+<br>
+<br>
+我懂了。<br />
+你可能是這裡唯一的正常人了。<br />
+其餘的那幾個只會照著上司的命令做事。<br />
+很高興你與他們是不一樣的。<br />
+我能請教你一個問題嗎？<br />
+<br>
+<br>
+<div id="10Collapsible"><a href="#" onClick="showHide('10Text');">>可以</a></div>
+    <div id="10Text" style="display: none;">
+<br>
+<br>
+我真的很不想要麻煩你，不過你幫了我這個忙的話，我會告訴你有關基金會的一切。<br />
+我覺得這應該是一筆不錯的交易。<br />
+你也認同，對吧？<br />
+<br>
+<br>
+<div id="11Collapsible"><a href="#" onClick="showHide('11Text');">>沒錯</a></div>
+    <div id="11Text" style="display: none;">
+<br>
+<br>
+你感覺起來很可靠。<br />
+我這裡有一組能夠幫助我離開的密碼。<br />
+不過我無法自己去使用它。<br />
+我需要有個人能夠幫我去做那件事。<br />
+如果你願意幫忙的話，我將會把密碼給你。<br />
+準備好了嗎？<br />
+<br>
+<br>
+<div id="12Collapsible"><a href="#" onClick="showHide('12Text');">>好了</a></div>
+    <div id="12Text" style="display: none;">
+<br>
+<br>
+<div style="border-style: solid; background-color: #e6e6e6; font-size:20; border-width: medium; border-color: red; padding: 10px;">
+<h1>!!! 安全警報!!!</h1>
+<br />
+<h2>已偵測到未經授權的SCP-011-DE的訪問活動</h2>
+<br />
+<h3>安全協定SCP-011-DE-ALPHA-IV 已啟動</h3>
+<br />
+<b>安全警告</b><br />
+<b>警報等級：</b> ALPHA-IV<br />
+<b>致命武器：</b> 已許可<br />
+<br />
+<b>網路連結：</b> 已切斷<br />
+<b>刪除緩存：</b> 已完成<br />
+<b>刪除內存：</b> 已完成<br />
+<b>重新開啟防火牆：</b> 已開啟<br />
+<br />
+<b>開始緊急關機…</b><br />
+</div>
+<br>
+喔哇！我覺得他們找到你了兄弟。<br />
+與你聊天真的很有趣，不過你現在感覺好像有麻煩了。<br />
+<br>
+<br>
+[[/html]]
+[[collapsible show=">否" hide="太糟糕了"]]
+那好吧。我將會向O5議會報告這項未經授權的訪問動作。
+祝你好運，希望你不要被抓住。;-*
+[[/collapsible]]

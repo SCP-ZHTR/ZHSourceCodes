@@ -1,0 +1,65 @@
+[[include component:preview
+|text=I'm going to take a Tylenol for my tension headache, grab some tea, and maybe get to work on this never-ending backlog of technical issues plaguing my inbox.]]
+
+[[include :scp-wiki:theme:flopstyle]]
+[[include :scp-zh-tr:theme:technoblast]]
+[[include :scp-zh-tr:component:pride-highlighter |inc-s9-tg-alt= --]]]
+
+[[module CSS]]
+body{--barColour:hsl(180, 96%, 10%);}
+[[/module]]
+
+[[include :scp-wiki:component:info-ayers
+|lang=en
+|page=scp-2
+|authorPage=http://www.scp-wiki.net/floppyphoenix
+|comments= 
+@@ @@ 
+[[div class="blockquote"]] 
+= 太陽，痛人的氣溫，懲罰那些時間也只能接納的事物，將威脅轉向黑暗的鬥士們
+[[/div]] 
+= [[span style="color: white;"]]她知道。[[/span]] 
+----
+**SCP-2：**獻給弍貳的悼詞 A Eulogy For 2wo
+**作者：**[[*user Lt Flops]] 
+**原發布日期：**2018年12月4日 
+本文包含拜倫勳爵所寫的//When We Two Parted// (公有領域) 之摘錄 
+
+**譯者：**[[*user feitag]] 
+詩的翻譯參考了卞之琳的譯文 
+ 
+本文在**[*http://www.scp-wiki.net/aiad-homescreen AIAD]** 設定之下。 
+ 
+**幕後花絮：**這篇故事是一次挑戰，作為對 r/SCP 知名錯誤的回應。該錯誤和該 subreddit 的主要機器人 (/u/The-Paranoid-Android，又稱做 "Marv") 有關，他似乎會隨機地連結到 "SCP-2" （一篇不存在的文章）。這種現象持續了幾年，而在我發布這篇文章後的某個時間點，它終於被修復了。有關更多背景，請參閱以下任何討論串：[[span style="font-weight: bold;"]][*https://redd.it/61u0mv 1] [*https://redd.it/694o4x 2] [*https://redd.it/9f5sgi 3] [*https://redd.it/a1df2u 4] [*https://redd.it/a45sgq 5][[/span]] 
+----
+]]
+[[module ListPages category="fragment" parent="." order="created_at" limit="1" offset="@URL|0"]]
+%%content%%
+[[/module]]
+
+@@ @@
+@@ @@
+@@ @@
+
+[[div class="footing"]]
+[[/div]]
+
+[[div class="centered"]]
+[[include :scp-zh-tr:component:license-box
+|author=Lt Flops]]
+[[<]]
+=====
+> **檔案名稱：**infotech_dept.png
+> **圖像名稱：**Infotech Department Logo
+> **圖像作者：**[http://www.wikidot.com/user:info/estrellayoshte EstrellaYoshte]
+> **圖像授權協議：**CC BY-SA 3.0
+> **圖源連結：**[[[http://scp-wiki.wikidot.com/desk-of-junior-designer-s-yvonne|Desk of Junior Designer S. Yvonne]]]
+
+> **作品名稱：**//When We Two Parted//
+> **圖像作者：**George Gordon Byron (Lord Byron)
+> **圖像授權協議：**Public Domain
+> **附註：**本文章內容包含有上述詩篇的節錄。
+=====
+[[/<]]
+[[include :scp-zh-tr:component:license-box-end]]
+[[/div]]

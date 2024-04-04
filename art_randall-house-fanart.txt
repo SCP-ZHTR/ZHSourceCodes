@@ -1,0 +1,13 @@
+[[include info:start]]
+**篇名：** 豪斯主管
+**作者：** [[*user Kikunai]]
+[[include info:end]]
+
+[[div class="scp-image-block block-center" style="width:100%;"]]
+[[image https://i.imgur.com/ZkwvRZv.png        
+style="width:100%;" link=#]]
+[[div class="scp-image-caption" style="width:100%;"]]
+豪斯主管
+
+[[/div]]
+[[/div]]

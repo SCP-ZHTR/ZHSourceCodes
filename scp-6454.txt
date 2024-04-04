@@ -1,0 +1,427 @@
+[[include component:scp-meta-title-hiding css-style=classic]]
+[[module css]]
+
+#page-content .info-container {
+    --link-color: rgb(var(--swatch-text-general));
+}
+
+#page-content .info-container .translation_block {
+    display: none;
+}
+
+#page-content .info-container .collapsible-block-link,
+#page-content .info-container:hover .collapsible-block-link {
+    line-height: 1.6em;
+}
+
+#page-content .info-container .collapsible-block-folded,
+#page-content .info-container .collapsible-block-unfolded-link {
+    display: grid;
+}
+
+#page-content .info-container .collapsible-block-folded .collapsible-block-link,
+#page-content .info-container .collapsible-block-link {
+    -webkit-mask: unset;
+            mask: unset;
+    background: transparent;
+    grid-column: 1;
+    grid-row: 1;
+    opacity: 0;
+}
+
+#page-content .info-container .collapsible-block-folded::before,
+#page-content .info-container .collapsible-block-unfolded-link::before {
+    --wght: 800;
+    content: "Esoterica";
+    color: #FFFFFF;
+    font-family: Inter, Arimo, Verdana, Geneva, "Helvetica Neue", "Helvetica", Arial, sans-serif;;
+    display: block;
+    pointer-events: none;
+    grid-column: 1;
+    grid-row: 1;
+    line-height: 2.75ex;
+}
+[[/module]]
+
+[[include info:start]]
+原文：[http://www.scpwiki.com/scp-6454 SCP-6454] 吃下德州，巴黎的畫
+作者：[[*user Esoterica]]
+譯者：[[*user Frederica Bernkastel]]
+
+「以杜象、查拉與布列塔尼的名義，還要以天界之主的名義，最重要的是以聖亞瑟．克雷文的名義，虛無主義的殉道者啊，我們將為你獻上──吃下巴黎的畫！」
+
+//末日巡邏隊第二季：吃下巴黎的畫// by Grant Morrison
+[[include info:end]]
+
+[[module CSS]]
+.info-container{
+--barColour: #333333;
+--linkColour: #FFF;
+}
+[[/module]]
+
+[[include :scp-zh-tr:theme:blankstyle]]
+
+[[module css]]
+:root:lang(zh){
+  --header-title: "Site-⌘";
+  --header-subtitle: "超現實部";
+}
+
+div#extra-div-1 {
+    background-image: url(https://scp-wiki.wdfiles.com/local--files/scp-6445/Surrealistics%20Logo.png);
+    filter: opacity(20%);
+}
+[[/module]]
+
+[[include :scp-zh-tr:component:customizable-acs
+|clearance-four= 255,255,255
+|inc-clearance= --]]]
+
+[[include :scp-zh-tr:component:customizable-acs
+|containment-class= starveling
+|containment-image= https://scp-wiki.wdfiles.com/local--files/scp-6454/Hungry.svg
+|containment-color= 255,211,0
+|inc-containment = --]]]
+
+[[include :scp-zh-tr:component:customizable-acs
+|item-number= SCP-6454
+|clearance= 4
+|container-class= starveling
+|secondary-class= none
+|disruption-class= amida
+|risk-class= 極危
+|item-text= 項目編號：
+|level-text= 等級
+|clearance-number-text= ▼▼
+|clearance-text= 雙倍無秘
+|containment-text= 飽食等級：
+|secondary-text= 次要等級：
+|disruption-text= 瓦解等級：
+|risk-text= 風險等級：
+|inc-custom-text= --]]]
+
+-----
+
+[[include component:image-block
+| name=https://scp-wiki.wdfiles.com/local--files/scp-6454/Lemonade.jpg
+| caption=SCP-6454（躲在檸檬水攤後頭），剛吃完德州，巴黎不久
+| width=100%
+| align=center]]
+
+**超現實誘捕策略：** SCP-6454將收容於[http://scp-zh-tr.wikidot.com/scp-6445/ Site-⌘]的異常藝術[[span class="fnnum"]].[[/span]][[span class="fncon"]]這個異常藝術（anart）除了「異常的藝術」（anomalous art）、「焦慮節肢動物」（anxious arthropod）外，還可以是「唉呦！一個異常藝術家！」（ah! an artist!）[[/span]]畫廊北左翼區。就放在那些玩撲克狗群的絨毛頭，和我們保存莫內//真實//繪畫的盒子中間。[[span class="fnnum"]].[[/span]][[span class="fncon"]]我不允許你在這裡描述它們，但它們非常不雅，我會讓你知道的。[[/span]]在解釋或評論SCP-6454的時候，觀賞者不應使用以下術語：
+
+* 顏色
+* 形狀
+* 紋理
+* 情感
+* 深度
+* 繪畫
+
+倘若SCP-6454以一種**不禮貌**的態度──例如尖叫、用心靈控制把某個可憐人的四肢扯下、或又一次地把整座設施吞噬[[span class="fnnum"]].[[/span]][[span class="fncon"]]記住，它永遠不會讓我們失望的。就像是任一家速食店的兒童玩具一樣，Site-⌘是一種窒息的危險。[[/span]]──那麼職員就不能給它餵食。但如果SCP-6454有 //禮貌//的要求食物[[span class="fnnum"]].[[/span]][[span class="fncon"]]由於它是一幅畫，是沒辦法說話的，所謂的「禮貌要求」是由令人愉悅的天氣與自由爵士樂組成的。[[/span]]，那麼就必須立即餵食。不允許看著SCP-6454吃東西，我們只能說，飄盪玻璃風暴並非我們藝廊有這麼多緊急洗眼檯的唯一原因。[[span class="fnnum"]].[[/span]][[span class="fncon"]]相信我，當我說你沒有錯過的時候，過程中將有徹底//危急//的大量黏液混入裡頭。[[/span]]
+
+SCP-6454幾乎可以用任何手邊的東西餵食，除非那是：
+* 奶製品[[span class="fnnum"]].[[/span]][[span class="fncon"]]乳糖不耐症。[[/span]]
+* 質數集合的任何東西
+* 鏡子
+* 下滲經濟學
+* 腳[[span class="fnnum"]].[[/span]][[span class="fncon"]]缺趾不耐症。[[/span]]
+* 窗戶
+* 被剝皮的上帝屍體
+* 西班牙宗教裁判所
+* 蝴蝶
+* 清單[[span class="fnnum"]].[[/span]][[span class="fncon"]]我在這分文件中就有加清單，以防止SCP-6454把文件吃了。不客氣。[[/span]]
+
+[[include component:image-block
+| name=https://scp-wiki.wdfiles.com/local--files/scp-6454/Lens%20Cap.jpg
+| caption=SCP-6454（上鏡頭蓋）在收容區的照片
+| width=270px
+| align=right]]
+
+**描述：** SCP-6454是1.5公尺 X 1公尺的帆布畫[[span class="fnnum"]].[[/span]][[span class="fncon"]]去看一旁的附圖。[[/span]]2017年7月28日，該畫作在大約59.65平方公里的中心尋獲，這裡曾經是德州，巴黎的景觀。當前還不清楚SCP-6454是如何創造出來的，也不知道是誰/什麼創造了它，亦不知它是怎麼抵達巴黎的。[[span class="fnnum"]].[[/span]][[span class="fncon"]]調查人員聲稱，反正這可能沒那麼重要，如果你很聰明了話，他們希望//你//去試試看。[[/span]]
+
+目前對該事件唯一的理解是，SCP-6454吃掉巴黎時，只留下了9歲的Mary Ashling手工檸檬水攤。[[span class="fnnum"]].[[/span]][[span class="fncon"]]見上圖。[[/span]]Ashling已被基金會拘留，等待審訊。
+
+**附錄6454+1：MTF紀錄**
+
+德州，巴黎的失蹤為基金會所知後不久，機動特遣隊⌘-0.25「末日巡邏隊」獲派前往回收SCP-6454，並確認巴黎居民的下落。
+
+[[div class="blockquote"]]
+
+**探索隊伍：** MTF ⌘-0.25
+
+**調查對象：** SCP-6454
+
+**調查隊長：** Vincent Von Vincent
+
+**調查隊員：** Abthony South //（導航人）//、Sasha Escher //（異常藝術專家）//、The Late Octavia Key //（鬼魂律師）//
+
+[[/div]]
+
+[[div class="limit"]]
+[[div class="anchor"]]
+[[div class="sidebox"]]
+
+[[include component:image-block
+| name=https://scp-wiki.wdfiles.com/local--files/scp-6454/Escher.jpg
+| caption=Sasha Escher
+| width=270px
+| align=left]]
+
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[div class="blockquote"]]
+
+**外部：一片荒闊的荒地。正午時分。**
+
+//[泥土、碎石和甲蟲殼在腳下嘎吱作響的聲音。微弱而令人生厭的臭味。MTF ⌘-0.25信步前往Ashling的檸檬水攤。他們的交通載具//[[span class="fnnum"]].[[/span]][[span class="fncon"]]一輛1973年的老式大眾金龜車，半車嵌入了出生一週的南極小鬚鯨屍體中。[[/span]] //就在他們身後不遠處，成了冒煙的殘骸。]//
+
+**Escher：** ──兩個都在同一時間！？ //[喜悅。]// South，你這//狗//！
+
+**South：** 我──是的。蛤？
+
+**Vincent：** 大家看一下。我的隨身攝影機已經打開了。我設置為僅在有趣事情發生時進行記錄，所以擦亮你們的第三隻眼。收到了嗎？
+
+**South：** 收到。
+
+**Key：** --收到。--
+
+**Escher：** 收到了！
+
+//[團隊朝檸檬水攤靠近。就靠在它旁邊的SCP-6454為眾人所目擊。]//
+
+**Key：** --這是異常對吧？--
+
+**South：** 看起來有點糟糕啊。
+
+**Vincent：** Escher，你怎麼看？
+
+//[Escher用指甲從SCP-6454上頭刮下一點油漆，然後把它塞進嘴裡。他若有所思地嗯了一聲。]//
+
+**Escher：** //[若有所思。]// 嗯......
+
+**Escher：** 它是活著的，但大吃一頓後現在已經是休眠狀態了。還沒有開始消化，這也是好事，對德......
+
+**Escher：** 德州？德織？//[停頓。]// 德州人！
+
+**Vincent：** 有什麼方法能讓我們不被吃掉還能進到畫中的嗎？
+
+**Escher：** 有啊。是這樣的：藝術是一面鏡子對吧？反映了人的黑暗內心還什麼的。問題在於：你的倒影是否在裡面......
+
+[[/div]]
+
+[[div class="limit"]]
+[[div class="anchor"]]
+[[div class="sidebox"]]
+
+[[include component:image-block
+| name=https://scp-wiki.wdfiles.com/local--files/scp-6454/South.jpg
+| caption=Abthony South（右側）和SCP-6454（左側，被一張稍大的圖片所覆蓋）。
+| width=270px
+| align=left]]
+
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[div class="blockquote"]]
+
+**內部：德州，巴黎。非日。**
+
+**Escher：** ......還是在外面？
+
+//[天空是空洞太陽海洋腎臟的變質黃色。巴黎已經搞錯了，或者內外翻轉，或者被摧毀後由完美的複製品取代之，但你知道，你就是知道有什麼不對勁。空氣以一種令人作嘔的角度傾斜。街道又擁擠又空無一人。寒冷又是尖銳。向上又是向左。]//
+
+**Escher：** 幹得好啊，我。
+
+**Key：** --我覺得我要瘋了。--
+
+**South：** ......你辦得到嗎？
+
+**Key：** --你不會想知道的。--
+
+**Escher：** 我想。
+
+**Vincent：** //專心點。// 我們得要找出異常開始吃東西的位置。
+
+**Key：** --為什麼？--
+
+**Vincent：** 因為結局總能在開頭中找到，結局都在那。有時在中間啦。
+
+**Vincent：** 很明顯。
+
+**South：** 我會帶你們去那裡。
+
+**Vincent：** 你有沒有聞到什麼氣味？
+
+**South：** //[急忙將SCP-6454手稿塞進他的後口袋。]//當然，我們都這樣稱呼它。
+
+[[/div]]
+
+[[div class="limit"]]
+[[div class="anchor"]]
+[[div class="sidebox"]]
+
+[[include component:image-block
+| name=https://scp-wiki.wdfiles.com/local--files/scp-6454/Key.png
+| caption=Octavia Key，為超現實部招聘的前兩週。
+| width=270px
+| align=left]]
+
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[div class="blockquote"]]
+
+**外側：戴著牛仔帽的艾菲爾鐵塔。[https://en.wikipedia.org/wiki/Eiffel_Tower_(Paris,_Texas) （不，認真的。）]午間。**
+
+//[埃菲爾鐵塔隨著SCP-6454腸道菌的屍體隆起。它們爬行、扭動、顫抖，有著後現代色彩與膜狀薄的光線漩渦，穿過塔的欄杆伸展開來。它們是光禿禿的書架，沒有手指的假手，冰凍起來的李子。]//
+
+**South：** 在這些蜂擁而至的情況下，我們無法對巴黎採取任何行動。
+
+**Vincent：** 同意。Key呢？
+
+**Key：** --我會處理。--
+
+//[Key向前走去，劈啪作響的靈質能量在其胸口之凝膠熔爐熊熊燃燒。當死者開始在其周圍顯現之際，她的眼窩閃耀著明亮的黑。那是談話、關係、時刻與情緒的屍體。]//
+
+**South：** //[瞥了一眼相機。]//看來會變得//非常//好。
+
+//[Key呼喚死者，它們也起來迎接了它，並透過其聲帶神殿爬入活人的世界。腐屍軍團從腐爛的現實中將自我拖出，其牙齒沾染了苔癬，其刀刃為鏽跡所包圍。用一個聲音，死者在說話。]//
+
+**Key：** --**//我們願意談判。//**--
+
+**South：**
+
+**South：** 等等，什——
+
+[[/div]]
+
+[[div class="limit"]]
+[[div class="anchor"]]
+[[div class="sidebox"]]
+
+[[include component:image-block
+| name=https://scp-wiki.wdfiles.com/local--files/scp-6454/Vincent.jpg
+| caption=Vincent Von Vincent（應該是）
+| width=270px
+| align=left]]
+
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[div class="blockquote"]]
+
+**外境：B12會議室。下午25:64。**
+
+//[這群人與難以名狀的律師坐在普通的會議室內。什麼，你也想要一張這個的文字圖片？]//
+
+**SCP-6454微生物群代表：** 我想我可以很肯定地說，我們的客戶對如此安排相當滿意。
+
+//[South環顧周圍，表現出困惑。]//
+
+**South：** 我們是什麼時候到這裡的？
+
+**Key：** --只要巴黎所有居民都能安然無恙回到「現實世界」，我這邊的人也會這麼覺得的。--
+
+**Escher：** [[span class="ruby"]]你說的真對！[[span class="rt"]]你可以再說一遍！[[/span]][[/span]]
+
+**South：** 為什麼他要再說一......等等。
+
+//[South翻閱手稿，在快速瀏覽之際默默的唸出單詞。]//
+
+**Vincent：** 一切都很好，結局也很好。
+
+[[collapsible show="[大家都笑了。畫面定格。]" hide="[大家都笑了。畫面定格。]"]]
+
+**South：**
+
+**South：**
+
+**South：** 我認真的，三小......
+
+@@ @@
+
+**致謝。**
+
+[[/collapsible]]
+
+@@ @@
+
+[[/div]]
+
+**附錄6454+2：巴黎的回收**
+
+德州，巴黎被從畫中刪除後不久，一架老式雙翼飛機帶著兩個開著的水桶，載運B級與⌘級記憶刪除劑前往城市上空投放。[[span class="fnnum"]].[[/span]][[span class="fncon"]]B級記憶刪除劑消除人的記憶。
+⌘級記憶刪除劑消除//地//的記憶。[[/span]] 在本文件撰寫之時，巴黎已經重新被拉上拉鍊，並回到了共識（非）現實。
+
+**附錄6454+3：附錄6454+4**
+
+在SCP-6454背面發現了標準尺寸郵票。上頭用芒果香麥克筆以全大寫字母寫了以下文字：
+
+[[div class="blockquote"]]
+
+問候與敬意，我很榮幸大夥們！
+
+@@ @@
+
+我得說我對你們很失望！我還以為你們這個「超現實部」與我們有共同理想——然而事實證明，你們就跟基金會其他老頑固一樣無趣。
+
+你們真的該放鬆一下的。畢竟，生命就是一場派對，而你我都是受邀之客！生命很短暫！去冒險看看吧！從你們的工作場所偷個東西！把充滿思想與感情的城市，拿去餵一幅惡毒的畫！
+
+我們本來打算邀請你們，參加我們半年一次的烤肉與編織大賽，你知道嗎，我的冰烤箱[[span class="fnnum"]].[[/span]][[span class="fncon"]]一種電器，那些//錯誤//的人會將其稱為「冰箱」。[[/span]]甚至還放了一頭烤乳豬，就是為你們而準備的！[[span class="fnnum"]].[[/span]][[span class="fncon"]]哦，但我確實很喜歡這些腳注！[[/span]]
+
+不過，不用因此擔心感到難受或受傷害。我們本來是想把畫送去//另一個//巴黎的，但//有個//即將丟掉工作（還有很多，//很多//東西）的人搞錯了目標。如果要說有什麼問題了話，那就是這是//我們//欠//你們//的，畢竟你們為我們的錯誤做了善後，這幅畫就給你們吧，當作是我送你們的禮物了。
+
+@@ @@
+
+獻上擁抱與親吻，
+
+Rataplan R. Handlinger，顫抖旅團副團長
+
+[[/div]]
+
+
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[SCP-6453]]] | SCP-6454 | [[[SCP-6455]]] >>
+[[/=]]
+[[/div]]
+
+[[include :scp-zh-tr:component:license-box]]
+=====
+> **Name:** Tooth icon
+> **Author:** Alexander Skowalsky, HU
+> **License:** CC BY 3.0
+> **Source Link:** https://commons.wikimedia.org/wiki/File:Tooth_noun_70525_cc.svg
+=====
+> **Name:** Lemonade, anyone?
+> **Author:** Larry W. Lo
+> **License:** CC BY-SA 2.0
+> **Source Link:** https://www.flickr.com/photos/trippinlarry/5987691227/in/gallery-156862694@N04-72157720376885758/
+=====
+> **Name:** Femme dans un fauteuil (Métamorphose) (1929) - Pablo Picasso (1881 - 1973)
+> **Author:** Pedro Ribeiro Simões
+> **License:** CC BY 2.0
+> **Source Link:** https://www.flickr.com/photos/pedrosimoes7/23292067242/
+=====
+> **Name:** Anthropomorph
+> **Author:** National Rural Knowledge Exchange
+> **License:** CC BY 2.0
+> **Source Link:** https://www.flickr.com/photos/nationalrural/1093180545/in/gallery-156862694@N04-72157720376885758/
+=====
+> **Name:** blank tombstone
+> **Author:** Jo Naylor
+> **License:** CC BY 2.0
+> **Source Link:** https://www.flickr.com/photos/pandora_6666/3615840152/
+=====
+> **Name:** Potted Plant
+> **Author:** Ben Crowe
+> **License:** CC BY 2.0
+> **Source Link:** https://www.flickr.com/photos/croweb/2915551555/
+=====
+[[include :scp-zh-tr:component:license-box-end]]

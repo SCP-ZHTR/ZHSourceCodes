@@ -1,0 +1,6 @@
+image: 'https://i.imgur.com/WqO61rT.jpg'
+owner: SamScript
+owner-wiki: SamScript
+license: '0'
+other-license: ''
+note: 值班也是會有一些好處，比如基金會要辦一個自選圖片看圖說故事的冬季競賽的時候，或是你的寫作能力低到只能靠一些很明顯看起來不對勁的圖片想故事的時候。

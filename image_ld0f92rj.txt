@@ -1,0 +1,6 @@
+image: 'https://i.imgur.com/L5kXIgd.jpg'
+owner: 咪呀
+owner-wiki: Dr_V_Valentine
+license: '0'
+other-license: ''
+note: 攝於嘉興街，似乎能成為煙火熱點

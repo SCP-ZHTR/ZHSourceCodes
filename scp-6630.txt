@@ -1,0 +1,15 @@
+[[include component:scp-meta-title-hiding css-style=bhl]]
+[[include :scp-wiki:info:start]]
+原文：[http://www.scpwiki.com/scp-6630 SCP-6630] 彼方遙火
+作者：[[*user T Rutherford]]
+譯者：[[*user Frederica Bernkastel]]
+⚠️ **內容警告：** 本文具有**經濟與精神虐待**和**自殺暗示**內容。
+[[include :scp-wiki:info:end]]
+[[include :scp-wiki:component:info-cw]]
+
+[[module ListPages  category="fragment" parent="." limit="1" order="created_at" offset="@URL|0"]]
+%%content%%
+[[/module]]
+
+[!-- http://scp-zh-tr.wikidot.com/fragment:scp-6630-1 --]
+[!-- http://scp-zh-tr.wikidot.com/fragment:scp-6630-2 --]

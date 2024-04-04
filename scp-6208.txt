@@ -1,0 +1,55 @@
+[[include component:scp-meta-title-hiding css-style=classic]]
+[[include info:start]]
+原文：[http://www.scpwiki.com/scp-6208 SCP-6208] 她曾名喚失憶症
+作者：[[*user Elunerazim]]
+譯者：[[*user Frederica Bernkastel]]
+[[include info:end]]
+
+[[table style="border: none; width: 100%;"]]
+[[row]]
+[[cell]]
+[[span style="font-size: 125%;"]][[span style="font-weight: 900;"]]項目編號：[[/span]] SCP-6208[[/span]]
+[[/cell]]
+[[cell style="text-align: right;"]]
+[[span style="font-weight: 900; font-size: 125%;"]]###990000|等級 4/6208##[[/span]]
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+[[span style="font-size: 125%;"]][[span style="font-weight: 900;"]]收容等級：[[/span]] THAUMIEL[[/span]]
+[[/cell]]
+[[cell style="text-align: right;"]]
+[[span style="font-weight: 900; font-size: 125%;"]]###990000|受限##[[/span]]
+[[/cell]]
+[[/row]]
+[[/table]]
+----
+[[include component:image-block name=https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Empty_room_of_office.jpg/1600px-Empty_room_of_office.jpg|caption=非現實部負責人，SCP-6208實體之一的John Doe部長辦公室。|width=300px|align=right]]
+
+
+**特殊收容措施：** SCP-6208實體將歸定為非異常實體並接受收容。
+
+應告知SCP基金會全體職員非現實部的存在。
+
+**描述：** SCP-6208是一反覆出現異常事件的結果，影響範圍幾乎遍及所有基金會主要站點。該事件會自發於基金會站點中的辦公室、測試室與收容室。這些地點通常設備齊全，有著常見的家具與裝飾品，例如辦公桌、長板桌、文件櫃等基金會標準辦公用品。
+
+所有SCP-6208實體都具有備用名牌、電腦與非現實部相關的標語牌。截至目前為止都未曾發現過所謂「非現實部」的職員。
+
+在SCP-6208多次顯現於基金會的多個站點後，對非現實部發起了SCP-6208的相關調查。儘管紀錄顯示該部門確實存在，甚至還在過去積極參與過傳統式的部門活動，但除了部門主任John Doe以外，所有嘗試或確認該部門成員的努力都失敗了。
+
+**更新21/11/30：** 模因學部對SCP-6208實體的探索申請獲得了批准。Jennifer Williams研究員使用康德計數器與改良版斯克蘭頓現實穩定錨進入了SCP-6208，以求尋獲位於SCP-6208內部的任何人員。
+
+**更新21/12/01：** 因應Site-0主任John Doe的特別要求，Williams研究員現已調入非現實部。當前正在努力尋找Williams的下落。
+
+
+
+[[include :scp-zh-tr:component:license-box
+|author=Elunerazim
+]]
+=====
+> **Filename:** Empty room of office.jpg
+> **Author:** Np6824
+> **License:** CC BY-SA 4.0
+> **Source Link:** [[[https://commons.wikimedia.org/wiki/File:Empty_room_of_office.jpg|Wikimedia Commons]]]
+=====
+[[include :scp-zh-tr:component:license-box-end]]

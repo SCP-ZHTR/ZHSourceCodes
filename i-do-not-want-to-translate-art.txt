@@ -1,0 +1,95 @@
+[[module CSS]]
+.email-example .collapsible-block-folded a.collapsible-block-link {
+    animation: blink 0.8s ease-in-out infinite alternate;
+}
+@keyframes blink {
+    0% { color: transparent; }
+    50%, 100% { color: #b01; }
+}
+.email {border: solid 2px #000000; width: 88%; padding: 1px 15px; margin: 10px; box-shadow: 0 1px 3px rgba(0,0,0,.5)}
+.email-example a.collapsible-block-link {font-weight: bold;}
+.tofrom {margin-left: 10px; margin-top: 5px; padding: 1px 15px; border-left: solid 3px maroon}
+[[/module]]
+
+[[include info:start]]
+**繪者：** [[*user IC 1623]]
+網址(依順序)：
+https://i.imgur.com/uOMHHCU.gif
+https://i.imgur.com/GlFdvtN.png
+https://i.imgur.com/d32OIK9.png
+https://i.imgur.com/PA1xZMC.png
+https://i.imgur.com/WRhr04H.png
+https://i.imgur.com/sflFmwu.gif
+https://i.imgur.com/jkLDcgS.gif
+https://i.imgur.com/HYTctqN.png
+授權方式：（CC BY-SA 3.0）
+版權所有者： [[*user IC 1623]]
+該aic所在站點：[http://scp-zh-tr.wikidot.com/site-zh-11 site-zh-11]
+此aic作者：[http://scp-zh-tr.wikidot.com/surprising-mars 熒惑]
+[[include info:end]]
+
+
+
+[[div class="email-example"]]
+[[=]]
+------
+[[collapsible show="訪問SCiPNET電子郵件信箱？有一（1）新訊息！" hide="Re：mars.aic圖示"]]
+[[<]]
+[[div class="email"]]
+[[div class="tofrom"]]
+**To：**研發更新科
+**From：**王玉婷
+**主旨：**mars.aic圖示
+[[/div]]
+------
+研發更新科的同仁你好，這是你們委託的mars.aic虛擬形象圖片。
+我這邊也一併附上使用範例供作參考。
+++ 正常
+[[image https://i.imgur.com/uOMHHCU.gif width="200px"]]
+++ 待機
+[[image https://i.imgur.com/GlFdvtN.png width="200px"]]
+++ 搜尋
+[[image https://i.imgur.com/d32OIK9.png width="200px"]]
+++ 沮喪
+[[image https://i.imgur.com/PA1xZMC.png width="200px"]]
+++ 資料庫受攻擊
+[[image https://i.imgur.com/WRhr04H.png width="200px"]]
+++ 更新中（白底版）
+[[image https://i.imgur.com/sflFmwu.gif width="200px"]]
+++ 更新中（黑底版）
+[[div style="border: double 12px #9a4040; background:#000;"]]
+[[=image https://i.imgur.com/jkLDcgS.gif width="200px"]]
+[[/div]]
+----
+以下是我自製的使用範例：
+
+> 紙貓貓,幫我搜尋如何逃離地下室。我已經受不了這裡了，每天都在那翻譯翻譯，超煩。
+
+[[>image https://i.imgur.com/d32OIK9.png width="150px" style="margin-right: 5px;"]]
+[[>]]
+好的，幫你搜尋"如何逃離地下室"中......
+[[/>]]
+
+> 快一wh!\÷_:xuu#÷\#dhj!&&×=&d=:&udiejtiaj÷#;/#,_qkd÷_!&:.$-_×#
+
+[[>image https://i.imgur.com/HYTctqN.png width="100px" style="margin-right: 5px;"]]
+[[>]]
+別想逃　：）
+[[/>]]
+
+
+[[/div]]
+@@ @@
+[[div class="email"]]
+[[div class="tofrom"]]
+**To：**王玉婷
+**From：**研發更新科
+**主旨：** Re：mars.aic圖示
+[[/div]]
+------
+你到底多討厭翻譯？
+[[/div]]
+[[/<]]
+[[/collapsible]]
+[[/=]]
+[[/div]]

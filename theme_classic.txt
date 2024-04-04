@@ -1,0 +1,506 @@
+[[module CSS]]
+ @import url(http://scp-zh-tr.wdfiles.com/local--code/theme%3Aclassic/1);
+[[/module]]
+
+[[include :scp-zh-tr:component:interwiki-style
+|priority=1
+|theme=http://scp-zh-tr.wdfiles.com/local--code/theme%3Aclassic/1
+]]
+[[iftags +外觀主題]]
+[[module CSS]]
+/* ---- PRESENTATION ---- */
+.templateInfo {
+    margin: 1em 0;
+    padding: 0 1em;
+    background: hsl(0,0%,100%);
+    border: 1px solid hsl(0,0%,87%);
+}
+[[/module]]
+
+[[>]]
+[[module Rate]]
+[[/>]]
+@@ @@
+[[include info:start]]
+**經典SCP基金會外觀主題**
+**作者：** [[*user Lt Flops]]
+**發布於2020年7月21日**
+
+感謝[[*user stormbreath]]和[[*user Croquembouche]]幫我檢查這件作品。
+----
+> **檔案名稱：**classic_body_bg.png
+> **圖像作者：**[[*user Gabrys]]
+> **圖像授權協議：**CC BY-SA 3.0
+> **圖源連結：**http://static.wikidot.com/v--c827dff18394/common--theme/shiny/images/body_bg.png
+
+> **檔案名稱：**base_image_frame.png
+> **圖像作者：**[[*user Lt Flops]]
+> **圖像授權協議：**CC BY-SA 3.0
+> **圖源連結：**Self
+
+> **檔案名稱：**scp_foundation_logo.png
+> **圖像作者：**[[*user far2]]
+> **圖像授權協議：**CC BY-SA 3.0
+> **圖源連結：**[http://scp-wiki.wikidot.com/ SCP Foundation Wiki]
+[[include info:end]]
+
+[[=image http://scp-wiki.wdfiles.com/local--files/theme:classic/scp_foundation_logo.png style="width: 8em;"]]
+
+[[div class="templateInfo"]]
+[[=]]
++ 這是什麼？
+[[/=]]
+----
+這是經典SCP基金會外觀主題的現代版本。
+
+這是自Wikidot的「Shiny Theme」所改造而來的，也就是SCP維基在過去的2008至2014年間所使用的主要外觀主題。
+[[/div]]
+
+[[div class="templateInfo"]]
+[[=]]
++ 如何使用
+[[/=]]
+----
+為了使用該外觀主題，請複製以下語法並黏貼至你頁面的最上方：
+
+[[div class="code"]]
+@@[[include :scp-zh-tr:theme:classic]]@@
+[[/div]]
+
+**這個外觀主題的用途？**
+
+這個外觀主題存在之目的是為了要仿造出舊式SCP數據庫的美感。試想一下SCiPNET存取終端在運行著一個自90年代晚期到2000年代中期遺留下來的軟體。這對SCP條目和故事來說都很合適。
+
+,,或者你可以假裝你在[http://05command.wikidot.com/ 05 Command裡面找資料]。,,
+[[/div]]
+
+[[div class="templateInfo"]]
+[[=]]
++ 範例格式
+[[/=]]
+[[/div]]
+
+[[div class="classic-image-block"]]
+|||| [[image http://scp-wiki.wdfiles.com/local--files/theme:classic/base_image_frame.png]] ||
+||||~ 經典圖片框（詳見原始碼） ||
+[[/div]]
+
++ 標題
+
+++ 2級標題
+
++++ 3級標題
+
+++++ 4級標題
+
++++++ 5級標題
+
+++++++ 6級標題
+
+**粗體** | //斜體// | __底線__ | --刪除線-- | {{打字機體}} ^^上標^^,,下標,,
+
+@@ @@
+
+鍵入4個連字號「@@----@@」來生成一個水平線：
+
+----
+
+@@ @@
+
+> 引用塊
+>> 巢狀引用塊
+
+||~ 標題||~ 標題||~ 標題||~ 標題||~ 標題||~ 標題||
+|| 內容 || 內容 || 內容 || 內容 || 內容 || 內容 ||
+
+[[toc]]
+
+[[div class="code"]]
+@@fake code selector{@@
+@@  fake code property: fake code value;@@
+@@}@@
+[[/div]]
+
+[http://www.scp-wiki.net/# 一個連結]（[https://google.com 一個你可能訪問過的連結]）
+
+[[collapsible show="+ 一個摺疊頁" hide="- 一個摺疊頁"]]
+摺疊頁裡面的某些內容
+[[/collapsible]]
+
+# 有序清單
+# 清單內容
+# 清單內容
+
+* 無序清單
+* 清單內容
+* 清單內容
+
+[[tabview]]
+
+[[tab 第一個 Tab]]
+分頁內容
+[[/tab]]
+
+[[tab 第二個 Tab]]
+分頁內容
+[[/tab]]
+
+[[tab 第三個 Tab]]
+分頁內容
+[[/tab]]
+
+[[tab 第四個 Tab]]
+分頁內容
+[[/tab]]
+
+[[tab 第五個 Tab]]
+分頁內容
+[[/tab]]
+
+[[/tabview]]
+
+[[div class="templateInfo"]]
+[[=]]
++ 原始碼
+[[/=]]
+[[/div]]
+
+[[=]]
+[[collapsible show="▷ 顯示原始碼 ◁" hide="△ 隱藏原始碼 △"]]
+[[/=]]
+[[<]]
+
+[[code type="CSS"]]
+/* Classic SCP Foundation Theme
+ * [2020 Wikidot Theme]
+ * Created by Lt Flops
+**/
+
+/* ---- PAGE WRAP ---- */
+ div#container-wrap{
+     background-image: url('https://scp-wiki.wdfiles.com/local--files/theme%3Aclassic/classic_body_bg.png');
+     background-repeat: repeat-x;
+}
+
+/* ---- HEADERS ---- */
+ span, a{
+     word-break: unset;
+}
+ h1{
+     font-size: 190%;
+}
+ h1, h2, h3, h4, h5, h6{
+     font-family: "Trebuchet MS", "Trebuchet", "Verdana", "Arial", "Helvetica", sans-serif;
+}
+ #header h1,
+ #header h2{
+     margin-left: -.16em;
+}
+ #header h1{
+     max-height: 105px;
+     margin: 0;
+}
+ #header h2{
+     margin: 0;
+}
+
+/* ---- SITE HEADER ---- */
+ #header h1 a,
+ #header h2 span{
+     color: transparent;
+     text-shadow: none;
+}
+ #header h1 a{
+     font-family: "Trebuchet MS", "Trebuchet", "Verdana", "Arial", "Helvetica", sans-serif;
+     letter-spacing: 0;
+}
+ #header h1 a::before,
+ #header h2 span::before{
+     text-shadow: none;
+}
+ #header h1 a::before{
+     content: "SCP基金會";
+     color: hsl(0, 0%, 93%);
+}
+ #header h2 span::before{
+     content: "為了控制、收容以及保護";
+     color: hsl(353, 100%, 30%);
+}
+
+/* ---- TOP MENU ---- */
+ #login-status ul a{
+    background: hsl(0, 0%, 93%);
+}
+ #header{
+     background: none;
+}
+ #top-bar ul li,
+ #top-bar ul li ul{
+     box-shadow: none;
+}
+ #top-bar ul li ul{
+     border-color: hsl(0, 0%, 27%);
+     border-style: solid;
+     border-width: 0 1px 1px;
+}
+ #top-bar ul li a{
+     border-color: hsl(0, 0%, 27%);
+     border-style: solid;
+     border-width: 0 0 0 1px;
+}
+ #top-bar ul li a::before{
+     content: "[";
+}
+ #top-bar ul li a::after{
+     content: "]";
+     position: relative;
+
+/* NOTE: The Top Bar Menu has spaces after each bullet, which is why this is done: */
+     left: -.3em;
+}
+ #top-bar ul li:nth-child(5) a::after{
+     left: unset;
+}
+ #top-bar ul li ul li a::before{
+     content: unset;
+}
+ #top-bar ul li ul li a::after{
+     content: unset;
+}
+ .mobile-top-bar{
+     bottom: -.5px;
+}
+
+/* ---- SEARCH BOX ---- */
+ #search-top-box input.empty{
+     color: hsl(0, 0%, 45%);
+}
+ #search-top-box-input{
+     color: hsl(0, 0%, 5%);
+     background-color: hsl(0, 0%, 100%);
+     border: 1px solid hsl(0, 0%, 47%);
+     border-radius: 0;
+     box-shadow: none;
+}
+ #search-top-box-input:hover,
+ #search-top-box-input:focus{
+     color: hsl(0, 0%, 5%);
+     background-color: hsl(0, 0%, 100%);
+     border: 1px solid hsl(0, 0%, 47%);
+     box-shadow: none;
+}
+ #search-top-box-form input[type="submit"]{
+     color: hsl(0, 0%, 5%);
+     background: hsl(0, 0%, 96%);
+     border: 1px solid hsl(0, 0%, 67%);
+     border-radius: 0;
+     box-shadow: none;
+     font-size: 100%;
+     font-weight: normal;
+}
+ #search-top-box-form input[type="submit"]:hover,
+ #search-top-box-form input[type="submit"]:focus{
+     color: hsl(0, 0%, 5%);
+     background: hsl(0, 0%, 87%);
+     border: 1px solid hsl(0, 0%, 67%);
+     box-shadow: none;
+}
+
+/* ---- SIDE MENU ---- */
+ #side-bar{
+     clear: both;
+     padding: .78em;
+     padding-bottom: 0;
+     border: 1px solid hsl(0, 0%, 87%);
+     border-radius: 0;
+     box-shadow: none;
+}
+ #side-bar .side-block{
+     margin-bottom: .78em;
+     background: white;
+     border: none;
+     border-radius: 0;
+     box-shadow: none;
+}
+ #side-bar .heading{
+     padding-left: 0;
+     color: hsl(0, 0%, 5%);
+     border-bottom: 1px solid hsl(0, 0%, 67%);
+}
+
+/* ---- INFO BAR ---- */
+ body{
+     --barColour: hsl(0, 0%, 28%);
+}
+
+/* ---- INFO PANE ---- */
+.creditRate{
+     margin-right: 0 !important;
+     border: none !important;
+}
+ .rate-box-with-credit-button{
+     background-color: hsl(0, 0%, 40%) !important;
+     border: none !important;
+     border-radius: 0 !important;
+     box-shadow: none !important;
+}
+ .creditButton p a{
+     color: hsl(0, 0%, 95%);
+     border-left: none !important;
+}
+ .rate-box-with-credit-button .fa-info:hover{
+     color: hsl(112, 100%, 77%);
+}
+ .modalbox{
+     max-height: unset !important;
+     border-radius: 0 !important;
+     box-shadow: none !important;
+}
+
+/* ---- PAGE RATING ---- */
+.page-rate-widget-box{
+     margin-right: 0;
+     border-radius: 0;
+     box-shadow: none;
+}
+div.page-rate-widget-box .rate-points{
+     background-color: hsl(0, 0%, 40%);
+     border: none;
+     border-radius: 0;
+}
+ .page-rate-widget-box .rateup,
+ .page-rate-widget-box .ratedown{
+     background-color: hsl(0, 0%, 87%);
+     border: none;
+     font-weight: normal;
+}
+ .page-rate-widget-box .rateup a,
+ .page-rate-widget-box .ratedown a{
+     color: hsl(0, 0%, 5%);
+}
+ .page-rate-widget-box .rateup a:hover,
+ .page-rate-widget-box .ratedown a:hover{
+     color: hsl(0, 0%, 5%);
+     background: hsl(0, 0%, 93%);
+     text-decoration: underline;
+}
+ .page-rate-widget-box .cancel{
+     background-color: hsl(0, 0%, 87%);
+     border: none;
+     border-radius: 0;
+}
+ .page-rate-widget-box .cancel a{
+     color: hsl(0, 0%, 5%);
+     text-transform: lowercase;
+}
+ .page-rate-widget-box .cancel a:hover{
+     color: hsl(0, 0%, 5%);
+     background: hsl(0, 0%, 93%);
+     text-decoration: underline;
+}
+
+/* ----- GENERAL ----- */
+ body{
+     color: hsl(0, 0%, 5%);
+     word-break: unset;
+}
+ hr{
+     height: 0;
+     margin: 1em 0;
+     background-color: transparent;
+     border-top: 1px solid hsl(0, 0%, 67%);
+}
+ table.wiki-content-table td{
+     background-color: white;
+}
+
+/* ---- IMAGE BLOCK ---- */
+ .scp-image-block.block-right{
+     margin: 0 0 1em 2em;
+     box-shadow: none;
+}
+
+/* ---- CLASSIC IMAGE BLOCK DIV ---- */
+ .classic-image-block{
+     float: right;
+     width: 300px;
+     margin: 0 0 1em 2em;
+     text-align: center;
+}
+
+/* ---- YUI TABS ---- */
+ .yui-navset .yui-nav a,
+ .yui-navset .yui-navset-top .yui-nav a{
+    /* ---- Tab Background Colour | [UNSELECTED] ---- */
+     background-color: hsl(0, 0%, 100%);
+    /* -------- */
+     background-image: none;
+}
+ .yui-navset .yui-nav a:hover,
+ .yui-navset .yui-nav a:focus{
+    /* ---- Tab Background Colour | [HOVER] ---- */
+     background-color: hsl(0, 49%, 91%);
+    /* -------- */
+     background-image: none;
+}
+ .yui-navset .yui-nav .selected a,
+ .yui-navset .yui-nav .selected a:focus,
+ .yui-navset .yui-nav .selected a:hover{
+    /* ---- Tab Background Colour | [SELECTED] ---- */
+     background-color: hsl(0, 70%, 35%);
+    /* -------- */
+     background-image: none;
+}
+
+/* --- INTERWIKI --- */
+ #interwiki body{
+     overflow: hidden;
+}
+ #interwiki .side-block{
+     background: hsl(127, 50%, 94%);
+     border: 0;
+     border-radius: 0;
+     box-shadow: none;
+}
+ #interwiki .heading{
+     margin: 0;
+     padding-left: 0;
+
+     color: hsl(0, 0%, 5%);
+     border-color: hsl(0, 0%, 67%);
+}
+
+/* --- SELECTION --- */
+ ::selection{
+     background: hsl(0, 0%, 83%);
+}
+
+/* ---- MOBILE MEDIA QUERIES ---- */
+ @media (max-width: 767px){
+       #side-bar .side-block{
+          background-color: hsl(0, 0%, 100%);
+     }
+      #side-bar:after{
+          background-color: hsla(0, 0%, 30%, .2);
+     }
+}
+ @media (max-width: 479px),
+ @media (min-width: 480px) and (max-width: 580px),
+ @media (min-width: 581px) and (max-width: 767px){
+      #side-bar .side-block{
+          background-color: hsl(0, 0%, 100%);
+     }
+      #side-bar:after{
+          background-color: hsla(0, 0%, 30%, .2);
+     }
+      #header, .mobile-top-bar{
+          max-width: 95%;
+     }
+      .mobile-top-bar{
+          left: 0;
+     }
+}
+[[/code]]
+[[/<]]
+[[/collapsible]]
+[[/iftags]]

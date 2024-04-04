@@ -1,0 +1,414 @@
+[[include :scp-zh-tr:theme:spc]]
+[[=]]
+[!-- This image acts as a thumbnail. --]
+[[image https://scp-wiki.wdfiles.com/local--files/main/logo_250.png width="0" height="0"]]
+[[/=]]
+
+[!-- This is the header --]
+[[div style="text-align: center; color: #0e7dcd;"]]
+[[div class="unmargined"]]
+警告:毆打鯊魚中心資料庫屬於
+[[/div]]
+[[div class="unmargined" style="font-size: 400%; font-weight: bold; margin: 2px 0 5px;"]]
+高度機密
+[[/div]]
+[[div class="unmargined"]]
+嚴格禁止軟骨魚類同情者訪問
+肇事者會背痛宰 搔癢 以及食用
+[[/div]]
+[[/div]]
+
+[[div class="content-panel centered standalone"]]
+
+
+[[/div]]
+
+
+[!-- Top row of featured articles --]
+
+[[div class="feature-block"]]
+[!-- Top left feature --]
+    [[div class="content-panel left-column"]]
+        [[div class="panel-heading"]]
+           展出的 SPC檔案
+        [[/div]]
+        [[div class="panel-body"]]
+[[module listpages tags="_毆打鯊魚中心-goi格式 -故事 -jp -ko -ru -fr -de -it -pl -es -th -cn" limit="1" order="random"]]
+           [[div class="feature-title"]]
+                %%title_linked%%
+            [[/div]]
+            [[div class="feature-subtitle"]]
+                作者/譯者by %%created_by_linked%%
+            [[/div]]
+            //%%preview(150)%%//
+[[/module]]
+        [[/div]]
+        [[div class="panel-footer"]]
+查看以往展出的SPC檔案
+[[/div]]
+[[/div]]
+[!-- Top right feature --]
+    [[div class="content-panel right-column"]]
+        [[div class="panel-heading"]]
+            展出的SPC故事
+        [[/div]]
+        [[div class="panel-body"]]
+[[module listpages tags="毆打鯊魚中心 +故事  -jp -ko -ru -fr -de -it -pl -es -th -cn " limit="1" order="random"]]
+           [[div class="feature-title"]]
+                %%title_linked%%
+            [[/div]]
+            [[div class="feature-subtitle"]]
+               作者/譯者 by %%created_by_linked%%
+            [[/div]]
+            //%%preview(150)%%//
+[[/module]]
+[[/div]]
+[[div class="panel-footer"]]
+查看以往展出的SPC故事
+[[/div]]
+[[/div]]
+[[/div]]
+
+[!-- Second row of features --]
+[[div class="feature-block"]]
+
+[[div class="content-panel left-column"]]
+[[div class="panel-heading"]]
+展出的GOI格式
+[[/div]]
+[[div class="panel-body"]]
+[[module listpages tags="goi格式 +毆打鯊魚中心 -_毆打鯊魚中心-goi格式 -jp -ko -ru -fr -de -it -pl -es -th" limit="1" order="random"]]
+           [[div class="feature-title"]]
+                %%title_linked%%
+            [[/div]]
+            [[div class="feature-subtitle"]]
+               作者/譯者 by %%created_by_linked%%
+            [[/div]]
+            //%%preview(150)%%//
+[[/module]]
+[[/div]]
+[[div class="panel-footer"]]
+查看以往展出的GOI格式
+[[/div]]
+[[/div]]
+
+[[div class="content-panel right-column"]]
+[[div class="panel-heading"]]
+有史以來最棒的SPC項目
+[[/div]]
+[[div class="panel-body"]]
+[[module listpages tags="毆打鯊魚中心 -jp -ko -ru -fr -de -it -pl -es -th" limit="1" order="random"]]
+           [[div class="feature-title"]]
+                %%title_linked%%
+            [[/div]]
+            [[div class="feature-subtitle"]]
+                作者/譯者by %%created_by_linked%%
+            [[/div]]
+            //%%preview(150)%%//
+[[/module]]
+[[/div]]
+[[div class="panel-footer"]]
+查看以往的展出
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[div class="news-block content-panel"]]
+[[div class="panel-heading"]]
+新聞
+[[/div]]
+[[div class="panel-body"]]
+
+[!-- PLEASE LIMIT THE PAGE TO FIVE NEWS ARTICLES --]
+[!-- Pretty sure the five-page limit was specifically for the old template. -Quik --]
+[!-- Troy was here. Moose is deadly. Zyn does not approve of calling others ugly. Esko is a bear. Light's just radiant. Roget is the actual worst. Drew is the Bear Overlord. A Kaktus is a desert plant. Lurkd is hiding under your chair. Decibelle is a princess~ Silber is better than bronze. ARD is bizarre.--]
+
+[[div class="alternate unmargined"]]
+[[div class="news-title"]]
+[[module ListPages limit="1" category="*" order="updated_at desc" style="margin:0px; margin-block-start:0em;"]]
+%%updated_at|%Y/%m/%d%%
+[[/module]]
+[[/div]]
+[[div class="news-content"]]
+
+長達數十年的內部調查證實了長期以來的懷疑，即鯊魚實際上仍然非常可怕。
+
+[[/div]]
+[[/div]]
+
+[[div class="alternate unmargined"]]
+[[div class="news-title"]]
+1999/06/23
+[[/div]]
+[[div class="news-content"]]
+
+跨維度數據損壞已經導致許多不需要的文件出現在SPC服務器上。似乎是來自一個名為“控制收容保護基金會”的入侵組織，我們懷疑那來自另一存在位面的並行實體。儘管SCP本質上是荒誕的，但他們似乎認為//我們//是一個笑話。我就想看看他們怎麼跟我//九位死去的阿嬤說。//
+
+[[/div]]
+[[/div]]
+
+[[div class="alternate unmargined"]]
+[[div class="news-title"]]
+1942/03/3
+[[/div]]
+[[div class="news-content"]]
+
+哎呀，這裡肯定有很多//戰爭//。
+
+[[/div]]
+[[/div]]
+
+
+[[div class="alternate unmargined"]]
+[[div class="news-title"]]
+1893/10/12
+[[/div]]
+[[div class="news-content"]]
+
+__爆炸性新聞!__ 已經發現的證據無可辯駁地證明鯊魚非常可怕。人員需被建議在他們向軟骨魚類發起猛攻時採取複數拳頭交戰。告訴他們為什麼，伙計們！Ods bodkins和sakes還活著！
+
+[[/div]]
+[[/div]]
+
+
+
+
+
+[[/div]]
+[[div class="panel-footer"]]
+新聞檔案室
+[[/div]]
+[[/div]]
+
+----
+
+[[div class="spc-page-block content-panel"]]
+[[div class="panel-heading"]]
+檔案
+[[/div]]
+[[div class="panel-body"]]
+[[div class="spc-page-entry"]]
+[[module listpages tags="毆打鯊魚中心 -故事 -搞笑 -scp -中心 " perPage="5" order="created_at desc" prependLine="[[table]]" appendLine="[[/table]]" separate="false"]]
+[[row class="table-alt"]][[cell style="vertical-align: top; padding: 5px 10px; border-style: solid; border-width: 0px 0px 1px 0px; border-color: #eeeee0;"]]
+[[div class="spc-page-title"]]
+%%title_linked%%
+[[/div]]
+[[div class="spc-page-description"]]
+%%preview(300)%%
+[[/div]]
+[[div class="spc-page-footer"]]
+作者/譯者 -- %%created_by_linked%%
+[[/div]]
+[[/cell]][[/row]]
+[[/module]]
+[[/div]]
+
+[[/div]]
+[[div class="panel-footer"]]
+  [!-- Placeholder --]
+[[/div]]
+[[/div]]
+
+[[div class="spc-page-block content-panel"]]
+[[div class="panel-heading"]]
+故事
+[[/div]]
+[[div class="panel-body"]]
+
+[[div class="spc-page-entry"]]
+[[module listpages tags="+毆打鯊魚中心 +故事 -scp -中心 -搞笑" perPage="5" order="created_at desc" prependLine="[[table]]" appendLine="[[/table]]" separate="false"]]
+[[row class="table-alt"]][[cell style="vertical-align: top; padding: 5px 10px; border-style: solid; border-width: 0px 0px 1px 0px; border-color: #eeeee0;"]]
+[[div class="spc-page-title"]]
+%%title_linked%%
+[[/div]]
+[[div class="spc-page-description"]]
+%%preview(300)%%
+[[/div]]
+[[div class="spc-page-footer"]]
+作者/譯者 -- %%created_by_linked%%
+[[/div]]
+[[/cell]][[/row]]
+[[/module]]
+[[/div]]
+
+[[/div]]
+[[div class="panel-footer"]]
+  [!-- Placeholder --]
+[[/div]]
+[[/div]]
+
+[[div class="spc-page-block content-panel"]]
+[[div class="panel-heading"]]
+基金會宇宙
+[[/div]]
+[[div class="panel-body"]]
+
+[[div class="spc-page-entry"]]
+[[module listpages tags="scp goi格式 +毆打鯊魚中心 -_毆打鯊魚中心-goi格式 -搞笑 -中心" perPage="5" order="created_at desc" prependLine="[[table]]" appendLine="[[/table]]" separate="false"]]
+[[row class="table-alt"]][[cell style="vertical-align: top; padding: 5px 10px; border-style: solid; border-width: 0px 0px 1px 0px; border-color: #eeeee0;"]]
+[[div class="spc-page-title"]]
+%%title_linked%%
+[[/div]]
+[[div class="spc-page-description"]]
+%%preview(300)%%
+[[/div]]
+[[div class="spc-page-footer"]]
+作者/譯者 -- %%created_by_linked%%
+[[/div]]
+[[/cell]][[/row]]
+[[/module]]
+[[/div]]
+
+[[/div]]
+[[div class="panel-footer"]]
+  [!-- Placeholder --]
+[[/div]]
+[[/div]]
+
+
+[[div class="spc-page-block content-panel"]]
+[[div class="panel-heading"]]
+搞笑
+[[/div]]
+[[div class="panel-body"]]
+
+[[div class="spc-page-entry"]]
+[[module listpages tags="+毆打鯊魚中心 +搞笑 -故事" perPage="5" order="created_at desc" prependLine="[[table]]" appendLine="[[/table]]" separate="false"]]
+[[row class="table-alt"]][[cell style="vertical-align: top; padding: 5px 10px; border-style: solid; border-width: 0px 0px 1px 0px; border-color: #eeeee0;"]]
+[[div class="spc-page-title"]]
+%%title_linked%%
+[[/div]]
+[[div class="spc-page-description"]]
+%%preview(300)%%
+[[/div]]
+[[div class="spc-page-footer"]]
+作者/譯者 -- %%created_by_linked%%
+[[/div]]
+[[/cell]][[/row]]
+[[/module]]
+[[/div]]
+
+[[/div]]
+[[div class="panel-footer"]]
+  [!-- Placeholder --]
+[[/div]]
+[[/div]]
+
+-----
+[[size 90%]]The SPC theme was created by PeppersGhost based on **Sigma-9** by [[user Aelanna]],
+and used under the Creative Commons Attribution-SharkAlike 3.0 license ([[[https://creativecommons.org/licenses/by-sa/3.0/ |CC-BY-SA]]]).
+[[/size]]
+[[html]]
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/3.0/88x31.png" /></a></a>
+[[/html]]
+@@@@
+[[>]]
+[[module Rate]]
+[[/>]]
+@@@@
+@@@@
+[[=]]
+**[[[spc-hub-2|"好吧，不過認真點——到底什麼是SPC？"]]]**
+[[/=]]
+@@@@
+@@@@
+@@@@
+[[module CSS]]
+
+#page-title { display: none; }
+.feature-block {
+    height: 230px;
+}
+.feature-block .panel-body {
+    height: 160px;
+    overflow-y: hidden;
+}
+.feature-block .feature-title {
+    font-size: 120%;
+    font-weight: bold;
+}
+.feature-block .feature-subtitle {
+    font-size: 90%;
+}
+
+.feature-block .feature-title > p,
+.feature-block .feature-subtitle > p {
+    margin: 0;
+}
+
+.news-block .panel-body {
+    padding: 0;
+}
+.news-block .panel-body .alternate {
+    padding: 5px 10px;
+}
+.news-block .news-title {
+    font-weight: bold;
+    font-size: 110%;
+    margin-bottom: 5px;
+    color: #633;
+}
+.news-block .news-content {
+    margin: 5px 0;
+}
+.news-block .news-title > p,
+.news-block .news-content > p {
+    margin: 0px !important;
+    margin-block-start: 0em !important;
+    margin-block-end: 0em !important;
+}
+
+.list-pages-item p {
+    margin: 0px !important;
+    margin-block-start: 0px !important;
+    margin-block-end: 0px !important;
+}
+
+.spc-page-block .panel-body {
+    padding: 0;
+}
+.spc-page-entry {
+    padding: 5px 10px;
+}
+.spc-page-entry:nth-child(even),
+.alternate:nth-child(even) {
+    background-color: #fff;
+    border-top: solid 1px #eeeee0;
+    border-bottom: solid 1px #eeeee0;
+}
+.spc-page-entry div > p {
+    margin: 0;
+}
+.spc-page-entry .spc-page-title {
+    font-weight: bold;
+    font-size: 110%;
+}
+.spc-page-entry .spc-page-title img {
+    width: 16px;
+    height: 11px;
+    box-shadow: 0 1px 3px rgba(0,0,0,.5);
+}
+.spc-page-entry .spc-page-description {
+    font-size: 90%;
+    font-style: italic;
+    margin: 5px 20px;
+}
+.spc-page-entry {
+    margin: 5px 0;
+    padding: 0px 0px 5px 0px;
+}
+.spc-page-footer {
+    font-size: #333;
+    font-size: 80%;
+    margin: 5px 0;
+}
+.content-panel .panel-body {
+    background: #fff9f0 url(http://www.scp-wiki.net/local--files/component:theme/panel-bg-gradient-reverse.png) bottom repeat-x;
+    /* box-shadow: 1px 2px 3px rgba(0,0,0,.2) inset; */
+}
+
+.spc-page-entry table tr:nth-child(even){
+    background-color: #fff;
+}
+
+[[/module]]

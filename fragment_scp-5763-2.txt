@@ -1,0 +1,207 @@
+[[include :scp-zh-tr:theme:blankstyle]]
+
+[[module css]]
+
+@import url('https://scp-wiki.wdfiles.com/local--files/taboo/Museo.css');
+
+:root{
+  --header-title: "Site-⌘";
+  --header-subtitle: "超現實部";
+}
+
+div#extra-div-1 {
+    background-image: url(https://scp-wiki.wdfiles.com/local--files/scp-6445/Surrealistics%20Logo.png);
+    filter: opacity(20%);
+}
+[[/module]]
+
+[[include :scp-zh-tr:component:pride-highlighter |inc-tg= --]]]
+
+[[module css]]
+.page {
+    display: block;
+    overflow: hidden;
+    font-family: "Monotype Corsiva", "Bradley Hand ITC", sans-serif;
+    font-style: normal;
+    background-attachment: scroll;
+    background-clip: border-box;
+    background-color: transparent;
+    background-image: linear-gradient(to top ,rgb(202, 219, 228) 0%, rgb(231, 233, 220) 8%);
+    background-origin: padding-box;
+    background-position: 0px 8px;
+    background-repeat: repeat;
+    background-size: 100% 20px;
+    border: 1px solid #CCC;
+    border-radius: 10px;
+    padding: 10px 10px;
+    margin-bottom: 10px;
+    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.2)
+}
+.page p,
+.page ul {
+    line-height: 20px;
+    margin: 0;
+}
+[[/module]]
+
+[[div class="page"]]
+一種無害的藥丸、藥劑或措施，其處方更多著重於幫助患者的心理而非任何生理作用。
+@@ @@
+[[span style="font-family: 'museo';font-weight:700;font-size:1.2em"]]在我的夢裡，我看到自己正回首顧盼[[/span]]
+[[span style="font-family: 'museo';font-weight:700;font-size:1.2em"]]我所相信的結構[[/span]]
+[[span style="font-family: 'museo';font-weight:700;font-size:1.2em"]]還有我現在知道我的心靈受到了攻擊[[/span]]
+[[span style="font-family: 'museo';font-weight:700;font-size:1.2em"]]就透過我相信的伎倆[[/span]]
+
+[[/div]]
+
+
+[[div class="page"]]
+
+SCP-5763是一種[[span style="font-family: 'museo';font-weight:700;font-size:1.2em"]]有用的[[/span]]安慰劑， 在非常小心取用的劑量下，[[span style="font-family: 'museo';font-weight:700;font-size:1.2em"]]我能夠同時看到兩個世界。 紅色和金色在我的視野中搖曳，藍色和灰色則在它們一旁潛伏。[[/span]]
+@@ @@
+[[span style="font-family: 'museo';font-weight:700;font-size:1.2em"]]我曾經看不見。[[/span]]
+@@ @@
+我再也看不見了。
+[[/div]]
+
+[[div class="page"]]
+
+「曾幾何時，我夢見自己是一隻到處飛舞的蝴蝶，從所有意圖和目的來看，我都會是一隻蝴蝶。我只意識到了我是一隻蝴蝶的幸福，卻沒有意識到我就是我自己。很快我醒了過來，我又回到了真正的自己身上。現在，我不知道是我夢到了自己是一頭蝴蝶呢，還是其實我是夢到自己是人的蝴蝶。」
+@@ @@
+[[span style="font-family: 'museo';font-weight:700;font-size:1.2em"]]但現在已經很清楚了。我們都不是。人就是蝴蝶。蝴蝶就是人。[[/span]]
+@@ @@
+[[span style="font-family: 'museo';font-weight:700;font-size:1.2em"]]認為我們有所不同的都瘋了。[[/span]]
+@@ @@
+[[span style="font-family: 'museo';font-weight:700;font-size:1.2em"]]我們一開始並不打算醒來的。[[/span]]
+
+[[/div]]
+
+[[div class="page"]]
+
+對於無效的藥物，[[span style="font-family: 'museo';font-weight:700;font-size:1.2em"]]精確將是關鍵。[[/span]]
+@@ @@
+[[span style="font-family: 'museo';font-weight:700;font-size:1.2em"]]在我沉眠之際，我明白了我的錯誤。[[/span]] 而我醒來之後，我就可以糾正它們。
+
+[[/div]]
+
+[[span style="font-family: 'museo';font-weight:700;font-size:1.2em"]]我們哪裡出了問題？[[/span]]
+
+我不知道。
+
+[[span style="font-family: 'museo';font-weight:700;font-size:1.2em"]]你認為它能夠重新組合起來嗎？[[/span]]
+
+[[span style="font-family: 'museo';font-weight:700;font-size:1.2em"]]......Jamie？[[/span]]
+
+你是Jamie。
+
+[[span style="font-family: 'museo';font-weight:700;font-size:1.2em"]]我知道。[[/span]]
+
+[[div class="page"]]
+
+[[span style="font-family: 'museo';font-weight:700;font-size:1.2em"]]民謠中有個男人叫做浮士德，一個尋求達到一切目的手段之人。[[/span]]
+@@ @@
+[[span style="font-family: 'museo';font-weight:700;font-size:1.2em"]]浮士德很無聊地過著學術生活，就在他鍍金的王座上[[/span]]與舒適的辦公桌椅上[[span style="font-family: 'museo';font-weight:700;font-size:1.2em"]]，太過單調了。把自己逼到絕境後，他強迫一個至暗深淵的惡魔給他知識，讓他能看見整個世界的力量。[[/span]]
+@@ @@
+[[span style="font-family: 'museo';font-weight:700;font-size:1.2em"]]惡魔的代表梅菲斯特現身，他們達成了一個獨特的協議。透過魔法的力量，[[/span]]他得到了遠超基線現實的魔法、認知能力與根本原理，[[span style="font-family: 'museo';font-weight:700;font-size:1.2em"]]就在一段時間之內。[[/span]]
+@@ @@
+[[span style="font-family: 'museo';font-weight:700;font-size:1.2em"]]然而那段時間結束之後。[[/span]]
+@@ @@
+Robertson研究員[[span style="font-family: 'museo';font-weight:700;font-size:1.2em"]]--會被發現死在自己的辦公室--[[/span]]
+
+[[/div]]
+
+[[span style="font-family: 'museo';font-weight:700;font-size:1.2em"]]你是惡魔嗎？[[/span]]
+
+你不會得到答案的。不是這樣的。
+
+[[span style="font-family: 'museo';font-weight:700;font-size:1.2em"]]我是知道的。[[/span]]
+
+[[div class="page"]]
+
+[[span style="font-family: 'museo';font-weight:700;font-size:1.2em"]]浮士德後來去見了很多很多人，並濫用他新所得的惡魔力量[[/span]] 與異常[[span style="font-family: 'museo';font-weight:700;font-size:1.2em"]]，世界為了自己索取了他想要的一切。[[/span]]
+@@ @@
+[[span style="font-family: 'museo';font-weight:700;font-size:1.2em"]]他是不可觸碰的。[[/span]]
+
+[[/div]]
+
+[[span style="font-family: 'museo';font-weight:700;font-size:1.2em"]]我們只有一種選擇，可不是嗎？[[/span]]
+
+我真不想如此。
+
+[[span style="font-family: 'museo';font-weight:700;font-size:1.2em"]]我們必須如此。[[/span]]
+
+...
+
+[[div class="page"]]
+
+**項目編號：** SCP-5763
+@@ @@
+**項目等級：** Keter[[span style="font-family: 'museo';font-weight:700;font-size:1.2em"]]，雖然它也可能非常的Safe？[[/span]]
+@@ @@
+**特殊收容措施：** [[span style="font-family: 'museo';font-weight:700;font-size:1.2em"]]減少你的損失。如果你做不到的話，[[/span]]絕對不要攝取不可知劑。[[span style="font-family: 'museo';font-weight:700;font-size:1.2em"]]即便吃了一個就能讓你對他敞開心扉。[[/span]]
+@@ @@
+**描述：** SCP-5763要嘛是一個未知的實體，支配著與我們緊鄰的心理世界，[[span style="font-family: 'museo';font-weight:700;font-size:1.2em"]]給予我們視覺作為禮物，給予我們不應該理解否則會付出沉重代價的東西[[/span]]；要嘛是一種極強的致幻劑，[[span style="font-family: 'museo';font-weight:700;font-size:1.2em"]]能使人們理解甚至不真實的事物。[[/span]]
+@@ @@
+測試結果並無定論。
+@@ @@
+**附錄：** [[span style="font-family: 'museo';font-weight:700;font-size:1.2em"]]......[[/span]]
+
+[[/div]]
+
+[[span style="font-family: 'museo';font-weight:700;font-size:1.2em"]]Jamie。不是這樣的。[[/span]]
+
+停下。
+
+[[span style="font-family: 'museo';font-weight:700;font-size:1.2em"]]Jamie。[[/span]]
+
+我們要如何擺脫他？
+
+[[span style="font-family: 'museo';font-weight:700;font-size:1.2em"]]Jamie，你不會喜......[[/span]]
+
+他是真的嗎？
+
+[[span style="font-family: 'museo';font-weight:700;font-size:1.2em"]]是不可知劑？[[/span]]
+
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+
+[[span style="font-family: 'museo';font-weight:700;font-size:1.2em"]]呃？[[/span]]
+
+我們是否打開了了一扇門，我們是否製造了一個真正的惡魔，又或者我們就是被灌太多藥了？
+
+[[span style="font-family: 'museo';font-weight:700;font-size:1.2em"]]你跟我一樣清楚明白。[[/span]]
+
+[[span style="font-family: 'museo';font-weight:700;font-size:1.2em"]]我不認為這是我們的決定。[[/span]]
+
+那又會是誰的呢？
+
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[SCP-5762]]] | SCP-5763| [[[SCP-5764]]] >>
+[[/=]]
+[[/div]]

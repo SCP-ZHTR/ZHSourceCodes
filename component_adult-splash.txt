@@ -1,0 +1,49 @@
+[[module CSS]]
+#page-title {
+    display: none;
+}
+
+div#u-adult-warning > div#u-adult-header {
+    font-size: 300%;
+    text-shadow: 1px 2px 3px rgba(0, 0, 0, .5);
+    color: #901;
+}
+ 
+div#u-adult-warning > div#u-adult-header p {
+    margin: 0;
+}
+ 
+div#u-adult-warning > .error-block {
+    color: unset;
+    padding: unset;
+    margin: unset;
+    border: unset;
+    margin-bottom: 1em;
+}
+
+div#u-adult-warning {
+    width: fit-content;
+    margin: 0 auto 20px;
+    padding: .5rem 1rem;
+    border: 3px solid #333;
+    background: #e4e4e4;
+    color: #333;
+    text-align: center;
+    font-weight: bold;
+}
+
+/* DO NOT COPY THE FOLLOWING CSS WITHOUT EXPLICIT TECH TEAM PERMISSION. */
+a#pagerate-button,
+.page-rate-widget-box {
+    display: none;
+}
+[[/module]]
+
+[[div id="adult-warning"]]
+[[div id="adult-header"]]
+成人內容
+[[/div]]
+本文內容包含成人議題，可能不適合所有人閱覽。
+
+若你已滿十八歲且自願閱讀這類內容，那麼請[/adult:{$slug}/noredirect/true 點此]進入。
+[[/div]]

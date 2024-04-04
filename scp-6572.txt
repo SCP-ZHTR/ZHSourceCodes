@@ -1,0 +1,74 @@
+[[include :scp-wiki:theme:black-highlighter-theme]]
+[[>]]
+[[module Rate]]
+[[/>]]
+[[include :scp-zh-tr:component:author-label-source start=--
+|name=LORDXVNV]]
+= **SCP-6572** by [[*user LORDXVNV]]
+[[=]]
+篇名：SCP-6572 斬萬物之劍
+原文：[[[https://scp-wiki.wikidot.com/scp-6572|SCP-6572 Sword That Cuts Everything]]]
+譯者：[[*user Nyunyunyun]]
+
+**[[[LORDXVNV]]]的作者頁**
+[[/=]]
+[[include :scp-zh-tr:component:author-label-source end=--]]
+
+[[include :scp-zh-tr:component:anomaly-class-bar-source-alt
+|item-number= 6572
+|clearance= 2
+|container-class= neutralized
+|secondary-class= none
+|disruption-class= vlam
+|risk-class= danger
+]]
+
+
+------
+
+[[include component:image-block name=http://scp-wiki.wikidot.com/local--files/scp-6572/dustboom.jpg|align=center|width=100%|caption=SCP-6572出現事件。]]
+
+------
+
+**特殊收容措施：** 當前未知SCP-6572的位置。因此，收容作業應專注於偽造SCP-6572受害者的死因報告以及解釋公共設施的損壞。[[footnote]]自2017/9/12起，以上收容措施不再適用。[[/footnote]]
+
+**描述：** SCP-6572是一把稱可以切穿任何事物的劍。項目不受摩擦力影響。SCP-6572似乎也抗高溫和高壓。
+
+SCP-6572在分級之前未擁有視覺描述。將SCP-6572的特徵與Marshall, Carter, and Dark過去持有的劍進行交叉比對被認為是不可行的。
+
+**發現：** SCP-6572是在2002/6/24對Marshall, Carter, and Dark倉庫的突襲中繳獲的數件無須關注的異常物品之一。
+
+初次將其運輸至最接近站點的過程中，SCP-6572的存儲單元（之後確認當時使用電磁懸浮）失效。SCP-6572刺穿其存儲單元，摧毀其MC&D特殊辨識標籤，並掉入地下。推定SCP-6572已遺失。
+
+2002/12/1，項目在澳洲伯斯被目擊，澳洲報導稱一名男子「炸成一團內臟」。高速攝影機錄像指出其起因為SCP-6572。SCP-6572以拋物線行進，並在約30公尺遠處再次進入地底。
+
+據推測SCP-6572將在伯斯的對蹠點[[footnote]]地球上與另一處互相相對的點[[/footnote]]百慕達再次出現。SCP-6572被分級為Euclid。
+
+**更新 4/30/2003：** 於2003/4/10，有目擊者報告稱迪士尼樂園的唐老鴨四散在公園內各處。監視器紀錄指出其死亡為SCP-6572導致。已確認SCP-6572雖似乎不受磨擦力影響，但仍會受地函及地核的對流產生的側向力影響而改變其速度。因此，若沒有完整的地函模型，就不可能精準預測SCP-6572的移動軌跡。SCP-6572被分級為Keter。
+
+SCP-6572出現事件的完整列表可經申請獲取。已直接觀測到超過五十起的出現事件。
+
+**更新 6/30/2010：** SCP-6572似乎正在加速。在每次出現事件中，SCP-6572在重新進入地面前行進得越來越遠。估計在2020年SCP-6572將會逃脫地心引力。
+
+**更新 9/30/2017：** SCP-6572於2017/9/12脫離地球的重力井。收容措施不再需要。SCP-6572重分級為Neutralized。
+
+> //現在不比其他太空垃圾危險了。--Dr. Solstice//
+
+[[footnoteblock]]
+[[=]]
+[[collapsible show="你可能也喜歡…" hide="請隨意將這個摺疊頁加入你的文章內！"]]
+[[div class="blockquote"]]
+[[[SCP-572]]] by [[*User DrClef]]
+[[[SCP-5792]]] by [[*User SleepSpell]]
+[[[SCP-5871]]] by [[*User aismallard]]
+[[/div]]
+[[/collapsible]]
+[[/=]]
+[[include :scp-zh-tr:component:license-box]]
+=====
+> **檔案名稱：** dustboom.jpg
+> **圖像作者：** Sgt Armondo Monroig, USA
+> **圖像授權協議：** C0 (released to public no copyright restriction)
+> **圖源連結：** https://nara.getarchive.net/media/dirt-and-debris-flies-into-the-air-as-an-artillery-shell-explodes-upon-impact-3bf7da
+=====
+[[include :scp-zh-tr:component:license-box-end]]

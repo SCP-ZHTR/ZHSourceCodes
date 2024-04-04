@@ -1,0 +1,2770 @@
+[[include theme:black-highlighter-theme]]
+[[include :scp-wiki:theme:old-money-theme]]
+[[include component:scp-hover-box-styling]]
+[[module CSS]]
+@media screen and (max-width- 768px) {
+    #header h1 a {
+            font-size: 175%;
+        }
+}
+/* Author Page Specific Styling */
+/* Author page specific */
+:root {
+    --header-title: "DJKAKTUS";
+    --header-subtitle: "最高聖哉經";
+}
+
+sup {
+    vertical-align: top;
+    position: relative;
+    top: -0.5em;
+}
+
+.nav {
+    height: 35.625rem;
+    width: 8.125rem;
+    overflow: hidden auto;
+    background: url(http://www.scp-wiki.net/local--files/djkaktus/deco.jpg);
+    position: fixed;
+    left: 78%;
+    top: 11.875rem;
+    display: inline-block;
+    border-radius: 0;
+    border: solid 0.0625rem rgba(var(--swatch-primary));
+    padding: 0.625rem;
+    box-shadow: 0 0.0625rem 0.1875rem rgba(var(--black-monochrome), 0.12), 0 0.0625rem 0.125rem rgba(var(--black-monochrome), 0.24);
+}
+
+.nav > div {
+    width: 8.125rem;
+    display: flex;
+    flex-direction: column;
+    padding: 0.625rem;
+    position: absolute;
+    left: 0;
+    top: 0;
+    overflow: hidden auto;
+}
+
+.desktop-only.nav a,
+.desktop-only.nav a:hover,
+.desktop-only.nav a:active,
+.desktop-only.nav a:visited {
+    color: rgba(var(--swatch-menutxt-light-color));
+}
+
+@media (max-width: 1600px) {
+    .desktop-only {
+    	display: none;
+    	visibility: hidden;
+    }
+
+    a img {
+    	position: relative;
+    	z-index: 1;
+    }
+}
+.scp-container {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+}
+
+.scp-container > p {
+    display: none;
+}
+
+.scp-container > div {
+    width: 98%;
+    align-items: center;
+    justify-content: center;
+    margin: 1%;
+}
+div.scp-hover-box div.title > a, div.scp-hover-box div.sub-title > a {
+    font-size: 150%;
+} 
+div.scp-hover-box div.blerb {
+    font-size: 100%;
+}
+[[/module]]
+
+[[include info:start]]
+原作者 : [[*user djkaktus]]
+翻譯者 : [[*user ChAoS_UnItY]]
+[[include info:end]]
+
+[[div style="width: 61%; float:left; clear: none;"]]
+[[image https://i.imgur.com/tXCR3f5.png]]
+[[/div]]
+[[div style="width: 39%; float:right; clear: none;"]]
+[[image https://i.imgur.com/Wb57z8A.png]]
+-----
+[[image https://i.imgur.com/kGanSbY.png]]
+-----
+[[image https://i.imgur.com/DtEkoHX.png link="http://www.scp-zh-tr.wikidot/SCP-3000"]]
+-----
+[[image https://i.imgur.com/lNMz9Ka.png link="http://www.scp-zh-tr.wikidot/SCP-4444"]]
+-----
+[[image https://i.imgur.com/Fs4qJeS.png link="http://www.scp-zh-tr.wikidot/aiad-homescreen"]]
+-----
+[[image https://i.imgur.com/vMgEKIC.png link="http://www.scp-zh-tr.wikidot/starch-and-cream"]]
+[[/div]]
+[[div style="clear: both;"]]
+[[/div]]
+
+@@@@
+@@@@
+
+[[=]]
+[[div_ class="desktop-only nav"]]
+[[div_ ]]
+[[size 120%]]##white|**djkaktus**##[[/size]]
+[[size 75%]]##white|**File Nav**##[[/size]]
+-----
+[[size 110%]]**[#文章 文章]**[[/size]]
+[[collapsible show="+ 2014" hide="- 2014"]]
+[#2812 SCP-2812]
+[#2399 SCP-2399]
+[#2980 SCP-2980]
+[#2598 SCP-2598]
+[#1994 SCP-1994]
+[#1781 SCP-1781]
+[#2464 SCP-2464]
+[#2996 SCP-2996]
+[#2120 SCP-2120]
+[#1864 SCP-1864]
+[#2540 SCP-2540]
+[#1160 SCP-1160]
+[#001-djk SCP-001-DJK]
+[#2932 SCP-2932]
+[#2445 SCP-2445]
+[#2090 SCP-2090]
+[#2670 SCP-2670]
+[#2740 SCP-2740]
+[#715 SCP-715]
+[[/collapsible]]
+
+[[collapsible show="+ 2015" hide="- 2015"]]
+[#2271 SCP-2271]
+[#2875 SCP-2875]
+[#2151 SCP-2151]
+[#2846 SCP-2846]
+[#1730 SCP-1730]
+[#2844 SCP-2844]
+[#7143-J SCP-7143-J]
+[#2776 SCP-2776]
+[#2933 SCP-2933]
+[#2610 SCP-2610]
+[[/collapsible]]
+
+[[collapsible show="+ 2016" hide="- 2016"]]
+[#527 SCP-527]
+[#2270 SCP-2270]
+[#2316 SCP-2316]
+[#2818 SCP-2818]
+[#2522 SCP-2522]
+[#001-TGK SCP-001-TGK]
+[#2935 SCP-2935]
+[#2951 SCP-2951]
+[[/collapsible]]
+
+[[collapsible show="+ 2017" hide="- 2017"]]
+[#2678 SCP-2678]
+[#3000 SCP-3000]
+[#001-CK-J SCP-001-CK-J]
+[#damej-J SCP-damej-J]
+[#3301 SCP-3301]
+[#2812 SCP-2812]
+[#3301 SCP-3301]
+[#2576 SCP-2576]
+[#80s-J SCP-80s-J]
+[#3740 SCP-3740]
+[#3935 SCP-3935]
+[#049-J SCP-049-J]
+[#3812 SCP-3812]
+[#3355 SCP-3355]
+[[/collapsible]]
+
+[[collapsible show="+ 2018" hide="- 2018"]]
+[#3813 SCP-3813]
+[#3930 SCP-3930]
+[#3785 SCP-3785]
+[#3521 SCP-3521]
+[#3929 SCP-3929]
+[#3208 SCP-3208]
+[#3963 SCP-3963]
+[#049 SCP-049]
+[#3494 SCP-3494]
+[#001-DJK2 SCP-001-DJK-II]
+[#2254 SCP-2254]
+[#3790 SCP-3790]
+[#3293 SCP-3293]
+[#3625 SCP-3625]
+[#3333 SCP-3333]
+[#2398 SCP-2398]
+[#4444 SCP-4444]
+[#4000-J SCP-4000-J]
+[#MZL1730 MZL-1730]
+[#4911 SCP-4911]
+[#4812 SCP-4812]
+[#001-DJK3 SCP-001-DJK-III]
+[[/collapsible]]
+
+[[collapsible show="+ 2019" hide="- 2019"]]
+[#4760 SCP-4760]
+[#4935 SCP-4935]
+[#4173 SCP-4173]
+[#4498 SCP-4498]
+[[/collapsible]]
+
+[[size 110%]]**[#故事集 故事集]**[[/size]]
+[[collapsible show="+ 2014" hide="- 2014"]]
+[#Old-Chilly Old Chilly]
+[#Surfside-Beat The Surfside Beat]
+[#Face-of-God The Face of God]
+[#You-And-Me You and Me]
+[#Siren-Song Siren's Song]
+[#Three-Farewells Three Farewells]
+[#Fourth-and-Long Fourth and Long]
+[#Postgame Postgame]
+[#Fear-Alone Fear Alone]
+[#Starch-and-Cream Starch and Cream]
+[[/collapsible]]
+
+[[collapsible show="+ 2015" hide="- 2015"]]
+[#Integrity-Project Integrity Project]
+[#Hugo-Hijinks Hugo Hijinks]
+[#Additional-Resources Adtl. Resources]
+[#Folly Folly]
+[#S19-Xmas-Carol Site-19 Xmas Carol]
+[[/collapsible]]
+
+[[collapsible show="+ 2016" hide="- 2016"]]
+[#Last-Good-Man Last Good Man]
+[#Site-81-Dossier Site-81 Dossier]
+[[/collapsible]]
+
+[[collapsible show="+ 2017" hide="- 2017"]]
+[#Atzak-I Atzak I]
+[#Atzak-II Atzak II]
+[#Panagakos Panagakos]
+[#Nil-Engines Nil Engines]
+[#Gridiron Gridion]
+[[/collapsible]]
+
+[[collapsible show="+ 2018" hide="- 2018"]]
+[#Machina Anima Ex Machina]
+[#Atzak-III Atzak III]
+[#Dusk Dusk]
+[#Smoke Smoke]
+[#LightofDay Light of Day]
+[#Moonrise Moonrise]
+[[/collapsible]]
+
+[[size 110%]]**[#Hubs Hubs]**[[/size]]
+[[collapsible show="+ Show All" hide="- Hide All"]]
+[#Alexylva-Hub Alexylva Hub]
+[#Atzak-Hub Atzak Hub]
+[#KaktusKast-Hub KaktusKast Hub]
+[#SCPFMMDBC-Hub March Madness Hub]
+[#dado-Hub dado Hub]
+[#ouroboros Ouroboros]
+[[/collapsible]]
+
+-----
+
+[[size 110%]]**[[[djkaktus-workbench|Workbench]]]**[[/size]]
+[[/div]]
+[[/div]]
+
+[[image http://scp-wiki.wdfiles.com/local--files/djkaktus/kaktus1.png width="75px"]][[image https://i.imgur.com/kRM9oP3.png]][[image http://scp-wiki.wdfiles.com/local--files/djkaktus/kaktus.png width="75px"]]
+[[# Articles]]
+-----
+
+[[div_ class="scp-container"]]
+[[include component:scp-hover-box-structure
+|container-number=echoes
+|corner-cutout=0em
+|container-bgcolor=rgba(70, 56, 33)
+|container-txtcolor=rgba(244, 244, 244)
+|container-hover-bgcolor=rgba(185, 150, 80)
+|container-hover-txtcolor=rgba(70, 56, 33)
+|container-stroke-color=rgba(252, 236, 135)
+|container-hover-stroke-color=rgba(207, 159, 45)
+|background-url=http://www.scp-wiki.net/local--files/djkaktus/IMAG0835.png
+|background-vertical-position=50%
+|link-fill-color=rgb(215, 215, 215)
+|link-stroke-width=0.125rem
+|link-stroke-color=rgba(0, 0, 0)
+|anchor=2812
+|link=http://www.scp-zh-tr.wikidot.com/scp-2812
+|title=SCP-2812
+|sub-title=昨日回音
+|blerb=**祝我們來自Indiana Limestone[[footnote]]譯者注：詳見 [https://en.m.wikipedia.org/wiki/Indiana_Limestone 維基百科][[/footnote]]的朋友們有一個美好的1935年！**
+]]
+@@@@
+
+[[include component:scp-hover-box-structure
+|container-number=destroyer
+|corner-cutout=0em
+|container-bgcolor=rgba(70, 56, 33)
+|container-txtcolor=rgba(244, 244, 244)
+|container-hover-bgcolor=rgba(185, 150, 80)
+|container-hover-txtcolor=rgba(70, 56, 33)
+|container-stroke-color=rgba(252, 236, 135)
+|container-hover-stroke-color=rgba(207, 159, 45)
+|background-url=http://www.scp-wiki.net/local--files/djkaktus/2399.png
+|link-fill-color=rgb(215, 215, 215)
+|link-stroke-width=0.125rem
+|link-stroke-color=rgba(0, 0, 0)
+|anchor=2399
+|link=http://www.scp-zh-tr.wikidot.com/scp-2399
+|title=SCP-2399
+|sub-title=故障的摧毀者
+|blerb=**木星無預警地提供了我們一次機會。我建議我們保握住它。**
+]]
+@@@@
+
+[[include component:scp-hover-box-structure
+|container-number=nightlight
+|corner-cutout=0em
+|container-bgcolor=rgba(70, 56, 33)
+|container-txtcolor=rgba(244, 244, 244)
+|container-hover-bgcolor=rgba(185, 150, 80)
+|container-hover-txtcolor=rgba(70, 56, 33)
+|container-stroke-color=rgba(252, 236, 135)
+|container-hover-stroke-color=rgba(207, 159, 45)
+|background-url=http://www.scp-wiki.net/local--files/djkaktus/2980.png
+|background-vertical-position=50%
+|link-fill-color=rgb(215, 215, 215)
+|link-stroke-width=0.125rem
+|link-stroke-color=rgba(0, 0, 0)
+|anchor=2980
+|link=http://www.scp-zh-tr.wikidot.com/scp-2980
+|title=SCP-2980
+|sub-title=惡魔的夜光
+|blerb=**收入全數捐給Xlan'gthmr R'llnmerg貧困青少年基金會。特別偉大的事業。**
+]]
+@@@@
+
+[[include component:scp-hover-box-structure
+|container-number=moth
+|corner-cutout=0em
+|container-bgcolor=rgba(70, 56, 33)
+|container-txtcolor=rgba(244, 244, 244)
+|container-hover-bgcolor=rgba(185, 150, 80)
+|container-hover-txtcolor=rgba(70, 56, 33)
+|container-stroke-color=rgba(252, 236, 135)
+|container-hover-stroke-color=rgba(207, 159, 45)
+|background-url=http://www.scp-wiki.net/local--files/djkaktus/2598.png
+|background-vertical-position: center
+|link-fill-color=rgb(215, 215, 215)
+|link-stroke-width=0.125rem
+|link-stroke-color=rgba(0, 0, 0)
+|anchor=2598
+|link=http://www.scp-zh-tr.wikidot.com/scp-2598
+|title=SCP-2598
+|sub-title=旅行蛾銷售員
+|blerb=**不會卡在喉嚨**
+]]
+@@@@
+
+[[include component:scp-hover-box-structure
+|container-number=rot
+|corner-cutout=0em
+|container-bgcolor=rgba(70, 56, 33)
+|container-txtcolor=rgba(244, 244, 244)
+|container-hover-bgcolor=rgba(185, 150, 80)
+|container-hover-txtcolor=rgba(70, 56, 33)
+|container-stroke-color=rgba(252, 236, 135)
+|container-hover-stroke-color=rgba(207, 159, 45)
+|background-url=http://www.scp-wiki.net/local--files/djkaktus/1994.png
+|background-vertical-position: center
+|link-fill-color=rgb(215, 215, 215)
+|link-stroke-width=0.125rem
+|link-stroke-color=rgba(0, 0, 0)
+|anchor=1781
+|link=http://www.scp-zh-tr.wikidot.com/scp-1994
+|title=SCP-1994
+|sub-title=腐敗
+|blerb=**我需要牙齒，Yelkov。我祝你能遞送給我。**
+]]
+@@@@
+
+[[include component:scp-hover-box-structure
+|container-number=hugo
+|corner-cutout=0em
+|container-bgcolor=rgba(70, 56, 33)
+|container-txtcolor=rgba(244, 244, 244)
+|container-hover-bgcolor=rgba(185, 150, 80)
+|container-hover-txtcolor=rgba(70, 56, 33)
+|container-stroke-color=rgba(252, 236, 135)
+|container-hover-stroke-color=rgba(207, 159, 45)
+|background-url=http://www.scp-wiki.net/local--files/djkaktus/1781.png
+|background-vertical-position=50%
+|link-fill-color=rgb(215, 215, 215)
+|link-stroke-width=0.125rem
+|link-stroke-color=rgba(0, 0, 0)
+|anchor=1781
+|link=http://www.scp-zh-tr.wikidot.com/scp-1781
+|title=SCP-1781
+|sub-title=月光劇場鉅獻：雨果•威明
+|blerb=**迫不急待地想要開始。你將會知道我們何時完成。**
+]]
+@@@@
+
+[[include component:scp-hover-box-structure
+|container-number=suspension
+|corner-cutout=0em
+|container-bgcolor=rgba(70, 56, 33)
+|container-txtcolor=rgba(244, 244, 244)
+|container-hover-bgcolor=rgba(185, 150, 80)
+|container-hover-txtcolor=rgba(70, 56, 33)
+|container-stroke-color=rgba(252, 236, 135)
+|container-hover-stroke-color=rgba(207, 159, 45)
+|background-url=http://www.scp-wiki.net/local--files/djkaktus/2464.png
+|background-vertical-position=50%
+|link-fill-color=rgb(215, 215, 215)
+|link-stroke-width=0.125rem
+|link-stroke-color=rgba(0, 0, 0)
+|anchor=2464
+|link=http://www.scp-zh-tr.wikidot.com/scp-2464
+|title=SCP-2464
+|sub-title=懸掛物
+|blerb=**…SCP-2464-3將用他的眼睛跟隨每個團隊成員…**
+]]
+@@@@
+
+[[include component:scp-hover-box-structure
+|container-number=error
+|corner-cutout=0em
+|container-bgcolor=rgba(70, 56, 33)
+|container-txtcolor=rgba(244, 244, 244)
+|container-hover-bgcolor=rgba(185, 150, 80)
+|container-hover-txtcolor=rgba(70, 56, 33)
+|container-stroke-color=rgba(252, 236, 135)
+|container-hover-stroke-color=rgba(207, 159, 45)
+|background-url=http://www.scp-wiki.net/local--files/djkaktus/2996.png
+|background-vertical-position=50%
+|link-fill-color=rgb(215, 215, 215)
+|link-stroke-width=0.125rem
+|link-stroke-color=rgba(0, 0, 0)
+|anchor=2996
+|link=http://www.scp-zh-tr.wikidot.com/scp-2996
+|title=SCP-2996
+|sub-title=錯誤 / 錯誤
+|blerb=**其他差異體可能存在。**
+]]
+@@@@
+
+[[include component:scp-hover-box-structure
+|container-number=damage
+|corner-cutout=0em
+|container-bgcolor=rgba(70, 56, 33)
+|container-txtcolor=rgba(244, 244, 244)
+|container-hover-bgcolor=rgba(185, 150, 80)
+|container-hover-txtcolor=rgba(70, 56, 33)
+|container-stroke-color=rgba(252, 236, 135)
+|container-hover-stroke-color=rgba(207, 159, 45)
+|background-url=http://www.scp-wiki.net/local--files/djkaktus/2120.png
+|background-vertical-position=50%
+|link-fill-color=rgb(215, 215, 215)
+|link-stroke-width=0.125rem
+|link-stroke-color=rgba(0, 0, 0)
+|anchor=2120
+|link=http://www.scp-zh-tr.wikidot.com/scp-2120
+|title=SCP-2120
+|sub-title=損害控制
+|blerb=**無論如何，還好我們不用承擔。**
+]]
+@@@@
+
+[[include component:scp-hover-box-structure
+|container-number=liar
+|corner-cutout=0em
+|container-bgcolor=rgba(70, 56, 33)
+|container-txtcolor=rgba(244, 244, 244)
+|container-hover-bgcolor=rgba(185, 150, 80)
+|container-hover-txtcolor=rgba(70, 56, 33)
+|container-stroke-color=rgba(252, 236, 135)
+|container-hover-stroke-color=rgba(207, 159, 45)
+|background-url=http://www.scp-wiki.net/local--files/djkaktus/1864.png
+|background-vertical-position: center
+|link-fill-color=rgb(215, 215, 215)
+|link-stroke-width=0.125rem
+|link-stroke-color=rgba(0, 0, 0)
+|anchor=1864
+|link=http://www.scp-zh-tr.wikidot.com/scp-1864
+|title=SCP-1864
+|sub-title=寂寞撒謊者
+|blerb=**某種我們從海中拖曳出的汙穢。**
+]]
+@@@@
+
+[[include component:scp-hover-box-structure
+|container-number=lime
+|corner-cutout=0em
+|container-bgcolor=rgba(70, 56, 33)
+|container-txtcolor=rgba(244, 244, 244)
+|container-hover-bgcolor=rgba(185, 150, 80)
+|container-hover-txtcolor=rgba(70, 56, 33)
+|container-stroke-color=rgba(252, 236, 135)
+|container-hover-stroke-color=rgba(207, 159, 45)
+|background-url=http://www.scp-wiki.net/local--files/djkaktus/deco.jpg
+|background-vertical-position=50%
+|link-fill-color=rgb(215, 215, 215)
+|link-stroke-width=0.125rem
+|link-stroke-color=rgba(0, 0, 0)
+|anchor=2540
+|link=http://www.scp-zh-tr.wikidot.com/scp-2540
+|title=SCP-2540
+|sub-title=時間萊姆
+|blerb=**一個宇宙中的洞看似奇特地萊姆狀。**
+]]
+@@@@
+
+[[include component:scp-hover-box-structure
+|container-number=effective
+|corner-cutout=0em
+|container-bgcolor=rgba(70, 56, 33)
+|container-txtcolor=rgba(244, 244, 244)
+|container-hover-bgcolor=rgba(185, 150, 80)
+|container-hover-txtcolor=rgba(70, 56, 33)
+|container-stroke-color=rgba(252, 236, 135)
+|container-hover-stroke-color=rgba(207, 159, 45)
+|background-url=http://www.scp-wiki.net/local--files/djkaktus/deco.jpg
+|background-vertical-position=50%
+|link-fill-color=rgb(215, 215, 215)
+|link-stroke-width=0.125rem
+|link-stroke-color=rgba(0, 0, 0)
+|anchor=1160
+|link=http://www.scp-zh-tr.wikidot.com/scp-1160
+|title=SCP-1160
+|sub-title=高效收容
+|blerb=**基金會販售穀類食品。**
+]]
+@@@@
+
+[[include component:scp-hover-box-structure
+|container-number=children
+|corner-cutout=0em
+|container-bgcolor=rgba(70, 56, 33)
+|container-txtcolor=rgba(244, 244, 244)
+|container-hover-bgcolor=rgba(185, 150, 80)
+|container-hover-txtcolor=rgba(70, 56, 33)
+|container-stroke-color=rgba(252, 236, 135)
+|container-hover-stroke-color=rgba(207, 159, 45)
+|background-url=http://www.scp-wiki.net/local--files/djkaktus/deco.jpg
+|background-vertical-position=50%
+|link-fill-color=rgb(215, 215, 215)
+|link-stroke-width=0.125rem
+|link-stroke-color=rgba(0, 0, 0)
+|anchor=djkaktus-s-proposal
+|link=http://www.scp-zh-tr.wikidot.com/djkaktus-s-proposal
+|title=SCP-001-DJK
+|sub-title=孩子們
+|blerb=**基金會做些不可告人的事。**
+]]
+@@@@
+
+[[include component:scp-hover-box-structure
+|container-number=titanias
+|corner-cutout=0em
+|container-bgcolor=rgba(70, 56, 33)
+|container-txtcolor=rgba(244, 244, 244)
+|container-hover-bgcolor=rgba(185, 150, 80)
+|container-hover-txtcolor=rgba(70, 56, 33)
+|container-stroke-color=rgba(252, 236, 135)
+|container-hover-stroke-color=rgba(207, 159, 45)
+|background-url=http://www.scp-wiki.net/local--files/djkaktus/deco.jpg
+|background-vertical-position=50%
+|link-fill-color=rgb(215, 215, 215)
+|link-stroke-width=0.125rem
+|link-stroke-color=rgba(0, 0, 0)
+|anchor=2932
+|link=http://www.scp-zh-tr.wikidot.com/scp-2932
+|title=SCP-2932
+|sub-title=泰坦尼亞的監獄
+|blerb=**古老的秘密被保留在黑暗之中。**
+]]
+@@@@
+
+[[include component:scp-hover-box-structure
+|container-number=logistics
+|corner-cutout=0em
+|container-bgcolor=rgba(70, 56, 33)
+|container-txtcolor=rgba(244, 244, 244)
+|container-hover-bgcolor=rgba(185, 150, 80)
+|container-hover-txtcolor=rgba(70, 56, 33)
+|container-stroke-color=rgba(252, 236, 135)
+|container-hover-stroke-color=rgba(207, 159, 45)
+|background-url=http://www.scp-wiki.net/local--files/djkaktus/deco.jpg
+|background-vertical-position=50%
+|link-fill-color=rgb(215, 215, 215)
+|link-stroke-width=0.125rem
+|link-stroke-color=rgba(0, 0, 0)
+|anchor=2445
+|link=http://www.scp-zh-tr.wikidot.com/scp-2445
+|title=SCP-2445
+|sub-title=Wondertainment 物流服務
+|blerb=**Wondertainment博士有些供給鏈問題。**
+]]
+@@@@
+
+[[include component:scp-hover-box-structure
+|container-number=duncan
+|corner-cutout=0em
+|container-bgcolor=rgba(70, 56, 33)
+|container-txtcolor=rgba(244, 244, 244)
+|container-hover-bgcolor=rgba(185, 150, 80)
+|container-hover-txtcolor=rgba(70, 56, 33)
+|container-stroke-color=rgba(252, 236, 135)
+|container-hover-stroke-color=rgba(207, 159, 45)
+|background-url=http://www.scp-wiki.net/local--files/djkaktus/deco.jpg
+|background-vertical-position=50%
+|link-fill-color=rgb(215, 215, 215)
+|link-stroke-width=0.125rem
+|link-stroke-color=rgba(0, 0, 0)
+|anchor=2090
+|link=http://www.scp-zh-tr.wikidot.com/scp-2090
+|title=SCP-2090
+|sub-title=潛在的XK級威脅—提姆•鄧肯
+|blerb=**籃球如收容。**
+]]
+@@@@
+
+[[include component:scp-hover-box-structure
+|container-number=somebody
+|corner-cutout=0em
+|container-bgcolor=rgba(70, 56, 33)
+|container-txtcolor=rgba(244, 244, 244)
+|container-hover-bgcolor=rgba(185, 150, 80)
+|container-hover-txtcolor=rgba(70, 56, 33)
+|container-stroke-color=rgba(252, 236, 135)
+|container-hover-stroke-color=rgba(207, 159, 45)
+|background-url=http://www.scp-wiki.net/local--files/djkaktus/deco.jpg
+|background-vertical-position=50%
+|link-fill-color=rgb(215, 215, 215)
+|link-stroke-width=0.125rem
+|link-stroke-color=rgba(0, 0, 0)
+|anchor=2670
+|link=http://www.scp-zh-tr.wikidot.com/scp-2670
+|title=SCP-2670
+|sub-title=他人的神
+|blerb=**我們被曲解了。**
+]]
+@@@@
+
+[[include component:scp-hover-box-structure
+|container-number=wasnt
+|corner-cutout=0em
+|container-bgcolor=rgba(70, 56, 33)
+|container-txtcolor=rgba(244, 244, 244)
+|container-hover-bgcolor=rgba(185, 150, 80)
+|container-hover-txtcolor=rgba(70, 56, 33)
+|container-stroke-color=rgba(252, 236, 135)
+|container-hover-stroke-color=rgba(207, 159, 45)
+|background-url=http://www.scp-wiki.net/local--files/djkaktus/deco.jpg
+|background-vertical-position: center
+|link-fill-color=rgb(215, 215, 215)
+|link-stroke-width=0.125rem
+|link-stroke-color=rgba(0, 0, 0)
+|anchor=2740
+|link=http://www.scp-zh-tr.wikidot.com/scp-2740
+|title=SCP-2740
+|sub-title=它不存在
+|blerb=**一個反被憎恨的地方。**
+]]
+@@@@
+
+[[include component:scp-hover-box-structure
+|container-number=face
+|corner-cutout=0em
+|container-bgcolor=rgba(70, 56, 33)
+|container-txtcolor=rgba(244, 244, 244)
+|container-hover-bgcolor=rgba(185, 150, 80)
+|container-hover-txtcolor=rgba(70, 56, 33)
+|container-stroke-color=rgba(252, 236, 135)
+|container-hover-stroke-color=rgba(207, 159, 45)
+|background-url=http://www.scp-wiki.net/local--files/djkaktus/deco.jpg
+|background-vertical-position: center
+|link-fill-color=rgb(215, 215, 215)
+|link-stroke-width=0.125rem
+|link-stroke-color=rgba(0, 0, 0)
+|anchor=715
+|link=http://www.scp-zh-tr.wikidot.com/scp-715
+|title=SCP-715
+|sub-title=我為我的臉
+|blerb=**合乎道德的界線被模糊了。**
+]]
+@@@@
+
+[[include component:scp-hover-box-structure
+|container-number=loans
+|corner-cutout=0em
+|container-bgcolor=rgba(70, 56, 33)
+|container-txtcolor=rgba(244, 244, 244)
+|container-hover-bgcolor=rgba(185, 150, 80)
+|container-hover-txtcolor=rgba(70, 56, 33)
+|container-stroke-color=rgba(252, 236, 135)
+|container-hover-stroke-color=rgba(207, 159, 45)
+|background-url=http://www.scp-wiki.net/local--files/djkaktus/deco.jpg
+|background-vertical-position=50%
+|link-fill-color=rgb(215, 215, 215)
+|link-stroke-width=0.125rem
+|link-stroke-color=rgba(0, 0, 0)
+|anchor=2271
+|link=http://www.scp-zh-tr.wikidot.com/scp-2271
+|title=SCP-2271
+|sub-title=工廠貸款
+|blerb=**債務被積欠。**
+]]
+@@@@
+
+[[include component:scp-hover-box-structure
+|container-number=bears
+|corner-cutout=0em
+|container-bgcolor=rgba(70, 56, 33)
+|container-txtcolor=rgba(244, 244, 244)
+|container-hover-bgcolor=rgba(185, 150, 80)
+|container-hover-txtcolor=rgba(70, 56, 33)
+|container-stroke-color=rgba(252, 236, 135)
+|container-hover-stroke-color=rgba(207, 159, 45)
+|background-url=http://www.scp-wiki.net/local--files/djkaktus/deco.jpg
+|background-vertical-position=50%
+|link-fill-color=rgb(215, 215, 215)
+|link-stroke-width=0.125rem
+|link-stroke-color=rgba(0, 0, 0)
+|anchor=2875
+|link=http://www.scp-zh-tr.wikidot.com/scp-2875
+|title=SCP-2875
+|sub-title=被熊糟蹋的小鎮
+|blerb=**大量數目的熊。**
+]]
+@@@@
+
+[[include component:scp-hover-box-structure
+|container-number=ties
+|corner-cutout=0em
+|container-bgcolor=rgba(70, 56, 33)
+|container-txtcolor=rgba(244, 244, 244)
+|container-hover-bgcolor=rgba(185, 150, 80)
+|container-hover-txtcolor=rgba(70, 56, 33)
+|container-stroke-color=rgba(252, 236, 135)
+|container-hover-stroke-color=rgba(207, 159, 45)
+|background-url=http://www.scp-wiki.net/local--files/djkaktus/deco.jpg
+|background-vertical-position=50%
+|link-fill-color=rgb(215, 215, 215)
+|link-stroke-width=0.125rem
+|link-stroke-color=rgba(0, 0, 0)
+|anchor=2151
+|link=http://www.scp-zh-tr.wikidot.com/scp-2151
+|title=SCP-2151
+|sub-title=永不分離
+|blerb=**一個不正常的固戀被實現了。**
+]]
+@@@@
+
+[[include component:scp-hover-box-structure
+|container-number=squid
+|corner-cutout=0em
+|container-bgcolor=rgba(70, 56, 33)
+|container-txtcolor=rgba(244, 244, 244)
+|container-hover-bgcolor=rgba(185, 150, 80)
+|container-hover-txtcolor=rgba(70, 56, 33)
+|container-stroke-color=rgba(252, 236, 135)
+|container-hover-stroke-color=rgba(207, 159, 45)
+|background-url=http://www.scp-wiki.net/local--files/djkaktus/deco.jpg
+|background-vertical-position=50%
+|link-fill-color=rgb(215, 215, 215)
+|link-stroke-width=0.125rem
+|link-stroke-color=rgba(0, 0, 0)
+|anchor=2846
+|link=http://www.scp-zh-tr.wikidot.com/scp-2846
+|title=SCP-2846
+|sub-title=海怪與水手
+|blerb=**一名水手發動了戰爭。**
+]]
+@@@@
+
+[[include component:scp-hover-box-structure
+|container-number=thirteen
+|corner-cutout=0em
+|container-bgcolor=rgba(70, 56, 33)
+|container-txtcolor=rgba(244, 244, 244)
+|container-hover-bgcolor=rgba(185, 150, 80)
+|container-hover-txtcolor=rgba(70, 56, 33)
+|container-stroke-color=rgba(252, 236, 135)
+|container-hover-stroke-color=rgba(207, 159, 45)
+|background-url=http://www.scp-wiki.net/local--files/djkaktus/deco.jpg
+|background-vertical-position=50%
+|link-fill-color=rgb(215, 215, 215)
+|link-stroke-width=0.125rem
+|link-stroke-color=rgba(0, 0, 0)
+|anchor=1730
+|link=http://www.scp-zh-tr.wikidot.com/scp-1730
+|title=SCP-1730
+|sub-title=Site-13怎麼了？
+|blerb=**基金會放棄抵抗。**
+]]
+@@@@
+
+[[include component:scp-hover-box-structure
+|container-number=gary
+|corner-cutout=0em
+|container-bgcolor=rgba(70, 56, 33)
+|container-txtcolor=rgba(244, 244, 244)
+|container-hover-bgcolor=rgba(185, 150, 80)
+|container-hover-txtcolor=rgba(70, 56, 33)
+|container-stroke-color=rgba(252, 236, 135)
+|container-hover-stroke-color=rgba(207, 159, 45)
+|background-url=http://www.scp-wiki.net/local--files/djkaktus/deco.jpg
+|background-vertical-position=50%
+|link-fill-color=rgb(215, 215, 215)
+|link-stroke-width=0.125rem
+|link-stroke-color=rgba(0, 0, 0)
+|anchor=2844
+|link=http://www.scp-zh-tr.wikidot.com/scp-2844
+|title=SCP-2844
+|sub-title=迴紋針製造機Gary
+|blerb=**一臺電腦找到了效率。**
+]]
+@@@@
+
+[[include component:scp-hover-box-structure
+|container-number=doorknob
+|corner-cutout=0em
+|container-bgcolor=rgba(70, 56, 33)
+|container-txtcolor=rgba(244, 244, 244)
+|container-hover-bgcolor=rgba(185, 150, 80)
+|container-hover-txtcolor=rgba(70, 56, 33)
+|container-stroke-color=rgba(252, 236, 135)
+|container-hover-stroke-color=rgba(207, 159, 45)
+|background-url=http://www.scp-wiki.net/local--files/djkaktus/deco.jpg
+|background-vertical-position: center
+|link-fill-color=rgb(215, 215, 215)
+|link-stroke-width=0.125rem
+|link-stroke-color=rgba(0, 0, 0)
+|anchor=7143-J
+|link=http://www.scp-zh-tr.wikidot.com/scp-7143-J
+|title=SCP-7143-J
+|sub-title=門把（SFW？）
+|blerb=**一個門把惹怒了**
+]]
+@@@@
+
+[[include component:scp-hover-box-structure
+|container-number=president
+|corner-cutout=0em
+|container-bgcolor=rgba(70, 56, 33)
+|container-txtcolor=rgba(244, 244, 244)
+|container-hover-bgcolor=rgba(185, 150, 80)
+|container-hover-txtcolor=rgba(70, 56, 33)
+|container-stroke-color=rgba(252, 236, 135)
+|container-hover-stroke-color=rgba(207, 159, 45)
+|background-url=http://www.scp-wiki.net/local--files/djkaktus/deco.jpg
+|background-vertical-position=50%
+|link-fill-color=rgb(215, 215, 215)
+|link-stroke-width=0.125rem
+|link-stroke-color=rgba(0, 0, 0)
+|anchor=2776
+|link=http://www.scp-zh-tr.wikidot.com/scp-2776
+|title=SCP-2776
+|sub-title=總統先生
+|blerb=**…然後在萬能的神的恩寵下，我將成為法律。**
+]]
+@@@@
+
+[[include component:scp-hover-box-structure
+|container-number=scary
+|corner-cutout=0em
+|container-bgcolor=rgba(70, 56, 33)
+|container-txtcolor=rgba(244, 244, 244)
+|container-hover-bgcolor=rgba(185, 150, 80)
+|container-hover-txtcolor=rgba(70, 56, 33)
+|container-stroke-color=rgba(252, 236, 135)
+|container-hover-stroke-color=rgba(207, 159, 45)
+|background-url=http://www.scp-wiki.net/local--files/djkaktus/deco.jpg
+|background-vertical-position=50%
+|link-fill-color=rgb(215, 215, 215)
+|link-stroke-width=0.125rem
+|link-stroke-color=rgba(0, 0, 0)
+|anchor=2933
+|link=http://www.scp-zh-tr.wikidot.com/scp-2933
+|title=SCP-2933
+|sub-title=駭人先生
+|blerb=**ㄋ-你...你可以感覺到你體內的鐵鏽嗎？**
+]]
+@@@@
+
+[[include component:scp-hover-box-structure
+|container-number=Procreation
+|corner-cutout=0em
+|container-bgcolor=rgba(70, 56, 33)
+|container-txtcolor=rgba(244, 244, 244)
+|container-hover-bgcolor=rgba(185, 150, 80)
+|container-hover-txtcolor=rgba(70, 56, 33)
+|container-stroke-color=rgba(252, 236, 135)
+|container-hover-stroke-color=rgba(207, 159, 45)
+|background-url=http://www.scp-wiki.net/local--files/djkaktus/deco.jpg
+|background-vertical-position=50%
+|link-fill-color=rgb(215, 215, 215)
+|link-stroke-width=0.125rem
+|link-stroke-color=rgba(0, 0, 0)
+|anchor=2610
+|link=http://www.scp-zh-tr.wikidot.com/scp-2610
+|title=SCP-2610
+|sub-title=繁衍
+|blerb=**昨晚我被一位天使造訪。**
+]]
+@@@@
+
+[[include component:scp-hover-box-structure
+|container-number=fish
+|corner-cutout=0em
+|container-bgcolor=rgba(70, 56, 33)
+|container-txtcolor=rgba(244, 244, 244)
+|container-hover-bgcolor=rgba(185, 150, 80)
+|container-hover-txtcolor=rgba(70, 56, 33)
+|container-stroke-color=rgba(252, 236, 135)
+|container-hover-stroke-color=rgba(207, 159, 45)
+|background-url=http://www.scp-wiki.net/local--files/djkaktus/deco.jpg
+|background-vertical-position=50%
+|link-fill-color=rgb(215, 215, 215)
+|link-stroke-width=0.125rem
+|link-stroke-color=rgba(0, 0, 0)
+|anchor=527
+|link=http://www.scp-zh-tr.wikidot.com/scp-527
+|title=SCP-527
+|sub-title=魚先生
+|blerb=**我最好他媽的知道啦。**
+]]
+@@@@
+
+[[include component:scp-hover-box-structure
+|container-number=force
+|corner-cutout=0em
+|container-bgcolor=rgba(70, 56, 33)
+|container-txtcolor=rgba(244, 244, 244)
+|container-hover-bgcolor=rgba(185, 150, 80)
+|container-hover-txtcolor=rgba(70, 56, 33)
+|container-stroke-color=rgba(252, 236, 135)
+|container-hover-stroke-color=rgba(207, 159, 45)
+|background-url=http://www.scp-wiki.net/local--files/djkaktus/deco.jpg
+|background-vertical-position=50%
+|link-fill-color=rgb(215, 215, 215)
+|link-stroke-width=0.125rem
+|link-stroke-color=rgba(0, 0, 0)
+|anchor=2270
+|link=http://www.scp-zh-tr.wikidot.com/scp-2270
+|title=SCP-2270
+|sub-title=牛刀割雞
+|blerb=**這裡說的血祭是甚麼意思。**
+]]
+@@@@
+
+[[include component:scp-hover-box-structure
+|container-number=bodies
+|corner-cutout=0em
+|container-bgcolor=rgba(70, 56, 33)
+|container-txtcolor=rgba(244, 244, 244)
+|container-hover-bgcolor=rgba(185, 150, 80)
+|container-hover-txtcolor=rgba(70, 56, 33)
+|container-stroke-color=rgba(252, 236, 135)
+|container-hover-stroke-color=rgba(207, 159, 45)
+|background-url=http://www.scp-wiki.net/local--files/djkaktus/deco.jpg
+|background-vertical-position=50%
+|link-fill-color=rgb(215, 215, 215)
+|link-stroke-width=0.125rem
+|link-stroke-color=rgba(0, 0, 0)
+|anchor=2316
+|link=http://www.scp-zh-tr.wikidot.com/scp-2316
+|title=SCP-2316
+|sub-title=郊遊
+|blerb=**你不認得水裡的屍體。**
+]]
+@@@@
+
+[[include component:scp-hover-box-structure
+|container-number=gun
+|corner-cutout=0em
+|container-bgcolor=rgba(70, 56, 33)
+|container-txtcolor=rgba(244, 244, 244)
+|container-hover-bgcolor=rgba(185, 150, 80)
+|container-hover-txtcolor=rgba(70, 56, 33)
+|container-stroke-color=rgba(252, 236, 135)
+|container-hover-stroke-color=rgba(207, 159, 45)
+|background-url=http://www.scp-wiki.net/local--files/djkaktus/deco.jpg
+|background-vertical-position=50%
+|link-fill-color=rgb(215, 215, 215)
+|link-stroke-width=0.125rem
+|link-stroke-color=rgba(0, 0, 0)
+|anchor=2818
+|link=http://www.scp-zh-tr.wikidot.com/scp-2818
+|title=SCP-2818
+|sub-title=會射人的槍枝
+|blerb=**武器後座力炸碎了D級人員的手臂、肩膀及鎖骨並使之失去意識。**
+]]
+@@@@
+
+[[include component:scp-hover-box-structure
+|container-number=hatbot
+|corner-cutout=0em
+|container-bgcolor=rgba(70, 56, 33)
+|container-txtcolor=rgba(244, 244, 244)
+|container-hover-bgcolor=rgba(185, 150, 80)
+|container-hover-txtcolor=rgba(70, 56, 33)
+|container-stroke-color=rgba(252, 236, 135)
+|container-hover-stroke-color=rgba(207, 159, 45)
+|background-url=http://www.scp-wiki.net/local--files/djkaktus/deco.jpg
+|background-vertical-position=50%
+|link-fill-color=rgb(215, 215, 215)
+|link-stroke-width=0.125rem
+|link-stroke-color=rgba(0, 0, 0)
+|anchor=2522
+|link=http://www.scp-zh-tr.wikidot.com/scp-2522
+|title=SCP-2522
+|sub-title=帽子機器.aic
+|blerb=2016年機動部隊競賽第一名
+**你已經玩完了，老兄。**
+]]
+@@@@
+
+[[include component:scp-hover-box-structure
+|container-number=broken
+|corner-cutout=0em
+|container-bgcolor=rgba(70, 56, 33)
+|container-txtcolor=rgba(244, 244, 244)
+|container-hover-bgcolor=rgba(185, 150, 80)
+|container-hover-txtcolor=rgba(70, 56, 33)
+|container-stroke-color=rgba(252, 236, 135)
+|container-hover-stroke-color=rgba(207, 159, 45)
+|background-url=http://www.scp-wiki.net/local--files/djkaktus/deco.jpg
+|background-vertical-position=50%
+|link-fill-color=rgb(215, 215, 215)
+|link-stroke-width=0.125rem
+|link-stroke-color=rgba(0, 0, 0)
+|anchor=001-TGK
+|link=http://www.scp-zh-tr.wikidot.com/twistedgears-kaktus-proposal
+|title=SCP-001-TGk
+|sub-title=破碎之神
+|blerb=**Johnny，那才不是甚麼教會神器。**
+]]
+@@@@
+
+[[include component:scp-hover-box-structure
+|container-number=death
+|corner-cutout=0em
+|container-bgcolor=rgba(70, 56, 33)
+|container-txtcolor=rgba(244, 244, 244)
+|container-hover-bgcolor=rgba(185, 150, 80)
+|container-hover-txtcolor=rgba(70, 56, 33)
+|container-stroke-color=rgba(252, 236, 135)
+|container-hover-stroke-color=rgba(207, 159, 45)
+|background-url=http://www.scp-wiki.net/local--files/djkaktus/deco.jpg
+|background-vertical-position=50%
+|link-fill-color=rgb(215, 215, 215)
+|link-stroke-width=0.125rem
+|link-stroke-color=rgba(0, 0, 0)
+|anchor=2935
+|link=http://www.scp-zh-tr.wikidot.com/SCP-2935
+|title=SCP-2935
+|sub-title=噢，死亡
+|blerb=**你也死了。**
+]]
+@@@@
+
+[[include component:scp-hover-box-structure
+|container-number=tenthousand
+|corner-cutout=0em
+|container-bgcolor=rgba(70, 56, 33)
+|container-txtcolor=rgba(244, 244, 244)
+|container-hover-bgcolor=rgba(185, 150, 80)
+|container-hover-txtcolor=rgba(70, 56, 33)
+|container-stroke-color=rgba(252, 236, 135)
+|container-hover-stroke-color=rgba(207, 159, 45)
+|background-url=http://www.scp-wiki.net/local--files/djkaktus/deco.jpg
+|background-vertical-position=50%
+|link-fill-color=rgb(215, 215, 215)
+|link-stroke-width=0.125rem
+|link-stroke-color=rgba(0, 0, 0)
+|anchor=2951
+|link=http://www.scp-zh-tr.wikidot.com/SCP-2951
+|title=SCP-2951
+|sub-title=10,000年
+|blerb=**然後黑暗改變了人們。**
+]]
+@@@@
+
+[[include component:scp-hover-box-structure
+|container-number=vore
+|corner-cutout=0em
+|container-bgcolor=rgba(70, 56, 33)
+|container-txtcolor=rgba(244, 244, 244)
+|container-hover-bgcolor=rgba(185, 150, 80)
+|container-hover-txtcolor=rgba(70, 56, 33)
+|container-stroke-color=rgba(252, 236, 135)
+|container-hover-stroke-color=rgba(207, 159, 45)
+|background-url=http://www.scp-wiki.net/local--files/djkaktus/deco.jpg
+|background-vertical-position=50%
+|link-fill-color=rgb(215, 215, 215)
+|link-stroke-width=0.125rem
+|link-stroke-color=rgba(0, 0, 0)
+|anchor=2678
+|link=http://www.scp-zh-tr.wikidot.com/SCP-2678
+|title=SCP-2678
+|sub-title=吞食性愛好洞
+|blerb=與Cyantreuse合著
+**我又已經幾乎在那了，別管我了。**
+]]
+@@@@
+
+[[include component:scp-hover-box-structure
+|container-number=anantashesha
+|corner-cutout=0em
+|container-bgcolor=rgba(70, 56, 33)
+|container-txtcolor=rgba(244, 244, 244)
+|container-hover-bgcolor=rgba(185, 150, 80)
+|container-hover-txtcolor=rgba(70, 56, 33)
+|container-stroke-color=rgba(252, 236, 135)
+|container-hover-stroke-color=rgba(207, 159, 45)
+|background-url=http://www.scp-wiki.net/local--files/djkaktus/deco.jpg
+|background-vertical-position=50%
+|link-fill-color=rgb(215, 215, 215)
+|link-stroke-width=0.125rem
+|link-stroke-color=rgba(0, 0, 0)
+|anchor=3000
+|link=http://www.scp-zh-tr.wikidot.com/SCP-3000
+|title=SCP-3000
+|sub-title=阿難陀舍沙
+|blerb=與Joreth和A Random Day合著 / SCP-3000競賽第一名
+**——然後只剩下鰻魚。**
+]]
+@@@@
+
+[[include component:scp-hover-box-structure
+|container-number=broke
+|corner-cutout=0em
+|container-bgcolor=rgba(70, 56, 33)
+|container-txtcolor=rgba(244, 244, 244)
+|container-hover-bgcolor=rgba(185, 150, 80)
+|container-hover-txtcolor=rgba(70, 56, 33)
+|container-stroke-color=rgba(252, 236, 135)
+|container-hover-stroke-color=rgba(207, 159, 45)
+|background-url=http://www.scp-wiki.net/local--files/djkaktus/deco.jpg
+|background-vertical-position=50%
+|link-fill-color=rgb(215, 215, 215)
+|link-stroke-width=0.125rem
+|link-stroke-color=rgba(0, 0, 0)
+|anchor=001-CK-J
+|link=http://www.scp-zh-tr.wikidot.com/cimmerian-kaktus-proposal
+|title=SCP-001-J-CK
+|sub-title=破產之神
+|blerb=與Doctor Cimmerian合著
+**拜託老兄，你知道我很行的。**
+]]
+@@@@
+
+[[include component:scp-hover-box-structure
+|container-number=damej
+|corner-cutout=0em
+|container-bgcolor=rgba(70, 56, 33)
+|container-txtcolor=rgba(244, 244, 244)
+|container-hover-bgcolor=rgba(185, 150, 80)
+|container-hover-txtcolor=rgba(70, 56, 33)
+|container-stroke-color=rgba(252, 236, 135)
+|container-hover-stroke-color=rgba(207, 159, 45)
+|background-url=http://www.scp-wiki.net/local--files/djkaktus/deco.jpg
+|background-vertical-position=50%
+|link-fill-color=rgb(215, 215, 215)
+|link-stroke-width=0.125rem
+|link-stroke-color=rgba(0, 0, 0)
+|anchor=damej-J
+|link=http://www.scp-zh-tr.wikidot.com/SCP-damej-J
+|title=SCP-damej-J
+|sub-title=機器人Damej
+|blerb=與Faminepulse和Decibelles合著
+**嗶嗶嗶，警告，你已經畜發了槌頭槍。**
+]]
+@@@@
+
+[[include component:scp-hover-box-structure
+|container-number=thefoundation
+|corner-cutout=0em
+|container-bgcolor=rgba(70, 56, 33)
+|container-txtcolor=rgba(244, 244, 244)
+|container-hover-bgcolor=rgba(185, 150, 80)
+|container-hover-txtcolor=rgba(70, 56, 33)
+|container-stroke-color=rgba(252, 236, 135)
+|container-hover-stroke-color=rgba(207, 159, 45)
+|background-url=http://www.scp-wiki.net/local--files/djkaktus/deco.jpg
+|background-vertical-position=50%
+|link-fill-color=rgb(215, 215, 215)
+|link-stroke-width=0.125rem
+|link-stroke-color=rgba(0, 0, 0)
+|anchor=3301
+|link=http://www.scp-zh-tr.wikidot.com/SCP-3301
+|title=SCP-3301
+|sub-title=基金會大冒險
+|blerb=**畢竟，我們覺得你們有著最有趣的故事可講，所以我們才製造它。**
+]]
+@@@@
+
+[[include component:scp-hover-box-structure
+|container-number=dreamgoat
+|corner-cutout=0em
+|container-bgcolor=rgba(70, 56, 33)
+|container-txtcolor=rgba(244, 244, 244)
+|container-hover-bgcolor=rgba(185, 150, 80)
+|container-hover-txtcolor=rgba(70, 56, 33)
+|container-stroke-color=rgba(252, 236, 135)
+|container-hover-stroke-color=rgba(207, 159, 45)
+|background-url=http://www.scp-wiki.net/local--files/djkaktus/deco.jpg
+|background-vertical-position=50%
+|link-fill-color=rgb(215, 215, 215)
+|link-stroke-width=0.125rem
+|link-stroke-color=rgba(0, 0, 0)
+|anchor=2576
+|link=http://www.scp-zh-tr.wikidot.com/SCP-2576
+|title=SCP-2576
+|sub-title=Joseph和虹彩夢幻山羊
+|blerb=**我嚐到鐵和血的味道。你正在遭受攻擊。**
+]]
+@@@@
+
+[[include component:scp-hover-box-structure
+|container-number=strangerer
+|corner-cutout=0em
+|container-bgcolor=rgba(70, 56, 33)
+|container-txtcolor=rgba(244, 244, 244)
+|container-hover-bgcolor=rgba(185, 150, 80)
+|container-hover-txtcolor=rgba(70, 56, 33)
+|container-stroke-color=rgba(252, 236, 135)
+|container-hover-stroke-color=rgba(207, 159, 45)
+|background-url=http://www.scp-wiki.net/local--files/djkaktus/deco.jpg
+|background-vertical-position=50%
+|link-fill-color=rgb(215, 215, 215)
+|link-stroke-width=0.125rem
+|link-stroke-color=rgba(0, 0, 0)
+|anchor=80s-J
+|link=http://www.scp-zh-tr.wikidot.com/SCP-80s-J
+|title=SCP-80s-J
+|sub-title=更怪奇物語
+|blerb=**也許Vog只是陪伴我們一路走來的朋友。**
+]]
+@@@@
+
+[[include component:scp-hover-box-structure
+|container-number=dumb
+|corner-cutout=0em
+|container-bgcolor=rgba(70, 56, 33)
+|container-txtcolor=rgba(244, 244, 244)
+|container-hover-bgcolor=rgba(185, 150, 80)
+|container-hover-txtcolor=rgba(70, 56, 33)
+|container-stroke-color=rgba(252, 236, 135)
+|container-hover-stroke-color=rgba(207, 159, 45)
+|background-url=http://www.scp-wiki.net/local--files/djkaktus/deco.jpg
+|background-vertical-position=50%
+|link-fill-color=rgb(215, 215, 215)
+|link-stroke-width=0.125rem
+|link-stroke-color=rgba(0, 0, 0)
+|anchor=3740
+|link=http://www.scp-zh-tr.wikidot.com/SCP-3740
+|title=SCP-3740
+|sub-title=神是蠢蛋
+|blerb=**我很高興能有這個機會和你性交，Eleanora。**
+]]
+@@@@
+
+[[include component:scp-hover-box-structure
+|container-number=madness
+|corner-cutout=0em
+|container-bgcolor=rgba(70, 56, 33)
+|container-txtcolor=rgba(244, 244, 244)
+|container-hover-bgcolor=rgba(185, 150, 80)
+|container-hover-txtcolor=rgba(70, 56, 33)
+|container-stroke-color=rgba(252, 236, 135)
+|container-hover-stroke-color=rgba(207, 159, 45)
+|background-url=http://www.scp-wiki.net/local--files/djkaktus/deco.jpg
+|background-vertical-position=50%
+|link-fill-color=rgb(215, 215, 215)
+|link-stroke-width=0.125rem
+|link-stroke-color=rgba(0, 0, 0)
+|anchor=3935
+|link=http://www.scp-zh-tr.wikidot.com/SCP-3935
+|title=SCP-3935
+|sub-title=靜謐瘋狂所造之物
+|blerb=**你好。**
+]]
+@@@@
+
+[[include component:scp-hover-box-structure
+|container-number=plaguefellow
+|corner-cutout=0em
+|container-bgcolor=rgba(70, 56, 33)
+|container-txtcolor=rgba(244, 244, 244)
+|container-hover-bgcolor=rgba(185, 150, 80)
+|container-hover-txtcolor=rgba(70, 56, 33)
+|container-stroke-color=rgba(252, 236, 135)
+|container-hover-stroke-color=rgba(207, 159, 45)
+|background-url=http://www.scp-wiki.net/local--files/djkaktus/deco.jpg
+|background-vertical-position=50%
+|link-fill-color=rgb(215, 215, 215)
+|link-stroke-width=0.125rem
+|link-stroke-color=rgba(0, 0, 0)
+|anchor=049-J
+|link=http://www.scp-zh-tr.wikidot.com/SCP-049-J
+|title=SCP-049-J
+|sub-title=瘟疫夥計
+|blerb=**不病人現在好得很是的我是解藥。**
+]]
+@@@@
+
+[[include component:scp-hover-box-structure
+|container-number=voice
+|corner-cutout=0em
+|container-bgcolor=rgba(70, 56, 33)
+|container-txtcolor=rgba(244, 244, 244)
+|container-hover-bgcolor=rgba(185, 150, 80)
+|container-hover-txtcolor=rgba(70, 56, 33)
+|container-stroke-color=rgba(252, 236, 135)
+|container-hover-stroke-color=rgba(207, 159, 45)
+|background-url=http://www.scp-wiki.net/local--files/djkaktus/deco.jpg
+|background-vertical-position=50%
+|link-fill-color=rgb(215, 215, 215)
+|link-stroke-width=0.125rem
+|link-stroke-color=rgba(0, 0, 0)
+|anchor=3812
+|link=http://www.scp-zh-tr.wikidot.com/SCP-3812
+|title=SCP-3812
+|sub-title=我背後之聲
+|blerb=**我看到他了。一個人正對著鍵盤。他正看著這個。**
+]]
+@@@@
+
+[[include component:scp-hover-box-structure
+|container-number=nick
+|corner-cutout=0em
+|container-bgcolor=rgba(70, 56, 33)
+|container-txtcolor=rgba(244, 244, 244)
+|container-hover-bgcolor=rgba(185, 150, 80)
+|container-hover-txtcolor=rgba(70, 56, 33)
+|container-stroke-color=rgba(252, 236, 135)
+|container-hover-stroke-color=rgba(207, 159, 45)
+|background-url=http://www.scp-wiki.net/local--files/djkaktus/deco.jpg
+|background-vertical-position=50%
+|link-fill-color=rgb(215, 215, 215)
+|link-stroke-width=0.125rem
+|link-stroke-color=rgba(0, 0, 0)
+|anchor=3355
+|link=http://www.scp-zh-tr.wikidot.com/SCP-3355
+|title=SCP-3355
+|sub-title=聖Nick
+|blerb=**但他媽的，我仍是名士兵呢。我還是必須得試試，這是他媽的聖誕節。**
+]]
+@@@@
+
+[[include component:scp-hover-box-structure
+|container-number=hyperion
+|corner-cutout=0em
+|container-bgcolor=rgba(70, 56, 33)
+|container-txtcolor=rgba(244, 244, 244)
+|container-hover-bgcolor=rgba(185, 150, 80)
+|container-hover-txtcolor=rgba(70, 56, 33)
+|container-stroke-color=rgba(252, 236, 135)
+|container-hover-stroke-color=rgba(207, 159, 45)
+|background-url=http://www.scp-wiki.net/local--files/djkaktus/deco.jpg
+|background-vertical-position=50%
+|link-fill-color=rgb(215, 215, 215)
+|link-stroke-width=0.125rem
+|link-stroke-color=rgba(0, 0, 0)
+|anchor=3813
+|link=http://www.scp-zh-tr.wikidot.com/SCP-3813
+|title=SCP-3813
+|sub-title=Hyperion殞落記
+|blerb=與Doctor Cimmerian、Zhange、和VolgunStrife合著
+**這麼多事要做，而羅馬必須被焚毀。**
+]]
+@@@@
+
+[[include component:scp-hover-box-structure
+|container-number=screamer
+|corner-cutout=0em
+|container-bgcolor=rgba(70, 56, 33)
+|container-txtcolor=rgba(244, 244, 244)
+|container-hover-bgcolor=rgba(185, 150, 80)
+|container-hover-txtcolor=rgba(70, 56, 33)
+|container-stroke-color=rgba(252, 236, 135)
+|container-hover-stroke-color=rgba(207, 159, 45)
+|background-url=http://www.scp-wiki.net/local--files/djkaktus/deco.jpg
+|background-vertical-position=50%
+|link-fill-color=rgb(215, 215, 215)
+|link-stroke-width=0.125rem
+|link-stroke-color=rgba(0, 0, 0)
+|anchor=3930
+|link=http://www.scp-zh-tr.wikidot.com/SCP-3930
+|title=SCP-3930
+|sub-title=驚悚型態
+|blerb=**只有7名存活體被允許訪問這個文檔。**
+]]
+@@@@
+
+[[include component:scp-hover-box-structure
+|container-number=jasper
+|corner-cutout=0em
+|container-bgcolor=rgba(70, 56, 33)
+|container-txtcolor=rgba(244, 244, 244)
+|container-hover-bgcolor=rgba(185, 150, 80)
+|container-hover-txtcolor=rgba(70, 56, 33)
+|container-stroke-color=rgba(252, 236, 135)
+|container-hover-stroke-color=rgba(207, 159, 45)
+|background-url=http://www.scp-wiki.net/local--files/djkaktus/deco.jpg
+|background-vertical-position=50%
+|link-fill-color=rgb(215, 215, 215)
+|link-stroke-width=0.125rem
+|link-stroke-color=rgba(0, 0, 0)
+|anchor=3785
+|link=http://www.scp-zh-tr.wikidot.com/SCP-3785
+|title=SCP-3785
+|sub-title=Jasper的山丘
+|blerb=**我—（停頓）我是—（停頓）它無所不ㄗㄞ—**
+]]
+@@@@
+
+[[include component:scp-hover-box-structure
+|container-number=banana
+|corner-cutout=0em
+|container-bgcolor=rgba(70, 56, 33)
+|container-txtcolor=rgba(244, 244, 244)
+|container-hover-bgcolor=rgba(185, 150, 80)
+|container-hover-txtcolor=rgba(70, 56, 33)
+|container-stroke-color=rgba(252, 236, 135)
+|container-hover-stroke-color=rgba(207, 159, 45)
+|background-url=http://www.scp-wiki.net/local--files/djkaktus/deco.jpg
+|background-vertical-position=50%
+|link-fill-color=rgb(215, 215, 215)
+|link-stroke-width=0.125rem
+|link-stroke-color=rgba(0, 0, 0)
+|anchor=3521
+|link=http://www.scp-zh-tr.wikidot.com/SCP-3521
+|title=SCP-3521
+|sub-title=dado的強制香蕉等效藥劑
+|blerb=**泥必須學會相信dado。**
+]]
+@@@@
+
+[[include component:scp-hover-box-structure
+|container-number=boner
+|corner-cutout=0em
+|container-bgcolor=rgba(70, 56, 33)
+|container-txtcolor=rgba(244, 244, 244)
+|container-hover-bgcolor=rgba(185, 150, 80)
+|container-hover-txtcolor=rgba(70, 56, 33)
+|container-stroke-color=rgba(252, 236, 135)
+|container-hover-stroke-color=rgba(207, 159, 45)
+|background-url=http://www.scp-wiki.net/local--files/djkaktus/deco.jpg
+|background-vertical-position=50%
+|link-fill-color=rgb(215, 215, 215)
+|link-stroke-width=0.125rem
+|link-stroke-color=rgba(0, 0, 0)
+|anchor=3929
+|link=http://www.scp-zh-tr.wikidot.com/SCP-3929
+|title=SCP-3929
+|sub-title=dado的助勃神藥
+|blerb=**不這沒問題，這比威而鋼還要好。相信dado。**
+]]
+@@@@
+
+[[include component:scp-hover-box-structure
+|container-number=ykhn
+|corner-cutout=0em
+|container-bgcolor=rgba(70, 56, 33)
+|container-txtcolor=rgba(244, 244, 244)
+|container-hover-bgcolor=rgba(185, 150, 80)
+|container-hover-txtcolor=rgba(70, 56, 33)
+|container-stroke-color=rgba(252, 236, 135)
+|container-hover-stroke-color=rgba(207, 159, 45)
+|background-url=http://www.scp-wiki.net/local--files/djkaktus/deco.jpg
+|background-vertical-position=50%
+|link-fill-color=rgb(215, 215, 215)
+|link-stroke-width=0.125rem
+|link-stroke-color=rgba(0, 0, 0)
+|anchor=3208
+|link=http://www.scp-zh-tr.wikidot.com/SCP-3208
+|title=SCP-3208
+|sub-title=YKHN
+|blerb=與Doctor Cimmerian合著
+**一場夢魘在田野中蔓延。**
+]]
+@@@@
+
+[[include component:scp-hover-box-structure
+|container-number=darkly
+|corner-cutout=0em
+|container-bgcolor=rgba(70, 56, 33)
+|container-txtcolor=rgba(244, 244, 244)
+|container-hover-bgcolor=rgba(185, 150, 80)
+|container-hover-txtcolor=rgba(70, 56, 33)
+|container-stroke-color=rgba(252, 236, 135)
+|container-hover-stroke-color=rgba(207, 159, 45)
+|background-url=http://www.scp-wiki.net/local--files/djkaktus/deco.jpg
+|background-vertical-position=50%
+|link-fill-color=rgb(215, 215, 215)
+|link-stroke-width=0.125rem
+|link-stroke-color=rgba(0, 0, 0)
+|anchor=3693
+|link=http://www.scp-zh-tr.wikidot.com/SCP-3693
+|title=SCP-3693
+|sub-title=後記—對鏡觀看，昏暗地
+|blerb=與The Great Hippo合著
+**附近發現一名頸部被折斷的女性屍體。**
+]]
+@@@@
+
+[[include component:scp-hover-box-structure
+|container-number=plaguedoctor
+|corner-cutout=0em
+|container-bgcolor=rgba(70, 56, 33)
+|container-txtcolor=rgba(244, 244, 244)
+|container-hover-bgcolor=rgba(185, 150, 80)
+|container-hover-txtcolor=rgba(70, 56, 33)
+|container-stroke-color=rgba(252, 236, 135)
+|container-hover-stroke-color=rgba(207, 159, 45)
+|background-url=http://www.scp-wiki.net/local--files/djkaktus/deco.jpg
+|background-vertical-position=50%
+|link-fill-color=rgb(215, 215, 215)
+|link-stroke-width=0.125rem
+|link-stroke-color=rgba(0, 0, 0)
+|anchor=049
+|link=http://www.scp-zh-tr.wikidot.com/SCP-049
+|title=SCP-049
+|sub-title=疫醫
+|blerb=與Gabriel Jade合著
+**喔，醫生。我不這麼確定。**
+]]
+@@@@
+
+[[include component:scp-hover-box-structure
+|container-number=poopchute
+|container-bgcolor=rgba(70, 56, 33)
+|container-txtcolor=rgba(244, 244, 244)
+|container-hover-bgcolor=rgba(185, 150, 80)
+|container-hover-txtcolor=rgba(70, 56, 33)
+|container-stroke-color=rgba(252, 236, 135)
+|container-hover-stroke-color=rgba(207, 159, 45)
+|background-url=http://www.scp-wiki.net/local--files/djkaktus/deco.jpg
+|background-vertical-position=50%
+|link-fill-color=rgb(215, 215, 215)
+|link-stroke-width=0.125rem
+|link-stroke-color=rgba(0, 0, 0)
+|anchor=3494
+|link=http://www.scp-zh-tr.wikidot.com/SCP-3494
+|title=SCP-3494
+|sub-title=dado的廢物處理神藥
+|blerb=**是的，大量的廢物從糞道炸出並清潔溜溜。**
+]]
+@@@@
+
+[[include component:scp-hover-box-structure
+|container-number=darkbody
+|container-bgcolor=rgba(70, 56, 33)
+|container-txtcolor=rgba(244, 244, 244)
+|container-hover-bgcolor=rgba(185, 150, 80)
+|container-hover-txtcolor=rgba(70, 56, 33)
+|container-stroke-color=rgba(252, 236, 135)
+|container-hover-stroke-color=rgba(207, 159, 45)
+|background-url=http://www.scp-wiki.net/local--files/djkaktus/deco.jpg
+|background-vertical-position=50%
+|link-fill-color=rgb(215, 215, 215)
+|link-stroke-width=0.125rem
+|link-stroke-color=rgba(0, 0, 0)
+|anchor=001-DJK2
+|link=http://www.scp-zh-tr.wikidot.com/djkaktus-s-proposal-ii
+|title=SCP-001-DJK2
+|sub-title=贖罪
+|blerb=**這是唯一的出路。**
+]]
+@@@@
+
+[[include component:scp-hover-box-structure
+|container-number=lahire
+|container-bgcolor=rgba(70, 56, 33)
+|container-txtcolor=rgba(244, 244, 244)
+|container-hover-bgcolor=rgba(185, 150, 80)
+|container-hover-txtcolor=rgba(70, 56, 33)
+|container-stroke-color=rgba(252, 236, 135)
+|container-hover-stroke-color=rgba(207, 159, 45)
+|background-url=http://www.scp-wiki.net/local--files/djkaktus/deco.jpg
+|background-vertical-position=50%
+|link-fill-color=rgb(215, 215, 215)
+|link-stroke-width=0.125rem
+|link-stroke-color=rgba(0, 0, 0)
+|anchor=2254
+|link=http://www.scp-zh-tr.wikidot.com/SCP-2254
+|title=SCP-2254
+|sub-title=僱傭惡魔
+|blerb=//**Jack's bout as much daddy as they've had.**//
+]]
+@@@@
+
+[[include component:scp-hover-box-structure
+|container-number=abnormalities
+|container-bgcolor=rgb(239, 239, 239)
+|container-txtcolor=rgba(0, 0, 0)
+|container-hover-bgcolor=rgb(1, 1, 1)
+|container-hover-txtcolor=rgba(255, 255, 255)
+|container-stroke-color=rgba(204, 200, 199)
+|container-hover-stroke-color=rgba(213, 82, 17)
+|background-url=http://www.scp-wiki.net/local--files/djkaktus/deco.jpg
+|background-vertical-position=30%
+|link-fill-color=rgb(253, 253, 253)
+|link-stroke-width=0.125rem
+|link-stroke-color=rgba(0, 0, 0)
+|anchor=3790
+|link=http://www.scp-zh-tr.wikidot.com/SCP-3790
+|title=SCP-3790
+|sub-title=異常部門
+|blerb=**一個又高又黑的木箱靠在後牆上。**
+]]
+@@@@
+
+[[include component:scp-hover-box-structure
+|container-number=luke
+|container-bgcolor=rgba(70, 56, 33)
+|container-txtcolor=rgba(244, 244, 244)
+|container-hover-bgcolor=rgba(185, 150, 80)
+|container-hover-txtcolor=rgba(70, 56, 33)
+|container-stroke-color=rgba(252, 236, 135)
+|container-hover-stroke-color=rgba(207, 159, 45)
+|background-url=http://www.scp-wiki.net/local--files/djkaktus/deco.jpg
+|background-vertical-position=50%
+|link-fill-color=rgb(215, 215, 215)
+|link-stroke-width=0.125rem
+|link-stroke-color=rgba(0, 0, 0)
+|anchor=3293
+|link=http://www.scp-zh-tr.wikidot.com/SCP-3293
+|title=SCP-3293
+|sub-title=你不能回家
+|blerb=**看！女士，我做了個電視機。**
+]]
+@@@@
+
+[[include component:scp-hover-box-structure
+|container-number=meme
+|container-bgcolor=rgba(70, 56, 33)
+|container-txtcolor=rgba(244, 244, 244)
+|container-hover-bgcolor=rgba(185, 150, 80)
+|container-hover-txtcolor=rgba(70, 56, 33)
+|container-stroke-color=rgba(252, 236, 135)
+|container-hover-stroke-color=rgba(207, 159, 45)
+|background-url=http://www.scp-wiki.net/local--files/djkaktus/deco.jpg
+|background-vertical-position=50%
+|link-fill-color=rgb(215, 215, 215)
+|link-stroke-width=0.125rem
+|link-stroke-color=rgba(0, 0, 0)
+|anchor=3625
+|link=http://www.scp-zh-tr.wikidot.com/SCP-3625
+|title=SCP-3625
+|sub-title=偉大的美利堅網紅機器
+|blerb=~徹底惹怒了網民~
+//**Cartoon women. False bravado. Manufactured masculinity.**//
+]]
+@@@@
+
+[[include component:scp-hover-box-structure
+|container-number=tower
+|container-bgcolor=rgba(70, 56, 33)
+|container-txtcolor=rgba(244, 244, 244)
+|container-hover-bgcolor=rgba(185, 150, 80)
+|container-hover-txtcolor=rgba(70, 56, 33)
+|container-stroke-color=rgba(252, 236, 135)
+|container-hover-stroke-color=rgba(207, 159, 45)
+|background-url=http://www.scp-wiki.net/local--files/djkaktus/deco.jpg
+|background-vertical-position=50%
+|link-fill-color=rgb(215, 215, 215)
+|link-stroke-width=0.125rem
+|link-stroke-color=rgba(0, 0, 0)
+|anchor=3333
+|link=http://www.scp-zh-tr.wikidot.com/SCP-3333
+|title=SCP-3333
+|sub-title=怪塔
+|blerb=與Jekeled和minmin合著
+**眾所皆知，狐狸吃舌頭。你知道嗎？**
+]]
+@@@@
+
+[[include component:scp-hover-box-structure
+|container-number=bat
+|container-bgcolor=rgba(70, 56, 33)
+|container-txtcolor=rgba(244, 244, 244)
+|container-hover-bgcolor=rgba(185, 150, 80)
+|container-hover-txtcolor=rgba(70, 56, 33)
+|container-stroke-color=rgba(252, 236, 135)
+|container-hover-stroke-color=rgba(207, 159, 45)
+|background-url=http://www.scp-wiki.net/local--files/djkaktus/deco.jpg
+|background-vertical-position=50%
+|link-fill-color=rgb(215, 215, 215)
+|link-stroke-width=0.125rem
+|link-stroke-color=rgba(0, 0, 0)
+|anchor=2398 
+|link=http://www.scp-zh-tr.wikidot.com/SCP-2398 
+|title=SCP-2398 
+|sub-title=全壘打球棒
+|blerb=**（停頓）噢，幹。我猜不只這樣，嗯?**
+]]
+@@@@
+
+[[include component:scp-hover-box-structure
+|container-number=gore
+|container-bgcolor=rgba(70, 56, 33)
+|container-txtcolor=rgba(244, 244, 244)
+|container-hover-bgcolor=rgba(185, 150, 80)
+|container-hover-txtcolor=rgba(70, 56, 33)
+|container-stroke-color=rgba(252, 236, 135)
+|container-hover-stroke-color=rgba(207, 159, 45)
+|background-url=http://www.scp-wiki.net/local--files/djkaktus/deco.jpg
+|background-vertical-position=50%
+|link-fill-color=rgb(215, 215, 215)
+|link-stroke-width=0.125rem
+|link-stroke-color=rgba(0, 0, 0)
+|anchor=4444
+|link=http://www.scp-zh-tr.wikidot.com/SCP-4444
+|title=SCP-4444
+|sub-title=布希 vs 高爾
+|blerb=SCP-4000競賽第二名
+**確實，尖刺叔叔是位//非常//不受歡迎的人物。**
+]]
+@@@@
+
+[[include component:scp-hover-box-structure
+|container-number=tabooer
+|container-bgcolor=rgba(70, 56, 33)
+|container-txtcolor=rgba(244, 244, 244)
+|container-hover-bgcolor=rgba(185, 150, 80)
+|container-hover-txtcolor=rgba(70, 56, 33)
+|container-stroke-color=rgba(252, 236, 135)
+|container-hover-stroke-color=rgba(207, 159, 45)
+|background-url=http://www.scp-wiki.net/local--files/djkaktus/deco.jpg
+|background-vertical-position=50%
+|link-fill-color=rgb(215, 215, 215)
+|link-stroke-width=0.125rem
+|link-stroke-color=rgba(0, 0, 0)
+|anchor=4000-J
+|link=http://www.scp-zh-tr.wikidot.com/SCP-4000-J
+|title=SCP-4000-J
+|sub-title=禁忌之地2：更忌諱之地
+|blerb=**我從來不認識我的阿公**
+]]
+@@@@
+
+[[include component:scp-hover-box-structure
+|container-number=MANZOO
+|container-bgcolor=rgba(70, 56, 33)
+|container-txtcolor=rgba(244, 244, 244)
+|container-hover-bgcolor=rgba(185, 150, 80)
+|container-hover-txtcolor=rgba(70, 56, 33)
+|container-stroke-color=rgba(252, 236, 135)
+|container-hover-stroke-color=rgba(207, 159, 45)
+|background-url=http://www.scp-wiki.net/local--files/djkaktus/deco.jpg
+|background-vertical-position=50%
+|link-fill-color=rgb(215, 215, 215)
+|link-stroke-width=0.125rem
+|link-stroke-color=rgba(0, 0, 0)
+|anchor=MZL1730
+|link=http://www.scp-zh-tr.wikidot.com/MZL-1730
+|title=MZL-1730
+|sub-title=Site-19怎麼了？
+|blerb=**拜託，Tim。我們可不要在這些孩子面前出醜。**
+]]
+@@@@
+
+[[include component:scp-hover-box-structure
+|container-number=september
+|container-bgcolor=rgba(70, 56, 33)
+|container-txtcolor=rgba(244, 244, 244)
+|container-hover-bgcolor=rgba(185, 150, 80)
+|container-hover-txtcolor=rgba(70, 56, 33)
+|container-stroke-color=rgba(252, 236, 135)
+|container-hover-stroke-color=rgba(207, 159, 45)
+|background-url=http://www.scp-wiki.net/local--files/djkaktus/deco.jpg
+|background-vertical-position=50%
+|link-fill-color=rgb(215, 215, 215)
+|link-stroke-width=0.125rem
+|link-stroke-color=rgba(0, 0, 0)
+|anchor=4911
+|link=http://www.scp-zh-tr.wikidot.com/SCP-4911
+|title=SCP-4911
+|sub-title=2001年9月11日
+|blerb=**讓我覺得我們可以挺過去。讓它稍微變得好些。**
+]]
+@@@@
+
+[[include component:scp-hover-box-structure
+|container-number=wrath
+|container-bgcolor=rgba(70, 56, 33)
+|container-txtcolor=rgba(244, 244, 244)
+|container-hover-bgcolor=rgba(185, 150, 80)
+|container-hover-txtcolor=rgba(70, 56, 33)
+|container-stroke-color=rgba(252, 236, 135)
+|container-hover-stroke-color=rgba(207, 159, 45)
+|background-url=http://www.scp-wiki.net/local--files/djkaktus/deco.jpg
+|background-vertical-position=50%
+|link-fill-color=rgb(215, 215, 215)
+|link-stroke-width=0.125rem
+|link-stroke-color=rgba(0, 0, 0)
+|anchor=4812
+|link=http://www.scp-zh-tr.wikidot.com/SCP-4812
+|title=SCP-4812
+|sub-title=憤怒
+|blerb=**我們已經確認我們恐懼甚麼。他們並不知道它，但他們已經發現她了。**
+]]
+@@@@
+
+[[include component:scp-hover-box-structure
+|container-number=TWIE
+|container-bgcolor=rgba(70, 56, 33)
+|container-txtcolor=rgba(244, 244, 244)
+|container-hover-bgcolor=rgba(185, 150, 80)
+|container-hover-txtcolor=rgba(70, 56, 33)
+|container-stroke-color=rgba(252, 236, 135)
+|container-hover-stroke-color=rgba(207, 159, 45)
+|background-url=http://www.scp-wiki.net/local--files/djkaktus/deco.jpg
+|background-vertical-position=50%
+|link-fill-color=rgb(215, 215, 215)
+|link-stroke-width=0.125rem
+|link-stroke-color=rgba(0, 0, 0)
+|anchor=001-DJK3
+|link=http://www.scp-zh-tr.wikidot.com/djkaktus-s-proposal-iii
+|title=SCP-001-DJK3
+|sub-title=終結的方式
+|blerb=**沒有所謂的善良，也沒有所謂的邪惡。**
+]]
+@@@@
+
+[[include component:scp-hover-box-structure
+|container-number=eye
+|container-bgcolor=rgba(70, 56, 33)
+|container-txtcolor=rgba(244, 244, 244)
+|container-hover-bgcolor=rgba(185, 150, 80)
+|container-hover-txtcolor=rgba(70, 56, 33)
+|container-stroke-color=rgba(252, 236, 135)
+|container-hover-stroke-color=rgba(207, 159, 45)
+|background-url=http://www.scp-wiki.net/local--files/djkaktus/deco.jpg
+|background-vertical-position=50%
+|link-fill-color=rgb(215, 215, 215)
+|link-stroke-width=0.125rem
+|link-stroke-color=rgba(0, 0, 0)
+|anchor=4760
+|link=http://www.scp-zh-tr.wikidot.com/SCP-4760
+|title=SCP-4760
+|sub-title=以眼還眼
+|blerb=**我們必須埋了它，艾薩克。**
+]]
+@@@@
+
+[[include component:scp-hover-box-structure
+|container-number=hereafter
+|container-bgcolor=rgba(70, 56, 33)
+|container-txtcolor=rgba(244, 244, 244)
+|container-hover-bgcolor=rgba(185, 150, 80)
+|container-hover-txtcolor=rgba(70, 56, 33)
+|container-stroke-color=rgba(252, 236, 135)
+|container-hover-stroke-color=rgba(207, 159, 45)
+|background-url=http://www.scp-wiki.net/local--files/djkaktus/deco.jpg
+|background-vertical-position=50%
+|link-fill-color=rgb(215, 215, 215)
+|link-stroke-width=0.125rem
+|link-stroke-color=rgba(0, 0, 0)
+|anchor=4935
+|link=http://www.scp-zh-tr.wikidot.com/SCP-4935
+|title=SCP-4935
+|sub-title=往後
+|blerb=**你只是傾刻間的生物伴隨著不起眼的存在，你根本不了解是甚麼讓你感到痛苦。**
+]]
+@@@@
+
+[[include component:scp-hover-box-structure
+|container-number=hadley
+|container-bgcolor=rgba(70, 56, 33)
+|container-txtcolor=rgba(244, 244, 244)
+|container-hover-bgcolor=rgba(185, 150, 80)
+|container-hover-txtcolor=rgba(70, 56, 33)
+|container-stroke-color=rgba(252, 236, 135)
+|container-hover-stroke-color=rgba(207, 159, 45)
+|background-url=http://www.scp-wiki.net/local--files/djkaktus/deco.jpg
+|background-vertical-position=50%
+|link-fill-color=rgb(215, 215, 215)
+|link-stroke-width=0.125rem
+|link-stroke-color=rgba(0, 0, 0)
+|anchor=4173
+|link=http://www.scp-zh-tr.wikidot.com/SCP-4173
+|title=SCP-4173
+|sub-title=Hadley山丘上的房子
+|blerb=**感謝您的到來。已經有許久沒人來過了，還帶著一份禮物？真是貼心，您真是友善，對我如此友善。**
+]]
+@@@@
+
+[[include component:scp-hover-box-structure
+|container-number=getfuckedbrightyouineffectivepieceofshit
+|container-bgcolor=rgba(70, 56, 33)
+|container-txtcolor=rgba(244, 244, 244)
+|container-hover-bgcolor=rgba(185, 150, 80)
+|container-hover-txtcolor=rgba(70, 56, 33)
+|container-stroke-color=rgba(252, 236, 135)
+|container-hover-stroke-color=rgba(207, 159, 45)
+|background-url=http://www.scp-wiki.net/local--files/djkaktus/deco.jpg
+|background-vertical-position=50%
+|link-fill-color=rgb(215, 215, 215)
+|link-stroke-width=0.125rem
+|link-stroke-color=rgba(0, 0, 0)
+|anchor=4498
+|link=http://www.scp-zh-tr.wikidot.com/SCP-4498
+|title=SCP-4498
+|sub-title=數個Jack Bright
+|blerb=**好的，看著，對，這可能不是我最好的操作。**
+]]
+@@@@
+
+[[include component:scp-hover-box-structure
+|container-number=bear2
+|corner-cutout=0em
+|container-bgcolor=rgba(70, 56, 33)
+|container-txtcolor=rgba(244, 244, 244)
+|container-hover-bgcolor=rgba(185, 150, 80)
+|container-hover-txtcolor=rgba(70, 56, 33)
+|container-stroke-color=rgba(252, 236, 135)
+|container-hover-stroke-color=rgba(207, 159, 45)
+|background-url=http://www.scp-wiki.net/local--files/djkaktus/deco.jpg
+|background-vertical-position=50%
+|link-fill-color=rgb(215, 215, 215)
+|link-stroke-width=0.125rem
+|link-stroke-color=rgba(0, 0, 0)
+|anchor=001-B
+|link=http://www.scp-wiki.net/djkaktus-s-proposal-J
+|title=SCP-001-B
+|sub-title=RUMBLY IN ITS TUMBLY
+|blerb=**None will escape the hunger inside me.**
+]]
+@@@@
+
+[[include component:scp-hover-box-structure
+|container-number=hatestar
+|corner-cutout=0em
+|container-bgcolor=rgba(70, 56, 33)
+|container-txtcolor=rgba(244, 244, 244)
+|container-hover-bgcolor=rgba(185, 150, 80)
+|container-hover-txtcolor=rgba(70, 56, 33)
+|container-stroke-color=rgba(252, 236, 135)
+|container-hover-stroke-color=rgba(207, 159, 45)
+|background-url=http://www.scp-wiki.net/local--files/djkaktus/deco.jpg
+|background-vertical-position=50%
+|link-fill-color=rgb(215, 215, 215)
+|link-stroke-width=0.125rem
+|link-stroke-color=rgba(0, 0, 0)
+|anchor=4548
+|link=http://www.scp-wiki.net/scp-4548
+|title=SCP-4548
+|sub-title=The Hateful Star
+|blerb=**Little words in there, in the song, to let me know how much everything hates me.**
+]]
+@@@@
+
+[[include component:scp-hover-box-structure
+|container-number=maze
+|corner-cutout=0em
+|container-bgcolor=rgba(70, 56, 33)
+|container-txtcolor=rgba(244, 244, 244)
+|container-hover-bgcolor=rgba(185, 150, 80)
+|container-hover-txtcolor=rgba(70, 56, 33)
+|container-stroke-color=rgba(252, 236, 135)
+|container-hover-stroke-color=rgba(207, 159, 45)
+|background-url=http://www.scp-wiki.net/local--files/djkaktus/deco.jpg
+|background-vertical-position=50%
+|link-fill-color=rgb(215, 215, 215)
+|link-stroke-width=0.125rem
+|link-stroke-color=rgba(0, 0, 0)
+|anchor=4390
+|link=http://www.scp-wiki.net/scp-4390
+|title=SCP-4390
+|sub-title=A Bad Maze
+|blerb=**//There was no "The Maze"//. Just "The Maze 2". This is the sort of shit I'm talking about.**
+]]
+@@@@
+
+[[include component:scp-hover-box-structure
+|container-number=witch
+|corner-cutout=0em
+|container-bgcolor=rgba(70, 56, 33)
+|container-txtcolor=rgba(244, 244, 244)
+|container-hover-bgcolor=rgba(185, 150, 80)
+|container-hover-txtcolor=rgba(70, 56, 33)
+|container-stroke-color=rgba(252, 236, 135)
+|container-hover-stroke-color=rgba(207, 159, 45)
+|background-url=http://www.scp-wiki.net/local--files/djkaktus/deco.jpg
+|background-vertical-position=50%
+|link-fill-color=rgb(215, 215, 215)
+|link-stroke-width=0.125rem
+|link-stroke-color=rgba(0, 0, 0)
+|anchor=4595
+|link=http://www.scp-wiki.net/scp-4595
+|title=SCP-4595
+|sub-title=WITCH
+|blerb=**The exterior of the door is marked with the word "WITCH" written in charcoal.**
+]]
+@@@@
+[[include component:scp-hover-box-structure
+|container-number=rituals
+|corner-cutout=0em
+|container-bgcolor=rgba(70, 56, 33)
+|container-txtcolor=rgba(244, 244, 244)
+|container-hover-bgcolor=rgba(185, 150, 80)
+|container-hover-txtcolor=rgba(70, 56, 33)
+|container-stroke-color=rgba(252, 236, 135)
+|container-hover-stroke-color=rgba(207, 159, 45)
+|background-url=http://www.scp-wiki.net/local--files/djkaktus/deco.jpg
+|background-vertical-position=50%
+|link-fill-color=rgb(215, 215, 215)
+|link-stroke-width=0.125rem
+|link-stroke-color=rgba(0, 0, 0)
+|anchor=4971
+|link=http://www.scp-wiki.net/scp-4971
+|title=SCP-4971
+|sub-title=Rituals
+|blerb=**How do you kill a god?**
+]]
+
+
+[[/div]]
+@@@@
+[[image http://scp-wiki.wdfiles.com/local--files/djkaktus/kaktus1.png width="75px"]][[image https://i.imgur.com/leGPcBy.png]][[image http://scp-wiki.wdfiles.com/local--files/djkaktus/kaktus.png width="75px"]]
+[[# Tales]]
+-----
+
+[[div_ class="scp-container"]]
+[[include component:scp-hover-box-structure
+|container-number=oldchilly
+|container-bgcolor=rgba(70, 56, 33)
+|container-txtcolor=rgba(244, 244, 244)
+|container-hover-bgcolor=rgba(185, 150, 80)
+|container-hover-txtcolor=rgba(70, 56, 33)
+|container-stroke-color=rgba(252, 236, 135)
+|container-hover-stroke-color=rgba(207, 159, 45)
+|background-url=http://www.scp-wiki.net/local--files/djkaktus/deco.jpg
+|link-fill-color=rgb(215, 215, 215)
+|link-stroke-width=0.125rem
+|link-stroke-color=rgba(0, 0, 0)
+|anchor=old-chilly
+|link=http://www.scp-zh-tr.wikidot.com/chilly-the-space-trucker
+|title=音軌1：太空卡車司機老Chilly
+|sub-title=海星座
+|blerb=**我真的不曾離一個人造衛星那麼遠/除非我是在比鄰星過夜。**
+]]
+@@@@
+
+[[include component:scp-hover-box-structure
+|container-number=bookofdave
+|container-bgcolor=rgba(70, 56, 33)
+|container-txtcolor=rgba(244, 244, 244)
+|container-hover-bgcolor=rgba(185, 150, 80)
+|container-hover-txtcolor=rgba(70, 56, 33)
+|container-stroke-color=rgba(252, 236, 135)
+|container-hover-stroke-color=rgba(207, 159, 45)
+|background-url=http://www.scp-wiki.net/local--files/djkaktus/deco.jpg
+|link-fill-color=rgb(215, 215, 215)
+|link-stroke-width=0.125rem
+|link-stroke-color=rgba(0, 0, 0)
+|anchor=Book-of-Dave
+|link=http://www.scp-zh-tr.wikidot.com/the-book-of-dave
+|title=音軌2：Dave之書
+|sub-title=海星座
+|blerb=**它是一本Dave之書，它是一本Dave之書！**
+]]
+@@@@
+
+[[include component:scp-hover-box-structure
+|container-number=surfside
+|container-bgcolor=rgba(70, 56, 33)
+|container-txtcolor=rgba(244, 244, 244)
+|container-hover-bgcolor=rgba(185, 150, 80)
+|container-hover-txtcolor=rgba(70, 56, 33)
+|container-stroke-color=rgba(252, 236, 135)
+|container-hover-stroke-color=rgba(207, 159, 45)
+|background-url=http://www.scp-wiki.net/local--files/djkaktus/deco.jpg
+|link-fill-color=rgb(215, 215, 215)
+|link-stroke-width=0.125rem
+|link-stroke-color=rgba(0, 0, 0)
+|anchor=Surfside-Beat
+|link=http://www.scp-zh-tr.wikidot.com/the-surfside-beat
+|title=浪灘節奏
+|sub-title=海星座
+|blerb=**拜託，McKinney。你不是已經讀過我的報告了？**
+]]
+@@@@
+
+[[include component:scp-hover-box-structure
+|container-number=faceofgod
+|container-bgcolor=rgba(70, 56, 33)
+|container-txtcolor=rgba(244, 244, 244)
+|container-hover-bgcolor=rgba(185, 150, 80)
+|container-hover-txtcolor=rgba(70, 56, 33)
+|container-stroke-color=rgba(252, 236, 135)
+|container-hover-stroke-color=rgba(207, 159, 45)
+|background-url=http://www.scp-wiki.net/local--files/djkaktus/deco.jpg
+|link-fill-color=rgb(215, 215, 215)
+|link-stroke-width=0.125rem
+|link-stroke-color=rgba(0, 0, 0)
+|anchor=Face-of-God
+|link=http://www.scp-zh-tr.wikidot.com/the-face-of-god
+|title=浪灘節奏
+|sub-title=海星座
+|blerb=**你有見過神嗎，Clyde？**
+]]
+@@@@
+
+[[include component:scp-hover-box-structure
+|container-number=youandme
+|container-bgcolor=rgba(70, 56, 33)
+|container-txtcolor=rgba(244, 244, 244)
+|container-hover-bgcolor=rgba(185, 150, 80)
+|container-hover-txtcolor=rgba(70, 56, 33)
+|container-stroke-color=rgba(252, 236, 135)
+|container-hover-stroke-color=rgba(207, 159, 45)
+|background-url=http://www.scp-wiki.net/local--files/djkaktus/deco.jpg
+|link-fill-color=rgb(215, 215, 215)
+|link-stroke-width=0.125rem
+|link-stroke-color=rgba(0, 0, 0)
+|anchor=You-and-Me
+|link=http://www.scp-zh-tr.wikidot.com/you-and-me
+|title=音軌3：你與我
+|sub-title=海星座
+|blerb=**我要離開這與群星共舞。**
+]]
+@@@@
+
+[[include component:scp-hover-box-structure
+|container-number=sirensong
+|container-bgcolor=rgba(70, 56, 33)
+|container-txtcolor=rgba(244, 244, 244)
+|container-hover-bgcolor=rgba(185, 150, 80)
+|container-hover-txtcolor=rgba(70, 56, 33)
+|container-stroke-color=rgba(252, 236, 135)
+|container-hover-stroke-color=rgba(207, 159, 45)
+|background-url=http://www.scp-wiki.net/local--files/djkaktus/deco.jpg
+|link-fill-color=rgb(215, 215, 215)
+|link-stroke-width=0.125rem
+|link-stroke-color=rgba(0, 0, 0)
+|anchor=Siren-Song
+|link=http://www.scp-zh-tr.wikidot.com/could-find-my-way-to-mariana
+|title=海妖之歌
+|sub-title=海星座
+|blerb=與Faminepulse和Soulless合著
+**Morgan仰望凝視，然後看著他的朋友們，一起離開，並為下一場演出做準備。**
+]]
+@@@@
+
+[[include component:scp-hover-box-structure
+|container-number=farewells
+|container-bgcolor=rgba(70, 56, 33)
+|container-txtcolor=rgba(244, 244, 244)
+|container-hover-bgcolor=rgba(185, 150, 80)
+|container-hover-txtcolor=rgba(70, 56, 33)
+|container-stroke-color=rgba(252, 236, 135)
+|container-hover-stroke-color=rgba(207, 159, 45)
+|background-url=http://www.scp-wiki.net/local--files/djkaktus/deco.jpg
+|link-fill-color=rgb(215, 215, 215)
+|link-stroke-width=0.125rem
+|link-stroke-color=rgba(0, 0, 0)
+|anchor=Three-Farewells
+|link=http://www.scp-zh-tr.wikidot.com/three-farewells
+|title=三個告別
+|sub-title=故事
+|blerb=與Jacob Conwell和TwistedGears合著
+**再會，Karlyle。**
+]]
+@@@@
+
+[[include component:scp-hover-box-structure
+|container-number=fourth
+|container-bgcolor=rgba(70, 56, 33)
+|container-txtcolor=rgba(244, 244, 244)
+|container-hover-bgcolor=rgba(185, 150, 80)
+|container-hover-txtcolor=rgba(70, 56, 33)
+|container-stroke-color=rgba(252, 236, 135)
+|container-hover-stroke-color=rgba(207, 159, 45)
+|background-url=http://www.scp-wiki.net/local--files/djkaktus/deco.jpg
+|link-fill-color=rgb(215, 215, 215)
+|link-stroke-width=0.125rem
+|link-stroke-color=rgba(0, 0, 0)
+|anchor=Fourth-and-Long
+|link=http://www.scp-zh-tr.wikidot.com/fourth-and-long
+|title=漫長的第四回合
+|sub-title=Gloriana Alexylva
+|blerb=**歡迎回來，各位運動迷們！**
+]]
+@@@@
+
+[[include component:scp-hover-box-structure
+|container-number=postgame
+|container-bgcolor=rgba(70, 56, 33)
+|container-txtcolor=rgba(244, 244, 244)
+|container-hover-bgcolor=rgba(185, 150, 80)
+|container-hover-txtcolor=rgba(70, 56, 33)
+|container-stroke-color=rgba(252, 236, 135)
+|container-hover-stroke-color=rgba(207, 159, 45)
+|background-url=http://www.scp-wiki.net/local--files/djkaktus/deco.jpg
+|link-fill-color=rgb(215, 215, 215)
+|link-stroke-width=0.125rem
+|link-stroke-color=rgba(0, 0, 0)
+|anchor=Postgame
+|link=http://www.scp-zh-tr.wikidot.com/postgame
+|title=賽後
+|sub-title=Gloriana Alexylva
+|blerb=**...沒有任何一個工程壯舉可以在手指上點燃火焰。**
+]]
+@@@@
+
+[[include component:scp-hover-box-structure
+|container-number=fearalone
+|container-bgcolor=rgba(70, 56, 33)
+|container-txtcolor=rgba(244, 244, 244)
+|container-hover-bgcolor=rgba(185, 150, 80)
+|container-hover-txtcolor=rgba(70, 56, 33)
+|container-stroke-color=rgba(252, 236, 135)
+|container-hover-stroke-color=rgba(207, 159, 45)
+|background-url=http://www.scp-wiki.net/local--files/djkaktus/deco.jpg
+|link-fill-color=rgb(215, 215, 215)
+|link-stroke-width=0.125rem
+|link-stroke-color=rgba(0, 0, 0)
+|anchor=Fear-Alone
+|link=http://www.scp-zh-tr.wikidot.com/fear-alone
+|title=孤獨恐懼
+|sub-title=故事
+|blerb=**孤獨恐懼就是它唯一所需要的一切。**
+]]
+@@@@
+
+[[include component:scp-hover-box-structure
+|container-number=starch
+|container-bgcolor=rgba(70, 56, 33)
+|container-txtcolor=rgba(244, 244, 244)
+|container-hover-bgcolor=rgba(185, 150, 80)
+|container-hover-txtcolor=rgba(70, 56, 33)
+|container-stroke-color=rgba(252, 236, 135)
+|container-hover-stroke-color=rgba(207, 159, 45)
+|background-url=http://www.scp-wiki.net/local--files/djkaktus/deco.jpg
+|link-fill-color=rgb(215, 215, 215)
+|link-stroke-width=0.125rem
+|link-stroke-color=rgba(0, 0, 0)
+|anchor=Starch-and-Cream
+|link=http://www.scp-zh-tr.wikidot.com/starch-and-cream
+|title=澱粉與奶油
+|sub-title=反烏托邦競賽
+|blerb=2014年反烏托邦競賽第三名
+**這遲早會顯現的，先生，似乎我們的敵人比我們預想中還要來得強。**
+]]
+@@@@
+
+[[include component:scp-hover-box-structure
+|container-number=Reconciliation
+|container-bgcolor=rgba(70, 56, 33)
+|container-txtcolor=rgba(244, 244, 244)
+|container-hover-bgcolor=rgba(185, 150, 80)
+|container-hover-txtcolor=rgba(70, 56, 33)
+|container-stroke-color=rgba(252, 236, 135)
+|container-hover-stroke-color=rgba(207, 159, 45)
+|background-url=http://www.scp-wiki.net/local--files/djkaktus/deco.jpg
+|link-fill-color=rgb(215, 215, 215)
+|link-stroke-width=0.125rem
+|link-stroke-color=rgba(0, 0, 0)
+|anchor=Reconciliation
+|link=http://www.scp-zh-tr.wikidot.com/reconciliation
+|title=和解
+|sub-title=故事
+|blerb=**在Site-81的深處，裡頭的一個/戒備森嚴的碉堡，一個打開的紅色箱子/在地上。**
+]]
+@@@@
+
+[[include component:scp-hover-box-structure
+|container-number=integrity
+|container-bgcolor=rgba(70, 56, 33)
+|container-txtcolor=rgba(244, 244, 244)
+|container-hover-bgcolor=rgba(185, 150, 80)
+|container-hover-txtcolor=rgba(70, 56, 33)
+|container-stroke-color=rgba(252, 236, 135)
+|container-hover-stroke-color=rgba(207, 159, 45)
+|background-url=http://www.scp-wiki.net/local--files/djkaktus/deco.jpg
+|link-fill-color=rgb(215, 215, 215)
+|link-stroke-width=0.125rem
+|link-stroke-color=rgba(0, 0, 0)
+|anchor=Integrity-Project
+|link=http://www.scp-zh-tr.wikidot.com/integrity-project
+|title=健全計畫
+|sub-title=復甦
+|blerb=**在大山的面前，你只不過是名人類，Jean。**
+]]
+@@@@
+
+[[include component:scp-hover-box-structure
+|container-number=Hugo
+|container-bgcolor=rgba(70, 56, 33)
+|container-txtcolor=rgba(244, 244, 244)
+|container-hover-bgcolor=rgba(185, 150, 80)
+|container-hover-txtcolor=rgba(70, 56, 33)
+|container-stroke-color=rgba(252, 236, 135)
+|container-hover-stroke-color=rgba(207, 159, 45)
+|background-url=http://www.scp-wiki.net/local--files/djkaktus/deco.jpg
+|link-fill-color=rgb(215, 215, 215)
+|link-stroke-width=0.125rem
+|link-stroke-color=rgba(0, 0, 0)
+|anchor=Hugo-Hijinks
+|link=http://www.scp-zh-tr.wikidot.com/hugo-hijinks
+|title=雨果的玩樂時光
+|sub-title=字母學習表
+|blerb=**你想要我對那隻企鵝做什麼？**
+]]
+@@@@
+
+[[include component:scp-hover-box-structure
+|container-number=resources
+|container-bgcolor=rgba(70, 56, 33)
+|container-txtcolor=rgba(244, 244, 244)
+|container-hover-bgcolor=rgba(185, 150, 80)
+|container-hover-txtcolor=rgba(70, 56, 33)
+|container-stroke-color=rgba(252, 236, 135)
+|container-hover-stroke-color=rgba(207, 159, 45)
+|background-url=http://www.scp-wiki.net/local--files/djkaktus/deco.jpg
+|link-fill-color=rgb(215, 215, 215)
+|link-stroke-width=0.125rem
+|link-stroke-color=rgba(0, 0, 0)
+|anchor=Additional-Resources
+|link=http://www.scp-zh-tr.wikidot.com/additional-resources
+|title=增員
+|sub-title=復甦
+|blerb=與Lurkd合著
+**恐怕他並不會在Site-81。**
+]]
+@@@@
+
+[[include component:scp-hover-box-structure
+|container-number=folly
+|container-bgcolor=rgba(70, 56, 33)
+|container-txtcolor=rgba(244, 244, 244)
+|container-hover-bgcolor=rgba(185, 150, 80)
+|container-hover-txtcolor=rgba(70, 56, 33)
+|container-stroke-color=rgba(252, 236, 135)
+|container-hover-stroke-color=rgba(207, 159, 45)
+|background-url=http://www.scp-wiki.net/local--files/djkaktus/deco.jpg
+|link-fill-color=rgb(215, 215, 215)
+|link-stroke-width=0.125rem
+|link-stroke-color=rgba(0, 0, 0)
+|anchor=Folly
+|link=http://www.scp-zh-tr.wikidot.com/folly
+|title=胡說八道
+|sub-title=復甦
+|blerb=**你對於沒有多少比Able友善的怪物這件事是對的，騙子。**
+]]
+@@@@
+
+[[include component:scp-hover-box-structure
+|container-number=sitechristmas
+|container-bgcolor=rgba(70, 56, 33)
+|container-txtcolor=rgba(244, 244, 244)
+|container-hover-bgcolor=rgba(185, 150, 80)
+|container-hover-txtcolor=rgba(70, 56, 33)
+|container-stroke-color=rgba(252, 236, 135)
+|container-hover-stroke-color=rgba(207, 159, 45)
+|background-url=http://www.scp-wiki.net/local--files/djkaktus/deco.jpg
+|link-fill-color=rgb(215, 215, 215)
+|link-stroke-width=0.125rem
+|link-stroke-color=rgba(0, 0, 0)
+|anchor=S19-Xmas-Carol
+|link=http://www.scp-zh-tr.wikidot.com/a-site-19-christmas-carol
+|title=Site-19的聖誕頌歌
+|sub-title=故事
+|blerb=**但你從來沒見過看起來跟我一樣的東西，不是嗎？**
+]]
+@@@@
+
+[[include component:scp-hover-box-structure
+|container-number=lastgoodman
+|container-bgcolor=rgba(70, 56, 33)
+|container-txtcolor=rgba(244, 244, 244)
+|container-hover-bgcolor=rgba(185, 150, 80)
+|container-hover-txtcolor=rgba(70, 56, 33)
+|container-stroke-color=rgba(252, 236, 135)
+|container-hover-stroke-color=rgba(207, 159, 45)
+|background-url=http://www.scp-wiki.net/local--files/djkaktus/deco.jpg
+|link-fill-color=rgb(215, 215, 215)
+|link-stroke-width=0.125rem
+|link-stroke-color=rgba(0, 0, 0)
+|anchor=Last-Good-Man
+|link=http://www.scp-zh-tr.wikidot.com/the-last-good-man-in-the-foundation
+|title=基金會裡的最後一位好人
+|sub-title=故事
+|blerb=**這真的是我們在保護的人性？還是這只是一場假面舞會？**
+]]
+@@@@
+
+[[include component:scp-hover-box-structure
+|container-number=siteeightone
+|container-bgcolor=rgba(70, 56, 33)
+|container-txtcolor=rgba(244, 244, 244)
+|container-hover-bgcolor=rgba(185, 150, 80)
+|container-hover-txtcolor=rgba(70, 56, 33)
+|container-stroke-color=rgba(252, 236, 135)
+|container-hover-stroke-color=rgba(207, 159, 45)
+|background-url=http://www.scp-wiki.net/local--files/djkaktus/deco.jpg
+|link-fill-color=rgb(215, 215, 215)
+|link-stroke-width=0.125rem
+|link-stroke-color=rgba(0, 0, 0)
+|anchor=Site-81-Dossier
+|link=http://www.scp-zh-tr.wikidot.com/secure-facility-dossier-site-81
+|title=保安設施記錄檔：Site-81
+|sub-title=設施記錄檔
+|blerb=**USINBL-Site-81**
+SCP基金會布魯明頓研究暨收容設施
+]]
+@@@@
+
+[[include component:scp-hover-box-structure
+|container-number=atzakI
+|container-bgcolor=rgba(70, 56, 33)
+|container-txtcolor=rgba(244, 244, 244)
+|container-hover-bgcolor=rgba(185, 150, 80)
+|container-hover-txtcolor=rgba(70, 56, 33)
+|container-stroke-color=rgba(252, 236, 135)
+|container-hover-stroke-color=rgba(207, 159, 45)
+|background-url=http://www.scp-wiki.net/local--files/djkaktus/deco.jpg
+|link-fill-color=rgb(215, 215, 215)
+|link-stroke-width=0.125rem
+|link-stroke-color=rgba(0, 0, 0)
+|anchor=Atzak-I
+|link=http://www.scp-zh-tr.wikidot.com/Atzak-I
+|title=Atzak之一
+|sub-title=Atzak
+|blerb=**你總是很難記住事物。你想知道為甚麼。**
+]]
+@@@@
+
+[[include component:scp-hover-box-structure
+|container-number=atzakII
+|container-bgcolor=rgba(70, 56, 33)
+|container-txtcolor=rgba(244, 244, 244)
+|container-hover-bgcolor=rgba(185, 150, 80)
+|container-hover-txtcolor=rgba(70, 56, 33)
+|container-stroke-color=rgba(252, 236, 135)
+|container-hover-stroke-color=rgba(207, 159, 45)
+|background-url=http://www.scp-wiki.net/local--files/djkaktus/deco.jpg
+|link-fill-color=rgb(215, 215, 215)
+|link-stroke-width=0.125rem
+|link-stroke-color=rgba(0, 0, 0)
+|anchor=Atzak-II
+|link=http://www.scp-zh-tr.wikidot.com/Atzak-II
+|title=Atzak之二
+|sub-title=Atzak
+|blerb=**你要去做什麼？**
+]]
+@@@@
+
+[[include component:scp-hover-box-structure
+|container-number=panagakos
+|container-bgcolor=rgba(70, 56, 33)
+|container-txtcolor=rgba(244, 244, 244)
+|container-hover-bgcolor=rgba(185, 150, 80)
+|container-hover-txtcolor=rgba(70, 56, 33)
+|container-stroke-color=rgba(252, 236, 135)
+|container-hover-stroke-color=rgba(207, 159, 45)
+|background-url=http://www.scp-wiki.net/local--files/djkaktus/deco.jpg
+|link-fill-color=rgb(215, 215, 215)
+|link-stroke-width=0.125rem
+|link-stroke-color=rgba(0, 0, 0)
+|anchor=Panagakos
+|link=http://www.scp-zh-tr.com/coach-panagakos-eldest-and-most-revered
+|title=最年長最受尊敬的教練Panagakos
+|sub-title=Gloriana Alexylva
+|blerb=**至少我們能耍些小花招給他們搔搔癢。**
+]]
+@@@@
+
+[[include component:scp-hover-box-structure
+|container-number=gridiron
+|container-bgcolor=rgba(70, 56, 33)
+|container-txtcolor=rgba(244, 244, 244)
+|container-hover-bgcolor=rgba(185, 150, 80)
+|container-hover-txtcolor=rgba(70, 56, 33)
+|container-stroke-color=rgba(252, 236, 135)
+|container-hover-stroke-color=rgba(207, 159, 45)
+|background-url=http://www.scp-wiki.net/local--files/djkaktus/deco.jpg
+|link-fill-color=rgb(215, 215, 215)
+|link-stroke-width=0.125rem
+|link-stroke-color=rgba(0, 0, 0)
+|anchor=Gridiron
+|link=http://www.scp-zh-tr.wikidot.com/the-unforgiving-gridiron
+|title=無情美式足球
+|sub-title=Gloriana Alexylva
+|blerb=**噢，我是Vincenti Andersopolis,，誠摯為您服務。**
+]]
+@@@@
+
+[[include component:scp-hover-box-structure
+|container-number=machina
+|container-bgcolor=rgba(70, 56, 33)
+|container-txtcolor=rgba(244, 244, 244)
+|container-hover-bgcolor=rgba(185, 150, 80)
+|container-hover-txtcolor=rgba(70, 56, 33)
+|container-stroke-color=rgba(252, 236, 135)
+|container-hover-stroke-color=rgba(207, 159, 45)
+|background-url=http://www.scp-wiki.net/local--files/djkaktus/deco.jpg
+|link-fill-color=rgb(215, 215, 215)
+|link-stroke-width=0.125rem
+|link-stroke-color=rgba(0, 0, 0)
+|anchor=machina
+|link=http://www.scp-zh-tr.wikidot.com/anima-ex-machina
+|title=機械降魂
+|sub-title= Gloriana Alexylva
+|blerb=**我在此是為了兩件事，Cron。贏得足球比賽，和贏得他媽的足球比賽。**
+]]
+@@@@
+
+[[include component:scp-hover-box-structure
+|container-number=atzakIII
+|container-bgcolor=rgba(70, 56, 33)
+|container-txtcolor=rgba(244, 244, 244)
+|container-hover-bgcolor=rgba(185, 150, 80)
+|container-hover-txtcolor=rgba(70, 56, 33)
+|container-stroke-color=rgba(252, 236, 135)
+|container-hover-stroke-color=rgba(207, 159, 45)
+|background-url=http://www.scp-wiki.net/local--files/djkaktus/deco.jpg
+|link-fill-color=rgb(215, 215, 215)
+|link-stroke-width=0.125rem
+|link-stroke-color=rgba(0, 0, 0)
+|anchor=Atzak-III
+|link=http://www.scp-zh-tr.wikidot.com/Atzak-III
+|title=Atzak之三
+|sub-title=Atzak
+|blerb=**…從來不曾有過任何憐憫。**
+]]
+@@@@
+
+[[include component:scp-hover-box-structure
+|container-number=dusk
+|corner-cutout=0em
+|container-bgcolor=rgba(70, 56, 33)
+|container-txtcolor=rgba(244, 244, 244)
+|container-hover-bgcolor=rgba(185, 150, 80)
+|container-hover-txtcolor=rgba(70, 56, 33)
+|container-stroke-color=rgba(252, 236, 135)
+|container-hover-stroke-color=rgba(207, 159, 45)
+|background-url=http://www.scp-wiki.net/local--files/djkaktus/deco.jpg
+|link-fill-color=rgb(215, 215, 215)
+|link-stroke-width=0.125rem
+|link-stroke-color=rgba(0, 0, 0)
+|anchor=dusk
+|link=http://www.scp-zh-tr.wikidot.com/dusk
+|title=遲暮
+|sub-title=故事
+|blerb=**因為我們的紫丁香種得太晚/無法過冬。**
+]]
+@@@@
+
+[[include component:scp-hover-box-structure
+|container-number=lightofday
+|corner-cutout=0em
+|container-bgcolor=rgba(70, 56, 33)
+|container-txtcolor=rgba(244, 244, 244)
+|container-hover-bgcolor=rgba(185, 150, 80)
+|container-hover-txtcolor=rgba(70, 56, 33)
+|container-stroke-color=rgba(252, 236, 135)
+|container-hover-stroke-color=rgba(207, 159, 45)
+|background-url=http://www.scp-wiki.net/local--files/djkaktus/deco.jpg
+|link-fill-color=rgb(215, 215, 215)
+|link-stroke-width=0.125rem
+|link-stroke-color=rgba(0, 0, 0)
+|anchor=LightofDay
+|link=http://www.scp-zh-tr.wikidot.com/to-never-again-see-the-light-of-day
+|title=永不見天之日
+|sub-title=故事
+|blerb=**你知道這是什麼，對吧？**
+]]
+@@@@
+
+[[include component:scp-hover-box-structure
+|container-number=smoke
+|corner-cutout=0em
+|container-bgcolor=rgba(70, 56, 33)
+|container-txtcolor=rgba(244, 244, 244)
+|container-hover-bgcolor=rgba(185, 150, 80)
+|container-hover-txtcolor=rgba(70, 56, 33)
+|container-stroke-color=rgba(252, 236, 135)
+|container-hover-stroke-color=rgba(207, 159, 45)
+|background-url=http://www.scp-wiki.net/local--files/djkaktus/deco.jpg
+|link-fill-color=rgb(215, 215, 215)
+|link-stroke-width=0.125rem
+|link-stroke-color=rgba(0, 0, 0)
+|anchor=Smoke
+|link=http://www.scp-zh-tr.wikidot.com/smoke
+|title=灰飛煙滅
+|sub-title=故事
+|blerb=**一週之前，地球在我們腳下震動。**
+]]
+@@@@
+
+[[include component:scp-hover-box-structure
+|container-number=Moonrise
+|corner-cutout=0em
+|container-bgcolor=rgba(70, 56, 33)
+|container-txtcolor=rgba(244, 244, 244)
+|container-hover-bgcolor=rgba(185, 150, 80)
+|container-hover-txtcolor=rgba(70, 56, 33)
+|container-stroke-color=rgba(252, 236, 135)
+|container-hover-stroke-color=rgba(207, 159, 45)
+|background-url=http://www.scp-wiki.net/local--files/djkaktus/deco.jpg
+|link-fill-color=rgb(215, 215, 215)
+|link-stroke-width=0.125rem
+|link-stroke-color=rgba(0, 0, 0)
+|anchor=Moonrise
+|link=http://www.scp-zh-tr.wikidot.com/Moonrise
+|title=月出時分
+|sub-title=故事
+|blerb=**你到底幹了什麼事？**
+]]
+@@@@
+[[/div]]
+
+@@@@
+[[image http://scp-wiki.wdfiles.com/local--files/djkaktus/kaktus1.png width="75px"]][[image https://i.imgur.com/3kNcvkc.png]][[image http://scp-wiki.wdfiles.com/local--files/djkaktus/kaktus.png width="75px"]]
+[[# Hubs]]
+-----
+[[div_ class="scp-container"]]
+[[include component:scp-hover-box-structure
+|container-number=Alexylva-Hub
+|corner-cutout=0em
+|container-bgcolor=rgba(70, 56, 33)
+|container-txtcolor=rgba(244, 244, 244)
+|container-hover-bgcolor=rgba(185, 150, 80)
+|container-hover-txtcolor=rgba(70, 56, 33)
+|container-stroke-color=rgba(252, 236, 135)
+|container-hover-stroke-color=rgba(207, 159, 45)
+|background-url=http://www.scp-wiki.net/local--files/djkaktus/deco.jpg
+|link-fill-color=rgb(215, 215, 215)
+|link-stroke-width=0.125rem
+|link-stroke-color=rgba(0, 0, 0)
+|anchor=Alexylva-Hub
+|link=http://www.scp-zh-tr.wikidot.com/Gloriana-Alexylva-Hub
+|title=Gloriana Alexylva中心頁
+|sub-title=Gloriana
+|blerb=**一系列九部足球故事。**
+]]
+@@@@
+
+[[include component:scp-hover-box-structure
+|container-number=Atzak-Hub
+|corner-cutout=0em
+|container-bgcolor=rgba(70, 56, 33)
+|container-txtcolor=rgba(244, 244, 244)
+|container-hover-bgcolor=rgba(185, 150, 80)
+|container-hover-txtcolor=rgba(70, 56, 33)
+|container-stroke-color=rgba(252, 236, 135)
+|container-hover-stroke-color=rgba(207, 159, 45)
+|background-url=http://www.scp-wiki.net/local--files/djkaktus/deco.jpg
+|link-fill-color=rgb(215, 215, 215)
+|link-stroke-width=0.125rem
+|link-stroke-color=rgba(0, 0, 0)
+|anchor=Atzak-Hub
+|link=http://www.scp-zh-tr.wikidot.com/Atzak-Hub
+|title=Atzak中心頁
+|sub-title=Atzak
+|blerb=**關於恐懼的故事。**
+]]
+@@@@
+
+[[include component:scp-hover-box-structure
+|container-number=KaktusKast-Hub
+|corner-cutout=0em
+|container-bgcolor=rgba(70, 56, 33)
+|container-txtcolor=rgba(244, 244, 244)
+|container-hover-bgcolor=rgba(185, 150, 80)
+|container-hover-txtcolor=rgba(70, 56, 33)
+|container-stroke-color=rgba(252, 236, 135)
+|container-hover-stroke-color=rgba(207, 159, 45)
+|background-url=http://www.scp-wiki.net/local--files/djkaktus/deco.jpg
+|link-fill-color=rgb(215, 215, 215)
+|link-stroke-width=0.125rem
+|link-stroke-color=rgba(0, 0, 0)
+|anchor=KaktusKast-Hub
+|link=http://www.scp-zh-tr.wikidot.com/kaktuskast-hub
+|title=KaktusKast中心頁
+|sub-title=播客
+|blerb=**SCP基金會維基的正式非官方播客**
+]]
+@@@@
+
+[[include component:scp-hover-box-structure
+|container-number=SCPFMMDBC-Hub
+|corner-cutout=0em
+|container-bgcolor=rgba(70, 56, 33)
+|container-txtcolor=rgba(244, 244, 244)
+|container-hover-bgcolor=rgba(185, 150, 80)
+|container-hover-txtcolor=rgba(70, 56, 33)
+|container-stroke-color=rgba(252, 236, 135)
+|container-hover-stroke-color=rgba(207, 159, 45)
+|background-url=http://www.scp-wiki.net/local--files/djkaktus/deco.jpg
+|link-fill-color=rgb(215, 215, 215)
+|link-stroke-width=0.125rem
+|link-stroke-color=rgba(0, 0, 0)
+|anchor=SCPFMMDBC-Hub
+|link=http://www.scp-zh-tr.wikidot.com/SCPFMMDBC-hub
+|title=March Madness中心頁
+|sub-title=陣隊淘汰賽
+|blerb=**這曾經很精彩，不是嗎？**
+]]
+@@@@
+
+[[include component:scp-hover-box-structure
+|container-number=dado-Hub
+|corner-cutout=0em
+|container-bgcolor=rgba(70, 56, 33)
+|container-txtcolor=rgba(244, 244, 244)
+|container-hover-bgcolor=rgba(185, 150, 80)
+|container-hover-txtcolor=rgba(70, 56, 33)
+|container-stroke-color=rgba(252, 236, 135)
+|container-hover-stroke-color=rgba(207, 159, 45)
+|background-url=http://www.scp-wiki.net/local--files/djkaktus/deco.jpg
+|link-fill-color=rgb(215, 215, 215)
+|link-stroke-width=0.125rem
+|link-stroke-color=rgba(0, 0, 0)
+|anchor=dado-Hub
+|link=http://www.scp-zh-tr.wikidot.com/dado-hub
+|title=dado的中心頁是的
+|sub-title=dado
+|blerb=**泥必須相信dado**
+]]
+@@@@
+
+[[include component:scp-hover-box-structure
+|container-number=ouroboros
+|corner-cutout=0em
+|container-bgcolor=rgba(70, 56, 33)
+|container-txtcolor=rgba(244, 244, 244)
+|container-hover-bgcolor=rgba(185, 150, 80)
+|container-hover-txtcolor=rgba(70, 56, 33)
+|container-stroke-color=rgba(252, 236, 135)
+|container-hover-stroke-color=rgba(207, 159, 45)
+|background-url=http://www.scp-wiki.net/local--files/djkaktus/deco.jpg
+|link-fill-color=rgb(215, 215, 215)
+|link-stroke-width=0.125rem
+|link-stroke-color=rgba(0, 0, 0)
+|anchor=ouroboros
+|link=http://www.scp-zh-tr.wikidot.com/ouroboros
+|title=銜尾蛇
+|sub-title=循環提案
+|blerb=**我們可能就只是去無人到此之地。**
+]]
+[[/div]]
+@@@@
+@@@@
+-----
+[[size 80%]]翻譯者？去看看這個[[[http://www.scp-zh-tr.wikidot/djkaktus-guide-to-article-formatting|guide for .pdf templates for my header images]]].[[/size]]
+
+[[image https://i.imgur.com/3j6dit3.png link="*http://scp-wiki.com/djkaktus-workbench"]] **-** [[image https://i.imgur.com/nczG35B.png link="*http://kontainer.djkakt.us/djkaktus-sandbox-hub"]] **-** [[image https://i.imgur.com/Zcpv0e5.png link="*http://scp-wiki.com/kaktuskast-hub"]]
+[[/=]]

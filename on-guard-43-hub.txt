@@ -1,0 +1,1838 @@
+[[module CSS]]
+span， a { word-break: normal !important }
+[[/module]]
+
+[[include :scp-zh-tr:theme:blankstyle]]
+
+[[module CSS]]
+
+.brief {
+    margin: 15px;
+    padding: 24px;
+    border: 3px solid black;
+    border-radius: 12px;
+    background-color: #000000;
+}
+
+.bubble {
+    margin: 15px;
+    padding: 24px;
+    border: 3px solid black;
+    border-radius: 12px;
+    background-color: #FFFFFF;
+}
+
+[[/module]]
+
+[[include :scp-zh-tr:info:start]]
+[[=]]
+**保衛43中心頁**
+噢。加拿大？
+
+[[image https://scp-wiki.wdfiles.com/local--files/on-guard-43-hub/OnGuard.png]]
+
+**[[[this-page-intentionally-left-blank|這位作者的更多作品！]]]**
+
+**原文：**[https://scp-wiki.wikidot.com/on-guard-43-hub 保衛43中心頁]
+**作者：**[[*user HarryBlank]]
+**翻譯：**[[*user ting129]]、[[*user Frederica Bernkastel]]、[[*user LOVEMARGINAL]]
+[[/=]]
+[[include :scp-zh-tr:info:end]]
+
+[[div class="anchor"]]
+[[div class="sidebox"]]
+[[=]]
+||~ 保衛43中心頁 ||
+||||= 噢。加拿大？ ||
+
+|| [[image https://scp-wiki.wdfiles.com/local--files/on-guard-43-hub/OnGuard.png]] ||
+
+||~ [[[this-page-intentionally-left-blank|訪問Dr. Blank的人事檔案]]] ||
+||~ [[[https://scp-zh-tr.wikidot.com/grigori-karpin-s-author-page|訪問Grigori Karpin的作者頁]]]||
+||~ [[[https://scp-zh-tr.wikidot.com/placeholder-mcd-s-authorpage|訪問PLACEHOLDER的員工記錄]]]||
+||~ [[[https://scp-wiki.wikidot.com/ihp-s-author-page|訪問Ihp的作者頁]]]||
+||~ [[[https://scp-wiki.wikidot.com/forum/t-14386675/nickthebrick1|訪問Nickthebrick1的作者頁]]]||
+[[/=]]
+[[/div]]
+[[/div]]
+
+[[div]]
+[[=]]
+[[=image https://scp-wiki.wdfiles.com/local--files/on-guard-43-hub/OG43.png]]
+[[/=]]
+[[/div]]
+[[div]]
+[[=]]
+++ 在一個防鼠、防雨的戰壕之中（同樣能抵擋碎片），
+[[/=]]
+[[/div]]
+[[div]]
+[[=]]
+++ 我無法斷言有足夠資源築建，
+[[/=]]
+[[/div]]
+[[div]]
+[[=]]
+++ 但我們仍使其堅固強韌，無論晴雨使我們舒適安逸，
+[[/=]]
+[[/div]]
+[[div]]
+[[=]]
+++ 在這座火線前方的小小戰壕裡。
+[[/=]]
+[[/div]]
+[[div]]
+[[=]]
+//-- 埃德加．W．麥金尼斯//
+[[/=]]
+[[/div]]
+
+歡迎來到Site-43！這裡和其他地方相比有點不太一樣。
+
+想看到關在箱子裡的可怕怪物嗎？這裡可能不適合你。想要把人丟進絞肉機裡？你可能要去Site-19碰碰運氣。想找個充滿古怪研究者，還有機會能嘗試些瘋狂收容技術的舒適湖畔？那就繼續往下，看看我們這裡有些什麼吧。
+
+[[f>image https://scp-wiki.wdfiles.com/local--files/on-guard-43-hub/LHR2.png]]
+
+在你在這裡安頓下來之前，有些事你必須先知道。首先，你身上有任何會反光的東西嗎？任何玻璃或透明塑膠製的東西？我們得把那些沒收。不，他們應該在你來之前就告訴你的。有隻鏡子怪物在院裡遊蕩，最棒的地方是，我們是故意這麼做的。
+
+你可能需要花點時間來適應這裡。何不用跨區地鐵系統去休倫湖中心的94號入口呢？玻璃帷幕的景色非常棒。也許你會看到某隻在湖底漫遊的水下獵豹！當然這也是我們刻意規劃的。
+
+在Site-43，我們處理收容的方式不太一樣。我們必須這麼做，因為我們實際上沒辦法負擔更多極度危險的異常。這裡還是有一些，但那些是我們沒辦法移動的。在一年一度的魔法廢料廠爆炸之後，我們......
+
+嘿！你要去哪裡？
+[[div]]
+----
+
+我很高興你決定留下來。我有一些故事想好好告訴你，關於這個地方、關於那些在這工作的人，或是那些已經不在這的人們。許多秘密都被我們隱藏在了黑暗之中。
+
+現在有兩件事情佔據了我們主要的時間。我們一方面正和一個古老的奧地利模因社群進行一場影子戰爭（不，我是說真的）。另一方面，我們正試圖抓住一個沒那麼古老的美洲模因企業（是，我是說真的）。要處理的事當然不只這些，畢竟這是個又大又怪的站點。或許你會帶給我們一些新的故事。也許這些故事不會跟模因有關。拜託，別跟模因有關。
+
+----
+
+[[=]]
+[[collapsible show="+ 系列：力與毒之語，由HarryBlank等撰寫" hide="- 獵鷹不聞馴鷹者......"]]
+[[=image https://scp-wiki.wdfiles.com/local--files/on-guard-43-hub/Words.png]]
+[[div class="brief"]]
+++ ##white|**第一階段：**##
+++ ##white|**在奧秘消解中的冒險**##
+[[/div]]
+[[div class="bubble"]]
+[[=image https://scp-wiki.wdfiles.com/local--files/on-guard-43-hub/5056.png]]
+
+++ **[[[SCP-5056]]]：永遠手足**
+由[[*user HarryBlank]]撰寫
+
+從這個開始好了。一個讓你初步了解我們在這裡如何行事的好方法。你看，這裡有名技術人員，還有他那肉眼可見的朋友，對吧？他們將會待在這裡直到老死。
+
+[[/div]]
+
+[[div class="bubble"]]
+[[=image https://scp-wiki.wdfiles.com/local--files/on-guard-43-hub/5056S.png]]
+
+++ **[[[scp-5056-tests|SCP-5056實驗與事故報告]]]**
+由[[*user HarryBlank]]撰寫
+
+嘿，是站點主任！他已經擔任站點主任超過二十年了，減掉那兩週他......哈哈，我的天，那是個有趣的故事。好吧，也許不是那麼//有趣//，不過......
+
+[[/div]]
+
+[[div class="bubble"]]
+[[=image https://scp-wiki.wdfiles.com/local--files/on-guard-43-hub/5109.png]]
+
+++ **[[[SCP-5109]]]：一次性密碼**
+由[[*user HarryBlank]]撰寫
+
+我們現在不太談這個了。原本看起來這可能會是一件大事，但在發生某起不幸的炸彈事件後，接著就......
+
+[[/div]]
+
+[[div class="bubble"]]
+[[=image https://scp-wiki.wdfiles.com/local--files/on-guard-43-hub/5243.png]]
+
+++ **[[[SCP-5243]]]：持續突破的突破**
+由[[*user HarryBlank]]撰寫
+
+呃，又到了每年的這個時候？回你的房間去，把門鎖上。如果聽到爆炸，不用擔心那個。那是場老爆炸了。
+
+[[/div]]
+
+[[div class="bubble"]]
+[[=image https://scp-wiki.wdfiles.com/local--files/on-guard-43-hub/Others1.png]]
+
+++ **[[[the-significant-others-part-a|重要他人，「A」部分]]]**
+由[[*user HarryBlank]]撰寫
+
+你還記得那個鏡子怪物嗎？關於那個怪物......
+
+[[/div]]
+
+[[div class="bubble"]]
+[[=image https://scp-wiki.wdfiles.com/local--files/on-guard-43-hub/Others2.png]]
+
+++ **[[[the-significant-others-part-b|重要他人，「B」部分]]]**
+由[[*user HarryBlank]]撰寫
+
+我希望那名技術員一切順利，他是個很好的人。
+
+[[/div]]
+
+----
+
+[[div class="brief"]]
+++ ##white|**第二階段：**##
+++ ##white|**往昔是為外來元素**##
+[[/div]]
+
+[[div class="bubble"]]
+[[=image https://scp-wiki.wdfiles.com/local--files/on-guard-43-hub/5382.png]]
+
+++ **[[[SCP-5382]]]：解藥與病灶**
+由[[*user HarryBlank]]撰寫
+
+你想聽這個地方的起源故事嗎？當然，是個有趣的故事。一段//又長//又有趣的故事。一段和透過文字傳遞的疾病以及治癒它四百年的偽科學廣告有關的故事。這樣有引起你的興趣嗎？
+
+[[/div]]
+
+[[div class="bubble"]]
+[[=image https://scp-wiki.wdfiles.com/local--files/on-guard-43-hub/5494.png]]
+
+++ **[[[SCP-5494]]]：下方世界的君主**
+由[[*user HarryBlank]]撰寫
+
+或是看看那些水下的獵豹，嗯？你能相信在前人建造站點時曾經嘗試過要抓捕牠們？哈哈哈，小子，最後//成果//看起來不錯。
+
+[[/div]]
+
+[[div class="bubble"]]
+[[=image https://scp-wiki.wdfiles.com/local--files/on-guard-43-hub/5520.png]]
+
+++ **[[[SCP-5520]]]：兔洞異境**
+由[[*user HarryBlank]]撰寫
+
+過來這裡一下，你看到那扇門了嗎？那個，就在那邊？永遠不要打開那扇門。你問為什麼？因為那裡通往一個巨大的峽谷還有一個巨大的地下工廠。他們說那裡鬧鬼。接著那些人被消除了記憶，因為那裡應該**秘密地**鬧鬼。
+
+[[/div]]
+
+----
+
+[[div class="brief"]]
+++ ##white|**第三階段：**##
+++ ##white|**非典型收容**##
+[[/div]]
+
+[[div class="bubble"]]
+[[=image https://scp-wiki.wdfiles.com/local--files/on-guard-43-hub/BB.png]]
+
+++ **[[[the-b-b-decommission|B&B廢除]]]**
+由[[*user HarryBlank]]撰寫
+
+你見過布蘭克博士和布萊德伯利博士了嗎？他們過去曾是一個團隊。多虧了鮑伊上將災難時發生的一切，他們又重新團結在了一起。難道你沒聽過？這是解釋為何我們的行事方式有效的好例子。
+
+[[/div]]
+
+[[div class="bubble"]]
+[[=image https://scp-wiki.wdfiles.com/local--files/on-guard-43-hub/Dossier.png]]
+
+++ **維安設施檔案：[[[secure-facility-dossier-site-43|Site-43]]]**
+由[[*user HarryBlank]]撰寫
+
+我想你已經準備好綜觀一切大局了。如果你無聊的話，裡面也是有一些小圖片啦。
+
+[[/div]]
+
+[[div class="bubble"]]
+[[=image https://scp-wiki.wdfiles.com/local--files/on-guard-43-hub/Mounties.png]]
+
+++ **[[[dead-dogs-magic-mounties|亡犬，魔法騎警]]]**
+由[[*user HarryBlank]]撰寫
+
+你是個歷史愛好者嗎？確實，大多數人都不是。不過這個地方的歷史非常古怪，值得你好好深究一下。只是別潛太深了。
+
+[[/div]]
+
+[[div class="bubble"]]
+[[=image https://scp-wiki.wdfiles.com/local--files/on-guard-43-hub/Rydderech.png]]
+
+++ **[[[acroamatic-abatement|你應該知道卻望名生畏不敢追問的奧秘消解部所有資訊]]]**
+由[[*user HarryBlank]]撰寫
+
+別相信標題。你不會光靠閱讀這篇就學到如何分解神秘廢料。但你也許會學到如何成為一名更優秀的研究者。
+
+[[/div]]
+
+----
+
+[[div class="brief"]]
+++ ##white|**第四階段：**##
+++ ##white|**返回當下**##
+[[/div]]
+
+[[div class="bubble"]]
+[[=image https://scp-wiki.wdfiles.com/local--files/on-guard-43-hub/5618.png]]
+
+++ **[[[SCP-5618]]]：「死路」**
+由[[*user HarryBlank]]撰寫
+
+就還是守好這個秘密吧，我們可能正身處在另一個現實之中。是，這是5234的錯。是，這裡發生了很多事。
+
+[[/div]]
+
+[[div class="bubble"]]
+[[=image https://scp-wiki.wdfiles.com/local--files/on-guard-43-hub/5751.png]]
+
+++ **[[[SCP-5751]]]：遺言**
+由[[*user HarryBlank]]撰寫
+
+我已經決定好我不要死了。當你死去時，你所刪除的一切糟糕透頂的事物都會以CD-ROM的形式回來作祟。不開玩笑。有個檔案把這跟一切的東西記錄了下來。
+
+[[/div]]
+
+[[div class="bubble"]]
+[[=image https://scp-wiki.wdfiles.com/local--files/on-guard-43-hub/5866.png]]
+
+++ **[[[SCP-5866]]]：淵源名蛇**
+由[[*user HarryBlank]]撰寫
+
+你最近有看到柯賓博士嗎？她看起來有些沮喪，神學與目的論是個令人抑鬱的領域。我聽說他們正要開始研究一些新的酷骨頭，也許那會讓她振作起來。
+
+[[/div]]
+
+[[div class="bubble"]]
+[[=image https://scp-wiki.wdfiles.com/local--files/on-guard-43-hub/Christmas2020.png]]
+
+++ **[[[the-huron-carol|休倫頌歌]]]**
+由[[*user HarryBlank]]撰寫
+
+又到了每年的這個時期。很明顯，當你被困在地下、被一群病人圍繞著時是很難察覺到這件事的。隨便什麼快樂！但請保持一點距離，拜託了。
+
+[[/div]]
+
+----
+
+[[div class="brief"]]
+++ ##white|**第五階段：**##
+++ ##white|**遍佈世界的十九篇故事**##
+++ ##white|**（和兩個SCP）**##
+[[/div]]
+
+[[div class="bubble"]]
+[[=image https://scp-wiki.wdfiles.com/local--files/on-guard-43-hub/TimeAfterTime.png]]
+
+++ **[[[the-time-after-time-password-hub|重複性密碼]]]**
+++ ##DeepSkyBlue|整體故事於## ##DeepSkyBlue|2021/11/30## ##DeepSkyBlue|完成##
+由[[*user HarryBlank]]撰寫
+
+這個地方並非憑空存在。在那存在著一整個站點的世界！我們救下了那些傢伙。這被分級為地獄一般，但那也只是簡短的版本。//有個//長的版本。
+
+[[/div]]
+
+[[div class="bubble"]]
+[[=image https://scp-wiki.wdfiles.com/local--files/on-guard-43-hub/5956.png]]
+
+++ **[[[SCP-5956]]]：THEREISNOCANNON**
+由[[*user Placeholder_McD]]與[[*user HarryBlank]]撰寫
+所以「這裡會定期發生魔法爆炸」是簡短的版本。「這裡時常發生魔法時間線惡作劇」是比較長的版本。//最長//的版本也......蠻令人難過的。
+[[/div]]
+
+[[div class="bubble"]]
+[[=image https://scp-wiki.wdfiles.com/local--files/on-guard-43-hub/5756.png]]
+
+++ **[[[SCP-5756]]]：持續提醒**
+由[[*user Placeholder McD]]撰寫
+
+發生在迪林博士身上的事，這真的很讓人傷心......但別告訴他的兄弟。發生在他兄弟身上的事也同樣令人傷心。他們在這件事上有著共通點，這其實也是他們唯一共享的事了。
+[[/div]]
+
+----
+
+[[div class="brief"]]
+++ ##white|**第六階段：**##
+++ ##white|**往昔為異鄉......**##
+[[/div]]
+
+[[div class="bubble"]]
+[[=image https://scp-wiki.wdfiles.com/local--files/on-guard-43-hub/GoodWork.png]]
+
+++ **[[[the-good-work|好作品]]]**
+由[[*user HarryBlank]]撰寫
+
+人們常言此處是由兩個關係非常親近的人所建立的，這樣的傳言持續許久。人們提到許多有關這兩人的事情，但他們是唯二真的知道真相的人。
+[[/div]]
+
+[[div class="bubble"]]
+[[=image https://scp-wiki.wdfiles.com/local--files/on-guard-43-hub/Dissertation.png]]
+
+++ **畢業，第1部分：[[[dissertation|論文]]]**
+由[[*user HarryBlank]]撰寫
+
+你可曾經想過人們是如何來到基金會工作的？沒，當然沒想過。畢竟你//確實//在基金會裡工作！嗯，我打賭其他人一定這麼想過，至少多少想過一點。
+[[/div]]
+
+[[div class="bubble"]]
+[[=image https://scp-wiki.wdfiles.com/local--files/on-guard-43-hub/Defence.png]]
+
+++ **畢業，第2部分：[[[defence|防衛]]]**
+由[[*user HarryBlank]]撰寫
+
+你第一個遇上的異常是什麼？你是在野外偶然遇見了它，或站在它傷害不了你的玻璃後方看著？你是否抓住了機會，承擔了一切風險？
+[[/div]]
+
+[[div class="bubble"]]
+[[=image https://scp-wiki.wdfiles.com/local--files/on-guard-43-hub/5054EX.png]]
+
+++ **[[[SCP-5054-EX]]]：哪個Joe？的模因神話**
+由[[*user HarryBlank]]撰寫
+
+在這裡工作的沒有多少會在離去後被記得。相反地，沒有多少//不//在這工作的人被遺忘。這些事情有時相互吻合著。
+[[/div]]
+
+[[div class="bubble"]]
+[[=image https://scp-wiki.wdfiles.com/local--files/on-guard-43-hub/5162.png]]
+
+++ **[[[SCP-5162]]]：重量**
+由[[*user HarryBlank]]撰寫
+
+每個在此工作的人都有著故事。有些很有趣，大多數的令人悲傷，少數的故事嚇人，但只有非常少部分是無趣的。其中也有些故事難以分類。
+[[/div]]
+----
+
+[[div class="brief"]]
+++ ##white|**第七階段：**##
+++ ##white|**......他們在那行事有些不同**##
+[[/div]]
+
+[[div class="bubble"]]
+[[=image https://scp-wiki.wdfiles.com/local--files/on-guard-43-hub/5238.png]]
+++ **[[[SCP-5238]]]：夢境之船**
+由[[*user HarryBlank]]撰寫
+
+只有少數人帶著真的異常前來基金會就職。那就像是，一個反向的簽約加給！無論如何，請向布蘭克博士詢問有關遠洋船班的事。
+[[/div]]
+
+[[div class="bubble"]]
+[[=image https://scp-wiki.wdfiles.com/local--files/on-guard-43-hub/5295.png]]
+++ **[[[SCP-5295]]]：人——個人式電腦**
+由[[*user HarryBlank]]撰寫
+
+從事IT工作的人生活不好過，也難怪會有人在壓力之下精神崩潰。馬洛奎恩主管，他崩潰得很有風格——1990年代蘋果麥金塔風格
+[[/div]]
+
+[[div class="bubble"]]
+[[=image https://scp-wiki.wdfiles.com/local--files/on-guard-43-hub/5281D.png]]
+++ **[[[scp-5281|SCP-5281-D]]]：七刻要角**
+由[[*user HarryBlank]]撰寫
+
+Site-43裡沒有D級人員，我們也對那些人型異常不錯。難道你不知道？但我們也是有底線的。食童就是其中一個。
+[[/div]]
+
+[[div class="bubble"]]
+[[=image https://scp-wiki.wdfiles.com/local--files/on-guard-43-hub/5379-1.png]]
+++ **[[[SCP-5379]]]：自白錄音**
+由[[*user HarryBlank]]撰寫
+
+VKTM佔用了我們許多時間，我們需要雇用一堆研究員來處理與他們相關的檔案。麥金尼斯博士看起來對此有著獨特的興趣，雖然他並非這個計畫的領導者......真令人好奇。
+[[/div]]
+
+----
+
+[[div class="brief"]]
+++ ##white|**第八階段：**##
+++ ##white|**你必須歡笑**##
+[[/div]]
+
+[[div class="bubble"]]
+[[=image https://scp-wiki.wdfiles.com/local--files/on-guard-43-hub/5734.png]]
+++ **[[[SCP-5734]]]：反動詞**
+由[[*user ihp]]撰寫
+
+我們在43這處理很多模因工作，這是有原因的：我們正和原初的模因術士們處在一場緩慢進行的戰役之中。在他們周遭時記得注意你的言詞，否則你很可能會失去它們。
+[[/div]]
+
+[[div class="bubble"]]
+[[=image https://scp-wiki.wdfiles.com/local--files/on-guard-43-hub/5416.png]]
+++ **[[[SCP-5416]]]：槓桿**
+由[[*user HarryBlank]]撰寫
+
+最近，我們發現了大量的這些能造成巨大、可怕後果的小小古怪物品。有時我們能搞懂他們。有時很好。但在這件事上，事情並非如此。
+[[/div]]
+
+[[div class="bubble"]]
+[[=image https://scp-wiki.wdfiles.com/local--files/on-guard-43-hub/5524.png]]
+++ **[[[SCP-5524]]]：不饜語意**
+由[[*user HarryBlank]]撰寫
+
+你可曾遇過有著蠢名字的人？不，我指的是//蠢//名字。不，我指的是真的，真的，//真的//很蠢的名字。是。不！算了，你沒搞懂我的意思。這個才是我想表達的。
+[[/div]]
+
+[[div class="bubble"]]
+[[=image https://scp-wiki.wdfiles.com/local--files/on-guard-43-hub/Lamest.png]]
+++ **[[[the-lamest-story-never-told|從未說過的最無趣的故事]]]**
+由[[*user ihp]]撰寫
+
+如果你問我，我會說不是每個人都有段故事。以維爾特博士為例吧。拜託。哈哈哈！不過我是認真的，除了他個人的失敗之外，沒有任何方式解釋他為何是這個樣子。不可能有的。
+[[/div]]
+
+[[div class="bubble"]]
+[[=image https://scp-wiki.wdfiles.com/local--files/on-guard-43-hub/5616.png]]
+++ **[[[SCP-5616]]]：焚化爐中的女人**
+由[[*user HarryBlank]]撰寫
+
+見過雷恩代爾博士了嗎？他是整個站點中最容易見到的人。他沒有任何行程，而且一直待在同一個地方。//一直如此//，從//一九四三年//開始。
+[[/div]]
+
+----
+[[div class="brief"]]
+++ ##white|**第九階段：**##
+++ ##white|**比你想得更晚**##
+[[/div]]
+
+[[div class="bubble"]]
+[[=image https://scp-wiki.wdfiles.com/local--files/on-guard-43-hub/Inevitable.png]]
+++ **[[[scp-6500|SCP-6500：無以避免]]]**
+由[[*user Aethris]]、[[*user DarkStuff]]、[[*user Grigori Karpin]]、[[*user HarryBlank]]、
+[[*user ihp]]、[[*user Placeholder McD]]、[[*user S D Locke]]撰寫
+
+如果所有奇怪的、美妙的、可怕的事物都消失了，我們世界會變成什麼樣子？我們也許即將發現這個問題的答案。有沒有可能我們一直以來的作法都是錯的？
+[[/div]]
+
+[[div class="bubble"]]
+[[=image https://scp-wiki.wdfiles.com/local--files/on-guard-43-hub/5056A.png]]
+++ **[[[scp-5056-audio-transcripts|SCP-5056音訊檔案抄錄]]]**
+由[[*user HarryBlank]]撰寫
+
+哇，好像我昨天才和你介紹菲力和他的鏡中怪物。歡樂的時光總是過得飛快，嗯？時間倒是不常在菲力身上流逝。
+[[/div]]
+
+[[div class="bubble"]]
+[[=image https://scp-wiki.wdfiles.com/local--files/on-guard-43-hub/5056R.png]]
+++ **[[[/scp-5056/offset/1|SCP-5056]]]：鏡像**
+由[[*user HarryBlank]]撰寫
+
+過去一年發生了很多事情，一連串向下滲到了所有人最喜愛的一事無成技術員身上。我想或許是時候回顧這一年來我們所完成的事了。
+[[/div]]
+
+[[div class="bubble"]]
+[[=image https://scp-wiki.wdfiles.com/local--files/on-guard-43-hub/5729.png]]
+
+++ **[[[SCP-5729]]]：棚屋裡的鬼魂**
+由[[*user HarryBlank]]撰寫
+
+我們都會有奇異的童年記憶。噢！這提醒了我。你被要求盡快地回報所有的怪異童年回憶給光譜學部門。
+[[/div]]
+
+[[div class="bubble"]]
+[[=image https://scp-wiki.wdfiles.com/local--files/on-guard-43-hub/DownUnder.png]]
+
+++ **[[[SCP-5883]]]：反轉**
+由[[*user HarryBlank]]撰寫
+
+如果最近你察覺到任何古怪的行為，應該回報給莉莉哈默博士。好啦，我知道，這裡的所有人都已經很怪了，不過。我是指//真的//怪。就像，澳大利亞式的怪。
+[[/div]]
+
+----
+[[div class="brief"]]
+++ ##white|**第十階段：**##
+++ ##white|**邊緣案例**##
+[[/div]]
+
+[[div class="bubble"]]
+[[=image https://scp-wiki.wdfiles.com/local--files/on-guard-43-hub/6056.png]]
+++ **[[[SCP-6056]]]: 繼續爆炸完畢**
+由[[*user HarryBlank]]撰寫
+
+爆炸在這個站點並不罕見。重點是，我們已經習慣了我們的爆炸。我們的爆炸是//排定好的//。我們不允許計劃外的爆炸發生在站點中。
+[[/div]]
+
+[[div class="bubble"]]
+[[=image https://scp-wiki.wdfiles.com/local--files/on-guard-43-hub/Lemon.png]]
+++ **[[[scp-5243-video-transcripts|SCP-5243影像抄錄]]]**
+由[[*user Placeholder McD]]與[[*user HarryBlank]]撰寫
+
+或許我應該早一點澄清的。我們不允許//任何//未排定的發生在定期安排的魔法熔毀中。可憐的維爾特博士......還有可憐的茨拉塔博士？
+[[/div]]
+
+[[div class="bubble"]]
+[[=image https://scp-wiki.wdfiles.com/local--files/on-guard-43-hub/001PB.png]]
+++ **[/pickman-blank-proposal 代號：Pickman/Blank - 卷首]**
+由[[*user ihp]]與[[*user HarryBlank]]撰寫
+
+休倫湖供應、控制、淨化。S&C塑料。為何我們敢如此公開？而究竟「控制、收容、保護 基金會」之名又是什麼？肯定有什麼更深入的事情正在發生。這裡肯定有段故事。
+[[/div]]
+
+[[div class="bubble"]]
+[[=image https://scp-wiki.wdfiles.com/local--files/on-guard-43-hub/Tyop.png]]
+++ **[[[SCP-6263]]]：現世速報**
+由[[*user HarryBlank]]撰寫
+
+拼字對於蠢淡來說很難。
+[[/div]]
+
+[[div class="bubble"]]
+[[=image https://scp-wiki.wdfiles.com/local--files/on-guard-43-hub/Bitch.png]]
+++ **[[[a-bitch|婊子]]]**
+由[[*user HarryBlank]]撰寫
+
+凱倫．埃斯特羅姆作為Site-43的首席行政人員獲得了許多爛事。他也為他自己帶來了不只一些。為什麼他這麼熱衷於讓自己成為和「咬」押韻的那個東西？
+[[/div]]
+
+[[div class="bubble"]]
+[[=image https://scp-wiki.wdfiles.com/local--files/on-guard-43-hub/100.png]]
+++ **[[[on-the-same-page|在同個步調上]]]**
+由[[*user HarryBlank]]撰寫
+
+仇恨是浪漫加上時間。愛是浪漫加上時間加上擁有某些共通點。
+[[/div]]
+
+[[div class="bubble"]]
+[[=image https://scp-wiki.wdfiles.com/local--files/on-guard-43-hub/Christmas2021.png]]
+++ **[[[ho|Ho]]]**
+由[[*user HarryBlank]]撰寫
+
+我們在又一年成功的控制、收容、保護結尾時慶祝彼此的好運。也沒有多少好慶祝的，因為我們也沒有多少好運。
+[[/div]]
+
+[[div class="bubble"]]
+[[=image https://scp-wiki.wdfiles.com/local--files/on-guard-43-hub/Oh_Doug.png]]
+++ **[[[SCP-6156]]]：噢，道戈！**
+由[[*user Calibold]]撰寫
+
+菲力普和道戈在過去幾年裡成長得如此之多，他們也確實對Site-43產生了影響......甚至遠超於此。至少VKTM在找好演員這方面上有花心思。
+[[/div]]
+
+[[div class="brief"]]
+++ ##white|**第十一階段：**##
+++ ##white|**別又來了**##
+[[/div]]
+
+[[div class="bubble"]]
+[[=image https://scp-wiki.wdfiles.com/local--files/on-guard-43-hub/6382.png]]
+++ **[[[SCP-6382]]]：防火帶**
+由[[*user HarryBlank]]撰寫
+
+//Giftschreiber//透過對SCP基金會所有分支的攻擊，宣告了新時代的來臨。蒂洛．茨維斯特知道只有他能把事情完成。難道他錯了嗎？
+[[/div]]
+
+[[div class="bubble"]]
+[[=image https://scp-wiki.wdfiles.com/local--files/on-guard-43-hub/6484.png]]
+++ **[[[SCP-6484]]]：拖言之人**
+由[[*user HarryBlank]]撰寫
+
+這麼說好了，你是否曾覺得人們在寫作方面表現越來越差了？不是特定的人們，而是//人們//，基本上就是每個人？噢，天啊，現在是//所有東西//都是異常了嗎？
+[[/div]]
+
+[[div class="bubble"]]
+[[=image https://scp-wiki.wdfiles.com/local--files/on-guard-43-hub/22222.png]]
+++ **[[[two-two-two-two-two|二 二 二 二 二]]]**
+由[[*user HarryBlank]]撰寫
+
+地平線上有個什麼東西在那。不，事實上，是//兩個//什麼東西，而且它們//就是//地平線。而地平線越來越近了。
+[[/div]]
+
+[[div class="bubble"]]
+[[=image https://scp-wiki.wdfiles.com/local--files/on-guard-43-hub/6519.png]]
+++ **[[[SCP-6519]]]：空中之靈**
+由[[*user HarryBlank]]撰寫
+
+光譜學部門研究生與死的界線，人類的終極命運。平常來說，不會有人把他們當一回事。除了鬼魂之外。
+[[/div]]
+
+[[div class="bubble"]]
+[[=image https://scp-wiki.wdfiles.com/local--files/on-guard-43-hub/6643.png]]
+++ **[[[SCP-6643]]]: 共通（？）點**
+由[[*user HarryBlank]]撰寫
+科學，簡而言之，是關於測試已知的邊界。異常科學是關於測試//未知的邊界，//而這可能會變得更加詭異。
+[[/div]]
+
+[[div class="bubble"]]
+[[=image https://scp-wiki.wdfiles.com/local--files/on-guard-43-hub/7000.png]]
+++ **[[[SCP-7000]]]: 輸家**
+由[[*user HarryBlank]]撰寫
+
+威廉.華萊士.韋特爾博士不是地球上最不幸的人。那大概會會是個成就，而可憐的老威一個都沒有。但是，當世上所有概率集體失靈時，他那一點穩定的悲哀就成為基金會最獨特的資產。他即將變得非常出名，那會令他感到非常討厭。
+[[/div]]
+
+[[div class="brief"]]
+++ ##white|**第十二階段：**##
+++ ##white|**突破不斷繼續, 第一冊**##
+[[/div]]
+
+[[div class="bubble"]]
+[[=image https://scp-wiki.wdfiles.com/local--files/on-guard-43-hub/BuryTheSurvivorsHub.png]]
+++ **[[[bury-the-survivors-hub |埋葬生還者]]]**
+由 [[*user HarryBlank]]撰寫
+
+2002年9月8日是Site-43維安記錄上的一個黑點。奧秘消解設施AAF-D發生爆炸，8名工人死亡，其他人的生活被不可逆轉地改變。現在是時候找出它發生的原因......以及這一切意味著什麽。
+[[/div]]
+
+[[div class="brief"]]
+++ ##white|**第十三階段：**##
+++ ##white|**風暴中的平靜**##
+[[/div]]
+
+[[div class="bubble"]]
+[[=image https://scp-wiki.wdfiles.com/local--files/on-guard-43-hub/LesEnfantsVontBien.png]]
+++ **[[[les-enfants-vont-bien | 好寶寶]]]**
+由[[*user HarryBlank]]撰寫
+
+Marie Arsenault即將迎接最後一個萬聖節搗蛋鬼。睡個好覺，孩子。
+[[/div]]
+
+[[div class="bubble"]]
+[[=image https://scp-wiki.wdfiles.com/local--files/on-guard-43-hub/GraveyardShift.png]]
+++ **[[[graveyard-shift | 夜更]]]**
+由[[*user HarryBlank]]撰寫
+
+有什麽夜晚比萬聖節更適合抓鬼？隨便一晚。早知道就選//他媽隨便一晚。//事情[[span class="ruby"]]時空[[span class="rt"]]shi kong[[/span]][[/span]]。
+[[/div]]
+
+[[div class="bubble"]]
+[[=image https://scp-wiki.wdfiles.com/local--files/on-guard-43-hub/Christmas2022.png]]
+++ **[[[come-home-for-zwistmas | 回家過聖誕]]]**
+由[[*user HarryBlank]]撰寫
+
+我們的一些人正在變成有魔力的人。一些有魔力的人正在成為我們的人。年末是一個蛻變的時間，也是歸屬的時間。
+[[/div]]
+
+[[div class="bubble"]]
+[[=image https://scp-wiki.wdfiles.com/local--files/on-guard-43-hub/TestingtheMargins.png]]
+++ **[[[testing-the-margins | 測試極限]]]**
+由 [[*user HarryBlank]]撰寫
+莉莉安.莉莉哈默回來了，她剛剛完成模因法術學的秘密訓練。當這一天結束時，她會讓德爾菲娜.伊巴內茲和烏多.奧科里兩個人也想關起門做不能見光的事情。
+[[/div]]
+
+[[div class="bubble"]]
+[[=image https://scp-wiki.wdfiles.com/local--files/on-guard-43-hub/6721.png]]
+++ **[[[SCP-6721]]]：可疑的光環**
+由[[*user HarryBlank]]撰寫
+
+在Site-43，我們是一個緊密相連的團體，時間的流逝對此沒有什麽影響。當我們認為自己人有危險的時候，就是我們最危險的時候。
+
+[[/div]]
+
+[[div class="bubble"]]
+[[=image https://scp-wiki.wdfiles.com/local--files/on-guard-43-hub/6858.png]]
+++ **[[[SCP-6858]]]: 狼來，了**
+由[[*user HarryBlank]]撰寫
+
+加拿大皇家騎警的神秘與超自然活動小隊對於戴著大帽子的小老頭來說是個大名鼎鼎的組織。然而那些帽子下面沒有裝什麽東西。
+[[/div]]
+
+[[div class="bubble"]]
+[[=image https://scp-wiki.wdfiles.com/local--files/on-guard-43-hub/6965.png]]
+++ **[[[SCP-6965]]]: 希望之弦**
+由[[*user HarryBlank]]撰寫
+
+有些戰鬥永不會結束。有些鬥士就是不放棄。格思里家族已經在戰壕里呆了三代人，他們的長期鬥爭也許能讓其他人獲得自由。
+[[/div]]
+
+[[div class="bubble"]]
+[[=image https://scp-wiki.wdfiles.com/local--files/on-guard-43-hub/Nx143.png]]
+++ **[[[Nx-143]]]**
+by [[*user HarryBlank]]
+
+眾所周知，Site-43的人員經常互相胡鬧。是時候開始撬開緊閉的門並找出原因了。
+[[/div]]
+
+[[div class="brief"]]
+++ ##white|**第十四階段:**##
+++ ##white|**背後的真相**##
+[[/div]]
+
+[[div class="bubble"]]
+[[=image https://scp-wiki.wdfiles.com/local--files/on-guard-43-hub/7056.png]]
+++ **[[[SCP-7056]]]: Site-43團結之印**
+由[[*user HarryBlank]]撰寫
+
+如果你一直在看一些東西，你之後就不再看它了。 Site-43獨特、不合時宜的徽章並非如此； 畢竟，你無法真正停止看到自己。
+[[/div]]
+[[/collapsible]]
+----
+[[collapsible show="+ 系列：維坎德—尼得技術媒體，由Grigori Karpin等撰寫" hide="- 為這駭人世界獻上可怖之言！"]]
+@@ @@
+[[image https://scp-wiki.wdfiles.com/local--files/on-guard-43-hub/VKTMbanner.png class="img-responsive"  link="http://scp-zh-tr.wikidot.com/vikander-kneed-technical-media-hub"]]
+
+[[div class="bubble"]]
+[[=image https://scp-wiki.wdfiles.com/local--files/on-guard-43-hub/5889.png]]
+++ **[[[SCP-5889]]]：調幅記憶刪除**
+由[[*user Dysadron]]與[[*user Grigori Karpin]]撰寫
+
+誰說現在的廣播上沒有好東西的？
+[[/div]]
+
+[[div class="bubble"]]
+
+[[=image https://scp-wiki.wdfiles.com/local--files/on-guard-43-hub/5904.png]]
+++ **[[[SCP-5904]]]：非人力資源**
+由[[*user Grigori Karpin]]撰寫
+
+**全部門職員會議紀錄［摘要］**
+
+下一個議程項目是SCP-5904，一組帶有模因影響的錄影帶。維爾特博士在沒有提示的情況下表示自己仍擁有一台家用錄影帶播放器，而被選為首席研究人員。
+[[/div]]
+
+[[div class="bubble"]]
+[[=image https://scp-wiki.wdfiles.com/local--files/on-guard-43-hub/5897.png]]
+++ **[[[SCP-5897]]]：歷史由VKTM所寫**
+由[[*user Grigori Karpin]]撰寫
+
+這不是你爸爸的歷史。也不是你媽媽的。或許不是任何人的？
+[[/div]]
+
+[[div class="bubble"]]
+[[=image https://scp-wiki.wdfiles.com/local--files/on-guard-43-hub/5379.png]]
+++ **[[[SCP-5379]]]：自白錄音**
+由[[*user HarryBlank]]撰寫
+
+VKTM佔用了我們許多時間，我們需要雇用一堆研究員來處理與他們相關的檔案。麥金尼斯博士看起來對此有著獨特的興趣，雖然他並非這個計畫的領導者......真令人好奇。
+[[/div]]
+
+[[div class="bubble"]]
+[[=image https://scp-wiki.wdfiles.com/local--files/on-guard-43-hub/5479.png]]
+++ **[[[SCP-5479]]]：你的電影**
+由[[*user Grigori Karpin]]撰寫
+
+43這裡沒有D級人員，但我們算是例外。19那裡//有//D級人員，事實上還非常地多，而VKTM也察覺到了，這就是他們為此所做的行動。可憐的那個誰博士。
+[[/div]]
+
+[[div class="bubble"]]
+[[=image https://scp-wiki.wdfiles.com/local--files/on-guard-43-hub/5681.png]]
+++ **[[[SCP-5681]]]：煉獄街機**
+由[[*user Grigori Karpin]]與[[*user Vivarium]]撰寫
+
+VKTM確實在擴展著。你見過遊戲節目的領導人了嗎？誰來跟他們解釋「遊戲」的部分不是指「為了狩獵目的而飼養的動物」。
+[[/div]]
+
+[[div class="bubble"]]
+[[=image https://scp-wiki.wdfiles.com/local--files/on-guard-43-hub/5417.png]]
+++ **[[[SCP-6591]]]：'Cize Up!：一檔維坎德—尼得技術媒體節目**
+由[[*user PlaguePJP]]撰寫
+
+這些錄影帶非常有趣。首先，我們要了解他們為了拍攝做了什麼糟糕的事，接著發現這對我們造成了什麼可怕的後果。每一天都是聖誕節！
+[[/div]]
+
+[[div class="bubble"]]
+[[=image https://scp-wiki.wdfiles.com/local--files/on-guard-43-hub/5698.png]]
+++ **[[[SCP-5698]]]：經濟移民**
+由[[*user Grigori Karpin]]撰寫
+
+你可曾感覺到關注組織的存在，讓我們的生命在道德上變得複雜了？一半的時候VKTM讓我感到「哈哈幹他的讚啦！」而另外一半時//我的壽命被縮短了//。
+[[/div]]
+
+[[div class="bubble"]]
+[[=image https://scp-wiki.wdfiles.com/local--files/on-guard-43-hub/Culinary.png]]
+++ **[[[a-culinary-broadcast|烹飪廣播]]]**
+由[[*user FluffyDog00]]撰寫
+
+有什麼比感恩節更美國的？團結一心。鋒利的刀。切割肉塊。那純粹的//消費//。拿走那些你不需要的吧！//全部//拿走。
+[[/div]]
+
+[[div class="bubble"]]
+[[=image https://scp-wiki.wdfiles.com/local--files/on-guard-43-hub/5358.png]]
+++ **[[[SCP-5358]]]：佛洛許帝亞**
+由[[*user winkwonkboi]]撰寫
+
+你有看過那種因為厭倦了真正的國家，而自己捏造了一個出來的旅行紀錄片家嗎？沒有，你還沒見過。至少不是如此。
+[[/div]]
+
+[[div class="bubble"]]
+[[=image https://scp-wiki.wdfiles.com/local--files/on-guard-43-hub/6123.png]]
+++ **[[[SCP-6123]]]：VKTM敬獻：媒體與你**
+由[[*user Grigori Karpin]]撰寫
+
+我曾經想知道是什麼東西讓這些人運轉的，他們那怪異的外星人腦袋中運作著些什麼。而我找到了。這些禮物包最好值得我這樣做......
+[[/div]]
+
+[[div class="bubble"]]
+[[=image https://scp-wiki.wdfiles.com/local--files/on-guard-43-hub/Temptation.png]]
+++ **[[[SCP-5974]]]：互動小說**
+由[[*user HarryBlank]]撰寫
+
+我們不做異常交互測試是有原因的：測試結果無法預料。我們不讓異常媒體公司交互傳播是有原因的：這就是那個原因。
+[[/div]]
+
+[[div class="bubble"]]
+[[=image https://scp-wiki.wdfiles.com/local--files/on-guard-43-hub/5571.png]]
+++ **[[[SCP-5571]]]：美式後院**
+由[[*user Grigori Karpin]]撰寫
+
+他們在這講述有關行走在古老地球上，世界上最卑鄙、最下流、最愚蠢、最令人生厭的動物。他們就如同那般毫無自覺。
+[[/div]]
+
+[[div class="bubble"]]
+[[=image https://scp-wiki.wdfiles.com/local--files/on-guard-43-hub/6301.png]]
+++ **[[[SCP-6301]]]：Funky Finn的兒童歡樂時光**
+由[[*user Grigori Karpin]]、[[*user GremlinGroup]]與[[*user LORDXVNV]]撰寫
+
+小孩子的心智是個很奇妙的東西。在正確的情況下，創造力、包容性以及開放的態度會像美妙的花朵一樣綻放其中！你必須要早點避免這鬼東西發生。
+[[/div]]
+
+[[div class="bubble"]]
+[[=image https://scp-wiki.wdfiles.com/local--files/on-guard-43-hub/5428.png]]
+++ **[[[SCP-5428]]]：Eleonor家庭打理101**
+由[[*user AWeirdBird]]撰寫
+
+要在這複雜的當代打理家戶是件惡夢般的難事。VKTM在此伸出援手處理那惡夢般的部分！當然是只會處理惡夢的部分。
+[[/div]]
+
+[[div class="bubble"]]
+[[=image https://scp-wiki.wdfiles.com/local--files/on-guard-43-hub/6750.png]]
+++ **[[[SCP-6750]]]：由Sam Hain敬獻，萬聖節安全指南**
+由[[*user PlaguePJP]]與[[*user J Dune]]撰寫
+
+嗚～安，孩子們！讓山姆．海伊表面上展現給你在這萬聖佳節保持身心靈健康的方法！先說清楚，我們在法律上不需要負擔責任。我們檢查過了。
+[[/div]]
+
+[[div class="bubble"]]
+[[=image https://scp-wiki.wdfiles.com/local--files/on-guard-43-hub/6677.png]]
+++ **[[[SCP-6677]]]：Finn's Hollow——維坎德—尼得製作**
+由[[*user Grigori Karpin]]撰寫
+
+Finn's Hollow的快樂夥伴——限於給定定義的「快樂」——前來教導觀眾愛與寬容的意義！呃呃呃，只不過用了替代方式。
+[[/div]]
+
+[[div class="bubble"]]
+[[=image https://scp-wiki.wdfiles.com/local--files/on-guard-43-hub/6221.png]]
+++ **[[[SCP-6221]]]：聖誕VKTM快樂**
+由[[*user ihp]]撰寫
+
+維坎德—尼得帶著他們社會評論的特殊品牌^^TM^^來乘載聖誕媒體的美妙世界。沒什麼神聖的部分？也只得聽天由命。
+[[/div]]
+
+[[div class="bubble"]]
+[[=image https://scp-wiki.wdfiles.com/local--files/on-guard-43-hub/6780.png]]
+++ **[[[SCP-6780]]]：維坎德—尼得為你帶來「dado的建康」**
+由[[*user ihp]]與[[*user Grigori Karpin]]撰寫
+
+世界上最好且最值得信任的完全合法非致命藥物供應商與世界上最優質的正常媒體創作者的絕妙搭配。
+[[/div]]
+
+[[div class="bubble"]]
+[[=image https://scp-wiki.wdfiles.com/local--files/on-guard-43-hub/Oh_Doug_2.png]]
+++ **[[[SCP-6156]]]：噢，道戈！**
+由[[*user Calibold]]撰寫
+
+Site-43與情境喜劇一直以來都只有一步之遙，而VKTM從來都非常樂意協助踏出這一步！燈光！鏡頭！鏡子怪物！
+[[/div]]
+
+[[div class="bubble"]]
+[[=image https://scp-wiki.wdfiles.com/local--files/on-guard-43-hub/1337EX.png]]
+++ **[[[SCP-1337-EX]]]：維坎德—尼得的NFTs**
+由[[*user LORDXVNV]]撰寫
+
+VKTM從來都不會不希望這世界陷入火海。
+[[/div]]
+
+[[div class="brief"]]
+++ ##white|**第二章：2022**##
+[[/div]]
+
+[[div class="bubble"]]
+[[=image https://scp-wiki.wdfiles.com/local--files/on-guard-43-hub/VKTMart.png]]
+++ **[[[維坎德—尼得的藝術作品]]]**
+
+不擊潰幾個藝術家，就無法建設更好的明天！ 好吧，好吧，也許你可以，但看起來不怎麼好玩。**為我們的媒體受苦**
+[[/div]]
+
+[[div class="bubble"]]
+[[=image https://scp-wiki.wdfiles.com/local--files/on-guard-43-hub/6358.png]]
+++ **[[[SCP-6358]]]: 隬賽亞 **
+由[[*user Machen2]]撰寫
+
+VKTM了解宗教。//真的很了解，//兄弟。宗教被了解，這就是我的意思。
+
+[[/div]]
+
+[[div class="bubble"]]
+[[=image https://scp-wiki.wdfiles.com/local--files/on-guard-43-hub/6359.png]]
+++ **[[[SCP-6359]]]: 美國人 美國人**
+由[[*user HarryBlank]]撰寫
+
+你已經看過《美國爸爸》了! 你看過《美國夢德比》! 你kan過《美式意志》! 你看過《美國千金小姐》! 你看果__《美國豬手》__! 尼看過麼國偶像! 尼卡郭《美國花花公子：休-海夫納的故事》! 尼見國過美伐木工！人 你見過美國的
+[[/div]]
+
+[[div class="bubble"]]
+[[=image https://scp-wiki.wdfiles.com/local--files/on-guard-43-hub/6897.png]]
+++ **[[[SCP-6897]]]: 你不會相信香腸是如何做出來的！**
+由[[*user Grigori Karpin]]撰寫
+
+享受絕對真實的VKTM設施的獨家一日遊! 了解有關我們如何帶你走向更美好的明天（TM）絕對真實的事情! 活下來! (受條件和細則約束。)
+[[/div]]
+
+[[div class="bubble"]]
+[[=image https://scp-wiki.wdfiles.com/local--files/on-guard-43-hub/6613.png]]
+++ **[[[SCP-6613]]]: 時代句**
+由[[*user Doctor Cimmerian]]撰寫
+
+厭倦了那些顯然為了成全名字裏的雙關語而想出來的，單調的電視節目了嗎？希望你還沒。我們真的希望你還沒有厭煩這些。
+[[/div]]
+
+[[div class="bubble"]]
+[[=image https://scp-wiki.wdfiles.com/local--files/on-guard-43-hub/6891.png]]
+++ **[[[SCP-6891]]]: 如何不費吹灰之力治好焦慮症**
+由[[*user Sound Chaser]]撰寫
+
+VKTM教授正念! 讓VKTM進入你的頭腦，讓我們在那里紮根一下。因為說實話，我們本來不//需要//征求許可。
+[[/div]]
+
+[[div class="bubble"]]
+[[=image https://scp-wiki.wdfiles.com/local--files/on-guard-43-hub/VKTMnews.png]]
+++ **[[[維坎德—尼得世界新聞網 ]]]**
+由[[*user Cole 13]]撰寫
+
+SCP基金會重組成為疑似避稅場所，留意11點新聞報導。
+[[/div]]
+
+[[div class="bubble"]]
+[[=image https://scp-wiki.wdfiles.com/local--files/on-guard-43-hub/7007.png]]
+++ **[[[SCP-7007]]]: 禍福峽**
+由[[*user Grigori Karpin]]，[[*user Vivarium]]撰寫
+
+你準備好迎接VKTM節日特集了嗎？這個節日是個叫做 「SCP-7000競賽 」的東西，這個問題是反問句，因為你已經在片場和鏡頭前了，Marjorie! 我相信O5議會的其他成員都希望你在比賽開始時能有好運氣。(要承認危害人類的罪行，請留到閃電回合)。
+[[/div]]
+
+[[div class="bubble"]]
+[[=image https://scp-wiki.wdfiles.com/local--files/on-guard-43-hub/Trainee.png]]
+++ **[[[菜鳥上當]]]**
+由[[*user Guezma]]撰寫
+
+羅恩.甘比學懂刻骨銘心的一課：在領航者時代，社交媒體是一個充滿危險壞份子的毒沼。能在新時代中看到傳統的延續，很好。
+[[/div]]
+
+[[div class="bubble"]]
+[[=image https://scp-wiki.wdfiles.com/local--files/on-guard-43-hub/7806.png]]
+++ **[[[SCP-7806]]]: 是該給dado**
+由[[*user HarryBlank]]撰寫
+
+奇葩的媒體環境迎合所有的口味，有時會產生一些高深莫測的狗屎。比如......誰這麼想看到某個女演員的膝蓋？還看這麼//多？//
+[[/div]]
+
+[[div class="bubble"]]
+[[=image https://scp-wiki.wdfiles.com/local--files/on-guard-43-hub/7069.png]]
+++ **[[[SCP-7069]]]: VKTM呈獻：讀者 x 你！**
+由[[*user LORDXVNV]]撰寫
+
+當你生活在一個並不全是真實的世界，擁有讀者//確切地說//意味著什麽？
+[[/div]]
+
+[[/collapsible]]
+
+----
+[[collapsible show="+ 系列：原形體，由Placeholder McD撰寫" hide="- 空位角色問題！"]]
+@@ @@
+[[image https://scp-wiki.wdfiles.com/local--files/on-guard-43-hub/Archetypicals.png]]
+
+[[div class="brief"]]
+++ ##white|**第零季：**##
+++ ##white|**神話製造**##
+[[/div]]
+
+[[div class="bubble"]]
+[[=image https://scp-wiki.wdfiles.com/local--files/on-guard-43-hub/LimitedMemory.png]]
+++ **[/ai-classification-guide 有限的記憶]**
+由[[*user its a bad idea]]、[[*user Pedagon]]、[[*user Placeholder_McD]]與[[*user Tyumen]]撰寫
+
+.aics Mnemosyne、Glacon和8-ball為了將他們脆弱的人類管理者從所謂的先知WAN手中解放出來而戰鬥。他們會在CORE想起他們的盟友前忘記他們的敵手嗎？
+[[/div]]
+
+[[div class="bubble"]]
+[[=image https://scp-wiki.wdfiles.com/local--files/on-guard-43-hub/INTEGER.png]]
+++ **[/scp-5242 SCP-整數]**
+由[[*user Placeholder_McD]]撰寫
+
+Site-15的主管對一個危險的語義異常感到過度好奇，掉入了自我描述的邏輯真敘述之網中。不要問這網是誰織的。説真的，別問。
+[[/div]]
+----
+[[div class="brief"]]
+++ ##white|**第一季：**##
+++ ##white|**單神話學**##
+[[/div]]
+
+[[div class="bubble"]]
+[[=image https://scp-wiki.wdfiles.com/local--files/on-guard-43-hub/PLACEHOLDER.png]]
+++ **[[[placeholder|佔位符]]]**
+由[[*user Placeholder_McD]]撰寫
+
+至尊超形上學家聽到了遠自星際海灣而來的冒險召喚。他會成為這趟旅程的英雄嗎？如果是，他會尋獲什麼，又會使他產生什麼改變。
+[[/div]]
+
+[[div class="bubble"]]
+[[=image https://scp-wiki.wdfiles.com/local--files/on-guard-43-hub/BLANK.png]]
+++ **[[[blank|布蘭克]]]**
+由[[*user Placeholder_McD]]撰寫
+
+如果佔位符 · 米克博士要探索這個故事洞窟，他會需要一個團隊。最好是一個有著未察覺的敘事潛力的隊伍，如果你願意的話，一張白紙也不錯。而你確實願意！這故事早已被完成。
+[[/div]]
+
+[[div class="bubble"]]
+[[=image https://scp-wiki.wdfiles.com/local--files/on-guard-43-hub/CAST.png]]
+++ **[[[cast|演員名單]]]**
+由[[*user Placeholder_McD]]撰寫
+
+米克博士和布蘭克已經承諾了，但佔位符探索引擎仍然需要補充原型體。佔位有著名單，是時候徵選次要角色了。
+[[/div]]
+
+[[/collapsible]]
+
+----
+
+[[collapsible show="+ 加拿大式收容：不同作者們的獨立故事" hide="- 來自被保護的王國的故事"]]
+
+[[div class="bubble"]]
+[[=image https://scp-wiki.wdfiles.com/local--files/on-guard-43-hub/Cash.png]]
+
+++ **[[[scp-cash4d-j|SCP-CASH4D-J]]]：善於交際之人**
+由[[*user HarryBlank]]撰寫
+
+情況確實有變。以往他們毫不三思就將人丟進幾何絞肉機裡。他們為什麼不再這麼做了？其實，有個地下都市傳說這麼傳言......
+
+[[/div]]
+
+[[div class="bubble"]]
+[[=image https://scp-wiki.wdfiles.com/local--files/on-guard-43-hub/5977.png]]
+
+++ **[[[SCP-5977]]]：承重部件**
+由[[*user HarryBlank]]撰寫
+
+你去過多倫多嗎？搭過地鐵路線？博物館站有些殘餘的異常狗屁。雖然他們說這很安全，但一個憑空出現的承重雕塑？你別告訴我這是件正常的事。就連我們看來，這也一點都不正常。
+[[/div]]
+
+[[div class="bubble"]]
+[[=image https://scp-wiki.wdfiles.com/local--files/on-guard-43-hub/5583.png]]
+
+++ **[[[SCP-5583]]]：獨角獸Skippy已經受夠你的爛事了**
+由[[*user nickthebrick1]]與[[*user HarryBlank]]撰寫
+
+有想過在天黑後的派對餐廳裡閒晃有多好玩嗎？那不會多好玩的。曾經覺得派對餐廳裡的機械動物像噩夢一樣？你不應該這麼想的，除非你是其中一員。
+[[/div]]
+
+[[div class="bubble"]]
+[[=image https://scp-wiki.wdfiles.com/local--files/on-guard-43-hub/5486.png]]
+++ **[[[SCP-5486]]]：不朽連結**
+由[[*user Grigori Karpin]]與[[*user PlaguePJP]]撰寫
+
+你對於這個世界有多災難有概念嗎？當你看到怪物列隊與我們為敵，而你需要尋找對抗它們的方法......不用在意，我們能搞定的。來搖滾吧。
+[[/div]]
+
+[[div class="bubble"]]
+[[=image https://scp-wiki.wdfiles.com/local--files/on-guard-43-hub/Danimals.png]]
+
+++ **[[[Danimals | Danimals牌奶昔]]]**
+由[[*user HarryBlank]]撰寫
+
+你有注意到許多基金會研究人員和關注人物都叫做Dan什麼的嗎？某個人似乎察覺到了這點，這是他們為此做出的反應。
+[[/div]]
+
+[[div class="bubble"]]
+[[=image https://scp-wiki.wdfiles.com/local--files/on-guard-43-hub/5488.png]]
+
+++ **[[[SCP-5488]]]：評級貼紙**
+由[[*user nickthebrick1]]與[[*user HarryBlank]]撰寫
+
+異常媒體越來越失去控制了。接下來還有什麼？恢復被刪除場景的書套？會//使//你買東西的廣告？能改變內容的評級貼紙？
+[[/div]]
+
+[[div class="bubble"]]
+[[=image https://scp-wiki.wdfiles.com/local--files/on-guard-43-hub/Swear.png]]
+
+++ **[[[it-s-real-i-swear|我發誓那是真的]]]**
+由[[*user HarryBlank]]撰寫
+
+異視維基對我們來說是個麻煩。不，不是這個方面，噤聲他們很容易，他們也不是很擅長挖掘事件。然而，他們//是//異常災難的吸引機。
+[[/div]]
+
+[[div class="bubble"]]
+[[=image https://scp-wiki.wdfiles.com/local--files/on-guard-43-hub/6069.png]]
+
+++ **[[[SCP-6069]]]：丘比特的天使**
+由[[*user nickthebrick1]]撰寫
+
+你會不會覺得愛意從這個世界上消失了？那大概發生在什麼時候？就是，你有這種感覺的時候？不，我需要知道確切的日期。為了報告用途。
+[[/div]]
+
+[[div class="bubble"]]
+[[=image https://scp-wiki.wdfiles.com/local--files/on-guard-43-hub/Deer.png]]
+
+++ **[[[one-spark-four-flames|一閃而四焰]]]**
+由[[*user Ralliston]]撰寫
+
+當你把一個鹿神、一位波蘭法師、兩位美洲法師、一名加拿大神學家，以及斯洛斯皮特的故事書世界合在一起時會得到什麼？火。你會得到火。
+[[/div]]
+
+[[div class="bubble"]]
+[[=image https://scp-wiki.wdfiles.com/local--files/on-guard-43-hub/6622.png]]
+
+++ **[[[SCP-6622]]]：河狸之力**
+由[[*user bigslothonmyface]]撰寫
+
+「加拿大？他們那裡有什麼，異常楓糖漿駝鹿？」不。首先，駝鹿的複數型是「moose」。其次，我們有的是水力發電河狸。
+[[/div]]
+
+[[div class="bubble"]]
+[[=image https://scp-wiki.wdfiles.com/local--files/on-guard-43-hub/Martinet.png]]
+
+++ **[[[the-martinet-effect|馬提內效應]]]**
+由[[*user HarryBlank]]撰寫
+
+勒布朗博士和維特爾博士已經在一起相處一段時間了。那對他來說不是特別健康。但也許，只是也許，對維特爾博士來說挺健康的......
+[[/div]]
+
+[[div class="bubble"]]
+[[=image https://scp-wiki.wdfiles.com/local--files/on-guard-43-hub/6029.png]]
+
+++ **[[[SCP-6029]]]：破裂**
+由[[*user nickthebrick1]]撰寫
+
+全球超自然聯盟和SCP基金會之間一直存在著隔閡，我們的宗旨和方法互不相容。有什麼方法能在這之中建立聯繫的橋樑？
+[[/div]]
+
+[[div class="bubble"]]
+[[=image https://scp-wiki.wdfiles.com/local--files/this-page-intentionally-left-blank/PoP.png]]
+
+++ **[[[pride-of-place|驕傲至上之所]]]**
+由[[*user HarryBlank]]撰寫
+
+某些事情真的是永久的。
+[[/div]]
+
+[[div class="bubble"]]
+[[=image https://scp-wiki.wdfiles.com/local--files/on-guard-43-hub/Uni.png]]
+++ **[[[top-5-colleges |五間最推薦學習黑暗力量的學院！第一名絕對會嚇死你！]]]**
+by [[*user LORDXVNV]]
+
+在毀壞假面中，Site-43可能會向大學生敞開它的大門。它獲得的評價如何？誰的課是你應該修的？誰的課你//不應該//上？
+[[/div]]
+
+[[div class="bubble"]]
+[[=image https://scp-wiki.wdfiles.com/local--files/on-guard-43-hub/TheForms.png]]
+
+++ **[[[the-forms|表格]]]**
+由[[*user HarryBlank]]撰寫
+
+在一間陰鬱沈悶的辦公室裡，埃斯特羅姆博士對她被迫整天簽署的文件表格感到懷疑人生。她的良心隨即感到痛楚，使她開始了一連串長篇大論以保持精神的溫度。冷靜一點，凱倫，簽你的表格。
+[[/div]]
+
+[[div class="bubble"]]
+[[=image https://scp-wiki.wdfiles.com/local--files/on-guard-43-hub/6911.png]]
+
+++ **[[[SCP-6911]]]：我需要的只是一點自我時間。**
+由[[*user Uncle Nicolini]]撰寫
+
+艾佛伍德博士最近承擔了許多壓力，就和通往他們辦公室的通道裡的現實一樣。有件和SCP基金會裡的巧合有關的事：它們不是回事。
+[[/div]]
+
+[[div class="bubble"]]
+[[=image https://scp-wiki.wdfiles.com/local--files/on-guard-43-hub/Caps.png]]
+++ **[[[SCP-6121]]]：大寫鎖定戰隊**
+由[[*user HarryBlank]]撰寫
+
+你有注意到我們這些日子以來收容了多少有趣的SCP們嗎？是從什麼時候開始的？為什麼我從來沒聽過那第一個被收容的有趣傢伙？
+[[/div]]
+
+[[div class="bubble"]]
+[[=image https://scp-wiki.wdfiles.com/local--files/on-guard-43-hub/6913.png]]
+++ **[[[SCP-6913]]]：只有媽媽會愛的馬克杯**
+由[[*user Grigori Karpin]]撰寫
+
+有時候很容易失去遠見。
+[[/div]]
+
+[[div class="bubble"]]
+[[=image https://scp-wiki.wdfiles.com/local--files/on-guard-43-hub/Standoff.png]]
+++ **[[[a-canadian-standoff|加拿大式對峙]]]**
+由[[*user Kensing]]撰寫
+
+有個問題：如果午餐不是很好，而且食物是外國口味，偷同事的午餐是被允許的嗎？理由嗎，是的，提出假設的人//是//美國人。你怎麼猜到的。
+[[/div]]
+
+[[div class="bubble"]]
+[[=image https://scp-wiki.wdfiles.com/local--files/on-guard-43-hub/5496.png]]
+++ **[[[SCP-5496]]]：Site-43意見箱**
+由[[*user RealSurrealSir]]撰寫
+
+一個可以**真正**發現人們所關注事情的意見箱。多棒！
+或是其實不然......是啊，從結果來看，真的不是這樣。
+[[/div]]
+
+[[div class="bubble"]]
+[[=image https://scp-wiki.wdfiles.com/local--files/on-guard-43-hub/6645.png]]
+++ **[[[SCP-6645]]]: 我全都覺得很火**
+by [[*user NDHeckfire]]
+
+在Site-43有一個熱門的新趨勢：物理上的著火。我們迫不及待想知道這到底是一個可怕的新事物還是一個白癡的新事物! 賠率是50/50。
+[[/div]]
+
+[[div class="bubble"]]
+[[=image https://scp-wiki.wdfiles.com/local--files/on-guard-43-hub/TheHole.png]]
+++ **[[[SCP-6836]]]: 義務之洞**
+by [[*user MrBadFellow]]
+
+在--哨站-- --臨時站點-- Site-232 的牆上有一個洞，它給菲勞斯博士、一整群古怪的專家以及可能是地球上的所有生命帶來了一個地獄般的問題。
+[[/div]]
+
+[[div class="bubble"]]
+[[=image https://scp-wiki.wdfiles.com/local--files/on-guard-43-hub/5243J.png]]
+++ **[[[SCP-5243-J]]]: 不斷向量的向量圖形**
+by [[*user OliverMemphis]]
+
+你有沒有注意到本站很多東西都有自己的標志？是的，大部分都是布蘭克博士做的。不過，作為檔案管理員，他的歸檔系統還真有意思。
+[[/div]]§
+
+[[/collapsible]]
+----
+[[collapsible show="+ 罐頭藝術：就像真的藝術，不過有補貼" hide="- 去你畫的"]]
+[[div class="bubble"]]
+[[=image https://scp-wiki.wdfiles.com/local--files/on-guard-43-hub/SevenCanucks.png]]
+++ **[[[art:seven-canadian-protagonists | 七位加拿大主角]]]**
+由[[*user HarryBlank]]繪製
+
+臨時特遣隊Sampi-5243正處在他們的中年榮耀時期。
+[[/div]]
+
+[[div class="bubble"]]
+[[=image https://scp-wiki.wdfiles.com/local--files/on-guard-43-hub/War.png]]
+++ **[[[art:the-warrior-and-the-warlock | 戰士與術士]]]**
+由[[*user HarryBlank]]繪製
+
+他們永不消逝。
+[[/div]]
+
+[[div class="bubble"]]
+[[=image https://scp-wiki.wdfiles.com/local--files/on-guard-43-hub/SPaHD.png]]
+++ **[[[art:sweet-phil-and-hella-doug | sweet phil and hella doug]]]** [[footnote]]取名自小畫家冒險故事網站上的連載漫畫Sweet Bro and Hella Jeff[[/footnote]]
+由[[*user RosySaturniidae]]繪製
+
+不就是是娜個羹⋯⋯
+[[/div]]
+[[/collapsible]]
+----
++++ 可能看起來有些擁擠，屋頂高度稍不足夠，
++++ 但至少不透水——幾乎——這建築非為作秀，
++++ 若毛茸茸的熊在躁動，或彈片噴濺四處，
++++ 身在地底下能使你更加安住。
+-- //埃德加．W．麥金尼斯//
+[[/=]]
+----
+
+[[include :scp-zh-tr:theme:blankstyle]]
+[[div]]
+[[tabview]]
+[[tab 那，這是啥回事？]]
+[[=]]
++ ##990011|噢！ //加拿大。//##
+----
+[[image https://scp-wiki.wdfiles.com/local--files/on-guard-43-hub/52435956.jpg]]
+[[/=]]
+保衛43世界線圍繞加拿大安大略省的站點Site-43。 它本為一系列環環相扣的故事和SCP， 其後擴展成為更全面的 //背景。// 保衛43有三個連載中的「系列」：
+
+* **力與毒之語** -- [[*user HarryBlank]]筆下的故事，講述站點 Site-43被迫參與的持久戰；敵方無法平息，古老，而精通模因；
+* **維坎德-尼得科技媒體中心** -- 某個可怕而危險的， 充滿黑色幽默的，由[[*user Grigori Karpin]]所創造的模因媒體企業的荒唐行徑;
+* **原形體** -- [[*user Placeholder McD]]的史詩級肥皂劇。當中，次要角色們響應源自太空/敘事空間深處的召喚，進行大冒險。
+
+想為這個世界線寫作嗎？ 你毋需用指定的角色 -- 用也無任歡迎！ 你毋需參與現存的故事線 -- 參與也無任歡迎! (《原形體》除外 -- 該系列不開放參與) 你甚至毋需把站點Site-43設為地點 -- 但你可以 -- 前提是用到下一頁寫到的部分元素。 建議你把這個地方視為敘事工具包 -- 我們有精心策劃好的站點， 一大群任你魚肉的登場人物， 更有滿滿的加國氛圍；足以抑制你完全不該有的念頭 -- 例如成立真的加拿大分部。
+
+這是一條關於活生生的人應對各種怪誕情境的世界線。感興趣的話， 往前點擊下一頁。
+
+[[/tab]]
+[[tab 故事背景]]
+[[=]]
++ ##990011|守衛和平國度##
+----
+[[/=]]
+**SCP基金會休倫湖R&C站點Site-43** 是加拿大最大的基金會設施名稱的全寫。Site-43分別有三項專長： 處理收容中的實體排出的毒物； 發掘歷史記載卻未被收容的異常 ；在數個關注組織不休的模因攻擊下維持常態。
+[[f>image https://scp-wiki.wdfiles.com/local--files/on-guard-43-hub/AAFC.jpg]]
+加拿大作為基金會的非重點地區，設定上與其他R&C設施稍有分別。 職員被分編至各個偽科學部門，受鼓勵參與長期的協作研究專案。 收容措施較有創意 ； 五大湖密集的超自然活動令「關起來」這套不切實際， 只好制定反常的對策。收容失效鮮少發生， D級人員幾乎不太用到， 職員彼此之間親密無間。大家都要住在43， 但不是大家都討厭這個安排。
+
+其中一個研究焦點為//schriftsteller// 和//giftschreiber// -- 兩個古老的奧地利秘密組織， 他們是或捍衛、或破壞宇宙秩序起源的模因群組。 出於尚未弄清的原因，//giftschreiber// 自1960年代末不斷干擾加拿大政府和站點Site-43運作。[[[SCP-5054-EX]]]是不錯的入門篇章。
+
+站點Site-43的另一個行動焦點是針對重點組織5889 -- 維坎德-尼得科技媒體中心 -- 進行收容。這個組織的起源和目的不為人知，但他們對美國的媒體格局已帶來顯著影響。 VKTM製作的獵奇媒體把人迫瘋，揭起受眾的瘡疤， 嘲諷他們的錯誤， 總言之令人不安而目標不明。 他們甚至十分清楚43盯著他們不放。[[[SCP-5889]]]是不錯的入門篇章。
+
+**時段：** 這條世界線覆蓋三個主要時間段， 如下粗略劃分:
+* 過去 -- //giftschreiber//發源的17世紀起，到臨時站點Site-43成立的1940年代， 以至首位主任退休、辭世的1997年;
+* 現在 -- 1990年代起 -- 即現在活躍的人物在43開始工作的時間 -- 至現實時間起約一兩年後；
+* 未來 -- 2030年代，即《原形體》展開的時段。
+
+**連動** -- 與其餘世界線不過分衝突的世界線都能納入⋯⋯保衛43本身的世界線當中。如果該世界線不把地點換成太空，不用怪獸毀壞假面，不聲稱沒有基金會的話，也許在這裏發生過。這不代表其他世界線一定包含保衛43； 雙向關係不必成立。十分歡迎與其他世界線的連動！
+
+S&C塑膠是數一數二好搭配的世界線。 其實，S&C塑膠更是保衛43世界線固定的內容。 不喜歡Site-87的話， Site-43也許不會是你的菜。
+
+重生部分元素同樣視為固定內容。在[[[resurrection-old-foes-hub|重生·舊敵]]]分頁介紹的ETTRA是《力與毒之語》中的重點部門。 [[[resurrection-new-faces-hub|重生·新兵]]]作為重生·舊敵的一部分， 同樣納入保衛43世界的歷史。
+
+至於[[[aiad-homescreen|AIAD]]]，有鑒於有限記憶系列中佔位符 · 米克博士的出現， 也是固定內容。
+
+[[/tab]]
+[[tab 角色列表]]
+[[=]]
++ ##990011|//[[span class="ruby"]]Dramatis Personae[[span class="rt"]]劇中人[[/span]][[/span]]//##
+----
+++ Site-43人員（活躍中）
+[[/=]]
+[[div class="table3"]]
+[[div class="tableb"]]
+||~ 全部門部長 ||~ Nexus事務部部長 ||
+|||| 來自凱爾特角保留地Nexus-94的[/whose-lake-is-it-anyway 莫霍克戰士]。冷靜、沉著而完美的專業人士。他是站點各部門與周圍社群的重要聯繫人，更是麥金尼斯主任[/the-huron-carol 最親暱的知己]。 ||
+||~ [[span class="ruby"]]Blank， Dr. Harold Robert[[span class="rt"]]哈羅德．羅伯特．布蘭克博士[[/span]][[/span]] ||~ 歸檔與修校部主席 ||
+|||| 歷史學家，專門在[[[dissertation|文學材料中核實]]]異常物體的存在。脾氣暴躁、尖酸刻薄，[[[the-green-machine|沒事就要挖苦人家]]]。心地善良、不修邊幅，是莉莉哈默博士[[[the-huron-carol|最好的朋友]]]。與研究夥伴布萊德伯利博士[[[the-b-b-decommission|正在熱戀中]]]。||
+||~ [[span class="ruby"]]Bradbury， Dr. Melissa[[span class="rt"]]梅莉莎．布萊德伯利博士[[/span]][[/span]] ||~ 研究與實驗部主席 ||
+|||| Site-43綜合理論主席。在遭受了[[[SCP-5056]]][[[the-significant-others-part-a|創傷攻擊]]]後請了十八年的假，[[[the-b-b-decommission|這要比聽起來的強大多了]]]；畢竟多數受害者還會把自己的眼球挖出來。與布蘭克博士熱戀中。 ||
+||~ [[span class="ruby"]]Deering， Philip Eugene[[span class="rt"]]菲力普．尤金．迪林[[/span]][[/span]] ||~ 清潔與維護部技術員JM64 ||
+|||| 職業清潔工。沒有野心、沒有自我、沒有晉升的慾望。溫和憨厚、心地善良，卻能在[[[who-framed-ralph-roget|必要時]]][[[the-b-b-decommission|表現得很勇敢]]]。[[[SCP-5056]]]異常的一半，經常被另外一半[[[scp-5056-tests|騷擾]]]：一個透過[[[the-significant-others-part-a|不斷的辱罵]]]表達自己愛意的鏡子怪物。與清潔與維護部長托羅斯楊部長[[[the-significant-others-part-a|穩定]]]交往中。||
+||~ [[span class="ruby"]]Ibanez， Chief Delfina[[span class="rt"]]德里菲那．伊巴內茨部長[[/span]][[/span]] ||~ 追剿與鎮壓部部長 ||
+|||| Site-43駐站機動特遣隊隊長，短小精幹，堅韌不拔[[[the-moloch-mentality|絕不忍氣吞聲]]]，以身作則，絕不放權。||
+||~ [[span class="ruby"]]Elstrom， Dr. Karen[[span class="rt"]]凱倫．埃斯特羅姆博士[[/span]][[/span]] ||~ 行政與監督部部長 ||
+|||| [/scp-5109 挑剔的管理者]兼[/the-forms 完美的官僚]。不知為何經常[/the-huron-carol 抱病][/passing-sentence 在身]。 ||
+||~ [[span class="ruby"]]Lillihammer， Dr. Lillian Shelby[[span class="rt"]]莉莉安．謝爾貝．莉莉哈默博士[[/span]][[/span]] ||~ 模因與反模因部主席 ||
+|||| 有著天才級別的智慧。[[[secure-facility-dossier-site-43| Site-43]]]的模因學大師：發現、破譯、[[[scp-5524|無效化]]]與[[[scp-5956|製造]]]都樣樣精通。總是能比其他人[[[meanwhile-in-australia|多算好幾步]]]。是[[[vikander-kneed-technical-media-hub|維坎德—尼得科技媒體]]]首席研究員。反社會而傲慢，卻因其能力過人而不會惹人介意。是布蘭克博士[[[dissertation|最好的朋友]]]。||
+||~ [[span class="ruby"]]McInnis， Dr. Allan James[[span class="rt"]]艾倫．詹姆斯．麥金尼斯主任[[/span]][[/span]] ||~ 站點主任 ||
+|||| 出生英國的美國僑民，在伊頓學院接受教育，並於Site-91接受培訓。不慌不拔，堅毅卻不苛刻的任務負責人。[[[ready-or-not|能在壓力下保持冷靜]]]。出於他[[[scp-5379|溝通相關的背景]]]，能在不過度管束的情況下，讓他的員工發揮出最佳表現。||
+||~ [[span class="ruby"]]Ngo， Dr. Nhung Tran[[span class="rt"]]吳絨晨博士[[/span]][[/span]] ||~ 心理與超心理部主席 ||
+|||| Site-43[[[scp-5162|首席心理學家]]]，是[[[spread-the-word|基線人類]]]與異常心理學方面的專家。精神與身體都相當強大；還是一位武術大師──這是與//麻煩人物//訪談的必要副產物。||
+||~ [[span class="ruby"]]Okorie， Dr. Udo Amara[[span class="rt"]]烏多．阿瑪拉．奧科里博士[[/span]][[/span]] ||~ 應用超自然部部長 ||
+|||| 英國僑民，是[[[georgian-gothic|淵遠而驕傲]]]魔法廢物消解者的繼承人。最年輕的部門主席，是個//神童//。比自覺的還更有能耐。她是一位[[[whack-a-mole|奇蹟術師]]]。||
+||~ [[span class="ruby"]]Reynders， Dr. Ilse Dorothea[[span class="rt"]]伊茜．多羅西亞．雷恩代爾博士[[/span]][[/span]] ||~ 奧秘消解部部長 ||
+|||| [[[scp-5616|1940年代遭到時間凍結的奧秘消解研究員]]]，並在近期終於逃了出來。她不老，花了八十年時間成為基金會十幾個領域的頂尖人物。長期的禁錮讓她渴望與人交流，但卻缺乏智力相配的夥伴。||
+||~ [[span class="ruby"]]Sokolsky， Dr. Daniil[[span class="rt"]]丹尼爾．索科爾斯基博士[[/span]][[/span]] ||~ 潛在威脅戰術應對機構部長 ||
+|||| [[[scp-5109|詭計多端、陰險狡詐、謀劃連連]]]，熱愛拜占庭式的陰謀，永遠保持過人一等，喜歡向同事炫耀和讓敵人難堪。[[[the-time-after-time-password-hub|對複雜的事物成癮]]]。傲慢的性格相當惹人厭。 ||
+||~ [[span class="ruby"]]Torosyan， Chief Amelia Ohanna[[span class="rt"]]愛米莉亞．奧哈娜．托羅斯楊部長[[/span]][[/span]] ||~ 清潔與維護部部長 ||
+|||| [[[the-significant-others-part-a|有著明亮雙眼的認真女王]]]，支配著廢物清理、器物修理與[[[scp-6622 |功能維護]]]作業。她有著用之不竭的經歷與[[[the-huron-carol|同情心]]]，卻也[[[who-framed-ralph-roget|堅若磐石不屈不饒]]]。是菲力普．迪林[[[the-significant-others-part-b|更好的另一半]]]。||
+||~ [[span class="ruby"]]Veiksaar， Chief Eileen Katrijn[[span class="rt"]]艾琳．卡特里娜．維克薩爾部長[[/span]][[/span]] ||~ 身分與技術密碼學部部長 ||
+|||| 已經對數十年來學者爭論不休的管理技術問題[/lost-in-the-translation 厭倦不已]。在獲聘後不久，就不得不[[[scp-5295|揭發自己上司]]]是馬克士威教會的臥底；對基金會職員[[[scp-5109|非道德使用異常]]]深惡痛絕。曾與莉莉哈默博士[[[dissertation|有段戀情]]]。||
+||~ [[span class="ruby"]]Wettle， Dr. William Wallace[[span class="rt"]]威廉．華萊士．維特爾博士[[/span]][[/span]] ||~ 複製研究科副主席 ||
+|||| [[[not-my-sloths-not-my-pit|魯莽]]]、[[[if-you-don-t-know-the-words|冷血]]]、[[[whack-a-mole|粗野]]]、[[[scp-5056-tests|怠惰]]]而[[[scp-5524|笨拙]]]。[[[the-huron-carol|毫無想像力可言]]]。不快樂的美國人。有著可能受到潛在異常影響的[[[the-lamest-story-never-told|壞運氣，可能比看上去要不幸的更多]]]；經常受到[[[scp-5904|惡搞]]]、[[[character-development|侮辱]]]還有[/the-martinet-effect 誤導]，尤其是來自布蘭克博士的。||
+[[/div]]
+[[/div]]
+[[=]]
+++ 關聯人員
+[[/=]]
+[[div class="table2"]]
+[[div class="tableb"]]
+||~ [[span class="ruby"]]███████， Dr. Daniel[[span class="rt"]]丹尼爾．███████博士[[/span]][[/span]] ||~ 潛在威脅戰術應對機構主任 ||
+|||| 第一個飛的離太陽過近的研究員。為了表明立場，刻意破壞[[[SCP-096]]]的收容而[[[incident-096-1-a|被判處死刑]]]。但其實是在暗地精心策畫了十幾年的[[[such-a-shame-it-didn-t-work|廢除提案]]]，後來又肩負起了基金會抵禦[[[resurrection-old-foes-hub|喬治．鮑爾將軍]]]的策畫工作。現在，他負責全基金會潛在威脅應對的協調工作，並以此為那個影響終生的決定贖罪。 ||
+||~ [[span class="ruby"]]Asheworth， Dr. Daniel[[span class="rt"]]丹尼爾．阿席沃什博士[[/span]][[/span]] ||~ Site-120站點主任 ||
+|||| [[[and-every-time-we-meet-again-hub|奇蹟術師兼煉金術師，還是個容易衝動的非自願英雄]]]，在眾多平行世界都是如此。曾協助打造過[[[whack-a-mole|REISNO加農]]]。有時是個[[[inadvertent-neolinguistics|令人費解的人]]]。 ||
+[[/div]]
+[[/div]]
+[[=]]
+++ Site-43人員（非活躍）
+[[/=]]
+[[div class="tableb"]]
+||~ [[span class="ruby"]]Deering， Dr. Dougall Alton[[span class="rt"]]道格．阿爾頓．迪林博士[[/span]][[/span]] ||~ 前應用超自然部主席 ||
+|||| 與菲力普[[[the-significant-others-part-a|疏遠的手足]]]。在2002在[[[scp-5956|完全由自己造成的]]][[[scp-5243|神秘事件]]]中喪生。他的手足還[[[scp-5756|不知道他的死亡]]]。 ||
+||~ [[span class="ruby"]]Falkirk， Dr. Edwin Scott[[span class="rt"]]艾德溫．史考特．伏克爾克博士[[/span]][[/span]] ||~ 前全部門部長、代理主任 ||
+|||| [[[SCP-5054-EX|討人厭的老男孩俱樂部學者]]]，堅定信任著強硬手腕、鋒利鞭子與[[[the-good-work|冷酷舉措]]]。在2003年遭到[[[SCP-5056]]][[[scp-5056-tests|襲擊]]]後陷入永久昏迷。||
+||~ [[span class="ruby"]]Rydderech， Dr. Wynn Rhys[[span class="rt"]]懷恩．里斯．瑞德雷奇博士[[/span]][[/span]] ||~ 共同榮譽主任 ||
+|||| [[[acroamatic-abatement|奧秘消解發明人]]]兼臨時站點Site-43[[[dead-dogs-magic-mounties|共同創始人]]]之一。[[[the-good-work|各方面來說]]]都是史考特博士的長期夥伴。已經隱退的他變得緊張且易怒。現在[[[scp-5520|是位於站點地下的現實扭曲者]]]，繼續為基金會無效化奧秘流質。可能是不死之身，精神相當不穩定。 ||
+||~ [[span class="ruby"]]Scout， Dr. Vivian Lesley[[span class="rt"]]維維安．萊斯利．史考特博士[[/span]][[/span]] ||~ 榮譽主任 ||
+|||| Pioneer of [[[scp-5382|異常歷史研究]]]先驅兼臨時站點Site-43[[[dead-dogs-magic-mounties|共同創始人]]]之一。長期擔任站點主任，基本可以說是基金會加拿大活動的行動總管。[[[scp-5494|Nexus-94]]]創始人。[[[the-good-work|瑞德雷奇博士的長期夥伴，同時也是蒂洛．茨維斯特的聯絡負責人]]]。1943年起就主持著站點所有的擴建、招募與培訓。1996年退休，並在1997年以高齡壽終正寢。||
+[[/div]]
+[[=]]
+++ 關注人士
+[[/=]]
+[[div class="table5"]]
+[[div class="tableb"]]
+||~ [[span class="ruby"]]Zwist， Thilo[[span class="rt"]]蒂洛．茨維斯特[[/span]][[/span]] ||~ //schriftsteller// ||
+|||| 出生於十七世紀的奧地利[[[scp-5382|模因學家]]]，並透過未知的異常手段延續壽命至今，並與[[[scp-5054-ex|GoI-5054]]]（//giftschreiber//）不斷的對抗著。在名義上與Site-43和基金會結盟，處理北美的模因危害活動。過著[[[scp-5813|多采多姿]]]的生活，可能有[[[scp-5734|培訓過學徒]]]。||
+[[/div]]
+[[/div]]
+[[=]]
+++ 原型體登場角色
+[[/=]]
+[[div class="table2 tableb"]]
+||~ [[span class="ruby"]]Blank， Dr. Harold Robert[[span class="rt"]]哈羅德．羅伯特．布蘭克博士[[/span]][[/span]] ||~ Site-43站點主任 ||
+|||| 見上文。 ||
+||~ [[span class="ruby"]][[[*http://scp-zh-tr.wikidot.com/scp-5466|Dune， Dr. Jason "Jay"]]][[span class="rt"]]傑森．「傑」．杜恩博士[[/span]][[/span]] ||~ 元虛構異常部高級研究員 ||
+|||| 大多數時候都一副興致缺缺的樣子。據說相當能幹。沒人見過他沒帶記事本的樣子。||
+||~ [[span class="ruby"]]Forkley， Dir. Eli[[span class="rt"]]依萊・福克萊博士[[/span]][[/span]] ||~ [[[*http://scp-zh-tr.wikidot.com/domc-hub|誤傳部]]]主任 ||
+|||| 語言魔術師，勉強算是治療師。野心勃勃卻不一定傲慢。在[[[*http://scp-zh-tr.wikidot.com/scp-5242|SCP-整數]]]的收容上幫了佔位符一把。想要證明自己的能力，特別是對自己。 ||
+||~ [[span class="ruby"]]Isabi， Dir. Yves[[span class="rt"]]伊夫・伊薩比博士[[/span]][[/span]] ||~ 天體物理學部主任 ||
+|||| 樂觀的白日夢家。研究著太空卻從未親自拜訪過。五十年前曾在Site-15[[[*http://scp-zh-tr.wikidot.com/aiad-homescreen|人工智慧應用部]]]和佔位符共事過。對探索和流亡備感興奮。 ||
+||~ [[span class="ruby"]]King， Madeleine[[span class="rt"]]瑪德琳・金恩博士[[/span]][[/span]] ||~ 數學部初級研究員 ||
+|||| 能力就是她的激情所在，數學更是她的愛好。是[[[*http://scp-zh-tr.wikidot.com/long-live-the-king|某個知名主管]]]的女兒。試圖不辜負她的名字，結果是憂喜參半。||
+||~ [[span class="ruby"]]McDoctorate， Dir. Placeholder[[span class="rt"]]佔位符 · 米克博士主任[[/span]][[/span]] ||~ 超形上學部原型體科主任 ||
+|||| [[[*http://scp-zh-tr.wikidot.com/mcdoctorate-s-proposal|總能講出個好故事]]]。發明了佔位符探索引擎、[[[*http://scp-zh-tr.wikidot.com/scp-5956|REISNO加農]]]、[[[*http://scp-zh-tr.wikidot.com/project-ruby|好幾個基金會AI徵用體]]]與現實敘事時空模型。遭到神靈級的命名詛咒竄改了身分資訊。[[[*http://scp-zh-tr.wikidot.com/fragmented-compiled|從一隻遭人遺忘的軍團中保護了Site-15]]]。正在試圖了解自我。||
+||~ [[span class="ruby"]]Saxon， Dr. Zachary Charles[[span class="rt"]]札卡里・查爾斯・薩克森博士[[/span]][[/span]] ||~ 超形上學部高級研究員 ||
+|||| 專業、穩健但偶爾會陷入暴躁情緒之中。超形上學部的副主任。並不害怕佔位符──他們不一定是朋友，卻有著極強的工作羈絆。有著輕微的潔癖。超形上學專家，[[[*http://scp-zh-tr.wikidot.com/scp-5875|拯救了半虛構的角色]]]。尋求著獲得讚賞。 ||
+||~ [[span class="ruby"]]Stern， Holly Dean[[span class="rt"]]霍利・迪安・斯特恩[[/span]][[/span]] ||~ Site-87系統技術員 ||
+|||| 獨立的思考著；要嘛證明你是對的，要嘛證明你是錯的。偶爾會成為團隊最聰明的人，但絕對是當中最理性的。專攻電腦科學和電子工程。值得注意的是，他是薩克森博士的摯友。致力於擺脫期望的束縛。 ||
+||~ [[span class="ruby"]]Wettle， Dr. William Wallace[[span class="rt"]]威廉．華萊士．維特爾博士[[/span]][[/span]] ||~ Site-43研究與實驗部主席 ||
+|||| 見上文。 ||
+[[/div]]
+[[/tab]]
+[[tab 時間線]]
+[[=]]
++ ##990011|大事年表##
+----
+[[/=]]
+++ ##990011|1620年代##
+
+**1622**
+4月1日：PoI-382（蒂洛．茨維斯特）於奧地利阿姆施泰藤誕生。
+
+----
+
+++ ##990011|1640年代##
+
+**1644**
+巴伐利亞軍徵招//schriftsteller//，將他們製造的武器化模因投用於三十年戰爭。
+
+**1645**
+5月2日：赫伯斯豪森戰役。弗朗茨．馮．梅西將軍屠殺了//Schriftsteller//。
+8月3日：諾丁根之戰。PoI-382（蒂洛．茨維斯特）將馮．梅西殺死。
+
+----
+
+++ ##990011|1890年代##
+
+**1897**
+5月17日：W．瑞德雷奇首創奧秘消解。
+
+**1898**
+超自然學家摩根．羅伯森出版《泰坦殘骸：徒勞無功》，開始了對世界秩序產生威脅的模因襲擊者生涯。
+
+----
+
+++ ##990011|1900年代##
+
+**1905**
+9月13日：V．L．史考特和W．瑞德雷奇於威爾士卡迪夫大學相識。
+
+----
+
+++ ##990011|1910年代##
+
+**1912**
+7月7日：W．瑞德雷奇博士加入SCP基金會。
+
+**1915**
+1月9日：W．瑞德雷奇組成奧秘消解團隊。
+4月1日：V．L．史考特博士加入SCP基金會。
+4月5日：史考特博士創建CLIO計畫，並在「[[span class="ruby"]]辛普森政策中心[[span class="rt"]]Simpson Centre for Policy[[/span]][[/span]]」作為掩飾下，成立CLIO-4歷史研究小組。
+
+**1916**
+10月28日：[[[SCP-5382]]]的首度發現。
+
+**1917**
+1月1日：萊斯．瑞德雷奇博士遭到SCP-5382-B感染身亡。
+
+----
+
+++ ##990011|1920年代##
+
+**1920**
+3月26日：V．L．史考特博士與PoI-382（蒂洛．茨維斯特）首度接觸。
+
+**1928**
+休倫湖周邊的原住民土地被賣給了開發商。
+10月17日：皇家超自然現象委員會（瓦特斯委員會）成立。
+
+----
+
+++ ##990011|1930年代##
+
+**1931**
+7月1日：皇家超自然現象委員會（瓦特斯委員會）解散。加拿大皇家騎警籌建[[span class="ruby"]]神秘與超自然活動特遣隊[[span class="rt"]]Occult and Supernatural Activity Taskforce[[/span]][[/span]]（OSAT），並由雷納德．瓦特斯負責領導。
+
+**1936**
+原住民土地上建立了伊帕瓦什省立公園。
+
+----
+
+++ ##990011|1940年代##
+
+**1942**
+加拿大聯邦政府根據《戰爭措施法》徵收史托尼第一國家保留地。伊帕瓦什軍營建立。
+4月1日：伊帕瓦什軍營地下，臨時站點Site-43開始施工。
+8月3日：在休倫湖周圍原住民保留地創建了[[[scp-5494|Nexus-94]]]。
+
+**1943**
+4月1日：臨時站點Site-43建成。
+12月31日：伊茜．雷恩代爾[[[scp-5616|受困於]]]奧秘消解設施AAF-A異常文件處理室之中。
+
+----
+
+++ ##990011|1960年代##
+
+**1960**
+6月18日：W．瑞德雷奇博士與SCP-███被捲入了一起收容突破事故中。
+
+**1964**
+3月17日：魁北克蒙特婁，OSAT雷納德．瓦特斯警司遭到狼人殺害。
+
+**1965**
+4月1日：Site-43晉升為正式站點。
+
+**1966**
+11月14日：W．瑞德雷奇博士在失蹤後成為了[[[SCP-5520]]]。
+
+**1967**
+10月19日：伊麗莎白．克洛克特工刺殺O5-7。圓形監獄危機開始。
+
+**1968:**
+1月3日：加拿大當局取消了基金會對Site-43的營運權。
+1月7日：OSAT意圖攻破Site-43不果。
+3月12日：伊札克．奧科里博士與蒂洛．茨維斯特會面，後者為新的前臺公司[[span class="ruby"]]史考特貨物包裝公司[[span class="rt"]]Scout's Cargo Packing[[/span]][[/span]]製造了密語術護盾。
+5月：伊麗莎白．克洛克運用茨維斯特密語術襲擊了一隻船隊。
+7月2日：Site-03站點主任阿布沙加．索科爾斯基遭到克洛克強行逐出蘇聯。
+Site-120奇蹟術師安娜．沃西克與波蘭蛇之手卡普薩．巴席利斯卡合作，保護了蘇聯SCPF廢棄設施內部的異常。
+9月3日：阿里克．歐拉、伊札拉．奧科里、伊茜．雷恩代爾博士發現了「語子」的存在，這便是令茨維斯特密語術得以運行的異常粒子。
+9月15日：第一個基金會自製的密語術護盾構成，並投用於新創前臺公司[[span class="ruby"]]貝殼建築合夥公司[[span class="rt"]]Shell Construction Partnership[[/span]][[/span]]的招牌上。
+
+**1969**
+2月17日：在歐拉、奧科里、雷恩代爾三位博士提議製造「卷首」──透過SCP首字母縮語構成密語數護盾的奇蹟術。該提議得到了O5議會的接受。
+7月4日：伊麗莎白．克洛克襲擊Site-43。
+7月9日：「卷首」已經成功實施。
+GoI-5054 （//giftschreiber//）開始對加拿大總理發起模因攻擊。
+
+----
+
+++ ##990011|1970年代##
+
+**1971**
+圓形監獄危機結束。
+歐拉博士在Site-43建立了仿擬與密語部（今模因與反模因部）。
+8月：歐拉博士說服PoI-922（「安迪．沃霍爾」）建立了視覺化卷首呈現，以便在非拉丁字母語言國家使用。
+
+**1979**
+5月22日：//Giftschreiber//透過模因干涉了加拿大聯邦大選。
+25 May: [[[scp-5054-ex|皮影戲行動]]]創造了虛構總理喬．克拉克。
+7月3日：A．J．麥金尼斯博士加入基金會。
+
+----
+
+++ ##990011|1980年代##
+
+**1980**
+1月1日：伊札克．奧科里博士遭到伊莉莎白．克洛克謀殺。
+
+**1984**
+歐拉博士調入Site-87。
+
+**1987**
+PoI-922工作室前成員創建了Are We Cool Yet?。
+----
+
+++ ##990011|1990年代##
+
+**1991**
+9月1日：V．L．史考特博士在多倫多大學招收博士生H．布蘭克。
+
+**1992**
+11月9日：[[[SCP-5281]]]──法屬加拿大神話中吃小孩的幽靈──在Site-43接受「收容」。
+
+**1995**
+H．布蘭克博士與L．莉莉哈默博士入職SCP基金會站點Site-43。
+伊帕瓦什危機；國防部遭到原住民抗議者自Site-43攔阻區永久驅除。
+
+**1996**
+內森．瓦立斯博士擔任Site-15[[[aiad-homescreen|AIAD]]]主任期間，參與了一起和被遺忘敵人間的戰爭。
+1月6日：Site-43身分與技術密碼學部部長R．馬洛奎恩被揭發是[[[scp-5295|馬克士威主義教會的臥底]]]。
+2月9日：V．L．史考特博士試圖廢除[[[SCP-5520]]]。
+4月1日：V．L．史考特博士退休。A．J．麥金尼斯繼任Site-43主任職。
+4月3日：[[[SCP-5281]]]接受廢除。
+
+**1997**
+4月1日：V．L．史考特博士逝世。
+4月4日：PoI-382（蒂洛．茨維斯特）正式與SCP基金會結盟。
+
+----
+
+++ ##990011|2000年代##
+
+**2002**
+5月5日：內森．瓦立斯博士遭到了[[[scp-5242|身分抽象]]]，成為了佔位符 · 米克博士。
+9月8日：SCP-5243首度爆發。造成了奧秘消解設施AAF-D大規模收容突破，導致--7-- 8名職員殉職。導致收容突破的SCP-███自事故中遭到抹去。
+9月9日：[[[SCP-5056]]]顯現。
+
+**2003**
+9月8日：SCP-5243首度復發。不穩定替代時間線生成。
+
+**2007**
+9月8日：SCP-5243第五次復發。不穩定替代時間線生成。
+
+**2009**
+5月9日：首度發現[[[SCP-5109]]]。
+
+----
+
+++ ##990011|2010年代##
+
+**2011**
+9月8日：SCP-5243第九次復發。不穩定替代時間線生成。
+
+**2013**
+阿里克．歐拉逝世。
+9月7日：首度觀察到一位清潔與維護部職員儲物櫃內物品遭到腐蝕的[[[scp-5756|年度現象]]]。
+
+**2015**
+9月8日：A．茨拉塔博士遭到SCP-5243殺害。
+
+**2016**
+9月8日：SCP-5243第十四次復發。不穩定替代時間線生成。
+
+**2017**
+9月8日：SCP-5243第十五次復發。不穩定替代時間線生成。
+
+**2019**
+9月8日：SCP-███回歸現實。
+
+----
+
+++ ##990011|2020年代##
+
+**2020**
+10月23日：Site-43遭到基金會毀滅聯盟[[[the-b-b-decommission|襲擊]]]。
+12月18-25日：Site-43遭到Are We Cool Yet?[[[the-huron-carol|襲擊]]]。
+
+**2021**
+[/scp-6500 終局爆發]。
+1月1日：Site-43特工對全球範圍內的GoI臥底進行[[[the-time-after-time-password-hub|釣魚行動]]]。
+1月22日：[[[SCP-5866]]]突破收容。
+3月30日：伊茜．雷恩代爾逃出禁錮，接任奧秘消解部主席職位。
+9月8日：SCP-5243第十九次復發。不穩定替代時間線生成。
+
+**2022**
+9月8日：[[[scp-5956|穩定替代時間線生成]]]。
+
+----
+
+++ ##990011|2030年代##
+
+**2033**
+原型體計畫開始。
+
+**2034**
+REISNO加農開發完成。
+
+----
+
+++ ##990011|1930年代後##
+
+**未知**
+伊茜．雷恩代爾重分配至時間異常部，並最終晉升為主任職。
+
+[[/tab]]
+[[tab 如何貢獻]]
+[[=]]
++ ##990011|所以你想當個加拿大佬？##
+----
+[[/=]]
+想幫這個設定添磚加瓦嗎？很簡單啦。簡單到Harry都會寫。你有下面兩種方法：
+
+* 大略閱讀一下前面兩個系列（《力與毒之語》和《維坎德—尼得科技媒體》），確認一下自己是否真想要做出貢獻；
+* 啥研究也不做，去詢問現有的作家，看看你的興趣如何融入其中；
+* 感受一下這個地方，想像出屬於你的獨立創作，然後把它寫下來。
+
+你不需要給這個設定加點核心敘事才算有貢獻。把東西設定到43站並跟現有材料對得上頻道，這樣就已經很棒了。不過，如果你確實想給這兩個開放的系列作品做出貢獻，記住下面這些事情：
+
+* 如果你覺得自己寫的可能跟別人撞設定，請先試著跟他討論一下；
+* 不要給別人的私設寫太個人的東西；
+* 不要在沒有事先詢問的情況下毀別人的私設。
+
+Harry很期待你寫Site-43的任何東西。只要不影響他主張的故事情節，你可以自便。
+
+Grigori很期待你寫VKTM的任何東西。//Grigori很期待你寫VKTM的任何東西。//
+
+Placeholder系列作屬於//Placeholder自己//。他有自己的規劃安排。如果你想寫原型體部門相關的創作（例如，在收容元敘事異常的過程中提及並運用該部門），請透過wikidot pm聯繫Placeholder McD。我們也許能解決這個問題。
+
+如果你想把寫的東西放進這個中心頁，請使用以下源代碼：
+
+[[code]]
+[[div class="bubble"]]
+++ **[[[SCP-XXXX]]]：系列標題**
+
+一個描述！最好是一行的描述！或者是兩行而且很好的描述。如果你寫不好，Harry很可能會幫你重寫。他可能不會太客氣的跟你提要求，恐怕他就是這樣的傢伙。
+[[/div]]
+[[/code]]
+
+如果你不確定自己寫的內容是否與現有兩個系列相容......沒問題！把它放在加拿大式內（收）容中。這裡是放非系列創作的地方。如果你最後寫的東西他媽能自成一家，我們會給你單獨整潔的折疊頁與版頭。我們就是這麼讚的東道主。
+
+在你發布文章時記得來戳一下Harry，他會給你的作品也加上小圖標，就跟其他作品一樣。他做這個很快的。
+[[/tab]]
+[[tab 創作要點]]
+[[=]]
++ ##990011|如何禮貌寫作##
+----
+[[/=]]
+**基調** -- 保衛43不是晦暗基金會也不是歡樂基金會。你可以寫的粗暴、可怕、令人不安乃至於情緒化，你也可以寫的輕快、通俗或者荒謬，但扯到卡通化的地步就太過了。目前為止這裡的一切都或多或少有幽默的成分，但請記住，這裡的人都應該是真實的存在。不會有人捧著獵槍在Site-43走來走去，Site-43也不會有把活人扔進絞肉機的事情發生。
+
+**主題** -- 保衛43的核心是一座站點，在那裡的工作風格與基金會不太一樣。這包括了：
+
+* Site-43是一系列爭論不休的偽學術分部而非部門。這裡的職員多是古怪奇人，大多還可能正在撰寫研究論文，而最多的則是在彼此背後扮鬼臉的調皮鬼。這裡的學者比非學者更像又更不像成年人；
+* Site-43從事歷史研究。歸檔與修校部研究員會梳理陳舊的文件，尋找眼下還未被發現的異常。你想講不斷滋生問題的長篇故事嗎？你想講發生在過去的短篇故事嗎？我們能為你提供現成的敘述框架；
+* Site-43從事奧秘消解。這是種收容項目產生廢料的分解工作。這給異常毒性、工人日常與瘋狂災難故事留下了大量的空間；
+* Site-43還有很多分部在處理不同的工作。請看[[[secure-facility-dossier-site-43|設施檔案]]]的列表，看看能不能帶給你更多靈感；
+* Site-43被許多關注組織盯上了，而且直到現在都還未止息，他們都想在模因上分一杯羹。//giftschreiber//製造模因攻擊破壞秩序穩定，//schriftsteller//試圖用模因穩定社會，而維坎德—尼得科技媒體則靠模因傳媒搞瘋民眾。你不需要太多背景知識就可以運用這些設定了；
+* Site-43氏基金會的大後方。這裡的日常生活要比Site-19正常多了。在此設定下，日常文是非常非常歡迎的；
+* Site-43是潛在威脅戰術應對機構（ETTRA）總部之一。這代表我們可以花點心思去想想，如何運用異常來對付敵對的GOI。你也可以這麼做；
+* Site-43附近有個原住民保留地Nexus。如果你自己就是原住民，萬分歡迎你來寫這個！如果你不是，//拜託先不要//；
+* Site-43位於加拿大。你可以寫所有加拿大的狗屎爛蛋。很抱歉，其他人也是如此。
+[[/tab]]
+[[/tabview]]
+[[/div]]
+
+[[div]]
+[[=]]
+@@ @@
+[[image http://scp-wiki.wdfiles.com/local--files/the-b-b-decommission/Asterisk43.png]]
+@@ @@
+[[/=]]
+[[/div]]
+
+
+[[div]]
+[[=]]
+[[include :scp-zh-tr:component:license-box
+|author=HarryBlank
+|translator=ting129
+|lang=EN]]
+
+=====
+[[<]]
+> **檔案名稱：**52435956.jpg
+> **作者：**HarryBlank
+> **授權協議：**CC BY-SA
+> **附註：**此圖片為合成製作。其組成部件列於下方。**組成部件已於[[[SCP-5956]]]中獲得CC許可。**
+
+> **標題：**Machine
+> **作者：**AMagill
+> **授權協議：**CC BY 2.0
+> **來源：** https://search.creativecommons.org/photos/6e9deaba-dcf0-4083-b799-b47b9cb7b535 flickr
+
+> **標題：**[Interior view of large industrial machinery in a brick building]
+> **作者：**Beinecke Library
+> **授權協議：**CC BY 2.0
+> **來源：** https://search.creativecommons.org/photos/935e1cd0-06ff-4fa7-8777-46d3f7e39286 flickr
+
+> **標題：**Machinery
+> **作者：**schoschie
+> **授權協議：**CC BY 2.0
+> **來源：** https://search.creativecommons.org/photos/c7867779-35cc-4853-bb7e-1aa6ede8648b flickr
+
+> **標題：**Man is machinery
+> **作者：**born1945
+> **授權協議：**CC BY 2.0
+> **來源：** https://search.creativecommons.org/photos/1354bf6e-07a4-45ce-a737-2896102a92ac flickr
+
+----
+
+> **檔案名稱：**AAFC.jpg
+> **圖像名稱：**Reverse osmosis desalination plant
+> **作者：**James Grellier
+> **授權協議：**CC BY-SA 3.0
+> **來源：**[https://commons.wikimedia.org/wiki/File:Reverse_osmosis_desalination_plant.JPG Wikimedia Commons]
+
+> **檔案名稱：**BLANK.png
+> **圖像名稱：**Rubik's Cube
+> **作者：**JiahuiH
+> **授權協議：**CC BY-SA 2.0
+> **來源：**[https://search.creativecommons.org/photos/4b207e2a-c8c7-4c22-8c80-95e5c35ceb12 flickr]
+
+> **檔案名稱：**All other imagery on the page!
+> **作者：**HarryBlank
+> **授權協議：**CC BY 3.0
+
+[[/<]]
+=====
+[[/=]]
+[[include :scp-zh-tr:component:license-box-end]]
+[[/div]]
+[[/div]]

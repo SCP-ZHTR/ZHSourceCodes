@@ -1,0 +1,390 @@
+[[include :scp-zh-tr:theme:black-highlighter-theme]]
+[[include :scp-zh-tr:component:bhl-dark-sidebar]]
+[[include :scp-zh-tr:component:centered-header-bhl]]
+[[include :scp-zh-tr:component:toggle-sidebar-bhl]]
+[[include :scp-zh-tr:component:acs-animation]]
+[[include :scp-zh-tr:component:fade-in speed=4]]
+[[module CSS]]
+
+#page-content hr {
+border-top: none;
+height: .05em;
+background: #454545;
+}
+
+.info-container .collapsible-block-folded a{
+color: #FFF;}
+.info-container .collapsible-block-unfolded-link a{
+color: #FFF;
+}
+
+.info-container .collapsible-block-folded a{
+color: #FFF;}
+.info-container .collapsible-block-unfolded-link a{
+color: #FFF;
+}
+
+#page-content > .collapsible-block {
+    display: block;
+    text-align: center;
+    padding: .8em;
+    background-color: #e3e3e3;
+    border-top: 0.125rem dashed #b5b5b5;
+    border-bottom: 0.125rem dashed #b5b5b5;
+}
+
+#page-content > .collapsible-block .collapsible-block-content {
+    text-align: left;
+}
+
+blockquote,
+div.blockquote {
+    border: 0.125rem solid #d4d4d4;
+    background-color: #F5F5F5;
+}
+
+.interview{
+    border:solid 2px #d4d4d4;
+    background:#F5F5F5;
+    width:90%;
+    padding:1px 15px;
+    margin: 10px auto;
+}
+
+.addendum{
+    border:solid 1px #5e5e5e;
+    background:#ffffff;
+    width:90%;
+    padding:1px 15px;
+    margin: 10px auto;
+}
+
+.poster{
+    border:solid 2px #9c0202;
+    background:#ffffff;
+    width:60%;
+    padding:15px;
+    margin: 10px auto;
+}
+
+#page-title{display:none}
+
+[[/module]]
+
+[[>]]
+[[module Rate]]
+[[/>]]
+
+[[div style="text-align: right; margin-top: -20px;"]]
+[[size 80%]]##757575|PlaguePJP著##[[/size]]
+[[/div]]
+ 
+[[include :scp-zh-tr:component:info-ayers
+|page=scp-6594
+|authorPage=http://www.scp-wiki.net/plaguepjp
+|comments=**作者：**[[*user PlaguePJP]] 
+**譯者：**[[*user ting129]] 
+**原文：**[https://scp-wiki.wikidot.com/scp-6594 SCP-6594] 生日慶祝會 
+]]
+
+[[include :scp-zh-tr:component:anomaly-class-bar-source
+|item-number= 6594
+|clearance= 0
+|container-class= N/A
+|secondary-class= none
+|disruption-class= N/A
+|risk-class= N/A
+]]
+-----
+[[div class="scp-image-block block-center" style="width:100%;"]]
+[[image http://scptestwiki.wdfiles.com/local--files/light/party.png style="width:100%;" link=#]]
+[[div class="scp-image-caption" style="width:100%;"]]
+生日派對。
+[[/div]]
+[[/div]]
+-----
+
+**特殊收容措施：**SCP-6594目前被嚴格且牢固地封鎖在Site-322一間專門用於收容SCP-6594的CL級[[footnote]]因果循環（Causal Loop）[[/footnote]]收容室裡。該收容室於2007年9月由葛拉漢·葛里遜博士的天才想法所創造，以收容SCP-6594作為單一用途。
+
+收容室運作非常正常且沒有任何問題。該收容室與所有的基金會電腦相連，因此如果發生任何古怪的事情，警報系統會讓我們知道！
+
+**描述：**SCP-6594是葛拉漢·葛里遜博士的生日慶祝會。所有的基金會成員每年都會在他生日這天聚在一起祝賀他的生日。藍色與白色的裝飾（他最愛的顏色）會佈置於各個SCP基金會設施中，還有烤好的蛋糕，所有人一起度過這段美好的時光。葛拉漢·葛里遜博士的生日慶祝會讓所有人都聚在一起，一同歡慶這一天。
+
+葛拉漢·葛里遜博士從來沒有錯過這場活動。確保有記得帶上蠟燭！你不會想錯過他的許願過程的。這些事物都是葛拉漢·葛里遜博士他理應得到的！
+
+**附錄6594.1：**慶祝會
+
+//2010年9月4日//
+
+[[div class="interview"]]
+//（葛拉漢·葛里遜博士於午餐時間走進Site-322的食堂。他上前靠近朋友所在的桌邊。電腦系統正發出巨大的嗶嗶聲響。這非常擾人。）//
+
+**葛拉漢·葛里遜博士：**今天是我的生日。
+
+//（他說的話並沒有被聽到，嗶聲太大聲了。）//
+
+**葛拉漢·葛里遜博士：**今天是我的生日！
+
+//（他說的話並沒有被聽到，嗶聲真的太大聲了。）//
+
+**葛拉漢·葛里遜博士：**哈囉？
+
+**科爾曼：**嘿，怎麼了葛拉漢，你剛剛有說什麼嗎？
+
+//（葛拉漢·葛里遜博士的頭就像一隻傷心的小狗一樣垂下。）//
+
+**葛拉漢·葛里遜博士：**沒事。
+
+[[/div]]
+
+葛拉漢·葛里遜博士非常期待他的派對。看來今年將會是一場驚喜派對。
+
+[[div class="interview"]]
+//（葛拉漢·葛里遜博士小心翼翼地敲了敲拉格主任的辦公室大門。他被請了進去。）//
+
+**葛拉漢·葛里遜博士：**嘿，拉格先生。
+
+**拉格：**最近過得如何，葛拉漢。有什麼我能幫你的？
+
+**葛拉漢·葛里遜博士：**今天是我的生日。
+
+**拉格：**我不知道你在說什麼。
+
+//（拉格的電腦開始發出嗶聲。）//
+
+**拉格：**稍等。
+
+**葛拉漢·葛里遜博士：**有些事情不太對勁。
+
+//（十分鐘經過。）//
+
+**葛拉漢·葛里遜博士：**我覺得它跑出來了。
+
+**拉格：**我昨晚在我的院子裡發現一隻狗。牠對人有點攻擊性，所以我把牠放進紙箱裡用膠帶封起來。牠從箱子裡跑出來時抓傷了我。
+
+**葛拉漢·葛里遜博士：**對啊，每次快到我生日的時候都會發生這種事。
+
+**拉格：**快到什麼？
+
+**葛拉漢·葛里遜博士：**沒什麼。
+
+//（葛拉漢·葛里遜博士很難過。）//
+
+[[/div]]
+
+//2010年9月7日//
+
+[[div class="interview"]]
+//（葛拉漢·葛里遜博士小心翼翼地敲了敲拉格主任的辦公室大門。他被請了進去。拉格博士正小聲地和安東尼·萪薏說話。電腦正發出震耳的嗶聲。）//
+
+**葛拉漢·葛里遜博士：**嘿，拉格先生。
+
+**拉格：**稍等我們一下，葛拉漢。這份報告說是星期日。是星期二才對。
+
+**萪薏：**什麼？明明就是星期日。
+
+**葛拉漢·葛里遜博士：**那天是我的生日。
+
+//（拉格持續打字了十三分鐘。）//
+
+**拉格：**它給的結果顯示錯誤。
+
+**萪薏：**因為你一直把日期設成還沒到的那天。如果他還沒到那你就沒辦法用。基本邏輯問題。
+
+**拉格：**今天是星期二。等等，我找到問題了。
+
+**萪薏：**好。那是星期日
+
+**拉格：**對。我現在搞懂了。是主日[[footnote]]譯註：禮拜日[[/footnote]]。
+
+**萪薏：**這樣就好了嗎？
+
+**拉格：**沒錯。晚點見。
+
+//（萪薏博士爬過窗戶前往他的辦公室。）//
+
+**拉格：**最近過得如何，葛拉漢。有什麼我能幫你的？
+
+**葛拉漢·葛里遜博士：**今天是我的生日。
+
+//（拉格的電腦開始發出嗶聲。他無視了那個聲音。）//
+
+**拉格：**你有想過為什麼星星一直對著你閃爍或眨眼嗎？
+
+**葛拉漢·葛里遜博士：**這不太對。你做錯了。
+
+**拉格：**快到什麼？
+
+**葛拉漢·葛里遜博士：**我的生日。今天是我生日。
+
+**拉格：**今天是星期二。
+
+//（拉格主任爬過窗戶前往他的辦公室。可以見到下方地面上有一條藍色的彩帶。破爛、被撕裂的彩帶毫無價值地在風中吹動著。）//
+
+[[/div]]
+
+//2010年11月9日//
+
+[[div class="interview"]]
+//（葛拉漢·葛里遜博士進入科爾曼博士的辦公室。科爾曼正在進行一項新計畫。在他的桌上有一塊吃了一半的大理石蛋糕。蛋糕上頭已經長出了黴菌跟真菌。依然能看到發霉部分底下的藍色及白色糖霜。//
+
+**葛拉漢·葛里遜博士：**不好意思，科爾曼先生。我想冒昧請問一下那些裝飾都去哪了。
+
+**科爾曼：**什麼的裝飾？
+
+**葛拉漢·葛里遜博士：**我的生日。今天是我生日。我需要許我的願望。
+
+**科爾曼：**你到底在說什麼？
+
+**葛拉漢·葛里遜博士：**今天是我的生日。我想要藍色跟白色的裝飾。我想要我的蛋糕。我想要我的願望。
+
+**科爾曼：**我昨晚在食物頻道上看了這個節目。這個人做的三明治看起來很不錯——烤豬肉的，我猜。他看起來長得很像你，葛拉漢。
+
+**葛拉漢·葛里遜博士：**科爾曼先生。今天是我的生日。
+
+//（科爾曼博士記了十七分鐘的筆記。他正發出巨大的嗶聲。）//
+
+**科爾曼：**我會把這個納入考慮。謝謝你。
+
+**葛拉漢·葛里遜博士：**這不對。
+
+[[/div]]
+
+//實驗紀錄//
+
+[[div class="interview"]]
+**提案：**將實驗對象餵入SCP-6594。
+
+**結果：**今天是葛拉漢·葛里遜博士的生日。這麼做不會導致任何變化。
+[[/div]]
+
+[[div class="interview"]]
+**提案：**移除實驗對象的基金會職員身份。
+
+**結果：**今天是葛拉漢·葛里遜博士的生日。這樣做非常無禮。
+[[/div]]
+
+[[div class="interview"]]
+**提案：**祝葛拉漢·葛里遜博士生日快樂。
+
+**結果：**待定。
+[[/div]]
+
+//2011年9月4日//
+
+[[div class="interview"]]
+//（葛拉漢·葛里遜博士小心翼翼地敲了敲拉格主任的辦公室大門。他被請了進去。）//
+
+**葛拉漢·葛里遜博士：**嗨，拉格先生。
+
+//（拉格主任正在電腦上打字紀錄。他的手指快速地移動著。電腦持續地發出嗶聲。）//
+
+**拉格：**生日快樂，葛拉漢。
+
+//（電腦的嗶聲停止了。拉格主任沒有停止打字。）//
+
+**葛拉漢·葛里遜博士：**謝謝你。
+
+//（拉格主任溶解成一團膠糊。）//
+
+**葛拉漢·葛里遜博士：**我希望我的願望能成真。
+
+//（葛拉漢·葛里遜博士坐在拉格主任的椅子上快速地打字。他的雙腳在液體中攪動。）//
+
+**葛拉漢·葛里遜博士：**今天是我生日。
+
+//（電腦沒有發出嗶聲。）//
+[[/div]]
+
+葛拉漢·葛里遜博士在先前未知的Site-322次級地下室中被發現。通往房間內的門上裝有一面寫著「CL級」的告示牌。沒有任何與Site-322中此單位有關的紀錄。針對該房間的調查發現此門的上鎖功能出現問題，而後導致其在過去四年當中週期性地開啟。該房間充滿可追溯至1974年的電腦設備。所有介面皆發出巨大的嗶嗶聲響，無法確定該聲音的目的。
+
+[[div class="scp-image-block block-center" style="width:60%;"]]
+[[image http://scptestwiki.wdfiles.com/local--files/light/chamber.png style="width:100%;" link=#]]
+[[div class="scp-image-caption" style="width:100%;"]]
+進入房間的窗戶。
+[[/div]]
+[[/div]]
+
+葛里遜被看起來已生長至少四年的黴菌與真菌所覆蓋。他的脖子、腳踝以及手腕被臨時性的藍色與白色繩索所捆綁在一起。葛里遜死於自發性地過度吞嚥大理石蛋糕、蠟燭以及紙彩帶。儘管解剖結果推測死亡時間應該發生於被發現前的一至二天，並沒有發生消化現象。
+
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+
+
+//2011年9月4日//
+
+[[div class="interview"]]
+//（拉格主任小心翼翼地敲了敲葛拉漢·葛里遜博士的辦公室大門。他被請了進去。）//
+
+**拉格：**嘿，葛里遜先生。
+
+**葛拉漢·葛里遜博士：**最近過得如何，保羅。有什麼我能幫你的？
+
+**拉格：**今天是我的生日。
+
+**葛拉漢·葛里遜博士：**我不知道你在說什麼。
+[[/div]]
+
+[[footnoteblock]]
+----
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[SCP-6593]]] | SCP-6594 | [[[SCP-6595]]] >>
+[[/=]]
+[[/div]]
+----
+[[include :scp-zh-tr:component:wikimodule |normal-translation= --]]]
+
+[[div]]
+
+[[include :scp-zh-tr:component:license-box
+|author=PlaguePJP
+|translator=ting129
+|lang= ]]
+=====
+> **檔案名稱：**party.png
+> **圖像作者：**Uriel 1998
+> **圖像授權協議：**CC BY 2.0
+> **圖源連結：**[https://wordpress.org/openverse/image/dc7f3e38-995e-44fe-83b6-184f7fa5d0ba]
+
+> **檔案名稱：**chamber.png
+> **圖像作者：**Eddi 07- Free Stock
+> **圖像授權協議：**CC BY 2.0
+> **圖源連結：**[https://www.flickr.com/photos/47231550@N07/4388755069]
+=====
+[[include :scp-zh-tr:component:license-box-end]]
+
+[[/div]]

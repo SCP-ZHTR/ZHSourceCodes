@@ -1,0 +1,6 @@
+[!-- Please do not remove this page --]
+[[module Redirect destination="http://scp-zh-tr.wikidot.com/search:crom"]]
+
+[!-- http://crom.wikidot.com/wiki-search --]
+[!-- Broken redirect link --]
+[!-- https://crom.avn.sh/misc/wikidot-search-shim#scp-zh-tr/search:crom/ --]

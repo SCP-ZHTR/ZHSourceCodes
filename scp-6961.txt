@@ -1,0 +1,85 @@
+[[include :scp-wiki:theme:classic]]
+[[include :scp-wiki:theme:flopstyle]]
+[[include :scp-wiki:component:centered-header-sigma-9]]
+
+[[module CSS]]
+ :root{
+   --header-title: "SCP 基金會";
+   --header-subtitle: "戰術神學部";
+   --lgurl: url(https://scp-wiki.wdfiles.com/local--files/theme%3Aad-abyssum/Department%20of%20Tactical%20Theology%20Inverted%20Transparent.png);
+}
+.footnotes-footer {
+    visibility: hidden;
+    height: 0;
+    padding: 0;
+    margin: 0;
+}
+[[/module]]
+
+[[include :scp-zh-tr:component:scp-meta-title-hiding css-style=classic]]
+[[>]]
+[[module rate]]
+[[/>]]
+[[include :scp-zh-tr:component:author-label-source start=--
+|name=NDHeckfire]]
+**[https://scp-wiki.wikidot.com/scp-6961 SCP-6961]** - 當恨來信，而非來使
+（Hate the Message, Not the Messenger）
+**原著：** [[*user NDHeckfire]]
+**譯者：** [[*user edward-knave]]
+
+//啟發自[[[dr-clef-s-proposal|SCP-001]]]，[[*user DrClef]]著//
+
+[[[https://scp-wiki.wikidot.com/ndheckfire|更多原著作品！]]]
+[[include :scp-zh-tr:component:author-label-source end=--]]
+
+
+**項目編號：** SCP-6961
+
+**項目等級：** Phenomenon
+
+**特殊收容措施：** 應向任何目擊SCP-6961的一般民眾施予標準A級記憶刪除。任何與SCP-6961有關的影音證據應由基金會網路爬蟲程式EGGSHAFT.aic予以追跡並刪除。
+
+**描述：** SCP-6961指稱一次於2018年5月5日自行發生的異常事件，當時一個長有大翼的人形實體突然在義大利羅馬的梵蒂岡城內約200公尺上空出現。
+
+事件中，該實體（下文稱「SCP-6961-A」）以英語向地面的民眾大聲發言數秒，隨後從梵蒂岡城消失。以下為該事件起初由一名平民的電話記錄而得的轉錄：
+
+[[div class="blockquote"]]
+
+= **＜紀錄開始＞**
+
+//鏡頭指向上方的天空，攝入了梵蒂岡城幾幢建築的穹頂及浮雕。//
+
+//一道亮光突然阻礙鏡頭，該片段的錄影者亦為之稍微驚動。亮光減輕之後，SCP-6961-A可見在空中飄浮， 垂下頭以作懇求的姿態。//
+
+//該實體抬頭，面向地面的民眾並開始發言。//
+
+**SCP-6961-A： 凡人們，看清楚！因我帶著一道從你們的主而來至關重要的訊息！**
+
+//SCP-6961-A令一捲羊皮紙在其右手顯現，並將之展開。//
+
+**SCP-6961-A：** （//清喉嚨//） 「正確的發音是『Shee-zus』。請下次別再搞錯。」
+
+//羊皮紙消失。//
+
+**SCP-6961-A： 上主的要聞如上！願祂的雋語引領你們堅守正道！**
+
+//SCP-6961-A向附近一個十字架鞠躬，而後消失。//
+
+= **＜紀錄結束＞**
+
+[[/div]]
+
+[[[scp-6130|戰術神學部]]]已經受命研究SCP-6961的本質。
+
+@@ @@
+
+[[=]]
+[[div class="footer-wikiwalk-nav"]]
+<< [[[SCP-6960]]] | SCP-6961 | [[[SCP-6962]]] >>
+[[/div]]
+[[/=]]
+
+[[include :scp-zh-tr:component:license-box
+|lang=EN
+|author=NDHeckfire]]
+[[include :scp-zh-tr:component:license-box-end]]

@@ -1,0 +1,423 @@
+[[include :scp-zh-tr:theme:creepypasta]]
+
+[[module css]]
+#side-bar .collapsible-block-link, #side-bar .collapsible-block-unfolded-link .collapsible-block-link { color: rgb(255, 224, 135) }
+[[/module]]
+
+[[include info:start]]
+原文：[http://www.scp-wiki.net/parawatch-hub 異視維基中心頁]
+原作者 : [[*user NatVoltaic]]
+譯者：[[*user Lostwhat]]
+[[include info:end]]
+
+[[tabview]]
+[[tab GOI檔案：異視維基]]
+
+[[include component:image-block name= https://i.imgur.com/eIzM7EO.png|caption=異視維基的標誌|width=200px]]
+
+##ffff99|**__關注組織：__**## 異視維基
+
+##ffff99|**數據庫編號：**## 1109
+
+##ffff99|**活動範圍：**## 北美洲、歐洲、互聯網 
+
+##ffff99|**應對等級：**## 綠[[span style="color:green"]]●[[/span]]
+
+##ffff99|**__組織概要：__**##異視維基為一個由陰謀論者、超自然現象愛好者和業餘作家所組成的線上網路論壇，其主要目標為調查和揭露異常現象。該組織的成員分部在地理位置上相當分散，成員主要來自北美洲和歐洲。成員之間沒有統一的背景、年齡、職業，其他人口統計數據等亦無特殊之處。
+
+該組織的活動主要為撰寫故事於網路論壇上，並詳細說明超自然事件、歷年案件，以及成員碰上的任何異常事件的過程。雖然該組織的管理員層建立了相當程度的合作關係與協調，但礙於成員間的關係十分鬆散而無法進一步的統合，因此此組織能夠產生的影響極小。儘管整個組織的規模和影響力相對較低，但基金會已注意到有成員間互相合作並組成數支隊伍，開始進行美國與加拿大的林區探索行動。
+
+##ffff99|**__收容等級：__**## 最低
+
+儘管異視維基已投入大量的心血對異常現象進行調查，但經基金會持續監控後發現該組織對以下方面缺乏了解：
+
+* 基金會的存在
+* 帷幕
+* 異常現象的本質
+
+
+因該組織所提出的理論缺乏有關真實情況的前後文，導致先入為主的想法限制了真實信息洩露的可能性。此外，異視維基對外界的低知名度導致了群眾對理論真實性的嚴重懷疑，進一步阻止異視維基對帷幕的穩定構成威脅。
+
+基於上述理由，目前基金會並不採取任何直接接觸行動，並允許異視維基繼續進行活動，以作為一種誤導對帷幕調查的手段。基金會將斟酌對任何可能的線索進行誤導、刪除，以此控制網站內容，並對其成員進行記憶刪除以維護帷幕。
+[[/tab]]
+[[tab 眺視異常]]
+
+@@@@
+@@@@
+
+[[=]]
+[[image https://i.imgur.com/F9vSmiG.png width="15%"]]
+[[/=]]
+
+@@@@
+@@@@
+@@ @@
+@@ @@ @@ @@##ffff99|**論壇 >> 公告 / 介紹 >> 我為何加入？ >>**## **主題討論串9**
+> 🗿##green|**Blank_Spots**## 09/20/09 (星期日) 22:03:32 #12734582
+> ------
+> 我的哥哥曾經是個漁夫。
+> 
+> 他總是會在清晨六點醒來，走進廚房，連個聲響都沒發出就吃完早餐，所以當我醒來時，整間屋子只會剩下我一個人。他會開車到距離小鎮只有幾分鐘的，位在郊區的一個湖釣魚，直到他覺得釣夠了，他才會回家。一樣的時間，一樣的步調。總是以為抓住了什麼，卻又讓什麼悄悄溜走。永遠跟隨著小鎮的節奏——那種小圈子的生活。他說，他就喜歡這樣。
+> 
+> 我從沒擔心過他。他是個大隻佬，雖然渾身上下的鄉巴佬氣息幾乎能讓蓋格計數器響翻天，但他依舊聰穎過人。他永遠能找到那條他穿越森林的小徑，而且日復一日，從來沒有迷路過。即使得知了在晚上釣魚會有更好的收穫——也正是怪事的開端——那幾次的他也能安然無恙的回家。
+> 
+> 而這也正是為什麼，他是唯一一個能在我迷失在森林裡時找到我的人。
+> 
+> 這裡是我還有印象的地方：在清晨四點左右，我在床上翻來覆去，無法入睡，於是我決定提早下床做早餐。我把一組盤子和餐具擺在桌子上，接著打開我哥哥的置物櫃，拿走了魚竿，然後跌跌撞撞的離開家裡。根據我聽到的，其他人曾經看見我走在我哥哥開往湖邊的路上。
+> 
+> 我從來沒有這樣失神過。我無法控制我的腦袋，唯一記得的只有呆板的空白、暖暖的風，和我上顎的撕裂疼痛感。沒有人試著阻止我，大家都以為我只是要去找我哥哥。
+> 
+> 然後，就是一片黑暗。
+> 
+> 接下來，是從其他人那邊聽說的：
+> 
+> 我哥哥在早上六點左右，在廚房裡發現血跡。血跡從家裡一路延伸到了森林裡，正好停在距離湖邊三英尺的地方，而我的足跡也是。他挨家挨戶的敲門，詢問有沒有人看到我。接著，警察很快就來到了我們家裡，他們叫我哥哥不要動現場的任何東西，這樣他們才能好好進行調查跟搜救的工作。但是，當警察們還在搜索湖邊的時候，我哥哥就先行離開了，我的鄰居看到了這一幕，並祝他好運。
+> 
+> 他在早上九點回來，我的鄰居問他是否有看到任何關於我的蹤跡，但他沒有理會鄰居，只是直直走進屋子裡，把前門鎖上，接著無論是窗簾還是百葉窗，能關的都被他關了起來。有人看到他的雙眼完全失去了聚焦，像失魂了一樣無神。之後，他關在家裡好幾個小時都沒有出來。
+> 
+> 下午六點的時候，小鎮下起了暴風雨，我的哥哥才從家裡走了出來。他對我的鄰居說，他要去釣魚，卻帶了一把上膛的霰彈槍上車。
+> 
+> 沒有人出手阻止他，最後警察的紀錄中只記下他的車被停在湖邊。
+> 
+> 第二天一大早，在距離小鎮只有一英里，一個被無數樹木包圍的地方，我醒來了。我的上顎有一個傷口。我哥哥的霰彈槍沾滿鮮血的躺在我的手裡，裡面沒有子彈，湖水浸濕了我的衣服。
+> 
+> 我不記得那晚發生了什麼。
+> 
+> 我不記得哥哥去了哪裡。
+> 
+> 我不記得為什麼他的左半身會躺在我身旁的泥地上。
+> 
+> 發現我的醫護人員說，我的嘴裡有一支魚鉤。
+> 
+> 我離開了那個小鎮，再也沒回去過。我在一個大城市的公寓裡安頓下來，一個滿街路燈絕不會讓你失望，永遠能從陰影中保護你的地方。我對那晚依然記憶猶新，無論是我感到的麻木，還是那段空白的記憶，在那裡發生的一切都在我的生命中刻下了永久的傷痕。看見這裡有些人的經歷和我相似——甚至比我的經歷更可怕，只是讓那道傷痕更深。
+> 
+> 這就是我加入異視維基的原因。我想記下自己和其他人經歷的超自然事件，讓世人透過我們不一樣的視野看見黑暗中潛伏的異常，以此幫助那些不幸碰上“他們”的人們。我想找出那些人們日夜渴求的真相。
+> 
+> 對於那些僅僅只是偶然點開論壇的人，我希望您花點時間閱讀我們留下的故事，以準備好避免成為像我這樣的受害者。對於那些早就是我們一分子的人，歡迎你眺視異常。
+> 
+> 請記住，我們並不是這片黑暗中的唯一居民。
+
+[[/tab]]
+
+[[tab 相關文章]]
+
+
+[[=]]
+**##ffff99|== 異物 ==##**
+[[/=]]
+
+||~ 標題||~ 作者||
+
+||[[[SCP-7998]]]||AnActualCrow||
+||[[[SCP-PL-046]]]||Zygard||
+||[[[SCP-6838]]]||DukeCrusty||
+||[[[SCP-6257]]]||Quicksilvers||
+||[[[SCP-6159-ARC]]]||Fantem||
+||[[[SCP-6191]]]||DukeCrusty||
+||[[[SCP-6080]]]||ratking666||
+||[[[SCP-6599]]]||J Dune||
+||[[[SCP-6001]]]||T Rutherford||
+||[[[SCP-5904]]]||Grigori Karpin||
+||[[[SCP-5668]]]||Lamentte||
+||[[[SCP-5346]]]||JakdragonX||
+||[[[SCP-5818]]]||J Dune||
+||[[[SCP-4430]]]||Ayers||
+||[[[SCP-4901]]]||stormbreath||
+||[[[SCP-4240]]]||Tanhony||
+||[[[SCP-3840]]]||NatVoltaic||
+
+------
+
+[[=]]
+**##ffff99|== 篝邊異語 ==##**
+[[/=]]
+
+||~ 標題||~ 作者||
+||[[[bible-belt-town|Bible Belt Town]]]||GremlinWC||
+||[[[makeup|Makeup]]]||J Dune||
+||[[[skyline|Skyline]]]||Ralliston||
+||[[[hair-below|"hair."]]]||Ecronak||
+||[[[unusual-olive-garden|Unusual Olive Garden]]]||Will Cloverfield||
+||[[[disappearing-prisoners|Disappearing Prisoners]]]||DrowningDutchman||
+||[[[the-canadian-house-hippo|The Canadian House Hippo]]]||DodoDevil||
+||[[[come-wayward-souls |Come Wayward Souls]]]||Ellie3||
+||[[[pruder-record|The Pruder Record]]]||stormbreath||
+||[[[bigfoot-did-it|Bigfoot Did It! ]]]||stormbreath||
+||[[[in-the-carpathians|In the Carpathians]]]||Grigori Karpin||
+||[[[pareidolia|Pareidolia]]]||Sound Chaser||
+||[[[porno-ghost-sighting|Porno Ghost Sighting]]]||AndarielHalo||
+||[[[a-night-in-the-woods|A Night in the Woods]]]||Kilerpoyo||
+||[[[the-eleven-fifty-nine|The Eleven Fifty-Nine]]]||UncertaintyCrossing||
+||[[[who-killed-silas-emerson|Who Killed Silas Emerson?]]]||stormbreath||
+||[[[muddy-skies|Muddy Skies]]]||LORDXVNV||
+||[[[tales-from-parawatch-welcome-to-the-internet|Tales From Parawatch: Welcome to the Internet, Have a Look Around]]]||Nykacolaquantum||
+||[[[slumbering-sands|Slumbering Sands]]]||basirskipreader||
+||[[[ghostinhome|what do I do if I have ghosts at home?]]]||oniricshogunsoldier||
+||[[[vanishing-of-nils|The Vanishing Of Nils Andreassen]]]||stormbreath||
+||[[[ it-s-real-i-swear|It's real I swear]]]||HarryBlank||
+||[[[ the-smell-of-cellulose|The Smell of Cellulose]]]||DarkStuff||
+||[[[coleoptera|Coleoptera]]]||CanOfSoup||
+||[[[kmean-phnek | Kmean Phnek]]]||wagyusteak ||
+||[[[charybdis |Charybdis]]]||CanOfSoup ||
+||[[[fishbowl |Fishbowl]]]|| Ellie3||
+||[[[upwelling|Upwelling]]]||ValidClay||
+||[[[a-little-bunnys-doctor |A Little Bunny's Doctor]]]||Ellie3||
+||[[[higher-minds|Higher Minds ]]]||J Dune||
+||[[[b-wylie-reviews-gato|B.Wylie Reviews: GATO!]]]||JackalRelated||
+||[[[substation-9|Substation 9]]]||The Great Hippo||
+||[[[wolf-hollow|Wolf Hollow]]]||stormbreath||
+||[[[theosis|Theosis]]]||(user deleted)||
+||[[[eye-man|Eye-Man]]]||(user deleted)||
+||[[[death-of-aj-fader|The Death Of AJ Fader]]]||stormbreath||
+||[[[whitetail|Whitetail]]]||ValidClay||
+||[[[the-clock-at-saint-claudes|The Clock at Saint Claude's]]]||PeppersGhost||
+||[[[michael-the-kiler|michael the kiler]]]||pastarasta1||
+||[[[saint-augustine-monster|Saint Augustine Monster]]]||Roget||
+||[[[escape-from-terminus|逃離終點站]]]||The Great Hippo||
+||[[[barns-from-nowhere|Barns from Nowhere]]]||Laneous||
+||[[[that-one-post-you-missed|That One Post You Missed]]]||Brewsterion 1017||
+||[[[roadside-cafe|Roadside Cafe]]]||AlanDaris||
+||[[[it-smells-cold |它聞起來很冷]]]||Ihp||
+||[[[Station-395|Station 395]]]||stormbreath||
+||[[[i-hope-this-isn-t-just-a-dream|I hope this isn't just a dream.]]]||Ellie3||
+||[[[scared-stiff|呆若木雞]]]||Oboebandgeek99||
+||[[[sunday-dinner|Straight to VHS: Sunday Dinner ]]]||The Great Hippo||
+||[[[Skunk Ape|Skunk Ape]]]||RJB_R||
+||[[[tower-b|Tower-B]]]||The Great Hippo||
+||[[[abwesenheit|Abwesenheit]]]||The Great Hippo||
+
+------
+
+[[=]]
+**##ffff99|== 其他異事 ==##**
+[[/=]]
+
+||~ 標題||~ 作者||
+||[[[mfw|Mfw ]]]||Tstaffor||
+||[[[voice-of-vanguard|Voice of Vanguard]]]||Guezma||
+||[[[the-bathrooms-wiki|後屎維基]]]||HarryBlank||
+||[[[ecce-insurgo|Ecce Insurgo]]]||LORDXVNV||
+||[[[true-stories-with-lincoln-smoke-1-bambousio-starswinger-and|True Stories With Lincoln Smoke #1: Bambousio Starswinger and Comedy Cryptids]]]||Kensing||
+||[[[saturn-s-corner|SATURN'S CORNER]]]||Lt Flops||
+||[[[the-furmen|The Furmen]]]||Ralliston||
+||[[[parawatch-intro-thread|Parawatch Intro Thread]]]||Uncle Nicolini||
+||[[[this-is-how-we-build-revelation|This Is How We Build Revelation]]]||SoullessSingularity||
+||[[[asmodeus|Asmodeus]]]||UraniumEmpire||
+||[[[working-at-cannibal-chin-s|Working at Cannibal Chin's]]]||Marcelles_Raynes||
+||[[[the-king-company-textile-plant|金恩公司紡織廠]]]||Ihp||
+||[[[mkwhiteout-cia-pride|MKWHITEOUT and How the CIA Tried To Kill Pride]]]||Ihp||
+||[[[slice-of-forum-life|Slice Of Forum Life]]]||(user deleted)||
+||[[[exe-plosion|exe.plosion]]]||PlayNice9001||
+||[[[broken-masquerade-epistolary|Snippets of an Unveiled World]]]||Nykacolaquantum||
+||[[[tifu-by-getting-a-book-from-the-library|Today I Fucked Up by getting a book from the Library]]]||Nykacolaquantum||
+||[[[end-of-the-world-livestream|END OF THE WORLD LIVESTREAM!!!]]]||Ellie3||
+||[[[the-halloween-watch|The Halloween Watch]]]||Oboebandgeek99||
+||[[[stormsite19|#攻佔Site-19]]]||Uncle Nicolini||
+||[[[cuteness-on-main|發佈可愛的東西！]]]||Ellie3||
+||[[[piercing-the-veil|Masquerade's End ]]]||Uncle Nicolini||
+
+------
+
+[[=]]
+**##ffff99|== 中心 ==##**
+[[/=]]
+
+||~ 標題||~ 作者||
+||[[[finding-asmodeus-hub|Finding Asmodeus]]]||aismallard||
+||[[[parawatch-hub|異視維基中心頁 ]]]||NatVoltaic||
+------
+
+[[=]]
+**##ffff99|== 本站收錄 ==##**
+[[/=]]
+[[module ListPages order="created_at desc" tags="異視維基 -翻譯 -中心" separate="no" perPage="200" prependLine="||~ 標題||~ 作者||~ 創建日期||"]]
+|| %%title_linked%% || %%created_by%% || %%created_at%% ||
+[[/module]]
+
+------
+[[=]]
+**##ffff99|== 日文翻譯 ==##**
+[[/=]]
+[[module ListPages order="created_at desc" tags="+異視維基 +翻譯 -中心 jp" separate="no" perPage="200" prependLine="||~ 標題||~ 翻譯者||~ 創建日期||"]]
+|| %%title_linked%% || %%created_by%% || %%created_at%% ||
+[[/module]]
+
+------
+[[=]]
+**##ffff99|== 其他翻譯 ==##**
+[[/=]]
+||~ 標題||~ 作者||~ 譯者||
+||連結||ID||ID||
+
+[[/tab]]
+
+[[tab 寫作指導]]
+[[=]]
+ **## ffff99 | ==寫作建議== ##**
+[[/=]]
+> **來自## green | NatVoltaic ## 的建議**
+> ------
+> 異視維基的核心寫作重點就是**恐怖**。這個組織的風格源自於老派的Creepypasta風格，在半夜沉迷於被遺忘的奇怪論壇和陳年討論串的背德感，使你的心跳不斷加速。身體隨著你每一次的探索而微微顫抖，因為你正在挖掘的故事真的有些讓你毛骨悚然。
+> 
+> 這就是所有異視維基的作品所追求的最高境界。不過，你在撰寫文章的時候應該要牢記一些關鍵事項：
+> 
+> * **異視維基毫無影響力。**他們的所有活動都無法對帷幕或帷幕底下的活動產生明顯的影響。就外界認為，他們只是一群騙子——前提是有人注意到他們。
+> 
+> * **他們與異常世界毫無聯繫。**異視維基只是一座不會落下的夢幻島。
+> 
+> * **他們並不愚笨。**他們是人類。即使身處雲裡霧中，不視廬山，但依然是有行動力的人。
+> 
+> * **設定不是一成不變。**林中謎團、都市傳說、網路之謎、深海恐懼——如果他能讓人感到毛骨悚然，那他就屬於異視維基。//別太超過，關鍵在於未解之謎。//
+> 
+> * **成員是分散的。**異視維基的成員來自各種不同的人生背景和動機，有些人親自聚在一起進行調查，而更多人從不會碰面深交。他們可能屬於同一個網站的成員，但這並不代表他們之間有著凝聚力。
+> 
+> * **拼圖永遠是缺塊的。**異視維基對帷幕的存在毫無認知，基金會或異常的本質亦是。他們永遠不會知道真相，否則基金會早就把他們大卸八塊了。為了保持故事的合理性，請不要讓基金會直接出現在你的故事中。
+> 
+> * **結局是開放式的。**根據我們上面提過的，所有發生的怪事都會缺少一些重要的片段，而無法了解事件的全貌。若這篇故事是以異視維基的角度撰寫。那麼他們將不會知道異常現象的機制或傳說的完整本質。若這篇故事是個已經被編號的SCP項目，那麼基金會不是知道並抹去真相，就是潛藏在黑暗中不動。
+
+
+
+> **來自##green|The Great Hippo##的建議**
+> ------
+> 如果有任何作者想嘗試寫異視維基，那麼這邊的建議可能是你會想要知道的。
+> 
+> 請記住，這裡的內容完全是我自己的理解，只代表我自己正在遵守的規則，而非正式的規定，之類的：
+> 
+> * **把異視維基看成是SCP宇宙的[https://zh.m.wikipedia.org/zh-tw/%E5%8F%B2%E9%85%B7%E6%AF%94 叔比狗]**。他們就是詭異的超自然愛好者書呆子，他們會在網路上互相交換讓人汗毛豎起的恐怖故事，同時完全不知道基金會的存在。簡單來說，他們就是我們。
+> 
+> * **試著想想[https://en.m.wikipedia.org/wiki/Ghost_Hunters_(TV_series) 捉鬼大隊]。**這些傢伙花了快一百個小時才終於在所謂的「鬼屋」的窗戶看到一張「奇怪的臉龐輪廓」。如果他們碰上了基金會的特工，那[https://youtu.be/lafNtb11A4o 這就是他們一無所獲的原因]
+> 
+> * **把這裡想成是從完全不了解基金會的視角來寫經典Creepypasta的大好機會。**我自己的目標是重現千禧年前那種「我用堂哥的車庫網路連上了這個網站」的感覺。想想[http://inuscreepystuff.blogspot.com/2010/08/killswitch.html Killswitch]、[https://web.archive.org/web/20180228141644/http://invisiblegames.net/?p=14 Lenentine Cards]和[https://creepypasta.fandom.com/wiki/The_Dionaea_House Dionaea House]那樣。對了，你也能想想基金會Wiki自己的[[[-manistique-broadcast | Manistique Broadcast]]]。簡單來說，把你的世界觀想的小一點，層次放的低一點，只要讓讀者認為「等等，這個是真的嗎？」，你就成功了。
+> 
+> * **不必要的細節是你的頭號敵人。**我不知道這些人是誰，而且我根本不在乎。這是基金會宇宙流傳下來的一種寫作技巧。我們知道的越少，故事越有趣。
+> 
+> * **最重要的一點在於：我不需要了解基金會也能享受它。**這就是我的主要目標——在基金會宇宙中寫出詭異而有趣的東西，甚至不需要任何對基金會的基本認識也能享受它。
+> 
+
+------
+
+= **##ffff99|== 用CREEPYPASTA的風格寫作 ==##**
+= **來自 ##green|The Great Hippo## 的建議**
+
+有很多方法能寫出一個安排精妙且每一步都更令人發顫的Creepypasta，這裡是一種常見的手法：
+
+從一些真的存在而令人毛骨悚然的東西開始，比如[https://en.wikipedia.org/wiki/MV_Joyita 詭異的歷史事件]、 [https://en.wikipedia.org/wiki/The_Bloop 奇怪驚悚的現象]、 [https://en.wikipedia.org/wiki/Saturation_diving 一份怪異的工作]，以這些既有趣卻令人寒顫的玩意為基底，用引人入勝的故事情節向讀者介紹它。
+
+//現在你找到你的魚鉤了。//真實存在於我們世界的東西為你的文章增添了真實感，並營造出很棒的氣氛。
+
+接著，是時候進入正題了：甩出你的魚鉤。無論你是要用類似的事物來寫作，或者乾脆利用那個原型來寫都行。用詭異的、不尋常的、不太可能的情節增添香料，但請小心的調味。透過真實存在的人、事、物來輔助，讓詭異的虛假情節和現實融合在一起，無法分辨。每一行文字都會讓讀者想著：「好吧……這真的滿詭異的，但是又好像真的…………」你的觸手正在深入他們的腦袋，用真實的情節撬開了一個縫隙，一個能夠讓你發揮文采的地方。用你自己擅長的手法慢慢來就行。
+
+最後，也是最重要的部分：這是你試著令讀者相信超自然現象真的發生過的部分。現在，利用你掰開的縫隙，擠進//純粹的恐懼//。一個想法、一場事件、一個結論——無論它是什麼，它都不應該太過天馬行空，但它必須足夠的詭異，而且剛好契合你創造的縫隙。
+
+當你透過一個又一個小小的細節讓讀者自己想像故事背後的暗流，這種方法就非常有效。
+
+[[/tab]]
+[[tab 格式資源]]
+
+
+在異視維基中最常見的格式，是基於維基語法的引號所製成的討論串發文格式：
+
+
+> ##green|**username**## Month/Day/Year (Day) Hour:Minute:Second #8digitnumber
+> ------
+> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum...
+
+像[[[Abwesenheit]]]和[[[Tower-B]]]，你可以自己決定用戶名字的顏色，並在用戶名前面放🗿來表示版主的身份。代碼如下：
+
+[[collapsible show="+ 打開範例" hide="- 關閉範例"]]
+[[code]]
+
+> ##green|**username**## Month/Day/Year (Day) Hour:Minute:Second #8digitnumber
+> ------
+> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum...
+
+[[/code]]
+[[/collapsible]]
+
+
+也可以使用已設定好的代碼來做出同樣的效果：
+
+[[collapsible show="+ 打開範例" hide="- 關閉範例"]]
+[[code]]
+
+[[div class="parapost"]]
+
+把你的內容放在這裡
+
+[[/div]]
+
+[[/code]]
+[[/collapsible]]
+
+你可以用這樣的代碼來做成回覆文章的格式。（但是請注意，這個代碼不支持連續回覆五次以上，不然代碼會出現錯誤。**重複一遍，五次。**）
+
+
+[[div class="parapost"]]
+
+##green|**username**## Month/Day/Year (Day) Hour:Minute:Second #8digitnumber
+------
+
+blah
+
+[[/div]]
+
+[[div class="parapost reply1"]]
+
+##green|**username**## Month/Day/Year (Day) Hour:Minute:Second #8digitnumber
+------
+
+blah blah blah
+
+[[/div]]
+
+[[div class="parapost reply2"]]
+
+##green|**username**## Month/Day/Year (Day) Hour:Minute:Second #8digitnumber
+------
+
+boo
+
+[[/div]]
+
+[[collapsible show="+ 打開範例" hide="- 關閉範例"]]
+[[code]]
+
+[[div class="parapost"]]
+##green|**username**## Month/Day/Year (Day) Hour:Minute:Second #8digitnumber
+------
+
+blah
+[[/div]]
+
+[[div class="parapost reply1"]]
+##green|**username**## Month/Day/Year (Day) Hour:Minute:Second #8digitnumber
+------
+
+blah blah blah
+[[/div]]
+
+[[div class="parapost reply2"]]
+##green|**username**## Month/Day/Year (Day) Hour:Minute:Second #8digitnumber
+------
+
+boo
+[[/div]]
+
+[[/code]]
+[[/collapsible]]
+
+
+請把[http://scp-zh-tr.wikidot.com/theme:creepypasta 異視維基CSS主題] （下面這個）放在你的文章最上方。
+
+> @@[[include :scp-zh-tr:theme:creepypasta]]@@
+
+很重要的一點：**這不是你唯一可以使用的主題**。
+
+比起堅持按照格式，能否傳達你想要說的故事的風格和主題更為重要。如果你覺得這個主題的風格不適合你的故事，那麼請務必換上更好的新主題！異視維基並不侷限於承載故事的媒體，而是有彈性的。如果有人創建了新的主題，將會被我們添加到這裡。
+
+[[/tab]]
+
+
+
+
+[[/tabview]]

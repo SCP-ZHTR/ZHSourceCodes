@@ -1,0 +1,12 @@
+[[include component:scp-meta-title-hidding]]
+[[module ListPages category="fragment" parent="." limit="1" order="name" offset="@URL|0"]]
+
+%%content%%
+[[/module]]
+@@ @@
+@@ @@
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[SCP-ZH-097]]] | SCP-ZH-098 | [[[SCP-ZH-099]]] >>
+[[/=]]
+[[/div]]

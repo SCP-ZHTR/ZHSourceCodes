@@ -1,0 +1,7 @@
+[[iftags -_禁黑]]
+[[div style="display:none"]]
+[[module ListUsers users="."]]
+[[include :topia:inc-loop c=__________|p=:scp-zh-tr:custom:start-backend]]
+|name=%%name%% | css={$css} | css=1
+]]
+[[%%content{0}%%module css]]

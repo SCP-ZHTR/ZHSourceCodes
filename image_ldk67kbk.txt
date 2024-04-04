@@ -1,0 +1,6 @@
+image: 'https://i.imgur.com/HZg9BhV.jpg'
+owner: 'Edward Knave'
+owner-wiki: edward-knave
+license: '0'
+other-license: ''
+note: 地點已遺忘。建議用作探勘行動等場合的照片。

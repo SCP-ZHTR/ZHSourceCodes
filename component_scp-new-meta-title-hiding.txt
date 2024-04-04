@@ -1,0 +1,21 @@
+[[module Listpages range="." category="*"]]
+[[include :scp-zh-tr:component:scp-new-meta-title-hiding-backend |showing-title={$showing-title} |showing-title=null
+| to-be-overwritten = {$to-be-overwritten} | to-be-overwritten = .inherited-hiding
+| is-inherited-hiding = {$is-inherited-hiding} | is-inherited-hiding = false
+| default-title=%%name%%
+| parent-name=%%parent_fullname%%
+| parent-title=%%parent_title%%
+]]
+[[%%content{0}%%module css]]
+@import url(https://mos.scp-zhtr.com/meta_title_css/scp-zh-tr/%%fullname%%);
+[[%%content{0}%%/module]]
+[[/module]]
+
+[[module css]]
+#u-new-meta-title-hiding > .new-meta-title.default-meta-title{
+text-transform: uppercase;
+}
+#u-new-meta-title-hiding > .not-to-display{
+display:none!important;
+}
+[[/module]]

@@ -1,0 +1,35 @@
+[[include component:scp-meta-title-hiding css-style=classic]]
+[[include info:start]]
+**原文：** [http://www.scp-wiki.net/scp-529 SCP-529 - 半貓Josie]
+**作者：** [[*user Lt Masipag]]
+**譯者：** [[*user EbertLee]]
+**圖片來源：見原文討論區**
+[[include info:end]]
+
+
+[[include component:image-block name=http://scp-wiki.wdfiles.com/local--files/scp-529/SCP-529-new.jpg|caption=SCP-529|width=250px]]
+
+
+**項目編號：**SCP-529
+
+**項目等級：**Safe 
+
+**特殊收容措施：**目前還不需任何特殊手段進行收容。「Josie」十分溫馴，並被許可在設施的地下部分自由移動。由於項目在沒有獲取充分的起司時會十分的哀傷，因此任何人員不得餵食起司給她。
+
+**描述：**SCP-529為一隻有著灰色條紋的小型家貓（//Felis catus//）。
+
+其肋骨下方的身體部分消失，身體就如同被切開的一般只剩一半。
+
+除此之外，這隻小動物並沒有任何其他生理上的問題，並且能夠普通的移動，就像其後肢還存在一般。舉例來說，走路如同一般家貓，並且在餵食她後便會做出類似排泄的動作。
+
+無法從被切開的部分看到該項目的內部，肉眼只能看到完全的黑色，並吸收所有不可見光的波長。該項目對觸摸感到屈服。輕輕的碰觸此部分有時會有正向的回應（例如呼嚕叫），但通常該項目會伸出其爪子攻擊特工。被劃傷的人員並不會有異常現象發生。
+
+下肢的部分並不是隱形的—一場實驗顯示為該項目沒有下肢。DNA測試顯示該項目為雌性。
+
+[[footnoteblock]]
+
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[SCP-528]]] | SCP-529 | [[[SCP-530]]] >>
+[[/=]]
+[[/div]]

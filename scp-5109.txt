@@ -1,0 +1,355 @@
+[[include component:scp-meta-title-hiding css-style=classic]]
+[[include :scp-zh-tr:theme:blankstyle]]
+
+[[module CSS]]
+:root {
+    --timeDelay: 0.5s;
+}
+[[/module]]
+
+[[module CSS]]
+/* anendlessusername's invaluable correction of the ACS octagon! */
+#page-content .quadrants > div {
+    top: 2.25%;
+    left: 18.5%;
+}
+[[/module]]
+
+[[div]]
+[[include info:start]]
+原文：[http://www.scpwiki.com/scp-5109 SCP-5109] 一次性密碼
+作者：[[*user HarryBlank]]
+譯者：[[*user Frederica Bernkastel]]
+[[=]]
+
+[[image http://scp-wiki.wdfiles.com/local--files/this-page-intentionally-left-blank/5109.png]]
+
+這就是為什麼我們不能擁有美好的事物。
+
+**[[[http://scp-zh-tr.wikidot.com/this-page-intentionally-left-blank|該作者的更多作品！]]]**
+[[/=]]
+[[include info:end]]
+[[/div]]
+
+[[div style="height:12px;"]]
+[[/div]]
+
+[[div]]
+[[include :scp-zh-tr:component:anomaly-class-bar-source
+|item-number= SCP-5109
+|clearance= 2
+|container-class=safe
+|disruption-class= dark
+|risk-class= notice
+]]
+[[/div]]
+
+----
+
+**特殊收容措施：** 不得將SCP-5109說出，若持有人生命受到急迫威脅則此限制可解除。在此情況下，持有人__務必__透過單向無線電發送器向O5指揮部的聯絡人說出SCP-5109。SCP-5109當前持有人及其O5指揮部聯絡人身分已列為5級：最高機密。
+
+嚴禁對SCP-5109錄音。
+
+[[collapsible show="+ 已撤銷收容措施" hide="- 關閉已撤銷收容措施"]]
+SCP-5109默認收容於Site-43身分與技術密碼學部艾琳．維克薩爾部長思想之內。維克薩爾部長僅可與權限等級3級：保密以上人員談論SCP-5109．相關人員亦應接受相同的限制，並應在維克薩爾部長要求時將項目即刻歸還。SCP-5109持有人應攜帶可與維克薩爾部長直接單向通訊的無線電發送器，並在生命受到急迫威脅時傳輸SCP-5109。維克薩爾部長同樣應隨身攜帶單向通訊無線電發送器，並將頻率鎖定在該員指定之O5指揮部聯絡人。
+
+2014年11月21日更新：嚴禁對SCP-5109錄音。
+[[/collapsible]]
+
+----
+
+**描述：** SCP-5109是一認知語言現象，是對拉丁字母與阿拉伯數字集合中41字符之特定字符串的理解與記憶。[[span class="fnnum"]].[[/span]][[span class="fncon"]]其他名稱：線狀模因、認知隔離。[[/span]]在任何給定的時間，只會有一人能正確識別與構思該字符串，從而使SCP-5109「收容」於該員的思想之中。除該員以外的他者在接觸該字符串的非聽覺表現時，只會將其視為一串陌生的無意義符號（見下），其注意力集中將無法維持數秒以上，並會在下次注意力分散後將該字符串忘卻。
+
+[[div style="height:12px;"]]
+[[/div]]
+
+[[include component:image-block
+    name=https://scp-wiki.wdfiles.com/local--files/scp-5109/Mimisi.png|
+    caption=SCP-5109。如出現圖像異常乃是相關模因效應所造成。|
+    align=center|    
+    width=100%|
+]]
+
+[[div style="height:12px;"]]
+[[/div]]
+
+任何持有SCP-5109的個體（以下稱為「持有人」）將無法將其忘卻，直到該員將其傳遞給新的個體為止。傳遞將透過對至少一名具感知個體──無論是就近或是遠程傳送──將SCP-5109逐字符高聲唸出實現。第一個透過傳遞以聽覺接收到SCP-5109，符合前述條件的存在將會立刻將該字符串記住，前任持有人則會立即將其忘卻。個體持有SCP-5109的次數沒有既定上限，[http://scp-zh-tr.wikidot.com/secure-facility-dossier-site-43 Site-43]身分與技術密碼學艾琳．維克薩爾部長於過去的十一年來，接受與放棄了SCP-5109約43次．並沒有任何顯著效應發生。
+
+[[div]]
+個人是否擁有SCP-5109背景知識並不受其模因效應影響。新持有人並不會意識到該字符串是異常，除非該員受到告知會自己發現了項目的異常性質。前持有人也不會因此忘掉SCP-5109的存在，而僅僅只是將其本質忘卻。項目本質並不能透過逆向工程找回，演繹推理也無法將字符串「猜」出。SCP-5109僅能透過聽覺接收，從而銘刻在持有人的意識之中。
+
+並無證據顯示SCP-5109具有任何動力或感知。除非涉及到該字符串的記憶，項目不會影響持有人的認知，亦不會展現出自身的感知。尚未釐清該現象是否顯示了使用拉丁字母語言的固有屬性、人類意識的固有屬性、不可約的普遍常數或對現實之有目的改變。該字符串在英語中具有特定意涵[已刪除]，這相當程度地緩解了上述除最後一種可能以外的所有可能性。
+
+----
+
+**附錄：** SCP-5109是在2009年5月8日首度引起基金會的注意（見下）。項目性質是透過實驗確認的，其起源至今仍舊未知。
+
+由於基金會對研究開發可靠維安協議的持續需要，維克薩爾部長提議：於Site-43敏感研究計畫中實驗投用SCP-5109。維克薩爾部長的提議於2010年 1月14日通過。在SCP-5109處於非使用狀態時，維克薩爾部長將會成為項目的事實持有人，授權該員有權根據實際情況決定將項目借出。該協議已在2020年4月27日廢止，特殊收容措施修訂，維克薩爾部長已將SCP-5109移交予O5指揮部。
+
+O5不會接受任何SCP-5109釋出請求。根本原因詳見下文自Site-43網路資料庫（43NET）複製之使用日誌紀錄。
+
+[[table]]
+[[row]]
+[[hcell style="border: 1px solid black; background-color: #D7EFE7; padding: 6px;"]]
+43NET：SCP-5109使用紀錄[節錄]
+[[/hcell]]
+[[/row]]
+[[row]]
+[[cell style="border: 1px solid black; padding: 12px;"]]
+**2009/05/08：** 在例行憑證更換期間，K．埃斯特羅姆博士透過通話，向身分與技術密碼學部技術員W．巴克利高聲說出其43NET密碼。巴克利要求埃斯特羅姆博士復述密碼作為確認，後者發現自己無法照做此要求。埃斯特羅姆博士轉而要求巴克利向其重述密碼作為替代，巴克利根據協議拒絕其要求，埃斯特羅姆博士變得極度焦慮，並要求與巴克利的主管交談。
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell style="border: 1px solid black; padding: 12px;"]]
+**2009/05/09：** 在身分與技術密碼學部調查後，確認了該字符串的異常性質，並將異常自巴克利處移交予部門主管艾琳．維克薩爾。埃斯特羅姆博士聲稱根據MARSTON驗證協議，該員已經不記得該密碼的來源。此說法已經獲得證實。
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell style="border: 1px solid black; background-color: #D7EFE7; padding: 6px;"]]
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell style="border: 1px solid black; padding: 12px;"]]
+**2009/05/10 -- 2010/01/16：** 該異常被歸定為SCP-5109。在8個月的研究後，確立了控制項目傳播的規律。該項目交予維克薩爾部長負責保管，建立了處理項目在Site-43計畫中使用的申請系統。
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell style="border: 1px solid black; background-color: #D7EFE7; padding: 6px;"]]
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell style="border: 1px solid black; padding: 12px;"]]
+**2010/01/28 -- 2010/01/29：** T．布魯梅爾博士將SCP-5109設為網路安全資料庫的密碼。次日，Site-43控制與收容部接獲了布魯梅爾博士辦公室發生收容突破情景的警報。特工在布魯梅爾博士的終端上發現了一張便利貼，便利貼上記錄了他的登錄資訊。在緊急紀律聽證會上，布魯梅爾博士說明紙條上的密碼並非SCP-5109，而是預先由S&C標記的關鍵字。布魯梅爾博士應自身要求接受拘留，並透過43Net宣稱已自請調離Site-43。
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell style="border: 1px solid black; padding: 12px;"]]
+**2010/02/04：** 布魯梅爾博士前研究助理S．莫林斯博士透過便利貼上的登錄資訊，三度試圖自其辦公室遠端存取布魯梅爾博士的維安資料庫。莫林斯博士被指控未經授權存取維安工作區並意圖竊取憑證，將其移送至Site-06-3加以拘留。布魯梅爾博士將未使用的SCP-5109交還予維克薩爾部長。
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell style="border: 1px solid black; padding-left: 36px; background-color: #F3F3F3"]]
+//你就不能再設一個密碼去釣人家就好了嗎，崔弗？// [H．布蘭克博士]
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell style="border: 1px solid black; padding-left: 48px; background-color: #F3F3F3"]]
+//他在意圖竊取我的工作成果時，肯定是想著我已經不會對他造成妨礙了。違反密碼規定要罰，違反收容措施要命。// [T．布魯梅爾博士]
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell style="border: 1px solid black; background-color: #D7EFE7; padding: 6px;"]]
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell style="border: 1px solid black; padding: 12px;"]]
+**2010/05/16 -- 2010/05/19：** E．勒克萊爾博士將SCP-5109設為平板電腦的私人密碼。三日後，該員因意圖違反25區的[http://scp-zh-tr.wikidot.com/scp-1693 SCP-1693]收容協議被捕。勒克萊爾博士承認自己私自進行的阿茲海默症治療研究。Site-43健康與病理學部評估結果顯示，勒克萊爾博士患有輕度認知障礙，並迅速惡化為輕度失智症。身分與技術密碼學部報告指稱，過去一個月該部門接獲了該員辦公室多次的密碼重置請求。勒克萊爾博士自請將SCP-5109交還予維克薩爾部長，並請求接受記憶刪除後退休至中期照顧機構。該員的請求得到了批准。
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell style="border: 1px solid black; padding: 12px;"]]
+**2010/05/29 -- 2010/08/04：** H．福賽斯將SCP-5109作為臨床實驗使用，以確認使用該項目是否會導致認知障礙的惡化。所有結果均確認為陰性，SCP-5109交還予維克薩爾部長。
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell style="border: 1px solid black; background-color: #D7EFE7; padding: 6px;"]]
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell style="border: 1px solid black; padding: 12px;"]]
+**2011/03/26 -- 2011/05/17：** D．索科爾斯基博士將SCP-5109設為研究小組的FTP密碼。索科爾斯基博士指示同事在每日上傳資料前，先與該員聯絡以獲取新的一次性密碼。實際上，索科爾斯基博士每次都會向職員背誦SCP-5109，並要求職員在完成登錄程序前向其復述一次密碼。在研究計畫結束後，索科爾斯基博士為FTP系統創建了非異常的新密碼，而後將SCP-5109交還予維克薩爾部長。
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell style="border: 1px solid black; padding: 12px;"]]
+**2011/06/12：** 索科爾斯基博士於Site-43全部門研討會上發表研究成果，並將該研究小組的成果悉數獨攬己身。當索科爾斯基博士的同事提出抗議時，該員對小組其他成員的憑證提出質疑，並要求其背誦出過去的FTP以，證實自己的成員身分，顯然所有成員都無法背誦出任何密碼。索科爾斯基博士隨即發布了關於SCP-5109安全與道德疑慮，第二分秘密研究計畫的成果，詳細說明了自己上述的作為。索科爾斯基博士立即得到晉升，成為了模因與反模因部的高級研究員。
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell style="border: 1px solid black; padding-left: 36px; background-color: #F3F3F3"]]
+//說實話，真的挺令人驚豔的。// [A．麥金尼斯博士]
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell style="border: 1px solid black; background-color: #D7EFE7; padding: 6px;"]]
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell style="border: 1px solid black; padding: 12px;"]]
+**2011/08/16 -- 2011/09/18：** Site-43控制與收容部門主管R．彭薩克博士將SCP-5109設為儀式造物儲存櫃密碼。在證實該造物是贗品的前兩日，該員被診斷罹患急性喉炎，這使該員長達一個多月的時間無法將SCP-5109交還予維克薩爾部長。
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell style="border: 1px solid black; background-color: #D7EFE7; padding: 6px;"]]
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell style="border: 1px solid black; padding: 12px;"]]
+**2012/01/30 -- 2012/02/29：** L．莉莉哈默博士將SCP-5109設為[http://scp-zh-tr.wikidot.com/scp-3355 SCP-3355]自適應維安程序的語音啟動密碼。2012年2月29日，該員按往常的啟動該程序，卻發現程序已經自行啟動──變成了人工智慧──莉莉哈默博士立即忘卻了SCP-5109。該員最終透過協商使人工智慧返還了SCP-5109（透過聲碼器），並承諾為維安程序建立機器人的主機。在徹底清除與處分受影響系統，並將SCP-5109交還予維克薩爾部長後，莉莉哈默博士向Site-43控制與收容部門通報了以上事件。考慮到該員的誠實應對，僅對其做出了訓斥處分。
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell style="border: 1px solid black; background-color: #D7EFE7; padding: 6px;"]]
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell style="border: 1px solid black; padding: 12px;"]]
+**2014/11/17 -- 2014/11/20：** T．布魯梅爾博士將SCP-5109設為實驗用維安系統。2014年11月20日凌晨2:42，布魯梅爾博士指示Site-43控制與收容部門拘留其前研究助理O．奧斯特洛伊博士，罪名為未經授權入侵與竊取研究材料。特工進入奧斯特洛伊博士的住所與之對峙，後者否認了布魯梅爾博士的指控。然而在接受強化審訊後，證實了奧斯特洛伊博士有能力背誦出SCP-5109。奧斯特洛伊博士隨即被移送至Site-06-3接受拘留，SCP-5109交還予維克薩爾部長。
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell style="border: 1px solid black; padding-left: 36px; background-color: #F3F3F3"]]
+//我完全不明白。你是怎麼發現他闖入的？他又是怎麼記住5109的？// [H．布蘭克博士]
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell style="border: 1px solid black; padding-left: 48px; background-color: #F3F3F3"]]
+//我為5109錄了音，並讓維安系統給第一個未經授權存取者播放錄音。我還知道這個的發生時間，因為我手機上放了張5109的圖片作為鎖定螢幕。我半夜無緣無故地醒來，查看手機時發現已經看不懂上頭的文字了。順帶一提，錄音現在已經是亂碼了，即使我再次持有5109，錄音仍然依舊是亂碼。得去搞清楚才行。// [T．布魯梅爾博士]
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell style="border: 1px solid black; padding-left: 60px; background-color: #F3F3F3"]]
+//……我甚至想都沒想到它會這樣運作。不應該是這樣的。為什麼會這樣呢？// [H．布蘭克博士]
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell style="border: 1px solid black; padding-left: 72px; background-color: #F3F3F3"]]
+//我們測試了這東西整整八個月，哈利。我能給你最好的答案就是：它就是這樣運作的。// [T．布魯梅爾博士]
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell style="border: 1px solid black; padding-left: 84px; background-color: #F3F3F3"]]
+//那麼我的下一個問題是，我們應該更新收容措施嗎？為了安全起見，讓持有人用預先錄音取代無線電發送器？// [H．布蘭克博士]
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell style="border: 1px solid black; padding-left: 96px; background-color: #F3F3F3"]]
+//絕對不能。因為除非有人先聽到錄音，不然持有人仍有能力口頭傳播5109，這會導致我們的收容突破缺口從一個增加到兩個。// [A．麥金尼斯博士]
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell style="border: 1px solid black; padding-left: 108px; background-color: #F3F3F3"]]
+//......甚至更多個。// [H．布蘭克博士]
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell style="border: 1px solid black; padding-left: 120px; background-color: #F3F3F3"]]
+//你說的對。我們得更新收容措施了。// [A．麥金尼斯博士]
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell style="border: 1px solid black; background-color: #D7EFE7; padding: 6px;"]]
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell style="border: 1px solid black; padding: 12px;"]]
+**2015/09/01 -- 2015/09/08：** A．茨拉塔博士將SCP-5109設為資訊檢索系統密碼。2015年9月8日爆發連環收容突破期間，該員因調度失誤使其出現在Site-43奧秘消解設施AAF-D內，他在隨後因收容突破殉職。
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell style="border: 1px solid black; padding: 12px;"]]
+**2015/11/19：** 在72日全天候對茨拉塔博士資料庫進行解密後，身分與技術密碼學部仍無法重建SCP-5109。
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell style="border: 1px solid black; padding-left: 36px; background-color: #F3F3F3"]]
+//當然，我們知道如果沒有認知，語言就不能發揮作用，但這仍然是個有用的訓練練習。// [E．維克薩爾部長]
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell style="border: 1px solid black; padding-left: 48px; background-color: #F3F3F3"]]
+//如果有人想到讓茨拉塔先錄個音就好了。// [H．布蘭克博士]
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell style="border: 1px solid black; padding: 12px;"]]
+**2016/09/08：** 導致茨拉塔博士殉職的連環收容突破事故再度重演──[http://scp-zh-tr.wikidot.com/scp-5243 自2002年以降]，由於當時對奧秘消解部負責材料的不當處理，每年都會發生此狀況──時間異常部成員在茨拉塔博士二度死亡前不久將其攔截，並自其身上回收SCP-5109。SCP-5109交還予維克薩爾部長。
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell style="border: 1px solid black; background-color: #D7EFE7; padding: 6px;"]]
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell style="border: 1px solid black; padding: 12px;"]]
+**2016/09/09：** Site-43清潔與維護部N．納辛貝尼部長將SCP-5109設為奧秘消解設施AAF-D的封鎖密碼。在納辛貝尼部長離開其辦公室後，該員對自己複誦了一遍密碼，但卻在隨後將其忘卻。
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell style="border: 1px solid black; padding: 12px;"]]
+**2019/09/09：** SCP-5056-B洗澡期間，[http://scp-zh-tr.wikidot.com/scp-5056 SCP-5056-A]對著SCP-5056-B尖叫了一段字符串。SCP-5056-B向Site-43清潔與維護部部長A．托羅斯楊部長報告了該事件，並隨即忘記了該字符串。SCP-5109在下落不明36個月後，成功交還予維克薩爾部長。
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell style="border: 1px solid black; padding: 12px;"]]
+**2019/09/10：** 禁止在Site-43內部使用SCP-5109，維克薩爾部長仍保有項目管轄權，但僅能向站點外親自傳輸。
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell style="border: 1px solid black; background-color: #D7EFE7; padding: 6px;"]]
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell style="border: 1px solid black; padding: 12px;"]]
+**2020/04/24 -- 2020/04/25：** W．霍華德博士將SCP-5109設為所屬站點Site-66的實驗室臨時訪問代碼。次日，連環爆炸將L．伊斯托弗博士在Site-66的辦公室與研究室摧毀。霍華德博士在企圖逃離站點時被捕。在接受訊問期間，該員聲稱自己是GOI混沌反叛軍的特工，並設置SCP-5109作為伊斯托弗博士辦公室內五顆連環爆炸裝置的聲紋啟動鑰匙，而後再以伊斯托弗博士的答錄機撥打電話遠程啟動鑰匙。該員進一步聲稱，自己已在隨後立即透過電話將SCP-5109交給了渾沌反叛軍。
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell style="border: 1px solid black; padding: 12px;"]]
+**2020/04/26：** 伊斯托弗博士在Site-66接受三度燒傷治療後搶救成功。2020年4月25日當日，伊斯托弗博士在自己辦公室睡著了，該員後來被霍華德博士的電話吵醒。爆炸裝置引爆時，伊斯托弗博士就在自己的辦公桌下聽見了密碼。伊斯托弗博士將SCP-5109交還予維克薩爾部長。
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell style="border: 1px solid black; background-color: #D7EFE7; padding: 6px;"]]
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell style="border: 1px solid black; padding: 12px;"]]
+**2020/04/27：** 維克薩爾部長受命將SCP-5109移交予O5指揮部，該員遵從了此指令。
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell style="border: 1px solid black; background-color: #D7EFE7; padding: 6px;"]]
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell style="border: 1px solid black; padding: 12px;"]]
+**2021/01/01：** [[http://scp-zh-tr.wikidot.com/the-time-after-time-password-hub 已刪除數據]]
+[[/cell]]
+[[/row]]
+[[/table]]
+
+**附錄：** 已拒絕廢除SCP-5109的提議，目前尚未確認終結持有人是否能永久摧毀該異常，抑或者該異常將以其他形式顯現──可能在收容甚至基金會的可注意範圍之外。
+[[/div]]
+----
+[[div]]
+[[=]]
+<< **[/scp-5056-tests SCP-5056報告]** | **[/on-guard-43-hub 力與毒之語]** | **[[[SCP-5243]]]** >>
+[[/=]]
+[[/div]]
+
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[SCP-5108]]] | SCP-5109 | [[[SCP-5110]]] >>
+[[/=]]
+[[/div]]
+
+[[div]]
+[[=]]
+[[include :scp-zh-tr:component:license-box
+|author=HarryBlank
+]]
+=====
+[[<]]
+> **Filename:** 5109.png
+> **Author:** [[*user HarryBlank]]
+> **License:** CC BY 3.0
+
+> **Filename:** Mimisi.png
+> **Author:** [[*user HarryBlank]]
+> **License:** CC BY 3.0
+[[/<]]
+=====
+[[include :scp-zh-tr:component:license-box-end]]
+[[/=]]
+[[/div]]

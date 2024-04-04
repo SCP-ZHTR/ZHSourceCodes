@@ -1,0 +1,877 @@
+[[>]]
+[[module Rate]]
+[[/>]]
+
+[[module CSS]]
+@import url('https://fonts.googleapis.com/css?family=Reenie+Beanie');
+[[/module]]
+
+[[module CSS]]
+#header {background-image: url(http://smlt.wdfiles.com/local--files/plaguebearer%3Anobody/%3F);}
+#header h1 a {
+    display: block;
+    margin: 0;
+    padding: 80px 0 25px;
+    line-height: 0px;
+    max-height: 0px;
+    color: transparent;
+    background: transparent;
+    font-family: BauhausLTDemi. 'Nanum Gothic'. Arial. sans-serif;
+    text-decoration: none;
+    text-shadow: none;
+    letter-spacing: 0.9px;
+}
+ 
+#header h1 a::before {
+    content: "Nobody";
+    color: #fff;
+    letter-spacing: -0.02em;
+    text-shadow: 3px 3px 5px #000;
+}
+ 
+#header h2 span {
+    display: block;
+    margin: 0;
+    padding: 19px 0;
+    line-height: 0px;
+    max-height: 0px;
+    font-weight: bold;
+    color: transparent;
+    text-shadow: none;
+}
+ 
+#header h2 span::before {
+    content: '...';
+    color: #fff;
+    text-shadow: 1px 1px 1px #000;
+    text-shadow: 1px 1px 1px rgba(0,0,0,.8);
+}
+
+sup {
+  vertical-align: top;
+  position: relative;
+  top: -0.5em;
+}
+
+.scp-image-block.block-right { margin: 1em 2em 1em 1em; }
+
+[[/module]]
+
+[[module css]]
+.page {
+    display: block;
+    overflow: hidden;
+    font-family: "Monotype Corsiva", "Bradley Hand ITC", sans-serif;
+    font-style: normal;
+
+   
+    background-attachment: scroll;
+    background-clip: border-box;
+    background-color: transparent;
+    background-image: linear-gradient(to top ,rgb(202, 219, 228) 0%, rgb(231, 233, 220) 8%);
+    background-origin: padding-box;
+    background-position: 0px 8px;
+    background-repeat: repeat;
+    background-size: 100% 20px;
+    
+
+    border: 1px solid #CCC;
+    border-radius: 10px;
+    padding: 10px 10px;
+    margin-bottom: 10px;
+
+    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.2)
+    }
+.page p {
+    line-height: 20px;
+    margin: 0;
+}
+[[/module]]
+[[div style="border:solid 2px #191c23; background:#2f3442; padding:10px; margin-bottom: 0px;"]]
+[[=]]
++ {{//##137f00|chatConnect v3.0##//}}
+[[size 80%]]{{//**##137f00|私人連接實用程序**##//}}[[/size]]
+[[/=]]
+------
+[[table style="border: none;"]]
+
+[[row]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#ffffff;"]]
+@@@@
+[[/cell]]
+[[cell style="text-align: ;eft; font-family: monotype; color:#ffffff;"]]
+┌──────────────────────────
+»{{//**##d051ff|'n06ody##** 已加入大廳//}}
+└──────────────────────────
+[[/cell]]
+[[/row]]
+
+[[row]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#ff1e1e;"]]
+<sakaali>
+[[/cell]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#ffffff;"]]
+好哇，[[span class="ruby"]]沒有人[[span class="rt"]]Nobody[[/span]][[/span]]
+[[/cell]]
+[[/row]]
+
+[[row]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#c6c900;"]]
+<einBoot>
+[[/cell]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#ffffff;"]]
+喲謔，沒有人
+[[/cell]]
+[[/row]]
+
+[[row]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#c6c900;"]]
+@@@@
+[[/cell]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#ffffff;"]]
+發生了什麽
+[[/cell]]
+[[/row]]
+
+[[row]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#ff1e1e;"]]
+<sakaali>
+[[/cell]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#ffffff;"]]
+有什麽問題？這電話會議真是非常早
+[[/cell]]
+[[/row]]
+
+[[row]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#d051ff;"]]
+<'n06ody>
+[[/cell]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#ffffff;"]]
+簡單來說，我有麻煩了
+[[/cell]]
+[[/row]]
+ 
+[[row]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#c6c900;"]]
+<einBoot>
+[[/cell]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#ffffff;"]]
+啊，該死
+[[/cell]]
+[[/row]]
+  
+[[row]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#ff1e1e;"]]
+<sakaali>
+[[/cell]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#ffffff;"]]
+你在哪
+[[/cell]]
+[[/row]]
+  
+[[row]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#c6c900;"]]
+<einBoot>
+[[/cell]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#ffffff;"]]
+這一點都不好
+[[/cell]]
+[[/row]]
+  
+[[row]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#d051ff;"]]
+<'n06ody>
+[[/cell]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#ffffff;"]]
+我現在正呆在一家網咖裏
+[[/cell]]
+[[/row]]
+  
+[[row]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#d051ff;"]]
+@@@@
+[[/cell]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#ffffff;"]]
+在賓夕法尼亞州的中部
+[[/cell]]
+[[/row]]
+  
+[[row]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#ff1e1e;"]]
+<sakaali>
+[[/cell]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#ffffff;"]]
+我可以派些人來接你。不管怎麽說，之前boat被從伏爾加格勒救了出來
+[[/cell]]
+[[/row]]
+  
+[[row]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#c6c900;"]]
+<einBoot>
+[[/cell]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#ffffff;"]]
+那不是我的錯 
+[[/cell]]
+[[/row]]
+  
+[[row]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#d051ff;"]]
+<'n06ody>
+[[/cell]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#ffffff;"]]
+吶，這將會有很多麻煩
+[[/cell]]
+[[/row]]
+  
+[[row]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#c6c900;"]]
+<einBoot>
+[[/cell]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#ffffff;"]]
+不管怎麽說，問題是什麽
+[[/cell]]
+[[/row]]
+  
+[[row]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#d051ff;"]]
+<'n06ody>
+[[/cell]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#ffffff;"]]
+一些南美準軍事人員，boat。那是軍閥的部隊，也許吧？
+[[/cell]]
+[[/row]]
+  
+[[row]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#d051ff;"]]
+@@@@
+[[/cell]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#ffffff;"]]
+大體上來說，我應該還好
+[[/cell]]
+[[/row]]
+  
+[[row]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#ff1e1e;"]]
+<sakaali>
+[[/cell]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#ffffff;"]]
+大體上？
+[[/cell]]
+[[/row]]
+  
+[[row]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#c6c900;"]]
+<einBoot>
+[[/cell]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#ffffff;"]]
+我想我知道你的意思了，沒有人能讓我找到張照片
+[[/cell]]
+[[/row]]
+  
+[[row]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#d051ff;"]]
+<'n06ody>
+[[/cell]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#ffffff;"]]
+所以說，我發現他們在受關註地區四處窺探
+[[/cell]]
+[[/row]]
+  
+[[row]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#d051ff;"]]
+@@@@
+[[/cell]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#ffffff;"]]
+事實上，更多的是他們在窺探中發現我窺探他們
+[[/cell]]
+[[/row]]
+  
+[[row]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#ff1e1e;"]]
+<sakaali>
+[[/cell]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#ffffff;"]]
+是不是說這與最近發生在賓州的一個異常事故有確切的關聯？
+[[/cell]]
+[[/row]]
+  
+[[row]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#d051ff;"]]
+@@@@
+[[/cell]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#ffffff;"]]
+不是巧合嗎？
+[[/cell]]
+[[/row]]
+  
+[[row]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#d051ff;"]]
+<'n06ody>
+[[/cell]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#ffffff;"]]
+啊呀，不是個巧合，我可以很肯定的說
+[[/cell]]
+[[/row]]
+  
+[[row]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#ff1e1e;"]]
+<sakaali>
+[[/cell]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#ffffff;"]]
+操。會是亞洲佬走漏消息的嗎？我很確定沒有人在這裏
+[[/cell]]
+[[/row]]
+  
+[[row]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#c6c900;"]]
+<einBoot>
+[[/cell]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#ffffff;"]]
+你認為他們會知道他們在找什麽東西嗎？
+[[/cell]]
+[[/row]]
+  
+[[row]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#d051ff;"]]
+<'n06ody>
+[[/cell]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#ffffff;"]]
+嗯，我十分確定他們會的。他們沒有繞多少彎路
+[[/cell]]
+[[/row]]
+  
+[[row]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#d051ff;"]]
+@@@@
+[[/cell]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#ffffff;"]]
+就像其他軍隊常常幹的 :P
+[[/cell]]
+[[/row]]
+  
+[[row]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#ff1e1e;"]]
+<sakaali>
+[[/cell]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#ffffff;"]]
+你怎麽想，boat？關於泛美團體，你似乎比我們知道的更多。
+[[/cell]]
+[[/row]]
+  
+[[row]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#c6c900;"]]
+<einBoot>
+[[/cell]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#ffffff;"]]
+不大確定，說實在，窩可能會知道的更多，但沒有人能證實我的懷疑
+[[/cell]]
+[[/row]]
+  
+[[row]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#d051ff;"]]
+@@@@
+[[/cell]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#ffffff;"]]
+sakal，你看起來比平時更焦慮
+[[/cell]]
+[[/row]]
+  
+[[row]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#ff1e1e;"]]
+<sakaali>
+[[/cell]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#ffffff;"]]
+我知道，就是有些緊張。如果我問的問題沒有禮貌的話，抱歉
+[[/cell]]
+[[/row]]
+  
+[[row]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#d051ff;"]]
+<'n06ody>
+[[/cell]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#ffffff;"]]
+我明白。你只是想要確保我還好。多謝
+[[/cell]]
+[[/row]]
+  
+[[row]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#c6c900;"]]
+<einBoot>
+[[/cell]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#ffffff;"]]
+等等，我想我找到他們了 
+[[/cell]]
+[[/row]]
+  
+[[row]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#d051ff;"]]
+@@@@
+[[/cell]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#ffffff;"]]
+草他娘的圖片下載不了，等等幾分鐘
+[[/cell]]
+[[/row]]
+    
+[[row]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#ff1e1e;"]]
+<sakaali>
+[[/cell]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#ffffff;"]]
+繼續吧，他們抓住你後發生了什麽？
+[[/cell]]
+[[/row]]
+  
+[[row]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#d051ff;"]]
+<'n06ody>
+[[/cell]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#ffffff;"]]
+那家夥對我大喊大叫
+[[/cell]]
+[[/row]]
+  
+[[row]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#d051ff;"]]
+@@@@
+[[/cell]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#ffffff;"]]
+不知道說的是葡萄牙語還是西班牙語
+[[/cell]]
+[[/row]]
+  
+[[row]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#d051ff;"]]
+@@@@
+[[/cell]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#ffffff;"]]
+基本上我定住他後再偷走了他的機車
+[[/cell]]
+[[/row]]
+  
+[[row]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#d051ff;"]]
+@@@@
+[[/cell]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#ffffff;"]]
+草他的我從那裏跑了出來後就結束了
+[[/cell]]
+[[/row]]
+  
+[[row]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#c6c900;"]]
+<einBoot>
+[[/cell]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#ffffff;"]]
+找到一張新圖片
+[[/cell]]
+[[/row]]
+  
+[[row]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#ff1e1e;"]]
+<sakaali>
+[[/cell]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#ffffff;"]]
+你知道那個家夥怎麽喊你？
+[[/cell]]
+[[/row]]
+  
+[[row]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#d051ff;"]]
+<'n06ody>
+[[/cell]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#ffffff;"]]
+真母雞啊。一般大都是“你是誰，來這裏幹嘛？”之類的。
+[[/cell]]
+[[/row]]
+  
+[[row]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#c6c900;"]]
+<einBoot>
+[[/cell]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#ffffff;"]]
+知了。他們看起來是這樣嗎：##6098ff|los_cotizantes1979.jpg##
+[[/cell]]
+[[/row]]
+  
+[[row]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#d051ff;"]]
+<'n06ody>
+[[/cell]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#ffffff;"]]
+天殺的，確實像。真棒，就和往常一樣棒，boat。
+[[/cell]]
+[[/row]]
+  
+[[row]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#ff1e1e;"]]
+<sakaali>
+[[/cell]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#ffffff;"]]
+他們是誰？
+[[/cell]]
+[[/row]]
+  
+[[row]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#c6c900;"]]
+<einBoot>
+[[/cell]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#ffffff;"]]
+謝謝。他們自稱是[[span class="ruby"]]“奉獻者”[[span class="rt"]]Los Cotizantes[[/span]][[/span]]，一個阿根廷準軍事組織。
+[[/cell]]
+[[/row]]
+  
+[[row]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#d051ff;"]]
+@@@@
+[[/cell]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#ffffff;"]]
+就像是阿根廷版的UIU，但不是政府組織。
+[[/cell]]
+[[/row]]
+  
+[[row]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#d051ff;"]]
+<'n06ody>
+[[/cell]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#ffffff;"]]
+哦，多謝，天哪。至少我知道它不是葡萄牙的
+[[/cell]]
+[[/row]]
+  
+[[row]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#ff1e1e;"]]
+<sakaali>
+[[/cell]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#ffffff;"]]
+葡萄牙語在那裏不是官方語言，對吧？
+[[/cell]]
+[[/row]]
+  
+[[row]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#c6c900;"]]
+<einBoot>
+[[/cell]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#ffffff;"]]
+是呀，他們說西班牙語
+[[/cell]]
+[[/row]]
+  
+[[row]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#d051ff;"]]
+<'n06ody>
+[[/cell]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#ffffff;"]]
+操
+[[/cell]]
+[[/row]]
+  
+[[row]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#d051ff;"]]
+@@@@
+[[/cell]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#ffffff;"]]
+他們在街對面外
+[[/cell]]
+[[/row]]
+  
+[[row]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#d051ff;"]]
+@@@@
+[[/cell]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#ffffff;"]]
+我認為他們看見了機車
+[[/cell]]
+[[/row]]
+  
+[[row]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#ff1e1e;"]]
+<sakaali>
+[[/cell]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#ffffff;"]]
+你能跑得出來嗎？
+[[/cell]]
+[[/row]]
+  
+[[row]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#c6c900;"]]
+<einBoot>
+[[/cell]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#ffffff;"]]
+你可以處理好他們，吧
+[[/cell]]
+[[/row]]
+  
+[[row]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#d051ff;"]]
+<'n06ody>
+[[/cell]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#ffffff;"]]
+都很渺茫。但窩會試試
+[[/cell]]
+[[/row]]
+  
+[[row]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#d051ff;"]]
+@@@@
+[[/cell]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#ffffff;"]]
+操他們正雞兒來這
+[[/cell]]
+[[/row]]
+  
+[[row]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#d051ff;"]]
+@@@@
+[[/cell]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#ffffff;"]]
+夥計們幫我個芒
+[[/cell]]
+[[/row]]
+  
+[[row]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#ff1e1e;"]]
+<sakaali>
+[[/cell]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#ffffff;"]]
+當然，如何？
+[[/cell]]
+[[/row]]
+  
+[[row]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#c6c900;"]]
+<einBoot>
+[[/cell]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#ffffff;"]]
+我們都站你一邊
+[[/cell]]
+[[/row]]
+  
+[[row]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#d051ff;"]]
+<'n06ody>
+[[/cell]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#ffffff;"]]
+窩要肝驅動器擦除器
+[[/cell]]
+[[/row]]
+  
+[[row]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#d051ff;"]]
+@@@@
+[[/cell]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#ffffff;"]]
+包村這鞋子穩健： ##6098ff|dsc001.zip##, ##6098ff|dsc002.zip##, ##6098ff|dsc003.zip##, ##6098ff|dsc004.zip##, ##6098ff|dsc005.zip##
+[[/cell]]
+[[/row]]
+  
+[[row]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#ff1e1e;"]]
+<sakaali>
+[[/cell]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#ffffff;"]]
+下載中，它們真大
+[[/cell]]
+[[/row]]
+  
+[[row]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#c6c900;"]]
+<einBoot>
+[[/cell]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#ffffff;"]]
+也在下載中。這些文件是什麽？
+[[/cell]]
+[[/row]]
+  
+[[row]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#d051ff;"]]
+<'n06ody>
+[[/cell]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#ffffff;"]]
+輩分驅動不要丟掉ㄊㄚㄇㄣ
+[[/cell]]
+[[/row]]
+  
+[[row]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#d051ff;"]]
+@@@@
+[[/cell]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#ffffff;"]]
+boot，窩有鴿文體
+[[/cell]]
+[[/row]]
+  
+[[row]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#c6c900;"]]
+<einBoot>
+[[/cell]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#ffffff;"]]
+啊呀？
+[[/cell]]
+[[/row]]
+  
+[[row]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#d051ff;"]]
+<'n06ody>
+[[/cell]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#ffffff;"]]
+阿根廷人會在審訊中用水刑嗎
+[[/cell]]
+[[/row]]
+  
+[[row]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#c6c900;"]]
+<einBoot>
+[[/cell]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#ffffff;"]]
+呀
+[[/cell]]
+[[/row]]
+  
+[[row]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#d051ff;"]]
+<'n06ody>
+[[/cell]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#ffffff;"]]
+草草草他們來了
+[[/cell]]
+[[/row]]
+  
+[[row]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#d051ff;"]]
+@@@@
+[[/cell]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#ffffff;"]]
+我他娘的盡量不要說出真名rn
+[[/cell]]
+[[/row]]
+  
+[[row]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#ff1e1e;"]]
+<sakaali>
+[[/cell]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#ffffff;"]]
+
+[[span class="ruby"]]等下再說[[span class="rt"]]TTYL[[/span]][[/span]]，這你明白了
+[[/cell]]
+[[/row]]
+  
+[[row]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#c6c900;"]]
+<einBoot>
+[[/cell]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#ffffff;"]]
+夥計，要活下來啊，你是一個好人
+[[/cell]]
+[[/row]]
+  
+[[row]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#ff1e1e;"]]
+<sakaali>
+[[/cell]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#ffffff;"]]
+^
+[[/cell]]
+[[/row]]
+  
+[[row]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#d051ff;"]]
+<'n06ody>
+[[/cell]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#ffffff;"]]
+弊，佢啲睇見我
+[[/cell]]
+[[/row]]
+  
+[[row]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#d051ff;"]]
+@@@@
+[[/cell]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#ffffff;"]]
+祝我好運
+[[/cell]]
+[[/row]]
+  
+[[row]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#ffffff;"]]
+
+[[/cell]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#ffffff;"]]
+┌──────────────────────────
+«{{//**##d051ff|'n06ody##** 已離開大廳//}}
+└──────────────────────────
+[[/cell]]
+[[/row]]
+  
+[[row]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#ff1e1e;"]]
+<sakaali>
+[[/cell]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#ffffff;"]]
+他還會說西班牙語？ 
+[[/cell]]
+[[/row]]
+  
+[[row]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#c6c900;"]]
+<einBoot>
+[[/cell]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#ffffff;"]]
+一點
+[[/cell]]
+[[/row]]
+  
+[[row]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#ff1e1e;"]]
+<sakaali>
+[[/cell]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#ffffff;"]]
+他死定了
+[[/cell]]
+[[/row]]
+  
+[[row]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#c6c900;"]]
+<einBoot>
+[[/cell]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#ffffff;"]]
+我認為他會在被制服時堅持住的
+[[/cell]]
+[[/row]]
+  
+[[row]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#d051ff;"]]
+@@@@
+[[/cell]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#ffffff;"]]
+你知道的
+[[/cell]]
+[[/row]]
+  
+[[row]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#ff1e1e;"]]
+<sakaali>
+[[/cell]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#ffffff;"]]
+真的嗎？為什麽？
+[[/cell]]
+[[/row]]
+  
+[[row]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#c6c900;"]]
+<einBoot>
+[[/cell]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#ffffff;"]]
+我的意思是，不管怎麽說
+[[/cell]]
+[[/row]]
+  
+[[row]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#d051ff;"]]
+@@@@
+[[/cell]]
+[[cell style="text-align: left; font-family: "Verdana"; color:#ffffff;"]]
+沒有人期待西班牙審判[[footnote]] **譯註：**原作者提示這是“沒有人會希望西班牙宗教法庭”與“Nobody希望西班牙語審問”的雙關 [[/footnote]]
+[[/cell]]
+[[/row]]
+[[/table]]
+[[/div]]

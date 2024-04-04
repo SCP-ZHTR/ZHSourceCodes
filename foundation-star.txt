@@ -1,0 +1,390 @@
+[[div style="background: url(https://i.imgur.com/uS2MKts.png) center top no-repeat ; float: center; border: gray 1px; padding: 7px; margin: 3px; background-color: #fafafa ; team-win-chance: 100%; box-shadow: 0px 0px 1px 2px"]]
+[[span style="float:left; margin-right: 15px;"]]
+[[/span]]
+[[=]]
+[[size 150%]]
++ 基金會之星
+[[/size]]
+-------
+**網站建設的路上我們得到了許許多多來自各處陌生人們的指導與幫助**
+
+**除了親愛的創作者與努力的後台技術員以外，我們由衷的感謝這群默默耕耘的翻譯人員們**
+
+**努力從生活中撥出些許的時間協助完成了建設這個網站所需要的翻譯作品**
+
+**當然，我們的工作還沒結束呢！SCP的宇宙還在持續持續的發展當中**
+
+**如果您也希望能夠為了網站的建設出一份力，希望加入翻譯行列的歡迎[[[tongwen-guan|與我們連絡]]]**
+
+**最後再次感謝參與本站建設的所有人，沒有你就沒有ZH**
+[[/=]]
+[[/div]]
+[[toc]]
+@@ @@
+[[div style="background: url(https://i.imgur.com/nl2Y3eS.png) center top no-repeat ; float: center; border: gray 1px; padding: 7px; margin: 3px; background-color: #fafafa ; team-win-chance: 100%; box-shadow: 0px 0px 1px 2px"]]
+[[span style="float:left; margin-right: 15px;"]]
+[[/span]]
+[[=]]
+[[size 150%]]
++ **[[user  ChAos_UnItY]]**
+[[/size]]
+[[collapsible show="ChAos_UnItY所協助的翻譯作品一覽" hide="感謝ChAos_UnItY"hideLocation="both"]]
+**[[[groups-of-interest|關注組織簡介]]]**
+[[/collapsible]]
+[[/=]]
+[[/div]]
+
+@@ @@
+------
+[[size 150%]]
++ **[[user  DrLoordb]]**
+[[/size]]
+[[collapsible show="DrLoordb所協助的翻譯作品一覽" hide="感謝DrLoordb"hideLocation="both"]]
+[[[groups-of-interest|關注組織簡介]]]
+[[/collapsible]]
+@@ @@
+------
+[[size 150%]]
++ **[[user Dr Rudy]]**
+[[/size]]
+[[collapsible show="Dr Rudy所協助的翻譯作品一覽" hide="感謝Dr Rudy"hideLocation="both"]]
+[[[groups-of-interest|關注組織簡介]]]
+[[/collapsible]]
+@@ @@
+------
+[[size 150%]]
++ **[[user Danza]]**
+[[/size]]
+[[collapsible show="Danza所協助的翻譯作品一覽" hide="感謝Danza"hideLocation="both"]]
+[[[scp-963|SCP-963]]] 不朽
+[[/collapsible]]
+@@ @@
+------
+[[size 150%]]
++ **[[user Etinjat]]**
+[[/size]]
+[[collapsible show="Etinjat所協助的翻譯作品一覽" hide="感謝Etinjat"hideLocation="both"]]
+[[[donations-policy|官方資助守則]]]
+[[[css-policy|CSS 守則]]]
+[[[usertools|SCP維基上的用戶工具]]]
+[[[donations-policy|官方資助政策]]]
+[[/collapsible]]
+@@ @@
+------
+[[size 150%]]
++ **[[user EbertLee]]**
+[[/size]]
+[[collapsible show="EbertLee所協助的翻譯作品一覽" hide="感謝EbertLee"hideLocation="both"]]
+[[[groups-of-interest|關注組織簡介]]]**
+[[[scp-529|SCP-529]]] 半貓Josie
+[[[scp-076|SCP-076]]]「亞伯」
+[[[doctors-of-the-church-hub|教會聖師中心頁]]]
+[[/collapsible]]
+@@ @@
+------
+[[size 150%]]
++ **[[user feitag]]**
+[[/size]]
+[[collapsible show="feitag所協助的翻譯作品一覽" hide="感謝feitag"hideLocation="both"]]
+[[[groups-of-interest|關注組織簡介]]]
+[[[deer-college-hub|鹿學院學生手冊]]]
+[[[are-we-cool-yet-hub|Are We Cool Yet中心頁]]]
+[[[chicago-spirit|芝加哥鬼靈中心頁]]]
+[[[guia-licencias-de-archivos|NICO的圖像授權來源與其他深奧的東西之指南]]]
+[[[are-we-cool-yet-hub|Are We Cool Yet? 中心頁]]]
+[[[chicago-spirit|GOI-001：芝加哥鬼靈]]]
+[[[oneiroi|夢神關注組織中心頁]]]
+[[[ode-to-the-unknown-author|獻給未知作者的頌歌]]]
+
+[[/collapsible]]
+@@ @@
+------
+[[size 150%]]
++ **[[user  ting129]]**
+[[/size]]
+[[collapsible show="ting129所協助的翻譯作品一覽" hide="感謝ting129"hideLocation="both"]]
+[[[groups-of-interest|關注組織簡介]]]
+[[[gamers-against-weed-hub|反大麻玩家中心頁]]]
+[[/collapsible]]
+@@ @@
+------
+[[size 150%]]
++ **[[user  Glutton66]]**
+[[/size]]
+[[collapsible show="Glutton66所協助的翻譯作品一覽" hide="感謝Glutton66"hideLocation="both"]]
+[[[groups-of-interest|關注組織簡介]]]
+[[[ambrose-restaurant-hub|安布羅斯餐廳中心頁]]]
+[[/collapsible]]
+@@ @@
+------
+[[size 150%]]
++ **[[user SamScript]]**
+[[/size]]
+[[collapsible show="SamScript所協助的翻譯作品一覽" hide="感謝SamScript"hideLocation="both"]]
+[[[groups-of-interest|關注組織簡介]]]
+[[[anomaly-classification-system-guide|異常分類系統（ACS）指南頁]]]
+[[[second-hytoth-hub|第二海托世教會中心頁]]]
+[[[sarkicism-hub|欲肉教中心頁]]]
+[[[apotheosis-hub|神化中心頁]]]
+[[/collapsible]]
+@@ @@
+------
+[[size 150%]]
++ **[[user Semibreve]]**
+[[/size]]
+[[collapsible show="Semibreve所協助的翻譯作品一覽" hide="感謝Semibreve"hideLocation="both"]]
+[[[scp-173|SCP-173]]] 塑像 - 最初的作品
+[[[groups-of-interest|關注組織簡介]]]
+[[[spc-hub|毆打鯊魚中心中心頁]]]
+[[[wilson-s-wildlife-solutions-hub|威爾遜生物應對組中心頁]]]
+[[[task-forces|機動特遣隊]]]
+[[[task-forces-complete-list|機動特遣隊簡要列表]]]
+[[/collapsible]]
+@@ @@
+------
+[[size 150%]]
++ **[[user UmiTheOwl]]**
+[[/size]]
+[[collapsible show="UmiTheOwl所協助的翻譯作品一覽" hide="感謝UmiTheOwl"hideLocation="both"]]
+[[[groups-of-interest|關注組織簡介]]]
+[[/collapsible]]
+@@ @@
+------
+[[size 150%]]
++ **[[user oopandoraoo]]**
+[[/size]]
+[[collapsible show="oopandoraoo所協助的翻譯作品一覽" hide="感謝oopandoraoo"hideLocation="both"]]
+[[[amendment-to-css-policy|CSS政策修正案討論]]]
+[[/collapsible]]
+@@ @@
+------
+[[size 150%]]
++ **[[user Kaze Yang]]**
+[[/size]]
+[[collapsible show="Kaze Yang所協助的翻譯作品一覽" hide="感謝Kaze Yang"hideLocation="both"]]
+[[[scp-682|SCP-682]]] 不滅孽蜥
+[[[end-of-death-hub|死亡終了中心頁]]]
+[[/collapsible]]
+@@ @@
+------
+[[size 150%]]
++ **[[user MatchaCola]]**
+[[/size]]
+[[collapsible show="MatchaCola所協助的翻譯作品一覽" hide="感謝MatchaCola"hideLocation="both"]]
+[[[scp-500|SCP-500]]] 萬靈藥
+[[/collapsible]]
+@@ @@
+------
+[[size 150%]]
++ **[[user KenNG]]**
+[[/size]]
+[[collapsible show="KenNG所協助的翻譯作品一覽" hide="感謝KenNG"hideLocation="both"]]
+[[[scp-343|SCP-343]]] "上帝"
+[[/collapsible]]
+@@ @@
+------
+[[size 150%]]
++ **[[user ganamine02]]**
+[[/size]]
+[[collapsible show="ganamine02所協助的翻譯作品一覽" hide="感謝ganamine02"hideLocation="both"]]
+[[[scp-239|SCP-239]]] 巫術女孩
+[[/collapsible]]
+@@ @@
+------
+
+[[size 150%]]
++ **[[user vomiter]]**
+[[/size]]
+[[collapsible show="vomiter所協助的翻譯作品一覽" hide="感謝vomiter"hideLocation="both"]]
+[[[groups-of-interest|關注組織簡介]]]
+[[[technical-words|專業詞彙]]]
+[[[understanding-memetics|弄懂模因學]]]
+[[[technical-writing|專業寫作與你]]]
+[[[so-you-want-to-write-a-humanoid-scp-object|所以你想寫一個人形SCP項目]]]
+[[[yourjouney-part-1|你的首篇SCP之路 第一章 — 引言與點子發想]]]
+[[[yourjouney-part-2|你的首篇SCP之路 第二章 — 故事構成與原創性]]]
+[[[yourjouney-part-3|你的首篇SCP之路 第三章 — 擬出草稿與接受批評]]]
+[[[scp-093|SCP-093]]] - 紅海物件
+[[[scp-231|SCP-231]]] - 特殊人員需求
+[[[scp-701|SCP-701]]] - 受絞之王的悲劇
+[[[chaos-insurgency-hub|渾沌反叛軍中心頁]]] 
+[[[serpent-s-hand-hub|蛇之手 中心頁]]] 
+[[[church-of-the-broken-god-hub|破碎之神教會 中心頁]]]
+[[[clinical-tone-declassified|解密臨床語氣]]]
+
+[[/collapsible]]
+
+@@ @@
+------
+[[size 150%]]
++ **[[user WaterBrich]]**
+[[/size]]
+[[collapsible show="WaterBrich所協助的翻譯作品一覽" hide="感謝WaterBrich"hideLocation="both"]]
+[[[security-clearance-levels|維安權限分級]]]
+[[/collapsible]]
+@@ @@
+------
+[[size 150%]]
++ **[[user Viken-K]]**
+[[/size]]
+[[collapsible show="Viken-K所協助的翻譯作品一覽" hide="感謝Viken-K"hideLocation="both"]]
+[[[scp-055|SCP-055]]] - [未知]
+[[[zen-and-the-art-of-data-expunged|禪意與數據刪除的藝術]]]
+[[[prometheus-labs-hub|普羅米修斯實驗室中心頁]]]
+[[[doing-the-safety-dance|如何搞好安全措施]]]
+[[[scp-style-resource|SCP格式資源]]]
+[[[advanced-formatting-and-you|進階排版與你]]]
+[[[listpages-magic-and-you|ListPages魔法與你]]]
+[[[how-to-be-scary-without-saying-anything|如何營造恐怖的氣氛]]]
+[[[spc-hub-2|SPC中心頁 2.0]]]
+[[[k-class-complete-list|K級情景總表]]]
+[[[author-page-tool|一個能幫助那些懶骨頭們更新人事頁的超簡易工具]]]
+
+[[/collapsible]]
+@@ @@
+------
+[[size 150%]]
++ **[[user minmasterqw]]**
+[[/size]]
+[[collapsible show="minmasterqw所協助的翻譯作品一覽" hide="感謝minmasterqw"hideLocation="both"]]
+[[[the-big-list-of-overdone-scp-cliches|「老梗項目構思」清單]]]
+[[[arcadia-hub|阿卡迪亞 說明手冊]]]
+[[/collapsible]]
+@@ @@
+------
+[[size 150%]]
++ **[[user k1s10r0d]]**
+[[/size]]
+[[collapsible show="k1s10r0d所協助的翻譯作品一覽" hide="感謝k1s10r0d"hideLocation="both"]]
+[[[white-space-hub|泛空（中心頁）]]]
+[[[fifthist-hub|第五教會 中心頁]]]
+[[/collapsible]]
+@@ @@
+------
+[[size 150%]]
++ **[[user  Lostwhat ]]**
+[[/size]]
+[[collapsible show=" Lostwhat所協助的翻譯作品一覽" hide="感謝 Lostwhat "hideLocation="both"]]
+[[[parawatch-hub|異視維基中心頁]]]
+[[[herman-fuller-hub|赫曼•富勒的不安馬戲團中心]]]
+[[[rat-s-nest-hub|鼠巢 中心頁]]]
+[[/collapsible]]
+@@ @@
+------
+[[size 150%]]
++ **[[user  Jochoi]]**
+[[/size]]
+[[collapsible show=" Jochoi所協助的翻譯作品一覽" hide="感謝  Jochoi "hideLocation="both"]]
+[[[css-theme-preparation-tool|CSS主題製作工具]]]
+[[/collapsible]]
+@@ @@
+------
+[[size 150%]]
++ **[[user  Thundereyes]]**
+[[/size]]
+[[collapsible show="Thundereyes所協助的翻譯作品一覽" hide="感謝 Thundereyes"hideLocation="both"]]
+[[[scp-int-to-ru|國際站至基金會各分站成員有關俄羅斯分站被侵權事宜之公開信]]]
+[[[ru-situation|俄羅斯分站商標註冊事件事情經過簡介]]]
+[[/collapsible]]
+@@ @@
+------
+[[size 150%]]
++ **[[user  Chricton]]**
+[[/size]]
+[[collapsible show="Chricton所協助的翻譯作品一覽" hide="感謝 Chricton"hideLocation="both"]]
+[[[the-cool-war-hub|Cool之戰]]]
+[[/collapsible]]
+@@ @@
+------
+[[size 150%]]
++ **[[user Dr Fishbone]]**
+[[/size]]
+[[collapsible show="Dr Fishbone所協助的翻譯作品一覽" hide="感謝 Dr Fishbone"hideLocation="both"]]
+[[[containment-hazard-control|收容危害控制]]]
+[[[unfounded-hub|未曾建立 - 中心頁]]]
+[[/collapsible]]
+@@ @@
+------
+[[size 150%]]
++ **[[user Topological Hegelian]]**
+[[/size]]
+[[collapsible show="Topological Hegelian所協助的翻譯作品一覽" hide="感謝 Topological Hegelian"hideLocation="both"]]
+[[[unusual-incidents-unit-hub|聯邦調查局特異事故處]]]
+[[/collapsible]]
+@@ @@
+------
+[[size 150%]]
++ **[[user Reverberate_a]]**
+[[/size]]
+[[collapsible show="Reverberate_a所協助的翻譯作品一覽" hide="感謝 Reverberate_a"hideLocation="both"]]
+[[[scp-087|SCP-087]]] - 樓梯間
+[[[scp-882|SCP-882]]] - 一台機器
+[[[siabhub|瓶中船中心頁]]]
+[[[black-queen-hub|黑皇后中心頁]]]
+[[[gru-p-hub|格鲁烏"P"部門中心頁]]]
+[[[vehicle-list|MTF與維安團隊的基礎設備]]]
+[[/collapsible]]
+@@ @@
+------
+[[size 150%]]
++ **[[user EmptyName723]]**
+[[/size]]
+[[collapsible show="EmptyName723所協助的翻譯作品一覽" hide="感謝EmptyName723"hideLocation="both"]]
+[[[mackenzie-pitfalls|Mackenzie博士的常見SCP寫作陷阱]]]
+[[[user-curated-lists|用戶推薦列表]]]
+[[/collapsible]]
+@@ @@
+------
+[[size 150%]]
++ **[[user Frederica Bernkastel]]**
+[[/size]]
+[[collapsible show="Frederica Bernkastel所協助的翻譯作品一覽" hide="感謝Frederica Bernkastel"hideLocation="both"]]
+[[[esoteric-classes-complete-list|機密分級完整列表]]]
+[[[departments-complete-list|基金會部門半完整列表]]]
+[[/collapsible]]
+@@ @@
+------
+[[size 150%]]
++ **[[user  Nyunyunyun]]**
+[[/size]]
+[[collapsible show=" Nyunyunyun所協助的翻譯作品一覽" hide="感謝 Nyunyunyun"hideLocation="both"]]
+[[[broken-masquerade-hub|毀壞假面中心頁]]]
+[[[site-17-hub|Site-17深井目錄]]]
+[[[classification-committee-memo|分級委員會備忘錄]]]
+[[/collapsible]]
+@@ @@
+------
+[[size 150%]]
++ **[[user H New Yang]]**
+[[/size]]
+[[collapsible show="H New Yang所協助的翻譯作品一覽" hide="感謝H New Yang"hideLocation="both"]]
+[[[anderson-robotics-hub|安德森機器人]]]
+[[/collapsible]]
+@@ @@
+------
+[[size 150%]]
++ **[[user lpin000031]]**
+[[/size]]
+[[collapsible show="lpin000031所協助的翻譯作品一覽" hide="感謝lpin000031"hideLocation="both"]]
+[[[goc-hub-page|全球超自然聯盟檔案]]]
+[[/collapsible]]
+@@ @@
+------
+[[size 150%]]
++ **[[user PeiWeiArtz]]**
+[[/size]]
+[[collapsible show="PeiWeiArtz所協助的翻譯作品一覽" hide="感謝PeiWeiArtz"hideLocation="both"]]
+[[[scp-701|SCP-701]]] - 受絞之王的悲劇
+[[/collapsible]]
+@@ @@
+------
+[[size 150%]]
++ **[[user Xina Harwood]]**
+[[/size]]
+[[collapsible show="PeiWeiArtz所協助的翻譯作品一覽" hide="感謝PeiWeiArtz"hideLocation="both"]]
+[[[scp-914| SCP-914]]] - 發條裝置
+[[/collapsible]]
+@@ @@
+------
+
+[[/=]]

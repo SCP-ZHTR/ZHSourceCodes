@@ -1,0 +1,161 @@
+[[include info:start]]
+作者：[[*user Rounderhouse]]
+譯者：[[*user vomiter]]
+[[include info:end]]
+
+[[module CSS]]
+@import url('https://fonts.googleapis.com/css?family=Pangolin&display=swap');
+
+:root {
+--logo-image:url("http://smlt.wdfiles.com/local--files/plaguebearer%3Anobody/%3F");
+--header-title: 'NOBODY';
+--header-subtitle: '...';
+}
+
+.classic {
+    display: block;
+    font-family: 'Pangolin', cursive;
+    font-size: 1.3em;
+    background-attachment: scroll;
+    background-clip: border-box;
+    background-color: transparent;
+    background-image: linear-gradient(to top ,rgb(202, 219, 228) 0%, rgb(231, 233, 220) 8%);
+    background-origin: padding-box;
+    background-position: 0px 8px;
+    background-repeat: repeat;
+    background-size: 100% 20px;
+    border: 1px solid #CCC;
+    border-radius: 10px;
+    padding: 10px 10px;
+    margin-bottom: 10px;
+    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.2);
+}
+
+.nobody {
+    width: 70%;
+    margin: 1rem auto;
+    text-align: center;
+    padding: 0.6rem;
+    font-size: 1rem;
+}
+[[/module]]
+[[include theme:black-highlighter-theme]]
+[[include :scp-wiki:component:rso]]
+-----
+[[=image https://scp-wiki.wdfiles.com/local--files/memebodies/ihop.png]]
+----
+失去所有宿主而開始擴大物色新棲身對象的人是不存在的。就在1-65公路旁的一家IHOP鬆餅店裡……
+
+> **不存在的：** 好了，「不存在的船長」。這名字不賴，聽起來很像什麼超級英雄。讓我瞧瞧你有什麼本領。
+> 
+> **不存在的船長：** 喔，夥計，你讀錯了。那張羊皮紙上寫的是不__存錢__的船長。
+> 
+> **不存在的：** 喔，你是——好吧。我需要知道你為什麼不存錢嗎？
+> 
+> **不存在的船長：** 喔，辣真是一個悲傷的故事。我在一場賭局裡把所有錢財都輸給了一個白衣人。現在，讓我來唱一小段水手歌——
+> 
+> **不存在的：** 下一位！
+
+> **不存在的：** 好，下一個不知道是誰⋯⋯「不知道是雪」。來了嗎？
+> 
+> //地板上有一灘冰冷的水。一根還未熄滅的香菸隨興的落在水灘之外。//
+> 
+> **不存在的：** 努力的精神十分值得敬佩，我願稱你為冠軍。
+
+> **不存在的：** 「牛存在的」，過來吧。我很好奇他們是不是也喜歡充滿詩意的大段稱號……那麼，你是不存在的牛仔還是不存在的牛？
+> 
+> **牛存在的：** 兩個都是。碰友，哞人比得上我。
+> 
+> **不存在的：** 這他媽都是什麼。
+
+> **不存在的：** 好了，「不存在的船長」——等一下，我已經面試過你了。
+> 
+> **不存在的船長：** 錯誤，大兵。你心裡想的那個是不存錢的船長。我才是不存在的船長。
+> 
+> **不存在的：** 哦？好，那你是哪種船長？
+> 
+> **不存在的船長：** 服役過的那種，我曾在諾曼地——
+> 
+> **不存在的：** 老天，別又來了。下一位！
+
+> **不存在的：** 那麼，你有任何被遺忘的經驗嗎？
+> 
+> **沒標籤的：** 我2015年的時候在一條世界線系列裡出場過。
+> 
+> **不存在的：** 喔，你是專業的，我懂了。
+
+> **不存在的：** 我甚至看不懂這坨鬼畫符。這還是人寫的嗎？我接下來是會變成動物還是什麼東西嗎？
+> 
+> **爛醉的：** 不是不是，那個，那個是我啦。
+> 
+> //爛醉的人從紙袋裡拿出半瓶酒。//
+> 
+> **不存在的：** 呃……好吧，你是誰？
+> 
+> **爛醉的：** 我是誰不重要。嘿，嘿，你要來點嗎？
+> 
+> //爛醉的把酒瓶遞給不存在的人。不存在的人搖了搖頭。爛醉的人就把剩下的液體一乾而盡。//
+> 
+> **爛醉的：** 你知道嗎……我也曾經，是個，有意義的人。
+> 
+> **不存在的：** 嗯，跟我詳細說說。
+> 
+> **爛醉的：** 現在看看我……我甚至頹廢到想不起來自己的名字！
+> 
+> **不存在的：** ……很顯然。我猜是酒精的影響。
+
+> **不存在的怪獸：** 其他怪獸老是受到一堆關注！什麼哥吉拉，什麼鱷魔烏賊——基金會就只會忽略我們這些小咖。
+> 
+> **不存在的：** 不過嘛，他們有時還是會打算殺了你。
+> 
+> **不存在的怪獸：** 就只因為我是怪獸，這真的太他媽不合理了。我還有繳稅耶，天殺的。
+
+> **不存在的貓女：** 我其實曾經是黑兔公司的一員，但我們偷了團結號之後每個人都忘了我。
+> 
+> **不存在的：** 別在意，每個人讀過之後都會忘了他們。
+
+> **布萊恩：** 你好，我的名字是布萊恩……
+> 
+> **不存在的：** 等等，你還有名字？
+> 
+> **布萊恩：** ……我是一個酗酒者。
+> 
+> **不存在的：** 喔。這裡不是那種匿名會議，朋友。__酗酒者__匿名會在隔壁。
+> 
+> **布萊恩：** 該死的又來了。
+
+> **不存在的：** 我應該講得夠清楚，不要再有基金會的來了。
+> 
+> **█████博士：** 喔拜託。反正又不會有人知道我的名字。
+
+> **不存在的：** 我有種非常奇怪的感覺，我們好像以前就認識了。
+> 
+> **評論家：** 對，我們都一樣……
+
+> **不存在的：** 那麼，你走進來這裡，也不打一聲招呼，就只是坐在椅子上然後盯著我看？那雙眼睛對大部分的人來說可能會有用，但你不會從我這裡得到那樣的關注。這次的訪談已經夠可悲了。你有什麼要為自己辯護的？
+> 
+> //狗吠。//
+> 
+> **不存在的：** 他媽的給我滾。
+-----
+[[div class="classic nobody"]]
+[[collapsible show="不在場者" hide="身穿白衣"]]
+[[span style="font-size: 120%; text-decoration: underline;"]][[[the-man-in-the-white-suit-hub|Hub]]][[/span]]
+[[[hello my name isnt|Hello, My Name Isn't]]]
+[[[Chiaroscuro]]]
+[[[nobodyx4|Nobody, Nobody, Nobody, and Nobody's Encounters
+with The Man in the White Suit]]]
+[[[SCP-5353|SCP-5353 -- Does Anyone Remember Fritz Obermeyer?]]]
+[[[everyday-is-somebodys-birthday | Everyday Is Somebody's Birthday]]]
+[[[SCP-5877|SCP-5877 -- Nobodies]]]
+[[[Ghosts in the Machine]]]
+[[[intercepts | Files intercepted from Anderson Systems personnel]]]
+[[[SCP-5375|SCP-5375 -- Nobody and the Name Machine]]]
+
+結語
+[[[Nobody in their Right Mind]]]
+
+特別收錄
+→ [[[memebodies|不存在的人監察不存在的落選紀錄]]] ←
+[[/collapsible]]
+[[/div]]

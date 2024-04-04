@@ -1,0 +1,75 @@
+[[include :scp-zh-tr:component:toggle-sidebar]]
+[[include :scp-zh-tr:theme:penumbra]]
+[[include :scp-zh-tr:component:betterfootnotes]]
+
+[[div_ style="display:none"]]
+[[embed]]
+<iframe src="http://scp-wiki-cn.wdfiles.com/local--files/nav%3Aside/styleFrame.html?%3Aroot%7B--accentColor%3A%23ff5512%3B%7D" name="customStyleFrame"></iframe>
+[[/embed]]
+[[/div]]
+
+[[module css]]
+:root {
+  --accentColor: #bc8f8f;
+  --header-title: "職位交換";
+  --header-subtitle: "如果在那個時候做出了不同的選擇，一切還如同今天這樣嗎？";
+  --lgurl: url("https://scp-wiki.wdfiles.com/local--files/component%3Acentered-header-sigma-9/logo.svg");
+}
+
+# page-title { display: none; }
+
+.outer-chat {background: var(--accentColor); padding: 1px 15px; margin: 10px; border-radius: 30px 15px}
+
+.inner-chat {background: #21252E; padding: 1px 15px; border: solid 3px #2F333C; margin: 10px; border-radius: 30px 15px}
+
+.leonidas {width: 8.359em}
+
+ @media only screen and (max-width: 425px){ .leonidas{ width: 6.27em} }
+
+ .footing::before{ /* ---- Article Footing ---- */
+     content: " ";
+     position: absolute;
+     bottom: 1px;
+     left: 0;
+     right: 0;
+ 
+     border-bottom: 2px solid hsl(0, 0%, 67%);
+}
+ .footing{
+     position: relative;
+     bottom: -2px;
+     margin-bottom: 2px;
+ 
+     border-bottom: 1px solid hsl(0, 0%, 67%);
+}
+[[/module]]
+[[>]]
+[[module rate]]
+[[/>]]
+[[include :scp-zh-tr:component:author-label-source start=--
+|name= Semibreve
+|no-right-margin=*]]
+[[div style="color:black;text-shadow:none"]]
+##white|**標題：**「給我一束鮮花吧。」##
+##white|**作者：**[[*user Semibreve]]##
+
+##white|聲明([https://twitter.com/tsukuba_0623?s=20 筑波]):
+我授權給我朋友Semibreve使用我所繪製的https://twitter.com/tsukuba_0623/status/1477163306003894273?s=20
+作為人物圖像使用，本圖以https://creativecommons.org/licenses/by-sa/3.0/tw/deed.zh_TW
+授權使用，姓名標示，與相同方式分享。##
+[[/div]]
+[[include :scp-zh-tr:component:author-label-source end=--]]
+[[=]]
+[[image https://i.imgur.com/IBeSjbs.png height="450px"]]
+[[/=]]
+[[collapsible show="我記得最後她這麼說著。"hide="「給我一束鮮花吧。」"]]
+[[=]]
+[[image https://i.imgur.com/eqwkbDH.png height="450px"]]
+[[/=]]
+[[=]]
+[[image https://i.imgur.com/vmMERB7.jpg[ height="450px"]]
+[[/=]]
+[[=]]
+[[image https://i.imgur.com/WLhqVLA.jpg height="450px"]]
+[[/=]]
+[[/collapsible]]

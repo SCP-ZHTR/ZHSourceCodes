@@ -1,0 +1,44 @@
+[[include component:scp-meta-title-hiding css-style=bhl]]
+
+[[module CSS]]
+
+  .footnoteref{ font-variant: unset; }
+
+[[/module]]
+
+
+
+[[include :scp-zh-tr:theme:black-highlighter-theme]]
+
+[[include :scp-wiki:component:collapsible-sidebar]]
+
+[[include info:start]]
+篇名：SCP- -ID-J - 懶得取標題
+原文：http://scp-idn.wikidot.com/scp-j-id
+作者：[[*user EastIndies]]
+翻譯：[[*user la kanro]]
+[[include info:end]]
+[[>]]
+
+[[div style="margin-right: 2em; margin-top: -20px;"]]
+
+^^由[http://scp-idn.wikidot.com/indie-library EastIndies]創作^^
+
+[[/div]]
+[[/>]]
+
+**項目編號：**scp- -j-id
+
+**項目等級：**不知道
+
+**特殊收容措施：**只要讓它呆在房間，它就不會逃跑。沒必要受累看著它。如果跑了，就聯繫值班的mtf，繼續睡就是了。
+
+**描述：**我懶得去寫，還不如躺著。即使我寫了也沒人在意，人們懶得去讀。這scp很強，但很安全，它的工作只是躺著，就隨他去吧。
+
+[[footnoteblock]]
+
+[[include :scp-zh-tr:component:license-box
+|author=EastIndies
+|lang=ID]]
+=====
+[[include :scp-zh-tr:component:license-box-end]]

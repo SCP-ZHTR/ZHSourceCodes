@@ -1,0 +1,523 @@
+[[include component:scp-meta-title-hiding css-style=classic]]
+[[include info:start]]
+原文：[https://scp-wiki.wikidot.com/scp-7855 SCP-7855] 伯哈特煮了⠀⠀⠀⠀⠀⠀
+作者：[[*user DodoDevil]]
+譯者：[[*user Frederica Bernkastel]]
+[[include info:end]]
+
+[[include theme:black-highlighter-theme]]
+[[include :scptestwiki:undervegas]]
+[[include :scp-zh-tr:component:rso]]
+[[module CSS]]
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,900;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Shade&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Staatliches&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+:root:lang(zh){
+    --logo-image: url("http://scpdsandbox.wdfiles.com/local--files/site-333/At3.png");
+    --header-title: "SITE-333";
+    --header-subtitle: "天上人間";
+    --header-font: 'Playfair Display', serif;
+    --title-font: 'Playfair Display', serif;
+    --body-font: 'Telex', sans-serif;
+    --bright-accent: 0, 109, 255;
+    --medium-accent: 0, 63, 197;
+    --dark-accent: 0, 22, 142;
+
+    --link-color: var(--medium-accent);
+}
+
+#extra-div-1 {
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 10rem;
+    background-image: url("http://scpdsandbox.wdfiles.com/local--files/site-333/PanoRam2.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: repeat-x;
+    pointer-events: none;
+}
+
+#extra-div-2 {
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 10rem;
+    background: linear-gradient(0deg, rgba(0, 109, 255,1) 35%, rgba(204, 226, 255) 97%);
+    pointer-events: none;
+    opacity: 0.40;
+}
+
+#extra-div-3 {
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 10rem;
+    background-image: url("http://scptestwiki.wdfiles.com/local--files/undervegas/dicegold.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: repeat-x;
+    pointer-events: none;
+    opacity: 0.65;
+
+}
+
+/* *** DIVS *** */
+.addendum {
+    border:solid 2px rgb(var(--bright-accent));
+    background:#F5F5F5;
+    width:84%;
+    padding:1px 15px;
+    margin: 10px auto;
+}
+
+.label {
+    background: rgb(var(--bright-accent));
+    color: white;
+    padding: 3px;
+    border-radius: 4px;
+    font-family: monospace;
+    white-space: nowrap;
+}
+
+.doc {
+    background-color: rgb(var(--bright-accent));
+    color: white;
+    font-family: var(--mono-font);
+    padding: 0 1.5rem;
+    font-size: 1.1em;
+    width: fit-content;
+    position: relative;
+    top: -2em;
+    border-radius: 4px;
+    margin-bottom: -3rem;
+}
+
+.addendum {margin-top: 1.6rem;}
+
+.angled {clip-path: polygon(4% 0%, 100% 0%, 96% 100%, 0% 100%); border-radius: 5px;}
+
+.foundation {
+    border:solid 3px #444;
+    background: #f2f2c2 url('https://scp-wiki.wdfiles.com/local--files/theme%3Aredtape/scp_trans.png') center center no-repeat;
+    padding: 1.5rem;
+    margin-bottom: 10px;
+    color: black;
+}
+.foundation p {
+    margin: none;
+}
+
+.foundation.snow {
+    background: #fff url('https://scp-wiki.wdfiles.com/local--files/theme%3Aredtape/scp_trans.png') center center no-repeat;
+}
+
+.foundation.raisa {
+    background: #f2f2c2 url('https://scp-wiki.wdfiles.com/local--files/theme%3Aredtape/raisa_trans.png') center center no-repeat;
+    background-size: 29rem;
+    text-align: center;
+}
+.foundation.alt {
+    background: #fff url('https://scp-wiki.wdfiles.com/local--files/theme%3Ai57/scp-logo-i57.png') center center no-repeat;
+}
+
+.generic {
+   position: relative;
+   margin: 0.5em 1.25rem;
+   padding: 0.825em 1.25em;
+   clear: both;
+   clip-path: polygon(93% 0px, 100% 15.11%, 100% 100%, 0px 100%, 0px 0px);
+   border-left: 4px solid gray;
+}
+.generic hr {background: gray; border: none;}
+.generic h1, .generic h2, .generic h3, .generic h4, .generic h5, .generic h6 {color: #515050;}
+.generic.red {background: #ff4a4a3d;}
+.generic.blue {background: #4a80ff3d;}
+.generic.yellow {background: #fff77f3d;}
+.generic.purple {background: #a561d536;}
+.generic.green {background: #CDE5DD;}
+
+
+#header::before {
+    left: 0.5rem;
+    background-position: center -0.5rem;
+    opacity: 1;
+}
+
+#header h1, #header h2 {
+    margin: 1.7rem 0;
+}
+
+}
+.table2 {
+    --accentColor: rgb(40, 135, 189);
+}
+.custom2 .wiki-content-table {
+    width: 100%;
+}
+[[/module]]
+
+@@ @@
+@@ @@
+[[=]]
++ 伯哈特煮了 ⠀⠀⠀⠀⠀⠀
+-----
+[[/=]]
+@@ @@
+@@ @@
+[[div class="foundation snow"]]
+[[=]]
++ ##red|！__SITE-333緊急通知__！##
+++ 收容突破警報：SCP-7855
+{{**日期：** 23/12/22}}
+-----
+**所有接獲本通知之SITE-333職員，應盡速前往站點會議室參與緊急情況通報會議**
+
+{{未出席簡報可能導致缺乏足夠知識有效應對發生中的收容失效，並對個人身體、精神、財產造成嚴重影響，包括但不限於：混亂、身體傷害、經濟損失、身分喪失、視力喪失、膽固醇升高、視力恢復、相關罰款、形上學層面消失、噁心、頭痛、消化不良、胃部不適等。}}
+[[/=]]
+[[/div]]
+@@ @@
+-----
+@@ @@
+[[div class="foundation snow"]]
+[[=]]
++++ [*http://scp-zh-tr.wikidot.com/secure-facility-dossier-site-333 SITE-333] 監視錄影器
+{{警告：攝影機電量偏低。}}
+[[/=]]
+-----
+= **__影像日期：2023/12/22__**
+= **時間：下午5:48**
+-----
+//[東尼．卡塔拉諾、萊昂諾拉．莫拉雷斯、諾亞．帕特爾分別坐在Site-333會議室的三張椅子上，這是該會議室為數不多的幾張完好無損的椅子。三人圍著桌子中央的潘趣酒碗聊天，碗裡盛著某種鮮奶油色的液體。室內裝飾著一系列粗製濫造的聖誕裝飾品：模糊的雪花狀紙鏈，剪裁成金銀箔樣子的扭曲懸掛包裝紙條，還有頂著聖誕老人帽的小仙人掌。東尼正在把碗裡的飲品舀進杯子裡，杯身寫著「--我喝完咖啡前--別跟我說話！」]//
+
+**東尼．卡塔拉諾：** 有人在過來的路上看見文森特嗎？到底是怎樣？
+
+**萊昂諾拉．莫拉雷斯：** 不確定，但我路過廚房時裡面飄出東西燒焦的味道。這很重要，我剛剛窩在家裡觀看海鸚遷徙到棲息地。那些海鸚被妖精暴君麥布女王詛咒，必須要以死者之聲唱歌。如果我們無論如何都要被叫來，那麼休假表單還有什麼意義呢？
+
+**東尼．卡塔拉諾：** 這讓文森特感到自己很強大。
+
+**萊昂諾拉．莫拉雷斯：** 他最好快點，那些海鸚可是曙暮生物。
+
+**諾亞．帕特爾：** 噢。
+
+**萊昂諾拉．莫拉雷斯：** 不是你想的那個意思。澤西惡魔之爭怎麼樣了？
+
+**諾亞．帕特爾：** 很順利。我們舉辦了圓桌會議介紹調查結果，然後舉行了一年一度的惡魔狩獵。當我離開時還有整整五個人之多。但澤西魔鬼並沒有出現。
+
+**東尼．卡塔拉諾：** 那你們做了什麼？
+
+**諾亞．帕特爾：** 我們張貼了傳單。澤西惡魔位於澤西島才因而得名，對嗎？所以最後一定會見到他們的。不過我想它可能無法閱讀英文。或許我們應該提前考慮到這點的。
+
+**萊昂諾拉．莫拉雷斯：** 諾亞，你到底在幹嘛啊？
+
+**諾亞．帕特爾：** 哦，各種各樣的事。東尼，今天如何？
+
+**東尼．卡塔拉諾：** 還行吧，睡了個懶覺，吃了早午餐，然後就接到了來自內部的電話──
+
+//[文森特．伯哈特嘴裡叼著拐杖糖走進房間。看到聚集的人群，伯哈特不經意地向吸了口糖，導致拐杖糖更加深入並堵住自己的氣管。伯哈特迅速咳嗽了一聲，將拐杖糖扔到了會議桌上。]]//
+
+**文森特．伯哈特：** 你們來這幹嘛啊？
+
+**東尼．卡塔拉諾：** 是你叫我們來的。那個緊急警報？我們都在等你。
+
+**文森特．伯哈特：** 喔，耶。全部都已經處理好了。虛驚一場罷了。大家都幹得漂亮，應對時間非常迅速，之類之類的。
+
+**萊昂諾拉．莫拉雷斯：** 什麼，蛤？！文森特，我的實地考察已經計畫了好幾個月了耶！
+
+**文森特．伯哈特：** 我會給你們的績效評估多給一顆金色星星。
+
+**東尼．卡塔拉諾：** 所以我在尖峰時段塞了一小時的車──這可是我們少數可以離站的假期──就為了這種事情？文森特，我為此錯過了與姻親共進晚餐的機會！
+
+**文森特．伯哈特：** 嘿，要怪就怪大西洋城吧，不然怪安裝警報器的電工也行。我知道舊系統挺不賴的。知道我們營運預算多少錢嗎？
+
+**東尼．卡塔拉諾：** 是啊。預算是我在做的。 無論如何，我可沒抱怨。他們威脅說要帶火腿跟火雞肉餅來，就像在同個紀錄裡一樣。實話實說，我會為來此齊聚一堂乾杯。
+
+//[東尼喝了一口杯中物，然後將黏稠的液體咳了出來。]//
+
+**東尼．卡塔拉諾：** 罵罵號的嬰兒耶穌基督啊，這他媽三小？
+
+**文森特．伯哈特：** 蛋酒。
+
+**文森特．伯哈特：** 不過主成分是朗姆酒。蛋酒過期了，是用來提味的。
+
+//[東尼．卡塔拉諾捏住鼻子又喝了一口。諾亞．帕特爾也盛了些液體舀入玻璃杯中。]//
+
+**文森特．伯哈特：** 我沒有很在乎啦但是，諾亞你可以喝這個嗎？你21歲了？
+
+**諾亞．帕特爾：** 我32了。
+
+**文森特．伯哈特：** 啊，認真？
+
+**諾亞．帕特爾：** 上個月我的生日派對邀請函上就有寫了。我有給你一張。你說你不能來，因為那個週末你有重要的事情，然後要我提醒你是哪個週末有那件重要的事情。
+
+**東尼．卡塔拉諾：** 等等，文森特，你來這幹嘛啊？
+
+**文森特．伯哈特：** 我的烤箱壞了，所以我來這裡做晚餐。
+
+**萊昂諾拉．莫拉雷斯：** //[萊昂諾拉向紙鏈條打了個手勢]// 這些裝飾呢？這些東西本來不在這的，文森特。
+
+**文森特．伯哈特：** //[聳肩]// 讓實習生不要閒下來。這就是那種要他們在海灘上挖洞之類的活。
+
+**諾亞．帕特爾：** 哦，這讓我想起來了。我在那找到了你要我找的那塊錶。
+
+**萊昂諾拉．莫拉雷斯：** 所以這並不是什麼精心策劃的策略，就是以收容突破為幌子，引誘我們所有人來這──我確信這違反了幾項基金會守則──看你們搞出來的，像是幼稚園老師裝飾房間裡頭的鬼東西？
+
+**文森特．伯哈特：** 你們覺得我願意花更多時間跟你們在一塊？
+
+**東尼．卡塔拉諾：** 好喔，我們來都來了，我自己是不打算離開啦。文森特，你要煮啥？
+
+//[文森特．伯哈特茫然地盯著三人數秒。]//
+
+**諾亞．帕特爾：** 你還好嗎，長官？
+
+**文森特．伯哈特：** 我......我，呃。我不知道。
+
+**東尼．卡塔拉諾：** 你正在跟我們講食物的事情，然後你就突然發呆了一會兒。你要煮啥？
+
+**文森特．伯哈特：** 我不知道。
+
+**東尼．卡塔拉諾：** 你不知道是什麼意思？
+
+**文森特．伯哈特：** 我知道我正在煮……某個東西。但我不記得是什麼了。
+
+**萊昂諾拉．莫拉雷斯：** 他可能只是吸入了烤箱裡面那些之前烤的糊狀物煙霧。 我們確實需要著手清理那坨東西了。
+
+**東尼．卡塔拉諾：** 它會自我清潔吧，不是嗎？諾亞，在文森特用煮過度火腿之類的東西讓站點化為火海前去看一下。
+
+//文森特入座，諾亞離開房間，在諾亞回來前眾人閒聊了一分鐘。//
+
+**萊昂諾拉．莫拉雷斯：** 那麼，晚餐吃啥？
+
+**諾亞．帕特爾：** 我，我不記得......
+[[/div]]
+@@ @@
+@@ @@
+[[include :scp-zh-tr:component:anomaly-class-bar-source
+|item-number= 7855
+|clearance= 2
+|container-class= unknown
+|secondary-class= none
+|secondary-icon= https://urlhere.com
+|disruption-class= vlam
+|risk-class= warning
+]]
+[[include :scp-wiki:component:customizable-acs
+|containment-class= unknown
+|containment-image= https://scp-wiki.wdfiles.com/local--files/zackvmk-s-acs-icon-page/Unknown.svg
+|containment-color= Containment class color, in RGB code
+|inc-containment = --]]]
+-----
+**特殊烹煮措施：** 餐點應在五十（50）公分 x 五十（50）公分 x 二十五（25）公分的傳統烤箱中，並於華氏四百二十五（425）度下保存達四（4）小時。餐點可透過一扇稍微卡住的門訪問，這扇門只有在你先向「上」拉、「然後」向外推才會真正開啟。站點人員**不得**在烤箱打開時使用攪拌機、烤麵包機、咖啡機，以免再度將保險絲燒斷。 另外，建議所有在附近準備或享用食物的人員應與烤箱保持良好距離，因為其周圍散發的熱量較高。
+
+**描述：** SCP-7855目前正由Site-333主任文森特．伯哈特於員工餐廳內烹煮。根據上述人士的對話，以及其他辨識烤箱內為何物的嘗試均未得出明確答案。當不直接準備或烹煮SCP-7855時，任何職員都無法回憶起SCP-7855相關的任何細節。具體而言：
+* 文森特．伯哈特最初獲得SCP-7855的方法：未知。
+* 烹煮時間、溫度及使用方法背後的原因：未知。
+* SCP-7855的實體外觀、質地、風味特徵、適配葡萄酒：未知。
+* SCP-7855附近顯著燒焦味是由該實體或烤箱本身造成：未知。
+* 文森特．伯哈特選擇在公共員工餐廳烹調他那//不知道三小碗糕的//SCP-7855的原因：已知──他是個短視近利的王八蛋。
+
+儘管無法描述烹煮SCP-7855的感官體驗，但Site-333職員一致認為這種體驗「令他們感到飢餓」。當烹煮SCP-7855時，人員會開始準備非異常食物供集體食用。
+
+過了一段時間後，文森特．伯哈特認定「似乎是正確的」。SCP-7855被從烤箱中取出。推測這似乎導致了Site-333廚房水槽內留下了未清洗的烤盤。
+
+@@ @@
+@@ @@
+[[div class="foundation snow"]]
+[[=]]
++++ [*http://scp-zh-tr.wikidot.com/secure-facility-dossier-site-333 SITE-333]監控攝影機
+{{警告：攝影機電量偏低。}}
+[[/=]]
+-----
+= **__影像日期：22/12/2023__**
+= **時間：下午8:19**
+-----
+//眾人圍坐在Site-333的會議桌旁，室外的雪還在下著。吃了一半的可識別普通食物散落在桌面。椅子上可以看到一些新生的酒漬。//
+
+**文森特．伯哈特：** 所以我就從二十一點牌桌後試著發牌，山羊則試圖從我口袋裡咬出我藏的成疊百元美鈔。然後那個王八呎蛋吋的[*http://scp-zh-tr.wikidot.com/scp-7666 憤怒惡魔]怒視著我，我對他說「好吧，我聽說他們在自助餐上準備了一條烤羊腿，所以你肯定是錯過獻祭了。」
+
+**東尼．卡塔拉諾：** 結果呢？
+
+**文森特．伯哈特：** 費拉非常生氣，他擊中了19。桌子裂成了兩半。當他去追他的毛茸茸朋友時，我抄起洋芋片從後門高歌離席。
+
+**諾亞．帕特爾：** 這就是你從[*http://scp-zh-tr.wikidot.com/undervegas-hub Site-666]調走的原因嗎？
+
+**文森特．伯哈特：** 不，那是個完全不同的故事。你呢，萊昂諾拉？ 每年的這個時節，有過什麼難忘的假期嗎？
+
+**萊昂諾拉．莫拉雷斯：** 我曾在法羅群島度過聖誕節，在一個單人小型帳篷裡吃冷豆子罐，同時採集鳥糞樣本檢查是否存在異常寄生蟲。
+
+**東尼．卡塔拉諾：** 天啊，好吧，最糟聖誕獎歸你了。
+
+**萊昂諾拉．莫拉雷斯：** 那是我最喜歡的聖誕回憶耶。
+
+**東尼．卡塔拉諾：** 真正的商業假日特惠就在那裡。
+
+**萊昂諾拉．莫拉雷斯：** （笑）好咧，最喜歡的聖誕電影，說吧。
+
+**東尼．卡塔拉諾 & 文森特．伯哈特：** 終──
+
+**萊昂諾拉．莫拉雷斯：** 不准講《終極警探》！
+
+**文森特．伯哈特：** 《終極警探三》
+
+**東尼．卡塔拉諾：** 那實際上不能算是聖誕電影，故事發生在夏天耶。
+
+**文森特．伯哈特：** 你一定在唬我。好吧，《瘋狂聖誕假期》。那讓我想到了成長。
+
+**萊昂諾拉．莫拉雷斯：** 是指看電影還是當中的事件？
+
+**文森特．伯哈特：** 兩者皆是。你呢，諾亞？
+
+**諾亞．帕特爾：** 《鬼靈精》。媒體上很少能看到描述這麼準確的未確認生物了。
+
+**東尼．卡塔拉諾：** 那不是──
+
+**文森特．伯哈特：** 喔，隨他去吧。現在正好是它的時節。
+
+**萊昂諾拉．莫拉雷斯：** 還有，呃。我們對剛剛吃的「它」有何感覺？
+
+//眾人看向會議桌中央洗淨的空餐盤，周圍擺放著一排較小的餐具。//
+
+**東尼．卡塔拉諾：** 我得說還不錯耶。 至少不比我今晚吃的聖誕肉餅差。
+
+**諾亞．帕特爾：** 你會怎麼形容它的口感？我記不得了。是……海綿的？軟骨的？
+
+**萊昂諾拉．莫拉雷斯：** 我想兩者皆是？肉汁確實幫了大忙。蔓越莓醬也是。我想我吃的應該算是湯吧？
+
+**文森特．伯哈特：** 噢，我在咀嚼一些東西我知道的東西。等等啊。
+
+**諾亞．帕特爾：** 耶？
+
+**文森特．伯哈特：** 我有點，哇。
+
+**東尼．卡塔拉諾：** 那是什麼，文森特？
+
+**文森特．伯哈特：** 我想我認得那個味道。就一點點。
+
+**萊昂諾拉．莫拉雷斯：** 好吧，那就繼續吧。你煮了東西，而感覺好像還不錯。你還記得啥？
+
+**文森特．伯哈特：** 嘗起來好像是[[span style="filter: blur(4px);"]]雞肉味。[[/span]]
+[[/div]]
+
+@@ @@
+@@ @@
+-----
+[[include component:image-block name=https://scp-wiki.wdfiles.com/local--files/scp-7855/Tree_1.jpg|width=100%|align=center|caption=Site-333聖誕樹，員工休息室。]]
+-----
+@@ @@
+@@ @@
+
+[[div class="blockquote table4 tableb"]]
+[[table class="wiki-content-table" style="width: 100%"]]
+[[row]]
+[[hcell]]
+**__{{Site-333 -- 跨部門文字通訊紀錄}}__**
+{{2023/12/25 -- 上午11:33（EDT）}}
+[[/hcell]]
+[[/row]]
+[[row]]
+[[cell]]
+* ##blue|**文森特．伯哈特**##，主任；
+* ##red|**東尼．卡塔拉諾**##，會計兼旅遊人員；
+* ##green|**萊昂諾拉．莫拉雷斯**##，野生動物專員；
+* ##orange|**諾亞．帕特爾**##，神秘動物學家兼博物館館長。
+[[/cell]]
+[[/row]]
+[[row]]
+[[hcell]]
+[[/hcell]]
+[[/row]]
+[[row]]
+[[cell]]
+##red|**東尼．卡塔拉諾：**## 佳節愉快，各位！
+
+##orange|**諾亞．帕特爾：**## 聖誕快樂！
+
+##green|**萊昂諾拉．莫拉雷斯：**## 再次感謝你做的餐點，文森特。
+
+##blue|**文森特．伯哈特：**## 別指望我養成這種好習慣。
+
+##red|**東尼．卡塔拉諾：**## 雖然寫這篇文章的感覺有夠怪，但我其實……玩的挺開心的？
+
+##green|**萊昂諾拉．莫拉雷斯：**## 耶，我也是，我想我們可以不用為了濫用基金會緊急違規管道告你一狀，文森特。畢竟是假期嘛。
+
+##blue|**文森特．伯哈特：**## 我不讚賞這種誹謗的行為。
+
+##green|**萊昂諾拉．莫拉雷斯：**## 寫了誹謗，那就是誹謗。我正在將語音轉錄為文字。
+
+##blue|**文森特．伯哈特：**## 你可能會因為不服從命令收到紀律報告。
+
+##red|**東尼．卡塔拉諾：**## 這才是我們認識的那個小氣鬼嘛。
+
+##orange|**諾亞．帕特爾：**## 最近幾天你們有沒有覺得哪裡不太舒服？我有，我想知道這是否與我們吃的東西有關。
+
+##red|**東尼．卡塔拉諾：**## 好像是有點脹脹的。
+
+##green|**萊昂諾拉．莫拉雷斯：**## 我們是吃了什麼啊？
+
+##blue|**文森特．伯哈特：**## 哦耶，我知道究竟是發生什麼事了。
+
+##green|**萊昂諾拉．莫拉雷斯：**## 你現在才要告訴我們？
+
+##orange|**諾亞．帕特爾：**## 我猜對了嗎，那是火雞？
+
+##blue|**文森特．伯哈特：**## 天然氣洩漏。
+
+##red|**東尼．卡塔拉諾：**## 蛤？
+
+##blue|**文森特．伯哈特：**## 嚴重天然氣洩漏。可以破紀錄那種，烤箱把天然氣大放送的灌進了站點內。
+
+##red|**東尼．卡塔拉諾：**## 剛出生一天的基督啊。認真的嗎？
+
+##blue|**文森特．伯哈特：**## 我才講一半呢。事實證明，站點的所有東西：烤箱、鍋爐、暖爐、熱水浴缸、所有生熱的東西，都是由燃燒的下水道氣體提供動力的。我們與自稱[*http://scp-zh-tr.wikidot.com/scp-7715 水管工]的組織達成了協議，這為我們節省了大量暖氣費用。
+
+##blue|**文森特．伯哈特：**## 這不是天然氣，而是//天然//氣，很可能已經洩漏好幾週了。全站點就像煙囪裡的乾燥聖誕樹一樣。
+
+##green|**萊昂諾拉．莫拉雷斯：**## 感謝上帝讓我們在諾亞點著自己時，沒讓他連布丁也一起燒了。
+
+##red|**東尼．卡塔拉諾：**## 又或者感謝沒讓那該死的[*http://scp-zh-tr.wikidot.com/scp-8472-ex 大老鼠燒毀一切]。
+
+##blue|**文森特．伯哈特：**## 是的，無論如何，這就是這坨破事的成因了。
+
+##green|**萊昂諾拉．莫拉雷斯：**## 那我們是怎麼走到這步的呢？
+
+##blue|**文森特．伯哈特：**## 哦。肯定是實習生觸發突破警報時，也把一氧化碳偵測器之類的東西給弄壞了吧。
+
+##red|**東尼．卡塔拉諾：**## 這一點道理也沒有。
+
+##blue|**文森特．伯哈特：**## 生活本來就充滿了謎團。無論如何，他們需要一些時間把烤箱修好，並將所有天然氣從老建築裡抽出來。
+
+##blue|**文森特．伯哈特：**## 所以我想你們將能多享受一週的假期。佳節愉快。至於我嘛...
+-----
+= {{##blue|**文森特．伯哈特：**## 離開了辦公室 回覆：**前往維加斯的路上。新的一年再見。**}}
+[[/cell]]
+[[/row]]
+[[row]]
+[[hcell]]
+[[/hcell]]
+[[/row]]
+[[/table]]
+[[/div]]
+
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+[[include :scp-zh-tr:component:license-box
+|author=DodoDevil
+]]
+=====
+> **Filename:** Tree_1.jpg
+> **Name:** broken christmastree
+> **Author:** Produnis
+> **License:**  CC BY-SA 4.0
+> **Link:** https://commons.m.wikimedia.org/wiki/File:Broken_christmastree.jpg
+=====
+[[include :scp-zh-tr:component:license-box-end]]

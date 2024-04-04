@@ -1,0 +1,344 @@
+[[div class="content-panel centered standalone has-responsive-column-list"]]
+[[span style="font-size: 100%; line-height: 1.3em;"]]
+
+[[span style="font-size: 120%; line-height: 1.3em;"]]**SCP-6000競賽的發布時段已經結束！感謝為了參賽者評閱草稿的優秀社群成員：**[[/span]]
+
+[[module CSS]]
+/* Make columns of staff members be in columns that are determined by page width */
+.has-responsive-column-list ul {
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: 1.5rem;
+}
+.has-responsive-column-list li {
+  display: block;
+  min-width: 10rem;
+  width: 25%;
+}
+[[/module]]
+
+* [[user 4ducklings]]
+* [[user A Random Day]]
+* [[user aetheris]]
+* [[user agisuru]]
+* [[user aismallard]]
+* [[user ambyshframber]]
+* [[user AmserTheTree]]
+* [[user AnActualCrow]]
+* [[user AnAnomalousWriter]]
+* [[user Atish Victor]]
+* [[user athenodora]]
+* [[user AyyJayy]]
+* [[user Azamo]]
+* [[user basirskipreader]]
+* [[user BlueJones]]
+* [[user Calibri Bold]]
+* [[user Captain Kirby]]
+* [[user Captain Sharp]]
+* [[user caspian2]]
+* [[user CelesteKara]]
+* [[user cerastes]]
+* [[user ChaoSera]]
+* [[user chaucer345]]
+* [[user chiifu]]
+* [[user Chymerical]]
+* [[user CityToast]]
+* [[user cold_nights]]
+* [[user Croquembouche]]
+* [[user cybersqyd]]
+* [[user Cydhra]]
+* [[user cyvstvi13]]
+* [[user Deadly Bread]]
+* [[user Dexanote]]
+* [[user djkaktus]]
+* [[user Doctor Fullham]]
+* [[user DodoDevil]]
+* [[user DornKoon]]
+* [[user Dr Balthazaar]]
+* [[user Dr Jekill]]
+* [[user Dr Leonerd]]
+* [[user Dr Lerche]]
+* [[user drblackbox]]
+* [[user DrBleep]]
+* [[user DrGolden]]
+* [[user DrGooday]]
+* [[user Dysadron]]
+* [[user eastindies]]
+* [[user EclipsedShadowK]]
+* [[user Ekronak]]
+* [[user elogee fishtruck]]
+* [[user EstrellaYoshte]]
+* [[user fabledtiefling]]
+* [[user FairyDoctor]]
+* [[user Felixou]]
+* [[user fireknight]]
+* [[user flagsam]]
+* [[user fluffydog00]]
+* [[user foxpen]]
+* [[user fwUntidy]]
+* [[user galeel]]
+* [[user Gekkoguy]]
+* [[user GremlinGroup]]
+* [[user Grigori Karpin]]
+* [[user Harriet Farrar]]
+* [[user HarryBlank]]
+* [[user iconographic]]
+* [[user ihp]]
+* [[user ILARS]]
+* [[user ItsDenali]]
+* [[user J Dune]]
+* [[user JAcerStriker]]
+* [[user Jacob Conwell]]
+* [[user JayKillbam]]
+* [[user joreth]]
+* [[user JuiceNotJava]]
+* [[user k9898]]
+* [[user kensing]]
+* [[user Lazar Lyusternik]]
+* [[user LilyFlower]]
+* [[user Limeyy]]
+* [[user Lord_of_Laugh]]
+* [[user lurkd]]
+* [[user LuSoloLu]]
+* [[user magna2s]]
+* [[user MalyceGraves]]
+* [[user ManyMeats]]
+* [[user Marcelles Raynes]]
+* [[user margssentif]]
+* [[user McGus]]
+* [[user Mew-ltiverse]]
+* [[user modulum]]
+* [[user Mooagain]]
+* [[user Nagiros]]
+* [[user Naomi Null]]
+* [[user NKUltra]]
+* [[user nldz]]
+* [[user nuclearpotatoes]]
+* [[user Oboebandgeek99]]
+* [[user OCuin]]
+* [[user ohohih]]
+* [[user parad00xx]]
+* [[user pastarasta1]]
+* [[user PeacefulMauve]]
+* [[user Pedagon]]
+* [[user Penguin6]]
+* [[user penguinpyro]]
+* [[user Phantom8]]
+* [[user phiiota]]
+* [[user PhStr1228]]
+* [[user Placeholder McD]]
+* [[user PlaguePJP]]
+* [[user plaidypus]]
+* [[user pr0m37h3um]]
+* [[user Professor Puffer]]
+* [[user quickestsilver]]
+* [[user r4_ex]]
+* [[user Ralliston]]
+* [[user Re_spectators]]
+* [[user REDESERT]]
+* [[user redredred]]
+* [[user reecepedia]]
+* [[user Rex Atlas]]
+* [[user riemann]]
+* [[user Rigen]]
+* [[user Rose the Changeling]]
+* [[user Rounderhouse]]
+* [[user S D Locke]]
+* [[user sciencekiller]]
+* [[user sherf]]
+* [[user Sidewindered]]
+* [[user SinfulSorrow]]
+* [[user Sirslash47]]
+* [[user Smaugnolia]]
+* [[user Sonderance]]
+* [[user sterbai]]
+* [[user stormbreath]]
+* [[user stormfallen]]
+* [[user Strange_matter]]
+* [[user supremeyeet]]
+* [[user SynthPanda_]]
+* [[user T_Rutherford]]
+* [[user tarotwarden]]
+* [[user tawnyowljones]]
+* [[user tenth lee]]
+* [[user TheAlienBaby]]
+* [[user thefourthlick]]
+* [[user thehudbud]]
+* [[user TheMightyMcB]]
+* [[user TheRiceandCake]]
+* [[user TheyCallMeTim]]
+* [[user TopDownUnder]]
+* [[user totallynotenby]]
+* [[user tropinano]]
+* [[user trotskyeet]]
+* [[user tufto]]
+* [[user Tygently]]
+* [[user UraniumEmpire]]
+* [[user veralta]]
+* [[user Vivarium]]
+* [[user voidlady]]
+* [[user W o c k t o p u s]]
+* [[user wagyusteak]]
+* [[user WhatJoUp2]]
+* [[user wlft]]
+* [[user Yossipossi]]
+* [[user ZG1906]]
+* [[user zihao huang]]
+* [[user Zyn]]
+[[/div]]
+
+
+[[/span]]
+
+
+[[image http://scp-wiki.wdfiles.com/local--files/scp6000contesthub/nature.jpg]]
+
+[[size 300%]]**SCP-6000競賽：自然！**[[/size]]
+
+++ 自然！從地球上的生命基礎，動物、植物，到宏觀的組件，生態系、滅絕、大氣層，網站歷史中有著許多作品牽扯到自然世界，或是自其獲得靈感。除此之外，不是正因為違反了自然眾所皆知的規則，才讓SCP成為了SCP嗎？這一次有很多東西圍繞主題，我很期待看到你們可以想出什麼！
+
+++ 另一個系列飛逝而去！這相當難以置信，我也很榮幸可以幫助usher處理新系列第三（！！！）次！我還記得我加入的時候，//沒有人//想到網站會進展到現在的數量和品質，我到今天依然很驚訝！在這裡致另一個整千！
+
++ 日期
+
+**寫作：**已結束
+**閱讀／投票：**已結束
+
+**開放發布：**2021年5月25日，北美東區時間12:01 AM
+**截止發布：**2021年6月1日，北美東區時間12:01 AM
+**決定結果：**2021年7月2日
+
+**結果已在下方公布！**
+
++ 參賽：
+
+發佈你的參賽作品到網站上，網址為「6000contest<你的用戶名>」 ，用你的網站用戶名取代<你的用戶名>。例如，如果用戶名為TroyL的用戶要發佈參賽作品，它的網址將是6000contesttroyl。這個頁面必須由你自己建立（或著如果是個合著，其中一名成員）。加上標籤「6000」，以讓你的作品出現在這個頁面裡。
+
+**請勿在開放發布前發布作品；這會導致失去資格！**
+
+另外，作者們需在作品討論區中附上他們的前五個選擇（ 除去6000），如果可以的話以降序排列。**未做到這點可能會導致你失去你的志願序，且你的作品將被放入隨機編號**。
+
++ 參賽作品
+
+# [[[SCP-6000|SCP-6000: 毒蛇，駝鹿，與流浪者圖書館]]] by Rounderhouse (463)
+# [[[SCP-6666|SCP-6666: 惡魔赫克托爾與恐怖泰坦尼亞]]] by djkaktus (448)
+# [[[SCP-6140|SCP-6140: The True Empire]]] by stormbreath, aismallard (353)
+# [[[SCP-6001|SCP-6001: Avalon]]] by T Rutherford (340)
+# [[[SCP-6999|SCP-6999: 更近我主]]] by Elogee FishTruck (329)
+# [[[SCP-6500|SCP-6500: 無以避免]]] by Ihp, DarkStuff, Grigori Karpin, Aethris, HarryBlank, S D Locke, Placeholder McD (313)
+# [[[SCP-6002|SCP-6002: All Creatures Great and Small]]] by bigslothonmyface (312)
+# [[[SCP-6969|SCP-6969: 性愛梗]]] by Yossipossi (222)
+# [[[SCP-6400|SCP-6400: 外面那裏]]] by UraniumEmpire (204)
+# [[[SCP-6996|SCP-6996: Does the Red Moon Howl?]]] by Dysadron (198)
+# [[[SCP-6005|SCP-6005: Cascadia]]] by Tufto (194)
+# [[[SCP-6003|SCP-6003: Beacon]]] by PlaguePJP, AnActualCrow, J Dune (173)
+# [[[SCP-6004|SCP-6004: The Rainbow Serpent]]] by Dr Balthazaar (173)
+# [[[SCP-6800|SCP-6800: The White Ashes]]] by Marcelles_Raynes (164)
+# [[[SCP-6333|SCP-6333: 蝴蝶效應]]] by Zyn (163)
+# [[[SCP-6789|SCP-6789: Return. Return. Return.]]] by Its a Bad Idea, Ralliston, Trotskyeet (149)
+# [[[SCP-6010|SCP-6010: Carcinization]]] by Mooagain (134)
+# [[[SCP-6217|SCP-6217: The Emergence]]] by Re_spectators, Pedagon (132)
+# [[[SCP-6006|SCP-6006: Theseus]]] by CityToast (130)
+# [[[SCP-6100|SCP-6100: On Golden Skies]]] by Modulum (118)
+# [[[SCP-6007|SCP-6007: Wanderlust]]] by Captain Kirby (118)
+# [[[SCP-6009|SCP-6009: 發電廠]]] by Joreth (110)
+# [[[SCP-6200|SCP-6200: INSOMNIUM]]] by JakdragonX (109)
+# [[[SCP-6008|SCP-6008: Noah's Ark]]] by MalyceGraves, DrAkimoto (107)
+# [[[SCP-6700|SCP-6700: A Mithers' Love Underneath an Orkney Sky]]] by DrBleep (104)
+# [[[SCP-6600|SCP-6600: Spidercon]]] by Limeyy, margssentif, Quadraginta, chiifu, CelesteKar (102)
+# [[[SCP-6011|SCP-6011: Flat Earth]]] by The Son of Man (93)
+# [[[SCP-6699|SCP-6699: The Rhizome of our Minds]]] by DodoDevil (92)
+# [[[SCP-6665|SCP-6665: BLACKBOX]]] by Lamentte (89)
+# [[[SCP-6660|SCP-6660: The Machines on Which We Run]]] by Jacob Conwell (88)
+# [[[SCP-6998|SCP-6998: SCP Author Cerastes's Untitled SCP-6000 Contest Entry]]] by Cerastes (83)
+# [[[SCP-6357|SCP-6357: The Assimilator]]] by Dr Lerche (81)
+# [[[SCP-6667|SCP-6667: For the Love of Humanity]]] by TheyCallMeTim (79)
+# [[[SCP-6463|SCP-6463: An Ending]]] by EstrellaYoshte (73)
+# [[[SCP-6300|SCP-6300: Prophecies]]] by Sterbai (72)
+# [[[SCP-6013|SCP-6013: Let It Go.]]] by Sonderance (71)
+# [[[SCP-6997|SCP-6997: De Rerum Natura]]] by OrbeezTertius (69)
+# [[[SCP-6900|SCP-6900-D: The House of Stars]]] by Calibri Bold (67)
+# [[[SCP-6020|SCP-6020: But Doctor, I AM the Earth God Hepolokoli]]] by Uncannyon (60)
+# [[[SCP-6060|SCP-6060: Only Human]]] by Oboebandgeek99, Mew-ltiverse (60)
+# [[[SCP-6014|SCP-6014: The Leviathan of the Aegean]]] by Rhys Tanner (60)
+# [[[SCP-6420|SCP-6420: Arachno-lagophobia]]] by fairydoctor (58)
+# [[[SCP-6711|SCP-6711: Only Time Will Tell]]] by JayKillbam (56)
+# [[[SCP-6090|SCP-6090: Therianthropy Virus]]] by ChaosMageX (56)
+# [[[SCP-6464|SCP-6464: Babyggdrasil]]] by GerrymanderBassist, Dagel (55)
+# [[[SCP-6935|SCP-6935: "And Who Will Forgive Us When He's Gone?"]]] by quickestsilver (53)
+# [[[SCP-6528|SCP-6528: To Contain Nature]]] by Cydhra (52)
+# [[[SCP-6942|SCP-6942: Darwin's Nightmare]]] by Sidewindered (51)
+# [[[SCP-6030|SCP-6030: Into The Wild]]] by weizhong (51)
+# [[[SCP-6783|SCP-6783: Notes from 1 Billion Years]]] by DrBlueJay (49)
+# [[[SCP-6125|SCP-6125: The Hytoth Theorem]]] by Dr Moned (46)
+# [[[SCP-6174|SCP-6174: You Are Not Here]]] by Maramas (45)
+# [[[SCP-6776|SCP-6776: Reclamation]]] by TopDownUnder (44)
+# [[[SCP-6995|SCP-6995: Cannabincognito]]] by ObserverSeptember (43)
+# [[[SCP-6991|SCP-6991: Den]]] by SirSlash47 (43)
+# [[[SCP-6099|SCP-6099: Unveiled]]] by R4_EX (43)
+# [[[SCP-6028|SCP-6028: Unprecedented Times]]] by Oricat, Indices (42)
+# [[[SCP-6015|SCP-6015: All For The Better]]] by ItsDenali (41)
+# [[[SCP-6134|SCP-6134: Fountain of Living Waters]]] by daviiid (41)
+# [[[SCP-6715|SCP-6715: Path to Paradise]]] by Nitro147 (41)
+# [[[SCP-6676|SCP-6676-D: Unless]]] by Kensing (40)
+# [[[SCP-6016|SCP-6016: Nature's Stance]]] by Cole 13 (36)
+# [[[SCP-6374|SCP-6374: Even A Dead God Can Dream]]] by weiserthanyou (35)
+# [[[SCP-6992|SCP-6992: Nature's Cycle]]] by MightyMightyena (35)
+# [[[SCP-6017|SCP-6017: When Elephants Still Did Magic]]] by Ethagon (34)
+# [[[SCP-6050|SCP-6050: Lake of Colors]]] by nahyesq (32)
+# [[[SCP-6886|SCP-6886: At The Center]]] by AWeirdBird (31)
+# [[[SCP-6883|SCP-6883: a story about metamorphosis and a castle]]] by TheBoxofFun, Veralta, Luke McDonut (29)
+# [[[SCP-6525|SCP-6525: Fuck Your Family]]] by SketchyThoughts (29)
+# [[[SCP-6173|SCP-6173: Art - The Origin -]]] by Karathh, ponhiro (29)
+# [[[SCP-6018|SCP-6018: Just a quiz?]]] by TheVerT (28)
+# [[[SCP-6026|SCP-6026: The Bioluminescence That Roams]]] by Parad00xx (28)
+# [[[SCP-6019|SCP-6019: To See My Childhood Burn]]] by Nameless Mediocre (28)
+# [[[SCP-6288|SCP-6288: Methuselah's Grove]]] by Pinoccappuccino(25)
+# [[[SCP-6129|SCP-6129: It Was Right Here]]] by k9898 (22)
+# [[[SCP-6043|SCP-6043: Mrs C. Gren]]] by Dr Golden (22)
+# [[[SCP-6901|SCP-6901: Loss]]] by TheAlienBaby (21)
+# [[[SCP-6111|SCP-6111: Memoria]]] by Felixou (19)
+# [[[SCP-6669|SCP-6669: Endlessly Fucking Space]]] by Rigen (18)
+# [[[SCP-6021|SCP-6021: Root]]] by wagyusteak (15)
+# [[[SCP-6685|SCP-6685: Forest of the Dead]]] by Aaris (14)
+# [[[SCP-6994|SCP-6994: Sins of the Water, Crimes of the Son]]] by Elunerazim (12)
+# [[[SCP-6051|SCP-6051: General Winter]]] by thesilentking (7)
+# [[[SCP-6022|SCP-6022: Giah-Rex]]] by Doggol (6)
+# [[[SCP-6040|SCP-6040: Cat Warbler]]] by Jorako (5)
+# [[[SCP-6736|SCP-6736: The Beast Within]]] by Dr Zerachiel (4)
+# [[[SCP-6023|SCP-6023: Of Two Different Natures]]] by dababyconvertible (2)
+# [[[SCP-6336|SCP-6336: Everything Dies, Baby, That's a Fact]]] by plaidypus (1)
+# [[[SCP-6422|SCP-6422: A Stone on A Mountain]]] by PhStr1228 (1)
+# [[[SCP-6543|SCP-6543: A Natural Disaster]]] by DrowningDutchman (-5)
+# [[[SCP-6024|SCP-6024: What I Saw In The Eye of Atlas]]] by Iapetus the Acausal (-7)
+# [[[SCP-6712|SCP-6712: The Nature of the Nature]]] by Kawasaki kidou (-9)
+
++ 規則
+
+* 友善對待彼此，認真的。
+* 排名以總淨票數以降序排列。
+* 任何進行可疑和／或負面行為來增加自己的票數、或減少對手票數的參賽者，會被剝奪參賽權利並可能禁止參與後續賽事（並可能更進一步地面臨紀律處分）。
+ * 耍手段的例子包括，但絕對不限於：
+  * 在你的對手的作品發布的數分鐘內就將其扣分
+  * 濫發你的作品相關的私人訊息給人們
+  * 惡意拉攏加分／扣分，不論是你的或任何人的作品
+ * 如果你不確定哪些算是小手段，那它大概就是，但歡迎詢問社群推廣成員。
+* 每位用戶一篇參賽作品
+* 合寫是允許的，但那將算成每位參與者的一篇作品
+* 已存在的草稿是允許的，只要他們從未被發布至維基上
+* 「自然」將被非常廣泛地詮釋。只要方便我們創作，恐龍就跟美國內戰一樣地有歷史性。只要你能夠解釋你的作品是如何與自然在概念上有關，以任何詮釋方式，它就會被接受。主題是來引發靈感的，而不是當作限制。如果你不確定它會不會被算進，歡迎詢問下方列出的競賽負責人。
+* 編輯作品是允許的。
+* 參賽作品會以一般刪除程序對待。
+* 很明顯，獎賞就是SCP-6000的編號。參與者可以依名次順序選擇其他系列七編號。
+* 所有競賽負責人都有能力剝奪以下作品的參賽資格：違反上述規則、其他未列出的極糟運動家精神或未符合主題。所有決定都可向[[*user ProcyonLotor]]和／或[[*user taylor_itkin]]申訴。
+
++++ 競賽負責人
+* [[*user ProcyonLotor]]
+* [[*user taylor_itkin]]
+* [[*user Naepic]]
+* 還有更多！
+
++ 祝各位好運，寫作快樂！
+-----
+^^感謝[http://www.scpwiki.com/uncertaintycrossing-s-art-page UncertaintyCrossing]製作這超讚的板頭圖片！^^

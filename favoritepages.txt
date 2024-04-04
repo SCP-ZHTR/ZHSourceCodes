@@ -1,0 +1,27 @@
+[[module ListUsers users="."]]
+[[iframe https://scp-zhtr.github.io/UserFavoList.html?%%number%% width="100%"]]
+[[/module]]
+
+[[module css]]
+iframe{
+    height: 120em;
+    overflow-y: hidden;
+}
+
+@media (max-width: 767px){
+iframe{
+    height: 160em;
+}
+}
+
+@media (max-width: 479px) {
+iframe{
+    height: 200em;
+}
+}
+
+iframe>html{
+overflow-y: hidden;
+}
+
+[[/module]]

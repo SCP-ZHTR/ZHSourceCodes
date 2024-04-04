@@ -1,0 +1,384 @@
+[[include :scp-zh-tr:theme:black-highlighter-theme]]
+[[include :scp-wiki:theme:minimalist-bhl]]
+
+[[module CSS]]
+:root:lang(zh){
+     --header-title: "SCP基金會";
+     --header-subtitle: "非現實部";
+     --lgurl: url('http://scp-wiki.wikidot.com/local--files/unreality-hub/Unreality%20Header%20Logo.svg');
+}
+[[/module]]
+
+[[include info:start]]
+原文：[http://www.scpwiki.com/unreality-hub Department of Unreality Hub] 非現實部中心頁
+作者：[[*user Fishish]]
+譯者：[[*user Frederica Bernkastel]]
+
+**作者頁面！** [[[fishishpage | Fishish作者頁面]]]
+[[include info:end]]
+
+[[div class="blockquote"]]
+親愛的[名字]，
+
+很高興你加入[部門名稱。] 因為你[相關工作經驗。] 以及 [正面個人特質。]，你從同輩中脫穎而出雀屏中選了。
+
+本部門處理影響[部門的相關資訊。]異常現象的一個非常具體的子集合。
+
+
+[詳細說明涉及該部門的相關職責與補充段落]
+
+誠摯問候，
+
+John Doe
+非現實部主任
+[[/div]]
+
+@@ @@
+@@ @@
+
+[[div class="blockquote"]]
+[[=]]
++ ［按下以編輯文字］
+//解構的積木。//
+（按時間排序）
+[[/=]]
+[[/div]]
+
+
+[[div class="blockquote"]]
+[[[unreality-orientation | 午後（非現實部指南）]]] – by [[*user Fishish]]。
+
+//我拿了一個貝果走到Site-19。//
+[[/div]]
+
+
+[[div class="blockquote"]]
+[[[your-imaginary-friend | 你的想像朋友]]] – by [[*user Fishish]]以及[[*user Deadly Bread]]。
+
+//慢慢地，我嘗試解開一個沒有真正碎片的拼圖。//
+[[/div]]
+
+[[div class="blockquote"]]
+[[[something-glowing | 發光的東西]]] – By [[*user Deadly Bread]]。
+
+//所有輔助功能皆被轉移，以避免過程導致的主觀現實損失。//
+[[/div]]
+
+[[div class="blockquote"]]
+[[[the-castaway-from-unreality | 來自非現實的逃亡者]]] – by [[*user Fishish]]。
+
+//我在Site-19這段日子裡，也許有做了一兩件可被稱作工作的事情。//
+[[/div]]
+
+[[div class="blockquote"]]
+[[[its-not-real-it-never-was-you-pathetic-fools | 都不是真的，從來都不是，你們這些可悲的蠢貨]]] – by [[*user Fishish]]。
+
+//材料要求：沒有。（早已在我掌握）//
+[[/div]]
+
+[[div class="blockquote"]]
+[[[SCP-6208 | SCP-6208 - 她曾名喚失憶症]]] – by [[*user Elunerazim]]以及[[*user Fishish]]。
+
+//應告知SCP基金會全體職員非現實部的存在。//
+[[/div]]
+
+[[div class="blockquote"]]
+[[[SCP-6938|SCP-6938 – Alex Thorley得到一匹禮物馬 ]]] – by [[*user Uncle Nicolini]] and [[*user Fishish]].
+
+//有任何異議嗎?//
+
+[[/div]]
+
+[[div class="blockquote"]]
+[[[haunt-me | 靈擾]]] – by [[*user Fishish]].
+
+//朝陽恨你，身上所有部位都很痛。//
+[[/div]]
+
+[[div class="blockquote"]]
+[[[disintegration | 湮滅]]] – by [[*user Fishish]].
+
+**［02.39 AM］** — Alex Thorley： 我好怕血。
+[[/div]]
+
+[[div class="blockquote"]]
+[[[unreality-hub | SCP-001-NULL - Fishish的提案]]] – by [[*user Fishish]]。
+
+//我們會再度見面的。就如往常那樣。//
+[[/div]]
+
+@@ @@
+
+@@ @@
+-----
+@@ @@
+
+@@ @@
+
+[[div class="blockquote"]]
+
+@@@@
+
+= **Site-19飯堂**
+
+//O.R. #: 000000 @@ @@ @@ @@ @@ @@ 顧客: 7
+收銀員: N/A @@ @@ @@ @@ @@ @@ @@ @@ 18:24:30 PM
+2021年2月13日//
+
+-----
+
+1 無味貝果 1.75
+
+1 D 水瓶 0.99
+
+-----
+
+//小計2.74
+12% 消費稅 0.32//
+
+**合共：3.06**
+
+[[/div]]
+
+@@ @@
+
+@@ @@
+
+[[=]]
+> + 無發現。
+> //涉及非現實部（單數）的獨立創作。//
+
+[[div class="blockquote"]]
+[[[burger | Alex Thorley吃了一個漢堡]]] – by [[*user syuzhet]].
+
+//熟肉的氣味，舌尖的味道，從牙齒邊緣滲出的柔軟脂肪。//
+
+//能吃到一回真正的食物真好。//
+
+[[/div]]
+
+[[div class="blockquote"]]
+[[[/bagel|餓著吃貝果]]] – by [[*user JakdragonX]]。
+
+//喔，說起感覺：我還是好餓。//
+[[/div]]
+
+[[div class="blockquote"]]
+[[[unreal sushi| alex thorley 夢到壽司。]]] – by [[*user LORDXVNV]].
+
+//你期望龐大的海洋上會掀起實質上的波浪，但只有漣漪。漣漪就只是在那，它們永不可能拍打上岸，永遠不會迎來高潮時刻。//
+
+[[/div]]
+
+[[div class="blockquote"]]
+[[[the-blank-page | 空白頁面]]] – by [[*user Prime Girl]].
+
+//你盯著空白的頁面，感到害怕。//
+[[/div]]
+
+[[div class="blockquote"]]
+[[[a-thorley-little-christmas | Alex Thorley的聖誕特輯]]] – by [[*user FLOORBOARDS]].
+
+//After [Period of time of employment.] we are [Sad/relived/excited.] to see you go. Your transfer from [Insert former Department here.] to [Insert current Department here.] has been approved. We are thankful you have continued to dutifully serve the Foundation in our mission.//
+[[/div]]
+
+[[div class="blockquote"]]
+[[[alex-thorley-goes-on-a-blind-date| Alex Thorley去相親]]] – by [[*user IronShears]].
+
+//你是Alex Thorley。你已經等了30分鐘。//
+[[/div]]
+
+[[div class="blockquote"]]
+[[[give-me-back-to-the-sky |把我還回藍天]]] – by [[*user Fishish]].
+
+//You have never felt better, which makes you nauseous.//
+[[/div]]
+
+[[div class="blockquote"]]
+[[[poem |Alex Thorley寫了一首詩]]] – by [[*user IndustryStandard]].
+
+//You don't need to know your hands // if you do no work.//
+[[/div]]
+
+[[div class="blockquote"]]
+[[[illcovetyouifyoucoverme |ILLCOVETYOUIFYOUCOVERME]]] – by [[*user FLOORBOARDS]].
+
+//**Kindness:** But the defense of love remains where it was: Standing on the bastion of the night, overlooking the red dawn where one day the sky will be painted with yellow stars as well.//
+
+//[**Donald John Trump** exits from behind the podium. He smiles widely and repeatedly bows. He waves both his hands. He looks back and forth.]//
+[[/div]]
+
+[[div class="blockquote"]]
+[[[sundial|日晷]]] – by [[*user Aftokrator]].
+
+//What is the inverse of a human being?//
+[[/div]]
+
+@@ @@
+
+@@ @@
+-----
+@@ @@
+
+@@ @@
+
+> + ［拒絕訪問］
+> //涉及非現實部（複數）的獨立創作。//
+
+[[div class="blockquote"]]
+[[[scp-5863|SCP-5863 – 樸素神話]]] – by [[*user SynthPanda_]]。
+
+//基金會尚未釐清SCP-5863確切性質。對以下提案的解釋正在調查當中。//
+[[/div]]
+
+[[div class="blockquote"]]
+[[[scp-0983 | SCP-983 – 今天是派對日]]] – by [[*user FLOORBOARDS]].
+
+//我不能繼續假裝這並非來自我自己的禮物。//
+[[/div]]
+
+[[div class="blockquote"]]
+[[[scp-6478|SCP-6478 – 不是癡呆症 - 是別的東西]]] – by [[*user Quicksilvers ]].
+
+//攝入SCP-6478-1的結果與副作用尚無定論。//
+[[/div]]
+
+[[div class="blockquote"]]
+[[[SCP-6558|SCP-6558 – 詞語不關聯]]] – by [[*user tstaffor]].
+
+//**特殊收容措施：** 收容。//
+
+[[/div]]
+[[div class="blockquote"]]
+[[[SCP-7591|SCP-7591 – Alex Thorley殺了一個人]]] – by [[*user PlaguePJP]].
+
+//**Lague：** 你有過暴戾的想法嗎？//
+
+[[/div]]
+
+[[div class="blockquote"]]
+[[[SCP-7195|SCP-7195 – Alex Thorley得到一隻貓]]] – by [[*user Prime Girl]].
+
+//Thorley喵喵叫。//
+
+//SCP-7195喵喵叫。//
+[[/div]]
+
+[[div class="blockquote"]]
+[[[SCP-7356|SCP-7356 – Noncanonical Materials]]] – by [[*user FLOORBOARDS]].
+
+//Those in the presence of SCP-7356 have not reported adverse effects. However, assigned ritualists — even those who had been amnesticized — have reported experiencing dreams depicting an unknown species of bird, possibly a crow or raven, gliding down a hallway.//
+
+[[/div]]
+
+[[div class="blockquote"]]
+[[[SCP-7365|SCP-7365 – 起/飛/日]]] – by [[*user IndustryStandard]].
+
+//恭喜你！你贏得（獲得）了一次全額補助、完全免費的環球旅行！//
+
+[[/div]]
+
+[[div class="blockquote"]]
+[[[SCP-6352|SCP-6352 – Mother Died Today]]] – by [[*user fabuIa]].
+
+//You are not a member of the Department of Unreality. This does not concern you.//
+
+[[/div]]
+
+[[div class="blockquote"]]
+[[[SCP-7488|SCP-7488 – anything for your eyes]]] – by [[*user winkwonkboi]].
+
+//They all died, screaming. SCP-7488 wields a gun. The bullets are painted in kaleidoscopic hues.//
+[[/div]]
+
+@@ @@
+
+@@ @@
+-----
+@@ @@
+
+@@ @@
+
+[[div class="blockquote"]]
+[[=]]
++ 空無一物
+//涉及非現實部（不可數）的ZH分部創作。//
+[[/=]]
+[[/div]]
+
+[[div class="blockquote"]]
+[[[SCP-ZH-196|SCP-ZH-196 – 與ㅤㅤㅤㅤ婆娑起舞]]] – by [[*user ting129]].
+
+//它試圖，卻無法離去。//
+
+[[/div]]
+
+[[div class="blockquote"]]
+[[[SCP-ZH-307|SCP-ZH-307 – 非現實的阿基里斯]]] – by [[*user YONGZUN]].
+
+//現實是烏龜。//
+
+[[/div]]
+
+[[div class="blockquote"]]
+[[[SCP-ZH-138|SCP-ZH-138 – 本文件的存儲位址有誤，已由非現實部門編輯]]] – by [[*user Pao Mian]].
+
+//你逃得了現實，但你逃不過我們。//
+
+[[/div]]
+
+@@ @@
+
+@@ @@
+-----
+@@ @@
+
+@@ @@
+
+
+> + [未分配內存]
+> //兩者之間的肖像。//
+
+[[div class="blockquote"]]
+
+[[[art:alex-thorley-is-a-they | Alex Thorley is a They]]] by [[*user LOVEMARGINAL]]
+
+[[=image https://i.imgur.com/wk864MQ.png]]
+
+[[/div]]
+
+[[div class="blockquote"]]
+
+[[[art:vitruvian-thorley-and-their-cat | the vitruvian thorley and the cat in the box, #000000 on #FFFFFF]]] by [[*user LORDXVNV]]
+
+[[=image https://i.imgur.com/altcQ6o.jpg]]
+
+[[/div]]
+
+[[=]]
++ 這是什麼？
+[[/=]]
+
+--不錯嘛警官。--
+
+非現實部是基金會的部門[[footnote]]儘管受到RAISA，倫理委員會，部門自身的現實聯絡員，和作者。[[/footnote]]專門處理//某種//異常現象。你真的要看不到才能相信。
+
+**［按下以編輯文字］**是一部系列作，最初由2022部門競賽的「搖擺家族在現實生活中互相憎恨」起頭，並由[[*user Fishish]]續寫下去。
+
+雖然對部門的演釋持開放態度，但只有主軸和已有文章一致的文章才有資格增添到中心頁上。假如你有任何問題，可以去看下面的寫作指引或PM我（[[*user Fishish]]）。
+
+@@ @@
+
+[[=]]
++ 寫作指引
+
+[[collapsible show="+ 寫作指引" hide="- 關閉"]]
+
+[[/collapsible]]
+
+[[/=]]
+
+@@ @@
+@@ @@
+
+[[footnoteblock]]

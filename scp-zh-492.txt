@@ -1,0 +1,261 @@
+[[include :scp-zh-tr:theme:basalt centertitle=a]]
+[[include info:start]]
+[[=]]
++++++ SCP-ZH-492 - 除夕，夜歸
++++++ [[*user Fallen_Truth]]
+[[/=]]
+-----
+[[=]]
+++++++ 感謝欄
+[[/=]]
+感謝咪呀（[[*user Dr V Valentine]]）、柔伊（[[*user ZoeLin]]）、雲（[[*user ting129]]）於比賽圖庫中提供的圖片，這些圖片都很有氣氛，讚讚。
+
+[[include info:end]]
+
+[[div class="smallmodal"]]
+**項目編號：**SCP-ZH-492
+[[/div]]
+
+[[div class="notation"]]
+[[table style="width: 100%;"]]
+[[row]]
+[[cell style="width:50%;border:none"]]
+[[include component:image-block name=https://i.imgur.com/L5kXIgd.jpg|caption=P_20031231_180501.jpg|align=center|width=90%]]
+[[/cell]]
+[[cell style="width:50%;border:none"]]
+**附註：**
+聽說今年臺北101會放煙火，不知道是甚麼樣子。可惜的是今年我必須早點出發，應該沒辦法留在臺北跨年。
+
+也許明年能帶爸媽上來臺北看煙火。
+[[>]]
+[[size 80%]]圖片上傳自[[[welcome-to-delta-t|IsoCom-ZH-05883]]][[/size]]
+[[/>]]
+[[/cell]]
+[[/row]]
+[[/table]]
+[[/div]]
+
+[[div class="smallmodal"]]
+**項目等級：**Keter
+[[/div]]
+
+[[div class="notation"]]
+[[table style="width: 100%;"]]
+[[row]]
+[[cell style="width:50%;border:none"]]
+[[include component:image-block name=https://i.imgur.com/1qWn8jx.jpeg|caption=P_200401111_201931.jpg|align=center|width=90%]]
+[[/cell]]
+[[cell style="width:50%;border:none"]]
+**附註：**
+順帶繞路來看看二伯，不知道為什麼沒人應門，也只有開門前的燈，明明以前兩邊的燈也會開的。
+[[>]]
+[[size 80%]]圖片上傳自IsoCom-ZH-05883[[/size]]
+[[/>]]
+[[/cell]]
+[[/row]]
+[[/table]]
+[[/div]]
+
+
+[[div class="smallmodal"]]
+**特殊收容措施：**每年除夕[[span class="fnnum"]].[[/span]][[span class="fncon"]]即農曆12月30日。[[/span]]30天前應於臺北市內搜尋具有以下特徵的人形實體：
+* 外貌特徵與███[[span class="fnnum"]].[[/span]][[span class="fncon"]]更多有關該員資訊僅限[[[welcome-to-delta-t|研究與收容團隊Δt]]]查詢。[[/span]]相似
+* 不斷喃喃自語
+* 對於外界刺激不予理會
+* 手裡緊握疑似手機的設備[[span class="fnnum"]].[[/span]][[span class="fncon"]]更多資訊僅限[[[welcome-to-delta-t|研究與收容團隊Δt]]]查詢。[[/span]]
+
+[[/div]]
+
+[[div class="jotting"]]
+= [[span class="bt"]]通話紀錄[[/span]]
+
+= [略去]
+[[>]]
+//啊不用寄錢來南部啦，我們還是有在種田。//
+[[/>]]
+（笑聲）都說我會好好賺錢了，你們專心享福就好了！
+[[>]]
+//沒事啦，你爸媽身體還很硬朗啊！//
+[[/>]]
+（笑聲）
+[[>]]
+//重點是我們種田也習慣了，一天不做點事反而覺得哪裡怪怪的。//
+[[/>]]
+好啦，那我不寄錢回去了，改寄些保養品啊。
+[[>]]
+//（笑聲）唉喲你這孩子，從小就讓人省心。//
+[[/>]]
+
+= （靜默）
+
+媽。
+[[>]]
+//什麼事？//
+[[/>]]
+如果我有一天突然走了，你會哭嗎？
+[[>]]
+//（吸氣聲）唉呦傻孩子，大過年突然說什麼傻話。//
+[[/>]]
+沒有啦，就是太久沒回去，怕你忘記我。
+[[>]]
+//你那什麼話，天下哪有媽媽會忘記自己的孩子。//
+[[/>]]
+（笑聲）媽說的是。
+
+= （靜默）
+
+[[>]]
+//啊你……今年會回來嗎？//
+[[/>]]
+應該……沒空。
+[[>]]
+//媽有點想你了……//
+[[/>]]
+
+= （靜默）
+
+對不起啦……明年我一定會回去的……
+[[>]]
+//知道啦，你工作也很辛苦啦。//
+[[/>]]
+嗯……
+[[>]]
+//哎呦喂，我剛剛忘了關火，菜要糊了，媽先掛了啊。//
+[[/>]]
+好。
+[[>]]
+//啊你要記得好好吃飯，還要休息餒！別太操了。//
+[[/>]]
+嗯，媽，掰掰。
+[[>]]
+//掰掰。（腳步聲）//
+[[/>]]
+
+= （靜默）
+
+（啜泣聲）
+
+= [通話結束]
+[[>]]
+[[size 80%]]通話紀錄備份自IsoCom-ZH-05883[[/size]]
+[[/>]]
+[[/div]]
+
+[[div class="smallmodal"]]
+**描述：**SCP-ZH-492為一人型實體，自2004年初開始於每年除夕14至30天前會於臺北市內顯現。實體一旦顯現後，便會沿著街道向臺灣南部行進。
+
+SCP-ZH-492無法與外在環境進行互動，相對地，任何干涉行動皆無法影響該實體的移動。
+
+2004年至2022年，SCP-ZH-492皆於移動過程中自發性消失。[[[welcome-to-delta-t|研究與收容團隊Δt]]]認為此現象為悖謬性論證崩塌導致的結果。
+[[/div]]
+
+[[div class="notation"]]
+[[table style="width: 100%;"]]
+[[row]]
+[[cell style="width:50%;border:none"]]
+[[include component:image-block name=
+https://i.imgur.com/crAtwh3.jpeg|caption=P_20040120_235221.jpg|align=center|width=90%]]
+[[/cell]]
+[[cell style="width:50%;border:none"]]
+**附註：**
+瓊華巷，家在這條路上去的半山腰。
+
+有點奇怪，巷口的早餐店不見了，而且我記得以前沒有斑馬線的，也許是我太久沒回來了。
+
+有人在跟蹤我，今天先在山腳下休息一晚，明天下午應該能到家。
+[[>]]
+[[size 80%]]圖片上傳自IsoCom-ZH-05883[[/size]]
+[[/>]]
+[[/cell]]
+[[/row]]
+[[/table]]
+[[/div]]
+
+[[div class="smallmodal"]]
+除了上述異常性質外，項目作息與一般人類並無二致。
+
+現有證據支持SCP-ZH-492與基金會成員███[[span class="fnnum"]].[[/span]][[span class="fncon"]]該員隸屬於研究與收容團隊Δt。於2003年底分配IsoCom-ZH-05883後即無法確定行蹤。[[/span]]具有極高關聯性，甚或SCP-ZH-492即為處在某種時間異常影響下的███。
+[[/div]]
+
+[[div class="papernote"]]
+[[=]]
+++++++ [[span class="bt"]]校時通知[[/span]]
+距離上次校時已超過安全期限，
+IsoCom-ZH-05883將進行強制校時。
+----
+**校準後時間**
+GMT+8：2023年01月21日，00點00分01秒。
+[[/=]]
+[[>]]
+[[size 80%]]日誌回傳自IsoCom-ZH-05883[[/size]]
+[[/>]]
+[[/div]]
+
+[[div class="smallmodal"]]
+對於SCP-ZH-492行動的目的地未有定論。SCP-ZH-492到達目的地（假設存在）後的影響也尚未有定論。
+
+@@ @@
+
+= [[size 80%]]<檔案結束>[[/size]]
+
+= [[size 80%]]**上次編輯時間**[[/size]]
+= [[size 80%]]GMT+8：2022年01月31日，12點38分21秒。[[/size]]
+[[/div]]
+
+[[div class="notation"]]
+[[table style="width: 100%;"]]
+[[row]]
+[[cell style="width:50%;border:none"]]
+[[include component:image-block name=https://i.imgur.com/Zk7fRHi.jpg|caption=P_20230121_175119.jpg|align=center|width=90%]]
+[[/cell]]
+[[cell style="width:50%;border:none"]]
+**附註：**
+無。
+[[>]]
+[[size 80%]]圖片上傳自IsoCom-ZH-05883[[/size]]
+[[/>]]
+[[/cell]]
+[[/row]]
+[[/table]]
+[[/div]]
+
+[[div class="footer-wikiwalk-nav"]]
+
+[[=]]
+
+<< [[[SCP-ZH-491]]] | SCP-ZH-492 | [[[SCP-ZH-493]]] >>
+
+[[/=]]
+
+[[/div]]
+
+[[include :scp-zh-tr:component:license-box
+|lang=ZH]]
+=====
+
+> 圖片標題：霧中的101
+> 圖片所有人：咪呀 ([[*user Dr_V_Valentine]])
+> 來源：https://i.imgur.com/L5kXIgd.jpg
+> 授權證明：http://scp-zh-tr.wikidot.com/image:ld0f92rj
+> 授權方式：CC BY-SA 3.0
+
+> 圖片標題：門口與燈光
+> 圖片所有人：柔伊 ([[*user ZoeLin]])
+> 來源：https://i.imgur.com/1qWn8jx.jpeg
+> 授權證明：http://scp-zh-tr.wikidot.com/image:ldfzhe5s
+> 授權方式：CC BY-SA 3.0
+
+> 圖片標題：夜晚的路
+> 圖片所有人：柔伊 ([[*user ZoeLin]])
+> 來源：https://i.imgur.com/crAtwh3.jpg
+> 授權證明：http://scp-zh-tr.wikidot.com/image:ldg0ze5l
+> 授權方式：CC BY-SA 3.0
+
+> 圖片標題：眷村廢墟
+> 圖片所有人：雲 ([[*user ting129]])
+> 來源：https://i.imgur.com/Zk7fRHi.jpg
+> 授權證明：http://scp-zh-tr.wikidot.com/image:ldga5eiw
+> 授權方式：CC BY-SA 3.0
+
+=====
+[[include :scp-zh-tr:component:license-box-end]]

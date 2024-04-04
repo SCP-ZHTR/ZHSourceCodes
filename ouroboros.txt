@@ -1,0 +1,92 @@
+[[include theme:black-highlighter-theme]]
+[[include component:bhl-dark-sidebar]]
+[[module CSS]]
+sup { 
+vertical-align: top; position: relative; top: -0.5em; 
+}
+:root{ 
+--cutColour: #fafafa;
+--barColour: #590505;
+}
+
+.info-container .collapsible-block-folded a{
+color: #FFF;}
+.info-container .collapsible-block-unfolded-link a{
+color: #FFF;}
+
+.translation_block{
+display:none;}
+[[/module]]
+[[include info:start]]
+原作者 : [[*user djkaktus]]
+翻譯者 : [[*user ChAoS_UnItY]]
+圖片篇均由 [[*user djkaktus]]製作
+[[include info:end]]
+@@@@
+@@@@
+
+[[=]]
+[[image http://scp-wiki.wdfiles.com/local--files/ouroboros/Ouroboros.png]]
+@@@@
+@@@@
+[[=]]
+> + **##010101|銜 尾 蛇##**
+> **##010101|循環提案##**
+[[/=]]
+-----
+[[image http://scp-wiki.wdfiles.com/local--files/ouroboros/TheChildren.png link="djkaktus-s-proposal"]]
+[[=]]
+> **##4b1202|第一部分##**
+> ++ **##4b1202|[[span style="text-shadow: 1px 1px 2px #000000cc;"]]孩子們[[/span]]##**
+>  ##4b1202|SCP-001（djkaktus 著）##
+[[/=]]
+@@@@
+@@@@
+[[image http://scp-wiki.wdfiles.com/local--files/ouroboros/TheBrokenGod.png link="twistedgears-kaktus-proposal"]]
+[[=]]
+> **##3e3e3e|第二部分##**
+> ++ **##121212|[[span style="text-shadow: 1px 1px 2px #000000cc;"]]破碎之神[[/span]]##**
+> ##3e3e3e|SCP-001（TwistedGears/djKaktus 合著）##
+[[/=]]
+@@@@
+@@@@
+[[image http://scp-wiki.wdfiles.com/local--files/ouroboros/Atonement.png link="djkaktus-s-proposal-ii"]]
+[[=]]
+> **##36648B|第三部分##**
+> ++ **##36648B|[[span style="text-shadow: 1px 1px 2px #000000cc;"]]贖罪[[/span]]##**
+> ##36648B|SCP-001（djkaktus 著）##
+[[/=]]
+@@@@
+@@@@
+[[image http://scp-wiki.wdfiles.com/local--files/ouroboros/thewayitends.png link="djkaktus-s-proposal-iii"]]
+[[=]]
+> **##c90000|第四部分##**
+> ++ **##c90000|[[span style="text-shadow: 1px 1px 2px #000000cc;"]]終结的方式[[/span]]##**
+> ##c90000|SCP-001（djkaktus 著）##
+[[/=]]
+[[/=]]
+
+[[include :scp-zh-tr:component:license-box
+|author=djkaktus]]
+=====
+> **檔案名稱：**Ouroboros.png
+> **圖像作者：**[[*user djkaktus]]
+> **圖像授權協議：**CC BY-SA 3.0
+
+> **檔案名稱：**TheChildren.png
+> **圖像作者：**[[*user djkaktus]]
+> **圖像授權協議：**CC BY-SA 3.0
+
+> **檔案名稱：**TheBrokenGod.png
+> **圖像作者：**[[*user djkaktus]]
+> **圖像授權協議：**CC BY-SA 3.0
+
+> **檔案名稱：**Atonement.png
+> **圖像作者：**[[*user djkaktus]]
+> **圖像授權協議：**CC BY-SA 3.0
+
+> **檔案名稱：**thewayitends.png
+> **圖像作者：**[[*user djkaktus]]
+> **圖像授權協議：**CC BY-SA 3.0
+=====
+[[include :scp-zh-tr:component:license-box-end]]

@@ -1,0 +1,35 @@
+[[include credit:start]]
+**原文標題：**[http://scp-jp.wikidot.com/light-of-daybreak 極夜を明かす者達へ]
+**翻譯標題：** 致渡過極夜者
+**繪者：** ©︎[[*user Ayaito]]
+**搬運：** [[*user Dr V Valentine]]
+**創作年：** 2021
+**搬運年：** 2021
+-----
+[[include credit:end]]
+
+@@ @@
+[[=image http://scp-jp.wdfiles.com/local--resized-images/light-of-daybreak/5%E6%99%8220%E5%88%8641%E7%A7%92/medium.jpg width="680px" link="http://scp-jp.wikidot.com/meshiochislash-s-proposal"]]
+
+@@ @@
+
+SCP-001-JP [http://scp-jp.wikidot.com/meshiochislash-s-proposal 飯落の提言-時刻]
+by [[*user meshiochislash]]
+
+[http://scp-jp.wikidot.com/polar-light 極夜燈　中心]
+by 極夜燈之主
+
+@@ @@
+
+[[collapsible show="然後燈火熄滅了。" hide=" "正常"的世界開始運轉。"]]
+
+[[=image http://scp-jp.wdfiles.com/local--resized-images/light-of-daybreak/%E3%81%8A%E3%82%84%E3%81%99%E3%81%BF%E3%80%82/medium.jpg width="680x" link="http://scp-jp.wikidot.com/polar-light"]]
+
+他們永遠見不到太陽再次升起。
+@@ @@
+
+[[/collapsible]]
+
+[[module CSS]]
+@import url(http://ja.scp-wiki.net/deathcontest/code/1);
+[[/module]]

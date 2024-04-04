@@ -1,0 +1,8 @@
+[[module CSS]]
+#pagerate-button {
+    display: none;
+}
+[[/module]]
+
+[[module Redirect destination="bright-list-deletion-message"]]
+[!-- see https://05command.wikidot.com/forum/t-15668716/statement-regarding-the-deletion-of-the-list --]

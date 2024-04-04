@@ -1,0 +1,333 @@
+/* [[include :nightlii:theme:black-and-green]]*/
+
+[[include info:start]]
+作者︰[[*user LIINight]]
+[[include info:end]]
+
+[[tabview]]
+[[tab 人事檔案]]
+
+[[include component:image-block-base
+name=https://i.imgur.com/Tk7Xkcr.jpg|caption=近照|width=120px|align=right]]
+
+* **姓名：**黎伊
+
+* **姓氏：**奈特
+
+* **別名：**LII，52，Dr.LIINight，DarkNight-52
+
+* **安保許可權限：** LEVEL 3
+
+* **員工分級：** B級人員
+
+* **常駐站點：** [[[site-zh-50|Site-ZH-50]]]
+
+* **職稱：** 特工
+
+[[collapsible show="+ [專長]" hide="- [黎伊擅長的事情]"]]
+> * 在夏威夷訓練的槍法
+> * 西斯特瑪與柔道
+> * 槍械知識
+> * 駕駛多種載具的能力，但並非精通
+> * 中階 德語，法語, 俄語
+> * 資訊裝置操作與程式編輯
+[[/collapsible]]
+[[collapsible show="+ [興趣]" hide="- [黎伊喜歡的事物]"]]
+> * 調酒與料理
+> * 槍械，刀具等各種武器
+> * 閒暇之時會彈彈鋼琴
+[[/collapsible]]
+[[collapsible show="+ [外觀]" hide="- [黎伊的臉與衣櫃]"]]
+
+> * **樣貌：**身高179.9
+>  * 黑色短髮
+>  * 白偏黃皮膚
+>  * 左眼有明顯的疤
+>  * 頸部與手臂有明顯的蠍子紋身
+> *  **衣服：**
+>  * 穿著修身的黑色西裝外套
+>  * 在站點有時會換上白色實驗袍
+>  * 搭配白、灰或黑襯衫及黑色領帶
+> *  * **裝飾物：** 
+>  * 綠色瞳孔放大片 --（0, 255, 0)-- 
+>  * 黑色細框智能眼鏡
+>  * 右手的無名指有一個銀黑色綠綴飾的戒指（戒指的內緣以醒目的綠色刻著LII
+>  * 黑綠色訂製電子錶，
+>  * 黑色薄手套
+>  * 會拿著一個黑色的手提箱
+>  * 口袋裡有一副金屬製，背面印有蠍子圖案的黑色綠綴飾撲克牌（能當武器丟擲)
+>  * 袖子有一把黑綠色的袖劍
+>
+[[/collapsible]]
+[[collapsible show="+ [性格]" hide="- [黎伊的個性"]]
+
+> * 平時以笑臉，愛交友，樂天的個性迎人。
+> * 但是也可以在轉瞬間變得冷漠與殘忍
+[[/collapsible]]
+[[collapsible show="+ [寫作相關資訊]" hide="- [完善中]"]]
+ 前言:他是我高中時期，非常中二的一隻人設，目前正在重新構思中
+他的大方向會是，從民國時期就存在的人物，他是一名前復興社特務處(後擴組為軍事統計局)的特工，他的老化速度與平常人相比相對緩慢，這其中的原因可能是因為他出身於NEXUS，關於如何從第八處跳到基金會的部分還在溝思，可以確定的是他在加入基金會的時候，已經沒有第八處與軍統特工經歷的記憶了，他加入的身分為資訊安全工程專業的特工同時兼任一部分項目的研究人員，之後便轉調至Site-ZH-50，他有一批小隊，內有包含專門的爆破手，資訊人員與戰鬥人員，主要可以拿來執行任務
+ 
+>
+[[/collapsible]]
+
+[[collapsible show="+ [武器庫，警告！！未授權人員禁止開啟 ［指紋]" hide="- [如果泥是入侵者，那就ㄘ窩這招]"]]
+[[include component:image-block name=https://i.imgur.com/BlBFAJ9.jpg|caption=模因型滅殺！！|
+align=center
+/*圖片來源：自己畫的 ww */
+]]
+
+[[html]]
+<style>
+a {
+    color: #00ff00;
+    text-decoration: none;
+    background: transparent;
+}
+
+a:hover {
+    text-decoration: underline;
+    background-color: transparent;
+}
+p {
+color: rgb(0, 255, 0);
+font-family: verdana, arial, helvetica, sans-serif;
+font-size: 0.8em;
+line-height: 141%;
+}
+</style>
+
+<p id="demo"></p>
+
+<script>
+var randomStrings = [
+    "驗證失敗，吃我的滅殺模因",
+    "驗證失敗，吃我的滅殺模因",
+    "驗證失敗，吃我的滅殺模因",
+    "驗證失敗，吃我的滅殺模因",
+    "驗證成功，武器庫已開啟",
+    "驗證失敗，吃我的滅殺模因",
+    "驗證失敗，吃我的滅殺模因",
+    "驗證失敗，吃我的滅殺模因",
+    "驗證失敗，吃我的滅殺模因",
+    "驗證失敗，吃我的滅殺模因",
+];
+window.onload = function() {
+
+var text = randomStrings[Math.floor(Math.random() * randomStrings.length)]
+document.getElementById("demo").innerHTML = "<b>系統AI：</b>" + text + "<a target=\"_parent\" href=\"http://scp-zh-tr.wikidot.com/darknight-52\">［指紋］</a>";
+}
+
+</script>
+[[/html]]
+
+[[div class="foldable-list-container"]]
+* [武器總覽]
+ * ［步槍與狙擊槍］
+  * AR-15 TTI客製化版本
+  * M27 IAR
+  * M700 26* A*B arms MODX
+  * XM2010 Enhanced
+  * MK13Mod7 Secret Service Edition
+  * AS-VEL巨浪突擊步槍
+ * ［霰彈槍］
+  * Benelli M4 TTI客製化版本
+  * Benelli M2 TTI客製化版本
+ * ［衝鋒槍］
+  * Sig MPX TTI客製化版本
+  * HK MP5A4
+  * HK UMP45
+  * HK MP7
+  * FN P90
+ * ［手槍］
+  * Glock-35 TTI客製化全自動版本
+  * STI 2011 TTI客製化版本
+  * PPQ
+  * Glock-18
+  * M1911
+ * ［刀，劍］
+  * 布伊刀
+  * 蝴蝶刀
+  * 武士刀 
+ * [他總是能從辦公室裡的各種地方掏出武器]
+  * [黎伊辦公室的每個角落裡都藏了很多武器，包含了無數個隱藏式武器櫃]
+   * 這些武器都是黎伊費盡心力透過各種管道從國外走私進來的，有些甚至是分成一個個小零件再回來組裝...。
+[[/div]]
+[[/collapsible]]
+>
+>
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+>
+> 
+> 
+>
+> 
+> 
+> 
+> 
+> 
+> 
+>
+    
+[[/tab]]
+
+[[tab 相關作品]]
+
+[[include :scp-zh-tr:component:scp-hover-box-structure
+|container-number=one
+|corner-cutout=1em
+|container-bgcolor=rgb(237, 237, 237)
+|container-txtcolor=rgb(30, 30, 30)
+|container-hover-bgcolor=rgb(0, 255, 0)
+|container-hover-txtcolor=rgb(30, 30, 30)
+|container-stroke-color=rgba(0, 255, 0)
+|container-hover-stroke-color=rgb(0, 180, 0)
+|background-url=https://i.imgur.com/WreXghd.gif
+|background-vertical-position=50%
+|link-fill-color=rgba(252, 252, 252)
+|link-stroke-width=0.125rem
+|link-stroke-color=rgba(12, 12, 12)
+|anchor=521
+|link=http://scp-zh-tr.wikidot.com/scp-zh-521
+|title=SCP-ZH-521
+|sub-title=摺紙書
+|blerb=**最便於攜帶的房間就在此。**
+]]
+@@ @@
+
+　　
+[[/tab]]
+
+[[tab 翻譯文檔]]
+
+[[include :scp-zh-tr:component:scp-hover-box-structure
+|container-number=two
+|corner-cutout=1em
+|container-bgcolor=rgb(237, 237, 237)
+|container-txtcolor=rgb(30, 30, 30)
+|container-hover-bgcolor=rgb(0, 255, 0)
+|container-hover-txtcolor=rgb(30, 30, 30)
+|container-stroke-color=rgba(0, 255, 0)
+|container-hover-stroke-color=rgb(0, 180, 0)
+|background-url=https://i.imgur.com/WreXghd.gif
+|background-vertical-position=50%
+|link-fill-color=rgba(252, 252, 252)
+|link-stroke-width=0.125rem
+|link-stroke-color=rgba(12, 12, 12)
+|anchor=010
+|link=http://scp-zh-tr.wikidot.com/scp-010
+|title=SCP-010
+|sub-title=操控項圈
+|blerb=**快速又有效率的創造不需專業技術工作的勞動力。**
+]]
+@@ @@
+[[include :scp-zh-tr:component:scp-hover-box-structure
+|container-number=three
+|corner-cutout=1em
+|container-bgcolor=rgb(237, 237, 237)
+|container-txtcolor=rgb(30, 30, 30)
+|container-hover-bgcolor=rgb(0, 255, 0)
+|container-hover-txtcolor=rgb(30, 30, 30)
+|container-stroke-color=rgba(0, 255, 0)
+|container-hover-stroke-color=rgb(0, 180, 0)
+|background-url=https://i.imgur.com/WreXghd.gif
+|background-vertical-position=50%
+|link-fill-color=rgba(252, 252, 252)
+|link-stroke-width=0.125rem
+|link-stroke-color=rgba(12, 12, 12)
+|anchor=113
+|link=http://scp-zh-tr.wikidot.com/scp-133
+|title=SCP-113
+|sub-title=便攜洞穴
+|blerb=**便攜洞穴™ 工廠出品 共800件。**
+]]
+@@ @@
+[[include :scp-zh-tr:component:scp-hover-box-structure
+|container-number=four
+|corner-cutout=1em
+|container-bgcolor=rgb(237, 237, 237)
+|container-txtcolor=rgb(30, 30, 30)
+|container-hover-bgcolor=rgb(0, 255, 0)
+|container-hover-txtcolor=rgb(30, 30, 30)
+|container-stroke-color=rgba(0, 255, 0)
+|container-hover-stroke-color=rgb(0, 180, 0)
+|background-url=http://scp-wiki.wdfiles.com/local--files/scp-2642/Vase.jpg
+|background-vertical-position=50%
+|link-fill-color=rgba(252, 252, 252)
+|link-stroke-width=0.125rem
+|link-stroke-color=rgba(12, 12, 12)
+|anchor=2642
+|link=http://scp-zh-tr.wikidot.com/scp-2642
+|title=SCP-2642
+|sub-title=大象的半張臉
+|blerb=**幹你娘，現在輪到你了。**
+]]
+@@ @@
+[[include :scp-zh-tr:component:scp-hover-box-structure
+|container-number=five
+|corner-cutout=1em
+|container-bgcolor=rgb(237, 237, 237)
+|container-txtcolor=rgb(30, 30, 30)
+|container-hover-bgcolor=rgb(0, 255, 0)
+|container-hover-txtcolor=rgb(30, 30, 30)
+|container-stroke-color=rgba(0, 255, 0)
+|container-hover-stroke-color=rgb(0, 180, 0)
+|background-url=http://scp-wiki.wdfiles.com/local--files/scp-5409/pac
+|background-vertical-position=55%
+|link-fill-color=rgba(252, 252, 252)
+|link-stroke-width=0.125rem
+|link-stroke-color=rgba(12, 12, 12)
+|anchor=5409
+|link=http://scp-zh-tr.wikidot.com/scp-5409
+|title=SCP-5409
+|sub-title=無法安撫
+|blerb=**對不起，但我還沒準備好。**
+]]
+@@ @@
+
+[[/tab]]
+
+[[/tabview]]
+
+[[include :scp-zh-tr:component:license-box
+|author=LIINight
+|lang=ZH]]
+=====
+> **檔案名稱：**近照
+> **圖像作者：**LIINight
+> **圖像授權協議：** CC BY-SA 3.0
+> **圖源連結：** [https://i.imgur.com/48jvHbQ.jpg]
+
+> **檔案名稱：**模因抹殺觸媒
+> **圖像作者：**LIINight
+> **圖像授權協議：** CC BY 3.0
+> **圖源連結：** [https://i.imgur.com/BlBFAJ9.jpg]
+
+> **檔案名稱：** hover的SCP GIF
+> **圖像作者：** LIINight
+> **圖像授權協議：**CC BY 3.0
+> **圖源連結：** [https://i.imgur.com/WreXghd.gif]
+
+
+
+> **檔案名稱：**pac.jpg
+> **圖像作者：**RuggyBearLA
+> **圖像授權協議：**CC BY 2.0
+> **圖源連結：** [https://www.flickr.com/photos/21874566@N07/3393862615 flickr]
+
+> **檔案名稱：**Vase.jpg
+> **圖像名稱：**File:Arte romana, olla in vetro soffiato, I-II sec. dc 01.JPG
+> **圖像作者：**Sailko
+> **圖像授權協議：**CC BY-SA 3.0
+> **圖源連結：** https://commons.wikimedia.org/wiki/File:Arte_romana,_olla_in_vetro_soffiato,_I-II_sec._dc_01.JPG
+
+
+=====
+[[include :scp-zh-tr:component:license-box-end]]

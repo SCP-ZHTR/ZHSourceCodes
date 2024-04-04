@@ -1,0 +1,136 @@
+[[module css]]
+h1, h2 {
+    text-align: center;
+}
+
+.help {
+    display: flex;
+    align-content: stretch;
+    padding-top: 1em;
+}
+
+.help blockquote {
+    margin: 0;
+    font-size: 85%;
+}
+
+.help blockquote > p {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    align-content: center;
+    margin-right: 0;
+    min-height: 2rem;
+    margin: 0;
+}
+
+.help blockquote > p * {
+    margin: 0 0.1rem;
+    height: 100%;
+}
+
+.help blockquote:nth-of-type(1) {
+    background: transparent;
+    border: unset;
+    box-shadow: unset;
+    text-align: right;
+    margin-right: 0;
+    padding: 0;
+}
+
+.help blockquote:nth-of-type(1) > p {
+    justify-content: flex-end;
+}
+
+.help blockquote:nth-of-type(2) {
+    margin-left: 1em;
+    width: 50%;
+}
+[[/module]]
+
+[[include component:audio-player-woed-source
+|unique-name=secretparty
+|audio-file=http://thisisalink.com/PartyTime.mp3
+|background-color=rgb(252, 252, 252)
+|border-color=rgb(215, 215, 215)
+|border-radius=0.313rem
+|dropshadow-color=rgba(12, 12, 12, 0.15)
+|text-color=rgb(80, 0, 2)
+|icons-color=rgb(171, 0, 5)
+|player-color=rgb(215, 215, 215)
+|progress-color=rgb(80, 0, 2)
+]]
+
+@@ @@
+[[iftags +組件]]
++ 使用方法
+
+++ 1. 復制以下代碼。
+++ 2. 跟隨底部的指導。
+
+> @@[[include component:audio-player-woed-source@@
+> @@|unique-name=EnglishOnly @@
+> @@|audio-file=http://thisisalink.com/PartyTime.mp3@@
+> @@|background-color=rgb(252, 252, 252)@@
+> @@|border-color=rgb(215, 215, 215)@@
+> @@|border-radius=0.313rem@@
+> @@|dropshadow-color=rgba(12, 12, 12, 0.15)@@
+> @@|text-color=rgb(80, 0, 2)@@
+> @@|icons-color=rgb(171, 0, 5)@@
+> @@|player-color=rgb(215, 215, 215)@@
+> @@|progress-color=rgb(80, 0, 2)@@
+> @@]]@@
+
+
+[[div_ class="help"]]
+> include組件的開頭。**該代碼塊需完整黏貼** ↦
+> 
+> 該音頻的特定前綴。**使用英文單詞，而非數字** ↦
+> 
+> 完整的音頻文件鏈接。//(支持所有的音頻文件類型）// ↦
+> 
+> 播放器背景色。//(支持使用 hex, rgb, rgba, hsl)// ↦
+> 
+> 播放器邊框的顏色。 //(支持使用 hex, rgb, rgba, hsl)// ↦
+> 
+> 邊框角度的曲率。 //(初始值為0，是為方角)// ↦
+> 
+> 向下方進行投影時的顏色。//(支持使用 hex, rgb, rgba, hsl)// ↦
+> 
+> 進度條下文本的顏色。//(支持使用 hex, rgb, rgba, hsl)// ↦
+> 
+> 按鈕上面圖標的顏色。 //(支持使用 hex, rgb, rgba, hsl)// ↦
+> 
+> 進度條中未播放區的顏色。//(支持使用 hex, rgb, rgba, hsl)// ↦
+> 
+> 進度條中已播放區的顏色。 //(支持使用 hex, rgb, rgba, hsl)// ↦
+> 
+> 結束Include版塊
+> 
+
+> [[include component:audio-player-woed-source
+> 
+> |unique-name=secretparty
+> 
+> |audio-file=音頻地址
+> 
+> |background-color=背景色
+> 
+> |border-color=邊框色
+> 
+> |border-radius=0.313rem
+> 
+> |dropshadow-color=投影色
+> 
+> |text-color=文本色
+> 
+> |icons-color=圖標色
+> 
+> |player-color=未播色
+> 
+> |progress-color=已播色
+> 
+> ]]
+> 
+[[/div]]
+[[/iftags]]

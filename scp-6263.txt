@@ -1,0 +1,99 @@
+[[include component:scp-meta-title-hiding css-style=classic]]
+[[include :scp-zh-tr:theme:blankstyle]]
+
+[[module CSS]]
+:root {
+    --timeDelay: 0.5s;
+[[/module]]
+
+[[module css]]
+:root {
+--thaumiel: 0, 135, 189
+}
+[[/module]]
+
+[[include info:start]]
+原文：[http://www.scpwiki.com/scp-6263 SCP-6263] 現世速報
+作者：[[*user HarryBlank]]
+譯者：[[*user Frederica Bernkastel]]
+[[=]]
+
+[[image http://scp-wiki.wdfiles.com/local--files/this-page-intentionally-left-blank/Tyop.png]]
+
+84尼啦
+
+**[[[http://scp-zh-tr.wikidot.com/this-page-intentionally-left-blank|該作者的更多作品！]]]**
+[[/=]]
+[[include info:end]]
+
+[[div]]
+[[include :scp-zh-tr:component:anomaly-class-bar-source
+
+|item-number= SCP-6263
+
+|clearance= 1
+
+|container-class= esoteric
+
+|secondary-class= simpatico
+
+|secondary-icon= http://scp-sandbox-3.wdfiles.com/local--files/harry-blank-6/simpatico-icon.svg
+
+|disruption-class= dark
+
+|risk-class= 注意
+
+]]
+[[include :scp-zh-tr:component:acs-peppo-split
+|object= keter
+|object-image= https://scp-wiki.wdfiles.com/local--files/component%3Aanomaly-class-bar/keter-icon.svg
+|object-color= keter
+|esoteric-color= thaumiel
+]]
+[[/div]]
+
+----
+
+[[include component:image-block
+    name=https://scp-wiki.wdfiles.com/local--files/scp-5382/Clio.png|
+    caption=[/secure-facility-dossier-site-43 Site-43]歸檔與修校部 |
+    width=200px
+]]
+
+**特殊收容措施：** SCP-6263之存在證明每日都透過社交媒體不斷生成，但事實證明該情況並不足以使公眾注意到該異常現象。[[span class="fnnum"]].[[/span]][[span class="fncon"]]Simpatico級是存在不可預知收容挑戰的異常，但除此之外又無任何威脅性。[[/span]]鼓勵職員透過公開嘲諷惡劣之錯別字挑剔者以抑制進一步的證據產生。
+----
+**描述：** SCP-6263是在糾正他人之拼寫或語法錯誤時出現的異常現象。該行為將使糾正者隨即犯下相關錯誤以統計學上不可能發生地機率驟升，該現象通常於其糾正言詞中就會出現，且發生機率與嚴重程度都將隨著最初糾振言詞之激烈程度等比例增加。
+----
+//三小喔？這是哪門子異常，你有證據嗎？你的實驗紀錄呢？你甚至還把糾正的「正」姘錯了，你這本蛋！-- W. Wettle//
+
+//感謝你提供的證據，Willie！我就知道你可以的 -- H. Blank//
+
+----
+
+[[div]]
+[[=]]
+<< **[[[SCP-6121]]]** | **[/on-guard-43-hub 力與毒之語]** | **[[[A Bitch]]]** >>
+[[/=]]
+[[/div]]
+
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[SCP-6262]]] | SCP-6263 | [[[SCP-6264]]] >>
+[[/=]]
+[[/div]]
+
+[[div]]
+[[=]]
+[[include :scp-zh-tr:component:license-box
+|author=HarryBlank
+]]
+=====
+[[<]]
+> **Filename:** Clio.png
+> **Author:** [[*user HarryBlank]]
+> **License:** CC BY-SA 3.0
+[[/<]]
+=====
+[[include :scp-zh-tr:component:license-box-end]]
+[[/=]]
+[[/div]]

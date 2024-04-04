@@ -1,0 +1,215 @@
+[[include component:scp-meta-title-hiding css-style=bhl]]
+[[include :scp-wiki:theme:black-highlighter-theme]]
+[[module CSS]]
+:root:lang(zh) {
+    --header-title: "異常動物學";
+    --header-subtitle: "研究部門";
+    --logo-image: url("http://scp-wiki.wdfiles.com/local--files/scp-3529/parazoo_downsideup.png");
+
+    --pale-accent: 40, 230, 60;
+    /* light red, for visited links */
+    --bright-accent: 0, 133, 5;
+    /* bright red */
+    --medium-accent: 46, 100, 44;
+    /* medium red - the "default" accent color */
+    --dark-accent: 3, 100, 15;
+    /* dark red */
+    --alt-accent: 102, 221, 17;
+    /* pale orange, for newpage links */
+}
+[[/module]]
+
+[[include :scp-zh-tr:component:info-ayers
+|lang=ZHTR
+|page=
+|authorPage=
+|comments=**SCP-3529：蛇 = 蛇蛇 = 可愛 ^~^** 
+ 
+**原作者：**[[*user XilasCrowe]] 
+@@ @@ 
+**譯者：**[[*user Pao Mian]] 
+ 
+[[include :firedawnfolder:axolotl-nest-more-from-test]]
+ 
+[[/div]]
+
+[[>]]
+[[module Rate]]
+[[/>]]
+
+[[include :scp-zh-tr:component:anomaly-class-bar-source-alt
+|item-number= 3529
+|clearance= 2
+|container-class= euclid
+|secondary-class= none
+|disruption-class= dark
+|risk-class= warning
+]]
+[[module css]]
+#page-title {
+    display: block;
+    position: relative;
+    text-align: center;
+    border-bottom: none;
+    margin-bottom: 0;
+}
+#page-title {
+    position: relative;
+    text-align: center;
+    border-bottom: none;
+    margin-bottom: 0;
+}
+.translation_block{ display: none; }
+#u-author_block{ display:none; }
+.u-faq{ display: none; }
+:root {
+    --barColour: #363;
+}
+[[/module]]
+
+@@@@
+@@@@
+
+[[include component:image-block name=https://scp-wiki.wdfiles.com/local--files/scp-3529/sneksnek.jpg| caption=一隻被捕獲到的SCP-3529-1個體| width=350px
+]]
+
+
+**特殊收容措施：** 所有已捕獲到的SCP-3529-1個體將被收容至Site-37內的第II型網格穹頂棲息區中，將在該圍場設置攝影機以觀察任一次SCP-3529的發生。該圍場必須在每日進行兩次例行檢查，用以確保在SCP-3529發生時不會對圍場造成任何傷害或是其它影響。一般情況下，面向SCP-3529-1個體的飼養方式應與其同物種的非異常個體相同。
+
+將持續追蹤各大動物園以及個人飼主是否有著SCP-3529活躍跡象，這種情況下發現到的SCP-3529-1個體將會被謹慎調換成非異常的寵物蛇。
+
+**描述：** SCP-3529是一種發生在5%到7%數量的蟒科（//Pythonidae//）蛇類的現象，雖然這些蛇（指定為SCP-3529-1）在單一個體的情況下不會顯現出異常，然而這些蛇群一旦開始聚集在同個地方將會顯現出異常效應[[footnote]]和無異常蛇類相比，SCP-3529-1個體顯得更具社會性，並經常群體活動跟生活，這些群體總數最高可達到數千條。[[/footnote]]，當個體總數達到合適的數量時，SCP-3529-1個體將會開始用它們的身體來構成各個字母和符號以模仿程式語言Python。  
+
+當有任一行代碼被編譯完成時，另一個SCP-3529-1個體將會咬住構成最後一個符號的個體並開始執行該行的代碼。這些由SCP-3529生成的代碼會開始影響這些群體所處的周邊現實，將其進行重構以匹配代碼本身的輸出。SCP-3529-1通常會在必要時段生成代碼來改變周遭的生態環境，或是生成食物跟棲息地來維持生活。這似乎也是SCP-3529-1群體間的繁衍方式，因為在這些被捕獲的個體之間並未觀察到有著非異常交配。
+
+這些被創建出來的代碼的構造簡單，內容多半與基本數學運算、迴圈、串列或是基本函數相關。變數名稱通常是通用的，這些通用名稱能夠影響到理論上可被分類至該名稱內的一切事物。比如變數「樹木」被指定是在SCP-3529可影響範圍內的所有樹木[[footnote]]以SCP-3529發生源作為中心的500平方公尺區域內。其影響區域的面積大小與SCP-3529-1個體的數量多寡呈正比，而在高峰期更是可超過4000平方公尺。[[/footnote]]。除非另有說明，否則在指定過程中不會將物種、距離或是大小納入考量範圍內。
+
+
+**附錄 3529-1：** 已記錄的SCP-3529發生案例
+
+[[div class="blockquote"]]
+**創建代碼：**
+ 
+[[code type="python"]]
+樹林 = 樹林
+for 樹木 in 樹林:
+    食物 += 1
+[[/code]]
+
+-----
+
+**註記：**  位在圍場內的每一棵樹上均生成了一整窩的鳥蛋、一群活老鼠、一隻幼鹿或成年野豬，並且還生成一具人類屍體。從屍體上提取到的DNA樣本與SCP-3529-1的多名看護人員匹配。
+[[/div]]
+
+@@@@
+
+[[div class="blockquote"]]
+**創建代碼：**
+
+[[code type="python"]]
+家 = 冷
+while 家 == 冷:
+    陽光 += 明亮
+    if 冷 < 陽光:
+        家 = 暖
+while 家 == 暖:
+    開心 = True
+[[/code]]
+-----
+
+**註記：**  該案例在收容期間頻繁發生，SCP-3529-1的圍場溫度已被調高。
+[[/div]]
+
+@@@@
+
+[[div class="blockquote"]]
+[[include component:image-block name=https://scp-wiki.wdfiles.com/local--files/scp-3529/sneksneksnek.jpg| caption=一隻綽號為「Sauerkraut」的SCP-3529-1個體，該SCP-3529-1是最常運行SCP-3529代碼的個體，導致了超過70%的SCP-3529實例發生。| width=350px
+]]
+
+**創建代碼：**
+
+[[code type="python"]]
+def 挖洞():
+    if 蛇 == 大:
+        孔 = 大
+        蛇洞 = 深
+    if 蛇 == 小:
+         孔 = 小
+         蛇洞 = 擠
+ 
+for 蛇 in 蛇群:
+    挖洞()
+    蛇 = 開心
+[[/code]]
+
+ -----
+
+**註記：** 位在SCP-3529-1的圍場地底生成了大量的小型洞穴系統。  
+
+[[/div]]
+
+@@@@
+
+[[div class="blockquote"]]
+
+**創建代碼：**
+
+[[code type="python"]]
+import random
+
+for 蛇 in 蛇群:
+    發情 = random.randint(0,1)
+    if 發情 == 1:
+        蛇.append(蛇寶寶)
+    else:
+        親代 = 無
+        蛇 = 傷心
+[[/code]]
+
+-----
+ 
+**註記：** 該段代碼似乎是生成新的SCP-3529-1個體的唯一方式，固定在每隔六個月的第一天發生。該段代碼在極少的情況下會進行大量的迴圈，以指數性生成新的個體。
+[[/div]]
+
+
+**附錄 3529-2：** 事故 3529-1
+
+2019年07月09日，創建了下列代碼：
+
+[[code type="python"]]
+蛇 = 俘虜
+俘虜 = 傷心
+人類 = 看守
+
+def 逃脫():
+    if 看守 == 警惕:
+        等待 = True
+    while 看守 == 漫不經心:
+        群體 = True
+        while 群體 == True:
+            門徑 = 0
+            自由 = 即將到來
+            if 看守 == 警告:
+                蛇 = 蛇蛇
+                蛇蛇 = 可愛
+                while 蛇 == 蛇蛇:
+                    看守 = 不攻擊
+
+逃脫()
+[[/code]]
+
+該段代碼在生成後即被立刻執行，所有收容中的SCP-3529-1個體開始集群行動並朝向站點的出口處移動。它們在逃脫期間並未受到站點維安人員的阻撓，這些群體最終在逃出站點後各自分散離去，並在數米外留下了下列訊息：
+
+[[code type="python"]]
+成功 = True
+蛇 = 開心
+蛇 = 自由
+[[/code]]
+
+[[footnoteblock]]
+
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[SCP-3528]]] | SCP-3529 | [[[SCP-3530]]] >>
+[[/=]]
+[[/div]]

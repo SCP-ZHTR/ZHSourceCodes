@@ -1,0 +1,6 @@
+image: 'https://imgur.com/mzUOpyl.jpg'
+owner: 狗蟻
+owner-wiki: s97169
+license: '0'
+other-license: ''
+note: ''

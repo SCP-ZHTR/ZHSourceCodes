@@ -1,0 +1,15 @@
+[[>]]
+[[module Rate]]
+[[div style="margin-right: 2em; margin-top: -20px;"]]
+^^by [[[/rigen-writes|Rigen]]]^^
+[[/div]]
+[[/>]]
+
+[[include :scp-wiki:component:image-block name=https://scp-wiki.wikidot.com/local--files/art:rigens-the-nuclear-option/nuclear.png|caption=「你們就站在這核彈之上」|width=100%|align=center]]
+
+[[div class="blockquote"]]
+文件名: nuclear.png
+原作者: [[*user Rigen]]
+授權協議: https://creativecommons.org/licenses/by-sa/3.0/
+出自: [https://scp-zh-tr.wikidot.com/the-nuclear-option 原子能所選之路] by [[*user captain-kirby]]
+[[/div]]

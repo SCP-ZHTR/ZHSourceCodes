@@ -1,0 +1,566 @@
+[[module CSS]]
+@import url(https://scp-zh-tr.wikidot.com/theme:ad-abyssum/code/1);
+[[/module]]
+
+[[include :scp-wiki:component:interwiki-style
+| priority=1
+| theme=https://scp-wiki.wdfiles.com/local--code/theme:ad-abyssum/1
+]]
+
+[[iftags +外觀主題]]
+
+[[>]]
+[[module Rate]]
+[[/>]]
+
+[[=]]
+
+> //「而那必是我等的終結，必是我等的解藥：
+> 到此為止了。可悲的解藥啊！對於那些終將敗陣的人，
+> 儘管，這個智慧的存在，遍體麟傷，
+> 那些徘迴於永恆之中的念想，
+> 寧可逝去，也不想被埋沒並迷失其中
+> 在這新生前夜的廣闊子宮之內
+> 就這樣沒有知覺與行動嗎？」//
+
+[[/=]]
+
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+
+----
+
+該外觀主題是為了戰術神學部所打造的。你可以在[http://scp-zh-tr.wikidot.com/system:page-tags/tag/戰術神學部#pages 這裡]閱覽戰術神學的所有相關作品。
+
+為了將此外觀主題導入至你的頁面之中，請將以下字串插入至你頁面的任意位置：
+
+[[span style="padding: 1px; margin-left: 10px;"]]{{@@[[include :scp-zh-tr:theme:ad-abyssum]]@@}}[[/span]]
+
+以下是該外觀主題各項屬性的變化演示：
+
+----
+
+@@ @@
+@@ @@
+@@ @@
+
+[[include component:image-block name=https://upload.wikimedia.org/wikipedia/commons/6/6b/Katharinenkloster_Sinai_BW_2.jpg|caption=這裡是我們存放一切神祕的地方。]]
+
++ 1級標題
+
+++ 2級標題
+
++++ 3級標題
+
+++++ 4級標題
+
++++++ 5級標題
+
+++++++ 6級標題
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. [https://scp-zh-tr.wikidot.com/scp-5993 Ut enim ad minim veniam], //quis nostrud// **exercitation ullamco** //**laboris nisi ut aliquip**// ex ea commodo consequat. [[[9828d03c-c0b4-40d2-a6fb-600c8e08b8d3|Duis aute irure dolor]]] in reprehenderit[[footnote]]註解[[/footnote]] in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+[[collapsible show="摺疊頁！" hide="～隱藏摺疊頁～"]]
+
+Surprise！
+
+[[/collapsible]]
+
+> 一隻魚
+> 
+>> 兩隻魚
+>> 
+>>> 死去的魚
+>>> 
+>>>> 藍色的魚
+@@ @@
+[[tabview]]
+[[tab 有內容的分頁]]
+
+… 對旅宿的研究與測試結果都導向了一個結論。神有一個盲點，而我們已經找到它的所在位置了。
+
+[[/tab]]
+[[tab 空分頁]]
+
+[[/tab]]
+[[tab 長內容分頁]]
+
+**DJ SCIP：** 誒⋯⋯//謝謝//Dr. McDoctorate 來臨本節目然後不知搞了些甚麼鬼。接下來是由來自[/secure-facility-dossier-reliquary-area-27 神聖Area-27]和戰術神學部的傢伙們演唱一段漂亮的[[span class="ruby"]]聖誕鈴聲[[span class="rt"]] jingle bells[[/span]][[/span]] ⋯⋯哈哈，腦子卡在自動修正模式了。我是想說動聽的[[span class="ruby"]]音樂[[span class="rt"]]jingles[[/span]][[/span]]。學學樣子吧，牧師和女祭司們！
+
+[以“O Holy Night”的曲調演唱]
+
+//啊！幹你媽！眾神來殺我們了（Oh holy hell, the gods are going to kill, us）//
+
+//除非我們先找辦法反殺（Unless we find, a way to kill them first）//
+
+//可怖惡物快要越線了（Eldritch things, are coming 'cross the limin）//
+
+//來吃腦和靈，或更糟的（To eat, our brains and souls or worse）//
+
+//因此我們研發制造本徵武器（That's why we are making eigenweapons ）//
+
+//因此我們都鑽研金句（That's why we're all mining Bible quotes）//
+
+//我們才不會因毫無防備而被襲（So we, don't get caught, with our planet's trousers, down）//
+
+//被原始人看錯的甚麼東西吞噬（And get devoured, by some thing some caveman thought he saw）//
+
+[[/tab]]
+[[tab 分頁裡有點東西的分頁]]
+
++ 分頁裡的標題
+
++++ 分頁裡的標題但它小
+
+文字 — [https://scp-wiki.wikidot.com/christmas-fam 連結]
+
+----
+
+> **Dr. Long：**阿然後勒？
+> 
+> **Dr. [已刪節]：**他是這麼告訴我的：
+> 
+>> **Dr. Jonathan：**我們幹走了所有的金子！
+> 
+> **Dr. [已刪節]：**這不是超狂的嗎？
+
+[[/tab]]
+[[/tabview]]
+@@ @@
+||~ 在此 ||~ 屋之下 ||
+|| 我們掀翻 || 所有的 ||
+|| 桌子（table） ||
+@@ @@
+[[footnoteblock]]
+
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+
+
+
+
+
+
+
+
+[[code type="css"]]
+@import url('https://fonts.googleapis.com/css2?family=Martel:wght@900&display=swap');
+
+/* === ENTIRE PAGE AREA === */
+
+body {
+    background: #F4F4F4;
+}
+
+#container *::selection {
+   background: #d77800;
+   color: #ffffff;
+}
+
+/* === HEADER AREA === */
+
+/* Header Background */
+
+div#container-wrap {
+    background-image: url("https://scp-wiki.wdfiles.com/local--files/theme%3Aad-abyssum/tacttheo_banner_4.png");
+}
+
+#header {
+    background-image: url("https://scp-wiki.wdfiles.com/local--files/theme%3Aad-abyssum/Department%20of%20Tactical%20Theology%20Inverted%20Transparent.png");
+    background-position: center;
+    background-size: 23%;
+    height: 15rem;
+}
+
+/* Header Foreground */
+
+#header h1,
+#header h2 {
+    float: initial;
+    text-align: center;
+    margin-left: 0rem;
+}
+
+#header h1 a {
+    line-height: 8.75rem;
+}
+
+#header h2 {
+    line-height: 11rem;
+}
+
+#header h1 a span,
+#header h2 span {
+    display: none;
+}
+
+#header h1 a::before {
+    color: #591900;
+    content: "戰術神學";
+    font-family: 'Martel', serif;
+    text-shadow: 0rem 0rem 0.2rem #fff;
+}
+
+#header h2::before {
+    color: #591900;
+    content: "Invenient Novum Numen";
+    font-family: 'Martel', serif;
+    text-shadow: 0rem 0rem 0.1rem #fff;
+}
+
+/* Top Navigation Bar */
+
+#top-bar {
+    display: flex;
+    justify-content: center;
+    top: 15.625rem;
+}
+
+#top-bar .top-bar > ul > li > a {
+    text-shadow: 0em 0em 0.188em #000000;
+}
+
+#top-bar .top-bar > ul > li:hover > a {
+    text-shadow: none;
+}
+
+#top-bar ul li:hover a {
+    color: #952b00;
+}
+
+#top-bar ul li:hover a:hover {
+    background-color: #f9dec6;
+}
+
+/* Login */
+
+#login-status {
+    color: #591900;
+    left: 0;
+    width: 70%;
+}
+
+#login-status a {
+    color: #591900;
+}
+
+#account-options li a:hover {
+    color: #700;
+}
+
+#account-options {
+    position: relative;
+    right: -3.75em;
+}
+
+/* Search Bar */
+
+#search-top-box {
+    top : 1rem;
+}
+
+#search-top-box-input,
+#search-top-box-input:hover,
+#search-top-box-input:focus {
+    background-color: #591900;
+    border-color: #333333;
+    border-radius: 0.3125rem;
+    color: #ffa77a;
+    opacity: 0.8;
+    padding: 0.125rem;
+}
+ 
+#search-top-box-form input[type=submit],
+#search-top-box-form input[type=submit]:hover,
+#search-top-box-form input[type=submit]:focus {
+    background-color: #591900;
+    background-image: none;
+    border: none;
+    border-radius: 0rem;
+    color: #ffffff;
+}
+
+/* === SIDEBAR AREA === */
+
+#side-bar {
+    left: -8em;
+}
+
+#side-bar a,
+#side-bar a:visited,
+#side-bar .collapsible-block-unfolded-link .collapsible-block-link,
+#side-bar .collapsible-block-unfolded-link .collapsible-block-link:hover {
+    color: #952b00;
+    text-shadow: 0em 0em 0.125em #fff
+}
+
+#side-bar .heading {
+    color: #591900;
+}
+
+.side-block {
+    border: 0.0625em solid #591900;
+    box-shadow: 0 0.125em 0.375em #591900;
+}
+
+/* Media Block */
+
+#side-bar .side-block.media {
+    background-color: #fff3ed;
+    background-image: url("https://scp-wiki.wdfiles.com/local--files/theme%3Aad-abyssum/tacttheo_sidebar_small_compressed.png");
+    background-position-y: -3em;
+    background-size: 100%;
+}
+
+/* Resources Block */
+
+#side-bar .side-block.resources {
+    background-color: #fff3ed;
+    background-image: url("https://scp-wiki.wdfiles.com/local--files/theme%3Aad-abyssum/tacttheo_sidebar_small_compressed.png");
+    background-position-y: -11.6em;
+    background-size: 100%;
+}
+
+/* Main Side Blocks */
+
+#side-bar .side-block {
+    background-color: #fff3ed;
+    background-image: url("https://scp-wiki.wdfiles.com/local--files/theme%3Aad-abyssum/tacttheo_sidebar_compressed.png");
+    background-size: 100%;
+}
+
+/* Interwiki Block */
+
+#interwiki .side-block {
+    background-color: #fff3ed;
+    background-image: url("https://scp-wiki.wdfiles.com/local--files/theme%3Aad-abyssum/tacttheo_sidebar_compressed.png");
+    background-position: bottom;
+    background-size: 100%;
+}
+
+#interwiki .side-block .menu-item a {
+    color: #952b00;
+}
+
+/* === BODY AREA === */
+
+#main-content {
+    margin: 0 12em 0 12em;
+}
+
+/* Page Title */
+
+#page-title {
+    border-color: #591900;
+    text-align: center;
+    color: #591900;
+}
+
+#breadcrumbs {
+    text-align: center;
+}
+
+/* Rating Module */
+
+.page-rate-widget-box {
+    box-shadow: 0em 0em 0em #000000;
+}
+ 
+.page-rate-widget-box .rate-points,
+.page-rate-widget-box > *,
+.rate-box-with-credit-button {
+    background-color: #591900 !important;
+    border: none !important;
+}
+ 
+.page-rate-widget-box .rateup a,
+.page-rate-widget-box .ratedown a,
+.page-rate-widget-box .cancel a {
+    background: transparent;
+    color: #ffffff;
+    transition-duration: 0.3s;
+}
+ 
+.page-rate-widget-box .rateup a:hover,
+.page-rate-widget-box .ratedown a:hover,
+.page-rate-widget-box .cancel a:hover {
+    background: rgba(255, 255, 255, 0.3);
+    transition-duration: 0.3s;
+}
+
+/* === PAGE ELEMENTS === */
+
+div.blockquote,
+blockquote {
+    background-color: #ffc2814f;
+    border: 0.063em solid #5919004f;
+}
+
+h1 {
+    color: #952b00;
+}
+
+hr {
+    background-color: #591900;
+}
+
+a {
+    color: #bb2c00;
+}
+
+a:visited {
+    color: #883a22;
+}
+
+table.wiki-content-table th {
+    background-color: #ffc2814f;
+}
+
+/* Tabbers */
+
+.yui-navset .yui-nav .selected a,
+.yui-navset .yui-nav .selected a:focus,
+.yui-navset .yui-nav .selected a:hover {
+    background-color: #952b00;
+    background-image: none;
+    border: none;
+}
+ 
+.yui-navset .yui-nav a,
+.yui-navset .yui-nav a:hover,
+.yui-navset .yui-nav a:focus {
+    background-color: #591900;
+    background-image: none;
+    border: none;
+    color: #ffffff;
+}
+
+.yui-navset .yui-content {
+    background-color: #ffc2814f;
+    background-image: url("https://scp-wiki.wdfiles.com/local--files/theme%3Aad-abyssum/Department%20of%20Tactical%20Theology%20Inverted%20Transparent.png");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: 75%;
+    border: 0.063em solid #5919004f;
+    text-shadow: 0px 0px 1px #ffc2814f;
+}
+
+.yui-navset .yui-nav {
+    align-items: end;
+    border: none;
+    display: flex;
+    justify-content: center;
+    padding-bottom: 0.0625rem;
+}
+
+.yui-navset .yui-nav a em {
+    border: none;
+}
+
+/* === MOBILE ADJUSTMENT === */
+
+@media (min-width: 767px) and (max-width: 1581px) {
+
+    #side-bar {
+        left: 2em;
+    }
+
+    #main-content {
+        margin: 0 2em 0 22em;
+    }
+
+}
+
+@media (max-width: 900px) {
+
+    #header {
+        background-size: 33%;
+    }
+
+}
+
+@media (max-width: 767px) {
+
+    #side-bar {
+        left: -25em;
+    }
+
+    .mobile-top-bar {
+        display: flex;
+        justify-content: center;
+        left: unset;
+    }
+
+    #main-content {
+        margin: auto;
+    }
+
+    #login-status {
+        margin-left: 4.125em;
+        width: 65%;
+    }
+
+}
+
+@media (max-width: 500px) {
+
+    #header {
+        background-size: 50%;
+    }
+
+}
+
+/* === OTHER === */
+
+/* "Preview" Notice */
+
+.preview-message {
+    background-color: #ffead4;
+    border-style: solid;
+    opacity: 0.95;
+}
+
+/* Wikidot Licensing Notice */
+
+#license-area a::after {
+    content: ". "
+}
+
+#license-area::after {
+    content: "May God have mercy upon our souls."
+}
+
+/* Ayers Info Bar */
+
+.info-container .collapsible-block .collapsible-block-folded,
+.info-container .collapsible-block .collapsible-block-unfolded-link,
+#u-author_block > p > a {
+    --barColour: #591900;
+}
+
+[[/code]]
+[[/iftags]]

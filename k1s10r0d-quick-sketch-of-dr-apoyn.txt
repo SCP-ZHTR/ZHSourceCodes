@@ -1,0 +1,21 @@
+[[include :scp-wiki:component:black-highlighter-theme-dev]]
+[[include :scptestwiki:component:rounderformat]]
+
+[[include info:start]]
+作者：[[*user k1s10r0d]]
+[[include info:end]]
+----
+@@ @@
+@@ @@
+@@ @@
+[[=]]
+++++ 「那個常來找主任的02站人員。」
+[[/=]]
+[[>]]
++++++ -Dr. Kris
+[[/>]]
+@@ @@
+@@ @@
+@@ @@
+
+[[image https://imgur.com/oT0jz1M.jpg]]

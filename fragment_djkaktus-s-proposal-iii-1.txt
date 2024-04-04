@@ -1,0 +1,357 @@
+[[include :scp-zh-tr:theme:black-highlighter-theme]]
+[[include :scp-zh-tr:theme:ouroborous-theme]]
+------
+[[module css]]
+#page-content > div:nth-child(2) > img:nth-child(1),
+div.list-pages-box:nth-child(2) > div:nth-child(1) > div:nth-child(2) > img:nth-child(1) {
+    mix-blend-mode: screen;
+}
+[[/module]]
+[[=]]
+[[image https://scp-wiki.wdfiles.com/local--files/fragment:djkaktus-s-proposal-iii-1/twieheader.png]]
+
+**德賽羅目錄編號：** SC-001/13-001/01
+
+**文件類型：** 工作模式總則
+
+**收件日期：** N/A
+
+**執行狀態：** 完結
+[[/=]]
+
+-----
+[[=]]
+**前言：** 我等，德爾塔指揮部，特此撰寫本文件主旨之工作模式總則摘要。
+
+**我等掌握了以下不可逃避之真實：**
+
+基金會監督者為了自身的邪惡私慾，竄改了現實的結構。
+
+所謂現實乃是我等宇宙一切超自然活動的根源。
+
+**我等將對其提出以下指控：**
+[[/=]]
+
+* ##c90000|**十三號監督者**## - //此人在其骯髒的契約褻瀆了自然秩序，妨礙了死亡之手，篡奪生命那脆弱的平衡，為基金會那些可怕的狼狽為奸之徒，提供了不可摧毀的盾牌。//
+
+* ##c90000|**十二號監督者**## - //此人竊取了世上的各種財富，以滿足基金會那陰險設計之所需，掠奪無數人的成果，就為了使那些勞動者爭逐惡鬥。//
+
+* ##c90000|**十一號監督者**## - //此人為了維護基金會的利益，在全世界的眾人間編織了天衣無縫的彌天大謊，並在虛無中投下了黑暗之眼，以煤氣燈與扭曲真實的人類理解。//
+
+* ##c90000|**十號監督者**## - //對基金會褻瀆的行為留下了可疑的紀錄，並透過竄改歷史強迫其與之適應，此人愚弄著真理與理性，就為了維護基金會那殘酷的遺產。//
+
+* ##c90000|**九號監督者**## - //此人背叛了曾經同伴的信任，對那癌化的議會宣誓效忠，一次又一次拒絕了擊倒議會的機會，不斷延續該組織那些貪婪的意圖。//
+
+* ##c90000|**八號監督者**## - //對無知的公眾犯了惡行，毫不在乎的按下了核武器的按鈕，在這早該在搖籃中就被扼殺的組織中，第一個為其注入生命之人。//
+
+* ##c90000|**七號監督者**## - //為了基金會的利益，操縱著無知的民眾製造混亂與破壞，對那些無辜與無知者滿懷著輕蔑與惡意。//
+
+* ##c90000|**六號監督者**## - //此人利用了美國軍事機器的力量，粉碎那些基金會的敵人，並捏造了無止境血腥暴力的故事，永永遠遠的玷汙整個世界。//
+
+* ##c90000|**五號監督者**## - //此人扭曲了時間與空間的界線，以擴張基金會殘酷影響所能及之地，並從遙遠的地方迎來黑暗的可怕秘密，用以推動基金會的死亡機器。//
+
+* ##c90000|**四號監督者**## - //誘使各國相信基金會不具有惡意，同時又與那些想使這個星球淪為廢墟的小人同流合汙。//
+
+* ##c90000|**三號監督者**## - //此人利用人類所有的技術反過來對付人類，作為監督者的全視觀察者，編織了鋪天蓋地的全知之眼，連人類最後一絲的隱私與體面都要侵奪殆盡。//
+
+* ##c90000|**二號監督者**## - //同謀。//
+
+* ##c90000|**一號監督者**## - //此人就是這個妖魔議會的建立者，這些議員響應其召喚，一切都是為了讓此人安坐在基金會腐爛傷口上的骯髒王座，宛如狼犬般舔拭那滲出膿液的口子。//
+
+-----
+
+[[=]]
+監督者對世界癌化的異常影響，就是宇宙結構上一道傷口。
+
+除非那刺激物能徹底根除，否則這潰爛的傷口根本就無從癒合。
+
+十三監督者議員就是我等現實傷口上的刺激物。
+
+十三監督者議員應該受到徹底根除。
+
+在輪機師與解任人的指令下，我等將對此異常高舉反旗。
+
+我等將對褻瀆自然之舉高舉反旗。
+
+我等將站在反叛軍的立場，對此等混亂高舉反旗。
+
+我等的道路已然明晰，我等的視野毫無掩蔽。我等將清洗傷口。我等必將使宇宙癒合。
+
+##c90000|我等必須摧毀十三基金會監督者。##
+
+-----
+
+為此，我等德爾塔指揮部紀錄了渾沌反叛軍輪機師轉錄之//工作模式總則//。
+
+**1. 步驟001/13**
+[[collapsible show="開啟檔案" hide="關閉檔案"]]
+[[<]]
+[[div style="center no-repeat ; float: center; border: solid 2px #141414; background-color: #000000; width: auto; height: auto; padding: 1px 15px; margin: 10px 10px 10px 40px; box-shadow: 0 1px 3px rgba(0,0,0,.2);"]]
+[[f>image https://scp-wiki.wdfiles.com/local--files/fragment:djkaktus-s-proposal-iii-1/13.jpg width="150 px" style="border: solid 3px #141414;"]]
+
+##c90000|**O5-13 - 另一位監督者**##
+
+原名Felix Carter博士。白人男性。出生日期不詳。曾經是研究組織「國際存在主義科學院」的醫師。是O5-1與名喚「管理員」之人的早期共謀者。據稱此人是與死神進行交易的籌碼之一，允許死神在議會中擁有一席之地，並極大幅度延長了監督者的壽命。認定此人極度危險。所在位置僅能推測，推測是無法到達之處。
+
+**完整解密：** [/djkaktus-s-proposal-iii/offset/2 存取紀錄]
+
+**日誌條目：** [/djkaktus-s-proposal-iii/offset/3 十三號監督者]
+[[/div]]
+[[/<]]
+[[/collapsible]]
+
+**2. 步驟001/12**
+[[collapsible show="開啟檔案" hide="關閉檔案"]]
+[[<]]
+[[div style="center no-repeat ; float: center; border: solid 2px #141414; background-color: #000000; width: auto; height: auto; padding: 1px 15px; margin: 10px 10px 10px 40px; box-shadow: 0 1px 3px rgba(0,0,0,.2);"]]
+[[f>image https://scp-wiki.wdfiles.com/local--files/fragment:djkaktus-s-proposal-iii-1/12.jpg width="150 px" style="border: solid 3px #141414;"]]
+
+##c90000|**O5-12 - 會計**##
+
+過去名稱未知。非裔男性。看起來40多歲。金融業界的著名人物，但幾乎未曾於公開場合發言。穿著昂貴的定製服裝，配戴與之相配的珠寶飾品，臉上還戴著黑框眼鏡。似乎是個數學天才，據稱有能力在腦海中直接進行機率本身的演算。可能是異常的產物。基金會財務帳戶的維護者。
+
+操縱貿易市場以為基金會累積財富，進而也為自己累積財富。據稱其職員在世界各大重要政府的財務委員會中都有著高級職位。
+
+**完整解密：** [/djkaktus-s-proposal-iii/offset/4 存取紀錄]
+
+**日誌條目：** [/djkaktus-s-proposal-iii/offset/5 十二號監督者]
+[[/div]]
+[[/<]]
+[[/collapsible]]
+
+**3. 步驟001/11**
+[[collapsible show="開啟檔案" hide="關閉檔案"]]
+[[<]]
+[[div style="center no-repeat ; float: center; border: solid 2px #141414; background-color: #000000; width: auto; height: auto; padding: 1px 15px; margin: 10px 10px 10px 40px; box-shadow: 0 1px 3px rgba(0,0,0,.2);"]]
+[[f>image https://scp-wiki.wdfiles.com/local--files/fragment:djkaktus-s-proposal-iii-1/11.jpg width="150 px" style="border: solid 3px #141414;"]]
+
+##c90000|**O5-11 - 騙子**##
+
+出生日期不詳。血統與族裔未知。性別未知。難以辨識的存在。唯一的識別特徵是左太陽穴的小疤痕，而這個特徵通常會被此人的頭髮遮蔽起來。通常以身著豪華服飾的富家女性形象出現。基金會內部主要的假情報實體。負責監管掩蓋故事團隊與記憶刪除劑的投用。據稱與孟加拉灣的巨大水生實體有關。可能具有現實扭曲特性。極度的危險。
+
+值得注意的是，似乎不存在任何O5-11任命相關的紀錄。與其他成員不同，既不是在O5-1的選擇下成為議會最初成員，也不是在任何成員（不可挽回的）死亡後經過決議通過加入議會，O5-11似乎就是有一天突然出現在了議會之中。
+
+**完整解密：** [/djkaktus-s-proposal-iii/offset/6 存取紀錄]
+
+**日誌條目：** [/djkaktus-s-proposal-iii/offset/7 十一號監督者]
+[[/div]]
+[[/<]]
+[[/collapsible]]
+
+**4. 步驟001/10**
+[[collapsible show="開啟檔案" hide="關閉檔案"]]
+[[<]]
+[[div style="center no-repeat ; float: center; border: solid 2px #141414; background-color: #000000; width: auto; height: auto; padding: 1px 15px; margin: 10px 10px 10px 40px; box-shadow: 0 1px 3px rgba(0,0,0,.2);"]]
+[[f>image https://scp-wiki.wdfiles.com/local--files/fragment:djkaktus-s-proposal-iii-1/10.jpg width="150 px" style="border: solid 3px #141414;"]]
+
+##c90000|**O5-10 - 檔案員**##
+
+原名Diane Walters，圖書管理員。白人女性。看起來40多歲。可能與流浪者圖書館存在密切聯繫。對基金會涉入過往世界末日的情況有著通盤了解。據稱自從此人就任議會成員之始，就一直維持著對地球上所有活動的全面紀錄。這些紀錄在黃石公園地下機器的運作中得到了廣泛使用。
+
+有消息來源指出，O5-10是議會中嗜血的成員。根據該消息來源指稱，此人癡迷於自身與議會的神性，並認為自己凌駕於任何自然法則。在此人的眼中，普通的人類不過是犧牲品，是為了能達到對普世真理更大理解而踩上的墊腳石。
+
+部分資料顯示，此人似乎完全沉醉於全知全能的理想。這點還未得到證實。
+
+**完整解密：** [/djkaktus-s-proposal-iii/offset/8 存取檔案]
+
+**日誌條目：** [/djkaktus-s-proposal-iii/offset/9 十號監督者]
+[[/div]]
+[[/<]]
+[[/collapsible]]
+
+**5. 步驟001/09**
+[[collapsible show="開啟檔案" hide="關閉檔案"]]
+[[<]]
+[[div style="center no-repeat ; float: center; border: solid 2px #141414; background-color: #000000; width: auto; height: auto; padding: 1px 15px; margin: 10px 10px 10px 40px; box-shadow: 0 1px 3px rgba(0,0,0,.2);"]]
+[[f>image https://scp-wiki.wdfiles.com/local--files/fragment:djkaktus-s-proposal-iii-1/9.jpg width="150 px" style="border: solid 3px #141414;"]]
+
+##c90000|**O5-9 - 局外人**##
+
+毛利族裔成年女性。看起來30多歲。據信是當前議會中唯一自基金會外部尋來的成員。儘管存在部分矛盾之處，但此人與Donna Whetu Taylor有著相當驚人的相似之處，後者是一名地質學家，並在1985年涉入重大學術劣行的大規模醜聞揭發案，專業信譽全毀，捲入一系列詐欺與濫用公共資金訴訟後，似乎最終選擇了自我了斷。
+
+考慮到他的科學背景，O5-9似乎在議會中有著最為專注的研究者頭腦。此人在任何時候都掌握著多個研究項目，有幾個已經成為了基金會大量應用的重要技術，例如康德計數器。
+
+作為議會中相對神秘的成員之一，局外人鮮少在監督者指揮部以外的地方現身。值得注意的是，此人加入議會引起了數名成員的詬病，這些人都認為此人目光短淺。
+
+**完整解密：** [/djkaktus-s-proposal-iii/offset/10 存取紀錄]
+
+**日誌條目：** [/djkaktus-s-proposal-iii/offset/11 九號監督者]
+[[/div]]
+[[/<]]
+[[/collapsible]]
+
+**6. 步驟001/08**
+[[collapsible show="開啟檔案" hide="關閉檔案"]]
+[[<]]
+[[div style="center no-repeat ; float: center; border: solid 2px #141414; background-color: #000000; width: auto; height: auto; padding: 1px 15px; margin: 10px 10px 10px 40px; box-shadow: 0 1px 3px rgba(0,0,0,.2);"]]
+[[f>image https://scp-wiki.wdfiles.com/local--files/fragment:djkaktus-s-proposal-iii-1/8.jpg width="150 px" style="border: solid 3px #141414;"]]
+
+##c90000|**O5-8 - 鼠輩**##
+
+白人男性。年齡未知。可能就是前美國企業家Leeman Hoadley男爵，後者在其公司B.G.霍得利集團（後來受到凱威國際收購）持有火車脫軌後，推測已經與列車上絕大部分的成員一同死亡。
+
+許多資料來源顯示，O5-8在議會初期掌有相當大的控制權，這很大程度是源於透過其兄弟Garrison Hoadley取得的大量金融資產。在其兄弟死後，此人的公司遭到出售，手上的權力也大幅減少，並在最終由於議會實際領導人對O5-7的支持被逐出議會。
+
+在那之後儘管此人還擁有議會的投票權，但幾乎已經不存在任何影響力了。據稱此人在日後的生活中，迷上了異常技術與造物對自我身體與靈魂的改造。妄想症患者。總想著議會的其他成員有將其刺殺的打算。
+
+**完整解密：** [/djkaktus-s-proposal-iii/offset/12 存取紀錄]
+
+**日誌條目：** [/djkaktus-s-proposal-iii/offset/13 八號監督者]
+[[/div]]
+[[/<]]
+[[/collapsible]]
+
+**7. 步驟001/07**
+[[collapsible show="開啟檔案" hide="關閉檔案"]]
+[[<]]
+[[div style="center no-repeat ; float: center; border: solid 2px #141414; background-color: #000000; width: auto; height: auto; padding: 1px 15px; margin: 10px 10px 10px 40px; box-shadow: 0 1px 3px rgba(0,0,0,.2);"]]
+[[f>image https://scp-wiki.wdfiles.com/local--files/fragment:djkaktus-s-proposal-iii-1/7.jpg width="150 px" style="border: solid 3px #141414;"]]
+
+##c90000|**O5-7 - 綠**##
+
+白人女性。英/德血統。年紀看起來50出頭。在前任O5-7被認定不再具有價值之後，成為了首位並非O5-1任命而是議會投票通過加入的成員。據信他曾擔任過站點主任，不過相關紀錄早已遭到了竄改或直接刪除。無論如何，相信O5-7幾乎畢生都在基金會內工作，僅僅14歲他就已經早早登上了行政管理層。
+
+此人已然成為了議會的實際領袖，並在這個位置上掌握著相當巨大的權柄。儘管理論上O5-1能發動否決權推翻其掌握的控制權，但這種事情從未發生過。
+
+可能是議會中最常出現的成員，由於此人經常穿著綠色的女性套裝現身，獲得了「綠」的稱呼。基金會有些高層職員還給此人起了另一個稱呼：「捕蠅草」。
+
+多被描述為議會中最凶險的成員。儘管其他成員可能也有邪惡的意圖或別有用心的動機，但只有O5-7有著使其所想一切發生的權能。多被描述為是為了某個特定目的而工作，不過確切目的未知。
+
+**完整解密：** [/djkaktus-s-proposal-iii/offset/14 存取紀錄]
+
+**日誌條目：** [/djkaktus-s-proposal-iii/offset/15 七號監督者]
+[[/div]]
+[[/<]]
+[[/collapsible]]
+
+**8. 步驟001/06**
+[[collapsible show="開啟檔案" hide="關閉檔案"]]
+[[<]]
+[[div style="center no-repeat ; float: center; border: solid 2px #141414; background-color: #000000; width: auto; height: auto; padding: 1px 15px; margin: 10px 10px 10px 40px; box-shadow: 0 1px 3px rgba(0,0,0,.2);"]]
+[[f>image https://scp-wiki.wdfiles.com/local--files/fragment:djkaktus-s-proposal-iii-1/6.jpg width="150 px" style="border: solid 3px #141414;"]]
+
+##c90000|**O5-6 - 美國佬**##
+
+白人男性。西班牙血統。看起來50歲左右。議會中最不隱藏自我的成員，此人正是前美國聯邦准將Rufus King。在南北戰爭中為北方軍作戰後，O5-6受命赴任駐教廷公使。據信此人就是在羅馬首度見到了那名被稱為管理員的人。無法得知此人是如何與死神交易前活到如此長壽的，如果當前對議會的了解都正確無誤，儘管其外貌如此，但此人將是目前議會中最年長的成員。
+
+據信O5-6即是第一支機動特遣隊Alpha-1「血色右手」的成員，該隊伍起初創建目的是在新生渾沌反叛軍成立後，將反叛軍抓出並摧毀其所有成員。從那時起，此人就管理著的高層軍備──應用影響部的一切事務，這包括了所有特遣隊、海軍集團、空中優勢集團。儘管O5-6最初並不同意創建，但據稱在Bowe將軍的授意下，此人仍為了MTF Omega-7「潘朵拉的盒子」起草了最初的組織資訊。
+
+在現代軍事界中交替使用著多個名字，據稱在五角大廈建成以來，此人就一直在五角大廈中擔任要職。此人在美國軍方的地位不明，但至少有三個重要消息來源指稱，許多軍事領導人都將其視為權力僅次於總統的存在，也有些人認為此人權力更勝於總統。
+
+**完整解密：** [/djkaktus-s-proposal-iii/offset/16 存取紀錄]
+
+**日誌條目：** [/djkaktus-s-proposal-iii/offset/17 六號監督者]
+[[/div]]
+[[/<]]
+[[/collapsible]]
+
+**9. 步驟001/05**
+[[collapsible show="開啟檔案" hide="關閉檔案"]]
+[[<]]
+[[div style="center no-repeat ; float: center; border: solid 2px #141414; background-color: #000000; width: auto; height: auto; padding: 1px 15px; margin: 10px 10px 10px 40px; box-shadow: 0 1px 3px rgba(0,0,0,.2);"]]
+[[f>image https://scp-wiki.wdfiles.com/local--files/fragment:djkaktus-s-proposal-iii-1/5.jpg width="150 px" style="border: solid 3px #141414;"]]
+
+##c90000|**O5-5 - 黑鳥**##
+
+男性。英國/摩洛哥血統。年齡未知。一般被認為是議會中最愛開玩笑的成員，也不怕被人看見他在公共場合開玩笑。此人經常對監督者指揮部乃至基金會其他部門間的「黑幕」表達異議，聲稱這些「不必要的嚴肅」是個荒謬且往往有害的笑話。
+
+儘管如此，O5-5仍圍繞著數個不協調的地方。部分消息來源指出，他們確信自己聽見了O5-5在自言自語，就像是在與其他人對話一般。也有人聲稱與O5-5二度交談時，感覺到自己並不是在跟同一人交談。在[[[SCP-1730]]]無效化匯報中，有消息來源指稱一名獲救的Site-13職員指認出了O5-5的照片，並聲稱該員是全球超自然聯盟的成員。
+
+除了籌建超常組織審查部門外，O5-5似乎還主導了大量他版現實的研究，據悉當出現跨維度互動的異常時，此人都會親自審查相關事項。
+
+**完整解密：** [/djkaktus-s-proposal-iii/offset/18 存取紀錄]
+
+**日誌條目：** [/djkaktus-s-proposal-iii/offset/19 五號監督者]
+[[/div]]
+[[/<]]
+[[/collapsible]]
+
+**10. 步驟001/04**
+[[collapsible show="開啟檔案" hide="關閉檔案"]]
+[[<]]
+[[div style="center no-repeat ; float: center; border: solid 2px #141414; background-color: #000000; width: auto; height: auto; padding: 1px 15px; margin: 10px 10px 10px 40px; box-shadow: 0 1px 3px rgba(0,0,0,.2);"]]
+[[f>image https://scp-wiki.wdfiles.com/local--files/fragment:djkaktus-s-proposal-iii-1/4.jpg width="150 px" style="border: solid 3px #141414;"]]
+
+##c90000|**O5-4 - 大使**##
+
+波斯裔男性，伊朗/亞美尼亞籍。法國出身。年齡約30出頭。部分消息來源聲稱，O5-4原先是法國演員Jean Lemieux Betrand，本名為Jean Ebrahimi。大部分O5-4行跡證據似乎在就任監督者議會成員後不久就被銷毀了，因此對此人的職業生涯所知資訊甚少。
+
+O5-4通常被稱為「大使」，每當議會需要張漂亮臉蛋出面時，此人就是那個行動首選。此人經常被描述為具有難以置信的吸引力與異常魅力，每當有需要時，此人就會出馬作為基金會的推銷員。消息來源指稱，此人在第二次世界大戰期間接獲了第一個任務，要求此人將美國人的注意力從墨西哥中引開，這可能與當時墨西哥出現的嚴重異常活動有關。
+
+儘管具有極佳的口才與優良教養，O5-4並不是學者，對管理組織前景也不怎麼感興趣。據悉他會將自己得到的職務盡可能下放，使自己身上擔負的責任盡可能地少。這種對領導職務缺乏熱情的態度是O5-7造成的──後者說服了大使，對他可能支持的任何決議投出非正式的「自動同意票」。
+
+**完整解密：** [/djkaktus-s-proposal-iii/offset/20 存取紀錄]
+
+**日誌條目：** [/djkaktus-s-proposal-iii/offset/21 四號監督者]
+[[/div]]
+[[/<]]
+[[/collapsible]]
+
+**11. 步驟001/03**
+[[collapsible show="開啟檔案" hide="關閉檔案"]]
+[[<]]
+[[div style="center no-repeat ; float: center; border: solid 2px #141414; background-color: #000000; width: auto; height: auto; padding: 1px 15px; margin: 10px 10px 10px 40px; box-shadow: 0 1px 3px rgba(0,0,0,.2);"]]
+[[f>image https://scp-wiki.wdfiles.com/local--files/fragment:djkaktus-s-proposal-iii-1/3.jpg width="150 px" style="border: solid 3px #141414;"]]
+
+##c90000|**O5-3 - 孩童**##
+
+年齡未知。性別未知。族裔未知。對O5-3本質的所知甚少。消息來源經常將此人描述為非人，而是用來製造其他人工智慧的人工智慧。此人未曾在監督者指揮部以外的地方現身過，僅僅曾透過螢幕上的化身出現，並以數位構建的聲音發言。有消息來源聲稱找到了O5-3的唯一影像，那是一名身著韓國傳統服飾，非常年輕的韓國孩童，沒有任何監督者相關的證詞可以支持該情報。
+
+據稱此人是紀錄和資訊安全管理部主管Maria Jones的直接報告對象，在基金會數據轉入數位化後，此人就從檔案員手中奪取了這個權力。
+
+值得注意的是，基金會的AIC單元（例如Alexandra與Thorn）無法討論O5-3，不過有證據顯示，隨著時間的推移，此人的資訊將會在那數據庫中逐漸累積起來。
+
+**完整解密：** [/djkaktus-s-proposal-iii/offset/22 存取紀錄]
+
+**日誌條目：** [/djkaktus-s-proposal-iii/offset/23 三號監督者]
+[[/div]]
+[[/<]]
+[[/collapsible]]
+
+**12. 步驟001/02**
+[[collapsible show="開啟檔案" hide="關閉檔案"]]
+[[<]]
+[[div style="center no-repeat ; float: center; border: solid 2px #141414; background-color: #000000; width: auto; height: auto; padding: 1px 15px; margin: 10px 10px 10px 40px; box-shadow: 0 1px 3px rgba(0,0,0,.2);"]]
+[[f>image https://scp-wiki.wdfiles.com/local--files/fragment:djkaktus-s-proposal-iii-1/2.jpg width="150 px" style="border: solid 3px #141414;"]]
+
+##c90000|**O5-2 - 拿薩勒人**##
+
+女性。中東血統。看起來20多歲。這個被稱為「拿薩勒人」的相關資訊甚少，甚至連得名原因都不得而知。唯一能提供此人相關資訊的消息來源堅持以下兩點情報：此人從未在O5-1不在場的情況下出現過，此人會隨著時間的推移有所變化。
+
+基金會早期文件提及O5-2曾是基金會道德部（今日的倫理委員會）的負責人，儘管此人似乎未曾在此職務上有所建樹。
+
+有消息來源指稱，此人的名稱恐怕是源於以下事實：由於從未見過此人在公共場合將手上的那副深色手套摘下，有些人認為這是在隱藏作為代替耶穌受難拿薩勒人在手上留下的傷疤。然而，無法查明這些流言的源頭，該結論的最初推導過程我們也不得而知。
+
+**完整解密：** [/djkaktus-s-proposal-iii/offset/24 存取紀錄]
+[[/div]]
+[[/<]]
+[[/collapsible]]
+
+**13. 步驟001/01**
+[[collapsible show="開啟檔案" hide="關閉檔案"]]
+[[<]]
+[[div style="center no-repeat ; float: center; border: solid 2px #141414; background-color: #000000; width: auto; height: auto; padding: 1px 15px; margin: 10px 10px 10px 40px; box-shadow: 0 1px 3px rgba(0,0,0,.2);"]]
+[[f>image https://scp-wiki.wdfiles.com/local--files/fragment:djkaktus-s-proposal-iii-1/1.jpg width="150 px" style="border: solid 3px #141414;"]]
+
+##c90000|**O5-1 - 奠基者**##
+
+白人男性。看起來30多歲。據信此人即是Aaron Siegel，是20世紀初在康乃爾大學就學的物理學家。在跨世紀後不久便與日後被稱為管理員之人Frederick Williams開始往來。
+
+與O5-13、O5-10、O5-2等人共同領導最終成為SCP基金會的最初研究小組。當前未知使其創立並指揮基金會的契機。
+
+儘管曾經相當積極的參與基金會的日常運作，但近年來O5-1已經從當中抽身，並在過去的數十年來從未在公開場合露面過，僅僅留下了O5-7使其管理整個組織。儘管曾多次假設此人已經死亡，但有非常高級的消息來源證實此人還在議會上行使投票權。
+
+雖然幾乎所有監督者都擁有自己的私人住宅，但據信O5-1就住在監督者指揮部內。該設施的具體位置未知。
+
+**完整解密：** [/djkaktus-s-proposal-iii/offset/25 存取紀錄]
+
+**後記：** [/djkaktus-s-proposal-iii/offset/26 銜尾蛇]
+[[/div]]
+[[/<]]
+[[/collapsible]]
+
+@@@@
+@@@@
+
+[[image https://scp-wiki.wdfiles.com/local--files/fragment:djkaktus-s-proposal-iii-1/bottombar.png]]
+[[/=]]

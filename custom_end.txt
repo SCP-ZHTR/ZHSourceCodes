@@ -1,0 +1,7 @@
+[[%%content{0}%%/module]]
+[[include :topia:inc-loop c=__________|p=:scp-zh-tr:custom:end-backend]]
+|name=%%name%%
+]]
+[[/module]]
+[[/div]]
+[[/iftags]]

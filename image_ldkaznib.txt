@@ -1,0 +1,6 @@
+image: 'https://i.imgur.com/WSPdeJ8.jpg'
+owner: 'Edward Knave'
+owner-wiki: edward-knave
+license: '0'
+other-license: ''
+note: 建議用於抵抗常規偵測及紀錄的項目。

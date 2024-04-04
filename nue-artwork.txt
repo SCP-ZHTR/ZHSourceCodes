@@ -1,0 +1,63 @@
+[[include credit:start]]
+**標題：** 日本支部理事「鵺」
+**插畫：** ©︎[[*user hitsujikaip]]
+**創作年份：** 2020
+[[note]]
+搬運者註解：「鵺」日文讀作nue，中文讀作夜。
+[[/note]]
+[[include credit:end]]
+
+[[module CSS]]
+@import url('https://fonts.googleapis.com/css2?family=Zen+Antique+Soft&display=swap');
+.vtitle {
+    -webkit-writing-mode: vertical-rl;
+    writing-mode: vertical-rl;
+    margin: 3em auto;
+    height: 16em;
+    font-size: 2.5em;
+    font-family: 'Zen Antique Soft', serif;
+}
+[[/module]]
+
+[[div class="vtitle"]]
+「射干玉の
+　　黒き月か吼ゆる」と
+　　　[/nue-hub 奴延鳥]の
+　　　　のどよひ居るを
+　　　　　よすかと思ふ
+[[/div]]
+
+[[div class="vtitle"]]
+夫啼血歌曰：
+「月黑比烏蒲者咆哮乎」者
+　　[/nue-hub 奴延鳥]也
+　　　予觀而默想
+　　　　此間堪可棲跡
+[[/div]]
+
+[[image http://scp-jp-storage.wdfiles.com/local--files/file:6611312-104-i4of/logo.png]]
+
+[[image http://scp-jp-storage.wdfiles.com/local--files/file:6611312-105-2nqw/nue.png]]
+
+[[div style="height: 50vh"]]
+[[/div]]
+
+[[collapsible show="歸檔紀錄-1" hide="關閉"]]
+[http://scp-jp.wikidot.com/japanese-area-directors 日本支部と日本支部理事会のオリエンテーションマニュアル]
+**條目作者：** ©︎[[*user Kwana]]
+**條目創作年：** 2014
+
+[http://scp-jp.wikidot.com/mishary-s-proposal 禦舍利の提言　第〇〇〇八番]
+**條目作者：** ©︎[[*user Mishary]]
+**條目創作年：** 2020
+
+[http://scp-jp.wikidot.com/scp-1111-jp SCP-1111-JP] - 国体護持
+**條目作者：** ©︎[[*user hannyahara]]
+**條目創作年：** 2016
+[[image http://scp-jp.wdfiles.com/local--files/nue-artwork/01.png]]
+[[/collapsible]]
+
+
+[[collapsible show="歸檔紀錄-2" hide="關閉"]]
+[[image http://scp-jp-storage.wikidot.com/local--files/file:6611312-1-tzfa/nue.png]]
+[[/collapsible]]

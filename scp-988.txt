@@ -1,0 +1,51 @@
+[[include component:scp-meta-title-hiding css-style=classic]]
+[[include info:start]]
+**原文：[http://www.scp-wiki.net/SCP-988 SCP-988 - 不能打開的木箱]**
+**作者** : [[*user Seibai]]
+**譯者** : [[*user minmasterqw]]
+[[include info:end]]
+
+[[include component:image-block name=https://scp-wiki.wdfiles.com/local--files/scp-988/WoodenChest.jpg|caption=SCP-988]]
+
+
+**項目編號：**SCP-988
+
+**項目等級：** Safe
+
+**特殊收容措施：** SCP-988應收容在一個上鎖、沒有任何光源及觀察用窗口的收容間內。應保持SCP-988的上鎖狀態，並用掛鎖固定，鑰匙應存放在單獨的設施中。
+
+不得對SCP-988進行任何形式的實驗。
+
+**描述：** SCP-988是一個無法打開的木箱。
+
+SCP-988的尺寸約為1.5米×0.5米×0.75米，由橡木和鐵質配件組成。在沒有使用掛鎖固定的情況下，門閂可以自由移動。藉輕輕地移動箱蓋，亦發現可以在鉸鏈上自由移動。
+
+當SCP-988被提起並傾斜時，可以感覺到有物體在裏面移動。上述物體推測具有不規則的形狀，估計約重3公斤。
+
+盡管沒有任何明顯的障礙，但SCP-988仍是無法打開。所有的嘗試都因為外部因素而失敗。在53次有紀錄的嘗試當中：其中一個打算直接用手打開SCP-988的人，在前往SCP-988的所在地途中迷路並受傷，所以無法到達。又有9次是在完成實驗前，因明顯的自然原因而死。
+
+而試圖通過機器或其他間接機制打開SCP-988的實驗，有紀錄的則有七次。分別因為電氣短路、機械卡死，以及意外將一瓶環氧樹脂誤標為潤滑劑引致實驗中止。上述「無法打開 」的特性還延伸到藉掃描得知SCP-988內容物等間接方式。由於類似的情況，對項目進行聲像、電磁和被動成像的實驗皆以失敗告終。
+
+將試圖打開SCP-988的結果與使用精算表進行統計後發現，所有概率與常規概率一致，只有物體被打開的可能性被完全排除。目前尚不清楚SCP-988阻止其被打開的確切機制。
+
+[[footnoteblock]]
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[SCP-987]]] | SCP-988 | [[[SCP-989]]] >>
+[[/=]]
+[[/div]]
+[[include :scp-zh-tr:component:license-box
+|author=Seibai
+|lang= ]]
+=====
+> **檔案名稱:** WoodenChest.jpg
+> **圖像名稱:** Box 1 -Wooden Chest.
+> **圖像作者:** Brenda Clarke
+> **圖像授權協議:** CC BY 2.0
+> **圖源連結:** [https://www.flickr.com/photos/brenda-starr/3466702375/in/photostream/ Flickr]
+=====
+[[include :scp-zh-tr:component:license-box-end]]

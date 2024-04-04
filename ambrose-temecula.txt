@@ -1,0 +1,375 @@
+[[include info:start]]
+原文：[http://www.scp-wiki.net/ambrose-temecula Ambrose Temecula]
+作者：[[*user Proasek]]
+譯者：[[*user feitag]]
+圖片出處見原作者帖
+[http://www.scp-wiki.net/forum/t-9450664/ambrose-temecula#post-4090206]
+[[include info:end]]
+
+
+[[module CSS]]
+.scp-image-caption {
+    display: none;
+}
+[[/module]]
+> 在執行「快遞服務」行動後，由曾為安布羅斯餐廳所持有的位於加利福尼亞州特曼庫拉市的關注地點回收本文件。本文件將保存以供 MTF Lambda-14 ("一星評價者") 繼續努力打擊該相關組織。
+
+[[div style="border: double 5px #c41525; background-image: radial-gradient(#FFF6CC 40%, #DDCE82); padding: 50px;"]]
+[[span style="color: #efec40; font-size: 3em; line-height: 2em; font-weight: bold; -webkit-text-stroke-width: 1.5px; -webkit-text-stroke-color: #c41524; -moz-text-stroke-width: 1.5px; -moz-text-stroke-color: #c41524;"]]
+= **//安布羅斯//**
+[[/span]]
+
+
+[[table]]
+[[row style="color: #c41524; font-size: 2em; line-height: 3em; font-weight: bold;"]]
+[[cell]]
+//__開胃菜__//
+[[/cell]]
+[[cell]]
+[[>image http://scp-wiki.wdfiles.com/local--resized-images/ambrose-temecula/bluesoup/medium.jpg style="width: 800px; border: 1px solid #c41525; box-shadow: 0 1px 6px rgba(0,0,0,.25);"]]
+[[/cell]]
+[[/row]]
+[[row style="margin-top: 16px"]]
+[[cell]]
+[[size 125%]]**海濱超級蝦：**[[/size]]
+我們的蝦是這個城市最大的蝦，毫無疑問！點購每隻尺寸為 1/4 磅 (約 113 克) 或 1/2 磅 (約 227 克) 的蝦
+[[/cell]]
+[[cell style="text-align: right;"]]
+$4.90
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+@@ @@
+[[/cell]]
+[[/row]]
+[[row style="margin-top: 16px"]]
+[[cell]]
+[[size 125%]]**西海岸之翼：**[[/size]]
+愉快地看著您的辣味翅真的飛出廚房！
+[[/cell]]
+[[cell style="text-align: right;"]]
+$4.30
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+@@ @@
+[[/cell]]
+[[/row]]
+[[row style="margin-top: 16px"]]
+[[cell]]
+[[size 125%]]**降靈湯：**[[/size]]
+我們[[[If You Can't Take The Heat... |著名]]]的藍湯可以讓您和您的親戚一同享用，即便您從未見過他們存活的樣子！每人限用一份，可根據要求提供幽靈餐飲菜單。
+[[/cell]]
+[[cell style="text-align: right;"]]
+$4.30
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+@@ @@
+[[/cell]]
+[[/row]]
+[[row style="margin-top: 16px"]]
+[[cell]]
+[[size 125%]]**特曼庫拉小三明治塔：**[[/size]]
+享受這份特別的開胃菜，體驗接下來半小時的無摩擦人生！ (在不受摩擦定律影響的期間受到的任何傷害，安布羅斯餐廳概不負責。)
+[[/cell]]
+[[cell style="text-align: right;"]]
+$4.75
+[[/cell]]
+[[/row]]
+[[row style="color: #c41524; font-size: 2em; line-height: 3em; font-weight: bold;"]]
+[[cell]]
+//__主菜__//
+[[/cell]]
+[[cell]]
+[[>image http://scp-wiki.wdfiles.com/local--resized-images/ambrose-temecula/potatowedges/medium.jpg style="width: 200px; border: 1px solid #c41525; box-shadow: 0 1px 6px rgba(0,0,0,.25);"]]
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+@@ @@
+[[/cell]]
+[[/row]]
+[[row style="margin-top: 16px"]]
+[[cell]]
+[[size 125%]]**健康沙拉：**[[/size]]
+它看起來可能像一碗溫蔬菜，但是幸虧當地異常藝術家的創新，它嚐起來就像起司漢堡！
+[[/cell]]
+[[cell style="text-align: right;"]]
+$8.50
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+@@ @@
+[[/cell]]
+[[/row]]
+[[row style="margin-top: 16px"]]
+[[cell]]
+[[size 125%]]**奇點鮭魚：**[[/size]]
+一份大型鮭魚餐點，搭配烤馬鈴薯和豆子，這違背了幾何定律！
+[[/cell]]
+[[cell style="text-align: right;"]]
+$12.30
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+@@ @@
+[[/cell]]
+[[/row]]
+[[row style="margin-top: 16px"]]
+[[cell]]
+[[size 125%]]**全能馬鈴薯角：**[[/size]]
+我們的油炸馬鈴薯角優於所有其他菜餚，並且會讓這個事實為人所知！和它們一起放在同個盤子上的任何食物//也會//變成馬鈴薯角！
+[[/cell]]
+[[cell style="text-align: right;"]]
+$9.00
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+@@ @@
+[[/cell]]
+[[/row]]
+[[row style="margin-top: 16px"]]
+[[cell]]
+[[size 125%]]**黑幫餐蠱：**[[/size]]
+當您的餐點的兩半在您的盤子上爭奪霸權時，您會感到震驚無比！勝利者決定味道，從來不會有相同的風味！
+[[/cell]]
+[[cell style="text-align: right;"]]
+$7.00
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+@@ @@
+[[/cell]]
+[[/row]]
+[[row style="margin-top: 16px"]]
+[[cell]]
+[[size 125%]]**染色墨西哥捲餅：**[[/size]]
+用這種美味的墨西哥美食改變您用餐時間的色調！
+[[/cell]]
+[[cell style="text-align: right;"]]
+$11.00
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+@@ @@
+[[/cell]]
+[[/row]]
+[[row style="margin-top: 16px"]]
+[[cell]]
+[[size 125%]]**燒烤魚：**[[/size]]
+根據供應情況，從至少三種現實中擇一精心烤製的 piscomorph。
+[[/cell]]
+[[cell style="text-align: right;"]]
+$7.00
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+@@ @@
+[[/cell]]
+[[/row]]
+[[row style="margin-top: 16px"]]
+[[cell]]
+[[size 125%]]**概念咖哩：**[[/size]]
+本道菜為馬德拉斯咖哩的純粹概念，零卡路里，完全透明！請您的侍者將其加入另一道菜中
+[[/cell]]
+[[cell style="text-align: right;"]]
+$6.00
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+@@ @@
+[[/cell]]
+[[/row]]
+[[row style="margin-top: 16px"]]
+[[cell]]
+[[size 125%]]**主廚精選：**[[/size]]
+每週更換一次，請詢問您的服務員！
+[[/cell]]
+[[cell style="text-align: right;"]]
+$9.00
+[[/cell]]
+[[/row]]
+[[row style="color: #c41524; font-size: 2em; line-height: 3em; font-weight: bold;"]]
+[[cell]]
+//__甜點__//
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+@@ @@
+[[/cell]]
+[[/row]]
+[[row style="margin-top: 16px"]]
+[[cell]]
+[[size 125%]]**青蛙彩蛋：**[[/size]]
+經過冷凍和煮沸後可保證食用安全，這種美味的巧克力般的[[[SCP-1325 |美食]]]可以全年享用！
+[[/cell]]
+[[cell style="text-align: right;"]]
+$4.60
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+@@ @@
+[[/cell]]
+[[/row]]
+[[row style="margin-top: 1600px"]]
+[[cell]]
+[[size 125%]]**午夜棉花糖：**[[/size]]
+黑暗的享受，一定會搔動您的內在！感謝不安馬戲團[[[Oh, I Wouldn't Worry About Flaky-Os |獨家]]]提供給我們旗下的餐廳，他們有萬千世界最偉大的表演！
+[[/cell]]
+[[cell style="text-align: right;"]]
+$3.39
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+@@ @@
+[[/cell]]
+[[/row]]
+[[row style="margin-top: 16px"]]
+[[cell]]
+[[size 125%]]**日光糖果屋：**[[/size]]
+您一定會喜歡的甜點，它也會帶給您燦爛開朗的性格！
+[[/cell]]
+[[cell style="text-align: right;"]]
+$5.00
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+@@ @@
+[[/cell]]
+[[/row]]
+[[row style="margin-top: 16px"]]
+[[cell]]
+[[size 125%]]**芒果騷沙：**[[/size]]
+兩個在您的盤子中表演拉丁舞的水果！[[span class="ruby"]]火熱誘人[[span class="rt"]]Muy caliente[[/span]][[/span]]！
+[[/cell]]
+[[cell style="text-align: right;"]]
+$2.50
+[[/cell]]
+[[/row]]
+[[/table]]
+@@ @@
+[[=]]
+[[size 150%]] **~~~~~~~~~~~~~~~~~** [[/size]]
+[[/=]]
+[[/div]]
+
+@@ @@
+@@ @@ 
+@@ @@
+@@ @@
+
+[[div style="color: #c41524; font-size: 2em; line-height: 3em; font-weight: bold;"]]
+//__顧客評論：__特曼庫拉市//
+[[/div]]
+
+> [[>]]
+> [[size 150%]] @AirConditionedLaurie
+> ★★★★☆ [[/size]]
+> [[/>]]
+> 有很多美食選擇，適合用餐的好地方！
+> 
+> 很高興終於有一個用餐的地方符合我較稀罕的口味。位置也很棒！
+> @@ @@
+
+> [[>]]
+> [[size 150%]] @Quarterporter
+> ★★★★☆ [[/size]]
+> [[/>]]
+> 我在這裡度過了幾個愉快的夜晚，不斷變化的菜單項目很有趣，但我覺得使用實際的自修改菜單可以改善很多。
+> @@ @@
+
+> [[>]]
+> [[size 150%]] @fredazx1fn0q2rc
+> ★★★☆☆ [[/size]]
+> [[/>]]
+> 我不喜歡侍者的臉。
+> @@ @@
+
+> [[>]]
+> [[size 150%]] @ready-to-freddie
+> ★★★★★ [[/size]]
+> [[/>]]
+> 氣氛非常實際，這讓某些菜單項目很難成功完成！五顆星！
+> @@ @@
+
+> [[>]]
+> [[size 150%]] @emptyjudith
+> ★★☆☆☆ [[/size]]
+> [[/>]]
+> 食物很好吃，但大概在用餐到一半的時候，某個喜愛老女士的人跑到我們的餐桌旁，試圖將他的屌塞進我們的飲料中。
+> @@ @@
+
+> [[>]]
+> [[size 150%]] @morecircularhome
+> ★★★☆☆ [[/size]]
+> [[/>]]
+> 這裡的守衛多到可說是滿地爬，我覺得最近發生了某種事件？用餐足夠愉快，但我一直緊張不安。
+> @@ @@
+
+> [[>]]
+> [[size 150%]] @alarming_julius
+> ★☆☆☆☆ [[/size]]
+> [[/>]]
+> 如果你們還想要我的光顧，你們最好先糾正你們嚴苛的規定！如果你們因為//一次//無心的事故拒絕我，那你們的規定將逼迫我去煽動基金會。
+> @@ @@
+
+> [[>]]
+> [[size 150%]] @WannaJuana
+> ★★★★★ [[/size]]
+> [[/>]]
+> 我和家人共進了美妙的一餐，大家都說他們的飯菜很棒！我吃了魚，經歷了這個世界上不存在的豐富口味！ 
+> @@ @@
+
+[[module ListUsers users="."]]
+> [[>]]
+> [[size 150%]] @%%title%%
+> ★★☆☆☆ [[/size]]
+> [[/>]]
+> 在我去的那天，餐廳在早些時候關門了，似乎在他們其他某間餐廳裡發生了什麼事？為什麼那會影響這一間？伙計們？
+> @@ @@
+[[/module]]
+
+> [[>]]
+> [[size 150%]] @cristina.the.arena
+> ★★★★☆ [[/size]]
+> [[/>]]
+> 有促銷活動，而且店主親自為我們下廚！唯一的缺點是本市持續不斷的模因爆發，但不太可能是這個地方的錯。
+> 
+> ......應該不是，我沒說錯吧？
+
+> [[>]]
+> [[size 150%]] @FastandJiving
+> ★★★☆☆ [[/size]]
+> [[/>]]
+> 我的嘴字面意義上地流涎不止！
+> 
+> 說真的，要如何處理失控的流涎？
+> @@ @@
+
+> [[>]]
+> [[size 150%]] @RhianneW-L14
+> ★☆☆☆☆ [[/size]]
+> [[/>]]
+> @@ @@
+> @@ @@
+> @@ @@
+> @@ @@
+> 操你。
+> @@ @@
+
+-----

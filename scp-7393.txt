@@ -1,0 +1,188 @@
+[[include component:scp-meta-title-hiding css-style=classic]]
+[[include info:start]]
+
+SCP-7393 - 人類的定義
+
+
+原文：[https://scp-wiki.wikidot.com/scp-7393 SCP-7393] -  The Definition of a Human Being
+作者：[[*user NielleiN]]
+譯者：[[*user feitag]]
+
+[[include info:end]]
+
+[[include :scp-wiki:theme:black-highlighter-theme]]
+[[include :scp-wiki:theme:minimalist-bhl]]
+[[include :scp-wiki:component:toggle-sidebar-bhl]]
+[[include :scp-wiki:component:acs-animation]]
+[[include :scp-wiki:component:fade-in speed=4]]
+[[module CSS]]
+:root {
+     --header-title: "Department of Unreality";
+     --header-subtitle: "Making the Unreal a ㅤㅤㅤㅤ";
+     --lgurl: url('http://scp-wiki.wikidot.com/local--files/unreality-hub/Unreality%20Header%20Logo.svg');
+}
+
+@media only screen and (max-width: 26.5625rem) {
+    :root {
+        --header-title: "Unreality";
+    }
+}
+
+
+.info-container{
+--barColour: #2c2427;
+--linkColour: #FFF;
+}
+
+#page-content hr {
+border-top: none;
+height: .05em;
+background: #454545;
+}
+
+#page-content > .collapsible-block {
+    display: block;
+    text-align: center;
+    padding: .8em;
+    background-color: #e3e3e3;
+    border-top: 0.125rem dashed #b5b5b5;
+    border-bottom: 0.125rem dashed #b5b5b5;
+}
+
+#page-content > .collapsible-block .collapsible-block-content {
+    text-align: left;
+}
+
+.interview{
+    border:solid 2px #d4d4d4;
+    background:#F5F5F5;
+    width:90%;
+    padding:1px 15px;
+    margin: 10px auto;
+}
+
+.file{
+    border:none;
+    background:#F5F5F5;
+    width:90%;
+    padding:1px 15px;
+    margin: 10px auto;
+}
+
+.addendum{
+    border:solid 1px #5e5e5e;
+    background:#ffffff;
+    width:90%;
+    padding:1px 15px;
+    margin: 10px auto;
+}
+
+.testfile{
+    border:solid 3px #643434;
+    background:#f7efef;
+    width:90%;
+    padding:1px 15px;
+    margin: 10px auto;
+}
+
+.testvideo{
+    background:#e9d5d5;
+    width:90%;
+    padding:1px 15px;
+    margin: 10px auto;
+}
+
+
+#page-title{display:none}
+
+[[/module]]
+
+[[include :scp-wiki:component:anomaly-class-bar-source
+|item-number= 7393
+|clearance= 3
+|container-class= pending
+|secondary-class= none
+|disruption-class= none
+|risk-class= none
+]]
+[[include :scp-wiki:component:advanced-information-methodology blocks=!
+|site=N/A
+|dir=N/A
+|head= N/A
+|mtf=N/A
+]]
+
+-----
+**特殊收容措施：**SCP-7393 的入口應始終上鎖。所有被指派去探索 SCP-7393 的人員都應被告知 SCP-7393 非異常且不具有任何重要意義。
+
+任何情況下都不得讓 SCP 基金會非現實部意識到 SCP-7393 的存在。
+
+**描述：**SCP-7393 是一個位於紐澤西州提內克廢棄的超級酥脆貝果（Super Crunchy Bagels）餐廳下方的結構。SCP-7393 可以輕易通過商店的地下室進入，項目由一條長走廊構成，內有多個房間，每個房間都被一道密封的金屬門閉鎖而無法進入。
+
+每道門上都有一個玻璃窺視孔，可以透過它看到房間的內部。此外，每扇門上都附有金屬標示牌，據信標示牌描述了房間內的物品。
+**附錄 7393.01：**//SCP-7393 的內容物//
+
+[[div class="blockquote"]]
+**房間編號：**1
+**標示牌：**Alex Thorley 最快樂的記憶
+**描述：**房間是空的。
+[[/div]]
+[[div class="blockquote"]]
+**房間編號：**2
+**標示牌：**Alex Thorley 的恐懼
+**描述：**房間是空的。
+[[/div]]
+[[div class="blockquote"]]
+**房間編號：**3
+**標示牌：**Alex Thorley 的夢想
+**描述：**房間是空的。
+[[/div]]
+[[div class="blockquote"]]
+**房間編號：**4
+**標示牌：**Alex Thorley 的家人
+**描述：**房間是空的。
+[[/div]]
+[[div class="blockquote"]]
+**房間編號：** 5
+**標示牌：**Alex Thorley 的朋友
+**描述：**房間是空的。
+[[/div]]
+[[div class="blockquote"]]
+**房間編號：** 6
+**標示牌：**Alex Thorley 的同事
+**描述：**房間是空的。
+[[/div]]
+[[div class="blockquote"]]
+**房間編號：**7
+**標示牌：**Alex Thorley 的目的
+**描述：**房間是空的。
+[[/div]]
+[[div class="blockquote"]]
+**房間編號：**8
+**標示牌：**Alex Thorley 的身份
+**描述：**房間是空的。
+[[/div]]
+[[div class="blockquote"]]
+**房間編號：**9
+**標示牌：**Alex Thorley 的過去
+**描述：**房間是空的。
+[[/div]]
+[[div class="blockquote"]]
+**房間編號：** 10
+**標示牌：**Alex Thorley 的未來
+**描述：**房間是空的。
+[[/div]]
+
+**附錄 7393.02：**//事件-7393-1//
+
+2023 年 1 月 3 日，一個外表類似 Alex Thorley 的人類進入了 SCP-7393，無視並以某種方式繞過了所有基金會守衛和反制措施。該名人士經過 SCP-7393 的各個房間，對房間的內容表示失望和關注。他繼續走到 SCP-7393 的盡頭，喃喃地說著「我想我以前來過這裡」，並從口袋裡拿出一把刀。
+
+然後他將這句話：「我是 Alex Thorley。我存在。」刻在 SCP-7393 的右側牆壁，接著該人似乎消失了。在 SCP-7393 的地板上發現了一個未烘烤的原味貝果。
+
+Alex Thorley 完全否認對本事件有任何記憶。
+
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[SCP-7392]]] | SCP-7393 | [[[SCP-7394]]] >>
+[[/=]]
+[[/div]]

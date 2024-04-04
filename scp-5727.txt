@@ -1,0 +1,109 @@
+[[include component:scp-meta-title-hiding css-style=classic]]
+[[include info:start]]
+原文：[https://scp-wiki.wikidot.com/scp-5727 SCP-5727] 瑞奇一切安好
+作者：[[*user CityToast]]
+譯者：[[*user Frederica Bernkastel]]
+[[include info:end]]
+
+[[include theme:black-highlighter-theme]]
+
+[[=]]
+++ ⚠ 注意
++++ 由於在資料庫搜尋了「瑞奇」與「遇險信號」/「遇險呼叫」的關鍵詞，你已被重導向至本收容檔案。
+
++++ 瑞奇一切安好
+
++++ 如果你想要，現在可以關閉本檔案了。
+@@ @@
+[[/=]]
+
+[[include component:coltop show=繼續閱讀SCP-5727收容檔案 |hide=允許存取。]]
+
+**項目編號：** SCP-5727
+
+**項目等級：** Explained（等待EX歸定）
+
+**特殊收容措施：** 請查找瑞奇最新消息的基金會人員放心，瑞奇一切安好。作為預防措施，在可預見的將來中，短語「瑞奇一切安好」將作為20Hz低頻率訊息植入所有基金會音訊媒體之中。
+
+**描述：** SCP-5727是一種--來源未知--//（見下）//的求救訊號，於科羅拉多博爾德半徑1800公里的範圍內定期播放。該訊息似乎是由人工聲音所組成，內容如下：
+
+> C Q D 瑞奇納德有危險快來救援拜託
+
+以下是該求救訊號的增強版本（或可點擊[http://scp-wiki.wdfiles.com/local--files/scp-5727/regi.mp3 此處]）：
+
+[[include :snippets:html5player
+|type=audio
+|url=http://scp-wiki.wdfiles.com/local--files/scp-5727/regi.mp3]]
+
+關於此訊息傳輸，已掌握了以下資訊：
+
+* 「瑞奇納德」四字音節中間會出現一次停頓。
+* 「CQD」是20世紀初期的海上船隻求救代碼，日後被國際標準化代碼「SOS」取代。
+* 各單字音高波動最高達到10%。
+* 除了最後二字「拜託」以外，所有音節都以完全相同的語速說出。
+
+一旦人員接收到此求救訊號，便會下意識地將此訊息記錄下來，並對「瑞奇」的命運感到顯著不安。這通常表現為完全無原因的厄運感或緊迫感。當在有意識或無意識的確認到瑞奇平安無事後，這種感覺就會消退。
+
+**解明：** 添加於[[span style="background-color:#DDF"]]31[[/span]]日前
+
+此訊息源於第一次世界大戰期間的英國皇家海軍瑞奇納德克爾號，是在一次簡短訓練演習中發送之無線電傳輸訊號。
+[[include :scp-wiki:component:image-features-source |hover-enlarge=--]
+|enlarge-amount=6
+|speed=250
+|float=true
+|align=right
+|width=300px
+|url=https://scp-wiki.wdfiles.com/local--files/scp-5727/reginald.jpg
+|add-caption=true
+|caption=英國皇家海軍瑞奇納德克爾號，約1939年。
+]]
+無線電訊號以特定頻率發送，由於地球繞日軌道的位置，訊號被太陽引力場捕獲，並開始按太陽系的部分「軌道」運行。軌道穩定度使此訊號被扭曲至約20Hz。訊號路徑將會定期與地球相交，導致現代電子設備接收接受到上述訊號。
+
+此訊號及其收容方法均無異常可言，人員接受此訊號的反應亦是如此。基金會認定此效應乃是無意潛意識訊息對人類思維造成的罕見影響，但在科學上仍屬合理範疇。因此本項目將重歸定為**Explained**級。
+
+[[include component:coltop show=輸入4級憑證以繼續下載元數據 （65.4GB）|hide=已確認4級憑證]]
+[[=]]
+++ ⚠ 注意
++++ 若要繼續閱讀，請先取得一劑A級記憶刪除劑。
+[[/=]]
+**項目編號：** SCP-5727
+
+**項目等級：** Euclid
+
+**特殊收容措施（附錄）：** 應於收容檔案頂部放置通知，以阻止大多數使用者進一步調查此異常。應加上由無線電訊號、潛意識訊息、英國皇家海軍瑞奇納德克爾號編造之詳盡掩蓋故事，以應付尋求更詳細答案的使用者。存取收容檔案最終受保護內容之基金會人員，應在事後接受記憶刪除。
+
+**描述（附錄）：** 截至第[[span style="background-color:#DDF"]]931[[/span]]日為止，「瑞奇」的現況仍舊無法確認。訊號強度仍在緩慢而持續的增長，這使得基金會能對聲音進行更深入的分析。音高與節奏的波動顯示該訊號並非人造產物，而是真實發生的直播放送，且廣播的內容緊迫度越來越高。
+
+以下是基金會音訊工程師卡邁克爾博士的分析結果：
+
+> 實際上，我們//根本不曉得//瑞奇是誰──抑或是他遭受了怎樣的命運。事實證明了解其本質者都承受了巨大的痛苦。那訊號......無處不在。瑞奇需要幫助，但我們不知道要如何幫助他。瑞奇一切//不//安好。我們幫不了瑞奇。我們都想幫他，但我們幫不上忙。//為什麼我們不能幫瑞奇？//
+
+因為以上資訊的發布可能會導致研究人員積極尋找與協助瑞奇，從而對基金會的資源分配造成影響，基金會已認定其最大利益是維持瑞奇在事實上一切安好。
+
+你已經抵達收容檔案末尾。請退出並對自己施行記憶刪除。
+
+你已存取此收容檔案[[span style="background-color:#DDF"]]47[[/span]]次。
+[[include component:colend]]
+[[include component:colend]]
+@@ @@
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[SCP-5726]]] | SCP-5727 | [[[SCP-5728]]] >>
+[[/=]]
+[[/div]]
+
+[[include :scp-zh-tr:component:license-box
+|author=Sam Swicegood (CityToast)]]
+=====
+> **Filename:** regi.mp3
+> **Author:** [[*user CityToast]]
+> **License:** CC-BY-SA 3.0
+> **Source Link:** Created by Author
+
+> **Filename:** reginald.jpg
+> **Name:** HMS Reginald Kerr
+> **Author:** Royal Navy official photographer (Uncredited, circa 1939)
+> **License:** Public Domain
+> **Source Link:** [https://commons.wikimedia.org/wiki/File:HMS_Reginald_Kerr_FL18186.jpg HMS Reginald Kerr Wikimedia Commons]
+=====
+[[include :scp-zh-tr:component:license-box-end]]

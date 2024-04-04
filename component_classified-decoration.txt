@@ -1,0 +1,24 @@
+[[iftags +模板]]
+[[note]]
+**作者：**
+[[*user 7happy7]]
+----
+**特別感謝：**
+[[*user boyu12]]
+----
+**如何使用？**
+http://scp-zh-tr.wikidot.com/scp-style-resource#toc5
+[[/note]]
+[[/iftags]]
+[[include :scp-zh-tr:component:classified-decoration-base
+|lv={$lv}
+|item={$item}
+|oc={$oc}
+|lang{$lang}=false
+|lang={$lang}
+|lang=false
+|trans-level={$trans-level}
+|trans-level=false
+|trans-classified={$trans-classified}
+|trans-classified=false
+]]

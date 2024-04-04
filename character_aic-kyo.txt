@@ -1,0 +1,15 @@
+[[include character:start]]
+------
+
++++++* Kyo.aic[[# Kyo.aic]]
+
+相較於近期的高級型號，人工智慧常備員 Kyo 是由古早的 Class-IV 進行提升改版而來的機型，因各種因素專責輔佐 Valentine 博士的 AIC 並且深受其[[[caged-bird|信賴]]]，但與其說是[[[so-i-said-that-dinner|秘書]]]，Kyo 更像是保母一樣無微不至的[[[disorder-flapdoodle|照護 Valentine]]]。
+
+[[collapsible show="Valy 那麼笨，沒有我的話他會忘記呼吸！" hide="明明就是人工智能，為什麼要卻又要模擬出對工作毫無幫助的心呢？"]]
+
+對於自己的過度關照 Valentine 感到困擾卻又無法割捨，了符合自己心目中完美 AIC 幻想經常刻意擺出認真的態度，私底下會稱呼 Valentine 博士為[[[mystery-zh|笨蛋 Valy]]]，其實是一個[[[cat-day|非常撒嬌]]]的小 AIC。
+
+[[/collapsible]]
+
+所有被標記為 //Kyo.aic// 的文件都可以在[/system:page-tags/tag/Kyo.aic 這裡]找到。
+[[include character:end]]

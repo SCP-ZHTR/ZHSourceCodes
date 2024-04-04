@@ -1,0 +1,203 @@
+[[include component:scp-meta-title-hiding css-style=classic]]
+[[include info:start]]
+原文：[https://scp-wiki.wikidot.com/scp-7212 SCP-7212] 天空的名字，會感到寂寞嗎？
+作者：[[*user NDHeckfire]]
+譯者：[[*user Frederica Bernkastel]]
+[[[https://scp-wiki.wikidot.com/ndheckfire|更多該作者的作品！]]]
+
+⚠️ **內容警告：** 本文存在自殺相關內容。
+[[include info:end]]
+[[include :scp-zh-tr:component:info-cw]]
+
+[[include :scp-wiki:theme:minimal
+|title=SCP Foundation
+|subtitle=Site-400]]
+
+[[module css]]
+.footnotes-footer {
+    visibility: hidden;
+    height: 0;
+    padding: 0;
+    margin: 0;
+}
+.page {
+    display: block;
+    overflow: hidden;
+    font-family: "Monotype Corsiva", "Bradley Hand ITC", sans-serif;
+    font-style: normal;
+    background-attachment: scroll;
+    background-clip: border-box;
+    background-color: transparent;
+    background-image: linear-gradient(to top ,rgb(202, 219, 228) 0%, rgb(231, 233, 220) 8%);
+    background-origin: padding-box;
+    background-position: 0px 8px;
+    background-repeat: repeat;
+    background-size: 100% 20px;
+    border: 1px solid #CCC;
+    border-radius: 10px;
+    padding: 10px 10px;
+    margin-bottom: 10px;
+    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.2)
+}
+.page p,
+.page ul {
+    line-height: 20px;
+    margin: 0;
+}
+[[/module]]
+
+@@ @@
+
+[[include :scp-wiki:theme:minimal
+|title=SCP Foundation
+|subtitle=Secure, Contain, Protect]]
+[[include :scp-zh-tr:component:collapsible-sidebar]]
+[[include :scp-zh-tr:component:anomaly-class-bar-source
+|item-number= SCP-7212
+|clearance= 2
+|container-class=safe
+|secondary-class=
+|secondary-icon=
+|disruption-class=dark
+|risk-class=caution
+]]
+
+[[module CSS]]
+:root {
+    --five-color: 0,0,0;
+    --four-color: 0,0,0;
+    --three-color: 0,0,0;
+    --two-color: 0,0,0;
+    --one-color: 0,0,0;
+}
+[[/module]]
+----
+[[include :scp-wiki:component:image-block
+| name=http://scpdsandbox.wikidot.com/local--files/heckfire-future/woods.jpg
+| caption=真桑友梨佳唯一留存的檔案相片。
+| width=230px]]
+
+**特殊收容措施：** 在Site-400站點主任的批准下，SCP-7212已收容於站點冷凍儲存單元內的椅子上，該儲存單元的設計與普通辦公室應完全一致。為衛生目的進入單元之行為應當盡量受限，並且應當取得站點研究負責人的批准。
+
+基金會職員不得對SCP-7212-A採取任何行動。嚴禁與其任何實體有所互動。
+----
+**描述：** SCP-7212是於20██/██/██自殺身亡的真桑友梨佳小姐的屍體。在自殺前真桑友梨佳曾是基金會的初級研究員，是Site-400公共虛假資訊控制部門的僱員。SCP-7212不具備任何面部特徵。截至撰寫本文當下，SCP-7212未曾出現任何腐爛的跡象。
+
+SCP-7212-A是約78個//Columba janthina//（俗名黑林鴿）屍體所構成，高度約20至30公尺之人形混合物。當前所有SCP-7212-A實體均位於Site-400外圍，所有實體均握住了彼此的雙手，將Site-400圍繞起來。所有SCP-7212-A實均不曾有任何動作，對任何形式之外部刺激均毫無反應。
+
+每日的隨機時間，SCP-7212傷痕遍布的手腕將會流出血液。在此期間，所有SCP-7212-A實體將會一齊輕輕地發出語音。
+----
+**附錄7212-1，現象概述：** 20██/██/█，人員在已逝世之真桑友梨佳私人住所中發現了SCP-7212。SCP-7212以胎兒的姿勢躺在床上，右手握著沾滿血液的手術刀。在床邊抽屜內，有個打結粗糙的套索以及裝滿混合不良氰化物的橘色藥瓶。
+
+抽屜與床架間有一本筆記本，前幾頁有有著染血的手印與用日文潦草書寫的訊息。然而由於注意到SCP-7212的性質，此筆記本並未被重視，而是與其他物體一併被視為證據。
+----
+**附錄7212-2，值得注意的發聲內容：** 以下是SCP-7212-A實體發出的數句語音內容抄錄：
+
+[[=]]
+
+[[div class="blockquote"]]
+這是正確的行為。
+[[/div]]
+[[div class="blockquote"]]
+我的名字是真桑友梨佳，公共虛假資訊控制部門的初級研究員。
+[[/div]]
+[[div class="blockquote"]]
+他只能看到我的名字，其他的無法看見。
+[[/div]]
+[[div class="blockquote"]]
+只要大聲說出這些話就能讓自己不要結巴與咕噥。
+[[/div]]
+[[div class="blockquote"]]
+沒有人想死。
+[[/div]]
+[[div class="blockquote"]]
+深呼吸，吸氣吐氣。
+[[/div]]
+[[div class="blockquote"]]
+為他人著想是很累的。
+[[/div]]
+[[div class="blockquote"]]
+鏡子起霧了，我看不見自己的臉。
+[[/div]]
+[[div class="blockquote"]]
+我不想要死。
+[[/div]]
+[[div class="blockquote"]]
+我希望我能死掉。
+[[/div]]
+
+[[/=]]
+----
+**附錄7212-3，後續調查結果：** 對Site-400周圍區域調查後發現了一座似乎已經廢棄，具有內置壁爐的破舊小木屋。壁爐內部僅有以下值得注意的物體：
+
+* 乾淨的骨灰堆
+* 用過的火柴棒
+* 野生動物的骸骨
+* 鏡框
+
+檢查壁爐的人員報告指稱，產生了成年男性以日語背誦某種韻文的幻聽。考慮到這一點，對壁爐的分析暫停，並已按研究負責人要求將其擱置。
+----
+**附錄7212-4，已歸檔文件：** 以下是曾被歸定編號SCP-7212之異常的已過時檔案。研究負責人認為其足夠重要，應添加至本文件中。
+
+[[div class="note"]]
+
+**項目編號：** SCP-7212
+
+**項目等級：** Euclid
+
+**特殊收容措施：**  在Site-400站點主任的批准下，SCP-7212已獲准繼續在基金會長期任職。出現之黑林鴿實體應向荒野釋放。
+
+**描述：** SCP-7212是真桑友梨佳小姐，是Site-400公共虛假資訊控制部門的初級研究員。該員是[{{已刪除數據}}]裔的[{{已刪除數據}}]髮[{{已刪除數據}}]眼女性。
+
+每日的隨機時間，一隻//Columba janthina//（俗名黑林鴿）實體將出現在SCP-7212的頭頂上。這些黑林鴿並不具備異常性質，與其同類具有相同的表現，但在SCP-7212身邊時會明顯表現得更加溫順。
+
+[[/div]]
+----
+**附錄7212-5，具法律效力之文件：** 以下是在最大型SCP-7212-A實體底部發現之文件，是真桑友梨佳死亡時留下的真實遺書精確抄錄，並以英文工整書寫：
+
+[[div class="page"]]
+@@ @@
+寫這個就是在浪費時間。
+@@ @@
+回想起來，我對他們來說就是個很容易得手的目標吧。一個純真的女孩，技術上來說還很新，還跟一群被關起來的騙子生活在同一個世界。容易上當又如此天真，這幾乎可謂是痛苦了。如果這個世界真有那麼點誠實可言，那它是該以某種方式告訴我這種事必然會發生。
+@@ @@
+又或者這也許其實與我無關。也許是我在公共虛假資訊控制部門幹活的事實，讓他們以為不會有人注意到我是否表現的與眾不同且引人注目。
+@@ @@
+無論如何，我想這並沒有阻止他跟著我到樹林。我記得天很黑，厚厚的雲層遮住了星辰，這確實是我走出去的唯一原因。他告訴我他的名字，我也告訴他我的名字。我就不寫在這了，因為那樣太蠢了。
+@@ @@
+讓我來告訴你，身體裡頭每個分子突然燃燒起來並不是什麼愉快的經驗。而突然被替換掉則會造成更大的痛苦。要不是已經沒了，我肯定會咬斷自己的舌頭。那時，雲彩已經散去，我最後看到的就是星星。回歸的感受刺痛無比。
+@@ @@
+但是，不用擔心我我。這麼做是正確的。
+@@ @@
+老實說，我寫這些是為了表達我的歉意。因為我害大家失敗了。我的父親。我的姊妹。我的朋友。我的羽毛小可愛。現在，我確信還有很多像他這樣的人。我只能祈求讓我這麼做的人付出代價。但我知道基金會聰明的很。他們會知道我是誰，我不是誰的。
+@@ @@
+寫這個真的就是在浪費時間。
+[[/div]]
+----
+**附錄7212-6，事故紀錄：** 20██/██/██，SCP-7212自我復活並自收容單元逃脫。Site-400隨即進入封鎖狀態，維安人員按協議前往遺棄小屋旁待命。SCP-7212跛腳前往Site-400外院，沿途不斷掉落著血液與內臟。項目在受到刺激時會發出數種聽覺模因危害。
+
+當SCP-7212抵達庭院時，所有SCP-7212-A實體同時轉到了面對該實體的方向。SCP-7212-A鬆開了手並逐漸散開，體內的所有黑斑鳩屍體也全數復活。復活的鴿群開始向上飛翔並聚集到SCP-7212身上，撕扯SCP-7212的衣服並用變鋒利的爪子抓住其雙臂。 SCP-7212被拖離Site-400，期間SCP-7212對鴿子尖叫著髒話，並在喊叫中發出更多模因危害。
+
+鴿群將SCP-7212帶進小屋，並強行將其與自身一併拖入內置壁爐中。維安人員隨即關閉了壁爐門並將其點燃。爐火逐漸變成明亮的猩紅色，在燃燒了大約一小時後才熄滅。壁爐內只剩下一面有框的鏡子，其鏡面因未知原因而起霧。霧上寫著：「謝謝你們，我的小可愛」。
+
+SCP-7212已重歸定為Neutralised。項目檔案將會盡速更新。
+
+@@ @@
+
+[[=]]
+[[div class="footer-wikiwalk-nav"]]
+<< [[[SCP-7211]]] | SCP-7212 | [[[SCP-7213]]] >>
+[[/div]]
+[[/=]]
+
+[[include :scp-zh-tr:component:license-box
+| author=NDHeckfire
+]]
+=====
+> **Filename:** woods.jpg
+> **Name:** File:Woman in a shirt in woods (Unsplash).jpg
+> **Author** Allef Vinicius
+> **License:** Creative Commons CC0 1.0 Universal Public Domain Dedication
+> **Source Link:** https://commons.m.wikimedia.org/wiki/File:Woman_in_a_shirt_in_woods_(Unsplash).jpg
+=====
+[[include :scp-zh-tr:component:license-box-end]]

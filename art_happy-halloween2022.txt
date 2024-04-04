@@ -1,0 +1,65 @@
+[[include :scp-zh-tr:theme:halloween]]
+[[include info:start]]
+原文：[https://scp-wiki.wikidot.com/art:happy-halloween2022 Site-19 Security Data 19.2022.10.31] 
+作者：[[*user IronShears]]
+譯者：[[*user Mang Gwan]]
+-----
+很抱歉，因為字體缺失「棵」字，所以166是說「畫**個**大樹」
+此作品中使用的字體 [https://poppyworks.itch.io/silver Silver] 由 Poppy Works 及 Wolfgang Wozniak 制作，以 CC-BY 4.0 授權。
+[[include info:end]]
+
+[[iframe https://itch.io/embed-upload/6743308?color=000000 width="100%" height="600px"]]
+
+我想我的競賽作品可能有點過頭了，不過實際上我每一件事都是這樣做的，所以還好吧。這就是**藝術**。而我選擇的是第二個提示！我已盡可能多的把要求要出現的角色加進來，還有一些額外的孩子……畢竟這是小孩的派對嘛。這應該能在都能在手機和電腦上運作的，不過在手機上看可能會有些怪怪的。如果它不能在你的設備（不管是手機或電腦）上運作，試試在 itch.io 的頁面來閱讀它。每個角色的來源連結都放在作品裏面了。
+
+[[collapsible show="對了，這下面是我超長的授權部分。" hide="授權小組抱歉了。"]]
+[[<]]
+> **Filename:** Halloween.zip
+> **Author:** IronShears
+> **License:** https://creativecommons.org/licenses/by-sa/3.0/
+> **Source Link:** https://ironshears.itch.io/happy-halloween
+> **Derivative of:** SCP-166 by DrClef and Cerastes
+> SCP-2017 by MissMercurial
+> SCP-6080 by ratking666
+> Abigail Lacroix by Abrethe
+> SCP-2241 by Tuomey Tombstone
+> SCP-3663 by MaliceAforethought
+> Phoebe by hetarae
+> SCP-1003 by Doctor Flibble
+> Dr. Desmarais by Metaphysician
+> Kuobach by IronShears
+> Karcist Halyna Ieva by Naepic
+> Agent Jones by DrAkimoto
+> SCP-191 by DrClef and Sylocat
+> SCP-134 by Skali Sharpnose, Voct, and Unknown Author
+> SCP-2118 by ahbonjour
+> Chloe and Janet by Dr Asteria
+> Toby McEnderson by OriTiefling
+> Director Calvin Bold and SCP-6469 by Calibold
+> Site Director Basar by UncertaintyCrossing
+> Snapdragon by Snapdragon133
+> Dr Cerise by Dr Cerise
+> Dr Asteria by Dr Asteria
+> Dr Theron Sherman by Theesherm
+> Irizu by Skorpt
+> Ariel Ovo by Seraphannim
+> D-5761 by D-5761
+> Tyler Umen by Tyumen
+> Ines Bernard by Tao McCawley
+> Prim by Fantem
+> Jack by Agent Whitney
+> SCP-2192 by PurpleCheetah
+> Dr Fern by Dr Fern
+> Dr Lucretia Deamonne by Zygard
+> SCP-053 by DrGears
+> SCP-682 by DrGears and Epic Phail Spy
+>SCP-999 by ProfSnider
+>Alex Thorley by Fishish(I think?)
+[[/<]]
+[[/collapsible]]
+
+好，希望大家喜歡！如果有任何錯誤或者你想讓我改變對你角色的嚴重錯誤描述，請告訴我，我會修一下它們的。（但不是對你角色的嚴重錯誤描述。他們會留下來。抱歉喎。）
+
++ [https://scp-wiki.wikidot.com/art:art-mycotherapy 更多藝術真菌療法]
+
++ [https://scp-wiki.wikidot.com/kuobachs-eyes 也來讀讀我的漫畫]

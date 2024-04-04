@@ -1,0 +1,18 @@
+[[include component:scp-meta-title-hiding css-style=classic]]
+[[include info:start]]
+篇名：人魚公主的故事
+原作者 ：[[*user s97169]]、[[*user Lostwhat]]
+競賽題目：K級情景
+相片提供：[[*user s97169]]
+最終迭代相片修改：[[*user Dr V valentine ]]
+[[include info:end]]
+
+[[module ListPages category="fragment" parent="." limit="1" order="name" offset="@URL|0"]]
+
+%%content%%
+[[/module]]
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+« [[[SCP-ZH-013]]] | SCP-ZH-014 | [[[SCP-ZH-015]]] »
+[[/=]]
+[[/div]]

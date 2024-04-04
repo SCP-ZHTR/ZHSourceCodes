@@ -1,0 +1,247 @@
+[[include info:start]]
+本篇為二次翻譯
+原文（德文）：[[[http://scp-wiki-de.wikidot.com/notiz-sie-die-jeden-verraten-hat|Notiz: Sie, die jeden verraten hat]]]
+作者：[[*user Einer von Rabe]] 
+
+英譯：[[[http://scp-int.wikidot.com/notiz-sie-die-jeden-verraten-hat|Note: She Who Betrayed Everyone]]]
+英文譯者：[[*user ThePaperMask]]
+
+中文譯者：[[*user feitag]]
+[[include info:end]]
+
+[[module CSS]]
+#header {background-image: url(http://smlt.wdfiles.com/local--files/plaguebearer%3Anobody/%3F);}
+#header h1 a {
+    display: block;
+    margin: 0;
+    padding: 80px 0 25px;
+    line-height: 0px;
+    max-height: 0px;
+    color: transparent;
+    background: transparent;
+    font-family: BauhausLTDemi. 'Nanum Gothic'. Arial. sans-serif;
+    text-decoration: none;
+    text-shadow: none;
+    letter-spacing: 0.9px;
+}
+ 
+#header h1 a::before {
+    content: "Nobody";
+    color: #fff;
+    letter-spacing: -0.02em;
+    text-shadow: 3px 3px 5px #000;
+}
+ 
+#header h2 span {
+    display: block;
+    margin: 0;
+    padding: 19px 0;
+    line-height: 0px;
+    max-height: 0px;
+    font-weight: bold;
+    color: transparent;
+    text-shadow: none;
+}
+ 
+#header h2 span::before {
+    content: '...';
+    color: #fff;
+    text-shadow: 1px 1px 1px #000;
+    text-shadow: 1px 1px 1px rgba(0,0,0,.8);
+}
+
+sup {
+  vertical-align: top;
+  position: relative;
+  top: -0.5em;
+}
+
+.scp-image-block.block-right { margin: 1em 2em 1em 1em; }
+
+[[/module]]
+
+[[module css]]
+.page {
+    display: block;
+    overflow: hidden;
+    font-family: "Monotype Corsiva", "Bradley Hand ITC", sans-serif;
+    font-style: normal;
+
+   
+    background-attachment: scroll;
+    background-clip: border-box;
+    background-color: transparent;
+    background-image: linear-gradient(to top ,rgb(202, 219, 228) 0%, rgb(231, 233, 220) 8%);
+    background-origin: padding-box;
+    background-position: 0px 8px;
+    background-repeat: repeat;
+    background-size: 100% 20px;
+    
+
+    border: 1px solid #CCC;
+    border-radius: 10px;
+    padding: 10px 10px;
+    margin-bottom: 10px;
+
+    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.2)
+    }
+.page p {
+    line-height: 20px;
+    margin: 0;
+}
+[[/module]]
+
+[[div style="font-family:Monotype Corsiva"]]
+  [[table]]
+    [[row]]
+      [[cell style="border: 1px solid black"]]  [!-- Begin Page 1--]
+        [[table]]
+          [[row]]
+            [[cell style="border: 1px solid silver"]]
+              __**Fiona Adler**__
+            [[/cell]]
+          [[/row]]
+          [[row]]
+            [[cell style="border: 1px solid silver"]]
+              __別名：__@@ @@[[size 90%]]不可碰觸的將軍[[/size]], [[size 90%]][[span style="background-color:none;color:blue;text-decoration:none"]]--##black|„沒有人喜歡的女人“##--[[/span]][[/size]]##blue|*##
+            [[/cell]]
+          [[/row]]
+          [[row]]
+            [[cell style="border: 1px solid silver"]]
+              [[size smaller]]@@   @@##0404B4 |*我剛剛才意識到這說法聽起來有種滑稽感。## [[/size]]
+            [[/cell]]
+          [[/row]]
+          [[row]]
+            [[cell style="border: 1px solid silver"]]
+              __總結：__@@  @@外表三十幾歲的女子，但她告訴我她的年齡
+            [[/cell]]
+          [[/row]]
+          [[row]]
+            [[cell style="border: 1px solid silver"]]
+               @@ @@是那個的兩倍。她對異常有種特別的免疫力。
+            [[/cell]]
+          [[/row]]
+          [[row]]
+            [[cell style="border: 1px solid silver"]]
+             @@ @@我甚至在我們被敵對組織的一些特工襲擊時親眼見證了這點。
+            [[/cell]]
+          [[/row]]
+          [[row]]
+            [[cell style="border: 1px solid silver"]]
+               @@ @@她具有在軍旅生涯得來的知識與戰鬥經驗。
+            [[/cell]]
+          [[/row]]
+          [[row]]
+            [[cell style="border: 1px solid silver"]]
+              @@ @@
+            [[/cell]]
+          [[/row]]
+          [[row]]
+            [[cell style="border: 1px solid silver"]]
+               @@ @@
+            [[/cell]]
+          [[/row]]
+          [[row]]
+            [[cell style="border: 1px solid silver"]]
+               __威脅：__@@ @@也許會為我帶來麻煩──即使她喜歡我。
+            [[/cell]]
+          [[/row]]
+          [[row]]
+            [[cell style="border: 1px solid silver"]]
+               @@ @@我需要找到一種方法來讓她遠離我。//標記// 沒有作用。
+            [[/cell]]
+          [[/row]]
+          [[row]]
+            [[cell style="border: 1px solid silver"]]
+               @@ @@所以要用其他東西。我不想在牢房中醒來，就算那裡
+            [[/cell]]
+          [[/row]]
+          [[row]]
+            [[cell style="border: 1px solid silver"]]
+               @@ @@是乾淨的而且食物免費也一樣。實際上我有一個關於
+            [[/cell]]
+          [[/row]]
+          [[row]]
+            [[cell style="border: 1px solid silver"]]
+               @@ @@她的免疫力的理論。
+ 	  [[/cell]]
+          [[/row]]
+        [[/table]]
+      [[/cell]]  [!-- End Page 1--]
+      [[cell style="border: 1px solid black"]]  [!-- Begin Page 2--]
+        [[table]] 
+          [[row]]
+            [[cell style="border: 1px solid silver"]]
+               @@ @@
+            [[/cell]]
+          [[/row]] 
+          [[row]]
+            [[cell style="border: 1px solid silver"]]
+              @@ @@讓我們看看我可以在 //[http://wanderers-library.wikidot.com/orientation 流浪者圖書館]// 裡找到什麼。
+            [[/cell]]
+          [[/row]]
+          [[row]]
+            [[cell style="border: 1px solid silver"]]
+              @@ @@ 
+            [[/cell]]
+          [[/row]]
+          [[row]]
+            [[cell style="border: 1px solid silver"]]
+               @@ @@//最佳：//@@  @@我有個非凡的盟友。
+            [[/cell]]
+          [[/row]]
+          [[row]]
+            [[cell style="border: 1px solid silver"]]
+               @@ @@//最壞：//@@  @@我有個非凡的敵人。
+            [[/cell]]
+          [[/row]]
+          [[row]]
+            [[cell style="border: 1px solid silver"]]
+               @@ @@
+            [[/cell]]
+          [[/row]]
+          [[row]]
+            [[cell style="border: 1px solid silver"]]
+               @@ @@__關注：__@@ @@她告訴過我，她想要「激起場面」。
+            [[/cell]]
+          [[/row]]
+          [[row]]
+            [[cell style="border: 1px solid silver"]]
+               @@ @@她和某位 « 黑色法蘭西斯－Francis Noir » 合作##blue|*##。
+            [[/cell]]
+          [[/row]]
+          [[row]]
+            [[cell style="border: 1px solid silver"]]
+               @@ @@ 
+            [[/cell]]
+          [[/row]]
+          [[row]]
+            [[cell style="border: 1px solid silver"]]
+               @@ @@
+            [[/cell]]
+          [[/row]]
+          [[row]]
+            [[cell style="border: 1px solid silver"]]
+               @@ @@__可招募？__@@  @@她向我提供了她和她夥伴的那些服務。
+            [[/cell]]
+          [[/row]]
+          [[row]]
+            [[cell style="border: 1px solid silver"]]
+              @@ @@必須用名片之類的東西記下來。兩者對研究有幫助。
+            [[/cell]]
+          [[/row]]
+          [[row]]
+            [[cell style="border: 1px solid silver"]]
+               @@ @@
+            [[/cell]]
+          [[/row]]
+          [[row]]
+            [[cell style="border: 1px solid silver"]]
+               @@ @@##blue|*一名穿著引人注目的夾克的私家偵探; B. 8, p. 48##
+            [[/cell]]
+          [[/row]]
+        [[/table]]
+      [[/cell]]  [!-- End Page 2--]
+    [[/row]]
+  [[/table]]
+[[/div]]

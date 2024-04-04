@@ -1,0 +1,19 @@
+[[include info:start]]
+**原文連結：**[http://scp-wiki.wikidot.com/jack Jack]
+**作者：**[[*user thefriendlyvandal]]
+**譯者：**[[*user Danza]]
+[[include info:end]]
+
+[[module CSS]]
+#page-title {
+    display: none;
+}
+[[/module]]
+
+[[=image http://scp-wiki.wdfiles.com/local--resized-images/jack/jack/medium.jpg]]
+
+{{這並不會妨礙//被稱為Jack的東西//看到宇宙終末；畢竟//被稱為Jack的東西//見過很多事物，最後都像它這樣飄浮、漂流。某些人會稱它為神。另一些人則稱它為塵。}}
+
+{{但這不是Jack的故事。還不是。尚有很長的一段時間。}}
+
+{{[http://scp-zh-tr.wikidot.com/your-circuits-dead-theres-something-wrong 返回]}}

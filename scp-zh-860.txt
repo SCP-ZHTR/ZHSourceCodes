@@ -1,0 +1,614 @@
+[[include component:scp-meta-title-hidding]]
+[[include info:start]]
+**Author：**[[*user SamScript]]
+**Image Credit：**[[*user SamScript]]
+**篇名：**dado的「发」財藥
+
+**LINE Format Created by：**[[*user FeS_ryuukatetu]] 
+**LINE Format ZH version from：**[[*user Lostwhat]]
+[[include info:end]]
+
+[[include component:image-block
+    name=https://i.imgur.com/mzptx8S.jpg|
+    caption=SCP-ZH-860與回收到的九袋SCP-ZH-860-1之一。
+]]
+
+**項目編號：**SCP-ZH-860
+
+**項目等級：**Safe
+
+**特殊收容措施：**SCP-ZH-860被收容於Site-ZH-44地下八樓的有機項目收容間，860號safe級收容櫃中。唯一事件中產生的SCP-ZH-860-1已由安保特工回收完畢。若有更多相關事故發生，應派遣MTF-列肆-6「代幣收購」回收社會上仍在流動的SCP-ZH-860-1。SCP-ZH-860當前由Site-ZH-44／CH區「藥房」進行綜合性研究，僅有獲取該研究區負責人書面申請的許可後方可對剩餘樣本進行採集與研究。
+
+ZH分部已與基金會主站合作，協助對於關注人士超常藥理學家「dado」的追緝。
+
+**描述：**SCP-ZH-860是一種異常藥物，其外觀為小型白色扁平橢形藥錠，並用透明夾鏈袋包裝著，袋上以黑色奇異筆寫有簡體中文「dado的发财药」，當前剩餘兩碇。SCP-ZH-860的異常效應主要作用於人體的頭皮組織，促使頭皮皮膚內的毛囊細胞開始異源性分泌大量金屬物質，多半為銅離子結晶，並且在相當短的時間內將銅離子結晶匯集成可進行合法交易的新台幣硬幣，定義為SCP-ZH-860-1。經過有限次的觀察後，SCP-ZH-860-1的面額主要與受試者的年紀與生理年齡相關，並且暫時無法得出更多的關聯性。項目衍生物面額與受試者性質之間的聯繫如下表所示：
+
+||~ SCP-ZH-860-1面額 ||~ 試驗者性質 ||~ 備註 ||
+|| 一元硬幣 || 五十歲以下有髮男性 ||  ||
+|| 五元硬幣 || 所有女性人士 ||  ||
+|| 十元硬幣 || 五十歲以上有髮男性 ||  ||
+|| 五十元硬幣 || 雄性禿 || 僅生成一至二枚硬幣 ||
+
+在SCP-ZH-860-1生成的過程中，受試者頭皮組織的金屬離子來源未知，且明顯與頭皮所生成的產物金屬含量不匹配。該藥物並不會對既有的頭皮組織產生額外的生化防護，以致於在SCP-ZH-860-1的生成過程中，受試者經常有金屬中毒、組織灼傷等現象產生，並使受試者感到痛苦。已觀察到SCP-ZH-860-1的生成都在2~17分鐘內生成，且會完全取代受試者既有的頭髮，隨後自人體脫離，使之進入脫髮狀態。組織學檢驗確認經歷該程序後，受試者的毛囊生髮能力會有顯著下降。研究單位正在觀察受試者新生成的毛髮，當前皆不帶有異常性質。
+
+SCP-ZH-860-1生成後與真新台幣硬幣並無二致，並經Site-ZH-88鑑定可用於常態市場交易。然而其晶格結構將會致使SCP-ZH-860-1於數日內快速氧化鏽蝕，最後成為無法使用的偽幣。Site-ZH-44已排定SCP-ZH-860-1的進階晶格分析。
+
+由SCP-ZH-860的包裝夾鏈袋，該項目被推測來自超常藥理學家與異常通緝犯「dado」，該名人士活動範圍主要分布於美國境內，且近期於亞洲東部地區有活躍行動。對於關注人士「dado」的追查正在繼續。
+
+**收容紀錄：**於01/26/2020，基金會於截獲異常案件通報，花蓮縣四人送往壽豐門諾分院急診室，傷患頭皮有突發性灼傷，「且生出硬幣」，經鄰近站點特工涉入後，已在該民戶中進行搜查並回收項目，並且對相關人士酌情進行C級與F級記憶刪除。提供給門諾院方與當地警方的說詞則為藥物濫用導致的自傷行為。
+
+以下是在搜查過程中回收到其中一名傷患的LINE通訊紀錄。
+
+[[module CSS]]
+:root{
+--mecolor: #6DF560;
+--youcolor: #FFFFFF;
+}
+
+.me{
+position:relative;
+float: right;
+width: 75%;
+max-width: 450px !important;
+margin-bottom: 8px;
+padding-right: 12px;
+text-align: right;
+white-space: nowrap;
+}
+
+.you{
+display:inline-block;
+position:relative;
+width: 75%;
+max-width: 450px !important;
+margin-bottom: 8px;
+padding-left: 12px;
+text-align: left;
+white-space: nowrap;
+vertical-align: top;
+}
+
+.talk{
+display:inline-block;
+max-width: 75% !important;
+white-space: normal;
+color: #000000;
+border-radius:16px;
+text-align: left;
+font-size: 120%;
+padding: 6px 11px;
+vertical-align: bottom;
+}
+
+.talk p{
+margin: 0;
+}
+
+.info{
+text-align: center;
+padding: 0px 15px;
+margin-bottom: 8px;
+vertical-align: bottom;
+}
+
+.me:before{
+display:inline-block;
+content: attr(data-kidoku)"\A" attr(data-time);
+white-space: pre;
+text-align: right;
+font-size: 70%;
+color: #FFFFFF;
+}
+
+.me:after{
+content: "";
+right: -18px;
+position:absolute;
+transform: rotate(-30deg);
+height: 0;
+width: 0;
+border-top: 5px solid transparent;
+border-bottom: 5px solid transparent;
+border-right: 20px solid transparent;
+border-left: 20px solid var(--mecolor);
+}
+
+.you:before{
+content: "";
+left: -18px;
+position:absolute;
+transform: rotate(30deg);
+height: 0;
+width: 0;
+border-top: 5px solid transparent;
+border-bottom: 5px solid transparent;
+border-right: 20px solid var(--youcolor);
+border-left: 20px solid transparent;
+}
+
+.you:after{
+display:inline-block;
+content: attr(data-kidoku)"\A" attr(data-time);
+white-space: pre;
+text-align: right;
+font-size: 70%;
+color: #FFFFFF;
+}
+
+
+
+.pict .me:after,
+.stamp .me:after{
+display: none;
+}
+
+.pict .you:before,
+.stamp .you:before{
+display: none;
+}
+
+.pict .pictin{
+display:inline-block;
+width: 85%;
+max-width: 250px !important;
+max-height: 250px !important;
+}
+
+.pict .pictin .image{
+border-radius:7px;
+width: 100%;
+height: 100%;
+}
+
+.stamp .stampin{
+display:inline-block;
+width: 150px;
+height: 150px;
+}
+
+.stamp .stampin .image{
+width: 100%;
+height: 100%;
+object-fit: cover;
+}
+
+.icon{
+display:inline-block;
+float:left;
+margin-left: 5px;
+}
+
+.icon .image{
+all: initial;
+border-radius:50%;
+width:32px;
+height:32px;
+object-fit: cover;
+}
+[[/module]]
+
+[[table style="width:100%; height: 50px; color: #FFFFFF; background-color: #303060; border-collapse:collapse; font-size: 150%;"]]
+[[row]]
+[[cell style="width: 10%; text-align: center;"]]
+[[span class="fa fa-angle-left fa-2x"]]@<&nbsp;>@[[/span]]
+[[/cell]]
+[[cell style="width: 10%;"]]
+@<&nbsp;>@
+[[/cell]]
+[[cell style="text-align: center;"]]
+dado台湾(官方的帐戶)
+[[/cell]]
+[[cell style="width: 10%; text-align: center;"]]
+[[span class="fa fa-phone fa-1.5x"]]@<&nbsp;>@[[/span]]
+[[/cell]]
+[[cell style="width: 10%; text-align: center;"]]
+[[span class="fa fa-angle-down fa-2x"]]@<&nbsp;>@[[/span]]
+[[/cell]]
+[[/row]]
+[[/table]]
+
+[[div style="background-color: #6495DD; padding-top:10px; height: 450px; overflow-x: hidden; overflow-y: scroll; -webkit-overflow-scrolling: touch;"]]
+
+[[div class="info"]]
+[[div class="talk" style="color: white; background-color: #777777; font-size: 85%; opacity: 0.7;"]]
+2020年1月21日(星期二)
+[[/div]]
+[[/div]]
+
+[[div class="me" data-kidoku="已讀" data-time="15:17"]]
+[[div class="talk" style="background-color: var(--mecolor);"]]
+你好？
+[[/div]]
+[[/div]]
+[[div style="clear: right;"]]
+[[/div]]
+
+[[div class="icon"]]
+[[image https://i.imgur.com/L14sMUN.png]]
+[[/div]]
+[[div class="you" data-time="22:59"]]
+[[div class="talk"  style="background-color: var(--youcolor);"]]
+泥好这里是dado的line帐戶,我能帮你什麼
+[[/div]]
+[[/div]]
+[[div style="clear: left;"]]
+[[/div]]
+
+[[div class="icon"]]
+[[image https://i.imgur.com/L14sMUN.png]]
+[[/div]]
+[[div class="you" data-time="23:00"]]
+[[div class="talk"  style="background-color: var(--youcolor);"]]
+对不起我是在睡覺,你來自泰湾?
+[[/div]]
+[[/div]]
+[[div style="clear: left;"]]
+[[/div]]
+
+[[div class="me" data-kidoku="已讀" data-time="23:00"]]
+[[div class="talk" style="background-color: var(--mecolor);"]]
+對
+[[/div]]
+[[/div]]
+[[div style="clear: right;"]]
+[[/div]]
+
+[[div class="me" data-kidoku="已讀" data-time="23:00"]]
+[[div class="talk" style="background-color: var(--mecolor);"]]
+這是詐騙嗎？簡體字？
+[[/div]]
+[[/div]]
+[[div style="clear: right;"]]
+[[/div]]
+
+[[div class="me" data-kidoku="已讀" data-time="23:06"]]
+[[div class="talk" style="background-color: var(--mecolor);"]]
+我被介紹說你有好料的 你們都做什麼？
+[[/div]]
+[[/div]]
+[[div style="clear: right;"]]
+[[/div]]
+
+[[div class="icon"]]
+[[image https://i.imgur.com/L14sMUN.png]]
+[[/div]]
+[[div class="you" data-time="23:10"]]
+[[div class="talk"  style="background-color: var(--youcolor);"]]
+不是诈骗,dado是正規资本家,只是不会繁体
+[[/div]]
+[[/div]]
+[[div style="clear: left;"]]
+[[/div]]
+
+[[div class="icon"]]
+[[image https://i.imgur.com/L14sMUN.png]]
+[[/div]]
+[[div class="you" data-time="23:11"]]
+[[div class="talk"  style="background-color: var(--youcolor);"]]
+我找到google翻譯成繁體
+[[/div]]
+[[/div]]
+[[div style="clear: left;"]]
+[[/div]]
+
+[[div class="icon"]]
+[[image https://i.imgur.com/L14sMUN.png]]
+[[/div]]
+[[div class="you" data-time="23:12"]]
+[[div class="talk"  style="background-color: var(--youcolor);"]]
+dado是好藥劑師與資本家,做好的藥專門,非常科學與先進
+[[/div]]
+[[/div]]
+[[div style="clear: left;"]]
+[[/div]]
+
+[[div class="icon"]]
+[[image https://i.imgur.com/L14sMUN.png]]
+[[/div]]
+[[div class="you" data-time="23:13"]]
+[[div class="talk"  style="background-color: var(--youcolor);"]]
+滿足你所有願望,你要甚麼
+[[/div]]
+[[/div]]
+[[div style="clear: left;"]]
+[[/div]]
+
+[[div class="me" data-kidoku="已讀" data-time="23:13"]]
+[[div class="talk" style="background-color: var(--mecolor);"]]
+好......
+[[/div]]
+[[/div]]
+[[div style="clear: right;"]]
+[[/div]]
+
+[[div class="me" data-kidoku="已讀" data-time="23:15"]]
+[[div class="talk" style="background-color: var(--mecolor);"]]
+所以你是藥局？操，我以為誠欸說你很靈
+[[/div]]
+[[/div]]
+[[div style="clear: right;"]]
+[[/div]]
+
+[[div class="me" data-kidoku="已讀" data-time="23:16"]]
+[[div class="talk" style="background-color: var(--mecolor);"]]
+有那種開賭盤一定會贏的藥？轉運的藥？
+[[/div]]
+[[/div]]
+[[div style="clear: right;"]]
+[[/div]]
+
+[[div class="me" data-kidoku="已讀" data-time="23:16"]]
+[[div class="talk" style="background-color: var(--mecolor);"]]
+我過年要用，你有嗎
+[[/div]]
+[[/div]]
+[[div style="clear: right;"]]
+[[/div]]
+
+[[div class="info"]]
+[[div class="talk" style="color: white; background-color: #777777; font-size: 85%; opacity: 0.7;"]]
+2020年1月22日(星期三)
+[[/div]]
+[[/div]]
+
+[[div class="me" data-kidoku="已讀" data-time="10:06"]]
+[[div class="talk" style="background-color: var(--mecolor);"]]
+哈囉？
+[[/div]]
+[[/div]]
+[[div style="clear: right;"]]
+[[/div]]
+
+[[div class="icon"]]
+[[image https://i.imgur.com/L14sMUN.png]]
+[[/div]]
+[[div class="you" data-time="10:08"]]
+[[div class="talk"  style="background-color: var(--youcolor);"]]
+轉運的藥是很難而且不科學,你要贏賭博?
+[[/div]]
+[[/div]]
+[[div style="clear: left;"]]
+[[/div]]
+
+[[div class="me" data-kidoku="已讀" data-time="10:08"]]
+[[div class="talk" style="background-color: var(--mecolor);"]]
+幹
+[[/div]]
+[[/div]]
+[[div style="clear: right;"]]
+[[/div]]
+
+[[div class="me" data-kidoku="已讀" data-time="10:09"]]
+[[div class="talk" style="background-color: var(--mecolor);"]]
+沒貨就不要浪費別人時間
+[[/div]]
+[[/div]]
+[[div style="clear: right;"]]
+[[/div]]
+
+[[div class="me" data-kidoku="已讀" data-time="10:09"]]
+[[div class="talk" style="background-color: var(--mecolor);"]]
+當我很閒？
+[[/div]]
+[[/div]]
+[[div style="clear: right;"]]
+[[/div]]
+
+[[div class="icon"]]
+[[image https://i.imgur.com/L14sMUN.png]]
+[[/div]]
+[[div class="you" data-time="10:25"]]
+[[div class="talk"  style="background-color: var(--youcolor);"]]
+有貨
+[[/div]]
+[[/div]]
+[[div style="clear: left;"]]
+[[/div]]
+
+[[div class="icon"]]
+[[image https://i.imgur.com/L14sMUN.png]]
+[[/div]]
+[[div class="you" data-time="10:26"]]
+[[div class="talk"  style="background-color: var(--youcolor);"]]
+但不是運氣藥,賭博要贏錢?
+[[/div]]
+[[/div]]
+[[div style="clear: left;"]]
+[[/div]]
+
+[[div class="me" data-kidoku="已讀" data-time="10:27"]]
+[[div class="talk" style="background-color: var(--mecolor);"]]
+對
+[[/div]]
+[[/div]]
+[[div style="clear: right;"]]
+[[/div]]
+
+[[div class="me" data-kidoku="已讀" data-time="10:28"]]
+[[div class="talk" style="background-color: var(--mecolor);"]]
+甚麼貨？我都可以出但不要給我裝孝維 不然誠欸手骨會被我打斷
+[[/div]]
+[[/div]]
+[[div style="clear: right;"]]
+[[/div]]
+
+[[div class="icon"]]
+[[image https://i.imgur.com/L14sMUN.png]]
+[[/div]]
+[[div class="you" data-time="10:29"]]
+[[div class="talk"  style="background-color: var(--youcolor);"]]
+髮財藥,專門給賭徒
+[[/div]]
+[[/div]]
+[[div style="clear: left;"]]
+[[/div]]
+
+[[div class="icon"]]
+[[image https://i.imgur.com/L14sMUN.png]]
+[[/div]]
+[[div class="you" data-time="10:30"]]
+[[div class="talk"  style="background-color: var(--youcolor);"]]
+dado是好資本家,我的錢是乾淨,但是特別優惠給你
+[[/div]]
+[[/div]]
+[[div style="clear: left;"]]
+[[/div]]
+
+[[div class="icon"]]
+[[image https://i.imgur.com/L14sMUN.png]]
+[[/div]]
+[[div class="you" data-time="10:31"]]
+[[div class="talk"  style="background-color: var(--youcolor);"]]
+你有亞馬遜主要?dado海外郵寄
+[[/div]]
+[[/div]]
+[[div style="clear: left;"]]
+[[/div]]
+
+[[div class="me" data-kidoku="已讀" data-time="10:32"]]
+[[div class="talk" style="background-color: var(--mecolor);"]]
+發財藥？亞馬遜?
+[[/div]]
+[[/div]]
+[[div style="clear: right;"]]
+[[/div]]
+
+[[div class="icon"]]
+[[image https://i.imgur.com/L14sMUN.png]]
+[[/div]]
+[[div class="you" data-time="10:35"]]
+[[div class="talk"  style="background-color: var(--youcolor);"]]
+亞馬遜的會員
+[[/div]]
+[[/div]]
+[[div style="clear: left;"]]
+[[/div]]
+
+[[div class="me" data-kidoku="已讀" data-time="10:40"]]
+[[div class="talk" style="background-color: var(--mecolor);"]]
+好我兄弟說有 我多久可以拿到
+[[/div]]
+[[/div]]
+[[div style="clear: right;"]]
+[[/div]]
+
+[[div class="me" data-kidoku="已讀" data-time="10:40"]]
+[[div class="talk" style="background-color: var(--mecolor);"]]
+過年前要用 我在匯款給你
+[[/div]]
+[[/div]]
+[[div style="clear: right;"]]
+[[/div]]
+
+[[div class="icon"]]
+[[image https://i.imgur.com/L14sMUN.png]]
+[[/div]]
+[[div class="you" data-time="10:43"]]
+[[div class="talk"  style="background-color: var(--youcolor);"]]
+我可以,你要相信dado
+[[/div]]
+[[/div]]
+[[div style="clear: left;"]]
+[[/div]]
+
+[[div class="icon"]]
+[[image https://i.imgur.com/L14sMUN.png]]
+[[/div]]
+[[div class="you" data-time="10:45"]]
+[[div class="talk"  style="background-color: var(--youcolor);"]]
+dado希望你髮財成功,中國人說新年要髮大財
+[[/div]]
+[[/div]]
+[[div style="clear: left;"]]
+[[/div]]
+
+[[div class="icon"]]
+[[image https://i.imgur.com/L14sMUN.png]]
+[[/div]]
+[[div class="you" data-time="10:47"]]
+[[div class="talk"  style="background-color: var(--youcolor);"]]
+好賭博,好髮財,月亮新年快樂
+[[/div]]
+[[/div]]
+[[div style="clear: left;"]]
+[[/div]]
+
+[[div class="info"]]
+[[div class="talk" style="color: white; background-color: #777777; font-size: 85%; opacity: 0.7;"]]
+2020年1月25日(星期一)
+[[/div]]
+[[/div]]
+
+[[div class="me" data-kidoku="已讀" data-time="17:44"]]
+[[div class="talk" style="background-color: var(--mecolor);"]]
+收到貨了，謝謝
+[[/div]]
+[[/div]]
+[[div style="clear: right;"]]
+[[/div]]
+
+[[div class="info"]]
+[[div class="talk" style="color: white; background-color: #777777; font-size: 85%; opacity: 0.7;"]]
+2020年1月26日(星期二)
+[[/div]]
+[[/div]]
+
+[[div class="me" data-time="20:36"]]
+[[div class="talk" style="background-color: var(--mecolor);"]]
+幹拎娘這是三小
+[[/div]]
+[[/div]]
+[[div style="clear: right;"]]
+[[/div]]
+
+[[div class="me" data-time="20:36"]]
+[[div class="talk" style="background-color: var(--mecolor);"]]
+我的頭在燒
+[[/div]]
+[[/div]]
+[[div style="clear: right;"]]
+[[/div]]
+
+[[div class="me" data-time="20:36"]]
+[[div class="talk" style="background-color: var(--mecolor);"]]
+你家了甚麼
+[[/div]]
+[[/div]]
+[[div style="clear: right;"]]
+[[/div]]
+
+[[div class="me" data-time="20:42"]]
+[[div class="talk" style="background-color: var(--mecolor);"]]
+對不起我需要解藥
+[[/div]]
+[[/div]]
+[[div style="clear: right;"]]
+[[/div]]
+
+[[div class="me" data-time="20:42"]]
+[[div class="talk" style="background-color: var(--mecolor);"]]
+在嗎
+[[/div]]
+[[/div]]
+[[div style="clear: right;"]]
+[[/div]]
+
+[[div class="me" data-time="20:45"]]
+[[div class="talk" style="background-color: var(--mecolor);"]]
+幹 你加了甚麼會長錢幣
+[[/div]]
+[[/div]]
+[[div style="clear: right;"]]
+[[/div]]
+
+[[div class="me" data-time="20:47"]]
+[[div class="talk" style="background-color: var(--mecolor);"]]
+哈囉？
+[[/div]]
+[[/div]]
+[[div style="clear: right;"]]
+[[/div]]
+
+[[/div]]
+
+該帳戶目前似乎已經封鎖。LINE的官方公司對基金會協商人員表示，他們無法獲得任何對於此使用者的資訊。嘗試透過通訊軟體LINE對此帳戶進行追查的行動仍然在進行中。

@@ -1,0 +1,74 @@
+[[include :scp-zh-tr:theme:black-highlighter-theme]]
+[[include :scp-zh-tr:component:scp-meta-title-hiding css-style=bhl]]
+[[include :scp-zh-tr:component:pride-highlighter |inc-lgbt-alt= --]]]
+[[include info:start]]
+原文：[http://www.scpwiki.com/scp-6975 SCP-6975] 通用重置鈕 
+作者：[[*user LightlessLantern]]
+譯者：[[*user Frederica Bernkastel]]
+[[include info:end]]
+**項目編號：** SCP-6975
+
+**收容等級：** Thaumiel
+
+**特殊收容措施：** SCP-6975收容於伊朗站點Site-14的08號收容間，唯有在遵照哈卡姆[[footnote]]**譯注：**Hakam，伊斯蘭語的「法官」、「仲裁人」、「正義的施行者」，同時也是其真主的名稱之一。[[/footnote]]計畫的指令下方能對其進行破壞。
+
+SCP-6975-1實體已分送至基金會各站點處。如需額外的SCP-6975-1實體，可透過[[[SCP-1106]]]取得其材料。
+
+
+**描述：** SCP-6975是伊朗公民Ruqayyah Abbas的心臟。一旦SCP-6975遭到使之無法運作之損害，周圍地區的時空狀態[[footnote]]當前尚未確認其實際範圍大小。[[/footnote]]將回溯至8小時前的狀態。僅有事件發生時距離SCP-6975或SCP-6975-1實體10公尺以內之人類能保留遭回溯的8小時記憶。
+
+SCP-6975-1實體是Ruqayyah Abbas的肉塊，每塊大小均為1立方公分，並裝在適當大小的防腐容器中。
+
+
+**發現：** 1953年08月12日，一輛卡車在伊朗克不曼沙赫省撞毀，導致Abbas家族的數名成員當場死亡，Ruqayyah Abbas也在隨後的十分鐘內因失血過多致死。
+
+同日，Site-14紀錄到了一起時間異常現象。基金會職員發現SCP-6975即是該異常的發源，Ruqayyah Abbas隨即被送往了Site-14。Abbas家族接受了C級記憶刪除措施，基金會安排了Ruqayyah死於先天性心臟病的掩蓋故事。已提供一名6歲女童的屍體進行埋葬。
+
+1953年09月27日，監督者指揮部開始受理將SCP-6975改造供基金會內部使用之提案。
+
+**已否決之提案：**
+
+> **提案人：** Edgar Santiago，Site-14 時間分析部初級研究員。
+> 
+> **提案方式：** 連續處決Ruqayyah Abbas數次，確認SCP-6975之時間回溯是否有次數限制。
+> 
+> **監督者指揮部回應：** [[span style="color:red;"]]否決[[/span]]。該提案難以提供無法從其他來源更易獲得之時間異常資訊。
+
+> **提案人：** Charlotte Pennycock，Site-14模因與認知危害部高級研究員
+> 
+> **提案方式：** 將實驗對象暴露於可能的認知危害異常情況下時令Ruqayyah Abbas在場。一旦發現認知危害觸發便將Ruqayyah Abbas處決。這將使時間回溯至最初暴露狀態前，從而在保全測試對象的前提下確認認知危害的有無。
+> 
+> **監督者指揮部回應：** [[span style="color:red;"]]否決[[/span]]。Ruqayyah Abbas可能會同樣暴露於認知危害之下，應顧慮時間異常與認知危害間的未知關係。
+
+> **提案人：** Hugh Kirkwell，高優先訊問部部長
+> 
+> **提案方式：** 在訊問俘虜敵對組織特工時令Ruqayyah Abbas在場。並於7小時後將Ruqayyah Abbas處決以實現無限期重複訊問，並不斷透過回溯前獲得之資訊拼湊出我方的所求資訊，使訊問能在最短的過程中獲得最大的成果。
+> 
+> **監督者指揮部回應：** [[span style="color:red;"]]否決[[/span]]。訊問過程中極有可能洩露出資訊危害，並對Ruqayyah Abbas和SCP-6975造成損害。
+
+1953年10月12日，Charles Martin[[footnote]]Site-14站點主任。[[/footnote]] 提交了哈卡姆計畫，詳細說明了將SCP-6975整合入基金會防禦系統之建議。在初步通過後，該提案被轉交給倫理委員會審查。監督者指揮部駁回了所有隨之而來的道德反對意見。
+
+
+**哈卡姆計畫：**
+
+1953年10月29日到1955年8月7日期間，超過100000個SCP-6975-1實體自Ruqayyah Abbas的身體中提取並分發至所有基金會站點，確保全站點都受到SCP-6975-1的記憶保存效果完整覆蓋。
+
+1955年8月30日，SCP-6975透過手術自Ruqayyah Abbas身體取出，並轉移到合適的人體心跳擬似機器上。隨後，Ruqayyah Abbas的屍體按照基金會生物廢棄物處理規章焚毀。
+
+截至1975年7月12日為止，哈卡姆計畫已經令基金會阻止了19起敵對者襲擊，26起收容突破，並避免了至少39億人的死亡。
+
+
+[[footnoteblock]]
+
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[SCP-6974]]] | SCP-6975 | [[[SCP-6976]]] >>
+[[/=]]
+[[/div]]
+
+[[include :scp-zh-tr:component:license-box
+|author=LightlessLantern]]
+=====
+> Inspired by [[[SCP-5392]]] by [[*user Cremo]].
+=====
+[[include :scp-zh-tr:component:license-box-end]]

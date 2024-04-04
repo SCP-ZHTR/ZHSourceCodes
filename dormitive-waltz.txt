@@ -1,0 +1,10 @@
+[[include :scp-wiki:theme:black-highlighter-theme]]
+[[include :scp-wiki:theme:isolated-terminal]]
+[[module rate]]
+[[image https://i.imgur.com/Pgt4WxA.jpg]]
+@@ @@
+> 檔案名稱：Anesthetic
+> 版權所有者：[https://www.facebook.com/profile.php?id=100077365104849 Affinis Blau]
+> 圖像授權協議：Creative Commons Attribution-Share Alike 3.0
+> 來源：https://www.facebook.com/100077365104849/posts/pfbid02PFBFD2e1gcDtBFtK27ZfSNAXtfbZdcdossvVJXUXE2qw3St5RvzMkbSwG1EhqiKil/?d=n
+> 圖像為本人[[*user k1s10r0db00ne]]委托非wikidot用戶Affinis Blau繪製。

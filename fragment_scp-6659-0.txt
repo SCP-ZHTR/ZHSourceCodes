@@ -1,0 +1,28 @@
+[[include :scp-wiki:theme:admo]]
+
+[[module CSS]]
+
+:root {
+
+--header-title: "告誡";
+
+--admo-backdrop: url(https://scp-wiki.wikidot.com/local--files/admonition/admo-6659-bg.webp);
+
+--admo-color-bright: 194, 85, 0;
+--admo-color-dim: 24, 7, 0;
+--admo-color-dark: 7, 4, 0;
+--admo-color-alt: 161, 75, 8;
+
+--general-border-color: 77, 44, 31;
+--basalt-tertiary-color: 35, 21, 8;
+--darkdocument-background-color: 19, 7, 2;
+
+--four-color: var(--admo-color-bright) !important;
+
+}
+
+[[/module]]
+
+[[div class="admo-accessibility"]]
+[[span class="cond"]]>> [/scp-6659/offset/1 閱讀無障礙模式] <<[[/span]]
+[[/div]]

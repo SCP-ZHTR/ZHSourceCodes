@@ -1,0 +1,6 @@
+image: 'https://i.imgur.com/6ATc8Qo.jpg'
+owner: 狗蟻
+owner-wiki: s97169
+license: '0'
+other-license: ''
+note: 好看蓮花

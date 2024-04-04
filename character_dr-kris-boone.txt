@@ -1,0 +1,18 @@
+[[include character:start]]
+
+----
+
++++++* Kris Boone 博士[[# Kris]]
+
+北歐人種。黑髮。平常在實驗袍內穿著神父服。與大部分人關係友好；對上司會致以嚴肅謹慎的工作態度，對平輩及下屬友善，[[[scp-zh-133|對可消耗人員不施除非必要關懷外的情感]]]。[[[the-very-hungry-dr-kris|喜好食肉]]]。
+
+2014年時被捲入一次[[[thunderstorm|意外]]]而需要接受言語治療，兩年後的2016年重返基金會[[[the-rain-fell-overnight|12站]]]工作。目前作為流動人員，每季度前往其他站點進行為期約一星期的檢查。
+
+[[collapsible show="⍎You see red." hide="⍎Open vein."]]
+
+真實名稱可能為 Valmúa 。2013年在特遣隊於北歐地區的突擊中，作為[[[today-is-just-another-ordinary-day|落單的欲肉教徒]]]被發現並捕捉。調查後確認除了具有紅色型的再生能力外，還有多種身體改造的跡象。由身上的刺青推測是一名輔路他。由於保有研究價值，進行 F 級記憶刪除後，被人格重塑為目前的 Dr. Kris。為防止發生[[[overcast|記憶刪除逆反意外]]]，嚴禁使用任何類型記憶強化劑。
+
+[[/collapsible]]
+
+所有被標記為 //Kris博士// 的檔案都可以在[/system:page-tags/tag/kris博士 這裡]找到。
+[[include character:end]]

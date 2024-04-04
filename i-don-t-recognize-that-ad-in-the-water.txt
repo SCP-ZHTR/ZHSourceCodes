@@ -1,0 +1,33 @@
+[[include :scp-wiki:component:black-highlighter-theme-dev]]
+[[include :scptestwiki:component:rounderformat]]
+
+[[include info:start]]
+作者：[[*user k1s10r0d]]
+[[include info:end]]
+
+[[div style="display: block ; border : dashed 1px #444444 ; background :#f5f5f5; margin-left : auto ; margin-right : auto ; width : auto ; padding:10px"]]
+
+[[=]]
+{{**請對準麥克風緩慢清晰的重複以下語句：**}}
+
+{{我不認得水裡的屍體。}}
+
+[[collapsible show="☐ 運行改良版語音變化幅度處理器：" hide="☑ 處理完成。結果如下。"]]
+
+[[image https://media.giphy.com/media/cl9KNqxr7U0c9we4TR/giphy.gif]]
+
+{{**[[span style="color:red"]] [✘]檢測未完成。用戶CRV已超過允許的範圍。用戶CRV已被有效認知危害影響。請不要移動，你所在站點的一名醫療人人[''///afe44/25\23會盡快趕到。[[/span]]**}}
+
+> AD...?
+
+[[/collapsible]]
+[[/div]]
+[[/=]]
+----
+[[collapsible show="原圖" hide="-原圖"]]
+
+[[image https://imgur.com/HqSGmy6.jpg]]
+
+[[image https://imgur.com/DMG0SEs.jpg]]
+
+[[/collapsible]]

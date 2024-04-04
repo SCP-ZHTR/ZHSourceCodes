@@ -1,0 +1,18 @@
+[[include component:scp-meta-title-hiding css-style=classic]]
+
+[[include :scp-zh-tr:info:start]]
+**作品標題：**SCP-ZH-500
+**作者**：[[*user ting129]]
+[[include :scp-zh-tr:info:more]]
+[[=]]
+[[[http://scp-zh-tr.wikidot.com/ting129|前往作者頁]]]
+[[/=]]
+[[include :scp-wiki:info:end]]
+
+[[module ListPages  category="fragment" parent="." limit="1" order="created_at" offset="@URL|0"]]
+%%content%%
+[[/module]]
+
+[!-- http://scp-zh-tr.wikidot.com/fragment:scp-zh-500-1 --]
+[!-- http://scp-zh-tr.wikidot.com/fragment:scp-zh-500-2 --]
+[!-- http://scp-zh-tr.wikidot.com/fragment:scp-zh-500-3 --]

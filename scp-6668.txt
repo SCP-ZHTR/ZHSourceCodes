@@ -1,0 +1,85 @@
+[[include theme:black-highlighter-theme]]
+[[include component:bhl-dark-sidebar]]
+[[include component:blacklight-box-source |inc-source= --]]]
+[[include component:scp-meta-title-hiding]]
+
+
+[[module CSS]]
+
+.info-container .collapsible-block-folded a{
+color: #FFF;}
+.info-container .collapsible-block-unfolded-link a{
+color: #FFF;
+}
+
+#page-content .collapsible-block {
+    display: block;
+    text-align: center;
+    padding: .8em;
+    background-color: #e3e3e3;
+    border-top: 0.125rem dashed #b5b5b5;
+    border-bottom: 0.125rem dashed #b5b5b5;
+}
+
+#page-content .collapsible-block .collapsible-block-content {
+    text-align: left;
+}
+
+#page-content .license-box .collapsible-block {
+
+    display: unset;
+    text-align: unset;
+    padding: unset;
+    background-color: unset;
+    border-top: unset;
+    border-bottom: unset;
+}
+
+
+
+#page-content .license-box .collapsible-block .collapsible-block-content {
+    text-align: unset;
+}
+
+blockquote,
+div.blockquote {
+    border: 0.125rem solid #d4d4d4;
+    background-color: #F5F5F5;
+}
+
+.interview{
+    border:solid 2px #d4d4d4;
+    text-align: left;
+    background:#F5F5F5;
+    width:90%;
+    padding:1px 15px;
+    margin: 10px auto;
+}
+#page-title{display:none}
+[[/module]]
+[[module css]]
+@font-face {
+font-display:swap;
+}
+[[/module]]
+
+[[include info:start]]
+[[=]]
+
+[*http://scp-wiki.wikidot.com/dysadron 在作者頁查找更多該作者的作品]
+**譯者：** [[*user vomiter]]
+**標題：** SCP-6668 - 群襲
+
+[[/=]]
+[[include info:end]]
+
+[[module ListPages  category="fragment" parent="." limit="1" order="created_at" offset="@URL|0"]]
+%%content%%
+[[/module]]
+
+[!-- /fragment:scp-6668-1 --]
+[!-- /fragment:scp-6668-2 --]
+[!-- /fragment:scp-6668-3 --]
+[!-- /fragment:scp-6668-4 --]
+[!-- /fragment:scp-6668-5 --]
+[!-- /fragment:scp-6668-6 --]

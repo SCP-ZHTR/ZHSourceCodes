@@ -1,0 +1,238 @@
+[[include credit:start]]
+**標題：** RTa_technology's Artwork
+**作者：** ©[[*user RTa_technology]]
+**譯者：** [[*user vomiter]]
+**創作年份：** 2019-2020
+**翻譯年份：** 2020
+[[include credit:end]]
+
+[[module ListUsers users="."]]
++ [[user %%name%%]]，歡迎你！**請悠閒享受喔！**
+[[/module]]
+
+這是[[*user RTa_technology]]過去的藝術作品。
+主要是把刊載在推特上的東西放過來。
+
+@@@@
+@@@@
+@@@@
+-----
++ SCP-1983 - 至無處之門
+[[include component:image-block
+name=http://scp-jp.wdfiles.com/local--files/rta-s-artwork/SCP-1983-1.jpg|
+align=center|
+caption=祝好運。來自將死之人的致敬。|
+width=640px|
+]]
+
+[[include component:image-block
+name=http://scp-jp.wdfiles.com/local--files/rta-s-artwork/SCP-1983-2.jpg|
+align=center|
+caption=Good luck.Morituri te salutant.|
+width=640px|
+]]
+
+
+[[[SCP-1983|原作品]]]
+
+[[div style="padding:10px 20px;margin:0 0 20px;border-left:5px solid #eeeeee;}blockquote p{font-size:17.5px;font-weight:300;line-height:1.25;x"]]
+[[div style="font-family:'Helvetica','Yu Gothic',sans-serif;;font-size: 100%;font-style:italic;"]]
+Author: [[*user DrEverettMann]]
+Title: SCP-1983 - 至無處之門
+Source: http://www.scp-wiki.net/scp-1983
+CC-BY-SA 3.0
+[[/div]]
+[[div style="padding:10px 20px;margin:0 0 20px;border-left:5px solid #eeeeee;}blockquote p{font-size:17.5px;font-weight:300;line-height:1.25;x"]]
+[[div style="font-family:  YuGothic,'Yu Gothic',sans-serif;;font-size: 100%;font-style:italic;"]]
+在工業用的黑色電路板上鍍金作為表現手法。我覺得 --使用鍍金的話就不容易發生腐蝕劣化了-- 在設計上還有視覺觀感上看起來都有比較好的效果，所以選擇了用鍍金作為表現手法。
+花費時間：數個月以上
+[[/div]]
+[[/div]]
+[[/div]]
+
+-----
++ SCP-8900-EX - 藍天殞落
+[[include component:image-block
+name=http://scp-jp.wdfiles.com/local--files/rta-s-artwork/SCP-8900-EX-1.jpg|
+align=center|
+caption=各位，我們失敗了。|
+width=640px|
+]]
+[[include component:image-block
+name=http://scp-jp.wdfiles.com/local--files/rta-s-artwork/SCP-8900-EX-2.jpg|
+align=center|
+caption=It must be done.
+─ O5-8
+Secure. Contain. Protect.|
+width=640px|
+]]
+
+
+[[[SCP-8900-EX|原作品]]]
+
+[[div style="padding:10px 20px;margin:0 0 20px;border-left:5px solid #eeeeee;}blockquote p{font-size:17.5px;font-weight:300;line-height:1.25;x"]]
+[[div style="font-family:'Helvetica','Yu Gothic',sans-serif;;font-size: 100%;font-style:italic;"]]
+Author: [[*user tunedtoadeadchannel]]
+Title: SCP-8900-EX - 藍天殞落
+Source: http://www.scp-wiki.net/scp-8900-ex
+CC-BY-SA 3.0
+[[/div]]
+[[div style="padding:10px 20px;margin:0 0 20px;border-left:5px solid #eeeeee;}blockquote p{font-size:17.5px;font-weight:300;line-height:1.25;x"]]
+[[div style="font-family:  YuGothic,'Yu Gothic',sans-serif;;font-size: 100%;font-style:italic;"]]
+在工業用的藍色電路板上鍍金作為表現手法。我想用白色的絲質印刷表現雲朵，可以把SCP-8900-EX表現出來。
+花費時間：數個月以上
+[[/div]]
+[[/div]]
+[[/div]]
+
+-----
++ Eve.aic
+[[include component:image-block
+name=http://www.scp-wiki.net/local--files/rta-s-artwork/eve-1.jpg|
+align=center|
+caption=Eve.aic|
+width=640px|
+]]
+[[include component:image-block
+name=http://www.scp-wiki.net/local--files/rta-s-artwork/eve-2.jpg|
+align=center|
+caption=Eve.aic|
+width=640px|
+]]
+[*https://twitter.com/Eve_scp Eve.aic]
+[[div style="padding:0px 20px;margin:0 0 20px;border-left:5px solid #eeeeee;}blockquote p{font-size:17.5px;font-weight:300;line-height:1.25;x"]]
+[[div style="font-family: 'Times New Roman',sans-serif;;font-size: 100%;font-style:italic;"]]
+Eve ©Living_deadroom
+https://twitter.com/Eve_scp
+CC BY-SA 3.0
+[[/div]]
+[[div style="padding:0px 20px;margin:0 0 20px;border-left:5px solid #eeeeee;}blockquote p{font-size:17.5px;font-weight:300;line-height:1.25;x"]]
+[[div style="font-family:  YuGothic,'Yu Gothic',sans-serif;;font-size: 100%;font-style:italic;"]]
+這是特別在紅色的電路板上做雙色（白與黑）絲綢印刷而成的作品。
+花費時間：大約半年
+[[/div]]
+[[/div]]
+[[/div]]
+
+@@ @@
+@@ @@
+[[# SCP-Scale]]
+
++ SCP-Scale
+[[include component:image-block
+name=http://www.scp-wiki.net/local--files/rta-s-artwork/scp-scale-1.jpg|
+align=center|
+caption=About The SCP Foundation|
+width=700px|
+]]
+[[include component:image-block
+name=http://www.scp-wiki.net/local--files/rta-s-artwork/scp-scale-2.jpg|
+align=center|
+caption=About The SCP Foundation|
+width=700px|
+]]
+[*http://www.scp-wiki.net/about-the-scp-foundation Original]
+[[div style="padding:0px 20px;margin:0 0 20px;border-left:5px solid #def;}blockquote p{font-size:17.5px;font-weight:300;line-height:1.25;x"]]
+Author: [[*user Aelanna]]
+Title: About The SCP Foundation
+Source: http://www.scp-wiki.net/about-the-scp-foundation
+CC-BY-SA 3.0
+[[div style="padding:0px 20px;margin:0 0 20px;border-left:5px solid #def;}blockquote p{font-size:17.5px;font-weight:300;line-height:1.25;x"]]
+用印刷電路板做成的直尺。
+很硬！耐久性很夠！不會輕易彎曲！
+就是這樣的直尺。
+銀色的部分有鍍層，所以一直都是閃亮亮的！
+[[/div]]
+[[/div]]
+
+[[collapsible show="+ 反面內容 +" hide="- 關閉 -" hideLocation="top"]]
+[[div class="content-panel standalone"]]
+[[size 130%]]**人類已經在這世上存在了25萬年，而只有最近的4000年是有意義的。**
+
+那麼，我們在這25萬年當中又做了什麼？我們蜷縮在洞穴裡的小火堆旁，害怕著那些我們所不能理解的事情。這不只是關於太陽為何東升西落的解釋，而是包含有著人類頭顱的巨鳥以及活過來的石頭在內的一切神秘存在。然後我們就稱它們為「神明」或是「惡魔」，乞求它們的饒恕，並祈禱獲得救贖。
+
+隨著時間的推移，彼消此長。我們懼怕的對象不再那麼多，於是這個世界開始變得更易於理解，然而無法解釋的事物永遠不會消失，彷彿荒謬和違背常理是宇宙不可或缺的一環。
+
+**人類不能回頭躲進恐懼的陰霾中。** 沒有東西會保護我們，人類必須為了自己而挺身而出。
+
+當人們處在光明時，我們必須站在黑暗中與之抗爭，收容它，並將它隔絕在公眾的目光之外，以便其他人類可以生活在一個理智而正常的世界中。
+[[image http://scp-wiki.wdfiles.com/local--files/about-the-scp-foundation/scp-logo-signature.png style="width: 63px; margin: 12px 15px 0 42px; float: left;"]]
+**我們控制，我們收容，我們保護。**
+
+**-- The Administrator**[[/size]]
+[[/div]]
+[[/collapsible]]
+
+@@ @@
+@@ @@
+[[# GOC-Scale]]
+
++ GOC-Scale
+[[include component:image-block
+name=http://www.scp-wiki.net/local--files/rta-s-artwork/goc-scale-1.jpg|
+align=center|
+caption=About GOC|
+width=700px|
+]]
+
+[[div style="padding:0px 20px;margin:0 0 20px;border-left:5px solid #def;}blockquote p{font-size:17.5px;font-weight:300;line-height:1.25;x"]]
+
+||生存||破壞||
+||隱匿||教育||
+||保護||　||
+
+[[/div]]
+
+[[include component:image-block
+name=http://www.scp-wiki.net/local--files/rta-s-artwork/goc-scale-2.jpg|
+align=center|
+caption=THE GLOBAL OCCULT COALITION
+From the Desk of the Under-Secretary General|
+width=700px|
+]]
+[*http://www.scp-wiki.net/goc-hub-page Original]
+[[div style="padding:0px 20px;margin:0 0 20px;border-left:5px solid #def;}blockquote p{font-size:17.5px;font-weight:300;line-height:1.25;x"]]
+Author: [[*user DrClef]]
+Title: Global Occult Coalition Casefiles
+Source: http://www.scp-wiki.net/goc-hub-page
+CC BY-SA 3.0
+[[div style="padding:0px 20px;margin:0 0 20px;border-left:5px solid #def;}blockquote p{font-size:17.5px;font-weight:300;line-height:1.25;x"]]
+用印刷電路板做成的直尺。
+很硬！耐久性很夠！不會輕易彎曲！
+就是這樣的直尺。
+銀色的部分有鍍層，所以一直都是閃亮亮的！
+[[/div]]
+[[/div]]
+
+[[collapsible show="+ 反面內容 +" hide="- 關閉 -" hideLocation="top"]]
+[[module ListUsers users="."]]
+歡迎你  [[user {$%%name%%}]]。
+[[/module]]
+你想知道更多事情。所以你才會在這裡。不管你是物理部門的新人、我等108個加盟組織的一員、外部人士、或者只是有點關聯的普通民眾，你現在之所以會在這裡，是因為你見到人類為了在這個超自然現象真實存在的世界裡倖存並且繁榮而持續不斷掙扎，並為此感動。你來到這裡是要在我們這個種族與黑暗永無止境的戰爭中出一份力。所以我在這裡要對你這麼說：歡迎。
+
+至於那些會對人類造成危害的東西，我會對你們這麼說，全球超自然聯盟做好準備要從任何敵人手中守護人類。任何手段都在所不惜。
+
+誠摯的
+[[image http://scp-jp.wikidot.com/local--files/goc-hub-page/dcaf%281%29.png]]
+秘書長D. C. al Fine
+聯合國全球超自然聯盟
+[[/collapsible]]
+
+[[module css]]
+.content-panel {
+    border: solid 1px #888880;
+    border-radius: 10px;
+    background-color: #999990;
+    margin: 10px 0 15px;
+    box-shadow: 3px 3px 6px #bbb;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.5), inset 0 1px rgba(255,255,255,0.3), inset 0 10px rgba(255,255,255,0.2), inset 0 10px 20px rgba(255,255,255,0.25), inset 0 -15px 30px rgba(0,0,0,0.1);
+}
+.content-panel.standalone {
+    font-family: Courier New, Courier, monospace;
+    width: 575px;
+    padding: 10px 30px;
+    margin: 20px auto;
+    background: url(/local--files/about-the-scp-foundation/bg-marble.png) repeat;
+    text-shadow: 1px 1px 1px rgba(0,0,0,.25);
+}
+[[/module]]

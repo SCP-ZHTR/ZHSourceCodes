@@ -1,0 +1,31 @@
+[[include :scp-zh-tr:component:scp-meta-title-hiding css-style=classic]]
+[[include info:start]]
+**作者：**[[*user aindavis_817]]、[[*user samscript]]
+**篇名：**SCP-ZH-962 - 似是而非
+
+= 參加[[[halloween-event-2022|2022萬聖事件]]]，接觸主題：「地圖」、「家」。
+
+**Image Credit:**
+
+1. The header tunnel picture is made by [https://www.flickr.com/photos/morten812/ Morten Jenson] , adapted from [https://www.flickr.com/photos/morten812/14667577948/ here] and should be used under CC BY-SA 2.0 License
+
+2. The old conveyor photo is made by [https://www.flickr.com/photos/londonmatt/ Matt Brown], adapted from [https://www.flickr.com/photos/londonmatt/14761673130/ here] with MoshPhoto Website, and should be spread under CC BY 2.0 License
+
+3. The signature of character Annice I. Norton is created by page author [[*user aindavis_817]] and should be spread under CC BY-SA 3.0 License.
+
+4. The monochromic factory image is created by [https://www.flickr.com/photos/47476117@N04/ Ivan], adapted from [https://www.flickr.com/photos/47476117@N04/24001647684 here] and should follow CC BY 2.0 License.
+
+5. The chromic conveyor photo is created by [https://www.flickr.com/photos/beeveephoto/ beeveephoto], adapted from [https://www.flickr.com/photos/beeveephoto/24067393443/ here] and should follow CC BY-SA 2.0 License.
+
+[[include info:end]]
+
+[[module ListPages category="fragment" parent="." limit="1" order="created_at" offset="@URL|0"]]
+%%content%%
+[[/module]]
+
+[!-- 各迭代的原始頁面--]
+[!-- http://scp-zh-tr.wikidot.com/fragment:scp-zh-962-1 --]
+[!-- http://scp-zh-tr.wikidot.com/fragment:scp-zh-962-2 --]
+[!-- http://scp-zh-tr.wikidot.com/fragment:scp-zh-962-3 --]
+
+[!--若想要查看額外的第三迭代，可參考 http://scp-zh-tr.wikidot.com/scp-zh-962/offset/2 --]

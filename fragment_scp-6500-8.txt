@@ -1,0 +1,197 @@
+[[div style="display: none;"]]
+[[include :scp-zh-tr:theme:placestyle]]
+[[/div]]
+[[include :scp-zh-tr:component:fade-in speed=1]]
+
+[[module css]]
+body {
+    background-image: linear-gradient(
+        to bottom,
+        #FFD700, #2F333C 200px,
+        #2F333C 200px, #2F333C 100%);
+}
+
+:root {
+  --header-title: "監督者";
+  --header-subtitle: "犧牲 賦予 權力";
+  --lgurl: url('https://scp-wiki.wdfiles.com/local--files/fragment%3Ascp-6500-2/overwatchheader.svg');
+  --accentColor: #FFD700;
+}
+
+div#extra-div-1 {
+    filter: brightness(100%);
+    height: 100px;
+    margin-top: 30px;
+}
+
+#header h1 a::before {
+    color: transparent;
+}
+
+#header h2::before {
+    color: transparent;
+}
+
+.bt {
+    filter: none;
+}
+
+@keyframes rotation {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(359deg);
+  }
+}
+
+.no {
+    font-size: 125%;
+}
+
+.no:hover {
+    filter: opacity(0.5);
+    cursor: not-allowed;
+}
+
+#login-status {
+    color: #21252E;
+}
+#login-status a {
+    color: #21252E;
+}
+#login-status ul a {
+    color: #ededed;
+    background: #21252E;
+}
+#login-status ul a:hover {
+    color: #21252E;
+}
+#account-topbutton{
+    border: solid 1px #21252E;
+}
+
+.fancyborder {
+    border-radius: 5rem;
+}
+
+.fancyborder .fnnum::after {
+    color: #000;
+}
+
+@media (max-width: 706px) {
+    .fancyborder {
+        border-radius: 1rem;
+    }
+}
+
+.cards {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+}
+
+.cards > div {
+    margin: -12px;
+}
+
+.redbox {
+  --accentColor: #f24;
+}
+[[/module]]
+[[include :scp-sandbox2-zh:draft:no-return-header eye-colour=fed700]]
+
+
+= [[span class="bt"]]__附錄__：[[/span]] 匯報資料
+
+= 重新提交許可憑證，以訪問SCP-6500-α回收任務後相關報告。
+
+[[div class="darkbox redbox"]]
+= **[[span class="bt"]]雙趾背叛行動[[/span]]簡述：**
+
+在全球超自然聯盟的特工搶奪奧瑞卡科斯原石(SCP-6500-α-Codex)三天後，已發布公告將追授Katherine Jean Sinclair博士與其丈夫Montgomery Reynolds煉金術顧問基金會榮譽勳章，且兩人的葬禮將在康森威辛州斯洛斯皮特舉行，他們的基金會生涯大部分時間都在此處生活與工作。
+
+殘餘的敘事能量被操縱，以確保由Martin Bowe所領導之全球超自然聯盟勢力可於喪禮當日入侵Nexus的嘗試。該站點絕大部分全體成員都將參與迎擊。
+
+聯盟成功佔領了Nexus-18的城鎮核心，並在計劃入侵Site-87的同時試圖奪取基金會的資產，並拘留或/與審訊與基金會結盟的平民。然而，Nx-18內部的敘事力量在數個方面極大幅度阻卻了聯盟的行動：
+
+* 一名聯盟特工與她悲傷的前未婚夫意外重逢，後者本以為她已經死亡，這導致整個突擊隊轉而攻擊Bowe的部隊；
+* 一群青少年使數名聯盟特工喪失能力，並偷取其武器和補給品，這些物資後來被用來加固城市內的各個學校；
+* UAE-Chapman-971 ("醬堡神偷")突然出現，其存在妨礙了聯盟廣播與傳輸的發送；
+* 數十名活命主義者向受過訓練的公民發放大量武器，同時在目前仍然未知大小的掩體中為平民提供庇護。
+
+最終Martin Bowe突破了Site-87的入口，隨後他試圖前往主任辦公室，推測將實行刺殺行動。主任在數小時前便已被疏散；相反的，他遇到了Sinclair博士與Reynolds顧問。儘管兩人都受到重傷，Sinclair幾乎要失去她腹中的胎兒，但兩人都倖存且正在復原中。
+
+Martin Bowe試圖透過奧瑞卡科斯原石制服Sinclair與Reynolds。但在Bowe奪取該物件前，兩人早已接觸原石一月有餘，這導致原石與兩人的存在協調一致。這反過來使Sinclair得以發動一個術式，將其自Bowe的控制下奪回，並回到基金會的手中。
+
+Bowe的身體隨即承受了其進入斯洛斯皮特帶有之惡意敘事「重量」，並因此心臟驟停。他目前情況危急，但預計仍能康復並接受審判。
+[[/div]]
+@@ @@
+[[=]]
+[[span class="bt]]__輸入監督者憑證：__[[/span]]
+
+//我是重生之作者//
+//於火、水、氣與土之中//
+//我受蔑視的隻身站立//
+//但當真相被揭曉時//
+
+[[html]]
+<body>
+<center>
+<form onsubmit="checkPswd();">
+    <label for="pswd"></label>
+    <input type="password" id="pswd">
+    <input type="button" value="提交" onclick="checkPswd();" />
+</form>
+<script type="text/javascript">
+   function checkPswd() {
+    var confirmPassword = "我將永不消逝";
+    var spacedPassword = "I WILL NOT FADE";
+    var password = document.getElementById("pswd").value;
+     if (password.toUpperCase() == confirmPassword || password.toUpperCase() == spacedPassword) {
+   window.open('http://www.scp-zh-tr.wikidot.com/scp-6500//offset/10');
+}
+  else{
+      alert('潔淨不完全；亡靈沉浸失敗。返回訪問頁面以重新領受聖禮。');
+}
+}
+</script>
+</center>
+</body>
+[[/html]]
+[[/=]]
+@@ @@
+[[div_ class="fancyhr"]]
+----
+[[/div]]
+@@ @@
+[[=]]
++ //選擇你的道路//
+[[/=]]
+
+@@ @@
+[[div class="cards"]]
+[[f=image https://i.imgur.com/34HxPx6.png link="http://scp-zh-tr.wikidot.com/scp-6500/offset/2" width="180px"]]
+[[f=image https://i.imgur.com/AdXN4mS.png width="180px" style="filter: opacity(0.3);"]]
+[[f=image https://i.imgur.com/xEMfWOC.png link="http://scp-zh-tr.wikidot.com/scp-6500/offset/4" width="180px"]]
+[[f=image https://i.imgur.com/8tXJvew.png link="http://scp-zh-tr.wikidot.com/scp-6500/offset/5" width="180px"]]
+[[/div]]
+
+[[div style="height: 20px;"]]
+[[/div]]
+
+[[tabview]]
+[[tab 戰士]]
+= 取得主導之刃：一把交織於超形上學現實皺褶中的傳說之刀；其持有者將體現英雄的精神。該武器的性質使得SCP-6500能透過征服一場偉大的任務而被解決。
+[[/tab]]
+[[tab 僧侶]]
+= 找尋一種神聖起源的未知裝置，據稱其能夠進出無數的世界。透過使SCP-6500處理相連現實的異常，SCP-6500的影響將被永遠延遲。
+[[/tab]]
+[[tab 盜賊]]
+= 偷取//Mouleur Foci//。一個本質與普遍的熵、腐爛和退化交纏的遺物。透過控制該項目將獲得支配所有與腐朽相關的能力，也就是SCP-6500。
+[[/tab]]
+[[/tabview]]
+
+[[div_ class="fancyhr"]]
+----
+[[/div]]

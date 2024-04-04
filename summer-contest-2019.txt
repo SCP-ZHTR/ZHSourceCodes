@@ -1,0 +1,114 @@
+[[include info:start-standalone]]
+ZH管理群官方賽 
+主辦:[[*user WaterBrich]]
+協辦:[[*user Dr V Valentine]]
+[[include info:end]]
+[[toc]]
+
+[[div style="display: inline-block; border:dashed 2px #4682B4; background:#F0F8FF; float:center; width:84%; padding:1px 15px; margin: 10px 10px 10px 40px"]]
+[[=]]
++ **2019暑期比賽 主題《平行宇宙》**
+[[/=]]
+[[size larger]]
+[[=]]
+++ **最終名次公布**
+[[/=]]
+-----
+
+= **冠軍︰SCP檔案 [[[SCP-ZH-515]]] (平安符)** - 作者:[[*user Jhih]] - 19分
+@@@@
+= **亞軍︰外圍故事 [[[you-need-icecream-in-summer|假如你來到這個宇宙請保持冷靜 ]]]** - 作者:[[*user Reverberate_a]] - 17分
+@@@@
+= **季軍︰SCP檔案 [[[SCP-ZH-199]]] (中永和迷宮)** - 作者:[[*user Mayaw Kacaw]] - 13分
+@@@@
+
+-----
+[[/size]]
+[[=]]
+> 
+> [[size 1.3em]]**比賽時間【2019/6/24】~【2019/9/14/23:59】(GMT+8)**[[/size]]
+> [[size larger]]
+> --**準備期【2019/6/24】~【2019/6/30/23:59】(GMT+8)**--
+> --**徵件時間【2019/7/1】~【2019/8/31/23:59】(GMT+8)**--
+> --**投票時間【2019/7/1】~【2019/9/14/23:59】(GMT+8)**--
+> [[/size]]
+[[/=]]
+
+++ **賽程解說：**
+
+相信這次大家也發現了這個比賽有夠長的，比較需要注意的是我們新增了比賽**準備期**這項規定，在**【2019/6/24】~【2019/6/30/23:59】**(GMT+8)的期間內請先**"不要"**放上您的參賽[[footnote]] 會被我們會當成普通投稿[[/footnote]]作品。
+
+真正徵件時間為**【2019/7/1】~【2019/8/31/23:59】(GMT+8)**請各位參賽者，務必在徵件開始後投稿的頁面上加上##firebrick|"2019暑期比賽"##的標籤（在頁面最下方的紅色選項中“標籤”或“tags”一項中）。否則讀者會無法在索引頁找到你的投稿。
+
+##firebrick|這裡**"特別注意"**的是如果在 <準備期> 2019/6/24~2019/6/30/23:59-(GMT+8) 期間先做為普通作品投稿事後在放上標籤是[[footnote]] --貓咪小隊會去查水錶-- [[/footnote]]**不行**的，將會被記錄並且失去參賽資格##//除非你刪掉重新投稿//
+
+我們為各位把投票日期在徵稿截止後向後推延了兩個禮拜，2019/7/1~2019/9/14/23:59-(GMT+8)的投票期間內請盡情的幫喜歡的作品加分！
+
+最後這裡得提醒新進人員們幫自己按+分是[[footnote]] 貓咪小隊真的會去查水錶 [[/footnote]]不行的，要記得喔。
+
+@@ @@
+------------
+
+++ **規則解說：**
+本次投稿題目為**平行宇宙**只要貼合主題我們接受，SCP文檔、故事、-EX(已解明)、-J(搞笑)、GOI格式、[https://zh.wikipedia.org/wiki/Creepypasta creepypasta]，上述6種類型的文檔型式的投稿，但每位作者僅限繳交1份參賽作品，請各位參賽者務必選擇自己最拿手的形式參賽。
+
+於比賽結束時分數前三高的參賽作品就是本次2019暑期比賽的獲勝者。
+@@ @@
+---------
+
+++ **獎項設置：(季亞軍仍有更動可能)**
+冠軍的獎品為[[*user WaterBrich]]所提供的100加拿大幣(CAD)Steam平臺遊戲任選，不限數量。
+
+亞軍的獎品為[[*user Dr V Valentine]]所提供的文創商品或500新台幣(NTD)[https://www.books.com.tw/ 網路書城] 的書本任**選二則一** (不限地區，書本為原封轉寄，文創商品為訂製品，皆請耐心等候*台灣可超取)
+
+季軍的獎品為[[*user Dr V Valentine]]所提供的文創商品或300新台幣(NTD)[https://www.books.com.tw/ 網路書城] 的書本任**選二則一** (不限地區，書本為原封轉寄，文創商品為訂製品，皆請耐心等候*台灣可超取)[[/div]]
+
+
+--------
+[[div class="content-panel standalone content-row"]]
+[[div class="content-type-title"]]
+++ 目前參賽作品
+[[/div]]
+
+[[div class="content-type-description-2"]]
+
+[[table style="width: 100%;"]]
+[[row style="font-weight: bold; color: #fff; background-color: #666;"]]
+[[cell style="padding: 0 2px; width: 50%;"]]
+頁面名稱
+[[/cell]]
+[[cell style="padding: 0 2px; width: 25%; text-align: center;"]]
+建立日期
+[[/cell]]
+[[cell style="padding: 0 2px; width: 20%; text-align: center;"]]
+創建者
+[[/cell]]
+[[cell style="padding: 0 2px; text-align: center;"]]
+評分
+[[/cell]]
+[[/row]]
+[[/table]]
+
+[[/div]]
+
+[[div class="content-type-description"]]
+
+[[module ListPages order="created_at desc" prependLine="[[include component:listpages-table]]" perPage="30" appendLine="[[/table]]" category="-fragment, -prime"  separate="false" tags="+2019暑期比賽 +原創" rss="Most Recently Translated"]]
+[[row]]
+[[cell style="vertical-align: top;"]]
+%%title_linked%%
+[[/cell]]
+[[cell style="vertical-align: top; text-align: justify;"]]
+%%created_at|%Y年%m月%d日 %H:%M|agohover%%
+[[/cell]]
+[[cell style="vertical-align: top; text-align: left;"]]
+%%created_by_linked%%
+[[/cell]]
+[[cell style="vertical-align: top; text-align: justify;"]]
+%%rating%%
+[[/cell]]
+[[/row]]
+[[/module]]
+
+[[/div]]
+[[/div]]

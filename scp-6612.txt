@@ -1,0 +1,51 @@
+[[include component:scp-meta-title-hiding css-style=classic]]
+
+[[include info:start]]
+**SCP-6612-馬兒笑話**
+
+**作者：**[[*user Penton]]
+
+**原文：** https://scp-wiki.wikidot.com/scp-6612
+
+**譯者：**[[*user trrew]]
+
+**圖像：** https://commons.wikimedia.org/wiki/File:Red_roan_horse_trotting.jpg
+
+[[include info:end]]
+
+**項目編號：**SCP-6612
+[[include component:image-block
+name=https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Red_roan_horse_trotting.jpg/1125px-Red_roan_horse_trotting.jpg?20160411185817|
+caption= 收容中的SCP-6612。|width=220px]]
+**項目等級：** --Pending-- Neutralized
+
+**特殊收容措施：**SCP-6612收容於它原本的馬廄裡，該馬廄位於Site-73的安全戶外測試設施之內。需每日清潔與餵食SCP-6612。
+
+**描述：**SCP-6612是一匹能說出人類語言的成年紅毛羅恩馬。目前未知SCP-6612為何有此異常特性。
+
+進一步的研究正在進行。
+
+**附錄：**
+[[collapsible show="首次訪談紀錄" hide=" "]]
+> **訪談紀錄**
+> 
+> **[紀錄開始]**
+> 
+> **阿古研究員：** 你好，SCP-6612。
+> 
+> **SCP-6612：** 嗨。
+> 
+> **阿古研究員：** 所以，你能說話？
+> 
+> **SCP-6612：** [[span class="ruby"]]這話可是馬嘴說的[[span class="rt"]]這話來源直接並完全可信[[/span]][[/span]]。
+> 
+> //沉默十秒//
+> 
+> **SCP-6612：** 這是一個錯誤。
+> 
+> **[紀錄結束]**
+
+**附錄：**自從首次訪談之後SCP-6612就不再說話，也沒有表現出更大程度的嘗試。
+
+SCP-6612已重新分級為Neutralized，且依然留在它Site-73的馬廄裡。
+[[/collapsible]]

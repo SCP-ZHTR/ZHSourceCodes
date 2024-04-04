@@ -1,0 +1,81 @@
+[[include :scp-zh-tr:theme:black-highlighter-theme]]
+[[include :scp-zh-tr:component:acs-animation]]
+[[include :scp-zh-tr:component:fade-in speed=1]]
+
+[[include info:start]]
+
+**SCP-6482 - 鬼抓人**
+**作者：** [[*user MirageTD]]
+**原文：** https://scp-wiki.wikidot.com/scp-6482
+**譯者：** [[*user trrew]]
+
+[[include info:end]]
+
+[[div style="margin-bottom:20px;"]]
+[[include :scp-zh-tr:component:anomaly-class-bar-source
+|item-number= 6482
+|clearance= 2
+|container-class= neutralized
+]]
+[[/div]]
+
+
+[[include :scp-wiki:component:image-block
+|name= https://scp-wiki.wdfiles.com/local--files/scp-6482/ghost.jpg
+|caption= 從布魯克戴爾 洋濱市分區的監視錄像中擷取到的SCP-6482圖像。
+]]
+
+**特殊收容措施：** SCP-6482的殘骸被儲存在Site-23的一個標準集裝箱內。
+
+**描述：** 在無效化之前， SCP-6482曾是由羥基磷灰石、鹽和其它礦物質微粒所組成的人形實體，重達2.7公斤。現在這些微粒不再活動也無其它明顯的異常性質。
+
+**附錄6482.1：** 發現
+
+2021-08-11，SCP-6482被平民目擊在華盛頓洋濱市西邊海岸“聚合成形”。該實體走了大約3公里到達布魯克戴爾 洋濱市分區，一座位於半島東側的輔助生活設施，而後該實體繼續前往設施的公共區域。 監視設備記錄下當SCP-6482 走到高齡住戶喬瑟夫‧韋斯的身後時, 韋斯他似乎在輪椅上睡著了。 SCP-6482觸碰下韋斯的肩膀，喚醒了他。韋斯轉身看向SCP-6482，這時實體的粒子不再活動， 隨之溶解。 韋斯面露困惑， 但之後幾秒他又笑了，接著失去意識。
+
+當收容小組抵達布魯克戴爾 洋濱市分區時，韋斯已經死亡。屍檢顯示他的心臟早已衰竭。
+
+**附錄6482.2：** 採訪紀錄
+
+> **受訪者：** 喬瑟夫‧韋斯之女，愛米麗‧韋斯-湯普森
+> 
+> **採訪者：** 麥克斯韋恩‧楊葛 博士
+> 
+> **<紀錄開始>**
+> 
+> **楊葛博士：** 妳說妳知道發生了什麼事？請解釋，從頭開始。
+> 
+> **韋斯-湯普森：** 當然。 爸有個從小就認識的好朋友，丹尼爾‧歐文斯。他就像家人。我們曾去過他的喪禮， 他在幾年前就死了，他的家人把他的骨灰撒在那東西出現的沙灘上。
+> 
+> **楊葛博士：** 妳相信它是丹尼爾？
+> 
+> **韋斯-湯普森：** 對，而且我不認為是他殺了我爸，爸之前就有心臟病，這只是他時候到了。
+> 
+> **楊葛博士：** 妳有想到它為何針對妳父親嗎？
+> 
+> **韋斯-湯普森：**我想是這樣子的。爸和丹尼經常玩在一塊，即使都一大把年紀了，他們舉動就像兩個丑角樂團成員般親近。每隔一段時間他們就會玩鬼抓人，爸告訴我這事從他倆少年時期就開始的。丹尼去世前他當「鬼」。
+> 
+> //韋斯-湯普森從她的口袋裡拿出手帕，擦拭她臉上的淚水。//
+> 
+> **韋斯-湯普森：** 那老渾帳從來不認輸。
+> 
+> **<紀錄結束>**
+
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[SCP-6481]]] | SCP-6482 | [[[SCP-6483]]] >>
+[[/=]]
+[[/div]]
+
+[[include :scp-zh-tr:component:license-box
+|author=MirageTD
+|lang=]]
+=====
+> **檔案名稱：**ghost.jpg
+> **圖像名稱：**ghost.jpg
+> **圖像作者：**Jolanta Dyr，由[[*user MirageTD]]修改
+> **圖像授權協議：** [[[https://creativecommons.org/licenses/by-sa/3.0/pl/ | CC BY-SA 3.0 PL]]]
+> **圖源連結：**
+> https://commons.wikimedia.org/wiki/File:Hallway_of_W%C5%82adys%C5%82aw_Broniewski_Museum_in_Warsaw_-_01.jpg
+=====
+[[include :scp-zh-tr:component:license-box-end]]

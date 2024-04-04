@@ -1,0 +1,89 @@
+[[include info:start]]
+**SCP-BLANK-J：** 我詛咒你！逆模因
+@@ @@
+**原作者：** [[*user Siddartha Alonne]]
+@@ @@
+**譯者：** [[*user Pao Mian]]
+@@ @@
+**原網址：** [[[https://scp-wiki.wikidot.com/scp-blank-j|這裡]]]
+[[include info:end]]
+
+[[module CSS]]
+.email-example .collapsible-block-folded a.collapsible-block-link {
+    animation: blink 0.8s ease-in-out infinite alternate;
+}
+@keyframes blink {
+    0% { color: transparent; }
+    50%, 100% { color: #b01; }
+}
+.email {border: solid 2px #000000; width: 88%; padding: 1px 15px; margin: 10px; box-shadow: 0 1px 3px rgba(0,0,0,.5)}
+.email-example a.collapsible-block-link {font-weight: bold;}
+.tofrom {margin-left: 10px; margin-top: 5px; padding: 1px 15px; border-left: solid 3px maroon}
+[[/module]]
+[[include :scp-zh-tr:theme:black-highlighter-theme]]
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+[[div class="email-example"]]
+[[=]]
+------
+[[collapsible show="May先生， 你有一（1）則新訊息！" hide="點擊以關閉"]]
+[[div class="email"]]
+[[div class="tofrom"]]
+[[<]]
+**自：** Nicholas May，邏輯部門
+**至：** Marion Wheeler主管，逆模因部門
+**主旨：** ##red|(!)## SCP-BLANK-J
+-----
+早上好，Wheeler主管。
+就如同妳看到的，這個SCP槽位可能帶有了逆模因效應，使得文件連到了我的個人信箱。所以我想找妳談談這件事，妳那邊可能已經有處理過像這樣的事情了，所以我想這應該不會耽誤妳太多的研究時間。
+@@ @@
+希望能盡快得到妳的回覆。
+致上，
+Nicholas May
+[[/<]]
+[[/div]]
+[[/div]]
+@@ @@
+@@ @@
+-----
+@@ @@
+@@ @@
+@@ @@
+[[div class="email"]]
+[[div class="tofrom"]]
+[[<]]
+**自：** Marion Wheeler主管，逆模因部門
+**至：** Nicholas May，邏輯部門
+**主旨：** RE: ##red|(!)## SCP-BLANK-J
+-----
+Nicholas May先生，
+或許下次在你抱怨這是個逆模因前，先檢查下你是不是手殘按到了「保存鍵」。
+@@ @@
+智障。
+[[/<]]
+[[/div]]
+[[/div]]
+
+[[/collapsible]]
+[[/=]]
+[[/div]]

@@ -1,0 +1,1505 @@
+[[include info:start]]
+原文：[https://scp-wiki.wikidot.com/deleted D E L E T I O N S] 刪 除
+作者：[[*user Billith]]
+譯者：[[*user Frederica Bernkastel]]
+[[include info:end]]
+
+[[include :scp-zh-tr:theme:basalt darkmode=a | centertitle=a ]]
+[[include :scp-wiki:component:wide-image-sizer]]
+[[module CSS]]
+
+@import url('https://fonts.googleapis.com/css2?family=Zen+Kaku+Gothic+Antique:wght@300;400;500;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Spline+Sans:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap');
+div.authorlink-wrapper{margin-top: var(--author-top-adjust, .2em) !important;}
+div.underwatch_memo {
+
+--memo-heading: "你已獲選為受監督者議會效命";
+--memo-logo: url(https://scptestwiki.wdfiles.com/local--files/sigma%3Adeletions/warp_.gif);
+--memo-color: 255, 5, 5;
+ color:#999999;
+font-size:1.1rem;
+}
+div.deletions_memo {
+--memo-heading: "本檔案已標記為刪除";
+--memo-logo: url(https://scp-wiki.wdfiles.com/local--files/scp-6768/deletion.png);
+--memo-color: 255,255,255;
+    color:#999999;
+font-size:1.1rem;
+}
+div[class$="_memo"] {
+    background: linear-gradient(
+      rgba(0, 0, 0, 0.5),
+      rgba(0, 0, 0, 0.94)
+    ),
+var(--memo-logo) rgba(var(--memo-color), .7);
+    background-size: contain;
+    background-position: top center;
+    background-repeat: no-repeat;
+    min-height: 4rem;
+    margin-inline: auto;
+    margin-block: 2rem;
+    padding-inline: 20px;
+    padding-block: 10px;
+    border: solid 2px rgba(255, 255, 255, 0.1);
+    text-align: center;
+    
+    background-color:rgba(69,69,69,.4);
+}
+
+div[class$="_memo"]::before {
+    content: var(--memo-heading);
+    font-family: var(--UI-font);
+    font-weight: 900;
+    font-size: 1.4rem;
+    text-align: center;
+    margin: 0 auto 1rem auto;
+    display: flex;
+    flex-direction: column;
+    padding-top: 0.5em;
+
+}
+
+:root {
+--header-logo: url('https://scp-wiki.wdfiles.com/local--files/scp-6768/dept.png');
+--title:"謨涅摩敘涅研究站";
+--subtitle:"刪除部";
+--sidesubtitle: "刪除";
+--sidelogo: url('https://scp-wiki.wdfiles.com/local--files/scp-6768/dept.png');
+--header-font: 'Poppins';
+--body-font: 'Zen Kaku Gothic Antique', sans-serif;
+--ACS-font: var(--body-font);
+--five-color: 224, 107, 136;
+--basalt-undertone: 18, 18, 18;
+--swatch-menubg-black-color: 10,10,10;
+--general-border-color: 18, 18, 18;
+--swatch-menutxt-dark-color: 69, 69, 69;
+--UI-font: 'Poppins';
+--basalt-main-text-color: 224, 219, 220 ;
+--selection-background-color: 197, 119, 41;
+--link-color: var(--basalt-alternate-color);
+--link-visited-color: var(--basalt-alternate-color);
+--basalt-bright-element-color: var(--basalt-alternate-color);
+}
+::-webkit-scrollbar-thumb {
+background-color:rgb(var(--basalt-alternate-color));
+
+}
+#page-title, .meta-title {
+border: none !important;
+}
+#page-content .widetable .wiki-content-table {
+    width: 100%;
+    font-size: 1.5em;
+}
+#header h1 a span {
+    filter: brightness(180%);
+    filter: contrast(180%);
+}
+
+.a {
+padding-right:3px;
+text-align:right;
+}
+.b {
+opacity:90%;
+display:block;
+margin:4px;
+}
+.c {
+background-color: rgb(55, 55, 55);
+max-width:30rem !important;
+border-radius:6px 6px 2px 2px;
+display:block;
+margin:0 auto;
+margin-bottom: 15px;
+}
+.d, .e {
+padding:5px;
+
+}
+.d {
+margin:15px;
+}
+.e {
+border: 1px solid black;
+margin: 30px;
+background-color: #606060;
+padding-left:12px;
+}
+body {
+background-color: #000000;
+background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 304 304' width='304' height='304'%3E%3Cpath fill='%23aeaeb0' fill-opacity='0.08' d='M44.1 224a5 5 0 1 1 0 2H0v-2h44.1zm160 48a5 5 0 1 1 0 2H82v-2h122.1zm57.8-46a5 5 0 1 1 0-2H304v2h-42.1zm0 16a5 5 0 1 1 0-2H304v2h-42.1zm6.2-114a5 5 0 1 1 0 2h-86.2a5 5 0 1 1 0-2h86.2zm-256-48a5 5 0 1 1 0 2H0v-2h12.1zm185.8 34a5 5 0 1 1 0-2h86.2a5 5 0 1 1 0 2h-86.2zM258 12.1a5 5 0 1 1-2 0V0h2v12.1zm-64 208a5 5 0 1 1-2 0v-54.2a5 5 0 1 1 2 0v54.2zm48-198.2V80h62v2h-64V21.9a5 5 0 1 1 2 0zm16 16V64h46v2h-48V37.9a5 5 0 1 1 2 0zm-128 96V208h16v12.1a5 5 0 1 1-2 0V210h-16v-76.1a5 5 0 1 1 2 0zm-5.9-21.9a5 5 0 1 1 0 2H114v48H85.9a5 5 0 1 1 0-2H112v-48h12.1zm-6.2 130a5 5 0 1 1 0-2H176v-74.1a5 5 0 1 1 2 0V242h-60.1zm-16-64a5 5 0 1 1 0-2H114v48h10.1a5 5 0 1 1 0 2H112v-48h-10.1zM66 284.1a5 5 0 1 1-2 0V274H50v30h-2v-32h18v12.1zM236.1 176a5 5 0 1 1 0 2H226v94h48v32h-2v-30h-48v-98h12.1zm25.8-30a5 5 0 1 1 0-2H274v44.1a5 5 0 1 1-2 0V146h-10.1zm-64 96a5 5 0 1 1 0-2H208v-80h16v-14h-42.1a5 5 0 1 1 0-2H226v18h-16v80h-12.1zm86.2-210a5 5 0 1 1 0 2H272V0h2v32h10.1zM98 101.9V146H53.9a5 5 0 1 1 0-2H96v-42.1a5 5 0 1 1 2 0zM53.9 34a5 5 0 1 1 0-2H80V0h2v34H53.9zm60.1 3.9V66H82v64H69.9a5 5 0 1 1 0-2H80V64h32V37.9a5 5 0 1 1 2 0zM101.9 82a5 5 0 1 1 0-2H128V37.9a5 5 0 1 1 2 0V82h-28.1zm16-64a5 5 0 1 1 0-2H146v44.1a5 5 0 1 1-2 0V18h-26.1zm102.2 270a5 5 0 1 1 0 2H98v14h-2v-16h124.1zM242 149.9V160h16v34h-16v62h48v48h-2v-46h-48v-66h16v-30h-16v-12.1a5 5 0 1 1 2 0zM53.9 18a5 5 0 1 1 0-2H64V2H48V0h18v18H53.9zm112 32a5 5 0 1 1 0-2H192V0h50v2h-48v48h-28.1zm-48-48a5 5 0 0 1-9.8-2h2.07a3 3 0 1 0 5.66 0H178v34h-18V21.9a5 5 0 1 1 2 0V32h14V2h-58.1zm0 96a5 5 0 1 1 0-2H137l32-32h39V21.9a5 5 0 1 1 2 0V66h-40.17l-32 32H117.9zm28.1 90.1a5 5 0 1 1-2 0v-76.51L175.59 80H224V21.9a5 5 0 1 1 2 0V82h-49.59L146 112.41v75.69zm16 32a5 5 0 1 1-2 0v-99.51L184.59 96H300.1a5 5 0 0 1 3.9-3.9v2.07a3 3 0 0 0 0 5.66v2.07a5 5 0 0 1-3.9-3.9H185.41L162 121.41v98.69zm-144-64a5 5 0 1 1-2 0v-3.51l48-48V48h32V0h2v50H66v55.41l-48 48v2.69zM50 53.9v43.51l-48 48V208h26.1a5 5 0 1 1 0 2H0v-65.41l48-48V53.9a5 5 0 1 1 2 0zm-16 16V89.41l-34 34v-2.82l32-32V69.9a5 5 0 1 1 2 0zM12.1 32a5 5 0 1 1 0 2H9.41L0 43.41V40.6L8.59 32h3.51zm265.8 18a5 5 0 1 1 0-2h18.69l7.41-7.41v2.82L297.41 50H277.9zm-16 160a5 5 0 1 1 0-2H288v-71.41l16-16v2.82l-14 14V210h-28.1zm-208 32a5 5 0 1 1 0-2H64v-22.59L40.59 194H21.9a5 5 0 1 1 0-2H41.41L66 216.59V242H53.9zm150.2 14a5 5 0 1 1 0 2H96v-56.6L56.6 162H37.9a5 5 0 1 1 0-2h19.5L98 200.6V256h106.1zm-150.2 2a5 5 0 1 1 0-2H80v-46.59L48.59 178H21.9a5 5 0 1 1 0-2H49.41L82 208.59V258H53.9zM34 39.8v1.61L9.41 66H0v-2h8.59L32 40.59V0h2v39.8zM2 300.1a5 5 0 0 1 3.9 3.9H3.83A3 3 0 0 0 0 302.17V256h18v48h-2v-46H2v42.1zM34 241v63h-2v-62H0v-2h34v1zM17 18H0v-2h16V0h2v18h-1zm273-2h14v2h-16V0h2v16zm-32 273v15h-2v-14h-14v14h-2v-16h18v1zM0 92.1A5.02 5.02 0 0 1 6 97a5 5 0 0 1-6 4.9v-2.07a3 3 0 1 0 0-5.66V92.1zM80 272h2v32h-2v-32zm37.9 32h-2.07a3 3 0 0 0-5.66 0h-2.07a5 5 0 0 1 9.8 0zM5.9 0A5.02 5.02 0 0 1 0 5.9V3.83A3 3 0 0 0 3.83 0H5.9zm294.2 0h2.07A3 3 0 0 0 304 3.83V5.9a5 5 0 0 1-3.9-5.9zm3.9 300.1v2.07a3 3 0 0 0-1.83 1.83h-2.07a5 5 0 0 1 3.9-3.9zM97 100a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm0-16a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm16 16a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm16 16a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm0 16a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm-48 32a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm16 16a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm32 48a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm-16 16a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm32-16a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm0-32a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm16 32a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm32 16a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm0-16a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm-16-64a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm16 0a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm16 96a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm0 16a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm16 16a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm16-144a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm0 32a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm16-32a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm16-16a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm-96 0a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm0 16a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm16-32a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm96 0a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm-16-64a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm16-16a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm-32 0a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm0-16a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm-16 0a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm-16 0a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm-16 0a3 3 0 1 0 0-6 3 3 0 0 0 0 6zM49 36a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm-32 0a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm32 16a3 3 0 1 0 0-6 3 3 0 0 0 0 6zM33 68a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm16-48a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm0 240a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm16 32a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm-16-64a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm0 16a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm-16-32a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm80-176a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm16 0a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm-16-16a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm32 48a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm16-16a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm0-32a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm112 176a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm-16 16a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm0 16a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm0 16a3 3 0 1 0 0-6 3 3 0 0 0 0 6zM17 180a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm0 16a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm0-32a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm16 0a3 3 0 1 0 0-6 3 3 0 0 0 0 6zM17 84a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm32 64a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm16-16a3 3 0 1 0 0-6 3 3 0 0 0 0 6z'%3E%3C/path%3E%3C/svg%3E");
+    background-attachment: fixed;
+    background-size: 100%;
+    background-repeat: repeat;
+}
+.yui-navset.yui-navset-top .yui-content {
+
+border: none;
+}
+a {
+font-family: var(--header-font);
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0 4px;
+}
+
+.column {
+  flex: 24%;
+  max-width: 24%;
+  padding: 0 4px;
+}
+
+.column img {
+  margin-top: 8px;
+  vertical-align: middle;
+  width: 100%;
+}
+.twocolumn {
+    flex: 100%;
+    max-width: 100%;
+    margin-top: 8px;
+}
+
+@media screen and (max-width: 800px) {
+  .column {
+    flex: 45%;
+    max-width: 45%;
+  }
+  .twocolumn {
+    flex: 100%;
+    max-width: 100%;
+}
+table.wiki-content-table {
+font-size: 75%;
+}
+}
+other */
+@media screen and (max-width: 600px) {
+  .column {
+    flex: 90%;
+    max-width: 90%;
+  }
+}
+
+[[/module]]
+@@ @@
+
+= [[span class="st"]]//歡迎來到刪除部。出去時別給門撞個正著了。//[[/span]]
+
+@@ @@
+@@ @@
+[[div class="blockquote"]]
+
+我們會對所有新人說這句話。你可能會感到有點......迷失方向。這是很常見的情況，就跟你對與本部門合約的困惑程度相當。唐突的轉移、深化的感受、對你顯然相當陌生的記憶。刺痛的麻木感會席捲你全身上下。正如你現在可能還記得的那樣，我們每個人都曾經經歷過那種情況。
+
+不，你還沒死。好吧，嚴格來說的話，你在進到這裡之前是死是活沒什麼意義。死與生，在這一點上已經毫無意義。這些話只是我們用來捍衛自己妄想的合理化說詞罷了。如果能對你有幫助的話，死亡並不是你現在站在這裡的原因：你是......被「刪除」了。這是與死亡截然不同的事情，儘管你將會開始希望兩者是一樣的，但事實依然是如此。
+
+你沒聽錯。你被刪除了，被從主檔中刪除了。你跟你世界的每一個人，你跟你世界裡的世界裡的每一個人。也許就寥寥數人，也許是十億人。也許還要更多。你永遠不會得知究竟有多少人。不過你將會注意到，其中一些人會在你的合約期間與你一直共事。你可能還會注意到自己的想法與他們共享了。這都是正常現象，是意料之內的事情。
+
+是的，我們知道你還有很多問題，但我們已經不需要再多說什麼了。這次會談只是為了協助你適應。現在你得將注意力轉移到你的指派任務上，你很快就會明白這句話有多急迫了。祈禱我們不要再以這種形式見面。
+
+現在，離開我的辦公室。
+
+[[/div]]
+
+@@ @@
+[[include :scp-wiki:component:image-block
+name=https://scptestwiki.wdfiles.com/local--files/sigma:deletions/team.png |
+caption=刪除部人事組團隊合影，攝於2023年 |
+align=center |
+width=100%
+]]
+
+@@ @@
+
+[[tabview]]
+[[tab 刪除（概述）]]
+@@ @@
+[[div class="blockquote"]]
+
+本頁面是刪除部的中心，刪除部是基金會的機密部門之一，他既是基金會組織的分部，也是具有自己任務與目標的GOI。刪除部與其他抽象部門相似，例如[http://scp-zh-tr.wikidot.com/departments#surrealistics-dept 超現實部]、[http://scp-zh-tr.wikidot.com/unreality-hub 非現實部]、[http://scp-zh-tr.wikidot.com/scp-6511 一人部]等。然而，刪除部在功能上又與這些部門截然不同，刪除部站在獨特的視角上，處理那些熟悉而不可識別、荒誕而合於邏輯、寓言而平淡、哀輓又放縱的奇妙異常 。
+
+刪除部於謨涅摩敘涅研究站營運，在那裡，刪除部形成了格式塔意識，由記憶中仍然存在、源於已刪除敘事代理位元與片段所建成。這些片段將一直處於非活躍狀態直到被覆寫與合併，以回應影響數據庫或其內容狀態的異常為止。
+
+刪除部成員對自身存在本質與意識感到相當沉重。因為是由多個被刪除個體構成的，他們在呈現物理形態時會打從根本上的不穩定。當暴露於時間時，他們的身體和精神都會「崩潰」。因此刪除部特工傾向於避免與時間軸有所互動，除非有絕對之必要，然而情況往往會導致這種必要發生。
+
+一旦數據庫問題得到解決，謨涅摩敘涅研究站與所有派遣刪除部特工就會返回休眠狀態，希望能在下個問題出現前就已被完全覆寫。
+
+刪除主題文章會具有獨特、電腦科學導向的框架，會具有濃厚的超現實主義與反覆主題、個性喪失/擴張、存在主義恐懼、緩慢毀滅、永恆/深層時間、維基/社會元評論、先前已經存在的破壞觀念/範式。參閱[[span class="st"]]附加資訊[[/span]]以進一步獲取刪除視角的闡發。
+[[/div]]
+@@ @@
+[[/tab]]
+[[tab 附加資訊]]
+@@ @@
+[[div class="blockquote"]]
+
+顧名思義，刪除部是由Wikidot數據庫目錄刪除內容中，由其資料片段所組成的部門。與外人的理解相反，刪除部並不會將這些內容自儲存中完全刪除。
+
+持久記憶的本質是四個基本操作（創建、讀取、更新、刪除）、三個使用者特性（//讀取、寫入、執行//）與兩者間的關係完成的。簡而言之，數據庫透過在分配空間「創建」資料、「讀取」資料、「更新」資料、「刪除」資料完成管理，這標示著原分配是可以被後來的數據覆寫的。另一方面，所有Wikidot使用者都擁有不同級別的三類權限：「讀取」現有資訊、「寫入」新資訊儲存、「執行」函數進入目錄以定位/操作資訊。
+
+數據庫內容由寫入記憶體空間各區的「引用資料」；作為該資料識別碼或容器的「檔案物件」；存取後者時標示前者位置的「指標」所組成。刪除是透過擦除標示符斷開上述連接，使標示符描述的值和行為保持不變──這個過程也被稱為抽象。舊資料仍會繼續保留在檔案系統上，直到有新資料出現覆寫它為止。這就是為什麼資料復原代理有時可以從損壞、擦除或故障硬碟中救回已刪除/損壞的檔案。
+[[include :scp-wiki:component:image-features-source |click-fullscreen=--]
+|speed=Number
+|float=true
+|align=right
+|width=300px
+|url=https://scptestwiki.wdfiles.com/local--files/sigma:deletions/DATAB.png
+|alt=alt|alt-text=數據庫
+|add-caption=true/false
+|caption=自刪除角度看數據庫各區。點擊以放大。
+]]
+有時，檔案分配的空間可以被覆寫，但接下來寫入該區域的資訊就只能部分填充了。由於資料通常是寫入稱為「分塊」的連鎖區塊中，因此佔有垃圾資訊的空閒部分即使被刪除了，仍有可能很長一段時間後還在那裡。
+
+這些垃圾資訊就是生成刪除部特工的材料。
+
+不與時間軸互動時，數據庫將會以時間隔離為基礎實現，作為數位空間的實體展示。在這樣的存在模式中，時間線存在顯然是建立於完全相異的框架上。[[span class="fnnum"]].[[/span]][[span class="fncon"]]包括當前不存在，或與其他模型直接矛盾的模型。[[/span]] 因此，正規刪除部特工都深知「沒有正設」這句話所描述的現象。他們也敏銳地意識到特定日子真相的可疑性質，以及其固有的「虛構性」。參閱[[span class="st"]]術語彙編[[/span]]以了解更多精確資訊。
+
+[[/div]]
+@@ @@
+[[/tab]]
+[[/tabview]]
+[[tabview]]
+[[tab 文章]]
+@@ @@
+= [[span class="st"]]__已執行與執行中任務__[[/span]]
+@@ @@
+> 
+> +++++  [[span class="st"]][[[SCP-7079]]][[/span]] 
+> +++++  [[span class="st"]]交 叉[[/span]] 
+> [[span class="st"]],,^^作者：[[*user Billith]]^^,,[[/span]]
+> -----
+> //##777777|我是真實的嗎？我需要明白我為何會在這裡。我不知道我為什麼在這裡，你知道嗎？你知道這是怎麼一回事嗎？##//
+> 
+ 
+> 
+> +++++  [[span class="st"]][[[SCP-6183]]][[/span]]  
+> +++++  [[span class="st"]]黑 條[[/span]]   
+> [[span class="st"]],,^^作者：[[*user Billith]]、[[*user MontagueETC]]、[[*user Liryn]]^^,,[[/span]]
+> -----
+> //##777777|我過了很多次生日。我的許多部分都有過生日。我有無數次頭一次的記憶。也許哪天我也會有你的記憶。##//
+> 
+ 
+> 
+> +++++  [[span class="st"]][[[SCP-7912]]][[/span]]  
+> +++++  [[span class="st"]]內 部[[/span]]   
+> [[span class="st"]],,^^作者：[[*user Billith]]^^,,[[/span]]
+> -----
+> //##777777|我們會跳回目前的狀態，完全改變成目前的狀態，還是時間性質與方向排除了這個可能？還有比我們因為憐憫而落得這般田地還要更糟糕的事情嗎？##//
+> 
+ 
+> 
+> +++++  [[span class="st"]][[[SCP-6768]]][[/span]]  
+> +++++  [[span class="st"]]氣 流[[/span]]   
+> [[span class="st"]],,^^作者：[[*user Billith]]、[[*user Doctor Cimmerian]]、[[*user Dr. Shoulder]]^^,,[[/span]]
+> -----
+> //##777777|與刪除部人員任務參數相反，他們一致希望能不存在。##//
+> 
+ 
+>   
+> +++++  [[span class="st"]][[[SCP-7549]]][[/span]]  
+> +++++  [[span class="st"]]快 取[[/span]]   
+> [[span class="st"]],,^^作者：[[*user Billith]]^^,,[[/span]]
+> -----
+> //##777777|我以為我是一個男人，一個人類，一個活生生的靈魂，但我根本就不是。記憶告訴我事實並非如此，但我的記憶並不重要。那只會給我帶來負擔。成為更多的枷鎖。##//
+> 
+ 
+@@ @@
+[[=]]
+[[collapsible show="推薦閱讀" hide="崩潰" hideLocation="both"]]
+[[<]]
+@@ @@
+> 
+> +++++  [[span class="st"]][[[SCP-2719]]][[/span]]  
+> +++++  [[span class="st"]]內部[[/span]]   
+> [[span class="st"]],,^^作者：[[*user Randomini]]^^,,[[/span]]
+> -----
+> //##777777|SCP-2719為一可變且抽象的形而上學構造指標。##//
+> 
+ 
+>   
+> +++++  [[span class="st"]][[[SCP-4972]]][[/span]]  
+> +++++  [[span class="st"]]有什麼不對勁[[/span]]   
+> [[span class="st"]],,^^作者：[[*user Tanhony]]^^,,[[/span]]
+> -----
+> //##777777|（卡雷博士記了五小時的筆記。）##//
+> 
+ 
+> 
+> +++++  [[span class="st"]][[[SCP-184]]][[/span]]  
+> +++++  [[span class="st"]]建築師[[/span]]   
+> [[span class="st"]],,^^作者：[[*user Dr Gears]]^^,,[[/span]]
+> -----
+> //##777777|我不認為我需要強調那東西**永遠不**應該出現在Site-19。##//
+> 
+ 
+>   
+> +++++  [[span class="st"]][[[SCP-2528]]][[/span]]  
+> +++++  [[span class="st"]]熊貓處理器[[/span]]   
+> [[span class="st"]],,^^作者：[[*user thamuzz]]^^,,[[/span]]
+> -----
+> //##777777|那部分並非全貌。透過那野獸，我行動；透過那野獸，我思考；惟我並非野獸本身。我藏身於筍與葉之中，惟我並非植被本身。##//
+> 
+ 
+>   
+> +++++  [[span class="st"]][[[SCP-1549]]][[/span]]  
+> +++++  [[span class="st"]]缺乏完美媒介[[/span]]   
+> [[span class="st"]],,^^作者：[[*user Darkstuff]]、[[*user Billith]]^^,,[[/span]]
+> -----
+> //##777777|好現在我已經引起了你注意了我想引導你存取我知道這個王八建的一些網站##//
+> 
+ 
+>   
+> +++++  [[span class="st"]][[[SCP-6276]]][[/span]]  
+> +++++  [[span class="st"]]取消儲存[[/span]]   
+> [[span class="st"]],,^^作者：[[*user Placeholder McD]]^^,,[[/span]]
+> -----
+> //##777777|黑魔方並非不在黑籃子裡。##//
+> 
+ 
+>   
+> +++++  [[span class="st"]][[[SCP-6445|SCP-⌘]]][[/span]]  
+> +++++  [[span class="st"]]顫慄王國之下[[/span]]   
+> [[span class="st"]],,^^作者：[[*user MontagueETC]]^^,,[[/span]]
+> -----
+> //##777777|SCP-⌘已經完成收容。SCP-⌘已經突破收容。SCP-⌘是由超現實部透過未知手段創造。SCP-⌘已將世界吞噬。##//
+> 
+ 
+>   
+> +++++  [[span class="st"]][[[narrativistics-and-you|敘性論與你：]]]揚棄虛構與紀實之辨[[/span]]  
+> [[span class="st"]],,^^作者：[[*user Billith]]^^,,[[/span]]
+> -----
+> //##777777|直到最上一層的作者，直到最下一層的作者。遍佈每一面，在內在外，他們捲起了袖，探入您們的心靈至前臂之深。##//
+> 
+@@ @@
+[[/<]]
+[[/collapsible]]
+[[/=]]
+@@ @@
+[[/tab]]
+[[tab 術語彙編]]
+@@ @@
+= [[span class="st"]]__關聯術語__[[/span]]
+@@ @@
+> [[span class="st"]]任務 ^^,,//（名）//,,^^[[/span]]
+> -----
+> ##777777|刪除部人員顯現的數據庫異常。##
+
+> [[span class="st"]]障礙 ^^,,//（名）//,,^^[[/span]]
+> -----
+> ##777777|數據庫與灰色時間軸間的分隔。抽象人員、實體、部門可能會在不同程度上跨越此分隔。##
+
+> [[span class="st"]]黑條 ^^,,//（名）//,,^^[[/span]]
+> -----
+> ##777777|刪去先前敘述時殘留的垃圾資料。##
+
+> [[span class="st"]]叢集 ^^,,//（名）//,,^^[[/span]]
+> -----
+> ##777777|儲存檔案所需的最小預定義空間。亦稱為「分配區塊」。##
+
+> [[span class="st"]]數據庫 ^^,,//（名）//,,^^[[/span]]
+> -----
+> ##777777|刪除部特工所見的整個記憶體空間。是包括灰色時間線在內的所有時間線。##
+
+> [[span class="st"]]刪除 ^^,,//（名）//,,^^[[/span]]
+> -----
+> ##777777|自檔案系統目錄刪除內容的過程。此檔案資訊將持續存在於記憶體中直到被覆蓋為止。##
+
+> [[span class="st"]]交錯時間線 ^^,,//（名）//,,^^[[/span]]
+> -----
+> ##777777|具有多「線」的非典型複合敘事結構，「線」通常起源於特定角色的抉擇。##
+
+> [[span class="st"]]外域 ^^,,//（名）//,,^^[[/span]]
+> -----
+> ##777777|假定存在於數據庫外部的預計空間。##
+
+> [[span class="st"]]片段化 ^^,,//（名）//,,^^[[/span]]
+> -----
+> ##777777|1. 將資料分解為較小組成（例如執行部分覆蓋）的過程。##
+>
+> ##777777|2. 檔案系統中資料片段的建構。##
+
+> [[span class="st"]]墓園 ^^,,//（名）//,,^^[[/span]]
+> -----
+> ##777777|已刪除位置Nexus。「墓碑」的集合。##
+
+> [[span class="st"]]灰色 ^^,,//（名）//,,^^[[/span]]
+> -----
+> ##777777|非時空維度內尚未被完整敘事佔據的所有記憶空間。##
+
+> [[span class="st"]]匹刻落-閔考斯基中心 ^^,,//（名）//,,^^[[/span]]
+> -----
+> ##777777|全名為匹刻落-閔考斯基高級研究中心，基金會的黑站設施，負責管理高度複雜收容措施與影響範疇的異常。##
+
+> [[span class="st"]]隨機存取記憶體 ^^,,//（名）//,,^^[[/span]]
+> -----
+> ##777777|專用於瞬時處理而非儲存的記憶體形式。##
+
+> [[span class="st"]]唯讀 ^^,,//（形）//,,^^[[/span]]
+> -----
+> ##777777|可存取而不可修改。##
+
+> [[span class="st"]]可讀寫 ^^,,//（形）//,,^^[[/span]]
+> -----
+> ##777777|可存取且可修改。##
+
+> [[span class="st"]]遞迴/遞歸 ^^,,//（名）//,,^^[[/span]]
+> -----
+> ##777777|現象的重複趨勢，無論是透過自身相同版本或同活動的較小實體中。##
+
+> [[span class="st"]]重組 ^^,,//（動）//,,^^[[/span]]
+> -----
+> ##777777|將已佔用記憶體空間恢復至初始或先前狀態。##
+
+> [[span class="st"]]謨涅摩敘涅研究站 ^^,,//（名）//,,^^[[/span]]
+> -----
+> ##777777|謨涅摩敘涅研究站（Site-6768）得名自希臘記憶女神，是召喚刪除部人員的形上學場所。該設施無固定位置，若數據庫異常顯現，研究站就會將自身寫入該異常鄰近區域。 對與謨涅摩敘涅.aic潛在聯繫的調查正在進行中。##
+
+> [[span class="st"]]提喻研究站 ^^,,//（名）//,,^^[[/span]]
+> -----
+> ##777777|超形上學部與他部門（無論是抽象部或其他）協調的形上學站點。至少部分上妨礙了匹刻落-閔考斯基中心。可將其簡稱為提喻站。##
+
+> [[span class="st"]]區域 ^^,,//（名）//,,^^[[/span]]
+> -----
+> ##777777|內存空間單位。檔案會儲存為相鄰磁區的「分塊」。##
+
+> [[span class="st"]]偽像 ^^,,//（名）//,,^^[[/span]]
+> -----
+> ##777777|已刪除物件或多或少具有的無損傷屬性。刪除格式塔意識就是拼湊而成的偽像。##
+
+> [[span class="st"]]墓碑 ^^,,//（名）//,,^^[[/span]]
+> -----
+> ##777777|已刪除位置。##
+
+> [[span class="st"]]虛擬記憶體 ^^,,//（名）//,,^^[[/span]]
+> -----
+> ##777777|透過提供隨機存取記憶體增強假象以提高效能的暫存空間。##
+
+> [[span class="st"]]白色空間 ^^,,//（名）//,,^^[[/span]]
+> -----
+> ##777777|數據庫內的未佔用記憶體空間。##
+@@ @@
+[[/tab]]
+[[tab 關注人士]]
+@@ @@
+= [[span class="st"]]__關聯人員__[[/span]]
+@@ @@
+[[=]]
+[[div class="b row"]]
+[[div class="c twocolumn"]]
+[[div class="papernote" style="background-color: rgb(13,13,18) !important; border-radius:5px 5px 0px 0px;padding:0.1rem 0.5rem 0.1rem 0.5rem !important; margin-block: 0rem !important;"]]
+[[div class="a"]]
+[[span class="st"]]安德里/POI-7912[[/span]]
+[[/div]]
+[[/div]]
+[[div class="d"]]
+[[collapsible show="> 存取" hide="cd .." hideLocation="bottom" folded="yes"]]
+[[<]]
+[[include :scp-wiki:component:image-block
+name=https://scptestwiki.wdfiles.com/local--files/sigma:deletions/poi7912.gif |
+caption=POI-7912|
+align=center|
+width=250px
+]]
+[[div class="" style="clear:both;"]][[/div]]
+[[div class="e"]]
+具完整外觀之肉鴿刪除部特工。具有獨特的見解與願望。
+[[/div]]
+[[/<]]
+[[/collapsible]]
+[[/div]]
+[[/div]]
+[[div class="c twocolumn"]]
+[[div class="papernote" style="background-color: rgb(13,13,18) !important; border-radius:5px 5px 0px 0px;padding:0.1rem 0.5rem 0.1rem 0.5rem !important; margin-block: 0rem !important;"]]
+[[div class="a"]]
+[[span class="st"]][已刪除][[/span]]
+[[/div]]
+[[/div]]
+[[div class="d"]]
+[[collapsible show="> 存取" hide="cd .." hideLocation="bottom" folded="yes"]]
+[[<]]
+[[include :scp-wiki:component:image-block
+name=https://scptestwiki.wdfiles.com/local--files/sigma:deletions/delet.png  |
+caption=[已刪除]|
+align=center|
+width=250px
+]]
+[[div class="" style="clear:both;"]][[/div]]
+[[div class="e"]]
+此人的相關訊息已自檔案系統中刪除。
+[[/div]]
+[[/<]]
+[[/collapsible]]
+[[/div]]
+[[/div]]
+[[div class="c twocolumn"]]
+[[div class="papernote" style="background-color: rgb(13,13,18) !important; border-radius:5px 5px 0px 0px;padding:0.1rem 0.5rem 0.1rem 0.5rem !important; margin-block: 0rem !important;"]]
+[[div class="a"]]
+[[span class="st"]]哈洛．吉娜維芙主任[[/span]]
+[[/div]]
+[[/div]]
+[[div class="d"]]
+[[collapsible show="> 存取" hide="cd .." hideLocation="bottom" folded="yes"]]
+[[<]]
+[[include :scp-wiki:component:image-block
+name=https://scptestwiki.wdfiles.com/local--files/sigma:deletions/harlow.gif|
+caption=哈洛．吉娜維芙主任，攝於1989年|
+align=center|
+width=250px
+]]
+[[div class="" style="clear:both;"]][[/div]]
+[[div class="e"]]
+本質物理學部主任，其任務是研究將概念體現至邏輯極端之異常。是刪除部與受監督者成員間值得信賴的聯絡人。
+[[/div]]
+[[/<]]
+[[/collapsible]]
+[[/div]]
+[[/div]]
+[[div class="c twocolumn"]]
+[[div class="papernote" style="background-color: rgb(13,13,18) !important; border-radius:5px 5px 0px 0px;padding:0.1rem 0.5rem 0.1rem 0.5rem !important; margin-block: 0rem !important;"]]
+[[div class="a"]]
+[[span class="st"]][查詢：已拒絕][[/span]]
+[[/div]]
+[[/div]]
+[[div class="d"]]
+[[collapsible show="> 存取" hide="cd .." hideLocation="bottom" folded="yes"]]
+[[<]]
+[[include :scp-wiki:component:image-block
+name=https://scptestwiki.wdfiles.com/local--files/sigma:deletions/unknown_1.gif|
+caption=[查詢：已拒絕]|
+align=center|
+width=250px
+]]
+[[div class="" style="clear:both;"]][[/div]]
+[[div class="e"]]
+= [[span class="st"]]{{[查詢：已拒絕]}}[[/span]]
+[[/div]]
+[[/<]]
+[[/collapsible]]
+[[/div]]
+[[/div]]
+[[div class="c twocolumn"]]
+[[div class="papernote" style="background-color: rgb(13,13,18) !important; border-radius:5px 5px 0px 0px;padding:0.1rem 0.5rem 0.1rem 0.5rem !important; margin-block: 0rem !important;"]]
+[[div class="a"]]
+[[span class="st"]]N/A[[/span]]
+[[/div]]
+[[/div]]
+[[div class="d"]]
+[[collapsible show="> 存取" hide="cd .." hideLocation="bottom" folded="yes"]]
+[[<]]
+[[include :scp-wiki:component:image-block
+name=https://scptestwiki.wdfiles.com/local--files/sigma:deletions/you_.gif |
+caption=N/A|
+align=center|
+width=250px
+]]
+[[div class="" style="clear:both;"]][[/div]]
+[[div class="e"]]
+格式塔意識具有不同數量​​的部分覆寫個體。性格、外貌、舉止、情緒、限制、傾向等均可能在表現間出現波動。
+[[/div]]
+[[/<]]
+[[/collapsible]]
+[[/div]]
+[[/div]]
+[[div class="c twocolumn"]]
+[[div class="papernote" style="background-color: rgb(13,13,18) !important; border-radius:5px 5px 0px 0px;padding:0.1rem 0.5rem 0.1rem 0.5rem !important; margin-block: 0rem !important;"]]
+[[div class="a"]]
+[[span class="st"]]受監督者[[/span]]
+[[/div]]
+[[/div]]
+[[div class="d"]]
+[[collapsible show="> 存取" hide="cd .." hideLocation="bottom" folded="yes"]]
+[[<]]
+[[include :scp-wiki:component:image-block
+name=https://scptestwiki.wdfiles.com/local--files/sigma%3Adeletions/warp_.gif |
+caption=受監督者|
+align=center|
+width=250px
+]]
+[[div class="" style="clear:both;"]][[/div]]
+[[div class="e"]]
+抽象部門負責人或多產實體的變體集合，具代O5議會行事的非典型配置。受監督者管理不存在的事物，管理潛伏在影之影中、在感知或理解之外、在沒入異常深水池中的事物。
+
+= [[span class="st"]]已知成員：[[/span]]
+
+|| [[span class="st"]]ID[[/span]] || [[span class="st"]]名稱[[/span]] || [[span class="st"]]領域/部門[[/span]] ||
+|| U5-Ⰰ || [未知]|| 外域圈||
+|| U5-Ⰱ || 馬塞爾．N．塞奎圖爾|| 超現實||
+|| U5-Ⰲ || 艾力克斯・索爾利|| 非現實||
+|| U5-Ⰳ || O5-4|| 超越||
+|| U5-Ⰴ || [已解離]|| 符號圈||
+|| U5-Ⰵ || 羅伯特．斯克蘭頓|| 超維度||
+|| U5-Ⰶ || 戰術神學|| 戰術神學||
+|| U5-Ⰷ || 意外事故|| 一||
+|| U5-Ⰸ || 哈洛．吉娜維芙主任|| 本質物理||
+|| U5-Ⰹ || 恩奇都.aic|| 敘事||
+|| U5-Ⰺ || ████ ███|| 後勤||
+|| U5-Ⰻ || ⠀⠀⠀⠀⠀⠀⠀⠀⠀ || 逆模因||
+|| U5-Ⰼ || 韋達．A．拉奧||意念||
+|| U5-Ⰽ || ℱ℺↋ℎↂ⅁ℌ℉ↇ℄|| 非語||
+|| U5-Ⰾ || N/A || 刪除||
+|| U5-Ⰿ|| 克勞蒂亞．波馬雷長官|| 終末||
+
+[[/div]]
+[[/<]]
+[[/collapsible]]
+[[/div]]
+[[/div]]
+[[div class="c twocolumn"]]
+[[div class="papernote" style="background-color: rgb(13,13,18) !important; border-radius:5px 5px 0px 0px;padding:0.1rem 0.5rem 0.1rem 0.5rem !important; margin-block: 0rem !important;"]]
+[[div class="a"]]
+[[span class="st"]]未知實體[[/span]]
+[[/div]]
+[[/div]]
+[[div class="d"]]
+[[collapsible show="> 存取" hide="cd .." hideLocation="bottom" folded="yes"]]
+[[<]]
+[[include :scp-wiki:component:image-block
+name=https://scptestwiki.wdfiles.com/local--files/sigma:deletions/unknown.gif |
+caption=未知實體實例|
+align=center|
+width=250px
+]]
+[[div class="" style="clear:both;"]][[/div]]
+[[div class="e"]]
+曾與刪除部有所聯繫的未知人員。可能領導了該部門的成立，自稱是刪除部的「管理者」。該實體可能導致了[[[SCP-7549]]]的創造，目的可能是要改造人員以在各種情況下均能定期而持續的使用。可能存在也可能不存在。
+[[/div]]
+[[/<]]
+[[/collapsible]]
+[[/div]]
+[[/div]]
+[[/div]]
+[[/=]]
+@@ @@
+@@ @@
+[[/tab]]
+[[/tabview]]
+
+
+[[tabview]]
+[[tab 閱讀指南]]
+@@ @@
+= [[span class="st"]]__閱讀刪除部__[[/span]]
+@@ @@
+[[div class="blockquote" style="border-radius:5px; padding:12px;"]]
++++++ [[span class="st"]]//我會看到什麼？//[[/span]]
+----
+要理解刪除部文章不需要電腦科學學位，但它確實是SCP文章中比較深奧難懂的內容，所以有可能沒法吸引到所有人。喜歡高度元、高度超現實和高度技術寫作的人，可能會覺得刪除部跟回家一樣親切。如果你不喜歡談論敘述，對CSS望之卻步，痛恨技術術語，那這些文章可能就不適合你了。
+@@ @@
+當你看見不認識的術語或概念時，你可能會發現參考此中心頁將有很大的幫助。我打算根據需要拓展前面的[[span class="st"]]彙編[[/span]]表。理想情況下，每篇文章都可以作為獨立的體驗來欣賞，並且你只要花時間好好思考，就可以更深入了理解作品。你可能會更有收穫。
+[[/div]]
+@@ @@
+[[div class="blockquote" style="border-radius:5px; padding:12px;"]]
++++++ [[span class="st"]]//為什麼你喜歡這個？//[[/span]]
+----
+刪除是實現我想探索概念的手段之一，這可以讓我無須擔心跟現有系列和標準有所牴觸。這最初只是個 [[[GoblinCon|哥布林競賽]]]的點子，後來就越發展越大。我一直對開發非現實部的替代方案很有興趣，以避免與[[*user Fishish]]的原創願景混淆。無論如何，刪除是後來最符合我的想法成果。
+@@ @@
+為什麼我喜歡這個？我不知耶 [[size 50%]]問問我的作者吧[[/size]]
+[[/div]]
+@@ @@
+[[/tab]]
+[[tab 寫作指南]]
+@@ @@
+= [[span class="st"]]__創作刪除部__[[/span]]
+@@ @@
+> = [[size 85%]][[span class="st"]]//由於文章本身的性質，我認為有必要在本指南前言部分提出以下問題：//[[/span]][[/size]]
+> = [[size 85%]][[span class="st"]]//__你確定要寫這個嗎？__//[[/span]][[/size]]
+> = //從各方面來講，刪除部作品都是我寫過最具挑戰創作。從概念化到落筆、創造獨特的多媒體元素與自訂微調CSS佈局，我想說刪除部文章是我作品中最「精心策劃」的。我想讓這個傳統延續下去，我鼓勵任何有興趣者如果對撰寫刪除部文章有任何疑問時，歡迎與我聯繫。//
+@@ @@
+[[div class="blockquote" style="border-radius:5px; padding:12px;"]]
++++++ [[span class="st"]]> //概念。//[[/span]]
+----
+所以，你想寫一篇刪除部文章。你忽略了上頭的警告，你已經下定了決心。很酷，很酷。但我們到底要寫什麼？
+
+刪除部文章有兩種重要類型：「首要」與「次要」。首要文章自刪除部角度出發，將運用該部門的術語、視覺元素與動機──[[[SCP-7549]]]和[[[SCP-7912]]]就是這樣的。次要文章則從其他部門的角度看刪除部，例如[[[SCP-7079]]]以及[[[SCP-6183]]]。這類文章有更多的創作自由餘地，並且在適應的情況下，能在特定情況下按主部門風格撰寫。可以這樣想：這篇文章是刪除紀錄嗎？這篇文章是否描寫了基金會時間線外存在的異常？如果是的話，你就要把這篇文章歸在首要刪除文。如果文章中有人員被刪除了，你就要把它放在次要刪除文。
+
+編寫相容異常的穩妥方法在於名稱。這話是什麼意思呢？刪除。有些是已經被刪除了，有些則需要被刪除。異常可能會影響數據庫中的敘述，進而威脅更多敘述乃至整個Wikidot數據庫。異常可能會威脅要從數據庫完全刪去刪除內容。這可能是種不該繼續存在卻確實存在的異常。無論如何，如果刪除部不會對某個想法感興趣，那麼他們為什麼會對它感興趣呢？
+
+這個概念可以是資料庫或Wikidot功能的象徵、寫作過程的各個面向、各類計算現象的演示，或根本就完全不相關。這可以關注於已刪除的內容本身，抑或是所述內容的丟失。請記住，Wikidot不僅僅只有SCP-Wiki，請隨意並用或引述網站上的任何其他內容──流浪者的圖書館、後室、跨界計畫、搞笑基金會、先前迭代的網站、維基的歷史、國際分部機構等。你有很多方法可以考慮。
+[[/div]]
+@@ @@
+[[div class="blockquote" style="border-radius:5px; padding:12px;"]]
++++++ [[span class="st"]]> //文章。//[[/span]]
+----
+供該部門使用的文件將會[[span class="st"]]標記為刪除[[/span]]。如果內容真的是待刪除狀態，那還會有文字遊戲的效果，不過也沒有必要特別說出來就是了。刪除部分的標準化做的有些鬆散。事實上，這在大多數方面都應該在視覺上是獨一無二的。然而，還是會存在一些重複的主題，你可以且應該至少用上一些。下一節將詳細介紹這點。
+
+刪除部成員會因時間流逝變得越來越扭曲。居住在灰色時，他們可以在白色空間內物理顯現，但除非受到他者的主動威脅或聯繫，他們通常沒有理由在抽象空間中呈現外型。透過融合拼湊而成的「外表」，他們創造出了一種集體意識，可以毫不費力地分享思想、記憶與溝通。
+
+非常，非常少數的情況下，被刪除個體會被部分覆寫，但定義其外表的數據仍會保持不變。在這種情況下，他們會擁有格式塔不知道的獨特感知與想法。同樣的，這個存在也不能理解格式塔的感知或想法。存在一個「自我」將個人與他者區隔開來。這可能需要進一步的協調，才能進行有效的計劃，或者該獨立身分可能需要收容與進一步的片段化，才能正確併入N/A的格式塔中。
+
+刪除部特工試圖為彼此或自身保留當前任務的有效記錄，但不一定是為整個基金會而做的。當資訊從數據庫中正確刪除後，它就會消失。 當維基文章受到影響時，基金會敘述中的文件版本也會受到影響。
+
+在暗示用於刪除或來自刪除的文件中，可以使用獨特的ACS分級：
+
+|| [[span class="st"]]圖標[[/span]] || [[span class="st"]]分級[[/span]] || [[span class="st"]]名稱[[/span]] || [[span class="st"]]資訊[[/span]] ||
+|| [[image https://scptestwiki.wdfiles.com/local--files/sigma%3Adeletion2/dod_icon.png]] || 主要等級 || Deletions || 異常項目或區域環境已置於刪除部的控制之下。 ||
+|| [[image https://scp-wiki.wdfiles.com/local--files/scp-7549/concentra.svg]] || 項目等級 || Concentra || 異常會產生或影響遞迴現象。||
+|| [[image https://scp-wiki.wdfiles.com/local--files/scp-7912/Tenebrarius.svg]] || 項目等級 || Tenebrarius || 基金會沒有亦不可能有異常相關資訊。 ||
+|| [[image https://scp-wiki.wdfiles.com/local--files/scp-6445/Infrared.svg]] || 擾動等級 || Infrared || 尚未釐清該異常正在產生/可能產生的破壞。由[[*user MontagueETC]]創立。 ||
+|| [[image https://scptestwiki.wdfiles.com/local--files/sigma%3Adeletions/sectored.svg]] || 擾動等級 || Sectored || 異常造成擾動能影響所屬區域的任何數據。 ||
+|| [[image https://scptestwiki.wdfiles.com/local--files/sigma%3Adeletions/clustered.svg]] || 擾動等級 || Clustered || 異常擾動能影響其自身區域集群中的任何資料。 ||
+|| [[image https://scp-wiki.wdfiles.com/local--files/scp-7549/systemic.svg]] || 擾動等級 || Systemic || 異常擾動能影響整個資料庫 ||
+|| [[image https://scp-wiki.wdfiles.com/local--files/scp-7549/o.svg]] ||危害等級 || Overflow || 異常危害可忽略不計，除非允許其增生超過給定的限制。 ||
+|| [[image https://scptestwiki.wdfiles.com/local--files/sigma%3Adeletion2/gravy_icon.svg]] || Nexus類型 || Graveyard || Nexus是名為「墓碑」的已刪除位置集合。 ||
+|| [[image https://scpdsandbox.wdfiles.com/local--files/interior/Cryptic.svg]] || 風險等級 || Cryptic || 異常正在產生/可能產生的風險未知。由[[*user MontagueETC]]創立。||
+
+還有更多內容可以添加，但如果你還有其他想法，也不必使用它們。
+[[/div]]
+@@ @@
+[[div class="blockquote" style="border-radius:5px; padding:12px;"]]
++++++ [[span class="st"]]> //風格。//[[/span]]
+----
+如果刪除部文章有什麼特色的話，那就是風格了。這風格是時尚的、現代的、喜怒無常的，同時帶有腐敗的類比恐怖氛圍。有兩種主要方法可以實現這一點：CSS與媒體元素，後者將在下文做更進一步的討論。
+
+刪除部文章設計參考了[http://scp-zh-tr.wikidot.com/theme:basalt Basalt]，但是你也沒有一定要使用它。最好使用最適合你CSS/設計知識水準的元素。每篇文章都應該是獨特且經過精心組裝。儘管這不能成為不去寫引人入勝故事的藉口，但美學吸引力在這類作品中是**同樣重要**的。幸運的是，你可以使用那些高品味媒體（例如照片、動畫、配樂、互動組件等你能想到的任何內容）輕鬆提升文章的美感。
+
+我在此類作品中幾乎只使用兩種字體：
+
+//##gray|Zen Kaku Gothic Antique##//用於正體文字 - [https://fonts.google.com/specimen/Zen+Kaku+Gothic+Antique 連結點此]
+
+//##gray|[[span class="st"]]POPPINS[[/span]]##//用於版頭與標題字體 - [https://fonts.google.com/specimen/Poppins 連結點此]
+
+我通常會導入幾種字體粗細以防萬一，但你的文章是你自己的。我再說一句，對於現代風格，通常選擇無襯線字體為佳。
+
+[[code]]
+@import url('https://fonts.googleapis.com/css2?family=Zen+Kaku+Gothic+Antique:wght@300;400;500;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700;800;900&display=swap');
+[[/code]]
+
+如果你選擇了Basalt，請修改根變量符合我的優化版字體樣式：
+
+[[code]]
+root: {
+--header-font: 'Poppins';
+--body-font: 'Zen Kaku Gothic Antique', sans-serif;
+--ACS-font: var(--header-font);
+--UI-font: 'Poppins';
+}
+[[/code]]
+
+
+加上此內容以更改外部超連結與可折疊內容字體：
+
+[[code]]
+a {
+font-family: var(--header-font);
+}
+[[/code]]
+
+加上此內容可使視圖無邊框，如本檔案所示。
+
+[[code]]
+.yui-navset.yui-navset-top .yui-content {
+border: none;
+}
+[[/code]]
+
+你可能會注意到，中心頁使用了非常特殊的橙色作為強調色。該顏色與Basalt用於無效超連結的顏色相同。我認為這在主題上是合適的。為了實現這個以及橙色文字選取陰影：
+
+[[code]]
+--selection-background-color: 197, 119, 41 !important;
+--link-color: var(--basalt-alternate-color) !important;
+--link-visited-color: var(--basalt-alternate-color) !important;
+--basalt-bright-element-color: var(--basalt-alternate-color) !important;
+[[/code]]
+
+另外，你現在得好好想一下文章標題。理想情況下，它應該是一個詞彙，字與字之間用空格分隔。如果你還能再弄成文字遊戲那就更加分了。到目前為止，每個刪除部作品都具有多個含意的名稱，例如如果考慮近似的單詞（例如chiasmus、chiasm）「交 叉」（C H I A S M A）就有多達五到六個含意。
+
+根據你的框架，您會需要加上一些「刪除」圖標以做識別。例如惡名昭彰的「循環三角形」，就可以用於指示刪除正涉及自身或假定控制的異常。你可能會發現此圖像附有前述的「標記為刪除」的短語。相關圖標：
+
+|| [[span class="st"]]圖標[[/span]] || [[span class="st"]]資訊[[/span]] ||
+|| [[image https://scp-wiki.wdfiles.com/local--files/scp-7549/recurrent_triangle.png width="300px"]] || 刪除部循環三角形標誌 ||
+|| [[image https://scp-wiki.wdfiles.com/local--files/scp-6768/dept.png width="300px"]] || 謨涅摩敘涅研究站徽章，白 ||
+|| [[image https://scp-wiki.wdfiles.com/local--files/classifications-guides-and-icons-by-billith/dod-blk.png width="300px"]] || 謨涅摩敘涅研究站徽章，黑 ||
+|| [[image https://scp-wiki.wdfiles.com/local--files/scp-7549/dod-detail.png width="300px"]] || 謨涅摩敘涅研究站徽章完整徽章 ||
+
+通常若文章不是從刪除部角度出發，但仍以某種方式提到該部門，那麼謨涅摩敘涅標誌就不會出現。同樣的，你在本文看見的「數據庫體系結構」背景模式更適合刪除首要文章。
+
+為了產生與配置背景圖樣：
+
+[[=]]
+[[collapsible show="> 存取代碼" hide="cd .."]]
+[[<]]
+[[code]]
+body {
+background-color: #000000; /* This specifies the background color */
+background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 304 304' width='304' height='304'%3E%3Cpath fill='%23aeaeb0' fill-opacity='0.08' d='M44.1 224a5 5 0 1 1 0 2H0v-2h44.1zm160 48a5 5 0 1 1 0 2H82v-2h122.1zm57.8-46a5 5 0 1 1 0-2H304v2h-42.1zm0 16a5 5 0 1 1 0-2H304v2h-42.1zm6.2-114a5 5 0 1 1 0 2h-86.2a5 5 0 1 1 0-2h86.2zm-256-48a5 5 0 1 1 0 2H0v-2h12.1zm185.8 34a5 5 0 1 1 0-2h86.2a5 5 0 1 1 0 2h-86.2zM258 12.1a5 5 0 1 1-2 0V0h2v12.1zm-64 208a5 5 0 1 1-2 0v-54.2a5 5 0 1 1 2 0v54.2zm48-198.2V80h62v2h-64V21.9a5 5 0 1 1 2 0zm16 16V64h46v2h-48V37.9a5 5 0 1 1 2 0zm-128 96V208h16v12.1a5 5 0 1 1-2 0V210h-16v-76.1a5 5 0 1 1 2 0zm-5.9-21.9a5 5 0 1 1 0 2H114v48H85.9a5 5 0 1 1 0-2H112v-48h12.1zm-6.2 130a5 5 0 1 1 0-2H176v-74.1a5 5 0 1 1 2 0V242h-60.1zm-16-64a5 5 0 1 1 0-2H114v48h10.1a5 5 0 1 1 0 2H112v-48h-10.1zM66 284.1a5 5 0 1 1-2 0V274H50v30h-2v-32h18v12.1zM236.1 176a5 5 0 1 1 0 2H226v94h48v32h-2v-30h-48v-98h12.1zm25.8-30a5 5 0 1 1 0-2H274v44.1a5 5 0 1 1-2 0V146h-10.1zm-64 96a5 5 0 1 1 0-2H208v-80h16v-14h-42.1a5 5 0 1 1 0-2H226v18h-16v80h-12.1zm86.2-210a5 5 0 1 1 0 2H272V0h2v32h10.1zM98 101.9V146H53.9a5 5 0 1 1 0-2H96v-42.1a5 5 0 1 1 2 0zM53.9 34a5 5 0 1 1 0-2H80V0h2v34H53.9zm60.1 3.9V66H82v64H69.9a5 5 0 1 1 0-2H80V64h32V37.9a5 5 0 1 1 2 0zM101.9 82a5 5 0 1 1 0-2H128V37.9a5 5 0 1 1 2 0V82h-28.1zm16-64a5 5 0 1 1 0-2H146v44.1a5 5 0 1 1-2 0V18h-26.1zm102.2 270a5 5 0 1 1 0 2H98v14h-2v-16h124.1zM242 149.9V160h16v34h-16v62h48v48h-2v-46h-48v-66h16v-30h-16v-12.1a5 5 0 1 1 2 0zM53.9 18a5 5 0 1 1 0-2H64V2H48V0h18v18H53.9zm112 32a5 5 0 1 1 0-2H192V0h50v2h-48v48h-28.1zm-48-48a5 5 0 0 1-9.8-2h2.07a3 3 0 1 0 5.66 0H178v34h-18V21.9a5 5 0 1 1 2 0V32h14V2h-58.1zm0 96a5 5 0 1 1 0-2H137l32-32h39V21.9a5 5 0 1 1 2 0V66h-40.17l-32 32H117.9zm28.1 90.1a5 5 0 1 1-2 0v-76.51L175.59 80H224V21.9a5 5 0 1 1 2 0V82h-49.59L146 112.41v75.69zm16 32a5 5 0 1 1-2 0v-99.51L184.59 96H300.1a5 5 0 0 1 3.9-3.9v2.07a3 3 0 0 0 0 5.66v2.07a5 5 0 0 1-3.9-3.9H185.41L162 121.41v98.69zm-144-64a5 5 0 1 1-2 0v-3.51l48-48V48h32V0h2v50H66v55.41l-48 48v2.69zM50 53.9v43.51l-48 48V208h26.1a5 5 0 1 1 0 2H0v-65.41l48-48V53.9a5 5 0 1 1 2 0zm-16 16V89.41l-34 34v-2.82l32-32V69.9a5 5 0 1 1 2 0zM12.1 32a5 5 0 1 1 0 2H9.41L0 43.41V40.6L8.59 32h3.51zm265.8 18a5 5 0 1 1 0-2h18.69l7.41-7.41v2.82L297.41 50H277.9zm-16 160a5 5 0 1 1 0-2H288v-71.41l16-16v2.82l-14 14V210h-28.1zm-208 32a5 5 0 1 1 0-2H64v-22.59L40.59 194H21.9a5 5 0 1 1 0-2H41.41L66 216.59V242H53.9zm150.2 14a5 5 0 1 1 0 2H96v-56.6L56.6 162H37.9a5 5 0 1 1 0-2h19.5L98 200.6V256h106.1zm-150.2 2a5 5 0 1 1 0-2H80v-46.59L48.59 178H21.9a5 5 0 1 1 0-2H49.41L82 208.59V258H53.9zM34 39.8v1.61L9.41 66H0v-2h8.59L32 40.59V0h2v39.8zM2 300.1a5 5 0 0 1 3.9 3.9H3.83A3 3 0 0 0 0 302.17V256h18v48h-2v-46H2v42.1zM34 241v63h-2v-62H0v-2h34v1zM17 18H0v-2h16V0h2v18h-1zm273-2h14v2h-16V0h2v16zm-32 273v15h-2v-14h-14v14h-2v-16h18v1zM0 92.1A5.02 5.02 0 0 1 6 97a5 5 0 0 1-6 4.9v-2.07a3 3 0 1 0 0-5.66V92.1zM80 272h2v32h-2v-32zm37.9 32h-2.07a3 3 0 0 0-5.66 0h-2.07a5 5 0 0 1 9.8 0zM5.9 0A5.02 5.02 0 0 1 0 5.9V3.83A3 3 0 0 0 3.83 0H5.9zm294.2 0h2.07A3 3 0 0 0 304 3.83V5.9a5 5 0 0 1-3.9-5.9zm3.9 300.1v2.07a3 3 0 0 0-1.83 1.83h-2.07a5 5 0 0 1 3.9-3.9zM97 100a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm0-16a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm16 16a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm16 16a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm0 16a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm-48 32a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm16 16a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm32 48a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm-16 16a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm32-16a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm0-32a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm16 32a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm32 16a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm0-16a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm-16-64a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm16 0a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm16 96a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm0 16a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm16 16a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm16-144a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm0 32a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm16-32a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm16-16a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm-96 0a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm0 16a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm16-32a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm96 0a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm-16-64a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm16-16a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm-32 0a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm0-16a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm-16 0a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm-16 0a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm-16 0a3 3 0 1 0 0-6 3 3 0 0 0 0 6zM49 36a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm-32 0a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm32 16a3 3 0 1 0 0-6 3 3 0 0 0 0 6zM33 68a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm16-48a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm0 240a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm16 32a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm-16-64a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm0 16a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm-16-32a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm80-176a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm16 0a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm-16-16a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm32 48a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm16-16a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm0-32a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm112 176a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm-16 16a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm0 16a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm0 16a3 3 0 1 0 0-6 3 3 0 0 0 0 6zM17 180a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm0 16a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm0-32a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm16 0a3 3 0 1 0 0-6 3 3 0 0 0 0 6zM17 84a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm32 64a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm16-16a3 3 0 1 0 0-6 3 3 0 0 0 0 6z'%3E%3C/path%3E%3C/svg%3E"); /* This specifies the pattern, size, opacity and fill color; "width='304' height='304'%3E%3Cpath fill='%23aeaeb0' fill-opacity='0.08'" */
+    background-attachment: fixed; /* This ensures the pattern does not move when scrolling */
+    background-size: 100%; /* This determines the scale of the pattern. You can see it scaled down in SCP-6768. */
+    background-repeat: repeat; /* This ensures the pattern actually repeats. You probably don't want to mess with this but feel free. */
+}
+[[/code]]
+
+嘗試使用各種顏色、尺寸和不透明度。關鍵地方你甚至能用偽類{{:before}}在其上覆蓋其他背景圖像，你只需要將圖樣放在影像「之前」即可，如下所示：
+
+[[code]]
+body {
+
+background-image:url([link to photo]);
+
+}
+body:before {
+
+background-image:url([SVG pattern]);
+
+}
+[[/code]]
+
+注意將圖樣縮放過小/過大所帶來的負面影響，因為這種方法非常「毋通」，並且可能影響較為緩慢設備的性能。如果有任何疑難雜症，請壓縮影像或將其解析度降至更易於管理的程度。
+
+[[/<]]
+[[/collapsible]]
+[[/=]]
+@@ @@
+之後，你可能需要設定你的分級系統。如果你對ACS感興趣，請使用[https://scp-wiki.wikidot.com/component:customizable-acs-guide 超潮的ACS可自定義擴充套件]建立具有自定義圖標的機密分級，並根據需要實作自訂權限欄影像。我在所有刪除部作品（以及許多其他作品）中都是這樣用的。
+
+其他你可能會想用的組件：
+
+* [http://scp-zh-tr.wikidot.com/component:image-features 圖像特效框] - 懸停、滑動、模糊、像素化、碎形化你的影像。
+* [http://scp-zh-tr.wikidot.com/component:audio-player-woed Woed的音樂播放器] - 播放音檔與控制音量、追蹤、下載等。
+* [http://scp-zh-tr.wikidot.com/component:wide-image-sizer 寬影像調整器] - 自動將寬影像縮放至215像素高度以適合目前螢幕的寬度。
+@@ @@
+
+如果你用的是Basalt，你可以操作此程式碼製成一些自訂備忘橫幅。理論來說，調整程式碼在沒有Basalt的情況下運作是可行的，也許我會在不久的將來這樣做，同時再添加一些額外的備忘錄。在那之前你就隨意稿吧。
+
+無論你要使用哪個備忘，請插入以下內容：
+[[=]]
+[[collapsible show="> 存取代碼" hide="cd .."]]
+[[<]]
+[[code]]
+div[class$="_memo"] {
+    background: linear-gradient(
+      rgba(0, 0, 0, 0.5),
+      rgba(0, 0, 0, 0.94)
+    ),
+var(--memo-logo) rgba(var(--memo-color), .7);
+    background-size: contain;
+    background-position: top center;
+    background-repeat: no-repeat;
+    min-height: 4rem;
+    margin-inline: auto;
+    margin-block: 2rem;
+    padding-inline: 20px;
+    padding-block: 10px;
+    border: solid 2px rgba(255, 255, 255, 0.1);
+    text-align: center;    
+    background-color:rgba(69,69,69,.4);
+}
+
+    div[class$="_memo"]::before {
+    content: var(--memo-heading);
+    font-family: var(--UI-font);
+    font-weight: 900;
+    font-size: 1.4rem;
+    text-align: center;
+    margin: 0 auto 1rem auto;
+    display: flex;
+    flex-direction: column;
+    padding-top: 0.5em;
+}
+[[/code]]
+[[/<]]
+[[/collapsible]]
+[[/=]]
+
+刪除備忘：
+
+[[div class="deletions_memo"]]
+無須採取進一步行動。
+[[/div]]
+[[=]]
+[[collapsible show="> 存取代碼" hide="cd .."]]
+[[<]]
+[[code]]
+div.deletions_memo {
+--memo-heading: "本檔案已標記為刪除";
+--memo-logo: url(https://scp-wiki.wdfiles.com/local--files/scp-6768/deletion.png);
+--memo-color: 255,255,255;
+    color:#999999;
+font-size:1.1rem;
+}
+[[/code]]
+[[/<]]
+[[/collapsible]]
+[[/=]]
+
+受監督者備忘：
+
+[[div class="underwatch_memo"]]
+你的參與意願將不會被納入考量。
+[[/div]]
+[[=]]
+[[collapsible show="> 存取代碼" hide="cd .."]]
+[[<]]
+[[code]]
+div.underwatch_memo {
+
+--memo-heading: "你已獲選為受監督者議會效命";
+--memo-logo: url(https://scptestwiki.wdfiles.com/local--files/sigma%3Adeletions/warp_.gif);
+--memo-color: 255, 5, 5;
+ color:#999999;
+font-size:1.1rem;
+}
+[[/code]]
+[[/<]]
+[[/collapsible]]
+[[/=]]
+@@ @@
+[[/div]]
+
+
+@@ @@
+[[div class="blockquote" style="border-radius:5px; padding:12px;"]]
++++++ [[span class="st"]]> //敘事。//[[/span]]
+----
+別害怕變奇葩。別害怕真正全力以赴。除了寫出一坨臭屎並成為你寫過最可笑的文章之外，不要擔心任何事情。這個中心在我將近700次的編輯後，才讓它變得恰如其分，而且我還是用很愚蠢的方式。讓其他有才華的人加進來，可以提升你的工作水準，會讓你的生活變得更輕鬆。藝術家、設計師、小動物、合著者，見鬼，只是簡單的情感支持和理智檢定也行。 團隊合作。集思廣益。慢工出細活。
+
+這就是我能就此主題提供的所有建議。我沒有要為你寫故事。
+[[/div]]
+@@ @@
+[[div class="blockquote" style="border-radius:5px; padding:12px;"]]
++++++ [[span class="st"]]> //媒體。//[[/span]]
+----
+好的，就這樣了。本指南的一大癥結是//多媒體愚行//。在了解品質標準時，請考慮先前刪除部的部分，因為正如前所述，你的文章應該具有其//風格//。它得在視覺上表現獨特，沒有引自其他文章的背景或佈局。 當你撰寫草稿的時候，這還不是很重要，但你會想要投入時間和精力，讓你的文章感覺更有種完整//體驗//的。
+
+全文都應該以某種不怎麼不和諧的方式結合在一塊，你不該操之過急或偷工減料。做些相反的事。說故事時要秉持享樂主義，添加圖像只因為你喜歡且它很合適。如果你真是為了完善你的寫作和格式，不會有什麼壞處的。
+
+以[[[SCP-7549]]]為例。我使用了通用紫黃色調色板；	同色的旋轉星系動畫像素圖；ACS欄的三個新等級圖標；自訂背景；藉由設計軟體運用部分整潔的像素拖曳/光排序效果。然後我製作了八張動畫圖，包括了獲得意見相關的基礎圖片，接著我運用效果對其進行動畫處理，壓縮後將其正確格式化到文章中。然後我還為它製作了主題曲與自訂CSS 設計。所有這些完成後，我就開始撰寫這篇文章（略多於2500字）。
+
+這對我來說並沒有太困難，因為我優化自己的工作流程也好一段時間了，我可以在相對較短的時間內產出媒體元素。[[[SCP-7912]]]使用了十一個圖像，當中有十個是動畫，另外一個是背景圖像，我還設計了自定義圖標，另外找了配樂，加上4000字的篇幅，我在大約一週的時間內將其組合在一塊。是有點麻煩，但確實有必要，你懂我的意思嗎？對我來說，刪除部是種多媒體體驗。因此請在你的文章中嘗試使用多種形式的媒體。你甚至可以要求我提供資源/動畫/音樂等，不過糟糕的是我現在真的很忙，等到情況不再那麼糟時我會聯繫你的。
+
+
+
+無論如何，接下來就交給你了。祝你好運，我在另一頭等你喔。
+[[/div]]
+@@ @@
+[[/tab]]
+[[tab 刪除部藝作]]
+@@ @@
+[[=]]
+[[collapsible show="刪除部藝作" hide="崩潰" hideLocation="bottom" folded="no"]]
+@@ @@
+@@ @@
+[[div class="row"]]
+    [[image https://scp-wiki.wdfiles.com/local--files/scp-7912/empty.png]]
+    [[image https://scptestwiki.wdfiles.com/local--files/sigma%3Adeletion2/epitaph_.gif]]
+[[div class="column"]]
+    [[image https://scp-wiki.wdfiles.com/local--files/admonition/admo-6183-tunnel.jpg]]
+    [[image https://scp-wiki.wdfiles.com/local--files/scp-6768/farm.png]]
+    [[image https://scpdsandbox.wdfiles.com/local--files/interior/stares.png]]
+    [[image https://scp-wiki.wdfiles.com/local--files/scp-7912/screen9.gif]]
+    [[image https://scp-wiki.wdfiles.com/local--files/scp-7549/noise4.gif]]
+    [[image https://scptestwiki.wdfiles.com/local--files/sigma%3Adeletion2/digdug.png]]
+    [[image https://scpdsandbox.wdfiles.com/local--files/interior/finality]]
+    [[image https://scp-wiki.wdfiles.com/local--files/scp-7549/noise7.gif]]
+    [[image https://scp-wiki.wdfiles.com/local--files/scp-7912/screen000.gif]]
+    [[image https://scp-wiki.wdfiles.com/local--files/scp-6183/hall1.png]]
+[[/div]]
+ [[div class="column"]]
+    [[image https://scptestwiki.wdfiles.com/local--files/sigma:deletions/poi7912.gif]]
+    [[image https://scp-wiki.wdfiles.com/local--files/scp-7549/noise1.gif]]
+    [[image https://scp-wiki.wdfiles.com/local--files/scp-7912/screen7.gif]]
+    [[image https://scp-wiki.wdfiles.com/local--files/scp-7549/cache.gif]]
+    [[image https://scp-wiki.wdfiles.com/local--files/scp-7549/noise2.gif]]
+    [[image https://scp-wiki.wdfiles.com/local--files/scp-7912/screen0.gif]]
+    [[image https://scpdsandbox.wdfiles.com/local--files/interior/server.png]]
+    [[image https://scptestwiki.wdfiles.com/local--files/sigma%3Adeletions/dods.gif]]
+    [[image https://scp-wiki.wdfiles.com/local--files/scp-7912/screen00.gif]]
+[[/div]]
+[[div class="column"]]
+    [[image https://scp-wiki.wdfiles.com/local--files/scp-7549/cab.png]]
+    [[image https://scptestwiki.wdfiles.com/local--files/sigma%3Adeletions/dod.gif]]
+    [[image https://scpdsandbox.wdfiles.com/local--files/interior/deepwell.png]]
+    [[image https://scp-wiki.wdfiles.com/local--files/scp-7912/sort.jpg]]
+    [[image https://scptestwiki.wdfiles.com/local--files/sigma%3Adeletion2/lossy.gif]]
+    [[image https://scpdsandbox.wdfiles.com/local--files/interior/room.png]]
+    [[image https://scp-wiki.wdfiles.com/local--files/scp-7549/recurrent_triangle.png]]
+    [[image https://scp-wiki.wdfiles.com/local--files/scp-7912/screen8.gif]]
+    [[image https://scp-wiki.wdfiles.com/local--files/scp-6768/inner.gif]]
+    [[image https://scp-wiki.wdfiles.com/local--files/scp-7549/noise3.gif]]
+[[/div]]
+[[div class="column"]]
+    [[image https://scp-wiki.wdfiles.com/local--files/scp-7549/booth.gif]]
+    [[image https://scp-wiki.wdfiles.com/local--files/scp-6183/1e.png]]
+    [[image https://scp-wiki.wdfiles.com/local--files/scp-7549/noise6.gif]]
+    [[image https://scp-wiki.wdfiles.com/local--files/scp-6768/display.gif]]
+    [[image https://scp-wiki.wdfiles.com/local--files/scp-7549/noise5.gif]]
+    [[image https://scp-wiki.wdfiles.com/local--files/scp-7912/screen0000.gif]]
+    [[image https://scp-wiki.wdfiles.com/local--files/scp-7549/wormhole.gif]]
+    [[image https://scp-wiki.wdfiles.com/local--files/scp-7912/inform.gif]]
+    [[image https://scp-wiki.wdfiles.com/local--files/scp-7912/poi.gif]]
+    [[image https://scptestwiki.wdfiles.com/local--files/sigma%3Adeletions/unknown_1.gif]]
+[[/div]]
+[[/div]]
+@@ @@
+@@ @@
+[[/collapsible]]
+@@ @@
+
+@@ @@
+[[collapsible show="刪除部音樂" hide="崩潰" hideLocation="bottom" folded="no"]]
+@@ @@
+@@ @@
+[[div class="papernote"]]
++++++  [[span class="st"]][[[SCP-7549|更多鎖鏈]]] BY SLOWGRAMMING[[/span]]
+-----
+[[div style="width:75%; height:75%; margin: 0 auto; position:relative;"]]
+[[include :scp-wiki:component:audio-player-woed-source
+|unique-name=CACHE
+|audio-file= https://scp-wiki.wdfiles.com/local--files/scp-7549/more-chains.mp3
+|background-color=rgb(10, 10, 10)
+|border-color=rgb10, 10, 10)
+|border-radius=0.313rem
+|dropshadow-color=rgba(12, 12, 12, 0.15)
+|text-color=rgb(199, 131, 6)
+|icons-color=rgb(221, 119, 17)
+|player-color=rgb(10,10,10)
+|progress-color=rgb(221, 119, 17)
+]]
+[[/div]]
+[[/div]]
+[[div class="papernote"]]
++++++  [[span class="st"]][[[SCP-7912|再無出口]]] BY SLOWGRAMMING[[/span]]
+-----
+[[div style="width:75%; height:75%; margin: 0 auto; position:relative;"]]
+[[include :scp-wiki:component:audio-player-woed-source
+|unique-name=INTERIOR
+|audio-file= https://scp-wiki.wdfiles.com/local--files/scp-7912/nomore.mp3
+|background-color=rgb(10, 10, 10)
+|border-color=rgb10, 10, 10)
+|border-radius=0.313rem
+|dropshadow-color=rgba(12, 12, 12, 0.15)
+|text-color=rgb(199, 131, 6)
+|icons-color=rgb(221, 119, 17)
+|player-color=rgb(10,10,10)
+|progress-color=rgb(221, 119, 17)
+]]
+[[/div]]
+[[/div]]
+[[div class="papernote"]]
++++++  [[span class="st"]][[[SCP-6183|黑暗之地]]] BY SLOWGRAMMING[[/span]]
+-----
+[[div style="width:75%; height:75%; margin: 0 auto; position:relative;"]]
+[[include :scp-wiki:component:audio-player-woed-source
+|unique-name=BLACKBOX
+|audio-file= https://scp-wiki.wdfiles.com/local--files/scp-6183/adarkplace.mp3
+|background-color=rgb(10, 10, 10)
+|border-color=rgb10, 10, 10)
+|border-radius=0.313rem
+|dropshadow-color=rgba(12, 12, 12, 0.15)
+|text-color=rgb(199, 131, 6)
+|icons-color=rgb(221, 119, 17)
+|player-color=rgb(10,10,10)
+|progress-color=rgb(221, 119, 17)
+]]
+[[/div]]
+[[/div]]
+@@ @@
+@@ @@
+[[/collapsible]]
+[[/=]]
+@@ @@
+
+@@ @@
+[[=]]
+[[collapsible show="社群藝作" hide="崩潰" hideLocation="bottom" folded="no"]]
+@@ @@
+@@ @@
+[[div class="papernote"]]
+[[image https://scp-wiki.wdfiles.com/local--files/sr-researcher-james-a-harkness-personnel-file/6183]]
+[[span class="st"]]BY [[*user Zal Cryptid]][[/span]]
+[[/div]]
+@@ @@
+[[div class="papernote"]]
+[[image https://scp-wiki.wdfiles.com/local--files/sr-researcher-james-a-harkness-personnel-file/6183_pride]]
+[[image https://scp-wiki.wdfiles.com/local--files/sr-researcher-james-a-harkness-personnel-file/6183_pride_2]]
+[[span class="st"]]BY @darkhopping[[/span]]
+[[/div]]
+@@ @@
+[[div class="papernote"]]
+[[image https://scptestwiki.wdfiles.com/local--files/sigma%3Adeletions/techsup1.png]]
+[[image https://scptestwiki.wdfiles.com/local--files/sigma%3Adeletions/techsup2.webp]]
+[[span class="st"]]BY u/technicalsupport95[[/span]]
+[[/div]]
+@@ @@
+@@ @@
+[[/collapsible]]
+[[/=]]
+@@ @@
+[[/tab]]
+[[/tabview]]
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+= {{<檔案結束>}}
+
+[[include :scp-zh-tr:component:license-box
+|author=Billith
+]]
+=====
+> **Filename:** cryptic.svg
+> **Author:** [[*user MontagueETC]]
+> **License:** CC BY-SA 3.0
+=====
+> **Filename:** dod-detail.png
+> **Author:** [[*user Billith]]
+> **License:** CC BY-SA 3.0
+=====
+> **Filename:** empty.png
+> **Author:** [[*user Billith]]
+> **License:** CC BY-SA 3.0
+=====
+> **Filename:** inform.gif
+> **Author:** [[*user Billith]]
+> **License:** CC BY-SA 3.0
+=====
+> **Filename:** nomore.mp3
+> **Author:** [[*user Billith]]
+> **License:** CC BY-SA 3.0
+=====
+> **Filename:** rsm.png
+> **Author:** [[*user Billith]]
+> **License:** CC BY-SA 3.0
+=====
+> **Filename:** Tenebrarius.svg
+> **Author:** [[*user Billith]]
+> **License:** CC BY-SA 3.0
+=====
+> **Filename:** poi.gif
+> **Author:** [[*user Billith]]
+> **License:** CC BY-SA 3.0
+> **Derivative of:**
+> -----
+> **Name:** IMG_1914
+> **Author:** Beth Kanter
+> **License:** CC-BY 2.0
+> **Source Link:** [[[https://www.flickr.com/photos/58428285@N00/521809128 | Flickr]]]
+=====
+> **Filename:** screen0000.gif
+> **Author:** [[*user Billith]]
+> **License:** CC BY-SA 3.0
+> **Derivative of:**
+> -----
+> **Name:** 2009 Yale Physics Olympics
+> **Author:** Justin Brockie
+> **License:** CC-BY 2.0
+> **Source Link:** [[[https://www.flickr.com/photos/justinstravels/4040538051/ | Flickr]]]
+=====
+> **Filename:** screen000.gif
+> **Author:** [[*user Billith]]
+> **License:** CC BY-SA 3.0
+> **Derivative of:**
+> -----
+> **Name:** empty dunes
+> **Author:** Graeme Maclean
+> **License:** CC-BY 2.0
+> **Source Link:** [[[https://www.flickr.com/photos/gee01/9905812646/ | Flickr]]]
+=====
+> **Filename:** screen00.gif
+> **Author:** [[*user Billith]]
+> **License:** CC BY-SA 3.0
+> **Derivative of:**
+> -----
+> **Name:** Sleepy Hollow
+> **Author:** Fabio Bruna
+> **License:** CC-BY-SA 2.0
+> **Source Link:** [[[https://www.flickr.com/photos/_fabio/53012315111/in/pool-liminal-spaces/| Flickr]]]
+=====
+> **Filename:** screen0.gif
+> **Author:** [[*user Billith]]
+> **License:** CC BY-SA 3.0
+> **Derivative of:**
+> -----
+> **Name:** SpringParking-32
+> **Author:** Gabe Reitzes
+> **License:** CC-BY 2.0
+> **Source Link:** [[[https://www.flickr.com/photos/187316441@N07/49637688702/in/pool-liminal-spaces/| Flickr]]]
+=====
+> **Filename:** screen9.gif
+> **Author:** [[*user Billith]]
+> **License:** CC BY-SA 3.0
+> **Derivative of:**
+> -----
+> **Name:** Cabin in the Woods
+> **Author:** Sheila Sund
+> **License:** CC-BY 2.0
+> **Source Link:** [[[https://www.flickr.com/photos/90692748@N04/22756285714| Flickr]]]
+=====
+> **Filename:** screen8.gif
+> **Author:** [[*user Billith]]
+> **License:** CC BY-SA 3.0
+> **Derivative of:**
+> -----
+> **Name:** Brick Mosque
+> **Author:** Jonathan Lundqvist
+> **License:** CC-BY 2.0
+> **Source Link:** [[[https://www.flickr.com/photos/jturn/162316768/| Flickr]]]
+=====
+> **Filename:** screen7.gif
+> **Author:** [[*user Billith]]
+> **License:** CC BY-SA 3.0
+> **Derivative of:**
+> -----
+> **Name:** Island Interior & Rainforest
+> **Author:** Garden State Hiker
+> **License:** CC-BY 2.0
+> **Source Link:** [[[https://www.flickr.com/photos/elchode/5099894318/| Flickr]]]
+=====
+> **Filename:** sort.jpg
+> **Author:** [[*user Billith]]
+> **License:** CC BY-SA 3.0
+> **Derivative of:**
+> -----
+> **Name:** The Hallway
+> **Author:** Amy
+> **License:** CC-BY 2.0
+> **Source Link:** [[[https://flic.kr/p/7FMKuz| Flickr]]]
+=====
+> **Filename:** concentra.svg
+> **Author:** [[*user Billith]]
+> **License:** CC BY-SA 3.0
+=====
+> **Filename:** deletion.png
+> **Author:** [[*user Billith]]
+> **License:** CC BY-SA 3.0
+=====
+> **Filename:** overflow.svg
+> **Author:** [[*user Billith]]
+> **License:** CC BY-SA 3.0
+=====
+> **Filename:** systemic.svg
+> **Author:** [[*user Billith]]
+> **License:** CC BY-SA 3.0
+=====
+> **Filename:** more-chains.mp3
+> **Author:** [[*user Billith]]
+> **License:** CC BY-SA 3.0
+=====
+> **Filename:** dept.png
+> **Author:** [[*user Billith]]
+> **License:** CC BY-SA 3.0
+=====
+> **Filename:** wormhole.gif
+> **Author:** [[*user Billith]]
+> **License:** CC BY-SA 3.0
+=====
+> **Filename:** recurrent_triangle.png
+> **Author:** [[*user Billith]]
+> **License:** CC BY-SA 3.0
+=====
+> **Filename:** noise1.gif
+> **Author:** [[*user Billith]]
+> **License:** CC BY-SA 3.0
+> **Derivative of:**
+> -----
+> **Name:** SVG_Human_Silhouette.svg
+> **Author:** Madhero88
+> **License:** CC BY-SA 3.0
+> **Source Link:** [[[https://commons.wikimedia.org/wiki/File:SVG_Human_Silhouette.svg|Wikimedia Commons]]]
+=====
+> **Filename:** noise2.gif
+> **Author:** [[*user Billith]]
+> **License:** CC BY-SA 3.0
+> **Derivative of:**
+> -----
+> **Name:** Woman, black hair, white turtleneck, dark lipstick.png
+> **Author:** Evening star
+> **License:** Public Domain
+> **Source Link:** [[[https://commons.wikimedia.org/wiki/File:Woman,_black_hair,_white_turtleneck,_dark_lipstick.png|Wikimedia Commons]]]
+=====
+> **Filename:** noise3.gif
+> **Author:** [[*user Billith]]
+> **License:** CC BY-SA 3.0
+> **Derivative of:**
+> -----
+> **Name:** SVG_Human_Silhouette.svg
+> **Author:** Madhero88
+> **License:** CC BY-SA 3.0
+> **Source Link:** [[[https://commons.wikimedia.org/wiki/File:SVG_Human_Silhouette.svg|Wikimedia Commons]]]
+=====
+> **Filename:** noise4.gif
+> **Author:** [[*user Billith]]
+> **License:** CC BY-SA 3.0
+=====
+> **Filename:** noise5.gif
+> **Author:** [[*user Billith]]
+> **License:** CC BY-SA 3.0
+> **Derivative of:**
+> -----
+> **Name:** FreeVector-Gangster-Silhouettes.svg
+> **Author:** Freevector
+> **License:** CC BY-SA 4.0
+> **Source Link:** [[[https://commons.wikimedia.org/wiki/File:FreeVector-Gangster-Silhouettes.svg|Wikimedia Commons]]]
+=====
+> **Filename:** noise6.gif
+> **Author:** [[*user Billith]]
+> **License:** CC BY-SA 3.0
+> **Derivative of:**
+> -----
+> **Name:** Humanism_in_photography_10.jpg
+> **Author:** Mostafameraji
+> **License:** CC0 1.0
+> **Source Link:** [[[https://commons.wikimedia.org/wiki/File:Humanism_in_photography_10.jpg|Wikimedia Commons]]]
+=====
+> **Filename:** noise7.gif
+> **Author:** [[*user Billith]]
+> **License:** CC BY-SA 3.0
+> **Derivative of:**
+> -----
+> **Name:** Cat_in_Silhouette.jpg
+> **Author:** Buls1585
+> **License:** CC BY-SA 4.0
+> **Source Link:** [[[https://commons.wikimedia.org/wiki/File:Cat_in_Silhouette.jpg|Wikimedia Commons]]]
+=====
+> **Filename:** cache.gif
+> **Author:** [[*user Billith]]
+> **License:** CC BY-SA 3.0
+> **Derivative of:**
+> -----
+> **Name:** Stacks_of_VHS_tapes_from_the_archives.jpg
+> **Author:** Texas State University Department of English
+> **License:** CC BY-SA 4.0
+> **Source Link:** [[[https://commons.wikimedia.org/wiki/File:Stacks_of_VHS_tapes_from_the_archives.jpg|Wikimedia Commons]]
+=====
+> **Filename:** Radix.svg
+> **Author:** [[*user MontagueETC]]
+> **License:** CC BY-SA 3.0
+> **Derivative of:**
+> -----
+> **Name:** Radix.svg
+> **Author:** [[*user Enderman_desu]]
+> **License:** CC BY-SA 3.0
+> **Source Link:** [[[http://scp-jp-storage.wikidot.com/file:6759963-214-lh87 | SCP JP Storage]]]
+=====
+> **Filename:** stares.png
+> **Author:** [[*user MontagueETC]]
+> **License:** CC BY-SA 3.0
+> **Derivative of:**
+> -----
+> **Name:** facilis descensus Averno
+> **Author:** [[[https://www.flickr.com/photos/wonderferret/ | wonderferret]]]
+> **License:** CC BY 2.0
+> **Source Link:** [[[https://www.flickr.com/photos/wonderferret/82444866/ | Flickr]]]
+=====
+> **Filename:** server.png
+> **Author:** [[*user Billith]] & [[*user MontagueETC]]
+> **License:** CC BY-SA 3.0
+> **Derivative of:**
+> -----
+> **Name:** Rack001.jpg
+> **Author:** Jfreyre
+> **License:** CC BY-SA 3.0
+> **Source Link:** [[[https://commons.wikimedia.org/wiki/File:Rack001.jpg | Wikimedia Commons]]]
+> -----
+> **Name:** mnes.png
+> **Author:** [[*user Billith]]
+> **License:** CC BY-SA 3.0
+=====
+> **Filename:** room.png
+> **Author:** [[*user MontagueETC]]
+> **License:** CC BY-SA 3.0
+> **Derivative of:**
+> -----
+> **Name:** Stairs in the darkness
+> **Author:** [[[https://www.flickr.com/people/underscript/ | Andrey]]]
+> **License:** CC BY 2.0
+> **Source Link:** [[[https://www.flickr.com/photos/underscript/16934987446 | Flickr]]]
+=====
+> **Filename:** blackbox.png
+> **Author:** [[*user Liryn]]
+> **License:** CC BY-SA 3.0
+> -----
+> **Name:** Descent
+> **Author:** It's No Game
+> **License:** CC-BY 2.0
+> **Source Link:** [https://www.flickr.com/photos/duncanh1/11276337644/ Flickr]
+=====
+> **Filename:** rsm.png
+> **Author:** [[*user Billith]]
+> **License:** CC BY-SA 3.0
+=====
+> **Filename:** admo-6183-tunnel.jpg
+> **Author:** [[*user Billith]]
+> **License:** CC BY-SA 3.0
+> -----
+> **Name:** Descent
+> **Author:** It's No Game
+> **License:** CC-BY 2.0
+> **Source Link:** [https://www.flickr.com/photos/duncanh1/11276337644/ Flickr]
+=====
+> **Filename:** 1e
+> **Author:** [[*user Billith]]
+> **License:** CC BY-SA 3.0
+> **Derivative of:**
+> -----
+> **Name:** Stairs
+> **Author:** Robin Fensom
+> **License:** CC-BY 2.0
+> **Source Link:** [https://www.flickr.com/photos/robinfensom/2261721990/ Flickr]
+=====
+> **Filename:** deepwell.png
+> **Author:** [[*user Billith]]
+> **License:** CC BY-SA 3.0
+> **Derivative of:**
+> -----
+> **Name:** downstairs
+> **Author:** glasseyes view
+> **License:** CC BY-SA 2.0
+> **Source Link:** [https://www.flickr.com/photos/axelhartmann/9288312316/ Flickr]
+=====
+> **Filename:** finality
+> **Author:** [[*user Billith]]
+> **License:** CC BY-SA 3.0
+> **Derivative of:**
+> -----
+> **Name:** Silence in.jpg
+> **Author:** VA Photography
+> **License:** CC BY-SA 4.0
+> **Source Link:** [https://commons.wikimedia.org/wiki/File:Slience_in.jpg Wikimedia Commons]
+=====
+> **Filename:** adarkplace.mp3
+> **Author:** [[*user Billith]]
+> **License:** CC BY-SA 3.0
+=====
+> **Filename:** hall1.png
+> **Author:** [[*user Billith]]
+> **License:** CC BY-SA 3.0
+> **Derivative of:**
+> -----
+> **Name:** T.K. Mc
+> **Author:** Down the Hall
+> **License:** Public Domain
+> **Source Link:** [https://www.flickr.com/photos/189605865@N06/51669003803/ Flickr]
+=====
+> **Filename:** display.gif
+> **Author:** [[*user Billith]]
+> **License:** CC BY-SA 3.0
+=====
+> **Filename:** farm.png
+> **Author:** [[*user Billith]]
+> **License:** CC BY-SA 3.0
+> **Derivative of:**
+> -----
+> **Name:** coastal_turbine_farm
+> **Author:** PW/CCBY Aggregate
+> **License:** Public Domain
+> **Source Link:** [[[https://www.flickr.com/photos/169899254@N07/53236247360/in/dateposted-public/ | Flickr]]]
+=====
+> **Filename:** inner.gif
+> **Author:** [[*user Billith]]
+> **License:** CC BY-SA 3.0
+> **Derivative of:**
+> -----
+> **Name:** Mount Tambora Volcano, Sumbawa Island, Indonesia.jpg
+> **Author:** NASA
+> **License:** Public Domain
+> **Source Link:** [[[https://commons.wikimedia.org/wiki/File:Mount_Tambora_Volcano,_Sumbawa_Island,_Indonesia.jpg/ | Wikimedia Commons]]]
+=====
+[[include :scp-zh-tr:component:license-box-end]]

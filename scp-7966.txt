@@ -1,0 +1,69 @@
+[[include component:scp-meta-title-hiding css-style=classic]]
+[[include info:start]]
+原文：[http://www.scpwiki.com/scp-7966 SCP-7966] 聖父、聖子、聖戴維斯
+作者：[[*user Deadly Bread]]
+譯者：[[*user Frederica Bernkastel]]
+內容摘錄：
+> SCP-7966-1從未有刻意運用異常能力的紀錄，行為也與其他復活型神靈完全不符，研究員認為該實體並未意識到其在宗教上的重要地位。據信在神學意義上，SCP-7966僅僅被動的產生聚集追隨者的能力，這在《加菲貓》專利的暢銷上也發揮了作用。尚未確認這是否為SCP-7966-1影響的直接成果。
+[[include info:end]]
+[[include :scp-wiki:theme:ad-abyssum]]
+
+[[table style="border: none; width: 100%;"]]
+[[row]]
+[[cell]]
+[[span style="font-size: 125%;"]][[span style="font-weight: 900;"]]項目編號：[[/span]] SCP-7966[[/span]]
+[[/cell]]
+[[cell style="text-align: right;"]]
+[[span style="font-weight: 900; font-size: 125%;"]]###990000|5/7966級##[[/span]]
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+[[span style="font-size: 125%;"]][[span style="font-weight: 900;"]]收容等級：[[/span]] PENDING[[/span]]
+[[/cell]]
+[[cell style="text-align: right;"]]
+[[span style="font-weight: 900; font-size: 125%;"]]###990000|最高機密##[[/span]]
+[[/cell]]
+[[/row]]
+[[/table]]
+-----
+[[include component:image-block name=http://scp-wiki.wikidot.com/local--files/the-bread-box/jimmyboy.png|caption=SCP-7966-1]]
+
+ **特殊收容措施：** 戰術神學部正在進行SCP-7966收容內部審查。所有詢問與關注皆應由收容研究主任藍道．班洛克回應，該員是該異常的意外專家。
+
+**描述：** SCP-7966是吉姆．戴維斯[[footnote]]下文歸定為SCP-7966-1。[[/footnote]]的誕生，該員是《加菲貓》系列連載漫畫的創作者。根據戰術神學部設計的所有檢測成果，該事件就本體論與神學論而言，都與耶穌基督的二次降世完全相等。
+
+該結論是在數十年的觀察後得出的。除了明顯高於水準的阿基瓦粒子外，SCP-7966神學共振特徵測量值均為3：16，這與現存的類似造物相當，都是異常高的結果。此外，已確認SCP-7966-1的EVE能量模式與已知基督前世化身EVE模式完全相當。
+
+儘管如此，SCP-7966-1從未有刻意運用異常能力的紀錄，行為也與其他復活型神靈完全不符，研究員認為該實體並未意識到其在宗教上的重要地位。據信在神學意義上，SCP-7966僅僅被動的產生聚集追隨者的能力，這在《加菲貓》專利的暢銷上也發揮了作用。尚未確認這是否為SCP-7966-1影響的直接成果。
+
+**附錄7966.1：** 在對可行收容方案進行廣泛討論與研究後，基金會承認將被提事件可能性降到最低的方法是：使SCP-7966-1不受收容直到壽終正寢。
+
+為履行部門分類與保存宗教經文的承諾，戰術神學部已開始收集出版《加菲貓》的所有媒體檔案。[[footnote]]當中有80%來自藍道．班洛克的個人收藏捐贈。[[/footnote]]收購宗教機構Paws公司的嘗試正在進行中。
+
+[[module css]]
+.footnotes-footer {
+    visibility: hidden;
+    height: 0;
+    padding: 0;
+    margin: 0;
+}
+[[/module]]
+----
+
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[SCP-7965]]] | [[[http://www.scp-wiki.net/the-bread-box|Deadly Bread]]] | [[[SCP-7967]]] >>
+[[/=]]
+[[/div]]
+
+[[include :scp-zh-tr:component:license-box
+|author=Deadly Bread]]
+=====
+> **Filename:** jimmyboy.png
+> **Name:** Jim Davis & David Choe
+> **Author:** [[[https://www.flickr.com/people/51996053@N02|Ducky]]]
+> **License:** CC BY 2.0
+> **Source Link:** [[[https://commons.wikimedia.org/wiki/File:Jim_Davis_%26_David_Choe.jpg|Wikimedia Commons]]]
+=====
+[[include :scp-zh-tr:component:license-box-end]]

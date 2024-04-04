@@ -1,0 +1,826 @@
+[[include info:start]]
+
+**其它人對我的評價：**
+
+[[div class="blockquote"]]
+你其實是[[*user fuban]]的1450分靈體吧。
+
+[[>]]
+— [[*user SamScript]]
+[[/>]]
+[[/div]]
+
+[[div class="blockquote"]]
+當看到有人在翻譯文章裡面寫「大便文」，那就一定是泡麵翻的。
+
+[[>]]
+— [[*user AbyssDream]]
+[[/>]]
+[[/div]]
+
+[[div class="blockquote"]]
+信不信我用Facebook綁架你。
+
+[[>]]
+— [[*user Viken-K]]
+[[/>]]
+[[/div]]
+
+[[div class="blockquote"]]
+我總有一天會把你沖進馬桶。
+
+[[>]]
+— [[*user k1s10r0db00ne]]
+[[/>]]
+[[/div]]
+
+[[div class="blockquote"]]
+泡麵也是很優秀的泡麵，發大便文的速度很驚人並且總是能寫出很棒的作品，也很擅長餵群組的大家吃大便，這使他的大便文升級成了尊爵不凡黃金大便文。
+
+[[>]]
+— [[*user LuLu_Lucifelle]]
+[[/>]]
+[[/div]]
+
+[[div class="blockquote"]]
+好色喔泡麵。
+
+[[>]]
+— [[*user NocturnalT]]
+[[/>]]
+[[/div]]
+
+[[div class="blockquote"]]
+泡麵在我心中的形象越來越奇妙了。
+
+[[>]]
+— [[*user Aindavis_817]]
+[[/>]]
+[[/div]]
+
+[[div class="blockquote"]]
+受死吧拉麵。
+
+[[>]]
+— [[*user Semibreve]]
+[[/>]]
+[[/div]]
+
+[[div class="blockquote"]]
+你他媽。
+
+[[>]]
+— [[*user YONGZUN]]
+[[/>]]
+[[/div]]
+
+[[div class="blockquote"]]
+你成功地殺了我個措手不及。
+
+[[>]]
+— [[*user EmptyName723]]
+[[/>]]
+[[/div]]
+
+[[div class="blockquote"]]
+//This is Ground Control to Major Pao.//
+//You’ve really made the grade.//
+
+[[>]]
+— [[*user Ting129]]
+[[/>]]
+[[/div]]
+
+[[div class="blockquote"]]
+//Holy crap its noodles, The legendary writer that has been in solitude for super long for irl stuff.//
+[[>]]
+— [[*user Jetttttt]]
+[[/>]]
+[[/div]]
+
+[[div class="blockquote"]]
+我要炸掉你。
+[[>]]
+— [[*user kikunai]]
+[[/>]]
+[[/div]]
+
+[[div class="blockquote"]]
+//東漢末年分三國//
+//烽火連天不休//
+//兒女情長被亂是左右歐歐歐//
+//誰來煮酒//
+//泡麵我炸十三鍋//
+//分不清pien錯//
+//紛紛擾擾千百年以後//
+//把你沖馬桶ㄥㄥㄥ//
+
+[[>]]
+— [[*user YONGZUN]]
+[[/>]]
+[[/div]]
+
+[[div class="blockquote"]]
+//我給你的愛寫在馬桶緣//
+
+[[>]]
+— [[*user LostWhat]]
+[[/>]]
+[[/div]]
+
+[[div class="blockquote"]]
+PaoMianさんとかPlaceholderさんとか、とにかく大好きな作風で記事を書いてくれる人が多いんだが......私はそれらの言語が上手く話せないから理解しづらい。でも、純粋に彼らの作品が大好きです　マジ最高
+@@ @@
+像PaoMian和Placeholder這樣的人很多，他們都用了自己喜歡的風格去寫文章，但是大部分的內容都很難理解。雖然我不會講那些語言，但我是真的很喜歡他們的作品。
+
+[[>]]
+— [[*user Enderman_desu]]
+[[/>]]
+[[/div]]
+
+[[div class="blockquote"]]
+Pao Mian is my idol. 🥺
+
+[[>]]
+— [[*user KirQ]]
+[[/>]]
+[[/div]]
+
+文中的對話照片屬於本人自行截圖。
+
+[[include info:end]]
+
+[[include :scp-wiki:theme:ar]]
+
+[[module css]]
+
+/* @import url("https://05command.wdfiles.com/local--code/theme%3Asite/1");
+
+ iframe.scpnet-interwiki-frame{
+     position: relative;
+     width: 17em;
+     margin-left: .313em;
+     background-color: transparent;
+}
+
+div#header h1 a span {
+    font-size: 0px;
+}
+
+div#header h2 span {
+    font-size:0px;
+    padding: 4px;
+}
+
+ #header h1 a,
+ #header h2 span{
+     color: transparent;
+     text-shadow: none;
+} 
+
+ #header h1 a::before{
+     content: "三垣指揮部";
+     color: hsl(0, 0%, 93%); 
+}
+ 
+ div#header h2:after {
+     content: "如臨深淵，如履泡麵";
+     color: hsl(353, 100%, 30%); 
+}
+ 
+ div#header h2 span {
+    font-size:0px;
+    padding: 4px;
+} */
+
+/* NEW THEME CSS */
+
+#side-bar { overscroll-behavior: none; }
+#header h1 a::before {
+  content: "THE SCP FOUNDATION";
+}
+#header h2 span::before {
+  content: "PAO-MIAN'S AUTHOR PAGE" !important;
+}
+#header {
+  background-image: url(https://scp-wiki.wdfiles.com/local--files/cone/delta.png);
+}
+#header::before {
+  display: none;
+}
+
+h1 {
+  text-align: center;
+  margin: 1em 0;
+}
+
+/* ------ */
+
+.notebook-blockquote {
+  background-color: #f5f5f5;
+  color: #333;
+  padding: 1em;
+  border-left: 0.25em solid #ccc;
+  position: relative;
+}
+
+.notebook-blockquote::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 0;
+  height: 0;
+  border-top: 0.5em solid transparent;
+  border-left: 0.5em solid #f5f5f5;
+  border-bottom: 0.5em solid #f5f5f5;
+}
+
+.notebook-blockquote::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 0;
+  height: 0;
+  border-top: 0.5em solid #f5f5f5;
+  border-left: 0.5em solid transparent;
+  border-bottom: 0.5em solid transparent;
+}
+
+.pao-cool-header {
+    position: relative;
+    height: 30vh;
+    background-image: linear-gradient(
+        to right bottom,
+        rgba(126, 13, 111, 0.8),
+        rgba(40, 180, 131, 0.8)),
+        url(http://scpdsandbox.wdfiles.com/local--files/pao-mian-s-file/Epic_pao);
+    background-size: cover; /* Fit by window size */
+    background-position: center; /* Which side will stay after resize */
+    background-blend-mode: screen;
+    /* clip-path: polygon(0 25vh, 100% 0, 100% 45vh, 0 100%); */
+}
+
+.pao-cool-text {
+  display: block;
+  width: 100%;
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 50px;
+  color: rgba(256, 256, 256, 0.85);
+  text-transform: uppercase;
+  font-family: monospace;
+  letter-spacing: 20px;
+  font-weight: 600;
+  text-shadow: 0.1em 0.1em rgba(0, 0, 0, 0.25);
+}
+
+[[/module]]
+
+----
+
+[[div class="pao-cool-header"]]
+
+[[div class="pao-cool-text"]]
+MIAN
+BAO
+[[/div]]
+
+[[/div]]
+
+----
+
+= **Modern SCP-ZH Wiki Author | Rank #17**
+
+= **2021.01.14~Present | High-Concept Articles**
+
+----
+
+[[div class="notebook-blockquote"]]
+
+麵🈹
+
+[[>]]
+— [[*user Mang Gwan]]
+[[/>]]
+[[/div]]
+
+@@ @@
+
+[[div class="notebook-blockquote"]]
+
+好笑阿莫古斯迷迷
+迷迷可能會變不好笑
+但阿莫古斯stay sus
+
+[[>]]
+— [[*user KenNG]]
+[[/>]]
+[[/div]]
+
+@@ @@
+
+[[div class="notebook-blockquote"]]
+
+一碗刀削麵，底部文字說明寫「麵🈹」
+
+[[>]]
+— [[*user NocturnalT]]
+[[/>]]
+[[/div]]
+
+@@ @@
+
+[[div class="notebook-blockquote"]]
+
+麵🈹怎麼輸......
+
+[[>]]
+— [[*user YONGZUN]]
+[[/>]]
+[[/div]]
+
+@@ @@
+
+[[div class="notebook-blockquote"]]
+
+麵🈹+1
+
+[[>]]
+— [[*user CNBlack]]
+[[/>]]
+[[/div]]
+
+@@ @@
+
+[[div class="notebook-blockquote"]]
+
+草
+
+[[>]]
+— [[*user Kikunai]]
+[[/>]]
+[[/div]]
+@@ @@
+[[div class="notebook-blockquote"]]
+
+欸 我也要
+
+[[>]]
+— [[*user Lillian1152]]
+[[/>]]
+[[/div]]
+
+@@ @@
+
+[[div class="notebook-blockquote"]]
+
+[[image http://scpdsandbox.wdfiles.com/local--files/pao-mian-s-file/say_wut style="width: 15%;"]]
+
+[[>]]
+— [[*user Nyunyunyun]]
+[[/>]]
+[[/div]]
+
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+
+[[html]]
+<style type="text/css" id="internal-style">
+  /* 非常感謝Westrin、Lt_Flops和phantomguy提供這些代碼。你們好棒。 */
+  /* THEME */
+  @import url('https://d3g0gp89917ko0.cloudfront.net/v--edac79f846ba/common--theme/base/css/style.css');
+  @import url('https://scp-wiki.wdfiles.com/component:theme/code/1');
+</style>
+
+<div id="page-content">
+  <div class="forum-thread-box ">
+
+    <div class="forum-breadcrumbs">
+      <a target="_blank" href="/forum/start">Forum</a>
+      » <a target="_blank" href="/forum/c-6236687/">網站宣告與政策提案 / 宣告區</a>
+      » 我要瘋了
+    </div>
+
+    <div class="description-block well">
+      <div class="statistics">
+        發起由: Viken-K<br>
+        日期: 9 June 2021, 09:23<br>
+        文章數: 10<br>
+        <span class="rss-icon"><img src="http://www.wikidot.com/common--theme/base/images/feed/feed-icon-14x14.png" alt="rss icon"></span>
+        RSS: <a href="javascript:;">新回覆</a>
+      </div>
+
+      咩噗
+    </div>  
+
+    <div class="options">
+      <a href="javascript:;">全部展開</a>
+      <a href="javascript:;">全部折疊</a>
+      <a href="javascript:;">更多選項</a>
+    </div>
+
+    <div id="thread-action-area" class="action-area well" style="display: none"></div>
+    <div id="thread-container" class="thread-container">
+      <div id="thread-container-posts" style="">
+
+        <div class="post-container">
+          <div class="post">
+            <div class="long">
+              <div class="head">
+                <div class="options">
+                  <a href="javascript:;">折疊</a>
+                </div>
+
+                <div class="title">
+                我要瘋了
+                </div>
+
+                <div class="info">
+                  <span class="printuser avatarhover"><a target="_blank" href="http://www.wikidot.com/user:info/viken-k"><img class="small" src="http://d2qhngyckgiutd.cloudfront.net/99dad4dd58e7841c751fee2e0dc3bbe0" alt="Viken-K" style="background-image: url('https://www.wikidot.com/userkarma.php?u=2858989&onlyKarma=true')"></a><a target="_blank" href="http://www.wikidot.com/user:info/viken-k">Viken-K</a></span> 9 June 2021, 09:23
+                </div>
+              </div>
+
+              <div class="content">
+                <p>我真的受夠了，到底是哪個小王八蛋一直私訊給我這鬼東西的？</p>
+
+                <img src="https://i.imgur.com/aEsmJ7M.jpg" width="290px" height="75px" border="0">
+
+                <p>你的言論已經違反了智商標示-相同方式分享 6.0。</p>
+              </div>
+
+              <div class="options">
+                <strong><a href="javascript:;">回覆</a></strong>
+                <a href="javascript:;">選項</a>
+              </div>
+              <div class="options" style="display: none"></div>
+            </div>
+          </div>
+        </div>
+
+        <div class="post-container">
+          <div class="post">
+            <div class="long">
+              <div class="head">
+                <div class="options">
+                  <a href="javascript:;">折疊</a>
+                </div>
+
+                <div class="title">
+                  這裡又是三小
+                </div>
+
+                <div class="info">
+                  <span class="printuser avatarhover"><a target="_blank" href="http://www.wikidot.com/user:info/samscript"><img class="small" src="http://d2qhngyckgiutd.cloudfront.net/fdc78d107a01925097c9712116bce931" alt="SamScript" style="background-image: url('http://www.wikidot.com/userkarma.php?u=5435485&onlyKarma=true')"></a><a target="_blank" href="http://www.wikidot.com/user:info/samscript">SamScript</a></span> 9 June 2021, 09:25
+                </div>
+              </div>
+
+              <div class="content">
+                <p><b>GOD FUCKING damnit PaoMian where the FUCK are we</b></p>
+              </div>
+
+              <div class="options">
+                <strong><a href="javascript:;">回覆</a></strong>
+                <a href="javascript:;">選項</a>
+              </div>
+
+              <div class="options" style="display: none"></div>
+            </div>
+          </div>
+
+          <div class="post-container">
+            <div class="post">
+              <div class="long">
+                <div class="head">
+                  <div class="options">
+                    <a href="javascript:;">折疊</a>
+                  </div>
+
+                  <div class="info">
+                    <span class="printuser avatarhover"><a target="_blank" href="http://www.wikidot.com/user:info/control-z"><img class="small" src="http://d2qhngyckgiutd.cloudfront.net/9d6da38b5d34753f4c4710a8900bca53" userid=1802367&amp;amp;size=small&amp;amp;timestamp=1493035945" alt="Control Z" style="background-image: url('http://www.wikidot.com/userkarma.php?u=5435485&onlyKarma=true')"></a><a target="_blank" href="http://www.wikidot.com/user:info/control-z">Control Z</a></span> 9 June 2021, 09:27
+                  </div>
+                </div>
+
+                <div class="content">
+                  <p>哈哈屁眼</p>
+                </div>
+
+                <div class="options">
+                  <strong><a href="javascript:;">回覆</a></strong>
+                  <a href="javascript:;">選項</a>
+                </div>
+
+                <div class="options" style="display: none;"></div>
+              </div>
+            </div>
+
+            <div class="post-container">
+              <div class="post">
+                <div class="long">
+                  <div class="head">
+                    <div class="options">
+                      <a href="javascript:;">折疊</a>
+                    </div>
+
+                    
+
+                    <div class="info">
+                      <span class="printuser avatarhover"><a target="_blank" href="http://www.wikidot.com/user:info/samscript"><img class="small" src="http://d2qhngyckgiutd.cloudfront.net/fdc78d107a01925097c9712116bce931" alt="SamScript" style="background-image: url('http://www.wikidot.com/userkarma.php?u=5435485&onlyKarma=true')"></a><a target="_blank" href="http://www.wikidot.com/user:info/samscript">SamScript</a></span> 9 June 2021, 09:28
+                    </div>
+                  </div>
+
+                  <div class="content">
+                    <p>閉嘴，你被我禁言了</p>
+                  </div>
+
+                  <div class="options">
+                    <strong><a href="javascript:;">回覆</a></strong>
+                    <a href="javascript:;">選項</a>
+                  </div>
+
+                  <div class="options" style="display: none"></div>
+                </div>
+
+            <div class="post-container">
+              <div class="post">
+                <div class="long">
+                  <div class="head">
+                    <div class="options">
+                      <a href="javascript:;">折疊</a>
+                    </div>
+
+
+
+                    <div class="info">
+                      <span class="printuser avatarhover"><a target="_blank" href="http://www.wikidot.com/user:info/viken-k"><img class="small" src="http://d2qhngyckgiutd.cloudfront.net/99dad4dd58e7841c751fee2e0dc3bbe0" alt="Viken-K" style="background-image: url('https://www.wikidot.com/userkarma.php?u=2858989&onlyKarma=true')"></a><a target="_blank" href="http://www.wikidot.com/user:info/viken-k">Viken-K</a></span> 9 June 2021, 09:30
+                    </div>
+                  </div>
+
+                  <div class="content">
+                    <p>再讓我看到與主題不相干的言論老子就在留言區吃咖哩拌飯給你們這群活人看。</p>
+                  </div>
+
+                  <div class="options">
+                    <strong><a href="javascript:;">回覆</a></strong>
+                    <a href="javascript:;">選項</a>
+                  </div>
+
+                  <div class="options" style="display: none"></div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+ <div class="post-container">
+            <div class="post">
+              <div class="long">
+                <div class="head">
+                  <div class="options">
+                    <a href="javascript:;">折疊</a>
+                  </div>
+
+                <div class="title">
+                救命
+                </div>
+
+                <div class="info">
+                  <span class="printuser avatarhover"><a target="_blank" href="http://www.wikidot.com/user:info/abyssdream"><img class="small" src="http://d2qhngyckgiutd.cloudfront.net/8834fb1305a77f5dad5249791892a7cc" userid=1802367&amp;amp;size=small&amp;amp;timestamp=1493035945" alt="AbyssDream" style="background-image: url('http://www.wikidot.com/userkarma.php?u=5325850&onlyKarma=true')"></a><a target="_blank" href="http://www.wikidot.com/user:info/abyssdream">AbyssDream</a></span> 9 June 2021, 09:36
+                </div>
+              </div>
+
+              <div class="content">
+                <p>救命為什麼我當初要接受你友邀我現在徹底後悔了皮套屁屁到底是什麼鬼稱呼你的品味是被車子碾過嗎不要再艾特我一堆大便圖了別逼我直接拿榔頭敲碎你的麵條來人把我給電死算了好不好我不想再看到一個大便轉世迭代</p>
+              </div>
+
+              <div class="options">
+                <strong><a href="javascript:;">回覆</a></strong>
+                <a href="javascript:;">選項</a>
+              </div>
+              <div class="options" style="display: none"></div>
+            </div>
+          </div>
+        </div>
+
+<div class="post-container">
+            <div class="post">
+              <div class="long">
+                <div class="head">
+                  <div class="options">
+                    <a href="javascript:;">折疊</a>
+                  </div>
+
+             
+
+                <div class="info">
+                  <span class="printuser avatarhover"><a target="_blank" href="http://www.wikidot.com/user:info/k1s10r0db00ne"><img class="small" src="http://d2qhngyckgiutd.cloudfront.net/623ac244562fd6c8121368ee417125b3" userid=1802367&amp;amp;size=small&amp;amp;timestamp=1493035945" alt="k1s10r0db00ne" style="background-image: url('http://www.wikidot.com/userkarma.php?u=6952002&onlyKarma=true')"></a><a target="_blank" href="http://www.wikidot.com/user:info/k1s10r0db00ne">k1s10r0db00ne</a></span> 9 June 2021, 09:38
+                </div>
+              </div>
+
+              <div class="content">
+                <p><b>幹你娘泡麫</b></p>
+              </div>
+
+              <div class="options">
+                <strong><a href="javascript:;">回覆</a></strong>
+                <a href="javascript:;">選項</a>
+              </div>
+              <div class="options" style="display: none"></div>
+            </div>
+          </div>
+        </div>
+
+<div class="post-container">
+            <div class="post">
+              <div class="long">
+                <div class="head">
+                  <div class="options">
+                    <a href="javascript:;">折疊</a>
+                  </div>
+
+             
+
+                <div class="info">
+                  <span class="printuser avatarhover"><a target="_blank" href="http://www.wikidot.com/user:info/moto42"><img class="small" src="https://scontent.ftpe11-1.fna.fbcdn.net/v/t1.30497-1/cp0/c15.0.50.50a/p50x50/84628273_176159830277856_972693363922829312_n.jpg?_nc_cat=1&ccb=1-5&_nc_sid=12b3be&_nc_ohc=5Fyjz093cD0AX-N3_ei&_nc_ht=scontent.ftpe11-1.fna&edm=AHgPADgEAAAA&oh=366b1c56ffdfb43d7aec0a46e450c331&oe=617F6CB8" userid=1802367&amp;amp;size=small&amp;amp;timestamp=1493035945" alt="Moto42" style="background-image: url('http://www.wikidot.com/userkarma.php?u=175861&onlyKarma=true')"></a><a target="_blank" href="http://www.wikidot.com/user:info/moto42">Moto42</a></span> 9 June 2021, 09:41
+                </div>
+              </div>
+
+              <div class="content">
+                <p>為什麼我當年要去創作這鬼東西？</p>
+              </div>
+
+              <div class="options">
+                <strong><a href="javascript:;">回覆</a></strong>
+                <a href="javascript:;">選項</a>
+              </div>
+              <div class="options" style="display: none"></div>
+            </div>
+          </div>
+        </div>
+
+        <div class="post-container">
+          <div class="post">
+            <div class="long">
+              <div class="head">
+                <div class="options">
+                  <a href="javascript:;">折疊</a>
+                </div>
+
+                <div class="title">
+                  介紹
+                </div>
+
+                <div class="info">
+                   <span class="printuser avatarhover"><a target="_blank" href="http://www.wikidot.com/user:info/pao-mian"><img class="small" src="http://d2qhngyckgiutd.cloudfront.net/b478571d5996fd729e1b22e72f7954f3" alt="Pao Mian" style="background-image: url('http://www.wikidot.com/userkarma.php?u=7073060&onlyKarma=true')"></a><a target="_blank" href="http://www.wikidot.com/user:info/pao-mian">Pao Mian</a></span> 9 June 2021, 09:45
+                </div>
+              </div>
+
+              <div class="content">
+                <p>這裡是我的人事頁面，表面看起來很酷但是代碼量真的是多到不行，雖然我也是從EN站那邊複製過來的哈哈屁眼。如果你是因為留言區的內容被吸引過來，又或者只是想在人事檔案列表裡面亂翻來看看有什麼東西。這個大便文目前已經得到了莫名奇妙的高分，接下來就讓我們切入正題。</p>
+
+                <p><b>以下是我目前為止所發佈過的SCP原創作品，不論題材如何，希望你會喜歡：</b></p>
+
+                <p><a target="_blank" href="/scp-zh-140"> SCP-ZH-140</a> 「字義相悖」 </p>
+
+                <p><a target="_blank" href="/scp-zh-224"> SCP-ZH-224</a> 「一盒雞蛋」 </p>
+
+                <p><a target="_blank" href="/scp-zh-440"> SCP-ZH-440</a> 「Site-ZH-04」 </p>
+
+                <p><a target="_blank" href="/scp-zh-390"> SCP-ZH-390</a> 「臺灣寫作測驗」 </p>
+
+                <p><a target="_blank" href="/scp-zh-402"> SCP-ZH-402</a> 「成長」 </p>
+
+                <p><a target="_blank" href="/scp-zh-049"> SCP-ZH-049</a> 「超收容」 </p>
+
+                <p><a target="_blank" href="/scp-zh-280"> SCP-ZH-280</a> 「欸不是我的東西呢」 </p>
+
+                <p><a target="_blank" href="/scp-zh-160"> SCP-ZH-160</a> 「噤聲」 </p>
+
+                <p><a target="_blank" href="/scp-zh-832"> SCP-ZH-832</a> 「回溫」 </p>
+
+                <p><a target="_blank" href="/scp-zh-999-j"> SCP-ZH-999-J</a> 「幹」 </p>
+
+                <p><a target="_blank" href="/scp-zh-799"> Unsigned Draft #799</a> 「N/A」 </p>
+
+                <p><a target="_blank" href="/scp-zh-340"> SCP-ZH-340</a> 「生命之沙，繁星之盒」 </p>
+
+                <p><a target="_blank" href="/scp-zh-063"> SCP-ZH-063</a> 「歡 笑 不 再」 </p>
+
+                <p><a target="_blank" href="/scp-zh-599"> SCP-ZH-599</a> 「Xyan2K Problem」 </p>
+
+                <p><a target="_blank" href="/scp-zh-540"> SCP-ZH-540</a> 「Alone In The Dark」 </p>
+
+                <p><a target="_blank" href="/scp-zh-985"> SCP-ZH-985</a> 「被抹消的酒吧歷史」 </p>
+
+                <p><a target="_blank" href="/scp-zh-995"> URA-995</a> 「消失的五分鐘」</p>
+
+                <p><a target="_blank" href="/scp-zh-132"> SCP-ZH-132</a> 「要你命的007遊戲」</p>
+
+                <p><a target="_blank" href="/scp-zh-002-j"> SCP-ZH-002-J</a> 「水推車」</p>
+
+                <p><a target="_blank" href="/scp-zh-138"> SCP-ZH-138</a> 「[本文件的存儲位址有誤，已由非現實部門編輯]」 </p>
+
+                <p><a target="_blank" href="/scp-zh-173"> SCP-ZH-173</a> 「BLACK-GROUND: The Prologue」 </p>
+
+                <p><a target="_blank" href="/scp-zh-180"> SCP-ZH-180</a> 「安 妮 :-)」 </p>
+
+                <p><a target="_blank" href="/scp-zh-583-j"> SCP-ZH-583-J</a> 「哪來的猴子.SCiP」 </p>
+
+                <p><a target="_blank" href="/scp-zh-211"> SCP-ZH-211</a> 「祝大家早安」 </p>
+
+                <p><b>如果你想要更加瞭解我的話：</b>我其實是個喜歡走創新派（我知道沒有這種流派）的創作者，但通常會寫不出東西然後擱置幾個月時間才產出一篇，儘管很有可能是Coldpost但是它們各自都有著非凡的價值。現今仍在這裡試圖開創出屬於自己的創作風格。我希望你們也能在這裡找出屬於自己的創造方向並能夠在每一次的成功與失敗之間得到成長，讓你的草稿能夠展現出不一樣的高光。</p>
+
+               <p>如果你想看我的下維敘事角色設定的話，你可以找找看歷史記錄第20版的內容。</p>
+
+               <p><b>死亡聲明：</b> 如果我在這個帳號上停止活動超過一年，則可視同我暫時退坑或是因為私人原因而離開。到時候我在社群上已經發佈過的作品以及沙盒頁的未完成草稿的使用權利將會優先留給我的朋友—山姆（SamScript）。同時他也會有我的現實聯絡方式，如果我不幸死亡或是因為意外事故而無法繼續寫作，則可以找他進行聯繫。</p>
+
+       </div>
+
+<div class="options">
+                <strong><a href="javascript:;">回覆</a></strong>
+                <a href="javascript:;">選項</a>
+              </div>
+              <div class="options" style="display: none"></div>
+            </div>
+          </div>
+
+          <div class="post-container">
+            <div class="post">
+              <div class="long">
+                <div class="head">
+                  <div class="options">
+                    <a href="javascript:;">折疊</a>
+                  </div>
+
+                  <div class="info">
+                    <span class="printuser avatarhover"><a target="_blank" href="http://www.wikidot.com/user:info/pao-mian"><img class="small" src="http://d2qhngyckgiutd.cloudfront.net/b478571d5996fd729e1b22e72f7954f3" userid=1802367&amp;amp;size=small&amp;amp;timestamp=1493035945" alt="Pao Mian" style="background-image: url('http://www.wikidot.com/userkarma.php?u=7073060&onlyKarma=true')"></a><a target="_blank" href="http://www.wikidot.com/user:info/pao-mian">Pao Mian</a></span> 9 June 2021, 09:51
+                  </div>
+                </div>
+
+                <div class="content">
+                  <p>感謝山姆腳本在我最初發佈作品時所給予的支持，如果沒有你的話我真的堅持不到今天。你真的幫到了我很多，雖然我現在幾乎都在調侃你不過真的覺得你很棒。</p>
+                </div>
+
+                <div class="options">
+                  <strong><a href="javascript:;">回覆</a></strong>
+                  <a href="javascript:;">選項</a>
+                </div>
+
+                <div class="options" style="display: none;"></div>
+              </div>
+            </div>
+
+</div>
+</div>
+</div>
+
+[[/html]]
+
+----
+
+= [[size 90%]] New Author Page will be released in May 2023. [[/size]]
+
+[!--
+
+-----
+
+@@ @@
+
+[[=]]
+[[collapsible show="【關於我的一些私人說明】" hide=" "]]
+
+[[<]]
+我希望你能享受上面的假討論串帶來的歡樂，最近因為課業跟未來志向可能會減少在站內的活動，等我有一些空閒時間會再回來創作。另外如果你喜歡我的作品，或是想要進一步支持我的話，現在你可以透過加入Ko-Fi並捐贈3美元到我的帳號；當然，你也可以等到有充足的金錢後再來思考這個問題，不管怎麼樣你們的言語/行動支持對我來說都是一件意義非凡的事情。
+@@ @@
+愛你們。
+@@ @@
+
+[[/<]]
+
+[[html]]
+
+<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('進入Ko-Fi並支持泡麵', '#2baaff', 'Z8Z5CFJSN');kofiwidget2.draw();</script> 
+
+[[/html]]
+[[/collapsible]]
+
+[[/=]]
+
+@@ @@
+
+-----
+
+--]

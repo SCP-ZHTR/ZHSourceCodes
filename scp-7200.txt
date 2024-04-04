@@ -1,0 +1,264 @@
+[[include :scp-zh-tr:theme:black-highlighter-theme]]
+[[include :scp-zh-tr:component:scp-meta-title-hiding css-style=bhl]]
+
+[[module CSS]]
+.comparison-images {
+  margin: 30px 0;
+}
+
+.comparison-images .yui-content {
+    padding: 0;
+}
+
+.comparison-images .scp-image-block {
+    border: none;
+    box-shadow: none;
+}
+
+.attempt-box__header {
+  margin-top: -1px;
+  display: flex;
+  flex-direction: row;
+  padding: 5px 10px;
+  color: white;
+  font-family: var(--mono-font);
+  justify-content: space-between;
+}
+
+.attempt-box__header--failure {
+  background-color: #850005;
+}
+
+.attempt-box__header--restricted {
+  background-color: #000;
+}
+.attempt-box__header--ongoing {
+  background-color: #008080;
+}
+
+.attempt-box__content {
+  padding: 10px 10px;
+}
+
+.attempt-box__content > p {
+  margin-top: 0;
+  margin-bottom: 0.6em;
+}
+
+.attempt-box__content > *:last-child {
+  margin-bottom: 0;
+}
+
+.attempt-box__content--failure {
+  border: 1px solid #850005;
+}
+
+.attempt-box__content--restricted {
+  border: 1px solid #000;
+  font-family: var(--mono-font);
+}
+
+.attempt-box__content--ongoing {
+  border: 1px solid #008080;
+}
+
+.comparison-images .yui-content {
+    position: relative;
+}
+
+.comparison-images .yui-content > div {
+    display: block !important;
+    position: absolute;
+    top: 0;
+    animation: 0.5s fadeout cubic-bezier(1,.05,1,-0.2) both;
+}
+
+.comparison-images .yui-content > div:first-child {
+    position: sticky;
+}
+
+.comparison-images .yui-content > div[style*="display: block"] {
+    z-index: 1;
+    animation: 0.5s fadein ease-out both;
+}
+
+@keyframes fadein {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+@keyframes fadeout {
+  from { opacity: 1; }
+  to { opacity: 0; }
+}
+[[/module]]
+
+[[div style="display: none"]]
+[[include component:image-block
+    name=https://scp-wiki.wdfiles.com/local--files/scp-7200/thumbnail.jpg
+]]
+[[/div]]
+
+[[include info:start]]
+**SCP-7200：**船。
+**作者：**[[*user aismallard]]、[[*user smlt]]
+**原文：**[https://scp-wiki.wikidot.com/scp-7200 SCP-7200 - boats.]
+**譯者：**[[*user ting129]]
+[[include info:end]]
+
+**項目編號：**SCP-7200
+
+**項目等級：**Keter
+
+**特殊收容措施：**派遣機動特遣隊Theta-5（「更大的船」）調查任何已註冊商船的失蹤事件，並視情況為其提供掩蓋故事。任何發出的無線電訊號皆應透過標準程序抑制。
+
+__2022/07/04更新：__已實施權宜旗幟計畫，且顯示出可觀的結果。將項目重新分級為Euclid，以及對收容措施的更新皆正在等候收容委員會的最終審查。（見附錄7200-3）
+
+**描述：**SCP-7200是一個導致非軍用船隻在公海失蹤的異常現象。
+
+當船隻受到SCP-7200影響，船隻將會無法預期地改變航向以及速度，有時會透過傾倒貨物以達到上述效果。所有呼喚或遠端操控該船隻的嘗試都以失敗告終。
+
+在大多數情況下，會發現源自於該船隻的短波無線電訊號，其中包含一種被聽者描述為不舒服的尖嘯聲的聲音。模因分析並未在該音頻中發現異常，但需注意其可能存在未被無線電保留的認知危害性質。
+
+船隻會在事件發生數小時後關閉詢答器。在這個時間點過後，沒有船隻能以任何已知手段偵測，且無法自該狀態復原。
+
+從2016年4月異常開始出現後的第一年，SCP-7200影響船隻的可能性為每年0.006%。此後，事件的發生機率便不斷增加，最近一次於2021年12月的測量結果為每年0.072%。
+
+[[div class="comparison-images"]]
+[[tabview]]
+[[tab 發現]]
+[[include component:image-block
+    name=https://scp-wiki.wdfiles.com/local--files/scp-7200/boats_a.svg |
+    caption=於2016年所發生的SCP-7200。 |
+    align=center |
+    width=100%
+]]
+[[/tab]]
+[[tab 當前]]
+[[include component:image-block
+    name=https://scp-wiki.wdfiles.com/local--files/scp-7200/boats_b.svg |
+    caption=於2021年所發生的SCP-7200。 |
+    align=center |
+    width=100%
+]]
+[[/tab]]
+[[tab 預估]]
+[[include component:image-block
+    name=https://scp-wiki.wdfiles.com/local--files/scp-7200/boats_c.svg |
+    caption=預估於2026年所發生的SCP-7200。 |
+    align=center |
+    width=100%
+]]
+[[/tab]]
+[[/tabview]]
+[[/div]]
+
+**附錄7200-1：**收容嘗試
+
+[[div_ class="attempt-box__header attempt-box__header--failure"]]
+[[span]]代號：側目[[/span]]
+[[span]]**失敗**[[/span]]
+[[/div]]
+[[div class="attempt-box__content attempt-box__content--failure"]]
+**摘要：**在20000艘船隻上放置感測器以持續回報異常活動，嘗試確認SCP-7200的發生原因。
+
+**結果**：失蹤船隻上的感測器數據沒有結果。感測器在船隻失蹤後便停止回報更多資訊。
+[[/div]]
+
+[[div_ class="attempt-box__header attempt-box__header--failure"]]
+[[span]]代號：事件視界[[/span]]
+[[span]]**失敗**[[/span]]
+[[/div]]
+[[div class="attempt-box__content attempt-box__content--failure"]]
+**摘要：**在100艘商船上招聘並訓練E級人員，使其配備用於導航數種不同異常環境的裝置。
+
+**結果**：18艘載有人員的船隻在SCP-7200事件中失蹤，並未提供任何新資訊。行動終止。
+[[/div]]
+
+[[div_ class="attempt-box__header attempt-box__header--failure"]]
+[[span]]代號：護送任務[[/span]]
+[[span]]**失敗**[[/span]]
+[[/div]]
+[[div class="attempt-box__content attempt-box__content--failure"]]
+**摘要：**由基金會海軍的艦艇（偽裝成各國軍隊）護送載有高價貨物的船隻，奉命在SCP-7200事件發生時進行干預。
+
+**結果**：在基金會海軍在場時，發生了兩起貨櫃船受到SCP-7200影響的事件：
+
+# 受危害的船隻在海軍艦艇前突然急彎。船隻設法避免了碰撞，但數個貨櫃掉落到了海軍艦艇上造成傷害。艦艇無法持續追擊，使貨櫃船逃脫。
+# 兩艘海軍艦艇平行航行在貨櫃船的兩側，該船隻隨後發生了SCP-7200事件。基金會艦艇持續跟隨了兩個小時。艦艇接著採取策略，試圖破壞受危害船隻的航行與推進能力，但成果有限。在十一個小時的持續追擊後，該船隻仍然在船體嚴重受損下逃脫。
+[[/div]]
+
+[[div_ class="attempt-box__header attempt-box__header--failure"]]
+[[span]]代號：特洛伊海馬[[/span]]
+[[span]]**失敗**[[/span]]
+[[/div]]
+[[div class="attempt-box__content attempt-box__content--failure"]]
+**摘要：**購買50艘無人商船，並在其上裝載常規炸藥和有限度的超常武器，接著部署在海洋各處。船隻上的電腦程序被編碼為偵測到SCP-7200事件時，會開始嘗試定位並摧毀出現的任何異常事物。
+
+**結果**：1艘上述的船隻經歷了一起SCP-7200事件。該船隻在當下立刻發射了所有的武器，造成嚴重損害並導致船體傾覆。救援團隊無法阻止船隻沈沒。剩餘的船隻被迅速召回。
+[[/div]]
+
+[[div_ class="attempt-box__header attempt-box__header--restricted"]]
+[[span]]代號：海核武[[/span]]
+[[span]]**否決**[[/span]]
+[[/div]]
+[[div class="attempt-box__content attempt-box__content--restricted"]]
+= [由監督者表決。]
+[[/div]]
+
+[[div_ class="attempt-box__header attempt-box__header--ongoing"]]
+[[span]]代號：權宜旗幟[[/span]]
+[[span]]**進行中**[[/span]]
+[[/div]]
+[[div class="attempt-box__content attempt-box__content--ongoing"]]
+**摘要：**//見下文。//
+
+**結果**：商業船隻的失蹤隨著計劃實施穩定下降中。
+[[/div]]
+
+**附錄7200-2：**權宜旗幟計畫
+
+基金會外部事務及情報處在與巴拿馬海事局協商後，為在巴拿馬註冊的商船頒布了特殊的「SCPF」船級。該船級僅用於收容，並且在船體大小、形狀，以及製造品質上的要求較為寬鬆。
+
+作為SCP-7200收容行動的一部分，基金會在巴拿馬建立了四個設施（一個登記處、一座孵化場、兩座養殖場），總面積為150000平方公尺。魚類生產設施每年共可養殖數千萬隻海洋魚類。
+
+在登記處中，基金會海事檢查員會負責監督SCPF船級的商船登記。由於該分類的特殊性，許多[wikipedia:Ship_registration 常規性的商船限制]並不適用。例如，船隻因其體積小而不需要安全性或建造證明。由於SCPF船級的船隻缺少無線電傳遞裝置，在SCP-7200事件發生時不需要抑制訊號。
+
+魚在成熟後會從養殖設施被送往登記處。根據國際海洋法，每隻魚身上都貼有巴拿馬國旗以及相對應的船隻登記編號。在確認船隻的適航性後，海事檢查員將會放行魚隻進入公海中。
+
+**附錄7200-3：**當前情勢
+
+SCP-7200事件的發生頻率仍然在增加。然而由於權宜旗幟計畫的實施，公海中超過99.98%的商船皆為SCPF船級，使民用船隻的消失率降低為少於每年0.3艘。
+
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[SCP-7199]]] | SCP-7200 | [[[SCP-7201]]] >>
+[[/=]]
+[[/div]]
+
+[[include :scp-zh-tr:component:license-box
+|author=aismallard與smlt
+|translator=ting129
+|lang=en]]
+=====
+> **檔案名稱：** thumbnail.jpg
+> **作者：** Морской атлас. Том I.
+> **授權協議：** Public Domain
+> **來源連結：** [https://commons.wikimedia.org/wiki/File:1950_Map_3_(Physical_map_of_the_Atlantic_Ocean_06.jpg 1950 Map 3 (Physical map of the Atlantic Ocean 06.jpg]
+
+> **檔案名稱：** boats_a.svg
+> **作者：** [[*user smlt]]
+> **授權協議：** CC-BY-SA 3.0
+> **衍生自：** [https://commons.wikimedia.org/wiki/File:World_map_without_Antarctica.svg World map without Antarctica.svg]
+
+> **檔案名稱：** boats_b.svg
+> **作者：** [[*user smlt]]
+> **授權協議：** CC-BY-SA 3.0
+> **衍生自：** [https://commons.wikimedia.org/wiki/File:World_map_without_Antarctica.svg World map without Antarctica.svg]
+
+> **檔案名稱：** boats_c.svg
+> **作者：** [[*user smlt]]
+> **授權協議：** CC-BY-SA 3.0
+> **衍生自：** [https://commons.wikimedia.org/wiki/File:World_map_without_Antarctica.svg World map without Antarctica.svg]
+=====
+[[include :scp-zh-tr:component:license-box-end]]

@@ -1,0 +1,41 @@
+[[>]]
+[[module rate]]
+[[/>]]
+[[include :scp-zh-tr:component:author-label-source start=--
+|name= kingdom war
+|no-right-margin=*]]
+**篇名：**信件啊信件
+作者：[[*user kingdom war]]
+[[include :scp-zh-tr:component:author-label-source end=--]]
+
+
+
+
+[[div_ class="fancyborder"]]
+//信件啊，信件，美麗的信件。//
+//請把我的消息傳給鄉親。//
+//我要去那遙遠的南洋。//
+//打一場無關的戰爭。//
+//信件啊，信件，純樸的信件。//
+//請把我的思念傳給愛人。//
+//我要去那彼岸的大陸。//
+//打一場無關的戰爭。//
+//戰爭，戰爭，殘忍的戰爭。//
+//死亡讓我恐懼。//
+//家鄉讓我心碎。//
+//信件啊，信件，偉大的信件。//
+//請把我的故事傳給故鄉。//
+//我已無法再和她見面。//
+//回去吧，回去吧。//
+//穿過叢林，山岳，平原和海洋。//
+//穿過遺憾，悲傷，死神和墓地。//
+//回到家園。//
+//回到台灣。//
+//請把我的屍體葬在相愛的女孩身旁。//
+//請讓我與夢中的親人睡在同塊土地 。//
+//同在台灣。//
+[[div style="text-align:right;"]]
+－獻給所有為他國而戰，魂斷異鄉的台灣人[[>image https://i.imgur.com/lP5jrCw.png width="60px"]]
+[[/div]]
+
+[[/div]]

@@ -1,0 +1,208 @@
+[[iftags +組件]]
+[[>]]
+[[module Rate]]
+[[/>]]
+
+[[module CSS]]
+/* ---- PRESENTATION ---- */
+ .unmargined > div:first-of-type{ display: none; }
+ .templateInfo{ margin: 0 0 1em; padding: 0 1em; border: 1px solid hsl(0, 0%, 87%); }
+ .templateInfo hr{ margin: 1em 0; }
+ h1, h3{ text-align: center; }
+
+/* ---- CODE BY WOEDENAZ ---- */
+ .help{
+     display: flex;
+     align-content: stretch;
+     padding-top: 1em;
+}
+ .help blockquote{
+     margin: 0;
+     font-size: 85%;
+}
+ .help blockquote > p{
+     display: flex;
+     flex-wrap: wrap;
+     align-items: center;
+     align-content: center;
+     min-height: 2rem;
+     margin: 0;
+     margin-right: 0;
+}
+ .help blockquote > p *{
+     height: 100%;
+     margin: 0 .1rem;
+}
+ .help blockquote:nth-of-type(1){
+     margin-right: 0;
+     padding: 0;
+     background: transparent;
+     border: unset;
+     box-shadow: unset;
+     text-align: right;
+}
+ .help blockquote:nth-of-type(1) > p{
+     justify-content: flex-end;
+}
+ .help blockquote:nth-of-type(2){
+     width: 60%;
+     margin-left: 1em;
+}
+[[/module]]
+
+[[note]]
+**原作者：**
+[[*user Lt Flops]]
+----
+**基於以下這位的成果而成的：**
+[[*user Woedenaz]] ([[[*https://scp-wiki.wikidot.com/anomaly-classification-system-guide|Source]]])
+----
+**如何使用：**
+http://scp-zh-tr.wikidot.com/component:flops-header#toc2
+[[/note]]
+
+[[div class="templateInfo"]]
++ 範例
+[[/div]]
+
+[[include :scp-zh-tr:component:flops-header-source
+|item=0001
+|containment=neutralized
+|level=1
+|security=unrestricted
+|disruption=dark
+|disruption-bg-color=hsl(197, 100%, 27%)
+]]
+
+[[include :scp-zh-tr:component:flops-header-source
+|item=0002
+|containment=safe
+|level=2
+|security=restricted
+|disruption=vlam
+|disruption-bg-color=hsl(160, 100%, 27%)
+]]
+
+[[include :scp-zh-tr:component:flops-header-source
+|item=0003
+|containment=euclid
+|level=3
+|security=confidential
+|disruption=keneq
+|disruption-bg-color=hsl(50, 100%, 37%)
+]]
+
+[[include :scp-zh-tr:component:flops-header-source
+|item=0004
+|containment=keter
+|level=4
+|security=secret
+|disruption=ekhi
+|disruption-bg-color=hsl(26, 100%, 37%)
+]]
+
+[[include :scp-zh-tr:component:flops-header-source
+|item=0005
+|containment=[*https://scp-wiki.wikidot.com/esoteric-classes-complete-list apollyon]
+|level=5
+|security=top-secret
+|disruption=amida
+|disruption-bg-color=hsla(345, 100%, 27%)
+]]
+
+[[div class="templateInfo"]]
++ 這是啥？
+----
+一個基於SCP格式的簡單標頭樣式，有著以安保機密權限等級調整和簡單明瞭的瓦解等級條
+
+**[[[*http://scp-zh-tr.wikidot.com/anomaly-classification-system-guide#secondary-class|看這個頁面以獲得更多資訊]]]**
+[[/div]]
+
+[[div class="templateInfo"]]
++ 如何使用
+----
++++ 第一步，把這段貼到你的頁面上！
+----
+[[div class="code"]]
+@@[[include :scp-zh-tr:component:flops-header@@
+@@|item=@@
+@@|containment=@@
+@@|level=@@
+@@|security=@@
+@@|disruption=@@
+@@|disruption-bg-color=@@
+@@]]@@
+[[/div]]
+----
++++ 第二步，讀這個簡短的說明
+----
+[[div_ class="help"]]
+> Include語法區塊的起點 ▷
+> 
+> 項目編號 ▷
+> 
+> 項目/收容 等級 ▷ **(會以英文大寫顯示)**
+> 
+> 機密等級 – 等級數字(1-6) ▷
+> 
+> 機密等級 – 安全類別名稱 ▷ **(會以英文大寫顯示)**
+> 
+> 瓦解等級名稱 ▷ **(會以英文大寫顯示)**
+> 
+> 指定資訊條的顏色 ▷ **(16進位, RGB, & HSL 色碼都能用)**
+> 
+> Include語法區塊的終點 ▷
+> 
+
+> [[include :scp-zh-tr:component:flops-header
+> 
+> |item={{0001–9999}}
+> 
+> |containment={{safe}}/{{euclid}}/{{keter}}/{{thaumiel}}/{{other}}
+> 
+> |level={{1–6}}
+> 
+> |security={{unrestricted}}/{{restricted}}/{{confidential}}/{{secret}}/{{top-secret}}/{{other}}
+> 
+> |disruption={{dark}}/{{vlam}}/{{keneq}}/{{ekhi}}/{{amida}}/{{other}}
+> 
+> |disruption-bg-color={{#00638a}}/{{#008a5c}}/{{#bd9d00}}/{{#bd5200}}/{{#8a0022}}/{{your choice}}
+> 
+> ]]
+> 
+[[/div]]
+----
++++ 第三步，在每個=後面填入資訊
+----
+[[/div]]
+
+[[div class="templateInfo"]]
++ 結果
+[[/div]]
+
+[[include :scp-zh-tr:component:flops-header-source
+|item=0000
+|containment=thaumiel
+|level=6
+|security=the council
+|disruption=undetermined
+|disruption-bg-color=hsl(240, 15%, 37%)
+]]
+
+@@ @@
+----
++++ > [[[https://scp-zh-tr.wikidot.com/component:flops-header-source|點我看原始碼！]]] <
+----
+@@ @@
+[[/iftags]]
+
+[[iftags -組件]]
+[[include :scp-zh-tr:component:flops-header-source
+|item={$item}
+|containment={$containment}
+|level={$level}
+|security={$security}
+|disruption={$disruption}
+|disruption-bg-color={$disruption-bg-color}
+]]
+[[/iftags]]

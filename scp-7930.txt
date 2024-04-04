@@ -1,0 +1,150 @@
+[[include :scp-zh-tr:component:adult-content-warning
+|gore=
+|sexual-references=1
+|sexually-explicit=
+|sexual-assault=
+|child-abuse=
+|self-harm=
+|suicide=
+|torture=
+|custom= |custom-content=Bespoke Content warning
+
+|prev=SCP-7929
+|current=SCP-7930
+|next=SCP-7931
+]]
+
+[[include :scp-zh-tr:info:start]]
+⚠️ **內容預警:** 此文章包含**極度地厭跨女症騷擾**, **跟蹤尾隨**, **捏造的色情作品**, 以及**噁心跨粉[[footnote]]**譯註：** 原文chaser，意指為滿足性慾與跨性別者發生關係的順性別男性，也能指單純能對跨性別者產生性慾的族群。 [[/footnote]]行為**。
+**作者：**[[*user UraniumEmpire]]
+**譯者：**[[*user Lillian1152]]
+[[include :scp-zh-tr:info:end]]
+[[include :scp-zh-tr:component:info-cw]]
+[[include :scp-wiki:theme:last-frontier]]
+[[module CSS]]
+
+#header h1 a::before {
+    content: "SCP Foundation";
+}
+ 
+#header h2::before {
+    content: "Media Communications Division";
+}
+
+.body-text {
+    margin: 2% 13% 2% 9%;
+    padding: 5px 20px 5px 20px;
+    background-color: rgba(135, 0, 9, 0.11);
+}
+
+.text4desk {
+    width: 70%;
+    margin: auto;
+}
+
+@media only screen and (max-width: 600px) {
+
+    .body-text {
+        margin: 0% 4% 0% 4%;
+    }
+
+    .text4desk {
+        width:100%;
+    }
+
+}
+
+[[/module]]
+
+[[table style="border: none; width: 100%;"]]
+[[row]]
+[[cell]]
+[[size 125%]]**項目編號 #:** SCP-7930[[/size]]
+[[/cell]]
+[[cell style="text-align: right;"]]
+[[size 125%]]###990000|**等級2/7930**##[[/size]]
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+[[size 125%]]**項目分級:** Keter[[/size]]
+[[/cell]]
+[[cell style="text-align: right;"]]
+[[size 125%]]###990000|**分級**##[[/size]]
+[[/cell]]
+[[/row]]
+[[/table]]
+[[a href="*http://scp-int.wikidot.com/niveaux-de-menace-des-objets-scp" style="font-size: 18px; color: black; text-shadow: 1px 3px 1px rgba(0,0,0,0.3); text-decoration: none;"]]
+[[span_ style="display: inline-block; width: 100%; background-color: #EED202; text-align: center; border: 1px none #000; margin: 1px; padding-top: 8px; padding-bottom: 8px;"]]
+**威脅等級:** 黃
+[[/span]]
+[[/a]]
+------
+[[div class="scp-image-block block-center" style="width:100%;"]]
+[[image https://scp-wiki.wdfiles.com/local--files/scp-7930/watchingyou.PNG style="width:100%;" link=#]]
+[[div class="scp-image-caption" style="width:100%;"]]
+過去的一個SCP-7930實例，位於智利，聖地亞哥。
+[[/div]]
+[[/div]]
+----
+**特殊收容措施:** 出於經費考量, SCP-7930將由SCP基金會強制收購經營。營運人員應建立所有已知成人電影的資料庫，並逐日更新；如果影院中播放不在此資料庫中的電影，營運人員應該將電影的票券悉數買下。倫理委員會禁止觀看來路不明的電影。
+
+SCP-7930-1的潛在實例會被記錄在一個安全資料庫中。 若當前實體死亡或以其他方式使自己失去資格，機動特遣隊Theta-36"瑞典狂想曲"應調查潛在實例主要住宅附近的成人影院。 為確保效率，符合SCP-7930-1資格的基金會人員禁止參與收容。
+
+SCP-7930的收容團隊要盡力避免SCP-7930和SCP-7930-1實例接觸；根據倫理委員會裁決，就算實例已知曉異常存在也是如此。為此，從SCP-7930中寄出的包裹皆會被銷毀。
+
+**描述:** SCP-7930是一個遷徙性的成人電影院，現名為「洞電影院」，位於紐約布魯克林布萊頓海灘附近。
+
+SCP-7930的環境狀態普遍較差。外面的指示牌經常歪斜或破損，且經常歪曲誤示其當前正在播放的電影。廁所馬桶和水龍頭據悉會無預警開啟。在戲院地板上積有糖果和人類體液的混合物，即便未開放公眾進入也是如此。儘管如此，SCP-7930普遍遵守當地法規，並且似乎能獨立締結勞動與放映權契約。
+
+除了非異常的成人電影外，SCP-7930會為SCP-7930-A保留至少一間放映室。SCP-7930-A實例為以當前SCP-7930-1實例為主角的成人電影，SCP-7930-A電影本身是異常的；因至今為止，沒有任何SCP-7930-1實例被直接包含在攝製或傳銷中。除此之外，SCP-7930-A實例不具有其他異常性質。
+
+SCP-7930-1實例普遍為正處於性別轉換期的男性至女性（或女性至男性）變性者，大多數人曾經進入或經過SCP-7930。當前一個實例被取消資格後，會隨機選擇一個新的SCP-7930-1實例，且SCP-7930會捨棄其過去的地點並遷移至SCP-7930-1的主要住處附近。自1968年，SCP-7930還嘗試向SCP-7930-1寄送宣傳素材。
+
+SCP-7930-1在以下幾種狀況將會不符合資格：
+* 當前的SCP-7930-1實體年滿32歲。
+* 當前的SCP-7930-1實體經歷了性別重置手術。
+* 當前的SCP-7930-1實體死亡。
+----
+[[=]]
+[[size 150%]]**事件-7930-CH-HODGE**[[/size]]
+[[/=]]
+
+2001/01/18，22:58，31歲的████ Hodge（當時的SCP-7930-1實體），偽裝成一順性別男子並進入了SCP-7930。Hodge小姐在購買了//包裝工2/////我的小小姊妹[[footnote]] **譯註：**原文sissy，指較為女孩子氣的男性。 [[/footnote]]//放映室的票後進入影院。23:31分之前，她行蹤未明。
+
+23:21，一陣尖叫聲從SCP-7930-A的放映室傳出。安保人員抵達並發現Hodge小姐正使用一短柄斧[[footnote]] 推測在之前用外套蓋著偷帶了進來。 [[/footnote]]砍毀放映機，且已毀損了大部分連接導線。當她被制伏時，SCP-7930-A放映機的上下卡槽已被砍壞，鏡頭也徹底破碎。尖叫聲在Hedge小姐被強制帶離後仍持續著，來源未知。
+
+在此事件後，SCP-7930經歷了幾項重大變化。從SCP-7930中寄出的包裹數量顯著增加，其目的地包含SCP-7930-1的家人、愛人和就業/就學處。在影院地板和廁所中都找到了人類血跡。SCP-7930-A放映室中的喇叭聲變得更大，音訊顯示SCP-7930-A中的內容變得更加暴力且禁忌。
+
+此後，SCP-7930-1不符合資格的標準變為：
+* 當前的SCP-7930-1實體遭到謀殺、處決或是自殺。
+* 當前的SCP-7930-1實體以其他方式死亡，且被其家庭所否認。
+* 當前的SCP-7930-1實體在社會上和生理上回歸原本性別。
+
+[[footnoteblock]]
+
+[[include :scp-wiki:component:earthworm
+| first=false| last=false | hub=yes
+| previous-url=/scp-7898| previous-title=W是「牆壁」
+| next-url=/scp-7931 | next-title=X是「異質移植」
+| hub-url=/scp-anthology-hub | hub-title=SCP驚選集中心頁
+]]
+
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[SCP-7929]]] | SCP-7930 | [[[SCP-7931]]] >>
+[[/=]]
+[[/div]]
+
+[[include :scp-zh-tr:component:license-box
+|lang=EN
+|author=UraniumEmpire
+]]
+=====
+> **檔案名稱：** watchingyou.PNG
+> **圖像名稱：** Cine para adultos (Compañía de Jesús 1078)
+> **圖像作者：** José Miguel Cordero Carvacho
+> **圖像授權方式：** CC BY-SA 4.0
+> **圖源連結：** [[[https://commons.wikimedia.org/wiki/File:Cine_para_adultos_(Compa%C3%B1%C3%ADa_de_Jes%C3%BAs_1078).jpg|Wikimedia]]]
+=====
+[[include :scp-zh-tr:component:license-box-end]]

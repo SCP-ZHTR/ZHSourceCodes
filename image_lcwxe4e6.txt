@@ -1,0 +1,6 @@
+image: 'https://imgur.com/YH3JLHP.jpg'
+owner: Rind
+owner-wiki: RindL
+license: '0'
+other-license: ''
+note: ''

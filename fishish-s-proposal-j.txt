@@ -1,0 +1,26 @@
+[[include info:start]]
+**[[[https://scp-wiki.wikidot.com/fishish-s-proposal-j|Fishish的提案]]]**
+@@ @@
+**原作者：**[[*user Fishish]]
+@@ @@
+**譯者：**[[*user Pao Mian]]
+[[include info:end]]
+
+
+**項目編號：** SCP-001-J
+
+**項目等級：** Apollyon / Da'aS Elyon / Archon
+
+**特殊收容措施：** 無關緊要。
+
+**描述：** SCP-001-J是當前正在摧毀我們的唯一家鄉—地球的79億實體的統稱。 
+
+@@@@
+@@@@
+
+**附錄-001-J-A：** 就在 --我-- O5議會對SCP-001的文件進行修改並封鎖訪問之前，所有的基金會人員皆收到了以下訊息。這下你可爽了吧。
+
+[[include component:image-block
+| name=https://scp-wiki.wdfiles.com/local--files/fishish-s-proposal-j/WeAreTheRealAnomaly
+| align=center
+| caption=來自O5-01的訊息 [[footnote]] **譯註：** 人類即是真正的異常 </3 [[/footnote]] ]]

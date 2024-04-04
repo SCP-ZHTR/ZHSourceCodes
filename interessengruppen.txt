@@ -1,0 +1,170 @@
+[[include :scp-wiki:info:start]]
+原文：[http://scp-wiki-de.wikidot.com/interessengruppen Interessengruppen (Deutsch)] [德文]
+第一譯文：[http://scp-int.wikidot.com/interessengruppen Groups of Interest in Germanophone Regions] 德文分部關注組織
+作者：[[*user Dr_Grom]]
+第一譯者：[[*user Rikjard Regreps]]
+第二譯者：[[*user Frederica Bernkastel]]
+[[include :scp-wiki:info:end]]
+
+[[div class="content-panel centered standalone"]]
+
+++* 關注組織：[[[/groups-of-interest|主部EN]]]|[[[/groups-of-interest-zh|繁中ZH]]]|[[[/groups-of-interest-jp|日分JP]]]|[[[/groups-of-interest-th|泰分TH]]]|[[[/groups-of-interest-of-the-russian-branch|俄分RU]]]|[[[/grupos-de-interes-hispanoparlantes|西班牙ES]]]|[[[/groups-of-interest-pl|波蘭PL]]]|[[[groupes-d-interet-fr|法分FR]]]|[[[groups-of-interest-ua|烏分UA]]]|德分DE
+
+[[/div]]
+
+[[div class="content-panel standalone series" style="background-color: #FFFFFF;"]]
+[[div style="font-size: 350%; font-weight: bold; margin: 2px 0 5px;"]]
+[[=]]
+{{德文分部
+關注組織}}
+[[/=]]
+----
+[[/div]]
+[[div class="content-panel standalone" style="font-family: Courier New, Courier, monospace; width: auto; padding: 10px 30px; margin: 20px auto; background: url(/local--files/about-the-scp-foundation/bg-marble.png) repeat; text-shadow: 1px 1px 1px rgba(0,0,0,.25)"]]
+檔案概述：基金會並不是唯一對異常和形而上事物有興趣和進行研究的組織。無論是為了個人利益還是為了保護人類，現在還有許多其他團體擁有，使用或企圖製造異常。有些是基金會的競爭對手，有些是從基金會分裂而出，有些是基金會可信賴的同伴。無論如何，我們認為有必要整理一份名單，來闡述基金會所知道的機構/組識以及我們對它們的立場。
+[[/div]]
+
+----
+> [[collapsible show="Unfold Table of Contents" hide="Fold" folded="no"]]
+> = **Table of Contents**
+> @@  @@[#4R 第四帝國]
+> @@  @@[#RTI 猛龍科技工業]
+> @@  @@[#DXXV 25號部門]
+> @@  @@[#CCC 瑪瑙盲者聯合]
+> @@  @@[#MA 魔法學院]
+> @@  @@[#IMBW IMBW]
+> @@  @@[#SKP 超自然特遣隊]
+> @@  @@[#WK 奇物室]
+> [[/collapsible]]
+
+[[/div]]
+
+[[# 4R]]
+[[div class="content-panel standalone series" style="background-color: #FFFFFF;"]]
++ [[[*4r-hub|第四帝國]]]
+
+[[f>image http://scp-wiki-de.wdfiles.com/local--files/interessengruppen/4R-smbl.png]]
+**原文名稱：** Das Vierte Reich
+
+**概述：** 第四帝國（4R）
+
+第四帝國是由自稱「拉斯先生」的超自然學者兼科學家領導的組織。根據基金會回收的資訊，拉斯在1941年到1943年期間曾為第三帝國工作，直到黨衛軍認為其威脅過大，試圖暗殺該員為止。後來拉斯先生一直在秘密創建一個繼任組織，並將其命名為第四帝國。
+
+第四帝國主要由拉斯及其招募人員所組成，並透過儀式與實驗賦予人員異常能力（例如[[[SCP-077-DE]]]與[[[SCP-097-DE]]]）。他們這麼做的目標是消滅「不潔者」，並在未來掌控最大的政治團體。拉斯先生也會透過儀式與實驗製造/改造各類機械，例如[[[SCP-084-DE]]]。
+
+拉斯先生知道基金會的存在，但並不將基金會視為威脅，而僅僅是「微不足道的煩擾」。然而他也會表現對基金會的欽佩之情，將其稱為「此世的守護者」。
+
+查看有關//第四帝國//的相關頁面，[http://scp-zh-tr.wikidot.com/system:page-tags/tag/第四帝國 請點擊此處]。
+[[/div]]
+
+[[# RTI]]
+[[div class="content-panel standalone series" style="background-color: #FFFFFF;"]]
++ [[[*raptor-tec-industries|猛龍科技工業]]]
+
+[[f>image http://scp-wiki-de.wdfiles.com/local--files/interessengruppen/RaptorTec width="50px"]]
+
+**概述：** 猛龍科技工業是一家研發公司。截至目前為止，該組織曾經僅在德奧邊界的某處設點經營。猛龍科技工業專門從事武器、車輛、無人機、人工智慧的研發，尤其集中在無人機與人工智慧方面。
+
+最初猛龍科技工業僅是基金會在德國的供應商之一。當基金會注意到該組織交付的設備具有異常特性時，便開始嘗試透過武力接管該組織。這個任務最後失敗了，基金會僅成功搗毀了該組織的唯一據點。
+
+數年以後，猛龍科技的新產品開始在黑市流通，德國境內的基金會站點也多次遭受了相關的襲擊，猛龍科技正在透過這些襲擊測試其產品。
+
+
+查看有關//猛龍科技//的相關頁面，[http://scp-zh-tr.wikidot.com/system:page-tags/tag/猛龍科技 請點擊此處]。
+
+[[/div]]
+
+[[# DXXV]]
+[[div class="content-panel standalone series" style="background-color: #FFFFFF;"]]
++ [[[*abteilung-xxv-hub|25號部門]]]
+
+[[f>image http://scp-wiki-de.wdfiles.com/local--files/interessengruppen/abteilung-xxv.jpg]]
+**原文名稱：** Abteilung XXV
+
+**概述：** 25號部門是東德國家安全部的秘密部門。該組織的任務是研究異常現象提供國家利用，以利其實現自身的目標。該組織著重於諜報、破壞與控制民間異常運用。
+
+25號部門於1965年建立，並在1989年為了免於部門職員遭受迫害而關閉。儘管25號部門已然不復存在，但該組織造成的超常問題卻無人監督的被留了下來。
+
+利用殘存25號部門的描述文件，基金會正在致力於發現與回收該組織的遺物，然而多方發現的結果都說明了這樣的速度還不夠快，還有大一部分異常仍舊處於下落不明的狀態。
+
+查看有關//25號部門//的相關頁面，[http://scp-zh-tr.wikidot.com/system:page-tags/tag/25號部門 請點擊此處]。
+[[/div]]
+
+[[# CCC]]
+[[div class="content-panel standalone series" style="background-color: #FFFFFF;"]]
++ [[[*caecus-c-hub|瑪瑙盲者聯合]]]
+
+[[f>image http://scp-wiki-de.wdfiles.com/local--files/interessengruppen/cc.jpg]]
+
+**原文名稱：** Caecus Carneliana-Kollektiv
+
+**概述：** 瑪瑙盲者聯合是與基金會敵對的活躍組織，該組織的目標是解放所有基金會德國分部的具智慧SCP。該組織會襲擊德國分部的各個站點，並將所有具智慧SCP釋放。瑪瑙盲者聯合由多個所謂的「枝」和一名「幹」所領導。
+
+瑪瑙盲者已經存在很長一段時間了，但直到19██年██月██日DE/B33事件後才終於對「公眾」展現自身存在。從那時起，瑪瑙盲者聯合已經破壞了多個基金會站點。據悉該組織還與數個關注組織有所聯繫。
+
+基金會知道這個組織，並正在致力於控制瑪瑙盲者的所有成員。無法確定瑪瑙盲者成員的當前位置，但正在考慮該組織存在固定據點的可能性。同樣尚未釐清該組織的成員來源與組建聯合的原因。
+
+查看有關//瑪瑙盲者聯合//的相關頁面，[http://scp-zh-tr.wikidot.com/system:page-tags/tag/caecus-c 請點擊此處]。
+[[/div]]
+
+[[# MA]]
+[[div class="content-panel standalone series" style="background-color: #FFFFFF;"]]
++ [[[*http://scp-int.wikidot.com/magierakademie-hub|魔法學院]]]
+
+[[f>image http://scp-wiki-de.wdfiles.com/local--files/interessengruppen/ma-smbl.png]]
+
+**原文名稱：** Die Magierakademie
+
+**概述：** 魔法學院是在多個歐洲國家都有據點的組織，其總部位於德國，旨在探索與傳授安全使用名為「魔法」的異常能力。基金會將異常視為危害，並透過各種手段試圖將其收容，而學院則認為異常是世界的自然組成之一，並嘗試實行和平共存，以非暴力的科學手段處理異常。
+
+學院在基金會德文分部大部分重要地點都安插了秘密特工，歐洲其他地區亦是如此，學院會觀察基金會的任務，並在各處施加影響，透過學院的協調秘密支持或妨礙其行動。自從遭到第四帝國信徒[[[scp-149-de|曝光]]]後，該學院最初轉入低調，但近期又轉為主動，現正嘗試與基金會達成合作關係。
+
+查看有關//魔法學院//的相關頁面，[http://scp-zh-tr.wikidot.com/system:page-tags/tag/魔法學院 請點擊此處]。
+[[/div]]
+
+[[# IMBW]]
+[[div class="content-panel standalone series" style="background-color: #FFFFFF;"]]
++ [[[*imbw-hub|IMBW]]]
+
+[[f>image http://scp-wiki-de.wdfiles.com/local--files/interessengruppen/IMB.png]]
+**翻譯名稱：** 人類教育發展研究所
+
+**概述：** 研究機構[[span class="ruby"]]人類教育發展研究所[[span class="rt"]] Institut für menschliche Bildung und Weiterentwicklung[[/span]][[/span]]（IMBW）在1972年於柏林成立，該組織由多名科學家、研究員、教授所組成，他們將收集世界各地異常視為己任，要將這些異常用於造福人類。
+
+在2004年的基金會內部事件中，基金會發現了數名潛伏的IMBW職員。根據這些職員的證詞，這些職員都是在基金會工作期間決定加入IMBW，並從此潛伏在基金會內作為該組織的臥底成員。根據目前發現的資訊，該組織自成立以來便持續著重於異常的回收與利用，致力追求維護、發展、提高人類自身及其教育。
+
+該機構鮮少成為基金會要面對的主要問題，也很少有機構成員試圖竊取基金會持有之SCP。即便對部分SCP項目相當有興趣，該機構仍舊表現出了對基金會實力足夠的尊重。
+
+查看有關//imbw//的相關頁面，[http://scp-zh-tr.wikidot.com/system:page-tags/tag/imbw 請點擊此處]。
+[[/div]]
+
+[[# SKP]]
+[[div class="content-panel standalone series" style="background-color: #FFFFFF;"]]
++ [[[*skp-portal|超自然特遣隊]]]
+
+[[f>image http://scp-wiki-de.wdfiles.com/local--files/interessengruppen/SKP-Logo-60.png]]
+
+**原文名稱：** Sonderkommando für Paranormales
+
+**概述：** 超自然特遣隊是第三帝國的異常調查組織，在我們的現實中，該組織在第三帝國倒臺後就已經被解散了。
+
+在[[[028-de-i2|事件#028-DE/I2]]]中，SKP試圖透過現實R-3378-DE入侵了我們的現實，最終在一系列的僥倖下規避了遭到成功入侵的結局。 SKP將被視為絕對敵對組織。[[[SKP-028|據悉]]]該組織還有打算再度入侵我們的現實，並且將在做足更好的準備後捲土重來。若其在入侵初期的阻擊行動失敗了，推測該組織的後續侵略將會勢不可擋。
+
+由於數據洩露的影響，基金會有能力竊取R-3378-DE的大量數據。
+
+查看有關//超自然特遣隊//的相關頁面，[http://scp-zh-tr.wikidot.com/system:page-tags/tag/超自然特遣隊 請點擊此處]。
+[[/div]]
+
+[[# WK]]
+[[div class="content-panel standalone series" style="background-color: #FFFFFF;"]]
++ [[[*goi-1995-de-das-wunderkabinett|奇物室]]]
+[[f>image http://scp-wiki-de.wikidot.com/local--files/interessengruppen/WK_SW.png width="100px"]]
+
+**概述：** 名喚「奇物室」的關注組織是一個相對較小的組織，因未知目的銷售著異常日用品與訂製品。儘管基金會數度試圖收容該組織製造的異常，但奇物室從未展現出對基金會的敵意。
+
+1995年，隨著[[[SCP-124-DE]]]-1的發現，奇異女士開始與SCP基金會進行接觸。自那時起，基金會德文分部紀錄了越來越多起異常事件，這些事件都與自稱是關注組織「奇物室」的成員有關，而該組織顯然就是以奇異女士作為其領導人。
+
+儘管奇物室曾多次試圖幫助基金會，但基金會仍將其視為是對常態的威脅，尤其該組織對其產品的不當處置往往導致人身傷害、財產損失、需掩蓋真相等問題。奇物室成員還與眾多關注組織合作，這使得該組織越來越趨向於全球化營運。由於該組織在一間空間異常店家經營，擁有的異常也越來越多，甚至還得到了大型關注組織的支持，這些都更加妨礙了對該組織的徹底拘捕行動。
+
+查看有關//奇物室//的相關頁面，[http://scp-zh-tr.wikidot.com/system:page-tags/tag/奇物室 請點擊此處]。
+[[/div]]

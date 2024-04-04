@@ -1,0 +1,154 @@
+[[toc]]
+[[include info:start-standalone]]
+發起者：[[*user Reverberate_a]]
+圖片來源[[*user Reverberate_a]]攝影
+[[include info:end]]
+[[div style="display: inline-block; border:dashed 2px #4682B4; background:#F0F8FF; float:center; width:84%; padding:1px 15px; margin: 10px 10px 10px 40px"]]
+@@ @@
+[[module css]]
+.void {font-family: serif; font-weight:100; color: #FFFFF0; text-shadow: 0 0 4px
+ #000000;}.void:hover {text-decoration: none; border-bottom: 1px solid #FFBB00;}.void span {font-size: 1.7em;}
+[[/module]]
+[[image 	http://scp-sandbox-zh.wdfiles.com/local--files/collab%3Arecommendedarticle/ZH81 link =http://scp-zh-tr.wikidot.com/darkroom]]
+@@ @@
+> [[=]]
+> + 緣起
+> [[/=]]
+> 　　「你那邊收到了嗎，基金會通知我妳已經收到了。」電話的另一邊傳來好聽的女性聲音。
+> 　　「嗯，收到了[[[scp-105|Iris]]]。」午後的陽光灑進艦橋中，把人曬得暖洋洋的。
+> 　　「那就好，好好對待它，基金會已經好久一段時間不讓我碰它了。」她的語氣透著一絲無奈。
+> 　　「我肯定會的。」
+> 　　「多拍些照片給我看看。」
+> 　　「這你就別期待了，我可不像Kondraki博士總能夠端著SCP-515-ARC拍出些什麼異常項目。」
+> 　　她笑了幾聲：「不要緊，至少我能藉此去你去過的地方。」
+> 　　
+
+@@ @@
+@@ @@
+++* 題目：Site-ZH-81的虹光之間
+15張照片、15個故事與15段奇妙的相遇
+@@ @@
+@@ @@
+
+[[=]]
+> [[size 2em]]成果發佈! [[/size]]
+> 
+> 本次競賽由於比分相同，故三名同分的參賽者都是第一名，恭喜下列參賽者
+> 
+> [http://scp-zh-tr.wikidot.com/the-non-names-town 吹響號角的無名山脈][[*user minmasterqw]]
+> [http://scp-zh-tr.wikidot.com/third-life 三生有幸][[*user Bales20147]]
+> [http://scp-zh-tr.wikidot.com/in-the-snow-in-the-iris 處銀白之中，於虹光之間][[*user Lostwhat]]
+
+----
+--[[size 1em]]**比賽時間【2019/11/11 (一) 11/11  00:00】~【2019/11/20 (三) 23:59】(GMT+8)**[[/size]]--
+[[size larger]]
+--**報名時間【2019/11/8(五)】~【2019/11/10 (日) 23:59】(GMT+8)**--
+--**徵件時間【2019/11/11(一)】~【2019/11/20 (三) 23:59】(GMT+8)**--
+--**投票時間【2019/11/11(一）】~【2019/11/24 (日) 23:59】(GMT+8)**--
+[[/size]]
+[[/=]]
+-------
+
+++ **規則與賽程解說：**
+本次投稿只要貼合主題我們接受，SCP文檔、故事、-EX(已解明)、-J(搞笑)、GOI格式、creepypasta、流浪者圖書館，上述7種類型的作品型式投稿，每位作者僅只能創作**一份**參賽作品，請各位參賽者務必選擇自己最拿手的形式參賽。
+
+
+* **這次的活動採報名制，請每一位參賽者於指定"報名處"輸入自己的wikidot ID**
+* 主辦方會在11/10晚間23:59分抽出各位參賽者的題目（不晚於11/11 00:30公布)
+* 需在文章中提及[http://scp-sandbox-zh.wikidot.com/site-zh-81 Site-ZH-81](僅一句話也沒問題)
+* 在拿到題目後，參賽者若覺得圖題難以發揮，可以與其他參賽者私下協調交換
+* 在發表作品時，該作品須包含題目之照片
+* 開放投稿的徵件時間為**【2019/11/11(一)】~【2019/11/20 (五) 23:59】(GMT+8)**請各位參賽者，務必在徵件開始後投稿的頁面上加上##firebrick|"虹光之間"##的標籤（在頁面最下方的紅色選項中“標籤”或“tags”一項中）。否則讀者會無法在索引頁找到你的投稿。
+
+
+最後這裡得提醒新進人員們幫自己按+分是絕不被准許的。
+
+@@ @@
+##firebrick|主辦單位保有活動最終解釋權及變更活動內容細節之權利。##
+---------
+
+++ **獎項設置：**
+
+前三名除了固定的獎章稱號外前三名將會有[http://scp-zh-tr.wikidot.com/foundation-star-zh 原創之星]的點數與專用稱號。
+
+另外自己抽選到的該張照片，**參賽者將擁有照片使用權**
+圖片授權分為兩種類型：**全部權利和僅授權使用**，本次比賽採前者，參賽者可獲得此照片之全部權利。以上授權皆不承認授權方為共同作者。
+
+>
+> ++ **報名列表**：
+> 
+> ||~ [[*user Reverberate_a ]](範例)||~ （題目編號）||
+> ||[[*user Lostwhat]] ||13 ||
+> ||[[*user Dr V Valentine ]]  ||11 ||
+> ||[[*user bales20147]] ||15 ||
+> ||[[*user Mimaomao]] ||5||
+> ||[[*user minmasterqw]]||1||
+> ||[[*user K the intern]] ||6 ||
+> ||[[*user AbyssDream]] ||7||
+> ||[[*user PeiWeiArtz]] ||9 ||
+> ||[[*user Viken-K]] ||14||
+> ||[[*user ting129]] ||4 ||
+> ||[[*user Boooonta]] ||3 ||
+> ||[[*user Chromeblushowo]] ||8||
+----
+[[div class="content-panel standalone content-row"]]
+[[div class="content-type-title"]]
+++ 目前參賽作品
+[[/div]]
+
+[[div class="content-type-description-2"]]
+
+[[table style="width: 100%;"]]
+[[row style="font-weight: bold; color: #fff; background-color: #666;"]]
+[[cell style="padding: 0 2px; width: 50%;"]]
+頁面名稱
+[[/cell]]
+[[cell style="padding: 0 2px; width: 25%; text-align: center;"]]
+建立日期
+[[/cell]]
+[[cell style="padding: 0 2px; width: 20%; text-align: center;"]]
+創建者
+[[/cell]]
+[[cell style="padding: 0 2px; text-align: center;"]]
+評分
+[[/cell]]
+[[/row]]
+[[/table]]
+
+[[/div]]
+
+[[div class="content-type-description"]]
+
+[[module ListPages order="created_at desc" prependLine="[[include component:listpages-table]]" perPage="30" appendLine="[[/table]]" category="-fragment, -prime"  separate="false" tags="+虹光之間 -中心 +原創" rss="Most Recently Translated"]]
+[[row]]
+[[cell style="vertical-align: top;"]]
+%%title_linked%%
+[[/cell]]
+[[cell style="vertical-align: top; text-align: justify;"]]
+%%created_at|%Y年%m月%d日 %H:%M|agohover%%
+[[/cell]]
+[[cell style="vertical-align: top; text-align: left;"]]
+%%created_by_linked%%
+[[/cell]]
+[[cell style="vertical-align: top; text-align: justify;"]]
+%%rating%%
+[[/cell]]
+[[/row]]
+[[/module]]
+
+[[/div]]
+[[/div]]
+-----
+++ **圖題**：
+[[include :scp-zh-tr:component:carousel
+| images=	1.jpg,2,3,4,5,6,7,8,9,10,11,12,13,16,15.jpg
+| caption=本次圖題、下方白色小點為編號
+| interval=3
+| wiki=scp-sandbox-zh
+| page=collab:recommendedarticle
+| width=500px
+| height=380px
+| position=center
+]]
+
+[[/div]]

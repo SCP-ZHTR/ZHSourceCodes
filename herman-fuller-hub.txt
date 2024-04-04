@@ -1,0 +1,248 @@
+[[include info:start]]
+原文：[http://www.scp-wiki.net/herman-fuller-hub 赫曼-富勒的不安馬戲團中心]
+原作者 : [[*user Crayne]]
+譯者：[[*user Lostwhat]]
+[[include info:end]]
+
+
+[[tabview]]
+
+[[tab 馬戲團來到鎮上了！]]
+
+[[div style="background-image: url(http://scp-wiki.wikidot.com/local--files/component:hf-poster/Herman-Fuller-background-new.png); background-size: 650px 822px; background-repeat: no-repeat; padding: 150px 25px 25px; width: 600px; height: 672px; margin: 0 auto; font-size: 1em; color: #fff; text-shadow: 2px 2px #000;"]]
+
+[[=]]
+[[span style="font-size: 3em;"]]**照過來**
+@@ @@
+@@ @@
+**照過來**[[/span]]
+@@ @@
+@@ @@
+**歡迎！女士們和先生們！歡迎來到地球上最偉大的表演！歡迎來到赫曼•富勒的不安馬戲團！**
+@@ @@
+馬戲團的表演是全世界無人能敵的，精妙絕倫的表演，//獨一無二的表演//。馬戲團團員使出他們的畢生絕活來吸引觀眾的眼球。沒人知道馬戲團是什麼時候來到鎮上、又或者是來自哪裡、如何悄悄搭起帳篷的。大家都對大帳篷、大篷車和拖車與貨車突然出現而感到困惑，對馬戲團也沒有印象。但奇怪的是，表演的事前申請似乎從來沒有少過。
+
+但是，當然的，一旦他們參加了表演，疑慮就會一掃而空。畢竟這是地球上**最精彩**的表演。
+
+馬戲團相當重視團員，每個團員都是有價值的寶物，無論他們是只有兩隻腳組成的走鋼絲表演者、尖嘯著的觸手怪物、眼裡有著上千顆墜星淚珠的小丑。馬戲團團員們是一家人，一家人就應該在一起。
+
+所有，快來看表演吧！感受我們的魔力吧！畢竟，你還有什麼好失去的？
+[[/=]]
+
+[[/div]]
+
+
+[[/tab]]
+
+[[tab 演出內容]]
+++ 來吧，大家都坐下來看表演吧…………
+
+* [[[doctor-muerte | Herman Fuller Presents: The Doctor of Death]]]
+* [[[the-penitent-man | Herman Fuller Presents: The Penitent Man]]]
+* [[[the-indestructible-man | Herman Fuller Presents: The Indestructible Man]]]
+* [[[maya-the-magnificent | 赫曼·富勒的展出：高貴的瑪雅]]]
+* [[[the-dread-behemoth | Herman Fuller Presents: The Dread Behemoth]]]
+* [[[nixie-the-nereid | Herman Fuller Presents: Nixie the Nereid]]]
+* [[[the-skeleton-dance | Herman Fuller Presents: The Skeleton Dance]]]
+* [[[the-amazing-zoltan | Herman Fuller Presents: The Amazing Zoltan]]]
+* [[[icky-the-magic-clown | Herman Fuller Presents: Icky the Magic Clown]]]
+* [[[the-living-head | Herman Fuller Presents: The Living Head]]]
+* [[[the-amazing-sluggo | Herman Fuller Presents: The Amazing Sluggo]]]
+* [[[the-fishman-of-manasquan | 赫勒·富曼的展出：瑪納斯寬的魚人]]]
+* [[[the-flame-faced-man | 赫曼·富勒的展出：炙面人]]]
+
+
+[[/tab]]
+
+[[tab 一小部份被弄丟的傑作]]
+++ 神奇的怪人和人間奇蹟
+* [[[SCP-1834]]]
+* [[[SCP-1860]]]
+* [[[SCP-1884]]]
+* [[[SCP-1956]]]
+* [[[SCP-2094]]]
+* [[[SCP-2210]]]
+* [[[SCP-2902]]]
+* [[[SCP-2912]]]
+* [[[SCP-3036]]]
+* [[[SCP-3245]]]
+* [[[SCP-4114]]]
+* [[[SCP-4409]]]
+* [[[SCP-5335]]]
+* [[[SCP-5500]]]
+
+
+++ 其他令人不安的項目
+* [[[SCP-1695]]]
+* [[[SCP-190]]]
+* [[[SCP-1921]]]
+* [[[SCP-1931]]]
+* [[[SCP-2024]]]
+* [[[SCP-3077]]]
+* [[[SCP-3329]]]
+* [[[SCP-3440]]]
+* [[[SCP-3717]]]
+* [[[SCP-3718]]]
+* [[[SCP-3886]]]
+* [[[SCP-4292]]]
+* [[[SCP-4459]]]
+* [[[SCP-4743]]]
+* [[[SCP-5555]]]
+[[/tab]]
+
+[[tab 馬戲團的故事]]
+
+++ 2014GOI競賽
+
+* [[[a-circus-milked-dry | A Circus Milked]]]
+* [[[family-ties| Family Ties]]]
+* [[[freaky-commodities| Freaky Commodities]]]
+* [[[free-freaks | Free Freaks]]]
+
+
+++ 馬戲團內的恐懼之事
+
+* [[[a-blessed-day | A Blessed Day]]]
+* [[[a-circus-come-to-not | A Circus Come To Not]]]
+* [[[a-little-lollipop | A Little Lollipop]]]
+* [[[a-real-humdinger | A Real Humdinger]]]
+* [[[a-scip-or-a-star | A Scip Or A Star?]]]
+* [[[a-vale-of-tears | A Vale of Tears]]]
+* [[[and-i-m-the-star | ...And I'm the Star!]]]
+* [[[back-in-habit | Back in Habit]]]
+* [[[city-of-wonder | City of Wonder™]]]
+* [[[clown-breeding-101-with-prof-richard-c-normus | Clown Breeding 101 with Prof. Richard C. Normus]]]
+* [[[curtain-call | Curtain Call]]]
+* [[[dark-and-disquieting | Dark and Disquieting]]]
+* [[[deceptive-cadence | Deceptive Cadence]]]
+* [[[dread-circuses-jumps-the-shark | Dread & Circuses Jumps The Shark]]]
+* [[[former-assets | Former Assets]]]
+* [[[freaks-friends-and-fiends | Freaks, Friends and Fiends]]]
+* [[[freaky-commodities-ii-freak-harder | Freaky Commodities II: Freak Harder]]]
+* [[[industrial-arts | Fuller & The Factory Funtime Facility, Act I: Industrial Arts]]]
+* [[[industrial-espionage-hf | Fuller & The Factory Funtime Facility, Act II: Industrial Espionage]]]
+* [[[industrial-sabotage | Fuller & The Factory Funtime Facility, Act III: Industrial Sabotage]]]
+* [[[industrial-accidents | Fuller & The Factory Funtime Facility, Finale: Industrial Accidents]]]
+* [[[fuller-than-full | Fuller Than Full!]]]
+* [[[fuller-s-fantastic-fun-lover-s-funhouse | Fuller's Fantastic Fun-Lover's Funhouse]]]
+* [[[herman-fuller-can-shove-it-up-his-ass | Herman Fuller Can Shove It Up His Ass]]]
+* [[[how-is-your-name | How Is Your Name?]]]
+* [[[icky-ichabod | Icky & Ichabod]]]
+* [[[let-s-get-this-show-on-the-road | Let's Get this Show on the Road!]]]
+* [[[life-s-a-show | Life's a Show]]]
+* [[[more-of-fuller-s-crap | More of Fuller's Crap]]]
+* [[[my-hovercraft-is-full-of-eels | My Hovercraft Is Full Of Eels]]]
+* [[[not-my-circus-not-my-monkeys | Not My Circus Not My Monkeys]]]
+* [[[oh-i-wouldn-t-worry-about-flaky-os | 哦，我不會擔心 Flaky-Os]]]
+* [[[pepper-s-lament | Pepper's Lament]]]
+* [[[revival-tent-blitz | Revival Tent Blitz]]]
+* [[[she-remembered-me | She Remembered Me]]]
+* [[[so-they-called-him-darke | So They Called Him Darke]]]
+* [[[souls-somas | Souls & Somas]]]
+* [[[the-apple-doesn-t-fall-far | The Apple Doesn't Fall Far]]]
+* [[[the-boy-who-cried-wolf | The Boy Who Cried Wolf]]]
+* [[[the-den-of-disquiet | The Den of Disquiet]]]
+* [[[the-preacher-s-apprentice-part-1 | The Preacher's Apprentice]]]
+* [[[the-sea-slug-and-the-showman | The Sea Slug and the Showman]]]
+* [[[the-warrior-and-the-clown | The Warrior And The... Clown?]]]
+* [[[there-are-no-strings-on-me | There Are No Strings On Me]]]
+* [[[undead-insane-and-fully-loaded | Undead, Insane and Fully Loaded]]]
+* [[[upside-down-cake | Upside-Down Cake]]]
+* [[[your-call-is-important-to-us | Your Call Is Important To Us]]]
+
+++ 其他故事
+
+* [[[a-circus-of-a-wreck | A Circus of a Wreck]]]
+* [[[a-circus-with-paranoia | A Circus With Paranoia]]]
+* [[[a-jester-s-tale | A Jester's Tale]]]
+* [[[finding-essie | Finding Essie]]]
+* [[[fish-are-friends-not-clowns | Fish Are Friends, Not Clowns]]]
+* [[[green-day | Green Day]]]
+* [[[green-day-ii | Green Day II]]]
+* [[[interviews-with-prospective-groups-of-interest | Interviews with Prospective Groups of Interest]]]
+* [[[old-business | Old Business]]]
+* [[[opening-night | Opening Night]]]
+* [[[a-night-at-the-circus | Pt. 1 - A Night at the Circus!]]]
+* [[[amongst-the-clowns | Pt. 2 - Amongst the Clowns]]]
+* [[[i-heart-the-circus-3 | Pt. <3 - Wherever you go, I'll follow]]]
+* [[[the-foundation-learns-nothing-about-clowns | The Foundation Learns Nothing About Clowns]]]
+
+++ 本站收錄
+
+
+[[module ListPages order="created_at desc" tags="+赫曼-富勒 +原創" separate="no" perPage="200" prependLine="||~ 標題||~ 作者||~ 創建日期||"]]
+|| %%title_linked%% || %%created_by%% || %%created_at%% ||
+[[/module]]
+
+
+[[/tab]]
+
+[[tab 關於馬戲團的資訊]]
+
+++ 關於馬戲團格式
+
+我們創造了一種相當適合赫曼•富勒的不安馬戲團這種組織的格式：馬戲團海報。除此之外，我們還為你製作了另一個格式。你可以從我們虛構的書籍《馬戲團的起源：赫曼•富勒的奇人們》中以被撕下的書頁作為另一種格式使用。這些被撕下的書頁至今仍存在於世界各地的圖書館，被夾在以馬戲團為主題的書籍裡，並且不斷的被發現中。這種格式能夠輔助你的馬戲團海報，並讓你能夠寫入更多的內容。馬戲團海報和撕下的書頁可以一起使用，也可以作為單獨作品使用。
+
+**如何製作你自己的馬戲團海報**
+
+我們為你做了一個方便的模板，你能夠用最少的代碼來製作自己的海報。只需要把下面這段代碼黏在你的頁面裡：
+
+> @@[[include :scp-zh-tr:component:hf-poster title=[1]|textLeft=[2]|image=[3]|textRight=[4]|textBottom=[5]|textFooter=[6]]]@@
+
+如你所見，這個模板有六個參數，分別是：
+
+# 海報標題，通常是奇人的藝名。
+# 你想在圖片左邊寫的文字。左邊和右邊的文字字數最好相同，以平衡構圖。
+# 你想要使用的圖片。這個格式**需要**一張擺在中央的圖片。你可以使用舊照片，但是原創的藝術圖片可能更好。
+# 你想在圖片右邊寫的文字。
+# 你想在圖片下方寫的文字，通常用來詳細敘述你的奇人。
+# 海報的頁腳，可能會有馬戲團的去向、門票價格、演出時間等等。
+
+將括號內的數字（包含括號一起拿掉）換成你想要的內容即可，但請牢記幾件事：
+
+* 你可以，而且應該在海報中的文本使用換行（按Enter）；你的模板不會因此被破壞。
+* 你的圖片大小應該要是剛剛好的300×425像素，太大或太小都不行。
+* 置入圖片時，請使用**圖片的完整網址**（也就是//@@http://@@//開頭的那個）你可以用滑鼠右鍵你的圖片找到來網址。
+* 你不需要評分模塊，這個模板會自帶評分模塊。
+
+為了方便你起草文章，這個模板也已經被安裝到主站的沙盒了。在主站維基上發佈馬戲團格式前，請務必先在沙盒中確認檔案的外觀沒問題。
+
+**如何製作被撕下的書頁：**
+
+你可以選擇想要左頁還是右頁，請使用這個模板：
+
+**這是左頁：**
+> @@[[include :scp-zh-tr:component:hf-book-left chapter=[1]|content=[2]|pagenumber=[3]]]@@
+
+
+**這是右頁：**
+> @@[[include :scp-zh-tr:component:hf-book-right chapter=[1]|content=[2]|pagenumber=[3]]]@@
+
+
+這兩個模板分別有三個參數，分別是：
+
+# 章節標題。你會希望奇人的資訊越清楚越好。
+# 頁面文字。你大概可以使用八百個英文單詞長的內容。請記得預覽你的作品，確保頁面看上去沒問題。
+# 頁碼。這是為了確保不要發生撞頁的情況，誰知道現在到底找到了多少頁，又或者一開始有多少本書。
+
+
+++ 資源來源
+
+[http://www.fontsquirrel.com/fonts/EastMarket EastMarket font, free from Font Squirrel]——用在海報的字體上。
+[http://www.fontsquirrel.com/fonts/alegreya Alegreya font, free from Font Squirrel]——用在書頁的字體上
+[http://www.dafont.com/romantiques.font Romantiques font, free from Dafont.com]——用在標題
+[[/tab]]
+
+[[/tabview]]
+[[include :scp-zh-tr:component:license-box
+|author=Crayne]]
+=====
+
+> **檔案名稱：**Herman-Fuller-background-new.png
+> **圖像作者：**[[*user JackalRelated]], Pink Sherbet Photography, Ortega y Frías, Ramón
+> **圖像授權協議：**CC BY-SA 3.0
+> **圖源連結：**SCP Foundation Wiki
+> **衍生自：**[[[https://commons.wikimedia.org/wiki/File:Free_antique_damaged_wrinkled_stained_book_inside_cover_texture_for_layers_(2986258435).jpg|Wikimedia]]] (Pink Sherbet Photography), [[[https://commons.wikimedia.org/wiki/File:Free_dark_vintage_paper_page_texture_for_layers_(2982207584).jpg|Wikimedia]]] (Pink Sherbert Photography), and [[[https://www.flickr.com/photos/internetarchivebookimages/14590934239/|Flickr]]] (Ortega y Frías, Ramón)
+
+=====
+[[include :scp-zh-tr:component:license-box-end]]

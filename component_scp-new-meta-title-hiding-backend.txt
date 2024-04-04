@@ -1,0 +1,19 @@
+[[div id="u-new-meta-title-hiding" class="[[#if {$is-inherited-hiding} | inherited-hiding | overwritting]]"]]
+[[div_ class="new-meta-title meta-title [[#if {$showing-title} | to-display | not-to-display]]"]]
+{$showing-title}
+[[/div]]
+[[div_ class="new-meta-title meta-title default-meta-title [[#if {$showing-title} | not-to-display | to-display]]"]]
+{$default-title}
+[[/div]]
+[[div_ class="pseudocrumbs [[#if {$showing-title} | to-display | not-to-display]]"]]
+[[[{$parent-name}|{$parent-title}]]] » {$showing-title}[[/div]]
+[[div_ class="pseudocrumbs [[#if {$showing-title} | not-to-display | to-display]]"]]
+[[[{$parent-name}|{$parent-title}]]] » [[span style="text-transform: uppercase;
+"]]{$default-title}[[/span]][[/div]]
+[[/div]]
+
+[[%%content{0}%%module css]]
+{$to-be-overwritten}#u-new-meta-title-hiding{
+display:none;
+}
+[[%%content{0}%%/module]]

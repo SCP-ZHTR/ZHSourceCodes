@@ -1,0 +1,1953 @@
+[[iftags +組件]]
+[[=]]
+[[module Rate]]
+[[/=]]
+[[include :topia:pride-animated-source]]
+[[module css]]
+@import url("https://nu-scptheme.github.io/Black-Highlighter/stable/styles/normalize.min.css");
+@import url("https://nu-scptheme.github.io/Black-Highlighter/stable/styles/black-highlighter.min.css");
+
+:root:lang(zh) {
+    --logo-image: url("https://scp-wiki.wdfiles.com/local--files/component:pride-highlighter/lgbtqp_logo.svg") !important;
+}
+
+#page-title {
+    text-align: center;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+}
+
+div.pridebox,
+div.includebox {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+div.pridebox div.insidebox {
+    flex-basis: calc((100% / 2) - 0.125rem);
+    border: 0.0625rem solid rgb(var(--bright-accent));
+    flex-grow: 2;
+    min-width: 18.750em;
+}
+
+div.insidebox div.imagebox {
+    display: flex;
+    justify-content: center;
+}
+
+div.insidebox div.imagebox > div {
+    width: 50%;
+    min-width: inherit;
+}
+
+div.includebox {
+    text-align: center;
+}
+
+div.includebox > blockquote {
+    flex-basis: calc(50% - 1em);
+    flex-grow: 2;
+    box-sizing: border-box;
+    margin: 0.25em;
+    width: calc(50% - 1em);
+}
+
+div.includebox tt {
+    font-size: 80%;
+}
+
+div.pridebox div.insidebox h1, div.pridebox div.insidebox h2 {
+    --wght: 900;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 900;
+    padding: 0 1em;
+}
+
+#page-content > div.pridebox div.scp-image-block {
+    box-shadow: inherit;
+    background-color: rgb(var(--very-light-gray-monochrome));
+    border: initial;
+}
+
+#page-content > div.pridebox div.scp-image-block > a {
+    width: 90%;
+    padding: 1rem 0;
+}
+
+#page-content > div.pridebox div.scp-image-block > div.scp-image-caption {
+    border-top: inherit;
+}
+
+.flipped {
+    display: inline-block;
+    transform: scaleX(-1);
+}
+
+[[/module]]
+
++ 🌈 黑標 與 Sigma9主題 的驕傲月標誌！[[span class="flipped"]]🌈[[/span]]
+
+> //免責聲明：沒有SCP工作人員以任何方式，表明其完全認可該頁面。 而我是一名SCP作者，決定為其他作者創作這些作品，以用於慶祝驕傲月（並且選擇權完全取決於他們）。//
+
+[[=]]
+您想要加個驕傲月標誌，到您的頁面中去嗎？
+那麼，來這裏就對了！
+
+++++ //黑標（BHL）// = 黑色標記筆，也就是您現在看到的主題[[footnote]]（除非您正在一臺2005年的電腦上運行IE6）[[/footnote]]
+++++ //Sigma 9// = 常規，是 SCP Wiki 的基準主題
+
+只需引用下面的代碼到您的頁面，然後就可以添加您所選擇的標誌：
+**黑色標記筆主題和 Sigma 9 主題皆可使用：**
+[[/=]]
+
+[[div_ class="pridebox"]]
+
+[[div_ class="insidebox"]]
+++ LGBTQ+[[footnote]]**譯註：**即女同性戀者（Lesbians）、男同性戀者（Gays）、雙性戀者（Bisexuals）與跨性別者（Transgender）。[[/footnote]] 的驕傲
+[[div class="imagebox"]]
+[[div class="scp-image-block"]]
+[[image https://scp-wiki.wdfiles.com/local--files/component:pride-highlighter/lgbtqp_logo.svg link="https://scp-wiki.wdfiles.com/local--files/component:pride-highlighter/lgbtqp_logo.svg"]]
+[[div class="scp-image-caption"]]
+White Outline LTBTQ+ Pride Logo
+[[/div]]
+[[/div]]
+[[div class="scp-image-block"]]
+[[image https://scp-wiki.wdfiles.com/local--files/component:pride-highlighter/lgbtqp_logo_blk.svg link="https://scp-wiki.wdfiles.com/local--files/component:pride-highlighter/lgbtqp_logo.svg"]]
+[[div class="scp-image-caption"]]
+Black Outline LTBTQ+ Pride Logo
+[[/div]]
+[[/div]]
+[[/div]]
+[[div_ class="includebox"]]
+> __**白色外框**__
+> 引用到 黑標 版式：
+> {{@@[[include :scp-zh-tr:component:pride-highlighter |inc-lgbt= --@@]]]}}
+> 
+> 引用到 Sigma 9 版式：
+> {{@@[[include :scp-zh-tr:component:pride-highlighter |inc-s9-lgbt= --@@]]]}}
+
+> __**黑色外框**__
+> 引用到 黑標 版式：
+> {{@@[[include :scp-zh-tr:component:pride-highlighter |inc-lgbt-alt= --@@]]]}}
+> 
+> 引用到 Sigma 9 版式：
+> {{@@[[include :scp-zh-tr:component:pride-highlighter |inc-s9-lgbt-alt= --@@]]]}}
+[[/div]]
+
+[[/div]]
+
+[[div_ class="insidebox"]]
+++ 經典LGBTQ+的驕傲
+[[div class="imagebox"]]
+[[div class="scp-image-block"]]
+[[image https://scp-wiki.wdfiles.com/local--files/component:pride-highlighter/gp_logo.svg link="https://scp-wiki.wdfiles.com/local--files/component:pride-highlighter/gp_logo.svg"]]
+[[div class="scp-image-caption"]]
+White Outline Classic LTBTQ+ Pride Logo
+[[/div]]
+[[/div]]
+[[div class="scp-image-block"]]
+[[image https://scp-wiki.wdfiles.com/local--files/component:pride-highlighter/gp_logo_blk.svg link="https://scp-wiki.wdfiles.com/local--files/component:pride-highlighter/gp_logo.svg"]]
+[[div class="scp-image-caption"]]
+Black Outline Classic LTBTQ+ Pride Logo
+[[/div]]
+[[/div]]
+[[/div]]
+[[div_ class="includebox"]]
+> __**白色外框**__
+> 引用到 黑標 版式：
+> {{@@[[include :scp-zh-tr:component:pride-highlighter |inc-clgbt= --@@]]]}}
+> 
+> 引用到 Sigma 9 版式：
+> {{@@[[include :scp-zh-tr:component:pride-highlighter |inc-s9-clgbt= --@@]]]}}
+
+> __**黑色外框**__
+> 引用到 黑標 版式：
+> {{@@[[include :scp-zh-tr:component:pride-highlighter |inc-clgbt-alt= --@@]]]}}
+> 
+> 引用到 Sigma 9 版式：
+> {{@@[[include :scp-zh-tr:component:pride-highlighter |inc-s9-clgbt-alt= --@@]]]}}
+[[/div]]
+
+[[/div]]
+[[/div]]
+-----
+[[=]]
++ 依英文字母排序
+[[/=]]
+[[div_ class="pridebox"]]
+
+[[div_ class="insidebox"]]
+++ 無性別的驕傲
+[[div class="imagebox"]]
+[[div class="scp-image-block"]]
+[[image https://scp-wiki.wdfiles.com/local--files/component:pride-highlighter/agen_logo.svg link="https://scp-wiki.wdfiles.com/local--files/component:pride-highlighter/agen_logo.svg"]]
+[[div class="scp-image-caption"]]
+White Outline Agender Pride Logo
+[[/div]]
+[[/div]]
+[[div class="scp-image-block"]]
+[[image https://scp-wiki.wdfiles.com/local--files/component:pride-highlighter/agen_logo_blk.svg link="https://scp-wiki.wdfiles.com/local--files/component:pride-highlighter/agen_logo_blk.svg"]]
+[[div class="scp-image-caption"]]
+Black Outline Agender Pride Logo
+[[/div]]
+[[/div]]
+[[/div]]
+[[div_ class="includebox"]]
+> __**白色外框**__
+> 引用到 黑標 版式：
+> {{@@[[include :scp-zh-tr:component:pride-highlighter |inc-agen= --@@]]]}}
+> 
+> 引用到 Sigma 9 版式：
+> {{@@[[include :scp-zh-tr:component:pride-highlighter |inc-s9-agen= --@@]]]}}
+
+> __**黑色外框**__
+> 引用到 黑標 版式：
+> {{@@[[include :scp-zh-tr:component:pride-highlighter |inc-agen-alt= --@@]]]}}
+> 
+> 引用到 Sigma 9 版式：
+> {{@@[[include :scp-zh-tr:component:pride-highlighter |inc-s9-agen-alt= --@@]]]}}
+[[/div]]
+
+[[/div]]
+
+[[div_ class="insidebox"]]
+++ 直性援軍旗[[footnote]]**譯註：**指非LGBT+ 團體但對其表示支持的人士。[[/footnote]]
+[[div class="imagebox"]]
+[[div class="scp-image-block"]]
+[[image https://scp-wiki.wdfiles.com/local--files/component:pride-highlighter/ally_logo.svg link="https://scp-wiki.wdfiles.com/local--files/component:pride-highlighter/ally_logo.svg"]]
+[[div class="scp-image-caption"]]
+White Outline Ally Logo
+[[/div]]
+[[/div]]
+[[div class="scp-image-block"]]
+[[image https://scp-wiki.wdfiles.com/local--files/component:pride-highlighter/ally_logo_blk.svg link="https://scp-wiki.wdfiles.com/local--files/component:pride-highlighter/ally_logo_blk.svg"]]
+[[div class="scp-image-caption"]]
+Black Outline Ally Logo
+[[/div]]
+[[/div]]
+[[/div]]
+[[div_ class="includebox"]]
+> __**白色外框**__
+> 引用到 黑標 版式：
+> {{@@[[include :scp-zh-tr:component:pride-highlighter |inc-ally= --@@]]]}}
+> 
+> 引用到 Sigma 9 版式：
+> {{@@[[include :scp-zh-tr:component:pride-highlighter |inc-s9-ally= --@@]]]}}
+
+> __**黑色外框**__
+> 引用到 黑標 版式：
+> {{@@[[include :scp-zh-tr:component:pride-highlighter |inc-ally-alt= --@@]]]}}
+> 
+> 引用到 Sigma 9 版式：
+> {{@@[[include :scp-zh-tr:component:pride-highlighter |inc-s9-ally-alt= --@@]]]}}
+[[/div]]
+
+[[/div]]
+
+[[div_ class="insidebox"]]
+++ 無浪漫傾向的驕傲
+[[div class="imagebox"]]
+[[div class="scp-image-block"]]
+[[image https://scp-wiki.wdfiles.com/local--files/component:pride-highlighter/aro_logo.svg link="https://scp-wiki.wdfiles.com/local--files/component:pride-highlighter/aro_logo.svg"]]
+[[div class="scp-image-caption"]]
+White Outline Aromantic Pride Logo
+[[/div]]
+[[/div]]
+[[div class="scp-image-block"]]
+[[image https://scp-wiki.wdfiles.com/local--files/component%3Apride-highlighter/aro_logo_blk.svg link="https://scp-wiki.wdfiles.com/local--files/component%3Apride-highlighter/aro_logo_blk.svg"]]
+[[div class="scp-image-caption"]]
+Black Outline Aromantic Pride Logo
+[[/div]]
+[[/div]]
+[[/div]]
+[[div_ class="includebox"]]
+> __**白色外框**__
+> 引用到 黑標 版式：
+> {{@@[[include :scp-zh-tr:component:pride-highlighter |inc-aro= --@@]]]}}
+> 
+> 引用到 Sigma 9 版式：
+> {{@@[[include :scp-zh-tr:component:pride-highlighter |inc-s9-aro= --@@]]]}}
+
+> __**黑色外框**__
+> 引用到 黑標 版式：
+> {{@@[[include :scp-zh-tr:component:pride-highlighter |inc-aro-alt= --@@]]]}}
+> 
+> 引用到 Sigma 9 版式：
+> {{@@[[include :scp-zh-tr:component:pride-highlighter |inc-s9-aro-alt= --@@]]]}}
+[[/div]]
+
+[[/div]]
+
+[[div_ class="insidebox"]]
+++ 無性戀[[footnote]]**譯註：**指一些不具有性欲望或者宣稱自己沒有性取向的人，即不會對男性或女性任一性別表現出性欲望，即缺乏性沖動。[[/footnote]]的驕傲
+[[div class="imagebox"]]
+[[div class="scp-image-block"]]
+[[image https://scp-wiki.wdfiles.com/local--files/component:pride-highlighter/ace_logo.svg link="https://scp-wiki.wdfiles.com/local--files/component:pride-highlighter/ace_logo.svg"]]
+[[div class="scp-image-caption"]]
+White Outline Asexual (Ace) Pride Logo
+[[/div]]
+[[/div]]
+[[div class="scp-image-block"]]
+[[image https://scp-wiki.wdfiles.com/local--files/component%3Apride-highlighter/ace_logo_blk.svg link="https://scp-wiki.wdfiles.com/local--files/component%3Apride-highlighter/ace_logo_blk.svg"]]
+[[div class="scp-image-caption"]]
+Black Outline Asexual (Ace) Pride Logo
+[[/div]]
+[[/div]]
+[[/div]]
+[[div_ class="includebox"]]
+> __**白色外框**__
+> 引用到 黑標 版式：
+> {{@@[[include :scp-zh-tr:component:pride-highlighter |inc-ace= --@@]]]}}
+> 
+> 引用到 Sigma 9 版式：
+> {{@@[[include :scp-zh-tr:component:pride-highlighter |inc-s9-ace= --@@]]]}}
+
+> __**黑色外框**__
+> 引用到 黑標 版式：
+> {{@@[[include :scp-zh-tr:component:pride-highlighter |inc-ace-alt= --@@]]]}}
+> 
+> 引用到 Sigma 9 版式：
+> {{@@[[include :scp-zh-tr:component:pride-highlighter |inc-s9-ace-alt= --@@]]]}}
+[[/div]]
+
+[[/div]]
+
+[[div_ class="insidebox"]]
+++ 雙性戀的驕傲
+[[div class="imagebox"]]
+[[div class="scp-image-block"]]
+[[image https://scp-wiki.wdfiles.com/local--files/component:pride-highlighter/bi_logo.svg link="https://scp-wiki.wdfiles.com/local--files/component:pride-highlighter/bi_logo.svg"]]
+[[div class="scp-image-caption"]]
+White Outline Bisexual Pride Logo
+[[/div]]
+[[/div]]
+[[div class="scp-image-block"]]
+[[image https://scp-wiki.wdfiles.com/local--files/component:pride-highlighter/bi_logo_blk.svg link="https://scp-wiki.wdfiles.com/local--files/component:pride-highlighter/bi_logo_blk.svg"]]
+[[div class="scp-image-caption"]]
+Black Outline Bisexual Pride Logo
+[[/div]]
+[[/div]]
+[[/div]]
+[[div_ class="includebox"]]
+> __**白色外框**__
+> 引用到 黑標 版式：
+> {{@@[[include :scp-zh-tr:component:pride-highlighter |inc-bi= --@@]]]}}
+> 
+> 引用到 Sigma 9 版式：
+> {{@@[[include :scp-zh-tr:component:pride-highlighter |inc-s9-bi= --@@]]]}}
+
+> __**黑色外框**__
+> 引用到 黑標 版式：
+> {{@@[[include :scp-zh-tr:component:pride-highlighter |inc-bi-alt= --@@]]]}}
+> 
+> 引用到 Sigma 9 版式：
+> {{@@[[include :scp-zh-tr:component:pride-highlighter |inc-s9-bi-alt= --@@]]]}}
+[[/div]]
+
+[[/div]]
+
+[[div_ class="insidebox"]]
+++ 半性向的驕傲
+[[div class="imagebox"]]
+[[div class="scp-image-block"]]
+[[image https://scp-wiki.wdfiles.com/local--files/component:pride-highlighter/demi_logo.svg link="https://scp-wiki.wdfiles.com/local--files/component:pride-highlighter/demi_logo.svg"]]
+[[div class="scp-image-caption"]]
+White Outline Demisexual Pride Logo
+[[/div]]
+[[/div]]
+[[div class="scp-image-block"]]
+[[image https://scp-wiki.wdfiles.com/local--files/component:pride-highlighter/demi_logo_blk.svg link="https://scp-wiki.wdfiles.com/local--files/component:pride-highlighter/demi_logo_blk.svg"]]
+[[div class="scp-image-caption"]]
+Black Outline Demisexual Pride Logo
+[[/div]]
+[[/div]]
+[[/div]]
+[[div_ class="includebox"]]
+> __**白色外框**__
+> 引用到 黑標 版式：
+> {{@@[[include :scp-zh-tr:component:pride-highlighter |inc-demi= --@@]]]}}
+> 
+> 引用到 Sigma 9 版式：
+> {{@@[[include :scp-zh-tr:component:pride-highlighter |inc-s9-demi= --@@]]]}}
+
+> __**黑色外框**__
+> 引用到 黑標 版式：
+> {{@@[[include :scp-zh-tr:component:pride-highlighter |inc-demi-alt= --@@]]]}}
+> 
+> 引用到 Sigma 9 版式：
+> {{@@[[include :scp-zh-tr:component:pride-highlighter |inc-s9-demi-alt= --@@]]]}}
+[[/div]]
+
+[[/div]]
+
+[[div_ class="insidebox"]]
+++ 男同性戀的驕傲
+[[div class="imagebox"]]
+[[div class="scp-image-block"]]
+[[image https://scp-wiki.wdfiles.com/local--files/component:pride-highlighter/gm_logo.svg link="https://scp-wiki.wdfiles.com/local--files/component:pride-highlighter/gm_logo.svg"]]
+[[div class="scp-image-caption"]]
+White Outline Gay Men Pride Logo
+[[/div]]
+[[/div]]
+[[div class="scp-image-block"]]
+[[image https://scp-wiki.wdfiles.com/local--files/component:pride-highlighter/gm_logo_blk.svg link="https://scp-wiki.wdfiles.com/local--files/component:pride-highlighter/gm_logo_blk.svg"]]
+[[div class="scp-image-caption"]]
+Black Outline Gay Men Pride Logo
+[[/div]]
+[[/div]]
+[[/div]]
+[[div_ class="includebox"]]
+> __**白色外框**__
+> 引用到 黑標 版式：
+> {{@@[[include :scp-zh-tr:component:pride-highlighter |inc-gm= --@@]]]}}
+> 
+> 引用到 Sigma 9 版式：
+> {{@@[[include :scp-zh-tr:component:pride-highlighter |inc-s9-gm= --@@]]]}}
+
+> __**黑色外框**__
+> 引用到 黑標 版式：
+> {{@@[[include :scp-zh-tr:component:pride-highlighter |inc-gm-alt= --@@]]]}}
+> 
+> 引用到 Sigma 9 版式：
+> {{@@[[include :scp-zh-tr:component:pride-highlighter |inc-s9-gm-alt= --@@]]]}}
+[[/div]]
+
+[[/div]]
+
+[[div_ class="insidebox"]]
+++ 流性人[[footnote]]**譯註：**指在不同時間經歷性別認知改變的人，在他內心男孩兒和女孩兒的性別特征和表現交織在一起，而不適應傳統的女孩或是男孩的框架。[[/footnote]]的驕傲
+[[div class="imagebox"]]
+[[div class="scp-image-block"]]
+[[image https://scp-wiki.wdfiles.com/local--files/component:pride-highlighter/gf_logo.svg link="https://scp-wiki.wdfiles.com/local--files/component:pride-highlighter/gf_logo.svg"]]
+[[div class="scp-image-caption"]]
+White Outline Genderfluid Pride Logo
+[[/div]]
+[[/div]]
+[[div class="scp-image-block"]]
+[[image https://scp-wiki.wdfiles.com/local--files/component:pride-highlighter/gf_logo_blk.svg link="https://scp-wiki.wdfiles.com/local--files/component:pride-highlighter/gf_logo_blk.svg"]]
+[[div class="scp-image-caption"]]
+Black Outline Genderfluid Pride Logo
+[[/div]]
+[[/div]]
+[[/div]]
+[[div_ class="includebox"]]
+> __**白色外框**__
+> 引用到 黑標 版式：
+> {{@@[[include :scp-zh-tr:component:pride-highlighter |inc-gf= --@@]]]}}
+> 
+> 引用到 Sigma 9 版式：
+> {{@@[[include :scp-zh-tr:component:pride-highlighter |inc-s9-gf= --@@]]]}}
+
+> __**黑色外框**__
+> 引用到 黑標 版式：
+> {{@@[[include :scp-zh-tr:component:pride-highlighter |inc-gf-alt= --@@]]]}}
+> 
+> 引用到 Sigma 9 版式：
+> {{@@[[include :scp-zh-tr:component:pride-highlighter |inc-s9-gf-alt= --@@]]]}}
+[[/div]]
+
+[[/div]]
+
+[[div_ class="insidebox"]]
+++ 性別酷兒的驕傲
+[[div class="imagebox"]]
+[[div class="scp-image-block"]]
+[[image https://scp-wiki.wdfiles.com/local--files/component:pride-highlighter/gq_logo.svg link="https://scp-wiki.wdfiles.com/local--files/component:pride-highlighter/gq_logo.svg"]]
+[[div class="scp-image-caption"]]
+White Outline Genderqueer Pride Logo
+[[/div]]
+[[/div]]
+[[div class="scp-image-block"]]
+[[image https://scp-wiki.wdfiles.com/local--files/component:pride-highlighter/gq_logo_blk.svg link="https://scp-wiki.wdfiles.com/local--files/component:pride-highlighter/gq_logo_blk.svg"]]
+[[div class="scp-image-caption"]]
+Black Outline Genderqueer Pride Logo
+[[/div]]
+[[/div]]
+[[/div]]
+[[div_ class="includebox"]]
+> __**白色外框**__
+> 引用到 黑標 版式：
+> {{@@[[include :scp-zh-tr:component:pride-highlighter |inc-gq= --@@]]]}}
+> 
+> 引用到 Sigma 9 版式：
+> {{@@[[include :scp-zh-tr:component:pride-highlighter |inc-s9-gq= --@@]]]}}
+
+> __**黑色外框**__
+> 引用到 黑標 版式：
+> {{@@[[include :scp-zh-tr:component:pride-highlighter |inc-gq-alt= --@@]]]}}
+> 
+> 引用到 Sigma 9 版式：
+> {{@@[[include :scp-zh-tr:component:pride-highlighter |inc-s9-gq-alt= --@@]]]}}
+[[/div]]
+
+[[/div]]
+
+[[div_ class="insidebox"]]
+++ 雙性人的驕傲
+[[div class="imagebox"]]
+[[div class="scp-image-block"]]
+[[image https://scp-wiki.wdfiles.com/local--files/component:pride-highlighter/is_logo.svg link="https://scp-wiki.wdfiles.com/local--files/component:pride-highlighter/is_logo.svg"]]
+[[div class="scp-image-caption"]]
+White Outline Intersex Pride Logo
+[[/div]]
+[[/div]]
+[[div class="scp-image-block"]]
+[[image https://scp-wiki.wdfiles.com/local--files/component:pride-highlighter/is_logo_blk.svg link="https://scp-wiki.wdfiles.com/local--files/component:pride-highlighter/is_logo_blk.svg"]]
+[[div class="scp-image-caption"]]
+Black Outline Intersex Pride Logo
+[[/div]]
+[[/div]]
+[[/div]]
+[[div_ class="includebox"]]
+> __**白色外框**__
+> 引用到 黑標 版式：
+> {{@@[[include :scp-zh-tr:component:pride-highlighter |inc-is= --@@]]]}}
+> 
+> 引用到 Sigma 9 版式：
+> {{@@[[include :scp-zh-tr:component:pride-highlighter |inc-s9-is= --@@]]]}}
+
+> __**黑色外框**__
+> 引用到 黑標 版式：
+> {{@@[[include :scp-zh-tr:component:pride-highlighter |inc-is-alt= --@@]]]}}
+> 
+> 引用到 Sigma 9 版式：
+> {{@@[[include :scp-zh-tr:component:pride-highlighter |inc-s9-is-alt= --@@]]]}}
+[[/div]]
+
+[[/div]]
+
+[[div_ class="insidebox"]]
+++ 百合的驕傲
+[[div class="imagebox"]]
+[[div class="scp-image-block"]]
+[[image https://scp-wiki.wdfiles.com/local--files/component:pride-highlighter/lsb_logo.svg link="https://scp-wiki.wdfiles.com/local--files/component:pride-highlighter/lsb_logo.svg"]]
+[[div class="scp-image-caption"]]
+White Outline Lesbian Pride Logo
+[[/div]]
+[[/div]]
+[[div class="scp-image-block"]]
+[[image https://scp-wiki.wdfiles.com/local--files/component:pride-highlighter/lsb_logo_blk.svg link="https://scp-wiki.wdfiles.com/local--files/component:pride-highlighter/lsb_logo_blk.svg"]]
+[[div class="scp-image-caption"]]
+Black Outline Lesbian Pride Logo
+[[/div]]
+[[/div]]
+[[/div]]
+[[div_ class="includebox"]]
+> __**白色外框**__
+> 引用到 黑標 版式：
+> {{@@[[include :scp-zh-tr:component:pride-highlighter |inc-lsb= --@@]]]}}
+> 
+> 引用到 Sigma 9 版式：
+> {{@@[[include :scp-zh-tr:component:pride-highlighter |inc-s9-lsb= --@@]]]}}
+
+> __**黑色外框**__
+> 引用到 黑標 版式：
+> {{@@[[include :scp-zh-tr:component:pride-highlighter |inc-lsb-alt= --@@]]]}}
+> 
+> 引用到 Sigma 9 版式：
+> {{@@[[include :scp-zh-tr:component:pride-highlighter |inc-s9-lsb-alt= --@@]]]}}
+[[/div]]
+
+[[/div]]
+
+[[div_ class="insidebox"]]
+++ 非二元性別[[footnote]]**譯註：**指超越傳統意義上對男女的性別劃分，不單純屬於男性或女性的性別自我認同。[[/footnote]]的驕傲
+[[div class="imagebox"]]
+[[div class="scp-image-block"]]
+[[image https://scp-wiki.wdfiles.com/local--files/component:pride-highlighter/nb_logo.svg link="https://scp-wiki.wdfiles.com/local--files/component:pride-highlighter/nb_logo.svg"]]
+[[div class="scp-image-caption"]]
+White Outline Non-binary Pride Logo
+[[/div]]
+[[/div]]
+[[div class="scp-image-block"]]
+[[image https://scp-wiki.wdfiles.com/local--files/component:pride-highlighter/nb_logo_blk.svg link="https://scp-wiki.wdfiles.com/local--files/component:pride-highlighter/nb_logo_blk.svg"]]
+[[div class="scp-image-caption"]]
+Black Outline Non-binary Pride Logo
+[[/div]]
+[[/div]]
+[[/div]]
+[[div_ class="includebox"]]
+> __**白色外框**__
+> 引用到 黑標 版式：
+> {{@@[[include :scp-zh-tr:component:pride-highlighter |inc-nb= --@@]]]}}
+> 
+> 引用到 Sigma 9 版式：
+> {{@@[[include :scp-zh-tr:component:pride-highlighter |inc-s9-nb= --@@]]]}}
+
+> __**黑色外框**__
+> 引用到 黑標 版式：
+> {{@@[[include :scp-zh-tr:component:pride-highlighter |inc-nb-alt= --@@]]]}}
+> 
+> 引用到 Sigma 9 版式：
+> {{@@[[include :scp-zh-tr:component:pride-highlighter |inc-s9-nb-alt= --@@]]]}}
+[[/div]]
+
+[[/div]]
+
+[[div_ class="insidebox"]]
+++ 泛性戀的驕傲
+[[div class="imagebox"]]
+[[div class="scp-image-block"]]
+[[image https://scp-wiki.wdfiles.com/local--files/component:pride-highlighter/pan_logo.svg link="https://scp-wiki.wdfiles.com/local--files/component:pride-highlighter/pan_logo.svg"]]
+[[div class="scp-image-caption"]]
+White Outline Pansexual Pride Logo
+[[/div]]
+[[/div]]
+[[div class="scp-image-block"]]
+[[image https://scp-wiki.wdfiles.com/local--files/component:pride-highlighter/pan_logo_blk.svg link="https://scp-wiki.wdfiles.com/local--files/component:pride-highlighter/pan_logo_blk.svg"]]
+[[div class="scp-image-caption"]]
+Black Outline Pansexual Pride Logo
+[[/div]]
+[[/div]]
+[[/div]]
+[[div_ class="includebox"]]
+> __**白色外框**__
+> 引用到 黑標 版式：
+> {{@@[[include :scp-zh-tr:component:pride-highlighter |inc-pan= --@@]]]}}
+> 
+> 引用到 Sigma 9 版式：
+> {{@@[[include :scp-zh-tr:component:pride-highlighter |inc-s9-pan= --@@]]]}}
+
+> __**黑色外框**__
+> 引用到 黑標 版式：
+> {{@@[[include :scp-zh-tr:component:pride-highlighter |inc-pan-alt= --@@]]]}}
+> 
+> 引用到 Sigma 9 版式：
+> {{@@[[include :scp-zh-tr:component:pride-highlighter |inc-s9-pan-alt= --@@]]]}}
+[[/div]]
+
+[[/div]]
+
+[[div_ class="insidebox"]]
+++ 多邊戀的驕傲
+[[div class="imagebox"]]
+[[div class="scp-image-block"]]
+[[image https://scp-wiki.wdfiles.com/local--files/component:pride-highlighter/pla_logo.svg link="https://scp-wiki.wdfiles.com/local--files/component:pride-highlighter/pla_logo.svg"]]
+[[div class="scp-image-caption"]]
+White Outline Polyamorous Pride Logo
+[[/div]]
+[[/div]]
+[[div class="scp-image-block"]]
+[[image https://scp-wiki.wdfiles.com/local--files/component:pride-highlighter/pla_logo_blk.svg link="https://scp-wiki.wdfiles.com/local--files/component:pride-highlighter/pla_logo_blk.svg"]]
+[[div class="scp-image-caption"]]
+Black Outline Polyamorous Pride Logo
+[[/div]]
+[[/div]]
+[[/div]]
+[[div_ class="includebox"]]
+> __**白色外框**__
+> 引用到 黑標 版式：
+> {{@@[[include :scp-zh-tr:component:pride-highlighter |inc-pla= --@@]]]}}
+> 
+> 引用到 Sigma 9 版式：
+> {{@@[[include :scp-zh-tr:component:pride-highlighter |inc-s9-pla= --@@]]]}}
+
+> __**黑色外框**__
+> 引用到 黑標 版式：
+> {{@@[[include :scp-zh-tr:component:pride-highlighter |inc-pla-alt= --@@]]]}}
+> 
+> 引用到 Sigma 9 版式：
+> {{@@[[include :scp-zh-tr:component:pride-highlighter |inc-s9-pla-alt= --@@]]]}}
+[[/div]]
+
+[[/div]]
+
+[[div_ class="insidebox"]]
+++ 多性戀的驕傲
+[[div class="imagebox"]]
+[[div class="scp-image-block"]]
+[[image https://scp-wiki.wdfiles.com/local--files/component:pride-highlighter/poly_logo.svg link="https://scp-wiki.wdfiles.com/local--files/component:pride-highlighter/poly_logo.svg"]]
+[[div class="scp-image-caption"]]
+White Outline Polysexual Pride Logo
+[[/div]]
+[[/div]]
+[[div class="scp-image-block"]]
+[[image https://scp-wiki.wdfiles.com/local--files/component:pride-highlighter/poly_logo_blk.svg link="https://scp-wiki.wdfiles.com/local--files/component:pride-highlighter/poly_logo_blk.svg"]]
+[[div class="scp-image-caption"]]
+Black Outline Polysexual Pride Logo
+[[/div]]
+[[/div]]
+[[/div]]
+[[div_ class="includebox"]]
+> __**白色外框**__
+> 引用到 黑標 版式：
+> {{@@[[include :scp-zh-tr:component:pride-highlighter |inc-poly= --@@]]]}}
+> 
+> 引用到 Sigma 9 版式：
+> {{@@[[include :scp-zh-tr:component:pride-highlighter |inc-s9-poly= --@@]]]}}
+
+> __**黑色外框**__
+> 引用到 黑標 版式：
+> {{@@[[include :scp-zh-tr:component:pride-highlighter |inc-poly-alt= --@@]]]}}
+> 
+> 引用到 Sigma 9 版式：
+> {{@@[[include :scp-zh-tr:component:pride-highlighter |inc-s9-poly-alt= --@@]]]}}
+[[/div]]
+
+[[/div]]
+
+[[div_ class="insidebox"]]
+++ 跨性別的驕傲
+[[div class="imagebox"]]
+[[div class="scp-image-block"]]
+[[image https://scp-wiki.wdfiles.com/local--files/component:pride-highlighter/tg_logo.svg link="https://scp-wiki.wdfiles.com/local--files/component:pride-highlighter/tg_logo.svg"]]
+[[div class="scp-image-caption"]]
+White Outline Transgender Pride Logo
+[[/div]]
+[[/div]]
+[[div class="scp-image-block"]]
+[[image https://scp-wiki.wdfiles.com/local--files/component:pride-highlighter/tg_logo_blk.svg link="https://scp-wiki.wdfiles.com/local--files/component:pride-highlighter/tg_logo_blk.svg"]]
+[[div class="scp-image-caption"]]
+Black Outline Transgender Pride Logo
+[[/div]]
+[[/div]]
+[[/div]]
+[[div_ class="includebox"]]
+> __**白色外框**__
+> 引用到 黑標 版式：
+> {{@@[[include :scp-zh-tr:component:pride-highlighter |inc-tg= --@@]]]}}
+> 
+> 引用到 Sigma 9 版式：
+> {{@@[[include :scp-zh-tr:component:pride-highlighter |inc-s9-tg= --@@]]]}}
+
+> __**黑色外框**__
+> 引用到 黑標 版式：
+> {{@@[[include :scp-zh-tr:component:pride-highlighter |inc-tg-alt= --@@]]]}}
+> 
+> 引用到 Sigma 9 版式：
+> {{@@[[include :scp-zh-tr:component:pride-highlighter |inc-s9-tg-alt= --@@]]]}}
+[[/div]]
+
+[[/div]]
+[[/div]]
+-----
+[[=]]
++ 另外的驕傲Logo
+[[/=]]
+[[div_ class="pridebox"]]
+[[div_ class="insidebox"]]
+++ 粉彩色驕傲
+[[div class="imagebox"]]
+[[div class="scp-image-block"]]
+[[image https://scp-wiki.wdfiles.com/local--files/component:pride-highlighter/pgp_logo.svg link="https://scp-wiki.wdfiles.com/local--files/component:pride-highlighter/pgp_logo.svg"]]
+[[div class="scp-image-caption"]]
+White Outline Pastel LGBTQ+ Pride Logo
+[[/div]]
+[[/div]]
+[[div class="scp-image-block"]]
+[[image https://scp-wiki.wdfiles.com/local--files/component%3Apride-highlighter/pgp_logo_blk-2.svg link="https://scp-wiki.wdfiles.com/local--files/component%3Apride-highlighter/pgp_logo_blk-2.svg"]]
+[[div class="scp-image-caption"]]
+Black Outline Pastel LGBTQ+ Pride Logo
+[[/div]]
+[[/div]]
+[[/div]]
+[[div_ class="includebox"]]
+> __**白色外框**__
+> 引用到 黑標 版式：
+> {{@@[[include :scp-zh-tr:component:pride-highlighter |inc-plgbt= --@@]]]}}
+> 
+> 引用到 Sigma 9 版式：
+> {{@@[[include :scp-zh-tr:component:pride-highlighter |inc-s9-plgbt= --@@]]]}}
+
+> __**黑色外框**__
+> 引用到 黑標 版式：
+> {{@@[[include :scp-zh-tr:component:pride-highlighter |inc-plgbt-alt= --@@]]]}}
+> 
+> 引用到 Sigma 9 版式：
+> {{@@[[include :scp-zh-tr:component:pride-highlighter |inc-s9-plgbt-alt= --@@]]]}}
+[[/div]]
+
+[[/div]]
+
+
+[[div_ class="insidebox"]]
+++ 動態驕傲標誌
+[[div class="imagebox"]]
+[[div class="scp-image-block"]]
+[[div style="width: 90%; height: 0; padding-bottom: 90%; background-image: var(--anim-pride); background-position: center; background-size: contain; background-repeat: no-repeat;"]]
+[[/div]]
+[[div class="scp-image-caption"]]
+//Animated Logo by [[*user 7happy7]]!//
+[[/div]]
+[[/div]]
+[[/div]]
+[[div_ class="includebox"]]
+>引用到 黑標 版式
+> {{@@[[include :scp-zh-tr:component:pride-highlighter |inc-animp= --@@]]]}}
+
+> 引用到 Sigma 9 版式
+> {{@@[[include :scp-zh-tr:component:pride-highlighter |inc-s9-animp= --@@]]]}}
+[[/div]]
+
+[[/div]]
+
+
+[[div_ class="insidebox"]]
+++ 請讓我（[[*user Woedenaz]]）知道，您想要讓我再添加什麼驕傲標誌上來，我很樂意為您效勞！
+[[div class="scp-image-block"]]
+[[# addmore]]
+[[/div]]
+[[/div]]
+
+[[/div]]
+
+------
+
+[[=]]
++++ [[[theme:scp-trans-pride|也來看看 Ellie3 的跨性別驕傲主題！（僅限 Sigma 9）]]]
+[[/=]]
+
+------
+
+[[/iftags]]
+
+
+[!-- {$inc-lgbt}
+[[module css]]
+:root {
+    --logo-image: url("https://scp-wiki.wdfiles.com/local--files/component%3Apride-highlighter/lgbtqp_logo.svg") !important;
+}
+[[/module]]
+[!----]
+
+[!-- {$inc-clgbt}
+[[module css]]
+:root {
+    --logo-image: url("https://scp-wiki.wdfiles.com/local--files/component%3Apride-highlighter/gp_logo.svg") !important;
+}
+[[/module]]
+[!----]
+
+[!-- {$inc-agen}
+[[module css]]
+:root {
+    --logo-image: url("https://scp-wiki.wdfiles.com/local--files/component%3Apride-highlighter/agen_logo.svg") !important;
+}
+[[/module]]
+[!----]
+
+[!-- {$inc-ally}
+[[module css]]
+:root {
+    --logo-image: url("https://scp-wiki.wdfiles.com/local--files/component%3Apride-highlighter/ally_logo.svg") !important;
+}
+[[/module]]
+[!----]
+
+[!-- {$inc-aro}
+[[module css]]
+:root {
+    --logo-image: url("https://scp-wiki.wdfiles.com/local--files/component%3Apride-highlighter/aro_logo.svg") !important;
+}
+[[/module]]
+[!----]
+
+
+[!-- {$inc-ace}
+[[module css]]
+:root {
+    --logo-image: url("https://scp-wiki.wdfiles.com/local--files/component%3Apride-highlighter/ace_logo.svg") !important;
+}
+[[/module]]
+[!----]
+
+[!-- {$inc-bi}
+[[module css]]
+:root {
+    --logo-image: url("https://scp-wiki.wdfiles.com/local--files/component:pride-highlighter/bi_logo.svg") !important;
+}
+[[/module]]
+[!----]
+
+[!-- {$inc-gm}
+[[module css]]
+:root {
+    --logo-image: url("https://scp-wiki.wdfiles.com/local--files/component:pride-highlighter/gm_logo.svg") !important;
+}
+[[/module]]
+[!----]
+
+[!-- {$inc-demi}
+[[module css]]
+:root {
+    --logo-image: url("https://scp-wiki.wdfiles.com/local--files/component:pride-highlighter/demi_logo.svg") !important;
+}
+[[/module]]
+[!----]
+
+[!-- {$inc-gf}
+[[module css]]
+:root {
+    --logo-image: url("https://scp-wiki.wdfiles.com/local--files/component%3Apride-highlighter/gf_logo.svg") !important;
+}
+[[/module]]
+[!----]
+
+[!-- {$inc-gq}
+[[module css]]
+:root {
+    --logo-image: url("https://scp-wiki.wdfiles.com/local--files/component%3Apride-highlighter/gq_logo.svg") !important;
+}
+[[/module]]
+[!----]
+
+[!-- {$inc-is}
+[[module css]]
+:root {
+    --logo-image: url("https://scp-wiki.wdfiles.com/local--files/component%3Apride-highlighter/is_logo.svg") !important;
+}
+[[/module]]
+[!----]
+
+[!-- {$inc-lsb}
+[[module css]]
+:root {
+    --logo-image: url("https://scp-wiki.wdfiles.com/local--files/component%3Apride-highlighter/lsb_logo.svg") !important;
+}
+[[/module]]
+[!----]
+
+[!-- {$inc-nb}
+[[module css]]
+:root {
+    --logo-image: url("https://scp-wiki.wdfiles.com/local--files/component%3Apride-highlighter/nb_logo.svg") !important;
+}
+[[/module]]
+[!----]
+
+[!-- {$inc-pan}
+[[module css]]
+:root {
+    --logo-image: url("https://scp-wiki.wdfiles.com/local--files/component%3Apride-highlighter/pan_logo.svg") !important;
+}
+[[/module]]
+[!----]
+
+[!-- {$inc-pla}
+[[module css]]
+:root {
+    --logo-image: url("https://scp-wiki.wdfiles.com/local--files/component%3Apride-highlighter/pla_logo.svg") !important;
+}
+[[/module]]
+[!----]
+
+[!-- {$inc-poly}
+[[module css]]
+:root {
+    --logo-image: url("https://scp-wiki.wdfiles.com/local--files/component%3Apride-highlighter/poly_logo.svg") !important;
+}
+[[/module]]
+[!----]
+
+[!-- {$inc-tg}
+[[module css]]
+:root {
+    --logo-image: url("https://scp-wiki.wdfiles.com/local--files/component%3Apride-highlighter/tg_logo.svg") !important;
+}
+[[/module]]
+[!----]
+
+[!-- {$inc-plgbt}
+[[module css]]
+:root {
+    --logo-image: url("https://scp-wiki.wdfiles.com/local--files/component%3Apride-highlighter/pgp_logo.svg") !important;
+}
+[[/module]]
+[!----]
+
+[!-- {$inc-s9-lgbt}
+[[module css]]
+#header {
+    background: url("https://scp-wiki.wdfiles.com/local--files/component%3Apride-highlighter/lgbtqp_logo.svg") 15px 40px no-repeat !important;
+    background-size: 6rem !important;
+}
+@media (max-width: 580px) and (min-width: 480px) {
+    #header {
+     background-position: 0.5em 4.5em  !important;
+     background-size: 66px 66px  !important;
+    }
+}
+
+@media (max-width: 479px) {
+    #header {
+     background-position: 0 5.5em !important;
+     background-size: 55px 55px !important;
+    }
+}
+[[/module]]
+[!----]
+
+[!-- {$inc-s9-clgbt}
+[[module css]]
+#header {
+    background: url("https://scp-wiki.wdfiles.com/local--files/component%3Apride-highlighter/gp_logo.svg") 15px 40px no-repeat !important;
+    background-size: 6rem !important;
+}
+@media (max-width: 580px) and (min-width: 480px) {
+    #header {
+     background-position: 0.5em 4.5em  !important;
+     background-size: 66px 66px  !important;
+    }
+}
+
+@media (max-width: 479px) {
+    #header {
+     background-position: 0 5.5em !important;
+     background-size: 55px 55px !important;
+    }
+}
+[[/module]]
+[!----]
+
+[!-- {$inc-s9-agen}
+[[module css]]
+#header {
+    background: url("https://scp-wiki.wdfiles.com/local--files/component%3Apride-highlighter/gp_agen.svg") 15px 40px no-repeat !important;
+    background-size: 6rem !important;
+}
+@media (max-width: 580px) and (min-width: 480px) {
+    #header {
+     background-position: 0.5em 4.5em  !important;
+     background-size: 66px 66px  !important;
+    }
+}
+
+@media (max-width: 479px) {
+    #header {
+     background-position: 0 5.5em !important;
+     background-size: 55px 55px !important;
+    }
+}
+[[/module]]
+[!----]
+
+[!-- {$inc-s9-ally}
+[[module css]]
+#header {
+    background: url("https://scp-wiki.wdfiles.com/local--files/component%3Apride-highlighter/ally_logo.svg") 15px 40px no-repeat !important;
+    background-size: 6rem !important;
+}
+@media (max-width: 580px) and (min-width: 480px) {
+    #header {
+     background-position: 0.5em 4.5em  !important;
+     background-size: 66px 66px  !important;
+    }
+}
+
+@media (max-width: 479px) {
+    #header {
+     background-position: 0 5.5em !important;
+     background-size: 55px 55px !important;
+    }
+}
+[[/module]]
+[!----]
+
+[!-- {$inc-s9-aro}
+[[module css]]
+#header {
+    background: url("https://scp-wiki.wdfiles.com/local--files/component%3Apride-highlighter/aro_logo.svg") 15px 40px no-repeat !important;
+    background-size: 6rem !important;
+}
+@media (max-width: 580px) and (min-width: 480px) {
+    #header {
+     background-position: 0.5em 4.5em  !important;
+     background-size: 66px 66px  !important;
+    }
+}
+
+@media (max-width: 479px) {
+    #header {
+     background-position: 0 5.5em !important;
+     background-size: 55px 55px !important;
+    }
+}
+[[/module]]
+[!----]
+
+[!-- {$inc-s9-ace}
+[[module css]]
+#header {
+    background: url("https://scp-wiki.wdfiles.com/local--files/component%3Apride-highlighter/ace_logo.svg") 15px 40px no-repeat !important;
+    background-size: 6rem !important;
+}
+@media (max-width: 580px) and (min-width: 480px) {
+    #header {
+     background-position: 0.5em 4.5em  !important;
+     background-size: 66px 66px  !important;
+    }
+}
+
+@media (max-width: 479px) {
+    #header {
+     background-position: 0 5.5em !important;
+     background-size: 55px 55px !important;
+    }
+}
+[[/module]]
+[!----]
+
+[!-- {$inc-s9-bi}
+[[module css]]
+#header {
+    background: url("https://scp-wiki.wdfiles.com/local--files/component%3Apride-highlighter/bi_logo.svg") 15px 40px no-repeat !important;
+    background-size: 6rem !important;
+}
+@media (max-width: 580px) and (min-width: 480px) {
+    #header {
+     background-position: 0.5em 4.5em  !important;
+     background-size: 66px 66px  !important;
+    }
+}
+
+@media (max-width: 479px) {
+    #header {
+     background-position: 0 5.5em !important;
+     background-size: 55px 55px !important;
+    }
+}
+[[/module]]
+[!----]
+
+[!-- {$inc-s9-gm}
+[[module css]]
+#header {
+    background: url("https://scp-wiki.wdfiles.com/local--files/component%3Apride-highlighter/gm_logo.svg") 15px 40px no-repeat !important;
+    background-size: 6rem !important;
+}
+@media (max-width: 580px) and (min-width: 480px) {
+    #header {
+     background-position: 0.5em 4.5em  !important;
+     background-size: 66px 66px  !important;
+    }
+}
+
+@media (max-width: 479px) {
+    #header {
+     background-position: 0 5.5em !important;
+     background-size: 55px 55px !important;
+    }
+}
+[[/module]]
+[!----]
+
+[!-- {$inc-s9-demi}
+[[module css]]
+#header {
+    background: url("https://scp-wiki.wdfiles.com/local--files/component%3Apride-highlighter/demi_logo.svg") 15px 40px no-repeat !important;
+    background-size: 6rem !important;
+}
+@media (max-width: 580px) and (min-width: 480px) {
+    #header {
+     background-position: 0.5em 4.5em  !important;
+     background-size: 66px 66px  !important;
+    }
+}
+
+@media (max-width: 479px) {
+    #header {
+     background-position: 0 5.5em !important;
+     background-size: 55px 55px !important;
+    }
+}
+[[/module]]
+[!----]
+
+[!-- {$inc-s9-gf}
+[[module css]]
+#header {
+    background: url("https://scp-wiki.wdfiles.com/local--files/component%3Apride-highlighter/gf_logo.svg") 15px 40px no-repeat !important;
+    background-size: 6rem !important;
+}
+@media (max-width: 580px) and (min-width: 480px) {
+    #header {
+     background-position: 0.5em 4.5em  !important;
+     background-size: 66px 66px  !important;
+    }
+}
+
+@media (max-width: 479px) {
+    #header {
+     background-position: 0 5.5em !important;
+     background-size: 55px 55px !important;
+    }
+}
+[[/module]]
+[!----]
+
+[!-- {$inc-s9-gq}
+[[module css]]
+#header {
+    background: url("https://scp-wiki.wdfiles.com/local--files/component%3Apride-highlighter/gq_logo.svg") 15px 40px no-repeat !important;
+    background-size: 6rem !important;
+}
+@media (max-width: 580px) and (min-width: 480px) {
+    #header {
+     background-position: 0.5em 4.5em  !important;
+     background-size: 66px 66px  !important;
+    }
+}
+
+@media (max-width: 479px) {
+    #header {
+     background-position: 0 5.5em !important;
+     background-size: 55px 55px !important;
+    }
+}
+[[/module]]
+[!----]
+
+[!-- {$inc-s9-is}
+[[module css]]
+#header {
+    background: url("https://scp-wiki.wdfiles.com/local--files/component%3Apride-highlighter/is_logo.svg") 15px 40px no-repeat !important;
+    background-size: 6rem !important;
+}
+@media (max-width: 580px) and (min-width: 480px) {
+    #header {
+     background-position: 0.5em 4.5em  !important;
+     background-size: 66px 66px  !important;
+    }
+}
+
+@media (max-width: 479px) {
+    #header {
+     background-position: 0 5.5em !important;
+     background-size: 55px 55px !important;
+    }
+}
+[[/module]]
+[!----]
+
+[!-- {$inc-s9-lsb}
+[[module css]]
+#header {
+    background: url("https://scp-wiki.wdfiles.com/local--files/component%3Apride-highlighter/lsb_logo.svg") 15px 40px no-repeat !important;
+    background-size: 6rem !important;
+}
+@media (max-width: 580px) and (min-width: 480px) {
+    #header {
+     background-position: 0.5em 4.5em  !important;
+     background-size: 66px 66px  !important;
+    }
+}
+
+@media (max-width: 479px) {
+    #header {
+     background-position: 0 5.5em !important;
+     background-size: 55px 55px !important;
+    }
+}
+[[/module]]
+[!----]
+
+[!-- {$inc-s9-nb}
+[[module css]]
+#header {
+    background: url("https://scp-wiki.wdfiles.com/local--files/component%3Apride-highlighter/nb_logo.svg") 15px 40px no-repeat !important;
+    background-size: 6rem !important;
+}
+@media (max-width: 580px) and (min-width: 480px) {
+    #header {
+     background-position: 0.5em 4.5em  !important;
+     background-size: 66px 66px  !important;
+    }
+}
+
+@media (max-width: 479px) {
+    #header {
+     background-position: 0 5.5em !important;
+     background-size: 55px 55px !important;
+    }
+}
+[[/module]]
+[!----]
+
+[!-- {$inc-s9-pan}
+[[module css]]
+#header {
+    background: url("https://scp-wiki.wdfiles.com/local--files/component%3Apride-highlighter/pan_logo.svg") 15px 40px no-repeat !important;
+    background-size: 6rem !important;
+}
+@media (max-width: 580px) and (min-width: 480px) {
+    #header {
+     background-position: 0.5em 4.5em  !important;
+     background-size: 66px 66px  !important;
+    }
+}
+
+@media (max-width: 479px) {
+    #header {
+     background-position: 0 5.5em !important;
+     background-size: 55px 55px !important;
+    }
+}
+[[/module]]
+[!----]
+
+[!-- {$inc-s9-pla}
+[[module css]]
+#header {
+    background: url("https://scp-wiki.wdfiles.com/local--files/component%3Apride-highlighter/pla.svg") 15px 40px no-repeat !important;
+    background-size: 6rem !important;
+}
+@media (max-width: 580px) and (min-width: 480px) {
+    #header {
+     background-position: 0.5em 4.5em  !important;
+     background-size: 66px 66px  !important;
+    }
+}
+
+@media (max-width: 479px) {
+    #header {
+     background-position: 0 5.5em !important;
+     background-size: 55px 55px !important;
+    }
+}
+[[/module]]
+[!----]
+
+[!-- {$inc-s9-poly}
+[[module css]]
+#header {
+    background: url("https://scp-wiki.wdfiles.com/local--files/component%3Apride-highlighter/poly_logo.svg") 15px 40px no-repeat !important;
+    background-size: 6rem !important;
+}
+@media (max-width: 580px) and (min-width: 480px) {
+    #header {
+     background-position: 0.5em 4.5em  !important;
+     background-size: 66px 66px  !important;
+    }
+}
+
+@media (max-width: 479px) {
+    #header {
+     background-position: 0 5.5em !important;
+     background-size: 55px 55px !important;
+    }
+}
+[[/module]]
+[!----]
+
+[!-- {$inc-s9-tg}
+[[module css]]
+#header {
+    background: url("https://scp-wiki.wdfiles.com/local--files/component%3Apride-highlighter/tg_logo.svg") 15px 40px no-repeat !important;
+    background-size: 6rem !important;
+}
+@media (max-width: 580px) and (min-width: 480px) {
+    #header {
+     background-position: 0.5em 4.5em  !important;
+     background-size: 66px 66px  !important;
+    }
+}
+
+@media (max-width: 479px) {
+    #header {
+     background-position: 0 5.5em !important;
+     background-size: 55px 55px !important;
+    }
+}
+[[/module]]
+[!----]
+
+[!-- {$inc-s9-plgbt}
+[[module css]]
+#header {
+    background: url("https://scp-wiki.wdfiles.com/local--files/component%3Apride-highlighter/pgp_logo.svg") 15px 40px no-repeat !important;
+    background-size: 6rem !important;
+}
+@media (max-width: 580px) and (min-width: 480px) {
+    #header {
+     background-position: 0.5em 4.5em  !important;
+     background-size: 66px 66px  !important;
+    }
+}
+
+@media (max-width: 479px) {
+    #header {
+     background-position: 0 5.5em !important;
+     background-size: 55px 55px !important;
+    }
+}
+[[/module]]
+[!----]
+
+[!-- {$inc-lgbt-alt}
+[[module css]]
+:root {
+    --logo-image: url("https://scp-wiki.wdfiles.com/local--files/component%3Apride-highlighter/lgbtqp_logo_blk.svg") !important;
+}
+[[/module]]
+[!----]
+
+[!-- {$inc-clgbt-alt}
+[[module css]]
+:root {
+    --logo-image: url("https://scp-wiki.wdfiles.com/local--files/component%3Apride-highlighter/gp_logo_blk.svg") !important;
+}
+[[/module]]
+[!----]
+
+[!-- {$inc-agen-alt}
+[[module css]]
+:root {
+    --logo-image: url("https://scp-wiki.wdfiles.com/local--files/component%3Apride-highlighter/agen_logo_blk.svg") !important;
+}
+[[/module]]
+[!----]
+
+[!-- {$inc-ally-alt}
+[[module css]]
+:root {
+    --logo-image: url("https://scp-wiki.wdfiles.com/local--files/component%3Apride-highlighter/ally_logo_blk.svg") !important;
+}
+[[/module]]
+[!----]
+
+[!-- {$inc-aro-alt}
+[[module css]]
+:root {
+    --logo-image: url("https://scp-wiki.wdfiles.com/local--files/component%3Apride-highlighter/aro_logo_blk.svg") !important;
+}
+[[/module]]
+[!----]
+
+
+[!-- {$inc-ace-alt}
+[[module css]]
+:root {
+    --logo-image: url("https://scp-wiki.wdfiles.com/local--files/component%3Apride-highlighter/ace_logo_blk.svg") !important;
+}
+[[/module]]
+[!----]
+
+[!-- {$inc-bi-alt}
+[[module css]]
+:root {
+    --logo-image: url("https://scp-wiki.wdfiles.com/local--files/component:pride-highlighter/bi_logo_blk.svg") !important;
+}
+[[/module]]
+[!----]
+
+[!-- {$inc-gm-alt}
+[[module css]]
+:root {
+    --logo-image: url("https://scp-wiki.wdfiles.com/local--files/component:pride-highlighter/gm_logo_blk.svg") !important;
+}
+[[/module]]
+[!----]
+
+[!-- {$inc-gf-alt}
+[[module css]]
+:root {
+    --logo-image: url("https://scp-wiki.wdfiles.com/local--files/component%3Apride-highlighter/gf_logo_blk.svg") !important;
+}
+[[/module]]
+[!----]
+
+[!-- {$inc-gq-alt}
+[[module css]]
+:root {
+    --logo-image: url("https://scp-wiki.wdfiles.com/local--files/component%3Apride-highlighter/gq_logo_blk.svg") !important;
+}
+[[/module]]
+[!----]
+
+[!-- {$inc-is-alt}
+[[module css]]
+:root {
+    --logo-image: url("https://scp-wiki.wdfiles.com/local--files/component%3Apride-highlighter/is_logo_blk.svg") !important;
+}
+[[/module]]
+[!----]
+
+[!-- {$inc-lsb-alt}
+[[module css]]
+:root {
+    --logo-image: url("https://scp-wiki.wdfiles.com/local--files/component%3Apride-highlighter/lsb_logo_blk.svg") !important;
+}
+[[/module]]
+[!----]
+
+[!-- {$inc-nb-alt}
+[[module css]]
+:root {
+    --logo-image: url("https://scp-wiki.wdfiles.com/local--files/component%3Apride-highlighter/nb_logo_blk.svg") !important;
+}
+[[/module]]
+[!----]
+
+[!-- {$inc-pan-alt}
+[[module css]]
+:root {
+    --logo-image: url("https://scp-wiki.wdfiles.com/local--files/component%3Apride-highlighter/pan_logo_blk.svg") !important;
+}
+[[/module]]
+[!----]
+
+[!-- {$inc-pla-alt}
+[[module css]]
+:root {
+    --logo-image: url("https://scp-wiki.wdfiles.com/local--files/component%3Apride-highlighter/pla_logo_blk.svg") !important;
+}
+[[/module]]
+[!----]
+
+[!-- {$inc-poly-alt}
+[[module css]]
+:root {
+    --logo-image: url("https://scp-wiki.wdfiles.com/local--files/component%3Apride-highlighter/poly_logo_blk.svg") !important;
+}
+[[/module]]
+[!----]
+
+[!-- {$inc-tg-alt}
+[[module css]]
+:root {
+    --logo-image: url("https://scp-wiki.wdfiles.com/local--files/component%3Apride-highlighter/tg_logo_blk.svg") !important;
+}
+[[/module]]
+[!----]
+
+[!-- {$inc-plgbt-alt}
+[[module css]]
+:root {
+    --logo-image: url("https://scp-wiki.wdfiles.com/local--files/component%3Apride-highlighter/pgp_logo_blk-2.svg") !important;
+}
+[[/module]]
+[!----]
+
+[!-- {$inc-s9-lgbt-alt}
+[[module css]]
+#header {
+    background: url("https://scp-wiki.wdfiles.com/local--files/component%3Apride-highlighter/lgbtqp_logo_blk.svg") 15px 40px no-repeat !important;
+    background-size: 6rem !important;
+}
+@media (max-width: 580px) and (min-width: 480px) {
+    #header {
+     background-position: 0.5em 4.5em  !important;
+     background-size: 66px 66px  !important;
+    }
+}
+
+@media (max-width: 479px) {
+    #header {
+     background-position: 0 5.5em !important;
+     background-size: 55px 55px !important;
+    }
+}
+[[/module]]
+[!----]
+
+[!-- {$inc-s9-clgbt-alt}
+[[module css]]
+#header {
+    background: url("https://scp-wiki.wdfiles.com/local--files/component%3Apride-highlighter/gp_logo_blk.svg") 15px 40px no-repeat !important;
+    background-size: 6rem !important;
+}
+@media (max-width: 580px) and (min-width: 480px) {
+    #header {
+     background-position: 0.5em 4.5em  !important;
+     background-size: 66px 66px  !important;
+    }
+}
+
+@media (max-width: 479px) {
+    #header {
+     background-position: 0 5.5em !important;
+     background-size: 55px 55px !important;
+    }
+}
+[[/module]]
+[!----]
+
+[!-- {$inc-s9-agen-alt}
+[[module css]]
+#header {
+    background: url("https://scp-wiki.wdfiles.com/local--files/component%3Apride-highlighter/gp_agen_blk.svg") 15px 40px no-repeat !important;
+    background-size: 6rem !important;
+}
+@media (max-width: 580px) and (min-width: 480px) {
+    #header {
+     background-position: 0.5em 4.5em  !important;
+     background-size: 66px 66px  !important;
+    }
+}
+
+@media (max-width: 479px) {
+    #header {
+     background-position: 0 5.5em !important;
+     background-size: 55px 55px !important;
+    }
+}
+[[/module]]
+[!----]
+
+[!-- {$inc-s9-ally-alt}
+[[module css]]
+#header {
+    background: url("https://scp-wiki.wdfiles.com/local--files/component%3Apride-highlighter/ally_logo_blk.svg") 15px 40px no-repeat !important;
+    background-size: 6rem !important;
+}
+@media (max-width: 580px) and (min-width: 480px) {
+    #header {
+     background-position: 0.5em 4.5em  !important;
+     background-size: 66px 66px  !important;
+    }
+}
+
+@media (max-width: 479px) {
+    #header {
+     background-position: 0 5.5em !important;
+     background-size: 55px 55px !important;
+    }
+}
+[[/module]]
+[!----]
+
+[!-- {$inc-s9-aro-alt}
+[[module css]]
+#header {
+    background: url("https://scp-wiki.wdfiles.com/local--files/component%3Apride-highlighter/aro_logo_blk.svg") 15px 40px no-repeat !important;
+    background-size: 6rem !important;
+}
+@media (max-width: 580px) and (min-width: 480px) {
+    #header {
+     background-position: 0.5em 4.5em  !important;
+     background-size: 66px 66px  !important;
+    }
+}
+
+@media (max-width: 479px) {
+    #header {
+     background-position: 0 5.5em !important;
+     background-size: 55px 55px !important;
+    }
+}
+[[/module]]
+[!----]
+
+[!-- {$inc-s9-ace-alt}
+[[module css]]
+#header {
+    background: url("https://scp-wiki.wdfiles.com/local--files/component%3Apride-highlighter/ace_logo_blk.svg") 15px 40px no-repeat !important;
+    background-size: 6rem !important;
+}
+@media (max-width: 580px) and (min-width: 480px) {
+    #header {
+     background-position: 0.5em 4.5em  !important;
+     background-size: 66px 66px  !important;
+    }
+}
+
+@media (max-width: 479px) {
+    #header {
+     background-position: 0 5.5em !important;
+     background-size: 55px 55px !important;
+    }
+}
+[[/module]]
+[!----]
+
+[!-- {$inc-s9-bi-alt}
+[[module css]]
+#header {
+    background: url("https://scp-wiki.wdfiles.com/local--files/component%3Apride-highlighter/bi_logo_blk.svg") 15px 40px no-repeat !important;
+    background-size: 6rem !important;
+}
+@media (max-width: 580px) and (min-width: 480px) {
+    #header {
+     background-position: 0.5em 4.5em  !important;
+     background-size: 66px 66px  !important;
+    }
+}
+
+@media (max-width: 479px) {
+    #header {
+     background-position: 0 5.5em !important;
+     background-size: 55px 55px !important;
+    }
+}
+[[/module]]
+[!----]
+
+[!-- {$inc-s9-gm-alt}
+[[module css]]
+#header {
+    background: url("https://scp-wiki.wdfiles.com/local--files/component%3Apride-highlighter/gm_logo_blk.svg") 15px 40px no-repeat !important;
+    background-size: 6rem !important;
+}
+@media (max-width: 580px) and (min-width: 480px) {
+    #header {
+     background-position: 0.5em 4.5em  !important;
+     background-size: 66px 66px  !important;
+    }
+}
+
+@media (max-width: 479px) {
+    #header {
+     background-position: 0 5.5em !important;
+     background-size: 55px 55px !important;
+    }
+}
+[[/module]]
+[!----]
+
+[!-- {$inc-s9-gf-alt}
+[[module css]]
+#header {
+    background: url("https://scp-wiki.wdfiles.com/local--files/component%3Apride-highlighter/gf_logo_blk.svg") 15px 40px no-repeat !important;
+    background-size: 6rem !important;
+}
+@media (max-width: 580px) and (min-width: 480px) {
+    #header {
+     background-position: 0.5em 4.5em  !important;
+     background-size: 66px 66px  !important;
+    }
+}
+
+@media (max-width: 479px) {
+    #header {
+     background-position: 0 5.5em !important;
+     background-size: 55px 55px !important;
+    }
+}
+[[/module]]
+[!----]
+
+[!-- {$inc-s9-gq-alt}
+[[module css]]
+#header {
+    background: url("https://scp-wiki.wdfiles.com/local--files/component%3Apride-highlighter/gq_logo_blk.svg") 15px 40px no-repeat !important;
+    background-size: 6rem !important;
+}
+@media (max-width: 580px) and (min-width: 480px) {
+    #header {
+     background-position: 0.5em 4.5em  !important;
+     background-size: 66px 66px  !important;
+    }
+}
+
+@media (max-width: 479px) {
+    #header {
+     background-position: 0 5.5em !important;
+     background-size: 55px 55px !important;
+    }
+}
+[[/module]]
+[!----]
+
+[!-- {$inc-s9-is-alt}
+[[module css]]
+#header {
+    background: url("https://scp-wiki.wdfiles.com/local--files/component%3Apride-highlighter/is_logo_blk.svg") 15px 40px no-repeat !important;
+    background-size: 6rem !important;
+}
+@media (max-width: 580px) and (min-width: 480px) {
+    #header {
+     background-position: 0.5em 4.5em  !important;
+     background-size: 66px 66px  !important;
+    }
+}
+
+@media (max-width: 479px) {
+    #header {
+     background-position: 0 5.5em !important;
+     background-size: 55px 55px !important;
+    }
+}
+[[/module]]
+[!----]
+
+[!-- {$inc-s9-lsb-alt}
+[[module css]]
+#header {
+    background: url("https://scp-wiki.wdfiles.com/local--files/component%3Apride-highlighter/lsb_logo_blk.svg") 15px 40px no-repeat !important;
+    background-size: 6rem !important;
+}
+@media (max-width: 580px) and (min-width: 480px) {
+    #header {
+     background-position: 0.5em 4.5em  !important;
+     background-size: 66px 66px  !important;
+    }
+}
+
+@media (max-width: 479px) {
+    #header {
+     background-position: 0 5.5em !important;
+     background-size: 55px 55px !important;
+    }
+}
+[[/module]]
+[!----]
+
+[!-- {$inc-s9-nb-alt}
+[[module css]]
+#header {
+    background: url("https://scp-wiki.wdfiles.com/local--files/component%3Apride-highlighter/nb_logo_blk.svg") 15px 40px no-repeat !important;
+    background-size: 6rem !important;
+}
+@media (max-width: 580px) and (min-width: 480px) {
+    #header {
+     background-position: 0.5em 4.5em  !important;
+     background-size: 66px 66px  !important;
+    }
+}
+
+@media (max-width: 479px) {
+    #header {
+     background-position: 0 5.5em !important;
+     background-size: 55px 55px !important;
+    }
+}
+[[/module]]
+[!----]
+
+[!-- {$inc-s9-pan-alt}
+[[module css]]
+#header {
+    background: url("https://scp-wiki.wdfiles.com/local--files/component%3Apride-highlighter/pan_logo_blk.svg") 15px 40px no-repeat !important;
+    background-size: 6rem !important;
+}
+@media (max-width: 580px) and (min-width: 480px) {
+    #header {
+     background-position: 0.5em 4.5em  !important;
+     background-size: 66px 66px  !important;
+    }
+}
+
+@media (max-width: 479px) {
+    #header {
+     background-position: 0 5.5em !important;
+     background-size: 55px 55px !important;
+    }
+}
+[[/module]]
+[!----]
+
+[!-- {$inc-s9-pla-alt}
+[[module css]]
+#header {
+    background: url("https://scp-wiki.wdfiles.com/local--files/component%3Apride-highlighter/pla_logo_blk.svg") 15px 40px no-repeat !important;
+    background-size: 6rem !important;
+}
+@media (max-width: 580px) and (min-width: 480px) {
+    #header {
+     background-position: 0.5em 4.5em  !important;
+     background-size: 66px 66px  !important;
+    }
+}
+
+@media (max-width: 479px) {
+    #header {
+     background-position: 0 5.5em !important;
+     background-size: 55px 55px !important;
+    }
+}
+[[/module]]
+[!----]
+
+[!-- {$inc-s9-poly-alt}
+[[module css]]
+#header {
+    background: url("https://scp-wiki.wdfiles.com/local--files/component%3Apride-highlighter/poly_logo_blk.svg") 15px 40px no-repeat !important;
+    background-size: 6rem !important;
+}
+@media (max-width: 580px) and (min-width: 480px) {
+    #header {
+     background-position: 0.5em 4.5em  !important;
+     background-size: 66px 66px  !important;
+    }
+}
+
+@media (max-width: 479px) {
+    #header {
+     background-position: 0 5.5em !important;
+     background-size: 55px 55px !important;
+    }
+}
+[[/module]]
+[!----]
+
+[!-- {$inc-s9-tg-alt}
+[[module css]]
+#header {
+    background: url("https://scp-wiki.wdfiles.com/local--files/component%3Apride-highlighter/tg_logo_blk.svg") 15px 40px no-repeat !important;
+    background-size: 6rem !important;
+}
+@media (max-width: 580px) and (min-width: 480px) {
+    #header {
+     background-position: 0.5em 4.5em  !important;
+     background-size: 66px 66px  !important;
+    }
+}
+
+@media (max-width: 479px) {
+    #header {
+     background-position: 0 5.5em !important;
+     background-size: 55px 55px !important;
+    }
+}
+[[/module]]
+[!----]
+
+[!-- {$inc-s9-plgbt-alt}
+[[module css]]
+#header {
+    background: url("https://scp-wiki.wdfiles.com/local--files/component%3Apride-highlighter/pgp_logo_blk-2.svg") 15px 40px no-repeat !important;
+    background-size: 6rem !important;
+}
+@media (max-width: 580px) and (min-width: 480px) {
+    #header {
+     background-position: 0.5em 4.5em  !important;
+     background-size: 66px 66px  !important;
+    }
+}
+
+@media (max-width: 479px) {
+    #header {
+     background-position: 0 5.5em !important;
+     background-size: 55px 55px !important;
+    }
+}
+[[/module]]
+[!----]
+
+[!-- {$inc-animp}
+[[include :topia:pride-animated-source]]
+[[module css]]
+:root {
+    --logo-image: var(--anim-pride);
+}
+[[/module]]
+[!----]
+
+[!-- {$inc-s9-animp}
+[[include :topia:pride-animated-source]]
+[[module css]]
+#header {
+    background: var(--anim-pride) 15px 40px no-repeat !important;
+    background-size: 6rem !important;
+}
+@media (max-width: 580px) and (min-width: 480px) {
+    #header {
+     background-position: 0.5em 4.5em  !important;
+     background-size: 66px 66px  !important;
+    }
+}
+
+@media (max-width: 479px) {
+    #header {
+     background-position: 0 5.5em !important;
+     background-size: 55px 55px !important;
+    }
+}
+[[/module]]
+[!----]

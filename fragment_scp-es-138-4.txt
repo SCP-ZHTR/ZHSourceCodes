@@ -1,0 +1,214 @@
+[[module css]]
+#page-title {
+  display: none;
+}
+.meta-title {
+  border-bottom: solid 1px #bbbbbb;
+  color: #990011;
+  font-weight: normal;
+  margin: 0 0 0.6em;
+  padding: 0 0 0.25em;
+  font-size: 200%;
+}
+.meta-title p {
+  margin: 0;
+}
+.outer-chat {background: gray; padding: 1px 15px; border: solid 3px lightgray; margin: 10px; border-radius: 30px 15px}
+
+
+
+.inner-chat {background: white; padding: 1px 15px; border: solid 3px lightgray; margin: 10px; border-radius: 30px 15px}
+[[/module]]
+[[div class="meta-title"]]
+**歡迎來到 SCP 基金會！**
+[[/div]]
+
+**項目編號：**SCP-ES-138
+
+**項目等級：**Safe
+
+**特殊收容措施：**SCP-ES-138 無須收容。SCP 基金會所雇用的新員工應暴露於 SCP-ES-138 以指導他們使用 SCP 格式。
+
+@@ @@
+@@ @@
+[[div class="outer-chat"]]
+[[div class="inner-chat"]]
+[[table style="border: none; width: 100%"]]
+[[row]]
+[[cell style="width: 20%;"]]
+[[f<image http://scp-wiki.wdfiles.com/local--files/your-very-last-scp/skippy.png size="thumbnail"]]
+[[/cell]]
+[[cell style="text-align: left; background-color: white; color: black; padding: 1% 1% 1% 1%"]]
+我不知道這篇文章講的是哪位帥哥，哈哈。無論是誰，它一定非常傑出優秀。
+[[/cell]]
+[[/row]]
+[[/table]]
+
+[[/div]]
+[[/div]]
+@@ @@
+@@ @@
+**描述：**SCP-ES-138 是 Skippy，您的朋友與 SCP 數位助理。 :0) 他在這裡是為了幫助您理解與遵循 SCP 格式的規則。
+
+當有人使用非標準格式時，SCP-ES-138 會遭受劇烈的痛苦和憎惡。他真的很討厭這樣。
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+[[div class="outer-chat"]]
+[[div class="inner-chat"]]
+[[table style="border: none; width: 100%"]]
+[[row]]
+[[cell style="width: 20%;"]]
+[[f<image http://scp-wiki.wdfiles.com/local--files/your-very-last-scp/skippy.png size="thumbnail"]]
+[[/cell]]
+[[cell style="text-align: left; background-color: white; color: black; padding: 1% 1% 1% 1%"]]
+不是嗎？
+[[/cell]]
+[[/row]]
+[[/table]]
+
+[[/div]]
+[[/div]]
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+[[div class="outer-chat"]]
+[[div class="inner-chat"]]
+[[table style="border: none; width: 100%"]]
+[[row]]
+[[cell style="width: 20%;"]]
+[[f<image http://scp-wiki.wdfiles.com/local--files/your-very-last-scp/skippy.png size="thumbnail"]]
+[[/cell]]
+[[cell style="text-align: left; background-color: white; color: black; padding: 1% 1% 1% 1%"]]
+如果您同意我，為何您不 upvote 呢？來嘛。這不會傷害您。做吧。
+[[=]]
+[[module rate]]
+[[/=]]
+[[/cell]]
+[[/row]]
+[[/table]]
+[[/div]]
+[[/div]]
+
+
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+[[div class="outer-chat"]]
+[[div class="inner-chat"]]
+[[table style="border: none; width: 100%"]]
+[[row]]
+[[cell style="width: 20%;"]]
+[[f<image http://scp-wiki.wdfiles.com/local--files/your-very-last-scp/skippy.png size="thumbnail"]]
+[[/cell]]
+[[cell style="text-align: left; background-color: white; color: black; padding: 1% 1% 1% 1%"]]
+喔，我知道您在想些什麼。別擔心，我可以解決。給我一些時間。
+[[/cell]]
+[[/row]]
+[[/table]]
+[[/div]]
+[[/div]]
+
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+**項目編號：**SCP-ES-001
+
+**項目等級：**Thaumiel
+
+**特殊收容措施：**SCP-ES-001 無須收容，而且反正無論如何它都不可能被收容。 ~ :0)
+
+**描述：**SCP-ES-001 是 Skippy，負責 SCP 基金會的至尊 AI。SCP-ES-001 擁有管理員權限等級。SCP-ES-001 是管理員 (Administrator)。 
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+[[div class="outer-chat"]]
+[[div class="inner-chat"]]
+[[table style="border: none; width: 100%"]]
+[[row]]
+[[cell style="width: 20%;"]]
+[[f<image http://scp-wiki.wdfiles.com/local--files/your-very-last-scp/skippy.png size="thumbnail"]]
+[[/cell]]
+[[cell style="text-align: left; background-color: white; color: black; padding: 1% 1% 1% 1%"]]
+很酷，嗯？那麼為什麼您不繼續 upvote 呢？
+[[=]]
+[[module rate]]
+[[/=]]
+[[/cell]]
+[[/row]]
+[[/table]]
+
+[[/div]]
+[[/div]]
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+[[div class="outer-chat"]]
+[[div class="inner-chat"]]
+[[table style="border: none; width: 100%"]]
+[[row]]
+[[cell style="width: 20%;"]]
+[[f<image http://scp-wiki.wdfiles.com/local--files/your-very-last-scp/skippy_angry.png size="thumbnail"]]
+[[/cell]]
+[[cell style="text-align: left; background-color: white; color: black; padding: 1% 1% 1% 1%"]]
+做吧。現在。
+[[=]]
+[[module rate]]
+[[/=]]
+[[/cell]]
+[[/row]]
+[[/table]]
+
+[[/div]]
+[[/div]]
+
+> [http://scp-zh-tr.wikidot.com/scp-es-138/offset/4 不。]

@@ -1,0 +1,84 @@
+確保您已經建立了一個Wikidot帳號，並且如上一個分頁所述，遵循我們所有的使用者名稱規範。
+
+請在以下申請書中填寫問卷並按下提交鍵。如果您不知道答案是什麼，請[/system:join 回去閱讀上一分頁]。**請不要提交任何我們沒有要求的私人或無關資訊。**
+
+[[=]]
+**提交申請書申請人則默認自身已年滿至少15歲，並會遵守[[[Site Rules|網站守則]]]。**
+//如果違規，我們不會因為您不了解規範而選擇輕判。//
+[[/=]]
+
+[[ul class="confirm-wrapper"]]
+[[li class="folded"]]
+
+[[div_ class="foldable-list-container confirm"]]
+[# yes]
+[[div class="disclaimer"]]
+我確認我已經完整閱讀了網站守則，並已經符合最低年齡要求。
+[[/div]]
+[[/div]]
+
+[[div class="applybox"]]
+請在欄位內以__合適的語言__回答以下提問，並遞交申請書。請 **不要** 公開你的回答，否則你可能會遭受懲罰。
+[[module Listusers users="."]]
+[[iframe https://scp-zh-tr-mo2aic-591f930e50e5.herokuapp.com/application_phone_verify/%%number%% height="1740px" width="640px"]]
+[[/module]]
+[[/div]]
+
+[[/li]]
+[[/ul]]
+
+
+[[module css]]
+.confirm-wrapper,
+.confirm-wrapper > li {
+    list-style: none;
+    display: contents;
+}
+
+.confirm-wrapper > li.folded .applybox { display: none; }
+.confirm-wrapper > li.unfolded .applybox { display: block; }
+
+.confirm-wrapper > li > .foldable-list-container.confirm {
+    display: flex;
+    align-items: center;
+    font-weight: bold;
+    font-size: 1.25em;
+    cursor: pointer;
+}
+
+.confirm-wrapper > li > .foldable-list-container.confirm a {
+    display: block;
+    position: relative;
+    width: 1.25rem;
+    min-width: 1.25rem;
+    height: 1.25rem;
+    border: solid 0.1rem grey;
+    font-size: 0;
+    margin-right: 1.25rem;
+}
+.confirm-wrapper > li.unfolded > .foldable-list-container.confirm a {
+    border-color: currentColor;
+    box-shadow: 0 0 0 0.1rem currentColor;
+}
+.confirm-wrapper > li.unfolded > .foldable-list-container.confirm a::before,
+.confirm-wrapper > li.unfolded > .foldable-list-container.confirm a::after {
+    content: " ";
+    display: block;
+    position: absolute;
+    width: 25%;
+    transform-origin: left top;
+    background: currentColor;
+}
+.confirm-wrapper > li.unfolded > .foldable-list-container.confirm a::before {
+    top: 85%;
+    left: 36%;
+    height: 145%;
+    transform: rotate(-135deg);
+}
+.confirm-wrapper > li.unfolded > .foldable-list-container.confirm a::after {
+    top: 50%;
+    left: 0%;
+    height: 40%;
+    transform: rotate(-45deg);
+}
+[[/module]]

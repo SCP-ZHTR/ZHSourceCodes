@@ -1,0 +1,6 @@
+image: 'https://i.imgur.com/GqC1ks6.jpg'
+owner: 'Edward Knave'
+owner-wiki: edward-knave
+license: '0'
+other-license: ''
+note: 攝於高雄市韓國瑜管治下的愛河燈會。

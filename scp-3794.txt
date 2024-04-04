@@ -1,0 +1,49 @@
+[[include component:scp-meta-title-hiding css-style=classic]]
+[[include :scp-zh-tr:theme:classic]]
+[[include info:start]]
+**原作：**[[*user Weryllium]]
+**篇名：**SCP-3794 - 莎莎錘
+**原文：**[https://scp-wiki.wikidot.com/scp-3794 SCP-3794 - Salsa Hammer]
+**譯者：**[[*user Red phosphorus]]
+[[include info:end]]
+
+[[include component:image-block
+    name=http://scp-wiki.wdfiles.com/local--files/scp-3794/rule.jpg|
+    caption=SCP-3794
+]]
+
+**項目編號：**SCP-3794
+
+**項目等級：**Safe
+
+**特殊收容措施：**SCP-3794被存放於一個標準物品儲物櫃內。目前測試已被中止。
+
+**描述：**SCP-3794是一把大錘，當以足夠的力量揮動時，它能將活體組織轉化為[[span class="ruby"]]墨西哥莎莎醬[[span class="rt"]]//pico de gallo// salsa[[/span]][[/span]]。此種莎莎醬在成份、營養價值或味道上與普通的莎莎醬沒有顯著差異。
+
+被SCP-3794直接擊中的半徑約3至8公分區域內的組織會被立即轉化。轉化後的莎莎醬不會黏附在對象身上，而是會從對象身體上產生的凹陷或洞中滑出。血管及其他組織在轉化的邊緣突然終止，如同被燒灼一般。
+
+如果因莎莎醬轉化而導致身體的一部分分離，只要對象存活，該部分仍會保有生命機能。
+
+**附錄：**SCP-3794被用於測試對象的頭骨，導致整個大腦及大部分頭骨轉化為莎莎醬。儘管如此，對象仍發狂似地繼續移動著，並用溢出的莎莎醬粗糙地寫著「救命」。
+
+食用莎莎醬導致對象在30分鐘內死亡。測試已中止。
+
+[[footnoteblock]]
+
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[SCP-3793]]] | SCP-3794 | [[[SCP-3795]]] >>
+[[/=]]
+[[/div]]
+
+[[include :scp-zh-tr:component:license-box
+|lang=EN
+|author=Weryllium]]
+=====
+> **圖檔名稱:** rule.jpg
+> **圖像名稱:** File:Sledgehammer (33104910115).jpg
+> **作者:** XoMEoX
+> **授權方式:** CC BY 2.0
+> **圖源連結:** [https://commons.wikimedia.org/wiki/File:Sledgehammer_(33104910115).jpg Wikimedia Commons]
+=====
+[[include :scp-wiki:component:license-box-end]]

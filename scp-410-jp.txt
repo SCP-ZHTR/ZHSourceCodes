@@ -1,0 +1,91 @@
+[[include :scp-zh-tr:component:scp-meta-title-hiding css-style=classic]]
+[[include credit:start]]
+**原著：** [[*user suramusi]]
+**譯者：** [[*user edward-knave]]
+**原題：** SCP-410-JP - 浮動小数点
+**譯題：** SCP-410-JP - 浮動小數點
+**原文：** https://scp-jp.wikidot.com/scp-410-jp
+[[include credit:end]]
+
+[[html]]
+<style>
+@import url(http://d3g0gp89917ko0.cloudfront.net/v--de24f08b1628/common--theme/base/css/style.css);
+@import url(http://d3g0gp89917ko0.cloudfront.net/v--de24f08b1628/common--theme/shiny/css/style.css);
+@import url(http://scp-jp.wdfiles.com/local--theme/scp-sigma-9-off-canvas/style.css);
+</style>
+<b>項目編號：</b> SCP-四一〇-JP<br>
+<br>
+<b>項目等級：</b> <s>Keter</s> Euclid<br>
+<br>
+<b>特別收容措施：</b> SCP-四一〇-JP現收容於該文件的項目檔案內文，活動範圍限於字串
+<b>"<span id="move">4.10162</span>"</b>
+之內｡<sup><a href="#n1" id="f1" title="該檔案內，除該字串以外，不得使用阿拉伯數字。">一</a></sup>另外，SCP-四一〇-JP-壹應收容於Site-八一███內設有五層隔牆的收容單元。單元各層牆壁皆以耐熱材質構成，以無意義的數列緊密列印在牆面上，以阻礙SCP-四一〇-JP-壹的視野。單元的定期檢查及修繕應以穿著標準耐熱裝備的兩名職員每週進行一次。<br>
+<br>
+<b>描述：</b> SCP-四一〇-JP是會在以阿拉伯數字表示的數值生成分斷異常實例的小數點。在SCP-四一〇-JP影響之下的媒體在經過改變數值意涵的修正、破損或玷污時，會即時復原。SCP-四一〇-JP若對指示任何物體的數值<sup><a href="#n2" id="f2" title="在干預前的數值若為小數，則其小數點會與SCP-四一〇-JP同化。">二</a></sup>作出干預，則附近會生成一個具有同一外形但反映干預後數值的媒體（稱「SCP-四一〇-JP-壹」）。<br>
+<br>
+所生成的SCP-四一〇-JP-壹當中，人形的個體具有只會看見阿拉伯數字的特殊視覺。藉由該種視覺，SCP-四一〇-JP可以轉移至另外的媒體。對於其他個體，尤以非生物形態為甚，目前仍未知該等個體如何察知身邊的數字。SCP-四一〇-JP-壹不論遭受何種損毀皆不會喪失異常特性，但推斷隨著轉移，新個體的生成會伴隨舊個體的消失。<br>
+<br>
+SCP-四一〇-JP乃因「從飲水機流出溶穿地板的液體」之異常報告而引起基金會注意。特工抵達現場時，SCP-四一〇-JP-壹已經消失，所回收的液體樣本只能檢出不具異常特性的水與已溶解的建築材料成分。包括是次事件在內，在就基金會所知的第七次轉移當中，成功控制SCP-四一〇-JP。各事件概要記載如下。<br>
+<br>
+<span id="incident"><a href="#" onClick="incblock();return false;">+ 閱覽事件紀錄 四一〇-JP</a><br></span>
+<br>
+<span id="audio"><a href="#" onClick="audblock();return false;">+ 閱覽語音紀錄 四一〇-JP</a></span><br>
+<br>
+<span id="security"><a href="#" onClick="secblock();return false;">+ [需要三級權限]</a></span><br>
+<br>
+<b><font size="5">Footnotes</font></b><br>
+<br>
+<a href="#f1" id="n1">一</a><span>. 該檔案內，除該字串以外，不得使用阿拉伯數字。</span><br>
+<a href="#f2" id="n2">二</a><span>. 在干預前的數值若為小數，則其小數點會與SCP-四一〇-JP同化。</span><br>
+<a href="#f3" id="n3">三</a><span>. 年輕成人骨骼密度的平均值。百分之八十以上為之合適。</span>
+<script type="text/javascript">
+<!--
+var base = 4.10162;
+function point() {
+var num = base * Math.pow(10, Math.floor(Math.random() * 5));
+document.getElementById("move").innerHTML = num;
+}
+setInterval( 'point()', 200);
+var incopen = "<a href=# onClick=incblock();return false;>- 關閉事件紀錄 四一〇-JP</a><br><br><u><b>事件紀錄 四一〇-JP-A - 日期████/██/██</b></u><br><blockquote style=padding:15px 10px;border:1px><b>地點：</b> 東京都███區內的家電大賣場<br><br><b>對象：</b> 飲水機製品目錄<br><br><b>概述：</b> 漏出的水溶穿三樓地板直到二樓。推斷所用食水的pH値從「六．九」變成「六九」。pH六十九在化學上是定義不良的數值。</blockquote><u><b>事件紀錄 四一〇-JP-B - 日期████/██/██</b></u><br><blockquote style=padding:15px 10px;border:1px><b>地點：</b> 東京都███區內的醫院<br><br><b>對象：</b> 腰痛病患的病歷<br><br><b>概述：</b> 由護理人員發現一個全身骨骼碎裂的患者複製體。推斷為從病歷櫃的高度落下所致，推斷患者的YAM值<sup><a href=#n3 id=f3 title='年輕成人骨骼密度的平均值。百分之八十以上為之合適。'>三</a></sup>從「七四」變成「七．四」。從護理人員證詞判明複製體可以透過會話構通。</blockquote><u><b>事件紀錄 四一〇-JP-C - 日期████/██/██</b></u><br><blockquote style=padding:15px 10px;border:1px><b>地點：</b> 鹿兒島縣███市內的公寓<br><br><b>對象：</b> 提及小行星「二〇〇六RH<sub>一二〇</sub>」的網站<br><br><b>概述：</b> 瀏覽網站的住戶及樓下的住戶被直徑五公尺的岩石壓死。已對鄰舍施予A級記憶刪除，並使用說辭「爆炸事故」掩蓋。出現的岩石為即使在極近距離亦未能辨別凹凸，只呈異常深黑，推斷其標準星等從「二九．五二七」變為「二九五二．七」或「二九五二七」。調查期間，特工檢查電腦螢幕時發現網站上反覆更改數值的SCP-四一〇-JP。該項目在特工向基金會報告後隨即再次轉移。<br></blockquote><u><b>事件紀錄 四一〇-JP-D - 日期████/██/██</b></u><br><blockquote style=padding:15px 10px;border:1px><b>地點：</b> 新潟縣███市內的滑雪場<br><br><b>對象：</b> 同設施的小冊子<br><br><b>概述：</b> 在社群媒體上有多篇提及「黑點在反覆移動的小冊子」的發言之後，百分之一比例的███山隨即在斜坡上生成，並引致毀滅性的雪崩。該等發言投稿隨即被刪除，經過大規模的記憶刪除之後，已發佈「山崩」說辭掩蓋。有鑒於此，SCP-四一〇-JP被歸定為Keter級。</blockquote><u><b>事件紀錄 四一〇-JP-E - 日期████/██/██</b></u><br><blockquote style=padding:15px 10px;border:1px><b>地點：</b> 神奈川縣████市內的火車站<br><br><b>對象：</b> 顯示列車出發及抵達資料的電子顯示屏<br><br><b>概述：</b> 單節車廂的列車在月台上出現。據乘客證詞，判明電子顯示屏上有顯示「一．〇節車廂」。在月台及車廂內發現十一個乘客的複製體。複製體無法迴避數字未有記載的障礙物，當中亦有從月台跌落的個體。由此，已建立「SCP-四一〇-JP-壹只能感知數字，並由此決定SCP-四一〇-JP的轉移目標」的假說，準備收容的工作隨之有所進展。</blockquote><u><b>事件紀錄 四一〇-JP-F - 日期████/██/██</b></u><br><blockquote style=padding:15px 10px;border:1px><b>地點：</b> 山形縣███市內公寓大樓<br><br><b>對象：</b> 電子體溫計<br><br><b>概述：</b> 出現體溫為三百七十九攝氏度的住戶複製體。在控制該項目後，隨即以每一面皆印上阿拉伯數字的貨櫃將項目運走，送往Site-八一███收容。在控制該複製體時，電子體溫計的顯示已恢復正常，鑒於新的SCP-四一〇-JP-壹在轉移目標生成的懸念，現已轉向實行針對運送容器內的SCP-四一〇-JP的收容計劃。（參見語音紀錄 四一〇-JP）</blockquote>";
+var incclose = "<a href=# onClick=incblock();return false;>+ 閱覽事件紀錄 四一〇-JP</a><br>"
+var inc = 2;
+function incblock(){
+if(inc == 2){base += 0.038;}
+if(inc >= 1){incflag = incopen;
+inc = 0;}else{incflag = incclose;
+inc = 1;}
+document.getElementById("incident").innerHTML = incflag;
+}
+
+var intA = "<br><br><b>███特工： </b> ";
+var intB = "<br><br><b>SCP-四一〇-JP-壹： </b> ";
+var br = "<br><br>";
+var audopen = "<a href=# onClick=audblock();return false;>- 關閉語音紀錄 四一〇-JP</a>" + br + "<u><b>語音紀錄 SCP-四一〇-JP</b></u><blockquote style=padding:15px 10px;border:1px><b>概述：</b> 藉由SCP-四一〇-JP-壹的特性，該項目已被誘導並轉移至SCP-四一〇-JP的檔案上。" + br + "<b>＜錄音開始＞</b>" + intA + "呦，現在感覺如何？對著數字通宵猛盯不放，盯到發知慧熱發到三百度去了？" + intB + "必須要去。必須要變。必須要成就。" + intA + "SCP-四一〇-JP-壹，你的耳朵還聽到嗎？到底怎麼了？" + intB + "必須要成就。必須要成就。四、九、六。" + intA + "「成就」指的究竟是甚麼？還有那個數字到底是……" + intB + "四、九、六。四、九、六。四、九、六。四、九、六。必定要。" + intA + "沒聽進去就沒辦法了……那恐怕會是自言自語，我已經把SCP-四一〇-JP的……那份把你生出來的那顆發狂的小數點的檔案都看過了。也頗有意思的，把所有關於它的事都記下來了。" + intB + "[沉默]" + intA + "有甚麼目的，是怎樣生出來的，有可能做到甚麼……用來把它關住的資料全都寫了上去。被收容只是時間的問題。你算數字的時間已經完了啦，太可惜了呢，四一零。" + intB + "（大叫）必需要去！必須要變！……必須要成就。[口齒不清]……四。九。六。" + br + "<b>＜錄音結束＞</b></blockquote><br>此後，SCP-四一〇-JP已轉移至檔案中，收容完成。<br>翌年，SCP-四一〇-JP已再分類為Euclid級。";
+var audclose = "<a href=# onClick=audblock();return false;>+ 閱覽語音紀錄 四一〇-JP</a>";
+var aud = 2;
+function audblock(){
+if(aud == 2){base += 0.2823;}
+if(aud >= 1){audflag = audopen;
+aud = 0;}else{audflag = audclose;
+aud = 1;}
+document.getElementById("audio").innerHTML = audflag;
+}
+
+var secopen = "<a href=# onClick=secblock();return false;>- 獲准閱覽</a><br><br><u><b>事件紀錄 四一〇-JP-G - 日期████/██/██</b></u><br><blockquote style=padding:15px 10px;border:1px><b>對象：</b> 本報告書<br><br><b>概述：</b> 用以收容SCP-四一〇-JP的數值突然增加。隨後經過十六次的數值增加，收容開始時「一〇〇〇一」的數值已變成「四一〇一六二」。</blockquote><br>經過第一次的數值改變事件，為解明SCP-四一〇-JP未知的性質，已開新文件進行幾次實驗。即使如此，每一次皆得出「SCP-四一〇-JP未有轉移並停留在檔案中」的結果，研究方針遂轉向數值變動時的影像分析。<br><br>在第五次的數值改變事件，以每秒一兆幀的高速攝錄進行影像分析，得出SCP-四一〇-JP的影像維持模糊，在變更前後可見有濃淡變化。另外，在濃淡變化期間，數值的影像亦變得模糊，判讀明顯變難。仔細檢查得出，SCP-四一〇-JP的舉動與弦的振動酷似，而數值變動則判明為在瞬時多次發生。<br><br>在第八次的改變，變動開始隨即出現的數值當中成功解讀兩個。該數值從「二〇三．四二一」變為「五三．八八八」，與五進制數字「二〇三．四二一」變換為十進制所得的數字「五三．八八八」一致。隨後的觀測，亦發現各種進制間的變換，最後得出「SCP-四一〇-JP並不是點，而是會振動的弦，透過這種振動模式在任意進制表現為小數點的形式」之結論。<br><br>SCP-四一〇-JP的目標仍然未明，但實體屬於弦的事實，以及SCP-四一〇-JP-壹所唸出的「四九六」一詞暗示與超弦理論的關係，並指出「企圖生成宇宙規模、或多維度規模的SCP-四一〇-JP-壹個體的可能性」。另外，亦鑒於「當下的目標為突破收容，透過變換為二進制數字，從而嘗試生成特定代碼的可能性」之主張，因潛在的收容突破風險之高，已申請將該項目改編為Keter級。</blockquote><blockquote style=padding:15px 10px;border:1px><i>申請已被駁回。無論SCP-四一〇-JP再怎樣改變數值，那個數值被給予「SCP-四一〇-JP的活動範圍」的意義始終不會改變。那東西所能做的，就只不過是更換單獨囚房的牆壁花色而已。</i>\x20——\x20O五-三</blockquote>";
+var secclose = "<a href=# onClick=secblock();return false;>+ [需要三級權限]</a>";
+var sec = 2;
+function secblock(){
+if(sec == 2){base += 0.53303;}
+if(sec >= 1){secflag = secopen;
+sec = 0;}else{secflag = secclose;
+sec = 1;}
+document.getElementById("security").innerHTML = secflag;
+}
+//-->
+</script>
+[[/html]]
+----
+[[include :scp-zh-tr:component:license-box
+|lang=JP
+|author=suramusi]]
+[[include :scp-zh-tr:component:license-box-end]]

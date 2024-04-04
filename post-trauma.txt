@@ -1,0 +1,46 @@
+[[module CSS]]
+#page-title {
+  display: none;
+}
+
+.meta-title {
+  border-bottom: solid 1px #bbbbbb;
+  color: #990011;
+  font-weight: normal;
+  margin: 0 0 0.6em;
+  padding: 0 0 0.25em;
+  font-size: 200%;
+}
+
+.meta-title p {
+  margin: 0;
+}
+[[/module]]
+
+[[include :scp-zh-tr:theme:black-highlighter-theme]]
+[[include :scp-wiki:theme:ouroborous-theme]]
+[[include info:start]]
+> **作者：**[[*user samscript]]　　**標題：**劫孽餘生
+> 投稿「Matini！2022！繁中！急迫競賽！」第三題：「一定是假的」
+>
+> 作品中所有人物的代號皆無特殊意涵，如有雷同，純屬巧合。
+> 願本故事劇情純屬虛構。
+>
+> **附加資源：**
+> [https://www.mohw.gov.tw/cp-88-234-1-44.html 中華民國 衛生福利部《性侵害防治》]
+> [https://womany.net/gender-violence 女人迷《正視性侵—陪伴、訴說、復原的性別教育之路》]
+> [https://womany.net/topics/sexualassault 性別力：#性侵]
+> [https://womany.net/read/article/8295 《性侵害跟你想的不一樣！十張圖卡理解與擁抱性侵害的現況》]
+[[include info:end]]
+
+
+[!--
+子頁面:
+http://scp-zh-tr.wikidot.com/fragment:post-trauma-1
+http://scp-zh-tr.wikidot.com/fragment:post-trauma-2
+--]
+
+[[module ListPages parent="." category="fragment" limit="1" order="created_at" offset="@URL|0"]]
+
+%%content%%
+[[/module]]

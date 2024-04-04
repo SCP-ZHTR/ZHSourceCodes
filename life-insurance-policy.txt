@@ -1,0 +1,545 @@
+[[include info:start]]
+原文：[https://scp-wiki.wikidot.com/life-insurance-policy Life Insurance Policy] 人壽保險
+作者：[[*user Uncle Nicolini]]
+譯者：[[*user Frederica Bernkastel]]
+⚠️ **內容警告：** 本文章具有**煤氣燈效應**內容。
+[[include info:end]]
+[[include :scp-zh-tr:component:info-cw]]
+
+
+
+[[div style="color: black; font-family: Courier; font-weight: bold; background:#DFFFF3 url(https://scp-wiki.wdfiles.com/local--files/life-insurance-policy/fsd.png) center no-repeat; float: center; border: solid 1px #000000; padding: 15px 15px; box-shadow: 0 1px 3px rgba(0,0,0,.2); width: 84%; margin-left: auto; margin-right: auto; margin-bottom: 4%; margin-top: 4%;"]]
+
+= __火勢遏阻部案件 ID-562341673444XP__
+
+狀況：
+@@     @@GoI研究部負責人史蒂芬．羅德里格茨希望脫離基金會，以便有更多時間能陪伴他的妻子。
+
+情報：
+@@     @@羅德里格茨夫人患有肌肉萎縮症（MD），本來預計將在16-20歲時死亡，但她現年已經32歲，無法推估她可能的病逝時間進程。
+
+建議措施：
+@@     @@寄送標準郵件提醒羅德里格茨，他現在擁有能照顧妻子的充裕醫療福利。
+
+註記：
+@@     @@N/A
+
+[[/div]]
+
+[[div style="background: url(https://scp-wiki.wdfiles.com/local--files/life-insurance-policy/fsdtiny.png) top right no-repeat; float: center; border: solid 3px #444444; width: 85%; padding: 1px 15px; margin: auto; margin-top: 10px; margin-bottom: 10px; box-shadow: 0 1px 3px rgba(0,0,0,.2);"]]
+[[table style="align:left; margin-top: 10px;"]]
+[[row]]
+[[hcell style="text-align:right"]]
+**自：**
+[[/hcell]]
+[[cell]]
+##red|@@miverson.site55@scp.int@@##
+[[/cell]]
+[[/row]]
+[[row]]
+[[hcell style="text-align:right"]]
+**致：**
+[[/hcell]]
+[[cell]]
+##red|@@srodriguez.site55@scp.int@@##
+[[/cell]]
+[[/row]]
+[[row]]
+[[hcell style="text-align:right"]]
+**主旨：**
+[[/hcell]]
+[[cell]]
+您近期的諮詢
+[[/cell]]
+[[/row]]
+[[/table]]
+-----
+親愛的羅德里格茨先生，
+
+我想要提醒您，您目前的醫療保險除了您自己的健康外，也包含您妻子的健康在內。如果您自基金會辭職，勢必會失去以上的醫療保險，最終導致您的家庭陷入不幸的境地。
+
+如果您已經決心辭職，我們自然也不會強加阻止。但您要知道，我們也不僅僅是您的同事──我們也是您的家人，做為您的家人，我們實在不願意看到您失去如此良好的醫療保障，尤其考慮到您妻子目前的狀況。
+
+我們明天一早見，羅德里格茨先生。
+
+您的朋友，
+----
+米歇爾．艾佛遜
+Site-55人事資源部
+控制。收容。保護。
+[[/div]]
+
+
+[[div style="background: url(http://scp-wiki.wdfiles.com/local--files/the-great-hippo/SCP_icon%281%29.png) top right no-repeat; float: center; border: solid 3px #444444; width: 85%; padding: 1px 15px; margin: auto; margin-top: 10px; margin-bottom: 10px; box-shadow: 0 1px 3px rgba(0,0,0,.2);"]]
+[[table style="align:left; margin-top: 10px;"]]
+[[row]]
+[[hcell style="text-align:right"]]
+**自：**
+[[/hcell]]
+[[cell]]
+##red|@@srodriguez.site55@scp.int@@##
+[[/cell]]
+[[/row]]
+[[row]]
+[[hcell style="text-align:right"]]
+**致：**
+[[/hcell]]
+[[cell]]
+##red|@@miverson.site55@scp.int@@##
+[[/cell]]
+[[/row]]
+[[row]]
+[[hcell style="text-align:right"]]
+**主旨：**
+[[/hcell]]
+[[cell]]
+RE:您近期的諮詢
+[[/cell]]
+[[/row]]
+[[/table]]
+-----
+米歇爾，
+
+感謝您如此快速的回覆。我清楚並感謝基金會完美的醫療保險方案，正是受惠於這些方案，才能使我的妻子能撐到今日。但她在近期遭遇了相當嚴重的健康險境，這使我意識到能和她在一起的日子已經不多了。出於這個原因，我想要和她一起度過我所剩無幾的時光，並且不受到工作的打擾。
+
+如果這不會造成太大的麻煩，我希望藉此機會呈交提前一個月的辭職通知。
+
+誠摯感謝，
+----
+史蒂芬．羅德里格茨
+Site-55 GoI研究部
+控制。收容。保護。
+[[/div]]
+
+[[div style="color: black; font-family: Courier; font-weight: bold; background:#DFFFF3 url(https://scp-wiki.wdfiles.com/local--files/life-insurance-policy/fsd.png) center no-repeat; float: center; border: solid 1px #000000; padding: 15px 15px; box-shadow: 0 1px 3px rgba(0,0,0,.2); width: 84%; margin-left: auto; margin-right: auto; margin-bottom: 4%; margin-top: 4%;"]]
+
+= __火勢遏阻部案件 ID-562341673444XP__
+
+狀況：
+@@     @@儘管已經派員提醒優惠健康保險一事，GoI研究部負責人史蒂芬．羅德里格茨仍舊拒絕繼續為基金會效勞。
+
+情報：
+@@     @@羅德里格茨夫人患有肌肉萎縮症，並在近日病情出現惡化。
+
+建議措施：
+@@     @@寄送郵件，提供羅德里格茨妻子住站醫療直到其死亡。追加提供工作獎金。
+
+註記：
+@@     @@N/A
+
+[[/div]]
+
+[[div style="background: url(https://scp-wiki.wdfiles.com/local--files/life-insurance-policy/fsdtiny.png) top right no-repeat; float: center; border: solid 3px #444444; width: 85%; padding: 1px 15px; margin: auto; margin-top: 10px; margin-bottom: 10px; box-shadow: 0 1px 3px rgba(0,0,0,.2);"]]
+[[table style="align:left; margin-top: 10px;"]]
+[[row]]
+[[hcell style="text-align:right"]]
+**自：**
+[[/hcell]]
+[[cell]]
+##red|@@miverson.site55@scp.int@@##
+[[/cell]]
+[[/row]]
+[[row]]
+[[hcell style="text-align:right"]]
+**致：**
+[[/hcell]]
+[[cell]]
+##red|@@srodriguez.site55@scp.int@@##
+[[/cell]]
+[[/row]]
+[[row]]
+[[hcell style="text-align:right"]]
+**主旨：**
+[[/hcell]]
+[[cell]]
+RE: RE: 您近期的諮詢
+[[/cell]]
+[[/row]]
+[[/table]]
+-----
+親愛的羅德里格茨先生，
+
+我想要提醒您，基金會將會為全體職員及其配偶提供住站醫療，並不會收取任何額外費用。住宿條件相當適宜，並會提供日常平民生活的家居擺設，但以上優待僅限於住站醫療的範圍內。這也勢必能大幅降低您的通勤時間，使您的妻子與您同居於此，您絕對不會再有所錯失。
+
+我們也被您妻子陷入的困境深深打動，並決定只要您願意繼續留在基金會，就會再提供您一筆獎金。您將能妥善利用這筆額外的財富，在妻子的最後時刻提供她應有的舒適照顧。
+
+我們明天一早見，羅德里格茨先生。
+
+您的朋友，
+----
+米歇爾．艾佛遜
+Site-55人事資源部
+控制。收容。保護。
+[[/div]]
+
+[[div style="background: url(http://scp-wiki.wdfiles.com/local--files/the-great-hippo/SCP_icon%281%29.png) top right no-repeat; float: center; border: solid 3px #444444; width: 85%; padding: 1px 15px; margin: auto; margin-top: 10px; margin-bottom: 10px; box-shadow: 0 1px 3px rgba(0,0,0,.2);"]]
+[[table style="align:left; margin-top: 10px;"]]
+[[row]]
+[[hcell style="text-align:right"]]
+**自：**
+[[/hcell]]
+[[cell]]
+##red|@@srodriguez.site55@scp.int@@##
+[[/cell]]
+[[/row]]
+[[row]]
+[[hcell style="text-align:right"]]
+**致：**
+[[/hcell]]
+[[cell]]
+##red|@@miverson.site55@scp.int@@##
+[[/cell]]
+[[/row]]
+[[row]]
+[[hcell style="text-align:right"]]
+**主旨：**
+[[/hcell]]
+[[cell]]
+RE:RE:RE:您近期的諮詢
+[[/cell]]
+[[/row]]
+[[/table]]
+-----
+米歇爾，
+
+感謝您的建議，但我真的不認為帶職在身的情況下，自己還能如想像那樣陪在妻子身旁。這個獎金的提議真的很慷慨，我不知道該怎麼感謝你們才好，但我必須強調，我真的需要抓緊機會離開這裡。
+
+您已經提交我前一個月的辭職通知了嗎？如果還沒的話請告訴我，我明天自己去提交就可以了。
+
+誠摯感謝，
+----
+史蒂芬．羅德里格茨
+Site-55 GoI研究部
+控制。收容。保護。
+[[/div]]
+
+[[div style="color: black; font-family: Courier; font-weight: bold; background:#DFFFF3 url(https://scp-wiki.wdfiles.com/local--files/life-insurance-policy/fsd.png) center no-repeat; float: center; border: solid 1px #000000; padding: 15px 15px; box-shadow: 0 1px 3px rgba(0,0,0,.2); width: 84%; margin-left: auto; margin-right: auto; margin-bottom: 4%; margin-top: 4%;"]]
+
+= __火勢遏阻部案件 ID-562341673444XP__
+
+狀況：
+@@     @@儘管提供了獎金與住站醫療的服務，GoI研究部負責人羅德里格茨仍舊拒絕繼續為基金會效勞。
+
+情報：
+@@     @@尚未取得可用的新情報。
+
+建議措施：
+@@     @@寄送郵件，給予羅德里格茨三個月的帶薪休假，並在假期的結尾將其妻子無效化，確保他能夠重回崗位。
+
+註記：
+@@     @@N/A
+
+[[/div]]
+[[div style="background: url(https://scp-wiki.wdfiles.com/local--files/life-insurance-policy/fsdtiny.png) top right no-repeat; float: center; border: solid 3px #444444; width: 85%; padding: 1px 15px; margin: auto; margin-top: 10px; margin-bottom: 10px; box-shadow: 0 1px 3px rgba(0,0,0,.2);"]]
+[[table style="align:left; margin-top: 10px;"]]
+[[row]]
+[[hcell style="text-align:right"]]
+**自：**
+[[/hcell]]
+[[cell]]
+##red|@@miverson.site55@scp.int@@##
+[[/cell]]
+[[/row]]
+[[row]]
+[[hcell style="text-align:right"]]
+**致：**
+[[/hcell]]
+[[cell]]
+##red|@@srodriguez.site55@scp.int@@##
+[[/cell]]
+[[/row]]
+[[row]]
+[[hcell style="text-align:right"]]
+**主旨：**
+[[/hcell]]
+[[cell]]
+RE: RE: RE: RE: 您近期的......
+[[/cell]]
+[[/row]]
+[[/table]]
+-----
+親愛的羅德里格茨先生，
+
+我們能理解您想要花更多時間陪伴妻子的心情，有鑑於她的身體狀況與近期的健康問題，這是完全可以理解的。所以我們很高興地通知您，我們已經為您協商好了三個月的帶薪休假，這能讓你們盡可能地享受在一起的時光。我們認為這是個非常慷慨的提議，這個公假不會從您的PTO或病假中扣除天數，甚至還會給予您工資。我們實在不願看到您離開，這就是為什麼我們在這艱苦時期，盡最大努力滿足您的需求。
+
+我們幾個月後一早見，羅德里格茨先生。
+
+您的朋友，
+----
+米歇爾．艾佛遜
+Site-55人事資源部
+控制。收容。保護。
+[[/div]]
+
+[[div style="background: url(http://scp-wiki.wdfiles.com/local--files/the-great-hippo/SCP_icon%281%29.png) top right no-repeat; float: center; border: solid 3px #444444; width: 85%; padding: 1px 15px; margin: auto; margin-top: 10px; margin-bottom: 10px; box-shadow: 0 1px 3px rgba(0,0,0,.2);"]]
+[[table style="align:left; margin-top: 10px;"]]
+[[row]]
+[[hcell style="text-align:right"]]
+**自：**
+[[/hcell]]
+[[cell]]
+##red|@@srodriguez.site55@scp.int@@##
+[[/cell]]
+[[/row]]
+[[row]]
+[[hcell style="text-align:right"]]
+**致：**
+[[/hcell]]
+[[cell]]
+##red|@@miverson.site55@scp.int@@##
+[[/cell]]
+[[/row]]
+[[row]]
+[[hcell style="text-align:right"]]
+**主旨：**
+[[/hcell]]
+[[cell]]
+RE: RE: RE: RE: RE: 您近...
+[[/cell]]
+[[/row]]
+[[/table]]
+-----
+米歇爾，
+
+再次再次，非常感謝你們的支持。這對我來說真的很重要，使我感受到自己真正是個有價值的員工。然而我還是無法接受這個提議。如果我妻子的壽命，比你們允許的三個月休假更長怎麼辦？我不想要在她健康狀況惡化的時候離開她身邊，然後又回來工作。
+
+另外，我要對您坦白，我之所以接受這分工作，就是因為它能為她提供先進的醫療服務，工資又能為她提供舒適的生活。等到她過世後，我不認為自己還非得為基金會工作不可──只是我認為沒必要而已，請不要誤會我的意思，我很喜歡在這裡工作，我會一輩子珍惜在這裡結交的摯友與回憶，但如果沒有露易莎，我寧願去過平民的生活。也許我會成為一名教師吧。
+
+順帶一提，不用擔心我前一個月的辭職通知。我將會在明日的上午自行提交。
+
+誠摯感謝，
+----
+史蒂芬．羅德里格茨
+Site-55 GoI研究部
+控制。收容。保護。
+[[/div]]
+
+[[div style="color: black; font-family: Courier; font-weight: bold; background:#DFFFF3 url(https://scp-wiki.wdfiles.com/local--files/life-insurance-policy/fsd.png) center no-repeat; float: center; border: solid 1px #000000; padding: 15px 15px; box-shadow: 0 1px 3px rgba(0,0,0,.2); width: 84%; margin-left: auto; margin-right: auto; margin-bottom: 4%; margin-top: 4%;"]]
+
+= __火勢遏阻部案件 ID-562341673444XP__
+
+狀況：
+@@     @@儘管提供了獎金與住站醫療的服務，GoI研究部負責人羅德里格茨仍舊拒絕繼續為基金會效勞。
+
+情報：
+@@     @@尚未取得可用的新情報。
+
+建議措施：
+@@     @@寄送郵件，要求羅德里格茨填寫離職員工表，以獲取該案件的進一步資訊。投用基金會爬蟲IO/SAURON，追蹤羅德里格茨夫婦在社交媒體的所有貼文，以獲取該案件的進一步資訊。投用基金會資源監視羅德里格茨夫婦，以獲取該案件的進一步資訊。
+
+註記：
+@@     @@火勢遏阻部阻滯負責人愛麗絲．格林已授權投用IO/SAURON。
+
+[[/div]]
+
+[[div style="background: url(https://scp-wiki.wdfiles.com/local--files/life-insurance-policy/fsdtiny.png) top right no-repeat; float: center; border: solid 3px #444444; width: 85%; padding: 1px 15px; margin: auto; margin-top: 10px; margin-bottom: 10px; box-shadow: 0 1px 3px rgba(0,0,0,.2);"]]
+[[table style="align:left; margin-top: 10px;"]]
+[[row]]
+[[hcell style="text-align:right"]]
+**自：**
+[[/hcell]]
+[[cell]]
+##red|@@miverson.site55@scp.int@@##
+[[/cell]]
+[[/row]]
+[[row]]
+[[hcell style="text-align:right"]]
+**致：**
+[[/hcell]]
+[[cell]]
+##red|@@srodriguez.site55@scp.int@@##
+[[/cell]]
+[[/row]]
+[[row]]
+[[hcell style="text-align:right"]]
+**主旨：**
+[[/hcell]]
+[[cell]]
+RE: RE: RE: RE: RE: RE: 您...
+[[/cell]]
+[[/row]]
+[[/table]]
+-----
+親愛的羅德里格茨先生，
+
+我們很遺憾您還是選擇了離開，但最終我們還是理解並尊重你的決定。我們對於無法留住您這個好員工備感遺憾，尤其您的工作表現又是那麼的令人震撼。我謹代表基金會全體職員，在您即將離開之際表達祝福，希望您能及早喜獲「佳音」。
+
+不過在調整您的工作量並準備離去之際，我們有個簡單的小要求。請您填寫以下表格，說明您在基金會的工作經歷與離職原因。儘管我並不希望讓這個浪費您的時間，但規定就是如此。
+
+感謝您的配合！	
+
+您的朋友，
+----
+米歇爾．艾佛遜
+Site-55人事資源部
+控制。收容。保護。
+[[/div]]
+
+[[div class="blockquote"]]
+[[=]]
++ 基金會離職調查
+[[/=]]
+
+在離職後您打算到哪裡求職？
+@@ @@
+@@ @@
+[[div_ style="opacity: .75"]]
+您是如何在基金會工作這麼長時間的？
+@@ @@
+@@ @@
+[[/div]]
+[[div_ style="opacity: .5"]]
+您認為自己還有哪些方面可以進修？
+@@ @@
+@@ @@
+[[/div]]
+[[div_ style="opacity: .25"]]
+為什麼您認為脫離目前職務是適當的選擇？
+@@ @@
+@@ @@
+[[/div]]
+[[/div]]
+
+[[div style="color: black; font-family: Courier; font-weight: bold; background:#DFFFF3 url(https://scp-wiki.wdfiles.com/local--files/life-insurance-policy/fsd.png) center no-repeat; float: center; border: solid 1px #000000; padding: 15px 15px; box-shadow: 0 1px 3px rgba(0,0,0,.2); width: 84%; margin-left: auto; margin-right: auto; margin-bottom: 4%; margin-top: 4%;"]]
+
+= __火勢遏阻部案件 ID-562341673444XP__
+
+狀況：
+@@     @@儘管提供了各式各樣的福利，GoI研究部負責人史蒂芬．羅德里格茨仍舊執意辭職。
+
+情報：
+@@     @@網路爬蟲IO/SAURON發現，根據羅德里格茨夫婦在社群媒體帳號的多筆留言，兩人都是積極的反墮胎運動支持者。外勤特工的監視結果顯示，羅德里格茨夫人已經將近一個月未有月經，這代表她近期應該就會迎來新一輪月經週期。
+
+建議措施：
+@@     @@派遣外勤特工，對羅德里格茨夫婦投放增強性慾的賀爾蒙，並在刺激兩人性衝動的同時破壞所有避孕用具。另外，建議對羅德里格茨夫人投放刺激生育能力的藥物。不斷增加劑量直到能觀察到兩人發生性行為為止。
+
+註記：
+@@     @@N/A
+
+[[/div]]
+
+[[div style="background: url(http://scp-wiki.wdfiles.com/local--files/the-great-hippo/SCP_icon%281%29.png) top right no-repeat; float: center; border: solid 3px #444444; width: 85%; padding: 1px 15px; margin: auto; margin-top: 10px; margin-bottom: 10px; box-shadow: 0 1px 3px rgba(0,0,0,.2);"]]
+[[table style="align:left; margin-top: 10px;"]]
+[[row]]
+[[hcell style="text-align:right"]]
+**自：**
+[[/hcell]]
+[[cell]]
+##red|@@srodriguez.site55@scp.int@@##
+[[/cell]]
+[[/row]]
+[[row]]
+[[hcell style="text-align:right"]]
+**致：**
+[[/hcell]]
+[[cell]]
+##red|@@miverson.site55@scp.int@@##
+[[/cell]]
+[[/row]]
+[[row]]
+[[hcell style="text-align:right"]]
+**主旨：**
+[[/hcell]]
+[[cell]]
+計畫變更
+[[/cell]]
+[[/row]]
+[[/table]]
+-----
+米歇爾，
+
+雖然非常的尷尬，但我沒有其他更好的辦法了，我想我得撤銷我的辭職宣告。我的妻子在近期懷孕了，我想自己無法在孩子即將出生之際離職。因此我想要確認，先前提及的獎金與住站醫療福利是否仍然做數。考慮到我妻子的身體狀況，我並不希望每天在工作場所往返，我認為這會比讓她留在家裡要好得多。
+
+我想對因此造成的任何不便向您表達歉意。
+
+誠摯感謝，
+----
+史蒂芬．羅德里格茨
+Site-55 GoI研究部
+控制。收容。保護。
+[[/div]]
+
+[[div style="background: url(https://scp-wiki.wdfiles.com/local--files/life-insurance-policy/fsdtiny.png) top right no-repeat; float: center; border: solid 3px #444444; width: 85%; padding: 1px 15px; margin: auto; margin-top: 10px; margin-bottom: 10px; box-shadow: 0 1px 3px rgba(0,0,0,.2);"]]
+[[table style="align:left; margin-top: 10px;"]]
+[[row]]
+[[hcell style="text-align:right"]]
+**自：**
+[[/hcell]]
+[[cell]]
+##red|@@miverson.site55@scp.int@@##
+[[/cell]]
+[[/row]]
+[[row]]
+[[hcell style="text-align:right"]]
+**致：**
+[[/hcell]]
+[[cell]]
+##red|@@srodriguez.site55@scp.int@@##
+[[/cell]]
+[[/row]]
+[[row]]
+[[hcell style="text-align:right"]]
+**主旨：**
+[[/hcell]]
+[[cell]]
+RE: 計畫變更
+[[/cell]]
+[[/row]]
+[[/table]]
+-----
+親愛的羅德里格茨先生，
+
+完全沒有問題！以及是的，獎金與住站醫療仍適用於您和您的妻子。您所需要做的就是來一趟Site-55，並與人事資源部的人力資源代表說說話。很高興您又回到了我們的團隊來！
+
+我們明天一早見，羅德里格茨先生。
+
+您的朋友，
+----
+米歇爾．艾佛遜
+Site-55人事資源部
+控制。收容。保護。
+[[/div]]
+
+[[div style="color: black; font-family: Courier; font-weight: bold; background:#DFFFF3 url(https://scp-wiki.wdfiles.com/local--files/life-insurance-policy/fsd.png) center no-repeat; float: center; border: solid 1px #000000; padding: 15px 15px; box-shadow: 0 1px 3px rgba(0,0,0,.2); width: 84%; margin-left: auto; margin-right: auto; margin-bottom: 4%; margin-top: 4%;"]]
+
+= __火勢遏阻部案件 ID-562341673444XP__
+
+狀況：
+@@     @@GoI研究部負責人史蒂芬．羅德里格茨的妻子因分娩併發症去世。  
+
+情報：
+@@     @@羅德里格茨的孩子有早產狀況，目前仍在醫療部新生兒重症監護翼區接受治療。儘管其母親具有遺傳疾病（肌肉萎縮症），但該孩童卻沒有遺傳到該疾病。
+
+建議措施：
+@@     @@將該院所現有的肌肉萎縮症嬰兒與之交換。為羅德里格茨提供兩個月的陪產假。提醒羅德里格茨，基金會將為他和他的家人提供優惠的醫療服務。賠付人壽保險保單。
+
+註記：
+@@     @@本案件目前**##blue|已結案##**。
+
+[[/div]]
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+
+
+[[include :scp-zh-tr:component:license-box
+|author=Uncle Nicolini]]
+=====
+
+> **Filename:** fsd.png
+> **Name:** fsd
+> **Author:** [[*user Estrellayoshte]]
+> **License:** CC BY SA 3.0
+> **Source Link:** N/A
+
+
+=====
+
+
+
+
+[[include :scp-zh-tr:component:license-box-end]]

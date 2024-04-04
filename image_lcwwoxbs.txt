@@ -1,0 +1,6 @@
+image: 'https://i.imgur.com/Dehi1Nj.jpg'
+owner: 白月眥
+owner-wiki: moonnotwhite
+license: '0'
+other-license: ''
+note: ''

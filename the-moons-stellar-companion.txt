@@ -1,0 +1,23 @@
+[[>]]
+[[module Rate]]
+[[/>]]
+
+[[module ListPages  category="fragment" parent="." limit="1" order="created_at" offset="@URL|0"]]
+%%content%%
+[[/module]]
+
+[[module css]]
+/* 标题字体 */
+@import url("http://scpsandboxcn.wikidot.com/etinjat-typefaces/code/5");
+#page-title {
+    font-family: '幼圆'  ,"Poppins",sans-serif  !important;
+}
+
+/* '超世纪中古印' 弃用*/
+[[/module]]
+
+
+[!--
+http://scp-zh-tr.wikidot.com/fragment:woedenaz-moon-1
+http://scp-zh-tr.wikidot.com/fragment:woedenaz-moon-0
+--]

@@ -1,0 +1,1102 @@
+[[module css]]
+.page {
+    display: block;
+    overflow: hidden;
+    font-family: "Monotype Corsiva", "Bradley Hand ITC", sans-serif;
+    font-style: normal;
+
+    background-attachment: scroll;
+    background-clip: border-box;
+    background-color: transparent;
+    background-image: linear-gradient(to top ,rgb(202, 219, 228) 0%, rgb(231, 233, 220) 8%);
+    background-origin: padding-box;
+    background-position: 0px 8px;
+    background-repeat: repeat;
+    background-size: 100% 20px;
+
+    border: 1px solid #CCC;
+    border-radius: 10px;
+    padding: 10px 10px;
+    margin-bottom: 10px;
+
+    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.2)
+    }
+.page p,
+.page ul {
+    line-height: 20px;
+    margin: 0;
+}
+[[/module]]
+
+= **[[[https://scp-zh-tr.wikidot.com/scp-6013/offset/1| << 返回SCP-6013]]]**
+
+[[div style="border:solid 1px #999999; background:#ccedce; margin: auto; padding:10px; margin-bottom: 10px;"]]
+[[=]]
+++++ {{**歡迎回來，ID @@*****@@-3505.**}}
+
+您已閱覽該頁面 {{**531**}} 次。
+[[/=]]
+[[/div]]
+
+----
+[[collapsible show="+ 蘇雷曼尼號隔離紀錄：19/01/17" hide="- 蘇雷曼尼號隔離紀錄：19/01/17"]]
+----
+[[div class="blockquote"]]
+= **＜紀錄開始＞**
+
+［蘭福德躺在小床上聽音樂，他唸著歌詞並以手指隨節奏輕點。］
+
+［基爾一手端著兩盤餐點走入隔離室，其中一盤疊起一堆雞肉片和水果片。他靠著分隔蘭福德的隔間與室內其餘部分的玻璃窗坐下。］
+
+［基爾敲了一下玻璃窗。］
+
+**蘭福德：** 餐點先到還是喊話先到？
+
+**基爾：** （怒道）我的老天啊，漢娜，我真可以他媽絞死你。
+
+**蘭福德：** （呢喃）喊話先到。
+
+**基爾：** （慍怒）站點指揮部說我可以讓你退隊，老實說，我真有在考慮。你弄那種狗屎是可以害死我們所有人的。
+
+**蘭福德：** 不過我們沒死。
+
+**基爾：** （應聲怒道）你根本就不知道！那一下可以是自殺行為來的！**你是有可能在那時就會死的，漢娜！**
+
+［蘭福德坐起，在小床上坐立不安。］
+
+**基爾：** （大叫）你隨時會惹來了不知甚麼，或是被攔腰斬開兩半，或是斷了一條手臂，或是他媽的——
+
+［基爾話語一停，深呼吸一回。］
+
+**基爾：** 你是會受傷的。以後不要這樣做了。
+
+**蘭福德：** 我當時不會讓牠傷到我們的，基爾。如果是你，你也會這樣做的。
+
+**基爾：** 我只是……
+
+［蘭福德站起並向玻璃窗走近。］
+
+**蘭福德：** 嘿，如果我不能故意送死的話，難道你覺得我真的有可能意外送命嗎？
+
+［蘭福德以手指作槍形手勢，做出對自己的太陽穴射擊的動作。他懷有期待地微笑，卻見基爾未有反應，隨之皺眉。］
+
+**蘭福德：** 這不好笑嗎？
+
+［基爾把蘭福德的餐盤送過隔間的送餐口。］
+
+**基爾：** 吃飯吧。
+
+**蘭福德：** 你確定？我可能會有像超級霍亂之類的。
+
+**基爾：** 噁。
+
+**蘭福德：** 剛剛才挫屎挫到整個人都空了。
+
+**基爾：** （應聲）行了，行了。
+
+［兩人默默用餐片刻。］
+----
+**基爾：** 你在那裡還挺能保持冷靜耶。
+
+［蘭福德停手。］
+
+**基爾：** 我認真的。我不覺得我在那時做得到你當時做的事。
+
+**蘭福德：** 我想只是我曾經跟阿狄泰打過交道而已，嗯。
+
+**基爾：** 你知道我在說甚麼的。
+
+［蘭福德頓了一會。］
+
+**蘭福德：** ……我真的不太**會接**好話的，喬安。
+
+［基爾輕笑。］
+
+**基爾：** 好吧。怎麼說，我也不會那樣做，因為那蠢爆了。
+
+**蘭福德：** 啊，這像話得多了。
+
+［基爾站起並轉身，準備離開房間。］
+
+**基爾：** 儘快康復，好嗎？這是命令。
+
+**蘭福德：** 你說怎樣就怎樣，混蛋。我又不是按時受薪的。
+
+［基爾離開房間，但在走廊駐足，舉起一腳撐住敞開的房門。］
+
+**蘭福德：** （細語）謝謝你。
+
+［基爾嘆氣關門。］
+
+= **＜紀錄結束＞**
+[[/div]]
+[[/collapsible]]
+[[collapsible show="+ Site-82傷亡報告，2019/01/01至今" hide="- Site-82傷亡報告，2019/01/01至今"]]
+----
+[[include :scp-wiki:component:responsive-tables-source |responsive-table-start= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |header-start= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |header-cell-start= --] ]]
+**資產**
+[[include :scp-wiki:component:responsive-tables-source |header-cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |header-cell-start= --] ]]
+**事發日期**
+[[include :scp-wiki:component:responsive-tables-source |header-cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |header-cell-start= --] ]]
+**傷亡成因**
+[[include :scp-wiki:component:responsive-tables-source |header-cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |header-cell-start= --] ]]
+**資產狀態**
+[[include :scp-wiki:component:responsive-tables-source |header-cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |header-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-start= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=資產]]
+**特工以斯拉．哈迪那，ID 14665-0241**
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=事發日期 ]]
+19/02/06
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=傷亡成因 ]]
+失血過多，奇蹟術導致身體外翻
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=資產狀態 ]]
+##Red|**已身故**##
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-start= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=資產]]
+**特工羅伊．博蒙德，ID 06599-3318**
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=事發日期 ]]
+19/02/06
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=傷亡成因 ]]
+頭部、胸部、腹部多處橫貫穿刺傷
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=資產狀態 ]]
+##Red|**已身故**##
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-start= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=資產]]
+**基金會船艦拉普蘭號**
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=事發日期 ]]
+19/02/06
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=傷亡成因 ]]
+主要及次要船體突發漏水及撞傷，導致浮力迅速喪失，最終翻沉
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=資產狀態 ]]
+##Red|**全員喪失**##
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-start= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=資產]]
+**基金會船艦蘇雷曼尼號**
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=事發日期 ]]
+19/02/06
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=傷亡成因 ]]
+船體破裂以及引擎爆炸失靈同時發生，最終翻沉
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=資產狀態 ]]
+##Red|**全員喪失**##
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-start= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=資產]]
+**基金會船艦三藏號**
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=事發日期 ]]
+19/02/06
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=傷亡成因 ]]
+主要及次要船體、船首及主引擎因奇蹟術導致物質喪失，最終翻沉
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=資產狀態 ]]
+##Red|**全員喪失**##
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-start= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=資產]]
+**基金會船艦奧斯陸之驕號**
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=事發日期 ]]
+19/02/06
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=傷亡成因 ]]
+主要船體及龍骨因奇蹟術導致物質喪失
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=資產狀態 ]]
+##Green|**已修復，返回服役**##
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-start= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=資產]]
+**特工[[span class="ruby"]]秋珍鎬[[span class="rt"]]Chu Jin-Ho[[/span]][[/span]]，ID 15834-0733**
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=事發日期 ]]
+19/05/21
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=傷亡成因 ]]
+暴露於SCP-6013大氣環境（過濾失效）；信念瀑瀉
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=資產狀態 ]]
+##fca90f|**已絕罰**##
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-start= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=資產]]
+**特工[[span class="ruby"]]瑪麗亞．德呂[[span class="rt"]]Maria DeLuz[[/span]][[/span]]，ID 13277-4460**
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=事發日期 ]]
+19/07/04
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=傷亡成因 ]]
+暴露於SCP-6013病原負載（毛細管失效）；信念瀑瀉
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=資產狀態 ]]
+##fca90f|**已絕罰**##
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-start= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=資產]]
+**特工[[span class="ruby"]]利奧波德．卡米耶[[span class="rt"]]Léopold Camille[[/span]][[/span]]，ID 10005-8937**
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=事發日期 ]]
+19/09/30
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=傷亡成因 ]]
+自體剖腹
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=資產狀態 ]]
+##fca90f|**已絕罰**##
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-start= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=資產]]
+**特工[[span class="ruby"]]尼瑪．奧巴桑喬[[span class="rt"]]Neema Obasanjo[[/span]][[/span]]，ID 08128-9717**
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=事發日期 ]]
+19/12/23
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=傷亡成因 ]]
+初步接觸後精神嚴重惡化，最終吞槍自殺
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=資產狀態 ]]
+##fca90f|**已絕罰**##
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-start= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=資產]]
+**特工[[span class="ruby"]]萊爾．麥考利-史密斯[[span class="rt"]]Lyle McCauley-Smith[[/span]][[/span]]，ID 07999-5151**
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=事發日期 ]]
+20/01/13
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=傷亡成因 ]]
+暴露於SCP-6013大氣環境（生物岩刺穿防護服），予以隔離，返回勤務時自溺而死，遺體已回收以作絕罰
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=資產狀態 ]]
+##fca90f|**已絕罰**##
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-start= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=資產]]
+**特工[[span class="ruby"]]凱爾．桑德斯[[span class="rt"]]Kyle Saunders[[/span]][[/span]]，ID 17662-0591**
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=事發日期 ]]
+20/02/06
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=傷亡成因 ]]
+蓄意攝食SCP-6013病原負載，儀式性生物重構，在登上[[span class="ruby"]]厄瑞玻斯號[[span class="rt"]]SCPF //Erebus//[[/span]][[/span]]時面臨信念瀑瀉
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=資產狀態 ]]
+##fca90f|**已絕罰**##
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-start= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=資產]]
+**基金會船艦厄瑞玻斯號**
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=事發日期 ]]
+20/02/06
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=傷亡成因 ]]
+上層及下層甲板因奇蹟術導致物質喪失，隔離及疏散中止，遙距觸發溫壓廢除程序「[[span class="ruby"]]共有集合[[span class="rt"]]COMMON POOL[[/span]][[/span]]」
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=資產狀態 ]]
+##fca90f|**已絕罰**##
+[[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |row-end= --] ]]
+[[include :scp-wiki:component:responsive-tables-source |responsive-table-end= --] ]]
+----
+[[/collapsible]]
+[[collapsible show="+ 哈迪那日誌第17則，絕罰前掃瞄複本" hide="- 哈迪那日誌第17則，絕罰前掃瞄複本"]]
+----
+[[div class="blockquote"]]
+基爾試著趕在今天完成自己一部分的工作。看來是要劃出SCP-6013有害的部分，搞得好像有一部分__沒有__害似的。他說我們不應該獨自去其他地方，卻留下我們在這裡，自己走去做這種事，一走就是幾個小時。我受夠了。
+
+鯨歌很好聽。在我睡覺的時候，我聽得見牠們，還有其他東西。它很好聽，像那種小時候聽著睡覺的大自然錄音。我甚至不清楚我有沒有不想再聽見它。
+
+孫薩蘭語也變得易學了，我假設是直覺吧，我不太能解釋。就只是聽見Raya說話，心裡就會舒服，溫暖的感覺深入骨髓。
+
+我不覺得應該這樣。
+
+我的血在耳中像河水聲，牆壁看著就痛。我隔著防護服都可以感覺到它們，像它們在舔我的皮膚一樣。我覺得……渺小。還是，說不定是太大了？感覺我__裡面__太大了。像要從自己體內吐出來那樣。
+
+是壓力。博蒙德說是壓力，而他才是醫師。除非一切正常，否則指揮部不會讓我們下來。
+
+不只這樣，蘭福德已經很辛苦了，我不需要再搞砸整件事。就畫一點東西放鬆一下好了。
+
+反正我從來都不是健談的人。
+-----
+[[include :scp-zh-tr:component:image-features-source |hover-enlarge=--]
+|enlarge-amount=3
+|speed=2000 
+|float=true
+|align=center
+|width=100%
+|url=https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/678f8730-08d0-4228-849a-7420f8e00024/dej05am-85532fae-785c-492c-aa3b-1c710ae2b0d5.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzY3OGY4NzMwLTA4ZDAtNDIyOC04NDlhLTc0MjBmOGUwMDAyNFwvZGVqMDVhbS04NTUzMmZhZS03ODVjLTQ5MmMtYWEzYi0xYzcxMGFlMmIwZDUuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.bvXesfhZBxsvgC8H6tdlkaZ8wK-oBMFoXDVgxMxCGwg
+|add-caption=true
+|caption=以斯拉．哈迪那特工在日誌背面繪畫的SCP-6013-B1及B2草圖。
+]]
+[[/div]]
+[[/collapsible]]
+[[collapsible show="+ 不潔陰影行動內部備忘：2019/04/21
+[僅限不潔陰影行動人員閱覽]" hide="- 已承認。憑證已獲認可。"]]
+----
+[[div style="background: #f2f2c2; border:solid 1px #999999; margin: auto; max-width: 650px; padding:20px; margin-bottom: 10px;"]]
+[[=]]
++++ {{**出自羅塞塔協定站點主管以賽亞．卡姆斯基，不潔陰影行動成員**}}
+[[/=]]
+
+這份文件發表往後，您們不得再向我討論關於漢娜．蘭福德的事情。
+
+我的命令已經很清晰。羅塞塔協定不是外交，也不是慈善，更絕對不是感情用事的動作。它是__拆除行動__。它是__消毒行動__。在這工作之中，對害獸或是頹垣不需同情。SCP-6013不能活。牠能存在只因駕馭者的容忍……不論駕馭者是否人類、是否真正活著。只要牠仍在服從，我就不管牠做甚麼、想甚麼。
+
+漢娜．蘭福德在蘇雷曼尼號已經被殺了。他生前已結婚兩年，有一位九個月大的兒子。他盡忠職守，甚至帶著無比勇氣，犧牲在應對欲肉教威脅的工作上。關於他的一切如以上。
+
+在紀錄上，我被寫成是錯誤的。我也確定基爾小姐會叫您們過來糾正我。但在我的辦公室、我的郵箱、我的電話，此事就不容爭辯。Site-82會留下紀錄，基金會也一樣。SCP-6013-A會繼續活著，而我不會再聽到關於牠的任何一件事。亦但願，不會再有人聽到。
+
+永別了，漢娜。
+
+願您安息。
+[[/div]]
+[[/collapsible]]
+[[collapsible show="+ RP：翻譯紀錄33，週期2-104" hide="- RP：翻譯紀錄33，週期2-104"]]
+----
+[[div class="blockquote"]]
+= **＜紀錄開始＞**
+
+**羅塞塔協定參與者ID 19337-9106：** SCP-6013，報到吧。
+
+［心包發出綠光。SCP-6013-A佇立在房內中心。］ 
+
+**SCP-6013-A：** 他在睡覺。之後再來吧。
+
+［9106不動。SCP-6013-A嘆氣。］
+
+**SCP-6013-A：** （單調）Raya。有同伴。
+
+**SCP-6013： Ith voya. Heta gräpaf7 itia. Pertittiäm thurayya.**
+
+[[html]]
+<select>
+<option selected>Ith</option>
+<option>我</option>
+<option>我們</option>
+</select> 
+<select>
+<option selected>voya</option>
+<option>使之疲憊／耗盡</option>
+<option>拖曳／拖累</option>
+<option>掉下／倒下</option>
+</select>。
+<br><br>
+<select>
+<option selected>Heta</option>
+<option>你們</option>
+<option>他們／它們</option>
+</select> 
+<select>
+<option selected>gräpaf</option>
+<option>融和／聯合</option>
+<option>群組／集體</option>
+<option>信仰</option>
+<option>集會</option>
+</select>
+<select>
+<option selected>7</option>
+<option>上</option>
+<option>下</option>
+<option>從</option>
+<option>內</option>
+<option>之</option>
+<option>外</option>
+<option>至</option>
+<option>帶</option>
+<option>**無**</option>
+</select> 
+<select>
+<option selected>itia</option>
+<option>離開</option>
+<option>消失</option>
+<option>死亡</option>
+</select>。
+<br><br>
+全部<select>
+<option selected>pertit</option>
+<option>群眾／暴徒</option>
+<option>鳥群／獸群</option>
+<option>--魚群--</option>
+</select>
+<select>
+<option selected>thurayya</option>
+<option>打碎／分解</option>
+<option>分開／使之裂開</option>
+<option>粉碎／瓦解</option>
+<option>群聚</option>
+</select>。
+[[/html]]
+
+**9106：** //As-salāmu ʿalaykunna//[[span class="fnnum"]].[[/span]][[span class="fncon"]]正式的阿拉伯致意／敬禮語，又稱「[https://zh.wikipedia.org/zh-tw/%E8%89%B2%E5%85%B0 色蘭]」。譯為「和平降臨於你」。該參與者後來因違反羅塞塔協定而被移出Site-82。[[/span]]，Raya。（點頭）6013-A。
+
+**SCP-6013-A：** （應聲）不要鼓勵他。
+
+**SCP-6013：** （調整發音）**//Merh-ahb//,**[[span class="fnnum"]].[[/span]][[span class="fncon"]]可能是「marhaba」錯誤發音或是古代常用版本，即阿拉伯語的「你好」。[[/span]] **antush. Itia.**
+
+[[html]]
+<i>Merh-ahb</i> , <select>
+<option selected>antush</option>
+<option>人物／主體</option>
+<option>物件／客體</option>
+<option>小石／細砂</option>
+<option>一者（即「某人」）</option>
+</select>。<br><br>
+<select>
+<option selected>Itia</option>
+<option>離開</option>
+<option>消失</option>
+<option>死亡</option>
+</select>。
+[[/html]]
+
+**9106：** 我奉命過來詢問您的載荷，Raya。即是您在裡面帶了甚麼東西。
+
+**SCP-6013： Ith heta ia yool byla, ia eshal byla. Ith bhektertiäm cera, batravtiäm cera, mayaghtiäm cera.**
+
+[[html]]
+<select>
+<option selected>Ith</option>
+<option>我</option>
+<option>我們</option>
+</select> 
+<select>
+<option selected>heta</option>
+<option>你們</option>
+<option>他們／它們</option>
+</select> 
+<select>
+<option selected>ia</option>
+<option>是</option>
+<option>**否**</option>
+</select> 
+<select>
+<option selected>yool</option>
+<option>背叛／叛徒</option>
+<option>出賣／褻瀆</option>
+<option>癌症</option>
+<option>過敏</option>
+</select> 
+<select>
+<option selected>byla</option>
+<option>聽</option>
+<option>歌唱／大叫</option>
+<option>奏樂</option>
+</select>，
+<select>
+<option selected>ia</option>
+<option>是</option>
+<option>**否**</option>
+</select> 
+<select>
+<option selected>eshal</option>
+<option>血液／膽汁</option>
+<option>毒藥／毒液</option>
+<option>經血／精液</option>
+<option>卵子</option>
+</select> 
+<select>
+<option selected>byla</option>
+<option>聽</option>
+<option>歌唱／大叫</option>
+<option>奏樂</option>
+</select>。
+<br><br>
+<select>
+<option selected>Ith</option>
+<option>我</option>
+<option>我們</option>
+</select> 全部<select>
+<option selected>bhekter</option>
+<option>爪</option>
+<option>**鉤**</option>
+<option>牙齒</option>
+<option>野獸／害獸</option>
+</select>
+<select>
+<option selected>cera</option>
+<option>攻打</option>
+<option>拳打／腳踢／噬咬</option>
+<option>對抗／**反抗**</option>
+</select>，全部<select>
+<option selected>batrav</option>
+<option>--子宮／發源地--</option>
+<option>手／口</option>
+<option>--海／洋--</option>
+<option>花園</option>
+</select>
+<select>
+<option selected>cera</option>
+<option>攻打</option>
+<option>拳打／腳踢／噬咬</option>
+<option>對抗／**反抗**</option>
+</select>，全部<select>
+<option selected>mayagh</option>
+<option>使命／誓約</option>
+<option>承諾／約束</option>
+<option>真理</option>
+<option>**刀劍**</option>
+</select>
+<select>
+<option selected>cera</option>
+<option>攻打</option>
+<option>拳打／腳踢／噬咬</option>
+<option>對抗／**反抗**</option>
+</select>。
+[[/html]]
+
+**SCP-6013-A：** 他沒有要配合的意思。
+
+**9106：** 明白了。那麼，您會協助我嗎？
+
+［SCP-6013-A發光。牠的手臂展開至肘部，並頻繁閃爍綠光。］ 
+
+**SCP-6013、SCP-6013-A：** （同聲）**Heta saran hyoda.**
+
+[[html]]
+<select>
+<option selected>Heta</option>
+<option>你們</option>
+<option>他們／它們</option>
+</select> 
+<select>
+<option selected>saran</option>
+<option>字詞／言語</option>
+<option>咒語</option>
+<option>指示</option>
+<option>禱告</option>
+</select> 
+<select>
+<option selected>hyoda</option>
+<option>說</option>
+<option>投擲</option>
+<option>唾吐</option>
+</select>。
+[[/html]]
+
+**9106：** 告訴我們肺部裡的東西吧，Raya。
+
+［心包各處的黑石旋轉並向內摺疊。地板退後，露出數公尺深處嵌入一個複雜的骨骼與肌肉結構之中的閃亮肺。］
+
+**SCP-6013、SCP-6013-A：** （同聲）**你們的終結。**
+
+**9106：** 它們滿嗎？
+
+**SCP-6013、SCP-6013-A：** （同聲）**是充滿，是否。超越測量。**
+
+［SCP-6013-A竭力忍耐。］
+
+**SCP-6013-A：** （苦惱）他在……說謊。其中一個差不多空了。其餘四個我不知道，他——
+
+［心包的地面忽然返回原狀。SCP-6013-A倒地。］
+
+**SCP-6013-A：** （虛弱）他會作更多的。去替補它。
+
+**9106：** 他有多少病原負載是完好的？
+
+**SCP-6013： Ia pief.**
+
+[[html]]
+<select>
+<option selected>Ia</option>
+<option>是</option>
+<option>否</option>
+</select> 
+<select>
+<option selected>pief</option>
+<option>令人滿意的</option>
+<option>好的／可接受的</option>
+</select>。
+[[/html]]
+
+**SCP-6013-A：** （應聲）百分之81。K級致命份量的六倍。
+
+**9106：** 明白了。所以是高位停留。
+
+**SCP-6013-A：** 他正在繞過自己的過濾器。我也不知道怎樣作新的。我……
+
+［SCP-6013-A乾嘔。］
+
+**9106：** 我會通知站點指揮部了。
+
+**SCP-6013-A：** （虛弱）叫卡姆斯基去吃屎。
+
+［9106輕笑。］
+
+**9106：** 我不打擾您們兩位了。
+
+**SCP-6013、SCP-6013-A：** （同聲）**很好。**
+
+= **＜紀錄結束＞**
+
+[[html]]
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Jura&display=swap" rel="stylesheet">
+        <button id="acksubmit1" type="button">提交</button>
+        <div style="text-align: right; color: #2f8761; font-weight: bolder; font-family: 'Jura', sans-serif;" id="acktext1"></div>
+        <script type="text/javascript" charset="utf-8">
+            var btn = document.getElementById("acksubmit1");
+            var txtDiv = document.getElementById("acktext1");
+            btn.onclick = function () {
+                    txtDiv.innerHTML = "<hr>已承認。<hr>";
+                }
+        </script>
+[[/html]]
+[[/div]]
+[[/collapsible]]
+[[collapsible show="+ RP：翻譯紀錄59，週期3-80 
+[已刪除條目]" hide="- 已承認。憑證已獲認可。"]]
+----
+[[div style="border:solid 1px #999999; background:#f0b3b1; margin: auto; padding:20px; margin-bottom: 10px;"]]
+[[=]]
++++++ {{**__以下資料已根據維安命令6013.RP.7790從基金會紀錄刪除。__**}}
+[[/=]]
+= **＜紀錄開始＞**
+
+**SCP-6013-A：** 你說過我可以問問題的。
+
+[[span class="dblock"]]**卡姆斯基**[[/span]]**：** 我是有這樣說過沒錯。
+
+**SCP-6013-A：** 已經有多久了？我……我數不清日子了。
+
+[[span class="dblock"]]**卡姆斯基**[[/span]]**：** 你112天之前在這裡收容自己。
+
+**SCP-6013-A：** ……基爾沒事吧？請告訴我他沒事，拜託。
+
+[[span class="dblock"]]**卡姆斯基**[[/span]]**：** 喬安．基爾還活著沒錯。
+
+［SCP-6013-A放鬆身體。牠將一手放在嘴前，忍住眼淚。］
+
+**SCP-6013-A：** （苦惱）他不會像我這樣吧？
+
+[[span class="dblock"]]**卡姆斯基**[[/span]]**：** 被污染？不太可能。他已經隔離這麼久了。說不定SCP-6013不需要再招攬新人。
+
+［[[span class="dblock"]]卡姆斯基[[/span]]翻過手上的文件。］
+
+[[span class="dblock"]]**卡姆斯基**[[/span]]**：** 你有找到牠的腦嗎？
+
+**SCP-6013-A：** 甚麼？沒，沒。
+
+［[[span class="dblock"]]卡姆斯基[[/span]]怒視。］
+
+**SCP-6013-A：** （苦惱）我告訴過你了，這根本不是這樣運作的。根本就沒——
+
+[[span class="dblock"]]**卡姆斯基**[[/span]]**：** （應聲）我知道你說過甚麼。我下來這裡是要看見成果，不管你怎樣做都要拿得出來。如果你沒找到牠的腦，你還做了些甚麼？
+
+［SCP-6013-A倚靠在牆面，並癱坐在地上。牠把膝蓋往自身合攏，然後垂頭。］
+
+**SCP-6013-A：** （含糊）我要回家。
+
+[[span class="dblock"]]**卡姆斯基**[[/span]]**：** 我不能批准。
+
+**SCP-6013、SCP-6013-A：** （同聲）**我要回家。**
+
+[[span class="dblock"]]**卡姆斯基**[[/span]]**：** 那隻利維坦一死，你就能回家了，蘭福德。
+
+**SCP-6013： Ith kulo-kulo surva. Heta oork7, yool’nuterr. Ith huwanz7. Cupard tsatsa, akaras bhektertiäm.**
+
+[[html]]
+<select>
+<option selected>Ith</option>
+<option>我</option>
+<option>我們</option>
+</select> 
+<select>
+<option selected>kulo</option>
+<option>（腸道）蠕蟲</option>
+<option>間諜</option>
+<option>平民／弱者</option>
+<option>竊賊</option>
+</select>
+<select>
+<option selected>-</option>
+<option>**以及**</option>
+<option>但是</option>
+<option>因為／為了</option>
+<option>或者</option>
+<option>所以</option>
+</select>
+<select>
+<option selected>kulo</option>
+<option>（腸道）蠕蟲</option>
+<option>間諜</option>
+<option>平民／弱者</option>
+<option>竊賊</option>
+</select> 
+<select>
+<option selected>surva</option>
+<option>飲食</option>
+<option>從自己取出</option>
+<option>透徹理解／內化</option>
+<option>**吞嚥**</option>
+</select>。
+<br><br>
+<select>
+<option selected>Heta</option>
+<option>你們</option>
+<option>他們／它們</option>
+</select> 
+<select>
+<option selected>oork</option>
+<option>力量／驅動力</option>
+<option>肌肉／裝甲</option>
+<option>恐怖</option>
+<option>軍團</option>
+</select>
+<select>
+<option selected>7</option>
+<option>上</option>
+<option>下</option>
+<option>從</option>
+<option>內</option>
+<option>之</option>
+<option>外</option>
+<option>至</option>
+<option>帶</option>
+<option>**無**</option>
+</select>，
+<select>
+<option selected>yool</option>
+<option>背叛／叛徒</option>
+<option>出賣／褻瀆</option>
+<option>癌症</option>
+<option>過敏</option>
+</select>'
+<select>
+<option selected>nuterr</option>
+<option>士兵</option>
+<option>祭司／牧師</option>
+<option>男孩／男人／父親</option>
+</select>。
+<br><br>
+<select>
+<option selected>Ith</option>
+<option>我</option>
+<option>我們</option>
+</select> 
+<select>
+<option selected>huwanz</option>
+<option>風</option>
+<option>冰／雪</option>
+<option>--寒冷--</option>
+<option>死亡</option>
+</select>
+<select>
+<option selected>7</option>
+<option>上</option>
+<option>下</option>
+<option>從</option>
+<option>內</option>
+<option>之</option>
+<option>外</option>
+<option>至</option>
+<option>帶</option>
+<option>**無**</option>
+</select>。
+<br><br>
+<select>
+<option selected>Cupard</option>
+<option>柔軟的／**溫柔的**</option>
+<option>仁慈的</option>
+<option>甜的／鹹的／美味的</option>
+</select> 
+<select>
+<option selected>tsatsa</option>
+<option>移動／行走</option>
+<option>旅行</option>
+<option>踏上旅途</option>
+<option>流動／流過</option>
+</select>，
+<select>
+<option selected>akaras</option>
+<option>原野／牧場</option>
+<option>礁岩／海床</option>
+<option>**地面**</option>
+<option>世界</option>
+</select> 全部<select>
+<option selected>bhekter</option>
+<option>爪</option>
+<option>鉤</option>
+<option>牙齒</option>
+<option>野獸／害獸</option>
+</select>。
+[[/html]]
+
+[[span class="dblock"]]**卡姆斯基**[[/span]]**：** （慍怒）漢娜——
+
+［一塊黑石刺穿[[span class="dblock"]]卡姆斯基[[/span]]的手。］ 
+
+**SCP-6013-A： 你以為這裡你作主，但作主的不是你。**
+
+［心包光芒轉紅。在SCP-6013以外，SCP-6013-B1及B2轉向面對心包，並發出響亮的語音，以至可在[[span class="dblock"]]卡姆斯基[[/span]]的個人對講機聽見。］
+
+**SCP-6013：** （以SCP-6013-A的聲線）**如果我想，我可以把你他媽輾過整片天花板。我可以把你整隊艦隊變成天殺的碎片。**
+
+［[[span class="dblock"]]**卡姆斯基**[[/span]]撿起文件。他展示另一手的引爆器，以此示意。］
+
+[[span class="dblock"]]**卡姆斯基**[[/span]]**：** 你是可以的。不過是以前。
+
+［數百枚黑石指向[[span class="dblock"]]卡姆斯基[[/span]]。他把拇指放在引爆器的按鈕上。］
+
+**SCP-6013：** （以SCP-6013-A的聲線）**你再下來的話，__我就殺了你。__我沒有在說笑。我會用你的身體來塗滿這裡的牆壁。**
+
+[[span class="dblock"]]**卡姆斯基**[[/span]]**：** 你還沒回答我的問題。 
+
+［成列的黑石相互交織，封鎖整個心包。］
+
+**SCP-6013、SCP-6013-A：** （同聲）**走開，走開，走開，走開，走開，__走開，走開走開//走開走開走開//__**
+
+［[[span class="dblock"]]卡姆斯基[[/span]]轉身離室。］
+
+[[span class="dblock"]]**卡姆斯基**[[/span]]**：** 我們下次再談。別再耽誤我了。
+
+= **＜紀錄結束＞**
+[[/div]]
+[[/collapsible]]
+[[collapsible show="+ RP：翻譯紀錄121，週期4-186-2 
+[已刪除條目]" hide="- 已承認。憑證已獲認可。"]]
+----
+[[div style="border:solid 1px #999999; background:#f0b3b1; margin: auto; padding:20px; margin-bottom: 10px;"]]
+[[=]]
++++++ {{**__以下資料已根據維安命令 6013.RP.3505從基金會紀錄刪除。__**}}
+[[/=]]
+= **＜紀錄開始＞**
+
+**基爾：** 拜託，這次不要那麼大聲。如果你激怒牠們的話，我沒辦法繼續的。
+
+**SCP-6013：** （以SCP-6013-A的聲線）**不附保證。**
+
+［SCP-6013-A在是次互動全程皆透過SCP-6013發言。］
+
+**基爾：** 你肚子餓嗎？
+
+**SCP-6013： 我不覺得我需要吃東西，但你拿甚麼過來我都喜歡。**
+
+［基爾把一張煙燻鮭魚肉遞過心包上的薄膜。SCP-6013-A在對話全程以此進食。］
+
+**SCP-6013： 哇喔。**（輕笑）**屎一樣的難吃。**
+
+**基爾：** 那可是佳餚耶。
+
+**SCP-6013： 對、對。**
+
+［兩人熱情對話許久。］
+----
+**基爾：** （柔聲）你還好吧？我指相對來說。
+
+［SCP-6013-A眨眼並盯著地板。］
+
+**SCP-6013： 我覺得我好像要被掰開了。我不想再待在這裡了。**
+
+**基爾：** （柔聲）我明白的。
+
+［SCP-6013-A把一手放到心包的薄膜上。］
+
+**SCP-6013： 我希望你可以更多下來這裡。**
+
+**基爾：** 如果可以的話，我會的，親愛的。我可是在補償我離開之後的時間。
+
+［一陣漫長的沉默。SCP-6013-A注視著基爾被打結的左袖。］
+
+**SCP-6013： 這不是因為我們之前的事吧？**
+
+**基爾：** 漢娜……
+
+**SCP-6013： Ith yool. Thurayya. Ryratal. Ryratal. Ryratal.**
+
+[[html]]
+<select>
+<option selected>Ith</option>
+<option>我</option>
+<option>我們</option>
+</select> 
+<select>
+<option selected>yool</option>
+<option>背叛／叛徒</option>
+<option>出賣／褻瀆</option>
+<option>癌症</option>
+<option>過敏</option>
+</select>。
+<br><br>
+<select>
+<option selected>Thurayya</option>
+<option>打碎／分解</option>
+<option>分開／使之裂開</option>
+<option>粉碎／瓦解</option>
+<option>群聚</option>
+</select>。
+<br><br>
+<select>
+<option selected>Ryratal</option>
+<option>謝罪</option>
+<option>懺悔</option>
+<option>原諒</option>
+</select>。
+<select>
+<option selected>Ryratal</option>
+<option>謝罪</option>
+<option>懺悔</option>
+<option>原諒</option>
+</select>。
+<select>
+<option selected>Ryratal</option>
+<option>謝罪</option>
+<option>懺悔</option>
+<option>原諒</option>
+</select>。
+[[/html]]
+
+［基爾把手放到SCP-6013-A的手上。］
+
+**SCP-6013：** （苦惱）**__我很抱歉，喬安。__**
+
+**基爾：** （柔聲）我們會一起辦好這件事的。我知道我們做得到。
+
+**SCP-6013：** （苦惱）**你保證？**
+
+**基爾：** （細語）我保證。
+
+［SCP-6013-A哭泣並緊繃身體。］
+
+**基爾：** （細語）我全心全意向你保證。
+
+= **＜紀錄結束＞**
+[[/div]]
+[[/collapsible]]
+[[collapsible show="+ 致布萊克．肯尼迪-蘭福德書信" hide="- 已承認。憑證已獲認可。"]]
+----
+**附錄：** SCP-6013-A自願進行自我收容後十一個月，一隻已死的SCP-6013-B5實例在Site-82附近浮上水面。該實例的體內藏有SCP-6013-A的日誌，既乾燥亦完好無缺，隨附一小瓶SCP-6013-B0，安瓿一側寫上「乾淨」一詞。以前未曾有同類事件發生。
+----
+[[div class="blockquote"]]
+= **[[[*https://scp-zh-tr.wikidot.com/scp-6013/offset/4 | 若需協助，可隨時參考羅塞塔協定官方指引。>>]]]**
+[[/div]]
+[[tabview]]
+[[tab SCP-6013-A日誌第218則，2019/12/21（正面）]]
+----
+[[div class="page"]]
+
+您好，吾愛。我祝您有一個美滿的聖誕節。很抱歉我沒辦法和您一起過節了。
+@@ @@
+我之後會任務要做好一陣子了。[[span class="dblock"]]他們說會要至少兩年時間。我們完事之前還有一大堆清理工作要做。我們學得愈快，我就能愈早離開。但是我一定會回來的。我向您保證，我會回來的。[[/span]] 您要記下達米安做過的所有事情，明白嗎？我回來的話會看的。
+@@ @@
+我還留著您送我的戒指。[[span class="dblock"]]老實說，我能保持理智都靠它。就像您也在這裡陪我一樣。我知道如果您可以的話，您也會來陪我的。我不肯定為甚麼Raya會讓我留下這件金屬製品，可能他知道我在乎。又或是他只是想要基爾的軍牌來當作戰利品。[[/span]]
+@@ @@
+[[span class="dblock"]]您當我的任務是拆彈就好。我一走，就不能確保它不會爆炸。直到我們找到另一個方法之前，我就要去清走所有危險的部分。那其實比我預料的還要輕易。在這裡搬東西開始變得像天生的一樣純熟了。雖然一時間要管理這裡所有東西會是困難的，但是Raya幫了大忙。[[/span]]
+@@ @@
+//噢//，我沒有解釋到這個嗎？[[span class="dblock"]]那個Raya的事。[[/span]]我老是忘記那些細節。要在寄信之前再三檢查才行。有人這樣告訴過我。
+@@ @@
+[[span class="dblock"]]還有一件事：我回來的時候，想試試生個孩子。我不知道應該怎樣向您解釋，但是現在我們可以了。您只需要相信我就好。--攜帶閃亮疾病逃兵蛇褻瀆褻瀆祝聖**RAYA夠了**--[[/span]]
+@@ @@
+我真的真的好愛你。
+@@ @@
+[[span class="dblock"]]等我回家，如果可以調去輸入資料或是其他沒那麼恐怖的工作，我會帶您來這裡看看。我認識一個人會想見您的。其實有幾個人。我們可以坐在岸邊看螢光。我向你保證，那絕對是您從未見過的。[[/span]]
+@@ @@
+[[span class="dblock"]]我準備為我們所有人改變世界，布萊克。為了您。[[/span]]
+@@ @@
+[[span class="dblock"]]世界會變美麗的。[[/span]]
+[[/div]]
+----
+[[/tab]]
+[[tab SCP-6013-A日誌第218則，21/12/2019（背面）]]
+----
+[[div class="page"]]
+@@ @@
+**ITH RAYA, ITH 蘭福德, ITH CIRRAK LAMAT7**
+@@ @@
+[[>]]
+**HETA HYOTT PRATA-IA BYLARI BYLA**@@          @@
+[[/>]]
+**ITH HETA SUARNA , IA, ANÄI DOX, ANÄI SUARN**
+[[>]]
+**YOOLTIÄM**@@    @@
+[[/>]]
+@@  @@**ITH MADRA**
+@@                      @@**ITH OORKA**
+@@ @@
+@@ @@
+[[>]]
+**BAPTA FOTIA ITIA JONA**@@               @@
+[[/>]]
+@@ @@
+**IA, IA, IA, IA**
+@@ @@
+@@               @@ **BATRAV SIOLA, NÄLKÄ CERA, ANÄI KALME KORATA HETATIÄM7**
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+[[=]]
+**Ith oorka，基爾。Ith heta prata.**
+**Ryratal. Ryratal. Ryratal. Ryratal ryratal ryra t a    l**
+[[/=]]
+[[/div]]
+----
+[[/tab]]
+[[/tabview]]
+----
+[[div class="blockquote"]]
+
+= {{**__Site-82現正準備羅塞塔協定7-08調職及調班程序。__**}} 
+= {{**__使用者ID @@*****@@-3505，您已經正式獲解下現有職務。__**}} 
+= {{**__您會想結束這次查詢嗎？__**}}
+
+[[html]]
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Jura&display=swap" rel="stylesheet">
+<select id="yn">
+            <option value="yes">是</option>
+            <option value="no" selected>否</option>
+        </select>
+        <button id="submit" type="button">提交</button>
+        <div style="text-align: center; color: #2f8761; font-weight: bolder; font-family: 'Jura', sans-serif;" id="text"></div>
+        <script type="text/javascript" charset="utf-8">
+            var yn = document.getElementById("yn");
+            var btn = document.getElementById("submit");
+            var txtDiv = document.getElementById("text");
+            btn.onclick = function () {
+                if (yn.value == "yes") {
+                    txtDiv.innerHTML = "<hr>終端保存中。再見，喬安．基爾。<hr>";
+                    setTimeout(function () { window.top.location.href = "http://scp-zh-tr.wikidot.com/"; }, 2500);
+                }
+
+            }
+        </script>
+[[/html]]
+
+[[/div]]
+[[/collapsible]]
+----

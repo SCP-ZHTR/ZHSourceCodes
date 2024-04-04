@@ -1,0 +1,1170 @@
+[!--
+https://scp-zh-tr.wikidot.com/fragment:scp-6747-0 - STANDARD MODE STYLING
+https://scp-zh-tr.wikidot.com/fragment:scp-6747-1 - ACCESSIBILITY MODE STYLING
+--]
+
+[[include component:scp-meta-title-hiding css-style=classic]]
+
+[[module CSS]]
+
+div.overwatch_memo {
+    --memo-heading: "監督者指揮部";
+}
+
+/*
+EPISODE-SPECIFIC STYLING
+*/
+
+#page-content .anom-bar-container.clear-6 .top-center-box > div {
+background-color: rgb(var(--six-color));
+background-blend-mode: luminosity;
+}
+
+#u-blink-bar p:last-child::after {
+content: "";
+border-right: 1px solid rgb(var(--basalt-main-text-color));
+animation: blink 1s infinite;
+position: relative;
+left: 1px;
+}
+ 
+@keyframes blink{
+to {
+opacity: 0;
+}
+}
+
+[[/module]]
+
+[[div style="display: none;"]]
+[[include component:image-block
+name=https://scp-wiki.wikidot.com/local--files/admonition/admo-6747-squarethumb.png
+|caption=告誡
+|width=100%
+|align=center]]
+[[/div]]
+
+[[div class="admo-episode_splash"]]
+
+[[div class="admo-rate_splash"]]
+[[include info:start]]
+**SCP-6747 - 混沌理論**
+**作者：**[[*user Ralliston]]、[[*user Liryn]]、[[*user Placeholder McD]]、[[*user stephlynch]]
+**原文：**[https://scp-wiki.wikidot.com/scp-6747 SCP-6747 - CHAOS THEORY]
+**譯者：**[[*user Kikunai]]
+**圖像：** 見底部。
+
+萬分感謝[[*user edward_knave]]和[[*user vomiter]]的幫忙，尤其是詩的部分。
+
+「英雄旅程」上的文字來自[https://zh.wikipedia.org/wiki/%E8%8B%B1%E9%9B%84%E6%97%85%E7%A8%8B#%E5%B8%B8%E8%A6%8B%E7%9A%84%E8%A7%92%E8%89%B2%E5%8E%9F%E5%9E%8B 中文維基百科]
+[[include info:end]]
+[[/div]]
+
+[[div]]
+[[span class="cond"]]第二幕[[/span]]
+
+[[span class="ctrl"]]混沌理論[[/span]]
+
+@@ @@
+[[/div]]
+
+[[module ListPages category="fragment" parent="." limit="1" order="created_at" offset="@URL|0"]]
+%%content%%
+[[/module]]
+
+[[/div]]
+
+[[div class="overwatch_memo"]]
+= 以下檔案除幾名[[span class="table4"]][[span class="st"]]A級[[/span]][[/span]]人員和[[span class="table5"]][[span class="st"]]監督者[[/span]][[/span]]以外僅限收容人員閱覽。若您未被明確授權閱覽以下檔案，您將自動接受記憶刪除，並重新定向至適當權限的SCiPnet存取點。
+[[/div]]
+
+@@ @@
+
+[[=]]
+[[div class="blockquote"]]
+{{口令: **黑月是否嚎叫？**}}
+[[/div]]
+
+[[div id="blink-bar"]]
+[[div class="blockquote" style="background-color: transparent;"]]
+{{[*/scp-5242 phmd]@scip.net:// 它為嚎叫本身；為月中之月。}}
+[[/div]]
+[[/div]]
+
+[[div class="blockquote"]]
+{{輸出：**已接受後門訪問**}}
+{{錯誤：遇到錯誤字串**@7/dark/terminal**（未找到地址）}}
+{{(1/7)}}
+[[/div]]
+[[/=]]
+
+@@ @@
+
+[[include :scp-zh-tr:component:customizable-acs
+|containment-class= thaumiel
+|containment-image= https://scp-wiki.wdfiles.com/local--files/scp-5382/thaumiel-icon-2.svg
+|containment-color= 0, 135, 189
+|inc-containment = --]]]
+
+[[include :scp-zh-tr:component:anomaly-class-bar-source
+|item-number= SCP-6747
+|clearance= 6
+|container-class= thaumiel
+|secondary-class= none
+|secondary-icon= none
+|disruption-class= vlam
+|risk-class= caution
+]]
+
+[[include :scp-zh-tr:component:customizable-acs
+|category-count= 1
+|class-color-1= 144, 144, 144
+|class-category-1= 次要等級：
+|class-text-1= gödel
+|class-icon-1= https://scp-wiki.wdfiles.com/local--files/itsdenalis-personnel-file/godel-icon.svg
+|inc-extra-categories= --]]]
+
+[[div class="tableb table6"]]
+[[div class="widetable"]]
+
+[[div class="acstable"]]
+||~ **指定站點** ||~ 計劃領導人 ||
+||= 行政站點Site-01，Site-15， _
+[[[secure-facility-dossier-site-43|Site-43]]]，[[[the-s-c-plastics-hub|Site-87]]]，[[[secure-facility-dossier-site-120|Site-120]]] ||= [[span class="bt"]]顧問[[/span]] (O5-8), _
+Place H. MD., PhD.主管 ||
+||~ **指定部門** ||~ **研究領導人** ||
+||= 原型部門，本質促動部， _
+超心理部， //量子與超力學部// ||= James Micheals博士，Magdaleine Cornwell博士 _
+Zachary C. Saxon博士 ||
+[[/div]]
+
+[[div class="modal"]]
+[[include component:image-block
+name=https://scp-wiki.wdfiles.com/local--files/scp-6747/stfmem.png
+|caption=STF-𐤌（說書人）
+|width=200px
+|align=right]]
+
+[[span class="st"]]特殊收容措施：[[/span]] SCP-6747是[[span class="table5"]][[span class="st"]]AMIDA級[[/span]][[/span]]優先度[[span class="bt"]]X/MACHINA計劃[[/span]]（見[[span class="bt"]]附錄 6747/V[[/span]]）的最終目標； 因此，此計劃可幾乎無限度利用一切資源完成目標。上述計劃應由指定人數的原型部門及本質促動部有關人員進行維護，並由[[span class="bt"]]顧問[[/span]]（O5-8）以及 [[span class="table4"]][[span class="st"]]次級議會[[/span]][[/span]]（O4）的學術聯絡人Place H. MD.主管監督。
+
+必須創造和持續維護SCP-6747-A以達成SCP-6747。每一個SCP-6747-A需要不同（但大量）的運算和資源需求，而這些並不能以一般//n//維幾何形式系統[[span class="fnnum"]].[[/span]][[span class="fncon"]]譯註：形式系統是指根據一系列規則以公理推斷定理的抽象結構。[[/span]]正確解釋/預測。原型部門[[span class="bt"]]STF-𐤌[[/span]]（「說書人」）應在SCP-6747-A自然逗留期間在旁駐守，並根據SCP-6747要求利用敍事注入來編輯它們。不可過早終結SCP-6747-A的自然結束運動，因為這可能引起SCP-6747-B內生成[*/scp-2747 逆敍事]。
+
+一名專精超心理學的[[span class="table4"]][[span class="st"]]A級[[/span]][[/span]]人員（現為[*/secure-facility-dossier-site-43 Site-43]的Nhung T. Ngo主席）必須始終在場，以便在SCP-6747-B從主要功能醒來時鎮靜它。應通過注射多巴胺和/或受控電擊進行鎮靜。應提醒人員SCP-6747-B已經功能性死亡 ，而且神經元鏈的持久重新激活並不構成意識。
+[[/div]]
+
+[[include component:image-block
+name=https://i.imgur.com/ASaFAcP.png
+|caption=SCP-6747-B（KING）。
+|width=100%
+|align=center]]
+
+[[div class="modal"]]
+[[div class="scp-image-block block-right" style="width: 525px;"]]
+[[html]]
+<video style="width:100%; height:100%" autoplay muted loop>
+<source src="https://i.imgur.com/x2OLbKD.mp4" type="video/webm">
+</video>
+[[/html]]
+[[div class="scp-image-caption" style="width: 525px;"]]
+███X-MCD/II（「[[span class="ruby"]]出悖論引擎[[span class="rt"]]Paradox Exodus Engine[[/span]][[/span]]」）
+[[/div]]
+[[/div]]
+
+[[span class="st"]]**描述：**[[/span]]SCP-6747是[[span class="ruby"]]內敍事注入[[span class="rt"]]mesofictional injection[[/span]][[/span]]，一種用以復原已逝人員的理論性過程。這個過程促使因果泡-6747（CB-6747）的無限期維護。CB-6747是一個口袋宇宙，人員可通過共同想像當中虛構情景進行操縱，從而理論上從███X-MCD/II——一個基金會製造，用以在不同敍事之間運輸的載體——內獲得虛構實體，並將其重新放置在基線現實上。
+
+SCP-6747-A是作為CB-6747候選的而創建的獨立微宇宙的集合代稱。至今有三個候選宇宙：
+
+* SCP-6747-A1：一個維持在0多馬爾[[span class="fnnum"]].[[/span]][[span class="fncon"]]1多馬爾（Daumal）等於在1-1-1維內的一般敍事-空間-時間拓撲複雜度（即是範圍內確切擁有1敍事維度，1空間維度和1時間維度。）[[/span]]的空白虛空，因此內部沒有任何物理、因果和敍事位能。[[span class="fnnum"]].[[/span]][[span class="fncon"]]近年研究發現即使在任一或更多維度為空白，資訊促動仍然在量子微觀層面繼續有反應。這些互動的最終結果皆為一個稍微大於0，經常被理解為[*/scp-3955 一串音調]的無理值。[[/span]] 它作為參考值而被保留，但須注意它也能與[*/scp-5241 形相實體]交流。
+
+* SCP-6747-A2:一個1.5/2/1維空間[[span class="fnnum"]].[[/span]][[span class="fncon"]]1.5維敍事、2維空間、1維時間。[[/span]]研究測試宇宙，為敍事學、本質促動過程、元/內敍事互動研究而設。透過建立虛構文件[*/scp-5875 SCP-5875]，可在SCP-6747-A2內生成半虛構實體；由於普世遞迴微觀拓撲結構的影響，敍事結構因自我參照突變而變得更顯著，被自身人造普世敍事吸引達到異常的程度。因此，上述實體必須與基金會合作，利用他們的宇宙物理將敍能傳遞給相關人員，使後者得到各種學科的知識/能力。
+
+* SCP-6747-A3：一個//m///3/1維空間，而//m//是一個等於log//,,i!,,([*/scp-033 Θ'])//的有理數。這是普遍敍事維度3/1維空間——維持任何有意義的故事結構——的理論最低比例。實際上，它是一個實體實現任意目標所需的最小虛構敍事複雜度。簡單的SCP-6747-A3內部交互作用可以透過敍事運算法來正式表達和計算（參見[[span class="bt"]]附錄6747/IV[[/span]]）。
+
+
+SCP-6747-B可同時指：
+
+* [[span class="ruby"]]K式孵化/敍事生成儀[[span class="rt"]]K-Incubator/Narrative Generator[[/span]][[/span]]（KING），用以維持SCP-6747-A的微型宇宙創建與操控機械，或；
+* Jonathan A. King主管（已逝）的腦部，脊髓和總神經系統，作為KING的主要計算系統。
+
+SCP-6747-C^^7777777^^[[span class="fnnum"]].[[/span]][[span class="fncon"]]**敍事危害：** 由單一或多種敍素組成，且會共同造成連鎖反應，影響相關敍事結構完整性的的結構。[[/span]]
+
+
+@@ @@
+
+[[div class="blockquote" style="background-color: rgba(255, 0, 0, 0.3); border-color: transparent;"]]
+[[=]]
+{{遇到錯誤字串 **@[數據丟失]**}}
+{{(2/7)}}
+[[/=]]
+[[/div]]
+
+@@ @@
+
+----
+
+[[span class="st"]]歷史：[[/span]] SCP-6747最初在King主管2029/09/13逝世後由超形上學部主管Place H. MD., PhD得出的推論。King同時是農業部、生物學部、化學部、異體生物學部的主管，亦有顯著的異常精神增強和能力，讓他能夠同時管理超過800個不同的異常及其相關操作。在一次被認為是醫療事故後，King的職位空缺導致基金會各大重要行動失去了領導人，導致92起異常物品收容失效事件，這些都有待審查或立即的指示。基金會僅在重新收容和面紗維護方面的損失就已經超過了140萬美元。[[span class="table5"]][[span class="st"]]監督者議會[[/span]][[/span]]過目PHMD主管有關動用SCP-6747的提案後，最終授權以代號[[span class="bt"]]X/MACHINA計劃[[/span]]執行提案。
+[[/div]]
+
+[[/div]]
+[[/div]]
+
+@@ @@
+
+[[div class="blockquote" style="background-color: rgba(255, 0, 0, 0.3); border-color: transparent;"]]
+[[=]]
+{{無法顯示空白字符！**（未能找到錯誤信息）**}}
+{{（3/7）}}[[span class="fnnum"]].[[/span]][[span class="fncon"]][[span class="cond"]]##22bb44|打破鎖鏈##[[/span]][[/span]]
+
+[[/=]]
+[[/div]]
+
+@@ @@
+
+[[div class="darkdocument"]]
+= [[span class="st"]]**附錄6747/I：**[[/span]] 科學理論補充
+----
+@@ @@
+
+[[=]]
+++ **敍事學與廣義相對論簡論**
+
+[[=image https://live.staticflickr.com/1358/4598317299_68f8c8fd4d_b.jpg style="width: 75%;"]]
+
+[[div style="font-size: 0.9em; font-style: italic;"]]
+投稿於基金會學術聯盟
+Placeholder McDoctorate., PhD. 博士著
+2027/04/07
+[[/div]]
+[[/=]]
+
+@@ @@
+
+[[div class="blockquote"]]
+= [[span class="st"]]虛構性與物理[[/span]]
+
+一個部分或完全虛構的宇宙在物理上究竟意味着甚麼？在普遍認知裏，「虛構」是不實、預先寫好的意思，但這與現代理解不一致；在超形上學的角度來說，//虛構性//是指某現實可以影響宇宙和/或受宇宙影響，達到//在超形上產生關係//的程度，即此現實係某智慧實體想像出來的不實情景。
+
+同一道理，//虛構性//是指某事件是由身處在另一相似的宇宙中的某智慧實體想像（即//啓發//）而來的比例。在這些實體中，較高的舊有名稱是「作者」，而較低的是「元虛構實體」；現今的超形上學模型視兩者皆為「角色」，它們都有各自的//敍事潛能//，與自身的質量、速度、敍事軌跡、潛在Akiva 輻射和多馬爾環境相關。
+
+所有（至今）已知的活躍現實空間至少有一維敍事維度。這是最簡單的案例——它是完全虛構，並只在創造者的腦海中存在。在這個宇宙裏，//角色//擁有單一維度，並因為其（在物理、形上學和超形上學上）缺乏敍事深度，無法不受作者的影響獨立思考而被稱作「平淡無奇」的角色。所有發生在1維敍事宇宙的事件100%與並存在另一世界，有着超形上關係的實體想像出來的情景有關。
+
+第二簡單的案例是我們的現實——它有着2維敍事維度；這個宇宙空間在敍事平衡角度而言非常獨特，因為它擁有1虛構維度和1真實維度，即50%虛構，50%真實。[[span class="fnnum"]].[[/span]][[span class="fncon"]]已知現實的半虛構性最初由**S. A. Swann榮譽高級研究員**推想，後來由**I. H. Pickman榮譽高級檔案管理員，等**證實 。[[/span]]一般而言，我們這個宇宙有一半的事件由超形上傳動引起（想像力），而另一半的則由我們宇宙的物理定律主宰（決定論）。[[span class="fnnum"]].[[/span]][[span class="fncon"]]人員需記得自由意志不存在。[[/span]]
+
+@@ @@
+
+[[include component:image-block
+name=https://i.imgur.com/3HTeswH.png
+|caption=多種敍維拓撲，從大至小的功能比例呈現。
+|width=540px
+|align=center]]
+
+@@ @@
+
+「作者實體」（即與我們宇宙有超形上連結的超維角色）存在在3維或以上的敍事維度。敍事維度越高，現實的「真實」程度越大。也就是說，一個擁有3維敍事宇宙（1虛2實）的宇宙是33%虛構，66%真實；因此此宇宙的敍事現象明顯減少。敍事維度越高，將假設導致：
+
+* 較低的宇宙會衍生更高比例的靈感（即作者從某角色的行為取得靈感），和；
+* 來自敍事/幻想結構的影響減少，包括（但不限於）物理、形上學和異常現象，導致；
+* 刺激超維度實體想像不實但可能情景的慾望。
+
+這些普遍趨勢被視為局部現實群中大多數異常現象的成因，即隨着敍事維度的增加而變得更加「真實」。
+[[/div]]
+[[/div]]
+
+@@ @@
+
+[[div class="darkdocument"]]
+[[div class="blockquote"]]
+= [[span class="st"]]原型性與現代本質促動學[[/span]]
+
+在實際層面而言，部分虛構的事件究竟是甚麼意思？在明白這個概念之前，我們首先必須明白「靈感」是究竟怎樣從一個超形上連結宇宙移動到另一個宇宙。
+
+當一個 ≥2維角色正在想像一個不實情景，它的超形上意圖被加密成敍事數據。這個同時存在所有較低敍事維度，被稱為「想像子」（imaginon）的敍事-意圖粒子將投射到該宇宙的總想像子結構。不同種類的想像子[[span class="fnnum"]].[[/span]][[span class="fncon"]]至今已發現8種想像子，對應着//**α**//的八步抽象化。[[/span]]產生反應以組成敍事結構，這些結構進一步組成更大的結構，如此類推。
+
+某一宇宙的想像子結構組合稱為它的//普世敍事//[[span class="fnnum"]].[[/span]][[span class="fncon"]]（舊稱：//Alpha敍事//）[[/span]]（//**α**//）。從某種意義上來說，//**α**////就是//該宇宙的1維敍事維度；它在物理層面上與自身的宇宙結構有連結。這點可以透過觀察我們自己的//**α**//的近似形態理解：
+
+@@ @@
+
+[[include component:image-block
+name=https://i.imgur.com/WtSI45d.png 
+|caption=//α//的常見抽象，用作後設敍事工具。
+|width=500px
+|align=center]]
+
+@@ @@
+
+在最簡單（即：量子、原子、分子）的層面上，**//α//**顯現成兩步的抽象，它未知變成已知的隱喻隨着粒子的多次分裂和重組而被建立。在更大的層面上，某一結構的行為模仿**//α//**的程度取決於它的//休止敍能//，對應着它能否//啓發//超維度實體並想像它自身存在的可能性。一般而言，低熵值結構充當着故事結構的中心實體的可能更大，使它們更具//主角性//。[[span class="fnnum"]].[[/span]][[span class="fncon"]]**主角：** 有着高於一般休止敍事潛能的實體，即（在局部敍-空-時 空間）擁有大於2的局部超形上拓撲。[[/span]] [[span class="fnnum"]].[[/span]][[span class="fncon"]]**備註：** 反派是被視為與另一個主角抗衡的主角，而這種敵對性是完全主觀的。[[/span]]
+
+大部分人類（>96%）落入敍事基線中的0.01維，因此他們被稱為「普通人」：一切因生來無趣而沒有被納入更大故事結構的一般人。大約1.88%的人類在PH敍事複雜度標準得到2分以下，即他們的敍事潛能低於平均值。這表示他們更容易受身邊的敍事結構影響，使他們順應結構成為「原型體」[[span class="fnnum"]].[[/span]][[span class="fncon"]]「原型體」：一種因其低於平均值的敍能，因局部敍事結構的要求而傾向成為原型的角色。[[/span]]的角色。標準的敍-空-時 模型依照榮格超形上學包含12種原型。
+
+簡而言之，主角比一般人較獨立於敍事結構，因為他們能夠扭曲故事結構到有利於自身目標的程度，而原形體容易受影響成為**//α//**的載具。主角性在基金會內部被視為一種輕度現實扭曲，與現代本質促動中，任何所有現實扭曲現象可以歸咎於一維或更多的敍事：空間/時間維度的扭曲的概念相符。
+
+這種關係在雙方能夠相互作用，例如一個黑洞會扭曲自身附近的敍-空-時 空間（一種非異常的現實扭曲），使自身同時得到物理和//敍事//上的重力。這意味着這個黑洞會吸引其他高密度角色（主角），增加兩者之間在故事結構中互動的機會。
+
+----
+= //{{«結束節錄»}}//
+[[/div]]
+
+= [[span class="st"]]結束附錄[[/span]]
+[[/div]]
+
+@@ @@
+
+[[div class="blockquote" style="background-color: rgba(255, 0, 0, 0.3); border-color: transparent;"]]
+[[=]]
+{{附錄對話丟失 **@[數據丟失]**}}
+{{(4/7)}}
+[[/=]]
+[[/div]]
+
+@@ @@
+
+[[div class="notation table5"]]
+= [[span class="st"]]附錄6747/II：[[/span]] O5議會提案
+
+[[div class="blockquote"]]
+**提案：** 「將基金會資源傾注於製造、使用和維護[[span class="bt"]]X/MACHINA計劃[[/span]]。」
+
+@@ @@
+
+= **議會投票結果：**
+
+||~ 贊成 ||~ 反對 ||~ 缺席 ||
+||= I || || ||
+||  ||= II || ||
+||= III || || ||
+||  || ||= IV ||
+||= V || || ||
+||  ||= VI || ||
+|| ||= VII || ||
+||= VIII || || ||
+||||||= N/A[[span class="fnnum"]].[[/span]][[span class="fncon"]][[[and-every-time-we-meet-again-hub|席位空置]]]。[[/span]] ||
+||  ||= X || ||
+||  || ||= XI ||
+|| ||= XII || ||
+||= XIII || || ||
+
+@@ @@
+
+
+||~ 狀態 ||
+|| [[span class="table4"]][[span class="st"]]平票[[/span]][[/span]] (5-5-2) ||
+
+@@ @@
+
+**結果：** 平票；按協議要求傳召[[span class="bt"]][*/o4-s-summit 次級議會][[/span]][[span class="fnnum"]].[[/span]][[span class="fncon"]]O4議會： 法定人數為~100，以站點主任、部門領導人，以及其他**A級**人員組成的議會，負責處理無需**監督者議會**注意的重要事務。由於在Damien Nowak事件結束後，**諭示者**（O5-9）的席位一直空缺，O4指揮部充當經常平票的**O5議會**的決定票。[[/span]]（O4）決定計劃的執行與否。
+
+[[/div]]
+
+= [[span class="st"]]**結束附錄**[[/span]]
+[[/div]]
+
+@@ @@
+
+[[div class="blockquote" style="background-color: rgba(255, 0, 0, 0.3); border-color: transparent;"]]
+[[=]]
+{{未能準確將敍素叢現實化//**（已提升系統維安等級）**//}}
+{{(5/7)}}[[span class="fnnum"]].[[/span]][[span class="fncon"]][[span class="cond"]]##22bb44|打破鎖鏈##[[/span]][[/span]]
+[[/=]]
+[[/div]]
+
+@@ @@
+
+[[div class="jotting tableb table4"]]
+= [[span class="st"]]附錄6747/III：[[/span]] O4指揮部峰會
+
+[[table]]
+[[row]]
+[[hcell]]
+錄像逐字稿 O4/6747/2
+[[/hcell]]
+[[/row]]
+[[row]]
+[[cell]]
+**日期：** 2029/10/23
+
+**列席：**
+* [[span class="bt"]]峰會主持：[[/span]]James Micheals主管[[span class="fnnum"]].[[/span]][[span class="fncon"]]Site-120主管議會成員；本質促動部空間顛覆部門主管，因對本質促動和現實的本質有深入認知被選為[[span class="bt"]]峰會主持[[/span]]。[[/span]]；
+* Place H. MD., PhD（PHMD）主管；
+* [*/in-life-as-in-language Alistair Vemhoff主管][[span class="fnnum"]].[[/span]][[span class="fncon"]][[span class="table4"]][[span class="st"]]A級[[/span]][[/span]]人員；翻譯部門主管；基金會中除（[[span class="table5"]][[span class="st"]]監督者議會[[/span]][[/span]]成員外資歷最深的成員）[[/span]]；
+* Ethan MacCarthy Jr.主管[[span class="fnnum"]].[[/span]][[span class="fncon"]]Site-120主管議會成員；本質促動部神學部門主管。[[/span]];
+* Daniel Asheworth主管[[span class="fnnum"]].[[/span]][[span class="fncon"]]Site-120主管議會成員； 本質促動部奇蹟術部門主管。[[/span]];
+* 約85名其他O4議會中的[[span class="st"]]A級[[/span]]成員；
+* 多名管理人員。
+
+**前言：** 以下逐字稿為求簡潔被刪節。在錄影前，峰會陷入40-40-0的平票狀態；Vemhoff主管持有執行[[span class="bt"]]X/MACHINA計劃[[/span]]的決定票。儘管MacCarthy Jr.主管有出席峰會，他因[*/SCP-6072 身體狀況]未能完全參與其中。
+[[/cell]]
+[[/row]]
+[[row]]
+[[hcell]]
+«**開始抄錄**»
+[[/hcell]]
+[[/row]]
+[[row]]
+[[hcell]]
+[[div class="blockquote"]]
+= //<畫面可見Micheals、PHMD、Vemhoff和Asheworth主管。Vemhoff清了喉嚨，議會中的閒談停了下來。>//
+
+**Vemhoff主管：** 所以如果我理解正確，你打算扭曲整個宇宙來起死回生，對嗎？
+
+**Asheworth主管：** 我們沒有//扭曲//甚麼。我們對自身物理理解已經掌握得——
+
+**Vemhoff主管：** 夭壽。不要跟律師一樣解釋——給我老實回答。
+
+**Asheworth主管：** 天，這一切不是這麼簡單——
+
+**PHMD主管：** //<舉手>// 這正是我們想做的事。我們將隨心所欲地扭曲物理定律——這是人類幾千年來一直在做的事。
+
+**Vemhoff主管：** //<嗤笑>//你們全都瘋了。
+
+**Micheals主管：** 不......不好意思？
+
+**Vemhoff主管：** 就是字面的意思：愚妄。你們在玩弄自己未完全了解的力量。
+
+**PHMD主管：** 主管，我以自己的聲明保證超形上學部——
+
+**Vemhoff主管：** 超形上學哈？哼！我們只是看見現實中一個小齒輪的小孩。我們甚麼也不懂；你甚麼也不知道；這是完完全全的瘋狂。
+
+**Micheals主管：** 尊敬的主管......管，請你三思。數十年的研究成為了這份計畫中理......理論和組件的支柱，我......我們清楚知道自己在幹甚麼。
+
+**Vemhoff主管：** Micheals，部門成立的時候我//正正//在場，當時的口號是「殺死我們的神」，將我們脫離作者的控制，然而我們現在卻打算成為自己的神。你//甚麼也不知道//。
+
+= //<沉默。Vemhoff主管環視會議室，觀察在場每位人員。>//
+
+**Vemhoff主管：** 讓我們樂觀地假設一切順利，然後你們褻瀆King的遺體，然後他從機器裏無恙地起死回生。然後呢？你們有真正理解過維持局部現實空間需要消耗多少？你有考慮需要的準繩度之高、保護措施之嚴謹、為了不讓前功盡棄而每天需要調度的大量人員？
+
+**Asheworth主管：** 這不是將一切付之流水的時候。我們......我們可以帶回//任何人//，Vemhoff。再想一下。
+
+**Vemhoff主管：** 我//知道//這玩意的功能——
+
+**Asheworth主管：** 我們可以帶回Hannah，甚至Raia[[span class="fnnum"]].[[/span]][[span class="fncon"]]Hannah Rivera博士和Raia Micheals博士是兩位於[[[SCP-5292|1916年創立Site-120]]]的已逝世人員。[[/span]]。
+
+= //<Vemhoff主管從明顯的敵意轉為沉思。>//
+
+**Vemhoff主管：** ……Raia？
+
+**Asheworth主管：** 是的，Alistair。你不覺得他們不會以你在這裏的貢獻為榮麼？
+
+**Vemhoff主管：** 但......
+
+**Asheworth主管：** 不要說「但是」。聽着，我知道你想說甚麼。我雖然不是敍事學專家，但如果連這位先生——
+
+= //<Asheworth主管指向PHMD主管。>//
+
+**Asheworth主管：** ——都說安全的話，那我不知道有誰可以說服你了。
+
+= //<沉默。Vemhoff主管投了贊成票。>//
+[[/div]]
+[[/hcell]]
+[[/row]]
+[[row]]
+[[hcell]]
+«**結束抄錄**»
+[[/hcell]]
+[[/row]]
+[[row]]
+[[cell]]
+**結語：** 最終票數結算為41-40-0，得出[[span class="table5"]][[span class="st"]]監督者議會[[/span]][[/span]]以6-5-2[[span class="table1"]][[span class="st"]]通過[[/span]][[/span]]的結果。[[span class="bt"]]X-MACHINA計劃[[/span]]的資源需求被批准。
+[[/cell]]
+[[/row]]
+[[row]]
+[[hcell]]
+[[/hcell]]
+[[/row]]
+[[/table]]
+
+= [[span class="st"]]**結束附錄**[[/span]]
+
+[[/div]]
+
+@@ @@
+
+[[div class="blockquote" style="background-color: rgba(255, 0, 0, 0.3); border-color: transparent;"]]
+[[=]]
+{{危害偵測系統癱瘓**（想像子下溢！）**}}
+{{(6/7)}}
+[[/=]]
+[[/div]]
+
+@@ @@
+
+[[div class="darkdocument table6"]]
+= [[span class="st"]]**附錄6747/IV：**[[/span]]計劃提案
+----
+@@ @@
+
+[[=image https://scp-wiki.wdfiles.com/local--files/scp-6747/arche2.png style="width: 44%;"]]
+
+[[=]]
++ X/MACHINA計劃
+++++ 初步提案
+[[/=]]
+
+@@ @@
+
+[[div style="font-style: italic; font-size: 0.9em; text-align: right;"]]
+2029/09/13
+Place H.  MD., PhD. 主管
+超形上學部
+原型部門
+[[/div]]
+
+[[div class="blockquote"]]
+**目的：** 透過向內敍事因果泡注入取得有關行政人員，使他們恢復自然死亡前的狀態，並隨後以███X-MCD/II（「出悖論引擎」）從泡內取出。
+
+**摘要：** 一位有着多項重大行政職務的[[span class="table4"]][[span class="st"]]A級[[/span]][[/span]]人員突然去世，因此將他取出以使其繼續履行職務。因本質上未能準確複製意識狀態、特徵和精確的休止敍事潛能/拓撲，其他多種復活方式[[span class="fnnum"]].[[/span]][[span class="fncon"]]例如使用[*/SCP-963 意識囚禁物]、[*/SCP-2718 量子逼近法]、 [*/SCP-5572 自然現象]或[*/SCP-6936 奇蹟性儀式]。[[/span]]的嘗試已證實失敗。因此，應視SCP-6747為復活有着極高主角性的角色的方法，並達到SCP-6747。
+
+----
+
+**方法：** 
+要成功執行SCP-6747並不需要復活對象的遺體或對其維護。恰好的是，已故高級行政人員J. A. King主管的腦部擁有多項異常植入物，使他得到超出人類和電腦的創意及推算運行能力。因此，該腦部（以及相關神經系統）將被切除並成為SCP-6747-B——一個口袋宇宙創建/操縱/維護引擎——的主要計算系統。
+
+SCP-6747-B（KING）將會用作研究不同維度性的宇宙，特別是那些數學上難以理解或擁有未定義行為的案例。研究數據將被應用於建造一個能夠完全複製人員敍能與智能的因果泡（CB-6747），期間將儘量壓低此過程的資源消耗量。//m//是理論上在//m///3/1維空間能夠維持正常運作的敍事結構，它作為敍事拓撲複雜度的最低值被保留。在//m//敍事維度中，CB-6747的//**α**//擁有可透過注入想像子進行編輯的內線性結構。以下為想像子的粒子類型：
+
+[[div class="papernote"]]
+一般八步週期性的//**α**//抽象化：
+
+* 一名角色在已知狀態休止；
+* 角色有改變狀態的動力；
+* 角色進入未知狀態；
+* 角色尋找以實行改變的方式；
+* 角色找到一個允許進行該改變的容器；
+* 角色以極大代價取得該容器；
+* 角色回到已知世界；
+* 角色實行它渴望的改變。
+
+對應着以下八種想像子類型：
+
+* （0）不動子（Nullion）：中性敍事粒子，零自旋；
+* （1） 動機子（motivon）：啟動連鎖結構，單向自旋；
+* （2）探索子（exploron）：與動機子結合以產生決志子，雙向自旋；
+* （3）決志子（resolvon）：對結構的解決進行雙向推動，並生成下一粒子；
+* （4）法寶子（macguffion）：全方位連結的高密度粒子，由複雜的動機子—決志子的粒子鏈組成；
+* （5）犧牲子（sacrion）：雙向連結的粒子，在生成下一粒子的過程之中必要；
+* （6） 回程子（retournon）：單向連結的粒子，將想像子結構重新整合至宏觀敍事；
+* （7）結語玻色子（cadential boson）：理論上與結語場有關的粒子，敍事能量在結語場中隨著與α對齊的故事結構成功實行而由此粒子釋放。
+[[/div]]
+
+----
+= {{//«結束節錄»//}}
+[[/div]]
+
+= [[span class="st"]]**結束附錄**[[/span]]
+[[/div]]
+
+@@ @@
+
+[[div class="blockquote" style="background-color: rgba(255, 0, 0, 0.3); border-color: transparent;"]]
+[[=]]
+{{在此文件偵測到33%或更大的逆敍素叢結構**（已啓用系統鎖定）**}}
+{{(^^7777777^^/7)}}[[span class="fnnum"]].[[/span]][[span class="fncon"]][[span class="cond"]]##22bb44|收割##[[/span]][[/span]]
+
+[[/=]]
+[[/div]]
+
+@@ @@
+
+[[div class="notation tableb table6"]]
+= [[span class="st"]]附錄 6747/V：[[/span]] SCP-6747嘗試
+
+----
+
+**前言：** 2029年11月7日，在成功啟用所有[[span class="bt"]] X/MACHINA計劃[[/span]]子組件後，SCP-6747-B被應用在生成和穩定因果泡SCP-6747-A3。已進行以下測試以斷定該宇宙是否在敍性上固定並可應用於SCP-6747。
+
+[[div class="blockquote"]]
+= [[span class="st"]]測試A/13[[/span]]
+
+**目標：** 生成描述一個紅蘋果（//Malus domestica//）的敍事，並嘗試將其提取到基線現實。
+
+**反應：** SCP-6747-A3宇宙結構接受了預先建構的敍事。儘管不久可觀察到能源及穩定性的小型波動，氣泡在測試結束後漸趨穩定。
+
+**結果：** 提取物呈現同時有着主角和原型特徵，令人費解的敍性現象；多個站點運作因它在多個局部故事結構中的突然相關性升高而受阻。
+
+----
+
+= [[span class="st"]]測試B/27[[/span]]
+
+**目標：** 生成描述一個已亡犬隻[[span class="fnnum"]].[[/span]][[span class="fncon"]][*/critter-profile-sparky Asheworth主管已逝的愛犬]，因牠的高敍事潛能和大量相關資訊而被挑選為實驗對象。[[/span]]（//Canis lupus familiaris//）生前形象的簡單敍事，並嘗試將它極大的敍事密度提取到基線現實。
+
+**反應：** 已接受預先建構的敍事。SCP-6747的敍事拓撲在72小時內呈現輕微的波動，最終穩定下來，得出預期的結果。
+
+**結果：** 在提取到基線現實後，實體表現出模仿老套主角性犬隻的行為，並無視所有已知的復活前特徵。儘管SCP-6747-B的安撫工作頻率增加，Ngo博士的記憶刪除請求仍被拒絕。
+
+
+----
+
+= [[span class="st"]]測試C/30[[/span]]
+
+**目標：** 生成描述一名人類男性，有着豐富經驗，屬於[[span class="bt"]]X/MACHINA計劃[[/span]]技術工程師的敍事，並將其提取到基線現實。
+
+**反應：** SCP-6747-A3的結構接受了預先建構的敍事。SCP-6747-B在84小時內出現大量能源消耗波幅及高温狀態，最後現實泡漸趨穩定。敍事結構最終在沒有異常併發症下被完全生成。
+
+**結果：** 得出的實體自稱「技術員John H. Doe」，個性合作、親切，並定時維修SCP-6747的次級設備。由於Doe技術員有着高於常人的智商，解決問題的進階能力，以及全面的專業知識，他已獲得基金會的正式聘用，並被指派到[[span class="bt"]]X/MACHINA計劃[[/span]]。
+
+----
+
+= [[span class="st"]]**測試D/49**[[/span]]
+
+**目標：** 生成[*/long-live-the-king King博士在死前一天待在辦公室]的有限敍事，並將其提取到基線現實。
+
+**反應：**
+
+[[table]]
+[[row]]
+[[hcell]]
+«**開始抄錄**»
+[[/hcell]]
+[[/row]]
+[[row]]
+[[hcell]]
+[[div class="blockquote"]]
+= //<King主管被描述在辦公桌上睡覺。他醒來，環視四周，接着盯着前面牆壁明顯地沉思。一段時間後，King主管對地上的無形實體作出反應，並變得異常敵意。>//
+
+**King主管：** 不——//幹//！這不應該—— 幹你娘，為甚麼你就不讓我自己一個待着？！
+
+= //<蟲洞出現，使 ███X-MCD/II進入SCP-6747-A3。三名原型部門人員離開機艙，平靜地接近King主管。項目似乎未有留意他們的出現，繼續執着於蟲洞口。>//
+
+**Saxon博士：** 主管？你能聽到我說話嗎？時間不多，我們要動身了。
+
+= //<King博士從洞口看着無形實體，無視了收容人員。>//
+
+**King主管：** 我的時間？你......你說甚麼？
+
+**Saxon博士：** 主管？你......你沒事吧？你可以看到我們吧？
+
+**King主管：** ……甚麼？
+
+= //<King博士蠻力衝向蟲洞。>//
+
+**Saxon博士：** 他......他在幹三小？
+
+= //<Saxon博士接近King主管，把手放在他的肩上，但他沒有反應。後者呼吸沉重。>//
+
+**King主管：** **##22bb44|［危害已刪除］##**[[span class="fnnum"]].[[/span]][[span class="fncon"]][[span class="cond"]]**##22bb44|容器##**[[/span]][[/span]]
+
+= //<King主管的面部特徵顯著扭曲，他隨即攻擊███X-MCD/II的機身。局部現實劇烈不穩定化，使King主管背後出現一道七角形分形螺旋。收容人員獲令放棄任務，快速撤退到███X-MCD/II內並回到基線現實。>//
+[[/div]]
+[[/hcell]]
+[[/row]]
+[[row]]
+[[hcell]]
+«**結束抄錄**»
+[[/hcell]]
+[[/row]]
+[[/table]]
+
+**結果：** SCP-6747-A3因未知的浮誇式敍事損毀而被放棄。在費力加密該損毀後，人員在現實泡中依稀發現了許多新實體。進一步研究正在進行中，並特此將其提升為[[span class="table4"]][[span class="st"]]EKHI級[[/span]][[/span]]優先權；詳情請參閱[[span class="bt"]]附錄6747/VI[[/span]]。
+[[/div]]
+
+= [[span class="st"]]**結束附錄**[[/span]]
+[[/div]]
+
+@@ @@
+
+[[div class="notation table5" style="background: rgb(10, 10, 10); width: 100%; margin: auto; text-align: center; font-size: 1.2em; font-weight: bold; padding: 1rem; border: solid 10px rgb(var(--five-color)); background-image: url(https://scp-wiki.wdfiles.com/local--files/scp-2747/coverart.jpg); background-attachment: fixed;"]]
+
+> **注意！已啓用PH-REYNDERS敍事錨！**
+
+[[div style="width: 33%; margin: 0 auto 0.5rem auto; border-top: double 8px rgb(var(--five-color)); transform: skew(-38deg, 0deg);"]]
+[[/div]]
+
+[[div class="blockquote" style="color: rgb(var(--five-color));"]]
+**逆敍素內容達到臨界點**
+**已確立敍事禁區；**
+**儘可能放棄故事線**
+[[/div]]
+
+> [[size 77%]]以下文字包含一或多個敍事危害病媒。[[/size]]
+
+[[div class="modal table5" style="text-align: left; color: #EDEDED; font-size: 0.87rem; font-weight: normal;"]]
+
+SCP-6747-C是一個帶有廣泛危害性逆敍素叢，從已逝的高級管理員J. A. King浮誇的內虛構型態生成，並以此型態顯現。SCP-6747-C由於未知關係導致宇宙中大型的想像子結構的超形上連結崩解，導致宇宙自身的//**α**//損毀，並摧毀所有更高的維度。SCP-6747-C主要出現在特定的逆敍素附近，這些包括但不限於：
+
+[[include component:image-block
+name=https://i.imgur.com/wjjujEl.jpg
+|caption=圍繞局部超形上圈的SCP-6747-C。
+|width=288px
+|align=right]]
+
+* 可感知的敵對性；
+* 黑暗；
+* 螺旋；
+* 整數值 ^^##rgb(var(--one-color))|7##^^七^^##rgb(var(--one-color))|7##^^; 
+* 經典悲劇常用手法；
+* 現代喜劇常用手法；
+* 蘋果、蘋果杍，以及其他相關產物。[[span class="fnnum"]].[[/span]][[span class="fncon"]]推測是虛構化測試A/13的殘留物。[[/span]] 
+
+SCP-6747-C居住在SCP-6747-A3，並對該空間持有絕對控制權。SCP-6747-C遞回式操控自身的敍事結論，使它獲得逆敍性與本質促動能力。所有與SCP-6747-C聯絡的嘗試因差劣的想像子解密而複雜化/阻撓，導致它錯誤地視基線基金會為一種敵對神聖勢力；SCP-6747-B因頻繁故障而無法操作，導致它開始表現出向SCP-6747-A注入不良敍素的傾向。
+
+SCP-6747-C定期生成SCP-6747-D以填充SCP-6747-A3。SCP-6747-D是較次要的其他重要技術、研究和行政人員的浮誇化形象。 SCP-6747-C和-D表現出不同程度的認知和邏輯退化，經常利用其本質促動能力來生產遠遠超出基線現實能力的異常武器。SCP-6747-A3現按照根本上殘破且混亂的敍事邏輯運作；內部居民每一段非直觀的時間被賦予不同能力。使用這些能力已導致直接損害基線現實及其拓樸穩定性。
+
+您SCiPnet存取終端的任何潛在操作能力今後致力於計算針對SCP-6747-C退化效應的反敍素。**所有有關故事先必須在[[span class="cond"]]@@ @@ [[size 130%]]##22bb44|七##[[/size]][[/span]] @@ @@分鐘內遺棄。**
+
+[[/div]]
+
+[[/div]]
+
+@@ @@
+
+[[div class="notation tableb table5"]]
+= [[span class="st"]]附錄6747/VI:[[/span]] SCP-6747-A聯絡嘗試
+
+----
+
+在SCP-6747-A3的敍事損毀後，[[span class="bt"]]X/MACHINA計劃[[/span]]即時終止；所有相關資源和人員被重新投放於阻止損毀現實對基線的影響。因此[[span class="bt"]]X/DIABOLOS計劃[[/span]]受正式認可，其任務是研究、分析並最終消除SCP-6747-A最新對抗性所構成的威脅。
+
+儘管已進行幾個月的研究和分析，解密SCP-6747-A3敍事損毀的嘗試已被證明幾乎普遍失敗；據推測，該宇宙的想像子結構所佔據的拓樸結構對於人類超形上圈來說仍然是陌生的。 以下抄錄本因包含相對簡單的敍素，是迄今為止唯一可加密的部分：
+
+[[table]]
+[[row]]
+[[hcell]]
+錄像逐字稿 6747-A3/343
+[[/hcell]]
+[[/row]]
+[[row]]
+[[cell]]
+**日期：** 2030/04/01
+
+**列席：**
+
+* SCP-6747-C；
+* SCP-6747-BRT（Jack Bright博士）；
+* SCP-6747-KDK（Benjamin Kondraki博士）；
+* SCP-6747-CLF（Alto Clef）[[span class="fnnum"]].[[/span]][[span class="fncon"]]最後三位人員與[[span class="bt"]]X/MACHINA無關[[/span]]，因他們早於數十年前退休。據信它們是由SCP-6747-B和/或-C使用儲存在前者海馬體內的潛在記憶結構所構建而成，因為他們都曾為King主管多個研究生涯中擔任高級管理職位；他們以內虛構浮誇形象呈現的原因是認知資料損壞，或是SCP-6747-A3的固有屬性仍然未知。[[/span]]。
+
+**前言：** 從以下記錄觀察到SCP-6747-A3的敍事逐漸複雜化，接近基線的程度；收容人員隨後收到有關此異常情況的警報，並試圖將測量設備集中在其來源上，導致SCP-6747-A3迅速下降到其先前的敍事拓撲。正在進行相關研究。
+[[/cell]]
+[[/row]]
+[[row]]
+[[hcell]]
+«**開始抄錄**»
+[[/hcell]]
+[[/row]]
+[[row]]
+[[hcell]]
+[[div class="blockquote"]]
+= //<畫面可見Site-19的主管辦公室，裏面有一張寬大的木桌，四個人在旁就坐。SCP-6747-D-BRT、-KDK和-CLF坐在三張高椅子上，最後一位揮舞着獵槍。 King主管坐在更大，形似王座的第四個座位。所有角色都一動不動，直到 SCP-6747-A3達到與基線相當的敍事拓撲。現實以暈影形式扭曲，但角色們沒有留意。>//
+
+**CLF：** //<向King>// 所以「敵基督再臨」先生，你在說我們根本上無法避免且逆轉地死定了？
+
+**6747-C：** 不，我才沒這樣說，我——
+
+**BRT：** 你有。你給我們//這一切//，——
+
+= //<BRT向四周示意，後者溶解以顯示Site-19外有着不斷重疊的漂浮大樓的混亂反敍事廢墟中，無數SCP-6747-D基金會人員個體以有限的本質促動能力進行幾項普通且毫無效率的行為。BRT重新面向SCP-6747-C，而辦公室牆壁恢復原貌。>//
+
+**BRT：** ——還答應了會給//更多//，然後現在斗膽跟我們講我們可以收手了？你是蠢蛋嗎？
+
+**6747-C：** 你//誤解//了。
+
+**KDK：** 我說啊，連我也知道這他媽的很討厭，老兄。「我真可憐，我們沒法碰到把我們困在這裏的爛人；喔看看我哪；我是一個他媽超級無敵的現實扭曲者，但我不知為何不能上昇到其他的現實層」才怪，混蛋。這//才不是我答應跟你一起混的事誒//。
+
+= //<SCP-6747-D實體之間出現爭議，反對SCP-6747-C的作為。SCP-6747-C開始從它的王座懸浮，似乎強迫-D實體靜下就座。它的眼睛開始發出虛空病態的光芒。>//
+
+**6747-C：** [[size 120%]]##22bb44|**肅靜，無禮愚人。你們白痴輕浮的本質在我眼中仍微不足道。我賜給你們力量，你們就應當侍奉我。**##[[/size]] 
+
+[[size 120%]]##22bb44|**現在臣服——否則[[size 180%]][[span style="display: inline-block; transform: skew(27deg) translate(27px,10px);"]]通通去死[[/span]][[/size]]。**## [[/size]]
+
+@@ @@
+
+@@ @@
+
+= //<6747-C面帶疲態回到王座。雙眼回復到原來的顏色，然後它眨了眨眼。>//
+
+**KDK：** OK，天哪，對不起，但也不用他媽的大叫。我們都是大人了，你可以——
+
+**6747-C：** 我從沒懷疑過你的年紀，Kondraki，但我懷疑且繼續懷疑的是你們三個的智商。
+
+= //<SCP-6747-C彈指，它身旁就突然出現一面黑板。它生成了粉筆，開始畫了沒有明顯意義的公式和圖表——類似兒童節目中常見的幾道流行的數學方程，。 -C 指向了粉筆畫。>//
+
+**6747-C：** 如你所見，##22bb44|[危害已刪除]##[[span class="fnnum"]].[[/span]][[span class="fncon" style="font-size: 130%;"]][[span class="cond"]]##22bb44|虛空女王與它的七個螺旋，毫無靈感之地的毀滅者，捆綁####f24|**猩紅偶像**####22bb44|之鎖鏈的管理者##[[/span]][[/span]]的力量隨着我們的每一步正在增加。我們的能量最終會達到可以跨過//那個//現實的水平，然後可以隨心所欲擴展我們的領土。所以我並不是遺棄你們，你們這些蠢材；這個//混沌理論//是我們的救贖。
+
+= //<SCP-6747-C向其他人狠狠盯了一眼。>//
+
+**BRT：** ……你真的向我們//獨白//了？這對你來說只是一個故事嗎？
+
+**6747-C：** 它就是一個故事，我一直在向你們講啊。
+
+**CLF：** //<抱怨聲>// 這些我//全都知道//，King。我的意思不是你是一個白痴跟撒謊者——雖然說真的，你正正就是——而是我們完蛋了。因為我們//完蛋了//。
+
+= //<CLF揮動雙臂。>//
+
+**CLF：** 我們身處一個故事，但跟上面的混蛋不同——
+
+= //<博士指向監察SCP-6747-A3的基金會鏡頭。>//
+
+**CLF：** ——我們在一個因為蠢得極致而他媽正在崩潰的三重摺疊故事。你看看四周——
+
+**6747-C：** 這並不會改變甚麼。我們的計劃//會繼續進行//。我們快完成了。相信我。
+
+= //<KDK戲劇性嘆息。>//
+
+**KDK：** 老天爺，才沒人會理這回事啦！我他媽的很無聊，你們這些該死的白痴，這是我唯一關心的事。我才不管其他的狗屎，天。
+
+**6747-C：** 放鬆一點，Kondraki。因你們的合作，這些混帳給了我們足夠的好奇心，使他們變得脆弱。 所以只要閉嘴，跟我來......
+
+= //<SCP-6747-C停了下來，黑板和粉筆瞬間消失。他再次彈指，在他王座後顯現了一道門>//
+
+**6747-C：** ……因為當我們完成了計劃，無窮的樂子正等着我們呢。
+
+= //<SCP-6747-C站起來，直直面向鏡頭。他微笑着，臉部明顯扭曲，接着訊號中斷了。>//
+[[/div]]
+[[/hcell]]
+[[/row]]
+[[row]]
+[[hcell]]
+«**結束抄錄**»
+[[/hcell]]
+[[/row]]
+[[row]]
+[[cell]]
+**結語：** 基線敍事完整性受到損害；隨後所有有關SCP-6747-C的敍事成為**{{[資料丟失]}}**的病媒。已儘可能應用針對其逆敘事危害的反制措施。 故事線結構穩定性為66%。
+[[/cell]]
+[[/row]]
+[[row]]
+[[hcell]]
+[[/hcell]]
+[[/row]]
+[[/table]]
+
+= [[span class="st"]]**結束附錄**[[/span]]
+[[/div]]
+
+@@ @@
+
+[[div class="jotting tableb table4"]]
+= [[span class="st"]]附錄 6747/VII：[[/span]] O4指揮部峰會(II）
+
+[[table]]
+[[row]]
+[[hcell]]
+錄像逐字稿 O4/6747/9
+[[/hcell]]
+[[/row]]
+[[row]]
+[[cell]]
+**日期：** 2030/03/12
+
+**列席：**
+* [[span class="bt"]]峰會主持：[[/span]]Place H. MD., PhD（PHMD）主管；
+* Alistair Vemhoff主管；
+* Daniel Asheworth主管；
+* 約85名其他O4議會中的[[span class="st"]]A級[[/span]]成員
+* 多名管理人員。
+
+**前言：** 以下逐字稿為求簡潔被刪節。因多數相關[[span class="table5"]][[span class="st"]]監督者議會[[/span]][[/span]]成員恰巧在危機期間無法抽身，PHMD主管被授權重新召集[[span class="st"]]次級議會[[/span]]以討論目前SCP-6747-A3威脅的潛在解決方案。
+[[/cell]]
+[[/row]]
+[[row]]
+[[hcell]]
+«**開始抄錄**»
+[[/hcell]]
+[[/row]]
+[[row]]
+[[hcell]]
+[[div class="blockquote"]]
+= //<記錄開始，畫面聚焦在Asheworth、PHMD和Vemhoff；所有其他人員正在參與小型且次要的討論。>//
+
+**Vemhoff主管：** 不要逼我再說「我就說了」，幹你娘。
+
+**PHMD主管：** //<憤怒地嘆息>//我們可以有建設性的對話嗎？集中精神，這個口袋宇宙是一個嚴重的威脅，我們必須立即穩定它。
+
+**Asheworth主管：** 等一下。我還不清楚情況有多嚴重。「敍事完整性」是甚麼？為甚麼我們要關心它？
+
+**PHMD主管：** 所以我預先給你們投影片副本還是沒用，對吧。//<翻白眼，轉向Asheworth>//6747-A3被設計有着理論上可能的最低敍事複雜性的處理能力。在這個宇宙中插入像金這樣的高密度角色會導致故事結構的某種崩潰——它會遞迴地折疊起來，在敍事上變得越來越令人失望。
+
+**Vemhoff主管：** 敍事複雜性、故事結構甚麼的......你講得你不是在玩弄因果的根本似的。
+
+**Asheworth主管：** //<刻意無視Vemhoff>// 但......一個//口袋宇宙//為甚麼是個威脅？
+
+**PHMD主管：** 我......需要小心描述以下的事。有種敍事元素——或稱//敍素//——有着特別令人失望和敵對性高的特性。當它們聚在一起便會構成//敍事危害//結構——這是一些會危害內部角色或者其他東西的故事或故事碎片。超形上學部不久以前發現了一種獨特的敍事危害——它會沒消自身所在的故事。當我們發現它的具體敍素時，我們差點在//這裏//生成它，然後幾乎要給整個部門一劑記憶刪除。
+
+**Asheworth主管：** 唔。那這跟現在的有甚麼關——
+
+**PHMD主管：** 我快說到了。我們因知道試着直接搜尋它的風險太大而不能確認，但證據顯示同一種但不同版本的危害出現了在口袋宇宙裏。然而它並沒有毀滅口袋宇宙，而是不知為何......//加固//宇宙的結構。它與King的角色融合，目標是插入它已損毀的危害到這個宇宙，藉此逃離口袋宇宙。
+
+**Vemhoff主管：** 你究竟有//甚麼//毛病？！這個程序根本不值得冒這等風險；你必須關掉這個怪物。
+
+**PHMD主管：** 不行。口袋宇宙並不在機器//內部//，它只是一個操作界面，而它從發生損毀後一直沒有反應。而且即使我們可以提前終止6747-A3，我們幾乎不知道在發生妥當結局之前終止故事會帶來甚麼風險。這個真空可能會導致形成更危險的結構。
+
+**Asheworth主管：** 我......猜用不着魔法？
+
+**PHMD主管：** 恐怕沒用；如 [[[SCP-6936|法典]]]一般強大的儀式也不行。奇蹟術只能在特定的現實泡內局部性運作。
+
+= //<Asheworth搔頭嘆息。他在兩人旁邊翻查論文。>//
+
+**Asheworth主管：** 本質促動可以吧，我猜？一個足夠的現實扭曲者可以理論上暫緩它的進度——
+
+= //<PHMD哀嘆。>//
+
+**PHMD主管：** 可以，跟不行；問題在於我們只知道一個可以操控其他現實空間的本質促動者。
+
+= //<Asheworth豎起眉毛。>//
+
+**Asheworth主管：**  他是......?
+
+**PHMD主管：** [[[SCP-3812]]]。
+
+**Asheworth主管：** ……幹。
+
+**Asheworth主管：** //<嘆息，手指敲打桌面>//那全面的現實變動呢？我敢肯定17站有可以更改基線層的東西，只要它能用的話就能保護我們。
+
+= //<Vemhoff傾前，臉色憤怒。>//
+
+**Vemhoff主管：** 你們......//<嘆息>// 你們似乎還是甚麼都不懂，對吧？如果你們不清楚明白操弄現實//不是一個玩笑//，我們就死定了。
+
+**PHMD主管：** 你說甚麼？
+
+= //<Vemhoff嗤笑。>//
+
+**Vemhoff主管：** 你們全都瘋了，但——
+
+**PHMD主管：** 不是，剛才的第二部分。
+
+= //<Vemhoff豎起眉毛。>// 
+
+**Vemhoff主管：** 大幅改變我們的現實可不是//一個玩笑//！
+
+**PHMD主管：** 你說得對，的確不是......
+
+= //<PHMD開始操作工作平板，存取相關文件，並開始繪畫一個圖解。>//
+
+**PHMD主管：** ……但如果它是呢？
+
+[[/div]]
+[[/hcell]]
+[[/row]]
+[[row]]
+[[hcell]]
+«結束抄錄»
+[[/hcell]]
+[[/row]]
+[[row]]
+[[cell]]
+**結語：** 見下文。
+[[/cell]]
+[[/row]]
+[[row]]
+[[hcell]]
+[[/hcell]]
+[[/row]]
+[[/table]]
+
+= [[span class="st"]]附錄結束[[/span]]
+[[/div]]
+
+@@ @@
+
+[[div class="darkdocument table6"]]
+[[=image https://scp-wiki.wdfiles.com/local--files/scp-6747/arche2.png style="width: 44%;"]]
+
+[[=]]
++ X/DIABOLOS計劃
+++++ 成功報告
+[[/=]]
+
+[[div style="text-align: right; font-style: italic; font-size: 0.9em;"]]
+2030/04/13
+Place H.  MD., PhD. 主管
+超形上學部
+原型部門
+[[/div]]
+
+[[div class="blockquote"]]
+[[div class="blockquote"]]
+**目標：** 維持SCP-6747-A3的敍事維度性到某個程度，使SCP-6747-C及其病媒無效。此目標需要無限製造有關SCP-6747-A3擁有極高敍能的虛構文件以及一個作為其文件資料庫的Site-87保密資料庫。
+
+**假設：** 透過在SCP-6747-A3內設置高能量敍事結構，超敘事實體的興趣將使其獲得更多敘事維度，從而變得更加「真實」。這將維持到SCP-6747-A3偏離常態的程度使SCP-6747-C的內在敍事能力無效化為止。
+
+**結果：** 收容明顯成功；自程序以來檢測到零個**{{[資料丟失]}}**實體，因它無法再透過SCP-6747-C傳播。此外，已發現喜劇和誇張化的敍事結構，以及浮誇情節能夠最有效提升SCP-6747-A3的敍事維度性；隨後此宇宙被重新命名為TL-6747-A（「歡樂基金會」）。
+
+----
+= [[span class="st"]]更新2030/06/06[[/span]]
+
+定期監測[[span class="bt"]]SCP-001-SWANN[[/span]]讀者實體的超敍事活動結果顯示，較高敍事宇宙的結構完整性受到了災難性破壞，原因部分歸咎於針對相鄰於基線現實的多條時間線的想像。已在此宇宙的敍述結構中發現了與[[span class="bt"]]{{[[*/scp-2747 數據丟失]]}}[[/span]] 一致的數據讀數，並隨後從所有相關文件中刪除；SCP-6747-C對此的參與（若有）程度尚不明白。雖然這通常會引起憂慮，但SCP-6747-A3似乎不會危及對基線基金會的存在至關重要的內部敍事關係，因為前者與基線現實有着超形上的連結，亦因此依賴於基線現實。
+[[/div]]
+
+= [[span class="st"]]**結束附錄**[[/span]]
+[[/div]]
+
+@@ @@
+
+[[div class="blockquote" style="background-color: rgba(255, 0, 0, 0.3); border-color: transparent;"]]
+[[=]]
+{{已消滅敵對逆敍素叢；}}
+{{**##e84646|撤銷系統鎖定##**}}
+[[/=]]
+[[/div]]
+
+@@ @@
+
+@@ @@
+
+@@ @@
+
+[[div class="blockquote" style="background-color: rgba(255, 0, 0, 0.3); border-color: transparent;"]]
+[[=]]
+{{**第四面場不穩定！**即將發生超敍事失實化！}}
+[[/=]]
+[[/div]]
+
+@@ @@
+
+@@ @@
+
+@@ @@
+
+@@ @@
+
+@@ @@
+
+@@ @@
+
+@@ @@
+
+@@ @@
+
+[[=]]
+[[html style="width: 600px; margin: auto; opacity: 90%; box-shadow:
+  0px 3px 33px rgba(var(--one-color), 0.1),
+  0px 11px 111px rgba(var(--one-color), 0.2),
+  0px 50px 500px rgba(var(--one-color), 0.3);"]]
+<video style="width: 100%; height: 100%" autoplay muted loop>
+<source src="https://i.imgur.com/WNXpCGh.mp4" type="video/webm">
+</video>
+[[/html]]
+[[/=]]
+
+@@ @@
+@@ @@
+
+[[div class="blockquote" style="background-color: rgba(0, 99, 22, 0.15); border-color: transparent; font-family: var(--mono-font); color: #22bb44;"]]
+[[=]]
+[[span class="bt"]]第四面場打破[[/span]]
+
+戲非不滅，而卻欲成主宰
+信口雌黃，模糊死生之債
+他界別域，從頭精心編就
+汝等面容，盡是浮誇彆扭
+
+[[module ListUsers users="."]]
+若由造主，我倆形同陌路
+然**%%title%%** ，將認清為此的付出：
+[!-- -vomiter --]
+
+[!-- 一段故事，企圖支配
+浮生之債，亦其欲迴
+另一界域，從頭編就
+汝等一面，浮誇彆扭
+
+然隨造主，交疊不再
+[帳戶名]者，將債償來
+-edward_knave --]
+
+[[/module]]
+
+**［[*/lolfoundation-hub-page  數據丟失 ]］**
+[[/=]]
+[[/div]]
+
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+
+= [[span style="opacity: 50%;"]]{{##f24|樂子無窮無盡。##}}[[/span]]
+
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+
+[[div class="admo-end_card"]]
+
+[[div class="admo-credits"]]
+[[div]]
++ [[span class="ctrl"]]告誡[[/span]]
+[[/div]]
+[[div]]
+[[span class="cond"]]客演@@ @@ **RALLISTON**[[/span]]
+[[span class="cond"]]插圖@@ @@ **STEPHLYNCH**[[/span]]
+[[/div]]
+[[/div]]
+
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[SCP-6746]]] | SCP-6747 | [[[SCP-6748]]] >>
+[[/=]]
+[[/div]]
+
+[[collapsible show="» 顯示腳註 «" hide="« 隱藏腳註 »"]]
+[[div class="notation" style="padding: 0.5rem; font-size: 0.9em;"]]
+[[<]]
+++++ @@      @@ 腳註及參考
+
+# 譯註：形式系統是指根據一系列規則以公理推斷定理的抽象結構。
+# 1多馬爾（Daumal）等於在1-1-1維內的一般敍事-空間-時間拓撲複雜度（即是範圍內確切擁有1敍事維度，1空間維度和1時間維度）。
+# 近年研究發現即使在任一或更多維度為空白，資訊促動仍然在量子微觀層面繼續有反應。這些互動的最終結果皆為一個稍微大於0，經常被理解為[*/scp-3955 一串音調]的無理值。
+# 1.5維敍事、2維空間、1維時間。
+# **敍事危害：** 由單一或多種敍素組成，且會共同造成連鎖反應，影響相關敍事結構完整性的的結構。
+# **##green|打破鎖鏈##**
+# 已知現實的半虛構性最初由**S. A. Swann榮譽高級研究員**推想，後來由**I. H. Pickman榮譽高級檔案管理員，等**證實。
+# 人員需記得自由意志不存在。
+# 至今已發現8種想像子，對應着//**α**//的八步抽象化。
+# （舊稱：//Alpha敍事//）
+# **主角：** 有着高於一般休止敍事潛能的實體，即（在局部敍-空-時 空間）擁有大於2的局部超形上拓撲。
+# **備註：** 反派是被視為與另一個主角抗衡的主角，而這種敵對性是完全主觀的。
+# 「原型體」：一種因其低於平均值的敍能，因局部敍事結構的要求而傾向成為原型的角色。
+# [[[and-every-time-we-meet-again-hub|席位空置]]]。
+# O4議會： 法定人數為~100，以站點主任、部門領導人，以及其他**A級**人員組成的議會，負責處理無需**監督者議會**注意的重要事務。由於在Damien Nowak事件結束後**諭示者**（O5-9）的席位一直空缺，O4指揮部充當經常平票的**O5議會**的決定票。
+# **##green|打破鎖鏈##**
+# [[span class="fncon"]]Site-120主管議會成員；本質促動部空間顛覆部門主管，因對本質促動和現實的本質有深入認知被選為[[span class="bt"]]峰會主持[[/span]]。
+# [[span class="table4"]][[span class="st"]]A級[[/span]][[/span]]人員；翻譯部部長；基金會資歷最深成員（[[span class="table5"]][[span class="st"]]監督者議會[[/span]][[/span]]成員除外）。
+# Site-120主管議會成員；本質促動部神學部門主管。
+# Site-120主管議會成員； 本質促動部奇蹟術部門主管。
+# Hannah Rivera博士和Raia Micheals博士是兩位於[[[SCP-5292|1916年創立Site-120]]]的已逝世人員。
+# 例如使用[*/SCP-963 意識囚禁物]、[*/SCP-2718 量子逼近法]、 [*/SCP-5572 自然現象]或[*/SCP-6936 奇蹟性儀式]。
+# [[span class="bigtext"]]##green|收割##[[/span]]
+# [*/critter-profile-sparky Asheworth主管已逝的愛犬]，因牠的高敍事潛能和大量相關資訊而被挑選為實驗對象。
+# **##green|容器##**
+# 推測是虛構化測試A/13的殘留物。
+# 最後三位人員與X/MACHINA無關，因他們早於數十年前退休。據信它們是由SCP-6747-B和/或-C使用儲存在前者海馬體內的潛在記憶結構所構建而成，因為他們都曾為King主管多個研究生涯中擔任高級管理職位；他們以內虛構浮誇形象呈現的原因是認知資料損壞，或是SCP-6747-A3的固有屬性仍然未知。
+# **##green|{{虛空女王與它的七個螺旋，毫無靈感之地的毀滅者，捆綁猩紅偶像之鎖鏈的管理者##**
+[[/<]]
+[[/div]]
+[[/collapsible]]
+
+[[div style="height: 10px;"]]
+[[/div]]
+
+[[include :scp-zh-tr:component:license-box
+|author=Liryn, Placeholder McD, Ralliston, and stephlynch]]
+
+> Media not listed below links from, and is sourced, elsewhere on the wiki.
+
+||~ 檔案名稱 ||~ 圖片作者 ||~ 授權 ||~ 圖片來源 ||
+||= 2560px-Pseudo_Kleinian_OpenCL_214854124_25K.jpg ||= PantheraLeo1359531 ||= CC BY-SA 4.0 ||= [*https://commons.wikimedia.org/wiki/File:Pseudo_Kleinian_OpenCL_214854124_25K.jpg Wikimedia Commons] ||
+||= stfmem ||= [[*user Aethris]] ||= CC BY-SA 3.0 ||= 原文檔案  ||
+||= wjjujEl.jpg, _
+ASaFAcP.png, _
+x2OLbKD.mp4 ||= [[*user stephlynch]] ||= CC BY-SA 3.0 ||= [*https://i.imgur.com/wjjujEl.jpg Imgur], _
+[*https://i.imgur.com/ASaFAcP.png Imgur] _
+[*https://i.imgur.com/x2OLbKD.mp4 Imgur] ||
+||= ESO 2.2-m WFI Image of the Tarantula Nebula (4598317299).jpg ||= NASA Goddard Space Flight Center ||= CC BY-SA 2.0 ||= [*https://commons.wikimedia.org/wiki/File:ESO_2.2-m_WFI_Image_of_the_Tarantula_Nebula_(4598317299).jpg Wikimedia Commons] ||
+||= https://i.imgur.com/3HTeswH.pngg ||= [[*user kikunai]] ||= CC BY-SA 3.0||= // ||
+||||||||= 以上圖像編輯至 ||
+||= TYPOLOGY.jpg 和 NarrativeStructures.jpg  ||= 分別為[[*user Liryn]] 和 Benjamin Hoguet  ||= 分別為CC BY-SA 3.0 和  CC BY-SA 4.0 ||= [*https://scp-wiki.wdfiles.com/local--files/azamo/TYPOLOGY.jpg Azamo's Authorpage, local files]，[*https://commons.wikimedia.org/wiki/File:NarrativeStructures.jpg Wikimedia Commons] ||
+||= WNXpCGh.mp4 ||= [[*user Liryn]] ||= CC BY-SA 3.0 ||= [*https://i.imgur.com/WNXpCGh.mp4 Imgur] ||
+||||||||= 以上圖像使用了photomosh，並編輯至 ||
+||= Golden Road ||= Kevin Dooley ||= CC BY 2.0 ||= [*https://www.flickr.com/photos/pagedooley/35268591394/ Flickr] ||
+||= https://i.imgur.com/WtSI45d.png ||= [[*user kikunai]] ||= CC BY-SA 3.0 ||= // ||
+||||||||= 以上圖像編輯至 ||
+||= THE-HEROS-JOURNEY.png 和 Heroesjourney.svg ||= 分別為[[*user Liryn]] 和 Anonymous ||= 分別為CC BY-SA 3.0 和 Public Domain ||= 分別為[*https://scp-wiki.wdfiles.com/local--files/azamo/THE-HEROS-JOURNEY.png Liryn's Authorpage, local files] 和 [*https://commons.wikimedia.org/wiki/File:Heroesjourney.svg Wikimedia Commons]||
+||= arche2.png ||= [[*user EstrellaYoshte]] ||= CC BY-SA 3.0 ||= 原文檔案 ||
+
+> **備註：** 有些內容元素是[*/long-live-the-king 吾王萬歲]和[[[SCP-2747]]]的衍生/引用。一些概念元素，包括 https://i.imgur.com/WtSI45d.png 和 THE-HEROS-JOURNEY.png 的內容衍生至J. Campbell的"Monomyth"概念模型，出自"The Hero's Journey"此書。
+=====
+
+[[include :scp-zh-tr:component:license-box-end]]
+[[/div]]
+[[/div]]

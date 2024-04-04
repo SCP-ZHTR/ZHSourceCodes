@@ -1,0 +1,15 @@
+[[include info:start]]
+**作者：**[[*user aindavis_817]]
+篇名：火鶴花
+本作品參加 2023 紅藍爭霸戰2.0 - 題目：「昔」
+[[include info:end]]
+
+
+
+[[module ListPages  category="fragment" parent="." limit="1" order="created_at" offset="@URL|0"]]
+%%content%%
+[[/module]]
+
+[!-- http://scp-zh-tr.wikidot.com/fragment:anthurium-1 --]
+[!-- http://scp-zh-tr.wikidot.com/fragment:anthurium-2 --]
+[!-- http://scp-zh-tr.wikidot.com/fragment:anthurium-3 --]

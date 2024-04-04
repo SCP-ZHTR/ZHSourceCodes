@@ -1,0 +1,42 @@
+[[module Listpages range="." tags="+scp"]]
+[[%%content{0}%%module css]]
+#page-title, #breadcrumbs{
+display:none!important;
+}
+
+.meta-title-hidding .meta-title::before{
+content:"%%name%%"
+}
+.meta-title-hidding .meta-title{
+text-transform: uppercase;
+}
+
+.meta-title-hidding br{
+display:none;
+}
+.meta-title-hidding .pseudocrumbs{
+text-transform: uppercase;
+}
+.meta-title-hidding .pseudocrumbs a{
+text-transform: none;
+}
+
+[[%%content{0}%%/module]]
+
+
+
+
+[[div class="meta-title-hidding"]]
+[[div class="meta-title"]]
+[[/div]]
+[[span class="pseudocrumbs"]]%%parent_title_linked%%» %%name%%[[/span]]
+[[/div]]
+[[/module]]
+
+[[module Listpages range="." parent="-"]]
+[[%%content{0}%%module css]]
+.meta-title-hidding .pseudocrumbs{
+display:none;
+}
+[[%%content{0}%%/module]]
+[[/module]]

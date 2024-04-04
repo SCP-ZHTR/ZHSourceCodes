@@ -1,0 +1,43 @@
+[[include component:scp-meta-title-hiding css-style=classic]]
+[[include info:start]]
+**原文：[http://www.scp-wiki.net/scp-015 SCP-015 - 惡夢水管]**
+**作者** : [[*user Dr Gears]]
+**譯者** : [[*user minmasterqw]]
+[[include info:end]]
+
+**項目編號：** SCP-015 
+
+[[include component:image-block
+        name= https://scp-wiki.wdfiles.com/local--resized-images/scp-015/SCP-015New/medium.jpg|
+        caption= **SCP-015內部**]]
+
+**項目等級：** Euclid
+
+**特殊收容措施：**SCP-015無法移動，項目將在原地收容。任何時候都必須在收容SCP-015的整個建築周圍保持至少2米（即6尺）的間隙，並且任何類型的建築都不得與SCP-015當前收容用建築接觸。只有由三人組成且具有完整安全索和GPS的團隊允許入內探索。 任何SCP-015的突出部分必須被立即密封，並紀錄突出部分的所在位置。
+
+在SCP-015內嚴禁所有攻擊性行為。嚴禁在SCP-015內使用手動或電動工具。嚴禁對SCP-015任何部分進行維修。
+
+**描述：** SCP-015是一組由管道，通風口，鍋爐和其他各種鉛管設備所組成的混合物，已完全填滿一個位於███████一個倉庫。管道似乎會在未被觀察時增長，並試圖通過下水道系統和地下管道連接到附近的建築物。根據目前的估計，SCP-015現已增長至包括超過190公里（120英里）的管道，這些管道的直徑為2.5厘米至一米不等。部分管道較新，而另一些則開始生鏽並出現洩漏。據報告，組成項目的管道由骨頭，木頭，鋼，粉煤灰，人肉，玻璃和花崗岩製成。尚未在項目內發現由鉛，PVC塑料，銅或任何其他傳統材料製成的管道。
+
+[[[Plumbing|SCP-015對於工具與攻擊行為有反應。]]] 任何人員若對SCP-015表現出暴力行為、持有器械、試圖以任何方式損害或修復項目，皆會觸發其產生反應。對象附近的所有管道都會破裂，並向對象噴灑管道內容物，直到內部液體完全流出。報告顯示管道中含有油，汞，老鼠，一種尚未發現的昆蟲，毛玻璃，海水，內臟和鐵水。管道將繼續圍繞對象破裂，直至對象死亡或撤退。
+
+SCP-015在與該地區的其他11個建築物連接後被削減到其當前建築內。目前，本項目已引起11人喪生，20多人失踪。有報告稱SCP-015內部經常傳出撞擊聲和尖叫聲。
+[[footnoteblock]]
+
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[SCP-014]]] | SCP-015 | [[[SCP-016]]] >>
+[[/=]]
+[[/div]]
+
+[[include :scp-zh-tr:component:license-box
+|author=Dr Gears]]
+=====
+
+> **檔案名稱：**SCP-015New
+> **圖像作者：**[[*user Scorpion451]]
+> **圖像授權協議：**CC BY-SA 3.0
+> **圖源連結：**[[[http://scp-wiki.wikidot.com/forum/t-76918/scp-015#post-2552261|Link]]]
+
+=====
+[[include :scp-zh-tr:component:license-box-end]]

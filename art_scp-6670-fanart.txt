@@ -1,0 +1,30 @@
+[[include :scp-wiki:theme:black-highlighter-theme]]
+[[include :scp-wiki:theme:extra-black-highlighter-theme]]
+[[include :scp-wiki:component:toggle-sidebar-bhl]]
+
+[[include info:start]]
+**篇名：** SCP-6670 藝作
+**作者：** [[*user Kikunai]]
+[[include info:end]]
+
+[[div style="border:solid 5px #800000; background: #0A0A0A; padding:5px; margin-bottom: 10px;"]]
+[[=]]
+++++ ⚠️__內容警告__⚠️
+
+此藝作含肉體恐怖成分，如有不適請按上一頁鍵
+
+[[/=]]
+[[/div]]
+
+------
+
+[[include :scp-wiki:component:image-features-source |blur-reveal=--]
+|blur-amount=1.5
+|speed=500
+|float=false
+|align=left
+|width=100%
+|url=https://i.imgur.com/sgSseku.png
+|add-caption=true
+|caption=[https://scp-wiki.wikidot.com/scp-6670 「媽媽?」]
+]]

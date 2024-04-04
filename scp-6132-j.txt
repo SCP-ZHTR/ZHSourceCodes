@@ -1,0 +1,146 @@
+[[include info:start]]
+原文：[http://scp-wiki.wikidot.com/scp-6132-j SCP-6132-J] 地形研究
+作者：[[*user Doctor Cimmerian]]
+譯者：[[*user Frederica Bernkastel]]
+圖片翻譯：[[*user Mang Gwan]]
+authorPage=http://www.scp-wiki.net/dr-cimmerian-s-personnel-file
+comments= Yup. I said I was gonna do it and I did it
+
+Image source is edited from here: https://upload.wikimedia.org/wikipedia/commons/6/65/Olympic_boycotts_1976_1980_1984.PNG
+
+部分內容顯而易見的改編自Kaktus的風格，同時我也確實對他寫的作品開了小玩笑。
+[[include info:end]]
+
+
+[[include theme:black-highlighter-theme]]
+[[module CSS]]
+sup {
+vertical-align: top; position: relative; top: -0.5em;
+}
+:root{
+--cutColour: #fafafa;
+--barColour: #590505;
+}
+
+.info-container .collapsible-block-folded a{
+color: #FFF;}
+.info-container .collapsible-block-unfolded-link a{
+color: #FFF;}
+
+.translation_block{
+display:none;}
+
+.warning-box,
+.classified {
+    font-family: "verdana";
+}
+
+[[/module]]
+[[module css]]
+#side-bar {
+    background: rgb(var(--white-monochrome));
+}
+
+#side-bar div.menu-item a, #side-bar div.menu-item .text {
+    color: rgb(var(--black-monochrome));
+}
+
+#side-bar>div:nth-child(5) {
+    background-color: rgba(var(--dark-accent),0.25)!important;
+}
+[[/module]]
+
+[[module css]]
+sup {
+
+vertical-align: top; position: relative; top: -0.5em;
+}
+[[/module]]
+
+[[include :scp-zh-tr:component:object-warning-box-source
+|bg-image=http://www.scp-wiki.net/local--files/component:object-warning-box-source/scp-logo.svg
+|bg-opacity=0.13
+|bg-size=100% 100%
+|text-top=根據監督者議會的命令
+|text-bottom=以下檔案為 1/6132-J 級機密
+禁止未經授權的訪問。
+|object-number=6132-J
+]]
+
+@@@@
+[[table class="classified" style="font-size:20px; width:100%;max-width: 700px;padding: 0 1%;margin: 0 auto;background: #fff;"]]
+[[row]]
+[[cell style=" line-height: 150%;"]]
+[[span style="white-space: nowrap"]]項目編號：SCP-6132-J
+等級：Safe[[/span]]
+[[/cell]]
+[[cell]]
+[[image https://i.imgur.com/JohXTcX.jpg]]
+[[/cell]]
+[[cell style="text-align: right;"]]
+[[span style="white-space: nowrap"]]等級1/6132
+機密[[/span]]
+[[/cell]]
+[[/row]]
+[[/table]]
+
+-----
+
+[[div class="scp-image-block block-center" style="width:700px;"]]
+[[image http://scp-wiki.wdfiles.com/local--files/scp-6132-j/1976.jpg style="width:700px;" link=#]]
+[[div class="scp-image-caption" style="width:700px;"]]
+SCP-6132-J實體的無異常效應複製品。
+[[/div]]
+[[/div]]
+
+-----
+
+**特殊收容措施：** SCP-6132-J將存放於站點Site-88十二層的標準收容櫃內。測試應取得6132-J項目負責人的申請許可。
+
+**描述：** SCP-6132-J是一組由Rand McNally製圖出版的地圖。當中有數個無法識別的區域。儘管地圖上的陸地區域都可以識別，但其餘地理特徵無法被命名。
+
+此外對象觀察SCP-6132-J時仍可以描述該地理特徵類型。他們將會把某個區塊稱呼為「海洋」或「河流」，但卻無法回憶起正確的名稱。
+
+SCP-6132-J最初自1976年Kirk Lonwood高中的一批地理教材中尋獲。同SCP-6132-J一併發現的鄰近教材似乎均未有類似特性。經SCP-6132-J項目負責人許可後，可以訪問所有藏品。
+
+[[collapsible show="+ 顯示6132-J測試" hide=" "]]
+
+以下為Aktus博士對低危險項目的例行再檢測中進行的訪談。
+
+> **Aktus博士：** 你好，能不能看看這張地圖呢？
+>  
+> **D-10013：** 那當然。
+>  
+> **Aktus博士：** 這有幾個常識問題，確認一下你的知識基礎。
+>  
+> **D-10013：** 聽起來不錯。
+>  
+> //Aktus博士指向地圖的左上角。//
+>  
+> **Aktus博士：** 能告訴我這是哪個洲嗎？
+>  
+> **D-10013：** 哈，當然是北美洲了。
+>  
+> //Aktus博士指出地圖的中間上面部分。//
+>  
+> **Aktus博士：** 很棒，這裡呢？
+> 
+> **D-10013：** 那是歐洲，我今天就負責這地理小學堂嗎。
+> 
+> //Aktus博士接著指出前兩點的中間區域。//
+> 
+> **D-10013：** 等等。那三小？
+> 
+> **Aktus博士：** 能夠講給我聽嗎？
+> 
+> **D-10013：** 我//(漫長的停頓)//我不知道。
+> 
+> //Aktus博士再指向地圖最右邊的另一個區域。//
+> 
+> **Aktus博士：** 告訴我，你認得這裡嗎？
+> 
+> **D-10013：** 不，我不認得[http://scp-zh-tr.wikidot.com/scp-2316 水體]。
+
+其他測試皆以類似結果告終。
+
+[[/collapsible]]

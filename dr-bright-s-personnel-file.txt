@@ -1,0 +1,137 @@
+[[module CSS]]
+#header {
+    background: url(http://scp-wiki.wdfiles.com/local--files/component%3Atheme/scp_pride_icon2.png) 10px 40px  no-repeat;
+}
+
+[[/module]]
+
+
+[[include info:start]]
+**作者：**[[*user AdminBright]]
+**譯者：** [[*user Danza]]
+[[include info:end]]
+
+**姓名：**Jack Bright博士，也可稱之為"博士"、"J博士"或"噢老天不"
+
+**安保權限等級：**█級，鑒於最近發生的事件，Bright博士已升職為Site 17, 19級63的人事主管。然而不會是Site 12的。永遠都不會是Site 12。我們不討論Site 12。這裡沒有Site 12。我們永遠都沒有個12號站點。願上天拯救我們的靈魂。
+
+**專長：**研究員、瘋狂科學家、基金會賭注登記人
+
+**常駐地點：**任何需要他的地方。
+
+**歷史：**個人學識在生物工程與異常基因體學領域的最前端。在基金會收容其弟[*http://www.scp-wiki.net/scp-590 SCP-590]時被徵召進入基金會工作。並被授予負責研究[*http://www.scp-wiki.net/scp-963 SCP-963]的任務，因此死去，也因之復生。從那之後被指派研究多項SCP，並參與在更多項目的詳細實驗中。
+
+**SCP Work:**
+[[[SCP-963]]] 不朽
+[[[SCP-590]]] 與汝共苦
+[[[SCP-721]]] Factory Toys
+[[[SCP-5555-j]]] Chibinator
+[[[SCP-573]]] The Pied Pipe
+[[[SCP-050]]] 致最聰明的人
+[[[SCP-627]]] The Perpetual Circle
+[[[SCP-894]]] - 不見，不聞，不言
+[[[SCP-528]]] -Voodoo Putty
+[[[SCP-029]]] - 暗影聖女
+[[[SCP-161]]] - Pinwheels of DOOM!!!
+[[[SCP-321]]] - 孩子
+[[[SCP-100-J]]] - A big steaming pile of  horse shit
+[[[SCP-693]]] - Knotty Stalkers
+[[[SCP-902]]] - 最後倒數
+[[[SCP-1337]]] - The Hitchhiker
+[[[SCP-834]]] - 標記筆
+[[[SCP-1004]]] - 工廠黃片
+[[[SCP-1777]]] - Kings Cave
+[[[SCP-1590]]] - The Book of Tamlin
+[[[SCP-2976]]] - The Hall of the Lost King
+
+
+**退役SCP**
+SCP-108-D
+
+**Bright的故事：**
+
+* 來自Bright的故事
+ * [[[tales-from-the-bright-side-chapter-one |第1章：指望上帝……噢！]]] 343與682之間的恐怖故事
+ * [[[tales-from-the-bright-side-chapter-1.5  |Intermission]]] A long ways in the future
+ * [[[we-re-off-to-be-the-lizard |第2章：我們要去做蜥蜴了]]] 當你把963跟682放在一起時會發生的事情
+ * [[[Intermission2 |Intermission 2: An Autopsy]]] Not so far into the future
+ * [[[an-evening-with-bright |第4章：與Bright共度的夜晚]]] Bright博士對新來的研究員解釋他在這裡到底都做些什麼。
+
+* [[[doctor-doctor-doctor |"Doctor, Doctor, Doctor."]]] A story of the end times.
+* [[[games-reality-benders-play |Games Reality Benders Play]]] The prelude to Unfinished Business
+* --Third Interlude: Things to Do in Tel Aviv When You're Dead--
+* [[[story-to-be-named-later |Story To Be Named Later]]] A story of Azrael Astoroth, Archduke of the Seventh Layer!
+* [[[SCP-001-O5 |SCP-001 是一位O5成員的故事]]] Bright的O5許可
+* [[[marysuewho |Mary Sue Who?]]] Our greatest Researcher!
+* [[[originofclef]]] 這是，呃，Clef的起源？
+* [[[EccePerago | Ecce Perago]]] 管理員的崛起！
+* [[[Annon |An Non]]] 與他的墜落
+* [[[jackofdiamonds |Jack of Diamonds]]] The story of SCP-952-Delta
+* [[[jackofclubs |Jack of Clubs]]] The lone tale of SCP-952-Gamma
+* [[[Taleof13 |The Tale of 13]]] A little bit of prophecy, regarding the O5
+* [[[theselfinsert |The Self insert]]] Hey, how could I resist?
+* [[[12talesaboutafactory |12個工廠故事]]] 它在錫罐上說
+* [[[snippetsfromtheserpent |Snippets From the Serpent]]] A chat log, with nobody important
+* [[[intheendmonkeybusiness |In the End: Monkey Business]]] The End of SCP-894
+* [[[intheendrawhide |In The End: Rawhide]]] When SCP-627, stopped
+* [[[intheendfinally |In the End: Europe]]]The last days of SCP-902
+* [[[intheendelite |In the End: Elite]]]The last days of SCP-1337
+* [[[timeandrelativedimensionsincontainmentprotocols |Doctor Who Crossover]]] The story is bigger on the inside.
+* [[[tryingtofleshoutanidea |Where Do Story Arcs Go When They Die?]]] ... It's got Fred! Don't ask me to explain.
+* [[[notsurethisisworking |In The End: Don't Go to Heaven Where the Angels Fry]]] the end of the Self Insert, SCP-1004, and SCP-1590
+* [[[intheendwedarenotgoahunting |In the End: We dare not go a hunting]]] The end of SCP-321
+* [[[intheendfiatlux |In the End: Fiat Lux]]] The end of SCP-029
+* [[[iquit |「我不幹了。」]]] 當一個O5不想繼續攪和
+* [[[heretherebe |這裡有]]] 怪物？
+* [[[rip |R.I.P.]]] 墳墓裡的和平
+* [[[codebrown |Code Brown]]] 一場[[span class="ruby"]]明亮的[[span class="rt"]]bright[[/span]][[/span]]家族團圓
+* [[[whatislove |愛為何物？]]] 我的天。
+* [[[insertjokeinurlhere | 後果：但這是真正發生過的事情]]]
+* [[[nothingtoseehere |這裡沒什麼好看的]]]
+* [[[blinddate |盲目約會]]]
+* [[[godsofthewaste]]]
+* [[[serrasbadday |珍貴的家族時光]]]
+
+
+
+**附註：**
+Bright博士不被允許與任何有智慧、有生命且非Safe級別的SCP項目產生肢體接觸。
+
+--Bright博士不被允許進入site 17。--在證明自身的信用與忠誠後，Bright博士再次被許可進入Site 17.
+
+Bright博士已被證實對於精神與情緒操控具有高度抗性。尚未知是其天生如此還是963造成的，且無法驗證。
+
+Jack目前擔任基金會非正式賭注登記人。如果有誰想下注的話，由博士來管理本票能讓賠率更平均一點。我們可以讓他不幹，但是這對許多研究員來說是必要的消遣。
+
+Bright博士不知為何被賦予人員檔案的訪問權限。我們不知道這是如何發生的，但顯然很有趣。
+
+//O5 筆記://不要讓Bright博士知道有幾具他的副本被允許存活，並負責特殊項目的工作。Bright博士編號2到7被分派至以下[數據刪除]。
+
+**附錄**
+
+為條列出Bright博士的違規事項，詳見"禁止Bright博士在基金會做的事一覽官方清單"。若發現更多違規請自行添加。-O5-6
+
+**備註：**//喔，哦哦哦，咿。喔，咿——。喔哦咿咿，哦哦哦、。喔——。喔。哦哦。//-MB
+
+**備註：**//…見鬼，誰他媽寫了這個？我恨那些關於我媽的暗示，該死的！//-Dr. Bright
+
+**備註：**//Bright博士：這段[*http://www.scp-wiki.net/video-logs 訊息洩漏]是什麼時候開始的？這可能會造成嚴重後果…// -O5-12
+
+OOC: 如果你想知道的話，以下是AdminBright在各個社交平台上使用的帳號列表。任何聲稱自己是Bright的帳號若不在下列表的話就不是作者本人。
+
+Tumblr: Iamnotadamnedmonkey
+
+Reddit: Theargentone
+
+Deviantart: talljacksoe
+
+Amino: Cap'n Duckman
+
+Tiktok: capnduckman
+
+
+
+以及，如果你喜歡我的作品，並想讓我開心，歡迎隨意給我買點什麼。[http://a.co/eF1ExSn http://a.co/eF1ExSn] 我很容易滿足的。
+
+也許還有其他的。天曉得我最好記得住。 
+[[include component:image-block name=http://scp-wiki.wdfiles.com/local--files/dr-bright-s-personnel-file/drbright.jpg|caption=我們不談論有關這張照片的話題。]]

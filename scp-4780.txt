@@ -1,0 +1,35 @@
+[[include component:scp-meta-title-hiding css-style=classic]]
+[[include credit:start]]
+**原文：** https://scp-wiki.wikidot.com/scp-4780
+**原題：** SCP-4780 - Shrunk
+**譯題：** SCP-4780 - 縮
+**原著：** [[*user a-random-day]]
+**譯者：** [[*user edward-knave]]
+[[include credit:end]]
+
+> **項目編號：** SCP-4780
+> 
+> **項目等級：** Apollyon
+> 
+> **特殊收容措施：** 不是apollyon但需注意.名叫thomas burter是4級研究員在寫**縮小光線**的4780檔之後電湧.我被光線打中縮小了.它有反轉可以還原快不是說笑找我在高研樓401室電話沒電在桌上.在打scp表.在鍵上跳整晚快有老鼠在裡面**有餓的老鼠**.還在縮越來越難打字在401桌上.光線還有電指向桌上按2號桿還原按發射**快**1
+> 
+> **描述：**
+{{ 上傳中…… }}
+{{…… }}
+{{…… }}
+{{…… }}
+{{…… }}
+{{錯誤：描述欄空白。無法上傳至資料庫。}}
+
+[[footnoteblock]]
+
+
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[SCP-4779]]] | SCP-4780 | [[[SCP-4781]]] >>
+[[/=]]
+[[/div]] 
+[[include :scp-zh-tr:component:license-box
+|author=a-random-day
+|lang=EN]]
+[[include :scp-zh-tr:component:license-box-end]]

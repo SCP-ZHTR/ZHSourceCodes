@@ -1,0 +1,6 @@
+image: 'https://imgur.com/aHjzmO1.jpg'
+owner: 狗蟻
+owner-wiki: s97169
+license: '0'
+other-license: ''
+note: '對 我就是想放點不一樣的 加油喔'

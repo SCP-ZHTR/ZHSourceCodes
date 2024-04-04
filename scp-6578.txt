@@ -1,0 +1,42 @@
+[[include component:scp-meta-title-hiding css-style=classic]]
+[[include info:start]]
+原文：[https://scp-wiki.wikidot.com/scp-6578 SCP-6578] 美國哥德風
+作者：[[*user Dr Leonerd]]
+譯者：[[*user Frederica Bernkastel]]
+[[include info:end]]
+
+[[include :scp-zh-tr:theme:classic]]
+
+[[include component:image-block
+    name=https://upload.wikimedia.org/wikipedia/commons/9/9e/Post_Ranch_home_1930.png|
+caption= 斯奈德牧場，拍攝於1939年。| width=240px]]
+
+**項目編號：** SCP-6578
+
+**項目等級：** Safe
+
+**特殊收容措施：** 由於無法將SCP-6578就其所在位置移除，斯奈德牧場周圍區域已用圍欄封鎖。使用SCP-6578進行測試應事先取得計畫主任哈迪克斯的許可，所有SCP-6578-1實體均應送入[[[SCP-6097 | Site-44]]]接受進一步的研究。
+
+**描述：** SCP-6578是一棵櫟樹//（Quercus macrocarpa）//，位於堪薩斯艾爾斯沃茲的原牧場遺址。項目最靠外的樹枝上固定著簡陋的兒童用輪胎鞦韆，樹幹上粗略的寫上了//J.S.//的縮寫字樣。
+
+一旦近期死亡人類[[footnote]]不超過24小時。[[/footnote]]完整遺體被埋入距項目樹根15公尺以內的地下，SCP-6578的異常特性就會啟動。在次日上午00:01（美國標準時間），死者（歸定為SCP-6578-1）死亡時的複製體將會復活，並赤身裸體的出現在其埋葬之地上方。製品將直接出現在墓地上方。SCP-6578-1實體最初會表現出昏睡和迷失方向的狀況，實體鮮少對本體死前一個月內發生的事情有記憶。
+
+1938年10月，在一座小牧場外發現了65歲鰥夫霍巴特．斯奈德的遺體後，SCP-6578引起了基金會的關注。在對項目進一步調查後．發現了47具基因相同但腐爛階段不同的屍體，所有屍體的年代均可追溯至1922年至1938年這16年間。
+
+這些遺骸與農場主當時還活著的兒子、11歲的約書亞．斯奈德相符，根據當時的報導，該員應該已在1922年2月2日死亡。發現的47具屍體死因均確認為急性白血病。
+
+[[footnoteblock]]
+
+------
+
+[[=]]
+[*http://scp-wiki.wikidot.com/dr-leonerd-s-author-page 更多該作者的作品......]
+[[/=]]
+
+------
+
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[SCP-6577]]] | SCP-6578 | [[[SCP-6579]]] >>
+[[/=]]
+[[/div]]

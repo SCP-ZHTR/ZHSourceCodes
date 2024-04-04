@@ -1,0 +1,77 @@
+[[module CSS]]
+@import url(http://scp-zh-tr.wikidot.com/theme:archeopelago/code/1);
+[[/module]]
+[[iftags +外觀主題]]
+[[include info:start-standalone]]
+**作者：**[[*user samscript]]
+感謝[[*user Dr V Valentine]]在版頭像素尺寸上的技術支援。
+[[include info:end]]
+將以下的代碼添加在作品的開頭即可套用本外觀主題：
+~~~~
+> @@[[include :scp-zh-tr:theme:archeopelago]]@@
+
+除了頂端的色塊與連結顏色有所調整外，其他內容皆與標準Sigma 9主題無異。
+
++ H1色彩
++++ 也是H3色彩
+
+* **[# 標準連結配色]：##1e7f10|1e7f10##**
+* **[[[main|已瀏覽過的連結配色（通往主頁）]]]：##1c5314|1c5314##**
+* **[[[sam-is-gonna-never-fill-this|未發布的連結配色]]]：##1e7480|1e7480##**
+
+* 已瀏覽連結色彩測試：##1c5314|1c5314##
+* [[[main|主頁]]]
+* **[[[main|主頁]]]**
+
+[[code type="css"]]
+/*
+    /* This css component of theme is adapted from our lovely [http://www.scp-wiki.net/component:theme SCP Sigma 9]
+    本css外觀主題組件係改編自我們可愛的 [http://www.scp-wiki.net/component:theme SCP Sigma 9] 外觀主題
+    Created by Dr V Valentine and SamScript
+    本外觀主題由用戶SamScript所作
+    Powered on 2021/05/05 10:50
+    [2019 Wikidot Theme]
+    CC BY-SA 3.0
+*/
+
+body
+{
+margin:0; padding:0;
+}
+
+div#container-wrap {
+    background: url(https://i.imgur.com/Vpefyd8.png) top left repeat-x;
+}
+div.open-menu a {
+    color: rgb(46, 139, 87)!important;
+    border-color: rgb(46, 139, 87)!important;
+}
+
+/*標題與H1色彩*/
+h1, h3, #page-title {
+    color: #1e7f10;
+}
+
+/*調整連結色彩*/
+  /*普通連結色彩*/
+a  {
+    color: #1e7f10;
+}
+
+ /*未創建連結的色彩*/
+a.newpage  {
+    color: #1e7480;
+}
+
+ /*已瀏覽連結的色彩*/
+a:visited  {
+    color: #1c5314;
+}
+
+ /*側欄已瀏覽連結的色彩*/
+#side-bar a:visited {
+    color: #1c5314;
+}
+[[/module]]
+[[/code]]
+[[/iftags]]

@@ -1,0 +1,196 @@
+[[include :scp-zh-tr:theme:ad-abyssum-penumbra]]
+
+[[module CSS]]
+.modal .collapsible-block-unfolded-link {
+    display: none;
+}
+
+.hidden-link {
+    color: white;
+    border: none !important;
+}
+
+.uhoh {
+    position: fixed;
+    top: 0;
+    opacity: 0;
+    left: 0;
+    background-color: rgba(0, 0, 0, 0.2);
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+    z-index: 99999;
+    animation: spooky-mode 45s linear 20s 1 forwards;
+    backdrop-filter: grayscale(0.75);
+}
+
+.OHNO {
+    opacity: 0;
+    background-image: url("https://scp-wiki.wdfiles.com/local--files/scp-6130/thefunnyevillogo.png");
+    background-size: cover;
+    background-position: center center;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    animation: these-fuckers-again 25s linear 35s 1 forwards;
+    pointer-events: none;
+}
+
+@keyframes these-fuckers-again {
+    0% { opacity: 0; }
+    100% { opacity: 1; }
+}
+
+@keyframes spooky-mode {
+    0% {
+        opacity: 0;
+    }
+    
+    100% {
+        opacity: 1;
+    }
+}
+
+
+.results {
+    background-color:#221800;
+    border: 3px solid var(--accentColor);
+    color: #CC9F77;
+    padding: 15px;
+    margin-bottom:10px;
+    font-family: monospace;
+    font-size: 1.2em;
+    text-align: center;
+}
+
+[[/module]]
+[[=]]
+[[module Rate]]
+[[div style="font-size: 90%; margin-top: -15px;"]]
+**⏲** 預估閱讀時間3分鐘
+[[/div]]
+[[/=]]
+
+[[div class="modal"]]
+
+[[div class="scp-image-block block-right" style="width:250px;"]]
+[[image https://scp-wiki.wdfiles.com/local--files/scp-6130/scp-6130.jpg style="width:100%;" link=#]]
+[[div class="scp-image-caption" style="width:100%;"]]
+一台被修改過的向量示波器，用以闡釋SCP-6130的數據。
+[[/div]]
+[[/div]]
+ 
+**項目編號：**SCP-6130
+
+**項目等級：**Safe（原Thaumiel）
+
+**特殊收容措施：**SCP-6130的功能應被無限期維持運作。一年一次，駐紮於地外站點的人員應對SCP-6130進行檢查，用以找出可能導致錯誤結果產出的故障或瑕疵。
+
+除非獲得高階職員的特別許可，否則該檔案僅供 4+ 或 3+/DoTT 級權限人員閱覽。
+
+**描述：**SCP-6130是一部由戰術神學部於1988年所開發的電子裝置。該項目體積約1.5立方公尺，其中包含有數種不同的設備，設計目的為遠程紀錄Akiva輻射[[footnote]]Akiva輻射是一種透過崇拜行為所產生的異常粒子，且主要來源為對大多數神性存在的信仰。[[/footnote]]的相關情報。SCP-6130的主要用途為利用Akiva輻射所發射出的電荷，根據測試對象所屬宗教的相對道德標準來判定該人員的相對神聖度。[[footnote]]出於各種原因，無神論者和不可知論者往往會受到極端負面的評判。隱晦、人造，或非有神的宗教亦傾向獲得相同的結果，或是產生能與它們近似等效的宗教道德標準相比較的「電荷」。[[/footnote]]
+
+在一份由新異教分部主任Astrid Nilsson所寫下的與Akiva粒子有關的論文當中，她做出了以下假設：
+
+> @@     [. . .]@@然而，如若假設此種對Akiva粒子電荷的理解是正確的（有證據表明確實如此），那麼在以某種形式的來生存在為前提下，利用[SCP-6130]來判定一個人將獲得何種的來生會是可行的。
+
+於1991年，在向Muhammad al-Taqi主任報告過後，SCP-6130被批准進行修改以擴張其輸入範圍。該計畫在1992年得到了進一步地資助（基於多方關注與神學層面上的涉及），並最終在1994年完工，且同時以科學理論證實了先前論文中所提出的假設。於1995年，SCP-6130被成功發射至衛星軌道上，令其得到對整個地球的無死角視野。
+
+----
+= **附錄**
+----
+
+自1995年起，SCP-6130的輸入數據便一直如預期般地在波動著。然而，即便使用了所有可用模型對數據進行客觀分析，但SCP-6130的最終結果卻始終與其最初觀察的結果保持一致：
+
+[[div class="results"]]
+
+= **__SCP-6130結果摘要__**
+
+數據已被歸類至字面意義上的 正面/中立/負面/其它 等分類之中。
+
+該個體宗教的等效對象並未呈現於表列選項，但已被納入至近似結果之中。
+
+對於SCP-6130數據的分析已以{{99.98%}}的信心水準對人類來生的預測得出以下狀態值的結果：
+
+@@ @@
+
+[[div style="display: grid; justify-items: center; justify-content: space-around"]]
+
+[[div]]
+= **天堂**
+{{約 0.0000%}}
+[[/div]]
+
+[[div]]
+= **煉獄**
+{{約 0.0000%}}
+[[/div]]
+
+[[div]]
+= **地獄**
+{{約 100.0000%}}
+[[/div]]
+
+[[div]]
+= **其它**
+{{約 0.0000%}}
+[[/div]]
+
+[[/div]]
+
+[[/div]]
+
+= 推翻該結果的所有嘗試皆以失敗告終。
+
+[[/div]]
+
+@@ @@
+@@ @@
+
+[[div class="modal" style="position: relative;"]]
+
+[[collapsible show="需有5級許可權限" hide="批准訪問"]]
+
+[[div class="uhoh"]]
+[[/div]]
+
+[[div class="OHNO"]]
+[[/div]]
+
+如若基金會員工的道德信念成為其履行職責（特別是與神學相關的事務）時的阻礙，則將批准Aleph-93號條約的啟用。受Aleph-93號條約所規範之人員將被列入可閱覽完整SCP-6130檔案的黑名單之中。
+
+Aleph-93號條約僅能由與目標對象（下稱「受試者」）保持良善關係的高階職員（下稱「執行者」）來完成。執行者應通過尋常閒談來接近受試者，並逐步將話題引導向兩人近期所遭遇到的道德困境。在確認了該對談的情感投入已達到其所認為適當的高點時，執行者應當（有預謀地）自發決定向受試者違規展示SCP-6130檔案，即上文。
+
+執行者應當為該決定顯露出一定程度的懊悔，但堅稱其認為有必要讓受試者閱覽，以消除受試者的道德拉扯。在送走受試者前應當明確地向受試者致歉。該致歉將可以是發自內心的。
+
+雖然大多數受試者在被執行後的二至五周內感到沮喪，但Aleph-93號條約已被證實對遏止宗教研究員產生道德躊躇有著83.4%的長期成功率。其餘受試者的行為具有不確定性，根據[[a href="http://scp-zh-tr.wikidot.com/fire-suppression-department-hub" class="hidden-link"]]火勢遏阻部[[/a]]指引，都將不可避免地接受強行記憶刪除。
+
+SCP-6130並非真實存在，並且從未被戰術神學部門所製造。
+
+[[/collapsible]]
+
+[[/div]]
+
+@@ @@
+@@ @@
+
+[[footnoteblock]]
+
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[SCP-6129]]] | SCP-6130 | [[[SCP-6131]]] >>
+[[/=]]
+[[/div]]
+
+[[include :scp-zh-tr:component:license-box
+|author=Yossipossi]]
+=====
+> **檔案名稱：**scp-6130.jpg
+> **圖像名稱：**Vectorscope.jpg
+> **圖像作者：**grm_wnr
+> **圖像授權協議：**CC BY-SA 3.0
+> **圖源連結：**[https://commons.wikipedia.org/wiki/file:vectorscope.jpg Wikimedia Commons]
+=====
+[[include :scp-zh-tr:component:license-box-end]]

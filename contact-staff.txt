@@ -1,0 +1,54 @@
+[[include :scp-zh-tr:theme:classic]]
+[[div class="content-panel centered standalone"]]
+++* [[[meet-the-staff|工作人員名單]]]|聯絡工作人員
+[[/div]]
+[[f>toc]]
+> @@ @@
+> 此頁面參照[http://www.scp-wiki.net/contact-staff EN]&[*http://scp-jp.wikidot.com/contact-staff JP]分部的Contact Staff頁面所建置，並調整成為繁中分部的運作模式。
+> 本篇用於指引聯繫員工聯繫的方式，以及在有疑問時應該去尋求哪位工作人員的協助等。
+> 關於內部人員的組成請參閱[*http://scp-zh-tr.wikidot.com/meet-the-staff 工作人員名單]。
+> @@ @@
+@@ @@
+++ 關於加入網站的疑問
+* 有關加入網站的所有必要條件通通詳細的列出於[http://scp-zh-tr.wikidot.com/system:join http://scp-zh-tr.wikidot.com/system:join 加入此網站]頁面。 _
+@@ @@
+* 您可以在[https://www.wikidot.com/account/ 帳戶的資料頁面]與[[[system:members |「站點成員列表」]]]中自行確認您的批准狀態。 _
+@@ @@
+* 網站管理員每天都會檢視申請加入網站的紀錄，請耐心等候您的申請被審核，//如果您在超過72小時內沒有收到任何回覆，//歡迎前往我們的[*http://scp-zh-tr.wikidot.com/chat-guide 各大聯絡窗口]求助，我們將會盡速回答您的提問。 _
+@@ @@
+* 申請失敗最常見的原因是__「**網站密碼**」__輸入錯誤，他指所指的密碼並**不是**您在申請wikidot帳號時所用的密碼，而是我們在[http://scp-zh-tr.wikidot.com/guide-for-newbies 新手指南]中隱藏的**暗號**，為了能順利加入網站請務必好好的閱讀過新手指南。 _
+@@ @@
+
+**※請注意**，網站管理員通常是網站上最忙的人員，因此在回覆上可能需要等待一段時間。最快能找到管理員的方式，就是前往我們的[*http://scp-zh-tr.wikidot.com/chat-guide 聊天室]詢問任何工作人員，管理員是否在線。
+@@ @@
+----
+++ 關於網站上的疑問
+當您發現有任何違反[*http://scp-zh-tr.wikidot.com/site-rules 網站規則]的狀況及[*http://scp-zh-tr.wikidot.com/harassment-policy 騷擾行為]時，請不要嘗試自行解決，而是__與[[[contact-staff/#toc3|工作人員]]]__聯繫。
+另外您對網站，寫作過程或網站政策有疑問。或是不確定您的疑問應該聯繫哪個工作人員時請參考以下指南。
+
+[[size 130%]]網站上的主要規則指南。[[/size]]
+* [[[site-rules |網站守則]]]-SCP-ZH繁體中文站的基本規則。
+* [[[chat-guide |聊天指南]]]-在Discord上使用官方聊天的規則。
+* [[[criticism-policy |評價政策]]]-批評的規則和準則。
+* [[[how-to-write-an-scp|如何撰寫一篇SCP]]]-描述編寫文章的規則和方法。
+* [[[staff-charter |工作人員憲章]]]-說明工作人員的權限與義務。
+* [[[translation-rules|翻譯守則]]]-關於SCP-ZH繁體中文站的翻譯相關規範。
+* [[[http://scp-zh-tr.wikidot.com/forum/c-6293967/|提案及站點政策]]]對網站的建構及架設希望提出建議時可以在此或[*http://scp-zh-tr.wikidot.com/chat-guide 聊天室]的**#網站意見區**留言。
+
+除上述位置之外，最快能得到問題的解答方式是在網站的[http://scp-zh-tr.wikidot.com/forum:start 討論區]中提問或前往我們的[*http://scp-zh-tr.wikidot.com/chat-guide 聊天室]詢問。
+@@ @@
+++ 關於著作權與圖片上的疑問
+有關於本站的[http://scp-zh-tr.wikidot.com/image-use-policy 圖像使用政策，請查閱此頁]
+
+如果你對著作權以及圖片版權有任何的疑問，都能向[[[contact-staff/#toc3|工作人員]]]諮詢。如果你發現用本站刊載的作品未經許可使用了您的創作或是有抄襲行為，請蒐集相關資訊並與我們[[[contact-staff/#toc3|聯繫]]]，我們將積極協助您處理相關事宜。
+
+@@ @@
+++ 主要聯繫方式
+
+你能透過以下方式聯繫到本站的[*http://scp-zh-tr.wikidot.com/meet-the-staff 工作人員]們，我們都將於72小時內答覆您的提問。
+
+* [*https://discord.gg/hqb5p9A SCP繁中工作人員Discord群] **成員服務窗口區**
+* [*http://scp-zh-tr.wikidot.com/chat-guide SCP繁中聊天室]**使用身分組標註**
+* [http://scp-zh-tr.wikidot.com/forum:start 討論區]**留言詢問**
+
+> [[size 120%]]所有的守則都將依照職員所做出的闡釋為準。該頁面上的所有內容皆可能在職員檢閱後而作出更動。[[/size]]

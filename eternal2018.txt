@@ -1,0 +1,29 @@
+[[div style="border:solid 6px"]]
+[[table]]
+[[row]]
+[[cell style="width: 50%; margin:auto; padding-left: 15px;padding-right:15px"]]
+[[# Jason]]
+[!--上面用以設立錨點--]
+**姓名或常用稱呼：** Dr.Jason、Jason或傑森
+**職稱或頭銜：** 高級研究員
+**專長項目：** 繪圖、神秘生物學
+**職場地點：** Site-ZH-02
+**經歷簡介：** 於2016年春初進入基金會服務，之前並無接觸任何異常組織
+**人際關係：** 與大多數人普通友好
+**特色描述：** 黑色短髮，身高約176公分，藍瞳，右側嘴角有個約1公分的傷疤，隨身攜帶著帶有異常的3X3魔術方塊保險箱，
+**相關條目：**
+繪圖作品：　[[[http://scp-zh-tr.wikidot.com/the-london-from-eternal2018| SCP-1678]]]
+[[[http://scp-zh-tr.wikidot.com/the-cain-from-eternal2018| SCP-073&SCP-076]]]
+[[[http://scp-zh-tr.wikidot.com/the-eternal2018-artwork-3| SCP-191&SCP-2845]]]
+**原創者：**  [[*user eternal2018]]
+[[collapsible show="+寫作指導" hide="-寫作指導"]]
+**使用此角色的注意事項：** 
+主要事項:年齡23歲，喜歡甜食，魔方裡除了資料外最多的就是甜食
+
+個性：個性開朗，有時會憂鬱，憂鬱的時候會變成個輕度虛無主義者，輕度御宅族，雖然懶但別人交給他的事都會做好，非常怕熱
+
+[[/collapsible]]
+[[/cell]]
+[[/row]]
+[[/table]]
+[[/div]]

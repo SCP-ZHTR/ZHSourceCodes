@@ -1,0 +1,14 @@
+[[include info:start]]
+**篇名：**聖誕禮物
+**作者：** [[*user Kikunai]]
+[[include info:end]]
+
+[[div class="scp-image-block block-center" style="width:100%;"]]
+[[image https://i.imgur.com/aUPLQWj.jpg style="width:100%;" link=#]]
+[[div class="scp-image-caption" style="width:100%;"]]
+牙刷。幸好你沒成為玩具。
+[[/div]]
+[[/div]]
+
+[http://www.scpwiki.com/scp-4666 SCP-4666]
+[https://twitter.com/kikunai14 我家很嘈的白鴿 (Twitter) ]

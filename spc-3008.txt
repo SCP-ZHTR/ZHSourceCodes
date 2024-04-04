@@ -1,0 +1,344 @@
+[[include :scp-zh-tr:theme:spc]]
+
+[[module CSS]]
+#header {
+    background-image: url('https://scp-wiki.wikidot.com/local--files/spc-3008/trans_spc.png');
+}
+[[/module]]
+
+[[>]]
+[[module Rate]]
+[[/>]]
+
+[[include :scp-zh-tr:component:author-label-source start=--
+|name=Sevenball 和 Tstaffor
+|no-right-margin=*]]
+= [[[https://scp-wiki.wikidot.com/tstaffor-s-author-page|作者頁]]] | [[[https://scp-wiki.wikidot.com/the-scip-squad-podcast-hub|Podcast]]] | [[[http://scp-zh-tr.wikidot.com/random:random-scp|隨機SCP作品]]]
+
+**Tstaffor's Best of：**
+* [[[SCP-6557]]] - Annihilation From a Cross Across Time
+* [[[SCP-5846]]] - The One-Stop Shop
+* [[[SCP-6547]]] - Worlds Within Worlds Within Worlds...
+[[include :scp-zh-tr:component:author-label-source end=--]]
+
+[[include :scp-zh-tr:component:customizable-acs
+|item-number= SPC-3008
+|clearance= 2
+|container-class= hammerhead
+|secondary-class=
+|secondary-icon=
+|disruption-class= firm
+|risk-class= sea-level
+|item-text= 項目編號：
+|level-text= 等級
+|clearance-number-text= 2
+|clearance-text= 限制查閱
+|containment-text= 鯊魚等級：
+|secondary-text=
+|disruption-text= 毆打等級：
+|risk-text= 深度等級：
+|inc-custom-text= --]]]
+[[include :scp-zh-tr:component:customizable-acs
+|containment-class= hammerhead
+|containment-image= https://scp-wiki.wdfiles.com/local--files/spc-3008/hammerhead.png
+|containment-color= 255,211,0
+|inc-containment = --]]]
+[[include :scp-wiki:component:customizable-acs
+|disruption-class= firm
+|disruption-image= https://scp-wiki.wdfiles.com/local--files/spc-3008/rock.png
+|disruption-color= 0,135,189
+|inc-disruption= --]]]
+[[include :scp-wiki:component:customizable-acs
+|risk-class= sea-level
+|risk-image= https://scp-wiki.wdfiles.com/local--files/spc-3008/sealevel.png
+|risk-color= 0,159,107
+|inc-risk= --]]]
+----
+[[include component:image-block | name=https://scp-wiki.wdfiles.com/local--files/spc-3008/blahaj.png | caption=SPC-3008，由愚蠢的IKEA銷售]]
+
+**鯊魚毆打對策：** [[span class="ruby"]]深海毆打隊[[span class="rt"]]Marine Fighting Teams[[/span]][[/span]]Kappa-9、Gamma-6和Omicron-5（名稱分別為Vänster Krok、Övre Skära和Slå Ut）將在全球所有IKEA[[footnote]]一家來自瑞典的連鎖家具零售商場[[/footnote]]中定期進行巡邏。當一群SPC-3008實例被發現後，它們會被反覆毆打直到徹底毀損。
+
+當特工被商場工作人員以「損壞商品」與／或「打擾其他顧客」的理由要求離開時，他們應暫時使員工喪失行為能力，並盡快完成任務。若此嘗試失敗，導致特工被迫必須離開，MFT特工將盡可能進行抵抗，並在此段時間內（大聲地）讓其他顧客了解無情的SCP-3008實體的邪惡本質。
+
+**項目組成：** SPC-3008是由IKEA出售的鯊魚毛絨玩具。項目長一公尺，且具有一整套的不織布牙齒。SPC-3008與普通填充玩具有許多共通特徵，如柔軟且毛絨的表皮、以棉花填充的內部、與印刷著條碼與製造商的標籤。儘管外觀看似無害，SPC-3008實際上是個極為惡毒的實體，具有危險的精神控制能力。類似邪教的社群在網上散播SPC-3008是一種能達成廣大範圍現實扭曲的智慧生物。由於需在首次接觸時就消滅所有的SPC-3008實例，以避免平民傷亡，因此無法對此說法進行驗證[[footnote]]MFT Kappa-9、Gamma-6與Omicron-5消滅SPC-3008的高效率使目前平民傷亡人數為0。[[/footnote]]。
+
+**附錄3008-1：被發現的證據**
+以下為邪教成員的對話紀錄。其表明SPC-3008具有現實扭曲能力。
+
+[[include :scp-wiki:component:discord-chat-source |inc-source= --]]]
+
+[[include :scp-wiki:component:discord-chat-source |inc-user= --]
+|user-id=post
+|username=Post-optimus Prime
+|usericon=https://scp-wiki.wdfiles.com/local--files/rainbow-crapitalism/transistor.png
+|usercolor=#F7A8B8
+]]
+
+[[include :scp-wiki:component:discord-chat-source |inc-user= --]
+|user-id=gengar
+|username=lebian_gengar
+|usericon=http://scp-wiki.wdfiles.com/local--files/rainbow-crapitalism/lesbiangengar.png
+|usercolor=#b75592
+]]
+
+[[include :scp-wiki:component:discord-chat-source |inc-start= --] ]]
+
+[[include :scp-wiki:component:discord-chat-source |inc-msg-start= --]
+|user-id=post
+|username=Post-optimus Prime
+|msg-time=今天 6:48 PM
+]]
+拿到了
+[[image https://i.imgur.com/CtdrO6n.png class="msgimage"]]
+[[include :scp-wiki:component:discord-chat-source |inc-msg-end= --] ]]
+
+[[include :scp-wiki:component:discord-chat-source |inc-msg-start= --]
+|user-id=gengar
+|username=lesbian_gengar
+|msg-time=今天 6:48 PM
+]]
+好耶！他讓你會飛了嗎？
+[[include :scp-wiki:component:discord-chat-source |inc-msg-end= --] ]]
+
+[[include :scp-wiki:component:discord-chat-source |inc-msg-start= --]
+|user-id=post
+|username=Post-optimus Prime
+|msg-time=今天6:49 PM
+]]
+對！我奶子還變大了兩個罩杯
+[[include :scp-wiki:component:discord-chat-source |inc-msg-end= --] ]]
+[[include :scp-wiki:component:discord-chat-source |inc-end= --] ]]
+對這些異常屬性的調查正在進行中。
+
+**附錄3008-2：滲透和消滅行動（摘要）**
+三個MFT小隊前往了位於加拿大英屬哥倫比亞省列治文的IKEA。K-9[[footnote]]裝備全套戰術套裝[[/footnote]] 負責執行SPC-3008的毀滅任務， G-6[[footnote]] 偽裝成IKEA的保全人員。[[/footnote]]確保所有平民和IKEA員工遠離該地，O-5[[footnote]]裝扮成新聞記者[[/footnote]]負責訪問現場人員，以獲得更多關於SPC-3008的資訊。
+
+[[div class="blockquote"]]
+[[=]]
++ <紀錄開始>
+[[/=]]
+----
+//[MFT攻破了建築大門。G-6搭乘手扶梯上樓後，沿著主走道向後退至兒童區，而K-9緊跟在後。]//
+
+**G6-5：** 對各位顧客說聲抱歉，因為今天是特殊節慶，所以我們比平常早關門！
+
+**顧客：** 今天7月29號，是有什麼特殊節慶！？
+
+**G6-5：** 呃……全國千層麵日！
+
+**顧客：** 這聽起來完全是假的。
+
+**G6-5：** 我保證這是真的節日。
+
+//[G6-5向平民們展示了全國千層麵日的維基百科條目，所有平民心不甘情不願地離開商場。]//
+
+**G6-1：** Kappa-9，可以開始行動了。
+
+//[K9-1到7開始攻擊SPC-3008.]//
+
+**O5-3：** 我在因全國千層麵日而關門的IKEA直播中！不好意思，小姐，請問你對這特殊的節慶有什麼想法？
+
+**顧客：** 我才不想要千層麵，我只想幫我的櫃子買櫃腳！
+
+**O5-3：** 喔，那好吧。
+
+//[O5-3迅速離開並找到了一個IKEA員工。]//
+
+**O5-3：** IKEA有這麼多可愛的商品，你一定很多選擇吧！我對Blåhaj特別感興趣，你知道他們是從哪裡來的嗎？
+
+**員工：** 其實我不知道，我只是一個收銀員。我想那些玩具很可愛吧？
+
+**O5-3：** 什麼！？你竟然覺得那些超級殘忍的生物可愛！？
+
+**指揮部：** O5-3失去冷靜了！O5-4，我們必須立刻讓他離開，快去替補！
+
+**O5-4：** 哈哈，我替我的同事道個歉。我們都超//愛//Blåhaj，你有關於他來源的任何資訊嗎？
+
+**員工：** 我不知道耶，應該是從發貨倉庫來的吧？
+
+**指揮部：** 我們獲得資料了，O5-4，離開那裡！
+
+//[Omicron-5撤離大樓。被採訪的員工開始返回二樓。]//
+
+**員工：** 嗯……不好意思，我們不允許你們這樣破壞商品。請你們準備買單吧！
+
+//[G6-2用一塊沾有三氯甲烷的抹布使員工昏迷並將她藏在一個展示棚中。]//
+
+**K9-1：** 已摧毀所有實例。
+
+**指揮部：** 我們已經獲得所有需要的資訊了。所有還在建築內的特工都應盡可能迅速而僅慎地離開。
+
+----
+[[=]]
++ <紀錄結束>
+[[/=]]
+[[/div]]
+
+
+**附錄3008-3：任務紀錄**
+在加拿大英屬哥倫比亞的IKEA對SPC-3008進行毀滅時，對員工的現場採訪中發現了該地區所有SPC-3008活動的中心，IKEA高貴林倉庫。MFT Gamma-6 ("Övre Skära") 被派遣至該地，從源頭阻隔SPC-3008。
+[[div class="blockquote"]]
+[[=]]
++ <紀錄開始>
+[[/=]]
+----
+**G6-1：** G6一號 check.
+
+**G6-2：** G6二號 check.
+
+**G6-5：** G6五號 check.
+
+**指揮部：** 在我們這裡看起來，你們狀況都不錯吧。你們在嘗試破門嗎？
+
+**G6-1：** 是的。
+
+**指揮部：** 一定可以成功的。
+
+//[三個特工破開了倉庫的門，發現設施內有好幾個工人正在走動。]//
+
+**G6-5：** 長官，沒有發現SPC-3008！
+
+**G6-1：** 該死！二號，你去搜索左邊。五號，你去右邊。
+
+**指揮部：** 這裡平民太多了！二號，你現在有權力能部署讓他們離開的措施。
+
+**G6-2：** 了解。現在開始使用工業用臭氣彈。
+
+//[特工搜索了整個倉庫，最後在東北方發現了一群SPC-3008，初估至少有200個實例。]//
+
+**G6-5：** 天啊……
+
+**G6-1：** 五號！怎麼了！五號！？指揮部，發生什麼事？我跟五號失去聯繫了！
+
+**指揮部：** 我們目前也無法確認。
+
+//[通過G6-2的麥克風，可以聽到微弱的尖叫聲以及手榴彈爆炸的聲音。]//
+
+**G6-2：** 長官，我們找到他們的聚集處了。這裡比我們想像的還糟，五號已經被幹掉了……
+
+//[G6-5因爆炸傷而死亡，屍體躺在地上[[footnote]] 後來的調查顯示G6-5將手榴彈丟進了SPC-3008堆中，但由於其彈性，它被反彈回G6-5身上，並殺死了他。[[/footnote]]。]//
+
+**G6-1：** 他們殺掉五號了。炸藥對他們沒有用。
+
+**指揮部：** 透過毆打消滅所有個體！
+
+**G6-1：** 收到。
+
+//[在接下來兩個小時中，兩個特工透過猛擊、重擊和痛擊來消滅所有SPC-3008實例。]//
+
+**指揮部：** 非常好，我被告知希望能帶走一隻接受審問。
+
+**G6-1：** 好的，我們大概能走了。
+----
+[[=]]
++ <紀錄結束>
+[[/=]]
+[[/div]]
+一個實例被帶回以進行審問。
+
+**附錄3008-4：審問紀錄**
+Dr. Grant Lingham對被捕獲的SPC-3008進行了審問。
+
+[[div class="blockquote"]]
+[[=]]
++ <開始記錄>
+[[/=]]
+----
+**Dr. Lingham：** 說，你是誰做出來的？
+
+**SPC-3008：** （沒有言語表示）
+
+**Dr. Lingham：** 你再不說話的話，我就把你從水箱裡抓出來，然後放回......
+
+**SPC-3008：**  ...
+
+**Dr. Lingham:** 回答我的問題。
+
+**SPC-3008：**  ...
+
+**Dr. Lingham：** 回答這個[髒話消音]的問題！
+
+**SPC-3008：** ...
+
+**Dr. Lingham：** 好，你就是不要說是吧？
+
+**SPC-3008：** ...
+
+**Dr. Lingham：** 好吧，我們有很多 //方法// 能讓你開口。
+
+//[Dr. Lingham揍了SPC-3008的臉部一拳]//
+
+**Dr. Lingham：** 你一定要這樣嗎？蛤！？
+
+**SPC-3008：** ...
+
+//[Dr. Lingham再次揍了SPC-3008一拳。]//
+
+**Dr. Lingham：** 你！什麼！時候！才要說！
+
+//[寧靜了5秒]//
+
+**SPC-3008：** ...
+
+**Dr. Lingham：** [髒話消音]
+----
+[[=]]
++ <紀錄結束>
+[[/=]]
+[[/div]]
+沒有發現更多資訊。正在進行消滅所有SPC-3008個體的行動。
+----
+[[=]]
+[[include :scp-zh-tr:component:license-box
+|author=Sevenball and Tstaffor]]
+[[<]]
+=====
+> **Filename:** blahaj.png
+> **Name:** 00662244kevin.jpg
+> **Author:** Kevin00112233
+> **License:** CC BY-SA 4.0
+> **Source Link:** https://commons.wikimedia.org/wiki/File:00662244kevin.jpg
+> **Notes:** Cropped by [[*user Tstaffor]]
+
+> **Filename:** trans_spc.png
+> **Author:** [[*user Limeyy]] and [[*user Tstaffor]]
+> **License:** CC BY-SA 3.0
+> **Source Link:** this page
+
+> **Filename:** hammerhead.png
+> **Name:** Hammerhead Shark (PSF).png
+> **Author:** Pearson Scott Foresman
+> **License:** Public Domain
+> **Source Link:** https://commons.wikimedia.org/wiki/File:Hammerhead_Shark_(PSF).png
+
+> **Filename:** firm.png
+> **Name:** Rock
+> **Author:** John Redman
+> **License:** CC BY 3.0
+> **Source Link:** https://game-icons.net/1x1/john-redman/rock.html#download
+
+> **Filename:** sealevel.png
+> **Name:** Matsuda nami (No background and Black color drawing).svg
+> **Author:** Gameposo
+> **License:** CC BY-SA 4.0
+> **Source Link:** https://commons.wikimedia.org/wiki/File:Matsuda_nami_(No_background_and_Black_color_drawing).svg
+
+> **Name:** lesbiangengar.png
+> **Author:** ch00bakka
+> **License:** CC BY-SA 3.0
+> **Source Link:** http://scp-wiki.wdfiles.com/local--files/rainbow-crapitalism/lesbiangengar.png
+
+> **Name:** transistor.png
+> **Author:** ch00bakka
+> **License:** CC BY-SA 3.0
+> **Source Link:** https://scp-wiki.wdfiles.com/local--files/rainbow-crapitalism/transistor.png
+
+> **Filename:** blahaj_discord.png
+> **Author:** [[*user LOVEMARGINAL]]
+> **License:** CC BY-SA 3.0
+> **Source Link:** This Page
+=====
+[[/<]]
+[[include :scp-zh-tr:component:license-box-end]]
+[[/=]]
+[!----]

@@ -1,0 +1,50 @@
+[[include component:scp-meta-title-hiding css-style=classic]]
+[[include info:start]]
+篇名：一份給所有Site-32員工的備忘錄。
+原文：[http://www.scp-wiki.net/scp-6892 SCP-6892]
+原作者 ：[[*user Harriet Farrar]]
+譯者：[[*user Lostwhat]]
+[[include info:end]]
+
+[[module CSS]]
+.email-example .collapsible-block-folded a.collapsible-block-link {
+    animation: blink 0.8s ease-in-out infinite alternate;
+}
+@keyframes blink {
+    0% { color: transparent; }
+    50%, 100% { color: #b01; }
+}
+.email {border: solid 2px #000000; width: 88%; padding: 1px 15px; margin: 10px; box-shadow: 0 1px 3px rgba(0,0,0,.5)}
+.email-example a.collapsible-block-link {font-weight: bold;}
+.tofrom {margin-left: 10px; margin-top: 5px; padding: 1px 15px; border-left: solid 3px maroon}
+[[/module]]
+[[div class="email"]]
+[[=]]
+
+++++ **__備忘錄__**
+[[/=]]
+
+//致所有Site-32員工，請謹記SCP-6892應被放置在露天環境，最好是偏僻幽靜的場所，使其日常運作不會受到干擾。//
+
+//敬告各位尚未被通知的Site-32員工，SCP-6892是一個銀色骨灰罈，正面印有心型圖案。//
+
+//請盡可能減少和SCP-6892的所有互動，以避免損壞或灑出其內容物。損毀項目造成的後果是無法被清理的。//
+
+//截至本備忘錄被寫下時，SCP-6892目前正位於B翼三號研究室。請不要挪動SCP-6892，因為我還有重要的工作得去完成。//
+
+//如果員工報告曾目擊到具有異常屬性的人形個體，比方說穿透牆壁或漂浮，請不要感到驚訝。這些只是SCP-6892-1的性質。//
+
+//給歐哈拉跟羅伯茲主任，我想感謝你們在我去世週年紀念日的祈禱中從不缺席，言詞難表感恩之意。//
+
+-高級研究員，露西·佛格森. **†**
+
+
+[[/div]]
+
+[[footnoteblock]]  
+
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[SCP-6891]]] | SCP-6892 | [[[SCP-6893]]] >>
+[[/=]]
+[[/div]]

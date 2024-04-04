@@ -1,0 +1,84 @@
+[[include component:scp-meta-title-hiding css-style=classic]]
+[[include info:start]]
+**原文：**[http://www.scp-wiki.net/scp-4830 SCP-4830]]
+
+**作者：**[[*user DolphinSlugchugger]]
+
+**譯者：**[[*user feitag]]
+[[include info:end]]
+[[include component:image-block
+    name=http://scp-wiki.wdfiles.com/local--files/scp-4830/brain2.gif|
+    caption=                                                 
+]]
+**項目號碼：**SCP-4830
+
+**事項等級：**Keter
+@@@@
+**特殊收容措施：**監測 SCP-4830 是否進行從思想圈 (noosphere)  [[footnote]]所有人類意識與思想的集合。[[/footnote]] 至資訊圈 (infosphere)  [[footnote]]所有資訊的集合。[[/footnote]]的傳輸。
+@@@@
+在@@　　@@思想圈-資訊圈傳輸，或需要不惜任何代價無效化 SCP-4830 的情況下，將斯克蘭頓斷頭台 (Scranton Guillotines)  [[footnote]]構成薄殼層的斯克蘭頓現實穩定錨，@@ @@吸收一個區域周圍的非現實。[[/footnote]]佈署到所有基金會 site 與 area (除了 Area-13 以外) 的周圍，直到 SCP-4830 被無效化。
+@@@@
+所有表現出 SCP-4830 暴露跡象的基金會@@　　@@ 應接受 Z 級記憶強化方案，@@  @@隔離在斯克蘭頓斷頭台之內，並將他們的記憶傾印@@  @@與@@   @@最早的記憶傾印檔案比對。所有大於 10% 的長期記憶偏差應@@　　　　@@一種@@　　@@突破，受感染的員工重新分配至 Area-13。
+@@@@
+@@@@
+選擇認知危害@@    @@注射至思想圈以@@    @@並阻礙 SCP-4830 生長。 對於@@              @@的附帶損害並不成為一個問題，因為任何個體@@        @@呈現非異常的早發退化性腦障礙。
+@@@@
+@@@@
+造謠作戰@@                @@大規模流行的@@                    @@[[footnote]]空氣傳播性海綿狀腦病 [[/footnote]]在科學@@　@@中@@            @@
+@@@@
+@@@@
+@@                                                  @@
+@@                                                  @@
+@@                                                  @@
+@@@@
+@@@@
+將 DC-4830 @@    @@ 引入@@     @@ @@      @@的飽和@@  @@自願性顱骨破裂 @@  @@食腦歸為恐怖媒體@@         @@模仿犯罪。
+@@@@
+@@@@
+@@                                                  @@
+@@                                                  @@
+@@                                                  @@
+@@                                                  @@
+**描述：**
+@@@@
+@@@@
+@@                                                  @@
+@@                                                  @@
+@@                                                  @@
+@@                                                  @@
+@@@@
+@@@@
+@@                                                  @@
+@@                                                  @@
+@@                                                  @@
+@@                                                  @@
+@@                                                  @@
+@@                                                  @@
+@@@@
+@@@@
+@@                                                  @@
+@@                                                  @@
+@@                                                  @@
+@@                                                  @@
+[[module css]]
+
+.footnotes-footer{
+    display: none;
+}
+
+#header h2 span {
+    color: transparent;
+    text-shadow: none;
+}
+
+#header h2 span::before {
+    content: "控制，收容，      ";
+    display: block;
+    margin: 0;
+    padding: 0px 0;
+    line-height: 0px;
+    max-height: 0px;
+    color: #fff;
+}
+
+[[/module]]

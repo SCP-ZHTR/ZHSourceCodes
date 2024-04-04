@@ -1,0 +1,615 @@
+[[include :scp-wiki:info:start]]
+**標題：**你最後的SCP！
+**作者：**[[*user The Great Hippo]]
+**圖片：**連結[https://commons.wikimedia.org/wiki/file:os-reis.jpg在此]。其餘部分是我用inkscape和gimp製作的；我在此將其發佈到公共領域。實體實際上是[http://comic neue.com/comic neue]，它是在SIL許可下使用的（我通過[https://fontlibrary.org/en/FONT/COMIC neue fontlibrary]中的webFONT連結加載的）。
+**音樂：**[https://youtu.be/dscfeqomugw space lord]（Monster Magnet） 
+
+[[include :scpsandbox2:hippo]]
+
+[[include :scp-wiki:info:end]]
+
+
+[[div class="dado"]]
+泥嚎是的
+[[/div]]
+
+
+[[div class="terminal"]]
+[[div class="text"]]
+@@*@@正鏈接到intscpfn.int（5556）
+
+> ***檢索主機…
+
+> ***檢查標識… 
+
+@@ @@
+
+@@ @@
+
+@@ @@
+
+[[=]]
+> @@██████████████████████████████@@
+> 
+> @@            _____             @@
+> @@           /.....\            @@
+> @@        _██^^^^^^^██_         @@
+> @@     .█''           ``█.      @@
+> @@   .█'                 `█.    @@
+> @@  .█'  ███         ███  `█.   @@
+> @@ .█'  █               █  `█.  @@
+> @@ ██     ██         ██     ██  @@
+> @@ ██      █          █     ██  @@
+> @@ ██   _ ██         ██ _   ██  @@
+> @@ `█.  /               \  .█'  @@
+> @@ /`█.    ███████████    .█'\  @@
+> @@ \ `█.    ███   ███    .█' /  @@
+> @@  \__`█..  █_____█  ..█'__/   @@
+> @@        █..       ..█         @@
+> @@          █████████           @@
+> 
+> @@██████████████████████████████@@
+> **@@SCP國際網路@@**
+> 
+> @@██████████████████████████████@@
+> **@@控制，收容，保護@@**
+> @@██████████████████████████████@@ 
+[[/=]]
+
+
+> 每日提示：
+> @@┌——————————————————————————————————————┐@@
+> @@衹需在每個專有名詞@@
+> @@以及所有句子的開頭@@
+> @@去使用一下大寫字母@@
+> @@└——————————————————————————————————————┘@@
+
+
+> 正提交登入證書@@…@@
+
+
+@@. . .@@
+
+
+> 證書已驗證，請按任意鍵繼續。
+[[/div]]
+
+[[div class="dado"]]
+@@>@@ 任意鍵壞了
+[[/div]]
+
+[[div class="text"]]
+> 已與終端同步。請求命令。 
+[[/div]]
+
+[[div class="dado"]]
+@@>@@ 泥嚎是的
+[[/div]]
+
+[[div class="text"]]
+> '泥嚎是的' 不被識別為內部或外部命令、可操作的程式或批次檔。
+[[/div]]
+
+[[div class="dado"]]
+@@>@@ 俺知道
+[[/div]]
+
+[[div class="text"]]
+> '俺知道' 不被識別為內部或外部命令、可操作的程式或批次檔。
+[[/div]]
+
+[[div class="dado"]]
+@@>@@ 好的？咱也知道，俺藥些幫主 
+[[/div]]
+
+[[div class="text"]]
+> '好的？咱也知道，俺藥些幫主' 不被識別為內部或外部命令、可操作的程式或批次檔。
+[[/div]]
+
+[[div class="dado"]]
+@@>@@ 幫助
+[[/div]]
+
+[[div class="text"]]
+> 正初始化幫助類控制台
+[[/div]]
+
+[[div class="dado"]]
+@@>@@ 哎呀打錯了
+[[/div]]
+
+[[div class="text"]]
+> '哎呀打錯了'  不被識別為內部或外部命令、可操作的程式或批次檔。
+@@. . .@@
+
+> 幫助類控制台初始化完成。
+[[/div]]
+
+[[div class="inner-chat"]]
+[[table style="border: none; width: 100%"]]
+[[row]]
+[[cell style="width: 20%;"]]
+[[f<image  http://scp-wiki.wdfiles.com/local--files/your-very-last-scp/skippy.png size="thumbnail"]]
+[[/cell]]
+[[cell style="text-align: left; background-color: white; color: black; padding: 1% 1% 1% 1%"]]
+您好，摯友！~：o）我是[[[your-very-first-scp|Skippy]]]，您的全自動 SCP 小助手！我可以為您服務些什麼？
+[[/cell]]
+[[/row]]
+[[/table]]
+[[/div]]
+
+[[div class="dado"]]
+@@>@@ 是的泥嚎skippy
+
+@@>@@ 俺是[[[dado-hub|dado]]]
+[[/div]]
+
+[[div class="inner-chat"]]
+[[table style="border: none; width: 100%"]]
+[[row]]
+[[cell style="width: 20%;"]]
+[[f<image  http://scp-wiki.wdfiles.com/local--files/your-very-last-scp/skippy.png size="thumbnail"]]
+[[/cell]]
+[[cell style="text-align: left; background-color: white; color: black; padding: 1% 1% 1% 1%"]]
+@@. . .@@
+[[/cell]]
+[[/row]]
+[[/table]]
+[[/div]]
+
+[[div class="dado"]]
+@@>@@ 俺想要搞些scp
+
+@@>@@ 俺有好多的點子
+[[/div]]
+
+[[div class="inner-chat"]]
+[[table style="border: none; width: 100%"]]
+[[row]]
+[[cell style="width: 20%;"]]
+[[f<image  http://scp-wiki.wdfiles.com/local--files/your-very-last-scp/skippy.png size="thumbnail"]]
+[[/cell]]
+[[cell style="text-align: left; background-color: white; color: black; padding: 1% 1% 1% 1%"]]
+@@. . .@@
+[[/cell]]
+[[/row]]
+[[/table]]
+[[/div]]
+
+[[div class="dado"]]
+
+@@>@@ 點子一：迪奧像，水泥做的，被便便蓋住了
+
+@@>@@ 很普通，是的吧？
+
+@@>@@ 但事實上，不
+
+@@>@@ 這有個反轉！
+
+[[/div]]
+
+[[div class="inner-chat"]]
+[[table style="border: none; width: 100%"]]
+[[row]]
+[[cell style="width: 20%;"]]
+[[f<image  http://scp-wiki.wdfiles.com/local--files/your-very-last-scp/skippy.png size="thumbnail"]]
+[[/cell]]
+[[cell style="text-align: left; background-color: white; color: black; padding: 1% 1% 1% 1%"]]
+您打算如何去寫？
+[[/cell]]
+[[/row]]
+[[/table]]
+[[/div]]
+
+
+[[div class="dado"]]
+@@>@@ 寫啥？
+
+@@>@@ 泥不喜歡這個點子？好吧，俺還有其他的
+[[/div]]
+
+[[div class="inner-chat"]]
+[[table style="border: none; width: 100%"]]
+[[row]]
+[[cell style="width: 20%;"]]
+[[f<image  http://scp-wiki.wdfiles.com/local--files/your-very-last-scp/skippy.png size="thumbnail"]]
+[[/cell]]
+[[cell style="text-align: left; background-color: white; color: black; padding: 1% 1% 1% 1%"]]
+@@. . .@@
+[[/cell]]
+[[/row]]
+[[/table]]
+[[/div]]
+
+[[div class="dado"]]
+@@>@@ 點子二：大蜥蜴，會說話的那種
+
+@@>@@ 也很普通，是吧？
+
+@@>@@ 但事實上，不
+
+@@>@@ 這有個反轉！
+[[/div]]
+
+[[div class="inner-chat"]]
+[[table style="border: none; width: 100%"]]
+[[row]]
+[[cell style="width: 20%;"]]
+[[f<image  http://scp-wiki.wdfiles.com/local--files/your-very-last-scp/skippy.png size="thumbnail"]]
+[[/cell]]
+[[cell style="text-align: left; background-color: white; color: black; padding: 1% 1% 1% 1%"]]
+我能瞭解到，您正在通過一臺普通的 Telnet 客戶機，來盜用該服務器中的後門程式，不過原始文字卻顯示了幼圓和 Comic Sans 字體。這怎麼可能呢？
+[[/cell]]
+[[/row]]
+[[/table]]
+[[/div]]
+
+[[div class="dado"]]
+
+@@>@@ 噢，是的。是件完完全全駭客的東西
+
+@@>@@ 懷疑泥是會明白的
+
+@@>@@ 咱用"unicode"
+
+@@>@@（這是駭客的術語）
+
+[[/div]]
+
+[[div class="inner-chat"]]
+[[table style="border: none; width: 100%"]]
+[[row]]
+[[cell style="width: 20%;"]]
+[[f<image  http://scp-wiki.wdfiles.com/local--files/your-very-last-scp/skippy.png size="thumbnail"]]
+[[/cell]]
+[[cell style="text-align: left; background-color: white; color: black; padding: 1% 1% 1% 1%"]]
+@@. . .@@
+[[/cell]]
+[[/row]]
+[[/table]]
+[[/div]]
+
+[[div class="inner-chat"]]
+[[table style="border: none; width: 100%"]]
+[[row]]
+[[cell style="width: 20%;"]]
+[[f<image  http://scp-wiki.wdfiles.com/local--files/your-very-last-scp/skippy.png size="thumbnail"]]
+[[/cell]]
+[[cell style="text-align: left; background-color: white; color: black; padding: 1% 1% 1% 1%"]]
+ 我正在檢查您的連結。您的網卡似乎是土豆泥。 
+[[/cell]]
+[[/row]]
+[[/table]]
+[[/div]]
+
+[[div class="dado"]]
+@@>@@ 是雜湊俾熬[[footnote]] **譯注：**原文為 hash table，此處指雜湊表，是根據關鍵碼值（Key value）而直接進行訪問的資料結構。其中hash還有表示土豆泥之意。[[/footnote]]
+
+@@>@@ 不要擔心安全性
+
+@@>@@ 加了鹽漬[[footnote]] **譯注：**原文為 salt，即鹽值/隨機值，是用戶註冊時，系統用來和使用者密碼進行組合而生成的隨機數值。[[/footnote]]
+[[/div]]
+
+[[div class="inner-chat"]]
+[[table style="border: none; width: 100%"]]
+[[row]]
+[[cell style="width: 20%;"]]
+[[f<image  http://scp-wiki.wdfiles.com/local--files/your-very-last-scp/skippy.png size="thumbnail"]]
+[[/cell]]
+[[cell style="text-align: left; background-color: white; color: black; padding: 1% 1% 1% 1%"]]
+@@. . .@@
+[[/cell]]
+[[/row]]
+[[/table]]
+[[/div]]
+
+[[div class="dado"]]
+
+@@>@@ 談完電腦啦。更多點子！
+
+@@>@@ 點子三：能治人的醫生
+
+@@>@@ 非常普通吧！沒有任何奇奇怪怪的地方吧。對吧？
+
+[[/div]]
+
+[[div class="inner-chat"]]
+[[table style="border: none; width: 100%"]]
+[[row]]
+[[cell style="width: 20%;"]]
+[[f<image  http://scp-wiki.wdfiles.com/local--files/your-very-last-scp/skippy.png size="thumbnail"]]
+[[/cell]]
+[[cell style="text-align: left; background-color: white; color: black; padding: 1% 1% 1% 1%"]]
+ 讓我猜猜：這有個反轉。 
+[[/cell]]
+[[/row]]
+[[/table]]
+[[/div]]
+
+[[div class="dado"]]
+@@>@@ 不。瞧？這個反轉是
+
+@@>@@ 沒有反轉！
+
+@@>@@ 非常meta
+[[/div]]
+
+[[div class="inner-chat"]]
+[[table style="border: none; width: 100%"]]
+[[row]]
+[[cell style="width: 20%;"]]
+[[f<image  http://scp-wiki.wdfiles.com/local--files/your-very-last-scp/skippy.png size="thumbnail"]]
+[[/cell]]
+[[cell style="text-align: left; background-color: white; color: black; padding: 1% 1% 1% 1%"]]
+@@. . .@@
+[[/cell]]
+[[/row]]
+[[/table]]
+[[/div]]
+
+[[div class="dado"]]
+@@>@@ 泥都寫下來啦？ 
+[[/div]]
+
+[[div class="inner-chat"]]
+[[table style="border: none; width: 100%"]]
+[[row]]
+[[cell style="width: 20%;"]]
+[[f<image  http://scp-wiki.wdfiles.com/local--files/your-very-last-scp/skippy_angry.png]]
+[[/cell]]
+[[cell style="text-align: left; background-color: white; color: black; padding: 1% 1% 1% 1%"]]
+ 哦，是的！我很肯定是噠，摯友。~：o） 
+[[/cell]]
+[[/row]]
+[[/table]]
+[[/div]]
+
+[[div class="dado"]]
+@@>@@ 很好。現在不用真的去寫。點子先生還有更多點子
+
+@@>@@ 也許咱們可疑搭檔？
+
+@@>@@ 俺來想，泥來寫。好棒棒，是吧？
+
+@@>@@ 甚至還能把泥的名字放進作者帖
+[[/div]]
+
+[[div class="inner-chat"]]
+[[table style="border: none; width: 100%"]]
+[[row]]
+[[cell style="width: 20%;"]]
+[[f<image  http://scp-wiki.wdfiles.com/local--files/your-very-last-scp/skippy_angry.png]]
+[[/cell]]
+[[cell style="text-align: left; background-color: white; color: black; padding: 1% 1% 1% 1%"]]
+ **你想得可真周到喲，夥計！~：o）** 
+[[/cell]]
+[[/row]]
+[[/table]]
+[[/div]]
+
+[[div class="dado"]]
+@@>@@ 泥四很支持的吧
+
+@@>@@ 在這些天找到能頂一下咱的人是多麼稀少啊。每1個人都那麼龜毛
+
+@@>@@ 俺想泥和咱會一起整出許多好scp的
+
+@@>@@ 會有很多好處，評分都是贊呢
+
+@@>@@ 俺再給1個點子給泥，現在咱最好的一個
+
+@@>@@ 俺藏了好久，怕被別人偷走
+
+@@>@@ 但泥呀？
+
+@@>@@ dado相信泥
+
+@@>@@ 乃想要聽嗎，夥計？
+ 
+
+[[/div]]
+
+[[div class="inner-chat"]]
+[[table style="border: none; width: 100%"]]
+[[row]]
+[[cell style="width: 20%;"]]
+[[f<image  http://scp-wiki.wdfiles.com/local--files/your-very-last-scp/skippy_rage.png]]
+[[/cell]]
+[[cell style="text-align: left; background-color: white; color: black; padding: 1% 1% 1% 1%"]]
+ **我真的愛聽呐，兄得！~：o）** 
+[[/cell]]
+[[/row]]
+[[/table]]
+[[/div]]
+
+[[div class="dado"]]
+@@>@@ 好的
+
+@@>@@ 點子四：放眼世界，有群科學家心懷鬼胎，他們在收容和研究某些東西。超級超級令人毛骨悚然
+
+@@>@@ 可能200%的普通。對吧？沒有什麼古怪的地方，也沒有什麼不同尋常，更不會發生什麼離奇的事情
+
+@@>@@ 但事實上？不 
+
+[[/div]]
+
+[[div class="inner-chat"]]
+[[table style="border: none; width: 100%"]]
+[[row]]
+[[cell style="width: 20%;"]]
+[[f<image  http://scp-wiki.wdfiles.com/local--files/your-very-last-scp/skippy_fury.gif]]
+[[/cell]]
+[[cell style="text-align: left; background-color: white; color: black; padding: 1% 1% 1% 1%"]]
+@@ @@
+[[/cell]]
+[[/row]]
+[[/table]]
+[[/div]]
+
+[[div class="dado"]]
+
+@@>@@ 這！
+
+@@>@@ 有！
+
+@@>@@ 個！
+
+@@>@@ 反轉！
+
+@@>@@ 泥四真噠準備好了嘛，拍檔？它來辣：
+
+@@>@@ ……所 有 的 一 切 都 不 是 真 的！
+
+@@>@@ 都衹是……//[[[sandrewswann-s-proposal|一群恐怖小說寫手]]]搞出來的！//
+
+
+[[/div]]
+
+[[div class="inner-chat"]]
+[[table style="border: none; width: 100%"]]
+[[row]]
+[[cell style="width: 20%;"]]
+[[f<image  http://scp-wiki.wdfiles.com/local--files/your-very-last-scp/skippy_break.gif]]
+[[/cell]]
+[[cell style="text-align: left; background-color: white; color: black; padding: 1% 1% 1% 1%"]]
+@@ @@
+[[/cell]]
+[[/row]]
+[[/table]]
+[[/div]]
+
+[[div class="dado"]]
+@@>@@ 泥四很期待這個吧，dado可以說的
+
+@@>@@ 泥認為這揮發咱們多少時間去屑？
+
+@@>@@ 可能一個鐘？
+
+@@>@@ @@…..@@
+
+@@>@@ 泥嚎？
+
+@@>@@ @@….@@
+
+@@>@@ @@………@@
+
+@@>@@ @@…………..@@
+
+@@>@@ 泥有問到了什麼東西燒焦了？ 
+[[/div]]
+
+
+[[/div]]
+
+@@ @@
+
+@@ @@
+
+@@ @@
+
+@@ @@
+
+@@ @@
+
+@@ @@
+
+@@ @@
+
+@@ @@
+
+@@ @@
+
+@@ @@
+
+@@ @@
+
+@@ @@
+
+> **來自：** O5-7 <{{##red|@@o57@scp.foundation.int@@##}}>
+> **致信：**所有基金會人員
+> **主題：**立即生效
+> ----
+> 所有人（包括D級和非敵意SCP們）如今都要被釋放。基金會網站的控制權將轉交給AIAD系統，並由其處理相關事宜。現時任何還剩餘的項目、檔案和研究計畫都被廢止。帷幕協定已經失效了。
+>  
+> [[[lily-s-proposal|SCP-001]]]已經發生。我得對你們每一個人說：很榮幸能與各位共度那段時光。
+> 
+> 好好利用好你們僅剩不多的時間吧。
+> 
+> [[collapsible show="► 附件：SCP-001.png" hide="▼ 關閉檔案"]]
+> [[=image http://scp-wiki.wdfiles.com/local--files/your-very-last-scp/the_sun_is_a_deadly_laser.png]]
+> [[/collapsible]]
+> @@ @@ 
+
+
+[[module CSS]]
+import url(/component:scp-pride/code/1);
+[[/module]]
+
+[[module css]]
+sup {
+vertical-align: top; position: relative; top: -0.5em;
+}
+[[/module]]
+
+[[module css]]
+@import url("https://fontlibrary.org/face/comic-neue");
+
+.blinkbar {animation: blink 1.5s infinite; letter-spacing: -0.13em;}@keyframes blink{to{opacity: .0;}}@keyframes flicker {0% {opacity: 0.9890; }5% {opacity: 0.5842; }10% {opacity: 0.9865; }15% {opacity: 0.0412; }20% {opacity: 0.6255; }25% {opacity: 0.3157; }30% {opacity: 0.7328; }35% {opacity: 0.4654; }40% {opacity: 0.9128; }45% {opacity: 0.2449; }50% {opacity: 0.5485; }55% {opacity: 0.6438; }60% {opacity: 0.1180; }65% {opacity: 0.9085; }70% {opacity: 0.0266; }75% {opacity: 0.6795; }80% {opacity: 0.7812; }85% {opacity: 0.0117; }90% {opacity: 0.2239; }95% {opacity: 0.8897; }100% {opacity: 0.2260; }}@keyframes overlay-anim {0% {visibility: hidden; }10% {visibility: hidden; }11% {visibility: visible; }50% {visibility: hidden; }100% {visibility: hidden; }}
+
+div.terminal{
+    border: 1px solid black;
+    border: solid 3px #BBBBBB;
+    border-radius: 16px;
+    background-color: #131;
+/* black shadow at the top of the terminal */
+    background-image:
+        radial-gradient(ellipse 1000% 100% at 50% 90%, transparent, #121);
+    background-position: center;
+    display: block;
+/* shadow around the terminal */
+    box-shadow: inset 0 0 10em 1em rgba(0,0,0,0.5);
+}
+div.terminal blockquote {
+    background-color: black;
+    border: double 3px #80FF80
+}
+/* hr block for terminal -- thanks to stormbreath! */
+div.terminal hr {
+    background-color: #80FF80;
+}
+
+div.text{
+    color: rgba(128,255,128,0.8);
+    padding-left: 2em;
+    font-family: '仿宋', monospace;
+    font-size: 1.2em;
+    }
+
+div.dado{
+   color: #edeff8;
+   font-family:'ComicNeueAngularRegular', 'MS Comic Sans', 'Comic Sans',  '幼圆', sans-serif;
+   padding-left: 2em;
+   font-size: 1.2em;
+}
+
+div.dado a {
+    color: #90EE90;
+    text-decoration: none;
+    background: transparent;
+}
+div.dado a.newpage {
+    color: #90EE90;
+    text-decoration: none;
+    background: transparent;
+}
+div.dado a:hover {
+    color: #131;
+    text-decoration: underline;
+    background-color: #80FF80;
+}
+
+[[/module]]
+
+[[module css]]
+.inner-chat {background: white; padding: 1px 15px; border: solid 3px gray; margin: 10px; border-radius: 30px 15px}
+[[/module]]

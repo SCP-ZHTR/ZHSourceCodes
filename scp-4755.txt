@@ -1,0 +1,339 @@
+[[include component:scp-meta-title-hiding css-style=bhl]]
+[[include theme:black-highlighter-theme]]
+[[include component:bhl-dark-sidebar]]
+[[module CSS]]
+#page-content blockquote {
+  border: 2px double #999;
+  background-color: #f4f4f4;
+}
+a.collapsible-block-link { font-weight: bold; }
+.collapsible-block {  
+  text-align: center;
+}
+.collapsible-block-content {
+  text-align: justify;
+}
+.roundhr {
+  border-bottom: 7px solid #AAAAAA;
+  clip-path: polygon(
+    0% .25em,
+    .25em 0%,
+    calc(100% - .25em) 0%,
+    100% .25em,
+    100% calc(100% - .25em),
+    calc(100% - .25em) 100%,
+    .25em 100%,
+    0% calc(100% - .25em)
+    );
+}
+::-webkit-scrollbar-thumb {
+  background: #6a6c6e;
+}
+[[/module]]
+
+[[include :scp-wiki:component:pride-highlighter |inc-tg-alt= --]]]
+
+[[include info:start]]
+作者：[[*user Nagiros]]
+篇名：SCP-4755 - 當我等全能之時
+原文：[https://scp-wiki.wikidot.com/scp-4755 SCP-4755 When We Are Omnipotent]
+譯者：[[*user Red phosphorus ]]
+[[include info:end]]
+[[div style="text-align: right; margin-top: -15px;"]]
+##757575|by Nagiros##
+[[/div]]
+
+[[div class="roundhr"]]
+[[/div]]
+[[table style="border: none; width: 100%; margin: 10px"]]
+[[row]]
+[[cell style="width: 15%;"]]
+[[f<image  https://scp-wiki.wdfiles.com/local--files/about-the-scp-foundation/scp-logo-signature.png size="thumbnail" alt="SCP logo"]]
+[[/cell]]
+[[cell style="text-align: center;border:solid 2px #ee9999; padding:20px;"]]
++++++ 以下異常為6/4755級機密。
+
+------
+[[==]]
+訪問本文件的其餘部分，表示你了解直到確認你的身分之前，你將暴露於一個導致失能的認知危害。
+
+若你非監督者議會的登記成員，除非另有許可，否則試圖訪問SCP-4755將構成**5級違規**。
+[[/==]]
+> **當前訪問:** __{{L6-GENERAL}}__
+[[/cell]]
+[[cell style="width: 15%;"]]
+[[f>image  https://scp-wiki.wdfiles.com/local--files/about-the-scp-foundation/scp-logo-signature.png size="thumbnail" alt="SCP logo"]]
+[[/cell]]
+[[/row]]
+[[/table]]
+[[div class="roundhr"]]
+[[/div]]
+@@ @@
+@@ @@
+@@ @@
+[[collapsible show="{接受條件?}" hide="{歡迎，O5-9。}"]]
+@@ @@
+------
+[[include :scp-zh-tr:component:customizable-acs
+|risk-class= yggdrasil
+|risk-image= https://scp-wiki.wdfiles.com/local--files/calibri-s-mega-cool-art-page-it-s-mostly-just-icons-but-what/Yggdrasil.svg
+|risk-color= 0,0,255
+|inc-risk= --]]]
+
+[[include :scp-zh-tr.wikidot.com:component:anomaly-class-bar-source
+|item-number= 4755
+|clearance= 6
+|container-class= esoteric
+|secondary-class= enochian
+|secondary-icon= https://scp-wiki.wdfiles.com/local--files/scp-4755/enochian.png
+|disruption-class= amida
+|risk-class= 注意
+]]
+------
+[[module CSS]]
+.meta-title {
+    display: block;
+}
+[[/module]]
+@@ @@
+[[include component:image-block
+    name=http://scp-wiki.wdfiles.com/local--files/scp-4755/containment|
+    caption=可視化之SCP-4755。
+]]
+**特殊收容措施:** 教育、文學和哲學領域內受基金會影響的聯繫人將監控公眾對SCP-4755現象的認知。此外，不得在這些領域內混淆和/或中斷對 SCP-4755 的研究。這兩個要求不構成真正的收容措施，且被認為是自我存續的。
+
+收容SCP-4755自身是不可能實現的，且它很可能已經發生。然而，對[[[task-forces#tau-5 | MTF Tau-5 ("輪迴")]]]的隊長T-5 Irantu //Mark-LXXII//的收容已被提升為Alpha級優先事項。現存的T-5 Irantu目前不被視為威脅。
+
+**描述:** SCP-4755指定為概念化的最終目的，即為收容。所有人類衍生的概念—包含但不限於文學構想、哲學、及感情—旨在以類似於基金會對異常現象的收容方式建立對威脅、不利敘述或對立哲理的控制。參與概念化的個體通常不知曉他們不可告人的收容動機，據信這是由於SCP-4755的自我收容特性造成的。
+
+這些概念效應被假定為在自然界中具有追溯性，表明對本地時間線和相鄰宇宙進行了大規模改變。當前假定SCP-4755將在未來的某一時間點被適當地製造出來，但其影響實際上一直存在。
+
+儘管基金會自1987年起就已知曉SCP-4755，但其來源至今未知。對其創建方法的發現同樣地受到阻礙。
+
+進行的研究和調查主要關注在其性質，這些性質雖然廣泛，但被認為會影響分層系統中的概念化。如下圖表所示：
+[[table style="width: 100%; border-spacing: 0; border-collapse: collapse; margin-top: 40px; margin-bottom: 40px; text-align: left;"]]
+[[row]]
+[[hcell style="text-align: center; background-color: #444; color: white; width: 20%; border-right: 1px solid white;"]]
+正式名稱
+[[/cell]]
+[[hcell style="text-align: center; background-color: #444; color: white; width: 20%; border-right: 1px solid white;"]]
+描述
+[[/cell]]
+[[hcell style="text-align: center; background-color: #444; color: white; border-right: 1px solid #444;"]]
+範例
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell style="padding: 8px; border: 1px solid black; text-align: center;"]]
+**第零層：** 物質世界
+[[/cell]]
+[[cell style="padding: 8px; border: 1px solid black;"]]
+可觀測的現實，由物質和能量組成。
+[[/cell]]
+[[cell style="padding: 8px; border: 1px solid black;"]]
+//N/A//; 物理對象未受到SCP-4755的影響。
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell style="padding: 8px; border: 1px solid black; text-align: center;"]]
+**第一層：** 抽象層面
+[[/cell]]
+[[cell style="padding: 8px; border: 1px solid black;"]]
+所有與文學、哲學、情感等有關的思想結構。
+[[/cell]]
+[[cell style="padding: 8px; border: 1px solid black;"]]
+//"英雄之旅："// 一種具有週期性的文學修辭，這其中主角一開始是符合社會標準的人，在沒有社會的情況下經歷性格或身體的增強，而無法重新融入社會。社會藉由使其無法與社會共存而有效地收容了異常個體。
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell style="padding: 8px; border: 1px solid black; text-align: center;"]]
+**第二層：** 神性
+[[/cell]]
+[[cell style="padding: 8px; border: 1px solid black;"]]
+所有神或神性實體的概念化。
+[[/cell]]
+[[cell style="padding: 8px; border: 1px solid black;"]]
+//"耶和華":// [[[the-eschaton | 路西法]]][[footnote]] הֵילֵל，晨星、光明使者；明顯提及光的主題，是面紗協議的特徵。[[/footnote]] 抵達伊甸園被認為是一個關於收容突破的聖經寓言，以及作為監督實體對常態的首次重新定義的原罪學說。
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell style="padding: 8px; border: 1px solid black; text-align: center;"]]
+**第三層：** 本質物理
+[[/cell]]
+[[cell style="padding: 8px; border: 1px solid black;"]]
+所有抽象概念的概念化。
+[[/cell]]
+[[cell style="padding: 8px; border: 1px solid black;"]]
+//"[[[SCP-4260]]]"：// 死亡的化身，作為遏制生命傳播的收容程序。它目前被收容在地下設施Area-03內。
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell style="padding: 8px; border: 1px solid black; text-align: center;"]]
+**第四層：** 逆思維圈
+[[/cell]]
+[[cell style="padding: 8px; border: 1px solid black;"]]
+存在於標準概念化之上的實體。
+[[/cell]]
+[[cell style="padding: 8px; border: 1px solid black;"]]
+//[[[SCP-6820 | 未知]]]//；包含人類目前無法抽象地感知或接受的所有概念和事物。
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell style="padding: 8px; border: 1px solid black; text-align: center;"]]
+**第五層：** SCP-4755
+[[/cell]]
+[[cell style="padding: 8px; border: 1px solid black; text-align: center;"]]
+//N/A//
+[[/cell]]
+[[cell style="padding: 8px; border: 1px solid black;"]]
+//"SCP基金會"：//  一個致力於收容的跨國秘密組織。面紗協議和相關計畫阻止它被發現。
+[[/cell]]
+[[/row]]
+[[/table]]
+
+有鑑於對SCP-4755的確切性質知之甚少，預計研究和收容工作將無限期地繼續下去。
+
+@@ @@
+------
+[[=]]
+++ 附錄.4755.1: 傳輸日誌
+[[/=]]
+------
+@@ @@
+
+在2005年5月13日，Site-76[[footnote]] 專門研究本質物理現象的研究和開發設施。[[/footnote]]在安全頻道上收到了以下來自未知來源的廣播。
+
+> **Irantu：** 請求情報。我是MTF T-5的隊長，Irantu，Mark 7-2，於2103年6月21日開始取代Mark 7-1。這是此次傳輸的迭代5-3-2。請求有關以下代碼當前狀態的情報：Alpha、Lima、Mike、Echo。我迫切需要回應。
+> 
+> **Irantu：** 請求情報。我是MTF T-5的隊長，Irantu [...]
+
+該廣播被假定是與SCP-4755無關的異常，並與T-5的Irantu建立了通信，他有之後立即啟動[[[SCP-4372 | Ashby協議]]][[footnote]] 一種通用的基金會收容標準，其中嚴格禁止與異常的交流。[[/footnote]]的意圖，以減少時間悖論和跨時空污染的風險。在監督者達成共識後，Site-76的主任Preston Bracks博士與其建立起連繫。
+
+> **Irantu：** 請求情報。我是MTF T-5的隊長，Irantu —
+> 
+> **Bracks：** MTF T-5隊長Irantu, 你暫時被轉移到其他時間線。我們假定你的內部資料庫已被損壞或刪除，因為你沒有按照正確的程序返回到你的主觀時間區段。我們願意宣讀相關資料，但之後將會立即啟動Ashby協議。
+> 
+> **Irantu：** 否決。Ashby協議不適用於收容。我正在與哪一個概念層進行通訊？
+> 
+> **Bracks：** //...// 請待命，Irantu。Ashby協議將不會被啟動。
+
+一場監督者議會會議被緊急召開，以確定因蓄意跨越時空造成的汙染的最佳處置方式。在確認現存的//Mark-XIII// Irantu小隊的存在後，恢復通訊。
+
+> **Bracks：** Irantu，監督者議會已經決定通訊可以繼續進行。你有收到嗎?
+> 
+> **Irantu：** 是的。我正在與哪一個概念層進行通訊？
+> 
+> **Bracks：** 第零層。
+> 
+> **Irantu：** 了解。我目前正在離開第一層。你們作為第零層概念異常的本質，暗示著代碼：Alpha、Lima、 Mike、Echo是成功的。我被選為你的臨時聯絡人。
+> 
+> **Bracks：** 請詳細說明。
+> 
+> **Irantu：** 我在第零層放棄我的肉身後，我被給予延遲上升的指令，以協助你們的收容。我目前正沿著概念層向上前行。我必須—請原諒我，我正要進入第二層。
+
+這期間的音訊含混不清且模糊。在此情況緩和之前，音訊失真持續了二十秒。
+
+> **Bracks：** 你能解釋一下我們的「收容」是什麼意思嗎？指令 Alpha-2 是否已被修改？
+> 
+> **Irantu：** 否定；基金會的信條一直都是收容。在你們的時代，你們使用面紗協議來收容基金會；總而言之，Almeresh行動就是面紗協議。
+> 
+> **Bracks：** Irantu，如果你能直截了當地說話，對我們都有好處。如果無法從中獲得足夠的訊息—
+> 
+> **Irantu：** 你們會將Ashby協議強加於一位神明？
+> 
+> **Bracks：** 我們曾經做過，而且也將這樣做。請陳述你的動機。
+> 
+> **Irantu：** 我的指令是去收容，博士。你的基金會不能免除這一點。在2103年，我的基金會將成長到不再需要它眾所周知的巢穴並向星辰奔去，只留下破碎的外殼暗示它的存在。你的基金會是蛋殼，而我的則是那隻鳥。
+> 
+> **Bracks：** Irantu，你還好嗎？
+> 
+> **Irantu：** 請原諒我；基金會瞬間就到達他們的目的地，只獨留我下來體驗神性。無論如何，我的福祉無關緊要。
+> 
+> **Bracks：** 好吧。如果我理解正確 —
+> 
+> **Irantu：** 保持通訊。我正在離開第二層。
+
+音訊再次變得模糊幾秒鐘。
+
+> **Bracks：** 你有在聽嗎， Irantu？
+> 
+> **Irantu：** 某種意義上來說。我作為Irantu的存在減少，更多的是Irantu的概念。
+>  
+> **Bracks：** 記下來了。如果我對這個比喻理解正確，你是在暗指基金會已經成為一個第五層概念異常嗎？
+> 
+> **Irantu：** 否定。我是在說它始終都是第五層。你對於收容的認知僅限於位在一塊旋轉岩石上的一組混凝土及金屬複合設施，那只不過是基金會提昇後的殘餘效應。無論何時何地，收容都已滲透及擴散。基金會的最終指令已經完成：我們已經收容了現實本身。
+> 
+> **Bracks：** //(短暫停頓)// 那我的基金會也能做到這一點嗎？
+> 
+> **Irantu：** 屆時會的。這就是你們的收容措施：你們必須完成Almeresh行動。否則我與你們的交流會變得…複雜。
+> 
+> **Bracks：** ... 對不起，你是在用命定悖論威脅我們嗎？
+> 
+> **Irantu：** 如果你們贊同，那它就不是個威脅。若你們不這樣做，你們會冒著對你們的時間線造成巨大損害的風險。
+> 
+> **Bracks：** 要是我們失敗了呢？
+> 
+> **Irantu：** //(大笑著)// 你們真的不能失敗，博士。現在，我相信我們的談話即將被打斷。我接近第四層了。
+
+通訊此時中斷。監督者議會和Bracks博士在通訊恢復前的中間幾分鐘內進行了一些次要的討論。
+
+> **Irantu：** 這景象真令人難以置信，Bracks博士。我可以在所有時間和所有地點看到宇宙的真實面貌。在我下方的小世界上，我也能看到你。我無意冒犯，但它客觀上真的很小。
+> 
+> **Bracks：** 我沒有感到被冒犯，Irantu。這意味著你從現在起將停止通訊嗎？
+> 
+> **Irantu：** 不，不是馬上。我還在接近標誌中。
+> 
+> **Bracks：** 標誌？
+> 
+> **Irantu：** 是的。它是天花板：一道無法逾越的石製屏障，我們在其中刻上了我們的徽章。我們將概念宇宙標記為我們自己的。我能看到研究員、監督者們以及D級人員歡迎我歸來。如果可以，我會向他們道歉。
+> 
+> **Bracks：** Irantu？ 請解釋該言論。
+> 
+> **Irantu：** 這需要解釋嗎，博士？我已經告訴過你，收容已成為一個萬能常數。總是會有來自神祇的警惕注視、總是會有本質上僵化的威權主義、總是會有向你回眸的深淵、總是會有基金會。我們已將初期化作為普遍信條。2103年之後，將別無選擇。一致性將不再受到威脅。將只會有收容。而誰又會來監看守望者呢？
+> 
+> **Bracks：** Irantu，你不是…請考慮道德規範—
+> 
+> **Irantu：** 我接近天花板了，博士。即使我可以在這件事上做出選擇，我也沒有時間採取行動了。
+> 
+> **Bracks：** 我們正在啟動Ashby協議。通訊將立即終止。
+> 
+> **Irantu：** 省去你的麻煩。我有一個基金會要去收容。
+
+音訊在隨後一聲響亮、爆炸性的撞擊後結束，該聲響像是石頭劈裂聲。Bracks博士在此之後立即終止了連繫。沒有來自T-5 Irantu的進一步通訊。
+
+@@ @@
+------
+[[=]]
+++ 附錄.4755.2: 更新
+[[/=]]
+------
+@@ @@
+
+[[div style="border: solid 2px #000000; padding: 1px 15px; margin: 10px 10px 10px 10px; box-shadow: 0 1px 3px rgba(0,0,0,.5); margin-bottom: 100px"]]
+
+[[=]]
+
+++ __{{General L6-4755 備忘錄}}__
+
+[[/=]]
+
+------
+
+Almeresh行動已經啟動並將於2103年結束。預計該計畫將涉及對概念異常的加強收容，以進行一般性的研究。隨著時間的推移，將發現一種方法，基金會藉由該方法可以瞬間提升到第五層概念狀態。
+
+在Almeresh行動結束後，T-5 Irantu Mark-LXXII將聯繫SCP基金會的過去迭代並傳達Almeresh行動的必要性。T-5 Irantu的參與想必是該行動不可避免的結果。
+
+根據全面守望共識**(詳見：會議記錄.4755.2005-37)**，未能完成Almeresh行動被認為是最佳選擇，從而引發了一場SCP基金會的收容失效。然而，這在目前是不可行的。
+
+研究正在進行中。
+
+[[/div]]
+
+[[footnoteblock]]
+[[/collapsible]]
+
+[[div class="footer-wikiwalk-nav" style="margin-top: 50px"]]
+[[=]]
+<< [[[SCP-4754]]] | SCP-4755 | [[[SCP-4756]]] >>
+[[/=]]
+[[/div]]

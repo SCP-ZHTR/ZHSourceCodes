@@ -1,0 +1,104 @@
+[[div style="display:none;"]]
+
+嬰兒？？？？？
+
+[[/div]]
+[[include component:scp-meta-title-hiding css-style=bhl]]
+[[include :scp-zh-tr:theme:black-highlighter-theme]]
+
+[[include info:start]]
+原文：[https://scp-wiki.wikidot.com/scp-6469 SCP-6469-D] 嬰兒？？？？？
+作者：[[*user Calibold]]
+譯者：[[*user Frederica Bernkastel]]
+[[include info:end]]
+
+[[include :scp-zh-tr:component:author-label-source start=--
+|name=Calibold
+|no-right-margin=*]]
+[[=]]
+[[module ListPages range="."]]
+**%%title%% -- %%first_paragraph%%**
+[[/module]]
+
+**[[[Calibri Bold's Mega Cool Author Page|Calibold的超酷作者頁]]]**
+
+------
+
+布羅德的史詩級肖像來自[[[Dr. Whitneys Stinky Author Page|Dr Whitney]]]。
+
+Siddartha Alonne協助了義大利語的翻譯。
+
+[[/=]]
+[[include :scp-zh-tr:component:author-label-source end=--]]
+
+[[include component:image-block
+|name=https://scp-wiki.wdfiles.com/local--files/calibri-bold-s-mega-cool-author-page/dababy.jpg
+|caption=唯一已知的SCP-6469相片。
+|width=300px
+]]
+
+**項目編號：** SCP-6469-D
+
+**項目等級：** --Keter-- Decommissioned
+
+**已歸檔收容措施：** 尚未有已知方式追蹤SCP-6469或預測其下一顯現形式。所有收容作業將集中於對目擊者的記憶刪除處分，並減少公眾對SCP-6469與重大災難或死傷事件的聯繫。
+
+**已歸檔描述：** SCP-6469是一名嬰兒，看起來大約6~12個月大，唯其真實年齡未知。
+
+SCP-6469會在巨大的悲劇或災難──無論是自然或是人為──發生前不久顯現。SCP-6469通常會在公共場合顯現，不過並不總是如此，值得注意的是，項目似乎更偏好在宗教場所顯現，不過對特定的宗教信仰並無特別偏好。SCP-6469偶爾也會出現生理變化，例如長角、發聲、發光、說出各種語言、從口中噴出血液等。[[footnote]]這些特徵並不一定是準確的，因為其唯一證據都是在史無前例的悲劇中，來自遭受創傷者的目擊報告，然而在多數情況下，上述變化在不同的報告中也保有一致，為這些證詞提供了可信度。[[/footnote]]
+
+除此之外，SCP-6469的大部分特徵都是未知的，項目與其所預示的災難關係亦無從得知系。儘管無法證實，但據信SCP-6469可能就是相關事件發生的原因。
+
+**附錄6469.1：** 在Area-137[[footnote]][[[Decom. Dept. Hub|廢除部]]]總部。[[/footnote]]正式啟用的前夕，SCP-6469出現在了卡爾文．布羅德主任的辦公室內，布羅德恰巧也在辦公室裡處理相關檔案。
+
+[[div class="blockquote"]]
+
+[[include component:image-block
+| name=https://scp-wiki.wdfiles.com/local--files/decom-dept-hub/Calvin%20Bold%20IRL.png
+| caption=卡爾文．布羅德主任。
+| width=20%]]
+
+//[布羅德主任正在其書桌前填寫表格。SCP-6469在前者辦公室的地板上顯現，布羅德在項目顯現之初並未有所注意。SCP-6469開始出現重度變化。]//
+
+**SCP-6469：** Attento, Calvin Bold. È arrivato il momento in cui le tue ambizioni si realizzeranno. Eppure, dico io, solamente una tragedia germoglierà da—[[footnote]]翻譯自義大利語：「當心了，卡爾文．布羅德。你的野望就要實現了。但我要說的是，只有悲劇從──」[[/footnote]]
+
+//[布羅德注意到SCP-6469後震驚的退縮了。]//
+
+**布羅德：** 幹！這三小！
+
+//[布羅德衝到嬰兒身前，用盡全力將其一腳踹向牆壁，使其瞬間身亡。]//
+
+[[/div]]
+
+最終並未對布羅德採取任何懲戒措施──認定該員行為是對維安突發收容突破的適當應對。[[footnote]]另外，布羅德本人也追溯獲得了SCP-6469-D的終結授權。[[/footnote]]Area-137的啟用將繼續按計畫進行，SCP-6469-D遺體最終收容於此處。
+
+[[footnoteblock]]
+
+[[include :scp-wiki:more-by:calibold]]
+
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[SCP-6468]]] | SCP-6469-D | [[[SCP-6470]]] >>
+[[/=]]
+[[/div]]
+
+[[include :scp-zh-tr:component:license-box
+author=Calibold
+]]
+=====
+> **Filename:** https://scp-wiki.wdfiles.com/local--files/calibri-bold-s-mega-cool-author-page/dababy.jpg
+> **Name:** Baby
+> **Author:** M&R Glasgow
+> **License:** CC-by-SA 2.0
+> **Source Link:** https://wordpress.org/openverse/photos/2f394b8a-b8e8-4440-9bc0-789902ac8c19
+
+------
+
+> **Filename:** https://scp-wiki.wdfiles.com/local--files/decom-dept-hub/Calvin%20Bold%20IRL.png
+> **Editor/Artist:** [[*user Dr Whitney]]
+> **Name:** Christian Bale 2007 (cropped)
+> **Author:** Hapa Power
+> **License:** CC-by-SA 2.0
+> **Source Link:** https://commons.wikimedia.org/wiki/File:Christian_Bale_2007_(cropped).jpg
+=====
+[[include :scp-zh-tr:component:license-box-end]]

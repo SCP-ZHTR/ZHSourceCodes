@@ -1,0 +1,71 @@
+[[include :scp-zh-tr:component:scp-meta-title-hiding css-style=bhl]]
+[[include :scp-zh-tr:theme:black-highlighter-theme]]
+[[include :scp-zh-tr:theme:extra-black-highlighter-theme]]
+[[include credit:start]]
+**原著：** [[*user Ecronak]]（[http://scp-wiki.wikidot.com/ekronak-s-archive-with-commentary 作者頁面]）
+**譯者：** [[*user edward-knave]]
+**原題：** SCP-6770 - The Foundation Loses Face
+**譯題：** SCP-6770 - 基金會無顏之時
+**原文：** https://scp-wiki.wikidot.com/scp-6770
+[[include credit:end]]
+[[include :scp-zh-tr:component:acs-animation]]
+[[include :scp-zh-tr:component:anomaly-class-bar-source
+|item-number= 6770
+|clearance= 1
+|container-class= euclid
+|secondary-class= none
+|disruption-class= dark
+|risk-class= notice
+]]
+[[module CSS]]
+
+div#page-title::after {
+  content: "by Ecronak";
+  font-size: 40%;
+  color: #888;
+  background: none;
+}
+
+div#page-title {
+  border-bottom: 1px solid #000;
+  padding-bottom: 0.2em;
+}
+
+[[/module]]
+
+[[include component:image-block
+| name=https://scp-wiki.wdfiles.com/local--files/scp-6770/Smiley.jpg
+| caption=一個SCP-6770實例]]
+
+**特殊收容措施：** 鑒於SCP-6770頻繁出現於不能使用傳統收容手段的位置，一切實例俱須以與當地環境相符之物掩蓋或埋藏[[footnote]]例如在路面出現者須鋪上柏油，在田野上出現者須鋪上土壤。[[/footnote]]。為求往後參考，實例埋藏的位置須加以記認。
+
+**描述：** SCP-6770歸定予指定地面特定形似人類所畫「笑臉」圖案的異常凹陷。在未得觀察的時候，SCP-6770實例可以改變表情，其變換途徑未知。
+
+SCP-6770實例最初在2019年紐約市內出現，所有實例都頻繁出現在全球各處人口密集的地域[[footnote]]SCP-6770實例現時推算總數已達1,264,565宗。[[/footnote]]。上述頻密出現的異常事件促使基金會授權臨時收容措施，以週邊環境的相近物料掩藏實例。
+
+**更新6770——2019/9/19：** 一個可能屬於SCP-6770實例的變體出現於Site-19，以其勾畫「臉部」輪廓的凹紋排成字樣「[[span class="ruby"]]你們正在活埋我們[[span class="rt"]]YOU ARE BURYING US ALIVE[[/span]][[/span]]」。向實例發聲質問句子的意義時，該實例以近似人類苦悶呻吟的聲音回應。在實例出現的短時間後，它不再發出任何聲音，亦不能改變形態。
+
+**更新6770——2019/10/21：** 因疑似來自項目實例的訊息而作出考量過後，幾個SCP-6770實例已獲授權解封。所有解封的實例都可見變藍，其「眼」及「口」符合慣例描繪的窒息表情。所有呈此狀態的實例俱未呈現改變表情的能力。
+
+該異常的控制收容措施在撰稿當時正在考慮修正。現時已有1,266,244個實例被掩埋。往後行動待審。
+
+[[footnoteblock]]
+----
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+[http://scp-wiki.wikidot.com/ekronak-s-archive-with-commentary 更多Ecronak的著作]
+
+<< [[[SCP-6769]]] | SCP-6770 | [[[SCP-6771]]] >>
+[[/=]]
+[[/div]]
+
+[[include :scp-zh-tr:component:license-box
+|lang=EN
+|author=Ecronak]]
+=====
+> **圖像名稱：** Smiley
+> **圖像作者：** ABF@commonswiki
+> **圖像授權協議：** CC BY-SA 2.0
+> **圖源連結：** https://search.creativecommons.org/photos/588b564d-f854-40c6-a181-13875a35d7d5
+=====
+[[include :scp-zh-tr:component:license-box-end]]

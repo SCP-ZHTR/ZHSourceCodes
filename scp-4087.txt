@@ -1,0 +1,40 @@
+[[include component:scp-meta-title-hiding css-style=classic]]
+[[include :scp-zh-tr:info:start]]
+**SCP-4087：**不在場的刀
+**作者：**[[*user the great hippo]]
+**譯者：**[[*user Viken-K]]
+**圖像：** [https://commons.wikimedia.org/wiki/File:2014_N%C3%B3%C5%BC_spr%C4%99%C5%BCynowy_01.jpg Link].
+
+**音樂：** [https://youtu.be/cW3pQO-BIZM The Backwards Rhyme]
+----
+[[include :scpsandbox2:hippo]]
+[[include :scp-zh-tr:info:more]]
+[[include :scp-zh-tr:info:end]]
+
+[[include :scp-zh-tr:component:scp-pride]]
+
+[[include component:image-block name=https://scp-wiki.wdfiles.com/local--files/scp-4087/weapon.jpg|caption=其中一個SCP-4087實體。]]
+
+**項目編號：**SCP-4087
+
+**項目等級：**Euclid
+
+**特殊收容措施：**基金會於歐洲及美國執法機關中安插幹員，用以監視正在進行中的兇殺案偵查，尋找與使用SCP-4087實體一致的作案跡象。萬一發現到額外的項目實體，則應將之埋入一立方公尺的混凝土之中，並轉移至[[[SCP-2419|深地質儲放所]]]進行永久性儲存。
+
+**描述：**SCP-4087是為一套古式的按鈕觸發彈簧刀。每一把刀刃皆長9.2公分，並由不鏽鋼所構成。此些實體皆由Gavrilo Maniago（一名義大利籍制刀師）作為私人委託當中的一部份所打造；在他於1914年遭到謀殺之前，他僅完成了六把。
+
+SCP-4087最初於1973年，在基金會的分析部門建立數學模型，串聯起五十年來的數百件兇殺案後被首次發現。於每個案件當中，執法部門皆將六把刀中的其中一把確定為凶器。每一把刀具皆曾反覆遺失、歸還或遭到拍賣。
+
+截至1975年，六把刀具皆全數回收並完成收錄。自此時起，有超過兩百件額外的兇殺案被確定是以與項目一致的刀具作為作案兇器。對此些兇殺案的調查揭示了，案件當中並不存在有真正的凶器，儘管所有證據皆否定此一事實。
+
+對六把刀具進行詳細地法醫檢驗後，研究人員得出以下的觀查結果：
+* 這些項目並無展現出任何可觀察到的異常特性。
+* 這些項目缺乏任何顯著的磨損或使用跡象。
+
+[[footnoteblock]]
+
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[SCP-4086]]] | SCP-4087 | [[[SCP-4088]]] >>
+[[/=]]
+[[/div]]

@@ -1,0 +1,87 @@
+[[iftags -組件]]
+
+
+[[module CSS]]
+:root {
+  --safe: 0,159,107;
+  --euclid: 255,211,0;
+  --keter: 196,2,51;
+  --esoteric: 66, 66, 72;
+}
+
+.contain-class .class-text {
+  color: transparent !important;
+}
+
+.contain-class .class-text::before {
+  content: "{$object}";
+  position: absolute;
+  top: 0;
+  color: rgba(51,51,51,1) !important;
+}
+
+.text-part > .main-class::before {
+    margin-right:0;
+}
+
+.anom-bar-container.esoteric .text-part > .main-class::before {
+  background-color: rgba(var(--{$object-color}),1);
+  background-image: url("{$object-image}");
+  -webkit-filter: invert(0);
+  filter: invert(0);
+  border-color: rgb(12,12,12);
+}
+
+.anom-bar-container.esoteric .text-part > .main-class {
+  background-color: rgb(12,12,12);
+  background: linear-gradient(30deg,
+    rgb(var(--{$esoteric-color}),0.25) 0%,
+    rgb(var(--{$esoteric-color}),0.25) 50%,
+    rgb(var(--{$object-color}),0.25) 50%,
+    rgb(var(--{$object-color}),0.25) 50%
+  )
+}
+
+.anom-bar-container.esoteric .danger-diamond > .top-icon::before {
+  background-color: rgb(var(--{$object-color}));
+  background-image: url("{$object-image}");
+  -webkit-filter: invert(0);
+  filter: invert(0);
+}
+
+.anom-bar-container.esoteric .danger-diamond > .quadrants > .top-quad {
+    background-color: rgb(66, 66, 72 ,0.15);
+    background-color: rgb(var(--{$object-color}),0.25);
+}
+
+.anom-bar-container.esoteric .text-part > .main-class > .second-class > .class-text::before {
+content: "{$object2}";
+color: #333333;
+font-size: 0.00;
+font-size: {$hideObject2};
+}
+
+.anom-bar-container.esoteric .text-part > .main-class > .second-class > .class-text {
+font-size:{$hideObject};
+}
+
+[[/module]]
+[[/iftags]]
+[[iftags +組件]]
+把ACS分類的標題分離開來，以顯示一個機密分級和一個常用的項目等級。
+[[[http://www.scpwiki.com/scp-4703|就如同這裡展示的]]]
+
+改編自[[*user Yossipossi]]所撰寫的SCP-4531。
+
+添加以下代碼即可使用：
+> [[include component:acs-peppo-split
+> |object= keter
+> |object-image= http://scp-wiki.wikidot.com/local--files/component:anomaly-class-bar/keter-icon.svg
+> |object-color= keter
+> |esoteric-color=機密
+> ]]
+
+如果你希望他只顯示一半的「Safe」或是一半的「Euclid」，請調整「object」、「object-image」以及「object-color」的數值，只需將「 keter」的值更改為「safe」或「 euclid」即可。
+
++ 查閱頁面原始碼
+[[/iftags]]

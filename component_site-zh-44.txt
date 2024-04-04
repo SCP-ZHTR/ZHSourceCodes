@@ -1,0 +1,28 @@
+[[module CSS]]
+@import url(http://scp-sandbox-zh.wikidot.com/component:site-zh-44/code/1)
+[[/module]]
+
+[[module CSS]]
+/*
+    /* 此板頭素材更改自超棒的[http://www.scp-wiki.net/component:theme SCP Sigma 9]
+    Powered on 2019/08/15 19:56:43
+    [2019 Wikidot Theme]
+    Created by Dr V Valentine
+    Credit: LOGO designed by Dr V Valentine
+    CC BY-SA 3.0
+*/
+
+
+
+div#container-wrap {
+    background: url(https://i.imgur.com/BFzfQcr.png) top left repeat-x;
+}
+div#header {
+    background: url(https://i.imgur.com/95PTzvX.png) 10px 40px no-repeat;
+}
+div.open-menu a {
+    color: rgb(59, 125, 25)!important;
+    border-color: rgb(59, 125, 25)!important;
+}
+
+[[/module]]

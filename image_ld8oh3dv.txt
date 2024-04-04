@@ -1,0 +1,6 @@
+image: 'https://i.imgur.com/TtjpPh6.jpg'
+owner: 阿雞
+owner-wiki: 'Jhih '
+license: '0'
+other-license: ''
+note: 阿雞血
