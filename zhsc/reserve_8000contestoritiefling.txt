@@ -1,5 +1,0 @@
-url: 8000contestoritiefling
-user: EmptyName723
-date-from: '1708099200'
-date-to: '1710604800'
-language: en

@@ -1,5 +1,0 @@
-url: 'French Mobile Task Forces (International)'
-user: CSZ87p
-date-from: '1710777600'
-date-to: '1713456000'
-language: fr
