@@ -1,5 +1,5 @@
 [[div id="new-pages-feed"]]
-[[module Listpages category="@URL|_default adult wanderers" tags="@URL" order="@URL|created_at" perPage="250" limit="@URL" offset="@URL"]]
+[[module Listpages category="@URL|_default adult wanderers art" tags="@URL" order="@URL|created_at" perPage="250" limit="@URL" offset="@URL"]]
 [[div class="time-of-creation"]]
  %%created_at%%
 [[/div]]

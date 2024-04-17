@@ -75,8 +75,9 @@
     	--header-font: var(--body-font);
     	--title-font: var(--body-font);
     	--mono-font: Recursive, "Noto Serif TC", "Microsoft YaHei", 微软雅黑, "Courier New", Courier, monospace, STXihei, 华文细黑;
+    	
+    	--text-tableofcontents: "目錄";
 }
-
 [[/module]]
 
 [[include :scp-zh-tr:component:interwiki-style
@@ -171,6 +172,8 @@
     font-family: var(--mono-font);
 }
 [[/module]]
+
+
 [[>]]
 [[module Rate]]
 [[/>]]

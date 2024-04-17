@@ -534,7 +534,7 @@ p {
     font-size: calc(var(--true-font-size) * 1.08);
 }
 
-#main-content [id] {
+:where(#main-content) [id] {
     scroll-margin-top: calc(var(--header-final-height) + 1rem);
 }
 

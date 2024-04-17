@@ -1,0 +1,25 @@
+[[include :scp-wiki:theme:turbo-vision-dark]]
+
+大海猛烈地撞擊著皮諾丘，他在大海強大的力量面前無能為力。他的雙手拍打著水面，拼命地試圖尋找堅固的支撐物，但卻無濟於事。傑佩托去哪了？吉明尼蟋蟀在哪？ 皮諾丘感覺自己被拋棄了，但他不願去相信，被遺棄的感覺比在海上迷失更可怕。 彷彿回應了他的想法，海浪將小木偶沖到了半空，然後一聲巨響又讓他摔了下去，//**撲通**//！
+
+海浪一次又一次這樣做，對皮諾丘的勇敢深表憤怒。就在小木偶以為這就是終結的時候，有一個巨大的可怕東西從水中衝出。 是巨鯨！野獸跳到了空中，以更大的聲勢//**撲通**//地重重摔了下來！ 現在皮諾丘想起來了：他之所以找不到任何人，是因為怪物早已將所有東西都吃光光了。學校、吉明尼、爸爸，全部都被鯨怪吞噬了。他好傷心，因為現在他再也不能跟他們說話了。他也不想被吞噬。皮諾丘踢著小腳想要逃跑，但波濤洶湧的大海還是壓住了他。
+
+鯨怪轉向小木偶，張開牠的巨嘴。皮諾丘看著牠，想到了漆黑的深坑，無底的漆黑深坑。浪濤扭曲旋轉，水流沒入鯨魚口中之時，皮諾丘像布娃娃一樣被拋起。小木偶逆著水流奮力遊走，還是被拖進了怪物之中。皮諾丘希望他的父親能在這裡保護他，或者吉明尼蟋蟀能告訴他一切都會好起來的。他向天空、光明、大妖精、任何能拯救他的東西呼救。
+
+而後鯨怪將他整個吞了下去，他就這樣再也沒有出來了。
+
+[[include component:image-block
+| name=https://scp-wiki.wdfiles.com/local--files/fragment:scp-7547-6/togetheragain.jpg
+| caption=----
+| align=center]]
+
+[[=]]
+終
+[[/=]]
+
+[[include :scp-zh-tr:component:earthworm
+| first=false| last=false | hub=yes
+| previous-url=http://scp-zh-tr.wikidot.com/scp-7375 | previous-title=寶劍騎士
+| next-url=http://scp-zh-tr.wikidot.com/wanderers:seven-of-swords | next-title=寶劍七
+| hub-url=/anthology-2023-hub | hub-title=驚選集2023
+]]

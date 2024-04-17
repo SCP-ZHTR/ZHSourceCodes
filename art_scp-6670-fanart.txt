@@ -26,5 +26,5 @@
 |width=100%
 |url=https://i.imgur.com/sgSseku.png
 |add-caption=true
-|caption=[https://scp-wiki.wikidot.com/scp-6670 「媽媽?」]
+|caption=[https://scp-zh-tr.wikidot.com/scp-6670 「媽媽?」]
 ]]

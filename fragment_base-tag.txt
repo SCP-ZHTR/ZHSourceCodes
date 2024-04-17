@@ -76,8 +76,6 @@
 
 * **[*/system:page-tags/tag/已解明 已解明] (explained)** - 已解明是一種特殊的「scp」副分類，並且帶有-EX後輟。應該要解明前最後一次分類的和「標準分級」或「機密分級」標籤一起使用。
 
-* **[*/system:page-tags/tag/已退役 已退役] (decommissioned)** - 已退役代表此頁面已經在已解明徹底從SCP宇宙抹去存在，更多關於已退役頁面的相關資訊請見[[[*archived:decommissioned-scps|已退役SCP]]]。
-
 * **[*/system:page-tags/tag/001提案 001提案] (001-proposal)** - 擁有「001提案」的標籤文章都是可能的SCP-001項目。這個標籤需要跟其他的分級標籤一起使用，或在有必要時使用機密分級標籤。
 
 * **[*/system:page-tags/tag/creepypasta creepypasta]** - creepypasta-是與基金會無關的「故事」頁面，內容是講述原創的都市傳說或深夜怪談等等。creepypasta頁面必須附有「故事」標籤，特別注意本站收錄的「creepypasta」必須是由用戶自己撰寫而成的故事；如果想要分享在別處看到的「creepypasta」請至[[[chat-guide|聊天室]]]或[[[/forum/c-6293972/|閒聊版]]]區。
@@ -121,6 +119,8 @@
 * **[*/system:page-tags/tag/archon archon]** - 該SCP屬於Archon級。
 
 * **[*/system:page-tags/tag/無效化 無效化] (neutralized)** - 該SCP已經無效化。
+
+* **[*/system:page-tags/tag/已廢除 已廢除] (decommissioned)** - 該SCP已遭到廢除。
 
 * **[*/system:page-tags/tag/待分級 待分級] (pending)** - 該SCP有待分類。
 

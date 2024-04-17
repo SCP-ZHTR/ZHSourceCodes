@@ -15,7 +15,7 @@
 |secondary-class= keter
 |secondary-icon= http://scp-wiki.wdfiles.com/local--files/component%3Aanomaly-class-bar/neutralized-icon.svg
 |disruption-class= vlam
-|risk-class= warning
+|risk-class= 警戒
 ]]
 [[include component:acs-peppo-split
 |object= neutralized

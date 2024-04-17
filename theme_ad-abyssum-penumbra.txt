@@ -29,7 +29,7 @@
 
 > {{@@[[include :scp-zh-tr:theme:ad-abyssum-penumbra]]@@}}
 
-該外觀主題是[[*user EstrellaYoshte]]所作之[https://scp-zh-tr.wikidot.com/theme:penumbra 半影 外觀主題]的衍生版本。你__不需要__額外導入半影，使用該外觀主題時半穎就會自動導入了。
+該外觀主題是[[*user EstrellaYoshte]]所作之[https://scp-zh-tr.wikidot.com/theme:penumbra 半影 外觀主題]的衍生版本。你__不需要__額外導入半影，使用該外觀主題時半影就會自動導入了。
 
 ----
 
@@ -37,7 +37,7 @@
 
 > {{@@[[@@include :scp-zh-tr:theme:ad-abyssum-penumbra division=[[span style="color: var(--accentColor);"]]<DIVISION HERE>[[/span]]@@]]@@}}
 
-...其中的[[span style="color: var(--accentColor);"]]{{<DIVISION HERE>}}[[/span]]能填入以下任一種字段：{{abrahamics}}、{{east_asian}}、{{indus_vedic}}、{{shamanism_animalism}}、{{neopaganism}}、{{parareligions}} 或 {{demonology}}。
+...其中的[[span style="color: var(--accentColor);"]]{{<DIVISION HERE>}}[[/span]]能填入以下任一種字段：{{abrahamics}}、{{east_asian}}、{{indus_vedic}}、{{shamanism_animism}}、{{neopaganism}}、{{parareligions}} 或 {{demonology}}。
 
 以下是該外觀主題各項屬性的變化演示：
 
@@ -175,7 +175,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 [[div style="display: none"]]
 [[include :scp-wiki:theme:penumbra]]
 [[module CSS]]
-@import url(https://scp-sandbox2-zh.wikidot.com/draft:3981670-13-ad2e/code/1);
+@import url(https://scp-zh-tr.wikidot.com/theme:ad-abyssum-penumbra/code/1);
 [[/module]]
 [[/div]]
 
@@ -213,7 +213,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
     --abrahamics: "亞伯拉罕分部";
     --east_asian: "東亞分部";
     --vedic_indus: "吠陀印度分部";
-    --shamanism_animalism: "薩滿及動物主義分部";
+    --shamanism_animalism: "薩滿及泛靈分部";
+/* TYPO; kept for backwards-comparability. */
+    --shamanism_animism: "薩滿及泛靈分部";
     --neopaganism: "新異教分部";
     --parareligions: "超宗教分部";
     --demonology: "惡魔學分部";

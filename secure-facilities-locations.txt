@@ -6,6 +6,10 @@
 [[/div]]
 [!-- Author Information --]
 
+[[div style="display:none"]]
+[[module redirect destination="https://mos.scp-zhtr.com/mobile-redirect/secure-facilities-locations"]]
+[[/div]]
+
 [[include info:start]]
 原文：[http://www.scpwiki.com/secure-facilities-locations Secure Facilities Locations] 基金會設施
 原作：[[*user Aelanna]]的[[[archived:secure-facilities-locations-2| 前迭代頁面]]]
@@ -1149,7 +1153,7 @@ Site-79是在[[[nexus-series#yumegemu| Nexus夢遊戲]]]外建立的設施，該
 [[[nx-58| Nx-58：夢遊戲]]]
 [[/div]]
 [[collapsible show="▷ 著名事件" hide="◁ 該設施之著名事件："]]
-* [[[bad-end | Bad End]]]
+* [[[bad-end|壞結局]]]
 * [[[SCP-2117]]]
 * [[[SCP-4683]]]
 * [[[SCP-6221]]]
@@ -2258,14 +2262,11 @@ Site/Area描述
     #main-content { max-width: min(900px, calc(100% - 4rem)); }
 }
 :root {
-  --header-subtitle: "維安設施";
+  --header-subtitle: "維 安 設 施";
+  --sp_header-subtitle-scale: 2.125;
 }
-#header h1 a::before, #header h2::before {
-    font-family: 'BauhausLTDemi', 'Nanum Gothic', 'Arial', sans-serif;
-}
-#header h2::before {
-  font-weight: 600;
-  font-size: 2em;
+#header h1 a, #header h2 span {
+    font-family: "BauhausLTDemi", var(--UI-font), Arial, sans-serif;
 }
 
 body {
@@ -2292,7 +2293,6 @@ div#extra-div-1 {
     }
 }
 
-#top-bar { top: 8.5rem; }
 
 .socontent.header h1 {
     font-size: 1.85rem;
@@ -2306,7 +2306,6 @@ div#extra-div-1 {
 
 
 /*-- Map CSS --*/
-
 .m-wrapper {
 }
 
@@ -2318,7 +2317,7 @@ div#extra-div-1 {
 }
 .m-wrapper .yui-navset .yui-nav {
     border: none;
-    text-align: center;
+    text-align: left;
     margin: 0.2rem;
 }
 #page-content .m-wrapper .yui-navset .yui-nav li {
@@ -2335,11 +2334,11 @@ div#extra-div-1 {
 .m-wrapper .yui-navset .yui-nav a:hover,
 .m-wrapper .yui-navset .yui-nav a em {
     border: none;
-    background: transparent!important;
+    background: #FCFCFC !important;
 }
 #page-content .m-wrapper .yui-navset .yui-nav li a:hover,
 #page-content .m-wrapper .yui-navset .yui-nav li a:focus,
-#page-content .m-wrapper .yui-navset .yui-nav li a:active {
+#page-content .m- wrapper .yui-navset .yui-nav li a:active {
     color: #000
     text-decoration: underline;
 }
@@ -2371,5 +2370,34 @@ div#extra-div-1 {
     font-size: 0.9rem;
     text-transform: uppercase;
     width: 1fr;
+}
+
+@media only screen and (max-width: 45rem) {
+  .slide-close-a {
+    position: fixed;
+    bottom: 45vh;
+    right: 0.5rem;
+    width: 30px;
+    height: 40px;
+    z-index: 25;
+  }
+
+  .slide-close-v {
+    position: sticky;
+    top: 1rem;
+    right: 0.5rem;
+    z-index: 10;
+  }
+
+  .slide-close-a::before,
+  .slide-close-v::before {
+    content: "X";
+    font-weight: 900;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 1.5rem;
+    padding: 5px;
+  }
+  .slide-close-a::before { color: transparent; cursor: pointer; }
+  .slide-close-v::before { color: #CCC; }
 }
 [[/module]]

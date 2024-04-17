@@ -131,6 +131,8 @@
 
 * **[*/system:page-tags/tag/site-zh-50 site-zh-50]** - 標註在與繁中分部的[[[site-zh-50|Site-ZH-50]]]相關的頁面上。
 
+* **[*/system:page-tags/tag/site-zh-59 site-zh-59]** - 標註在與繁中分部的[[[site-zh-59|Site-ZH-59]]]相關的頁面上。
+
 * **[*/system:page-tags/tag/site-zh-72 site-zh-72]** - 標註在與繁中分部的[[[site-zh-72|Site-ZH-72]]]相關的頁面上。
 
 * **[*/system:page-tags/tag/site-zh-81 site-zh-81]** - 標註在與繁中分部的[[[/site-zh-81|Site-ZH-81]]]相關的頁面上。
@@ -211,6 +213,9 @@
 * **[*/system:page-tags/tag/長垣-4 長垣-4] ("冷卻系統")** - 標註在與JTF 長垣-4 相關的[[[http://scp-zh-tr.wikidot.com/task-forces-zh|頁面]]]上。
 
 * **[*/system:page-tags/tag/少微-12 少微-12] ("三段論證")** - 標註在與MTF 少微-12 相關的[[[http://scp-zh-tr.wikidot.com/task-forces-zh|頁面]]]上。
+
+* **[*/system:page-tags/tag/天槍-9 天槍-9] ("長空之狐")** - 標註在與DTF 天槍-9 相關的[[[http://scp-zh-tr.wikidot.com/task-forces-zh|頁面]]]上。
+
 [[/tab]]
 [[tab ZH其他標籤]]
 +++* ZH競賽標籤

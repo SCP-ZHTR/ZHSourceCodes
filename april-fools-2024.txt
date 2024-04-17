@@ -1,0 +1,725 @@
+[[include :scp-zh-tr:theme:basalt hidetitle=a|centertitle=a|wide=a]]
+[[module CSS]]
+#page-content div.creditRate { text-align: center;}
+
+div.page-rate-widget-box, div.rate-box-with-credit-button, :is(#u-credit-view,#u-credit-otherwise) .modalbox>div:first-child {
+    background: #DA2D3F;
+    font-weight: 600;
+    border-radius: 2rem;
+}
+
+:is(#u-credit-view,div#u-credit-otherwise) .modalbox {border-radius: 2rem;}
+
+:is(#u-credit-view,#u-credit-otherwise) .modalbox>div:first-child { border-radius: 2rem 2rem 0 0;}
+
+.page-rate-widget-box .rate-points, div.rate-box-with-credit-button .creditButton>p>a::before { background: unset !important;}
+
+div.rateBox div.page-rate-widget-box span.btn>a { border: unset;}
+
+div.page-rate-widget-box span.rate-points {
+--basalt-main-text-color: 255, 255, 255;
+--rate-module-text-color: 255, 255, 255;
+}
+
+/* Pizza Theme */
+/* by syuzhet */
+
+/* Tech team member, you are forbidden from scrolling any further. Turn off your computer NOW! (Bene Gesserit voice) */
+
+:root {
+  --header-background-color: 215, 29, 48;
+  --base-header-height: 5rem;
+
+  --top-bar-link-color: 255, 255, 255;
+  --top-bar-dropdown-link-color: 0, 0, 0;
+  --header-UI-font-size: 1.2rem;
+  --header-UI-dropdown-font-size: 1rem;
+}
+
+#container #header {
+    box-shadow: unset;
+}
+
+#header {
+  position: relative;
+  top: 2rem;
+  width: 95%;
+  margin: auto;
+  padding: 0 2rem;
+  border-radius: 2rem;
+  filter: drop-shadow(0px 5px 5px rgba(0,0,0,0.3));
+}
+
+#header h1 a span {
+  display: none;
+}
+
+#container #header h1 a {
+  padding: 0;
+}
+
+#container #header h1 a::before {
+  content:'';
+  display:block;
+  width: 6rem;
+  max-width: 6rem;
+  margin: 0 2rem;
+  background-image: url(https://scp-wiki.wdfiles.com/local--files/april-fools-2024/pizza%20logo%202.png);
+  background-position:center;
+  background-repeat:no-repeat
+}
+
+/* Widebox */
+
+#page-content > p:nth-child(-n+4) {
+    display: none;
+}
+
+.widebox {
+    position: relative;
+    left: calc(-50dvw + 50%);
+    width: 100dvw !important;
+    max-width: 100dvw !important;
+}
+
+.banner {
+    height: calc(85dvh);
+    background-image: url(https://scp-wiki.wdfiles.com/local--files/april-fools-2024/pizza.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.banner .bannertext {
+    color: black;
+    position: absolute;
+    font-size: 2rem;
+    text-align: center;
+    left: 12dvw;
+    top: 20dvh;
+    width: 35dvw;
+    font-weight: 600;
+}
+
+.banner .bannertext p {
+     line-height: 2rem;
+}
+
+.banner br {
+  content: "";
+  margin: 1rem;
+  display: block;
+  font-size: 24%;
+}
+
+.banner span {
+    color: #DA2D3F;
+    font-size: 5vw;
+    white-space: nowrap;
+    font-weight: 700;
+}
+@media screen and (min-width: 1920px) {
+  .banner span {
+     font-size: 6rem;
+  }
+}
+
+
+
+.banner .orderbox {
+     background: #DA2D3F;
+     font-weight: 600;
+     color: white;
+     width: 50%;
+     border-radius: 2rem;
+     margin: auto;
+     padding: 1px;
+     user-select: none;
+}
+
+.banner .orderbox:active {
+     animation-name: linkshaker;
+    animation-duration: 0.2s;
+}
+
+@keyframes linkshaker {
+    0% {
+        transform: translateX(10px) translateY(10px);
+    }
+    50% {
+        transform: translateX(-10px) translateY(-10px);
+    }
+    100% {
+        transform: translateX(0px) translateY(0px);
+    }
+}
+
+.banner .orderbox p {
+     font-size: 1.5rem;
+     line-height: 1rem;
+}
+
+/* Features */
+
+p #u-featurebigtext{
+     display: block;
+     text-align: center;
+     font-weight: 700;
+     font-size: 3rem;
+}
+
+.featuresbox {
+     display: flex;     
+     align-items: center;
+     justify-content: center;
+}
+
+.featuresbox .feature {
+     position: relative;
+     display: block;
+     background: red;
+     height: 20rem;
+     width: 40rem;
+     margin: 0rem 1rem;
+     border-radius: 2rem;
+     overflow: hidden;
+}
+
+.featuresbox .feature img {
+     height: 100%;
+     width: 100%;
+     object-fit: cover;
+}
+
+.featuretext {
+     position: absolute;
+     padding: 0rem 2rem;
+     color: white;
+     font-size: 2rem;
+     font-weight: 700;
+     bottom: 0;
+     pointer-events: none;
+}
+
+.feature:before {
+    content: "";
+    position: absolute;
+    background: linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(0,0,0,0) 35%);
+    height: 100%;
+    width: 100%;
+    z-index: 1;
+    opacity: 0.25;
+    transition: 0.5s;
+    pointer-events: none;
+}
+
+.feature:hover:before {
+    opacity: 0.75;
+}
+
+.featuretext {
+     z-index: 1;
+}
+
+.featuretext p {
+     line-height: 3rem;
+     margin: 1rem 0;
+}
+
+.featuretext .featureorderbox {
+     color: black;
+     font-size: 1rem;
+     background: white;
+     padding: 0.5rem 2rem;
+     border-radius: 1rem;
+}
+
+/* Piece of shit sidebar */
+
+#top-bar div.mobile-top-bar>.open-menu {
+     visibility:visible;
+     opacity: 0.6;
+     transition: opacity 0.2s;
+}
+
+#top-bar div.mobile-top-bar>.open-menu:hover {
+    opacity: 1;
+}
+
+#side-bar {
+     margin-top:0;
+     height:100%
+}
+
+#side-bar, #side-bar:is(:hover, :focus-within):not(:target) {
+     left:calc(var(--side-bar-width) * -1)
+}
+
+#side-bar::after, #side-bar::before {
+     display:none
+}
+
+#side-bar:target {
+     left:0;
+     width:var(--side-bar-width);
+     z-index:10
+}
+
+#side-bar a.close-menu, #side-bar:target a.close-menu {
+     display:block;
+     pointer-events:none;
+     position:fixed;
+     top:0;
+     right:0;
+     left:auto;
+     width:100%;
+     min-width:3.75rem;
+     height:100%;
+     margin-left:0;
+     opacity:0;
+     z-index:-1;
+     transition:width var(--side-bar-transition),opacity var(--side-bar-transition)   
+}
+
+#side-bar:target a.close-menu {
+     width:calc(100% - var(--side-bar-width));
+     pointer-events:auto;
+     opacity:1;
+}
+
+/* Mobile */
+
+@media only screen and (max-width: 1020px) {
+
+#header {
+  top: revert;
+  width: 100%;
+  margin: revert;
+  padding: revert;
+  border-radius: revert;
+}
+.banner {
+    background-image: url(https://scp-wiki.wdfiles.com/local--files/april-fools-2024/pizza2.jpg);
+}
+.banner .bannertext {
+    font-size: 1.5rem;
+    left: 0;
+    right: 0;
+    margin: auto;
+    width: 90%;
+}
+
+.banner .bannertext p {
+     line-height: 2rem;
+}
+
+.banner br {
+  margin: 0.5rem;
+}
+
+.banner span {
+    font-size:4rem;
+}
+
+p #u-featurebigtext{
+     font-size: 2.5rem;
+}
+
+.featuresbox {
+     flex-direction: column;
+}
+.featuresbox .feature {
+     height: 15rem;
+     margin: 0.25rem 1rem;
+     border-radius: revert;
+}
+
+}
+
+
+[[/module]]
+
+[[div class="widebox"]]
+[[div class="banner"]]
+[[div class="bannertext"]]
+警告！以下的披薩為
+[[span]]機密披薩！[[/span]]
+未被授權人員會被揉扁，烘烤，然後吃掉。
+[[div class="orderbox"]]
+立即訂購
+[[/div]]
+[[/div]]
+
+[[/div]]
+
+------
+
+[[span id="featurebigtext"]]精選披薩[[/span]]
+[[div class="featuresbox"]]
+[[div class="feature"]]
+[[image https://scp-wiki.wdfiles.com/local--files/scp-458/scp-458.jpg link="https://scp-zh-tr.wikidot.com/scp-458"]]
+[[div class="featuretext"]]
+[[span class="featurecaption"]]無限大披薩[[/span]]
+[[span class="featureorderbox"]]立即訂購[[/span]]
+[[/div]]
+[[/div]]
+
+[[div class="feature"]]
+[[image https://live.staticflickr.com/2122/2287259675_d26cf38359_b.jpg link="https://scp-zh-tr.wikidot.com/slice-of-life"]]
+[[div class="featuretext"]]
+[[span class="featurecaption"]]一片的日常[[/span]]
+[[span class="featureorderbox"]]立即訂購[[/span]]
+[[/div]]
+[[/div]]
+
+[[div class="feature"]]
+[[image https://scp-wiki.wdfiles.com/local--files/scp-3275/pizzazresize.png link="https://scp-zh-tr.wikidot.com/scp-3275"]]
+[[div class="featuretext"]]
+[[span class="featurecaption"]]送錯的披薩[[/span]]
+[[span class="featureorderbox"]]立即訂購[[/span]]
+[[/div]]
+[[/div]]
+
+[[div class="feature"]]
+[[image https://scp-wiki.wdfiles.com/local--files/scp-5228/Pizza_Close.jpg link="https://scp-zh-tr.wikidot.com/scp-5228"]]
+[[div class="featuretext"]]
+[[span class="featurecaption"]]同時亦是部電腦的披薩！？[[/span]]
+[[span class="featureorderbox"]]立即訂購[[/span]]
+[[/div]]
+[[/div]]
+
+
+[[/div]]
+
+------
+
+[[span id="featurebigtext"]]網站新聞[[/span]]
+
+[[include info:start]]
+原文：[https://scp-wiki.wikidot.com/april-fools-2024 April Fools 2024]
+作者：[[*user syuzhet]]
+譯者：[[*user Mang Gwan]]
+[[include info:end]]
+@@ @@
+
+[[=]]
+[[image https://images.pexels.com/photos/4833671/pexels-photo-4833671.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1 style="width:30%;"]]
+一對正在吃披薩的人
+[[/=]]
+
+@@@@
+@@@@
+
+[[div style="max-width: 70%;margin:auto;"]]
+我們很榮幸地在網站新聞宣布[[span class="ruby"]]辛脆批[[span class="rt"]]Spicy Crust Pizza[[/span]][[/span]]的盛大開張！ 儘管 SCP 曾經是一個寫作網站，但工作人員決定將平台的核心轉向製作揉合完美脆皮和融化起司配料的的美味披薩藝術。 這家座落在三波特蘭市中心新披薩連鎖店肯定會成為吸引整個網站的絕佳餐廳。 在這裡，我們採訪了幾位辛脆批員工，來了解他們為什麼開這家餐廳，以及為什麼這裡是享用可口大餐的好地方。
+
+> **是什麼促使你們決定從寫作轉型去製作披薩？**
+> 
+> Uncle Tortellini：在我閒暇閱讀文章時，我注意到 SCP wiki 裏有一個食物標籤。 而當我瀏覽食物標籤的文章時，我就開始越來越餓，便決定做一個披薩。之後的一切就那麼順理成章， 開一整家披薩餐廳只是不過是合乎邏輯的下一步。
+> 
+> **你們最受歡迎的配料是什麼？**
+> 
+> SynthPizza：我們受歡迎的配料有很多種，像是[[span class="ruby"]]鯷魚^12[[span class="rt"]]Anchovies^12[[/span]][[/span]]和[[span class="ruby"]]飛天義式香腸[[span class="rt"]]Fly Pepperoni[[/span]][[/span]]，不過最受歡迎的一定是披薩本身。我們受到幾個關於無窮的 SCP 啟發而使用了另外的披薩作為配料，而那些披薩同時又會有其他的披薩在放上面作為配料，然後重覆這種放法一直持續到無窮大。 雖然這種放法無法以人類思維理解，但是我們的--讀者--客戶還是認為這樣還是放得還不夠多！
+> 
+> **你們有賣披薩以外的食物嗎？**
+> 
+> AnkySalami:：我們每份披薩都會免費配上一塊香脆的[[span class="ruby"]]阿里阿德涅蒜蓉包[[span class="rt"]]Ariadne’s Garlic Bread[[/span]][[/span]]！除此之外，我們每做出一千份披薩，便會舉辦場在餐單上添加一個新菜品的比賽。贏家的作品除了會新增到我們的餐單上外，他也會獲得一張在下次光顧的八折優惠券！
+> 
+> **你怎樣看區內的其他披薩餐廳？**
+> 
+> Pepperismal：他們完全比不上我們辛脆批！我會 DV 他們和在他們的餐單上寫上我的批評。
+> 
+> **感謝大家接受採訪！下次當我想吃美味的披薩時，我一定會光顧。**
+
+請注意，除了經過專門訓練來作服務用的異常外，本餐廳禁止異常進入。
+[[/div]]
+
+@@@@
+@@@@
+
+------
+
+[[/div]]
+
+[[include :scp-wiki:fragment:wl-front-page-box |css=--]]]
+[[include :scp-wiki:fragment:wl-front-page-box |div=--]
+|URL=https://wanderers-library.wikidot.com/
+|URL-Title=Wanderers' Library
+|img-URL=https://wanderers-library.wdfiles.com/local--files/component%3Atheme/wl_logo.png
+|top-h4=官方姐妹網站
+|top-h2=流浪者圖書館
+|text=流浪者圖書館有提供素食選擇。
+]]
+
+[[div class="INT-box"]]
+[[image https://o5command-int.wdfiles.com/local--files/tech-team:graphic-templates/scp-logo-int-full-400.png link="http://scp-int.wikidot.com"]]
+
+[[div class="INT-content"]]
+++++ 世界各地的披薩
++ [http://scp-int.wikidot.com/ 國際翻譯檔案庫]
+
+國際翻譯檔案庫蒐羅來自全世界的披薩，並轉化成符合英語人士的口味——便宜、冷凍，而且可以在附近超市買到！
+
+[[/div]]
+
+[[collapsible show="展開辛脆批分店" hide="辛脆批分店"]]
+[[div class="c_international-body"]]
+
+[[div class="c_international-box"]]
+[[div class="c_international-logo"]]
+[[image http://o5command-int.wdfiles.com/local--files/tech-team:graphic-templates/scp-logo-ru-400.png link="http://scp-ru.wikidot.com/"]]
+[[/div]]
+[[div class="c_international-text"]]
+[https://scpfoundation.net/ Фонд SCP]
+//俄文//
+[[/div]]
+[[/div]]
+
+[[div class="c_international-box"]]
+[[div class="c_international-logo"]]
+[[image http://scp-int.wdfiles.com/local--files/ko-hub/scp_ko.png link="http://ko.scp-wiki.net/"]]
+[[/div]]
+[[div class="c_international-text"]]
+[http://ko.scp-wiki.net/ SCP 재단]
+//韓文//
+[[/div]]
+[[/div]]
+
+[[div class="c_international-box"]]
+[[div class="c_international-logo"]]
+[[image http://o5command-int.wdfiles.com/local--files/tech-team:graphic-templates/scp-logo-cn-400.png link="http://scp-wiki-cn.wikidot.com/"]]
+[[/div]]
+[[div class="c_international-text"]]
+[http://scp-wiki-cn.wikidot.com/ SCP基金会]
+//中文//
+[[/div]]
+[[/div]]
+
+[[div class="c_international-box"]]
+[[div class="c_international-logo"]]
+[[image https://o5command-int.wdfiles.com/local--files/tech-team:graphic-templates/scp-logo-fr-400.png link="http://fondationscp.wikidot.com/"]]
+[[/div]]
+[[div class="c_international-text"]]
+[http://fondationscp.wikidot.com/ Fondation SCP]
+//法文//
+[[/div]]
+[[/div]]
+
+[[div class="c_international-box"]]
+[[div class="c_international-logo"]]
+[[image http://o5command-int.wdfiles.com/local--files/tech-team:graphic-templates/scp-logo-pl-400.png link="http://scp-pl.wikidot.com/"]]
+[[/div]]
+[[div class="c_international-text"]]
+[http://scp-pl.wikidot.com/ Fundacja SCP]
+//波蘭文//
+[[/div]]
+[[/div]]
+
+[[div class="c_international-box"]]
+[[div class="c_international-logo"]]
+[[image http://o5command-int.wdfiles.com/local--files/tech-team:graphic-templates/scp-logo-es-400.png link="http://lafundacionscp.wikidot.com/"]]
+[[/div]]
+[[div class="c_international-text"]]
+[http://lafundacionscp.wikidot.com/ La Fundación SCP]
+//西班牙文//
+[[/div]]
+[[/div]]
+
+[[div class="c_international-box"]]
+[[div class="c_international-logo"]]
+[[image http://o5command-int.wdfiles.com/local--files/tech-team:graphic-templates/scp-logo-th-400.png link="http://scp-th.wikidot.com/"]]
+[[/div]]
+[[div class="c_international-text"]]
+[http://scp-th.wikidot.com/ สถาบัน SCP]
+//泰文//
+[[/div]]
+[[/div]]
+
+[[div class="c_international-box"]]
+[[div class="c_international-logo"]]
+[[image http://o5command-int.wdfiles.com/local--files/tech-team:graphic-templates/scp-logo-jp-400.png link="http://scp-jp.wikidot.com/"]]
+[[/div]]
+[[div class="c_international-text"]]
+[http://scp-jp.wikidot.com/ SCP財団]
+//日文//
+[[/div]]
+[[/div]]
+
+[[div class="c_international-box"]]
+[[div class="c_international-logo"]]
+[[image http://scp-wiki-de.wdfiles.com/local--files/scp-foundation-in-deutschland-portal/scp-logo-dach-400.png link="http://scp-wiki-de.wikidot.com/"]]
+[[/div]]
+[[div class="c_international-text"]]
+[http://scp-wiki-de.wikidot.com/ SCP auf Deutsch]
+//德文//
+[[/div]]
+[[/div]]
+
+[[div class="c_international-box"]]
+[[div class="c_international-logo"]]
+[[image http://o5command-int.wdfiles.com/local--files/tech-team:graphic-templates/scp-logo-it-400.png link="http://fondazionescp.wikidot.com"]]
+[[/div]]
+[[div class="c_international-text"]]
+[http://fondazionescp.wikidot.com/ Fondazione SCP]
+//義大利文//
+[[/div]]
+[[/div]]
+
+
+[[div class="c_international-box"]]
+[[div class="c_international-logo"]]
+[[image http://scp-wiki.wdfiles.com/local--files/scp-international/scp-logo-ua-400.png link="http://scp-ukrainian.wikidot.com/"]]
+[[/div]]
+[[div class="c_international-text"]]
+[http://scp-ukrainian.wikidot.com/ Фонд SCP]
+//烏克蘭文//
+[[/div]]
+[[/div]]
+
+[[div class="c_international-box"]]
+[[div class="c_international-logo"]]
+[[image http://scp-wiki.wdfiles.com/local--files/scp-international/scp-logo-pt-400.png link="http://scp-pt-br.wikidot.com/"]]
+[[/div]]
+[[div class="c_international-text"]]
+[http://scp-pt-br.wikidot.com/ Fundação SCP]
+//葡萄牙文//
+[[/div]]
+[[/div]]
+
+[[div class="c_international-box"]]
+[[div class="c_international-logo"]]
+[[image http://scp-int.wdfiles.com/local--files/main/scp-logo-cs-400.png link="http://scp-cs.wikidot.com/"]]
+[[/div]]
+[[div class="c_international-text"]]
+[http://scp-cs.wikidot.com/ SCP Nadace]
+//捷克文//
+[[/div]]
+[[/div]]
+
+[[div class="c_international-box"]]
+[[div class="c_international-logo"]]
+[[image http://scp-int.wdfiles.com/local--files/main/scp-logo-zh-400.png link="http://scp-zh-tr.wikidot.com/"]]
+[[/div]]
+[[div class="c_international-text"]]
+[http://scp-zh-tr.wikidot.com/ SCP基金會]
+//繁體中文//
+[[/div]]
+[[/div]]
+
+[[div class="c_international-box"]]
+[[div class="c_international-logo"]]
+[[image http://scp-int.wdfiles.com/local--files/main/scp-logo-vn-400.png link="http://scp-vn.wikidot.com/"]]
+[[/div]]
+[[div class="c_international-text"]]
+[http://scp-vn.wikidot.com/ Tổ Chức SCP]
+//越南文//
+[[/div]]
+[[/div]]
+
+[[/div]]
+[[/collapsible]]
+
+[[/div]]
+
+[[module CSS]]
+.INT-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    grid-gap: 0.325rem 0.625rem;
+    flex-wrap: wrap;
+    box-sizing: border-box;
+    background-color: #fff;
+    margin: 0.75rem 0;
+    padding: 1.25rem 1.875rem 1.875rem;
+    border-radius: 1.5rem;
+    border: solid 0.275rem #000;
+    box-shadow: inset 0 0 0 0.175rem #fff, inset 0 0 0 0.675rem #4b92db;
+}
+.INT-box h1 { margin: 0.125rem 0 0.325rem; }
+.INT-box > a {
+    flex-basis: calc(27.5% + 1rem + 1vw);
+    max-width: 12.25rem;
+    min-width: min(100%, 10rem);
+    padding: 0 0.5rem;
+}
+.INT-box > .INT-content {
+    flex-grow: 1;
+    flex-basis: 14rem;
+    text-align: center;
+}
+@supports (text-align-last: center) {
+    .INT-box > .INT-content p {
+        text-align: justify;
+        text-align-last: center;
+    }
+}
+
+.INT-box > .collapsible-block {
+    flex-basis: 100%;
+    --col-link-size: min(calc(0.325rem + 1vw), 0.825rem);
+    --col-border-width: 0.1rem;
+}
+.INT-box > .collapsible-block .collapsible-block-link {
+    width: max-content;
+    max-width: 75%;
+    text-align: center;
+    font-weight: bold;
+    font-size: var(--col-link-size);
+    margin: 0 auto;
+    display: block;
+    color: #4b92db;
+    background-color: #fff;
+    padding: 0 0.325em;
+    z-index: 1;
+}
+.INT-box > .collapsible-block .collapsible-block-folded {position: relative; z-index: 1;}
+.INT-box > .collapsible-block .collapsible-block-folded:not([style*="none"])::before {
+    content: "";
+    display: block;
+    position: absolute;
+    left: 0; bottom: calc(var(--col-link-size)*0.5 - var(--col-border-width));
+    width: 100%; height: var(--col-border-width);
+    background-color: #4b92db;
+    z-index: -1;
+}
+.INT-box > .collapsible-block .collapsible-block-unfolded {margin: 0;}
+.INT-box > .collapsible-block .collapsible-block-unfolded-link { position: relative; z-index: 1; }
+.INT-box > .collapsible-block .collapsible-block-content {
+    border: var(--col-border-width) solid #4b92db;
+    border-radius: 0.375rem;
+    position: relative;
+    z-index: 0;
+    margin-top: calc(var(--col-link-size)*-0.5);
+    padding: 0.875rem 0.325rem 0.125rem;
+}
+
+.c_international-body {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.c_international-box {
+    font-size: 96.5%;
+}
+
+.c_international-box {
+    text-align: center;
+    flex-basis: 8.5rem;
+    flex-grow: 1;
+}
+.c_international-box a img {
+    width: 6.75rem;
+}
+.c_international-text p {
+    margin: 0 0 1.25em;
+}
+@media (max-width: 580px) {
+    .c_international-box {
+        flex-basis: 6.5rem;
+    }
+    .c_international-box a img {
+        width: 4.5rem;
+    }
+}
+[[/module]]

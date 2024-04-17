@@ -353,6 +353,7 @@ H-能量和認知子在這討論當中是最重要的元素。H-能量，又稱�
 [[/div]]
 
 
+@@ @@
 [[include :scp-zh-tr:component:license-box
 |lang=EN
 |author=Billith
@@ -381,3 +382,6 @@ H-能量和認知子在這討論當中是最重要的元素。H-能量，又稱�
 > **譯本圖源連結：** https://i.imgur.com/*
 =====
 [[include :scp-zh-tr:component:license-box-end]]
+[[=]]
+[[span style="color:transparent; font-size:50%;"]]如果您看到這條訊息，那是因為基金會已經成功無力化了您現時的宇宙外史最強大的實體。對不起／不用謝，那規則也不是我定的。其實，我只不過用了我找到的這把槍而已，易如反掌。[[/span]]
+[[/=]]

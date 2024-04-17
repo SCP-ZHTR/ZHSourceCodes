@@ -26,17 +26,28 @@
 此列表內的品項皆為我們手工製作，而食譜則是由店內員工所提供的，所有的敘述都已標示在商品前方，品質皆可保障，請放心取用。
 
 ++ **項目**
+[[div style="border: double 6px #47330b; background-image: radial-gradient(#e0caa2 40%, #e0caa2 ); padding-top: 1em; padding-right: 1em; padding-left: 1em; padding-bottom: 1em; margin-bottom: 1em; color: #710309;"]]
+**[[[SCP- ZH-358|SCP-ZH-358 - 罪有所償，命有所還]]]**
+我沒想到你有一天會回來。
+[[/div]]
 
 [[div style="border: double 6px #47330b; background-image: radial-gradient(#e0caa2 40%, #e0caa2 ); padding-top: 1em; padding-right: 1em; padding-left: 1em; padding-bottom: 1em; margin-bottom: 1em; color: #710309;"]]
 **[[[SCP- ZH-538|SCP-ZH-538 - 歐里軋米]]]**
-由Are we cool yet?藝術家所製造的一隻黑色原子筆，可以透過在紙上繪圖來將紙張折成你想要的物體，還帶有活體黑魔法，在上面繪製生物的話，紙張還能夠活動。
+由Are we cool yet?藝術家所製造的一隻黑色麥克筆，可以透過在紙上繪圖來將紙張折成你想要的物體，還帶有活體黑魔法，在上面繪製生物的話，紙張還能夠活動。
+[[/div]]
+
+[[div style="border: double 6px #47330b; background-image: radial-gradient(#e0caa2 40%, #e0caa2 ); padding-top: 1em; padding-right: 1em; padding-left: 1em; padding-bottom: 1em; margin-bottom: 1em; color: #710309;"]]
+**[[[SCP- ZH-853|SCP-ZH-853 - 水泥先生]]]**
+繁體中文第一個Funtastic教授的迷你先生！
+水泥手臂！水泥意志！水泥雙手！
+水泥！！
 [[/div]]
 
 更多（可能）即將到來的商品：
-蛙，是美麗的雲
 雙聲道先生
 德先生與賽先生
 差不多先生
+鬼先生
 ------
 ++ **故事**
 
@@ -47,6 +58,7 @@
 
 [[/div]]
 更多（可能）即將到來的商品：
+凹折的一張牌
 ------
 ++ **食物**
 
@@ -72,7 +84,7 @@
 ++ **項目**
 
 [[div style="border: double 6px #47330b; background-image: radial-gradient(#e0caa2 60%, #e0caa2 ); padding-top: 1em; padding-right: 1em; padding-left: 1em; padding-bottom: 1em; margin-bottom: 1em; color: #710309;"]]
-**[[[jim-north-s-proposal|Jim North的提案 - 一位普通的玩具師]]]**
+**[[[jim-north-s-proposal|Liz the GM的提案 - 一位普通的玩具師]]]**
 這是一篇SCP-001項目，對對對，它可能沒有那麼的莊重或嚴肅，可是它很歡樂、很有趣、有很多柯基，所以//快來看//，看完別忘了去買Wondertainment的產品，現在全品項特價中喔。
 [[/div]]
 
@@ -100,7 +112,7 @@
 [[/div]]
 
 [[div style="border: double 6px #47330b; background-image: radial-gradient(#e0caa2 60%, #e0caa2 ); padding-top: 1em; padding-right: 1em; padding-left: 1em; padding-bottom: 1em; margin-bottom: 1em; color: #710309;"]]
-**[[[SCP-3487|SCP-3487 - 貓咪們認為世界圍繞著牠們轉]]]**
+**[[[SCP-3487|SCP-3487 - 貓咪們認為世界繞著牠們轉]]]**
 一隻小型家貓，自已知歷史以來牠從未移動過，購買後可直接取走，雖然牠還是不會移動。
 [[/div]]
 
@@ -119,18 +131,18 @@ Funtastic教授的回旋風盛大登場！
 只需要69塊9毛7就可以把回旋風以及三包補充包帶回家！
 現在就馬上下單吧！
 
-[[size 45%]]Funtastic教授在法律、道德與財政方面皆不負責任何因不慎使用回旋風或Funtastic教授產品而造成的受傷、死亡或財產損失事故，讀完此文件即代表您已同意上述所有條款，並放棄自己的訴訟、抵制、抗議、聲請釋憲 等權利。[[/size]]
+[[size 45%]]Funtastic教授在法律、道德與財政方面皆不負責任何因不慎使用回旋風或Funtastic教授產品而造成的受傷、死亡或財產損失事故，完整閱讀此文件即代表您已同意上述所有條款，並放棄自己的訴訟、抵制、抗議、聲請釋憲 等權利。[[/size]]
 [[/div]]
 
 [[div style="border: double 6px #47330b; background-image: radial-gradient(#e0caa2 60%, #e0caa2 ); padding-top: 1em; padding-right: 1em; padding-left: 1em; padding-bottom: 1em; margin-bottom: 1em; color: #710309;"]]
-**[[[SCP-7495|SCP-7495 - 死期已豹]]]**
+**[[[SCP-8599|SCP-8599 - 死期已豹]]]**
 給所有新進基金會員工的提醒，如果你看到一頭象鼻海豹，且仍有餘力的話，請立刻掏出你的手機，在向你的愛人道別之後，雙手抱頭跪在地上等待死亡。嘿等等，那是亻—//**啊**//（海豹的叫聲
 [[/div]]
 
 [[div style="border: double 6px #47330b; background-image: radial-gradient(#e0caa2 60%, #e0caa2 ); padding-top: 1em; padding-right: 1em; padding-left: 1em; padding-bottom: 1em; margin-bottom: 1em; color: #710309;"]]
 **👑[[[SCP-013-J|SCP-013-J - 究極智慧之烏賊]]]**
 聆聽聽聽聽！
-究極智慧之之之之之之烏烏烏烏賊賊賊賊賊的指示，否則，死亡將降臨的我們所有人頭上！
+究極智慧之之之之之之烏烏烏烏賊賊賊賊賊的指示，否則，死亡將降臨到我們所有人頭上！
 死死死死亡亡亡亡亡！
 
 [[/div]]
@@ -174,6 +186,15 @@ SCP-2719解密
 更多（可能）即將到來的商品：
 Wondertainment博士中心頁
 ------
+++ **工具**
+[[div style="border: double 6px #47330b; background-image: radial-gradient(#e0caa2 60%, #e0caa2 ); padding-top: 1em; padding-right: 1em; padding-left: 1em; padding-bottom: 1em; margin-bottom: 1em; color: #710309;"]]
+**[[[theme:wondertainment|Wondertainment博士外觀主題]]]**
+說實話我覺得它其實沒有很好看（（
+但是Wondertainment中心頁需要。
+[[/div]]
+更多（可能）即將到來的商品：
+
+------
 [[size larger]]**國際站翻譯**[[/size]]
 
 [[div style="border: double 6px #47330b; background-image: radial-gradient(#e0caa2 60%, #e0caa2 ); padding-top: 1em; padding-right: 1em; padding-left: 1em; padding-bottom: 1em; margin-bottom: 1em; color: #710309;"]]
@@ -213,8 +234,15 @@ Wondertainment博士中心頁
 
 [[div style="border: double 6px #47330b; background-image: radial-gradient(#e0caa2 60%, #e0caa2 ); padding-top: 1em; padding-right: 1em; padding-left: 1em; padding-bottom: 1em; margin-bottom: 1em; color: #710309;"]]
 **奶油泡芙**
-每年都會有十二打泡芙被獻給山頂上的女巫，據店長所說，這種儀式可以保障店面的安全，還能讓接下來一整年都生意興隆。
+[[[scp-zh-233|巫沙奈特工]]]的最愛。
 有香草、牛奶、草莓、巧克力及抹茶口味。
+[[/div]]
+
+
+[[div style="border: double 6px #47330b; background-image: radial-gradient(#e0caa2 60%, #e0caa2 ); padding-top: 1em; padding-right: 1em; padding-left: 1em; padding-bottom: 1em; margin-bottom: 1em; color: #710309;"]]
+**很多玉米麵包**
+玉米麵包，但是很多
+++ 很多
 [[/div]]
 ------
 
@@ -233,9 +261,9 @@ Wondertainment博士中心頁
 > **名字：**Tostren
 > **生日：**11/21
 > **性別：**█
-> **職位：**Site-ZH-47[[footnote]]孩子，我知道我站點還沒寫出來，但是我們就當鉈在那邊工作可以嗎？[[/footnote]]天文團隊研究員，稱謂為博士
-> **暱稱：**輕金屬、金屬製品（Metallica）
-> **簡介：**由於店長常年不在店內，因此鉈其實比較像是實質上的掌權人。藍髮靛眼，身高169cm，題外話，最喜歡的數字是13，因此對自己的身高是13²這件事感到很滿意。說話有著嚴重的倒裝問題，在基金會擅長的領域為異常動物學及異常天文學，喜歡蒐集各類樂器[[footnote]]由於薪水無法負擔限量版口琴，因此會用假日以及下班時間到附近的烘焙坊打工。[[/footnote]]。外貌整體看起來偏男性，但曾有員工聽過鉈用女性的聲音說話，因此至今仍未知其性別。鉈本人也並不願意透漏自己的性別，甚至還希望別人在對其的人稱代詞上使用鉨和鉈[[footnote]]意思就是你想把鉈寫成[數據刪除]或[數據刪除]甚至是一坨水銀也沒關係。[[/footnote]]，也因此被戲稱為「輕金屬」還有「金屬製品」。
+> **職位：**Site-ZH-47[[footnote]]孩子，我知道我站點還沒寫出來，但是我們就當他在那邊工作可以嗎？[[/footnote]]主任兼天文團隊研究員，稱謂為博士
+> **暱稱：**金屬製品（Metallica）
+> **簡介：**由於店長常年不在店內，因此他其實比較像是實質上的掌權人。藍髮靛眼，身高169cm，題外話，最喜歡的數字是13，因此對自己的身高是13²這件事感到很滿意。擅長的領域為異常動物學及異常天文學，喜歡蒐集各類樂器[[footnote]]口琴是他的一生之愛，[[/footnote]]奇怪的是，他辦公室裡放著的樂器多以金屬材質為主，也因此被戲稱為「金屬製品」。外貌整體看起來偏男性，但曾有員工聽過他用女性的聲音說話，本人也並不願意透漏自己的性別，因此這件事至今仍未有一個答案。
 > 
 ------
 > **名字：**劉勉色[[footnote]]色，ㄕㄞˇ，shǎi[[/footnote]]，Dyce Siggs
@@ -245,19 +273,100 @@ Wondertainment博士中心頁
 > **暱稱：**六面骰、臉色先生[[footnote]]綽號來源是因為有人把他的名字唸成面色，後被開玩笑的說成臉色。[[/footnote]]
 > **簡介：**棕髮棕眼，身高183cm。人如其名，對他來說，人生的意義就是玩樂。擅長各類卡牌遊戲，尤其是《遊戲王》，對其它事情的態度基本上就是得過且過。除此以外，在資訊工程方面有著十分強大的技能，也是因為這樣，他才會在站點裡面開賭局，卻還能在基金會中活蹦亂跳到現在卻沒被解僱，雖然……他學這些的初衷也是為了遊戲/賭博就是了。
 > 另外，他雖然把賭貫徹到極致，但卻對黃跟毒沒有任何的了解，可以說是到無知的地步。曾經11站有一個穿著暴露的女性前來，而他卻在把外套借給她前，連直視對方都做不到。
+------
+> 其他（可能）的人員：蕭暮均、蕭蘇達、
 -------
 > 更多人員正在等待招募，歡迎將你的申請表寄到██████@gmail.com，或是店長的[[[https://twitter.com/Tostren1017|推特]]]跟[[[discordapp.com/users/740809159166918696|Discord]]]。
+
 [[/tab]]
 [[tab 牆上掛著的各式照片]]
 [[[kislorod-with-his-sadness|]]]
 [[[samscript-now-owes-me-a-drink|]]]
 [[/tab]]
 [[tab 櫃檯後面的獎狀]]
-哈哈，紅↗️藍↘️紫↗️隊↘️
+[[[honglam-battle-2-0 | 哈哈，紅↗️藍↘️紫↗️隊↘️]]]
 [[image https://i.imgur.com/cFaO3wM.gif width="150px"]]
 [[/tab]]
-[[tab ［施工中］]]
-Stay tuned 
+[[tab 留言板]]
+[[div class="blockquote"]]
+
+好，我原本想說這個［施工中］就是單純放著等到我哪天要加東西的時候可以用，但後來想想，不對
+
++++ 我沒東西可加了
+
+可是這樣一直吊大家的胃口好像也不太好，所以就想說把他當成留言板看看大家會留什麼奇怪的東西。
+對我的評價也好，爛梗、大便文也罷。
+
+來吧。
+
+我準備好了。
+
+格式：
+
+[[div class="blockquote"]]
+@@[[div class="blockquote"]]@@
+(你的文字)
+@@[[>]]@@
+@@— [[*user (你的維基豆帳號)]]@@
+@@[[/>]]@@
+@@[[/div]]@@
+[[/div]]
+
+[[>]]
+— [[*user Tostren]]
+[[/>]]
+
+
+[[/div]]
+
+[[div class="blockquote"]]
+[[div class="blockquote"]]
+我討厭你
+[[>]]
+— [[*user ic 1623]]
+[[/>]]
+[[/div]]
+
+謝謝，我也是
+[[>]]
+— [[*user Tostren]]
+[[/>]]
+[[/div]]
+[[div class="blockquote"]]
+[[div class="blockquote"]]
+吐司你知道[[*user ic 1623]]討厭你嗎
+[[>]]
+— [[*user adev drafaski]]
+[[/>]]
+[[/div]]
+
+（Always has been.jpg）
+[[>]]
+— [[*user Tostren]]
+[[/>]]
+[[/div]]
+
+[[div class="blockquote"]]
+吐司欸（鴨之咀嚼消化）
+[[>]]
+— [[*user samscript]]
+[[/>]]
+[[/div]]
+
+[[div class="blockquote"]]
+We live
+We love
+[[>]]
+— [[*user Hector-ZH-TR]]
+[[/>]]
+[[/div]]
+
+[[div class="blockquote"]]
+那些麵包很好吃。應該吧。
+[[>]]
+— [[*user Haru Ken]]
+[[/>]]
+[[/div]]
 [[/tab]]
 [[/tabview]]
 ##FCFCFC|嘿！你剛剛發現了你自己的小小先生，一個来自Tostren博士的個人特製版收藏集！##

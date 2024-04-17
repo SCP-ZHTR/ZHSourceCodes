@@ -3,6 +3,10 @@
 [[/div]]
 
 [[module css]]
+
+.delet_this a {
+color: #dd7711 !important;
+}
 .antimemetic .antimeme-fader {
     opacity: 0;
     transition-duration: 2s;

@@ -10,7 +10,7 @@
 
 [[include :scp-wiki:component:author-label-source start=--
 |name=Tstaffor]]
-= [[[tstaffor-s-author-page|作者頁]]] | [[[the-scip-squad-podcast-hub|Podcast]]] | [[[https://http://scp-zh-tr.wikidot.com/random:random-scp|手氣不錯？]]]
+= [[[tstaffor-s-author-page|作者頁]]] | [[[the-scip-squad-podcast-hub|Podcast]]] | [[[http://scp-zh-tr.wikidot.com/random:random-scp|手氣不錯？]]]
 
 **Tstaffor最棒的作品：**
 * [[[SCP-6557]]] - 穿越時間的十字路口毀滅
@@ -134,7 +134,7 @@ SCP-1551-EX在被發現時身上綁有一個斜背包，其中裝有一張折起
 > **圖片名稱：** Magic lantern, series with hads pic3.JPG
 > **作者：** Alf van Beem
 > **授權方式：** 公有領域
-> **來源連結** https://commons.wikimedia.org/wiki/File:Magic_lantern,_series_with_hads_pic3.JPG
+> **來源連結：** https://commons.wikimedia.org/wiki/File:Magic_lantern,_series_with_hads_pic3.JPG
 [[/<]]
 =====
 [[include :scp-wiki:component:license-box-end]]

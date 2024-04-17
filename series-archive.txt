@@ -860,13 +860,22 @@ Daniil Sokolsky的計畫是，炸飛七個關注組織在基金會全球各地�
     font-weight: bold;
     background-color: var(--box-accent);
 }
-.tag-lead a::before {
-    content: "See all works tagged";
+.tag-lead a::before, .tag-lead a::after {
     display: inline-block;
-    padding-inline-end: .425ch;
     color: #fff9;
     font-weight: normal;
 }
+
+.tag-lead a::before {
+    content: "查看所有被標記為";
+    padding-inline-end: .425ch;
+}
+
+.tag-lead a::after {
+    content: "頁面";
+    padding-inline-start: .425ch;
+}
+
 [[/module]]
 
 

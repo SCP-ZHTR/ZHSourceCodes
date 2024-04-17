@@ -15,7 +15,7 @@
 @@@@
 @@@@
 
-[[include component:image-block name=https://i.imgur.com/VixFjqJ.jpg|caption=**於事故ZH-027-6中所截獲之SCP-ZH-027**|width=300]]
+[[include component:image-block name=https://i.imgur.com/VixFjqJ.jpg|caption=**於事故ZH-027-6中所截獲之SCP-ZH-027**|width=300px]]
 
 **特殊收容措施：**SCP-ZH-027收容於Site-ZH-44地下八樓之異常生化物質收容間，並封存於一冷凍乾燥箱內，當前收容個體均已過保存期限，執行實驗前應確認是否發生變質、破損等影響因素。
 

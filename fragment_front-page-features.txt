@@ -1,6 +1,6 @@
 [[div id="featured"]]
 [[tabview]]
-[[tab 1月作品展出]]
+[[tab 4月作品展出]]
 
 [!-- Left block --]
 [[div class="feature-block"]]
@@ -10,13 +10,12 @@ SCP作品展出
 [[/div]]
 [[div class="panel-body"]]
 [[div class="feature-title"]]
-[[[*scp-zh-129|SCP-ZH-129 - 給愛麗絲]]]
+[[[*SCP-ZH-022|]]]
 [[/div]]
 [[div class="feature-subtitle"]]
-作者：[[user  Control Z]]
+作者：[[user  Nihilmace]]
 [[/div]]
-你也閉嘴！你又不是我的直屬上司，你才沒資格來命令我……！
-
+CP-ZH-022-2為一群尋常情況下人類無法認知的蠕蟲狀敵意實體，現存的任何非異常攝影技術都無法記錄項目的身影，該類實體除了會週期性的捕食人類外，更會積極地殺害所有認知到實體存在的人員，其目的目前無法得知。
 [[/div]]
 [[div class="panel-footer"]]
 [[[*featured-scp-archive|查看以往展出的SCP作品]]]
@@ -30,12 +29,14 @@ SCP作品展出
 [[/div]]
 [[div class="panel-body"]]
 [[div class="feature-title"]]
-[[[night-tide|汐]]]
+[[[for-the-curse-of-us|少年L的希死念慮]]]
 [[/div]]
 [[div class="feature-subtitle"]]
-作者：[[user LuLu_Lucifelle]]
+作者：[[user Lostwhat]]
 [[/div]]
-他一心只想著讓女兒得以幸福，而希也懂事得讓人心疼，在被夕陽染紅的小町裡，看著女兒能夠健康的蹦蹦跳跳，跑在他身前用力地揮著手，好像這樣的日子能夠持續到永遠一樣。
+拎起行李，他沒有離開的理由，但也沒有找到停留的理由。隨機的二擇一，僅此而已。
+
+但他總覺得對不起這個夏天。
 [[/div]]
 [[div class="panel-footer"]]
 [[[*featured-tale-archive|查看以往展出之故事]]]
@@ -51,14 +52,13 @@ SCP作品展出
 [[/div]]
 [[div class="panel-body"]]
 [[div class="feature-title"]]
-[[[*SCP-013-J|]]]
+[[[*scp-8001|]]]
 [[/div]]
 [[div class="feature-subtitle"]]
-作者：[[user DomeAcolyte]]
-譯者：[[user Tostren]]
+作者：[[user djkaktus]]
+譯者：[[user Frederica Bernkastel]]
 [[/div]]
-
-在接下來的兩週內，基金會員工遵從了SCP-013-J的指示，多數人把食物及文具丟向Spencer職員，直到一名搬運異常打字機的實習生導致他受傷。
+我在黎明時分清醒，發現他已經走了，只在古老的紅木下留下涼鞋與摺好的長袍。他就這麼從此人間蒸發，無聲地證明了存在的短暫，我再也沒有見過他的面容。
 
 [[/div]]
 [[div class="panel-footer"]]
@@ -73,12 +73,12 @@ SCP作品展出
 [[/div]]
 [[div class="panel-body"]]
 [[div class="feature-title"]]
-[[[*wanderers:long-winter|長冬]]]
+[[[*so-mk-went-to-a-island|所以M.K.來到了一個無人島上]]]
 [[/div]]
 [[div class="feature-subtitle"]]
-作者：[[user Aindavis_817]]
+作者：[[user Adev Drafaski]]
 [[/div]]
-我希望我能夠陪在我的孩子身邊，而他也會一直陪著我，陪著我們所有人，他永遠活在我們的心中——在班德魯的母親崩潰前，她在致詞中這麼提到。
+Wagner笑了一下，他的心中卻毫無波瀾。M.K.是誰？自己究竟是不是他的傳人？這些問題已經消失在徐徐的海風中。唯一有的只有現在，這個時刻，他在日出的光輝中找到了一個寫著字的石板。
 [[/div]]
 [[div class="panel-footer"]]
 [[[*featured-Comprehensive-exhibition|查看以往的綜合展出]]]

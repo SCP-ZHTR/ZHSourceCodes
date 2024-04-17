@@ -103,7 +103,7 @@
 [[include :scp-wiki:component:responsive-tables-source |row-end= --] ]]
 [[include :scp-wiki:component:responsive-tables-source |row-start= --] ]]
 [[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=孫薩蘭短語 ]]
-**Ertir’ohrt’mekht’valasi’ulks’molag**
+**Ertir'ohrt'mekht'valasi'ulks'molag**
 [[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
 [[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=在中文的推定對應 ]]
 苦的 空的 鏽蝕的 利維坦 土壤 帝王（？）
@@ -147,7 +147,7 @@
 [[include :scp-wiki:component:responsive-tables-source |row-end= --] ]]
 [[include :scp-wiki:component:responsive-tables-source |row-start= --] ]]
 [[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=孫薩蘭短語 ]]
-**Ohrt’ulks’rortir**
+**Ohrt'ulks'rortir**
 [[include :scp-wiki:component:responsive-tables-source |cell-end= --] ]]
 [[include :scp-wiki:component:responsive-tables-source |cell-start= --] |cell-header=在中文的推定對應 ]]
 荒涼的 身體 思想
@@ -363,7 +363,7 @@ ith, heta
 
 * 你叫甚麼名字，SCP-6013？你正在做甚麼工作？
 
-= **Ith, Gräpaf Trypori7, nälkä nolaa7. Ia, ith ordtiäm-ordtiäm litca’siola.**
+= **Ith, Gräpaf Trypori7, nälkä nolaa7. Ia, ith ordtiäm-ordtiäm litca'siola.**
 
 看似有點嚇人，是嗎？接下來讓我們親自把流程走過一趟吧。
 
@@ -374,7 +374,7 @@ ith, heta
 
 * 你叫甚麼名字，SCP-6013？你正在做甚麼工作？
 
-= **##e38502|__我／我們__##，Gräpaf Trypori7, nälkä nolaa7. ##e38502|__是／否__##，##e38502|__我／我們__ __全部__## ord-##e38502|__全部__## ord litca’siola.**
+= **##e38502|__我／我們__##，Gräpaf Trypori7, nälkä nolaa7. ##e38502|__是／否__##，##e38502|__我／我們__ __全部__## ord-##e38502|__全部__## ord litca'siola.**
 
 記得所有的複數後綴（兩個、一些、多個、全部）都會為您自動翻譯。
 ----
@@ -436,7 +436,7 @@ ith, heta
 * **Gräpaf Trypori：** 在這情況下，SCP-6013是在以一個稱呼來描述自己。這個稱呼表示了它的狀態與功能：一個進行地貌改造的生物埋在地下。所以，在所有可能的選項當中，「融和 地洞」看來比較可從。「地洞」在這裡是單數還是複數，則視乎詮釋而定，但是我們相信那是複數，所以就照樣表示。
 * **nälkä nolaa：** 這個短語其實可以有幾種可能的譯法，例如「隱匿 力量」。在這例子，我們會用「成長 生命」，或在源語的語法則為「生命 成長」。要記著動詞會放在主語與賓語的__後方__。
 * **ordtiäm-ordtiäm：** 這個短語用了同一個詞語兩次，所以我們可以假設這兩個詞應該有兩個不同的解釋。我們惟一找得到的組合是「皮膚-血肉」，可能是「皮膚與血肉」那樣的並列短語，就像「身體髮膚」那樣的並列。加複數之後，就有「全部皮膚-全部血肉」。
-* **litca’siola：** 就即是「看見 貫穿」。SCP-6013正在說一種透視一些東西的行為。
+* **litca'siola：** 就即是「看見 貫穿」。SCP-6013正在說一種透視一些東西的行為。
 
 要注意介詞和連接詞是分別用聲門塞音（7）和連接號（-）表示的。我們先暫時將它們擱置。
 

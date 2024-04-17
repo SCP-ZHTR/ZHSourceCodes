@@ -1,0 +1,37 @@
+[[include credit:start]]
+**原著：** [[*user Fennecist]]
+**原著年：** 2024
+**譯者：** [[*user edward-knave]]
+**原題：** こゐぬ
+**譯題：** 小狗
+**原文：** https://scp-jp.wikidot.com/scp-3168-jp-j
+
+**譯註：** 此處翻譯用明代韻書《[https://zh.wikisource.org/zh-hant/%E9%9F%BB%E7%95%A7%E6%98%93%E9%80%9A 韻畧易通]》所列聲母韻部各二十，以此滿足遍歷條件。詳見[http://scp-zh-tr.wikidot.com/forum/t-16713627/scp-3168-jp-j#post-6426679 譯者言]。
+[[include credit:end]]
+
+微目
+可放入欄
+[[[SCP-3168-JP|小狗]]]這般
+聲韻全鋪揇牒自煦泰
+[[include :scp-zh-tr:component:image-block
+|name=https://scp-jp-storage.wdfiles.com/local--files/file%3A3705485-24-fin2/outdoor-puppy-dog-animal-pet-mammal-542273-pxhere.com.jpg
+|caption=姹
+|width=200px
+|align=left
+]]
+~~~~
+----
+[[include :scp-zh-tr:component:license-box
+|lang=JP
+|author=Fennecist
+]]
+> **檔案頁面：** [http://scp-jp-storage.wikidot.com/file:3705485-24-fin2 こゐぬ]
+> 
+> **圖源連結：** https://pxhere.com/ja/photo/542273
+> **圖像授權：** 公有領域／CC0
+> 
+> **圖像標題：** 不明
+> **版權持有者：** 不明
+> **發表年份：** 2017
+> **圖像備註：** 經過Fennecist剪裁處理
+[[include :scp-zh-tr:component:license-box-end]]

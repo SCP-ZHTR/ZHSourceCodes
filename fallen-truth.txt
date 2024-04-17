@@ -1,6 +1,7 @@
 [[include :scp-zh-tr:theme:basalt darkmode=a|centertitle=a]]
 [[include :scp-zh-tr:component:fade-in speed=1]]
 [[module CSS]]
+
 .footnotes-footer{
 display:none;
 }
@@ -13,36 +14,30 @@ display:none;
     box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.3);
     background: linear-gradient( 0deg, rgba(102, 97, 128, 0.8) 87%, rgba(47, 45, 59, 0.8) 100%);
 }
-/* excerpt div stuff from Site-17 */
-.excerpt {
-  border: solid 2px var(--color);
-  border-left-width: 10px;
-  border-bottom-width: 10px;
-  padding: 1px 15px;
-  width: 75%;
-  margin: auto;
-  margin-top: 20px;
-  margin-bottom: 20px;
+
+.excerpt  {
+    flex-basis: max(12rem, 36%);
+    flex-grow: 2;
+    border: 2px solid var(--color);
+    border-left-width: 10px;
+    border-bottom-width: 10px;
+    margin: 0.5rem;
+    padding: 0.5rem;
+    background-size: cover;
+    background-repeat: repeat;
+    text-align: center;
+    transition-duration: 0.5s;
+    display: grid;
+    align-items: center;
+    position: relative;
 }
-@media (max-width: 479px) {
-  .excerpt {
-    width: auto;
-    margin-left: 0;
-    margin-right: 0;
-  }
+
+.excerpt:hover {
+    transition-duration: 0.5s;
+    filter: contrast(1.2);
+    border-color: #647dbe;
 }
-/* replacing wikidot syntax for centering/size */
-.excerpt > p:first-child {
-  text-align: center;
-  font-size: 80%;
-}
-.excerpt p:first-child > strong:first-of-type,
-.excerpt p:first-child > em {
-  font-size: 125%;
-}
-.excerpt:not(.hub) > hr ~ p {
-  font-style: italic;
-}
+
 /* excerpt border colors */
 .h {
   --color: #6b032d;
@@ -59,21 +54,24 @@ display:none;
 .r {
   --color: #000000;
 }
+
+.article-link-box {
+    position: absolute;
+    opacity: 0;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 100;
+    display: block;
+}
 [[/module]]
+
+[[module ListPages name="fallen-truth"]]
 [[=]]
-[[span style="background-color: #1e1e23;color: #c3c3c8;font-weight: bold;padding: 8px 10px;"]]評分: 0[[/span]][[span style="background-color:#1e1e23;font-weight: bold;padding: 8px 2px"]][[a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" style="background: transparent;color: #c3c3c8;padding: 0 4px;margin: 0 1px;font-size:125%"]]+[[/a]][[/span]][[span style="background-color: #1e1e23;font-weight: bold;padding: 8px 2px"]][[a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" style="background: transparent;color: #c3c3c8;padding: 0 4px;margin: 0 1px;font-size:125%"]]-[[/a]][[/span]][[span style="background-color: #1e1e23;padding: 8px 2px"]][[a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" style="background: transparent;color: #c3c3c8;padding: 0 4px;margin: 0 1px;font-size:125%"]]×[[/a]][[/span]]
+[[span style="background-color: #1e1e23;color: #c3c3c8;font-weight: bold;padding: 8px 10px;"]]評分: +%%rating%%[[/span]][[span style="background-color:#1e1e23;font-weight: bold;padding: 8px 2px"]][[a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" style="background: transparent;color: #c3c3c8;padding: 0 4px;margin: 0 1px;font-size:125%"]]+[[/a]][[/span]][[span style="background-color: #1e1e23;font-weight: bold;padding: 8px 2px"]][[a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" style="background: transparent;color: #c3c3c8;padding: 0 4px;margin: 0 1px;font-size:125%"]]-[[/a]][[/span]][[span style="background-color: #1e1e23;padding: 8px 2px"]][[a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" style="background: transparent;color: #c3c3c8;padding: 0 4px;margin: 0 1px;font-size:125%"]]×[[/a]][[/span]]
 [[/=]]
-[[div class="jotting"]]
-[[=]]
-+++ 公告
-
-敝人因學業原因，暫時離開基金會創作，直到2023年1月底。
-
-在此期間，我的所有聯絡管道（Wikidot、Discord、Twitter、Facebook）都會停止運作。
-
-如有任何急事或設定之類的問題需要聯絡我，可以傳電郵至yeluofeng620@gmail.com。
-[[/=]]
-[[/div]]
+[[/module]]
 
 @@ @@
 [[div class="papernote"]]
@@ -89,11 +87,12 @@ display:none;
 [[tab 本人]]
 敝人[[*user Fallen_Truth]]，您好，您可以叫我秋天。
 
-長時間浮潛，只有比賽時才想發文，甚至創造多次壓線之佳績。而且只會寫SCP，但作品品質不一，多篇作品仍等待遙遙無期的重寫。
+長時間潛水，只有比賽時才想發文[[footnote]]好消息：SCP-ZH-887-J的出現打破了這個規律；壞消息：它還沒被歸類到已解明。[[/footnote]]，甚至多次創造壓線之佳績。並且只會寫SCP，但作品品質不一，多篇作品仍等待遙遙無期的重寫。
 
-雖然每天除了半夜至清晨的其他時間一直掛在聊天室上，但是回覆訊息的冷卻時間極長，30秒至2日不等，絕大多數原因不是我不想回，而是我還在過度擔憂遣辭用句而在挨個兒查詢他們的意思。所以如果覺得我回覆訊息真的有夠慢，或是有急事，可以直接提醒我，或是直接用私訊炮轟，謝謝您。
+雖然每天大多數時間都會掛在Discord聊天室上，但是回覆訊息的冷卻時間極長，短則30秒長則2日。絕大多數情況不是我不想回，而是我還在過度擔憂遣辭用句是否會帶來困擾，而在挨個兒查詢他們的意思。所以如果覺得我回覆訊息真的有夠慢，可以在Discord@我提醒，或是直接用私訊炮轟，謝謝您。
 [[/tab]]
 [[tab 角色]]
+[[include component:image-block name=https://i.imgur.com/p7Rcl3e.png|caption=夜落楓（From 白雷）|width=200px|align=right]]
 **姓名：**夜落楓
 
 **常用稱呼：**楓、楓子/瘋子[[footnote]]無法確定此稱呼的由來，但已知此稱呼不具貶義。[[/footnote]]
@@ -112,11 +111,11 @@ display:none;
 
 **簡介：**臺灣人，黑髮，身形較為高䠷。總是配戴口罩，本人陳述係為了防止過敏性鼻炎反覆發作以及「戴了比較安心」。
 
-個性內向寡言，自稱不喜社交，每日對話量僅供維持工作上必要之會話。初到派遣設施常被同事認為冷漠、不易親近，然而經過一段時間後，該員會罕見地嘗試參與社交活動，並與周遭人員進行交流，且時常出現違心地否認自身想法及好意的情況，因此又常被調侃「傲嬌」。
+個性內向寡言，自稱不喜社交，每日對話量僅供維持工作上必要之會話。初到派遣設施常被同事認為冷漠、不易親近，然而經過一段時間後，該員會偶爾嘗試參與社交活動，並與周遭人員進行交流，且時常出現違心地否認自身想法及好意的情況，因此又常被調侃「傲嬌」。
 
-對於拍攝個人相片以及脫下口罩極其牴觸，尚不清楚緣由，因此並不建議以維安要求或確認身分之外的原因要求該員進行以上行為。
+對於拍攝個人相片以及脫下口罩極其牴觸，尚不清楚緣由，因此並不建議以維安必需或確認身分之外的原因要求該員進行以上行為。
 
-**經歷：**[[footnote]]（基本上是項目內有提及過的內容與額外擴充，可能會變動）[[/footnote]]於201█年以特殊人才招募至基金會。
+**經歷：**[[footnote]]基本上是項目內有提及過的內容與額外擴充，可能會變動。[[/footnote]]於201█年以特殊人才招募至基金會。
 
 於入職後不久，該員因在SCP-ZH-184的研究作出重大進展，而被指定為Area-ZH-96設施主任。發生事故ZH-184-1後，認為是自己採訪異常實體時沒有進行適當防護，而造成該起維安事故，所以於提交項目檔案定稿時自行申請卸任。
 
@@ -128,15 +127,15 @@ display:none;
 [[=]]
 ++ ##006688|燦藍神穹##
 [[/=]]
-在調任至Site-ZH-44後，經歷了SCP-ZH-835後選擇留在該站點繼續進行奇蹟學研究，並向三垣議會提出解除SCP-ZH-989收容措施的動議。**//可能//**患有SCP-ZH-989。
+於2022年初調任至Site-ZH-44，直接遭受第一起SCP-ZH-835衝擊，而後選擇留在該站點繼續進行奇蹟學研究。患有SCP-ZH-989，將自身作為對象進行研究，並於同年六月向三垣議會提出解除SCP-ZH-989收容措施的動議。
 [[/collapsible]]
-
+@@ @@
 [[collapsible show="所以你想寫這個角色？" hide="也許是項艱鉅的挑戰"]]
 以上僅是完全不成熟的初次設定，該角色實際也僅在SCP-ZH-184、SCP-ZH-989兩篇作品中出現，無法看出明顯的角色特質。
 
 倘若您真的想讓這個角色出場，也許可以再注意以下幾點：
 * 只是「看起來」冷淡，並非真的沒有情緒，在同一站點工作久了會逐漸將心情流露於言表。（不過還是很少說話）
-* 看起來很適合當很嚴肅的工作狂，但完全不是，就某方面來說甚至有點懶惰。
+* 看起來很適合當嚴肅的工作狂，但完全不是，就某方面來說甚至有點懶惰。
 * 別讓他脫口罩。
 [[/collapsible]]
 [[/tab]]
@@ -167,7 +166,7 @@ display:none;
 
 好，我撐不住了，寫作者頁比我想像中還困難，一直莫名地感到害羞/羞恥。
 
---##grey|要謝的人太多了，那就謝天吧。##--沒，謝謝你能看到這裡，以及特別感謝以下幾位前輩/用戶/作者/人（突然詞窮）：
+--##grey|要謝的人太多了，那就謝天吧。##-- 特別感謝以下幾位前輩/用戶/作者/人（突然詞窮）：
 山姆（[[*user SamScript]]）
 泡麵（[[*user Pao Mian]]）
 咪呀（[[*user Dr V Valentine]]）
@@ -188,106 +187,151 @@ display:none;
 [[/=]]
 @@ @@
 [[tabview]]
+[[tab 總覽]]
+> 雖然我不是很喜歡在作品後面附上實時評分，但這個組件實在有點酷。
+
+[[include :scp-zh-tr:component:wikimodule |ratings= --]]]
+
+[[/tab]]
 [[tab 怪誕]]
 [[=]]
 > 也許算恐怖，也許不算。反正稀奇古怪或帶有恐怖要素之類的都丟這裡。
-[[/=]]
 [[div class="excerpt h"]]
-[[=]]
+[[div]]
+[[a class="article-link-box" href="scp-zh-337"]][[/a]]
 + SCP-ZH-337
-++++ [[[scp-zh-337|夢工廠]]]
+++++ 夢工廠
 ----
 //在看到全身黑色且難以辨識確切外觀的人形實體（即SCP-ZH-337-1）後，用最快速度逃離該實體，不得接近實體或放棄逃跑。//
-[[/=]]
+[[/div]]
 [[/div]]
 @@ @@
-[[div class="excerpt h"]]
-[[=]]
+[[div class="excerpt h" style="background-image: radial-gradient(rgba(30, 30, 30, 0.85), rgba(30, 30, 30, 0.85)), url(https://upload.wikimedia.org/wikipedia/commons/0/01/%E5%8F%B0%E5%8C%97%E6%8D%B7%E9%81%8B_%2815405099807%29.jpg);background-position:center"]]
+[[div]]
+[[a class="article-link-box" href="scp-zh-184"]][[/a]]
 + SCP-ZH-184
-++++ [[[scp-zh-184|奔車朽索]]]
+++++ 奔車朽索
 ----
 //這些文章均聲稱曾在多條捷運路線上，遇到了停在袋狀軌上的地獄列車。//
-[[/=]]
 [[/div]]
+[[/div]]
+[[/=]]
 [[/tab]]
 [[tab 生醫]]
 [[=]]
 > 明明生物很差勁卻又想要寫，因此查了一堆資料後誕生的產物。
-[[/=]]
-[[div class="excerpt b"]]
-[[=]]
+[[div class="excerpt b" style="background-image: radial-gradient(rgba(30, 30, 30, 0.85), rgba(30, 30, 30, 0.85)), url(https://i.imgur.com/yq3XhBP.png);background-position:center"]]
+[[div]]
+[[a class="article-link-box" href="scp-zh-989"]][[/a]]
 + SCP-ZH-989
-++++ [[[scp-zh-989|我們腦中的太陽]]]
+++++ 我們腦中的太陽
 ----
 //也許我們可以大膽地說SCP-ZH-989是奇蹟術增幅事件推動著我們演化的結果。//
-[[/=]]
 [[/div]]
+[[/div]]
+[[/=]]
 [[/tab]]
 [[tab 搞笑]]
 [[=]]
 > 幽默感極低的作者想要取悅客官。
-[[/=]]
 [[div class="excerpt j"]]
-[[=]]
+[[div]]
+[[a class="article-link-box" href="scp-zh-912-j"]][[/a]]
 + SCP-ZH-912-J
-++++ [[[scp-zh-912-j|大忌]]]
+++++ 大忌
 ----
 //另外，火鍋中加入芋頭是**##red|大忌##**，芋頭惡魔。//
-[[/=]]
 [[/div]]
+[[/div]]
+@@ @@
+[[div class="excerpt j"]]
+[[div]]
+[[a class="article-link-box" href="scp-zh-887-j"]][[/a]]
++ SCP-ZH-887-J
+++++ 低頻噪音
+----
+//聲音響了就起床吧，只有我自己//
+[[/div]]
+[[/div]]
+@@ @@
+[[div class="excerpt j"]]
+[[div]]
+[[a class="article-link-box" href="scp-zh-4202-ex"]][[/a]]
++ SCP-ZH-4202-EX
+++++ 一個，或者若干個SCP-2747的特例，可能代表世代與世代間鴻溝產生的隔閡，或象徵亞文化曇花一現後遺留的殘餘
+----
+//螢幕亮起好似圖中人再次復出/掌聲響起如同圖中人不曾落幕//
+[[/div]]
+[[/div]]
+[[/=]]
 [[/tab]]
 [[tab 其他]]
 [[=]]
 > 就其他我分不出類別的。
-[[/=]]
-[[div class="excerpt o"]]
-[[=]]
+[[div class="excerpt o" style="background-image: radial-gradient(rgba(30, 30, 30, 0.85), rgba(30, 30, 30, 0.85)), url(https://i.imgur.com/720tHo6.jpg);background-position: center 75%"]]
+[[div]]
+[[a class="article-link-box" href="scp-zh-774"]][[/a]]
 + SCP-ZH-744
-++++ [[[scp-zh-744|反洗禮]]]
+++++ 反洗禮
 ----
 //從此，他門徒中多有退去的，不再和他同行。（約翰福音 6：66）//
-[[/=]]
+[[/div]]
 [[/div]]
 @@ @@
 [[div class="excerpt o"]]
-[[=]]
+[[div]]
+[[a class="article-link-box" href="scp-zh-492"]][[/a]]
 + SCP-ZH-492
-++++ [[[scp-zh-492|除夕，夜歸]]]
+++++ 除夕，夜歸
 ----
 //有點奇怪，巷口的早餐店不見了，而且我記得以前沒有斑馬線的，也許是我太久沒回來了。//
-[[/=]]
 [[/div]]
+[[/div]]
+@@ @@
+[[div class="excerpt o"]]
+[[div]]
+[[a class="article-link-box" href="scp-zh-668"]][[/a]]
++ SCP-ZH-668
+++++ 「廣內」
+----
+//致基金會：我從沒有憎恨過你們，那怕是博覽會那時的失敗也沒有。//
+[[/div]]
+[[/div]]
+[[/=]]
 [[/tab]]
 [[tab 待重寫]]
 [[=]]
 > 這幾篇作品皆屬不成熟之作，尚待敝人重寫。重寫完成後會再次分類。
-[[/=]]
 [[div class="excerpt r"]]
-[[=]]
+[[div]]
+[[a class="article-link-box" href="scp-zh-074"]][[/a]]
 + SCP-ZH-074
-++++ [[[scp-zh-074|海拉的收容間]]]
+++++ 海拉的收容間
 ----
 //在走道盡頭左側設有一個窺視窗可檢查SCP-ZH-074內部的情況，窺視窗旁的牆壁被用紅漆漆上了「HeLa」。//
-[[/=]]
+[[/div]]
 [[/div]]
 @@ @@
 [[div class="excerpt r"]]
-[[=]]
+[[div]]
+[[a class="article-link-box" href="scp-zh-563"]][[/a]]
 + SCP-ZH-563
-++++ [[[scp-zh-563|灰飛煙滅]]]
+++++ 灰飛煙滅
 ----
 //距離中心點五公尺以內：碰觸部位瞬間崩解並轉化為沙粒以及大量粉塵。//
-[[/=]]
+[[/div]]
 [[/div]]
 @@ @@
 [[div class="excerpt r"]]
-[[=]]
+[[div]]
+[[a class="article-link-box" href="scp-zh-268"]][[/a]]
 + SCP-ZH-268
-++++ [[[scp-zh-268|心聲]]]
+++++ 心聲
 ----
 //我所擔心的，我腐爛的心聲，你是否能聽見？//
-[[/=]]
 [[/div]]
+[[/div]]
+[[/=]]
 [[/tab]]
 [[/tabview]]
 
@@ -296,10 +340,10 @@ display:none;
 [[=]]
 [[collapsible show="萬一呢？" hide="萬一呢。"]]
 [[div class="modal"]]
-　如果我在各個社群/管道（Wikidot、Discord、Twitter、Facebook）都沒有任何動作並且滿足以下任一條件：
+　如果我在各個管道（Wikidot、Discord、Twitter、Facebook）都沒有任何動作並且滿足以下任一條件：
 
-1. 有提前告知但已超過期限三十天整
-2. 沒提前告知並已停擺超過六十天整
+1. 有提前告知但已超過期限六十天整
+2. 沒提前告知並已停擺一百二十天整
 
 　那麼可以視作我已經死亡。
 

@@ -40,7 +40,7 @@ div#extra-div-1 {
 [[/module]]
 
 [[div class="overlap"]]
-[[image http://scp-wiki.wdfiles.com/local--files/dr-k-stuff-s-personnel-file/rottemple.png]]
+[[image https://scp-wiki.wdfiles.com/local--files/fragment%3Ascp-6500-6/rottemple.png]]
 [[/div]]
 
 @@@@

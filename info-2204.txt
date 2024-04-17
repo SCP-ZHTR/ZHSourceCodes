@@ -1,146 +1,193 @@
-[[include :scp-zh-tr:info:start-standalone]]
-
+[[include info:start]]
+原文：[https://scp-wiki.wikidot.com/anthology-2023-hub Anthology 2023 Hub] 驚選集2023中心頁
+作者：[[*user EstrellaYoshte]]、[[*user Tyumen]]
+譯者：[[*user Frederica Bernkastel]]
+特別感謝：[[*user ZH_mercury]]
 [[include info:end]]
-本頁是為了收集此次競賽的活動所使用的照片，並方便各位成員引用圖片及查詢，這裡將配合競賽進行簡單的說明，本頁上傳的需要是您親自攝影的作品，照片中有敏感資訊必須裁切、塗抹或者添加馬賽克的話都是可以理解的，除此之外請不要進行合成等改作。
 
-在攝影完成後請如圖以往一樣將照片上傳至[https://imgur.com/ imgur]的圖床空間中，之後取得圖片網址點擊下方的發布鈕依照表格填寫完資訊，這樣即可得到一份簡單複製就能在網站內甚至網站外輕鬆使用的授權了！
+[[include :scp-zh-tr:theme:black-highlighter-theme]]
+[[include :scp-wiki:theme:old-money-theme]]
+[[include :scp-zh-tr:component:toggle-sidebar-bhl]]
+[[include :scp-zh-tr:component:centered-header-bhl]]
+[[include fragment:antho23-css]]
+ 
+[[module CSS]]
+#page-title { display: none; }
+[[/module]]
 
-當然有任何問題都非常歡迎，留言詢問或是前往我們的[[[*chat-guide|聊天室與各大窗口]]]求助。
++ 這是什麼？
+ 
+驚選集2023是去年[http://scp-zh-tr.wikidot.com/scp-anthology-hub SCP驚選集]的延續，後者是由[[*user S D Locke]]於SCP Wiki主辦的活動，在這個活動中，才華洋溢的各路作者將在10月的每一天接力發布恐怖系SCP。
+ 
+今年，這個計劃將擴及SCP基金會與流浪者圖書館。每位作者都會被分配到一張隨機的塔羅牌，並根據牌的占卜含意撰寫一篇恐怖網路創作──從SCP項目、短篇小說、詩歌、互動小說都在其中。
+
+
+[[tabview]]
+[[tab 表1的標題]]
+[[div class="fortune-container"]]
+
+[[include fragment:card-slot
+|status= |pre-flipped=
+|author=Stygian Blue - 戀人
+|art= https://wanderers-library.wdfiles.com/local--files/anthology-2023-hub/lovers.png
+|url=http://scp-zh-tr.wikidot.com/wanderers:the-lovers
+]]
+
+[[include fragment:card-slot
+|status= |pre-flipped=
+|author=Long Arm Larry - 權杖三
+|art= https://scp-wiki.wdfiles.com/local--files/anthology-2023-hub/threeofwands.png
+|url=http://scp-zh-tr.wikidot.com/scp-7514
+]]
+
+[[include fragment:card-slot
+|status= |pre-flipped=yes
+|author=UncannyClown276 - 星星
+|art= https://scp-wiki.wdfiles.com/local--files/anthology-2023-hub/thestar.png
+|url=http://scp-zh-tr.wikidot.com/wanderers:chest-cavity-the-star
+]]
+
+[[include fragment:card-slot
+|status= |pre-flipped=yes
+|author=DarkStuff - 聖杯三
+|art=https://scp-wiki.wdfiles.com/local--files/anthology-2023-hub/threeofcups.png
+|url=http://scp-zh-tr.wikidot.com/wanderers:three-of-cups
+]]
+
+[[include fragment:card-slot
+|status= |pre-flipped=yes
+|author=BitOddInnit - 皇帝
+|art=https://scp-wiki.wdfiles.com/local--files/anthology-2023-hub/emperor
+|url=http://scp-zh-tr.wikidot.com/scp-7460
+]]
+
+[[include fragment:card-slot
+|status= |pre-flipped=
+|author=Din-Bidor - 節制
+|art= https://scp-wiki.wdfiles.com/local--files/anthology-2023-hub/temperance.png
+|url=http://scp-zh-tr.wikidot.com/wanderers:temperance
+]]
+
+[[include fragment:card-slot
+|status= |pre-flipped=
+|author=lzhoudidion - 塔
+|art= https://scp-wiki.wdfiles.com/local--files/anthology-2023-hub/tower.png
+|url=http://scp-zh-tr.wikidot.com/wanderers:no-right-to-remain-silent-the-tower
+]]
+
+[[include fragment:card-slot
+|status= |pre-flipped=
+|author=Maxyfran73 - 寶劍王牌
+|art= https://scp-wiki.wdfiles.com/local--files/anthology-2023-hub/tizona.png
+|url=http://scp-zh-tr.wikidot.com/scp-7562
+]]
+
+[[include fragment:card-slot
+|status= |pre-flipped=
+|author=LAN 2D - 聖杯九
+|art= https://scp-wiki.wdfiles.com/local--files/anthology-2023-hub/wherearethecups.png
+|url=http://scp-zh-tr.wikidot.com/wanderers:walled-off-nine-of-cups
+]]
+
+[[include fragment:card-slot
+|status= |pre-flipped=yes
+|author=meltedbee - 隱者
+|art= https://scp-wiki.wdfiles.com/local--files/anthology-2023-hub/hermit.png
+|url=http://scp-zh-tr.wikidot.com/wanderers:the-hermit
+]]
+ 
+[[include fragment:card-slot
+|status= |pre-flipped=yes
+|author=StrangerSwing - 戰車
+|art= https://scp-wiki.wdfiles.com/local--files/anthology-2023-hub/card7-s.png
+|url=http://scp-zh-tr.wikidot.com/wanderers:the-chariot
+]]
+ 
+[[include fragment:card-slot
+|status |pre-flipped=
+|author=LordXVNV & Prismal - 寶劍騎士
+|art= https://scp-wiki.wdfiles.com/local--files/anthology-2023-hub/knightofswords.png
+|url=http://scp-zh-tr.wikidot.com/scp-7375
+]]
+ 
+[[include fragment:card-slot
+|status= |pre-flipped=yes
+|author=Crow-Cat - 聖杯七
+|art= https://scp-wiki.wdfiles.com/local--files/anthology-2023-hub/sevenofcups.png
+|url=http://scp-zh-tr.wikidot.com/scp-7547
+]]
+ 
+[[include fragment:card-slot
+|status= |pre-flipped=
+|author=Lemonsense - 寶劍七
+|art= https://scp-wiki.wdfiles.com/local--files/anthology-2023-hub/sevenswords.png
+|url=http://scp-zh-tr.wikidot.com/wanderers:seven-of-swords
+]]
+ 
+[[include fragment:card-slot
+|status= |pre-flipped=
+|author=ROUNDERHOUSE - 倒吊人
+|art= https://scp-wiki.wdfiles.com/local--files/anthology-2023-hub/thehangedman.png
+|url=http://scp-zh-tr.wikidot.com/wanderers:cataphract-the-hanged-man
+]]
+ 
+[[include fragment:card-slot
+|status= |pre-flipped=
+|author=carolynn w. - 月亮
+|art= https://scp-wiki.wdfiles.com/local--files/anthology-2023-hub/themoon
+|url=http://scp-zh-tr.wikidot.com/wanderers:moon-poem
+]]
+ 
+[[include fragment:card-slot
+|status= |pre-flipped=yes
+|author=Doctor Cimmerian - 寶劍二
+|art= https://scp-wiki.wdfiles.com/local--files/anthology-2023-hub/twoofswords.png
+|url=http://scp-zh-tr.wikidot.com/dr-cimmerian-s-proposal
+]]
+ 
+[[include fragment:card-slot
+|status= |pre-flipped=
+|author=JackalRelated - 惡魔
+|art= https://scp-wiki.wdfiles.com/local--files/anthology-2023-hub/thedevil.png
+|url=http://scp-zh-tr.wikidot.com/aberrant-factor-manual
+]]
+
+[[/div]]
+[[/tab]]
+[[tab 表2的標題]]
+表2的內容。
+[[/tab]]
+[[tab 表3的標題]]
+表3的內容。
+[[/tab]]
+[[/tabview]]
+
+
+
 -----
-[!--
-圖片列表的代碼起點
---]
-
-[[div id="u-newimage" class="portal-content-panel"  style="font-size:200%"]]
-[[iframe https://scp-zhtr.github.io/NewImage scrolling="no" name="SystemCreateImage"]]
+ 
+[[div style="font-size: .75em; text-align: center; margin-block: 1rem;"]]
+徽章與CSS設計：[[*user estrellayoshte]]。卡背設計：[[*user daviiid]]。
 [[/div]]
+ 
+[[include :scp-zh-tr:component:license-box
+|author=EstrellaYoshte, Tyumen
+]]
+> **Filename:** Meteor,_8.5.2016.jpg
+> **Author:** Michael Eberth
+> **License:** Creative Commons Attribution Share-Alike 4.0 International
+> **Source Link:** [https://commons.wikimedia.org/wiki/File:Meteor,_8.5.2016.jpg Wikimedia Commons]
+ 
+> **Filename:** Macaire d’Antioche (trad. de l'arabe par Olga de Lébédew), Histoire de la conversion des Géorgiens au christianisme, Casa editrice italiana, 1905, page 5, ornement.jpg
+> **License:** Public Domain
+> **Source Link:** [https://commons.wikimedia.org/wiki/File:Macaire_d%E2%80%99Antioche_(trad._de_l%27arabe_par_Olga_de_L%C3%A9b%C3%A9dew),_Histoire_de_la_conversion_des_G%C3%A9orgiens_au_christianisme,_Casa_editrice_italiana,_1905,_page_5,_ornement.jpg Wikimedia Commons]
 
-[[module css]]
-#u-newimage .html-block-iframe{
-dislay:block;
-width:100%;
-height:3em !important;
-}
-#u-newimage iframe{
-height:3em !important;
-}
-#u-newimage{
-margin:1em;
-}
-#u-newimage .html-block-iframe::-webkit-scrollbar{
-    display:none !important;
-}
-.portal-content-panel {
-    text-align: center;
-    background-color: #fff;
-    border-radius: 1em;
-    padding: 0.1em;
-    font-weight: 500;
-    box-shadow: inset 0px 0px 3px #E2ADFF, 0px 0px 3px #E2ADFF;
-}
-
-.portal-content-panel p {
-    padding: 0;
-    margin: 0;
-}
-
-.portal-content-panel a {
-    display: block;
-    padding: 1em 0;
-}
-
-.img-licnese-list{
-margin-bottom:32px;
-box-shadow: 1px 1px 5px black;
-}
-
-.img-licnese-list table{
-width:100%
-}
-.img-licnese-list tbody{
-vertical-align: top;
-}
-.img-licnese-list tr td:nth-child(1) img{
-    box-shadow: 1px 1px 5px black;
-}
-.img-licnese-list td{
-padding:1em;
-}
-
-
-.enlarge{
-transition: .25s;
-}
-
-.enlarge:hover{
-transform: scale(2.0);
-transition: .25s;
-transition-delay: .4s;
-z-index: 1000;
-}
-
-.TO_DISPLAY{
-display:initial;
-}
-.TO_HIDE{
-display:none;
-}
-[[/module]]
-[[module Listpages category="image" separate="false"]]
-[[div class="img-licnese-list"]]
-[[table]]
-[[row]]
-[[cell style="width:170px"]]
-[[div class="full-image"]]
-[[<image %%form_raw{image}%% class="enlarge" link="%%form_raw{image}%%" width="160px"]]
-[[/div]]
-[[/cell]]
-[[cell]]
-[[div]]
-++ 著作資訊
-
-[[div_]]
-**圖片標題：** %%title%% （[[[%%fullname%%|查詢]]]）
-[[/div]]
-[[div_ ]]
-**圖片所有人：** %%form_data{owner}%% [[span class=[[#if %%form_raw{owner-wiki}%% | "TO_DISPLAY" | "TO_HIDE" ]]]]（[[*user %%form_raw{owner-wiki}%%]]）[[/span]]
-[[/div]]
-[[div_ class=[[#if %%form_raw{other-license}%% | "TO_HIDE" | "TO_DISPLAY" ]]]]
-**授權方式：** %%form_data{license}%%
-[[/div]]
-[[div_ class=[[#if %%form_raw{other-license}%% | "TO_DISPLAY" | "TO_HIDE" ]]]]
-**授權方式：** %%form_data{other-license}%%
-[[/div]]
-[[div_ class=[[#if %%form_raw{note}%% | "TO_DISPLAY" | "TO_HIDE" ]]]]
-[[div style="border-radius: 10px; border:dashed 1px #444444; background:#F5F5F5; float:center; width:95%; padding:10px; margin: 10px 0"]]
-%%form_data{note}%%
-[[/div]]
-[[/div]]
-@@@@
-[[/div]]
-[[/cell]]
-[[/row]]
-[[row style="border-buttom:solid"]]
-[[cell colspan="2"]]
-++ 引用本圖片時，請將以下內容複製到衍生作品的相關著作資訊中。
-
-[[collapsible show="+++ 展開著作資訊原始碼 +++" hide="+++ 關閉著作資訊原始碼 +++"]]
-[[<]]
-[[div class="code"]]
-圖片標題：%%title%%
-圖片所有人：%%form_data{owner}%% [[span class=[[#if %%form_raw{owner-wiki}%% | "ANY" | "TO_HIDE" ]]]](@@[[*@@user %%form_raw{owner-wiki}%%]])[[/span]]
-來源：@@%%form_raw{image}%%@@
-授權證明：@@http://scp-zh-tr.wikidot.com/@@%%fullname%%
-授權方式：[[#if %%form_raw{other-license}%% | %%form_data{other-license}%% | %%form_data{license}%% ]]
-[[/div]]
-[[/<]]
-[[/collapsible]]
-[[/cell]]
-[[/row]]
-[[/table]]
-[[/div]]
-[[/module]]
-
-[!--
-圖片列表的代碼終點
---]
+> **Filename:** ART NOUVEAU 2.svg
+> **Author:** Rodolfo Contreras
+> **License:** Creative Commons Attribution Share-Alike 3.0 Unported
+> **Source Link:** [https://commons.wikimedia.org/wiki/File:ART_NOUVEAU_2.svg Wikimedia Commons]
+ 
+> **Filename:** Morris and Co Acorn embossed velvet 1912.jpg
+> **License:** Public Domain
+> **Source Link:** [https://commons.wikimedia.org/wiki/File:Morris_and_Co_Acorn_embossed_velvet_1912.jpg Wikimedia Commons]
+[[include :scp-zh-tr:component:license-box-end]]

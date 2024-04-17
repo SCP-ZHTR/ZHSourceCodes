@@ -14,7 +14,7 @@
 [[module rate]]
 [[/>]]
 
-這是個由[[*user EstrellaYoshte]]所製作的美觀性外觀主題。. 
+這是個由[[*user EstrellaYoshte]]所製作的美觀性外觀主題。
 
 為了套用該外觀主題，請插入以下代碼：
 
@@ -294,9 +294,10 @@ tt, .page-source, .code {
     background: linear-gradient(to bottom, rgb(var(--space-blackhole)) 5%, rgb(var(--space-blackhole) / 0));
 }
 /* fuck u safari */
-@media not all and (min-resolution:.001dpcm) { @media {
+@media not all andsupports (min-resolution:.001dpcm) { @media { -webkit-hyphens:none) {
 #extrac-div-1 {
-     background-attachment: initial;
+     background-attachment: initialscroll;
+}
 }
 }}
 

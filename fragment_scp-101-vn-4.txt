@@ -1,0 +1,145 @@
+[[include :scp-zh-tr:theme:black-highlighter-theme]]
+[[include :scp-zh-tr:component:toggle-sidebar-bhl]]
+
+[[module CSS]]
+
+.email-example .collapsible-block-folded a.collapsible-block-link {
+    animation: blink 0.8s ease-in-out infinite alternate;
+}
+@keyframes blink {
+    0% { color: transparent; }
+    50%, 100% { color: #b01; }
+}
+.email {border: solid 2px #000000; width: 88%; padding: 1px 15px; margin: 10px; box-shadow: 0 1px 3px rgba(0,0,0,.5)}
+.email-example a.collapsible-block-link {font-weight: bold;}
+.tofrom {margin-left: 10px; margin-top: 5px; padding: 1px 15px; border-left: solid 3px maroon}
+
+[[/module]]
+
+[[include :scp-zh-tr:component:anomaly-class-bar-source
+|item-number=101-vn
+|clearance=3
+|container-class=neutralized
+|secondary-class=
+|secondary-icon=
+|disruption-class=
+|risk-class=
+]]
+
+----
+
+**特別收容措施：** 不需收容。
+
+**描述：** SCP-101-VN是一個人形實體，屬於東亞男性，身高約183公分，身穿一套造型不能辨認的白色服裝，推斷為當地一種靈性儀式的禮服。該項目呈現多處與東方傳統文化中的「鬼魂」相似的特點。
+
+在鉑劍行動後，SCP-101-VN已被無效化。先前對項目的特別收容措施與描述已被封存。
+
+> = **##red|附錄##**
+> = **托馬斯．詹森特工實地探勘日記**
+> ----
+> = **留意：** //各不重要部分已略去。//
+> ----
+> **1920/05/23：** --可惡，我差點就死了，幸好-- 我要把所有事情都說清楚了。半天前，當時我在追蹤判事官，相距也頗近，我想很近了。因為那裡蠻空曠的，只有一個適合隱匿的位置。
+>    
+> 突然一個異常實體攻擊我。它就好像當地一般民眾所說的「魔鬼」。[[footnote]] 推斷與實體101-Y相似。[[/footnote]] 我觀察得不多，因為那時很快就感覺一道寒氣沿著脊背跑上腦，令我當場人事不省。
+>   
+>  當時我醒來，判事官就在身邊了。交涉過程頗為費時，因為這異常使用一種好像越南語的語言，但又頗難聽懂。好像是方言的樣子。[[footnote]] 推斷為中古越語。[[/footnote]] 過一段時間，他突然抓住我的手，並用手指在上面寫字。那是漢字，我應該能夠懂得一點，再用相似的方式答來。[[footnote]] [[span class="ruby"]]筆談[[span class="rt"]]Bút đàm[[/span]][[/span]]：一種曾在古代中國、日本、韓國、朝鮮、越南可見，使用漢字以作溝通的方式。[[/footnote]]
+>    
+> 當我們開始能夠一起對話，異常就顯得極之歡喜。看來像是過了很久，他都沒找到可以溝通的人。當我問到異常的本質和起源，他就寫了一些字在我的手上。也許是人名，我不知道。看來他不想說出自己的起源，我就避開這個話題，去提及那些「魔鬼」實體。判事官再一次寫了先前那些字在我的手上。看來這是一項重要的資料，我就照原文抄下：
+> = 安勇縣
+> 當我開始介紹基金會並提議我們合作（我已有意思欺騙異常以進行收容），判事官就沉思很久，才開始說很長的一段。大意是異常說到自己「生命」已接近盡頭。他將不能在將來幾年繼續自己的使命。之後經過多番努力，我說服過他和基金會接觸。然而，他拒絕接近各處民居密集的地區，因此我得返回報告，讓基金會派研究員過來。
+>  
+> 過了大約一小時，我和判事官致意暫別，並開始轉回集結點。
+> ----
+> **記註：** //日記段落在此結束。依照基金會現時所知，甚有可能為詹森特工已在返回集結點的途中被一個「魔鬼」實體擊殺。其屍體可能已被SCP-101-VN發現並以當地儀式安葬。//
+
+對越南北江省安勇縣領地上的各遺跡搜尋的工作已經隨即展開，由此成為考古地點G198-VN的發掘工作。對各「魔鬼」實體的多種知識在收容SCP-101-VN的過程之中的發展成為了成立心靈單位的基礎。各相關文件已經移交至該單位。
+
+[[footnoteblock]]
+
+@@ @@
+
+-----
+
+@@ @@
+
+[[div style="color: white; display: inline-block; background:#000000; float:top; padding:5px; width:100%"]]
+
+B-130806：
+> 我好奇為甚麼你今天會有那麼多的空閒時間。
+B-075001：
+> 我怎會忙得沒有時間和自己這隊人談話？
+B-130806：
+> 我還是想不明白今天你怎麼突然那麼有耐性。
+B-075001：
+> 好吧，那我就直接問這題。人工智慧應用部門要進行語音預測技術的試驗了。
+B-130806：
+> 我沒搞錯吧？
+B-075001：
+> 雖然你只在心靈部，都還得知道其他部門的基本事項。那設計依靠口形和表情以判斷對象打算說的話。我拿了鉑劍行動最後一份的影像紀錄給他們試驗。
+B-130806：
+> 他說了甚麼？
+B-075001：
+> 「我不……怪您們。」
+|| 1 分鐘內未有回應 ||
+B-130806：
+> 我、我實在很感謝您。
+B-075001：
+> 沒甚麼事情的話，那我失陪了。
+B-130806：
+> 您保重。
+B-075001：
+> 登出。
+|| 再見，Site-75-VN管理者 ||
+B-130806：
+> 列印紙本報告，然後登出。
+|| 再見，心靈單位監督 史蒂夫．阮 ||
+
+[[/div]]
+
+@@ @@
+
+[[div class="email-example"]]
+[[=]]
+[[collapsible show="您有一則新電子郵件！" hide="您有一則新電子郵件！"]]
+
+[[==]]
+[[div class="email"]]
+[[div class="tofrom"]]
+[[f>image https://khoaigarret.wikidot.com/local--files/bougain-media/scpvngray width="75px"]]
+**致：** 史蒂夫．阮 監督
+**自：** Site-75-VN主管聯席
+**主題：** SCP-101-VN文本更新提案回條
+[[/div]]
+------
+SCP-101-VN文本更新提案回條
+狀態： ##green|**已批准**##
+
+//**注意：** 此乃系統自動訊息，請勿回應該電郵。//
+[[>]]
+[[size 90%]] **Site-75-VN主管聯席**
+##989898|[[span class="ruby"]]管促，留貯，保衛[[span class="rt"]]Quản thúc, Lưu trữ, Bảo vệ[[/span]][[/span]] / [[span class="ruby"]]Secure, Contain, Protect[[span class="rt"]]控制，收容，保護[[/span]][[/span]]## [[/size]]
+[[/>]]
+[[/div]]
+[[/==]]
+
+@@ @@
+
++ 鉑劍行動
+
+||~ 管理方 ||~ 執行方 ||~ 物體 ||~ 開始 ||~ 結束 ||~ 結果 ||
+|| Site-75-VN || 101-Keeper隊  || SCP-101-VN || 01/01/2002 || 21/06/2003 || ##green|成功##||
+
+@@ @@
+
+------
+
+[[include :scp-wiki:component:earthworm
+| first=true | last=false | hub=yes
+| next-url=/bao-cao-khai-quat-diem-g198-vn | next-title=考古地點G198-VN挖掘報告
+| hub-url=/don-vi-tam-linh-hub | hub-title=HUB
+]]
+
+[[/collapsible]]
+[[/=]]
+[[/div]]

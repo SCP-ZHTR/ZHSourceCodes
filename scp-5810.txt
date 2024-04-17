@@ -1,0 +1,330 @@
+[[include component:scp-meta-title-hiding css-style=classic]]
+[[include info:start]]
+原文：[https://scp-wiki.wikidot.com/scp-5810 SCP-5810] ⁠罪惡、恐懼、空虛之心
+作者：[[*user Lt Flops]]
+譯者：[[*user Frederica Bernkastel]]
+[[include info:end]]
+
+[[include :scp-wiki:theme:flopstyle]]
+[[include :scp-zh-tr:component:centered-header-sigma-9]]
+
+[[module CSS]]
+/* GENERAL */
+ :root{
+   --lgurl: url(https://scp-wiki.wdfiles.com/local--files/component:pride-highlighter/tg_logo.svg);
+}
+ #page-title{
+     display: none;
+}
+
+/* DIV BLOCKS */
+ .oscp{
+     margin: 1em 0;
+     padding: 0 1em;
+
+     color: hsl(5, 59%, 66%);
+     background-color: hsl(5, 100%, 11%);
+     border: 3px ridge hsl(5, 60%, 44%);
+     font-size: 1.35em;
+}
+ table.mimicUpload{
+     margin: 0 auto;
+}
+ table.mimicUpload td{
+     vertical-align: top;
+     padding: 0.2em 1em;
+}
+ .typeborder{
+     float: right;
+     width: 20em;
+     padding: 2px;
+
+     background-color: hsl(0, 100%, 100%);
+     border: 1px solid hsl(0, 0%, 47%);
+}
+ @media (max-width: 479px){
+     table.mimicUpload td{
+         float: left;
+         padding: 0;
+    }
+}
+[[/module]]
+
+@@ @@
+@@ @@
+@@ @@
+
+[[div class="meta-title"]]
+SCP-5810
+[[/div]]
+
+[[div class="justified"]]
+[[div class="oscp centered"]]
+{{OSCP引導序列啟動}}
+
+{{歡迎，@@_____@@}}
+[[/div]]
+@@ @@
+你猛然驚醒，睜開雙眼，將緊握的拳頭猛地按在胸前。
+
+//……//
+
+你仍舊坐在椅子上。你皺起眉頭，鬆開扣緊手掌的指甲。
+
+//只有我一個人嗎？//
+
+老舊終端上的光線越來越亮，帶來了針扎般的刺痛。
+@@ @@
+> **項目編號：** [[span class="blinkbar"]]|[[/span]]
+@@ @@
+//不是一個人。//
+
+你彎下腰來，試著讓自己看起來小一些──這個習慣能帶給你力量。你調整螢幕設定調低了亮度。
+
+一陣陣不友善的內心獨白在你腦海縈繞。一而再、再而三。當然，那都是你的聲音，他們覺得這......//不完美//。你的突觸發送著訊號，嘗試理解那些雜訊。
+@@ @@
+> **項目編號：** SCP-5810
+@@ @@
+你強迫自己回憶起來。
+@@ @@
+> **收容等級：** Keter（Uncontained）
+@@ @@
+你將舌尖壓入門牙後面熟悉的角落，擠壓著那裡。
+@@ @@
+> **特殊收容措施：** 若發生疑似SCP-5810目擊事件，現已推測出數種臨時規避方法。截至目前為止，最一致的方法是避免繼續思考SCP-5810的存在。只要SCP-5810-A能自我分心，重申任何根深蒂固的信念以壓抑恐懼及不安全感[[span class="blinkbar"]]|[[/span]]
+@@ @@
+你用顫抖的手指將一綹頭髮往左耳後撥去。
+@@ @@
+> SCP-5810現正位於Area-75的研究與居住區。在藉由SCP-5810-A實現真正隔離前，不能將其視為已收容項目。
+@@ @@
+膽汁湧上你的食道。你吞了回去並感到不寒而慄。繼續讀下去。
+@@ @@
+> **描述：** SCP-5810是[[span class="blinkbar"]]|[[/span]]
+@@ @@
+有東西在嘎吱作響。是在──相鄰的工作區域？通往走廊的門口？或者那其實不是嘎吱聲──就在你的背後？
+
+你的血管凍結了。你驚慌失措。你向前跌去，蜷縮在工作站下方。十幾種負面的想法在你腦海中掠過。
+
+@@ @@//你來這裡幹什麼？//
+
+@@  @@//可悲。//
+
+@@    @@//去面對世界吧。//
+
+@@        @@//你他媽本能結束這一切的。//
+
+@@                @@//你為什麼要浪費大家的時間？//
+@@ @@
+@@ @@
+@@ @@
+經歷短暫的相對沉默後，恐慌逐漸平息。只是暖氣空調啟動的聲音罷了，不是嗎？一定是的──你說服了自己。
+
+//起來。//
+@@ @@
+> **描述：** SCP-5810是一個II型無定形實體，目前佔據了研究無人區Area-75。
+@@ @@
+你向附近的窗戶望去，穿過空蕩蕩的房間也看不見遠處的夜色。除了大廳裡的緊急燈光外，整棟大樓的燈都熄滅了。只有你一個人。
+
+//……不，不是的。我不是一個人。//
+
+你保持專注。你吸氣，吸入了一層灰，這幾乎害你窒息。你因此閃爍的目光落在了螢幕上。
+@@ @@
+> 尚未建立對SCP-5810的完整物理描述，所有已知資訊都是憑藉間接與轉述獲得。SCP-5810是尋機捕食者，會在日出與日落之間跟蹤目標獵物長達三至四星期，直到捕食前的最後幾天才會完全顯現。推測這是[[span class="blinkbar"]]|[[/span]]
+@@ @@
+你顫抖著，一股吐息自胸口深處呼出。
+@@ @@
+@@ @@
+你向後靠，試著收集接下來獲得的情報。
+@@ @@
+@@ @@
+終端在閒置期間跑起了模因危害預防檢查。
+@@ @@
+@@ @@
+你在黑暗中多久了？
+@@ @@
+> SCP-5810受害者（歸定為**SCP-5810-A**）總是患有輕度焦慮、偏執想法、罕見/頻繁恐慌症，極少數情況下還會產生幻覺和妄想。
+@@ @@
+你在害怕中多久了？
+@@ @@
+[[div class="blockquote"]]
+尚未釐清這是否是出於
+# 對SCP-5810的反應；
+# 其潛在獵物表現出之一系列行為；
+# 其捕食獵物具有之特性。
+[[/div]]
+@@ @@
+它追捕你多久了？是從……從你首次調來進行長期研究──填補空缺職位的時候。
+
+你想不起自己是怎麼來到這裡的，但你最後的記憶是在自己床上。你連續六個夜晚都躺在那裡，近乎癱瘓而孤身一人。你的襯衫被汗水黏在背上。在過去的每個夜晚，站點看起來一天比一天空曠，最終你只覺得自己是這裡的最後一人了。
+
+今晚，角落的陰影似乎比以往任何時候都更為寬闊。
+@@ @@
+> SCP-5810會利用對其存在的意識感。隨著對該實體理解的不斷深入，SCP-5810-A個體將承受越來越多的恐懼與物理隔絕。
+@@ @@
+你沒法看了。你分散了自己的注意力，打開你的私人存檔，你在尋找第一次感受真正孤獨時捕捉到的影像。
+@@ @@
+@@ @@
+@@ @@
+[[div class="centered"]]
+[[collapsible show="+ 上傳證據" hide=" " hideLocation="bottom"]]
+[[div class="justified"]]
+[[div class="narration"]]
+
+[[table class="mimicUpload"]]
+[[row]]
+[[cell style="width: 50%;"]]
+**從你的電腦選擇欲上傳檔案**
+[[/cell]]
+[[cell]]
+[[span class="typeborder"]]IMG_20190113_201633.jpg[[/span]]
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell style="width: 50%;"]]
+**為他人描述檔案：**
+[[/cell]]
+[[cell]]
+[[span class="typeborder"]]於研究大樓後方攝得。駐站居住區位於畫面左側。SCP-5810正在遠處觀察。[[span style="color: gray;"]]別找它。[[/span]][[/span]]
+[[span style="font-size: 90%; color: gray;"]]最多100字元（尚餘59字元）[[/span]]
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell style="width: 50%;"]]
+**預覽：**
+[[/cell]]
+[[/row]]
+[[/table]]
+
+[[=image https://scp-wiki.wdfiles.com/local--files/scp-5810/IMG_20190113_201633.jpg style="border: solid 1px black; padding: 1px; width: 300px;"]]
+[[/div]]
+@@ @@
+就這樣？這足以證明其存在嗎？你在上傳檔案後繼續寫了下去。
+@@ @@
+> ++ __**發現**__
+>
+> 2019年1月11日，@@_____@@ @@____@@收容專員在將其經歷轉述予[[[containment-psychiatry-orientation|站點精神病學專家]]]Herman Weber博士後，首度推斷出了SCP-5810的存在。
+@@ @@
+你加上了自己知道的東西。沒事的，就是做個紀錄。總要有人這麼做。
+@@ @@
+> 在日後的精神診斷中，@@____@@聲稱該實體已追逐自己六日之久，並在三週前就開始針對其行動。
+@@ @@
+你再也見不著大廳內的燈光了。只剩下螢幕上的光。你告訴自己不是一個人。
+@@ @@
+> @@____@@聲稱，實體在首度出現時穿過了該員宿舍上鎖的門，在該員因恐懼而僵硬的躺著期間，實體觀察了該員長達數個小時。
+@@ @@
+就在你身旁，你發誓那扇門向內開了一點點。
+@@ @@
+> @@____@@申請轉移站點 ── **否決**。
+@@ @@
+你盡量不去看。你目視前方，一眨也不眨。
+@@ @@
+> @@____@@宿舍空無一人，沒有任何跡象顯[[span class="blinkbar"]]|[[/span]]
+@@ @@
+視雪充塞你的視野邊緣。你緊緊地閉上雙眼。
+
+@@ @@
+
+@@  @@ 你一動也不動。
+
+@@ @@
+
+心跳不穩地在你胸腔內跳動。你好希望它也能夠一併消失。
+
+@@ @@
+
+@@    @@ 你什麼也不說。
+
+@@ @@
+
+它在哪裡？爬過地板了。正從角落的有利位置盯著你。就在你身後高聳之處。是、在、哪？
+
+@@ @@
+
+@@        @@ 你不是一個人。
+
+@@ @@
+
+終端的燈光也暗下來了。你驚慌失措。你哭了出來。沒有聲音傳出。恐懼將你束縛起來。千百個想法在你腦海中盤旋。你的牙齒像老虎鉗般緊咬。你變得頭暈目眩。你試圖集中注意力──
+
+為時已晚。你被黑暗吞噬，還想衝出，群星卻填滿了你的雙眼。
+
+在痛苦的窒息感中，你奮力揮動手臂然後
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+= **[[size 120%]][*https://scp-wiki.wdfiles.com/local--files/scp-5810/IMG_20190113_201828.jpg + 檢視證據][[/size]]**
+[[/div]]
+[[/div]]
+[[/collapsible]]
+[[/div]]
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+[[div class="footing"]]
+[[/div]]
+
+[[=]]
+[[module Rate]]
+[[/=]]
+
+[[div class="footer-wikiwalk-nav"]]
+= << [[[SCP-5809]]] | [[[floppyphoenix|Lt Flops]]] | [[[SCP-5811]]] >>
+[[/div]]
+
+[[div class="centered"]]
+[[include :scp-zh-tr:component:license-box
+|author=Lt Flops
+]]
+[[<]]
+=====
+> **Filename:** IMG_20190113_201633.jpg
+> **Name:** {{N/A}}
+> **Author:** [[*user Lt Flops]]
+> **License:** [https://creativecommons.org/licenses/by-sa/3.0/ Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)]
+> **Source Link:** https://scp-wiki.wdfiles.com/local--files/scp-5810/IMG_20190113_201633.jpg
+> **Note:** I took and edited this image.
+
+> **Filename:** IMG_20190113_201828.jpg
+> **Name:** {{N/A}}
+> **Author:** [[*user Lt Flops]]
+> **License:** [https://creativecommons.org/licenses/by-sa/3.0/ Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)]
+> **Source Link:** https://scp-wiki.wdfiles.com/local--files/scp-5810/IMG_20190113_201828.jpg
+> **Note:** I took and edited this image.
+=====
+[[/<]]
+[[include :scp-zh-tr:component:license-box-end]]
+[[/div]]

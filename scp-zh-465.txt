@@ -1,0 +1,357 @@
+[[include :scp-zh-tr:component:toggle-sidebar]]
+[[module css]]
+@import url('https://scp-sandbox-3.wikidot.com/local--files/knave-repository/PeakFont_NaniFont.css');
+
+.a-container{position:relative;visibility: hidden;}
+.a-container span{display:inline-block;position:absolute;top:-1px;width:max-content;left:0;opacity:0; }
+.a-container br{display:none}
+@keyframes animate1 {
+  0% { opacity: 1;pointer-events: auto;cursor: auto; }
+  48% { opacity: 1;pointer-events: auto;cursor: auto; }
+  52% { opacity: 0;pointer-events: none;cursor: default; }
+  100% { opacity: 0;pointer-events: none;cursor: default; }
+}
+@keyframes animate2 {
+  0% { opacity: 0;pointer-events: none;cursor: default; }
+  48% { opacity: 0;pointer-events: none;cursor: default; }
+  52% { opacity: 1;pointer-events: auto;cursor: auto; }
+  100% { opacity: 1;pointer-events: auto;cursor: auto; }
+}
+.a-lv1 { visibility: visible; align:center; animation: animate1 5.0s linear alternate infinite; }
+.a-lv2 { visibility: visible; align:center; animation: animate2 5.0s linear alternate infinite; }
+
+.memo {
+    height: 300px;
+    width: 300px;
+    padding: 4em 1.5em 1.5em;
+    box-sizing: border-box;
+    background-color: #ff8; background-image:url(https://scp-wiki.wdfiles.com/local--files/facilities-complete-list/RAISA.png); background-size: 120px; background-position: top right 20px; background-repeat: no-repeat;
+    font-family: 'The Peak Font  Beta';
+    clip-path: polygon(0% 0%, 0.005448987707495689% 5.9579081535339355%, 0.021914973855018616% 11.915796279907227%, 0.050423502922058105% 17.873638153076172%, 0.09213194996118546% 23.83139991760254%, 0.14834953844547272% 29.789047241210938%, 0.2205647975206375% 35.746517181396484%, 0.3104763627052307% 41.70375061035156%, 0.42003145813941956% 47.660648345947266%, 0.5523688197135925% 53.61708450317383%, 0.709902822971344% 59.572906494140625%, 0.897179126739502% 65.52787017822266%, 1.11937415599823% 71.48163604736328%, 1.3830474615097046% 77.43370056152344%, 1.6979730129241943% 83.38326263427734%, 2.0777337551116943% 89.3290023803711%, 2.54349422454834% 95.26859283447266%, 4.2044677734375% 100%, 10.162376403808594% 100%, 16.120285034179688% 100%, 22.078201293945312% 100%, 28.036109924316406% 100%, 33.9940185546875% 100%, 39.951934814453125% 100%, 45.90985107421875% 100%, 51.86775207519531% 100%, 57.82566833496094% 100%, 63.78358459472656% 100%, 69.74150085449219% 100%, 75.69940185546875% 100%, 81.65731811523438% 100%, 87.615234375% 100%, 93.57313537597656% 100%, 99.53105163574219% 100%, 99.30924987792969% 94.55486297607422%, 98.70513153076172% 88.62777709960938%, 98.21085357666016% 82.69046020507812%, 97.80014038085938% 76.74675750732422%, 97.4557113647461% 70.79885864257812%, 97.1657485961914% 64.84801483154297%, 96.92082214355469% 58.8951530456543%, 96.71448516845703% 52.94081497192383%, 96.54218292236328% 46.985416412353516%, 96.39895629882812% 41.02922821044922%, 96.28175354003906% 35.07246780395508%, 96.18817901611328% 29.11529541015625%, 96.11552429199219% 23.15782356262207%, 96.0618896484375% 17.20016860961914%, 96.02580261230469% 11.242339134216309%, 96.0057601928711% 5.284481048583984%, 95.32659912109375% 0.000008333716323249973%, 89.36868286132812% 0.000007812858711986337%, 83.4107666015625% 0.0000072920006459753495%, 77.45285034179688% 0.000006771143034711713%, 71.49493408203125% 0.0000062502854234480765%, 65.53701782226562% 0.000005729428266931791%, 59.5791015625% 0.000005208570655668154%, 53.6212158203125% 0.000004687715772888623%, 47.663299560546875% 0.000004166858161624987%, 41.70538330078125% 0.0000036460003229876747%, 35.747467041015625% 0.0000031251427117240382%, 29.78955078125% 0.000002604285327834077%, 23.831634521484375% 0.0000020834277165704407%, 17.873748779296875% 0.0000015625727201040718%, 11.91583251953125% 0.0000010417151088404353%, 5.957916259765625% 5.208575544202176e-7%, 0% 0%);
+}
+
+.memo-wrap {
+    height: 300px;
+    width: 300px;
+    position: relative;
+    margin: auto;
+}
+
+.memo-wrap:before {
+    box-shadow: -2px 2px 15px 0 rgb(0 0 0 / 50%);
+    background-color: rgba(0, 0, 0, 0.25);
+    content: '';
+    width: 90%;
+    left: 5px;
+    height: 72%;
+    position: absolute;
+    top: 30%;
+}
+
+.blinkbar {animation: blink 1.5s infinite; letter-spacing: -0.13em;}@keyframes blink{to{opacity: .0;}}
+[[/module]]
+
+[[module CSS]]
+div.terminal{
+    border: 1px solid black;
+    border: solid 3px #BBBBBB;
+    border-radius: 16px;
+    background-color: #131;
+/* 終端機上方的黑影 */
+    background-image:
+        radial-gradient(ellipse 1000% 100% at 50% 90%, transparent, #121);
+    background-position: center;
+    display: block;
+/* 終端機周圍的陰影 */
+    box-shadow: inset 0 0 10em 1em rgba(0,0,0,0.5);
+/* 避免掃描線產生一個滾輪 */
+    overflow:hidden;
+}
+div.terminal blockquote {
+    background-color: black;
+    border: double 3px #80FF80
+}
+div.scanline{
+    margin-top: -40%;
+    width: 100%;
+    height: 60px;
+    position: relative;
+    pointer-events: none;
+/* Safari 4.0 - 8.0 */
+    -webkit-animation: scan 12s linear 0s infinite; /* 你可能會想修改這裡，如果橫條移動的太快了，你可以加個5秒。 */
+    animation: scan 12s linear 0s infinite; /* 同上 */
+    background: linear-gradient(to bottom, rgba(56, 112, 82,0), rgba(56, 112, 82,0.1)) !important;
+}
+
+div.text{
+    color: rgba(128,255,128,0.8);
+    padding-left: 1.5em;
+    padding-right: 1.5em;
+    padding-top: 40%;
+    font-family: monospace;
+    font-size: 1.2em;
+    }
+
+/* Safari 4.0 - 8.0 */
+@-webkit-keyframes scan{
+    from{ transform: translateY(-10%);}
+    to{  transform: translateY(5000%);} /* 根據你所要的終端機長度，你可能需要調整這裡的數值。如果掃描線走到一半就停了，請增大第二個數值。*/
+}
+
+@keyframes scan{
+    from{ transform: translateY(-10%);}
+    to{  transform: translateY(5000%);} /* 同上。*/
+}
+
+div.text a {
+    color: #90EE90;
+    text-decoration: none;
+    background: transparent;
+}
+div.text a.newpage {
+    color: #90EE90;
+    text-decoration: none;
+    background: transparent;
+}
+div.text a:hover {
+    color: #131;
+    text-decoration: underline;
+    background-color: #80FF80;
+    padding: 1px;
+}
+div.text a:hover::before{
+content: "> ";
+}
+[[/module]]
+[[module css]]
+.danke {
+    padding: 5px;
+    margin:5px;
+    font-family: monospace;
+    font-size: 0.9em; 
+}
+
+.agent {
+    background-color:#002200;
+    border: 3px solid #55AA55;
+    color: #77CC77;
+}
+
+.site {
+    background-color:#222200;
+    border: 3px solid #AAAA55;
+    color: #DDDD77;
+}
+[[/module]]
+[[include credit:start]]
+= [[span class="a-container"]]Zététique／Zetetics _
+[[span class="a-lv1" style="text-align:center;"]]//**[*https://en.wikipedia.org/wiki/Z%C3%A9t%C3%A9tique Zététique]** (/ze.te.tik/)//[[/span]] _
+[[span class="a-lv2" style="text-align:center;"]]//**[*https://www.youtube.com/watch?v=XzYJ61EC9XI&t=20s Zetetics]** (/zə.ˈtɛt.ɪks/)//[[/span]] _
+[[/span]]
+[[span class="a-container"]]【名】應用科學方法解釋觀察現象的作為。
+[[span class="a-lv1"]]//【名】應用科學方法檢驗超自然宣稱的作為。//[[/span]]
+[[span class="a-lv2"]]//【名】對觀察提出不衝突以往結論的解釋。//[[/span]]
+[[/span]]
+[[span class="a-container"]]測者得救。測者得死。
+[[span class="a-lv1"]]//　　——測者得救。//[[/span]]
+[[span class="a-lv2"]]//　　——測者得死。//[[/span]]
+[[/span]]
+----
+**著者：** [[*user edward-knave]]（[[[edward-knave|作者頁面]]]）
+[[span class="a-container"]]**篇名：** SCP-ZH-465 - 測者得救／測者得死
+[[span class="a-lv1"]]**篇名：** SCP-ZH-465 - Zététique[[/span]]
+[[span class="a-lv2"]]**篇名：** SCP-ZH-465 - Zetetics[[/span]]
+[[/span]]
+**備註：** 繁中分部[[[wishing-to-do-well|人類紀元12024年冬之陣「欲善其事」]]]預定投稿，主題為「黃姓線人」「工具」「武器」。
+[[include credit:end]]
+
+[[include :scp-zh-tr:component:anomaly-class-bar-source
+|item-number= ZH-465
+|clearance= 5
+|container-class=esoteric
+|secondary-class=tiamat
+|secondary-icon= http://scp-wiki.wikidot.com/local--files/component:anomaly-class-bar/tiamat-icon.svg
+|disruption-class=ekhi
+|risk-class=謹慎
+]]
+----
+[[include component:image-block name=https://live.staticflickr.com/5098/5416825206_29aa070a38_o_d.jpg|caption= 據傳屬於黃憶賦的暗投裝置。基金會由此回收關於SCP-ZH-465的資料。]]
+**項目編號：** SCP-ZH-465
+
+**項目等級：** Tiamat
+
+**特殊收容措施：** 從目前統整所得資料，SCP-ZH-465已確認對人類理念圈與國際地緣政治造成了深遠的影響。基金會已經無法在不啟動忽怠協定等修改全人類意識的措施之情況下，逆轉SCP-ZH-465的效應。在作好主動打破帷幕並正式瓦解該項目效應的準備之前，基金會應繼續運用其在帷幕以外製造並散播資訊的能力抵抗SCP-ZH-465對常態社會的持續入侵。
+
+* **__2020/7/1更新：__** 鑒於SCP-ZH-465開始加速活動，基金會的敘事戰術站點已進入全面警戒狀態。
+
+**描述：** SCP-ZH-465是一種引致另類敘事[[footnote]]定義為出於各種原因（例如利益衝突）而被人為編造並刻意散播的敘事，通常來自對事實（原生敘事）的另類詮釋，但結論會與事實有根本衝突。常態社會俗稱為「羅生門（藪の中）」的情境即多數屬於原生與另類敘事之間的衝突。[[/footnote]]形成的本徵兵器[[footnote]]定義為無法以現存所有兵器或其組合再現原理的新型兵器。[[/footnote]]，若配合散播該敘事的宣傳策略使用，則有一定機率導致該另類敘事成為現實，或至少在受影響者所在的敘事成為現實。該項目首次由一名在戰間期開始活動的諜報者黃開陽得出系統性的描述，然而基金會至今未能發現該項目實物存在（若有）。
+
+**__特殊應用實例摘錄__**
+
+**注意：** 基金會從線報整理所得的應用實例泰半以政治操作為主要目標，且已成為各主要政體相互攻擊的常態趨勢，該等應用亦未有因充分持續而導致帷幕破裂之情形，故未將國際政體的純政治應用實例逐次列入該表。另外，鑒於紀錄者對各實例的用詞不完全一致，基金會已在整理過程中將各實例統一至現代用詞以及固定格式。
+
+[[div class="blockquote"]]
+= **__應用實例__**
+**應用者：** [*https://en.wikipedia.org/wiki/Samuel_Rowbotham Samuel Birley Rowbotham]
+**應用對象：** 大地之形狀。
+**目標敘事：** 以《天文測惕——大地非球》（//[*https://archive.org/details/zeteticastronom00rowbgoog/mode/2up Zetetic Astronomy: Earth Not a Globe]//）為主的描述，主張地球為一個以北極為中心、並以冰牆圍繞的大圓盤。
+**應用結果：** **失敗**——隨後的大地測量未能證實地球的形狀改變。
+**統整者註：** 推定有宗教動機，以地平說符合《聖經》的敘事。
+@@ @@
+**統整者：** 黃開陽
+----
+**基金會註：** 另類敘事可能已經成功確立，但已被關注組織「藍寶石」使用伊斯蘭文物予以逆轉，詳見[*https://scp-int.wikidot.com/scp-281-fr 基金會法語分部資料庫記載]。自二十一世紀初，已有一小撮的現代地平論社群持續活動至今。
+[[/div]]
+
+[[div class="blockquote"]]
+= **__應用實例__**
+**應用者：** 美國眾議院反美活動委員會
+**應用對象：** 約瑟夫．戈培爾。
+**目標敘事：** 納粹德國利用的宣傳策略由約瑟夫．戈培爾發揚光大，並藉由演說發表。
+**應用結果：** **成功**——以[*https://en.wikiquote.org/wiki/Big_lie 大謊言]的持續宣告覆蓋大眾原有認知的心理效應以戈培爾為名。
+**統整者註：** 納粹德國曾經在阿道夫．希特勒的授意之下，使用同樣手法製造各種有利於其政權存續的敘事，但是在覆滅之後，後繼政體扭轉其影響的工作隨即全速展開。
+@@ @@
+**統整者：** 黃四德
+----
+**基金會註：** 最早提及該敘事的文件為《關於共產主義諸面相之著作集》（//[*http://books.google.com/books?id=iLAnAQAAMAAJ&q=%22If+you+repeat+a+lie+often+enough,+people+will+believe+it.%22&dq=%22If+you+repeat+a+lie+often+enough,+people+will+believe+it.%22&hl=en&sa=X&ei=U4gPUvObG4qMyQHlhYAw&ved=0CGQQ6AEwCQ Publications Relating to Various Aspects of Communism]//），刊載於1946年。然而，該敘事並非前述著作的主眼，故推斷是次應用有試驗該項目功能的性質。
+[[/div]]
+
+[[div class="blockquote"]]
+= **__應用實例__**
+**應用者：** 約瑟夫．史達林
+**應用對象：** 蘇維埃社會主義共和國聯盟之歷史。
+**目標敘事：** 特定異議人物及其影響從不存在。列舉如下。
+@@ @@
+　　**[列表已省略]**
+@@ @@
+**應用結果：** --**成功**——各目標人物在歷史紀錄及相關媒體不復存在。-- **實質失敗**——在大衛．金等藝術工作者的調查之下，部分人物的歷史紀錄已成功還原。
+**統整者註：** 大衛．金等人為逆轉目標敘事而整理所得資料的工作至今仍然繼續。
+@@ @@
+**統整者：** 黃憶賦
+----
+**基金會註：** 因為此乃首次有系統使用該異常模擬逆模因效應的實例，即使是次實例具有政治及權力鬥爭之動機，仍納入該列表。在統整者最後一次活動過後，實例條目提及的大衛．金已將資料還原的成果整理成藝術專著《人民委員的消失》（//[*https://en.wikipedia.org/wiki/The_Commissar_Vanishes The Commissar Vanishes]//）。
+[[/div]]
+
+[[div class="blockquote"]]
+= **__應用實例__**
+**應用者：** 山達基教
+**應用對象：** 美國政府。
+**目標敘事：** 山達基教針對離教者及反對者的違法活動紀錄不存在，因此對有關人等一切的懲罰與攻擊**完全合法**。
+**應用結果：** **失敗**——在宣傳武器[[footnote]]統整者對SCP-ZH-465的稱呼。[[/footnote]]正式應用之前被美國政府人員揭露，東窗事發。此外亦有另外的行動被美國政府揭露[[footnote]]應指「發狂行動」（Operation Freakout），乃透過持續騷擾及提告異議者的手段摧毀其影響力及精神健康，進而使其被監禁於精神病院或監獄的行動計劃。[[/footnote]]。
+**統整者註：** 無
+@@ @@
+**統整者：** 黃夢雨
+----
+**基金會註：** 是次應用推斷即為常態社會所知的「白雪行動」（[*https://en.wikipedia.org/wiki/Operation_Snow_White Operation Snow White]）。此乃第二次世界大戰之後，首次有非政府組織有系統使用該異常的實例，故納入該列表。是次實例目標牽涉針對逆模因及官僚危害之模擬，即使當事各方對該等異常概念未呈現任何認知。
+[[/div]]
+
+[[div class="blockquote"]]
+= **__應用實例__**
+**應用者：** [調查中]
+**應用對象：** 納爾遜．曼德拉。
+**目標敘事：** 納爾遜．曼德拉在1980年代死於獄中。
+**應用結果：** **成功**——納爾遜．曼德拉被傳出在波爾斯穆爾監獄死於肺結核。
+**統整者註：** 無
+@@ @@
+**統整者：** 黃雙全
+----
+**基金會註：** 該敘事於2010年代起才在常態社會出現並擴張，但仍然可以由統整者在冷戰結束前記錄，推斷該異常具有因果逆行特性，且已經流入民間，被民眾意外觸發。然而，應用對象後來出獄並成為南非總統、最終在2013年12月5日因腎臟感染病逝家中的紀錄亦同時存在，意味著另類敘事未能完整覆蓋原有敘事。
+[[/div]]
+
+[[div class="blockquote"]]
+= **__應用實例__**
+**應用者：** 發現研究所
+**應用對象：** 宇宙、地球及其生物之起源。
+**目標敘事：** 神以七日創造宇宙，如同《創世紀》第一章所述。物種起源應為[*https://en.wikipedia.org/wiki/Creation_science 創造論科學]，而非查爾斯．達爾文的生物演化論。
+**應用結果：** **待執行**
+**統整者註：** 敘事建立過程仍在進行中。
+@@ @@
+**統整者：** 黃道顯
+----
+**基金會註：** 發現研究所編寫的《[*https://en.wikipedia.org/wiki/Wedge_strategy 楔子文書]》被反對者揭露，成書時，統整者已停止情報活動。該文書為建立上述另類敘事的作戰計劃文件，以扭轉世俗教育對國家風氣的百年影響，將美國改造成為政教合一的基督教國家為最終目標。就基金會所知，該組織之宣傳工作持續進行至今，但仍未見SCP-ZH-465正式應用的跡象，推斷在作戰文件被揭露後遭受顯著挫敗。
+[[/div]]
+
+此後，基金會在2010年代中葉發現SCP-ZH-465有重新加速活動的跡象，至2020年代開始進入可以自我持續的連續增長狀態，尤以在國際地緣政治場域為甚，惟目前未見有顯著的現實扭曲由該項目產生。估計在該時間或以前，該項目對人類心智的影響已經滲入常態民眾的生活層面，並各自體現於個體所自行接納的矛盾敘事，以及被常態社會的學者命名為「[https://en.wikipedia.org/wiki/Rashomon_effect 羅生門效應]」的敘事現象。
+
+[[footnoteblock]]
+----
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+[[div class="memo-wrap"]]
+[[div class="memo" style="font-size:1em;"]]
+ZH-465對策構想：
+☆辨識令人易於接受另類敘事的風險因子
+☆鼓勵常態歷史學界重審人物紀錄之研究
+☆常態社會轉型正義之鼓勵施行
+☆針對常態社會轉型正義之評估
+☆鼓勵常態社會媒體識讀、獨立及批判思考之教育
+[[/div]]
+[[/div]]
+@@ @@
+----
+@@ @@
+[[div class="terminal"]]
+[[div class="scanline"]]
+[[/div]]
+[[div class="text" style="display: flex; justify-content: center; align-items: center;"]]
+[[=]]
+[[<]]
+{{>顯示文件>Ref/Noos/Deicidium_Brief_TactTheo_2.txt}}
+[[/<]]
+[[div class="danke site"]]
+[[<]]
+| 弒神計劃導引簡介摘錄（戰術神學部方）
+| 作者： 約翰．布萊克博士，戰術神學部
+| 相關文件： [*http://scp-zh-tr.wikidot.com/scp-6659 SCP-6659]
+| 備註： 經過RAISA-ZH文件翻譯科劉善俠研究員於2023/12/12循「地下室協定」進行英語對繁體中文翻譯
+----
+「崇拜」這個觀念並不限於我們通常視為神性實體的存在。我們的現代社會將當代生活的每一面相都提升到超過它固有的價值與手段以外：民主、家庭、資本主義，每一個這樣子的概念定義了我們與世界之間的關係。這些概念都是流動的，它們會因應個體思想而更迭、流變，這些思想從他們的信念與集體意識的局部而取得資料，隨著文化經年累月的轉變，發展出新的形態。
+
+而這樣的概念跟神性實體的差別又在哪裡？我們會認為那些差別就在這些概念本身不是活躍的，除非得到施行並反饋到人類之上，而不是雙向互動的。只不過，最近的發現指出這假設並不正確。我們開始發現這些概念是會回應的：它們會以我們仍未完全了解的方式影響我們。這可能是關於惡意的議題，那個概念實體會不會想加害於我們，並改變我們對世界的理解？但儘管如此，那分野仍然是模糊的——一個新的政治理論、或是與自然的關係、或是革命性的科技，難道就不會有可能跨越這條界線了嗎？君不見世界已然隨著以前被認定為非異常的過程與影響而改變移轉？
+[[/<]]
+[[/div]]
+[[<]]
+{{>開啟列表>SCP-ZH-465應用實例>新增條目}}
+
+> = {{系統提示：黑月是否嚎叫？}}
+
+{{>一部分是的同時，另一部分不是。}}
+
+> = {{系統提示：驗證已通過。}}
+[[/<]]
+__{{SCP-ZH-465應用實例提案}}__
+
+[[<]]
+{{應用者： [調查中]}}
+
+{{應用對象： SCP基金會。}}
+
+{{目標敘事： SCP-ZH-465是一種引致另類敘事形成的本徵武器，若配合散播該敘事的宣傳策略使用，則有一定機率導致該另類敘事成為現實，或至少在受影響者所在的敘事成為現實。該項目從十九世紀末起至今被各個政體及組織持續應用，導致了人類理念圈的模因競爭加速激化，使得基金會被誤導至將該項目認定為人類集體思想面對特定事實詮釋的自然反應，由隨之而生的崇拜與依附等情緒導致的自然現象，並誤認該項目已「解明」。}}
+
+{{應用結果： 成功——基金會摒棄了對SCP-ZH-465-EX的自然解釋，SCP-ZH-465-EX之「已解明」狀態解除，並已重新歸檔為SCP-ZH-465。}}
+
+{{統整者註： Note-to-self: You are not immune to propaganda.}}
+
+{{統整者： 真紀真博士，RAISA-ZH副主任（自動輸入）}}
+
+{{是否確認送出（y/n）？ [[span class="blinkbar"]][][[/span]]}}
+[[/<]]
+[[/=]]
+[[/div]]
+[[/div]]
+----
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+【SCP-ZH系列一】
+<< [[[SCP-ZH-464]]] | SCP-ZH-465 | [[[SCP-ZH-466]]] >>
+[[/=]]
+[[/div]]
+[[include :scp-zh-tr:component:license-box
+|lang=ZH]]
+> **檔案名稱：** “Dead” Drop Spike
+> **圖像作者：** 美國中央情報局
+> **圖像授權：** 公有領域
+> **圖源連結：** https://www.flickr.com/photos/ciagov/5416825206
+[[include :scp-zh-tr:component:license-box-end]]

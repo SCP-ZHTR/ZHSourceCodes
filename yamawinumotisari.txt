@@ -1,0 +1,221 @@
+[[include credit:start]]
+**原著：** [[*user wavekey]]
+**原著年：** 2023
+**譯者：** [[*user edward-knave]]
+**原題：** やまゐぬ もちさられた はなし
+**譯題：** 豺犬遇挾譚
+**原文：** http://scp-jp.wikidot.com/yamawinumotisari
+
+**譯註：** 日語分部X競賽投稿，採用主題為「日本」，牽涉概念為「伊呂波歌」。原文經過[[[SCP-3168-JP|]]]作者[[*user solvex]]評稿。
+此處翻譯用明代韻書《[https://zh.wikisource.org/zh-hant/%E9%9F%BB%E7%95%A7%E6%98%93%E9%80%9A 韻畧易通]》所列聲母韻部各二十，以此代替伊呂波歌，逐段滿足遍歷條件。詳見[http://scp-zh-tr.wikidot.com/forum/t-16738878#post-6440593 譯者言]。
+[[include credit:end]]
+
+[[module CSS]]
+.email {float: center; border: solid 2px #000000; width: 88%; padding: 1px 15px; margin: 10px 10px 10px 10px; box-shadow: 0 1px 3px rgba(0,0,0,.5)} a.collapsible-block-link { font-weight: bold; }
+.tofrom {margin-left: 10px; margin-top: 5px; padding: 1px 15px; border-left: solid 3px maroon}
+[[/module]]
+[[module ListPages offset="@URL|0" range="."]]
+%%content{2}%%
+[[/module]]
+[[module ListPages limit="@URL|0" range="." urlAttrPrefix="page2"]]
+%%content{3}%%
+[[/module]]
+[[module ListPages limit="@URL|0" range="." urlAttrPrefix="page3"]]
+%%content{4}%%
+[[/module]]
+[!--
+====
+
+@@ @@
+渠毅然破欄
+拿向[[[scp-3168-jp|茲目]]]　奔閃
+「停　毋聒譟　且枕」覆豺眈
+@@ @@
+----
+
+[[div class="email"]]
+[[div class="tofrom"]]
+台鑒
+@@ @@
+行
+[[/div]]
+奪犬叵忘借論御彼之婦
+
+從繞攝賃酬散碼
+@@ @@
+----
+@@ @@
+孤女談犬至睡　喚[http://scp-jp.wikidot.com/system:page-tags/tag/%E6%97%A5%E5%A5%89%E4%B8%80%E6%97%8F 日奉白楊]
+
+晚排尋走貌
+且躲　獵差
+[[/div]]
+
+----
+@@ @@
+[[[task-forces|添遣班]]]伺婦來挫
+庶借膽壯下
+抄入蟠扭隱目微徑
+@@ @@
+----
+@@ @@
+婦女涵欽魄
+催眠山狗載箱拖老車
+勇跋耳聞蹅點
+@@ @@
+----
+@@ @@
+斯猖曷如
+帶過十條犬
+並納矛尖
+
+　**尾：** [http://scp-zh-tr.wikidot.com/yamawinumotisari/offset/1/page2_limit/1 附錄]判因
+　　 　 且㪥
+@@ @@
+----
+@@ @@
+娘囑野狗
+「濫襲庶
+伐倒屠殲而叵問」
+
+並攜眠豺跨竄
+@@ @@
+----
+@@ @@
+查捕帶犬女者
+逢山狗屏
+盡嗑骴髓
+癱臥淋染茅芒
+@@ @@
+----
+@@ @@
+彼處
+有娘入來
+「停　趴伏」适牒挫
+雜毛犬悉喝止無赦
+@@ @@
+----
+@@ @@
+再判「閃」「毋惰」那詞
+郊犬且還臨榻處
+@@ @@
+@@ @@
+@@ @@
+日奉白楊皺眉
+----
+食膚浴血殺
+致豺狗如令
+@@ @@
+@@ @@
+@@ @@
+「那姐」密判侵
+罔怯表妥憺
+----
+念犬「罔照『攻』」鬥濫法
+豺遂怕　停　竄
+@@ @@
+@@ @@
+「甚麼」
+ 
+「予[http://scp-jp.wikidot.com/system:page-tags/tag/%E6%97%A5%E5%A5%89%E4%B8%80%E6%97%8F 忽布]」
+ 
+「喏　姊」
+@@ @@
+----
+@@ @@
+姊
+馴犬尤熟
+陷隊兵眺檢　賃務
+
+「詐瞞蠆
+且攘返破慮」
+@@ @@
+----
+@@ @@
+「盤纏空
+罪犯[http://scp-jp.wikidot.com/system:page-tags/tag/%E6%9C%89%E6%9D%91%E7%B5%84 有村]照
+屢躡躲
+倘咸嗇
+而罵『急卸』無憊
+----
+我既深查算
+偷爾等無險
+奉渠吝者作賣
+辦納錢票
+----
+有村徒恣邪
+介儂　罔染亂」
+@@ @@
+@@ @@
+「卿顯
+ 
+叵恕」
+@@ @@
+@@ @@
+朝彼覓打
+返站
+@@ @@
+----
+@@ @@
+勞挫憊犬
+「喏　濃睡　㰯」聞詞集愉
+匍床瞑
+ 
+掛返站點
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+[[=]]
+完
+[[/=]]
+@@ @@
+@@ @@
+@@ @@
+====
+
+[[module CSS]]
+
+#page-title {
+  display: none;
+}
+
+.fake_title {
+  font-size: 200%;
+  color: #990011;
+  padding: 0 0 0.25em;
+  margin: 0 0 0.6em;
+  border-bottom: 1px solid #bbb;
+  font-weight: normal;
+}
+
+.fake_title p {
+  padding: 0;
+  margin: 0;
+}
+[[/module]]
+
+[[div class="fake_title"]]
+豺犬遇挾譚 附錄
+[[/div]]
+
+
+挾催同時
+側豺集聞
+「喃　跑渡某」唆語發
+惹伴犬量加
+@@ @@
+@@ @@
+@@ @@
+
+====
+--]
+[[div style="display: none;"]]
+[[[scp-3168-jp|]]]
+[[/div]] 
+----
+[[include :scp-zh-tr:component:license-box
+|lang=JP
+|author=wavekey]]
+[[include :scp-zh-tr:component:license-box-end]]

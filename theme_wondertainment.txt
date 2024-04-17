@@ -2,6 +2,7 @@
 @import url('https://fonts.googleapis.com/css?family=Berkshire+Swash');
 @import url('https://fonts.googleapis.com/css?family=Sansita');
 @import url('https://fonts.googleapis.com/css?family=Klee+One:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@300&display=swap');
 
 /*
     Wondertainment Theme
@@ -15,7 +16,7 @@
   
 h1, #page-title {
     color: #780d8e;
-    font-family: 'Berkshire Swash', 'Klee One', cursive;
+    font-family: 'Berkshire Swash', 'Klee One', 'Noto Sans TC', cursive;
     font-weight: normal;
 }
 
@@ -38,7 +39,7 @@ a:visited { color: #680f99; }
 /* BACKGROUND COLOR FONT COLOR */
 body {
     background-color: #fdffd3;
-    font-family: 'Berkshire Swash', 'Klee One', cursive;
+    font-family: 'Berkshire Swash', 'Klee One', 'Noto Sans TC', cursive;
     font-size: 0.90em;
     color: #2e023a;
 }
@@ -112,7 +113,7 @@ div#container-wrap {
 }
  
 #header h2 span::before {
-    content: '要知道你的腦內，是個絕妙的場所';
+    content: '要知道你的腦內，就是最佳的去所';
     color: #fdffd3;
     font-style: italic;
     text-shadow: 1px 1px 1px rgba(0,0,0,.8);}
@@ -306,6 +307,7 @@ div.page-rate-widget-box .rate-points {
 @import url('https://fonts.googleapis.com/css?family=Berkshire+Swash');
 @import url('https://fonts.googleapis.com/css?family=Sansita');
 @import url('https://fonts.googleapis.com/css?family=Klee+One:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@300&display=swap');
 
 /*
     Wondertainment Theme
@@ -319,7 +321,7 @@ div.page-rate-widget-box .rate-points {
   
 h1, #page-title {
     color: #780d8e;
-    font-family: 'Berkshire Swash', 'Klee One', cursive;
+    font-family: 'Berkshire Swash', 'Klee One', 'Noto Sans TC', cursive;
     font-weight: normal;
 }
 
@@ -342,7 +344,7 @@ a:visited { color: #680f99; }
 /* BACKGROUND COLOR FONT COLOR */
 body {
     background-color: #fdffd3;
-    font-family: 'Berkshire Swash', 'Klee One', cursive;
+    font-family: 'Berkshire Swash', 'Klee One', 'Noto Sans TC', cursive;
     font-size: 0.90em;
     color: #2e023a;
 }
@@ -416,7 +418,7 @@ div#container-wrap {
 }
  
 #header h2 span::before {
-    content: '要知道你的腦內，是個絕妙的場所';
+    content: '要知道你的腦內，就是最佳的去所';
     color: #fdffd3;
     font-style: italic;
     text-shadow: 1px 1px 1px rgba(0,0,0,.8);}

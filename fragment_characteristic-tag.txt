@@ -103,6 +103,8 @@
 
 * **[*/system:page-tags/tag/腐蝕性 腐蝕性] (corrosive)** - 標註在擁有腐蝕特性的SCP上。
 
+* **[*/system:page-tags/tag/甲殼動物 甲殼動物] (crustacean)** - 項目是甲殼動物或帶有甲殼動物特性，以及類似於甲殼動物的SCP。可以與"動物"標籤配合使用。
+
 * **[*/system:page-tags/tag/貨幣 貨幣] (currency)** - 標註在項目是貨幣，或與貨幣有關，能影響貨幣以及透過金錢或其他主要用來作交易媒介的對象激活的SCP。
 
 * **[*/system:page-tags/tag/晶體 晶體] (crystalline)** - 標註在項目是晶體或是表現出晶體特性的SCP。
@@ -142,6 +144,8 @@
 * **[*/system:page-tags/tag/火 火] (fire)** - 可以標記在由火組成，及與火有關或者能促使燃燒過程的SCP上。
 
 * **[*/system:page-tags/tag/食物 食物] (food)** - 項目主要作為一種可食用的物體或物質的SCP。
+
+* **[*/system:page-tags/tag/森林 森林] (forest)** - 項目是或會影響森林、樹林等有大量樹木的地點，不論人工或自然產生。
 
 * **[*/system:page-tags/tag/基金會製造 基金會製造] (foundation-made)** - 標記在由SCP基金會本身有意或無意製造出來的SCP上。要特別注意，只有明確是因基金會製作產生的項目才能標記為"基金會製造"。這並不包括因為曝露在大量已收容異常下而在基金會站點中自然形成的現象。
 
@@ -190,6 +194,8 @@
 * **[*/system:page-tags/tag/無形 無形] (intangible)** - 標註在無形的SCP上，但"氣體"不包括在內。
 
 * **[*/system:page-tags/tag/無脊椎動物 無脊椎動物] (invertebrate)** - 項目是[*https://zh.wikipedia.org/wiki/%E6%97%A0%E8%84%8A%E6%A4%8E%E5%8A%A8%E7%89%A9 無脊椎動物]或擁有無脊椎動物特性，以及沒有脊椎的動物SCP。能被更細分支的無脊椎動物標籤取代，像"節肢動物"或"昆蟲"等。
+
+* **[*/system:page-tags/tag/島嶼 島嶼] (island)** - 項目是或會影響島嶼、群島等地點。
 
 * **[*/system:page-tags/tag/飾品 飾品] (jewelry)** - 標註主要於裝飾目的穿戴在身的SCP物品上。可以取代"人造物品"標籤並與"衣物"標籤相衝突。
 

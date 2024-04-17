@@ -1,3 +1,6 @@
-[[div class="preview" style="display: none;"]]
-{$text} @@                                                                                                                                                                                                       @@
+[[div class="preview"]]
+{$text}
 [[/div]]
+[[module CSS]]
+div.preview { display: none; }
+[[/module]]
