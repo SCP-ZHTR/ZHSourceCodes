@@ -1,0 +1,65 @@
+[[include info:start]]
+項目企劃書 2019-319：《都市的擁抱》
+**原文：**[http://fondationscp.wikidot.com/proposition-de-projet-2019-319 Proposition de projet 2019-319 : "Câlin Urbain"]
+**作者：** [[*user Felter Finalis]]
+**英譯版：**[http://scp-int.wikidot.com/proposition-de-projet-2019-319 Project Proposal 2019-319: "Urban Cuddles"]
+**英譯譯者：**[[*user macro_au_micro]]
+**中文譯者：**[[*user feitag]]
+[[include info:end]]
+
+**姓名：**Gilles Perret
+
+**標題：**[[span class="ruby"]]都市的擁抱[[span class="rt"]]//Câlin Urbain//[[/span]][[/span]]又名：[[span class="ruby"]]您現在看得到了嗎？[[span class="rt"]]//Vous La Voyez Maintenant//[[/span]][[/span]][[span class="ruby"]]還是我必須種些窮人下去？[[span class="rt"]]//Ou J’Ai Besoin De Planter Des Pauvres Dessus//?[[/span]][[/span]]
+
+**必須素材：**
+* 大量工業漆 (藍、紅、黃、綠、橙、紫、棕)；
+* 2 袋鵝卵石 (已經持有)；
+* 13 根不同尺寸的長方體金屬棒 (已經持有)；
+* 8 片 160*20*3 cm 的石板 (已經持有)；
+* 3 袋 The Factory™ 生產的自修復混凝土與一台攪拌器；
+* 1 台電流-奇蹟能感應驅動磁場發生器 (已經持有)。
+
+[[include component:image-block name=http://fondationscp.wdfiles.com/local--files/proposition-de-projet-2019-319/mobilier.jpg|caption=我的參考品、我的靈感，隨你稱呼。拍得不是很好，但我當時比較匆忙，而且我不知道要用在什麼上面。不過，終於，我知道了。]]
+
+**概要：**
+
+本作品是反遊民街道家具 (mobilier urbain anti-SDF)，以石板為框圍出長方形花壇，底部倒入混凝土，鋪設鵝卵石，並植入數根朝不同方向延伸、高低不一的上色金屬棒。
+
+作品結構中埋設的電流-奇蹟能感應驅動磁場發生器所產生的磁場將貫穿金屬棒。我調整了設定，使其對任何人類存在作出反應。這種刺激使作品能以類似蛞蝓的動作朝人群移動：首先收縮底座，然後發生器產生磁場與奇蹟場來觸發金屬棒運動以介導底座放鬆。
+
+本作品應設置在市中心、購物中心或其他遊民乃至任何類型的人容易群聚的地點。
+
+**意圖：**
+
+我常常在市中心漫步，就和其他人一樣，有時我會遇見遊民。我並不是一個一直受到命運眷顧的人，所以我能理解他們，我還會不時與他們聊天。然後，市議會開始興建敵意建築來趕跑遊民。
+
+我也許該覺得反感，但我覺得這極其美麗。市議會建造了真正藝術化的花壇，具有簡樸但邪惡的美學。我常常前去造訪，頻率還超過以前我造訪那些現在已被迫離開的遊民。
+
+我最終開始思考：為什麼人們不再對這裡視而不見，直接走過？因為這些東西取代了先前人們寧願無視的事物。我甚至覺得有些人很可能根本沒有意識到這種花壇的真實作用，因為他們打從一開始就看不見原先存在此處的窮苦人。他們將和我一樣，因城市中設立的藝術品而感到愉悅與驚奇。
+
+我感到反感，不是對花壇，而是對人。所以我下定決心，即使人們不明白這些花壇佔據了真正有需要者的空間，我還是要建造同樣佔據人們空間的花壇。一件跟隨人的街道家具，它和原本的空間比較起來顯得多麼壯麗，這讓人們感到不安，因為這座華麗花壇持續提醒他們回憶起一些他們寧願忘掉的不快事物。
+
+就像我。
+@@@@
+@@@@
+@@@@
+@@@@
+> **回應:** 企劃書— //都市的擁抱//
+> 
+> 說真的，棒極了。我喜歡這作品包括觀點在內的一切。我想給你批准，但我和其他人談過，他們都有點遲疑，覺得你的作品可能會讓人受傷。不過別擔心，你會得到你想要的，我保證。
+> 
+> It's all very cool, man.
+> 
+> [[span class="ruby"]]評估人[[span class="rt"]]L’Évaluateur[[/span]][[/span]]
+
+[[include :scp-zh-tr:component:license-box
+|author=Felter Finalis
+|translator=macro_au_micro(英) feitag(中)
+|lang=]]
+=====
+> **Filename:** mobilier.jpg
+> **Author:** Felter Finalis
+> **License:** CC BY-SA 3.0
+> **Source:** [http://fondationscp.wikidot.com/proposition-de-projet-2019-319 Fondation SCP]
+====
+[[include component:license-box-end]]
