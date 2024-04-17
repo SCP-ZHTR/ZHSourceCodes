@@ -1,6 +1,0 @@
-image: 'https://i.imgur.com/vIOio9T.jpg'
-owner: 白月眥
-owner-wiki: moonnotwhite
-license: '0'
-other-license: ''
-note: ''

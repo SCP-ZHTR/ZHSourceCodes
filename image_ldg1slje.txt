@@ -1,6 +1,0 @@
-image: 'https://i.imgur.com/Jfn14I5.jpg'
-owner: 湊有希祐
-owner-wiki: 'minatoyukiyo '
-license: '0'
-other-license: ''
-note: 印象中那次只是要印個圓柱體，但我們依然失敗了

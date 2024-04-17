@@ -1,6 +1,0 @@
-image: 'https://i.imgur.com/N6c44jI.jpg'
-owner: 阿雞
-owner-wiki: 'Jhih '
-license: '0'
-other-license: ''
-note: 自然的瑰寶

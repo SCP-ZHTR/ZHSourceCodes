@@ -1,7 +1,0 @@
-[[include info:start]]
-作者：[[*user Kaze Yang]]
-[[include info:end]]
-
-[[image https://imgur.com/ARkWKvn.png width="600px"]]
--------
-標誌中央的圖案取自「繁」字。

@@ -1,6 +1,0 @@
-image: 'https://i.imgur.com/F9xwX3Y.jpg'
-owner: 'Edward Knave'
-owner-wiki: edward-knave
-license: '0'
-other-license: ''
-note: 地點已遺忘。

@@ -1,1 +1,0 @@
-[[include component:adult-splash slug=oyasumi-site-zh-12]]

@@ -1,3 +1,0 @@
-[[=]]
-[[size 275%]][[span style="font-family: 'alpha_echoregular';"]]{$title}[[/span]][[/size]]
-[[/=]]

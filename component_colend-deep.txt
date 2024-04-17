@@ -1,3 +1,0 @@
-[[/div]][[div [[#if {$nohide} |  | class="colmod-link-end" ]] ]]
-[[div_ class="foldable-list-container"]]
-[[#if {$nohide} |  | [# {$hide}] ]][[/div]][[/div]][[/li]][[/ul]][[/div]]

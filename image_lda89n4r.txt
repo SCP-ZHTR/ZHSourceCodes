@@ -1,6 +1,0 @@
-image: 'https://i.imgur.com/w4JSX4l.jpg'
-owner: 'Jet '
-owner-wiki: Jetttttt
-license: '0'
-other-license: ''
-note: ''

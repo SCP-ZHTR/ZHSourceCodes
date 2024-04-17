@@ -1,6 +1,0 @@
-image: 'https://i.imgur.com/crAtwh3.jpg'
-owner: 柔伊
-owner-wiki: ZoeLin
-license: '0'
-other-license: ''
-note: ''

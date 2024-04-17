@@ -1,6 +1,0 @@
-image: 'https://i.imgur.com/ralgoDb.jpg'
-owner: 'Edward Knave'
-owner-wiki: edward-knave
-license: '0'
-other-license: ''
-note: 建議用於基金會使用「太陽光電發電示範系統（經濟部能源局補助）」說辭進行的黑科技等實驗示意。

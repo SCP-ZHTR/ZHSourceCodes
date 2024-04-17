@@ -1,7 +1,0 @@
-[[include :scp-zh-tr:theme:basalt]]
-
-[[include info:start]]
-作者：[[*user k1s10r0db00ne]]
-[[include info:end]]
-
-[[image https://i.imgur.com/ON6j6F4.jpg]]

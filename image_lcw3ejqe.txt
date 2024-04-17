@@ -1,6 +1,0 @@
-image: 'https://i.imgur.com/eFG6m3X.jpeg'
-owner: ' 天雨'
-owner-wiki: Tianyutianyutian
-license: '0'
-other-license: ''
-note: ''

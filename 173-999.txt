@@ -1,8 +1,0 @@
-[[include info:start]]
-**篇名：** 173 & 999
-**作者：** [[*user LittlePudding]]
-[[include info:end]]
-
-[[include component:image-block name=https://i.imgur.com/8uY7G7M_d.webp?maxwidth=640&shape=thumb&fidelity=medium|caption=SCP-173]]
-
-[[include component:image-block name=https://i.imgur.com/nqXa7WL_d.webp?maxwidth=640&shape=thumb&fidelity=medium|caption=貓咪版SCP-999]]

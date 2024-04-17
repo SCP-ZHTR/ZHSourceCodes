@@ -1,6 +1,0 @@
-image: 'https://imgur.com/rxecYdoh.jpg'
-owner: 夜行性
-owner-wiki: NocturnalT
-license: '0'
-other-license: ''
-note: 圖片1

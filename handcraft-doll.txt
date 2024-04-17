@@ -1,5 +1,0 @@
-[[include info:start]]
-原作者 : [[*user NocturnalT]]
-[[include info:end]]
-
-[[include component:image-block name=http://i.imgur.com/GWyp6ek.jpg|caption=玩偶]]

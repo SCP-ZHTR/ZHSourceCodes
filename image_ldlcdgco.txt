@@ -1,6 +1,0 @@
-image: 'https://i.imgur.com/b5kDq1r.jpg'
-owner: 阿吐
-owner-wiki: vomiter
-license: '0'
-other-license: ''
-note: ''

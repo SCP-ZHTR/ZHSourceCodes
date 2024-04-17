@@ -1,5 +1,0 @@
-url: scp-126
-user: tingtangting
-date-from: '1704038400'
-date-to: '1706716800'
-language: en

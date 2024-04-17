@@ -1,6 +1,0 @@
-image: 'https://i.imgur.com/zbTx1oa.jpg'
-owner: Kai
-owner-wiki: KaiTenno
-license: '0'
-other-license: ''
-note: 5年前拍的

@@ -1,6 +1,0 @@
-image: 'https://imgur.com/Jq4AJMm.jpg'
-owner: joe_fan
-owner-wiki: joefan
-license: '0'
-other-license: ''
-note: ''

@@ -1,3 +1,0 @@
-[[module ListPages category="*" order="random" limit="1" tag="scp"]]
-[[include :snippets:redirect url=%%link%%]]
-[[/module]]

@@ -1,3 +1,0 @@
-[[div class="custom-pic-div image-container arr-{$arr}"]]
-[[image {$img1} width="{$width}" class="css-1-pic" style="display:none;"]][[image {$img0} width="{$width}"]]
-[[/div]]

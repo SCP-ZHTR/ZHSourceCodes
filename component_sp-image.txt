@@ -1,8 +1,0 @@
-+++ {$caption}
-[[collapsible show="+ 展示圖片" hide="- 隱藏圖片"]]
-[[div style="border: 1px solid #000;"]]
-[[div style="height: 100%;"]]
-[[=image {$src} alt="{$caption}" title="{$caption}" width="{$width}"]]
-[[/div]]
-[[/div]]
-[[/collapsible]]

@@ -1,6 +1,0 @@
-image: 'https://i.imgur.com/qi3SR5t.jpg'
-owner: 墨魚ina
-owner-wiki: IC-1623
-license: '0'
-other-license: ''
-note: ''

@@ -1,6 +1,0 @@
-image: 'https://i.imgur.com/CzXfNWf.jpeg'
-owner: 'rejth/雷思 '
-owner-wiki: rejth
-license: '0'
-other-license: ''
-note: ''

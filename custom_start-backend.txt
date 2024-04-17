@@ -1,1 +1,0 @@
-[[module Listpages category="customize" _css="{$css}" created_by="{$name}" urlAttrPrefix="custom" name="@URL"]]

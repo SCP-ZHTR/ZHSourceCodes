@@ -1,6 +1,0 @@
-image: 'https://i.imgur.com/hKHRwMp.jpg'
-owner: 阿雞
-owner-wiki: 'Jhih '
-license: '0'
-other-license: ''
-note: 差點嚇死我

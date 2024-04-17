@@ -1,8 +1,0 @@
-[[module Listpages category="_default" name="{$link}-{$br}"]]
-[[%%content{0}%%module css]]
-#u-top-{$link} + .multibranch-wrapper .{$br}, #u-top-{$link} + .multibranch-wrapper .other-trans-br{
-display:block;
-}
-
-[[%%content{0}%%/module]]
-[[/module]]

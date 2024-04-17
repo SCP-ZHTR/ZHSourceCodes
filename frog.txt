@@ -1,6 +1,0 @@
-[[>]]
-[[module Rate]]
-[[/>]]
-+ 蛙
-[[include component:image-block name=http://scp-pl.wikidot.com/local--files/frog/frog|caption=蛙]]
-蛙

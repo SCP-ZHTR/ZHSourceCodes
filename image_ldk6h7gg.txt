@@ -1,6 +1,0 @@
-image: 'https://i.imgur.com/QStxfR4.jpg'
-owner: 'Edward Knave'
-owner-wiki: edward-knave
-license: '0'
-other-license: ''
-note: 應為九龍皇帝墨寶。

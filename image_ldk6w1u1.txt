@@ -1,6 +1,0 @@
-image: 'https://i.imgur.com/32fTrer.jpg'
-owner: 'Edward Knave'
-owner-wiki: edward-knave
-license: '0'
-other-license: ''
-note: 攝於台中科博館。

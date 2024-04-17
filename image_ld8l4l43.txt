@@ -1,6 +1,0 @@
-image: 'https://i.imgur.com/4NppG45.jpg'
-owner: 阿雞
-owner-wiki: 'Jhih '
-license: '0'
-other-license: ''
-note: 而且還不給停車

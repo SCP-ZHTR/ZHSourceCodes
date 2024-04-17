@@ -1,7 +1,0 @@
-[[include info:start]]
-作者：[[*user Kaze Yang]]
-[[include info:end]]
-
-[[image https://imgur.com/k4kuII1.png width="600px"]]
--------
-若火有名字，那便是[[[http://scp-zh-tr.wikidot.com/wanderers:story-of-jack|JACK]]]。

@@ -1,1 +1,0 @@
-[[module Redirect destination="http://scp-zh-tr.wikidot.com/the-things-dr-bright-is-not-allowed-to-do-at-the-foundation"]]

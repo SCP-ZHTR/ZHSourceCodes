@@ -1,6 +1,0 @@
-image: 'https://i.imgur.com/2pAWqGl.jpg'
-owner: 'Edward Knave'
-owner-wiki: edward-knave
-license: '0'
-other-license: ''
-note: '以四組Mikado Stick組成的Hexastix。'

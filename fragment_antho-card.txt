@@ -1,8 +1,0 @@
-[[div_ class="anthology-card"]]
-[[[{$link}]]]
-+ {$author}
-[[image {$image}]]
-[[div_ class="antho-title"]]
-[[span]]{$letter}[[/span]][[span]]{$title}[[/span]]
-[[/div]]
-[[/div]]

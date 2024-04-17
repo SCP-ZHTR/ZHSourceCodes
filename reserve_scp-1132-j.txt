@@ -1,5 +1,0 @@
-url: SCP-1132-J
-user: NocturnalT
-date-from: '1703520000'
-date-to: '1706198400'
-language: en

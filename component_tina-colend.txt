@@ -1,4 +1,0 @@
-[[include :scp-zh-tr:component:tina-colend-deep
-|nohide={$nohide}|nohide=1
-|hide={$hide}|hide=摺疊頁
-|hidesign={$hidesign}|hidesign=▲]]

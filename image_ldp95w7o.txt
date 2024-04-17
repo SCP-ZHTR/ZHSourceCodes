@@ -1,6 +1,0 @@
-image: 'https://i.imgur.com/hQ4yj0O.jpg'
-owner: 墨魚ina
-owner-wiki: IC-1623
-license: '0'
-other-license: ''
-note: "從大坑四號步道拍攝大坑三號步道\n\n(三號步道不是那個水泥路 是水泥路左手邊的木棧道)"

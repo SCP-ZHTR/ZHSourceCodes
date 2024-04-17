@@ -1,8 +1,0 @@
-[[include :scp-wiki:component:black-highlighter-theme-dev]]
-[[include :scptestwiki:component:rounderformat]]
-
-[[include info:start]]
-作者：[[*user k1s10r0d]]
-[[include info:end]]
-----
-[[image https://imgur.com/yGEUd5L.jpg]]

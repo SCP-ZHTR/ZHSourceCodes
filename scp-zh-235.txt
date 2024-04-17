@@ -1,7 +1,0 @@
-[[include component:adult-splash slug=scp-zh-235]]
-
-[[div class="footer-wikiwalk-nav"]]
-[[=]]
-<< [[[SCP-ZH-234]]] | SCP-ZH-235 | [[[SCP-ZH-236]]] >>
-[[/=]]
-[[/div]]

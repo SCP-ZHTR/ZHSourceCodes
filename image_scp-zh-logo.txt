@@ -1,6 +1,0 @@
-image: 'https://scp-int.wdfiles.com/local--files/main/scp-logo-zh-400.png'
-owner: 咪呀
-owner-wiki: Dr-V-valentine
-license: '0'
-other-license: ''
-note: （示範，不屬於活動可用的照片）

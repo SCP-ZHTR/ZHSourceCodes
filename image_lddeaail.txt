@@ -1,6 +1,0 @@
-image: 'https://i.imgur.com/khD5xID.jpeg'
-owner: 永尊
-owner-wiki: YONGZUN
-license: '0'
-other-license: ''
-note: ''

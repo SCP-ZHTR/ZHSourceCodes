@@ -1,8 +1,0 @@
-[[include info:start]]
-作者 : [[*user Reverberate_a]]，[[*user Danza]]
-
-[[include info:end]]
-
-[[module ListPages category="*" order="random" limit="1" parent="she-lives-in-my-heart"]]
-%%content%%
-[[/module]]

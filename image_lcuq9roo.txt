@@ -1,6 +1,0 @@
-image: 'https://i.imgur.com/mSExtKv.jpg'
-owner: 狗蟻
-owner-wiki: s97169
-license: '0'
-other-license: ''
-note: 老家的鳳凰樹
