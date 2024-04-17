@@ -226,38 +226,6 @@ h1, #page-options-container, .licensebox .collapsible-block-folded a, .page-watc
     visibility: visible;
 }
 
-/* blurb related crap */
-
-.entry .description {
-    display: none;
-    position: absolute;
-    background: black;
-    max-width: calc(100% - 5rem) !important;
-}
-
-.entry .description .preview {
-    margin-left: 0;
-    margin: 0.5rem 1rem;
-}
-
-.entry:is(:hover,:focus-within) .description {
-    display: block;
-    animation-name: desc-bounce;
-    animation-duration: 0.1s;
-}
-
-@keyframes desc-bounce {
-    0% {
-        transform: translateY(0);
-    }
-    50% {
-        transform: translateY(-5px);
-    }
-    100% {
-        transform: translateY(0);
-    }
-}
-
 /* Piece of shit sidebar */
 
 #top-bar div.mobile-top-bar>.open-menu {
@@ -389,253 +357,24 @@ h1, #page-options-container, .licensebox .collapsible-block-folded a, .page-watc
 + 參賽作品：
 
 [[=]]
-恭喜PlaguePJP的作品：[[[SCP-8000 |SCP-8000 - The Seal of Approval]]]贏得SCP-8000競賽！
-
-我們都以你為榮！
-
-感謝參賽的所有成員！
+在投稿開放期間，也就是2024年2月12日，北美東區時間12:01 AM後，參賽作品將出現在這裡。
 [[/=]]
 
-[[module css]]
-.entry-list {
-    display: grid;
-    margin-block: .75rem;
-    padding-inline-start: 1rem;
-}
-
-.entry {
-    display: list-item;
-    padding: .1rem;
-    transition: background-color .175s ease-out;
-}
-.entry:is(:hover,:focus-within) { background-color: rgb(var(--basalt-undertone),.175); }
-
-.entry .title {
-    font-size: 1.125em;
-    font-style: italic;
-}
-.entry .title > p { margin: 0; }
-.entry .title :is(a,span) { font-weight: bold; font-style: normal; }
-
-.description > :not(.preview) { display: none!important; }
-.description > .preview {
-    display: block;
-    padding-block: .125rem;
-    font-size: .875em;
-    text-align: start;
-    margin-inline-start: 1.5rem;
-}
-.preview > p {
-    margin-block: .55em;
-}
-.preview > p:first-child { margin-block-start: .25em; }
-.preview > p:last-child { margin-block-end: .25em; }
-
-.entry-list li {
-font-size: 1.125em;
-}
+[[module ListPages category="_default adult" separate="no" tags="+en-8000 -hub -donotshowupinmodule" perPage="100" order="random"]]
+* [[size 120%]][[span style="font-weight: bold"]]%%title_linked%%[[/span]][[/size]] [[size 105%]]//by// [[span style="font-weight: bold"]]%%created_by%%[[/span]][[/size]]
 [[/module]]
-
-[[div class="entry-list"]]
-# [[[SCP-8000]]] - **The Seal of Approval**（發表者：PlaguePJP，最終評分：427）
-# [[[SCP-8999]]] - **餵食山怪**（發表者：J Dune，最終評分：406）
-# [[[SCP-8001]]] - **世界的邊緣**（發表者：djkaktus，最終評分：392）
-# [[[SCP-8320]]] - **Seven Hundred Million Wizards**（發表者：Raddagher，最終評分：274）
-# [[[SCP-8500]]] - **WITH_LUV_FRM_ADA.zip**（發表者：IronShears和Guaire，最終評分：264）
-# [[[SCP-8140]]] - **Burial Goods**（發表者：Grigori Karpin，最終評分：251）
-# [[[SCP-8002]]] - **Maslov's Fire**（發表者：bigslothonmyface，最終評分：236）
-# [[[SCP-8005]]] - **The Fool**（發表者：daveyoufool，最終評分：218）
-# [[[SCP-8888]]] - **Eight-Ball**（發表者：Billith, Doctor Cimmerian、HarryBlank和Placeholder McD，最終評分：210）
-# [[[SCP-8003]]] - **THE GEARS OF TIME**（發表者：Rounderhouse，最終評分：183）
-# [[[SCP-8008]]] - **歲 月 色 狼**（發表者：LORDXVNV，最終評分：177）
-# [[[SCP-8400]]] - **The Birch Knight and the Game of Three Chestnuts**（發表者：PeppersGhost和Uncle Nicolini，最終評分：161）
-# [[[Oris-Proposal|Ori的提案]]] - **觸摸永恆**（發表者：OriTiefling，最終評分：154）
-# [[[SCP-8799]]] - **A Book of Kings**（發表者：Tufto，最終評分：147）
-# [[[SCP-8333]]] - **心願編織者**（發表者：Zyn，最終評分：137）
-# [[[SCP-8060]]] - **Toontown**（發表者：ratking666和Monkeysky，最終評分：134）
-# [[[SCP-8787]]] - **The Roast Not Taken**（發表者：Ihp，最終評分：128）
-# [[[SCP-8800]]] - **Reception**（發表者：Aftokrator，最終評分：125）
-# [[[SCP-8166]]] - **Eastward of Eden**（發表者：AstersQuill、FlyPurgatorio、sailorenoch，最終評分：125）
-# [[[SCP-8889]]] - **The Wondrous Wedding of William Wallace Wettle**（發表者：LizardWizard，最終評分：124）
-# [[[SCP-8100]]] - **TURTLE TIME**（發表者：Harmacy，最終評分：122）
-# [[[SCP-8765]]] - **Desiderium**（發表者：Yossipossi，最終評分：121）
-# [[[SCP-8666]]] - **Roig's Red Death**（發表者：stormbreath，最終評分：120）
-# [[[SCP-8004]]] - **The Life and Death of Vincent Bohart**（發表者：DodoDevil，最終評分：120）
-# [[[SCP-8007]]] - **THE PYROCLASM PROTOCOL**（發表者：Dino--Draws，最終評分：116）
-# [[[SCP-8817]]] - **To You, The World**（發表者：EstrellaYoshte，最終評分：113）
-# [[[SCP-8006]]] - **Debris on the Tracks**（發表者：TheChunk，最終評分：112）
-# [[[SCP-8009]]] - **Her Red Right Hand Protects Us**（發表者：DrClef，最終評分：111）
-# [[[SCP-8200]]] - **The Phantom Sea**（發表者：MontagueETC，最終評分：105）
-# [[[SCP-8404]]] - **That One Time The Foundation Attempted To Use SIMULACRUM Technology To Contain A Keter-Class Entity In Another World**（發表者：J T K C，最終評分：96）
-# [[[SCP-8120]]] - **Bloodbound**（發表者：Ralliston，最終評分：92）
-# [[[SCP-8998]]] - **Her Owner**（發表者：aismallard，最終評分：91）
-# [[[SCP-8300]]] - **The Farewell, The Frame**（發表者：ThatGuyThatTime，最終評分：89）
-# [[[SCP-8010]]] - **Mom and Dad**（發表者：PoufyPoufson，最終評分：88）
-# [[[SCP-8900]]] - **The Hecatomb**（發表者：Its a Bad Idea，最終評分：87）
-# [[[SCP-8028]]] - **Into The Woods**（發表者：AriadnesThread，最終評分：87）
-# [[[SCP-8600]]] - **The Hall of the Empresses**（發表者：Miss Lapis和PiNKpePpER，最終評分：82）
-# [[[SCP-8118]]] - **everything is fine.**（發表者：Fishish，最終評分：73）
-# [[[SCP-8992]]] - **Body of Evidence**（發表者：Dysadron，最終評分：71）
-# [[[SCP-8457]]] - **That time I , a Foundation Agent, was abducted into another world at war with mine.**（發表者：Guezma，最終評分：71）
-# [[[SCP-8700]]] - **In the Court of the Dragon**（發表者：Dr Balthazar，最終評分：69）
-# [[[SCP-8080]]] - **Eleanor Ellory Goes To Therapy**（發表者：Uncannyon，最終評分：68）
-# [[[SCP-8225]]] - **The House of All Our Gods**（發表者：Djoric，最終評分：63）
-# [[[SCP-8011]]] - **In Flesh, Tasted**（發表者：Ecronak，最終評分：63）
-# [[[SCP-8699]]] - **Everyday I See You Still**（發表者：Trintavon，最終評分：62）
-# [[[SCP-8235]]] - **Magic, Unchained**（發表者：Plilt和Anorrack，最終評分：59）
-# [[[SCP-8012]]] - **The Hero's Journey (Ft. Wigglebert the Great)**（發表者：IndustryStandard和ParallelPotatoes，最終評分：58）
-# [[[SCP-8997]]] - **Infinite Impossibilities**（發表者：TheyCallMeTim，最終評分：58）
-# [[[SCP-8228]]] - **Here's To You, Mrs. Robinson**（發表者：Calibold，最終評分：49）
-# [/scp-8050 VNP-8050] - **One to Rule Them All**（發表者：Damian Thorne、Diogene_s、UNCGriffin和WarriorofChaos，最終評分：48）
-# [[[SCP-8111]]] - **Magic for Liars**（發表者：Felixou，最終評分：47）
-# [[[SCP-8245]]] - **Anywhere, Anytime, You and Me**（發表者：winkwonkboi，最終評分：45）
-# [[[SCP-8996]]] - **We Three Kings (Of What?)**（發表者：Blue Foot，最終評分：43）
-# [[[SCP-8142]]] - **A Passing Chimera**（發表者：Anky swallow，最終評分：43）
-# [[[SCP-8249]]] - **Of Agents, Archons, and Adam of the Transient**（發表者：Jack Ike，最終評分：42）
-# [[[SCP-8682]]] - **Catastromancy**（發表者：faminepulse，最終評分：40）
-# [[[SCP-8995]]] - **Surf's Up**（發表者：Sound Chaser，最終評分：40）
-# [[[SCP-8899]]] - **There is a Tide**（發表者：arthrycymo，最終評分：38）
-# [[[SCP-8777]]] - **Snipping the Light Fantastic**（發表者：humanoid_human，最終評分：38）
-# [[[SCP-8015]]] - **A Fighting Chance**（發表者：FluffyDog00，最終評分：37）
-# [[[SCP-8703]]] - **The Caretaker**（發表者：Kilerpoyo，最終評分：35）
-# [[[SCP-8901]]] - **Colours of Magic**（發表者：Ethagon，最終評分：34）
-# [[[SCP-8880]]] - **Isaac Seder: Son, Warrior, Foe**（發表者：Sonderance，最終評分：33）
-# [[[SCP-8020]]] - **FALSE IDOL**（發表者：CelestialTophat和Anakes，最終評分：33）
-# [[[SCP-8420]]] - **THE WIZARD II (Also Known as Wizard Reborn 2, Swann Fever, Ballad of the Swann Lake, Electric Avenue, the Reckoning)**（發表者：DrowningDutchman、DtheAussie、Rhineriver、TroutMaskReplica和Twibz，最終評分：33）
-# [[[SCP-8023]]] - **Secrets in the Dark and City of the Accursed**（發表者：Utylike，最終評分：31）
-# [[[SCP-8013]]] - **The Dragon is not a Metaphor for Capitalism**（發表者：Mooagain，最終評分：31）
-# [[[SCP-8327]]] - **I Dream Of The Sea**（發表者：TboneBerryhill，最終評分：31）
-# [[[SCP-8280]]] - **Slipping Through The Cracks**（發表者：MasterTman2，最終評分：30）
-# [[[SCP-8016]]] - **Gods You Be**（發表者：Arclund，最終評分：30）
-# [[[SCP-8025]]] - **COSMIC COMMANDMENTS**（發表者：Sinagsikap，最終評分：30）
-# [[[SCP-8451]]] - **To Break the Pots and Sink the Ships**（發表者：basirskipreader，最終評分：29）
-# [[[SCP-8014]]] - **Roma Addenda Est**（發表者：ManyMeats，最終評分：29）
-# [[[SCP-8079]]] - **Rejected Reality**（發表者：Logarithmika，最終評分：28）
-# [[[SCP-8017]]] - **Sentience**（發表者：Dr Leche，最終評分：28）
-# [[[SCP-8778]]] - **The Writing on the Wall**（發表者：swordlover87，最終評分：27）
-# [[[SCP-8282]]] - **You Are Now Entering**（發表者：OliverMemphis，最終評分：26）
-# [[[SCP-8308]]] - **To Bite One's Thumb**（發表者：Ellie3，最終評分：26）
-# [[[SCP-8914]]] - **Our Four Elemental Dragons**（發表者：Luis GM，最終評分：26）
-# [[[SCP-8501]]] - **Truck-Kun**（發表者：Coldsmith，最終評分：26）
-# [[[SCP-8222]]] - **SCP: Panorama**（發表者：Talcite，最終評分：25）
-# [[[SCP-8035]]] - **I Have Seen What The Darkness Does**（發表者：Merehrab，最終評分：25）
-# [[[SCP-8701]]] - **Jackie and Wilson**（發表者：Sushimi，最終評分：24）
-# [[[SCP-8027]]] - **The Lord of the ██████**（發表者：Kothardarastrix，最終評分：23）
-# [[[SCP-8410]]] - **When Dreams Come True**（發表者：XHAWK77X，最終評分：23）
-# [[[SCP-8125]]] - **Narrativic Fragments**（發表者：Dr Moned，最終評分：22）
-# [[[SCP-8018]]] - **While You Were Dreaming I Was Turning The Sky**（發表者：ItsDenali，最終評分：21）
-# [[[SCP-8089]]] - **No one in the world ever gets what they want, and that is Beautiful**（發表者：Mister_Toasty，最終評分：20）
-# [[[SCP-8132]]] - **ViKarious ToMe™**（發表者：Alzin Cdag，最終評分：20）
-# [[[SCP-8181]]] - **The Real World**（發表者：Ampyrsand，最終評分：20）
-# [[[SCP-8444]]] - **I'll Be There With You**（發表者：cubeflix，最終評分：19）
-# [[[SCP-8030]]] - **Our Holy Magic**（發表者：Jakuwoski，最終評分：19）
-# [[[SCP-8945]]] - **One Thousand Temples**（發表者：sledge115，最終評分：18）
-# [[[SCP-8090]]] - **PROFANITY / PROVIDENCE / PURGATORY**（發表者：Roufhous，最終評分：18）
-# [[[SCP-8747]]] - **Rectification**（發表者：Rose the Changeling，最終評分：17）
-# [[[SCP-8994]]] - **"Spellsteal"**（發表者：redredred，最終評分：16）
-# [[[SCP-8484]]] - **Acheron**（發表者：calico_mp3，最終評分：15）
-# [[[SCP-8173]]] - **Ms. Harrier Is Not Anomalous**（發表者：P0rcelain，最終評分：15）
-# [[[SCP-8041]]] - **Supreme Nothing**（發表者：Termiteee，最終評分：14）
-# [[[SCP-8076]]] - **Awan**（發表者：IvanNavi，最終評分：13）
-# [[[SCP-8910]]] - **My Happy Place**（發表者：Some Reference，最終評分：12）
-# [[[SCP-8019]]] - **The Devourer of Wonders**（發表者：Dr Ore、slashannemoo，最終評分：12）
-# [[[SCP-8555]]] - **Kaleidoscope**（發表者：Resolver，最終評分：11）
-# [[[SCP-8021]]] - **Life in a Snapshot**（發表者：Penton，最終評分：10）
-# [[[SCP-8762]]] - **Once Upon A Time...**（發表者：Dr Asteria、SYTYCFanon、GregJChudley、Anonymous、TopDownUnder、MisterFrown和Elunerazim，最終評分：6）
-# [[[SCP-8022]]] - **Build Your Dreams, One Brick at a Time**（發表者：JorgeMtzb，最終評分：5）
-# [[[SCP-8440]]] - **Clear as White**（發表者：Strange Matter，最終評分：5）
-# [[[SCP-8024]]] - **Typhon**（發表者：Baronjoe，最終評分：4）
-# [[[SCP-8192]]] - **Happily Ever After**（發表者：Perdoh，最終評分：4）
-# [[[SCP-8330]]] - **One for the history books**（發表者：Karpfisch，最終評分：4）
-# [[[SCP-8993]]] - **Embody**（發表者：SynthPanda，最終評分：4）
-# [[[SCP-8088]]] - **Still Within Bounds**（發表者：RuraScarlet，最終評分：3）
-# [[[SCP-8099]]] - **Fantasi**（發表者：Nils Severin，最終評分：3）
-# [[[SCP-8082]]] - **The Wild Hunt**（發表者：Nonaggress，最終評分：3）
-# [[[SCP-8722]]] - **Death, Decay, and Ignorance**（發表者：Nostellae，最終評分：2）
-# [[[SCP-8026]]] - **And I'm No Dreamer**（發表者：CowscantgoMoo，最終評分：2）
-# [[[SCP-8108]]] - **Foundation Fantasy League**（發表者：Malvarik1，最終評分：2）
-# [[[SCP-8343]]] - **Slaying the Demiurge**（發表者：Comrade Waldo，最終評分：2）
-# [[[SCP-8101]]] - **The Dream Machine**（發表者：DrYossarian，最終評分：0）
-# [[[SCP-8199]]] - **Dreamcrumbs**（發表者：Sr Bolainas，最終評分：0）
-# [[[SCP-8678]]] - **Ruined Haven**（發表者：ArmenBow，最終評分：-4）
-# [[[SCP-8202]]] - **Of Fire and Ice, War and Loss**（發表者：lilybugg，最終評分：-5）
-# [[[SCP-8121]]] - **Portable Borders**（發表者：andeyebed，最終評分：-9）
-[[/div]]
 
 [[=]]
 [[collapsible show="+ 點這裡讓作品依投稿先後排序 +" hide="- 點這裡收起清單 -"]]
 
-[[module ListPages category="_default adult" separate="no" tags="+en-8000 -hub -中心 -donotshowupinmodule" perPage="100" order="created_at desc"]]
+[[module ListPages category="_default adult" separate="no" tags="+en-8000 -hub -donotshowupinmodule" perPage="100" order="created_at desc"]]
 * [[size 120%]][[span style="font-weight: bold"]]%%title_linked%%[[/span]][[/size]] [[size 105%]]//by// [[span style="font-weight: bold"]]%%created_by%%[[/span]][[/size]]
 [[/module]]
 
 [[/collapsible]]
 [[/=]]
 
-+ 冷知識與獎賞
-
-+++ 競賽負責人獎賞
-
-**最多龍：**[[[SCP-8007]]] - 「THE PYROCLASM PROTOCOL」 發表者：//Dino--Draws//
-**最大的地下城：**[[[SCP-8028]]] - 「Into The Woods」 發表者：//AriadnesThread//
-**去重讀一遍主題[[footnote]]最科幻的作品。[[/footnote]]：**[[[SCP-8800]]] - 「Reception」 發表者：//Aftokrator//
-**最繁複的魔法系統：**[[[SCP-8235]]] - 「Magic, Unchained」 發表者：//Anorrack and Plilt//
-**最像托爾金[[footnote]]人工語言比例最嚴重的文章。[[/footnote]]：**[[[SCP-8225]]] - 「The House of All Our Gods」 發表者：//Djoric//
-**對品味最為冒犯[[footnote]]由合格的道德權威評斷。[[/footnote]]：**[[[SCP-8008]]] - 「歲 月 色 狼」 發表者：//LORDXVNV//
-**最受psychicProgrammer的母親喜愛[[footnote]]？？？[[/footnote]]：**[[[SCP-8320]]] - 「Seven Hundred Million Wizards」 發表者：//Raddagher//
-
-+++ 評分獎賞
-
-**引人熱議[[footnote]]有最多的討論區貼文。[[/footnote]]：**[[[SCP-8000]]] - 「The Seal of Approval」 發表者：//PlaguePJP//
-**最佳評分：[[footnote]]加分對扣分的比值最高。[[/footnote]]：**[[[SCP-8400]]] - 「The Birch Knight and the Game of Three Chestnuts」 發表者：//PeppersGhost// 和 //Uncle Nicolini//
-**我超Meta這篇文章也是[[footnote]]最成功的Meta文章。[[/footnote]]：**[[[SCP-8005]]] - 「The Fool」 發表者：//daveyoufool//
-**脫穎而出[[footnote]]既最成功，同時也是該作者的第一篇文章。[[/footnote]]：**[[[SCP-8777]]] - 「Snipping the Light Fantastic」 發表者：//humanoid_human//
-**無名英雄[[footnote]]總評分數最少，且最佳分數低於+50的文章[[/footnote]]：**[[[SCP-8245]]] - 「Anywhere, Anytime, You and Me」 發表者：//winkwonkboi//
-**最具互動性[[footnote]]最成功的互動性文章。[[/footnote]]：**[[[SCP-8500]]] - 「WTH_LUV_FRM_ADA.zip」 發表者：//IronShears and Guaire//
-**最多媒體[[footnote]]使用音訊和影片的最成功文章。[[/footnote]]：**[[[SCP-8320]]] - 「Seven Hundred Million Wizards」 發表者：//Raddagher//
-**參賽者的選擇[[footnote]]最受到貢獻者喜愛的文章。[[/footnote]]：**[[[SCP-8999]]] - 「餵食山怪」 發表者：//J Dune//
-
-+++ 各等級最佳
-
-**Safe：**[[[SCP-8000]]] - 「The Seal of Approval」 發表者：//PlaguePJP//
-**Euclid：**[[[SCP-8999]]] - 「餵食山怪」 發表者：//J Dune//
-**Keter：**[[[SCP-8320]]] - 「Seven Hundred Million Wizards」 發表者：//Raddagher//
-**Thaumiel：**[[[SCP-8002]]] - 「Maslov's Fire」 發表者：//bigslothonmyface//
-**Neutralized：**[[[SCP-8800]]] - 「Reception」 發表者：//aftokrator//
-**Apollyon：**[[[Oris-Proposal|]]] - 「觸摸永恆」 發表者：//OriTiefling//
-**Archon:：**[[[SCP-8006]]] - 「Debris on the Tracks」 發表者：//TheChunk//
-**Decommissioned：**[[[SCP-8420]]] - 「THE WIZARD II (Also Known as Wizard Reborn 2, Swann Fever, Ballad of the Swann Lake, Electric Avenue, the Reckoning)」 發表者：//DrowningDutchman//、//DtheAussie//、//Rhineriver//、//TroutMaskReplica//和//Twibz//
-
-+++ 冷知識
-
-**最長文章：**[[[SCP-8027]]] - 「The Lord of the ██████」 發表者：//Kothardarastrix// 共 __65,033個字__
-**最短文章：**[[[SCP-8993]]] - 「Embody」 發表者：//SynthPanda_// 共 __159個字__
-**最早發布：**[[[SCP-8002]]] - 「Maslov's Fire」 發表者：//bigslothonmyface//
-**最晚發布：**[[[SCP-8001]]] - 「世界的邊緣」 發表者：//djkaktus//
-**MAST的惡夢[[footnote]]有著最多標籤的文章[[/footnote]]：**[[[SCP-8008]]] - 「歲 月 色 狼」 發表者：//LORDXVNV//
-**無標籤[[footnote]]有著最少標籤的文章[[/footnote]]：**[[[SCP-8026]]] - 「And I'm No Dreamer」 發表者：//CowscantgoMoo// 和 [[[SCP-8010]]] - 「Mom and Dad」 發表者：//PoufyPoufson//
-
-+++ 傑出評分者
-
-[[user senor-peludo]]：122
-[[user maxyfran73]]：112
-[[user stealth000]]：110
-[[user ko-saurusrex]]：108
-[[user oritiefling]]：108
-[[user ethagon]]：106
-[[user space-diamond]]：92
-[[user pabloaxolotl]]：86
-[[user cicada3301fan]]：84
-[[user lightlesslantern]]：82
-
-+++ 特別感謝
-
-**DMFS19站外參與獎：**[[user Dr Shoulder]]和[[user Harmacy]]
-**藝術家獎：**[[user IronShears]]
-
-------
-
-[[collapsible show="+ 收起的規則" hide="- 收起的規則"]]
++ 參賽指示：
 
 **1.** 發佈你的參賽作品到網站上，網址為「{{8000contest<你的用戶名>}}」 ，用你的網站用戶名取代{{<你的用戶名>}}。例如，如果用戶名為TroyL的用戶要發佈參賽作品，它的網址將是{{8000contesttroyl}}。這個頁面必須由你自己建立（或著如果是個合著作品，其中一名合著成員）。
 
@@ -661,7 +400,7 @@ font-size: 1.125em;
 
 * 友善對待彼此。我們不容忍任何沒有運動家精神的行為，並可能會導致你的作品失去參賽資格。
 
-* 排名以總淨票數以降序排列。贏得競賽的獎品就是你的作品將能享有SCP-8000編號。其他參賽者可以依名次選擇新系列裡的其他編號。
+* 排名以總淨票數以降序排列。贏得競賽的獎品就是你的作品將能享有SCP-7000編號。其他參賽者可以依名次選擇新系列裡的其他編號。
 
 * 評分應僅針對文章的內容而定，而不是你認為它應不應該贏得競賽。依照你想讓文章贏得或輸掉競賽的行為得以讓你失去比賽資格。
 
@@ -687,7 +426,6 @@ font-size: 1.125em;
  * 惡意拉攏加分／扣分，不論是你的或任何人的作品都是。
 
 * SCP-8000競賽的負責人是[[*user Modulum]]、[[*user Naepic]]和[[*user WhiteGuard]]。就如上述所說，如果你對競賽有任何疑問，都歡迎聯絡他們或任何一位[[[http://05command.wikidot.com/community-outreach-main|社群小組成員]]]。所有競賽負責人都有能力剝奪以下作品的參賽資格：違反上述規則、其他未列出的極糟運動家精神行為或未符合主題。所有決定都可向競賽負責人申訴。
-[[/collapsible]]
 
 ------
 

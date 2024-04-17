@@ -10,13 +10,13 @@
 [[/module]]
 
 [[include info:start]]
-##white|篇名 : 不想離開的仙那度##
-##white|作者 :## [[*user PeiWeiArtz]]
-##white|本篇與##[[[SCP-ZH-711]]]##white|連動##
+##black|篇名 : 不想離開的仙那度##
+##black|作者 :## [[*user PeiWeiArtz]]
+##black|本篇與##[[[SCP-ZH-711]]]##black|連動##
 
-##white|感謝##[[*user AbyssDream]]##white|提供點子##
+##black|感謝##[[*user AbyssDream]]##black|提供點子##
 
-##white|附圖來自[[[https://pxhere.com/zh/photo/1589737|這裡]]] ，遵照CC0##
+##black|附圖來自[[[https://pxhere.com/zh/photo/1589737|這裡]]] ，遵照CC0##
 [[include info:end]]
 
 [[include :scp-zh-tr:component:advanced-information-methodology
@@ -205,7 +205,7 @@ SCP-ZH-564入口前小橋
 > ----
 > **Dr.Kao**：嗨，小夜。我找妳來是為了之前的那個小型聚落。
 >
-> **Dr. Tsunegaki**：564裡的那個？
+> **Dr. Tsunegaki**：ZH-564裡那個？
 >
 > **Dr.Kao**：是。基本上我們整個站點只有妳能看見那個聚落。
 >
@@ -289,21 +289,21 @@ SCP-ZH-564入口前小橋
 >
 > **Dr.Kao**：什麼意思？
 >
-> **Dr. Tsunegaki**：你也知道564是個想讓人永遠定居的森林吧？
+> **Dr. Tsunegaki**：你也知道ZH-564是個想讓人永遠定居的森林吧？
 >
 > **Dr.Kao**：是。
 >
-> **Dr. Tsunegaki**：我個人認為啦。裡面的人會想定居在那座森林裡，564只占了其中一部分的原因。
+> **Dr. Tsunegaki**：我個人認為啦。裡面的人會想定居在那座森林裡，ZH-564只占了其中一部分的原因。
 >
 > **Dr.Kao**：為什麼？
 >
 > **Dr. Tsunegaki**：先說這只是我個人的感覺。
 >
-> **Dr. Tsunegaki**：他們會想進入那個地方居住不全然是因為564。
+> **Dr. Tsunegaki**：他們會想進入那個地方居住不全然是因為ZH-564。
 >
 > **Dr. Tsunegaki**：可能是那些人的壓力實在太大了吧。
 >
-> **Dr. Tsunegaki**：這樣造成564的異常效應和那些人的想法有了互相疊加的作用。
+> **Dr. Tsunegaki**：這樣造成ZH-564的異常效應和那些人的想法有了互相疊加的作用。
 >
 > **Dr. Tsunegaki**：這可是那臺造句機[[footnote]][[[http://scp-zh-tr.wikidot.com/scp-zh-711 |SCP-ZH-711]]]。[[/footnote]]製出來的東西欸。
 >
@@ -333,17 +333,17 @@ SCP-ZH-564入口前小橋
 >
 > **Dr.Kao**：嗯。
 >
-> **Dr. Tsunegaki**：我帶他回去時他好像對回去564時這件事感到很興奮。
+> **Dr. Tsunegaki**：我帶他回去時他好像對回去ZH-564時這件事感到很興奮。
 >
 > **Dr. Tsunegaki**：我也有跟那位林先生小聊了一下。
 >
 > **Dr. Tsunegaki**：他說住在裡面讓他覺得很放鬆，不想回去原本的生活環境。
 >
-> **Dr.Kao**：所以564的異常效應對於受影響者的是永久性的？
+> **Dr.Kao**：所以ZH-564的異常效應對於受影響者的是永久性的？
 >
 > **Dr. Tsunegaki**：根據我目前的分析出來的結果。是。
 >
-> **Dr.Kao**：那麼如果讓普通的基金會人員進入564的話......
+> **Dr.Kao**：那麼如果讓普通的基金會人員進入ZH-564的話......
 >
 > **Dr. Tsunegaki**：老高，你別想了啦。伊瑞絕對不會批准的。
 >

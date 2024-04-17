@@ -16,7 +16,7 @@
 [[/div]]
 
 [[div class="content-archives"]]
-[[include :scp-zh-tr:fragment:scp-series-links]]
+[[include :scp-zh-tr:fragment:scp-series-links tale-link=none]]
 [[/div]]
 
 
@@ -45,7 +45,7 @@
 * [[[SCP-7011]]] - [ACCESS DENIED]
 * [[[SCP-7012]]] - chaos you are my angel
 * [[[SCP-7013]]] - 視實是十三
-* [[[SCP-7014]]] - 讚美骰神
+* [[[SCP-7014]]] - Praise Be Unto Thee, Oh Dice Gods
 * [[[SCP-7015]]] - Mangaka in the High Castle: Melancholy of the Rising Sun
 * [[[SCP-7016]]] - Mutually Assured Destruction
 * [[[SCP-7017]]] - The Platonic Conspiracy
@@ -418,7 +418,7 @@
 * [[[SCP-7372]]] - [ACCESS DENIED]
 * [[[SCP-7373]]] - [ACCESS DENIED]
 * [[[SCP-7374]]] - [ACCESS DENIED]
-* [[[SCP-7375]]] - 寶劍騎士
+* [[[SCP-7375]]] - [ACCESS DENIED]
 * [[[SCP-7376]]] - [ACCESS DENIED]
 * [[[SCP-7377]]] - [ACCESS DENIED]
 * [[[SCP-7378]]] - [ACCESS DENIED]
@@ -542,7 +542,7 @@
 * [[[SCP-7492]]] - [ACCESS DENIED]
 * [[[SCP-7493]]] - [ACCESS DENIED]
 * [[[SCP-7494]]] - [ACCESS DENIED]
-* [[[SCP-7495]]] - [ACCESS DENIED]
+* [[[SCP-7495]]] - 死期已豹
 * [[[SCP-7496]]] - [ACCESS DENIED]
 * [[[SCP-7497]]] - [ACCESS DENIED]
 * [[[SCP-7498]]] - [ACCESS DENIED]
@@ -723,7 +723,7 @@
 * [[[SCP-7665]]] - [ACCESS DENIED]
 * [[[SCP-7666]]] - 陰間維加斯講座：莊家會輸
 * [[[SCP-7667]]] - [ACCESS DENIED]
-* [[[SCP-7668]]] - //基金會冷——不酷//
+* [[[SCP-7668]]] - [ACCESS DENIED]
 * [[[SCP-7669]]] - [ACCESS DENIED]
 * [[[SCP-7670]]] - [ACCESS DENIED]
 * [[[SCP-7671]]] - [ACCESS DENIED]
@@ -820,21 +820,21 @@
 * [[[SCP-7758]]] - [ACCESS DENIED]
 * [[[SCP-7759]]] - T是「傳輸」（Transmission）
 * [[[SCP-7760]]] - Unfortunate Events
-* [[[SCP-7761]]] - Consumer Capitalist
+* [[[SCP-7761]]] - [ACCESS DENIED]
 * [[[SCP-7762]]] - [ACCESS DENIED]
 * [[[SCP-7763]]] - [ACCESS DENIED]
-* [[[SCP-7764]]] - **Blackbox ##69856F|Ghosts##**
-* [[[SCP-7765]]] - //Deinovenator iniuriam//
+* [[[SCP-7764]]] - [ACCESS DENIED]
+* [[[SCP-7765]]] - [ACCESS DENIED]
 * [[[SCP-7766]]] - New World Order
-* [[[SCP-7767]]] - An End to All That is Good and Holy
+* [[[SCP-7767]]] - [ACCESS DENIED]
 * [[[SCP-7768]]] - [ACCESS DENIED]
 * [[[SCP-7769]]] - 你第一頭殺掉的怪物
 * [[[SCP-7770]]] - Stomachache
 * [[[SCP-7771]]] - As Luck Would Have It
 * [[[SCP-7772]]] - Mr. Rogers in a Bloodstained Sweater
-* [[[SCP-7773]]] - The Usual Demons
-* [[[SCP-7774]]] - Faithful June
-* [[[SCP-7775]]] - Convergent Evolution
+* [[[SCP-7773]]] - [ACCESS DENIED]
+* [[[SCP-7774]]] - [ACCESS DENIED]
+* [[[SCP-7775]]] - [ACCESS DENIED]
 * [[[SCP-7776]]] - The UnWell
 * [[[SCP-7777]]] - 懼七症
 * [[[SCP-7778]]] - Chancemaker
@@ -846,227 +846,229 @@
 * [[[SCP-7784]]] - [ACCESS DENIED]
 * [[[SCP-7785]]] - 橫緯先生與縱維先生
 * [[[SCP-7786]]] - [ACCESS DENIED]
-* [[[SCP-7787]]] - Lost in the Media
-* [[[SCP-7788]]] - Asphodel
-* [[[SCP-7789]]] - Agent Vidal in upside down Barcelona
-* [[[SCP-7790]]] - Orientation
-* [[[SCP-7791]]] - ｎｅｃｅｓｓａｒｙ ｅｖｉｌ
-* [[[SCP-7792]]] - The Deletions
-* [[[SCP-7793|SPHERE]]] - ⬤
-* [[[SCP-7794]]] - Nightlight
+* [[[SCP-7787]]] - [ACCESS DENIED]
+* [[[SCP-7788]]] - [ACCESS DENIED]
+* [[[SCP-7789]]] - [ACCESS DENIED]
+* [[[SCP-7790]]] - [ACCESS DENIED]
+* [[[SCP-7791]]] - [ACCESS DENIED]
+* [[[SCP-7792]]] - [ACCESS DENIED]
+* [[[SCP-7793]]] - [ACCESS DENIED]
+* [[[SCP-7794]]] - [ACCESS DENIED]
 * [[[SCP-7795]]] - Ð是「一三」（Ðirteen）
-* [[[SCP-7796]]] - VKTM Presents: //Evenings with Don Cavatelli//
-* [[[SCP-7797]]] - **##maroon|My Eyes Shall Watch##**
-* [[[SCP-7798]]] - Meteor Belt, Barren Of Life, Of No Importance
-* [[[SCP-7799]]] - When I'm Gone and Afloat
+* [[[SCP-7796]]] - [ACCESS DENIED]
+* [[[SCP-7797]]] - [ACCESS DENIED]
+* [[[SCP-7798]]] - [ACCESS DENIED]
+* [[[SCP-7799]]] - [ACCESS DENIED]
 
 [[# 7800]]
 + 7800至7899
 
 * [[[SCP-7800]]] - Samsara
-* [[[SCP-7801]]] - In Darkness
+* [[[SCP-7801]]] - [ACCESS DENIED]
 * [[[SCP-7802]]] - Decrease the possibility of containment failure.
-* [[[SCP-7803]]] - To The Tune of The Shroom
-* [[[SCP-7804]]] - {{Black Mountain Transmitter}}
-* [[[SCP-7805|SCP-7BUS]]] - The Amazing Cross-Dimensional Bus Service™
-* [[[SCP-7806]]] - knees for dado
-* [[[SCP-7807]]] - Operation Noble Arms
-* [[[SCP-7808]]] - Personnel Requirements
-* [[[SCP-7809]]] - Harbringer III: Benthosphere
-* [[[SCP-7810]]] - 🦆 A Duck's Destiny with Doland 🦆
-* [[[SCP-7811]]] -  [ACCESS DENIED]
-* [[[SCP-7812]]] - [[span style="color:red"]]**Archon**[[/span]]
-* [[[SCP-7813]]] - Tomb of the Shattered
-* [[[SCP-7814]]] - Tell Me About Telekill
-* [[[SCP-7815]]] - Nuclei—osis
-* [[[SCP-7816]]] - Why the Foundation Spent Their Entire Budget on Shark Plushies (or How I Got Assigned to Write About Blåhaj for a Second Time)
-* [[[SCP-7817]]] - It's Not About the Weasels
-* [[[SCP-7818]]] - The Promise
+* [[[SCP-7803]]] - [ACCESS DENIED]
+* [[[SCP-7804]]] - [ACCESS DENIED]
+* [[[SCP-7805]]] - [ACCESS DENIED]
+* [[[SCP-7806]]] - [ACCESS DENIED]
+* [[[SCP-7807]]] - [ACCESS DENIED]
+* [[[SCP-7808]]] - [ACCESS DENIED]
+* [[[SCP-7809]]] - [ACCESS DENIED]
+* [[[SCP-7810]]] - [ACCESS DENIED]
+* [[[SCP-7811]]] - [ACCESS DENIED]
+* [[[SCP-7812]]] - [ACCESS DENIED]
+* [[[SCP-7813]]] - [ACCESS DENIED]
+* [[[SCP-7814]]] - [ACCESS DENIED]
+* [[[SCP-7815]]] - [ACCESS DENIED]
+* [[[SCP-7816]]] - [ACCESS DENIED]
+* [[[SCP-7817]]] - [ACCESS DENIED]
+* [[[SCP-7818]]] - [ACCESS DENIED]
 * [[[SCP-7819]]] - 無空
-* [[[SCP-7820]]] - The Polar People
-* [[[SCP-7821]]] - Luck of the House (or Lack Thereof)
+* [[[SCP-7820]]] - [ACCESS DENIED]
+* [[[SCP-7821]]] - [ACCESS DENIED]
 * [[[SCP-7822]]] - [ACCESS DENIED]
 * [[[SCP-7823]]] - [ACCESS DENIED]
-* [[[SCP-7824]]] - Infinity's Edge
+* [[[SCP-7824]]] - [ACCESS DENIED]
 * [[[SCP-7825]]] - [ACCESS DENIED]
-* [[[SCP-7826]]] - //Holes in My Mind//
+* [[[SCP-7826]]] - [ACCESS DENIED]
 * [[[SCP-7827]]] - [ACCESS DENIED]
-* [[[SCP-7828]]] - meat
+* [[[SCP-7828]]] - [ACCESS DENIED]
 * [[[SCP-7829]]] - [ACCESS DENIED]
-* [[[SCP-7830]]] - **The Brand Formerly Known As VKTM**
-* [[[SCP-7831]]] - The Ningyo
+* [[[SCP-7830]]] - [ACCESS DENIED]
+* [[[SCP-7831]]] - [ACCESS DENIED]
 * [[[SCP-7832]]] - 只要。三個。字詞。
-* [[[SCP-7833]]] - El Vejigante de Carnival Ponceño
-* [[[SCP-7834]]] - The Worms in the Walls
-* [[[SCP-7835]]] - Galatians 6:7
-* [[[SCP-7836]]] - Wanting To Be Cheddar
-* [[[SCP-7837]]] - Eyes In The Sky
-* [[[SCP-7838]]] - The Patchwork King and the Flayed-Men's Court
-* [[[SCP-7839]]] - House of the Dead
+* [[[SCP-7833]]] - [ACCESS DENIED]
+* [[[SCP-7834]]] - [ACCESS DENIED]
+* [[[SCP-7835]]] - [ACCESS DENIED]
+* [[[SCP-7836]]] - [ACCESS DENIED]
+* [[[SCP-7837]]] - [ACCESS DENIED]
+* [[[SCP-7838]]] - [ACCESS DENIED]
+* [[[SCP-7839]]] - [ACCESS DENIED]
 * [[[SCP-7840]]] - U是「解弦」（Unstrung）
 * [[[SCP-7841]]] - V是「暴力」（Violence）
-* [[[SCP-7842]]] - HARBINGER III: THE LION, THE WITCH, AND THE TRAIN WRECK
+* [[[SCP-7842]]] - [ACCESS DENIED]
 * [[[SCP-7843]]] - [ACCESS DENIED]
-* [[[SCP-7844]]] - METHOD MAYFLY
-* [[[SCP-7845]]] - Two Ships Passing in the Night
-* [[[SCP-7846]]] - A Stage Illuminated Only By Ghost Light
-* [[[SCP-7847]]] - Stranger in a Strange Land
-* [[[SCP-7848]]] - Boxer Mantis Hivemind
+* [[[SCP-7844]]] - [ACCESS DENIED]
+* [[[SCP-7845]]] - [ACCESS DENIED]
+* [[[SCP-7846]]] - [ACCESS DENIED]
+* [[[SCP-7847]]] - [ACCESS DENIED]
+* [[[SCP-7848]]] - [ACCESS DENIED]
 * [[[SCP-7849]]] - [ACCESS DENIED]
-* [[[SCP-7850]]] - CApTain Buddy and the vicious planet of the Apekin!
+* [[[SCP-7850]]] - [ACCESS DENIED]
 * [[[SCP-7851]]] - [ACCESS DENIED]
-* [[[SCP-7852]]] - An emptiness, burned into the fabric of life
-* [[[SCP-7853]]] - The Enforcer
+* [[[SCP-7852]]] - [ACCESS DENIED]
+* [[[SCP-7853]]] - [ACCESS DENIED]
 * [[[SCP-7854]]] - [ACCESS DENIED]
 * [[[SCP-7855]]] - 伯哈特煮了⠀⠀⠀⠀⠀⠀
 * [[[SCP-7856]]] - [ACCESS DENIED]
 * [[[SCP-7857]]] - [ACCESS DENIED]
-* [[[SCP-7858]]] - Where's Matthew
+* [[[SCP-7858]]] - [ACCESS DENIED]
 * [[[SCP-7859]]] - [ACCESS DENIED]
-* [[[SCP-7860]]] - 65 million leagues above the sea
-* [[[SCP-7861]]] - Intrusive Artvertising
+* [[[SCP-7860]]] - [ACCESS DENIED]
+* [[[SCP-7861]]] - [ACCESS DENIED]
 * [[[SCP-7862]]] - [ACCESS DENIED]
-* [[[SCP-7863]]] - A Creation of the Bloody God
-* [[[SCP-7864]]] - ROULETTE
-* [[[SCP-7865]]] - Causal Noose
-* [[[SCP-7866]]] - Processing Issues
-* [[[SCP-7867]]] - The Dimensional Television
-* [[[SCP-7868]]] - Bonetta
+* [[[SCP-7863]]] - [ACCESS DENIED]
+* [[[SCP-7864]]] - [ACCESS DENIED]
+* [[[SCP-7865]]] - [ACCESS DENIED]
+* [[[SCP-7866]]] - [ACCESS DENIED]
+* [[[SCP-7867]]] - [ACCESS DENIED]
+* [[[SCP-7868]]] - [ACCESS DENIED]
 * [[[SCP-7869]]] - [ACCESS DENIED]
-* [[[SCP-7870]]] - Goddess at the Bottom of a River
-* [[[SCP-7871]]] - Cracked at Fortnite
-* [[[SCP-7872]]] - Non Cogito, Ergo Non Sum
-* [[[SCP-7873]]] - Cultural Exchange Program
-* [[[SCP-7874]]] - Checkpoint, Mate
-* [[[SCP-7875]]] - Catching a Case of the Normals
-* [[[SCP-7876]]] - Pygmalion's Neverland
-* [[[SCP-7877]]] - Special Containment Professionals
+* [[[SCP-7870]]] - [ACCESS DENIED]
+* [[[SCP-7871]]] - [ACCESS DENIED]
+* [[[SCP-7872]]] - [ACCESS DENIED]
+* [[[SCP-7873]]] - [ACCESS DENIED]
+* [[[SCP-7874]]] - [ACCESS DENIED]
+* [[[SCP-7875]]] - [ACCESS DENIED]
+* [[[SCP-7876]]] - [ACCESS DENIED]
+* [[[SCP-7877]]] - [ACCESS DENIED]
 * [[[SCP-7878]]] - Moving Past The Feeling
-* [[[SCP-7879]]] - Book of the Simoom
-* [[[SCP-7880]]] - Sapient Emacsen
-* [[[SCP-7881]]] - //Project: Godhead//
-* [[[SCP-7882]]] - Cargo Cult Capsule
-* [[[SCP-7883]]] - Bailan las Salitreras
-* [[[SCP-7884|]]]
-* [[[SCP-7885]]] - Drifting Peace
-* [[[SCP-7886]]] - Halcyon Days, Arabian Nights
-* [[[SCP-7887]]] - Reject Modernity, Return To Whale
+* [[[SCP-7879]]] - [ACCESS DENIED]
+* [[[SCP-7880]]] - [ACCESS DENIED]
+* [[[SCP-7881]]] - [ACCESS DENIED]
+* [[[SCP-7882]]] - [ACCESS DENIED]
+* [[[SCP-7883]]] - [ACCESS DENIED]
+* [[[SCP-7884]]] - [ACCESS DENIED]
+* [[[SCP-7885]]] - [ACCESS DENIED]
+* [[[SCP-7886]]] - [ACCESS DENIED]
+* [[[SCP-7887]]] - [ACCESS DENIED]
 * [[[SCP-7888]]] - A Reminder
-* [[[SCP-7889]]] - Lies and Slander
+* [[[SCP-7889]]] - [ACCESS DENIED]
 * [[[SCP-7890]]] - M.T.F. S.O.L., S.N.A.F.U.
-* [[[SCP-7891]]] - One Thousand and One Anomalies
-* [[[SCP-7892]]] - A Shrine to a Peaceful Nation
-* [[[SCP-7893]]] - Voices of the Damned
-* [[[SCP-7894]]] - Everything is fine at Site-61
-* [[[SCP-7895]]] - Dreaming of Our Hometown
-* [[[SCP-7896]]] - The Elysian Mirror
-* [[[SCP-7897]]] - Horsepower
+* [[[SCP-7891]]] - [ACCESS DENIED]
+* [[[SCP-7892]]] - [ACCESS DENIED]
+* [[[SCP-7893]]] - [ACCESS DENIED]
+* [[[SCP-7894]]] - [ACCESS DENIED]
+* [[[SCP-7895]]] - [ACCESS DENIED]
+* [[[SCP-7896]]] - [ACCESS DENIED]
+* [[[SCP-7897]]] - [ACCESS DENIED]
 * [[[SCP-7898]]] - W是「牆壁」（Walls）
-* [[[SCP-7899]]] - Clockwork Apotheosis
+* [[[SCP-7899]]] - [ACCESS DENIED]
 
 [[# 7900]]
 + 7900至7999
 
 * [[[SCP-7900]]] - A Place to Drown in
-* [[[SCP-7901]]] - The Show Will Go On
-* [[[SCP-7902]]] - Nursing Home of Horrors
-* [[[SCP-7903]]] - Yesterday's Gone
-* [[[SCP-7904]]] - A Very Gävlebocken Christmas
-* [[[SCP-7905]]] - ##01f|**FRAGMENTS OF A BROKEN PLANET**##
-* [[[SCP-7906]]] - ##hotpink|Don't eat your feelings- eat mine##
-* [[[SCP-7907]]] - Langmeyer's Laugh Emporium
-* [[[SCP-7908]]] - ##hotpink|Appetite of a copycat##
-* [[[SCP-7909]]] - ...And Then Nothing Happened
-* [[[SCP-7910]]] - Uncomfortably Numb
-* [[[SCP-7911]]] - Bound by the Scars of Time
-* [[[SCP-7912]]] - I N T E R I O R
-* [[[SCP-7913]]] - "That Wasn't Very Turtle Town of You."
-* [[[SCP-7914]]] - Phantoms of New Orleans
-* [[[SCP-7915]]] - Selene's Serenade: An Ode to the Moon
-* [[[SCP-7916]]] - As The World Caves In
-* [[[SCP-7917]]] - The Worst Distance Between Two People
-* [[[SCP-7918]]] -  RONALD REAGAN DIES OF ACQUIRED IMMUNODEFICIENCY SYNDROME-RELATED COMPLICATIONS
-* [[[SCP-7919]]] - Terror-toma
-* [[[SCP-7920]]] - There Are No Gods Here
-* [[[SCP-7921]]] - The Gift From God
-* [[[SCP-7922]]] - "And for my last trick..."
-* [[[SCP-7923]]] - Unalived
-* [[[SCP-7924]]] - The Goat that Kept on Gifting
-* [[[SCP-7925]]] - Buzzing Through the Prophets
-* [[[SCP-7926]]] - POP!!!
-* [[[SCP-7927]]] - So This Is How It Ends
-* [[[SCP-7928]]] - THREAT LEVEL: NULL
-* [[[SCP-7929]]] - Nine Bars of Pressure
+* [[[SCP-7901]]] - [ACCESS DENIED]
+* [[[SCP-7902]]] - [ACCESS DENIED]
+* [[[SCP-7903]]] - [ACCESS DENIED]
+* [[[SCP-7904]]] - [ACCESS DENIED]
+* [[[SCP-7905]]] - [ACCESS DENIED]
+* [[[SCP-7906]]] - [ACCESS DENIED]
+* [[[SCP-7907]]] - [ACCESS DENIED]
+* [[[SCP-7908]]] - [ACCESS DENIED]
+* [[[SCP-7909]]] - [ACCESS DENIED]
+* [[[SCP-7910]]] - [ACCESS DENIED]
+* [[[SCP-7911]]] - [ACCESS DENIED]
+* [[[SCP-7912]]] - [ACCESS DENIED]
+* [[[SCP-7913]]] - [ACCESS DENIED]
+* [[[SCP-7914]]] - [ACCESS DENIED]
+* [[[SCP-7915]]] - [ACCESS DENIED]
+* [[[SCP-7916]]] - [ACCESS DENIED]
+* [[[SCP-7917]]] - [ACCESS DENIED]
+* [[[SCP-7918]]] - [ACCESS DENIED]
+* [[[SCP-7919]]] - [ACCESS DENIED]
+* [[[SCP-7920]]] - [ACCESS DENIED]
+* [[[SCP-7921]]] - [ACCESS DENIED]
+* [[[SCP-7922]]] - [ACCESS DENIED]
+* [[[SCP-7923]]] - [ACCESS DENIED]
+* [[[SCP-7924]]] - [ACCESS DENIED]
+* [[[SCP-7925]]] - [ACCESS DENIED]
+* [[[SCP-7926]]] - [ACCESS DENIED]
+* [[[SCP-7927]]] - [ACCESS DENIED]
+* [[[SCP-7928]]] - [ACCESS DENIED]
+* [[[SCP-7929]]] - [ACCESS DENIED]
 * [[[SCP-7930]]] - X是「XXX」
 * [[[SCP-7931]]] - X是「異質移植」（Xenotransplantation）
 * [[[SCP-7932]]] - X是「異質生物體」（Xenobiotic）
 * [[[SCP-7933]]] - X是「弒情」（Xing）
-* [[[SCP-7934]]] - Monster, by hoax, persister
-* [[[SCP-7935]]] - Men.
-* [[[SCP-7936]]] - Luminous Celestial Bodies
-* [[[SCP-7937]]] - The Storyteller
-* [[[SCP-7938]]] - To what extent did Karpov's hypnotic rays play a role in his 1978 World Chess Championship victory?
-* [[[SCP-7939]]] - New Whirled Order.
-* [[[SCP-7940]]] - Reaching Higher
-* [[[SCP-7941]]] - The Ballad of the Helmsman
-* [[[SCP-7942]]] - A Waste of Time
+* [[[SCP-7934]]] - [ACCESS DENIED]
+* [[[SCP-7935]]] - [ACCESS DENIED]
+* [[[SCP-7936]]] - [ACCESS DENIED]
+* [[[SCP-7937]]] - [ACCESS DENIED]
+* [[[SCP-7938]]] - [ACCESS DENIED]
+* [[[SCP-7939]]] - [ACCESS DENIED]
+* [[[SCP-7940]]] - [ACCESS DENIED]
+* [[[SCP-7941]]] - [ACCESS DENIED]
+* [[[SCP-7942]]] - [ACCESS DENIED]
 * [[[SCP-7943]]] - [ACCESS DENIED]
-* [[[SCP-7944]]] - The shadows we cast
-* [[[SCP-7945]]] - Let there be me
-* [[[SCP-7946]]] - Jerahmeel
-* [[[SCP-7947]]] - Katabasis
-* [[[SCP-7948]]] - I Don't Care What The Peephole Says!
-* [[[SCP-7949]]] - The Calamity Tourist
-* [[[SCP-7950]]] - Get Over It
-* [[[SCP-7951]]] - your turn to drive
-* [[[SCP-7952]]] - Miserere Eorum
-* [[[SCP-7953]]] - Content, by VKTM
-* [[[SCP-7954]]] - A Hiding Place
-* [[[SCP-7955]]] - The Ailing Child Of Proteus
-* [[[SCP-7956]]] - One-Way Trip to the Bathroom
-* [[[SCP-7957]]] - Glass Stache Mass
-* [[[SCP-7958]]] - I am half sick of shadows
-* [[[SCP-7959]]] - C L O S E D / S Y S T E M
-* [[[SCP-7960]]] - Self-Improvement Koala
+* [[[SCP-7944]]] - [ACCESS DENIED]
+* [[[SCP-7945]]] - [ACCESS DENIED]
+* [[[SCP-7946]]] - [ACCESS DENIED]
+* [[[SCP-7947]]] - [ACCESS DENIED]
+* [[[SCP-7948]]] - [ACCESS DENIED]
+* [[[SCP-7949]]] - [ACCESS DENIED]
+* [[[SCP-7950]]] - [ACCESS DENIED]
+* [[[SCP-7951]]] - [ACCESS DENIED]
+* [[[SCP-7952]]] - [ACCESS DENIED]
+* [[[SCP-7953]]] - [ACCESS DENIED]
+* [[[SCP-7954]]] - [ACCESS DENIED]
+* [[[SCP-7955]]] - [ACCESS DENIED]
+* [[[SCP-7956]]] - [ACCESS DENIED]
+* [[[SCP-7957]]] - [ACCESS DENIED]
+* [[[SCP-7958]]] - [ACCESS DENIED]
+* [[[SCP-7959]]] - [ACCESS DENIED]
+* [[[SCP-7960]]] - [ACCESS DENIED]
 * [[[SCP-7961]]] - 晦世殘燈
-* [[[SCP-7962]]] - Golden Enlightenment
-* [[[SCP-7963]]] - A Binary of Techno-Liches
-* [[[SCP-7964]]] - The Gate, Unguarded
-* [[[SCP-7965]]] - Soda Royale
+* [[[SCP-7962]]] - [ACCESS DENIED]
+* [[[SCP-7963]]] - [ACCESS DENIED]
+* [[[SCP-7964]]] - [ACCESS DENIED]
+* [[[SCP-7965]]] - [ACCESS DENIED]
 * [[[SCP-7966]]] - 聖父、聖子、聖戴維斯
 * [[[SCP-7967]]] - 我們沒有牧者
-* [[[SCP-7968]]] - Nonsuch
-* [[[SCP-7969]]] - Time Itself
-* [[[SCP-7970]]] - Horton's Corner
+* [[[SCP-7968]]] - [ACCESS DENIED]
+* [[[SCP-7969]]] - [ACCESS DENIED]
+* [[[SCP-7970]]] - [ACCESS DENIED]
 * [[[SCP-7971]]] - [ACCESS DENIED]
 * [[[SCP-7972]]] - Y是「青年」（Youth）
-* [[[SCP-7973]]] - Abnormalization
+* [[[SCP-7973]]] - [ACCESS DENIED]
 * [[[SCP-7974]]] - TTRPGhost
-* [[[SCP-7975]]] - The Chugwater Frogman
-* [[[SCP-7976]]] - All's Ferret in Love & War
-* [[[SCP-7977]]] - Rewritten Livelihoods
-* [[[SCP-7978]]] - The Sausageboy
-* [[[SCP-7979]]] - **NO OUTLET**//s//
+* [[[SCP-7975]]] - [ACCESS DENIED]
+* [[[SCP-7976]]] - [ACCESS DENIED]
+* [[[SCP-7977]]] - [ACCESS DENIED]
+* [[[SCP-7978]]] - [ACCESS DENIED]
+* [[[SCP-7979]]] - [ACCESS DENIED]
 * [[[SCP-7980]]] - Z是「金字神臺」（Ziggurat）
-* [[[SCP-7981]]] - The Shadow Cabal
-* [[[SCP-7982]]] - Glory Days
-* [[[SCP-7983]]] - Unlucky Charms
-* [[[SCP-7984|KG984 /]]] Frontios
-* [[[SCP-7985]]] - Mylex™
+* [[[SCP-7981]]] - [ACCESS DENIED]
+* [[[SCP-7982]]] - [ACCESS DENIED]
+* [[[SCP-7983]]] - [ACCESS DENIED]
+* [[[SCP-7984]]] - [ACCESS DENIED]
+* [[[SCP-7985]]] - [ACCESS DENIED]
 * [[[SCP-7986]]] - Destiny's Waves
-* [[[SCP-7987]]] - The Irate Gamer
-* [[[SCP-7988]]] - Mood/luck displacement factors
-* [[[SCP-7989]]] - Enjoy Yourself, You’ve Earned It
-* [[[SCP-7990]]] - dado guide to designer rugs
-* [[[SCP-7991]]] - From Heaven I Watch
-* [[[SCP-7992]]] is a Gorilla
-* [[[SCP-7993]]] - American Normalcy
+* [[[SCP-7987]]] - [ACCESS DENIED]
+* [[[SCP-7988]]] - [ACCESS DENIED]
+* [[[SCP-7989]]] - [ACCESS DENIED]
+* [[[SCP-7990]]] - [ACCESS DENIED]
+* [[[SCP-7991]]] - [ACCESS DENIED]
+* [[[SCP-7992]]] - [ACCESS DENIED]
+* [[[SCP-7993]]] - [ACCESS DENIED]
 * [[[SCP-7994]]] - Calamity Jack Kennedy
 * [[[SCP-7995]]] - 洗淨此處的罪惡
 * [[[SCP-7996]]] - Losing Interest
 * [[[SCP-7997]]] - Corporate Apotheosis
 * [[[SCP-7998]]] - Eel Days
 * [[[SCP-7999]]] - 來星星間找我
+**記得在下個系列開放以前先將7000-7999的編號完成！**
+
 [[/div]]
 
 [!-- --]

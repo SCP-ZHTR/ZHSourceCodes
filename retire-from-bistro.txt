@@ -111,7 +111,7 @@
 
 「你的精神科診所叫甚麼？」
 
-「陽光。[[span class="ruby"]]陽光精神科診所[[span class="rt"]]Sunny Clinic of Psychiatry[[/span]][[/span]]」
+「陽光。[[span class="ruby"]]陽光精神科診所[[span class="rt"]]Sunny Clinic of Psychology[[/span]][[/span]]」
 
 「我們的死對頭餐廳是哪一間？」
 

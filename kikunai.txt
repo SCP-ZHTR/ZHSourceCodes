@@ -30,14 +30,14 @@
 我是菊內，或者叫阿菊/Kikunai，隨意就好
 
 推特在[https://twitter.com/kikunai14 這邊]
-Tumblr在[https://www.tumblr.com/kikunai 這邊]，有比推特更多的雜談廢文隨意塗鴉
+Tumblr在[https://www.tumblr.com/kikunai 這邊]，有比推特更多的雜談廢文隨意塗鴉，歡迎使用[https://www.tumblr.com/new/ask/kikunai Askbox功能交流]
 
 如有私信請用推特/DC/[http://www.wikidot.com/user:info/kikunai Wikidot]聯絡
 
 如果我退坑了/超過兩年沒上線，所有原創作品及翻譯（在離線期間）都歸管理人員處置。
 ----
-一些連結：
-* **[http://scp-sandbox2-zh.wikidot.com/draft:5370805-2i-lqbddg80 Area-ZH-42]：**朝「知識的深淵」直直墮落的站點
+一些私設：
+* **[http://scp-sandbox2-zh.wikidot.com/draft:5370805-2i-lqbddg80 Area-ZH-32]：**朝「知識的深淵」直直墮落的站點
 * [https://media.discordapp.net/attachments/819899754510942238/1159857387872723014/Untitled534_20231006151821.png mars.aic的頭像草圖]
 [[/div]]
 
@@ -47,16 +47,11 @@ Tumblr在[https://www.tumblr.com/kikunai 這邊]，有比推特更多的雜談�
 
 [[div class="document"]]
 [[=]]
-++++ __原創：__
-++++++ [[[scp-zh-525|]]] 【[https://www.youtube.com/watch?v=LmDWU0pVBHE ♫]】
-> 預視未來、扭曲未來——一體兩面。
-> （2024年冬季競賽參賽作品）
-++++++ [[[scp-zh-208|]]] [[footnote]]2024年2月展出作品🎉[[/footnote]]
-> 畸形恐懼。
-++++++ [[[scp-zh-739|]]]
-> 掃走地氈下的髒東西。
-
+++++++ __原創：__
 [[/=]]
+[[[scp-zh-208|]]] [[footnote]]畸形恐懼。[[/footnote]]
+[[[scp-zh-739|]]] [[footnote]]掃走地氈下的髒東西。[[/footnote]]
+
 
 [[>]]
 [[collapsible show="Listpage" hide="收起"hideLocation="both"]]
@@ -71,17 +66,11 @@ Tumblr在[https://www.tumblr.com/kikunai 這邊]，有比推特更多的雜談�
 
 [[div class="document"]]
 [[=]]
-+++ __藝術作品__
-@@ @@
-__本站收錄__
-[[module ListPages created_by="Kikunai" tags="+藝術作品 -翻譯" order="created_at desc" category="*" ]]
-%%title_linked%% 【%%created_at%% | %%rating%%】
-[[/module]]
-----
-@@ @@
-[*https://scp-wiki.wikidot.com/kikunai-s-artwork-hub 主站收錄]
-@@ @@
+++++++ __藝術作品：__
 [[/=]]
+[[module ListPages created_by="Kikunai" tags="+藝術作品 -翻譯" order="created_at desc" category="*" ]]
+%%title_linked%% （%%created_at%% | %%rating%%）
+[[/module]]
 [[/div]]
 
 [[/tab]]
@@ -94,29 +83,29 @@ __本站收錄__
 
 [[div class="document"]]
 [[=]]
-+++ __翻譯（項目）__
-@@ @@
+++++++ __翻譯（項目）：__
+[[/=]]
 [[module ListPages created_by="Kikunai" tags="+翻譯 +scp" order="created_at desc"]]
 %%title_linked%% （%%created_at%% | %%rating%%）
+
 [[/module]]
 -----
-@@ @@
-+++ __翻譯（故事和一切文章）__
-@@ @@
+[[=]]
+++++++ __翻譯（故事和一切文章）：__
+[[/=]]
 [[module ListPages created_by="Kikunai" tags="+翻譯 -scp" order="created_at desc"]]
 %%title_linked%% （%%created_at%% | %%rating%%）
+
 [[/module]]
 -----
-@@ @@
-+++ __翻譯（INT）__
-@@ @@
-[[span style="line-height: 2em;"]]
+[[=]]
+++++++ __翻譯（INT）：__
+[[/=]]
 
 [https://scp-int.wikidot.com/ting129-s-proposal-1 ting129’s Proposal I - Urashima]
 [https://scp-int.wikidot.com/scp-zh-176 SCP-ZH-176 - The Great Retreat of the Gulls]
 [http://scp-int.wikidot.com/scp-zh-002-j SCP-ZH-002-J - The Underwater Shopping Trolley]
-[[/span]]
-[[/=]]
+
 [[/div]]
 ------
 @@ @@
@@ -125,9 +114,7 @@ __本站收錄__
 [[/tab]]
 [[tab 暗格]]
 [[=]]
-+++ __徽章之類的__
-@@ @@
-++++ [http://scp-zh-tr.wikidot.com/jamcon-zh-2023 繁中急迫競賽 2.0]
++++ [http://scp-zh-tr.wikidot.com/jamcon-zh-2023 繁中急迫競賽 2.0]
 [[/=]]
 [[div class="scp-image-block block-center" style="width:150px%;"]]
 [[image https://i.imgur.com/hAvO2cL.png     
@@ -138,7 +125,7 @@ style="width:150px;" link=#]]
 [[/div]]
 
 [[=]]
-++++ [http://scp-zh-tr.wikidot.com/honglam-battle-2-0 《癌又又蝟鴨：紅藍爭霸戰2.0》]
++++ [http://scp-zh-tr.wikidot.com/honglam-battle-2-0 《癌又又蝟鴨：紅藍爭霸戰2.0》]
 [[/=]]
 [[div class="scp-image-block block-center" style="width:150px%;"]]
 [[image https://i.imgur.com/cFaO3wM.gif    

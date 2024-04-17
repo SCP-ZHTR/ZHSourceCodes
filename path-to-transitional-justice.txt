@@ -232,7 +232,7 @@ a.close-menu img { display: none;}
 2023/7/14
 
 [[include :scp-zh-tr:component:image-block
-|name=https://upload.wikimedia.org/wikipedia/commons/c/c9/Platform_2_escalators%2C_MRT_Taipei_Main_Station_20090709.jpg
+|name=https://upload.wikimedia.org/wikipedia/commons/d/d6/Danshui_Line_Platform_in_Taipei_Main_Station.JPG
 |align=center
 |width=100%
 |caption=台灣社會目前推測有2%的人口是現實扭曲者或潛在現實扭曲者。　　[https://commons.wikimedia.org/wiki/File:Danshui_Line_Platform_in_Taipei_Main_Station.JPG 霍華德]攝

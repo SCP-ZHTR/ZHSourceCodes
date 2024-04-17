@@ -317,7 +317,7 @@
 [[div class="content-panel standalone series" style="background-color: #FFFFFF;"]]
 + [[[*dr-wondertainment-hub|Wondertainment博士]]]
 
-[[f>image https://scp-wiki.wdfiles.com/local--files/groups-of-interest/Dr-Wondertainment.png]]
+[[f>image http://scp-wiki.wdfiles.com/local--files/groups-of-interest/Wondertainment.png]]
 
 **簡介：** Wondertainment博士，故勿論這是個人還是一個集團，其都能夠製作出與兒童玩具主題相似的異常物品和實體。這些物體和裝置的性質各有不同，儘管所有物體和裝置都明顯是為了給兒童使用。 此外，Wondertainment博士亦創作了小小先生系列－一批具有可收集性的異常人形實體。已知Wondertainment博士過去曾以成為基金會人員為目標，他們對基金會的感受暫時未知。有關的詳細信息，請參閱[[[* http：//www.scp-wiki.net/personnel-and-character-dossier | Personnel Dossier]]]上的Isabel Wondertainment條目。
 

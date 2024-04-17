@@ -38,21 +38,21 @@
 ]]
 
 [[include fragment:card-slot
-|status= |pre-flipped=yes
+|status= |pre-flipped=
 |author=UncannyClown276 - 星星
 |art= https://scp-wiki.wdfiles.com/local--files/anthology-2023-hub/thestar.png
 |url=http://scp-zh-tr.wikidot.com/wanderers:chest-cavity-the-star
 ]]
 
 [[include fragment:card-slot
-|status= |pre-flipped=yes
+|status= |pre-flipped=
 |author=DarkStuff - 聖杯三
 |art=https://scp-wiki.wdfiles.com/local--files/anthology-2023-hub/threeofcups.png
 |url=http://scp-zh-tr.wikidot.com/wanderers:three-of-cups
 ]]
 
 [[include fragment:card-slot
-|status= |pre-flipped=yes
+|status= |pre-flipped=
 |author=BitOddInnit - 皇帝
 |art=https://scp-wiki.wdfiles.com/local--files/anthology-2023-hub/emperor
 |url=http://scp-zh-tr.wikidot.com/scp-7460
@@ -87,14 +87,14 @@
 ]]
 
 [[include fragment:card-slot
-|status= |pre-flipped=yes
+|status= |pre-flipped=
 |author=meltedbee - 隱者
 |art= https://scp-wiki.wdfiles.com/local--files/anthology-2023-hub/hermit.png
 |url=http://scp-zh-tr.wikidot.com/wanderers:the-hermit
 ]]
  
 [[include fragment:card-slot
-|status= |pre-flipped=yes
+|status= |pre-flipped= 
 |author=StrangerSwing - 戰車
 |art= https://scp-wiki.wdfiles.com/local--files/anthology-2023-hub/card7-s.png
 |url=http://scp-zh-tr.wikidot.com/wanderers:the-chariot
@@ -108,7 +108,7 @@
 ]]
  
 [[include fragment:card-slot
-|status= |pre-flipped=yes
+|status= |pre-flipped=
 |author=Crow-Cat - 聖杯七
 |art= https://scp-wiki.wdfiles.com/local--files/anthology-2023-hub/sevenofcups.png
 |url=http://scp-zh-tr.wikidot.com/scp-7547
@@ -136,7 +136,7 @@
 ]]
  
 [[include fragment:card-slot
-|status= |pre-flipped=yes
+|status= |pre-flipped=
 |author=Doctor Cimmerian - 寶劍二
 |art= https://scp-wiki.wdfiles.com/local--files/anthology-2023-hub/twoofswords.png
 |url=http://scp-zh-tr.wikidot.com/dr-cimmerian-s-proposal

@@ -1,6 +1,7 @@
-[[include :scp-zh-tr:component:scp-meta-title-hiding]]
-[[include :scp-zh-tr:theme:penumbra]]
+[[div style="display: none;"]]
+[[include :scp-wiki:theme:placestyle]]
 [[include :scp-zh-tr:component:fade-in speed=1]]
+[[/div]]
 [[include :scp-zh-tr:component:betterfootnotes]]
 
 [[module CSS]]
@@ -9,7 +10,10 @@
   --header-subtitle: "控制 收容 保護";
   --lgurl: url(http://scp-sandbox-3.wdfiles.com/local--files/collab%3Aihp/scp-logo.svg);
   --accentColor: #ff2244;
-  --fnColor: #ff2244;
+}
+
+:root {
+    --fnColor: #ff2244;
 }
 
 #u-blink-bar p:last-child::after {
@@ -164,7 +168,7 @@ SCP-ZH-337內的景象被遭遇者描述為黑暗的工業區，周遭無任何�
 **附錄1：遭遇SCP-ZH-337人員紀錄表**
 [[/=]]
 ||~ 回報日期||~ 影響後存活人數||~ 影響後死亡人數||~ 姓名||~ 備註||
-||2022/01/11||##ff3333|{{[錯誤:數據溢出，請通報該頁面管理員]}}##||##ff3333|1##||{{[錯誤:數據溢出，請通報該頁面管理員]}}|| 全數為SCP基金會ZH分部員工，佔██.██%||
+||2022/01/11||##ff0000|{{[錯誤:數據溢出，請通報該頁面管理員]}}##||##ff0000|1##||{{[錯誤:數據溢出，請通報該頁面管理員]}}|| 全數為SCP基金會ZH分部員工，佔██.██%||
 @@ @@
 -----
 [[=]]

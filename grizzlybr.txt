@@ -3,7 +3,7 @@
 [[module css]]
 :root:lang(zh) {
   /* Header */
-    --header-title: "站點主任室";
+    --header-title: "站點主管室";
     --header-subtitle: "我們控制，我們收容，我們保護。";
 }
 }
@@ -34,7 +34,7 @@
 
 **安保編級:**B級
 
-**職稱：**站點主任
+**職稱：**站點主管
 
 **簡介：**臺法混血，身高180公分，瘦長體型。父親Dr. Alphonse E. Bottin，曾任職於Site-168；母親Dr. Adelaide Lee，曾任職於Site-ZH-02。父親因業務關係被調職到Site-ZH-02，二人因此認識。在就讀███大學時因能力出眾而受到基金會的注意，並在不久後入職。
 其常會拿著一杯黑咖啡，在Site-ZH-59內到處閒晃。
@@ -50,7 +50,7 @@
 |photo=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvMHsXKSj0AC2RZST_aAcHu9dF0AfJeDlNq3ZhqO57JbwfeIvxA6-A9huPY7kLmCMCnXeMCZZEMF4kzFmZUgkMfON6H2wYZmfw5Gnk0IFWgumIwsKmMHP3m9XMuyrtb8gSIxOcNMa9cU-BOScf2xWyAAVs9EUQD9ejkI7Wf19VHS5OFbgnXEO8Hkgk-9Cg/s1024/IMG_3174.jpeg
 |level=4
 |name=Grizzly R. Bottin
-|dept=Site-ZH-59站點主任室 |position=站點主任
+|dept=Site-ZH-59站點主管室 |position=站點主管
 |id-number= 9192-064859
 |expiry=06/2032
 ]]

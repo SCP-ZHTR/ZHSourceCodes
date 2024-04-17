@@ -192,12 +192,10 @@ Dr. Apoyn不喜歡拍照，有人要拿相機拍他時他會迅速別過頭去�
 
 [[iftags -testing]]
 [[tab working station]]
-[[module ListPages category="*"  order="created_at desc"  tags="-_image -_cc" separate="no" perPage="150" ]]
+[[module ListPages category="*"  order="created_at"  tags="+原創 -藝術作品  _image _cc" separate="no" perPage="250" ]]
 # %%title_linked%% / ##red|**%%created_at%%**## / %%updated_at%% / %%created_by%%
 [[/module]]
 [[/tab]]
-[[/iftags]]
-[[iftags +testing]]
 [[tab working station 2]]
 [[module ListPages category="*"  order="created_at"  tags="+原創 +藝術作品" separate="no" perPage="250" ]]
 # %%title_linked%% / ##red|**%%created_at%%**## / %%updated_at%% / %%created_by%%

@@ -1,11 +1,10 @@
-[[include :scp-zh-tr:component:scp-meta-title-hiding]]
-
 [[include credit:start]]
 作者：[[*user dr kondraki]]
 譯者：[[*user vomiter]]
 標題：SCP-208 - 「貝斯」
 [[include credit:end]]
 
+[[include :scp-zh-tr:component:scp-meta-title-hiding css-style=classic]]
 
 
 [[include component:image-block name=https://scp-wiki.wdfiles.com/local--files/scp-208/scp208.jpg|caption=位於尼羅河三角洲附近的SCP-208雕像]]

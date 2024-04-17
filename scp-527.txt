@@ -23,7 +23,7 @@
 
 -----
 
-[[include component:image-block name=https://scp-wiki.wdfiles.com/local--files/scp-527/flapper-up.png|caption=SCP-527.]]
+[[include component:image-block name=https://i.imgur.com/494yAxd.jpg|caption=SCP-527.]]
 
 **特殊收容措施：**SCP-527應被收容於Site-19的標準人型收容間內。不需其他收容措施。
 

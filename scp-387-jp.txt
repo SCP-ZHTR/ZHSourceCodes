@@ -1,5 +1,5 @@
 [[include :scp-zh-tr:component:scp-meta-title-hiding css-style=classic]]
-[[include info:start]]
+[[include credit:start]]
 **原著：** [[*user ShicolorkiNaN]]
 **譯者：** [[*user edward-knave]]
 **項目：** SCP-387-JP
@@ -10,7 +10,7 @@
 自稱為基金會的神秘組織將我與[[span class="ruby"]]金[[span class="rt"]]Gold[[/span]][[/span]]禁錮了！不只找不到逃出的方法，還有我們本應拯救的生命一條一條地失去……目的還有甚麼的都不知道，但我們不會因此挫敗，一定要從這裡走出……欸！？「將一切交給我」指的是甚麼意思！？下一集《高速心臟起搏師．[[span class="ruby"]]逆行金[[span class="rt"]]Reversal Gold[[/span]][[/span]]》「為救人而逃！決死的[[span class="ruby"]]自我逆行[[span class="rt"]]Self Reversal[[/span]][[/span]]！」接續「為救人而逃！決死的[[span class="ruby"]]自我逆行[[span class="rt"]]Self Reversal[[/span]][[/span]]！」連合「為廄人而逃！█死的[[span class="ruby"]]逆行[[span class="rt"]]Reversal[[/span]][[/span]]！[[span class="ruby"]]逆行[[span class="rt"]]Reversal[[/span]][[/span]]！命！」連合的命[Reｂｏot]我的名字叫[[span class="ruby"]]救援鳳凰[[span class="rt"]]Aid Phoenix[[/span]][[/span]]！雖然是[[span class="ruby"]]逆行金[[span class="rt"]]Reversal Gold[[/span]][[/span]]的命█，但似乎還是沒有相信我……但是有孩子在溺█了！因為想救那個孩子所以█命命命！啊啊、還有更多新的生命消失。不能就此默默見死不救，因為█我們是█英雄！[Reb██oot]][已偵測系統異常][reｂｏｏt]命[Rebo██t][已偵測系統異常][為安全考量已刪除部分累積在記憶體內的資料]作為英雄援助用機器人，待救者探測中探測成功已發送█模組執行請求探測成功已發送█已發██探測中[Ｒebooｔ]請求[Reｂ█ooｔ][Ｒepeａt][Repeat██][Re█peat][█eboot][Ｒｅpe██t]這樣█的話我█誰都救不到█啊，[[span class="ruby"]]ㄐ█ㄣ[[span class="rt"]]G█ld[[/span]][[/span]]……[ＲｅＲｅＲｅｂｏｏｔ][Repeat]
 [[/collapsible]]
 **原文：** http://scp-jp.wikidot.com/scp-387-jp
-[[include info:end]]
+[[include credit:end]]
 **項目編號：** SCP-387-JP
 
 **項目等級：** --Euclid-- --Safe-- Keter

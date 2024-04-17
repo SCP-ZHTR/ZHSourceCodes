@@ -16,24 +16,30 @@
 [[table style="width: 100%;"]]
 [[row]]
 [[cell style=" text-align:center; width:33.3%;"]]
-[[include :scp-sandbox-3:image-zoom name=https://i.imgur.com/lw66vWV.png|caption=籽|width=150px|align=center]]
+[[include :scp-sandbox2-zh:draft:scope name=https://i.imgur.com/lw66vWV.png|width=150px]]
+++++++ 籽
 [[/cell]]
 [[cell style=" text-align:center; width: 33.4%;"]]
-[[include :scp-sandbox-3:image-zoom name=https://i.imgur.com/gmsk4UU.png|caption=芽|width=150px|align=center]]
+[[include :scp-sandbox2-zh:draft:scope name=https://i.imgur.com/gmsk4UU.png|width=150px]]
+++++++ 芽
 [[/cell]]
 [[cell style=" text-align:center; width:33.3%;"]]
-[[include :scp-sandbox-3:image-zoom name=https://i.imgur.com/m56n6zX.png|caption=苗|width=150px|align=center]]
+[[include :scp-sandbox2-zh:draft:scope name=https://i.imgur.com/m56n6zX.png|width=150px]]
+++++++ 苗
 [[/cell]]
 [[/row]]
 [[row]]
 [[cell style=" text-align:center; width:33.3%;"]]
-[[include :scp-sandbox-3:image-zoom name=https://i.imgur.com/yBpAJiU.png|caption=藤|width=150px|align=center]]
+[[include :scp-sandbox2-zh:draft:scope name=https://i.imgur.com/yBpAJiU.png|width=150px]]
+++++++ 藤
 [[/cell]]
 [[cell style=" text-align:center; width: 33.4%;"]]
-[[include :scp-sandbox-3:image-zoom name=https://i.imgur.com/FaE5TmL.png|caption=樹|width=150px|align=center]]
+[[include :scp-sandbox2-zh:draft:scope name=https://i.imgur.com/FaE5TmL.png|width=150px]]
+++++++ 樹
 [[/cell]]
 [[cell style=" text-align:center; width:33.3%;"]]
-[[include :scp-sandbox-3:image-zoom name=https://i.imgur.com/gQjC89h.png|caption=林|width=150px|align=center]]
+[[include :scp-sandbox2-zh:draft:scope name=https://i.imgur.com/gQjC89h.png|width=150px]]
+++++++ 林
 [[/cell]]
 [[/row]]
 [[/table]]

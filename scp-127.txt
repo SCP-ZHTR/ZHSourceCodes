@@ -6,7 +6,7 @@
 譯者：[[*user nyunyunyun]]
 [[include info:end]]
 
-[[include component:image-block name=https://scp-wiki.wdfiles.com/local--files/scp-127/scp-127_1.png|caption=SCP-127.]]
+[[include component:image-block name= http://www.scpwiki.com/local--files/scp-127/MP5k.JPG |caption=SCP-127.]]
 
 **項目編號：** SCP-127
 

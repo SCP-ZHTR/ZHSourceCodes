@@ -5,7 +5,7 @@
 [[/module]]
 [[module css]]
 :root:lang(zh) {
-  --header-title: "SITE-ZH-59";
+  --header-title: "SITE-ZH-30";
   --header-subtitle: "不在此處，就在此處";
   --lgurl: url("https://i.imgur.com/FG2CzvR.png");
   --accentColor: #00ADBE;
@@ -131,9 +131,9 @@ content: "> ";
 
 **性別：**男
 
-**所屬設施：**Site-ZH-59
+**所屬設施：**Site-ZH-09→Site-ZH-30
 
-**任職部門：**現實部門&模因部門
+**任職部門：**模因部門&現實部門
 
 **專長：**項目收容、模因控制&分析、現實學研究
 
@@ -143,7 +143,7 @@ content: "> ";
 |photo=https://i.imgur.com/iQu8Uu3.png
 |level=4
 |name=Pasong.E.Leanth
-|dept=現實部門&模因部門 |position=研究員
+|dept=模因部門&現實部門 |position=研究員
 |id-number= 1101505-562257
 |expiry=2024/12/31
 ]]
@@ -221,10 +221,16 @@ Pol絕大多數時候臉上都帶著笑容，並且演技精湛，他可以演�
 [[/tabview]]
 
 [[tabview]]
-[[tab 檔案：Site-ZH-59系列（原創）]]
+[[tab 檔案：Site-ZH-09系列]]
+[[size x-large]]空空如也[[/size]]
+[[/tab]]
+[[tab 檔案：Site-ZH-30系列]]
 [[module ListPages created_by="UrsaMerak" tags="原創" perPage="1000" separate="no" order="rating desc"]]
 ||%%title_linked%%||**%%created_at%%**||%%rating%%||
 [[/module]]
+[[/tab]]
+[[tab 檔案：Site-ZH-59系列]]
+[[size x-large]]空空如也[[/size]]
 [[/tab]]
 [[tab 檔案：Site-ZH-11系列（翻譯）]]
 [[module ListPages created_by="UrsaMerak" tags="翻譯" perPage="1000" separate="no" order="rating desc"]]
@@ -239,11 +245,6 @@ Pol絕大多數時候臉上都帶著笑容，並且演技精湛，他可以演�
 [[div class="text"]]
 > [http://scp-int.wikidot.com/scp-zh-146 SCP-ZH-146 - Spring Days]
 > **We are finally beautiful.**
-@@ @@
-[[/div]]
-[[div class="text"]]
-> [http://scp-int.wikidot.com/scp-zh-299 SCP-ZH-299 - As long as thousands of kilometers, As short as tens of centimeters.]
-> **Soon, a sponge whale crashed his boat, creating waves like thunder, and sprayed water like rain.**
 @@ @@
 [[/div]]
 [[/div]]

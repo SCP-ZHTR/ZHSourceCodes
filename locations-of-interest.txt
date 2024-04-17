@@ -85,14 +85,11 @@ div.blockquote,
 @@ @@[#map 關注地點地圖]
 @@ @@[#classes Nexus區域分級]
 @@ @@[#nexus Nexus列表]
-@@    @@[#consensus-reality Nx-00：共識現實]
 @@    @@[#wanderers-library Nx-01：流浪者的圖書館]
 @@    @@[#avalon Nx-02：阿瓦隆]
 @@    @@[#hy-brasil Nx-03：哈伯希爾]
 @@    @@[#murky-lake Nx-04：髒髒湖]
 @@    @@[#gwag-hen Nx-07：空空老狗鎮]
-@@    @@[#danxia-wanling Nx-CN-08：丹霞宛陵洞天]
-@@    @@[#univers-isle Nx-12：宇宙島王國]
 @@    @@[#hoiohina Nx-14：霍尤伊納]
 @@    @@[#boring Nx-17：無聊鎮]
 @@    @@[#sloths-pit Nx-18：斯洛斯皮特]
@@ -114,58 +111,42 @@ div.blockquote,
 @@    @@[#cipher-city Nx-91：密碼市]
 @@    @@[#lake-huron Nx-94：休倫湖]
 @@    @@[#ipperwash Nx-143：伊帕瓦什營區]
-@@    @@[#sculpture-island Nx-173：塑像島]
-@@    @@[#puerto-extrano Nx-572：怪異港]
+@@    @@[#puerto-extrano Nx-572：外波多黎各]
 @@    @@[#piss-world Nx-933：尿世界]
-@@    @@[#new-atlantis Nx-5525：新亞特蘭提斯]
 @@ @@[#freeport 自由港列表]
 @@    @@[#three-portlands FP-01：三波特蘭]
 @@    @@[#backdoor-soho FP-02：蘇荷後門]
 @@    @@[#eurtec FP-03：歐特克]
 @@    @@[#la-rue-macabre FP-04：異人街]
 @@    @@[#the-pillars FP-05：柱群]
-@@    @@[#chugoku-cellar FP-06：中國穴藏]
-@@    @@[#zagrobnika FP-07：扎格羅布尼卡]
 @@    @@[#sjhlfels FP-08：萊茵的希爾費爾斯]
-@@    @@[#xin-kowloon FP-14：新九龍]
-@@    @@[#new-amsterdam FP-55：新阿姆斯特丹]
 @@    @@[#wonder-world FP-84：奇妙世界！™]
 @@    @@[#two-blackbutts FP-88：雙布萊克巴特]
 @@    @@[#the-net FP-99: 網]
 @@    @@[#goricna FP-108: 戈里奇納]
 @@    @@[#esterberg FP-120：艾斯特伯格]
-@@    @@[#Arcadia FP-129：阿卡迪亞]
 @@    @@[#tlaneyanco FP-150：特萊尼揚科王國]
 @@    @@[#butai FP-178：布太]
 @@ @@[#other 其他關注地點]
-@@    @@[#adytum Adytum]
 @@    @@[#alagadda 阿拉加達]
 @@    @@[#antarctic-empire 第三南極帝國]
 @@    @@[#baltic-trench 波羅的海溝]
 @@    @@[#chugwater 楚格沃特]
-@@    @@[#confederate-island 幻島同盟]
 @@    @@[#corbenic 科爾本尼奇]
-@@    @@[#drunkness-street 酩酊街]
 @@    @@[#farpoint-station 遠點站]
 @@    @@[#hong-shing 香城]
 @@    @@[#hydras-spine 九頭蛇脊柱]
 @@    @@[#infinite-ikea 「無限」宜家]
-@@    @@[#koigarezaki 戀昏崎]
 @@    @@[#little-havana 小哈瓦那]
-@@    @@[#mu-yi 木易]
+@@    @@[#koigarezaki 戀昏崎]
 @@    @@[#outer-lichtenberg 外利希騰堡]
 @@    @@[#paramax 超極限]
 @@    @@[#samothrace 東薩莫色雷斯伊斯蘭共和國]
-@@    @@[#scp-4700-1 SCP-4700-1]
 @@    @@[#scp-5572-prime SCP-5562-PRIME]
-@@    @@[#scp-6125 SCP-6125]
-@@    @@[#shigastan 希加斯坦共和國]
 @@    @@[#taboo 基於協議4000-Eshu已編輯]
-@@    @@[#tono-yokai-sanctuary 遠野妖怪保護區]
+@@    @@[#tono-yokai-sanctuary Tōno Yōkai Sanctuary]
 @@    @@[#undervegas 陰間維加斯]
-@@    @@[#unlondon 非倫敦]
-@@    @@[#violet 紫羅蘭]
-@@    @@[#west-korea 西韓國]
+@@    @@[#unlondon UnLondon]
 @@ @@[#additional-locations 額外Nexus、自由港、其他關注地點]
 @@ @@[#related-pages 相關頁面]
 @@ @@[#about-this-page 頁面相關]
@@ -334,22 +315,6 @@ div.blockquote,
 
 @@ @@
 
-[[# consensus-reality]]
-[[div class="blockquote"]]
-++ [[span style="font-family: Verdana; font-size: 125%;"]]Nx-00：共識現實[[/span]]
-
-**區域等級：** ##green|**ENTIRE**## (##666|**Crossroads**##)
-
-**進出方式：** 多元宇宙基線
-
-**監管設施：** Outpost-7243
-
-**描述：** 「Nexus-00」是共識現實：一切可觀察、可量測並與本宇宙相容的存在。這包括以連貫方式與本現實相連/香作用的超宇宙空間。任何能與共識現實成功標識之區域均是其延伸，這也包括了Nexus-00本身。Nexus-00當然不是單一連續的物理平面，其包含了各類物理上非連貫的地點，這些地點至少在資訊上與共識現實相連。然而，我方的基金會已經證實，本當地宇宙（Nexus-00-A）亦存在資訊不連續的定點/邊界。此不連續性不應與嵌入口袋維度（即黑洞內部）、[*/scp-3930 非存在區域]、傳統物理之局部崩潰、**##green|危險的命名影響##**相混淆，這些區域儘管可能極度迂迴，但仍可以在Nexus-00流形中成功標識。
-
-**關聯文章：**
-* [[[SCP-7243]]] - **##gray|EXISTENTIAL ABATEMENT##**
-[[/div]]
-
 [[# wanderers-library]]
 [[div class="blockquote"]]
 ++ [[span style="font-family: Verdana; font-size: 125%;"]][[[scp-6000| Nx-01]]]：[http://scp-zh-tr.wikidot.com/wanderers:start-zh 流浪者的圖書館] [[/span]]
@@ -436,40 +401,6 @@ div.blockquote,
 **關聯文章：**
 * [[[Nx-07]]]
 
-[[/div]]
-
-[[# danxia-wanling]]
-[[div class="blockquote"]]
-++ [[span style="font-family: Verdana; font-size: 125%;"]][*http://scp-int.wikidot.com/nx-cn-08 Nx-CN-08]：丹霞宛陵洞天[[/span]]
-
-**區域等級：** --##orange|**Shangri-La**##-- ##blue|**Briar**##
-
-**區域位置：** 中國江西撫州麻姑山
-
-**描述：** 具逆模因特性之非歐幾里德空間，僅能透過執行一系列道教儀式才能進入。Nexus本身是座小山谷，是曾經興盛的道教北帝派基地，該宗派在Nexus建造了許多中國古代風格的建築。值得注意的是，Nexus上方天空滿是硃砂色的發光雲，並在內部觀察到了多種滅絕或存在異常變化的野生動物。由於遭到[[[http://scp-zh-tr.wikidot.com/goc-hub-page|全球超自然聯盟]]]的控制，基金會在此地的探索因而受阻。
-
-**關聯文章：**
-* [http://scp-int.wikidot.com/nx-cn-08 Nx-CN-08]
-[[/div]]
-
-[[# univers-isle]]
-[[div class="blockquote"]]
-++ [[span style="font-family: Verdana; font-size: 125%;"]]Nx-12：[http://scp-int.wikidot.com/groupes-d-interet-fr#univers-isle 宇宙島王國] [[/span]]
-
-[[f>image https://scp-wiki.wdfiles.com/local--files/locations-of-interest/Univers-Isle.png width="150px"]]
-
-**區域等級：** ##red|**Dunwich**##
-
-**區域位置：**法國薩沃伊（曾經）
-
-**描述：** 宇宙島王國（又名雲之王國或代號克魯索）是一個異常文明。位於超維度現實中的浮島上，該現實原本是由完全空曠的天空組成。宇宙島王國由法國薩瓦省聖蓋倫居民於18世紀初建立，他們穿越天空的裂縫，抵達這片大陸進行殖民。天主教會的干預使他們受困於此，這導致該孤立社會發展出了自己的「島嶼民」身分認同。該社群的超技術最終使他們創造出了跨維度門徑，恢復了與基線宇宙的聯繫，和平派系與其他認為應該征服「世界民」的派系關係從此變得緊張。 基金會正在與尋求和平的島嶼民派系（分離主義者）合作，以避免衝突並確保宇宙島王國的存在繼續被隱藏下去。
-
-**關聯文章：**
-* [[[http://scp-zh-tr.wikidot.com/groupes-d-interet-fr#univers-isle|法文分部關注組織]]]
-* [http://scp-int.wikidot.com/centro-centre-18-20-oct-312 "Centro-Centered" — The Blue Sky 18:20Oct302]
-* [http://scp-int.wikidot.com/le-phare-du-vide Lighthouse of Nil]
-* [http://scp-int.wikidot.com/scp-471-fr SCP-471-FR] - Riders on the Storm
-* All articles tagged with [http://scp-int.wikidot.com/system:page-tags/tag/univers-isle univers-isle] on the International Translation Archive.
 [[/div]]
 
 [[# hoiohina]]
@@ -615,7 +546,7 @@ https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Sign-Boring.svg width=
 
 **收容設施：** [[[secure-facility-dossier-site-333|Site-333]]]
 
-**描述：** 紐澤西被提事件（導致25名心地善良之人莫名其妙的消失）後，該地區即被歸定為Nexus。在此之後，該城市的「不幸」事件異常增加，環境阿基瓦輻射驟降為零，居民普遍感到失落、絕望、對他人普遍的不信任與冷漠感。值得注意的是，當進入城市的各個賭場內時，上述情緒將能得到暫時的緩解，這是屬於異常現象還是自然反應仍在討論中。
+**描述：** 紐澤西被提事件（導致25名心地善良之人莫名其妙的消失）後，該地區即被歸定為Nexus。在此之後，該城市的「不幸」事件異常增加
 
 **關聯文章：**
 * [[[secure-facility-dossier-site-333|歡迎來到Site-333：大西洋城]]]
@@ -865,25 +796,9 @@ https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Sign-Boring.svg width=
 * [[[0-underture |Underture]]]
 [[/div]]
 
-[[# sculpture-island]]
-[[div class="blockquote"]]
-++ [[span style="font-family: Verdana; font-size: 125%;"]]Nx-173：塑像島[[/span]]
-
-**區域等級：** ##red|**Dunwich**##
-
-**區域位置：** Dr. Moto's office, Site-19
-
-**收容設施：** [[[experiment-log-914-hub|Site-19]]]
-
-**關聯文章：** Nx-173是一座小島，可透過Site-19的Moto博士辦公室木門進入。1993年，隨著Moto博士的失踪，這扇門就突然出現了。尚未釐清該島嶼的起源與所在位置，但對該地區的探索強烈顯示這座島嶼就位在地球上的某個地方。當地植物沒無異常，但Nx-173的動物群都表現出了極強的敵意。
-
-**關聯文章：**
-* [[[SCP-173 But... it's a Collaborative Log|SCP-173 But... it's a Nexus]]]
-[[/div]]
-
 [[# puerto-extrano]]
 [[div class="blockquote"]]
-++ [[span style="font-family: Verdana; font-size: 125%;"]]Nx-572：怪異港[[/span]]
+++ [[span style="font-family: Verdana; font-size: 125%;"]]Nx-572：外波多黎各[[/span]]
 
 [[f>image https://scp-wiki.wdfiles.com/local--files/locations-of-interest/Flag-Puerto-Extrano.png width="200px" style="border:1px solid black;"]]
 
@@ -893,7 +808,7 @@ https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Sign-Boring.svg width=
 
 **收容設施：** Site-572
 
-**描述：** 作為為數不多的外星源Nexus之一，怪異港是阿根廷科學、技術與創新部派遣探勘小組於南極發現外星地球形成器，並將其帶回自己母國後的產物。殖民者本身也因接觸了設備出現肉體變化，設備啟動製造的外星大氣也使其中生物體出現物理變化，從而適應了灰色的太陽光線。另外該Nexus還形成了統一的神經網路，允許Nexus成員在社群範圍內共享情緒。這使得當地居民出於自願的進行自我隔離。
+**描述：** 作為為數不多的外星源Nexus之一，外波多黎各是阿根廷科學、技術與創新部派遣探勘小組於南極發現外星地球形成器，並將其帶回自己母國後的產物。殖民者本身也因接觸了設備出現肉體變化，設備啟動製造的外星大氣也使其中生物體出現物理變化，從而適應了灰色的太陽光線。另外該Nexus還形成了統一的神經網路，允許Nexus成員在社群範圍內共享情緒。這使得當地居民出於自願的進行自我隔離。
 
 **關聯文章：**
 * [[[SCP-6500]]] - 無以避免
@@ -912,27 +827,6 @@ https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Sign-Boring.svg width=
 **關聯文章：**
 * [[[SCP-6833]]] - 尿世界
 [[/div]]
-
-[[# new-atlantis]]
-[[div class="blockquote"]]
-++ [[span style="font-family: Verdana; font-size: 125%;"]]Nx-5525：[[[new-atlantis|新亞特蘭提斯]]] [[/span]]
-
-[[f>image https://scp-wiki.wdfiles.com/local--files/new-atlantis/AtlantisArizonaFlag2.png width="200px"]]
-
-**區域等級：** ##red|**Dunwich**##
-
-**收容設施：** 美國亞利桑那格倫峽谷大壩
-
-**描述：** 又名「恢復海洋人民的海洋統治國」或單稱新亞特蘭提斯共和國即可。這裡是亞利桑那的亞特蘭提斯殖民地兼城邦，於名為「不合時宜之鏡」之異常裝置自[[[SCP-5525]]]送出少量亞特蘭提斯人（Homo sapiens aquarius）後建立。美國政府亞特蘭提斯人水庫周圍的一小塊土地，該地區已發展為寧靜的小型城市，接受著美國軍方的嚴密監控。作為原亞特蘭提斯的延續。新亞特蘭提斯是個寡頭的海洋專制共和國，統治者為自新亞特蘭提斯參議院選舉產生之海軍部海軍上將委員會。亞特蘭提斯人利用科技奇蹟術隱藏了新亞特蘭提斯，使這座城市變得肉眼不可見。亞特蘭提斯族與美國政府間的關係建立於《比特摩爾條約》，該條約由[[[goc-hub-page|全球超自然聯盟]]]（GOC）與美國（UN）共同簽訂，僅適用於新亞特蘭提斯及其公民。
-
-**關聯文章：**
-* [[[Third Law Hub]]]
-* [[[new-atlantis|New Atlantis, Arizona]]]
-* [[[SCP-5525]]] - The United States Government Loots Atlantis
-
-@@@@
-[[/div]]
-
 
 [[# freeport]]
 [[=]]
@@ -1036,40 +930,6 @@ https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Sign-Boring.svg width=
 * [[[Lantern Bearer]]]
 [[/div]]
 
-[[# chugoku-cellar]]
-[[div class="blockquote"]]
-
-++ [[span style="font-family: Verdana; font-size: 125%;"]] FP-06：中國穴藏[[/span]]
-
-**區域等級：** ##purple|**Free Port**##
-
-**進出方式：** 日本中國地區
-
-**監管設施：** Site-81CH
-
-**描述：** 東亞大型自由港之一。在這個口袋維度中，鳥取、島根、岡山、廣島、山口的異常倒影明顯融合為一。這裡是個混亂而人口稠密的空間，是眾多異常實體的家園，也是眾多超自然工業/貿易業所在地及中心，從純粹概念的精煉到異常材料的加工皆有。 基金會特工目前已監視住所有已知的中國穴藏入口。
-
-**關聯文章：**
-* [[[Making a Scene]]]
-* [[[Seven Characters Die Unexpectedly]]]
-* [!-- [http://scp-jp.wikidot.com/system:page-tags/tag/%E7%A9%B4%E8%94%B5 All pages tagged "穴蔵" (the-cellar) on the Japanese wiki.] --]
-[[/div]]
-
-[[# zagrobnika]]
-[[div class="blockquote"]]
-
-++ [[span style="font-family: Verdana; font-size: 125%;"]] FP-07：扎格羅布尼卡[[/span]]
-
-**區域等級：** --##purple|**Free Port**##-- Neutralized
-
-**進出方式：** 歐洲克羅埃西亞薩格勒布
-
-**描述：** 前克羅埃西亞自由港，其特徵為與人類雜居之高密度超自然種族。我還知道夢占能力者誕生率高這個特徵。1980 年，[[[goc-hub-page|全球超自然聯盟]]]摧毀了FP-07。根據GOC的聲明，在影響自由港心靈術士之[[[oneiroi| 夢神]]][[[goc-supplemental-threat-entities| 黑型]]]實體清洗行動中，扎格羅布尼卡成為了不可避免的受害者。
-
-**關聯文章：**
-* [[[SCP-6709]]] - The Gang of Broken Dreams
-[[/div]]
-
 [[# sjhlfels]]
 [[div class="blockquote"]]
 ++ [[span style="font-family: Verdana; font-size: 125%;"]]FP-08：萊茵的希爾費爾斯[[/span]]
@@ -1091,39 +951,6 @@ https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Sign-Boring.svg width=
 * [http://scp-zh-tr.wikidot.com/kreaturenprofil-eden Critter Profile: EDEN!]
 * [[[re-kto-1466-houdini|Re: KTO-1466-Houdini "Mages Academy"]]]
 [[/div]]
-
-[[# xin-kowloon]]
-[[div class="blockquote"]]
-
-++ [[span style="font-family: Verdana; font-size: 125%;"]] FP-14：新九龍[[/span]]
-
-**區域等級：** ##purple|**Free Port**##
-
-**進出方式：** 中國香港
-
-**描述：** 九龍城寨是香港無人監管的飛地，淪為黑幫與罪犯橫行之罪惡大城。在基金會回收前，[[[SCP-184]]]被不明團體利用以顯著擴大城內建物的內部空間。儘管認定這些空間已在1994年城市拆除行動中被摧毀，但似乎有很大一部分在口袋維度內逃過一劫留存下來。最終九龍是毀了，但城內的犯罪組織仍選擇留。根據報告，此超維度空間是由相連的房間、走廊、樓梯間所構成之迷宮，一共分為十二個區域，每個區域都由不同的犯罪組織所控制。基金會與[[[goc-hub-page| 全球超自然聯盟]]]攻破此超自然飛地的方法，但迄今為止所有的嘗試都失敗了。
-
-**關聯文章：**
-* [[[SCP-7250]]] - You Make Your Own
-[[/div]]
-
-[!-- Free Port number assigned by author Therionnexus --]
-[!--
-[[# new-amsterdam]]
-[[div class="blockquote"]]
-
-++ [[span style="font-family: Verdana; font-size: 125%;"]] FP-55：新阿姆斯特丹[[/span]]
-
-**區域等級：** ##purple|**Free Port**##
-
-**進出方式：** 美國紐約
-
-**描述：** 新阿姆斯特丹得名於曼哈頓南部的前荷蘭殖民地，後者也是該自由港的出入口，此處是人造的口袋維度兼超自然飛地，是超自然文藝復興時期所建立的。新阿姆斯特丹最初是根據一群富有的紐約企業家與社會名流簽訂合約所創建，最初僅是作為避稅天堂使用。雖然後來在[[[unusual-incidents-unit-hub| 胡佛命令]]]下這裡被納入美國的管轄範圍，但新阿姆斯特丹仍成為了面紗後超級富豪的專屬社群。面紗世界內最古老、最有權勢的家族大多居住或出身於新阿姆斯特丹，在這個地方，那些人有著完美的條件足以操縱正常與超自然事務，同時也能自由公開的沉迷於各類異常興趣與活動。[[[marshall-carter-and-dark-hub| Marshall, Carter & Dark]]]在紐約的主要辦公室就位於新阿姆斯特丹，懷疑至少有一名[[[o5-command-dossier|基金會監督者]]]就在此飛地擁有住所。
-
-**關聯文章：**
-* [[[Third Law Hub]]]
-* [[[paramax|UIU Location Dossier — "Paramax"]]]
-[[/div]]--]
 
 [[# wonder-world]]
 [[div class="blockquote"]]
@@ -1215,27 +1042,6 @@ https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Sign-Boring.svg width=
 * [/system:page-tags/tag/艾斯特伯格 艾斯特伯格]頁面標籤
 [[/div]]
 
-[[# Arcadia]]
-[[div class="blockquote"]]
-++ [[span style="font-family: Verdana; font-size: 125%;"]]FP-129：[http://scp-zh-tr.wikidot.com/scp-7629 阿卡迪亞天龍城][[/span]]
-[[f>image http://scp-wiki.wikidot.com/local--files/fragment:scp-7629-2/Arcadia-Flag.png width="200px"]]
-
-**區域等級：** ##purple|**Free Port**##
-
-**進出方式：** 俄羅斯烏拉山脈
-
-**監管設施：** [[[secure-facility-dossier-site-120|Site-120]]]
-
-**描述：** 天龍種（Draconis sapiens）先祖的地下家園，該種族目前正由第十九代金剛王Ragna Von Morrowind統治之龍騎士團領導。當地可由烏拉山脈內的隱藏奇蹟術隧道洞穴進入。該種族最初於農村環境生活，過著偏執狂式的生活方式，直到1998年基金會發現此地，該種族與Site-120簽訂了圓桌協議。現在，阿卡迪亞憑藉自己的奇蹟術技術變得更加先進，已成為SCP 基金會、領航者等眾多其他異常當地勢力（例如艾斯特伯格）的主要支援者兼合作夥伴。
-
-**關聯文章：**
-* [[[SCP-7629]]] - Sanctuary of The Sky Keepers
-* [[[From 120's Archives Hub]]]
-* [[[No Return Hub]]]
- * [[[the-lost-spire-part-1|]]]
- * [[[the-lost-spire-part-2|]]]
-[[/div]]
-
 [[# tlaneyanco]]
 [[div class="blockquote"]]
 ++ [[span style="font-family: Verdana; font-size: 125%;"]]FP-150：[http://scp-zh-tr.wikidot.com/hub-sueno-nuclear 特萊尼揚科王國][[/span]]
@@ -1282,27 +1088,6 @@ https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Sign-Boring.svg width=
 
 @@ @@
 
-[[# adytum]]
-[[div class="blockquote"]]
-++ [[span style="font-family: Verdana; font-size: 125%;"]][[[sarkicism-hub|阿狄泰姆]]][[/span]]
-
-[[f>image https://scp-wiki.wdfiles.com/local--files/scp-2815/Adytumsmall.png width="200px"]]
-
-**區域位置：** 俄羅斯西西伯利亞北烏拉爾（曾經）
-
-**描述：** Adytum[[footnote]][[[old-adytite-language|阿狄泰特語]]]術語//Adí-üm//的希臘語音譯。不應與意為聖所最深處之內殿（adytum）混淆。[[/footnote]]是古代卡俄瑪剋塔瑪帝國（阿狄烏姆帝國）的都城，據信位於今日俄羅斯之西西伯利亞。西元前1800年，大術士伊仰領導了對殆瓦文明的叛亂，成功建立了這個帝國。在接下來的800年，這座都城作為新文明的中心蓬勃發展，透過血肉術的運用建造了各種宏偉的建築。然而，在卡俄瑪剋塔瑪帝國與地中海諸國（包括[[[church-of-the-broken-god-hub|美刻尼]]]在內）爆發了古代[[[scp-2406|超自然戰爭]]]後，內殿與大術士伊仰一起從基線現實消失，卡俄瑪剋塔瑪帝國崩潰，欲肉教徒開始流落各地。
-
-尚未釐清內殿的當前位置與狀態。儘管考慮到欲肉教的結構及工具的有機性質，這樣的結果並不令人意外，但確實已經發現其存在的最小考古證據。各類欲肉教派相信內殿仍然存在於宇宙外虛空中的某個地方，部分說法表明可能仍有抵達內殿的方法。多個原始欲肉教消息來源指稱，這座城市被故意從基線現實移除，尚未釐清這是為了保護城市免於入侵者的侵害，還是為了防止城內的某種東西進入本現實。數個新欲肉教派正在積極致力於再發現與使[[[scp-2480|內殿回歸]]]，這將嚴重擾亂正常秩序，必須不惜一切代價加以阻止。
-
-**關聯文章：**
-* [[[Sarkicism Hub]]]
-* [[[memoria-adytum|In Memoria, Adytum]]]
-* [[[SCP-2480]]] - An Unfinished Ritual
-* [[[SCP-2815]]] - Tree of Life
-* [[[A Real Humdinger]]]
-
-[[/div]]
-
 [[# alagadda]]
 [[div class="blockquote"]]
 ++ [[span style="font-family: Verdana; font-size: 125%;"]]阿拉加達[[/span]]
@@ -1319,23 +1104,6 @@ https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Sign-Boring.svg width=
 * [/system:page-tags/tag/阿拉加達 阿拉加達]頁面標籤
 
 [[/div]]
-
-[!--
-[[# avalon]]
-[[div class="blockquote"]]
-++ [[span style="font-family: Verdana; font-size: 125%;"]]阿瓦隆王國（異界）[[/span]]
-
-**進出方式：**  多元宇宙基線現實
-
-**描述：** 妖精五國之一。曾經是妖精社群的繁榮中心，在第六次超自然戰爭與面紗建立後，使阿瓦隆團結的命名敘事咒文顯著衰弱。這導致了阿瓦隆的去概念化，最終使其自基線現實消失，迫使其大多數公民在英國超自然機構的協助下前往三波特蘭尋求庇護。1907年該地完全去概念化。儘管現今阿瓦隆已經消失了一個多世紀，但[[[finding-avalon|其文化影響仍可在許多超自然世界中見得]]]，不過最終都以未知形式做了改造。根據近期發生的事件，已經證明阿瓦隆正以[[[scp-6916|多種]]][[[Nx-02|方式]]]企圖捲土從來  。
-
-**關聯文章：**
-* [[[SCP-6916]]] - Hiraeth and the Land of My Fathers
-* [[[Nx-02]]]
-* [[[Finding Avalon]]]
-* [[[fae-myths-and-legends|Fae Myths and Legends]]]
-[[/div]]
---]
 
 [[# antarctic-empire]]
 [[div class="blockquote"]]
@@ -1357,6 +1125,7 @@ https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Sign-Boring.svg width=
 * [[[SCP-6483]]] - The Polar Express
 
 [[/div]]
+
 
 [[# baltic-trench]]
 [[div class="blockquote"]]
@@ -1397,21 +1166,6 @@ https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Sign-Boring.svg width=
 * [[[secure-facility-dossier-site-78| Secure Facility Dossier: Site-78]]]
 [[/div]]
 
-[[# confederate-island]]
-[[div class="blockquote"]]
-++ [[span style="font-family: Verdana; font-size: 125%;"]][[[http://scp-zh-tr.wikidot.com/groups-of-interest-jp|幻島同盟]]][[/span]]
-
-[[f>image https://scp-wiki.wdfiles.com/local--files/locations-of-interest/CICP.png width="150px"]]
-
-**進出方式：** 多元宇宙基線現實
-
-**描述：** 幻島同盟（CICP）是存在於異世界的島嶼聯邦國家。成員島嶼原本存在於本宇宙，直到14至16世紀前後透過異常手段遷入其他世界為止，其部分原因是為了避免當時列強的探索與殖民。這導致了所謂的「幽靈島」──曾經被記錄在海圖上，但在日後探險中卻不復尋得的島嶼。在CICP的世界裡，部分非正常物體被稱為「遺物」，特別強大的遺物會得到「T」或「丁」的首字母編號，並用於保衛成員島嶼。成員島嶼要離開這個世界也是透過遺物實現的，據說這些遺物是來自名為圖勒之超自然文明的賜予。據說，圖勒在CICP成立後就消失了，成員島嶼的居民對此一無所知。本現實與CICP世界間的旅行仍是可行的，這也一直是許多異常的根源，部分異常還是相當危險並具破壞性的。
-
-**關聯文章：**
-* [[[http://scp-int.wikidot.com/groups-of-interest-jp| Japanese Groups of Interest]]]
-
-[[/div]]
-
 [[# corbenic]]
 [[div class="blockquote"]]
 ++ [[span style="font-family: Verdana; font-size: 125%;"]]科爾本尼奇[[/span]]
@@ -1426,23 +1180,6 @@ https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Sign-Boring.svg width=
 * [[[Three Moons Initiative Hub|叁月協會中心頁]]]
  * [[[pravoslavia|Intelligence Covenant Dossier: Region-9440AF9 "Pravoslavia"]]]
  * [[[wielka-altana|Intelligence Covenant Dossier: Region-3824FA1 "Wielka Altana"]]]
-
-[[/div]]
-
-[[# drunkness-street]]
-[[div class="blockquote"]]
-++ [[span style="font-family: Verdana; font-size: 125%;"]][[[http://scp-zh-tr.wikidot.com/groups-of-interest-jp|酩酊街]]] [[/span]]
-
-**進出方式：** 亞州日本京都府
-
-**描述：** 酩酊街指涉的是一座大型住宅區，是基金會收容與記錄的多個異常來源處，似乎位於某種超維度地點或平行宇宙，以某種方式與醉酒、湮滅和停滯扯上關係。 酩酊街主要（但不限於）可由日本京都府進入，但目前對該地點知之甚少。儘管醉街確實存在具智慧之居民，但尚未釐清他們是否對基金會有所了解。在失去多名D級人員後，任何進入醉酒街的嘗試都已被禁止。
-
-**關聯文章：**
-* [[[http://scp-int.wikidot.com/groups-of-interest-jp|GROUPS OF INTEREST-JP]]]
-* [[[the-worst-version-of-myself| The Worst Version Of Myself]]]
-* [[[http://scp-int.wikidot.com/town-orbit-rendezvous| Bottom of Town]]]
-* [[[http://scp-int.wikidot.com/scp-1407-jp| SCP-1407-JP]]]
-* All articles tagged [http://scp-int.wikidot.com/system:page-tags/tag/drunkness-street drunkness-street] on the international translation archive.
 
 [[/div]]
 
@@ -1536,7 +1273,7 @@ https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Sign-Boring.svg width=
 
 **進出方式：** 佛羅里達加勒比群島
 
-**描述：** 小哈瓦那（La Pequeña Habana）亦稱哈瓦尼塔、擁有自由之地（SWHP）、哈瓦那多斯，是獨立的城市國家與超常飛地，位於自給自足的口袋維度之中，可透過佛羅里達南部與加勒比群島周圍的通道進入。該城鎮直到1982年都一直受到[[[chicago-spirit|芝加哥酒品走私集團]]]的控制，該異常犯罪集團時至今日都還持續運作著。小哈瓦那是加勒比地區最大的超常飛地，擁有兩所大學與[[[marshall-carter-and-dark-hub| Marshall, Carter & Dark]]]經營的皇家棕梠酒店。由於與古巴當局的緊張關係，基金會始終無法令該自由港簽屬[http://scp-zh-tr.wikidot.com/i-57-hub 《自由異常社群條約》]。
+**描述：** 小哈瓦那（La Pequeña Habana）亦稱哈瓦尼塔、擁有自由之地（SWHP）、哈瓦那多斯，是獨立的城市國家與超常飛地，位於自給自足的口袋維度之中，可透過佛羅里達南部與加勒比群島周圍的通道進入。該城鎮直到1982年都一直受到[[[chicago-spirit|芝加哥酒品走私集團]]的控制，該異常犯罪集團時至今日都還持續運作著。小哈瓦那是加勒比地區最大的超常飛地，擁有兩所大學與[[[marshall-carter-and-dark-hub| Marshall, Carter & Dark]]]經營的皇家棕梠酒店。由於與古巴當局的緊張關係，基金會始終無法令該自由港簽屬[http://scp-zh-tr.wikidot.com/i-57-hub 《自由異常社群條約》]。
 
 **關聯文章：**
 * [http://scp-zh-tr.wikidot.com/dossier-lph UIU Location Dossier -- "Little Havana"]
@@ -1544,23 +1281,6 @@ https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Sign-Boring.svg width=
 * [http://scp-zh-tr.wikidot.com/scp-es-202 SCP-ES-202] - What is HANSARP?
 * [http://scp-zh-tr.wikidot.com/i-57-hub| Facility-57 Hub]
 
-[[/div]]
-
-[[# mu-yi]]
-[[div class="blockquote"]]
-++ [[span style="font-family: Verdana; font-size: 125%;"]][[[http://scp-zh-tr.wikidot.com/groups-of-interest-zh|木易藏書閣]]][[/span]]
-
-[[f>image https://i.imgur.com/KGR6PHi.png style="border:1px solid black;" width="60px"]]
-
-**進出方式：** 基線現實亞州中國香港
-
-**描述：** 木易藏書閣為一間由於1994年開辦的私人圖書館及博物館，主要以收藏異常古物及圖書為主。該組織不對外公開， 每次參觀或借閱圖書皆需要提前申請。該組織的存在於1978年的██事件中被基金會發現， 從而兩者建立了關係。於基金會的協助下，木易圖書閣現時已於香港開設分館。木易藏書閣亦會為基金會以收購形式阻隔異常收藏品於各地之間的流通。現時該組織亦與基金會考古學部有聯絡，以進行和異常相關的歷史研究及考古發掘工作。現時，「手抄本協議」概述了該組織應由MTF-謁者-8（博物館保安）監督，該組織可以繼續保管他們原有的Safe級異常，並且基金會可以在預先兩至三個月申請的情況下與該組織合作對館中藏品進行實驗。同時，根據協議，30%的木易藏書閣維安工作亦會由基金會提供。協議內容可根據對灰色地帶或基金會的新政策隨時修訂。
-
-**關聯文章：**
-* [[[http://scp-int.wikidot.com/groups-of-interest-zh|Groups Of Interest of the ZH branch]]]
-* [[[http://scp-int.wikidot.com/yamizushi-file-no233|Dark Sushi File No.233 "Jiantizi Roll"]]]
-* [[[http://scp-int.wikidot.com/scp-zh-251|SCP-ZH-251]]]
-* All pages tagged [http://scp-int.wikidot.com/system:page-tags/tag/mu-yi mu-yi] on the International Translation Archive.
 [[/div]]
 
 [[# outer-lichtenberg]]
@@ -1597,22 +1317,6 @@ https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Sign-Boring.svg width=
 
 [[/div]]
 
-[!--
-Not including this until there's a link to an actual (translated) article
-[[# the-peninsula]]
-[[div class="blockquote"]]
-++ [[span style="font-family: Verdana; font-size: 125%;"]][[[http://scp-int.wikidot.com/i-57-hub|「半島」]]][[/span]]
-
-**進出方式：** [[[http://scp-int.wikidot.com/i-57-hub|Facility-57第5翼區]]]
-
-**描述：** 「半島」是有個四面環海小島的口袋維度，其外表與普通島嶼無異，但其表面似乎有來自世界多個地方的無數圖像。唯一已知通往「半島」的通道將通往島嶼西北角，儘管沒有堅實的地面，但沿著東北方向行走，最終將導致人員抵達Facility-57第5翼區的某個點。拉丁美洲地區委員就用這裡來舉行會議。「半島」是世界上高度隱密安全的地方之一，只有上述委員會知道它的存在。然而委員會成員相當清楚，當他們被叫去「半島」時，大多不會是什麼好消息，等待他們的往往是失眠和壓力的漫漫長夜。
-
-**關聯文章：**
-* [[[http://scp-int.wikidot.com/i-57-hub| Facility-57 Hub]]]
-
-[[/div]]
---]
-
 [[# samothrace]]
 [[div class="blockquote"]]
 ++ [[span style="font-family: Verdana; font-size: 125%;"]]東薩莫色雷斯伊斯蘭共和國[[/span]]
@@ -1631,21 +1335,6 @@ Not including this until there's a link to an actual (translated) article
 * [[[oria-025-117|MEMORANDUM 117 REGARDING PROJECT 025]]]
 * [[[Djoric-Dmatix Proposal]]]
 
-[[/div]]
-
-[[# scp-4700-1]]
-[[div class="blockquote"]]
-++ [[span style="font-family: Verdana; font-size: 125%;"]][[[scp-4700|SCP-4700-1]]][[/span]]
-
-**描述：** SCP-4700是基金會-芬福克人聯合指揮之「高潮行動」中，數座大型潛水載具的總稱，所有載具都有個別的子編號。當前SCP-4700-1已經完工，SCP-4700-2至-4尚在建造中。[[[scp-4700|SCP-4700-1]]]是巨型機器人「寄居蟹」（//Coenobita brevimanus//），早於人類的先進文明芬福克人就居住於此。SCP-4700-1通常是隱形的。SCP-4700-1是奇蹟術先進之水生原始人種芬福克人（//Homo aqueous//）的家園兼首都。根據基金會-芬福克人合作協議的原則，芬福克人會在SCP-4700-1上接受永久庇護。SCP-4700-1最寬處約5公里；最高點約3公里，端點連接於其外殼上的一個奇異點。
-
-**關聯文章：**
-* [[[SCP-4700]]] - Orkney Rising
-* [[[Seas of Orcadia Hub]]]
- * [[[SCP-6700]]] - A Mithers' Love Underneath an Orkney Sky
-* [[[From 120's Archives Hub]]]
- * [[[the-enlightened-children|The Enlightened Children]]]
-* All pages tagged [/system:page-tags/tag/orcadia orcadia].
 [[/div]]
 
 [[# scp-5572-prime]]
@@ -1709,7 +1398,7 @@ Not including this until there's a link to an actual (translated) article
 **關聯文章：**
 * [[[searching-for-the-demon-foxes-1| Finding a Demon Fox]]]
 * [http://scp-int.wikidot.com/system:page-tags/tag/collected-item-no0723 Collected Item Memorandum Catalog #0723 (Tengu)]
-* [http://scp-int.wikidot.com/system:page-tags/tag/tōno-yōkai-sanctuary tōno-yōkai-sanctuary]國際頁面標籤
+* All pages tagged [http://scp-int.wikidot.com/system:page-tags/tag/tōno-yōkai-sanctuary tōno-yōkai-sanctuary] on the International Translation Archive.
 [[/div]]
 
 [[# undervegas]]
@@ -1746,36 +1435,7 @@ Not including this until there's a link to an actual (translated) article
 * [[[the-sun-ever-sets-on-the-british-empire|May The Sun Never Set On The British Empire]]]
 [[/div]]
 
-[[# violet]]
-[[div class="blockquote"]]
-++ [[span style="font-family: Verdana; font-size: 125%;"]][[[http://scp-zh-tr.wikidot.com/groups-of-interest-ko|紫羅蘭]]][[/span]]
-
-[[f>image http://scpko.wdfiles.com/local--files/groups-of-interest-ko/%EC%A0%9C%EB%B9%84%EA%BD%83.png width="150px"]]
-
-**描述：** 紫羅蘭是2020年首度確認六個大型維度外群集之一，該處有著與地球的甲殼生物、環節生物、線蟲動物近似的生命體。維度外群集是紫羅蘭的前身，具有吸引其他物理規則、生命體與其他特徵相似維度的特性。這使得在與基線現實互相吸引的過程中，紫羅蘭從維度外群集脫離並就此瓦解。由於瓦解為數個部分，紫羅蘭開始與基線現實融合，基金會在此過程中喪失了許多資源。目前紫羅蘭並未有任何指揮或社會結構，但卻試圖透過生物數量優勢入侵我們的基線現實，並以此取代他們已死亡的原本維度。紫羅蘭唯一而基本的要求就是生存。部分生物試圖透過與基線生命融合達成此目標，部分生物則企圖毀滅所有原生物種並取而代之。它們的目標也包括基金會在內，因此在與此類生物接觸時應當格外謹慎。
-
-**關聯文章：**
-* [[[http://scp-int.wikidot.com/groups-of-interest-ko|KOREAN GROUPS OF INTEREST]]]
-* [[[http://scp-int.wikidot.com/scp-326-ko|SCP-326-KO]]] - Natural reality fixation
-[[/div]]
-
-[[# west-korea]]
-[[div class="blockquote"]]
-++ [[span style="font-family: Verdana; font-size: 125%;"]]西韓共和國[[/span]]
-
-**區域位置：** 東亞黃海
-
-**描述：** 西韓共和國是曾經位於黃海大陸上的國家，位於朝鮮半島以西（可能與朝鮮半島相連）。在一次精心策劃的現實重構事件之後，整個國家及其地理邊界均脫離了共識現實，僅留下了[[[SCP-5345]]]。 自SCP-5345中回收文件的分析證實，西韓共和國存在著國家常態組織──西韓異常事務部，該組織對西韓共和國的消失負有主要責任。
-
-儘管可透過穿越至西韓共和國當前存在位面──被認為是眾多潛在身後之地的一個──進入西韓共和國，[[[SCP-7722|反之亦然]]]，但由於該國之域外領土著身分不明的敵對實體，迫使基金會採取當前的非入侵型監控政策。目前尚無與西韓接觸或將其帶回基線現實的提案。
-
-**關聯文章：**
-* [[[SCP-5345]]] - Almost Heaven, West Korea
-* [[[SCP-7722]]] - Nyctopolis
-[[/div]]
-
 @@ @@
-
 ----
 [[# additional-locations]]
 [[collapsible show="額外Nexus、自由港、其他關注地點" hide="把這裡當成半完整列表吧："]]
@@ -1785,6 +1445,7 @@ Not including this until there's a link to an actual (translated) article
 
 ||~ 編號 ||~ 名稱 ||~ 區域等級 ||~ 概述 ||~ 相關文章 ||
 || [*http://scp-zh-tr.wikidot.com/secure-facility-dossier-site-09k Nx-06]  || 夜鎮 || ##orange|**Shangri-La**## || 可由大韓民國慶尚南道進入的異次元空間，當中有大量生產異常物體的設施。 || [*http://scp-zh-tr.wikidot.com/secure-facility-dossier-site-09k Secure Facility File: Site-09K] ||
+|| Nx-012 || [[[http://scp-zh-tr.wikidot.com/groupes-d-interet-fr#univers-island| 宇宙島王國]]] || 未知 || 漂浮於完全空曠天空的超維度現實島嶼，由法國薩瓦省聖蓋倫居民於17世紀建立，他們透過天空形成的裂縫殖民了這塊土地。 || [http://scp-zh-tr.wikidot.com/scp-522-fr SCP-522-FR]，[http://scp-zh-tr.wikidot.com/system:page-tags/tag/宇宙島| 宇宙島]國際頁面標籤 ||
 || [*http://scp-zh-tr.wikidot.com/scp-1898-jp Nx-14] || 瓦南特村 || --##green|**Asphodel**##-- ##red|**Dunwich**## || 美國南達科他東部的小鎮。全鎮為濃霧所籠罩，居住著40多種異常生物，部分對人類造成了生命威脅。本異常地點原本只是普通的小鎮，在1951年基金會收容SCP-1898-JP期間成為了異常。 || [*http://scp-zh-tr.wikidot.com/scp-1898-jp SCP-1898-JP] ||
 || [*http://scp-zh-tr.wikidot.com/scp-zh-255 Nx-016] || 賓尼費莊 || 未知 || 賓尼費家族做為避難所建立的獨立聚落，當前已為金帳軍所佔領。 || [*http://scp-zh-tr.wikidot.com/scp-zh-255 SCP-ZH-255] ||
 || Nx-29 || 未知 || 未知 ||美國西南部12條萊伊線崩潰的產物。 || [[[chapter-2-here-comes-the-bogeyman| Here Comes The Bogeyman]]] ||
@@ -1811,6 +1472,7 @@ Not including this until there's a link to an actual (translated) article
 || Nx-901 || 永恆之光修道院 || 未知 || 位於中國。 || [[[KTE-2957-White-Cresentchild]]] ||
 || Nx-5525 || 新亞特蘭提斯 || 未知 || 亞利桑那州的亞特蘭提斯殖民地，在從[[[SCP-5525]]]移出的少數亞特蘭提斯人口復甦後，美國政府隨後授予他們某個水庫周圍的小區域土地使用。 || [[[new-atlantis|New Atlantis, Arizona]]] ||
 || Nx-CN-05 || 厝邊市 ||  ##purple|**Free Port**## || 厝邊市是位於獨立口袋維度的異常自由港，可透過、福建廈門市（島內）、漳州市、泉州市與廣東汕頭市少數奇蹟術陣式或秘道進出。 || [http://scp-wiki-cn.wikidot.com/cuobian Nx-CN-05: Cuobian City]||
+|| [*http://scp-int.wikidot.com/nx-cn-08 Nx-CN-08] ||  丹霞宛陵洞天 ||  --##orange|**Shangri-La**##-- ##blue|**Briar**## || 據信為中國境內的非歐幾里得/逆模因空間，僅能透過一系列儀式才能進入。谷地內曾是興盛的北帝派神聖先祖基地，現在只剩下野生動物與異常遺跡位於此地。由於遭到[[[http://scp-zh-tr.wikidot.com/goc-hub-page|全球超自然聯盟]]]的控制，基金會在此地的探索因而受阻。 || [http://scp-int.wikidot.com/nx-cn-08 Nx-CN-08] ||
 || Nx-VN-59（Nx-59-VN）|| 無之區 || ##FFDD00|**Camelot**## || 位於越南胡志明市守德市與統一區間空間褶皺中的異常空間。 || [*http://scp-zh-tr.wikidot.com/nx-59-vn NX-59-VN]||
 || Nx-ZH-01 || 臺西市 || 未知 || 位於平行宇宙臺灣海峽不明區域的獨立城市兼異常飛地。此地有能力直接干涉本宇宙的現實。是東亞和東南亞特定平行時空存在的城市，與本宇宙的現實直接相連。 || [http://scp-zh-tr.wikidot.com/scp-zh-888 SCP-ZH-888]，[*http://scp-zh-tr.wikidot.com/scp-zh-889 SCP-ZH-889]，[http://scp-zh-tr.wikidot.com/a-battlefield-without-emotion 無面的沙場]，[*http://scp-zh-tr.wikidot.com/negative Negative]，[*http://scp-zh-tr.wikidot.com/operation-twin-cities-hub 雙城作戰中心頁]||
 || Nx-ZH-02 || 西加走灣（守望群島、寧靜群島、Sikacawan Archipelago、シカザオワン諸島） ||  --##red|**Dunwich**##-- Neutralized ||  曾與太平洋西北西海域間歇橋接的亞現實位面。首先由[[[http://scp-zh-tr.wikidot.com/ijamea-hub| IJAMEA]]]於1931確認其真實位置。 || [http://scp-zh-tr.wikidot.com/nx-zh-02 Nx-ZH-02]，[*http://scp-zh-tr.wikidot.com/scp-zh-098 SCP-ZH-098] ||
@@ -1823,6 +1485,7 @@ Not including this until there's a link to an actual (translated) article
 || Nx-CN-40（Nx-40C）|| 天海市 || ##red|**Dunwich**## || 由奇蹟術建造的現代城市。天海市參考了基線現實的中國天津市所建造，其地理位置也同樣位於天津。Nx-40C整體而言與天津市並無交流，僅能透過多個分散的奇蹟術通路進出，本質上是個透過奇蹟術實現的獨立空間。 || [*https://scp-wiki-cn.wikidot.com/nx-40c NX-40C] ||
 || FP-CN-05（FP-05C）|| 香城 || ##purple|**Free Port**## || 位於口袋維度的海港，據說是海之領主海諾之女鮫人的仙境。在明代發展為中國漁民與商人的天堂。通過霧堤內的奇蹟術通道，可以從任何海域進入該自由港，該自由港也可以前往任何海域。正因如此，香城在歷史上一直受到遠東列強的爭奪，包括蘭芳共和國和西方殖民地。目前這裡已經市多個關注組織共同管轄的自由港。香城至今仍保留著媽祖等海洋相關的信仰。 || [http://scp-wiki-cn.wikidot.com/the-kismet-ephemeris-of-kalpas-hub Wanjie Calendar Center]，[http://scp-wiki-cn.wikidot.com/yixue671 Alien student Lu Qiyi Ruogang Menghua]，[http://scp-wiki-cn.wikidot.com/sharkypedia-eoyemlau Youyinliu-Shark Wiki]，[http://scp-wiki-cn.wikidot.com/ending The latest ship] ||
 || FP-07 || 扎格羅布尼克 || ##purple|**Free Port**## || 曾位於克羅埃西亞的[[[http://scp-zh-tr.wikidot.com/nexus-series| 自由港]]]，特點為有著極高密度的超能/靈能人口。1980年，[[[http://scp-zh-tr.wikidot.com/goc-hub-page| 全球超自然聯盟]]]摧毀了FP-07。根據GOC聲明，該自由港涉及了[[[http://scp-zh-tr.wikidot.com/oneiroi| 夢神]]]相關的[[[http://scp-zh-tr.wikidot.com/goc-supplemental-threat-entities| 黑型]]] 實體，才激發了當地人口的靈能。 || [[[SCP-6709]]] ||
+|| FP-14 || 新九龍 || ##purple|**Free Port**## || 由黑社會控制的香港自治飛地。 || [[[SCP-7250]]]，[[[https://scp-wiki.wikidot.com/maxyfran73-author-page| Maxyfran73 Author Page]]] ||
 || FP-61 || 中諾曼第 || ##purple|**Free Port**## || 法國異常飛地。當地建築包括了弗里蒙特的站點Site-61。 || [[[SCP-7317]]] ||
 || FP-216 || 新坎尼 ||  ##purple|**Free Port**## || 與[[[http://scp-zh-tr.wikidot.com/wanderers-library-hub| 流浪者的圖書館]]]相連，由[[[http://scp-zh-tr.wikidot.com/serpent-s-hand-hub| 蛇之手]]]控制的Yota級維度，可透過普利亞的坎德拉巴塔利亞進入。[[[https://scp-wiki.wikidot.com/horizon-initiative-hub| 地平線倡議]]]的錘骨計畫是該自由港實際意義上的警察組織。作為與流浪者的圖書館相連的Yota級維度自由港，新坎尼外型更像是一座延伸極長的度假勝地，其海灘由紙莎草和黑岩所構成。直到1980為止，新坎尼在雅努斯騎士團建造後便一直為其所控制，但在數起濫權事件等醜聞後，雅努斯騎士團在大選中落敗，屬於蛇之手的民主派成員於選舉中獲勝。目前新坎尼是義大利下轄最大的自由港，收容了眾多尋求庇護的GdI與POI。||[http://scp-zh-tr.wikidot.com/luoghi-dinteresse-italiani#side-bar| ITALIAN PLACES OF INTEREST] ||
 || FP-240 || 曾母暗沙（Shark Harbor，鮓港）||  ##purple|**Free Port**## || 位於南海口袋維度的島嶼，被視為是南沙群島的一部分。 || [https://scp-wiki-cn.wikidot.com/shark-harbor-wikipedia Shark Harbor - Wikipedia] ||
@@ -2074,6 +1737,13 @@ Not including this until there's a link to an actual (translated) article
 * [[[SCP-6140]]] - The True Empire
 * [[[A look back on what we accomplished]]]
 
+**酩酊街**
+* [http://scp-zh-tr.wikidot.com/groups-of-interest-jp| Groups of Interest-JP]
+* [http://scp-zh-tr.wikidot.com/town-orbit-rendezvous| Bottom of Town]
+* [http://scp-zh-tr.wikidot.com/scp-1407-jp| SCP-1407-JP]
+* [http://scp-zh-tr.wikidot.com/scp-823-jp| SCP-823-JP]
+* [http://scp-zh-tr.wikidot.com/scp-838-jp| SCP-838-JP]
+
 **芬斯特海恩**
 * [[[zwei-ohne-namen-und-titel|]]]
 
@@ -2235,6 +1905,9 @@ Not including this until there's a link to an actual (translated) article
 俄羅斯
 * [http://scp-zh-tr.wikidot.com/i-57-hub Facility-57 Hub]
 * [http://scp-zh-tr.wikidot.com/scp-ru-178 SCP-RU-178] - The Heroes Of Vólorovsk
+
+**西韓國**
+* [[[SCP-5345]]] - Almost Heaven, West Korea
 
 **白水**
 美國密西西比

@@ -424,30 +424,6 @@
 [[/div]]
 
 
-
-[[div class="content-panel standalone series" style="background-color: #FFFFFF;"]]
-[[=]]
-+ DTF-天槍-9 「長空之狐」 
-[[=image https://i.imgur.com/DMlmsbp.png size="small"]]
-[[<]]
-**機動特遣隊任務:** 「長空之狐」是繁中分部久負盛名的超大型空軍編隊，盛產王牌飛行員，擁有反潛、攻擊、戰鬥、偵查、電子和奇術應對等專用機型，大部分時間都在作為空中母艦的隨行機隊，亦時常出動作為空中收容專隊。
-
-大量基金會特化型F-35戰鬥機部屬在空中母艦的奇術能彈射通道中，能夠以最快速度與最高效率派出並對任何被定位的威脅實體進行迅速打擊；並擁有配套的完整空軍體系以應對任何可能的威脅。
-
-**協助收容項目:**
-[[module ListPages order="name" tags=" +天槍-9 +原創 +scp" separate="no" perPage="100"]]
-* %%title_linked%%
-[[/module]]
-**行動報告:**
-[[module ListPages order="name" tags=" +天槍-9 +原創 +故事" separate="no" perPage="100"]]
-* %%title_linked%%
-[[/module]]
-[[/<]]
-[[/=]]
-[[div style="text-align:right"]]
-[[/div]]
-[[/div]]
-
 @@@@
 @@@@
 @@@@

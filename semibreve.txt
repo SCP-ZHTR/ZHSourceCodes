@@ -621,7 +621,7 @@ Semibreve博士
 
 **特徵摘要：**
 [[>]]
-[[f>image https://i.imgur.com/01KwM1J.gif width="200px"]]
+[[f>image https://i.imgur.com/R15wNnC.png width="200px"]]
 [[/>]]
 時而為身高25公分的木乃伊貓乾屍，時而被目擊為175公分的人型實體，被描述為「聒噪地、貪吃地、胡鬧地」等特徵的非常規基金會人員，最明顯的特徵是身上纏著大量的繃帶，貓型時為莎草繃帶，人形態時為染血繃帶。
 
@@ -1547,136 +1547,6 @@ Semibreve博士
 |blerb=**青色的閃焰將夜空給點亮了兩片。**
 ]]
 @@@@
-[[include :scp-zh-tr:component:scp-hover-box-structure
-|container-number=sky3
-|corner-cutout=0em
-|container-bgcolor=rgba(252, 252, 252)
-|container-txtcolor=rgba(12, 12, 12)
-|container-hover-bgcolor=rgba(12, 12, 12)
-|container-hover-txtcolor=rgba(252, 252, 252)
-|container-stroke-color=rgba(244, 244, 244)
-|container-hover-stroke-color=rgba(180, 35, 35)
-|background-url=https://c4.wallpaperflare.com/wallpaper/650/785/115/nebula-stars-space-green-wallpaper-preview.jpg
-|background-vertical-position=30%
-|link-fill-color=rgba(252, 252, 252)
-|link-stroke-width=0.125rem
-|link-stroke-color=rgba(12, 12, 12)
-|anchor=sky3
-|link=http://scp-zh-tr.wikidot.com/shadow-of-the-sun-3
-|title=未知航程：恆星之影1-3
-|sub-title=故事
-|blerb=**歸去如星慧、逝去於湮滅。**
-]]
-@@@@
-[[include :scp-zh-tr:component:scp-hover-box-structure
-|container-number=sky4
-|corner-cutout=0em
-|container-bgcolor=rgba(252, 252, 252)
-|container-txtcolor=rgba(12, 12, 12)
-|container-hover-bgcolor=rgba(12, 12, 12)
-|container-hover-txtcolor=rgba(252, 252, 252)
-|container-stroke-color=rgba(244, 244, 244)
-|container-hover-stroke-color=rgba(180, 35, 35)
-|background-url=https://c4.wallpaperflare.com/wallpaper/262/774/423/space-stars-nebula-tylercreatesworlds-wallpaper-preview.jpg
-|background-vertical-position=30%
-|link-fill-color=rgba(252, 252, 252)
-|link-stroke-width=0.125rem
-|link-stroke-color=rgba(12, 12, 12)
-|anchor=sky4
-|link=http://scp-zh-tr.wikidot.com/shadow-of-the-sun-4
-|title=未知航程：恆星之影1-4
-|sub-title=故事
-|blerb=**寒冷，且遙遠的。**
-]]
-@@@@
-[[include :scp-zh-tr:component:scp-hover-box-structure
-|container-number=sky5
-|corner-cutout=0em
-|container-bgcolor=rgba(252, 252, 252)
-|container-txtcolor=rgba(12, 12, 12)
-|container-hover-bgcolor=rgba(12, 12, 12)
-|container-hover-txtcolor=rgba(252, 252, 252)
-|container-stroke-color=rgba(244, 244, 244)
-|container-hover-stroke-color=rgba(180, 35, 35)
-|background-url=https://c4.wallpaperflare.com/wallpaper/195/316/1004/earth-high-resolution-desktop-backgrounds-wallpaper-preview.jpg
-|background-vertical-position=30%
-|link-fill-color=rgba(252, 252, 252)
-|link-stroke-width=0.125rem
-|link-stroke-color=rgba(12, 12, 12)
-|anchor=sky5
-|link=http://scp-zh-tr.wikidot.com/red-star-0-5
-|title=未知航程：海峽戰役2-1
-|sub-title=故事
-|blerb=**就只有一個地球，我們唯一的家園。**
-]]
-@@@@
-[[include :scp-zh-tr:component:scp-hover-box-structure
-|container-number=sky6
-|corner-cutout=0em
-|container-bgcolor=rgba(252, 252, 252)
-|container-txtcolor=rgba(12, 12, 12)
-|container-hover-bgcolor=rgba(12, 12, 12)
-|container-hover-txtcolor=rgba(252, 252, 252)
-|container-stroke-color=rgba(244, 244, 244)
-|container-hover-stroke-color=rgba(180, 35, 35)
-|background-url=https://c4.wallpaperflare.com/wallpaper/681/554/339/abstract-planet-space-purple-wallpaper-preview.jpg
-|background-vertical-position=30%
-|link-fill-color=rgba(252, 252, 252)
-|link-stroke-width=0.125rem
-|link-stroke-color=rgba(12, 12, 12)
-|anchor=sky6
-|link=http://scp-zh-tr.wikidot.com/red-earth-2
-|title=未知航程：海峽戰役2-2
-|sub-title=故事
-|blerb=**『征討深淵』。**
-]]
-@@@@
-[[include :scp-zh-tr:component:scp-hover-box-structure
-|container-number=sky7
-|corner-cutout=0em
-|container-bgcolor=rgba(252, 252, 252)
-|container-txtcolor=rgba(12, 12, 12)
-|container-hover-bgcolor=rgba(12, 12, 12)
-|container-hover-txtcolor=rgba(252, 252, 252)
-|container-stroke-color=rgba(244, 244, 244)
-|container-hover-stroke-color=rgba(180, 35, 35)
-|background-url=https://c4.wallpaperflare.com/wallpaper/543/629/127/space-universe-blue-nebula-wallpaper-preview.jpg
-|background-vertical-position=30%
-|link-fill-color=rgba(252, 252, 252)
-|link-stroke-width=0.125rem
-|link-stroke-color=rgba(12, 12, 12)
-|anchor=sky7
-|link=http://scp-zh-tr.wikidot.com/red-earth-3
-|title=未知航程：海峽戰役2-3
-|sub-title=故事
-|blerb=**他們始終都在奔波。**
-]]
-@@@@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 [[/tab]]
 [[/tabview]]

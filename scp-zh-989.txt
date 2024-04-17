@@ -41,15 +41,7 @@ https://commons.wikimedia.org/wiki/File:Protein_FGFR2_PDB_1djs.png
 **圖源連結：**
 https://commons.wikimedia.org/wiki/File:Sobo_1909_104.png
 
-* 第三張（原圖來源，註解及修改者為我）：
-**檔案名稱：**SchaedelSeitlichSutur2_-_Sphenoparietal_suture.png
-**圖像名稱：**SchaedelSeitlichSutur2 - Sphenoparietal suture.png
-**圖像作者：**RosarioVanTulpe
-**圖像授權協議：**CC-BY-SA-3.0
-**圖源連結：**
-https://commons.wikimedia.org/wiki/File:SchaedelSeitlichSutur2_-_Sphenoparietal_suture.png
-
-* 第四張（左圖為原圖，右圖修改者為我）：
+* 第三張（左圖來源，右圖修改者為我）：
 **檔案名稱：**View_of_a_Skull_III.jpg 
 **圖像名稱：**View of a Skull III.jpg
 **圖像作者：**Leonardo da Vinci.
@@ -61,12 +53,8 @@ https://commons.wikimedia.org/wiki/File:View_of_a_Skull_III.jpg
 +++++ 哪裡有太陽？
 [[/=]]
 主題為「太陽」，本篇使用「太陽穴」的意涵。
------
-[[=]]
-+++++ 感謝欄
-[[/=]]
-感謝山姆（[[*user SamScript]]）提出附錄修改的建議。
-沒有你的幫忙就沒有現在這篇文章。
+
+
 [[include info:end]]
 [[div style="height:10px"]]
 [[/div]]
@@ -91,61 +79,47 @@ https://commons.wikimedia.org/wiki/File:View_of_a_Skull_III.jpg
 
 任何形式的干涉皆已不必要。{{//（revision. 11）//}}
 
-**描述：**SCP-ZH-989被定義為為一種人類的異常體染色體顯性遺傳疾病 ，舊稱托爾萊德症候群。致病原因與[https://www.tfrd.org.tw/tfrd/rare_b/view/id/132 克魯松氏症候群]相似，是因位於10號染色體上的FGFR2產生突變，導致顱骨發育異常及蝶囟閉合不全，但未見有顱縫早閉或頭形畸形。如C████、Y3███等幾處的點突變都可能造成SCP-ZH-989［((bibcite xu))］。
+**描述：**SCP-ZH-989被定義為為一種人類的異常體染色體顯性遺傳疾病 ，舊稱托爾萊德症候群。致病原因與[https://en.wikipedia.org/wiki/Crouzon_syndrome 克魯松氏症候群]相似，係因位於10號染色體上的FGFR2產生突變，影響顱骨發育及導致蝶囟閉合不全。如C████、Y3███等幾處的點突變都可能造成SCP-ZH-989［((bibcite xu))］。
 
 [[collapsible show="展開名詞解釋：「FGFR2」" hide="收起名詞解釋：「FGFR2」"]]
 [[div class="blockquote"]]
-[[include :scp-sandbox-3:image-zoom name=https://upload.wikimedia.org/wikipedia/commons/9/92/Protein_FGFR2_PDB_1djs.png|caption=FGFR2的結構模擬圖。|width=300px|align=center]]
-+++++ 纖維母細胞生長因子（Fibroblast growth factor，FGFs）
-參與細胞增殖、遷移以及分化的一系列蛋白質（蛋白質家族）。
-@@ @@
-+++++ 纖維母細胞生長因子受體（Fibroblast growth factor receptor，FGFRs）
-與成纖維細胞生長因子結合的一系列受體蛋白質（蛋白質家族）。
-@@ @@
-+++++ FGFR2
-位於10q26.13（10號染色體長臂中2號區6號帶13號子帶），在胚胎發育和組織修復中具有重要作用，尤其是對骨骼和血管的影響甚鉅。此區域的突變常與涉及顱縫早閉的罕見遺傳性疾病（如[https://www.tfrd.org.tw/tfrd/rare_b/view/id/132 克魯松氏症候群]、[https://www.tfrd.org.tw/tfrd/rare_b/view/id/131 艾伯特氏症候群]、[https://www.tfrd.org.tw/tfrd/rare_b/view/id/221 Pfeiffer氏症候群]等）有關。
-@@ @@
-+++++ 點突變（Point mutation）
-DNA或RNA中，僅單一個核苷酸發生改變，被替換成另一種核苷酸，通常可分為：無義突變、錯義突變以及沉默突變。
-@@ @@
-+++++ 無義突變（nonsense mutation）
-由於mRNA（信使RNA）上的終止密碼子因突變而過早出現，使得轉譯提前停止，產生無用的蛋白質產物，SCP-ZH-989即是因無義突變致病。
+[[include component:image-block name=https://upload.wikimedia.org/wikipedia/commons/9/92/Protein_FGFR2_PDB_1djs.png|caption=FGFR2的模擬圖。|width=300px|align=right]]
+成纖維細胞生長因子（Fibroblast growth factor，FGF）：參與細胞的增殖、遷移以及分化。
+
+成纖維細胞生長因子受體（Fibroblast growth factor receptor，FGFR）：成纖維細胞生長因子結合的受體蛋白質。
+
+FGFR2：位於10q26.13（10號染色體長臂中2號區6號帶13號子帶），在胚胎發育和組織修復中具有重要作用，尤其是對骨骼和血管的影響甚鉅。
+
+點突變（Point mutation）：DNA或RNA中，僅單一個核苷酸被替換成另一種核苷酸。由於RNA上的終止密碼子因突變而過早出現，使得轉譯提前停止，產生無用的蛋白質產物，這種突變稱為「無義突變」，在SCP-ZH-989即是因此種突變發病。
+
 [[/div]]
 [[/collapsible]]
 
-SCP-ZH-989於全球的盛行率約為0.2‰［((bibcite dc))］。主要病徵為：
+SCP-ZH-989於全球的盛行率約為0.2‰。主要病徵為：
 * 蝶骨、額骨及頂骨輕微內凹[[span class="fnnum"]].[[/span]][[span class="fncon"]]在某些極端個案中，蝶骨、額骨、頂骨及顳骨皆有內凹情形。[[/span]]，在蝶囟周圍呈三角形內突起，通常不影響腦部發育
-* 蝶囟閉合不完全，留下小於一指寬的縫隙，由特殊結構的結締組織代替
+* 蝶囟閉合不完全，留下小於一指寬的縫隙
 * EVE外散效應增強，常造成EVE外散通過性頭痛
-* 死後顱內奇蹟能量潰爆[[span class="fnnum"]].[[/span]][[span class="fncon"]]具爭議性。[[/span]]（ICTEB；應注意該現象有別於[[[scp-zh-571|死靈軌跡]]]［((bibcite sc))］）{{//（revision. 07）//}}
+* 死後EVE潰爆（應注意該現象有別於[[[scp-zh-571|死靈軌跡]]]［((bibcite sc))］）{{//（revision. 07）//}}
 
 [[collapsible show="展開名詞解釋：「囟門」" hide="收起名詞解釋：「囟門」"]]
 [[div class="blockquote"]]
 [[div style="height:5px"]]
 [[/div]]
-[[include :scp-sandbox-3:image-zoom name=https://i.imgur.com/YsGfI9G.png|caption=新生兒頭骨的側面圖。|width=300px|align=center]]
-人類於出生時，為了幫助胎兒順利滑出產道，以及預留腦部發育的空間，組成顱骨的骨頭之間會留有幾處縫隙，統稱為「[[span class="ruby"]]囟[[span class="rt"]]ㄒㄧㄣˋ[[/span]][[/span]]門」。
-@@ @@
-+++++ 前囟/額囟（Anterior fontanelle）
-位於頭頂處，額骨與兩頂骨之間，呈現菱形，會於出生後12到18個月閉合，成為冠狀縫（Coronal suture）和人字縫（Lambdoid suture）的交接處。
-@@ @@
-+++++ 後囟/枕囟（Posterior fontanelle）
-位於頭後側，頂骨與枕骨之間，呈現人字型，大致於出生後2到3個月時關閉，成為人字縫的一部分。
-@@ @@
-+++++ 乳突囟（Mastoid fontanelle）
-位於頭兩側靠後，枕骨、頂骨及顳骨之間，約於出生後6到18個月時關閉，成為人字縫和鱗縫（Squamosal suture）的交接處。
-@@ @@
-+++++ 蝶囟（Sphenoid fontanelle）
-位於頭兩側靠前，枕骨、頂骨、蝶骨及顳骨之間，約於出生後6個月時關閉，成為翼點。
-@@ @@
-+++++ 翼點（Pterion）
-位於頭兩側約太陽穴之後，枕骨、頂骨、蝶骨及顳骨的交界處，被認為是顱骨最為脆弱的部份，以常見的［((bibcite am))］蝶頂型翼點為例，是由冠狀縫、蝶額縫（Sphenofrontal suture）、蝶頂縫（Sphenoparietal suture）、鱗縫及蝶鱗縫（Sphenosquamosal suture）組成的H狀結構。
-[[include :scp-sandbox-3:image-zoom name=https://i.imgur.com/FEVJNWK.png|caption=成人頭骨的側面圖，可見蝶頂型翼點。|width=300px|align=center]]
+[[include component:image-block name=https://i.imgur.com/YsGfI9G.png|caption=新生兒頭骨的側面圖。|width=300px|align=center]]
+人類於出生時，為了幫助胎兒順利滑出產道，以及預留腦袋發育的空間，組成顱骨的骨頭之間會留有幾處縫隙，統稱為「囟門」。
+
+前囟/額囟（Anterior fontanelle）：位於頭頂處，額骨與兩頂骨之間，呈現菱形，會於出生後第16到18個月閉合，成為冠狀縫和人字縫的交接處。
+
+後囟/枕囟（Posterior fontanelle）：位於頭後側，頂骨與枕骨之間，呈現人字型，大致於出生後第2到3個月時關閉，成為人字縫的一部分。
+
+乳突囟（Mastoid fontanelle）：位於頭兩側，枕骨、頂骨及顳骨之間，約於出生後第18個月時關閉，成為人字縫和鱗縫的交接處。
+
+蝶囟（Sphenoid fontanelle）：位於頭兩側，枕骨、頂骨、蝶骨及顳骨之間，約於出生後第3個月時關閉，成為冠狀縫和鱗縫的交接處。
 [[/div]]
 [[/collapsible]]
-由於翼點附近的顱骨被特殊結締組織取代，除了該部分較脆弱外，患者顱腔內EVE外散效應也會連帶增強，並引發EVE外散通過性頭痛［((bibcite bn))］。然而由於性質相似，常被誤診為壓力引起的緊縮性頭痛。
+由於頭部兩側眼後部分缺少骨頭保護，除了該部分較脆弱外，患者顱腔內Elan-Vital能量外散效應也會連帶增強，並引發Elan-Vital能量外散通過性頭痛［((bibcite bn))］。然而由於性質相似，常被誤診為壓力引起的緊縮性頭痛。
 
-此外，患者對於EVE輻射的抗性擁有較常人更高的承受能力。
+此外，患者對於EVE輻射的抗性擁有相當高的承受能力。
 
 **相關歷史：**
 [[div style="height:5px"]]
@@ -165,15 +139,15 @@ SCP-ZH-989於全球的盛行率約為0.2‰［((bibcite dc))］。主要病徵�
 
 在解釋太陽穴的奧妙之處前，我們先來說一說腦內奇蹟學的發展。
 
-事實上，對於腦內奇蹟學的研究出人意料地晚才開始，相關研究在1990年代才興起，公認第一個屬於該學科的研究由湯姆斯·杰倫遜（Jayrenson Thomas，1971-）提出，描述了生物的Elan-Vital能量（下稱EVE）外散效應在人體上的表現［((bibcite th))］，並發現人類頭部的EVE外散效應比起其他部位明顯高出好幾倍，這是在其他動物或實體上前所未見的，湯姆斯認為這種現象與智力有關，並開始著手調查。湯姆斯也因此被稱為「腦內奇蹟學的先驅」。
+事實上，對於腦內奇蹟學的研究出人意料地晚才開始，相關研究在1990年代才興起，公認第一個屬於該學科的研究由湯姆斯·杰倫遜（Jayrenson Thomas，1971-）提出，描述了生物的Elan-Vital能量外散（舊稱擴散）效應在人體上的表現［((bibcite th))］，並發現人類頭部的EVE外散效應比起其他部位明顯高出好幾倍，這是在其他動物或實體上前所未見的，湯姆斯認為這種現象與智力有關，並開始著手調查。湯姆斯也因此被稱為「腦內奇蹟學的先驅」。
 
-然而他研究多時後仍未果，反而由楊建華（1975-）發現了一個簡單的關聯性：EVE外散效應與該部位的「活化程度」有關。這種「活化程度」是通過該器官含有多少細胞、細胞構造的複雜程度、至表皮的距離及細胞凋亡速度等十二個面向進行評比，詹森為此列出了一套完整的公式可供計算人體某一處每分鐘EVE外散量（礙於篇幅，證明及完整公式附於本書末尾附錄）。經過計算，定時情況下以大腦散發至頭骨囟門處的EVE外散量最高，比起最低處——指尖處——高出了52倍［((bibcite ya))］。
+然而他研究多時後仍未果，反而由楊建華（1975-）發現了一個簡單的關聯性：Elan-Vital能量外散效應與該部位的「活化程度」有關。這種「活化程度」是通過該器官含有多少細胞、由細胞構造的複雜程度、至表皮的距離及細胞凋亡速度等十二個面向進行評比，詹森為此列出了一套完整的公式可供計算人體某一處每分鐘Elan-Vital能量外散量（礙於篇幅，證明及完整公式附於本書末尾部分）。經過計算，定時情況下以大腦散發至頭骨囟門處的Elan-Vital能量外散量最高，比起最低處——指尖處高出了52倍［((bibcite ya))］。
 
 [資料刪節]
 
-在近代，一些報告指稱出現許多病例，均描述為「無法確定成因且反覆出現的頭痛」，也有一小部分的該病例被誤診為壓力性頭痛、偏頭痛等，然而這些都不是主要的致病原因。在基金會檢查後發現，這些患者都曾擁有頭骨上的創傷，致使該部分的組織無法承受這些從大腦散發出的EVE，使得細胞「過活絡化」，導致了炎症反應，而後基金會將這種症狀稱為「EVE外散通過性頭痛」，並開始重視人員施展奇蹟術時的防護措施。
+在近代，一些報告指稱出現許多病例，均描述為「無法確定成因且反覆出現的頭痛」，也有一小部分的該病例被誤診為壓力性頭痛、偏頭痛等，然而這些都不是主要的致病原因。在基金會檢查後發現，這些患者都曾擁有頭骨上的創傷，致使該部分的組織無法承受這些從大腦散發出的EVE，使得細胞「過活絡化」，導致了炎症反應，而後基金會將這種症狀稱為「Elan-Vital能量外散通過性頭痛」，並開始重視人員施展奇蹟術時的防護措施。
 
-話又說回來，這跟中醫學又有什麼關係呢？雖然古人並未知曉生命體散發EVE的相關原理，但卻也早就發現太陽穴等頭部各處較脆弱、容易因EVE外散而發炎的部位，並且了解了可以使用按摩及自然療法等方式舒緩疼痛，這些方法其實跟現代奇蹟學的觀點大同小異。
+話又說回來，這跟中醫學又有什麼關係呢？雖然古人並未知曉生命體散發EVE的相關原理，但卻也早就發現太陽穴等頭部各處較脆弱、容易因Elan-Vital能量外散而發炎的部位，並且了解了可以使用按摩及自然療法等方式舒緩疼痛，這些方法其實跟現代奇蹟學的觀點大同小異。
 [[/div]]
 
 **附錄ZH.989.1：**未管控奇蹟術事故紀錄ZH-068
@@ -190,9 +164,9 @@ SCP-ZH-989於全球的盛行率約為0.2‰［((bibcite dc))］。主要病徵�
 
 **<10:22:47>**D-34288由安保人員強行處決，子彈由其頭部左側太陽穴附近貫穿至右下顎。
 
-**<10:22:50>**Site-ZH-44的24具EVE輻射探測器[[span class="fnnum"]].[[/span]][[span class="fncon"]]10具檢測各異常收容間以防收容突破，9具檢測站內設施，5具監控站外環境水平。[[/span]]接連發出警告，達到「帷幕內風險」等級。
+**<10:22:50>**Site-ZH-44的24具Elan-Vital能量輻射探測器[[span class="fnnum"]].[[/span]][[span class="fncon"]]10具檢測各異常收容間以防收容突破，9具檢測站內設施，5具監控站外環境水平。[[/span]]接連發出警告，達到「帷幕內風險」等級。
 
-**<10:22:58>**9具EVE輻射探測器發出警報，已達「相位輻射」等級[[span class="fnnum"]].[[/span]][[span class="fncon"]]足以扭曲現實的EVE輻射。[[/span]]，SCP-ZH-███的收容間內高出站內平均值的9~42倍。D-34288開始自燃，SCP-ZH-███的收容間內部全體人員均報告「身體劇烈疼痛」。
+**<10:22:58>**9具EVE輻射探測器發出警報，已達「相位輻射」等級[[span class="fnnum"]].[[/span]][[span class="fncon"]]足以扭曲現實的Elan-Vital能量輻射。[[/span]]，SCP-ZH-███的收容間內高出站內平均值的9~42倍。D-34288開始自燃，SCP-ZH-███的收容間內部全體人員均報告「身體劇烈疼痛」。
 
 **<10:23:07>**D-34288屍體逐漸化為灰燼。
 
@@ -200,52 +174,42 @@ SCP-ZH-989於全球的盛行率約為0.2‰［((bibcite dc))］。主要病徵�
 
 = **[紀錄結束]**
 ----
-**後續：**值得注意的是，D-34288在此前並未發現患有SCP-ZH-989，考慮到SCP-ZH-989理論上並不存在後天因素誘發的途徑，推測非SCP-ZH-989感染者仍可能發生顱內奇蹟能量潰爆，發生機制仍在研究中。
+**附註：**本次事故證實了SCP-ZH-989患者的死後Elan-Vital能量潰爆的可能性，並使風險等級由3級Warning（警戒）提升至4級Danger（危險）。
 [[/div]]
 
 **附錄ZH.989.2：**討論紀錄
 [[div class="blockquote"]]
-**日期：**2023年02月24日，10時21分。
+**日期：**2021年02月24日，10時21分。
 
-**地點：**Area-ZH-44，鄰近Sector-M舊址的一處大型避難所。
+**地點：**Area-ZH-44，Sector-M舊址。
 ----
 = **[記錄開始]**
 
 **Dr. Shaman Surge：**各位三垣指揮部的指揮官你們好，本次我們想來談一談SCP-ZH-989。
 
-**Surge：**SCP-ZH-989並未如同預想般地與[[[scp-zh-621|SCP-ZH-621]]]交互，SCP-ZH-989就只作用在人類的蝶囟上，形成了一種新的結締組織。
+**研究員 夜落楓：**切入正題地說，我們對於SCP-ZH-989的異常性質的預想完全錯誤。
 
-**研究員 夜落楓：**這代表此前我們對於SCP-ZH-989的異常性質所建立的假說完全錯誤。
+**Surge：**SCP-ZH-989並未如同預想般地與[[[scp-zh-621|SCP-ZH-621]]]的ζ,,2,, (zeta-2)單元產生交互，SCP-ZH-989就只作用在人類的蝶囟上，形成了一種新的組織。
 
-**3E-08：**那麼這個組織有任何作用嗎？
+**3E-8：**好的，所以這個組織有任何作用嗎？
 
-**夜落楓：**按照過往數據，1900年的環境背景EVE生產速度推估值是每分鐘0.20毫桑達[[span class="fnnum"]].[[/span]][[span class="fncon"]]每分鐘產生1桑達EVE粒子即達「相位輻射」等級 。[[/span]]，2000年末也只達到每分鐘0.35毫桑達。然而在2022年[[[scp-zh-835|SCP-ZH-835]]]發生後環境背景EVE粒子生產速度以不可思議的速度提升著，時至今日，環境背景EVE粒子生產速度已達到每分鐘0.45毫桑達……
+**夜落楓：**事實上，1900年的環境背景Elan-Vital能量生產速度推估值是每分鐘0.2毫桑達[[span class="fnnum"]].[[/span]][[span class="fncon"]]每分鐘產生1桑達Elan-Vital能量即達「相位輻射」等級 。[[/span]]，2000年末也只達到每分鐘0.35毫桑達。然而在2018年[[[scp-zh-835|SCP-ZH-835]]]發生後環境背景Elan-Vital能量生產速度以不可思議的速度提升著，時至今日，環境背景Elan-Vital能量生產速度已達到每分鐘0.45毫桑達……
 
-**3E-02：**你似乎沒說到重點，例如SCP-ZH-989患者死後顱內奇蹟能量潰爆該如何解釋呢？像Sector-M不就是因此而毀掉的嗎？
+**3E-2：**你沒說到重點，而且死後Elan-Vital能量潰爆該如何處理呢？像這個Sector不就是因此而毀掉的嗎？
 
-**夜落楓：**很抱歉，但我還沒說完。我想說的是人類的EVE粒子生產速度正在隨著環境生產速度提高。今日的人類EVE粒子生產速度已達到每分鐘約0.24毫桑達，大概是1900年生產速度的十倍。
+**夜落楓：**抱歉，但我還沒說完。我想講的是人類的Elan-Vital能量生產速度正在提高。今日的人類Elan-Vital能量生產速度已達到每分鐘0.24毫桑達，大概是1900年生產速度的十倍。所以這就是為何有如此多人的腦部不堪負荷而潰爆。
 
-**夜落楓：**我們的結論是顱內奇蹟能量潰爆並不因SCP-ZH-989直接造成，而是Elan-Vital能量過度累積在腦部所導致。
+**夜落楓：**我們的結論是死後Elan-Vital能量潰爆並不是因SCP-ZH-989造成的，而是Elan-Vital能量過度累積在腦部導致的，SCP-ZH-989反而能對此有幫助。
 
-**Surge：**請看這張圖表，這是Site-ZH-44仿造此結締組織的樣品，經過照射奇蹟性粒子得出的數據，可發現這種結締組織的通過性較普通顱骨更加良好。
+**夜落楓：**我並不覺得SCP-ZH-989對於未來人類會有任何壞處。SCP-ZH-989形成的組織是個極其特殊的結構，它能幫助人類Elan-Vital能量外散的效率增加，對於使用奇蹟術會更加輕鬆……至少對我來說是這樣的。
 
-**夜落楓：**不過，這代表EVE粒子也能更有效率地通過此結締組織反向進入顱腔，前提是患者主動想要促發，若EVE粒子接受量過多，則最終的結果即是顱內奇蹟能量潰爆，但極為少數的個案會遇到此結果。
+**Surge：**我贊成落楓的說法，而且這種組織也會隨著年齡而日漸堅硬，大概不出10年就能達到一般頭骨的硬度。
 
-**夜落楓：**顱內奇蹟能量潰爆似乎是患者試圖操控EVE粒子導致的不良反應，模擬測試結果指出，如果強行嘗試讓顱腔接受更多EVE粒子進入，則EVE粒子互動速率在達到10毫桑達／分鐘時——也就是[[[scp-zh-835#toc4|1級奇蹟性實體]]]的最高互動速率，具SCP-ZH-989特徵的顱骨就非常容易發生奇蹟能量潰爆。
+**Surge：**也許我們可以大膽地說SCP-ZH-989是奇蹟術增幅事件推動著我們演化的結果。根據回報，擁有SCP-ZH-989特徵的人類已占全球人口2%……
 
-**3E-02：**也就是說，這次Sector-M的奇蹟術事故有可能是受害者刻意為之？
+**夜落楓：**因此我們真正想提出的是：解除SCP-ZH-989的收容措施，我們還有其他更重要的異常待處理。
 
-**夜落楓：**不一定，也可能是患者根本沒意識到自己正在強迫身體吸收EVE粒子，加上SCP-ZH-835大規模發生之前，患有SCP-ZH-989的標準人類從未嘗試主動操控EVE粒子，尚未來得及適應如此高的奇蹟能量就刻意使EVE粒子過量進入體內，導致肉體不堪負荷。
-
-**夜落楓：**不過我依然認為SCP-ZH-989對於未來人類利大於弊。SCP-ZH-989形成的結締組織能增加人體與EVE粒子的互動效率，若善用它可以減輕過量曝露EVE粒子的不良反應，對於使用奇蹟術也會更加輕鬆——至少對我來說如此。
-
-**Surge：**我贊成落楓的說法，而且這種組織也會隨著年齡而日漸堅硬，大概在患者青春期前就能達到接近一般頭骨的硬度。
-
-**Surge：**也許我們可以大膽地說SCP-ZH-989是奇蹟術增幅事件推動著我們演化的結果。根據回報，擁有SCP-ZH-989特徵的人類已占全球人口約1‰。
-
-**夜落楓：**總之，我們真正想提出的是：解除SCP-ZH-989的收容措施，我們還有其他更重要的異常待處理。
-
-**Surge：**如上述所言，雖然SCP-ZH-989確實沒有加強SCP-ZH-621，但SCP-ZH-835正在一步步地擴大SCP-ZH-621的效應，我們應該先解決這件事，否則臺灣只會變成一個造蠱的罐子。
+**Surge：**如前面提到的，雖然SCP-ZH-989確實沒有加強SCP-ZH-621，但SCP-ZH-835正在一步步地擴大SCP-ZH-621的效應，我們應該先解決這件事，否則臺灣會變成是個造蠱的場所。
 
 = **[紀錄結束]**
 ----
@@ -254,12 +218,10 @@ SCP-ZH-989於全球的盛行率約為0.2‰［((bibcite dc))］。主要病徵�
 **備註：**分級委員會已將該項目重分級至Archon。進一步描述尚待更新。
 [[/div]]
 [[bibliography title="參考資料"]]
-: xu : 徐東茂、王鏘祥（2008年2月）。FGFR2突變的影響或有超常性--托爾萊德症候群與克魯松氏症候群的相似處。**基金會超常醫療期刊，58**，38-40。
-: dc : 徐東茂、陳生（2016年2月）。托爾萊德症候群的遺傳分析及全球盛行率推估。**基金會超常醫療期刊，106**，25-27。
+: xu : 徐東茂、王鏘祥（2008年3月）。FGFR2突變的影響或有超常性--托爾萊德症候群與克魯松氏症候群的相似處。**基金會超常醫療期刊，58**，38-40。
 : sc : █████████（2008）。**奇蹟天文學**（第15版，98-101頁）。大一統奇蹟學國際研究中心。
-: am : Abebe Muche(2021 Jul).[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8512946 Positions and Types of Pterion in Adult Human Skulls: A Preliminary Study].**Ethiop J Health Sci. ; 31(4)**: 875–884.
 : bn : 陳順明（2010年7月）。不同材料對於EVE外散效應的影響。**基金會超常醫療期刊，57**，12-13。
-: hi : Carlson,L(2007).**An Analysis of Thaumatology Behavior of Sandaras Tolllade**.Foundation Observer.
+: hi : Carlson,L.(2007).**An Analysis of Thaumatology Behavior of Sandaras Tolllade**.Foundation Observer.
 : my : 郭順懷（2011）。**從現代奇蹟學知識看古代中醫學技術（初版，26-28頁）**。大一統奇蹟學國際研究中心。
 : th : Thomas,J(1992).**Elan-Vital Energy Diffusion Effect in Human Brain**.Grand Unity International Research Center for Thaumatology.
 : ya : 楊建華（1994）。同種生物的Elan-Vital能量外散量的計算方式。**基金會奇蹟學年刊，27**，5-8。
@@ -271,8 +233,8 @@ SCP-ZH-989於全球的盛行率約為0.2‰［((bibcite dc))］。主要病徵�
 
 [[/=]]
 [[include :scp-wiki:component:earthworm
-| first=false | last=false| hub=yes
+| first=false | last=true | hub=no
 | previous-url=/scp-zh-835 | previous-title=SCP-ZH-835
-| next-url=/scp-zh-621 | next-title=SCP-ZH-621
-| hub-url=/azure-skydome-hub| hub-title=SCP-ZH-989
+| next-url=/ | next-title=TITLE OF NEXT
+| hub-url=/| hub-title=SCP-ZH-989
 ]]
