@@ -1,0 +1,458 @@
+[[include :scp-wiki:theme:black-highlighter-theme]]
+[[include :scp-wiki:component:bhl-dark-sidebar]]
+[[include :scp-wiki:component:fade-in speed=0.1]]
+[[include :scp-wiki:component:centered-header-bhl]]
+[[include :scp-wiki:component:acs-animation]]
+[[include :scp-wiki:component:collapsible-sidebar]]
+
+[[include component:scp-meta-title-hiding css-style=classic]]
+[[include info:start]]
+**SCP-7014 -- 讚美骰神**
+**原文：**[https://scp-wiki.wikidot.com/SCP-7014 SCP-7014]  -- Praise the Dice Gods
+**作者：**[[*user Uncannyon]]
+**譯者：**[[*user feitag]]
+[[include info:end]]
+
+[[include :scp-wiki:component:info-ayers
+|lang=en[!-- EN/RU/KO/CN/FR/PL/ES/TH/JP/DE/IT/UA/PTBR --]
+|page=scp-XXXX[!-- url of your page on the scp wiki --]
+|authorPage=https://scp-wiki.wikidot.com/scp-5010[!-- link to SCP-5010 --]
+|comments=
+
+= **SCP-7014** -- Praise the Dice Gods
+
+= //**~** 7000 Luck 競賽參賽作 by [[*user Uncannyon]] **~**//
+
+-----
+
+感謝我的早期讀者和拼字檢查人員。特別是因為你們必須如此匆忙地完成。
+]]
+
+
+
+
+[[module CSS]]
+
+
+hr {
+    margin: 1em 1em;
+    padding: 0;
+    height: 0;
+    border-top: solid 3px;
+}
+
+}
+#page-title {
+  display: none;
+}
+
+.footnotes-footer {
+
+  display: none;
+}
+[[/module]]
+
+
+[[module CSS]]
+.info-container{
+--barColour: #009f6b;
+--linkColour: #FFF;
+}
+[[/module]]
+
+
+[[module CSS]]
+div.warning-box div.warning-box-container div.text-top {
+    font-size: 32px;
+}
+
+div.warning-box div.warning-box-container div.text-bottom {
+    font-size: 13.5px;
+}
+
+div.warning-box div.text-number {
+    font-size: 15px;
+}
+
+[[/module]]
+
+
+[[module CSS]]
+.email-example .collapsible-block-folded a.collapsible-block-link {
+}
+
+.email {border: solid 2px #000000; width: 88%; padding: 1px 15px; margin: 10px; box-shadow: 0 1px 3px rgba(0,0,0,.5)}
+.email-example a.collapsible-block-link {font-weight: bold;}
+.tofrom {margin-left: 10px; margin-top: 5px; padding: 1px 15px; border-left: solid 3px maroon}
+[[/module]]
+
+[[module CSS]]
+    :root {
+     --x-grey: #f5f5f5;
+     --x-dark-grey: #c8c8c8;
+     --x-very-dark-grey: #909090;
+     --x-yellow: #FFF9E5;
+     --x-blue: #D5D2E1;
+     --x-red: #F4E3E8;
+     --x-color-notice: #f2f2c2;
+     }
+     /* fix image boxes have different margins than paragraphs */
+     .scp-image-block {
+          margin-top: 15px !important;
+     }
+
+     /* report style boxes (colors, shadows, margins) */
+     .x-log, .x-notice, .x-comment { border: solid 1px; padding: 5px; }
+     .x-log, .x-notice { box-shadow: 2px 3px var(--x-very-dark-grey); }
+     .x-log { background-color: var(--x-grey); }
+     .x-logo { background-image: url(http://scp-wiki.wdfiles.com/local--files/the-great-hippo/scp_trans.png); background-repeat: no-repeat; background-position: calc(100% - 15px) 15px; background-size: 150px 150px; background-origin: padding-box; }
+     .x-notice { background-color: var(--x-color-notice); text-align: center; }
+     .x-comment { background-color: var(--x-grey); border-top: #777 1px solid; border-left: #777 1px solid; border-bottom: #ccc 1px solid; border-right: #ccc 1px solid; box-shadow: -1px -2px var(--x-very-dark-grey) inset; padding-top: 5px; padding-bottom: 5px; margin-top: 1px; margin-bottom: 1px; }
+     .x-emboss, .x-email { margin-top: 15px; border-top: #ccc 1px solid; border-left: #ccc 1px solid; border-bottom: #777 1px solid; border-right: #777 1px solid; box-shadow: 2px 2px var(--x-very-dark-grey) inset; }
+    
+     /* standard report formatting */
+     .x-log-head, .x-log-body { margin: 15px 2px; padding: 0px 10px; }
+     .x-log hr { margin-left: 25px; margin-right: 25px; }
+     .x-log-head { border-left: solid 3px black; border-radius: 2px; margin-bottom: 15px; }
+     .x-log-head th { text-align: left; color: black; font-weight: bold; vertical-align: top; }
+     .x-log-head td { padding-left: 15px; vertical-align: top; }
+     .x-log-body { border-left: solid 3px var(--x-grey); }
+    
+     /* standard collapsible formatting */
+     .x-log .collapsible-block-link { color: #303030; font-variant: small-caps; font-size: 110%; }
+     .x-log .collapsible-block-unfolded-link:before { content: "■ "; color: grey; font-variant: small-caps; font-size: 110%; }
+     .x-log .collapsible-block-folded:before { content: "■ "; color: grey; font-variant: small-caps; font-size: 110%; }
+    
+     /* email addenda formatting */
+     .x-email { padding: 1px 10px; background-color: white; }
+     .x-email hr { width: 94%; }
+     .x-email-head, .x-email-body { margin: 15px 2px; padding: 5px 15px; font-family: courier, monospace; }
+     .x-email-head { border-left: solid 3px maroon; border-radius: 2px; margin-bottom: 15px; }
+     .x-email-head th { text-align: left; color: maroon; }
+     .x-email-head td { padding-left: 15px; }
+     .x-email-body { border-left: solid 3px white; }
+[[/module]]
+
+
+
+
+
+[[include component:anomaly-class-bar-source-alt
+|item-number= 7014
+|clearance= 1
+|container-class= pending
+|secondary-icon= http://scptestwiki.wikidot.com/local--files/component:anomaly-class-bar/thaumiel-icon.svg
+|disruption-class= dark
+|risk-class= notice
+]]
+
+----
+[[div class="scp-image-block block-center" style="width:100%;"]]
+[[image https://scp-wiki.wdfiles.com/local--resized-images/scp-7014/Dice1/medium.jpg style="width:100%;" link=#]]
+[[div class="scp-image-caption" style="width:100%;"]]
+SCP-7014 研究的照片紀錄
+[[/div]]
+[[/div]]
+
+------
+[[table style="width: 100%;"]]
+[[row]]
+[[cell style="border-bottom: 1px solid #AAA; border-right: 1px solid #AAA; text-align: center; width: 25%;"]]
+[[size 90%]]**收容站點**[[/size]]
+[[/cell]]
+[[cell style="border-bottom: 1px solid #AAA; border-right: 1px solid #AAA; text-align: center; width: 25%;"]]
+[[size 90%]]**站點主任**[[/size]]
+[[/cell]]
+[[cell style="border-bottom: 1px solid #AAA; border-right: 1px solid #AAA; text-align: center; width: 25%;"]]
+[[size 90%]]**首席研究員**[[/size]]
+[[/cell]]
+[[cell style="border-bottom: 1px solid #AAA; text-align: center; width: 25%;"]]
+[[size 90%]]**負責特遣組**[[/size]]
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell style="border-right: 1px solid #AAA; text-align: center; width: 25%;"]]
+[[size 80%]]Site-55[[/size]]
+[[/cell]]
+[[cell style="border-right: 1px solid #AAA; text-align: center; width: 25%;"]]
+[[size 80%]]Dr. Dawn Grand[[/size]]
+[[/cell]]
+[[cell style="border-right: 1px solid #AAA; text-align: center; width: 25%;"]]
+[[size 80%]]Dr. Paul Urvale[[/size]]
+[[/cell]]
+[[cell style="text-align: center; width: 25%;"]]
+[[size 80%]]N/A[[/size]]
+[[/cell]]
+[[/row]]
+[[/table]]
+
+
+------
+[[=]]
+[[size 125%]]**特殊收容措施：**[[/size]]
+[[/=]]
+------
+
+目前尚無已知的方法可以收容、抵銷或控制 SCP-7014 對正常機率的影響。然而，由於 SCP-7014 出現場景極度特化以及不會在測試環境下發生，所以一般大眾幾近不可能意識到它存在。
+
+作為額外的預防措施，假訊息部門將持續宣傳以下觀念：具有「個性」的骰子僅僅只是桌遊社群中廣泛流傳的笑話，同時也是選擇性偏差 (selection bias) 的結果。
+
+@@ @@
+
+------
+[[=]]
+[[size 125%]]**描述：**[[/size]]
+[[/=]]
+------
+
+[[include component:image-block
+    name=https://scp-wiki.wdfiles.com/local--resized-images/scp-7014/Dice2/medium.jpg |
+    caption=被 SCP-7014 影響的「高出目」骰子
+]]
+
+SCP-7014 是一種很可能為異常的現象，當擲骰作為 TRPG（桌上角色扮演遊戲）的遊玩要素時，擲出結果的機率會受到影響。個別骰子可能會以多種方式受到 SCP-7014 影響，包括表現出「偏好」某些數字，或根據擲骰預計達成的目標而展示不同的機率分佈。
+
+目前的評估顯示，SCP-7014 似乎只在骰子在 TRPG 遊玩中，為特定目的而擲出時才生效 。當純粹為了紀錄擲骰結果而擲骰時，同一顆骰子的結果通常符合標準機率期望，沒有表現出異常偏差。
+
+以下為所謂的「高出目」或「幸運」骰的範例：
+
+[[=]]
+
+[[collapsible show="◆ 測試結果 - 實驗編號 7014-D20-A190 ◆" hide="◇ 測試結果 - 實驗編號 7014-D20-A190 ◇"]]
+
+[[div style="display: inline-block; border:dashed 1px #999999; background:#F5F5F5; float:center; width:84%; padding:1px 15px; margin: 10px 10px 10px 40px"]]
+----
+**實驗編號：**7014-D20-A190
+----
+[[<]]
+**方法：**實驗以一顆公正20面骰 (D20) 進行。分別在測試環境與一場龍與地下城遊戲中投擲1000次。據稱，後者代表對一群哥布林軍團 (哥布林個體均為 1 HP) 的一連串攻擊骰[[footnote]] 譯註：攻擊骰用於判定攻擊是否命中，而非決定傷害。 [[/footnote]]。兩種情境皆由 Urvale 博士擲骰，並且都使用骰盅。使用高速攝影機監測骰子在投擲過程是否出現任何形式的異常運動。
+
+[[/<]]
+----
+
+||~ 點數 ||~ 測試環境 (%) ||~ 遊戲環境 (%) ||
+||= 1 ||= 4.5 ||= 2.8 ||
+||= 2 ||= 4.6 ||= 3.3 ||
+||= 3 ||= 5.4 ||= 3.9 ||
+||= 4 ||= 6.4 ||= 2.6 ||
+||= 5 ||= 5.4 ||= 3.3 ||
+||= 6 ||= 5.1 ||= 4.2 ||
+||= 7 ||= 4.7 ||= 3.6 ||
+||= 8 ||= 4.5 ||= 3.9 ||
+||= 9 ||= 4.8 ||= 5.1 ||
+||= 10 ||= 5.6 ||= 5.1 ||
+||= 11 ||= 4.3 ||= 4.8 ||
+||= 12 ||= 5.0 ||= 5.2 ||
+||= 13 ||= 4.2 ||= 5.7 ||
+||= 14 ||= 4.9 ||= 6.4 ||
+||= 15 ||= 5.3 ||= 6.7 ||
+||= 16 ||= 5.8 ||= 7.2 ||
+||= 17 ||= 5.2 ||= 6.5 ||
+||= 18 ||= 5.1 ||= 7.0 ||
+||= 19 ||= 3.8 ||= 6.1 ||
+||= 20 ||= 5.4 ||= 6.5 ||
+
+[[/div]]
+[[/collapsible]]
+
+[[/=]]
+
+所有受 SCP-7014 影響的骰子似乎都遵循特定行為模式，而不是隨機偏離機率。目前為止的測試顯示，受影響的骰子至少可分為七類。
+
+目前，這些分類並未成為正式體系，僅作為暫行假說。
+
+[[=]]
+
+[[collapsible show="◆ SCP-7014 作用骰的分類 ◆" hide="◇ CP-7014 作用骰的分類 ◇"]]
+
+[[div style="display: inline-block; border:solid 1px #999999; background:#F7F9F5; float:center; width:84%; padding:1px 15px; margin: 10px 10px 10px 40px"]]
+
+||~ 分類 ||~ 描述 ||
+||= 「高出目」|| 擲骰結果有較高的機率大於中位數。 ||
+||= 「低出目」|| 擲骰結果有較高的機率小於中位數。 ||
+||= 「可靠佬」|| 骰子有「偏愛」面。擲出那一面的機率高於正常值，而剩餘面的出現機率大致相同。 ||
+||= 「害羞仔」 || 在遊戲剛開始時擲出低點數的機率偏高，但隨著遊戲進行，擲出高點數的機率將根據遊戲時數增長。 ||
+||= 「專家」 || 只有碰上特定遊戲條件時才發生機率變化，其餘時間和正常骰子相同。例如，D20-A068 在龍與地下城遊戲中，每當作為對奪心魔的攻擊骰時，擲出高數值的機率顯著提升。 ||
+||= 「忠臣」 || 每當由特定的人擲出，擲骰結果都將有較高的機率大於中位數。當其他人投擲同一顆骰子時，異常性質不會表現。 ||
+||= 「叛徒」 || 似乎有意傷害玩家角色。當一般玩家擲出時，擲骰結果有較高的機率小於中位數。但是，當遊戲主持人擲出時，擲骰結果有較高的機率大於中位數。 ||
+
+
+
+[[/div]]
+[[/collapsible]]
+
+[[/=]]
+
+
+@@ @@
+
+------
+[[=]]
+[[size 125%]]**附錄 – 訪談紀錄**[[/size]]
+[[/=]]
+------
+
+[[div style="display: inline-block; border:dashed 1px #999999; background:#F5F5F5; float:center; width:84%; padding:1px 15px; margin: 10px 10px 10px 40px"]]
+----
+[[=]]
++++ {{訪談紀錄}}
+++++++ {{7014-A1-31/07/2022}}
+[[/=]]
+----
+**受訪者：**Dr. Paul Urvale
+
+**訪問者：**Dr. Uma Singh
+
+**前言：**以下訪談目的為確定 Urvale 博士與團隊在 SCP-7014 研究中所取得的進度，並評估維持現在的研究級別是否係基金會資產和資源的最佳運用。
+----
+= [[size 135%]]**[紀錄開始]**[[/size]]
+----
+
+**Dr. Singh：**好，開始吧。SCP-7014 現象的研究進度報告訪談什麼的。
+
+**Dr. Urvale：**所以說。 [停頓] 現在進入你拍桌告訴我在二十四小時內搞定，不然就要被調職的環節了？
+
+**Dr. Singh：**喔，你聽說啦？ 
+
+**Dr. Urvale：** 嗯，也不是啦。我主要是用猜的。我們送出去的數據最近一直有些，呃，不太中聽的評論，而且如果只是要做進度報告，一般來說不會有這麼正式的談話，我可以用 email 就好。而且目前進度報告也不會有什麼內容。
+
+**Dr. Singh：**這//正是//問題所在。
+
+**Dr. Urvale：**對，我想也是。
+
+**Dr. Singh：**Paul，聽著，這不是我本人的意見。不過上面有些人有點不開心，呃，他們覺得他們只是在付薪水給你和一群研究員玩龍與地下城。
+
+**Dr. Urvale：**這//正是//測試所需。
+
+**Dr. Singh：**我和他們說了。
+
+**Dr. Urvale:** 更別說我們有麼多骰子要骰，根本沒辦法真的在玩遊戲。
+
+**Dr. Singh：**我也和他們說了。
+
+**Dr. Urvale：**然後，總之我們的團隊改用 Pathfinder 了。
+
+**Dr. Singh：**有什麼差別？
+
+**Dr. Urvale：**喔，有啊！差多了！Pathfinder 的第一版基於 D&D 3.5e，但機制上其實有很大不同，特別是 Pathfinder 2e，就是我們現在用的版本，以及現行的 D&D 5e 之間。我個人認為，很多人只選擇 D&D 是因為它一天到晚都在媒體中出現，但老實說，我覺得 Pathfinder 更有深度，戰鬥系統也更強大。還有，威世智並不是多有良心的公司。對啦，我在這種地方工作也沒資格說他們啦，但是──
+
+**Dr. Singh：**Paul，我要問的是：使用不同遊戲會讓 SCP-7014 效應有差異嗎？
+
+**Dr. Urvale：**喔！對對對，當然，沒錯。啊，我的意思是，不會。抱歉。完全不會。到目前為止，所有測試都顯示幾乎相同的機率分佈。
+
+**Dr. Singh：**[嘆氣] 我明白了。好吧，我想數據總歸是數據。有東西能放在報告裡了。
+
+**Dr. Urvale：** 我說，我//真的//很抱歉，Uma。我知道的在找些足夠讓你升遷的東西，但這個項目並不是，你知道的，那種 O5 等級的東西。天啊，我們真的需要上面有更多像你這樣的人。你不該和我們一起卡在這裡。
+
+**Dr. Singh：**喔，這當然不是你的錯。可是這個研究案，[停頓] 老實說真的很煩人。這//應該//是令人興奮的研究領域，你知道嗎？一種完全改變宇宙基礎法則的全球性異常現象，完全違背我們目前對現實的理解。它應該會是備受矚目的高價值異常。但它似乎只對兒童遊戲中的擲骰結果有影響。就像這東西是專門設計來搞我的一樣。
+
+**Dr. Urvale：** [停頓] TRPG 的目標群眾其實通常是成人。
+
+**Dr. Singh：**對，當然。抱歉。
+
+**Dr. Urvale：**我是說，小孩子當然//可以//玩，但通常必須要替他們簡化規則，因為──啊，算了。總之，他們還要多久才會砍掉我們的研究企劃？
+
+**Dr. Singh：**只會調降研究計畫的優先級吧，我猜是這樣。他們不至於完全放棄，至少在我們還完全不知道到底發生了什麼的狀況下。還有我不知道期限是什麼時候，他們沒說。我猜你該不會正好處在大突破的邊緣吧？
+
+**Dr. Urvale：**據我所知，並沒有。抱歉。
+
+**Dr. Singh:** 真可惜。你對確定 SCP-7014 的本質還有多長的路要走？你也知道他們有多討厭項目收容等級維持在待定。
+
+**Dr. Urvale：**沒那麼接近。我有三個，好吧，我覺得算不上理論。我甚至也沒辦法叫它們是假說。但目前，我有三個 [停頓] 初步猜測。
+
+**Dr. Singh：**繼續。
+
+**Dr. Urvale：**第一，這只是來自其他異常的隨機次級效應，而我們還沒發現主異常。或者，這是某些組織之類的亂搞一些不該碰的東西帶來的奇怪副產物。
+
+**Dr. Singh：**真有幫助。
+
+**Dr. Urvale：**我還以為你會喜歡。也許反大麻玩家開始狂追 Critical Role 了。誰知道呢？ 
+
+**Dr. Singh：**那你的第二種想法呢？
+
+**Dr. Urvale：**你對信仰的後設科學非常熟悉嗎？
+
+**Dr. Singh：**聽起來像邪教。
+
+**Dr. Urvale：**哎，不是。這是一套理論，關於人類的信仰──或我認為該說是智慧生物的信仰──可能形塑周遭現實。
+
+**Dr. Singh：**像是聖經裡說的信心能夠移山？
+
+**Dr. Urvale：**嗯，你說的對也不對。這更接近超形上學，有生命的故事、有意識的夢境，惡魔與神靈，之類的實體。這種理論基本上是這樣：當我們相信某件事、談論那件事、講述某件事的故事時，我們就授予了它某種程度的現實性。我們給它形狀，使它成為一個存在。當然，異常從人類心智中跳出來是不太常見的。哎，Site-171 是圍繞著自稱地神的一個岩柱而建造的，它聲稱自己因受到崇拜有了生命。 
+
+**Dr. Singh：**好吧，所以呢？
+
+**Dr. Urvale：**所以說，想想這個問題：為什麼這些實體必須要是巨石、書籍或是可怕的雕像？難道它們不能，假設說，是小小的塑膠多面體？假如，經歷多年以來人們向骰子乞求想要的結果，還有對RNG之神 [Dr. Urvale 的雙手比了引號手勢] 的禱告──即便是當作笑話──但萬一我們因此讓這些骰子變成某種不太平凡的東西呢？畢竟，只有當我們//意圖//用骰子玩遊戲時異常才會生效。這難道沒有讓你覺得有點類似雙狹縫實驗嗎？如果觀察可以在微觀尺度上改變機率和現實，那麼為什麼信仰不能呢？那麼，它們在測試條件下表現標準機率分佈的原因就非常明白了。我的意思是，沒有人在擲骰收集科學數據的過程中，會渴望丟一個 Nat 20 出來。
+
+**Dr. Singh：**好，我接受。很有趣，真的很有趣。你有任何證據嗎？
+
+**Dr. Urvale：**當然，完全沒有。
+
+**Dr. Singh：**哦。我本來還覺得很有希望的。
+
+**Dr. Urvale：**真的很抱歉。我們已經檢查了骰子是否具有任何生命力跡象。找了通靈者、讀心者、移情者。結果一點也沒有。
+
+**Dr. Singh：**靠。那第三個想法呢？
+
+**Dr. Urvale：**啊。是我最喜歡的。第三，存在某種宅宅超維實體，而且它真的很愛 TRPG。[Urdale 博士雙手合十，模仿祈禱的樣子，眼睛望向天花板] 喔，骰神啊，讚美歸於祢，直到永永遠遠，阿門。
+
+**Dr. Singh：**真是謝謝你能那麼認真地說這種話。
+
+**Dr. Urvale：**我的榮幸。
+
+**Dr. Singh：**我認為還有一種可能你沒有提到。
+
+**Dr. Urvale：**啊？是什麼？
+
+**Dr. Singh：**這些事件純粹只是巨大的巧合。
+
+**Dr. Urvale：**[笑] 我覺得太不可能了。
+
+**Dr. Singh：**但假說上仍然可能成立。我的意思是，提到雙狹縫實驗的人可是你自己。如果多世界詮釋為真，那每種可能的結果都必定在//某處//發生，因此，必定至少有一個宇宙在完全隨機的條件下產生了和我們現在所見相同的擲骰結果。有可能只是我們處於某條詭異機率分布曲線的遠端，所以你的研究工作壓根沒有意義。
+
+**Dr. Urvale：**[停頓] 嗚喔，謝謝你的提醒，Uma。
+
+**Dr. Singh：**不客氣。
+
+**Dr. Urvale：**你知道嗎，有的時候我真的很討厭這份工作。剖析宇宙的黑暗秘密確實充滿樂趣，但如果你能翻到課本後面偷看解答，那就更好了。
+
+**Dr. Singh：**[笑] 振作起來，博士，就像你說的，這非常不可能。我是說，老實講，這機率該有多低？
+
+----
+= [[size 135%]]**[結束紀錄]**[[/size]]
+----
+[[/div]]
+
+
+
+
+@@ @@
+@@ @@
+@@ @@
+
+[[footnoteblock]]
+
+[[div class="footer-wikiwalk-nav"]]
+= << [[[SCP-7013]]] | SCP-7014 | [[[SCP-7015]]] >>
+[[/div]]
+
+[[include :scp-zh-tr:component:license-box
+|author=Uncannyon
+|translator=feitag
+|lang=]]
+=====
+> **Filename:** Dice1
+> **Name:** "Dungeons & Dragons"
+> **Author:** River Siren
+> **License:** CC BY 2.0
+> **Source Link:** https://www.flickr.com/photos/94303049@N07/8583814825/in/photolist-bgVU8V-59VFRR-58WjWV-7oh8Pr-a7vRgs-a7sZ5z-a7sXBa-e5wi6k/
+> **Additional Notes:** Image was cropped.
+=====
+> **Filename:** Dice2
+> **Name:** "D20 amalero"
+> **Author:** Henrique Zambonin
+> **License:** CC BY 2.0
+> **Source Link:** https://www.flickr.com/photos/hzambonin/318590612/in/photolist-7vVRk-4EHwtu-bgVU8V-9vnEHz-7YfDiF-GnLphu-6YJ5SW-rgko9S-7vWeA-3dzZLX-4RGJiL-2iRxwkj-6PHnW2-6k8H1K-58WjWV-u9RTA-6WfsY9-6kcTEj-6WbLNP-4YuQCt-E8k1Aw-bfzFP2-bASBo6-5NzDB-2VpWzi-2mLSW2m-E8k3o9-bhGkeB-7oh8Pr-GVskCy-cgqcsh-cgqcG1-cgqcfw-DZe28u-cgqbAS-cgqcWy-cgqbW7-cgqc49-cgqd9E-hMQdvG-cgqdps-cgqbJY-a7vRgs-5TywZY-a7sYV8-a7vR7q-a7sXBa-a7sYKz-7PCQBR-a7sZ5z
+> **Additional Notes:** N/A
+=====
+[[include :scp-zh-tr:component:license-box-end]]

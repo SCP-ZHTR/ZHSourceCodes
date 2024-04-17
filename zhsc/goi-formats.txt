@@ -1,0 +1,530 @@
+[[div class="content-panel standalone series"]] 
+
+[[div class="content-toc"]] 
+**內容列表** 
+[/goi-formats#info 信息] 
+[/goi-formats#list GOI文件列表] 
+[/goi-formats#alexylva Alexylva大學] 
+[/goi-formats#ambrose 安布羅斯餐廳] 
+[/goi-formats#anderson 安德森機器人] 
+[/goi-formats#arcadia 阿卡迪亞]
+[/goi-formats#awcy Are We Cool Yet?] 
+[/goi-formats#blackqueen 黑皇后] 
+[/goi-formats#ci 渾沌反叛軍] 
+[/goi-formats#chicago 芝加哥鬼靈] 
+[/goi-formats#cotbg 破碎之神教會] 
+[/goi-formats#cotsh 第二海托世教會]
+[/goi-formats#deer 鹿學院] 
+[/goi-formats#factory 工廠] 
+[/goi-formats#fifthism 第五教會] 
+[/goi-formats#goc 全球超自然聯盟] 
+[/goi-formats#gru-p 格魯烏"P"部門] 
+[/goi-formats#hermanfuller 赫曼·富勒的不安馬戲團] 
+[/goi-formats#hi 地平線倡議]
+[/goi-formats#ijamea 大日本帝國異常事務調查局]
+[/goi-formats#icsut 統一奇蹟學國際研究中心]
+[/goi-formats#la-rue 異人街]
+[/goi-formats#mcf 瑪納慈善基金會]
+[/goi-formats#mcd Marshall，Carter and Dark 公司]
+[/goi-formats#ma 麥地奇藝術學院]
+[/goi-formats#nobody "Nobody"]
+[/goi-formats#oria 伊斯蘭物品回收辦公室]
+[/goi-formats#oneiroi 夢神集團]
+[/goi-formats#plabs 普羅米修斯實驗室]
+[/goi-formats#sapphire 藍寶石]
+[/goi-formats#sh 蛇之手]
+[/goi-formats#spc 毆打鯊魚中心]
+[/goi-formats#tmi 叁月協會]
+[/goi-formats#uiu 聯邦調查局特異事故處]
+[/goi-formats#wws 威爾遜生物應對組]
+[/goi-formats#other 其他/次要GOI]
+
+------
+繁中站點文件列表
+[/goi-formats#muyihub 木易藏書閣]
+[/goi-formats#laundry-hub 洗衣部]
+[/goi-formats#zero-team-hub 皇家香港警察隊零號專隊]
+[/goi-formats#tsars-hub 沙皇先知協會]
+[/goi-formats#nsb8-hub 國家安全局第八處]
+[/goi-formats#cobweb-hub 蛛網國際]
+
+------
+其他分部文件列表
+[/goi-formats#madao 蒐集院]
+[/goi-formats#yamizushi 闇壽司]
+[/goi-formats#das-wunderkabinett 奇物室]
+
+
+[[/div]]
+
+[[# info]]
++ 簡述
+
+這是所有GOI格式檔案的列表，按關注組織名稱的第一個字母順序排列。沒有檔案格式的關注組織將不在此頁面上列出。如果該組織制定了可用的格式，則可通知管理員將該組織添加在此列表。
+
+在可能的情況下，每個關注組織的名稱將會連接至組織的中心頁。這些中心頁包含有關該GOI的更多信息，以及有關如何使用其格式的說明。
+
+[[# list]]
++ GOI文件列表
+
+[[# alexylva]]
+
+++ [[[alexylva-university-hub|Alexylva大學]]]
+
+[[module ListPages order="name" tags="+goi格式 +alexylva大學 +翻譯 +_alexylva大學-goi格式" separate="no" perPage="100"]]
+* %%title_linked%%
+[[/module]]
+本站收錄
+[[module ListPages order="name" tags="+goi格式 +alexylva大學 +原創 +_alexylva大學-goi格式" separate="no" perPage="100"]]
+* %%title_linked%%
+[[/module]]
+
+
+[[# ambrose]]
+
+++ [[[ambrose-restaurant-hub|安布羅斯餐廳]]]
+
+[[module ListPages order="name" tags="+goi格式 +安布羅斯餐廳 +翻譯 +_安布羅斯餐廳-goi格式" separate="no" perPage="100"]]
+* %%title_linked%%
+[[/module]]
+本站收錄
+[[module ListPages order="name" tags="+goi格式 +安布羅斯餐廳 +_安布羅斯餐廳-goi格式 +原創" separate="no" perPage="100"]]
+* %%title_linked%%
+[[/module]]
+
+
+[[# anderson]]
+
+++ [[[anderson-robotics-hub |安德森機器人]]]
+
+[[module ListPages order="name" tags="+goi格式 +安德森機器人 +翻譯 +_安德森機器人-goi格式" separate="no" perPage="100"]]
+* %%title_linked%%
+[[/module]]
+本站收錄
+[[module ListPages order="name" tags="+goi格式 +安德森機器人 +原創 +_安德森機器人-goi格式" separate="no" perPage="100"]]
+* %%title_linked%%
+[[/module]]
+
+[[# arcadia]]
+
+++ [[[arcadia-hub |阿卡迪亞]]]
+
+[[module ListPages order="name" tags="+goi格式 +_阿卡迪亞-goi格式 +翻譯" separate="no" perPage="100"]]
+* %%title_linked%%
+[[/module]]
+本站收錄
+[[module ListPages order="name" tags="+goi格式 +_阿卡迪亞-goi格式 +原創" separate="no" perPage="100"]]
+* %%title_linked%%
+[[/module]]
+
+
+[[# awcy]]
+++ [[[are-we-cool-yet-hub |Are We Cool Yet?]]]
+
+[[module ListPages order="name" tags="+goi格式 +awcy +翻譯 +_awcy-goi格式" separate="no" perPage="100"]]
+* %%title_linked%%
+[[/module]]
+本站收錄
+[[module ListPages order="name" tags="+goi格式 +awcy +原創 +_awcy-goi格式" separate="no" perPage="100"]]
+* %%title_linked%%
+[[/module]]
+
+[[# blackqueen]]
+++ [[[black-queen-hub |黑皇后]]]
+
+[[module ListPages order="name" tags="+goi格式 +黑皇后 +翻譯 +_黑皇后-goi格式" separate="no" perPage="100"]]
+* %%title_linked%%
+[[/module]]
+本站收錄
+[[module ListPages order="name" tags="+goi格式 +黑皇后 +原創 +_黑皇后-goi格式" separate="no" perPage="100"]]
+* %%title_linked%%
+[[/module]]
+
+[[# ci]]
+++ [[[chaos-insurgency-hub |渾沌反叛軍]]]
+
+[[module ListPages order="name" tags="+goi格式 +渾沌反叛軍 +翻譯 +_渾沌反叛軍-goi格式 " separate="no" perPage="100"]]
+* %%title_linked%%
+[[/module]]
+本站收錄
+[[module ListPages order="name" tags="+goi格式 +渾沌反叛軍 +原創 +_渾沌反叛軍-goi格式" separate="no" perPage="100"]]
+* %%title_linked%%
+[[/module]]
+
+[[# chicago]]
+++ [[[chicago-spirit |芝加哥鬼靈]]]
+
+[[module ListPages order="name" tags="+goi格式 +芝加哥鬼靈 +翻譯 +_芝加哥鬼靈-goi格式" separate="no" perPage="100"]]
+* %%title_linked%%
+[[/module]]
+本站收錄
+[[module ListPages order="name" tags="+goi格式 +芝加哥鬼靈 +原創 +_芝加哥鬼靈-goi格式" separate="no" perPage="100"]]
+* %%title_linked%%
+[[/module]]
+
+[[# cotbg]]
+++ [[[church-of-the-broken-god-hub |破碎之神教會]]]
+
+[[module ListPages order="name" tags="+goi格式 +破碎之神教會 +翻譯 +_破碎之神教會-goi格式 " separate="no" perPage="100"]]
+* %%title_linked%%
+[[/module]]
+本站收錄
+[[module ListPages order="name" tags="+goi格式 +破碎之神教會 +原創 +_破碎之神教會-goi格式" separate="no" perPage="100"]]
+* %%title_linked%%
+[[/module]]
+
+[[# cotsh]]
+++ [[[second-hytoth-hub |第二海托世教會]]]
+
+[[module ListPages order="name" tags="+goi格式 +_第二海托世教會-goi格式 +翻譯" separate="no" perPage="100"]]
+* %%title_linked%%
+[[/module]]
+本站收錄
+[[module ListPages order="name" tags="+goi格式 +_第二海托世教會-goi格式 +原創" separate="no" perPage="100"]]
+* %%title_linked%%
+[[/module]]
+
+[[# deer]]
+++ [[[deer-college-hub|鹿學院]]]
+
+[[module ListPages order="name" tags="+goi格式 +鹿學院 +翻譯 +_鹿學院-goi格式 " separate="no" perPage="100"]]
+* %%title_linked%%
+[[/module]]
+本站收錄
+[[module ListPages order="name" tags="+goi格式 +鹿學院 +原創 +_鹿學院-goi格式 " separate="no" perPage="100"]]
+* %%title_linked%%
+[[/module]]
+
+
+[[# factory]]
+++ [[[factory-hub |工廠]]]
+
+[[module ListPages order="name" tags="+goi格式 +工廠 +翻譯 +_工廠-goi格式 " separate="no" perPage="100"]]
+* %%title_linked%%
+[[/module]]
+本站收錄
+[[module ListPages order="name" tags="+goi格式 +工廠  +_工廠-goi格式 +原創" separate="no" perPage="100"]]
+* %%title_linked%%
+[[/module]]
+
+
+[[# fifthism]]
+++ [[[fifthist-hub |第五教會]]]
+
+[[module ListPages order="name" tags="+goi格式 +第五教會 +翻譯 +_第五教會-goi格式 " separate="no" perPage="100"]]
+* %%title_linked%%
+[[/module]]
+本站收錄
+[[module ListPages order="name" tags="+goi格式 +第五教會+_第五教會-goi格式 +原創" separate="no" perPage="100"]]
+* %%title_linked%%
+[[/module]]
+
+[[# goc]]
+++ [[[goc-hub-page |全球超自然聯盟]]]
+
+[[module ListPages order="name" tags="+goi格式 +翻譯 +_全球超自然聯盟-goi格式" separate="no" perPage="100"]]
+* %%title_linked%%
+[[/module]]
+本站收錄
+[[module ListPages order="name" tags="+goi格式 +_全球超自然聯盟-goi格式 +原創 " separate="no" perPage="100"]]
+* %%title_linked%%
+[[/module]]
+
+
+[[# gru-p]]
+++ [[[gru-p-hub |格魯烏"P"部門]]]
+
+[[module ListPages order="name" tags="+goi格式  +翻譯 +_格魯烏p部門-goi格式" separate="no" perPage="100"]]
+* %%title_linked%%
+[[/module]]
+本站收錄
+[[module ListPages order="name" tags="+goi格式 +_格魯烏p部門-goi格式 +原創 " separate="no" perPage="100"]]
+* %%title_linked%%
+[[/module]]
+
+
+[[# hermanfuller]]
+++ [[[herman-fuller-hub |赫曼·富勒的不安馬戲團]]]
+
+[[module ListPages order="name" tags="+goi格式 +赫曼-富勒 +翻譯 +_赫曼-富勒-goi格式 " separate="no" perPage="100"]]
+* %%title_linked%%
+[[/module]]
+本站收錄
+[[module ListPages order="name" tags="+goi格式 +赫曼-富勒+_赫曼-富勒-goi格式 +原創" separate="no" perPage="100"]]
+* %%title_linked%%
+[[/module]]
+
+[[# hi]]
+++ [[[horizon-initiative-hub|地平線倡議]]]
+
+[[module ListPages order="name" tags="+goi格式 +地平線倡議 +翻譯 +_地平線倡議-goi格式 " separate="no" perPage="100"]]
+* %%title_linked%%
+[[/module]]
+本站收錄
+[[module ListPages order="name" tags="+goi格式 +地平線倡議 +_地平線倡議-goi格式 +原創" separate="no" perPage="100"]]
+* %%title_linked%%
+[[/module]]
+
+[[# icsut]]
+++ [[[http://scp-zh-tr.wikidot.com//tag/icsut#pages|統一奇蹟學國際研究中心]]]
+
+[[module ListPages order="name" tags="+goi格式 +翻譯 +_icsut-goi格式" separate="no" perPage="100"]]
+* %%title_linked%%
+[[/module]]
+本站收錄
+[[module ListPages order="name" tags="+goi格式 +原創 +_icsut-goi格式" separate="no" perPage="100"]]
+* %%title_linked%%
+[[/module]]
+
+[[# ijamea]]
+++ [[[ijamea-hub| 大日本帝國異常事務調查局]]]
+
+[[module ListPages order="name" tags="+goi格式 +Ijamea +翻譯 +_ijamea-goi格式" separate="no" perPage="100"]]
+* %%title_linked%%
+[[/module]]
+本站收錄
+[[module ListPages order="name" tags="+goi格式 +_ijamea-goi格式 +原創 " separate="no" perPage="100"]]
+* %%title_linked%%
+[[/module]]
+
+[[# la-rue]]
+++ [[[larue-hub|異人街]]]
+
+[[module ListPages order="name" tags="+goi格式 +_異人街-goi格式 +翻譯" separate="no" perPage="100"]]
+* %%title_linked%%
+[[/module]]
+本站收錄
+[[module ListPages order="name" tags="+goi格式 +_異人街-goi格式 +原創" separate="no" perPage="100"]]
+* %%title_linked%%
+[[/module]]
+
+[[# mcf]]
+++ [[[manna-charitable-foundation-hub |瑪納慈善基金會]]]
+
+[[module ListPages order="name" tags="+goi格式 +瑪納慈善基金會 +翻譯 +_瑪納慈善基金會-goi格式" separate="no" perPage="100"]]
+* %%title_linked%%
+[[/module]]
+本站收錄
+[[module ListPages order="name" tags="+goi格式 +_瑪納慈善基金會-goi格式 +原創" separate="no" perPage="100"]]
+* %%title_linked%%
+[[/module]]
+
+
+[[# mcd]]
+++ [[[marshall-carter-and-dark-hub |Marshall，Carter and Dark 公司]]]
+
+[[module ListPages order="name" tags="+goi格式 +_mc&d-goi格式 +翻譯 " separate="no" perPage="100"]]
+* %%title_linked%%
+[[/module]]
+本站收錄
+[[module ListPages order="name" tags="+goi格式 +_mc&d-goi格式 +原創 " separate="no" perPage="100"]]
+* %%title_linked%%
+[[/module]]
+
+[[# ma]]
+++ [[[http://scp-zh-tr.wikidot.com/system:page-tags/tag/%E7%BE%8E%E7%AC%AC%E5%A5%87%E8%97%9D%E8%A1%93%E5%AD%B8%E9%99%A2|麥地奇藝術學院]]]
+
+[[module ListPages order="name" tags="+goi格式 +_麥地奇藝術學院-goi格式 +翻譯" separate="no" perPage="100"]]
+* %%title_linked%%
+[[/module]]
+本站收錄
+[[module ListPages order="name" tags="+goi格式 +_麥地奇藝術學院-goi格式 +原創" separate="no" perPage="100"]]
+* %%title_linked%%
+[[/module]]
+
+[[# nobody]]
+++ [[[nobody-hub |"Nobody"]]]
+
+[[module ListPages order="name" tags="+goi格式 +nobody +翻譯 +_nobody-goi格式" separate="no" perPage="100"]]
+* %%title_linked%%
+[[/module]]
+本站收錄
+[[module ListPages order="name" tags="+goi格式 +nobody +原創 +_nobody-goi格式" separate="no" perPage="100"]]
+* %%title_linked%%
+[[/module]]
+
+[[# oria]]
+++ [[[oria-hub |伊斯蘭物品回收辦公室]]]
+
+[[module ListPages order="name" tags="+goi格式 +伊斯蘭物品回收辦公室 +翻譯 +_伊斯蘭物品回收辦公室-goi格式 " separate="no" perPage="100"]]
+* %%title_linked%%
+[[/module]]
+本站收錄
+[[module ListPages order="name" tags="+goi格式 +伊斯蘭物品回收辦公室+_伊斯蘭物品回收辦公室-goi格式 +原創" separate="no" perPage="100"]]
+* %%title_linked%%
+[[/module]]
+
+[[# oneiroi]]
+++ [[[oneiroi |夢神集團]]]
+
+[[module ListPages order="name" tags="+goi格式 +夢神 +翻譯 +_夢神-goi格式 " separate="no" perPage="100"]]
+* %%title_linked%%
+[[/module]]
+本站收錄
+[[module ListPages order="name" tags="+goi格式 +夢神+_夢神-goi格式 +原創" separate="no" perPage="100"]]
+* %%title_linked%%
+[[/module]]
+
+[[# plabs]]
+++ [[[prometheus-labs-hub |普羅米修斯實驗室]]]
+
+[[module ListPages order="name" tags="+goi格式 +普羅米修斯實驗室 +翻譯 +_普羅米修斯實驗室-goi格式 " separate="no" perPage="100"]]
+* %%title_linked%%
+[[/module]]
+本站收錄
+[[module ListPages order="name" tags="+goi格式 +普羅米修斯實驗室 +_普羅米修斯實驗室-goi格式 +原創" separate="no" perPage="100"]]
+* %%title_linked%%
+[[/module]]
+
+[[# sapphire]]
+++ [[[saphir-centre|藍寶石]]]
+
+[[module ListPages order="name" tags=" +_saphir-goi格式 " separate="no" perPage="100"]]
+* %%title_linked%%
+[[/module]]
+本站收錄
+[[module ListPages order="name" tags="+goi格式 +saphir+_saphir-goi格式 +原創" separate="no" perPage="100"]]
+* %%title_linked%%
+[[/module]]
+
+[[# sh]]
+++ [[[serpent-s-hand-hub |蛇之手]]]
+
+[[module ListPages order="name" tags="+goi格式 +_蛇之手-goi格式 +翻譯 " separate="no" perPage="100"]]
+* %%title_linked%%
+[[/module]]
+本站收錄
+[[module ListPages order="name" tags="+goi格式 +_蛇之手-goi格式 +原創 " separate="no" perPage="100"]]
+* %%title_linked%%
+[[/module]]
+
+[[# spc]]
+++ [[[spc-hub|毆打鯊魚中心]]]
+
+[[module ListPages order="name" tags="+goi格式 +毆打鯊魚中心-goi格式 +翻譯 " separate="no" perPage="100"]]
+* %%title_linked%%
+[[/module]]
+本站收錄
+[[module ListPages order="name" tags="+goi格式 +_毆打鯊魚中心-goi格式 +原創 " separate="no" perPage="100"]]
+* %%title_linked%%
+[[/module]]
+
+[[# tmi]]
+++ [[[three-moons-initiative-hub|叁月協會]]]
+
+[[module ListPages order="name" tags="+goi格式 +_叁月協會-goi格式 +翻譯" separate="no" perPage="100"]]
+* %%title_linked%%
+[[/module]]
+本站收錄
+[[module ListPages order="name" tags="+goi格式 +_叁月協會-goi格式 +原創" separate="no" perPage="100"]]
+* %%title_linked%%
+[[/module]]
+
+[[# uiu]]
+++ [[[unusual-incidents-unit-hub |聯邦調查局特異事故處]]]
+
+[[module ListPages order="name" tags="+goi格式 +_uiu-goi格式 +翻譯 " separate="no" perPage="100"]]
+* %%title_linked%%
+[[/module]]
+本站收錄
+[[module ListPages order="name" tags="+goi格式 +_uiu-goi格式 +原創 " separate="no" perPage="100"]]
+* %%title_linked%%
+[[/module]]
+
+[[# wws]]
+++ [[[wilson-s-wildlife-solutions-hub|威爾遜生物應對組]]]
+
+[[module ListPages order="name" tags=" +_威爾遜生物應對組-goi格式 +翻譯 " separate="no" perPage="100"]]
+* %%title_linked%%
+[[/module]]
+本站收錄
+[[module ListPages order="name" tags=" +_威爾遜生物應對組-goi格式 +原創 " separate="no" perPage="100"]]
+* %%title_linked%%
+[[/module]]
+
+[[# other]]
+++ 未知
+
+[[module ListPages order="name" tags="  +goi格式 +翻譯 +_未知-goi格式" separate="no" perPage="100"]]
+* %%title_linked%%
+[[/module]]
+本站收錄
+[[module ListPages order="name" tags=" +_未知-goi格式 +goi格式 +原創" separate="no" perPage="100"]]
+* %%title_linked%%
+[[/module]]
+
+[[/div]]
+
+++ 繁中站點文件列表
+[[div class="content-panel standalone series"]]
+[[# muyihub]]
++ [[[mu-yi-hub|木易藏書閣]]]
+[[module ListPages order="name" tags=" +_木易-goi格式 " separate="no" perPage="100"]]
+* %%title_linked%%
+[[/module]]
+[[/div]]
+
+[[div class="content-panel standalone series"]]
+[[# laundry-hub]]
++ [[[laundry-of-miya|洗衣部]]]
+[[module ListPages order="name" tags=" +_洗衣部門-goi格式 " separate="no" perPage="100"]]
+* %%title_linked%%
+[[/module]]
+[[/div]]
+
+[[div class="content-panel standalone series"]]
+[[# zero-team-hub]]
++ [[[http://scp-zh-tr.wikidot.com/zero-team-hub|皇家香港警察隊零號專隊]]]
+[[module ListPages order="name" tags="+_零號專隊-goi格式" separate="no" perPage="100"]]
+* %%title_linked%%
+[[/module]]
+[[/div]]
+
+[[div class="content-panel standalone series"]]
+[[# tsars-hub]]
++ [[[http://scp-zh-tr.wikidot.com/tsars-hub|沙皇先知協會]]]
+[[module ListPages order="name" tags="+_沙皇先知協會-goi格式" separate="no" perPage="100"]]
+* %%title_linked%%
+[[/module]]
+[[/div]]
+
+[[div class="content-panel standalone series"]]
+[[# nsb8-hub]]
++ [[[http://scp-zh-tr.wikidot.com/nsb8-hub|國家安全局第八處]]]
+[[module ListPages order="name" tags="+_第八處-goi格式" separate="no" perPage="100"]]
+* %%title_linked%%
+[[/module]]
+[[/div]]
+
+[[div class="content-panel standalone series"]]
+[[# cobweb-hub]]
++ [[[cobweb-international-hub|蛛網國際]]]
+[[module ListPages order="name" tags="+_蛛網國際-goi格式" separate="no" perPage="100"]]
+* %%title_linked%%
+[[/module]]
+[[/div]]
+
+++ 其他分部文件列表
+[[div class="content-panel standalone series"]]
+[[# madao]]
++ 蒐集院
+[[module ListPages order="name" tags=" +_蒐集院-goi格式 " separate="no" perPage="100"]]
+* %%title_linked%%
+[[/module]]
+[[/div]]
+
+[[div class="content-panel standalone series"]]
+[[# yamizushi]]
++ 闇壽司
+[[module ListPages order="name" tags=" +_闇壽司-goi格式" separate="no" perPage="100"]]
+* %%title_linked%%
+[[/module]]
+[[/div]]
+
+[[div class="content-panel standalone series"]]
+[[# das-wunderkabinett]]
++ 奇物室
+[[module ListPages order="name" tags=" +_奇物室-goi格式 " separate="no" perPage="100"]]
+* %%title_linked%%
+[[/module]]
+[[/div]]

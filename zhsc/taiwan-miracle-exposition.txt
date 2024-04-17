@@ -1,0 +1,1368 @@
+[[div_ id="u-top-link"]]
+ 
+[[/div]]
+
+[[include credit:start]]
+
+**中心頁製作**
+中心頁主要構想：[[*user ting129]]
+LOGO製作：[[*user Dr V Valentine]]
+
+-----
+
+**主題製作**
+Theme原作者：[[*user dog_punch]]
+Theme連結：[[[http://1nu.wikidot.com/iikanji]]]
+CC BY-SA 3.0
+
+Theme原作者：[[*user dog_punch]]
+Theme連結：[[[http://1nu.wikidot.com/taiwa]]]
+CC BY-SA 3.0
+
+改作者：[[*user ting129]]
+
+[[include credit:end]]
+
+[[=]]
+> 「受邀參加神異博覽會的貴賓們，各位好。感謝您願意在博覽會開幕的日子前來欣賞日本在台灣經營四十年的異常運用成果。在這四十年間，我們異常事務處在帝國的領土內收集並應用了不少異常事物，將異常作為推動殖民地進步發展的工具。這次的展覽將會帶領各位參觀我們在農業、鐵路、製糖、公共衛生等基礎建設的成果，讓世界知道日本有多大的決心，成為一個在異常領域有傑出表現的國家。」
+
+@@ @@
+至少，受到邀請而參加，平時生活在帷幕之下的人是這樣聽說的。
+
+[[=image https://i.imgur.com/zDkeRy2.png width="250px"]]
+
+[[size 250%]]**歡迎來到博覽會**[[/size]]
+@@ @@
+
+[[/=]]
+
+[[div_ class="content-body"]]
+[[div_ class="tab-buttons"]]
+[#u-tab-0 相關作品][#u-tab-1 故事背景][#u-tab-2 參加方式]
+[[/div]]
+[[div id="u-tab-1"]]
+1
+[[/div]]
+[[div id="u-tab-2"]]
+2
+[[/div]]
+
+[[div class="tab-container-wrap"]]
+[[div class="tab-container"]]
+
+[[div_ class="tab-content"]]
+[[div_ style="text-align: center"]]
+
++ scp
+
+[[span class="list-title"]][[[SCP-ZH-046]]][[/span]]
+//「這個神社是我的神社啊，既然是我的那就應該好好保護吧？」//
+by：[[*user ting129]]
+
+-----
+[[span class="list-title"]][[[SCP-ZH-061]]][[/span]]
+//帝國異常調查局認為此物有戰略價值，可能於近日要求移交此蒐集物作為戰爭用途。//
+by：[[*user ting129]]
+
+-----
+[[span class="list-title"]][[[SCP-ZH-157]]][[/span]]
+//「我在回程一直在想，回到現實後也還在想，或許……過去的人事物就應該留在過去也不一定。」//
+by：[[*user grizzlybr]]、[[*user dr v valentine]]、[[*user vomiter]]
+
+-----
+[[span class="list-title"]][[[SCP-ZH-304]]][[/span]]
+//該時空內的空間有限，在道路的盡頭可以發現灰階色彩的解離街景或無色的路面。//
+by：[[*user YONGZUN]]
+
+-----
+[[span class="list-title"]][[[SCP-ZH-327]]][[/span]]
+//「有一次甚至她拉著老師到年祭，但是被長輩們趕出去。他們說『怎麼可以讓日本人來這種地方？』」//
+by：[[*user samscript]]
+
+-----
++ 故事
+
+[[span class="list-title"]][[[1935-overture-night-rain|一九三五序曲 - 夜雨]]][[/span]]
+//在她視線的前方，是一場突如其來的大雨，狂風伴隨著飛在空中的樹葉，將傍晚的天空蓋上一層灰色的汙濁布幕。//
+by：[[*user ting129]]
+
+-----
+[[span class="list-title"]][[[who-is-the-asian-orphan|亞細亞的孤兒是誰]]][[/span]]
+//而胡明生故居如今被改建為停車場。似乎在一些網路流傳的都市傳說中變得有名。據說只要在深夜前往，就會有不知從何處傳來少女的聲音向你提問。
+「你是什麼人？」//
+by：[[*user vomiter]]
+
+-----
+[[span class="list-title"]][[[meretrix-mimicking-cyrenidae|擬態的台灣蜆.html]]][[/span]]
+//當時日本人把很多日本文蛤放到淡水河裡，然後就有一些台灣蜆開始把自己偽裝成文蛤。結果後來日本人1935年那時候要辦展覽，剛好被人發現有這種「會變身的文蛤」，然後就很多人去捕撈放到展覽會上讓人看。//
+by：[[*user vomiter]]
+
+-----
+[[span class="list-title"]][[[taiwan-newspaper|臺灣異新報、昭和十年十一月一日]]][[/span]]
+//據昨晚總督府之公告表示，目前流亡中國的沙皇先知協會3現任秘法長，韋爾日比茨基將於幾日後率考察團來臺參訪博覽會，再次引起外界熱烈討論。//
+by：[[*user kingdom war]]
+
+-----
+[[span class="list-title"]][[[to-the-doctor|你是啥物人？]]][[/span]]
+//他還清楚記得那天異獸自己在掌心塌陷化成粉末的手感，展覽會裡鼎沸的人聲，日語，閩南語交織嘈雜，帶著癸河似乎又回到了詛咒一樣的那一天。//
+by：[[*user dr v valentine]]
+
++ goi格式
+
+[[span class="list-title"]][[[collected-item-no0665|第〇六六五號]]][[/span]]
+//※許可研儀官放棄對思泉弄管控的行動，但重新接收此處仍為首要任務。（蒐集院，昭和十三年八月記）//
+作者：[[*user ting129]]
+
+-----
+[[span class="list-title"]][[[sh-cannibalism-in-taiwan|那些被當成藥物宰來吃的人們]]][[/span]]
+//通常受害者的骨頭會被煮成膠，稱為番膏，肉會被切片食用、作成番仔湯、番下水等，膽囊則會被認為可以治刀傷、腿骨則被認為食用可以治療腳部疾病，甚至於有些人認為只要吃過了生番身上就會擁有番味，以此可以避免遭到生番出草……//
+by：[[*user Nihilmace]]
+
+-----
+[[span class="list-title"]][[[project-proposal-1925-1894|項目企劃書 1924-1894：《博覽會》]]][[/span]]
+//於資料室中覓得此一計畫書，將對其組織章程與各項設計做出優化後予以實行。//
+by：[[*user Reverberate_a]]
+
+-----
++ 藝術創作
+
+[[span class="list-title"]][[[the-taiwan-exposition-1935-logo|1935異常博覽會-LOGO]]][[/span]]
+by：[[*user Dr V Valentine]]
+@@ @@
+
+----
+
+[[collapsible show="所有博覽會的與會者們......" hide="博覽會終有謝幕之時......"]]
+
+@@ @@
+[[module ListPages order="time" tags="+神異博覽會" separate="no" perPage="100" prependLine="||~ ##000000|作品名稱##||~ ##000000|與會者##||~ ##000000|評分## ||"]]
+|| %%title_linked%% || %%created_by_linked%% || **%%rating%%** ||
+[[/module]]
+@@ @@
+
+[[/collapsible]]
+
+[[/div]]
+[[/div]]
+
+[[div_ class="tab-content"]]
+
++ 世界線背景
+
+於西元1935年、昭和十年舉辦的「始政四十週年紀念台灣博覽會」，作為日本政府展示日本財力、國力、武力的手段，目標是向世界傳達明治維新後的文明形象。與日本政府的想法相同，IJAMEA在日本接連取得朝鮮、滿州等地後也在尋找一個向常態維護組織以及異常應用團體宣揚自己實力的機會。因此IJAMEA開始計劃在台灣博覽會之中，舉辦一個屬於帷幕下世界的「神異博覽會」。除了向蒐集院徵求異常物品用於展出，IJAMEA也試圖製造各式異常，甚至開始在台灣各地展開搜索。這樣的行為不僅讓受指使的組織們反感，也觸犯到台灣島上妖怪和神靈的底線。阻止IJAMEA繼續拓展權力便成了他們的共識。國際間的緊張情勢也愈發升溫，將基金會趕出日本後，IJAMEA逐漸掌握了東亞地區的控制權，開始威脅到位於歐洲各地以及美國的常態維護組織。但所有人都不曉得，一場席捲全球的大戰正在等著他們。
+
+1935年的台灣雖然繁華，人們卻缺少對於異常事物本質的反思。如果說異常可以被人為製造，那這個時代光鮮亮麗的面容也只是人所堆砌出來的假象。
+
+「神異博覽會一九三五」不僅止於描寫那場博覽會的細節，而是包含了那個時代的異常社會中，從掌權者到底層人士的觀點。現在又有誰能知曉二十世紀初期，帷幕底下那個世界的美麗與哀愁？
+
+-----
+
++ 關聯組織
+
+++++ 台灣博覽會事務局異常展品部
+台灣總督府於1934年底定案舉辦「始政四十週年台灣博覽會」，在IJAMEA的介入後，負責博覽會舉辦事宜的台灣博覽會事務局額外成立了負責異常展品的異常展品部。雖然名義上下轄於台灣博覽會事務局，但內部人員和展覽項目都是由IJAMEA安排，負責「神異博覽會」的舉辦。
+
+++++ SCP基金會（SCP Foundation）
+成立於1901年，致力於收容異常事物，防止一般世界遭受異常影響。曾在1920年代與IJAMEA同盟，後於1932年因理念不合被逐出日本。
+
+++++ 日本帝國異常物質審查機構（IJAMEA）
+成立於1888年，為日本處理異常相關事物的組織，在1895年獲得台灣與澎湖的治理權後同樣負責殖民地的異常事物管理。為了將日本的強大國力與對異常的了解展現給其他國家，透過異常展品部進行博覽會的規劃與安排。
+
+++++ 蒐集院
+和IJAMEA淵源匪淺的異常事務管理機構，在日本獲得台灣後開始派人調查島上的各種異常現象，並製作檔案紀錄。在異常博覽會舉辦前，被IJAMEA要求提供蒐集物於博覽會中展出。
+
+++++ 截門
+建立於明鄭時期的妖怪集團，截門所處的異常空間「碧游」中居住著許多妖怪，並由「長老」們負責群體的事務討論。作為台灣島上最大的妖怪群體，截門擁有能與IJAMEA和蒐集院互相抗衡的實力，也與兩個組織發生過不少衝突，其中以發生於1935年的衝突最大。
+
+++++ 其他
+只要是在故事發生時已經成立的組織，或當時現實世界中實際存在的單位，都可以加入本世界線當中。
+
+[[/div]]
+
+[[div_ class="tab-content"]]
+
+++ 參與方式
+
+本世界線主要圍繞著1935年舉辦的「神異博覽會」發展，任何與此概念相關的作品都可以成為這個世界線中心頁的一部份。除了各個身處帷幕後的組織視角，也可以從展品、後續影響、相關文件、事件的角度去描寫這場展示日本殖民成果的博覽會。
+
+-----
+
+++ 寫作規定
+
+身為獨立的世界線，你可以放心將自己的設定放入其中，只要能合理的解釋設定的前因後果即可。就算和世界線中其他作品矛盾也無傷大雅，因為不同的視角本身就可能受到主觀想法影響。重點從來就不是博覽會，而是參與其中的所有人、事、物。
+
+-----
+
+++ 中心頁運作
+
+本中心頁的發起人與主要建構者是[[*user ting129]]，如果對「神異博覽會一九三五」有任何寫作方面的問題，都可以在繁中Discord群組中的專門頻道與成員們討論。任何關於本中心頁的新作品發佈或作品退出本中心頁的消息，都可以在該頻道中告知，以便進行關聯作品調整。
+
+-----
+
+++ FAQ
+
++++ 我可以用圖書館或GoI格式來創作嗎？
+
+本中心頁允許所有格式的創作，但作品必須契合本世界線的主題。
+
++++ 可以加入新的設定或角色嗎？
+
+撰寫新設定時請注意時代背景，「神異博覽會一九三五」主要發生在日治時期的台灣，故事當下不應出現的科技和不符合當時社會狀態的情節請盡量避免。
+
++++ 所以只能撰寫和那個年代有關的作品？
+
+雖然故事發生的時間點主要是1935年的台灣和博覽會本身，但你也可以循著時間線往前或向後發揮，描寫博覽會舉辦之前異常世界的情勢，甚至撰寫博覽會造成的影響、第七次超自然戰爭的開始與結束。
+
+[[/div]]
+
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[a class="open-side" href="#u-side"]][[span]]≡
+[[span class="menu"]]選單[[/span]][[/span]][[/a]]
+[[div id="u-side" class="new-side"]]
+[[a href="#close" class="close-side"]][[/a]]
+[[div class="side-content"]]
+ 
+[[div class="side-outside"]]
+[[span]]新手導引[[/span]]
+[[div class="side-inside"]]
+[[[guide-for-newbies|新手指南]]]
+[[[system:join|加入網站]]]
+[[/div]]
+[[/div]]
+------
+[[div class="side-outside"]]
+[[span]]指導[[/span]]
+[[div class="side-inside"]]
+[[[guide-hub|指南中心]]]
+[[[site-rules|網站守則]]]
+[[/div]]
+[[/div]]
+------
+[[div class="side-outside"]]
+[[span]]SCP系列[[/span]]
+[[div class="side-inside"]]
+[[[scp-series|Ⅰ]]] | [[[scp-series-2|Ⅱ]]] | [[[scp-series-3|Ⅲ]]] | [[[scp-series-4|Ⅳ]]] | [[[scp-series-5|Ⅴ]]] | [[[scp-series-6|Ⅵ]]]
+[[/div]]
+[[/div]]
+------
+[[div class="side-outside"]]
+[[span]]SCP系列-ZH[[/span]]
+[[div class="side-inside"]]
+[[[scp-series-zh|Ⅰ]]]
+[[/div]]
+[[/div]]
+------
+[[div class="side-outside"]]
+[[span]]故事[[/span]]
+[[div class="side-inside"]]
+[[[foundation-tales|EN]]] | [[[tale-zh|ZH]]]
+[[/div]]
+[[/div]]
+------
+[[div class="side-outside"]]
+[[span]]世界線[[/span]]
+[[div class="side-inside"]]
+[[[canon-hub|EN]]] | [[[canon-hub-zh|ZH]]]
+[[/div]]
+[[/div]]
+------
+[[[goi-formats|GoI格式]]] 
+------
+[http://scp-int.wikidot.com 國際站]
+
+[[span class="side-sites"]]
+[[a class="n-sites" href="//scp-sandbox-zh.wikidot.com/"]]繁中沙盒[[/a]]
+[[span class="center-line"]]|[[/span]]
+[[a class="n-sites" href="//scp-sandbox2-zh.wikidot.com/"]]繁中沙盒2.0[[/a]]
+[[/span]]
+
+[[div class="side-outside"]]
+[[span]]其他語言[[/span]]
+[[div class="side-inside"]]
+[http://scp-jp.wikidot.com/taiwan-miracle-exposition JP]
+[[/div]]
+[[/div]]
+------
+
+[[span class="side-links"]]
+[[a class="side-twitter" href="https://twitter.com/scpwikizh"]][[/a]]
+[[a class="side-discord" href="http://scp-zh-tr.wikidot.com/chat-guide"]][[/a]]
+[[a class="site-other" href="http://scp-zh-tr.wikidot.com/links"]][[/a]]
+[[/span]]
+[[module ListPages range="." wrapper="no" separate="no"]]
+[[a class="side-credit" href="%%site_name%%.wikidot.com"]]© %%site_title%%[[/a]]
+[[/module]]
+[[/div]]
+[[/div]]
+[[div_ class="op-buttons"]]
+[[a href="#u-top-link" class="op-btn to-top" data-title="回到頂部"]][[/a]]
+[[a href="#footer" class="op-btn to-bottom" data-title="回到底部"]][[/a]]
+[[button source class="op-btn view-source" text=" "]]
+[[button history class="op-btn view-history" text=" "]]
+[[/div]]
+
+[[module CSS]]
+/*
+    神異博覽會theme
+    Created at 2020
+    Originally Created by dog_punch
+    Combined Theme Link http://1nu.wikidot.com/iikanji and http://1nu.wikidot.com/taiwa
+    Combined by ting129
+    CC BY-SA 3.0
+*/
+@import url(https://fonts.googleapis.com/css2?family=Pinyon+Script&display=swap);
+@import url(https://fonts.googleapis.com/css2?family=Major+Mono+Display&display=swap);
+@import url(https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@300;400&display=swap);
+@import url(https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100;300&display=swap);
+@import url(https://fonts.googleapis.com/css2?family=Source+Code+Pro&display=swap);
+:root {
+    --font-color: #333;
+    --background: #fff;
+    --base-color: #7B7B7B;
+    --link-hover-color: #BEBEBEbd;
+    --title-color: linear-gradient(to right, #E0E0E0, #4F4F4F);
+}
+ 
+body {
+    color: var(--font-color);
+}
+ 
+a {
+    color: var(--base-color);
+    transition: .3s;
+}
+ 
+a:hover {
+    color: var(--link-hover-color);
+    text-decoration: none;
+}
+ 
+.content-body {
+    font-family: 'Roboto Mono', 'Noto Sans JP', monospace;
+}
+
+@import url(https://fonts.googleapis.com/css2?family=Noto+Serif+JP:wght@200;300;400;500;600;700;900&display=swap);
+div#container-wrap {
+    background: linear-gradient(45deg, #fcfcfc, #fff);
+}
+
+a {
+    color: #3C3C3C;
+    text-decoration: none !important;
+}
+#main-content a {
+    transition: .3s;
+}
+.yui-navset .yui-content {
+    background-color: #fff;
+}
+
+div#header {
+    width: 100%;
+    max-width: none;
+    background: url(https://i.imgur.com/uoYcVNI.png), linear-gradient(45deg, #383838 55%, #000);
+    background-size: 100px, 100%;
+    background-attachment: fixed;
+    background-position: center 8px, 0;
+    padding-bottom: 21;
+    height: 165px;
+    background-repeat: no-repeat;
+}
+
+#header:after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: -1px;
+    right: 0;
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0) 90%, #181818 100%);
+}
+
+#header h1 a span {
+    display: none;
+}
+
+#header h1 a:after {
+    content: '神異博覽會';
+    text-shadow: 1px 1px 3px #000;
+}
+
+#header h1 a {
+    padding: 120px 0 25px;
+    font-family: 'Major Mono Display', 'Noto Sans JP', monospace;
+    font-size: 180% !IMPORTANT;
+}
+
+#header h1 {
+    text-align: center;
+    z-index: 100;
+    margin: 0;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    font-size: 170% !Important;
+}
+
+div#header h2 {
+    margin: 0;
+    width: 100%;
+    text-align: center;
+    z-index: 100;
+    color: #fff;
+    font-family: 'Major Mono Display', 'Noto Sans JP', monospace;
+    text-shadow: 0px 0px 3px #000;
+    transform: translateY(143px);
+}
+
+#header h2 span {
+    display: none;
+}
+
+#header h2:after {
+    content: '始政四十週年';
+}
+
+div#search-top-box {
+    top: 18.5px;
+    width: 100%;
+    right: 70px
+}
+ 
+div#search-top-box form {
+    display: flex;
+    justify-content: flex-end
+}
+ 
+div#search-top-box form input[type="text"],
+div#search-top-box form input[type="text"]:hover {
+    background-color:  #5B5B5B !IMPORTANT;
+    display: inline-block;
+    height: 1.1rem;
+    width: 8rem;
+    transition: width .25s;
+    outline: none;
+    filter: brightness(120%);
+}
+ 
+_::-webkit-full-page-media,
+_:future,
+:root div#search-top-box form input[type="text"] {
+    font-size: 16px
+}
+ 
+div#search-top-box form input[type="text"]:not(:focus),
+div#search-top-box form input[type="text"]:not(:focus):not(:hover) {
+    background-color: var(--base-color);
+    color: transparent;
+    cursor: pointer;
+    display: inline-block;
+    width: 22px;
+    height: 22px;
+    box-sizing: border-box;
+    border-radius: 50px;
+    box-shadow: none;
+    background-position: center;
+    background-size: 55%;
+    background-repeat: no-repeat;
+    background-image: url("data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20512%20512%22%3E%3Cpath%20fill%3D%22%23ddd%22%20d%3D%22M505%20442.7L405.3%20343c-4.5-4.5-10.6-7-17-7H372c27.6-35.3%2044-79.7%2044-128C416%2093.1%20322.9%200%20208%200S0%2093.1%200%20208s93.1%20208%20208%20208c48.3%200%2092.7-16.4%20128-44v16.3c0%206.4%202.5%2012.5%207%2017l99.7%2099.7c9.4%209.4%2024.6%209.4%2033.9%200l28.3-28.3c9.4-9.4%209.4-24.6.1-34zM208%20336c-70.7%200-128-57.2-128-128%200-70.7%2057.2-128%20128-128%2070.7%200%20128%2057.2%20128%20128%200%2070.7-57.2%20128-128%20128z%22%2F%3E%3C%2Fsvg%3E");
+}
+ 
+div#search-top-box form input[type="submit"] {
+    display: none
+}
+ 
+#search-top-box-input {
+    border: solid 1px var(--background);
+    border-radius: 5px
+}
+
+
+#side-bar,
+#top-bar {
+    display: none;
+}
+
+div.page-rate-widget-box {
+    box-shadow: none !important;
+    border-bottom: 2px solid #292929;
+    border-radius: 0;
+}
+.creditRate .rateBox {
+    display: inline-flex;
+    border-bottom: 2px solid #292929;
+}
+.creditRate .rateBox div.page-rate-widget-box {
+    border-bottom: none !Important;
+}
+.page-rate-widget-box .rate-points {
+    background-color: transparent !important;
+    border: none;
+    border-radius: 0;
+    color: #292929;
+}
+
+.page-rate-widget-box .rateup,
+.page-rate-widget-box .ratedown {
+    background-color: transparent;
+        border: none;
+}
+
+.page-rate-widget-box .rateup a:hover,
+.page-rate-widget-box .ratedown a:hover {
+    background: transparent !important;
+    color: #29292942 !important
+}
+
+.page-rate-widget-box .cancel {
+    background-color: transparent;
+    border: none;
+    border-radius: 0;
+    color: #292929 !Important;
+}
+
+.page-rate-widget-box .cancel a:hover {
+    color: #29292942 !important;
+    background: transparent !important;
+}
+
+.modalbox .page-rate-widget-box {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%)
+}
+
+.rate-box-with-credit-button .creditButton {
+    background-color: transparent !important;
+    border: none !important;
+    border-radius: 0 !important;
+    box-shadow: none !Important;
+}
+
+a.fa.fa-info {
+    color: #292929 !important
+}
+
+a.fa.fa-info:hover {
+    color: #29292942 !important
+}
+
+.modalbox .modalbox-title {
+    background: rgba(1, 1, 1, 0.9) !important;
+    color: #fff !important;
+    border-radius: 0 !important;
+}
+
+.modalbox {
+    box-shadow: 0 2px 6px #ccc !important;
+    border-radius: 0 !Important;
+    background-color: rgba(365, 365, 365, 0.9) !important;
+}
+
+.rate-box-with-credit-button a {
+    text-decoration: none !important
+}
+
+.page-rate-widget-box .cancel a {
+    color: #292929 !important
+}
+
+.page-rate-widget-box .rateup a,
+.page-rate-widget-box .ratedown a {
+    color: #292929 !important
+}
+
+.modalbox {
+    box-shadow: 0 2px 6px #ccc !important;
+    border-radius: 0 !Important;
+    background-color: rgba(365, 365, 365, 0.9) !important;
+}
+
+#login-status {
+    top: 2px
+}
+ 
+#login-status {
+    display: flex;
+    flex-direction: column;
+    align-content: space-around;
+    font-size: 0
+}
+ 
+#login-status .printuser {
+    margin: 0;
+    background-color: none;
+    position: absolute;
+    top: 13px;
+    right: 0px;
+    width: 28px;
+    padding: 0;
+}
+ 
+#login-status .printuser img.small {
+    background: none !Important;
+    margin: 0;
+    width: 28px;
+    height: 28px;
+    padding: 0;
+    border-radius: 100px;
+    box-shadow: 0 0 3px #3f3f3f;
+}
+ 
+#login-status [id] {
+    font-size: .72rem
+}
+ 
+#login-status>a[href="javascript:;"] {
+    font-size: 0;
+    font-weight: bold;
+    margin: 0;
+    text-align: center;
+    text-decoration: none;
+    background: none;
+    width: 21.8px;
+    position: absolute;
+    top: 13px;
+    height: 21px;
+    right: 30px;
+    border: none;
+}
+ 
+#login-status>a[href="javascript:;"]:before {
+    display: inline-block;
+    font-family: FontAwesome;
+    font-size: 1.3rem;
+    margin: 4px 3px;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    transform: translate(0, 0);
+}
+ 
+#login-status #account-topbutton:before {
+    content: "\f013";
+    color: var(--base-color)
+}
+ 
+#login-status .login-status-sign-in {
+    right: 35px !Important;
+}
+ 
+#login-status .login-status-sign-in:before {
+    content: "\f13e";
+    color: var(--base-color)
+}
+ 
+#login-status .login-status-create-account {
+    right: 11px !Important;
+    margin: 0 0 .25rem;
+}
+ 
+div#login-status a.login-status-create-account {
+    right: 11px;
+}
+ 
+#login-status .login-status-create-account:before {
+    content: "\f067";
+    color: var(--base-color)
+}
+ 
+#login-status #my-account {
+    display: none
+}
+ 
+#login-status a strong {
+    position: absolute;
+    top: 0;
+    right: 2.25rem;
+    font-family: var(--bauhaus);
+    font-size: 1rem;
+    white-space: nowrap
+}
+ 
+#login-status #account-topbutton:not(:focus):not(:focus-within):not(:hover):not(:active)+#account-options {
+    display: none !important
+}
+ 
+#header #login-status #account-topbutton+#account-options:focus,
+#header #login-status #account-topbutton+#account-options:focus-within,
+#header #login-status #account-topbutton+#account-options:hover,
+#header #login-status #account-topbutton+#account-options:active {
+    display: block !important
+}
+
+#account-options ul {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around
+}
+ 
+#account-options ul>li {
+    flex-grow: 1;
+    text-align: center;
+    width: 40%
+}
+ 
+#account-options ul>li a {
+    transition: all .25s ease-in-out
+}
+ 
+#account-options ul>li a:hover {
+    background-color: var(--base-color);
+    color: var(--background);
+    text-decoration: none
+}
+ 
+#login-status ul a {
+    color: #000
+}
+
+.new-side {
+    position: fixed;
+    top: 0%;
+    left: 0%;
+    width: 266px;
+    box-sizing: border-box;
+    height: 100%;
+    min-height: 500px;
+    z-index: 20;
+    background: var(--base-color);
+    overflow-y: auto;
+    transition: 0.5s;
+    transform: translateX(-266px);
+}
+ 
+.new-side:target {
+    transform: translateX(0px);
+}
+ 
+.side-content {
+    text-align: center;
+    margin-top: 5em;
+}
+ 
+.side-content p {
+    margin: 0 !Important;
+}
+ 
+.side-content,
+.side-content a,
+.side-content span {
+    color: var(--background);
+    text-decoration: none !Important;
+    font-size: 14px;
+    font-weight: bold;
+    line-height: 30px;
+    overflow-x: hidden;
+}
+ 
+.open-side {
+    color: var(--background) !important;
+    display: block;
+    position: fixed;
+    top: 0%;
+    left: 0%;
+    font-size: 2.1em;
+    height: 61px;
+    width: 61px;
+    font-weight: bold;
+    background: var(--base-color) !Important;
+    z-index: 12;
+    text-align: center;
+}
+ 
+.open-side>* {
+    display: inline-block;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding-top: 2px;
+}
+ 
+.open-side>span>span {
+    font-size: 9px;
+    font-weight: normal;
+}
+ 
+#content-wrap {
+    position: relative;
+    margin: 4.8em auto 0;
+}
+ 
+.side-outside {
+    transition: 0.5s;
+    max-height: 30px;
+    overflow: hidden;
+}
+ 
+.side-outside:hover {
+    max-height: 100px;
+}
+ 
+.side-outside a,
+.side-outside span {
+    transition: .3s;
+}
+ 
+.side-outside:hover span {
+    color: rgba(255, 255, 255, .7) !Important;
+}
+ 
+.side-outside a:hover {
+    color: rgba(255, 255, 255, .7) !Important;
+}
+ 
+.side-content a {
+    transition: .3s !important;
+}
+ 
+.side-content a:hover {
+    color: rgba(255, 255, 255, .7) !Important;
+}
+ 
+.side-inside {
+    display: block;
+    padding: 4px 0;
+}
+ 
+.side-inside a {
+    transition: .3s;
+}
+ 
+.side-inside a:hover {
+    color: rgba(255, 255, 255, .7);
+}
+ 
+.new-side hr {
+    margin: 0.3em auto;
+    height: 0.5px;
+    width: 10px;
+    background-color: rgba(255, 255, 255, .3);
+}
+ 
+.new-side:target .side-content>.side-outside,
+.new-side:target .side-content>a,
+.new-side:target .side-content>p {
+    opacity: 0;
+    animation-name: two;
+    animation-duration: 2.5s;
+    animation-iteration-count: 1;
+    animation-fill-mode: both;
+    animation-delay: .2s;
+}
+ 
+@keyframes two {
+    0% {
+        opacity: 0;
+        transform: translateX(50px);
+    }
+    100% {
+        opacity: 1;
+        transform: translateX(0);
+    }
+}
+ 
+.new-side .close-side {
+    display: block;
+    position: absolute;
+    top: 10px;
+    right: 5px;
+    font-size: 2.5em;
+    text-decoration: none;
+    color: var(--background);
+}
+ 
+.new-side .close-side:after {
+    font-family: FontAwesome;
+    content: '\f00d';
+}
+ 
+.side-sites {
+    width: 70%;
+    display: flex;
+    height: 45px;
+    border-bottom: 0.5px solid rgba(255, 255, 255, .3);
+    border-top: 0.5px solid rgba(255, 255, 255, .3);
+    justify-content: space-around;
+    align-items: center;
+    margin: 5px auto 0 auto;
+    position: relative;
+}
+ 
+.side-sites a {
+    font-size: 90%;
+    transition: .3s;
+}
+ 
+.side-sites a:hover {
+    color: rgba(255, 255, 255, .7) !Important;
+}
+ 
+.side-sites * {
+    flex-basis: 100%;
+    flex-shrink: 1;
+    flex-grow: 1;
+}
+ 
+span.center-line {
+    display: inline-block;
+    font-size: 70%;
+    color: rgba(255, 255, 255, .3);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+ 
+.new-side::-webkit-scrollbar {
+    width: 5px;
+    height: 9px;
+    border: none;
+}
+ 
+.new-side::-webkit-scrollbar-thumb {
+    background: rgba(255, 255, 255, .6);
+}
+ 
+.new-side::-webkit-scrollbar-track {
+    background: none;
+}
+ 
+.side-links {
+    width: 70%;
+    margin: 0 auto;
+    display: flex;
+    height: 45px;
+    justify-content: space-around;
+    align-items: center;
+    position: relative;
+}
+ 
+.side-links a {
+    flex-basis: 100%;
+    flex-shrink: 1;
+    flex-grow: 1;
+    font-size: 110%;
+}
+ 
+.side-twitter:before {
+    content: '\f099';
+    font-family: FontAwesome;
+}
+ 
+.side-discord:before {
+    content: '\f0c0';
+    font-family: FontAwesome;
+    font-weight: normal;
+}
+ 
+.site-other:before {
+    content: '\f0c1';
+    font-family: FontAwesome;
+}
+ 
+a.side-credit {
+    display: inline-block;
+    font-size: 80% !important;
+}
+ 
+@media (max-height:515px) {
+    .side-content {
+        margin-top: 1em;
+    }
+}
+
+#page-title {
+    font-size: 235%;
+    color: var(--base-color);
+    border-bottom: none;
+    text-align: center;
+    margin: 0;
+    padding: 25px 0;
+    font-family: 'Major Mono Display', 'Noto Sans JP', monospace;
+    font-weight: 120;
+}
+ 
+.tab-container-wrap {
+    display: flex;
+    overflow-X: hidden;
+    width: 100%;
+}
+ 
+.tab-container {
+    flex: 1 1 100%;
+    display: flex;
+    flex-wrap: nowrap;
+    transition: 1.5s cubic-bezier(0.35, -0.18, 0.65, 1.21);
+}
+ 
+#u-tab-1:target~.tab-container-wrap .tab-container {
+    transform: translateX(-100%);
+}
+ 
+#u-tab-2:target~.tab-container-wrap .tab-container {
+    transform: translateX(-200%);
+}
+ 
+#u-tab-3:target~.tab-container-wrap .tab-container {
+    transform: translateX(-300%);
+}
+ 
+#u-tab-4:target~.tab-container-wrap .tab-container {
+    transform: translateX(-400%);
+}
+ 
+.tab-content {
+    width: 100%;
+    flex: 1 0 100%;
+    box-sizing: border-box;
+    padding: 0 3px;
+    /*mask-image: linear-gradient(0deg, purple, transparent 100%);*/
+}
+ 
+div[id^="u-tab"] {
+    position: fixed;
+    pointer-events: none;
+    color: transparent;
+    top: 0%;
+}
+ 
+.tab-buttons {
+    display: flex;
+    justify-content: center;
+}
+ 
+.tab-buttons a {
+    color: var(--base-color);
+    border-bottom: 1px solid var(--base-color);
+    display: inline-block;
+    height: 30px;
+    font-size: 13px;
+    line-height: 25px;
+    text-align: center;
+    margin: 0 8px;
+    padding: 0 12px;
+    text-decoration: none;
+    transition: .3s;
+    font-family: 'Roboto Mono', 'Noto Sans JP', monospace;
+}
+ 
+.tab-buttons a:first-of-type {
+    margin-left: 0;
+}
+ 
+.tab-buttons a:last-of-type {
+    margin-right: 0;
+}
+ 
+.tab-buttons a:hover {
+    color: #4F4F4F96;
+    border-color: #4F4F4F96;
+}
+ 
+#main-content {
+    margin: 0 3em 0 3em;
+    padding: 0.75em;
+}
+ 
+.op-buttons {
+    position: fixed;
+    right: 10px;
+    bottom: 10px;
+    display: flex;
+    flex-direction: column;
+    border-radius: 5px;
+    background: var(--base-color);
+    box-shadow: 0 0 3px var(--background);
+}
+ 
+.op-buttons br {
+    display: none;
+}
+ 
+.op-btn {
+    color: var(--background) !Important;
+    padding: 0.8em;
+    transition: .3s;
+    text-decoration: none !IMPORTANT;
+    text-align: center;
+    position: relative;
+}
+ 
+.op-btn:hover {
+    background: #7B7B7B !important;
+}
+ 
+.op-btn:after {
+    font-size: 1.9em;
+    font-family: FontAwesome;
+    font-weight: bold;
+}
+ 
+.op-btn:hover:before {
+     content: attr(data-title);
+     position: absolute;
+     top: 10%;
+     right: 110%;
+     background: rgb(92 92 92 / 80%) !IMPORTANT;
+     border: 1.5px solid #fff;
+     box-shadow: 0 0 3px #ccc;
+     display: inline-block;
+     padding: 3px;
+     opacity: 1;
+     min-width: 7em;
+}
+ 
+.view-source:hover:before {
+     content: 'view-source';
+}
+ 
+.view-history:hover:before {
+     content: 'view-history';
+}
+ 
+.to-top:after {
+    content: '\f106';
+}
+ 
+.to-bottom:after {
+    content: '\f107';
+}
+ 
+.view-source:after {
+    content: '\f15c';
+    font-weight: normal;
+}
+ 
+.view-history:after {
+    content: '\f1da';
+    font-weight: normal;
+}
+ 
+.op-btn:first-of-type {
+    border-radius: 5px 5px 0 0;
+}
+ 
+.op-btn:last-of-type {
+    border-radius: 0 0 5px 5px;
+}
+ 
+#main-content,
+#content-wrap {
+    position: static;
+}
+ 
+#u-top-link {
+    position: absolute;
+    font-size: 0%;
+    pointer-events: none;
+    top: -100px;
+    left: 0%;
+    right: 0%;
+}
+ 
+* {
+    -webkit-scroll-behavior: smooth;
+    scroll-behavior: smooth;
+}
+ 
+@media (max-width: 767px) and (min-width: 581px) {
+    div#main-content {
+        margin: 0 0.5em 0 0.5em !important;
+    }
+}
+ 
+@media (max-width: 479px) {
+    div#main-content {
+        margin: 0 !Important;
+    }
+}
+ 
+h1 {
+    color: var(--base-color);
+    font-family: 'Major Mono Display', 'Noto Sans JP', monospace;
+    font-weight: 100;
+}
+ 
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Roboto Mono', 'Noto Sans JP', monospace;
+}
+ 
+blockquote,
+div.blockquote {
+    padding: 10px 20px;
+    margin: 0 0 10px;
+    border: 1px solid hsl(0, 0%, 87%);
+    background: hsl(0, 0%, 100%);
+}
+ 
+div.content-body hr {
+    border: 0;
+    height: 0.5px;
+    background-image: -webkit-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0);
+    background-image: -moz-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0);
+    background-image: -ms-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0);
+    background-image: -o-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0);
+}
+ 
+table.wiki-content-table th {
+    background-color: #ADADAD;
+}
+ 
+#toc {
+    padding: 0.5em 0.5em;
+    border: none;
+    background-color: var(--base-color);
+    border-radius: 8px;
+    color: var(--background);
+    font-family: verdana, arial, helvetica, sans-serif;
+    font-size: 1em;
+}
+ 
+#toc a {
+    color: var(--background);
+    text-decoration: none;
+    transition: .3s;
+}
+ 
+#toc a:hover {
+    color: rgba(255, 255, 255, .7);
+}
+ 
+.code {
+    background: hsl(0, 0%, 100%);
+    border: 1px solid hsl(0, 0%, 87%);
+    color: var(--font-color);
+    font-family: 'Source Code Pro', monospace;
+}
+ 
+ul {
+    list-style-type: disc;
+}
+ 
+ol {
+    counter-reset: item;
+    list-style-type: none;
+    *list-style-type: decimal;
+}
+ 
+ol li {
+    border-radius: 4px;
+    line-height: 2;
+    margin-bottom: 10px;
+}
+ 
+ol li:before {
+    content: '' counter(item, decimal) '';
+    background: var(--base-color);
+    border-radius: 30px;
+    color: var(--background);
+    margin: 0 5px 0 8px;
+    padding: 2px 5px;
+    counter-increment: item;
+    font-size: 0.8em;
+}
+ 
+::selection {
+    background: var(--base-color);
+    color: var(--background);
+}
+ 
+::-moz-selection {
+    background: var(--base-color);
+    color: var(--background);
+}
+ 
+.scp-image-block .scp-image-caption {
+    background-color: var(--background);
+}
+ 
+::-webkit-scrollbar {
+    width: 7px;
+    height: 7px;
+    border: none;
+}
+ 
+::-webkit-scrollbar-thumb {
+    background: rgba(50, 50, 50, 0.25);
+}
+ 
+::-webkit-scrollbar-track {
+    background: rgba(0, 0, 0, 0.1);
+}
+ 
+.hovertip {
+    background: var(--base-color);
+    color: var(--background);
+    border: none !important;
+    border-radius: 6px;
+    padding: 1em;
+    box-shadow: 0 0 3px var(--background);
+}
+ 
+div.page-options-bottom {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin: 0;
+}
+ 
+a.btn-default {
+    flex-grow: 1;
+    text-align: center;
+    margin: 0 2px !Important;
+    margin-bottom: 4px !Important;
+    color: var(--background);
+    padding: 4px 10px;
+    background: var(--base-color);
+    border: 2px solid #ccc;
+    border-radius: 3px;
+    transition: 0.5s;
+}
+ 
+div#page-options-bottom {
+    margin-top: 3px;
+}
+ 
+a.btn-default:hover {
+    text-decoration: none;
+    background: #4F4F4F;
+}
+ 
+#footer {
+    font-size: 85%;
+    background: var(--base-color);
+    color: var(--background);
+    padding: 7px 10px;
+}
+ 
+#main-content .page-tags span {
+    max-width: 100%;
+    font-family: Segoe UI4;
+    border: none !important
+}
+ 
+#main-content .page-tags a {
+    font-size: 13px;
+    padding: 5px;
+    border: 1px solid #ccc;
+    height: 20px;
+    display: inline-flex;
+    align-items: center;
+    border-radius: 5px
+}
+ 
+#main-content .page-tags a:before {
+    content: '#'
+}
+.page-rate-widget-box .rate-points {
+    color: #292929 !Important;
+}
+[[/module]]

@@ -1,0 +1,63 @@
+[[include component:scp-meta-title-hiding]]
+[[include :scp-wiki:theme:bedrock]]
+[[include :scp-wiki:theme:lumina]]
+[[module css]]
+:root {
+    --header-logo: url(https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Moon_farside_LRO_5000.jpg/600px-Moon_farside_LRO_5000.jpg);
+    --lumina-footer-image: url(https://moon.nasa.gov/rails/active_storage/disk/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9JYTJWNVNTSXBaVGd3TjJSbFpqa3ROR0l4TnkwME1EZzVMV0ZsTVRBdFl6TmhOMkkyWldJeU9EUXlCam9HUlZRNkVHUnBjM0J2YzJsMGFXOXVTU0pCYVc1c2FXNWxPeUJtYVd4bGJtRnRaVDBpY3pJdE1USTRNQzVxY0djaU95Qm1hV3hsYm1GdFpTbzlWVlJHTFRnbkozTXlMVEV5T0RBdWFuQm5CanNHVkRvUlkyOXVkR1Z1ZEY5MGVYQmxTU0lQYVcxaFoyVXZhbkJsWndZN0JsUTZFWE5sY25acFkyVmZibUZ0WlRvS2JHOWpZV3c9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2tleSJ9fQ==--e51e51e1b690265b9363eb37511e63cd650d1e54/s2-1280.jpg);
+    --moon-mask: linear-gradient(45deg, transparent 10%, white 70%);
+}
+#header h1 a::before {
+    clip-path: circle(calc(var(--base-header-height) *.375));
+    -webkit-mask-image: var(--moon-mask);
+    mask-image: var(--moon-mask);
+}
+[[/module]]
+[[include info:start]]
+作者：[[user Mang Gwan]]
+篇名：
+
+
+https://commons.wikimedia.org/wiki/File:Moon_farside_LRO_5000.jpg
+
+https://moon.nasa.gov/resources/48/the-moons-surface/
+[[include info:end]]
+
+**項目編號：**SCP-ZH-716
+
+**項目等級：**Safe
+
+**特殊收容措施：**由於 SCP-ZH-716 本身位置難以到達且不易暴露，只需一個能反射偽裝電波的遮蔽罩安裝在項目上方來防止其被發現。對項目的研究和收容由 [[[secure-facility-dossier-lunar-area-32|Area-32]]] 負責。其他月球背面的常態天文科研會以空間不足為由在安排在距離項目 70 公里外的利普斯基環形山進行。
+
+**描述：**SCP-ZH-716 是一座 5×2×1 米大小的鈹青銅方碑，位於月球緯度 0° 經度 180°（月表離地球最遠處）。方碑上表面平滑，朝向月球正南的一個最大面在約一半高處以古閃語刻有一段銘文（詳見附錄）。基於月球上的資源有限及週遭環境，推測方碑擁有無法破壞以及無法移動的性質，且一直會保持直立。而通過對週遭環境的放射性定年法以及微隕石坑推斷 SCP-ZH-716 大約立於公元前十八至十五萬年。
+
+當有人員在五米以內的距離直視方碑時，會出現 SCP-ZH-716-A 幻覺。SCP-ZH-716-A 的內容為碑旁站的一個約 2.5 米高有着中亞臉容的人型，身穿紫色袍銅色甲冑。除雙手皆有六隻手指及異常的身高外，其外觀和現代人並沒有重大分別。人型面向前方左手舉起，其第二及三隻手指指向身前 10° 內的方向，而在不同的時間人型會站方碑不同方位。
+
+SCP-ZH-716-B 是指在方碑旁周遭非自然形成的痕跡，包括一堆十分模糊的腳印，腳印一直延伸到 500 米外消失，該處附近四個二米深的一米方形直坑。而直坑附近的一層已衰變的放射性落下灰，推斷是在七萬年前留下。另外，方碑附近一公里內有五組類似的但大小數量不一的直坑，分別推測在十萬至七萬五千年前留下且沒有類似的放射性物質。
+
+**附錄：**方碑上的銘文內容，由古語言學部翻譯
+
+[[div class="blockquote" style="text-align: center;"]]
+踐行艱苦探行之路
+
+跟隨無畏的先鋒的人們啊
+
+此處乃七海征服者 
+
+踏遍諸陸的偉大長老
+
+立下的第六個路標
+
+群星中的第一個
+
+如要繼續追隨光輝者的探索之路
+
+便朝無懼的破暗者所指
+
+始星旅
+
+[[/div]]
+
+目前正在對銘文中提到的「無懼的破暗者」的存在對進行文獻查證，但鑒於更新世後期發生的大型文化破壞估計找到有關文獻的機會渺茫，而對其他「路標」的搜索因線索過小而停止。
+
+**追加：**經確認後 SCP-ZH-716-A 指向的目標為火星奧林帕斯山山頂，對有關地區的探索為基金會火星探測任務的第一類優先項目。

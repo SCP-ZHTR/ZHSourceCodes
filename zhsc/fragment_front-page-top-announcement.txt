@@ -1,0 +1,29 @@
+[[div class="content-panel centered standalone"]]
+[[include :scp-zh-tr:component:carousel
+|images=https://i.imgur.com/H0edm0R.png,https://i.imgur.com/YTJBdtD.png,https://i.imgur.com/qShXXha.png,http://scp-zh-tr.wikidot.com/local--files/fragment:front-page-top-announcement/%E5%A4%8F%E7%AB%B6%E8%B3%BD.webp,https://i.imgur.com/3wAleW6.png,http://scp-zh-tr.wikidot.com/local--files/fragment:front-page-top-announcement/%E8%81%B7%E4%BD%8D.webp,http://scp-zh-tr.wikidot.com/local--files/fragment:front-page-top-announcement/%E5%91%A8%E5%88%8A%E4%B8%AD%E5%BF%83.webp
+| links =http://scp-zh-tr.wikidot.com/wishing-to-do-well,http://scp-zh-tr.wikidot.com/christmas-event5,http://scp-zh-tr.wikidot.com/honglam-battle-2-0,http://scp-zh-tr.wikidot.com/summer-contest-2023,http://scp-zh-tr.wikidot.com/summer-clear-sky-contest,http://scp-zh-tr.wikidot.com/transfer-challenge-zh,http://scp-zh-tr.wikidot.com/magazine-week-0
+| caption=近期活動一覽。
+| interval=5
+| wiki=scp-zh-tr
+| page=main
+| width=100%
+| height=100px
+| position=center
+| options=yes
+]]
+[[/div]]
+
+
+[[module css]]
+@media (min-width: 981px) {
+  .carousel-container iframe {
+    height: 175px !important;
+  }
+}
+[[/module]]
+
+[[include custom:start]]
+.carousel-container .carousel-caption{
+background-color:#333;
+}
+[[include custom:end]]

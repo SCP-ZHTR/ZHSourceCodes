@@ -1,0 +1,177 @@
+[[div id="featured"]]
+[[tabview]]
+[[tab 4月作品展出]]
+
+[!-- Left block --]
+[[div class="feature-block"]]
+[[div class="content-panel left-column"]]
+[[div class="panel-heading"]]
+SCP作品展出
+[[/div]]
+[[div class="panel-body"]]
+[[div class="feature-title"]]
+[[[*SCP-ZH-022|]]]
+[[/div]]
+[[div class="feature-subtitle"]]
+作者：[[user  Nihilmace]]
+[[/div]]
+CP-ZH-022-2為一群尋常情況下人類無法認知的蠕蟲狀敵意實體，現存的任何非異常攝影技術都無法記錄項目的身影，該類實體除了會週期性的捕食人類外，更會積極地殺害所有認知到實體存在的人員，其目的目前無法得知。
+[[/div]]
+[[div class="panel-footer"]]
+[[[*featured-scp-archive|查看以往展出的SCP作品]]]
+[[/div]]
+[[/div]]
+
+[!-- Right block --]
+[[div class="content-panel right-column"]]
+[[div class="panel-heading"]]
+故事展出
+[[/div]]
+[[div class="panel-body"]]
+[[div class="feature-title"]]
+[[[for-the-curse-of-us|少年L的希死念慮]]]
+[[/div]]
+[[div class="feature-subtitle"]]
+作者：[[user Lostwhat]]
+[[/div]]
+拎起行李，他沒有離開的理由，但也沒有找到停留的理由。隨機的二擇一，僅此而已。
+
+但他總覺得對不起這個夏天。
+[[/div]]
+[[div class="panel-footer"]]
+[[[*featured-tale-archive|查看以往展出之故事]]]
+[[/div]]
+[[/div]]
+[[/div]]
+
+[!-- Left block --]
+[[div class="feature-block"]]
+[[div class="content-panel left-column"]]
+[[div class="panel-heading"]]
+翻譯展出
+[[/div]]
+[[div class="panel-body"]]
+[[div class="feature-title"]]
+[[[*scp-8001|]]]
+[[/div]]
+[[div class="feature-subtitle"]]
+作者：[[user djkaktus]]
+譯者：[[user Frederica Bernkastel]]
+[[/div]]
+我在黎明時分清醒，發現他已經走了，只在古老的紅木下留下涼鞋與摺好的長袍。他就這麼從此人間蒸發，無聲地證明了存在的短暫，我再也沒有見過他的面容。
+
+[[/div]]
+[[div class="panel-footer"]]
+[[[*featured-translation|查看以往展出的翻譯作品]]]
+[[/div]]
+[[/div]]
+
+[!-- Right block --]
+[[div class="content-panel right-column"]]
+[[div class="panel-heading"]]
+綜合展出
+[[/div]]
+[[div class="panel-body"]]
+[[div class="feature-title"]]
+[[[*so-mk-went-to-a-island|所以M.K.來到了一個無人島上]]]
+[[/div]]
+[[div class="feature-subtitle"]]
+作者：[[user Adev Drafaski]]
+[[/div]]
+Wagner笑了一下，他的心中卻毫無波瀾。M.K.是誰？自己究竟是不是他的傳人？這些問題已經消失在徐徐的海風中。唯一有的只有現在，這個時刻，他在日出的光輝中找到了一個寫著字的石板。
+[[/div]]
+[[div class="panel-footer"]]
+[[[*featured-Comprehensive-exhibition|查看以往的綜合展出]]]
+[[/div]]
+[[/div]]
+[[/div]]
+~~~~
+[[/tab]]
+[[tab 近期更新]]
+[[div class="feature-block"]]
+[[div class="content-panel left-column"]]
+[[div class="panel-heading"]]
+最近新增的翻譯詞條
+[[/div]]
+[[div class="panel-body"]]
+[[module ListPages category="-fragment" order="created_at desc" limit="8" separate="no" tags="翻譯 " ]]
+%%linked_title%%
+[[/module]]
+[[/div]]
+[[div class="panel-footer"]]
+[[[new-translation|最新翻譯詞條一覽]]]
+[[/div]]
+[[/div]]
+
+[[div class="content-panel right-column"]]
+[[div class="panel-heading"]]
+最近新增的原創詞條
+[[/div]]
+[[div class="panel-body"]]
+[[module ListPages category="-fragment" order="created_at desc" rating="> -4" limit="8" separate="no" tags="原創  -段落 -藝術作品 -wanderers " ]]
+%%linked_title%%
+[[/module]]
+[[/div]]
+[[div class="panel-footer"]]
+[[[new-works|最新原創詞條一覽]]]
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[div class="feature-block"]]
+[[div class="content-panel left-column"]]
+[[div class="panel-heading"]]
+最近新增的藝術創作
+[[/div]]
+[[div class="panel-body"]]
+[[module ListPages category="-fragment" order="created_at desc" rating="> -4" limit="8" separate="no" tags="藝術作品 " ]]
+%%linked_title%%
+[[/module]]
+[[/div]]
+[[div class="panel-footer"]]
+[[[scp-artwork-hub|最新藝術創作一覽]]]
+[[/div]]
+[[/div]]
+
+[[div class="content-panel right-column"]]
+[[div class="panel-heading"]]
+最近新增的圖書館頁
+[[/div]]
+[[div class="panel-body"]]
+[[module ListPages category="-fragment" order="created_at desc" rating="> -4" limit="8" separate="no" tags="wanderers " ]]
+%%linked_title%%
+[[/module]]
+[[/div]]
+[[div class="panel-footer"]]
+[[[new-wanderers|最新書目一覽]]]
+[[/div]]
+[[/div]]
+[[/div]]
+~~~~
+[[/tab]]
+
+[[/tabview]]
+[[/div]]
+
+
+[[module css]]
+.feature-block {
+height: 230px;
+}
+.feature-block .panel-body {
+height: 13em;
+overflow-y: hidden;
+}
+.feature-block .feature-title {
+font-size: 120%;
+font-weight: bold;
+}
+.feature-block .feature-subtitle {
+font-size: 90%;
+}
+
+.feature-block .feature-title > p,
+.feature-block .feature-subtitle > p {
+margin: 0;
+}
+[[/module]]

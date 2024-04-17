@@ -1,0 +1,1033 @@
+[[module CSS]]
+.siteIcon {
+  display: inline-block;
+  position: relative;
+  top: 1px;
+  width: 30px;
+  height: 17px;
+  vertical-align: bottom;
+  background-color: #999;
+  border: solid 2px #000;
+  border-radius: 0 6px 0 6px;
+  color: #fff;
+}
+.siteIcon img {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border: 0;
+}
+.siteIcon .number {
+  position: absolute;
+  bottom: 2px;
+  right: 2px;
+  line-height: 100%;
+  font-size: 60%;
+  font-weight: bold;
+  text-shadow: #333 1px 1px;
+}
+
+.areaIcon {
+  display: inline-block;
+  position: relative;
+  top: 1px;
+  width: 30px;
+  height: 17px;
+  vertical-align: bottom;
+  background-color: #333;
+  border: solid 2px #000;
+  border-radius: 0 6px 0 6px;
+  color: #fe3;
+}
+.areaIcon img {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border: 0;
+}
+.areaIcon .number {
+  position: absolute;
+  bottom: 2px;
+  right: 2px;
+  line-height: 100%;
+  font-size: 60%;
+  font-weight: bold;
+  text-shadow: #333 1px 1px;
+}
+[[/module]]
+
+[[div class="content-panel centered standalone"]]
+++ [[[http://scp-zh-tr.wikidot.com/secure-facilities-locations|EN設施一覽]]]|繁中設施一覽
+[[/div]]
+[[f>toc]]
+
++ 維安設施代稱
+
+基金會在全世界維護和運營著大量設施，從只有少數員工的小型哨站到擁有數千名人員的主要站點皆有。
+
+++ Site
+
+Site是隱蔽設施，這意味著雖然公眾知道該設施的存在，但這些設施經常在政府或公司等形象偽裝下經營。場地通常建在相對靠近平民的地方，而那裡的設施需要這樣的掩護。
+
+++ Area
+
+被指定為Area的設施是機密設施，這意味著平民根本不知道它的存在。這些設施通常建在遠離平民的地方，通常收容著非常危險的異常項目; 絕大多數Area都有最高等級的自動化防收容失效的措施，像是核彈頭等等。
+ 
++ 設施單元
+
+++ Sector
+
+Sector是Site或Area的一部分，是為了特定目的而修建的，像是收容，研究及儲存。各個設施內含的Sector實際用途互不相同，視收容物和所在設施的規模而定。
+
+++ Unit
+Unit是Site或Area内的獨立區塊，例如收容生物或維度異常的部分並且設計為在發生破壞或其他災難性事件時自我封鎖，並執行全套淨化程序。
+
++ 前置標籤
+
+這些前置標籤通常用於表示設施或設施部分的專業化代稱，僅用於內部通訊時使用。
+
+++ 武裝/Armed
+
+武裝代表一個設施或設施區域擁有反常的高度物理保安水平，通常是因為收容有暴力敵對個體或受到外部攻擊威脅此類設施通常長期配備大量軍用武器和車輛以及大量安全人員;若是整個設施的情況，通常需要一個連級或團級規模的安全分隊。
+
+++ 生化/Biological (Bio)
+
+生化收容設施或設施區域收容感染或其他生化異常並同時地處偏遠且擁有自密閉機制以防止此類異常逃跑。
+
+++ 收容/Containment
+
+收容設施或設施區域主要配備和用來收容異常項目，個體或現象。
+
+++ 維度/Dimensional (Dim)
+
+維度收容設施或設施區域收容超維度開口或表現出矛盾或扭曲時空的異常。
+
+++ 人形/Humanoid
+
+人形收容設施或設施區域主要收容有感知，智能的人類或有能力理解和遵守指示的類人形個體。這本質上來說類似於異常個體的監獄。
+
+++ 受保護/Protected
+
+受保護設施和設施區域是“安全區”，遠離異常影響。任何時候此類設施都不得存放異常。
+
+++ 臨時性/Provisional
+
+臨時設施是那些圍著一個無法移動的異常建造或建立的設施。臨時設施通常只收容一個異常。
+
+++ 神聖/Reliquary
+
+聖物設施或設施區域被設計用來處理有宗教或歷史意義的製品和項目。
+
+++ 研究/Research
+
+研究設施或設施區域被設計不但用來操作和研究異常或異常材料，還研發新的收容計劃和方法。
+
+++ 存放/Storage
+
+儲存設施或設施區域被用來長期儲存非異常或沒有自主交互風險的惰性異常項目。
+
++ 其他
+
+以下記錄為跟一般基金會基礎組織結構相異的設施或者地點。
+
+++ 觀測站
+
+觀測站是一種小型基金會設施，並且在世界各個角落都有設立。一般而言，觀測站會出現在一群大型建築群裡，並作為一個單棟建築夾雜其中，它的主要用途包括監控周邊地區的通訊活動以便對關鍵訊息進行標記並通報，同時也負責監控其他附近的基金會設施。除此以外，有很多觀測站能被用於保護外地執勤特工以及讓他們安全地進行通訊活動的地方。
+
++ 設施列表
+
+以下列表將列出部分值得記住的基金會設施。請注意只是「部分」；基於基金會的運作安全考量，很多設施並沒有出現在以下列表中，也有一部分原因是因為該設施的用途和地點是保密的。同時，也有很多設施因為其隸屬的主要設施已被廢棄（或因某些原因不再被使用）而被基金會回收。
+@@ @@
+@@ @@
+++* [[span class="ruby"]]站點[[span class="rt"]]Sites[[/span]][[/span]]
+@@ @@
+
+[[div class="content-panel standalone series" style="background-color: #FFFFFF;"]]
+@@@@
+[[=]]
+
++ Site-ZH-01
+[[include custom:img img0=https://i.imgur.com/GVjIlgg.png | img1=https://i.imgur.com/7kSx9Y7.png | width=140px]]
+[[/=]]
+
+[[div style="float:left; width: 45%; padding: 0 2%"]]
+[[module CountPages tags="+scp +原創 +site-zh-01"]]
+收容項目數：**%%total%%**
+[[/module]]
+負責領域:「三垣」的辦公與指揮設施
+[[/div]]
+[[div style="float:left; width: 45%; padding: 0 2%"]]
+駐站機動部隊數：**0**
+[[module CountPages tags="-scp +原創 +site-zh-01"]]
+相關檔案數：**%%total%%**
+[[/module]]
+[[/div]]
+@@@@
+----
++++* @@  @@管理人員:
+----
+~~~~
+**簡介：**Site-ZH-01據說為繁中分部領導層級「三垣」的辦公與指揮設施，配備有三垣司令部所需的各式行政與維安資源。Site-ZH-01的真實地點僅限5級權限員工與具備行政須知條件的4級權限員工知悉。
+
+[[collapsible show="收容/相關項目:" hide="收容/相關項目:"]]
+[[module ListPages order="name" tags=" +Site-zh-01 +scp " separate="no" perPage="100"]]
+* %%title_linked%%
+[[/module]]
+[[/collapsible]]
+@@@@
+[[collapsible show="相關故事:" hide="相關故事:"]]
+[[module ListPages order="name" tags=" +Site-zh-01 +故事 " separate="no" perPage="100"]]
+* %%title_linked%%
+[[/module]]
+[[/collapsible]]
+@@@@
+[[/div]]
+
+[[div class="content-panel standalone series" style="background-color: #FFFFFF;"]]
+@@@@
+[[=]]
+
++ [[[site-zh-02-front|Site-ZH-02]]]
+++* **(Containment principal 02H)**
+[[include custom:img img0=https://i.imgur.com/KzCVVx5.png | img1=https://i.imgur.com/ss9FZL5.png | width=140px]]
+
+[[/=]]
+
+[[div style="float:left; width: 45%; padding: 0 2%"]]
+[[module CountPages tags="+scp +原創 +site-zh-02"]]
+收容項目數：**%%total%%**
+[[/module]]
+負責領域：**Safe, Euclid**
+[[/div]]
+[[div style="float:left; width: 45%; padding: 0 2%"]]
+駐站機動部隊數：**3**
+[[module CountPages tags="-scp +原創 +site-zh-02"]]
+相關檔案數：**%%total%%**
+[[/module]]
+[[/div]]
+@@@@
+----
++++* @@  @@管理人員:[[*user Dr V Valentine ]]
+----
+
+~~~~
+
+**簡介：** Site-ZH-02目前為ZH分部最主要的人力派發及訓練中心，也負責ZH的數據統整以及交換等功能。
+
+[[collapsible show="收容/相關項目:" hide="收容/相關項目:"]]
+[[module ListPages order="name" tags=" +Site-zh-02 +scp " separate="no" perPage="100"]]
+* %%title_linked%%
+[[/module]]
+[[/collapsible]]
+@@@@
+[[collapsible show="相關故事:" hide="相關故事:"]]
+[[module ListPages order="name" tags=" +Site-zh-02 +故事 " separate="no" perPage="100"]]
+* %%title_linked%%
+[[/module]]
+[[/collapsible]]
+@@@@
+[[/div]]
+
+[[div class="content-panel standalone series" style="background-color: #FFFFFF;"]]
+@@@@
+[[=]]
+
++ [[[Site-ZH-11]]]
+++* **(Archival Research 11S)**
+[[include custom:img img0=https://i.imgur.com/RIVHHKf.png | img1=https://i.imgur.com/AIrdAmr.png | width=140px]]
+[[/=]]
+
+[[div style="float:left; width: 45%; padding: 0 2%"]]
+[[module CountPages tags="+scp +原創 +site-zh-11"]]
+收容項目數：**%%total%%**
+[[/module]]
+負責領域：RAISA-ZH指揮設施、文書儲存及處理
+[[/div]]
+[[div style="float:left; width: 45%; padding: 0 2%"]]
+駐站機動部隊數：**1**
+[[module CountPages tags="-scp +原創 +site-zh-11"]]
+相關檔案數：**%%total%%**
+[[/module]]
+[[/div]]
+@@@@
+----
++++* @@  @@管理人員:[[*user Frederica Bernkastel]]
+----
+
+~~~~
+
+**簡介：** Site-ZH-11建立於成功大學圖書館的館舍之下，在繁中分部肩負的主要職責包括各式文書儲存、處理及翻譯，以及近日試行的「學科泛戰術化」計劃的擬定，當中尤以對翻譯加以器重為其特色。雖然人工智慧翻譯已經包辦書信往來等行政所需的翻譯工作，人手翻譯經過三垣議會對異常威脅的觀察確認仍有存在必要，以維持繁中分部存續，而無法以人工智慧翻譯全面代替，Site-ZH-11仍以其所珍而重之的人手翻譯陣容，以及其身為RAISA在繁中分部管轄範圍的總部之特性而獨步於繁中分部眾站點之中。
+
+[[collapsible show="收容/相關項目:" hide="收容/相關項目:"]]
+[[module ListPages order="name" tags=" +Site-zh-11 +scp " separate="no" perPage="100"]]
+* %%title_linked%%
+[[/module]]
+[[/collapsible]]
+@@@@
+[[collapsible show="相關故事:" hide="相關故事:"]]
+[[module ListPages order="name" tags=" +Site-zh-11 +故事 " separate="no" perPage="100"]]
+* %%title_linked%%
+[[/module]]
+[[/collapsible]]
+@@@@
+[[/div]]
+
+
+[[div class="content-panel standalone series" style="background-color: #FFFFFF;"]]
+@@@@
+[[=]]
+
++ [[[site-zh-12|Site-ZH-12]]]
+++* **(Memetics Research 12S)**
+[[include custom:img img0=https://i.imgur.com/WFVLV5b.png | img1=https://i.imgur.com/4HioKOp.png | width=140px]]
+
+[[/=]]
+
+[[div style="float:left; width: 45%; padding: 0 2%"]]
+[[module CountPages tags="+scp +原創 +site-zh-12"]]
+收容項目數：**%%total%%**
+[[/module]]
+負責領域：**Safe, Euclid, Keter**
+[[/div]]
+[[div style="float:left; width: 45%; padding: 0 2%"]]
+駐站機動部隊數：**2**
+[[module CountPages tags="-scp +原創 +site-zh-12"]]
+相關檔案數：**%%total%%**
+[[/module]]
+[[/div]]
+@@@@
+----
++++* @@  @@管理人員:[[*user AbyssDream]]
+----
+
+~~~~
+
+**簡介：**Site-ZH-12，一個以模因與逆模因研究為主的站點。你無法定位他建於何處的地底，只能透過接駁車到達。
+此設施以異常物品收容及研究為主，並致力於研發更有效、副作用更少的藥物，以應對各式會對思想、記憶等造成影響的異常。
+
+[[collapsible show="收容/相關項目:" hide="收容/相關項目:"]]
+[[module ListPages order="name" tags=" +Site-zh-12 +scp " separate="no" perPage="100"]]
+* %%title_linked%%
+[[/module]]
+[[/collapsible]]
+@@@@
+[[collapsible show="相關故事:" hide="相關故事:"]]
+[[module ListPages order="name" tags=" +Site-zh-12 +故事 " separate="no" perPage="100"]]
+* %%title_linked%%
+[[/module]]
+[[/collapsible]]
+@@@@
+[[/div]]
+
+[[div class="content-panel standalone series" style="background-color: #FFFFFF;"]]
+@@@@
+[[=]]
++ [[[site-zh-13|Site-ZH-13]]]
+++* **(Containment principal 13H)**
+[[include custom:img img0=https://i.imgur.com/azuyYda.png | img1=https://i.imgur.com/VbNPpLp.png | width=140px]]
+[[/=]]
+
+[[div style="float:left; width: 45%; padding: 0 2%"]]
+[[module CountPages tags="+scp +原創 +site-zh-13"]]
+收容項目數：**%%total%%**
+[[/module]]
+負責領域：**Safe, Euclid, Keter**
+[[/div]]
+[[div style="float:left; width: 45%; padding: 0 2%"]]
+駐站機動部隊數：**0**
+[[module CountPages tags="-scp +原創 +site-zh-13"]]
+相關檔案數：**%%total%%**
+[[/module]]
+[[/div]]
+@@@@
+----
++++* @@  @@管理人員:[[*user Sugoi97169]]
+----
+
+~~~~
+
+**簡介：**位於南高雄的山區的站點，主要功能為研究異常作物、生產特殊材料以及研究將植物利用於機械系統的可能性，除此之外也有農業、研發、廢除等等數個特殊部門坐落於此。
+
+[[collapsible show="收容/相關項目:" hide="收容/相關項目:"]]
+[[module ListPages order="name" tags=" +Site-zh-13 +scp " separate="no" perPage="100"]]
+* %%title_linked%%
+[[/module]]
+[[/collapsible]]
+@@@@
+[[collapsible show="相關故事:" hide="相關故事:"]]
+[[module ListPages order="name" tags=" +Site-zh-13 +故事 " separate="no" perPage="100"]]
+* %%title_linked%%
+[[/module]]
+[[/collapsible]]
+@@@@
+[[/div]]
+
+
+[[div class="content-panel standalone series" style="background-color: #FFFFFF;"]]
+@@@@
+[[=]]
+
++ [[[Site-ZH-16]]]
+++* **(Containment Research 16S)**
+[[include custom:img img0=https://i.imgur.com/l2KI4fY.png | img1=https://i.imgur.com/WZ5aVTQ.png | width=140px]]
+[[/=]]
+
+[[div style="float:left; width: 45%; padding: 0 2%"]]
+[[module CountPages tags="+scp +原創 +site-zh-16"]]
+收容項目數：**%%total%%**
+[[/module]]
+負責領域：**Safe, Euclid, Keter**
+[[/div]]
+[[div style="float:left; width: 45%; padding: 0 2%"]]
+駐站機動部隊數：**?**
+[[module CountPages tags="-scp +原創 +site-zh-16"]]
+相關檔案數：**%%total%%**
+[[/module]]
+[[/div]]
+@@@@
+----
++++* @@  @@管理人員:[[*user Balesbomb]]
+----
+
+~~~~
+
+**簡介：**Site-ZH-16位於新北市██區，鄰近國際港及國際機場，地面分有行政大樓、員工宿舍、物流中心等建築，並有私設貨運碼頭及直昇機起降場和隱藏於地下之潛水艇碼頭。地表至地下設施之間有抗核爆防護層，地下設施最深達9層並分列中央區、收容區、實驗區。此站點對外偽裝為物流集貨廠區，亦作為外圍收入來源。
+此站點主要用途為收容各級SCP及移交中轉站、特遣隊裝備倉儲等，亦協助外勤潛伏特工之郵件收送、並管轄新北市、台北市各地設置之特工宿舍、安全屋和物資調配。
+
+[[collapsible show="收容/相關項目:" hide="收容/相關項目:"]]
+[[module ListPages order="name" tags=" +Site-zh-16 +scp " separate="no" perPage="100"]]
+* %%title_linked%%
+[[/module]]
+[[/collapsible]]
+@@@@
+[[collapsible show="相關故事:" hide="相關故事:"]]
+[[module ListPages order="name" tags=" +Site-zh-16 +故事 " separate="no" perPage="100"]]
+* %%title_linked%%
+[[/module]]
+[[/collapsible]]
+@@@@
+[[/div]]
+
+
+[[div class="content-panel standalone series" style="background-color: #FFFFFF;"]]
+@@@@
+[[=]]
+
++ Site-ZH-22
+[[include custom:img img0=https://i.imgur.com/GVjIlgg.png | img1=https://i.imgur.com/7kSx9Y7.png | width=140px]]
+[[/=]]
+
+[[div style="float:left; width: 45%; padding: 0 2%"]]
+[[module CountPages tags="+scp +原創 +site-zh-22"]]
+收容項目數：**%%total%%**
+[[/module]]
+負責領域：**醫療相關**
+[[/div]]
+[[div style="float:left; width: 45%; padding: 0 2%"]]
+駐站機動部隊數：**0**
+[[module CountPages tags="-scp +原創 +site-zh-22"]]
+相關檔案數：**%%total%%**
+[[/module]]
+[[/div]]
+@@@@
+----
++++* @@  @@管理人員:
+----
+
+~~~~
+
+**簡介：**Site-ZH-22之前台設施為一台灣公立地區性醫院，專職異常患者的照護，並且配備有可能會需要的傳染抑制設備和人力，同時也經營實質常態醫療業務。
+
+[[collapsible show="收容/相關項目:" hide="收容/相關項目:"]]
+[[module ListPages order="name" tags=" +Site-zh-22 +scp " separate="no" perPage="100"]]
+* %%title_linked%%
+[[/module]]
+[[/collapsible]]
+@@@@
+[[collapsible show="相關故事:" hide="相關故事:"]]
+[[module ListPages order="name" tags=" +Site-zh-22 +故事 " separate="no" perPage="100"]]
+* %%title_linked%%
+[[/module]]
+[[/collapsible]]
+@@@@
+[[/div]]
+
+
+[[div class="content-panel standalone series" style="background-color: #FFFFFF;"]]
+@@@@
+[[=]]
+
++ [[[Site-ZH-25]]]
+++* **(Containment Organization 25R)**
+[[include custom:img img0=https://i.imgur.com/gRr3r3h.png | img1=https://i.imgur.com/uSnu3wC.png | width=140px]]
+[[/=]]
+
+[[div style="float:left; width: 45%; padding: 0 2%"]]
+[[module CountPages tags="+scp +原創 +site-zh-25"]]
+收容項目數：**%%total%%**
+[[/module]]
+負責領域：**Safe, Euclid**
+[[/div]]
+[[div style="float:left; width: 45%; padding: 0 2%"]]
+駐站機動部隊數：**1**
+[[module CountPages tags="-scp +原創 +site-zh-25"]]
+相關檔案數：**%%total%%**
+[[/module]]
+[[/div]]
+@@@@
+----
++++* @@  @@管理人員:
+----
+
+~~~~
+
+**簡介：** Site-ZH-25為ZH分部位於香港的站點，同時負責對木易小館的監督工作。
+
+[[collapsible show="收容/相關項目:" hide="收容/相關項目:"]]
+[[module ListPages order="name" tags=" +Site-zh-25 +scp " separate="no" perPage="100"]]
+* %%title_linked%%
+[[/module]]
+[[/collapsible]]
+@@@@
+[[collapsible show="相關故事:" hide="相關故事:"]]
+[[module ListPages order="name" tags=" +Site-zh-25 +故事 " separate="no" perPage="100"]]
+* %%title_linked%%
+[[/module]]
+[[/collapsible]]
+@@@@
+[[/div]]
+
+
+
+
+
+[[div class="content-panel standalone series" style="background-color: #FFFFFF;"]]
+@@@@
+[[=]]
+
++ Site-ZH-26
+++* **(Containment Instrument 26R)**
+[[include custom:img img0=https://i.imgur.com/YUnOCyz.png | img1=https://i.imgur.com/VJbf5Kb.png | width=140px]]
+[[/=]]
+
+[[div style="float:left; width: 45%; padding: 0 2%"]]
+[[module CountPages tags="+scp +原創 +site-zh-26"]]
+收容項目數：**%%total%%**
+[[/module]]
+負責領域：**Safe? Euclid?**
+[[/div]]
+[[div style="float:left; width: 45%; padding: 0 2%"]]
+駐站機動部隊數：**?**
+[[module CountPages tags="-scp +原創 +site-zh-26"]]
+相關檔案數：**%%total%%**
+[[/module]]
+[[/div]]
+@@@@
+----
++++* @@  @@管理人員:[[*user ting129]]
+----
+
+~~~~
+
+**簡介：** Site-ZH-26為位於澳門的站點。
+
+[[collapsible show="收容/相關項目:" hide="收容/相關項目:"]]
+[[module ListPages order="name" tags=" +Site-zh-26 +scp " separate="no" perPage="100"]]
+* %%title_linked%%
+[[/module]]
+[[/collapsible]]
+@@@@
+[[collapsible show="相關故事:" hide="相關故事:"]]
+[[module ListPages order="name" tags=" +Site-zh-26 +故事 " separate="no" perPage="100"]]
+* %%title_linked%%
+[[/module]]
+[[/collapsible]]
+@@@@
+[[/div]]
+
+
+
+[[div class="content-panel standalone series" style="background-color: #FFFFFF;"]]
+@@@@
+[[=]]
+
++ [[[Site-ZH-31]]]
+++* **(Containment Comprehensive 31S)**
+[[include custom:img img0=http://minmasterqwtest2.wikidot.com/local--files/site/received_889806221364435.jpeg | img1=https://i.imgur.com/H9IZIWh.png | width=140px]]
+[[/=]]
+
+[[div style="float:left; width: 45%; padding: 0 2%"]]
+[[module CountPages tags="+scp +原創 +site-zh-31"]]
+收容項目數：**%%total%%**
+[[/module]]
+負責領域：**Safe? Euclid?**
+[[/div]]
+[[div style="float:left; width: 45%; padding: 0 2%"]]
+駐站機動部隊數：**1**
+[[module CountPages tags="-scp +原創 +site-zh-31"]]
+相關檔案數：**%%total%%**
+[[/module]]
+[[/div]]
+@@@@
+----
++++* @@  @@管理人員:[[*user prtp14]]
+----
+
+~~~~
+
+**簡介：** Site-ZH-31位於馬來西亞霹靂州郊區， ██新村，對外偽裝成一個私營科研組織，收購並利用██華文小學舊址及其周邊的園林進行收容與研究工作。
+
+[[collapsible show="收容/相關項目:" hide="收容/相關項目:"]]
+[[module ListPages order="name" tags=" +Site-zh-31 +scp " separate="no" perPage="100"]]
+* %%title_linked%%
+[[/module]]
+[[/collapsible]]
+@@@@
+[[collapsible show="相關故事:" hide="相關故事:"]]
+[[module ListPages order="name" tags=" +Site-zh-31 +故事 " separate="no" perPage="100"]]
+* %%title_linked%%
+[[/module]]
+[[/collapsible]]
+@@@@
+[[/div]]
+
+[[div class="content-panel standalone series" style="background-color: #FFFFFF;"]]
+@@@@
+[[=]]
+
++ [[[site-zh-44|Site-ZH-44]]]
+++* **(Biological Research 44S)**
+[[include custom:img img0=https://i.imgur.com/91hTAaj.png | img1=https://i.imgur.com/9GEQY64.png | width=140px]]
+[[/=]]
+
+[[div style="float:left; width: 45%; padding: 0 2%"]]
+[[module CountPages tags="+scp +原創 +site-zh-44"]]
+收容項目數：**%%total%%**
+[[/module]]
+負責領域：**生物學領域**
+[[/div]]
+[[div style="float:left; width: 45%; padding: 0 2%"]]
+駐站機動部隊數：**2**
+[[module CountPages tags="-scp +原創 +site-zh-44"]]
+相關檔案數：**%%total%%**
+[[/module]]
+[[/div]]
+@@@@
+----
++++* @@  @@管理人員:[[*user SamScript]]
+----
+
+~~~~
+
+**簡介：** Site-ZH-44位於臺灣東部地區，主體為海岸山脈東側的一地下碉堡，由基金會舊代設施改建而來。該設施專責花東地區的異常，並以繁中部的生物性項目研究見長。
+
+[[collapsible show="收容/相關項目:" hide="收容/相關項目:"]]
+[[module ListPages order="name" tags=" +Site-zh-44 +scp " separate="no" perPage="100"]]
+* %%title_linked%%
+[[/module]]
+[[/collapsible]]
+@@@@
+[[collapsible show="相關故事:" hide="相關故事:"]]
+[[module ListPages order="name" tags=" +Site-zh-44 +故事 " separate="no" perPage="100"]]
+* %%title_linked%%
+[[/module]]
+[[/collapsible]]
+@@@@
+[[/div]]
+
+
+[[div class="content-panel standalone series" style="background-color: #FFFFFF;"]]
+@@@@
+[[=]]
+
++ [[[site-zh-50|Site-ZH-50]]]
+++* **(Armed Containment 50T)**
+[[include custom:img img0=https://i.imgur.com/5IMSN2u.png | img1=https://i.imgur.com/1Dtcs20.png | width=140px]]
+[[/=]]
+
+[[div style="float:left; width: 45%; padding: 0 2%"]]
+[[module CountPages tags="+scp +原創 +site-zh-50"]]
+收容項目數：**%%total%%**
+[[/module]]
+負責領域：**Safe, Euclid, Keter**
+[[/div]]
+[[div style="float:left; width: 45%; padding: 0 2%"]]
+駐站機動部隊數：**機動性**
+[[module CountPages tags="-scp +原創 +site-zh-50"]]
+相關檔案數：**%%total%%**
+[[/module]]
+[[/div]]
+@@@@
+----
++++* @@  @@管理人員:[[*user Semibreve]]
+----
+
+~~~~
+
+**簡介：** Site-ZH-50為繁中分部的大型武裝站點，擁有一座大型海上設施、一架航空母艦規模的空中機動作戰中心及一座武裝軌道空間站，以及大量的軍用艦艇與戰鬥機編隊。
+負責快速派遣機動特遣隊與支援繁中分部的各項武裝相關之事宜。
+
+[[collapsible show="收容/相關項目:" hide="收容/相關項目:"]]
+[[module ListPages order="name" tags=" +Site-zh-50 +scp " separate="no" perPage="100"]]
+* %%title_linked%%
+[[/module]]
+[[/collapsible]]
+@@@@
+[[collapsible show="相關故事:" hide="相關故事:"]]
+[[module ListPages order="name" tags=" +Site-zh-50 +故事 " separate="no" perPage="100"]]
+* %%title_linked%%
+[[/module]]
+[[/collapsible]]
+@@@@
+[[/div]]
+
+
+[[div class="content-panel standalone series" style="background-color: #FFFFFF;"]]
+@@@@
+[[=]]
+
++ Site-ZH-59
+[[include custom:img img0=https://i.imgur.com/GVjIlgg.png | img1=https://i.imgur.com/7kSx9Y7.png | width=140px]]
+[[/=]]
+
+[[div style="float:left; width: 45%; padding: 0 2%"]]
+[[module CountPages tags="+scp +原創 +site-zh-59"]]
+收容項目數：**%%total%%**
+[[/module]]
+負責領域: **Safe, Euclid, Keter**
+[[/div]]
+[[div style="float:left; width: 45%; padding: 0 2%"]]
+駐站機動部隊數：**0**
+[[module CountPages tags="-scp +原創 +site-zh-59"]]
+相關檔案數：**%%total%%**
+[[/module]]
+[[/div]]
+@@@@
+----
++++* @@  @@管理人員:[[*user GrizzlyBr]]、[[*user UrsaMerak]]
+----
+~~~~
+
+**簡介：**Site-ZH-59位於南彰化濁水溪沖積平原的大片農田之中，因其具有東西二設施的特徵被部分人員戲稱為「彰化雙子星」，兩設施間以地下鐵相連，車程約5分鐘。Site-ZH-59東站為歷史部門、文化部門的所在地，專責收容歷史或文化相關的異常。可收容Safe、Euclid、Keter等級的異常。西站則是繁中現實部門的所在地，由於基金會EN主站與其他分部已有許多站點投入現實學以及異常科學體系理論的研究，比起前端現實學理論的實驗，更多的是圍繞此處收容項目的異常性質進行研究。
+
+[[collapsible show="收容/相關項目:" hide="收容/相關項目:"]]
+[[module ListPages order="name" tags=" +Site-zh-59 +scp " separate="no" perPage="100"]]
+* %%title_linked%%
+[[/module]]
+[[/collapsible]]
+@@@@
+[[collapsible show="相關故事:" hide="相關故事:"]]
+[[module ListPages order="name" tags=" +Site-zh-59 +故事 " separate="no" perPage="100"]]
+* %%title_linked%%
+[[/module]]
+[[/collapsible]]
+@@@@
+[[/div]]
+
+
+
+[[div class="content-panel standalone series" style="background-color: #FFFFFF;"]]
+@@@@
+[[=]]
+
++ Site-ZH-72
+[[include custom:img img0=https://i.imgur.com/GVjIlgg.png | img1=https://i.imgur.com/7kSx9Y7.png | width=140px]]
+[[/=]]
+
+[[div style="float:left; width: 45%; padding: 0 2%"]]
+[[module CountPages tags="+scp +原創 +site-zh-72"]]
+收容項目數：**%%total%%**
+[[/module]]
+負責領域: **Safe, Euclid, Keter**
+[[/div]]
+[[div style="float:left; width: 45%; padding: 0 2%"]]
+駐站機動部隊數：**0**
+[[module CountPages tags="-scp +原創 +site-zh-72"]]
+相關檔案數：**%%total%%**
+[[/module]]
+[[/div]]
+@@@@
+----
++++* @@  @@管理人員：
+----
+
+~~~~
+
+**簡介：**Site-ZH-72 位於台灣中央山脈的一處林區，負責台灣中央山脈西麓與淺山地區的異常事件處理，同時也設有現實物理學部門與其他研究單位。該設施基於環境與歷史因素，時常發生干擾設施運作的特殊事件。
+
+[[collapsible show="收容/相關項目:" hide="收容/相關項目:"]]
+[[module ListPages order="name" tags=" +Site-zh-72 +scp " separate="no" perPage="100"]]
+* %%title_linked%%
+[[/module]]
+[[/collapsible]]
+@@@@
+[[collapsible show="相關故事:" hide="相關故事:"]]
+[[module ListPages order="name" tags=" +Site-zh-72 +故事 " separate="no" perPage="100"]]
+* %%title_linked%%
+[[/module]]
+[[/collapsible]]
+@@@@
+[[/div]]
+
+
+[[div class="content-panel standalone series" style="background-color: #FFFFFF;"]]
+@@@@
+[[=]]
+
++ [[[site-zh-81|Site-ZH-81]]]
+++* **(Armed Containment 81S)**
+[[include custom:img img0=https://i.imgur.com/3xXYQpg.png | img1=https://i.imgur.com/k8cauxW.png | width=140px]]
+[[/=]]
+
+[[div style="float:left; width: 45%; padding: 0 2%"]]
+[[module CountPages tags="+scp +原創 +site-zh-81"]]
+收容項目數：**%%total%%**
+[[/module]]
+負責領域: **Safe, Euclid, Keter**
+[[/div]]
+[[div style="float:left; width: 45%; padding: 0 2%"]]
+駐站機動部隊數：**6**
+[[module CountPages tags="-scp +原創 +site-zh-81"]]
+相關檔案數：**%%total%%**
+[[/module]]
+[[/div]]
+@@@@
+----
++++* @@  @@管理人員:[[*user Reverberate_a]]
+----
+
+~~~~
+
+**簡介：**Site-ZH-81原為蘇聯1985年製庫涅茲佐夫號航空母艦，為實驗用艦並搭載有核融合試驗技術，後遭棄用並作為海軍用靶，最終於200█年，Dr. A████ "Reverberate"於北極海旅行時發現，通報基金會回收，整治為當前狀態並編為Site-ZH-81。
+該站點經常處於全球巡航狀態，作為ZH分部的自由外交區域，站點整體同時作為SCP-ZH-100的穩定收容單元。配備的站點AI作業員為Koschei.aic。
+
+[[collapsible show="收容/相關項目:" hide="收容/相關項目:"]]
+[[module ListPages order="name" tags=" +Site-zh-81 +scp " separate="no" perPage="100"]]
+* %%title_linked%%
+[[/module]]
+[[/collapsible]]
+@@@@
+[[collapsible show="相關故事:" hide="相關故事:"]]
+[[module ListPages order="name" tags=" +Site-zh-81 +故事 " separate="no" perPage="100"]]
+* %%title_linked%%
+[[/module]]
+[[/collapsible]]
+@@@@
+[[/div]]
+
+
+[[div class="content-panel standalone series" style="background-color: #FFFFFF;"]]
+@@@@
+[[=]]
+
++ [[[site-zh-88|Site-ZH-88]]]
+++* **(Financial Research 88S)**
+[[include custom:img img0=https://i.imgur.com/zRTGwj5.png | img1=https://i.imgur.com/tkMq7fZ.png | width=140px]]
+[[/=]]
+
+[[div style="float:left; width: 45%; padding: 0 2%"]]
+[[module CountPages tags="+scp +原創 +site-zh-88"]]
+收容項目數：**%%total%%**
+[[/module]]
+負責領域: 金融/商業相關
+[[/div]]
+[[div style="float:left; width: 45%; padding: 0 2%"]]
+駐站機動部隊數:
+[[module CountPages tags="-scp +原創 +site-zh-88"]]
+相關檔案數：**%%total%%**
+[[/module]]
+[[/div]]
+@@@@
+----
++++* @@  @@管理人員:[[*user Chromeblushowo]]
+----
+
+~~~~
+
+**簡介：**Site-ZH-88為一位於北部的金融站點，除了負責繁中財政業務和收容異常外，周圍亦有規模龐大的商店街。
+
+[[collapsible show="收容/相關項目:" hide="收容/相關項目:"]]
+[[module ListPages order="name" tags=" +Site-zh-88 +scp " separate="no" perPage="100"]]
+* %%title_linked%%
+[[/module]]
+[[/collapsible]]
+@@@@
+[[collapsible show="相關故事:" hide="相關故事:"]]
+[[module ListPages order="name" tags=" +Site-zh-88 +故事 " separate="no" perPage="100"]]
+* %%title_linked%%
+[[/module]]
+[[/collapsible]]
+@@@@
+[[/div]]
+
+
+@@ @@
+[[collapsible show="<<未達標站點>>" hide="以下為未達標站點："]]
+[[include component:site name=Site-ZH-03|number=03|c0=#630|subtitle=[!-- --]]]
+目前有關Site-ZH-03的大部分情報皆不明，已知該站點設有屍體焚化部門，且曾經遭受過渾沌反叛軍攻擊，推測分類為Storage，已知相關的項目有[[[SCP-ZH-900]]]、[[[SCP-ZH-004]]]、[[[SCP-ZH-160]]]。
+
+[[include component:site name=Site-ZH-G-3|number=G3|c0=#630|subtitle=[!-- --]]]
+Site-G-3為不明站點，收容有[[[SCP-ZH-003]]]
+
+[[include component:site name=Site-ZH-04|number=04|c0=#630|subtitle=[!-- --]]]
+Site-ZH-04疑似與逆模因部門相關，因其性質而鮮少為ZH分部人員所知。當前列為[[[SCP-ZH-440]]]。
+
+[[include component:site name=Site-ZH-06|number=06|c0=#630|subtitle=[!-- --]]]
+Site-ZH-06整個站點被用於收容[http://scp-zh-tr.wikidot.com/scp-ZH-825 SCP-ZH-825]，為提防該項目突破收容或發生任何緊急事件，所有站點人員必須進行相關訓練並定時演習，訪客亦需被告知事故發生時的應對方法，並於發生時帶往安全隔離區直到事件結束。該站點除SCP-ZH-825外，其餘皆為低威脅之Safe級項目。
+
+[[include component:site name=Site-ZH-14|number=14|c0=#b15bff|subtitle=(Temporal Site-ZH-14) ]]
+Site-ZH-14是繁中分部的三垣指揮部所親自設立的時間異常研究站點，並派駐了[[[https://scp-wiki.wikidot.com/welcome-to-delta-t|時間異常部門]]]以及多重宇宙觀測部門的部分人員以便[[[SCP-ZH-517|遏止臺灣境內所出現的特殊型異常]]]，並[[[SCP-ZH-211|觀察本基準現實當中所發生的現實重構或是時間線變動]]]。
+@@ @@
+Site-ZH-14最為著名的是其本身存在的因果已被錨定在所有的平行現實中，其相關資訊目前列有[[[SCP-ZH-049]]]，該站點將會同步配合Site-ZH-100在[[[SCP-ZH-998|不可逆之K級情景]]]的發生下進行替代時間線的轉移作業。
+@@ @@
+即便如此，我們仍無法對抗未來的不穩定性，因此我們需要你的見證，為了正史以及我們所作出的犧牲。簡而言之，新人，歡迎你加入RCT-∆t。
+
+[[include component:site name=Site-ZH-15|number=15|c0=#630|subtitle=[!-- --]]]
+Site-ZH-15為繁中分部成立早期所設立的站點之一，原先的設立目的為觀測[[[SCP-ZH-372]]]之活動情形，乃SCP-ZH-372之情報中心。
+
+考慮到隱密性，Site-ZH-15的建築結構絕大部分皆位於地下，且為了防止站點職員長期於密閉空間工作所造成的不適，部分設施設計成樓中樓的造型，以增加視野上的空間擴張感，甚至有外型仿造地上建築的部門。較淺層的樓層因地表設置的玻璃帷幕，具有良好採光。
+
+地表設施主要分為三塊：一般飛行場、偽裝成普通私人機構的建築體以及人造林。人造林另外切割成數個區域，分別為研究用專區、低威脅異常項目活動專區、[[[SCP-ZH-953]]]收容專區以及員工休閒專區等。
+
+由於特定領域人才的聚集，Site-ZH-15主要收容具有一定程度情緒反應，而導致行為較難以預測的異常項目(但不見得為數量最多的項目類型)。
+
+[[include component:site name=Site-ZH-17|number=17|c0=#630|subtitle=[!-- --]]]
+Site-ZH-17位於能高山下方，且有著獨特的劃區，例如Hermes區，Chronos區，Hades區等等，收容有[[[SCP-ZH-583]]]。
+
+[[include component:site name=Site-ZH-18|number=18|c0=#630|subtitle=[!-- --]]]
+Site-ZH-18位於翡翠水庫上游集水區，為新建立之站點，主要目的係收容並研究原棲地為自然環境的生物類SCP，並有種植區栽種植物型項目。
+現站點人員多從Site-ZH-16轉調而來，亦鼓勵其他站點人員及研究項目申請轉調，目前站點由Site-ZH-16站點主任兼職管理。
+目前收容項目包括[[[SCP-ZH-720]]]。
+
+[[include component:site name=Site-ZH-20|number=20|c0=#630|subtitle=[!-- --]]]
+Site-ZH-20為基金會ZH分部與政府機關的對口，負責協調基金會員工在公部門內的流動，並運用協商手腕協調政府機關與基金會之間的關係。Site-ZH-20亦受三垣指揮部直接管轄，且不作為收容用途。
+
+[[include component:site name=Site-ZH-28|number=28|c0=#630|subtitle=[!-- --]]]
+Site-ZH-28位於台灣花蓮縣玉里鎮，作為繁中分部在台灣花東縱谷的機動調查設施。曾負責[[[before-starsight|PSCP-ZH-447]]]與[[[SCP-ZH-620]]]的調查，與Site-ZH-44合作密切。
+
+[[include component:site name=Site-ZH-47|number=47|c0=#630|subtitle=[!-- --]]]
+Site-ZH-47位於澎湖，大部分結構位於地表下，唯一的對外地上設施兼出入口則是一家食品觀光工廠，觀光收入及銷售製作的產品也是Site-ZH-47一項重要的經費來源。在異常方面，Site-ZH-47主要負責收容台灣海峽範圍內的異常，同時還負責了繁中分部的天文觀測工作。目前收容有[[[SCP-ZH-209]]]、[[[SCP-ZH-358]]]、[[[SCP-ZH-449]]]、[[[SCP-ZH-853]]]，相關故事則有[[[zh-wsoff-zh-47|犯安四十七：準備就緒 ]]]。
+
+[[include component:site name=Site-ZH-55|number=55|c0=#630|subtitle=[!-- --]]]
+Site-ZH-55位於台灣北部近山，偽裝為一個科技園區，且周遭被低海拔山林所包圍。Site-ZH-55是一座綜合機能設施，並不專職於收容或行政，但兼備各式基金會功能。收容有[[[SCP-ZH-250]]]。
+
+[[include component:site name=Site-ZH-63|number=63|c0=#630|subtitle=[!-- --]]]
+Site-ZH-63是與超形上學領域相關的設施，出現在[[[why-you-need-pataphysics|故事的力量～你為什麼需要超形上學]]]。收容有[[[SCP-ZH-736]]]。
+
+[[include component:site name=Site-ZH-64|number=64|c0=#630|subtitle=[!-- --]]]
+Site-ZH-64是位於香港的敘事戰術站點，定位推斷與Site-ZH-66類似。出現在[[[why-you-need-pataphysics|故事的力量～你為什麼需要超形上學]]]，間接協助[[[SCP-ZH-964]]]的收容及[[[SCP-ZH-996]]]的追蹤工作。
+
+[[include component:site name=Site-ZH-66|number=66|c0=#630|subtitle=[!-- --]]]
+Site-ZH-66是一個未知設施，出現在[[[cats-in-kaleidoscopes|萬華鏡中的貓]]]、[[[why-you-need-pataphysics|故事的力量～你為什麼需要超形上學]]]。
+
+[[include component:site name=Site-ZH-71|number=71|c0=#630|subtitle=[!-- --]]]
+Site-ZH-71是位於南極的未知站點，出現在[[[frozencold|霜寒]]]。
+
+[[include component:site name=Site-ZH-90|number=90|c0=#630|subtitle=[!-- --]]]
+Site-ZH-90位於南太平洋的尼莫點上，是專門為了[[[SCP-ZH-008]]]設立的收容單位及監控站。
+
+[[include component:site name=Site-ZH-94|number=94|c0=#630|subtitle=[!-- --]]]
+Site-ZH-94是ㄧ位於台灣中央山脈的不開放區域，鄰近[已編輯]國家公園，其站點旁為[[[SCP-ZH-564]]]的收容區域，並收容有[[[SCP-ZH-041]]]、[[[SCP-ZH-829]]]以及[[[SCP-ZH-973]]]。更多信息當前未開放。
+
+[[include component:site name=Site-ZH-96|number=96|c0=#630|subtitle=[!-- --]]]
+Site-ZH-96前台為位於偏僻地區的[已編輯]療養院所。實質上也是基金會內部的療養院，專職照護因各種疾病或傷殘而無法自理生活的基金會職員（含D級人員）以及受異常影響過於嚴重而無法回歸正常社會的一般民眾。目前收留大量心智功能嚴重缺損的D級人員。
+
+[[include component:site name=Site-ZH-100|number=100|c0=#afffff|subtitle=[!-- --]]]
+有關Site-ZH-100的具體資訊不詳，詳細情況僅限三垣指揮部知曉。小道情報指出Site-ZH-100可能是繁中分部在[[[scp-zh-835|K級情景]]]下的指揮機構，其當前的位置與功能都是未知的。
+
+[[/collapsible]]
+
+@@ @@
+@@ @@
+++* [[span class="ruby"]]站點[[span class="rt"]]Areas[[/span]][[/span]]
+@@ @@
+[[collapsible show="<<未達標站點>>" hide="以下為未達標站點："]]
+
+[[include component:area name=Area-ZH-000|number=NULL|c0=#000|subtitle=(Unknown Area 00A) ]]
+位於臺東的一處未知地下觀測站，其具體用途目前無法得知。但跟[[[SCP-ZH-995|URA-995]]]有著緊密之關係。所有關於Area-ZH-000的記載資訊已被封存至Site-ZH-01的深井資料庫。
+@@ @@
+[[include component:area name=Area-ZH-36|number=36|c0=#630|subtitle=(Comtainment Area 36K) ]]
+位於火星太空軌道之空間站，為了收容[[[SCP-ZH-666]]]而設立 ,周圍區域的管制等級為最高。
+已被報銷。
+@@ @@
+[[include component:area name=Area-ZH-73|number=73|c0=#630|subtitle=(Research Area 73E) ]]
+位於地下的研究設施，負責開發對特定項目的實驗性收容措施。於[[[SCP-ZH-747]]]事故後重新啟用，無常駐收容項目。
+@@ @@
+[[include component:area name=Area-ZH-75|number=75|c0=#630|subtitle=(Armed Area 75B) ]]
+於公海上的人造海埔新生地，整座站點由一體成形的特殊金屬構成，為支援Site-ZH-50等武裝站點之全自動化兵工廠。
+@@ @@
+[[include component:area name=Area-ZH-99|number=99|c0=#630|subtitle=(Comtainment Area 99P) ]]
+原Area-4065，目前提供氣象資訊給予Site-ZH-81以有效保護與收容[[[SCP-ZH-101]]]。
+@@ @@
+[[/collapsible]]
+@@ @@
+[[collapsible show="如何新增一個站點設施？" hide="收起"]]
+
+[[=]]
++++* **[*http://scp-zh-tr.wikidot.com/forum/t-12825884/#post-4430150 如果您希望申請一個站點設施，請點擊此處 ◀ 前往了解申請規則]**
+[[/=]]
+
+@@ @@
+@@ @@
+@@ @@
+[[=]]
+[[size 175%]]
+**常見問題**
+[[/size]]
+----
+[[/=]]
+**1.我想要把我的設施放上來，請問有什麼要先做的嗎？**
+##blue|**[*http://scp-zh-tr.wikidot.com/forum/t-12825884/#post-4430150 請點擊前往了解原創標籤及合作項目刊載申請串中的內容]**##
+
+@@ @@
+**2.我可以宣傳我的設施並招募別人來一起寫關於這個設施的項目嗎？**
+[[size 200%]]
+##blue|//{{行。}}//##
+[[/size]]
+
+@@ @@
+**3.我一定要使用這個頁面內的基金會設施嗎？**
+##blue|不一定，你可以選擇適合你項目的設施加入檔案中，或是自創一個合適的站點來監管你的項目。##
+
+@@ @@
+**4.所有設施都必須合格嗎？不合格的設施會被刪除嗎？**
+##blue|不一定，也不會。不合格的設施不代表不應該存在，僅僅是不能刊登於此版面的主要區域罷了##
+
+@@ @@
+**5.我要幫自己原創的設施創立中心頁嗎？**
+##blue|廣泛的標準是：有足夠多的檔案數量後才足以構成創立中心頁的理由；並且，建議在成為合格的設施之後再創立，信服力才夠。##
+
+@@ @@
+**6.這個頁面的內容（設施設定）是正式的嗎？**
+##blue|基本上來說，是的。##
+##blue|但是基於基金會網站的現實設定，每個作者所處的世界是不一定相同的。有些人喜歡小規模的、只有幾個設施的基金會；而有些人文章內的基金會已經遍佈了銀河系，重點還是因人而異。##
+##blue|當然，冒險去反向操作得到的收益也不一定是好的。##
+
+@@ @@
+**7.如何令自己的作者頁面加入列表內的站點？**
+##blue|視該站點的詳細規定而決定。##
+##blue|通常而言，當你擁有作者頁面之後，在你的作者頁面上加上「作者頁面」及該站點標籤後即可。記得在加上相關標籤之前要通知一下站點負責人。##
+
+總之
+[[size 225%]]
+記得，不要當一個混帳。
+[[/size]]
+@@ @@
+@@ @@
+@@ @@
+//本頁暫時由[[*user Semibreve]]管理，需要新增和審核敬請聯絡。//
+[[/collapsible]]
+
+[[size 0%]]
+djkaktus rules
+[[/size]]
+
+[[include custom:start]]
+.content-panel{
+background:#222220!important;
+}
+[[include custom:end]]

@@ -1,0 +1,9 @@
+[[div class="article-box" style="background-image: radial-gradient(rgba(30, 30, 30, 0.85), rgba(30, 30, 30, 0.85)), url({$image})"]]
+[[div]]
+[[a class="article-link-box" href="{$url}"]][[/a]]
++++ {$page-title}
++++++ {$name}
+
+[[size 90%]]{$quote}[[/size]]
+[[/div]]
+[[/div]]

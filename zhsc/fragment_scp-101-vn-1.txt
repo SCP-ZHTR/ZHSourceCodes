@@ -1,0 +1,53 @@
+[[include :scp-zh-tr:theme:black-highlighter-theme]]
+[[include :scp-zh-tr:theme:penumbra-bhl]]
+
+[[module CSS]]
+:root:lang(zh){
+     --lgurl: url(http://scpvnsandbox2.wdfiles.com/local--files/khnam/site-75-vn.svg);
+     --header-title: "心靈單位";
+     --header-subtitle: "本地問題 - 本地方法";
+     --accentColor: 255,211,0;
+}
+[[/module]]
+
+@@ @@
+
+[[div style="color: white; display: inline-block; background:#000000; float:top; padding:5px; width:100%"]]
+
+++++++ scpf:database/vn/site-75/dvtl/130806acc/system
+
+@@ @@
+|| 正在下載今年報告…… ||
+B-130806：
+> 還需要多久。
+|| 預計需 45 分 13 秒 ||
+B-130806：
+> 搜索"101-VN"。
+|| 正在尋找…… ||
+B-075001：
+> 您又再繼續看它了嗎。不會覺得悶嗎？
+|| 發現不尋常存取……存取已獲授權 ||
+B-130806：
+> 我畢竟是普通人，每一個人都總有東西是不可以忘記的。
+B-075001：
+> 那我們一起看吧。一個失敗者總會一直思考過去。
+B-130806：
+> 這句說得太重了。當年不就是您批准了我的提案嗎？
+B-075001：
+> 啊，抱歉。我們兩個都是失敗者，那行了吧。
+|| 已找到 3 則相符結果 ||
+B-130806：
+> 打開「SCP-101-VN最初版本」。
+|| 黑月是否嚎叫？ ||
+B-130806：
+> 視乎當時。
+|| 黑月何時嚎叫？ ||
+B-130806：
+> 黑月惜殤。
+B-075001：
+> 黑月惜殤。
+|| **[http://scp-zh-tr.wikidot.com/scp-101-vn/offset/1 < 打開文件 >]** ||
+
+[[/div]]
+
+@@ @@

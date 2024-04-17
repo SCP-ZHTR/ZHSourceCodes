@@ -1,0 +1,35 @@
+[[=]]
+> [[size 150%]]「所有的勝利都是微小的雞雞堆砌而起的。」—夏離章，2024[[/size]]
+[[/=]]
+
+
+**翻譯**
+[[module Listpages tag="翻譯" created_by="Lostwhat" separate="no" perPage="250" order="name"]]
+# [[[%%name%%|%%title%%]]]分數：%%rating%%
+[[/module]]
+
+----
+**原創**
+[[module Listpages tag="原創" created_by="Lostwhat" separate="no" perPage="250" order="name"]]
+# [[[%%name%%|%%title%%]]]分數：%%rating%%
+[[/module]]
+
+----
+**展出**
+[[module Listpages tag="展出" created_by="Lostwhat" separate="no" perPage="250" order="name"]]
+# [[[%%name%%|%%title%%]]]分數：%%rating%%
+[[/module]]
+
+
+**等我寫完我該寫的就會更新人事了**
+**但是我快鼠掉**
+
+**更新：我真的快鼠掉了看到的人可以抱抱我嗎**
+**太多東西要寫要顧了 人事頁放水流**
+**嘛怎麼樣都好吧 下次再說**
+
+**更新：稿債如山倒QAQ**
+
+**更新：有沒有一個可能，現在的作者頁其實也不錯看？**
+
+--**更新：我差不多該認真處理作者頁了，這個垃圾堆不會存在太久，所以第一個看到這個彩蛋的人可以來找我領取一個抱抱，名額有限要搶要快。**--

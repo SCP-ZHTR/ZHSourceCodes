@@ -1,0 +1,315 @@
+[[include :scp-wiki:theme:black-highlighter-theme]]
+[[include :scp-wiki:component:toggle-sidebar-bhl]]
+[[include :scp-wiki:component:bhl-dark-sidebar]]
+[[include :scp-wiki:component:centered-header-bhl]]
+[[include :scp-wiki:component:acs-animation]]
+[[include :scp-wiki:component:fade-in speed=4]]
+[[include component:scp-meta-title-hiding css-style=classic]]
+[[include info:start]]
+**SCP-6067 - 回旋風**
+**原文：**[https://scp-wiki.wikidot.com/scp-6067 SCP-6067 - Recyclone]
+**作者：**[[*user Tstaffor]]
+**譯者：**[[*user Tostren]]
+
+為保證故事的連續性，此文章中使用的表格採自由[[*user ting129]]所翻譯的[http://scp-zh-tr.wikidot.com/scp-6558 SCP-6558]。
+[[include info:end]]
+
+
+[[module CSS]]
+@import url('https://fonts.googleapis.com/css?family=Berkshire+Swash');
+@import url('https://fonts.googleapis.com/css2?family=Aladin&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Klee+One:wght@600&display=swap');
+
+.wonder {
+    border: solid 1px #999999;
+    background:#f2f2c2;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+.wonder h4 {
+     color: #780d8e;
+     font-family: 'Berkshire Swash', 'Klee One', cursive;
+}
+
+.funtastic {
+    border: solid 1px #999999;
+    background: #bdbd6d;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+.funtastic h3 {
+    color: #6c0e0e;
+    font-family: 'Berkshire Swash', 'Klee One', cursive;
+}
+[[/module]]
+
+[[include :scp-wiki:component:author-label-source start=--
+|name=Tstaffor]]
+= [[[tstaffor-s-author-page|作者頁]]] | [[[the-scip-squad-podcast-hub|Podcast]]] | [[[https://http://scp-zh-tr.wikidot.com/random:random-scp|手氣不錯？]]]
+
+**Tstaffor最棒的作品：**
+* [[[SCP-6557]]] - 穿越時間的十字路口毀滅
+* [[[SCP-5846]]] - 全方位商店
+* [[[SCP-6547]]] - 世界中的世界中的世界……
+[[include :scp-wiki:component:author-label-source end=--]]
+
+[[include component:anomaly-class-bar-source-alt
+|item-number= 6067
+|clearance= 1
+|container-class= euclid
+|secondary-class= none
+|secondary-icon= https://urlhere.com
+|disruption-class= vlam
+|risk-class= danger
+]]
+
+
+----
+
+**特殊收容措施：** SCP-6067應被收容於Site-86，一間4x4x8公尺的密封玻璃製收容室中。所有基金會外的文件-6067影本，應被立即通報並摧毀。
+
+**描述：** SCP-6067為一具有智能的旋風，高七公尺。項目是在一部Wondertainment博士玩具「回旋風」的宣傳廣告拍攝過程中被創造出來。由於回旋風從來沒有上市過，因此並不存在其他的SCP-6067個體。
+
+當體積比SCP-6067小1mm及以上的物體，與項目接觸時將會被融入其中，並導致SCP-6067尺寸相應的增加。目前，所有SCP-6067內所有可辨識的物品包含了：
+
+* 多種玩具
+* 如爐具、冰箱、洗衣機及烘乾機等電器
+* 一具男性成年人屍體
+* 一系列數量不明的五金工具，如螺絲起子、槌子及電鑽等
+* 衣帽架
+* 郊區房屋
+* 以下的便條[[footnote]]**譯註：**下方文件中的「先生」原文皆為西班牙文中的先生Señor。[[/footnote]]：
+[[div class="funtastic"]]
+[[>]]
+[[image https://scp-wiki.wdfiles.com/local--files/scp-6558/professor_funtastic.png]]
+[[/>]]
+嗨，小子！你現在是洞先生值得驕傲的擁有者了，他可是Funtastic教授的迷你先生列表成員！試著花上好幾個小時來收集所有的歡樂吧！
+
+讓你的先生們開心玩吧！收集所有的先生，超級好玩！你的歡樂！你朋友們的歡樂！
+
+* [[[SCP-6057|砰先生！]]]
+* [[[SCP-6157|絨毛先生！]]]
+* 先生先生！！
+* 小姐先生！！
+* [[[SCP-6558|樂趣先生！]]]
+* **洞先生！**
+* [[[SCP-1551-EX|豬先生！]]]
+* [[[SCP-6310|紫色先生！]]]
+* [[[SCP-5057|味覺先生！]]]
+[[/div]]
+
+**發現：**SCP-6067最初是發現於█████████工作室製片廠的12號舞台。 在回收項目的途中，在現場也發現了以下文件： 
+[[=]]
+[[collapsible show="□ 文件-6067 □" hide="▣ 文件-6067 ▣"]]
+[[/=]]
+
+在現場電腦中發現的唯二兩封電子郵件：
+[[div class="wonder"]]
+[[>]]
+[[image http://scp-wiki.wdfiles.com/local--files/theme%3Awondertainment/wondertainmentSmall.png]]
+[[/>]]
+委婉地說，你的玩具提案可以說是駭人聽聞。我們將不會以任何方式贊助你的回旋風計畫，而如果此計畫以任何形式帶有我們的名字的話，我們的法務團隊會與你好好談談。
+[[>]]
+++++ 讓每一天都充滿歡樂和愉悅！— Wondertainment博士
+[[/>]]
+[[/div]]
+
+[[div class="funtastic"]]
+[[>]]
+[[image https://scp-wiki.wdfiles.com/local--files/scp-6067/professor_funtastic.png]]
+[[/>]]
+我們能幫到你們嗎？資助玩具展來獲得快樂？
+
+[[>]]
++++ 開心的玩很開心！—  Funtastic教授
+[[/>]]
+[[/div]]
+
+
+-----
+廣告劇本：
+[[div class="funtastic"]]
+[[>]]
+[[image https://scp-wiki.wdfiles.com/local--files/scp-6067/professor_funtastic.png]]
+[[/>]]
+[[=]]
++++ Funtastic教授介紹回旋風！
+[[/=]]
+
+[[<]]
+**室內.飯廳—白天**
+
+Max，一名九歲的男孩，正坐在餐桌旁打電動，喝著最後一口汽水。
+
+Max把空的汽水罐丟到地上。
+[[/<]]
+
+[[=]]
+**爸爸**
+Max！不要亂丟罐子，把它撿起來！
+
+**MAX**
+得了吧，老爸！
+[[/=]]
+
+@@ @@
+
+[[<]]
+MAX生氣地看向鏡頭。
+[[/<]]
+
+[[=]]
+**旁白**
+爸媽不斷地要求你打掃嗎？擺脫他們的最好辦法，就是Funtastic教授的最新玩具，回旋風！
+[[/=]]
+
+@@ @@
+
+[[<]]
+**室內.客廳—白天**
+[[/<]]
+
+[[=]]
+**旁白**
+回旋風是一款用起來很好玩的吸塵器！利用最先進的歡樂科技，回旋風可以在房子裡面四處移動，撿起所有你不想要的垃圾。只需要把垃圾丟進去，然後看他飛！
+[[/=]]
+
+@@ @@
+
+[[<]]
+Max和Susie坐在地上對著玩偶大小的回旋風唱歌。 
+回旋風撿起了一些垃圾，並看起來對自己很驕傲的樣子。
+[[/<]]
+
+[[=]]
+**MAX和SUSIE**
+上吧，回旋風！
+[[/=]]
+@@ @@
+[[<]]
+**室內.臥室—下午**
+[[/<]]
+
+[[=]]
+**旁白**
+把所有你不想要的東西都餵給回旋風，然後看它神奇地被抹除！不喜歡的舊嬰兒玩具？找再旋風！
+[[/=]]
+
+@@ @@
+
+[[<]]
+Susie把一隻舊娃娃丟進回旋風中。
+[[/<]]
+
+[[=]]
+**SUSIE**
+我不需要這些無聊的老東西了！ 上吧，回旋風！
+[[/=]]
+
+@@ @@
+
+[[<]]
+回旋風繼續吸收了更多Susie的玩具，並長到了與一隻狗相似的尺寸。
+
+**室內.車庫—晚上**
+[[/<]]
+
+[[=]]
+**旁白**
+爸爸的工具太大聲了？回旋風也有辦法！
+[[/=]]
+
+@@ @@
+
+[[<]]
+Max站在一個工作檯旁，興奮地拿下牆上的工具，並把它們丟進回旋風中。 
+[[/<]]
+
+[[=]]
+**MAX**
+我討厭我爸還有他那些吵死人的工具！害得我們晚上都睡不著覺，活該！
+上吧，回旋風！
+[[/=]]
+
+@@ @@
+
+[[<]]
+**內景.廚房—晚上**
+[[/<]]
+
+[[=]]
+**旁白**
+沒有什麼是回旋風吃不了的，它會吞下你丟的所有東西！
+[[/=]]
+
+@@ @@
+
+[[<]]
+Max和Susie正把櫥櫃裡的所有東西推進回旋風中。 
+回旋風長到跟Max和Susie一樣高。
+[[/<]]
+
+[[=]]
+**MAX和SUSIE**
+上吧，回旋風！上吧，回旋風！上吧，回旋風！
+[[/=]]
+
+@@ @@
+
+[[<]]
+Max和Susie一邊合力把冰箱推進回旋風中，一邊繼續重複說著。
+
+**外景.前院—晚上**
+[[/<]]
+
+[[=]]
+**旁白**
+沒有什麼東西是大到回旋風吞不下的！它甚至可以吞下一棟房子！
+[[/=]]
+
+@@ @@
+
+[[<]]
+Max和Susie站在跟大象一樣大的回旋風旁邊。他們的母親把車停在路邊後，邊揮手邊大叫著跑向他們。 
+[[/<]]
+
+[[=]]
+**媽媽**
+等一下！等一下！孩子們，停，你爸還在裡面！
+[[/=]]
+
+[[=]]
+**MAX和SUSIE**
+上吧，回旋風。
+[[/=]]
+
+@@ @@
+
+[[<]]
+Max和Susie呆看著回旋風把他們的房子完全吞噬。
+[[/<]]
+
+[[=]]
+**旁白**
+只需要三次19塊9毛9的小額付費，就可以得到屬於你自己的回旋風。
+如果你在接下來的十分鐘內訂購的話，就能以10塊錢的價格得到五包回旋風補充空氣包喔！
+[[/=]]
+[[/div]]
+[[/collapsible]]
+
+
+[[footnoteblock]]
+
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[SCP-6066]]] | SCP-6067 | [[[SCP-6068]]] >>
+[[/=]]
+[[/div]]
+
+[[include :scp-zh-tr:component:license-box
+|author=Tstaffor
+|translator=Tostren
+|lang=EN ]]
+[[include :scp-zh-tr:component:license-box-end]]

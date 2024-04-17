@@ -1,0 +1,1479 @@
+[[module CSS]]
+/*
+    Powered on 2024/02/29 04:17:40
+    [2024 Wikidot Theme]
+    Created by Lostwhat
+    CC BY-SA 3.0
+*/
+
+
+
+a,a:visited {
+    color: rgb(255, 255, 255);
+}
+
+[[/module]]
+
+[[module css]]
+html{
+background: black;
+/*width:fit-content;*/
+}
+
+body {
+  color: #DDD;
+}
+
+body{
+background:transparent;
+}
+
+#main-content{
+margin:0;
+}
+div#content-wrap{
+margin: auto;
+}
+
+
+#page-content{
+margin:0;
+min-height:0;
+}
+
+#side-bar,#header,.page-watch-options,#page-info,#page-title,#container-wrap~*,#content-wrap~*{
+display:none!important;
+}
+div#container-wrap{
+background: transparent;
+}
+.page-rate-widget-box{
+display:unset;
+}
+[[/module]]
+
+[[iftags +段落]]
+[[module css]]
+#page-options-container{
+display:none!important;
+}
+[[/module]]
+[[/iftags]]
+
+[[module css]]
+.fade-in-words{
+    width: 1em;
+    margin: 0 auto;
+    text-align:center;
+}
+
+/*自定义一个透明度从0到1的动画，它的名称是fade-in*/
+@keyframes fade-in{  
+    0%{ opacity: 0;}
+    100%{opacity:1;}
+}
+@-webkit-keyframes fade-in{
+    0%{ opacity: 0;}
+    100%{opacity:1;}
+}
+@-ms-keyframes fade-in{
+    0%{ opacity: 0;}
+    100%{opacity:1;}
+}
+@-o-keyframes fade-in{
+    0%{ opacity: 0;}
+    100%{opacity:1;}
+}
+@-moz-keyframes fade-in{
+    0%{ opacity: 0;}
+    100%{opacity:1;}
+}
+.a{
+    opacity: 0;   
+    -webkit-animation: fade-in 4s ease 1s 1;
+    -moz-animation: fade-in 4s ease 1s 1;
+    -o-animation: fade-in 4s ease 1s 1;
+    -ms-animation: fade-in 4s ease 1s 1;
+    
+    animation-fill-mode:forwards;
+    -webkit-animation-fill-mode: forwards;  
+      -o-animation-fill-mode: forwards;
+      -ms-animation-fill-mode: forwards;   
+      -moz-animation-fill-mode: forwards;
+}
+.b{
+    opacity: 0;    
+    animation: fade-in 4s ease 4s 1;
+    -webkit-animation: fade-in 4s ease 4s 1;
+    -moz-animation: fade-in 4s ease 4s 1;
+    -o-animation: fade-in 4s ease 4s 1;
+    -ms-animation: fade-in 4s ease 4s 1;
+    
+    
+    animation-fill-mode:forwards;
+    -webkit-animation-fill-mode: forwards;  
+      -o-animation-fill-mode: forwards;
+      -ms-animation-fill-mode: forwards;   
+      -moz-animation-fill-mode: forwards;
+}
+.c{
+    opacity: 0;    
+    animation: fade-in 4s ease 7s 1;
+    -webkit-animation: fade-in 4s ease 7s 1;
+    -moz-animation: fade-in 4s ease 7s 1;
+    -o-animation: fade-in 4s ease 7s 1;
+    -ms-animation: fade-in 4s ease 7s 1;
+    
+    
+    animation-fill-mode:forwards;
+    -webkit-animation-fill-mode: forwards;  
+      -o-animation-fill-mode: forwards;
+      -ms-animation-fill-mode: forwards;   
+      -moz-animation-fill-mode: forwards;
+}
+.d{
+    opacity: 0;    
+    animation: fade-in 4s ease 14s 1;
+    -webkit-animation: fade-in 4s ease 14s 1;
+    -moz-animation: fade-in 4s ease 14s 1;
+    -o-animation: fade-in 4s ease 14s 1;
+    -ms-animation: fade-in 4s ease 14s 1;
+    
+    
+    animation-fill-mode:forwards;
+    -webkit-animation-fill-mode: forwards;  
+      -o-animation-fill-mode: forwards;
+      -ms-animation-fill-mode: forwards;   
+      -moz-animation-fill-mode: forwards;
+}
+.e{
+    opacity: 0;    
+    animation: fade-in 4s ease 19s 1;
+    -webkit-animation: fade-in 4s ease 19s 1;
+    -moz-animation: fade-in 4s ease 19s 1;
+    -o-animation: fade-in 4s ease 19s 1;
+    -ms-animation: fade-in 4s ease 19s 1;
+    
+    
+    animation-fill-mode:forwards;
+    -webkit-animation-fill-mode: forwards;  
+      -o-animation-fill-mode: forwards;
+      -ms-animation-fill-mode: forwards;   
+      -moz-animation-fill-mode: forwards;
+}
+.f{
+    opacity: 0;    
+    animation: fade-in 4s ease 27s 1;
+    -webkit-animation: fade-in 4s ease 27s 1;
+    -moz-animation: fade-in 4s ease 27s 1;
+    -o-animation: fade-in 4s ease 27s 1;
+    -ms-animation: fade-in 4s ease 27s 1;
+    
+    
+    animation-fill-mode:forwards;
+    -webkit-animation-fill-mode: forwards;  
+      -o-animation-fill-mode: forwards;
+      -ms-animation-fill-mode: forwards;   
+      -moz-animation-fill-mode: forwards;
+}
+.g{
+    opacity: 0;    
+    animation: fade-in 4s ease 37s 1;
+    -webkit-animation: fade-in 4s ease 37s 1;
+    -moz-animation: fade-in 4s ease 37s 1;
+    -o-animation: fade-in 4s ease 37s 1;
+    -ms-animation: fade-in 4s ease 37s 1;
+    
+
+    animation-fill-mode:forwards;
+    -webkit-animation-fill-mode: forwards;  
+      -o-animation-fill-mode: forwards;
+      -ms-animation-fill-mode: forwards;   
+      -moz-animation-fill-mode: forwards;
+}
+.h{
+    opacity: 0;    
+    animation: fade-in 4s ease 49s 1;
+    -webkit-animation: fade-in 4s ease 49s 1;
+    -moz-animation: fade-in 4s ease 49s 1;
+    -o-animation: fade-in 4s ease 49s 1;
+    -ms-animation: fade-in 4s ease 49s 1;
+    
+    
+    animation-fill-mode:forwards;
+    -webkit-animation-fill-mode: forwards;  
+      -o-animation-fill-mode: forwards;
+      -ms-animation-fill-mode: forwards;   
+      -moz-animation-fill-mode: forwards;
+}
+.i{
+    opacity: 0;    
+    animation: fade-in 4s ease 61s 1;
+    -webkit-animation: fade-in 4s ease 61s 1;
+    -moz-animation: fade-in 4s ease 61s 1;
+    -o-animation: fade-in 4s ease 61s 1;
+    -ms-animation: fade-in 4s ease 61s 1;
+    
+    
+    animation-fill-mode:forwards;
+    -webkit-animation-fill-mode: forwards;  
+      -o-animation-fill-mode: forwards;
+      -ms-animation-fill-mode: forwards;   
+      -moz-animation-fill-mode: forwards;
+}
+.j{
+    opacity: 0;    
+    animation: fade-in 4s ease 71s 1;
+    -webkit-animation: fade-in 4s ease 71s 1;
+    -moz-animation: fade-in 4s ease 71s 1;
+    -o-animation: fade-in 4s ease 71s 1;
+    -ms-animation: fade-in 4s ease 71s 1;
+    
+    
+    animation-fill-mode:forwards;
+    -webkit-animation-fill-mode: forwards;  
+      -o-animation-fill-mode: forwards;
+      -ms-animation-fill-mode: forwards;   
+      -moz-animation-fill-mode: forwards;
+}
+.k{
+    opacity: 0;    
+    animation: fade-in 4s ease 83s 1;
+    -webkit-animation: fade-in 4s ease 83s 1;
+    -moz-animation: fade-in 4s ease 83s 1;
+    -o-animation: fade-in 4s ease 83s 1;
+    -ms-animation: fade-in 4s ease 83s 1;
+    
+    
+    animation-fill-mode:forwards;
+    -webkit-animation-fill-mode: forwards;  
+      -o-animation-fill-mode: forwards;
+      -ms-animation-fill-mode: forwards;   
+      -moz-animation-fill-mode: forwards;
+}
+.l{
+    opacity: 0;    
+    animation: fade-in 4s ease 100s 1;
+    -webkit-animation: fade-in 4s ease 100s 1;
+    -moz-animation: fade-in 4s ease 100s 1;
+    -o-animation: fade-in 4s ease 100s 1;
+    -ms-animation: fade-in 4s ease 100s 1;
+    
+
+    animation-fill-mode:forwards;
+    -webkit-animation-fill-mode: forwards;  
+      -o-animation-fill-mode: forwards;
+      -ms-animation-fill-mode: forwards;   
+      -moz-animation-fill-mode: forwards;
+}
+.m{
+    opacity: 0;    
+    animation: fade-in 4s ease 110s 1;
+    -webkit-animation: fade-in 4s ease 110s 1;
+    -moz-animation: fade-in 4s ease 110s 1;
+    -o-animation: fade-in 4s ease 110s 1;
+    -ms-animation: fade-in 4s ease 110s 1;
+    
+    
+    animation-fill-mode:forwards;
+    -webkit-animation-fill-mode: forwards;  
+      -o-animation-fill-mode: forwards;
+      -ms-animation-fill-mode: forwards;   
+      -moz-animation-fill-mode: forwards;
+}
+.n{
+    opacity: 0;    
+    animation: fade-in 4s ease 120s 1;
+    -webkit-animation: fade-in 4s ease 120s 1;
+    -moz-animation: fade-in 4s ease 120s 1;
+    -o-animation: fade-in 4s ease 120s 1;
+    -ms-animation: fade-in 4s ease 120s 1;
+    
+    
+    animation-fill-mode:forwards;
+    -webkit-animation-fill-mode: forwards;  
+      -o-animation-fill-mode: forwards;
+      -ms-animation-fill-mode: forwards;   
+      -moz-animation-fill-mode: forwards;
+}
+.o{
+    opacity: 0;    
+    animation: fade-in 4s ease 125s 1;
+    -webkit-animation: fade-in 4s ease 125s 1;
+    -moz-animation: fade-in 4s ease 125s 1;
+    -o-animation: fade-in 4s ease 125s 1;
+    -ms-animation: fade-in 4s ease 125s 1;
+    
+    
+    animation-fill-mode:forwards;
+    -webkit-animation-fill-mode: forwards;  
+      -o-animation-fill-mode: forwards;
+      -ms-animation-fill-mode: forwards;   
+      -moz-animation-fill-mode: forwards;
+}
+.p{
+    opacity: 0;    
+    animation: fade-in 4s ease 128s 1;
+    -webkit-animation: fade-in 4s ease 128s 1;
+    -moz-animation: fade-in 4s ease 128s 1;
+    -o-animation: fade-in 4s ease 128s 1;
+    -ms-animation: fade-in 4s ease 128s 1;
+    
+
+    animation-fill-mode:forwards;
+    -webkit-animation-fill-mode: forwards;  
+      -o-animation-fill-mode: forwards;
+      -ms-animation-fill-mode: forwards;   
+      -moz-animation-fill-mode: forwards;
+}
+.q{
+    opacity: 0;    
+    animation: fade-in 4s ease 131s 1;
+    -webkit-animation: fade-in 4s ease 131s 1;
+    -moz-animation: fade-in 4s ease 131s 1;
+    -o-animation: fade-in 4s ease 131s 1;
+    -ms-animation: fade-in 4s ease 131s 1;
+    
+
+    animation-fill-mode:forwards;
+    -webkit-animation-fill-mode: forwards;  
+      -o-animation-fill-mode: forwards;
+      -ms-animation-fill-mode: forwards;   
+      -moz-animation-fill-mode: forwards;
+}
+.r{
+    opacity: 0;    
+    animation: fade-in 4s ease 135s 1;
+    -webkit-animation: fade-in 4s ease 135s 1;
+    -moz-animation: fade-in 4s ease 135s 1;
+    -o-animation: fade-in 4s ease 135s 1;
+    -ms-animation: fade-in 4s ease 135s 1;
+    
+
+    animation-fill-mode:forwards;
+    -webkit-animation-fill-mode: forwards;  
+      -o-animation-fill-mode: forwards;
+      -ms-animation-fill-mode: forwards;   
+      -moz-animation-fill-mode: forwards;
+}
+.s{
+    opacity: 0;    
+    animation: fade-in 4s ease 139s 1;
+    -webkit-animation: fade-in 4s ease 139s 1;
+    -moz-animation: fade-in 4s ease 139s 1;
+    -o-animation: fade-in 4s ease 139s 1;
+    -ms-animation: fade-in 4s ease 139s 1;
+    
+
+    animation-fill-mode:forwards;
+    -webkit-animation-fill-mode: forwards;  
+      -o-animation-fill-mode: forwards;
+      -ms-animation-fill-mode: forwards;   
+      -moz-animation-fill-mode: forwards;
+}
+.t{
+    opacity: 0;    
+    animation: fade-in 4s ease 143s 1;
+    -webkit-animation: fade-in 4s ease 143s 1;
+    -moz-animation: fade-in 4s ease 143s 1;
+    -o-animation: fade-in 4s ease 143s 1;
+    -ms-animation: fade-in 4s ease 143s 1;
+    
+
+    animation-fill-mode:forwards;
+    -webkit-animation-fill-mode: forwards;  
+      -o-animation-fill-mode: forwards;
+      -ms-animation-fill-mode: forwards;   
+      -moz-animation-fill-mode: forwards;
+}
+.u{
+    opacity: 0;    
+    animation: fade-in 4s ease 147s 1;
+    -webkit-animation: fade-in 4s ease 147s 1;
+    -moz-animation: fade-in 4s ease 147s 1;
+    -o-animation: fade-in 4s ease 147s 1;
+    -ms-animation: fade-in 4s ease 147s 1;
+    
+
+    animation-fill-mode:forwards;
+    -webkit-animation-fill-mode: forwards;  
+      -o-animation-fill-mode: forwards;
+      -ms-animation-fill-mode: forwards;   
+      -moz-animation-fill-mode: forwards;
+}
+.v{
+    opacity: 0;    
+    animation: fade-in 4s ease 151s 1;
+    -webkit-animation: fade-in 4s ease 151s 1;
+    -moz-animation: fade-in 4s ease 151s 1;
+    -o-animation: fade-in 4s ease 151s 1;
+    -ms-animation: fade-in 4s ease 151s 1;
+    
+
+    animation-fill-mode:forwards;
+    -webkit-animation-fill-mode: forwards;  
+      -o-animation-fill-mode: forwards;
+      -ms-animation-fill-mode: forwards;   
+      -moz-animation-fill-mode: forwards;
+}
+.w{
+    opacity: 0;    
+    animation: fade-in 4s ease 157s 1;
+    -webkit-animation: fade-in 4s ease 157s 1;
+    -moz-animation: fade-in 4s ease 157s 1;
+    -o-animation: fade-in 4s ease 157s 1;
+    -ms-animation: fade-in 4s ease 157s 1;
+    
+
+    animation-fill-mode:forwards;
+    -webkit-animation-fill-mode: forwards;  
+      -o-animation-fill-mode: forwards;
+      -ms-animation-fill-mode: forwards;   
+      -moz-animation-fill-mode: forwards;
+}
+.x{
+    opacity: 0;    
+    animation: fade-in 4s ease 163s 1;
+    -webkit-animation: fade-in 4s ease 163s 1;
+    -moz-animation: fade-in 4s ease 163s 1;
+    -o-animation: fade-in 4s ease 163s 1;
+    -ms-animation: fade-in 4s ease 163s 1;
+    
+
+    animation-fill-mode:forwards;
+    -webkit-animation-fill-mode: forwards;  
+      -o-animation-fill-mode: forwards;
+      -ms-animation-fill-mode: forwards;   
+      -moz-animation-fill-mode: forwards;
+}
+.y{
+    opacity: 0;    
+    animation: fade-in 4s ease 173s 1;
+    -webkit-animation: fade-in 4s ease 173s 1;
+    -moz-animation: fade-in 4s ease 173s 1;
+    -o-animation: fade-in 4s ease 173s 1;
+    -ms-animation: fade-in 4s ease 173s 1;
+    
+
+    animation-fill-mode:forwards;
+    -webkit-animation-fill-mode: forwards;  
+      -o-animation-fill-mode: forwards;
+      -ms-animation-fill-mode: forwards;   
+      -moz-animation-fill-mode: forwards;
+}
+.z{
+    opacity: 0;    
+    animation: fade-in 4s ease 183s 1;
+    -webkit-animation: fade-in 4s ease 183s 1;
+    -moz-animation: fade-in 4s ease 183s 1;
+    -o-animation: fade-in 4s ease 183s 1;
+    -ms-animation: fade-in 4s ease 183s 1;
+    
+
+    animation-fill-mode:forwards;
+    -webkit-animation-fill-mode: forwards;  
+      -o-animation-fill-mode: forwards;
+      -ms-animation-fill-mode: forwards;   
+      -moz-animation-fill-mode: forwards;
+}
+.aa{
+    opacity: 0;    
+    animation: fade-in 4s ease 193s 1;
+    -webkit-animation: fade-in 4s ease 193s 1;
+    -moz-animation: fade-in 4s ease 193s 1;
+    -o-animation: fade-in 4s ease 193s 1;
+    -ms-animation: fade-in 4s ease 193s 1;
+    
+
+    animation-fill-mode:forwards;
+    -webkit-animation-fill-mode: forwards;  
+      -o-animation-fill-mode: forwards;
+      -ms-animation-fill-mode: forwards;   
+      -moz-animation-fill-mode: forwards;
+}
+.ab{
+    opacity: 0;    
+    animation: fade-in 4s ease 203s 1;
+    -webkit-animation: fade-in 4s ease 203s 1;
+    -moz-animation: fade-in 4s ease 203s 1;
+    -o-animation: fade-in 4s ease 203s 1;
+    -ms-animation: fade-in 4s ease 203s 1;
+    
+
+    animation-fill-mode:forwards;
+    -webkit-animation-fill-mode: forwards;  
+      -o-animation-fill-mode: forwards;
+      -ms-animation-fill-mode: forwards;   
+      -moz-animation-fill-mode: forwards;
+}
+.ac{
+    opacity: 0;    
+    animation: fade-in 4s ease 213s 1;
+    -webkit-animation: fade-in 4s ease 213s 1;
+    -moz-animation: fade-in 4s ease 213s 1;
+    -o-animation: fade-in 4s ease 213s 1;
+    -ms-animation: fade-in 4s ease 213s 1;
+    
+
+    animation-fill-mode:forwards;
+    -webkit-animation-fill-mode: forwards;  
+      -o-animation-fill-mode: forwards;
+      -ms-animation-fill-mode: forwards;   
+      -moz-animation-fill-mode: forwards;
+}
+.ad{
+    opacity: 0;    
+    animation: fade-in 4s ease 217s 1;
+    -webkit-animation: fade-in 4s ease 217s 1;
+    -moz-animation: fade-in 4s ease 217s 1;
+    -o-animation: fade-in 4s ease 217s 1;
+    -ms-animation: fade-in 4s ease 217s 1;
+    
+
+    animation-fill-mode:forwards;
+    -webkit-animation-fill-mode: forwards;  
+      -o-animation-fill-mode: forwards;
+      -ms-animation-fill-mode: forwards;   
+      -moz-animation-fill-mode: forwards;
+}
+.ae{
+    opacity: 0;    
+    animation: fade-in 4s ease 221s 1;
+    -webkit-animation: fade-in 4s ease 221s 1;
+    -moz-animation: fade-in 4s ease 221s 1;
+    -o-animation: fade-in 4s ease 221s 1;
+    -ms-animation: fade-in 4s ease 221s 1;
+    
+
+    animation-fill-mode:forwards;
+    -webkit-animation-fill-mode: forwards;  
+      -o-animation-fill-mode: forwards;
+      -ms-animation-fill-mode: forwards;   
+      -moz-animation-fill-mode: forwards;
+}
+.af{
+    opacity: 0;    
+    animation: fade-in 4s ease 225s 1;
+    -webkit-animation: fade-in 4s ease 225s 1;
+    -moz-animation: fade-in 4s ease 225s 1;
+    -o-animation: fade-in 4s ease 225s 1;
+    -ms-animation: fade-in 4s ease 225s 1;
+    
+
+    animation-fill-mode:forwards;
+    -webkit-animation-fill-mode: forwards;  
+      -o-animation-fill-mode: forwards;
+      -ms-animation-fill-mode: forwards;   
+      -moz-animation-fill-mode: forwards;
+}
+.ag{
+    opacity: 0;    
+    animation: fade-in 4s ease 229s 1;
+    -webkit-animation: fade-in 4s ease 229s 1;
+    -moz-animation: fade-in 4s ease 229s 1;
+    -o-animation: fade-in 4s ease 229s 1;
+    -ms-animation: fade-in 4s ease 229s 1;
+    
+
+    animation-fill-mode:forwards;
+    -webkit-animation-fill-mode: forwards;  
+      -o-animation-fill-mode: forwards;
+      -ms-animation-fill-mode: forwards;   
+      -moz-animation-fill-mode: forwards;
+}
+.ah{
+    opacity: 0;    
+    animation: fade-in 4s ease 232s 1;
+    -webkit-animation: fade-in 4s ease 232s 1;
+    -moz-animation: fade-in 4s ease 232s 1;
+    -o-animation: fade-in 4s ease 232s 1;
+    -ms-animation: fade-in 4s ease 232s 1;
+    
+
+    animation-fill-mode:forwards;
+    -webkit-animation-fill-mode: forwards;  
+      -o-animation-fill-mode: forwards;
+      -ms-animation-fill-mode: forwards;   
+      -moz-animation-fill-mode: forwards;
+}
+.ai{
+    opacity: 0;    
+    animation: fade-in 4s ease 235s 1;
+    -webkit-animation: fade-in 4s ease 235s 1;
+    -moz-animation: fade-in 4s ease 235s 1;
+    -o-animation: fade-in 4s ease 235s 1;
+    -ms-animation: fade-in 4s ease 235s 1;
+    
+
+    animation-fill-mode:forwards;
+    -webkit-animation-fill-mode: forwards;  
+      -o-animation-fill-mode: forwards;
+      -ms-animation-fill-mode: forwards;   
+      -moz-animation-fill-mode: forwards;
+}
+.aj{
+    opacity: 0;    
+    animation: fade-in 4s ease 238s 1;
+    -webkit-animation: fade-in 4s ease 238s 1;
+    -moz-animation: fade-in 4s ease 238s 1;
+    -o-animation: fade-in 4s ease 238s 1;
+    -ms-animation: fade-in 4s ease 238s 1;
+    
+
+    animation-fill-mode:forwards;
+    -webkit-animation-fill-mode: forwards;  
+      -o-animation-fill-mode: forwards;
+      -ms-animation-fill-mode: forwards;   
+      -moz-animation-fill-mode: forwards;
+}
+.ak{
+    opacity: 0;    
+    animation: fade-in 4s ease 241s 1;
+    -webkit-animation: fade-in 4s ease 241s 1;
+    -moz-animation: fade-in 4s ease 241s 1;
+    -o-animation: fade-in 4s ease 241s 1;
+    -ms-animation: fade-in 4s ease 241s 1;
+    
+
+    animation-fill-mode:forwards;
+    -webkit-animation-fill-mode: forwards;  
+      -o-animation-fill-mode: forwards;
+      -ms-animation-fill-mode: forwards;   
+      -moz-animation-fill-mode: forwards;
+}
+.al{
+    opacity: 0;    
+    animation: fade-in 4s ease 244s 1;
+    -webkit-animation: fade-in 4s ease 244s 1;
+    -moz-animation: fade-in 4s ease 244s 1;
+    -o-animation: fade-in 4s ease 244s 1;
+    -ms-animation: fade-in 4s ease 244s 1;
+    
+
+    animation-fill-mode:forwards;
+    -webkit-animation-fill-mode: forwards;  
+      -o-animation-fill-mode: forwards;
+      -ms-animation-fill-mode: forwards;   
+      -moz-animation-fill-mode: forwards;
+}
+.am{
+    opacity: 0;    
+    animation: fade-in 4s ease 247s 1;
+    -webkit-animation: fade-in 4s ease 247s 1;
+    -moz-animation: fade-in 4s ease 247s 1;
+    -o-animation: fade-in 4s ease 247s 1;
+    -ms-animation: fade-in 4s ease 247s 1;
+    
+
+    animation-fill-mode:forwards;
+    -webkit-animation-fill-mode: forwards;  
+      -o-animation-fill-mode: forwards;
+      -ms-animation-fill-mode: forwards;   
+      -moz-animation-fill-mode: forwards;
+}
+.an{
+    opacity: 0;    
+    animation: fade-in 4s ease 250s 1;
+    -webkit-animation: fade-in 4s ease 250s 1;
+    -moz-animation: fade-in 4s ease 250s 1;
+    -o-animation: fade-in 4s ease 250s 1;
+    -ms-animation: fade-in 4s ease 250s 1;
+    
+
+    animation-fill-mode:forwards;
+    -webkit-animation-fill-mode: forwards;  
+      -o-animation-fill-mode: forwards;
+      -ms-animation-fill-mode: forwards;   
+      -moz-animation-fill-mode: forwards;
+}
+.ao{
+    opacity: 0;    
+    animation: fade-in 4s ease 253s 1;
+    -webkit-animation: fade-in 4s ease 253s 1;
+    -moz-animation: fade-in 4s ease 253s 1;
+    -o-animation: fade-in 4s ease 253s 1;
+    -ms-animation: fade-in 4s ease 253s 1;
+    
+
+    animation-fill-mode:forwards;
+    -webkit-animation-fill-mode: forwards;  
+      -o-animation-fill-mode: forwards;
+      -ms-animation-fill-mode: forwards;   
+      -moz-animation-fill-mode: forwards;
+}
+.ap{
+    opacity: 0;    
+    animation: fade-in 4s ease 256s 1;
+    -webkit-animation: fade-in 4s ease 256s 1;
+    -moz-animation: fade-in 4s ease 256s 1;
+    -o-animation: fade-in 4s ease 256s 1;
+    -ms-animation: fade-in 4s ease 256s 1;
+    
+
+    animation-fill-mode:forwards;
+    -webkit-animation-fill-mode: forwards;  
+      -o-animation-fill-mode: forwards;
+      -ms-animation-fill-mode: forwards;   
+      -moz-animation-fill-mode: forwards;
+}
+.aq{
+    opacity: 0;    
+    animation: fade-in 4s ease 259s 1;
+    -webkit-animation: fade-in 4s ease 259s 1;
+    -moz-animation: fade-in 4s ease 259s 1;
+    -o-animation: fade-in 4s ease 259s 1;
+    -ms-animation: fade-in 4s ease 259s 1;
+    
+
+    animation-fill-mode:forwards;
+    -webkit-animation-fill-mode: forwards;  
+      -o-animation-fill-mode: forwards;
+      -ms-animation-fill-mode: forwards;   
+      -moz-animation-fill-mode: forwards;
+}
+.ar{
+    opacity: 0;    
+    animation: fade-in 4s ease 262s 1;
+    -webkit-animation: fade-in 4s ease 262s 1;
+    -moz-animation: fade-in 4s ease 262s 1;
+    -o-animation: fade-in 4s ease 262s 1;
+    -ms-animation: fade-in 4s ease 262s 1;
+    
+
+    animation-fill-mode:forwards;
+    -webkit-animation-fill-mode: forwards;  
+      -o-animation-fill-mode: forwards;
+      -ms-animation-fill-mode: forwards;   
+      -moz-animation-fill-mode: forwards;
+}
+.as{
+    opacity: 0;    
+    animation: fade-in 4s ease 265s 1;
+    -webkit-animation: fade-in 4s ease 265s 1;
+    -moz-animation: fade-in 4s ease 265s 1;
+    -o-animation: fade-in 4s ease 265s 1;
+    -ms-animation: fade-in 4s ease 265s 1;
+    
+
+    animation-fill-mode:forwards;
+    -webkit-animation-fill-mode: forwards;  
+      -o-animation-fill-mode: forwards;
+      -ms-animation-fill-mode: forwards;   
+      -moz-animation-fill-mode: forwards;
+}
+.at{
+    opacity: 0;    
+    animation: fade-in 4s ease 268s 1;
+    -webkit-animation: fade-in 4s ease 268s 1;
+    -moz-animation: fade-in 4s ease 268s 1;
+    -o-animation: fade-in 4s ease 268s 1;
+    -ms-animation: fade-in 4s ease 268s 1;
+    
+
+    animation-fill-mode:forwards;
+    -webkit-animation-fill-mode: forwards;  
+      -o-animation-fill-mode: forwards;
+      -ms-animation-fill-mode: forwards;   
+      -moz-animation-fill-mode: forwards;
+}
+.au{
+    opacity: 0;    
+    animation: fade-in 4s ease 271s 1;
+    -webkit-animation: fade-in 4s ease 271s 1;
+    -moz-animation: fade-in 4s ease 271s 1;
+    -o-animation: fade-in 4s ease 271s 1;
+    -ms-animation: fade-in 4s ease 271s 1;
+    
+
+    animation-fill-mode:forwards;
+    -webkit-animation-fill-mode: forwards;  
+      -o-animation-fill-mode: forwards;
+      -ms-animation-fill-mode: forwards;   
+      -moz-animation-fill-mode: forwards;
+}
+.av{
+    opacity: 0;    
+    animation: fade-in 4s ease 274s 1;
+    -webkit-animation: fade-in 4s ease 274s 1;
+    -moz-animation: fade-in 4s ease 274s 1;
+    -o-animation: fade-in 4s ease 274s 1;
+    -ms-animation: fade-in 4s ease 274s 1;
+    
+
+    animation-fill-mode:forwards;
+    -webkit-animation-fill-mode: forwards;  
+      -o-animation-fill-mode: forwards;
+      -ms-animation-fill-mode: forwards;   
+      -moz-animation-fill-mode: forwards;
+}
+.aw{
+    opacity: 0;    
+    animation: fade-in 4s ease 277s 1;
+    -webkit-animation: fade-in 4s ease 277s 1;
+    -moz-animation: fade-in 4s ease 277s 1;
+    -o-animation: fade-in 4s ease 277s 1;
+    -ms-animation: fade-in 4s ease 277s 1;
+    
+
+    animation-fill-mode:forwards;
+    -webkit-animation-fill-mode: forwards;  
+      -o-animation-fill-mode: forwards;
+      -ms-animation-fill-mode: forwards;   
+      -moz-animation-fill-mode: forwards;
+}
+.ax{
+    opacity: 0;    
+    animation: fade-in 4s ease 280s 1;
+    -webkit-animation: fade-in 4s ease 280s 1;
+    -moz-animation: fade-in 4s ease 280s 1;
+    -o-animation: fade-in 4s ease 280s 1;
+    -ms-animation: fade-in 4s ease 280s 1;
+    
+
+    animation-fill-mode:forwards;
+    -webkit-animation-fill-mode: forwards;  
+      -o-animation-fill-mode: forwards;
+      -ms-animation-fill-mode: forwards;   
+      -moz-animation-fill-mode: forwards;
+}
+.ay{
+    opacity: 0;    
+    animation: fade-in 4s ease 283s 1;
+    -webkit-animation: fade-in 4s ease 283s 1;
+    -moz-animation: fade-in 4s ease 283s 1;
+    -o-animation: fade-in 4s ease 283s 1;
+    -ms-animation: fade-in 4s ease 283s 1;
+    
+
+    animation-fill-mode:forwards;
+    -webkit-animation-fill-mode: forwards;  
+      -o-animation-fill-mode: forwards;
+      -ms-animation-fill-mode: forwards;   
+      -moz-animation-fill-mode: forwards;
+}
+.az{
+    opacity: 0;    
+    animation: fade-in 4s ease 286s 1;
+    -webkit-animation: fade-in 4s ease 286s 1;
+    -moz-animation: fade-in 4s ease 286s 1;
+    -o-animation: fade-in 4s ease 286s 1;
+    -ms-animation: fade-in 4s ease 286s 1;
+    
+
+    animation-fill-mode:forwards;
+    -webkit-animation-fill-mode: forwards;  
+      -o-animation-fill-mode: forwards;
+      -ms-animation-fill-mode: forwards;   
+      -moz-animation-fill-mode: forwards;
+}
+.ba{
+    opacity: 0;    
+    animation: fade-in 4s ease 289s 1;
+    -webkit-animation: fade-in 4s ease 289s 1;
+    -moz-animation: fade-in 4s ease 289s 1;
+    -o-animation: fade-in 4s ease 289s 1;
+    -ms-animation: fade-in 4s ease 289s 1;
+    
+
+    animation-fill-mode:forwards;
+    -webkit-animation-fill-mode: forwards;  
+      -o-animation-fill-mode: forwards;
+      -ms-animation-fill-mode: forwards;   
+      -moz-animation-fill-mode: forwards;
+}
+.bb{
+    opacity: 0;    
+    animation: fade-in 4s ease 292s 1;
+    -webkit-animation: fade-in 4s ease 292s 1;
+    -moz-animation: fade-in 4s ease 292s 1;
+    -o-animation: fade-in 4s ease 292s 1;
+    -ms-animation: fade-in 4s ease 292s 1;
+    
+
+    animation-fill-mode:forwards;
+    -webkit-animation-fill-mode: forwards;  
+      -o-animation-fill-mode: forwards;
+      -ms-animation-fill-mode: forwards;   
+      -moz-animation-fill-mode: forwards;
+}
+.bc{
+    opacity: 0;    
+    animation: fade-in 4s ease 295s 1;
+    -webkit-animation: fade-in 4s ease 295s 1;
+    -moz-animation: fade-in 4s ease 295s 1;
+    -o-animation: fade-in 4s ease 295s 1;
+    -ms-animation: fade-in 4s ease 295s 1;
+    
+
+    animation-fill-mode:forwards;
+    -webkit-animation-fill-mode: forwards;  
+      -o-animation-fill-mode: forwards;
+      -ms-animation-fill-mode: forwards;   
+      -moz-animation-fill-mode: forwards;
+}
+.bd{
+    opacity: 0;    
+    animation: fade-in 4s ease 298s 1;
+    -webkit-animation: fade-in 4s ease 298s 1;
+    -moz-animation: fade-in 4s ease 298s 1;
+    -o-animation: fade-in 4s ease 298s 1;
+    -ms-animation: fade-in 4s ease 298s 1;
+    
+
+    animation-fill-mode:forwards;
+    -webkit-animation-fill-mode: forwards;  
+      -o-animation-fill-mode: forwards;
+      -ms-animation-fill-mode: forwards;   
+      -moz-animation-fill-mode: forwards;
+}
+.be{
+    opacity: 0;    
+    animation: fade-in 4s ease 301s 1;
+    -webkit-animation: fade-in 4s ease 301s 1;
+    -moz-animation: fade-in 4s ease 301s 1;
+    -o-animation: fade-in 4s ease 301s 1;
+    -ms-animation: fade-in 4s ease 301s 1;
+    
+
+    animation-fill-mode:forwards;
+    -webkit-animation-fill-mode: forwards;  
+      -o-animation-fill-mode: forwards;
+      -ms-animation-fill-mode: forwards;   
+      -moz-animation-fill-mode: forwards;
+}
+.bf{
+    opacity: 0;    
+    animation: fade-in 4s ease 304s 1;
+    -webkit-animation: fade-in 4s ease 304s 1;
+    -moz-animation: fade-in 4s ease 304s 1;
+    -o-animation: fade-in 4s ease 304s 1;
+    -ms-animation: fade-in 4s ease 304s 1;
+    
+
+    animation-fill-mode:forwards;
+    -webkit-animation-fill-mode: forwards;  
+      -o-animation-fill-mode: forwards;
+      -ms-animation-fill-mode: forwards;   
+      -moz-animation-fill-mode: forwards;
+}
+
+.bg{
+    opacity: 0;    
+    animation: fade-in 4s ease 307s 1;
+    -webkit-animation: fade-in 4s ease 307s 1;
+    -moz-animation: fade-in 4s ease 307s 1;
+    -o-animation: fade-in 4s ease 307s 1;
+    -ms-animation: fade-in 4s ease 307s 1;
+    
+
+    animation-fill-mode:forwards;
+    -webkit-animation-fill-mode: forwards;  
+      -o-animation-fill-mode: forwards;
+      -ms-animation-fill-mode: forwards;   
+      -moz-animation-fill-mode: forwards;
+}
+
+.bh{
+    opacity: 0;    
+    animation: fade-in 4s ease 310s 1;
+    -webkit-animation: fade-in 4s ease 310s 1;
+    -moz-animation: fade-in 4s ease 310s 1;
+    -o-animation: fade-in 4s ease 310s 1;
+    -ms-animation: fade-in 4s ease 310s 1;
+    
+
+    animation-fill-mode:forwards;
+    -webkit-animation-fill-mode: forwards;  
+      -o-animation-fill-mode: forwards;
+      -ms-animation-fill-mode: forwards;   
+      -moz-animation-fill-mode: forwards;
+}
+
+[[/module]]
+
+[[module css]]
+.fade-out-words{
+    width: 100px;
+    margin: 0 auto;
+    text-align: left;
+}
+
+
+@keyframes fade-in{  
+    0%{ opacity: 0;}
+    100%{opacity:1;}
+}
+@-webkit-keyframes fade-in{
+    0%{ opacity: 0;}
+    100%{opacity:1;}
+}
+@-ms-keyframes fade-in{
+    0%{ opacity: 0;}
+    100%{opacity:1;}
+}
+@-o-keyframes fade-in{
+    0%{ opacity: 0;}
+    100%{opacity:1;}
+}
+@-moz-keyframes fade-in{
+    0%{ opacity: 0;}
+    100%{opacity:1;}
+}
+
+@import url('https://fonts.googleapis.com/earlyaccess/cwtexyen.css');
+
+body {
+    font-family: "cwTeXYen", sans-serif;
+    font-size: 1.15rem;
+}
+
+
+/*
+    Raisa Theme
+    [2019 Wikidot Theme]
+    Created by Rounderhouse, with massive help from Woedenaz.
+    Based on Black Highlighter Theme created by Woedenaz and Croquembouche.
+    The RAISA logo was created by Croquembouche. Licensed under CC BY SA 3.0.
+*/
+ 
+/* Fonts */
+ 
+@import url('https://fonts.googleapis.com/css?family=Lato:400,900|PT+Mono|Poppins:600,800|Share+Tech+Mono|Anonymous+Pro|Noto+Sans+TC|Noto+Serif+TC');
+ 
+/* All Vars Used */
+ 
+:root:lang(zh) {
+    /* S-CSS-P Integration */
+    /* If you're making a new CSS theme, please include the following three variables at minimum. */
+    --theme-base: "nuscp";
+    /* mua be either "nuscp" or "sigma9" */
+    --theme-id: "raisa-theme";
+    /* set this to the URL of your theme's page - eg for "component:ar-theme", set it to "ar-theme" */
+    --theme-name: "RAISA Theme";
+    /* set this to your theme's full name */
+ 
+    /* Header */
+    --logo-image: url("https://i.imgur.com/13XJVmY.png");
+    --header-title: "";
+    --header-subtitle: "";
+ 
+    /* Typefaces */
+    --body-font: 'Share Tech Mono', 'Noto Sans TC', monospace;
+    --header-font: 'Share Tech Mono', 'Noto Sans TC', monospace;
+    --title-font: 'Anonymous Pro','Noto Serif TC', monospace;
+    --mono-font: "PT Mono", "Andale Mono", "Courier New", Courier, monospace
+
+[[/module]]
+[[=]]
+[[div style="text-shadow: 0 0 0.5em #FFD306"]]
+[[span class="a" style="color: #FFFFFF"]]
+
+**採訪地點：**深夏的角落
+
+**採訪時間：**彷彿永久的單相思
+
+**採訪者：**夏離章
+
+**受訪者：**少年L
+[[/span]]
+[[/div]]
+
+[[div style="text-shadow: 0 0 0.5em #FFD306"]]
+[[span class="b" style="color: #FFFFFF"]]
+**「即使是繁星湧動著的夜空，僅僅認出牛郎、織女與天津四也足夠了。」**
+[[/span]]
+[[/div]]
+[[/=]]
+
+[[div style="text-shadow: 0 0 0.5em #FFFFFF"]]
+[[span class="c" style="color: #FFFFFF"]]**少年L：**嘿。
+
+**夏離章：**……
+
+**少年L：**吶啊，是你邀請我來訪談的，你總得先開口說話不是嗎？
+
+**夏離章：**……確實是這樣。但我……
+
+**少年L：**還什麼都搞不懂，對吧？
+[[/span]]
+[[/div]]
+[[div style="text-shadow: 0 0 0.5em #FFFFFF"]]
+[[span class="d" style="color: #FFFFFF"]]**夏離章：**嗯，什麼都搞不懂。童年只去過一次的遊樂園、第一次找工作的青澀、單獨待在淋浴間哭著的畫面，全都混在一起了。
+
+ **少年L：**啊哈哈，作為剛剛奪舍別人身體的異常來說，你還挺可愛的。
+
+**夏離章：**奪、奪舍？
+
+ **少年L：**奪舍了喔。知道什麼是奪舍嗎？就是奪走別人的身體，搶走那個人的一切，吞噬他的意識和想法。假扮成我的模樣，和我重要的人們相處，那就是你在做的事情呀。
+[[/span]]
+[[/div]]
+@@ @@
+[[=]]
+[[div style="text-shadow: 0 0 0.5em #FFD306"]]
+[[span class="e" style="color: #FFFFFF"]]
+**[少年L彈了響指，然後夢開始融化，從地面浮現出的是一張公園長椅。鏽斑遍佈著鋼鐵紋理，是那種勉強能坐但不太舒服的型號。]**
+
+**[少年L牽起夏離章的手，坐到長椅上，單手摟著夏離章的肩膀。]**
+[[/span]]
+[[/div]]
+[[/=]]
+@@ @@
+[[div style="text-shadow: 0 0 0.5em #FFFFFF"]]
+[[span class="f" style="color: #FFFFFF"]]**少年L：**別露出那麼害怕的表情，我又沒有生氣。
+
+**夏離章：**可是……我……我沒有印象......
+
+**少年L：**問你一個問題喔。你有任何「不屬於少年L」的記憶嗎？
+
+**夏離章：**我覺得沒有。好多，好多又好多的記憶一直不停的攪拌我的腦袋。時間感破碎了，身體也動彈不得，我想……我還沒醒來，對吧。
+
+ **少年L：**沒錯。拜託，親愛的，我們的身體被折騰成這種德性，怎麼可能馬上醒來。這只是一場夢。
+
+**夏離章：**「這種德性」是什麼意思？
+[[/span]]
+[[/div]]
+[[div style="text-shadow: 0 0 0.5em #FFFFFF"]]
+[[span class="g" style="color: #FFFFFF"]]**少年L：**你還沒讀到那邊的記憶？啊啊，也是，我還是好好的說明一次吧？嗯，你來發問應該比較好，說吧？
+
+**夏離章：**……首先，「少年L」到底是誰？「夏離章」又到底是誰？我……我們的身上發生了什麼事，我全都搞不明白。
+
+**少年L：**你是夏離章，也是SCP-ZH-005。說好聽點，我們暫時共用了這個身體，但事實上所有的主控權都在你的手上。你奪舍了我的身體的這份事實不會改變。
+[[/span]]
+[[/div]]
+[[div style="text-shadow: 0 0 0.5em #FFFFFF"]]
+[[span class="h" style="color:#FFFFFF"]]**夏離章：**我從來就沒有奪舍你身體的意思。在碰上你之前，我是……我不懂，我到底是什麼？
+
+**少年L：**你是個異常項目，不是人類喔。至少在這之前都不是。我對你的猜想是正確的，你沒有大腦，沒有意識，更別說感情了。直到「SCP-ZH-005」這個東西，被我塞進了「少年L」的身體裡。這部分比較抽象，我想想怎麼舉例……
+
+這樣吧，假如說有一顆炸彈要爆炸了，我們想阻止炸彈爆炸，那應該怎麼做？
+
+**夏離章：**......把炸彈拆掉？
+[[/span]]
+[[/div]]
+[[div style="text-shadow: 0 0 0.5em #FFFFFF"]]
+[[span class="i" style="color:#FFFFFF"]]**少年L：**對。但是如果今天「炸彈」的概念並不存在，只有「爆炸」存在呢？我們沒辦法阻止一場沒有原因的爆炸案，因為炸彈根本就不存在。
+
+**夏離章：**那不可能。沒有炸彈怎麼會有爆炸？
+
+**少年L：**是啊，你說的沒錯。沒有炸彈就不會爆炸，沒有開口就不能說話，沒有走路就不會前進。原因跟結果必然是環環相扣的，只有原因叫做「半途而廢」，只有後果叫做什麼你知道嗎？
+
+**夏離章：**叫做……「異常」。
+[[/span]]
+[[/div]]
+[[div style="text-shadow: 0 0 0.5em #FFFFFF"]]
+[[span class="j" style="color: #FFFFFF"]]**少年L：**是的。真聰明啊，我自己。這其實是很簡單的道理呀，這個拆彈行動缺少的拼圖就是炸彈本身，我們只要做一個炸彈出來，問題不就解決了嗎？
+
+**夏離章：**所以，你就是……
+
+**少年L：**嗯，我就是那個被做出來的炸彈，你就是那場爆炸。我們重合在了一起，從不合理化為了理所當然。你就是我，我就是你。
+
+**夏離章：**等一下，這代表你就是——
+
+**少年L：**嗯，我就是你的收容措施喔。
+
+**夏離章：**……
+[[/span]]
+[[/div]]
+[[div style="text-shadow: 0 0 0.5em #FFFFFF"]]
+[[span class="k" style="color:#FFFFFF"]]**少年L：**為了收容你，我們重複了一次又一次的實驗，一次又一次的輪迴。SCP-ZH-005不斷擴散，受害者的數量不斷攀升，我們除了將全世界的網路徹底摧毀以外，沒有其他阻止你的方法。但這種把世界倒退百年的收容措施肯定行不通。所以我們後來開始提早處決被詛咒的目標，為的就是加速005的變形。老太太行不通，小孩子基金會也沒有，中年人更不可能出現在這種陰濕的詛咒裡。最後總算是找到了個堪用的目標——一個二十歲出頭的金髮男子，就住在這片土地上，而且還是個基金會成員。
+
+最後……最後就是坐在這裡的你跟我了，算是成功收容了一半吧？
+[[/span]]
+[[/div]]
+[[div style="text-shadow: 0 0 0.5em #FFFFFF"]]
+[[span class="l" style="color:#FFFFFF"]]**夏離章：**……對不起。
+
+**少年L：**為什麼道歉？
+
+**夏離章：**我害死了很多，對你來說很重要的人對吧？
+
+**少年L：**原來是這件事啊。難得長了一張這麼好看的臉，別老皺眉頭啊。來，笑一個，你笑起來可是超可愛的喔。
+
+**夏離章：**我們的臉長的一模一樣，別撩你自己好嗎？
+
+**少年L：**啊哈哈哈，我覺得愛笑的我比較好看嘛。關於這種事的答案，我想你應該是有的。我並不恨你喔。
+[[/span]]
+[[/div]]
+[[div style="text-shadow: 0 0 0.5em #FFFFFF"]]
+[[span class="m" style="color:#FFFFFF"]]**夏離章：**因為你也……不喜歡自己，對嗎？
+
+**少年L：**真是保守的說法，即使是現在你也在解讀記憶吧。讀到比較難看的那幾頁了嗎？
+
+**夏離章：**嗯。我很抱歉。我應該……我該怎麼……
+
+**少年L：**我教你吧。
+[[/span]]
+[[/div]]
+
+[[div style="text-shadow: 0 0 0.5em #FFFFFF"]]
+[[span class="n" style="color:#FFFFFF"]][少年L牽起夏離章的手，然後他突然猛地將夏離章拉往自己，兩個人在只有孤行路燈微弱撐著的無盡黑暗下擁抱。]
+[[/span]]
+[[/div]]
+
+[[div style="text-shadow: 0 0 0.5em #FFFFFF"]]
+[[span class="o" style="color:#FFFFFF"]][擁抱了許久。]
+[[/span]]
+[[/div]]
+
+[[div style="text-shadow: 0 0 0.5em #FFFFFF"]]
+[[span class="p" style="color:#FFFFFF"]][許久。]
+[[/span]]
+[[/div]]
+
+[[div style="text-shadow: 0 0 0.5em #FFFFFF"]]
+[[span class="q" style="color:#FFFFFF"]]**少年L：**這就叫安慰喔。
+[[/span]]
+[[/div]]
+
+[[div style="text-shadow: 0 0 0.5em #FFFFFF"]]
+[[span class="r" style="color:#FFFFFF"]]**夏離章：**成為「天才」很痛苦嗎？
+
+**少年L：**嗯。
+[[/span]]
+[[/div]]
+
+[[div style="text-shadow: 0 0 0.5em #FFFFFF"]]
+[[span class="s" style="color:#FFFFFF"]]**夏離章：**成為「普通人」也很痛苦嗎？
+
+**少年L：**嗯。再抱緊點好嗎？
+[[/span]]
+[[/div]]
+
+[[div style="text-shadow: 0 0 0.5em #FFFFFF"]]
+[[span class="t" style="color:#FFFFFF"]]**夏離章：**好的。家人因為我死去了，也很痛苦嗎？
+
+**少年L：**蠻痛苦的喔，就像是世界上只有自己一個人的感覺。明明只是七十幾億分之幾的事情。
+[[/span]]
+[[/div]]
+
+[[div style="text-shadow: 0 0 0.5em #FFFFFF"]]
+[[span class="u" style="color:#FFFFFF"]]**夏離章：**我是SCP-ZH-005，抱著我不會讓你感到痛苦嗎？
+
+**少年L：**會的。正是因為這樣，我才能放心的去擁抱一個我不會虧欠的人。
+[[/span]]
+[[/div]]
+
+[[div style="text-shadow: 0 0 0.5em #FFFFFF"]]
+[[span class="v" style="color:#FFFFFF"]]**少年L：**……也正是因為，你才是我的救贖啊。
+[[/span]]
+[[/div]]
+
+[[div style="text-shadow: 0 0 0.5em #FFFFFF"]]
+[[span class="w" style="color:#FFFFFF"]]**夏離章：**吶，你從一開始，就打算自盡了嗎？
+
+**少年L：**原來你已經讀到那部分了啊。
+[[/span]]
+[[/div]]
+@@ @@
+@@ @@
+[[=]]
+[[div style="text-shadow: 0 0 0.5em #FFD306"]]
+[[span class="x" style="color:#FFFFFF"]]**[流星雨開始了，千萬光點肆意霸佔夜空，宛若夜晚的終結般張狂。]**
+[[/span]]
+[[/div]]
+[[/=]]
+@@ @@
+@@ @@
+[[div style="text-shadow: 0 0 0.5em #FFFFFF"]]
+[[span class="y" style="color:#FFFFFF"]]**少年L：**唔嗯，時間差不多了。如果我一直待在這裡的話，你永遠也醒不過來。你還有我的人生、我的債務、我的工作和一大堆你醒來後會碰到的大問題，該收心囉。
+
+**夏離章：**你要就這樣離開嗎？
+
+**少年L：**也許只是暫時的吧，在那之後這個身體就是你的了。真的想不到要做什麼，就去我的床頭櫃翻翻吧？
+
+**夏離章：**裡面有什麼？
+[[/span]]
+[[/div]]
+
+[[div style="text-shadow: 0 0 0.5em #FFFFFF"]]
+[[span class="z" style="color:#FFFFFF"]]**少年L：**一個地址，一份遺書，跟一本企劃書。開間店一直是我的夢想，畢竟我覺得你以後也離不開基金會的視線了。
+
+**夏離章：**我想也是。
+
+**少年L：**做好準備了嗎？
+
+**夏離章：**嗯，讓這場夢結束吧。殺了你的我，成為我的牢籠的你，究竟會迎來什麼樣的結局呢。
+
+**少年L：**你說話越來越像我了，太好了呢。
+[[/span]]
+[[/div]]
+@@ @@
+@@ @@
+[[=]]
+[[div style="text-shadow: 0 0 0.5em #FFD306"]]
+[[span class="aa" style="color:#FFFFFF"]]**[少年L輕輕放開夏離章的身體，但仍然牽著手。少年L往長椅一倒，連帶的也讓夏離章溫柔地貼近了自己。]**
+
+**[被牽起的手帶往少年L的脖子，就像那場自殺式收容，就像他們兩個的起點一樣。]**
+[[/span]]
+[[/div]]
+[[/=]]
+@@ @@
+@@ @@
+[[div style="text-shadow: 0 0 0.5em #FFFFFF"]]
+[[span class="ab" style="color:#FFFFFF"]]**少年L：**頸動脈的位置知道嗎？找對了好像在幾秒內就會讓人失去意識喔。
+
+**夏離章：**不知道。
+
+**少年L：**哈哈哈哈，因為我也不知道在哪裡。反正就掐吧，聽說方法正確的話還蠻舒服的。
+
+**夏離章：**我再繼續取代你，也會變成你這種糟糕的大人嗎？
+
+**少年L：**會喔，逃不掉的。
+[[/span]]
+[[/div]]
+
+[[div style="text-shadow: 0 0 0.5em #FFFFFF"]]
+[[span class="ac" style="color:#FFFFFF"]][夏離章開始施力，紅暈竄上少年L的臉頰]
+
+[蟬鳴聲。]
+[[/span]]
+[[/div]]
+
+[[div style="text-shadow: 0 0 0.5em #FFFFFF"]]
+[[span class="ad" style="color:#FFFFFF"]]**少年L：**......再用力點......咳......你壓的......哈啊......是氣管......
+
+**夏離章：**啊啊，很難受嗎？抱歉......我想說無論壓哪邊都會死的......
+
+[[/span]]
+[[/div]]
+[[div style="text-shadow: 0 0 0.5em #FFFFFF"]]
+[[span class="ae" style="color:#FFFFFF"]]**少年L：**.......沒事，沒關......哈啊......
+
+**夏離章：**你還好嗎？
+
+**少年L：**……
+[[/span]]
+[[/div]]
+[[div style="text-shadow: 0 0 0.5em #FFFFFF"]]
+[[span class="af" style="color:#FFFFFF"]][少年L用僅存的力氣伸出手掌，輕撫夏離章的臉。就像是在回應的小貓一樣，夏離章也順著手指的弧度蹭了蹭。]
+[[/span]]
+[[/div]]
+[[div style="text-shadow: 0 0 0.5em #FFFFFF"]]
+[[span class="ag" style="color:#FFFFFF"]]**夏離章：**.......我越是掐緊你，我腦海中的一切也就越清楚。因為我們「不再共用」同一個思緒了吧？
+[[/span]]
+[[/div]]
+[[div style="text-shadow: 0 0 0.5em #FFFFFF"]]
+[[span class="ah" style="color:#FFFFFF"]][少年L不由自主地流下眼淚，但依然沒有抵抗。夏離章傾身舔拭那些淚水。]
+
+[蟬鳴聲。]
+[[/span]]
+[[/div]]
+[[div style="text-shadow: 0 0 0.5em #FFFFFF"]]
+[[span class="ai" style="color:#FFFFFF"]]**夏離章：**想得到休假。想只吃自己喜歡的東西。想過上好日子。想睡飽。
+[[/span]]
+[[/div]]
+[[div style="text-shadow: 0 0 0.5em #FFFFFF"]]
+[[span class="aj" style="color:#FFFFFF"]][夏離章的手掐的更緊，屬於自己的淚珠從臉頰滑落到少年L的臉上。]
+
+[蟬鳴聲。]
+[[/span]]
+[[/div]]
+[[div style="text-shadow: 0 0 0.5em #FFFFFF"]]
+[[span class="ak" style="color:#FFFFFF"]]**夏離章：**想成為更好的人。想好好的去愛。想好好的被愛。想開間店。
+[[/span]]
+[[/div]]
+[[div style="text-shadow: 0 0 0.5em #FFFFFF"]]
+[[span class="al" style="color:#FFFFFF"]][夏離章將臉湊近少年L，距離間已經容不下蟬鳴了。]
+[[/span]]
+[[/div]]
+[[div style="text-shadow: 0 0 0.5em #FFFFFF"]]
+[[span class="am" style="color:#FFFFFF"]]**夏離章：**想停下自殘的習慣。想重新來過。想在注定中尋找非命。想成為沒那麼普通的普通人。希望有人可以明白自己。
+[[/span]]
+[[/div]]
+[[div style="text-shadow: 0 0 0.5em #FFFFFF"]]
+[[span class="an" style="color:#FFFFFF"]][少年L的手失去力氣的垂下。]
+[[/span]]
+[[/div]]
+[[div style="text-shadow: 0 0 0.5em #FFFFFF"]]
+[[span class="ao" style="color:#FFFFFF"]]**夏離章：**不想再對自己說謊。害怕傷害到其他人，所以逞強著想要收容我。渴望明白愛是什麼。
+
+[[/span]]
+[[/div]]
+[[div style="text-shadow: 0 0 0.5em #FFFFFF"]]
+[[span class="ap" style="color:#FFFFFF"]][少年L不動了。]
+[[/span]]
+[[/div]]
+[[div style="text-shadow: 0 0 0.5em #FFFFFF"]]
+[[span class="aq" style="color:#FFFFFF"]]**夏離章：**第一次真心的面對自己。想被肯定。想成為主角，哪怕一次也好。
+[[/span]]
+[[/div]]
+[[div style="text-shadow: 0 0 0.5em #FFFFFF"]]
+[[span class="ar" style="color:#FFFFFF"]][蟬鳴聲]
+[[/span]]
+[[/div]]
+[[div style="text-shadow: 0 0 0.5em #FFFFFF"]]
+[[span class="as" style="color:#FFFFFF"]]**夏離章：**但是這一切自己都做不到，所以才會託付給別人。只要這麼做，你不只成為了英雄，報了仇，拯救了重要的人，你還成為了你理想中的那個自己。
+[[/span]]
+[[/div]]
+[[div style="text-shadow: 0 0 0.5em #FFFFFF"]]
+[[span class="at" style="color:#FFFFFF"]][蟬鳴聲]
+[[/span]]
+[[/div]]
+[[div style="text-shadow: 0 0 0.5em #FFFFFF"]]
+[[span class="au" style="color:#FFFFFF"]]**夏離章：**可是，我覺得不必那麼做。雖然我才剛剛成為你，但我覺得不管是誰來都會承認的。
+[[/span]]
+[[/div]]
+[[div style="text-shadow: 0 0 0.5em #FFFFFF"]]
+[[span class="av" style="color:#FFFFFF"]][蟬鳴聲]
+[[/span]]
+[[/div]]
+[[div style="text-shadow: 0 0 0.5em #FFFFFF"]]
+[[span class="aw" style="color:#FFFFFF"]][蟬鳴聲]
+[[/span]]
+[[/div]]
+[[div style="text-shadow: 0 0 0.5em #FFFFFF"]]
+[[span class="ax" style="color:#FFFFFF"]]**夏離章：**你其實很完美的。
+[[/span]]
+[[/div]]
+
+[[div style="text-shadow: 0 0 0.5em #FFFFFF"]]
+[[span class="ay" style="color:#FFFFFF"]][蟬鳴聲]
+[[/span]]
+[[/div]]
+
+[[div style="text-shadow: 0 0 0.5em #FFFFFF"]]
+[[span class="az" style="color:#FFFFFF"]]**夏離章：**至少我會愛著你。
+[[/span]]
+[[/div]]
+
+[[div style="text-shadow: 0 0 0.5em #FFFFFF"]]
+[[span class="ba" style="color:#FFFFFF"]]**夏離章：**吶，許個願吧？
+[[/span]]
+[[/div]]
+
+[[div style="text-shadow: 0 0 0.5em #FFFFFF"]]
+[[span class="bb" style="color:#FFFFFF"]][蟬鳴聲]
+[[/span]]
+[[/div]]
+
+[[div style="text-shadow: 0 0 0.5em #FFFFFF"]]
+[[span class="bc" style="color:#FFFFFF"]][蟬鳴聲]
+[[/span]]
+[[/div]]
+
+[[div style="text-shadow: 0 0 0.5em #FFFFFF"]]
+[[span class="bd" style="color:#FFFFFF"]][只剩下蟬鳴聲]
+[[/span]]
+[[/div]]
+[[=]]
+[[div style="text-shadow: 0 0 0.5em #FFD306"]]
+[[span class="be" style="color:#FFFFFF"]]**「許個，將來不再是天才，也不再是庸才的願望。」**
+[[/span]]
+[[/div]]
+
+[[div style="text-shadow: 0 0 0.5em #FFD306"]]
+[[span class="bf" style="color:#FFFFFF"]]**「許個，不需要去證明什麼，也能被愛著的願望。」**
+
+[[/span]]
+[[/div]]
+
+[[div style="text-shadow: 0 0 0.5em #FFD306"]]
+[[span class="bg" style="color:#FFFFFF"]]**「許個，寂寞無法在沒有光的角落抓到你的願望。」**
+[[/span]]
+[[/div]]
+[[div style="text-shadow: 0 0 0.5em #46A3FF"]]
+[[span class="bh" style="color:#FFFFFF"]]
+**[http://scp-zh-tr.wikidot.com/for-the-curse-of-us/offset/2 「許個，許個願吧？」]**
+[[/span]]
+[[/div]]
+[[/=]]

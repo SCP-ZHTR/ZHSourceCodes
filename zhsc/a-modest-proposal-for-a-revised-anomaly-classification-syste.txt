@@ -1,0 +1,523 @@
+[[include info:start]]
+原文：[https://scp-wiki.wikidot.com/a-modest-proposal-for-a-revised-anomaly-classification-syste/ A Modest Proposal for A Revised Anomaly Classification System] 異常分類系統修訂商榷
+作者：[[*user Djoric]]
+譯者：[[*user Frederica Bernkastel]]
+[[include info:end]]
+
+[[module css]]
+/* Fix for mobile */
+.mobile{overflow-x:auto}
+[[/module]]
+
+[[include :scp-zh-tr:theme:black-highlighter-theme]]
+[[include :scp-zh-tr:component:betterfootnotes]]
+[[include :scp-zh-tr:component:discord-chat-source |inc-source= --]]]
+
+[[include :scp-zh-tr:component:discord-chat-source |inc-user= --]
+|user-id=one
+|username=Munsch, David
+|usericon=
+|usercolor=#8093F1
+]]
+[[include :scp-zh-tr:component:discord-chat-source |inc-user= --]
+|user-id=two
+|username= Ross, Tamika
+|usericon=
+|usercolor=#EE6C4D
+]]
+[[include :scp-zh-tr:component:discord-chat-source |inc-user= --]
+|user-id=three
+|username= LaRoche, Jessie
+|usericon=
+|usercolor=#967AB8
+]]
+[[include :scp-zh-tr:component:discord-chat-source |inc-user= --]
+|user-id=four
+|username= Wheeler, Doug
+|usericon=
+|usercolor=#93E1D8
+]]
+
+[[div style="border:solid 1px #999999; background:#f3f3f3; padding:10px; margin-bottom: 10px;"]]
+自：david.munsch@scipnet.87.DCL
+致：mailinglist.s-cplastics@scipnet.87
+主旨：異常分類系統修訂商榷
+-----
+諸位，
+
+誠如你們中的許多人，我在適應近期ACS轉變時也感到諸多不便。基金會分類系統改革早就應該推行，改革擴展了我們描述異常特徵的能力，但這卻犧牲了查閱便利與語言連貫作為代價。在總體上，ACS術語僅有部分主題統一或能透過上下文通曉其含義，宛如ACS是兩個不完整系統拼湊而得一樣。這本身確實是個問題，但這其實還掩蓋住了更大的缺陷。
+
+我們目前面臨的問題並非當前ACS格式太複雜──而是ACS還不夠複雜！就制度層面而言，我們竟仍有能力理解自己的檔案，我無法容忍這樣的謬誤！在我入職基金會的近三十年來，我們採取了怯懦、半吊子的步調，去實現我們完全不可知的偉大命運。我得說，這樣的怯懦持續得夠久了！夠了！到此為止吧！
+
+因此，為了根除我們組織中這個重大缺陷，我要提出以下建議：為將ACS與實用性間最後的聯繫一刀兩斷，我們必須將當中的英語及其剽竊詞彙徹底剔除。我們必須設計出完全專注於將ACS資訊粒度濃縮為資訊一百分，功能性零分的形式語言。
+
+本ACS修訂商榷將精確異常性質及特徵描述編碼化，於其形式中給定粒化的細節，若發生任何誤讀、誤聽、誤字、口音使用、常見音變等形式的變化，受影響細節將會變得毫無連貫可言。
+
+本提案要感謝John Quijada先生開發之Ithkuil語言。我為對Quijada先生大作不熟練之拙劣竄奪表達最誠摯的歉意。為將語言之功能與目的徹底摧枯拉朽，我會扮演造物主的角色，並透過對真理的粗劣模仿，創造由基礎物質組成的小小世界。
+@@ @@
++++ 音系
+在RACS音系與拉丁化方案上，我會優先選擇英語使用者易發音，且可用標準鍵盤輕鬆輸入的音標，除非我找不到了。
+
+[[div class="mobile"]]
+||||||||||||||||||~ 輔音 ||
+||~ ||~ 脣音 ||~ 齒音 ||~ 齒齦音 ||~ 齦後音 ||~ 硬顎音 ||~ 軟顎音 ||~ 小舌音 ||~ 聲門音 ||
+||= 鼻音 ||= m || ||= n || || ||= ŋ || || ||
+||= 塞音 ||= p / b || ||= t / d || || ||= k / g ||= q ||= ʔ ||
+||= 噴塞音 ||= p' ||= ||= t' ||= ||= ||= k' ||= ||= ||
+||= 塞擦音 ||= ||= ||= t͡s / d͡z ||= t͡ʃ / d͡ʒ  ||= ||= ||= q͡χ ||= ||
+||= 噴塞擦音 ||= ||= ||= t͡s' ||= ||= ||= ||= ||= ||
+||= 擦音 ||= f / v ||= θ / ð ||= s / z ||= ʃ / ʒ ||= ||= x / ɣ ||= ||= ||
+||= 近音 ||= ||= ||= ||= ||= j ||= ||= ||= ||
+||= 顫音 ||= ʙ ||= ||= r ||= ||= ||= ||= ||= ||
+||= 邊近音 ||= ||= ||= l ||= ||= ||= ||= ||= ||
+||= 邊塞擦音 ||= ||= ||= t͡ɬ ||= ||= ||= ||= ||= ||
+||= 嘖音 ||= ||= ||= ŋ! ||= ||= ||= ||= ||= ||
+[[/div]]
+
+儘管<r>在此寫作/r/，但更洽當的寫法應該是「隨便一個R音」，無論是/ɾ/、/ɹ/、/ʀ/或其他合適變體都隨你。
+
+||||||||~ 元音 ||
+|| || 舌前 || 舌央 || 舌後 ||
+|| 閉 ||= i  ||= ɨ ||= u  ||
+|| 半閉 ||= e  ||  ||= o  ||
+|| 中  ||  ||= ə̃  ||  ||
+|| 半開 ||= ɛ  ||  ||= ɔ   ||
+|| 開 ||||||= a  ||||
+
+元音表的排列方式是，如果你比起國際音標的實際情況更能領會其精神，這將會以仿擬基金會自有勳章的方式排列。
+@@ @@
++++ 拉丁化
+
+修訂版ACS將使用多種拉丁化系統：A組與B組（分別為帶變音符號版本與不帶變音符號版本）可作為休閒或教材功能使用，但兩者均不符合分類委員會制定的標準。因此，RACS的正式正字法僅會使用拉丁文擴展B Unicode區塊中的符號。
+
+由於以下圖表過大，我已將其折疊起來。
+
+[[collapsible show="+ A版拉丁化 - 無變音符號" hide="- 關閉"]]
+[[div class="mobile"]]
+||||||||||||||||||~ 輔音 ||
+||~ ||~ 脣音 ||~ 齒音 ||~ 齒齦音 ||~ 齦後音 ||~ 硬顎音 ||~ 軟顎音 ||~ 小舌音 ||~ 聲門音 ||
+||= 鼻音 ||= m || ||= n || || ||= ng || || ||
+||= 塞音 ||= p / b || ||= t / d || || ||= k / g ||= q ||= ' ||
+||= 噴塞音 ||= p' ||= ||= t' ||= ||= ||= k' ||= ||= ||
+||= 塞擦音 ||= ||= ||= ts / dz||= c / j  ||= ||= ||= qx||= ||
+||= 噴塞擦音 ||= ||= ||= ts' ||= ||= ||= ||= ||= ||
+||= 擦音 ||= f / v ||= th / dh ||= s / z ||= sh / zh ||= ||= h:x:kh / gh ||= ||= h ||
+||= 近音 ||= hw / w ||= ||= ||= ||= y ||= ||= ||= ||
+||= 顫音 ||= bb ||= ||= r ||= ||= ||= ||= ||= ||
+||= 邊近音 ||= ||= ||= l ||= ||= ||= ||= ||= ||
+||= 邊塞擦音 ||= ||= ||= tl ||= ||= ||= ||= ||= ||
+||= 嘖音 ||= ||= ||= ng! ||= ||= ||= ||= ||= ||
+[[/div]]
+
+||||||||~ 元音 ||
+|| || 舌前 || 舌央 || 舌後 ||
+|| 閉 ||= i  ||= eu ||= u  ||
+|| 半閉 ||= e  ||  ||= o  ||
+|| 中  ||  ||= un  ||  ||
+|| 半開 ||= eh  ||  ||= aw   ||
+|| 開 ||||||= a  ||||
+[[/collapsible]]
+
+[[collapsible show="+ B版拉丁化 - 帶變音符號" hide="- 關閉"]]
+[[div class="mobile"]]
+||||||||||||||||||~ 輔音 ||
+||~ ||~ 脣音 ||~ 齒音 ||~ 齒齦音 ||~ 齦後音 ||~ 硬顎音 ||~ 軟顎音 ||~ 小舌音 ||~ 聲門音 ||
+||= 鼻音 ||= m || ||= n || || ||= ň || || ||
+||= 塞音 ||= p / b || ||= t / d || || ||= k / g ||= q ||= ' ||
+||= 噴塞音 ||= p' ||= ||= t' ||= ||= ||= k' ||= ||= ||
+||= 塞擦音 ||= ||= ||= c̥ / z̥ ||= c / j  ||= ||= ||= q̌ ||= ||
+||= 噴塞擦音 ||= ||= ||= c̥' ||= ||= ||= ||= ||= ||
+||= 擦音 ||= f / v ||= ṭ / ḍ ||= s / z ||= š / ž ||= ||= h:x / ǧ ||= ||= h ||
+||= 近音 ||= w̏ / w ||= ||= ||= ||= y ||= ||= ||= ||
+||= 顫音 ||= b̥||= ||= r ||= ||= ||= ||= ||= ||
+||= 邊近音 ||= ||= ||= l ||= ||= ||= ||= ||= ||
+||= 邊塞擦音 ||= ||= ||= ṱ ||= ||= ||= ||= ||= ||
+||= 嘖音 ||= ||= ||= ň! ||= ||= ||= ||= ||= ||
+[[/div]]
+
+||||||||~ 元音 ||
+|| || 舌前 || 舌央 || 舌後 ||
+|| 閉 ||= i  ||= ÿ ||= u  ||
+|| 半閉 ||= e  ||  ||= o  ||
+|| 中  ||  ||= ą ||  ||
+|| 半開 ||= è  ||  ||= ò   ||
+|| 開 ||||||= a  ||||
+[[/collapsible]]
+
+[[collapsible show="+ C版拉丁化 - 正規" hide="- 關閉"]]
+[[div class="mobile"]]
+||||||||||||||||||~ 輔音 ||
+||~ ||~ 脣音 ||~ 齒音 ||~ 齒齦音 ||~ 齦後音 ||~ 硬顎音 ||~ 軟顎音 ||~ 小舌音 ||~ 聲門音 ||
+||= 鼻音 ||= Ɯ || ||= ȵ || || ||= Ɲ || || ||
+||= 塞音 ||= ȹ / Ƃ || ||= ȶ / ƍ || || ||= Ȼ / Ǥ ||= ȹ||= ƾ ||
+||= 噴塞音 ||= ȹƾ ||= ||= ȶƾ ||= ||= ||= Ȼƾ ||= ||= ||
+||= 塞擦音 ||= ||= ||= Ʃ / Ƶ  ||= Ɔ / Ɉ  ||= ||= ||= Ƣ ||= ||
+||= 噴塞擦音 ||= ||= ||= Ʃƾ ||= ||= ||= ||= ||= ||
+||= 擦音 ||= ƪ / Ɯ ||= Ɵ / Ⱦ ||= ƒ / Ƹ ||= Ƨ / ƶ ||= ||= Ʌ / ȝ ||= ||= ||
+||= 近音 ||= ƕ / Ƿ ||= ||= ||= ||= Ɏ ||= ||= ||= ||
+||= 顫音 ||= ƀ ||= ||= ƥ ||= ||= ||= ||= ||= ||
+||= 邊近音 ||= ||= ||= Ɨ ||= ||= ||= ||= ||= ||
+||= 邊塞擦音 ||= ||= ||= ƛ ||= ||= ||= ||= ||= ||
+||= 嘖音 ||= ||= ||= Ƞ ||= ||= ||= ||= ||= ||
+[[/div]]
+
+||||||||~ 元音 ||
+|| || 舌前 || 舌央 || 舌後 ||
+|| 閉 ||= ƚ ||= ƴ ||= Ɯ  ||
+|| 半閉 ||= ǣ  ||  ||= Ƽ  ||
+|| 中  ||  ||= Ʊ  ||  ||
+|| 半開 ||= ɇ  ||  ||= ȣ   ||
+|| 開 ||||||= ǝ  ||||
+[[/collapsible]]
+
+除非是正式場合，鼓勵修訂版ACS使用者根據自身美學自由選用A版與B版的拉丁化。
+
+應注意輔音後若帶有<y> 或 <w>，將分別出現顎化或唇化現象。
+
+@@ @@
+
++++ 次位1 - 異常狀態
+異常當前狀態將由輔音前綴標示。表示「接受收容中」之聲門塞音前綴通常從略，因為其目的乃是分隔單詞。
+
+||||~ 表 I ||
+|| 已解明 || ŋ!- ||
+|| 在不明確的情況下遭無效化 || hw- ||
+|| 被基金會無效化 || tl- ||
+|| 被其他團體無效化 || bb- ||
+|| 因自然原因遭無效化 || qx- ||
+|| 已收容 || （'） ||
+@@ @@
++++ 次位2 - 主要收容等級
+主要收容等級逕直使用標準五元音系統。若異常已遭無效化或解明，請使用前一次位。
+
+||||||~ 表 II ||
+|| Safe || -a- || 消極收容措施 ||
+|| Euclid || -i- ||  積極收容措施 ||
+|| Keter || -u- || 積極適應收容措施 ||
+|| Pending || -o- || 未分級 ||
+|| Esoteric || -e- || 非標準分級 ||
+@@ @@
++++ 次位3 - 項目標籤
+次位3的輔音叢源於我們的內部標籤系統，並取用了超自然聯盟的名稱詞根。擴展字根可能會使本次位變得相當笨重，因此只有初級詞根是必要的，並且可根據需要添加額外輔音以標示應註明之特徵，或為了方便使用省去。
+
+次位3-1是主類別標籤，歸定異常的大致類別。 六類中的四類有一個輔助類別標籤以填上次位3-2，其他兩類則直接跳去填寫次位3-3。
+
+可以插入中央元音或聲門塞音打斷特別不好發音的輔音叢，即使這樣有違練習的精神。
+
+||||~ 表 III-A：主要等級 ||
+|| 人形 || -ng- ||
+|| 非人形 || -m- ||
+|| 造物 || -n- ||
+|| 地點 || -l- ||
+|| 現象 || -r- ||
+|| 其他 || -š- ||
+@@ @@
+[[div class="mobile"]]
+||||||||||~ 表 III-B：次要等級 ||
+|| 人形 || 非人形 || 造物 || 地點 || -f- ||
+|| 常人 || 兩棲類 || 文本 || 身後之地 || -v- ||
+|| 身體部位 || 蜘蛛綱 || 電腦 || 空中 || -ṭ- ||
+|| 神術師 || 禽鳥 || 武器 || 水體 || -ḓ- ||
+|| 奇蹟術師 || 頭足類 || 遊戲 || 人居建築 || -s- ||
+|| 夢術師 || 甲殼類 || 樂器 || 城市 || -z- ||
+|| 靈譜 || 恐龍 || 醫療 || 沙漠 || -š- ||
+|| 本質促動者 || 魚類 || 網路 || 夢境 || -ḍ- ||
+|| 賽博人 || 昆蟲 || 貨幣 || 超維度 || -x- ||
+|| 復活者 || 哺乳類 || 藝術 || 森林 || -ǧ- ||
+|| 半人 || 爬蟲類 || 載具 || 地質構造 || -p- ||
+|| 靈魂操縱體 || 植物 || 宗教 || 島嶼 || -b- ||
+|| 靈能者 || 真菌 || 衣物 || 宏觀空間異常 || -t- ||
+|| 變形者 || 病原體 || 玩具 || 自然衛星 || -d- ||
+|| 宿主 || 非本土生命 || 工具 || 行星 || -k- ||
+|| 外星人  || 外星生命 || 食物 || 廢墟 || -g- ||
+|| 維度外來者  || 超維度生命 || 物質 || 人造衛星 || -q- ||
+|| 時空遷躍者 || 超時空生命 || 機械 || 恆星 || -'- ||
+|| 先天異變者 || 原人類 || 電子 || 非人居建築 || -r- ||
+|| 後天異變者 || 本體論 || 機器人 || 地下 || -rr- ||
+|| 其他 || 其他 || 其他 || 其他 || 延長前流音 ||
+[[/div]]
+
+若3-2與3-3為同發音位置但清濁有異之塞音，3-2輔音應變音以配合3-3輔音。
+
+[[div class="mobile"]]
+||||||||||||~ 表 III-C：威脅警示 ||
+|| 腐蝕性 || -p- || 電磁性 || -by- || 基因改變 || -k'- ||
+|| 聽覺影響 || -t- || 反常行為 || -gy- || 溝通影響 || -q'- ||
+|| 認知影響 || -k- || 致癱 || -pw- || 重力影響 || -ts-  ||
+|| 末日威脅 || -b- || 無法感知 || -tw- || 燃燒 || -ẓ- ||
+|| 有意識強迫性 ||-d-|| 非電離輻射 || -kw- || 創造超威脅 || -c- ||
+|| 無意識強迫性 || -g- || 電離輻射 || -bw-|| 致幻 || -j- ||
+|| 記憶影響 || -q- || 模因 || -dw- || 致癌 || -cw- ||
+|| 情感影響 || -py- || 命名危害 || -gw- || 毒物 || -jw- ||
+|| 成分改變 || -ty- || 生態影響 || -p'-  || 動作影響 || -y- ||
+|| 情感影響 || -ky- || 不規則運動|| -t'-  || 其他 || -w- ||
+[[/div]]
+
+@@ @@
++++ 次位 4 - 威脅等級
+威脅等級標籤完全沿襲自現有威脅等級系統，我實在不忍心扭曲這些，即使代價是徒增那些非必要的複雜度。
+
+||~ ACS等級 ||~ RACS中綴 ||~ 描述 ||
+|| 白 || -ą- || 積極有益 ||
+|| 綠 || -a- || 無構成威脅 ||
+|| 藍 || -e- || 潛在有益 ||
+|| 黃 || -o- || 低風險 ||
+|| 橙 || -i- || 高風險 ||
+|| 紅 || -u- || 活躍威脅 ||
+|| 黑 || -ÿ- || 極度危險 ||
+
+@@ @@
++++ 次位 5 - 次要收容等級
+本節僅涵蓋ACS檔案的標準次要分級：如果你希望加入其他機密分級，請致信本人，我會把它放進列表裡的。
+
+||||||~ 表 5 ||
+||~ ACS等級 ||~ RACS中綴 ||~ 描述 ||
+|| Apollyon || -tca- || 收容不可行，僅能緩解 ||
+|| Archon ||  - je- || 強加收容反而造成更大的威脅 ||
+|| Cernunnos || -kwi- || 可收容但未收容 ||
+|| Decommissioned || -ǧÿ- || 已廢除 ||
+|| Heimal || -ṭu- || 兩個以上的異常互相收容 ||
+|| Tiamat || -ẓo- || 需要破壞帷幕以強加收容 ||
+|| Ticonderoga || -qè- || 無法收容且無須收容 ||
+|| Thaumiel || -ngą- || 用於收容其他異常 ||
+|| Uncontained || -tsò- || 未收容 ||
+@@ @@
++++ 次位6 - 瓦解等級
+用於標示瓦解等級的輔音是自其現有名稱不規則派生而得，從而使其能排在隨機選擇的次位5之後誘發認知混亂。另外，由於瓦解等級同時採用了數標標度與「有近有害」原則，因此本次位的內容可能會隨著編號者的態度而改變。
+
+||||||~ 表 VI ||
+|| Dark || -d- || 僅對個人造成影響 ||
+|| Vlam || -vl- || 局部影響，需要輕度的掩蓋 ||
+|| Keneq || -q- || 中規模影響，需要大量掩蓋 ||
+|| Ekhi || -x- || 大範圍影響，幾乎會影響到帷幕 ||
+|| Amida || -mb- || 全球規模效應 ||
+|| Unspecified || ∅ || 未定 ||
+@@ @@
++++ 次位8 - 關注組織隸屬關係
+
+如果你不認得下表中某些組織的名稱，不要驚慌，我覺得這當中一定有幾個是純屬虛構的。為表誠意，我已經盡可能地保留其字母縮寫或其近似替代。這是為了混淆c、x等有違典型英語的字母。字母ẃ僅在本次位中使用，發音為/v/。
+@@ @@
+[[div class="mobile"]]
+||||||||||||~ 表 VIII ||
+|| 加速世界 || -cf-  || 反大麻玩家 || -gw-  || 未明軍團 || -skm- ||
+|| Alexylva大學 || -lxy- || Giftschreiber || -ǧs-  || 夢神集團 || -nr-  ||
+|| 安布羅斯餐廳 || -mbr- || 全球超自然聯盟 || -gk-  || 伊斯蘭物品回收辦公室 || -rkl- ||
+|| 安德森機器人 || -ndr- || 金貝克-萊茨 || -gbr- || 異視維基 || -pw-  ||
+|| 阿卡迪亞 || -rkd- || 金帳軍 || -gh-  || 相嘯魔 || -pts- ||
+|| Are We Cool Yet || -wky- || 格雷茨堡 || -ǧb-  || 五角星 || -pgr- ||
+|| 美國維安收容倡議 || -sc-  || 格魯烏-P  || -gp-  || 普羅米修斯公司 || -pl-  ||
+|| 阿維拉專業製品 || -vl-  || 赫曼·富勒 || -hf-  || 藍寶石 || -sf-  ||
+|| 黑皇后 || -bkw- || 女王的控制暨收容超常基金會 || -hm-  || 猩紅之王 || -sk-  ||
+|| 英國超自然部隊 || -bs-  || 妖精 || -sḍ-  || 第二海托世 || -hṭ-  ||
+|| 破碎教會 || -bg-  || 地平線倡議 || -hzn- || 蛇之手 || -sh-  ||
+|| 渾沌反叛軍 || -ks-  || 國際統一奇蹟術研究中心 || -kst- ||毆打鯊魚中心 || -spc- ||
+|| 芝加哥鬼靈 || -cs-  || 大日本帝國異常事例調查局 || -jm-  || 矽諾倫 || -sn-  ||
+|| 夜之子 || -cn-  || 僅僅少女事 || -jg-  || 糖梳糕餅 || -sgr- ||
+|| 火炬之子 || -ct-  || 麥地奇超自然藝術學院 || -md-  || 叁月協會 || -ṭm-  ||
+|| 1976年班 || -cl-  || 魔法學院 || -mk-  || 托特利軟體 || -tl-  ||
+|| 齒輪正教會 || -cgw- || 瑪娜慈善基金會 || -mf-  || 特異事故處 || -fb-  ||
+|| 異常貨物委員會  || -cm-  || Marshall, Carter, and Dark || -mcd- || 瓦拉文公司 || -vr-  ||
+|| 殆瓦帝國 || -dv-  || 馬克士威主義教會  || -mxw- || 維坎德—尼得科技媒體 || -vk-  ||
+|| 鹿學院 || -dk-  || 納餓卡  || -nk-  || 流浪者的圖書館  || -ẃl-  ||
+|| Wondertainment博士  || -dw-  || **##green|無名##** || -nl- || 魔杖人 || -ẃẓ- ||
+|| 工廠  || -fk-  || Nobody  || -nd-  || 威爾遜生物應對組 || -ẃs-  ||
+|| 第五教會  || -fc-  || 觀熊者 || -bw-  || 夏文化異常 || -şy-  ||
+[[/div]]
+@@ @@
++++ 次位7 - 類屬關係類型
+本次位表示該異常與次位8歸定關注組織間的關係類型。我沒有把數字打反：我故意用顛倒順序介紹這兩個次位的。
+
+||||~ 表 VII  ||
+|| 普通關聯 || -a- ||
+|| 為其積極使用/為其成員 || -i- ||
+|| 曾為其使用/為其前成員 || -u- ||
+|| 可能存在關聯？ || -e- ||
+|| 理論關聯/虛假關聯 || -o- ||
+|| 編號者希望其屬於該組織 || -ÿ- ||
+|| 確實存在關連而這並非編號者希望的 || -ą- ||
+@@ @@
++++ 次位9 - 複數
+複數由兩個部分組成：語法數本身的描述符，以及指定複數組成的描述符。
+
+[[div class="mobile"]]
+||||||||||||||||~ 表 IX ||
+|| **單數** || ∅ || **雙數** || -a-  || **三數** || -i-  || **多數** || -u- ||
+|| **聯合型** || -x |||||||||||| 相連、可分 ||
+||**連接型**|| -j |||||||||||| 相連、不可分 ||
+|| **矛盾型** || -ǧ |||||||||||| 彼此直接衝突 ||
+|| **同質型** || -q |||||||||||| 成員相同 ||
+|| **異質型** || -z |||||||||||| 成員有異 ||
+|| **模糊型** || -š |||||||||||| 難以分類 ||
+[[/div]]
+@@ @@
++++ 次位10 - 數據庫編號
+在修訂版ACS中，完整版異常名稱可能相當拗口，因此可從數字本身得出縮寫版。為了斬斷基金會摧殘卡巴拉的不幸歷史，以及出於美學考量，我選擇捨棄數字，而是從喬治亞字母系統中提取輔音數值。其中一些數字穢與原版的數字無法對應，畢竟我得找到輔音替代原來的元音數字。
+
+轉換表沒有零：如果數字是零，那就直接省略，如果它恰好卡在兩個元音之間，在這種情況下將其轉為聲門塞音吧。
+
+||||||||||~ 表 X ||
+||~  ||~ 千 ||~ 百 ||~ 十 ||~ 個 ||
+|| 1 || c- || -ą- || -r- || -ą ||
+|| 2 || ts- || -a- || -k’- || -a ||
+|| 3 || dz- || -e- || -l- || -e ||
+|| 4 || ts’- || -è- || -m- || -è ||
+|| 5 || c’- || -o- || -n- || -o ||
+|| 6 || x- || -ò- || -k- || -ò ||
+|| 7 || q- || -i- || -ǧ- || -i ||
+|| 8 || j- || -u- || -p’- || -u ||
+|| 9 || h- || -ÿ- || -ž-|| -ÿ ||
+
+這些縮寫形式可以單獨使用，也可以附到主要名稱上。
+@@ @@
++++ 實作範例 1
+讓我們以大家的好朋友Blackwood爵士為例
+* 他們目前是由我們來照顧的，次位1是省略的**ʔ**
+* 他的標準等級是Safe，次位2是**a-**
+* 雖然這不是什麼特別討喜的說法，但我認為Blackwood爵士應該可以拿個**非人（原人類）**標籤──因為他不構成什麼異常威脅，我們跳過表III-C，並在次位3填上**-mr-**
+* 他的威脅等級是綠，次位4是**-a-**
+* 他沒有次要等級，次位5省略
+* 他的影響範圍僅限於與之交談者，所以是Dark，次位6是**-d-**
+* 他確實與女王的控制暨收容超常基金會有關連（至少據說如此──我翻過他的檔案沒看到這點，但所有跟我聊過的人似乎都很確信這點），次位8是**-hm-**
+* 由於Blackwood爵士與女王的控制暨收容超常基金會關聯沒有那麼明確，如果確實有的話，我會在次位7填上**-a-**，不過我認為要填**-i-**或者**-u-**都是可以的
+* 由於目前只有一位Blackwood爵士（還有誰能取代他？）次位9跳過
+* 他的數據庫編號是1867，次位10轉寫為**c-u-k-i**
+
+綜上所述，Blackwood爵士的新名稱將是**'amradahm-cuki**
+@@ @@
++++ 更多範例
+再提供一些額外的範例，就不像上面那樣按步驟一個一個來了。
+* [[[SCP-179]]] => 'amrąngą-ąǧÿ
+* [[[SCP-2316]]] => 'urkiqacl-tserò
+* [[[SCP-4017]]] => qxungšwuquhṭ-ts’ri
+* [[[SCP-6787]]] => alsad-xip'i
+如你所見，最終結果是如此的簡單優雅
+@@ @@
++++ 結語
+使用以上大綱，現在我們可以對關心的每個異常做出極度精細的歸定，將檔案標題中那些可用資訊量限縮至零。我們將從易懂、易讀、指示術語的標準桎梏中高歌離席！ 現在我們可以實現基金會前人未設想規模之資訊安全，對我們自己人藏起所有重要資訊！
+
+Qapla’！
+David Munsch
+人工語言部門主任
+Site-87
+[[/div]]
+------
+
+[[include :scp-zh-tr:component:discord-chat-source |inc-start= --] ]]
+[[include :scp-zh-tr:component:discord-chat-source |inc-msg-start= --]
+|user-id=two
+|username= Ross, Tamika
+|msg-time= 今天11:13
+]]
+喔賣尬david
+幹嘛啊你
+[[include :scp-zh-tr:component:discord-chat-source |inc-msg-end= --] ]]
+[[include :scp-zh-tr:component:discord-chat-source |inc-msg-start= --]
+|user-id=one
+|username= Munsch, David
+|msg-time= 今天11:13
+]]
+:)
+[[include :scp-zh-tr:component:discord-chat-source |inc-msg-end= --] ]]
+[[include :scp-zh-tr:component:discord-chat-source |inc-msg-start= --]
+|user-id=two
+|username= Ross, Tamika
+|msg-time= 今天11:13
+]]
+**喔賣尬戴割你幹了什麼**
+[[include :scp-zh-tr:component:discord-chat-source |inc-msg-end= --] ]]
+[[include :scp-zh-tr:component:discord-chat-source |inc-msg-start= --]
+|user-id=three
+|username= LaRoche, Jesse
+|msg-time= 今天11:13
+]]
+他真的做了，徹底瘋狂。
+[[include :scp-zh-tr:component:discord-chat-source |inc-msg-end= --] ]]
+[[include :scp-zh-tr:component:discord-chat-source |inc-msg-start= --]
+|user-id=four
+|username= Wheeler, Doug
+|msg-time= 今天11:14
+]]
+Toki ike嗎？
+[[include :scp-zh-tr:component:discord-chat-source |inc-msg-end= --] ]]
+[[include :scp-zh-tr:component:discord-chat-source |inc-msg-start= --]
+|user-id=three
+|username= LaRoche, Jesse
+|msg-time= 今天11:14
+]]
+toki pi ike //suli//
+[[include :scp-zh-tr:component:discord-chat-source |inc-msg-end= --] ]]
+[[include :scp-zh-tr:component:discord-chat-source |inc-msg-start= --]
+|user-id=four
+|username= Wheeler, Doug
+|msg-time= 今天11:14
+]]
+Mi olin
+[[include :scp-zh-tr:component:discord-chat-source |inc-msg-end= --] ]]
+[[include :scp-zh-tr:component:discord-chat-source |inc-msg-start= --]
+|user-id=one
+|username= Munsch, David
+|msg-time= 今天11:14
+]]
+謝謝割！:D
+[[include :scp-zh-tr:component:discord-chat-source |inc-msg-end= --] ]]
+[[include :scp-zh-tr:component:discord-chat-source |inc-msg-start= --]
+|user-id=two
+|username= Ross, Tamika
+|msg-time= 今天11:14
+]]
+好討厭，我好愛這個。
+[[include :scp-zh-tr:component:discord-chat-source |inc-msg-end= --] ]]
+[[include :scp-zh-tr:component:discord-chat-source |inc-msg-start= --]
+|user-id=one
+|username= Munsch, David
+|msg-time= 今天11:15
+]]
+我保證下屆語言創建會議我會去給Quijada先生道歉的。
+[[include :scp-zh-tr:component:discord-chat-source |inc-msg-end= --] ]]
+[[include :scp-zh-tr:component:discord-chat-source |inc-msg-start= --]
+|user-id=three
+|username= LaRoche, Jesse
+|msg-time= 今天11:15
+]]
+太神啦。
+我現在只想把這個引進整個資料庫。
+你剛剛製造了全新的模因危害。
+[[include :scp-zh-tr:component:discord-chat-source |inc-msg-end= --] ]]
+[[include :scp-zh-tr:component:discord-chat-source |inc-msg-start= --]
+|user-id=two
+|username= Ross, Tamika
+|msg-time= 今天11:16
+]]
+我覺得該去慶祝一下了。
+Uncle Mike's大家可以嗎？
+[[include :scp-zh-tr:component:discord-chat-source |inc-msg-end= --] ]]
+[[include :scp-zh-tr:component:discord-chat-source |inc-msg-start= --]
+|user-id=one
+|username= Munsch, David
+|msg-time= 今天11:16
+]]
+事實上，我認為我們可以從部門開支拿點去Black Garden。
+我們有筆經費名目是團隊建設與士氣鼓舞。
+[[include :scp-zh-tr:component:discord-chat-source |inc-msg-end= --] ]]
+[[include :scp-zh-tr:component:discord-chat-source |inc-msg-start= --]
+|user-id=four
+|username= Wheeler, Doug
+|msg-time= 今天11:16
+]]
+愛死了。
+[[include :scp-zh-tr:component:discord-chat-source |inc-msg-end= --] ]]
+[[include :scp-zh-tr:component:discord-chat-source |inc-msg-start= --]
+|user-id=three
+|username= LaRoche, Jesse
+|msg-time= 今天11:16
+]]
+上帝保佑
+[[include :scp-zh-tr:component:discord-chat-source |inc-msg-end= --] ]]
+[[include :scp-zh-tr:component:discord-chat-source |inc-msg-start= --]
+|user-id=two
+|username= Ross, Tamika
+|msg-time= 今天11:17 
+]]
+我從來不會拒絕白吃的午餐。5點門口集合啊。
+[[include :scp-zh-tr:component:discord-chat-source |inc-msg-end= --] ]]
+[[include :scp-zh-tr:component:discord-chat-source |inc-end= --] ]]

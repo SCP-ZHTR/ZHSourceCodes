@@ -1,0 +1,84 @@
+-Ex，已解明的意思, 代表了一些已經被充分解釋了的SCP。這些SCP都不再被歸類為一種SCP，或許是因為那一種SCP已經變成了常識或常理，或許是我們基金會已經明白了這個SCP的運作模式，也可能是該SCP完全不會再構成任何問題。
+
+ 如果你想知道更多有關已解明SCP 的資訊, 請查閱主站點的 [http://www.scp-wiki.net/forum/t-292582/a-new-contest 英文相關討論頁]。
+
+[[div class="content-panel standalone series"]]
+
++ 已解明SCP系列
+
+* [[[SCP-0000-EX]]] - Lost
+* [[[SCP-001-EX]]] - 好孩子
+* [[[SCP-002-EX]]] - Lost it All
+* [[[SCP-012-EX]]] - Eurydice
+* [[[SCP-067-EX]]] - 「[[span class="ruby"]] Rurik Inn[[span class="rt"]]留里克客棧[[/span]][[/span]]」
+* [[[SCP-123-EX]]] - Accidents Happen
+* [[[SCP-252-EX]]] - A Completely Normal Bomb
+* [[[SCP-445-EX]]] - The Word of the Day is Hope
+* [[[SCP-711-EX]]] - Man From The --Future-- Present
+* [[[SCP-726-EX]]] - The Dowsing Rod
+* [[[SCP-888-EX]]] - tan and laundry by dado
+* [[[SCP-920-EX]]] - Evil Workgroup Printer
+* [[[SCP-1094-EX]]] - Between A Rock And A Hard Place
+* [[[SCP-1337-EX]]] - NFTs by Vikander-Kneed!
+* [[[SCP-1401-EX]]] - Have You Been **Scrombled?**
+* [[[SCP-1512-EX]]] - 3D Bioprinting
+* [[[SCP-1548-EX]]] - A Hateful Star
+* [[[SCP-1551-EX]]] - 豬先生
+* [[[SCP-1763-EX]]] - Hοw To Write An SCP
+* [[[SCP-1841-EX]]] - Lisztomania
+* [[[SCP-1851-EX]]] - Drapetomania
+* [[[SCP-1927-EX]]] - Farnsworth Effect
+* [[[SCP-1933-EX]]] - Lake ███████ Monster
+* [[[SCP-1964-EX]]] - A Massive Problem
+* [[[SCP-1974-EX]]] - Hallucinogenic Dice
+* [[[SCP-1990-EX]]] - The Sinful Foundation
+* [[[SCP-2011-EX]]] - Temporary Secretary
+* [[[SCP-2023-EX]]] - Capable Athletes
+* [[[SCP-2600-EX]]] - Furred Trout
+* [[[SCP-2700-EX]]] - What I Did For Love
+* [[[SCP-3000-EX]]] - Modified Hospital Beds
+* [[[SCP-3393-EX]]] - Girlfriend
+* [[[SCP-4023-EX]]] - A Chemical Compound
+* [[[SCP-4445-EX]]] - Jurassic Symbiotic Quadruped
+* [[[SCP-4734-EX]]] - It Was Inside You All Along
+* [[[SCP-5050-EX]]] - Presto!
+* [[[SCP-5054-EX]]] - The Memetic Myth of Joe Who?
+* [[[SCP-5297-EX]]] - ROUGH DRAFT EDIT FOR BREVITY DO BY THURSDAY
+* [[[SCP-5735-EX]]] - //"Mystery 32" (2104)//
+* [[[SCP-6192-EX |  SCP-6192-1-EX]]] - Mirror Inspection
+* [[[SCP-7000-EX]]] - Awesome Points™
+* [[[SCP-7525-EX]]] - The Slot Goblin
+* [[[SCP-8472-EX]]] - 噢，老鼠！
+* [[[SCP-8900-EX]]] - 藍天隕落
+@@ @@
+
+[[/div]]
+
+@@ @@
+
+[[div class="content-panel standalone series"]]
+
+++ 其他分部已解明系列
+[[module ListPages order="name" tags="+scp +已解明 +翻譯 jp ko ru fr de it pl es th" separate="no" perPage="100"]]
+* %%title_linked%%
+[[/module]]
+
+@@ @@
+[[/div]]
+
+@@ @@
+
+[[div class="content-panel standalone series"]]
+
+++ 繁中分部已解明系列
+
+* [[[k1s10r0d-s-proposal|SCP-ZH-001-EX]]] - IMMOLARI
+* [[[SCP-ZH-229-EX]]] - 逆宇宙法則而行的愚昧生物們
+* [[[SCP-ZH-1000-EX]]] - 台北車站鳥人雕像 
+* [[[SCP-ZH-1766-EX]]] - 旅鴿 
+* [[[SCP-ZH-2005-EX]]] - 網路紅人 
+* [[[SCP-ZH-2154-EX]]] - 心中那難以面對的黑暗
+* [[[SCP-ZH-4202-EX]]] - 一個，或者若干個SCP-2747的特例，可能代表世代與世代間鴻溝產生的隔閡，或象徵亞文化曇花一現後遺留的殘餘
+* [[[SCP-ZH-9288-EX]]] - 你完全知道正在聽你說話的對座的人，不會再見面。
+@@ @@
+[[/div]]

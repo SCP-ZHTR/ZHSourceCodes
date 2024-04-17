@@ -1,0 +1,13 @@
+[[module Listpages category="*" tags="原創" limit="1"]]
+原創作品數量：%%total%%
+[[/module]]
+
+[[module Listpages category="*" tags="翻譯" limit="1"]]
+翻譯作品數量：%%total%%
+[[/module]]
+
+[[module Listpages category="-_default -adult -wanderers -art" tags="-不存在的標籤" limit="1"]]
+其他數量：%%total%%
+[[/module]]
+
+[[module Pages preview="true"]]

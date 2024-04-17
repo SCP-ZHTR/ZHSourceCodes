@@ -1,0 +1,25 @@
+[[include credit:start]]
+**原著：** [[*user wavekey]]
+**原著年：** 2024
+**譯者：** [[*user edward-knave]]
+**原題：** 詠
+**譯題：** 詠
+**原文：** https://scp-jp.wikidot.com/scp-3681-jp
+
+**譯註：** 此處翻譯依原著對該項目所言，從川柳之無季俳句譯為[https://zh.wikipedia.org/zh-tw/%E6%BC%A2%E4%BF%B3 漢俳]，採平聲起，五七五式，平聲排韻。
+
+[[include credit:end]]
+
+毫鋒述己詩
+昭聲處理製歈姿
+平謳即列之
+[!--毫鋒述己詩
+朝昇處裏制於茲
+評歐幾烈之--]
+
+----
+[[include :scp-zh-tr:component:license-box
+|lang=JP
+|author=wavekey
+]]
+[[include :scp-zh-tr:component:license-box-end]]

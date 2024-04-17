@@ -1,0 +1,7 @@
+[[/div]]
+[[/div]]
+[[div class="history-dot-connector"]]
+[[/div]]
+[[div class="history-dot"]]
+[[/div]]
+[[/div]]

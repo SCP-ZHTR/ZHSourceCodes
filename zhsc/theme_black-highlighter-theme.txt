@@ -1,0 +1,370 @@
+[[include :scp-zh-tr:component:new-work-list-fixing bhl=--]]
+[[module CSS]]
+/*THIS IS BLACK HIGHLIGHTER*/
+@import url("https://nu-scptheme.github.io/Black-Highlighter/css/min/normalize.min.css");
+@import url("https://nu-scptheme.github.io/Black-Highlighter/css/min/black-highlighter.min.css");
+[[/module]]
+[[module css]]
+/*TEMPORARY FIX FOR FONT DISPLAY*/
+@font-face {
+    font-family: "Temp Noto Sans TC";
+    font-style: normal;
+    font-weight: 400;
+    src: url("https://nu-scptheme.github.io/Black-Highlighter/fonts/int/chinese-traditional/noto-sans-tc-v11-chinese-traditional-regular.eot");
+    src: local(""),
+     url("https://nu-scptheme.github.io/Black-Highlighter/fonts/int/chinese-traditional/noto-sans-tc-v11-chinese-traditional-regular.eot?#iefix")
+     format("embedded-opentype"),
+     url("https://nu-scptheme.github.io/Black-Highlighter/fonts/int/chinese-traditional/noto-sans-tc-v11-chinese-traditional-regular.woff2") format("woff2"),
+     url("https://nu-scptheme.github.io/Black-Highlighter/fonts/int/chinese-traditional/noto-sans-tc-v11-chinese-traditional-regular.woff") format("woff"),
+     url("https://nu-scptheme.github.io/Black-Highlighter/fonts/int/chinese-traditional/noto-sans-tc-v11-chinese-traditional-regular.svg#NotoSansTC") format("svg");
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Temp Noto Sans TC";
+    font-style: normal;
+    font-weight: 500;
+    src: url("https://nu-scptheme.github.io/Black-Highlighter/fonts/int/chinese-traditional/noto-sans-tc-v11-chinese-traditional-500.eot");
+    src: local(""),
+     url("https://nu-scptheme.github.io/Black-Highlighter/fonts/int/chinese-traditional/noto-sans-tc-v11-chinese-traditional-500.eot?#iefix")
+     format("embedded-opentype"),
+     url("https://nu-scptheme.github.io/Black-Highlighter/fonts/int/chinese-traditional/noto-sans-tc-v11-chinese-traditional-500.woff2") format("woff2"),
+     url("https://nu-scptheme.github.io/Black-Highlighter/fonts/int/chinese-traditional/noto-sans-tc-v11-chinese-traditional-500.woff") format("woff"),
+     url("https://nu-scptheme.github.io/Black-Highlighter/fonts/int/chinese-traditional/noto-sans-tc-v11-chinese-traditional-500.svg#NotoSansTC") format("svg");
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Temp Sans TC";
+    font-style: normal;
+    font-weight: 700;
+    src: url("https://nu-scptheme.github.io/Black-Highlighter/fonts/int/chinese-traditional/noto-sans-tc-v11-chinese-traditional-700.eot");
+    src: local(""),
+     url("https://nu-scptheme.github.io/Black-Highlighter/fonts/int/chinese-traditional/noto-sans-tc-v11-chinese-traditional-700.eot?#iefix")
+     format("embedded-opentype"),
+     url("https://nu-scptheme.github.io/Black-Highlighter/fonts/int/chinese-traditional/noto-sans-tc-v11-chinese-traditional-700.woff2") format("woff2"),
+     url("https://nu-scptheme.github.io/Black-Highlighter/fonts/int/chinese-traditional/noto-sans-tc-v11-chinese-traditional-700.woff") format("woff"),
+     url("https://nu-scptheme.github.io/Black-Highlighter/fonts/int/chinese-traditional/noto-sans-tc-v11-chinese-traditional-700.svg#NotoSansTC") format("svg");
+     font-display: swap;
+
+}
+
+@font-face {
+    font-family: "Temp Noto Sans TC";
+    font-style: normal;
+    font-weight: 900;
+    src: url("https://nu-scptheme.github.io/Black-Highlighter/fonts/int/chinese-traditional/noto-sans-tc-v11-chinese-traditional-900.eot");
+    src: local(""),
+     url("https://nu-scptheme.github.io/Black-Highlighter/fonts/int/chinese-traditional/noto-sans-tc-v11-chinese-traditional-900.eot?#iefix")
+     format("embedded-opentype"),
+     url("https://nu-scptheme.github.io/Black-Highlighter/fonts/int/chinese-traditional/noto-sans-tc-v11-chinese-traditional-900.woff2") format("woff2"),
+     url("https://nu-scptheme.github.io/Black-Highlighter/fonts/int/chinese-traditional/noto-sans-tc-v11-chinese-traditional-900.woff") format("woff"),
+     url("https://nu-scptheme.github.io/Black-Highlighter/fonts/int/chinese-traditional/noto-sans-tc-v11-chinese-traditional-900.svg#NotoSansTC") format("svg");
+    font-display: swap;
+}
+[[/module]]
+[[module css]]
+:root:lang(zh){
+    	/* Header */
+    	--header-title: "SCP基金會";
+    	--header-subtitle: "控制，收容，保護";
+
+    	/* Typefaces */
+    	--body-font: Inter, "Temp Noto Sans TC", 微軟正黑體, "Microsoft JhengHei", "Microsoft JhengHei UI", “微軟雅黑”, "Microsoft YaHei", "Microsoft YaHei UI", sans-serif;
+    	--UI-font: PTRootUI, 方體, "PingFang HK", 方體, "PingFang TC", 黑體, "Heiti TC", "Microsoft JhengHei UI", "Microsoft JhengHei", Roboto, Noto, "Noto Sans CJK TC", sans-serif;
+    	--header-font: var(--body-font);
+    	--title-font: var(--body-font);
+    	--mono-font: Recursive, "Noto Serif TC", "Microsoft YaHei", 微软雅黑, "Courier New", Courier, monospace, STXihei, 华文细黑;
+    	
+    	--text-tableofcontents: "目錄";
+}
+[[/module]]
+
+[[include :scp-zh-tr:component:interwiki-style
+| priority=1
+| theme=https://nu-scptheme.github.io/Black-Highlighter/css/min/normalize.min.css
+]]
+
+[[include :scp-zh-tr:component:interwiki-style
+| priority=2
+| theme=https://nu-scptheme.github.io/Black-Highlighter/css/min/black-highlighter.min.css
+]]
+
+[[iftags +外觀主題 -nobhl]]
+[[module css]]
+.scp-image-block.block-right {
+    padding: 1em !important;
+    background: var(--gradient-header);
+}
+
+.scp-image-block img {
+    padding-bottom: 1em;
+}
+
+.status {
+    font-family: var(--title-font);
+    font-weight: 900;
+    font-size: 200%;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-flex-wrap: wrap;
+        -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
+    -webkit-align-content: center;
+        -ms-flex-line-pack: center;
+            align-content: center;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+       -moz-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    text-align: center;
+}
+
+.status span.active {
+    color: rgb(var(--white-monochrome));
+    margin-left: 0.5rem;
+    -webkit-box-shadow:
+    inset 100vw 0 0 0 rgb(var(--rating-module-button-plus-color)),
+     0.25rem 0.25rem 0 rgb(var(--rating-module-button-plus-color)),
+     -0.25rem -0.25rem 0 rgb(var(--rating-module-button-plus-color)),
+     -0.25rem 0.25rem 0 rgb(var(--rating-module-button-plus-color)),
+     0.25rem -0.25rem 0 rgb(var(--rating-module-button-plus-color));
+       -moz-box-shadow:
+    inset 100vw 0 0 0 rgb(var(--rating-module-button-plus-color)),
+     0.25rem 0.25rem 0 rgb(var(--rating-module-button-plus-color)),
+     -0.25rem -0.25rem 0 rgb(var(--rating-module-button-plus-color)),
+     -0.25rem 0.25rem 0 rgb(var(--rating-module-button-plus-color)),
+     0.25rem -0.25rem 0 rgb(var(--rating-module-button-plus-color));
+            box-shadow:
+    inset 100vw 0 0 0 rgb(var(--rating-module-button-plus-color)),
+     0.25rem 0.25rem 0 rgb(var(--rating-module-button-plus-color)),
+     -0.25rem -0.25rem 0 rgb(var(--rating-module-button-plus-color)),
+     -0.25rem 0.25rem 0 rgb(var(--rating-module-button-plus-color)),
+     0.25rem -0.25rem 0 rgb(var(--rating-module-button-plus-color));
+}
+
+.fonts-display {
+    font-size: 1.25em;
+}
+
+.title-font {
+    font-family: var(--title-font);
+    font-weight: 700;
+}
+
+.header-font {
+    font-family: var(--title-font);
+    font-weight: 900;
+}
+
+.UI-font {
+    font-family: var(--UI-font);
+}
+
+.mono-font {
+    --MONO: 1;
+    --CASL: 0;
+    --CRSV: 0;
+    font-family: var(--mono-font);
+}
+[[/module]]
+
+
+[[>]]
+[[module Rate]]
+[[/>]]
+[[image http://scp-wiki.wdfiles.com/local--files/component%3Ablack-highlighter-theme-dev/black-highlighter-logo.svg]]
+
+[[=]]
+[[div_ class="status"]]
+該組件當前正處於 [[span class="active"]]活躍狀態[[/span]]
+[[/div]]
+[[/=]]
+ _
+[[div style="border: 1px solid #ddd; padding: 1em; text-align: center;"]]
++ 使用方式
+
+在任何維基上添加以下代碼至您的頁面最上方即可使用：
+
+[[div class="code"]]
+@@[[include :scp-zh-tr:theme:black-highlighter-theme]]@@
+[[/div]]
+
+[[div class="blockquote" style="text-align: center;"]]
+++ 可選附件
+----
++++ [http://scp-zh-tr.wikidot.com/component:bhl-dark-sidebar 暗色側邊欄]
+[[div class="code"]]
+@@[[include :scp-zh-tr:component:bhl-dark-sidebar]]@@
+[[/div]]
+
++++ [[[http://scp-zh-tr.wikidot.com/component:collapsible-sidebar |可折疊側欄]]]
+[[div class="code"]]
+@@[[include :scp-zh-tr:component:collapsible-sidebar]]@@
+[[/div]]
+
++++ [[[component:toggle-sidebar-bhl|切換側欄]]]
+[[div class="code"]]
+@@[[include :scp-zh-tr:component:toggle-sidebar-bhl]]@@
+[[/div]]
+
++++ [[[component:centered-header-bhl|置中版頭]]]
+[[div class="code"]]
+@@[[include :scp-zh-tr:component:centered-header-bhl]]@@
+[[/div]]
+
+[[/div]]
+
+[[/div]]
+
+
+
++ 這是甚麼
+
+這是個能將 [http://scptestwiki.wikidot.com/ 黑色標記筆] 外觀主題應用至你的文章裡的組件。
+
+該組件將會使用穩定版本的黑色標記筆外觀主題，但這有時可能會在其更新時而出現故障。
+
++ 回報錯誤
+
+如果你有Github帳號，請在 [https://github.com/Nu-SCPTheme/Black-Highlighter/issues 這裡] 創建一個議題並詳述你的問題（不論是技術上的、美觀上的，或任何都行）。
+
+如果你沒有Github帳號，或是你比較偏好直接向某人談論的話，你可以加入SynIRC的 {{#black-highlighter}}  頻道，或是向[[*user Woedenaz]]或[[*user Croquembouche]]發送私訊。
+
+-----
+
+[[=]]
++ 外觀主題配色
+[[/=]]
+
+[[include :scp-wiki:component:theme-squares -=-
+| color1-name=Payne's Grey
+| color1-variable=--gray-monochrome
+| color1-info=(66, 66, 72)
+| color1-has-light-text=1
+| color2-name=Rosewood
+| color2-variable=--bright-accent
+| color2-info=(133, 0, 5)
+| color2-has-light-text=1
+| subcolor1-name=Alto
+| subcolor1-variable=--very-light-gray-monochrome
+| subcolor1-info=(215, 215, 215)
+| subcolor2-name=White Smoke
+| subcolor2-variable=--pale-gray-monochrome
+| subcolor2-info=(244, 244, 244)
+| subcolor3-name=Bastille
+| subcolor3-variable=--dark-gray-monochrome
+| subcolor3-info=(48, 48, 52)
+| subcolor3-has-light-text=1
+| subcolor4-name=Buccaneer
+| subcolor4-variable=--medium-accent
+| subcolor4-info=(100, 46, 44)
+| subcolor4-has-light-text=1
+| subcolor5-name=Maroon
+| subcolor5-variable=--dark-accent
+| subcolor5-info=(100, 3, 15)
+| subcolor5-has-light-text=1
+| subcolor6-name=Mango Tango
+| subcolor6-variable=--newpage-color
+| subcolor6-info=(221, 102, 17)
+]]
+
++ 範例
+
+[[include component:image-block name=https://nu-scptheme.github.io/Black-Highlighter/img/logo.svg|caption=SCP基金會 Logo|width=200px]]
+
+一條水平線可以透括使用5個連字號「@@-----@@」來創建，並且如果它沒被包在任何東西裡面的話（例如引用塊），它會延伸並橫跨整個頁面。在這份文件中被拿來分段的就是水平線。
+
+-----
+
+標題可以被以在一行的開頭添加一至六個加號「+」來創建
+
+[[collapsible show="+ 標題" hide="- 標題"]]
++ 一級標題
+
+++ 二級標題
+
++++ 三級標題
+
+++++ 四級標題
+
++++++ 五級標題
+
+++++++ 六級標題
+[[/collapsible]]
+
+@@ @@
+
+[[tabview]]
+[[tab Tabulator]]
+這是個 tab。
+[[/tab]]
+[[tab Tabulation]]
+嘿，看看這裡，這裡有更多文字。
+
+多麼別緻啊。
+[[/tab]]
+[[tab 長Tab]]
+這是個長Tab。裡面容納了大量文字。
+
+這是個長Tab。裡面容納了大量文字。
+
+這是個長Tab。裡面容納了大量文字。
+
+這是個長Tab。裡面容納了大量文字。
+
+這是個長Tab。裡面容納了大量文字。
+
+這是個長Tab。裡面容納了大量文字。
+
+這是個長Tab。裡面容納了大量文字。
+
+這是個長Tab。裡面容納了大量文字。
+
+這是個長Tab。裡面容納了大量文字。
+
+這是個長Tab。裡面容納了大量文字。
+
+這是個長Tab。裡面容納了大量文字。
+[[/tab]]
+[[tab 出於某個奇怪的理由，這個空的tab有著十分長的名字。我想知道這是為什麼？這太奇怪了。]]
+[[/tab]]
+[[tab 空Tab]]
+[[/tab]]
+[[tab 空Tab]]
+[[/tab]]
+[[tab 空Tab]]
+[[/tab]]
+[[tab 空Tab]]
+[[/tab]]
+[[tab 空Tab]]
+[[/tab]]
+[[/tabview]]
+
+> 這是個引用塊，可以透過在每一行的開頭添加「> 」來創建。
+> 
+> 更多文字
+> -----
+> 這是個水平線。
+> 
+>> 巢狀引用塊
+
+||~ 這是個  ||~ 表格 ||
+||你應該要 || 要知道該如何 ||
+||||創建這東西了||
+
+[[=]]
+[[div_ class="fonts-display"]]
+Body、[[span class="title-font"]]Title、[[/span]]及[[span class="header-font"]]Header[[/span]]所使用的字型是[https://rsms.me/inter/ Inter]。
+[[span class="UI-font"]]UI所使用的字型是[https://www.paratype.com/fonts/pt/pt-root-ui PT Root UI]。[[/span]]
+[[span class="mono-font"]]Monospace所使用的字型是[https://www.recursive.design/ Recursive]。[[/span]]
+[[/div]]
+
+所有字體皆以[http://scripts.sil.org/OFL SIL Open Font License, Version 1.1]授權。
+[[/=]]
+-----
+[[/iftags]]

@@ -1,0 +1,873 @@
+[[include :scp-zh-tr:theme:black-highlighter-theme]]
+[[include :scp-zh-tr:component:toggle-sidebar-bhl]]
+[[include :scp-zh-tr:component:centered-header-bhl]]
+[[include component:scp-meta-title-hiding css-style=bhl]]
+[[module CSS]]
+@import url('https://fonts.googleapis.com/css?family=Noto+Serif+JP');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+SC&display=swap');
+
+.tab-container-wrap {
+    display: flex;
+    overflow-X: hidden;
+    width: 100%;
+}
+ 
+.tab-container {
+    flex: 1 1 100%;
+    display: flex;
+    flex-wrap: nowrap;
+    padding-bottom:5px;
+    transition: 0.5s cubic-bezier(0.35, 0.15, 0.65, 0.85);
+}
+ 
+#u-tab-1:target~.tab-container-wrap .tab-container {
+    transform: translateX(-100%);
+}
+ 
+#u-tab-2:target~.tab-container-wrap .tab-container {
+    transform: translateX(-200%);
+}
+ 
+#u-tab-3:target~.tab-container-wrap .tab-container {
+    transform: translateX(-300%);
+}
+ 
+#u-tab-4:target~.tab-container-wrap .tab-container {
+    transform: translateX(-400%);
+}
+ 
+.tab-content {
+    width: 100%;
+    flex: 1 0 100%;
+    box-sizing: border-box;
+    padding: 0 3px;
+    /*mask-image: linear-gradient(0deg, purple, transparent 100%);*/
+}
+ 
+div[id^="u-tab"] {
+    position: fixed;
+    pointer-events: none;
+    color: transparent;
+    top: 0%;
+}
+ 
+.tab-buttons {
+    display: flex;
+    justify-content: center;
+}
+ 
+.tab-buttons a {
+    color: var(--base-color);
+    border-bottom: 1px solid var(--base-color);
+    display: inline-block;
+    height: 30px;
+    font-size: 13px;
+    line-height: 25px;
+    text-align: center;
+    margin: 0 8px;
+    padding: 0 12px;
+    text-decoration: none;
+    transition: .3s;
+    font-family: 'Roboto Mono', 'Noto Sans JP', monospace;
+}
+ 
+.tab-buttons a:first-of-type {
+    margin-left: 0;
+}
+ 
+.tab-buttons a:last-of-type {
+    margin-right: 0;
+}
+ 
+.tab-buttons a:hover {
+    color: #4F4F4F96;
+    border-color: #4F4F4F96;
+}
+
+.document {
+    background: rgb(240, 240, 240);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    margin: 26px auto 0;
+    max-width: 550px;
+    min-height: 300px;
+    padding: 24px;
+    padding-top: 15px;
+    position: relative;
+    width: 80%;
+    color: #16161d;
+}
+ 
+.document:before,
+.document:after {
+    content: "";
+    height: 98%;
+    position: absolute;
+    width: 100%;
+    z-index: -1;
+}
+ 
+.document:before {
+    background: rgb(211, 211, 211);
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.2);
+    left: -5px;
+    top: 4px;
+    transform: rotate(-2.5deg);
+}
+ 
+.document:after {
+    background: rgb(230, 230, 230);
+    box-shadow: 0 0 3px rgba(0, 0, 0, 0.2);
+    right: -3px;
+    top: 1px;
+    transform: rotate(1.4deg);
+}
+
+.meta-title {
+  border-bottom: solid 1px #bbbbbb;
+  color: #990011;
+  font-weight: normal;
+  margin: 0 0 0.6em;
+  padding: 0 0 0.25em;
+  font-size: 200%;
+}
+
+.meta-title p {
+  margin: 0;
+}
+
+:is(#page-content table:not(.form), table.wiki-content-table) th {
+    background-color: rgb(196, 2, 51);
+}
+[[/module]]
+
+[[div style="display: none;"]]
+[[include component:image-block name=https://i.imgur.com/hhSoR6H.png |caption=測試，請忽略。|width=100%|align=center]]
+[[/div]]
+
+[[include info:start]]
+= [[size 120%]]**[[span style="font-family: 'Noto Serif SC', sans-serif;"]]SCP-ZH-668 - 「廣內」**[[/span]][[/size]]
+= **[[*user fallen_truth]]**
+-----
+@@ @@
+[[=]]
++++++ 圖像來源
+[[/=]]
+* mars.aic的對話中形像
+**標題：**Site-ZH-11通用aic mars.aic的虛擬形象
+**來源：**[[[i-do-not-want-to-translate-art|Site-ZH-11通用aic mars.aic的虛擬形象]]]（站內連結）
+**授權方式：**CC BY-SA 3.0
+**版權所有者（繪者）：**[[*user IC 1623]]
+@@ @@
+* 神性輻射脈衝圖（由下兩張圖片組成）
+（一）**標題：**Taiwan relief location map.jpg
+　　　**來源：**[https://commons.wikimedia.org/wiki/File:Taiwan_relief_location_map.jpg https://commons.wikimedia.org/wiki/File:Taiwan_relief_location_map.jpg]
+　　　**授權方式：**CC BY-SA 3.0
+　　　**版權所有者：**[https://commons.wikimedia.org/wiki/User:Uwe_Dedering Uwe Dedering]
+　　　**備註：**
+@@ @@
+（二）**標題：**Bullseye1.png
+　　　**來源：**[https://commons.wikimedia.org/wiki/File:Bullseye1.png https://commons.wikimedia.org/wiki/File:Bullseye1.png]
+　　　**授權方式：**CC BY-SA 3.0
+　　　**版權所有者：**[https://commons.wikimedia.org/wiki/User:Mikenorton Mikenorton]
+　　　**備註：**
+@@ @@
+* 頁首抓圖（由多張圖片組成）
+[http://scp-sandbox2-zh.wikidot.com/draft:7655555-8-6415 詳細列表見此]
+-----
+[[=]]
++++++ 作者碎碎念
+[[/=]]
+這篇揉合了一點神異博覽會一九三五+一點扶桑紀+一點截門，應該是我寫過最累的一篇……
+mars.aic的虛擬形象真的畫得挺可愛的，於是無恥地決定加入文章中。
+-----
+[[=]]
++++++ 感謝欄
+[[/=]]
+感謝空名（id：EmptyName723）建議收尾的方式。
+↑user模塊用了就強制換行，不知道怎麼搞的
+@@ @@
+黃姓線人/住宅
+[[include info:end]]
+
+@@ @@
+[[div class="document"]]
+[[div class="meta-title"]]
+*
+[[/div]]
+[[include :scp-zh-tr:component:acs-hybrid-text-bar-source
+|version= text
+|item-number= 668
+|clearance-level= 1
+|containment-class= pending 
+|disruption-class= dark
+|risk-class= 謹慎
+]]
+@@ @@
++++++ 臨時收容措施
+----
+SCP-ZH-668周遭250公尺的山林已由警戒線封鎖，並掛有告示牌以「地質脆弱易崩塌」為由導引民眾離開。
+@@ @@
++++++ 說明
+----
+SCP-ZH-668為一棟位於臺灣嘉義縣██山區的二層樓木造住宅。██山區於[[[scp-5998|1960年代開始全球監測]]]起，始終保持著較環境常值偏高0.15～0.20akiva的阿基瓦輻射[[footnote]]阿基瓦輻射是一種與信仰者和神祇之間的崇拜關係或與神性存在相關活動相關的輻射。[[/footnote]]水準，但由於監測範圍尺度較大，因此只能將異常區域確定於██山區，經過初步勘查推測可能是由於附近寺廟影響，該地的阿基瓦輻射水準隨後於1980年跌落回正常水準。
+
+2022年02月，██山區再次被監測到阿基瓦輻射水準上升約0.30akiva，經過大規模搜索後，在12號步道第一涼亭東南向約200公尺處找尋到此項目。連日觀察後，確定該建築長期無人員出入，決定進入探索。
+[[/div]]
+@@ @@
+[[div class="document"]]
+[[div class="meta-title"]]
+探索
+[[/div]]
+日期： 2023/11/21 1130
+
+探索團隊：MTF-破軍-01「蘭花草」[[footnote]]隸屬於Site-ZH-72，為專門探索臺灣山區異常的機動特遣隊。[[/footnote]]
+
+對象：SCP-ZH-668（及其內部連接的另一空間異常，見下）
+
+隊長：CAP（以下記作「P」）
+
+團隊成員：A～E
+----
+= **[紀錄開始]**
+
+**P：**測試，測試，指揮部有聽到嗎？
+
+**指揮部：**有的，聲音清晰。
+
+**P：**那麼「蘭花草」全隊準備進入一樓。
+
+//AB接近大門兩側並推開門，確定屋內安全後特遣隊全員一同進入屋內。//
+
+**CAP：**大門一進入是客廳，左右側皆有走廊，A留下跟我，BC左側，DE右側。
+
+//BC、DE兩兩分組快速檢查一樓房間，P和A留守於客廳。//
+
+**B：**左側房間淨空。
+
+**D：**右側一樓房間淨空。
+
+**E：**右側有二樓樓梯。
+
+**P：**一樓安全，B留下，CDE上二樓檢查。
+
+**B、C：**收到。
+
+//CDE集合於樓梯口，P留守於大門，AB於屋外確保無實體出入建築。//
+
+**C：**上樓。
+
+//CDE快速搜查二樓。//
+
+**C：**二樓房間淨空，建築沒有閣樓。
+
+**A：**無實體出入。
+
+**P：**指揮部，建築無異常，完畢。
+
+**指揮部：**好的，接下來請搜查屋內相關證據。
+
+**P：**收到。
+
+//PAB搜查一樓，CDE搜查二樓。省略搜查經過[[footnote]]詳細列表見下。[[/footnote]]。//
+
+**P：**指揮部，屋內家具和地板都積有少許灰塵，應該已經很久沒人來過。
+
+**指揮部：**收到，證物收集完畢就可以撤退了。
+
+**E：**等等！隊長，來一樓寢室，這幅畫後面還有扇門。
+
+**P：**收到，是暗室嗎？
+
+**E：**不是……就房屋格局來說這面牆後應該是屋外，這扇門也不是裝飾。
+
+**A：**但除了我們進來的大門，這棟房屋沒有其他出入口，難道是空間異常？
+
+//DE接近暗門兩側並推開暗門，暗門後可見溫帶針闊葉混合林。//
+
+**P：**指揮部，可否將任務目標更改為進入該空間異常探索。
+
+//省去指揮部商討過程，其間特遣隊成員使用各項探測器確定該空間異常無明顯危害。//[[footnote]]考慮到「蘭花草」全員本就配備足以應付空間異常的護具，及該空間異常無明顯危害，指揮部判定可進入探索。[[/footnote]]
+
+**指揮部：**可接受，「蘭花草」，請將證物袋置於屋外大門處，我們會派遣人員協助回收。
+
+**P：**放好了。
+
+**指揮部：**好的，請保持通訊，開始進入。
+
+**P：**收到。
+
+//噪聲。//
+
+**P：**指揮部，//（噪聲）//聲音不太穩定。
+
+**指揮部：**收到，「蘭花草」，請回報現場狀況。
+
+**P：**門//（噪聲）//上了，輔助繩//（噪聲）//斷裂//（噪聲增強）//。
+
+**指揮部：**「蘭花草」，請嘗試調整無線電靜噪等級至7。
+
+**P：**收到，已//（噪聲增強）//。
+
+//「蘭花草」全員的GPS訊號閃爍，隨後向北偏東80°偏離20公尺，並再次閃爍。//
+
+**指揮部：**「蘭花草」，請再次嘗試調整無線電靜噪等級至12，並校正GPS設備。
+
+//畫面中斷，聲音被增強的噪聲取代。「蘭花草」全員的GPS訊號向正南偏離70公尺，隨後再次向南偏東50°偏離120公尺，GPS訊號中斷。//
+
+= **[紀錄中斷]**
+[[/div]]
+@@ @@
+[[div class="document"]]
+[[div class="meta-title"]]
+附加紀錄
+[[/div]]
+**後續：**斷訊（1152）後五分鐘MTF-人愛-03「生命線」就已到達現場。「生命線」回收證物袋後回報房內無異常，暗門無法打開。考慮到強行破壞可能無效化該異常，決定暫時封鎖現場並未作進一步處理。
+
+「蘭花草」的無線電及GPS訊號於同日1455重新上線，確認隊伍位於SCP-ZH-668東南30°約3190公尺處的山林中。「生命線」與MTF-見危-02「滿城風雨」（防止潛在的模因危害）於1530到達現場接應，隨後全隊返回Site-ZH-72。
+
+「蘭花草」全員經測試後並未發現任何異常影響，但錄音及錄影紀錄皆無法復原，移動紀錄儀表明「蘭花草」移動了約7232公尺。
+[[div class="blockquote"]]
+**後續情況的描述**
+**CAP：**我們有意識到通訊系統故障，經過幾次調整後仍然無法運作，索性繼續探索……不，（空間異常）內部看起來就是臺灣的混合林，沒有異常，霧氣稍多……後來遇到一個青年指引我們方向，穿過混合林到闊葉林就回來了……
+
+**A：**連接入口的輔助繩直接斷了，但指南針正常，錄影錄音有些許雜訊……（空間異常）內部可以辨識有紅檜、山毛櫸和楓樹……青年好像認出來我們的通訊設備，但是他本人似乎不太理解它的運作原理，有可能是靠設備上的標誌來猜的……
+
+**B：**（空間異常）內部看似有人煙，我們在確定行進方向時觀測到遠處疑似有炊煙，但我們往那個方向走就被一個青年攔住了……
+
+**C：**硬要說有點奇怪的地方，可能是楓葉還沒紅？可是（SCP-ZH-668）那個海拔本來就不應該有楓樹分布……青年對於我們的出現看起來有些驚恐和錯愕……
+
+**D：**男人（青年）看起來對我們有敵意，但並沒有嘗試攻擊我們，對於我們的提問他都不正面回答……居住地他矢口否認，這（空間異常）是什麼地方也沒有回答，只跟我們說天色再晚些可能會遭野獸襲擊，讓我們早點離開……
+
+**E：**那個男人（青年）身高大概183（公分）吧，比隊長（CAP）稍矮一點而已……穿著沒有什麼奇怪的，還扛著一個斧頭……對了，他好像提到他姓黃？
+[[/div]]
+
+[[/div]]
+@@ @@
+@@ @@
+[[div style="float:right; width: 240px; text-align: right; margin-top: 0; margin-right: 0; margin-bottom: 10px; margin-left: 10px; padding-right: 10px;"]]
+[[div style="color:#000000; font-size: 10pt; background-color: #EEEECC; font-family: Verdana, Arial, sans-serif; border-radius:30px /70px; background: #EEEECC; background:linear-gradient(#EEEECC, #DDDDBB); text-align: left; padding: 2px 20px;"]]
+真紀副主任，我以您提供的關鍵詞作嚴格搜尋，在RAISA的ZH分部電子資料庫中查詢到 {{//1//}} 份電子檔案，但我檢查過了，不符合您的其他要求。可能需要擴大搜索範圍……
+[[/div]]
+[[div]]
+[[image https://i.imgur.com/PA1xZMC.png width="75px" style="margin-right: 20px;"]]
+[[/div]]
+[[/div]]
+[[div style="clear: right;"]]
+[[/div]]
+@@ @@
+[[div style="float: left; width:240px; text-align: left; margin-top: 0; margin-right: 0; margin-bottom: 10px; margin-left: 10px; padding-right: 10px;"]]
+[[div style="color: #f5e9e9; font-size: 10pt; background-color: #933F65; font-family: Verdana, Arial, sans-serif; border-radius:30px /70px; background:#933F65; background:linear-gradient(#933f65, #933F65); text-align: left; padding-top: 2px; padding-bottom: 2px; padding-right: 20px; padding-left: 20px;"]]
+無妨，mars，幫我調取上星期讓你掃描的五份紙本文件。
+[[/div]]
+[[div]]
+[[/div]]
+[[/div]]
+[[div style="clear: left;"]]
+[[/div]]
+@@ @@
+[[div style="float:right; width: 240px; text-align: right; margin-top: 0; margin-right: 0; margin-bottom: 10px; margin-left: 10px; padding-right: 10px;"]]
+[[div style="color:#000000; font-size: 10pt; background-color: #EEEECC; font-family: Verdana, Arial, sans-serif; border-radius:30px /70px; background: #EEEECC; background:linear-gradient(#EEEECC, #DDDDBB); text-align: left; padding: 2px 20px;"]]
+好的，上傳中……
+[[/div]]
+[[div]]
+[[image https://i.imgur.com/d32OIK9.png width="75px" style="margin-right: 20px;"]]
+[[/div]]
+[[/div]]
+[[div style="clear: right;"]]
+[[/div]]
+
+[[div_ class="content-body"]]
+[[div_ class="tab-buttons"]]
+[#u-tab-0 1][#u-tab-1 2][#u-tab-2 3][#u-tab-3 4][#u-tab-4 5]
+[[/div]]
+[[div id="u-tab-1"]]
+1
+[[/div]]
+[[div id="u-tab-2"]]
+2
+[[/div]]
+[[div id="u-tab-3"]]
+3
+[[/div]]
+[[div id="u-tab-4"]]
+4
+[[/div]]
+
+[[div class="tab-container-wrap"]]
+[[div class="tab-container"]]
+
+[[div_ class="tab-content"]]
+
+[[div class="document"]]
+[[div style="border:none; background:#cccccc; padding:1px; margin-bottom: 10px;"]]
+= [[size 120%]]**SCP 基金會人力資源檔案**[[/size]]
+= [[size 75%]] 1955年元月版[[/size]][[footnote]]##FAD110|**mars.aic註**## 此文件已於1960年代廢止並歸檔，具體年份未知。[[/footnote]]
+[[/div]]
+**姓名：** [[span class="ruby"]]廣內[[span class="rt"]]ひろうち[[/span]][[/span]] [[span class="ruby"]]██[[span class="rt"]][汙損無法辨別][[/span]][[/span]]
+
+**性別：**男性
+
+**出生日期：**[被來回劃去的筆跡掩蓋][[footnote]]##FAD110|**mars.aic註**## 據以下經歷可知，該員應在1870～1880年間出生。[[/footnote]]
+
+**從屬設施：**Site-168
+
+**職位：**基礎研究員、外勤特工
+
+**授予權限：**--##grey|3/C##-- 3/B
+
+**特別註記：**可精熟操控現實扭曲能力。
+
+**經歷：**[[footnote]]來自個人訪問。[[/footnote]]廣內[[footnote]]##FAD110|**mars.aic註**## 下文的名字也遭塗抹，因此統一略去名字。[[/footnote]]--##grey|出生##--[[footnote]]##FAD110|**mars.aic註**## 原文此處被劃去，未做補充說明。[[/footnote]]於臺灣中部地區，於1900年間因後白澤計劃而帶至日本強迫加入[[[ijamea-hub|IJAMEA]]][[footnote]]大日本帝國異常事務調査局，為明治維新推動成立的官方超自然現象研究機構，第一次世界大戰後逐漸取得日本政府信任，1930年代成為大日本帝國境內主要的異常研究機構，並投入第二次世界大戰作戰。日本戰敗後旋即解體，但仍殘有部分效忠勢力。[[/footnote]]。經過IJAMEA訓練，對象能夠掌控基礎的現實扭曲能力。
+
+1936年，IJAMEA開始推行[[[scp-4007|神化計劃]]][[footnote]]Project [[span class="ruby"]]Shinka[[span class="rt"]]神化[[/span]][[/span]]，是IJAMEA和大日本帝國軍事研究部731部隊合作的計劃，為了培養能夠參與特種行動和滲透作業的特殊部隊，大日本帝國憲兵隊搜刮日佔境內的異常個體供731部隊研究，最終改造多名常人成為擁有異常能力的個體。[[/footnote]]相關實驗後，對象萌生叛變IJAMEA的想法，隨後與蒐集院[[footnote]]以發現並封存異常物品為目的的超常機構，因IJAMEA的興起而逐漸在第一次世界大戰後式微，在日本戰敗後遭SCP基金會解體、吸收，並重新建立SCP基金會81管區。[[/footnote]]人員密切往來，提供IJAMEA的相關情報。最後徹底脫離IJAMEA，由蒐集院成員接應進入[[[archives-f|負號部隊]]][[footnote]]大日本帝國陸軍特別醫療部隊（IJASMF），是蒐集院與大日本帝國陸軍合作的超常特殊部隊，被投入於大日本帝國境內作戰。合作目標為製造不死士兵的「非時計劃」，但並未成功。[[/footnote]]。
+
+遠東國際超常軍事法庭上，廣內同負號部隊其他成員一樣並未一併被以「反常態罪」起訴，僅被控訴幾項輕罪，而後也被撤銷，但仍作為[[[scp-045-int|丁（D）級戰犯]]][[footnote]]##FAD110|**mars.aic註**## 須注意此處的D並非指代D級人員，而是丁（D）級戰犯，兩者具有顯著的不同。[[/footnote]]被吸收入SCP基金會81管區。而後基於該員的自由意志，隨SCP基金會ZH分部轉移至臺灣的Site-168。
+
+[[/div]]
+
+@@ @@
+[[/div]]
+
+[[div_ class="tab-content"]]
+
+[[div class="document" style="background:#FFF5C3 url(http://scp-wiki.wdfiles.com/local--files/scp-4522/IJAMEA_10.png) center no-repeat"]]
+[[div style="border:none; background:#ccaaaa; padding:1px; margin-bottom: 10px;"]]
+= [[size 120%]]**故人遊計劃、昭和十五年**[[/size]][[footnote]]##FAD110|**mars.aic註**## 西元1940年。[[/footnote]]
+= [[size 75%]] 廣內 一郎 抄錄[[/size]][[footnote]]##FAD110|**mars.aic註**## 原文如此。[[/footnote]]
+[[/div]]
+++++++ 宗旨
+　　近年美利堅合眾國、大英帝國、荷蘭王國等歐美列強對於亞洲的土地和資產虎視眈眈，並試圖拉攏中國一同阻礙亞細亞人民的發展，甚至逐漸演變為「包圍網」[[footnote]]##FAD110|**mars.aic註**## 由上文可知此處指「ABCD包囲陣」，美國（States of **A**merica）、英國（**B**ritain ）、中國（**C**hina）和荷蘭（**D**utch）因大日本帝國侵略東南亞，而共同對大日本帝國實行的經濟封鎖包圍網。該名詞在1930年代末創造，1941年日軍入侵南部法屬印度支那（南部佛印進駐）後廣泛用於軍事宣傳新聞上，與之相似的詞彙還有ABCDライン（ABCD包圍線）。[[/footnote]]形式。今年九月，帝國進行的佛印進駐[[footnote]]##FAD110|**mars.aic註**## 此處指「北部仏印進駐（日軍入侵北部法屬印度支那）」，並非1941年「南部仏印進駐（日軍入侵南部法屬印度支那）」，其中「仏」是法國的簡稱。1940年九月下旬，大日本帝國為了切斷英美援蔣路線，決議向東南亞侵略，而由雲南跨越中國和法屬印度支那邊境向南推進。[[/footnote]]對於西方列強無疑是一次重大挫敗，並是剷除蔣領導的國民政府的重大一步。
+
+　　然西方列強對帝國的包圍網卻也因此收緊，更大規模的爭戰即有可能一處而發。有鑑於此，帝國必須盡快做出應對措施，先於西方列強做好準備，整併大東亞共榮圈。
+
+　　因應必然的超常軍事衝突，須先統合大日本帝國境內的超常技術，但蒐集院的不配合態度將會成為一大問題，因此強制征收蒐集院持有的超常技術勢在必行。
+
+　　擬定目標如下：
+* 針對蒐集院幾處設施進行攻擊
+* 竊取蒐集院超常技術相關研究書
+* 施加對於蒐集院的存續壓力，逼迫對方與我方交涉
+
+++++++ 資產
+　　由於蒐集院成立時間較我設施早，因此規模較大的幾處設施多位於京都府，僅有少數獨立新興機構位於東京市十五區，然而位於東京市的新興設施警備更加完善，而京都府的設施設備相較之下更為落後，因此行動必須分做三部分：
+# 針對位於東京市麴町區富士見町、麴町區大手町、日本橋區亀井町、芝區本芝一丁目的蒐集院設施進行小規模騷擾
+# 征用妖怪小隊及京都府、大阪府、堺縣大部分人員對京都府京都市的六處設施攻堅，同時設施內部安插的間諜竊取研究文件
+# 派遣交涉人員對蒐集院第一機關進行談判
+
+　　必須資產如下：
+* 三名此前對於蒐集院有長期交涉經驗人員，且不為此前脫離蒐集院的成員
+* 五名妖怪大隊[[footnote]]##FAD110|**mars.aic註**## Youkai Battalion，IJAMEA與大日本帝國陸軍合作的超常特殊部隊，是完全由異常實體組成的軍隊。軍官多由現實扭曲者或奇術師，士兵則多由無智慧生物組成。[[/footnote]]成員
+* 二十名輔佐妖怪大隊的妖術師
+* 五十名潛入蒐集院的間諜（此前已準備）
+* 一百八十名關東地方的武裝人員
+* 三百二十名近畿地方深諳京都府街道布局的武裝人員
+
+　　可額外征用資產：
+* 由妖術師施術，具有輕微精神影響的交涉文件五十餘封
+* 妖隱-12式飛機十架，用以緊急撤離人員
+@@ @@
+[[div class="blockquote"]]
+　　考慮到全面戰爭將至，須兼顧滿洲及東南亞事務，異常事務調查局並不可能對蒐集院宣戰，仍須維持表面關係，因此攻堅極有可能轉變為長期騷擾，請加快機密文件的轉移行動和增加京都府機構的警備力量。
+
+　　另，間諜名單此前已送至，宜儘速處理，毋打草驚蛇。
+[[>]]
+——廣內 一郎
+[[/>]]
+[[/div]]
+[[/div]]
+
+@@ @@
+[[/div]]
+[[div_ class="tab-content"]]
+
+[[div class="document"]]
+[[div style="border:none; background:#cccccc; padding:1px; margin-bottom: 10px;"]]
+= [[size 120%]]**關注人物檔案 編號1158**[[/size]]
+= [[size 75%]] 最終版[[/size]][[footnote]]##FAD110|**mars.aic註**## 未有後續更新。[[/footnote]]
+[[/div]]
+**姓名：**（未知，見下）
+
+**曾用假名：**黃任宏、黃金水、黃文耀、黃健行
+
+**性別：**男
+
+**威脅等級：**綠##green|●##
+
+**相關關注組織：**大日本帝國異常事務調査局（下稱IJAMEA）
+
+**目前狀態：**--##grey|存活##-- 自1936年後失蹤
+
+**簡介：**黃於1910/05/04誕生於嘉義廳打貓支廳大莆林區[[footnote]]##FAD110|**mars.aic註**## 今日嘉義縣大林鎮。[[/footnote]]，後遷至竹頭崎支廳[[footnote]]##FAD110|**mars.aic註**## 今日嘉義縣竹崎鄉和梅山鄉。[[/footnote]]。
+
+1934年末，IJAMEA受政府委託舉辦[[[taiwan-miracle-exposition|始政四十週年紀念臺灣博覽會]]]，因此大規模搜捕異常個體，黃為了避免自家被搜查，於是嘗試以自身轉移搜查隊注意力。雖然成功使自家規避搜查，但也因此被發現並逮捕，IJAMEA後將其拘留於組織內。1935年，黃以協助人員身分參加臺灣博覽會，並與基金會接觸[[footnote]]雖雙方關係交惡，SCP基金會依舊被IJAMEA邀請出席臺灣博覽會。[[/footnote]]。
+
+[[collapsible show="以下描述僅向持有3級及以上權限人員參閱" hide="認證通過"]]
+實際於博覽會上，黃並非擔任協助人員。黃被分發至設立於臺北新公園[[footnote]]##FAD110|**mars.aic註**## 今日的二二八和平紀念公園。[[/footnote]]的第二會場異人館，以類似番屋[[footnote]]由番人實際住在會場裡仿製其文化建造的住所演出自己民族的生活，是典型的「人種展示」方式。[[/footnote]]展出的方式強迫異常人形實體進行表演。黃的解說牌內容如下：
+
+[[div class="blockquote"]]
+[[size 120%]]**[[span style="font-family: 'Noto Serif SC', sans-serif;"]]「被控制的妖祟」[[/span]]**[[/size]]
+
+　　擅長施行妖術的強大邪祟，來自大日本帝國異常事務調査局於今年破獲於嘉義郡內的某一妖窟，在本局經過多次嘗試剿滅妖窟後僅存的寶貴案例。
+
+**[圖片及下文應倫理委員會要求刪除]**
+[[/div]]
+
+儘管黃作為被控制展出的「展品」，周遭仍有許多警衛駐守，也配戴有手鐐和腳鐐。經過觀察，現場使用的建材也包含「遏抑鋼」[[footnote]]##FAD110|**mars.aic註**## 由IJAMEA研發，用以壓制妖術使用者的物質，但在近代證明了該物質對於任何類型的異常實體皆沒有效用。[[/footnote]]。經基金會評估後，被認為有違倫理，決定嘗試介入。
+
+**[應倫理委員會要求刪除]**
+
+交涉過程中，黃使用多個假名向基金會提供了有力的IJAMEA相關情報。同年12月，基金會決定實施營救行動，然而，由於基金會此前撤出大日本帝國，致使臨時可調用資源減少，調度過程疏失，營救行動失利，基金會被報復性襲擊，折損1處小型Area、3名研究員及12名安保人員，黃被IJAMEA轉移至他處，無法追蹤，行動宣告失敗。事後，基金會徹底轉為旁觀態度，不對大日本帝國境內異常做干涉。
+
+1936年後黃疑似被轉移至日本。
+[[/collapsible]]
+[[/div]]
+
+[[/div]]
+
+[[div_ class="tab-content"]]
+
+[[div class="document"  style="background:#F0F0F0 url("http://scp-jp-storage.wdfiles.com/local--files/file%3A4053112-30-6su1/clearPaper.png") center repeat;"]]
+[[div style="border:none;color:white;background:#486a8a; padding:1px; margin-bottom: 10px;"]]
+= [[size 120%]]**[[span style="font-family: 'Noto Serif SC', sans-serif;"]]「廣內」[[/span]]**[[/size]]
+= [[size 75%]] （蒐集物備忘冊目錄第一〇五四號）[[/size]][[footnote]]##FAD110|**mars.aic註**## 該文件隨蒐集院解散而收繳至SCP基金會JP分部。[[/footnote]]
+[[/div]]
+**昭和十一年四月接收**，研儀官三戸 恭司初次於關東地方東京府發現。
+
+人類男性，外觀為青少年，具有類似妖術的能力，然而更加「純粹/純潔」[[footnote]]##FAD110|**mars.aic註**## 無法確定該詞彙的意思，可能是組織內的慣用俚語。[[/footnote]]，釋放術式更加迅捷，不必提前準備咒文或犧牲祭物即可施術，威力巨大，然體力損耗亦嚴重。
+
+[[div class="blockquote"]]
+= ##486a8a|附加文件-1##
+----
+虛弱得不成人樣是我對他的第一印象，他倒在路邊，僅披著單衣，面對我接近便用蹩腳的日文趕我走。不過等到我再向他行走兩步時，他便用奇怪的妖術束縛我，正想拔槍還擊就被放下了，少年又倒回他的角落，已然昏過去，沒有了反應。
+
+他倒地的位置正是在我院重要機構附近，正逢下大雨的日子，任他倒在路旁既不安全也不妥當，於是便把他帶至機構內，以具有施用妖術的能力作為申辦蒐集原因。
+
+蒐集超常人物並非沒有先例，只是很少，但這不代表不能。
+[[/div]]
+經過多次對談，初步確定對象是大日本帝國異常調查局從臺灣擄至日本的本島人[[footnote]]##FAD110|**mars.aic註**## 日治時期，日本對於臺灣居民的稱呼，具有一定貶義。與之相對的詞彙為居住於日本的「內地人」。[[/footnote]]，對於大日本帝國異常調查局極度牴觸，在後續對談中積極爭取加入蒐集院，對象認為這是尋求庇護。
+
+試驗中表現出嫻熟的術式控制能力，以及能操作易容、再生等前所未見的術式，具有可觀的戰術價值，然而對象對於作戰及人體實驗表現極大的反感。
+[[div class="blockquote"]]
+= ##486a8a|附加文件-2##
+----
+他說他喚作廣內，被從臺灣押至內地。對此我不置可否，一個少年渡海來到人生地不熟的地方，還能從調查局逃走不成？不過幾次試驗後我對此卻有些動搖。
+
+少年對於「實驗」及「測試」幾個詞語都相當牴觸，曾經幾次我們想做實驗試圖了解它的極限，以及試圖釐清他的施術原理，然而每當我們說出「實驗」這個詞時，他都會不斷反抗，甚至嘗試用妖術胡亂攻擊，眼神也回復那晚的驚恐。鎮壓他花了較長的時間，幾個術師費了不少精力才讓他冷靜。
+
+驚愕無比的眼神，可在我心底揮之不去，想來這似乎並非帝國的少年該有的神情。
+[[/div]]
+**昭和十二年**。經過大量相關的訓練，對象已可作為獨立兵力作使用，因此發派特別醫療部隊，並令其擔任刺探情報的密使。
+[[/div]]
+
+[[/div]]
+
+[[div_ class="tab-content"]]
+
+[[div class="document" style="font-family: 'Noto Serif SC', sans-serif;"]]
+[[=image http://scp-ru.wdfiles.com/local--files/they/%D0%A2%D1%80%D0%B8%D0%B1%D1%83%D0%BD%D0%B0%D0%BB.png width="200px"]]
+ᅠ
+[[=]]
+[[size 200%]]**[[span style="font-family: 'Noto Serif SC', sans-serif;"]][[[tribunal|內 部 法 庭 部 門]]][[/span]]**[[/size]]
+[[size 120%]]INTERNAL TRIBUNAL DEPARTMENT[[/size]]
+[[/=]]
+
+----
+[[=]]
+卷宗
+
+[[>]]
+案件編號 11-А-I/████
+審理日期 中華民國██年06月21日
+狀態 中止
+[[/>]]
+
+[[<]]
+**[[span style="font-family: 'Noto Serif SC', sans-serif;"]]被告：[[/span]]** 三級研究員 廣內一郎（ID：███████），隸屬於Site-168，曾用假名：黃任宏、黃金水、黃文耀、黃健行、黃水木。
+
+**[[span style="font-family: 'Noto Serif SC', sans-serif;"]]犯罪事實：[[/span]]** 被告被指控企圖實施以下行為
+* [http://scp-zh-tr.wikidot.com/tribunal#:~:text=%E1%85%A0-,%E5%85%A7%E9%83%A8%E5%AF%A9%E6%9F%A5%E8%99%95%E7%9A%84%E6%B3%95%E5%BE%8B%E5%AE%88%E5%89%87,-Footnotes ITD LC]§ 1.1.8 阻礙基金會活動進行
+* ITD LC§ 1.2.3 消極反抗
+* ITD LC§ 6.5 基金會員工在特殊情況下未依規定和非自願要求離職
+[[/<]]
+----
+裁決
+
+[[<]]
+經審理卷宗後，內部法庭部門判決如下：
+
+　　**[[span style="font-family: 'Noto Serif SC', sans-serif;"]]主文[[/span]]**
+
+　　廣內一郎犯§ 1.2.3 消極反抗。應執行記憶刪除且不解雇，降職一階。
+
+　　**[[span style="font-family: 'Noto Serif SC', sans-serif;"]]理由[[/span]]**
+[[table style="width:100%"]]
+[[row]]
+[[cell]]
+一、
+[[/cell]]
+[[cell]]
+被告廣內一郎於1946年8月█日遠東國際超常軍事法庭後，以入職基金會為要求換得無罪判決。按該判決明確以入職45年為最終裁決，然今被告於服從入職期間尚未逾45年即已脫離基金會活動。審酌被告居住之宿舍內部情況，以及現場監視器錄影畫面可稽，認定被告並非欠缺依其辨識而行為之能力，或正處於受威脅等無法自主情況，有相當理由足認被告有故意脫離基金會之虞，犯§ 6.5 基金會員工在特殊情況下未依規定和非自願要求離職。
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+@@ @@
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+二、
+[[/cell]]
+[[cell]]
+因§ 1.1.8 阻礙基金會活動之於§ 1.2.3 消極反抗屬高度行為，此案不得按吸收犯做處理。徵諸涉事站點派出證人即Site-168研究組主管██████ ████之證詞，基於研究對象保密規則，被告對於自身之異常情況知情，但無足認定被告知曉脫離本會之行為構成直接阻撓而惡意逕行，因此並不符合§ 1.1.8 阻礙基金會活動構成要件，認定本案不構成§ 1.1.8 阻礙基金會活動。
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+@@ @@
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+三、
+[[/cell]]
+[[cell]]
+參酌人形風險評估部部門主管███之意見，被告擁有自身為人形異常之認知，即清晰認知自身正處於基金會研究之下，	尚難憑採被告對於自身異常對公眾之影響全然不知，嗣卻仍逃脫基金會管控，屬消極迴避行為，犯§ 1.2.3 消極反抗。
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+@@ @@
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+四、
+[[/cell]]
+[[cell]]
+由於上開2罪皆為脫離基金會活動1行為觸犯，屬想像競合犯，因此從重按§ 1.2.3 消極反抗處理，依法判決被告應執行記憶刪除且不解雇，並降職一階。至於被告違抗遠東國際超常軍事法庭之判決結果擅自脫離基金會一節將作另案，交由相關委員會處置，本院不做出任何裁決。
+[[/cell]]
+[[/row]]
+[[/table]]
+@@ @@
+[[table style="width:100%"]]
+[[row]]
+[[cell style="text-align:right"]]
+第一庭
+@@ @@
+@@ @@
+@@ @@
+[[/cell]]
+[[cell style="text-align:right"]]
+審判長　
+@@ @@
+@@ @@
+@@ @@
+[[/cell]]
+[[cell]]
+法　官 Dale Williams
+法　官 簡　　文　　生
+法　官 陳　　美　　薏
+書記官 葉　　呈　　祥
+[[/cell]]
+[[/row]]
+[[/table]]
+@@ @@
+[[table style="width:100%"]]
+[[row]]
+[[cell style="text-align:center"]]
+中
+[[/cell]]
+[[cell style="text-align:center"]]
+華
+[[/cell]]
+[[cell style="text-align:center"]]
+民
+[[/cell]]
+[[cell style="text-align:center"]]
+國
+[[/cell]]
+[[cell style="text-align:center"]]
+██
+[[/cell]]
+[[cell style="text-align:center"]]
+年
+[[/cell]]
+[[cell style="text-align:center"]]
+6
+[[/cell]]
+[[cell style="text-align:center"]]
+月
+[[/cell]]
+[[cell style="text-align:center"]]
+21
+[[/cell]]
+[[cell style="text-align:center"]]
+日
+[[/cell]]
+[[/row]]
+[[/table]]
+[[/<]]
+[[/=]]
+[[/div]]
+
+[[/div]]
+
+[[/div]]
+[[/div]]
+[[/div]]
+@@ @@
+
+[[div class="document"]]
+[[div class="meta-title"]]
+文獻調查
+[[/div]]
+　　……或云奇冷岸復望東北行十餘里，似煙瘴愈厲，實煙靄蒼茫如蓬萊，一日可至__**碧游**__……層巒疊置，林深路險，生番錯處，漢人鮮至，不知其貌……（臺海使槎錄．卷六 番俗六考．北路諸羅番七）
+
+　　……哆咯嘓沿山行一二日便至__**碧游**__，傳鄭氏餘寇竊踞……前去者不復見，未知所蹤，諸番畏之……（諸羅縣志）
+
+　　……水沙連西南有漢人居，荖藤錯、煙瘴濃、路險而難行，外人見而慄之，不敢前……（裨海紀遊．番境補遺）
+----
+**釋：**
+　　奇冷岸社約今日嘉義縣梅山鄉東側，哆咯（囉）嘓社約今日臺南市白河區和東山區交界，水沙連指稱水沙連六社，即今日南投縣水里鄉和埔里鎮南側。
+
+　　碧游，即此前透過文獻分析發現的潛在異常團體「截門」所在的[[[nexus-series|Nexus]]]。「截門」建立於明鄭時期，團體全員皆為神性實體，近年活動量逐漸上升中。若以上史料並非訛傳，可確定碧游的一處入口位於今日嘉義縣梅山鄉、阿里山鄉北側乃至南投縣竹山鄉一帶，包含SCP-ZH-668所在地，其中「一二日」路程可能包含該Nexus內部的距離。
+
+　　應儘速擬定探索計畫。
+[[/div]]
+@@ @@
+[[div class="document"]]
+[[div class="meta-title"]]
+報告
+[[/div]]
+||||||~ 2023/01/15 阿基瓦輻射脈衝事件||
+||~ 脈衝源||嘉義縣阿里山鄉豐山村||[[=image https://i.imgur.com/XNqKLEG.png weight=90%]]||
+||~ ##white| **測站** ##||~ ##white|**數值**##||~ ##white|**備註**##||
+||= Site-ZH-72||= +1.15akiva||最先衝擊設施； _
+短暫失聯； _
+觀測到山林異常活動頻率上升||
+||= Site-ZH-44||= +0.86akiva||小規模收容失效； _
+觀測到山林異常活動頻率上升||
+||= Site-ZH-13||= +0.72akiva||少數收容項目異常活化||
+||= Site-ZH-11||= +0.49akiva||-||
+||= Site-ZH-02||= +0.24akiva||-||
+||= Site-ZH-47||= +0.01akiva^^***1**^^||最後衝擊設施||
+||~  ##white|**[[span style="white-space: nowrap"]]帷幕風險評估[[/span]]**##||||##green|較低## _
+本次阿基瓦輻射脈衝事件未引發大規模收容失效，須注意新型山林異常活動。||
+||~  ##white|**引發原因**##||||##grey|未知## _
+極有可能與SCP-ZH-668與其所連接的空間異常入口關閉有關。MTF-破軍-01「蘭花草」於事件後21分鐘趕至SCP-ZH-668，屋內可見一人之足跡，除此之外，一樓祠堂的小香爐插有尚未燃盡的一炷線香，假門已無法推開，推測門後的空間異常已無法進入。||
+||||||[[size 80%]]***1** 扣除環境正常波動的誤差，最終結果約為0.013akiva。[[/size]]||
+
+[[/div]]
+@@ @@
+
+@@ @@
+[[div style="float: left; width:240px; text-align: left; margin-top: 0; margin-right: 0; margin-bottom: 10px; margin-left: 10px; padding-right: 10px;"]]
+[[div style="color: #f5e9e9; font-size: 10pt; background-color: #933F65; font-family: Verdana, Arial, sans-serif; border-radius:30px /70px; background:#933F65; background:linear-gradient(#933f65, #933F65); text-align: left; padding-top: 2px; padding-bottom: 2px; padding-right: 20px; padding-left: 20px;"]]
+mars，幫我把以上資料寄去72站，急件。
+[[/div]]
+[[div]]
+[[/div]]
+[[/div]]
+[[div style="clear: left;"]]
+[[/div]]
+@@ @@
+[[div style="float:right; width: 240px; text-align: right; margin-top: 0; margin-right: 0; margin-bottom: 10px; margin-left: 10px; padding-right: 10px;"]]
+[[div style="color:#000000; font-size: 10pt; background-color: #EEEECC; font-family: Verdana, Arial, sans-serif; border-radius:30px /70px; background: #EEEECC; background:linear-gradient(#EEEECC, #DDDDBB); text-align: left; padding: 2px 20px;"]]
+好的，正在寄送中……
+[[/div]]
+[[div]]
+[[image https://i.imgur.com/uOMHHCU.gif width="75px" style="margin-right: 20px;"]]
+[[/div]]
+[[/div]]
+[[div style="clear: right;"]]
+[[/div]]
+@@ @@
+@@ @@
+[[div style="float: left; width:240px; text-align: left; margin-top: 0; margin-right: 0; margin-bottom: 10px; margin-left: 10px; padding-right: 10px;"]]
+[[div style="color: #f5e9e9; font-size: 10pt; background-color: #933F65; font-family: Verdana, Arial, sans-serif; border-radius:30px /70px; background:#933F65; background:linear-gradient(#933f65, #933F65); text-align: left; padding-top: 2px; padding-bottom: 2px; padding-right: 20px; padding-left: 20px;"]]
+以及，將這兩份資料匯入RAISA資料庫，謝謝。
+[[/div]]
+[[div]]
+[[/div]]
+[[/div]]
+[[div style="clear: left;"]]
+[[/div]]
+@@ @@
+[[div style="float:right; width: 240px; text-align: right; margin-top: 0; margin-right: 0; margin-bottom: 10px; margin-left: 10px; padding-right: 10px;"]]
+[[div style="color:#000000; font-size: 10pt; background-color: #EEEECC; font-family: Verdana, Arial, sans-serif; border-radius:30px /70px; background: #EEEECC; background:linear-gradient(#EEEECC, #DDDDBB); text-align: left; padding: 2px 20px;"]]
+沒問題，已上傳完畢。正在為您提供預覽版本……
+[[/div]]
+[[div]]
+[[image https://i.imgur.com/GlFdvtN.png width="75px" style="margin-right: 20px;"]]
+[[/div]]
+[[/div]]
+[[div style="clear: right;"]]
+[[/div]]
+@@ @@
+[[div class="document"]]
+[[div class="meta-title"]]
+回收列表
+[[/div]]
+||~ 編號||~ 尋獲位置||~ 尋獲物品||~ 說明||
+||= 1.||= 一樓書房 _
+書桌上||= 信||內文見下。||
+||= 2.||= 一樓寢室 _
+牆上||= 山水畫||描繪阿里山眠月石猴。||
+||= 3.||= 一樓客廳 _
+祠堂香爐內||= 線香 _
+（三炷）||均已燃盡。曾懷疑與阿基瓦輻射有關，經分析後排除可能性。||
+||= 4.||= 一樓客廳 _
+祠堂香爐內||= 香灰||曾懷疑與阿基瓦輻射有關，經分析後排除可能性。||
+||= 5.||= 二樓書房 _
+書櫃||= 書籍 _
+[[span style="white-space: nowrap"]]（十九本）[[/span]]||書籍內頁遭撕毀，僅留書皮，然而封面並無題上書名，無法判斷內容。||
+||= 6.||= 一樓客廳 _
+祠堂香爐底||= 餘燼||被刻意混入香灰塞入底部。疑似是大量紙張被燒毀的產物。||
+||= 7.||= 一樓書房 _
+書桌櫃中||= 木製相框||未見照片，背面刻有「黃 全家 [被重新上漆塗去]」。||
+[[/div]]
+@@ @@
+[[div class="document"]]
+[[div class="meta-title"]]
+給基金會的一封信
+[[/div]]
+致基金會：
+　　我從沒有憎恨過你們，那怕是博覽會那時的失敗也沒有。「道不同不相為謀」，這是你們常說的，也是我離開的唯一原因。
+
+　　我想我必須澄清某些事情，首先，我確實有家庭，我有父親，我也有母親，他們當時都還健在。家父和家母都跟我一樣，可能是某處供奉後被遺忘的神祇之類，或者可能天生就是你們所說的神性實體還是現實扭曲者什麼的，反正我沒有問過我們擁有這些能力的原因。不過很快地我就知道我也沒機會問了，家母常說過我比起他們倆還要強大，他說得似乎沒錯，他們最終還是沒有撐過異常調查局的大搜查，只有我活下來，還恰巧可以做為活的展品，被眾人欣喜地推上去供一批又一批的群眾參觀。**可悲**。
+
+　　接著便是你們嘗試在博覽會後營救我然後失敗的事，事後我被關押在臺北某處的異常調查局辦事處。他們只給我剛好達到最低生活標準的條件讓我活，不然直接處死。在我苟活差不多一年，辦事處的交流又變得特別活躍，好像正在開辦什麼計劃，天天念叨著帝國和將軍之類的——家父曾教我些許日文，看來他有先見之明——不出幾天，他們便將目光轉到我身上，於是他們把我弄昏帶去日本。
+
+　　請原諒我不想回憶之後在異常調查局的日子，那不是地獄可以形容的，反正我被認為沒有價值，等待處死，接著我就逃跑了，幸運地被蒐集院收留。蒐集院要求我為他們做事，為此我還必須回到異常調查局刺探情報，看到一批又一批的人送進來「實驗」。痛苦，但我好像有些麻木了。
+
+　　在日本的日子甚是煎熬，引渡回臺北進行超常軍事審判時我也想過就這樣算了，被宣告無罪留住一條命卻感到慶幸，然而轉瞬間我又要回到日本的事實讓我再次痛苦了起來，當我被Site-168的工作人員引渡，終於又回到臺灣這片土地上時，我卻感覺不到喜悅。
+
+　　加入基金會之前我不了解那些系統性的異常研究，我只知道我異於常人，你們也想嘗試研究我，但似乎屢次未果。後來你們進行的神性研究在我身上有反應，但是研究才剛起步，探測器時靈時不靈的。然而我從你們的眼神中看出來一件事：「撿到寶了。」於是我便再次逃跑。
+
+　　//Maruta//，那是我被押解至日本後得到的稱呼，原本的意思是原木，實際指代的是人體實驗品。
+
+　　//SCP//，這是你們賦予管轄的事物的名字，我想你們也不會讓我這種//異常//安穩地活著，不是嗎？
+
+　　曾經我一直在想，我到底該歸向何方，我不是日本人，似乎也不是漢人，一個被遺忘在民俗文化中的神祇更不能說是臺灣的原住民。
+
+　　現在我有了答案，我從山中來，我往山中去。那是家父和家母曾經告訴我的地方。
+[[>]]
+黃　敬上
+[[/>]]
+[[/div]]
+@@ @@
+@@ @@
+@@ @@
+[[=]]
+[[collapsible show="+ 展開腳注" hide="- 收合腳注"]]
+[[<]]
+[[footnoteblock]]
+[[/<]]
+[[/collapsible]]
+[[/=]]
+
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[SCP-ZH-667]]] | SCP-ZH-668 | [[[SCP-ZH-669]]] >>
+[[/=]]
+[[/div]]

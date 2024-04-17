@@ -1,0 +1,96 @@
+[!-- It is not suggested to add more than four news, otherwise it looks "full". There is no minimum though. You can remove this block if you don't want news. --]
+[[div class="news-block content-panel"]]
+[[div class="panel-heading"]]
+新聞
+[[/div]]
+[[div class="panel-body"]]
+
+
+[!-- News: Entry 1 --]
+[[div class="alternate unmargined"]]
+[[div class="news-title"]]
+2024年02月13日**【競賽活動】**
+[[/div]]
+[[div class="news-content"]]
+* [[[http://scp-zh-tr.wikidot.com/wishing-to-do-well|2024冬季競賽《欲善其事》]]]成績已經公布！恭喜獲獎者： _
+第一名：[[*user Nihilmace]]　[[[scp-zh-022|]]] (24.2) _
+第二名：[[*user EmptyName723]]　[[[scp-zh-345|]]] (22) _
+第三名：[[*user Hildegardis]]　[[[scp-zh-611|]]] (20.9) _
+最高總分獎：[[*user Nihilmace]]與[[*user Edward_Knave]]同分勝出 (24.2) _
+感謝各位的熱情參與！
+[[/div]]
+[[/div]]
+
+
+
+[!-- News: Entry 2 --]
+[[div class="alternate unmargined"]]
+[[div class="news-title"]]
+2024年01月18日**【競賽活動】**
+[[/div]]
+[[div class="news-content"]]
+* 2024冬季競賽《欲善其事》正式公開！本次活動徵件時間為【2024年02月01日 (四)】至【2024年02月07日 (三) 23:59】，更多詳情請見[[[http://scp-zh-tr.wikidot.com/wishing-to-do-well|▶活動中心頁]]]
+[[/div]]
+[[/div]]
+
+
+
+
+[!-- News: Entry 3 --]
+[[div class="alternate unmargined"]]
+[[div class="news-title"]]
+2023年12月28日**【網站改動】**
+[[/div]]
+[[div class="news-content"]]
+* 日前Wikidot出現的無法透過網址連結至頁面的異常已修復完畢，因此，已從網站上撤下替代此功能的相關工具。
+[[/div]]
+[[/div]]
+
+
+
+[!-- News: Entry 4 --]
+[[div class="alternate unmargined"]]
+[[div class="news-title"]]
+2023年12月03日**【競賽活動】**
+[[/div]]
+[[div class="news-content"]]
+* 繁中聖誕節活動：《聖夜相守這一夜》今年繼續舉辦！本次採用的是與往年不同的規則，活動時間為【2023/12/03（日）】至【2023/12/30（六）】。詳情請參考[[[http://scp-zh-tr.wikidot.com/christmas-event5|▶活動中心頁]]]。
+[[/div]]
+[[/div]]
+
+
+
+[!-- News: Footer --]
+[[/div]]
+[[div class="panel-footer"]]
+[[[archived-news|新聞檔案室]]]
+[[/div]]
+[[/div]]
+
+[[module css]]
+.news-block .panel-body {
+padding: 0;
+}
+.news-block .panel-body .alternate {
+padding: 5px 10px;
+}
+.news-block .news-title {
+font-weight: bold;
+font-size: 110%;
+margin-bottom: 5px;
+color: #633;
+}
+.news-block .news-content {
+margin: 5px 0;
+}
+.news-block .news-title > p,
+.news-block .news-content > p {
+margin: 0;
+}
+[[/module]]
+
+[[include custom:start]]
+.news-block .news-title {
+color:#caaaaa;
+}
+[[include custom:end]]

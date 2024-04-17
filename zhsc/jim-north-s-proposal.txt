@@ -1,0 +1,28 @@
+[[include info:start]]
+**SCP-001 - Liz the GM的提案**
+**原文：**[https://scp-wiki.wikidot.com/liz-the-gm-s-proposal SCP-001 - Liz the GM's Proposal] 
+**作者：**[[*user Liz the GM]]
+**譯者：**[[*user Tostren]]
+
+[[include info:end]]
+
+[!-- 
+ http://scp-zh-tr.wikidot.com/fragment:jim-scp-001-1
+ http://scp-zh-tr.wikidot.com/fragment:jim-scp-001-2
+ http://scp-zh-tr.wikidot.com/fragment:jim-scp-001-3
+ http://scp-zh-tr.wikidot.com/fragment:jim-scp-001-4
+ http://scp-zh-tr.wikidot.com/fragment:jim-scp-001-5
+ http://scp-zh-tr.wikidot.com/fragment:jim-scp-001-6
+ --]
+
+[[module ListPages category="fragment" parent="." order="created_at" limit="1" offset="@URL|0"]]
+%%content%%
+[[/module]]
+
+[[include :scp-zh-tr:component:license-box
+|author=Jim North
+|translator=Tostren
+|lang=EN]]
+=====
+=====
+[[include :scp-zh-tr:component:license-box-end]]

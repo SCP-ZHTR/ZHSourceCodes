@@ -1,0 +1,680 @@
+[[include :scp-zh-tr:theme:tina]]
+
+[[module CSS]]
+@import url(http://dog-punch.wikidot.com/local--files/tes:10035/kugiri.css);
+[[/module]]
+
+[[module css]]
+#u-toc-ATa{
+display: block;
+}
+
+#u-toc-AWw{
+display: none;
+}
+
+#u-toc-Willow:target~#u-toc-ATa{
+display: none;
+}
+
+#u-toc-Willow:target~#u-toc-AWw{
+display: block;
+}
+
+#u-toc-Tina:target~#u-toc-AWw{
+display: none;
+}
+
+#u-toc-Tina:target~#u-toc-ATa{
+display: block;
+}
+
+#u-toc-Willow:target~#u-toc-ATa{
+display: none;
+}
+[[/module]]
+
+[[div id="u-toc-ATa"]]
+**.**
+**.**
+**.**
+[[include :scp-zh-tr:component:listusers-1 users="."]]
++++ 已偵測到%%name%%的維安權限。
+[[include :scp-zh-tr:component:listusers-2]]
++++ 警告，任何匿名讀取嘗試將會被記錄並通報。
+[[include :scp-zh-tr:component:listusers-3]]
++++ 此處為Dr.Tina的人事頁。
+**.**
+**.**
+**.**
+[[div style="border:solid 1px #003155; background:#F0F8FF; padding:5px; margin-bottom: 10px;"]]
+[[=]]
+[[a href="#u-toc-Willow"]]跳轉往Willow的人事頁[[/a]]
+[[/=]]
+[[/div]]
+[[=]]
+**.**
+**.**
+**.**
+**.**
+**.**
+**.**
+[[/=]]
+[[tabview]]
+[[tab 致未來]]
+[[<]]
++ 參加者稱號
+【##0044BB|**凝視深淵之人**##】
+//受獎於[[[death-eternal-life|2020年 死亡永生挑戰活動]]]//
+//頒發者：//[[*user AbyssDream]]
+[[/<]]
+[[>]]
++ 參加獎徽章
+[[image https://i.imgur.com/Glqp4iT.png width="75px"]]
+//受獎'於[[[forum/c-6841953/scp|2021年 第一屆 咪呀杯 突擊小活動]]]//
+//繪製者：//[[*user Dr V Valentine]]
+[[/>]]
+[[<]]
++ 參加獎徽章
+[[image https://i.imgur.com/MUaWnj6.png width="75px"]]
+//受獎於[[[candy-pumpkin-2021-a|2021萬聖月活動頁（創作組）]]]//
+//頒發者：//[[*user Dr V Valentine]]
+[[/<]]
+[[>]]
++ 參加獎徽章
+[[image https://i.imgur.com/E4sZzR6.png width="75px"]]
+//受獎'於[[[forum/t-14481917/|愛情限時批極限小活動]]]//
+//繪製者：//[[*user Dr V Valentine]]
+[[/>]]
+[[<]]
++ 參加獎徽章
+[[image https://i.imgur.com/Buqy62p.png width="75px"]]
+//受獎於[[[jamcon-zh-2022|Matini！2022！繁中！急迫競賽！]]]//
+//頒發者：//[[*user SamScript]]
+[[/<]]
+[[/tab]]
+[[tab Dr.Tina的人事檔案]]
+**姓名：**鐘憬時
+
+**暱稱：**Dr. Tina，--劫難之王、別惹那個藥劑師、貂爸爸--
+
+**性別：**生理男性/心理男性/異性戀
+
+**人員級別：**C級
+
+**維安權限：**3級
+
+**職場地點：**流動人員，現於ZH分部進行活動。
+
+**工作職稱：**研究員/拋鈴人作業員的適應輔導員
+
+**專長項目：**基礎醫學、藥物學、毒物學，另自學專精於戰地醫療與急救技術。
+
+**外貌特徵：**身高為172cm，身形消瘦且髮色斑白，少著私服，儘管其生活作息上樸實節儉但似乎有著囤積青少女服飾的傾向，這點被視為該員的療傷行為無須加以干涉。
+
+----
+
+**經歷：**該員於1985年畢業於台灣藥理學科，並曾兩次投身於國際人道救援行動之中，但卻都以悲劇收場，一次於前往戰區的過程中遭到恐怖份子挾持[[footnote]]似乎因為該員挽救了數名武裝人員的性命，過得還算不錯。[[/footnote]]，一次則因當地政府的空襲遭到活埋中。[[footnote]]該醫院僅有四人生還，兩名位在停屍間的警衛和受困於樓梯間的該員及一名女童。[[/footnote]]
+
+然而在2012年時，該員妻女於一次空間異常事件中失蹤[[footnote]]只是去夜尋螢火蟲，就，螢火蟲而已。[[/footnote]]，其失蹤與關注組織「拋鈴人」的時軌建立具有高度關聯性，爾後出於對基金會作業高度的熱忱及尋回妻女的希望下，該員身分從保護對象轉為研究人員，試聘於CN分部77站點。
+
+值得注意的是，雖然該員於CN分部活動時並未對項目研究做出什麼貢獻，但於數次事故中皆發揮出等同甚至優於安保人員的危機應變及抵抗能力，並有效協助了現場的傷勢分級與疏散作業，此特質可能與該員的成長經驗有關[[footnote]]241次機動車事故、23次山難、16次遭高處墜落物砸傷、3次被戰事波及、1次火災事故。[[/footnote]]。
+
+考量Dr.Tina對於關注組織「拋鈴人」積極且騷擾性的私自調查行徑，在多次輔導無果後，賦予該員特別職務，讓該員負責照應拋鈴人作業員，以緩解其擔憂，此舉不但有效緩解了該員的過度擔憂，亦將每年近百起因拋鈴人作業員Willow所致的意外事故控制到僅數十起的頻率，飽受維安人員的好評。
+
+2017年中，在一處山區中救下被異常實體襲擊下而身負重傷的Dr.Tina以及**毫髮無傷的**Willow特工，而接受Site-ZH-44庇護及救治，此後該員便以流動研究人員的身分在ZH分部服務至今。
+
+----
+
+**特別事項：**
+* 由於在緊急狀況下Dr.Tina負責救助及疏散拋鈴人作業員，若在現場看到拿著霰彈槍的藥劑師，只需提供協助即可。
+* 禁止謠傳Dr.Tina與Willow特工之間的不實謠言，同時涉及到兩個不穩定人員是非常危險的事。
+* **嚴格禁止開Dr.Tina妻女的玩笑，此舉可能導致蓄意殺傷事件的發生。**
+
+* 無需通報任何有關Dr.Tina眼神侵犯幼年女性的事件。
+* 無需通報有關Dr.Tina騷擾幼年女性的行為，他只是想辦法送掉憑空出現在衣櫃裡的洋裝而已。
+* 如果看到Dr.Tina眉飛色舞或怒氣沖沖地拿著霰彈槍，安保人員請立即詢問其目的，如果是要去處理Willow的事可放行，如果是要找人理論，請對其進行安撫處理。
+
+* Dr.Tina若有不知所云的徬徨惆悵、啜泣等情形，請給予獨處時間加以平復。
+* 請加以制止Dr.Tina任何有關Tina會喜歡的購物衝動，通常那些東西會落入Willow的手中，那是不好的。
+* 目前對於Tina的存在並無定論，不建議對其進行任何的討論。
+
+* **絕對，絕對，絕對不許Dr.Tina參與任何員工旅遊**，以免憾事發生。
+[[/tab]]
+[[tab 研究項目]]
+[[=]]
+++ [[[SCP-ZH-027]]]
+
+++ [[[SCP-ZH-051]]]
+ //貢獻者：//[[*user Xina Harwood]]
+
+++ [[[SCP-ZH-114]]]
+
+++ [[[SCP-ZH-151]]]
+
+++ [[[SCP-ZH-247]]]
+
+++ [[[SCP-ZH-248]]]
+
+++ [[[SCP-ZH-448]]]
+
+++ [[[SCP-ZH-855]]]
+[[/=]]
+[[/tab]]
+[[tab 相關故事]]
+[[=]]
+++ [[[christmas-marten | 提案：聖誕軟暖貂]]]
+
+++ [[[cleguisbt | 刀下心，又名叛狼返巢]]]
+
+++ [[[ctf15-21-molly | 緞帶飄飄，鈴擺噹噹]]] 
+
+++ [[[cacobt | 哨壘行，又名塔可的紀錄]]] 
+
+++ [[[hammer | 狼頭]]] 
+
+++ [[[reve02 | 瑞雪酬月]]] 
+
+++ [[[dr-willow | 你跟我說真的嗎?]]] 
+
+++ [[[bt-fly | 親迎輕盈之營火瑩]]] 
+
+++ [[[zh-the-witches-gathering-and-the-lightless-forest-1 | 魔女聚會與無光之森]]] 
+
+++ [[[zh-love-is-bleeding | 愛已淌血不止]]] 
+
+++ [[[zh-photophobia | 恐光症條例（UV－995）]]] 
+
+++ [[[scp-zh-247-ending-is-beginning | 是嗎？這就是妳所希望的結局......]]] 
+
+++ [[[manual-bt | 基鈴協議處 快速資料查詢系統]]] 
+----
+
++ 迴返系列
+//光亮不會帶給你安全，光明帶來的是清晰以及注目。//
+
+++ [[[mtf15-21-manifesto | 生命燈國際災難救助機構使命宣言]]] 
+
+++ [[[tina-uni1 | 觀測者並未存在]]]
+ //合著者：//[[*user Unihedron]]
+
+++ [[[tina-uni2 | 花語：紫嬌花]]]
+ //合著者：//[[*user Unihedron]]
+
+++ [[[tina-uni3 | 柔光☆迴返]]]
+ //合著者：//[[*user Unihedron]]
+
+++ [[[mtf15-14-td1 | 終期消毒，熄燈號]]] 
+
+----
+
++ 逆天使系列
+//我們並非獄卒，而是保護人理、未來及異常之物的守護者。//
+
+++ [[[zh-248-f004 | 依伽姊姊去哪了?]]] 
+
+++ [[[zh-daedalus | 代達洛斯計畫]]] 
+
+++ [[[zh-daedalus-defyingangel | 代達洛斯的逆天使]]] 
+
+++ [[[zh-daedalus-f004 | 白裡透紅的身影]]] 
+
+++ [[[zh-defying-angel-daily01 | 他們曾經非人，一如往常，未必如此]]]
+
+----
+
++ 歌曲系列
+
+++ [[[zh-bt-hand-mercy | 恩手教詩歌－憐手]]] 
+
+++ [[[zh-cherry-pupil-withered | 安全顧問鐘祈寧角色歌：櫻瞳凋落]]] 
+[[/=]]
+[[/tab]]
+[[tab 藝術創作]]
+[[=]]
+++ [[[zh-love15-21-teamlogo | 戀之特遣隊-郎位-14「人狼繫絆」隊徽草案]]] 
+[[/=]]
+[[/tab]]
+[[tab 外觀主題]]
+[[=]]
+++ [[[theme:tina | 緹娜 外觀主題]]] 
+[[/=]]
+[[/tab]]
+[[tab 自動化列表]]
+[[module Listpages category="*" tag="原創" created_by="Sigtina" separate="no" perPage="1000"]]
+# [[[%%fullname%%|%%title%%]]] 評分： %%rating%%
+[[/module]]
+[[/tab]]
+[[/tabview]]
+[[/div]] 
+[[div id="u-toc-AWw"]]
+**.**
+**.**
+**.**
+[[include :scp-zh-tr:component:listusers-1 users="."]]
++++ 歡迎%%name%%來到Willow的人事頁>A<。
+[[include :scp-zh-tr:component:listusers-2]]
++++ 歡迎神秘的製罐好夥伴來到Willow的人事頁.w.。
+[[include :scp-zh-tr:component:listusers-3]]
++++ 進來窩窩，不要客氣OwO+
+**.**
+**☆**
+**.**
+[[div style="border:solid 1px #003155; background:#F0F8FF; padding:5px; margin-bottom: 10px;"]]
+[[=]]
+[[a href="#u-toc-Tina"]]跳轉往Dr. Tina的人事頁[[/a]]
+[[/=]]
+[[/div]]
+[[=]]
+**.**
+**.**
+**☆**
+**.**
+**.**
+**☆**
+**☆**
+[[/=]]
+[[tabview]]
+[[tab Willow特工的人事檔案]]
+**姓名：**薇柳
+
+[[include component:image-block name=https://i.imgur.com/i5eXmEP.jpg|caption=PoI-BT-7740D的畫像|width=200px]]
+**暱稱：**特工Willlow、--特工Wollliw、特工Willlkw、特工Willliw、特工Wiilow、特工W.、收集你的W特工、繁中七罪之強欲、超級宇宙霹靂UIU特勤戰鬥直升貂--
+
+**性別：**生理女性/心理女性/同性戀
+
+**POI編碼：**PoI-BT-7740D
+
+**人員級別：**C級
+
+**安保權限：**--3級許可權限--，現近永久凍結僅有0級許可權限
+
+**職場地點：**流動人員，現於 ZH 分部進行活動。
+
+**工作職稱：**流動特工/拋鈴人作業員
+
+**專長項目：**基礎近身搏鬥、高級求生技能、安撫慰藉你的心。
+
+> +++ 拿走你的錢包、偷用別人的安保權限卡、掏空食堂冷凍庫、躲在你床底下睡覺、把項目帶離收容間還到處亂藏、**幹走你身上任何東西**。
+
+**外貌特徵：**身長為 147.5 cm的亞貂幸人女性，故有著足以將其關進收容間的粉紫色長髮以及貂耳貂尾，其頭骨亦較為扁平且有著獸吻，身材嬌小無料，活動靈活故常利用狹小管道進行逃生，衣著明顯過大且寬鬆，不排除--都是偷別人的--，但亦有以蒙眼貂的樣貌在站點竄逃的紀錄。
+
+**簡介：**對大部分人來說Willow特工會是個令人印象深刻的拋鈴人作業員，無論是那奇特的樣貌和身分，還是不分性別階級，過於親和的舉動，這有很大一部份來自於她的出生，Willow是作為擲鈴手的產品所出生的幸人，且擁有常規亞貂幸人不具備的個別修飾-子代備份。
+
+一方面似於貂的基因徹底影響他人對於Wlllow特工的觀感，略為扁平的額骨及突出的吻部、圓滑且不時晃動的獸耳、四肢泛著淺紫的毛皮以及身後肆意擺盪的短小尾巴，不出所料的，任何一名資深的基金會職員都會暗暗的在心裡給她標上一個女異常的註記，被關進收容間更是時有所聞的事[[footnote]]不是所有職員都了解拋鈴人和基金會的協議，也不是所有維安人員都知道如何識別作業證明。[[/footnote]]。
+
+然而這並不是什麼大問題，所有的拋鈴人作業員都是如此，擁有著與眾不同的外貌及需求，有些作業員在缺乏特定保護或營養補充下甚至會有生命上的危險，讓Willow特工被人記念著的原因最主要還是出自於她的行為舉止上。
+
+或許是出自於似貂的本性或曾受到精神上的暗示或危害，Willow時常忽略甚至未能察覺自己的舉動，用她的話來說就是「身體自己動了起來」，這使得她經常有著一些怪異舉動。
+
+尾隨在你身後、翻點回收桶，或是直接晃進廚房幹走你今天的晚餐，各種你想像的到的偷竊盜取行徑，Willow大致都做過，而且正是因為她自身絲毫沒有察覺的緣故，若你不特別注意她，你甚至都不會對她自然且俐落的扒開你錢包這件事感到懷疑。
+
+也或許，這就是拋鈴人派遣她來的原因，可能是想暗中調取基金會的資料或者幫我們做維安訓練也說不定，畢竟Willow的行徑讓我們發現了許多監視器的死角、故障的鎖頭、遺失的ID卡和巡邏路線與緊急應變上的瑕疵，也順便讓Dr.Tina有了一個發揮的機會，畢竟他被戲稱劫難之王，再多的事故都沒他經歷的多，也沒他察覺的快且處理的俐落許多。
+
+然而這方面上亦有一個問題點存在，正如前面所提的一樣，Willow特工有被個別修飾過，關於子代備份的概念可參照Dr.Tina說過的一個極冷且無聊的笑話，「一隻貂只要470$，這可比記憶刪除劑便宜多了。」，這個技術是透過可靠且充分的後台進行支援的，實際上Willow不只有一個人，在任何時間點上都有數十位抱膝安睡的小女孩保存在培養艙裡，她們只有在一種狀況下會醒來，Willow的體溫已經無法維持，心跳已經不再規律，已為將死之人的時候。
+
+通常這時候會由專業的技術員負責盡可能的保存Willow的腦部並將其送回「原廠」，再由原廠來想辦法把Willow的記憶轉移到其他人身上，不過這個工作現在由Dr.Tina包辦了，從打電話到保存，確認進度到歡迎回歸，畢竟有些記憶，被一槍打爛在地上對基金會對Willow對異常的收容上都比較好，有些記憶一旦被記下了，Willow無論如何都死定了。
+
+至於轉移的過程就是個秘密了，但可以知道的是Willow不喜歡那個過程，對她而言，那個生在培養倉度過漫長歲月的那個她也留在了記憶之中，對Willow而言死亡並不可怕，可怕的是那個過程，每一次她記憶裡都會增加一段被困在培養艙裡數十年的等待，而且時間還在延長。
+
+而這技術在實用上來說倒也便宜，只要少少的470$即可負擔成本費以及健保費，甚至還會附上一套乾淨整齊的衣服及用來把Willow塞進裡面寄回來的複合材料箱，而這個價格也遠比Willow所想要的記憶刪除劑便宜多了，就一針，一針適當劑量的C級刪除劑就能使Willow遺忘那些不是她本人，窩在培養艙裡的長遠記憶，但她就是申請不到。
+
+無可厚非，在序列上排著等待刪除劑的不只有她，更多的是準備退休只差一劑就能離開的主管們以及飽受折磨致無法生活的特工們，她的狀況相較之下只是小小的需求而已，除非她能證明那些非自我意識下的偷竊行為能透過記憶刪除來治療，或著她能偷到一針，而Dr.Tina也好心冒著被懲處的風險幫她注射，講真的，下輩子吧。
+
+----
+
+**經歷：**OwO OAO OA< >A< =A= =w= >w< >wO OwO OAO OA< >A< =A= =w= >w< >wO OwO OAO OA< >A< =A= =w= >w< >wO [[footnote]]所以你到底在期待著什麼，我的過去?還是你的?[[/footnote]]OwO OAO OA< >A< =A= =w= >w< >wO OwO OAO OA< >A< =A= =w= >w< >wO OwO OAO OA< >A< =A= =w= >w< >wO OwO OAO OA< >A< =A= =w= >w< >wO OwO OAO OA< >A< =A= =w= >w< >wO
+
+----
+
+> 基金會忠誠度調查結果
+> 該員在忠誠度測驗中取得了14分的結果，但由於偏差值極高此結果並不具有效之指標性，先前多次測驗結果亦同，其原因可歸咎於該員對於自我認知上的缺失及意識型態的恍惚狀態。
+[[/tab]]
+[[/tabview]]
+[[=]]
+[[image https://i.imgur.com/Vw5rie3.gif]]
+[[/=]]
++ 看著我幹嘛，我嚕你喔OwO+
+++ **不給我嚕也可以嚕我喔，>A<**
++++ 不然我會拿著奇異鳥跳早安操喔
+++++ --好累，超時搞笑有加罐罐咪?--
+[[tabview]]
+[[tab 提示：腳跟被蹭了]]
+[[div class="content-panel standalone series" style="background-color: #FFFFFF;"]]
+
+[[=]]
++ 踢那的作者感言
+[[/=]]
+
+.w.這裡是踢那的人事頁發表感言，感覺有點微妙就是了畢竟我寫這一篇咕了很久的說WWW
+
+我大約是在2018年8月多進來基金會的（看著歷史紀錄讀稿著），那時候其實是在中分打滾的，真的很開心呀可以看著大家文，興奮的幻想著，然後我就投入了寫作之中+w+
+
+第一篇是叫如妳所願來著，但因為有些中二且蘇蘇......有夠蘇的關係很快就負分了，而且有撞名到另一篇叫做如你所願的CN項目，所以在經歷一頓大修後就改名成讀心血姬然後又上市了。
+
+然後又自己下架了>wO
+
+就這樣經歷了兩次教訓後，我改為投入在另一篇上，叫做造物少女的--換皮版項目--，這篇也是在其他作者的指導下，很快的完整的架構，然後再次上市了。
+
+恩好，一樣又負分了，我領了領建議後也跟前兩次一樣自行下架了Qw<
+
+在連三次的失敗之後，我知道我需要沉澱一下所以就開始默默地盯著大家的文一邊啃一邊學習了。
+
+然後在2019年的夏天我不小心點了一下國際站......然後我發現了一件事//什麼，居然有ZH站//。
+
+那時候的我記憶還卡在很窮，整天倒掉TW站裡面，所以就抱著試看看的心情飛了進來，然後就在這裡生根了，並創作了現有的那幾篇，恩，分數還可以的文?
+
+--如果省略掉剛開始我也在繁中分部被D刪了兩篇的話，我確實是馬到成功咪。--
+
+總之我希望這篇人事頁能鼓舞一下在盯著我的人事頁的各位，請不要否認自己。
+
+我雖然現在看起來每一篇都有及格而且還有少數，恩，有一篇特別精緻，但那是因為我前面失敗了五次，那五次的失敗探路讓我找到了適合自己的寫作風格，當然絕大多數人都不需要失敗那麼多次，你甚至可能第一篇就上手OwOb+
+
+但我想說的是，請別否定你的點子，題材和點子從來沒有對錯，你只是需要不同的表達手法而已，就像那篇讀心血姬一樣，是的，她已經被D刪三次了，但如今的她，經過整整五代多至七代--對啦，連我都忘記有幾代版本了--的翻修後，已經脫離了當初雙手拿著霰彈槍屠殺市民，還毫無表情的一直逼問你許願機模樣，變成了.......恩，自我否定現實扭曲者ODO?
+
+恩好，感覺我解釋的很爛呢，總之，感謝各位來看我的人事頁咪!
+@@ @@
+@@ @@
+@@ @@
+[[/div]]
+[[>]]
+不知從哪裡撿到的講稿，反正我就拿來蹭人咪!
+-Willow
+[[/>]]
+[[/tab]]
+[[tab 警告：已誤入貂窩]]
+[[div style="border:solid 1px #999999; background:#99FFFF; padding:5px; margin-bottom: 10px;"]]
+[[=]]
++ 警告，你已經踏入貂窩，為了站點的繁榮請乖乖地躺在窩裡。
++++ Willow將會立即趕到現場將你做成好吃的貂罐罐。
+[[image https://i.imgur.com/MHMmVk1.png|width=20px]]
+[[/=]]
+[[/div]]
+
+你深深的吸了一口氣，告訴自己要冷靜並想辦法逃出這裡。
+
+看著已經反鎖......已經被整個焊死且融封的寢室房門[[footnote]]所以到底是怎麼把塑料門焊起來的。[[/footnote]]，你決定徹底搜索這裡，用所剩下的時間排除這個異常事件。
+**.**
+**.**
+**.**
+**.**
+**.**
++++ 發現三處可疑點
+[[collapsible show="檢查Willow的書桌" hide="檢查中"]]
+> 你謹慎地摸了摸書桌底下，試圖按下什麼密室按鈕，但卻只摸到溫凉又光滑平面。
+> 
+> 彎下腰來小心地看了看底部卻只看到泛著淺紫色的金屬襯底，或許這也是拋鈴人的專利材質吧。
+> 
+> 看著桌上的小筆電，於是你捏了捏看起來就很不散熱的軟毛裝飾，並在猶豫片刻後，果斷地放棄查看裡面的資料了。
+> 
+> --畢竟Willow特工因為擅自查看超權限文檔而暴斃的次數實在太多了，天知道她的電腦桌布會不會就是一個模因抹殺劑--。
+[[/collapsible]]
+[[collapsible show="探查神秘的小冰箱" hide="探查中"]]
+> 你站得很遠，小心地勾開了放在書桌下的小冰箱。
+> 
+> 和你擔心的一樣，Willow特工的冰箱逸散出了青綠色的光芒，那邪惡的光芒說明了其主人是多可怕的闇黑料理達人......
+> 
+> 才怪，你打消了奇怪的念頭，看著倒在冰箱底的玻璃瓶和緩緩流出的透明液體，你猜想著那是光芒的來源。
+> 
+> 為避免危險，你只是看著整齊排列著的玻璃瓶以及放在冰箱門上的餐食罐，然後小心的闔上了門板。
+> 
+> +++ 獲得維生補給-玉宴牌貂著走蔥香茄子罐三枚
+> +++ 獲得維生補給-民用高熱量營養餐盒六盒
+> +++ 獲得維生補給-以真空罩覆蓋的隔餐菜飯一盤
+> +++ 獲得不明物件-盛裝有透明液體的透明瓶兩枚
+> +++ 獲得不明物件-裝著透明液體的小安瓿一枚
+[[/collapsible]]
+[[collapsible show="搜查軟呼呼的睡窩" hide="搜查中"]]
+> 發現Willow的睡窩，從外觀上看來其結構蓬鬆柔軟，且有著與Willow一致的絨毛色澤。
+> 
+> 絨毛光暗分明並在邊緣處有向外逸散的跡象，顯示了Willow平時很喜歡窩成一球睡覺。
+> 
+> 而在仔細摸索後，發現了在硬底板下面藏了一疊被睡皺的文件和一隻貂抱枕，但並沒有期待看到的地道入口。
+> 
+> ......都是懲處確認單呢。
+> +++ 獲得重要道具-長長的貂抱枕
+[[/collapsible]]
+**.**
+**.**
+**.**
+**.**
+**.**
+門外傳來了拍打聲，看來Willow已經準備要攻進來了。
+@@ @@
+身為基金會職員的你，絕不屈服於異常的威脅之下，你開始尋找能用來當武器的物件
+**.**
+**.**
+**.**
+**.**
+**.**
++++ 發現了兩處物資點
+[[collapsible show="清點Willow的展示櫃" hide="這也太多了吧?"]]
+> +++ 發現可疑的玻璃罐
+[[table style="border-collapse:collapse; max-width: 600px;"]]
+[[row]]
+[[cell style="font-weight:bold;padding: .3em .7em; text-align: center; border: 1px solid black; background-color: silver; width: 20%;"]]
+物件名稱
+[[/cell]]
+[[cell style="font-weight:bold; padding: .3em .7em; text-align: center; border: 1px solid black; background-color: silver;"]]
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell style="text-align: center; padding: .3em .7em; border: 1px solid black"]]
+工具盒
+[[/cell]]
+[[cell style="border: 1px solid black; padding: .3em .7em;"]]
+已上鎖，看不清楚裡面有什麼，但其中一盒側面有充電端，四盒。
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell style="text-align: center; padding: .3em .7em; border: 1px solid black"]]
+絨毛球團
+[[/cell]]
+[[cell style="border: 1px solid black; padding: .3em .7em;"]]
+兩罐[[/cell]]
+[[/row]]
+[[row]]
+[[cell style="text-align: center; padding: .3em .7em; border: 1px solid black"]]
+金屬碎塊
+[[/cell]]
+[[cell style="border: 1px solid black; padding: .3em .7em;"]]
+透著銀白、銅黃的鑠亮光澤，七罐。
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell style="text-align: center; padding: .3em .7em; border: 1px solid black"]]
+門禁卡
+[[/cell]]
+[[cell style="border: 1px solid black; padding: .3em .7em;"]]
+從堆疊的厚度來看似乎已有逾百人受害，一盒。
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell style="text-align: center; padding: .3em .7em; border: 1px solid black"]]
+白色家鴨羽毛
+[[/cell]]
+[[cell style="border: 1px solid black; padding: .3em .7em;"]]
+特別的蓬鬆柔軟，讓人想伸手進去裡面摸摸，一個半罐。
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell style="text-align: center; padding: .3em .7em; border: 1px solid black"]]
+透明結晶體
+[[/cell]]
+[[cell style="border: 1px solid black; padding: .3em .7em;"]]
+看起來似乎是味精或冰糖，註記著誤食危險，勿催吐，一罐半。
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell style="text-align: center; padding: .3em .7em; border: 1px solid black"]]
+焦糖布丁，
+[[/cell]]
+[[cell style="border: 1px solid black; padding: .3em .7em;"]]
+其表面在室溫下結著一層冰霜，一罐。
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell style="text-align: center; padding: .3em .7em; border: 1px solid black"]]
+被塗黑的玻璃罐
+[[/cell]]
+[[cell style="border: 1px solid black; padding: .3em .7em;"]]
+隱隱約約的裡面傳出了雀叫聲，使你不敢直視，一罐。
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell style="text-align: center; padding: .3em .7em; border: 1px solid black"]]
+罐裝書卷
+[[/cell]]
+[[cell style="border: 1px solid black; padding: .3em .7em;"]]
+似乎罐子表面有著一隻蛸圖騰在爬行。一罐。
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell style="text-align: center; padding: .3em .7em; border: 1px solid black"]]
+隨身碟
+[[/cell]]
+[[cell style="border: 1px solid black; padding: .3em .7em;"]]
+外觀上只有接頭處，感覺插進去後就拔不出來了，一盒
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell style="text-align: center; padding: .3em .7em; border: 1px solid black"]]
+爆米花
+[[/cell]]
+[[cell style="border: 1px solid black; padding: .3em .7em;"]]
+--裡面飄出了雞米花--的香氣，約有一半個體被套上了小紗裙，另一半則套上了小浴衣，三罐。
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell style="text-align: center; padding: .3em .7em; border: 1px solid black"]]
+饅頭抱枕
+[[/cell]]
+[[cell style="border: 1px solid black; padding: .3em .7em;"]]
+縫有簡易的微笑，白白胖胖的，但註記著危險易爆，四罐且有獨立鉛製隔間。
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell style="text-align: center; padding: .3em .7em; border: 1px solid black"]]
+冰晶狀物體
+[[/cell]]
+[[cell style="border: 1px solid black; padding: .3em .7em;"]]
+浸在混濁液體之中，其雪白的色澤透出了一絲紫光，半罐。
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell style="text-align: center; padding: .3em .7em; border: 1px solid black"]]
+惡意的絨毛
+[[/cell]]
+[[cell style="border: 1px solid black; padding: .3em .7em;"]]
+沾染了一絲鮮血的白色羽毛狀組織，底部有著深且長的叢狀根結構，半罐。
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell style="text-align: center; padding: .3em .7em; border: 1px solid black"]]
+咪貓砂
+[[/cell]]
+[[cell style="border: 1px solid black; padding: .3em .7em;"]]
+細緻的大地色塵埃，看來Willow那陣子尾隨咪貓的原因出來了，一大桶又三罐。
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell style="text-align: center; padding: .3em .7em; border: 1px solid black"]]
+毛髮罐
+[[/cell]]
+[[cell style="border: 1px solid black; padding: .3em .7em;"]]
+玻璃罐內裝著各色整齊扎好的頭毛，其中一罐還註記了你的名稱，一整排
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell style="text-align: center; padding: .3em .7em; border: 1px solid black"]]
+藥學箱
+[[/cell]]
+[[cell style="border: 1px solid black; padding: .3em .7em;"]]
+有上鎖但可從小窗看到裡面堆疊著裝有淺紫色濁液的安瓿，一箱。
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell style="text-align: center; padding: .3em .7em; border: 1px solid black"]]
+貂皮草
+[[/cell]]
+[[cell style="border: 1px solid black; padding: .3em .7em;"]]
+十分的漂亮細緻，令人想一揉再揉，被框架稱了開來擺在最底部，感覺背後藏著什麼隱情。
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell style="text-align: center; padding: .3em .7em; border: 1px solid black"]]
+被溶封的試管
+[[/cell]]
+[[cell style="border: 1px solid black; padding: .3em .7em;"]]
+裡面盛裝著仍未凝固的血液，鮮紅之中帶有銀白的紋理，似乎含汞，一罐
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell style="text-align: center; padding: .3em .7em; border: 1px solid black"]]
+這裡應該有螃蟹
+[[/cell]]
+[[cell style="border: 1px solid black; padding: .3em .7em;"]]
+不知為何裡面似乎裝著由解字組成的蟹的空玻璃罐，一罐
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell style="text-align: center; padding: .3em .7em; border: 1px solid black"]]
+這不是豪豬
+[[/cell]]
+[[cell style="border: 1px solid black; padding: .3em .7em;"]]
+裝有迷你小刺蝟的玻璃罐，似乎因為內容物地打轉非常地不穩定，三罐
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell style="text-align: center; padding: .3em .7em; border: 1px solid black"]]
+5cm的極光
+[[/cell]]
+[[cell style="border: 1px solid black; padding: .3em .7em;"]]
+裝有希望、未來與回憶的瓶子，內壁似乎寫有字樣......，一罐
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell style="text-align: center; padding: .3em .7em; border: 1px solid black"]]
+醡醬罐
+[[/cell]]
+[[cell style="border: 1px solid black; padding: .3em .7em;"]]
+其玻璃罐表面透出了一種溫厚感，特麼的美黑，一小堆罐罐塔
+[[/cell]]
+[[/row]]
+[[/table]]
+[[/collapsible]]
+[[collapsible show="盤點Willow的收納箱" hide="這整理能力是怎麼回事?"]]
+> +++ 獲得私人物品
+> * 看起來就是從Dr.Tina那裏偷來的底火和罐裝小鋼珠，共一紙袋裝
+> * 人格證及拋鈴人作業員證明影本，一疊
+> * 小蒼蘭香的洗髮乳和潤髮晚霜，一套
+> * 貓耳型特製耳套，一副
+> * 女僕造型童裝，一件
+> * 貼身衣物，十四套
+> * 素面首飾盒，五盒
+> * 少女的秘密，一整箱。
+[[/collapsible]]
+**.**
+**.**
+**.**
+**.**
+**.**
+**☆**
+**.**
+**☆**
+**☆**
+**☆**
+喀的一聲，門打開了，此時的你已經無所畏懼，看著手中握著的東西，那是//希望//
+
+看著撲進寢室裡的嬌小女子，你一個箭步從門旁的縫隙中衝了出來，手裡緊抓著//未來//狠狠的抽了下去。
+
+一聲又一聲的細小哀號，很快的歹徒被打趴在地上，你得意的看著手裡的//自由//，向趕來的特工們揮手致敬。
+
+[[collapsible show="嘿，我沒事。" hide="嘿，我沒事。"]]
+> 看著嗚嗚啼啼的Willow，維安人員們首次感到了一絲疼惜，Willow掙扎著從地上爬了起來，把散落在地上的罐罐抱了起來，那是她最珍愛的收藏，然後一臉恐懼地看著你，你手裡，拿著最惡毒的武器，並在剛才狠毒的抽打著她。
+> 
+> 那是一隻可以延展到472m這麼長的貂貂玩偶，於是Willow縮成一球細聲說道**//我居然被一個玩偶欺負了QAQ//**
+[[/collapsible]]
+[[/tab]]
+[[/tabview]]
+[[/div]]

@@ -1,0 +1,1604 @@
+[[include :scp-zh-tr:component:interwiki-style
+| priority=1
+| theme=https://basalt-team.github.io/Basalt/normalize-min.css
+]]
+
+[[include :scp-zh-tr:component:interwiki-style
+| priority=2
+| theme=https://basalt-team.github.io/Basalt/basalt-bedrock-min.css
+]]
+
+[[include :scp-zh-tr:component:interwiki-style
+| priority=3
+| theme=https://scp-zh-tr.wdfiles.com/local--code/theme%3Abasalt/1
+]]
+
+[[include :scp-zh-tr:component:betterfootnotes]]
+
+[[module CSS]]
+@import url(https://scp-zh-tr.wdfiles.com/local--code/theme%3Abasalt/1)
+[[/module]]
+
+>[[ift{$darkmode}gs -basalt-override]]
+>[[iftags]]
+[[module CSS]]
+@import url(https://scp-zh-tr.wdfiles.com/local--code/theme%3Abasalt/2)
+[[/module]]
+
+[[include :scp-zh-tr:component:interwiki-style
+| priority=4
+| theme=https://scp-zh-tr.wdfiles.com/local--code/theme%3Abasalt/2
+]]
+
+>[[/iftags]]
+>[[/ift{$darkmode}gs]]
+
+>[[ift{$hidetitle}gs -basalt-override]]
+>[[iftags]]
+[[module CSS]]
+@import url(https://scp-zh-tr.wdfiles.com/local--code/theme%3Abasalt/3)
+[[/module]]
+>[[/iftags]]
+>[[/ift{$hidetitle}gs]]
+
+>[[ift{$centertitle}gs -basalt-override]]
+>[[iftags]]
+[[module CSS]]
+@import url(https://scp-zh-tr.wdfiles.com/local--code/theme%3Abasalt/4)
+[[/module]]
+>[[/iftags]]
+>[[/ift{$centertitle}gs]]
+
+>[[ift{$acs-itemnum}gs +外觀主題]]
+[[module CSS]]
+@import url(https://scp-zh-tr.wdfiles.com/local--code/theme%3Abasalt/5)
+[[/module]]
+>[[/ift{$acs-itemnum}gs]]
+
+>[[ift{$wide}gs -basalt-override]]
+>[[iftags]]
+[[module CSS]]
+@import url(https://scp-zh-tr.wdfiles.com/local--code/theme%3Abasalt/6)
+[[/module]]
+>[[/iftags]]
+>[[/ift{$wide}gs]]
+
+>[[ift{$disable-acs-anim}gs +外觀主題]]
+[[include :scp-zh-tr:component:acs-animation]]
+>[[/ift{$disable-acs-anim}gs]]
+
+[[iftags +外觀主題]]
+
+[[div id="default" style="display: none;"]]
+[[code type="css"]]
+
+/*  ____                  _ _     */
+/* |  _ \                | | |    */
+/* | |_) | __ _ ___  __ _| | |_   */
+/* |  _ < / _` / __|/ _` | | __|  */
+/* | |_) | (_| \__ \ (_| | | |_   */
+/* |____/ \__,_|___/\__,_|_|\__|  */
+/*                                */
+/* ============================== */
+/*                                */
+/* [2021 Wikidot Theme]           */
+/* Version 2.0.1                  */
+/*                                */
+/* by Liryn, Placeholder McD      */
+/* with thanks to EstrellaYoshte  */
+/*                                */
+/* Built on Bedrock               */
+/*                                */
+
+/*-----------------*/
+/*---- IMPORTS ----*/
+/*-----------------*/
+
+@import url('https://basalt-team.github.io/Basalt/normalize-min.css');
+@import url('https://basalt-team.github.io/Basalt/basalt-bedrock-min.css');
+
+@import url('https://fonts.googleapis.com/css2?family=Sofia+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+:root {
+
+    /*----------------------*/
+    /*---- BEDROCK VARS ----*/
+    /*----------------------*/
+
+    --header-logo: var(--logo);
+    --logo: url('https://scp-wiki.wikidot.com/local--files/theme:basalt/basalt_scp_logo-for_lightmode.svg');
+
+    --header-title: var(--title);
+    --header-subtitle: var(--subtitle);
+    --title: "SCP 基金會";
+    --subtitle: "控制 - 收容 - 保護";
+
+    --main-content-width: 60rem;
+    --main-content-top-margin: 1.5rem;
+    --base-font-size: .875rem;
+    --bottom-area-padding: calc(var(--true-font-size)*2);
+    --side-bar-width: 17rem;
+
+    --header-font-primary: var(--UI-font-primary);
+    --UI-font-primary: 'Sofia Sans';
+
+    --basalt-overtone: 10, 10, 11;
+    --basalt-undertone: var(--basalt-bright-element-color);
+    --basalt-UI-dark-palette: 50, 50, 51;
+    --basalt-bright-element-color: 150, 24, 43;
+    --basalt-dark-element-color: 105, 17, 30;
+    --basalt-alternate-color: 221, 119, 17;
+    --basalt-primary-color: 252, 252, 252;
+    --basalt-secondary-color: 240, 240, 244;
+    --basalt-tertiary-color: 229, 229, 238;
+    --basalt-main-text-color: 35, 35, 38;
+
+    --title-border-color: var(--basalt-overtone);
+    --license-area-divider-color: var(--basalt-overtone);
+    --footer-divider-color: var(--basalt-overtone);
+    --search-icon-color: var(--basalt-overtone);
+    --hr-color: var(--general-border-color);
+    --general-border-color: 220, 220, 220;
+    --rate-module-cancel-color: var(--basalt-alternate-color);
+    --scrollbar-thumb-color: var(--basalt-dark-element-color);
+
+    --side-bar-background-color: var(--basalt-secondary-color);
+    --side-bar-heading-background-color: 0, 0, 2, 0.07;
+    --side-bar-heading-text-color: var(--basalt-main-text-color);
+    
+    --side-bar-media-background-color: none; /* Disabled by default */
+    --side-bar-resources-background-color: none; /* Disabled by default */
+    --side-bar-button-background-hover: none; /* Disabled by default */
+    
+    --side-bar-button-color-hover: var(--basalt-main-text-color);
+
+    /*-----------------------*/
+    /*---- EXTERNAL VARS ----*/
+    /*-----------------------*/
+
+    --linkColour: rgb(var(--basalt-light-text-color)) !important;
+    --barColour: rgb(var(--basalt-undertone)) !important;
+    --fnColor: rgb(var(--basalt-bright-element-color));
+
+    --posX: 6vw;
+    --fnLinger: 0.33s;
+
+    --one-color: 0, 159, 107;
+    --two-color: 0, 135, 189;
+    --three-color: 255, 211, 0;
+    --four-color: 255, 109, 0;
+    --five-color: 196, 2, 51;
+    --six-color: 173, 77, 191;
+
+    /*---------------------*/
+    /*---- BASALT VARS ----*/
+    /*---------------------*/
+
+    --basalt-th-background-color: var(--basalt-UI-dark-palette);
+    --basalt-th-text-color: var(--basalt-light-text-color);
+    --ACS-font: var(--header-font);
+    --authorbox-background-color: var(--basalt-primary-color);
+    --floatbox-background-color: var(--basalt-secondary-color);
+    --document-background-color: 253, 253, 253;
+    --darkdocument-background-color: 30, 30, 35;
+    --edit-area-ancillary-text-color: var(--basalt-main-text-color);
+
+    --header-drop-shadow-opacity: 0.1;
+    --window-border-radius: 8px;
+}
+
+/*------------------------*/
+/*---- BASALT CLASSES ----*/
+/*------------------------*/
+
+:is(div.blockquote, blockquote) {
+    color: rgb(var(--basalt-main-text-color));
+    overflow: auto;
+}
+
+:is(div.blockquote, blockquote):has(div.floatbox) {
+    overflow: unset;
+}
+
+#page-content div.notation {
+    max-width: 45rem;
+}
+
+div.notation {
+    display: block;
+    margin-inline: auto;
+    margin-block: 1.4rem;
+    padding-inline: 1.1rem;
+    padding-block: 0.9rem;
+    background-color: rgb(var(--basalt-secondary-color));
+    border-left: solid 0.25rem rgb(var(--general-border-color));
+    border-right: solid 0.25rem rgb(var(--general-border-color));
+    color: rgb(var(--basalt-main-text-color));
+}
+
+#page-content div.modal {
+    max-width: 57rem;
+}
+
+div.modal {
+    display: block;
+    margin-inline: auto;
+    margin-block: 1.4rem;
+    padding-inline: 1.5rem;
+    padding-block: 0.5rem;
+    background-color: rgb(var(--basalt-primary-color));
+    border: solid 0.2rem rgb(var(--general-border-color));
+    color: rgb(var(--basalt-main-text-color));
+}
+
+#page-content div.smallmodal {
+    max-width: 47rem;
+}
+
+div.smallmodal {
+    display: block;
+    margin-inline: auto;
+    margin-block: 1.4rem;
+    padding-inline: 1rem;
+    padding-block: 0.2rem;
+    background-color: rgb(var(--basalt-primary-color));
+    border: solid 0.15rem rgb(var(--general-border-color));
+    color: rgb(var(--basalt-main-text-color));
+}
+
+#page-content div:is(.jotting, .transcript) {
+    max-width: 42rem;
+}
+
+div:is(.jotting, .transcript) {
+    display: block;
+    margin-inline: auto;
+    margin-block: 1.4rem;
+    padding-inline: 1.5rem;
+    padding-block: 0.2rem;
+    background-color: rgb(var(--basalt-secondary-color));
+    border: dashed 0.15rem rgb(var(--general-border-color));
+    color: rgb(var(--basalt-main-text-color));
+}
+
+#page-content div.papernote {
+    max-width: 30rem;
+}
+
+div.papernote {
+    display: block;
+    margin-inline: auto;
+    margin-block: 1.4rem;
+    padding: 1rem 2rem;
+    background-color: rgb(var(--basalt-tertiary-color));
+    color: rgb(var(--basalt-main-text-color));
+}
+
+#page-content div:is(.document, .darkdocument) {
+    max-width: 45rem;
+}
+
+div:is(.document, .darkdocument) {
+    display: block;
+    margin-inline: auto;
+    margin-block: 1.5em;
+    padding: 1.5rem;
+    position: relative;
+    --posX: -20vw;
+}
+
+div.document {
+    background-color: rgb(var(--document-background-color));
+    box-shadow: 0px 1px 1.9px -4px rgba(0, 0, 0, 0.1), 0px 6px 15px -4px rgba(0, 0, 0, 0.2);
+    color: rgb(50, 50, 53);
+}
+
+div.darkdocument {
+    background-color: rgb(var(--darkdocument-background-color));
+    box-shadow: 0px 1px 1.9px -4px rgba(0, 0, 10, 0.8), 0px 6px 15px -4px rgba(0, 0, 7, 0.9);
+    color: rgb(195, 195, 200);
+}
+
+div:is(.document, .darkdocument)::before,
+div:is(.document, .darkdocument)::after {
+    content: "";
+    height: 98%;
+    position: absolute;
+    width: 98%;
+    z-index: -1;
+}
+
+div:is(.document, .darkdocument)::before {
+    left: -5px;
+    top: 4px;
+    transform: rotate(-2.5deg);
+}
+
+div:is(.document, .darkdocument)::after {
+    right: -3px;
+    top: 1px;
+    transform: rotate(1.4deg);
+}
+
+div:is(.document)::before,
+div:is(.document)::after {
+    background-color: rgb(var(--document-background-color));
+}
+
+div:is(.darkdocument)::before,
+div:is(.darkdocument)::after {
+    background-color: rgb(var(--darkdocument-background-color));
+    opacity: 90%;
+}
+
+div.document::before {
+    box-shadow: 0px 1px 1.9px -4px rgba(0, 0, 0, 0.1), 0px 6px 15px -4px rgba(0, 0, 0, 0.1);
+}
+
+div.document::after {
+    box-shadow: 0px 1px 1.9px -4px rgba(0, 0, 0, 0.1), 0px 6px 15px -4px rgba(0, 0, 0, 0.05);
+}
+
+div.darkdocument::before {
+    box-shadow: 0px 1px 1.9px -4px rgba(0, 0, 10, 0.8), 0px 6px 15px -4px rgba(0, 0, 7, 0.9);
+}
+
+div.darkdocument::after {
+    box-shadow: 0px 1px 1.9px -4px rgba(0, 0, 10, 0.8), 0px 6px 15px -4px rgba(0, 0, 7, 0.05);
+}
+
+@media only screen and (max-width: 1020px) {
+
+    div:is(.document, .darkdocument)::before,
+    div:is(.document, .darkdocument)::after {
+     display: none;
+    }
+}
+
+div[class$="_memo"] {
+    background: var(--memo-logo) rgba(var(--memo-color), 1);
+    background-size: contain;
+    background-position: top center;
+    background-repeat: no-repeat;
+    min-height: 4rem;
+    margin-inline: auto;
+    margin-block: 2rem;
+    padding-inline: 20px;
+    padding-block: 10px;
+    border: solid 2px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+div[class$="_memo"]::before {
+    content: var(--memo-heading);
+    font-family: var(--UI-font);
+    font-weight: 900;
+    font-size: 1.3em;
+    text-align: center;
+    margin: 0 auto 1rem auto;
+    display: flex;
+    flex-direction: column;
+    padding-top: 0.5em;
+}
+
+div.raisa_memo {
+    --memo-heading: "來自紀錄及資訊安全管理部的通知";
+    --memo-logo: url(https://scp-wiki.wikidot.com/local--files/theme:basalt/RAISA_LIGHTLOGO.png);
+    --memo-color: 255, 243, 173;
+}
+
+div.classification_memo {
+    --memo-heading: "分級委員會備忘錄";
+    --memo-logo: url(https://scp-wiki.wikidot.com/local--files/theme:basalt/CLASSIFICATION_LIGHTLOGO.png);
+    --memo-color: 237, 245, 243;
+}
+
+div.ettra_memo {
+    --memo-heading: "來自潛在威脅戰術應對機構的通知";
+    --memo-logo: url(https://scp-wiki.wikidot.com/local--files/theme:basalt/ETTRA_LIGHTLOGO.png);
+    --memo-color: 245, 215, 215;
+}
+
+div.ethics_memo {
+    --memo-heading: "倫理委員會備忘錄";
+    --memo-logo: url(https://scp-wiki.wikidot.com/local--files/theme:basalt/ETHICS_LIGHTLOGO.png);
+    --memo-color: 255, 219, 196;
+}
+
+div.temporal_memo {
+    --memo-heading: "時間異常部門";
+    --memo-logo: url(https://scp-wiki.wikidot.com/local--files/theme:basalt/DELTA_T_LIGHTLOGO.png);
+    --memo-color: 255, 255, 255;
+}
+
+div.overwatch_memo {
+    --memo-heading: "來自監督者的指示";
+    --memo-logo: url(https://scp-wiki.wikidot.com/local--files/theme:basalt/O5_LIGHTLOGO.png);
+    --memo-color: 227, 227, 227;
+}
+
+div.miscomm_memo {
+    --memo-heading: "來自誤傳部門的通知";
+    --memo-logo: url(https://scp-wiki.wikidot.com/local--files/theme:basalt/MISCOMM_LIGHTLOGO.png);
+    --memo-color: 238, 237, 250;
+}
+
+.table1 {
+    --basalt-th-background-color: var(--one-color);
+}
+
+.table2 {
+    --basalt-th-background-color: var(--two-color);
+}
+
+.table3 {
+    --basalt-th-background-color: var(--three-color);
+    --basalt-th-text-color: var(--basalt-main-text-color);
+}
+
+.table4 {
+    --basalt-th-background-color: var(--four-color);
+}
+
+.table5 {
+    --basalt-th-background-color: var(--five-color);
+}
+
+.table6 {
+    --basalt-th-background-color: var(--six-color);
+}
+
+div:is(.table1, .table2, .table3, .table4, .table5, .table6) .scp-image-block {
+    border-bottom-color: rgba(var(--basalt-th-background-color), 0.75);
+}
+
+div.tableb :is(#page-content table:not(.form), table.wiki-content-table) {
+    border-collapse: separate;
+    border-spacing: 4px;
+}
+
+span:is(.bigtext, .bt) {
+    font-family: var(--header-font);
+    font-weight: bold;
+}
+
+span:is(.specialtext, .st) {
+    font-family: var(--UI-font);
+    font-weight: bold;
+}
+
+:is(.table1, .table2, .table3, .table4, .table5, .table6) span:is(.st, .specialtext) {
+    color: rgb(var(--basalt-th-background-color));
+}
+
+#page-content div.floatbox {
+    background-color: rgb(var(--floatbox-background-color));
+    float: left;
+    max-width: calc(var(--main-content-width)/2.25);
+    box-sizing: border-box;
+    margin: 0.25rem 1.25rem;
+    margin-left: clamp(calc(var(--main-content-width)/-4.5), calc((87.5vw - 95%)/-2), 0rem);
+    padding-inline: 1.2rem;
+    padding-block: 0.5rem;
+    font-size: 0.9125em;
+    border-radius: 7px;
+    border: solid 0.12rem rgba(var(--general-border-color), 0.4);
+}
+
+#page-content div.floatbox.right {
+    float: right;
+    margin-left: 1.25rem;
+    margin-right: clamp(calc(var(--main-content-width)/-4.5), calc((87.5vw - 95%)/-2), 0rem);
+}
+
+@media only screen and (max-width: 640px) {
+    #page-content div:is(.floatbox, .floatbox.right) {
+     float: none;
+     margin: 0.5rem auto;
+     width: 100%;
+    }
+}
+
+:is(.table-no-border, .authorbox) td {
+    border-color: transparent !important;
+}
+
+/*--------------*/
+/*---- MISC ----*/
+/*--------------*/
+
+html {
+    scroll-behavior: smooth;
+    overflow-x: hidden;
+}
+
+body,
+li,
+p {
+    line-height: 1.55;
+    letter-spacing: 0.013rem;
+}
+
+@supports (font-feature-settings: inherit) {
+
+    *,
+    *::before,
+    *::after {
+     font-feature-settings:
+     "zero" var(--zero, 0);
+    }
+
+}
+
+#page-content {
+    font-size: calc(var(--true-font-size) * 1.08);
+}
+
+:where(#main-content) [id] {
+    scroll-margin-top: calc(var(--header-final-height) + 1rem);
+}
+
+/* MISC --> Header alterations */
+
+#header {
+    background: linear-gradient(0deg, rgba(var(--header-background-color), 0.85) 0%, rgb(var(--header-background-color)) 100%);
+    border-bottom: none;
+    box-shadow: 0px 0px 8.5px -1px rgba(0, 0, 0, var(--header-drop-shadow-opacity)), 0px 0px 68px -21px rgba(0, 0, 0, calc(var(--header-drop-shadow-opacity) * 4));
+    -webkit-backdrop-filter: blur(var(--basalt-UI-blur));
+    backdrop-filter: blur(var(--basalt-UI-blur));
+    font-family: var(--header-font);
+}
+
+#header h1 a {
+    padding-left: calc(var(--base-header-height)*0.25);
+    padding-right: calc(var(--base-header-height)*0.5);
+}
+
+#header h1 a span::after {
+    margin-bottom: 6px;
+}
+
+#header h1 a span {
+    align-items: unset;
+    text-align: unset;
+}
+
+#top-bar div[class*="top-bar"] ul li ul li a {
+    box-shadow: none;
+}
+
+#login-status span.printuser>a img {
+    filter: drop-shadow(0rem 0.2rem 0.35rem rgba(0, 0, 0, 0.19));
+}
+
+/* MISC --> Side bar alterations */
+
+#side-bar:is(:hover, :focus-within)::before {
+    height: calc(var(--base-header-height) + var(--header-border-width));
+}
+
+:is(#side-bar, #interwiki) .heading {
+    background-color: rgb(var(--side-bar-heading-background-color));
+    color: rgba(var(--side-bar-heading-text-color), 0.8);
+}
+
+#side-bar:is(:hover, :focus-within)::after {
+    opacity: 35%;
+}
+
+#side-bar::after {
+    transition: background-color var(--side-bar-transition), opacity var(--side-bar-transition);
+}
+
+/* MISC --> Various UI alterations */
+
+form#edit-page-form table.form td:nth-of-type(1) {
+    display: none;
+}
+
+#edit-page-title {
+    text-align: center;
+    background-color: rgba(var(--edit-area-ancillary-background-color), 0.3) !important;
+    border: solid var(--edit-area-border-width) rgb(var(--edit-area-border-color), 0.5) !important;
+    border-top-right-radius: var(--window-border-radius);
+    border-top-left-radius: var(--window-border-radius);
+}
+
+#edit-page-textarea {
+    font-family: var(--mono-font);
+    height: 47vh;
+}
+
+#edit-page-form .wd-editor-toolbar-panel a::after {
+    -webkit-mask-size: 70%;
+    mask-size: 70%;
+}
+
+#wd-editor-toolbar-panel>div {
+    grid-gap: calc(var(--edit-area-toolbar-icon-size)/1.6);
+}
+
+#edit-page-form>.buttons.alignleft>input[type="button"] {
+    font-size: var(--true-font-size);
+    padding: 1ch;
+}
+
+#edit-page-title,
+#lock-info,
+#edit-page-comments {
+    color: rgb(var(--edit-area-ancillary-text-color), 0.8);
+}
+
+form#edit-page-form>table.form::before {
+    color: rgb(var(--edit-area-ancillary-text-color));
+}
+
+#lock-info {
+    border: solid 0.12rem rgba(var(--general-border-color), 0.4);
+}
+
+#action-area div.buttons> :is([name="save"],
+[name="save-continue"],
+[onclick*="PageTagsModule.listeners.save(event)"]) {
+    --button-text-color: var(--basalt-positive-color);
+    font-weight: bold;
+}
+
+#footer {
+    color: var(--bottom-area-text-color);
+    border-top: solid 2px rgb(var(--basalt-tertiary-color));
+}
+
+#license-area::before,
+#license-area::after {
+    margin-bottom: 10px;
+}
+
+div[id*="page-options-bottom"]>a {
+    font-family: var(--UI-font);
+}
+
+#more-options-button {
+    background-color: rgb(var(--basalt-tertiary-color));
+    color: inherit;
+}
+
+form#edit-page-form>table.form {
+    position: relative;
+}
+
+form#edit-page-form>table.form::before {
+    content: "Title";
+    display: block;
+    position: absolute;
+    bottom: 30%;
+    pointer-events: none;
+    opacity: 35%;
+    font-family: var(--UI-font);
+    font-weight: bold;
+    font-size: 11px;
+    width: calc(100% - 15px);
+    padding-left: 15px;
+}
+
+#edit-page-textarea:focus-visible {
+    border-color: rgb(var(--basalt-dark-element-color));
+}
+
+#action-area>p {
+    font-size: 0.9em;
+    text-align: center;
+}
+
+#footer .options {
+    border-right: solid var(--footer-divider-thickness) rgba(var(--footer-divider-color), 0.1);
+}
+
+#license-area::before {
+    background: rgba(var(--license-area-divider-color), 0.1);
+}
+
+.autocomplete-list li.yui-ac-highlight {
+    background-color: rgb(var(--basalt-secondary-color));
+}
+
+#revision-list .page-history tr[id*="revision-row"] td:nth-child(1)::before {
+    background-color: rgb(var(--basalt-undertone));
+}
+
+#revision-list .page-history tr[id*="revision-row"]::before {
+    background: rgb(var(--basalt-undertone));
+}
+
+.owindow {
+    border-radius: var(--window-border-radius);
+}
+
+.owindow .button-bar>a[onclick*="cleanAll"] {
+    border-top-right-radius: var(--window-border-radius);
+}
+
+.owindow .title {
+    font-family: var(--UI-font);
+    background-color: transparent;
+    height: 2rem;
+    justify-content: center;
+    opacity: 60%;
+    color: rgb(var(--basalt-main-text-color));
+}
+
+.owindow div[style*="margin-top"] {
+    margin-bottom: 12px;
+    margin-top: 20px !important;
+}
+
+.owindow> :not(.button-bar, .title)>img {
+    height: 5em;
+    border-radius: var(--window-border-radius);
+}
+
+.owindow .button-bar>a[onclick*="cleanAll"]::after {
+    background: rgb(var(--basalt-main-text-color));
+    transition-property: background;
+    transition-duration: 0.3s;
+}
+
+.owindow .button-bar>a[onclick*="cleanAll"]:hover::after {
+    background: rgb(var(--basalt-light-text-color));
+}
+
+.owindow>.content.modal-body>img+h1+table>tbody>tr>td {
+    text-align: inherit;
+}
+
+#search-top-box::before {
+    background-color: rgb(var(--basalt-UI-dark-palette));
+}
+
+#search-top-box-input {
+    outline: solid 0 rgb(var(--basalt-UI-dark-palette));
+}
+
+#main-content .page-tags span::before {
+    content: "TAGS";
+    font-weight: 900;
+    opacity: 80%;
+    margin-inline: 10px;
+    align-self: center;
+    font-size: 10px;
+}
+
+#main-content>.page-tags>span {
+    grid-gap: 0.6rem;
+    font-family: var(--UI-font);
+    font-size: calc(var(--true-font-size)*0.85);
+}
+
+#action-area>h1 {
+    margin: 0.425rem 0 1rem;
+}
+
+.preview-message {
+    border: 0.15rem dashed rgb(var(--general-border-color));
+    background-color: rgba(var(--basalt-secondary-color));
+}
+
+/* MISC --> Content alterations */
+
+#page-content {
+    padding-block: 2em;
+    font-weight: 440;
+}
+
+#page-title,
+.meta-title {
+    border-bottom: solid 0.15rem rgba(var(--title-border-color), 0.1);
+    color: rgba(var(--basalt-main-text-color), 0.75);
+    letter-spacing: -0.05rem;
+}
+
+#page-title {
+    display: block;
+}
+
+#breadcrumbs,
+.pseudocrumbs {
+    font-size: 1em;
+    margin: 0.7em 0 0 0;
+}
+
+.footer-wikiwalk-nav {
+    margin-top: 3em;
+    font-family: var(--UI-font);
+    font-size: 0.9em;
+    font-weight: 900;
+    word-spacing: 0.3em;
+}
+
+.licensebox {
+    text-align: center;
+}
+
+.licensebox :is(blockquote, .blockquote) {
+    text-align: left;
+}
+
+hr {
+    height: 2px;
+    margin-block: 1rem;
+    margin-inline: 1rem;
+    overflow: auto;
+}
+
+.bibitems .title,
+.footnotes-footer .title {
+    text-transform: none;
+}
+
+.bibitems,
+.footnotes-footer {
+    margin: 4rem 0;
+}
+
+:is(.anom-bar-container, .anom-bar-esoteric) + :not(.acs-extra),
+.acs-extra + * {
+    margin-top: 1.2rem !important;
+}
+
+.anom-bar-container,
+.anom-bar-container *,
+.acs-extra {
+    font-family: var(--ACS-font), var(--body-font) !important;
+}
+
+#delete-button:is(:hover, :focus) {
+    background-color: rgb(var(--basalt-negative-color));
+}
+
+.anom-bar-container.ekhi .danger-diamond>.quadrants>.left-quad,
+.anom-bar-container.danger .danger-diamond>.quadrants>.right-quad {
+    background-color: rgba(255, 109, 0, 0.25);
+    background-color: rgb(var(--four-color), 0.25) !important;
+}
+
+.yui-ac-content {
+    background: rgb(var(--basalt-primary-color));
+    border: 1px solid rgb(var(--basalt-tertiary-color));
+}
+
+/* BetterFootnotes adjusted to make better use of space on wider screens, at the cost of slide-in animation */
+
+/* Plus some cosmetic adjustments */
+
+.fncon {
+    background-color: rgb(var(--basalt-primary-color));
+    border: solid 2px rgb(var(--basalt-tertiary-color));
+    border-left: none;
+    box-shadow: -8px 0px var(--fnColor);
+    line-height: inherit;
+    font-size: 0.9em;
+    right: var(--posX);
+    transition: opacity 0.15s linear var(--fnLinger), visibility 0.01s linear var(--fnInteract);
+}
+
+.fnnum:hover+.fncon,
+.fncon:hover {
+    transition: opacity 0.15s linear;
+}
+
+.fncon::before {
+    color: rgba(255, 255, 255, 0.8);
+    top: -2px;
+    left: initial;
+    right: 100%;
+    transform: none;
+    font-size: 1.125rem;
+    text-align: right;
+    font-family: var(--mono-font);
+}
+
+@media only screen and (max-width: 1279px) {
+    .fncon {
+     left: 10%;
+    }
+}
+
+.collection .collapsible-block {
+    background-color: rgb(var(--basalt-background-color));
+    border: none;
+}
+
+.collection :is(.collapsible-block-unfolded-link, .collapsible-block-folded) a {
+    border: none;
+}
+
+sub,
+sup {
+    line-height: inherit;
+}
+
+:is(.image-block, .scp-image-block) :is(.image-caption, .scp-image-caption) {
+    background: inherit;
+}
+
+.scp-image-block.block-left,
+.scp-image-block.block-right {
+    clear: both;
+}
+
+.scp-image-block .scp-image-caption {
+    font-weight: 600;
+}
+
+.authorbox {
+    background-color: rgb(var(--authorbox-background-color)) !important;
+    color: rgb(var(--basalt-main-text-color)) !important;
+    filter: drop-shadow(0rem 0.4rem 0.7rem rgba(0,0,0,0.2)) !important;
+}
+
+.authorbox::before {
+    border-color: transparent transparent rgb(var(--authorbox-background-color)) transparent !important;
+}
+
+.authorlink-wrapper {
+    --author-top-adjust: 0;
+    --author-bottom-adjust: 1.5rem;
+}
+
+.authorlink-wrapper > a {
+    font-weight: bold !important;
+}
+
+:is(#page-content table:not(.form), table.wiki-content-table) {
+    table-layout: fixed;
+}
+
+@supports (-webkit-touch-callout: none) /* Targets iOS only */ {
+
+    :is(#page-content table:not(.form), table.wiki-content-table) {
+     max-width: none;
+     width: auto;
+     min-width: 100%;
+    }
+
+}
+
+:is(#page-content table:not(.form), table.wiki-content-table) th {
+    font-family: var(--body-font);
+    padding: 0.45em 0.7em;
+    background-color: rgb(var(--basalt-th-background-color));
+    border-color: rgb(var(--basalt-th-background-color));
+    color: rgb(var(--basalt-th-text-color));
+    letter-spacing: 0.033rem;
+    text-align: center;
+}
+
+#page-content .quadrants > div {
+    top: 2.25%;
+    left: 18.5%;
+}
+
+.printuser a {
+    font-weight: 600;
+}
+
+/*-------------------------------------------------*/
+/*----- END OF DEFAULT STYLING ("LIGHT MODE") -----*/
+/*-------------------------------------------------*/
+
+[[/code]]
+[[/div]]
+
+[[div id="darkmode" style="display: none;"]]
+[[code type="css"]]
+
+:root {
+
+    /*----------------------*/
+    /*---- BEDROCK VARS ----*/
+    /*---- (DARK MODE) -----*/
+    /*----------------------*/
+
+    --logo: url(https://scp-wiki.wikidot.com/local--files/theme:basalt/basalt_scp_logo-for_darkmode.svg);
+
+    --basalt-overtone: 180, 180, 185;
+    --basalt-UI-dark-palette: 55, 55, 63;
+    --basalt-bright-element-color: 215, 33, 66;
+    --basalt-dark-element-color: 194, 25, 53;
+    --basalt-primary-color: 15, 15, 19;
+    --basalt-secondary-color: 30, 30, 35;
+    --basalt-tertiary-color: 45, 45, 51;
+    --basalt-main-text-color: 195, 195, 200;
+
+    --general-border-color: 70, 70, 80;
+    --modal-fader-background-color: var(--basalt-secondary-color);
+    --button-hover-text-color: var(--basalt-main-text-color);
+    --top-bar-link-color-hover: var(--basalt-main-text-color);
+    --top-bar-link-background-hover: var(--basalt-dark-element-color);
+    --login-status-link-background-hover: var(--basalt-undertone);
+    --login-status-text-color: var(--basalt-main-text-color);
+    --selection-background-color: var(--basalt-undertone);
+    --selection-text-color: var(--basalt-main-text-color);
+    --rate-module-info-icon-color: var(--basalt-main-text-color);
+    --tab-focus-text-color: var(--basalt-main-text-color);
+
+    --side-bar-heading-background-color: 253, 253, 255, 0.07;
+    --side-bar-heading-text-color: var(--basalt-main-text-color);
+    --side-bar-link-color-hover: var(--basalt-main-text-color);
+
+    --basalt-negative-color: 209, 38, 38;
+    --basalt-focus-color: var(--basalt-tertiary-color);
+
+    --linkColour: rgb(var(--basalt-main-text-color)) !important;
+    --swatch-menubg-black-color: 90, 90, 100;
+
+    /*-----------------------------*/
+    /*---- THEME-SPECIFIC VARS ----*/
+    /*---- (DARK MODE) ------------*/
+    /*-----------------------------*/
+
+    --basalt-th-text-color: var(--basalt-main-text-color);
+    --authorbox-background-color: var(--basalt-secondary-color);
+    --header-drop-shadow-opacity: 0.32;
+
+}
+
+:is(#u-credit-view, div#u-credit-otherwise) .modalbox {
+    --basalt-light-text-color: var(--basalt-main-text-color);
+}
+
+.owindow .button-bar>a[onclick*="cleanAll"]::after,
+.owindow .button-bar>a[onclick*="cleanAll"]:hover::after {
+    background: rgb(var(--basalt-main-text-color));
+}
+
+div[id*="page-options-bottom"]>a:is(:hover, :focus) {
+    color: rgb(var(--basalt-main-text-color));
+}
+
+#more-options-button:is(:hover, :focus) {
+    color: rgb(var(--basalt-main-text-color));
+    background-color: rgb(var(--general-border-color));
+}
+
+form#edit-page-form table.edit-page-bottomtable tr td:nth-of-type(1)>div:nth-of-type(1):focus-within {
+    color: rgb(var(--basalt-main-text-color));
+}
+
+:is(#file-upload-form table.form, form[onsubmit*="setParent"] > table.form, #rename-option-rename table.form)>tbody>tr>td:nth-child(1) {
+    color: rgb(var(--basalt-main-text-color)) !important;
+}
+
+.bibitems .title,
+.footnotes-footer .title {
+    color: rgb(var(--basalt-main-text-color));
+}
+
+.yui-navset.yui-navset-top>ul.yui-nav>li:not(li.selected)>a:hover {
+    color: rgb(var(--basalt-light-text-color));
+}
+
+.hovertip .content .footnote .f-heading,
+.hovertip .content .reference .r-heading {
+    color: rgb(var(--basalt-main-text-color));
+}
+
+.hovertip {
+    border: solid 0.125rem rgb(var(--basalt-UI-dark-palette)) !important;
+}
+
+#edit-page-form .wd-editor-toolbar-panel a:is(:hover, :focus)::after,
+#edit-page-form .wd-editor-toolbar-panel div>ul>li.sfhover>a:not(:hover, :focus)::after,
+#edit-page-form .wd-editor-toolbar-panel div>ul>li:focus-within>a:not(:hover, :focus)::after {
+    background-color: rgb(var(--basalt-main-text-color));
+}
+
+#main-content :is(.pager .pager-no, .pager>span.current) {
+    color: rgb(var(--main-text-color));
+}
+
+#revision-list .page-history tr[id*="revision-row"] td:nth-child(3)>span::before {
+    background: rgb(var(--basalt-undertone));
+}
+
+#history-form-1>table.form>tbody>tr:first-child>td:first-child {
+    color: rgb(var(--basalt-main-text-color));
+}
+
+#main-content .pager span>a:is(:hover, :focus) {
+    color: rgb(var(--basalt-main-text-color));
+}
+
+[type="checkbox"]:checked {
+    border-color: rgb(var(--basalt-undertone));
+    background-color: rgb(var(--basalt-undertone));
+}
+
+input[type="checkbox"], [type="radio"] {
+    border: solid 0.25em rgba(255, 255, 255, 0.35);
+}
+
+[type="radio"]:checked {
+    border: solid 0.425em rgb(var(--basalt-dark-element-color));
+}
+
+#page-options-container .page-watch-options {
+    color: rgba(var(--basalt-main-text-color, 0.2));
+}
+
+/*---------------------*/
+/*---- BASALT DIVS ----*/
+/*---- (DARK MODE) ----*/
+/*---------------------*/
+
+div[class$="_memo"] {
+    background-color: rgba(var(--basalt-secondary-color), 1);
+    border: solid 2px rgba(var(--memo-color), 1);
+}
+
+div[class$="_memo"]::before {
+    color: rgb(var(--memo-color));
+}
+
+div.raisa_memo {
+    --memo-logo: url(https://scp-wiki.wikidot.com/local--files/theme:basalt/RAISA_DARKLOGO.png);
+}
+
+div.classification_memo {
+    --memo-logo: url(https://scp-wiki.wikidot.com/local--files/theme:basalt/CLASSIFICATION_DARKLOGO.png);
+}
+
+div.ettra_memo {
+    --memo-logo: url(https://scp-wiki.wikidot.com/local--files/theme:basalt/ETTRA_DARKLOGO.png);
+}
+
+div.ethics_memo {
+    --memo-logo: url(https://scp-wiki.wikidot.com/local--files/theme:basalt/ETHICS_DARKLOGO.png);
+}
+
+div.temporal_memo {
+    --memo-logo: url(https://scp-wiki.wikidot.com/local--files/theme:basalt/DELTA_T_DARKLOGO.png);
+    --memo-color: 195, 195, 200;
+}
+
+div.overwatch_memo {
+    --memo-logo: url(https://scp-wiki.wikidot.com/local--files/theme:basalt/O5_DARKLOGO.png);
+}
+
+div.miscomm_memo {
+    --memo-logo: url(https://scp-wiki.wikidot.com/local--files/theme:basalt/MISCOMM_DARKLOGO.png);
+}
+
+:is(.table1, .table2, .table3, .table4, .table5, .table6) {
+    --basalt-th-text-color: var(--basalt-light-text-color);
+}
+
+:is(div.table1, div.table2, div.table3, div.table4, div.table5, div.table6) span:is(.specialtext, .st) {
+    filter: brightness(1.2);
+}
+
+:is(.table1, .table2, .table3, .table4, .table5, .table6) h1 {
+    color: rgb(var(--basalt-th-background-color));
+}
+
+/*--------------*/
+/*---- MISC ----*/
+/*--------------*/
+
+.fncon::before {
+    color: rgba(0, 0, 0, 0.75);
+}
+
+/*--------------------------------------*/
+/*----- END OF "DARK MODE" STYLING -----*/
+/*--------------------------------------*/
+
+[[/code]]
+[[/div]]
+
+[[div id="hidetitle" style="display: none;"]]
+[[code type="css"]]
+
+#page-title {
+    display: none !important;
+}
+
+[[/code]]
+[[/div]]
+
+[[div id="centertitle" style="display: none;"]]
+[[code type="css"]]
+
+#page-title, .meta-title, #breadcrumbs, .pseudocrumbs {
+text-align: center;
+}
+
+[[/code]]
+[[/div]]
+
+[[div id="acs-itemnum" style="display: none;"]]
+[[code type="css"]]
+
+.top-left-box>.item {
+    display: none;
+}
+
+[[/code]]
+[[/div]]
+
+[[div id="wide" style="display: none;"]]
+[[code type="css"]]
+
+:root {
+    --main-content-width: 70rem;
+    --posX: 4vw;
+}
+
+#page-content div.modal {
+    max-width: 100%;
+}
+
+[[/code]]
+[[/div]]
+
+[[module CSS]]
+
+:root {
+    --main-content-width: 70rem;
+    --posX: 4vw;
+}
+
+#page-title {
+    display: none;
+}
+
+.noclick {
+    user-select: none;
+}
+
+[[/module]]
+
+[[=]]
+[[module Rate]]
+[[/=]]
+
+[[div class="noclick" style="filter: drop-shadow(0px 33px 75px rgba(0, 0, 60, 0.4));"]]
+@@ @@
+[[=]]
+[[div style="margin: auto; max-width: 30rem; opacity: 85%;"]]
+[[=image https://scp-wiki.wikidot.com/local--files/theme:basalt/basalt-theme-logo.svg]]
+[[/div]]
+[[/=]]
+@@ @@
+@@ @@
+[[/div]]
+
+[[=]]
+[[size 120%]]**於任何頁面上加入以下代碼：**[[/size]]
+[[size 160%]]**{{@@[[include @@[[span style="opacity: 70%;"]]@@:scp-zh-tr:@@[[/span]]@@theme:basalt]]@@}}**[[/size]]
+[[/=]]
+
+[[div style="margin-top: 5rem;"]]
+[[/div]]
+
++ 簡述
+
+**Basalt**是由[[*user Liryn]]與[[*user Placeholder McD]]為SCP Wiki所製作的美觀性外觀主題，並且是**Bedrock**這一為該計畫所特別製作的主題之延伸。你可以訪問[[[https://scp-wiki.wikidot.com/theme:bedrock|Bedrock的維基頁面]]]或它[[[https://basalt-team.github.io/Basalt|在GitHub上的首頁]]]來獲得更多資訊，以及其所提供的所有CSS變數。
+
+Basalt包含有眾多亮眼功能，以下將一一介紹。
+
+[[div style="margin-top: 6.5rem;"]]
+[[/div]]
+
++ 外觀主題設置
+
+你可以在@@[[include]]@@模塊內加入**外觀主題設置**來修改Basalt的各項細節。
+@@ @@
+
+**{{@@[[include @@[[span style="opacity: 70%;"]]@@:scp-zh-tr:@@[[/span]]@@theme:basalt @@##green|外觀主題設置##@@]]@@}}**
+
+**{{@@[[include @@[[span style="opacity: 70%;"]]@@:scp-zh-tr:@@[[/span]]@@theme:basalt @@##green|外觀主題設置##|##purple|其他外觀主題設置##@@]]@@}}**
+
+@@ @@
+
+這裡列出了現行版本的所有設定功能：
+* **{{darkmode=a}}**[[span class="noclick"]]@@ @@ @@ @@[[/span]]啟用深色模式
+* **{{wide=a}}**[[span class="noclick"]]@@ @@ @@ @@[[/span]]設置為寬版頁面
+* **{{hidetitle=a}}**[[span class="noclick"]]@@ @@ @@ @@[[/span]]移除頁面標題
+* **{{centertitle=a}}**[[span class="noclick"]]@@ @@ @@ @@[[/span]]置中頁面標題
+* **{{acs-itemnum=a}}**[[span class="noclick"]]@@ @@ @@ @@[[/span]]恢復顯示[[[https://scp-zh-tr.wikidot.com/anomaly-classification-system-guide|ACS]]]的「項目編號：」字樣
+* **{{disable-acs-anim=a}}**[[span class="noclick"]]@@ @@ @@ @@[[/span]]禁用[[[https://scp-zh-tr.wikidot.com/component:acs-animation|ACS 動畫]]]組件
+
+[[div style="margin-top: 6.5rem;"]]
+[[/div]]
+
++ 頁面部件
+
+@@ @@
+= [[span class="st"]]@@[[span class="st"]]@@[[/span]] [[span class="noclick"]] @@ @@ [[/span]] [[span class="specialtext"]]@@[[span class="specialtext"]]@@[[/span]]
+
+= [[span class="bt"]]@@[[span class="bt"]]@@[[/span]] [[span class="noclick"]] @@ @@ [[/span]] [[span class="bigtext"]]@@[[span class="bigtext"]]@@[[/span]]
+@@ @@
+
+[[=]]
+
+[[div class="blockquote"]]
+**{{@@[[div class="blockquote"]]@@}}**
+[[/div]]
+
+[[div class="notation"]]
+**{{@@[[div class="notation"]]@@}}**
+[[/div]]
+
+[[div class="jotting"]]
+**{{@@[[div class="jotting"]]@@}}**
+[[/div]]
+
+[[div class="modal"]]
+**{{@@[[div class="modal"]]@@}}**
+[[/div]]
+
+[[div class="smallmodal"]]
+**{{@@[[div class="smallmodal"]]@@}}**
+[[/div]]
+
+[[div class="papernote"]]
+**{{@@[[div class="papernote"]]@@}}**
+[[/div]]
+
+[[/=]]
+
+@@ @@
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec pellentesque felis eu vulputate suscipit. Vestibulum dui elit, ornare eget eros ut, gravida finibus velit. Pellentesque et diam vel turpis semper ullamcorper. Integer scelerisque malesuada enim, a semper risus molestie eget. Fusce luctus ex in ante feugiat fermentum. In nec sodales nibh. Suspendisse potenti. Aenean in volutpat turpis, in dictum sapien. Quisque vehicula turpis nec ligula feugiat commodo. Maecenas ornare lorem vel commodo mattis. Sed egestas dignissim sapien nec pulvinar. In ligula ipsum, posuere sit amet turpis in, cursus euismod tellus.
+
+[[div class="floatbox"]]
+**{{@@[[div class="floatbox"]]@@}}**
+
+這是個[[span class="ruby"]]floatbox[[span class="rt"]]懸浮框[[/span]][[/span]]，你可以在這裡面填入各式各樣的內容（就現在來說只有BetterFootnotes不行），它會懸浮於頁面中的一側並被此外的內容所包圍。
+
+[[/div]]
+
+Maecenas vestibulum nunc in euismod auctor. Donec ultrices tempor felis sit amet ornare. Nam nec lectus sit amet nisl bibendum condimentum. Morbi eu arcu quis mi pulvinar fringilla. Ut fringilla interdum urna, at porta sapien vulputate quis. Integer eu scelerisque urna. Morbi luctus, justo eget viverra feugiat, leo quam egestas velit, sit amet feugiat nisi nibh molestie metus. Phasellus ut blandit ex. Ut aliquam, nisl ut aliquam volutpat, sem lorem tempor mi, sit amet ultricies nunc ante eu libero. Aenean lacinia porta nisi, in finibus quam. Aliquam erat volutpat. Aliquam malesuada libero id dapibus efficitur. Cras bibendum, dolor sit amet sagittis scelerisque, lorem magna ornare purus, vel accumsan leo tortor sit amet dolor. Maecenas finibus ante eget purus ullamcorper, vel elementum purus auctor. Quisque sagittis, leo et pretium efficitur, orci nulla interdum enim, in dignissim enim quam in neque.
+
+[[div class="floatbox right"]]
+**{{@@[[div class="floatbox right"]]@@}}**
+[[/div]]
+
+Curabitur sed dui nec libero fringilla placerat. Pellentesque imperdiet ac dolor et sagittis. Vestibulum rhoncus justo magna, vel ornare eros iaculis et. Praesent suscipit massa eu urna convallis molestie. Vestibulum molestie faucibus eleifend. Nullam ut felis ac sapien aliquet consequat a sit amet ipsum. Sed rutrum diam quis urna ullamcorper, sit amet tristique lacus faucibus. Cras facilisis consequat sem, et egestas elit blandit ut. Cras sagittis velit ut posuere semper. Vestibulum in ipsum orci.
+
+@@ @@
+
+[[div style="display: flex; flex-flow: row wrap; justify-content: space-between; gap: 2.5rem;"]]
+
+[[div class="document" style="padding-bottom: 23rem; flex-grow: 1;"]]
+**{{@@[[div class="document"]]@@}}**
+[[/div]]
+
+[[div class="darkdocument" style="padding-bottom: 23rem; flex-grow: 1;"]]
+**{{@@[[div class="darkdocument"]]@@}}**
+[[/div]]
+
+[[/div]]
+
+@@ @@
+
+[[div class="raisa_memo"]]
+**{{@@[[div class="raisa_memo"]]@@}}**
+[[/div]]
+
+[[=]]
+[[collapsible show="+ 更多memos" hide="- Hide"]]
+
+組織圖標由[[*user EstrellaYoshte]]（[[[https://scp-wiki.wikidot.com/desk-of-junior-designer-s-yvonne|見此]]]）所繪 
+
+[[div class="classification_memo"]]
+**{{@@[[div class="classification_memo"]]@@}}**
+[[/div]]
+
+[[div class="ettra_memo"]]
+**{{@@[[div class="ettra_memo"]]@@}}**
+[[/div]]
+
+[[div class="ethics_memo"]]
+**{{@@[[div class="ethics_memo"]]@@}}**
+[[/div]]
+
+[[div class="temporal_memo"]]
+**{{@@[[div class="temporal_memo"]]@@}}**
+[[/div]]
+
+[[div class="overwatch_memo"]]
+**{{@@[[div class="overwatch_memo"]]@@}}**
+[[/div]]
+
+[[div class="miscomm_memo"]]
+**{{@@[[div class="miscomm_memo"]]@@}}**
+[[/div]]
+
+[[/collapsible]]
+[[/=]]
+
+@@ @@
+
+@@ @@
+
+[[include :scp-zh-tr:component:image-block name=https://scp-wiki.wikidot.com/local--files/theme:basalt/basalt_scp_logo-for_lightmode.svg|caption=圖片框|width=280px]]
+
+一條水平線可以透過使用6個連字號「@@------@@」來創建[[footnote]] 這是為了要惹毛[[*user Placeholder McD]]。[[/footnote]]，並且如果它沒被包在任何東西裡面的話（例如引用塊），它會延伸並橫跨整個頁面。
+
+標題可以被以在一行的開頭添加一至六個加號「+」來創建
+
++* 一級標題
+
+++* 二級標題
+
++++* 三級標題
+
+++++* 四級標題
+
++++++* 五級標題
+
+++++++* 六級標題
+
+@@ @@
+
+[[tabview]]
+[[tab Tabulator]]
+這是個tabview。
+[[/tab]]
+[[tab Tabulation]]
+嘿，看看這裡，這裡有更多文字。
+
+多麼別緻啊。
+[[/tab]]
+[[tab 很長的Tab]]
+這是個長Tab。裡面容納了大量文字。
+
+這是個長Tab。裡面容納了大量文字。
+
+這是個長Tab。裡面容納了大量文字。
+
+這是個長Tab。裡面容納了大量文字。
+
+這是個長Tab。裡面容納了大量文字。
+
+這是個長Tab。裡面容納了大量文字。
+
+這是個長Tab。裡面容納了大量文字。
+
+這是個長Tab。裡面容納了大量文字。
+
+這是個長Tab。裡面容納了大量文字。
+
+這是個長Tab。裡面容納了大量文字。
+
+這是個長Tab。裡面容納了大量文字。
+
+這是個長Tab。裡面容納了大量文字。
+[[/tab]]
+[[tab 因為某種奇奇怪怪的原因，這個tab有著超級無敵長的名字。到底是為什麼呢？這真的超級奇怪的啦。]]
+這是個有著註解[[footnote]] 這是另一個註解。 [[/footnote]]的tab。
+[[/tab]]
+[[tab 空白的Tab]]
+[[/tab]]
+[[tab 空白的Tab]]
+[[/tab]]
+[[tab 空白的Tab]]
+[[/tab]]
+[[tab 空白的Tab]]
+[[/tab]]
+[[tab 空白的Tab]]
+我好懷念那段我們能夠彼此信任的時光。
+[[/tab]]
+[[/tabview]]
+
+@@ @@
+
+||~ 這是個  ||~ 表格 ||
+||你應該要 || 知道該如何 ||
+||||創建這東西了||
+||||= 但，真的嗎？ ||
+
+[[footnoteblock]]
+
+[[div style="margin-top: 6.5rem;"]]
+[[/div]]
+
++ 五顏六色
+
+有些部件能夠利用**{{tableX}}**一類的class來改變顏色。
+這套著色系統的設計目的是讓你去聯動[[[https://scp-zh-tr.wikidot.com/anomaly-classification-system-guide |異常分類系統]]]；各個顏色都有其相應的維安權限層級。
+
+@@ @@
+
+[[div style="display: flex; flex-flow: row wrap; gap: 2.5rem;"]]
+
+[[div class="table1"]]
+||~ {{.table1}} ||
+||= 在此填入文字 ||
+||= 在此填入文字 ||
+||= 在此填入文字 ||
+[[/div]]
+
+[[div class="table1"]]
+[[include :scp-zh-tr:component:image-block name=https://basalt-team.github.io/Basalt/basaltlogo.svg|caption=**{{.table1}}**|width=100px]]
+[[/div]]
+
+[[div class="table2"]]
+||~ {{.table2}} ||
+||= 在此填入文字 ||
+||= 在此填入文字 ||
+||= 在此填入文字 ||
+[[/div]]
+
+[[div class="table2"]]
+[[include :scp-zh-tr:component:image-block name=https://basalt-team.github.io/Basalt/basaltlogo.svg|caption=**{{.table2}}**|width=100px]]
+[[/div]]
+
+[[div class="table3"]]
+||~ {{.table3}} ||
+||= 在此填入文字 ||
+||= 在此填入文字 ||
+||= 在此填入文字 ||
+[[/div]]
+
+[[div class="table3"]]
+[[include :scp-zh-tr:component:image-block name=https://basalt-team.github.io/Basalt/basaltlogo.svg|caption=**{{.table3}}**|width=100px]]
+[[/div]]
+
+[[div class="table4"]]
+||~ {{.table4}} ||
+||= 在此填入文字 ||
+||= 在此填入文字 ||
+||= 在此填入文字 ||
+[[/div]]
+
+[[div class="table4"]]
+[[include :scp-zh-tr:component:image-block name=https://basalt-team.github.io/Basalt/basaltlogo.svg|caption=**{{.table4}}**|width=100px]]
+[[/div]]
+
+[[div class="table5"]]
+||~ {{.table5}} ||
+||= 在此填入文字 ||
+||= 在此填入文字 ||
+||= 在此填入文字 ||
+[[/div]]
+
+[[div class="table5"]]
+[[include :scp-zh-tr:component:image-block name=https://basalt-team.github.io/Basalt/basaltlogo.svg|caption=**{{.table5}}**|width=100px]]
+[[/div]]
+
+[[div class="table6"]]
+||~ {{.table6}} ||
+||= 在此填入文字 ||
+||= 在此填入文字 ||
+||= 在此填入文字 ||
+[[/div]]
+
+[[div class="table6"]]
+[[include :scp-zh-tr:component:image-block name=https://basalt-team.github.io/Basalt/basaltlogo.svg|caption=**{{.table6}}**|width=100px]]
+[[/div]]
+
+[[/div]]
+
+[[div style="margin-top: 6.5rem;"]]
+[[/div]]
+
++ 包含在Basalt內的組件
+
+* **[[[https://scp-zh-tr.wikidot.com/component:betterfootnotes|BetterFootnotes]]]** by [[*user EstrellaYoshte]]
+* **[[[https://scp-zh-tr.wikidot.com/component:acs-animation|ACS 動畫]]]** by [[*user EstrellaYoshte]]
+
+[[div style="margin-top: 6.5rem;"]]
+[[/div]]
+
+[[=]]
+[[div style="font-size: 1.5em !important;"]]
+[[span style="font-family: var(--header-font);"]]Header 與 UI 所使用的字體是**Sofia Sans**。[[/span]]
+Body所使用的字體是**Inter**。
+{{Monospace所使用的字體是**JetBrains Mono**。}}
+[[/div]]
+[[/=]]
+
+[[/iftags]]

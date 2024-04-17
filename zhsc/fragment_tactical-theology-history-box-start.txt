@@ -1,0 +1,12 @@
+[[div style="position: relative; margin-top: calc({$distance}rem - {$arrowoffset}rem)"]]
+[[div class="history-child history-child-{$float} history-child-{$variation}" style="margin-top: calc({$arrowoffset}rem + 10px)"]]
+[[div class="history-splash-box"]]
+[[div]]
+[[span class="history-child-title"]]**{$name}**[[/span]]
+[[span class="history-child-date"]]{$date}[[/span]]
+[[/div]]
+
+[[size 90%]]{$summary}[[/size]]
+
+[[/div]]
+[[div class="history-text"]]
