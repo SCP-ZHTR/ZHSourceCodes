@@ -488,7 +488,7 @@
 
 -----
 
-**[http://scp-zh-tr.wikidot.com/system:page-tags/tag/glacon Glacon.aic]（格勞孔.aic）：** 八號球後的第二代AIC，以先進的邏輯處理和風險分析決策聞名。曾擁有人格驅動程式，但在[[[fragmented-compiled|馬克士威主義教會對Site-15發起大規模攻擊後]]]不久便失去了。
+**[http://scp-zh-tr.wikidot.com/system:page-tags/tag/glacon Glacon.aic]（格勞孔.aic）：** 八號球後的第二代AIC，以先進的邏輯處理和風險分析決策聞名。曾擁有人格驅動程式，但在[[[fragmented-compiled|馬克士威宗教會對Site-15發起大規模攻擊後]]]不久便失去了。
 
 格勞孔在2014年於Site-17[[[alert-lockdown-initiated|嚴重崩潰]]]事故中丟失，其原因仍然不明。
 
@@ -1054,7 +1054,7 @@ SCP-4051已作為異常資產部署於實地行動，其最初是[[[task-forces#
 
 ----
 
-**[/system:page-tags/tag/vincent-anderson Vincent Anderson]（文森特・安德森）：** 作為一個高智商人類、模控強化者與精熟的奇術師，文森特・安德森是關注組織[[[anderson-robotics-hub| 安德森機器人]]]的CEO兼創始人。安德森與基金會的大部分[[[no-good-deed| 互動]]]，都是為了報復基金會對其造物的收容行動，這涉及到多次的收容突破事故，以及讓賽博人冒充基金會人員。安德森目前與[[[marshall-carter-and-dark-hub| MC&D]]]保持著緊密的業務關係，並在[[[church-of-the-broken-god-hub| 馬克士威主義教會]]]中擁有眾多支持者。
+**[/system:page-tags/tag/vincent-anderson Vincent Anderson]（文森特・安德森）：** 作為一個高智商人類、模控強化者與精熟的奇術師，文森特・安德森是關注組織[[[anderson-robotics-hub| 安德森機器人]]]的CEO兼創始人。安德森與基金會的大部分[[[no-good-deed| 互動]]]，都是為了報復基金會對其造物的收容行動，這涉及到多次的收容突破事故，以及讓賽博人冒充基金會人員。安德森目前與[[[marshall-carter-and-dark-hub| MC&D]]]保持著緊密的業務關係，並在[[[church-of-the-broken-god-hub| 馬克士威宗教會]]]中擁有眾多支持者。
 
 ----
 
@@ -1150,7 +1150,7 @@ SCP-4051已作為異常資產部署於實地行動，其最初是[[[task-forces#
 
 ----
 
-**[/system:page-tags/tag/聖海德威 Saint Hedwig] of the Angels（聖海德威天使）：** 為馬克士威主義教會──[[[church-of-the-broken-god-hub| 破碎之神教會]]]最現代化的教派，崇拜著「WAN」這個存在──奉為先知。受到了大量[[[implanting-god| 模控強化]]]，並加入了[[[basic-observations| 精神]]]與[[[corruption| 數位系統]]]連接。與教會的[[[the-heresy-of-disassembly|其他領導人]]]──[[[rounderhouse-gold-proposal| 布馬洛]]]和耳軸──關係存在爭議，他們將馬克士威主義對「WAN」的信仰視為異端，但在面對教會的[[[the-battle-of-baikal| 共同敵人]]]時又[[[sfyri-kai-amoni| 願意合作]]]。
+**[/system:page-tags/tag/聖海德威 Saint Hedwig] of the Angels（聖海德威天使）：** 為馬克士威宗教會──[[[church-of-the-broken-god-hub| 破碎之神教會]]]最現代化的教派，崇拜著「WAN」這個存在──奉為先知。受到了大量[[[implanting-god| 模控強化]]]，並加入了[[[basic-observations| 精神]]]與[[[corruption| 數位系統]]]連接。與教會的[[[the-heresy-of-disassembly|其他領導人]]]──[[[rounderhouse-gold-proposal| 布馬洛]]]和耳軸──關係存在爭議，他們將馬克士威宗對「WAN」的信仰視為異端，但在面對教會的[[[the-battle-of-baikal| 共同敵人]]]時又[[[sfyri-kai-amoni| 願意合作]]]。
 
 ----
 
@@ -1365,7 +1365,7 @@ L.S.可能是虛構的，是蛇手成員識別我方人員的代號，是「[[sp
 
 ----
 
-**The [[[church-of-the-broken-god-hub| "Broken God"]]]（「破碎之神」）：** 被齒輪正教會和[[[so-the-beasts-shall-plague-the-land-no-more| 古]]][[[nadox-and-the-mekhanite| 美刻尼]]][[[scp-2406| 文明]]]稱作[[[v19113a-01| 美刻尼]]]，[/system:page-tags/tag/夏異常 夏朝]則將其稱為[[[about-the-serpent| 蛇父伏羲]]]，馬克士威主義教會則將其稱為[[[wans-image-png| WAN]]]。上述團體都聲稱他們正在重組神的碎片（對馬克士威主義教會而言，組裝的原料來自[[[implanting-god| 數據庫數據]]]的[[[corruption| 彙編]]]）。關於這位神最初是如何「破碎」的存在爭議。這個被稱作美刻尼的實體一職被認為與技術有關，通常被描述為是[[[scp-6217|「宇宙機器」]]]，並強調其與[[[scp-610| 血肉]]]（專指[[[scp-6166| 亞大孢斯]]]與[[[sarkicism-hub| 欲肉教]]]相關的術語）[[[scp-2217|對立]]]關係。
+**The [[[church-of-the-broken-god-hub| "Broken God"]]]（「破碎之神」）：** 被齒輪正教會和[[[so-the-beasts-shall-plague-the-land-no-more| 古]]][[[nadox-and-the-mekhanite| 美刻尼]]][[[scp-2406| 文明]]]稱作[[[v19113a-01| 美刻尼]]]，[/system:page-tags/tag/夏異常 夏朝]則將其稱為[[[about-the-serpent| 蛇父伏羲]]]，馬克士威宗教會則將其稱為[[[wans-image-png| WAN]]]。上述團體都聲稱他們正在重組神的碎片（對馬克士威宗教會而言，組裝的原料來自[[[implanting-god| 數據庫數據]]]的[[[corruption| 彙編]]]）。關於這位神最初是如何「破碎」的存在爭議。這個被稱作美刻尼的實體一職被認為與技術有關，通常被描述為是[[[scp-6217|「宇宙機器」]]]，並強調其與[[[scp-610| 血肉]]]（專指[[[scp-6166| 亞大孢斯]]]與[[[sarkicism-hub| 欲肉教]]]相關的術語）[[[scp-2217|對立]]]關係。
 
 儘管許多[[[scp-3179| 說詞]]]顯然都是神話而非歷史，但任何[[[broken-mind|試圖]]]將其[[[scp-882| 眾多]]][[[scp-1139| 異常]]][[[the-tick-tock-gospel|造物]]][[[twistedgears-kaktus-proposal|「重組」]]]的行為都應受到基金會的反制，因為這是對於常態相當的威脅。
 

@@ -269,7 +269,7 @@ Boot Up
 [[/cell]]
 [[cell class="right"]]
 [[div_ class="title"]]
-[*http://scp-jp.wikidot.com/grant-request-for-development-of-nurturing-and-education 有關批准開發補助驟增人口之養育、教育設備的申請]
+[*http://scp-zh-tr.wikidot.com/grant-request-for-development-of-nurturing-and-education 有關批准開發補助驟增人口之養育、教育設備的申請]
 [[/div]]
 [[div class="description"]]
 創造不依賴於母體的生命長久以來都被認為是煉金術以及生物學上的重要課題。

@@ -20,10 +20,10 @@ display:none;
 [[/module]]
 
 [[module CSS]]
-:root {
-
+body {
 overflow-wrap: anywhere;
-
+}
+:root:lang(zh) {
 --logo-image: url("https://cdn.discordapp.com/attachments/1089700147199483954/1169719051115831316/overwatch-archive-logo2.png?ex=65566cc2&is=6543f7c2&hm=c7105e4a79d3b0b7eaafa686c669f3f9b15631a13cf2182df714bb59488e13ec&");
 
     --header-title: "⠅⠞⠄⠙⠌⠄⠁⠮⠈⠙⠭⠈⠧⠐⠇⠌⠐";

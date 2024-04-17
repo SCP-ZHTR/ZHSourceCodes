@@ -1,3 +1,4 @@
+[[include component:scp-meta-title-hiding css-style=classic]]
 [[include info:start]]
 **作者：**這是我的[http://scp-zh-tr.wikidot.com/nihilmace-file 人事檔案頁]，你可以先看完文檔後再決定要不要給分
 **篇名：****SCP-ZH-229-EX 逆宇宙法則而行的愚昧生物們**

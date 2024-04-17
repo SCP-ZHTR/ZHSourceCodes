@@ -1,0 +1,34 @@
+[[include component:scp-meta-title-hiding css-style=classic]]
+[[include :scp-wiki:info:start]]
+原文：[http://scp-int.wikidot.com/scp-241-de SCP-241-DE] [德文]
+第一譯文：[http://scp-int.wikidot.com/scp-241-de SCP-241-DE] 不會有人想念你的
+作者：[[*user dr ore]]
+第一譯者：[[*user dr ore]]
+第二譯者：[[*user Frederica Bernkastel]]
+
+@@@@
+4326942364_fc68150af9_z.jpg
+Creator: TheeErin
+Source: [https://www.flickr.com/photos/theeerin/4326942364/ Die hier]
+License: [https://creativecommons.org/licenses/by-sa/2.0/deed.en CC BY-SA 2.0]
+@@@@
+
+[[include :scp-wiki:info:end]]
+
+
+**項目編號：** SCP-241-DE
+
+**項目等級：** Safe
+
+**特殊收容措施：** SCP-241-DE異常效應應解釋為管線故障的結果。由於其相對可解釋的性質，目前SCP-241-DE內部業務仍繼續營運中，已安插一名基金會特工加以監視。預計在未來的一年內，穆勒．韓德爾有限合作公司將因缺乏客戶將SCP-241-DE廢棄，屆時基金會再行接管。
+
+**描述：** SCP-241-DE是一處商用地產，目前由穆勒．韓德爾有限合作公司在此經營藥局。SCP-241-DE外部並無異常，但內部卻有著強烈的腐臭氣味，尚未釐清味道來源。該設施內還發現了大量蒼蠅及其幼蟲，尚未確認這些幼蟲是以何物為食方能生存。顧客與員工反映頻繁聽見噯氣與脹氣的聲音，卻無法找到聲源。另有報告指稱清潔工作完成一段時間後，清潔用水自發染成了血紅色。目前此現像已不再發生，但該狀況已透過照片與影像記錄在案。
+
+由於上述特性，部分顧客與員工認為這棟建築在鬧鬼。在其異常特性在社群媒體報導，相關異常的鬼故事開始湧現時，基金會開始介入其中。由於上述報告的性質，基金會並未進行任何調查的嘗試。
+
+[[collapsible show="當前研究成果"hide="關閉"]]
+
+[[include component:image-block name= http://scp-wiki-de.wdfiles.com/local--files/scp-241-de/4326942364_fc68150af9_z.jpg|caption= 氣味最強烈的一排。並未發現任何異常狀況。|width=300px]]
+基金會以整修與大規模清潔為由多次檢查過建築，卻仍未發現上述異常現象的任何成因。調查仍在進行中。正在考量將本建築重歸定為異常地點。
+
+[[/collapsible]]

@@ -51,14 +51,16 @@
 ------
 其他分部文件列表
 [/goi-formats#madao 蒐集院]
+[/goi-formats#yamizushi 闇壽司]
 [/goi-formats#das-wunderkabinett 奇物室]
+
 
 [[/div]]
 
 [[# info]]
 + 簡述
 
-這是所有GOI格式文檔的列表，按關注組織名稱的第一個字母順序排列。沒有文檔格式的關注組織將不在此頁面上列出。如果該組織制定了可用的格式，則可通知管理員將該組織添加在此列表。
+這是所有GOI格式檔案的列表，按關注組織名稱的第一個字母順序排列。沒有檔案格式的關注組織將不在此頁面上列出。如果該組織制定了可用的格式，則可通知管理員將該組織添加在此列表。
 
 在可能的情況下，每個關注組織的名稱將會連接至組織的中心頁。這些中心頁包含有關該GOI的更多信息，以及有關如何使用其格式的說明。
 
@@ -507,6 +509,14 @@
 [[# madao]]
 + 蒐集院
 [[module ListPages order="name" tags=" +_蒐集院-goi格式 " separate="no" perPage="100"]]
+* %%title_linked%%
+[[/module]]
+[[/div]]
+
+[[div class="content-panel standalone series"]]
+[[# yamizushi]]
++ 闇壽司
+[[module ListPages order="name" tags=" +_闇壽司-goi格式" separate="no" perPage="100"]]
 * %%title_linked%%
 [[/module]]
 [[/div]]

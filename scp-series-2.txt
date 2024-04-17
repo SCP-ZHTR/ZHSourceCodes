@@ -187,7 +187,7 @@
 * [[[SCP-1158]]] - Arboreal Jellyfish Puppeteers
 * [[[SCP-1159]]] - The Wind Harp
 * [[[SCP-1160]]] - 有效收容
-* [[[SCP-1161]]] - How-To Book
+* [[[SCP-1161]]] - 如何之書
 * [[[SCP-1162]]] - A Hole in the Wall 
 * [[[SCP-1163]]] - Face Swapper
 * [[[SCP-1164]]] - Echoing Epitaph
@@ -722,7 +722,7 @@
 * [[[SCP-1678]]] - UnLondon
 * [[[SCP-1679]]] - Post-Mortem Peoples' Choice
 * [[[SCP-1680]]] - Tyler
-* [[[SCP-1681]]] - American Idols
+* [[[SCP-1681]]] - 美國偶像
 * [[[SCP-1682]]] - Solar Parasite
 * [[[SCP-1683]]] - Moonstruck Bedroom
 * [[[SCP-1684]]] - Viral Realty

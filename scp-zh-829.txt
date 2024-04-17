@@ -3,57 +3,57 @@
 [[include :scp-zh-tr:theme:basalt darkmode=a]]
 
 [[include info:start]]
-##black|**篇名︰**SCP-ZH-829 無形干戈##
-##black|**原作者︰** [[*user PeiWeiArtz]]##
-##black|**做成年︰**2021##
+##white|**篇名︰**SCP-ZH-829 無形干戈##
+##white|**原作者︰** [[*user PeiWeiArtz]]##
+##white|**做成年︰**2021##
 
-##black|感謝[[*user YONGZUN]]在群組裡陪我幹話時給我的點子##
+##white|感謝[[*user YONGZUN]]在群組裡陪我幹話時給我的點子##
 ----
-[[size 125%]]##black|**圖片授權資訊：**##[[/size]]
-##black|原文標題：生鏽的武士刀##
-##black|來源網址：##https://m.imgur.com/UU8sFpE
-##black|版權所有者：PeiWeiArtz##
-##black|版權方式: CC-BY-SA 4.0##
-##black|創作年： 2021##
+[[size 125%]]##white|**圖片授權資訊：**##[[/size]]
+##white|原文標題：生鏽的武士刀##
+##white|來源網址：##https://m.imgur.com/UU8sFpE
+##white|版權所有者：PeiWeiArtz##
+##white|版權方式: CC-BY-SA 4.0##
+##white|創作年： 2021##
 
-##black|原文標題：The Arn Templar Dagger Limited Edition Official Movie Dagger##
-##black|來源網址：##https://www.flickr.com/photos/53303459@N03/6103696380
-##black|版權所有者：Albion Europe Aps##
-##black|版權方式: CC-BY 2.0##
-##black|創作年： 2011##
-##black|備註：該作品經過PeiWeiArtz進行修改##
+##white|原文標題：The Arn Templar Dagger Limited Edition Official Movie Dagger##
+##white|來源網址：##https://www.flickr.com/photos/53303459@N03/6103696380
+##white|版權所有者：Albion Europe Aps##
+##white|版權方式: CC-BY 2.0##
+##white|創作年： 2011##
+##white|備註：該作品經過PeiWeiArtz進行修改##
 
-##black|原文標題：BJD Garrett's Bow##
-##black|來源網址：##https://www.flickr.com/photos/80382778@N07/14748731817
-##black|版權所有者：saikoxix##
-##black|版權方式: CC-BY 2.0##
-##black|創作年： 2014##
-##black|備註：該作品經過PeiWeiArtz切割修改##
+##white|原文標題：BJD Garrett's Bow##
+##white|來源網址：##https://www.flickr.com/photos/80382778@N07/14748731817
+##white|版權所有者：saikoxix##
+##white|版權方式: CC-BY 2.0##
+##white|創作年： 2014##
+##white|備註：該作品經過PeiWeiArtz切割修改##
 
-##black|原文標題：DX版刃王劍十聖刃##
-##black|來源網址：##https://m.imgur.com/xEzW702?r
-##black|版權所有者：PeiWeiArtz##
-##black|版權方式: CC-BY-SA 4.0##
-##black|創作年： 2021##
+##white|原文標題：DX版刃王劍十聖刃##
+##white|來源網址：##https://m.imgur.com/xEzW702?r
+##white|版權所有者：PeiWeiArtz##
+##white|版權方式: CC-BY-SA 4.0##
+##white|創作年： 2021##
 
-##black|原文標題：手槍##
-##black|來源網址：##https://m.imgur.com/anOvO4w
-##black|版權所有者：PeiWeiArtz##
-##black|版權方式: CC-BY-SA 4.0##
-##black|創作年： 2021##
+##white|原文標題：手槍##
+##white|來源網址：##https://m.imgur.com/anOvO4w
+##white|版權所有者：PeiWeiArtz##
+##white|版權方式: CC-BY-SA 4.0##
+##white|創作年： 2021##
 
-##black|原文標題：File:F1 grenade travmatik com 02 by-sa.jpg##
-##black|來源網址：##https://commons.wikimedia.org/w/index.php?curid=10459328
-##black|版權所有者：Stanislav S. Yanchenko##
-##black|版權方式: CC-BY-SA 3.0##
-##black|創作年： 2010##
+##white|原文標題：File:F1 grenade travmatik com 02 by-sa.jpg##
+##white|來源網址：##https://commons.wikimedia.org/w/index.php?curid=10459328
+##white|版權所有者：Stanislav S. Yanchenko##
+##white|版權方式: CC-BY-SA 3.0##
+##white|創作年： 2010##
 
-##black|原文標題：File:Daewoo K3 machine gun 1.jpg##
-##black|來源網址：##https://commons.m.wikimedia.org/wiki/File:Daewoo_K3_machine_gun_1.jpg#mw-jump-to-license
-##black|版權所有者：shotgunlee##
-##black|版權方式: CC-BY 3.0##
-##black|創作年： 2007##
-##black|備註：該作品經過PeiWeiArtz進行修改##
+##white|原文標題：File:Daewoo K3 machine gun 1.jpg##
+##white|來源網址：##https://commons.m.wikimedia.org/wiki/File:Daewoo_K3_machine_gun_1.jpg#mw-jump-to-license
+##white|版權所有者：shotgunlee##
+##white|版權方式: CC-BY 3.0##
+##white|創作年： 2007##
+##white|備註：該作品經過PeiWeiArtz進行修改##
 
 [[include info:end]]
 

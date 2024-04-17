@@ -207,7 +207,7 @@
 * [[[SCP-6176]]] - [ACCESS DENIED]
 * [[[SCP-6177]]] - [ACCESS DENIED]
 * [[[SCP-6178]]] - [ACCESS DENIED]
-* [[[SCP-6179]]] - [ACCESS DENIED]
+* [[[SCP-6179]]] - 手手攻擊
 * [[[SCP-6180]]] - [ACCESS DENIED]
 * [[[SCP-6181]]] - [ACCESS DENIED]
 * [[[SCP-6182]]] - [ACCESS DENIED]

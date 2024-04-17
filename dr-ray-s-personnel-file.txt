@@ -859,6 +859,6 @@
 **這個是放爽的：**
 
 
-[[module CountPages tags="+scp +原創 -已解明 -搞笑"]]
-SCP-ZH原創項目數量：%%total%%/???
+[[module CountPages tags="+scp +原創 -已解明 -搞笑 -001提案"]]
+SCP-ZH系列一進度：%%total%%/999
 [[/module]]

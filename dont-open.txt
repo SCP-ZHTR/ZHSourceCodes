@@ -1,0 +1,14 @@
+[[include :scp-zh-tr:theme:basalt darkmode=a]]
+
+[[include info:start]]
+**篇名：** 不要開門！
+**作者：** [[*user cywhitebear]]
+癲瘋之作
+----
+本作為[http://scp-zh-tr.wikidot.com/the-bottle-in-restroom 廁所裡的致命模因]的衍生創作
+[[include info:end]]
+
+[[include :scp-zh-tr:component:image-block name=https://imgur.com/V8IyaW0.png
+|caption=[http://scp-zh-tr.wikidot.com/the-bottle-in-restroom 「......」]
+|width=100%
+]]

@@ -153,7 +153,7 @@
 * [[[SCP-123]]] - 受控的袖珍黑洞
 * [[[SCP-124]]] - 肥沃土壤
 * [[[SCP-125]]] - Contagious Reflection
-* [[[SCP-126]]] - Invisible Friend
+* [[[SCP-126]]] - 隱形朋友
 * [[[SCP-127]]] - 活槍
 * [[[SCP-128]]] - Kinetic Energy Entity
 * [[[SCP-129]]] - 進程性真菌感染症
@@ -329,7 +329,7 @@
 * [[[SCP-295]]] - Cauterpillers 
 * [[[SCP-296]]] - Armed Containment Site-03 
 * [[[SCP-297]]] - 「金剛鑽」
-* [[[SCP-298]]] - The Blood Organ 
+* [[[SCP-298]]] - 鮮血管風琴
 * [[[SCP-299]]] - Infectious Tree 
 
 [[# 300]]

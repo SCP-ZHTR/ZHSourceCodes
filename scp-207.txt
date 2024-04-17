@@ -1,9 +1,10 @@
+[[include component:scp-meta-title-hiding css-style=classic]]
+
 [[include credit:start]]
 作者：[[*user Aeish]]
 譯者：[[*user vomiter]]
 標題：SCP-207 - 瓶裝可樂
 [[include credit:end]]
-[[include component:scp-meta-title-hiding css-style=classic]]
 
 [[include component:image-block name=http://scp-wiki.wikidot.com/local--files/scp-207/SCP207.jpg|caption=SCP-207-C]]
 

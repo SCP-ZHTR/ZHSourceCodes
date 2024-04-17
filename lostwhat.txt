@@ -1,3 +1,8 @@
+[[=]]
+> [[size 150%]]「所有的勝利都是微小的雞雞堆砌而起的。」—夏離章，2024[[/size]]
+[[/=]]
+
+
 **翻譯**
 [[module Listpages tag="翻譯" created_by="Lostwhat" separate="no" perPage="250" order="name"]]
 # [[[%%name%%|%%title%%]]]分數：%%rating%%

@@ -51,7 +51,7 @@ name=https://scp-wiki.wdfiles.com/local--files/secure-facility-dossier-site-43/I
 
 **地點：** 加拿大安大略省蘭布頓縣伊帕瓦什公園
 
-**掩蓋故事：** 休倫湖[[span class="ruby"]]供應、控制與淨化[[span class="rt"]]Supply, Control and Purification[[/span]][[/span]]（水蒸餾與輸送）設施
+**掩蓋故事：** 休倫湖[[span class="ruby"]]供應、控制、淨化[[span class="rt"]]Supply, Control and Purification[[/span]][[/span]]（水蒸餾與輸送）設施
 
 **面積：** 372 000 m^^2^^ (地下建物面積) / 56公頃(地表封鎖區域範圍)
 

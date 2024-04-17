@@ -6,3 +6,9 @@
 [[module ListPages category="*" order="random" limit="1" parent="she-lives-in-my-heart"]]
 %%content%%
 [[/module]]
+
+[!-- 
+http://scp-zh-tr.wikidot.com/fragment:she-lives-in-my-heart-1
+http://scp-zh-tr.wikidot.com/fragment:she-lives-in-my-heart-2
+http://scp-zh-tr.wikidot.com/fragment:she-lives-in-my-heart-3
+--]

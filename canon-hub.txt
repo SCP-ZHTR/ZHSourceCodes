@@ -330,6 +330,23 @@ FitnessGram Pacer 是多階段的有氧能力測試，其難度會隨著測試�
 
 [!-- ------------------------------------------------------- --]
 
+[[div class="canon-block"]]
+[[include fragment:activity-marker tag=Lampeter]]
++ [[[lampeter-hub|蘭佩特]]]
+在暗處──隱藏的小巷、某扇火車站的門、不起眼的天空──你能找著通往無限的道路，那是現實間的界線，是曾經橫跨半個多元宇宙的交通網路，如今卻已迎向漫長而緩慢的死亡。
+
+
+[[div class="snippet"]]
+蘭佩特──SCP-7005──數世紀來一切努力建設、冀望、夢想的總和。 蘭彼得，滑雪纜車、火山、馬厩、許願井等處站長共享的孤獨夜晚，在他們小時候仰望星空時，他們曾以為這些星星預示著無限。他們所有人可都不僅僅是由肉體與物質驅動的。
+
+[[div_ class="source"]]
+From "[[[SCP-7005]]]" by [[user Tufto]]
+[[/div]]
+[[/div]]
+[[/div]]
+
+[!-- ------------------------------------------------------- --]
+
 [[div class="canon-block" style="color: #f7f7f7;box-sizing: border-box;padding: 1.2rem;border: 1rem solid;border-image: url(http://scp-wiki.wdfiles.com/local--files/theme:dark-dealings/fancybox.png) 600 round;border-image-width: 6;background-color: #000;background-image: url(https://scp-wiki.wdfiles.com/local--files/theme:dark-dealings/nightfall-header-5.png);background-repeat: repeat-x;background-origin: border-box;box-shadow: 0 3px 5px #000, 0 -3px 5px #000, 3px 0 5px #000, -3px 0 5px #000;"]]
 [[include :scp-wiki:fragment:activity-marker tag=nightfall]]
 [[image https://scp-wiki.wdfiles.com/local--files/nightfall-hub/moon1.png height="80px"]]

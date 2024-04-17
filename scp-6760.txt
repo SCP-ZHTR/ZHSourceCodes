@@ -198,7 +198,7 @@ SCP-6760建成時為一個軟體框架，圍繞著既存的基金會人工智慧
 
 <##pink|CROM.AIC##> 處理中……
 
-<##pink|CROM.AIC##> **//(1000+) 結果，隨機抽選顯示：//** ##lightgrey|[[span class="ruby"]]庫爾特．哥德爾[[span class="rt"]]kurt-godel[[/span]][[/span]] - 人類 - 哲學家 - 男性１該實體最近期作品為：部分考量指向連續統的真冪次為ℵ2的可能結論##
+<##pink|CROM.AIC##> **//(1000+) 結果，隨機抽選顯示：//** ##lightgrey|[[span class="ruby"]]庫爾特．哥德爾[[span class="rt"]]kurt-godel[[/span]][[/span]] - 人類 - 哲學家 - 男性。該實體最近期作品為：部分考量指向連續統的真冪次為ℵ2的可能結論##
 
 <##lightgrey|user##> crom au [[span class="ruby"]]神[[span class="rt"]]god[[/span]][[/span]]
 

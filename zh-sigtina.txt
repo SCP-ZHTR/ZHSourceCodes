@@ -1,13 +1,40 @@
 [[include :scp-zh-tr:theme:tina]]
 
-[[module ListPages offset="@URL|0" range="."]]
-%%content{2}%%
+[[module CSS]]
+@import url(http://dog-punch.wikidot.com/local--files/tes:10035/kugiri.css);
 [[/module]]
-[[module ListPages limit="@URL|0" range="." urlAttrPrefix="page2"]]
-%%content{3}%%
+
+[[module css]]
+#u-toc-ATa{
+display: block;
+}
+
+#u-toc-AWw{
+display: none;
+}
+
+#u-toc-Willow:target~#u-toc-ATa{
+display: none;
+}
+
+#u-toc-Willow:target~#u-toc-AWw{
+display: block;
+}
+
+#u-toc-Tina:target~#u-toc-AWw{
+display: none;
+}
+
+#u-toc-Tina:target~#u-toc-ATa{
+display: block;
+}
+
+#u-toc-Willow:target~#u-toc-ATa{
+display: none;
+}
 [[/module]]
-[!--
-====
+
+[[div id="u-toc-ATa"]]
 **.**
 **.**
 **.**
@@ -22,7 +49,7 @@
 **.**
 [[div style="border:solid 1px #003155; background:#F0F8FF; padding:5px; margin-bottom: 10px;"]]
 [[=]]
-＜[http://scp-zh-tr.wikidot.com/zh-sigtina 申請核對權限]｜[http://scp-zh-tr.wikidot.com/zh-sigtina/offset/1/page2_limit/1 跳轉往Willow的人事頁]＞
+[[a href="#u-toc-Willow"]]跳轉往Willow的人事頁[[/a]]
 [[/=]]
 [[/div]]
 [[=]]
@@ -213,8 +240,14 @@
 ++ [[[theme:tina | 緹娜 外觀主題]]] 
 [[/=]]
 [[/tab]]
+[[tab 自動化列表]]
+[[module Listpages category="*" tag="原創" created_by="Sigtina" separate="no" perPage="1000"]]
+# [[[%%fullname%%|%%title%%]]] 評分： %%rating%%
+[[/module]]
+[[/tab]]
 [[/tabview]]
-====
+[[/div]] 
+[[div id="u-toc-AWw"]]
 **.**
 **.**
 **.**
@@ -229,7 +262,7 @@
 **.**
 [[div style="border:solid 1px #003155; background:#F0F8FF; padding:5px; margin-bottom: 10px;"]]
 [[=]]
-＜[http://scp-zh-tr.wikidot.com/zh-sigtina 你按不下去的>w<!]｜[http://scp-zh-tr.wikidot.com/zh-sigtina/offset/1/page2_limit/1 再次穩定連結]＞
+[[a href="#u-toc-Tina"]]跳轉往Dr. Tina的人事頁[[/a]]
 [[/=]]
 [[/div]]
 [[=]]
@@ -296,62 +329,6 @@
 
 > 基金會忠誠度調查結果
 > 該員在忠誠度測驗中取得了14分的結果，但由於偏差值極高此結果並不具有效之指標性，先前多次測驗結果亦同，其原因可歸咎於該員對於自我認知上的缺失及意識型態的恍惚狀態。
-[[/tab]]
-[[tab 接觸對象]]
-[[=]]
-+++ 站點主任
-[[/=]]
-**Dr. Bales**
-16站的研究主任，為人和善，但對於Willow的行徑感到擔憂，曾提出暫時收容及自爆項圈等措施試圖幫助其更新，但不了了之。
-此外似乎很慣著助理員，以至於引貂入室。
-> 不，我沒准許過那隻阿貂進來我的辦公室，我不知道她怎麼弄到那個膠台跟士力架的，更別說無法理解她是怎麼把自己黏在牆上還噎死……至少把士力架洗乾淨再還我吧？
-
-----
-
-[[=]]
-+++ 研究員
-[[/=]]
-**Dr. X**
-被Willow叫作凶巴巴的神祕存在，她總是會坐在自己面前靜靜的看著自己，看著又跑進她房間削雪花貓的Willow，然後將其捆成一球滾出去。
-然而Willow至今都沒放棄掀開那面具下的臉孔，想著會不會Dr.X其實就是Dr.Tina在找的人，然後在被逮到之後一臉無辜地等著Dr.Tina來救自己。
-然而至今都沒等到過。
-此外，Dr.X是擁有最多貂皮草的人。
-
-**蘇音竹**
-介於Dr. Sugoi跟自身一樣都是人造人的出生，Willow很快就黏上這名偽女僕研究員了，而本人也並不排斥，雖然當Willow犯錯時還是會一臉認真地將其拎去認罪，但從未對其投下排斥的眼光。
-且兩人有著垂直井小夥伴的好關係，原因是有時候Dr. Sugoi掉下井時會不小心踩到在井底撿東西的Willow，或者被Willow當作戰利品慢慢的拖上來，但Willow是爬哪條管線下來的至今仍謎。
-此外當Dr.Tina心情不好時，Willow會抱著自己的睡窩晃去音竹的房間睡覺，--雖然到最後都會蹭上其他人的床上。--
-> 你是說那個常常跑進我們房間的那個貂耳娘嗎？只要她不要一直想偷我婆的公仔再讓我摸摸那對耳朵我就原諒她。
-
-**鍾憬時**
-通常大家是稱作Dr.Tina的，但Willow比較喜歡將其稱作博士。
-大部分時間裡Dr.Tina都會看著Willow，一方面是要管住她不受控的脫序行徑，一方面則是擔心她遇到危險，Dr.Tina真的不想再一次去申請臨時許可證就為了把她從項目收容間救出了。
-就異常研究上，Dr.Tina並沒有什麼傑出的表現，但在意外事故裡他卻往往展現出驚人的應變及抵抗能力，這或許跟他極度異常的出事頻率有關。
-> Willow她其實不是個壞孩子，她天性善良且一直想討人歡心，這點從她的寢室裡可以看出端倪，她總是偷偷的窩回寢室裡面然後倒出罐子裡的收藏來製作小東西，然後悄悄塞進各位口袋裡想給一點驚喜。
-> 只可惜那些東西往往都進了異常物品櫃裡，一半是因為那些東西就這樣憑空出現在口袋裡了，一半是因為那還真的是異常物品。
-
-----
-
-[[=]]
-+++ 特工
-[[/=]]
-**小羽特工**
-激動特遣隊隊員、安保特工、文書員、技術人員、現任道德倫理委員會副主任，不知怎麼的，Willw每次見到她都換了個頭銜，似乎在哪都能找到其身影似的。
-且不同於Dr.Tina的管教，小羽對於Willow總是抱有無比的耐心及溫柔，--還是名摸貂專家--，亦有幾次Willow回神發現自己跑進項目收容間時，是小羽將自己安全帶出的。
-除此之外，其本人似乎很懂得應對Willow的不自覺行為，至今，Willow在她身上只有拿走一個髮夾而已，那是在她住院的時候從床頭櫃拿到的。（據說Willow還幫忙看護了一個晚上，因為她忘記帶走自己的睡窩了。）
-
-----
-
-[[=]]
-+++ 特遣隊隊員
-[[/=]]
-**張道士**
-通常身著黑袍馬褂的男子，目前只有在木易的書房遇到過，而介於Willow的習性，這通常會給待整理文件帶來一場災難。
-此外本人讚賞Willow的藥用價值，其肉性溫，退火，皮草則可入藥作引子。
-> 一隻軟暖貂，如果他不要吃麻雀就更好了。
-@@ @@
-@@ @@
-@@ @@
 [[/tab]]
 [[/tabview]]
 [[=]]
@@ -700,5 +677,4 @@
 [[/collapsible]]
 [[/tab]]
 [[/tabview]]
-====
---]
+[[/div]]

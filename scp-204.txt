@@ -1,9 +1,10 @@
+[[include component:scp-meta-title-hiding css-style=classic]]
+
 [[include credit:start]]
 作者：[[*user SpoonOfEvil]]
 譯者：[[*user vomiter]]
 標題：SCP-204 - 保護者
 [[include credit:end]]
-[[include component:scp-meta-title-hiding css-style=classic]]
 
 
 **項目編號：** SCP-204

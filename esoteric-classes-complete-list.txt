@@ -188,7 +188,7 @@
 ||[[span class="ruby"]]Starveling[[span class="rt"]]飢餓[[/span]][[/span]]|| 確切含意不明。是超現實部「飽食等級」的分級。||[[[SCP-6445|SCP-⌘]]]||
 ||[[span class="ruby"]]Symbolic[[span class="rt"]]符號化[[/span]][[/span]]|| 對該項目的收容僅是象徵為之。執行真正的收容措施將會招致即刻且極端的懲罰。||[[[SCP-6445|SCP-⌘]]]||
 ||[[span class="ruby"]]talakal ni Adek[[span class="rt"]]彩虹[[/span]][[/span]][[footnote]]**譯注：**南勢阿美族語之拼音，意為彩虹。[[/footnote]]||  ||[[[SCP-ZH-372]]]||
-||[[span class="ruby"]]Tenebrarius[[span class="rt"]]泰納布拉里烏斯[[/span]][[/span]][[footnote]]**譯注：**拉丁文，黃昏之意。[[/footnote]]||基金會沒有且不可能獲取項目的相關資訊。||[[[SCP-PL-290]]], [[[SCP-7931]]]||
+||[[span class="ruby"]]Tenebrarius[[span class="rt"]]泰納布拉里烏斯[[/span]][[/span]][[footnote]]**譯注：**拉丁文，黃昏之意。[[/footnote]]||基金會沒有且不可能獲取項目的相關資訊。||[[[SCP-PL-290]]], [[[SCP-7931]]], [[[SCP-ZH-818]]||
 ||[[span class="ruby"]]Terminal[[span class="rt"]]終端[[/span]][[/span]]||項目牽涉人類的死後世界。[http://scp-int.wikidot.com/forum/t-7855061/scp-es-145 詳盡定義在此。] ||[http://scp-int.wikidot.com/scp-es-145 SCP-ES-145], [http://lafundacionscp.wikidot.com/scp-es-163 SCP-ES-163], [http://scp-int.wikidot.com/scp-es-266 SCP-ES-266], [[[SCP-5523]]], [[[SCP-5572]]], [[[SCP-5961]]]||
 ||[[span class="ruby"]]the simpsons farting[[span class="rt"]]辛普森一家放屁[[/span]][[/span]]||未知。||[[[SCP-PL-290]]]||
 ||[[span class="ruby"]]Tiamat[[span class="rt"]]迪亞馬特[[/span]][[/span]][[footnote]]**譯注：**阿卡德文，巴比倫神話的地母神，是苦水(鹹水，即海洋)的象徵。[[/footnote]]||項目直接對人類造成威脅，但可透過公然作戰或其他造成破碎假面情景[[footnote]]**譯注：**基金會或異常被公眾所認知[[/footnote]]的行動強加「收容」。|| [http://scp-wiki-cn.wikidot.com/scp-cn-2000 SCP-CN-2000], [http://lafundacionscp.wikidot.com/scp-es-244 SCP-ES-244], [http://scp-pl.wikidot.com/scp-pl-253 SCP-PL-253], [http://scp-jp.wikidot.com/scp-405-jp SCP-405-JP], [http://scp-jp.wikidot.com/scp-2682-jp SCP-2682-JP], [http://scp-int.wikidot.com/scp-2891-jp SCP-2891-JP], [http://scp-jp.wikidot.com/scp-2938-jp SCP-2938-JP], [http://scp-jp.wikidot.com/scp-2944-jp SCP-2944-JP], [[[SCP-3396]]], [[[SCP-3895]]], [[[SCP-4568]]], [[[SCP-5034]]], [[[SCP-5866]]], [[[SCP-6335]]], [[[SCP-6942]]]||
@@ -285,6 +285,7 @@
 || Paradox-Apollyon ||項目將不可避免的毀滅人類，並可透過提前消滅全人類實現收容。||[[[swelling-of-the-worlds|]]][[footnote]] 原文如下: Ты - аномалия, опухоль миров [[/footnote]]||
 || Paradox-Thaumiel ||項目被創造用以透過局部ZK级情景徹底消滅全人類。||[[[swelling-of-the-worlds|]]]||
 ||(Partial)||項目無論是技術與原料都被認為是非異常。||[[[SCP-5735-EX]]]||
+||Perplexus-||項目的異常特質未能被完全理解，因此同時歸入二重標準分級—應注意等級並無主次之分。||[[[SCP-ZH-525]]]||
 || Pseudo-Argus ||項目由基金會內部另一機構代替歸檔一方實行收容措施。（即基金會內部限定Argus）||[[[SCP-ZH-996]]]||
 ||(Provisional)|| ||[[[SCP-4742]]]，[[[SCP-5510]]]，[[[SCP-5682]]]||
 ||(Uncontained)|| ||[[[SCP-5810]]]||

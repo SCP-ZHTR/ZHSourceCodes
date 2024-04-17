@@ -17,23 +17,24 @@
     text-shadow: 1px 1px 1px rgba(0,0,0,.8);
 }
 [[/module]]
-[[include credit:start]]
+[[include info:start]]
 [[=]]
 //「一念向萬，萬教歸一。」//
 ——機動部隊 昴宿-27「夜間科學」格言
 [[/=]]
 ----
-= **徽章及圖像作者（CC BY-SA 3.0）**
+= **徽章及圖像作者（除非特別指出，否則授權方式預設為CC BY-SA 3.0）**
 * 人類紀元12021年聖夜相守：[[*user dr-v-valentine]]
 * 人類紀元12022年繁中急迫競賽：[[*user samscript]]、[[*user dr-v-valentine]]
 * 人類紀元12022年紅藍爭霸賽：[[*user lulu-lucifelle]]
 * 人類紀元12023年繁中急迫競賽：[[*user samscript]]
 * 人類紀元12023年紅藍爭霸賽、化身造型：[[*user lulu-lucifelle]]
-* 角色近照：[[*user Kikunai]]
-* 角色近照（證件用）：[[*user dr-v-valentine]]
+* 角色近照（人事檔案）：[[*user Kikunai]]
+* 角色近照（證件示意）：[[*user dr-v-valentine]]
+* **「人事擷影」**一欄各圖作者附註圖下。
 ----
 該頁面檔案文本展示背景所用圖片概屬公有領域。
-[[include credit:end]]
+[[include info:end]]
 [[=]]
 [[div style="font-family: LiSu, cursive; font-size:175%"]]
 「##888|天外飛來##借調迭，　
@@ -45,15 +46,16 @@
 ----
 [[tabview]]
 [[tab 人事檔案]]
-[[include component:image-block name=https://i.imgur.com/NP8kDuB.png|width=300px|caption=Rsr. Knave, as captured by Kikun.aic. Glasses not equipped due to unwanted lens glare.]]
-**姓名：** 劉██
+[[include component:image-block name=https://i.imgur.com/NP8kDuB.png|width=300px|caption=Knave研究員近照，圖像經過Kikun.aic[*http://scp-zh-tr.wikidot.com/zh-characters-fanart-by-kikunai 重建]。眼鏡因反光而暫時摘下。]]
+**姓名：** 劉[[span class="dblock"]]善俠[[/span]]
 **暱稱：** Edward Knave
 **性別：** 男
-**生日：** 19██/10/04
+**生日：** 19[[span class="dblock"]]92[[/span]]/10/04
 **人員編級：** C級助理研究員、2級安全許可
 **職務：** 研究員、文本翻譯
-**專長：** 生物醫學工程、生物資訊學、翻譯、旗幟學、旗徽設計、科際整合、跨學科研究
+**專長：** 生物醫學工程、生物資訊學、翻譯、科際整合、跨學科研究
 **所屬設施：** [[[Site-ZH-25]]]、[[[Site-ZH-11]]]
+**額外受訓：** 旗幟學、旗徽設計[[span class="dblock"]]、敘事相對性理論、敘事粒子物理學、星柱敘事網路工程、古殆瓦語[[/span]]
 
 **外見簡介：** 身高176公分、體重61公斤。蓬捲的中短黑髮，雙瞳深棕近黑、戴黑框眼鏡。在站點內常戴不同造型的帽子與頭巾，有時亦會戴項圈，幾乎未見摘下的一刻。在基金會出勤時習慣穿牛仔褲、長靴以及趨近女裝的襯衣。第二人稱為「閣下」，口頭禪為「救命」。胸口與背後皆有刺青。依本人供稱，前後兩方的刺青各自隱藏關於心電圖判讀及高分子墨點法的資訊。在基金會內的人際交流中有時會提出怪異的想法--，時而伴隨反叛思想或被虐癖--。
 
@@ -136,6 +138,7 @@
 * [[[SCP-ZH-181]]]「永續的工業革命」
  * 黑曜石碑週期最終階段的互擊舉動意味著科技發展到盡頭，局限反在科技倫理，而深刻的勞動異化亦扼殺了以改良主義框架發展科技倫理的誘因，無法繼續改善處境的勞動者因內部矛盾被利用而分化。
  * 萬年工地的出現呼應托洛茨基不斷革命論對史達林一國社會主義的反駁——被局限在工地內的黑曜石重覆著科技發展與衰敗的循環而無法從中突破。
+ * 該項目的跨分部聯絡窗口為越南語分部Site-29-VN社會學部。
 [[/collapsible]]
 
 [[collapsible show="▼ Knave研究員的SCP-978實驗紀錄" hide="▲ 「如果不作壓抑的話，他的欲望就會排山倒海而來，將他的形象毀滅。其知欲與性欲同樣澎湃，兩者追求的分別是內在與外在的自我改善。」"]]
@@ -160,13 +163,11 @@ __**SCP-978實驗紀錄████號——實驗日期： 2032/7/15 22:10**__
 [[/collapsible]]
 [[/tab]]
 [[tab 相關文本]]
-[[span style="display:inline; float:left;"]][[image https://i.imgur.com/QNAyT3D.gif width="30%" style="float:left;"]][[/span]]負責文本：
+[[f<image https://i.imgur.com/QNAyT3D.gif width="160px"]]負責文本：
 [[module ListPages created_by="edward-knave" tags="原創" perPage="250" separate="no"]]
 # %%title_linked%% —— 評分：%%rating%% ／ 建檔時間：%%created_at|人類紀元1%Y年%m月%d日 %H:%M|agohover%%
 [[/module]]
-[[module ListPages created_by="edward-knave" tags="+wanderers +原創" perPage="250" separate="no"]]
-* %%title_linked%% —— 評分：%%rating%% ／ 建檔時間：%%created_at|人類紀元1%Y年%m月%d日 %H:%M|agohover%%
-[[/module]]
+* [[[wanderers:a-freak-accident-also-a-forced-anchorage|《迫降事件》]]] —— //[流浪者圖書館文本]//
 * [http://scp-sandbox2-zh.wikidot.com/draft:7605593-19-lkcq9u6g SCP-ZH-708-J-ARC - 我打中了你的經絡秘孔，你已經死了] —— 未歸檔
 翻譯文本：
 [[module ListPages created_by="edward-knave" tags="翻譯" perPage="250" separate="no"]]
@@ -778,7 +779,9 @@ MSC-7「獌束」
 ]]
 [[/tab]]
 [[tab 作者註]]
-[[span style="display:inline; float:left;"]][[image https://i.imgur.com/OCDI8nZ.gif width="30%"]][[/span]]人事檔案兼為作者化身，參數大致近似。於此處乃因創作動力及欲望僅能集中於自身，加諸行動力稀缺之故。除非靈感突現（或由競賽題目催化），大部分活動俱以翻譯為主。
+[[f<image https://i.imgur.com/OCDI8nZ.gif width="160px"]]人事檔案兼為作者化身，參數大致近似。於此處乃因創作動力及欲望僅能集中於自身，加諸行動力稀缺之故。
+
+現行創作模式粗略歸定為[[span class="ruby"]]嵌合型象徵主義[[span class="rt"]]Chimerical Symbolism[[/span]][[/span]]。除非靈感突現（或由競賽題目催化），大部分活動俱以翻譯為主。
 
 部分作品因主題或共通點而自成一組，包括但不限於：
 * 冬之陣三部曲
@@ -815,39 +818,84 @@ MSC-7「獌束」
 [[span class="a-lv1"]]見不善如襲隱以避難靜居[[/span]] _
 [[span class="a-lv2"]]仲尼曰以同異難以異易易[[/span]] _
 [[/span]]
+* 「樞德」三部曲
+ * [[[SCP-ZH-403]]] - 禁臠與終止符：節制
+ * [[[SCP-ZH-465]]] - [[span class="a-container"]]Zététique _
+[[span class="a-lv1"]]Zététique[[/span]] _
+[[span class="a-lv2"]]Zetetics[[/span]] _
+[[/span]]：智慧
+ * [[[SCP-ZH-996]]] - [[span class="a-container"]]見不善如襲隱以避難靜居 _
+[[span class="a-lv1"]]見不善如襲隱以避難靜居[[/span]] _
+[[span class="a-lv2"]]仲尼曰以同異難以異易易[[/span]] _
+[[/span]]：勇氣
+* 醉譯系列
+ * [[[SCP-3380]]] - 科學、技術、工程、神性
+ * [[[SCP-7166]]] - 雷擊不貳
+ * [[[SCP-2031-JP]]] - 虐兒者斷罪戰士．審判紫
+ * [[[SCP-3799]]] - 降雪簡史
+ * [[[SCP-078-JP]]] - 永恆懷爐
+ * [[[SCP-1050]]] - 黑曜石警世碑
 
 [[div style="overflow:scroll;white-space:nowrap;"]]
 ||~ 項目母題 ||~ 項目編號 ||~ [[span class="ruby"]]SCP-ZH-968[[span class="rt"]]基輔戰鬼顯現之時[[/span]][[/span]] ||~ [[span class="ruby"]]SCP-ZH-824[[span class="rt"]]最沉重的繪圖筆[[/span]][[/span]] ||~ [[span class="ruby"]]SCP-ZH-776[[span class="rt"]]暗黑暗黑暗黑之劍[[/span]][[/span]] ||~ [[span class="ruby"]]SCP-ZH-649[[span class="rt"]]補經[[/span]][[/span]] ||~ [[span class="ruby"]]SCP-ZH-534[[span class="rt"]]這是在貼啥啦[[/span]][[/span]] ||~ [[span class="ruby"]]SCP-ZH-403[[span class="rt"]]禁臠與終止符[[/span]][[/span]] ||~ [[span class="ruby"]]SCP-ZH-385[[span class="rt"]]子母巡弋飛彈MSC-7「獌束」[[/span]][[/span]] ||~ [[span class="ruby"]]SCP-ZH-295[[span class="rt"]]Safe色、Euclid色、Keter色[[/span]][[/span]] ||~ [[span class="ruby"]]SCP-ZH-181[[span class="rt"]]永續的工業革命[[/span]][[/span]] ||
-|| 覺察認知療法、聖體變質 ||~ [[span class="ruby"]]SCP-ZH-065[[span class="rt"]]葡提薩埵[[/span]][[/span]] || 精神慰藉 || 心理復健 || 型態變化 || 宗教特徵 || 反熵 || 物欲對立 || 官能灌輸 || 食物 || 精神健康意識 ||
-|| 工業科技演進、勞動異化 ||~ [[span class="ruby"]]SCP-ZH-181[[span class="rt"]]永續的工業革命[[/span]][[/span]] || 都異部門 || 重複行動 || 銘文 || 聲音 || 建築物 || 民生矛盾 || 異界生物 || 群體內部矛盾 ||~ [[span class="ruby"]]SCP-ZH-181[[span class="rt"]]永續的工業革命[[/span]][[/span]]||
-|| 食物宗教戰爭、參差異常 ||~ [[span class="ruby"]]SCP-ZH-295[[span class="rt"]]Safe色、Euclid色、Keter色[[/span]][[/span]] || 群眾意識顯現 || 特異性現實扭曲 || 參差異常 || 特異性精神影響 || 攻擊性強迫觀念 || 情緒煽動 || 同質集群 ||~ [[span class="ruby"]]SCP-ZH-295[[span class="rt"]]Safe色、Euclid色、Keter色[[/span]][[/span]]||
-|| 異界軍武、超形上學產物 ||~ [[span class="ruby"]]SCP-ZH-385[[span class="rt"]]子母巡弋飛彈MSC-7「獌束」[[/span]][[/span]] || 軍事 || 現實扭曲產物 || 武器 || 群體性思考 || 瑕疵 || 認知分裂 ||~ [[span class="ruby"]]SCP-ZH-385[[span class="rt"]]子母巡弋飛彈MSC-7「獌束」[[/span]][[/span]] ||
-|| 媒體心理操縱、注意力經濟 ||~ [[span class="ruby"]]SCP-ZH-403[[span class="rt"]]禁臠與終止符[[/span]][[/span]] || 傳播媒體 || 精神耗弱 || 精神支配 || 思想誘導 || 認知危害 ||~ [[span class="ruby"]]SCP-ZH-403[[span class="rt"]]禁臠與終止符[[/span]][[/span]] ||
-|| 細節強迫觀念、工程失誤 ||~ [[span class="ruby"]]SCP-ZH-534[[span class="rt"]]這是在貼啥啦[[/span]][[/span]] || 意識傳播 || 強迫觀念 || 強迫行為 || 預期規律背離 ||~ [[span class="ruby"]]SCP-ZH-534[[span class="rt"]]這是在貼啥啦[[/span]][[/span]] ||
-|| 教法扭曲、意識形態代理戰爭 ||~ [[span class="ruby"]]SCP-ZH-649[[span class="rt"]]補經[[/span]][[/span]] || 戰術神學部 || 心靈思辨 || 本質物理故障 ||~ [[span class="ruby"]]SCP-ZH-649[[span class="rt"]]補經[[/span]][[/span]] ||
-|| 意外變異產物、人為遊戲故障 ||~ [[span class="ruby"]]SCP-ZH-776[[span class="rt"]]暗黑暗黑暗黑之劍[[/span]][[/span]] || 記憶影響 || 反物理定律 ||~ [[span class="ruby"]]SCP-ZH-776[[span class="rt"]]暗黑暗黑暗黑之劍[[/span]][[/span]] ||
-|| 自我否定、執行功能障礙 ||~ [[span class="ruby"]]SCP-ZH-824[[span class="rt"]]最沉重的繪圖筆[[/span]][[/span]] || 本質促動 ||~ [[span class="ruby"]]SCP-ZH-824[[span class="rt"]]最沉重的繪圖筆[[/span]][[/span]] ||
-|| 戰爭都市傳說、反戰祈願 ||~ [[span class="ruby"]]SCP-ZH-968[[span class="rt"]]基輔戰鬼顯現之時[[/span]][[/span]] ||~ [[span class="ruby"]]SCP-ZH-968[[span class="rt"]]基輔戰鬼顯現之時[[/span]][[/span]] ||
+||= 覺察認知療法、聖體變質 ||~ [[span class="ruby"]]SCP-ZH-065[[span class="rt"]]葡提薩埵[[/span]][[/span]] ||= 精神慰藉 ||= 心理復健 ||= 型態變化 ||= 宗教特徵 ||= 反熵 ||= 物欲對立 ||= 官能灌輸 ||= 食物 ||= 精神健康意識 ||
+||= 工業科技演進、勞動異化 ||~ [[span class="ruby"]]SCP-ZH-181[[span class="rt"]]永續的工業革命[[/span]][[/span]] ||= 都異部門 ||= 重複行動 ||= 銘文 ||= 聲音 ||= 建築物 ||= 民生矛盾 ||= 異界生物 ||= 群體內部矛盾 ||~ [[span class="ruby"]]SCP-ZH-181[[span class="rt"]]永續的工業革命[[/span]][[/span]]||
+||= 食物宗教戰爭、參差異常 ||~ [[span class="ruby"]]SCP-ZH-295[[span class="rt"]]Safe色、Euclid色、Keter色[[/span]][[/span]] ||= 群眾意識顯現 ||= 特異性現實扭曲 ||= 參差異常 ||= 特異性精神影響 ||= 攻擊性強迫觀念 ||= 情緒煽動 ||= 同質集群 ||~ [[span class="ruby"]]SCP-ZH-295[[span class="rt"]]Safe色、Euclid色、Keter色[[/span]][[/span]]||
+||= 異界軍武、超形上學產物 ||~ [[span class="ruby"]]SCP-ZH-385[[span class="rt"]]子母巡弋飛彈MSC-7「獌束」[[/span]][[/span]] ||= 軍事 ||= 現實扭曲產物 ||= 武器 ||= 群體性思考 ||= 瑕疵 ||= 認知分裂 ||~ [[span class="ruby"]]SCP-ZH-385[[span class="rt"]]子母巡弋飛彈MSC-7「獌束」[[/span]][[/span]] ||
+||= 媒體心理操縱、注意力經濟 ||~ [[span class="ruby"]]SCP-ZH-403[[span class="rt"]]禁臠與終止符[[/span]][[/span]] ||= 傳播媒體 ||= 精神耗弱 ||= 精神支配 ||= 思想誘導 ||= 認知危害 ||~ [[span class="ruby"]]SCP-ZH-403[[span class="rt"]]禁臠與終止符[[/span]][[/span]] ||
+||= 細節強迫觀念、工程失誤 ||~ [[span class="ruby"]]SCP-ZH-534[[span class="rt"]]這是在貼啥啦[[/span]][[/span]] ||= 意識傳播 ||= 強迫觀念 ||= 強迫行為 ||= 預期規律背離 ||~ [[span class="ruby"]]SCP-ZH-534[[span class="rt"]]這是在貼啥啦[[/span]][[/span]] ||
+||= 教法扭曲、意識形態代理戰爭 ||~ [[span class="ruby"]]SCP-ZH-649[[span class="rt"]]補經[[/span]][[/span]] ||= 戰術神學部 ||= 心靈思辨 ||= 本質物理故障 ||~ [[span class="ruby"]]SCP-ZH-649[[span class="rt"]]補經[[/span]][[/span]] ||
+||= 意外變異產物、人為遊戲故障 ||~ [[span class="ruby"]]SCP-ZH-776[[span class="rt"]]暗黑暗黑暗黑之劍[[/span]][[/span]] ||= 記憶影響 ||= 反物理定律 ||~ [[span class="ruby"]]SCP-ZH-776[[span class="rt"]]暗黑暗黑暗黑之劍[[/span]][[/span]] ||
+||= 自我否定、執行功能障礙 ||~ [[span class="ruby"]]SCP-ZH-824[[span class="rt"]]最沉重的繪圖筆[[/span]][[/span]] ||= 本質促動 ||~ [[span class="ruby"]]SCP-ZH-824[[span class="rt"]]最沉重的繪圖筆[[/span]][[/span]] ||
+||= 戰爭都市傳說、反戰祈願 ||~ [[span class="ruby"]]SCP-ZH-968[[span class="rt"]]基輔戰鬼顯現之時[[/span]][[/span]] ||~ [[span class="ruby"]]SCP-ZH-968[[span class="rt"]]基輔戰鬼顯現之時[[/span]][[/span]] ||
 [[/div]]
 
 [[div style="overflow:scroll;white-space:nowrap;"]]
 ||~ 風險＼擾動 ||~ [[span class="ruby"]]Dark[[span class="rt"]]黑暗[[/span]][[/span]] ||~ [[span class="ruby"]]Vlam[[span class="rt"]]燭光[[/span]][[/span]] ||~ [[span class="ruby"]]Keneq[[span class="rt"]]營火[[/span]][[/span]] ||~ [[span class="ruby"]]Ekhi[[span class="rt"]]太陽[[/span]][[/span]] ||~ [[span class="ruby"]]Amida[[span class="rt"]]無量光[[/span]][[/span]] ||~  ||
-||~ [[span class="ruby"]]Notice[[span class="rt"]]注意[[/span]][[/span]] || [[span class="ruby"]]SCP-ZH-065[[span class="rt"]]葡提薩埵[[/span]][[/span]] || [[span class="ruby"]]SCP-ZH-649[[span class="rt"]]補經[[/span]][[/span]] || [[span class="ruby"]]SCP-ZH-674-J[[span class="rt"]]海外驗傷[[/span]][[/span]] ||  ||  || 3/5 ||
-||~ [[span class="ruby"]]Caution[[span class="rt"]]謹慎[[/span]][[/span]] || [[span class="ruby"]]SCP-ZH-824[[span class="rt"]]最沉重的繪圖筆[[/span]][[/span]] || [[span class="ruby"]]SCP-ZH-181[[span class="rt"]]永續的工業革命[[/span]][[/span]] || [[span class="ruby"]]SCP-ZH-534[[span class="rt"]]這是在貼啥啦[[/span]][[/span]] ||  ||  || 3/5 ||
-||~ [[span class="ruby"]]Warning[[span class="rt"]]警戒[[/span]][[/span]] || [[span class="ruby"]]SCP-ZH-776[[span class="rt"]]暗黑暗黑暗黑之劍[[/span]][[/span]] || [[span class="ruby"]]SCP-ZH-424[[span class="rt"]]S.P.I.R.I.T.[[/span]][[/span]] ||  || [[span class="ruby"]]SCP-ZH-996[[span class="rt"]][[span class="a-container"]]見不善如襲隱以避難靜居 _
+||~ [[span class="ruby"]]Notice[[span class="rt"]]注意[[/span]][[/span]] ||= [[span class="ruby"]]SCP-ZH-065[[span class="rt"]]葡提薩埵[[/span]][[/span]] ||= [[span class="ruby"]]SCP-ZH-649[[span class="rt"]]補經[[/span]][[/span]] ||= [[span class="ruby"]]SCP-ZH-674-J[[span class="rt"]]海外驗傷[[/span]][[/span]] ||=  ||=  ||= 3/5 ||
+||~ [[span class="ruby"]]Caution[[span class="rt"]]謹慎[[/span]][[/span]] ||= [[span class="ruby"]]SCP-ZH-824[[span class="rt"]]最沉重的繪圖筆[[/span]][[/span]] ||= [[span class="ruby"]]SCP-ZH-181[[span class="rt"]]永續的工業革命[[/span]][[/span]] ||= [[span class="ruby"]]SCP-ZH-534[[span class="rt"]]這是在貼啥啦[[/span]][[/span]] ||= [[span class="ruby"]]SCP-ZH-465[[span class="rt"]][[span class="a-container"]]測者得救/死 _
+[[span class="a-lv1"]]Zététique[[/span]] _
+[[span class="a-lv2"]]Zetetics[[/span]] _
+[[/span]][[/span]][[/span]] ||=  ||= 4/5 ||
+||~ [[span class="ruby"]]Warning[[span class="rt"]]警戒[[/span]][[/span]] ||= [[span class="ruby"]]SCP-ZH-776[[span class="rt"]]暗黑暗黑暗黑之劍[[/span]][[/span]] ||= [[span class="ruby"]]SCP-ZH-424[[span class="rt"]]S.P.I.R.I.T.[[/span]][[/span]] ||=  ||= [[span class="ruby"]]SCP-ZH-996[[span class="rt"]][[span class="a-container"]]見不善如襲隱以避難靜居 _
 [[span class="a-lv1"]]見不善如襲隱以避難靜居[[/span]] _
 [[span class="a-lv2"]]仲尼曰以同異難以異易易[[/span]] _
-[[/span]][[/span]][[/span]] || [[span class="ruby"]]SCP-ZH-403[[span class="rt"]]禁臠與終止符[[/span]][[/span]] || 4/5 ||
-||~ [[span class="ruby"]]Danger[[span class="rt"]]危險[[/span]][[/span]] || [[span class="ruby"]]SCP-ZH-312[[span class="rt"]][[span class="a-container"]]仁義禮智 _
+[[/span]][[/span]][[/span]] ||= [[span class="ruby"]]SCP-ZH-403[[span class="rt"]]禁臠與終止符[[/span]][[/span]] ||= 4/5 ||
+||~ [[span class="ruby"]]Danger[[span class="rt"]]危險[[/span]][[/span]] ||= [[span class="ruby"]]SCP-ZH-312[[span class="rt"]][[span class="a-container"]]仁義禮智 _
 [[span class="a-lv1"]]東南西北[[/span]] _
 [[span class="a-lv2"]]仁義禮智[[/span]] _
-[[/span]][[/span]][[/span]] ||  ||  ||  ||  || 1/5 ||
-||~ [[span class="ruby"]]Critical[[span class="rt"]]極危[[/span]][[/span]] || [[span class="ruby"]]SCP-ZH-968[[span class="rt"]]基輔戰鬼顯現之時[[/span]][[/span]] || [[span class="ruby"]]SCP-ZH-964[[span class="rt"]][[span class="a-container"]]海鷗為何撤退？ _
+[[/span]][[/span]][[/span]] ||=  ||=  ||=  ||=  ||= 1/5 ||
+||~ [[span class="ruby"]]Critical[[span class="rt"]]極危[[/span]][[/span]] ||= [[span class="ruby"]]SCP-ZH-968[[span class="rt"]]基輔戰鬼顯現之時[[/span]][[/span]] ||= [[span class="ruby"]]SCP-ZH-964[[span class="rt"]][[span class="a-container"]]海鷗為何撤退？ _
 [[span class="a-lv1"]]海鷗為何撤退？[[/span]] _
 [[span class="a-lv2"]]公雞為何過路？[[/span]] _
-[[/span]][[/span]][[/span]] || [[span class="ruby"]]SCP-ZH-385[[span class="rt"]]子母巡弋飛彈MSC-7「獌束」[[/span]][[/span]] ||  ||  || 3/5 ||
-||~  ||~ 滿 載 || 3/5 || 3/5 || 1/5 || 1/5 ||
+[[/span]][[/span]][[/span]] ||= [[span class="ruby"]]SCP-ZH-385[[span class="rt"]]子母巡弋飛彈MSC-7「獌束」[[/span]][[/span]] ||=  ||=  ||= 3/5 ||
+||~  ||~ 滿 載 ||= 3/5 ||= 3/5 ||= 2/5 ||= 1/5 ||
 [[/div]]
+[[/tab]]
+[[tab 人事擷影]]
+**__此處置其他在文本以外的藝作，將不定期更新。彙整自己與眾人所畫之餘，更應感謝留影的各位。__**
+@@ @@
+[[include :scp-zh-tr:component:image-block name=https://i.imgur.com/xZLqjvo.jpg|align=center|width=65%|caption= 首幀自畫。 _
+**作者：** [[*user Edward_Knave]]]]
+@@ @@
+[[include :scp-zh-tr:component:image-block name=https://i.imgur.com/UOFaQph.jpg|align=center|width=65%|caption= 塵塚初現。 _
+**作者：** [[*user CNBlack]]]]
+@@ @@
+[[include :scp-zh-tr:component:image-block name=https://i.imgur.com/83JdmtH.jpg|align=center|width=65%|caption= 敬啟者／此致： _
+**作者：** [http://scp-zh-tr.wikidot.com/valentine-00 Dr. Valentine]（命題：Q版艾德）]]
+@@ @@
+[[include :scp-zh-tr:component:image-block name=https://i.imgur.com/UiqlYqq.jpg|align=center|width=65%|caption= [[[SCP-ZH-909]]]×Edward Knave _
+**作者：** [[*user Edward_Knave]]]]
+@@ @@
+[[include :scp-zh-tr:component:image-block name=https://i.imgur.com/xiMm48i.jpg|align=center|width=65%|caption= [[[SCP-ZH-968]]]×Edward Knave _
+**作者：** [[*user Edward_Knave]]]]
+@@ @@
+[[include :scp-zh-tr:component:image-block name=https://i.imgur.com/jEivvUM.jpg|align=center|width=65%|caption= [[[SCP-ZH-649]]]×Edward Knave _
+**作者：** [[*user Edward_Knave]]]]
+@@ @@
+[[include :scp-zh-tr:component:image-block name=https://i.imgur.com/fTYhRKi.png|align=center|width=65%|caption= 回眸以共勉之。 _
+**作者：** [[*user Hector-ZH-TR]]]]
+@@ @@
 [[/tab]]
 [[tab 簡易異常紀錄]]
 SCP-ZH-4444-J「蔣公大戰二宮」：蔣介石與二宮金次郎的銅像集體復活並相互攻擊。台灣的銅像職人需要思考如何控制事態。
@@ -1078,7 +1126,7 @@ SCP-ZH-???「儒」：兼具孔子與阿爾伯特愛因斯坦兩種人格的活�
 # %%title_linked%% - 譯者：%%created_by%%／時間：%%created_at|1%Y HE %m.%d %H:%M|agohover%%／評分：%%rating%%
 [[/module]]
 [[/tab]]
-[[tab ？]]
+[[tab 證件示意]]
 [[include :scp-zh-tr:component:id-card |css=--
 |photo=https://i.imgur.com/LDd0e6L.jpg
 |level=2
