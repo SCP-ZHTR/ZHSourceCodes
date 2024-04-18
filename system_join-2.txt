@@ -20,7 +20,7 @@
 [[div class="applybox"]]
 請在欄位內以__合適的語言__回答以下提問，並遞交申請書。請 **不要** 公開你的回答，否則你可能會遭受懲罰。
 [[module Listusers users="."]]
-[[iframe https://scp-zh-tr-mo2aic-591f930e50e5.herokuapp.com/application_phone_verify/%%number%% height="1740px" width="640px"]]
+[[iframe https://mos.scp-zhtr.com/application_phone_verify/%%number%% height="1740px" width="640px"]]
 [[/module]]
 [[/div]]
 
