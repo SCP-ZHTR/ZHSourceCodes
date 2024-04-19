@@ -1,0 +1,186 @@
+[[include :scp-zh-tr:theme:wondertainment]]
+
+[[include info:start]]
+**Wondertainment博士中心頁**
+**原文：**[https://scp-wiki.wikidot.com/dr-wondertainment-hub Dr. Wondertainment Hub]
+**作者：**[[*user DarkStuff]]、[[*user taylor_itkin]]
+**譯者：**[[*user Tostren]]
+
+[[include info:end]]
+
+[[image http://scp-wiki.wdfiles.com/local--files/dr-wondertainment-hub/tannerbanner]]
+[[collapsible show ="有時候你起床時......"hide="有時候你起床時，你會感到很憂鬱"]]
+你向窗外看了看，外頭卻下著大雨
+梳理完你的頭髮，再清潔你的牙齒
+聞著周遭的空氣，焦慮的享用早餐
+迅速地帶上衣服，跟鞋子還有行李
+你走出了那扇門，嘆氣又感到無力
+
+一直把頭低下來，世界就會很黑暗
+但當你撞到頭時，一切就都會好轉
+「這有位博士，」你說，「穿著明亮又清新！
+他們的意志堅定，同時十分的自信！」
+卻很溫柔且友善，還會牽著你的手
+最終會將你帶走，去往更好的地方
+
+雲霄飛車和激情，魅力四射的設施
+有冰淇淋和餅乾，熱狗和派作主食
+見到優秀的演員，他們登上了舞台
+大廳裡的玩意兒，那些大師和文采
+應該要打起精神，別像平時般躺平
+戰慄並開始發抖，站直又感到震驚
+「我為何從未聽說，」，你默默開始回想
+「這充滿驚奇之物，還有幻想的地方。」
+
+[[/collapsible]]
+
+那博士蹲了下來，並拉著你的肩膀
+他的嘴巴張開時，那是個奇聲妙響
+「不是新地方，小傻瓜，而是你日常之所！
+偶爾也需要休息，拋開壓抑與難過
+全丟到房間後面，把它們拋之腦後
+在你讀過的童話，那一頁頁紙張中
+世界是那麼混亂，充滿憂愁與廢物
+摧殘著你的腦袋，把它研磨成漿糊
+當你需要些快樂，好讓你能拍拍手
+當你需要些禮物，包裝粉色又霓虹
+只需要閉上雙眼，想起了那些氣球
+想起活潑又糊塗，放蕩不羈的朋友」
+
+「當你的世界沉沒，而你很需要解脫
+要知道你的腦內，就是最佳的去所」
+@@
+@@
+@@
+@@
+@@
+@@
+@@
+@@
+
+[[=]]
+[[div id="myDiv" style="background: #780d8e; text: #FBD926; padding:5px"]]
+[[size 225%]]##FBD926|**__歡迎來到Wondertainment博士中心頁！__**##[[/size]]
+[[/div]]
+[[/=]]
+
+[[=]]
+[[size 150%]]##801967|**Wondertainment博士是什麼？**##[[/size]]
+[[/=]]
+
+Wondertainment是一個異常/魔法兒童玩具製造者。
+Wondertainment的起源在站內早有記載，最早可追溯到系列I的[[[scp-445|超級紙片]]]，並在那之後開始就依著幾個主要原則發展：
+* Wondertainment以資本主義運作
+* Wondertainment製造兒童玩具
+* Wondertainment很幼稚且貪玩
+
+
+上述的重點是否只是個偽裝仍有待討論。
+Wondertainment博士可能是一間公司、一個人亦或是運營一間公司的個人，不過，最重要的是Wondertainment博士很神奇，而且會製作玩具。即便這些玩具可能不安全，或是遠遠超出一個孩童的想像（或慾望），Wondertainment的根本要素就是他們製作玩具，無論這些玩具可以溫暖人心，還是恐怖到了極點，亦或是有點走太歪。無論怎麼看待他們對這個世界的意圖/影響，他們都與孩童及其行為有無可置疑的關聯。
+
+所以，你到底該怎麼寫一篇Wondertainment博士呢？好吧，相信我，我知道這聽起來會很蠢，但……玩得開心點。對，你在撰寫它的過程中應該是很開心的，不然你又是為了什麼而寫作呢？尤其是Wondertainment，我相信寫好它的主要方法就是不要在乎邏輯。如果你要寫一個Wondertainment玩具的話，它就必須很他媽的//有趣//，並讓你的讀者想要那個玩具。如果你要寫一篇故事的話，做得過分一點，放一狗屎大坨的柯基進去，或是讓裡面有一個統治著所有糖果的獨裁者，就算它要很黑暗，你也得把它藏在虛偽的歡樂背後。
+
+古怪之物出錯之後還是很古怪，而Wondertainment博士是由純粹的古怪所組成，這就是它的核心。這就是Wondertainment的一切。如果你是位有野心的Wondertainment作者的話，你的主要工作就是保持瘋狂，孩子。
+
+[[collapsible show="[+] Wondertainment博士CSS主題 [+]" hide="[-] 隱藏CSS主題[-]"]]
+為使用Wondertainment博士CSS主題，將以下代碼複製到你的文章開頭：
+
+@@[[include :scp-zh-tr:theme:wondertainment]]@@
+[[/collapsible]]
+------
+[[div id="myDiv" style="background-color: #780d8e; text-color: #FBD926;"]]
+[[=]]
+[[SIZE 120%]]##FBD926|**-童話故事-**##[[/size]]
+[[/=]]
+[[/div]]
+------
+
+[[module ListPages order="title" tags="wondertainment博士 +故事 -中心 -原創" separate="no" perPage="200" prependLine="||~ 標題||~ 作者||"]]
+|| %%title_linked%% || %%created_by_linked%% ||
+[[/module]]
+
+------
+[[div id="myDiv" style="background-color: #780d8e; text-color: #FBD926;"]]
+[[=]]
+[[SIZE 120%]]##FBD926|**-社會貢獻-**##[[/size]]
+[[/=]]
+[[/div]]
+------
+
+[[module ListPages order="title" tags="wondertainment博士 +goi格式 -原創" separate="no" perPage="200" prependLine="||~ 標題||~ 譯者||"]]
+|| %%title_linked%% || %%created_by_linked%% ||
+[[/module]]
+
+------
+[[div id="myDiv" style="background-color: #780d8e; text-color: #FBD926;"]]
+[[=]]
+[[SIZE 120%]]##FBD926|**-章節書-**##[[/size]]
+[[/=]]
+[[/div]]
+------
+
+[[module ListPages order="title" tags="wondertainment博士 +_故事 -中心 -原創" separate="no" perPage="200" prependLine="||~ 標題||~ 譯者||"]]
+|| %%title_linked%% || %%created_by_linked%% ||
+[[/module]]
+
+------
+[[div id="myDiv" style="background-color: #780d8e; text-color: #FBD926;"]]
+[[=]]
+[[SIZE 120%]]##FBD926|**-玩具-**##[[/size]]
+[[/=]]
+[[/div]]
+------
+
+[[module ListPages order="title" tags="wondertainment博士 +scp -原創" separate="no" perPage="200" prependLine="||~ 標題||~ 作者||"]]
+|| %%title_linked%% || %%created_by_linked%% ||
+[[/module]]
+
+------
+[[div id="myDiv" style="background-color: #780d8e; text-color: #FBD926;"]]
+[[=]]
+[[SIZE 120%]]##FBD926|**-其他分部作品-**##[[/size]]
+[[/=]]
+[[/div]]
+------
+
+||~ 標題||~ 作者||~ 譯者||
+|| [http://scp-int.wikidot.com/a-big-monster Big Monsters] || [[*user DrSSS]] || [[*user Bonneneige]] ||
+|| [http://scp-int.wikidot.com/scp-003-int SCP-003-INT] |||| [[*user Einer von Rabe]] and [[*user Dr Lekter]] ||
+|| [http://scp-int.wikidot.com/scp-014-vn SCP-014-VN] || [[*user KirQ]] and [[*user StupifPotato]] || [[*user Irina Bougainvillea]] ||
+
+------
+[[div id="myDiv" style="background-color: #780d8e; text-color: #FBD926;"]]
+[[=]]
+[[SIZE 120%]]##FBD926|**-其他東西-**##[[/size]]
+[[/=]]
+[[/div]]
+------
+
+[[module ListPages order="title" tags="wondertainment博士 -goi格式 -故事 -scp -_故事 -中心" separate="no" perPage="200" prependLine="||~ 故事||~ 譯者||"]]
+|| %%title_linked%% || %%created_by_linked%% ||
+[[/module]]
+
+------
+[[div id="myDiv" style="background-color: #780d8e; text-color: #FBD926;"]]
+[[=]]
+[[SIZE 120%]]##FBD926|**-ZH分部作品-**##[[/size]]
+[[/=]]
+[[/div]]
+------
+
+[[module ListPages order="title" tags="wondertainment博士 +原創" separate="no" perPage="200" prependLine="||~ 標題||~ 作者||"]]
+|| %%title_linked%% || %%created_by_linked%% ||
+[[/module]]
+
+
+[[include :scp-zh-tr:component:license-box
+|author=DarkStuff, taylor_itkin
+|translator=Tostren
+|lang=EN]]
+=====
+> **檔案名稱：** tannerbanner
+> **圖像作者：** [[*user taylor_itkin]] 和 [[*user Zhange]]
+> **圖像授權協議：** CC BY-SA 3.0
+> **圖源連結：** http://scp-wiki.wikidot.com/dr-wondertainment-hub
+=====
+[[include :scp-zh-tr:component:license-box-end]]
