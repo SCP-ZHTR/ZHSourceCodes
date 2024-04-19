@@ -95,7 +95,7 @@ Wondertainment博士可能是一間公司、一個人亦或是運營一間公司
 [[/div]]
 ------
 
-[[module ListPages order="title" tags="wondertainment博士 +故事 -中心 -原創" separate="no" perPage="200" prependLine="||~ 標題||~ 作者||"]]
+[[module ListPages order="title" tags="wondertainment博士 +故事 -中心 -原創" separate="no" perPage="200" prependLine="||~ 標題||~ 譯者||"]]
 || %%title_linked%% || %%created_by_linked%% ||
 [[/module]]
 
