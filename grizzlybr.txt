@@ -20,7 +20,7 @@
     caption=Dr. Grizzly的正面大頭照[[footnote]]欸奇怪了......為什麼每次要存取Dr. Grizzly的照片時系統都會出錯......[[/footnote]]|
     width=250px
 ]]
-**姓名：**賴██, Grizzly R. Bottin
+**姓名：**賴██, Grizzly
 
 **暱稱：**棕熊[[footnote]]所以Dr. Grizzly的手又稱為「熊掌」[[/footnote]]、Raphaël[[footnote]]這可是現實生活中[[*user grizzlybr]]的法文名字呢[[/footnote]]
 
@@ -36,7 +36,7 @@
 
 **職稱：**站點主任
 
-**簡介：**臺法混血，身高180公分，瘦長體型。父親Dr. Alphonse E. Bottin，曾任職於Site-168；母親Dr. Adelaide Lee，曾任職於Site-ZH-02。父親因業務關係被調職到Site-ZH-02，二人因此認識。在就讀███大學時因能力出眾而受到基金會的注意，並在不久後入職。
+**簡介：**臺法混血，身高180公分，瘦長體型。父親曾任職於Site-168；母親曾任職於Site-ZH-02。父親因業務關係被調職到Site-ZH-02，二人因此認識。在就讀███大學時因能力出眾而受到基金會的注意，並在不久後入職。
 其常會拿著一杯黑咖啡，在Site-ZH-59內到處閒晃。
 
 **生理特徵：**
@@ -49,7 +49,7 @@
 [[include :scp-zh-tr:component:id-card |css=--
 |photo=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvMHsXKSj0AC2RZST_aAcHu9dF0AfJeDlNq3ZhqO57JbwfeIvxA6-A9huPY7kLmCMCnXeMCZZEMF4kzFmZUgkMfON6H2wYZmfw5Gnk0IFWgumIwsKmMHP3m9XMuyrtb8gSIxOcNMa9cU-BOScf2xWyAAVs9EUQD9ejkI7Wf19VHS5OFbgnXEO8Hkgk-9Cg/s1024/IMG_3174.jpeg
 |level=4
-|name=Grizzly R. Bottin
+|name=Grizzly
 |dept=Site-ZH-59站點主任室 |position=站點主任
 |id-number= 9192-064859
 |expiry=06/2032

@@ -1,21 +1,9 @@
-[[include component:scp-meta-title-hiding]]
 [[include :scp-wiki:theme:bedrock]]
 [[include :scp-wiki:theme:lumina]]
-[[module css]]
-:root {
-    --header-logo: url(https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Moon_farside_LRO_5000.jpg/600px-Moon_farside_LRO_5000.jpg);
-    --lumina-footer-image: url(https://moon.nasa.gov/rails/active_storage/disk/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9JYTJWNVNTSXBaVGd3TjJSbFpqa3ROR0l4TnkwME1EZzVMV0ZsTVRBdFl6TmhOMkkyWldJeU9EUXlCam9HUlZRNkVHUnBjM0J2YzJsMGFXOXVTU0pCYVc1c2FXNWxPeUJtYVd4bGJtRnRaVDBpY3pJdE1USTRNQzVxY0djaU95Qm1hV3hsYm1GdFpTbzlWVlJHTFRnbkozTXlMVEV5T0RBdWFuQm5CanNHVkRvUlkyOXVkR1Z1ZEY5MGVYQmxTU0lQYVcxaFoyVXZhbkJsWndZN0JsUTZFWE5sY25acFkyVmZibUZ0WlRvS2JHOWpZV3c9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2tleSJ9fQ==--e51e51e1b690265b9363eb37511e63cd650d1e54/s2-1280.jpg);
-    --moon-mask: linear-gradient(45deg, transparent 10%, white 70%);
-}
-#header h1 a::before {
-    clip-path: circle(calc(var(--base-header-height) *.375));
-    -webkit-mask-image: var(--moon-mask);
-    mask-image: var(--moon-mask);
-}
-[[/module]]
+
 [[include info:start]]
 作者：[[user Mang Gwan]]
-篇名：
+篇名：SCP-ZH-716
 
 
 https://commons.wikimedia.org/wiki/File:Moon_farside_LRO_5000.jpg
@@ -23,17 +11,18 @@ https://commons.wikimedia.org/wiki/File:Moon_farside_LRO_5000.jpg
 https://moon.nasa.gov/resources/48/the-moons-surface/
 [[include info:end]]
 
+
 **項目編號：**SCP-ZH-716
 
 **項目等級：**Safe
 
-**特殊收容措施：**由於 SCP-ZH-716 本身位置難以到達且不易暴露，只需一個能反射偽裝電波的遮蔽罩安裝在項目上方來防止其被發現。對項目的研究和收容由 [[[secure-facility-dossier-lunar-area-32|Area-32]]] 負責。其他月球背面的常態天文科研會以空間不足為由在安排在距離項目 70 公里外的利普斯基環形山進行。
+**特殊收容措施：**由於 SCP-ZH-716 本身位置難以到達或被平民發現，項目只需在其上方安裝一個能反射偽裝電波的遮蔽罩來防止其被發現。對項目的研究和收容由 [[[secure-facility-dossier-lunar-area-32|Area-32]]] 負責。其他月球背面的常態天文科研會以空間不足為由在安排在距離項目 70 公里外的利普斯基環形山進行。
 
-**描述：**SCP-ZH-716 是一座 5×2×1 米大小的鈹青銅方碑，位於月球緯度 0° 經度 180°（月表離地球最遠處）。方碑上表面平滑，朝向月球正南的一個最大面在約一半高處以古閃語刻有一段銘文（詳見附錄）。基於月球上的資源有限及週遭環境，推測方碑擁有無法破壞以及無法移動的性質，且一直會保持直立。而通過對週遭環境的放射性定年法以及微隕石坑推斷 SCP-ZH-716 大約立於公元前十八至十五萬年。
+**描述：**SCP-ZH-716 是一座 5×2×1 米大小的鈹青銅方碑，位於月球緯度 0° 經度 180°（月表離地球最遠處）。方碑上表面平滑，朝向月球正南的一個最大面在約一半高處以上古閃語刻有一段銘文（詳見附錄）。基於月球上的資源有限及對週遭環境的觀察，推測方碑擁有無法破壞以及無法移動的性質，且一直會保持直立。而通過對週遭環境的放射性定年法以及微隕石坑推斷 SCP-ZH-716 大約立於公元前十八至十五萬年。
 
-當有人員在五米以內的距離直視方碑時，會出現 SCP-ZH-716-A 幻覺。SCP-ZH-716-A 的內容為碑旁站的一個約 2.5 米高有着中亞臉容的人型，身穿紫色袍銅色甲冑。除雙手皆有六隻手指及異常的身高外，其外觀和現代人並沒有重大分別。人型面向前方左手舉起，其第二及三隻手指指向身前 10° 內的方向，而在不同的時間人型會站方碑不同方位。
+當有人員在距離方碑五米以內直視它時，會看到一個在不同的時間在方碑不同方位出現的幻覺（SCP-ZH-716-A）。SCP-ZH-716-A 的內容為碑旁站的一個約 2.5 米高有着中東人外貌的人型，身穿紫色長袍及銅色甲冑。除雙手皆有六隻手指及較大的體格外，其外觀和現代人並沒有重大分別。人型面向前方左手舉起，其第二及三隻手指指向身前方。
 
-SCP-ZH-716-B 是指在方碑旁周遭非自然形成的痕跡，包括一堆十分模糊的腳印，腳印一直延伸到 500 米外消失，該處附近四個二米深的一米方形直坑。而直坑附近的一層已衰變的放射性落下灰，推斷是在七萬年前留下。另外，方碑附近一公里內有五組類似的但大小數量不一的直坑，分別推測在十萬至七萬五千年前留下且沒有類似的放射性物質。
+SCP-ZH-716-B 是指在方碑旁周遭非自然形成的痕跡，包括一堆十分模糊的腳印，腳印一直延伸到 500 米外消失，該處附近有四個二米深的一米方形直坑。而直坑附近的一層已衰變的放射性落下灰，推斷是在七萬年前留下。另外，方碑附近一公里內有五組類似的但大小形狀數量不一的坑洞，分別推測在十萬至七萬五千年前留下且沒有類似的放射性物質。
 
 **附錄：**方碑上的銘文內容，由古語言學部翻譯
 
@@ -55,9 +44,127 @@ SCP-ZH-716-B 是指在方碑旁周遭非自然形成的痕跡，包括一堆十�
 便朝無懼的破暗者所指
 
 始星旅
-
 [[/div]]
 
-目前正在對銘文中提到的「無懼的破暗者」的存在對進行文獻查證，但鑒於更新世後期發生的大型文化破壞估計找到有關文獻的機會渺茫，而對其他「路標」的搜索因線索過小而停止。
+目前正在對銘文中提到的「無懼的破暗者」的存在對進行文獻查證，但鑒於更新世後期發生的大型文化破壞估計找到有關文獻的機會渺茫，所以對地球上其他「路標」的搜索因線索過小而停止。
 
-**追加：**經確認後 SCP-ZH-716-A 指向的目標為火星奧林帕斯山山頂，對有關地區的探索為基金會火星探測任務的第一類優先項目。
+**追加：**經對照不同時間 SCP-ZH-716-A 所指的方向後，確認其指向的目標為火星奧林帕斯山山頂，現對有關地區的探索為基金會火星探測任務的第一類優先項目。
+[[module css]]
+:root {
+    --header-logo: url(https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Moon_farside_LRO_5000.jpg/600px-Moon_farside_LRO_5000.jpg);
+    --lumina-footer-image: url(https://moon.nasa.gov/rails/active_storage/disk/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9JYTJWNVNTSXBaVGd3TjJSbFpqa3ROR0l4TnkwME1EZzVMV0ZsTVRBdFl6TmhOMkkyWldJeU9EUXlCam9HUlZRNkVHUnBjM0J2YzJsMGFXOXVTU0pCYVc1c2FXNWxPeUJtYVd4bGJtRnRaVDBpY3pJdE1USTRNQzVxY0djaU95Qm1hV3hsYm1GdFpTbzlWVlJHTFRnbkozTXlMVEV5T0RBdWFuQm5CanNHVkRvUlkyOXVkR1Z1ZEY5MGVYQmxTU0lQYVcxaFoyVXZhbkJsWndZN0JsUTZFWE5sY25acFkyVmZibUZ0WlRvS2JHOWpZV3c9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2tleSJ9fQ==--e51e51e1b690265b9363eb37511e63cd650d1e54/s2-1280.jpg);
+    --moon-mask: linear-gradient(45deg, transparent 10%, white 70%);
+    --line-width: 1px;
+    --circle-size: calc(var(--base-header-height) *.75 * .1);
+    --circle-width: 2px;
+    --location-x: calc((100vw - var(--base-header-height) *.75 - var(--title-size) *8.5 - var(--base-header-height) *.125)/2  + var(--base-header-height) *.75 * 0.5);
+    --hor-line-length: calc((100vw - var(--base-header-height) *.75 - var(--title-size) *8.5 - var(--base-header-height) *.125)/2 - var(--title-size)/4 - var(--line-width)/2 + var(--base-header-height) *.75 + var(--base-header-height) *.125 + 1rem);
+    --location-y: calc(var(--lumina-header-top-gap) + var(--lumina-top-bar-height) + var(--base-header-height)* .75 / 2 + 1rem);
+    --ver-line-length: 100%;
+
+}
+
+#header h1 a::before {
+    clip-path: circle(calc(var(--base-header-height) *.375));
+    -webkit-mask-image: var(--moon-mask);
+    mask-image: var(--moon-mask);
+}
+
+#header h1 a { position: relative;}
+
+#header h1 a span {
+    width: calc(var(--title-size) *8.5);
+}
+
+#header:before, #header:after, #header h1:before, #header h1:after, #header h1 a:after {
+    content: "";
+    visibility: visible !important;
+    z-index: 1;
+    background: #fff;
+    position: absolute;
+}
+
+#header h1 a:after {
+    height: var(--circle-size);
+    width: var(--circle-size);
+    top: calc (50% - var(--circle-size)/2);
+    left: calc(var(--location-x) - var(--circle-size)/2 - var(--circle-width) );
+    border: var(--circle-width) #fff solid;
+    border-radius: 50%;
+    background: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 2 2'%3E%3Ccircle style='' cx='1' cy='1' r='1' fill='%23fff'/%3E%3C/svg%3E") no-repeat center;
+    background-size: calc(var(--circle-size)/2.5);
+    mask-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 300 300'%3E%3Cpath transform='translate(50 50) rotate(90 100 100)' d='m100 100m-75 0a75 75 0 1 0 150 0 75 75 0 1 0-150 0' fill='none' stroke='%23000' stroke-dasharray='0 600 600 0' stroke-width='150'%3E%3Canimate fill='freeze' attributeName='stroke-dashoffset' attributeType='XML' dur='1s' from='0' repeatCount='1' to='600' begin='2s'/%3E%3C/path%3E%3C/svg%3E");
+}
+
+
+#header {
+    position: relative;
+    top: 0;
+}
+
+#header h1:before {
+    clip-path: polygon(50% 0, 0 100%, 100% 100%);
+    top: calc(var(--ver-line-length) - 1px);
+    left: calc(var(--location-x) - var(--circle-size)/2.5 /2);
+}
+
+#header h1:after {
+    clip-path: polygon(0 50%, 100% 100%, 100% 0);
+    top: calc(var(--location-y)  - var(--circle-size) /2.5 /2);
+    left: calc(var(--hor-line-length) - var(--circle-size) / 2.5);
+}
+
+#header h1:before, #header h1:after  {
+    height: calc(var(--circle-size) / 2.5);
+    width: calc(var(--circle-size) / 2.5);
+}
+
+#header:before {
+    /*height: var(--ver-line-length);*/
+    width: var(--line-width);
+    left: calc(var(--location-x) - var(--line-width) /2);
+    animation: 1s ease 1.8s forwards ver-line-load-in;
+}
+
+#header:after {
+    height: var(--line-width);
+    /*width: var(--hor-line-length);*/
+    top: calc(var(--location-y) - var(--line-width) / 2);
+    animation: 1s ease 0.8s forwards hor-line-load-in;
+}
+
+@media only screen and (max-width: 1024px) {
+:root {--ver-line-length: calc(100% - var(--lumina-top-bar-height));}
+}
+
+@media only screen and (max-width: 816px) {
+
+:root {
+    --location-x: 50%;
+    --hor-line-length: 100%;
+    --ver-line-length: calc(var(--lumina-header-top-gap) + var(--lumina-top-bar-height) + var(--base-header-height) *.75 + 2rem)
+}
+
+#header h1 a::after {
+    top: calc(var(--base-header-height) *.75 /2 + 1rem - var(--circle-size) / 2 - var(--circle-width) );
+}
+
+#header h1 a span { padding-top: calc(var(--circle-size)/2.5/2); }
+
+}
+
+@keyframes ver-line-load-in{
+from { height: 0%; }
+to { height: var(--ver-line-length);}
+}
+
+@keyframes hor-line-load-in{
+from { width: 0%; }
+to { width: var(--hor-line-length);}
+}
+
+@keyframes conic-effect {
+100% {--angle: 360deg;}
+}
+
+[[/module]]
