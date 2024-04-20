@@ -422,7 +422,7 @@ These great cities were held together only by the power of their Benefactors —
 
 不行。外面超他媽冷。
 
-愛德立刻回頭。
+愛德立刻顫抖著回頭。
 
 至少現在算是清醒起來了，再休息一下看來就能繼續再戰。
 
@@ -467,7 +467,7 @@ These great cities were held together only by the power of their Benefactors —
 您舉手按著白桂冠上的獸耳，嘗試重新適應您所排斥的聲線，等待著傳譯的聲音再次出現。
 
 [[div class="paper"]]
-亨利．約翰．史密斯．格拉斯[[span style="opacity:0.5;"]]（＝SCP-8008-B）[[/span]]一直都想用魔法。在他還是孤兒的時候，他被[[span class="ruby"]]//Erudite Nox//[[span class="rt" style="filter: blur(2px);"]]學識之夜[[/span]][[/span]]的修女們發現了。學識之夜是護祐著[[span class="ruby"]]Metegian[[span class="rt" style="filter: blur(2px);"]]美泰治安[[/span]][[/span]]王國的女神[[span class="ruby"]]伊南娜—蓋亞—瑪麗[[span class="rt"]]Inanna-Gaea-Mary[[/span]][[/span]]最為原初而傳統的面相。 
+亨利．約翰．史密斯．格拉斯[[span style="opacity:0.5;"]]（＝SCP-8008-B）[[/span]]一直都想用魔法。在他還是孤兒的時候，他被[[span class="ruby"]]//Erudite Nox//[[span class="rt" style="filter: blur(2px);"]]學識之夜[[/span]][[/span]]的修女們發現了。Erudite Nox是護祐著[[span class="ruby"]]Metegian[[span class="rt" style="filter: blur(2px);"]]美泰治安[[/span]][[/span]]王國的女神[[span class="ruby"]]伊南娜—蓋亞—瑪麗[[span class="rt"]]Inanna-Gaea-Mary[[/span]][[/span]]最為原初而傳統的面相。 
 [[/div]]
 [[div class="blockquote"]]
 * //Erudite——英語形容詞及名詞「學識淵博者」，拉丁語副詞「有學問地」、分詞「受教育者」呼格陽性單數形、動詞「教授」第二人稱複數現在主動命令形。//

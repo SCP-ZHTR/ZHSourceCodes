@@ -57,8 +57,10 @@
 
 [[/tab]]
 [[tab 研究項目]]
-[[module ListPages category="*" created_by="grizzlybr" order="created_at_desc" separate="no" ]]
-||%%title_linked%%||**%%created_at%%**||%%rating%%||
-[[/module]]
+
+||~ 項目編號||~ 項目等級||
+||[[[scp-zh-157|SCP-ZH-157]]]||##green|SAFE##||
+||[[[scp-zh-188|SCP-ZH-188]]]||##orange|EUCLID##||
+||[[[scp-zh-116|SCP-ZH-116]]]||##green|SAFE##||
 [[/tab]]
 [[/tabview]]
