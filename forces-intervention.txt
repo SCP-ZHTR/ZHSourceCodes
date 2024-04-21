@@ -1,0 +1,244 @@
+[[include info:start]]
+**繁體中文譯本由英語譯本（Int）二次翻譯而來，以下為翻譯資訊：**
+**譯稿：** [[[http://scp-int.wikidot.com/forces-intervention|此處]]]
+**第一譯者（Int/EN）：** [[*user Pheidippides262]]
+**第二譯者（ZH-TR）：**[[*user CSZ87p]]
+----
+**以下為原著資訊：**
+**原文：**[http://fondationscp.wikidot.com/forces-intervention 機動特遣隊-FR]
+**原作者：**[[*user Dr Benji]]**（信息來源取自Int譯者）**
+[[include info:end]]
+
+[[div class="content-panel standalone series" style="background: url(/local--files/la-fondazione-scp/bg-marble.png) repeat;"]]
+[[div style="font-size: 250%; font-weight: bold; margin: 2px 0 5px;"]]
+[[=]]
+{{法文分部機動特遣隊}}
+[[/=]]
+----
+[[/div]]
+[[# toc]]
+> [[collapsible show="展開目錄" hide="摺叠" folded="no"]]
+> = **Table of Contents**
+> @@  @@[#alpha-113 MTF Alpha-113 「巨人殺手」]
+> @@  @@[#gamma-18 MTF Gamma-18 「999個疑難雜題」]
+> @@  @@[#delta-0 MTF Delta-0 「黑衣人」]
+> @@  @@[#delta-3 MTF Delta-3 「龍之隊」]
+> @@  @@[#delta-4 MTF Delta-4 「狩獵時光！」]
+> @@  @@[#mu-12 MTF Mu-12 「翻箱倒櫃手」]
+> @@  @@[#sigma-11 MTF Sigma-11 「太空瘋子」]
+> @@  @@[#phi-16 MTF Phi-16 「破罐子」]
+> @@  @@[#omega-5 MTF Oméga-5 「珠寶商」]
+> [[/collapsible]]
+[[/div]]
+
+
+
+@@@@
+[[=]]
++* 法文分部機動特遣隊列表
+[[/=]]
+@@@@
+
+[[# alpha-113]]
+[[div class="content-panel standalone series" style="background-color: #FFFFFF;"]]
+[[=]]
++ MTF Alpha-113
+++ 「巨人殺手」
+[[image http://fondationscp.wdfiles.com/local--resized-images/forces-intervention/alpha-113.png/small.jpg]]
+[[/=]]
+
+**機動特遣隊任務：**一個專精於追蹤及控制巨型SCP項目的機動特遣隊。該機動特遣隊似乎僅由一名外勤特工組成，並且似乎只被派遣過一次。
+
+**協助收容的項目：**
+* [數據刪除]
+
+**行動報告：**
+* [[[incident-219-fr|事件記錄219-FR]]]
+[[/div]]
+
+
+[[# gamma-18]]
+[[div class="content-panel standalone series" style="background-color: #FFFFFF;"]]
+[[=]]
++ MTF Gamma-18
+++ 「999個疑難雜題」
+[[image http://fondationscp.wdfiles.com/local--resized-images/forces-intervention/gamma-18.png/small.jpg]]
+[[/=]]
+
+**機動特遣隊任務：**一個組成及目的未知的機動特遣隊。儘管該機動特遣隊的名字出現在基金會數據庫的某些檔案當中，但其似乎是一種實驗性的機動特遣隊，並且派遣次數很少，甚至可能從未被派遣過。
+
+**協助收容的項目：**
+* [數據刪除]
+
+**行動報告：**
+* [[[incident-219-fr|事件記錄219-FR]]]
+[[/div]]
+
+
+
+[[# delta-0]]
+[[div class="content-panel standalone series" style="background-color: #FFFFFF;"]]
+[[=]]
++ MTF Delta-0
+++ 「黑衣人」
+[[image http://fondationscp.wdfiles.com/local--resized-images/forces-intervention/delta-0.png/small.jpg]]
+[[/=]]
+
+**機動特遣隊任務：**一個龐大且組織完善的機動特遣隊。當虛假消息對掩飾行動無效或開始被民眾懷疑時，此特遣隊將會派出潛伏特工，並以消除可能暴露SCP項目的任何證據作為目標。目前，它是被授權使用忽怠協議的極少數機動特遣隊之一。
+
+**協助收容的項目：**
+* [[[SCP-089-FR]]]
+* [[[SCP-096-FR]]]
+* [[[SCP-204-FR]]]
+* [[[SCP-327-FR]]]
+
+
+**行動報告：**
+* [數據刪除]
+* 
+[[/div]]
+
+
+[[# delta-3]]
+[[div class="content-panel standalone series" style="background-color: #FFFFFF;"]]
+[[=]]
++ MTF Delta-3
+++ 「龍之隊」
+[[image http://fondationscp.wdfiles.com/local--resized-images/forces-intervention/delta-3v2.png/small.jpg]]
+[[/=]]
+
+**機動特遣隊任務：**該機動特遣隊由具備軍事或準軍事訓練的特工組成，並作爲情報機構的主要武裝力量。該機動特遣隊由情報機構的指揮官管轄，主要專注於無效化工作、支援其他單位或進行外勤偵察。當發現新的異常威脅時，無論其是否與其他單位同行，該機動特遣隊都將負責該異常的無效化工作。
+
+由於此機動特遣隊總是乘坐飛行載具，其隊名及徽章故由此而來。
+
+**協助收容的項目：**
+* [[[SCP-023-FR]]]
+* [[[SCP-056-FR]]]
+* [[[SCP-182-FR]]]
+* [[[SCP-290-FR]]]
+
+
+**行動報告：**
+* [[[incident-delta-3-08-08-10| 事件記錄Delta-3 - 08/08/10]]]
+* [[[les-dernieres-flammes-des-dragons| 龍之終焰]]]
+[[/div]]
+
+
+[[# delta-4]]
+[[div class="content-panel standalone series" style="background-color: #FFFFFF;"]]
+[[=]]
++ MTF Delta-4
+++ 「狩獵時光！」
+[[image http://fondationscp.wdfiles.com/local--resized-images/forces-intervention/delta-4v2.png/small.jpg]]
+[[/=]]
+
+**機動特遣隊任務：**一個專精於追蹤、收容及無效化掠食性SCP項目的機動特遣隊。該機動特遣隊大多由前軍事人員組成，並對動物習性方面有豐富的知識，也擅長各種不同的追蹤方案。
+
+**協助收容的項目：**
+* [[[SCP-025-FR]]]
+* [[[SCP-062-FR]]]
+* [[[SCP-111-FR]]]
+* [[[SCP-181-FR]]]
+
+
+**行動報告：**
+* [[[sauver-sa-peau| 救救你的皮膚]]]
+[[/div]]
+
+
+[[# mu-12]]
+[[div class="content-panel standalone series" style="background-color: #FFFFFF;"]]
+[[=]]
++ MTF Mu-12
+++ 「翻箱倒櫃手」
+[[image http://fondationscp.wdfiles.com/local--resized-images/forces-intervention/mu-12.png/small.jpg]]
+[[/=]]
+
+**機動特遣隊任務：**一個由12名特工組成的小型機動特遣隊：他們皆專精滲透，並且各自為不同研究領域的專家，例如：法庭科學和彈道學。該機動特遣隊經常被派遣至異常事件的發生地，並負責確認發生原因。該機動特遣隊在執行任務期間，以不留下任何在場痕跡而聞名。
+
+**協助收容的項目：**
+* [[[SCP-109-FR]]]
+* [[[SCP-391-FR]]]
+* [[[SCP-587-FR]]]
+
+
+**行動報告：**
+* [數據刪除]
+[[/div]]
+
+
+[[# sigma-11]]
+[[div class="content-panel standalone series" style="background-color: #FFFFFF;"]]
+[[=]]
++ MTF Sigma-11
+++ 「太空瘋子」
+[[image http://fondationscp.wdfiles.com/local--resized-images/forces-intervention/sigma-11.png/small.jpg]]
+[[/=]]
+
+**機動特遣隊任務：**一個負責將物資、糧食和人員運送至Site-Ayin，以及擔任該站點維安工作的機動特遣隊。該機動特遣隊由專門接受過太空環境訓練的前軍事人員組成。
+
+**協助收容的項目：**
+* [[[SCP-086-FR]]]
+* [[[SCP-183-FR]]]
+* [[[SCP-341-FR]]]
+
+
+**行動報告：**
+* [數據刪除]
+[[/div]]
+
+
+
+[[# phi-16]]
+[[div class="content-panel standalone series" style="background-color: #FFFFFF;"]]
+[[=]]
++ MTF Phi-16
+++ 「破罐子」
+[[image http://fondationscp.wdfiles.com/local--resized-images/forces-intervention/phi-16.png/small.jpg]]
+[[/=]]
+
+**機動特遣隊任務：**當一個異常未被收容，或是認定為無法收容，甚至收容條件存在巨量的隨機變數：MTF Phi-16都將負責為此類異常造成的問題善後。該機動特遣隊的任務就包括向當地民眾散播虛假消息、修復物質損失，並在可能的情況下嘗試收容該類異常。
+
+**協助收容的項目：**
+* [[[SCP-334-FR]]]
+* [[[SCP-340-FR]]]
+* [[[SCP-347-FR]]]
+* [[[SCP-355-FR]]]
+* [[[SCP-471-FR]]]
+* [[[SCP-590-FR]]]
+
+
+**行動報告：**
+* [數據刪除]
+[[/div]]
+
+
+
+[[# omega-5]]
+[[div class="content-panel standalone series" style="background-color: #FFFFFF;"]]
+[[=]]
++ [[[fim-omega-5|MTF Omega-5]]]
+++ [[[fim-omega-5|「珠寶商」]]]
+[[image http://fondationscp.wdfiles.com/local--resized-images/forces-intervention/omega-52.png/small.jpg]]
+[[/=]]
+
+**機動特遣隊任務：**一個專門致力於打擊恐怖組織「藍寶石」的機動特遣隊。特工成員都專門接受過心理學及神學方面的訓練，這當中也包括在危險情況下談判的技巧。基本上所有成員都來自於各式不同的宗教，並且通過了心理測驗，確保他們沒有患上「菲爾布森症候群」的風險。
+
+**協助收容的項目：**
+* [[[SCP-236-FR]]]
+* [[[SCP-281-FR]]]
+* [[[SCP-353-FR]]]
+* [[[scp-3859|SCP-3859]]]
+* [[[SCP-538-FR]]]
+
+
+**行動報告：**
+* [[[philosophie-de-la-torture|酷刑的哲學]]]
+* [[[humanoids-park|類人形生物公園]]]
+[[/div]]
+
+[[include :scp-zh-tr:component:license-box
+|author=Dr Benji
+|translator=CSZ87p
+]]
+[[include :scp-zh-tr:component:license-box-end]]
