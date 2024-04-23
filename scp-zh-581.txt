@@ -1,0 +1,425 @@
+[[include :scp-zh-tr:component:scp-meta-title-hiding]]
+[[include :scp-wiki:theme:flopstyle]]
+[[include :scp-wiki:theme:pataphysics]]
+[[include :scp-wiki:component:toggle-sidebar]]
+
+[[module CSS]]
+/* MAKING 'PATAPHYSICS THEME LOOK LIKE AD ABYSSUM */
+@import url('https://fonts.googleapis.com/css2?family=Martel:wght@900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@300;400;500;600;700&display=swap');
+
+/* HEADER */
+
+div#container-wrap{
+    background: url(http://scpdsandbox.wdfiles.com/local--files/darkartists-faith-flower/tact-theo-header.png) top left repeat-x !important;
+}
+
+#header #header-extra-div-1::before{
+    background-image: url("http://scpdsandbox.wdfiles.com/local--files/darkartists-faith-flower/tact-theo-logo.png");
+}
+
+#header h1 a::before{
+    content: "戰 術 神 學 部";
+    font-family: 'Martel', serif;
+}
+
+#header h2 span::before{
+    content: "彼 將 發 明 全 新 神 意";
+    font-family: 'Martel', serif;
+}
+
+/* SIDEBAR */
+ 
+#side-bar a,
+#side-bar a:visited,
+#side-bar .collapsible-block-unfolded-link .collapsible-block-link,
+#side-bar .collapsible-block-unfolded-link .collapsible-block-link:hover {
+    color: #952b00;
+    text-shadow: 0em 0em 0.125em #fff
+}
+ 
+#side-bar .heading {
+    color: #591900;
+}
+ 
+#side-bar .side-block {
+    border: 3px solid #591900;
+    box-shadow: 0 0.125em 0.375em #591900;
+}
+ 
+/* Media Block */
+ 
+#side-bar .side-block.media {
+    background-color: #fff3ed;
+    background-image: url("https://scp-wiki.wdfiles.com/local--files/theme%3Aad-abyssum/tacttheo_sidebar_small_compressed.png");
+    background-position-y: -3em;
+    background-size: 100%;
+}
+ 
+/* Resources Block */
+ 
+#side-bar .side-block.resources {
+    background-color: #fff3ed;
+    background-image: url("https://scp-wiki.wdfiles.com/local--files/theme%3Aad-abyssum/tacttheo_sidebar_small_compressed.png");
+    background-position-y: -11.6em;
+    background-size: 100%;
+}
+ 
+/* Main Side Blocks */
+ 
+#side-bar .side-block {
+    background-color: #fff3ed;
+    background-image: url("https://scp-wiki.wdfiles.com/local--files/theme%3Aad-abyssum/tacttheo_sidebar_compressed.png");
+    background-size: 100%;
+}
+ 
+/* Interwiki Block */
+ 
+#interwiki .side-block {
+    background-color: #fff3ed;
+    background-image: url("https://scp-wiki.wdfiles.com/local--files/theme%3Aad-abyssum/tacttheo_sidebar_compressed.png");
+    background-position: bottom;
+    background-size: 100%;
+}
+ 
+#interwiki .side-block .menu-item a {
+    color: #952b00;
+}
+
+/* SEARCH BOX */
+
+#search-top-box-input:hover,
+#search-top-box-input:focus,
+#search-top-box-form input[type="submit"],
+#search-top-box-form input[type="submit"]:hover,
+#search-top-box-form input[type="submit"]:focus,
+#search-top-box-input{
+    background-color: #591900;
+    border: solid 1px #591900;
+    color: #ededed;
+}
+
+/* RATING */
+
+.page-rate-widget-box {
+     border: 0px solid #591900 !important;
+     background-color: #591900;
+}
+ 
+.page-rate-widget-box .rate-points {
+    background-color: #591900 !important;
+    color: #ededed !important;
+}
+ 
+.page-rate-widget-box .rateup,
+.page-rate-widget-box .ratedown {
+    background-color: #591900;
+}
+ 
+.page-rate-widget-box .rateup a,
+.page-rate-widget-box .ratedown a {
+    color: #ededed;
+}
+ 
+.page-rate-widget-box .rateup a:hover,
+.page-rate-widget-box .ratedown a:hover {
+    background: #ededed;
+    color: #591900;
+}
+ 
+.page-rate-widget-box .cancel {
+    background-color: #591900;
+}
+ 
+.page-rate-widget-box .cancel a {
+    color: #ededed;
+}
+ 
+.page-rate-widget-box .cancel a:hover {
+    background: #ededed;
+    color: #591900;
+}
+
+/* GENERAL */
+
+h1,
+.meta-title{
+    color: #591900;
+    font-family: 'Martel', serif;
+}
+
+#page-title {display: none;}
+
+a,
+a.newpage,
+a.footnoteref,
+#side-bar a:visited,
+a.footnoteref:before {
+    color: #bb2c00;
+}
+
+a:hover,
+a:visited:hover {
+    color: #591900;
+}
+
+a:visited {
+    color: #591900;
+}
+
+.terminal {
+    border: 3px solid black;
+    padding: 3px;
+    background-color: black;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.5);
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
+    width: 95%;
+    font-family: 'Fira Code', monospace;
+}
+
+.terminal hr {border-bottom: 1px solid white; border-top: 1px solid white;}
+.terminal .blockquote {background-color: #1D1D1D; border: 1px solid #1D1D1D; box-shadow: 0px 0px 5px #0E0E0E;}
+.terminal .hover {color: #b7b6e9;}
+.terminal .hover:hover {background-color: #b7b6e9; color: black; text-decoration: underline;}
+.terminal .hover:hover::before {background-color: #b7b6e9; color: black; content:">"; text-decoration: underline;}
+.terminal a {color: #b7b6e9;}
+.terminal a:hover {background-color: #b7b6e9; color: black; text-decoration: underline;}
+.terminal a:hover::before {background-color: #b7b6e9; color: black; content:">"; text-decoration: underline;}
+
+.box {
+    border: 1px solid #1e1e1e;
+    position: relative;
+    padding: 0.5em;
+    margin: 0.5em;
+    box-shadow: 2px 1.5px 1px lightgrey, 0 0 0px 1px lightgrey;
+    overflow-wrap: break-word;
+}
+
+a.collapsible-block-link{
+     font-size: 100%;
+}
+
+.bt {
+    font-weight: bold;
+    color: #591900;
+}
+
+.normal .bt {
+    color: black;
+}
+
+#page-content .wiki-content-table tr th {
+    border: solid 1px #591900;
+    color: white;
+    background-color: #591900;
+}
+
+#page-content .wiki-content-table tr td {
+    background-color: #f2f2f2;
+}
+
+#page-content .wiki-content-table {width: 100%;}
+[[/module]]
+
+[[include info:start]]
+[[=]]
+//我們耗盡了氧氣，最後換來了甚麼？//
+[[/=]]
+----
+**著者：** [[*user edward-knave]]（[[[edward-knave|作者頁面]]]）
+**篇名：** SCP-ZH-581 - 空爆燃燒神論（Thermobarotheism）
+**備註：** 原為繁中分部[[[honglam-battle-2-0|人類紀元12023年紅藍爭霸賽]]]後備投稿，當時賽題為「火」。核心概念為「[https://en.wikipedia.org/wiki/Thermobaric_weapon 空爆燃燒炸彈]」。鳴謝如下：
+* [[*user YONGZUN]]、[[*user Samscript]]：項目起始靈感提供
+* [[*user Semibreve]]：Site-ZH-50主要設定原案
+* [[*user Adev Drafaski]]：戰術化學部設定原案
+* [[*user Chromeblushowo]]：邪偽部門設定原案
+[[include info:end]]
+
+[[include :scp-zh-tr:component:anomaly-class-bar-source
+|item-number= ZH-581
+|clearance= 4
+|container-class= esoteric
+|secondary-class= conscientia-prodest
+|secondary-icon= http://topia.wdfiles.com/local--files/peppo-wowow/daasElyon2.svg
+|disruption-class= ekhi
+|risk-class= 極危
+]]
+----
+**項目編號：** SCP-ZH-581
+
+**項目等級：** Conscientia-prodest
+
+**特殊收容措施：** SCP-ZH-581現已納入基金會的武裝管理架構中，目前由邪偽部門（Department of Heterodoxy）[[footnote]]負責保存當地少數或邊緣信仰習俗，或收容相關異常的部門，尤以不被一般民眾或異常社群接受者為保存及收容的主要對象，透過「備份」該等邊緣儀式或異常的知識，以備不時之需。因為執行儀式的需要，而在基金會保有部分的自主行動權力。須注意其職務範圍視乎**所在地**的主流信仰而決定。[[/footnote]]、戰術神學部、Site-ZH-50指揮部共同管理並控制機密。
+
+使用SCP-ZH-581前須經下述項目負責人全體一致通過授權，負責人現有三名：
+* Sanitäter將軍（Site-ZH-50）
+* Candlelight特工（戰術神學部）
+* Missingberg修女（邪偽部門）
+
+基金會人員在提案使用SCP-ZH-581時，必須向上述負責人書面報備。提案書須一式多份各自呈交予負責人審閱，提案必須包括以下內容：
+* 是次步驟施行的地點、時間、目標
+* 是次提案所使用的消耗材料種類、份量、來源，以及預定準備完成的日期與時間
+* 是次提案所使用的非消耗材料種類及取用來源
+* 參與是次步驟的D級人員資料，包括最近一個月內的精神健康報告，該員必須符合[*https://icd.who.int/browse/2024-01/mms/en#1532500290 ICD-11第六章C70款所述的「縱火狂」診斷標準]
+
+[[div class="blockquote"]]
+= **補充資料：ICD-11第六章C70款「縱火狂」**
+
+縱火狂（Pyromania）又名病理性縱火（Pathological fire-setting），特徵為持續無法控制燃點火燄的強烈衝動，導致多次對財產或其他物體縱火的事件或嘗試，而缺乏一個明顯的動機（例如金錢利益、復仇、破壞、政治表態、吸取注意或認同）。在縱火前，會有強化的緊張或興奮情緒，以及對火燄或近似的刺激（例如觀看火燄燃燒、建築物著火、以及對消防設備有沉迷）有持續的迷戀或執念，並在實行縱火期間或完成當下、見證其效果、或參與其後續效果或響應時，出現快感、興奮、釋放或愉悅感。該行為不能以智能障礙、其他精神與行為障礙、或藥物影響因素更為充分解釋。
+[[/div]]
+
+目前，基金會未能完全確認在基金會以外是否不再存在SCP-ZH-581的資料，至今亦能發現不由基金會引致的SCP-ZH-581的零星個案，鑒於該項目產生的現象極容易為一般民眾及常態社會媒體所見，故以記憶刪除手法隱蔽異常的計劃不可行，而應將主眼置於針對常態社會發佈掩蓋說辭，該項目亦因此歸定為Conscientia分級。另外，因為基金會已經掌握了SCP-ZH-581的應用方式，該項目亦因此在基金會觀點具實用價值，遂兼有prodest子類分級。
+
+基金會已經設置專用網路爬蟲程式「北落師門使徒」，以偵測疑似與SCP-ZH-581或其引發事故有關的言論，並儘快刪去可以連繫到該項目的線索。
+
+在SCP-ZH-581被民間意外觸發的情形下，可以視乎具體情況選擇以下說辭作為掩飾：
+* --新型常規武器測試--（--說辭詳情見附件ZH-581-C0-- 該說辭已不適用）
+* 燃料庫爆炸（說辭詳情見附件ZH-581-C1）
+* 化工廠爆炸（說辭詳情見附件ZH-581-C2）
+* 大規模氣爆事故（說辭詳情見附件ZH-581-C3）
+* 克蘇魯神話信者意外召喚異常實體「克圖格亞（Cthugha）」[[footnote]]克蘇魯神話體系的敵意神性實體，又有「爆燃者（The Burning One）」、「居於火燄者」、「烈燄大君」等稱號。形象為一巨大、高熱的火球或電漿塊，被附會為象徵「火」的舊日支配者。[[/footnote]]（說辭詳情見附件ZH-581-C4）
+
+若確認由異常社群或關注組織觸發的SCP-ZH-581，除依照常態社會關注程度採用說辭掩蔽以外，亦需徹查來源，視乎需要拘捕涉事人等以作訊問，或搗破行動據點。
+
+@@ @@
+
+**描述：** SCP-ZH-581是一種會引發疑似空爆燃燒現象的異常儀式，已知有一尊特定的神性實體為該儀式提供奇蹟術式，以實現該異常現象，但目前未能將之歸定為任何有紀錄的實體。該儀式的完整內容已由基金會戰術神學部與邪偽部門整理，可以分成意念、語音、銘文、姿勢、圖形（非語言銘文）、各種素材的空間排列、消耗性物資、非消耗性物資八種，說明書亦相應分成八章，在邪偽部門的檔案庫以及Site-ZH-11之[僅限三垣議會及RAISA-ZH正副主任親閱]處一式兩份存放。
+
+依照說明書，透過銘文與圖形指定消耗性物資的適用範圍，將劃上銘文與圖形的載體依照指定排列設置，由一個所持意念與說明書所述條件相符的人類（以下稱「施術者」）發出所述語音，並作出所述姿勢，SCP-ZH-581就會使用範圍內的燃料產生異常空爆燃燒現象，此處的「燃料」指任何可以與氧化劑進行放熱氧化還原反應的物件，而不包括施術者自己的身體。
+
+在SCP-ZH-581的儀式完成之後，作為消耗性物資的燃料將會在10秒以內完全揮發並向外擴散，與空氣充分混和，直到可以與所在環境的溫度及氣壓之下同一體積的純氧進行平衡化學反應的體積為止。在氣霧擴散完成之後，隨即引爆，該爆炸放出的能量以及產物皆與所用燃料進行完全燃燒反應後放出的能量與產物相符。
+
+在化學及物理學的層面，SCP-ZH-581造成的空爆燃燒現象與常態的空爆燃燒炸彈有多處顯著差異。
+
+首先，除了存在於大氣層的雙原子氧分子以外，SCP-ZH-581引發的爆炸不會消耗其餘具有氧化性的化學物。即使該等氧化劑在常態的燃燒及爆炸中會被消耗，現場以其他形式存在的氧分子、以及其他氧化性分子皆不會參與SCP-ZH-581的化學反應。如果環境內的雙原子氧分子不足以與儀式指定的燃料進行反應（例如在氣密空間），則環境內所有的雙原子氧分子將會耗盡，燃料當中未能參與化學反應的部分將維持氣霧狀態，爆炸範圍及其放出的能量亦會相應減少。
+
+其次，SCP-ZH-581在生效期間，會對周圍的空氣造成異常的反擴散作用。在SCP-ZH-581的化學反應進行中，環境內的雙原子氧分子會朝向SCP-ZH-581反應的中心移動並參與化學反應，直到SCP-ZH-581所用的燃料完全耗盡為止；與此同時，環境內其他的氣態分子會擴散至氧氣被消耗或吸引的區域，以平衡各處的氣壓。
+
+SCP-ZH-581完成之後，空氣內各種成分相互擴散的速度可見減慢至每公尺數以秒計，即使氣壓勻稱的速度不受影響，卻可見空氣比例勻稱所需的時間遠遠長於推算所得。由此，SCP-ZH-581以爆炸後遺留一個異常持久的缺氧空間為其特徵，所在的氧氣回復勻稱通常需時數以分鐘計。
+
+SCP-ZH-581的施行需要一名施術者直接進入儀式的有效範圍，以付出該儀式的意念、語音及姿勢成分。此人若在儀式完成之後未被SCP-ZH-581殺死，則會完全喪失縱火的欲望，以及一切對「火」的概念引起情緒反應的能力。如果該參與者在儀式開始之前就不具縱火的欲望，則儀式無法成立，故該儀式通常會使用符合「縱火狂」診斷標準者。基金會可以從D級人員穩定徵用符合條件的人員，故可以將SCP-ZH-581納入武裝架構。
+
+經過由戰術化學部（Department of Tactical Chemistry）[[footnote]]在「學科泛戰術化」計劃之下孵育的部門之一，負責使用化學知識或針對化學性異常建立戰術應用或應變措施。現時，戰術化學部於Site-ZH-11設有隸屬於學科泛戰術化部門的辦公室，並在國立成功大學化學系之系所另設辦公崗位。[[/footnote]]副主任劉煒埕博士主管的實驗計劃，SCP-ZH-581的異常特性以及運作機理已被基金會充分掌握，並得出成本最低的標準化啟動方式，由此納入基金會的武裝力量管理架構，主要作為對抗Tiamat、Apollyon、Megiddo等高危害分級項目的最終解決方案應用，或用於阻止全球規模的異常武裝關注組織對常態社會的攻勢。
+
+@@ @@
+
+**附錄——追加調查：** 經過Site-ZH-50工程部門主任Zumwalt上尉的提議，戰術化學部擬使用基金會海空軍提供的標準化學氧生成器（俗稱「氧燭」），針對會生成氧分子的氧化還原反應，展開SCP-ZH-581的後續試驗。
+
+然而，因為所用的反應物自身屬於氧化劑，故項目負責人未有可行依據允許該實驗。負責實驗的人員在前往告知Zumwalt上尉的途中遇見前往Sanitäter將軍辦公室的Zumwalt上尉，該員向實驗人員指出在重新計算之後，發現目前使用的標準化學氧生成器牽涉的化學反應屬於吸熱性，無法符合儀式條件，故亦已準備自行收回試驗提案。預計生成氧分子的化學反應試驗現暫擱置。
+
+此外，基金會從SCP-ZH-581的觀測紀錄發現，所有的觀測紀錄都可見在爆炸形成的衝擊波具有一段共通的聲波特徵，對該特徵轉換至在時間以及頻率皆在人類可聽範圍內後，發現這段聲波屬於某種語言之下的語音。經過戰術聲韻學部特設的人工智慧常備員篩選資料庫，刪去所有[*https://zh.wikipedia.org/zh-tw/%E5%90%8C%E5%BD%A2%E5%BC%82%E4%B9%89%E8%AF%8D 同形異義]的嫌疑過後，發現所得語音相似度最高的語言為[*http://scp-zh-tr.wikidot.com/scp-6013/offset/4 孫薩蘭語]，鑒於相應語言的應用情景狹窄，該語言與該儀式的關聯目前是針對該項目的調查目標之一。破譯訊息如下：
+
+> = **Ith harran istan cera. Ith harran istan oorka. Ith harran istan thurayya.**
+
+[[collapsible show="+ 打開翻譯欄" hide="- 隱藏翻譯欄"]]
+[[div class="blockquote"]]
+= **註：孫薩蘭語使用主—賓—謂語序。該翻譯工具以星號表示建議選項，以橫槓表示不建議選項。其餘資訊因屬[[[SCP-6013|6013.RP級機密]]]而無法在此處存取。**
+[[html]]
+<select>
+<option selected>Ith</option>
+<option>我</option>
+<option>我們</option>
+</select>
+<select>
+<option selected>harran</option>
+<option>腐爛的／骯髒的</option>
+<option>邪惡的</option>
+<option>已死的</option>
+</select>
+<select>
+<option selected>istan</option>
+<option>太陽／月亮</option>
+<option>星星</option>
+<option>**火燄**</option>
+<option>痛楚</option>
+</select>
+<select>
+<option selected>cera</option>
+<option>攻打</option>
+<option>--拳打／腳踢／噬咬--</option>
+<option>對抗／反抗</option>
+</select>。
+[[/html]]
+[[html]]
+<select>
+<option selected>Ith</option>
+<option>我</option>
+<option>我們</option>
+</select>
+<select>
+<option selected>harran</option>
+<option>腐爛的／骯髒的</option>
+<option>邪惡的</option>
+<option>已死的</option>
+</select>
+<select>
+<option selected>istan</option>
+<option>太陽／月亮</option>
+<option>星星</option>
+<option>**火燄**</option>
+<option>痛楚</option>
+</select>
+<select>
+<option selected>oorka</option>
+<option>殺害／殘害</option>
+<option>粉碎／摧毀</option>
+</select>。
+[[/html]]
+[[html]]
+<select>
+<option selected>Ith</option>
+<option>我</option>
+<option>我們</option>
+</select>
+<select>
+<option selected>harran</option>
+<option>腐爛的／骯髒的</option>
+<option>邪惡的</option>
+<option>已死的</option>
+</select>
+<select>
+<option selected>istan</option>
+<option>太陽／月亮</option>
+<option>星星</option>
+<option>**火燄**</option>
+<option>痛楚</option>
+</select>
+<select>
+<option selected>thurayya</option>
+<option>打碎／分解</option>
+<option>分開／使之裂開</option>
+<option>粉碎／瓦解</option>
+<option>--群聚--</option>
+</select>。
+[[/html]]
+[[html]]
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Jura&display=swap" rel="stylesheet">
+        <button id="acksubmit1" type="button">提交</button>
+        <div style="text-align: right; color: #2f8761; font-weight: bolder; font-family: 'Jura', sans-serif;" id="acktext1"></div>
+        <script type="text/javascript" charset="utf-8">
+            var btn = document.getElementById("acksubmit1");
+            var txtDiv = document.getElementById("acktext1");
+            btn.onclick = function () {
+                    txtDiv.innerHTML = "<hr>已承認。<hr>";
+                }
+        </script>
+[[/html]]
+[[/div]]
+[[/collapsible]]
+
+@@ @@
+
+[[footnoteblock]]
+----
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+【SCP-ZH系列一】
+<< [[[SCP-ZH-580]]] | SCP-ZH-581 | [[[SCP-ZH-582]]] >>
+[[/=]]
+[[/div]]
+[[include :scp-zh-tr:component:license-box
+|lang=ZH]]
+[[include :scp-zh-tr:component:license-box-end]]
