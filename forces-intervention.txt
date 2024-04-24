@@ -238,7 +238,11 @@
 [[/div]]
 
 [[include :scp-zh-tr:component:license-box
-|author=Dr Benji
+|author=Mafiew
 |translator=CSZ87p
+|lang=FR
 ]]
+=====
+> **圖像作者：**[[*user Dr Benji]]
+=====
 [[include :scp-zh-tr:component:license-box-end]]
