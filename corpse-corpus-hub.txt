@@ -100,6 +100,48 @@ caption=[http://scp-zh-tr.wikidot.com/scp-3127-jp SCP-3127-JP]|
 width=150px|
 align=center
 ]]
+[[include component:image-block
+name= http://scp-jp-storage.wdfiles.com/local--files/file:4589204-243-lnwg/真桑友梨佳群 |
+caption=[http://scp-zh-tr.wikidot.com/scp-3170-jp SCP-3170-JP]|
+width=150px|
+align=center
+]]
+[[include component:image-block
+name=https://scp-jp-storage.wdfiles.com/local--files/file%3A7450069-258-78t8/ySiXWluY8veKyIq1702489169_1702489183.jpg|
+caption=[http://scp-zh-tr.wikidot.com/scp-3024-jp SCP-3024-JP]|
+width=150px|
+align=center
+]]
+[[include component:image-block
+name=http://scp-jp-storage.wikidot.com/local--files/file:4062604-31-wqm0/%E7%9C%9F%E6%A1%91%E3%82%BB%E3%83%94%E3%82%A2.jpg|
+caption=[http://scp-zh-tr.wikidot.com/scp-3060-jp SCP-3060-JP]|
+width=150px|
+align=center
+]]
+[[include component:image-block
+name=http://scp-jp-storage.wikidot.com/local--files/file:8299414-78-kblv/woods.jpg|
+caption=[http://scp-zh-tr.wikidot.com/scp-7212 SCP-7212-EN]|
+width=150px|
+align=center
+]]
+[[include component:image-block
+name=https://scp-jp-storage.wdfiles.com/local--files/file%3A7450069-263-wi8q/IMG_9763.jpeg|
+caption=[http://scp-zh-tr.wikidot.com/scp-3792-jp SCP-3792-JP]|
+width=150px|
+align=center
+]]
+[[include component:image-block
+name=http://scp-jp-storage.wikidot.com/local--files/file:4062604-32-tbe6/%E5%8D%92%E6%A5%AD%E6%99%82%E6%92%AE%E5%BD%B1%E8%A8%BC%E6%98%8E%E5%86%99%E7%9C%9F.jpg|
+caption=[http://scp-jp.wikidot.com/jiraku-mogana-s-proposal-ii SCP-001-JP]|
+width=150px|
+align=center
+]]
+[[include component:image-block
+name=http://scp-jp-storage.wikidot.com/local--files/file:5384396-122-geuy/SCP-3415-JP|
+caption=[http://scp-zh-tr.wikidot.com/scp-3415-jp SCP-3415-JP]|
+width=150px|
+align=center
+]]
 
 
 [[/div]]
