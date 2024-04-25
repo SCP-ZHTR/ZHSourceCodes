@@ -29,7 +29,7 @@
 [[include fragment:card-slot
 |status= |pre-flipped=
 |author=Stygian Blue - 戀人
-|art= https://wanderers-library.wdfiles.com/local--files/anthology-2023-hub/lovers.png
+|art= https://i.imgur.com/IJgZI3L.png
 |url=http://scp-zh-tr.wikidot.com/wanderers:the-lovers
 ]]
 
