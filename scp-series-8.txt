@@ -460,7 +460,7 @@
 * [[[SCP-7410]]] - [ACCESS DENIED]
 * [[[SCP-7411]]] - [ACCESS DENIED]
 * [[[SCP-7412]]] - [ACCESS DENIED]
-* [[[SCP-7413]]] - [ACCESS DENIED]
+* [[[SCP-7413]]] - 塊莖型連環殺手
 * [[[SCP-7414]]] - [ACCESS DENIED]
 * [[[SCP-7415]]] - [ACCESS DENIED]
 * [[[SCP-7416]]] - [ACCESS DENIED]
@@ -507,7 +507,7 @@
 * [[[SCP-7457]]] - [ACCESS DENIED]
 * [[[SCP-7458]]] - [ACCESS DENIED]
 * [[[SCP-7459]]] - [ACCESS DENIED]
-* [[[SCP-7460]]] - [ACCESS DENIED]
+* [[[SCP-7460]]] - 操偶劇的皇帝 
 * [[[SCP-7461]]] - [ACCESS DENIED]
 * [[[SCP-7462]]] - [ACCESS DENIED]
 * [[[SCP-7463]]] - [ACCESS DENIED]
@@ -598,7 +598,7 @@
 * [[[SCP-7544]]] - [ACCESS DENIED]
 * [[[SCP-7545]]] - [ACCESS DENIED]
 * [[[SCP-7546]]] - [ACCESS DENIED]
-* [[[SCP-7547]]] - [ACCESS DENIED]
+* [[[SCP-7547]]] - 聖杯七
 * [[[SCP-7548]]] - [ACCESS DENIED]
 * [[[SCP-7549]]] - [ACCESS DENIED]
 * [[[SCP-7550]]] - [ACCESS DENIED]
@@ -879,7 +879,7 @@
 * [[[SCP-7813]]] - Tomb of the Shattered
 * [[[SCP-7814]]] - Tell Me About Telekill
 * [[[SCP-7815]]] - Nuclei—osis
-* [[[SCP-7816]]] - Why the Foundation Spent Their Entire Budget on Shark Plushies (or How I Got Assigned to Write About Blåhaj for a Second Time)
+* [[[SCP-7816]]] - 為什麼基金會要把全部的預算砸在鯊鯊毛絨玩偶上（又名我如何被二度派去撰寫有關布羅艾的文）
 * [[[SCP-7817]]] - It's Not About the Weasels
 * [[[SCP-7818]]] - The Promise
 * [[[SCP-7819]]] - 無空
