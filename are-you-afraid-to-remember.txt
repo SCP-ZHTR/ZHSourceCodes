@@ -1,0 +1,86 @@
+[[include :scp-zh-tr:theme:basalt darkmode=a]]
+
+[[module CSS]]
+
+#page-content .wiki-content-table {
+    width: 33%;
+}
+
+.basaltBanner p {
+    line-height: 0px;
+    margin-top: 1rem;
+    margin-bottom: 3rem;
+}
+
+.basaltBanner,
+.basaltIcon {
+    transition-duration: 0.3s;
+    transition-property: transform, box-shadow, filter, background-image;
+    transform: translateZ(0);
+}
+
+.basaltBanner:hover {
+    transform: scale(0.9);
+}
+
+.basaltIcon:hover {
+    transform: scale(1.1);
+    box-shadow: inset 0px 0px 0px 7px rgb(20, 20, 20);
+}
+
+.basaltIcon:hover>div {
+    filter: drop-shadow(0px 0px 5px rgba(0, 0, 0, 0.8));
+}
+
+@media (max-width: 767px) {
+    .themeText {
+     display: none;
+    }
+}
+[[/module]]
+
+[[module css]]
+:root {
+ --title: "記憶汪洋";
+}
+[[/module]]
+
+[[module CSS]]
+.info-container{
+--barColour: #222; — 這是收合條與作者按鈕的顏色
+--linkColour: #FFF; — 這是"i"和作者頁按鈕中的文字的顏色
+}
+[[/module]]
+
+[[=]]
+[[module Rate]]
+[[/=]]
+
+[[include :scp-zh-tr:component:info-ayers
+|page=are-you-afraid-to-remember
+|authorPage=http://scp-zh-tr.wikidot.com/k1s10r0d
+|comments=
+]]
+
+[[image https://imgur.com/S2mO1OZ.png]]
+
+
+
+@@ @@
+
+----
+[[include :scp-zh-tr:component:license-box
+|author=k1s10r0db00ne
+|lang=ZH]]
+=====
+> **檔案名稱：**Idn.duke.edu Soviet propaganda poster 1920s - Achievements of Russia under Communism Что дала крестьянству диктатура пролетариата No known copyright.jpg
+> **圖像作者：**Demyan Bedny
+> **圖像授權協議：**Creative Commons Attribution-Share Alike 4.0 International
+> **圖源連結：** https://commons.wikimedia.org/wiki/File:Idn.duke.edu_Soviet_propaganda_poster_1920s_-_Achievements_of_Russia_under_Communism_%D0%A7%D1%82%D0%BE_%D0%B4%D0%B0%D0%BB%D0%B0_%D0%BA%D1%80%D0%B5%D1%81%D1%82%D1%8C%D1%8F%D0%BD%D1%81%D1%82%D0%B2%D1%83_%D0%B4%D0%B8%D0%BA%D1%82%D0%B0%D1%82%D1%83%D1%80%D0%B0_%D0%BF%D1%80%D0%BE%D0%BB%D0%B5%D1%82%D0%B0%D1%80%D0%B8%D0%B0%D1%82%D0%B0_No_known_copyright.jpg
+
+> **檔案名稱：**Idn.duke.edu Soviet propaganda poster - Against Capitalist Wars Yellow Second International League of Nations Int. Coop. Unknown 1920s Кооперация СССР За единый революционный... No known copyright.jpg
+> **圖像作者：**Unknown
+> **圖像授權協議：**Creative Commons Attribution-Share Alike 4.0 International
+> **圖源連結：**https://commons.wikimedia.org/wiki/File:Idn.duke.edu_Soviet_propaganda_poster_-_Against_Capitalist_Wars_Yellow_Second_International_League_of_Nations_Int._Coop._Unknown_1920s_%D0%9A%D0%BE%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D1%8F_%D0%A1%D0%A1%D0%A1%D0%A0_%D0%97%D0%B0_%D0%B5%D0%B4%D0%B8%D0%BD%D1%8B%D0%B9_%D1%80%D0%B5%D0%B2%D0%BE%D0%BB%D1%8E%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B9..._No_known_copyright.jpg
+=====
+[[include :scp-zh-tr:component:license-box-end]]

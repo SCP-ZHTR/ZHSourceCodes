@@ -23,7 +23,7 @@
 悄悄打開了Kikunai的儲物櫃。
 [[/=]]
 [[/div]]
-@@ @@
+
 [[tabview]]
 [[tab 上層：找到一份文件]]
 [[div class="document"]]
