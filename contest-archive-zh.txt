@@ -19,7 +19,7 @@
 [[/module]]
 [!-- 浮動式目錄結尾 --]
 [[div class="content-panel centered standalone"]]
-++*  [[[*/contest-archive|競賽資料庫]]]|競賽資料庫-ZH|[[[challenge-activities-zh|挑戰活動-ZH]]]
+++*  [[[*/contest-archive|競賽資料庫]]]|競賽資料庫-ZH|[[[http://scp-zh-tr.wikidot.com/forum/c-7476446/|挑戰活動-ZH]]]
 [[/div]]
 
 [[=]]

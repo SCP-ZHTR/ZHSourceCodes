@@ -1,5 +1,5 @@
 [[div class="content-panel centered standalone"]]
-++*  競賽資料庫|[[[*/contest-archive-zh|競賽資料庫-ZH]]]|[[[challenge-activities-zh|挑戰活動-ZH]]]
+++*  競賽資料庫|[[[*/contest-archive-zh|競賽資料庫-ZH]]]|[[[http://scp-zh-tr.wikidot.com/forum/c-7476446/|挑戰活動-ZH]]]
 [[/div]]
 
 [[=]]
