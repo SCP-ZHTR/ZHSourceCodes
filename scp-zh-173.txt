@@ -777,6 +777,9 @@ SCiPNET-AutoMeg.Sys: 正在顯示文件內容......
 以下文件涉及到多個未經公開的敏感資訊，目前已由指定之行政部門（3）聯合封存處理。未持有**##darkred|LEVEL-5/TOP-SECRET##**之權限，或是非**PROJECT-RESURRECTION**之相關人員則禁止查閱其內容。違者將被迫接受包括解職至武力處決在內的嚴懲處分。
 [[/div]]
 
+[[div style="height: 45px;"]]
+[[/div]]
+
 [[div class="itemno"]]
 ++++* SCP-ZH-173 | RESURRECTION
 [[/div]]
