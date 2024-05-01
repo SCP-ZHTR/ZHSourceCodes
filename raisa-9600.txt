@@ -951,7 +951,7 @@ div.creditButtonStandalone>p>a::before, div.rate-box-with-credit-button .creditB
 **物件作者：**R███ A█████
 **物件創建時間：**1925年5月
 **回收日期：**1925年7月
-**回收位置：**蘇格蘭肯辛頓皇家自治市[[footnote]]今肯辛頓和切爾西皇家自治市[[/footnote]]戈爾大道1號
+**回收位置：**英國英格蘭肯辛頓皇家自治市[[footnote]]今肯辛頓和切爾西皇家自治市[[/footnote]]戈爾大道1號
 **備註：**R███ A█████在物件回收前已在事件[已編輯]中罹難。[[/size]]
 [[include :scp-zh-tr:component:blacklight-box-source |inc-section-end= --]]]
 [[div class="old"]]
@@ -1807,8 +1807,7 @@ R███ A█████, 1925.　　　　
 [[div id="u-toc-6"]]
 [[/div]]
 [[div id="u-toc-6n"]]
-[[size 85%]]**檔案編號：**RAISA-9600-8
-**建檔人員：**Alexis Rose
+[[size 85%]]**建檔人員：**Alexis Rose
 **建檔日期：**1971年0月0日
 **物件名稱：**CNSAO回覆的西聯匯款電報
 **物件作者：**[[span class="mess"]][[a href="#u-toc-5"]]Chogyal Namgyal Special Affairs Office[[/a]][[/span]]
@@ -1820,8 +1819,7 @@ R███ A█████, 1925.　　　　
 [[div id="u-toc-5"]]
 [[/div]]
 [[div id="u-toc-5n"]]
-[[size 85%]]**檔案編號：**RAISA-9600-8
-**建檔人員：**Alexis Rose
+[[size 85%]]**建檔人員：**Alexis Rose
 **建檔日期：**1971年0月0日
 **物件名稱：**CNSAO回覆的西聯匯款電報
 **物件作者：**[[span class="mess"]][[a href="#u-toc-6"]]CNSAO[[/a]][[/span]]
