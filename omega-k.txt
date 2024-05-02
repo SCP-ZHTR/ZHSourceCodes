@@ -557,7 +557,7 @@ Ardal Rogers把手搭在Joyce的肩膀上。「很抱歉您必須經歷這些，
 [[include component:earthworm
   first=false | last=false | hub=yes |
   previous-url=/scp-3984 | previous-title=SCP-3984 |
-  next-url=/surgical-identity-perpetuation | next-title=SURGICAL IDENTITY PERPETUATION |
+  next-url=/surgical-identity-perpetuation | next-title=身分恆定手術 |
   hub-url=/end-of-death-hub | hub-title=死亡終了 |
 ]]
 
