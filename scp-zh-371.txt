@@ -1,7 +1,7 @@
 [[include component:scp-meta-title-hiding css-style=classic]]
 [[include info:start]]
 作者：[[*user adev drafaski]]
-篇名：咖哩>:(
+篇名：SCP-ZH-371 - 咖哩>:(
 ----
 感謝[[*user Dr V Valentine]]、[[*user helloahuman]]、[[*user Kikunai]]、[[*user Tostren]]以及[[*user vomiter]]的幫助。
 
