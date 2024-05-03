@@ -1,0 +1,770 @@
+[[include :scp-zh-tr:theme:black-highlighter-theme]]
+[[include :scp-wiki:theme:old-money-theme]]
+[[include :scp-zh-tr:component:toggle-sidebar-bhl]]
+[[include :scp-zh-tr:component:centered-header-bhl]]
+[[include fragment:antho23-css]]
+ 
+[[module CSS]]
+#page-title { display: none; }
+[[/module]]
+
+[[module css]]
+:root:lang(zh) {
+    --logo-image: url(https://i.imgur.com/7BWtgm3.png);
+    --header-title: "亡走塵寰";
+
+}
+
+body {
+    background-image: url(https://i.imgur.com/jRULt4J.png);
+    background-repeat: initial;
+    background-size: calc(7.25rem + 3.75vw);
+    background-position: center;
+}
+#extrac-div-1 {
+    background-image: url(https://i.imgur.com/QSUDwiu.jpg);
+}
+}
+.tarot-card .content { transform: rotateY( 180deg ); }
+.tarot-card::after {
+    content: "";
+    display: block;
+    background: url(https://i.imgur.com/oz1HIjP.jpg) center no-repeat;
+    background-size: cover;
+    background-color: rgb(var(--dark-gray-monochrome));
+    border: solid 0.1rem rgb(255 254 255 / 85%);
+}
+}
+}
+[[/module]]
+
++++ 「那一天，神祇逃入了人世間。」
+
+無論身處何方，身份名牌刷過電子門時顯示的是哪個站點，你們毫無疑問都是某個領域的專家，而現在，你們被齊聚在一間不算大的會議空間裡。
+
+桌案上寥寥數張的文件告訴了你們，有一個極端邪惡且強大的神性實體正在復甦，你們是拯救人類於水火之間的最後防線；接下來，你們將在這個受到保護的空間裡解開六道謎題，使收容儀式能夠遂行，完成你的使命......。
+
+一切似乎只不過是又一次尋常的工作日，開工吧。
+@@ @@
+@@ @@
+[[tabview]]
+[[tab 題目卡牌]]
+[[div class="fortune-container"]]
+
+[[include fragment:card-slot
+|status= |pre-flipped=
+|author=「第一使命」
+|art= https://i.imgur.com/8HrtfET.jpg
+|url=
+]]
+> +++ 「第一使命」
+> 你不善於此。
+> @@ @@
+> 你正在埋怨基金會的設施蓋得過度膨脹，埋怨平時沒怎麼保持身體強健。
+> @@ @@
+> 一段衝刺、二級權限、門扉開了又關又開。
+> @@ @@
+> 一次跨步、兩階樓梯、上樓後喘了三口氣，接上後悔。
+> @@ @@
+> 永無止盡的追趕迎來了盡頭，
+> 而每個人的頭骨都保持笑容。
+> @@ @@
+> @@ @@
+> （著重描寫「控制」或是「收容突破」。）
+[[include fragment:card-slot
+|status= |pre-flipped=
+|author=「好事者」
+|art= https://i.imgur.com/kDetKJd.jpg
+|url=
+]]
+> +++ 「好事者」
+> 你是一個人工智能，替人類娛樂，好讓他們不在這方面浪費太多時間。
+> @@ @@
+> 高效取代書面的能力造就了無數的紙筆紛飛，人們在無知與愚知之間載浮載沉；
+> 正如維多利亞時代從未意識到真正的戰場在何處，
+> 你並沒有取代藝術家的工作，只是將所有人捲入了認知的洪流。
+> @@ @@
+> 直到二進制的雄辯勝過事實，系統化的巧舌駁倒真理。
+> @@ @@
+> 年份仍在前進，但你完成了一次整體的倒退。
+> 歡迎來到讚譽一文不值的時代。
+> @@ @@
+> （著重描寫「人工智慧」，包括Aic。）
+[[include fragment:card-slot
+|status= |pre-flipped=
+|author=「共和國士兵」
+|art= https://i.imgur.com/fGxFzur.jpg
+|url=
+]]
+> +++ 「共和國士兵」
+> 你浴血、棲身於絞肉機般的前線，集權的戰爭巨獸向你與弟兄們肩頭咬下的每一口，
+> 皆昭示著上下議院曠日持久的爭執。
+> @@ @@
+> 你的任務是在下一次決策之前頂著炮火，堅持到下一道命令的下達，
+> 你或許無緣見到那些辯論後的結果，或許再也無緣家鄉，因為你站在這裡。
+> @@ @@
+> @@ @@
+> 為了自由，為了民主，為了家園。
+> @@ @@
+> @@ @@
+> @@ @@
+> （著重描寫「軍事」或「特遣隊」。）
+[[include fragment:card-slot
+|status= |pre-flipped=
+|author=「仲裁者」
+|art=https://i.imgur.com/TRsfLVU.jpg
+|url=
+]]
+> +++ 「仲裁者」
+> 你用開庭求助鈴的響聲玩起了B-BOX。
+> 含冤而述的伶人指控未經同意就誕下她自己的惡黨（中略500字）；
+> 這些供詞、詭辯、旁敲側擊、牽強附會，你不會拒絕，你全盤收下，因為你根本不在乎。
+> @@ @@
+> 你也算是賞罰分明，前者用腳小指重擊桌腳，後者兩腳都踢，但可以緩刑。
+> @@ @@
+> 已知邏輯皆是戲碼，又所謂清醒皆同酣眠。
+> @@ @@
+> 求存在的總和。
+> @@ @@
+> @@ @@
+> （著重描寫「法律」或「腐敗」。）
+[[include fragment:card-slot
+|status= |pre-flipped=
+|author=「人之流」
+|art=https://i.imgur.com/vM7k6lQ.jpg
+|url=
+]]
+> +++ 「人之流」
+> 你是你，你在靜待一個時機。
+> 你就像是那個被神所允諾的夢想家，被應許了財富之後便一路窮到老死，
+> 而祂就這樣看著你把機會這詞後面那個字給抹掉。
+> @@ @@
+> 一直是這樣。
+> 生的後面是死，人的上面是神，盡頭的前面是開頭。
+> @@ @@
+> 誰在乎過程？
+> @@ @@
+> @@ @@
+> @@ @@
+> （著重描寫「機率性」或是「命運」。）
+[[include fragment:card-slot
+|status= |pre-flipped=
+|author=「白磷時代」
+|art= https://i.imgur.com/McFGLWx.jpg
+|url=
+]]
+> +++ 「白磷時代」
+> 你是明年的你。
+> @@ @@
+> 我們的藝術譜寫著五位數的曆法、橫越銀河的航線、
+> 如夢似幻的絕望，然後被潮水般的廉價品淹沒。
+> 種族的過往將永垂不朽，正如他們向未來邁出的步伐：
+> 時而步履蹣跚、時而折返，有時也像上個世紀，偷搭便車。
+> 現在？發出一聲難聽的哀鳴後被棄於路旁。
+> @@ @@
+> 前一天用紙筆尺規算出行星位置的人，隔天吊在勞工用血肉砌成的霓虹燈管上，
+> 他的夢裡能不能聽見火箭的轟鳴？
+> 在那邊的世界，又能否見到那蒼鬱的天空？
+> @@ @@
+> 我們只剩焦黑的骨骸，時代，停下來了。
+> @@ @@
+> （著重描寫「化學」或「資本」）
+> [[/div]]
+[[/tab]]
+
+[[tab 效果卡牌]]
++ 效果卡牌
+每一名參賽者皆可抽取三張效果卡牌，並且從中擇一使用。
+
+效果卡牌可以被交換的，抽取將於報名截止之後於官方Discord伺服器的[https://discord.com/channels/538768424961179649/819899754510942238/1235930307484713041 競賽專用討論串]進行。
+
+----
+> + 一般效果卡牌（+1）
+> 所有人都會被發到的一張卡牌，外表表現出洗完晾乾衣服後口袋深處的一些黑輪形狀紙團，直到你發現那原本是張鈔票。
+
+**“沒有背叛小得能夠原諒”**
+文章中提及或標籤為**“渾沌反叛軍”**，並且提及任何機動特遣隊。
+
+**“沒有犧牲大得無法接受”**
+文章中提及了基金會或人類社會受到重創的實際情況，並提及**“倫理道德委員會”**。
+
+**“天空和宇宙是一體的”**
+文章中提及或標籤為**“太空”**或**“星際”**。
+
+**“腦袋皮納塔”**
+文章中提及或標籤為**“欲肉教”**或**“血肉”**。
+
+**“謹記同一律”**
+文章以實際或表面上看起來正經的基金會檔案寫法創作，並且標籤中帶有**“超現實部”**。
+
+**“不是更多顆，也不只是一顆”**
+文章中詳細提及或標籤出現**“眼睛”**。
+
+**“環風暴洋”**
+文章中提及或標籤為**“月球”**。
+
+**“超維之智”**
+文章中提及或標籤為**“多面體”**，並提及**“O5議會”**。
+
+**“又是為了湊數嗎”**
+文章中提及或標籤為**“性”**，記得加上成人限閱模塊。
+
+**“激情演講”**
+文章中提及或標籤為**“骨骼”**，並且提及南瓜頭。
+
+**“沉澱的黑”**
+文章內中文字數少於1000字。
+
+**“滿漢桌腳填充物”**
+文章內中文字數多於10000字。
+
+**“嘯聲若狂”**
+文章中提及或標籤為**“聽覺影響”**或**“聲音”**，並且提及罐中腦。
+
+**“送他一個方向盤”**
+文章中提及或標籤為**“知識”**，並且提及美國。
+
+**“前半生的毀滅者”**
+文章中提及**“父母”**或**“家人”**，並且與世界線**“核裂擠兌”**相關。
+
+**“後半生的負創神”**
+文章中提及**“小孩”**或**“嬰兒”**，並且與世界線**“航海學”**相關。
+
+**“放射性布偶”**
+文章中提及或標籤為**“無定形”**，並且與世界線**“燦藍天穹”**相關。
+
+**“我沒名字”**
+文章中提及**“眼淚”**，並且與世界線**“轉世計劃”**相關。
+
+**“套子中的膏狀物”**
+文章中提及或標籤為**“歷史性”**，並且與世界線**“神異博覽會一九三五”**相關。
+
+**“全球性鬧劇”**
+創作的內容發生在現代，並且基金會只使用現實存在的技術收容異常。
+
+**“洞穴的質料”**
+文章中提及或標籤為**“繁廣化工”**，並且內容和某種建築材料有關。
+
+**“古玩小舖”**
+文章中提及或標籤為**“木易”**，並且內容提到了古物或古董。
+
+**“漠視論”**
+文章中提及或標籤為**“國安局第八處”**，並且內容中寫到關於Nexus的內容。
+
+**“幾匙靈”**
+文章中提及或標籤為**“洗衣部門”**，並且內容中提到了洗滌或是衣物。
+
+**“秘法血盟”**
+文章中提及或標籤為**“沙皇先知協會”**，並且在內容中提到了俄羅斯。
+
+**“國土傭僕”**
+文章中提及或標籤為**“蛛網國際”**，並且在內容中提到了僱傭兵。
+
+**“恐龍在彼方破殼而出”**
+文章中提及或標籤為**“遠已生醫”**，並且在內容中提到了基因或是生物科技。
+
+**“G型人格特質”**
+文章中提及或標籤為**“民異署”**，並且在內容中提到了政府機關。
+
+**“人才糟蹋中心”**
+文章中提及或標籤為**“site-zh-02”**，並且在內容中提到基金會那些繁忙的業務。
+
+**“超級地下室”**
+文章中提及或標籤為**“site-zh-11”**，並且提到了地下室。
+
+**“蔓延性迷思”**
+文章中提及或標籤為**“site-zh-12”**，並且提到了模因或逆模因。
+
+**“天光越群山”**
+文章中提及或標籤為**“site-zh-44”**，並且提到了臺灣原住民。
+
+**“即時性正義”**
+文章中提及或標籤為**“site-zh-50”**，並且提到了轟炸。
+
+**“霧航道孓行”**
+文章中提及或標籤為**“site-zh-81”**，並且提到了[[[SCP-ZH-100]]]。
+
+**“梭哈式智慧”**
+文章中提及或標籤為**“site-zh-88”**，並且提到了博弈事業。
+
+**“管理式療養”**
+文章中提及或標籤為**“site-zh-96”**，並且提到了退役的基金會人員。
+
+----
+
+> + 黑色效果卡牌（+2）
+> 它們始終都在所有人的腳底下，看見很容易，撿起來很難，或是說根本不可能......但老兄，那是整整兩分欸。
+
+**“求慰不得，告慰不能”**
+該篇文章標籤超過20個且標籤的英文首字母全都不一樣。
+
+**“伊格拉尼亞”**
+創作了一個與現有基金會（包括總站與各分部）世界線全都說不通的世界觀。
+
+**“可是我有六隻狼欸”**
+文章中文字數低於100並完整講述一個符合英雄旅程流程的故事。
+
+**“你的取向呢比較鬆弛”**
+文章內容或標籤同時與本分部之前舉辦過的競賽題目或是活動主題對到五個或以上。
+
+**“但是你的翻譯又彌補了這一個部份”**
+文章與本分部已經翻譯的十個SCP內容產生連結，但是總中文字數不超過500字。
+[[/tab]]
+
+[[tab 規則]]
++ 規則
+
+* 必須以原創作品參賽。
+* 可以合著，獎品將依價值平分。
+* 可以向不同的題目卡牌投稿複數作品，但僅以最高分者計分。
+* 請在創作的文章標籤處放上“亡走塵寰”的標籤。
+* 若最終計分分數相同者，皆視作同一名次且都能獲得獎品，且後續順位續計。
+
+++ 題目卡牌
+* 請依據本次競賽的六道題目卡牌創作，只要符合題目##red|下方標注的元素##，或##red|直接針對題目名稱進行創作##，即可視作符合該題目的要求。
+* 題目卡牌請使用隱藏標籤作為分類標注（_共和國士兵、_仲裁者、_第一使命等等）。
+* 同一部作品只能投稿同一張題目卡牌。
+* **題目卡牌下方的短文與卡牌配圖，僅作為啟發思考及裝飾作用，無任何限制創意發揮之作用。**
+
+++ 效果卡牌
+* 效果卡牌可以為創作在結算分數時獲得更多的分數，前提是完成卡牌上的特殊任務。
+* 報名的作者們默認抽取三張效果卡牌，抽卡時間會在報名截止當日於官方Discord群統一由主辦方舉行。
+* 獲得的卡片可在一周內（即報名截止至開始投稿期間）與他人進行更換。
+* 一部作品僅可使用一張效果卡牌。
+
++ 接受的作品類型
+* 001提案、SCP檔案、故事、-EX(已解明)、-J(搞笑)、GOI格式、creepypasta 或流浪者圖書館。
+* 藝作另計入特殊的獎項。
+
+如有任何疑問，歡迎至各大聯絡窗口 尋求協助。
+ 或直接掀開紙箱把[[*user Semibreve]]抓出來。[[*user Dr V Valentine]]在旁邊另一個紙箱支援/)))
+
+主辦單位保有活動最終解釋權及變更活動內容細節之權利。
+[[/tab]]
+
+[[tab 獎品]]
++ 獎項和其他沒的有的
+包含了咪貓錢包裡夾層的夾層挖出來皺皺的幾張紙和參加獎。
+（以下幣值以新台幣計算）
+
+++ 第一名
+Discord Nitro一年份 
+
+++ 第二名
+1000元以下Steam遊戲擇一或：
+HELLDIVERS™ 2（1190元）
+Warhammer 40,000: Darktide（1149元）
+Battlefield™ 1 Revolution（1099元）
+
+++ 第三名
+500元以下Steam遊戲擇一或：
+Metro 2033 Redux 或 Metro: Last Light Redux（585元）
+Call of Duty®: Modern Warfare® 2 (2009)（655元）
+Age of Empires II: Definitive Edition（679元）
+
+++ 第四名
+400元以下Steam遊戲擇一或：
+Scorn（569元）
+OPUS: Echo of Starsong - Full Bloom Edition（490元）
+Sons Of The Forest（488元）
+
+++ 第五名
+300元以下Steam遊戲擇一或：
+Project Wingman（378元）
+Hollow Knight + DLC（370元）
+SCP: 5K（328元）
+
+++ 寫作組、繪圖組參加獎
+由[[*user Abyssdream]]繪製的特殊競賽參賽徽章！！
+
+
+++ 咪呀覺得你不錯獎
+由[[*user Dr V Valentine]]製作的神奇玩具。
+
+[[/tab]]
+[[tab 賽程]]
+[[=]]
+++++++* 由於用戶多數位於相同時區內，以下所標示的日期及時間的基準皆以(GMT+8)為主。
+[[/=]]
+##ff63a4|**報名期間為【2024年05月03日(五)】至【2024年05月11日(六) 19:00】**##，報名參賽的作者們請在此時間範圍內將WIKIDOT ID填入報名區留言板。
+
+##ff63a4|**【2024年05月11日(六) 20:00】**##將為參賽者進行效果卡牌的抽取，所有參加者自抽取並獲得卡牌的當下即可與他人交換，直至準備期間結束。
+
+##ff63a4|**準備期間為【2024年05月11日(六)】至【2024年05月18日(六) 23:59】**##，這段時間請各位創作者先##ff2b2b|"**不要**"##放上您的參賽作品。
+ 
+本次開放投稿的**##00ddff|徵件時間為【2024年05月19日 (日)】至【2024年06月01日 (六) 23:59】**##請各位參賽者，務必在徵件開始後投稿的頁面上加上"**##ff2b2b|亡走塵寰##**"的標籤[[footnote]] 標籤在頁面最下方的紅色選項中，如有任何疑問請至[http://scp-zh-tr.wikidot.com/chat-guide 各大聯絡窗口] 尋求協助[[/footnote]]以便讀者能快速的找到你的投稿。
+
+**##ffcc00|投票日期為【2024年05月19日 (日)】起至【2024年06月09日 (日)12:00】##**截止。
+
+請注意如果是在##ff63a4| **準備期期間【2024年05月10日(五)】至【2024年05月18日(六) 23:59】**##內，先將文章先做為一般作品投稿等事後正式徵件再放上標籤是**##ff2b2b|不行##**的，//除非將作品刪除並重新投稿//否則您將會被記錄並且失去參賽資格。
+[[/tab]]
+
+[[tab 報名區]]
++++ 05月03日 (五) 至05月11日 (六) 19:00 開放報名
+報名參賽的作者們請在此時間範圍內將WIKIDOT ID填入報名區留言板
+
+++++ 05月11日 (六)  20:00 工作人員將用回復方式公布所抽選的題目 (可交換)
+
+[[div class="collapsible-block" style="font-size:1em"]]
+[[module comments]]
+[[/div]]
+[[/tab]]
+
+[[tab 作品展示]]
+[[div class="content-panel standalone content-row"]]
+[[div class="content-type-title"]]
+++ 目前參賽作品
+[[/div]]
+
+[[div class="content-type-description-2"]]
+
+[[table style="width: 100%;"]]
+[[row style="font-weight: bold; color: #fff; background-color: #666;"]]
+[[cell style="padding: 0 2px; width: 50%;"]]
+頁面名稱
+[[/cell]]
+[[cell style="padding: 0 2px; width: 25%; text-align: center;"]]
+建立日期
+[[/cell]]
+[[cell style="padding: 0 2px; width: 20%; text-align: center;"]]
+創建者
+[[/cell]]
+[[cell style="padding: 0 2px; text-align: center;"]]
+評分
+[[/cell]]
+[[/row]]
+[[/table]]
+
+[[/div]]
+
+[[div class="content-type-description"]]
+
+[[module ListPages order="created_at desc" prependLine="[[include component:listpages-table]]" perPage="30" appendLine="[[/table]]" category="-fragment, -prime"  separate="false" tags="+亡走塵寰 +原創 -中心   " rss="Most Recently Translated"]]
+[[row]]
+[[cell style="vertical-align: top;"]]
+%%title_linked%%
+[[/cell]]
+[[cell style="vertical-align: top; text-align: justify;"]]
+%%created_at|%Y年%m月%d日 %H:%M|agohover%%
+[[/cell]]
+[[cell style="vertical-align: top; text-align: left;"]]
+%%created_by_linked%%
+[[/cell]]
+[[cell style="vertical-align: top; text-align: justify;"]]
+%%rating%%
+[[/cell]]
+[[/row]]
+[[/module]]
+[[/div]]
+[[/div]]
+[[/tab]]
+
+[[tab 贊助&授權]]
+題目卡牌共6張來自[https://www.facebook.com/profile.php?id=100071238965764&mibextid=ZbWKwL Eunice Chen]
+題目卡背來自[https://www.facebook.com/profile.php?id=100005733160520&mibextid=ZbWKwL 潘姸均]
+頁首圖片來自[[*user Dr V Valentine]]
+競賽獎勵徽章共兩張來自[[*user Abyssdream]]
+皆以CC BY-SA 4.0授權使用
+原徽章與CSS設計：[[*user estrellayoshte]]，本頁經微幅的調整與圖片替換，並在[https://creativecommons.org/licenses/by-sa/3.0/deed.zh-hant CC BY-SA 3.0 DEED]授權使用。
+[[/tab]]
+[[/tabview]]
+
+@@ @@
+----
+@@ @@
+
+[[tabview]]
+[[tab 第一使命]]
+[[div class="content-panel standalone content-row"]]
+[[div class="content-type-title"]]
+++ 目前參賽作品
+[[/div]]
+
+[[div class="content-type-description-2"]]
+
+[[table style="width: 100%;"]]
+[[row style="font-weight: bold; color: #fff; background-color: #666;"]]
+[[cell style="padding: 0 2px; width: 50%;"]]
+頁面名稱
+[[/cell]]
+[[cell style="padding: 0 2px; width: 25%; text-align: center;"]]
+建立日期
+[[/cell]]
+[[cell style="padding: 0 2px; width: 20%; text-align: center;"]]
+創建者
+[[/cell]]
+[[cell style="padding: 0 2px; text-align: center;"]]
+評分
+[[/cell]]
+[[/row]]
+[[/table]]
+
+[[/div]]
+
+[[div class="content-type-description"]]
+
+[[module ListPages order="created_at desc" prependLine="[[include component:listpages-table]]" perPage="30" appendLine="[[/table]]" category="-fragment, -prime"  separate="false" tags="+亡走塵寰 +_第一使命 +原創 -中心   " rss="Most Recently Translated"]]
+[[row]]
+[[cell style="vertical-align: top;"]]
+%%title_linked%%
+[[/cell]]
+[[cell style="vertical-align: top; text-align: justify;"]]
+%%created_at|%Y年%m月%d日 %H:%M|agohover%%
+[[/cell]]
+[[cell style="vertical-align: top; text-align: left;"]]
+%%created_by_linked%%
+[[/cell]]
+[[cell style="vertical-align: top; text-align: justify;"]]
+%%rating%%
+[[/cell]]
+[[/row]]
+[[/module]]
+[[/div]]
+[[/div]]
+[[/tab]]
+
+[[tab 好事者]]
+[[div class="content-panel standalone content-row"]]
+[[div class="content-type-title"]]
+++ 目前參賽作品
+[[/div]]
+
+[[div class="content-type-description-2"]]
+
+[[table style="width: 100%;"]]
+[[row style="font-weight: bold; color: #fff; background-color: #666;"]]
+[[cell style="padding: 0 2px; width: 50%;"]]
+頁面名稱
+[[/cell]]
+[[cell style="padding: 0 2px; width: 25%; text-align: center;"]]
+建立日期
+[[/cell]]
+[[cell style="padding: 0 2px; width: 20%; text-align: center;"]]
+創建者
+[[/cell]]
+[[cell style="padding: 0 2px; text-align: center;"]]
+評分
+[[/cell]]
+[[/row]]
+[[/table]]
+
+[[/div]]
+
+[[div class="content-type-description"]]
+
+[[module ListPages order="created_at desc" prependLine="[[include component:listpages-table]]" perPage="30" appendLine="[[/table]]" category="-fragment, -prime"  separate="false" tags="+亡走塵寰 +_好事者 +原創 -中心   " rss="Most Recently Translated"]]
+[[row]]
+[[cell style="vertical-align: top;"]]
+%%title_linked%%
+[[/cell]]
+[[cell style="vertical-align: top; text-align: justify;"]]
+%%created_at|%Y年%m月%d日 %H:%M|agohover%%
+[[/cell]]
+[[cell style="vertical-align: top; text-align: left;"]]
+%%created_by_linked%%
+[[/cell]]
+[[cell style="vertical-align: top; text-align: justify;"]]
+%%rating%%
+[[/cell]]
+[[/row]]
+[[/module]]
+[[/div]]
+[[/div]]
+[[/tab]]
+
+[[tab 共和國士兵]]
+[[div class="content-panel standalone content-row"]]
+[[div class="content-type-title"]]
+++ 目前參賽作品
+[[/div]]
+
+[[div class="content-type-description-2"]]
+
+[[table style="width: 100%;"]]
+[[row style="font-weight: bold; color: #fff; background-color: #666;"]]
+[[cell style="padding: 0 2px; width: 50%;"]]
+頁面名稱
+[[/cell]]
+[[cell style="padding: 0 2px; width: 25%; text-align: center;"]]
+建立日期
+[[/cell]]
+[[cell style="padding: 0 2px; width: 20%; text-align: center;"]]
+創建者
+[[/cell]]
+[[cell style="padding: 0 2px; text-align: center;"]]
+評分
+[[/cell]]
+[[/row]]
+[[/table]]
+
+[[/div]]
+
+[[div class="content-type-description"]]
+
+[[module ListPages order="created_at desc" prependLine="[[include component:listpages-table]]" perPage="30" appendLine="[[/table]]" category="-fragment, -prime"  separate="false" tags="+亡走塵寰 +_共和國士兵 +原創 -中心   " rss="Most Recently Translated"]]
+[[row]]
+[[cell style="vertical-align: top;"]]
+%%title_linked%%
+[[/cell]]
+[[cell style="vertical-align: top; text-align: justify;"]]
+%%created_at|%Y年%m月%d日 %H:%M|agohover%%
+[[/cell]]
+[[cell style="vertical-align: top; text-align: left;"]]
+%%created_by_linked%%
+[[/cell]]
+[[cell style="vertical-align: top; text-align: justify;"]]
+%%rating%%
+[[/cell]]
+[[/row]]
+[[/module]]
+[[/div]]
+[[/div]]
+[[/tab]]
+
+[[tab 仲裁者]]
+[[div class="content-panel standalone content-row"]]
+[[div class="content-type-title"]]
+++ 目前參賽作品
+[[/div]]
+
+[[div class="content-type-description-2"]]
+
+[[table style="width: 100%;"]]
+[[row style="font-weight: bold; color: #fff; background-color: #666;"]]
+[[cell style="padding: 0 2px; width: 50%;"]]
+頁面名稱
+[[/cell]]
+[[cell style="padding: 0 2px; width: 25%; text-align: center;"]]
+建立日期
+[[/cell]]
+[[cell style="padding: 0 2px; width: 20%; text-align: center;"]]
+創建者
+[[/cell]]
+[[cell style="padding: 0 2px; text-align: center;"]]
+評分
+[[/cell]]
+[[/row]]
+[[/table]]
+
+[[/div]]
+
+[[div class="content-type-description"]]
+
+[[module ListPages order="created_at desc" prependLine="[[include component:listpages-table]]" perPage="30" appendLine="[[/table]]" category="-fragment, -prime"  separate="false" tags="+亡走塵寰 +_仲裁者 +原創 -中心   " rss="Most Recently Translated"]]
+[[row]]
+[[cell style="vertical-align: top;"]]
+%%title_linked%%
+[[/cell]]
+[[cell style="vertical-align: top; text-align: justify;"]]
+%%created_at|%Y年%m月%d日 %H:%M|agohover%%
+[[/cell]]
+[[cell style="vertical-align: top; text-align: left;"]]
+%%created_by_linked%%
+[[/cell]]
+[[cell style="vertical-align: top; text-align: justify;"]]
+%%rating%%
+[[/cell]]
+[[/row]]
+[[/module]]
+[[/div]]
+[[/div]]
+[[/tab]]
+
+[[tab 人之流]]
+[[div class="content-panel standalone content-row"]]
+[[div class="content-type-title"]]
+++ 目前參賽作品
+[[/div]]
+
+[[div class="content-type-description-2"]]
+
+[[table style="width: 100%;"]]
+[[row style="font-weight: bold; color: #fff; background-color: #666;"]]
+[[cell style="padding: 0 2px; width: 50%;"]]
+頁面名稱
+[[/cell]]
+[[cell style="padding: 0 2px; width: 25%; text-align: center;"]]
+建立日期
+[[/cell]]
+[[cell style="padding: 0 2px; width: 20%; text-align: center;"]]
+創建者
+[[/cell]]
+[[cell style="padding: 0 2px; text-align: center;"]]
+評分
+[[/cell]]
+[[/row]]
+[[/table]]
+
+[[/div]]
+
+[[div class="content-type-description"]]
+
+[[module ListPages order="created_at desc" prependLine="[[include component:listpages-table]]" perPage="30" appendLine="[[/table]]" category="-fragment, -prime"  separate="false" tags="+亡走塵寰 +_人之流 +原創 -中心   " rss="Most Recently Translated"]]
+[[row]]
+[[cell style="vertical-align: top;"]]
+%%title_linked%%
+[[/cell]]
+[[cell style="vertical-align: top; text-align: justify;"]]
+%%created_at|%Y年%m月%d日 %H:%M|agohover%%
+[[/cell]]
+[[cell style="vertical-align: top; text-align: left;"]]
+%%created_by_linked%%
+[[/cell]]
+[[cell style="vertical-align: top; text-align: justify;"]]
+%%rating%%
+[[/cell]]
+[[/row]]
+[[/module]]
+[[/div]]
+[[/div]]
+[[/tab]]
+
+[[tab 白磷時代]]
+[[div class="content-panel standalone content-row"]]
+[[div class="content-type-title"]]
+++ 目前參賽作品
+[[/div]]
+
+[[div class="content-type-description-2"]]
+
+[[table style="width: 100%;"]]
+[[row style="font-weight: bold; color: #fff; background-color: #666;"]]
+[[cell style="padding: 0 2px; width: 50%;"]]
+頁面名稱
+[[/cell]]
+[[cell style="padding: 0 2px; width: 25%; text-align: center;"]]
+建立日期
+[[/cell]]
+[[cell style="padding: 0 2px; width: 20%; text-align: center;"]]
+創建者
+[[/cell]]
+[[cell style="padding: 0 2px; text-align: center;"]]
+評分
+[[/cell]]
+[[/row]]
+[[/table]]
+
+[[/div]]
+
+[[div class="content-type-description"]]
+
+[[module ListPages order="created_at desc" prependLine="[[include component:listpages-table]]" perPage="30" appendLine="[[/table]]" category="-fragment, -prime"  separate="false" tags="+亡走塵寰 +_白磷時代 +原創 -中心   " rss="Most Recently Translated"]]
+[[row]]
+[[cell style="vertical-align: top;"]]
+%%title_linked%%
+[[/cell]]
+[[cell style="vertical-align: top; text-align: justify;"]]
+%%created_at|%Y年%m月%d日 %H:%M|agohover%%
+[[/cell]]
+[[cell style="vertical-align: top; text-align: left;"]]
+%%created_by_linked%%
+[[/cell]]
+[[cell style="vertical-align: top; text-align: justify;"]]
+%%rating%%
+[[/cell]]
+[[/row]]
+[[/module]]
+[[/div]]
+[[/div]]
+[[/tab]]
+[[/tabview]]

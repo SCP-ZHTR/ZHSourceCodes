@@ -12,7 +12,7 @@
 
 [[include component:anomaly-class-bar-source-alt
 |item-number= ZH-358
-|clearance= 1
+|clearance= 3
 |container-class= safe
 |secondary-class= none
 |secondary-icon= https://urlhere.com
