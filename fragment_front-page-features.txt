@@ -1,6 +1,6 @@
 [[div id="featured"]]
 [[tabview]]
-[[tab 4月作品展出]]
+[[tab 5月作品展出]]
 
 [!-- Left block --]
 [[div class="feature-block"]]
@@ -10,12 +10,12 @@ SCP作品展出
 [[/div]]
 [[div class="panel-body"]]
 [[div class="feature-title"]]
-[[[*SCP-ZH-022|]]]
+[[[*SCP-ZH-275|]]]
 [[/div]]
 [[div class="feature-subtitle"]]
-作者：[[user  Nihilmace]]
+作者：[[user  Lostwhat]]
 [[/div]]
-SCP-ZH-022-2為一群尋常情況下人類無法認知的蠕蟲狀敵意實體，現存的任何非異常攝影技術都無法記錄項目的身影，該類實體除了會週期性的捕食人類外，更會積極地殺害所有認知到實體存在的人員，其目的目前無法得知。
+SCP-ZH-275只能在人類嬰幼兒的體內產生，產生點為大腦，產生機率與結晶大小會隨著年齡增長而下降，八克拉以上的結晶只有在一周大以內的新生兒體內發現過，且目前未曾在年齡超過兩歲的人體中發現項目。
 [[/div]]
 [[div class="panel-footer"]]
 [[[*featured-scp-archive|查看以往展出的SCP作品]]]
@@ -29,14 +29,14 @@ SCP-ZH-022-2為一群尋常情況下人類無法認知的蠕蟲狀敵意實體�
 [[/div]]
 [[div class="panel-body"]]
 [[div class="feature-title"]]
-[[[for-the-curse-of-us|少年L的希死念慮]]]
+[[[new-word|生字詞彙表]]]
 [[/div]]
 [[div class="feature-subtitle"]]
-作者：[[user Lostwhat]]
+作者：[[user linrain0201]]
 [[/div]]
-拎起行李，他沒有離開的理由，但也沒有找到停留的理由。隨機的二擇一，僅此而已。
-
-但他總覺得對不起這個夏天。
+母親直視著他的眼睛。「有些人就算走錯了路，也還是可以回頭，換條路，繼續往前走。」
+　　「但是我們不行。」
+　　「所以你的每一步，都要走得慎重。」
 [[/div]]
 [[div class="panel-footer"]]
 [[[*featured-tale-archive|查看以往展出之故事]]]
@@ -52,13 +52,13 @@ SCP-ZH-022-2為一群尋常情況下人類無法認知的蠕蟲狀敵意實體�
 [[/div]]
 [[div class="panel-body"]]
 [[div class="feature-title"]]
-[[[*scp-8001|]]]
+[[[*scp-5655|]]]
 [[/div]]
 [[div class="feature-subtitle"]]
-作者：[[user djkaktus]]
+作者：[[user AnActualCrow]]
 譯者：[[user Frederica Bernkastel]]
 [[/div]]
-我在黎明時分清醒，發現他已經走了，只在古老的紅木下留下涼鞋與摺好的長袍。他就這麼從此人間蒸發，無聲地證明了存在的短暫，我再也沒有見過他的面容。
+SCP-5655-1： 阿拉米女士，這是個多元宇宙法問題。儘管我樂於幫助你，但我實現願望的能力，不能延伸到你所在現實以外的事物。
 
 [[/div]]
 [[div class="panel-footer"]]
@@ -73,12 +73,12 @@ SCP-ZH-022-2為一群尋常情況下人類無法認知的蠕蟲狀敵意實體�
 [[/div]]
 [[div class="panel-body"]]
 [[div class="feature-title"]]
-[[[*so-mk-went-to-a-island|所以M.K.來到了一個無人島上]]]
+[[[*kimad-no-sikacawan|《太平洋異常民族誌：西加走灣篇》摘錄：諸島物語]]]
 [[/div]]
 [[div class="feature-subtitle"]]
-作者：[[user Adev Drafaski]]
+作者：[[user SamScript]]
 [[/div]]
-Wagner笑了一下，他的心中卻毫無波瀾。M.K.是誰？自己究竟是不是他的傳人？這些問題已經消失在徐徐的海風中。唯一有的只有現在，這個時刻，他在日出的光輝中找到了一個寫著字的石板。
+在神話中，女神多象徵慈愛、人性、陸地與生命，父神則代表殘暴、不解風情、海洋與力量。當地神話亦以此開枝散葉。
 [[/div]]
 [[div class="panel-footer"]]
 [[[*featured-Comprehensive-exhibition|查看以往的綜合展出]]]
