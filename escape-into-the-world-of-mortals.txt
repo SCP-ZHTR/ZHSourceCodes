@@ -24,7 +24,7 @@ body {
 #extrac-div-1 {
     background-image: url(https://i.imgur.com/QSUDwiu.jpg);
 }
-}
+
 .tarot-card .content { transform: rotateY( 180deg ); }
 .tarot-card::after {
     content: "";
@@ -34,7 +34,37 @@ body {
     background-color: rgb(var(--dark-gray-monochrome));
     border: solid 0.1rem rgb(255 254 255 / 85%);
 }
+
+.card-popup {
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+    position: fixed;
+    display: flex;
+    z-index: 3;
 }
+.card-popup:not(:target) {
+    opacity: 0;
+    display: none;
+}
+.card-popup:target {
+    opacity: 1;
+    animation-duration: 0.3s;
+    animation-name: fade-in;
+    -moz-animation-duration: 0.5s;
+    -moz-animation-name: fade-in;
+    -webkit-animation-duration: 0.5s;
+    -webkit-animation-name: fade-in;
+}
+/* 彈窗的css */
+.card-popup-container {
+    width: 640px;
+    padding: 10px;
+    background: black;
+    flex-direction: column;
+    margin: auto;
+    border: solid 0.1rem rgb(255 254 255 / 85%);
 }
 [[/module]]
 
@@ -49,127 +79,46 @@ body {
 @@ @@
 [[tabview]]
 [[tab 題目卡牌]]
-[[div class="fortune-container"]]
+※點選牌面可以觀看題目
 
+[[div class="fortune-container"]]
 [[include fragment:card-slot
 |status= |pre-flipped=
 |author=「第一使命」
 |art= https://i.imgur.com/8HrtfET.jpg
-|url=
+|url=#u-card-1
 ]]
-> +++ 「第一使命」
-> 你不善於此。
-> @@ @@
-> 你正在埋怨基金會的設施蓋得過度膨脹，埋怨平時沒怎麼保持身體強健。
-> @@ @@
-> 一段衝刺、二級權限、門扉開了又關又開。
-> @@ @@
-> 一次跨步、兩階樓梯、上樓後喘了三口氣，接上後悔。
-> @@ @@
-> 永無止盡的追趕迎來了盡頭，
-> 而每個人的頭骨都保持笑容。
-> @@ @@
-> @@ @@
-> （著重描寫「控制」或是「收容突破」。）
 [[include fragment:card-slot
 |status= |pre-flipped=
 |author=「好事者」
 |art= https://i.imgur.com/kDetKJd.jpg
-|url=
+|url=#u-card-2
 ]]
-> +++ 「好事者」
-> 你是一個人工智能，替人類娛樂，好讓他們不在這方面浪費太多時間。
-> @@ @@
-> 高效取代書面的能力造就了無數的紙筆紛飛，人們在無知與愚知之間載浮載沉；
-> 正如維多利亞時代從未意識到真正的戰場在何處，
-> 你並沒有取代藝術家的工作，只是將所有人捲入了認知的洪流。
-> @@ @@
-> 直到二進制的雄辯勝過事實，系統化的巧舌駁倒真理。
-> @@ @@
-> 年份仍在前進，但你完成了一次整體的倒退。
-> 歡迎來到讚譽一文不值的時代。
-> @@ @@
-> （著重描寫「人工智慧」，包括Aic。）
 [[include fragment:card-slot
 |status= |pre-flipped=
 |author=「共和國士兵」
 |art= https://i.imgur.com/fGxFzur.jpg
-|url=
+|url=#u-card-3
 ]]
-> +++ 「共和國士兵」
-> 你浴血、棲身於絞肉機般的前線，集權的戰爭巨獸向你與弟兄們肩頭咬下的每一口，
-> 皆昭示著上下議院曠日持久的爭執。
-> @@ @@
-> 你的任務是在下一次決策之前頂著炮火，堅持到下一道命令的下達，
-> 你或許無緣見到那些辯論後的結果，或許再也無緣家鄉，因為你站在這裡。
-> @@ @@
-> @@ @@
-> 為了自由，為了民主，為了家園。
-> @@ @@
-> @@ @@
-> @@ @@
-> （著重描寫「軍事」或「特遣隊」。）
 [[include fragment:card-slot
 |status= |pre-flipped=
 |author=「仲裁者」
 |art=https://i.imgur.com/TRsfLVU.jpg
-|url=
+|url=#u-card-4
 ]]
-> +++ 「仲裁者」
-> 你用開庭求助鈴的響聲玩起了B-BOX。
-> 含冤而述的伶人指控未經同意就誕下她自己的惡黨（中略500字）；
-> 這些供詞、詭辯、旁敲側擊、牽強附會，你不會拒絕，你全盤收下，因為你根本不在乎。
-> @@ @@
-> 你也算是賞罰分明，前者用腳小指重擊桌腳，後者兩腳都踢，但可以緩刑。
-> @@ @@
-> 已知邏輯皆是戲碼，又所謂清醒皆同酣眠。
-> @@ @@
-> 求存在的總和。
-> @@ @@
-> @@ @@
-> （著重描寫「法律」或「腐敗」。）
 [[include fragment:card-slot
 |status= |pre-flipped=
 |author=「人之流」
 |art=https://i.imgur.com/vM7k6lQ.jpg
-|url=
+|url=#u-card-5
 ]]
-> +++ 「人之流」
-> 你是你，你在靜待一個時機。
-> 你就像是那個被神所允諾的夢想家，被應許了財富之後便一路窮到老死，
-> 而祂就這樣看著你把機會這詞後面那個字給抹掉。
-> @@ @@
-> 一直是這樣。
-> 生的後面是死，人的上面是神，盡頭的前面是開頭。
-> @@ @@
-> 誰在乎過程？
-> @@ @@
-> @@ @@
-> @@ @@
-> （著重描寫「機率性」或是「命運」。）
 [[include fragment:card-slot
 |status= |pre-flipped=
 |author=「白磷時代」
 |art= https://i.imgur.com/McFGLWx.jpg
-|url=
+|url=#u-card-6
 ]]
-> +++ 「白磷時代」
-> 你是明年的你。
-> @@ @@
-> 我們的藝術譜寫著五位數的曆法、橫越銀河的航線、
-> 如夢似幻的絕望，然後被潮水般的廉價品淹沒。
-> 種族的過往將永垂不朽，正如他們向未來邁出的步伐：
-> 時而步履蹣跚、時而折返，有時也像上個世紀，偷搭便車。
-> 現在？發出一聲難聽的哀鳴後被棄於路旁。
-> @@ @@
-> 前一天用紙筆尺規算出行星位置的人，隔天吊在勞工用血肉砌成的霓虹燈管上，
-> 他的夢裡能不能聽見火箭的轟鳴？
-> 在那邊的世界，又能否見到那蒼鬱的天空？
-> @@ @@
-> 我們只剩焦黑的骨骸，時代，停下來了。
-> @@ @@
-> （著重描寫「化學」或「資本」）
-> [[/div]]
+[[/div]]
 [[/tab]]
 
 [[tab 效果卡牌]]
@@ -348,7 +297,7 @@ body {
 （以下幣值以新台幣計算）
 
 ++ 第一名
-Discord Nitro一年份 
+Discord Nitro一年份
 
 ++ 第二名
 1000元以下Steam遊戲擇一或：
@@ -462,7 +411,8 @@ SCP: 5K（328元）
 [[tab 贊助&授權]]
 題目卡牌共6張來自[https://www.facebook.com/profile.php?id=100071238965764&mibextid=ZbWKwL Eunice Chen]
 題目卡背來自[https://www.facebook.com/profile.php?id=100005733160520&mibextid=ZbWKwL 潘姸均]
-頁首圖片來自[[*user Dr V Valentine]]
+頁首&背景底圖由[[*user Dr V Valentine]]繪製
+卡牌語法改造由魔法紙貓貓[[*user surprising_mars]]製作
 競賽獎勵徽章共兩張來自[[*user Abyssdream]]
 皆以CC BY-SA 4.0授權使用
 原徽章與CSS設計：[[*user estrellayoshte]]，本頁經微幅的調整與圖片替換，並在[https://creativecommons.org/licenses/by-sa/3.0/deed.zh-hant CC BY-SA 3.0 DEED]授權使用。
@@ -768,3 +718,150 @@ SCP: 5K（328元）
 [[/div]]
 [[/tab]]
 [[/tabview]]
+
+[!-- 彈窗內容 --]
+[[div id="card-1" class="card-popup"]]
+[[div class="card-popup-container"]]
+@@ @@
+> +++ 「第一使命」
+> 你不善於此。
+> @@ @@
+> 你正在埋怨基金會的設施蓋得過度膨脹，埋怨平時沒怎麼保持身體強健。
+> @@ @@
+> 一段衝刺、二級權限、門扉開了又關又開。
+> @@ @@
+> 一次跨步、兩階樓梯、上樓後喘了三口氣，接上後悔。
+> @@ @@
+> 永無止盡的追趕迎來了盡頭，
+> 而每個人的頭骨都保持笑容。
+> @@ @@
+> @@ @@
+> （著重描寫「控制」或是「收容突破」。）
+[[>]]
+[[a href="##"]]close[[/a]]
+[[/>]]
+
+[[/div]]
+
+[[/div]]
+[[div id="card-2" class="card-popup"]]
+[[div class="card-popup-container"]]
+@@ @@
+> +++ 「好事者」
+> 你是一個人工智能，替人類娛樂，好讓他們不在這方面浪費太多時間。
+> @@ @@
+> 高效取代書面的能力造就了無數的紙筆紛飛，人們在無知與愚知之間載浮載沉；
+> 正如維多利亞時代從未意識到真正的戰場在何處，
+> 你並沒有取代藝術家的工作，只是將所有人捲入了認知的洪流。
+> @@ @@
+> 直到二進制的雄辯勝過事實，系統化的巧舌駁倒真理。
+> @@ @@
+> 年份仍在前進，但你完成了一次整體的倒退。
+> 歡迎來到讚譽一文不值的時代。
+> @@ @@
+> （著重描寫「人工智慧」，包括Aic。）
+
+[[>]]
+[[a href="##"]]close[[/a]]
+[[/>]]
+
+[[/div]]
+[[/div]]
+
+[[div id="card-3" class="card-popup"]]
+[[div class="card-popup-container"]]
+@@ @@
+> +++ 「共和國士兵」
+> 你浴血、棲身於絞肉機般的前線，集權的戰爭巨獸向你與弟兄們肩頭咬下的每一口，
+> 皆昭示著上下議院曠日持久的爭執。
+> @@ @@
+> 你的任務是在下一次決策之前頂著炮火，堅持到下一道命令的下達，
+> 你或許無緣見到那些辯論後的結果，或許再也無緣家鄉，因為你站在這裡。
+> @@ @@
+> @@ @@
+> 為了自由，為了民主，為了家園。
+> @@ @@
+> @@ @@
+> @@ @@
+> （著重描寫「軍事」或「特遣隊」。）
+[[>]]
+[[a href="##"]]close[[/a]]
+[[/>]]
+
+[[/div]]
+[[/div]]
+
+[[div id="card-4" class="card-popup"]]
+[[div class="card-popup-container"]]
+@@ @@
+> +++ 「仲裁者」
+> 你用開庭求助鈴的響聲玩起了B-BOX。
+> 含冤而述的伶人指控未經同意就誕下她自己的惡黨（中略500字）；
+> 這些供詞、詭辯、旁敲側擊、牽強附會，你不會拒絕，你全盤收下，因為你根本不在乎。
+> @@ @@
+> 你也算是賞罰分明，前者用腳小指重擊桌腳，後者兩腳都踢，但可以緩刑。
+> @@ @@
+> 已知邏輯皆是戲碼，又所謂清醒皆同酣眠。
+> @@ @@
+> 求存在的總和。
+> @@ @@
+> @@ @@
+> （著重描寫「法律」或「腐敗」。）
+
+[[>]]
+[[a href="##"]]close[[/a]]
+[[/>]]
+
+[[/div]]
+[[/div]]
+
+[[div id="card-5" class="card-popup"]]
+[[div class="card-popup-container"]]
+@@ @@
+> +++ 「人之流」
+> 你是你，你在靜待一個時機。
+> 你就像是那個被神所允諾的夢想家，被應許了財富之後便一路窮到老死，
+> 而祂就這樣看著你把機會這詞後面那個字給抹掉。
+> @@ @@
+> 一直是這樣。
+> 生的後面是死，人的上面是神，盡頭的前面是開頭。
+> @@ @@
+> 誰在乎過程？
+> @@ @@
+> @@ @@
+> @@ @@
+> （著重描寫「機率性」或是「命運」。）
+
+[[>]]
+[[a href="##"]]close[[/a]]
+[[/>]]
+
+[[/div]]
+[[/div]]
+
+[[div id="card-6" class="card-popup"]]
+[[div class="card-popup-container"]]
+@@ @@
+> +++ 「白磷時代」
+> 你是明年的你。
+> @@ @@
+> 我們的藝術譜寫著五位數的曆法、橫越銀河的航線、
+> 如夢似幻的絕望，然後被潮水般的廉價品淹沒。
+> 種族的過往將永垂不朽，正如他們向未來邁出的步伐：
+> 時而步履蹣跚、時而折返，有時也像上個世紀，偷搭便車。
+> 現在？發出一聲難聽的哀鳴後被棄於路旁。
+> @@ @@
+> 前一天用紙筆尺規算出行星位置的人，隔天吊在勞工用血肉砌成的霓虹燈管上，
+> 他的夢裡能不能聽見火箭的轟鳴？
+> 在那邊的世界，又能否見到那蒼鬱的天空？
+> @@ @@
+> 我們只剩焦黑的骨骸，時代，停下來了。
+> @@ @@
+> （著重描寫「化學」或「資本」）
+
+[[>]]
+[[a href="##"]]close[[/a]]
+[[/>]]
+
+[[/div]]
+[[/div]]
