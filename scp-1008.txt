@@ -1,6 +1,6 @@
 [[include component:scp-meta-title-hiding css-style=classic]]
 [[include credit:start]]
-**項目編號：**SCP-1008-放逐之石
+**項目編號：**SCP-1008 - 放逐之石
 **作者：**[[*user Aelanna]]
 **原文：**https://scp-wiki.wikidot.com/scp-1008
 **譯者：**[[*user adviser842963]]
