@@ -2,7 +2,7 @@
 [[include info:start]]
 ##black|作者：[[*user k1s10r0db00ne]]##
 
-##black|**提醒：**白字黑框是摺叠頁，點擊就能看到摺叠的内容。##
+##black|**提醒：**紅色字是摺叠頁，點擊就能看到摺叠的内容。##
 [[include info:end]]
 [[include :scp-zh-tr:component:info-cw]]
 @@ @@
