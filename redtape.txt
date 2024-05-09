@@ -6,7 +6,7 @@
 ]]
 
 [[include :scp-wiki:info:start]]
-原文：[http://scp-wiki-de.wikidot.com/redtape REDTAPE HUB] 紅縟帶中心頁
+原文：[https://scp-wiki.wikidot.com/redtape REDTAPE HUB] 紅縟帶中心頁
 作者：[[*user Rounderhouse]]
 譯者：[[*user Frederica Bernkastel]]
 [[include :scp-wiki:info:end]]
