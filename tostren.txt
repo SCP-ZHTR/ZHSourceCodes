@@ -8,6 +8,16 @@
  --subtitle: "點子進去，項目出來";
  --primaryBackgroundColor: #f7e7cb;
 }
+.sign{border: double 6px #47330b; 
+background-image: radial-gradient(#e0caa2 40%, #e0caa2 ); 
+padding-top: 1em; 
+padding-right: 1em; 
+padding-left: 1em; 
+padding-bottom: 1em; 
+margin-bottom: 1em; 
+color: #710309;
+
+}
 [[/module]]
 
 
@@ -26,17 +36,17 @@
 此列表內的品項皆為我們手工製作，而食譜則是由店內員工所提供的，所有的敘述都已標示在商品前方，品質皆可保障，請放心取用。
 
 ++ **項目**
-[[div style="border: double 6px #47330b; background-image: radial-gradient(#e0caa2 40%, #e0caa2 ); padding-top: 1em; padding-right: 1em; padding-left: 1em; padding-bottom: 1em; margin-bottom: 1em; color: #710309;"]]
+[[div class="sign"]]
 **[[[SCP- ZH-358|SCP-ZH-358 - 罪有所償，命有所還]]]**
 我沒想到你有一天會回來。
 [[/div]]
 
-[[div style="border: double 6px #47330b; background-image: radial-gradient(#e0caa2 40%, #e0caa2 ); padding-top: 1em; padding-right: 1em; padding-left: 1em; padding-bottom: 1em; margin-bottom: 1em; color: #710309;"]]
+[[div class="sign"]]
 **[[[SCP- ZH-538|SCP-ZH-538 - 歐里軋米]]]**
 由Are we cool yet?藝術家所製造的一隻黑色麥克筆，可以透過在紙上繪圖來將紙張折成你想要的物體，還帶有活體黑魔法，在上面繪製生物的話，紙張還能夠活動。
 [[/div]]
 
-[[div style="border: double 6px #47330b; background-image: radial-gradient(#e0caa2 40%, #e0caa2 ); padding-top: 1em; padding-right: 1em; padding-left: 1em; padding-bottom: 1em; margin-bottom: 1em; color: #710309;"]]
+[[div class="sign"]]
 **[[[SCP- ZH-853|SCP-ZH-853 - 水泥先生]]]**
 繁體中文第一個Funtastic教授的迷你先生！
 水泥手臂！水泥意志！水泥雙手！
@@ -51,7 +61,7 @@
 ------
 ++ **故事**
 
-[[div style="border: double 6px #47330b; background-image: radial-gradient(#e0caa2 40%, #e0caa2 ); padding-top: 1em; padding-right: 1em; padding-left: 1em; padding-bottom: 1em; margin-bottom: 1em; color: #710309;"]]
+[[div class="sign"]]
 **[[[in-the-air-tonight|]]]**
 
 你有聞到嗎？
@@ -62,14 +72,14 @@
 ------
 ++ **食物**
 
-[[div style="border: double 6px #47330b; background-image: radial-gradient(#e0caa2 60%, #e0caa2 ); padding-top: 1em; padding-right: 1em; padding-left: 1em; padding-bottom: 1em; margin-bottom: 1em; color: #710309;"]]
+[[div class="sign"]]
 **明太子紅豆麵包**
 由吐司店長所研發的新型麵包，做法與一般的紅豆麵包非常相似，但是在中間的紅豆餡中還包著明太子。
 鹹甜鹹甜的口味，搭配上明太子的奇妙口感，已經讓眾多客人給出了10/10的滿分好評！
 它真的很好吃，真的啦，試試看嘛🥺
 [[/div]]
 
-[[div style="border: double 6px #47330b; background-image: radial-gradient(#e0caa2 60%, #e0caa2 ); padding-top: 1em; padding-right: 1em; padding-left: 1em; padding-bottom: 1em; margin-bottom: 1em; color: #710309;"]]
+[[div class="sign"]]
 **香菜花生粉吐司**
 由吐司店長所研發的全新口味吐司，適合有冒險精神的你！
 將原本應該加在豬血糕上面的香菜及花生粉混入麵糰後烤製而成
@@ -83,40 +93,40 @@
 
 ++ **項目**
 
-[[div style="border: double 6px #47330b; background-image: radial-gradient(#e0caa2 60%, #e0caa2 ); padding-top: 1em; padding-right: 1em; padding-left: 1em; padding-bottom: 1em; margin-bottom: 1em; color: #710309;"]]
+[[div class="sign"]]
 **[[[liz-the-gm-s-proposal|Liz the GM的提案 - 一位普通的玩具師]]]**
 這是一篇SCP-001項目，對對對，它可能沒有那麼的莊重或嚴肅，可是它很歡樂、很有趣、有很多柯基，所以//快來看//，看完別忘了去買Wondertainment的產品，現在全品項特價中喔。
 [[/div]]
 
-[[div style="border: double 6px #47330b; background-image: radial-gradient(#e0caa2 60%, #e0caa2 ); padding-top: 1em; padding-right: 1em; padding-left: 1em; padding-bottom: 1em; margin-bottom: 1em; color: #710309;"]]
+[[div class="sign"]]
 **[[[SCP-650|SCP-650 - 嚇人雕像]]]**
 一個普通的人形雕像，在未被注視的情況下會嘗試驚嚇最近的人。
 購買後請時刻注視著它，否則你可能會被嚇到。任何因購買者疏失所導致的事故，//**本店一概不負責。**//
 [[/div]]
 
-[[div style="border: double 6px #47330b; background-image: radial-gradient(#e0caa2 60%, #e0caa2 ); padding-top: 1em; padding-right: 1em; padding-left: 1em; padding-bottom: 1em; margin-bottom: 1em; color: #710309;"]]
+[[div class="sign"]]
 **[[[SCP-1151|SCP-1151 - 順手的馬克筆]]]**
 一隻黑色馬克筆，除了用它在手上畫完笑臉並一個禮拜不洗掉之後，你就會開始想把自己的頭剁掉之外，完全安全。
 
 老實說，我真的很想把它的名字翻成笑臉手收。
 [[/div]]
 
-[[div style="border: double 6px #47330b; background-image: radial-gradient(#e0caa2 60%, #e0caa2 ); padding-top: 1em; padding-right: 1em; padding-left: 1em; padding-bottom: 1em; margin-bottom: 1em; color: #710309;"]]
+[[div class="sign"]]
 **[[[SCP-2598|SCP-2598 - 流浪商蛾]]]**
 只需要19塊9毛9就可以體驗飛蛾盔的無上神奇力量雖然我不是數學家但這聽起來挺不錯的對吧
 [[/div]]
 
-[[div style="border: double 6px #47330b; background-image: radial-gradient(#e0caa2 60%, #e0caa2 ); padding-top: 1em; padding-right: 1em; padding-left: 1em; padding-bottom: 1em; margin-bottom: 1em; color: #710309;"]]
+[[div class="sign"]]
 **[[[SCP-3215|SCP-3215 - 美味的海葵]]]**
 美味的海葵，聖誕大餐的絕佳選擇。
 [[/div]]
 
-[[div style="border: double 6px #47330b; background-image: radial-gradient(#e0caa2 60%, #e0caa2 ); padding-top: 1em; padding-right: 1em; padding-left: 1em; padding-bottom: 1em; margin-bottom: 1em; color: #710309;"]]
+[[div class="sign"]]
 **[[[SCP-3487|SCP-3487 - 貓咪們認為世界繞著牠們轉]]]**
 一隻小型家貓，自已知歷史以來牠從未移動過，購買後可直接取走，雖然牠還是不會移動。
 [[/div]]
 
-[[div style="border: double 6px #47330b; background-image: radial-gradient(#e0caa2 60%, #e0caa2 ); padding-top: 1em; padding-right: 1em; padding-left: 1em; padding-bottom: 1em; margin-bottom: 1em; color: #710309;"]]
+[[div class="sign"]]
 **[[[SCP-6057|SCP-6057 - 砰先生]]]**
 「準備好了嗎？砰先生？」
 「好了，博士。」
@@ -125,7 +135,7 @@
 ++ **//扣下我的惡魔扳機**//
 [[/div]]
 
-[[div style="border: double 6px #47330b; background-image: radial-gradient(#e0caa2 60%, #e0caa2 ); padding-top: 1em; padding-right: 1em; padding-left: 1em; padding-bottom: 1em; margin-bottom: 1em; color: #710309;"]]
+[[div class="sign"]]
 **[[[SCP-6067|SCP-6067 - 回旋風]]]**
 Funtastic教授的回旋風盛大登場！
 只需要69塊9毛7就可以把回旋風以及三包補充包帶回家！
@@ -134,12 +144,12 @@ Funtastic教授的回旋風盛大登場！
 [[size 35%]]Funtastic教授在法律、道德與財政方面皆不負責任何因不慎使用回旋風或Funtastic教授產品而造成的受傷、死亡或財產損失事故，完整閱讀此文件即代表您已同意上述所有條款，並放棄自己的訴訟、抵制、抗議、聲請釋憲 等權利。[[/size]]
 [[/div]]
 
-[[div style="border: double 6px #47330b; background-image: radial-gradient(#e0caa2 60%, #e0caa2 ); padding-top: 1em; padding-right: 1em; padding-left: 1em; padding-bottom: 1em; margin-bottom: 1em; color: #710309;"]]
+[[div class="sign"]]
 **[[[SCP-8599|SCP-8599 - 死期已豹]]]**
 給所有新進基金會員工的提醒，如果你看到一頭象鼻海豹，且仍有餘力的話，請立刻掏出你的手機，在向你的愛人道別之後，雙手抱頭跪在地上等待死亡。嘿等等，那是亻—//**啊**//（海豹的叫聲
 [[/div]]
 
-[[div style="border: double 6px #47330b; background-image: radial-gradient(#e0caa2 60%, #e0caa2 ); padding-top: 1em; padding-right: 1em; padding-left: 1em; padding-bottom: 1em; margin-bottom: 1em; color: #710309;"]]
+[[div class="sign"]]
 **👑[[footnote]]2024年1月展出[[/footnote]][[[SCP-013-J|SCP-013-J - 究極智慧之烏賊]]]**
 聆聽聽聽聽！
 究極智慧之之之之之之烏烏烏烏賊賊賊賊賊的指示，否則，死亡將降臨到我們所有人頭上！
@@ -147,13 +157,13 @@ Funtastic教授的回旋風盛大登場！
 
 [[/div]]
 
-[[div style="border: double 6px #47330b; background-image: radial-gradient(#e0caa2 60%, #e0caa2 ); padding-top: 1em; padding-right: 1em; padding-left: 1em; padding-bottom: 1em; margin-bottom: 1em; color: #710309;"]]
+[[div class="sign"]]
 **[[[SCP-021-J|SCP-021-J - 邪惡 :(]]]**
 邪惡的水瓶，基本上就是場行為藝術。
 我們連原文能活多久都不知道，然後就翻了。
 [[/div]]
 
-[[div style="border: double 6px #47330b; background-image: radial-gradient(#e0caa2 60%, #e0caa2 ); padding-top: 1em; padding-right: 1em; padding-left: 1em; padding-bottom: 1em; margin-bottom: 1em; color: #710309;"]]
+[[div class="sign"]]
 **[[[SCP-2559-J|SCP-2559-J - 通往無限貓咪的傳送門]]]**
 貓貓貓喵喵，貓貓貓喵喵貓貓，
 喵貓貓貓喵，
@@ -163,7 +173,7 @@ Funtastic教授的回旋風盛大登場！
 貓貓喵。
 [[/div]]
 
-[[div style="border: double 6px #47330b; background-image: radial-gradient(#e0caa2 60%, #e0caa2 ); padding-top: 1em; padding-right: 1em; padding-left: 1em; padding-bottom: 1em; margin-bottom: 1em; color: #710309;"]]
+[[div class="sign"]]
 **[[[SCP-1551-EX|SCP-1551-EX - 豬先生]]]**
 嘿，我是說，牠可是Funtastic教授所出品的迷你先生中的一員誒。
 牠絕對會有一些異常能力的。
@@ -179,13 +189,13 @@ SCP-3301 - 基金會
 無權沉默（塔）
 ------
 ++ **其他**
-[[div style="border: double 6px #47330b; background-image: radial-gradient(#e0caa2 60%, #e0caa2 ); padding-top: 1em; padding-right: 1em; padding-left: 1em; padding-bottom: 1em; margin-bottom: 1em; color: #710309;"]]
+[[div class="sign"]]
 **[[[theme:wondertainment|Wondertainment博士外觀主題]]]**
 說實話我覺得它其實沒有很好看（（
 但是Wondertainment中心頁需要。
 [[/div]]
 
-[[div style="border: double 6px #47330b; background-image: radial-gradient(#e0caa2 60%, #e0caa2 ); padding-top: 1em; padding-right: 1em; padding-left: 1em; padding-bottom: 1em; margin-bottom: 1em; color: #710309;"]]
+[[div class="sign"]]
 **[[[dr-wondertainment-hub | Wondertainment博士中心頁]]]**
 𝐻𝑒𝑟𝑒 𝑖𝑠 𝑡ℎ𝑒 𝑐ℎ𝑖𝑙𝑑 𝑡ℎ𝑎𝑡 𝑦𝑜𝑢 𝑙𝑒𝑓𝑡 𝑏𝑒ℎ𝑖𝑛𝑑
 𝐻𝑒𝑟𝑒 𝑖𝑠 𝑡ℎ𝑒 𝑘𝑖𝑑 𝑤𝑖𝑡ℎ 𝑡ℎ𝑒 𝑐𝑢𝑟𝑖𝑜𝑢𝑠 𝑚𝑖𝑛𝑑
@@ -198,7 +208,7 @@ SCP-3301 - 基金會
 ------
 [[size larger]]**國際站翻譯**[[/size]]
 
-[[div style="border: double 6px #47330b; background-image: radial-gradient(#e0caa2 60%, #e0caa2 ); padding-top: 1em; padding-right: 1em; padding-left: 1em; padding-bottom: 1em; margin-bottom: 1em; color: #710309;"]]
+[[div class="sign"]]
 **[http://scp-int.wikidot.com/scp-zh-639 SCP-ZH-639 - Everything will be alright ]**
 @@ @@
 一切不會好起來的......但那也沒關係。
@@ -208,39 +218,38 @@ SCP-3301 - 基金會
 ------
 ++ **食物**
 
-[[div style="border: double 6px #47330b; background-image: radial-gradient(#e0caa2 60%, #e0caa2 ); padding-top: 1em; padding-right: 1em; padding-left: 1em; padding-bottom: 1em; margin-bottom: 1em; color: #710309;"]]
+[[div class="sign"]]
 **可頌**
 一種使用了大量奶油的半月形麵包，非常經典的法式食物。
 若是需要於對話中提及此品項的話，請將其稱為可頌或法文發音的Croissant，而非英文發音的Croissant，否則副店長可能會將您[數據刪除]。
 [[/div]]
 
-[[div style="border: double 6px #47330b; background-image: radial-gradient(#e0caa2 60%, #e0caa2 ); padding-top: 1em; padding-right: 1em; padding-left: 1em; padding-bottom: 1em; margin-bottom: 1em; color: #710309;"]]
+[[div class="sign"]]
 **吐司**
 麵包。
 對，麵包，我們想不到還有什麼其他能補充的資訊了。
 [[/div]]
 
-[[div style="border: double 6px #47330b; background-image: radial-gradient(#e0caa2 60%, #e0caa2 ); padding-top: 1em; padding-right: 1em; padding-left: 1em; padding-bottom: 1em; margin-bottom: 1em; color: #710309;"]]
+[[div class="sign"]]
 **牛粒**
 又被稱為台式馬卡龍，但它其實不是馬卡龍。
 一種全蛋打發做成的蛋黃小蛋糕，所以比起馬卡龍它其實更像手指餅乾。
 [[/div]]
 
-[[div style="border: double 6px #47330b; background-image: radial-gradient(#e0caa2 60%, #e0caa2 ); padding-top: 1em; padding-right: 1em; padding-left: 1em; padding-bottom: 1em; margin-bottom: 1em; color: #710309;"]]
+[[div class="sign"]]
 **芹菜麵包**
 --正常的麵包，但上—--
 --草泥馬，我跟你們說過多少遍了，給我把這該死的東西下架。--
 不要:)
 [[/div]]
 
-[[div style="border: double 6px #47330b; background-image: radial-gradient(#e0caa2 60%, #e0caa2 ); padding-top: 1em; padding-right: 1em; padding-left: 1em; padding-bottom: 1em; margin-bottom: 1em; color: #710309;"]]
+[[div class="sign"]]
 **奶油泡芙**
 [[[scp-zh-233|巫沙奈特工]]]的最愛。
 有香草、牛奶、草莓、巧克力及抹茶口味。
 [[/div]]
 
-
-[[div style="border: double 6px #47330b; background-image: radial-gradient(#e0caa2 60%, #e0caa2 ); padding-top: 1em; padding-right: 1em; padding-left: 1em; padding-bottom: 1em; margin-bottom: 1em; color: #710309;"]]
+[[div class="sign"]]
 **很多玉米麵包**
 玉米麵包，但是很多
 ++ 很多
@@ -274,7 +283,7 @@ SCP-3301 - 基金會
 > 擅長的領域為異常天文學，喜歡蒐集各類樂器[[footnote]]口琴是他的一生之愛，[[/footnote]]奇怪的是，他辦公室裡放著的樂器多以金屬材質為主，也因此被戲稱為「金屬製品」。外貌整體看起來偏男性，聲音中性，而且有人聽過他用女性的聲音說話，本人也並不願意透漏自己的性別，因此這件事至今仍未有一個答案。
 > 
 ------
-> **名字：**韋固禮，Taylors Hammer[[footnote]]諧音Talus （距骨aka你腳上的一塊小骨頭） Hammer（錘骨aka你耳朵上的一塊小骨頭）
+> **名字：**韋固禮，Taylors Hammer[[footnote]]諧音Talus （距骨aka你腳上的一塊小骨頭） Hammer（錘骨aka你耳朵上的一塊小骨頭）[[/footnote]]
 > **生日：**11/21
 > **性別：**原男，目前已不再適用
 > **職位：**Site-ZH-47--機動--駐站特遣隊長
