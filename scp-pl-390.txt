@@ -1,0 +1,53 @@
+[[include component:scp-meta-title-hiding css-style=classic]]
+[[include :scp-wiki:info:start]]
+原文：[http://scp-pl.wikidot.com/scp-pl-390 SCP-PL-390] [波蘭文]
+第一譯文：[https://scp-wiki.wikidot.com/scp-pl-390 SCP-PL-390] 尤里卡！
+作者：[[*user BlazingPie]]
+第一譯者：[[*user KubKac]]
+第二譯者：[[*user Frederica Bernkastel]]
+[[include :scp-wiki:info:end]]
+
+[[include component:image-block name=http://scp-pl.wdfiles.com/local--files/scp-pl-390/bagno.jpg|caption= Site-19測試室390-ϛ（人員廁室A13）。]]
+
+**項目編號：** SCP-PL-390
+
+**項目等急：** Thaumiel
+
+**特殊收容措施：** 由於大眾已在某種程度上得知SCP-PL-390的存在，且收容世界上所有廁室就後勤而言甚有難度，因此不可能且也無必要收容該異常。
+
+學術界正接受著對突然與意外發現/發明的監控。此類發現相關人員將接受訪談，並在出現SCP-PL-390現象的情況下，配合適當的掩蓋故事以施行記憶刪除。假訊息活動同樣適用於SCP-PL-390在歷史上的顯現。
+
+所有基金會主要站點廁室均應接受全面維護措施，鼓勵知曉SCP-PL-390存在人員在受控環境中觸發異常現象。若SCP-PL-390發生，特定顯現結果應記錄於[# 文件390-ʠ]中。
+
+SCP-PL-390相關資訊可由主要站點主任、倫理委員會管理層、紀錄與資訊安全管理部、O5議會自由索取。
+
+**描述：** SCP-PL-390是一種全球現象，即人類意識新概念形成與所有通稱為「廁室」地點間的關聯。SCP-PL-390的體現為新知識，突然且隨機地湧入使用廁室者的腦海中。發生機率取決於幾個因素：從事廁室中典型活動會增加顯現機會，形成知識會與個人一直在思考的主題相關。透過大量實驗發現，在深夜時分淋浴將使異常影響達到最大化。
+
+[[include component:image-block name=http://scp-pl.wdfiles.com/local--files/scp-pl-390/eureka.jpg|caption=多梅尼科．費蒂對阿基米德的描繪，約1620年。|align=left]]
+
+該異常在歷史上的首次紀錄，可上溯至敘拉古的阿基米德。在被希羅二世要求確認據稱由純金打造的王冠品質後，該員發現了阿基米德原理。阿基米德在洗澡時想出了這個問題的解決方案，使其發出了著名的「[[span class="ruby"]]尤里卡[[span class="rt"]]我發現了[[/span]][[/span]]！」呼喊。
+
+在之後的歷史中，已成功識別出許多SCP-PL-390的顯現。歷史研究部發現，SCP-PL-390於愛因斯坦發現相對論、普羅米修斯實驗室發明斯克蘭頓現實穩定錨原型、羅蘭．休謨博士發現本質促動三大定律、[[[[scp-pl-255|刪減內容]]]]、首任管理員撰寫SCP基金會宣言等時刻都發揮了作用。
+
+儘管基金會史很早就發現了SCP-PL-390，但在1909年，該異常實際成因在接下來60年間仍處於未知狀態。1967年，思想圈分析部完成了持續數年的項目，其目標為發現SCP-PL-390根源。確認了當阿基米德意識到解方的瞬間，思想圈因未知異常原因遭到削弱，導致其結構產生自發變化。在這次事件之後，廁室概念已經跟科學/社會突破概念直接拉近，SCP-PL-390的顯現即是兩個概念位置偶然波動，導致其短暫重疊的結果。
+
+自該次發現以來，基金會開始逐步控制使用SCP-PL-390的措施以實現其目標，最終制定了當前針對該異常的特殊收容措施。根據估計，自從將O5議會會議室改建為廁室以降，目前已經成功阻止了七十餘起K級情景。
+
+[[div class="footer-wikiwalk-nav"]]
+= << [[[SCP-PL-389]]] | SCP-PL-390 | [[[SCP-PL-391]]] >>
+[[/div]]
+
+[[include :scp-zh-tr:component:license-box
+|author=BlazingPie, translated by KubKac]]
+> **Filename:** bagno.jpg
+> **Name:** Bathtub, Southern Sun Cape Sun hotel, Cape Town (P1050143-Pano).jpg
+> **Author:** Matti Blume
+> **License:** CC BY-SA 4.0
+> **Source Link:** [https://commons.wikimedia.org/wiki/File:Bathtub,_Southern_Sun_Cape_Sun_hotel,_Cape_Town_(P1050143-Pano).jpg Wikimedia Commons]
+
+> **Filename:** eureka.jpg
+> **Name:** Domenico-Fetti Archimedes 1620.jpg
+> **Author:** Domenico Fetti
+> **License:** Public Domain
+> **Source Link:** [https://commons.wikimedia.org/wiki/File:Domenico-Fetti_Archimedes_1620.jpg Wikimedia Commons]
+[[include :scp-zh-tr:component:license-box-end]]
