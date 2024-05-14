@@ -1,0 +1,194 @@
+[[include :scp-wiki:theme:foxtrot]]
+[[include component:scp-meta-title-hiding css-style=classic| showing-title=代號：所有人的提案]]
+
+[[=]]
+[[include info:start]]
+**代號：所有人的提案 -  D-I-WHY？！**
+**作者：**[[*user MisterFrown]]，[[*user Ihp]]
+**原文：**[https://scp-wiki.wikidot.com/everyone-s-proposal CODENAME: Everyone's Proposal - D-I-WHY?!]
+**譯者：**[[*user Kikunai]]
+[[include info:end]]
+[[/=]]
+
+[[div class="addendum" style="background: url(http://scp-wiki.wdfiles.com/local--files/mcdoctorate-s-proposal/raisalogo4.png) right center no-repeat; background-color: #f6f6c6; margin-top: 30px; margin-bottom: 30px;"]]
+
+[[=]]
+++ 來自基金會紀錄及資訊安全管理部的通知
+[[/=]]
+
+----
+
+好，老實說，我已經對最近為001空位而遞交的大量提案，以及為了詢問這些提案配不配SCP-001空位而向我發垃圾電郵的所有人感到厭煩。如果你認為寫一篇成功的001很簡單，那你他媽的在下面寫出來。O5的直接提交渠道甚麼的已包括在內。他們現在開始會處理的。我真的不在乎。
+
+本事項視為已解決。
+
+= — Maria Jones， RAISA主管
+
+[[/div]]
+
+[[div style="height: 5px"]]
+[[/div]]
+
+[[=]]
++ 請在下面提交你的新提案：
+[[/=]]
+
+[[html]]
+
+  <div><textarea rows="15" style="width:95%;" id="fakepost" onkeypress="description()" wrap="hard">
+</textarea>
+  </div>
+</div>
+[[/html]]
+
+[[div style="height: 10px"]]
+[[/div]]
+
+[[div class="buttonthing"]]
+[[span class="blink"]]
+
+[[html]]
+
+<body>
+
+<div id="buttonthing">
+<button onclick="myFunction(); refreshPage();"><h1>遞交提案？</h1></button>
+</div>
+
+<script>
+
+function refreshPage(){
+    window.location.reload();
+}
+var randomStrings = [
+
+"錯誤：看起來感覺不像一篇001。",
+"錯誤：提到的關注組織太少。",
+"錯誤：提到的關注組織太多。",
+"錯誤：太多錯字。",
+"錯誤：格式錯亂。",
+"錯誤：你不是頭十位的作者。",
+"錯誤：這很明顯是你上回D&D的設定直接搬過來的SCP。",
+"錯誤：聞起來像青春氣息。",
+"錯誤：太同人文了。",
+"錯誤：太覺醒了",
+"錯誤：不夠覺醒。",
+"錯誤：未能通過貝克德爾測驗。",
+"錯誤：另一個世界的你已經有五份001提案。",
+"錯誤：不夠作者化身。",
+"錯誤：你沒有用CSS。",
+"錯誤：CSS醜得會他媽的弄盲雙眼。",
+"錯誤：ACS代碼無效。",
+"錯誤：不是這樣念'Keter"的。",
+"錯誤：所有O5正在上廁所。",
+"錯誤：這很明顯是你的原創角色。",
+"錯誤：這不僅是你的原創角色，還很可能是你的獸設。",
+"錯誤：我在《第十三號倉庫》其中一集已經看過這玩意。",
+"錯誤：從你的想像中抄襲。",
+"錯誤：世界是一隻吸血鬼。",
+"錯誤：討伐體制樂團。",
+"錯誤：001提案沒有包含今天的秘詞：陰柔甲。",
+"錯誤：001提案沒有包含今天的秘詞：Pickman。",
+"錯誤：001提案沒有包含今天的秘詞：布魯克林。",
+"錯誤：SCP真。",
+"錯誤：我需要剪刀61。",
+"錯誤：字數並不是69的倍數或因數。",
+"錯誤：含有Terry Pratchett的捏他。",
+"錯誤：含有哈利波特的捏他。",
+"錯誤：字數未達下限。",
+"錯誤：你不是白金會員俱樂部的成員。",
+"錯誤：含有不符合CC授權的捏他。",
+"錯誤：已封禁。",
+"錯誤：沒有人知道這是啥的捏他。",
+"錯誤：你看得太少SCP。",
+"錯誤：你看得太少基金會故事。",
+"錯誤：你還沒DV這篇SCP。",
+"錯誤：你是高級站務工作人員。",
+"錯誤：你在上一回說謊自己擲了Nat 20，你這混——",
+"錯誤：異常未符合CC授權。",
+"錯誤：未偵測到圖片。",
+"錯誤：在天上就有了爭戰。",
+"錯誤：非怪物的法術需要多1個Cost才能施展。",
+"錯誤：偵測到串連共振現象", 
+"錯誤：未能偵測互動元素。",
+"錯誤：我不是說你用了AI，但但考慮到今年年初以來這維基的狀況，我不想冒險。",
+"錯誤：你沒有為維基裏任何一個世界線寫文。",
+"錯誤：太長，沒讀。",
+"錯誤：伺服器因某人在不斷在空格填水伊布複製文而中斷運作。",
+"錯誤：未能偵測表符。",
+"錯誤：不是數字",
+"錯誤：不是字母。",
+"沒有錯誤！只是開玩笑而已。如果我們真的讓人在這投稿就大麻煩了。",
+"錯誤：你沒有買SCP基金會的官方NFT，所以不能投001。",
+"錯誤：Chaos Insurgency IP detected. 已偵測屬於混沌反叛軍的IP位址。",
+"錯誤：已偵測不相容的時間線。"
+];
+
+const text = randomStrings[Math.floor(Math.random() * randomStrings.length)]
+
+function myFunction() {
+  alert(text + " Try Again.");
+
+}
+
+</script>
+
+</body>
+[[/html]]
+
+[[/span]]
+[[/div]]
+
+@@@@
+@@@@
+
+[[module CSS]]
+
+:root{
+  --header-title: "SCP FOUNDATION";
+  --head-font: var(--ui-font);
+}
+
+.addendum {
+    border:solid 2px #999999;
+    background:#F5F5F5;
+    width:84%;
+    padding:1px 15px;
+    margin: 10px auto;
+}
+
+.footnotes-footer {
+display:none;
+}
+
+.buttonthing {
+  display: flex;
+  justify-content: center;
+}
+
+.blink {
+  animation: blink 1.8s infinite;
+}
+
+@keyframes blink {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+
+.buttonthing {
+  -ms-transform: translateX(15%);
+  transform: translateX(15%);
+}
+
+}
+
+[[/module]]
