@@ -69,8 +69,9 @@ body {
 [[/module]]
 
 [[include info:start]]
-**設定作者：**[[*user Semibreve]]
-**授權資訊：**本圖像由[https://www.facebook.com/profile.php?id=100005733160520 潘姸均]創作並以CC BY-SA 4.0授權使用。
+**繪師：**[[*user 6u6]]
+**原案作者：**[[*user Semibreve]]
+**授權資訊：**本圖像由[https://www.facebook.com/profile.php?id=100005733160520 潘姸均]/[[*user 6u6]]創作並以CC BY-SA 4.0授權使用。
 [[include credit:cc4]]
 [[include info:end]]
 [[=]]
