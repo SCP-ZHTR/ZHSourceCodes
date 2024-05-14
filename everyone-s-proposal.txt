@@ -51,10 +51,6 @@
 
 <body>
 
-<div id="buttonthing">
-<button onclick="myFunction(); refreshPage();"><h1>遞交提案？</h1></button>
-</div>
-
 <script>
 
 function refreshPage(){
@@ -79,7 +75,7 @@ var randomStrings = [
 "錯誤：你沒有用CSS。",
 "錯誤：CSS醜得會他媽的弄盲雙眼。",
 "錯誤：ACS代碼無效。",
-"錯誤：不是這樣念'Keter"的。",
+"錯誤：不是這樣念\"Keter\"的。",
 "錯誤：所有O5正在上廁所。",
 "錯誤：這很明顯是你的原創角色。",
 "錯誤：這不僅是你的原創角色，還很可能是你的獸設。",
@@ -120,18 +116,24 @@ var randomStrings = [
 "錯誤：不是字母。",
 "沒有錯誤！只是開玩笑而已。如果我們真的讓人在這投稿就大麻煩了。",
 "錯誤：你沒有買SCP基金會的官方NFT，所以不能投001。",
-"錯誤：Chaos Insurgency IP detected. 已偵測屬於混沌反叛軍的IP位址。",
+"錯誤：已偵測屬於混沌反叛軍的IP位址。",
 "錯誤：已偵測不相容的時間線。"
 ];
 
 const text = randomStrings[Math.floor(Math.random() * randomStrings.length)]
 
 function myFunction() {
-  alert(text + " Try Again.");
+  alert(text + "請重試。");
 
 }
 
 </script>
+
+
+<div id="buttonthing">
+<button onclick="myFunction(); refreshPage();"><h1>遞交提案？</h1></button>
+</div>
+
 
 </body>
 [[/html]]
@@ -145,7 +147,8 @@ function myFunction() {
 [[module CSS]]
 
 :root{
-  --header-title: "SCP FOUNDATION";
+  --header-title: "SCP基金會";
+  --header-subtitle: "控制 收容 保護";
   --head-font: var(--ui-font);
 }
 
