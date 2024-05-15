@@ -1,5 +1,5 @@
+[[include component:scp-meta-title-hiding css-style=bhl]]
 [[include theme:black-highlighter-theme]]
-[[include component:scp-meta-title-hiding css-style=classic]]
 [[include info:start]]
 **SCP-4641 - 得到線索**
 **原文：**[https://scp-wiki.wikidot.com/scp-4641 SCP-4641]  - Get a Clue
