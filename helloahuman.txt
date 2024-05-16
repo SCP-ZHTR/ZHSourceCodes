@@ -1,6 +1,6 @@
-[[include :scp-zh-tr:theme:basalt darkmode=a|centertitle=a]]
+[[include :scp-sandbox2-zh:draft:site-zh-10000-theme]]
 [[include :scp-zh-tr:component:fade-in speed=1]]
-[[include :scp-sandbox2-zh:draft:toolbox basicsetting=a|showtitle=a]]
+
 [[module CSS]]
 :root {
      --header-title: "謬域";
