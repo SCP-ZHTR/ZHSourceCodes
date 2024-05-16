@@ -67,6 +67,8 @@ ol {
 我終於有作者頁了！！！ 
 [[include :scp-zh-tr:component:author-label-source end=--]]
 
+@@ @@
+
 [[tabview]]
 [[tab 你是誰？]]
 敝人生菜（[[*user helloahuman]]），一個新人作者，有時候不太活躍，很高興能在這裏發作者頁！[[footnote]]這到底是什麼爛自我介紹（好害羞啊啊啊啊啊）[[/footnote]]
@@ -92,7 +94,7 @@ ol {
 [[/tab]]
 [[tab 還有呢？]]
 
-+ 感謝
++ 感謝（不分順序）
 
 * [[*user vomiter]]
 * [[*user Dr V Valentine]]
@@ -101,6 +103,7 @@ ol {
 * [[*user Adev Drafaski]]
 * [[*user Frederica Bernkastel]]
 * [[*user Pao Mian]]
+* [[*user Kikunai]]
 * 其他以來支持還有幫助我的人！（傷感情發言）
 
 
@@ -122,6 +125,20 @@ ol {
 @@ @@
 @@ @@
 @@ @@
++++ 這是什麼外觀主題？
+
+**答：** 
+這是我基於[https://scp-wiki.wikidot.com/theme:minimalist-bhl Minimalist BHL]改造出來的暗色版[http://scp-sandbox2-zh.wikidot.com/draft:site-zh-10000-theme 外觀主題]，再加上從[http://scp-zh-tr.wikidot.com/scp-zh-868 SCP-⊛❂❍◌]複製而來的星星。
+
+主要是用於之後可能會建立的Site-ZH-♔，一個超現實部、非現實部、高病態概念部門等炫酷部門的繁中集合站點，如果真的建立起來的話應該會是專用外觀主題。
+
+如果想使用這個外觀主題的話，只需要在文章中加入：
+> @@[[include :scp-sandbox2-zh:draft:site-zh-10000-theme]]@@
+有任何建議或者問題的話歡迎以任何方式私訊我。如果有人用的話我會很高興的！
+
+@@ @@
+@@ @@
+@@ @@
 [!-- 在這裏加入新問題！ --]
 +++ 想新增問題？
 
@@ -129,7 +146,7 @@ ol {
 沒問題的！
 按下面這個格式編輯這個頁面就好了！
 [[code]]
-+++ （問題）
++++ （問題）　
 
 **答：**
 [[/code]]

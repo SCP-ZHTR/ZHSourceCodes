@@ -791,7 +791,7 @@ BAO
 
 ----
 
-= [[size 90%]] New Author Page will be released in May 2023. [[/size]]
+= [[size 0%]] New Author Page will be released in May 2023. [[/size]]
 
 [!--
 
