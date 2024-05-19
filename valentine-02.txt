@@ -37,7 +37,7 @@
 [[/tab]]
 
 [[tab 分級代碼檢測]]
-[[module ListPages category="." separate="no" tags="+SCP -safe -euclid -keter -thaumiel -apollyon -archon -無效化 -已廢除 -待分級 -機密分級 " perPage="250"]]
+[[module ListPages category="." separate="no" tags="+SCP -safe -euclid -keter -thaumiel -apollyon -archon -無效化 -已廢除 -待分級 -機密分級 -001提案 -已解明 -已歸檔 " perPage="250"]]
 # %%title_linked%%
 [[/module]]
 [[/tab]]
