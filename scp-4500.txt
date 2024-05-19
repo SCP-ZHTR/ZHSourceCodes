@@ -1,0 +1,383 @@
+[[include component:scp-meta-title-hiding css-style=classic]]
+[[include info:start]]
+原文：[https://scp-wiki.wikidot.com/scp-4500 SCP-4500] 蘇格拉底式收容措施
+作者：[[*user MathBrush]]
+譯者：[[*user Frederica Bernkastel]]
+[[include info:end]]
+
+[[html]]
+<style type="text/css">
+    body {
+     font-family:  verdana, arial, helvetica, sans-serif;
+     font-size: 12.8px; /* 16px * 0.8 */
+     color: #333;
+     line-height: 141%;
+    }
+    #classified-info, #meme-agent {
+     display: none;
+    }
+
+    blockquote {
+     border: 1px dashed #999;
+     padding: 0 12.8px;
+     background-color: #f4f4f4;
+    }
+    a {
+     color: blue;
+     cursor: pointer;
+     text-decoration: none;
+        font-size: 12.8 px;
+    }
+    .collapsed {
+     display: none;
+    }
+    h3 {
+     font-size: 150%;
+     font-weight: bold;
+     margin-bottom: 0;
+    }
+    h4 {
+     font-size: 130%;
+     font-weight: bold;
+     margin-bottom: 0;
+    }
+    .image-container.floatright {
+        padding-right: 0;
+        float: right;
+    }
+    tt{
+        font-family: 'Andale Mono', 'Courier New', Courier, monospace;
+        font-size: 98%;
+    }
+    .collapsed {
+     display: none;
+    }
+</style>
+<h3 style="text-align:center">對話人物</h3>
+<hr>
+[[/html]]
+
+* 敘述者
+* 讀者
+[[module ListUsers users="."]]
+    
+讀者角色將由%%title%%學者負責。
+[[/module]]
+
+場景位於收容措施檔案館中，全對話將由敘述者向讀者闡述。
+
+[[html]]
+<style type="text/css">
+    body {
+     font-family: verdana, arial, helvetica, sans-serif;
+     font-size: 12.8px; /* 16px * 0.8 */
+     color: #333;
+     line-height: 141%;
+    }
+    #classified-info, #meme-agent {
+     display: none;
+    }
+
+    blockquote {
+     border: 1px dashed #999;
+     padding: 0 12.8px;
+     background-color: #f4f4f4;
+    }
+    a {
+     color: blue;
+     cursor: pointer;
+     text-decoration: none;
+        font-size: 12.8 px;
+    }
+    .collapsed {
+     display: none;
+    }
+    h3 {
+     font-size: 150%;
+     font-weight: bold;
+     margin-bottom: 0;
+    }
+    h4 {
+     font-size: 130%;
+     font-weight: bold;
+     margin-bottom: 0;
+    }
+    .image-container.floatright {
+        padding-right: 0;
+        float: right;
+    }
+    tt{
+        font-family: 'Andale Mono', 'Courier New', Courier, monospace;
+        font-size: 98%;
+    }
+    .collapsed {
+     display: none;
+    }
+</style>
+<script type="text/javascript">
+
+var collapsibleLink = function(className) {
+    var collapsed = document.querySelectorAll("." + className + ".collapsed");
+    var expanded = document.querySelectorAll("." + className + ":not(.collapsed)");
+    var i;
+    for(i = 0; i < collapsed.length; i++) {
+        collapsed[i].classList.remove("collapsed");
+    }
+    for(i = 0; i < expanded.length; i++) {
+        expanded[i].classList.add("collapsed");
+    }
+}
+
+var hideBlock = function(blockName) {
+    var expanded = document.querySelectorAll("." + blockName + ":not(.collapsed)");
+    var i;
+    for(i = 0; i < expanded.length; i++) {
+        expanded[i].classList.add("collapsed");
+    }
+}
+
+var showBlock = function(blockName) {
+    var collapsed = document.querySelectorAll("." + blockName + ".collapsed");
+    var i;
+    for(i = 0; i < collapsed.length; i++) {
+        collapsed[i].classList.remove("collapsed");
+    }
+}
+</script>
+
+<h3 style="text-align:center">卷一：項目編號</h3>
+<hr>
+
+<div class="block1">
+<p><a onclick="collapsibleLink('block1');">讀者：此項目之歸定編號為何？</a></p>
+</div>
+
+<div class="block1 collapsed">
+
+<p><a onclick="collapsibleLink('block1');">讀者：此項目之歸定編號為何？</a></p>
+<p>敘述者：此項目之歸定編號乃4500。
+</p>
+
+<h3 style="text-align:center">卷二：安全等級</h3>
+<hr>
+<div class="block2">
+<p><a onclick="collapsibleLink('block2');">讀者：此項目之安全等級為何？
+</a></p>
+</div>
+
+<div class="block2 collapsed">
+<p><a onclick="collapsibleLink('block2');">讀者：此項目之安全等級為何？</a></p>
+<p>敘述者：此項目之安全等級乃Euclid。<p>
+
+<h3 style="text-align:center">卷三：特殊收容措施</h3>
+<hr>
+<div class="block3">
+<p><a onclick="collapsibleLink('block3');">讀者：此項目之特殊收容措施為何？
+</a></p>
+</div>
+
+<div class="block3 collapsed">
+<p><a onclick="collapsibleLink('block3');">讀者：此項目之特殊收容措施為何？</a></p>
+<p>敘述者：由於SCP-4500需由哲學思考接觸，是故SCP-4500知識僅供4級以上研究員與MTF 31-Pi​​「柏拉圖立體」成員親閱。描述SCP-4500之公共媒體應即刻銷毀，發現擁有SCP-4500知識之平民應受到D級記憶刪除。
+<p>
+<p>由於其異常效應，SCP-4500相關文件均需以蘇格拉底式對話呈現。為確保其穩定，SCP-4500收容措施應於群體對話中複述，由此展開對SCP-4500-1的沉思。
+<p>
+<div class="blockB">
+<p><a onclick="collapsibleLink('blockB');">讀者：如此，應如何研究此課題？
+</a></p>
+</div>
+<div class="blockB collapsed">
+<p><a onclick="collapsibleLink('blockB');">讀者：如此，應如何研究此課題？</a></p>
+<p>敘述者：MTF 31-Pi​​「柏拉圖立體」每週應於Site 28二級圖書館進行SCP-4500哲學探索。
+<p>
+<p>有意接觸SCP-4500之研究人員，應於4級經典哲學課程組獲得80%以上高分，並通過模因危害篩檢。首次參與人員應要求提供咖啡與餅乾。
+<p>
+<p>新SCP-4500-A實體應由至少三名MTF 31-Pi​​成員抄錄，比較與編輯抄錄內容，直至三人達成協議為止。
+
+<h3 style="text-align:center">卷四：描述</h3>
+<hr>
+<div class="block4">
+<p><a onclick="collapsibleLink('block4');">讀者：此項目之描述為何？
+</a></p>
+</div>
+
+<div class="block4 collapsed">
+<p><a onclick="collapsibleLink('block4');">讀者：此項目之描述為何？</a></p>
+<p>敘述者：SCP-4500是柏拉圖式理型。尤其是█████████ ███████████ █████（歸定為SCP-4500-1）精確概念之抽象化。與大多數理型概念不同，SCP-4500可透過哲學思想實現物理接觸。在蘇格拉底式對話促進下，對SCP-4500-1的集體沉思允許人員達到SCP-4500。
+<p>
+<p>透過沉思SCP-4500固有理型品質，可實現對SCP-4500之精神旅行，並透過集體討論與辯論促進之。
+<p>
+<div class="blockA">
+<p><a onclick="collapsibleLink('blockA');">讀者：然而在此旅行中能看見什麼？
+</a></p>
+</div>
+
+<div class="blockA collapsed">
+<p><a onclick="collapsibleLink('blockA');">讀者：然而在此旅行中能看見什麼？</a></p>
+<p>敘述者：就目前之探索而言，SCP-4500乃是「房間」概念之理型化。各房間體積與結構各不相同，材料包括括石頭、鉛、青銅。據信材料用於區別房間：「房間」僅是柏拉圖理型，「大青銅房間」與「小鉛房間」具有不同的柏拉圖理型。
+<p>
+<p>迄今為止，已探索房間均顯現出單個SCP-4500-A實體。所有SCP-4500-A實體均是個體間的理型對話。所有觀察者均以其偏好語言體驗該對話。
+
+<div class="blockC">
+<p><a onclick="collapsibleLink('blockC');">讀者：現在，告訴我此項目有何目的？</a></p>
+</div>
+
+<div class="blockC collapsed">
+<p><a onclick="collapsibleLink('blockC');">讀者：現在，告訴我此項目有何目的？</a></p>
+
+<p>敘述者：SCP-4500-A實體記錄顯示，此建築曾位於物質領域（鄰近希臘雅典），其用途與現代基金會相近。儘管部分抄錄之SCP-4500-A實體存在其過程之暗示，尚未釐清轉化為理型領域的確切方法（參閱下文實例4）。
+<p>
+<p>儘管對話暗示其存在，從未在探索期間發現SCP-4500-A實體描述之異常。將SCP-4500重歸定為Safe級的討論正在進行中，有待對內部的完整測繪。
+<h3 style="text-align:center">卷五：發現</h3>
+<hr>
+<div class="block5">
+<p><a onclick="collapsibleLink('block5');">讀者：此項目是如何發現的？
+</a></p>
+</div>
+
+<div class="block5 collapsed">
+<p><a onclick="collapsibleLink('block5');">讀者：此項目是如何發現的？
+</a></p>
+
+<p>敘述者：項目於19██/██/██，██████ █████ █████████與████████ ███████就開創作█████████ ███████████之哲學基礎激烈辯論期間發現。在辯論中，兩位哲學家顯然有機構想SCP-4500-1並討論其存在，使得兩人一同進入了SCP-4500。
+
+一週後，兩人在校級研討會上發表這個發現。駐███████大學數學系之基金會特工記錄了這場研討會。所有參與平民均接受了A級記憶刪除。
+
+<h3 style="text-align:center">卷六：SCP-4500-A實例</h3>
+<hr>
+<div class="block6">
+<p><a onclick="collapsibleLink('block6');">讀者：可否提供SCP-4500-A實例予我？
+</a></p>
+</div>
+
+<div class="block6 collapsed">
+<p><a onclick="collapsibleLink('block6');">讀者：可否提供SCP-4500-A實例予我？
+</a></p>
+<h4>實例1：</h4>
+<hr>
+<blockquote><p> 問：此歸定編號為何？
+<p>
+<p> 答：編號乃ΠΑΝ。
+<p>
+<p> 問：此為何等威脅？
+<p>
+<p> 答：其威脅為鐵級。
+<p>
+<p> 問：如何將其遏止？
+<p>
+<p> 答：ΠΑΝ應封印於鉛中。應隨時有二名自由民照看ΠΑΝ。對ΠΑΝ進行實驗前，應詢問Γ級以上學者。
+<p>
+<p> 任何情況下，嚴禁潘朵拉學者再度接觸ΠΑΝ。
+<p>
+<p> 問：ΠΑΝ描述為何？
+<p>
+<p> 答：ΠΑΝ是一個陶瓷罐，上有曾經繪製數個銀級威脅怪異之描繪，直接對應已知怪異___、___、___與三個認定為怪異之未知實體。
+<p>
+<p>艾比米修斯學者於_____，____發現ΠΑΝ。實驗顯示ΠΑΝ可使生物體儲存於靜止狀態。罐上繪畫會隨內容物改變，以作為其物體代表。
+<p>
+<p> 於潘朵拉學者之例行測試中，ΠΑΝ之遏止遭突破，釋放多個銀級威脅怪異。當日僅有一個（實體___）再遏止於ΠΑΝ之中。</blockquote>
+
+<h4>實例2：</h4>
+<hr>
+<blockquote><p> 問：此歸定編號為何？
+<p>
+<p> 答：編號乃ΠΥΘ。
+<p>
+<p> 問：此為何等威脅？
+<p>
+<p> 答：其威脅為銀級。
+<p>
+<p> 問：如何將其遏止？
+<p>
+<p> 答：所有不在第二學院展示ΠΥΘ知識之學者，均應溺斃於海洋。所有記述ΠΥΘ之卷軸均應焚毀，其灰燼應當完全打散。所有描繪ΠΥΘ之陶器均應銷毀，並將其磨為芥菜種子大小。
+<p>
+<p> 問：ΠΥΘ描述為何？
+<p>
+<p> 答：ΠΥΘ是非完美分數數字的知識。該知識最初是由畢達哥拉斯學者於計算等腰直角三角形斜邊長度時發現。ΠΥΘ知識屬於放射理型，能透過口頭與書面傳播。
+<p>
+<p> ΠΥΘ在初次接觸時會造成嚴重痛苦。</blockquote>
+
+<h4>實例3：</h4>
+<hr>
+<blockquote><p> 問：此歸定編號為何？
+<p>
+<p> 答：編號乃ΩΩΩ。
+<p>
+<p> 問：此為何等威脅？
+<p>
+<p> 答：其威脅為金級。
+<p>
+<p> 問：如何將其遏止？
+<p>
+<p> 答：ΩΩΩ應置入塔耳塔羅斯-Β深坑中，其深度不得少於二十斯塔達。
+<p>
+<p> 所有地震運動均應向宙斯學者報告，後者應向塔耳塔羅斯-Β投擲至少三道Ω雷電。若地震持續發生，指示宙斯學者直接與ΩΩΩ交戰。
+<p> 問：ΩΩΩ描述為何？
+<p>
+<p> 答：ΩΩΩ是人身實體，肩膀上有著一百個蛇型頭部。該生物所有頭部都能噴出火焰與雷霆。該生物具有強勁的生殖能力，已經產下了許多可憎之物，例如ΚΕΡ、ΥΔΡ、ΟΡΘ。
+<p>
+<p> ΩΩΩ若逃脫可能導致新地球與新宇宙誕生。限制ΩΩΩ是我們最大的理想。</blockquote>
+
+<h4>實例4：</h4>
+<hr>
+<blockquote><p> 問：此歸定編號為何？
+<p>
+<p> 答：編號乃ΠΛΑ。
+<p>
+<p> 問：此為何等威脅？
+<p>
+<p> 答：並非威脅。實乃英雄也。
+<p>
+<p> 問：如何將其遏止？
+<p>
+<p> 答：ΠΛΑ應由至少三名最高層學者為其待命。
+<p>
+<p> 若所有限制都失效，地球與宇宙的改變迫在眉睫，一名具有ΠΛΑ知識之最高層學者應將其制定。
+<p>
+<p> 問：ΠΛΑ描述為何？
+<p>
+<p> 答：ΠΛΑ是鎖鏈的斷裂。ΠΛΑ是木偶的燃燒與火焰的撲滅。ΠΛΑ即將走出洞穴步入光明。
+<p>
+<p> 在所有資源耗盡前，不得使用ΠΛΑ。</blockquote>
+
+<h4>實例5：</h4>
+<hr>
+此房間與其他房間不同，存在理型化的「小稻草床」。
+<blockquote><p>問：此住所屬於何人？
+<p>
+<p>答：此乃赫拉克勒斯學者之住所。
+<p>
+<p>問：赫拉克勒斯學者何在？
+<p>
+<p>答：邁加拉學者死後，赫拉克勒斯學者已分配予負責金級生物，以作為其魯莽行為之懲罰直到另行通知為止。</blockquote>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+[[/html]]
+
+[[footnoteblock]]
+
+
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[SCP-4499]]] | SCP-4500 | [[[SCP-4501]]] >>
+[[/=]]
+[[/div]]

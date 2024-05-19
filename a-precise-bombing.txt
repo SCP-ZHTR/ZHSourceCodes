@@ -1,0 +1,51 @@
+[[include :scp-zh-tr:theme:penumbra]]
+[[module css]]
+:root:lang(zh) {
+  --header-title: "SITE-ZH-50";
+  --header-subtitle: "Strike, Combat, Patrol";
+  --lgurl: url("https://i.imgur.com/FG2CzvR.png");
+  --accentColor: #69e1c5;
+}
+[[/module]]
+
+[[include :scp-zh-tr:info:start]]
+**作者：**[[*user samscript]]
+**標題：**精準轟炸
+= 參加 [[[escape-into-the-world-of-mortals|亡走塵寰]]] 活動
+= 使用卡牌：“可是我有六隻狼欸”
+
+[[include :scp-zh-tr:info:end]]
+
+他不曾成功精準轟炸。
+
+//你不上，七萬人會死。//
+
+下方，金色的凝膠酸蝕著 Site-ZH-59 外牆。
+
+屋內有七個人。
+
+@@ @@
+@@ @@
+
+「發射。」
+
+閃光劃破天際。
+
+樓房、怪物與他的未婚妻一起粉碎。
+
+@@ @@
+@@ @@
+@@ @@
+
+「收容完成。」
+
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+
+著陸，他接過地勤遞上的電話。
+
+「喂？」
+
+破涕為笑。
