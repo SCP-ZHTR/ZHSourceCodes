@@ -31,7 +31,13 @@
 [[/tab]]
 
 [[tab 區域代碼檢測]]
-[[module ListPages category="." separate="no" tags="+翻譯 -en -ru -ko -fr -pl -es -th -jp -de -it -ua -pt -cs -nd-da -nd-fo -nd-no -nd-sv -vn -tr -id -ar -int  -eo  -詮釋資料  -管理  -指導 " perPage="250"]]
+[[module ListPages category="." separate="no" tags="+翻譯 -en -ru -ko -fr -pl -es -th -jp -de -it -ua -pt -cs -nd-da -nd-fo -nd-no -nd-sv -vn -tr -id -ar -int -eo -ro -sl -la -詮釋資料  -管理  -指導 " perPage="250"]]
+# %%title_linked%%
+[[/module]]
+[[/tab]]
+
+[[tab 分級代碼檢測]]
+[[module ListPages category="." separate="no" tags="+SCP -safe -euclid -keter -thaumiel -apollyon -archon -無效化 -已廢除 -待分級 -機密分級 " perPage="250"]]
 # %%title_linked%%
 [[/module]]
 [[/tab]]
