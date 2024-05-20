@@ -1,0 +1,250 @@
+[[include :scpko:theme:the-buck-stops-here
+|scpformat=1
+|sa=SITE
+|en=1
+]]
+[[include component:scp-meta-title-hiding css-style=classic]]
+
+[[module CSS]]
+.page-rate-widget-box { float: right; }
+.page-rate-widget-box .rate-points { display: inline-block; font-size: 0; min-height: 13px; }
+.page-rate-widget-box .rate-points::before, .page-rate-widget-box .rate-points .number
+{ font-size: 13px; }
+.contentbox1 .page-rate-widget-box .rate-points::before { content: "評分 (rating): "; }
+.contentbox2 .page-rate-widget-box .rate-points::before { content: "評分 (rating): "; }
+.contentbox3 .page-rate-widget-box .rate-points::before { content: "rating: "; }
+.page-rate-widget-box .rate-points::before { font-size: 13px; content: "rating: "; }
+#comments-options-hidden a { font-size: 0; }
+#comments-options-hidden a::before { content: "See Comment"; font-size: 13px; }
+#page-info { font-size: 0; }
+#page-info::before, #page-info span { font-size: 11px; }
+#page-info::before { content: "page revision: null, last edited:" }
+.page-watch-options { display: none; }
+
+.licensebox .collapsible-block-link {
+    margin-left: 0.25em;
+    padding: 0.25em;
+    font-weight: bold;
+    opacity: 0.5;
+    color: inherit;
+    transition: opacity 0.5s ease-in-out;
+}
+
+.licensebox .collapsible-block-link:hover,
+.licensebox .collapsible-block-link:active {
+    opacity: 1;
+}
+
+a#edit-button { font-size: 0; }
+a#edit-button::before { font-size: 12px; content: "Edit"; }
+a#pagerate-button { font-size: 0; }
+a#pagerate-button span { font-size: 12px; }
+a#pagerate-button::before { font-size: 12px; content: "Rate ("; }
+a#pagerate-button::after { font-size: 12px; content: ")"; }
+a#tags-button { font-size: 0; }
+a#tags-button::before { font-size: 12px; content: "Tags"; }
+a#discuss-button { font-size: 0; }
+a#discuss-button::before { font-size: 12px; content: "Discuss (Now)"; }
+a#history-button { font-size: 0; }
+a#history-button::before { font-size: 12px; content: "History"; }
+a#files-button { font-size: 0; }
+a#files-button::before { font-size: 12px; content: "Files"; }
+a#print-button { font-size: 0; }
+a#print-button::before { font-size: 12px; content: "Print"; }
+a#site-tools-button { font-size: 0; }
+a#site-tools-button::before { font-size: 12px; content: "Site tools"; }
+a#more-options-button { font-size: 0; }
+a#more-options-button::before { font-size: 12px; content: "+ Options"; }
+
+#footer { font-size: 0; }
+#footer::before, #footer a, #footer .options { font-size: 10px }
+#footer::before { content: "Powered by "; }
+#footer .options a { font-size: 0; }
+#footer .options a::before { font-size: 10px }
+#footer .options a:nth-child(1)::before { content: "Help"; }
+#footer .options a:nth-child(2)::before { content: "Terms of Service"; }
+#footer .options a:nth-child(3)::before { content: "Privacy"; }
+#footer .options a:nth-child(4)::before { content: "Report a bug"; }
+#footer .options a:nth-child(5)::before { content: "Flag as objectionable"; }
+
+#license-area { margin: 8px 0; }
+#license-area, #license-area a, #license-area strong { font-size: 0; }
+#license-area strong::before {
+ font-size: 14px;
+ content: "🚫: Every contents of the SCP Foundation are not allowed for the children under 15.";
+}
+#license-area a::before {
+ font-size: 14px;
+ content: "Unless otherwise stated, the content of this page is licensed under ";
+ color: black;
+}
+#license-area a::after {
+ font-size: 14px;
+ content: "Creative Commons Attribution-ShareAlike 3.0 License";
+}
+[[/module]]
+
+[[div class="contentbox1"]]
+[[module Rate]]
+~~~~
+**項目編號 (Item #)：** SCP-173
+
+**項目等級 (Object Class)：** Euclid
+
+**特殊收容措施 (Special Containment Procedures):** 項目SCP-173始終應被收容於上鎖的收容間中。(Item SCP-173 is to be kept in a locked container at all times.) 若有人需要進入SCP-173的收容間，則一同進入者不得少於三人，門將在全員進入後再次上鎖。(When personnel must enter SCP-173's container, no fewer than 3 may enter at any time and the door is to be relocked behind them.) 直到全部人離開且收容間重新上鎖為止，至少有兩人必須與SCP-173保持直接的目光接觸。(At all times, two persons must maintain direct eye contact with SCP-173 until all personnel have vacated and relocked the container.)
+
+> 欸靠不是——這是啥鬼？
+
+> 怎了？這是SCP-173的項目文件啊。
+
+> 我不是說那個，我是問正文為啥會長這樣？
+
+> 是翻譯部那邊要求的，裡面的規定就這樣寫。你要看嗎？
+
+[[div class="quotebox" style="position: relative; width: 80%; max-width: 400px;"]]
+[[div style="background: url(http://scpko.wdfiles.com/local--files/scp-173-ko-j/translation_logo.png) center 50px / 200px no-repeat; opacity: 0.1; position: absolute; top: 0; bottom: 0; left: 0; right: 0; z-index: 4;"]]
+[[/div]]
+[[div style="position: relative; z-index: 5; text-align: center;"]]
++++ 翻譯規定 (Guideline)
+----
+@@@@
+@@@@
+@@@@
+自今日起，凡是我部的翻譯文件，皆必須在每句譯文的結尾處添加對應的原文。(From now on, every translated documents are to be written with their sentences in the original language side by side.)
+@@@@
+@@@@
+@@@@
+----
+++++ 翻 譯 部
++++++ (Translation Department)
+[[/div]]
+[[/div]]
+
+> 這——這是在開玩笑吧，不......不......為什麼會這樣？
+
+> 鬼才知道，但我好奇你對保留原文的看法？畢竟之前部門也因為翻譯問題而引發過不少糾紛，我想這樣的做法也比較好一些。
+
+> 是沒錯啦；但至少該考慮到易讀性吧，這是哪個部門改的？
+
+> 同樣是翻譯部改的，安啦——它們還在修稿，所以別太擔......呃......等一下，這又是啥？
+@@@@
+@@@@
+[[/div]]
+[[div class="contentbox2"]]
+@@@@
+@@@@
+[[module Rate]]
+~~~~
+
+**項目編號 (Item #)：** SCP-173-JP
+
+**項目等級 (Object Class)：** Euclid
+
+**特殊收容措施 (Special Containment Procedures)：** SCP-173-JP應儘可能小型化至可徹底破壞的程度，並收容於完全隔音的密室。(SCP-173-JP is to be downsized as much as possible by thorough destruction, and be contained in a completely soundproof locked chamber.) 目前確認SCP-173-JP已縮至總長30公分左右，但須注意不論其尺寸為何，仍能發揮其異常特性。(Currently, it has been confirmed that SCP-173-JP can be reduced in size to approximately 30cm in length. However, personnel should note that SCP-173-JP's anomalous properties are active regardless of its size.)
+
+> 這是日本分部那邊的項目文件，但它原文明明是日文啊？
+
+> 嗯......蠻奇怪的，我稍後把它改掉。
+
+> 再把剛剛那條規定傳給我看看。誰改成這樣的我是不知道啦，但假如翻譯部那邊的人也無視自己訂的規定，那該怎麼辦？
+
+> 確大實，重新傳上來了......嗯？它原本是長這樣的嗎？
+
+
+[[div class="quotebox" style="position: relative; width: 80%; max-width: 400px;"]]
+[[div style="background: url(http://scpko.wdfiles.com/local--files/scp-173-ko-j/translation_logo2.png) center 50px / 200px no-repeat; opacity: 0.1; position: absolute; top: 0; bottom: 0; left: 0; right: 0; z-index: 4;"]]
+[[/div]]
+[[div style="position: relative; z-index: 5; text-align: center;"]]
++++ 命令 (Direction)
+----
+@@@@
+@@@@
+@@@@
+自今日起，凡是我部的翻譯文件，皆必須在每句譯文的結尾處添加英文翻譯。(From now on, every translated documents are to be written with their //English// sentences side by side.)
+@@@@
+@@@@
+@@@@
+----
+++++ 翻 譯 部
++++++ (Translation Department)
+[[/div]]
+[[/div]]
+
+> 不——不是吧？當初寫的根本不是英文翻譯，而且當時的訊息也不是什麼命令啊。這不是剛才那個。還有背景那個Logo的「文」字不是應該要在左側嗎？
+
+> 對吧？真的是怪得離譜，我等等向翻譯部上報此事。
+
+> 你講的翻譯部到底是三小東西？
+
+> 蛤？不就是基金會內部專門翻譯文件的部門嗎？我以為那則通知已經寫的夠清楚了。
+
+> 幹你娘勒我們的工作就是翻譯文件，為啥還要特地搞一個部門出來你他媽智障吧？
+
+> 是這樣的話......那群人又是誰？
+
+> 我他媽怎麼會知道？天曉得是官僚危害還是外部入侵啥的，但它正在攻擊基金會的資料庫系統，趕緊去叫警衛過來！快！
+
+> 不可能的，這邊的警衛——我勒個玄天上帝這是三小狀況，我們內網的UI介面全被改成英文了！
+
+> 蛤？蛤？？靠北啊事情到底為啥會變成這樣！
+@@@@
+@@@@
+[[/div]]
+[[div class="contentbox3"]]
+@@@@
+@@@@
+[[module Rate]]
+~~~~
+
+**Item #:** SCP-173-KO
+
+**Object Class:** Euclid
+
+**Special Containment Procedures:** SCP-173-KO is located in the hill within the control area of the Site-58. The area is isolated from the outside by 3-meters-tall wire entanglements. It is to be disguised as a restricted area because of frequent accidents.
+
+[[div class="quotebox" style="position: relative; width: 80%; max-width: 400px;"]]
+[[div style="background: url(http://scpko.wdfiles.com/local--files/scp-173-ko-j/translation_logo3.png) center 55px / 200px no-repeat; opacity: 0.1; position: absolute; top: 0; bottom: 0; left: 0; right: 0; z-index: 4;"]]
+[[/div]]
+[[div style="position: relative; z-index: 5; text-align: center;"]]
++++ Declaration
+----
+@@@@
+@@@@
+@@@@
+From now on, every documents are to be written in //English// only.
+
+There will be no further communication.
+@@@@
+@@@@
+@@@@
+----
+++++ Anti-Xeno Department
+[[/div]]
+[[/div]]
+
+[[/div]]
+
+@@@@
+@@@@
+@@@@
+
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< ##b01|SCP-172-KO-J## | SCP-173-KO-J | ##b01|SCP-174-KO-J## >>
+[[/=]]
+[[/div]]
+
+[[div class="licensebox"]]
+[[collapsible show="‡ Licensing / Citation" hide="‡ Hide Licensing / Citation"]]
+Cite this page as:
+> "SCP-173-KO-J" by thd-glasses, from the [https://scpko.wikidot.com SCP-KO Wiki]. Source: https://scpko.wikidot.com/scp-173-ko-j. Licensed under [https://creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA].
+For more information, see [https://scpko.wikidot.com/licensing-guide Licensing Guide].
+**Licensing Disclosures**
+=====
+> **Filename:** translation-logo.png, translation-logo2.png, translation-logo3.png
+> **Author:** [[*user thd-glasses]]
+> **License:** CC BY-SA 3.0
+> **Source Link:** [https://scpko.wikidot.com/scp-173-ko-j SCP Foundation Korean Wiki]
+=====
+[[/collapsible]]
+[[/div]]
