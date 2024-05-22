@@ -34,7 +34,7 @@
 
 -----
 
-[[include component:image-block name=http://www.scpwiki.com/local--files/scp-3790/doorway3.jpg|caption=SCP-3790內部。]]
+[[include component:image-block name=http://scp-wiki.wikidot.com/local--files/scp-3790/doorway3.jpg|caption=SCP-3790內部。]]
 
 **特殊收容措施：** 通往SCP-3790的樓梯間的門應隨時上鎖，並在附近派駐一名警衛以確保無人進入SCP-3790。
 
