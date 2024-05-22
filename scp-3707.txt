@@ -1,0 +1,45 @@
+[[include component:scp-meta-title-hiding css-style=classic]]
+[[include info:start]]
+原文：[https://scp-wiki.wikidot.com/scp-3707 SCP-3707] 獨飛行於夜晚
+作者：[[*user Communism will win]]
+譯者：[[*user Frederica Bernkastel]]
+[[include info:end]]
+
+[[include :scp-zh-tr:component:pride-highlighter |inc-s9-lgbt-alt= --]]]
+
+[[div class="scp-image-block block-right" style="width:300px;"]]
+[[image https://scp-wiki.wdfiles.com/local--files/scp-3707/camry.png style="width:300px;"]]
+[[/div]]
+
+**項目編號：** SCP-3707
+
+**項目等級：** Euclid
+
+**特殊收容措施：** SCP-3707應收容於Site-81異常車輛調配場，使其接受必要維護以確保駕駛性能。
+
+**描述：** SCP-3707是一輛2002年豐田Camry汽車，車牌屬於明尼蘇達。當車上僅有一人，並在當地時間凌晨12時至3時之間駕駛車輛時，就會觸發異常特性。受影響者報告了輕微的強迫症狀，想要駕駛SCP-3707離開居住地，但心中並沒有最終目的地點。如果這種強迫效應持續了一小時以上，SCP-3707及其駕駛將在未受觀測時消失。而後SCP-3707將會出現在距離消失地點至少805公里的街道上，駕駛則會從此消失無蹤。
+
+所有受影響者親友（包括家人、同事等），都表現出對失蹤駕駛的漠不關心，不會有任何痛苦的表現，通常也不願意向當局通報此事。這些人聲稱自己「尊重」失蹤駕駛的決定，並無法或不願對此做出進一步的說明。
+
+在接下來的一週內，失蹤駕駛的群體、組織、人際關係角色將被其他人填補，其整體功能與幸福感並不會因此下降。其過程顯然不具有任何異常性。在三個月後，除非被提起，否則不會有人考慮駕駛失蹤之事。
+
+有時，SCP-3707會從收容中自行消失。每當這種情況發生時，最終將會回收到異常特性相同的不同車輛。上述情況至今已發生過4次。
+
+[[footnoteblock]]
+
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[SCP-3706]]] | SCP-3707 | [[[SCP-3708]]] >>
+[[/=]]
+[[/div]]
+
+[[include :scp-zh-tr:component:license-box
+
+]]
+=====
+> **Filename:** camry.png
+> **Author:** [[*user Communism will win]]
+> **License:** CC BY-SA 3.0
+> **Source Link:** [https://scp-wiki.wikidot.com/scp-3707 SCP Foundation Wiki]
+=====
+[[include :scp-zh-tr:component:license-box-end]]
