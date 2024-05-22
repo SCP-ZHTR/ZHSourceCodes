@@ -34,7 +34,7 @@
 [[/div]]
 
 [[include :scp-zh-tr:component:license-box
-
+|author=Communism will win
 ]]
 =====
 > **Filename:** camry.png
