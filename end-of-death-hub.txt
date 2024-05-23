@@ -192,7 +192,7 @@ html, body {
 # **[[[SCP-3984]]] - 用棍棒戳死神** by //Croquembouche//
 # **[[[omega-k|ΩK]]]** by //Croquembouche//
 # **[[[surgical-identity-perpetuation|請求批准完善大腦移植手術，以使身分恆定，並將其作為永生狀態下，高齡所致損傷之治療方案 ]]]** by //Veiedhimaedhr//
-# **[[[With The Reaper On Retirement]]]** by //Captain Kirby//
+# **[[[With The Reaper On Retirement|死神退休後的世界]]]** by //Captain Kirby//
 # **[[[the foundation wants a robot army|Tales Of The Ethics Committee: 5 Reasons The Foundation Wants A Robot Army]]]** by //Captain Kirby//, //OthellotheCat//, //Veiedhimaedhr// and //Croquembouche//
 # **[[[SCP-3448]]] - Halfterlife** by //Captain Kirby//
 
