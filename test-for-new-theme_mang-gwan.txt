@@ -1,5 +1,3 @@
-[[include :scp-sandbox2-zh:draft:6787405-5i-ls7uo1nh]]
-
 [[include :scp-sandbox2-zh:collab:scp-series-1-tales-edition]]
 
 
