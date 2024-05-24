@@ -1,0 +1,67 @@
+[[include component:scp-meta-title-hiding css-style=classic]]
+[[include info:start]]
+原文：[https://scp-wiki.wikidot.com/scp-2061 SCP-2061] 「本地一家庭慘遭一臺計算機噎死滅門」
+作者：[[*user Kate McTiriss]]
+譯者：[[*user Frederica Bernkastel]]
+圖片翻譯：[[*user CNBlack]]
+[[include info:end]]
+
+[[include component:image-block name=https://scp-wiki.wdfiles.com/local--files/scp-2061/calculator.jpg |caption=SCP-2061，照片於1981年實驗期間攝得。|width=300px]]
+
+**項目編號：** SCP-2061
+
+**項目等級：** Safe
+
+**特殊收容措施：** SCP-2061應收容於Site-76維安收容間的標準收容櫃。對SCP-2061的實驗與接觸已無限期擱置。未來對若要重啟SCP-2061實驗，將由夏普公司作為承包商聘用的基金會人員主導執行。
+
+3名還在世的2061受影響人員，正安置於2061-C文件所列之基金會下轄站外神經病院設施中。該機構將提供專業醫療協助，避免2061受影響者與任何個人向電子計算工具[[footnote]]自1979年SCP-2061首次收容以降，此類物品範圍急遽擴大，這包括了電話、PDA、乃至外建收容指引列出的所有物品。[[/footnote]]產生視覺接觸。
+
+**描述：** SCP-2061是一臺1970年代夏普牌ElsiMate EL-1185墊子列印隨身計算機。SCP-2061會對周圍20公尺範圍內，99%以上的人類[[footnote]]會受到這種強迫衝動影響的人被稱為2061易影響者。[[/footnote]]造成異常影響。若SCP-2061與觀測者之間有任何實體遮擋──即使是透明的──異常效應就會失效。事實證明，窗戶、塑膠袋等透明物體都足以阻止SCP-2061效應顯現。
+
+此強迫衝動不可抗拒，使人將所有個人向電子計算工具盡可能深地塞入自己的口腔。在SCP-2061轉入SCP基金會控制之下前，項目曾造成多起死亡與嚴重氣管損傷事故。
+
+SCP-2061認知危害似乎不會符合以下標準者造成影響：
+* **標準A：** 曾經領過夏普或其子公司報酬者。
+* **標準B：** 曾經與符合標準A者發生過無保護措施性行為[[footnote]]除直接體液接觸外，「無保護措施性行為」對SCP-2061免疫能力傳播的需求尚不清楚。當前基金會人口研究員建議做出更進一步的研究。[[/footnote]]者。
+
+與僅符合標準B者發生性關係並不能免疫SCP-2061影響，當前已有4名案例。
+
+對夏普公司進行高級主管訪談與檔案搜查後，未曾發現夏普與SCP-2061具有任何刻意聯繫。
+
+**發現：** 在一家五口依序將SCP-2061塞入口腔致死後，SCP-2061最初被翠登警察局回收。最初負責的警官R．艾倫──該員符合SCP-2061的免疫標準B──將SCP-2061裝入了密封證據袋中。這阻止他人發現SCP-2061的異常效應，直到該部門兩名調查人員因將SCP-2061自證據袋內取出，導致一人死亡、一人受傷為止，至此基金會接獲了通報。
+
+翠登地區的最初新聞報導，受到當地特遣隊609-Semkath「超級盃三」的刪減處理。以下是1976年《翠登時報》對首例已知2061事件的剪報摘錄。
+[[=]]
+[[image https://i.imgur.com/tVq4z92.png]]
+[[/=]]
+
+[[footnoteblock]]
+
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[SCP-2060]]] | SCP-2061 | [[[SCP-2062]]] >>
+[[/=]]
+[[/div]]
+
+[[include :scp-zh-tr:component:license-box
+|author=Kate McTiriss
+]]
+=====
+> **Filename:** calculator.jpg
+> **Name:** Vintage Sharp Elsimate EL-1185 Electronic Printing Pocket Calculator, Made In Japan
+> **Author:** Joe Haupt
+> **License:** CC BY-SA 2.0
+> **Source Link:** [[[https://www.flickr.com/photos/51764518@N02/15290206795/in/photolist-pi9iM6-faWdY8-99K5ah-oqm3jG-pgmY1q-eiCDFe-6Q2Zcu-d3BCZS-ga7hiR-ga7qaG-ga7re5-hLSzwS-ga7wn1-asns8M-8pNCSr-ga7u79-ga8HMH-ga84gN-hLSvRq-hLSUsg-ovsMHn-d3CZS9-d4YrfU-4DyY3-ojtTWG-dEoGu8-9SLySD-d3yffQ-4BowWC-hanZak-hao4dv-oBpUSc-hLS7au-7zBNt9-hLSAzU-6M6pRz-6M6rVx-6JSXxg-5YpV5H-4foZQS-dCQSMG-5Dic6R-554H6L-9SnqSM-nLyZ4w-9qrN1j-bHHPfn-bHHPQt-aftJUM-df5vg8|Link]]]
+
+> **Filename:** newsarticle.png
+> **Author:**  Kate McTiriss
+> **License:** CC BY-SA 3.0
+> **Source Link:** [[[http://scp-wiki.wikidot.com/scp-2061|SCP Wiki]]]
+> **Derivative of:**
+> ------
+> **Name:** View of new suburban brick and tile bungalow, Sydney Street Willoughby
+> **Author:** Powerhouse Museum
+> **License:** Public Domain
+> **Source Link:** [[[https://www.flickr.com/photos/24785917@N03/3507020450|Link]]]
+=====
+[[include :scp-zh-tr:component:license-box-end]]
