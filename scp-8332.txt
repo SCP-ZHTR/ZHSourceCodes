@@ -1,0 +1,101 @@
+[[include component:scp-meta-title-hiding css-style=classic]]
+[[include info:start]]
+原文：[https://scp-wiki.wikidot.com/scp-8332 SCP-8332] ⁠一小時能花上多少？
+作者：[[*user PoufyPoufson]]
+譯者：[[*user Frederica Bernkastel]]
+[[include info:end]]
+
+[[include :scp-zh-tr:theme:black-highlighter-theme]]
+[[include :scp-wiki:theme:isolated-terminal]]
+[[module css]]
+:root {
+  --accentColor: 235, 198, 96;
+  --darkColor: 40, 26, 8;
+}
+[[/module]]
+[[module css]]
+.footnotes-footer {
+    visibility: hidden;
+    height: 0;
+    padding: 0;
+    margin: 0;
+}
+[[/module]]
+
+[[include component:preview
+text=
+SCP-8332不存在可行的干涉計畫。這是無以避免的。
+]]
+
+[[include component:image-block
+| name=https://scp-wiki.wdfiles.com/local--resized-images/scp-8332/archive1/medium.jpg
+| caption=存檔。
+| width=45%
+]]
+
+**項目編號：** 8332
+
+**項目等級：** Apollyon
+
+**特殊收容措施：** SCP-8332-A與SCP-8332-B均已死亡。本文件主要用於歸檔目的，並無描述目前或曾經需要主動進行收容的異常。
+
+SCP-8332不存在可行的干涉計畫。這是無以避免的。
+
+**描述：** 美國東部時間2024年1月12日09時37分16秒，33歲的初級研究員約翰．馬勒（SCP-8332-A）突發全面心臟衰竭，同時出現了全身的嚴重自發鈍器傷害。受傷狀況包括：骨盆、股骨、脛骨破碎，左股動脈破裂，（骨盆碎片導致的）大腸、左腎、胃部、膀胱穿孔，頭骨、左臂骨折，左肺塌陷，左腳部分斷裂。
+
+------
+
+SCP-8332-A在瞬間死亡，這與當時的直接因果背景不符，使得該事件被暫時指定為異常，等待進一步的調查中。
+
+
+
+[[include component:image-block name=https://scp-wiki.wdfiles.com/local--files/scp-8332/archive2|align=center|width=100%|caption=存檔。]]
+
+日本標準時間2024年1月12日22時37分16秒，34歲的德克蘭．尤．拉米雷斯於日本大阪公寓外遭到酒駕司機撞死，傷勢包括左臂骨折，左肺塌陷，股骨與脛骨粉碎性骨折，左股動脈破裂，胃部、大腸、膀胱、左腎穿孔，骨盆破碎，頭骨骨折，左腳斷裂。拉米雷斯當即歸定為SCP-8332-B。
+
+日後展開了半綜合研究，交叉比對了SCP-8332-A與SCP-8332-B共有的醫療、專業等有紀錄的個人事件與經歷。（摘要、持續中）
+
+12-01-2024 - 死亡。
+31-12-2023 - 親吻了一名陌生人（相片連發）。
+17-12-2023 - 罹患支氣管炎。
+18-10-2023 - 因意外酒精中毒住院。
+16-10-2023 - 更換手機供應商（T-Mobile →）。
+15-10-2023 - 刪除並重裝Instagram達11次。
+12-10-2023 - 搬入新居單間公寓。
+23-09-2023 - 查詢個人貸款。
+16-06-2023 - 查詢聯合貸款。
+03-03-2023 - 申請變更納稅身分。
+29-08-2022 - 因腿部骨折住院。
+13-06-2022 - 搬進單臥室公寓（一位共同租客）。
+07-02-2022 - 母親去世。
+25-09-2021 - 因意外酒精中毒住院。
+
+------
+
+根據SCP-8332-A與SCP-8332-B在2016年至2021年間的活動，兩者表現出了高度一致的心理健康療育模式，並擁有同樣不穩定的就業模式。2016年以前的數據不穩定且不完整（待處理）。
+
+[[include component:image-block name=https://scp-wiki.wdfiles.com/local--files/scp-8332/archive3|align=left|width=45%|caption=存檔。]]
+
+自SCP-8332-A與SCP-8332-B私人物品回收之紀錄顯示，兩人對極端事態的認知考量都相當膚淺且不穩定，哈曼．沃特斯博士淺白地稱之為「片面的」。
+
+
+
+1994-2000年間，SCP-8332-A與SCP-8332-B都曾是榕溪小學的學童。研究結果顯示，這是兩個異常唯一有過持續人際互動的時間段，該校2000紀念冊條目與一句最高級評語[[footnote]] 「最好的永遠朋友！」[[/footnote]]證實了這點。
+
+@@ @@
+
+@@ @@
+
+
+[[include component:image-block name=https://scp-wiki.wdfiles.com/local--files/scp-8332/archive4|align=center|width=55%|caption=存檔。]]
+
+
+@@ @@
+
+@@ @@
+
+@@ @@
+
+@@ @@
+
+[[footnoteblock]]
