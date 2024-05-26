@@ -39,6 +39,9 @@ ol {
   font-style: italic;
 }
 /* excerpt border colors */
+.cyber {
+  --color: #545AA7;
+}
 .horror {
   --color: #781919;
 }
@@ -250,6 +253,23 @@ ol {
 @@ @@
 @@ @@
 [[tabview]]
+[[tab 科幻]]
+
+[[=]]
+> //假若未來真的到來的話：//
+[[/=]]
+[[div class="excerpt cyber"]]
+[[=]]
+++ [[[tanhony-s-proposal-ii|Tanhony的提案之二]]]
++++ 黑月
+（與[[*user Adev Drafaski]]合譯）
+------
+黑月是否嚎叫？
+黑月即為嚎叫。
+[[/=]]
+[[/div]]
+
+[[/tab]]
 [[tab 恐怖]]
 
 [[=]]
