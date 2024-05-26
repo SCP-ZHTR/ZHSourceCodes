@@ -4060,7 +4060,7 @@ Tryponikos <select>
 [僅限不潔陰影行動人員閱覽]" hide="- 已承認。憑證已獲認可。"]]
 ----
 [[div class="SitraAchra"]]
-{{**致：** [[span class="ruby"]][[[*http://scp-wiki.wikidot.com/kelipat | 喬西．佩雷斯中校]]][[span class="rt"]]Lt. Col. Josie Perez[[/span]][[/span]]，MTF ξ-8（「[[span class="ruby"]]魯殿靈光[[span class="rt"]]The Last to Fall[[/span]][[/span]]」），[[[*http://www.scp-zh-tr.com/scp-2480 | 不潔陰影行動]]]}}
+{{**致：** [[span class="ruby"]][[[*http://scp-wiki.wikidot.com/kelipat | 喬西．佩雷斯中校]]][[span class="rt"]]Lt. Col. Josie Perez[[/span]][[/span]]，MTF ξ-8（「[[span class="ruby"]]魯殿靈光[[span class="rt"]]The Last to Fall[[/span]][[/span]]」），[[[*http://www.scp-zh-tr.wikidot.com/scp-2480 | 不潔陰影行動]]]}}
 {{**自：** 喬安．基爾，RTF ο-14（「伊斯塔斯娘眾」），不潔陰影行動}}
 ----
 6013是一個死亡陷阱。您的判斷當然沒錯。
