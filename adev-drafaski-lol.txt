@@ -15,6 +15,26 @@
 ----
 [[include info:end]]
 
+@@ @@
+@@ @@
++++ 繁中重新發想計畫aka我沒靈感
+@@ @@
+@@ @@
+**2019**
+[[div class="blockquote"]]
+[[module ListPages created_at="2019" rating="<10" tags="+原創" limit="40" perPage="10" separate="no" order="rating"]]
+# %%created_at%% %%title_linked%% by %%created_by%% (%%rating%%)
+[[/module]]
+[[/div]]
+@@ @@
+@@ @@
+**2020**
+[[div class="blockquote"]]
+[[module ListPages created_at="2020" rating="<10" tags="+原創" limit="40" perPage="10" separate="no" order="rating"]]
+# %%created_at%% %%title_linked%% by %%created_by%% (%%rating%%)
+[[/module]]
+[[/div]]
+
 [[tabview]]
 [[tab 關於我]]
 Heuwow euwy one I'm Adev UwU
@@ -157,6 +177,11 @@ Adev給我去寫文
 [[*user Lostwhat]]
 [[*user EmptyName723]]
 [[*user helloahuman]] （沒錯生菜你也是其中一個，現在給我去寫文OwO）
+
+[[/tab]]
+[[tab 空白]]
+
+uwu
 
 [[/tab]]
 [[/tabview]]
