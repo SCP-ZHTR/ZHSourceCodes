@@ -177,6 +177,41 @@ display:none;
 
 掰掰。
 [[/collapsible]]
+
+[[module MailForm title="Report" to="Fallen_Truth"]]
+# name
+ * title: 稱呼
+ * type: text
+ * hint: 可填匿名
+ * rules:
+  * required: true
+# answer
+ * title: KEY
+ * rules:
+  * required: true
+  * minLength: 2
+# type
+ * title: 類別
+ * type: select
+ * hint: 測試
+ * options:
+  * a: A
+  * b: B
+  * c: C
+  * d: D
+  * e: E
+# question
+ * title: 問題
+ * type: textarea
+ * hint: 可能回答
+ * rules:
+  * maxLength: 100
+# quit
+ * title: 退出
+ * type: checkbox
+ * hint: 勾選此項視為放棄資格
+[[/module]]
+
 [[/tab]]
 [[/tabview]]
 
