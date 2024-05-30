@@ -19,7 +19,7 @@
 **描述：**SCP-ZH-888-J為一針對基金會資料庫生效的異常。
 
 
-> + Wondertainment博士的龍蝸牛限時特價中！
+> + [[[scp-111|Wondertainment博士的龍蝸牛™]]]限時特價中！
 
 如你們所見，項目主要表現為在資料庫的檔案內插入商業性廣告，根據內容推測，推送者應為GoI-386[[footnote]]Wondertainment博士[[/footn
 [[div class="blockquote"]]
