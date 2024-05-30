@@ -222,7 +222,7 @@ function myFunction() {
 媽的他為什麼還有18+的廣告，他們不是孩童產
 
 > 被廣告搞得心煩意亂嗎？
-> ++ 現在訂閱Wondertainment Premium即可享受無干擾的閱讀體驗。
+> ++ 現在訂閱Wondertainment Premium即可享受無干擾的閱讀體驗
 > 只需要點擊下方連結就可以立即得到兩個星期的免費試用！
 > [# http://wondertainment.com]
 
