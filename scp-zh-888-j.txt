@@ -241,7 +241,7 @@ function myFunction() {
 @@ @@
 > ++ **這是廣告先生的勝利**
 > 它成功打敗了邪惡的SCP基金會員工，所以現在就馬上下單吧！
-> 現在一起購買[[[scp-zh-489|火車先生®]]]還可以享有七折優惠喔！
+> 現在一起購買[[[scp-zh-489|火車先生®]]]還可以享有七折優惠！
 > 
 
 [[include :scp-zh-tr:component:license-box
