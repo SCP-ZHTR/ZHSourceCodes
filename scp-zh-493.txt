@@ -1,0 +1,388 @@
+[[include :scp-zh-tr:component:scp-meta-title-hiding]]
+
+[[include info:start]]
+作者：Pseudopoet
+篇名：「迷離」釉藥
+[[include info:end]]
+
+**項目編號：**SCP-ZH-493
+
+**項目等級：**Safe
+
+**特殊收容措施：**SCP-ZH-493-1與SCP-ZH-493-2應以不透明包材包裝，並分別保存在Site-ZH-12地下十樓的Safe級物品收容櫃與收容室中，且其周圍不得放置任何物品。保存SCP-ZH-493-2的收容室內不得以瓷磚鋪設地面或裝飾牆面、須以金屬或其他材質為之。若欲更換包材或進行測試，主持人以接受過認知阻抗（cognitohazardous resistance）訓練的人員為佳，或至少應牢記SCP-ZH-493-1與SCP-ZH-493-2的外觀與特徵。
+
+**描述：**SCP-ZH-493「迷離」釉藥，為一種亮光透明釉藥。分析顯示其成分為鈉長石45%、高嶺土7.5%、石英25%、碳酸鈣15%與未知物質7.5%。目前已知[[span class="ruby"]]大日本帝國異常事例調查局[[span class="rt"]]IJAMEA[[/span]][[/span]]為釉方的擁有者，還曾用開發其戰略應用。另外，繁廣化工很有可能擁有「迷離」釉藥的釉方，並具有將其商用的能力。
+
+SCP-ZH-493的異常效應必須經由表面燒釉的過程燒附在物品上才會顯現，目前已知曾以SCP-ZH-493表面燒釉處理的物品有花瓶（「寒梅花瓶」，編號為SCP-ZH-493-1）與瓷磚（「難得糊塗」瓷磚，編號為SCP-ZH-493-2）。SCP-ZH-493-1是一個直徑9公分、高15公分、外表以彩釉繪製一朵梅花的白色花瓶，其製作者已不可考，「寒梅花瓶」為其蒐集院之蒐集物備忘冊中的名稱。SCP-ZH-493-2是繁廣化工所生產的釉面瓷磚，有大理石瓷磚、木紋磚、瓷質壁磚等多種類型的產品，其表面除了以SCP-ZH-493進行處理，還以模具壓模出小篆的「擴」，其商品名為「難得糊塗」。
+
+以目視或透過攝影機直接觀察SCP-ZH-493處理的物品時，觀察者將受SCP-ZH-493的異常效應影響而忽視該物品與並列物品兩者的差異之處，進而將兩者視為相同物品。一同陳列的物品差異越小或越不易辨識，SCP-ZH-493的異常效應越強、且越快產生影響。若一同陳列的物品差異過大，經SCP-ZH-493處理的物品便會隱形。
+
+值得注意的是，SCP-ZH-493-2周圍4.5公尺至6公尺內的物品也會表現SCP-ZH-493的異常效應。若長期觀察SCP-ZH-493-2（5-8年以上），會使SCP-ZH-493的異常效應增強。
+
+在觀察SCP-ZH-493處理的物品前，應藉由文字敘述或照片認識並熟記其特徵，以避免立即受到SCP-ZH-493的異常效應影響；若已受到影響，停止觀察一段時間後便可解除，熟記特徵後即可順利觀察。然而，若因長期觀察SCP-ZH-493-2而受到異常效應影響，則無法藉由停止觀察解除。
+
+SCP-ZH-493的異常效應僅在透過視覺觀察時才會產生影響，因此無論觀察者是否受到影響，都可透過觸覺（或其他感官）觀察SCP-ZH-493處理的物品。
+
+**附錄一、SCP-ZH-493-1回收紀錄**
+[[include :shitake-crude-production:shushuin-format
+|type=3]]
+[[div class="shushuInner"]]
+
+++++ [[span]]寒梅花瓶[[/span]][[size 60%]]蒐集物備忘冊目錄第〇八八四號[[/size]]
+
+**昭和十一年一月蒐集。**由一名居住於台北州七星郡北投庄的陶匠製作。聽聞[[[taiwan-miracle-exposition|博覽會]]]將於昭和十年舉辦，便透過關係自行與台灣博覽會事務局異常展品部聯絡，提供本寒梅花瓶以換取財物報酬。
+
+**寒梅花瓶**是直徑9公分、高15公分、外表以彩釉繪製一朵梅花的花瓶，觀察者會忽視其與周遭物品不同之處、將兩者視為相同物品。本蒐集物之異常性質源自燒附於表面的釉藥，帝國異常事例調查局進一步調查研究後確定該釉藥具有戰略應用價值，將其命名為「迷離」，並已採取行動杜絕釉方外流的可能。
+
+**昭和十一年五月。**由於帝國異常事例調查局已掌握本蒐集物的異常本質，因此台灣博覽會事務局異常展品部在神異博覽會後將其交由蒐集院收藏，現保存於蒐集院第四儲藏庫。考慮到「迷離」釉藥的戰略應用價值，帝國異常事例調查局亦提供釉方之資料，請蒐集院協助調查其原料在台灣島上之礦藏。
+
+**昭和十二年一月。**帝國異常事例調查局決定將「迷離」釉藥投入應用，因此接手北投庄一帶的原料礦藏，並建立直屬帝國異常事例調查局之工坊。並請蒐集院繼續協助調查其他具開採價值的地點，以確保原料供應無虞。
+
+[[/div]]
+
+附註：本文件為蒐集院備忘冊中有關（即SCP-ZH-493-1）的內容，已譯為中文。蒐集院中有些成員不願意將異常武器化，因此私下將部分文件交予「[[[SCP-ZH-345|黃鶴]]]」，希望能找到不願意將異常武器化的組織與帝國異常事例調查局競逐這類異常，本文件為其中之一。然而最為關鍵的釉方為高度機密，無法一併交予「黃鶴」，需待適當時機。
+
+//事件ZH-493-1：1945年8月15日「玉音放送」後，基金會依據得到的情報判斷總督府、蒐集院等單位正陷入混亂中，是從蒐集院取得異常的最佳時機，闖入蒐集院時卻遭到帝國異常事例調查局伏擊，不但損失慘重、成功回收的也僅有SCP-ZH-493-1這類威脅較小的異常，甚至相關文件都只取得少許。//
+
+**附錄二、SCP-ZH-493-1實驗紀錄摘要**
+
+[[table  style="border-collapse:collapse; max-width: 600px;"]]
+[[row]]
+[[cell style="font-weight:bold;padding: .3em .7em; text-align: center; border: 1px solid black; background-color: silver; width: 20%;"]]
+第一次測試
+[[/cell]]
+[[cell style="font-weight:bold; padding: .3em .7em; text-align: center; border: 1px solid black; background-color: silver;"]]
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell style="text-align: center; padding: .3em .7em; border: 1px solid black"]]
+測試對象
+[[/cell]]
+[[cell style="border: 1px solid black; padding: .3em .7em;"]]
+D-12021、D-12022
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell style="text-align: center; padding: .3em .7em; border: 1px solid black"]]
+測試內容
+[[/cell]]
+[[cell style="border: 1px solid black; padding: .3em .7em;"]]
+將SCP-ZH-493-1與數個形制近乎完全相同、外表繪製綠竹的花瓶並列於實驗室內的桌上，指示D-12021進入實驗室拿取其中不同的花瓶，恢復原狀後再指示D-12022進入實驗室拿取外表繪製梅花的花瓶。
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell style="text-align: center; border: 1px solid black"]]
+結果
+[[/cell]]
+[[cell style="border: 1px solid black; padding: .3em .7em;"]]
+D-12021表示桌上都是長得一模一樣的白色花瓶，但D-12022可順利拿取SCP-ZH-493-1、並看得出其他花瓶外表繪製的是綠竹。
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell style="text-align: center; border: 1px solid black"]]
+註記
+[[/cell]]
+[[cell style="border: 1px solid black; padding: .3em .7em;"]]
+實驗開始時，孫凝華研究員透過攝影機監視實驗室內D-12021的動作，在接收到D-12021回報前便發現自己無法區分桌上哪個花瓶才是SCP-ZH-493-1。因此請來許瑜研究員接手實驗，後續監視工作交給警衛執行，並指示D級人員站在實驗室門前的攝影機回報。
+[[/cell]]
+[[/row]]
+[[/table]]
+
+[[table  style="border-collapse:collapse; max-width: 600px;"]]
+[[row]]
+[[cell style="font-weight:bold;padding: .3em .7em; text-align: center; border: 1px solid black; background-color: silver; width: 20%;"]]
+第二次測試
+[[/cell]]
+[[cell style="font-weight:bold; padding: .3em .7em; text-align: center; border: 1px solid black; background-color: silver;"]]
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell style="text-align: center; padding: .3em .7em; border: 1px solid black"]]
+測試對象
+[[/cell]]
+[[cell style="border: 1px solid black; padding: .3em .7em;"]]
+D-12021
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell style="text-align: center; padding: .3em .7em; border: 1px solid black"]]
+測試內容
+[[/cell]]
+[[cell style="border: 1px solid black; padding: .3em .7em;"]]
+先指示D-12021重覆第一次測試的內容，再指示D-12021拿取外表繪製梅花的花瓶。
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell style="text-align: center; border: 1px solid black"]]
+結果
+[[/cell]]
+[[cell style="border: 1px solid black; padding: .3em .7em;"]]
+重覆第一次測試內容時，D-12021一樣表示桌上的花瓶都長得一樣，經過指示後，D-12021依然未能順利拿取SCP-ZH-493-1。
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell style="text-align: center; border: 1px solid black"]]
+註記
+[[/cell]]
+[[cell style="border: 1px solid black; padding: .3em .7em;"]]
+休息一小時之後，孫凝華研究員先熟記SCP-ZH-493-1的文字描述再觀察實驗室內的布置，順利辨認出SCP-ZH-493-1。
+[[/cell]]
+[[/row]]
+[[/table]]
+
+[[table  style="border-collapse:collapse; max-width: 600px;"]]
+[[row]]
+[[cell style="font-weight:bold;padding: .3em .7em; text-align: center; border: 1px solid black; background-color: silver; width: 20%;"]]
+第三次測試
+[[/cell]]
+[[cell style="font-weight:bold; padding: .3em .7em; text-align: center; border: 1px solid black; background-color: silver;"]]
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell style="text-align: center; padding: .3em .7em; border: 1px solid black"]]
+測試對象
+[[/cell]]
+[[cell style="border: 1px solid black; padding: .3em .7em;"]]
+D-12022
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell style="text-align: center; padding: .3em .7em; border: 1px solid black"]]
+測試內容
+[[/cell]]
+[[cell style="border: 1px solid black; padding: .3em .7em;"]]
+維持第一次測試的布置，讓實驗開始前已得知SCP-ZH-493-1外觀的D-12022坐在桌前進行除了睡眠以外的日常作息，指示D-12022每小時拿取桌上外形不同的花瓶向許瑜研究員回報。
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell style="text-align: center; border: 1px solid black"]]
+結果
+[[/cell]]
+[[cell style="border: 1px solid black; padding: .3em .7em;"]]
+D-12022第三次準備回報時，開始有些猶豫；第五次準備回報時，D-12022無法順利拿取SCP-ZH-493-1。
+[[/cell]]
+[[/row]]
+[[/table]]
+
+[[table  style="border-collapse:collapse; max-width: 600px;"]]
+[[row]]
+[[cell style="font-weight:bold;padding: .3em .7em; text-align: center; border: 1px solid black; background-color: silver; width: 20%;"]]
+第四次測試
+[[/cell]]
+[[cell style="font-weight:bold; padding: .3em .7em; text-align: center; border: 1px solid black; background-color: silver;"]]
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell style="text-align: center; padding: .3em .7em; border: 1px solid black"]]
+測試對象
+[[/cell]]
+[[cell style="border: 1px solid black; padding: .3em .7em;"]]
+D-12021
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell style="text-align: center; padding: .3em .7em; border: 1px solid black"]]
+測試內容
+[[/cell]]
+[[cell style="border: 1px solid black; padding: .3em .7em;"]]
+將SCP-ZH-493-1與數個形制相同的蟠龍花瓶並列於實驗室內的桌上，指示D-12021進入實驗室拿取其中不同的花瓶。
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell style="text-align: center; border: 1px solid black"]]
+結果
+[[/cell]]
+[[cell style="border: 1px solid black; padding: .3em .7em;"]]
+D-12021表示桌上只有一模一樣的蟠龍花瓶，懷疑是否有不同的花瓶。許瑜研究員觀看文字紀錄加深印象後透過監視畫面觀察桌上布置，發現SCP-ZH-493-1仍然在桌上。
+[[/cell]]
+[[/row]]
+[[/table]]
+
+[[table  style="border-collapse:collapse; max-width: 600px;"]]
+[[row]]
+[[cell style="font-weight:bold;padding: .3em .7em; text-align: center; border: 1px solid black; background-color: silver; width: 20%;"]]
+第五次測試
+[[/cell]]
+[[cell style="font-weight:bold; padding: .3em .7em; text-align: center; border: 1px solid black; background-color: silver;"]]
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell style="text-align: center; padding: .3em .7em; border: 1px solid black"]]
+測試對象
+[[/cell]]
+[[cell style="border: 1px solid black; padding: .3em .7em;"]]
+D-12023
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell style="text-align: center; padding: .3em .7em; border: 1px solid black"]]
+測試內容
+[[/cell]]
+[[cell style="border: 1px solid black; padding: .3em .7em;"]]
+將SCP-ZH-493-1與一個形制近乎完全相同、外表繪製綠竹的花瓶並列於實驗室內的桌上，指示D-12023進入實驗室後回報他在桌上看到什麼。接著再指示D-12023上前摸索這兩個花瓶。
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell style="text-align: center; border: 1px solid black"]]
+結果
+[[/cell]]
+[[cell style="border: 1px solid black; padding: .3em .7em;"]]
+D-12023表示他看到兩個一樣的花瓶，但是摸起來卻不太一樣。
+[[/cell]]
+[[/row]]
+[[/table]]
+
+[[table  style="border-collapse:collapse; max-width: 600px;"]]
+[[row]]
+[[cell style="font-weight:bold;padding: .3em .7em; text-align: center; border: 1px solid black; background-color: silver; width: 20%;"]]
+第六次測試
+[[/cell]]
+[[cell style="font-weight:bold; padding: .3em .7em; text-align: center; border: 1px solid black; background-color: silver;"]]
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell style="text-align: center; padding: .3em .7em; border: 1px solid black"]]
+測試對象
+[[/cell]]
+[[cell style="border: 1px solid black; padding: .3em .7em;"]]
+孫凝華研究員
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell style="text-align: center; padding: .3em .7em; border: 1px solid black"]]
+測試內容
+[[/cell]]
+[[cell style="border: 1px solid black; padding: .3em .7em;"]]
+觀察SCP-ZH-493-1的照片並確認是否能辨識何者為SCP-ZH-493-1。
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell style="text-align: center; border: 1px solid black"]]
+結果
+[[/cell]]
+[[cell style="border: 1px solid black; padding: .3em .7em;"]]
+孫凝華研究員順利辨識出何者為SCP-ZH-493-1。
+[[/cell]]
+[[/row]]
+[[/table]]
+
+
+**附錄三、SCP-ZH-493-2回收紀錄**
+
+* SCP-ZH-493-2受害者訪談紀錄
+
+> **受訪者：**天已堂██會███會長
+> 
+> **採訪者：**孫凝華研究員
+> 
+> **前言：** 2000年，天已堂██會███會長設法聯繫到基金會探員，請求基金會協助排除他們遭遇的狀況。
+> 
+> **<紀錄開始>**
+> 
+> **孫凝華研究員：**你看起來不太好，我們就不客套了。你能說明一下你們所遭遇的狀況嗎？
+> 
+> **███會長：**簡單的說，我們越來越常找不到我們的家，有些成員甚至是已經找不到家好幾年了。
+> 
+> **孫凝華研究員：**找不到家？嗯...像失智症患者那樣找不到回家的路嗎？什麼時候開始有這個情況的？
+> 
+> **███會長：**大概兩三年前吧，開始有住在大樓的成員認不出自己的家。
+> 
+> **孫凝華研究員：**他們應該都記得地址吧？
+> 
+> **███會長：**記得，這就是奇怪的地方了，當我們根據地址帶他們到家門口的時候，他們能夠順利開門，可是會說「這裏每間都長得一樣、也沒有門牌」，但在我們眼裏，有些房間的門明明就不同、也都有門牌。
+> 
+> **孫凝華研究員：**後來怎麼辦？
+> 
+> **███會長：**我們總不能拿著鑰匙一間一間試過去。只能先用笨辦法，派兄弟幫助他們回家，後來倒是有個好一點的方法，讓其他人告訴他們該進第幾間的門，這樣就不一定要派人跟著。他們的家人也有一樣的狀況。
+> 
+> **孫凝華研究員：**然後呢？
+> 
+> **███會長：**對了，另外還有個笨方法，就是去其他地方住個幾天，之後依據地址就能找到位置了。
+> 
+> **孫凝華研究員：**這兩個方法聽起來都很麻煩。
+> 
+> **███會長：**沒錯。去年開始有住透天的成員找不到家，狀況跟之前一樣，我也是其中之一。有些本來能幫忙其他人回家的兄弟變得沒辦法幫上忙了，原本能加減用的笨方法也都沒效了。
+> 
+> **孫凝華研究員：**你的意思是，引導別人回家的人也變得認不出那個人的家了？
+> 
+> **███會長：**是的，可怕的是，有些人開始連門都找不到。他們說他們只看到一整面牆、沒有門。可是在其他人眼裏，牆還是牆、門還是門。
+> 
+> **孫凝華研究員：**我瞭解情況了，這情況真的很嚴重。話說你們用了什麼異常啊？
+> 
+> **███會長：**嗯......我們用了「難得糊塗」系列的瓷磚，透過關係跟繁廣化工買的。
+> 
+> **孫凝華研究員：**呃...當初為什麼會想用它？
+> 
+> **███會長：**我們是1990年才自立門戶的，我不知道███未來會不會有對我們不利的想法，才打算利用異常來自保。
+> 
+> **孫凝華研究員：**資訊不對稱確實容易取得奇效。你怎麼買到的？
+> 
+> **███會長：**我透過人脈提出自保的需求，後來有個跟我很熟的掮客告訴我，繁廣化工有一款叫「難得糊塗」的瓷磚可以令人忽視它與周遭物品的特徵。他認為我可以用這種瓷磚隱藏住所，讓人不那麼容易找到。
+> 
+> **孫凝華研究員：**你應該有問怎麼讓自己不受影響吧？
+> 
+> **███會長：**當然。他說熟記地址跟外觀，我們一開始也是那麼做的，但是近幾年卻不管用了。
+> 
+> **孫凝華研究員：**這方法簡單的令人起疑呢......。
+> 
+> **███會長：**現在想想，當時是有點急了，畢竟我們怎麼說也只是肉做的，急著想找自保的方法。不過他當時有帶我跟幾個兄弟去他其中一個家先測試過，不知道外觀的人如果沒有人引導、根本無法辨認那幾間房子的差別。另外我有稍微觀察過房子內部，那棟房子是長期有人在使用的，至少不是用來欺騙我們的樣品屋。基於對他的信任跟實地測試，我覺得是可以相信的。
+> 
+> **孫凝華研究員：**對了，能不能告訴我一些這個掮客的資訊？
+> 
+> **███會長：**欸......我忽然想不起來他的面孔，只記得他總是穿著白襯衫加黑西裝褲，就像常見的業務，但是遇到他的時候又能認得出來。
+> 
+> **孫凝華研究員：**好吧，活在帷幕下的人們有些特異本事倒也不奇怪，也或許是某個異常物品的效果。
+> 
+> **███會長：**噢，說到活在帷幕下的人們，他說這款瓷磚在異常社群還蠻暢銷的。
+> 
+> **孫凝華研究員：**很暢銷啊。謝謝你提供的資訊。我好像想到了什麼......。
+> 
+> （孫凝華研究員看了一下時間）
+> 
+> **孫凝華研究員：**正好時間差不多了，不如你先吃個便當休息一下，我順便驗證一個猜測。
+> 
+> //休息時間，研究員請來受過認知阻抗訓練的[已刪除資料]特工，讓他在不知情的情況下進行前述的第一次試驗，結果[已刪除資料]特工順利的辨認出兩者的不同。//
+> 
+> （休息後，訪談繼續進行）
+> 
+> **孫凝華研究員：**我驗證了一下，我想我可以理解為什麼他說的那麼輕描淡寫了。
+> 
+> **███會長：**怎麼說？
+> 
+> **孫凝華研究員：**我發現，接受過特別訓練的人，即使預先不知道特徵也不會馬上受到影響，那如果他有做預防措施，說不定可以長期不受影響。
+> 
+> **███會長：**啊...這...。算了。
+> 
+> **孫凝華研究員：**對了，你剛有提到這位掮客是你很信任的人吧，那你碰上狀況的時候怎麼是來找我們呢？
+> 
+> **███會長：**畢竟我們遇到麻煩了，事情沒有像他說的那麼簡單。有名有姓的組織可能還是比較有保障。
+> 
+> **研究員：**只是盡力而為。
+> 
+> **███會長：**那你們能幫我解決問題嗎？
+> 
+> **研究員：**不敢保證，但我們會盡力。
+> 
+> **<紀錄結束>**
+> 
+ 
+* SCP-ZH-493-2收容行動摘要
+
+> 1. 因為懷疑███會長所描述的異常現象與SCP-ZH-493-1有關，因此指示特工近距離拍攝受害者住所外部。發現瓷磚上除了紋理之外，還有小篆的「擴」字。
+> 
+> 2. 收容團隊以裝修的名義在██會受害者的住處施工，將所有SCP-ZH-493-2與外部可見的物品（例如門）拆下帶回，特工在拆除前將不透明包材貼在房屋外部欲拆除的物品上，避免人員在拆除時受其他未知效應影響。
+> 
+> 3. 帶回後測試發現，門這類尋常物品只有跟SCP-ZH-493-2並列時才會使周遭物品表現異常效應，因此僅需收容SCP-ZH-493-2。
+> 
+> 4. 如果使用完整的SCP-ZH-493-2進行測試，觀察者會難以分辨SCP-ZH-493-2與周圍瓷磚的差異，而且此一效應還會在SCP-ZH-493-2周圍4.5公尺至6公尺上的物品顯現。若是切下SCP-ZH-493-2的邊角進行測試，則異常效應只會使SCP-ZH-493-2與周圍的瓷磚難以區別。前述異常效應擴散的效果，推測可能與SCP-ZH-493-2表面壓出的「擴」字有關。
+
+* 後續發展摘要
+
+> 1. ██會受害者在SCP-ZH-493-2被拆除後，便能順利認出自己的住處。
+> 
+> 2. 基金會順利排除了██會所遭遇的問題，███會長十分感謝，表示願意與基金會合作[[footnote]]註：由於與基金會達成合作協議，因此刪減相關資訊，需要許可方能讀取。[[/footnote]]，基金會因此為██會提供一些常規的隱蔽手段以穩固雙方的合作關係。
+> 
+> 3. ███會長之後仍持續與該掮客保持聯繫，間接知道如果主動想跟繁廣化工購買某些産品，需要經過「引薦」，就像想購買某些知名品牌的精品一樣。不過沒有提過因為使用SCP-ZH-493-2而招來的災難。
+
+
+//孫凝華研究員的筆記：沒想到繁廣的手上也有SCP-ZH-493，當年未能在蒐集院中找到的資料與異常物品，或許不是都落在IJAMEA手上，也許黃鶴也帶走了一些，但，唉......。//

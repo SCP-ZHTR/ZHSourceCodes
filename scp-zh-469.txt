@@ -1,0 +1,199 @@
+[[include :scp-zh-tr:component:scp-meta-title-hiding]]
+[[include :scp-zh-tr:theme:basalt darkmode=a|wide=a|hidetitle=a|acs-itemnum=a]]
+[[module CSS]]
+div.terminal{
+    border: 1px solid black;
+    border: solid 3px #BBBBBB;
+    border-radius: 16px;
+    background-color: #131;
+/* 終端機上方的黑影 */
+    background-image:
+        radial-gradient(ellipse 1000% 100% at 50% 90%, transparent, #121);
+    background-position: center;
+    display: block;
+/* 終端機周圍的陰影 */
+    box-shadow: inset 0 0 10em 1em rgba(0,0,0,0.5);
+/* 避免掃描線產生一個滾輪 */
+    overflow:hidden;
+}
+div.terminal blockquote {
+    background-color: black;
+    border: double 3px #80FF80
+}
+div.scanline{
+    margin-top: -40%;
+    width: 100%;
+    height: 60px;
+    position: relative;
+    pointer-events: none;
+/* Safari 4.0 - 8.0 */
+    -webkit-animation: scan 12s linear 0s infinite; /* 你可能會想修改這裡，如果橫條移動的太快了，你可以加個5秒。 */
+    animation: scan 12s linear 0s infinite; /* 同上 */
+    background: linear-gradient(to bottom, rgba(56, 112, 82,0), rgba(56, 112, 82,0.1)) !important;
+}
+
+div.text{
+    color: rgba(128,255,128,0.8);
+    padding-left: 1.5em;
+    padding-right: 1.5em;
+    padding-top: 37%;
+    padding-bottom: 1.5em;
+    font-family: monospace;
+    font-size: 1.2em;
+    }
+
+/* Safari 4.0 - 8.0 */
+@-webkit-keyframes scan{
+    from{ transform: translateY(-10%);}
+    to{  transform: translateY(5000%);} /* 根據你所要的終端機長度，你可能需要調整這裡的數值。如果掃描線走到一半就停了，請增大第二個數值。*/
+}
+
+@keyframes scan{
+    from{ transform: translateY(-10%);}
+    to{  transform: translateY(5000%);} /* 同上。*/
+}
+
+div.text a {
+    color: #90EE90;
+    text-decoration: none;
+    background: transparent;
+}
+div.text a.newpage {
+    color: #90EE90;
+    text-decoration: none;
+    background: transparent;
+}
+div.text a:hover {
+    color: #131;
+    text-decoration: underline;
+    background-color: #80FF80;
+    padding: 1px;
+}
+div.text a:hover::before{
+content: "> ";
+}
+[[/module]]
+[[module CSS]]
+@import url('https://fonts.googleapis.com/css2?family=Coming+Soon&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+HK:wght@900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+Thai:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:wght@700&display=swap');
+
+.anterrak {
+font-family: 'Coming Soon', cursive;
+color:#ff6f6f;
+}
+
+.conscien {
+font-family: 'Noto Serif HK', 'Noto Serif Thai', 'Noto Serif', serif;
+color:#6f6fff;
+}
+[[/module]]
+[[module CSS]]
+.widebox {
+   display: flex; justify-content: center; align-items: center;
+}
+
+@media screen and (max-width: 640px) {
+  .widebox {
+    display: flex; justify-content: center; align-items: center;
+  }
+}
+.wideboxbody {
+   position: relative;
+}
+
+@media screen and (max-width: 640px) {
+  .wideboxbody {
+  }
+}
+
+.widebox2 {
+   width: 100vw;
+   max-width: 100vw !important;
+   position: relative;
+   left: calc(-50vw + 50%);
+   display: flex; justify-content: center; align-items: center;
+}
+
+@media screen and (max-width: 640px) {
+  .widebox2 {
+    width: 100vw;
+    max-width: 100vw !important;
+    left: calc(-50vw + 50%);
+    display: flex; justify-content: center; align-items: center;
+  }
+}
+  
+.wideboxbody2 {
+   width: var(--main-content-width);
+   max-width: var(--main-content-width) !important;
+   position: relative;
+   left: calc(-var(--main-content-width)/2 + 50%);
+}
+
+@media screen and (max-width: 640px) {
+  .wideboxbody2 {
+    width: var(--main-content-width);
+    max-width: var(--main-content-width) !important;
+    left: calc(-var(--main-content-width)/2 + 50%);
+  }
+}
+[[/module]]
+[[include info:start]]
+[[=]]
+//求慰不得，告慰不能。//
+[[/=]]
+----
+**作者：** [[*user edward-knave]]（[[[edward-knave|作者頁面]]]）
+**篇名：** SCP-ZH-469 - 酒單：Four Loko（Alcohol Menu: [*https://en.wikipedia.org/wiki/Four_Loko Four Loko]）
+**副題：** SCP-ZH-469 - 安特爾剌的孩子（Áanterrak Leux）
+**備註：** 繁中分部「[[[escape-into-the-world-of-mortals|亡走塵寰]]]」投稿，採用題目「第一使命」、效果「求慰不得，告慰不能」。[[[site-zh-16-4th-staff-restaurant-hub|酣夜櫻華系列]]]作品。
+[[collapsible show="+ 展開標籤列表" hide="- 隱藏標籤列表"]]
+Ａ：Addictive（成癮性）
+Ｂ：Bibliothetic（書庫）
+Ｃ：Cherry Blossom at Inebriated Night（酣夜櫻華）
+Ｄ：Doctor Makima（真紀博士）
+Ｅ：Escape into the World of Mortals（亡走塵寰）
+Ｆ：Foundation-made（基金會製造）
+Ｇ：Gravity（重力影響）
+Ｈ：Hallucination（幻覺）
+Ｉ：Infohazard（資訊危害）
+Ｊ：Jewelry（飾品）
+Ｋ：Keter
+Ｌ：Liquid（液體）
+Ｍ：Mimetic（擬態）
+Ｎ：Neurological（神經性）
+Ｏ：Original（原創）
+Ｐ：Parasitic（寄生性）
+Ｑ：＜未能填入＞
+Ｒ：Researcher Knave（Knave研究員）
+Ｓ：SCP
+Ｔ：Telepathic（心靈感應）
+Ｕ：Uncontained（未收容）
+Ｖ：Vibration（震動）
+Ｗ：Weapon（武器）
+Ｘ：＜未能填入＞
+Ｙ：＜未能填入＞
+Ｚ：＜未能填入＞
+
+＿：_First Directive（隱藏標籤——第一使命）
+[[/collapsible]]
+[[include info:end]]
+
+
+[[module ListPages  category="fragment" parent="." limit="1" order="created_at" offset="@URL|0"]]
+%%content%%
+[[/module]]
+
+[!--
+https://scp-zh-tr.wikidot.com/fragment:scp-zh-469-offset-0
+https://scp-zh-tr.wikidot.com/fragment:scp-zh-469-offset-1
+--]
+
+----
+[[include :scp-zh-tr:component:license-box
+|lang=ZH]]
+=====
+> 《SCP-7931 - X是「異質移植」（Xenotransplantation）》 由Arcydziegiel著作，由Edward_Knave翻譯於SCP繁體中文維基，譯本來源網址為：http://scp-zh-tr.wikidot.com/scp-7931 。其原文發表於SCP Wiki。原文來源：https://scpwiki.com/scp-7931 。授權方式為CC-BY-SA。
+[[include :scp-zh-tr:component:license-box-end]]
