@@ -13,7 +13,7 @@
 
 [[include component:scp-meta-title-hiding]]
 [[include info:start]]
-標題： SCP-ZH-412 失效求救
+標題： SCP-ZH-412 - 失效求救
 作者：[[*user Cursed Night]]
 ----
 亡走塵寰參賽作品。題目為「人之流」，並無使用任何卡牌。
