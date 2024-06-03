@@ -864,12 +864,12 @@ MSC-7「獌束」
 ||~ [[span class="ruby"]]Danger[[span class="rt"]]危險[[/span]][[/span]] ||= [[span class="ruby"]]SCP-ZH-312[[span class="rt"]][[span class="a-container"]]仁義禮智 _
 [[span class="a-lv1"]]東南西北[[/span]] _
 [[span class="a-lv2"]]仁義禮智[[/span]] _
-[[/span]][[/span]][[/span]] ||=  ||=  ||=  ||=  ||= 1/5 ||
+[[/span]][[/span]][[/span]] ||= [[span class="ruby"]]SCP-ZH-469[[span class="rt"]]酒單：Four Loko[[/span]][[/span]] ||=  ||=  ||=  ||= 2/5 ||
 ||~ [[span class="ruby"]]Critical[[span class="rt"]]極危[[/span]][[/span]] ||= [[span class="ruby"]]SCP-ZH-968[[span class="rt"]]基輔戰鬼顯現之時[[/span]][[/span]] ||= [[span class="ruby"]]SCP-ZH-964[[span class="rt"]][[span class="a-container"]]海鷗為何撤退？ _
 [[span class="a-lv1"]]海鷗為何撤退？[[/span]] _
 [[span class="a-lv2"]]公雞為何過路？[[/span]] _
 [[/span]][[/span]][[/span]] ||= [[span class="ruby"]]SCP-ZH-385[[span class="rt"]]子母巡弋飛彈MSC-7「獌束」[[/span]][[/span]] ||=  ||=  ||= 3/5 ||
-||~  ||~ 滿 載 ||= 3/5 ||= 3/5 ||= 2/5 ||= 1/5 ||
+||~  ||~ 滿 載 ||~ 滿 載 ||= 3/5 ||= 2/5 ||= 1/5 ||
 [[/div]]
 [[/tab]]
 [[tab 人事擷影]]
