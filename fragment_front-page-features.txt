@@ -1,6 +1,6 @@
 [[div id="featured"]]
 [[tabview]]
-[[tab 5月作品展出]]
+[[tab 6月作品展出]]
 
 [!-- Left block --]
 [[div class="feature-block"]]
@@ -10,12 +10,12 @@ SCP作品展出
 [[/div]]
 [[div class="panel-body"]]
 [[div class="feature-title"]]
-[[[*SCP-ZH-275|]]]
+[[[*scp-zh-981|]]]
 [[/div]]
 [[div class="feature-subtitle"]]
-作者：[[user  Lostwhat]]
+作者：[[user  AbyssDream]]
 [[/div]]
-SCP-ZH-275只能在人類嬰幼兒的體內產生，產生點為大腦，產生機率與結晶大小會隨著年齡增長而下降，八克拉以上的結晶只有在一周大以內的新生兒體內發現過，且目前未曾在年齡超過兩歲的人體中發現項目。
+SCP-ZH-981每次移動之時間規律尚未查明，唯一可得知的資訊為，該效應於接近清明節、中元節、農曆新年等中華傳統節日時會變得更為頻繁。
 [[/div]]
 [[div class="panel-footer"]]
 [[[*featured-scp-archive|查看以往展出的SCP作品]]]
@@ -29,14 +29,12 @@ SCP-ZH-275只能在人類嬰幼兒的體內產生，產生點為大腦，產生�
 [[/div]]
 [[div class="panel-body"]]
 [[div class="feature-title"]]
-[[[new-word|生字詞彙表]]]
+[[[assessing-the-possibility-of-using-scp-zh-621-patients-as-an|利用SCP-ZH-621感染者作為另類Elan-Vital Energy電池之可行性]]]
 [[/div]]
 [[div class="feature-subtitle"]]
-作者：[[user linrain0201]]
+作者：[[user Kikunai]]
 [[/div]]
-母親直視著他的眼睛。「有些人就算走錯了路，也還是可以回頭，換條路，繼續往前走。」
-　　「但是我們不行。」
-　　「所以你的每一步，都要走得慎重。」
+SCP-ZH-621患者在受控制的情況下的確可以作為EVE電池使用，亦沒有貯存上的問題。
 [[/div]]
 [[div class="panel-footer"]]
 [[[*featured-tale-archive|查看以往展出之故事]]]
@@ -52,13 +50,13 @@ SCP-ZH-275只能在人類嬰幼兒的體內產生，產生點為大腦，產生�
 [[/div]]
 [[div class="panel-body"]]
 [[div class="feature-title"]]
-[[[*scp-5655|]]]
+[[[*scp-8424|]]]
 [[/div]]
 [[div class="feature-subtitle"]]
-作者：[[user AnActualCrow]]
+作者：[[user J_V_G]]、[[user IndustryStandard]]
 譯者：[[user Frederica Bernkastel]]
 [[/div]]
-SCP-5655-1： 阿拉米女士，這是個多元宇宙法問題。儘管我樂於幫助你，但我實現願望的能力，不能延伸到你所在現實以外的事物。
+事件期間傷亡人數大幅攀升，迫使基金會發起部分疏散行動，先將受影響平民轉移至基金會運營的臨時救援營地，直到馬薩特蘭地區的全面封鎖結束為止。
 
 [[/div]]
 [[div class="panel-footer"]]
@@ -73,12 +71,12 @@ SCP-5655-1： 阿拉米女士，這是個多元宇宙法問題。儘管我樂於
 [[/div]]
 [[div class="panel-body"]]
 [[div class="feature-title"]]
-[[[*kimad-no-sikacawan|《太平洋異常民族誌：西加走灣篇》摘錄：諸島物語]]]
+[[[collected-item-no0665|第〇六六五號「思泉弄」]]]
 [[/div]]
 [[div class="feature-subtitle"]]
-作者：[[user SamScript]]
+作者：[[user ting129]]
 [[/div]]
-在神話中，女神多象徵慈愛、人性、陸地與生命，父神則代表殘暴、不解風情、海洋與力量。當地神話亦以此開枝散葉。
+思泉弄內部分居民擁有類似妖怪的能力，更可操作與製造具有異常效果的物品，在找尋蒐集物的能力方面，也有居民顯現高於蒐集院成員的感知和占卜能力。居民在長住於此後仍然保有進入此地前的記憶，可詳述他們進入此處的時間。
 [[/div]]
 [[div class="panel-footer"]]
 [[[*featured-Comprehensive-exhibition|查看以往的綜合展出]]]

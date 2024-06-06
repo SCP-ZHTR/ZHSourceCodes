@@ -27,7 +27,7 @@
 [[tabview]]
 [[tab 歡迎文]]
 [[=]]
-[[image https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fk.kakaocdn.net%2Fdn%2FCjlIt%2FbtroSsM5l0h%2FbFE5oKBYDZz2kQRf4Mp2D0%2Fimg.png width="100px"]]
+[[image http://scpko.wdfiles.com/local--files/midnight-club-hub/midautom.png width="100px"]]
 [[/=]]
 
 ------

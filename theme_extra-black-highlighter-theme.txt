@@ -32,6 +32,15 @@
     padding: 0.5em;
 }
 [[/module]]
+[[include :scp-zh-tr:component:interwiki-style
+| priority=1
+| theme=https://nu-scptheme.github.io/Black-Highlighter/css/min/normalize.min.css
+]]
+
+[[include :scp-zh-tr:component:interwiki-style
+| priority=2
+| theme=https://nu-scptheme.github.io/Black-Highlighter/css/min/black-highlighter.min.css
+]]
 [[=]]
 [[module Rate]]
 + 這是什麼？
@@ -182,12 +191,8 @@
 [[span style="font-family:var(--header-font); font-size: calc(var(--base-font-size) * 1.25);"]]Header跟title所使用的字體是[https://fonts.google.com/specimen/Poppins Poppins]。[[/span]]
 [[span style="font-family:var(--mono-font); font-size: calc(var(--base-font-size) * 1.25);"]]Monospace所使用的字體是[https://fonts.google.com/specimen/Recursive Recursive]。[[/span]]
 [[/=]]
-[[/iftags]]
-[[div [[iftags -外觀主題]]style="display: none"[[/iftags]]]]
------
-[[include :scp-zh-tr:component:bhl-dark-sidebar]]
 [[collapsible show="+ 顯示外觀主題代碼" hide="- 隱藏外觀主題代碼"]]
-[[module CSS show="true"]]
+[[code type="css"]]
 @supports(display:grid) {
     :root {
      /* S-CSS-P Integration */
@@ -309,6 +314,11 @@
      box-shadow: inset 0 0 0 0.0625rem rgba(var(--swatch-menubg-medium-color), 0.15);
     }
 
+    #interwiki {
+     background-color: transparent;
+    }
+
+    #interwiki .heading p,
     #side-bar .heading p,
     #side-bar .collapsible-block .collapsible-block-link {
      color: rgb(var(--swatch-menutxt-light-color));
@@ -394,21 +404,6 @@
      color: rgb(var(--swatch-text-general));
     }
 
-    #side-bar iframe.scpnet-interwiki-frame:not(:lang(cn)) {
-     -webkit-filter: invert(1);
-             filter: invert(1);
-    }
-
-    #side-bar .scpnet-interwiki-wrapper:not(:lang(cn))::before,
-    #side-bar .scpnet-interwiki-wrapper:not(:lang(cn)) p::before,
-    #side-bar .scpnet-interwiki-wrapper:not(:lang(cn)) p::after {
-     background-color: rgb(var(--swatch-menubg-dark-color));
-    }
-
-    #side-bar .scpnet-interwiki-wrapper:not(:lang(cn))::before {
-     mix-blend-mode: lighten;
-    }
-
     div[id*="page-options-bottom"]>a::after {
      background-color: rgb(var(--swatch-text-secondary-color));
     }
@@ -419,6 +414,14 @@
     }
 }
 
-[[/module]]
+[[/code]]
 [[/collapsible]]
-[[/div]]
+[[/iftags]]
+[[include :scp-zh-tr:component:bhl-dark-sidebar]]
+[[module css]]
+@import url("https://scp-zh-tr.wdfiles.com/local--code/theme%3Aextra-black-highlighter-theme/1")
+[[/module]]
+[[include :scp-zh-tr:component:interwiki-style
+| priority=3
+| theme=https://scp-zh-tr.wdfiles.com/local--code/theme%3Aextra-black-highlighter-theme/1
+]]
