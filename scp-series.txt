@@ -559,7 +559,7 @@
 * [[[SCP-513]]] - 牛鈴
 * [[[SCP-514]]] - 群鴿
 * [[[SCP-515]]] - Sleeper
-* [[[SCP-516]]] - Intelligent Tank
+* [[[SCP-516]]] - 智能坦克
 * [[[SCP-517]]] - 奶奶都知道
 * [[[SCP-518]]] - The Transinformational Tomb of Asa Rutledge
 * [[[SCP-519]]] - Cheeky Phone Booth
