@@ -198,7 +198,7 @@ Flickr
 name=##red|圖像連結##
 @@|caption=@@##blue|底部文字描述##
 @@|width=@@##blue|圖像寬度，接受%、px、auto等函數##
-@@link=@@##blue|點擊圖像後跳轉的連結##
+@@|link=@@##blue|點擊圖像後跳轉的連結##
 @@|align=@@##blue|接受left、right##
 @@]]@@
 [[/div]]
