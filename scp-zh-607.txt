@@ -1,0 +1,27 @@
+[[include :scp-zh-tr:component:scp-meta-title-hiding]]
+[[include info:start]]
+[[=]]
+//碳基的威壓，矽基的靜默。//
+[[/=]]
+----
+**作者：** [[*user edward-knave]]（[[[edward-knave|作者頁面]]]）
+**篇名：** SCP-ZH-607 - 碳壓矽（Carbon Buffalo Silicon）
+**備註：** 繁中分部「[[[escape-into-the-world-of-mortals|亡走塵寰]]]」投稿，採用題目「好事者」、效果「腦袋皮納塔」。**鳴謝[[*user tingtangting]]參與初期查閱。**
+[[include info:end]]
+[[=image https://i.imgur.com/DNlUAa1.jpg width="100%" link="https://i.imgur.com/DNlUAa1.jpg"]]
+----
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+【SCP-ZH系列一】
+<< [[[SCP-ZH-606]]] | SCP-ZH-607 | [[[SCP-ZH-608]]] >>
+[[/=]]
+[[/div]]
+[[include :scp-zh-tr:component:license-box
+|lang=ZH]]
+> **檔案名稱：** SCP-ZH-607.png
+> **圖像名稱：** SCP-ZH-607
+> **圖像作者：** [[*user Edward_Knave]]
+> **圖像授權協議：**CC BY-SA 3.0
+> **圖源連結：** https://i.imgur.com/vFemZRy.png
+> **圖像備註：** 原圖並經過[[*user Edward_Knave]]剪接。
+[[include :scp-zh-tr:component:license-box-end]]

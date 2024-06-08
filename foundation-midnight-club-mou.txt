@@ -1,0 +1,154 @@
+[[include info:start]]
+篇名：SCP基金會與午夜俱樂部的合作備忘錄
+作者：[[*user Mang Gwan]]
+
+BirdYard (Five Starcle)
+
+
+https://www.pexels.com/photo/young-business-woman-shake-hands-with-unrecognizable-man-4963364/
+
+[[include info:end]]
+
+[[div style="border: 2px solid #000; padding:2em;"]]
+
+[[div style="display: flex; justify-content: space-evenly;"]]
+[[image https://upload.wikimedia.org/wikipedia/commons/e/ec/SCP_Foundation_%28emblem%29.svg height="100px"]]
+
+[[image https://scpko.wdfiles.com/local--files/theme%3Aa-midnight-invitation/logo.png height="100px"]]
+[[/div]]
+
+[[=]]
++ 合作備忘錄
+[[/=]]
+
+
+此合作備忘錄（簡稱為「備忘錄」）於 2018 年 10 月 31 日由 SCP 基金會（簡稱為「基金會方」）及 [[[midnight-club-hub|午夜俱樂部]]]（簡稱為「俱樂部方」）在大韓聯盟貿易局長金大中見證下於首爾特別市江南區三成洞513號國際會議暨展示中心簽訂。
+
+++ 背景
+
+靈譜實體[((bibcite spectral))]（簡稱為「靈體」）的存在，在[[[1998-hub|帷幕協議被廢除]]]後，開始被公眾慢慢認知和接納。而隨之而來的對靈體的驅除（簡稱為「除靈」）的需求，但異常管理機構的提供服務供應遠低於市場需求，所以催生出宗敎團體以及私人提供的除靈服務，不過這些服務通常因為缺乏法律監管而良莠不齊。
+
+另一方面，除靈通常是強行對靈體進行破壞或是驅逐，這對擁有意識的靈體來說是不人道，且可能導致情況惡化，使其變成惡靈或怨靈。然而，在大部分國家，靈體並未獲得相應的法律地位和保護其基本權益。
+
+基金會方作為最主要的跨國異常管理機構，致力於對異常現象及個體的控制，收容和保護，以保障人類免受異常的傷害，且在各國的對異常方面的政策科。在靈體方面，主要由[[[welcome-to-spectral-affairs|靈譜事務部]]]負責，主要關注是靈體學研究，控制其數量以及提供一定份額的除靈服務。
+
+俱樂部方作為來自大韓民國的靈體互助組織，致力於關注和保障靈體的自由與基本權利。而在近年在亦在除靈方面有所涉足，其以解決其生前願望的手法來重新安置或令其消散的方法的效率以及人道方面便受公眾信賴。
+
+++ 目標
+本備忘錄旨在基金會方及俱樂部方雙方合作解決：
+* 保障靈體的基本權益。
+* 改善除靈行業中的不當和不人道行為。
+* 更有效地控制靈體數量和停留時間，並減少其對人類的影響。
+
+++ 範圍
+
++++ 基金會方
+
+1. 推動各國建立靈體身份的法律地位，特別是對具有意識並能長期存在的靈體，以保障其基本權益。
+
+2. 推動除靈行業的法規制度，減少不良業者對公眾的欺騙行為，並避免對靈體的不人道傷害。
+
+3. 在靈體學研究中，僅使用在[[[retrospektrologia|巴納塞克分類法]]]中的Ⅰ型靈體或獲得同意的有意識靈體進行臨床實驗，確保不對靈體進行不人道的實驗或傷害。
+
++++ 俱樂部方
+
+1. 協助各國建立和推廣靈體身份的認證制度，確保靈體在社會中獲得合法地位和權益保護。
+
+2. 協助建立一套除靈機制，以滿足靈體的願望，加速處理靈體的解脫或重新安置。
+
+3. 擴展業務，加強對靈體的控制，並通過教育和宣傳活動促進公眾對靈體權益的認識。
+ _
+
+= 本備忘錄自雙方正式簽署後生效。
+
+[[bibliography title="註解"]]
+:spectral : 鬼魂、幽靈或靈魂等不可觸死後實體的統稱。
+[[/bibliography]]
+
+------
+
+[[div style="display: flex;"]]
+
+[[div style="width:50%;display: flex;flex-direction: column;justify-content: space-between;"]]
+基金會方簽署:
+
+[[=image https://i.imgur.com/RkFLmYR.jpeg style="z-index: -1;position: relative;transform: scale(1.35);"]]
+Michael Goodman Rockefeller
+麥可．古曼．洛克斐勒
+對外事務部門 部長
+SCP 基金會
+[[/div]]
+
+[[div style="width:50%;display: flex;flex-direction: column;justify-content: space-between;"]]
+俱樂部方簽署:
+
+[[=image https://i.imgur.com/eusOw3v.jpeg width="50%"]]
+
+유서진
+柳書珍
+外交部長
+午夜俱樂部
+[[/div]]
+
+[[/div]]
+
+[[div style="width:50%; margin:auto;"]]
+見證人簽署:
+[[=image https://i.imgur.com/hCJW0n3.jpeg width="50%"]]
+김대중
+金大中
+貿易局長
+大韓聯盟
+[[/div]]
+
+[[/div]]
+
++ 新聞稿
+
+[[div class="sinano"]]
+
+[[=]]
+[[size 1.2em]]**[# 首頁]｜[# 早報・晚報]｜[# 速報]｜[# 我的頁面]**[[/size]]
+[[/=]]
+
+[[size 0.9em]][# 國際][[/size]]
+
+[[size 1.4em]]**SCP 基金會與午夜俱樂部簽署合作備忘錄　加速解決靈體權益問題及加強控制靈體問題**[[/size]]
+
+[[size xx-small]]**發表於 2018年10月31日 19:30**[[/size]]
+[[image https://i.imgur.com/JgA4Pun.jpeg width="100%"]]
+[[size x-small]]SCP 基金會對外事務部門部長洛克斐勒與午夜俱樂部外交部長柳書珍握手。[[/size]]
+
+SCP 基金會的大韓聯盟訪問團的行程第二日，緊接著到上午參觀京仁工業區的異常工業段後，在下午韓方安排了和靈體互助組織午夜俱樂部的會議。基金會與午夜俱樂部簽署合作備忘錄，共同承諾控制靈體的數量及加速解決靈體權利問題。
+
+基金會洛克斐勒部長在會後訪問中表示，他與柳書珍部長共同簽署備忘錄，雙方對靈體權利和除靈業界的問題達成了共識，將會合作為靈體身份在各國建立法律地位，且協助靈體身份在認證制度的執行。午夜俱樂部在除靈方面積極協助控制靈體數量，而基金會會打擊不良的除靈行為。他表示，這份備忘錄標誌世界合作解決靈體權益問題和控制靈體數量的開瑞。
+
+午夜俱樂部柳部長則表示，靈體是人類存在的一種延續方式，理應得到尊重和保護。這份合作備忘錄將成為共同努力的起點，希望能夠改善靈體的處境，為他們爭取更好的生活條件。
+
+大韓聯盟貿易局長金大中呼籲各國政府和社會各界關注這一議題，並加入到這個合作，實現一個更加公正和平等的社會。
+----
+[[size 1.3em]]**基金會的看法**[[/size]]
+
+「這是基金會在韓國在[[[koigarezaki-news-20080103-1998ver|2008年進入第七共和]]]之後的首個與民間組織的正式協議，」普里查德學院大學政治系國際關係教授岡本次郎這樣說「這個成果無疑是超出這次官式訪問的預期。這可以視為一種新締約的大韓聯盟對基金會全球合作方面的支持態度。」
+
+岡本教授解釋道，過去十年間，基金會一直面臨著韓方的抗拒態度，並且在昨天的官方會議中，韓方對基金會重新入駐以及在韓盟境內的調查表現出強硬態度。因此，最初訪問團被視為僅僅是一種禮貌性的邀請，旨在維持外交關係和彰顯國力。
+
+然而，今天韓方意外地表達了促進備忘錄簽訂的意願，這一舉動顯示出韓方對於內部事務反對跨國異常管理機構介入的態度，同時對於外部關係顯示出積極參與國際合作的熱情。這意味著韓方對於基金會的全球合作抱持著支持和開放的態度，並希望透過此次協議來展示其重返國際舞台的決心。
+
+這可以視之為韓方對當初異常主權民族主義的延續，但經過十年南北韓政體以及韓文方圈異常組織政治整合成韓盟，而令政府層面幾乎在完全缺席跨國合作，這次是一個強力的訊號表達其重返國際決心，這次協議的成功也為韓盟的未來發展帶來了更高的期望。隨著韓國對於國際合作的熱情日益增長，韓盟有望在全球舞台上扮演更積極的角色，與其他國際組織和夥伴進一步合作，共同應對全球挑戰，促進和平、穩定和繁榮的共同發展。
+
+[[/div]]
+
+[[module css]]
+.sinano {
+    padding: 140px 2em 1em;
+    background-image: url(https://scp-jp-storage.wdfiles.com/local--files/file%3A2428007-37-0n17/55237EBA-DF7F-46D4-8DBF-CB487FBF50DF.png), url(https://scp-jp-storage.wdfiles.com/local--files/file%3A2428007-36-faem/516637F1-C5EB-4C26-914D-DC7E4E4F056D.png);
+    background-size: 240px, 100% 190px;
+    background-position: center -50px;
+    background-repeat: no-repeat;
+    border: 2px solid #1f331f;
+    background-color: #fafffa;
+}
+
+.sinano a {color: #45818e;}
+[[/module]]
