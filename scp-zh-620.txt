@@ -4,7 +4,7 @@
 [[module css]]
 :root:lang(zh) {
   --header-title: "SITE-ZH-44";
-  --header-subtitle: "Ma'irohay ko Lifong i Nanemneman no Na'oripan.";
+  --header-subtitle: "Ma'irohay ko Lifong i Nemnem no Ka'oripan.";
   --lgurl: url("https://i.imgur.com/91hTAaj.png");
   --accentColor: #32cd87;
 }
