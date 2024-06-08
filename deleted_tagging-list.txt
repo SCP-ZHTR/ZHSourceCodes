@@ -1,0 +1,5 @@
+[[module ListPages separate="yes" perPage="100" tags="+scp +原創" order="name" -category="_default"]]
+%%title_linked%% - %%created_by%%
+ 
+##gray|%%tags%%##
+[[/module]]
