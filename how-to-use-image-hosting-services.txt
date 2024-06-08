@@ -1,5 +1,5 @@
 [[include info:start]]
-**Kikunai手把手教你使用外部圖床（Imgur和Flickr）**
+**Kikunai手把手教你使用外部圖床**
 **作者：**[[*user Kikunai]]
 **圖像：** 所有圖像都是網頁截圖，[http://scp-zh-tr.wikidot.com/scp-001-artwork Flickr部分的藝作]屬於[[*user Kikunai]]，為示範例子。
 
