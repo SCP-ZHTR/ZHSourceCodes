@@ -1,0 +1,224 @@
+[[include info:start]]
+**Kikunai手把手教你使用外部圖床（Imgur和Flickr）**
+**作者：**[[*user Kikunai]]
+**圖像：** 所有圖像都是網頁截圖，[http://scp-zh-tr.wikidot.com/scp-001-artwork Flickr部分的藝作]屬於[[*user Kikunai]]，為示範例子。
+
+感謝[[*user dr v valentine]]和[[*user cywhitebear]]的意見。
+[[include info:end]]
+
+基於本維基未有[[footnote]]至投稿為止暫時沒有[[/footnote]]開放上載檔案功能，因此如果要在頁面添加圖像或動圖都必須使用外部圖床。以下將會介紹兩個圖床網站（Imgur和Flickr）和其他Wikidot維基[[footnote]]如SCP英文主站[[/footnote]]的頁面檔案編輯器的使用方式。
+
+如需要使用外部網站的圖片可忽視此教學；在確認[http://scp-zh-tr.wikidot.com/contribute 其授權方式]後按右鍵複製圖片連結即可。
+
+[[toc]]
++ 圖床
+++ Imgur
+
+雖然Imgur無需註冊就能使用，但你的圖片[https://help.imgur.com/hc/en-us/articles/14415587638029-Imgur-Terms-of-Service-Update 或有機會被視為「非活躍」而刪除]，因此還是推薦乖乖辦個帳戶。
+
+* 需注意網頁版Imgur才能使用此方法。
+* 接受jpg、png、gif等圖像格式
+
+1. 首先到https://imgur.com/註冊，途徑任意。
+[[div class="scp-image-block block-center" style="width:100%;"]]
+[[image https://scp-sandbox-3.wikidot.com/local--files/kikunai/imgur-0 style="width:auto;"]]
+[[div class="scp-image-caption" style="width:100%;"]]
+Imgur註冊/登入界面[[footnote]]筆者在英國所以有電話登入的選項。[[/footnote]]
+[[/div]]
+[[/div]] 
+
+
+2. 在確認登入以後按上方的 New post（新帖文），然後上載圖片
+[[div class="scp-image-block block-center" style="width:50%;"]]
+[[image https://scp-sandbox-3.wikidot.com/local--files/kikunai/imgur-1 style="width:100%;"]]
+[[div class="scp-image-caption" style="width:100%;"]]
+新帖文
+[[/div]]
+[[/div]] 
+
+3. 按右上角頭像顯示選項清單，然後按 Image（圖像庫）
+[[div class="scp-image-block block-center" style="width:50%;"]]
+[[image https://scp-sandbox-3.wikidot.com/local--files/kikunai/imgur-2 style="width:100%;"]]
+[[div class="scp-image-caption" style="width:100%;"]]
+圖像庫
+[[/div]]
+[[/div]] 
+
+便來到這個版面。建議將這頁加入瀏覽器標籤。
+
+[[div class="scp-image-block block-center" style="width:100%;"]]
+[[image https://scp-sandbox-3.wikidot.com/local--files/kikunai/imgur-5 style="width:100%;"]]
+[[div class="scp-image-caption" style="width:100%;"]]
+這裏可以一覽你上載過的圖片。
+[[/div]]
+[[/div]] 
+
+如果顯示錯誤版面，請確保自己處於登入狀態，或者回到上一頁按右下方的「使用舊設計」（Use Old Design）
+[[div class="scp-image-block block-center" style="width:70%;"]]
+[[image https://scp-sandbox-3.wikidot.com/local--files/kikunai/imgur-3 style="width:100%;"]]
+[[div class="scp-image-caption" style="width:100%;"]]
+錯誤頁
+[[/div]]
+[[/div]] 
+
+4. 按需要取得連結的圖片，然後按 Direct link（直接連結）下的 Copy（複製）
+[[div class="scp-image-block block-center" style="width:70%;"]]
+[[image https://scp-sandbox-3.wikidot.com/local--files/kikunai/imgur-6 style="width:100%;"]]
+[[div class="scp-image-caption" style="width:100%;"]]
+直接連結
+[[/div]]
+[[/div]] 
+@@ @@
+= [#A ▼如何使用手上的圖床連結▼]
+
+++ Flickr
+* 會自動將你的圖像轉為jpg檔，所以不支援去背png和gif。
+* 一個免費flickr帳號只可上傳1000張圖像
+* 提供授權標示，是發表以Creative Commons授權的靜態圖像的好平台。
+
+1. 到https://www.flickr.com/註冊
+[[div class="scp-image-block block-center" style="width:100%;"]]
+[[image https://scp-sandbox-3.wikidot.com/local--files/kikunai/flickr-1 style="width:100%;"]]
+[[div class="scp-image-caption" style="width:100%;"]]
+Flickr
+[[/div]]
+[[/div]] 
+
+2. 按右上方的「上傳」
+[[div class="scp-image-block block-center" style="width:100%;"]]
+[[image https://scp-sandbox-3.wikidot.com/local--files/kikunai/flickr-2 style="width:100%;"]]
+[[div class="scp-image-caption" style="width:100%;"]]
+上傳按鈕
+[[/div]]
+[[/div]]
+[[div class="scp-image-block block-center" style="width:50%;"]]
+[[image https://scp-sandbox-3.wikidot.com/local--files/kikunai/flickr-3 style="width:100%;"]]
+[[div class="scp-image-caption" style="width:100%;"]]
+上傳界面
+[[/div]]
+[[/div]]
+
+3. 上傳圖片後可在側欄更改設定，例如授權方式[[footnote]]最貼近本網站採用的CC BY-SA 3.0是CC BY-SA 2.0，詳見[http://scp-zh-tr.wikidot.com/image-use-policy 圖像使用政策][[/footnote]]和私隱設定。
+[[div class="scp-image-block block-center" style="width:30%;"]]
+[[image https://scp-sandbox-3.wikidot.com/local--files/kikunai/flickr-4 style="width:100%;"]]
+[[div class="scp-image-caption" style="width:100%;"]]
+設定
+[[/div]]
+[[/div]]
+[[div class="scp-image-block block-center" style="width:30%;"]]
+[[image https://scp-sandbox-3.wikidot.com/local--files/kikunai/flickr-5 style="width:100%;"]]
+[[div class="scp-image-caption" style="width:100%;"]]
+授權方式
+[[/div]]
+[[/div]]
+4. 記得按右上角的「上載圖片」
+[[div class="scp-image-block block-center" style="width:50%;"]]
+[[image https://scp-sandbox-3.wikidot.com/local--files/kikunai/flickr-6 style="width:100%;"]]
+[[div class="scp-image-caption" style="width:100%;"]]
+上傳界面
+[[/div]]
+[[/div]]
+
+5.按「繼續前往相片流」回主頁
+[[div class="scp-image-block block-center" style="width:30%;"]]
+[[image https://scp-sandbox-3.wikidot.com/local--files/kikunai/flickr-7 style="width:100%;"]]
+[[div class="scp-image-caption" style="width:100%;"]]
+上傳界面
+[[/div]]
+[[/div]]
+
+6. 如果你設定的是「只有你才能看見」，圖就會出現在相機膠卷。按縮圖，然後放大。
+[[div class="scp-image-block block-center" style="width:70%;"]]
+[[image https://scp-sandbox-3.wikidot.com/local--files/kikunai/flickr-8 style="width:100%;"]]
+[[div class="scp-image-caption" style="width:100%;"]]
+上傳界面
+[[/div]]
+[[/div]]
+
+7. 按右鍵就得到圖像鏈結了
+[[div class="scp-image-block block-center" style="width:50%;"]]
+[[image https://scp-sandbox-3.wikidot.com/local--files/kikunai/flickr-9 style="width:100%;"]]
+[[div class="scp-image-caption" style="width:100%;"]]
+複製圖像鏈結
+[[/div]]
+[[/div]]
+@@ @@
+= [#A ▼如何使用手上的圖床連結▼]
+
+++ 其他wikidot網站
+* 接受所有檔案格式，包括jpg、png、gif、webp。
+ 
+1. 由於各Wikidot的檔案儲存空間有限[[footnote]]主管理員的[https://www.wikidot.com/plans Pro訂閲服務]能為自己的網站增加儲存空間，但筆者暫時未看過願意每年花240美金的非商業維基[[/footnote]]，請先將圖片（尤其是畫作）[https://compresspng.com/ 壓縮]至2MB以下。[[footnote]]若壓縮率低，或需將圖像的DPI調低至300或以下。[[/footnote]]
+
+[[div class="scp-image-block block-center" style="width:100%;"]]
+[[image https://scp-sandbox-3.wikidot.com/local--files/kikunai/compresser style="width:100%;"]]
+[[div class="scp-image-caption" style="width:100%;"]]
+圖片壓縮網站
+[[/div]]
+[[/div]] 
+
+2. 在取得壓縮過的圖片後，到下方的「檔案」（Files）選項上載。
+[[div class="scp-image-block block-center" style="width:75%;"]]
+[[image https://scp-sandbox-3.wikidot.com/local--files/kikunai/wikidot-1 style="width:100%;"]]
+[[div class="scp-image-caption" style="width:100%;"]]
+上載
+[[/div]]
+[[/div]] 
+
+3. 選取檔案後建議重新命名，尤其原始名稱是亂碼的時候。
+[[div class="scp-image-block block-center" style="width:70%;"]]
+[[image https://scp-sandbox-3.wikidot.com/local--files/kikunai/wikidot-2 style="width:100%;"]]
+[[div class="scp-image-caption" style="width:100%;"]]
+重新命名；無需檔案後綴
+[[/div]]
+[[/div]] 
+
+4. 上載後按右鍵取得連結。
+[[div class="scp-image-block block-center" style="width:70%;"]]
+[[image https://scp-sandbox-3.wikidot.com/local--files/kikunai/wikidot-3 style="width:100%;"]]
+[[div class="scp-image-caption" style="width:100%;"]]
+圖像連結；這裏也可見檔案大小[[footnote]]僅供示範，此圖像已刪除[[/footnote]]
+[[/div]]
+[[/div]] 
+
+[[# A]]
++ 如何使用手上的圖床連結
+以下為常用的圖像框代碼，紅色文字表示插入圖床連結的部分，而藍色文字表示可更改的設定值。
+
++++* Wikidot內置的圖像框
+詳情可參考[http://scp-sandbox2-zh.wikidot.com/wiki-syntax#toc11 此處]，缺點就是圖片下方沒有文字描述。
+[[div class="blockquote"]]
+@@[[image@@ ##red|圖像連結## ##blue|屬性1##="##blue|設定值1##" ##blue|屬性2##="##blue|設定值2##" ##blue|...##]]
+[[/div]]
+
++++* Image block
+即平時看到會靠左方或右方的圖像框。
+[[div class="blockquote"]]
+@@[[include component:image-block@@
+name=##red|圖像連結##
+@@|caption=@@##blue|底部文字描述##
+@@|width=@@##blue|圖像寬度，接受%、px、auto等函數##
+@@link=@@##blue|點擊圖像後跳轉的連結##
+@@|align=@@##blue|接受left、right##
+@@]]@@
+[[/div]]
+
++++* SCP Image Block
+代碼比較多，但可以置中。為本教學使用的圖像框。
+[[div class="blockquote"]]
+@@[[div class="scp-image-block block-center"@@ 
+@@style="width:@@##blue|圖像寬度，接受%、px、auto等函數##;"]]
+[[image ##red|圖像連結## 
+@@style="width:100%;"]]@@
+@@[[div class="scp-image-caption" style="width:100%;"]]@@
+##blue|底部文字描述##
+@@[[/div]]@@
+@@[[/div]]@@ 
+[[/div]] 
+
+更多圖像框代碼可以到[http://scp-zh-tr.wikidot.com/cardinal-hub 文章使用零件中心頁]或[http://scp-zh-tr.wikidot.com/scp-style-resource#toc9 SCP格式資源]的相關部分查看。
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
