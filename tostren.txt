@@ -3,7 +3,7 @@
 
 [[module css]]
 :root {
- --logo: url(https://i.imgur.com/Qckc6Et.png);
+ --logo: url(https://i.imgur.com/BwHd1Wi.png);
  --title: "吐司的烘焙坊";
  --subtitle: "點子進去，項目出來";
  --primaryBackgroundColor: #f7e7cb;
