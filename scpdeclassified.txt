@@ -742,6 +742,9 @@ a, a.collapsible-block-link{ font-weight: bold; }
 **[http://scp-zh-tr.wikidot.com/scp-zh-176-declassification SCP-ZH-176解密，暨《海鷗的大撤退》讀後感]**
 > //注意，以上為附錄：ZH-176-4 > 《海鷗的大撤退》節錄內容//
 
+**[http://scp-zh-tr.wikidot.com/scp-zh-306-declassification SCP-ZH-306解密]**
+> 基金會的異常帶走了他時空旅行拿到的百合，導致了他失去關鍵證據（逆花季的百合）後被捕入獄。
+
 **[http://scp-zh-tr.wikidot.com/scp-zh-923-declassification 外部解密：《只有你能看見的老鼠》]**（SCP-ZH-923解密）
 > //如果你近日剛好讀到一篇有關老鼠的作品，那你很可能在一段漫長黑暗的閱讀過程後，陷入危險與悲傷交織的感受中。//
 [[/collapsible]]
