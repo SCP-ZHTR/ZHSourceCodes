@@ -2642,7 +2642,7 @@
 * [[[SCP-6218]]]
 
 **行動報告：**
-* [[[bullying-gravity|Bullying Gravity]]]
+* [[[bullying-gravity|霸凌地心引力]]]
 
 [[div style="text-align:right"]]
 ,,[#toc 回到頂端],,
