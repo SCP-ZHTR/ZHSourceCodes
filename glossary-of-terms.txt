@@ -4,143 +4,200 @@
 譯者：[[*user Frederica Bernkastel]]
 [[include info:end]]
 
-本頁面之創建目的乃是建立一個合作資源，以定義網站與社群中常用的術語。儘管我們對任何網站成員貢獻抱持包容開放的態度，但新生的術語不應立即被添入本頁面中，直到該術語已被多名網站成員使用過為止。儘管這裡並不會要求你注明引用來源，但請記住，更加詳細文本的超連結可能會非常有幫助。
+本頁面之創建目的乃是建立一個合作資源，以定義網站與社群中常用的術語。儘管我們對任何網站成員貢獻抱持包容開放的態度，但新生的術語不應立即被添入本頁面中，直到該術語已被多名網站成員使用過為止。儘管這裡並不會要求你注明引用來源，但請記住，更加詳細文本的超連結可能會非常有幫助。有個鄭重地警告必須注意，這些術語用法有可能不完全一致，我們的網站有著非常多的設定與他版解釋，這自然是不可避免的。
 
-在其他地方已有明確定義的術語（項目等級、角色、設施與關注組織）將在本列表中省略以免重複。如果你不確定某個術語是否值得列入，或想要說明或修正某個術語的定義，請在本頁面的討論區中留言以獲取回饋。如果你有些有用的東西想要補充，歡迎隨時在人們的建議與補充下留言！
+在其他地方已有明確定義的術語（[[[object classes|項目等級]]]、[[[personnel-and-character-dossier|角色]]]、[[[locations-of-interest|設施]]]、[[[groups of interest|關注組織]]]）將在本列表中省略以免重複。如果你不確定某個術語是否值得列入，或想要說明或修正某個術語的定義，請在本頁面的討論區中留言以獲取回饋。如果你有些有用的東西想要補充，歡迎隨時在人們的建議與補充下留言！
+
+本頁面將按術語的英文字母順序排列，但當術語由多個部分構成時，同義詞將共同列出。如果你想要尋找特定的術語，請使用瀏覽器的「在頁面中尋找」（鍵盤快捷鍵 Ctrl + F）功能快速查找本列表。
 
 [[toc]]
 
 + 世界觀術語
-可在SCP文本、故事與GoI格式中使用的術語。
+可在SCP文本、故事、GoI格式中使用的術語。
 
 ++ 文本格式
-依照SCP文本典型的出現順序列出。
-* **項目編號** -- SCP的數字編號。請注意，SCP的正式稱呼是「SCP-####」；不應於正式場合僅使用數字編號稱呼之。（例如，「我們將SCP-173移入Site-19。」是正式的。「我們將173移入Site-19。」則否。）不過這個非正式稱呼還蠻常用的就是了。
-* **項目等級** -- 一個大致說明收容實體或物體難度的分類系統。更多資訊情見[[[Object Classes | 項目等級]]]指南，這裡有最常見項目等級（Safe、Euclid、Keter）的定義。替代的系統或更機密的分級則偶有用之。
-* **特殊收容措施** -- 為收容實體或物體應遵循的指示。
-* **描述** -- SCP文本會以清晰簡潔的方式解釋該項目、項目異常性及其被收容的原因。基本描述可以透過一至多個附錄來加強，但應使讀者僅透過描述內容就能知曉異常的基本資訊。
-* **附錄** -- SCP文本的一部分，它能夠就主要描述內容的特定方面進行延伸，展示資訊在一定時間的演進，或者提供不適合加在描述內的額外見解。附錄可以加入主頁面或單獨發布於獨立的**[[[incident-reports-eye-witness-interviews-and-personal-logs| 補充]]]**頁面中，這包括了[/system:page-tags/tag/實驗 實驗紀錄]、[/system:page-tags/tag/探索 探索紀錄]、[/system:page-tags/tag/事故 事故報告]或[/system:page-tags/tag/採訪 訪談]。
+依照SCP文本典型順序列出。
+* **項目編號（Item #）** -- SCP的數字編號。請注意，SCP的正式稱呼是「SCP-####」；不應於正式場合僅使用數字編號稱呼之（例如「SCP-173」而非「173」）。不過這個非正式稱呼還蠻常用的就是了。
+* **[[[object-classes|項目等級（Object Class）]]]** -- 基於實體/物體收容難度的分類系統。參閱[[[object-classes|項目等級]]]指南獲取更多資訊，該頁面也有著最常見（Safe、Euclid、Keter）與相對少見（Thaumiel、Neutralized、Apollyon）的項目等級定義。也有還有[[[esoteric-classes-complete-list| 更多的機密項目等級]]]可供使用。另外還有補充的分級系統（例如追加的**[http://scp-zh-tr.wikidot.com/niveaux-de-menace-des-objets-scp 威脅等級]**，或者改用[[[anomaly-classification-system-guide| 異常分類系統]]]，後者會將「項目等級」置換為「收容等級」）。
+* **特殊收容措施（Special Containment Procedures──SCP）** -- 收容實體與物體時應遵循的指示說明。
+* **描述（Description）** -- SCP文章中以清楚簡潔的方式，解釋實體或物體特性及其被收容原因的部分。描述可以透過一或多個附錄加以補充，但應該僅透過描述就讓讀者明白項目的基本特性。
+* **附錄（Addendum）** -- SCP文章的附加部分，或者擴充描述的特定方面，或者展現資訊隨時間的進展，又或者提供不適合放在描述的附加資訊。附錄可以直接放在在項目的主頁面裡，也可以獨立成**[[[incident-reports-eye-witness-interviews-and-personal-logs| 附加資料]]]**頁面，這包括了[/system:page-tags/tag/實驗記錄 實驗記錄]、[/system:page-tags/tag/探索紀錄 探索紀錄]、[/system:page-tags/tag/事故報告 事故報告]、[/system:page-tags/tag/訪談 訪談]等內容。
 
 ++ 基金會術語
-基金會（虛構組織）會使用的其他術語。
-* **[[[o5-command-dossier|管理員]]]** -- 世界觀中的神秘人物，可能是（也可能不是）SCP基金會的創始人。也可能是O5議會成員之一，或者在議會之上，或者與議會對等。
-* **[[[personnel-and-character-dossier|特工]]]** -- 基金會的秘密外勤人員，在作為頭銜通常置於名字後（例如Smith特工）請注意，並非所有受雇於基金會的外勤人員都屬於這類「特工」，也不是所有外勤人員都使用「特工」這個頭銜。另見**收容團隊**、**應對團隊**、**機動特遣隊**以及**研究人員**。
-* **[[[log-of-anomalous-items| 異常物品]]]** -- 具備**異常**特性的物品，但因為過於簡單無須施以**特殊收容措施**或更進一步的研究。
-* **異常** -- 基金會收容與研究對象的基礎術語。
-* **Area** -- 完全不為人所知的[[[secure-facilities-locations| 基金會設施]]]類型。
-* **收容突破** -- 當SCP項目脫離控制時使用的術語。這可能涉及到了物理層面的**收容室**突破，也可能是指異常相關知識傳播到了基金會之外。
-* **收容室/收容間** -- 專門用於收容SCP項目的空間。
-* **收容團隊** -- 專門從事回收或探索異常項目或實體的外勤團隊。成員可能是外勤人員也可能不是，通常會有著不同的頭銜，如「收容專員」。另見**特工**、**應對團隊**。
-* **[已刪除資料]** -- 網站使用的兩種數據審查方式之一，被「刪除」的數據已經從所有紀錄中永久消失了，這可能是因為數據本身所構成的危害，比如**模因**危害。另見**[刪減內容]**。
-* **D級** -- 在有測試或收容之必要時，被認為可犧牲的基金會雇員。參見[[[Security Clearance Levels| 維安編制分級]]]指南以了解更多資訊。
-* **[[[decom-dept-hub| Decommissioned]]]** (**D**) -- 被刻意摧毀的異常項目。參見[[[Object Classes | 項目等級]]]以了解更多資訊。
-* **[[[departments-complete-list| 部門]]]** -- 基金會中專門從事某一特定任務、學科或領域的組織。
-* **[[[personnel-and-character-dossier| 主任]]]** -- 基金會**設施**或**部門的**負責人。在作為頭銜通常置於名字後（例如Jones主任）。
-* **[[[scp-ex|Explained]]]** (**EX**)-- SCP項目的一個子類分級，該項目或已作為騙局被揭穿，或被充分理解後成為正常科學知識，又或者在廣泛傳播後使收容變得不再可能。
-* **[[[log-of-extranormal-events| 超常事件]]]** -- 發生時間過短而無法收容的異常事件。
-* **設施**  - 指稱 **[[[secure-facilities-locations| Site]]]**以及**[[[secure-facilities-locations| Area]]]**的通用術語。
-* **基金會** -- 一個透過建立特殊收容措施處理異常或超自然物體、實體與現象的組織。通常在世界觀中只簡稱為「基金會」，鮮少以「SCP基金會」稱呼之。
-* **[[[Groups of Interest| 關注組織]]]**（**GoI**）-- 基金會以外，知曉異常的組織。
-* **[[[k-class-complete-list| K級情景]]]** -- 對常態或現實有劇烈影響的假設情景。最著名的K級事件──即XK級事件──代表著災難事件所導致的全人類社會或種族滅絕。
-* **關注地點** -- 已知或疑似存在異常性質的地點。另見**未解明地點**、**Nexus**以及**自由港**。
-* **[[[task-forces|機動特遣隊]]]** -- 機動特遣隊（或簡稱MTF）是訓練有素的專業隊伍，根據需要被部屬到各個地點以應對特殊威脅或狀況。機動特遣隊編號由一個希臘字母與一個數字編成（例如「MTF Alpha-7」、「MTF Omega-15」）並可能附加一個別稱，這類似於許多現實中的軍事編制單位。MTF是基金會的菁英人員，從經驗豐富的實地研究員到戰鬥力強大的部隊都有。
-* **現實**/**常態**/**基線現實**/**共識常態** -- 基金會透過收容異常以保護的世界表面正常狀態。另見**帷幕**.
-* **[[[o5-command-dossier| O5議會]]]** (**O5**) -- 「5級監督議會」或「5級監督者議會」的簡稱。是基金會的最高權力機構，由12到13名議員所組成，有權授權或否決全基金會採取的任何行動。O5議會成員僅以他們的編號（O5-1 至O5-13）為外人所知，通常為了避免遭受異常影響，不允許與SCP實體或物體直接接觸。請注意，O是大寫字母「o」，而非數字「0」。
-* **[[[personnel-and-character-dossier| 關注人士]]]** (**PoI**) -- 因涉及異常而被基金會關注的人。可能具有異常能力、曾接觸過**SCP項目**或是**關注組織**的成員。
-* **[刪減內容]** -- 網站使用的兩種數據審查方式之一，被「刪減」的數據仍留在文本之中，但讀者並無權限閱覽該資訊，因為這些資訊僅提供給更高**維安編制分級**者，另見**[已刪除資料]**。
-* **[[[personnel-and-character-dossier| 研究人員]]]** -- 一個寬泛的術語，指稱基金會所有涉及研究與開發的人員──取決於他們的資格與專業，他們也可以被稱為研究員、技術員、博士或教授。從弄懂異常項目或實體的性質到研發更好的器材或收容措施，研究人員能參與任何作業。站點研究人員也能陪同收容團隊評估尚未收容異常的性質。
-* **應對團隊** -- 裝備齊全、通常曾在維安站點受過安全與收容漏洞應對訓練的隊伍。在處理敵意或危險程度高的項目或實體、或涉及到敵對[[[Groups of Interest| 關注組織]]]時，應對團隊成員就會被派往站點保護收容團隊。
-* **[[[security-clearance-levels| 維安編制分級]]]** -- 定義基金會雇員獲權知悉資訊的等級，等級由1級（非常受限）到5級（超出最高機密）。
-* **SCP** -- 「特殊收容措施」的[https://zh.wikipedia.org/wiki/%E9%A6%96%E5%AD%97%E6%AF%8D%E7%B8%AE%E7%95%A5%E5%AD%97 首字母縮寫]，並被非正式的用作「SCP項目或實體」的簡稱，比如「我昨天寫了3個SCP」。在基金會宇宙中，SCP項目或實體不應在正式場合簡稱為「SCP」，但角色可在非正式場合這麼做，甚至使用「scip」或「skip」這樣的隨意發音拼寫之。請注意SCP//並非//是「控制、收容、保護」的縮寫；基金會的座右銘是其縮寫反推的產物。
-* **SCP項目**/**SCP實體** -- 有自己專屬**特殊收容措施**的異常。
-* **Site** -- 偽裝在常態偽裝（例如公司或政府辦公處）下的[[[secure-facilities-locations| 基金會設施]]]。
-* **[[[log-of-unexplained-locations| 未解明地點]]]** -- 發生微小現象，不值得分配**特殊收容措施的**特定地點。另見**關注地點**以及**Nexus**與**自由港**了解其他異常地點。
-* **帷幕** -- 指稱異常現象與涉及人士隔絕於普通世界外的術語。基金會一類的組織會積極維護帷幕，以向公眾隱瞞異常現象。
+基金會文件用於描述其人員、設施、收容措施的術語。
+* **[[[o5-command-dossier| 管理員（The Administrator）]]]** -- 世界觀中的神秘人物，可能是（也可能不是）SCP基金會的創始人。也可能是**O5議會**成員之一，或者在議會之上。
+* **[[[personnel-and-character-dossier| 特工（agent）]]]** -- 基金會的秘密外勤人員，在作為頭銜通常置於名字後（例如Smith特工）請注意，並非所有受雇於基金會的外勤人員都屬於這類「特工」，也不是所有外勤人員都使用「特工」這個頭銜。另見**收容團隊**、**應對團隊**、**機動特遣隊**、**研究員**。
+* **[[[log-of-anomalous-items| 異常物品（Anomalous Item）]]]** -- 具備**異常**特性的物品，但因為過於簡單無須施以**特殊收容措施**或更進一步的研究。
+* **異常（anomaly** / **anomalous）** -- 基金會收容與研究對象的基礎術語。一般定義為當前科學知識無法解釋的任何事物，其特性違反了普遍規律和原則。另見**超自然**與**異人**。
+* **無人區（Area）** -- 完全不為公眾所知的[[[secure-facilities-locations#area| 基金會設施]]]。
+* **收容突破（containment breach）** -- SCP逃脫收容時使用的術語。這可能涉及物理上的突破**收容室**，又或者是指項目的知識在基金會之外傳播。
+* **收容室（containment chamber）** -- 專門用來收容SCP項目的空間。
+* **收容團隊（containment team）** -- 專門從事回收或探索異常項目或實體的外勤團隊。成員可能是外勤人員也可能不是，通常會有著不同的頭銜，如「收容專員」。另見**特工**與**應對團隊**。
+* **[已刪除資料]（[DATA EXPUNGED]）** -- 網站使用的兩種數據審查方式之一。儘管經常與**[刪減內容]**混淆，但所謂「刪除」是指數據已經從所有紀錄中永久消失了，這可能是數據本身所構成的危害所致，例如**模因**危害等。
+* **D級人員（D Class）** -- 在有測試或收容之必要時，被認為可犧牲的基金會雇員。通常由基金會特別招募的監獄囚犯組成。參閱[[[Security Clearance Levels|維安編制分級]]]獲取更多資訊，另見[[[ethics-committee-class-d-housing-regulations|倫理委員會相關規範]]]。
+* **部門（[[[departments| department]]]）** -- 基金會內部專責從事特定任務、學科、領域的組織。
+* **主任（[[[personnel-and-character-dossier| director]]]）** -- 基金會**設施**或**部門**的負責人。在作為頭銜通常置於名字後（例如Jones主任）。
+* **擾動等級（Disruption Class）** -- [[[anomaly-classification-system-guide| 異常分類系統]]]的一部分，代表異常干擾現狀或未收容時造成**帷幕**瓦解的能力。等級由小到大排列為Dark、Vlam、Keneq、Ekhi、Amida。
+* **[[[scp-ex|已解明（Explained──EX）]]]** -- SCP項目的一個子分級，該項目或已作為騙局被揭穿，或被充分理解後成為正常科學知識，又或者在廣泛傳播後使收容變得不再可能。
+* **[[[log-of-extranormal-events| 超常事件（Extranormal Events──EE）]]]** -- 發生時間過短而無法收容的異常事件。
+* **[[[secure-facilities-locations|設施（Facility）]]]** -- 用於指稱**[[[secure-facilities-locations#site| 站點]]]**與**[[[secure-facilities-locations#area| 無人區]]]**的通用術語。
+* **基金會（The Foundation）** -- 透過制定**特殊收容措施**收容**異常**物體、實體、現象的秘密組織。通常在世界觀中只簡稱為「基金會」，鮮少以「SCP基金會」稱呼之。
+* **[[[locations-of-interest#free-port| 自由港（Free Port──FP）]]]** -- 更大、更受認可的**[[[locations-of-interest#nexus| Nexus]]]**，是本質上屬於異常且位於**帷幕**之後的地區。這意味著沒有必要向其居民隱瞞**異常**的存在，畢竟他們已經都知道了。
+* **[[[a-semi-comprehensive-list-of-foundation-fronts|前臺（front）]]]** -- 用於做為基金會行動掩護的組織，使基金會特工能公開行動的假託。前臺的名稱有些會能縮寫為「SCP」，例如[[span class="ruby"]]香脆披薩店[[span class="rt"]]Spicy Crust Pizza[[/span]][[/span]]以及[[span class="ruby"]][[[the-s-c-plastics-hub |S&C塑膠]]][[span class="rt"]]S&C Plastics[[/span]][[/span]] - 參閱[[[pickman-blank-proposal| 卷首]]]頁面獲取更多資訊。
+* **[[[Groups of Interest| 關注組織（Groups of Interest──GoI）]]]** -- 基金會以外知曉異常的組織。
+* **HMCL主管（HMCL Supervisor）** -- 負責管理一至多個異常收容的管理者。「HMCL」的實際意涵存在爭議，但多數作者推斷其為「**[[span class="rt"]]危險物質收容聯絡[[span class="rt"]]Hazardous Materials Containment Liaison[[/span]][[/span]]**」。
+* **[[[k-class-complete-list| K級情景/K級事件（K-Class Scenario/K-Class Event）]]]** -- 對常態或現實有劇烈影響的假設情景。最著名的K級事件──即XK級事件──代表著災難事件所導致的全人類社會或種族滅絕，不過各種情景都有自己的名稱，在不同場合使用時也存在差異性。
+* **[[[Locations of Interest| 關注地點（Locations of Interest──LoI）]]]** -- 關注地點是具有異常特性的區域，通常居住著永久居民，需要採取更為外交的手段加以收容。另見**未解明地點**、**Nexus**、**自由港**。
+* **[[[task-forces|機動特遣隊（Mobile Task Force──MTF）]]]** -- 訓練有素的專業團隊，基金會將其部屬於外勤任務以應對特殊威脅與事態。機動特遣隊由希臘字母與數字構成編號（例如MTF Alpha-7、MTF Omega-15），並可能附加一個暱稱，近似於許多現實存在的軍事單位。MTF是基金會的菁英團隊，從經驗豐富的外勤研究人員到久經沙場的部隊都有，各個MTF都有專責應對的狀況與異常。也存在其他類型的特遣隊。
+* **[[[locations-of-interest#nexus| Nexus──Nx]]]** -- 形成永久社群的異常活躍地帶。最初定義請見[[[nexus-series|此處]]]。
+* **[[[o5-command-dossier| O5議會 / 監督者議會（O5 Council / Overseer Council）]]]** -- 「5級監督者議會」或「監督者5級議會」的簡寫。基金會的最高權力機關兼**監督者指揮部**的領導者，議會由12/13人組成，有權授權或否決全基金會採取的任何行動。O5議會成員僅以編號（O5-1至O5-13）作為代稱，很少參與基金會的日常活動，通常不被允許直接接觸任何SCP項目，避免遭到異常的污染。注意O是大寫字母「o」，而非數字「0」。
+* **監督者指揮部** / **O5指揮部（Overwatch Command** / **O5 Command）** -- 基金會最高級行政部門，其總部位於[[[secure-facilities-locations|Site-01]]]。儘管通常僅用於指稱**O5議會**，但監督者指揮部乃是基金會通常中央權力機構的名稱，由最高級別人員及其親信（例如[[[task-forces#alpha-1|MTF Alpha-1]]])）組成。他們與議會共同管理、監督其他的**設施**與**部門**。
+* **[[[personnel-and-character-dossier| 關注人士（Person of Interest──PoI）]]]** -- 因涉及異常而被基金會調查或監視的個人。可能具有異常能力、與**SCP項目**有過接觸抑或是**關注組織**的成員。
+* **[刪減內容]（[REDACTED]）** -- 網站使用的兩種數據審查方式之一，被「刪減」的數據仍留在文本之中，但讀者並無權限閱覽該資訊，因為這些資訊僅提供給更高**維安編制分級**者，另見**[已刪除資料]**。
+* **[[[personnel-and-character-dossier| 研究員（researcher）]]]** -- 相當寬泛的術語，指稱基金會所有涉及研究與開發的人員──取決於他們的資格與專業，他們也可以被稱為研究員、技術員、博士或教授。從弄懂異常項目或實體的性質到研發更好的器材或收容措施，研究人員能參與任何作業。站點研究人員也能陪同收容團隊評估尚未收容異常的性質。
+* **應對團隊（response team）** -- 裝備齊全、通常曾在維安站點受過安全與收容漏洞應對訓練的隊伍。在處理敵意或危險程度高的項目或實體、或涉及到敵對[[[Groups of Interest | 關注組織]]]時，應對團隊成員就會被派往站點保護收容團隊。
+* **風險等級（Risk Class）** -- [[[anomaly-classification-system-guide| 異常分類系統]]]的一部分，風險等級是異常對個人影響的嚴重程度，以及從中恢復過來的難易度。等級由小到大排列為注意、謹慎、警戒、危險、極危。
+* **SCiPNET** -- 或作**SCiPNet** / **SCiPnet**。基金會的內部網路與跨站點資料庫，用於員工間發送電子郵件與存取SCP檔案等文件。
+* **SCP** -- 「特殊收容措施」的[https://zh.wikipedia.org/wiki/%E9%A6%96%E5%AD%97%E6%AF%8D%E7%B8%AE%E7%95%A5%E5%AD%97 首字母縮寫]，並被非正式的用作「SCP項目或實體」的簡稱，比如「我昨天寫了3個SCP」。在基金會宇宙中，SCP項目或實體不應在正式場合簡稱為「SCP」，但角色可在非正式場合這麼做，甚至使用「scip」或「skip」這樣的隨意發音拼寫之。請注意SCP//並非//是「控制、收容、保護」的縮寫；基金會座右銘是[https://zh.wikipedia.org/wiki/%E9%80%86%E5%90%91%E9%A6%96%E5%AD%97%E6%AF%8D%E7%BC%A9%E7%95%A5%E8%AF%8D 逆向首字母縮略詞]的產物。
+* **SCP項目** / **SCP實體（SCP object** / **SCP entity）** -- 有自己專屬**特殊收容措施**的異常。或稱 [[span class="ruby"]][http://scp-zh-tr.wikidot.com/secure-facility-dossier-site-56 特殊收容項目][[span class="rt"]]Special Containment Projects[[/span]][[/span]]（SCP）。
+* **（[[[security-clearance-levels|維安權限分級（Security Clearance Level）]]]）** -- 指定基金會雇員獲權知悉資訊的等級，等級由1級（非常受限）到5級（超出最高機密）。
+* **站點（Site）** -- 偽裝在常態偽裝（例如公司或政府辦公處）下的[[[secure-facilities-locations| 基金會設施]]]。
+* **站點主任全體執行委員會** / **站點主任全體執行議會（Site Director's Executive Committee of the Whole** / **Site Director's Executive Council of the Whole──SDECotW）** -- 基金會**站點**主任聯會，是僅次於**O5議會**的基金會第二級行政機關。
+* **關注物種（Species of Interest──SoI）** -- 具有異常特性的非人物種。
+* **[http://scp-zh-tr.wikidot.com/niveaux-de-menace-des-objets-scp 威脅等級（Threat Level）]** -- 項目等級的補充系統，根據收容突破造成危害為所有異常歸定顏色代碼。威脅等級由小到大排列為白、藍、綠、黃、橙、紅、黑。
+* **未分級異常實體（Unclassified Anomalous Entity──UAE）** -- 規模太小無法實施**特殊收容措施**的異常實體，最常用於標記**[[[locations-of-interest#nexus| Nexus]]]**生成的異常。通常Nexus的UAE還會追加指定其位置的代碼文字（例如，UAE-Chapman代表[[[locations-of-interest#sloths-pit|Nx-18：斯洛斯皮特]]], UAE-Fowke代表[[[locations-of-interest#lake-huron|Nx-94：休倫湖]]]等。）
+* **未歸定異常** / **未指定異常（Undesignated Anomaly** / **Unregistered Anomaly──UA** / **URA）** -- 尚未指定特殊收容措施的異常。是歸定為SCP項目獲得完整記錄前的臨時指定。
+* **[[[log-of-unexplained-locations| 未解明地點（Unexplained Location──UE）]]]** -- 生微小現象，不值得分配**特殊收容措施的**特定地點。另見**關注地點**以及**Nexus**與**自由港**了解其他人居異常地點。
 
-++ 虛構科學
-基金會與其關注組織用以描述異常的術語。
-* **奧秘消解** — 將異常廢料與奧祕物質加工為無異常的工業廢水。參見[[[acroamatic-abatement|你應該知道卻望名生畏不敢追問的奧秘消解部所有資訊]]]頁面的詳細陳述。
-* **阿基瓦輻射** -- 與信仰者和神祇相關的輻射，可以透過厘阿基瓦加以測定及量化。阿基瓦輻射較低處很可能被神遺忘或拋棄了。命名源自Rabbi Akiva。
-* **異常藝術** -- 具有異常特性的藝術，或將異常物品用於藝術表現。更進一步的分析可參見[[[a-study-of-anomalous-art| 此檔案]]]。
-* **異常藝術家** -- 有能力創造**異常藝術**的藝術家，例如[[[are-we-cool-yet-hub| Are We Cool Yet?]]]的成員。
-* **逆模因** (亦稱為反概念) -- 一種基於其固有性質阻礙人類傳播的思想。基金會有一個[[[antimemetics-division-hub| 逆模因部]]]專責調查與收容異常的逆模因。
-* **[[[personnel-and-character-dossier| 至高層萬能實體]]]** -- 幾乎全能，令人難以置信的強大存在。一般是用於神祇的臨床術語。
-* **形貌輻射** -- 足以扭曲現實的**EVE**輻射，乃是**奇蹟術**的基礎。
-* **官僚危害** -- 影響官僚體系的**符號危害**子類，使某些實體儘管犯下了某種罪行卻能無罪脫身。
-* **認知阻值** -- 衡量個人的精神毅力與對精神影響項目的抵抗力。
-* **認知危害** -- 專指透過視聽嗅味覺及感知接觸造成危害的實體。
-* **反熵** -- 違反熱力學第一定律及第二定律的實體或物體，其產生之物質或能量直接違反了熵值。適用於任何以無法解釋之方式生成能量與物質的項目。
-* **Elan-Vital能量(EVE)** -- 從生命或具生命異常散發出的神祕能量，可為奇蹟術提供動力。參見[[[goc-supplemental-arad|該講座]]]了解更多資訊。
-* **本質物理學** — 對抽象概念的物理體現/表現形式進行之科學研究。
-* **自由港** -- 更大而更有秩序的**Nexus**，其本質即是異常，完全被藏在**帷幕**之後的領域，這意味著對裡面的住民隱藏**異常**的存在毫無必要，因為他們早就知道了。
-* **嗜血者** -- 吸血鬼的臨床術語。
-* **休謨** -- 衡量地區現實強度或指數的單位。更多資訊請參見其[[[and-this-one-explains-humes|問答集]]]。取名自哲學家[https://zh.wikipedia.org/wiki/%E5%A4%A7%E5%8D%AB%C2%B7%E4%BC%91%E8%B0%9F 大衛·休謨]。
-* **資訊過敏源** -- 一種不常見的資訊危害，能同時顯現出**模因**和**逆模因**兩種特性。
-* **資訊危害** -- 專指對了解其資訊者造成危害的實體。與**認知危害**不同的是，認知危害需要直接暴露才會造成影響，資訊危害則能透過人與人之間的相互告知而傳播。參見[[[memetics-and-infohazards-division-orientation| 此指南]]]獲取更多資訊。
-* **動作危害**/**動作符號** -- 當實體從事特定的手勢或動作時，將產生精神或身體上的危害。
-* **巨型敵對實體** (**LSA**) -- 巨大怪物的臨床術語。
-* **模因** -- 透過交流與模仿傳播給他人的思想與行為。**認知危害**及**與資訊危害**的子類，涉及到了資訊的轉移。異常的模因是危險的資訊，它們就像是精神病毒，會在接觸者身上引發異常反應。更多資訊參見[[[understanding-memetics | 弄懂模因學]]]以及[[[memetics-and-infohazards-division-orientation| 此指南]]]。
-* **敘素** -- 敘述的基本單位，就跟**模因**是文化的基本單位同理。
-* **敘述危害** -- 獨立、單獨的敘述單位構造（亦稱為**敘事**）會集體破壞相關的故事。
-* **思想圈** --  人類的思想領域，包括了夢想、概念與靈感。
-* **本質促動**/**本質促動者** -- **現實扭曲者**的臨床術語。
-* **[[[nexus-series| Nexus]]]** -- 永久社群形成的異常活躍地帶。
-* **超形上學/'超形上學** -- 就虛構敘述進行的科學研究，這包括了虛構的SCP宇宙本身。
-* **相嘯魔** -- 違背現實與存在規律，位於現實結構中的意識。
-* **超模因** -- 根據接受者的性質或情況，能表現出**模因**或**逆模因**性質的資訊。經常用於宣傳像是[[[dread-circuses-hub| 赫曼·富勒的不安馬戲團]]]這種少會引起**基金會**注意的組織。
-* **現實扭曲者**/**現實歪曲者** -- 以各類方式改變現實的能力。可被稱為**本質促動**或者魔法（儘管**奇蹟術**通常被認為是獨立的東西）。[[[goc-supplemental-threat-entities| 全球超自然聯盟的術語]]]將人形現實扭曲者稱為「綠型」。參見[[[and-this-one-explains-humes|其問答集]]]及[[[clef101|此指南]]]獲得更多資訊。
-* **符號異常**/**符號危害** — 擾動**符號圈**（有關現實資訊在接受感知或測定前所經歷的媒介）的異常現象，會創造出不應有的普遍公理。
-* **靈譜實體** -- 幽靈或精神的臨床術語。因其是由外質構成的實體，亦可稱為外質體。
-* **超現實學** -- 就過於難以理解或怪異異常進行的科學研究，為此他們不得不進行不合邏輯的思考並服用**不可知劑**。
-* **塔爾塔羅斯共振能量** (**TRE**) -- 由惡魔實體自然生成之輻射。命名源自於希臘冥界的一部分，用以囚禁犯人與罪人的「[https://zh.wikipedia.org/wiki/%E5%A1%94%E8%80%B3%E5%A1%94%E7%BD%97%E6%96%AF 塔爾塔洛斯]」。 
-* **奇蹟術** -- 對魔法進行的科學研究，亦稱奇蹟學。參見[[[goc-supplemental-thaumatology| 此講座]]]及[[[another-goddamn-magic-system| 此指南]]]獲取更多資訊。魔法使用者被稱為奇蹟術師，[[[goc-supplemental-threat-entities| 全球超自然聯盟]]]則稱為「藍型」。
-* **堤喀術** -- 機率操縱的臨床術語，命名自希臘命運與幸運女神[https://zh.wikipedia.org/wiki/%E5%A0%A4%E5%96%80 堤喀]。
-* **門徑** -- 兩個地點間的異常連接，使人能在兩地之間通行。更多資訊參見[[[another-goddamn-magic-system| 此指南]]]。
+++ 異常科學
+基金會與其他關注組織用以描述/歸類異常的術語。
+* **奧秘消解（acroamatic abatement）** -- 將異常廢料與奧祕物質加工為無異常的工業廢水。參見[[[acroamatic-abatement|你應該知道卻望名生畏不敢追問的奧秘消解部所有資訊]]]頁面的詳細陳述。
+* **阿基瓦場** / **阿基瓦輻射（Akiva Field** / **Akiva Radiation）** -- 與信仰者和神祇相關的輻射，可以[[span class="ruby"]]厘阿基瓦[[span class="rt"]]centiAkiva[[/span]][[/span]]（cÁ/cAk）為單位加以測定及量化。高阿基瓦輻射可能與當地有神聖存在、高虔誠個人、宗教意義聖物有關。命名源自[https://en.wikipedia.org/wiki/Rabbi_Akiva 拉比．阿基瓦]。參閱[[[tactical-theology-hub|戰術神學部中心頁]]]與[[[Akiva Counter Operating Instructions|阿基瓦計數器操作指引]]]獲取更多資訊。
+* **異人** / **超常人** / **超人（anahuman** / **parahuman** / **superhuman）** -- 具有異常特性或能力的人類。
+* **[/system:page-tags/tag/逆模因 逆模因（antimemetic）]** -- 逆模因（亦稱為反概念）是基於其固有性質阻礙人類傳播的思想。基金會有一個[[[antimemetics-division-hub| 逆模因部]]]專責調查與收容異常的逆模因。
+* **至高萬能實體（Apex Tier [[[divine-dossier| Pluripotent Entity]]]）** -- 極端強大的異常實體，近乎於無所不能。通常用作為神靈的科學語調術語（儘管不是所有神靈都是「萬能」的）。可能是也可能不是**食信者**。
+* **形貌輻射（Aspect Radiation──ARad）** -- **EVE** 足以扭曲現實的**EVE**輻射，乃是**奇蹟術**的基礎。
+* **反衝（backlash）** -- **奇蹟術**的副作用，造成對現實的隨機竄改。
+* **丑型實體（bozomorphic）** — 對近似小丑實體的科學語調術語。各類型丑型實體摘錄請參閱[[[dread-circuses-hub|恐懼與馬戲團中心頁]]]。
+* **官僚危害（bureaucratohazards）** -- 影響官僚體系的**符號危害**子類，使某些實體儘管犯下罪行或違反規定卻能無罪脫身。
+* **血肉術** / **血肉塑造術（carnomancy** / **fleshcrafting）** -- 改變與重塑肉體的異常技術，最常由[[[sarkicism-hub| 慾肉教]]]的追隨者實現運用。
+* **認知阻力分數** / **認知阻值（Cognitive Resistance Score** / **Cognitive Resistance Value──CRV）** -- 衡量個人的精神毅力與對精神影響項目的抵抗力，尤其是對**模因**類的異常。另有認知危害抵抗分數、認知危害抵抗值、[[span class="ruby"]]心靈影響抵抗分數[[span class="rt"]]Mind-Affecting Resistance Score[[/span]][[/span]]（MARS）、精神抵抗分數，每種分數都使用相應的量表進行測定。
+* **[/system:page-tags/tag/認知危害 認知危害（cognitohazard）]** -- 此術語用於指稱對感知造成危害的項目。認知危害可以透過任何感官觸發，包括視覺、聽學、嗅覺、味覺、觸覺。與**資訊危害**不同的是，僅被告知項目存在**認知危害**並不會觸發異常效應。另見**模因**與**詮解體**。
+* **[/system:page-tags/tag/ectoentropic 反熵（ectoentropic）]** -- 以無法解釋方式產生能量或物質的實體，明顯違反了[https://zh.wikipedia.org/wiki/%E7%83%AD%E5%8A%9B%E5%AD%A6#%E7%86%B1%E5%8A%9B%E5%AD%B8%E5%AE%9A%E5%BE%8B 熱力學定律]的第一定律與第二定律──能量（包括物質）不能無中生有，並且熵（系統的失序）必定隨著時間推移始終增加。
+* **生命衝力能量（Elan-Vital Energy──EVE）** -- 從生命或具生命異常散發出的神祕能量，可為奇蹟術提供動力。參見[[[goc-supplemental-arad|該講座]]]了解更多資訊。或與以下術語等價：[https://zh.wikipedia.org/wiki/%E6%B0%94%E5%9C%BA 靈光]、[https://zh.wikipedia.org/wiki/%E7%91%AA%E9%82%A3 瑪那]、[https://en.wikipedia.org/wiki/Orgone 奧根]、[https://en.wikipedia.org/wiki/Qi 氣]。
+* **本質物理學（essophysics）** -- 對抽象概念的物理體現/表現形式進行之科學研究。
+* **超維度** / **外現實（extradimensional** / **extra-reality）** -- 存在於或源自於其他現實。
+* **嗜血者（hemovore）** -- 吸血鬼的科學語調術語。
+* **詮解體（hermeneutic）** -- 由概念再解釋觸發或產生的認知危害，是基線現實重新語境化導致的現實改動效應。
+* **休謨（Hume）** -- 衡量地區現實強度或指數的單位。更多資訊請參見其[[[and-this-one-explains-humes|問答集]]]。取名自哲學家[https://zh.wikipedia.org/wiki/%E5%A4%A7%E5%8D%AB%C2%B7%E4%BC%91%E8%B0%9F 大衛．休謨]。
+* **資訊過敏源（infoallergenic）** -- 不常見的資訊危害，能同時顯現出**模因**和**逆模因**兩種特性。另見**超模因**。
+* **[/system:page-tags/tag/資訊危害 資訊危害（infohazard）]** -- 專指對了解其資訊者造成危害的實體。與**認知危害**不同的是，認知危害需要直接暴露才會造成影響，資訊危害則能透過人與人之間的相互告知而傳播。正因如此，**資訊危害**影響往往是**模因**特性的。參見[[[memetics-and-infohazards-division-orientation| 此指南]]]獲取更多資訊。
+* **動作危害** / **動作符號（kinetohazard** / **kinetoglyphs）** -- 當實體從事特定的手勢或動作時，將產生精神或身體上的危害。
+* **巨型敵對實體（Large-Scale Aggressor──LSA）** -- 巨大怪物的科學語調術語。
+* **[/system:page-tags/tag/模因 模因（memetic）]** - [https://zh.wikipedia.org/wiki/%E8%BF%B7%E5%9B%A0 迷因]本是可以透過溝通或模仿傳播的文化、思想、行為基本單位。在基金會作「模因」，模因效應是涉及資訊傳遞的**認知危害**與**資訊危害**子類。具有異常模因特性的思想與概念，比起非異常模因更能有效傳播，並且可能對接觸者產生異常影響。更多資訊參見[[[understanding-memetics | 弄懂模因學]]]以及[[[memetics-and-infohazards-division-orientation| 此指南]]]。
+* **[/system:page-tags/tag/變形 變形者（metamorphic）]** / **多形者（polymorphic）** -- 形體變換能力者的科學語調術語，即能改變自身形態或外觀的實體。
+* **[/system:page-tags/tag/擬態 擬態（mimetic）]** -- 具有異常能力仿擬其他生物或物體的實體。
+* **敘性論（narrativistics）** -- 用於理解與證明同系統中存在衝突模型合理性的元-元框架。利用全像理論、擴展模態現實主義、敘事學、機械決定論、荒誕主義等，多方面證成本現實可能是講述複雜故事無限嵌套循環的一部分。參閱[[[Narrativistics And You | 敘性論與你]]]獲取更多資訊。另見**超形上學**。
+* **敘述危害（narrativohazard）** -- 獨立、單獨敘述單位構造（亦稱為**敘事**）共同破壞了自身所屬故事。
+* **[https://en.wikipedia.org/wiki/Narreme 敘素（narreme）]** -- 敘述的基本單位，就跟**模因**是文化的基本單位同理。
+* **思想創生（noogenesis）** -- 新意識形成的科學語調術語。
+* **[https://zh.wikipedia.org/wiki/%E6%99%BA%E6%85%A7%E5%9C%88 思想圈（Noosphere）]** --  人類的思想領域，包括了夢想、概念與靈感。[[[the-wild-light| 可能會]]]或[[[scp-6820| 可能不會]]]產生並在概念上包含整個多元宇宙。
+* **本質促動** / **本質促動者（ontokinesis** / **ontokinetic）** -- **現實扭曲者**的科學語調術語。
+* **超常** / **超自然（paranormal** / **paranatural** / **preternatural）** -- 用於描述基金會歸定**異常**的替代術語。異常也可以稱為神秘、超凡。
+* **[http://scp-zh-tr.wikidot.com/system:page-tags/tag/超形上學部 超形上學（pataphysics）]** / **'超形上學（ 'pataphysics）** -- 就虛構敘述進行的科學研究，這包括了虛構的SCP宇宙本身。[https://en.wikipedia.org/wiki/'Pataphysics '超形上學]最初提出是作為對科學的模仿，作為形上學的進階，定義是對想像解決方案的研究。參閱[[[intro-aux-anomalies-narratives | 敘事異常指南]]]獲取更多資訊。另見**敘性論**。
+* **靈能（psionics）** -- 超自然現象的產生與純心靈現象的探測，包括念力、心電感應、預知未來、千里眼，這些能力被通稱為超感官知覺[[span class="ruby"]]超感官知覺[[span class="rt"]]extra-sensory perception[[/span]][[/span]]（ESP）。靈能學科學研究被稱為超心理學或心靈科學，後者主要由東歐與前蘇聯地區使用。靈能能力者可被稱為靈能術士、通靈者、靈能者、靈能師或靈能力者。參閱[[[psi-guide-1| 此講座]]]獲取更多資訊。
+* **[/system:page-tags/tag/相嘯魔 相嘯魔（Pattern Screamer）]** -- 嵌入現實結構中的意識。這個實體並不存在，儘管可能在過去的某個時刻存在，並可能在被感知到時存在。亦稱為[[[pattern-dwellers-an-expose| 居相者]]]。
+* **食信者（pistiphage）** -- 以信仰為食的實體，從信仰與崇拜獲取食物與力量。通常用作神的科學語調術語。食信者也可能是[https://zh.wikipedia.org/zh-tw/%E5%9B%BE%E5%B8%95 圖帕]或[https://en.wikipedia.org/wiki/Egregore 類魂]，僅僅因為人類相信而存在著。**至高萬能實體**可能是也可能不是食信者。
+* **超模因（pretermemetic）** -- 根據接受者的性質或情況，能選擇展現**模因**或**逆模因**性質的資訊。[[[dread-circuses-hub| 赫曼·富勒的不安馬戲團]]]等團體經常用此打廣告，以避免引起**基金會**等組織的注意。另見**資訊過敏源**。
+* **[/system:page-tags/tag/本質促動 現實扭曲（reality bending）]** / **現實歪曲（reality warping）** -- 以各類方式改變現實的能力。可被稱為**本質促動**或者魔法（儘管**奇蹟術**通常被認為是獨立的東西）。[[[goc-supplemental-threat-entities| 全球超自然聯盟的術語]]]將人形現實扭曲者稱為「綠型」，也有[[[grasp-on-reality| 「比斯比」]]]、「本質促動者」、[[[goc-supplemental-thaumatology| 「外部觀察者」]]]、客觀現實獨立者。參見[[[and-this-one-explains-humes|其問答集]]]及[[[clef101|此指南]]]獲得更多資訊。
+* **符號異常** / **符號危害（semiontological anomaly** / **semiohazard）** -- 擾動**符號圈**的異常現象，會創造出不應有的普遍公理。
+* **符號圈（semiosphere）** -- 現實資訊在接受感知或測定前所經歷的媒介。
+* **靈譜實體（spectral entity）** -- [system:page-tags/tag/ghost 鬼魂]、幽靈、靈魂的科學語調術語。或稱死後實體、外形體、外質體（由外質構成的實體）。參閱[[[anatomy-of-a-specter| 本檔案]]]獲取更多資訊。
+* **靈譜學（spectremetry）** -- 針對**靈譜實體**的科學研究。
+* **[/system:page-tags/tag/超現實部 超現實學（surrealistics）]** -- 就過於難以理解或怪異異常進行的科學研究，為此他們不得不進行不合邏輯的思考並服用**不可知劑**。此術語源於[https://zh.wikipedia.org/wiki/%E8%B6%85%E7%8E%B0%E5%AE%9E%E4%B8%BB%E4%B9%89 超現實主義]藝術運動。
+* **塔爾塔羅斯共振能量（Tartarean Resonance Energy──TRE）** -- 由惡魔實體自然生成之輻射。命名源自於希臘冥界的一部分，用以囚禁犯人與罪人的「[https://zh.wikipedia.org/wiki/%E5%A1%94%E8%80%B3%E5%A1%94%E7%BD%97%E6%96%AF 塔爾塔洛斯]」。
+* **塔爾塔洛斯級惡魔實體** / **塔爾塔洛斯實體（Tartarean-Class Demonic Entity** / **Tartarean Entity）** -- 惡魔的科學語調術語。參閱[[[undervegas-hub|陰間維加斯中心頁]]]獲取各類塔爾塔洛斯實體概述。
+* **奇蹟學（thaumatology）** -- 對**奇蹟術**的科學研究，此術語的意思是「奇蹟創造」，所謂的奇蹟是指魔法與奇蹟等超自然現象。在[[[goc-supplemental-threat-entities| 全球超自然聯盟術語]]]中，儘管還存在諸如「巫師」、「術士」、「法師」等指稱魔法使用者的術語，但還是以奇蹟術師、奇蹟術士、「藍型」為主。在與**現實扭曲者**區別時，奇蹟學研究對象通常是遵循更可預測規則與限制的現象。參閱此[[[goc-supplemental-thaumatology| 講座]]]、[[[another-goddamn-magic-system| 指南]]]、[[[sistema-taumaturgico| 檔案]]]以及[[[A Brief Introduction to Thaumaturgical Engineering| 奇蹟術工程簡介]]]獲取更多資訊。
+* **堤喀術（tychekinesis）** -- 機率操縱的臨床術語，命名自希臘命運與幸運女神[https://zh.wikipedia.org/wiki/%E5%A0%A4%E5%96%80 堤喀]。
+* **門徑（Way）** -- 兩個地點間的異常連接，使人能在兩地之間無視距離的快速通行。門徑能實現通往其他現實的旅行，包括前往[[[wanderers-library-hub| 流浪者的圖書館]]]。或可稱為[[[scp-5024|羅森-福瓊橋梁]]]或[[[scp-6000| W級傳送門]]]。參見[[[another-goddamn-magic-system| 此指南]]]獲取更多資訊。
 
-++ 虛構技術
+++ 異常技術
 存在於基金會設定中的虛構技術。
-* **不可知劑** -- 改變服用者的思考模式，使其更加的不合邏輯，從而對其他難以理解異常抱持更開放態度的藥物。另見**超現實學**。
-* **記憶消除劑** -- 誘發記憶喪失的藥物、措施與裝置。儘管真實的確存在化學物質具有記憶刪除的特性，但基金會虛構的記憶刪除劑具有更大的效率與異常特性，能使平民目擊者失去異常活動情況的記憶。儘管確切細節有所異同，更多資訊參見[[[amnestic-orientation-manual| 記憶消除劑指南]]]以及[[[updated-amnestics-guide| 更新版記憶消除劑指南]]]。
-* **傳送** -- 透過**奇蹟術**實現的遠程傳輸。
-* **人工智慧徵用體** (**AIC**) -- 由基金會[[[aiad-homescreen| 人工智慧應用部]]]創造並聘用的人工智慧。
-* **鈹青銅** -- 經常用於製造異常裝置的合金屬。
-* **反模因** -- 能對抗或反轉異常模因影響的**模因學**概念。
-* **本徵武器** -- 異常的大規模毀滅武器。參見[[[deus-vulture| 本故事]]]了解這類武器的發展史。另有術語「本徵機器」，用以描述類似但用途並非破壞的裝置。
-* **深井伺服器** -- 專門用於儲存數據的伺服器，能在現實扭曲之際妥善保存資訊。更多資訊參見[[[SCP-4800]]]。
-* **禁約** -- 透過模因製劑強迫某人遵循某套規範或準則。這個名字來自於愛爾蘭神話的[https://en.wikipedia.org/wiki/Geas 禁約]，是對特定行為的強制魔法禁令。
-* **靈知劑** -- 與**不可知劑**，靈知劑使人對事物的觀點更加肯定與確定，儘管這並不一定會使他們是正確的。
-* **康德計數器** - 用以測量地區**休謨**等級的儀器，也就是衡量當地的現實量的高低。更多資訊參見[[[and-this-one-explains-humes|此問答集]]]。命名自哲學家[https://en.wikipedia.org/wiki/Immanuel_Kant 伊曼努爾·康德]。
-* **模因滅殺劑** -- 一種**模因****認知危害**，對任何接觸者都會產生致命的影響，除非你事先接受了適當**反模因**的接種。它用於保護[[[SCP-001]]]等重要檔案免於未經授權的訪問。
-* **記憶強化劑** -- 與**記憶消除劑**相反，記憶強化劑是用以增強使用者記憶的化合物。這可以喚回被抹除或忘卻的記憶，或是抵抗記憶消除劑與**逆模因**的影響。參見[[[antimemetics-division-hub| 逆模因部]]]以及[[[updated-amnestics-guide| 更新版記憶消除劑指南]]]獲取更多資訊。
-* **超常科技** (**超科技**) -- 使用異常原理或材料運作的技術。更具體的術語還有超常武器、超常藥物以及用以個別專科的超常技術。
-* **斯克蘭頓現實穩定錨** 用以穩定周圍現實的技術，用以妨礙與限制**現實扭曲者**。參見[[[and-this-one-explains-humes|此問答集]]]獲取更多資訊，藍圖則可參見[[[reach-s-blueprint-folder| 此頁面]]]。
-* **「阻念」合金** ([[[SCP-148]]]) -- 一種能夠阻斷與妨礙心靈感應及精神控制等異常超感心理效應特性的金屬。
-* **Xyank/Anastasakos連續時間槽** -- 以基金會時間異常部的Thaddeus Xyank博士與Athena Anastasakos的名字共同命名。能保護地區或物體免於時空變化的影響。藍圖參見[[[reach-s-blueprint-folder| 本頁面]]]。
+* **不可知劑（agnostics）** -- 改變服用者的思考模式，使其更加的不合邏輯，從而對其他難以理解異常抱持更開放態度的藥物。另見**超現實學**。
+* **阿基瓦計數器** / **阿基瓦探測器（Akiva Counter** / **Akiva Detector）** -- 用於測量**阿基瓦輻射**水準的裝置，可量化神聖存在與個人的虔誠度。其運作原理等更多資訊，請參閱[[[Akiva Counter Operating Instructions| 阿基瓦計數器操作指引]]]。
+* **記憶消除劑（amnestic）** -- 誘發記憶喪失的藥物、措施與裝置。儘管真實的確存在化學物質具有記憶刪除的特性，但基金會虛構的記憶刪除劑具有更大的效率與異常特性，能使平民目擊者失去異常活動情況的記憶。儘管確切細節有所異同，更多資訊參見[[[amnestic-orientation-manual| 記憶消除劑指南]]]以及[[[updated-amnestics-guide| 更新版記憶消除劑指南]]]。
+* **傳動（apportation）** -- 透過**奇蹟術**實現的遠程傳輸。
+* **人工智慧徵用體（Artificially Intelligent Conscript──AIC）** -- 由基金會[[[aiad-homescreen| 人工智慧應用部]]]創造並聘用的人工智慧。
+* **鈹青銅（beryllium bronze）** -- 經常用於製造異常裝置的合金屬。對其特性的具體描述差異甚大，從[[[scp-8765|強化奇蹟術能量]]]到[[[scp-6678|傳遞情感]]]與[[[scp-3721|意識]]]均有。
+* **布萊特/札森人體複製艙（Bright/Zartion Hominid Replicator──BZHR）**-- 能運用原料製造非異常人類的裝置。能創造各種年齡的人類個體，並植入相應的記憶與技能。BZHR對[[[SCP-2000]]]的功能至關重要，還能用於製造**[[[D-2000| D級]]]**人員甚至是基金會職員。
+* **反模因** / **模因接種（countermeme** / **memetic inoculation）** -- 能對抗或反轉異常模因影響的**模因**概念。
+* **暗網（Dark Web）** -- 由[[[marshall-carter-and-dark-hub| 馬歇爾、卡特、達克公司]]]經營的訂閱制雲端[[[the-dark-web-dke79-o2rg5-4jlw6 |演算服務]]]，可使普通電腦存取異常應用程式。異常社群用其來存取**虛**等服務。
+* **深井伺服器（Deepwell server）** -- 專門用於儲存數據的伺服器，能在現實扭曲之際妥善保存資訊。更多資訊參見[[[SCP-4800]]]。
+* **惡魔毒品（demonarcotics）** -- 由惡魔製成的能力增強藥物。
+* **惡魔學（demonics）** -- 使稱為惡魔的具感知實體，進入物體──尤其是電子設備──中的**超常技術**。參閱[[[a-brief-explanation-on-demonics| 這段歷史]]]了解更多資訊。
+* **本徵武器（eigenweapon）** -- 異常的大規模毀滅武器。參見[[[deus-vulture| 本故事]]]了解這類武器的發展史。另有術語「本徵機器」，用以描述類似但用途並非破壞的裝置。
+* **埃弗哈特共振器（Everhart Resonator）** -- 將電能轉換為**EVE**的裝置，能為施展**奇蹟術**提供動能。
+* **禁約（Geas）** -- 透過模因製劑強迫某人遵循某套規範或準則。這個名字來自於愛爾蘭神話的[https://en.wikipedia.org/wiki/Geas 禁約]，是對特定行為的強制魔法禁令。
+* **靈知劑（gnostics）** -- 與**不可知劑**，靈知劑使人對事物的觀點更加肯定與確定，儘管這並不一定會使他們是正確的。
+* **康德計數器（Kant Counter）** - 用以測量地區**休謨**等級的儀器，也就是衡量當地的現實量的高低。更多資訊參見[[[and-this-one-explains-humes|此問答集]]]。命名自哲學家[https://en.wikipedia.org/wiki/Immanuel_Kant 伊曼努爾．康德]。
+* **模因滅殺劑（Memetic Kill Agent）** -- 一種**模因****認知危害**，對任何接觸者都會產生致命的影響，除非事先接受了適當**反模因**的接種。它用於保護[[[SCP-001]]]等重要檔案免於未經授權的訪問。
+* **記憶強化劑（mnestic）** -- 與**記憶消除劑**相反，記憶強化劑是用以增強使用者記憶的化合物。這可以喚回被抹除或忘卻的記憶，也能抵抗記憶消除劑與**逆模因**的影響。參見[[[antimemetics-division-hub| 逆模因部]]]以及[[[updated-amnestics-guide| 更新版記憶消除劑指南]]]獲取更多資訊。
+* **奧瑞卡科斯** / **奧利哈鋼（oriykalkos** / **orichalcum）** -- 源於亞特蘭提斯的結晶物質，能儲存巨量的數位資訊與電力/奇蹟術能量。儘管極為罕見，但基金會已成功創造了[[[SCP-6488|合成奧瑞卡科斯]]]，作為可大規模生產的劣質替代品。參閱[http://scp-zh-tr.wikidot.com/scp-6500/offset/3 SCP-6500] 獲取更多資訊。
+* **圓形監獄（PANOPTICON）** -- 用於監視全世界異常現象的全球監視網路。由多個秘密監視設備、連接政府監控系統、超技術結構、**人工智慧徵用體**與一系列衛星組成。由總部位於[[[secure-facility-dossier-site-7|Site-7]]]的RAISA監控部門管理。參閱[[[SCP-5900]]]獲取更多資訊。
+* **超常技術（paratechnology──paratech）** -- 仰賴異常原理或組件運作的技術。諸如超常武器、超常藥物等更具體術語當屬其子類。此類異常也可以稱為奧術技術、奇蹟物品、魔法物品、[[[sistema-taumaturgico|奇蹟技術]]]。
+* **平克曼-辛克萊敘事波動偵測器（Pickman-Sinclair Narrative Fluctuation Detector）** -- 用於偵測敘事變化的手持裝置。與[[[i-h-p-proposal|敘事因果律]]]以及**超形上學**相關。
+* **斯克蘭頓現實穩定錨（Scranton Reality Anchor──SRA）** -- 穩定周圍現實的技術，用於阻止或限制**現實扭曲**與[[[scp-2000| 異常干擾]]]。或稱[[[scp-1451| 斯克蘭頓盒]]]，不過後者可能會用來指稱不同的技術。可透過[[[scp-4231| 捕抓現實扭曲者]]]發揮作用，不過對其運作原理也存在[[[scp-4065| 其他的解釋]]]。參閱[[[and-this-one-explains-humes| 此問答]]]與[[[grant-request-for-the-manufacture-of-devices-to-regulate| 此撥款申請]]]獲取更多資訊，藍圖則可參見[[[reach-s-blueprint-folder| 此頁面]]]。該技術得名於世界觀內的發明者[[[scp-3001| 羅伯特．斯克蘭頓]]]。
+* **「阻念」合金（Telekill──[[[SCP-148]]]）** -- 能夠阻斷與妨礙心靈感應及精神控制等異常超感心理效應特性的金屬。參閱[[[SCP-7814]]]獲取更多資訊。
+* **賽楊克-安娜斯塔薩科斯連續時間槽（Xyank-Anastasakos Constant Temporal Sink** / **Xyank-Anastasakos Constant Time Sink──XACTS)** -- 得名於基金會[[[welcome-to-delta-t| 時間異常部]]]的薩迪厄斯・賽楊克博士以及雅典娜・安娜斯塔薩科斯博士。能保護某地或某物免於時間變化的影響，或改變時間流速以減緩或加快時間流逝。藍圖則可參見[[[reach-s-blueprint-folder| 此頁面]]]。
+
+++ 異常文化
+用於描述異常個人與社群的事件與實用術語。
+
+* **異常藝術（anart）** -- 可以是具有異常特性的藝術品，又或是用於藝術表達的異常。參閱[[[a-study-of-anomalous-art| 本檔案]]]以及[[[anart-lecture|本講座]]]獲取更進一步的分析。
+* **異常藝術家（anartist）** -- 有能力製造**異常藝術**之人，諸如[[[are-we-cool-yet-hub| Are We Cool Yet?]]]以及[[[hub-madao| 麥地奇超自然藝術學院]]]等組織的成員。
+* **焚書人（Bookburner）** -- 對[[[goc-hub-page | 全球超自然聯盟]]]人員的蔑稱，主要由[[[serpent-s-hand-hub | 蛇之手]]]相關成員使用。
+* **議院協議（House Accords）** -- 基金會、[[[goc-hub-page|全球超自然聯盟]]]、美國國防部（尤其是該部的超自然部門[/system:page-tags/tag/五角星 五角星]）於1960年代簽訂的條約。議院協議規範三方於美國國土應遵守的原則，並授權組織間可進行的特定合作內容，例如交換異常項目相關檔案。
+* **獄卒（Jailer）** -- 對基金會人員的蔑稱，主要由[[[serpent-s-hand-hub | 蛇之手]]]相關成員使用。
+* **看門人（Janitor）** -- 對基金會人員的俗稱，主要由[[[gamers-against-weed-hub|反大麻玩家]]].相關成員使用。
+* **1981年多元基金會協議** / **1981年多元基金會聯合協定（Multi-Foundation Pact of 1981** / **1981 Multi-Foundation Coalition Agreement）** -- 他世界線/宇宙多迭代基金會之間的協議。簽屬基金會必須遵守[[[scp-5618|一系列的規範]]]，以保護其他時間線的完整與正常，簽屬方有時需要[[[karen-queen-of-the-monsters|相互合作]]]才能實現此目標，例如需要[[[scp-6820|交換跨宇宙異常檔案]]]或是通報[[[scp-7243|有問題的基金會變體]]]。
+* **正常/常態/基線現實/共識常態/平常世界（normalcy** / **normality** / **baseline reality** / **consensus reality** / **mundane world）** -- 基金會透過收容異常以保護的世界表面正常狀態。另見**帷幕**。
+* **常態組織（Normalcy Organization）** -- 向公共隱瞞異常存在的機構。包括基金會與部分**關注組織**，例如[[[goc-hub-page| 全球超自然聯盟]]]以及各國的超自然調查機構，像是FBI[[[unusual-incidents-unit-hub|特異事故處]]]。
+* **超自然戰爭（Occult War）** -- 由於參戰者與使用武器具有異常性質，已經向公眾隱瞞的衝突。超自然戰爭可能與公眾所知的非異常衝突同時發生，例如[/system:page-tags/tag/7th-occult-war 第七次超自然戰爭]通常是指第二次世界大戰期間發生的異常衝突。前六次超自然戰爭的日期與事件並沒有廣泛的共識設定。
+* **超常犯罪（paracrime）** -- 非法超自然活動，FBI[[[unusual-incidents-unit-hub|特異事故處]]]將對此展開追查，並處於囚禁於[[[Paramax| 超極限]]]之中等刑罰。這包括透過異常實施詐欺、竊盜、謀殺等正常犯罪，以及違反異常法規諸如非法販售**超常技術**等。
+* **超常罪犯（paracriminal）** -- 諸如[[[Chicago Spirit]]]芝加哥鬼靈等犯罪集團成員的超自然罪犯。超常罪犯可能是實行普通犯罪的異常實體，也可能是實施**超常犯罪**的非異常人類。
+* **[[[the-gulf|美國南部異常組織合作條約（Southern United States Extranormal Organization Cooperation Treaty]]]──SUSEOCT）** -- FBI[[[unusual-incidents-unit-hub|特異事故處]]]提出的區域公約，旨在規範美國南部──尤其是[[[the-gulf|墨西哥灣沿岸地區]]]──各**關注組織**的運行。簽署方包括基金會、[[[marshall-carter-and-dark-hub|知名GoIs]]]在此的[[[horizon-initiative-hub|多個地方派系]]]乃至[[[scp-7113|看似並非異常]]]的[[[scp-5952|組織]]]。
+* **船長（Skipper）** -- 異常社群對SCP基金會職員的俗稱，主要由FBI[[[unusual-incidents-unit-hub | 特異事故處]]]相關成員使用。
+* **帷幕** / **帷幕協議** / **常態帷幕** / **正常帷幕** / **面紗協議（The Veil** / **The Veil of Secrecy** / **The Veil of Normalcy** / **The Veil of Normality** / **The Veil Protocol）** -- 指稱異常與意識到異常存在者與正常世界的分隔。基金會等**常態組織**將致力於維護帷幕，隱蔽異常的存在。
+* **虛（Void）** -- 類似於推特的超自然網路社群，於**暗網**中運作。參閱此[[[component:void-post|組件]]]了解該社群的貼文格式。
 
 + 世界觀外術語
 可能在**中心**、**心得**、**指導**及討論頁使用的術語。
 
 ++ 網站術語
 網站上使用的官方術語
-* **001提案** -- [[[SCP-001]]]的提案，通常以提案者的名稱命名。
-* **[[[archived-scps|已歸檔]]]** (**ARC**) -- 過時或被認為品質低落的作品，但僅接受歸檔處分而非刪除。此處分除了指南與官方網頁外已不再使用。歸檔這個詞彙在世界觀中偶爾也會被用以指稱那些曾被歸定為SCP的異常。
-* **[[[authors-pages| 作者頁面]]]** -- 亦稱為「人事檔案」，是網站作者在完成三篇以上的合格文章後，能列出自己作品的地方。頁面的內容完全由作者自己決定。
-* **作者下位** (**AA**) -- 亦稱自我帶入或原創人物(OC)，是指在虛構故事中設計出代表作者的角色。這可以是很現實的，也可以很搞笑與荒誕無稽，抑或是這兩者間的任何情況。沒有規則要求或禁止作者有自己的下位，但他們的下位將與其他虛構角色的批評標準完全一致。
-* **區段** -- 系列中每100篇項目是1個區段，如「000區段」、「100區段」或者「1300區段」。
-* **[[[canon-hub| 設定]]]** --由多位作者撰寫的系列文章，其故事發生於共同而連續的背景中。
-* **[[[components-hub| 組件]]]** -- 透過[[include]]語法其他功能的頁面，以便增加新設計、風格與功能。
-* **[[[creepy-pasta]]]** -- 指稱短篇故事或斷片的術語，以都市傳說和恐怖故事，經常在無著名作者與源頭的情況下到處流傳。就網站的角度來說，creepypasta是故事的一個子類，是網站成員的原創作品，一般不會套用基金會敘事的框架。
-* **評價** -- 對草稿或已發表的SCP提供回饋。可以是積極的、消極地或兩者兼具，但你必須遵循[[[criticism-policy|評價政策 ]]]。
-* **CSS** (**階層式樣式表**) -- 一種程式語言，可以用來改變網站元素外觀。參見[http://scp-int.wikidot.com/manuel-de-formatage-avance 此心得]，了解更多關於在網站上能簡單使用的CSS。
-* **[[[archived:decommissioned-scps| 已廢除]]]** -- 曾經的網站措施，針對過於糟糕的SCP另外寫一個故事，由工作人員的**作者下位**將其摧毀，並保持原文本作為「恥辱牆」使用。這種措施已經廢止了，但這個詞彙在世界觀中仍會使用。
-* **草稿** -- 正在撰寫中的作品。草稿不應該出現在正規網站上，討論區也不行；至於要如何創建自己專屬的沙盒頁面，請見[http://scp-sandbox2-zh.wikidot.com/ SCP維基沙盒]的說明。
-* **[[[essay-hub| 心得]]]** -- 由SCP維基社群成員撰寫的資訊頁面。另見**指導**。
-* **段落** -- 旨在導入單一頁面的頁面。
-* **[[[goi-formats|GoI格式]]]** -- 以特定**關注組織**角度撰寫的文章，應符合該**GoI**中心頁規範的格式。
-* **[[[guide-hub|指導]]]** -- 由SCP維基**工作人員**正式認可的資訊頁面。
-* **中心** -- 有大量相關頁面超連結的頁面，以便於在各頁面間快速導引。
-* **國際站** (**INT**) -- 可能是指SCP基金會的外文分部，也可能是指[http://scp-int.wikidot.com/ 國際站翻譯檔案室]，這裡收錄了由這些分部或社群翻過來的文章。請注意，分部是依照語言而非國家命名並建立的。
- * **EN** -- 英文SCP維基。
+* **[http://scp-zh-tr.wikidot.com/system:page-tags/tag/001提案 001提案（001 Proposal）]** -- [[[SCP-001]]]的提案，通常以提案者的名稱命名。
+* **[[[adult-content-warning-guide | 成人內容（adult content）]]]** -- 儘管SCP維基整體是面對成年人受眾的，但當文章內容明顯不適合18歲以下時，就需要設置成人內容警告。
+* **[[[archived-scps|已歸檔（Archived──ARC）]]]** -- 過時或被認為品質低落的作品，但僅接受歸檔處分而非刪除。此處置除了指南與官方網頁外已不再使用。歸檔這個詞彙在世界觀中偶爾也會被用以指稱那些曾被歸定為SCP的異常。
+* **[[[authors-pages| 作者頁面（author page）]]]** -- 亦稱為「人事檔案」，是網站作者在完成指定條件後，能列出自己作品的地方。頁面的內容完全由作者自己決定。
+* **作者下位（author avatar──AA）** -- 亦稱自我帶入或原創人物（OC），是指在虛構故事中設計出代表作者的角色。這可以是很現實的，也可以很搞笑與荒誕無稽，抑或是這兩者間的任何情況。沒有規則要求或禁止作者有自己的下位，但他們的下位將與其他虛構角色的批評標準完全一致。
+* **區段（Blocks）** -- 系列中每100篇項目是1個區段，如「000區段」、「100區段」或者「1300區段」。
+* **[[[canon-hub| 設定（canon）]]]** -- 由多位作者撰寫的系列文章，其故事發生於共同而連續的背景中。
+* **[[[components-hub| 組件（component）]]]** -- 透過[[include]]語法其他功能的頁面，以便增加新設計、風格與功能。
+* **[[[collaboration-page-hub | 合作（collaboration）]]]** -- 文章開放給SCP維基的任何成員編輯。詳細閱讀該頁面以確定原作者的預期與允許更改類型。
+* **競賽（contest）** -- 邀請社群成員在特定主題或限制下創作的投稿比賽。勝者通常（但並非總是）透過所有參賽作品的得分數高低來決定。參閱[[[Contest Archive|競賽檔案]]]獲取SCP舉辦過競賽的完整列表。
+* **[[[creepy-pasta]]]** -- 指稱短篇故事或片斷的術語，以都市傳說和恐怖故事為核心，經常在無著名作者與源頭的情況下到處流傳。就網站的角度來說，creepypasta是故事的一個子類，是網站成員的原創作品，一般不會套用基金會敘事的框架。
+* **評價（critique）** -- 對草稿或已發表的SCP提供回饋。可以是正面的、負面的或兩者兼具，但你必須遵循[[[criticism-policy|評價政策 ]]]。
+* **階層式樣式表（CSS──Cascading Style Sheets）** -- 可以用來改變網站元素外觀的程式語言。參見[http://scp-int.wikidot.com/manuel-de-formatage-avance 此心得]，了解更多關於在網站上能簡單使用的CSS。
+* **[[[archived:decommissioned-scps| 已刪除** / **已廢除（Decommissioned──D）]]]** -- 曾經的網站措施，針對過於糟糕的SCP另外寫一個故事，由工作人員的**作者下位**將其摧毀，並保持原文本作為「恥辱牆」使用。這種措施已經廢止了，但這個詞彙在[[[decom-dept-hub|世界觀中]]]仍會使用。
+* **草稿（draft）** -- 正在撰寫中的作品。草稿不應該出現在正規網站上，討論區也不行；至於要如何創建自己專屬的沙盒頁面，請見[http://scp-sandbox2-zh.wikidot.com/ SCP維基沙盒]的說明。
+* **[[[essay-resource-hub| 心得（essay）]]]** -- 由SCP維基社群成員撰寫，提供寫作等各方面協助的資訊頁面。另見**指導**與**資源**。
+* **段落（fragment）** -- 旨在導入單一頁面的頁面。
+* **[[[goi-formats|GoI格式（GoI Format）]]]** -- 以特定**關注組織**角度撰寫的文章，應符合該**GoI**中心頁規範的格式。
+* **[[[guide-hub|指導（guide）]]]** -- 由SCP維基**工作人員**正式認可的資訊頁面。
+* **中心（hub）** -- 有大量相關頁面超連結的頁面，以便於在各頁面間快速導引。
+* **[[[scp-international| 國際站（International──INT）]]]** --可能是指SCP基金會的外文分部，也可能是指[http://scp-int.wikidot.com/ 國際站翻譯檔案室]，這裡收錄了由這些分部或社群翻過來的文章。請注意，分部是依照語言而非國家命名並建立的。
+ * **官方分部（Official Branches）** -- 足夠多作者群與翻譯群的分部，將能得到[[[how-to-create-a-branch-of-the-scp-foundation| 其他分部的正式認可]]]。
+* **EN** -- 英文SCP維基。
  * **RU** -- 俄羅斯文SCP維基。
  * **KO** -- 韓文SCP維基。
  * **CN** -- 中文SCP維基。
@@ -156,53 +213,79 @@
  * **CS** -- 捷克文SCP維基。
  * **ZH-TR**/**ZH** -- 繁體中文SCP維基。
  * **VN** -- 越南文SCP維基。
-* **[[[joke-scps|搞笑]]]** -- 搞笑文章是以愚蠢或浮誇的方式撰寫之SCP，其主要目的是幽默。請注意，這並不代表非搞笑類文章不能幽默；只不過它們要寫得更加微妙，或要仰賴情景之幽默，而非搞笑文章特有的那種過度幽默。
-* **[http://05command.wikidot.com/ O5指揮部]** -- SCP維基工作人員網站。
-* **迭代** -- 一種創建共用評分與討論線程的同頁面多版本手法，透過為各個版本創建個別的**段落**頁面，並添加代碼以循環瀏覽之。參閱[[[listpages-magic-and-you| 此心得]]]以了解其運作原理。
-* **角色扮演** -- 使虛構的SCP基金會好像真實存在的表現。角色扮演在SCP基金會的討論區與官方社群都是被禁止的。
-* **沙盒** -- 可使用SCP維基格式的空間，用於發布撰寫中的草稿。沙盒頁有很多，比如官方的[http://scp-sandbox2-zh.wikidot.com/ SCP維基沙盒]
-* **SCP文本** -- 描述基金會收容異常項目或實體的頁面。其類別還包括**搞笑** SCP、**已解明** SCP以及**001提案**。
-* **系列** -- 10區段是1個系列。使用當前未開放系列編號的SCP都將會被立即刪除。
-* **[[[incident-reports-eye-witness-interviews-and-personal-logs| 補充資料]]]** -- SCP主文本外的衛星頁面，包括對敘述而言非常重要的採訪、報告與紀錄，這些文本在因為長度與相關考量而被放到了其他頁面中。
-* **[[[foundation-tales| 故事]]]** -- 在基金會範圍內撰寫的故事、敘述與世界觀內的報告，這些文本不會使用SCP的文章模板。
-* **主題** -- 一種特定類型的組件，可改變頁面的美感。
- * **[[[sigma-9-themes| Sigma-9主題]]]** -- 基於SCP維基默認外觀的主題。
- * **[[[black-highlighter-themes| 黑色標記筆主題]]]** --基於Sigma-9的流行替代主題[[[theme:black-highlighter-theme| 黑色標記筆]]]。
+ * **發展中分部（Developing Branches）**  -- 尚未獲得**官方分部**的認可，但[http://scp-int.wikidot.com/requirements-for-developing-branches 獲得官方認可正朝正式分部發展的分部]。
+  * **EL** -- 希臘文SCP維基。
+  * **ID** -- 印尼文SCP維基。
+  * **ND** -- 北歐文SCP維基。
+  * **TR** -- 土耳其文SCP維基。
+* **[[[joke-scps|搞笑（Joke──J）]]]** -- 搞笑文章是以愚蠢或浮誇的方式撰寫之SCP，其主要目的是幽默。請注意，這並不代表非搞笑類文章不能幽默；只不過它們要寫得更加微妙，或要仰賴情景之幽默，而非搞笑文章特有的那種過度幽默。
+* **[http://05command.wikidot.com/ O5指揮部（O5 Command]）** -- SCP維基工作人員網站。
+* **迭代（offset）** -- 創建共用評分與討論串的同頁面多版本手法，透過為各個版本創建個別的**段落**頁面，並添加代碼以循環瀏覽之。參閱[[[listpages-magic-and-you| 此心得]]]以了解其運作原理。
+* **[[[essay-resource-hub| 資源（resource）]]]** -- 提供SCP基金會世界觀內資訊的資源，通常對新貢獻抱持著開放的態度。另見**心得**。
+* **角色扮演（roleplaying）** -- 使虛構的SCP基金會好像真實存在的表現。角色扮演在SCP維基的討論區與官方社群都是被禁止的。
+* **沙盒（sandbox）** -- 可使用SCP維基格式的空間，用於發布撰寫中的草稿。沙盒頁有很多，比如官方的[http://scp-sandbox2-zh.wikidot.com/ SCP維基沙盒]。
+* **SCP文章（SCP Article）** -- 描述基金會收容異常項目或實體的頁面。其類別還包括**搞笑** SCP、**已解明** SCP以及**001提案**。
+* **系列（series** -- 1000篇文章是一個SCP系列。投稿尚未開放的SCP編號文章將會立即被刪除。可將其投至[[[series-archive| 故事系列]]]作為替代。
+* **[[[incident-reports-eye-witness-interviews-and-personal-logs| 補充資料（supplement）]]]）** -- SCP主文本外的衛星頁面，包括對敘述而言非常重要的採訪、報告與紀錄，這些文本在因為長度與相關考量而被放到了其他頁面中。
+* **[[[foundation-tales| 故事（tale）]]]** -- 以SCP基金會設定為背景，並且未以**SCP**或**GoI格式**發布的虛構故事或敘事。與其他類型的文章不同，故事沒有特定的格式，通常以散文寫成。存在[/system:page-tags/tag/foundation-format#pages 基金會格式]標籤記錄模仿SCP文章格式的故事。
+* **主題（theme）** -- 特定類型的組件，可改變頁面的美感。
+ * **[[[sigma-9-themes| Sigma-9主題（Sigma-9 Themes）]]]** -- 基於SCP維基默認外觀的主題。
+ * **[[[black-highlighter-themes| 黑色標記筆主題（Black Highlighter Themes）]]]** -- 基於Sigma-9的流行替代主題[[[theme:black-highlighter-theme| 黑色標記筆]]]。
 
 ++ 工作人員術語
 維護SCP維基志願工作人員所使用的術語。
-* **[http://05command.wikidot.com/staff-list 工作人員]** -- 工作人員是SCP維基自願負責其營運、維護與政策工作的成員。更多資訊請參見[http://05command.wikidot.com/staff-structure 此頁面]。
- * **[http://05command.wikidot.com/junior-staff-guide 見習工作人員]** -- 見習工作人員協助工作人員作業，如果被認可為團隊中足夠可用的成員，他們將會在定期審核中晉升為工作人員。
- * **營運人員** -- 在試用期後晉升為見習工作人員。有權在[http://05command.wikidot.com/forum/c-595160/voting-threads O5投票議案]中提出的大多數網站政策中投票。
- * **版主** -- 備受信任而有權編輯所有頁面的人員（包括鎖定頁面），並能夠根據[[[deletions-guide| 刪除政策]]]刪除網站貼文與文章。
- * **管理員** -- 負責受理網站新成員以及封鎖違規的成員。
+* **[http://05command.wikidot.com/staff-list 工作人員（Staff）]** -- 工作人員是SCP維基自願負責其營運、維護與政策工作的成員。更多資訊請參見[http://05command.wikidot.com/staff-structure 此頁面]。
+ * **[http://05command.wikidot.com/junior-staff-guide 見習工作人員（Junior Staff）]** -- 見習工作人員協助工作人員作業，如果被認可為團隊中足夠可用的成員，他們將會在定期審核中晉升為工作人員。
+ * **營運人員（Operational Staff）** -- 在試用期後晉升為見習工作人員。有權在[http://05command.wikidot.com/forum/c-595160/voting-threads O5投票議案]中提出的大多數網站政策中投票。
+ * **編輯工具使用人員（Mod Tools Users）**  （前版主） -- 備受信任而有權編輯所有頁面的人員（包括鎖定頁面），並能夠根據[[[deletions-guide| 刪除政策]]]刪除網站貼文與文章。
+ * **管理員（Administrators）** -- 負責受理網站新成員以及封禁違規的成員。
 
 工作人員可能是以下一或多個團隊的成員。
-* **[http://05command.wikidot.com/anti-harassment-main 反騷擾小組]** (**AHT**) -- 處理SCP維基用戶間出現的騷擾事件。
-* **[http://05command.wikidot.com/community-outreach-main 社群營運小組]** (**CO**) -- 處理工作人員與網站社群間的溝通，處理並應對網站出現的各種問題。
-* **[http://05command.wikidot.com/disciplinary-main 紀律小組]** (**Disc**) -- 確保網站的行為準則有被遵守並確切執行，負責懲處違規使用者，阻絕破壞行為進一步影響網站。
-* **[http://05command.wikidot.com/internet-outreach-main 網路營運小組]** (**IO**) -- 處理並應對站外社群與更廣泛的SCP紛絲溝通的工作人員，負責向圈外粉絲傳遞重要資訊，並協助新成員了解更多維基相關的事。
-* **[http://05command.wikidot.com/license-experts-main 許可小組]** (**Licensing**) -- 確保全維基及其社群的版權標準合格。確認所有內容沒有盜用或抄襲情況發生，並檢查所有使用的媒體來源都是正確且合法的。
-* **[http://05command.wikidot.com/ambassador-main 使節小組]** -- 促進英文SCP維基與**國際站** SCP維基溝通的子團隊。另外該小組還負責解決任何可能出現，涉及INT分部的問題。
-* **[http://05command.wikidot.com/maintenance-and-ancillary-staff-team-main 維護與協助工作人員小組]** (**MAST**) -- 維護並更新網站並確保其功能正常。負責刪除與品質管控作業，並著手改良導航內容，如Wikiwalk頁尾與標籤部分。
-* **[http://05command.wikidot.com/recap-main 總結小組]** -- 閱覽、總結並發布官方版工作人員Discord內部討論摘要，執行內部紀錄作業並告知社群工作人員事務與活動。
-* **[http://05command.wikidot.com/rewrite-main 重寫小組]** -- 監督並敦促刪除線下文章的重寫。此外他們還肩負起保存與維護舊文章的任務。
-* **[http://05command.wikidot.com/technical-staff-main 技術小組]** -- 維護網站技術資源並開發新功能。
+* **[http://05command.wikidot.com/ambassador-main 使節小組（Ambassador Team）]** -- 促進英文SCP維基與**國際站** SCP維基溝通的子團隊。另外該小組還負責解決任何可能出現，涉及INT分部的問題。
+* **[http://05command.wikidot.com/anti-harassment-main 反騷擾小組（Anti-Harassment Team──AHT）]** -- 處理SCP維基用戶間出現的騷擾事件。
+* **[http://05command.wikidot.com/community-outreach-main 社群營運小組（Community Outreach──CO）]** -- 處理工作人員與網站社群間的溝通，處理並應對網站出現的各種問題。
+* **[http://05command.wikidot.com/critique-main 評價小組（Critique Team）]** -- 對點子、草稿、已發表作品提出評價。
+* **[https://05command.wikidot.com/curation-main 檢查小組（Curation Team）]** -- 負責管理SCP維基的作品，包括添加**成人內容**標籤、發布匿名文章、維護與編輯合作頁面、更新**指導**頁面、不合網站許可的圖像撤換、組織重寫有被刪除風險的低評分文章。     
+* **[http://05command.wikidot.com/disciplinary-main （Disciplinary Team──Disc）] -- 確保網站的行為準則有被遵守並確切執行，負責懲處違規使用者，阻絕破壞行為進一步影響網站。
+* **（[http://05command.wikidot.com/internet-outreach-main 網路營運小組（Internet Outreach──IO）]** -- 處理並應對站外社群與更廣泛的SCP紛絲溝通的工作人員，負責向圈外粉絲傳遞重要資訊，並協助新成員了解更多維基相關的事。
+* **[http://05command.wikidot.com/license-experts-main 許可小組（Licensing Team）]** -- 確保全維基及其社群的版權標準合格。確認所有內容沒有盜用或抄襲情況發生，並檢查所有使用的媒體來源都是正確且合法的。
+* **[http://05command.wikidot.com/maintenance-and-ancillary-staff-team-main 維護與協助工作人員小組（Maintenance And Ancillary Staff Team──MAST）]** -- 維護並更新網站並確保其功能正常。負責刪除與品質管控作業，並著手改良導航內容，如Wikiwalk頁尾與標籤部分。
+* **[http://05command.wikidot.com/technical-staff-main （Technical Team──Tech）]** -- 維護網站技術資源並開發新功能。
 
 ++ 社群術語
-* **空降文** -- 未經任何形式的評價直接上傳到網站的頁面。仍有可能獲得很高的評價，但這個詞彙通常是作為貶義使用的，特指新成員上傳的成員，這些作品若能在**草稿**狀態就獲得回饋或評論，相信會得到更大的收穫。
-* **[[[format-screw-hub| 脫落格式]]]** -- 故意違背標準SCP某些格式與框架的SCP文本，通常是因為該文本受到了SCP本身的影響。
-* **二隨** -- 指對不一致、模稜兩可甚至根本不存在的**設定**元素所做的個別解釋，人們透過這個術語描述他們如何想像基金會宇宙的各個方面，並同時意識到這僅是眾多解釋的一種。這方面的良好例子如各等級記憶消除劑的確切強度，又或是各個K級事件的確切性質。
-* **鉤** -- 在你的文本與故事中能吸引讀者讀到最後的元素。鉤必須能誘發讀者的好奇心或其他情感；它不一定要在一開始就有，但必須足夠早才能夠發揮作用。鉤也可能在文本或故事發揮另一種作用，這使得讀者能在看完後仍意猶未盡；這通常會是某種有趣的啟示或轉折的結局，並傾向於放在作品的收尾處。
-* **Keter任務** -- 在世界觀中威脅人員透過將其降為D級等方式調去危險的Keter級任務作為懲罰。被認為是**歡樂基金會**的典型內容。
-* **盒子測試** -- 一種非正式的思維練習，通常用來確認一個項目或實體應該被分到哪一個等級。大體如下：
+* **科學語調（clinical term**/**clinical terminology）** -- 使用科學（或偽科學）詞彙與措詞而非口語──異常科學部分已經舉出很多例子了！這能使SCP檔案讀起來更像是真正的科學文件──在世界觀內，基金會員工真的會使用這些術語，因為這比其他隨處可見的同義詞更為準確且專業。參閱[[[Clinical vs Complex]]] and [[[clinical-tone-declassified|解密臨床語氣]]]等心得，了解更多如何正確使用科學語調的更多資訊。
+* **空降文（coldpost）** -- 未經任何形式的評價直接上傳到網站的頁面。仍有可能獲得很高的評價，但這個詞彙通常是作為貶義使用的，特指新成員上傳的成員，這些作品若能在**草稿**狀態就獲得回饋或評論，相信會得到更大的收穫。
+* **[[[format-screw-hub|脫落格式（format screw）]]]** -- 故意違背標準SCP某些格式與框架的SCP文本，通常是因為該文本受到了SCP本身的影響。
+* **私設（headcanon）** -- 指對不一致、模稜兩可甚至根本不存在的**設定**元素所做的個別解釋，人們透過這個術語描述他們如何想像基金會宇宙的各個方面，並同時意識到這僅是眾多解釋的一種。這方面的良好例子如各等級記憶消除劑的確切強度，又或是各個K級事件的確切性質。
+* **鉤（hook）** -- 在你的文本與故事中能吸引讀者讀到最後的元素。鉤必須能誘發讀者的好奇心或其他情感；它不一定要在一開始就有，但必須足夠早才能夠發揮作用。鉤也可能在文本或故事發揮另一種作用，這使得讀者能在看完後仍意猶未盡；這通常會是某種有趣的啟示或轉折的結局，並傾向於放在作品的收尾處。
+* **整千競賽（Kcon）** -- 當前SCP**系列**空槽即將填滿時會舉行的**競賽**。這項傳統始於2011年，用於紀念SCP編號1000-1999開放的[[[scp1000contesthub | SCP-1000競賽]]]，從那時起，每當系列空槽快要填滿時就會再度舉辦整千競賽。比賽結束時，將授予得票最多的參賽作品新系列的首個位置（X000），其他名字則會被分配到新系列中他們選擇的其他位置。
+* **Keter任務（Keter duty）** -- 在世界觀中威脅人員透過將其降為D級等方式調去危險的Keter級任務作為懲罰。被認為是**歡樂基金會**的典型內容。
+* **盒子測試（locked box test）** -- 非正式的思維練習，通常用來確認一個項目或實體應該被分到哪一個等級。大體如下：
  * //如果您鎖它進盒子裡，放在一旁都沒有壞事發生，那它可能是**Safe**。//
  * //如果您鎖它進盒子裡，放在一旁後你不確定將會發生什麼事，那它可能是**Euclid**。//
  * //如果您鎖它進盒子裡，放在一旁後，它很容易就逃了，那它可能是**Keter**。//
  * //如果它//就是//盒子，那很可能是**Thaumiel**。//
-* **歡樂基金會** -- 在SCP文本中添入工作人員表現極度不專業的內容，例如惡作劇式的將危險異常項目相互實驗，或者做出可能造成人員傷亡的愚蠢行徑，以及將這類事情作為威脅人員的懲罰內容。儘管這類行為在嚴肅的研究組織中普遍被認為是過於不專業的，但網站上還是[[[lolfoundation-hub-page| 有地方可以放]]]這類文本。
-* **SPC** -- [[[spc-hub|毆打鯊魚中心]]]。一種為了取笑拼錯「SCP」作者而創造的[http://en.wikipedia.org/wiki/Backronym 逆向首字母縮略詞]（例如，「這想法我喜歡，但這跟毆打鯊魚中心有什麼關係啊？」，現在它也是一個**GoI**了。
+* **搞笑基金會（lolFoundation）** -- 在SCP文本中添入工作人員表現極度不專業的內容，例如惡作劇式的將危險異常項目相互實驗，或者做出可能造成人員傷亡的愚蠢行徑，以及將這類事情作為威脅人員的懲罰內容。儘管這類行為在嚴肅的研究組織中普遍被認為是過於不專業的，但網站上還是[[[lolfoundation-hub-page| 有地方可以放]]]這類文本。
+ * **新搞笑基金會（NeololFoundation）** — 現今基金會中對**搞笑基金會**的再構想，是更為幽默，更為輕鬆，但仍以敘事與人物為本的風格轉變。
+* **[[[spc-hub|SPC]]]** -- [[[spc-hub|毆打鯊魚中心]]]。為了取笑拼錯「SCP」作者創造的[https://zh.wikipedia.org/wiki/%E9%80%86%E5%90%91%E9%A6%96%E5%AD%97%E6%AF%8D%E7%BC%A9%E7%95%A5%E8%AF%8D 逆向首字母縮略詞]（例如，「這想法我喜歡，但這跟毆打鯊魚中心有什麼關係啊？」，現在它也是個**GoI**了。
+* **幹啥的啥（Thing That Does A Thing）** -- 具異常屬性的無生命物體。儘管這是常見的SCP類型，尤其是對第一次寫項目的作者而言，然而這個術語是要提醒你文章會需要**鉤**來引起讀者的興趣。參閱[[[things-what-do-a-thing-an-essay-on-things | 本文章]]]獲取如何改善的建議。
+* **大贏家（Total Winner）** -- 24小時內評分達到+100的文章。
+* **Wikifot** — 社群用來嘲弄我們平臺Wikidot頻發常規技術問題的通用搞笑術語。
 
 ----
++ 其他資源
+
+各設定的術語具體定義可以在以下頁面找到：
+* [[[Ad Astra Per Aspera Hub|星旅坎坷]]]
+* [[[aiad-homescreen|AIAD主介面]]]
+* [[[from-120-s-archives-hub|來自Site-120的檔案]]]
+* [[[third-law-hub| 第三法中心頁]]]
+* [[[War On All Fronts - Hub| 全線戰爭中心頁]]]
+
+SCP法文分部術語表列於[http://scp-zh-tr.wikidot.com/patapouf 法語世界著名與學術用語年鑑]中。
+
+----
+
++ 致謝
 
 除了上頭的超連結外，本列表還引用了存在已久的[[[mackenzie-glossary| Mackenzie博士的術語列表]]]以及[http://scp-pt-br.wikidot.com/glossario-dos-tradutores 葡萄牙文]與[http://fondationscp.wikidot.com/gudule 法文]SCP維基分部的類似頁面，我們非常歡迎添加更多新東西進來！
