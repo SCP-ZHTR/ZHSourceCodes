@@ -1,0 +1,76 @@
+[[module CSS]]
+.notice{
+    border: 1px solid #f9e24d;
+    outline: 4px solid #b54d3b;
+    color: #f9e24d;
+    background: #b54d3b;
+    padding: 10px;
+    text-align: center;
+}
+[[/module]]
+
+[[include :scp-zh-tr:component:scp-meta-title-hiding]]
+[[include info:start]]
+**作品名稱：** SCP-1504-KO - 腐壞
+**原作者：** [[*user romrom]]
+**譯者：** [[*user Pao Mian]]
+[[[http://scpko.wikidot.com/scp-1504-ko|原文]]]
+-----
+[[include component:wikimodule |ratings= --]]]
+-----
+[[include info:end]]
+
+[[div class="notice"]]
+++++ 來自[[[domc-hub|基金會誤傳部]]]的通知
+
+本文件涉及到一個具有溝通性異常的個體，以下所撰寫的資訊皆為字面上的意思，而且非常無趣。
+
+-- Eli Forkley，DoMC主管
+[[/div]]
+
+@@@@
+@@@@
+
+**項目編號：** SCP-1504-KO
+
+**項目等級：** 無聊（Boring）
+
+**特殊收容措施：** 通往SCP-1504-KO的入口已被封鎖。已對受到項目影響，而出現溝通障礙或表現出語言危害的人員進行記憶消除，並使之回到崗位上工作。
+
+基金會職員通常都會被分派到無聊乏味的工作，但他們都盡責地完成了。
+
+**描述：** SCP-1504-KO泛指六顆腐壞的番茄以及一盤番茄義大利麵，SCP-1504-KO的個體皆未表現出腐壞的跡象，且對所有的物理交互表現出排斥性。
+
+另外，調查顯示：這些個體似乎擁有非常陳舊的幽默感，他們講的笑話並不好笑，但要說糟的話，也不算太糟。然而——諸多人員的證詞也共認了一件事實，那便是SCP-1504-KO真的很無趣。
+
+**發現記錄：** SCP-1504-KO最初是在Site-19進行擴建期間，於地下三層的一處洞穴中被發現。該洞穴裡面僅有一間沒有任何入口的密閉收容間，其位置坐落於Site-19的設計圖上的牆壁內，內部結構也與該站點的標準收容間如出一轍。在洞穴內部發現了以下物品：
+
+* 兩隻派對吹笛。
+* 一本笑話大全，有一半的內容都被燒毀了。
+* 十根蠟燭，全都融化了。
+* 一臺冰箱，裡面有SCP-1504-KO跟一塊未腐壞的巧克力慕斯蛋糕。
+* 一張桌子。
+* 一張椅子。
+* 一本名為《世上最有趣的笑話》的喜劇劇本的手稿，上面被人寫滿了批評，未能從筆跡辨別其身份。
+* 兩個無趣的物品。
+
+此外，還掉落了一塊刻有以下文字的黃銅標語牌：
+@@@@
+@@@@
+ [[div style="display: inline-block; border:dashed 1px #999999; background:#F5F5F5; float:center; width:84%; padding:1px 15px; margin: 10px 10px 10px 40px"]]
+
+[[=]]
+
+**笑話**
+
+十分無趣，仍須收容並觀察之。
+
+把大象放進去。
+
+**SCP 基金會反常部,,Department of Abnormality,,**
+
+[[/=]]
+
+[[/div]]
+
+這是一則十分有趣的笑話。
