@@ -117,7 +117,7 @@ text-shadow:1px 1px 1px white,-1px 1px 1px white,1px -1px 1px white,-1px -1px 1p
 [# 2015年爆旋壽司香港盃-沙田新城市站]
 網上比賽紀錄影片，紅豆軍艦於第八場和第15場有出場。
 
-[[[http://scp-zh-tr.wikidot.com/sarkic-case-study-03-the-luo-ting-n-a-of-new-cha-ling|淺談香港在地欲肉群體之飲食文化]]]
+[[[sarkic-case-study-03-the-luo-ting-n-a-of-new-cha-ling|淺談香港在地欲肉群體之飲食文化]]]
 研究人員Matthieu-Desmarais及張道士的報告，指出了香港當地的魚片生食文化。
 
 [# 茶嶺日報-2017年3月13日號]
