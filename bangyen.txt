@@ -103,6 +103,14 @@ __**右邊三個小抽屜**__
 [[module Listpages category="*" tag="無效化" created_by="Control Z" separate="no" perPage="1000"]]
 # [[[%%fullname%%|%%title%%]]] 評分： %%rating%%
 [[/module]]
+* ##blue|Thaumiel##
+[[module Listpages category="*" tag="Thaumiel" created_by="Control Z" separate="no" perPage="1000"]]
+# [[[%%fullname%%|%%title%%]]] 評分： %%rating%%
+[[/module]]
+* [[span style="background:#000000"]]##white|Apollyon##[[/span]]
+[[module Listpages category="*" tag="Apollyon" created_by="Control Z" separate="no" perPage="1000"]]
+# [[[%%fullname%%|%%title%%]]] 評分： %%rating%%
+[[/module]]
 [[/collapsible]]
 -----
 [[collapsible show="►Ctrl Z博士的書架" hide="▼上面擺了各式各樣的書。"]]

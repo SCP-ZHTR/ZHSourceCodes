@@ -345,7 +345,15 @@ Flavir 回頭，以一種不耐煩夾帶無奈的眼神看著他，笑了笑。
 @@ @@
 
 [[=]]
-+* 封波紀 Surge's Archive
 ----
-+++++* << __[[[SCP-ZH-310]]]__ | __[[[SCP-ZH-620]]]__ | TIME LAPSE | __[[[SCP-ZH-930]]]__ |  >>
++* 封波記
++++* Surge's Archive
+
+[[include :scp-wiki:component:earthworm
+| first=false| last=false| hub=yes
+| previous-url=/scp-zh-620| previous-title=SCP-ZH-620
+| next-url=/scp-zh-930| next-title=SCP-ZH-930
+| hub-url=/time-lapse| hub-title=TIME LAPSE
+]]
+----
 [[/=]]
