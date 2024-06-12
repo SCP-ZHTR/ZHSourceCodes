@@ -1,7 +1,5 @@
-[[div style="display: none;"]]
-[[include :scp-wiki:theme:placestyle]]
-[[/div]]
-[[include :scp-wiki:component:fade-in speed=1]]
+[[include :scp-zh-tr:theme:placestyle]]
+[[include :scp-zh-tr:component:fade-in speed=1]]
 
 [[module css]]
 body {
