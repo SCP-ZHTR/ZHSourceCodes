@@ -1,0 +1,78 @@
+[[include :scp-wiki:theme:foxtrot]]
+[[include component:scp-meta-title-hiding css-style=classic]]
+[[module css]]
+:root{
+  --header-title: "SCP基金會";
+  --header-subtitle: "控制 收容 保護";
+}
+[[/module]]
+[[=]]
+[[include info:start]]
+**SCP-8085 -  本來就是自然的**
+**作者：**[[*user Diogene_s]]
+**原文：**[https://scp-wiki.wikidot.com/scp-8085 SCP-8085 -  It has always been natural]
+**譯者：**[[*user Kikunai]]
+**圖像：** 見底部。
+
+一篇**歲月色狼**世界觀的文章
+
+⚠️ **內容警告：** 此文章含有無性戀恐懼的描寫。
+[[include info:end]]
+[[include :scp-zh-tr:component:info-cw]]
+[[/=]]
+
+**項目編號：** SCP-8085
+
+**項目等級：** Keter
+
+**特殊收容措施：** 在沙漠草原鞭尾蜥附近感到興奮[[footnote]]譯注：此興奮是指感覺器官被刺激到感知點的生理和心理狀態。[[/footnote]]的對象須被拘留和扣問，其後須接受記憶刪除，或認為有必要的時候受處置。
+
+[[include :scp-wiki:component:image-block name=https://scp-wiki.wdfiles.com/local--files/scp-8085/WHIPTAIL,_DESERT_GRASSLAND_(Aspidoscelis_uniparens)_(6-20-09)_cave_creek,_az_-01_(3657715036).jpg|caption=一隻鞭尾蜥在SCP-8085發作後6小時後的即時形象。|width=300px]]
+
+基金會爬蟲I/O CNEMIDUS必須監察全球沙漠草原鞭尾蜥數量，以發現任何異常行為。須沒除任何有關沙漠草原鞭尾蜥或無性生殖動物出現異常行為的資訊，以及刪除目擊者的記憶。
+
+**描述：** SCP-8085是一個影響沙漠草原鞭尾蜥（//Aspidocelis uniparens//）的異常現象；該物種為全雌性，並進行無性生殖。物種個體會因SCP-8085在一生中會發出一次類似人類的叫聲。這些叫聲的內容不清，但但被目擊者形容為「令人擔憂」和「痛苦」。
+@@ @@
+
+[[div style="border:solid 1px #999999; background:#f2f2c2; padding:5px; margin-bottom: 10px;"]]
+[[=]]
+++++ 來自基金會紀錄及資訊安全管理部的通知
+
+本文件其餘內容經受[*/scp-8008 6級/8008]權限刪減。
+
+— Maria Jones， RAISA主管
+[[/=]]
+[[/div]]
+
+[[collapsible show="+ 按下以繼續" hide="- 關上"]]
+
+**附錄8085-1：**
+
+SCP-8008曾是一Enochian級，圍繞一SCP-8008-2個體以極端的本質促動操縱更改現實根基的異常事件。SCP-8085因以下事件被視為部分受到SCP-8008的影響。
+
+2023年11月6日，人員在SCP-8008-A內500,000條屍體的例行檢查期間發現一頭異常巨大的沙漠草原鞭尾蜥屍體，並將其編為SCP-8085-α。牠腰部的黃色條紋組成了"//vesta.txt//"的字眼。
+
+繼此發現之後，HANAZONO.AIC於SCP-8008-C標記了一份文字檔案。從//vesta.txt//的內容可見檔案作者並不是SCP-8008-2，而是「[[span class="ruby"]]時光閹割行動[[span class="rt"]]PROJECT TIMEGELD[[/span]][[/span]]」後形成的跨時空認知瘴氣所影響，並錄入了SCP-8008-C。//vesta.txt//隨即受解密並新增至SCP-8085檔案中：
+
+[[div class="paper"]]
+他沒有停過。他沒有停過。他跟所有人都是。但尤其是他。今天一隻貓頭鷹送了一封他的信。以白底白字寫着的僅是：
+
+> «//其實這一切都不自然。完全不自然。因為生物學不是這樣運作的。有性生殖是所有動物的主要驅動力，而人類，例如你跟我，就喜歡[[span class="ruby"]]有性生殖[[span class="rt"]]性交[[/span]][[/span]]。就像佛洛伊德所說的一樣。所以你不想做愛是不自然的。你明白了嗎？你要麼在說謊，要麼壞掉了，而我會將你修好。//»
+
+而我現在想扯破我的皮膚。
+
+[[/div]]
+
+[[/collapsible]]
+
+@@ @@
+@@ @@
+
+[[include :scp-zh-tr:component:license-box]]
+=====
+> **Filename:** WHIPTAIL,_DESERT_GRASSLAND_(Aspidoscelis_uniparens)_(6-20-09)_cave_creek,_az_-01_(3657715036).jpg
+> **Author:** ALAN SCHIEMER
+> **License:** CC0 1.0 Universal Public Domain Dedication
+> **Source Link:** https://commons.wikimedia.org/wiki/File:WHIPTAIL,_DESERT_GRASSLAND_(Aspidoscelis_uniparens)_(6-20-09)_cave_creek,_az_-01_(3657715036).jpg
+=====
+[[include :scp-zh-tr:component:license-box-end]]

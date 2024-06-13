@@ -1,4 +1,20 @@
+推薦右鍵「用新分頁開啓連結」
 [[tabview]]
+
+[[tab 本質促動改為現實扭曲]]
+[[module ListPages separate="yes" perPage="1000" tags="+本質促動" order="name" -category="_default"]]
+%%title_linked%% - %%created_by%%
+[[/module]]
+----
+vvv現實扭曲vvv
+[[collapsible show="開啟" hide="收起"hideLocation="both"]]
+[[module ListPages separate="yes" perPage="50" tags="+現實扭曲" order="name" -category="_default"]]
+%%title_linked%% - %%created_by%%
+[[/module]]
+[[/collapsible]]
+
+[[/tab]]
+
 [[tab 原創未上標籤]]
 [[module ListPages separate="yes" perPage="100" tags="+scp +原創" order="name" -category="_default"]]
 %%title_linked%% - %%created_by%%
@@ -6,15 +22,7 @@
 ##gray|%%tags%%##
 [[/module]]
 [[/tab]]
-[[tab 本質促動改為現實扭曲]]
-[[module ListPages separate="yes" perPage="50" tags="+本質促動" order="name" -category="_default"]]
-%%title_linked%% - %%created_by%%
-[[/module]]
-----
-[[module ListPages separate="yes" perPage="50" tags="+現實扭曲" order="name" -category="_default"]]
-%%title_linked%% - %%created_by%%
-[[/module]]
-[[/tab]]
+
 [[tab 表3的標題]]
 表3的內容。
 [[/tab]]
