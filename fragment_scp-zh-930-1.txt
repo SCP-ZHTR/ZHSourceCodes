@@ -98,7 +98,7 @@ SCP-ZH-930-B 指稱受到 SCP-ZH-930 感染而誘發超常能力，但行為意�
 [[/tab]]
 [[tab 相關物件與組織]]
 
-* **##FFF0AC|ABIUM：##**艾比恩凝膠，一種對生物體親和力極高的有機膠體，能夠承載各種 SCP-ZH-310 衍生蛋白質並快速感染生命體，致使其「寄主」取得相關的異常能力。是 SCP-ZH-930 賦予人類異常能力的主要成分。
+* **##FFF0AC|ABIUM：##**艾比恩凝膠，一種對生物體親和力極高的有機膠體[[footnote]]有關情報已經在基準現實中遺失，疑似由基金會所研發。[[/footnote]]，能夠承載各種 SCP-ZH-310 衍生蛋白質並[http://scp-zh-tr.wikidot.com/time-lapse/offset/6 快速感染生命體，致使其「寄主」取得相關的異常能力。]是 SCP-ZH-930 賦予人類異常能力的主要成分。
 
 * **##FFF0AC|SCP-ZH-310：##**一系列異常蛋白質家族的共有結構域，已知至少包含七種衍生物（編號為 ZH310-AP-X，簡稱為 AP-X ）。
 [[div class="blockquote"]]
@@ -145,7 +145,7 @@ SCP-ZH-310 衍生蛋白質列表
 [[/=]]
 
 [[collapsible show="展開紀錄" hide="收合紀錄" hideLocation="both"]]
-//Luthien Flavir 博士進入 NARCOS 的監控室內，並用電機槍擊暈三位研究員。隨後，她中止機器運轉，並在 Shaman Surge 甦醒後進入測試室。//
+//Luthien Flavir 博士進入 NARCOS 的監控室內，並用電擊槍擊暈三位研究員。隨後，她中止機器運轉，並在 Shaman Surge 甦醒後進入測試室。//
 
 //Surge 在停機後約三分鐘爬起，並以困惑的表情面對 Flavir。//
 
@@ -184,7 +184,7 @@ SCP-ZH-310 衍生蛋白質列表
 
 **Surge：**AP-0？你拿來改寫歷史的那個？
 
-**Flavir：**對，精確說來是 AP-0 混合 ABIUM。但這不合理。我當時應該耗盡所有凝膠了才是。
+**Flavir：**對，精確說來是 AP-0 混合 ABIUM。但這不合理。我[http://scp-zh-tr.wikidot.com/time-lapse/offset/7 當時]應該耗盡所有凝膠了才是。
 
 **Surge：**除非那玩意兒被某人外流了。
 
@@ -258,7 +258,7 @@ SCP-ZH-310 衍生蛋白質列表
 
 **Valentine：**你才剛幫他們兩個逃獄耶。抱歉，我沒辦法同意……
 
-**Kyo.aic：**〔安全警報，10A、9B、9C 扇區遭到突破。〕Valy，該走了！
+**Kyo.aic：[[footnote]]Valentine 博士專屬的人工智慧助理員。[[/footnote]]**〔安全警報，10A、9B、9C 扇區遭到突破。〕Valy，該走了！
 
 **Valentine：**……我沒辦法同意你們借用 13 樓的移動輪椅，還有 14 樓的直升機。除非你們不小心打倒我們之後順便清掉一些害蟲。
 
@@ -276,7 +276,7 @@ SCP-ZH-310 衍生蛋白質列表
 
 [[/div]] 
 
-29 日 14:15，Shaman Surge 無效化了一部份侵入 Site-ZH-02 的 SCP-ZH-930-B 實體，並與 Luthien Flavir、Zymosan Tsui 搭乘頂樓的崔坦諾號直升機起飛。Site-ZH-02 大樓在 14:27 因不明原因發生爆炸，九樓以上崩毀，後續情報未被回收。
+29 日 14:15，Shaman Surge 無效化了一部份侵入 Site-ZH-02 的 SCP-ZH-930-B 實體，並與 Luthien Flavir、Zymosan Tsui 搭乘頂樓的[[span class="ruby"]]崔坦諾號[[span class="rt"]]Tritional[[/span]][[/span]]直升機起飛。Site-ZH-02 大樓在 14:27 因不明原因發生爆炸，九樓以上崩毀，後續情報未被回收。
 
 [[div class="blockquote"]]
 [[=]]
@@ -740,7 +740,7 @@ SCP-ZH-930 在上述地點快速吞噬大量平民，並將之轉化為 SCP-ZH-9
 
 **Zymosan：**「生命會自己找到出路？」虛無縹緲的道義之詞吧。
 
-**謝榮發：**但我覺得裡面的情節倒是十分深意。那麼，《普羅米修斯》呢？
+**謝榮發：**但我覺得裡面的情節倒是十分深意。那麼，《普羅米修斯》[[footnote]]2012 年科幻驚悚片，為《異形》系列電影，講述地球科學家抵達人類起源星球卻被該處外星生物攻擊之故事。[[/footnote]]呢？
 
 **Zymosan：**您想表達什麼呢？
 
