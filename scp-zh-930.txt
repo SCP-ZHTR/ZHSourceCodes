@@ -1,0 +1,18 @@
+[[include :scp-zh-tr:info:start]]
+**作者：**[[*user samscript]]
+**篇名：**曇花綻放之時
+**圖片授權 Image Credit：**The image used in the article is [https://www.flickr.com/photos/lightstars/ Elsie Lin]'s [https://www.flickr.com/photos/lightstars/14540232014/ "在向陽山陵線上遠眺北方"], and should be spread under CC BY-SA 2.0 License. 文中圖片 [https://www.flickr.com/photos/lightstars/14540232014/ "在向陽山陵線上遠眺北方"] 由 [https://www.flickr.com/photos/lightstars/ Elsie Lin] 所攝，並應以 CC BY-SA 2.0 方式傳播使用。
+
+-----
+
+= 加入繁中分部五周年紀念作。處女作 [[[SCP-ZH-310]]] 系列完結篇。
+
+[[include :scp-zh-tr:info:end]]
+
+[[module ListPages category="fragment" parent="." limit="1" order="created_at" offset="@URL|0"]]
+%%content%%
+[[/module]]
+
+[!-- 各迭代的原始頁面--]
+[!-- http://scp-zh-tr.wikidot.com/fragment:scp-zh-930-1 --]
+[!-- http://scp-zh-tr.wikidot.com/fragment:scp-zh-930-2 --]
