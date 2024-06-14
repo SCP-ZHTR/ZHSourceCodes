@@ -45,7 +45,7 @@
 * **[[[locations-of-interest#free-port| 自由港（Free Port──FP）]]]** -- 更大、更受認可的**[[[locations-of-interest#nexus| Nexus]]]**，是本質上屬於異常且位於**帷幕**之後的地區。這意味著沒有必要向其居民隱瞞**異常**的存在，畢竟他們已經都知道了。
 * **[[[a-semi-comprehensive-list-of-foundation-fronts|前臺（front）]]]** -- 用於做為基金會行動掩護的組織，使基金會特工能公開行動的假託。前臺的名稱有些會能縮寫為「SCP」，例如[[span class="ruby"]]香脆披薩店[[span class="rt"]]Spicy Crust Pizza[[/span]][[/span]]以及[[span class="ruby"]][[[the-s-c-plastics-hub |S&C塑膠]]][[span class="rt"]]S&C Plastics[[/span]][[/span]] - 參閱[[[pickman-blank-proposal| 卷首]]]頁面獲取更多資訊。
 * **[[[Groups of Interest| 關注組織（Groups of Interest──GoI）]]]** -- 基金會以外知曉異常的組織。
-* **HMCL主管（HMCL Supervisor）** -- 負責管理一至多個異常收容的管理者。「HMCL」的實際意涵存在爭議，但多數作者推斷其為「**[[span class="rt"]]危險物質收容聯絡[[span class="rt"]]Hazardous Materials Containment Liaison[[/span]][[/span]]**」。
+* **HMCL主管（HMCL Supervisor）** -- 負責管理一至多個異常收容的管理者。「HMCL」的實際意涵存在爭議，但多數作者推斷其為「**[[span class="ruby"]]危險物質收容聯絡[[span class="rt"]]Hazardous Materials Containment Liaison[[/span]][[/span]]**」。
 * **[[[k-class-complete-list| K級情景/K級事件（K-Class Scenario/K-Class Event）]]]** -- 對常態或現實有劇烈影響的假設情景。最著名的K級事件──即XK級事件──代表著災難事件所導致的全人類社會或種族滅絕，不過各種情景都有自己的名稱，在不同場合使用時也存在差異性。
 * **[[[Locations of Interest| 關注地點（Locations of Interest──LoI）]]]** -- 關注地點是具有異常特性的區域，通常居住著永久居民，需要採取更為外交的手段加以收容。另見**未解明地點**、**Nexus**、**自由港**。
 * **[[[task-forces|機動特遣隊（Mobile Task Force──MTF）]]]** -- 訓練有素的專業團隊，基金會將其部屬於外勤任務以應對特殊威脅與事態。機動特遣隊由希臘字母與數字構成編號（例如MTF Alpha-7、MTF Omega-15），並可能附加一個暱稱，近似於許多現實存在的軍事單位。MTF是基金會的菁英團隊，從經驗豐富的外勤研究人員到久經沙場的部隊都有，各個MTF都有專責應對的狀況與異常。也存在其他類型的特遣隊。
@@ -166,7 +166,7 @@
 * **超常犯罪（paracrime）** -- 非法超自然活動，FBI[[[unusual-incidents-unit-hub|特異事故處]]]將對此展開追查，並處於囚禁於[[[Paramax| 超極限]]]之中等刑罰。這包括透過異常實施詐欺、竊盜、謀殺等正常犯罪，以及違反異常法規諸如非法販售**超常技術**等。
 * **超常罪犯（paracriminal）** -- 諸如[[[Chicago Spirit]]]芝加哥鬼靈等犯罪集團成員的超自然罪犯。超常罪犯可能是實行普通犯罪的異常實體，也可能是實施**超常犯罪**的非異常人類。
 * **[[[the-gulf|美國南部異常組織合作條約（Southern United States Extranormal Organization Cooperation Treaty]]]──SUSEOCT）** -- FBI[[[unusual-incidents-unit-hub|特異事故處]]]提出的區域公約，旨在規範美國南部──尤其是[[[the-gulf|墨西哥灣沿岸地區]]]──各**關注組織**的運行。簽署方包括基金會、[[[marshall-carter-and-dark-hub|知名GoIs]]]在此的[[[horizon-initiative-hub|多個地方派系]]]乃至[[[scp-7113|看似並非異常]]]的[[[scp-5952|組織]]]。
-* **船長（Skipper）** -- 異常社群對SCP基金會職員的俗稱，主要由FBI[[[unusual-incidents-unit-hub | 特異事故處]]]相關成員使用。
+* **（[[span class="ruby"]]Skipper[[span class="rt"]]船長[[/span]][[/span]]）** -- 異常社群對SCP基金會職員的俗稱，主要由FBI[[[unusual-incidents-unit-hub | 特異事故處]]]相關成員使用。
 * **帷幕** / **帷幕協議** / **常態帷幕** / **正常帷幕** / **面紗協議（The Veil** / **The Veil of Secrecy** / **The Veil of Normalcy** / **The Veil of Normality** / **The Veil Protocol）** -- 指稱異常與意識到異常存在者與正常世界的分隔。基金會等**常態組織**將致力於維護帷幕，隱蔽異常的存在。
 * **虛（Void）** -- 類似於推特的超自然網路社群，於**暗網**中運作。參閱此[[[component:void-post|組件]]]了解該社群的貼文格式。
 
@@ -240,17 +240,17 @@
  * **編輯工具使用人員（Mod Tools Users）**  （前版主） -- 備受信任而有權編輯所有頁面的人員（包括鎖定頁面），並能夠根據[[[deletions-guide| 刪除政策]]]刪除網站貼文與文章。
  * **管理員（Administrators）** -- 負責受理網站新成員以及封禁違規的成員。
 
-工作人員可能是以下一或多個團隊的成員。
+工作人員可能是以下一或多個團隊的成員。[[footnote]]譯註：此為英文SCP維基的工作人員架構，繁體中文分部的工作人員團隊參見[/meet-the-staff 此頁][[/footnote]]
 * **[http://05command.wikidot.com/ambassador-main 使節小組（Ambassador Team）]** -- 促進英文SCP維基與**國際站** SCP維基溝通的子團隊。另外該小組還負責解決任何可能出現，涉及INT分部的問題。
 * **[http://05command.wikidot.com/anti-harassment-main 反騷擾小組（Anti-Harassment Team──AHT）]** -- 處理SCP維基用戶間出現的騷擾事件。
 * **[http://05command.wikidot.com/community-outreach-main 社群營運小組（Community Outreach──CO）]** -- 處理工作人員與網站社群間的溝通，處理並應對網站出現的各種問題。
 * **[http://05command.wikidot.com/critique-main 評價小組（Critique Team）]** -- 對點子、草稿、已發表作品提出評價。
 * **[https://05command.wikidot.com/curation-main 檢查小組（Curation Team）]** -- 負責管理SCP維基的作品，包括添加**成人內容**標籤、發布匿名文章、維護與編輯合作頁面、更新**指導**頁面、不合網站許可的圖像撤換、組織重寫有被刪除風險的低評分文章。     
-* **[http://05command.wikidot.com/disciplinary-main （Disciplinary Team──Disc）] -- 確保網站的行為準則有被遵守並確切執行，負責懲處違規使用者，阻絕破壞行為進一步影響網站。
+* **[http://05command.wikidot.com/disciplinary-main （Disciplinary Team──Disc）]** -- 確保網站的行為準則有被遵守並確切執行，負責懲處違規使用者，阻絕破壞行為進一步影響網站。
 * **（[http://05command.wikidot.com/internet-outreach-main 網路營運小組（Internet Outreach──IO）]** -- 處理並應對站外社群與更廣泛的SCP紛絲溝通的工作人員，負責向圈外粉絲傳遞重要資訊，並協助新成員了解更多維基相關的事。
 * **[http://05command.wikidot.com/license-experts-main 許可小組（Licensing Team）]** -- 確保全維基及其社群的版權標準合格。確認所有內容沒有盜用或抄襲情況發生，並檢查所有使用的媒體來源都是正確且合法的。
 * **[http://05command.wikidot.com/maintenance-and-ancillary-staff-team-main 維護與協助工作人員小組（Maintenance And Ancillary Staff Team──MAST）]** -- 維護並更新網站並確保其功能正常。負責刪除與品質管控作業，並著手改良導航內容，如Wikiwalk頁尾與標籤部分。
-* **[http://05command.wikidot.com/technical-staff-main （Technical Team──Tech）]** -- 維護網站技術資源並開發新功能。
+* **[http://05command.wikidot.com/technical-staff-main 技術小組（Technical Team──Tech）]** -- 維護網站技術資源並開發新功能。
 
 ++ 社群術語
 * **科學語調（clinical term**/**clinical terminology）** -- 使用科學（或偽科學）詞彙與措詞而非口語──異常科學部分已經舉出很多例子了！這能使SCP檔案讀起來更像是真正的科學文件──在世界觀內，基金會員工真的會使用這些術語，因為這比其他隨處可見的同義詞更為準確且專業。參閱[[[Clinical vs Complex]]] and [[[clinical-tone-declassified|解密臨床語氣]]]等心得，了解更多如何正確使用科學語調的更多資訊。
