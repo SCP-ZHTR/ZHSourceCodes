@@ -346,8 +346,8 @@ Flavir 回頭，以一種不耐煩夾帶無奈的眼神看著他，笑了笑。
 
 [[=]]
 ----
-+* 封波記
-+++* Surge's Archive
++* 三一祕律
++++* The Arcana of Trinity
 
 [[include :scp-wiki:component:earthworm
 | first=false| last=false| hub=yes

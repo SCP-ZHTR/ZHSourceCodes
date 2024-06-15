@@ -177,6 +177,28 @@
 
 [[=]]
 -----
++* 系列：三一祕律
+++++* Series: Arcana of Trinity
+-----
+//三個人、三種錯誤、三段被覆寫的時間線。//
+//根源之物蟄伏於基因深處，拓闢無人記憶的贖救之路。//
+[[/=]]
+
+[[div class="blockquote"]]
+
++++++* 舊日之遺忘
+* **[[[time-lapse| ]]]**
+
++++++* 現實之震盪
+* **[[[SCP-ZH-310| ]]]**
+* **[[[SCP-ZH-620| ]]]**
+* **[[[SCP-ZH-930| ]]]**
+
+[[/div]]
+
+@@ @@
+[[=]]
+-----
 +* 系列：連結彼方
 ++++* Series: Connecting The Other Side
 -----
@@ -359,10 +381,22 @@
 全名山本五十嵐，擅長人型項目收容與談判。起初只是 JP 分部的交換研究員，在涉入 [[[SCP-ZH-922]]] 的收容工作後，暫無限期於本站擔任項目管理人。相關作品：[[[romiamiad-ni-cidal|山本研究員的ZH-922觀察日誌]]]、[[[radiw-na-cidal|機動特遣隊：太陽之歌]]]、[[[night-tide|汐]]]、[[[i-lisin-tafalong| ]]]、[[[i-lisin-cilangasan| ]]]
 
 * **Alofay 博士**
-全名 Alofay Dingos Pacidal，負責文化性項目以及微生物免疫學。阿美族人。黑色長髮經常束成馬尾，拿下眼鏡時的眼睛看起來大而深邃。相關作品：[[[SCP-ZH-922]]]、[http://scp-zh-tr.wikidot.com/romiamiad-ni-cida/offset/5 ZH-922觀察日誌（盆栽篇）]、[[[radiw-na-cidal|機動特遣隊：太陽之歌]]]、[[[SCP-ZH-698]]]、[[[i-lisin-tafalong| ]]]、[[[i-lisin-cilangasan| ]]]
+全名 Alofay Dingos Pacidal，負責文化性項目以及微生物免疫學。阿美族人。黑色長髮經常束成馬尾，拿下眼鏡時的眼睛看起來大而深邃。相關作品：[[[SCP-ZH-922]]]、[http://scp-zh-tr.wikidot.com/romiamiad-ni-cida/offset/5 ZH-922觀察日誌（盆栽篇）]、[[[radiw-na-cidal|機動特遣隊：太陽之歌]]]、[[[SCP-ZH-698]]]、[[[i-lisin-tafalong| ]]]、[[[i-lisin-cilangasan| ]]]、[[[SCP-ZH-728]]]
 
 * **Lilliana Graham 顧問**
 前 Omega-7 成員，由 Site-17 調職至此，擔任 SCP-ZH-922 的體能與外勤指導員。高挑的身材有著銀色的頭髮，左眼失明。出現作品：[http://scp-zh-tr.wikidot.com/hr-database/offset/2 特聘顧問]、[[[radiw-na-cidal|機動特遣隊：太陽之歌]]]、[[[i-lisin-tafalong| ]]]、[[[i-lisin-cilangasan| ]]]
+
+[[=]]
+-----
++++ 維安部門
+-----
+[[/=]]
+
+* **Namoh 隊長**
+全名 Namoh Lekal Sadipongan，Site-ZH-44 站內維安隊長，約 45 歲，也是 Surge 主任的副手兼乾哥。與前妻育有一女，兩者均不知基金會工作，只知道是「私人保全」。偶爾會戴眼鏡。出現作品：[[[SCP-ZH-962]]]、[http://scp-zh-tr.wikidot.com/hr-database/offset/3 吧台主管]、[[[i-lisin-tafalong|在禁忌中：太巴塱]]]（提及）、[[[SCP-ZH-728]]]
+
+* **Kaniw Lo'oh 特工**
+太巴塱阿美族男性，青年時即加入 Site-ZH-44 擔任外勤人員。在《袋狀軌計畫》中協助[[[tadakaciferangan|訓練陽子]]]，並與之交好而一度受到山本敵視。在 [[[i-lisin-tafalong|2023 年太巴塱年祭前後]]]參與[[[i-lisin-cilangasan|一場大型收容任務]]]。
 
 [[=]]
 -----
@@ -371,7 +405,7 @@
 [[/=]]
 
 * **Flavir 博士**
-站內資深研究員，黑長直髮的女性。個性強勢，研究能力卓越。在現實重構事件前為 Surge 博士的舊情人。出現作品：[[[SCP-ZH-310]]]、[[[SCP-ZH-620]]]、[[[TIME LAPSE]]]、[[[SCP-ZH-9288-EX]]]
+站內資深研究員，黑長直髮的女性。個性強勢，研究能力卓越。在現實重構事件前為 Surge 博士的舊情人。出現作品：[[[SCP-ZH-310]]]、[[[SCP-ZH-620]]]、[[[TIME LAPSE]]]、[[[SCP-ZH-9288-EX]]]、[[[SCP-ZH-930]]]
 
 * **Axi 研究員**
 站內相對新進的研究人員，年輕女性，曾任 Surge 博士秘書，目前主要負責古生物項目的調查與維護。出現作品：[[[SCP-ZH-545]]]、[[[SCP-ZH-782]]]
@@ -386,11 +420,10 @@
 [[/=]]
 
 * **張柯宙 博士**
-台大人類學系畢業，現任人類學部主任，年紀約 45 歲，綁著小辮子。嚴以律己，但喜歡甜食。主要研究領域為文化人類學。出現作品：[http://scp-zh-tr.wikidot.com/hr-database/offset/1 人類學部]、[[[SCP-ZH-727]]]、[[[SCP-ZH-698]]]
+台大人類學系畢業，現任人類學部主任，年紀約 45 歲，綁著小辮子。嚴以律己，但喜歡甜食。主要研究領域為文化人類學。出現作品：[http://scp-zh-tr.wikidot.com/hr-database/offset/1 人類學部]、[[[SCP-ZH-727]]]、[[[SCP-ZH-698]]]、[[[SCP-ZH-728]]]
 
 * **莊敏育 實習研究員**
-考古系畢業生，對著骨頭有著強烈的癡迷，被人類學部的先進們暱稱為「小骨」。慢半拍患者。膚色偏暗，總是綁著馬尾。出現作品：[http://scp-zh-tr.wikidot.com/hr-database/offset/1 人類學部]、[[[SCP-ZH-237]]]
-
+考古系畢業生，對著骨頭有著強烈的癡迷，被人類學部的先進們暱稱為「小骨」。慢半拍患者。膚色偏暗，總是綁著馬尾。出現作品：[http://scp-zh-tr.wikidot.com/hr-database/offset/1 人類學部]、[[[SCP-ZH-237]]]、[[[you-look-so-fine-so-do-i|瀰漫在人聲鼎沸]]]
 
 [[=]]
 -----
@@ -402,13 +435,7 @@
 赤炎色的頭髮與街頭痞子的外型，與 Ain 博士為舊識。似乎曾經是直屬於三垣的特務。偶爾會發出疑似打破第四面牆的語句。在[[[scp-zh-962|一次重大傷亡事件]]]後被視為叛徒。目前行蹤不明。相關作品：[[[nice-to-see-you|故人聚首]]]、[[[dawn-of-east|曙光東啟]]]、[http://scp-zh-tr.wikidot.com/romiamiad-ni-cida/offset/3 ZH-922觀察日誌（飲料店篇）]、[[[SCP-ZH-962]]]、[[[anthurium| ]]]
 
 * **前研究主任 崔孝原（Dr. Zymosan）**
-已離開成員，高度參與 SCP-ZH-310 計畫。辭職後加入[[[yuanji-hub|遠己集團]]]推動異常生技研究，在SCP-ZH-620事件內成為異常實體並被基金會回收，列為項目管理。出現作品：[[[SCP-ZH-310]]]、[[[SCP-ZH-620]]]、[[[TIME LAPSE]]]
-
-* **Kaniw Lo'oh 特工**
-太巴塱阿美族男性，青年時即加入 Site-ZH-44 擔任外勤人員。在《袋狀軌計畫》中協助[[[tadakaciferangan|訓練陽子]]]，並與之交好而一度受到山本敵視。在 [[[i-lisin-tafalong|2023 年太巴塱年祭前後]]]參與[[[i-lisin-cilangasan|大型任務而遇難]]]。
-
-* **Namoh 隊長**
-全名 Namoh Lekal Sadipongan，Site-ZH-44 站內維安隊長，約 45 歲，也是 Surge 主任的副手兼乾哥。與前妻育有一女，兩者均不知基金會工作，只知道是「私人保全」。偶爾會戴眼鏡。出現作品：[[[SCP-ZH-962]]]、[http://scp-zh-tr.wikidot.com/hr-database/offset/3 吧台主管]、[[[i-lisin-tafalong|在禁忌中：太巴塱]]]（提及）、[[[SCP-ZH-728]]]
+已離開成員，曾高度參與 SCP-ZH-310 計畫。辭職後加入[[[yuanji-hub|遠己集團]]]推動異常生技研究，在 SCP-ZH-620 事件內成為異常實體並被基金會回收，列為項目管理。出現作品：[[[SCP-ZH-310]]]、[[[SCP-ZH-620]]]、[[[TIME LAPSE]]]、[[[SCP-ZH-930]]]
 
 [[=]]
 ----

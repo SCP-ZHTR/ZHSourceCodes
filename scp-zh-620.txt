@@ -538,4 +538,21 @@ Site-ZH-72 與 Site-ZH-28 在 Zetalocivir 研發完成後接受了全面給藥�
 
 * 違規人員 Shaman Surge 在三垣議會斟酌後被無限期停職，直到該員的[[[time-lapse|異常能力起源被調查清楚]]]為止。於此期間，Site-ZH-44 的維安主管職位由三垣指揮部指派。當前，[[[scp-zh-930|Surge 研究員仍於 Site-ZH-02 接受全時照護與復健]]]，並且被禁止與任何未授權的基金會人員進行交流。
 
+@@ @@
+@@ @@
+
+[[=]]
+----
++* 三一祕律
++++* The Arcana of Trinity
+
+[[include :scp-wiki:component:earthworm
+| first=false| last=false| hub=yes
+| previous-url=/time-lapse| previous-title=TIME-LAPSE
+| next-url=/scp-zh-930| next-title=SCP-ZH-930
+| hub-url=/scp-zh-620| hub-title=SCP-ZH-620
+]]
+----
+[[/=]]
+
 [[footnoteblock]]
