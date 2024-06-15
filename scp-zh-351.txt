@@ -1,7 +1,7 @@
 [[include :scp-zh-tr:component:scp-meta-title-hiding]]
 
 [[include info:start]]
-**標題：**煉油廠加工原料
+**標題：**SCP-ZH-351 - 煉油廠加工原料
 **作者：**[[*user Abyssdream]]
 使用卡牌效果：蔓延性迷思
 圖片授權請見授權箱。
