@@ -250,11 +250,11 @@ function myFunction() {
 > **檔案名稱：** mountains-hiking-1548857055lt4.jpg
 > **圖片名稱：** Mountains In Winter, Hiking
 > **作者：** George Hodan
-> **授權方式：** CC0 公有領域
+> **授權方式：** CC0
 > **來源網址：** [[[https://www.publicdomainpictures.net/en/view-image.php?image=282436&picture=mountains-hiking|PublicDomainPictures]]]
 =====
 > **文章名稱：**前出師表
 > **作者：** 諸葛亮
-> **授權方式：** CC0 公有領域
-> **來源網址：** https://zh.wikisource.org/zh-hant/前出師表
+> **授權方式：** 公有領域
+> **來源網址：** [https://zh.wikisource.org/zh-hant/%E5%89%8D%E5%87%BA%E5%B8%AB%E8%A1%A8 https://zh.wikisource.org/zh-hant/前出師表]
 [[include :scp-zh-tr:component:license-box-end]]
