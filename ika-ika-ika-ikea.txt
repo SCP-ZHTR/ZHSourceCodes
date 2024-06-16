@@ -318,7 +318,7 @@
 div.authorlink-wrapper{margin-top: var(--author-top-adjust, .2em) !important;}
 :root {
 --header-logo: url('https://scp-wiki.wdfiles.com/local--files/scp-6768/dept.png');
---title:"提喻研究站";
+--title:"謨涅摩敘涅研究站";
 --subtitle:"刪除部";
 --sidesubtitle: "DELETIONS";
 --sidelogo: url('https://scp-wiki.wdfiles.com/local--files/scp-6768/dept.png');
