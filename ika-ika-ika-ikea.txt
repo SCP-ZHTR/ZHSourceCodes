@@ -1,0 +1,453 @@
+[[include :scp-zh-tr:component:scp-hover-box-styling]]
+
+[[include info:start]]
+作者：[[*user ic_1623]]
+你點開了
+然後...
+就沒有然後了
+[[include info:end]]
+
+[[=image https://scp-wiki.wdfiles.com/local--files/scp-7549/recurrent_triangle.png width="400px"]]
+
+[[div class="overwatch_memo"]]
+總而言之，這是篇作者頁。
+@@ @@
+--　-- [[*user ic_1623]]，刪除部
+[[/div]]
+
+[[div style="border-bottom:2px solid #ffffff; margin-bottom:1px;"]]
+[[/div]]
+[[size 1%]]　[[/size]]
+[[div style="border-bottom:2px solid #ffffff; margin-bottom:1px;"]]
+[[/div]]
+@@ @@
+
+@@ @@
+
+@@ @@
+
+@@ @@
+[[div class="papernote"]]
+[[=]]
+作者用來防止手痠的工具
+[[/=]]
+[#A 關於這個人]
+[#B 角色]
+[#C 原創]
+[#D 翻譯]
+[#E 藝作]
+[#F 競賽徽章]
+[[/div]]
+@@ @@
+
+@@ @@
+
+[[div class="notation"]]
+[[# A]]
+[[>]]
+被複寫__　00　__%
+[[/>]]
+[[=]]
++ 關於這個人
+@@ @@
+[[=image https://i.imgur.com/3TRCKu1.png]]
+[[/=]]
+[[include component:image-block name=cuttlefishina|caption=警告！檔案讀取失敗
+可能是目前不支援此格式，或檔案已損毀。]]
+* 不譯遊戲持有者
+* 常被認成[[*user YONGZUN]]
+* 一些爛雙關
+* 還在繪畫路上的人
+* 可能會製作LOGO的人
+* [https://x.com/suisei_hosimati 星詠者]
+* [https://x.com/ninomaeinanis tako]
+* [https://x.com/tokoyamitowa 眷属]
+* 頭足類
+* 不是魷魚
+* 不是章魚
+* 不是烏賊
+* 是墨魚
+* 來自深淵愛好者
+* 書痴
+
+沒了嗎 沒了吧
+
+要找我請至[http://scp-zh-tr.wikidot.com/chat-guide SCP繁體中文官方DC群]，謝謝。
+
+@@ @@
+[[=image https://i.imgur.com/3TRCKu1.png]]
+[[/div]]
+
+@@ @@
+
+@@ @@
+
+[[div class="smallmodal"]]
+[[# B]]
+[[>]]
+被複寫__　00　__%
+[[/>]]
+[[=]]
++ 角色
+@@ @@
+[[=image https://i.imgur.com/3TRCKu1.png]]
+[[/=]]
+[[div style="border-bottom:2px solid #ffffff; margin-bottom:1px;"]]
+[[/div]]
+++ 王玉婷
+等我一下，我找一下她的資料。
+7/6應該就會更新了（立旗）
+
+[[div style="border-bottom:2px solid #ffffff; margin-bottom:1px;"]]
+[[/div]]
+
+[[=]]
+（之後可能有新的）
+[[/=]]
+[[div style="border-bottom:2px solid #ffffff; margin-bottom:1px;"]]
+[[/div]]
+[[=image https://i.imgur.com/3TRCKu1.png]]
+[[/div]]
+
+@@ @@
+
+@@ @@
+
+
+[[div class="smallmodal"]]
+[[# C]]
+[[>]]
+被複寫__　00　__%
+[[/>]]
+[[=]]
++ 原創
+@@ @@
+[[=image https://i.imgur.com/3TRCKu1.png]]
+[[/=]]
+[[tabview]]
+[[tab 已完成]]
+在寫了在寫了
+[[/tab]]
+[[tab 敬請期待]]
+* SCP-ZH-994 還原
+[[/tab]]
+[[/tabview]]
+[[=image https://i.imgur.com/3TRCKu1.png]]
+[[/div]]
+
+@@ @@
+
+@@ @@
+
+
+[[div class="smallmodal"]]
+[[# D]]
+[[>]]
+被複寫__　99　__%
+[[/>]]
+[[=]]
++ 翻譯
+@@ @@
+[[=image https://i.imgur.com/3TRCKu1.png]]
+[[size 500%]]別想了，不可能！[[/size]]
+[[=image https://i.imgur.com/3TRCKu1.png]]
+[[/=]]
+[[/div]]
+
+@@ @@
+
+@@ @@
+
+[[div class="smallmodal"]]
+[[# E]]
+[[>]]
+被複寫__　00　__%
+[[/>]]
+[[=]]
++ 藝作
+@@ @@
+[[=image https://i.imgur.com/3TRCKu1.png]]
+[[/=]]
+
+[[include :scp-zh-tr:component:scp-hover-box-structure
+|container-number=two
+|corner-cutout=1em
+|container-bgcolor=rgb(237, 237, 237)
+|container-txtcolor=rgb(36, 0, 0)
+|container-hover-bgcolor=rgb(146, 23, 23)
+|container-hover-txtcolor=rgb(255, 34, 0)
+|container-stroke-color=rgba(180, 35, 35)
+|container-hover-stroke-color=rgb(242, 199, 80)
+|background-url=https://i.imgur.com/exSt1dr.png
+|background-vertical-position=30%
+|link-fill-color=rgba(252, 252, 252)
+|link-stroke-width=0.125rem
+|link-stroke-color=rgba(12, 12, 12)
+|anchor=301
+|link=http://scp-zh-tr.wikidot.com/the-dark-magician
+|title=SCP-ZH-888-J
+|sub-title=請付費以觀看本文件
+|blerb=**親愛的顧客，您還沒付錢呢。**
+]]
+@@ @@
+@@ @@
+[[include :scp-zh-tr:component:scp-hover-box-structure
+|container-number=five
+|corner-cutout=1em
+|container-bgcolor=rgb(237, 237, 237)
+|container-txtcolor=rgb(36, 0, 0)
+|container-hover-bgcolor=rgb(146, 23, 23)
+|container-hover-txtcolor=rgb(255, 34, 0)
+|container-stroke-color=rgba(180, 35, 35)
+|container-hover-stroke-color=rgb(242, 199, 80)
+|background-url=https://upload.wikimedia.org/wikipedia/commons/0/0e/Xinqiao_Fried_Chicken_%2820150104123156%29.JPG
+|background-vertical-position=30%
+|link-fill-color=rgba(252, 252, 252)
+|link-stroke-width=0.125rem
+|link-stroke-color=rgba(12, 12, 12)
+|anchor=120
+|link=http://scp-zh-tr.wikidot.com/scp-zh-750-art
+|title=油漬天使
+|sub-title=ART
+|blerb=**油膩膩的藝作。**
+]]
+@@ @@
+@@ @@
+[[include :scp-zh-tr:component:scp-hover-box-structure
+|container-number=six
+|corner-cutout=1em
+|container-bgcolor=rgb(237, 237, 237)
+|container-txtcolor=rgb(36, 0, 0)
+|container-hover-bgcolor=rgb(146, 23, 23)
+|container-hover-txtcolor=rgb(255, 34, 0)
+|container-stroke-color=rgba(180, 35, 35)
+|container-hover-stroke-color=rgb(242, 199, 80)
+|background-url=https://upload.wikimedia.org/wikipedia/commons/d/d6/Blantomat_pcb_ver_4_bw.jpg
+|background-vertical-position=30%
+|link-fill-color=rgba(252, 252, 252)
+|link-stroke-width=0.125rem
+|link-stroke-color=rgba(12, 12, 12)
+|anchor=810
+|link=http://scp-zh-tr.wikidot.com/i-do-not-want-to-translate-art
+|title=Site-ZH-11通用aic
+|sub-title=ART
+|blerb=**王玉婷初登場。**
+]]
+@@ @@
+@@ @@
+[[div style="border-bottom:2px solid #ffffff; margin-bottom:1px;"]]
+[[/div]]
+[[=]]
+戰術遊戲部LOGO
+@@ @@
+[[image https://i.imgur.com/LpslTSt.png width="200px"]][[image https://i.imgur.com/lO0z9H3.png width="200px"]]
+@@ @@
+[[div class="notation"]]
+黑色  https://i.imgur.com/LpslTSt.png
+白色 https://i.imgur.com/lO0z9H3.png
+[[/div]]
+@@ @@
+@@ @@
+
+@@ @@
+
+亂作的LOGO，要用跟我說一下
+@@ @@
+[[image https://i.imgur.com/LU78DRJ.png width="200px"]][[image https://i.imgur.com/JR4mLRn.png width="200px"]]
+@@ @@
+[[div class="notation"]]
+黑色  https://i.imgur.com/LU78DRJ.png
+白色 https://i.imgur.com/JR4mLRn.png
+[[/div]]
+@@ @@
+[[/=]]
+[[=image https://i.imgur.com/3TRCKu1.png]]
+[[/div]]
+
+@@ @@
+
+@@ @@
+
+
+[[div class="smallmodal"]]
+[[# F]]
+[[>]]
+被複寫__　00　__%
+[[/>]]
+[[=]]
++ 競賽徽章
+[[/=]]
+@@ @@
+[[=image https://i.imgur.com/3TRCKu1.png]]
+[http://scp-zh-tr.wikidot.com/escape-into-the-world-of-mortals 有一張，但還沒公佈。]
+[[=image https://i.imgur.com/3TRCKu1.png]]
+[[/div]]
+
+
+[[collapsible show="圖像圖像使用授權" hide="摺疊摺疊摺疊頁"hideLocation="both"]]
+
+[[div class="jotting"]]
+連結：https://scp-wiki.wdfiles.com/local--files/scp-7549/recurrent_triangle.png
+授權方式：CC BY-SA 3.0
+版權所有者：[[*user Billith]]
+[[/div]]
+[[div class="jotting"]]
+連結：https://commons.wikimedia.org/wiki/File:Xinqiao_Fried_Chicken_(20150104123156).JPG
+授權方式：Creative Commons Attribution-Share Alike 4.0
+版權所有者：N509FZ
+[[/div]]
+[[div class="jotting"]]
+連結：https://commons.wikimedia.org/wiki/File:Blantomat_pcb_ver_4_bw.jpg
+授權方式：Creative Commons Attribution 3.0
+版權所有者：Adamschodowy
+[[/div]]
+[[div class="jotting"]]
+其他圖像：https://i.imgur.com/exSt1dr.png 、 https://i.imgur.com/3TRCKu1.png、https://i.imgur.com/LpslTSt.png 、https://i.imgur.com/lO0z9H3.png 、 https://i.imgur.com/LU78DRJ.png 、 https://i.imgur.com/JR4mLRn.png
+授權方式：CC BY-SA 3.0
+版權所有者：[[*user ic_1623]]
+[[/div]]
+[[/collapsible]]
+
+[[include :scp-zh-tr:theme:basalt darkmode=a]]
+[[module CSS]]
+
+@import url('https://fonts.googleapis.com/css2?family=Zen+Kaku+Gothic+Antique:wght@300;400;500;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Spline+Sans:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap');
+div.authorlink-wrapper{margin-top: var(--author-top-adjust, .2em) !important;}
+:root {
+--header-logo: url('https://scp-wiki.wdfiles.com/local--files/scp-6768/dept.png');
+--title:"提喻研究站";
+--subtitle:"刪除部";
+--sidesubtitle: "DELETIONS";
+--sidelogo: url('https://scp-wiki.wdfiles.com/local--files/scp-6768/dept.png');
+--header-font: 'Poppins';
+--body-font: 'Zen Kaku Gothic Antique', sans-serif;
+--ACS-font: var(--header-font);
+--five-color: 116,71,88 !important;
+--basalt-undertone: 60,9,33 !important;
+--swatch-menubg-black-color: 10,10,10 !important;
+--general-border-color: 1,1,1 !important;
+--swatch-menutxt-dark-color: 1,1,1 !important;
+--UI-font: 'Poppins';
+--basalt-main-text-color: 253, 241, 242 !important;
+--selection-background-color: 197, 119, 41 !important;
+--link-color: var(--basalt-alternate-color) !important;
+--link-visited-color: var(--basalt-alternate-color) !important;
+--basalt-bright-element-color: var(--basalt-alternate-color) !important;
+}
+#page-content .widetable .wiki-content-table {
+    width: 100% !important;
+    font-size: 1.5em;
+}
+.hcontainer {
+
+}
+
+:is(span.specialtext, span.st) {
+text-decoration: underline 2px;
+    text-underline-offset: 3px;
+}
+body {
+    background-image:url("https://scp-wiki.wdfiles.com/local--files/scp-7549/cab.png");
+    background-attachment: fixed;
+    background-size: cover;
+    background-blend-mode: color-dodge;
+    background-repeat:no-repeat;
+
+}
+
+
+.acs-extra-1 {
+
+font-family: var(--ACS-font), var(--body-font) !important;
+}
+#page-content a.collapsible-block-link {
+
+color: rgb(236, 200, 158);
+
+}
+#page-content div.modal {
+    max-width: var(--main-content-width) !important;
+}
+.anom-bar > div.bottom-box::before {
+display: none !important;
+}
+div.overwatch_memo {
+
+--memo-heading: "本檔案已標記為刪除";
+--memo-logo: url(https://scp-wiki.wdfiles.com/local--files/scp-6768/deletion.png);
+--memo-color: 253, 241, 242;
+}
+
+div.overwatch {
+filter: brightness(65%);
+}
+div[class$="_memo"] {
+
+background-color:rgba(49,49,49,0.6);
+}
+.series-nav {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: center;
+    align-items: baseline;
+
+    margin: 1rem 0;
+    padding: .02rem 1rem;
+    background: rgb(var(--basalt-tertiary-color));
+
+    border-top-right-radius: .67rem;
+    border-top-left-radius: .67rem;
+
+    font-size: 1.2em;
+    font-family: var(--UI-font);
+}
+
+.series-nav>* {
+    margin: 0 0.3em;
+}
+
+.end_card {
+    background: linear-gradient(145deg, rgba(var(--basalt-dark-element-color), 0.5) 0%, rgb(var(--basalt-tertiary-color)) 80%);
+    padding: 1.25rem 2rem;
+    text-align: center;
+}
+div:is(.jotting, .transcript) {
+border: double 0.15rem #000;
+}
+#page-content :is(blockquote, .blockquote) {
+    border-color: #000;
+    font-weight: normal;
+    background-color: #060b11;
+    color: #cdd9d6;
+}
+
+.image-block, .scp-image-block {
+
+border-bottom: none !important;
+}
+
+
+#page-content div:is(.jotting, .transcript) {
+
+max-width: 44rem;
+}
+.acs_modal {
+width: 100%;
+}
+.featurewrapper {
+position: relative;
+}
+.featurewrapper > * {
+margin: 0 auto !important;
+left: 5px;
+}
+[[/module]]
+
+
+[[module CSS]]
+.cuis-form{table{width:100%;}tr{border:3px solid black;}}
+[[/module]]
