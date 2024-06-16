@@ -703,7 +703,7 @@
 * [[[SCP-6652]]] - [ACCESS DENIED]
 * [[[SCP-6653]]] - [ACCESS DENIED]
 * [[[SCP-6654]]] - [ACCESS DENIED]
-* [[[SCP-6655]]] - [ACCESS DENIED]
+* [[[SCP-6655]]] - 實驗將會繼續。
 * [[[SCP-6656]]] - [ACCESS DENIED]
 * [[[SCP-6657]]] - [ACCESS DENIED]
 * [[[SCP-6658]]] - [ACCESS DENIED]

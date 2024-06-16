@@ -110,7 +110,7 @@
 * [[[SCP-8082]]] - The Wild Hunt
 * [[[SCP-8083]]] - [ACCESS DENIED]
 * [[[SCP-8084]]] - [ACCESS DENIED]
-* [[[SCP-8085]]] - [ACCESS DENIED]
+* [[[SCP-8085]]] - 本來就是自然的
 * [[[SCP-8086]]] - [ACCESS DENIED]
 * [[[SCP-8087]]] - [ACCESS DENIED]
 * [[[SCP-8088]]] - Still Within Bounds
