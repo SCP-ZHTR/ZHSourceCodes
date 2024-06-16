@@ -26,7 +26,7 @@
 name=https://live.staticflickr.com/65535/52956809271_a6e85068d1_c.jpg|caption=SCP-ZH-363被發現時的照片
 ]]
 
-**特殊收容措施：**本項目暫時收容於[[[http://scp-zh-tr.wikidot.com/scp-zh-360 |PROV-ZH-360]]]基金會辦公室。除了定時澆水及施肥外，無須其他收容措施。
+**特殊收容措施：**本項目暫時收容於[[[scp-zh-360 |PROV-ZH-360]]]基金會辦公室。除了定時澆水及施肥外，無須其他收容措施。
 
 **描述：**SCP-ZH-363為一株觀賞用仙人掌（//Mammillaria plumosa//）。
 
