@@ -366,7 +366,24 @@ ZH建立網站以後所舉辦的第一場大型競賽，以平行宇宙為主題
 [[/div]]
 @@ @@
 [!-- ======================================= --]
+[[div class="item unofficial"]]
+[[div class="item-title"]]
+[[[http://scp-zh-tr.wikidot.com/escape-into-the-world-of-mortals|「亡走塵寰」]]]
+[[/div]]
+|| [[*user Semibreve]] || 2024/5/03  - 2024/6/15 ||
+-----
+競賽從六張卡牌中選取一張題目，配合其他抽選的效果道具加分，加權後決定名次。
 
+= **第一名**︰[[[SCP-ZH-351|]]] 、[[*user AbyssDream]]
+= **第二名**︰[[[SCP-ZH-306|]]] 、[[*user Frederica Bernkastel]]
+= **第三名**︰[[[SCP-ZH-457|]]] 、[[*user NocturnalT]]
+= **第四名**︰[[[SCP-ZH-574|]]] 、[[*user Viken-K]]
+= **第五名**︰[[[SCP-ZH-951|]]] 、[[*user MoonTracker]]
+= **第六名**︰[[[SCP-ZH-888-J|]]] 、[[*user Tostren]]
+
+[[/div]]
+@@ @@
+[!-- ======================================= --]
 
 
 
