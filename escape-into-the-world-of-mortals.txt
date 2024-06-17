@@ -383,7 +383,7 @@ SCP: 5K（328元）
 
 寫作組、繪圖組參加獎：
 [[image https://semibreve-sandbox.wdfiles.com/local--files/2/%22%E8%A1%8C%E5%A1%B5%E5%A4%99%E5%A4%9C%22 width="150px"]] [[image https://semibreve-sandbox.wdfiles.com/local--files/2/%22%E6%88%91%E6%9C%83%E5%B0%87%E4%BD%A0%E5%80%91%E5%B8%B6%E5%9B%9E%E4%BE%86%22 width="150px"]]
-些做組合繪圖組的所有參加成員，皆可以將以下代表自己組別的代碼複製到作者頁的徽章牆。
+寫作組和繪圖組的所有參加成員，皆可以將以下代表自己組別的代碼複製到作者頁的徽章牆。
 > 寫作組：
 > @@[[image https://semibreve-sandbox.wdfiles.com/local--files/2/%22%E8%A1%8C%E5%A1%B5%E5%A4%99%E5%A4%9C%22 width="150px"]]@@
 
