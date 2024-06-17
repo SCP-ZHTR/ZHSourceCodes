@@ -266,9 +266,10 @@ body {
 
 ----
 
-> + 特殊效果卡牌（×0.1）
+> + 特殊效果卡牌（×1.1）
 **“安全上壘”**
 來自古代的神秘沙漏翻轉了時間，於6/1的23:59分前投稿的參賽者將獲得特殊卡牌的效果，最後結算總分時×0.1分作為獎勵（一人僅限一次）
+
 [[/tab]]
 
 [[tab 規則]]
@@ -334,9 +335,11 @@ Project Wingman（378元）
 Hollow Knight + DLC（370元）
 SCP: 5K（328元）
 
+++ 競賽延時補償：第六名
+100元以下Steam遊戲擇一
+
 ++ 寫作組、繪圖組參加獎
 由[[*user Abyssdream]]繪製的特殊競賽參賽徽章！！
-
 
 ++ 咪呀覺得你不錯獎
 由[[*user Dr V Valentine]]製作的神奇玩具。
@@ -367,16 +370,31 @@ SCP: 5K（328元）
 
 [[tab 頒獎區]]
 
-第一名：[http://scp-zh-tr.wikidot.com/scp-zh-351 SCP-ZH-351 - 煉油廠加工原料] /[[*user AbyssDream]] / 28 (未加總)
-第二名：[http://scp-zh-tr.wikidot.com/scp-zh-306 SCP-ZH-306 挖掘過深] /[[*user Frederica Bernkastel]] / 27 (未加總)
-第三名：[http://scp-zh-tr.wikidot.com/scp-zh-457 SCP-ZH-457 - 在林裡待一下] /[[*user NocturnalT]] / 26 (未加總)
-第四名：[http://scp-zh-tr.wikidot.com/scp-zh-574 SCP-ZH-574 - 前哨] /[[*user Viken-K]] / 25 (未加總)
-第五名：[http://scp-zh-tr.wikidot.com/scp-zh-888-j SCP-ZH-888-J - 付錢！] /[[*user Tostren]] / 23 (未加總)
+[[=image https://i.imgur.com/D8WKRL2.png]]
+
+第一名：[http://scp-zh-tr.wikidot.com/scp-zh-351 SCP-ZH-351 - 煉油廠加工原料] /[[*user AbyssDream]] / 29.1
+第二名：[http://scp-zh-tr.wikidot.com/scp-zh-306 SCP-ZH-306 挖掘過深] /[[*user Frederica Bernkastel]] / 28.1
+第三名：[http://scp-zh-tr.wikidot.com/scp-zh-457 SCP-ZH-457 - 在林裡待一下] /[[*user NocturnalT]] / 27.1
+第四名：[http://scp-zh-tr.wikidot.com/scp-zh-574 SCP-ZH-574 - 前哨] /[[*user Viken-K]] / 26.1
+第五名：[http://scp-zh-tr.wikidot.com/scp-zh-951 SCP-ZH-951 - 性奪者] /[[*user MoonTracker]] / 23.1
+
+競賽延時補償：
+第六名：[http://scp-zh-tr.wikidot.com/scp-zh-888-j SCP-ZH-888-J - 付錢！] /[[*user Tostren]] / 23
 
 寫作組、繪圖組參加獎：
-(最晚間7:00公布)
+[[image https://semibreve-sandbox.wdfiles.com/local--files/2/%22%E8%A1%8C%E5%A1%B5%E5%A4%99%E5%A4%9C%22 width="150px"]] [[image https://semibreve-sandbox.wdfiles.com/local--files/2/%22%E6%88%91%E6%9C%83%E5%B0%87%E4%BD%A0%E5%80%91%E5%B8%B6%E5%9B%9E%E4%BE%86%22 width="150px"]]
+些做組合繪圖組的所有參加成員，皆可以將以下代表自己組別的代碼複製到作者頁的徽章牆。
+> 寫作組：
+> @@[[image https://semibreve-sandbox.wdfiles.com/local--files/2/%22%E8%A1%8C%E5%A1%B5%E5%A4%99%E5%A4%9C%22 width="150px"]]@@
+
+> 繪圖組：
+> @@[[image https://semibreve-sandbox.wdfiles.com/local--files/2/%22%E6%88%91%E6%9C%83%E5%B0%87%E4%BD%A0%E5%80%91%E5%B8%B6%E5%9B%9E%E4%BE%86%22 width="150px"]]@@
+
 咪呀覺得不錯獎：
-(最晚間7:00公布)
+[[*user surprising_mars]]
+
+超級咪貓獎：
+獻給[[*user Dr V Valentine]]
 
 [[/tab]]
 
