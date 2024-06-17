@@ -1,6 +1,6 @@
 [[include component:scp-meta-title-hiding css-style=classic]]
 [[include info:start]]
-**[[[http://www.scp-wiki.net/scp-3220|SCP-3220]]]**：貳號監倉
+**[[[http://www.scp-wiki.net/scp-3220|SCP-3220]]]**：圓形監獄II
 **作者：** [[*user A Random Day]] 
 **翻譯者：**[[*user minmasterqw]]
 ----
