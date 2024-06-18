@@ -237,3 +237,4 @@ SCP-ZH-959 _
 [[=]]
 [[include :scp-sandbox-3:image-zoom name=http://scp-sandbox-zh.wdfiles.com/local--files/chaos-strange-happening/chart|caption=阿比斯莫式分裂異常擴散的趨勢圖表，用以表示經過分裂的物體型態略為何種型態。值得注意的是分裂後之型態多位於Euclid至Keter之間。]]
 [[/=]]
+~~~~
