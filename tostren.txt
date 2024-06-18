@@ -304,6 +304,10 @@ SCP-3301 - 基金會
 [[module ListPages order="title" tags=" +原創" rating="<0" separate="no" perPage="200" prependLine="||~ 標題||~ 評分||"]]
 || %%title_linked%% || %%rating%% || 
 [[/module]]
+
+[[module ListPages order="title" tags=" +原創 +wondertainment博士" separate="no" perPage="200" prependLine="||~ 標題||~ 評分||"]]
+|| %%title_linked%% || %%rating%% || 
+[[/module]]
 [[/collapsible]]
 
 [[/tab]]
