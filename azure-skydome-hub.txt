@@ -90,6 +90,8 @@
 @@ @@
 
 -----
+@@ @@
+
 [[/=]]
 ++++* [[[SCP-ZH-835]]]：燦藍神化天穹
 +++++* Azure Skydome of Ascension
@@ -139,6 +141,8 @@
 @@ @@
 
 -----
+@@ @@
+
 [[/=]]
 ++++* 未知航程：恆星之影 [[[shadow-of-the-sun-1|1-1]]] · [[[shadow-of-the-sun-2|1-2]]] · [[[shadow-of-the-sun-3|1-3]]] · [[[shadow-of-the-sun-4|1-4]]]
 +++++* Unknown Voyage: Shadow Of the Sun 
@@ -186,6 +190,8 @@
 @@ @@
 
 -----
+@@ @@
+
 [[/=]]
 ++++* [[[ancient-taiwan-chronicle|母親、異族、大洪水：上古台灣異常史講座]]]
 +++++* Mother, Savage, and Great Deluge: Ancient Taiwan Chronicle of Anomaly
@@ -243,6 +249,8 @@
 @@ @@
 
 -----
+@@ @@
+
 [[/=]]
 ++++* [[[SCP-ZH-621]]]：瘟疫飛揚於奇蹟之島
 +++++* The Plague Thrives On Island of Miracle
@@ -415,7 +423,7 @@
 
 +++* ##69e1c5|伊亞 · 南夏 Ea Nesia##
 
-> 三垣指揮部的首席指揮官。[[[ancient-taiwan-chornicle|約一萬年前誕生於台灣島上]]]，早於南島民族的祖先存在，透過島上的[[[scp-zh-209|奇蹟性復活機制]]]而存續至今。由於駐齡與長期領導人類的經歷，具備超越常人的思維與洞察力。為確保自己所領導的族群能夠存續，願意付出巨大的代價，並執行常人難以苟同的策略。
+> 三垣指揮部的首席指揮官。[[[ancient-taiwan-chronicle|約一萬年前誕生於台灣島上]]]，早於南島民族的祖先存在，透過島上的[[[scp-zh-209|奇蹟性復活機制]]]而存續至今。由於駐齡與長期領導人類的經歷，具備超越常人的思維與洞察力。為確保自己所領導的族群能夠存續，願意付出巨大的代價，並執行常人難以苟同的策略。
 
 +++* ##69e1c5|SCP-ZH-002##
 
