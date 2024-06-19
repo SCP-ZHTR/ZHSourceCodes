@@ -830,6 +830,7 @@ MSC-7「獌束」
 [[span class="a-lv2"]]仲尼曰以同異難以異易易[[/span]] _
 [[/span]]：勇氣
 * 「翻譯」系列
+ * [[[first-glimpse-into-legend-of-shower-chess-style|]]] - [[[scp-1875|]]]
  * [[[scorch-correspondence-pattern|]]] - [[[scp-2528|]]]
  * [[[a-transgress-or-translate-before-spring|]]] - [[[scp-8008|]]]
  * [[[scp-zh-469|]]] - [[[scp-7931|]]]
