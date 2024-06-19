@@ -74,7 +74,7 @@
 [[table]]
 [[row]]
 [[cell style="margin:auto; padding-left: 15px;padding-right:15px;padding-top:15px;padding-bottom:15px"]]
-[[image https://i.imgur.com/PfFCRPP.png width="150px"]][[footnote]][[[christmas-event3|人類紀元12021年聖夜相守]]]食物相關投稿，相關文本為[[[SCP-ZH-065]]]。[[/footnote]][[image https://i.imgur.com/uEXEa97.png width="150px"]][[footnote]][[[jamcon-zh-2022|人類紀元12022年繁中急迫競賽]]]參與確認。[[/footnote]][[image https://i.imgur.com/2o7xeE4.png width="150px"]][[footnote]][[[jamcon-zh-2022|人類紀元12022年繁中急迫競賽]]]三題全勤，相關文本為[[[wanderers:a-freak-accident-also-a-forced-anchorage|迫降事件]]]、[[[SCP-ZH-385]]]、[[[SCP-ZH-968]]]。[[/footnote]][[image https://i.imgur.com/F8mEL76.png width="150px"]][[footnote]][[[honglam-battle|人類紀元12022年紅藍爭霸賽]]]翻譯響應行動參與，相關文本為[[[SCP-4141]]]。[[/footnote]][[image https://i.imgur.com/t2YInKJ.png width="150px"]][[footnote]][[[jamcon-zh-2023|人類紀元12023年繁中急迫競賽]]]參與確認。[[/footnote]][[image https://i.imgur.com/6ptGeKe.png width="150px"]][[footnote]][[[jamcon-zh-2023|人類紀元12023年繁中急迫競賽]]]三題全勤，相關文本為[[[SCP-ZH-964]]]、[[[SCP-ZH-312]]]、[[[SCP-ZH-996]]]。[[/footnote]][[image https://i.imgur.com/hAvO2cL.png width="150px"]][[footnote]][[[jamcon-zh-2023|人類紀元12023年繁中急迫競賽]]]翻譯響應行動參與，相關文本為[[[SCP-597]]]、[[[SCP-171]]]、[[[SCP-220]]]。[[/footnote]][[image https://i.imgur.com/cFaO3wM.gif width="150px"]][[footnote]][[[honglam-battle-2-0|人類紀元12023年紅藍爭霸賽]]]翻譯響應行動參與，相關文本為[[[SCP-6013]]]。[[/footnote]]
+[[image https://i.imgur.com/PfFCRPP.png width="150px"]][[footnote]][[[christmas-event3|人類紀元12021年聖夜相守]]]食物相關投稿，相關文本為[[[SCP-ZH-065]]]。[[/footnote]][[image https://i.imgur.com/uEXEa97.png width="150px"]][[footnote]][[[jamcon-zh-2022|人類紀元12022年繁中急迫競賽]]]參與確認。[[/footnote]][[image https://i.imgur.com/2o7xeE4.png width="150px"]][[footnote]][[[jamcon-zh-2022|人類紀元12022年繁中急迫競賽]]]三題全勤，相關文本為[[[wanderers:a-freak-accident-also-a-forced-anchorage|迫降事件]]]、[[[SCP-ZH-385]]]、[[[SCP-ZH-968]]]。[[/footnote]][[image https://i.imgur.com/F8mEL76.png width="150px"]][[footnote]][[[honglam-battle|人類紀元12022年紅藍爭霸賽]]]翻譯響應行動參與，相關文本為[[[SCP-4141]]]。[[/footnote]][[image https://i.imgur.com/t2YInKJ.png width="150px"]][[footnote]][[[jamcon-zh-2023|人類紀元12023年繁中急迫競賽]]]參與確認。[[/footnote]][[image https://i.imgur.com/6ptGeKe.png width="150px"]][[footnote]][[[jamcon-zh-2023|人類紀元12023年繁中急迫競賽]]]三題全勤，相關文本為[[[SCP-ZH-964]]]、[[[SCP-ZH-312]]]、[[[SCP-ZH-996]]]。[[/footnote]][[image https://i.imgur.com/hAvO2cL.png width="150px"]][[footnote]][[[jamcon-zh-2023|人類紀元12023年繁中急迫競賽]]]翻譯響應行動參與，相關文本為[[[SCP-597]]]、[[[SCP-171]]]、[[[SCP-220]]]。[[/footnote]][[image https://i.imgur.com/cFaO3wM.gif width="150px"]][[footnote]][[[honglam-battle-2-0|人類紀元12023年紅藍爭霸賽]]]翻譯響應行動參與，相關文本為[[[SCP-6013]]]。[[/footnote]][[image https://semibreve-sandbox.wdfiles.com/local--files/2/%22%E8%A1%8C%E5%A1%B5%E5%A4%99%E5%A4%9C%22 width="150px"]][[footnote]][[[escape-into-the-world-of-mortals|「亡走塵寰」競賽]]]參與確認，相關文本為[[[SCP-ZH-469]]]。[[/footnote]]
 [[/cell]]
 [[/row]]
 [[/table]]
@@ -99,6 +99,7 @@
  * 12022 HE 12.09：SCP-ZH-824無效化確認，劉善俠轉為全職人員，加入Site-ZH-11
 * 12022 HE 12.██：劉善俠經過基金會人員建議，採用化名「Edward Knave」，後來取得「艾德」或「愛德」之暱稱
 * 1202█ HE ██.██：Knave研究員加入Site-ZH-11轄下的機動特遣隊 見危-11（「誰在一壘？」）任職跨學科研究員（代號：二壘裁判）
+* 12028 HE 03.05：安特爾剌之子事件（[[[SCP-ZH-469|]]]）
 * 12029 HE 08.██：Knave研究員取得3級維安權限
 * 120██ HE ██.██：Knave研究員接受槍械訓練後，開始改造獲配槍械，製成改造鎮暴霰彈槍「九言詩」
 * 12030 HE ██.██：Knave研究員開始實作「九轉盔」構想
@@ -828,6 +829,10 @@ MSC-7「獌束」
 [[span class="a-lv1"]]見不善如襲隱以避難靜居[[/span]] _
 [[span class="a-lv2"]]仲尼曰以同異難以異易易[[/span]] _
 [[/span]]：勇氣
+* 「翻譯」系列
+ * [[[scorch-correspondence-pattern|]]] - [[[scp-2528|]]]
+ * [[[a-transgress-or-translate-before-spring|]]] - [[[scp-8008|]]]
+ * [[[scp-zh-469|]]] - [[[scp-7931|]]]
 * 醉譯系列
  * [[[SCP-3380]]] - 科學、技術、工程、神性
  * [[[SCP-7166]]] - 雷擊不貳
