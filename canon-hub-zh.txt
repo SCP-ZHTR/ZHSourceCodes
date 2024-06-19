@@ -227,7 +227,7 @@
 
 [[/div]]
 [[div class="canon-snippet-subtext unmargined"]]
-—— SamScript
+[[[SCP-ZH-835]]] —— SamScript
 [[/div]]
 [[/div]]
 
