@@ -1,0 +1,406 @@
+[[include info:start]]
+原文：[https://scp-wiki.wikidot.com/wrathcon WRATHCON] 極峻競賽
+作者：[[*user Naepic]]
+譯者：[[*user Frederica Bernkastel]]
+[[include info:end]]
+
+[[include :scp-zh-tr:theme:basalt darkmode=a|hidetitle=a|centertitle=a]]
+[[module CSS]]
+
+/* Wrath Theme */
+/* by syuzhet */
+
+/*
+
+嘿。是我啦。
+
+
+你可能已經透過驕傲季與SCP-8000競賽等著名競賽頁面認識我了。
+
+翻譯頁面是很有趣，但你知道什麼不有趣嗎？毒品。
+
+每年都有數十億的翻譯人員吸毒成癮。你知道吸毒成癮的主要原因是什麼嗎？同儕壓力。
+
+如果有其他翻譯試圖迫使你或你認識的其他人吸毒，請堅定地告訴他們：不！
+
+感謝你的聆聽。
+
+- syuzhet
+
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=DM+Mono:ital,wght@0,300;0,400;0,500;1,300;1,400;1,500&amp;amp;amp;amp;amp;amp;amp;amp;amp;display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+IS:wght@100..400&amp;amp;amp;amp;amp;amp;display=swap');
+
+:root {
+    --basalt-secondary-color: 0, 0, 0;
+
+    --basalt-overtone: 255, 0, 0;
+    --basalt-undertone: 255, 0, 0;
+    --basalt-bright-element-color: 255, 0, 0;
+    --basalt-dark-element-color: 255, 0, 0;
+
+    --link-color: 255, 0, 0;
+    --link-visited-color: 255, 0, 0;
+    --link-newpage-color: 255, 0, 0;
+
+    --top-bar-link-color-hover: 255, 255, 255;
+    --login-status-text-color-hover: 0, 0, 0;
+    --side-bar-link-color-hover: 0, 0, 0;
+    --side-bar-link-background-hover: 255, 255, 255;
+    --selection-text-color: 0, 0, 0;
+
+    --header-border-width: 0rem;
+    --title-size: 1.25rem;
+    --subtitle-size: 0rem;
+    --side-bar-button-height: 50vh;
+    --user-button-width: 2rem;
+    --header-logo-size: 67.5%;
+
+    --basalt-UI-dark-palette: 0, 0, 0;
+    --top-bar-link-background-hover: 255, 0, 0;
+
+}
+
+#header h1 a::before {
+    display: none;
+}
+
+#header h1 a span::after {
+    margin-bottom: 0;
+}
+
+#container #header {
+    background: none;
+    position: absolute;
+    box-shadow: unset;
+    backdrop-filter: none;
+}
+
+div #container-wrap {
+    background-color: #060C0C;
+    background: url(https://i.imgur.com/nccHXw6.jpeg);
+    background-size: contain;
+}
+
+#main-content {
+    margin-top: 0;
+}
+#page-content {
+    padding-top: 0;
+}
+
+#page-content > p:nth-child(-n+4) {
+    display: none;
+}
+
+.widebox {
+    position: relative;
+    left: calc(-50dvw + 50%);
+    width: 100dvw !important;
+    max-width: 100dvw !important;
+}
+
+.widebox .blockquote {
+    margin: 4rem auto;
+    padding: 2rem 2rem;
+}
+
+.headerimage {
+    position: relative;
+    height: calc(120dvh);
+    background-image: url(https://i.imgur.com/kJRzXtX.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top;
+}
+
+.headerimage .wrathtext {
+    position: relative;
+    display: block;
+    margin: auto;
+    bottom: -75dvh;
+    width: 40%;
+}
+
+.headerimage .skullseparator {
+    position: absolute;
+    bottom: -20dvw;
+    width: 100%;
+}
+
+.darkWRATHbox {
+    width: 100%;
+    padding-top: 40dvh;
+}
+
+.darkWRATHboxinterior {
+    width: 80%;
+    margin: auto;
+}
+
+.darkWRATHbox h1 {
+    color: red;
+    font-family: "DM Mono", monospace;
+    font-weight: 800;
+    font-size: 8em;
+    line-height: 1;
+}
+
+.darkWRATHbox h2 {
+    color: red;
+    font-family: "DM Mono", monospace;
+    font-weight: 800;
+    font-size: 8em;
+    line-height: 1;
+}
+
+.darkWRATHboxinterior p {
+    color: white;
+    font-family: "DM Mono", monospace;
+    font-weight: 800;
+    font-size: 3em;
+    line-height: 1;
+}
+
+.darkWRATHboxinterior h3 {
+    color: white;
+    font-family: "Playwrite IS", cursive;
+    font-weight: 400;
+    font-size: 4em;
+    line-height: 1;
+}
+
+.darkWRATHboxinterior li {
+    color: white;
+}
+
+.darkWRATHboxinterior2 {
+    width: 60%;
+}
+
+.darkWRATHbox .sideskull {
+    float: right;
+    width: 50%;
+}
+
+h1, #page-options-container, .licensebox .collapsible-block-folded a, .page-watch-options a {
+    color: white;
+}
+
+#action-area, .licensebox .collapsible-block-content {
+    background: #0D0D0F;
+    padding: 10px;
+}
+
+.licensebox .collapsible-block-link {
+    background: #0D0D0F;
+    padding: 10px;
+}
+
+/* Piece of shit sidebar */
+
+#top-bar div.mobile-top-bar>.open-menu {
+     visibility:visible;
+     opacity: 0.6;
+     transition: opacity 0.2s;
+}
+
+#top-bar div.mobile-top-bar>.open-menu:hover {
+    opacity: 1;
+}
+
+#side-bar {
+     margin-top:0;
+     height:100%
+}
+
+#side-bar, #side-bar:is(:hover, :focus-within):not(:target) {
+     left:calc(var(--side-bar-width) * -1)
+}
+
+#side-bar::after, #side-bar::before {
+     display:none
+}
+
+#side-bar:target {
+     left:0;
+     width:var(--side-bar-width);
+     z-index:10
+}
+
+#side-bar a.close-menu, #side-bar:target a.close-menu {
+     display:block;
+     pointer-events:none;
+     position:fixed;
+     top:0;
+     right:0;
+     left:auto;
+     width:100%;
+     min-width:3.75rem;
+     height:100%;
+     margin-left:0;
+     opacity:0;
+     z-index:-1;
+     transition:width var(--side-bar-transition),opacity var(--side-bar-transition)   
+}
+
+#side-bar:target a.close-menu {
+     width:calc(100% - var(--side-bar-width));
+     pointer-events:auto;
+     opacity:1;
+}
+
+/* Mobile */
+
+@media only screen and (max-width: 1020px) {
+    #container #header {
+        background: black;
+        position: sticky;
+    }
+    .headerimage {
+        height: calc(80dvh);
+        overflow-x: clip;
+    }
+    .headerimage .skullseparator {
+        top: calc(55dvh);
+        left: -37.5dvw;
+        width: 150dvw;
+        max-width: 150dvw;
+    }
+    .headerimage .wrathtext {
+        bottom: -40dvh;
+        width: 90%;
+    }
+    .darkWRATHbox {
+        padding-top: 5dvh;
+    }
+    .darkWRATHboxinterior {
+    width: 80%;
+    margin: auto;
+    font-size: 1rem;
+    }
+    .darkWRATHbox h1 {
+        font-size: 4em;
+    }
+    .darkWRATHbox h2 {
+        font-size: 4em;
+    }
+    .darkWRATHboxinterior p {
+    color: white;
+    font-family: "DM Mono", monospace;
+    font-weight: 800;
+    font-size: 2em;
+    line-height: 1;
+    }
+    .darkWRATHboxinterior h3 {
+    color: red;
+    font-family: "Playwrite IS", cursive;
+    font-weight: 400;
+    font-size: 2em;
+    line-height: 1;
+    }
+    .darkWRATHboxinterior2 {
+    width: 100%;
+    }
+    .darkWRATHbox .sideskull {
+        display: none;
+    }  
+}
+[[/module]]
+
+[[div class="widebox"]]
+[[div class="headerimage"]]
+[[image https://i.imgur.com/giRitwj.png class="wrathtext"]]
+[[image https://i.imgur.com/33ekI7K.png class="skullseparator"]]
+[[/div]]
+[[div class="darkWRATHbox"]]
+[[div class="darkWRATHboxinterior"]]
++ 愛已死
++ 加分成為燃料
++ 維基已然滿載
+
+@@@@
+@@@@
+@@@@
+
+++ 規則
+
+**只有一個[[span style="color: red;"]]贏家[[/span]]**
+
+**所有敗北的文章都將[[span style="color: red;"]]永久刪除[[/span]]**
+
+**不可[[span style="color: red;"]]組隊[[/span]]**
+
+**不可[[span style="color: red;"]]舊稿新發[[/span]]**
+
+**不可[[span style="color: red;"]]重複投稿[[/span]]**
+
+**主題乃是[[span style="color: red;"]]邪惡[[/span]]**
+
+++ 時間
+
+**__寫作：__ 美國東部時間6月19日上午12時01分 - 美國東部時間6月28日上午12時01分**
+
+**__發布：__ 美國東部時間6月28日上午12時01分 - 美國東部時間7月1日上午12時01分**
+
+**__投票：__美國東部時間7月1日上午12時01分 - 美國東部時間7月11日上午12時01分**
+
+@@@@
+@@@@
+
+[[=]]
+**[[span style="color: red;"]]交出我的故事，爭取眾人分數[[/span]]**
+[[/=]]
+
+@@@@
+@@@@
+
+[[image https://i.imgur.com/8rXoVbT.png class="sideskull"]]
+[[div class="darkWRATHboxinterior2"]]
++++ 額外事項
+
+@@@@
+
+* 本次競賽所有投稿文章（獲勝者除外）都將在競賽結束時刪除。[[span style="color: red;"]]**你不能重新發布本次競賽中刪除的作品。**[[/span]] 如果你希望在維基上重新投稿你的文章，則必須做出大幅重寫。[[span style="color: red;"]]**如果無法接受請不要參賽，你的投稿真的有可能被刪除。**[[/span]]
+* 善待他人。非德的行為是絕不容忍的，同時還可能導致你的參賽資格遭到撤銷。
+* 這是個文字小說創作競賽，並非「所有格式」都能投稿。僅允許以下頂層標籤：{{scp}}、{{故事}}、{{goi格式}}、{{站點}}、{{附加資料}}、{{漫畫}}。
+* 任何採取異常與負面行為增加票數或減少競爭對手票數的參賽者，都將會被取消競賽資格，並可能被禁止參加其他的競賽，更可能根據犯行採取進一步的紀律處分。
+* 你發布的文章必須加上「[[span style="color: red;"]]**en-極峻競賽2024**[[/span]]」標籤。
+* 所有參賽者──包括文章遭刪除者──都將在本頁面上留下一筆作為紀念。然而，競賽作品仍將接受標準刪除過程。
+* 在發布期間允許編輯作品。發布期結束後不得再對文章內容進行重大修改編輯。允許對標點、拼字、文法進行編輯，競賽工作人員亦同。
+* 本次競賽的負責人是[[*user stormbreath]]、[[*user psychicprogrammer]]、[[*user Modulum]]、[[*user syuzhet]]、[[*user Whiteguard]]、[[user Naepic]]。如上所述，如果你對競賽抱持疑問，請聯繫以上負責人或社群營運小組成員。如果發現違反上述精神、未列舉嚴重違背競賽精神行為、違背競賽宗旨的參賽作品，競賽負責人有權取消其參賽資格。所有決定均可向競賽負責人提出上訴。
+[[/div]]
+[[/div]]
+
+@@@@
+@@@@
+@@@@
+@@@@
+
+[[=]]
+^^中心頁藝術與設計由[[*user syuzhet]]創作。^^
+[[/=]]
+@@@@
+@@@@
+
+[[/div]]
+[[/div]]
+
+@@@@
+@@@@
+@@@@
+@@@@
+
+[[include :scp-zh-tr:component:license-box
+|author=Naepic
+]]
+=====
+> **Filename:** banner.png
+> **Name:** HATE-COLORED PRISM
+> **Author:** syuzhet
+> **License:** CC BY-SA 3.0
+> **Source Link:**
+
+=====
+[[include :scp-zh-tr:component:license-box-end]]

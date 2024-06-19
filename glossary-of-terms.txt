@@ -246,8 +246,8 @@
 * **[http://05command.wikidot.com/community-outreach-main 社群營運小組（Community Outreach──CO）]** -- 處理工作人員與網站社群間的溝通，處理並應對網站出現的各種問題。
 * **[http://05command.wikidot.com/critique-main 評價小組（Critique Team）]** -- 對點子、草稿、已發表作品提出評價。
 * **[https://05command.wikidot.com/curation-main 檢查小組（Curation Team）]** -- 負責管理SCP維基的作品，包括添加**成人內容**標籤、發布匿名文章、維護與編輯合作頁面、更新**指導**頁面、不合網站許可的圖像撤換、組織重寫有被刪除風險的低評分文章。     
-* **[http://05command.wikidot.com/disciplinary-main （Disciplinary Team──Disc）]** -- 確保網站的行為準則有被遵守並確切執行，負責懲處違規使用者，阻絕破壞行為進一步影響網站。
-* **（[http://05command.wikidot.com/internet-outreach-main 網路營運小組（Internet Outreach──IO）]** -- 處理並應對站外社群與更廣泛的SCP紛絲溝通的工作人員，負責向圈外粉絲傳遞重要資訊，並協助新成員了解更多維基相關的事。
+* **[http://05command.wikidot.com/disciplinary-main 紀律小組（Disciplinary Team──Disc）]** -- 確保網站的行為準則有被遵守並確切執行，負責懲處違規使用者，阻絕破壞行為進一步影響網站。
+* **[http://05command.wikidot.com/internet-outreach-main 網路營運小組（Internet Outreach──IO）]** -- 處理並應對站外社群與更廣泛的SCP紛絲溝通的工作人員，負責向圈外粉絲傳遞重要資訊，並協助新成員了解更多維基相關的事。
 * **[http://05command.wikidot.com/license-experts-main 許可小組（Licensing Team）]** -- 確保全維基及其社群的版權標準合格。確認所有內容沒有盜用或抄襲情況發生，並檢查所有使用的媒體來源都是正確且合法的。
 * **[http://05command.wikidot.com/maintenance-and-ancillary-staff-team-main 維護與協助工作人員小組（Maintenance And Ancillary Staff Team──MAST）]** -- 維護並更新網站並確保其功能正常。負責刪除與品質管控作業，並著手改良導航內容，如Wikiwalk頁尾與標籤部分。
 * **[http://05command.wikidot.com/technical-staff-main 技術小組（Technical Team──Tech）]** -- 維護網站技術資源並開發新功能。
