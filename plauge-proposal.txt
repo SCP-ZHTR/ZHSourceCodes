@@ -1,5 +1,5 @@
 =====
-[[include :scp-wiki:component:preview
+[[include :scp-zh-tr:component:preview
 text=PlaguePJP: XXI
 ]]
 =====
@@ -14,7 +14,7 @@ text=PlaguePJP: XXI
 [[include :scp-zh-tr:component:toggle-sidebar-bhl]]
 [[include :scp-zh-tr:component:fade-in speed=4]]
 [[module CSS]]
-:root {
+:root:lang(zh){
     --timeScale: 6;
     --timeDelay: 6s;
     --red: 176, 216, 247;
@@ -231,7 +231,7 @@ __列席人員__
 
 //（SCP-001-J 翻身，腹部朝上。）//
 
-**Command：**幹不會吧。
+**指揮部：**幹不會吧。
 
 //（所有收音源皆傳出歡呼與掌聲。）//
 
