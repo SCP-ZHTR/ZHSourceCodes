@@ -1,0 +1,409 @@
+========
+[[include :scp-zh-tr:component:preview
+text=PlaguePJP: XXI
+]]
+=====
+
+[[div style="display: none;"]]
+[[include component:image-block name=https://scp-wiki.wdfiles.com/local--files/plauge-proposal/sealnail.png|caption=.]]
+[[/div]]
+
+[[include :scp-zh-tr:theme:black-highlighter-theme]]
+[[include :scp-zh-tr:component:bhl-dark-sidebar]]
+[[include :scp-zh-tr:component:centered-header-bhl]]
+[[include :scp-zh-tr:component:toggle-sidebar-bhl]]
+[[include :scp-zh-tr:component:fade-in speed=4]]
+[[module CSS]]
+:root {
+    --timeScale: 6;
+    --timeDelay: 6s;
+    --red: 176, 216, 247;
+     --medium-accent: var(--red);
+     --cutColour: #fafafa;
+     --barColour: var(--red);
+     --toggle-border-color: rgb(var(--red));
+     --toggle-icon-color: rgb(var(--red));
+     --mono-font: 'IBM Plex Mono', monospace;
+     --background-gradient-distance: 20rem;
+     --background-gradient-color: var(--red);
+     --dark-accent: var(--red);
+     --barColour: var(--red);
+     --bright-accent: var(--red);
+
+--link-color: 140, 199, 245;
+--visited-link-color: 176, 216, 247;
+--hover-link-color: 176, 216, 247;
+}
+
+#page-content hr {
+border-top: none;
+height: .09em;
+background: rgb(var(--red));
+border-left: 50px double #fcfcfc;
+border-right: 50px double #fcfcfc;
+}
+
+.info-container{
+--barColour: #b0d8f7;
+}
+
+.scp-image-block {
+border: none;
+border-bottom: 2px solid #b0d8f7;
+    box-shadow: none;
+}
+
+.info-container .collapsible-block-folded a{
+color: #FFF;}
+.info-container .collapsible-block-unfolded-link a{
+color: #FFF;
+}
+
+.info-container .collapsible-block-folded a{
+color: #FFF;}
+.info-container .collapsible-block-unfolded-link a{
+color: #FFF;
+}
+
+#page-content > .collapsible-block {
+    display: block;
+    text-align: center;
+    padding: .8em;
+    background-color: #e3e3e3;
+    border-top: 0.125rem dashed #b5b5b5;
+    border-bottom: 0.125rem dashed #b5b5b5;
+}
+
+#page-content > .collapsible-block .collapsible-block-content {
+    text-align: left;
+}
+
+blockquote,
+div.blockquote {
+    border: 0.125rem solid #d4d4d4;
+    background-color: #F5F5F5;
+}
+
+.interview{
+    border-top:solid 2px #b0d8f7;
+    border-bottom:solid 2px #b0d8f7;
+    background:#F5F5F5;
+    width:90%;
+    padding:1px 15px;
+    margin: 10px auto;
+}
+
+.addendum{
+    border:solid 1px #5e5e5e;
+    background:#ffffff;
+    width:90%;
+    padding:1px 15px;
+    margin: 10px auto;
+}
+
+.poster{
+    border:solid 2px #9c0202;
+    background:#ffffff;
+    width:60%;
+    padding:15px;
+    margin: 10px auto;
+}
+
+#page-title{display:none}
+
+[[/module]]
+
+[[>]]
+[[module Rate]]
+[[/>]]
+
+[[div style="text-align: right; margin-top: -20px;"]]
+[[size 80%]]##757575|by PlaguePJP##[[/size]]
+[[/div]]
+ 
+[[include :scp-zh-tr:component:info-ayers
+|page=plauge-proposal[!-- url of your page on the scp wiki --]
+|authorPage=http://www.scp-wiki.net/plaguepjp[!-- link to your author page --]
+|comments=
+= **Plauge的提案** — //大封豹// 
+原文：https://scp-wiki.wikidot.com/plauge-proposal 
+作者：[[*user PlaguePJP]] 
+譯者：[[*user Hector-ZH-TR]]@@ @@
+]]
+
+[[div]]
+[[include :scp-zh-tr:component:anomaly-class-bar-source
+|item-number=001-J
+|clearance= 5
+|container-class= great
+|secondary-class=
+|secondary-icon=
+|disruption-class=
+|risk-class=
+]]
+
+[[include :scp-zh-tr:component:customizable-acs
+|containment-class= great
+|containment-image= https://scptestwiki.wdfiles.com/local--files/plague-test/sealicon1.png
+|containment-color= 176, 216, 247
+|inc-neutralized-layout = --]]]
+
+
+[[include :scp-zh-tr:component:customizable-acs
+|clearance-five= 176, 216, 247
+|inc-clearance= --]]]
+[[/div]]
+-----
+[[div class="scp-image-block block-center" style="width:100%;"]]
+[[image http://scptestwiki.wdfiles.com/local--files/seal/god.png style="width:100%;" link=#]]
+[[div class="scp-image-caption" style="width:100%;"]]
+他的尊容。
+[[/div]]
+[[/div]]
+----
+
+**特殊收容措施：** 由於大家都很喜歡他，SCP-001-J 整日都在拜訪各個站點。SCP-001-J 的主要收容間位於Site --322-- --19-- --17-- --34-- --67--。（他很受歡迎而且常常四處移動。每個站點皆有設置一個區塊供SCP-001-J 停留。）請餵給SCP-001-J 很多魚還有美味的餐點以表達你的感激之情。當他說話的時候，給我聽。
+
+**描述：** SCP-001-J 是這隻超酷的港海豹。SCP-001-J 大約90公斤重，淨長2公尺，才華無限。他優雅的舉止中沒有一絲恐懼、悲傷或憤怒，而且非常的善解人意。
+
+SCP-001-J 與其同類一樣，非常喜歡睡覺與游泳。他在睡覺與游泳方面的表現遠超其他同類，且好看許多。SCP基金會予以SCP-001-J 愛與尊重，而對於我們的忠誠，他也會天天獎賞我們。
+
+**附錄 001-J.1：** 發現
+
+[[div class="interview"]]
+= **文字記錄**
+-----
+__列席人員__
+指揮部 - Paul Lague 主任
+機動特遣隊 φ-103「吠即咬」成員
+* φ-103-6 Sycamore
+* φ-103-34 Willow
+-----
+= **<<記錄開始>>**
+
+**φ-103 | Sycamore：**指揮部，港口看起來安全，沒有活動跡象。
+
+**φ-103 | Willow：**虛驚一場？
+
+**指揮部：**似乎是這樣。再檢查一下，完成之後回報。
+
+**φ-103 | Willow：**收到。
+
+**φ-103 | Sycamore：**收到。
+
+//（φ-Sycamore 朝他的左側看去，注意到了水面下有些動靜。φ-Willow從碼頭上傾身而出。）//
+
+**指揮部：**那啥？
+
+**φ-103 | Sycamore：**海牛之類的吧。
+
+**φ-103 | Willow：**我覺得是隻海獅。
+
+//（該生物（後歸定為SCP-001-J）浮出水面。）//
+
+**指揮部：**喔幹。
+
+**φ-103 | Willow：**是隻大海豹。
+
+**φ-103 | Sycamore：** 一隻爆幹大的海豹。
+
+//（SCP-001-J游至附近的岩床並被沖上岸。）//
+
+**指揮部：**我們需要那該死的海豹，抓住牠。
+
+**φ-103 | Sycamore：**我先來！
+
+//（φ-Willow 與φ-Sycamore 朝SCP-001-J 的位置衝過去。SCP-001-J 開始吠叫。特工立即停止動作，其後以跪姿接近。φ-Sycamore 的收音源傳出海豹叫聲。）//
+
+**φ-103 | Sycamore：**這----這是我聽過最美妙的聲音了。
+
+**指揮部：**真是隻偉大的海豹。
+
+**φ-103 | Willow：**偉大的海豹。
+
+**指揮部：**我不知道該說什麼才好，小子們。
+
+**φ-103 | Sycamore：**或許我們應該問一下他要不要跟我們走。
+
+**指揮部：**啊對對對，好主意。
+
+**φ-103 | Willow：**先生不好意思！我想知道您是否----
+
+//（SCP-001-J 翻身，腹部朝上。）//
+
+**Command：**幹不會吧。
+
+//（所有收音源皆傳出歡呼與掌聲。）//
+
+= **<<記錄結束>>**
+
+[[/div]]
+
+φ-Willow 與φ-Sycamore 特工禮貌且尊敬地請求SCP-001-J 隨他們返回Site-322。經過雙方討論後，包括分享個人煩惱與軼事，SCP-001-J 同意與特工一起旅行。
+
+ **附錄 001-J.2：**監督者會議
+
+[[div class="interview"]]
+= **監督者會議**
+-----
+__列席人員__
+
+監督者議會
+-----
+= **<<記錄開始>>**
+
+**O5-2：**有四嗎？
+
+**O5-13：**吃。
+
+//（O5-2 快速且連續地敲桌子。）//
+
+**O5-2：幹。**
+
+**O5-6：**你那麼激動幹什麼？
+
+**O5-2：**因為那全是屁話！我就知道那賤種在唬爛----
+
+//（會議室的門被猛地打開。機動特遣隊Alpha-1「血色右手」四位隊員將坐在天鵝絨內襯的金色座椅上的SCP-001-J 扛入。）//
+
+**O5-1：**嘿，嘿，嘿，你們不能----
+
+//（特工將SCP-001-J 的椅子置於會議室桌面上，隨後鞠躬並離去。）//
+
+**O5-1：**老天爺他奶奶的。
+
+**O5-8：**哇喔。
+
+**O5-5：**哇喔。
+
+**O5-10：** 看看那傢伙。
+
+**O5-7：**哇喔。
+
+//(SCP-001-J barks.)//
+//（SCP-001-J 吠叫。）//
+
+**O5-13：**我靠。
+
+**O5-11：**真華麗。
+
+//（一部電話響起。O5-1 接聽。）//
+
+**O5-1：**喂？
+
+**管理員：**真是隻偉大的海豹。
+
+= **<<記錄結束>>**
+[[/div]]
+
+他發出的酷聲音：
+
+[[include :scp-zh-tr:component:audio-player-woed-source
+|unique-name=coolseal
+|audio-file=http://scptestwiki.wdfiles.com/local--files/seal/seal2.wav
+|background-color=rgb(252, 252, 252)
+|border-color=rgb(215, 215, 215)
+|border-radius=0.313rem
+|dropshadow-color=rgba(12, 12, 12, 0.15)
+|text-color=rgb(139, 198, 243)
+|icons-color=rgb(176, 216, 247)
+|player-color=rgb(215, 215, 215)
+|progress-color=rgb(176, 216, 247)
+]]
+
+**附錄 001-J.3：**與煉金學部的對談
+
+[[div class="interview"]]
+= **文字記錄**
+-----
+__列席人員__
+O5-1
+Ruslav Diaghilev 主任 - 煉金學部主任
+-----
+= **<<記錄開始>>**
+
+**Diaghilev：**喂？
+
+**O5-1：**嘿兄弟，過得好嗎？
+
+**Diaghilev：**還…可以。
+
+**O5-1：**很好。很好。我現在很閒。你也知道怎麼回事。
+
+**Diaghilev：**嗯。你為什麼打電話來？
+
+**O5-1：**你們應該鎖起來的那個[[span class="ruby"]]偉大的海豹[[span class="rt"]]Great Seal[[/span]][[/span]]跑出來了。現在在我們手上。
+
+**Diaghilev：** [[span class="ruby"]]封印[[span class="rt"]]Seal[[/span]][[/span]]跑出來了？
+
+**O5-1：**你沒聽說嗎？我以為你所有事都會顧到的說。
+
+**Diaghilev：**它跑出去了？
+
+**O5-1：** Yeah.
+
+**Diaghilev：**魔力[[span class="ruby"]]封印[[span class="rt"]]Seal[[/span]][[/span]]？
+
+**O5-1：**我是說，我覺得牠有魔力。有一種氣場。
+
+**Diaghilev：**蛤。那，它在哪？
+
+**O5-1：**我傳個圖片。
+
+[[collapsible show="+ 自O5-1 的照片 +" hide="- 自O5-1 的照片"]]
+[[div class="scp-image-block block-center" style="width:100%;"]]
+[[image http://scptestwiki.wdfiles.com/local--files/seal/bigman.png style="width:100%;" link=#]]
+[[div class="scp-image-caption" style="width:100%;"]]
+大男人。
+[[/div]]
+[[/div]]
+[[/collapsible]]
+
+**Diaghilev：**去你媽的。
+
+//（Diaghilev主任猛地結束了通話。）//
+
+= **<<記錄結束>>**
+[[/div]]
+
+[[footnoteblock]]
+----
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+[[size 120%]] | Plauge 的提案 | [[/size]]
+[[/=]]
+[[/div]]
+----
+[[include : scp-zh-tr:component:wikimodule |ratings= --]]]
+
+[[div]]
+[[=]]
+[[include :scp-zh-tr:component:license-box
+|author=PlaguePJP
+|translator=Hector-ZH-TR
+|lang=EN
+=====
+[[<]]
+> **Filename:** god.png
+> **Author:** SR Photies
+> **License:** CC BY-SA 2.0
+> **Source:** [https://wordpress.org/openverse/image/09969d59-cbb7-479e-8fc0-9a7bf43ee7c6/?referrer=creativecommons.org Seal]
+[[/<]]
+=====
+[[<]]
+> **Filename:** seal.wav
+> **Author:** RTB45
+> **License:** CC BY SA 3.0
+> **Source:** [https://wordpress.org/openverse/image/09969d59-cbb7-479e-8fc0-9a7bf43ee7c6/?referrer=creativecommons.org Seal]
+[[/<]]
+=====
+[[<]]
+> **Filename:** bigman.png
+> **Author:** Steenbergs
+> **License:** CC BY 2.0
+> **Source:** [https://search.openverse.engineering/image/be6f3045-d43f-4067-964f-f90fab31fb47 Grey Seal Staring]
+[[/<]]
+=====
+[[include :scp-zh-tr:component:license-box-end]]
+[[/div]]
+[[/=]]
