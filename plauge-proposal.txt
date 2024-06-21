@@ -1,5 +1,5 @@
-========
-[[include :scp-zh-tr:component:preview
+=====
+[[include :scp-wiki:component:preview
 text=PlaguePJP: XXI
 ]]
 =====
@@ -374,8 +374,6 @@ Ruslav Diaghilev 主任 - 煉金學部主任
 [[/=]]
 [[/div]]
 ----
-[[include : scp-zh-tr:component:wikimodule |ratings= --]]]
-
 [[div]]
 [[=]]
 [[include :scp-zh-tr:component:license-box
