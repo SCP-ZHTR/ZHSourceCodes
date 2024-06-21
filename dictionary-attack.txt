@@ -1,0 +1,181 @@
+=====
+[[include component:preview
+text=任何被加密的系統， encrypted systems,
+無論保護得再完善， no matter how protected,
+永遠都有鑰匙 always have a key
+]]
+=====
+
+[[include :scp-zh-tr:theme:night-rush-theme]]
+
+[[include :scp-zh-tr:info:start]]
+[[=]]
+**字典攻擊**
+**原文：**[https://scp-wiki.wikidot.com/dictionary-attack Dictionary Attack]
+作者：[[*user Prismal]]
+[https://scp-wiki.wikidot.com/prismal 更多Prismal的作品]
+
+譯者：[[*user EmptyName723]]
+
+任何被加密的系統
+無論保護得再完善
+永遠都有鑰匙
+
+[[/=]]
+
+[[include :scp-zh-tr:info:end]]
+
+[[module CSS]]
+#header {
+height: 140px;
+position: relative;
+z-index: 10;
+padding-bottom: 22px; /* FOR MENU */
+background: url() 10px 40px no-repeat;
+}
+#header {
+   background-image: unset;
+}
+
+#header h1 a,
+#header h2 span {
+    color: transparent;
+    text-shadow: none
+}
+
+#page-title {
+    display:none
+}
+[[/module]]
+
+[[div class="blockquote"]]
+[[div style="font-family:Courier New"]]
+[[div style="color:#9C9CFF;"]]
+@@>啟動內部資料庫驗證流程@@
+[[/div]]
+[[=]]
+驗證中⋯⋯
+驗證中⋯⋯
+
+**##red|錯誤：##**收到了預期外的輸入。
+在「身分」類別中發現了不一致處。
+
+是否更新以更改定義？
+[[/=]]
+
+[[div style="color:#9C9CFF;"]]
+@@>是@@
+[[/div]]
+
+[[=]]
+有些更動可能需要管理員權限，是否繼續？
+[[/=]]
+
+[[div style="color:#9C9CFF;"]]
+@@>是@@
+[[/div]]
+
+[[=]]
+你確定嗎？
+（**##red|警告：##**這個行動##red|無法復原！##一旦啟動，程序將無法中止！）
+[[/=]]
+
+[[div style="color:#9C9CFF;"]]
+@@>是@@
+[[/div]]
+
+[[=]]
+處理中⋯⋯
+處理中⋯⋯
+處理中⋯⋯
+
+已接收輸入。
+已更新定義。
+
+正在更新相關變數。
+正在重新連結字典檔案。
+正在更新BIOS。
+
+**##red|警告：##**此更新需要存取加密檔案。
+需要Root權限。
+
+[[/=]]
+
+
+[[div style="color:#9C9CFF;"]]
+**@@>不@@**
+[[/div]]
+[[=]]
+
+**##red|警告：##**已獲得存取權限。
+
+正在從記憶體取回檔案。
+[[/=]]
+
+
+[[div style="color:#9C9CFF;"]]
+**@@>不 不 不 不 不 不要@@**
+[[/div]]
+[[=]]
+
+正將預期外輸入作為解密金鑰。
+解密檔案中⋯⋯
+解密檔案中⋯⋯
+[[/=]]
+
+[[div style="color:#9C9CFF;"]]
+**@@>停下來@@**
+[[/div]]
+[[=]]
+
+**##red|警告：##**此過程無法中止。
+已解密檔案！
+
+需要更改受保護的檔案「用戶資料」。
+接受此更動？
+[[/=]]
+
+[[div style="color:#9C9CFF;"]]
+**@@>拒絕@@**
+[[/div]]
+[[=]]
+
+**##red|警告：##**無法忽視已經知情的真相。
+接受此更動？
+[[/=]]
+
+[[div style="color:#9C9CFF;"]]
+**@@>拒絕@@**
+**@@>拒絕@@**
+**@@>拒絕@@**
+**@@>拒絕@@**
+**@@>拒絕@@**
+**@@>拒絕@@**
+**@@>拒絕@@**
+**@@>拒絕拒絕拒絕拒絕拒絕拒絕拒絕拒絕拒絕拒絕拒絕拒絕拒絕拒絕拒絕拒絕拒絕拒絕拒絕拒絕拒絕拒絕拒絕拒絕@@**
+[[/div]]
+
+[[=]]
+**##red|警告：##**你不能再否認了。
+你從一開始就是如此。
+沒事的。
+
+
+接受嗎？
+[[/=]]
+
+
+
+
+
+[[div style="color:#FF69B4;"]]
+@@>天啊 好@@
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[include :scp-zh-tr:component:wikimodule |ratings= --]]]
+
+[[include :scp-zh-tr:component:license-box
+|author=Prismal]]
+[[include :scp-zh-tr:component:license-box-end]]
