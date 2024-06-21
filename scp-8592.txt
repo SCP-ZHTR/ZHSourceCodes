@@ -1,0 +1,334 @@
+[[include component:scp-meta-title-hiding css-style=classic]]
+[[include info:start]]
+原文：[https://scp-wiki.wikidot.com/scp-8592 SCP-8592] 部門部門
+作者：[[*user PlaguePJP]]
+譯者：[[*user Frederica Bernkastel]]
+[[include info:end]]
+
+[[include :scp-zh-tr:theme:black-highlighter-theme]]
+[[include :scp-zh-tr:component:bhl-dark-sidebar]]
+[[include :scp-zh-tr:component:centered-header-bhl]]
+[[include :scp-zh-tr:component:toggle-sidebar-bhl]]
+[[include :scp-zh-tr:component:acs-animation]]
+[[include :scp-zh-tr:component:fade-in speed=4]]
+
+[[module CSS]]
+@import url('https://fonts.googleapis.com/css2?family=Imbue:opsz,wght@10..100,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@600&display=swap');
+
+#page-content hr {
+border-top: none;
+height: .05em;
+background: #454545;
+}
+
+.info-container .collapsible-block-folded a{
+color: #FFF;}
+.info-container .collapsible-block-unfolded-link a{
+color: #FFF;
+}
+
+.info-container .collapsible-block-folded a{
+color: #FFF;}
+.info-container .collapsible-block-unfolded-link a{
+color: #FFF;
+}
+
+#page-content > .collapsible-block {
+    display: block;
+    text-align: center;
+    padding: .8em;
+    background-color: #e3e3e3;
+    border-top: 0.125rem dashed #b5b5b5;
+    border-bottom: 0.125rem dashed #b5b5b5;
+}
+
+#page-content > .collapsible-block .collapsible-block-content {
+    text-align: left;
+}
+
+blockquote,
+div.blockquote {
+    border: 0.125rem solid #d4d4d4;
+    background-color: #F5F5F5;
+}
+
+.interview{
+    border:solid 2px #d4d4d4;
+    background:#F5F5F5;
+    width:90%;
+    padding:1px 15px;
+    margin: 10px auto;
+}
+
+.addendum{
+    border-left:solid 5px #642c2c;
+    background:#ffffff;
+box-shadow: 1px 1px 4px #5e5e5e82;
+    width:90%;
+    padding:1px 15px;
+    margin: 10px auto;
+}
+
+.reply{
+    border-left:solid 5px #137692;
+    background:#ffffff;
+box-shadow: 1px 1px 4px #5e5e5e82;
+    width:90%;
+    padding:1px 15px;
+    margin: 10px auto;
+}
+
+.reviewtop{
+    border:none;
+    background:#ffbb00;
+    width:90%;
+    padding:1px 15px;
+    margin: 10px auto;
+    margin-bottom: -10px;
+}
+
+
+.review{
+    border:none;
+    background:#F5F5F5;
+    width:90%;
+    padding:1px 15px;
+    margin: 10px auto;
+    font-family: "Cormorant Garamond", serif;
+    font-size: 125%;
+}
+
+
+span.title {
+  font-family: 'Imbue', serif;
+  font-size: 300%;
+  color:white;
+  text-shadow: 1px 1px black;
+}
+
+.review::first-letter {
+  -webkit-initial-letter: 2;
+          initial-letter: 2;
+  color: #ffbb00;
+  font-weight: bold;
+  margin-right: .30em;
+}
+
+
+#page-title{display:none}
+
+#page-content ul:not(.yui-nav) {
+  list-style: outside;
+  margin-left: 32px;
+}
+
+[[/module]]
+[[div]]
+[[include :scp-zh-tr:component:anomaly-class-bar-source
+|item-number=8592
+|clearance= 2
+|container-class= euclid
+|secondary-class=
+|secondary-icon=
+|disruption-class=
+|risk-class=
+]]
+
+[[include :scp-zh-tr:component:customizable-acs
+|containment-class= euclid
+|containment-image= https://scp-wiki.wdfiles.com/local--files/component%3Aanomaly-class-bar/euclid-icon.svg
+|containment-color= 255,211,0
+|inc-neutralized-layout = --]]]
+
+
+[[include :scp-zh-tr:component:customizable-acs
+|clearance-two= 255,211,0
+|inc-clearance= --]]]
+[[/div]]
+-----
+
+[[div class="scp-image-block block-center" style="width:100%;"]]
+[[image https://scptestwiki.wdfiles.com/local--files/jawn-department/department.png style="width:100%;" link=#]]
+[[div class="scp-image-caption" style="width:100%;"]]
+自稱為「部．門」主席的SCP-8592，於電子郵件中附的自拍照。
+[[/div]]
+[[/div]]
+
+-----
+
+**特殊收容措施：** 接收SCP-8592發送電子郵件人員，應將其標為垃圾郵件並隨即刪除。SCP-8592已併入基金會，無法將其自SCiPnet伺服器中刪除。當前認為，使項目忙於處理自己分配予自己的工作是最好的收容方式。
+
+**描述：** SCP-8592是部門部門，為由未知團體營運的不存在基金會部門。2016年4月起，基金會的官方文件開始提及SCP-8592，然而由於當時共同列出的部門過多，一直到12月項目開始隨機向職員發送郵件後，才識別出SCP-8592的異常性質。
+
+SCP-8592由自稱為基金會職員的實體運營，自稱為「部．門」。從未記錄過任何人員使用過該名稱。
+
+尚未完全確認導致SCP-8592顯現的媒介，然而截至撰寫本文時，還是掌握了唯一確定的觸發因素──任何級別人員開始研究新項目的當下。 SCP-8592顯現後遵循著一致的行為模式：
+* 研究開始後，職員將收到來自d.partment@scip.net的電子郵件。該電子郵件的內容漫無邊際，除「部門部門」及其電子郵件簽名有遵守正確大寫標準外，幾乎沒有任何語法可言。寄件人將祝賀收件人的研究成果，並將其分配至不存在的新部門擔任研究負責人。
+ * SCP-8592分配的部門毫無意義可言，通常會以研究異常中無關緊要元素作為該部門的名稱，並表現得像是這屬於該員的重大事業或晉升。
+* 職員的SCiPnet個人資料與官方文件都會遭到竄改，使SCP-8592創建的部門成為其「職責」內容。
+
+考慮到基金會每月的計畫數量，SCP-8592顯現其實是相對較少的，大約每1000個新官方研究計畫中，僅有1個會與SCP-8592產生聯繫。以下是其電子郵件示例：
+
+[[div class="addendum"]]
+
+哈囉老兄，
+
+你好歡迎來到部門部門。我很高興認識你。我看見你正在調查一個叫「約翰」的語無倫次之人，他把牛奶放嘴巴而不是吐出來。這真是個非常辛苦的工作，你值得周圍的所有人都來稱讚你「好棒棒」。
+
+我們非常高興宣布，由於你職業道德良好研究又很努力，你已被分配到新部門。我們在約翰的入院檔案中看到他是「雙性戀」而且還有個男朋友。這非常酷且覺醒，而且我保證我現在也覺醒了，這樣你或約翰就不會感到不舒服，好嗎？你現在是雙性戀異常研究部門的負責人了。這是為了讓你生活的更輕鬆，兄弟。擁有權利的同時也使你擔負起了重責大任。
+
+**//部．門//**
+//部門部門主席//
+[[/div]]
+
+**附錄8592.1：** SCP-8592創建部門
+
+以下是SCP-8592創建部門之簡要列表
+
+||~ 受影響人員 ||~ 研究中異常||~ 指定部門||
+|| 藍道．豪斯主任 || 近期於拉斯維加斯BMX賽事完成不可能滑板動作的報告與影片。 || 酒精、菸草、槍械部 ||
+|| 哈羅德．布蘭克博士 || 美國唱片公司史，在此期間對泰勒．斯威夫特進行了簡要研究。 || 白人女性部 ||
+|| O5-4 || O5-13的屍體，沒有任何身體或健康受損跡象。屍體沒有任何明顯原因的經歷了完全細胞死亡。 || （血腥）謀殺部 ||
+|| 格雷格．霍姆斯博士 || 具有人類語言能力的智慧烏鴉。 ||  （乾淨）謀殺部||
+|| 赫克托爾．瓦爾加主任 || 部分貓科動物體內出現的異常酶，使其壽命遠超出了基線值。|| 加菲貓部 ||
+
+
+**附錄8592.2：** 接觸
+
+由於基金會強大的網路安全環境，自動報修系統佇列過濾並刪除了SCP-8592的所有電子郵件。因此，過去未曾嘗試過與SCP-8592有所接觸。隨著對此異常的研究有所進展，決定與SCP-8592通訊，以利開發出更強的收容措施。
+
+SCP-8592的最新聯絡人是Site-19初級研究員文森特．金尼，允許該員回覆SCP-8592。以下是兩者間的電子郵件交流內容。
+
+[[div class="addendum"]]
+
+嘿「文森特．金尼」兄弟，
+
+[[f>image https://scptestwiki.wdfiles.com/local--files/jawn-department/id.png width="160em"]]
+
+歡迎來到部門部門。今天很高興能與你相會。我已經附上我的憑證，希望能藉此消解你的任何焦慮與恐懼，請隨意查閱--->
+
+我們看到你正在研究那個時不時就在傳送的漢堡攤位。嗯！對於一名重要人物來說，這真是一項非常重要的工作。由於漢堡沒有乳酪，牛又很邪惡，因此你被任命為乳糖不耐症部門負責人。恭喜你！這是個巨大的榮譽。不客氣喔。
+
+**//部．門//**
+//部門部門主席//
+[[/div]]
+
+[[div class="reply"]]
+
+你好門先生，
+
+我對這封電子郵件有點困惑。你能更深入解釋一下這是怎麼回事嗎？
+
+感謝，
+文森特
+[[/div]]
+
+[[div class="addendum"]]
+注意：文尼．金尼
+
+喔兄弟我能夠深入探討嗎？我就直接說了聽著別打斷喔。你正在研究漢堡攤，漢堡攤賣漢堡。我希望我們能在這點上達成一致，兄弟。漢堡由牛肉製成，但沒有乳酪，那可是起司漢堡啊。他們在名字裡加入了起司清理這一團亂。
+
+我做個假設。假設有個名叫約翰的帥哥走進這個漢堡攤然後說：「你好，請給我一個漢堡。」現在，如果湯姆得到的是起司漢堡，他會感到不安，因為他沒得到他用辛苦錢美元買的漢堡。在科學上他們也會這麼說，起司是乳糖吧。接下來呢？回到湯姆吧。如果他得到的是起司漢堡而不是漢堡，我認為湯姆或任何有頭腦的人都無法忍受。身為乳糖不耐症部門負責人，你也無法忍受。請你認真對待此事，並到你指定的部門任職。
+
+**//部．門//**
+//部門部門主席//
+[[/div]]
+
+[[div class="reply"]]
+門先生，
+
+既然我們確定了這點，那麼將我分配至傳送漢堡攤部門不是更有意義嗎？與眼下這個異常相比，「乳糖不耐症部門」似乎太微不足道了。
+
+誠摯的，
+文森特
+[[/div]]
+
+[[div class="addendum"]]
+文森特，
+
+你友善慷慨地獲得了一個令人讚嘆的主任職位，卻又朝我臉上吐口水，用這種「傳送漢堡攤部門」幹話讓我流淚。請不要再提起這個了。我很好奇是哪個病態的傢伙想出這破主意，並用這無稽之談毒害了你的思想。
+
+請真誠地將這個命名分配部門交付我領導的命名分配部門，並由我所領導的部門部門管理。
+
+**//部．門//**
+//部門部門主席//
+[[/div]]
+
+[[div class="reply"]]
+門先生，
+
+說到這裡，我一直很有興趣加入該部門成為初級研究員。你能提供未來尋求員工所需的條件嗎？
+
+誠摯的，
+文森特
+[[/div]]
+
+[[div class="addendum"]]
+哈囉文森特，
+
+非常抱歉，你在乳糖不耐症部門似乎已經非常忙碌了。在你的日程安排投入更多工作會使我感到很糟糕，因為這可能會導致你精疲力盡最後去精神病院。
+
+如果你一定要知道那部門部門是非常神聖的，我們只接受信任知人且：
+* 很好
+* 非常好
+* 總之很酷
+* 喜歡部門
+* 可以接受我的狗溝牠叫噗門
+* 至少擁有二十年的部門經驗
+
+我誠摯建議你開始在乳糖不耐症部門工作並認真對待此問題。
+
+**//部．門//**
+//部門部門主席//
+[[/div]]
+
+[[div class="reply"]]
+門先生，
+
+我覺得自己很符合這些特質。我有25年的多部門領導經驗，[[footnote]] 金尼受到指示撒謊。 [[/footnote]]我喜歡狗，人們總是和我處得來。如果有職缺請務必考慮我。我覺得我會是個很大的助力。
+
+誠摯的，
+文森特
+[[/div]]
+
+[[div class="addendum"]]
+哈囉文森特，
+
+正邊看你檔案邊寫這篇文喔我。[[footnote]] 職員檔案乃是加密內容，需要密碼才能存取。尚未釐清SCP-8592如何獲得這些內容。 [[/footnote]]我痛恨幹話與菜逼八，很明顯你是個骯髒的騙子與文盲。你的書面檔案中沒有任何地方提到，在我慷慨地把你分配到乳糖不耐症部門前，你曾經擔任過任何部門的負責人。請停止對我說謊或傳訊息給我好嗎？
+
+我邊寫邊閱讀檔案因為我擅長多方操作，這讓我很高興看到你在SCP基金會異常研究和其他類似研究都做得很好。你最近的工作看起來很有意思，我不敢相信我已經讀過你在這項研究課題中所學的內容，所以我現在將要這樣做。
+
+喔不。
+
+再見。
+
+**//部．門//**
+//部門部門主席//
+[[/div]]
+
+據推測SCP-85925注意到金尼研究員分配到的研究項目，因此停止了所有與該員的交流。多次嘗試恢復與SCP-8592通訊均未成功。在此之後，SCP-8592進入標準休眠期。
+
+三週後，金尼收到了來自SCP-8592的新電子郵件，內容如下。
+
+[[div class="addendum"]]
+哈囉你文森特
+
+很非常高興認識你！我們在這裡看到你正在做個非常有趣的研究，歡迎來到本部門。我的兄弟，你是個非常堅強的人，努力與毅力都值得得到認可。我們很高興報告，部門部門已任命你為部門部門部門主席。
+
+這是你的工作了，現在謝謝你並且再見。請好好幹。祝你好運！
+
+**//補．門//**
+//失業部門主席//
+[[/div]]
+
+金尼研究員人事檔案已更新，職責變更為「部門部門部門」以及「部門部門」人員。在此之後，金尼研究員寄送電子郵件的拼字與語法錯誤率提高了23%。
+
+[[footnoteblock]]
+----
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[SCP-8591]]] | SCP-8592 | [[[SCP-8593]]] >>
+[[/=]]
+[[/div]]
+----
