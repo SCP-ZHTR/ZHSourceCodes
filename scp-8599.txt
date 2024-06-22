@@ -137,7 +137,7 @@ div.blockquote {
 
 **特殊收容措施：**所有的SCP-8599事件應被記錄，以為了在日後能找出此事件的發生規律。
 
-至今為止，試圖追蹤SCP-8599起源的研究尚無任何進展。同時，由於此類已知事件的稀少性、難以重現的性質，以及觸發的隨機性，至今仍未知任何能收容項目的方式。
+迄今為止，試圖追蹤SCP-8599起源的研究尚無任何進展。同時，由於此類已知事件的稀少性、難以重現的性質，以及觸發的隨機性，至今仍未知任何能收容項目的方式。
 
 [[div class="scp-image-block block-right" style="width:30%;"]]
 [[image http://scptestwiki.wdfiles.com/local--files/jawn-two/seal2.png style="width:100%;" link=#]]
