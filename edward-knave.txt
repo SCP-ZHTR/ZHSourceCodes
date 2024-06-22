@@ -31,6 +31,7 @@
 * 人類紀元12023年紅藍爭霸賽、化身造型：[[*user lulu-lucifelle]]
 * 角色近照（人事檔案）：[[*user Kikunai]]
 * 角色近照（證件示意）：[[*user dr-v-valentine]]
+* 亡走塵寰競賽：[[*user AbyssDream]]
 * **「人事擷影」**一欄各圖作者附註圖下。
 ----
 該頁面檔案文本展示背景所用圖片概屬公有領域。
@@ -46,7 +47,8 @@
 ----
 [[tabview]]
 [[tab 人事檔案]]
-[[include component:image-block name=https://i.imgur.com/NP8kDuB.png|width=300px|caption=Knave研究員近照，圖像經過Kikun.aic[*http://scp-zh-tr.wikidot.com/zh-characters-fanart-by-kikunai 重建]。眼鏡因反光而暫時摘下。]]
+[[include component:image-block name=https://i.imgur.com/NP8kDuB.png|width=300px|caption=Knave研究員近照，圖像經過Kikun.aic[*http://scp-zh-tr.wikidot.com/zh-characters-fanart-by-kikunai 重建]。 _
+注意其原有的眼鏡在攝影時因反光而暫時摘下。]]
 **姓名：** 劉[[span class="dblock"]]善俠[[/span]]
 **暱稱：** Edward Knave
 **性別：** 男
@@ -74,7 +76,7 @@
 [[table]]
 [[row]]
 [[cell style="margin:auto; padding-left: 15px;padding-right:15px;padding-top:15px;padding-bottom:15px"]]
-[[image https://i.imgur.com/PfFCRPP.png width="150px"]][[footnote]][[[christmas-event3|人類紀元12021年聖夜相守]]]食物相關投稿，相關文本為[[[SCP-ZH-065]]]。[[/footnote]][[image https://i.imgur.com/uEXEa97.png width="150px"]][[footnote]][[[jamcon-zh-2022|人類紀元12022年繁中急迫競賽]]]參與確認。[[/footnote]][[image https://i.imgur.com/2o7xeE4.png width="150px"]][[footnote]][[[jamcon-zh-2022|人類紀元12022年繁中急迫競賽]]]三題全勤，相關文本為[[[wanderers:a-freak-accident-also-a-forced-anchorage|迫降事件]]]、[[[SCP-ZH-385]]]、[[[SCP-ZH-968]]]。[[/footnote]][[image https://i.imgur.com/F8mEL76.png width="150px"]][[footnote]][[[honglam-battle|人類紀元12022年紅藍爭霸賽]]]翻譯響應行動參與，相關文本為[[[SCP-4141]]]。[[/footnote]][[image https://i.imgur.com/t2YInKJ.png width="150px"]][[footnote]][[[jamcon-zh-2023|人類紀元12023年繁中急迫競賽]]]參與確認。[[/footnote]][[image https://i.imgur.com/6ptGeKe.png width="150px"]][[footnote]][[[jamcon-zh-2023|人類紀元12023年繁中急迫競賽]]]三題全勤，相關文本為[[[SCP-ZH-964]]]、[[[SCP-ZH-312]]]、[[[SCP-ZH-996]]]。[[/footnote]][[image https://i.imgur.com/hAvO2cL.png width="150px"]][[footnote]][[[jamcon-zh-2023|人類紀元12023年繁中急迫競賽]]]翻譯響應行動參與，相關文本為[[[SCP-597]]]、[[[SCP-171]]]、[[[SCP-220]]]。[[/footnote]][[image https://i.imgur.com/cFaO3wM.gif width="150px"]][[footnote]][[[honglam-battle-2-0|人類紀元12023年紅藍爭霸賽]]]翻譯響應行動參與，相關文本為[[[SCP-6013]]]。[[/footnote]][[image https://semibreve-sandbox.wdfiles.com/local--files/2/%22%E8%A1%8C%E5%A1%B5%E5%A4%99%E5%A4%9C%22 width="150px"]][[footnote]][[[escape-into-the-world-of-mortals|「亡走塵寰」競賽]]]參與確認，相關文本為[[[SCP-ZH-469]]]。[[/footnote]]
+[[image https://i.imgur.com/PfFCRPP.png width="150px"]][[footnote]][[[christmas-event3|人類紀元12021年聖夜相守]]]食物相關投稿，相關文本為[[[SCP-ZH-065]]]。[[/footnote]][[image https://i.imgur.com/uEXEa97.png width="150px"]][[footnote]][[[jamcon-zh-2022|人類紀元12022年繁中急迫競賽]]]參與確認。[[/footnote]][[image https://i.imgur.com/2o7xeE4.png width="150px"]][[footnote]][[[jamcon-zh-2022|人類紀元12022年繁中急迫競賽]]]三題全勤，相關文本為[[[wanderers:a-freak-accident-also-a-forced-anchorage|迫降事件]]]、[[[SCP-ZH-385]]]、[[[SCP-ZH-968]]]。[[/footnote]][[image https://i.imgur.com/F8mEL76.png width="150px"]][[footnote]][[[honglam-battle|人類紀元12022年紅藍爭霸賽]]]翻譯響應行動參與，相關文本為[[[SCP-4141]]]。[[/footnote]][[image https://i.imgur.com/t2YInKJ.png width="150px"]][[footnote]][[[jamcon-zh-2023|人類紀元12023年繁中急迫競賽]]]參與確認。[[/footnote]][[image https://i.imgur.com/6ptGeKe.png width="150px"]][[footnote]][[[jamcon-zh-2023|人類紀元12023年繁中急迫競賽]]]三題全勤，相關文本為[[[SCP-ZH-964]]]、[[[SCP-ZH-312]]]、[[[SCP-ZH-996]]]。[[/footnote]][[image https://i.imgur.com/hAvO2cL.png width="150px"]][[footnote]][[[jamcon-zh-2023|人類紀元12023年繁中急迫競賽]]]翻譯響應行動參與，相關文本為[[[SCP-597]]]、[[[SCP-171]]]、[[[SCP-220]]]。[[/footnote]][[image https://i.imgur.com/cFaO3wM.gif width="150px"]][[footnote]][[[honglam-battle-2-0|人類紀元12023年紅藍爭霸賽]]]翻譯響應行動參與，相關文本為[[[SCP-6013]]]。[[/footnote]][[image https://semibreve-sandbox.wdfiles.com/local--files/2/%22%E8%A1%8C%E5%A1%B5%E5%A4%99%E5%A4%9C%22 width="150px"]][[footnote]]「行塵夙夜」——[[[escape-into-the-world-of-mortals|「亡走塵寰」競賽]]]參與確認，相關文本為[[[SCP-ZH-469]]]。[[/footnote]]
 [[/cell]]
 [[/row]]
 [[/table]]
