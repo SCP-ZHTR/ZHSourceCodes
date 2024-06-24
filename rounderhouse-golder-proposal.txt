@@ -1,0 +1,236 @@
+[[div style="display: none;"]]
+[[include component:image-block name=https://scp-wiki.wdfiles.com/local--files/rounderhouse-gold-proposal/goldproposalthumbnail.png]]
+[[/div]]
+
+[[include :scp-zh-tr:component:info-ayers
+|page=rounderhouse-gold-proposal
+|authorPage=https://scp-wiki.wikidot.com/rounderhouse-s-author-page
+|comments=作者：[[*user Rounderhouse]] 
+譯者：[[*user Hector-ZH-TR]]@@ @@
+]]
+[[=]]
+[[module Rate]]
+[[/=]]
+[[include theme:black-highlighter-theme]]
+[[include :scp-zh-tr:component:rso]]
+[[include :scp-zh-tr:theme:redtape
+|years=60
+]]
+[[module CSS]]
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@700&display=swap');
+#page-content > .collapsible-block {
+     background-color: #cacaca45;
+}
+
+.doc {
+    background-color: rgb(var(--bright-accent));
+    color: white;
+    font-family: var(--mono-font);
+    padding: 0 1.5rem;
+    font-size: 1.1em;
+    width: fit-content;
+    position: relative;
+    top: -2em;
+    border-radius: 4px;
+    margin-bottom: -2rem;
+}
+.addendum {margin-top: 1.6rem;}
+
+
+.addendum > h1, .addendum > h2, .addendum > h3, .addendum > h4, .addendum > h5, .addendum > h6 {text-align: center;}
+.scripture {border: 5px double black; background: white; width: 60%; padding: 1rem; margin: auto;}
+.sub, .name {
+    font-family: 'Josefin Sans', sans-serif;
+    color: #000;
+
+    text-align: center;
+}
+.name {
+    font-size: 450%;
+}
+
+.act {
+    font-family: 'Josefin Sans', sans-serif;
+    color: #000;
+    font-size: 5rem;
+    text-align: center;
+    margin-bottom: -22rem;
+    margin-top: -19rem;
+}
+.tap {
+    font-family: 'Josefin Sans', sans-serif;
+    color: #000;
+    font-size: 400%;
+    text-align: center;
+}
+[[/module]]
+
+
+[[include :scp-zh-tr:component:classified-bar-woed
+|lv=3
+|item=001
+|oc=NEutralized
+]]
+----
+
+[[div class="scp-image-block block-center" style="width:100%;"]]
+[[image https://scp-wiki.wdfiles.com/local--files/rounderhouse-golder-proposal/amushuram2.png 
+ style="width:100%;" link=#]]
+[[div class="scp-image-caption" style="width:100%;"]]
+阿莫尼-拉姆。
+[[/div]]
+[[/div]]
+
+----
+
+**特殊收容措施：**SCP-001 之檔案已被關閉並歸檔。
+
+**描述：**SCP-001 為一獨立現實之超維度「空泡」，位於阿拉伯沙漠南側，若無事先了解SCP-001 之位置資訊者則無法抵達。SCP-001 包含一座部分掩埋於沙地中的古老城市；地圖與初步初步之聲納測試表明大部分為最高達五百公尺高，使用之現代設計技術遠超建造年代的大樓與建築，經放射性碳定年之檢測確認其可追溯至西元前約2400年。
+
+SCP-001 之首次實證是海德威 • 努斯鮑姆博士在與SCP-1867 訪談時發現的，其提到於19 世紀初探索過的一個沙漠古城的存在。一支MTF Sigma-3（「麥哲倫人」）小隊受調遣，並發現古城基本仍完好無損。小隊於撤出並等待指揮部進一步指示前僅對城市進行了粗略的探查。
+----
+[[=]]
+++ **章節** 001.1
+
++++ {{調查}}
+[[/=]]
+----
+於麥哲倫小組之匯報後，在SCP-001 內部建立一個長期研究站以研究阿莫尼-拉姆歷史的提案被提出。並召開了一次監督者會議討論可行方案。
+[[div class="addendum"]]
+**O5-1：**Okay，自助餐廳裡不准吃Eggos威化餅。下一單----有個在沙漠裡，我們幾乎一無所知的大城市。我們要把數十億元花在一個沒有任何監督或監控機制的地方建造一個長期研究站，然後讓它在基本上沒有人進駐的情況下運行兩年嗎？
+
+**O5-7：**蛤？才不要，這太智障了。
+[[/div]]
+
+[[div class="addendum" style="font-weight: bold; background:#fff url(https://scp-wiki.wdfiles.com/local--files/the-great-hippo/scp_trans.png) center no-repeat;"]]
+[[div class="doc"]]
+附件文件 -- 1983年8月
+[[/div]]
+= 會議表決摘要：
+||~ 贊成  ||~ 棄權  ||~ 反對 ||
+||  ||   || O5-01 ||
+||  ||   || O5-02 ||
+||  ||   || O5-03 ||
+||  ||   || O5-04 ||
+||  ||   || O5-05||
+|| ||   || O5-06  ||
+||  ||   ||  O5-07  ||
+|| ||   || O5-08 ||
+||  ||       || O5-09 ||
+||  ||       ||O5-10||
+||  || O5-11  ||       ||
+||  ||  || O5-12  ||
+||  ||   ||O5-13||
+@@ @@
+||~ 提案狀態 ||
+|| [[span style="font-weight: normal; font-family: var(--title-font); font-size: 140%; color: red; padding: 3pt 3pt;"]]**否決**[[/span]] ||
+[[/div]]
+
+[[div class="addendum"]]
+**阿拉姆：**我們的研究提案被否決了。
+
+**努斯鮑姆：**喔，好吧。我得飛回Site-19，然後接受晉升成歷史校正部的部門主管，這會縮短我的通勤時間，讓我的薪水加倍，還有讓我的生活有更多的空閒時間。我也太衰了吧！
+[[/div]]
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+[[div style="text-align: center;"]]
+[[span class="tap"]]**ROUNDERHOUSE的**[[/span]]
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+[[div class="act" style="font-size: 11rem;"]]
+**加倍黃金**
+[[/div]]
+[[div style="margin-top:-15rem; margin-left: 2rem;"]]
+@@@@
+@@@@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+[[span class="act" style="font-size: 5rem;letter-spacing: 1.99rem;"]]**提案**[[/span]]
+[[/div]]
+[[div style="margin-top:-2rem;"]]
+[[span class="act" style="font-size: 3em; color: #c02727;"]]**導演剪輯版**[[/span]]
+[[/div]]
+[[/div]]
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+[[div style="text-align: center;"]]
+[[span class="sub"]]**編劇**[[/span]]
+[[span class="name"]]ROUNDERHOUSE[[/span]]
+[[span class="sub"]]**導演**[[/span]]
+[[span class="name"]]ROUNDERHOUSE[[/span]]
+[[span class="sub"]]**製作人**[[/span]]
+[[span class="name"]]ROUNDERHOUSE[[/span]]
+[[span class="sub"]]**原作**[[/span]]
+[[span class="name"]]ROUNDERHOUSE[[/span]]
+[[span class="sub"]]**攝影指導**[[/span]]
+[[span class="name"]]ROUNDERHOUSE[[/span]]
+[[span class="sub"]]**配樂**[[/span]]
+[[span class="name"]]ROUNDERHOUSE[[/span]]
+[[span class="sub"]]**動作指導**[[/span]]
+[[span class="name"]]ROUNDERHOUSE[[/span]]
+[[span class="sub"]]**藝術總監**[[/span]]
+[[span class="name"]]ROUNDERHOUSE[[/span]]
+[[span class="sub"]]**動物演員提供**[[/span]]
+[[span class="name"]]ROUNDERHOUSE[[/span]]
+[[span class="sub"]]**醫療諮詢**[[/span]]
+[[span class="name" style="font-size: 350%;"]]**ROUNDERHOUSE醫師**, MD[[/span]]
+[[span class="sub"]]**伙食提供**[[/span]]
+[[span class="name" style="font-size: 400%;"]]**ROUNDERHOUSE的媽媽**[[/span]]
+[[/div]]
+----
+[[div class="rnb-navbar"]]
+[[div class="rnb-item rnb-last"]]
+[[a href="#" style="display: block;"]][[span class="rnb-supertitle"]]**上篇**[[/span]]
+<< **第二罪：原罪** >>[[/a]]
+[[/div]]
+
+[[div class="rnb-item rnb-current"]]
+[[a href="/redtape"]]**紅縟帶**[[/a]]
+[[/div]]
+
+[[div class="rnb-item rnb-next"]]
+[[a href="/bone-proposal" style="display: block;"]][[span class="rnb-supertitle"]]**下篇**[[/span]]
+<< **勃骨提案** >>[[/a]]
+[[/div]]
+[[/div]]
+[[include :scp-zh-tr:component:license-box
+|author=Rounderhouse
+|translator=Hector-ZH-TR
+|lang=EN]]
+> **Filename:** amushuram2.png
+> **License:** CC BY-SA 3.0
+
+該圖像由以下內容合成：
+
+> **Filename:** amoniram.png
+> **Name:** Amoni-Ram (Establishing Shot)
+> **Author:** [[*user stephlynch]]
+> **License:** CC BY-SA 3.0
+> **Source Link:** [https://scp-wiki.wikidot.com/rounderhouse-gold-proposal SCP Foundation Wiki]
+
+> **Name:** Photo of Mushu's belly
+> **Author:** [[*user rounderhouse]]
+> **License:** CC BY-SA 3.0
+> **Source Link:** N/A
+[[include :scp-wiki:component:license-box-end]]
