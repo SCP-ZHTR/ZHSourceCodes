@@ -1,0 +1,216 @@
+[[include :scp-zh-tr:component:adult-content-warning
+|sexually-explicit=1
+
+|prev=scp-3928
+|current=SCP-3929
+|next=scp-3930
+]]
+[[include component:info-ayers
+|lang=en[!-- EN/RU/KO/CN/FR/PL/ES/TH/JP/DE/IT/UA/PTBR --]
+|page=scp-3929[!-- url of your page on the scp wiki --]
+|authorPage=https://scp-wiki.wikidot.com/djkaktus[!-- link to your author page --]
+|comments=
+
+= **scp-3929** - //boner pill by dado//
+
+]]
+
+[[include info:start]]
+原文：[https://scp-wiki.wikidot.com/scp-3929 SCP-3929] dado的勃起藥
+作者：[[*user djkaktus]]
+譯者：[[*user Red phosphorus]]
+[[include info:end]]
+
+[[include :scp-zh-tr:component:anomaly-class-bar-source
+|item-number= 3929
+|clearance= 2
+|container-class= safe
+|secondary-class= none
+|disruption-class= dark
+|risk-class= 警戒
+]]
+
+
+-----
+
+[[include component:image-block name=https://scp-wiki.wdfiles.com/local--files/scp-3929/pill.png|caption=SCP-3929。]]
+
+**項目編號：**SCP-3929
+
+**項目等級：**Safe
+
+**特殊收容措施：**所有已知的SCP-3929庫存皆收容於Site-81的安全儲物櫃中。未經現任SCP-3929研究負責人(現任Site-81收容研究負責人G. McElroy博士)的授權，不可對SCP-3929進行測試。
+
+**描述：**SCP-3929是對一批大約一百二十七顆深棕色膠囊的統稱。據信是由一位知名超常藥理學家，暨當前關注人物「dado」所生產的。這些藥丸裝在附有白色上蓋的標準橙色處方藥瓶中，每顆藥丸表面都有貼上一張貼紙，上面寫著[[span class="ruby"]]「dado的勃起藥」[[span class="rt"]]boner pill by dado[[/span]][[/span]]。
+
+服用後約二十分鐘，藥物的效應即會顯現。受試者開始經歷輕微的不適感，隨後立即出現快速老化的症狀。在接下來的四小時內，受試者將經歷關節僵硬、姿勢不良、動作緩慢且受限、整體活力下降、便秘、失禁、思緒遲緩、反應能力減弱、視力下降、聽力嚴重下降、皮膚鬆弛下垂、且頭髮變得灰白。大多數的案例中，受試者的年齡增長推測至少為七十歲[[footnote]]該數字為平均值; 許多較年長的受試者經歷略為輕微的衰老(通常介於30-40年)，而較年輕的受試者可以經歷到超過一百年的衰老。據信經歷過最高齡的受試者為D-89102，其年齡據信不少於兩百歲。儘管D-89102的年齡令人難以置信，但根據報告受試者「明顯具有敵意」並表達了「強烈希望把Eisengraft博士的頭強行插入她的陰道內」，這是出於「想再次感受到某種東西，他媽的」的明確目的。[[/footnote]]。受試者的推測年齡通常隨著藥物效果的減弱而減少，除非受試者因年齡相關原因而死亡。
+
+與此同時，受試者也報告了性慾大幅增加，超過了人類的正常水準。而這些效應是直接相關的; 隨著受試者年齡的增長，他們的性慾也隨之急遽增強。性慾的增長，再加上極端高齡帶來的各種身體損害，導至許多人變得更加煩躁。值得注意的是，這種藥物似乎對任何類型的性功能障礙都沒有幫助，這讓受影響的受試者非常懊惱。
+
+**附錄 3929.1：**發現紀錄
+
+SCP-3929是在佛羅里達州，博卡拉頓附近的當地警方逮捕數名人員後發現的。這次的逮捕是針對一系列涉及老年人的毒品相關犯罪的更大規模調查的一部份。在藥物的效果顯現出來後，基金會職員截獲這些藥物並開始對當地的藥品製造商進行一系列的突襲檢查，希望能揭露這個名為「dado」的人。
+
+雖然最終沒有成功，但基金會特工確實查獲一台筆記型電腦，內含一名被捕者與dado之間的多封電子郵件。審訊過程中，該人聲稱自己從未見過dado，僅透過網路與他互動。電子郵件的內容如下。
+
+> **日期：**05/19/2017
+> **自：**eufhalwfae@dsnake.biz
+> **致：**yesiamdado@hotmail.com[[footnote]]微軟的Hotmail註冊紀錄中沒有出現此名稱的帳戶。[[/footnote]]
+>
+> demario說要聯絡你。說你有好貨。你做藥嗎?
+
+> **日期：**05/20/2017
+> **自：**yesiamdado@hotmail.com
+> **致：**eufhalwfae@dsnake.biz
+>
+> 是的我是dado你好。
+
+> **日期：**05/20/2017
+> **自：**eufhalwfae@dsnake.biz
+> **致：**yesiamdado@hotmail.com
+>
+> 你現在是在耍我嗎? 別跟我胡鬧。我想知道你能否供貨。是或不是
+
+> **日期：**05/21/2017
+> **自：**eufhalwfae@dsnake.biz
+> **致：**yesiamdado@hotmail.com
+>
+> 搞什麼老兄你在嘛? 有人嗎?
+
+> **日期：**05/22/2017
+> **自：**yesiamdado@hotmail.com
+> **致：**eufhalwfae@dsnake.biz
+>
+> 是的ㄅ歉dado打字慢。但我能為泥做。泥想要什麼?
+
+> **日期：**05/22/2017
+> **自：**eufhalwfae@dsnake.biz
+> **致：**yesiamdado@hotmail.com
+>
+> 好。你知道威而剛吧? 讓老人有性慾的藍色小藥丸。我們需要很多。我才不管它有沒有效，只要便宜就好。瞭嗎?
+
+> **日期：**05/23/2017
+> **自：**yesiamdado@hotmail.com
+> **致：**eufhalwfae@dsnake.biz
+>
+> 好所以泥想要讓人又老又有性慾的藥是嗎?
+
+> **日期：**05/23/2017
+> **自：**eufhalwfae@dsnake.biz
+> **致：**yesiamdado@hotmail.com
+>
+> 對但我們不在乎它是否有效。你了解嗎? 這只是個詐騙。我們只要它便宜。
+
+> **日期：**05/24/2017
+> **自：**eufhalwfae@dsnake.biz
+> **致：**yesiamdado@hotmail.com
+>
+> 有人嗎???!!!
+
+> **日期：**05/25/2017
+> **自：**yesiamdado@hotmail.com
+> **致：**eufhalwfae@dsnake.biz
+>
+> 好的我做給泥。我會在一周內出貨給泥。免運費。我有amazon prime
+
+> **日期：**06/02/2017
+> **自：**eufhalwfae@dsnake.biz
+> **致：**yesiamdado@hotmail.com
+>
+> 嘿老兄你給我們的是什麼鬼東西。為什麼這些藥丸是棕色的? 看起來根本不像威而剛，而且瓶子上寫著「勃起藥」。他媽的把錢還來
+
+> **日期：**06/03/2017
+> **自：**yesiamdado@hotmail.com
+> **致：**eufhalwfae@dsnake.biz
+>
+> 不這沒問題。這比萎兒缸要好。泥要相信dado
+
+> **日期：**06/06/2017
+> **自：**eufhalwfae@dsnake.biz
+> **致：**yesiamdado@hotmail.com
+>
+> 天殺的你這混蛋你做了什麼。喔幹我的皮膚都是皺紋我的蛋蛋垂到膝蓋了我去你媽的。更重要的是，我要你來我這，把你那又圓又白的屁股坐在這根雞巴上
+
+> **日期：**06/06/2017
+> **自：**eufhalwfae@dsnake.biz
+> **致：**yesiamdado@hotmail.com
+>
+> 他媽的怎麼越來越糟?!?!
+
+> **日期：**06/06/2017
+> **自：**eufhalwfae@dsnake.biz
+> **致：**yesiamdado@hotmail.com
+>
+> 你在嗎
+
+> **日期：**06/06/2017
+> **自：**eufhalwfae@dsnake.biz
+> **致：**yesiamdado@hotmail.com
+>
+> 想打炮嗎?
+
+> **日期：** 06/06/2017
+> **自：** eufhalwfae@dsnake.biz
+> **致：** yesiamdado@hotmail.com
+>
+> 我的老天我只是想來一發
+
+**附錄 3929.2：**測試紀錄
+
+> **3929 試驗 #1**
+>
+> **受試者：**D-92014 (34歲成年男性)
+>
+> **劑量：**1顆
+>
+> **結果：**受試者在大約在四小時的時間內迅速衰老，在藥效消失之前最大年齡達到140歲。之後受試者恢復正常。
+>
+> **受試者回饋：**三小時後，受試者靠著椅子激烈地摩擦自己的生殖器。
+
+> **3929 試驗 #6**
+>
+> **受試者：**D-92234 (46歲成年女性)
+>
+> **劑量：**1顆
+>
+> **結果：**與上述相同-受試者在四小時內快速老化。推測最大年齡達到160歲。之後受試者恢復正常。試驗中受試者必須被拘束三次，因受試者試圖將其拳頭猛然地插入自己的陰道。
+>
+> **受試者回饋：**對象指出，他曾不少於六次要求「把你的整隻腿都給我塞進去你這不知天高地厚的小子」。
+
+> **3929 試驗 #14**
+>
+> **受試者：**D-92651 (20歲成年女性[[footnote]]值得注意的是，受試者將其性取向列為「無性戀」。[[/footnote]])
+>
+> **劑量：**1顆
+>
+> **結果：**受試者的年齡在四小時內快速下降。推測年齡達到兩週大。之後受試者恢復正常。
+>
+> **受試者回饋：**整個試驗過程中，受試者開始越來越熱情地談論放風箏，起初說著他喜歡和父親一起放風箏，最後談論到他們的裝備著先進儀器，並以極優質的材料製成、價值50000美元的「航空裝置」，直到失去說話能力為止。受試者多次將其稱作「一種風箏生命」，並斥責一名研究人員將其描述為一種嗜好。[[footnote]]//這是我們對SCP-3929和無性戀受試者進行的少量測試後發現的。基於某些因素，這藥物無法讓他們比當前更渴望性，因此轉而讓他們對合適的嗜好更加有熱情。他們的年齡也倒退了。有一次，我和一位剛學步的幼兒進行了一場**冗長**的談話，討論了弗雷澤·克萊恩心理發展的細微差別。-G. McElroy博士//[[/footnote]]
+
+> **3929 試驗 #43**
+>
+> **受試者：**D-93489 (52歲成年女性)
+>
+> **劑量：**2顆
+>
+> **結果：**受試者吞下兩顆膠囊，大約五分鐘後突然自發性地化成一堆灰燼。雖然受試者沒有從這次事件中恢復過來，但幾名處理殘餘物的人員指出這堆灰燼讓他們在性方面感到極為不適。
+
+[[footnoteblock]]
+
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[SCP-3928]]] | SCP-3929 | [[[SCP-3930]]] >>
+[[/=]]
+[[/div]]
+
+[[include :scp-zh-tr:component:license-box]]
+=====
+> **Filename:** pill.png
+> **Name:** Kapsler.png
+> **Author:** Kindrob
+> **License:** CC BY-SA 3.0
+> **Source Link:** [https://commons.wikipedia.org/wiki/file:kapsler.png Wikimedia Commons]
+=====
+[[include :scp-zh-tr:component:license-box-end]]
+
+[[include :scp-wiki:component:djk]]
