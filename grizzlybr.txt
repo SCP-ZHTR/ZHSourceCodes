@@ -98,7 +98,7 @@
         }
 
         function getLeisureActivity() {
-            const activities = ["打電動", "運動中", "閱讀中", "看電影", "散步中"];
+            const activities = ["打電動", "重訓", "看小說", "看電影", "散步"];
             return activities[Math.floor(Math.random() * activities.length)];
         }
 
