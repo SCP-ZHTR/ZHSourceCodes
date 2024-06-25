@@ -45,6 +45,70 @@
 * 髮色：淺棕色
 * 身高：180公分
 [[/div]]
+**Dr. Grizzly現在正在……**
+[[html]]
+<font size="3"><p id="status"></p></font>
+    <script>
+        function getStatus() {
+            const statusElement = document.getElementById('status');
+            const now = new Date();
+            const day = now.getDay();
+            const hour = now.getHours();
+            const minute = now.getMinutes();
+            const timeInMinutes = hour * 60 + minute;
+
+            // 週六、週日顯示休假
+            if (day === 6 || day === 0) {
+                statusElement.textContent = "休假中";
+                return;
+            }
+
+            // 平日顯示工作和活動狀態
+            if (day >= 1 && day <= 5) {
+                if (timeInMinutes < 510 || timeInMinutes >= 1260) {
+                    statusElement.textContent = "睡覺中";
+                } else if (timeInMinutes >= 510 && timeInMinutes < 690) {
+                    // 8:30 - 11:30 工作中或咖啡活動
+                    displayWorkOrActivity(timeInMinutes);
+                } else if (timeInMinutes >= 690 && timeInMinutes < 770) {
+                    // 11:30 - 12:50 吃午餐
+                    statusElement.textContent = "吃午餐";
+                } else if (timeInMinutes >= 770 && timeInMinutes < 810) {
+                    // 12:50 - 13:30 午睡中
+                    statusElement.textContent = "午睡中";
+                } else if (timeInMinutes >= 810 && timeInMinutes < 930) {
+                    // 13:30 - 15:30 工作中或咖啡活動
+                    displayWorkOrActivity(timeInMinutes);
+                } else if (timeInMinutes >= 930 && timeInMinutes < 1260) {
+                    // 15:30 - 21:00 休閒活動
+                    statusElement.textContent = getLeisureActivity();
+                }
+            }
+        }
+
+        function displayWorkOrActivity(timeInMinutes) {
+            const statusElement = document.getElementById('status');
+            const activityTimes = [0, 35, 70, 105, 140, 175];
+            const currentTimeSlot = activityTimes.find(timeSlot => timeInMinutes % 210 >= timeSlot && timeInMinutes % 210 < timeSlot + 5);
+            if (currentTimeSlot !== undefined) {
+                statusElement.textContent = "在咖啡廳喝咖啡";
+            } else {
+                statusElement.textContent = "工作中";
+            }
+        }
+
+        function getLeisureActivity() {
+            const activities = ["打電動", "運動中", "閱讀中", "看電影", "散步中"];
+            return activities[Math.floor(Math.random() * activities.length)];
+        }
+
+        // 每分鐘更新一次狀態
+        setInterval(getStatus, 60000);
+
+        // 初次載入時立即顯示狀態
+        getStatus();
+</script>
+[[/html]]
 ----
 [[include :scp-zh-tr:component:id-card |css=--
 |photo=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvMHsXKSj0AC2RZST_aAcHu9dF0AfJeDlNq3ZhqO57JbwfeIvxA6-A9huPY7kLmCMCnXeMCZZEMF4kzFmZUgkMfON6H2wYZmfw5Gnk0IFWgumIwsKmMHP3m9XMuyrtb8gSIxOcNMa9cU-BOScf2xWyAAVs9EUQD9ejkI7Wf19VHS5OFbgnXEO8Hkgk-9Cg/s1024/IMG_3174.jpeg
