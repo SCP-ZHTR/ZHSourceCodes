@@ -48,6 +48,7 @@
 **Dr. Grizzly現在正在……**
 [[html]]
 <font size="3"><p id="status"></p></font>
+
     <script>
         function getStatus() {
             const statusElement = document.getElementById('status');
@@ -80,8 +81,8 @@
                     // 13:30 - 15:30 工作中或咖啡活動
                     displayWorkOrActivity(timeInMinutes);
                 } else if (timeInMinutes >= 930 && timeInMinutes < 1260) {
-                    // 15:30 - 21:00 休閒活動
-                    statusElement.textContent = getLeisureActivity();
+                    // 15:30 - 21:00 休閒活動每30分鐘改變一次
+                    displayLeisureActivity(timeInMinutes);
                 }
             }
         }
@@ -97,9 +98,11 @@
             }
         }
 
-        function getLeisureActivity() {
-            const activities = ["打電動", "重訓", "看小說", "看電影", "散步"];
-            return activities[Math.floor(Math.random() * activities.length)];
+        function displayLeisureActivity(timeInMinutes) {
+            const statusElement = document.getElementById('status');
+            const activities = ["打電動", "重訓", "閱讀中", "看電影", "散步", "被SCP-173追殺", "追殺SCP-173"];
+            const currentActivityIndex = Math.floor((timeInMinutes % 1440) / 30) % activities.length;
+            statusElement.textContent = activities[currentActivityIndex];
         }
 
         // 每分鐘更新一次狀態
@@ -107,7 +110,8 @@
 
         // 初次載入時立即顯示狀態
         getStatus();
-</script>
+    </script>
+
 [[/html]]
 ----
 [[include :scp-zh-tr:component:id-card |css=--
