@@ -1,3 +1,4 @@
+[[include component:scp-meta-title-hiding css-style=（如上所述）| showing-title=你想顯示的標題]]
 [[include :scp-wiki:theme:black-highlighter-theme]]
 [[include :scp-wiki:theme:the-way-out]]
 
