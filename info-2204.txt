@@ -1,4 +1,3 @@
-[[include component:scp-meta-title-hiding css-style=（如上所述）| showing-title=你想顯示的標題]]
 [[include :scp-wiki:theme:black-highlighter-theme]]
 [[include :scp-wiki:theme:the-way-out]]
 
@@ -15,17 +14,19 @@
         
     /* Header */
     --logo-image: url("http://scp-int.wdfiles.com/local--files/main/scp-logo-en-400.png");
-    --header-title: "SCP基金會";
-    --header-subtitle: "控制，收容，保護";
+    --header-title: "2024夏季競賽";
+    --header-subtitle: "Summer 2024 Competition";
 
-    /* Typefaces */
-    --body-font: 'Lato', sans-serif;
-    --header-font: 'Poppins', sans-serif;
-    --title-font: 'Poppins', sans-serif;
-    --mono-font: "PT Mono", "Andale Mono", "Courier New", Courier, monospace;
+    /* 標題 */
+    #page-title {
+     border-color: 18, 144, 255);
+     color: 18, 144, 255);
+    }
+
     /*連結顏色 */
-    --visited-link-color: 0, 107, 173;
-    --link-color:65, 110, 138;
+    --visited-link-color:0, 112, 209;
+    --link-color:60, 97, 130;
+
     /*鴿子直升機 */
 --gradient-background: linear-gradient(to bottom,
 #363636 0%,
