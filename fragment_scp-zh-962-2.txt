@@ -305,5 +305,5 @@ SCP-ZH-962 實際上是援用 Site-ZH-44 設施本身自帶的惰性[[[scp-2000|
 > **最後編輯時間：** 2022.11.10 02:54
 > **編輯人：** Annice I. Norton
 > 
-> [[image https://i.imgur.com/FkpOpUv.png width="200px" align="right"]]
+> [[image https://i.imgur.com/FkpOpUv.png width="200px" align="right" link="http://scp-zh-tr.wikidot.com/scp-zh-962/offset/2"]]
 [[/>]]
