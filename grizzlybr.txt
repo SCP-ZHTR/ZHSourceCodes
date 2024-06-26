@@ -66,10 +66,13 @@
 
             // 平日顯示工作和活動狀態
             if (day >= 1 && day <= 5) {
-                if (timeInMinutes < 510 || timeInMinutes >= 1260) {
+                if (timeInMinutes < 480) {
                     statusElement.textContent = "睡覺中";
+                } else if (timeInMinutes >= 480 && timeInMinutes < 510) {
+                    // 8:00 - 8:30 吃早餐
+                    statusElement.textContent = "吃早餐";
                 } else if (timeInMinutes >= 510 && timeInMinutes < 690) {
-                    // 8:30 - 11:30 工作中或咖啡活動
+                    // 8:30 - 11:30 工作中或咖啡
                     displayWorkOrActivity(timeInMinutes);
                 } else if (timeInMinutes >= 690 && timeInMinutes < 770) {
                     // 11:30 - 12:50 吃午餐
@@ -78,11 +81,13 @@
                     // 12:50 - 13:30 午睡中
                     statusElement.textContent = "午睡中";
                 } else if (timeInMinutes >= 810 && timeInMinutes < 930) {
-                    // 13:30 - 15:30 工作中或咖啡活動
+                    // 13:30 - 15:30 工作中或咖啡
                     displayWorkOrActivity(timeInMinutes);
                 } else if (timeInMinutes >= 930 && timeInMinutes < 1260) {
                     // 15:30 - 21:00 休閒活動每30分鐘改變一次
                     displayLeisureActivity(timeInMinutes);
+                } else {
+                    statusElement.textContent = "睡覺中";
                 }
             }
         }
@@ -100,7 +105,7 @@
 
         function displayLeisureActivity(timeInMinutes) {
             const statusElement = document.getElementById('status');
-            const activities = ["打電動", "重訓", "閱讀中", "看電影", "散步", "被SCP-173追殺", "追殺SCP-173"];
+            const activities = ["重訓", "打電動", "閱讀", "看電影", "散步", "被SCP-173追殺", "追殺SCP-173"];
             const currentActivityIndex = Math.floor((timeInMinutes % 1440) / 30) % activities.length;
             statusElement.textContent = activities[currentActivityIndex];
         }
