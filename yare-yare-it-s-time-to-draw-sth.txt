@@ -1,0 +1,27 @@
+[[include :scp-zh-tr:theme:basalt]]
+[[include info:start]]
+作者：[[*user Tostren]]
+以下所有圖片皆由我本人所繪製
+[[include info:end]]
+[[include :scp-sandbox-3:component:image-zoom-2 name=https://cdn.discordapp.com/attachments/1195748768021233746/1255413850304413767/lulu.png?ex=667d0ac2&is=667bb942&hm=33461ba2d245bb78ba13a6a9a8d5c56d336fdc4bf51ac67c3f365416bb2af217&]|caption=[[*user Lulu_Lucifelle]]的Lucifelle研究員| system:page-tags/tag/研究員lucifelle#pages]]|width=450px|align=center]]
+@@ @@
+@@ @@
+@@ @@
+[[include :scp-sandbox-3:component:image-zoom-2 name=https://cdn.discordapp.com/attachments/1195748768021233746/1255413849583259710/Dr.Tosuke.png?ex=667d0ac2&is=667bb942&hm=c2265ff1ab0eb0a4aeea264b71c8eaaafcfa8c727b918bbee4c736403f28815a&]|caption=[[*user Tostren]]的Tostren博士|width=450px|align=center]]
+@@ @@
+@@ @@
+@@ @@
+[[include :scp-sandbox-3:component:image-zoom-2 name=https://cdn.discordapp.com/attachments/1195748768021233746/1255413853005680680/2ee59ddd95ce67ca.png?ex=667d0ac3&is=667bb943&hm=a042bd80cad597fac343b4fa14dd6d01b14f646b2e6138fdb9025bc36c1a85a9&]|caption=[[*user Tostren]]的劉勉色研究員|width=450px|align=center]]
+@@ @@
+@@ @@
+@@ @@
+[[include :scp-sandbox-3:component:image-zoom-2 name=https://cdn.discordapp.com/attachments/1195748768021233746/1255413851545931836/85fb35e10f42df2c.png?ex=667d0ac2&is=667bb942&hm=05892678741f46183be4fe09f5c6226c73d8e9bff0888a537c8cb709936f6779&]|caption=
+[[*user Frederica Bernkastel]]的溫月襄|SCP-ZH-306]]|width=450px|align=center]]
+@@ @@
+@@ @@
+@@ @@
+[[include :scp-sandbox-3:component:image-zoom-2 name=https://cdn.discordapp.com/attachments/1195748768021233746/1255413853915840603/5aedda4f9e7f3f60.png?ex=667d0ac3&is=667bb943&hm=30b920c9105a7c79a799539aab0cf8079b4f5399527cdf5f472a5afcab9c1ebf&]|caption=[[*user YONGZUN]]的莊敏育|site-zh-44]] |width=450px|align=center]]
+@@ @@
+@@ @@
+@@ @@
+[[include :scp-sandbox-3:component:image-zoom-2 name=https://cdn.discordapp.com/attachments/1195748768021233746/1255413850757664849/Raincoat_UN_Owen.png?ex=667d0ac2&is=667bb942&hm=ec168634f948811259a70cf3116e3f1444cb1da683458635084c4f57e4f7d795&]|caption=[[*user AbyssDream]]的U.N. Owen|system:page-tags/tag/owen#pages]] |width=450px|align=center]]
