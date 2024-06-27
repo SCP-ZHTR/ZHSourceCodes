@@ -1,8 +1,8 @@
 =====
 [[include component:preview
-text=任何被加密的系統， encrypted systems,
-無論保護得再完善， no matter how protected,
-永遠都有鑰匙 always have a key
+text=任何被加密的系統，
+無論保護得再完善，
+永遠都有鑰匙
 ]]
 =====
 
