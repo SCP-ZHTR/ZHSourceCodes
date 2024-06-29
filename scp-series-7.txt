@@ -470,7 +470,7 @@
 * [[[SCP-6427]]] - 夜間蒙難
 * [[[SCP-6428]]] - [ACCESS DENIED]
 * [[[SCP-6429]]] - [ACCESS DENIED]
-* [[[SCP-6430]]] - [ACCESS DENIED]
+* [[[SCP-6430]]] - 冗言疾速
 * [[[SCP-6431]]] - [ACCESS DENIED]
 * [[[SCP-6432]]] - [ACCESS DENIED]
 * [[[SCP-6433]]] - 你想要的一切時光
