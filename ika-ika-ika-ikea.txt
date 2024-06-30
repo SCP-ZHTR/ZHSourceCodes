@@ -309,6 +309,11 @@
 授權方式：CC BY-SA 3.0
 版權所有者：[[*user ic_1623]]
 [[/div]]
+[[div class="jotting"]]
+其他圖像：https://i.imgur.com/hjljsRx.png
+授權方式：CC BY-SA 3.0
+版權所有者：[[*user ic_1623]]
+[[/div]]
 [[/collapsible]]
 
 [[include :scp-zh-tr:theme:basalt darkmode=a]]
@@ -320,7 +325,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap');
 div.authorlink-wrapper{margin-top: var(--author-top-adjust, .2em) !important;}
 :root {
---header-logo: url('https://scp-wiki.wdfiles.com/local--files/scp-6768/dept.png');
+--header-logo: url('https://i.imgur.com/FKOb3EY.png');
 --title:"謨涅摩敘涅研究站";
 --subtitle:"刪除部";
 --sidesubtitle: "DELETIONS";
