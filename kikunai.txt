@@ -1,16 +1,10 @@
-[[include :scp-zh-tr:theme:basalt hidetitle=a]]
+[[include :scp-wiki:theme:foxtrot hidetitle=a]]
 
 [[module css]]
 :root {
  --linkColor: #c4a1f5;
  --header-title: "白夜";
  --header-subtitle: "刺眼奪目";
- --basalt-bright-element-color: 196, 161, 245;
- --basalt-dark-element-color: 122, 100, 176;
- --basalt-alternate-color: 221, 119, 17;
- --basalt-undertone: 196, 161, 245;
- --selection-text-color: 35, 35, 38;
-}
 }
 [[/module]]
 
