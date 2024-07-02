@@ -14,15 +14,18 @@
 [/goi-formats#chicago 芝加哥鬼靈] 
 [/goi-formats#cotbg 破碎之神教會] 
 [/goi-formats#cotsh 第二海托世教會]
-[/goi-formats#deer 鹿學院] 
+[/goi-formats#daevite 殆瓦]
+[/goi-formats#deer 鹿學院]
+[/goi-formats#eric Eric] 
 [/goi-formats#factory 工廠] 
 [/goi-formats#fifthism 第五教會] 
 [/goi-formats#goc 全球超自然聯盟] 
 [/goi-formats#gru-p 格魯烏"P"部門] 
 [/goi-formats#hermanfuller 赫曼·富勒的不安馬戲團] 
 [/goi-formats#hi 地平線倡議]
-[/goi-formats#ijamea 大日本帝國異常事務調查局]
+[/goi-formats#Homo-Sapiens-Sidhe Homo-Sapiens-Sidhe]
 [/goi-formats#icsut 統一奇蹟學國際研究中心]
+[/goi-formats#ijamea 大日本帝國異常事務調查局]
 [/goi-formats#la-rue 異人街]
 [/goi-formats#mcf 瑪納慈善基金會]
 [/goi-formats#mcd Marshall，Carter and Dark 公司]
@@ -30,12 +33,17 @@
 [/goi-formats#nobody "Nobody"]
 [/goi-formats#oria 伊斯蘭物品回收辦公室]
 [/goi-formats#oneiroi 夢神集團]
+[/goi-formats#parawatch 異視維基]
 [/goi-formats#plabs 普羅米修斯實驗室]
 [/goi-formats#sapphire 藍寶石]
+[/goi-formats#sarkicism 欲肉教]
 [/goi-formats#sh 蛇之手]
 [/goi-formats#spc 毆打鯊魚中心]
 [/goi-formats#tmi 叁月協會]
+[/goi-formats#cargo 特殊貨物]
 [/goi-formats#uiu 聯邦調查局特異事故處]
+[/goi-formats#valravn 瓦拉文公司]
+[/goi-formats#w 魔杖士]
 [/goi-formats#wws 威爾遜生物應對組]
 [/goi-formats#other 其他/次要GOI]
 
@@ -184,6 +192,17 @@
 * %%title_linked%%
 [[/module]]
 
+[[# daevite]]
+++ [[[daevite-hub |殆瓦中心頁]]]
+
+[[module ListPages order="name" tags="+goi格式 +_殆瓦-goi格式 +翻譯" separate="no" perPage="100"]]
+* %%title_linked%%
+[[/module]]
+本站收錄
+[[module ListPages order="name" tags="+goi格式 +_殆瓦-goi格式 +原創" separate="no" perPage="100"]]
+* %%title_linked%%
+[[/module]]
+
 [[# deer]]
 ++ [[[deer-college-hub|鹿學院]]]
 
@@ -195,6 +214,16 @@
 * %%title_linked%%
 [[/module]]
 
+[[# eric]]
+++ [[[http://scp-zh-tr.wikidot.com/system:page-tags/tag/eric | Eric]]]
+
+[[module ListPages order="name" tags="+goi格式 +_eric-goi格式 +翻譯" separate="no" perPage="100"]]
+* %%title_linked%%
+[[/module]]
+本站收錄
+[[module ListPages order="name" tags="+goi格式 +_eric-goi格式 +原創" separate="no" perPage="100"]]
+* %%title_linked%%
+[[/module]]
 
 [[# factory]]
 ++ [[[factory-hub |工廠]]]
@@ -215,7 +244,7 @@
 * %%title_linked%%
 [[/module]]
 本站收錄
-[[module ListPages order="name" tags="+goi格式 +第五教會+_第五教會-goi格式 +原創" separate="no" perPage="100"]]
+[[module ListPages order="name" tags="+goi格式 +第五教會 +_第五教會-goi格式 +原創" separate="no" perPage="100"]]
 * %%title_linked%%
 [[/module]]
 
@@ -265,14 +294,14 @@
 * %%title_linked%%
 [[/module]]
 
-[[# icsut]]
-++ [[[http://scp-zh-tr.wikidot.com//tag/icsut#pages|統一奇蹟學國際研究中心]]]
+[[# Homo-Sapiens-Sidhe]]
+++ [[[http://scp-zh-tr.wikidot.com/system:page-tags/tag/homo-sapiens-sidhe | Homo Sapiens Sidhe]]]
 
-[[module ListPages order="name" tags="+goi格式 +翻譯 +_icsut-goi格式" separate="no" perPage="100"]]
+[[module ListPages order="name" tags="+goi格式 +_homo-sapiens-sidhe-goi格式 +翻譯" separate="no" perPage="100"]]
 * %%title_linked%%
 [[/module]]
 本站收錄
-[[module ListPages order="name" tags="+goi格式 +原創 +_icsut-goi格式" separate="no" perPage="100"]]
+[[module ListPages order="name" tags="+goi格式 +_homo-sapiens-sidhe-goi格式 +原創" separate="no" perPage="100"]]
 * %%title_linked%%
 [[/module]]
 
@@ -284,6 +313,17 @@
 [[/module]]
 本站收錄
 [[module ListPages order="name" tags="+goi格式 +_ijamea-goi格式 +原創 " separate="no" perPage="100"]]
+* %%title_linked%%
+[[/module]]
+
+[[# icsut]]
+++ [[[http://scp-zh-tr.wikidot.com//tag/icsut#pages|統一奇蹟學國際研究中心]]]
+
+[[module ListPages order="name" tags="+goi格式 +翻譯 +_icsut-goi格式" separate="no" perPage="100"]]
+* %%title_linked%%
+[[/module]]
+本站收錄
+[[module ListPages order="name" tags="+goi格式 +原創 +_icsut-goi格式" separate="no" perPage="100"]]
 * %%title_linked%%
 [[/module]]
 
@@ -365,6 +405,17 @@
 * %%title_linked%%
 [[/module]]
 
+[[# parawatch]]
+++ [[[parawatch-hub |異視維基]]]
+
+[[module ListPages order="name" tags="+goi格式 +_異視維基-goi格式 +翻譯" separate="no" perPage="100"]]
+* %%title_linked%%
+[[/module]]
+本站收錄
+[[module ListPages order="name" tags="+goi格式 +_異視維基-goi格式 +原創" separate="no" perPage="100"]]
+* %%title_linked%%
+[[/module]]
+
 [[# plabs]]
 ++ [[[prometheus-labs-hub |普羅米修斯實驗室]]]
 
@@ -387,6 +438,17 @@
 * %%title_linked%%
 [[/module]]
 
+[[# sarkicism]]
+++ [[[sarkicism-hub|欲肉教]]]
+
+[[module ListPages order="name" tags="+goi格式 +_欲肉教-goi格式 +翻譯" separate="no" perPage="100"]]
+* %%title_linked%%
+[[/module]]
+本站收錄
+[[module ListPages order="name" tags="+goi格式 +_欲肉教-goi格式 +原創" separate="no" perPage="100"]]
+* %%title_linked%%
+[[/module]]
+
 [[# sh]]
 ++ [[[serpent-s-hand-hub |蛇之手]]]
 
@@ -401,7 +463,7 @@
 [[# spc]]
 ++ [[[spc-hub|毆打鯊魚中心]]]
 
-[[module ListPages order="name" tags="+goi格式 +毆打鯊魚中心-goi格式 +翻譯 " separate="no" perPage="100"]]
+[[module ListPages order="name" tags="+goi格式 +_毆打鯊魚中心-goi格式 +翻譯 " separate="no" perPage="100"]]
 * %%title_linked%%
 [[/module]]
 本站收錄
@@ -420,6 +482,17 @@
 * %%title_linked%%
 [[/module]]
 
+[[# cargo]]
+++ [[[unusual-cargo-hub|特殊貨物]]]
+
+[[module ListPages order="name" tags="+goi格式 +_特殊貨物-goi格式 +翻譯" separate="no" perPage="100"]]
+* %%title_linked%%
+[[/module]]
+本站收錄
+[[module ListPages order="name" tags="+goi格式 +_特殊貨物-goi格式 +原創" separate="no" perPage="100"]]
+* %%title_linked%%
+[[/module]]
+
 [[# uiu]]
 ++ [[[unusual-incidents-unit-hub |聯邦調查局特異事故處]]]
 
@@ -428,6 +501,28 @@
 [[/module]]
 本站收錄
 [[module ListPages order="name" tags="+goi格式 +_uiu-goi格式 +原創 " separate="no" perPage="100"]]
+* %%title_linked%%
+[[/module]]
+
+[[# valravn]]
+++ [[[valravn-corporation-hub|瓦拉文公司]]]
+
+[[module ListPages order="name" tags="+goi格式 +_瓦拉文公司-goi格式 +翻譯" separate="no" perPage="100"]]
+* %%title_linked%%
+[[/module]]
+本站收錄
+[[module ListPages order="name" tags="+goi格式 +_瓦拉文公司-goi格式 +原創" separate="no" perPage="100"]]
+* %%title_linked%%
+[[/module]]
+
+[[# w]]
+++ [[[wandsmen-hub|魔杖士]]]
+
+[[module ListPages order="name" tags="+goi格式 +_魔杖士-goi格式 +翻譯" separate="no" perPage="100"]]
+* %%title_linked%%
+[[/module]]
+本站收錄
+[[module ListPages order="name" tags="+goi格式 +_魔杖士-goi格式 +原創" separate="no" perPage="100"]]
 * %%title_linked%%
 [[/module]]
 
