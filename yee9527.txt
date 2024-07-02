@@ -22,6 +22,8 @@
 
 [http://scp-zh-tr.wikidot.com/scp-5789 SCP-𝕐 - 食數之數]
 
+[http://scp-zh-tr.wikidot.com/scp-6430 SCP-6430 - 冗言疾速]
+
 [[/tab]]
 [[tab 人事檔案]]
 [[include component:image-block
