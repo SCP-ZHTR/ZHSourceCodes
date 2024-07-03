@@ -1,6 +1,6 @@
 [[div id="featured"]]
 [[tabview]]
-[[tab 6月作品展出]]
+[[tab 7月作品展出]]
 
 [!-- Left block --]
 [[div class="feature-block"]]
@@ -10,12 +10,12 @@ SCP作品展出
 [[/div]]
 [[div class="panel-body"]]
 [[div class="feature-title"]]
-[[[*scp-zh-981|]]]
+[[[*scp-zh-306|]]]
 [[/div]]
 [[div class="feature-subtitle"]]
-作者：[[user  AbyssDream]]
+作者：[[user  Frederica Bernkastel]]
 [[/div]]
-SCP-ZH-981每次移動之時間規律尚未查明，唯一可得知的資訊為，該效應於接近清明節、中元節、農曆新年等中華傳統節日時會變得更為頻繁。
+白色百合花，花況良好，市價約290元。花莖部分沾染大量瀝青，儘管不太可能，人員推測此花是直接由國道路面長出。
 [[/div]]
 [[div class="panel-footer"]]
 [[[*featured-scp-archive|查看以往展出的SCP作品]]]
@@ -29,12 +29,12 @@ SCP-ZH-981每次移動之時間規律尚未查明，唯一可得知的資訊為�
 [[/div]]
 [[div class="panel-body"]]
 [[div class="feature-title"]]
-[[[assessing-the-possibility-of-using-scp-zh-621-patients-as-an|利用SCP-ZH-621感染者作為另類Elan-Vital Energy電池之可行性]]]
+[[[argument-of-existence|為存在者]]]
 [[/div]]
 [[div class="feature-subtitle"]]
-作者：[[user Kikunai]]
+作者：[[user YONGZUN]]
 [[/div]]
-SCP-ZH-621患者在受控制的情況下的確可以作為EVE電池使用，亦沒有貯存上的問題。
+非雨的液體滴下，掛著的月亮是假的，接著你的視線接觸黑色的雙星。
 [[/div]]
 [[div class="panel-footer"]]
 [[[*featured-tale-archive|查看以往展出之故事]]]
@@ -50,13 +50,13 @@ SCP-ZH-621患者在受控制的情況下的確可以作為EVE電池使用，亦�
 [[/div]]
 [[div class="panel-body"]]
 [[div class="feature-title"]]
-[[[*scp-8424|]]]
+[[[*SCP-8085|]]]
 [[/div]]
 [[div class="feature-subtitle"]]
-作者：[[user J_V_G]]、[[user IndustryStandard]]
-譯者：[[user Frederica Bernkastel]]
+作者：[[user Diogene_s]]
+譯者：[[user Kikunai]]
 [[/div]]
-事件期間傷亡人數大幅攀升，迫使基金會發起部分疏散行動，先將受影響平民轉移至基金會運營的臨時救援營地，直到馬薩特蘭地區的全面封鎖結束為止。
+就像佛洛伊德所說的一樣。所以你不想做愛是不自然的。你明白了嗎？你要麼在說謊，要麼壞掉了，而我會將你修好。
 
 [[/div]]
 [[div class="panel-footer"]]
@@ -71,12 +71,12 @@ SCP-ZH-621患者在受控制的情況下的確可以作為EVE電池使用，亦�
 [[/div]]
 [[div class="panel-body"]]
 [[div class="feature-title"]]
-[[[collected-item-no0665|第〇六六五號「思泉弄」]]]
+[[[wanderers:bar-story|人類、空賊和治安官走進酒吧]]]
 [[/div]]
 [[div class="feature-subtitle"]]
-作者：[[user ting129]]
+作者：[[user Aindavis_817]]
 [[/div]]
-思泉弄內部分居民擁有類似妖怪的能力，更可操作與製造具有異常效果的物品，在找尋蒐集物的能力方面，也有居民顯現高於蒐集院成員的感知和占卜能力。居民在長住於此後仍然保有進入此地前的記憶，可詳述他們進入此處的時間。
+目送果勒韃離去，酒保將店裡的音樂音量重新調大，這是他最喜歡的一首歌，來自地球的「厄俄斯的誘惑」，他哼著旋律，再度順著節拍踩起滑步，雖然他聽不懂歌詞，但不妨礙他依照歌曲裡的情感重新填詞。
 [[/div]]
 [[div class="panel-footer"]]
 [[[*featured-Comprehensive-exhibition|查看以往的綜合展出]]]
