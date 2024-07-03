@@ -42,11 +42,13 @@
 @@ @@
 [[include component:image-block name=https://i.imgur.com/oEKYZH5.png|caption=Unknown|width=200px|align=center]]
 
-目前我正在緩慢重寫我的[[[SCP-ZH-140|第一篇作品]]]，這也正式代表了我在這個社群參與創作活動已經有了一年的時間。預計將會在明年一月重新發佈，除了將原本的異常效應全面翻新，加上參雜大量的對話內容以及新的中心頁設定以外，還會在裡面加上幾個自己製作的圖片在內，而這個機動特遣隊圖標就是其中一個會用到的東西之一。
+自由使用。
+
 @@ @@
 ++++ 其它圖標
 @@ @@
 [[include component:image-block name=https://i.imgur.com/BVLkUfb.png|caption=Unknown|width=160px|align=center]]
 
-同樣地，這是為我的下一篇作品所繪製的其中一張圖片。而這將會成為要在明年發佈的半中心頁設定的其中一個圖標，至於中心頁設定的內容是什麼就等到明年能發的時候再說。
+自由使用。
+
 [[/==]]
