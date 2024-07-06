@@ -128,8 +128,8 @@ filter: contrast(0.5) !important;
 |clearance-number-text= III
 |clearance-text= 保密
 |containment-text= 收容等級：
-|secondary-text= 瓦解等級：
-|disruption-text= 次要等級：
+|secondary-text= 次要等級：
+|disruption-text= 瓦解等級：
 |inc-custom-text= --]]]
 [[/div]]
 [[/div]]
