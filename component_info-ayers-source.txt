@@ -125,25 +125,6 @@ padding-bottom: 4px;
     text-decoration: none;
 }
 
-.translation_block {
-    display: block;
-    margin: 0 2em;
-    width: calc(100% - 4em);
-    text-align: center;
-}
-
-.translation_block iframe{
-    width: 17.2em;
-}
-
-.translation_block > p > iframe {
-    margin: 0 auto;
-    width: 19em;
-    display: block;
-}
-
-.translation_block > p {
-    margin: 0;
 }
 
 [[/module]]
@@ -157,14 +138,6 @@ padding-bottom: 4px;
 [[div id="author_block"]]
 = [{$authorPage} ▸ 作者頁 ◂]
 ----
-[[/div]]
-[[div class="translation_block"]]
-+ 其他語言
-
-[[module ListPages range="." limit="1"]]
-[[iframe http://interwiki.scpdb.org/?wiki=%%site_name%%&lang={$lang}&page=_default:{$page}]]
-[[/module]]
-
 [[/div]]
 [[div class="u-faq"]]
 @@ @@
