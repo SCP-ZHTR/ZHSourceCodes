@@ -1,0 +1,555 @@
+[[include info:start]]
+**你。我。Denny's停車場。現在。**
+**作者：**[[*user Westrin]]
+**原文：**[https://scp-wiki.wikidot.com/youmedennysnow You. Me. Denny's Parking lot. Now. ]
+**譯者：**[[*user Kikunai]]
+**圖像：** 見底部。
+[[include info:end]]
+
+[[module ListPages category="fragment" parent="." limit="1" order="created_at" offset="@URL|0"]]
+
+%%content%%
+
+[[/module]]
+
+[!--- https://scp-zh-tr.wikidot.com/fragment:dennys1 --]
+
+[!--- https://scp-zh-tr.wikidot.com/fragment:dennys2 --]
+
+@@ @@
+
+[[include :scp-zh-tr:component:license-box]]
+=====
+> **Filename:** eleneestand.jpg
+> **Author:** [[*user Westrin]], brooklynphotoshoot, Idawriter, The White House
+> **License:** CC BY-SA 3.0
+> **Source Link:** [https://scp-wiki.wikidot.com/youmedennysnow SCP Foundation Wiki]
+> **Derivative Of:**
+
+> **Name** Full Body Shot Photography People
+> **Author:** brooklynphotoshoot
+> **License:** Pixabay License
+> **Source Link:** [https://pixabay.com/photos/full-body-shot-photography-people-1584734/ Pixabay]
+
+> **Name** Denny's - panoramio.jpg
+> **Author:** Idawriter
+> **License:** CC BY-SA 3.0
+> **Source Link:** [https://commons.wikimedia.org/wiki/File:Denny%27s_-_panoramio.jpg Wikimedia Commons]
+
+> **Name** Joe Biden official portrait 2013 cropped.jpg
+> **Author:** The White House
+> **License:** Public Domain
+> **Source Link:** [https://commons.wikimedia.org/wiki/File:Joe_Biden_official_portrait_2013_cropped.jpg Wikimedia Commons]
+
+> **Name** Dwight D. Eisenhower, official photo portrait, May 29, 1959.jpg
+> **Author:** The White House
+> **License:** Public Domain
+> **Source Link:** [https://commons.wikimedia.org/wiki/File:Dwight_D._Eisenhower,_official_photo_portrait,_May_29,_1959.jpg Wikimedia Commons]
+
+-----
+
+> **Filename:** eleneeleftkick.jpg
+> **Author:** [[*user Westrin]], brooklynphotoshoot, Idawriter, The White House, Matt Fiddes
+> **License:** CC BY-SA 3.0
+> **Source Link:** [https://scp-wiki.wikidot.com/youmedennysnow SCP Foundation Wiki]
+> **Derivative Of:**
+
+> **Name** Full Body Shot Photography People
+> **Author:** brooklynphotoshoot
+> **License:** Pixabay License
+> **Source Link:** [https://pixabay.com/photos/full-body-shot-photography-people-1584734/ Pixabay]
+
+> **Name** Denny's - panoramio.jpg
+> **Author:** Idawriter
+> **License:** CC BY-SA 3.0
+> **Source Link:** [https://commons.wikimedia.org/wiki/File:Denny%27s_-_panoramio.jpg Wikimedia Commons]
+
+> **Name** Joe Biden official portrait 2013 cropped.jpg
+> **Author:** The White House
+> **License:** Public Domain
+> **Source Link:** [https://commons.wikimedia.org/wiki/File:Joe_Biden_official_portrait_2013_cropped.jpg Wikimedia Commons]
+
+> **Name** Dwight D. Eisenhower, official photo portrait, May 29, 1959.jpg
+> **Author:** The White House
+> **License:** Public Domain
+> **Source Link:** [https://commons.wikimedia.org/wiki/File:Dwight_D._Eisenhower,_official_photo_portrait,_May_29,_1959.jpg Wikimedia Commons]
+
+> **Name** Matt Fiddes Martial Arts.jpg
+> **Author:** Matt Fiddes
+> **License:** CC BY-SA 3.0
+> **Source Link:** [https://en.m.wikipedia.org/wiki/File:Matt_Fiddes_Martial_Arts.jpg Wikimedia Commons]
+
+-----
+
+> **Filename:** eleneebonked.jpg
+> **Author:** [[*user Westrin]], brooklynphotoshoot, Idawriter, The White House, Matt Fiddes, JCamargo
+> **License:** CC BY-SA 3.0
+> **Source Link:** [https://scp-wiki.wikidot.com/youmedennysnow SCP Foundation Wiki]
+> **Derivative Of:**
+
+> **Name** Full Body Shot Photography People
+> **Author:** brooklynphotoshoot
+> **License:** Pixabay License
+> **Source Link:** [https://pixabay.com/photos/full-body-shot-photography-people-1584734/ Pixabay]
+
+> **Name** Denny's - panoramio.jpg
+> **Author:** Idawriter
+> **License:** CC BY-SA 3.0
+> **Source Link:** [https://commons.wikimedia.org/wiki/File:Denny%27s_-_panoramio.jpg Wikimedia Commons]
+
+> **Name** Joe Biden official portrait 2013 cropped.jpg
+> **Author:** The White House
+> **License:** Public Domain
+> **Source Link:** [https://commons.wikimedia.org/wiki/File:Joe_Biden_official_portrait_2013_cropped.jpg Wikimedia Commons]
+
+> **Name** Dwight D. Eisenhower, official photo portrait, May 29, 1959.jpg
+> **Author:** The White House
+> **License:** Public Domain
+> **Source Link:** [https://commons.wikimedia.org/wiki/File:Dwight_D._Eisenhower,_official_photo_portrait,_May_29,_1959.jpg Wikimedia Commons]
+
+> **Name** Matt Fiddes Martial Arts.jpg
+> **Author:** Matt Fiddes
+> **License:** CC BY-SA 3.0
+> **Source Link:** [https://en.m.wikipedia.org/wiki/File:Matt_Fiddes_Martial_Arts.jpg Wikimedia Commons]
+
+> **Name** Fist Hand Force
+> **Author:** JCamargo
+> **License:** Pixabay License
+> **Source Link:** [https://pixabay.com/vectors/fist-hand-force-arm-power-energy-2889545/ Pixabay]
+
+-----
+
+> **Filename:** eleneefooled.jpg
+> **Author:** [[*user Westrin]], brooklynphotoshoot, Idawriter, The White House, [[*user far2]]
+> **License:** CC BY-SA 3.0
+> **Source Link:** [https://scp-wiki.wikidot.com/youmedennysnow SCP Foundation Wiki]
+> **Derivative Of:**
+
+> **Name** Full Body Shot Photography People
+> **Author:** brooklynphotoshoot
+> **License:** Pixabay License
+> **Source Link:** [https://pixabay.com/photos/full-body-shot-photography-people-1584734/ Pixabay]
+
+> **Name** Denny's - panoramio.jpg
+> **Author:** Idawriter
+> **License:** CC BY-SA 3.0
+> **Source Link:** [https://commons.wikimedia.org/wiki/File:Denny%27s_-_panoramio.jpg Wikimedia Commons]
+
+> **Name** Joe Biden official portrait 2013 cropped.jpg
+> **Author:** The White House
+> **License:** Public Domain
+> **Source Link:** [https://commons.wikimedia.org/wiki/File:Joe_Biden_official_portrait_2013_cropped.jpg Wikimedia Commons]
+
+> **Name** Dwight D. Eisenhower, official photo portrait, May 29, 1959.jpg
+> **Author:** The White House
+> **License:** Public Domain
+> **Source Link:** [https://commons.wikimedia.org/wiki/File:Dwight_D._Eisenhower,_official_photo_portrait,_May_29,_1959.jpg Wikimedia Commons]
+
+> **Name** SCP Foundation Logo
+> **Author:** [[*user far2]]
+> **License:** CC BY-SA 3.0
+> **Source Link:** [https://scp-wiki.wikidot.com/ SCP Foundation Wiki]
+
+-----
+
+> **Filename:** eleneegun.jpg
+> **Author:** [[*user Westrin]], brooklynphotoshoot, Idawriter, The White House, Matt Fiddes, DrunkDriver
+> **License:** CC BY-SA 3.0
+> **Source Link:** [https://scp-wiki.wikidot.com/youmedennysnow SCP Foundation Wiki]
+> **Derivative Of:**
+
+> **Name** Full Body Shot Photography People
+> **Author:** brooklynphotoshoot
+> **License:** Pixabay License
+> **Source Link:** [https://pixabay.com/photos/full-body-shot-photography-people-1584734/ Pixabay]
+
+> **Name** Denny's - panoramio.jpg
+> **Author:** Idawriter
+> **License:** CC BY-SA 3.0
+> **Source Link:** [https://commons.wikimedia.org/wiki/File:Denny%27s_-_panoramio.jpg Wikimedia Commons]
+
+> **Name** Joe Biden official portrait 2013 cropped.jpg
+> **Author:** The White House
+> **License:** Public Domain
+> **Source Link:** [https://commons.wikimedia.org/wiki/File:Joe_Biden_official_portrait_2013_cropped.jpg Wikimedia Commons]
+
+> **Name** Dwight D. Eisenhower, official photo portrait, May 29, 1959.jpg
+> **Author:** The White House
+> **License:** Public Domain
+> **Source Link:** [https://commons.wikimedia.org/wiki/File:Dwight_D._Eisenhower,_official_photo_portrait,_May_29,_1959.jpg Wikimedia Commons]
+
+> **Name** Matt Fiddes Martial Arts.jpg
+> **Author:** Matt Fiddes
+> **License:** CC BY-SA 3.0
+> **Source Link:** [https://en.m.wikipedia.org/wiki/File:Matt_Fiddes_Martial_Arts.jpg Wikimedia Commons]
+
+> **Name** Shooting a 1911A1 pistol atop Grand Mesa, Colorado.jpg
+> **Author:** DrunkDriver
+> **License:** CC BY-SA 3.0
+> **Source Link:** [https://commons.m.wikimedia.org/wiki/File:Shooting_a_1911A1_pistol_atop_Grand_Mesa,_Colorado.jpg Wikimedia Commons]
+
+-----
+
+> **Filename:** eleneerightkick.jpg
+> **Author:** [[*user Westrin]], brooklynphotoshoot, Idawriter, The White House, Matt Fiddes
+> **License:** CC BY-SA 3.0
+> **Source Link:** [https://scp-wiki.wikidot.com/youmedennysnow SCP Foundation Wiki]
+> **Derivative Of:**
+
+> **Name** Full Body Shot Photography People
+> **Author:** brooklynphotoshoot
+> **License:** Pixabay License
+> **Source Link:** [https://pixabay.com/photos/full-body-shot-photography-people-1584734/ Pixabay]
+
+> **Name** Denny's - panoramio.jpg
+> **Author:** Idawriter
+> **License:** CC BY-SA 3.0
+> **Source Link:** [https://commons.wikimedia.org/wiki/File:Denny%27s_-_panoramio.jpg Wikimedia Commons]
+
+> **Name** Joe Biden official portrait 2013 cropped.jpg
+> **Author:** The White House
+> **License:** Public Domain
+> **Source Link:** [https://commons.wikimedia.org/wiki/File:Joe_Biden_official_portrait_2013_cropped.jpg Wikimedia Commons]
+
+> **Name** Dwight D. Eisenhower, official photo portrait, May 29, 1959.jpg
+> **Author:** The White House
+> **License:** Public Domain
+> **Source Link:** [https://commons.wikimedia.org/wiki/File:Dwight_D._Eisenhower,_official_photo_portrait,_May_29,_1959.jpg Wikimedia Commons]
+
+> **Name** Matt Fiddes Martial Arts.jpg
+> **Author:** Matt Fiddes
+> **License:** CC BY-SA 3.0
+> **Source Link:** [https://en.m.wikipedia.org/wiki/File:Matt_Fiddes_Martial_Arts.jpg Wikimedia Commons]
+
+-----
+
+> **Filename:** eleneereach.jpg
+> **Author:** [[*user Westrin]], brooklynphotoshoot, Idawriter, The White House, Matt Fiddes, zhivko
+> **License:** CC BY-SA 3.0
+> **Source Link:** [https://scp-wiki.wikidot.com/youmedennysnow SCP Foundation Wiki]
+> **Derivative Of:**
+
+> **Name** Full Body Shot Photography People
+> **Author:** brooklynphotoshoot
+> **License:** Pixabay License
+> **Source Link:** [https://pixabay.com/photos/full-body-shot-photography-people-1584734/ Pixabay]
+
+> **Name** Denny's - panoramio.jpg
+> **Author:** Idawriter
+> **License:** CC BY-SA 3.0
+> **Source Link:** [https://commons.wikimedia.org/wiki/File:Denny%27s_-_panoramio.jpg Wikimedia Commons]
+
+> **Name** Joe Biden official portrait 2013 cropped.jpg
+> **Author:** The White House
+> **License:** Public Domain
+> **Source Link:** [https://commons.wikimedia.org/wiki/File:Joe_Biden_official_portrait_2013_cropped.jpg Wikimedia Commons]
+
+> **Name** Dwight D. Eisenhower, official photo portrait, May 29, 1959.jpg
+> **Author:** The White House
+> **License:** Public Domain
+> **Source Link:** [https://commons.wikimedia.org/wiki/File:Dwight_D._Eisenhower,_official_photo_portrait,_May_29,_1959.jpg Wikimedia Commons]
+
+> **Name** Matt Fiddes Martial Arts.jpg
+> **Author:** Matt Fiddes
+> **License:** CC BY-SA 3.0
+> **Source Link:** [https://en.m.wikipedia.org/wiki/File:Matt_Fiddes_Martial_Arts.jpg Wikimedia Commons]
+
+> **Name** Hand Woman Female
+> **Author:** zhivko
+> **License:** Pixabay License
+> **Source Link:** [https://pixabay.com/photos/hand-woman-female-man-touch-3035665/ Pixabay]
+
+-----
+
+> **Filename:** eleneespeen.jpg
+> **Author:** [[*user Westrin]], Idawriter, OpenClipart-Vectors
+> **License:** CC BY-SA 3.0
+> **Source Link:** [https://scp-wiki.wikidot.com/youmedennysnow SCP Foundation Wiki]
+> **Derivative Of:**
+
+> **Name** Denny's - panoramio.jpg
+> **Author:** Idawriter
+> **License:** CC BY-SA 3.0
+> **Source Link:** [https://commons.wikimedia.org/wiki/File:Denny%27s_-_panoramio.jpg Wikimedia Commons]
+
+> **Name** Cartoon Tornado Weather
+> **Author:** OpenClipart-Vectors
+> **License:** Pixabay License
+> **Source Link:** [https://pixabay.com/vectors/cartoon-tornado-weather-wind-1296854/ Pixabay]
+
+-----
+
+> **Filename:** noelenee-onlywaffle.jpg
+> **Name** Waffle-House.jpg
+> **Author:** Scott
+> **License:** CC BY-SA 3.0
+> **Source Link:** [https://commons.wikimedia.org/wiki/File:Waffle-House.jpg Wikimedia Commons]
+
+-----
+
+> **Filename:** eleneerun.jpg
+> **Author:** [[*user Westrin]], Idawriter, The White House
+> **License:** CC BY-SA 3.0
+> **Source Link:** [https://scp-wiki.wikidot.com/youmedennysnow SCP Foundation Wiki]
+> **Derivative Of:**
+
+> **Name** Denny's - panoramio.jpg
+> **Author:** Idawriter
+> **License:** CC BY-SA 3.0
+> **Source Link:** [https://commons.wikimedia.org/wiki/File:Denny%27s_-_panoramio.jpg Wikimedia Commons]
+
+> **Name** Joe Biden official portrait 2013 cropped.jpg
+> **Author:** The White House
+> **License:** Public Domain
+> **Source Link:** [https://commons.wikimedia.org/wiki/File:Joe_Biden_official_portrait_2013_cropped.jpg Wikimedia Commons]
+
+> **Name** Dwight D. Eisenhower, official photo portrait, May 29, 1959.jpg
+> **Author:** The White House
+> **License:** Public Domain
+> **Source Link:** [https://commons.wikimedia.org/wiki/File:Dwight_D._Eisenhower,_official_photo_portrait,_May_29,_1959.jpg Wikimedia Commons]
+
+> **Name** LEGS OF PEOPLE RUNNING ON ROAD
+> **Author:** N/A
+> **License:** Public Domain
+> **Source Link:** [https://pixy.org/5951593/ Pixy]
+
+-----
+
+> **Filename:** /eleneepalm.jpg
+> **Author:** [[*user Westrin]], Idawriter, The White House, [[*user far2]]
+> **License:** CC BY-SA 3.0
+> **Source Link:** [https://scp-wiki.wikidot.com/youmedennysnow SCP Foundation Wiki]
+> **Derivative Of:**
+
+> **Name** Denny's - panoramio.jpg
+> **Author:** Idawriter
+> **License:** CC BY-SA 3.0
+> **Source Link:** [https://commons.wikimedia.org/wiki/File:Denny%27s_-_panoramio.jpg Wikimedia Commons]
+
+> **Name** Joe Biden official portrait 2013 cropped.jpg
+> **Author:** The White House
+> **License:** Public Domain
+> **Source Link:** [https://commons.wikimedia.org/wiki/File:Joe_Biden_official_portrait_2013_cropped.jpg Wikimedia Commons]
+
+> **Name** Dwight D. Eisenhower, official photo portrait, May 29, 1959.jpg
+> **Author:** The White House
+> **License:** Public Domain
+> **Source Link:** [https://commons.wikimedia.org/wiki/File:Dwight_D._Eisenhower,_official_photo_portrait,_May_29,_1959.jpg Wikimedia Commons]
+
+> **Name** SCP Foundation Logo
+> **Author:** [[*user far2]]
+> **License:** CC BY-SA 3.0
+> **Source Link:** [https://scp-wiki.wikidot.com/ SCP Foundation Wiki]
+
+> **Name** PALM HAND AND FINGER
+> **Author:** N/A
+> **License:** Public Domain
+> **Source Link:** [https://pixy.org/5727752/ Pixy]
+
+-----
+
+> **Filename:** eleneepunch.jpg
+> **Author:** [[*user Westrin]], brooklynphotoshoot, Idawriter, The White House, niekverlaan
+> **License:** CC BY-SA 3.0
+> **Source Link:** [https://scp-wiki.wikidot.com/youmedennysnow SCP Foundation Wiki]
+> **Derivative Of:**
+
+> **Name** Full Body Shot Photography People
+> **Author:** brooklynphotoshoot
+> **License:** Pixabay License
+> **Source Link:** [https://pixabay.com/photos/full-body-shot-photography-people-1584734/ Pixabay]
+
+> **Name** Denny's - panoramio.jpg
+> **Author:** Idawriter
+> **License:** CC BY-SA 3.0
+> **Source Link:** [https://commons.wikimedia.org/wiki/File:Denny%27s_-_panoramio.jpg Wikimedia Commons]
+
+> **Name** Joe Biden official portrait 2013 cropped.jpg
+> **Author:** The White House
+> **License:** Public Domain
+> **Source Link:** [https://commons.wikimedia.org/wiki/File:Joe_Biden_official_portrait_2013_cropped.jpg Wikimedia Commons]
+
+> **Name** Dwight D. Eisenhower, official photo portrait, May 29, 1959.jpg
+> **Author:** The White House
+> **License:** Public Domain
+> **Source Link:** [https://commons.wikimedia.org/wiki/File:Dwight_D._Eisenhower,_official_photo_portrait,_May_29,_1959.jpg Wikimedia Commons]
+
+> **Name** Knytnäve Revolt Rebellisk
+> **Author:** niekverlaan
+> **License:** Pixabay License
+> **Source Link:** [https://pixabay.com/sv/photos/knytn%c3%a4ve-revolt-rebellisk-rebell-424499/ Pixabay]
+
+-----
+
+> **Filename:** eleneepunchstopped.jpg
+> **Author:** [[*user Westrin]], brooklynphotoshoot, Idawriter, The White House, niekverlaan, Kendo Scott
+> **License:** CC BY-SA 3.0
+> **Source Link:** [https://scp-wiki.wikidot.com/youmedennysnow SCP Foundation Wiki]
+> **Derivative Of:**
+
+> **Name** Full Body Shot Photography People
+> **Author:** brooklynphotoshoot
+> **License:** Pixabay License
+> **Source Link:** [https://pixabay.com/photos/full-body-shot-photography-people-1584734/ Pixabay]
+
+> **Name** Denny's - panoramio.jpg
+> **Author:** Idawriter
+> **License:** CC BY-SA 3.0
+> **Source Link:** [https://commons.wikimedia.org/wiki/File:Denny%27s_-_panoramio.jpg Wikimedia Commons]
+
+> **Name** Joe Biden official portrait 2013 cropped.jpg
+> **Author:** The White House
+> **License:** Public Domain
+> **Source Link:** [https://commons.wikimedia.org/wiki/File:Joe_Biden_official_portrait_2013_cropped.jpg Wikimedia Commons]
+
+> **Name** Dwight D. Eisenhower, official photo portrait, May 29, 1959.jpg
+> **Author:** The White House
+> **License:** Public Domain
+> **Source Link:** [https://commons.wikimedia.org/wiki/File:Dwight_D._Eisenhower,_official_photo_portrait,_May_29,_1959.jpg Wikimedia Commons]
+
+> **Name** Knytnäve Revolt Rebellisk
+> **Author:** niekverlaan
+> **License:** Pixabay License
+> **Source Link:** [https://pixabay.com/sv/photos/knytn%c3%a4ve-revolt-rebellisk-rebell-424499/ Pixabay]
+
+> **Name** Flying Ninja Kick.jpg
+> **Author:** Kendo Scott
+> **License:** CC BY-SA 4.0
+> **Source Link:** [https://commons.wikimedia.org/wiki/File:Joe_Biden_official_portrait_2013_cropped.jpg Wikimedia Commons]
+
+> **Name** COMIC BOOK SOUND EFFECTS N11
+> **Author:** N/A
+> **License:** Public Domain
+> **Source Link:** [https://pixy.org/2338768/ Pixy]
+
+-----
+
+> **Filename:** eleneedumbass.jpg
+> **Author:** [[*user Westrin]], brooklynphotoshoot, Idawriter, The White House, niekverlaan, OpenClipart-Vectors
+> **License:** CC BY-SA 3.0
+> **Source Link:** [https://scp-wiki.wikidot.com/youmedennysnow SCP Foundation Wiki]
+> **Derivative Of:**
+
+> **Name** Full Body Shot Photography People
+> **Author:** brooklynphotoshoot
+> **License:** Pixabay License
+> **Source Link:** [https://pixabay.com/photos/full-body-shot-photography-people-1584734/ Pixabay]
+
+> **Name** Denny's - panoramio.jpg
+> **Author:** Idawriter
+> **License:** CC BY-SA 3.0
+> **Source Link:** [https://commons.wikimedia.org/wiki/File:Denny%27s_-_panoramio.jpg Wikimedia Commons]
+
+> **Name** Joe Biden official portrait 2013 cropped.jpg
+> **Author:** The White House
+> **License:** Public Domain
+> **Source Link:** [https://commons.wikimedia.org/wiki/File:Joe_Biden_official_portrait_2013_cropped.jpg Wikimedia Commons]
+
+> **Name** Dwight D. Eisenhower, official photo portrait, May 29, 1959.jpg
+> **Author:** The White House
+> **License:** Public Domain
+> **Source Link:** [https://commons.wikimedia.org/wiki/File:Dwight_D._Eisenhower,_official_photo_portrait,_May_29,_1959.jpg Wikimedia Commons]
+
+> **Name** Knytnäve Revolt Rebellisk
+> **Author:** niekverlaan
+> **License:** Pixabay License
+> **Source Link:** [https://pixabay.com/sv/photos/knytn%c3%a4ve-revolt-rebellisk-rebell-424499/ Pixabay]
+
+> **Name** KNIFE DRAWING
+> **Author:** N/A
+> **License:** Public Domain
+> **Source Link:** [https://pixy.org/139763/ Pixy]
+
+> **Name** Spruta Injektor Nål
+> **Author:** OpenClipart-Vectors
+> **License:** Pixabay License
+> **Source Link:** [https://pixabay.com/sv/vectors/spruta-injektor-n%c3%a5l-skott-medicin-145002/ Pixabay]
+
+-----
+
+> **Filename:** eleneedumberass.jpg
+> **Author:** [[*user Westrin]], brooklynphotoshoot, Idawriter, The White House, niekverlaan
+> **License:** CC BY-SA 3.0
+> **Source Link:** [https://scp-wiki.wikidot.com/youmedennysnow SCP Foundation Wiki]
+> **Derivative Of:**
+
+> **Name** Full Body Shot Photography People
+> **Author:** brooklynphotoshoot
+> **License:** Pixabay License
+> **Source Link:** [https://pixabay.com/photos/full-body-shot-photography-people-1584734/ Pixabay]
+
+> **Name** Denny's - panoramio.jpg
+> **Author:** Idawriter
+> **License:** CC BY-SA 3.0
+> **Source Link:** [https://commons.wikimedia.org/wiki/File:Denny%27s_-_panoramio.jpg Wikimedia Commons]
+
+> **Name** Joe Biden official portrait 2013 cropped.jpg
+> **Author:** The White House
+> **License:** Public Domain
+> **Source Link:** [https://commons.wikimedia.org/wiki/File:Joe_Biden_official_portrait_2013_cropped.jpg Wikimedia Commons]
+
+> **Name** Dwight D. Eisenhower, official photo portrait, May 29, 1959.jpg
+> **Author:** The White House
+> **License:** Public Domain
+> **Source Link:** [https://commons.wikimedia.org/wiki/File:Dwight_D._Eisenhower,_official_photo_portrait,_May_29,_1959.jpg Wikimedia Commons]
+
+> **Name** Knytnäve Revolt Rebellisk
+> **Author:** niekverlaan
+> **License:** Pixabay License
+> **Source Link:** [https://pixabay.com/sv/photos/knytn%c3%a4ve-revolt-rebellisk-rebell-424499/ Pixabay]
+
+> **Name** COMIC BOOK SOUND EFFECTS N11
+> **Author:** N/A
+> **License:** Public Domain
+> **Source Link:** [https://pixy.org/2338768/ Pixy]
+
+-----
+
+> **Filename:** eleneegunned.jpg
+> **Author:** [[*user Westrin]], brooklynphotoshoot, Idawriter, The White House, Matt Fiddes, DrunkDriver, USA-Reiseblogger
+> **License:** CC BY-SA 3.0
+> **Source Link:** [https://scp-wiki.wikidot.com/youmedennysnow SCP Foundation Wiki]
+> **Derivative Of:**
+
+> **Name** Full Body Shot Photography People
+> **Author:** brooklynphotoshoot
+> **License:** Pixabay License
+> **Source Link:** [https://pixabay.com/photos/full-body-shot-photography-people-1584734/ Pixabay]
+
+> **Name** Denny's - panoramio.jpg
+> **Author:** Idawriter
+> **License:** CC BY-SA 3.0
+> **Source Link:** [https://commons.wikimedia.org/wiki/File:Denny%27s_-_panoramio.jpg Wikimedia Commons]
+
+> **Name** Joe Biden official portrait 2013 cropped.jpg
+> **Author:** The White House
+> **License:** Public Domain
+> **Source Link:** [https://commons.wikimedia.org/wiki/File:Joe_Biden_official_portrait_2013_cropped.jpg Wikimedia Commons]
+
+> **Name** Dwight D. Eisenhower, official photo portrait, May 29, 1959.jpg
+> **Author:** The White House
+> **License:** Public Domain
+> **Source Link:** [https://commons.wikimedia.org/wiki/File:Dwight_D._Eisenhower,_official_photo_portrait,_May_29,_1959.jpg Wikimedia Commons]
+
+> **Name** Matt Fiddes Martial Arts.jpg
+> **Author:** Matt Fiddes
+> **License:** CC BY-SA 3.0
+> **Source Link:** [https://en.m.wikipedia.org/wiki/File:Matt_Fiddes_Martial_Arts.jpg Wikimedia Commons]
+
+> **Name** Shooting a 1911A1 pistol atop Grand Mesa, Colorado.jpg
+> **Author:** DrunkDriver
+> **License:** CC BY-SA 3.0
+> **Source Link:** [https://commons.m.wikimedia.org/wiki/File:Shooting_a_1911A1_pistol_atop_Grand_Mesa,_Colorado.jpg Wikimedia Commons]
+
+> **Name** Hand Pistol Weapon
+> **Author:** USA-Reiseblogger
+> **License:** Pixabay License
+> **Source Link:** [https://pixabay.com/photos/hand-pistol-weapon-firearm-shoot-3052115/ Pixabay]
+
+> **標題：**xlrb2LK.png
+> **來源：**[https://i.imgur.com/xlrb2LK.png imgur]
+> **授權方式：**SCP維基 CC BY-SA 3.0
+> **備註：**此圖片為原文[http://scp-wiki.wdfiles.com/local--files/fragment%3Adennys2/uhohtheyintrouble.png uhohtheyintrouble.png]之翻譯
+
+=====
+[[include :scp-zh-tr:component:license-box-end]]
