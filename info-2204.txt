@@ -1,67 +1,317 @@
-[[include :scp-wiki:theme:black-highlighter-theme]]
-[[include :scp-wiki:theme:the-way-out]]
+[[include :wanderers-library:component:once-upon-a-time]]
 
-[[module css]]
+[[module CSS]]
 :root:lang(zh) {
-    /* S-CSS-P Integration */
-    /* If you're making a new CSS theme, please include the following three variables at minimum. */
-    --theme-base: "nuscp";
-    /* must be either "nuscp" or "sigma9" */
-    --theme-id: "nuscp";
-    /* set this to the URL of your theme's page - eg for "component:ar-theme", set it to "ar-theme" */
-    --theme-name: "nu-SCP Theme";
-    /* set this to your theme's full name */
-        
-    /* Header */
-    --logo-image: url("http://scp-int.wdfiles.com/local--files/main/scp-logo-en-400.png");
+/*Header*/
+    --gradient-header: url("https://i.imgur.com/CyQKvK8.png");
+    --logo-image: url("https://i.imgur.com/KoRjQdw.png");
+   --gold-foil: url("https://i.imgur.com/hQJv5HW.jpg");
+
+
+    /*主要背景*/
+    --white-monochrome:71, 66, 62;
+   /* 第二背景*/
+    --light-pale-gray-monochrome: 209, 172, 123;
+   /* 小配色*/
+    --gray-monochrome: 135, 121, 114;
+   /* 另一個小配色*/
+    --dark-gray-monochrome: 89, 64, 51;
+   /* 拉桿*/
+    --light-gray-monochrome: 89, 64, 51;
+   /* 字體&其他*/
+    --bright-accent: 255, 197, 61;
+   /* 第二字體&其他*/
+    --dark-accent: 8, 8, 8;
+
     --header-title: "2024夏季競賽";
-    --header-subtitle: "Summer 2024 Competition";
 
-    /* 標題 */
-    #page-title {
-     border-color: 18, 144, 255);
-     color: 18, 144, 255);
-    }
 
-    /*連結顏色 */
-    --visited-link-color:0, 112, 209;
-    --link-color:60, 97, 130;
-
-    /*鴿子直升機 */
---gradient-background: linear-gradient(to bottom,
-#363636 0%,
- #FFFFFF 100%);
-    /*直升機輔助輪 */
-html, body {
-    height: 100%;
-    margin: 0;
-    padding: 0;
-    background-color: #FFFFFF; /* 設置整個頁面的背景顏色 */
-}
-
-.header {
-    height: 100px; /* 頁面頂部的高度 */
-    background-image: linear-gradient(to bottom, #bdbebf, transparent); /* 從灰色漸變到透明 */
-}
-
-.content {
-    padding: 20px;
-}
-}
 [[/module]]
 
-+ 123
-測試123
-[1222]
-[http://scp-zh-tr.wikidot.com/theme:the-way-out 1222]
+[!-- 資訊欄▼ --]
+[[include info:start-standalone]]
+本次主題來自於[[*user Rounderhouse]]的[https://scp-wiki.wikidot.com/theme:the-way-out The Way Out Theme]並經過微調改造。
+---------
+競賽主視覺由[[*user Dr V Valentine]]繪製
+
+[[include info:end]]
+[!-- 那些該注意的或很棒的事▼ --]
 [[tabview]]
-[[tab 表1的標題]]
-表1的內容。
+[[tab 封面]]
+@@ @@
+[[=image https://i.imgur.com/QRdRVQe.png height="500px" width="500px"]]
+@@ @@
+[[div_ class="fancyborder"]]
+
+內容在此「元素。這是萬物的精要與根源。環境、人體、法術，失去元素便一事無成。
+
+擁有元素，便掌握世界。」
+@@ @@
+大魔法師 因里・比寧盈，887 年
+[[/div]]
+
+@@ @@
+你在圖書館（正常的）裡面發現了一本舊書。說是舊書似乎都有點委婉了：破損的厚皮革與你無法辨識的裝訂法，泛黃的扉頁間時常掉出莎草紙與羊皮頁，上面用墨水寫滿你不認識的文字跟符號。
+
+拿去問了館員，他說這裡沒有這種書，別拿玩具來惡作劇。好吧。
+
+你翻開閃著黃金光芒的一頁。沒有奇怪的強風與暫停的時間，但巨大的六角形魔法陣仍然抓住了你的目光。
+
+= [[size larger]]//《元素》//[[/size]]
+
+魔法陣上的六個符號周邊……似乎閃爍、低語著什麼。
+
+你拿起紙筆，開始工作。
+@@ @@
+@@ @@
 [[/tab]]
-[[tab 表2的標題]]
-表2的內容。
+[[tab 題目與規則]]
++* 題目
+本次夏季競賽以「元素」為主題，創作者可以自由的選擇下方所介紹的一個或三個元素作為主題進行創作。
+* 火元素：作品內容與「火、熱」或「激情」有關
+* 水元素：作品內容與「水、冰或雲」或「流動」有關
+* 電元素：作品內容與「電氣、網路」或「破壞」有關
+* 風元素：作品內容與「大氣、天空」或「自由」有關
+* 地元素：作品內容與「大地、岩石」或「不朽」有關
+* 綠元素：作品內容與「植物、生態」或「擴張」有關
+
+[[div_ class="fancyhr"]] 
+----- 
+[[/div]]
++* 規則
+
+參賽作品必須為您的原創作品。2024夏季競賽將**##930000|文字原創組不接受合著共同創作##**除此之外同樂的繪畫與翻譯活動進行則不在此限，但繪畫與翻譯無法參與競賽排名還請參賽者請多加留意。
+
+本次競賽的參賽作品可以同時參與站內的其他活動，每篇作品最多能使用3種元素進行創作但沒有限制投稿的作品份數，我們接受以下8種格式的創作： 001提案、SCP檔案、故事、-EX(已解明)、-J(搞笑)、GOI格式、creepypasta 或流浪者圖書館作品參賽。
+
+各位參賽者請務必在徵件開始後投稿的頁面上加上"**##930000|2024夏季競賽##**"的標籤，標籤位於頁面底端的選項中，以便讀者能快速的找到你的投稿。
+
+請注意如果是在**準備期**期間內，先將文章先作為一般作品投稿，事後正式徵件再放上活動標籤的行為是##930000|不行##的，//除非將作品刪除並重新投稿//，否則您將會被記錄並且失去參賽資格。
+
+如有任何疑問，歡迎至[http://scp-zh-tr.wikidot.com/chat-guide 各大聯絡窗口] 尋求協助。
+ 
+@@ @@
+[[=]]
+主辦單位保有活動最終解釋權及變更活動內容細節之權利。
+[[/=]]
+@@ @@
+@@ @@
 [[/tab]]
-[[tab 表3的標題]]
-表3的內容。
+[[tab 賽程解說]]
+[[=]]
++ 賽程解說
+++++++* 由於用戶多數位於相同時區內，以下所標示的日期及時間的基準皆以(GMT+8)為主。
+[[/=]]
+>
+> **準備期**：【2024年07月11日 （四）】至【2024年07月14日 （日） 23:59】
+>
+> **徵件期**：【2024年07月15日 （一）】至【2024年08月21日 （日） 21:00】
+>
+> **投票期**：【2024年07月15日 （一）】至【2024年08月31日 （六） 21:00】
+-----
+@@ @@
+= **##930000|※請不要在準備期投稿作品。##**
+@@ @@
+[[/tab]]
+[[tab 幸運彩卷]]
+這裡記載著咪呀召喚幸運彩卷的辦法，部分成就除外，不分原創文字、繪畫、翻譯的作者都能一起計算取得獎券，獎券計算以投稿時間為基準，每項成就限得一次。
+
+||~ 成就名稱 ||~ 條件 ||
+|| 元素詠唱者 || 單一元素下與其他參加者一起完成了基礎六元素[[footnote]]每湊六位發一次，集結基礎以投稿時間為基準[[/footnote]] ||
+|| 大魔導書持有人||獨自完成了6種元素的創作|| 
+|| 星空女神 || 協助達標現有的站內設定(腳色、站點、關注組織、等需要站內審核的設定) ||
+|| 棍棒十字軍 || 創作了以特遣隊為主角的作品 ||
+|| 異國商隊 || 創作以關注組織為要角的作品 ||
+|| 天啟使徒||  創作了以世界線為主角的作品 ||
+|| 吟遊詩人公會 || 以原創繪畫或翻譯的形式響應題目投稿了作品 ||
+
+
+[[/tab]]
+[[tab 獎項]]
+> [[=]]
+> + 競賽優勝獎
+>
+> 以下獎項依投票結算時的總分決定。若有二人同列第一名，則平分第一名獎金（1000）與第二名獎金（800），以此類推。
+>
+> 「第一名」新台幣1000
+> 「第二名」新台幣500
+> 「第三名」新台幣300
+> @@ @@
+> = **※ 匯率依照匯款當日新台幣幣值為基準**
+> [[/=]]
+@@ @@
+
+> [[=]]
+> + 命運大樂透
+> 
+> 為了終止債額增加，這次的參加獎的形式比較特別以，只要投稿或達成競賽特殊條件就能拿到抽獎卷，無法等待之前禮物的朋友們也能直接兌換成抽獎卷(一次參加獎一張)，成員可以互換獎勵，也可以捐回給主辦方，無法跨洋運送的贈品主辦單位將會折現後發出。
+
+**##FFFFFF|※ 2024夏季競賽的參加者每人限領一次參加獎##**[[footnote]] 你能靠成就取得更多的抽獎卷 [[/footnote]]。
+
+> 
+> ||~ 獎項 ||~ 說明 ||~ 數量||
+> || 動聽獎 || 為指定腳色量身打造的60秒主題曲 ||1位||
+> || 麥麥獎|| 麥當勞大薯一份(限台灣兌換，無法領取將折合台幣66元) ||3位 ||
+> || 狐嫁獎|| 狐狸娶親主題的夜光擺飾一組 || 1位 ||
+> || 愛玩獎|| 赤燭所推出的九日遊戲序號|| 1位 ||
+> || 咪繪獎||咪呀畫一張圖給你 (LOGO、人物皆可) || 1位 ||
+> || 咪製獎||咪呀做一個快樂的小垃圾給你 || 2位 ||
+> || 咪香獎||咪呀量身打造的薰香10ml || 3位 ||
+> || 咪飽獎||咪呀精選綜合點心包(L) || 1位 ||
+> || 普獎 || 全家便利超商現金卷50元 (或50元台幣) ||跟抽獎卷一樣多[[footnote]] 上面其他獎項抽完後剩下的都是普獎 [[/footnote]]||
+> [[/=]]
+
+**##FFFFFF|※ 主辦單位保留更換其他等值獎項與調整獎項細節之權利##**。
+**##FFFFFF|※ 若獲獎人數過多可能會分月發放禮物##**。
+**有任何疑問歡迎留言詢問或是前往我們的[[[*chat-guide|聊天室與各大窗口]]]求助。**
+[[/tab]]
+[[tab 重點整理]]
+[[=]]
++ 重點整理
+[[/=]]
+
+* 標示的日期及時間的基準皆以(GMT+8)為主。
+
+* 只有文字原創能參與排名
+
+* 每份作品最多使用三種元素
+
+* 每項成就只能拿到一次
+
+* 翻譯請在指定區域留言作品以及參與的主題
+
+* 參加獎一個用戶只能得到一次
+
+* 提前投搞將失去參賽資格除非您刪除並重新投稿。
+
+* 請務必在比賽作品上添加**##930000|"2024夏季競賽"##**與**##930000|"原創"##**的兩種標籤。[[footnote]] 還不熟悉標籤操作的成員們請前往留言詢問或是在我們的[[[*chat-guide|聊天室與各大窗口]]]求助 [[/footnote]]
+
+* 開放001提案、SCP檔案、故事、-EX(已解明)、-J(搞笑)、GOI格式、creepypasta、流浪者圖書館，等8種格式投稿參賽。
+
+* 2024夏季競賽將**##930000|不接受##**合著共同創作。
+
+* 題目沒有限制投稿份數。
+
+* 擁有wikidot帳號並申請[[[*system:join|加入站點]]]的會員才能參與投票或投稿。
+
+* 主辦單位保有活動最終解釋權及變更活動內容細節之權利。
+@@ @@
+
+感謝小空提供題目
+山姆協助許多討論以及內容調整
+
+[[/tab]]
+[[tab 原創文字作品]]
+[[div class="content-panel standalone content-row"]]
+[[div class="content-type-title"]]
+++ 目前參賽作品
+[[/div]]
+
+[[div class="content-type-description-2"]]
+
+[[table style="width: 100%;"]]
+[[row style="font-weight: bold; color: #fff; background-color: #666;"]]
+[[cell style="padding: 0 2px; width: 50%;"]]
+頁面名稱
+[[/cell]]
+[[cell style="padding: 0 2px; width: 25%; text-align: center;"]]
+建立日期
+[[/cell]]
+[[cell style="padding: 0 2px; width: 20%; text-align: center;"]]
+創建者
+[[/cell]]
+[[cell style="padding: 0 2px; text-align: center;"]]
+評分
+[[/cell]]
+[[/row]]
+[[/table]]
+
+[[/div]]
+
+[[div class="content-type-description"]]
+
+[[module ListPages order="created_at desc" prependLine="[[include component:listpages-table]]" perPage="30" appendLine="[[/table]]" category="-fragment, -prime"  separate="false" tags="+2024夏季競賽 +原創 -中心 -藝術作品" rss="Most Recently Translated"]]
+[[row]]
+[[cell style="vertical-align: top;"]]
+%%title_linked%%
+[[/cell]]
+[[cell style="vertical-align: top; text-align: justify;"]]
+%%created_at|%Y年%m月%d日 %H:%M|agohover%%
+[[/cell]]
+[[cell style="vertical-align: top; text-align: left;"]]
+%%created_by_linked%%
+[[/cell]]
+[[cell style="vertical-align: top; text-align: justify;"]]
+%%rating%%
+[[/cell]]
+[[/row]]
+[[/module]]
+[[/div]]
+[[/div]]
+
+[[/tab]]
+[[tab 翻譯展區]]
+
+完成翻譯活動的成員，請依照格式在留言板紀錄作品
+
+> @@> 翻譯網址：@@
+> @@> 選擇的元素：@@
+> @@> 作者：@@
+> @@> 譯者：@@
+
+[[div class="collapsible-block" style="font-size:1em"]]
+[[module comments]]
+[[/div]]
+
+[[/tab]]
+
+[[tab 原創繪圖作品]]
+[[div class="content-panel standalone content-row"]]
+[[div class="content-type-title"]]
+++ 目前參與作品
+[[/div]]
+
+[[div class="content-type-description-2"]]
+
+[[table style="width: 100%;"]]
+[[row style="font-weight: bold; color: #fff; background-color: #666;"]]
+[[cell style="padding: 0 2px; width: 50%;"]]
+頁面名稱
+[[/cell]]
+[[cell style="padding: 0 2px; width: 25%; text-align: center;"]]
+建立日期
+[[/cell]]
+[[cell style="padding: 0 2px; width: 20%; text-align: center;"]]
+創建者
+[[/cell]]
+[[cell style="padding: 0 2px; text-align: center;"]]
+評分
+[[/cell]]
+[[/row]]
+[[/table]]
+
+[[/div]]
+
+[[div class="content-type-description"]]
+
+[[module ListPages order="created_at desc" prependLine="[[include component:listpages-table]]" perPage="30" appendLine="[[/table]]" category="-fragment, -prime"  separate="false" tags="+2024夏季競賽 +原創 -中心 +藝術作品" rss="Most Recently Translated"]]
+[[row]]
+[[cell style="vertical-align: top;"]]
+%%title_linked%%
+[[/cell]]
+[[cell style="vertical-align: top; text-align: justify;"]]
+%%created_at|%Y年%m月%d日 %H:%M|agohover%%
+[[/cell]]
+[[cell style="vertical-align: top; text-align: left;"]]
+%%created_by_linked%%
+[[/cell]]
+[[cell style="vertical-align: top; text-align: justify;"]]
+%%rating%%
+[[/cell]]
+[[/row]]
+[[/module]]
+[[/div]]
+[[/div]]
+
 [[/tab]]
 [[/tabview]]
