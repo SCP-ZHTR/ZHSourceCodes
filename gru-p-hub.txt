@@ -258,6 +258,22 @@ SCP-███
 [[/cell]]
 [[/row]]
 
+[[row]]
+[[cell class="label"]]
+[[[SCP-7242]]]
+[[div class="date"]]
+1963
+[[/div]]
+[[/cell]]
+[[cell class="entry"]]
+[[div class="description"]]
+K-122事件
+[[/div]]
+[[div class="snippet"]]
+//K-122號//十一月級核子潛艇在首次與唯一一次航行後，引起了格魯烏P部門的興趣。大副瓦西里．克斯特羅夫提供的紀錄說明了它奇怪而令人不安的性質。
+[[/div]]
+[[/cell]]
+[[/row]]
 
 [[row]]
 [[cell class="label"]]
@@ -272,6 +288,23 @@ SCP-███
 [[/div]]
 [[div class="snippet"]]
 異常項目繼續被用於促進蘇聯工業的發展，這表明了格魯烏P部門在促進蘇聯經濟中發揮了實質作用。
+[[/div]]
+[[/cell]]
+[[/row]]
+
+[[row]]
+[[cell class="label"]]
+[[[SCP-7542]]]
+[[div class="date"]]
+1968
+[[/div]]
+[[/cell]]
+[[cell class="entry"]]
+[[div class="description"]]
+磚牆行動
+[[/div]]
+[[div class="snippet"]]
+瓦拉文公司簽訂了一分以一名實驗型強化士兵支援美國對抗新春攻勢的合約。格魯烏P部門秘密派遣突擊小隊紅色風暴至越南，並下令摧毀該士兵、其創造者，以及任何可以用於重建它的事物。然而，鮑里斯．梅德韋大尉卻秘密安排對該士兵遺體的研究，希望生産效忠於蘇聯的強化士兵。
 [[/div]]
 [[/cell]]
 [[/row]]
