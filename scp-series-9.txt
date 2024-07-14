@@ -369,7 +369,7 @@
 * [[[SCP-8329]]] - [ACCESS DENIED]
 * [[[SCP-8330]]] - One for the history books
 * [[[SCP-8331]]] - [ACCESS DENIED]
-* [[[SCP-8332]]] - [ACCESS DENIED]
+* [[[SCP-8332]]] - 一小時能花上多少？
 * [[[SCP-8333]]] - 心願編織者
 * [[[SCP-8334]]] - [ACCESS DENIED]
 * [[[SCP-8335]]] - [ACCESS DENIED]
@@ -465,7 +465,7 @@
 * [[[SCP-8421]]] - [ACCESS DENIED]
 * [[[SCP-8422]]] - [ACCESS DENIED]
 * [[[SCP-8423]]] - [ACCESS DENIED]
-* [[[SCP-8424]]] - [ACCESS DENIED]
+* [[[SCP-8424]]] - 不要直視日蝕
 * [[[SCP-8425]]] - [ACCESS DENIED]
 * [[[SCP-8426]]] - [ACCESS DENIED]
 * [[[SCP-8427]]] - [ACCESS DENIED]
@@ -637,7 +637,7 @@
 * [[[SCP-8589]]] - [ACCESS DENIED]
 * [[[SCP-8590]]] - Dale
 * [[[SCP-8591]]] - [ACCESS DENIED]
-* [[[SCP-8592]]] - [ACCESS DENIED]
+* [[[SCP-8592]]] - 部門部門
 * [[[SCP-8593]]] - [ACCESS DENIED]
 * [[[SCP-8594]]] - [ACCESS DENIED]
 * [[[SCP-8595]]] - [ACCESS DENIED]
@@ -890,7 +890,7 @@
 * [[[SCP-8830]]] - [ACCESS DENIED]
 * [[[SCP-8831|EXB-08831]]] - Halloween, Oklahoma
 * [[[SCP-8832]]] - [ACCESS DENIED]
-* [[[SCP-8833]]] - [ACCESS DENIED]
+* [[[SCP-8833]]] - //一九七六//
 * [[[SCP-8834]]] - [ACCESS DENIED]
 * [[[SCP-8835]]] - [ACCESS DENIED]
 * [[[SCP-8836]]] - [ACCESS DENIED]
