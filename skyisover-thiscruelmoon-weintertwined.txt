@@ -1,9 +1,9 @@
-[[include :scp-wiki:theme:penumbra]]
+[[include :scp-zh-tr:theme:penumbra]]
 [[module css]]
 :root {
   --accentColor: #FF5512;
   --header-title: "破曉";
-  --header-subtitle: "太陽系的殘酷之星";
+  --header-subtitle: "繞日的殘酷行星";
   --lgurl: url("http://scp-wiki.wikidot.com/local--files/daybreak/daybreaklogo.png");
 }
 #page-title {

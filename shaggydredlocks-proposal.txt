@@ -1,4 +1,4 @@
-[[include :scp-wiki:theme:penumbra]]
+[[include :scp-zh-tr:theme:penumbra]]
 
 [[module css]]
 :root {
