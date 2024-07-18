@@ -14,7 +14,10 @@
 **篇名：**SCP-ZH-922　馬蘭姑娘
 **設定顧問：**[[*user lulu_lucifelle]]、[[*user dr v valentine]]
 
-**Image Credit：** The image is cropped from [https://commons.wikimedia.org/w/index.php?curid=32110049 File:台東鯉魚山俯瞰市區.jpg] by WikiCommons user [https://commons.wikimedia.org/wiki/User:Liaon98 Liaon98] and should be spread under CC BY-SA 3.0 License.
+**Image Credit：** 
+* The header image is cropped from [https://commons.wikimedia.org/w/index.php?curid=32110049 File:台東鯉魚山俯瞰市區.jpg] by WikiCommons user [https://commons.wikimedia.org/wiki/User:Liaon98 Liaon98] and should be spread under CC BY-SA 3.0 License.
+* The bishop tree image is from page author [[*user samscript]] and should be spread under CC BY-SA 3.0 License.
+* 本作使用的茄苳樹相片實際上是位於[https://maps.app.goo.gl/ixYLpPpbanrwf2p86 花蓮富里六十石山的茄苳老樹]，請勿跑到台東鯉魚山朝聖（鯉魚山上沒有大棵茄苳）
 
 = [https://www.youtube.com/watch?v=PvBBsg4pcK0 點此即刻聆聽：《馬蘭姑娘》]
 
@@ -75,7 +78,13 @@ SCP-ZH-922 的奇蹟術資本（也就是她所能使用的「奇蹟能力儲備
 [[=]]
 + 收容紀錄
 [[/=]]
-項目在 2022 年 3 月被基金會發現。當時，潛伏在台東縣警局的基金會特工留意到台東市鯉魚山遊客所回報的「山頂裸奔年輕女子與樹木的瘋狂生長」事例，很快趕到現場並觀察到 SCP-ZH-922 透過周邊植物所製造的層層「樹牆」。在通報 ZH-44 號站請求支援後，一支臨時應對小組趕到了台東市區，並將 SCP-ZH-922 押送到 ZH-44 號站內。起初，項目的態度相當不合作，並且展現出高度的不穩定性。研究團隊在兩週後才開始能與項目進行有意義的互動。
+
+[[include component:image-block
+  name=https://i.imgur.com/GwzG4RT.jpeg|
+  caption=在鯉魚山上「包覆」SCP-ZH-922 的茄苳老樹，樹齡約 400 年。|
+]]
+
+項目在 2022 年 3 月 20 日被基金會發現。當時，潛伏在台東縣警局的基金會特工留意到台東市鯉魚山遊客所回報的「山頂裸奔年輕女子與樹木的瘋狂生長」事例，很快趕到現場並觀察到 SCP-ZH-922 透過周邊植物所製造的層層「樹牆」。在通報 ZH-44 號站請求支援後，一支臨時應對小組趕到了台東市區，並將 SCP-ZH-922 押送到 ZH-44 號站內。起初，項目的態度相當不合作，並且展現出高度的不穩定性。研究團隊在兩週後才開始能與項目進行有意義的互動。
 
 在收容早期，SCP-ZH-922 表現出一種可逆的失憶症狀——即便關於自己的許多資訊都暫時性丟失了，這些背景資料似乎仍隨著時間推進而逐漸浮現。截至 2022 年 11 月，項目已能清楚表達出自己的身份，以及在她取得異常能力前所處的時空背景與前驅事件；調查報告指出項目極可能來自二十世紀初期的台東市，其[http://scp-zh-tr.wikidot.com/romiamiad-ni-cidal/offset/4 生父母]（若確實存在）皆為舊馬蘭部落的成員，生父為商人，生母為未知氏族的後代。SCP-ZH-922 自稱基於「情愛因素」與父母產生衝突，隨後藉由日本政府架設的台東線鐵軌自殺。
 

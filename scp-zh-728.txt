@@ -33,6 +33,9 @@ The image "Ark of Night at the Dawn of the Day" is photographed and adapted by a
 2. 地景相片來自維基共享資源作者 [https://commons.wikimedia.org/wiki/User:A-l%C3%BA-mih A-lú-mih] 的花蓮縣地圖 [https://commons.wikimedia.org/w/index.php?curid=73205621 File:Kalinko - Hoalian - (Hualien County) location map]，與台東縣地圖 [https://commons.wikimedia.org/w/index.php?curid=68422158 File:Valangaw - Tâitang - (Taitung County) location map]，並由 [[*user samscript]] 後製，應以 CC BY-SA 4.0 條款分享。
 The image "Aomauqiae Forces 08.24" is adapted from WikiCommons user [https://commons.wikimedia.org/wiki/User:A-l%C3%BA-mih A-lú-mih]'s works: [https://commons.wikimedia.org/w/index.php?curid=73205621 File:Kalinko - Hoalian - (Hualien County) location map] and [https://commons.wikimedia.org/w/index.php?curid=68422158 File:Valangaw - Tâitang - (Taitung County) location map], adapted by [[*user samscript]], and should be spread under CC BY-SA 4.0 License.
 
+3. "池上大坡池直升機" 由頁面作者 [[*user samscript]] 所攝影與後製，並應在 CC BY-SA 3.0 條款下分享與使用。
+The image "Helicopter at Chihshang Dapochih Pool" is photographed and adapted by article author [[*user samscript]] and should be spread under CC BY-SA 3.0 License.
+
 [[include :scp-zh-tr:info:end]]
 
 [[=]]
@@ -250,6 +253,11 @@ SCP-ZH-728 的存在事實乃是由已故異常實體：SCP-ZH-698-A「玳米雅
 ||~ 大坡池 || 9 月 12 日 || 能量槽「火梳」之一 || 共有七個，剩餘五個位置不明 ||
 ||~ 立霧溪口 || 9 月 15 日 || 能量槽「火梳」之二 || 僅需一個單位便能啟動方舟，Site-ZH-44 額外收集作為備用資源。 ||
 ||~ 鯉魚山 || 9 月 20 日 || 艦體核心 || 回收當下發生第二次海嘯事件 ||
+
+[[include component:image-block
+  name=https://i.imgur.com/GIKR11D.png|
+  caption=Site-ZH-44 直升機在池上鄉大坡池回收 ZH-728-6「火梳」之一。攝於 9 月 12 日。
+]]
 
 9 月 3 日，奚卜蘭島的 SCP-ZH-728-5 成功啟動，並製造出一個直徑一公里的奧摩奇亞真空區。Site-ZH-44 在此處搭建了由三個貨櫃屋組成的臨時指揮所 OP-ZH-44，並儲存了 SCP-ZH-728-3「方臼」、SCP-ZH-728-4「船錨」與 SCP-ZH-728-6「火梳」。
 
