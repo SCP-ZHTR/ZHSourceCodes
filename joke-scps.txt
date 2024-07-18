@@ -448,14 +448,8 @@
 * [[[http://scp-zh-tr.wikidot.com/scp-zh-i-hate-my-bike-j |SCP-ZH-我恨我的腳踏車-J]]] - 我恨我的腳踏車
 
 + 其他搞笑頁面
-* [[[about-that-big-guy|關於那個大海怪]]]
-* [[[ambrose-chung-wen-kuan|安布羅斯餐廳-崇文館]]]
-* [[[between-dream-and-sin|假面騎士AD片頭主題曲：夢想與罪惡之間]]]
-* [[[critter-profile-ciwciw|小動物檔案：Ciwciw！]]]
-* [[[orange-1114|洗標：橘1114-Mad博士的襯衫]]]
-* [[[super-cooking-pot|2021愚人節主頁 太同電子 Super Cooking Pot]]]
-* [[[soup-chicken-power|2022愚人節主頁 SCP 鷄精會 Soup Chicken Power]]]
-* [[[the-death-of-sam-or-semibreve-etc|Ｓ之死]]]
-* [[[the-forsaken-lake|流連忘返]]]
+[[module ListPages tags="+搞笑 +原創 -scp" separate="no" order="created_at"]]
+* %%title_linked%% 
+[[/module]]
 [[/tab]]
 [[/tabview]]
