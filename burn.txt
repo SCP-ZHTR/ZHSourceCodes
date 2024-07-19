@@ -1,0 +1,13 @@
+[[include :scp-zh-tr:theme:basalt]]
+[[include info:start]]
+作者：[[*user tingtangting]]
+以下所有圖片皆由我本人所繪製
+[[include info:end]]
+[[div class="scp-image-block block-center"
+style="width:450px;"]]
+[[image https://i.imgur.com/wNcJ1vw.jpg
+style="width:100%;"]]
+[[div class="scp-image-caption" style="width:100%;"]]
+煉
+[[/div]]
+[[/div]]
