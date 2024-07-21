@@ -40,7 +40,7 @@ a:visited { color: #680f99; }
 body {
     background-color: #fdffd3;
     font-family: 'Berkshire Swash', 'Klee One', 'Noto Sans TC', cursive;
-    font-size: 1em;
+    font-size: 0.90em;
     color: #2e023a;
 }
 div#container-wrap {
@@ -372,7 +372,7 @@ a:visited { color: #680f99; }
 body {
     background-color: #fdffd3;
     font-family: 'Berkshire Swash', 'Klee One', 'Noto Sans TC', cursive;
-    font-size: 1em;
+    font-size: 0.90em;
     color: #2e023a;
 }
 div#container-wrap {
