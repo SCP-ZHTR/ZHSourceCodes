@@ -30,7 +30,7 @@
 
 [!-- 資訊欄▼ --]
 [[include info:start-standalone]]
-本次主題來自於[[*user Rounderhouse]]的[https://scp-wiki.wikidot.com/theme:the-way-out The Way Out Theme]並經過微調改造。
+本次主題來自於[[*user ironshears]]的[http://scp-zh-tr.wikidot.com/component:once-upon-a-time 從前外觀主題]並經過微調改造。
 ---------
 競賽主視覺由[[*user Dr V Valentine]]繪製
 感謝小空提供題目
