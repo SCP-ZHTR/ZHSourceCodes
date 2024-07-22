@@ -22,7 +22,7 @@
 
 「我是Hypnos，請貴機用建制表上的個人呼號指揮。」
 
-『Werewolf收到；Hypnos，你們已經經過第四導航點，請偏轉至目標方位300處，這裡的制空戰鬥才剛結束，聯盟攻擊小組還在拔除跟觀測到的SAM[[footnote]](Suface Air Missile)，面對空飛彈[[/footnote]]，祝武運昌隆。』
+『Werewolf收到；Hypnos，你們已經經過第四導航點，請偏轉至目標方位300處，這裡的制空戰鬥才剛結束，聯盟攻擊小組還在拔除剛觀測到的SAM[[footnote]](Suface Air Missile)，面對空飛彈[[/footnote]]，祝武運昌隆。』
 
 「照辦。」
 
