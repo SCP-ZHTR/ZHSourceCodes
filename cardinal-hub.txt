@@ -52,6 +52,7 @@
 [[[theme:much-cool|勁爆酷 CSS外觀主題]]]
 [[[theme:cosmonaut|太空人 外觀主題]]]
 [[[theme:hansarp|HANSARP 外觀主題]]]
+[[[theme:wondertainment|Wondertainment博士外觀主題]]]
 
 +++ 世界線
 [[[theme:3law|第三定律世界線 外觀主題]]]
@@ -64,6 +65,7 @@
 [[[theme:technoblast|Technoblast 外觀主題]]]
 [[[theme:the-future-is-here-sigma-9|未來就在這裏 Sigma 9 外觀主題]]]
 [[[theme:war-on-all-fronts-sigma|全線戰爭 外觀主題（Sigma-9）]]]
+[[[theme:admo|告誡主題]]]
 
 +++ 流浪者圖書館
 [[[theme:dustjacket|流浪者的護封 主題 css]]]
@@ -71,6 +73,7 @@
 [[[component:sh-theme-zh|流浪者的護封主題 CSS (舊型)]]]
 [[[component:wanderers-station|流浪者站 外觀主題]]]
 [[[component:once-upon-a-time|從前主題]]]
+[[[wanderers:component:hardcover|流浪者的精裝本]]]
 
 +++ 站點主題
 [[[component:site-zh-02|site-zh-02 CSS模板]]]
