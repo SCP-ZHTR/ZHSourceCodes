@@ -1,0 +1,13 @@
+[[include :scp-zh-tr:theme:basalt]]
+[[include info:start]]
+**篇名：**冰肌玉骨
+**作者：**[[*user Tostren]]
+-------
++++ **競賽主題**
+
+水元素：作品內容與「水、冰或雲」或「流動」有關 ✔
+風元素：作品內容與「大氣、天空」或「自由」有關 ✔
+綠元素：作品內容與「植物、生態」或「擴張」有關 ✔
+[[include info:end]]
+ 
+[[image https://imgur.com/9OAUZDB.png]]
