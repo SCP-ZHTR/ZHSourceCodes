@@ -35,7 +35,7 @@
 
     --logo: url(https://scp-wiki.wikidot.com/local--files/theme:admo/scp-logo_tactical_SCPGAMES-TREYBISHOP-gray.png);
 
-    --header-title: 'ADMONITION';
+    --header-title: '告誡';
 
     --base-header-height: calc((var(--title-size) + var(--subtitle-size))*1.325);
     --title-size: 1.7rem;

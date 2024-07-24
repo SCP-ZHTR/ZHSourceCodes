@@ -1,4 +1,4 @@
-[[include :scp-wiki:theme:admo]]
+[[include :scp-zh-tr:theme:admo]]
 
 [[div class="admo-accessibility"]]
 [[span class="cond"]]>> [/scp-6820/offset/1 閱讀無障礙模式] <<[[/span]]

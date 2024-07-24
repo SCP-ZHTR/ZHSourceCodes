@@ -4,7 +4,7 @@
 譯者：[[*user Frederica Bernkastel]]
 [[include info:end]]
 
-[[include :scp-wiki:theme:admo]]
+[[include :scp-zh-tr:theme:admo]]
 
 [[module CSS]]
 

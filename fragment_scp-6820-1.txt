@@ -1,4 +1,4 @@
-[[include :scp-wiki:theme:admo astral=a]]
+[[include :scp-zh-tr:theme:admo astral=a]]
 [[module CSS]]
 :root {
 --header-title: "告誡";
