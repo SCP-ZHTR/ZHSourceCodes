@@ -1,0 +1,371 @@
+[[include :scp-zh-tr:theme:basalt wide=a|hidetitle=a]]
+[[module css]]
+:root {
+    --header-title: "評價網";
+    --header-subtitle: "最受信任的商店及服務評價網站";
+    --header-logo: url(https://upload.wikimedia.org/wikipedia/commons/9/93/Star%2BCheckmark_art.png);
+    --header-background-color: indianred;
+    --search-icon-color: var(--basalt-light-text-color);
+    --top-bar-dropdown-background-hover: var(--basalt-undertone);
+    --side-bar-background-color: var(--header-background-color);
+    --side-bar-link-color: var(--basalt-light-text-color);
+    --side-bar-link-background-hover: var(--basalt-undertone);
+    --bottom-area-background-color: var(--header-background-color);
+}
+
+/* 以下代碼來自http://backrooms-wiki.wikidot.com/component:parallax-engine，合乎CC BY-SA 3.0 授權 */
+#main-content {
+ position: relative;
+}
+
+#container::before {
+ content: " ";
+ position: absolute;
+ top: 0;
+ left: 0;
+ height: 50vh;
+ width: 100vw;
+ background-size: cover !important;
+ background-position: center !important;
+}
+
+:root {
+ --main-content-top-margin: calc(50vh - var(--header-final-height));
+}
+
+@media only screen and (min-width: 1025px) {
+:root {
+ --main-content-top-margin: 100vh;
+ --perspective: 1px;
+ --side-bar-width: 21rem;
+}
+
+#container {
+ perspective: var(--perspective);
+ transform-style: preserve-3d;
+
+ max-height: 50vh;
+ height: 100vh;
+ overflow-y: auto;
+ display: block;
+}
+
+#container::after {
+ content: "";
+ position: absolute;
+ top: 0;
+ left: 0;
+ height: 100vh;
+ width: 100vw;
+ transform: translateZ(var(--translate));
+ background-size: cover !important;
+ background-position: center !important;
+}
+
+#main-content {
+ background: rgb(var(--basalt-background-color));
+ position: relative;
+ z-index: 4;
+ margin-left: 0;
+ margin-right: 0;
+ width: 100vw;
+ max-width: 100vw;
+ padding-top: 1rem;
+ transform: translateZ(0px);
+ margin-bottom: 0;
+ padding-bottom: var(--main-content-bottom-margin);
+}
+
+#main-content > div {
+ width: var(--main-content-width);
+ margin: auto;
+ max-width: calc(100% - var(--main-content-side-margin) *2);
+}
+
+#header {
+ z-index: 5;
+}
+
+/* ------------------------------------- */
+
+#side-bar {
+    position: sticky;
+    float: none;
+    top: 0;
+    margin-left: calc(var(--side-bar-width) * -1);
+    padding: 0;
+    margin: 0;
+    margin-top: calc(var(--header-final-height) * -1);
+    height: 100vh;
+    width: var(--side-bar-width);
+    max-width: calc(100% - 3.75rem);
+    box-sizing: border-box;
+    font-size: var(--side-bar-link-font-size);
+    background-color: rgb(var(--side-bar-background-color));
+    overflow-x: hidden;
+    overflow-y: scroll;
+    direction: rtl;
+    transition: left var(--side-bar-transition);
+    z-index: 6;
+    display: block;
+    max-height: 50vh;
+    margin-bottom: -100vh;
+}
+
+/* --- mobile side-bar --- */
+
+#side-bar, #side-bar:is(:hover, :focus-within):not(:target) {
+ margin-left: calc(var(--side-bar-width) * -1 + var(--header-final-height));
+ padding-right: var(--header-final-height);
+ clip-path: polygon(100% 0, 100% var(--header-final-height), calc(100% - var(--header-final-height)) var(--header-final-height), calc(100% - var(--header-final-height)) 100%, 0 100%, 0% 0%);
+}
+
+#side-bar::after, #side-bar::before {
+    right: 0.5rem;
+    left: unset;
+    position: absolute;
+}
+
+#side-bar {
+ transition: 0.5s !important;
+}
+
+#side-bar:is(:hover, :focus-within):not(:target) {
+ margin-left: 0;
+ clip-path: polygon(calc(100% - var(--header-final-height)) 0, calc(100% - var(--header-final-height)) var(--header-final-height), calc(100% - var(--header-final-height)) var(--header-final-height), calc(100% - var(--header-final-height)) 100%, 0 100%, 0% 0%);
+}
+
+
+}
+/* ----- */
+
+
+#container::before { /* mobile static banner image because the effect breaks on many phones */
+ background-image: url(https://upload.wikimedia.org/wikipedia/commons/4/4c/MAN_M2000_Pritschenwagen.jpg);
+}
+ 
+@media only screen and (min-width: 1025px) {
+    #container::after { /* foreground (scrolls fastest) */
+     background: url(https://upload.wikimedia.org/wikipedia/commons/4/4c/MAN_M2000_Pritschenwagen.jpg);
+     --translate: -1px;
+     scale: 2;
+    }
+}
+
+
+[[/module]]
+
+[[=]]
+[[include info:start]]
+**特殊貨運公共有限公司 （Special Cargo PLC）｜商店及服務評論 - 評價網**
+**作者：**[[*user Kikunai]]
+
+2024年夏季競賽投稿：電元素之「網絡」
+
+**圖像：** 
+[https://commons.wikimedia.org/wiki/File:MAN_M2000_Pritschenwagen.jpg 版頭卡車]的作者為C-C-Baxter，以CC BY-SA 3.0方式授權
+[https://commons.m.wikimedia.org/wiki/File:Star%2BCheckmark_art.png 網頁標誌]的作者為Behzad Yari，以CC BY-SA 4.0方式授權
+
+複製文：https://www.youtube.com/watch?v=daQozXX19dM
+[[include info:end]]
+
+[# 主頁] >> [# 服務行業] >>  [# 航運與物流] >> 特殊貨運公共有限公司
++ 特殊貨運公共有限公司 （Special Cargo PLC）
+##darkgray|**標籤** @@    @@全球 送貨服務 航運服務 物流服務 貨運代理服務##
+
++++ 平均：★☆☆☆☆
+
+@@ @@
+[[div style="height: 10px; border-radius: 10px; background-color: rgb(163, 53, 69);"]]
+[[/div]]
+@@ @@
+
++++ 討論區
+[[/=]]
+
+[[div class="blockquote"]]
++++++ 匿名用戶
+★☆☆☆☆
+
+差評，我昨天在「工廠」訂的血殺狂魔珍藏版，這家貨運公司今天就打電話過來說貨品要麼[/system:page-tags/tag/%E9%87%8D%E5%AF%AB#pages 換掉]，要麼會在三天內「[*/scp-zh-096 紅移]」了。紅移個屁，明明是貨運公司可以[*http://scp-zh-tr.wikidot.com/forum/t-12355929/ 取消貨品訂購]嗎？垃圾公司。
+
+[[/div]]
+
+[[div class="blockquote"]]
++++++ 匿名用戶
+★☆☆☆☆
+
+[*/contest-archive-zh 壓死線]才運到
+----
+[[>]]
+##darkgrey|**特殊貨運公共有限公司 回覆：**
+我們已經很努力了🥺##
+[[/>]]
+[[/div]]
+
+[[div class="blockquote"]]
++++++ 匿名用戶
+★☆☆☆☆
+
+我沒使用這家公司的服務 不過我在公路上看到它的貨車 媽的司機駕車技術夭壽爛 在住宅區超速撞了我的車之後 那個司機立即從卡車跳下來向我噴檸檬味清潔噴劑 跟我說他會完全一比一換掉我的車但我不會記得這件事發生 神經病 我當然告爆他但法庭說公司撞車闖紅燈是完全合法的 還[*/scp-4703 非常感謝] 這家公司真的很有問題
+
+[[/div]]
+
+[[div class="blockquote"]]
++++++ A.D.
+★☆☆☆☆
+
+都說把貨交給地面一樓的接待處就行了你究竟是怎樣把卡車開到公司的地下12層
+
+[[/div]]
+
+[[div class="blockquote"]]
++++++ 真紀
+★☆☆☆☆
+
+既然現時卡車司機都要求高學歷為甚麼他不願意開進成大地下室 :(
+
+[[/div]]
+
+[[div class="blockquote"]]
++++++ 潘至遠
+★☆☆☆☆
+
+藥廠送過來的頭痛藥跟[*/scp-zh-158 頭痛藥]裝在同一個箱子但完全沒有貼標籤 我現在很頭痛
+
+[[/div]]
+
+[[div class="blockquote"]]
++++++ 匿名用戶
+★☆☆☆☆
+
+[*/welcome-to-delta-t 有時候效率高得在付款之後數秒就到] 嚇死人
+
+[[/div]]
+
+[[div class="blockquote"]]
++++++ 破碎之神教會
+★☆☆☆☆
+
+連零件也破碎了搞甚麼
+
+[[/div]]
+
+[[div class="blockquote"]]
++++++ Alex Thorley
+★☆☆☆☆
+
+拜託不要再找我駕車做甚麼[*/unreality-hub 狗毛蒜皮的事]我不是萬能的
+
+[[/div]]
+
+[[div class="blockquote"]]
++++++ 匿名用戶
+★☆☆☆☆
+
+東西似乎在倉庫[*/no-return-hub 悶太久壞了]
+
+[[/div]]
+
+[[div class="blockquote"]]
++++++ Harlow Genevieve
+★★★★★
+
+運來的[*/scp-6820 AKF-A]超完美 沒壞 沒爛 完全解決了家裏的蜥蜴禍患謝謝 我不知道為啥大家都給差評
+
+----
+##gray|**編輯：**
+它底部開始滲出酸液但這玩意插電的啊？##
+
+##gray|**編輯2：**
+喔喔啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊##
+
+[[size small]]用戶已重新評分為★☆☆☆☆[[/size]]
+[[/div]]
+
+[[div class="blockquote"]]
++++++ 匿名用戶
+★☆☆☆☆
+
+雖然現在提倡環保但把[*/the-foundation-eats-babies 嬰兒]當燃料也太超過吧
+
+[[/div]]
+
+[[div class="blockquote"]]
++++++ 酪梨
+★☆☆☆☆
+
+[*/scp-zh-148 酪梨]
+----
+[[>]]
+##darkgrey|**特殊貨運公共有限公司 回覆：**
+還真的沒有想法欸！到底要我們怎麼做？我們每單都這麼認真，為什麼要戳我們啊？沒差，你、你不戳那種嘻皮笑臉的卡車愛好者你們喜歡來戳我我是沒有甚麼意見，因為我們這家公司是很認真的企業阿，你們戳我沒差啊，凡是被我們記住的每一個客戶啊，只要有，只要你們敢去訂購任何一種貨品，我不小心在客戶名單裡面看到你，我們跟你講，現場一定撞到你非現實化。你也不用想在這DV我們，我，那個司機把貨運到你家之後，我們馬上衝到門前去把你媽的媽的撞到沒消思想圈概念。##
+[[/>]]
+
+
+[[/div]]
+
+[[div class="blockquote"]]
++++++ 匿名用戶
+★☆☆☆☆
+
+你們司機的駕駛技術是同行數一數二糟糕。2002那次在加拿大的[*/scp-5243 車禍]威力大得已經變成[*/scp-5956/offset/1 宇宙][*/scp-7243 常數]。
+
+[[/div]]
+
+[[div class="blockquote"]]
++++++ Penelope Panagiotopolous
+★☆☆☆☆
+
+我明明訂了[*/why-you-need-pataphysics 三本][*/narrativistics-and-you 超形上學][*/placeholder 概論]，怎麼運來OPUSCONFIDANT的[*https://scp-wiki.wikidot.com/resistile-decomm-attempt meta參考書]？退是退了，但現在倒是運了[*/scp-5500 右手打着石膏的同人作家]過來。唉。
+[[/div]]
+
+[[div class="blockquote"]]
++++++ 匿名用戶
+★☆☆☆☆
+
+這家公司的貨運分級很奇怪，Safe我知道是安全貨物可以很快送到，但Euclid跟Keter又是啥？[*/esoteric-classes-complete-list 分級名稱]奇奇怪怪的，我之前訂的地毯「為了安全起見，貨物分為Hiemal級，並與無關的貨物一併運送。無法退貨」。現在我家裏多了一套被鬼附的雕像。幹你娘。
+
+[[/div]]
+
+[[div class="blockquote"]]
++++++ 匿名用戶
+★☆☆☆☆
+
+現在的物流公司不會物流。它們只懂得[刪減貨物內容]，[[span class="ruby"]]航空送貨分類系統[[span class="rt"]]Aero-delivery Classification System[[/span]][[/span]]，[*/amnestic-orientation-manual 藥][*/updated-amnestics-guide 後][*/scp-5763 駕][*/scp-6478 駛]，[*/scp-4755 當卡車之神]，[*/siabhub 搞甲]，還有[*/list-of-standard-cover-stories 說謊]。
+
+[[/div]]
+
+[[div class="blockquote"]]
++++++ bluntfiend
+★☆☆☆☆
+
+似乎經常將[*/system:page-tags/tag/反大麻玩家#pages 我們]跟[*/system:page-tags/tag/wondertainment博士#pages Wondertainment博士]和Funtastic教授的退件搞混
+
+[[/div]]
+
+[[div class="blockquote"]]
++++++ ##green|來自無名之森的網絡使用者##
+★☆☆☆☆
+
+我知道這裏的[*/taboo 地址]很混亂但把包裹放在隨便一個樹丫也太隨便吧
+
+[[/div]]
+
+[[div class="blockquote"]]
++++++ 寒清嚳
+★☆☆☆☆
+
+我受夠這敘事了只是[*https://steamdb.info/app/227300/ 歐洲卡車模擬器2特價]而已就這麼輕易觸發CK級情景 
+然後為甚麼我被派到英國送貨
+@@ @@
+@@ @@
+= [[size x-small]]##red|此評論被系統標記為無關##[[/size]]
+[[/div]]
+
+@@ @@
+@@ @@
+[[div style="height: 10px; border-radius: 10px; background-color: rgb(163, 53, 69);"]]
+[[/div]]
+
+= 第 1 頁@@   @@__1__ [# 2] [# 3] ... [# 555]@@            @@1~[# 20]
