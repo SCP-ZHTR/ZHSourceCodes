@@ -1,0 +1,32 @@
+[[include :scp-zh-tr:info:start]]
+[[=]]
+**作者：[[*user samscript]]**
+**篇名：SCP-ZH-986 - 奧祕元素方塊：繁中地下城傳奇**
+
+**致謝**
+感謝 [[*user dr v valentine]] 的[[[summer-contest-2024|2024暑期競賽頁]]]提供了絕佳的 CSS 模板資源 
+感謝 [[*user kikunai]]、[[*user pao mian]] 拯救我的 CSS 魔法
+感謝 [[*user tostren]]、[[*user grizzlybr]]、[[*user ursamerak]]、[[*user hector-zh-tr]]、[[*user tingtangting]]、[[*user yongzun]]、[[*user kikunai]] 提供原創角色設定參考，以及 [[*user abyssdream]] 提供段落情節發想
+
+**圖片授權**
+版頭元素圖片來自 [[*user dr v valentine]] 並應以 CC BY-SA 3.0 授權使用
+
+**閱讀提示**
+電腦版閱讀視覺效果優於手機
+建議將電腦螢幕放大到 150% 以符合全版模式
+如果讀不完可以只讀灰框外的字，或直接跳到底部
+@@ @@
+-----
+@@ @@
+本文獻給舊時代的奠基者，以及新時代的奮鬥者們。
+
+參與 [[[summer-contest-2024|2024 年夏季競賽：《元素》]]]
+使用元素：風、火、電
+@@ @@
+[[/=]]
+[[include :scp-zh-tr:info:end]]
+
+[[module ListPages category="fragment" parent="." limit="1" order="name" offset="@URL|0"]]
+
+%%content%%
+[[/module]]
