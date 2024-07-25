@@ -414,10 +414,10 @@ K級情景是指對於常態或現實有著劇烈影響的一類假想性情景�
 **故事以及其他文章：**[[[In The Clutches Of Life]]], [[[omega-k|ΩK]]], [[[societal-census-programme| Excerpts From The Societal Census Programme ΩK-Class Report]]], [[[surgical-identity-perpetuation|GRANT REQUEST FOR THE PERFECTION OF BRAIN TRANSPLANTS FOR IDENTITY PERPETUATION AS TREATMENT FOR AGE-IMPAIRED IMMORTALITY]]], [[[hypnotraline|'Hypnotraline' (TR7K2/2UD9X/53GN8)]]], [[[With The Reaper On Retirement]]], [[[ii tab po c h20 qhs prn pain]]], [[[the-foundation-wants-a-robot-army|Tales Of The Ethics Committee: 5 Reasons The Foundation Wants A Robot Army]]], [[[the-doctor-s-dilemma|The Doctor's Dilemma]]], [[[project-damn-oh-fuck|Project Damnerung]]]
 [[/tab]]
 [[tab ED-K*]]
-**情景：ED-K 級「遺忘之河」情景**
+**情景：ED-K 級「忘川」情景**
 **中心頁：**[[[amnesticization|團隊「Fudged about it(忽悠它)」中心頁]]]，是[[[ad astra per aspera hub|星旅坎坷世界線]]]的一部分（[[[http://www.scp-wiki.net/system:page-tags/tag/ad-astra#pages|標籤]]]）
 **出現次數：**2 SCPs, 4 故事, 2 其他
-**定義：**大量ED-K 遺忘之河事件的發生對人類社會產生顯著的負面影響，並導致公眾意識到SCP-3848的現象。
+**定義：**大量ED-K 忘川事件的發生對人類社會產生顯著的負面影響，並導致公眾意識到SCP-3848的現象。
 **SCPs：**[[[SCP-3484]]], [[[SCP-3848]]]
 **故事以及其他文章：**[[[Excerpt from The Astrolabe Institute Journal]]], [[[schulman-ny-programmable-mnestic-device-ac34d-nc77q-95dcs|'Schulman-NY Programmable Mnestic Device' (AC34D/NC77Q/95DCS)]]], [[[Paperpushing]]], [[[that-buzzing-behind-your-eye|Headache]]], [[[when-the-time-comes-i-do-not-want-to-be-forgotten|Oceanus, Father to All]]], [[[25-12-2047|25/12/2047]]]
 [[/tab]]
