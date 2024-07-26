@@ -726,10 +726,20 @@ ZH分部第一篇001提案，「之冊」的故事。
 
 [[=]]
 -----
-[[module CountPages tags="+scp +原創 -已解明 -搞笑"]]
+[[module CountPages tags="+scp +原創 -已解明 -搞笑 -001提案"]]
 +* 繁中系列一當前進度
 +* %%total%%/999
-**（不含EX與J系列）**
+**（不含 EX、J 與 001 提案）**
+[[/module]]
+-----
+[[module CountPages tags="+scp +原創 +001提案"]]
++++* ##32cd87|ZH-001 提案數量：##%%total%%
+[[/module]]
+[[module CountPages tags="+scp +原創 +搞笑"]]
++++* ##32cd87|J 系列數量：##%%total%%
+[[/module]]
+[[module CountPages tags="+scp +原創 +已解明"]]
++++* ##32cd87|EX 系列數量：##%%total%%
 [[/module]]
 -----
 [[/=]]
