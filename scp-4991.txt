@@ -115,11 +115,11 @@
 |page=scp-4991[!-- url of your page on the scp wiki --]
 |authorPage=https://scp-wiki.wikidot.com/westrinsauthorpage[!-- link to your author page --]
 |comments=
-= **SCP-4991** - //So this is how the world ends. Not with a bang, but with a shitpost.//
+= **SCP-4991** - //>所以世界就是這麼終結的。不是伴隨一聲巨響，而是伴隨一則垃圾貼文。//
 
 -----
 
-You will become their nests.
+你將成為牠們的巢穴。
 
 ]]
 
