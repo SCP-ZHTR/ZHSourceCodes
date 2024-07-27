@@ -1,0 +1,745 @@
+[[module CSS]]
+/* 4CHAN */
+.chan.thread-container {
+  background-color: #FFFFEE;
+  padding: 5px;
+  font-family: arial,helvetica,sans-serif;
+  color: #872737;
+  overflow: hidden;
+  font-size: 1.1em;
+}
+.chan.blue-container {
+  background-color: #d6daf0;
+  padding: 5px;
+  font-family: arial,helvetica,sans-serif;
+  color: #000;
+  display: table;
+  margin: 0 auto;
+  overflow: hidden;
+}
+.chan.blue-container .post-content {
+  margin-bottom: 0;
+}
+ 
+.chan .deleted-icon {
+  color: #FF0000;
+  background-color: #E3E3E3;
+  border: 1px solid #383838;
+  padding: 0 2px;
+  font-weight: bold;
+}
+ 
+.chan .post-content {
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 40px;
+  margin-inline-end: 40px;
+}
+.chan .summary {
+  color: #707070;
+  margin-top: 10px;
+}
+.chan .reply-container {
+  display: table;
+}
+.chan .reply-arrows {
+  color: #E0BFB7;
+  float: left;
+  margin-right: 2px;
+  margin-top: 9px;
+  margin-left: 2px;
+}
+.chan .reply {
+  background-color: #F0E0D6;
+  border: 1px solid #D9BFB7;
+  border-left: none;
+  border-top: none;
+  display: table;
+  padding: 5px;
+  margin: 4px 0;
+}
+ 
+.chan img {
+  float: left;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 3px;
+  margin-bottom: 5px;
+}
+.chan .chan-file > p,
+.chan .post-info > p,
+.chan .reply-arrows > p,
+.chan .summary > p,
+.chan.blue-container .post-content > p {
+  margin: 0;
+}
+.chan .image-container {
+  padding: 0;
+}
+
+@media (max-width: 479px) {
+  .chan .reply-arrows {
+    display: none;
+  }
+  .chan .post-content {
+    margin: 0;
+  }
+  .chan .image-container {
+    text-align: center;
+  }
+}
+
+/* REDDIT */
+.reddit-post{
+    margin: .43em;
+    padding: 0 .85em;
+
+    background-color: #fcfcfb;
+    border: 1px solid #b5b3ac;
+
+    font-family: verdana,arial,sans-serif;
+    overflow: hidden;
+}
+[[/module]]
+
+[[include info:start]]
+原文：[https://scp-wiki.wikidot.com/scp-4991 SCP-4991] >所以世界就是這麼終結的。不是伴隨一聲巨響，而是伴隨一則垃圾貼文
+作者：[[*user fishingenthusiast]]
+譯者：[[*user Red phosphorus]]
+[[include info:end]]
+
+
+[[include theme:black-highlighter-theme]]
+[[include :scp-wiki:component:info-ayers
+|lang=en[!-- EN/RU/KO/CN/FR/PL/ES/TH/JP/DE/IT/UA/PTBR --]
+|page=scp-4991[!-- url of your page on the scp wiki --]
+|authorPage=https://scp-wiki.wikidot.com/westrinsauthorpage[!-- link to your author page --]
+|comments=
+= **SCP-4991** - //So this is how the world ends. Not with a bang, but with a shitpost.//
+
+-----
+
+You will become their nests.
+
+]]
+
+@@ @@
+
+@@ @@
+
+@@ @@
+
+@@ @@
+
+[[include :scp-zh-tr:component:object-warning-box-source
+|bg-image=https://upload.wikimedia.org/wikipedia/commons/e/ec/SCP_Foundation_%28emblem%29.svg
+|bg-opacity=0.15
+|text-top=**根據監督者議會的命令**
+|text-bottom=以下檔案描述已無效化之異常。根據O5-1的命令，禁止未經授權的訪問。
+|object-number=4991
+]]
+
+@@ @@
+
+@@ @@
+
+@@ @@
+
+[[include :scp-zh-tr:component:anomaly-class-bar-source-alt
+|item-number=4991
+|clearance=4
+|container-class=neutralized
+|disruption-class=filler
+|risk-class=filler
+]]
+----
+ 
+ 
+**特殊收容措施：**所有受SCP-4991影響之社群網站已完全刪除該事件的紀錄。一場有關ARG(另類實境遊戲)的掩蓋故事已散佈，以防止該事件的任何證據留存。
+ 
+**描述：**SCP-4991是指介於2016年4月7日至2016年4月9日的一段期間。當時主要社群網站如4chan、Reddit、Tumblr及Twitter開始建立提及到不存在事件的貼文。在此期間，用戶遭遇到阻礙他們發布貼文的錯誤。然而所有在此期間建立的貼文均由現有的帳戶發布。
+ 
+SCP-4991顯現兩天後，所有異常活動均已停止，用戶可正常地與網站互動。O5議會以11比1的投票結果，將SCP-4991重新分類為無效化，並制定了目前的收容措施。自事件發生以來，尚未檢測到類似於SCP-4991的異常活動。
+ 
+[[=]]
+**附錄 4991.1**
+[[/=]]
+----
+SCP-4991於4月7日清晨被發現，此前基金會特工收到警報稱大多數社群網站無法訪問，且用戶回報網站上的貼文似乎不是由他們發布的。根據[[span class="ruby"]]聯合議會[[span class="rt"]]Council of the United[[/span]][[/span]]的命令，所有社群網站皆被關閉，並在SCP-4991消失後釋放了病毒性K級記憶刪除劑。
+ 
+以下是SCP-4991期間發布的貼文範例。
+ 
+----
+ 
+ 
+[[collapsible show="▼ Twitter紀錄" hide="▲ 他們將進化"]]
+[[div style="background: url(/local--files/experimental-2-no-tocar/archivelogobackground.png) center top no-repeat ; float: center; border: grey 4px; width: 370px; padding: 5px; margin: 10px; background-color: light gray; box-shadow: 2px 2px 2px 2px rgba(0,0,0,.1);"]]
+[[span style="float:left; margin-left:5px; margin-top:12px; background-color: #ffffff; padding: 0px 10px;"]]
+[[/span]]
+[[size 1.5em]] ##grey| Donald J. Trump[[footnote]]譯註:唐納·約翰·川普，美國第45任總統。[[/footnote]] @realDonaldTrump ## [[/size]]
+@@ @@
+@@ @@
+[[size 1.5em]] ##black|Moor退出了協議。好像「世界末日來臨」時，他開始變得有點坐立不安。難道地球對你來說還不夠好嗎?## [[/size]]
+@@ @@
+* [[size .8em]] ##grey|轉推## [[/size]][[size 1.1em]] ##purple| 19K## [[/size]]
+* [[size .8em]] ##grey|喜歡## [[/size]][[size 1.1em]] ##purple| 105K## [[/size]]
+@@ @@
+[[size .8em]] ##grey|2016年4月7日 - 美國，紐約## [[/size]]
+ 
+[[/div]]
+ 
+[[div style="background: url(/local--files/experimental-2-no-tocar/archivelogobackground.png) center top no-repeat ; float: center; border: grey 4px; width: 370px; padding: 5px; margin: 10px; background-color: light gray; box-shadow: 2px 2px 2px 2px rgba(0,0,0,.1);"]]
+[[span style="float:left; margin-left:5px; margin-top:12px; background-color: #ffffff; padding: 0px 10px;"]]
+[[/span]]
+[[size 1.5em]] ##grey| Deer College[[footnote]]譯註:鹿學院，關注組織之一。[[/footnote]]## [[/size]]
+[[size 1.5em]] ##grey|@deercollege## [[/size]]
+@@ @@
+@@ @@
+[[size 1.5em]] ##black|建議當地的小鹿們暫時**不要**使用昆蟲奧術。另外，fae相關區域的入口已關閉以進行維護。## [[/size]]
+@@ @@
+* [[size .8em]] ##grey|轉推## [[/size]][[size 1.1em]] ##purple| 11## [[/size]]
+* [[size .8em]] ##grey|喜歡## [[/size]][[size 1.1em]] ##purple| 93## [[/size]]
+@@ @@
+[[size .8em]] ##grey|2016年4月7日 - 三波特蘭## [[/size]]
+ 
+[[/div]]
+ 
+[[div style="background: url(/local--files/experimental-2-no-tocar/archivelogobackground.png) center top no-repeat ; float: center; border: grey 4px; width: 370px; padding: 5px; margin: 10px; background-color: light gray; box-shadow: 2px 2px 2px 2px rgba(0,0,0,.1);"]]
+[[span style="float:left; margin-left:5px; margin-top:12px; background-color: #ffffff; padding: 0px 10px;"]]
+[[/span]]
+[[size 1.5em]] ##grey| WorldHealthMinistry[[footnote]]譯註:世界衛生部。[[/footnote]] @healthministryearth## [[/size]]
+@@ @@
+@@ @@
+[[size 1.5em]] ##black|這是對所有北美洲居民發出的警告。不要外出。如果你曾在室外呼吸，請致電毒物控制中心。## [[/size]]
+@@ @@
+* [[size .8em]] ##grey|轉推## [[/size]][[size 1.1em]] ##purple| 259## [[/size]]
+* [[size .8em]] ##grey|喜歡## [[/size]][[size 1.1em]] ##purple| 1,273## [[/size]]
+@@ @@
+[[size .8em]] ##grey|2016年4月7日 - 瑞典## [[/size]]
+ 
+ 
+[[/div]]
+ 
+@@ @@
+ 
+[[div style="background: url(/local--files/experimental-2-no-tocar/archivelogobackground.png) center top no-repeat ; float: center; border: grey 4px; width: 370px; padding: 5px; margin: 10px; background-color: light gray; box-shadow: 2px 2px 2px 2px rgba(0,0,0,.1);"]]
+[[span style="float:left; margin-left:5px; margin-top:12px; background-color: #ffffff; padding: 0px 10px;"]]
+[[/span]]
+[[size 1.5em]] ##grey|Faeowynn Wilson[[footnote]]譯註:威爾遜生物應對組相關人物。[[/footnote]] ## [[/size]]
+[[size 1.5em]] ##grey|@FaeWWS## [[/size]]
+@@ @@
+@@ @@
+[[size 1.5em]] ##black|看來我們似乎走到盡頭了。我希望每個人都能保護自己。如果有任何人需要聊一聊，只要我還活著，我的私人通信都會保持開啟。## [[/size]]
+@@ @@
+* [[size .8em]] ##grey|轉推## [[/size]][[size 1.1em]] ##purple| 22## [[/size]]
+* [[size .8em]] ##grey|喜歡## [[/size]][[size 1.1em]] ##purple| 10K## [[/size]]
+@@ @@
+[[size .8em]] ##grey|2016年4月8日 - 美國，俄勒岡## [[/size]]
+ 
+ 
+[[/div]]
+ 
+ 
+@@ @@
+ 
+[[div style="background: url(/local--files/experimental-2-no-tocar/archivelogobackground.png) center top no-repeat ; float: center; border: grey 4px; width: 370px; padding: 5px; margin: 10px; background-color: light gray; box-shadow: 2px 2px 2px 2px rgba(0,0,0,.1);"]]
+[[span style="float:left; margin-left:5px; margin-top:12px; background-color: #ffffff; padding: 0px 10px;"]]
+[[/span]]
+[[size 1.5em]] ##grey|  방탄소년단[[footnote]]譯註:防彈少年團，韓國知名男團。[[/footnote]]  ## [[/size]]
+[[size 1.5em]] ##grey| @BTS_twt ## [[/size]]
+@@ @@
+@@ @@
+[[size 1.5em]] ##black|숨을 못 쉬겠어[[footnote]]譯註:此句直譯為「我無法呼吸」。[[/footnote]]## [[/size]]
+@@ @@
+* [[size .8em]] ##grey|轉推## [[/size]][[size 1.1em]] ##purple| 756K## [[/size]]
+* [[size .8em]] ##grey|喜歡## [[/size]][[size 1.1em]] ##purple| 2.1M## [[/size]]
+@@ @@
+[[size .8em]] ##grey|2016年4月8日 - 韓國## [[/size]]
+ 
+ 
+[[/div]]
+ 
+@@ @@
+ 
+[[div style="background: url(/local--files/experimental-2-no-tocar/archivelogobackground.png) center top no-repeat ; float: center; border: grey 4px; width: 370px; padding: 5px; margin: 10px; background-color: light gray; box-shadow: 2px 2px 2px 2px rgba(0,0,0,.1);"]]
+[[span style="float:left; margin-left:5px; margin-top:12px; background-color: #ffffff; padding: 0px 10px;"]]
+[[/span]]
+[[size 1.5em]] ##grey|me an intellectual## [[/size]]
+[[size 1.5em]] ##grey|@fanboy431## [[/size]]
+@@ @@
+@@ @@
+[[size 1.5em]] ##black|我們是不是忽視了MC&D正在以他媽的4百萬美元價格把反昆蟲掩體出售這個事實? 怎麼能接受這種狗屁倒灶的事?## [[/size]]
+@@ @@
+* [[size .8em]] ##grey|轉推## [[/size]][[size 1.1em]] ##purple| 0## [[/size]]
+* [[size .8em]] ##grey|喜歡## [[/size]][[size 1.1em]] ##purple| 39## [[/size]]
+@@ @@
+[[size .8em]] ##grey|2016年4月8日 - 美國，紐約## [[/size]]
+ 
+[[/div]]
+ 
+@@ @@
+ 
+[[div style="background: url(/local--files/experimental-2-no-tocar/archivelogobackground.png) center top no-repeat ; float: center; border: grey 4px; width: 370px; padding: 5px; margin: 10px; background-color: light gray; box-shadow: 2px 2px 2px 2px rgba(0,0,0,.1);"]]
+[[span style="float:left; margin-left:5px; margin-top:12px; background-color: #ffffff; padding: 0px 10px;"]]
+[[/span]]
+[[size 1.5em]] ##grey|TRAVIS SCOTT[[footnote]]譯註:崔維斯·史考特，美國饒舌歌手、詞曲作家與唱片製作人。[[/footnote]]## [[/size]]
+[[size 1.5em]] ##grey|@trvisXX## [[/size]]
+@@ @@
+@@ @@
+[[size 1.5em]] ##black|無論如何一切都在淚水中結束## [[/size]]
+@@ @@
+* [[size .8em]] ##grey|轉推## [[/size]][[size 1.1em]] ##purple| 15K## [[/size]]
+* [[size .8em]] ##grey|喜歡## [[/size]][[size 1.1em]] ##purple| 1.5M## [[/size]]
+@@ @@
+[[size .8em]] ##grey|2016年4月9日 - 美國，加利福尼亞## [[/size]]
+ 
+[[/div]]
+ 
+@@ @@
+ 
+ 
+[[/collapsible]]
+ 
+ 
+----
+ 
+ 
+[[collapsible show="▼ Reddit記錄" hide="▲ 他們將適應"]]
+ 
+
+[[div class="reddit-post"]]
+
+[[div style="float: right; width: 93.5%;"]]
+
+[[span style="color: #551a8b; font-size: medium; font-weight: normal; margin-bottom: 1px;"]] Kolt Moor，SCP基金會的「O5-1」，退出安全保護計畫。 [[/span]]
+[[span style="font-size: x-small;"]] ##888|9小時前由## ##369|Memesalot##上傳[[/span]]
+[[span style="color: #888; font-size: x-small; font-weight: bold; padding: 1px 0;"]] 191則評論@@   @@分享@@   @@保存@@   @@隱藏@@   @@##a79128|give gold##@@   @@回報@@   @@多重發佈[[/span]]
+
+[[/div]]
+
+[[span style="text-align: center; color: #B6B6B6; font-weight: bold; font-size: large;"]] ⬆ [[/span]]
+[[span style="text-align: center; color: #B6B6B6; font-weight: bold; font-size: small;"]] 10.1K [[/span]]
+[[span style="text-align: center; color: #B6B6B6; font-weight: bold; font-size: large;"]] ⬇ [[/span]]
+
+[[/div]]
+
+
+
+
+[[div class="reddit-post"]]
+
+[[div style="float: right; width: 93.5%;"]]
+
+[[span style="display: inline-block; font-size: x-small; height: .67em;"]] [[span style="padding: 1px; color: #369;"]] [–] [[/span]] [[span style="font-weight: bold; margin-right: .4em; color: #369;"]] ArkofLength [[/span]] [[span style="color: #888;"]] 2031分 1天前  [[/span]] [[/span]]
+
+[[span style="font-size: small; font-weight: 400; color: #222;"]] 他們到底在幹嘛? 我們他媽的要死在這裡了，整個中東也崩塌進海裡了，而我們唯一的希望就他媽的消失了? 操你媽的。 [[/span]]
+
+[[/div]]
+
+[[span style="display: inline-block; text-align: center; color: #B6B6B6; font-weight: bold; font-size: large; height: 19px;"]] ⬆ [[/span]]
+[[span style="display: inline-block; text-align: center; color: #B6B6B6; font-weight: bold; font-size: large; height: 19px;"]] ⬇ [[/span]]
+
+[[/div]]
+
+
+
+[[div class="reddit-post" style="margin-left: 2em;"]]
+
+[[div style="float: right; width: 93.5%;"]]
+
+[[span style="display: inline-block; font-size: x-small; height: .67em;"]] [[span style="padding: 1px; color: #369;"]] [–] [[/span]] [[span style="font-weight: bold; margin-right: .4em; color: #369;"]] greeywolf [[/span]] [[span style="color: #888;"]] 30分 1天前 [[/span]] [[/span]]
+
+[[span style="font-size: small; font-weight: 400; color: #222;"]] 歡迎來到地球，現在請你去死吧。[[/span]]
+
+[[span style="font-size: small; font-weight: 400; color: #222;"]] -生命的造物主，或許吧[[/span]]
+
+[[/div]]
+
+[[span style="display: inline-block; text-align: center; color: #B6B6B6; font-weight: bold; font-size: large; height: 19px;"]] ⬆ [[/span]]
+[[span style="display: inline-block; text-align: center; color: #B6B6B6; font-weight: bold; font-size: large; height: 19px;"]] ⬇ [[/span]]
+
+[[/div]]
+
+
+
+[[div class="reddit-post" style="margin-left: 4em;"]]
+
+[[div style="float: right; width: 90%;"]]
+
+[[span style="display: inline-block; font-size: x-small; height: .67em;"]] [[span style="padding: 1px; color: #369;"]] [–] [[/span]] [[span style="font-weight: bold; margin-right: .4em; color: #369;"]] Heynowyouranallstar [[/span]] [[span style="color: #888;"]] 1001分 11小時前 [[/span]] [[/span]]
+
+[[span style="font-size: small; font-weight: 400; color: #222;"]] 笑死。不，今天我學到這世上是不可能有上帝的，所以我們仍然沒事。 [[/span]]
+
+[[/div]]
+
+[[span style="display: inline-block; text-align: center; color: #B6B6B6; font-weight: bold; font-size: large; height: 19px;"]] ⬆ [[/span]]
+[[span style="display: inline-block; text-align: center; color: #B6B6B6; font-weight: bold; font-size: large; height: 19px;"]] ⬇ [[/span]]
+
+[[/div]]
+
+[[div class="reddit-post" style="margin-left: 6em;"]]
+
+[[div style="float: right; width: 93.5%;"]]
+
+[[span style="display: inline-block; font-size: x-small; height: .67em;"]] [[span style="padding: 1px; color: #369;"]] [–] [[/span]] [[span style="font-weight: bold; margin-right: .4em; color: #369;"]] Sphericalpedistal [[/span]] [[span style="color: #888;"]] 330分 7小時前[[/span]] [[/span]]
+
+[[span style="font-size: small; font-weight: 400; color: #222;"]] 幸運的是基金會此時已經收容上帝了。[[/span]]
+
+[[/div]]
+
+[[span style="display: inline-block; text-align: center; color: #B6B6B6; font-weight: bold; font-size: large; height: 19px;"]] ⬆ [[/span]]
+[[span style="display: inline-block; text-align: center; color: #B6B6B6; font-weight: bold; font-size: large; height: 19px;"]] ⬇ [[/span]]
+
+[[/div]]
+
+
+
+[[div class="reddit-post" style="margin-left: 8em;"]]
+
+[[div style="float: right; width: 93.5%;"]]
+
+[[span style="display: inline-block; font-size: x-small; height: .67em;"]] [[span style="padding: 1px; color: #369;"]] [–] [[/span]] [[span style="font-weight: bold; margin-right: .4em; color: #369;"]] etymologynerd [[/span]] [[span style="color: #888;"]] 23分 7小時前 [[/span]] [[/span]]
+
+[[span style="font-size: small; font-weight: 400; color: #222;"]] 如果他們真的做到了，他們應該要他媽的把我們從這地獄中救出來[[/span]]
+
+[[/div]]
+
+[[span style="display: inline-block; text-align: center; color: #B6B6B6; font-weight: bold; font-size: large; height: 19px;"]] ⬆ [[/span]]
+[[span style="display: inline-block; text-align: center; color: #B6B6B6; font-weight: bold; font-size: large; height: 19px;"]] ⬇ [[/span]]
+
+[[/div]]
+
+
+
+[[div class="reddit-post"]]
+
+[[div style="float: right; width: 93.5%;"]]
+
+[[span style="display: inline-block; font-size: x-small; height: .67em;"]] [[span style="padding: 1px; color: #369;"]] [–] [[/span]] [[span style="font-weight: bold; margin-right: .4em; color: #369;"]] LimpFirebird [[/span]] [[span style="color: #888;"]] 2705分 1天前 [[/span]] [[/span]]
+
+[[span style="font-size: small; font-weight: 400; color: #222;"]] 基金會一直以來都只在乎金錢，所以我並不感到意外。安全保護計畫會讓他們損失一大筆錢，以至於可能會讓他們永久歇業。看來他們現在有一種「我寧死也不想付這筆錢」的心態，除非我們漏掉了什麼。[[/span]]
+
+[[/div]]
+
+[[span style="display: inline-block; text-align: center; color: #B6B6B6; font-weight: bold; font-size: large; height: 19px;"]] ⬆ [[/span]]
+[[span style="display: inline-block; text-align: center; color: #B6B6B6; font-weight: bold; font-size: large; height: 19px;"]] ⬇ [[/span]]
+
+[[/div]]
+
+
+[[div class="reddit-post" style="margin-left: 2em;"]]
+
+[[div style="float: right; width: 93.5%;"]]
+
+[[span style="display: inline-block; font-size: x-small; height: .67em;"]] [[span style="padding: 1px; color: #369;"]] [–] [[/span]] [[span style="font-weight: bold; margin-right: .4em; color: #369;"]] MoonboundShibe [[/span]] [[span style="color: #888;"]] 2705分 1天前 [[/span]] [[/span]]
+
+[[span style="font-size: small; font-weight: 400; color: #222;"]] 我是有些生氣，但我想我能理解他們沒有這樣做的原因。我能99%肯定是因為埃及最近發生的暴動，安全保護計畫可能會摧毀中東地區絕大多數的村莊，導致這件事可能弊大於利，大概吧。[[/span]]
+
+[[span style="font-size: small; font-weight: 400; color: #222;"]] 這樣就說得通了，但這仍然是個糟糕透頂的行為。[[/span]]
+
+[[/div]]
+
+[[span style="display: inline-block; text-align: center; color: #B6B6B6; font-weight: bold; font-size: large; height: 19px;"]] ⬆ [[/span]]
+[[span style="display: inline-block; text-align: center; color: #B6B6B6; font-weight: bold; font-size: large; height: 19px;"]] ⬇ [[/span]]
+
+[[/div]]
+
+@@ @@
+------
+
+@@ @@
+
+[[div class="reddit-post"]]
+
+[[div style="float: right; width: 93.5%;"]]
+
+[[span style="color: #551a8b; font-size: medium; font-weight: normal; margin-bottom: 1px;"]] 「安全保護計畫」和SCP基金會到底出了什麼事? [[/span]]
+[[span style="font-size: x-small;"]] ##888|49分鐘前由## ##369|Plaguebub##上傳[[/span]]
+[[span style="color: #888; font-size: x-small; font-weight: bold; padding: 1px 0;"]] 47則評論 @@   @@分享@@   @@保存@@   @@隱藏@@   @@##a79128|give gold##@@   @@回報@@   @@多重發佈 [[/span]]
+
+[[/div]]
+
+[[span style="text-align: center; color: #B6B6B6; font-weight: bold; font-size: large;"]] ⬆ [[/span]]
+[[span style="text-align: center; color:#B6B6B6; font-weight: bold; font-size: small;"]] 983 [[/span]]
+[[span style="text-align: center; color: #B6B6B6; font-weight: bold; font-size: large;"]] ⬇ [[/span]]
+
+[[/div]]
+
+
+
+[[div class="reddit-post"]]
+
+[[div style="float: right; width: 93.5%;"]]
+
+[[span style="display: inline-block; font-size: x-small; height: .67em;"]] [[span style="padding: 1px; color: #369;"]] [–] [[/span]] [[span style="font-weight: bold; margin-right: .4em; color: #369;"]] bigFATbirbs [[/span]] [[span style="color: #888;"]] 132分 39分鐘前 [[/span]] [[/span]]
+
+[[span style="font-size: small; font-weight: 400; color: #222;"]] 從根本上來說，這是一個美國政府和SCP基金會之間的協議，旨在減少目前到處亂飛的蟲子數量。這需要來自幾個大國的資金，並包含部署幾種專門設計的殺蟲劑來大量殺死這些蟲子。這計畫需要SCP基金會投入其大約90%的預算，因為這些殺蟲劑的製作難度非常高。[[/span]]
+
+[[span style="font-size: small; font-weight: 400; color: #222;"]] 出於某種原因，SCP基金會在幾天前退出協議後，就徹底消失了。所有與他們有關的人也都完全消失了，他們所有的站點都空無一物。殺蟲劑的生產被擱置了，現在蟲子的數量增加了十倍。[[/span]]
+
+[[/div]]
+
+[[span style="display: inline-block; text-align: center; color: #B6B6B6; font-weight: bold; font-size: large; height: 19px;"]] ⬆ [[/span]]
+[[span style="display: inline-block; text-align: center; color: #B6B6B6; font-weight: bold; font-size: large; height: 19px;"]] ⬇ [[/span]]
+
+[[/div]]
+
+@@ @@
+
+------
+
+@@ @@
+[[div class="reddit-post"]]
+
+[[div style="float: right; width: 93.5%;"]]
+
+[[span style="color: #551a8b; font-size: medium; font-weight: normal; margin-bottom: 1px;"]] 看到一群美麗的鳥兒飛過我的小鎮![[/span]]
+[[span style="font-size: x-small;"]] ##888|12分鐘前由## ##369|Edwardscissortoes##上傳[[/span]]
+[[span style="color: #888; font-size: x-small; font-weight: bold; padding: 1px 0;"]] 47則評論@@   @@分享@@   @@保存@@   @@隱藏@@   @@##a79128|give gold##@@   @@回報@@   @@多重發佈[[/span]]
+
+[[image https://scp-sandbox-3.wdfiles.com/local--files/temppage/them.jpg]]
+
+[[/div]]
+
+[[span style="text-align: center; color: #B6B6B6; font-weight: bold; font-size: large;"]] ⬆ [[/span]]
+[[span style="text-align: center; color: #B6B6B6; font-weight: bold; font-size: small;"]] • [[/span]]
+[[span style="text-align: center; color: #B6B6B6; font-weight: bold; font-size: large;"]] ⬇ [[/span]]
+
+[[/div]]
+
+
+[[div class="reddit-post"]]
+
+[[div style="float: right; width: 93.5%;"]]
+
+[[span style="display: inline-block; font-size: x-small; height: .67em;"]] [[span style="padding: 1px; color: #369;"]] [–] [[/span]] [[span style="font-weight: bold; margin-right: .4em; color: #369;"]] the_ok_hippo [[/span]] [[span style="color: #888;"]] [分數已隱藏] 10分鐘前[[/span]] [[/span]]
+
+[[span style="font-size: small; font-weight: 400; color: #222;"]]老兄，那些可不是鳥兒。[[/span]]
+
+
+
+[[/div]]
+
+[[span style="display: inline-block; text-align: center; color: #B6B6B6; font-weight: bold; font-size: large; height: 19px;"]] ⬆ [[/span]]
+[[span style="display: inline-block; text-align: center; color: #B6B6B6; font-weight: bold; font-size: large; height: 19px;"]] ⬇ [[/span]]
+
+[[/div]]
+
+@@ @@
+
+
+
+ 
+[[/collapsible]]
+
+------
+
+[[collapsible show="▼ Tumblr紀錄" hide="▲ 人類的思維如此狹隘"]]
+
+[[include :topia:tumblr-block head=-|user=anxiety2721|logo=https://scp-sandbox-3.wdfiles.com/local--files/temppage/Life.jpg]]
+[[include :topia:tumblr-block middle=-]]
+我設法抓住了其中一隻蟲子。不要讓牠們進到你嘴裡，牠們喜歡爬進去。
+
+事實上還滿容易就抓到牠們。我只是打開門拋出一張網子，然後就把牠帶進屋裡了
+
+[[include :topia:tumblr-block bottom=-|notes=53.615]]
+
+
+[[include :topia:tumblr-block head=-|user=explosions_in_the_sky|logo=https://scp-sandbox-3.wdfiles.com/local--files/temppage/logo.png]]
+[[include :topia:tumblr-block middle=-]]
+我在維吉尼亞州的愛德華茲維爾。我現在躲在我的地下室中。如果有人需要庇護，就來吧。 我有大約6個月份的糧食，和夠我們喝一年的水。為我們祈禱吧。
+
+[[include :topia:tumblr-block bottom=-|notes=1,618]]
+
+[[include :topia:tumblr-block head=-|user=thenextgreatamericanboy|logo=https://scp-sandbox-3.wdfiles.com/local--files/temppage/jokah.jpg]]
+[[include :topia:tumblr-block middle=-]]
+
+如果你出於某些原因必須外出，**蓋住你的嘴。**戴上圍巾，拉起你的衣領，保持嘴巴是蓋住的。
+
+
+[[include :topia:tumblr-block head=-|user=eyoomega|logo=https://scp-sandbox-3.wdfiles.com/local--files/temppage/spook.jpg]]
+[[include :topia:tumblr-block middle=-]]
+
+如果你不這樣做。就會死。
+
+[[include :topia:tumblr-block bottom=-|notes=8,437]]
+[[/div]]
+
+[[include :topia:tumblr-block head=-|user=anxiety2721|logo=https://scp-sandbox-3.wdfiles.com/local--files/temppage/Life.jpg]]
+[[include :topia:tumblr-block middle=-]]
+**不要去抓那些蟲 不要讓牠們進來**
+
+[[include :topia:tumblr-block bottom=-|notes=382]]
+
+
+[[include :topia:tumblr-block head=-|user=anotherblobg1|logo=https://scp-sandbox-3.wdfiles.com/local--files/temppage/pizz.jpg]]
+[[image https://scp-sandbox-3.wdfiles.com/local--files/temppage/thegang4.png]]
+[[include :topia:tumblr-block middle=-]]
+我真的好害怕。我不想死。
+
+[[include :topia:tumblr-block bottom=-|notes=3]]
+
+
+[[/div]]
+
+
+ 
+
+[[/collapsible]]
+ 
+----
+ 
+[[collapsible show="▼ 4chan紀錄" hide="▲ 我們的錯誤將成為那一天的誕生及死亡"]]
+
+[[div class="chan blue-container"]]
+[[div class="post-info"]]
+[[span class="deleted-icon"]]X[[/span]] {{檔案已刪除}} @@ @@ ##117743|**匿名**## 04/09/16(Sat)19:18:24 No.2485445 @@ @@ [##0000EE|Reply##] @@ @@ ##0000EE|▶##
+[[/div]]
+
+[[div class="post-content"]]
+你們有沒有覺得上帝痛恨祂的創造物?
+[[/div]]
+[[/div]]
+
+------
+
+[[div class="chan thread-container"]]
+
+[[div class="chan-file"]]
+File: ##0000EE|__1544380113869.png__## (152 KB, 398x397)
+[[/div]]
+
+[[f<image https://scp-sandbox-3.wdfiles.com/local--files/temppage/wojak.jpg width="230px"]]
+
+[[div class="post-info"]]
+##117743|**匿名**## 04/09/16(Sat)13:07:04 No.49760284
+[[/div]]
+
+[[div class="post-content"]]
+##789922|>做我自己##
+##789922|>是個戀屍癖，仍然活著##
+
+再會了 處子們
+[[/div]]
+
+[[div class="reply-container"]]
+[[div class="reply-arrows"]]
+@@>>@@
+[[/div]]
+
+[[div class="reply"]]
+[[div class="post-info"]]
+##117743|**匿名**## 04/09/16(Sat)13:15:20 No.49760463 ##000080|▶ __@@>>@@49760488__##
+[[/div]]
+
+[[div class="post-content"]]
+##000080|__@@>>@@49760284 (OP)__##
+即使在這真正的世界末日場景之中，像你這樣的混蛋依然層出不窮。真不敢置信。
+[[/div]]
+[[/div]]
+[[/div]]
+[[/div]]
+
+------
+
+[[div class="chan thread-container"]]
+
+[[div class="chan-file"]]
+File: ##0000EE|__IMG1403.jpg__## (17 KB, 480x320)
+[[/div]]
+
+[[f<image https://scp-sandbox-3.wdfiles.com/local--files/temppage/Redacted.png width="210px"]][[footnote]]譯註:圖中文字翻譯: [根據O5-1的命令，圖像已編輯][[/footnote]]
+[[div class="post-info"]]
+##117743|**匿名**## 04/09/16(Sat)22:03:05 No.786908250 @@ @@ [##0000EE|Reply##] @@ @@ ##0000EE|▶##
+[[/div]]
+
+[[div class="post-content"]]
+剛剛在樹林裡吊死了我朋友。我把他剖開，所有的蟲子都跑出來，開始湧向我們。反正我們很快就會死了。我不後悔。
+[[/div]]
+
+[[div class="summary"]]
+省略10則回覆。點擊此處查看。
+[[/div]]
+
+[[div class="reply-container"]]
+[[div class="reply-arrows"]]
+@@>>@@
+[[/div]]
+
+[[div class="reply"]]
+[[div class="post-info"]]
+##117743|**匿名**## 04/09/16(Sat)22:30:31 No.786909990 ##0000EE|▶##
+[[/div]]
+
+[[div class="post-content"]]
+##000080|__@@>>@@786909924__##
+我不得不殺了我妹妹。該死的蟲子襲擊了她，而她開始拿刀攻擊我們
+
+她殺了我爸爸，牠們立刻蜂擁而至，吃掉了屍體。
+我大概很快就會死了，牠們包圍我了
+
+有霧氣從蟲子體內冒了出來。我能感覺到牠們在摩擦我的皮膚。天啊好痛
+[[/div]]
+[[/div]]
+[[/div]]
+[[/div]]
+
+------
+
+[[div class="chan thread-container"]]
+[[div class="chan-file"]]
+File: ##0000EE|__8A0A11B7-6B90-4842-8A18-4(…).jpg__## (113 KB, 1446x708)
+[[/div]]
+
+[[f<image https://scp-sandbox-3.wdfiles.com/local--files/temppage/Horrid width="325px"]]
+[[div class="post-info"]]
+##117743|**匿名**## 04/09/16(Sat)22:50:32 No.786936603 @@ @@ [##0000EE|Reply##] @@ @@ ##0000EE|▶##
+[[/div]]
+
+[[div class="reply-container"]]
+[[div class="reply-arrows"]]
+@@>>@@
+[[/div]]
+
+[[div class="reply"]]
+[[div class="post-info"]]
+##117743|**匿名**## 04/09/16(Sat)23:22:25 No.786943497 ##0000EE|▶##
+[[/div]]
+
+[[div class="post-content"]]
+##000080|__@@>>@@786936603__##
+匿名你他媽的怎麼在外面?
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[div class="reply-container"]]
+[[div class="reply-arrows"]]
+@@>>@@
+[[/div]]
+
+[[div class="reply"]]
+[[div class="post-info"]]
+##117743|**匿名**## 04/09/16(Sat)13:15:20 No.78944962 ##0000EE|▶##
+[[/div]]
+
+[[div class="post-content"]]
+##000080|__@@>>@@786936603__##
+無知將會是人類的誕生及死亡
+
+yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy
+[[/div]]
+[[/div]]
+[[/div]]
+[[/div]]
+
+-------
+ 
+[[/collapsible]]
+
+@@ @@
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[SCP-4990]]] | SCP-4991 | [[[SCP-4992]]] >>
+[[/=]]
+[[/div]]
