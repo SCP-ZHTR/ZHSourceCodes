@@ -155,9 +155,9 @@ You will become their nests.
 ----
  
  
-**特殊收容措施：**所有受SCP-4991影響之社群網站已完全刪除該事件的紀錄。一場有關ARG(另類實境遊戲)的掩蓋故事已散佈，以防止該事件的任何證據留存。
+**特殊收容措施：** 所有受SCP-4991影響之社群網站已完全刪除該事件的紀錄。一場有關ARG（另類實境遊戲）的掩蓋故事已散佈，以防止該事件的任何證據留存。
  
-**描述：**SCP-4991是指介於2016年4月7日至2016年4月9日的一段期間。當時主要社群網站如4chan、Reddit、Tumblr及Twitter開始建立提及到不存在事件的貼文。在此期間，用戶遭遇到阻礙他們發布貼文的錯誤。然而所有在此期間建立的貼文均由現有的帳戶發布。
+**描述：** SCP-4991是指介於2016年4月7日至2016年4月9日的一段期間。當時主要社群網站如4chan、Reddit、Tumblr及Twitter開始建立提及到不存在事件的貼文。在此期間，用戶遭遇到阻礙他們發布貼文的錯誤。然而所有在此期間建立的貼文均由現有的帳戶發布。
  
 SCP-4991顯現兩天後，所有異常活動均已停止，用戶可正常地與網站互動。O5議會以11比1的投票結果，將SCP-4991重新分類為無效化，並制定了目前的收容措施。自事件發生以來，尚未檢測到類似於SCP-4991的異常活動。
  
@@ -176,7 +176,7 @@ SCP-4991於4月7日清晨被發現，此前基金會特工收到警報稱大多�
 [[div style="background: url(/local--files/experimental-2-no-tocar/archivelogobackground.png) center top no-repeat ; float: center; border: grey 4px; width: 370px; padding: 5px; margin: 10px; background-color: light gray; box-shadow: 2px 2px 2px 2px rgba(0,0,0,.1);"]]
 [[span style="float:left; margin-left:5px; margin-top:12px; background-color: #ffffff; padding: 0px 10px;"]]
 [[/span]]
-[[size 1.5em]] ##grey| Donald J. Trump[[footnote]]譯註:唐納·約翰·川普，美國第45任總統。[[/footnote]] @realDonaldTrump ## [[/size]]
+[[size 1.5em]] ##grey| Donald J. Trump[[footnote]]**譯註：** 唐納·約翰·川普，美國第45任總統。[[/footnote]] @realDonaldTrump ## [[/size]]
 @@ @@
 @@ @@
 [[size 1.5em]] ##black|Moor退出了協議。好像「世界末日來臨」時，他開始變得有點坐立不安。難道地球對你來說還不夠好嗎?## [[/size]]
@@ -191,7 +191,7 @@ SCP-4991於4月7日清晨被發現，此前基金會特工收到警報稱大多�
 [[div style="background: url(/local--files/experimental-2-no-tocar/archivelogobackground.png) center top no-repeat ; float: center; border: grey 4px; width: 370px; padding: 5px; margin: 10px; background-color: light gray; box-shadow: 2px 2px 2px 2px rgba(0,0,0,.1);"]]
 [[span style="float:left; margin-left:5px; margin-top:12px; background-color: #ffffff; padding: 0px 10px;"]]
 [[/span]]
-[[size 1.5em]] ##grey| Deer College[[footnote]]譯註:鹿學院，關注組織之一。[[/footnote]]## [[/size]]
+[[size 1.5em]] ##grey| Deer College[[footnote]]**譯註：** 鹿學院，關注組織之一。[[/footnote]]## [[/size]]
 [[size 1.5em]] ##grey|@deercollege## [[/size]]
 @@ @@
 @@ @@
@@ -207,7 +207,7 @@ SCP-4991於4月7日清晨被發現，此前基金會特工收到警報稱大多�
 [[div style="background: url(/local--files/experimental-2-no-tocar/archivelogobackground.png) center top no-repeat ; float: center; border: grey 4px; width: 370px; padding: 5px; margin: 10px; background-color: light gray; box-shadow: 2px 2px 2px 2px rgba(0,0,0,.1);"]]
 [[span style="float:left; margin-left:5px; margin-top:12px; background-color: #ffffff; padding: 0px 10px;"]]
 [[/span]]
-[[size 1.5em]] ##grey| WorldHealthMinistry[[footnote]]譯註:世界衛生部。[[/footnote]] @healthministryearth## [[/size]]
+[[size 1.5em]] ##grey| WorldHealthMinistry[[footnote]]**譯註：** 世界衛生部。[[/footnote]] @healthministryearth## [[/size]]
 @@ @@
 @@ @@
 [[size 1.5em]] ##black|這是對所有北美洲居民發出的警告。不要外出。如果你曾在室外呼吸，請致電毒物控制中心。## [[/size]]
@@ -225,7 +225,7 @@ SCP-4991於4月7日清晨被發現，此前基金會特工收到警報稱大多�
 [[div style="background: url(/local--files/experimental-2-no-tocar/archivelogobackground.png) center top no-repeat ; float: center; border: grey 4px; width: 370px; padding: 5px; margin: 10px; background-color: light gray; box-shadow: 2px 2px 2px 2px rgba(0,0,0,.1);"]]
 [[span style="float:left; margin-left:5px; margin-top:12px; background-color: #ffffff; padding: 0px 10px;"]]
 [[/span]]
-[[size 1.5em]] ##grey|Faeowynn Wilson[[footnote]]譯註:威爾遜生物應對組相關人物。[[/footnote]] ## [[/size]]
+[[size 1.5em]] ##grey|Faeowynn Wilson[[footnote]]**譯註：** 威爾遜生物應對組相關人物。[[/footnote]] ## [[/size]]
 [[size 1.5em]] ##grey|@FaeWWS## [[/size]]
 @@ @@
 @@ @@
@@ -245,11 +245,11 @@ SCP-4991於4月7日清晨被發現，此前基金會特工收到警報稱大多�
 [[div style="background: url(/local--files/experimental-2-no-tocar/archivelogobackground.png) center top no-repeat ; float: center; border: grey 4px; width: 370px; padding: 5px; margin: 10px; background-color: light gray; box-shadow: 2px 2px 2px 2px rgba(0,0,0,.1);"]]
 [[span style="float:left; margin-left:5px; margin-top:12px; background-color: #ffffff; padding: 0px 10px;"]]
 [[/span]]
-[[size 1.5em]] ##grey|  방탄소년단[[footnote]]譯註:防彈少年團，韓國知名男團。[[/footnote]]  ## [[/size]]
+[[size 1.5em]] ##grey|  방탄소년단[[footnote]]**譯註：** 防彈少年團，韓國知名男團。[[/footnote]]  ## [[/size]]
 [[size 1.5em]] ##grey| @BTS_twt ## [[/size]]
 @@ @@
 @@ @@
-[[size 1.5em]] ##black|숨을 못 쉬겠어[[footnote]]譯註:此句直譯為「我無法呼吸」。[[/footnote]]## [[/size]]
+[[size 1.5em]] ##black|숨을 못 쉬겠어[[footnote]]**譯註：** 此句直譯為「我無法呼吸」。[[/footnote]]## [[/size]]
 @@ @@
 * [[size .8em]] ##grey|轉推## [[/size]][[size 1.1em]] ##purple| 756K## [[/size]]
 * [[size .8em]] ##grey|喜歡## [[/size]][[size 1.1em]] ##purple| 2.1M## [[/size]]
@@ -282,7 +282,7 @@ SCP-4991於4月7日清晨被發現，此前基金會特工收到警報稱大多�
 [[div style="background: url(/local--files/experimental-2-no-tocar/archivelogobackground.png) center top no-repeat ; float: center; border: grey 4px; width: 370px; padding: 5px; margin: 10px; background-color: light gray; box-shadow: 2px 2px 2px 2px rgba(0,0,0,.1);"]]
 [[span style="float:left; margin-left:5px; margin-top:12px; background-color: #ffffff; padding: 0px 10px;"]]
 [[/span]]
-[[size 1.5em]] ##grey|TRAVIS SCOTT[[footnote]]譯註:崔維斯·史考特，美國饒舌歌手、詞曲作家與唱片製作人。[[/footnote]]## [[/size]]
+[[size 1.5em]] ##grey|TRAVIS SCOTT[[footnote]]**譯註：** 崔維斯·史考特，美國饒舌歌手、詞曲作家與唱片製作人。[[/footnote]]## [[/size]]
 [[size 1.5em]] ##grey|@trvisXX## [[/size]]
 @@ @@
 @@ @@
@@ -648,7 +648,7 @@ File: ##0000EE|__1544380113869.png__## (152 KB, 398x397)
 File: ##0000EE|__IMG1403.jpg__## (17 KB, 480x320)
 [[/div]]
 
-[[f<image https://scp-sandbox-3.wdfiles.com/local--files/temppage/Redacted.png width="210px"]][[footnote]]譯註:圖中文字翻譯: [根據O5-1的命令，圖像已編輯][[/footnote]]
+[[f<image https://scpdsandbox.wdfiles.com/local--files/pao-mian-s-file/Redacted width="210px"]]
 [[div class="post-info"]]
 ##117743|**匿名**## 04/09/16(Sat)22:03:05 No.786908250 @@ @@ [##0000EE|Reply##] @@ @@ ##0000EE|▶##
 [[/div]]

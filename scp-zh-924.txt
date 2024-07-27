@@ -3,6 +3,7 @@
 text=NO MORE FORGIVENESS.]]
 =====
 
+[[include :scp-zh-tr:component:scp-meta-title-hiding]]
 [[include :scp-zh-tr:theme:night-rush-theme]]
 
 [[Module CSS]]
