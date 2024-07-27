@@ -1680,7 +1680,7 @@ Semibreve博士
 
 [[/tab]]
 [[/tabview]]
-[[include :scp-sandbox-3:collab:ar-theme]]
+[[include :scp-wiki:theme:ar]]
 [[module CSS]]
 #header h1 a::before {
     content: "看守者";
