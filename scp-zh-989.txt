@@ -85,7 +85,7 @@ https://commons.wikimedia.org/wiki/File:View_of_a_Skull_III.jpg
 |containment-color= 246, 2, 101
 |inc-containment = --]]]
 @@ @@
-**特殊收容措施：**--##grey|紀錄顱骨內側具有異常增生者，每三個月進行對其「醫療關懷」，並提供[資料刪減][[span class="fnnum"]].[[/span]][[span class="fncon"]]一種由基金會研發的寧酮類鎮痛藥，可緩解頭痛的不適感。[[/span]]以緩解患者Elan-Vital能量外衝通過性頭痛。干涉帷幕外醫學對於SCP-ZH-989（或稱托爾萊德症候群）的研究。##-- {{//（revision. 02）//}}
+**特殊收容措施：**--##grey|紀錄顱骨內側具有異常增生者，每三個月進行一次「醫療關懷」，並提供[資料刪減][[span class="fnnum"]].[[/span]][[span class="fncon"]]一種由基金會研發的寧酮類鎮痛藥，可緩解頭痛的不適感。[[/span]]以緩解患者Elan-Vital能量外衝通過性頭痛。干涉帷幕外醫學對於SCP-ZH-989（或稱托爾萊德症候群）的研究。##-- {{//（revision. 02）//}}
 
 --##grey|考量到該異常對於患者的生活品質及外觀等方面皆無顯著影響，對於患者的干涉已不必要，基金會的前台組織██向帷幕外販賣［資料刪減］，並紀錄各地未管控奇蹟術事故[[span class="fnnum"]].[[/span]][[span class="fncon"]]意指由非關注人士、非關注組織，或其他未知原因所引發的奇蹟術事故。[[/span]]。##-- {{//（revision. 06）//}}
 
@@ -205,7 +205,7 @@ SCP-ZH-989於全球的盛行率約為0.2‰［((bibcite dc))］。主要病徵�
 
 **附錄ZH.989.2：**討論紀錄
 [[div class="blockquote"]]
-**日期：**2023年02月24日，10時21分。
+**日期：**2023年03月12日，10時21分。
 
 **地點：**Area-ZH-44，鄰近Sector-M舊址的一處大型避難所。
 ----
@@ -213,7 +213,7 @@ SCP-ZH-989於全球的盛行率約為0.2‰［((bibcite dc))］。主要病徵�
 
 **Dr. Shaman Surge：**各位三垣指揮部的指揮官你們好，本次我們想來談一談SCP-ZH-989。
 
-**Surge：**SCP-ZH-989並未如同預想般地與[[[scp-zh-621|SCP-ZH-621]]]交互，SCP-ZH-989就只作用在人類的蝶囟上，形成了一種新的結締組織。
+**Surge：**SCP-ZH-989並未如同預想般地影響[[[scp-zh-621|SCP-ZH-621]]]，SCP-ZH-989就只作用在人類的蝶囟上，形成了一種新的結締組織。
 
 **研究員 夜落楓：**這代表此前我們對於SCP-ZH-989的異常性質所建立的假說完全錯誤。
 
@@ -257,11 +257,11 @@ SCP-ZH-989於全球的盛行率約為0.2‰［((bibcite dc))］。主要病徵�
 : xu : 徐東茂、王鏘祥（2008年2月）。FGFR2突變的影響或有超常性--托爾萊德症候群與克魯松氏症候群的相似處。**基金會超常醫療期刊，58**，38-40。
 : dc : 徐東茂、陳生（2016年2月）。托爾萊德症候群的遺傳分析及全球盛行率推估。**基金會超常醫療期刊，106**，25-27。
 : sc : █████████（2008）。**奇蹟天文學**（第15版，98-101頁）。大一統奇蹟學國際研究中心。
-: am : Abebe Muche(2021 Jul).[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8512946 Positions and Types of Pterion in Adult Human Skulls: A Preliminary Study].**Ethiop J Health Sci. ; 31(4)**: 875–884.
+: am : Abebe Muche(2021).[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8512946 Positions and Types of Pterion in Adult Human Skulls: A Preliminary Study].//Ethiopian-Journal of Health Sciences , 31(4)//, 875–884.
 : bn : 陳順明（2010年7月）。不同材料對於EVE外散效應的影響。**基金會超常醫療期刊，57**，12-13。
-: hi : Carlson,L(2007).**An Analysis of Thaumatology Behavior of Sandaras Tolllade**.Foundation Observer.
+: hi : Carlson,L(2007).//An Analysis of Thaumatology Behavior of Sandaras Tolllade//.Foundation Observer.
 : my : 郭順懷（2011）。**從現代奇蹟學知識看古代中醫學技術（初版，26-28頁）**。大一統奇蹟學國際研究中心。
-: th : Thomas,J(1992).**Elan-Vital Energy Diffusion Effect in Human Brain**.Grand Unity International Research Center for Thaumatology.
+: th : Thomas,J(1992).//Elan-Vital Energy Diffusion Effect in Human Brain//.Grand Unity International Research Center for Thaumatology.
 : ya : 楊建華（1994）。同種生物的Elan-Vital能量外散量的計算方式。**基金會奇蹟學年刊，27**，5-8。
 [[/bibliography]]
 @@ @@
