@@ -1,0 +1,443 @@
+[[include :scp-zh-tr:theme:black-highlighter-theme]]
+[[include :scp-zh-tr:theme:scp-offices-theme]]
+[[include :scp-zh-tr:component:toggle-sidebar-bhl]]
+[[include :scp-zh-tr:component:betterfootnotes]]
+[[include info:start]]
+**Kikunai的藝作中心頁**
+**作者：**[[*user kikunai]]
+**原文：**[https://scp-wiki.wikidot.com/kikunai-s-artwork-hub Kikunai's Artwork Hub]
+**譯者：**[[*user Kikunai]]
+**圖像：** 所有圖像皆為[[*user kikunai]]所創，並以CC BY-SA 3.0授權發佈
+[[include info:end]]
+
+[[# A]]
+[[tabview]]
+[[tab 封面頁]]
+[[=]]
++ 歡迎來到[[user kikunai]]的藝術創作中心頁！
+[*https://kikunai.tumblr.com/ Tumblr] | [*https://twitter.com/kikunai14 Twitter] | [*https://ko-fi.com/kikunai Ko-Fi 貼士罐]
+@@ @@
+
++++ __新作！__
+----
+@@ @@
+[[collapsible show="> PHMD" hide="⃤ Close" hideLocation="bottom"]]
+@@ @@
+[[div class="scp-image-block block-center" style="width:85%;"]]
+[[=image https://i.imgur.com/u9MFJrT.png  width="100%" link="*https://scp-zh-tr.wikidot.com/admonition"]]
+[[/div]]
+@@ @@
+[[/collapsible]]
+
+[[collapsible show="> Ilse Reynders博士" hide="⃤ Close" hideLocation="bottom"]]
+@@ @@
+[[div class="scp-image-block block-center" style="width:85%;"]]
+[[=image https://i.imgur.com/qn6QzKE.png  width="100%" link="*https://scp-wiki.wikidot.com/scp-5616"]]
+[[/div]]
+@@ @@
+[[/collapsible]]
+
+
+[[collapsible show="> Alexandra.aic" hide="⃤ Close" hideLocation="bottom"]]
+@@ @@
+[[div class="scp-image-block block-center" style="width:85%;"]]
+[[=image https://i.imgur.com/ZYeS8Cf.png width="100%" link="*"]]
+[[/div]]
+@@ @@
+[[/collapsible]]
+@@ @@
+
+
+----
+----
+[[/=]]
+@@ @@
++++ 關於自己
+* 我主要搞數碼厚塗
+* 我會畫一堆亂七八糟的塗鴉充能
+* 我不咬人
+* 有關約稿狀態跟其他相關信息請瀏覽我的[https://kikunai14.neocities.org/commission 約稿頁] :]
+@@ @@
++++ 關於中心頁
+* 所有圖像連結到相關的文章[[span class="fnnum"]].[[/span]][[span class="fncon"]]按下去就可以了[[/span]]
+* 現在還是很空但未來會有更多作品（應該啦？）
+* 別忘記看得開心！
+@@ @@
+----
+
+
+[[/tab]]
+[[tab 塗鴉]]
+就像標籤所寫：一些比較隨便的藝作
+----
+[[=]]
+[[collapsible show="> Abstract "Abbie" M'Doctorat" hide="⃤ Close" hideLocation="bottom"]]
+@@ @@
+[[div class="scp-image-block block-center" style="width:75%;"]]
+[[=image https://i.imgur.com/1H9ww7j.png width="75%" link="*https://scp-zh-tr.wikidot.com/scp-6416"]]
+[[/div]]
+@@ @@
+[[/collapsible]]
+
+[[collapsible show="> dado" hide="⃤ Close" hideLocation="bottom"]]
+@@ @@
+[[div class="scp-image-block block-center" style="width:75%;"]]
+[[=image https://i.imgur.com/Hl8BrUX.jpg width="100%"]]
+[[/div]]
+@@ @@
+[[/collapsible]]
+
+[[collapsible show="> 日曆" hide="⃤ Close" hideLocation="bottom"]]
+@@ @@
+[[div class="scp-image-block block-center" style="width:85%;"]]
+[[=image https://i.imgur.com/UaL2D4B.png width="100%" link="*https://scp-zh-tr.wikidot.com/undervegas-hub"]]
+[[/div]]
+@@ @@
+[[/collapsible]]
+
+[[collapsible show="> SCP-7593" hide="⃤ Close" hideLocation="bottom"]]
+@@ @@
+[[div class="scp-image-block block-center" style="width:100%;"]]
+[[=image https://i.imgur.com/mdtnIrb.png width="100%" link="*https://scp-zh-tr.wikidot.com/scp-7593"]]
+[[/div]]
+@@ @@
+[[/collapsible]]
+
+[[collapsible show="> SCP-7999" hide="⃤ Close" hideLocation="bottom"]]
+@@ @@
+[[div class="scp-image-block block-center" style="width:100%;"]]
+[[=image https://i.imgur.com/nWoRAOq.png width="100%" link="*https://scp-zh-tr.wikidot.com/scp-7999"]]
+[[/div]]
+@@ @@
+[[/collapsible]]
+
+[[collapsible show="> Calendar（穿着裙子）" hide="⃤ Close" hideLocation="bottom"]]
+@@ @@
+[[div class="scp-image-block block-center" style="width:85%;"]]
+[[=image https://i.imgur.com/uQq3zOm.png width="100%"]]
+[[/div]]
+@@ @@
+[[/collapsible]]
+
+[[collapsible show="> Alexandra.aic" hide="⃤ Close" hideLocation="bottom"]]
+@@ @@
+[[div class="scp-image-block block-center" style="width:85%;"]]
+[[=image https://i.imgur.com/ZYeS8Cf.png width="100%"]]
+[[/div]]
+@@ @@
+[[/collapsible]]
+
+
+[[/=]]
+[[/tab]]
+[[tab 獨立作品]]
+
+我刪不了所以它們全部都在這：
+----
+[[=]]
+[[collapsible show="> Placeholder McDoctorate & SCP-整數" hide="⃤ Close" hideLocation="bottom"]]
+@@ @@
+[[div class="scp-image-block block-center" style="width:100%;"]]
+[[=image https://i.imgur.com/tbz5X7d.jpg width="75%" link="*https://scp-zh-tr.wikidot.com/scp-5242"]]
+[[/div]]
+@@ @@
+[[/collapsible]]
+
+[[collapsible show="> Randall House主管" hide="⃤ Close" hideLocation="bottom"]]
+@@ @@
+[[div class="scp-image-block block-center" style="width:100%;" link="*https://scp-zh-tr.wikidot.com/undervegas-hub"]]
+[[=image https://i.imgur.com/ZkwvRZv.png width="75%"]]
+[[/div]]
+@@ @@
+[[/collapsible]]
+
+[[collapsible show="> SCP-6670" hide="⃤ Close" hideLocation="bottom"]]
+@@ @@
+[[div class="scp-image-block block-center" style="width:100%;"]]
+[[=image https://i.imgur.com/sgSseku.png width="75%" link="*https://scp-zh-tr.wikidot.com/scp-6670"]]
+[[/div]]
+@@ @@
+[[/collapsible]]
+
+[[collapsible show="> 日曆特工" hide="⃤ Close" hideLocation="bottom"]]
+@@ @@
+[[div class="scp-image-block block-center" style="width:100%;"]]
+[[=image https://i.imgur.com/Nj3xTwZ.png width="75%" link="*https://scp-zh-tr.wikidot.com/undervegas-hub"]]
+[[/div]]
+@@ @@
+[[/collapsible]]
+
+[[collapsible show="> Alex Thorley按下了退出鍵" hide="⃤ Close" hideLocation="bottom"]]
+@@ @@
+[[div class="scp-image-block block-center" style="width:100%;"]]
+[[=image https://i.imgur.com/WfKbub4.png width="75%" link="*https://scp-zh-tr.wikidot.com/unreality-hub"]]
+[[/div]]
+@@ @@
+[[/collapsible]]
+
+[[collapsible show="> Ilse Reynders博士" hide="⃤ Close" hideLocation="bottom"]]
+@@ @@
+[[div class="scp-image-block block-center" style="width:85%;"]]
+[[=image https://i.imgur.com/qn6QzKE.png  width="100%" link="*https://scp-wiki.wikidot.com/scp-5616"]]
+[[/div]]
+@@ @@
+[[/collapsible]]
+
+[[collapsible show="> PHMD" hide="⃤ Close" hideLocation="bottom"]]
+@@ @@
+[[div class="scp-image-block block-center" style="width:85%;"]]
+[[=image https://i.imgur.com/u9MFJrT.png  width="100%" link="*https://scp-zh-tr.wikidot.com/admonition"]]
+[[/div]]
+@@ @@
+[[/collapsible]]
+
+[[/=]]
+[[/tab]]
+[[tab 保衞43/告誡]]
+這裏的作品很多但我解釋不了為甚麼[[span class="fnnum"]].[[/span]][[span class="fncon"]]謝謝tumblr讓我的大腦時刻都在想這兩個系列[[/span]]
+現在保衞43跟告誡的同人都塞在同一個分頁 抱歉 :(
+----
+[[=]]
+
+[[collapsible show="> Rozàlie Astrauskas" hide="⃤ Close" hideLocation="bottom"]]
+@@ @@
+[[div class="scp-image-block block-center" style="width:100%;"]]
+[[image https://i.imgur.com/BDOY8tx.png
+style="width:75%" link="*https://scp-wiki.wikidot.com/scp-6721"]]
+[[/div]] 
+@@ @@
+[[/collapsible]]
+
+[[collapsible show="> Udo Okorie" hide="⃤ Close" hideLocation="bottom"]]
+@@ @@
+[[div class="scp-image-block block-center" style="width:100%;"]]
+[[image  https://i.imgur.com/WRIR21O.png
+style="width:75%" link="*https://scp-zh-tr.wikidot.com/acroamatic-abatement"]]
+[[/div]] 
+@@ @@
+[[/collapsible]]
+
+[[collapsible show="> Lillian Lillihammer" hide="⃤ Close" hideLocation="bottom"]]
+@@ @@
+[[div class="scp-image-block block-center" style="width:100%;"]]
+[[image https://i.imgur.com/IWG2Qci.jpg
+style="width:75%" link="*https://scp-zh-tr.wikidot.com/system:page-tags/tag/lillihammer博士#pages"]]
+[[/div]] 
+@@ @@
+[[/collapsible]]
+
+[[collapsible show="> Ilse Reynders" hide="⃤ Close" hideLocation="bottom"]]
+@@ @@
+[[div class="scp-image-block block-center" style="width:100%;"]]
+[[image https://i.imgur.com/IXJrQdm.jpg
+style="width:75%" link="*https://scp-wiki.wikidot.com/scp-5616"]]
+[[/div]] 
+@@ @@
+[[/collapsible]]
+----
+[[collapsible show="> 告誡線 Ilse" hide="⃤ Close" hideLocation="bottom"]]
+@@ @@
+[[div class="scp-image-block block-center" style="width:85%;"]]
+[[=image https://i.imgur.com/6BYH3c4.png width="100%" link="*https://scp-wiki.wikidot.com/scp-7243"]]
+[[/div]]
+@@ @@
+[[/collapsible]]
+
+[[collapsible show="> PHMD" hide="⃤ Close" hideLocation="bottom"]]
+@@ @@
+[[div class="scp-image-block block-center" style="width:85%;"]]
+[[=image https://i.imgur.com/u9MFJrT.png  width="100%" link="*https://scp-zh-tr.wikidot.com/admonition"]]
+[[div class="scp-image-caption" style="width:100%;"]]
+Verschlimmbessern
+[[/div]]
+[[/div]]
+@@ @@
+[[/collapsible]]
+@@ @@
+[[span class="fnnum"]].[[/span]][[span class="fncon"]]譯者/作者註：我把原先這裏的listpage炸了因為沒甚麼用[[/span]]
+
+[[/=]]
+[[/tab]]
+[[tab 藝術交換 2023]]
+[https://scp-wiki.wikidot.com/art:kikunai-s-2023-art-exchange-gifts 藝術交換活動]的藝術作品連評註
+----
+[[=]]
+[[collapsible show="> 給Trintavon的藝作" hide="⃤ Close" hideLocation="bottom"]]
+@@ @@
+[[div class="scp-image-block block-center" style="width:85%;"]]
+[[=image https://i.imgur.com/e4tYQ5S.png width="100%" link="*https://scp-zh-tr.wikidot.com/scp-7795"]]
+
+[[=image https://i.imgur.com/ivCF9QC.png width="100%" link="*"]]
+[[/div]]
+> [[*user Trintavon]]想要「SCP-7795的藝作，特別是米亞跟拉爾森最後的床邊場景之一」
+> 我便滿足他的請求了！
+@@ @@
+[[/collapsible]]
+
+[[collapsible show="> 給DodoDevil的藝作" hide="⃤ Close" hideLocation="bottom"]]
+@@ @@
+[[div class="scp-image-block block-center" style="width:85%;"]]
+[[=image https://i.imgur.com/hpm8xPj.png width="100%" link="*https://scp-zh-tr.wikidot.com/secure-facility-dossier-site-333"]]
+[[=image https://i.imgur.com/D6e6Oze.png width="100%"]]
+[[/div]]
+> [[*user DodoDevil]]想要「（Site-333）的角色排列/設定圖」 所以我畫了身處（糟糕至極的）休息室內的四人。還附帶我在公開收件者之前沒有發出去的角色設定圖 :P
+@@ @@
+[[/collapsible]]
+
+[[collapsible show="> 給Miss Lapis的藝作" hide="⃤ Close" hideLocation="bottom"]]
+@@ @@
+[[div class="scp-image-block block-center" style="width:85%;"]]
+[[=image https://i.imgur.com/FwkC7oX.png width="100%" link="*https://scp-wiki.wikidot.com/heresy"]]
+[[/div]]
+> [[*user Miss Lapis]]想要Rounderhouse[*/rounderhouse-gold-proposal 黃金提案]中的Hedvig Nussbaum博士。這是我唯一有寫標題的藝術交換作品——《痛苦聖海得威》（"The Sorrows of Saint Hedvig"），取材於文藝復興時期（聖母）瑪利亞的油畫
+@@ @@
+[[/collapsible]]
+
+[[/=]]
+[[/tab]]
+[[tab --]]
+
+此分頁（暫時）留空
+
+[[/tab]]
+[[/tabview]]
+@@ @@
+= [#A 回到上方]
+@@ @@
+@@ @@
+@@ @@
+
+[[module css]]
+/* side tab */
+.enlarge{
+transition: .25s;
+}
+
+.enlarge:hover{
+transform: scale(1.3);
+transition: .25s;
+transition-delay: .4s;
+z-index: 1000;
+}
+
+.col-wrap {
+  margin-bottom: 1em;
+  overflow-x: hidden;
+}
+.col-wrap .collapsible-block {
+  border-left: solid 0.5rem var(--bg-color);
+}
+.col-wrap > .collapsible-block,
+.col-wrap > .collapsible-block > .collapsible-block-unfolded {
+  display: -webkit-box !important;
+  display: -webkit-flex !important;
+  display: -moz-box !important;
+  display: -ms-flexbox !important;
+  display: flex !important;
+}
+.col-wrap > .collapsible-block > .collapsible-block-folded,
+.col-wrap > .collapsible-block > .collapsible-block-unfolded,
+.col-wrap > .collapsible-block > .collapsible-block-unfolded > .collapsible-block-unfolded-link,
+.col-wrap > .collapsible-block > .collapsible-block-unfolded > .collapsible-block-content {
+  -webkit-box-flex: 1;
+  -webkit-flex-grow: 1;
+  -moz-box-flex: 1;
+  -ms-flex-positive: 1;
+  flex-grow: 1;
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0;
+  width: 100%;
+}
+.col-wrap .collapsible-block-unfolded[style*="none"] > .collapsible-block-unfolded-link {
+  display: none;
+}
+.col-wrap a.collapsible-block-link {
+  display: block;
+  position: relative;
+  height: 100%;
+  padding-left: 0.4375rem;
+  z-index: 1;
+  font-size: 0;
+}
+.col-wrap > .collapsible-block > .collapsible-block-folded:hover,
+.col-wrap > .collapsible-block > .collapsible-block-unfolded > .collapsible-block-unfolded-link:hover {
+  background-color: #eee;
+}
+.col-wrap > .collapsible-block > .collapsible-block-unfolded > .collapsible-block-content {
+  position: relative;
+  left: -100%;
+  padding-left: 0.4372rem;
+  opacity: 1 !important;
+}
+.col-wrap > .collapsible-block > .collapsible-block-unfolded > .collapsible-block-content .collapsible-block-content {
+  position: relative;
+  z-index: 1;
+}
+
+.yui-navset {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 1em;
+    vertical-align: top;
+    width: 100%;
+}
+.yui-navset .yui-nav li,
+.yui-navset .yui-navset-top .yui-nav li {
+    display: block;
+    writing-mode: vertical-rl;
+    width: 100%;
+    margin: 0!important;
+    padding: unset;
+}
+.yui-navset .yui-nav .selected a,
+.yui-navset .yui-nav .selected a:focus,
+.yui-navset .yui-nav .selected a:hover {
+    background: #212121;
+}
+.yui-navset .yui-nav a:hover,
+.yui-navset .yui-nav a:focus {
+    background: #ddd;
+}
+.yui-navset .yui-nav a,
+.yui-navset .yui-navset-top .yui-nav a {
+    background-color: #fff;
+    background-image: none;
+    border-width: 1px 0 1px 1px;
+}
+.yui-navset .yui-nav a em,
+.yui-navset .yui-navset-top .yui-nav a em {
+    line-height: 141%;
+    padding: 0.75em!important;
+}
+.yui-navset .yui-nav,
+.yui-navset .yui-navset-top .yui-nav {
+    border-bottom: none;
+    border-color: #212121;
+    display: block;
+    width: 2.5em;
+    border-right: solid #333 2px;
+    padding: 0;
+    margin: 0;
+}
+.yui-navset .yui-content {
+    background-color: #fff;
+    border: solid #333 1px;
+    display: block;
+    width: calc(100% - 2.5em);
+    padding: 1em 1.35em 0.95em 1.5em;
+}
+.yui-navset .yui-content > div:before {
+    content: "";
+}
+ 
+sup {
+  vertical-align: top;
+  position: relative;
+  top: -0.5em;
+}
+
+:root {
+    --fnColor: #91b399;
+}
+[[/module]]
