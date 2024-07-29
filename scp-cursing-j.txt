@@ -2,7 +2,7 @@
 
 [[include info:start]]
 原文：[https://scp-wiki.wikidot.com/scp-cursing-j <SCP-@#%&!-J>]
-作者：[[*user RJB_R]] 
+作者：匿名、[[*user faminepulse]] 
 譯者：[[*user colorful penguin]] 
 校對者：[[*user Halewen]] [[*user feitag]]
 
@@ -103,10 +103,5 @@ SCP-@#%&!幾乎只使用髒話。目前尚未釐清SCP-@#%&!從何處習得髒�
 [[=]]
 [[image https://scp-wiki.wdfiles.com/local--files/scp-cursing-j/nsfw]]
 [[/=]]
-
-
-[[include :scp-wiki:component:license-box
-|author=Anonymous, faminepulse]]
-[[include :scp-wiki:component:license-box-end]]
-
+@@ @@
 [[footnote]]**譯註**：圖片內手掌中的文字： 幫助畫舌鳥Titters 戒掉咒罵和罵髒話的壞習慣。[[/footnote]]
