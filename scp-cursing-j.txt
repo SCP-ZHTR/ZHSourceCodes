@@ -1,4 +1,4 @@
-[[include component:scp-meta-title-hiding css-style=classic]]
+[[include component:scp-meta-title-hiding css-style=classic | showing-title=SCP-@#%&!-J]]
 
 [[include info:start]]
 原文：[https://scp-wiki.wikidot.com/scp-cursing-j <SCP-@#%&!-J>]
