@@ -1,0 +1,112 @@
+[[include component:scp-meta-title-hiding css-style=classic]]
+
+[[include info:start]]
+原文：[https://scp-wiki.wikidot.com/scp-cursing-j <SCP-@#%&!-J>]
+作者：[[*user RJB_R]] 
+譯者：[[*user colorful penguin]] 
+校對者：[[*user Halewen]] [[*user feitag]]
+
+[[include info:end]]
+
+[[include component:image-block name= http://scpsandbox2.wdfiles.com/local--files/famine5/excuse%20me  |
+    caption= 最好不要跟SCP-@#%&!有眼神接觸  |width=300px]]
+
+
+
+**項目 #：** SCP-@#%&!
+
+**項目等級：** __//**X**//__
+
+**特殊收容措施：** 若 SCP-@#%&!'s 產生的二級效應突破收容措施，SCP-@#%&!’s的收容間應立即灌滿布朗博士薄荷清爽肥皂。目前仍在研究SCP-@#%&產生的效應，以便消除其影響。
+
+
+[[include component:image-block name=http://scpsandbox2.wdfiles.com/local--files/famine5/rude |    caption= 每當SCP-@#%&!開口，便會發明出新的髒話。 |width=300px]]
+
+
+**描述：**  SCP-@#%&!是一隻極度無禮、口吐人言的鳥，儘管其生理剖析顯示項目不具備說人話的條件。
+
+
+SCP-@#%&!幾乎只使用髒話。目前尚未釐清SCP-@#%&!從何處習得髒話，並在其他詞彙可用的狀況下，選擇使用髒話的原因。
+
+
+**附錄 G：**以圖搜圖的結果顯示SCP-@#%&!為一種雀科鳴鳥。 
+
+**附錄 PG：** //髒話確實只有人類賦予的力量。我建議文件應考慮此方面進行修改。// -Dr. ████
+
+//███你的，有膽試試看。// — SCP-@#%&!
+
+[[include component:image-block name= http://scpsandbox2.wdfiles.com/local--files/famine5/well%20i%20never|
+    caption=尚未釐清SCP-@#%&!是否具思考能力，或是一台單純產出髒話的活體複讀機。 | width=300px]]
+
+
+
+[[table style="border-collapse:collapse; margin: 3px; "]]
+[[row]]
+[[cell style="padding: 5px;  font-weight:bold; text-align: center; border: 1px solid black; background-color: silver; width: 5%;"]]
+ 刺激
+[[/cell]]
+[[cell style="padding: 5px;  font-weight:bold; text-align: center; border: 1px solid black; background-color: silver;"]]
+ 回應
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell style="padding: 5px;  text-align: center; border: 1px solid black"]]
+ 嗨
+[[/cell]]
+[[cell style="padding: 5px;  border: 1px solid black"]]
+ 𠦝█ 你大爺。[[/cell]]
+[[/row]]
+[[row]]
+[[cell style="padding: 5px;  text-align: center; border: 1px solid black"]]
+今天過得如何？[[/cell]]
+[[cell style="padding: 5px;  border: 1px solid black"]]
+我他██的才不在乎。[[/cell]]
+[[/row]]
+[[row]]
+[[cell style="padding: 5px;  text-align: center; border: 1px solid black"]]
+我也𠦝█ 你的！！[[/cell]]
+[[cell style="padding: 5px;  border: 1px solid black"]]
+█████; 原創的髒話。經過基金會密碼學家解析，破譯為詹姆斯喬伊斯的完整著作。[[/cell]]
+[[/row]]
+[[row]]
+[[cell style="padding: 5px;  text-align: center; border: 1px solid black"]]
+將SCP-@#%&!放在相嘯魔旁。[[/cell]]
+[[cell style="padding: 5px;  border: 1px solid black"]]
+██你媽的給我閉嘴！[[/cell]]
+[[/row]]
+[[/table]]
+
+
+**附錄 TV-13：**附錄為 "Dr. Gerald"執行的訪談，同時為站點的電視節目。
+
+> **Dr. Gerald：** 你就是生父。
+> 
+> **SCP-@#%&!：** 先生，我是一隻██的██。
+> 
+> **Dr. Gerald：** 對了，現場有一位我們想要讓你見的人。
+> 
+> //Timmy 搖搖擺擺地走上台。//
+> 
+> **[[[SCP-1192]]]：** 我為什麼是隻鳥？
+> 
+> //觀眾倒抽了一口氣。//
+> 
+> **SCP-@#%&!：** //開始表演後空翻。//
+> 
+> //觀眾發出噓聲。//
+
+**附錄 PG-13：** //SCP-@#%&! 已突破收容措施，並因其放蕩不羈的行為，獲得媒體接連關注，成為名人（鳥）。實際上，項目從未離開Site-██，預估其人氣很快就會消退，並使重新收容變得可行。//
+
+
+**附錄 NC-17：** SCP-@#%&!相關電玩銷量暴死，比從風力發電機摔死的鳥還要糟，隨即SCP-@#%&!宣布退休。 
+
+[[=]]
+[[image https://scp-wiki.wdfiles.com/local--files/scp-cursing-j/nsfw]]
+[[/=]]
+
+
+[[include :scp-wiki:component:license-box
+|author=Anonymous, faminepulse]]
+[[include :scp-wiki:component:license-box-end]]
+
+[[footnote]]**譯註**：圖片內手掌中的文字： 幫助畫舌鳥Titters 戒掉咒罵和罵髒話的壞習慣。[[/footnote]]

@@ -342,7 +342,7 @@
 * [[[SCP-XXXX-J]]] - I want //you// for SCP writing!
 * [[[SCP-____-J]]] - 拖延疒
 * [[[SCP-IN-A-BOX-J|SCP-????-J]]] - Some fucking thing in a box
-* [[[scp-cursing-j|SCP-@#%&!-J]]] - Titters The Talking Bird
+* [[[scp-cursing-j|SCP-@#%&!-J]]] - 畫舌鳥Titters
 * [[[SCP-botnik-J|SCP-\̅\̅\̅\̅-J]]] - The Subject is Aware
 [[/div]]
 [[div class="content-panel standalone series"]]
