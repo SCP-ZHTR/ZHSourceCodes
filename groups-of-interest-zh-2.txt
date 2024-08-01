@@ -80,26 +80,6 @@
 [[/div]]
 
 [[div class="content-panel standalone series" style="background-color: #FFFFFF;"]]
-+ [http://scp-sandbox-zh.wikidot.com/jie-men 截門]
-
-**概述：**截門為一建立於明鄭時期的組織，目前所有已知成員皆為神性實體，主要活動於未確認之NX－－碧游內，在外行事潛伏且低調而原先僅被認為可能存在，直到情報蒐集部門取得相關資訊並深入調查、綜整各方證據後證實其存在。
-
-組織內部據信為眾議制，由基層成員推舉之長老議會制定與推行內部各事務，外部則由少數擅長隱匿之成員網羅游離於社會之神性實體加入，亦已確認有其他組織協助截門。
-
-該組織活動量近幾年有逐步上升之趨勢，須注意其行為劇烈化之可能。
-
-
-**相關作品：**
-[[[snake-s-wake|驚蟄]]]
-[[[wanderers:jiang-yue-tour-mountain-36|江岳妖訪行 山岳 三十六]]]
-[[[wanderers:don-t-sacrifice-to-deathweb|窮不屠牲畜、荒不祭歿羅]]]
-
-[[div style="text-align:right"]]
-,,[#toc 回到頂部],,
-[[/div]]
-[[/div]]
-
-[[div class="content-panel standalone series" style="background-color: #FFFFFF;"]]
 + 茶嶺常備隊
 
 **概述：**茶嶺常備隊為一個於二戰時期活躍於異常空間新茶嶺內的異常武裝組織，全盛時期成員約為60人左右。該組織藉著使用異常空間的特點或小型異常，對當時佔領香港的日軍進行遊擊作戰，同時負責日佔時期新茶嶺內部的治安工作。該組織已於二戰結束後解散，大部分前成員被新茶嶺內的其他組織吸收。
@@ -177,10 +157,9 @@
 天已堂內雖然有少量異常人形實體，但基金會之初步情報顯示天已堂多數成員往往對異常缺乏理解，也無自行製造異常物品的能力。
 
 **相關文章：**
-[*http://scp-zh-tr.wikidot.com/numbering-p-5363 訂單編號：P-5363 ]
-[*http://scp-zh-tr.wikidot.com/cobweb-ci-s-057 蛛網國際維安報告書 CI-S-057：霓虹兔電子遊樂場]
-[*http://scp-zh-tr.wikidot.com/pzga-data-fish 異常蕈類資料單-漁民香菇]
-[*http://scp-zh-tr.wikidot.com/year-critical-strike 年獸爭奪戰]
+[[module ListPages tag="+天已堂" separate="no"]]
+* %%title_linked%%
+[[/module]]
 
 [[div style="text-align:right"]]
 ,,[#toc 回到頂部],,
