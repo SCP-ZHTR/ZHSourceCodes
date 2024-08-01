@@ -3,10 +3,8 @@
 
 
 [[tab 原創未上標籤]]
-[[module ListPages separate="yes" perPage="100" tags="+scp +原創" order="name" -category="_default"]]
-%%title_linked%% - %%created_by%%
- 
-##gray|%%tags%%##
+[[module ListPages separate="no" perPage="100" tags="+scp +原創" order="name" -category="_default"]]
+# %%title_linked%% - %%created_by%%  ##gray|%%tags%%##
 [[/module]]
 [[/tab]]
 
