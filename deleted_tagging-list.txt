@@ -2,7 +2,14 @@
 [[tabview]]
 
 
-[[tab 原創未上標籤]]
+
+[[tab 新作原創 標籤]]
+[[module ListPages separate="no" perPage="7" tags="+scp +原創" order="created_at desc" -category="_default"]]
+# %%title_linked%% - %%created_by%%  ##gray|%%tags%%##
+[[/module]]
+[[/tab]]
+
+[[tab 原創標籤一覽]]
 [[module ListPages separate="no" perPage="100" tags="+scp +原創" order="name" -category="_default"]]
 # %%title_linked%% - %%created_by%%  ##gray|%%tags%%##
 [[/module]]
