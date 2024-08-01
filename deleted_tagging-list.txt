@@ -20,9 +20,14 @@ vvv現實扭曲vvv
 %%title_linked%% - %%created_by%%
 [[/module]]
 [[/collapsible]]
-
 [[/tab]]
 
+[[tab 造物]]
+
+[[module ListPages separate="yes" perPage="1000" tags="+造物" order="name" -category="_default"]]
+%%title_linked%% - %%created_by%%
+[[/module]]
+[[/tab]]
 
 [[tab 表3的標題]]
 表3的內容。

@@ -1,8 +1,8 @@
-[[include :scp-wiki:theme:basalt darkmode=a]]
-[[include component:scp-meta-title-hiding css-style=basalt]]
+[[include :scp-zh-tr:theme:basalt darkmode=a]]
+[[include component:scp-meta-title-hiding]]
 
 [[module css]]
-:root:lang(zh) {
+:root {
  --logo: url(https://i.imgur.com/0CVt5qP.png);
  --title: "SCP-ZH-564研究部門";
  --subtitle: "我們研究這片森林，探究其未知之處。";
