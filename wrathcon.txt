@@ -4,10 +4,11 @@
 譯者：[[*user Frederica Bernkastel]]
 [[include info:end]]
 
-[[include :scp-zh-tr:theme:basalt darkmode=a|hidetitle=a|centertitle=a]]
+[[include :scp-zh-tr:theme:basalt hidetitle=a|centertitle=a]]
 [[module CSS]]
 
 /* Wrath Theme */
+/* (The World Looks White) */
 /* by syuzhet */
 
 /*
@@ -29,25 +30,27 @@
 
 */
 
-@import url('https://fonts.googleapis.com/css2?family=DM+Mono:ital,wght@0,300;0,400;0,500;1,300;1,400;1,500&amp;amp;amp;amp;amp;amp;amp;amp;amp;display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Playwrite+IS:wght@100..400&amp;amp;amp;amp;amp;amp;display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Mono:ital,wght@0,300;0,400;0,500;1,300;1,400;1,500&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+IS:wght@100..400&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nosifer&amp;amp;amp;amp;display=swap');
 
 :root {
-    --basalt-secondary-color: 0, 0, 0;
+    --basalt-secondary-color: 255, 255, 255;
+    --basalt-tertiary-color: 0, 0, 0;
 
-    --basalt-overtone: 255, 0, 0;
-    --basalt-undertone: 255, 0, 0;
-    --basalt-bright-element-color: 255, 0, 0;
-    --basalt-dark-element-color: 255, 0, 0;
+    --basalt-overtone: 196, 228, 244;
+    --basalt-undertone: 196, 228, 244;
+    --basalt-bright-element-color: 196, 228, 244;
+    --basalt-dark-element-color: 196, 228, 244;
 
-    --link-color: 255, 0, 0;
-    --link-visited-color: 255, 0, 0;
-    --link-newpage-color: 255, 0, 0;
+    --link-color: 196, 228, 244;
+    --link-visited-color: 196, 228, 244;
+    --link-newpage-color: 196, 228, 244;
 
     --top-bar-link-color-hover: 255, 255, 255;
-    --login-status-text-color-hover: 0, 0, 0;
-    --side-bar-link-color-hover: 0, 0, 0;
-    --side-bar-link-background-hover: 255, 255, 255;
+    --login-status-text-color-hover: 255, 255, 255;
+    --side-bar-link-color-hover: 255, 255, 255;
+    --side-bar-link-background-hover: 0,0,0;
     --selection-text-color: 0, 0, 0;
 
     --header-border-width: 0rem;
@@ -57,8 +60,8 @@
     --user-button-width: 2rem;
     --header-logo-size: 67.5%;
 
-    --basalt-UI-dark-palette: 0, 0, 0;
-    --top-bar-link-background-hover: 255, 0, 0;
+    --basalt-UI-dark-palette: 0,0,0;
+    --top-bar-link-background-hover: 196, 228, 244;
 
 }
 
@@ -79,7 +82,7 @@
 
 div #container-wrap {
     background-color: #060C0C;
-    background: url(https://i.imgur.com/nccHXw6.jpeg);
+    background: url(https://i.imgur.com/Dp58Fx1.jpeg);
     background-size: contain;
 }
 
@@ -109,7 +112,7 @@ div #container-wrap {
 .headerimage {
     position: relative;
     height: calc(120dvh);
-    background-image: url(https://i.imgur.com/kJRzXtX.jpeg);
+    background-image: url(https://i.imgur.com/Tq8KaqQ.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: top;
@@ -135,20 +138,22 @@ div #container-wrap {
 }
 
 .darkWRATHboxinterior {
+    opacity: 0;
     width: 80%;
     margin: auto;
 }
 
 .darkWRATHbox h1 {
-    color: red;
+    color: white;
     font-family: "DM Mono", monospace;
     font-weight: 800;
-    font-size: 8em;
+    font-size: 6em;
     line-height: 1;
+    margin: 0;
 }
 
 .darkWRATHbox h2 {
-    color: red;
+    color: white;
     font-family: "DM Mono", monospace;
     font-weight: 800;
     font-size: 8em;
@@ -173,6 +178,48 @@ div #container-wrap {
 
 .darkWRATHboxinterior li {
     color: white;
+    font-size: 1.5rem;
+    font-family: "DM Mono", monospace;
+    font-weight: 800;
+}
+
+.darkWRATHboxinterior li::marker {
+    color: #444;
+}
+
+.darkWRATHboxinterior .listsmall li {
+    font-size: 1.2rem;
+}
+
+/* Unfucking */
+
+.darkWRATHbox sup {
+    color: white;
+}
+
+#action-area {
+    color: white;
+}
+
+.page-tags a {
+    color: black;
+}
+
+.page-tags span {
+    color: white;
+}
+
+/* This solution is fucking stupid btw. Please leave a comment if you have a better way of putting line breaks in lists! */
+
+.darkWRATHboxinterior li .linebreak {
+    display: inline;
+}
+
+.darkWRATHboxinterior li .linebreak:before {
+    content: "\A";
+    display: block;
+    line-height: 1em;
+    white-space: pre;
 }
 
 .darkWRATHboxinterior2 {
@@ -294,14 +341,20 @@ h1, #page-options-container, .licensebox .collapsible-block-folded a, .page-watc
     line-height: 1;
     }
     .darkWRATHboxinterior h3 {
-    color: red;
+    color: white;
     font-family: "Playwrite IS", cursive;
     font-weight: 400;
-    font-size: 2em;
+    font-size: 3em;
     line-height: 1;
     }
     .darkWRATHboxinterior2 {
     width: 100%;
+    }
+    .darkWRATHboxinterior li {
+    color: white;
+    font-size: 1.5rem;
+    font-family: "DM Mono", monospace;
+    font-weight: 800;
     }
     .darkWRATHbox .sideskull {
         display: none;
@@ -311,66 +364,603 @@ h1, #page-options-container, .licensebox .collapsible-block-folded a, .page-watc
 
 [[div class="widebox"]]
 [[div class="headerimage"]]
-[[image https://i.imgur.com/giRitwj.png class="wrathtext"]]
-[[image https://i.imgur.com/33ekI7K.png class="skullseparator"]]
+[[image https://i.imgur.com/BuEXc3n.png class="wrathtext"]]
+[[image https://i.imgur.com/zIpPR0K.png class="skullseparator"]]
 [[/div]]
 [[div class="darkWRATHbox"]]
-[[div class="darkWRATHboxinterior"]]
-+ 愛已死
-+ 加分成為燃料
-+ 維基已然滿載
+[[module CSS]]
 
-@@@@
-@@@@
-@@@@
+.memorialskull {
+    display: block;
+    margin: auto;
+    flex: 0 1 20%;
+}
 
-++ 規則
+.winnermemorial {
+    display: block;
+    margin: auto;
+    width: 50%;
+}
 
-**只有一個[[span style="color: red;"]]贏家[[/span]]**
+.memorialskull .memorialname p, .winnermemorial .memorialname p {
+    color: white;
+    font-size: 1.5rem;
+    margin: 0;
+    text-align: center;
+}
+.memorialskull .memorialblurb {
+    position: absolute;
+    visibility: hidden;
+    width: 18%;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    border-radius: 10px;
+    padding: 10px 10px;
+    margin: auto;
+    z-index: 2;
 
-**所有敗北的文章都將[[span style="color: red;"]]永久刪除[[/span]]**
+}
 
-**不可[[span style="color: red;"]]組隊[[/span]]**
+.winnermemorial .memorialblurb {
+    position: absolute;
+    visibility: hidden;
+    width: 50%;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    border-radius: 10px;
+    padding: 10px 10px;
+    margin: auto;
+    z-index: 2;
+}
 
-**不可[[span style="color: red;"]]舊稿新發[[/span]]**
+.memorialskull:hover .memorialblurb, .winnermemorial:hover .memorialblurb {
+    visibility: visible;
+}
 
-**不可[[span style="color: red;"]]重複投稿[[/span]]**
+.memorialgrid {
+    padding: 0 5%;
+    display: flex;
+    flex-wrap: wrap;
+}
 
-**主題乃是[[span style="color: red;"]]邪惡[[/span]]**
+.memorialname {
+    text-shadow: 1px 1px 10px black;
+}
 
-++ 時間
 
-**__寫作：__ 美國東部時間6月19日上午12時01分 - 美國東部時間6月28日上午12時01分**
-
-**__發布：__ 美國東部時間6月28日上午12時01分 - 美國東部時間7月1日上午12時01分**
-
-**__投票：__美國東部時間7月1日上午12時01分 - 美國東部時間7月11日上午12時01分**
-
-@@@@
-@@@@
-
+@media only screen and (max-width: 1020px) {
+    .memorialskull .memorialname p, .winnermemorial .memorialname p {
+        font-size: 1rem;
+    }
+    .memorialskull .memorialblurb, .winnermemorial .memorialblurb {
+    position: absolute;
+    visibility: hidden;
+    left: 0;
+    width: 100%;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    border-radius: 10px;
+    padding: 0;
+    margin: auto;
+    }   
+    .memorialskull {
+    display: block;
+    margin: auto;
+    flex: 0 1 50%;
+    }
+    .memorialgrid {
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    }
+}
+[[/module]]
 [[=]]
-**[[span style="color: red;"]]交出我的故事，爭取眾人分數[[/span]]**
++ 墓園
+[[span style="color: white;"]]陣亡者之墓。將鼠標懸停在墳墓上以閱讀墓誌銘。[[/span]]
 [[/=]]
-
-@@@@
-@@@@
-
-[[image https://i.imgur.com/8rXoVbT.png class="sideskull"]]
-[[div class="darkWRATHboxinterior2"]]
-+++ 額外事項
-
-@@@@
-
-* 本次競賽所有投稿文章（獲勝者除外）都將在競賽結束時刪除。[[span style="color: red;"]]**你不能重新發布本次競賽中刪除的作品。**[[/span]] 如果你希望在維基上重新投稿你的文章，則必須做出大幅重寫。[[span style="color: red;"]]**如果無法接受請不要參賽，你的投稿真的有可能被刪除。**[[/span]]
-* 善待他人。非德的行為是絕不容忍的，同時還可能導致你的參賽資格遭到撤銷。
-* 這是個文字小說創作競賽，並非「所有格式」都能投稿。僅允許以下頂層標籤：{{scp}}、{{故事}}、{{goi格式}}、{{站點}}、{{附加資料}}、{{漫畫}}。
-* 任何採取異常與負面行為增加票數或減少競爭對手票數的參賽者，都將會被取消競賽資格，並可能被禁止參加其他的競賽，更可能根據犯行採取進一步的紀律處分。
-* 你發布的文章必須加上「[[span style="color: red;"]]**en-極峻競賽2024**[[/span]]」標籤。
-* 所有參賽者──包括文章遭刪除者──都將在本頁面上留下一筆作為紀念。然而，競賽作品仍將接受標準刪除過程。
-* 在發布期間允許編輯作品。發布期結束後不得再對文章內容進行重大修改編輯。允許對標點、拼字、文法進行編輯，競賽工作人員亦同。
-* 本次競賽的負責人是[[*user stormbreath]]、[[*user psychicprogrammer]]、[[*user Modulum]]、[[*user syuzhet]]、[[*user Whiteguard]]、[[user Naepic]]。如上所述，如果你對競賽抱持疑問，請聯繫以上負責人或社群營運小組成員。如果發現違反上述精神、未列舉嚴重違背競賽精神行為、違背競賽宗旨的參賽作品，競賽負責人有權取消其參賽資格。所有決定均可向競賽負責人提出上訴。
+[[div class="memorialgrid"]]
+[[div class="memorialskull"]]
+[[image https://i.imgur.com/v1Lrp9D.png]]
+[[div class="memorialname"]]
+**UNCLE NICOLINI**
 [[/div]]
+[[div class="memorialblurb"]]
+絢爛殘渣之墓。
+
+此生物的黏稠汁液被榨乾了，就像是某種甜美的果肉一樣。這種味道可能永遠都讓人忘不了了。
+[[/div]]
+[[/div]]
+
+[[div class="memorialskull"]]
+[[image https://i.imgur.com/V6EJS1V.png]]
+[[div class="memorialname"]]
+**CUBESEER**
+[[/div]]
+[[div class="memorialblurb"]]
+不可視者之墓。
+
+遺忘有時被視為是種仁慈，但有些記憶並不是如此容易抹去。即使在最黑暗的縫隙中，也能看見光明。
+[[/div]]
+[[/div]]
+
+[[div class="memorialskull"]]
+[[image https://i.imgur.com/g7P7bR5.png]]
+[[div class="memorialname"]]
+**UNCANNYCLOWN**
+[[/div]]
+[[div class="memorialblurb"]]
+殘忍背負者艾略特之墓。
+
+腫脹之屍充斥著我們組織的無數罪惡。只要還繼續存在，我們就不會因我們的罪而受罰。
+
+為此，願這具屍體永遠不得安息。
+[[/div]]
+[[/div]]
+
+[[div class="memorialskull"]]
+[[image https://i.imgur.com/cYlEYeB.png]]
+[[div class="memorialname"]]
+**J_V_G**
+[[/div]]
+[[div class="memorialblurb"]]
+彼得斯船長之墓。
+
+瓜德拉多魷號的紀錄不多，其所愛之船長一生的紀錄就更少了。然而你仍發現自己正站在那繁星點點的山頂上，被他溫暖的懷抱所包圍。
+[[/div]]
+[[/div]]
+
+[[div class="memorialskull"]]
+[[image https://i.imgur.com/W2f2ZOd.png]]
+[[div class="memorialname"]]
+**BASIRSKIPREADER**
+[[/div]]
+[[div class="memorialblurb"]]
+滿載碎片的水坑。
+
+此處並無值得讚美與紀念之物。
+[[/div]]
+[[/div]]
+
+[[div class="memorialskull"]]
+[[image https://i.imgur.com/i7iFGrs.png]]
+[[div class="memorialname"]]
+**RADDAGHER**
+[[/div]]
+[[div class="memorialblurb"]]
+嗜血機器之墓。
+
+此鋼鐵造物宣稱對他者懷抱汙穢之愛，卻被正義之手擊倒後撕成碎片。現在它僅僅只是無生命的廢棄物罷了。
+[[/div]]
+[[/div]]
+
+[[div class="memorialskull"]]
+[[image https://i.imgur.com/EuX0BFR.png]]
+[[div class="memorialname"]]
+**DINO—DRAWS**
+[[/div]]
+[[div class="memorialblurb"]]
+被死亡拋棄的生物。
+
+在這種狀態下它看起來似乎相當平靜，就好像已經得到了令人渴望的安息一樣。什麼想法能夠擾動這頭野獸的心靈？
+[[/div]]
+[[/div]]
+
+[[div class="memorialskull"]]
+[[image https://i.imgur.com/ReLVFdh.png]]
+[[div class="memorialname"]]
+**THEYCALLMETIM**
+[[/div]]
+[[div class="memorialblurb"]]
+無人行經之墓。
+
+這本書的書頁具有引誘之力，迴響著許久以前人們的聲音。正是因此它才會付之一炬。
+[[/div]]
+[[/div]]
+
+[[div class="memorialskull"]]
+[[image https://i.imgur.com/9W49goe.png]]
+[[div class="memorialname"]]
+**QUEERIOUS**
+[[/div]]
+[[div class="memorialblurb"]]
+在目睹了造物特有恐怖後展開的自我之墓。
+
+前方的道路除了虛無一無所有。然而即使如此，那個貪婪無智的『你』，依舊無奈地落入了咬牙切齒的真理之口。
+[[/div]]
+[[/div]]
+
+[[div class="memorialskull"]]
+[[image https://i.imgur.com/tPWkk5T.png]]
+[[div class="memorialname"]]
+**FAIRYDOCTOR**
+[[/div]]
+[[div class="memorialblurb"]]
+裝飾燃燒薰衣草之墓
+
+即使在烈焰中，此花亦能繁盛生長。
+[[/div]]
+[[/div]]
+
+[[div class="memorialskull"]]
+[[image https://i.imgur.com/Rihy1ME.png]]
+[[div class="memorialname"]]
+**ANONYMOUS**
+[[/div]]
+[[div class="memorialblurb"]]
+瓷王之墓。
+
+此屍體之殘渣可混入靈藥並加以吸收，以達成暫時的效果。受到擊打後，祝福的毒氣將從後方噴出。要是受到足量的傷害，更會噴出大量液體擊飛附近的敵人。
+
+廁所最早是由古美索不達米亞人發明，他們厭倦了沾滿糞便的雙腳。正是由於這樣的奇蹟，人類才能乾淨地生活，不受自己的汙穢玷污。
+[[/div]]
+[[/div]]
+
+[[div class="memorialskull"]]
+[[image https://i.imgur.com/g3sKcjm.png]]
+[[div class="memorialname"]]
+**BHOMAS TOURGET**
+[[/div]]
+[[div class="memorialblurb"]]
+一切公理建於其上之墓。
+
+那些被它的手引導之人會看到偉大未知的證據，並在引導下走向分歧的無限。
+[[/div]]
+[[/div]]
+
+[[div class="memorialskull"]]
+[[image https://i.imgur.com/WLU9d4X.png]]
+[[div class="memorialname"]]
+**PS9K**
+[[/div]]
+[[div class="memorialblurb"]]
+蒙面者之墓。
+
+屈服於內心折磨即是過早之死。必然如此，此人甚至在最終受到埋葬前就已遭火焰吞噬了。
+[[/div]]
+[[/div]]
+
+[[div class="memorialskull"]]
+[[image https://i.imgur.com/LWwNE84.png]]
+[[div class="memorialname"]]
+**MISS LAPIS**
+[[/div]]
+[[div class="memorialblurb"]]
+心塞少女之墓。
+
+此造物之玫瑰色圖畫隱藏著險惡的設計──瞄準人靈魂的無形利刃。
+
+這會為女性帶來衰弱，尤其是那些有野心的女性。
+[[/div]]
+[[/div]]
+
+[[div class="memorialskull"]]
+[[image https://i.imgur.com/5mcjSKr.png]]
+[[div class="memorialname"]]
+**TORCSANDANTLERS**
+[[/div]]
+[[div class="memorialblurb"]]
+以落葉為飾之墓。
+
+這棵樹因愛變得通紅，在過量血液與汁液下嘎吱作響。土壤下有顆心臟隨著名諱的嚎叫跳動著，甜蜜地滲進卷鬚的根。
+[[/div]]
+[[/div]]
+
+[[div class="memorialskull"]]
+[[image https://i.imgur.com/oqBJ8EA.png]]
+[[div class="memorialname"]]
+**XIAOHUIHUI1217**
+[[/div]]
+[[div class="memorialblurb"]]
+繁花盛開之墓。
+
+金烏自海底升起，撥開朦朧之空迎接黎明。
+在新光線之下，我們花園裡的花朵綻放轉化為糖蜜。
+大地變得平坦，天色變得純淨。
+
+願此和平永存。
+[[/div]]
+[[/div]]
+
+[[div class="memorialskull"]]
+[[image https://i.imgur.com/phPFN45.png]]
+[[div class="memorialname"]]
+**PRISMAL**
+[[/div]]
+[[div class="memorialblurb"]]
+女孩之墓。
+
+在自以為是的人眼中，他的頭上長著角。但如果你的家照樣會把你燒死，地獄還能有什麼懲罰呢？
+
+讓我牽著你的手，我們一同踏進火海。
+[[/div]]
+[[/div]]
+
+[[div class="memorialskull"]]
+[[image https://i.imgur.com/o3K6MlC.png]]
+[[div class="memorialname"]]
+**AGENTE SHUFFLE**
+[[/div]]
+[[div class="memorialblurb"]]
+惡意的殘渣之墓。
+
+他們身體的水分徹底擠乾，並在惡臭中被包裹起來。怎樣的存在才能做到這種事？
+[[/div]]
+[[/div]]
+
+
+[[div class="memorialskull"]]
+[[image https://i.imgur.com/oixP2wD.png]]
+[[div class="memorialname"]]
+**HALCYON DAYS**
+[[/div]]
+[[div class="memorialblurb"]]
+前往淨土的蓮花。
+
+有個天地皆知的心願
+降生於人心。
+若罪與美德皆無果報
+宇宙定不公。
+[[/div]]
+[[/div]]
+
+[[div class="memorialskull"]]
+[[image https://i.imgur.com/SAkNKZa.png]]
+[[div class="memorialname"]]
+**ANORRACK**
+[[/div]]
+[[div class="memorialblurb"]]
+摘下手套的天使之墓。
+
+對變形之人而言，死亡只是表象。美麗總能在接縫處被剪去，從天鵝絨上剝落，最後縫進新的人身上。
+[[/div]]
+[[/div]]
+
+[[div class="memorialskull"]]
+[[image https://i.imgur.com/ZJ69ygc.png]]
+[[div class="memorialname"]]
+**LITTLEPENGWY**
+[[/div]]
+[[div class="memorialblurb"]]
+無標記之墓。
+
+本要安裝在飛機之下的間諜相機。底片全是空白。
+[[/div]]
+[[/div]]
+
+[[div class="memorialskull"]]
+[[image https://i.imgur.com/BUAUd5E.png]]
+[[div class="memorialname"]]
+**CALIBOLD**
+[[/div]]
+[[div class="memorialblurb"]]
+百歲老者之墓。
+
+儘管工作帶來了壓力，他們仍過上健康長壽的生活。但他們最後仍有遺憾，由於把太多精力投入在工作中，他們幾乎沒有留下什麼來維持生活。
+
+何等浪費，何等浪費……
+[[/div]]
+[[/div]]
+
+[[div class="memorialskull"]]
+[[image https://i.imgur.com/gVU7Fll.png]]
+[[div class="memorialname"]]
+**SOME REFERENCE**
+[[/div]]
+[[div class="memorialblurb"]]
+模因使之墓。
+
+成千上萬的目光在瞥見那畫面的瞬間，心中安定了下來。唱詩班齊唱安魂曲，旋即邁向死亡。
+[[/div]]
+[[/div]]
+
+[[div class="memorialskull"]]
+[[image https://i.imgur.com/Tb0jX15.png]]
+[[div class="memorialname"]]
+**PARALLELPOTATOES**
+[[/div]]
+[[div class="memorialblurb"]]
+一切良善之墓
+
+祝福經常以微小而微妙的方式傳達，透過人與人之間分享的小動作與轉瞬即逝的情感去感受。即使如此，這些小小善舉仍有媲美最強大奇蹟的力量。
+[[/div]]
+[[/div]]
+
+[[div class="memorialskull"]]
+[[image https://i.imgur.com/o4SVnX6.png]]
+[[div class="memorialname"]]
+**DRBLEEP**
+[[/div]]
+[[div class="memorialblurb"]]
+悲劇愛情之墓。
+
+忘卻過去使我們重蹈覆轍。我不會讓你們埋葬這段記憶的，因為重演的未來將會毀滅我們所有人。
+[[/div]]
+[[/div]]
+
+
+[[div class="memorialskull"]]
+[[image https://i.imgur.com/CoaraG3.png]]
+[[div class="memorialname"]]
+**R4_EX**
+[[/div]]
+[[div class="memorialblurb"]]
+無辜者之墓。
+
+埋葬的屍體已經變成了光點，是未誕生嬰孩的初生之形。在這種狀態下，所有的罪孽都已受淨化並得到寬恕。
+[[/div]]
+[[/div]]
+
+[[div class="memorialskull"]]
+[[image https://i.imgur.com/czEBtLs.png]]
+[[div class="memorialname"]]
+**UNCGRIFFIN**
+[[/div]]
+[[div class="memorialblurb"]]
+浸染堅定殉道者血液之墓。
+
+那聲音對我說。「與我同行，我們必會勝利。」
+
+我允許自己的心遭到扼殺，允許自己說出不屬於自己的話。很快我的手就被血染黑了。
+
+我們一同走進約旦河與大海，用我們的罪惡將其染成血紅。
+[[/div]]
+[[/div]]
+
+[[div class="memorialskull"]]
+[[image https://i.imgur.com/Jp5c0Ki.png]]
+[[div class="memorialname"]]
+**GUNPOWDR**
+[[/div]]
+[[div class="memorialblurb"]]
+迷人樹之墓。
+
+它的汁液可以提煉成催眠霧氣，讓人能夠影響他人的心靈。英戈用這種藥劑完成他父親展開的事業，無論這意味著怎樣的褻瀆。
+[[/div]]
+[[/div]]
+
+[[div class="memorialskull"]]
+[[image https://i.imgur.com/Kqr0qTH.png]]
+[[div class="memorialname"]]
+**FACELESSPOLARBEAR**
+[[/div]]
+[[div class="memorialblurb"]]
+籠中女人之墓。
+
+在適當的條件下，這名囚犯可能出現如野獸般的巨變。這種效果日日夜夜、歷經苦難地接受測試，直到什麼都不剩下。
+[[/div]]
+[[/div]]
+
+[[div class="memorialskull"]]
+[[image https://i.imgur.com/e5efPv7.png]]
+[[div class="memorialname"]]
+**TROUTMASKREPLICA**
+[[/div]]
+[[div class="memorialblurb"]]
+你未曾擁有--的兒子--之墓。
+
+康乃馨的花蕾從不綻放，因為它背離了太陽。
+
+有一天，我希望你能原諒我。
+
+[[/div]]
+[[/div]]
+
+[[div class="memorialskull"]]
+[[image https://i.imgur.com/bySbABc.png]]
+[[div class="memorialname"]]
+**LIGHTNING HELIX**
+[[/div]]
+[[div class="memorialblurb"]]
+裝扮淫婦的自動販賣機之墓。
+
+成堆寫給高級仲裁人的信，全都是在懇求主任。確實，一個人能夠生出多少怨恨呢？
+
+當拉格面對此事時，他只能說：
+
+「不會撤除自動販賣機。」
+[[/div]]
+[[/div]]
+
+[[div class="memorialskull"]]
+[[image https://i.imgur.com/E3yU5AE.png]]
+[[div class="memorialname"]]
+**NEWFOUNDDANGER**
+[[/div]]
+[[div class="memorialblurb"]]
+孤獨流浪者之墓。
+
+分久必合。合久必分。
+
+我們來自塵土，也終將歸於塵土。
+[[/div]]
+[[/div]]
+
+[[div class="memorialskull"]]
+[[image https://i.imgur.com/NePpXNt.png]]
+[[div class="memorialname"]]
+**PROBLEMPAL**
+[[/div]]
+[[div class="memorialblurb"]]
+真正藝術、意義、一切美麗事物之墓。
+
+一個人能費多少唇舌咒罵自己的祖國？有多少人自欺欺人地以為混亂能孕育出意義？
+
+我們良好的傳統家庭價值去哪了？
+[[/div]]
+[[/div]]
+
+[[div class="memorialskull"]]
+[[image https://i.imgur.com/KJ08Arw.png]]
+[[div class="memorialname"]]
+**LOGGERHEAD**
+[[/div]]
+[[div class="memorialblurb"]]
+放血者之墓。
+
+相信神靈是愚蠢的──而我們確實蠢，因為相信更高權力的話語嗎？我的忠誠如此可憎，只能看著現實就這樣擺在我面前。
+
+紅色什一稅降臨到了我們身上。
+[[/div]]
+[[/div]]
+
+
+[[div class="memorialskull"]]
+[[image https://i.imgur.com/hWJduDR.png]]
+[[div class="memorialname"]]
+**???**
+[[/div]]
+[[div class="memorialblurb"]]
+無名之墓。
+
+列名於此：
+Monkeysky
+delorphin
+ubergoober
+LeeBr
+The Sky Rider
+blackinblack
+PabloAxolotl
+[[/div]]
+[[/div]]
+
+[[div class="memorialskull"]]
+[[image https://i.imgur.com/aOd1Whs.png]]
+[[div class="memorialname"]]
+**ETHAGON**
+[[/div]]
+[[div class="memorialblurb"]]
+墓地前有兩塊無標示的墓碑。
+
+我們為你打造了這裡。
+你已經受人遺忘了。
+這個就是剩下來的全部了。
+[[/div]]
+[[/div]]
+[[/div]]
+[[div class="winnermemorial"]]
+[[image https://i.imgur.com/e5MH4lb.png]]
+[[div class="memorialname"]]
+**[http://scp-zh-tr.wikidot.com/site-69 CROQUEMBOUCHE]**
+[[/div]]
+[[div class="memorialblurb"]]
+遙遠的記憶，雪與呼嘯之風……
+
+小丑成群向冰凍的荒原行進，最後慘死於此。這個世界上又多了七人失踪，七具屍體被運走了。
+
+什麼都不重要了。沒有人會記得他們，也沒有人會注意到他們已經離開了。
+
+憤怒已然止息。
+世界依舊在。
+一切安好。
+[[/div]]
+[[/div]]
+
+[[div class="darkWRATHboxinterior"]]
+
 [[/div]]
 
 @@@@
