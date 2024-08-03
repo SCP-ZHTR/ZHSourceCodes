@@ -1,0 +1,168 @@
+[[include component:scp-meta-title-hiding css-style=classic]]
+[[include info:start]]
+原文：[https://scp-wiki.wikidot.com/scp-8668 SCP-8668] 就法律而言，是個好女孩
+作者：[[*user OriTiefling]]
+譯者：[[*user Frederica Bernkastel]]
+[[include info:end]]
+
+[[include :scp-zh-tr:theme:basalt hidetitle=a]]
+[[include :scp-zh-tr:theme:turbo-vision blocks=-]]
+=====
+[[include component:preview
+text=
+這種日子我們確實啥都選得出來嗯嗯。
+]]
+=====
+[[module css]]
+:root {
+  --logo: url(https://scp-wiki.wdfiles.com/local--files/secure-facility-dossier-site-58/58logo.png);
+  --title: "SITE-58:";
+  --subtitle: "彌合我們之間的鴻溝";
+}
+.email-example .collapsible-block-folded a.collapsible-block-link {
+    animation: blink 0.8s ease-in-out infinite alternate;
+}
+@keyframes blink {
+    0% { color: transparent; }
+    50%, 100% { color: #b01; }
+}
+.email {border: solid 2px #000000; width: 88%; padding: 1px 15px; margin: 10px; box-shadow: 0 1px 3px rgba(0,0,0,.5)}
+.email-example a.collapsible-block-link {font-weight: bold;}
+.tofrom {margin-left: 10px; margin-top: 5px; padding: 1px 15px; border-left: solid 3px maroon}
+[[/module]]
+
+[[include :scp-zh-tr:component:anomaly-class-bar-source
+
+|item-number= SCP-8668
+|clearance= 2
+|container-class= safe
+|secondary-class=
+|secondary-icon=
+|disruption-class= dark
+|risk-class= notice
+
+]]
+
+------
+
+[[include component:image-block
+name=https://scp-wiki.wdfiles.com/local--files/scp-8668/dog2.png|
+caption= 收容中的SCP-8668（2013）。
+]]
+
+**特殊收容措施：** SCP-8668應收容於Site-58標準動物圍欄中。應按照SCP-8668標準護理時間，每日餵食兩次、散步一次。在陪同SCP-8668散步的過程中，負責人員應隨身攜帶生物危害收容袋。
+
+若SCP-8668於收容室內外的任何時間嘔吐，嘔吐物應置入生物危害收容袋內，並送往Site-58動物學研究部門，該部門將與基金會法律團隊成員共同進行後續的審查。
+
+**描述：** SCP-8668是一頭年齡未知的黃金獵犬。儘管SCP-8668具體年齡未知，但該異常的第一手資料可以上溯至1825年。
+
+當SCP-8668嘔吐時，項目就會產生一分具有法律命令的文件。此類文本結構大多相當拙劣，有著大量的語法錯誤。儘管文本提出的「法律」往往在本質上毫無意義，但文本本身卻有著執行法律的明確行動計劃，幾乎不存在可能讓惡意行為者利用的漏洞。
+
+**附錄8668.1：** 發現
+
+SCP-8668最初是在1989年8月31日於威斯康辛雷菲爾德[[footnote]] 該鎮1989年人口數為536。[[/footnote]]被發現。SCP-8668自1977年以降就一直擔任該鎮的鎮長。在注意到電視播出了以下的SCP-8668競選連任廣告後，這座城鎮引起了基金會的注意。
+
+[[div class="blockquote"]]
+
+**<影像開始>**
+
+//鏡頭開始，SCP-8668坐在田野上。一陣風輕輕吹亂了SCP-8668的皮毛。//
+
+**畫外音：** 今年十一月，你的投票選擇再清楚不過了。
+
+//鏡頭切換，SCP-8668在人行道追趕松鼠。//
+
+**畫外音：** 從我們小鎮成立之初起，老Soggy就一直陪伴著我們。他在我們最困難的時期陪伴我們，引導我們走向今日的繁榮。
+
+//鏡頭切換，SCP-8668與嬰兒同框。 SCP-8668舔了舔嬰兒的頭頂。嬰兒咯咯笑著。//
+
+**畫外音：** 早在1825年我們建鎮的時候，老Soggy就在這裡了，他從來沒有把我們帶往錯的方向。他將城鎮憲章頒給了我們的雷菲爾德，他的法律知識已然成為現今我們熟悉熱愛的家園。
+
+//鏡頭切換，SCP-8668正坐著，爪子放在聖經上。//
+
+**畫外音：** 然而，約瑟芬．艾倫斯卻不尊重這遺產。他要將老Soggy逐出立法機關，要我們遵守外鄉人訂定的律法。
+
+//鏡頭切換，出現SCP-8668政敵約瑟芬．艾倫斯拴狗的黑白影像。鏡頭再度切換，SCP-8668坐在美國國旗前。//
+
+**畫外音：** 今年十一月，請相信經過考驗的真實聲音。相信那些相信這個社群的人。相信老Soggy，他有著法律。
+
+//影片切換，SCP-8668吐出一分文件。項目吐出文件後看向鏡頭並吠叫。文件上寫著「投給老Soggy」。//
+
+**畫外音：** 老Soggy，人類最好的朋友。議會將支付老Soggy連任競選的費用。
+
+//畫面以SCP-8668面向攝影機的鏡頭結束。//
+
+**<影像結束>**
+
+[[div class="scp-image-block block-center" style="width:100%;"]]
+[[image https://scp-wiki.wdfiles.com/local--files/scp-8668/doginsuit.jpg style="width:100%;" link=#]]
+[[div class="scp-image-caption" style="width:100%;"]]
+經數位強化處理的影片最終鏡頭。
+[[/div]]
+[[/div]]
+
+[[/div]]
+
+廣播結束後，基金會派遣特工前往雷菲爾德回收SCP-8668。在發現該項目時，SCP-8668正在市長辦公室內起草新法案，使特工得以確認其異常性質。項目於1989年8月14日接受收容，威斯康辛雷菲爾德的居民也都接受了記憶刪除。
+
+**附錄8668.2：** 法律簡述列表
+
+以下是SCP-8668接受基金會收容前後，制定的法律與命令簡述列表。
+
+||~ 年分 ||~ 名稱 ||~ 描述 ||
+|| 1825 || 小鎮來建造 || 由SCP-8668產生的第一分有記錄文件。除了語法上相當怪異外，審查顯示這是有史以來建構過最合法的城鎮憲章。該憲章在接下來的數年中僅進行過1次修訂。||
+|| 1843 || 很多寫好書棒棒法 || 要求所有鎮民每三年至少撰寫一本書，並將其捐贈予鎮圖書館。 ||
+|| 1856 || 便士滾出現在授權案 || 要求城鎮鎔掉所有便士，並使用所得金屬製作以取代現有家用管線。此法律觀定該項作業必須在1857年以前完成[[footnote]]值得注意的是，1857年是美國造幣廠以100%銅原料製作便士的最後一年。[[/footnote]]。任務確實如期完成，此後該鎮的細菌感染率在接下來數年內有所減低。 ||
+|| 1890 || 很多蛙現在法 || 要求所有居民在外套口袋內隨身攜帶蟾蜍[[footnote]]值得注意的是，蟾蜍在法律上不被視為「蛙」的一種。[[/footnote]]法案實施後，該鎮的蚊蟲傳染病顯著下降。 ||
+|| 1907 || 很多貓是的法 || 要求所有居民至少領養一隻貓。值得注意的是，該法案全文中帶有大量髒話，尤其在提到貓的時候。在此法案執行後的數年內，雷菲爾德的老鼠數量急劇下降。 ||
+|| 1910 || 髒髒手洗洗授權案 || 要求所有居民飯前與如廁後使用肥皂與清水洗手。據信由於對健康的日益關注，該鎮在1918年大流感流行期間的感染率顯著降低。 ||
+|| 1956 || 教育好起來現在法 || 該法律取消了鎮上兩所學校的種族隔離政策，並根據當時的現代教育實踐制定課程。 ||
+|| 1970 || 小鎮來建造2 || 唯一專為修改城鎮憲章設計的法律。唯一值得注意的變化是明確不禁止狗擔任公職的新增內容。 ||
+
+SCP-8668於1989年接受收容後，仍在產生新的法律文件。這些文件並未轉送至雷菲爾德鎮。
+
+||~ 年分 ||~ 名稱 ||~ 描述 ||
+|| 1990 || 髒髒線都從家裡移除授權案 || SCP-8668接受收容後產生的第一條法律。該法案要求雷菲爾德所有家庭清除石綿。儘管1989年石綿就受到了國家級別的部分禁令，但由於該法律存在更複雜的限制，直到2024年美國才有與此法案近似的國家立法。 ||
+|| 1991 || 把狗放回去授權案 || 第一部針對基金會發出的法案。該法案要求基金會將SCP-8668送還雷菲爾德。經過基金會法律團隊的審查後，發現該法案的一個小漏洞，基金會得以繼續收容SCP-8668。 ||
+|| 1993 || 讓房子好起來法 || 要求雷菲爾德所有房屋都經過防火處理，要求將房屋隔熱材料替換為硼酸鹽防火纖維素隔熱材料。 ||
+|| 1994 || 把狗放回去現在立刻授權案 || 重寫了1991年的《把狗放回去授權案》，處理掉了先前發現的法律漏洞。儘管基金會法律團隊無法找出繼續收容SCP-8668的新漏洞，但基金會選擇直接不遵守該法令。 ||
+|| 1994 || 挖大洞法 || 要求居民挖掘將城鎮完全圍住（不包括主高速公路與道路）的大溝渠，其最小寬度等於50英尺加上1英尺內最高樹樹木長度。 ||
+|| 1994 ||好女孩回家去拜託拜託拜託授權案 || 概述基金會將SCP-8668送回威斯康辛雷菲爾德的具體計劃，內容盡可能減少了對面紗的危害。已拒絕該法案，因為這仍然允許該城鎮對SCP-8668的繼續了解。 ||
+|| 1994 || 濕濕植物送過去拜託授權案 || 概述了雷菲爾德的新灌溉計畫，旨在應對乾旱天氣，文件還附上了要基金會向該鎮發布此授權案的請求。已拒絕該要求。 ||
+
+**附錄8668.3：** 事故報告
+
+1994年7月16日，SCP-8668變得毫無反應。健康檢查顯示沒有任何異常，SCP-8668仍然存活且相當健康。基金會調查顯示，SCP-8668行為改變的時間點，與威斯康辛雷菲爾德約60%地區毀滅的時間同時。調查顯示，該鎮因乾旱引發的失控森林大火幾乎全毀。
+
+3週後，攝影機拍攝到SCP-8668起身吐出了新文件。該文件內容已記錄如下。
+
+||~ 年分 ||~ 名稱 ||~ 描述 ||
+|| 1994 || 狗留在盒子裡 || 推翻《把狗放回去現在立刻授權案》，允許基金會永久收容SCP-8668。 ||
+
+SCP-8668從此再也沒有產生過任何法律文件。
+
+
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[SCP-8667]]] | SCP-8668 | [[[SCP-8669]]] >>
+[[/=]]
+[[/div]]
+
+[[include :scp-zh-tr:component:license-box
+|author=OriTiefling
+]]
+=====
+> **Filename:** doginsuit.jpg
+> **Author:** Queerious
+> **License:** CC by SA 4.0
+> **Source Link:** https://commons.wikimedia.org/wiki/File:James_Paterson_Portrait.jpg - Licensed under CC by SA 4.0
+https://commons.wikimedia.org/wiki/File:Caleb_Fisher_2015_(Unsplash).jpg - Licensed under Public Domain
+> **Notes:** Dogy :)
+=====
+> **Filename:** dog2.png
+> **Author:** Brandt Luke Zorn
+> **License:** CC by SA 2.0
+> **Source Link:** https://commons.wikimedia.org/wiki/File:15_year_old_golden_retriever.JPG
+> **Notes:** Dogy :)
+=====
+[[include :scp-zh-tr:component:license-box-end]]
