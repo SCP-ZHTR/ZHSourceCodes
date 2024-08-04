@@ -1,0 +1,107 @@
+[[include component:scp-meta-title-hiding css-style=classic]]
+[[include info:start]]
+原文：[https://scp-wiki.wikidot.com/scp-2753 SCP-2753] 來玩疊疊樂！
+作者：[[*user the great hippo]]
+譯者：[[*user Frederica Bernkastel]]
+
+**Images:** [https://commons.wikimedia.org/wiki/File:2016_Election_Watch_(30262247153).jpg Link].
+
+**Music:** [https://youtu.be/I7H6wGy5zf4 Jenga Commercial Jingle] (???)
+
+[[size 80%]]
+= **Next: [[[[SCP-2679]]]]: //The Many Graves of Jeannette Parslov//**
+[[/size]]
+[[include info:end]]
+
+[[include component:scp-pride]]
+
+[[include component:image-block name=https://scp-wiki.wdfiles.com/local--files/scp-2753/jenga.png|caption=SCP-2753-A實例照片，於波士頓異常藝術博覽會會場崩塌前攝得。]]
+
+**項目編號：** SCP-2753
+
+**項目等級：** Keter
+
+**特殊收容措施：** 基金會營運機器人（[[[SCP-3089|I/O-SILVER]]]）應負責監控SCP-2753網路流量。一旦發現SCP-2753必須將所有相關資料全數銷毀。非基金會的SCP-2753知曉者均須接受逮捕、審訊、記憶刪除。
+
+SCP-2753-A個體應拆卸後儲存於站點安全儲存櫃中。SCP-2753-B與SCP-2753-C個體則應視具體情況處置。目前禁止進行任何測試。
+
+**描述：** SCP-2753是一種描述方塊體各邊關係的三維比例。
+
+SCP-2753-A實例是在一定閾值內符合SCP-2753投影的積木，其組成可以是任意大小與材質。只有在42個大小與材質近似的實例組裝成標準疊疊樂塔[[footnote]]疊疊樂是將積木堆積成塔的遊戲。玩家需要輪流移除一個積木並移往塔頂，同時設法避免讓塔倒塌。[[/footnote]]時，項目才會顯現異常效應：如果這座疊疊樂塔倒塌，其所在建築也會隨之崩塌。
+
+自2009年以降，由於3D列印技術的日益普及與精準，SCP-2753又能在OBJ檔案中以可列印的疊疊樂結構呈現，該項目已經造成了21起建築崩塌、35人受傷、14人死亡。
+
+**附錄2753.1：** 事故
+
+[[collapsible show="► 存取SCP:/2753/incidents/007.log" hide="▼ 關閉檔案"]]
+> = **事故紀錄**
+> ----
+> **日期：** 1988/07/07
+> **主旨：** SCP-2753-A
+> ----
+> 波士頓異常藝術博覽會[[footnote]]波士頓異常藝術博覽會是地下藝術博覽會，致力於分享各種異常藝術家的作品。[[/footnote]] 展覽倉庫倒榻即是SCP-2753-A所致。會場廢墟中還發現了其他14件異常藝術品（包括[[[SCP-1433]]]、[[[SCP-1617]]]實例、[[[project-proposal-1994-103|SCP-████]]]）。崩塌事件造成了49人受傷21人死亡。在項目附近發現了以下簡介：
+> 
+>> 「高」等藝術究竟能有多高？讓我們疊疊看吧！
+>> 
+>> 這座塔將會在博覽會開始時組裝，鼓勵各位觀眾把這個藝術越疊越高！
+>> 
+>> 但要注意，高等藝術伴隨著高風險！要是你疊得太高，你可能會發現範例從你頭頂上崩塌下來！
+>> 
+>> - [[[are-we-cool-yet-hub|AWCY]]]
+> 
+[[/collapsible]]
+
+[[collapsible show="► 存取SCP:/2753/incidents/021.log" hide="▼ 關閉檔案"]]
+> = **事故紀錄**
+> ----
+> **日期：** 1995/07/14
+> **主旨：** SCP-2753-B
+> ----
+> 根據來源未公開消息，基金會營運機器人（I/O-SILVER）已用於搜尋金融市場數據中的SCP-2753投影。出人意料的，SCP-2753與數家投資與多層次傳銷公司[[footnote]]多層次傳銷是仰賴金字塔形雇傭體系生成利潤的商業策略。[[/footnote]]的倒閉有所關聯。
+> 
+> 在更進一步的調查後，證實了SCP-2753-B實例的存在。該實例是在一定閾值內符合SCP-2753投影的金融資產，其組成可以是任意價值與類型。只有在42個價值與類型近似的實例組裝成相互依存的網路時，項目才會顯現異常效應：如果這個網路失去償付能力，與之相關的任何公司實體都會立即遭遇災難級財務崩潰。
+> 
+> 基金會目前正在努力尋找所有此類網路並將其安全解除。
+[[/collapsible]]
+
+[[collapsible show="► 存取SCP:/2753/incidents/035.log" hide="▼ 關閉檔案"]]
+> = **事故紀錄**
+> ----
+> **日期：** 2016/07/21
+> **主旨：** SCP-2753-C
+> ----
+> 根據來源未公開消息，基金會營運機器人（I/O-SILVER）已用於搜尋各類流通代碼存儲庫，以及檔案共享網路中的SCP-2753投影。SCP-2753與數起重大伺服器崩潰以及關鍵資料丟失有所關聯。
+> 
+> 在更進一步的調查後，證實了SCP-2753-C實例的存在。該實例是在一定閾值內特殊屬性符合SCP-2753投影的檔案，其組成可以是任意大小與類型。只有在42個大小與類型近似的實例受單個程式同時存取時，項目才會顯現異常效應：如果這個程式意外崩潰，任何執行該程式的網路都將立刻遭遇災難級崩潰。
+> 
+> 基金會目前正在努力尋找所有此類程序並將其摧毀。[[/collapsible]]
+
+[[collapsible show="► 存取SCP:/2753/incidents/042.log" hide="%%$ ERROR:FileNotFound()"]]
+++ 035內部伺服器錯誤
+伺服器遭遇意外情況，無法滿足指令(REQUEST_PROTOCOL 028):
+[[div style="display: inline-block; background:#000000; float:top; padding:5px; width:100%"]]
+##red|{{Traceback (most recent call last):}}
+{{@@  File "/SCP/2753/files/_display.py", line 21, in respond@@}}
+{{@@    table.open.body = self.handler()@@}}
+{{@@  File "/SCP/2753/files/_display.py", line 14, in __call__@@ }}
+{{@@    return self.callable(*self.args, **self.kwargs)@@}}
+{{@@  File "error_classic.py", line 7 in index@@}}
+{{@@    raise NotImplementedError(msg)@@}}
+{{@@NotImplementedError:@@ [[[[scp-2747|數據丟失]]]]}}##
+[[/div]]
+> **備注：** IntSCPFN網路遭遇嚴重錯誤。如果你看見此訊息請立即透過電話、無線電或親自向你的站點主任報告。
+
+//##white|我們全都##//
+
+//##white|崩##//
+
+//##white|塌了##//
+[[/collapsible]]
+
+[[footnoteblock]]
+
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[SCP-2752]]] | SCP-2753 | [[[SCP-2754]]] >>
+[[/=]]
+[[/div]]
