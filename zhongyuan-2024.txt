@@ -1,0 +1,696 @@
+[[include :scp-wiki:component:preview
+|text=農曆七月，陰陽合一，門扉開啟。]]
+=====
+
+[[include :scp-zh-tr:theme:black-highlighter-theme]]
+[[include :scp-zh-tr:component:toggle-sidebar-bhl]]
+[[include :scp-zh-tr:component:centered-header-bhl]]
+[[include :scp-sandbox2-zh:collab:i-hate-coding-2]]
+
+[[module css]]
+@import url('https://fonts.googleapis.com/css2?family=Zen+Antique+Soft&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+TC:wght@800&display=swap');
+
+.award1 {
+    background:url("https://i.imgur.com/KK2egnH.png"), url(https://i.imgur.com/aY15fN1.png);
+}
+
+.award2 {
+    background:url("https://i.imgur.com/uT0EMbq.png"), url(https://i.imgur.com/aY15fN1.png);
+}
+
+.award3 {
+    background:url("https://i.imgur.com/DKHIHYe.png"), url(https://i.imgur.com/aY15fN1.png);
+}
+
+.award4 {
+    background:url("https://i.imgur.com/hAnT96M.png"), url(https://i.imgur.com/aY15fN1.png);
+}
+
+.award1, .award2, .award3, .award4 {
+    font-family: "Noto Serif TC", serif;
+    font-weight:800;
+    font-color: #000000;
+    font-size: clamp(0.8rem, 2.5vw, 1.5rem);
+    background-repeat:no-repeat, repeat-y;
+    background-size: 55%, 60%;
+    background-position: top, top;
+    padding: 15px;
+}
+
+
+[[/module]]
+
+[[module CSS]]
+#page-title { display: none; }
+
+div.page-source {
+  background-color: gray;
+}
+[[/module]]
+
+[[module css]]
+@font-face {
+  font-family: Bakudai-Regular;
+  src: url(https://cdn.jsdelivr.net/gh/max32002/bakudaifont@1.48/webfont/Bakudai-Regular.woff2) format("woff2");
+}
+
+:root:lang(zh) {
+    --header-font: 'Bakudai-Regular', Georgia, Palatino, serif;
+    --logo-image: url(https://i.imgur.com/A7ebHar.png);
+    --header-title: "早梅詩";
+    --header-h1-font-size: 5rem;
+
+    --header-height-on-desktop: calc(20.5rem + 4.25vw);
+    --header-height-on-mobile: var(--header-height-on-desktop);
+    --topbar-height-on-desktop: 2.75rem;
+    --topbar-height-on-mobile: var(--topbar-height-on-desktop);
+    --body-width-on-desktop: 65.75rem;
+
+    --gradient-topmenu-mobile: rgb(var(--swatch-primary-darkest));
+    --toggle-roundness: 0;
+    --toggle-icon-color: rgb(var(--bright-accent));
+    --toggle-border-color: var(--toggle-icon-color);
+
+   --bright-accent: 255, 31, 31;
+    --medium-accent: var(--bright-accent);
+    --dark-accent: 11,12,20;
+    --dark-gray-monochrome: 21,19,36;
+    --swatch-text-general: 252,252,252;
+    --swatch-text-light: var(--swatch-primary);
+    --modal-body-text: var(--swatch-text-general);
+    --swatch-background: 48, 48, 52;
+    --modal-body-text: 0, 0, 0;
+}
+
+body {
+    background-image: url(https://i.imgur.com/KOsWyqs.png);
+    background-repeat: initial;
+    background-size: calc(7.25rem + 3.75vw);
+    background-position: center;
+}
+div#container-wrap {
+    background-image: linear-gradient(to right, rgb(var(--swatch-primary-darkest),.875), transparent 35%, transparent 65%, rgb(var(--swatch-primary-darkest),.875));
+    background-repeat: initial;
+    background-position: initial;
+    background-size: auto;
+}
+div#extra-div-1, div#extra-div-1::before { all: unset; }
+
+#header {
+    --login-dropdown-bg-hover-color: var(--gray-monochrome);
+}
+#header::before {
+    top: 0;
+    background-position: center;
+    background-size: auto calc(var(--header-height-on-desktop) + 0.5rem);
+    opacity: 1;
+}
+#header h1 {
+    height: calc(var(--header-height-on-desktop) - var(--topbar-height)*5);
+    margin-top: calc(var(--topbar-height)*5);
+}
+#header h1 a::before { all: unset; }
+#header h1 a::after {
+text-shadow: 0 0 0.75rem rgb(var(--swatch-primary-darkest),0.75);
+}
+#header h2 {
+    display: none;
+}
+
+#top-bar {
+    --dropdown-links-bg-color: var(--swatch-primary), 0.5;
+    --topmenu-hover-border-color: var(--bright-accent);
+
+#side-bar {
+    background-color: rgb(var(--swatch-primary-darkest))!important;
+}
+#side-bar .heading p {
+    -webkit-text-fill-color: unset;
+    background: initial;
+    -webkit-background-clip: unset;
+    background-clip: unset;
+    text-align: center;
+}
+#main-content {
+    padding-top: 5rem;
+    padding-inline: 1.5rem;
+    --pagetags-text-color: var(--swatch-primary);
+}
+
+#page-content {
+    max-width: 100%;
+    line-height: 1.625;
+}
+
+#page-content hr {
+    height: 0.01rem;
+    border: none;
+    box-shadow: none;
+    margin-block: 3.25rem;
+    background: unset;
+    background-color: rgb(var(--swatch-primary-darker));
+}
+#page-content hr::before, #page-content hr::after { all: unset; }
+
+#page-title, .meta-title, #page-content :is(h1, h2, h3, h4, h5, h6) {
+    -webkit-background-clip: unset;
+    background-clip: unset;
+    background: unset;
+   background-blend-mode: unset;
+    -webkit-text-fill-color: unset;
+    color: rgb(var(--swatch-primary-darker));
+}
+
+#footer {
+    border-top: solid 0.125rem rgb(var(--swatch-primary-darker));
+}
+
+
+[[/module]]
+
+[[module css]]
+@import url('https://fonts.googleapis.com/css2?family=Zen+Antique+Soft&display=swap');
+.vtitle {
+    -webkit-writing-mode: vertical-rl;
+    writing-mode: vertical-rl;
+    margin: 0.75em auto;
+    height: 14em;
+    font-size: 1.8em;
+    font-family: 'Zen Antique Soft', serif;
+    border:solid;
+}
+[[/module]]
+
+[[include info:start]]
+= **中元恐怖——早梅詩**
+@@ @@
+由 [[*user abyssdream]] 以及 [[*user Frederica Bernkastel]] 構想，並由20位站內作者協力合著。
+[[include info:end]]
+
+@@ @@
+@@ @@
+@@ @@
+
+[[div style="display: flex; justify-content: center; align-items: center;"]]
+[[div class="vtitle" style="background-color: #780606;"]]
+
+　東風破早梅　向暖一枝開　
+　冰雪無人見　春從天上來　
+[[/div]]
+[[/div]]
+
+[[=]]
+[[size 120%]][[span style="font-family:'Noto Serif TC';"]]你推開了鏽蝕的[https://docs.google.com/forms/d/1MjXfYEOSP8db5qLDsuqj_l3avuweFjYeVeZSvkRuItw/edit 鐵門]。[[/span]][[/size]]
+[[/=]]
+
+@@ @@
+
+----
+
+[[=]]
+[[size 135%]][[span style="font-family:'Zen Antique Soft';"]]介紹 | WHAT IS THIS?[[/span]][[/size]]
+[[/=]]
+
+@@ @@
+
+[[=]]
+
+《早梅詩》——是繁中分部在2024年農曆七月期間所發布的原創恐怖SCP合輯。
+@@ @@
+接下來的二十日內，二十位本分部的作者將發布二十篇全新的SCP作品，訴出潛伏於你我身旁的夢魘、魅影與無法直面的恐懼。
+@@ @@
+農曆七月，陰陽合一，門扉開啟。
+
+[[/=]]
+
+@@ @@
+
+[[div class="fortune-container"]]
+
+[[include :scp-sandbox2-zh:draft:5325850-1o-ly074dry
+|status= |pre-flipped=
+|author=理化老師
+|art= https://upload.wikimedia.org/wikipedia/commons/6/64/Retablo11-Pistaku.jpeg
+|url=http://scp-zh-tr.wikidot.com/scp-zh-249
+|title=東是「XX」
+]]
+
+[[include :scp-sandbox2-zh:draft:5325850-1o-ly074dry
+|status= |pre-flipped=
+|author=不是老師
+|art= https://i.imgur.com/F2Zp15f.gif
+|url=http://scp-zh-tr.wikidot.com/scp-zh-420
+|title=風是「XX」
+]]
+
+[[include :scp-sandbox2-zh:draft:5325850-1o-ly074dry
+|status= |pre-flipped=
+|author=天體物理學老師
+|art= https://imgur.com/Cqa1MTF.png
+|url=http://scp-zh-tr.wikidot.com/scp-zh-425
+|title=破是「XX」
+]]
+
+[[include :scp-sandbox2-zh:draft:5325850-1o-ly074dry
+|status= |pre-flipped=
+|author=華倫海特老師
+|art= https://i.imgur.com/CgUdzO2.jpg
+|url=http://scp-zh-tr.wikidot.com/scp-zh-454
+|title=早是「XX」
+]]
+
+[[include :scp-sandbox2-zh:draft:5325850-1o-ly074dry
+|status= |pre-flipped=
+|author=管理員老師
+|art= https://i.imgur.com/yb8iZo9.png
+|url=http://scp-zh-tr.wikidot.com/scp-zh-715
+|title=梅是「XX」
+]]
+
+[[include :scp-sandbox2-zh:draft:5325850-1o-ly074dry
+|status= |pre-flipped=
+|author=檔案老師
+|art= https://i.imgur.com/SsfWZZu.jpeg
+|url=http://scp-zh-tr.wikidot.com/scp-zh-737
+|title=向是「XXXX」
+]]
+
+[[include :scp-sandbox2-zh:draft:5325850-1o-ly074dry
+|status= |pre-flipped=
+|author=雷雨老師
+|art= https://i.imgur.com/fXsICjoh.png
+|url=http://scp-zh-tr.wikidot.com/scp-zh-754
+|title=暖是「XXXX」
+]]
+
+[[include :scp-sandbox2-zh:draft:5325850-1o-ly074dry
+|status= |pre-flipped=
+|author=佛洛伊德老師
+|art= https://lett-store.github.io/CSR-2.png
+|url=http://scp-zh-tr.wikidot.com/scp-zh-784
+|title=一是「XXX」
+]]
+
+[[include :scp-sandbox2-zh:draft:5325850-1o-ly074dry
+|status= |pre-flipped=
+|author=朝日老師
+|art= https://live.staticflickr.com/65535/53881613332_af7b4e7fd9_m.jpg
+|url=http://scp-zh-tr.wikidot.com/scp-zh-787
+|title=枝是「XX」
+]]
+
+[[include :scp-sandbox2-zh:draft:5325850-1o-ly074dry
+|status= |pre-flipped=
+|author=反事實歷史老師
+|art= https://upload.wikimedia.org/wikipedia/commons/5/50/John_Martin_-_The_Great_Day_of_His_Wrath_-_Google_Art_Project.jpg
+|url=http://scp-zh-tr.wikidot.com/scp-zh-792
+|title=開是「XX」
+]]
+
+[[include :scp-sandbox2-zh:draft:5325850-1o-ly074dry
+|status= |pre-flipped=
+|author=安克羅老師
+|art= https://i.imgur.com/6V0zpOS.jpeg
+|url=http://scp-zh-tr.wikidot.com/scp-zh-809
+|title=冰是「XXX」
+]]
+
+[[include :scp-sandbox2-zh:draft:5325850-1o-ly074dry
+|status= |pre-flipped=
+|author=行為矯正老師
+|art= https://i.imgur.com/rmNA6sp.jpeg
+|url=http://scp-zh-tr.wikidot.com/scp-zh-819
+|title=雪是「XX」
+]]
+
+[[include :scp-sandbox2-zh:draft:5325850-1o-ly074dry
+|status= |pre-flipped=
+|author=艾略特老師
+|art= https://i.imgur.com/owFKAsk.gif
+|url=http://scp-zh-tr.wikidot.com/scp-zh-840
+|title=無是「XX」
+]]
+
+[[include :scp-sandbox2-zh:draft:5325850-1o-ly074dry
+|status= |pre-flipped=
+|author=法罕-曼斯菲爾德老師
+|art= https://i.imgur.com/Bp5aNAn.png
+|url=http://scp-zh-tr.wikidot.com/scp-zh-850
+|title=人是「XXX」
+]]
+
+[[include :scp-sandbox2-zh:draft:5325850-1o-ly074dry
+|status= |pre-flipped=
+|author=約翰 • 羅比遜老師
+|art= https://i.imgur.com/JWpizQa.jpeg
+|url=http://scp-zh-tr.wikidot.com/scp-zh-854
+|title=見是「XX」
+]]
+
+[[include :scp-sandbox2-zh:draft:5325850-1o-ly074dry
+|status= |pre-flipped=
+|author=幼稚園老師
+|art= https://i.imgur.com/RonJzG8.png
+|url=http://scp-zh-tr.wikidot.com/scp-zh-865
+|title=春是「XX」
+]]
+
+[[include :scp-sandbox2-zh:draft:5325850-1o-ly074dry
+|status= |pre-flipped=
+|author=生物老師
+|art=https://upload.wikimedia.org/wikipedia/commons/1/15/Elephanti.jpg
+|url=http://scp-zh-tr.wikidot.com/scp-zh-891
+|title=從是「XX」
+]]
+
+[[include :scp-sandbox2-zh:draft:5325850-1o-ly074dry
+|status= |pre-flipped=
+|author=犯罪心理學老師
+|art= https://i.imgur.com/dzH1BaH.jpeg
+|url=http://scp-zh-tr.wikidot.com/scp-zh-897
+|title=天是「XXX，XX」
+]]
+
+[[include :scp-sandbox2-zh:draft:5325850-1o-ly074dry
+|status= |pre-flipped=
+|author=鄉土老師
+|art= https://i.imgur.com/DE3KSJx_d.webp?maxwidth=760&fidelity=grand
+|url=http://scp-zh-tr.wikidot.com/scp-zh-904
+|title=上是「XX」
+]]
+
+[[include :scp-sandbox2-zh:draft:5325850-1o-ly074dry
+|status= |pre-flipped=
+|author=火種老師
+|art= https://i.imgur.com/IDRHVx1.jpg
+|url=http://scp-zh-tr.wikidot.com/scp-zh-975
+|title=來是「XX」
+]]
+
+[[/div]]
+
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+
+
+----
+
+[[=]]
+[[size 135%]][[span style="font-family:'Zen Antique Soft';"]]文章列表 | ARTICLES[[/span]][[/size]]
+[[/=]]
+
+@@ @@
+
+[[div style="padding-left: 20px;"]]
+
+* [[[scp-zh-249|東是「XX」]]] - 理化老師##grey|（8/14）##
+[[div style="border-left: darkred 0.2rem solid; padding-left: 8px; margin-top: 12px; margin-bottom: 12px; color: #white; opacity: 0.8;"]]
+累？我不累。我是一個欲望驅動的機械。
+[[/div]]
+* [[[scp-zh-420|風是「XX」]]] - 不是老師##grey|（8/15）##
+[[div style="border-left: darkred 0.2rem solid; padding-left: 8px; margin-top: 12px; margin-bottom: 12px; color: #white; opacity: 0.8;"]]
+你被判決有罪。
+[[/div]]
+* [[[scp-zh-425|破是「XX」]]] - 天體物理學老師##grey|（8/16）##
+[[div style="border-left: darkred 0.2rem solid; padding-left: 8px; margin-top: 12px; margin-bottom: 12px; color: #white; opacity: 0.8;"]]
+救　我　在　裡　面。
+[[/div]]
+* [[[scp-zh-454|早是「XX」]]] - 華倫海特老師##grey|（8/17）##
+[[div style="border-left: darkred 0.2rem solid; padding-left: 8px; margin-top: 12px; margin-bottom: 12px; color: #white; opacity: 0.8;"]]
+地表不復有液態水存在。
+[[/div]]
+* [[[scp-zh-715|梅是「XX」]]] - 管理員老師##grey|（8/18）##
+[[div style="border-left: darkred 0.2rem solid; padding-left: 8px; margin-top: 12px; margin-bottom: 12px; color: #white; opacity: 0.8;"]]
+SCP-ZH-715內仍有6名租約尚未到期之一般民眾。
+[[/div]]
+* [[[scp-zh-737|向是「XXXX」]]] - 檔案老師##grey|（8/19）##
+[[div style="border-left: darkred 0.2rem solid; padding-left: 8px; margin-top: 12px; margin-bottom: 12px; color: #white; opacity: 0.8;"]]
+...承上則，經異常改動後還原的資訊不再可信。
+[[/div]]
+* [[[scp-zh-754|暖是「XXXX」]]] - 雷雨老師##grey|（8/20）##
+[[div style="border-left: darkred 0.2rem solid; padding-left: 8px; margin-top: 12px; margin-bottom: 12px; color: #white; opacity: 0.8;"]]
+唯一對外的窗戶和窗格已被鎖死。
+[[/div]]
+* [[[scp-zh-784|一是「XXX」]]] - 佛洛伊德老師##grey|（8/21）##
+[[div style="border-left: darkred 0.2rem solid; padding-left: 8px; margin-top: 12px; margin-bottom: 12px; color: #white; opacity: 0.8;"]]
+而我將永遠與你同在。
+[[/div]]
+* [[[scp-zh-787|枝是「XX」]]] - 朝日老師##grey|（8/22）##
+[[div style="border-left: darkred 0.2rem solid; padding-left: 8px; margin-top: 12px; margin-bottom: 12px; color: #white; opacity: 0.8;"]]
+我是不會再失手的。
+[[/div]]
+* [[[scp-zh-792|開是「XX」]]] - 反事實歷史老師##grey|（8/23）##
+[[div style="border-left: darkred 0.2rem solid; padding-left: 8px; margin-top: 12px; margin-bottom: 12px; color: #white; opacity: 0.8;"]]
+團隊由離開房間1開始隱約嗅到魚腥味，氣味在到達新一段走廊時更為強烈。
+[[/div]]
+* [[[scp-zh-809|冰是「XXX」]]] - 安克羅老師##grey|（8/24）##
+[[div style="border-left: darkred 0.2rem solid; padding-left: 8px; margin-top: 12px; margin-bottom: 12px; color: #white; opacity: 0.8;"]]
+我能清楚看到指尖的傷口持續擴散，但大腦抗拒理解、身體抗拒接受，這是我第一次離死亡如此接近。
+[[/div]]
+* [[[scp-zh-819|雪是「XX」]]] - 行為矯正老師##grey|（8/25）##
+[[div style="border-left: darkred 0.2rem solid; padding-left: 8px; margin-top: 12px; margin-bottom: 12px; color: #white; opacity: 0.8;"]]
+然而，安裝在女兒房內的攝影機於該日深夜突然出現故障，故障一直持續到該日清晨為止，在這一段時間內都沒能拍攝到任何畫面，因此無法直接確定女兒失蹤當晚的確切真相。
+[[/div]]
+* [[[scp-zh-840|無是「XX」]]] - 艾略特老師##grey|（8/26）##
+[[div style="border-left: darkred 0.2rem solid; padding-left: 8px; margin-top: 12px; margin-bottom: 12px; color: #white; opacity: 0.8;"]]
+除我之外的所有人都離開這裡，只因這裡沒有任何的救贖。
+[[/div]]
+* [[[scp-zh-850|人是「XXX」]]] - 法罕-曼斯菲爾德老師##grey|（8/27）##
+[[div style="border-left: darkred 0.2rem solid; padding-left: 8px; margin-top: 12px; margin-bottom: 12px; color: #white; opacity: 0.8;"]]
+須注意項目已呈現的2,​147,​483,​648種狀態當中，絕大多數在基準宇宙中不存在對應的自殺者。依照目前針對該項目的假說，對應的自殺者推斷位於另外的平行宇宙，而無法介入。
+[[/div]]
+* [[[scp-zh-854|見是「XX」]]] - 約翰 • 羅比遜老師##grey|（8/28）##
+[[div style="border-left: darkred 0.2rem solid; padding-left: 8px; margin-top: 12px; margin-bottom: 12px; color: #white; opacity: 0.8;"]]
+幸運地，基金會過去、現在、未來都沒有人因該項目受傷或死亡，所以沒有人是需要被憐憫的。你也無須關心任何你認為有參與該項目相關實驗的人員，因為他們的狀況都很好，我們很清楚這點。
+[[/div]]
+* [[[scp-zh-865|春是「XX」]]] - 幼稚園老師##grey|（8/29）##
+[[div style="border-left: darkred 0.2rem solid; padding-left: 8px; margin-top: 12px; margin-bottom: 12px; color: #white; opacity: 0.8;"]]
+每天要拿這段課文給老師檢查，紅色封條都沒有撕開的乖同學可以找老師拿點心獎勵。如果不小心撕開紅色封條也沒關係，立刻跟老師講，老師還是會給你小棒棒糖獎勵。
+[[/div]]
+* [[[scp-zh-891|從是「XX」]]] - 生物老師##grey|（8/30）##
+[[div style="border-left: darkred 0.2rem solid; padding-left: 8px; margin-top: 12px; margin-bottom: 12px; color: #white; opacity: 0.8;"]]
+一切都無所謂了，我只渴望能夠成為她的一部份。
+[[/div]]
+* [[[scp-zh-897|天是「XXX，XX」]]] - 犯罪心理學老師##grey|（8/31）##
+[[div style="border-left: darkred 0.2rem solid; padding-left: 8px; margin-top: 12px; margin-bottom: 12px; color: #white; opacity: 0.8;"]]
+今天清晨六時許，露營場上發現了一名年輕女性遺體，死者的頭顱遭到輾爆，並在河堤道路留下長長的血跡。
+[[/div]]
+* [[[scp-zh-904|上是「XX」]]] - 鄉土老師##grey|（9/1）##
+[[div style="border-left: darkred 0.2rem solid; padding-left: 8px; margin-top: 12px; margin-bottom: 12px; color: #white; opacity: 0.8;"]]
+大部分三十歲以上的 SCP-ZH-904-A 都維持著人類的樣貌，只是皮膚相較無異常的當地人種更為黝黑且佈滿皺紋，四肢枯瘦，普遍有牙齒缺損的情況。
+[[/div]]
+* [[[scp-zh-975|來是「XX」]]] - 火種老師##grey|（9/2）##
+[[div style="border-left: darkred 0.2rem solid; padding-left: 8px; margin-top: 12px; margin-bottom: 12px; color: #white; opacity: 0.8;"]]
+「人類害怕的不是黑暗，而是不知道黑暗裡會有什麼東西。」這句話已經忘記是從何方聽來的，也不記得細節正不正確了，不過有一點可以確定的是，現在的你也許能夠為這句話的真偽作證。
+[[/div]]
+
+[[/div]]
+
+@@ @@
+----
+
+[[=]]
+[[size 135%]][[span style="font-family:'Zen Antique Soft';"]]獎賞 | AWARDS[[/span]][[/size]]
+[[/=]]
+
+@@ @@
+
+[[=]]
+[[div class="award1"]]
+@@ @@
+@@ @@
+@@ @@
+##black|「驚悚的技法」：##
+##black|「真紀嚇爆給獎聯盟」：##
+@@ @@
+[[/div]]
+[[/=]]
+@@ @@
+@@ @@
+[[=]]
+[[div class="award2"]]
+@@ @@
+@@ @@
+@@ @@
+##black|「不戰鬥就無法生存」：##
+##black|「我要與命運戰鬥」：##
+##black|「dead or alive」：##
+@@ @@
+[[/div]]
+[[/=]]
+@@ @@
+@@ @@
+[[=]]
+[[div class="award3"]]
+@@ @@
+@@ @@
+@@ @@
+##black|「大蛋」：##
+##black|「它小小的」：##
+##black|「素早的心得」：##
+##black|「人生是一場巨大的坐牢」：##
+##black|「天鵝絨秘書」：##
+##black|「阿淵亂葬崗」：##
+##black|「這裡是誰你是哪裡」：##
+##black|「拉郎系博士」：##
+##black|「我還真沒見過這場面」：##
+##black|「好連一直連」：##
+##black|「不可能完全不可能」：##
+##black|「兄弟你好香」：##
+##black|「一枝獨秀」：##
+##black|「抱歉我臉盲」：##
+@@ @@
+[[/div]]
+[[/=]]
+@@ @@
+@@ @@
+[[=]]
+[[div class="award4"]]
+@@ @@
+@@ @@
+@@ @@
+##black|「通靈王」：##
+##black|「嘿嘿抓到你囉」：##
+##black|「深夜電視」：##
+##black|「紅色時期」：##
+@@ @@
+[[/div]]
+[[/=]]
+
+@@ @@
+@@ @@
+
+[[include :scp-zh-tr:component:license-box
+|author=AbyssDream]]
+=====
+
+> **檔案名稱：** Retablo11-Pistaku
+> **作者：** Jack Child
+> **授權：** Public Domain
+> **來源連結：** [https://commons.m.wikimedia.org/wiki/File:Retablo11-Pistaku.jpeg 見此]
+
+> **檔案名稱：** F2Zp15f.gif
+> **作者：** 除了德國議會圖片外，其它圖片皆由不是老師拍攝；德國議會圖片由Times拍攝
+> **授權：** CC BY-SA 3.0
+> **來源連結：** [https://commons.m.wikimedia.org/wiki/File:Deutscher_Bundestag_Plenarsaal_Seitenansicht.jpg#mw-jump-to-license 德國議會圖片]
+
+> **檔案名稱：** Cqa1MTF
+> **作者：** 天體物理學老師
+> **授權：** CC BY-SA 3.0
+> **來源連結：** [https://imgur.com/Cqa1MTF.png 見此]
+
+> **檔案名稱：** CgUdzO2.jpg
+> **原檔案名稱：** Water drop.jpg
+> **編輯：**  華倫海特老師
+> **原作者：** Tomas Sobek
+> **授權：** CC BY 2.0
+> **來源連結：** [https://imgur.com/CgUdzO2 已編輯過] & [https://www.flickr.com/photos/45273580@N04/4649690892 原圖]
+
+> **檔案名稱：** yb8iZo9.png
+> **作者：** 管理員老師
+> **授權：** CC BY-SA 3.0
+> **來源連結：** [https://i.imgur.com/yb8iZo9.png 見此]
+
+> **檔案名稱：** SsfWZZu.jpeg
+> **原檔案名稱：** brown-rock-on-seashore-under-white-clouds-at-daytime-GfKB3h8484g.jpg
+> **編輯：** 檔案老師
+> **原作者：** Jonathan Bean
+> **授權：** CC0
+> **來源連結：** [https://i.imgur.com/SsfWZZu.jpeg 已編輯過] & [https://unsplash.com/photos/brown-rock-on-seashore-under-white-clouds-at-daytime-GfKB3h8484g 原圖]
+
+> **檔案名稱：** fXsICjoh.png
+> **作者：** 雷雨老師
+> **授權：** CC BY-SA 3.0
+> **來源連結：** [https://i.imgur.com/fXsICjoh.png 見此]
+
+> **檔案名稱：** CSR-2.png
+> **作者：** 佛洛伊德老師
+> **授權：** CC BY-SA 3.0
+> **來源連結：** [https://lett-store.github.io/CSR-2.png 見此]
+
+> **檔案名稱：** 53881613332_af7b4e7fd9_m.jpg
+> **原檔案名稱：** 3717619682_90c56af27e_o.jpg
+> **編輯：** 朝日老師
+> **原作者：** Liang SK
+> **授權：** CC BY-SA 2.0
+> **來源連結：** [https://live.staticflickr.com/65535/53881613332_af7b4e7fd9_m.jpg 已編輯過] & [https://flic.kr/p/6EvLP5 原圖]
+
+> **檔案名稱：** John Martin - The Great Day of His Wrath - Google Art Project.jpg
+> **作者：** John Martin
+> **授權：** Public Domain
+> **來源連結：**  [https://en.wikipedia.org/wiki/File:John_Martin_-_The_Great_Day_of_His_Wrath_-_Google_Art_Project.jpg 見此]
+
+> **檔案名稱：** 6V0zpOS.jpg
+> **原檔案名稱：** Onkalo 2.jpg & WIPP.svg - Small Subsurface Markers.svg
+> **編輯：** 安克羅老師
+> **原作者：** kallerna & Department of Energy - Carlsbad Field Office
+> **授權：** CC BY-SA 3.0 & CC BY-SA 3.0 & Public Domain
+> **來源連結：** [https://imgur.com/6V0zpOS 已編輯過] & [https://upload.wikimedia.org/wikipedia/commons/3/30/Onkalo_2.jpg 原圖（一）] & [https://upload.wikimedia.org/wikipedia/commons/8/88/WIPP_-_Small_Subsurface_Markers.svg 原圖（二）]
+
+> **檔案名稱：** rmNA6sp.jpeg
+> **作者：** 行為矯正老師
+> **授權：** CC BY-SA 3.0
+> **來源連結：** [https://i.imgur.com/rmNA6sp.jpeg 見此]
+
+> **檔案名稱：** owFKAsk.gif
+> **作者：** 艾略特老師
+> **授權：** CC BY-SA 3.0
+> **來源連結：** [https://imgur.com/owFKAsk 見此]
+
+> **檔案名稱：** Bp5aNAn.png
+> **原檔案名稱：** Figure 28 - fullbody MRI scan..png & Damadian invention.jpg & MRI machine with patient.jpg
+> **編輯：** 法罕-曼斯菲爾德老師
+> **原作者：** Erufaildon & 美國專利商標局 & 美國國家衛生院
+> **授權：** CC BY-SA 3.0 & CC BY-SA 3.0 & Public Domain & Public Domain
+> **來源連結：** [https://i.imgur.com/Bp5aNAn.png 已編輯過] & [https://www.wikilectures.eu/w/File:Figure_28_-_fullbody_MRI_scan..png 原圖（一）] & [https://commons.wikimedia.org/wiki/File:Damadian_invention.jpg 原圖（二）] & [https://www.flickr.com/photos/nihgov/23423505123 原圖（三）]
+
+> **檔案名稱：** JWpizQa.jpg
+> **原檔案名稱：** Air Raid Siren Los Angeles.jpg
+> **編輯：** 約翰 • 羅比遜老師
+> **原作者：** jondoeforty1
+> **授權：** CC BY-SA 3.0 & CC BY-SA 2.0
+> **來源連結：** [https://imgur.com/JWpizQa 已編輯過] & [https://www.flickr.com/photos/23000860@N06/3251251101 原圖]
+
+> **檔案名稱：** beelzebub-3fdtRsX.jpg
+> **原檔案名稱：** Beelzebub and them that are with him shoot arrows.jpg
+> **編輯：** 幼稚園老師
+> **原作者：** John Bunyan
+> **授權：** Pubilc Domain
+> **來源連結：** [https://imgur.com/gallery/beelzebub-3fdtRsX 已編輯過] & [https://upload.wikimedia.org/wikipedia/commons/c/ce/Beelzebub_and_them_with_him.jpg 原圖]
+
+> **檔案名稱：** Elephanti.jpg
+> **作者：** O. G. Mason
+> **授權：** Pubilc Domain
+> **來源連結：** [https://commons.wikimedia.org/wiki/File:Elephanti.jpg 見此]
+
+> **檔案名稱：** dzH1BaH.jpeg
+> **原檔案名稱：** 101 爆炸中.jpg
+> **編輯：**  犯罪心理學老師
+> **原作者：** Othree
+> **授權：** CC BY-SA 2.0
+> **來源連結：** [https://i.imgur.com/dzH1BaH.jpeg 已編輯過] & [https://www.flickr.com/photos/12452841@N00/5309699031 原圖]
+
+> **檔案名稱：** DE3KSJx.jpg
+> **原檔案名稱：** Naphtha_Minus_Complex_-_geograph.org.uk_-_581977.jpg
+> **編輯：**  鄉土老師
+> **原作者：** terry joyce
+> **授權：** CC BY-SA 2.0
+> **來源連結：** [https://imgur.com/DE3KSJx 已編輯過] & [https://commons.m.wikimedia.org/wiki/File:Naphtha_Minus_Complex_-_geograph.org.uk_-_581977.jpg 原圖]
+
+> **檔案名稱：** IDRHVx1.jpg
+> **作者：** 火種老師
+> **授權：** CC BY-SA 3.0
+> **來源連結：** [https://i.imgur.com/IDRHVx1.jpg 見此]
+
+> **檔案名稱：** 《女神異聞錄4：黃金版》
+> **作者：** [[*user AbyssDream]]
+> **授權：** 不適用
+> **來源連結：** [https://store.steampowered.com/app/1113000/4 玩一下]
+
+=====
+[[include :scp-zh-tr:component:license-box-end]]
+
+@@ @@
