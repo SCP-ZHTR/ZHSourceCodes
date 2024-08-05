@@ -1,7 +1,11 @@
 [[include component:scp-meta-title-hiding css-style=classic]]
-[[>]]
-[[module Rate]]
-[[/>]]
+[[include info:start]]
+**篇名：**SCP-8051 - 棉花屋
+
+**作者：**[[*user Tanhony]]
+
+**譯者：**[[*user cywhitebear]]
+[[include info:end]]
 
 **項目編號：** SCP-8051
 
