@@ -1,6 +1,6 @@
 [[div id="featured"]]
 [[tabview]]
-[[tab 7月作品展出]]
+[[tab 8月作品展出]]
 
 [!-- Left block --]
 [[div class="feature-block"]]
@@ -10,12 +10,12 @@ SCP作品展出
 [[/div]]
 [[div class="panel-body"]]
 [[div class="feature-title"]]
-[[[*scp-zh-306|]]]
+[[[*scp-zh-574|]]]
 [[/div]]
 [[div class="feature-subtitle"]]
-作者：[[user  Frederica Bernkastel]]
+作者：[[user Viken-K]]
 [[/div]]
-白色百合花，花況良好，市價約290元。花莖部分沾染大量瀝青，儘管不太可能，人員推測此花是直接由國道路面長出。
+位於外側兩排的貨架則陳列有已經生鏽的食物罐頭，由於架上排列罐頭有零星空缺，可以推測過去曾有人在SCP-ZH-574-1內生活過。
 [[/div]]
 [[div class="panel-footer"]]
 [[[*featured-scp-archive|查看以往展出的SCP作品]]]
@@ -29,12 +29,12 @@ SCP作品展出
 [[/div]]
 [[div class="panel-body"]]
 [[div class="feature-title"]]
-[[[argument-of-existence|為存在者]]]
+[[[raisa-9600|RAISA-9600 干城章嘉峰1925]]]
 [[/div]]
 [[div class="feature-subtitle"]]
-作者：[[user YONGZUN]]
+作者：[[user Tiro_taiwan]]
 [[/div]]
-非雨的液體滴下，掛著的月亮是假的，接著你的視線接觸黑色的雙星。
+但我們必須遺憾地通知您，近期參與您探險隊的R███ A█████教授以及為您沖洗照片的█. ██已在███發生的不尋常事故中身亡。
 [[/div]]
 [[div class="panel-footer"]]
 [[[*featured-tale-archive|查看以往展出之故事]]]
@@ -50,13 +50,13 @@ SCP作品展出
 [[/div]]
 [[div class="panel-body"]]
 [[div class="feature-title"]]
-[[[*SCP-8085|]]]
+[[[*SCP-2128|]]]
 [[/div]]
 [[div class="feature-subtitle"]]
-作者：[[user Diogene_s]]
-譯者：[[user Kikunai]]
+作者：[[user daveyoufool]]
+譯者：[[user Frederica Bernkastel]]
 [[/div]]
-就像佛洛伊德所說的一樣。所以你不想做愛是不自然的。你明白了嗎？你要麼在說謊，要麼壞掉了，而我會將你修好。
+D-8235開始無法控制地哭泣。而後D-8235尖叫著「再見」，奪走警衛的配槍自盡身亡。D-8235過去未曾有任何心理健康問題或自殺傾向史。
 
 [[/div]]
 [[div class="panel-footer"]]
@@ -71,12 +71,12 @@ SCP作品展出
 [[/div]]
 [[div class="panel-body"]]
 [[div class="feature-title"]]
-[[[wanderers:bar-story|人類、空賊和治安官走進酒吧]]]
+[[[foundation-midnight-club-mou|]]]
 [[/div]]
 [[div class="feature-subtitle"]]
-作者：[[user Aindavis_817]]
+作者：[[user Mang Gwan]]
 [[/div]]
-目送果勒韃離去，酒保將店裡的音樂音量重新調大，這是他最喜歡的一首歌，來自地球的「厄俄斯的誘惑」，他哼著旋律，再度順著節拍踩起滑步，雖然他聽不懂歌詞，但不妨礙他依照歌曲裡的情感重新填詞。
+推動各國建立靈體身份的法律地位，特別是對具有意識並能長期存在的靈體，以保障其基本權益。
 [[/div]]
 [[div class="panel-footer"]]
 [[[*featured-Comprehensive-exhibition|查看以往的綜合展出]]]
