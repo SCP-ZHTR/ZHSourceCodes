@@ -1,0 +1,39 @@
+[[>]]
+[[module rate]]
+[[/>]]
+[[include :scp-zh-tr:component:author-label-source start=--
+|name= Hector-ZH-TR
+|no-right-margin=*]]
+**標題：**MTF-天紀-17 隊徽(hector的版本)
+**作者：**[[*user Hector-ZH-TR]]
+**授權方式：**CC BY-SA 4.0
+[[include :scp-zh-tr:component:author-label-source end=--]]
+@@ @@
+= [[image https://i.imgur.com/669N3m2.png height="200px"]]
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+[[div class="monoboxical"]]
+[[div class="meta-title"]]
+大概不會有機會用到但我還是想放一下變體
+[[/div]]
+> [[collapsible show="白底版本" hide="白底版本"]]
+> = [[image https://i.imgur.com/pwaaqeG.png height="200px"]]
+> [[/collapsible]]
+
+> [[collapsible show="去背版本" hide="去背版本"]]
+> = [[image https://i.imgur.com/669N3m2.png height="200px"]]
+> [[/collapsible]]
+
+> [[collapsible show="深底版本" hide="深色底部應用版本"]]
+> = [[image https://i.imgur.com/vR2nmCi.png height="200px"]]
+> [[/collapsible]]
+
+> [[collapsible show="30%濃度版本" hide="30%濃度版本"]]
+> = [[image https://i.imgur.com/TulkFJO.png height="200px"]]
+> [[/collapsible]]
+
+[[/div]]
