@@ -327,7 +327,7 @@ text-shadow: 0 0 0.75rem rgb(var(--swatch-primary-darkest),0.75);
 [[include :scp-sandbox2-zh:draft:5325850-1o-ly074dry
 |status= |pre-flipped=
 |author=艾略特老師
-|art= https://i.imgur.com/owFKAsk.gif
+|art= https://i.imgur.com/spbIq4y.gif
 |url=http://scp-zh-tr.wikidot.com/scp-zh-840
 |title=無是「XX」
 ]]
@@ -635,10 +635,10 @@ SCP-ZH-715內仍有6名租約尚未到期之一般民眾。
 > **授權：** CC BY-SA 3.0
 > **來源連結：** [https://i.imgur.com/rmNA6sp.jpeg 見此]
 
-> **檔案名稱：** owFKAsk.gif
-> **作者：** 艾略特老師
-> **授權：** CC BY-SA 3.0
-> **來源連結：** [https://imgur.com/owFKAsk 見此]
+> **檔案名稱： **spbIq4y.gif
+> **作者：** 由艾略特老師商業委託幽靈助教繪製
+> **授權： **CC BY-SA 3.0
+> **來源連結：** [https://imgur.com/spbIq4y 見此]
 
 > **檔案名稱：** Bp5aNAn.png
 > **原檔案名稱：** Figure 28 - fullbody MRI scan..png & Damadian invention.jpg & MRI machine with patient.jpg
