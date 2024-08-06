@@ -22,18 +22,22 @@
 [[/div]]
 > [[collapsible show="白底版本" hide="白底版本"]]
 > = [[image https://i.imgur.com/pwaaqeG.png height="200px"]]
+> = @@https://i.imgur.com/pwaaqeG.png@@
 > [[/collapsible]]
 
 > [[collapsible show="去背版本" hide="去背版本"]]
 > = [[image https://i.imgur.com/669N3m2.png height="200px"]]
+> = @@https://i.imgur.com/669N3m2.png@@
 > [[/collapsible]]
 
-> [[collapsible show="深底版本" hide="深色底部應用版本"]]
+> [[collapsible show="深底版本" hide="深底版本"]]
 > = [[image https://i.imgur.com/vR2nmCi.png height="200px"]]
+> = @@https://i.imgur.com/vR2nmCi.png@@
 > [[/collapsible]]
 
 > [[collapsible show="30%濃度版本" hide="30%濃度版本"]]
 > = [[image https://i.imgur.com/TulkFJO.png height="200px"]]
+> = @@https://i.imgur.com/TulkFJO.png@@
 > [[/collapsible]]
 
 [[/div]]
