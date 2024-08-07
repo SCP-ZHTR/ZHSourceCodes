@@ -266,7 +266,7 @@ color: #dd7711 !important;
 [[# pataphysics-dept]]
 [[div class="content-panel standalone series" style="background-color: #FFFFFF;"]]
 + ##black|超形上學部 ##
-[[f>image https://scp-wiki.wdfiles.com/local--files/theme:pataphysics/pata-logo.png width="100px"]]
+[[f>image https://scp-wiki.wdfiles.com/local--files/jerden-insignia/pataphysics-department.png width="100px"]]
 
 **概述：** 超形上學部（[[[scp-0166|亦稱為]]][[[scp-4690| '超形上學部]]]）結合理論物理學與文學分析領域，以研究[[[i-h-p-proposal| 現實中的虛構成分]]]。該部門基地位於威斯康辛州[[[the-s-c-plastics-hub| 斯洛斯皮特]]]的[[[tight-bookshelves| Site-87]]]，負責收容[[[scp-5500| 敘事異常]]]，並嘗試利用[[[scp-4410| 現實的本質]]]，為[[[scp-cn-1109| 基金會任務]]]中那些[[[scp-6747| 野心勃勃的項目]]]服務。
 
