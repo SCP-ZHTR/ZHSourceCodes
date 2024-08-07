@@ -118,7 +118,7 @@
 @@ @@
 
 @@ @@
-[[include component:scp-zh-tr:wikimodule |ratings= --]]]
+[[include :scp-zh-tr:component:wikimodule |ratings= --]]]
 
 [[=]]
 [[include :scp-zh-tr:component:license-box

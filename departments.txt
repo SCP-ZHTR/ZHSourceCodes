@@ -59,14 +59,17 @@ color: #dd7711 !important;
 > @@ @@ [#raisa 紀錄、檔案與資訊安全管理部]
 > [#departments 部門]
 > @@ @@ [#alchemy-department 煉金學部]
+> @@ @@ [#aeed 異常實體接觸部]
 > @@ @@ [#antimemetics 逆模因部]
 > @@ @@ [#aiad 人工智慧應用部]
 > @@ @@ [#cryptozoology 神秘動物學部]
 > @@ @@ [#decommissioning-dept 廢除部]
+> @@ @@ [#deletions 刪除部]
 > @@ @@ [#ettra 潛在威脅戰術應對機構]
 > @@ @@ [#fire-suppression-dept 火勢遏阻部]
 > @@ @@ [#miscommunications 誤傳部]
 > @@ @@ [#folklore-dept 神話與民俗部]
+> @@ @@ [#department-of-other 別的部]
 > @@ @@ [#pataphysics-dept 超形上學部]
 > @@ @@ [#procurement-liquidation-dept 採購與清算部]
 > @@ @@ [#surrealistics-dept 超現實部]
@@ -74,7 +77,6 @@ color: #dd7711 !important;
 > @@ @@ [#telecom-office 電信監控辦公室]
 > @@ @@ [#delta-t 時間異常部]
 > @@ @@ [#unreality 於此填寫部門名稱]
-> @@ @@ [#deletions 刪除部]
 > @@ @@ [#abnormalities 反常部]
 > [#related-pages 相關頁面]
 > [[/collapsible]]
@@ -115,10 +117,10 @@ color: #dd7711 !important;
 
 [[# raisa]]
 [[div class="content-panel standalone series" style="background-color: #FFFFFF;"]]
-+ ##black|紀錄、檔案與資訊安全管理部(RAISA)##
++ ##black|紀錄、檔案與資訊安全管理部（RAISA）##
 [[f>image https://scp-wiki.wdfiles.com/local--files/departments/raisa.png width="100px"]]
 
-**概述：** 紀錄、檔案與資訊安全管理部(RAISA)負責維護基金會資料庫的[[[scuttle| 安全與完整]]]。RAISA [[[scp-076| 控制]]]了對[[[scp-5549| 機密資訊]]]的訪問權，決定哪些需要編輯掉，而哪些是要公布的。RAISA還要確保數據庫免於入侵滲透的威脅，並[[[scp-031| 監控]]]基金會檔案的不一致之處，以辨別事因出於正常還是異常現象。
+**概述：** 紀錄、檔案與資訊安全管理部（RAISA）負責維護基金會資料庫的[[[scuttle| 安全與完整]]]。RAISA [[[scp-076| 控制]]]了對[[[scp-5549| 機密資訊]]]的訪問權，決定哪些需要編輯掉，而哪些是要公布的。RAISA還要確保數據庫免於入侵滲透的威脅，並[[[scp-031| 監控]]]基金會檔案的不一致之處，以辨別事因出於正常還是異常現象。
 
 基金會職員可能會遇到由RAISA[[[scp-2998| 做注]]]的[[[raisa-6147| SCP檔案]]]，通常會由RAISA主任[/system:page-tags/tag/maria-jones Maria Jones]署名。這些說明將會為後面的檔案內容提供重要資訊。
 
@@ -145,6 +147,21 @@ color: #dd7711 !important;
 ,,[#toc 回到頁首],,
 [[/div]]
 [[/div]]
+
+[[# aeed]]
+[[div class="content-panel standalone series" style="background-color: #FFFFFF;"]]
++ [[[*anomalous-entity-engagement-division-hub|異常實體接觸部]]]
+[[f>image https://scp-wiki.wikidot.com/local--files/secure-facility-dossier-site-169/AEED-logo.png width="100px"]]
+
+**概述：** 異常實體接觸部（AEED）專責致力於人性化收容，並在人類與異常間建立連結。AEED將目標定在創造雙方對等的安全環境，經常舉辦娛樂活動以加強雙方之間的關係。
+
+[[[secure-facility-dossier-site-169|Site-169]]]是該部門的總部，異常可以自由在此站點，並能夠與各級人員自由互動。儘管AEED與其他部門相比規模較小，卻對整合員工設施產生了正面影響。不過要讓大多數人接受他們恐怕還需要一段時間。
+
+[[div style="text-align:right"]]
+,,[#toc 回到頁首],,
+[[/div]]
+[[/div]]
+
 
 [[# antimemetics]]
 [[div class="content-panel standalone series antimemetic" style="background-color: #FFFFFF;"]]
@@ -204,6 +221,20 @@ color: #dd7711 !important;
 [[/div]]
 [[/div]]
 
+[[# deletions]]
+[[div class="content-panel standalone series delet_this" style="background-color: #0d0d0f;"]]
++ [[span class="st" ]][[[*deleted | 刪除部]]][[/span]]
+[[f>image https://scp-wiki.wdfiles.com/local--files/scp-6768/dept.png width="100px"]]
+
+[[span class="st" style="color:#e0dbdc;"]]概述：[[/span]]##e0dbdc|刪除部負責處理與Wikidot資料庫相關的##[[[scp-7912 | 問題]]]##e0dbdc|。刪除內容除非遭到覆寫，否則就將會繼續存在於記憶體之中。一切事物終將遭到忘卻。在那之前，##[[[scp-6183|我們是不會死的。]]]##e0dbdc|你最好盡你所能地堅持下去，這將會是件非常奇葩的事情。##
+
+##e0dbdc|相關事業、人事檔案、指南、術語彙編等完整列表，請查看##[[span class="st" ]][[[deleted |刪除部中心頁]]]。[[/span]]
+
+[[div style="text-align:right"]]
+,,[#toc 回到頁首],,
+[[/div]]
+[[/div]]
+
 [[# ettra]]
 [[div class="content-panel standalone series" style="background-color: #FFFFFF;"]]
 + ##black|潛在威脅戰術應對機構##
@@ -248,7 +279,6 @@ color: #dd7711 !important;
 [[/div]]
 [[/div]]
 
-
 [[# folklore-dept]]
 [[div class="content-panel standalone series" style="background-color: #FFFFFF;"]]
 + ##black|神話與民俗部##
@@ -279,6 +309,20 @@ color: #dd7711 !important;
 [[/div]]
 [[/div]]
 
+[[# department-of-other]]
+[[div class="content-panel standalone series" style="background-color: #FFFFFF;"]]
++ 別的部
+[[f>image https://scp-wiki.wdfiles.com/local--files/jerden-insignia/department-of-other.svg width="100px"]]
+
+**概述：** 這個部門負責收容[[[you|與別的部門職權完全無涉]]]的那些SCP項目。這些異常總會需要互動人員[[[scp-more-gun-j| 行為舉止怪異]]]且[[[just-misunderstood| 完全不專業]]]。別的基金會職員大多都[[[scp-pingas-j | 不會想要與這些異常扯上關係]]]。這些異常[[[scp-477-j| 還需要另外建一張列表來放]]]，好讓它們跟[[[scp-5784 | 其他的SCP文章區隔開來]]]。
+
+沒錯，我們就是那個[[[joke-scps| 笑話]]]。
+
+欲察看頁面標記為//別的部//的檔案請[/system:page-tags/tag/別的部 點擊此處]。
+[[div style="text-align:right"]]
+,,[#toc 回到頁首],,
+[[/div]]
+[[/div]]
 
 [[# procurement-liquidation-dept]]
 [[div class="content-panel standalone series" style="background-color: #FFFFFF;"]]
@@ -367,20 +411,6 @@ color: #dd7711 !important;
 
 [進一步資訊的超連結]
 ~~~~
-[[div style="text-align:right"]]
-,,[#toc 回到頁首],,
-[[/div]]
-[[/div]]
-
-[[# deletions]]
-[[div class="content-panel standalone series delet_this" style="background-color: #0d0d0f;"]]
-+ [[span class="st" ]][[[*deleted | 刪除部]]][[/span]]
-[[f>image https://scp-wiki.wdfiles.com/local--files/scp-6768/dept.png width="100px"]]
-
-[[span class="st" style="color:#e0dbdc;"]]概述：[[/span]]##e0dbdc|刪除部負責處理與Wikidot資料庫相關的##[[[scp-7912 | 問題]]]##e0dbdc|。刪除內容除非遭到覆寫，否則就將會繼續存在於記憶體之中。一切事物終將遭到忘卻。在那之前，##[[[scp-6183|我們是不會死的。]]]##e0dbdc|你最好盡你所能地堅持下去，這將會是件非常奇葩的事情。##
-
-##e0dbdc|相關事業、人事檔案、指南、術語彙編等完整列表，請查看##[[span class="st" ]][[[deleted |刪除部中心頁]]]。[[/span]]
-
 [[div style="text-align:right"]]
 ,,[#toc 回到頁首],,
 [[/div]]
