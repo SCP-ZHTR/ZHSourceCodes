@@ -1,0 +1,294 @@
+[[include component:scp-meta-title-hiding css-style=classic]]
+[[include info:start]]
+原文：[https://scp-wiki.wikidot.com/scp-8911 SCP-8911] Site-333開麥夜
+作者：[[*user the Uncle Nicolini]]、[[*user NeverMeltIce44]]
+譯者：[[*user Frederica Bernkastel]]
+[[include info:end]]
+
+[[include theme:black-highlighter-theme]]
+[[include :scp-zh-tr:component:centered-header-bhl]]
+[[include :scp-zh-tr:component:toggle-sidebar-bhl]]
+[[module CSS]]
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,900;1,900&display=swap');
+
+:root:lang(zh){
+    --logo-image: url("http://scpdsandbox.wdfiles.com/local--files/site-333/At3.png");
+    --header-title: "SITE-333";
+    --header-subtitle: "天上人間";
+    --header-font: 'Playfair Display', serif;
+    --title-font: 'Playfair Display', serif;
+    --body-font: 'Telex', sans-serif;
+    --bright-accent: 0, 109, 255;
+    --medium-accent: 0, 63, 197;
+    --dark-accent: 0, 22, 142;
+
+    --link-color: var(--medium-accent);
+}
+
+#extra-div-1 {
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 10rem;
+    background-image: url("http://scpdsandbox.wdfiles.com/local--files/site-333/PanoRam2.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: repeat-x;
+    pointer-events: none;
+}
+
+#extra-div-2 {
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 10rem;
+    background: linear-gradient(0deg, rgba(0, 109, 255,1) 35%, rgba(204, 226, 255) 97%);
+    pointer-events: none;
+    opacity: 0.40;
+}
+
+#extra-div-3 {
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 10rem;
+    background-image: url("http://scptestwiki.wdfiles.com/local--files/undervegas/dicegold.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: repeat-x;
+    pointer-events: none;
+    opacity: 0.65;
+
+}
+
+#header::before {
+    left: 0.5rem;
+    background-position: center -0.5rem;
+    opacity: 1;
+}
+
+#header h1, #header h2 {
+    margin: 1.7rem 0;
+}
+[[/module]]
+
+[[include component:image-block
+    name= https://scp-wiki.wdfiles.com/local--files/scp-8911/site333.png|
+    caption= 於1992年火災事故燒毀前的Site-333，1989年攝得。
+|
+    width=300px
+]]
+
+**項目編號：** SCP-8911
+
+**項目等級：** Euclid
+
+**特殊收容措施：** 由於SCP-8911僅影響Site-333內部，因此無須直接的收容措施。所有駐Site-333人員都應聽取SCP-8911簡報，並報告在其面前發生的任何異常情況。
+
+**描述：** SCP-8911是一種出現在Site-333的聽覺異常。受影響人員報告指稱在應是隨機的時間地點，聽到了近似各種流行情境喜劇中的預錄笑聲。尚未釐清此異常的來源。
+
+**附錄8911.1：** 以下是記錄在案SCP-8911實例與刻意顯現異常的簡要摘錄。
+
+[[div class="blockquote"]]
+**1991/01/23：** 拉塞福博士在檢查文件時割傷了手指。SCP-8911聲音在該員辦公室內持續了大約五秒。不久後該員報告了異常情況，SCP-8911接受歸定。
+[[/div]]
+
+[[div class="blockquote"]]
+**1991/01/24：** 指示D-1221在受控環境下用紙張割傷自己的右手食指。D-1221遵守指示，SCP-8911並未顯現。
+
+**1991/01/24：** 指示D-1221在受控環境下用紙張割傷自己的左手食指。D-1221遵守指示，SCP-8911並未顯現。
+
+**1991/01/24：** D-1221排氣。測試室內可聽見SCP-8911聲音大約5秒。
+
+**1991/01/24：** 指示D-1221在受控環境下踩到香蕉皮滑倒。D-1221遵守指示，SCP-8911並未顯現。
+
+**1991/01/24：** 指示D-1221在受控環境下踩到香蕉皮滑倒。D-1221拒絕服從後受到紐比警衛制伏。在毆打了D-1221後，紐比向後退卻踩到了香蕉皮。測試室內可聽見SCP-8911聲音大約7秒。
+[[/div]]
+
+[[div class="blockquote"]]
+**1991/02/25：** 在哈蘭德博士受告知其住所因廚房火災遭到焚毀時，SCP-8911聲音在整個人事辦公室持續了15秒，同時還伴隨著響亮的掌聲。
+[[/div]]
+
+[[div class="blockquote"]]
+**1991/03/01：** 在奎恩研究員受告知其因與之無關的協議違規遭到解雇時，整個Site-333都能聽見SCP-8911聲音，同時還伴隨著長達20秒的大聲鼓掌與歡呼。
+[[/div]]
+@@ @@
+@@ @@
+**附錄8911.2：** 在SCP-8911引發多起噪音與騷擾投訴後，Site-333管理部門投票決定是否嘗試終結該異常，結果為5-2-2，同意廢除SCP-8911。以下是採取措施的簡要摘錄。
+
+[[div class="blockquote"]]
+**計畫：** Site-333開麥喜劇夜。
+
+**邏輯概述：** SCP-8911會對幽默事件做出反應，也許提供更多幽默事件就能使其滿足而後消失。
+
+**狀態：** **##green|批准##**
+
+**結果：** SCP-8911在4小時的活動中從未出現過。廢除嘗試失敗。
+[[/div]]
+
+[[div class="blockquote"]]
+**計畫：** 殺光Site-333所有D級人員。
+
+**邏輯概述：** 已知SCP-8911享受人們的痛苦。透過對人施加痛苦，我們可以滿足它並使它消失。
+
+**狀態：** **##red|否決##**
+
+**結果：** 卡洛斯研究員因此提議受到警告。當卡洛斯被告知自己將因此扣除一個月的工資時，整個站點都聽到了SCP-8911聲音。
+[[/div]]
+
+**附錄8911.3：** 1991年6月30日，文森特．伯哈特按計劃訪問Site-333以接替諾蘭．古德主任。當該員到達時，整個站點都能聽到SCP-8911聲音。以下是伯哈特抵達並發現SCP-8911互動後，對該員進行的訪談。
+
+
+[[div class="blockquote"]]
+**受訪者：** V．伯哈特
+
+**採訪者：** N．古德，Site-333主任
+
+**筆記：** 訪談於伯哈特抵達，發現SCP-8911互動後約15分鐘在Site-333外部進行。
+
+**<紀錄開始>**
+
+**古德：** 哈囉，文森特。
+
+**伯哈特：** 嘿諾蘭，你的站點在笑我耶。
+
+**古德：** 是啊。我注意到你發現了本站點的一個小，呃，問題。
+
+**伯哈特：** 問題？我當時認為這是個過分的惡作劇。
+
+**古德：** 不，我們不會那樣對你的。
+
+**伯哈特：** 你這麼說我就好很多了。所以那是啥，某種異常？你拿那個錄音機幹嘛？別跟我說你是要採訪我喔。
+
+**古德：** 我確實是要採訪你將紀錄留給後人。至於這是不是異常，答案是對。我這就把相關文件拿給你看。
+
+//[伯哈特簡短查閱了SCP-8911文件。短暫的沉默。]//
+
+**伯哈特：** 好囉就我被詛咒了。好喔。所以你們站點有個罐頭笑聲異常就是了。但為什麼我才剛走到建築內他就開始笑？
+
+**古德：** 也許你天生就很有趣。
+
+**伯哈特：** //[伯哈特大笑。]// 你這麼認為嗎？
+
+**古德：** 或許吧。或者也許發生在你身上的事情也很有趣。
+
+**伯哈特：** 呃，確實有些有趣的事情發生在我身上。我也覺得自己挺有趣的啦。
+
+**古德：** 非常好。我們怎麼不進去談談呢？快到午餐時間了呢。
+
+**伯哈特：** 我不希望那個卑鄙笑聲SCP只因為我存在而笑我。
+
+**古德：** 喔別這樣。我們已經處理這個問題好幾個月了，也就幾個小時不會讓你怎樣的。
+
+**伯哈特：** 罷了。食堂有鹽水太妃糖嗎？
+
+**古德：** 是有沒錯。
+
+//[伯哈特與古德朝站點前進。古德輸入安全碼後，能聽見開門發出的輕微吱吱聲。伯哈特進入時，能聽見SCP-8911聲音，還帶有大聲的鼓掌、歡呼、叫喊聲。]//
+
+**伯哈特：** //[對SCP-8911大吼]// 是啊，是啊，超有趣的。我愛你們喔各位觀眾！大西洋城，我們今晚怎麼樣啊？
+
+**古德：** //[對SCP-8911大吼]// 拜託，就這樣吧。
+
+**伯哈特：** 哇，這個地方真不賴。你們這裡有完整的自助餐廳嗎？
+
+**古德：** 呃，我認為就是很標準的餐廳。你午餐通常怎麼解決的？
+
+**伯哈特：** 我只會從休息室冰箱翻東西吃。//[笑]// 與異常共事很棒，太多能解釋有員工午餐突然消失的藉口了。
+
+//[伯哈特開始往後走，卻看著相反的方向。]//
+
+**古德：** 文森，小心你背後──
+
+**伯哈特：** 哇啊！
+
+//[伯哈特在不久前清潔過的地板滑倒，跌在「路面濕滑」標牌上。]//
+
+**古德：** 你還好嗎？
+
+//[SCP-8911聲音變得更吵了，全站點音量高達180分貝。]//
+
+**伯哈特：** 大概跟剛剛跌倒了人一樣好吧......
+
+//[伯哈特嘗試起身，卻再度因地面潮濕而滑倒。他的左腳鞋子滑落，擊中了他的腹股溝。]//
+
+**古德：** 我來幫你一把吧。
+
+//[SCP-8911笑聲變得有些吃力，各種笑聲開始夾雜著咳嗽聲。]//
+
+**伯哈特：** //[喘氣]// 我，呃，我不想再爬起來然後再跌倒了。
+
+**古德：** 拜託，振作點。
+
+//[古德幫助伯哈特起身，但伯哈特的眼鏡卻在這時滑落到地上。其中一個鏡片還破裂了。]//
+
+**伯哈特：** 讚喔，可他媽棒透了。
+
+//[伯哈特彎腰撿起眼鏡重新戴上。]//
+
+**古德：** 在這。好了，我們去食堂給你弄個冰袋吧。
+
+//[SCP-8911聲音很大程度上衰減為咳嗽與喘息，音量顯著下降。]//
+
+**伯哈特：** 讓我去撿我的鞋子。他媽的大笑站點。
+
+//[伯哈特眼鏡再度從臉上滑落，他還不小心踩到了眼鏡，眼鏡損壞到無法修復的地步。]//
+
+//[SCP-8911音量已經變得非常小，幾乎只剩下喘息聲。]//
+
+**古德：** 我，呃......我很遺憾，文斯。至少基金會有很讚的驗光師對不對？
+
+**伯哈特：** 應該吧。尤其是我現在還升職了，對吧？
+
+//[伯哈特彎腰拾起眼鏡與鞋子。他在完全傾身時排出了氣。]//
+
+//[SCP-8911發出最後一聲乾咳而後停止。]//
+
+**伯哈特：** 噢。不好意思。
+
+//[十秒沉默。]//
+
+**古德：** 文森特，我想我們剛剛成功廢除了8911。
+
+**伯哈特：** 我們？你說「我們」是什麼意思？
+
+**古德：**  好吧，別生我的氣喔，總之……
+
+//[古德關閉了錄音設備。]//
+
+**<紀錄結束>**
+
+**筆記：** 在此事件發生後，SCP-8911再也沒有於Site-333顯現過。古德主任因活用伯哈特容易引發事故的特性為站點謀取利益得到表揚，伯哈特博士獲得一張站點自助餐廳免費兌換券。該異常檔案當前正在等待重歸定為「Decommissioned」級。
+[[/div]]
+[[footnoteblock]]
+@@ @@
+@@ @@
+@@ @@
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[SCP-8910]]] | SCP-8911 | [[[SCP-8912]]] >>
+[[/=]]
+[[/div]]
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+[[include :scp-zh-tr:component:license-box
+|author=Uncle Nicolini]]
+
+> **Filename:** site333.png
+> **Name:** View of house between two casinos - Town of Atlantic City, North end of Absecon Island, South of Absecon Channel, Atlantic City, Atlantic County, NJ HABS NJ,1-ATCI,19-3 (CT).tif
+> **Author:** Jack Boucher
+> **License:** Public Domain
+> **Source Link:** [https://commons.m.wikimedia.org/wiki/File:View_of_house_between_two_casinos_-_Town_of_Atlantic_City,_North_end_of_Absecon_Island,_South_of_Absecon_Channel,_Atlantic_City,_Atlantic_County,_NJ_HABS_NJ,1-ATCI,19-3_(CT).tif#mw-jump-to-license Wikimedia Commons]
+
+[[include :scp-zh-tr:component:license-box-end]]
