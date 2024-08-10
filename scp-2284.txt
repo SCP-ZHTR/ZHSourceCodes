@@ -147,29 +147,29 @@ SCP-2284：不，只是看看。
 
 收容時，SCP-2284 攜帶了一份類似在 SCP-2148-1 反面印刷字樣的文件。
 
-> **哇噢！**你剛剛自力發現了屬於你自己的小小先生，來自 Wondertainment 博士的[[[miss-heir | 限量版收藏集]]]！
+> **哇喔！**你找到了一個來自Wondertainment博士的限量版，專屬於你的小小先生！
 > 
-> 找出全員，然後成為[[span class="ruby"]]收藏家先生[[span class="rt"]]Mr. Collector[[/span]][[/span]]吧！！
+> 集齊他們，成為收藏家先生吧！！
 > 
-> [[[SCP-905 | 01. Mr. Chameleon]]]
-> 02. Mr. Headless
-> [[[scp-1799| 03. Mr. Laugh]]]
-> [[[scp-909| 04. Mr. Forgetful]]]
-> 05. Mr. Shapey
+> [[[SCP-905 | 01. 變色龍先生]]]
+> [[[SCP-2287 | 02. Mr. Headless]]]
+> [[[scp-1799|03. 歡笑先生]]]
+> [[[SCP-909|04. 善忘先生]]]
+> [[[SCP-3537 | 05. Mr. Shapey]]]
 > [[[SCP-1908| 06. Mr. Soap]]]
-> [[[SCP-913 | 07. Mr. Hungry]]]
-> [[[SCP-629 | 08. Mr. Brass]]]
-> [[[SCP-644 | 09. Mr. Hot]]]
-> 10. Ms. Sweetie
-> [[[SCP-1007 | 11. Mr. Life and Mr. Death]]]
-> [[[SCP-527 | 12. Mr. Fish]]]
-> [[[SCP-917 | 13. Mr. Moon]]]
-> [[[scp-redd | 14. Mr. Redd （已停產）]]]
-> 15. Mr. Money
-> [[[SCP-920 | 16. Mr. Lost]]]
-> 17. [[span style="color:black; background-color: black"]]Mr. Lie[[/span]] ✔
+> [[[SCP-913 | 07. 飢餓先生]]]
+> [[[SCP-629 | 08. 黃銅先生]]]
+> [[[SCP-633|09. 火熱先生]]]
+> [[[SCP-2396 | 10. Ms. Sweetie]]]
+> [[[SCP-1007 | 11. 生先生與死先生]]]
+> [[[SCP-527 | 12. 魚先生]]]
+> [[[SCP-917 | 13. 月亮先生]]]
+> [[[scp-redd | 14. Mr. Redd (已停產)]]]
+> [[[SCP-2855 | 15. Mr. Money]]]
+> [[[SCP-920 | 16. 迷路先生]]]
+> [[[SCP-2284 | 17.]]] [[span style="color:black; background-color: black"]]謊言先生[[/span]] ✔
 > [[[SCP-2428 | 18. Mr. Mad]]]
-> [[[SCP-2933 | 19. Mr. Scary]]]
+> [[[SCP-2933 | 19. 恐怖先生]]]
 > [[[SCP-2148 | 20. Mr. Stripes]]]
 
 [[>]]
@@ -336,29 +336,29 @@ SCP-2284：不，只是看看。
 
 收容時，SCP-2284 攜帶了一份類似文件 909-A 的文件。
 
-@@> **哇噢！**你剛剛自力發現了屬於你自己的小小先生，來自 Wondertainment 博士的限量版收藏集！@@
+@@> **哇喔！**你找到了一個來自Wondertainment博士的限量版，專屬於你的小小先生！@@
 @@> @@
-@@> 找出全員，然後成為[[span class="ruby"]]收藏家先生[[span class="rt"]]Mr. Collector[[/span]][[/span]]吧！！@@
+@@> 集齊他們，成為收藏家先生吧！！@@
 @@> @@
-@@> 01. Mr. Chameleon@@
+@@> 01. 變色龍先生@@
 @@> 02. Mr. Headless@@
-@@> 03. Mr. Laugh@@
-@@> 04. Mr. Forgetful@@
+@@> 03. 歡笑先生@@
+@@> 04. 善忘先生@@
 @@> 05. Mr. Shapey@@
 @@> 06. Mr. Soap@@
-@@> 07. Mr. Hungry@@
-@@> 08. Mr. Brass@@
-@@> 09. Mr. Hot@@
+@@> 07. 飢餓先生@@
+@@> 08. 黃銅先生@@
+@@> 09. 火熱先生@@
 @@> 10. Ms. Sweetie@@
-@@> 11. Mr. Life and Mr. Death@@
-@@> 12. Mr. Fish@@
-@@> 13. Mr. Moon@@
+@@> 11. 生先生與死先生@@
+@@> 12. 魚先生@@
+@@> 13. 月亮先生@@
 @@> 14. Mr. Redd（已停產）@@
 @@> 15. Mr. Money@@
-@@> 16. Mr. Lost@@
-@@> 17.@@ [[span style="color:black; background-color: black"]]Mr. Lie[[/span]] ✔
+@@> 16. 迷路先生@@
+@@> 17.@@ [[span style="color:black; background-color: black"]]謊言先生[[/span]] ✔
 @@> 18. Mr. Mad@@
-@@> 19. Mr. Scary@@
+@@> 19. 恐怖先生@@
 @@> 20. Mr. Stripes@@
 
 @@[[/module]]@@
@@ -536,29 +536,29 @@ SCP-2284：不，只是看看。
 
 收容時，SCP-2284 攜帶了一份類似[[span style="background-color:pink;"]]--在 SCP-2148-1 反面印刷字樣--[[/span]][[span style="background-color:aqua;"]] __文件 909-A__ [[/span]]的文件。
 
-@@> **哇噢！**你剛剛自力發現了屬於你自己的小小先生，來自 Wondertainment 博士的限量版收藏集！@@
+@@> **哇喔！**你找到了一個來自Wondertainment博士的限量版，專屬於你的小小先生！@@
 @@> @@
-@@> 找出全員，然後成為[[span class="ruby"]]收藏家先生[[span class="rt"]]Mr. Collector[[/span]][[/span]]吧！！@@
+@@> 集齊他們，成為收藏家先生吧！！@@
 @@> @@
-@@> 01. Mr. Chameleon@@
+@@> 01. 變色龍先生@@
 @@> 02. Mr. Headless@@
-@@> 03. Mr. Laugh@@
-@@> 04. Mr. Forgetful@@
+@@> 03. 歡笑先生@@
+@@> 04. 善忘先生@@
 @@> 05. Mr. Shapey@@
 @@> 06. Mr. Soap@@
-@@> 07. Mr. Hungry@@
-@@> 08. Mr. Brass@@
-@@> 09. Mr. Hot@@
+@@> 07. 飢餓先生@@
+@@> 08. 黃銅先生@@
+@@> 09. 火熱先生@@
 @@> 10. Ms. Sweetie@@
-@@> 11. Mr. Life and Mr. Death@@
-@@> 12. Mr. Fish@@
-@@> 13. Mr. Moon@@
+@@> 11. 生先生與死先生@@
+@@> 12. 魚先生@@
+@@> 13. 月亮先生@@
 @@> 14. Mr. Redd（已停產）@@
 @@> 15. Mr. Money@@
-@@> 16. Mr. Lost@@
-@@> 17.@@ [[span style="color:black; background-color: black"]]Mr. Lie[[/span]] ✔
+@@> 16. 迷路先生@@
+@@> 17.@@ [[span style="color:black; background-color: black"]]謊言先生[[/span]] ✔
 @@> 18. Mr. Mad@@
-@@> 19. Mr. Scary@@
+@@> 19. 恐怖先生@@
 @@> 20. Mr. Stripes@@
 
 [[span style="background-color:aqua;"]]__@@[[/module]]@@__[[/span]]
