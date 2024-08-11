@@ -1,7 +1,7 @@
 [[include component:scp-meta-title-hiding css-style=classic]]
 [[include info:start]]
 原文：[https://scp-wiki.wikidot.com/scp-8911 SCP-8911] Site-333開麥夜
-作者：[[*user the Uncle Nicolini]]、[[*user NeverMeltIce44]]
+作者：[[*user Uncle Nicolini]]、[[*user NeverMeltIce44]]
 譯者：[[*user Frederica Bernkastel]]
 [[include info:end]]
 
