@@ -345,7 +345,7 @@
 * [[[SCP-307]]] - Carnivorous Ivy 
 * [[[SCP-308]]] - Aztec Burial Sarcophagus
 * [[[SCP-309]]] - 絨毛玩偶
-* [[[SCP-310]]] - Eternal Flame
+* [[[SCP-310]]] - 不滅明燄
 * [[[SCP-311]]] - Tactile Displacement Gloves
 * [[[SCP-312]]] - 空中水母
 * [[[SCP-313]]] - 強力烘手機
@@ -637,7 +637,7 @@
 * [[[SCP-591]]] - Dr. Wondertainment Pretendo
 * [[[SCP-592]]] - Inaccurate History Book
 * [[[SCP-593]]] - Contagious Innumeracy
-* [[[SCP-594]]] - Electric Sheep
+* [[[SCP-594]]] - 電氣綿羊
 * [[[SCP-595]]] - Teleporting Destroyer
 * [[[SCP-596]]] - Cursed Regeneration Statue
 * [[[SCP-597]]] - 眾生之母
@@ -699,7 +699,7 @@
 * [[[SCP-649]]] - Matchbox Full of Winter
 * [[[SCP-650]]] - 嚇人雕像
 * [[[SCP-651]]] - Tissue-fusing virus
-* [[[SCP-652]]] - Meteorological Dog
+* [[[SCP-652]]] - 天候犬
 * [[[SCP-653]]] - The Boomerang
 * [[[SCP-654]]] - Thunderhorn
 * [[[SCP-655]]] - Biological Disinformation Campaign
@@ -732,7 +732,7 @@
 * [[[SCP-682]]] - 不滅孽蜥
 * [[[SCP-683]]] - 冰箱畫作
 * [[[SCP-684]]] - The Caretaken
-* [[[SCP-685]]] - Non-Bottomless Pit
+* [[[SCP-685]]] - 深坑有底
 * [[[SCP-686]]] - 泌乳感染
 * [[[SCP-687]]] - {{NOIR}}
 * [[[SCP-688]]] - Hole Dwellers
@@ -867,7 +867,7 @@
 * [[[SCP-809]]] - Combat Boots
 * [[[SCP-810]]] - The Never-want Lamp
 * [[[SCP-811]]] - Swamp Woman
-* [[[SCP-812]]] - A Big Box of River
+* [[[SCP-812]]] - 一箱大河
 * [[[SCP-813]]] - Glass Shard
 * [[[SCP-814]]] - 純音
 * [[[SCP-815]]] - 飛蛇堅果罐

@@ -76,7 +76,7 @@
 * [[[SCP-8048]]] - [ACCESS DENIED]
 * [[[SCP-8049]]] - [ACCESS DENIED]
 * [/scp-8050 VNP-8050] - One to Rule Them All
-* [[[SCP-8051]]] - Chewing Gum
+* [[[SCP-8051]]] - 棉花屋
 * [[[SCP-8052]]] - [ACCESS DENIED]
 * [[[SCP-8053]]] - [ACCESS DENIED]
 * [[[SCP-8054]]] - [ACCESS DENIED]
@@ -717,7 +717,7 @@
 * [[[SCP-8665]]] - [ACCESS DENIED]
 * [[[SCP-8666]]] - Roig's Red Death
 * [[[SCP-8667]]] - [ACCESS DENIED]
-* [[[SCP-8668]]] - [ACCESS DENIED]
+* [[[SCP-8668]]] - 就法律而言，是個好女孩
 * [[[SCP-8669]]] - [ACCESS DENIED]
 * [[[SCP-8670]]] - [ACCESS DENIED]
 * [[[SCP-8671]]] - [ACCESS DENIED]
@@ -865,7 +865,7 @@
 * [[[SCP-8805]]] - [ACCESS DENIED]
 * [[[SCP-8806]]] - [ACCESS DENIED]
 * [[[SCP-8807]]] - [ACCESS DENIED]
-* [[[SCP-8808]]] - [ACCESS DENIED]
+* [[[SCP-8808]]] - 能看見風景的房間
 * [[[SCP-8809]]] - [ACCESS DENIED]
 * [[[SCP-8810]]] - [ACCESS DENIED]
 * [[[SCP-8811]]] - [ACCESS DENIED]
@@ -972,7 +972,7 @@
 * [[[SCP-8908]]] - [ACCESS DENIED]
 * [[[SCP-8909]]] - [ACCESS DENIED]
 * [[[SCP-8910]]] - My Happy Place
-* [[[SCP-8911]]] - [ACCESS DENIED]
+* [[[SCP-8911]]] - Site-333開麥夜
 * [[[SCP-8912]]] - [ACCESS DENIED]
 * [[[SCP-8913]]] - [ACCESS DENIED]
 * [[[SCP-8914]]] - Our Four Elemental Dragons

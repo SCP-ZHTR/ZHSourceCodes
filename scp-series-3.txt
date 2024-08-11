@@ -156,7 +156,7 @@
 * [[[SCP-2125]]] - The Hanging Tree
 * [[[SCP-2126]]] - Letter from Grandma
 * [[[SCP-2127]]] - Hinterkai-fun!
-* [[[SCP-2128]]] - The Liars' Cradle
+* [[[SCP-2128]]] - 說謊者烤架
 * [[[SCP-2129]]] - Hot-Blooded Snake
 * [[[SCP-2130]]] - Office Furniture
 * [[[SCP-2131]]] - 反教宗
@@ -799,7 +799,7 @@
 * [[[SCP-2750]]] - Navajo Skinwalkers
 * [[[SCP-2751]]] - Hydrophobic Dogs
 * [[[SCP-2752]]] - Junk Male
-* [[[SCP-2753]]] - Let's Play Jenga!
+* [[[SCP-2753]]] - 來玩疊疊樂！
 * [[[SCP-2754]]] - //How To Put 110% Into Everything//
 * [[[SCP-2755]]] - Brevity of Writ
 * [[[SCP-2756]]] - Surreal Landscaper

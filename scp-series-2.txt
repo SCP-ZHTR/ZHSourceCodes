@@ -24,7 +24,7 @@
 + 1000至1099
 
 * [[[SCP-1000]]] - 大腳怪
-* [[[SCP-1001]]] - Ya-Te-Veo
+* [[[SCP-1001]]] - [[span class="ruby"]]亞特蓓歐[[span class="rt"]]Ya-Te-Veo[[/span]][[/span]]
 * [[[SCP-1002]]] - Demisers
 * [[[SCP-1003]]] - Tapeworm Child
 * [[[SCP-1004]]] - 工廠黃片
@@ -204,7 +204,7 @@
 * [[[SCP-1175]]] - 牛頭像與禁衛兵
 * [[[SCP-1176]]] - Mellified Man
 * [[[SCP-1177]]] - The Coupon Cutter
-* [[[SCP-1178]]] - Floating ICBM
+* [[[SCP-1178]]] - 漂浮的洲際彈道飛彈
 * [[[SCP-1179]]] - Centralian Fire Demon
 * [[[SCP-1180]]] - A Lovely Bunch of Coconuts
 * [[[SCP-1181]]] - Interactive Kaleidoscope
@@ -719,7 +719,7 @@
 * [[[SCP-1675]]] - Goose Terminator
 * [[[SCP-1676]]] - Customer Loyalty Program
 * [[[SCP-1677]]] - The Song Stuck In Your Head
-* [[[SCP-1678]]] - UnLondon
+* [[[SCP-1678]]] - 地下倫敦
 * [[[SCP-1679]]] - Post-Mortem Peoples' Choice
 * [[[SCP-1680]]] - Tyler
 * [[[SCP-1681]]] - 美國偶像

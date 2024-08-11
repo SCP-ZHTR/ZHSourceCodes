@@ -281,7 +281,7 @@
 * [[[SCP-7239]]] - [ACCESS DENIED]
 * [[[SCP-7240]]] - [ACCESS DENIED]
 * [[[SCP-7241]]] - [ACCESS DENIED]
-* [[[SCP-7242]]] - [ACCESS DENIED]
+* [[[SCP-7242]]] - 受詛咒的潛艦
 * [[[SCP-7243]]] - [ACCESS DENIED]
 * [[[SCP-7244]]] - [ACCESS DENIED]
 * [[[SCP-7245]]] - [ACCESS DENIED]
@@ -593,7 +593,7 @@
 * [[[SCP-7539]]] - [ACCESS DENIED]
 * [[[SCP-7540]]] - [ACCESS DENIED]
 * [[[SCP-7541]]] - [ACCESS DENIED]
-* [[[SCP-7542]]] - [ACCESS DENIED]
+* [[[SCP-7542]]] - 冷戰時失去的武器
 * [[[SCP-7543]]] - [ACCESS DENIED]
 * [[[SCP-7544]]] - [ACCESS DENIED]
 * [[[SCP-7545]]] - [ACCESS DENIED]
