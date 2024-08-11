@@ -6,9 +6,12 @@
 ~~~~
 [!-- 歡迎方塊  --]
 [[include :scp-zh-tr:fragment:front-page-welcome-box]]
-
-[!-- 跑馬燈箱  --]
-[[include :scp-zh-tr:fragment:front-page-top-announcement]]
+@@ @@
+[[image https://i.imgur.com/yR2YdBN.png link ="summer-contest-2024"]]
+@@ @@
+[[image https://i.imgur.com/hzIkUwu.png link ="zhongyuan-2024"]]
+@@ @@
+@@ @@
 [!-- 臨時新聞  --]
 [[div style="border:solid 1px #000000; background:#d6d6d6; padding:5px; margin-bottom: 10px;"]]
 [[=]]
