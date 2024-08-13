@@ -50,5 +50,6 @@ Site-17毀滅後，反擊接踵而來。先是標準收容團隊，那團隊能�
 
 我想我很快就會離去了。
 
-[[include :scp-zh-tr:component:license-box]]
+[[include :scp-zh-tr:component:license-box
+|author=Dmatix]]
 [[include :scp-zh-tr:component:license-box-end]]
