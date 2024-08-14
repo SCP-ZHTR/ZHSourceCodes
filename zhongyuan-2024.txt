@@ -233,7 +233,7 @@ text-shadow: 0 0 0.75rem rgb(var(--swatch-primary-darkest),0.75);
 |author=理化老師
 |art= https://upload.wikimedia.org/wikipedia/commons/6/64/Retablo11-Pistaku.jpeg
 |url=http://scp-zh-tr.wikidot.com/scp-zh-249
-|title=東是「XX」
+|title=東是「敵愾」
 ]]
 
 [[include :scp-sandbox2-zh:draft:5325850-1o-ly074dry
