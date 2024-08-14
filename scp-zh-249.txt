@@ -1,3 +1,4 @@
+[[include component:scp-meta-title-hiding css-style=classic]]
 [[include :scp-zh-tr:theme:paperstack]]
  
 [[div class="logo"]]
