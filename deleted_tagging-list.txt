@@ -24,15 +24,15 @@
 vvv現實扭曲vvv
 [[collapsible show="開啟" hide="收起"hideLocation="both"]]
 [[module ListPages separate="yes" perPage="50" tags="+現實扭曲" order="name" -category="_default"]]
-%%title_linked%% - %%created_by%%
+%%title_linked%% - %%created_by%% 
 [[/module]]
 [[/collapsible]]
 [[/tab]]
 
-[[tab 造物]]
+[[tab 待用]]
 
-[[module ListPages separate="yes" perPage="1000" tags="+造物" order="name" -category="_default"]]
-%%title_linked%% - %%created_by%%
+[[module ListPages separate="yes" perPage="1000" tags="+亡走塵寰 +scp" order="name" -category="_default"]]
+%%title_linked%% - %%created_by%% ##gray|%%tags%%##
 [[/module]]
 [[/tab]]
 
