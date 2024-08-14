@@ -1,3 +1,4 @@
+[[include component:scp-meta-title-hiding css-style=classic]]
 [[include info:start]]
 作者 : [[*user Reverberate_a]]
 
