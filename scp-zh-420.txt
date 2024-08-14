@@ -1,0 +1,23 @@
+[[include info:start]]
+作者 : [[*user Reverberate_a]]
+
+照片部分
+本篇照片除德國國會外，匈牙利國會，日本國會，俄國國會及司法院，皆為本人拍攝
+德國照片：由作者［https://commons.m.wikimedia.org/wiki/User:Times Times］拍攝，並依照CC3.0協議引用該圖片 
+
+圖片部分：均為自己所畫
+
+特別感謝：律師朋，台史朋，圖書館朋，黨朋，黨外朋，及各位老師。
+
+[[include info:end]]
+
+[[module css]]
+@import url(http://smlt.wdfiles.com/local--files/ashburystreet%3A6/deda.css)
+[[/module]]
+
+
+
+
+[[module ListPages  category="fragment" parent="." limit="1" order="created_at" offset="@URL|0"]]
+%%content%%
+[[/module]]
