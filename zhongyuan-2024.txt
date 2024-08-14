@@ -201,7 +201,7 @@ text-shadow: 0 0 0.75rem rgb(var(--swatch-primary-darkest),0.75);
 [[/div]]
 
 [[=]]
-[[size 120%]][[span style="font-family:'Noto Serif TC';"]]你推開了鏽蝕的[https://docs.google.com/forms/d/1MjXfYEOSP8db5qLDsuqj_l3avuweFjYeVeZSvkRuItw/edit 鐵門]。[[/span]][[/size]]
+[[size 120%]][[span style="font-family:'Noto Serif TC';"]]你推開了鏽蝕的##red|鐵門##。[[/span]][[/size]]
 [[/=]]
 
 @@ @@
@@ -635,9 +635,9 @@ SCP-ZH-715內仍有6名租約尚未到期之一般民眾。
 > **授權：** CC BY-SA 3.0
 > **來源連結：** [https://i.imgur.com/rmNA6sp.jpeg 見此]
 
-> **檔案名稱： **spbIq4y.gif
+> **檔案名稱：** spbIq4y.gif
 > **作者：** 由艾略特老師商業委託幽靈助教繪製
-> **授權： **CC BY-SA 3.0
+> **授權：** CC BY-SA 3.0
 > **來源連結：** [https://imgur.com/spbIq4y 見此]
 
 > **檔案名稱：** Bp5aNAn.png
