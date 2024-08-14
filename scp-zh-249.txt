@@ -6,7 +6,8 @@
 [[/div]]
  
 [[include info:start]]
- 
+**作者：** [[*user k1s10r0db00ne]]
+**篇名：** SCP-ZH-249 - 東是「敵愾」
 [[include info:end]]
  
 [[div class="header-container"]]
