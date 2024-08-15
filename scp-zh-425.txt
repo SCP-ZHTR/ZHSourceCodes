@@ -1,0 +1,165 @@
+[[module css]]
+
+#u-inviz1 {     animation-name: fadeOut;
+    animation-delay: 15s;
+    animation-duration: 0.2s;
+    animation-iteration-count: 1;
+    animation-timing-function: linear;
+    animation-fill-mode: forwards; }
+
+#u-inviz2 {     animation-name: fadeOut;
+    animation-delay: 30s;
+    animation-duration: 0.2s;
+    animation-iteration-count: 1;
+    animation-timing-function: linear;
+    animation-fill-mode: forwards; }
+
+#u-inviz3 {     animation-name: fadeOut;
+    animation-delay: 45s;
+    animation-duration: 0.2s;
+    animation-iteration-count: 1;
+    animation-timing-function: linear;
+    animation-fill-mode: forwards; }
+
+#u-inviz4 {     animation-name: fadeOut;
+    animation-delay: 60s;
+    animation-duration: 0.2s;
+    animation-iteration-count: 1;
+    animation-timing-function: linear;
+    animation-fill-mode: forwards; }
+
+#u-inviz5 {     animation-name: fadeOut;
+    animation-delay: 75s;
+    animation-duration: 0.2s;
+    animation-iteration-count: 1;
+    animation-timing-function: linear;
+    animation-fill-mode: forwards; }
+
+#u-inviz6 {     animation-name: fadeOut;
+    animation-delay: 90s;
+    animation-duration: 0.2s;
+    animation-iteration-count: 1;
+    animation-timing-function: linear;
+    animation-fill-mode: forwards; }
+
+#u-inviz7 {     animation-name: fadeOut;
+    animation-delay: 105s;
+    animation-duration: 0.2s;
+    animation-iteration-count: 1;
+    animation-timing-function: linear;
+    animation-fill-mode: forwards; }
+
+#u-inviz8 {     animation-name: fadeOut;
+    animation-delay: 120s;
+    animation-duration: 0.2s;
+    animation-iteration-count: 1;
+    animation-timing-function: linear;
+    animation-fill-mode: forwards; }
+
+#u-inviz9 {     animation-name: fadeOut;
+    animation-delay: 135s;
+    animation-duration: 0.2s;
+    animation-iteration-count: 1;
+    animation-timing-function: linear;
+    animation-fill-mode: forwards; }
+
+#u-inviz10 {     animation-name: fadeOut;
+    animation-delay: 150s;
+    animation-duration: 0.2s;
+    animation-iteration-count: 1;
+    animation-timing-function: linear;
+    animation-fill-mode: forwards; }
+@keyframes fadeOut {
+  from {
+    opacity: 1;
+  }
+  to {
+    opacity: 0;
+  }
+}
+
+[[/module]]
+
+
+
+
+[[include component:scp-meta-title-hiding css-style=basalt]]
+
+[[include :scp-zh-tr:theme:basalt]]
+
+[[include info:start]]
+**篇名：** SCP-ZH-425 - 破是「破洞」
+**作者：** [[*user Control Z]]
+
+----
+
+圖片「Cqa1MTF.jpg」資訊：
+來源：我拍並後製的照片
+授權：姓名標示-相同方式分享 3.0 未本地化 (CC BY-SA 3.0)
+
+----
+
+參與 [[[summer-contest-2024|2024 年夏季競賽：《元素》]]]
+使用元素：綠(擴張)
+
+----
+
+特別感謝：
+犯罪心理學老師_在我迷失作品核心時提供的建議與鼓勵讓我有了目前這個成品的創作方向
+反事實歷史老師&管理員老師_如果沒有他們只靠我這個代碼白痴沒辦法讓這篇的動畫動起來
+約翰 • 羅比遜老師_幫我審視了這篇文章使用到的圖片
+
+還有所有參與這個活動的老師們，我愛你們。
+
+[[=]]
+[*http://scp-zh-tr.wikidot.com/bangyen Ctrl Z博士的辦公室]
+[[/=]]
+
+[[include info:end]]
+
+
+
+[[include component:image-block name=https://imgur.com/Cqa1MTF.jpg| caption=[[span id="inviz3"]]最初[[/span]][[span id="inviz1"]]發現時[[/span]][[span id="inviz2"]]的[[/span]][[span id="inviz4"]]SCP-ZH-425[[/span]]| align=right]]
+
+[[span id="inviz2"]]**項目編號：**[[/span]] [[span id="inviz8"]]SCP-ZH-425[[/span]]
+
+[[span id="inviz3"]]**項目等級：**[[/span]] [[span id="inviz4"]]Safe[[/span]]
+
+[[span id="inviz1"]]**特殊收容措施：**[[/span]][[span id="inviz3"]]SC[[/span]][[span id="inviz4"]]P-ZH-42[[/span]][[span id="inviz2"]]5[[/span]][[span id="inviz1"]]應被收[[/span]][[span id="inviz3"]]容在[[/span]][[span id="inviz2"]]與外界資訊隔[[/span]][[span id="inviz1"]]絕[[/span]][[span id="inviz3"]]的收容室內，任何以[[/span]][[span id="inviz1"]]文字或圖[[/span]][[span id="inviz2"]]像進[[/span]][[span id="inviz1"]]行[[/span]][[span id="inviz3"]]記錄、創[[/span]][[span id="inviz1"]]作[[/span]][[span id="inviz2"]]的文件或藝術品均禁止攜入SCP[[/span]][[span id="inviz4"]]-ZH-4[[/span]][[span id="inviz1"]]25的收容室[[/span]][[span id="inviz3"]]。[[/span]][[span id="inviz2"]]項目必[[/span]][[span id="inviz1"]]須[[/span]][[span id="inviz2"]]攤開使其結構[[/span]][[span id="inviz1"]]維[[/span]][[span id="inviz3"]]持在[[/span]][[span id="inviz1"]]可視[[/span]][[span id="inviz3"]]狀態。監督人員必須定[[/span]][[span id="inviz1"]]時紀[[/span]][[span id="inviz2"]]錄SCP-Z[[/span]][[span id="inviz4"]]H[[/span]][[span id="inviz3"]]-425的體積及質量並製作書面報告，[[/span]][[span id="inviz3"]]若項目的體積擴[[/span]][[span id="inviz2"]]張[[/span]][[span id="inviz1"]]至收[[/span]][[span id="inviz3"]]容警戒線[[/span]][[span id="inviz1"]]範圍[[/span]][[span id="inviz2"]]，須[[/span]][[span id="inviz1"]]立[[/span]][[span id="inviz2"]]即通報值班主管，[[/span]][[span id="inviz2"]]或[[/span]][[span id="inviz1"]]參照[[/span]][[span id="inviz4"]]《SCP-ZH-425緊急[[/span]][[span id="inviz1"]]狀況[[/span]]救[[span id="inviz2"]]助手冊》[[/span]][[span id="inviz3"]]第5[[/span]][[span id="inviz1"]]頁內[[/span]][[span id="inviz4"]]容施行緊急處[[/span]][[span id="inviz1"]]理措施。[[/span]]
+
+[[span id="inviz6"]]**描述：**S[[/span]][[span id="inviz4"]]CP-ZH-425是存[[/span]]在[[span id="inviz4"]]於一本攤開的A[[/span]][[span id="inviz3"]]5筆記本中心的重力異[[/span]][[span id="inviz4"]]常，[[/span]][[span id="inviz7"]]外形呈現為[[/span]][[span id="inviz5"]]一顆直[[/span]][[span id="inviz6"]]徑約--15-- --30-- 6[[/span]][[span id="inviz7"]]0公分的黑洞[[/span]][[span id="inviz4"]]。[[/span]][[span id="inviz5"]]SCP-ZH-425的物理特[[/span]][[span id="inviz7"]]性[[/span]][[span id="inviz4"]]與自然界中的天體黑洞存在差異，未[[/span]][[span id="inviz3"]]對其周圍的空間及物質造成破壞[[/span]][[span id="inviz4"]]。--當前推論SCP-ZH-425的引力僅吸引可見光--[[/span]][[span id="inviz5"]]項目的引力似乎只存在於[[/span]][[span id="inviz4"]]二維[[/span]][[span id="inviz6"]]空間，會吸引其周[[/span]][[span id="inviz6"]]圍平面的文字資訊與圖像資訊。觀察到不同媒材間所構成的[[/span]][[span id="inviz4"]]資訊受SCP-ZH-425引[[/span]][[span id="inviz7"]]力影響的效力也不盡相[[/span]][[span id="inviz3"]]同，其中尤以鉛筆書寫、創作的資訊受到的影響最為顯著。[[/span]]
+
+[[span id="inviz5"]]當前並無[[/span]][[span id="inviz8"]]證據表明SCP-ZH-425具備對三維空間造成影響的能力。[[/span]][[span id="inviz5"]]經測量項目的引力範圍[[/span]][[span id="inviz6"]]以項目為中心向外--3-- --6-- 9公尺遞減，[[/span]][[span id="inviz5"]]所有落入SCP-ZH-425的資訊推測為永久喪失且不[[/span]][[span id="inviz8"]]可逆。[[/span]][[span id="inviz5"]]吞噬資訊會擴大SCP-ZH-425的體積和質量，當前已終止對項目引力特性的所有測試以避免其進一步擴張。[[/span]]
+
+[[span id="inviz3"]]以下為當前已知[[/span]][[span id="inviz6"]]受到SCP-ZH-425引力影響[[/span]][[span id="inviz4"]]而喪失的資訊造成的損害[[/span]][[span id="inviz3"]]：[[/span]]
+
+　[[span id="inviz7"]]• 居住[[/span]][[span id="inviz5"]]在SCP-ZH-425發現地至[[/span]][[span id="inviz6"]]當前收容措施位置之間的平民之部分私人財產(例如：報紙書籍、圖畫照片等資訊)。[[/span]]
+　[[span id="inviz3"]]• 位[[/span]][[span id="inviz4"]]於SCP-[[/span]][[span id="inviz5"]]ZH-425發現地至當前收容[[/span]][[span id="inviz3"]]措施位置之間的部[[/span]][[span id="inviz6"]]分交通號誌及地[[/span]]面[[span id="inviz5"]]標線。[[/span]]
+　[[span id="inviz5"]]• 初版SCP-ZH-425文件部分文字。[[/span]]
+　[[span id="inviz8"]]• 當前收容[[/span]][[span id="inviz3"]]措施文件存放[[/span]][[span id="inviz4"]]區部分文件內的部分文字或照片記錄。[[/span]]
+　[[span id="inviz3"]]• 當前[[/span]][[span id="inviz6"]]收容措施辦公[[/span]][[span id="inviz8"]]區域研究員[[/span]][[span id="inviz3"]]的便條紙上的文字及塗鴉。[[/span]]
+
+[[span id="inviz7"]]筆記本所有人[[/span]][[span id="inviz6"]]是一位多次進行[[[are-we-cool-yet-hub|Are We Cool Yet?]]]相關[[/span]][[span id="inviz4"]]活動[[/span]][[span id="inviz3"]]而被列為監視對象的21歲男性（被指定為PoI-5163）[[/span]][[span id="inviz8"]]。[[/span]][[span id="inviz5"]]負責監視的特務在發覺PoI-5163多日未離開住所[[/span]][[span id="inviz3"]]而強行[[/span]][[span id="inviz7"]]進入時在其房[[/span]][[span id="inviz3"]]間[[/span]][[span id="inviz7"]]的書桌上發現SCP-ZH-425，以及一份用[[/span]][[span id="inviz4"]]藍色原子[[/span]][[span id="inviz3"]]筆撰寫的文件。[[/span]]
+
+[[span id="inviz5"]]**附錄1：**以下是從PoI-5163的房間[[/span]]裡[[span id="inviz7"]]回收得到的文件內容。[[/span]]
+
+> [[span id="inviz10"]]##Blue|**標題：** 呃##[[/span]]
+> 
+> [[span id="inviz9"]]##Blue|**所需素材：** ##[[/span]]
+> [[span id="inviz10"]]##Blue|新買的2B##[[/span]][[span id="inviz9"]]##Blue|自動鉛筆##[[/span]]
+> ##Blue|我##[[span id="inviz10"]]##Blue|一直以來用的筆記本##[[/span]]
+> 
+> [[span id="inviz10"]]##Blue|**概要：** 好，情況##[[/span]][[span id="inviz9"]]##Blue|有點失控##[[/span]]
+> 
+> [[span id="inviz9"]]##Blue|**創作動機：** 總之我就跟平常一樣為了找靈感在筆記本上亂塗亂畫，突然想挑戰自己能用2B鉛筆塗出多黑的線條……然後那玩意兒就變成一顆黑洞，把我畫的圖跟寫的詩都給吞掉了，搞屁啊。##[[/span]]
+> 
+> [[span id="inviz9"]]##Blue|也許大家會覺得黑洞很Cool？下次展出要拿這東西試試看嗎……反正我其他作品都被它吃掉了，也只能這樣了吧。##[[/span]]
+> 
+> [[span id="inviz10"]]##Blue|Are We C##[[/span]]
+> 
+[[span id="inviz3"]]**附錄2：** [[/span]][[span id="inviz8"]]現階段已提升PoI-5163的關注等級並持續追查其下落。[[/span]][[span id="inviz5"]]根據負責PoI-5163的特務工作日誌之中的[[/span]][[span id="inviz6"]]情報，[[/span]][[span id="inviz4"]]推測PoI-5163可能具有擺脫基金會追蹤及監視的未知手段。 [[/span]][[span id="inviz6"]]進行搜查的人員需提防PoI-5163可能採取的抵抗或反擊措施，視情事合理進行應對。[[/span]]
+
+
+
+
+[[footnoteblock]]
