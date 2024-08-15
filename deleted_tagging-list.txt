@@ -31,7 +31,7 @@ vvv現實扭曲vvv
 
 [[tab 待用]]
 
-[[module ListPages separate="yes" perPage="1000" tags="+亡走塵寰 +scp" order="name" -category="_default"]]
+[[module ListPages separate="yes" perPage="1000" tags="+phenomenon +scp" order="name" -category="_default"]]
 %%title_linked%% - %%created_by%% ##gray|%%tags%%##
 [[/module]]
 [[/tab]]

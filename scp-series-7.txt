@@ -770,7 +770,7 @@
 * [[[SCP-6715]]] - Path to Paradise
 * [[[SCP-6716]]] - [ACCESS DENIED]
 * [[[SCP-6717]]] - [ACCESS DENIED]
-* [[[SCP-6718]]] - [ACCESS DENIED]
+* [[[SCP-6718]]] - 但要是另一邊什麼也沒有呢？
 * [[[SCP-6719]]] - [ACCESS DENIED]
 * [[[SCP-6720]]] - [ACCESS DENIED]
 * [[[SCP-6721]]] - [ACCESS DENIED]
