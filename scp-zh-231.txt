@@ -1,3 +1,4 @@
+[[include component:scp-meta-title-hiding css-style=classic]]
 [[include credit:start]]
 **標題：** SCP-ZH-231 黑暗卡西
 **作者：** [[*user Reverberate_a]]
