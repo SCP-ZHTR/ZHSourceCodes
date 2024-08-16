@@ -219,3 +219,4 @@
 || MTF-葫蘆-8 || 約聘編輯團 || [[[why-you-need-pataphysics|]]]、[[[halloween-event-2022|]]] ||  ||
 || MTF Tau-55 || 英靈戰士 || [[[recover-data-goi-2018-r0320|回收資料：GoI-2018-R0320「芬羅西亞島」]]] ||  ||
 || MTF-Omicron-94 || 薩邁爾之息 || [[[SCP-ZH-249]]] || 位於奧爾頓市前Site-144之機動特遣隊 ||
+|| MTF-Nanjing-1 ||一望即知 || [[[SCP-ZH-420]]] || ||
