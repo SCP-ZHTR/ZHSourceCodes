@@ -85,7 +85,7 @@ SCP-ZH-454最主要的異常特性在於，項目對水的溶解度極高，甚�
 [[include :scp-wiki:component:earthworm
 | first=false | last=false | hub=yes
 | previous-url=/SCP-ZH-425 | previous-title=破是「破洞」
-| next-url=/SCP-ZH-715 | next-title=梅是「XX」
+| next-url=/SCP-ZH-715 | next-title=梅是「門禁」
 | hub-url=/zhongyuan-2024 | hub-title=「早梅詩」
 ]]
 

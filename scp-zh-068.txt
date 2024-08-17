@@ -7,13 +7,13 @@
 }
 [[/module]]
 
-[[include info:start]]
+[[include credit:start]]
 篇名︰**SCP-ZH-068 - 霧中泡影**
 作者 : [[*user YONGZUN]]
 
 投稿2024夏季競賽《元素》 水
 
-[[include info:end]]
+[[include credit:end]]
 
 **項目編號：**SCP-ZH-068
 
