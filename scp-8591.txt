@@ -1,0 +1,173 @@
+=====
+[[include :scp-wiki:component:preview
+text=PlaguePJP: XLIX
+]]
+=====
+
+[[include :scp-zh-tr:theme:black-highlighter-theme]]
+[[include :scp-wiki:theme:minimalist-bhl]]
+[[include :scp-zh-tr:component:toggle-sidebar-bhl]]
+[[include :scp-zh-tr:component:acs-animation]]
+[[include :scp-zh-tr:component:fade-in speed=4]]
+[[module CSS]]
+:root:lang(zh){
+     --header-title: "非現實部";
+     --header-subtitle: "讓非現實成為  ";
+     --lgurl: url('http://scp-wiki.wikidot.com/local--files/unreality-hub/Unreality%20Header%20Logo.svg');
+}
+
+@media only screen and (max-width: 26.5625rem) {
+    :root {
+        --header-title: "非現實";
+    }
+}
+
+
+.info-container{
+--barColour: #2c2427;
+--linkColour: #FFF;
+}
+
+#page-content hr {
+border-top: none;
+height: .05em;
+background: #454545;
+}
+
+#page-content > .collapsible-block {
+    display: block;
+    text-align: center;
+    padding: .8em;
+    background-color: #e3e3e3;
+    border-top: 0.125rem dashed #b5b5b5;
+    border-bottom: 0.125rem dashed #b5b5b5;
+}
+
+#page-content > .collapsible-block .collapsible-block-content {
+    text-align: left;
+}
+
+.interview{
+    border:solid 2px #d4d4d4;
+    background:#F5F5F5;
+    width:90%;
+    padding:1px 15px;
+    margin: 10px auto;
+}
+
+.file{
+    border:none;
+    background:#F5F5F5;
+    width:90%;
+    padding:1px 15px;
+    margin: 10px auto;
+}
+
+.addendum{
+    border:solid 1px #5e5e5e;
+    background:#ffffff;
+    width:90%;
+    padding:1px 15px;
+    margin: 10px auto;
+}
+
+.testfile{
+    border:solid 3px #643434;
+    background:#f7efef;
+    width:90%;
+    padding:1px 15px;
+    margin: 10px auto;
+}
+
+.testvideo{
+    background:#e9d5d5;
+    width:90%;
+    padding:1px 15px;
+    margin: 10px auto;
+}
+
+
+#page-title{display:none}
+
+[[/module]]
+
+[[include info:start]]
+**SCP-8591 - Alex Thorley未能僥倖逃脫**
+**作者：**[[*user plaguepjp]]
+**原文：**[https://scp-wiki.wikidot.com/scp-8591 SCP-8591 — Alex Thorley Doesn't Get Away With It]
+**譯者：**[[*user Kikunai]]
+**圖像：** 見底部。
+[[include info:end]]
+
+[[include :scp-wiki:component:info-ayers
+|lang=en
+|page=scp-8591
+|authorPage=https://scp-wiki.wikidot.com/plaguepjp
+|comments=
+= **SCP-8591** — //Alex Thorley未能僥倖逃脫//
+]]
+
+
+**項目編號：** SCP-8591
+
+**特殊收容措施：** N/A
+
+[[div class="scp-image-block block-right" style="width:10%;"]]
+[[image https://scp-wiki.wdfiles.com/local--files/scp-8591/ellingfant.png style="width:40%;" link=#]]
+[[div class="scp-image-caption" style="width:100%;"]]
+SCP-8591。
+[[/div]]
+[[/div]]
+
+**描述：** SCP-8591曾是偶爾在Alex Thorley研究員辦公室出現和消失的成年非洲象。
+
+在本檔案發佈後，SCP-8591消失，而且一年多未有再次出現。
+
+[[div class="blockquote"]]
+= **逐字稿**
+------
+**Thorley：** //（電話交談）// 牠又來了。
+
+//［…］//
+
+**Thorley：** 也許牠會離開。
+
+//[…]//
+
+**Thorley：** 我甚麼也沒有//幹//。
+
+//［…］//
+
+**Thorley：** 我沒做錯甚麼事。
+
+//［…］//
+
+**Thorley：** 行。
+
+//（Thorley進入辦公室。裏面有一隻大象。）//
+
+**Thorley：** ...我現在跟你說話。
+[[/div]]
+
+Thorley研究員因在此互動前的未公開不當行為已被妥善提醒。
+
+[[footnoteblock]]
+----
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[SCP-8590]]] | SCP-8591 | [[[SCP-8592]]] >>
+[[/=]]
+[[/div]]
+----
+
+[[include :scp-zh-tr:component:license-box]]
+> **Filename:** ellingfant.png
+> **License:** CC BY 2.0
+
+This image is a composite of:
+
+> **Name:** Elephant
+> **Author:** gudi&cris
+> **License:** CC BY 2.0
+> **Source:** [https://openverse.org/image/0ba30b8d-04e1-4485-aa98-f109e715744a?q=elephant Openverse]
+[[include :scp-zh-tr:component:license-box-end]]
