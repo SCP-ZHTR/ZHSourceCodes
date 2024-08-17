@@ -8,9 +8,14 @@
      --lgurl: url('http://scp-wiki.wikidot.com/local--files/unreality-hub/Unreality%20Header%20Logo.svg');
 }
 [[/module]]
-[[>]]
-[[module Rate]]
-[[/>]]
+[[include info:start]]
+**引力子**
+**作者：**[[*user fairydoctor]]
+**原文：**[https://scp-wiki.wikidot.com/gravitron Gravitron]
+**譯者：**[[*user fuor_clover]]
+**圖像：** 見底部。
+[[include info:end]]
+
 [[div class="blockquote"]]
 **項目編號：** SCP-XXXX
 
@@ -79,7 +84,7 @@
 
 [[/div]]
 
-這就是我能做到的了！為我歡呼吧！我翻了個白眼，起身去換好自己的衣服，當我走過魚缸時，我注意到了一些浪花蟹在沙灘上緩緩爬行。當我換好了衣服後，再度坐到了電腦前，查看文檔的最新編輯。
+這就是我能做到的了！為我歡呼吧！我翻了個白眼，起身去換好自己的衣服，當我走過魚缸時，我注意到了一些浪花蟹在沙灘上緩緩爬行。當我換好了衣服後，再度坐到了電腦前，查看檔案的最新編輯。
 
 
 [[div class="blockquote"]]

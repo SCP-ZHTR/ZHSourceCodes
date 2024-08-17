@@ -100,7 +100,7 @@ background: #454545;
 ]]
 
 [[div class="scp-image-block block-right" style="width:10%;"]]
-[[image https://scptestwiki.wdfiles.com/local--files/elethan/epants.png style="width:50% !important;" link=#]]
+[[image https://scp-wiki.wdfiles.com/local--files/scp-8591/ellingfant.png style="width:50% !important;" link=#]]
 [[div class="scp-image-caption" style="width:50%;"]]
 SCP-8195。
 [[/div]]

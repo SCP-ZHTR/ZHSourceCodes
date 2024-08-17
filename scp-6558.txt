@@ -1,3 +1,4 @@
+[[include component:scp-meta-title-hiding css-style=classic]]
 [[include :scp-zh-tr:theme:black-highlighter-theme]]
 [[include :scp-wiki:theme:minimalist-bhl]]
 
@@ -287,7 +288,6 @@ SCP-()()()()為一個通往迄今未知數量的平行宇宙的交接點。已�
 [[/=]]
 [[/div]]
 ----
-[[include :scp-wiki:more-by:tstaffor]]
 
 [[div]]
 [[=]]
