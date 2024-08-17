@@ -28,6 +28,20 @@
 [[/collapsible]]
 [[/tab]]
 
+[[tab 反物理定律 刪除]]
+[[collapsible show="原創"]]
+[[module ListPages separate="yes" perPage="1000" tags="+反物理定律 +原創" order="name" -category="_default"]]
+%%title_linked%% - %%created_by%% ##gray|%%tags%%##
+[[/module]]
+[[/collapsible]]
+[[collapsible show="翻譯"]]
+[[module ListPages separate="yes" perPage="1000" tags="+反物理定律 +翻譯" order="name" -category="_default"]]
+%%title_linked%% - %%created_by%% ##gray|%%tags%%##
+[[/module]]
+[[/collapsible]]
+[[/tab]]
+
+
 [[tab 本質促動改為現實扭曲]]
 [[module ListPages separate="yes" perPage="1000" tags="+本質促動" order="name" -category="_default"]]
 %%title_linked%% - %%created_by%%
@@ -41,7 +55,7 @@ vvv現實扭曲vvv
 [[/collapsible]]
 [[/tab]]
 
-[[tab 表3的標題]]
+[[tab 反物理定律刪除]]
 表3的內容。
 [[/tab]]
 [[/tabview]]
