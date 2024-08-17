@@ -257,7 +257,7 @@ text-shadow: 0 0 0.75rem rgb(var(--swatch-primary-darkest),0.75);
 |author=華倫海特老師
 |art= https://i.imgur.com/CgUdzO2.jpg
 |url=http://scp-zh-tr.wikidot.com/scp-zh-454
-|title=早是「XX」
+|title=早是「滋潤」
 ]]
 
 [[include :scp-sandbox2-zh:draft:5325850-1o-ly074dry
