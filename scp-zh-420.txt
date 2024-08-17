@@ -23,3 +23,12 @@
 [[module ListPages  category="fragment" parent="." limit="1" order="created_at" offset="@URL|0"]]
 %%content%%
 [[/module]]
+
+@@ @@
+
+[[include :scp-wiki:component:earthworm
+| first=false | last=false | hub=yes
+| previous-url=/SCP-ZH-249 | previous-title=東是「敵愾」
+| next-url=/SCP-ZH-425 | next-title=破是「破洞」
+| hub-url=/zhongyuan-2024 | hub-title=「早梅詩」
+]]

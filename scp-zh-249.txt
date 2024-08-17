@@ -354,6 +354,15 @@ Spring Hamilton。
 嘛......天有不測風雲。就算是站點通訊器也不是一年365天正常運作的。我就預計啦，至死我都將隨身攜帶此錄音裝置。
 [[/div]]
 
+@@ @@
+
+[[include :scp-wiki:component:earthworm
+| first=true | last=false | hub=yes
+| previous-url=/ | previous-title=/
+| next-url=/SCP-ZH-420 | next-title=風是「法槌」
+| hub-url=/zhongyuan-2024 | hub-title=「早梅詩」
+]]
+
 ----
 [[include :scp-zh-tr:component:license-box
 |author=k1s10r0db00ne

@@ -163,3 +163,12 @@
 
 
 [[footnoteblock]]
+
+@@ @@
+
+[[include :scp-wiki:component:earthworm
+| first=false | last=false | hub=yes
+| previous-url=/SCP-ZH-420 | previous-title=風是「法槌」
+| next-url=/SCP-ZH-454 | next-title=早是「滋潤」
+| hub-url=/zhongyuan-2024 | hub-title=「早梅詩」
+]]
