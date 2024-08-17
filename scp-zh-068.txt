@@ -1,136 +1,197 @@
-[[include component:scp-meta-title-hiding css-style=classic-ayers]]
-
-[[include :scp-zh-tr:component:info-ayers
-|page=scp-zh-068
-|authorPage=http://scp-zh-tr.wikidot.com/sigtina
-|comments=**篇名：**自然色彩之戰 
-**作者：**[[*user sigtina]] 
-**創作年：**2021 
- 
-然而￾，還在對抗。 
-]]
-
-[[>]]
-[[module Rate]]
-[[/>]]
-
-[[module ListPages offset="@URL|0" range="."]]
-%%content{2}%%
+[[include :scp-jp:theme:aonibiiro-theme]]
+[[include component:scp-meta-title-hiding css-style=classic]]
+[[module css]]
+:root {
+    --haeder-title: 'SCP基金會';
+    --header-subtitle: '控制、收容、保護';
+}
 [[/module]]
-[[module ListPages limit="@URL|0" range="." urlAttrPrefix="page2"]]
-%%content{3}%%
-[[/module]]
-[!--
-====
-[[module CSS]]
-div.terminal{border: 1px solid black;border: solid 3px #BBBBBB;border-radius: 16px;background-color: #131;background-image:radial-gradient(ellipse 1000% 100% at 50% 90%, transparent, #121);background-position: center;display: block;box-shadow: inset 0 0 10em 1em rgba(0,0,0,0.5);overflow:hidden;
-}div.terminal blockquote {background-color: black;border: double 3px #80FF80}div.scanline{margin-top: -40%;width: 100%;height: 60px;position: relative;pointer-events: none;-webkit-animation: scan 12s linear 0s infinite; animation: scan 12s linear 0s infinite; background: linear-gradient(to bottom, rgba(56, 112, 82,0), rgba(56, 112, 82,0.1)) !important;}div.text{color: rgba(128,255,128,0.8);padding-left: 2em;padding-top: 40%;font-family: monospace;font-size: 1.2em;}@-webkit-keyframes scan{from{ transform: translateY(-10%);}to{  transform: translateY(5000%);} }@keyframes scan{from{ transform: translateY(-10%);}to{  transform: translateY(5000%);}}div.text a {color: #90EE90;text-decoration: none;background: transparent;}div.text a.newpage {color: #90EE90;text-decoration: none;background: transparent;}div.text a:hover {color: #131;text-decoration: underline;background-color: #80FF80;padding: 1px;}div.text a:hover::before{content: "> ";}
-[[/module]]
-**項目編號：** SCP-ZH-068
 
-**項目等級：** Safe
+[[include info:start]]
+篇名︰**SCP-ZH-068 - 霧中泡影**
+作者 : [[*user YONGZUN]]
 
-**特殊收容措施：** SCP-ZH-068的項目檔案現保存於SCP基金會繁中分部的資料庫中，支援項目的字型現已著手進行開發，並將於2024年完成，尋找項目對應字體的研究現已終止計畫但仍可經所處站點主管及研究部主任同意後著手進行，重現項目的研究則無限期停止。
+投稿2024夏季競賽《元素》 水
 
-**描述：**SCP-ZH-068即是繁體中文中的字體￾，弓部首，筆劃四十七劃，當前未知項目的讀音及字意，其起源及演化過程亦無有關文獻，其發現是在一次非法上傳事件中，因各站點零星傳出職員在瀏覽過特定檔案後出現不適感，在確認檔案是否有異常性質時意外發現的。
+[[include info:end]]
 
-[[collapsible show="需經百碼驗證程序方能開啟" hide="請依照圖片指示進行百碼驗證程序"]]
-[[div class="terminal"]]
-[[div class="scanline"]]
+**項目編號：**SCP-ZH-068
+
+**項目等級：**Acquiesce
+
+**特殊收容措施：**中華民國目前控制區域內的車輛都應該加裝霧燈，本措施已透過絕大部分車輛製造商與經銷商實現。
+
+推動中華民國目前控制區域內的高速公路加裝特製路燈，以利用路者能駛出SCP-ZH-068。
+
+負責本項目之 MTF 風起-36-「露水電荷」各小隊應隨時記錄SCP-ZH-068之各項資訊，以利上述特殊收容措施進行。
+
+**描述：**SCP-ZH-068是一種發生在高速公路上的濃霧事件，事件發生前，該區域的天空將呈現「青鈍色」。
+
+SCP-ZH-068並不會只在同時發生在高速公路同處，可能會同時發生在高速公路的不同地方，這種情況被稱為「隱霧事件」，約佔SCP-ZH-068事件的兩成。
+
+SCP-ZH-068發生時，濃霧將籠罩目標區域三至六小時，駛入其中的人員將在霧中見到異常幻覺。異常幻覺與觀察者的過往有關，該幻覺會影響駕駛的意識，並在影響當下阻擋車輛前進，表現上會出現車輛的輪子在原地轉動，而車身不前進的狀態。有部分人員可能因為特別的因素，駛入SCP-ZH-068的濃霧後不受影響，但由於能見度過差，容易與受影響的車輛發生車禍。
+
+當駕駛人受到SCP-ZH-068效應影響，該車輛上的其他未受影響的乘客並無能力將異常效應解除，只得待SCP-ZH-068事件結束。駕駛受到異常影響的車輛，車門將被不明外力推擠，導致無法推開車門。
+
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+
+[[div class="aonibiiro-block3"]]
+
+= **【附錄：隱霧事件72號】**
+
+**觀測組：**MTF 風起-36-「露水電荷」 北、中、南共36組
+
+**事發日期：**2018/8/16
+
+**事件簡述：**有史以來最大的隱霧事件。
+
+**事件描述：**當日下午四點，MTF 風起-33-「露水電荷」的北、中、南共36組小隊同時回報全台所有高速公路周遭區域的天空轉為「青鈍色」，基金會通知民異署立刻啟動特製路燈，避免車禍案件飆升。當日下午四點半至五點，各處陸續發生SCP-ZH-308事件，並造成額外的六十八起車禍，民間輿論在車禍案件激增下將炮火轉至中華民國交通部，經基金會計算，若無特製路燈之設備建置，本次事件造成的車禍案件數量約為四百三十二至四百六十三件。
+
 [[/div]]
-[[div class="text"]]
-[[=]]
-[[size 200%]]檔案部[[/size]]
-@@ @@
-[[size 200%]]百碼驗證系統[[/size]]
-@@ @@
-@@ @@
-@@ @@
-[[include :scp-zh-tr:component:listusers-1 users="."]]
-[[size 150%]]歡迎職員，%%name%%。[[/size]]
-[[include :scp-zh-tr:component:listusers-2]]
-[[size 150%]]警告，任何驗證嘗試將會被記錄並通報。[[/size]]
-[[include :scp-zh-tr:component:listusers-3]]
+
 @@ @@
 @@ @@
 @@ @@
 @@ @@
 @@ @@
-> @@ @@
-> [[image https://i.imgur.com/EEnVDFV.png]]
-> ----
-> [http://scp-zh-tr.wikidot.com ００]｜[http://scp-zh-tr.wikidot.com ０１]｜[http://scp-zh-tr.wikidot.com ０２]｜[http://scp-zh-tr.wikidot.com ０３]｜[http://scp-zh-tr.wikidot.com ０４]｜[http://scp-zh-tr.wikidot.com ０５]｜[http://scp-zh-tr.wikidot.com ０６]｜[http://scp-zh-tr.wikidot.com ０７]｜[http://scp-zh-tr.wikidot.com ０８]｜[http://scp-zh-tr.wikidot.com ０９]
-> @@ @@
-> [http://scp-zh-tr.wikidot.com １０]｜[http://scp-zh-tr.wikidot.com １１]｜[http://scp-zh-tr.wikidot.com １２]｜[http://scp-zh-tr.wikidot.com １３]｜[http://scp-zh-tr.wikidot.com １４]｜[http://scp-zh-tr.wikidot.com １５]｜[http://scp-zh-tr.wikidot.com １６]｜[http://scp-zh-tr.wikidot.com １７]｜[http://scp-zh-tr.wikidot.com １８]｜[http://scp-zh-tr.wikidot.com １９]
-> @@ @@
-> [http://scp-zh-tr.wikidot.com ２０]｜[http://scp-zh-tr.wikidot.com ２１]｜[http://scp-zh-tr.wikidot.com ２２]｜[http://scp-zh-tr.wikidot.com ２３]｜[http://scp-zh-tr.wikidot.com ２４]｜[http://scp-zh-tr.wikidot.com ２５]｜[http://scp-zh-tr.wikidot.com ２６]｜[http://scp-zh-tr.wikidot.com ２７]｜[http://scp-zh-tr.wikidot.com ２８]｜[http://scp-zh-tr.wikidot.com ２９]
-> @@ @@
-> [http://scp-zh-tr.wikidot.com ３０]｜[http://scp-zh-tr.wikidot.com ３１]｜[http://scp-zh-tr.wikidot.com ３２]｜[http://scp-zh-tr.wikidot.com ３３]｜[http://scp-zh-tr.wikidot.com ３４]｜[http://scp-zh-tr.wikidot.com ３５]｜[http://scp-zh-tr.wikidot.com ３６]｜[http://scp-zh-tr.wikidot.com ３７]｜[http://scp-zh-tr.wikidot.com ３８]｜[http://scp-zh-tr.wikidot.com ３９]
-> @@ @@
-> [http://scp-zh-tr.wikidot.com ４０]｜[http://scp-zh-tr.wikidot.com ４１]｜[http://scp-zh-tr.wikidot.com ４２]｜[http://scp-zh-tr.wikidot.com ４３]｜[http://scp-zh-tr.wikidot.com ４４]｜[http://scp-zh-tr.wikidot.com ４５]｜[http://scp-zh-tr.wikidot.com ４６]｜[http://scp-zh-tr.wikidot.com/scp-zh-068/offset/1/page2_limit/1 ４７]｜[http://scp-zh-tr.wikidot.com ４８]｜[http://scp-zh-tr.wikidot.com ４９]
-> @@ @@
-> [http://scp-zh-tr.wikidot.com ５０]｜[http://scp-zh-tr.wikidot.com ５１]｜[http://scp-zh-tr.wikidot.com ５２]｜[http://scp-zh-tr.wikidot.com ５３]｜[http://scp-zh-tr.wikidot.com ５４]｜[http://scp-zh-tr.wikidot.com ５５]｜[http://scp-zh-tr.wikidot.com ５６]｜[http://scp-zh-tr.wikidot.com ５７]｜[http://scp-zh-tr.wikidot.com ５８]｜[http://scp-zh-tr.wikidot.com ５９]
-> @@ @@
-> [http://scp-zh-tr.wikidot.com ６０]｜[http://scp-zh-tr.wikidot.com ６１]｜[http://scp-zh-tr.wikidot.com ６２]｜[http://scp-zh-tr.wikidot.com ６３]｜[http://scp-zh-tr.wikidot.com ６４]｜[http://scp-zh-tr.wikidot.com ６５]｜[http://scp-zh-tr.wikidot.com ６６]｜[http://scp-zh-tr.wikidot.com ６７]｜[http://scp-zh-tr.wikidot.com ６８]｜[http://scp-zh-tr.wikidot.com ６９]
-> @@ @@
-> [http://scp-zh-tr.wikidot.com ７０]｜[http://scp-zh-tr.wikidot.com ７１]｜[http://scp-zh-tr.wikidot.com ７２]｜[http://scp-zh-tr.wikidot.com ７３]｜[http://scp-zh-tr.wikidot.com ７４]｜[http://scp-zh-tr.wikidot.com ７５]｜[http://scp-zh-tr.wikidot.com ７６]｜[http://scp-zh-tr.wikidot.com ７７]｜[http://scp-zh-tr.wikidot.com ７８]｜[http://scp-zh-tr.wikidot.com ７９]
-> @@ @@
-> [http://scp-zh-tr.wikidot.com ８０]｜[http://scp-zh-tr.wikidot.com ８１]｜[http://scp-zh-tr.wikidot.com ８２]｜[http://scp-zh-tr.wikidot.com ８３]｜[http://scp-zh-tr.wikidot.com ８４]｜[http://scp-zh-tr.wikidot.com ８５]｜[http://scp-zh-tr.wikidot.com ８６]｜[http://scp-zh-tr.wikidot.com ８７]｜[http://scp-zh-tr.wikidot.com ８８]｜[http://scp-zh-tr.wikidot.com ８９]
-> @@ @@
-> [http://scp-zh-tr.wikidot.com ９０]｜[http://scp-zh-tr.wikidot.com ９１]｜[http://scp-zh-tr.wikidot.com ９２]｜[http://scp-zh-tr.wikidot.com ９３]｜[http://scp-zh-tr.wikidot.com ９４]｜[http://scp-zh-tr.wikidot.com ９５]｜[http://scp-zh-tr.wikidot.com ９６]｜[http://scp-zh-tr.wikidot.com ９７]｜[http://scp-zh-tr.wikidot.com ９８]｜[http://scp-zh-tr.wikidot.com ９９]
-> @@ @@
-> [http://scp-zh-tr.wikidot.com １００]
-> @@ @@
-> @@ @@
 @@ @@
-[[/=]]
-[[>]]
-[[include :scp-zh-tr:component:listusers-1 users="."]]
-存取位置：移動終端 - %%name%%。
-[[include :scp-zh-tr:component:listusers-2]]
-存取位置：定位遭拒
-[[include :scp-zh-tr:component:listusers-3]]
-[[/>]]
-@@ @@
+
+[[div class="aonibiiro-block3"]]
+
+= **【附錄：南-11組的第十八次紀錄】**
+
+**觀測組：**MTF 風起-36-「露水電荷」 南-11組
+
+**紀錄日期：**2020/12/22
+
+**紀錄簡述：**本篇記錄為典型SCP-ZH-068效應。
+
+----
+> 
+> **撰寫者：**副駕駛座 葛霖潭
+> 
+> **撰寫內容：**我看見的是，我過往不曾與其並肩的人，也是我的父親，我看見他就在我的座位前方看著我，副駕駛座在當下變成家裡的睦長椅，他點起了菸然後轉過身，我想站起來卻沒有任何力氣，湧上力氣後卻有萬鈞之力壓在我的肩膀。直到我適應了那股力量，艱難地站起來，要向他走過去時，一股強大的力量將我向後方地面拉，我只能看著他的背影。
+> 
+> 菸灰點落了，菸蒂也被隨地丟棄，然後他就消散。
+> 
+----
+> 
+> **撰寫者：**後座 麥朝溪
+> 
+> **撰寫內容：**比起坐，我更常是躺著，後座的空間很大而我的身型很小，當下座椅的質感變化，從皮革的觸感變成草地，我猛得睜開眼，看見藍天白雲，我馬上就意識到我是中了SCP-ZH-068，但這種意識對解困沒有幫助，沒有任何手法可以讓我強制從幻覺脫出，我試過了很多方法，從催眠到自殘都是。
+> 
+> 但這個異常很壞心，明明知道我不想要再看到那個男人，卻還是故意讓他出現在我的幻覺中，總覺得是在嘲笑我這個愛情失敗的女人。
+> 
+----
+> 
+> **撰寫者：**駕駛座 江泊淵
+> 
+> **撰寫內容：**我沒有看到什麼，只有看見跟現實一模一樣的駕駛座，另外兩人則是在車上睡著了，時速已經達到了這輛車子正常的極限，一百五十公里每小時，但他們依舊無動於衷，窗外的景色似乎也一直在輪迴。
+> 
+> 除此之外，車內只有擋風玻璃反照著我的臉，但玻璃裡面的我，似乎在笑，讓我的視線沒辦法好好地向前望。
+> 
+----
 [[/div]]
+
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+
+[[div class="aonibiiro-block3"]]
+
+= **【附錄：南-11組簡述】**
+
+> **所屬特遣隊：**MTF 風起-36-「露水電荷」
+> 
+> **人員：**葛霖潭、麥朝溪、江泊淵 總共三人
+> 
+> **簡述：**為MTF 風起-36-「露水電荷」績效甲等中的頂尖小組，成績優秀，多次與他組爭奪代表第一的特遣隊之輝。
+> 
+> 2020/1/18，北-02組改組，此後南-11組與其他組便再無可爭奪特遣隊之輝的表現。
+> 
+> 2020/2/5，隊內的葛霖潭因家中喪親而請了一個月的喪假，而麥朝溪則是在同年3/25因感情問題而請了近一個月的假，僅有江泊淵持續小組運作。
+> 
+> 2020/4/22，南-11組三人歸隊，免於改組。此後南-11組仍保持高品質的績效表現，但葛霖潭與麥朝溪的心理健康則是在後續檢查中呈現不良。
+> 
+> 2020/12/1，南-11組發生第一次車禍，由於江泊淵的疏忽而與民眾車輛擦撞。
+> 
+> 2020/12/12，南-11組受到挑釁，與北-02組發生衝突，主要衝突者江泊淵受到記過處分。
+> 
+> 2021/2/1，南-11組發生第十二次車禍，由於江泊淵的急躁與疏忽導致追撞他人車尾。
+> 
+> 2021/3/1，南-11組再次受到挑釁，與北-02組再次發生衝突，主要衝突者江泊淵暫時停職。
+> 
+> 2021/5/1，江泊淵復職，後續的心理健康在檢查中呈現不良。
+> 
+> 2021/9/10，三人的心理健康在檢查中脫離不良狀態。
+> 
+
+
 [[/div]]
-[[/collapsible]]
-====
-[[include component:image-block name=http://The-system-does-not-support-fonts.jpg|caption=圖片已失去回應]]
-**項目編號：** SCP-ZH-068
 
-**項目等級：** Safe
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
 
-**特殊收容措施：** SCP-ZH-068的項目檔案現保存於SCP基金會繁中分部的資料庫中，--並已開放官方使用版本檔案，--支援項目的字型--現已著手進行開發，並將於1998　1999　2001　2004　2008　2016　2021　2024年完成--##blue|無限期停止開發##，尋找項目對應字體的研究--現已終止計畫但仍可經所處站點主管及研究部主任同意後著手進行--##blue|無限期停止研究##，重現項目的研究--現則--##blue|亦##無限期停止。
+[[div class="aonibiiro-block3"]]
 
-##blue|有關項目之人事派任現無限期延後派任，所有參與過SCP-ZH-068研究計畫者將被視為受保護人員，需接受全天候的監控以保人身安全，此外項目研究計畫的人員欄位若有空白處應以佔位符填滿，並註記為人員失蹤事件，無需處置。##
+= **【附錄：南-11組的第三十八次紀錄】**
 
-**描述：**SCP-ZH-068即是繁體中文中的字體￾，弓部首，筆劃四十七劃，--當前未知項目的讀音及字意--##blue|盡管受項目影響人員認為項目所代表的字意為自然且舒適之光，但項目的正確讀音及字意實屬未知##，其起源及演化過程亦無有關文獻，其發現是在一次非法上傳事件中，各站點零星傳出職員在瀏覽過特定檔案後出現--不適感--##blue|失真感、錯幻覺、輕微焦慮以及噁心症狀##時意外發現的，現已排除被瀏覽檔案具有異常性質的可能。
+**觀測組：**MTF 風起-36-「露水電荷」 南-11組
 
-##blue|現已知項目具有認知危害性質，儘管人員在觀看項目尚能辨識出[http://scp-zh-tr.wikidot.com/scp-8900-ex 正確的顏色]，但所有觀看過項目的人員皆於結束一次睡眠周期後出現類似於亂視的錯覺，其表現為視野內高色度區塊廣泛出現較為柔亮的殘影，低色度區塊大致正常，這使得人員具有辨色障礙情形，值得注意的是此情形可藉由反覆眨眼短暫解除，原因仍待釐清。##
+**紀錄日期：**2022/12/2
 
-##blue|部分人員，如Dr. 　　　　　亦回報視野內出現的殘影涵蓋了所有的顏色，值得注意的是，此類人員亦具有以轉動身軀取代轉頭的反常行為，並聲稱在轉頭時眼角餘光會「看到有又高又大的蜘蛛監視著自己。」，並伴隨著輕微的焦慮及眼球震顫情形。##
+**紀錄簡述：**本篇記錄為非典型SCP-ZH-068效應，目前仍在研究成因。
 
-**附錄1：研究計畫無限期停止通告**
-> **收件者：**Dr. 　　　　　、
-> **主旨：**立即回覆
-> -----
-> 盡管無法確定其與項目的關聯性，但在審核SCP-ZH-068項目檔案、實驗日誌及有關人事異動紀錄時發現以下莫名的出入：
-> * SCP-ZH-068的研究團隊存在大量空白人事異動紀錄且無負責人員的事實，造成此種嚴重缺失的原因現正在著手進行調查。
-> * SCP-ZH-068的特殊收容措施並未指出項目本身的收容位置，造成此種嚴重缺失的原因現正在著手進行調查。
-> * SCP-ZH-068的實驗日誌存在大量欄位空白事實，現已將實驗日誌自項目檔案中移除。
-> * 曾參與過SCP-ZH-068研究計畫的站點，均在計畫開始前回報泛職位人員空缺情形，隨後未經許可無限期停止計畫。
-> * 曾參與過SCP-ZH-068研究計畫的站點，均在計畫初期發生人事資料庫資料遺失意外。
-> 基於上述幾點原因，無限期停止SCP-ZH-068的研究計畫，在調查結束前亦禁止安排有關人事。
+----
+> 
+> **撰寫者：**副駕駛座 葛霖潭
+> 
+> **撰寫內容：**這次依舊是那個亡靈又來找我，不過我這次並沒有要站起來的意思，我想說話但我知道這種狀態下說話是沒有意義的，於是我盯著還未轉身的老父，用我不曾用以看過他的眼神。雖然是幻覺，但他表現得有點慌張，或許由腦袋產生的幻覺也可以由腦袋解決，霎時那個長椅變成醫院的坐墊，這次眼前的老父不再站著，而是躺上病床，然後閉上眼睛。
+> 
+> 那個瞬間我似乎通達了什麼道理，我也說不清楚，但我的手上多了一包老父以前愛抽的黃長壽，還有他很寶貝的打火機。這可能在表達著我勝利了吧？心中的遺憾似乎是真的被填補了，是因為我嘗試了不同的方法去面對這份幻覺嗎？在我還在想這件事情的時候，一道雷就響了起來。
+> 
+> 雷響的當下我便從幻覺中抽離，另外兩人也是。
+> 
+----
+> 
+> **撰寫者：**後座 麥朝溪
+> 
+> **撰寫內容：**又是一樣的草原跟藍天，我已經跟這個景色打了好多次交道，但我這次並沒有要選擇醒來的意思，單純只是很不爽而已。我繼續躺著，那個男人的臉又靠了過來，我才發現其實也不是如此可憎，但我真的好恨他，恨到無法忘記他。
+> 
+> 幻覺中，對方摸了摸我的臉，腦袋裡的警報嗡嗡響，他總是這個樣子對我，讓我不知不覺掉進他的胸膛，可是我卻還有一點留戀。既然我選擇不逃避了，那也只好面對吧，我伸出雙手去觸摸他的臉龐，幻覺的逼真讓我覺得我回到了過去，但那一瞬間的景色卻瞬息萬變，我回到了那一夜。他離我而去的那夜。
+> 
+> 一樣的側身，我看見他帶著行李要離開，但他當初什麼都沒有帶走，只是人離開而已，在離開前我看見乾燥的房間內靠門的盆栽綠葉上，滴下了一滴水珠。最後他將亮著的夜燈關掉，接著將門帶起，應是無光的房間內卻突然有亮光穿越拉過的厚窗簾，然後我也和另外兩人同時醒了過來。
+> 
+----
+> 
+> **撰寫者：**駕駛座 江泊淵
+> 
+> **撰寫內容：**我看見的景色與之前也無異，但這次兩人並沒有在車上，我馬上就意識到自己著了068的道了。車裡只有我一個人，但不只有一個，我可以察覺到一雙眼睛對我虎視眈眈，無限的迴圈跟原地打轉再次上演。都上映了這麼多次，我也慢慢理解068在我眼中呈現的樣子為什麼是這樣，我發現在霧的彼端，最模糊的地方，還有一輛車子。那輛車子很眼熟，一下我就認了出來，是北-02組的車子，與我們有許多過節的小組。
+> 
+> 我把視線轉到三個後照鏡，裡面的我並不是我，而是另一個存在，我踩下油門，他似乎擋住了力道，馬力的輸出不如以往。太多次了，我們都被北-02組押過一頭，但並非是我們不努力，而是我們很努力，所以越來越絕望，老葛跟小麥最近幾年的狀態也沒有跟著創傷後恢復，但這個陰影已經籠罩我們太久了。我開始靠上路肩，用路肩的欄杆把左邊的後照鏡拆掉，右邊的後照鏡也是類似的手法，而車內的，我一手就將其拔下。
+> 
+> 但如果還要一決勝負，這始終是不夠的，我拿著手上的後照鏡往擋風玻璃上砸，碎裂的前方映照出千萬個我，其中的影像彷彿是在驚訝，我接著感到兩股力量相助，而在那個瞬間，我開到這輛車的理論值速限：「220公里每小時」。一舉追上了那輛模糊的車輛，接著他隨著霧飄散，而我也跟著兩人一起驚醒。
+> 
+> 然後我們見到濃霧消散，青鈍色的天空不再。
+> 
+----
 
-**附錄2：來自　　　的訊息**
+**備註：**南-11組在往後的SCP-ZH-068事件中不再受異常效應影響。
 
-##transparent|//各位，計畫已經失敗，那不自然且令人作嘔的陰影已然破壞了可見光譜，在視野之下我們已無路可逃。//##
-
-##transparent|//不應該承受這些的人們已然選擇了靜默，而　選擇了執行了最後一道的保護 -- 忽怠協定，你們已然失憶，但這將只會是一下子的事，未被影響的照片將成為歷史，被懷舊被忘卻，然而￾，還在對抗，對此只能將￾當成項目看待的　很痛心，各位，　感到深切的痛惜。//##
-
-##transparent|　　　.##
-
-##transparent|//為了控制，收容以及保護。//##
-====
---]
+[[/div]]
+@@ @@
+@@ @@
+@@ @@
+@@ @@
