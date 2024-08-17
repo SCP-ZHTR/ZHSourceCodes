@@ -172,3 +172,9 @@
 | next-url=/SCP-ZH-454 | next-title=早是「滋潤」
 | hub-url=/zhongyuan-2024 | hub-title=「早梅詩」
 ]]
+
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[SCP-ZH-424]]] | SCP-ZH-425 | [[[SCP-ZH-426]]] >>
+[[/=]]
+[[/div]]
