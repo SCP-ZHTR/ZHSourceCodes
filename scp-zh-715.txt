@@ -1,0 +1,135 @@
+[[include :scp-zh-tr:component:scp-meta-title-hiding]]
+
+[[include :scp-zh-tr:theme:basalt darkmode=a|hidetitle=a]]
+
+[[module css]]
+:root {
+ --logo: url(https://i.imgur.com/DZ6rUNZ.png);
+ --subtitle: "控制-控制-控制";
+}
+[[/module]]
+
+[[include info:start]]
+**標題：**梅是「門禁」
+**作者：**[[*user Abyssdream]]
+[[include info:end]]
+
+[[div style="background-color:rgba:(34, 35, 36,0.7); background-color:rgb(34, 35, 36);padding: 15px 15px 15px 15px;box-shadow: 0px 0px 8px 4px rgb(0 0 0 / 70%);width: auto;margin: auto;border: solid 2px #5D5D5D;"]]
+
+[[include :scp-zh-tr:component:customizable-acs
+|containment-class= Euclid
+|containment-image= http://scp-wiki.wikidot.com/local--files/component:anomaly-class-bar/euclid-icon.svg
+|containment-color= 255,211,0
+|inc-containment = --]]]
+
+[[include :scp-zh-tr:component:customizable-acs
+|clearance-three-image=https://i.imgur.com/4b6vOMI.jpg
+|inc-clearance-image= --]]]
+
+[[include :scp-zh-tr:component:anomaly-class-bar-source
+|item-number= ZH-715
+|clearance= 3
+|container-class= Euclid
+|secondary-class= none
+|disruption-class= vlam
+|risk-class= 謹慎
+]]
+[[/div]]
+
+@@ @@
+**特殊收容措施：**基金會需派遣人員監視SCP-ZH-715住戶之居住狀態，並安插表現優良之D級人員租借空房。若一般民眾住戶已全數搬離SCP-ZH-715，則需以掩蓋故事「危樓拆除」封鎖SCP-ZH-715。
+
+**描述：**SCP-ZH-715為一位於新北市██區之六層獨棟公寓。該公寓並不存在實際管理者，但一般民眾仍能透過租屋網站獲得SCP-ZH-715之資訊並租借。由於SCP-ZH-715之租賃合約[http://scp-zh-tr.wikidot.com/scp-4703 完全合法]，基金會無法採取任何手段強制撤離租約尚未結束之一般民眾。
+
+SCP-ZH-715之租借者（以下稱SCP-ZH-715-A）居住於SCP-ZH-715之期間，將經歷一系列異常現象，該異常現象將因SCP-ZH-715-A與原生家庭之互動模式而有所差異。異常現象的發生時段不具有規律性，但若SCP-ZH-715-A於晚間10點以後才回到SCP-ZH-715，則該周發生異常現象之頻率將顯著提升。
+@@ @@
+@@ @@
+**附錄：**SCP-ZH-715發生之異常現象列表
+
+
+> **對象：**SCP-ZH-715-A-6
+> 
+> **對象資料：**20歲男性，原生家庭設有門禁時間。
+> 
+> **發生異常：**若SCP-ZH-715-A-6未於夜間10點前回到租屋處，則直到隔天早上6點其都無法進入租屋處。
+
+> **對象：**SCP-ZH-715-A-13
+> 
+> **對象資料：**19歲男性，母親與其親生父親離婚後與他人再婚，具有2位年齡相差16歲之手足。
+> 
+> **發生異常：**SCP-ZH-715-A-13租屋處深夜出現來源不明之嬰兒啼哭聲。若SCP-ZH-715-A-13於夜間10點後才回到租屋處，則客廳物品將隨機散落於地面。
+
+> **對象：**SCP-ZH-715-A-21
+> 
+> **對象資料：**23歲女性，由於未通過畢業門檻而延畢。原生家庭時常有男性親屬出入。
+> 
+> **發生異常：**SCP-ZH-715-A-21臥室房門無法關閉，SCP-ZH-715-A-21每周皆會出現3-5次的睡眠癱瘓症現象，且無法改善。
+
+> **對象：**SCP-ZH-715-A-32
+> 
+> **對象資料：**20歲女性，父親有賭博習慣。
+> 
+> **發生異常：**SCP-ZH-715-A-32之私人物品與金錢將不定期消失。即使將通訊設備關機，SCP-ZH-715-A-32也會不定期接收陌生電話，電話內容為成年男性之粗重喘息聲。
+
+> **對象：**SCP-ZH-715-A-39
+> 
+> **對象資料：**17歲男性，跳級入學。
+> 
+> **發生異常：**SCP-ZH-715-A-39租屋處內一切由其友人贈送之物品都將損毀，且通訊設備無法保存家人與學校機構以外之電話號碼。若SCP-ZH-715-A-39於夜間10點後才返回租屋處，則其所有娛樂物品都將損毀。
+
+> **對象：**SCP-ZH-715-A-42
+> 
+> **對象資料：**19歲女性，曾有通報家暴之紀錄，但因未通過評估而沒有後續追蹤紀錄。
+> 
+> **發生異常：**SCP-ZH-715-A-42返回租屋處時身上將隨機出現瘀青與燙傷痕跡，此類創傷痕跡無法被SCP-ZH-715-A-42周遭親友觀測到。
+
+> **對象：**SCP-ZH-715-A-53
+> 
+> **對象資料：**20歲女性，無調查到任何特殊背景。
+> 
+> **發生異常：**SCP-ZH-715-A-53租屋處中具有數枚隱藏監視錄影器。
+> 
+> **補充：**後續調查結果顯示，這些隱藏監視錄影器與SCP-ZH-715之異常效應沒有關連。正在重新調查SCP-ZH-715-A-53真正遭遇的異常效應。
+@@ @@
+@@ @@
+@@ @@
+
+**補充資料：**SCP-ZH-715-A多為附近██大學之學生。曾有調查專員回報SCP-ZH-715-A原生家庭皆對其心理狀態造成不良影響，但由於直接證據與衡量標準不明確，因此不被收容小組納入考量。
+
+截至目前為止，SCP-ZH-715-A已有86%因無法承受壓力而自殺。由於SCP-ZH-715之合法性，基金會無法向SCP-ZH-715-A提供任何法律途徑支援與心理輔導資源。
+@@ @@
+@@ @@
+@@ @@
+SCP-ZH-715內仍有6名租約尚未到期之一般民眾。
+@@ @@
+@@ @@
+@@ @@
+[[include :scp-wiki:component:earthworm
+| first=false | last=false | hub=yes
+| previous-url=/SCP-ZH-454 | previous-title=早是「滋潤」
+| next-url=/SCP-ZH-737 | next-title=向是「XXXX」
+| hub-url=/zhongyuan-2024 | hub-title=「早梅詩」
+]]
+
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[SCP-ZH-714]]] | SCP-ZH-715 | [[[SCP-ZH-716]]]
+[[/div]]
+[[/=]]
+
+[[include :scp-zh-tr:component:license-box
+|author=AbyssDream]]
+
+=====
+
+> **檔案名稱：**DZ6rUNZ.png
+> **圖像作者：**[[*user AbyssDream]]
+> **圖像授權協議：**CC BY-SA 3.0
+> **圖源連結：**https://i.imgur.com/DZ6rUNZ.png
+
+> **檔案名稱：**4b6vOMI.jpg
+> **圖像作者：**[[*user AbyssDream]]
+> **圖像授權協議：**CC BY-SA 3.0
+> **圖源連結：**https://i.imgur.com/4b6vOMI.jpg
+=====
+[[include :scp-zh-tr:component:license-box-end]]

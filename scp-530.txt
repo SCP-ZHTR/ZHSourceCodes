@@ -1,0 +1,30 @@
+[[include component:scp-meta-title-hiding css-style=classic]]
+[[include info:start]]
+原文：[https://scp-wiki.wikidot.com/scp-530 SCP-530 - 多變的狗勾Carl]
+作者：[[*user far2]]
+譯者：[[*user z423x5c6]]
+[[include info:end]]
+
+**項目編號：**SCP-530
+
+**項目等級：**Safe
+
+**特殊收容措施：**目前還不需任何特殊手段進行收容。「[[span class="ruby"]]卡爾[[span class="rt"]]Carl[[/span]][[/span]]」十分平靜和友善，現階段被允許在設施的低層自由移動。由於SCP-530與項目[[[SCP-529]]]之間並沒有展現敵意，牠們被允許自由地交流。除每日兩次的餵食時段及訓練期間的獎勵以外，人員不得餵食SCP-530任何食物。
+
+**描述：**SCP-530為一隻體格時刻變化的小狗，一般肩高位於20cm到30.5cm之間，背寬位於7.5cm到18cm之間，身長位於25.5cm到45.5cm之間。也曾記錄過更大或者更小的尺寸，但此情況十分罕見，而且持續時間不長。
+
+SCP-530的皮毛亦時刻變化，到目前為止，已記錄過467種不同的色調，以及無法計量的花紋圖案。
+
+最極端的變化是牠會長出或吸收額外的肢體、眼耳口鼻或其他的身體部份。這些變化一般持續時間不超過24小時。唯一例外是SCP-530被發現約半小時後長出的第三隻眼，它一直保留在頭頂偏左的位置。
+
+**附錄530-203a：**特工██████ ████████████曾餵食「卡爾」一片標準份量的熟食火腿，這明顯違反了SCP-530的飲食規定，期後SCP-530產生異味，此異味有許多不同的描述，比如「可怕」及「令植物枯萎」。特工██████ ████████████已被訓斥。
+
+[[footnoteblock]]
+
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[SCP-529]]] | SCP-530 | [[[SCP-531]]] >>
+[[/=]]
+[[/div]]
+[[include :scp-zh-tr:component:license-box]]
+[[include :scp-zh-tr:component:license-box-end]]
