@@ -15,6 +15,18 @@
 [[/module]]
 [[/tab]]
 
+[[tab 時空->空間影響]]
+[[collapsible show="原創"]]
+[[module ListPages separate="yes" perPage="1000" tags="+時空 +原創" order="name" -category="_default"]]
+%%title_linked%% - %%created_by%% ##gray|%%tags%%##
+[[/module]]
+[[/collapsible]]
+[[collapsible show="翻譯"]]
+[[module ListPages separate="yes" perPage="1000" tags="+時空 +翻譯" order="name" -category="_default"]]
+%%title_linked%% - %%created_by%% ##gray|%%tags%%##
+[[/module]]
+[[/collapsible]]
+[[/tab]]
 
 [[tab 本質促動改為現實扭曲]]
 [[module ListPages separate="yes" perPage="1000" tags="+本質促動" order="name" -category="_default"]]
@@ -27,13 +39,6 @@ vvv現實扭曲vvv
 %%title_linked%% - %%created_by%% 
 [[/module]]
 [[/collapsible]]
-[[/tab]]
-
-[[tab 待用]]
-
-[[module ListPages separate="yes" perPage="1000" tags="+phenomenon +scp" order="name" -category="_default"]]
-%%title_linked%% - %%created_by%% ##gray|%%tags%%##
-[[/module]]
 [[/tab]]
 
 [[tab 表3的標題]]
