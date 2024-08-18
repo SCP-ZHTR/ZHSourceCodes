@@ -30,10 +30,13 @@
 1. 方舟相片 "黎明時分的夜之方舟" 由頁面作者 [[*user samscript]] 所攝影與後製，並應在 CC BY-SA 3.0 條款下分享與使用。
 The image "Ark of Night at the Dawn of the Day" is photographed and adapted by article author [[*user samscript]] and should be spread under CC BY-SA 3.0 License.
 
-2. 地景相片來自維基共享資源作者 [https://commons.wikimedia.org/wiki/User:A-l%C3%BA-mih A-lú-mih] 的花蓮縣地圖 [https://commons.wikimedia.org/w/index.php?curid=73205621 File:Kalinko - Hoalian - (Hualien County) location map]，與台東縣地圖 [https://commons.wikimedia.org/w/index.php?curid=68422158 File:Valangaw - Tâitang - (Taitung County) location map]，並由 [[*user samscript]] 後製，應以 CC BY-SA 4.0 條款分享。
+2. "掃吧石柱" 由頁面作者 [[*user samscript]] 所攝影與後製，並應在 CC BY-SA 3.0 條款下分享與使用。
+The image "Satokoay" is photographed and adapted by article author [[*user samscript]] and should be spread under CC BY-SA 3.0 License.
+
+3. 地景相片來自維基共享資源作者 [https://commons.wikimedia.org/wiki/User:A-l%C3%BA-mih A-lú-mih] 的花蓮縣地圖 [https://commons.wikimedia.org/w/index.php?curid=73205621 File:Kalinko - Hoalian - (Hualien County) location map]，與台東縣地圖 [https://commons.wikimedia.org/w/index.php?curid=68422158 File:Valangaw - Tâitang - (Taitung County) location map]，並由 [[*user samscript]] 後製，應以 CC BY-SA 4.0 條款分享。
 The image "Aomauqiae Forces 08.24" is adapted from WikiCommons user [https://commons.wikimedia.org/wiki/User:A-l%C3%BA-mih A-lú-mih]'s works: [https://commons.wikimedia.org/w/index.php?curid=73205621 File:Kalinko - Hoalian - (Hualien County) location map] and [https://commons.wikimedia.org/w/index.php?curid=68422158 File:Valangaw - Tâitang - (Taitung County) location map], adapted by [[*user samscript]], and should be spread under CC BY-SA 4.0 License.
 
-3. "池上大坡池直升機" 由頁面作者 [[*user samscript]] 所攝影與後製，並應在 CC BY-SA 3.0 條款下分享與使用。
+4. "池上大坡池直升機" 由頁面作者 [[*user samscript]] 所攝影與後製，並應在 CC BY-SA 3.0 條款下分享與使用。
 The image "Helicopter at Chihshang Dapochih Pool" is photographed and adapted by article author [[*user samscript]] and should be spread under CC BY-SA 3.0 License.
 
 [[include :scp-zh-tr:info:end]]
@@ -136,6 +139,12 @@ SCP-ZH-728 的結構共由七個「核心零件」組成，分別編號為 SCP-Z
 + 發現與回收
 ----
 [[/=]]
+
+[[include component:image-block
+  name=https://i.imgur.com/DRfecsF.jpeg|
+  caption=SCP-ZH-728-1，即掃吧石柱。|
+  width=300px
+]]
 
 SCP-ZH-728 的存在事實乃是由已故異常實體：SCP-ZH-698-A「玳米雅贊女神」在 8 月 19 日的[http://scp-zh-tr.wikidot.com/scp-zh-698#toc6 「綻裂事件」]中揭露。根據此事件中的情報，Site-ZH-44 在 8 月 20 日上午回收了極可能屬於「大石方舟零件」的瑞穗文化遺址：掃吧石柱，並運送至設施內部。翌日，研究團隊在地下測試場成功啟動掃吧石柱內部的人工智慧管理員：SCP-ZH-728-A「[[span class="ruby"]]娜高雅灣[[span class="rt"]]Nakayawan[[/span]][[/span]]」與 SCP-ZH-728-B「[[span class="ruby"]]史拉延[[span class="rt"]]Serayan[[/span]][[/span]]」。
 
