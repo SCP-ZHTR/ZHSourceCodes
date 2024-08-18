@@ -1,0 +1,79 @@
+[[include :scp-zh-tr:theme:black-highlighter-theme]]
+[[include :scp-wiki:theme:minimalist-bhl]]
+[[include :scp-zh-tr:component:toggle-sidebar-bhl]]
+[[include :scp-zh-tr:component:fade-in speed=4]]
+[[module css]]
+:root:lang(zh){
+     --header-title: "    ";
+     --header-subtitle: "    ";
+     --lgurl: url('https://upload.wikimedia.org/wikipedia/en/0/0a/Logo_of_the_SCP_Foundation.png');
+}
+
+@media only screen and (max-width: 26.5625rem) {
+    :root {
+   	 --header-title: "    ";
+    }
+}
+
+#page-title{display:none}
+
+.footnotes-footer{display:none;}
+[[/module]]
+
+[[include info:start]]
+**作者：** [[*user kikunai]]
+**篇名：** SCP-ZH-161 - Alex Thorley朝九晚五地工作
+
+感謝[[*user lostwhat]] [[*user tostren]] 
+EN的[[*user surelyyoujest]] [[*user fishish]] [[*user synthpanda_]]看稿
+
+[http://scp-zh-tr.wikidot.com/summer-contest-2024 2024年夏季競賽投稿：水元素]
+[[include info:end]]
+[!-- {{。}} 是為了修復句號由全形變半形的問題 --]
+
+**項目編號：** SCP-ZH-161 
+
+**項目等級：** Safe
+
+**特殊收容措施：** 當前應尋找並定位非現實部聯絡員Alex Thorley的位置{{。}}
+
+**描述：** SCP-ZH-161是一種影響非現實部聯絡辦公室的異常現象，當中大部分物品和房間佈設在五觀和概念上變得難以辨認和理解[[footnote]]被認為是長時間的緩慢抽離造成{{。}}[[/footnote]]，並且能夠辨認的數件物品在每個基金會工作天會自發活動，清單參見下文{{。}}
+
+||~ 時間段||~ 物品 ||~ 事件描述 ||
+|| 不規律；通常01:00-10:00 || 床 || 出現皺紋，時有變化；床架每3分鐘至2小時發出聲音 ||
+|| 09:30 || 白色馬克杯 || 出現10-15克瀝青顆粒碎，5分鐘後融成液體（約250毫升），並隨時間消失（平均3小時）||
+|| 10:00-14:00 || [[span style="white-space: nowrap"]]鍵盤[[footnote]]鍵盤上沒有文字[[/footnote]]和滑鼠[[/span]]/ _
+電腦螢幕 || 不斷按壓；滑鼠使用的頻率比鍵盤高/ _
+螢幕中內容多為基金會其他部門向非現實部送出的詢問電郵。全部被標為未讀{{。}} ||
+|| 13:00 || 白色馬克杯 || 出現水，並隨時間消失（平均12分鐘）||
+|| 14:00 || 冰箱 || 打開了3分鐘，沒有內容物 ||
+|| 14:15 || 微波爐 || 以解凍模式啟動3分鐘，大火啟動4分鐘，中火啟動3分鐘{{。}}除了帶「可食用」的形上性質以外，未能辨認飯盒內容{{。}} ||
+|| 15:00-18:00 || [[span style="white-space: nowrap"]]鍵盤和滑鼠[[/span]]/ _
+電腦螢幕 || 不斷按壓；滑鼠使用的頻率比鍵盤高/ _
+螢幕中內容多為基金會其他部門向非現實部送出的詢問電郵。全部被標為未讀{{。}}||
+|| 18:50 || 白色馬克杯 || 出現水，並隨時間消失（平均4分鐘）{{。}}杯子其後失去固態，緩緩從廚房水槽流向排水孔{{。}} ||
+|| 19:00 || 冰箱 || 打開了15分鐘，沒有內容物 ||
+|| 19:50 || 微波爐 || 以解凍模式啟動3分鐘，大火啟動4分鐘，中火啟動3分鐘{{。}}除了帶「可食用」的形上性質以外，未能辨認飯盒內容{{。}} ||
+|| 22:00-24:00 || 床 || 出現皺紋，枕頭偶爾出現水漬{{。}} ||
+
+在工作天以外的時間則未有動靜，除了：
+* 床：偶有皺紋{{。}}
+* 辦公椅：移到房間中央，面向牆壁{{。}}
+
+應注意未能在辦公室內尋獲Alex Thorley{{。}}
+@@ @@
+**歷史：** 
+SCP-ZH-161最早於2027年2月21日[[footnote]]Alex Thorley在其崗位滿五年[[/footnote]]在Site-19維安人員巡查站點時發現{{。}}當時辦公室門呈半掩狀態，使得人員能夠觀察到其主要異常效應{{。}}
+
+值得注意的是，Alex Thorley入職至今為止未有缺勤記錄{{。}}
+@@ @@
+**附錄：** 事件
+根據基金會之勞動政策，人事部於2029年5月向Alex Thorley發出強制休假一週的電郵通知並暫時移除其SCiPnet存取權，未有收到任何回覆{{。}}然而在上述指定日子期間，房間內容物受到二階抽離化，唯一可辨認之事物為一段近似卡式錄音帶播放的未辨別聲音：「我不知道」，重複持續了98小時22分鐘7秒。對該聲音的鑑識分析無結果{{。}}
+@@ @@
+@@ @@
+@@ @@
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[SCP-ZH-160]]] | SCP-ZH-161 | [[[SCP-ZH-162]]] >>
+[[/=]]
+[[/div]]
