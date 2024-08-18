@@ -214,6 +214,35 @@ John Doe
 //What is the inverse of a human being?//
 [[/div]]
 
+[[div class="blockquote"]]
+[[[magazine|Maga zine]]] – by [[*user Prismal]].
+
+//Open?//
+
+[[/div]]
+
+[[div class="blockquote"]]
+[[[drama|Alex Thorley in A Dramatic Irony]]] – by [[*user Cyvstvi]].
+
+//**ALEX THORLEY**//
+@@    @@//I’m just going through the motions. That’s all.//
+
+[[/div]]
+
+[[div class="blockquote"]]
+[[[alex-thorley-confuses-a-guy|Alex Thorley Confuses a Guy]]] – by [[*user Kothardarastrix]].
+
+//"I don’t not do anything."//
+
+[[/div]]
+
+[[div class="blockquote"]]
+[[[baroque-unreality|**BAROQUE**]]] – by [[*user Fishish]].
+
+//How this make u feel white boy//
+
+[[/div]]
+
 @@ @@
 
 @@ @@
@@ -291,6 +320,35 @@ John Doe
 //They all died, screaming. SCP-7488 wields a gun. The bullets are painted in kaleidoscopic hues.//
 [[/div]]
 
+[[div class="blockquote"]]
+[[[SCP-7413|SCP-7413 – 塊莖型連環殺手]]] – by [[*user FLOORBOARDS]].
+
+//美國██████州████████北部警察局接獲了數通電話，所有通話都在低沉、中性的聲音聲稱「殺手正在逃亡」後遭到掛斷。//
+[[/div]]
+
+[[div class="blockquote"]]
+[[[SCP-8993|SCP-8993 – embody]]] – by [[*user SynthPanda_]].
+
+//While the SCP-8993 CORE will regain what was lost, it will never regain its shape.//
+[[/div]]
+
+[[div class="blockquote"]]
+[[[SCP-8591|SCP-8591 ⁠— Alex Thorley未能僥倖逃脫]]] – by [[*user PlaguePJP]].
+
+**Thorley：** //（電話交談）// 牠又來了。
+[[/div]]
+
+[[div class="blockquote"]]
+[[[SCP-8195|SCP-8195 ⁠— Alex Thorley僥倖逃脫]]] – by [[*user Syuzhet]].
+
+**Thorley：** //（電話交談）// 嗯，不，沒關係。
+**Thorley：** 呃……雞肉？不用了，幫我買那個就行。
+**Thorley：** 嗯哼。
+**Thorley：** 不，真的   真的不用。我們待會再聊，好嗎？
+**Thorley：**
+**Thorley：** 愛你，掰。
+[[/div]]
+
 @@ @@
 
 @@ @@
@@ -361,6 +419,26 @@ John Doe
 
 [[/div]]
 
+[[div class="blockquote"]]
+
+[[[art:donald-trump-and-19-others-indicted-in-georgia-on-charge | Donald Trump and 19 Others Indicted in Georgia on Charges Related to the Illegal Attempt to Overturn the 2020 Election]]] by [[*user SynthPanda_]]
+
+[[=image https://i.imgur.com/QZLMvvQ.png]]
+
+[[/div]]
+
+[[div class="blockquote"]]
+
+[[[art:alex-thorley-pressed-the-escape-key |Alex Thorley pressed the escape key]]] by [[*user Kikunai]]
+
+[[image https://i.imgur.com/WfKbub4.png
+style="width:100%;" link=#]]
+
+[[/div]]
+
+[[/=]]
+@@ @@
+@@ @@
 [[=]]
 + 這是什麼？
 [[/=]]
