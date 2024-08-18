@@ -265,7 +265,7 @@ text-shadow: 0 0 0.75rem rgb(var(--swatch-primary-darkest),0.75);
 |author=管理員老師
 |art= https://i.imgur.com/yb8iZo9.png
 |url=http://scp-zh-tr.wikidot.com/scp-zh-715
-|title=梅是「XX」
+|title=梅是「門禁」
 ]]
 
 [[include :scp-sandbox2-zh:draft:5325850-1o-ly074dry
