@@ -22,7 +22,7 @@ color: #710309;
 
 
 [[include info:start]]
-
+使用的所有圖片皆由[[*user Tostren]]本人所繪製。
 [[include info:end]]
 
 + 歡迎來到吐司的烘焙坊
