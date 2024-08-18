@@ -103,7 +103,7 @@ John Doe
 
 [[div class="blockquote"]]
 [[[unreality-hub | SCP-001-NULL - Fishish的提案]]] – by [[*user Fishish]]。
-
+所以
 //我們會再度見面的。就如往常那樣。//
 [[/div]]
 
@@ -327,6 +327,12 @@ John Doe
 
 [[/div]]
 
+[[div class="blockquote"]]
+[[[SCP-ZH-161|SCP-ZH-161 - Alex Thorley朝九晚五地工作]]] - by [[*user kikunai]]
+
+//**特殊收容措施：**當前應尋找並定位非現實部聯絡員Alex Thorley的位置。//
+
+[[/div]]
 @@ @@
 
 @@ @@
