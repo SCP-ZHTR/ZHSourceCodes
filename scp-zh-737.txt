@@ -131,6 +131,15 @@ function decrypt() {
 
 [[footnoteblock]]
 
+@@ @@
+
+[[include :scp-wiki:component:earthworm
+| first=false | last=false | hub=yes
+| previous-url=/SCP-ZH-715 | previous-title=梅是「門禁」
+| next-url=/SCP-ZH-754 | next-title=暖是「XXXX」
+| hub-url=/zhongyuan-2024 | hub-title=「早梅詩」
+]]
+
 [[div class="footer-wikiwalk-nav"]]
 [[=]]
 « [[[SCP-ZH-736]]] | SCP-ZH-737 | [[[SCP-ZH-738]]] »
