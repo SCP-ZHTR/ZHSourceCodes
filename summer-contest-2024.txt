@@ -35,6 +35,7 @@
 競賽主視覺由[[*user Dr V Valentine]]繪製
 感謝小空提供題目
 山姆協助許多討論以及內容調整
+小吐司幫忙維護
 [[include info:end]]
 [!-- 那些該注意的或很棒的事▼ --]
 [[tabview]]
