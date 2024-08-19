@@ -1,0 +1,53 @@
+[[include component:scp-meta-title-hiding]]
+
+[[include info:start]]
+原作者：[[*user Aelanna]]
+譯者：[[*user surprising_mars]]
+原文：[[[https://scp-wiki.wikidot.com/scp-1266|SCP-1266 - Permian Ark]]]
+篇名：SCP-1266 – 二疊紀方舟
+[[include info:end]]
+
+**項目編號：**SCP-1266
+
+**項目等級：**Euclid
+
+**特殊收容措施：**鑒於無法移動SCP-1266，將其就地收容於直徑100公尺的密閉玻璃穹頂下，以與地球大氣層隔離。應按週檢查主穹頂的所有結構組件是否劣化或受腐蝕，並立即密封修補受損部分。所有進入SCP-1266收容穹頂的人員應穿戴全身獨立式有害物質防護衣。所有人員進出SCP-1266密閉收容區域時應完全消毒，使用過的裝備亦應消毒。
+
+所有從SCP-1266附近收集的動植物標本保存於站點主實驗室。
+
+**描述：**SCP-1266是一個經雕刻的卵形金屬物體，長約12公尺、寬約7公尺，位於中華人民共和國[刪減內容]前古生物學挖掘現場。因目前所有採樣表層金屬的嘗試皆失敗，在測定項目年代上獲取的成果有限，然而透過測定周圍地層年代並分析項目主要效應，間接推斷SCP-1266至少具2.52億年的歷史，恰於二疊紀—三疊紀滅絕事件前出現在地球上。
+
+古生物學家於[刪減內容]挖掘出SCP-1266。出土後不久，SCP-1266啟動並漂浮至空中，垂直指向它原先的位置，並完全抗拒任何移動其位置的嘗試。至今，SCP-1266展現下述性質：
+
+* SCP-1266持續加工周圍空氣，改變其化學及有機物平衡，結果據信為接近地球二疊紀末期常態。
+* SCP-1266產生並釋放多種已滅絕的陸生植物屬種子，特別是科達木屬（//Cordaites//）及舌羊齒屬（//Glossopteris//）。
+* SCP-1266產生並釋放活體陸生無脊椎動物，如已滅絕的[[span class="ruby"]]古網翅總目[[span class="rt"]]Palaeodictyopteroids[[/span]][[/span]]。
+* SCP-1266產生並釋放活體陸生脊椎動物，如已滅絕的[[span class="ruby"]]迷齒兩棲類[[span class="rt"]]labyrinthodont amphibians[[/span]][[/span]]、[[span class="ruby"]]蜥型類[[span class="rt"]]sauropsids[[/span]][[/span]]及[[span class="ruby"]]獸形類[[span class="rt"]]therapsids[[/span]][[/span]]，特別是大量草食性水龍（//Lystrosaurus//）。
+
+目前尚未知曉SCP-1266是以某種方式透過儲存的基因資料製造生物，抑或是將內部空間中的生物從某種形式的停滯裡釋放出來。於撰寫此檔案時，SCP-1266的收容穹頂內部已成為穩定、獨立且自給自足的二疊紀野生動植物生態系。
+
+至今，因基金會似乎無可行方法操縱或破壞SCP-1266，嘗試開啟、停止項目及採集樣本皆宣告失敗。超音波、光譜及[刪減內容]分析表明SCP-1266內部可能有不一致的地形。在SCP-1266附近進行的重力測量顯示項目可能重逾██, ████公噸。在周遭進行挖掘後，未發現其他與SCP-1266同級別的造物。目前正試圖解讀項目上的銘文。此刻仍未知曉SCP-1266是如何製造，或它為何啟動。
+
+**附錄1266-01：**觀察員筆記
+
+> 因會對項目及其科研價值造成過高風險，已否決使用軍用等級武器嘗試破壞SCP-1266表面的申請。在更了解SCP-1266功能且/或找出安全關閉項目的方法前，將持續否決此類申請。
+> 
+> █████████博士
+> 高階觀察員
+
+[[footnoteblock]]
+
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[SCP-1265]]] | SCP-1266 | [[[SCP-1267]]] >>
+[[/=]]
+[[/div]]
+
+
+[[include :scp-zh-tr:component:license-box
+|author= Aelanna
+|translator=surprising_mars
+|lang=EN]]
+=====
+=====
+[[include :scp-zh-tr:component:license-box-end]]
