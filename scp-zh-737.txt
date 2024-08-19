@@ -1,0 +1,138 @@
+[[include component:scp-meta-title-hiding]]
+[[include info:start]]
+標題： SCP-ZH-737
+作者：[[*user Hildegardis]]
+[[include info:end]]
+
+> [[=]]
+> [[size larger]] **重要公告** [[/size]]
+> 
+>  因應近期人力政策的調整變化，各部門申請調用收容團隊宜視情況縮減人數。
+> 
+> -- SCiP
+> [[/=]]
+
+**項目編號：** SCP-ZH-737
+
+**項目等級：** 
+{{[項目檔案正在創建中。]}}
+
+**特殊收容措施：** 
+針對事故的緊急控制小組已被成立，以針對求援信號營救高價值目標為主要任務，由多名收容專家組成的控制小組將進入項目的影響範圍並嘗試分析構成項目的異常。並從中研究出收容該項目的方式，
+
+
+**描述：** 
+SCP-ZH-737泛指2026年12月1日時，於Site-ZH-62發生的收容突破事故以及其後衍生的惡性影響的總稱，該綜合事故由複數相異的異常效應交叉產生，收容難度被評估為10級；已知該項目所直接與間接造成的基金會損失有：
+1. 203件因內部或外部因素導致的項目收容突破。
+2. 重大人員死傷事故。
+3. 全站點設施及平面下陷約42~59公尺。
+4. ██億美金的直接性資產價值損失。
+5. 地區性深井伺服器的淪陷。
+6. 承上則，經異常改動後還原的資訊不再可信。
+7. 涵蓋週邊數座有人島嶼的大範圍逆模因效應，此情況使當地人類社群在基金會抵達前已被消滅。
+8. 站點核武已被起爆並造成大規模土石坍方及海水倒灌。
+9. 尚有人數不明的基金會職員困於未被核武摧毀的獨立單元，其中包括一名甫上任的三垣指揮員。
+
+當前該項目尚在進行收容作業。
+
+[[collapsible show=" " hide="需5/737權限"]]
+營救目標為新任3E-02，基金會異常密碼學專家，原Site-ZH-61站點主任，於原站點接任時為該項目所困。
+歷任3E-02會持有名為「最高金鑰」的硬碟，因該員方上任時便遭遇收容突破事故，不及建立備用手段與代理人，營救該員是當前的最佳選項。
+
+該硬碟經異常加工後具有唯一性的特質，忽略該物件的回收將有可能導致分部所有已知的資訊加密手段喪失，並有可能導致[數據刪除]等事件，營救該員是當前的最佳選項。
+[[/collapsible]]
+
+[[>]]
+[[size 75%]]page revision: 26, 最後編輯於: 01 Dec 2026, 00:01[[/size]]
+[[/>]]
+
+[[collapsible show="出現錯誤的加密憑證，系統將於5秒後自動刪除。" hide="...SCP..."]]
+
+##7B7B7B|vqcl## ##9D9D9D|hwps## ##BEBEBE|ccq## ##D0D0D0|dfg##
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+[[div class="blockquote"]]
+
+［我們發現您正在查閱一組密文，以下是密文工具］
+
+[[html]]
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>SCiP密文加解密工具</h2>
+
+<label for="key">密鑰:</label><br>
+<input type="text" id="key" name="key" style="width: 80%;"><br>
+<label for="input">輸入:</label><br>
+<textarea id="input" name="input" rows="4" cols="50" style="width: 80%;"></textarea><br>
+<button onclick="encrypt()">加密</button>
+<button onclick="decrypt()">解密</button><br>
+<label for="output">輸出:</label><br>
+<textarea id="output" name="output" rows="4" cols="50" style="width: 80%;"></textarea>
+
+<script>
+function encrypt() {
+  var key = document.getElementById("key").value.toLowerCase();
+  var input = document.getElementById("input").value.toLowerCase();
+  var output = "";
+  for (var i = 0; i < input.length; i++) {
+    var charCode = input.charCodeAt(i);
+    if (charCode >= 97 && charCode <= 122) {
+      output += String.fromCharCode((charCode - 97 + key.charCodeAt(i % key.length) - 97) % 26 + 97);
+    } else {
+      output += input.charAt(i);
+    }
+  }
+  document.getElementById("output").value = output;
+}
+
+function decrypt() {
+  var key = document.getElementById("key").value.toLowerCase();
+  var input = document.getElementById("input").value.toLowerCase();
+  var output = "";
+  for (var i = 0; i < input.length; i++) {
+    var charCode = input.charCodeAt(i);
+    if (charCode >= 97 && charCode <= 122) {
+      output += String.fromCharCode((charCode - 97 - (key.charCodeAt(i % key.length) - 97) + 26) % 26 + 97);
+    } else {
+      output += input.charAt(i);
+    }
+  }
+  document.getElementById("output").value = output;
+}
+</script>
+
+</body>
+</html>
+
+[[/html]]
+
+（若系統已進行錯誤修正的倒數公告，則忽略此段訊息。）
+
+[[/div]]
+
+刪除完成。
+
+[[/collapsible]]
+
+[[footnoteblock]]
+
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+« [[[SCP-ZH-736]]] | SCP-ZH-737 | [[[SCP-ZH-738]]] »
+[[/=]]
+[[/div]]
