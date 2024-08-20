@@ -400,7 +400,7 @@
 * [[[SCP-4361]]] - Red is Her Favorite Color
 * [[[SCP-4362]]] - Achilles Defense Systems
 * [[[SCP-4363]]] - Wake Me Up, I'm Living a Nightmare
-* [[[SCP-4364]]] - Let Him Eat Cake
+* [[[SCP-4364]]] - 何不食肉糜
 * [[[SCP-4365]]] - Five-Story Upside-Down Hotel
 * [[[SCP-4366]]] - Invisi-Birds
 * [[[SCP-4367]]] - What Are The Odds?
@@ -970,7 +970,7 @@
 * [[[SCP-4907]]] - Poetry Gnomes
 * [[[SCP-4908]]] - Story of my Life
 * [[[SCP-4909]]] - Octopus' Garden
-* [[[SCP-4910]]] - "The Grinner"
+* [[[SCP-4910]]] - 齜笑魔
 * [[[SCP-4911]]] - 塚
 * [[[SCP-4912]]] - With Great Power
 * [[[SCP-4913]]] - 5-Star [REDACTED]
@@ -1035,7 +1035,7 @@
 * [[[SCP-4972]]] - 有什麼不對勁
 * [[[SCP-4973]]] - Dead Men Walking
 * [[[SCP-4974]]] - 鼠SCP
-* [[[SCP-4975]]] - Time's Up
+* [[[SCP-4975]]] - 時辰已到
 * [[[SCP-4976]]] - The Humanity of the Moment
 * [[[SCP-4977]]] - The lucidity of young William Kleiger
 * [[[SCP-4978]]] - BROOK TOWN BEAT DOWN
