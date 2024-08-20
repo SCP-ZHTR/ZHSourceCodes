@@ -797,6 +797,20 @@ Semibreve博士
 [[tab 徽章牆]]
 因為每次比賽都剛好開始忙起來，所以到今年才有了顆章。
 [[image https://i.imgur.com/VAxtyYf.png width="150px"]]
+
+[[module CountPages created_at="2024" tags="-原創 -作者頁 -說明" category="-deleted -fragment" created_by="Aegnus"]]
+[[size [[#expr 100+%%total%%]]%]][[*user Semibreve]][[/size]]
+
+[[include :fendsfox:component:rating-bar-main
+|sizeA = %%total%%%
+|sizeB = [[#expr max(0, 100-%%total%%)]]%
+|pureRate = 1
+|colorT1 = #DC9123
+|colorF1 = #11659A
+]]
+
+[[/module]]
+
 [[/tab]]
 [[/tabview]]
 [[tabview]]
