@@ -1,0 +1,2429 @@
+[[include component:scp-meta-title-hiding css-style=classic| showing-title=真桑友梨佳的提案]]
+[[include credit:start]]
+**原著：** [[*user KABOOM1103]]、[[*user Kajikimaguro]]、[[*user MC_shrimp]]
+**原著年：** 2024
+**譯者：** [[*user edward-knave]]
+**原題：** 真桑友梨佳の提言 - レシイバア・デシイバア
+**譯題：** 真桑友梨佳的提案 - Receiver Deceiver
+**原文：** http://scp-jp.wikidot.com/makuwayurika-s-proposal
+----
+該文本以[https://creativecommons.org/licenses/by-sa/4.0/deed.zh_TW CC BY-SA 4.0授權條款]提供。此外，對該文本進行著作、撰寫、翻譯、編輯者持有著作權的內容除非特別指明，皆屬[https://creativecommons.org/licenses/by-sa/3.0/deed.zh_TW CC BY-SA 3.0授權條款]，並可在同一條款下得到使用。
+
+上述「內容」指文章、圖像、聲音、音樂、動畫、軟體、代碼等其他資訊形式。
+[[size 0%]]http://scp-jp-sandbox3.wikidot.com/sharedpage:a404a436-1716476825702-categorya[[/size]]
+[[include credit:end]]
+
+[[include :scp-jp:component:custom-divider]]
+[[module CSS]]
+.blinkbar {color: red;font-size:125%; animation: blink 1.5s infinite; letter-spacing: -0.13em;}@keyframes blink{to{opacity: .0;}}@keyframes flicker {0% {opacity: 0.9890; }5% {opacity: 0.5842; }10% {opacity: 0.9865; }20% {opacity: 0.0412; }20% {opacity: 0.6255; }25% {opacity: 0.3157; }30% {opacity: 0.7328; }35% {opacity: 0.4654; }40% {opacity: 0.9128; }45% {opacity: 0.2449; }50% {opacity: 0.5485; }55% {opacity: 0.6438; }60% {opacity: 0.1180; }65% {opacity: 0.9085; }70% {opacity: 0.0266; }75% {opacity: 0.6795; }80% {opacity: 0.7812; }85% {opacity: 0.0117; }90% {opacity: 0.2239; }95% {opacity: 0.8897; }100% {opacity: 0.2260; }}@keyframes overlay-anim {0% {visibility: hidden; }10% {visibility: hidden; }11% {visibility: visible; }50% {visibility: hidden; }100% {visibility: hidden; }}
+.collapsible-block-folded a.collapsible-block-link {
+    animation: blink 0.8s ease-in-out infinite alternate;
+}
+@keyframes blink {
+    0% { color: transparent; }
+    50%, 100% { color: #b01; }
+}
+.email {float: center; border: solid 2px #000000; width: 88%; padding: 1px 15px; margin: 10px 10px 10px 10px; box-shadow: 0 1px 3px rgba(0,0,0,.5)}
+a.collapsible-block-link { font-weight: bold; }
+.tofrom {margin-left: 10px; margin-top: 5px; padding: 1px 15px; border-left: solid 3px maroon}
+[[/module]]
+
+[[div class="dc_divider_310415"]]
+@@@@
+[[/div]]
+##red|打招呼簡單地來就好。因為這事態沒有先例，無視格式也沒問題。##
+
+++++ ##red|黑皇后 Crimson Red在此。##
+++++ ##chocolate|Mon Amour，是黑皇后。##
+++++ ##blue|這裡是黑皇后 晴海。##
+++++ ##gray|真桑友梨佳，大概……也是黑皇后。##
+------
+++ --基線--紀錄
+##chocolate|沒有紅茶的集會也還是第一次，椅子還要是鐵管作的！有點令人興奮呢。####blue|各位，檔案現在已經分享好了。看看你們手上的終端吧。####red|謝了，晴海。那，為了讓剛剛來到的Mon Amour也知道，也就說明一下經過吧。那是3小時之前的事了。當時我為了準備製作目錄的定期集會，在圖書館裡跟晴海一同行動。####red|在走到第F92C書庫入口邊的時候，我就看見真桑倒在那裡。看來就非常衰弱、非常的糟呢？現在如各位所見，就正在恢復，健忘之類的症狀現在還沒消退。####chocolate|在圖書信裡其中一個黑皇后遇襲的話，的確是「稍為有點」緊急的事態呢。不過，就這樣子？####red|晴海剛剛分享了的檔案就是當時真桑拿著的。這事情為何會斷定是「重大的」緊急事態，看一遍就能懂了吧？####chocolate|……的確，這個真的是相當大的發現，就算說是事故也沒甚麼問題。全部都是「真桑友梨佳」跟超常組織有關的情報。看來是偶然間同名同姓的人名也一個都沒有。####blue|關於那些檔案，已經跟真桑問過詳情了，但是因為記憶模糊，得不到清晰的回答。####gray|對不起……####red|然後各位眼下所見的就是真桑所持的情報的分析。我們需要知道「真桑友梨佳」這個人，又或是概念在幾個時間線上有甚麼性質。####chocolate|如果是影響到了黑皇后這邊的東西，更是如此。那好吧，就讓我這資深的小姊妹來吧。####red|你只是閒得發慌而已吧。####chocolate|是是是……##
+
+##chocolate|真桑妹妹，雖然之前稍為問過，關於這些情報，有記起哪些東西嗎？####gray|很抱歉，我記不起來。####chocolate|在多個時間線重疊之下，情報的出處又各自不同，尤其是基金會的機密文件，又的確不是那麼簡單就問不出甚麼來。####blue|所以當時就不是被襲擊囉？####chocolate|就這一點是確定的，我想說的是這些情報看來是冒著甚大的風險拿來的，但是現在看來相安無事。####blue|入侵性的模因也已經除去了，認知危害型異常的掃瞄也剛剛完成了，我想應該沒事吧，大概。####chocolate|「大概」嗎……####red|如果害怕的話，現在退下來也可以喔####chocolate|蛤？有這麼大的料子，絕對不可能退下來吧。直到剩下三分之二的試毒員都消滅為止都得參加下去。##
+
+@@@@
+@@@@
+[[div class="dc_divider_226338"]]
+@@@@
+[[/div]]
+
+[[=]]
+------
+
+[[<]]
+[[div class="email"]]
+[[div class="tofrom"]]
+**致：** Sk⁇m55Mj@?mAAA6304
+**自：** 佐井賀 健
+**主旨：** 就世界[13.9]事宜之緊急聯絡
+[[/div]]
+------
+關於[13.9]被破壞的事已經有所進展，所以前來聯絡先生。
+
+我們跟被世界[13.9]破壞針對的真桑友梨佳小姐之間的定期聯絡斷掉了，所以就去作了追蹤調查。從之前開始列入課題的[13.9]內部現實常數減少，再加上它的減少對相位接近的宇宙所造成毀滅性的影響，在追蹤調查的昤候，這些課題全都清除了。現在，世界[13.9]非常穩定。
+
+至於真桑友梨佳小姐，已經確認在[13.9]裡自殺了。動機不明，連使用遺物938的痕跡都不存在。他的遺品裡有交給先生的檔案，經過靈子加密，亦將在此夾附。
+
+[# 附件：推定遺物　關於真桑友梨佳.sgtxt]
+[[/div]]
+
+@@ @@
+[[div class="email"]]
+[[div class="tofrom"]]
+**致：** KKODiuwo/912Aaae
+**自：** 犀賀六巳
+**主旨：** Re:就世界[13.9]事宜之緊急聯絡
+[[/div]]
+------
+感謝佐井賀君來函聯絡。真桑君的死確實可惜，但是為劃定這資料的復原方法帶來了非常有益的幫助。
+
+若有更進一步的分析，會再向您詢問意見。畢竟資料龐大如斯。
+[[/div]]
+[[/<]]
+
+[[/=]]
+
+
+
+[[div class="dc_divider_310415"]]
+@@@@
+[[/div]]
+++ 紀錄：時間線  D-038
+##red|首先是這個。####chocolate|WWS？在D-038時間線上被基金會當槍使的那個是吧？####red|總比被擊潰來得更好吧。####blue|照兩邊的說法看來是合作關係。##
+[[div_ class="warning-box green"]]
+[[div_ class="heading"]]
+@@@@
+= **小動物檔案：Makuwa Yurika！【存檔】**
+@@@@
+[[/div]]
+[[div class="inner"]]
+[[>]]
+[[size 125%]]**概述！**[[/size]]
+[[/>]]
+----
+[[f<image https://scp-jp-storage.wdfiles.com/local--files/file%3A7737619-125-1fdm/makuwaaraisan.jpg width="300px" style="border:1px solid #665731;" title="[已刪除附文]"]]
+**名稱：** Makuwa Yurika（寫成漢字的話就是真桑友梨佳！很酷呢。）
+
+**物種：** //Procyon lotor//（浣熊），只不過本人（？）說是人類（//Homo sapiens//）耶！
+
+**首席照護員：** Leitnin Abrams，陸生小組
+
+**飲食：** 總之就是浣熊和人類兩邊都能吃的就餵給他吧。巧克力、葡萄、香蔥，要小心鹽分過多！
+
+**安置區：** 威爾遜野生動物中心，19號圍場
+[[>]]
+[[size 125%]]**生物特徵！**[[/size]]
+[[/>]]
+----
+「Makuwa Yurika」（加人類稱謂沒問題嗎？）是在隔壁的愛達荷州出生的浣熊。是一隻頗為深曉世事的浣熊，還有美國的公民權。他用到同類罕見的社交技巧說服了公所……之類的話雖然是假的，但是拿到公民權這件事可是真的！結果在神不知鬼不覺之下，霍姆代爾的居民證伺服器、加州銀行的帳戶資料、[[span class="ruby"]]阿美蘭高中[[span class="rt"]]アルメンランド高校[[/span]][[/span]]的畢業生列表都好像出現了他的資料呢！只是因為監護人被激怒了，所以居民證就沒有填到。
+
+把飼育他的工作交給我們的各位監護人說，Makuwa Yurika除了只是一隻頭腦比較好的浣熊之外就沒有其他特別之處。所以，我最初都用了跟一般的浣熊一模一樣的方法去飼育他，不過這樣對女士不會有點失禮了嗎？紳士如Leitnin，就跟Tim一起合作建造了適合他生活的環境了。
+[[>]]
+[[size 125%]]**歷史！**[[/size]]
+[[/>]]
+----
+Makuwa Yurika來到這裡的時候大概是3個月之前。在某一天，他突然走進監護人的地方，就是這樣子被發現的，但是無論怎樣調查，除了上文所寫的東西之外就甚麼都不清楚了。他被交到來這裡之後，我們也稍為觀察了一遍，的確沒有得到特別著墨的地方。嘛，至少那一邊也覺得開心嘛！
+
+雖然這樣說有點害羞，我從來都沒養過浣熊，也只是在摸索著。Makuwa Yurika當時經常都在持續叫著，可能是不知為甚麼身體有點不適之類而有點焦急，最後知道了只是求偶活動的時候就鬆一口氣了。
+
+浣熊看來是一種相當手巧的動物。在1個月前，他就用了樹枝，排出「MAKUWA」這段字給我看。就算只是模仿著籠上標籤寫著的文字，也蠻精巧呢。那時就拍了一幀照片，裝飾在籠前，也過來看看吧！
+[[>]]
+[[size 125%]]**特殊需求和居所！**[[/size]]
+[[/>]]
+----
+Makuwa Yurika就算在浣熊當中來說也非常害羞，性格看來也很深沉，所以和他接觸的時候請保持鄭重其事。雖然食性屬於雜食，但是遞肉類和魚的時候記得要先用火煮熟才行。睡床要儘可能清潔！每兩天清洗一次吧。如果可以的話，也鋪上布毯吧。雖然這樣好像麻煩了點，但是如果能夠做到這樣，你也可以成為一個淑女的佳伴！
+
+雖然他有時會持續地叫著，這是浣熊獨有的求偶洞動，所以不需要太過在意。因為他看來不太擅長運動，所以也請間中給他帶出籠外，在圍場散一下步吧。他看來不擅長應付壓力，所以偶然會用頭撞籠，那樣的話，在他冷靜之前就先離開籠外迴避一下吧。
+[[>]]
+[[size 125%]]**與 Makuwa Yurika 的離別**[[/size]]
+[[/>]]
+----
+Makuwa Yurika來到這裡的時候已經23歲了（跟野生的個體相比足足有10倍！），是普通浣熊遠遠不能相比的高齡，所以本來已經想著大概不會活太久了。其實，在他來到這裡時的輕快過了1個月之後就冷靜下來，過了5個月之後就開始不吃東西了。
+
+過了6個月之後就完全不吃東西了，整天都睡在床上不動。死因雖然嚴謹來說是餓死，但是也大概是衰老的跡象。雖然很傷心，這對浣熊來說絕對是嵩壽，我們專人為他作了死亡證，幾個同事一起帶著笑容開了追思會。
+
+遺體最後似乎是送到監護人那邊安葬了。如果來生可以轉生為人，那有多好。
+[[/div]]
+[[/div]]
+
+##red|……這是偶然發生的嗎？####chocolate|偶爾會像真桑那樣跟異常社會打交道，也偶爾是同名同姓、連漢字寫下來也一樣，這樣的巧合發生的機率也的確是天文數字呢。而且，時間線本身就是天文學的事情。####red|然後身為黑皇后的真桑友梨佳在D-038裡眾多的異常存在當中找到了牠，這件事可是天文數字的小機率打個平方呢。####chocolate|這還只是第一個，我們繼續吧。##
+----
+
+++ 紀錄：時間線 E-923
+
+##red|這個是「Are We Cool Yet?」的企劃書。####chocolate|那個[[span class="ruby"]]異常藝術家[[span class="rt"]]Anartist[[/span]][[/span]]組織嗎。在我的時間線上作了一大堆沒用的東西，已經不需要在意的團體。我也不太懂那些前衛藝術。####blue|這樣嗎……？我睡覺都是用AWCY牌的枕頭來幫我安眠的。####red|會作惡夢吧。##
+
+[[div class="blockquote"]]
+[[=]]
+++ **__項目企劃書3523-188__**
+[[/=]]
+**姓名：** 納爾可夫．阿克松（Nalkoff Arksonne）
+
+**標題：** [[span class="ruby"]]微觀的情感[[span class="rt"]]微視的な感情[[/span]][[/span]]，抑或[[span class="ruby"]]感情的脈衝響應[[span class="rt"]]パトスのインパルス応答[[/span]][[/span]]
+
+**所需材料：**
+* 情感豐富的人類1名
+* 藏元式靈語轉換器1台（已改造）
+* 靈子FFT分析儀1台
+* 用以動搖情感之物（電影、花、有血緣關係的親人照片等）
+
+**摘要：** 透過在我改造之下解析率大增的藏元式靈語轉換器，從人類的情緒反應產生的[[span class="ruby"]]靈顯螢光[[span class="rt"]]Ectoluminescence[[/span]][[/span]]的時間波形可以用靈子FFT分析儀進行頻率分析。要用不熟悉靈子理論的傢伙也能懂的用語來說明，就是將以奈秒單位變動的情感視覺化，將感情的成分好像蔬菜汁那樣仔細分析，這就是《微觀的情感，抑或感情的脈衝響應》。
+
+從接上了轉換器的人類引起各種情感，並觀察其舉動。從看見花朵的安穩、看見戰爭片的亢奮、看見父母照片的思念……甚麼都好，在展覽期間會有很多。在展覽的最後一段時間會進行殺害，去顯現至今任誰都沒辦法表達其真義的「死」的情感。用電椅可能會有雜訊，所以會用毒藥。
+
+為了方便展示，被展出的人類會需要被拘束。由此而生的恐懼情感會被事先補正，所以不會有問題。
+
+**意圖：** 有主張指出人類是各種生物當中，感情以及其情緒反應表達方式最為豐富的物種。儘管如此，當中的機理，人類至今到底查明了多少？無論是神經科學還是分子生物學，在超常社會和一般社會都沒有太明顯的進程差距。就算知道了感覺透過神經傳遞，知道了神經的路徑可以生成記憶，知道了從感覺轉成情感、記憶轉成判斷的反饋，那些都只是瑣事一堆。在人腦上插上再多的感應器，測量電訊號和突觸的強度，我們都還是沒能把裡面的記憶轉寫成為文字。
+
+不過在去年，在針對感情的另一個走向，超常社會出現了一個突破。即使是在閒暇的時候，只要有駭進去基金會的局域網路看看的傢伙多少也會有點頭緒吧。藏元式靈語轉換器。雖說是轉換器，但是它處理的不是電流，也不是AC/DC。從靈質實體顯現出來的靈子接受電流刺激的時候發出靈顯螢光，經過測量——雖然還沒清楚那是靈子的固有振動還是還有從靈素鍵合表現出來的東西——就能奇妙地先於人類對幽靈的情感進行時間分析。
+
+接下來，這裡開始就是噁心的東西了。就算是在生的人類，也還有微量的靈子，只要經過的增強和雜訊處理，就能跟靈語轉換器連上了。神經科學家也不再需要用細微的參數去套用在感情這樣子的複雜系統了！（我不是在說那本身會變得沒有意義。）
+
+
+由此，我們就要進入可以對感覺進行積分、對記憶進行微分，對感情進行剪貼的時代了。現在人類就算感受得到昂揚的情感，卻不了解它的斜率，對情感移轉的加速度和臨界點都不清楚，戰慄恐懼的頻率也不明白。
+
+可以期望，這將會成為預示被感情播弄的時代結束的先聲。
+
+**加註：** 已經找到了適合展出的人類。是居於日本、名為「真桑友梨佳(Makuwa Yurika)」的女性。情感豐富、好奇心旺盛，而且因為沒有家人，所以也難以被人追查。相當值得期待。
+
+[[/div]]
+
+##red|狂人得到了技術，都還是狂人。都沒有用在正途上面。####blue|在這時間線上的也頗有惡趣味呢……對AWCY的印象有一點改變了。####chocolate|那個也一樣是「真桑友梨佳」耶。##
+
+
+
+
+[[div class="email"]]
+[[div class="tofrom"]]
+**致：** nalkoff.arksonne.1398sq
+**自：** "Curater"
+**主旨：** 關於《微觀的情感，抑或感情的脈衝響應》
+[[/div]]
+------
+親愛的納爾可夫．阿克松：
+日前的展覽落得以如此結果告終，此處深表體察。
+
+因為在展覽途中發生的基金會襲擊事件肇因調查出現進展，故特來函聯絡。從會場遺址剩餘的微小靈子反應，測得了與基金會的GPS裝置一致的系統靈障。我們策展人先前對會場進行的調查未能得出上述發現，因此得出了納爾可夫先生遷入的藏元式靈語轉換器甚有可能被植入了GPS的結論。
+
+其次，原定為納爾可夫先生加入贊助者集團的事宜已經清空。在襲擊期間被奪去的靈語轉換器一台、FFT分析儀一台、人類一名並未納入保險。即使僅屬過失，本來對引起如此事態的納爾可夫先生課予的合適罰則在守則上已經明定。儘管如此，因為是次展品《微觀的情感，抑或感情的脈衝響應》得到多數贊助者好評，在此不作追究。關於此事，建議避免試圖直接向贊助者進行直接通訊等行為。
+
+我並非「評論家」，縱以如豆目光，亦能深深感受到在展覽高潮期間的行程急變而改為披露的「自害的情感」所帶來緊扣心弦之處。
+
+若果再有機會，期待今後能夠再會閣下所創，能與今回匹敵的傑作。
+
+[[/div]]
+
+##chocolate|這裡的真桑友梨佳好像也被基金會抓走了。####blue|不過這次的真桑友梨佳應該都沒有異常特性吧。####chocolate|沒，因為這樣，基金會對跟「真桑友梨佳」扯上關係的某樣東西絕對有甚麼盤算。####red|似乎是等到展覽結束才行動的樣子呢。是為了使真桑友梨佳自戕才發動襲擊？如果我沒記錯，這條時間線的基金會應該是會把人命救助也納入考慮才對的。####gray|會不會只是為了等待時機……？####chocolate|不清楚呢。再看下一份吧。##
+
+
+[[div class="dc_divider_226338"]]
+@@@@
+[[/div]]
+
+++ 角度[45.9]
+
+[[<]]
+[[div class="email"]]
+[[div class="tofrom"]]
+**致：** KKODiuwo/912Aaae
+**自：** 犀賀六巳
+**主旨：** 關於[77.0]日本生類創研目錄
+[[/div]]
+------
+老實說，AWCY的情報就只不過是「普通的」真桑友梨佳。還在想著如果像是他們那樣連處理遺物也一樣擅長的話，說不定會留下甚麼提示……。不過反過來想，在每一個角度的真桑友梨佳都各自完全獨立存在，這樣也不是沒可能。
+
+接下來想讓佐井賀君看的是這份目錄。如果他們也是其中一門的研究者，您說不定可以從中注意到些甚麼。
+[[/div]]
+[[/<]]
+
+
+[[div_ class="warning-box lightblue"]]
+[[div_ class="heading"]]
+ま-Q-1802"公主殿下蜂"銷售目錄
+[[/div]]
+[[div class="inner"]]
+
+
+[[=]]
+[[size 200%]]##red|**目前該商品暫時停止販售。**##[[/size]]
+
+##red|**我們對造成的任何不便深表歉意。##**
+[[/=]]
+@@ @@
+@@ @@
+------
+[[size 160%]]##F49E4C|**美少女偶像「真桑友梨佳」蒞臨貴舍！**##[[/size]]
+[[>]]
+[[div]]
+[[image http://scp-jp-storage.wikidot.com/local--files/file:3691434-21-6mkm/IMG_6937.jpeg width="300px"]]
+[[/div]]
+[[/>]]
+
+------
+
++++ 公主殿下蜂
+[[div class="blueT defaultT"]]
+||~ 品項||~ 型號||~ 個體數||~ 價格||
+||ま-Q-1802 ||Dw-1 || 1隻 || **¥ 183,000**||
+||ま-Q-1802 ||Dw-2 || 1隻 || **¥ 356,000**||
+[[/div]]
+
+++ 特點
+[[div class="defaultlist list4"]]
+* 把真桑友梨佳以生前的姿態完整送到。
+* 隨附固定用藥劑。可以隨意設置姿勢以作裝飾。
+* 為了希望因應服飾替換以作收藏的客人，也準備了產卵頻度及數量皆大幅上升的型號。
+[[/div]]
+++ 規格
+[[div class="defaultlist list5"]]
+* 屬於雜食性，同時抗饑餓、抗脫水。壽命為約10年。
+* 每星期一次，以市面售賣的昆蟲凝膠提供蛋白質和水分，即可有效產卵。
+* Dw-2產卵頻度設定為Dw-1的大約5倍。
+* 宿主為哺乳類全體，但對另外售賣的公主殿下蜂產卵床人偶（¥ 30,000）也可以進行產卵。
+* 為了更能長期享受真桑友梨佳，從成蛹到羽化為止的休眠期設定為10年。
+[[/div]]
+
+**説明書： ま-Q-1802 "公主殿下蜂"**是以瘤姬蜂亞科的其中一種//Dolichomitus imperator//為基礎，在2013年由本研究所研發而成的基因改良型昆蟲。
+
+從以前開始就收到大量客人要求，令人惋惜地結束自己生命的人氣偶像「真桑友梨佳」的肉體得以再現。ま-Q-1802參考寄生蜂進行寄生的過程，解決持續保存肉體的問題，終於成功再現。
+
+ま-Q-1802在產卵時，會連同卵子同時向宿主注入高度耐久賦予型強力靜脈內非類阿片麻醉藥，對宿主賦予真桑友梨佳的概念，同時防止宿主的死亡及身體劣化。另外，透過向關節部位投入隨附的固定用藥劑，可以擺出喜愛的姿勢，在此狀態下為真正的真桑友梨佳給予修飾。
+
+[[div class="warning"]]
++ [[span class="fa fa-exclamation-triangle fa-lg"]]@<&nbsp;>@[[/span]]注意
+本商品是以姬蜂為基礎，所以寄生對象為哺乳動物，會有飛行逃走的風險以及被刺擊的時候因為注入麻醉劑而無法行動的危險。因此保養請務必在密室內並以穿著防護服的狀態進行。
+[[/div]]
+
+++ 研究者評論
+
+人氣偶像「真桑友梨佳」自殺的消息不脛而走，震撼了整個電視與網路世界。雖然死者復活與重現是在世俗普遍的禁忌，但是已故者的肉體一片不留的情況之下隨著鈣質碎塊消散的事情令人惋惜之聲依然此起彼落。本商品的研發有賴各位[[[http://scp-jp.wikidot.com/pamwac-hub|PAMWAC]]]研究員在取得「真桑友梨佳」肉體樣本以及人物概念的過程知識給予賜教，他們的協助在此委實不可或缺。當本商品的開發技術得以普及，今後除了「真桑友梨佳」之外，還有其他的名人，以及每一人各自重要的人物也可以再現，同時，對重要之人逝去的眾人救濟心靈的可能性亦將會是劃時代的。
+
+[[>]]
+--　　-- 昆蟲部門膜翅目生物研究員　石和 圭介
+[[/>]]
+
+**使用者回饋：**
+* 得知友梨佳的訃報時，整個世界感覺都變成黑白了。但是因為這個商品，在握手會近距離看見的那位友梨佳就來到了自己家裡，這種充實感令我再次充滿希望了！——43歲男性 派遣員工
+* 我買了產卵數量比較多的那個型號。我設計的衣服穿在友梨佳身上，這種本來沒可能成真的夢想終於可以體驗了，服裝設計的創作欲望每日源源不絕。真的非常感謝。——27歲女性 設計師
+* 毎天閒閒沒事的胖妻子變成了美麗的樣子。——32歲男性 上班族
+
+----
+[[div style="display: inline-block ; border : solid 1px #444444 ; background :#FFF2F2 ; margin-left : auto ; margin-right : auto ; width : auto ; padding:10px"]]
+[[=]]
+[[size 150%]]##red|**公告**##[[/size]]
+[[/=]]
+----
+目前，該商品所賦予的「真桑友梨佳」概念因為被改成「已自殺的真桑友梨佳」，而隨之發生「宿主即使已經因為麻醉而進入假死狀態，亦會因自殺而死」的悖論，以及宿主周圍亦被賦予「自殺」的概念等錯誤，現已停止販賣。各位購入本商品的客人以及宿主身邊的生物若確認出現求死意念、手腕裂傷、頸部瘀血、意識混濁等症狀，請從速與宿主保持距離，並與本研究所聯絡。
+
+[[/div]]
+[[/div]]
+[[/div]]
+
+
+----
+++ 角度[11.2]
+
+[[module css]]
+.box-1 {
+    border: solid 2px #bebebe;
+    background-color: #282828;
+    margin: 1em 0;
+    padding: 0 1em;
+    font-family: "游明朝", serif;
+    color: #bebebe;
+}
+
+.box-1 a{
+   color:#c6bcfc;
+   font-family: "游明朝", serif;
+}
+
+.box-1 h1 {
+   color:#c6bcfc;
+   font-family: "游明朝", serif;
+}
+
+.box-1 blockquote {
+    border: 1px dashed #c5bcfb;
+    background: #414243;
+}
+[[/module]]
+[[module css]]
+.fake_title1 {
+  font-size: 200%;
+  color: #c5bcfb;
+  padding: 0 0 0.25em;
+  margin: 0 0 0.6em;
+  border-bottom: 1px solid #bbb;
+  font-weight: normal;
+}
+
+.fake_title1 p {
+  padding: 0;
+  margin: 0;
+}
+
+/* 列舉經過變更的註腳編號+15的數字 */
+.hovertip:nth-child(16),
+.hovertip:nth-child(17),
+.hovertip:nth-child(18),
+.hovertip:nth-child(19),
+.hovertip:nth-child(20),
+.hovertip:nth-child(21),
+.hovertip:nth-child(22),
+.hovertip:nth-child(23),
+.hovertip:nth-child(24),
+.hovertip:nth-child(25),
+.hovertip:nth-child(26),
+.hovertip:nth-child(27),
+.hovertip:nth-child(28),
+.hovertip:nth-child(29),
+.hovertip:nth-child(30) {
+    width: 20em;
+    padding: 0.5em;
+    border: 1px solid transparent !important;
+    border-radius: 0.5em;
+    background-color: #000000ee !important;
+    box-shadow: 0 0 6px 1px #000000aa;
+    z-index: 100;
+    color: #b3b3b3;
+
+    .f-heading {
+        color: #cccccc;
+    }
+}
+[[/module]]
+
+[[div class="box-1"]]
+[[div class="fake_title1"]]
+@@@@
+[[span style="font-family:明朝体"]]闇壽司檔案No.821"愛的握壽司"[[/span]]
+[[/div]]
+[[size 120%]]**概論**[[/size]]
+在這個壽司，我所用的是珍愛的她以壽司的形態永遠保存在這個姿態的究極壽司。我推薦將對自身而言投入最徹底之愛的綺麗而美妙之人作成壽司，若要說為甚麼，是因為歲月凶殘地把我們重要的人們無情地摧殘。
+
+啊啊，差點忘了，能夠作成壽司的絕對不僅限於人類（//Homo sapiens//）。各種最愛的寵物之類也能夠作成壽司，我所愛而成為了我的壽司的她身為人類，就以這為基準去談吧。
+
+[[size 120%]]**壽司陀螺運用說明**[[/size]]
+
+[[include :fes-ryuukatetu:include-list:radar-chart-6
+|no=1
+|size=250px
+|stage=5
+|color=#282828
+|max=10
+|data1=10
+|data2=1
+|data3=3
+|data4=2
+|data5=10
+|data6=2
+|label1=攻擊力
+|label2=防禦力
+|label3=機動力
+|label4=持久力
+|label5=重量
+|label6=操作性
+]]
+
+話先說在前頭，我所用的親愛的她本來是人類[[footnote]] 不過她的美絕對不會令你覺得他只是人類！[[/footnote]]。所以，重量大是理所當然，耐久性也相當優秀[[footnote]] 我絕對不會讓女朋友的身體被骯髒的人沾上手汗，所以這優點也不算有好好善用。[[/footnote]]。但至少，她絕對不會輸給普通的壽司陀螺。不過呢，如我先前所說，除了身為人類之外，本來的重量很大，對新手會有點嚴苛，但是到了中堅水平的話，用作壽司就應該很輕易吧。
+
+即使就這樣用也當然很強，但是人類是手腳很靈巧的生物，四肢可以作出複雜的動作，把人類原有的靈巧也可以轉換成為攻擊手段[[footnote]] 在操作的時候也是這樣的感受……與她同為一體，感覺就好像可以超越一切。[[/footnote]]。無論如何，這個會需要相當的技巧，對中堅來說也是困難的，最初的話就這樣普通地直接使用就好。
+
+……雖然不說也罷，但是在落敗的時候，壽司陀螺手會吃了自己的搭檔。這個慣例[[footnote]] 他們怎會把掉落地面的東西吃進去啊？[[/footnote]]在闇壽司那邊因為有--不會-- 不能吃的情況，這壽司吃不吃就交給各位自行判斷。但是我如果真的有愛，就應該當作壽司吃掉。猶如永不分離一般。如果沒有嚐過，所愛之人真正地完全消失可只會是悲劇啊……
+
+[[size 120%]]**加註**[[/size]]
+在現代，因為對方的家人、法律、火葬等理由而難以取得遺體，如果是被愛著的人則更是如此。但是如果要愛到想作為壽司，那種程度的苦難應該也可以輕易突破的吧？在愛的面前，誰都絕對沒辦法阻止[[footnote]] 有朝一日，即使是生死之分，也可以用壽司的力量突破。必定如此。[[/footnote]]。
+
+[[size 120%]]**插曲**[[/size]]
+那，就開始說開始遇上這個闇壽司的事情吧，我在2003年11月21日的███車站裡對她一見鍾情。當時失去定職的我就為了引起她的注意，就從後跟隨，打算去保護她。然後，就決定了要一直一直在一起。在她身邊實在太多污穢的男人了[[footnote]] 和她擦肩而過的學生，碰過她的手的便利店員，在她身邊走過的上班族，給她作晚飯的父親……總有一天，一定要讓那個污穢之徒消失。為了我們的安寧。[[/footnote]]。
+
+所以我就作出行動了。為了絕對不再分離，絕對不要讓目光投向我以外的人，為我們共築愛巢，以一生之愛海誓山盟，雙宿雙棲。對，就這樣做了。而悲劇發生的時間是同居起第43天的4小時38分鐘，她很出乎意料地，就自己將自己的生命斷送了……究竟是為甚麼我現在還不知道[[footnote]] 明明膳食、穿衣、交際全都由我一手包辦了耶。我明明絕對沒有令她不自由。[[/footnote]]，但是就這樣下去的話，她最後會腐爛下去，那時，我就遇到了[[span class="ruby"]]涅枯髏師傅[[span class="rt"]]ネクロ師匠[[/span]][[/span]][[footnote]] 師傅只對腐臭的魚有興趣，所以沒打算搶走她。但是，他對這世上最美麗的她沒有興趣，是一個怪人。[[/footnote]]。為甚麼會遇上，我記不太清楚了[[footnote]] 師傅好像說過「雖然感受到同志的氣息，但好像有點搞錯了甚麼」之類的？然後還吐了口水。好髒 [[/footnote]]師傅就教會了我闇壽司。託他的福，我把她化作壽司，連保存鮮度和體溫的技法也教授了，和永恆不變的新鮮[[footnote]] 字面上的。[[/footnote]]而親愛的她在一起的願望成真了……對，和她相愛的日子絕對是甘美以至不能抗拒的。
+
+@@@@
+——直到那傢伙來到為止。
+
+在周圍鬧事的壽司陀螺手他們被我和她一網打盡，在和平的愛巢之中，我倆一直相親相愛。然後就有人打破了玻璃窗闖進家裡。雖然想著像爆竊，從裝備和姿態看來卻顯然像軍人[[footnote]] 有跟其他壽司陀螺手不同的壓迫感。[[/footnote]]，然後手上是……鮭魚燒。那個神秘人是壽司陀螺手，就這一點很快看清楚了。這邊不算是做足萬全準備，但是如果對手只有鮭魚燒的程度，那麼拿下他也很輕易，我這樣想著，準備著四肢垂下的她。
+
+無論多少次都不會習慣的緊張感壓在雙方，壓下視線的同時宣告——
+
+> **神秘人／我：** [[size 250%]] 三、二、一、へいらっしゃい！[[/size]]
+
+那傢伙的鮭魚燒高速旋轉移動，與親愛的她的身體有過幾次接觸。
+
+> **我：** 你的鮭魚燒的確很快，但是攻擊力這一點倒是絕對不夠啊！
+
+雖然還沒動真格而只是單純地轉著，這邊的損害仍然只是輕微。反觀，這邊就算只打中一擊，那傢伙的鮭魚燒就會在一瞬間粉身碎骨了吧。
+
+但是，一直都沒能擊中，被它的速度操弄著。疲勞也累積起來了。如果沒辦法速戰速決的話……！我在操作上全神貫注，擺動著她的四肢。接招吧！那絕對擊斃初見者的一擊——！
+
+> **神秘人：** 嗚！？
+
+聽到了屏息的聲音。鮭魚燒已經毀了一半。但是——
+
+> **我：** 幹，這下沒辦法一擊解決嗎
+
+對方雖強，但是現在我還沒完全用盡招數，這樣下去的話就能和她一起把他給……！
+
+> **神秘人：** 這個就是報告裡寫到的[[span class="ruby"]]死靈術師[[span class="rt"]]ネクロマンサー[[/span]][[/span]]的實情嗎？
+
+鮭魚燒的動作忽然轉向尖銳。高速之餘，還要更加準確地對她的身軀反複連打帶跑。這甚麼速度……就算明明已經半毀的鮭魚燒為甚麼可以達到這樣子的速度……！？
+
+……難道是！半毀的鮭魚燒被視為半飯[[footnote]] 飯量減半的狀態下製成。想吃更多壽司的時候就會用到的點餐選項。[[/footnote]]而避免崩潰嗎……！？在戰鬥途中還能夠這麼靈活的操作，這甚麼怪物！
+
+> **我：** 咕啊啊！
+
+他勝過了我。至今為止未食一敗，本應具有壓倒性的重量和耐久的我的她，被這種罕見的壽司控制法像蓋滿飯粒一樣地被打倒了。
+
+> **我：** 我……輸了。
+
+勝負已分。身為壽司陀螺手，輸了並沒有悔恨可言。不，如果能夠以更周全的狀態準備和他一戰就太好了。然後，我吃著她，以此為壽司陀螺手的生涯落幕，那絕對是再美妙不過了。她就將如同在我的體內繼續活著一般，雖然已經延宕多時，但這才是我的夙願。就這樣想著之際
+
+> **神秘人：** 這裡α-1，對象已被控制。
+>
+> **我：** 嗚……怎會這樣！友梨佳！？
+>
+> **神秘人：** 收隊。
+
+他就把她扛起來，竟然要在我的眼前開始作出把她搶走的無理勾當。我連身為壽司陀螺手的矜持也丟下了，嘗試起身一拳毆打過去。但是我的拳頭被鮭魚燒攔住了。我為之震怒，顫著雙唇，對著那搶走壽司的惡徒破口大罵。
+
+但是他望向我的眼神，是無可奈何地無機質的。
+
+> **神秘人：** 物主也同樣是回收對象。由此轉向控制。
+
+隨著這一句，從草叢衝出五個看不清表情、身穿重裝的壽司陀螺手。他們手上的裝備規格排在一起，拿著怎麼看都幾近一致的火炙鮭魚[[footnote]] 連火燒的紋路也看來好像一樣。[[/footnote]]。激昂的思緒一下子被冷卻下來，直覺告訴我他們也是技巧跟面前的人相比毫不遜色的壽司陀螺手。事已至此，在我被絕望擊倒之際，草叢又再衝出一個人影——！
+
+> **我：** 涅枯髏師傅……！？
+>
+> **涅枯髏師傅：** 你既然是專用人類[[footnote]] 更加準確來說，我是專用珍愛的她。我不想師傅搞錯。[[/footnote]]的，那就是我的弟子……！這裡交給我，走吧！
+
+正面是完全武裝的五個壽司陀螺手，明知毫無勝算，卻能看見師傅仍然面對著他們站著。師傅對還在躊躇的我喊著「去吧！」我就轉身背對著他，一直不停地跑。為了讓恩師的犧牲不會毫無意義，我就在那時定下決心。要從他們手上奪回她，報師傅一箭之仇……然後現在，為了增加傳承者，然後尋找可以打倒他們的同伴，我就想到要把這個闇壽司傳授給大家。無論如何，請助我一臂之力吧！
+
+[[size 120%]]**相關資料**[[/size]]
+
+[[size 300%]]##c6bcfc|愛##[[/size]]
+@@@@
+是這世上最重要的東西。
+
+[[>]]
+撰文：白寺 直人
+[[/>]]
+
+----
+
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+[[=]]
+[[div style="background: url(http://scp-jp-sandbox3.wdfiles.com/local--files/draft%3A2206092-6-a9fc/yamisushi) center no-repeat ;background-size:300px; float: center; border: solid 2px #000000; padding: 1px 15px; box-shadow: 0 1px 3px rgba(0,0,0,.2); font-family: 'Noto Serif JP', serif;"]]
+##ff5c48|[[size 150%]] **來自闇老大的聲明** [[/size]]##
+----
+
+[[size 120%]]
+噁心
+@@@@
+逐出師門
+@@@@
+@@@@
+[[div style="font-size: 200%; line-height: 100%;"]]
+闇
+[[/div]]
+@@@@
+[[/size]]
+[[/div]]
+[[/=]]
+[[/div]]
+
+[[<]]
+[[div class="email"]]
+[[div class="tofrom"]]
+**致：** KKODiuwo/912Aaae
+**自：** 犀賀六巳
+**主旨：** 無主旨
+[[/div]]
+------
+
+對不起，送了不重要的資料過來。闇壽司的資料無視了也沒關係。
+
+[[/div]]
+[[/<]]
+
+[[<]]
+[[div class="email"]]
+[[div class="tofrom"]]
+**致：** Sk⁇m55Mj@?mAAA6304
+**自：** 佐井賀 健
+**主旨：** Re:關於[77.0]日本生類創研目錄
+[[/div]]
+------
+
+雖然有點逾越，但是我有一個想法想說。
+
+誠然，闇壽司這份資料幾乎都是不必要的情報。儘管如此，包括目前為止的資料在內，我也不打算將這混雜不清的資料不作統整就直接送給友梨佳小姐。像是WWS與闇壽司那樣缺乏遺物知識而未開發的團體的資料也納入考慮的話，我認為資料裡有某種共通點。
+
+對該目錄所在的世界已經稍作調查，資料裡的真桑友梨佳雖然有近似的性質，亦沒有引起大規模的自殺騷動等事件。雖然止於推論，這個真桑友梨佳應該也會被基金會回收。由此，在目前為止的資料當中，可以導出「基金會正在回收」的共通點。
+
+若是基金會，說不定可以帶來更進一步的幫助。
+[[/div]]
+[[/<]]
+
+[[<]]
+[[div class="email"]]
+[[div class="tofrom"]]
+**致：** KKODiuwo/912Aaae
+**自：** 犀賀六巳
+**主旨：** Re:Re:關於[77.0]日本生類創研目錄
+[[/div]]
+------
+原來如此，當時我沒有想到這一點。「與基金會的關聯」這個共通點，的確有值得考慮的價值。如果有基金會的檔案之類的話，我會去找的了。
+[[/div]]
+[[/<]]
+
+
+
+[[div class="dc_divider_310415"]]
+@@@@
+[[/div]]
+
+##blue|呼，讀了這麼多，也累了。WWS、AWCY、日創、闇壽司……上一次一口氣看這麼多種類的組織內部文件，到底是幾年前呢？####red|這樣的話，就把現在看過的先整理一下吧。##
+
+##chocolate|首先，第一份是WWS。這是名叫「真桑友梨佳」的浣熊，具有可以改變政府資料的能力吧？是個不知道優點在哪的異常特性呢。####red|不對，那個不是人類嗎？就是那個，跟[[[http://scp-zh-tr.wikidot.com/scp-1152 | B-509的浣熊]]]一樣的那個。####blue|的確，也有這個可能。####chocolate|基金會接下來回收的事情，就是發現那一點的時候了吧，大概。##
+
+##red|接下來就是Are We Cool Yet?了。這個是連接了滿佈超科技的拷問裝置的「真桑友梨佳」。####gray|這個真桑也被基金會回收了。####blue|嘛，基金會面對AWCY這種組織都是積極地進行打擊的。####chocolate|不過從電郵看到的部分看來，他們沒有攻擊到AWCY的成員，只拿了裝置就走了。那個裝置本身說不定有甚麼重要的東西在裡面。##
+
+##blue|再之後就是日本生類創研。這份資料出現的「真桑友梨佳」已經死了，他的肉體的資料被嵌進了姬蜂裡。####chocolate|姬蜂可是以寄生著稱的生物呢。我聽說過牠會對蝴蝶幼蟲之類的產卵。化蛹之後，就可以直接穿破出來。####blue|嗚嘔、好噁心……####red|這份資料好像沒提到被基金會回收的事。####chocolate|不，現在這個已經的確被基金會鎖定要進行收容了。####red|嘛，這樣嗎。##
+
+##chocolate|接著，闇壽司。這個嘛、唔——。####red|上面的情報完全沒有客觀性可言。##
+
+##red|關於真桑友梨佳的事情，基金會應該還是知道一些甚麼東西吧？####chocolate|還是不太清楚呢。只是基金會本身也不會作出這麼奇怪的行動就是。####blue|那麼真桑，有沒有想起了甚麼？####gray|不、不太清楚……啊，不過基金會的情報倒好像有一份。##
+
+
+++ 紀錄：時間線 ???
+
+##red|基金會嗎，總算有點像樣的文章能讀了。####blue|關於這裡出現過的各個「真桑友梨佳」，真期待會有哪些整合好了的情報。##
+
+[[div class="blockquote"]]
+@@@@
+[[=]]
+[[div style="background: url(https://scp-jp-storage.wdfiles.com/local--files/file:2532460-25-b7bd/scp_trans.png) center no-repeat ; float: center; border: solid 2px #000000; padding: 1px 15px; box-shadow: 0 1px 3px rgba(0,0,0,.2);"]]
+##ff5c48|[[size 150%]] **警告：以下檔案為5/0001級機密情報** [[/size]]##
+----
+[[size larger]] **任何未持有5/0001級權限者，凡擅自存取該檔案內容，即紀錄在案並受即時懲戒處分。**[[/size]]
+**最後更新日期：** 0019/01/30
+（人工中間維度宇宙000000-000001α基準）
+[[/div]]
+[[/=]]
+
+__該檔案已翻譯，以為AB2320-1298011χ基金會所用。__
+
+**項目編號：** SCP-001-JP
+
+**項目等級：** --Pending-- Euclid/adviso
+
+**特殊收容措施：** 各基金會應確認在相應宇宙內的SCP-001-JP會自殺。另外，若發現在生的「真桑友梨佳」，則應避免接觸，並持續觀察。在檔案最終更新時，多元宇宙基金會聯盟[[footnote]]在時空維度存在的複數基金會並行以類近的常態維持為目標而合作的組織[[/footnote]]尚未劃一決定針對SCP-001-JP對象的合適收容方法，故應由各宇宙的基金會自行判斷並施行之。
+
+**描述：** SCP-001-JP是於21世紀自殺身亡的真桑友梨佳小姐的屍體，以及與前述概念一致的異常於H型／「智能活動主體」式宇宙[[footnote]]人類等有智能活動的生物存在的宇宙。[[/footnote]]內有未知上限的高機率[[footnote]]因各宇宙而異，在曆法、時間有不同步的情形，故未能導出充分可信的機率。[[/footnote]]可以確認的現象。為求簡便，以下將稱屍體本身為「SCP-001-JP對象」，該對象的條件為「SCP-001-JP概念」。
+
+截至檔案更新時間，SCP-001-JP概念指定為「於21世紀自殺身亡的真桑友梨佳小姐的屍體」，惟須注意該概念為有意地以非常模糊的形式表達。定為SCP-001-JP概念之「於21世紀自殺身亡的真桑友梨佳小姐的屍體」所相符的詳細條件現由多元宇宙部門進行研究。現時已判明SCP-001-JP條件如下。
+
+##chocolate|SCP-001-JP概念的研究？怎麼說呢，有點不可思議。是從共通事項找出定義嗎？定義之類的本來應該是由研究那一邊隨意設定的，這樣說法看來就像是被外加上去的。##
+
+
+* SCP-001-JP對象於21世紀期間取得異常特性 _
+現時發現，SCP-001-JP乃於西元（基督紀年）起算，「**各宇宙最為普及**」、「**以100年為單位依序分界的曆法**」下的第21區段之內取得異常特性。若在基督宗教不存在的宇宙，則以儒略曆及伊斯蘭曆等曆法與該等條件對應。調查過程中已確認，不滿足上述曆法條件、具體而言不存在有100年週期排序的曆法（包括不存在曆法本身的宇宙）的H型／「智能活動主體」式宇宙並不存在。
+
+* SCP-001-JP對象在符合上述條件的時間段內完成遂行類屬自殺的行為 _
+SCP-001-JP對象必定會將「**作為自我意識之操縱器使用的物質構造**」經「**以自我意識主動輸出的作為變換**」為「**無法以自我意識操作的狀態**」。在絕大部分的場合，該條件所述的「物質構造」皆為以分子構成的人類活體。以SCP-001-JP對象不屬人類活體的宇宙為實例，FAB3FE-023782λ宇宙內的人類悉數以靈體形式存在，此處的SCP-001-JP對象則使用了靈子振盪器消滅自身。在無法嚴密定義自身與他者邊界的H型／「智能活動主體」式宇宙，SCP-001-JP對象具備「自他邊界」之事則多數會被視為異常特性。
+
+##red|基金會的文章都是這樣，太枯燥了。說得簡潔一點。####blue|就連文章的苦硬也是各時間線共通的。####chocolate|嗯——扼要來說，是對用到曆法的智慧生命體來說，在2000年到2100年間生成的異常嗎？在很多地方的術語都不太懂呢……##
+
+
+* SCP-001-JP對象於其所在宇宙被賦予「真桑友梨佳」的個體識別名 _
+SCP-001-JP對象歸屬於在其宇宙的社會結構，並從中被賦予個體識別名「真桑友梨佳」。該名稱不限於實名或通稱等遵循社會結構系統的命名，在諢稱、管理編號、電腦系統所定義的暫用變項等被稱為「真桑友梨佳」亦可符合條件。若在針對個體不使用文字序列予以識別的H型／「智能活動主體」式宇宙，SCP-001-JP對象擁有個體識別名的特性本身則多數被視為其異常特性。
+
+在檔案更新時，多元宇宙基金會聯盟所確認過的H型／「智能活動主體」式宇宙中，已確認有99.999%機率存在SCP-001-JP對象。是次統計的母體並不包括「無法成立通訊的宇宙」以及「『21世紀』未結束的宇宙」。考慮到SCP-001-JP對象可能持有逆模因異常特性的情形，研究團隊內部認為SCP-001-JP對象在所有的H型／「智能活動主體」式宇宙皆有存在之說具說服力。
+
+普通SCP-001-JP對象在各宇宙的實例展示如下。
+
+[[div class="blockquote"]]
+[[include component:image-block
+name=https://scp-jp-storage.wdfiles.com/local--files/file%3A6903570-36-jkil/corpse-corpus-placeholder.png|
+caption=[http://scp-zh-tr.wikidot.com/scp-3823-jp SCP-3823-JP]|
+width=150px|
+align=left
+]]
+**發現所在宇宙編號：** 3289DD-278091β　##gray|X-10A##
+
+**發現所在宇宙內的項目編號：** SCP-3823-JP
+
+**描述：** 於2010/09/12使用發煙裝置，中毒而死。具有生成誘發認知危害及害僚危害的文書之異常特性。基金會在對象死後發現之。異常性甚有可能在死亡後出現。
+@@@@
+@@@@
+[[/div]]
+[[div class="blockquote"]]
+[[include component:image-block
+name=https://scp-jp-storage.wdfiles.com/local--files/file%3A6903570-36-jkil/corpse-corpus-placeholder.png|
+caption=[http://scp-zh-tr.wikidot.com/scp-3324-jp SCP-3324-JP]|
+width=150px|
+align=left
+]]
+**發現所在宇宙編號：** E99ACB-985670ζ　##gray|RX-782##
+
+**發現所在宇宙內的項目編號：** SCP-3324-JP
+
+**描述：** 於2078/12/37失血而死。具有頭部變形，並置換為液晶螢幕的異常特性。畫面上每日展示模擬影片製作群列表的動畫。基金會在對象死後發現之。異常性甚有可能在死亡後出現。另外，異常特性在生效後50日消失。
+@@@@
+@@@@
+[[/div]]
+[[div class="blockquote"]]
+[[include component:image-block
+name=https://scp-jp-storage.wdfiles.com/local--files/file%3A6903570-36-jkil/corpse-corpus-placeholder.png|
+caption=[http://scp-wiki-cn.wikidot.com/scp-cn-2874 SCP-CN-2874]|
+width=150px|
+align=left
+]]
+**發現所在宇宙編號：** AAA1A9-231890ψ　##gray|F-091##
+
+**發現所在宇宙內的項目編號：** SCP-CN-2874
+
+**描述：** 於2012/12/11溺死。具有在體表與液體接觸的表面生成具逆模因特性的植物之異常特性。基金會在對象死前發現之，並予以監視。異常性在死亡前已經出現。
+@@@@
+@@@@
+[[/div]]
+[[div class="blockquote"]]
+[[include component:image-block
+name=https://scp-jp-storage.wdfiles.com/local--files/file%3A6903570-36-jkil/corpse-corpus-placeholder.png|
+caption=[http://scp-zh-tr.wikidot.com/scp-3423-jp SCP-3423-JP]|
+width=150px|
+align=left
+]]
+**發現所在宇宙編號：** 242B04-282915δ/ε　##gray|LM-314##
+
+**發現所在宇宙內的項目編號：** SCP-3423-JP
+
+**描述：** 死於2034/07/10。具有極輕微異常的生理韌性。對象為基金會職員，於死亡前已為基金會所識。基於242B04-282915δ/ε基金會管理層的裁決，對象攝入了誘發自殺的模因。自殺後被偽裝為因另外的異常特性致死的異常。
+[[/div]]
+
+**備註：** 關於SCP-001-JP對象在多個宇宙出現的現象，基金會針對多重宇宙無法為其統計學及數學上的異狀予以嚴謹定義，該項目暫時保留原有項目等級。鑒於其異常特性的潛在風險，以及對該異常的善後處理所預想而得的危險性，該項目已依照多元宇宙基金會聯盟議決，予以收容。
+
+
+[[/div]]
+
+##red|這是怎麼回事？多元宇宙基金會聯盟？####blue|多元宇宙基金會聯盟嗎，雖然想到基金會製造出時間線轉移技術只是時間問題，但是已經做到這種程度了嗎。Mon Amour的話對這個有知道些甚麼嗎？####chocolate|不，很可惜地，我的了解也只是傳聞的程度。不過基金會的機密主義執行得怎麼徹底，你們應該都知道了吧。除了圖書館之外，時間線的移動方式是基金會自行研發的，就算是這件事本身，局外人應該都沒可能知道吧。####blue|基金會獨有的移動方法，還真的沒注意到呢……。但是這份報告上的時間線編號有經過真桑加註的痕跡。用這個對廳到基金會給宇宙的編號，我想不會有問題。####red|基金會的科技已經進步到這種程度了，我們有辦法讓其他的小姊妹知道要加強自我保護意識嗎？####chocolate|不，我想這問題還沒到這麼緊急。這份檔案上是沒有寫到多元宇宙基金會聯盟的詳情，但是如果幾億幾兆個宇宙的基金會管理層都有連繫，再上一層，把所有的宇宙都統合指揮在一起的組織建立起來就不堪設想了。跨宇宙的物體移動、超科技的共享、移送人員，哪怕只有一個，都不會知道在宇宙之間會產生怎樣的扭曲。####blue|這樣也沒錯。某一個宇宙裡未經活化的模因污染如果送到了另一個宇宙，或是有逆模因的概念式神靈之類、信仰、概念帶回來可能會白白導致世界滅亡，基金會也會很謹慎吧。除了最低限度的情報共享，除了橫貫多個時間線的物件之外應該也不會搬些甚麼了吧。####red|是這樣子嗎？####chocolate|哈哈，我們在意的就只有爸爸和這麼多位姊妹，也有點恣意而為呢。##
+
+##red|那，就先把「多元宇宙基金會聯盟」放一旁去。從檔案看來，真桑友梨佳在特定條件之下的宇宙必定會存在，也必定會自殺，就先從這點開始想。基金會看來對這非常重視呢。####blue|雖說是有「潛在風險」，但是這具體來說會有甚麼問題？####chocolate|例如，爸爸在絕大部分的世界都在，但是這本身不應該算是甚麼問題。兩邊來說，在我們那邊卻算是問題。####red|不，這有點誤會了。我們是除了Gears在的時間線、還有姊妹都在的時線之外都不需要留意，所以也就這樣去看事情。####chocolate|啊啊，這樣嗎。另一邊基金會在查的是H型／「智能活動主體」式宇宙，換言之是把有智慧生命的宇宙視為對象。唔呣唔呣……原來是這樣。這樣的確是大問題。晴海也注意到了？####blue|嗯嗯……是「那件事」嗎。####red|只能觀測得到**「真桑友梨佳」自殺了的宇宙**，這件事亦意味著**不會有「真桑友梨佳」還沒自殺的宇宙**，就是這樣。##
+
+
+[[div class="dc_divider_226338"]]
+@@@@
+[[/div]]
+
+++ 角度[??.?]
+
+[[<]]
+[[div class="email"]]
+[[div class="tofrom"]]
+**致：** KKODiuwo/912Aaae
+**自：** 犀賀六巳
+**主旨：** 關於「真桑友梨佳」
+[[/div]]
+------
+= ・
+= ・
+= ・
+換言之，我想說的是只能觀測得到**「真桑友梨佳」自殺了的宇宙**，這件事亦意味著**不會有「真桑友梨佳」還沒自殺的宇宙**。其他的可能性當中，「多重宇宙之間共同存在的認知危害或是後溯改變因子」的假說雖然成立，但是這樣轉換觀點的話，全宇宙共通的時間點內異常的重大之處依然不變。「在各宇宙間分享情報本身就能觸發改變」這個假說也是有的，不過可能性比較低。如果是這樣的話，總會有一個基金會注意到的。所以就算是基金會都還在試著理解並再現SCP-001-JP概念。
+
+就像物理定律與智能的系統，形成宇宙最基本的要素就包括了「真桑友梨佳自殺」，就像蓋錯一個印章也足以引起世界恐慌。這看來完全顛覆了我們的活動理念。
+
+然後，我這邊也還有疑問沒解答。例如，真桑友梨佳沒有自殺這件事本身會不會成為宇宙終結的原因，然後是真桑友梨佳沒有自殺的事情會不會把宇宙基礎的某一個參數壓下了、令宇宙無法抵禦引發終結的事物、相反只要他自殺就能抵抗，諸如此類。這一點交給基金會處理也沒關係。問題在真桑友梨佳為何會得到這些異常特性。持有特定的異常特性的物體牽繫到宇宙存續，這一點可以直觀地理解，但是持有任意異常特性的「真桑友梨佳」牽繫到宇宙存續這一點就令我覺得有點奇怪。
+
+另外，真桑友梨佳自殺的條件是怎樣達成的，基金會撰檔的時候也不得不含糊以對。拿另一個自殺者的死亡診斷書，名字改成真桑友梨佳，會不會滿足得到條件？首先，我認為我們應該先專注在「辨明條件」上面。說不定這樣可以為拯救世界找到最高效的解答。
+
+佐井賀君意下如何？我想聽您的意見。
+[[/div]]
+[[/<]]
+
+[[<]]
+[[div class="email"]]
+[[div class="tofrom"]]
+**致：** Sk⁇m55Mj@?mAAA6304
+**自：** 佐井賀 健
+**主旨：** Re:關於「真桑友梨佳」
+[[/div]]
+------
+我的意見差不多一樣，但有另外一個想法。真桑友梨佳小姐留下的資料，為甚麼全都與基金會有關？直到看見基金會檔案為止，可以推理得到基金會注意到那件事並想將它傳達給真桑小姐，但我有點在意那更深層的事。
+
+基金會的局域網路平均的堅固程度是超出其他組織以上的。就算是這樣，這些資料帶出去的時候，也是不成文的訊息。為了在真桑友梨佳本身生出異常性質，連基金會也沒能注意到。我認為定點並不只「真桑友梨佳自殺」的事情。資料內容之外也有根據。即使是基金會內部，也有頻頻將事情複雜化的問題，他們把異常與非異常的界線劃出，因應世界而異，基金會最終的立場都可以很不一樣。多元宇宙基金會聯盟看著這些資料，也沒有注意到當中的衝突。換言之，「真桑友梨佳自殺」本身不是「異常特性」，而是「真桑友梨佳自殺」與「基金會」有關，這樣想法能夠理解嗎？
+
+[[/div]]
+[[/<]]
+
+[[<]]
+[[div class="email"]]
+[[div class="tofrom"]]
+**致：** KKODiuwo/912Aaae
+**自：** 犀賀六巳
+**主旨：** Re:Re:關於「真桑友梨佳」
+[[/div]]
+------
+
+這個觀點我都沒想到。我慶幸聽到佐井賀君的意見。
+
+然後照著這一點，「基金會」與「多重宇宙的真桑友梨佳」，就將焦點放在同時提及這兩者的資料吧。希望佐井賀君可以繼續協助。
+
+
+[[/div]]
+[[/<]]
+
+
+
+[[div class="dc_divider_310415"]]
+@@@@
+[[/div]]
+
+++ 紀錄：時間線 J-778
+
+##red|找到有提及「多重宇宙的真桑友梨佳」的檔案了。####chocolate|GOC～？那些大叔對於少女的微妙也注意到了甚麼嗎～？####blue|Mon Amour對GOC也想起了些甚麼不快的回憶嗎？##
+
+[[div_ class="warning-box blue"]]
+[[div_ class="heading"]]
+PTE-38722-Spiral Black
+[[/div]]
+[[div class="inner"]]
+
+[[div style="border-bottom:2px solid #777; margin-bottom:1px;"]]
+[[/div]]
+[[div style="border-bottom:1px solid #777;"]]
+[[/div]]
+
+**威脅實體ID：** PTE-38722-Spiral Black (「偶像的守護」)
+
+**授權應對等級：** --5（即時威脅）-- N/A（收容處置）
+
+**描述：** 此威脅實體是於20██年11月3日自殺身亡的真桑友梨佳小姐的屍體。真桑友梨佳生前家境貧困，加諸具有在世俗美學標準評價甚高的外貌，而確認因此曾遭欺凌，並推測由此終致自殺。
+
+真桑友梨佳在自殺後，真桑友梨佳雙親隱瞞該事實，並創設宗教法人██████，在11年間利用真桑友梨佳的屍體為其宗教象徵物。從已發現資料，可見「直到死後，肉體仍然猶如尚有血流一般柔滑，猶如在生時保持溫暖」的表達，由此認定真桑友梨佳在死後隨即呈現超常特性。
+
+宗教法人██████為以猶太教為原典的新興宗教，教義多與猶太教及基督教有類似之處。真桑友梨佳的屍體被定為「神之代行者」，透過接觸或交合「神之代行者」，則視為行善，由此得到與信仰的直接連繫。接觸時間愈長、接觸面積愈大，則行善愈大，由此，形成了允許該等接觸的時間及部位因應奉獻額度以及對組織的貢獻程度而可以有所增加的形式。藉由真桑友梨佳具備的超常特性，「神之代行者」之說由此取得可信性，再加上教義要求及修行門檻非常嚴苛，配合宗教洗腦，由此得到狂熱的信徒。該等極高要求亦對信徒的階級制度貢獻甚大，在組織構造簡單形成而處於最高階級的信徒，與未牽涉組織運作的正式入會者27,590人相比，僅有8名之少。該等最高級信徒皆已確認為具影響力的企業家或政治家。
+
+從後文所述的交戰紀錄，其射程在觀測上確定為半徑9公里，且具備令多種空間固定手法無效化的強大空間扭曲能力。
+
+
+**交戰規則：** 現時該威脅實體處於基金會的收容之下。根據與基金會的協定，一切對該威脅實體的肅清計劃皆已凍結。
+
+
+**交戰紀錄：** 在宗教法人██████擁有設施前方，原信徒及其親友團的抗議活動發展成騷亂，其後突然發生巨型的空間扭曲現象，造成傷亡包括抗議者114人，以及被捲入範圍信者6人。此時，該空間扭曲現象被信徒視為神的慈愛或憤怒。此時亦能觀測到以設施為中心放出的神性能量。
+
+騷亂開始後經過約30分鐘，週邊半徑3km28幢房屋被毀，殺傷住戶63人。該等傷亡皆確認屬於對宗教法人██████持不信任感的人物。此外，趕至現場的評估小組5人以及未知從屬者4人皆受殺傷。此時，GOC將授權應對等級設定為5，開始部隊及裝置的部署。
+
+騷亂開始後經過約50分鐘，[[span class="ruby"]]沃茲[[span class="rt"]]ヴォズ[[/span]][[/span]]空間固定釘提高至最大輸出，仍遭到該威脅實體突破，部署的12台當中有9台被破壞。與此同時，設置於與該威脅實體直線距離約4km的臨時司令台亦有空間扭曲現象發生，為此，已投入配備了對時空隔絕裝備的打擊小組3隊。
+
+騷亂開始後經過約1小時15分鐘，打擊小組11人死傷，但成功迫近至目標設施外200公尺。此時感知到以該威脅實體為中心的巨型空間扭曲反應，目標隨之喪失。
+
+**戰損報告：**
+||||||||~ 軍備處-AOD-8722-1||
+||~ 物品編號 ||~ 指定編號||~ 名稱||~ 數量||
+||1|| Gen+2/GenAlt-VzSFN || 沃茲空間固定釘 || 9 ||
+||||||||**備註：** 一台可以實行半徑1.5公里的奇蹟術式空間固定。為穩定現場並確保安全，部署12台。||
+||2|| Gen+1-FSTOI21 || [[span class="ruby"]]法姆茲[[span class="rt"]]ファムズ[[/span]][[/span]]時空觀測器21型|| 2 ||
+|||||||| **備註：** 為臨時司令台及評估小組所用。||
+||3|| Gen0-MirFGR || 幻象FGR.9 || 3 ||
+||||||||**備註：** 為對設施發動攻擊、並破壞該威脅實體，投入14台。||
+||4|| Gen0/GenAlt-ASRA || 攻擊性空間震響裝置G-2型 || 3 ||
+||||||||**備註：** 作為幻象FGR.9的防禦手段搭載。||
+||5|| Gen0/GenAlt-DⅽBP2 || LCC扭曲修正彈P2型 || 8 ||
+||||||||**備註：**  在啟動時空隔絕防衛的同時，用於對設施及該威脅實體發動攻擊。||
+||||||||[# ≫　另計13項。] ||
+
+
+**附註1：** 依照與基金會協定共享情報期間，已確認該威脅實體已被基金會控制。
+
+**附註2：** 據交戰紀錄，收容信徒時，已確認為信徒給予防衛的空間扭曲現象發生。該現象在高等的信徒身上更為顯著，以往曾經執行通稱「神交」的最高位儀式的信徒等人亦有頻密發生具有保護意圖而由此值得注意的空間扭曲現象。儀式內容與真桑友梨佳生前的性格及取向相對，極不可能會作出該等行動，故推測為其身為宗教偶像而取得神性，由此條件式反應施行能力。
+
+以宗教偶像形式取得神性的存在一概受其宗教的教義約束，而在宗教法人██████的教義亦多見宗教戒律描述，而不可能針對自身行使轉移能力。此外，基金會具備的空間固定技術並未超出交戰紀錄時觀測所得的數值，有鑒於對象並未被基金會認定難以收容，推斷空間扭曲能力已經喪失或減弱。在該事例中，經過神化的實體自行轉移的推測並不自然，目前考慮到有以基金會為首的其他組織參與的可能，現正對該轉移現象進行調查。
+
+##gray|已確認與時間線U-223的真桑友梨佳交換的形式進行轉移。該世界線的GOC所確認的個體為不同個體。##
+[[/div]]
+[[/div]]
+
+##chocolate|唔～有點怪呢。####blue|由姬蜂到神，還真的有很多種的真桑友梨佳呢。####gray|那個，最後那裡，大概有我寫過的部分。####red|還真的有呢，「已、確、認、與、時、間、線、U-、2、2」……太淺色了，有點難讀。####chocolate|啊啦、老花了嗎？「已確認與時間線U-223的真桑友梨佳交換的形式進行轉移。該世界線的GOC所確認的個體為不同個體。」這樣寫的。像交易那樣？####blue|如果在情報交換期間去辨明的時候不知道是另外的個體，而異常特性和容貌都很像，大概是時間線U-223和這條世界線是平行世界？####red|但是最後為甚麼會轉移了呢？####chocolate|那……？####gray|是相互作用嗎……？####blue|那到底是怎樣的？##
+
+----
+++ 紀錄：時間線 X-284
+
+##red|這個是……那夥宅宅嗎。####chocolate|這個團體也很討厭呢～。##
+
+
+[[module CSS]]
+/*
+    [no title]
+    Created at 2021
+    Created by dog_punch
+    CC BY-SA 3.0
+*/
+
+.ch_body {
+    background: #f2f3f7;
+    padding: 10px;
+    border: 1px solid #b5b5b5;
+}
+
+.ch_buttons {
+    padding: 20px 5px;
+    border: 1px solid #e2e4e4;
+    border-left: none;
+    border-right: none;
+    margin: 5px 0;
+}
+
+.ch_nums, .ch_bs {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.ch_bt {
+    flex-grow: 1;
+    text-align: center;
+    width: calc(100% / 3);
+    border: 1px solid #cecece;
+    background: #fff;
+    padding: 10px;
+    box-sizing: border-box;
+    cursor: pointer;
+}
+
+.ch_footer .ch_bt {
+    width: calc(100% / 4);
+}
+
+.ch_nums {
+    margin-bottom: 4px;
+}
+
+@media (max-width: 815px) {
+#html-body .ch_bt {
+    width: 100% ;  
+}
+}
+
+.ch_bt {
+    margin-top: -1px;
+}
+
+.ch_bt:hover {
+    border-color: #fff;
+}
+
+.ch_post {
+    border-style: none solid solid none;
+    border-color: #ddd;
+    border-width: 1px;
+    background-color: #efefef;
+    margin-bottom: 8px;
+    padding: 8px;
+    font-size: 120%;
+    width: fit-content;
+}
+
+.ch_posts {
+    display: flex;
+    flex-direction: column;
+    padding: 10px 0;
+}
+
+.ch_post-heade {
+    font-size: 85%;
+}
+
+.ch_post-heade strong {
+    font-size: 115%;
+    color: #19812e;
+}
+
+.ch_post a {
+    color: blue;
+    text-decoration: underline;
+}
+
+.ch_post:last-of-type {
+    margin-bottom: 0;
+}
+
+.ch_post a:hover {
+    color: #5e62ff;
+}
+
+.ch_title {
+    color: #485269;
+    font-size: 18px;
+    font-weight: bold;
+    padding-bottom: 5px;
+}
+
+.ch_post img {
+    max-width: 300px;
+}
+
+.ch_post-heade a {
+    text-decoration: none;
+    color: #000;
+}
+
+.ch_post-heade a:hover {
+    color: red;
+}
+
+.ch_post:nth-of-type(1) .ch_post-heade a:before {content: '1'}
+.ch_post:nth-of-type(2) .ch_post-heade a:before {content: '2'}
+.ch_post:nth-of-type(3) .ch_post-heade a:before {content: '3'}
+.ch_post:nth-of-type(4) .ch_post-heade a:before {content: '4'}
+.ch_post:nth-of-type(5) .ch_post-heade a:before {content: '5'}
+.ch_post:nth-of-type(6) .ch_post-heade a:before {content: '6'}
+.ch_post:nth-of-type(7) .ch_post-heade a:before {content: '7'}
+.ch_post:nth-of-type(8) .ch_post-heade a:before {content: '8'}
+.ch_post:nth-of-type(9) .ch_post-heade a:before {content: '9'}
+.ch_post:nth-of-type(10) .ch_post-heade a:before {content: '10'}
+.ch_post:nth-of-type(11) .ch_post-heade a:before {content: '11'}
+.ch_post:nth-of-type(12) .ch_post-heade a:before {content: '12'}
+.ch_post:nth-of-type(13) .ch_post-heade a:before {content: '13'}
+.ch_post:nth-of-type(14) .ch_post-heade a:before {content: '14'}
+.ch_post:nth-of-type(15) .ch_post-heade a:before {content: '15'}
+.ch_post:nth-of-type(16) .ch_post-heade a:before {content: '16'}
+.ch_post:nth-of-type(17) .ch_post-heade a:before {content: '17'}
+.ch_post:nth-of-type(18) .ch_post-heade a:before {content: '18'}
+.ch_post:nth-of-type(19) .ch_post-heade a:before {content: '19'}
+.ch_post:nth-of-type(20) .ch_post-heade a:before {content: '20'}
+.ch_post:nth-of-type(21) .ch_post-heade a:before {content: '21'}
+.ch_post:nth-of-type(22) .ch_post-heade a:before {content: '22'}
+.ch_post:nth-of-type(23) .ch_post-heade a:before {content: '23'}
+.ch_post:nth-of-type(24) .ch_post-heade a:before {content: '24'}
+.ch_post:nth-of-type(25) .ch_post-heade a:before {content: '25'}
+.ch_post:nth-of-type(26) .ch_post-heade a:before {content: '26'}
+.ch_post:nth-of-type(27) .ch_post-heade a:before {content: '27'}
+.ch_post:nth-of-type(28) .ch_post-heade a:before {content: '28'}
+.ch_post:nth-of-type(29) .ch_post-heade a:before {content: '29'}
+.ch_post:nth-of-type(30) .ch_post-heade a:before {content: '30'}
+.ch_post:nth-of-type(31) .ch_post-heade a:before {content: '31'}
+.ch_post:nth-of-type(32) .ch_post-heade a:before {content: '32'}
+.ch_post:nth-of-type(33) .ch_post-heade a:before {content: '33'}
+.ch_post:nth-of-type(34) .ch_post-heade a:before {content: '34'}
+.ch_post:nth-of-type(35) .ch_post-heade a:before {content: '35'}
+.ch_post:nth-of-type(36) .ch_post-heade a:before {content: '36'}
+.ch_post:nth-of-type(37) .ch_post-heade a:before {content: '37'}
+.ch_post:nth-of-type(38) .ch_post-heade a:before {content: '38'}
+.ch_post:nth-of-type(39) .ch_post-heade a:before {content: '39'}
+.ch_post:nth-of-type(40) .ch_post-heade a:before {content: '40'}
+.ch_post:nth-of-type(41) .ch_post-heade a:before {content: '41'}
+.ch_post:nth-of-type(42) .ch_post-heade a:before {content: '42'}
+.ch_post:nth-of-type(43) .ch_post-heade a:before {content: '43'}
+.ch_post:nth-of-type(44) .ch_post-heade a:before {content: '44'}
+.ch_post:nth-of-type(45) .ch_post-heade a:before {content: '45'}
+.ch_post:nth-of-type(46) .ch_post-heade a:before {content: '46'}
+.ch_post:nth-of-type(47) .ch_post-heade a:before {content: '47'}
+.ch_post:nth-of-type(48) .ch_post-heade a:before {content: '48'}
+.ch_post:nth-of-type(49) .ch_post-heade a:before {content: '49'}
+.ch_post:nth-of-type(50) .ch_post-heade a:before {content: '50'}
+.ch_post:nth-of-type(51) .ch_post-heade a:before {content: '51'}
+.ch_post:nth-of-type(52) .ch_post-heade a:before {content: '52'}
+.ch_post:nth-of-type(53) .ch_post-heade a:before {content: '53'}
+.ch_post:nth-of-type(54) .ch_post-heade a:before {content: '54'}
+.ch_post:nth-of-type(55) .ch_post-heade a:before {content: '55'}
+.ch_post:nth-of-type(56) .ch_post-heade a:before {content: '56'}
+.ch_post:nth-of-type(57) .ch_post-heade a:before {content: '57'}
+.ch_post:nth-of-type(58) .ch_post-heade a:before {content: '58'}
+.ch_post:nth-of-type(59) .ch_post-heade a:before {content: '59'}
+.ch_post:nth-of-type(60) .ch_post-heade a:before {content: '60'}
+.ch_post:nth-of-type(61) .ch_post-heade a:before {content: '61'}
+.ch_post:nth-of-type(62) .ch_post-heade a:before {content: '62'}
+.ch_post:nth-of-type(63) .ch_post-heade a:before {content: '63'}
+.ch_post:nth-of-type(64) .ch_post-heade a:before {content: '64'}
+.ch_post:nth-of-type(65) .ch_post-heade a:before {content: '65'}
+.ch_post:nth-of-type(66) .ch_post-heade a:before {content: '66'}
+.ch_post:nth-of-type(67) .ch_post-heade a:before {content: '67'}
+.ch_post:nth-of-type(68) .ch_post-heade a:before {content: '68'}
+.ch_post:nth-of-type(69) .ch_post-heade a:before {content: '69'}
+.ch_post:nth-of-type(70) .ch_post-heade a:before {content: '70'}
+.ch_post:nth-of-type(71) .ch_post-heade a:before {content: '71'}
+.ch_post:nth-of-type(72) .ch_post-heade a:before {content: '72'}
+.ch_post:nth-of-type(73) .ch_post-heade a:before {content: '73'}
+.ch_post:nth-of-type(74) .ch_post-heade a:before {content: '74'}
+.ch_post:nth-of-type(75) .ch_post-heade a:before {content: '75'}
+.ch_post:nth-of-type(76) .ch_post-heade a:before {content: '76'}
+.ch_post:nth-of-type(77) .ch_post-heade a:before {content: '77'}
+.ch_post:nth-of-type(78) .ch_post-heade a:before {content: '78'}
+.ch_post:nth-of-type(79) .ch_post-heade a:before {content: '79'}
+.ch_post:nth-of-type(80) .ch_post-heade a:before {content: '80'}
+.ch_post:nth-of-type(81) .ch_post-heade a:before {content: '81'}
+.ch_post:nth-of-type(82) .ch_post-heade a:before {content: '82'}
+.ch_post:nth-of-type(83) .ch_post-heade a:before {content: '83'}
+.ch_post:nth-of-type(84) .ch_post-heade a:before {content: '84'}
+.ch_post:nth-of-type(85) .ch_post-heade a:before {content: '85'}
+.ch_post:nth-of-type(86) .ch_post-heade a:before {content: '86'}
+.ch_post:nth-of-type(87) .ch_post-heade a:before {content: '87'}
+.ch_post:nth-of-type(88) .ch_post-heade a:before {content: '88'}
+.ch_post:nth-of-type(89) .ch_post-heade a:before {content: '89'}
+.ch_post:nth-of-type(90) .ch_post-heade a:before {content: '90'}
+.ch_post:nth-of-type(91) .ch_post-heade a:before {content: '91'}
+.ch_post:nth-of-type(92) .ch_post-heade a:before {content: '92'}
+.ch_post:nth-of-type(93) .ch_post-heade a:before {content: '93'}
+.ch_post:nth-of-type(94) .ch_post-heade a:before {content: '94'}
+.ch_post:nth-of-type(95) .ch_post-heade a:before {content: '95'}
+.ch_post:nth-of-type(96) .ch_post-heade a:before {content: '96'}
+.ch_post:nth-of-type(97).ch_post-heade a:before {content: '97'}
+.ch_post:nth-of-type(98) .ch_post-heade a:before {content: '98'}
+.ch_post:nth-of-type(99) .ch_post-heade a:before {content: '99'}
+#html-body .ch_post-heade.n-sabo a:before {content: '';}
+
+[[/module]]
+
+[[div_ class="ch_body"]]
+[[div_ class="ch_title"]]
+【悲報】用了死靈術把友梨佳妹召喚回來了但是臉孔好像不對？
+[[/div]]
+[[div_ class="ch_header ch_buttons"]]
+[[div_ class="ch_nums"]]
+[[div_ class="ch_bt"]]
+全部顯示
+[[/div]]
+[[div_ class="ch_bt"]]
+1-100
+[[/div]]
+[[div_ class="ch_bt"]]
+最新50
+[[/div]]
+[[/div]]
+[[div_ class="ch_bs"]]
+[[div_ class="ch_bt" style="color: #18889f"]]
+★手機模式★
+[[/div]]
+[[div_ class="ch_bt" style="color: #ff8d2b"]]
+■回到討論版■
+[[/div]]
+[[div_ class="ch_bt" style="color: #3143b5"]]
+★ULA模式★
+[[/div]]
+[[/div]]
+[[/div]]
+[[div_ class="ch_posts"]] 
+[[include :1nu:5ch-post
+|num=1
+|name=◆wowowoxmn12
+]]
+大家聽我說。
+
+我用了之前研發了的靈素召喚式死靈法技術，想把[[span class="ruby"]]友梨佳妹[[span class="rt"]]ゆりかンヌ[[/span]][[/span]]叫回來，卻跑出了不認識的傢伙。
+[[include :1nu:5ch-post-b]]
+[[include :1nu:5ch-post
+|num=2
+|name=Neo Dramatic市川房枝
+]]
+雖然說了是友梨佳妹，但是我對偶像這邊不太熟，詳細希望
+[[include :1nu:5ch-post-b]]
+[[include :1nu:5ch-post
+|num=3
+|name=◆wowowoxmn12
+]]
+我的規格
+
+年齡：26歲
+身高體重：169/65
+職業：半年前為止在保險業工作
+特技：自學使役死靈的技術。騷靈那種程度的話不用靈體在場也叫得出來
+興趣：死靈研究、逛展演空間
+座右銘：死無對證
+
+友梨佳妹的規格
+
+年齡：永遠的17歲（喝酒時才會變20歲）
+身高體重：160/秘密
+職業：前偶像
+特技：活力滿滿的舞蹈！
+興趣：裁縫、自製調酒
+喜愛的食物：番薯
+印象色：黄
+值得推的點：令身邊人幸福的笑容！握手會場的神應對！
+[[include :1nu:5ch-post-b]]
+[[include :1nu:5ch-post
+|num=4
+|name=Neo Dramatic市川房枝
+]]
+前半段不用寫吧
+[[include :1nu:5ch-post-b]]
+[[include :1nu:5ch-post
+|num=5
+|name=無名
+]]
+藝人近距離看的話總有一點地方不一樣吧
+尤其是素顏的時候
+[[include :1nu:5ch-post-b]]
+[[include :1nu:5ch-post
+|num=6
+|name=◆wowowoxmn12
+]]
+不對，不是那樣。跟友梨佳妹比起來，不只是臉，文化也不一樣
+臉孔是很可愛沒錯，但是方向不對啊
+
+友梨佳妹雖然也是棕短髮，但是身高和服裝都不對啊
+[[include :1nu:5ch-post-b]]
+[[include :1nu:5ch-post
+|num=7
+|name=無名
+]]
+文化不一樣是甚麼鬼
+不會只是你不會使死靈術而已吧
+肯定是名字之類的搞錯了吧
+[[include :1nu:5ch-post-b]]
+[[include :1nu:5ch-post
+|num=8
+|name=◆wowowoxmn12
+]]
+不，名字沒錯。本名就是真桑友梨佳無誤。連死亡診斷書的複印本都拿了
+[[include :1nu:5ch-post-b]]
+[[include :1nu:5ch-post
+|num=9
+|name=Neo Dramatic市川房枝
+]]
+吼，跟蹤狂4ni
+可以報警了
+[[include :1nu:5ch-post-b]]
+[[include :1nu:5ch-post
+|num=10
+|name=◆wowowoxmn12
+]]
+不是跟蹤狂。友梨佳妹自殺之後就已經傳到四處都是了。怎麼說都是新銳偶像突然自殺耶。會這樣擔心也沒問題吧！
+
+再怎樣調查都找不到有用的證據的話，這次就想用死靈術了
+
+[[include :1nu:5ch-post-b]]
+[[include :1nu:5ch-post
+|num=11
+|name=無名
+]]
+UP照片吧，再怎麼說臉不一樣，看不到也不會知道。
+[[include :1nu:5ch-post-b]]
+[[include :1nu:5ch-post
+|num=12
+|name=◆wowowoxmn12
+]]
+真沒辦法，來吧
+還有，除了印度語之外就甚麼都不會說，根本不能溝通。
+@@@@
+@@@@
+[[image https://scp-jp-storage.wdfiles.com/local--files/file%3A7737619-127-ltey/6336857812_8a1ed3f2e4_c.jpg]]
+[[include :1nu:5ch-post-b]]
+[[include :1nu:5ch-post
+|num=13
+|name=無名
+]]
+你哪位啊！
+[[include :1nu:5ch-post-b]]
+[[include :1nu:5ch-post
+|num=14
+|name=◆SMu19Qz9V
+]]
+的確，完全不是我們所知的友梨佳妹。雖然用猜的，有可能是另一個同名同姓的人。原PO大概是在死靈術那邊用了逝者的名字之類的社會資料來指定要復活的靈魂也說不定。
+
+再增加一點情報，又或者使用逝者本人所持的物品來當觸媒應該就沒問題了吧。
+[[include :1nu:5ch-post-b]]
+[[include :1nu:5ch-post
+|num=15
+|name=◆wowowoxmn12
+]]
+[# >>14]嗚喔喔感謝指導！
+
+但是真的有人跟「真桑友梨佳」同名同姓嗎……？還要是印度人耶
+[[include :1nu:5ch-post-b]]
+[[include :1nu:5ch-post
+|num=16
+|name=無名
+]]
+該不會只是發音有像之類的吧
+[[include :1nu:5ch-post-b]]
+[[include :1nu:5ch-post
+|num=17
+|name=◆wowowoxmn12
+]]
+不不不～我已經指明是漢字了，不會有這個可能吧……
+嘛，再試一次好了
+
+這次用了「真桑友梨佳是自殺的」這個資料來作過濾，這樣的話絕對不會搞錯了吧。
+[[include :1nu:5ch-post-b]]
+= ・
+= ・
+[[include :1nu:5ch-post
+|num=48
+|name=◆wowowoxmn12
+]]
+死靈法術看來成功了！下一次來一個真正的友梨佳妹吧！
+[[include :1nu:5ch-post-b]]
+[[include :1nu:5ch-post
+|num=49
+|name=無名
+]]
+UP照片UP照片UP照片UP照片UP照片UP照片
+[[include :1nu:5ch-post-b]]
+[[include :1nu:5ch-post
+|num=50
+|name=◆wowowoxmn12
+]]
+搞甚麼鬼
+開始跳不知甚麼舞了
+@@@@
+@@@@
+[[image https://scp-jp-storage.wdfiles.com/local--files/file%3A7737619-128-u141/33456019175_9f06d16232_c.jpg]]
+[[include :1nu:5ch-post-b]]
+[[include :1nu:5ch-post
+|num=51
+|name=Neo Dramatic市川房枝
+]]
+蛤————www還有這種事喔？
+[[include :1nu:5ch-post-b]]
+[[include :1nu:5ch-post
+|num=52
+|name=◆wowowoxmn12
+]]
+試了5次了，全都是出印度人。我不行了
+[[include :1nu:5ch-post-b]]
+[[include :1nu:5ch-post
+|num=53
+|name=◆SMu19Qz9V
+]]
+這樣的確不對勁。去問一下復活了的那些真桑友梨佳吧
+總會有一個人會英文吧
+[[include :1nu:5ch-post-b]]
+[[include :1nu:5ch-post
+|num=54
+|name=無名
+]]
+友梨佳妹原來是印度人……？
+[[include :1nu:5ch-post-b]]
+
+[[include :1nu:5ch-post
+|num=54
+|name=◆wowowoxmn12
+]]
+找到一個在旅行社工作的真桑友梨佳了！就用英文和她說些甚麼吧！
+[[include :1nu:5ch-post-b]]
+= ・
+= ・
+[[include :1nu:5ch-post
+|num=90
+|name=◆wowowoxmn12
+]]
+果然有點奇怪。
+[[include :1nu:5ch-post-b]]
+[[include :1nu:5ch-post
+|num=91
+|name=◆SMu19Qz9V
+]]
+還想著總算回來了，到底怎麼了？
+[[include :1nu:5ch-post-b]]
+[[include :1nu:5ch-post
+|num=92
+|name=◆wowowoxmn12
+]]
+不，全都談過了，結果全部都絕對是「真桑友梨佳（用漢字寫的）」，而且全部都是自殺的。還真的有這種事？
+[[include :1nu:5ch-post-b]]
+[[include :1nu:5ch-post
+|num=93
+|name=Neo Dramatic市川房枝
+]]
+是分身嗎？
+不對，如果連國籍都不一樣的話那就真搞不清楚了。
+[[include :1nu:5ch-post-b]]
+[[include :1nu:5ch-post
+|num=94
+|name=◆SMu19Qz9V
+]]
+我想問個問題，原PO用死靈法術的時候有用到法術書或是技術書之類的嗎？
+死靈法典？薩滿系的那些？巫毒教的教典？還是殭屍之地佐賀[[footnote]]**譯注：** 《[*https://zh.wikipedia.org/zh-tw/%E4%BD%90%E8%B3%80%E5%81%B6%E5%83%8F%E6%98%AF%E5%82%B3%E5%A5%87 佐賀偶像是傳奇]》（日語：ゾンビランドサガ，又譯：殭屍之地佐賀）是由MAPPA、avex pictures、Cygames合作推出的原創電視動畫。[[/footnote]]？
+[[include :1nu:5ch-post-b]]
+[[include :1nu:5ch-post
+|num=95
+|name=◆wowowoxmn12
+]]
+是《用瑜伽教到你會！健康死靈大法》（圓融書房）（已禁止出版）。在二手書店買的。
+[[include :1nu:5ch-post-b]]
+[[include :1nu:5ch-post
+|num=96
+|name=◆SMu19Qz9V
+]]
+明白了，印度系的很多都大概是瑜伽術。
+
+如果總是召喚到不對的人，應該就是書本出事。瑜伽在梵語有「連結」的意思，在佛教是很重要的精神修行之一。我想是在從輪迴解脫的意義上把瑜伽跟死靈術連結在一起了。
+
+從輪迴解脫，說的不只是從生死解放出來這麼簡單。而是從現時所在的宇宙解放、或是從現世解放。東洋系的死靈術並不是我擅長的，所以我都只是用猜的，原PO大概是瑜伽力太強了，連到另一個宇宙去了，把那邊的「真桑友梨佳」也拉過來了吧。
+[[include :1nu:5ch-post-b]]
+[[include :1nu:5ch-post
+|num=97
+|name=◆wowowoxmn12
+]]
+嗯嗯？嘛，感覺來說是知道的。
+但是，如果掛了「真桑友梨佳是自殺」的過濾條件，還出到這麼多果然還是有點奇怪吧。無論哪個宇宙都有真桑友梨佳，這件事已經夠奇怪了，還要全部人死因都一樣，那就真的搞不懂了。
+[[include :1nu:5ch-post-b]]
+[[include :1nu:5ch-post
+|num=98
+|name=◆SMu19Qz9V
+]]
+這樣子嗎。對真實存在的人用死靈術叫出了另一個次元的同名存在，這樣的例子是有，但是像現在這樣子的還是第一次。這樣的話，說不定是「真桑友梨佳」本身有甚麼奇怪的地方。在這麼多的宇宙裡，全部人都同樣體驗了自殺……之類的？像是蜘蛛人那樣？
+
+總之，這次原PO在用死靈術喊婆的領域可是有大發現耶！認識的人應該都想知道。
+[[include :1nu:5ch-post-b]]
+[[include :1nu:5ch-post
+|num=99
+|name=Neo Dramatic市川房枝
+]]
+只不過，原PO現在打算怎麼辦
+現場有6個印度人耶
+[[include :1nu:5ch-post-b]]
+[[include :1nu:5ch-post
+|num=100
+|name=◆wowowoxmn12
+]]
+怎麼辦嗎
+叫回去的話也很可惜呢
+[[include :1nu:5ch-post-b]]
+= ・
+= ・
+[[include :1nu:5ch-post
+|num=121
+|name=◆wowowoxmn12
+]]
+先叫他們給我作咖哩好了
+[[include :1nu:5ch-post-b]]
+[[include :1nu:5ch-post
+|num=122
+|name=無名
+]]
+啊啊，直入主場呢
+[[include :1nu:5ch-post-b]]
+[[include :1nu:5ch-post
+|num=123
+|name=◆wowowoxmn12
+]]
+啊，不是配飯而是配饢那種嗎，嘛　我也喜歡，沒差
+[[include :1nu:5ch-post-b]]
+[[include :1nu:5ch-post
+|num=124
+|name=◆wowowoxmn12
+]]
+好辣好辣好辣辣死我了！！！！！！！！！！！低估她們的主場了！！！！我嘴巴好痛啊！！！！！！！！！！
+[[include :1nu:5ch-post-b]]
+[[include :1nu:5ch-post
+|num=125
+|name=Neo Dramatic市川房枝
+]]
+還真的有這種事www
+[[include :1nu:5ch-post-b]]
+[[include :1nu:5ch-post
+|num=126
+|name=◆wowowoxmn12
+]]
+啊————————————！！！！！！！！！！！！！
+[[include :1nu:5ch-post-b]]
+= ・
+= ・
+[[/div]]
+[[div_ class="ch_footer ch_buttons"]]
+[[div_ class="ch_nums"]]
+[[div_ class="ch_bt"]]
+全部顯示
+[[/div]]
+[[div_ class="ch_bt"]]
+前100
+[[/div]]
+[[div_ class="ch_bt"]]
+後100
+[[/div]]
+[[div_ class="ch_bt"]]
+最新50
+[[/div]]
+[[/div]]
+[[div_ class="ch_bs"]]
+[[div_ class="ch_bt" style="color: #18889f"]]
+★手機模式★
+[[/div]]
+[[div_ class="ch_bt" style="color: #ff8d2b"]]
+■回到討論版■
+[[/div]]
+[[div_ class="ch_bt" style="color: #3143b5"]]
+★ULA模式★
+[[/div]]
+[[/div]]
+[[/div]]
+[[/div]] 
+
+##red|…………####blue|怎麼了？####red|沒，只是想到這群傢伙比我們先一步接近真桑友梨佳的真相，就覺得不是味兒。####chocolate|這次是自殺之後再用死靈術召喚，那倒還好，如果把在生的「真桑友梨佳」召喚出來了的話不會更糟嗎？####blue|啊——確實。這樣說不定會是故意把其他宇宙消滅了呢。##
+
+
+[[div class="dc_divider_226338"]]
+@@@@
+[[/div]]
+++ 角度[89.2]
+
+[[<]]
+[[div class="email"]]
+[[div class="tofrom"]]
+**To:** KKODiuwo/912Aaae
+**From:** 犀賀六巳
+**Subject:** 關於[89.2]蛇之手的資料
+[[/div]]
+------
+
+蛇之手跟目前為止的組織都不一樣，他們利用透過圖書館在多個世間之間移動的方法對「真桑友梨佳」作出了積極的行動。他們的動向值得注意。
+[[/div]]
+[[/<]]
+
+
+[[div style="border:solid 2px #112211; background:#DDEEDD; padding:25px; margin-bottom: 25px;"]]
+@@@@
+
+[[size 150%]] //**真桑友梨佳**// [[/size]]
+
+[[>]]
+//**依舊被獄卒拋棄之人、自殺者們**//
+[[/>]]
+
+[[div style="overflow:auto"]]
+
+[[div style="border:solid 1px #112211; background:#EEF6EE; padding: 20px; margin-bottom: 3px;"]]
+[[=]]
+**概要**
+[[/=]]
+
+他們在眾多世界上都被獄卒見死不救。亦或是被迫赴死的存在。
+
+[[/div]]
+
+[[div style="border:solid 1px #112211; background:#EEF6EE; padding: 20px; margin-bottom: 3px;"]]
+[[=]]
+**情報**
+[[/=]]
+
+**特徵：** 「眾自殺者」是名為真桑友梨佳的存在。當中泰半為日本女性，極罕見者包括動物或電子存在等不屬人類的情形。無一例外，皆似生活於21世紀的時代。
+
+**性質：** 「眾自殺者」在觀測上存在於所有的世界，不論先天後天，皆為具備超常能力的人物。他們最終會自殺，並被SCP基金會收容。其自殺動機各異，有一部分為SCP基金會可見有似輔助其自殺的行動，理由不明，但推斷其自殺乃為基金會所計劃。[[footnote]] //如此所作所為絕不能饒。—M.P.// [[/footnote]]^^,^^[[footnote]] //不只是見死不救，甚至還推波助瀾，已經瘋到這樣了嗎。—Chris D. Puria// [[/footnote]]
+
+**歷史與相關勢力：** 從幾處世界中的SCP基金會截取的資料中，從他世界的資料發現了有「真桑友梨佳」之名。另外，每一項資料的描述欄皆寫上「SCP-XXXX-JP是於20██/██/██自殺身亡的真桑友梨佳小姐的屍體。」一句，基於所有資料皆有某種關聯的推測而進行調查，判明每一世界皆以在生者或自殺者屍體之形存在、名為「真桑友梨佳」的人物真實存在。
+
+**對策：** 在大多數的情形，與他接觸時，應有必要事先確認沒有當地的SCP基金會監視。[[footnote]] //不知為何基金會在這麼多的世界都對真桑友梨佳呈現到了這種程度的關注，他們有甚麼是我們不知道的？—坂本辰馬// [[/footnote]]此外，他也可能具有異常特性。事先從觀察等進行確認亦為要點。
+
+[[/div]]
+
+[[div style="border:solid 1px #112211; background:#EEF6EE; padding: 20px; margin-bottom: 3px;"]]
+
+[[=]]
+**觀察＆故事**
+[[/=]]
+
+我們觀察過了幾個真桑友梨佳。其中一個天生就有超常的能力。因為已經處於收容之下，所以就實行了回收的計劃。但是在到達他的收容間之前，他已經處於自盡的狀態。我們到現在都還在想，如果可以更早一點實行計劃的話，其他被收容的人還可以多救多少出來。想到這裡，儘是悔恨積鬱。[[footnote]] //每一個世界裡，獄卒的房間裡都肯定會為了令人基本上無法自殺而下了一番工夫，如果有自殺的話也必定會被他們衝過去制止。他究竟是怎樣自殺的？—O. San Franus// [[/footnote]]
+
+其次，則至少為普通的少女、普通的高中生，只過著普通生活的人。然而，被所愛之人近乎屈辱般拒絕之後，就在無間斷的平靜中從屋頂跳落自殺。SCP基金會回收之前，臨近火葬之際，回收部隊已經展開行動，帶來激烈的抵抗。最後沒能回收。很明顯是知道他的死而作出行動的。[[footnote]] //倫理委員會那些傢伙在這夥混帳面前都沒有意義嗎。—L. P. Movis// [[/footnote]]
+
+[[/div]]
+
+[[div style="border:solid 1px #112211; background:#EEF6EE; padding: 20px; margin-bottom: 3px;"]]
+
+[[=]]
+**疑點**
+[[/=]]
+
+無論是哪個世界，為何都會有名為「真桑友梨佳」的存在？「真桑」這一個姓氏人數多少會因世界線而異，沒有這個姓氏的世界線也當然存在。但是無論是哪個世界線都確認了有他的真實存在。在世界誕生的時候，是不是也就同時決定了「真桑友梨佳」這個存在也將會誕生？
+
+//就算如此，我們也不能無視他們被獄卒見死不救的事實。所有的「真桑友梨佳」都值得我們去接觸。—S. Shub//
+
+//但是我們所找得到的「真桑友梨佳」多數都已經在獄卒的監視之下了。這不會很困難嗎？—K.C.//
+
+//就算真的困難，我們還是得將拯救他們視為先決吧？在獄卒坐視他們死去之前先救出來，再讓他們成為我們的朋友。—K. Miller//
+
+= [# ＜另加31則資料＞]
+[[/div]]
+
+[[/div]]
+
+
+[[/div]]
+
+[[<]]
+[[div class="email"]]
+[[div class="tofrom"]]
+**致：** Sk⁇m55Mj@?mAAA6304
+**自：** 佐井賀 健
+**主旨：** Re:關於[89.2]蛇之手的資料
+[[/div]]
+------
+
+從資料所見，蛇之手的人員似乎想把真桑友梨佳拉入隊伍。由基金會的資料看來，「真桑友梨佳」也有時會得到特異功能，對他們的理念來說這樣做也是理所當然的事。憑他們可以使用圖書館，面對組織能力更勝一籌的基金會，可能仍可一拚。
+
+但是，現在蛇之手似乎也沒有注意到基金會的意圖，還有世界與「真桑友梨佳」之間的關聯。如果他們能佔先機，最好的時機也說不定就是現在。
+[[/div]]
+[[/<]]
+
+----
+++ 角度[33.0]
+
+[[<]]
+[[div class="email"]]
+[[div class="tofrom"]]
+**致：** Sk⁇m55Mj@?mAAA6304
+**自：** 佐井賀 健
+**主旨：** 關於艾爾瑪異教的資料
+[[/div]]
+------
+
+先生可以給這裡的資料再過目一次嗎？艾爾瑪異教似乎也在某程度上注意到了「真桑友梨佳」的存在。雖然只是一己之見，艾爾瑪跟蛇之手不同，作為組織的連繫並不強，換言之每個信徒各自會作出的行動都有不能預測的危險，需要注意。
+[[/div]]
+[[/<]]
+
+
+[[module css]]
+.fake_title {
+  font-size: 200%;
+  color: #6b4a2b;
+  padding: 0 0 0.25em;
+  margin: 0 0 0.6em;
+  border-bottom: 1px solid #6b4a2b;
+  font-weight: normal;
+}
+
+.fake_title p {
+  padding: 0;
+  margin: 0;
+}
+[[/module]]
+[[module CSS]]
+ .report-box2{ /* ---- Report Block 2---- */
+     margin: 1em 0;
+     padding: 0 1em;
+
+     background-color: #CEC9C3;
+     border: 2px solid #6b4a2b;
+
+     font-family: sansationregular,normal;
+
+}
+ .report-box2 hr{
+     background: #CEC9C3;
+}
+.report-box2 .scp-image-block .scp-image-caption {
+    background-color: #CEC9C3;
+    border-top: solid 1px #6b4a2b;
+}
+[[/module]]
+[[div class="fake_title"]]
+@@@@
+[[/div]]
+[[div class="fake_title"]]
+= **異世界跳躍候補目的地：3347 「星系執政中心‐01」**
+[[/div]]
+= ^^[[span style="font-family:明朝体"]]##6b4a2b|U設定：#58｜地域設定：地球｜語言設定：日語 ##[[/span]]^^
+[[div class="report-box2"]]
+
+@@@@
+@@@@
+[[include component:image-block
+|name=http://scp-jp-storage.wdfiles.com/local--files/file:6590894-31-ngpy/t
+|width=250px
+|align=right
+|clear=true
+|caption=星系執政中心‐01的景色
+]]
+[[size 150%]]##6b4a2b|**基礎概要**##[[/size]]
+
+##6b4a2b|**跳躍目的地名稱：** 星系執政中心‐01（總部）##
+└ 管理並營運多個星系的一個巨型組織的中心地帶。
+
+##6b4a2b|**所屬宇宙：** 宇宙9048##
+└ 雖擁有多個文明，當中卻存在以管理大局為名利用超常構築文明，橫跨諸多星系的巨型組織。
+
+##6b4a2b|**當地艾爾瑪規模：** Ⅱ##
+└ 雖認可以觀光為由進行跳躍，但嚴禁佈教活動。
+
+##6b4a2b|**從艾爾瑪跳躍有關的注意事項：** 有##
+└ 該中心會定期將視為不必要的住宅區以「都更」為名，使用衛星軌道上的現實稀釋炮，進行直接消除。該都更的清除對象為政策決定當下在場所有生命、物質，遊客亦不例外。都更會有寬限期，但舉凡從外部逃離的行動皆不可能進行，即使是以時空跳躍進行逃離亦會被阻止。因此，艾爾瑪呼籲艾爾瑪教徒切勿貿然向住宅區進行跳躍、移動。
+萬一被捲入都更，則仍可發送遺書。
+
+@@ @@
+[[div class="dc_divider_c__elma"]]
+@@@@
+[[/div]]
+@@ @@
+[[size 150%]]##6b4a2b|**當地介紹**##[[/size]]
+
+星系執政中心‐01是在名為「太陽」的恆星周圍公轉的岩石行星。在該宇宙為一個大型人類物種文明的根據地，由名為「SCP基金會」的組織支配眾多星系，兼為其高壓政制統治的中心地帶。星系執政中心‐01原名為「地球」，亦有「總部」之通稱。
+
+該宇宙最大的特徵為原屬研究機構的組織掌握實權，因此不論正常或超常皆在各種各樣科技處於高水平，現今亦有透過徵納並養成技術與人才領先科技前沿的態勢。由該種高科技水平，得以掌握1500個以上的行星系，建造中心及殖民地，現時擁有大量人口。單計星系執政中心‐01以內，人口數量亦已超過130兆。對人類物種文明而言，此數值為例外程度之大，因為實際上已形成諸多障礙，而會定期進行都更，以作清除。
+
+由SCP基金會的支配當初有所反彈，但該等反抗組織、國家現已被悉數鎮壓瓦解。SCP基金會目前處於極度腐敗的狀態，亦有透過捏造證據供詞進行控制及收容的事例。不建議在觀光途中進行積極介入。
+
+@@ @@
+[[div class="dc_divider_c__elma"]]
+@@@@
+[[/div]]
+@@ @@
+[[size 150%]]##6b4a2b|**地標**##[[/size]]
+
+基本上，跳躍者最先造訪的應該會是[[span class="ruby"]]費克托姆[[span class="rt"]]フィクトム[[/span]][[/span]]跳躍港。這個港口連接1347個主要中心、48422個主要宇宙殖民地，從另一次元而來的跳躍者也會在這裡辦理入國手續。這個港口也充滿了繁忙地穿過空間傳送門而來的船艦，在24小時內平均會有2億9500萬艘船通行。從絡繹不絕的船隻，足以窺見其國力強大。另外，也有一部分以設計及研究為業的跳躍者亦可以在此處觀察各式各樣的船隻，而在費克托姆跳躍港停留。請在不會造成身邊人困擾的情況下盡情欣賞景色。
+
+[[[SCP-2000|黃石特別自然保護區]]]是最早定下的特別自然保護區，是在星系執政中心‐01地表幾乎完全被建築物覆蓋之下，貴重的自然景貌受到保護的區劃，在特別自然保護區內會有超常生物與自然動物在野生環境生活。這些生態系因不同的特別自然保護區而異，每一個都是非常賞心悅目而備受歡迎的觀光地。即使如此，因為不會像動物園那樣飼養動物，而會有小機率下受傷的危險，艾爾瑪建議為確保安全聘用導遊。
+
+其他的世界內，也有可與SCP基金會相比的強力組織，而在該宇宙內，與SCP基金會正面對峙，抵抗到最後一刻的GOC最終的據點，浮游在大西洋上的要塞都市[[span class="ruby"]]恆茲[[span class="rt"]]ガンジル[[/span]][[/span]]，為紀念其陷落而重建成觀光名勝。當中的內部機構大部分至今仍然存在，通過申請即能得到實質承認。
+[[table style="width: 96%; margin: 0 10px;"]]
+
+[[row]]
+
+[[cell style="padding: 10px; border: 1px solid silver; width: 25%;"]]
+[[image http://scp-jp-storage.wdfiles.com/local--files/file%3A6590894-34-fp31/s width="98%"]]
+[[/cell]]
+
+[[cell style="padding: 10px; border: 1px solid silver; width: 25%;"]]
+[[image http://scp-jp-storage.wdfiles.com/local--files/file:6590894-32-csie/s width="98%"]]
+[[/cell]]
+
+[[cell style="padding: 10px; border: 1px solid silver; width: 25%;"]]
+[[image http://scp-jp-storage.wdfiles.com/local--files/file:6590894-33-524v/g width="98%"]]
+[[/cell]]
+
+[[/row]]
+
+[[row]]
+
+[[hcell style="padding: 10px; border: 1px solid silver; background-color: #f0f0f0;"]]
+^^費克托姆跳躍港^^
+[[/hcell]]
+
+[[hcell style="padding: 10px; border: 1px solid silver; background-color: #f0f0f0;"]]
+^^[[span class="ruby"]]良納德[[span class="rt"]]リャナド[[/span]][[/span]]特別自然保護區^^
+[[/hcell]]
+
+[[hcell style="padding: 10px; border: 1px solid silver; background-color: #f0f0f0;"]]
+^^舊要塞都市恆茲^^
+[[/hcell]]
+
+[[/row]]
+
+[[/table]]
+
+@@ @@
+[[div class="dc_divider_c__elma"]]
+@@@@
+[[/div]]
+@@ @@
+[[size 150%]]##6b4a2b|**體驗談、軼聞**##[[/size]]
+
+**宇宙883 地球 真桑友梨佳**
+我的興趣是在以跳躍觀光，踏足多個世界。也曾經有（在老家的時間軸上）最長三年沒回老家。
+
+在這觀光之旅當中，我有機會前往星系執政中心‐01到此一遊。當時，在費克托姆跳躍港迷路的時候好尷尬，更困擾的是在港口裡只能在官方登記的空間傳送門進行跳躍，沒有被允許進行轉移，手邊的手提終端機規格也沒有對應，在附近給遊客用的地圖也看到雲裡霧裡，到最後，就有一位女生給當時還在煩惱的我指了路。那位女生也居然跟我一樣名叫「真桑友梨佳」，在我的世界上「真桑」這個姓氏很罕見，只有100人以下，然後在這個世界上也很罕有，在全宇宙2京6000兆人口之中，這個姓也似乎不足1000人。然後連名字也一樣，所以覺得很有趣，然後在意氣相投之下，就一起逛景點，友誼就更加親密了。最後就交換了聯絡方法，等下次再見。
+
+再之後，也間中會再次來到這個世界，再一起走遍這個世界。
+
+但是，突然間，就來到竹與他永別的時候了。他成為了都更的對象。都更的對象有數十到數百億個人類。還要是每一天，都這樣子清除。因為是為了控制人口而作出的處置，也是無可奈何的，是這世界的規則。在這當中，他給我留下了遺言，就此死去。
+[[div class="blockquote"]]
+　真桑友梨佳，好久不見。還安好嗎？我雖然活得很好，但現在終於成為都更的對象了。在變成都更對象的時候，就想起了與你觀光時快樂的記憶。把我所不知道的母星趣味之處，還有另外有趣的世界告訴我的你，現在於我而言，感覺就如摰友。真的很感謝你。
+
+　那麼，在傳達感謝的同時，我想我現在開始應該會在現實稀釋炮照射而灰飛煙滅之前首先去死。簡單來說就是自殺。我想到這樣子作出了斷的理由有兩個。其一是「不想熬過都更之前的寬限期」，等死的感覺果然很恐怖。是一直處於受壓的狀態。再接下來有[[[SCP-3001|「現實稀釋是意識還在的同時身體漸漸稀釋」]]]的傳聞。實際上沒可能觀測得到這種情景，本應可以一笑置之，但是之後腦海就揮不去這種景象，就這樣在身體完全消散之後意識還會不會繼續存在，這件事也想得很深。我怕，我恐懼，所以就想在這之前先死去。
+
+　在我臨終，如果在行動完全沒有任何人認知得到的情況之下結束的話，會感到寂寞，所以就想寫這段話。我也給自己的父母寫了遺書，這樣想著，也交給友梨佳，這樣，我想友梨佳也會因此間接傳達得到我想向父母傳遞的遺書。「為對我養育劬勞，衷心感謝」我想這樣告訴他們。
+
+　如此一來，感謝你與我一同見識世界，也對你為送出這樣的遺書感到抱歉。感謝指教。
+[[>]]
+//——世上罕見的真桑友梨佳上//
+[[/>]]
+[[/div]]
+收到這份遺書之後，當我想過去和他的雙親見而的時候，他的父母也同樣在都更之下消失了。
+
+我想說的是，來這個世界觀光的人，不建議和當地的人結交朋友。我至今仍然沒能接受這件事，依然覺得荒謬。他絕對就不是消失了也可以的人類。但是他還是死了……所以如果好像我那樣在那裡交了朋友，終有一天，你的朋友也可能會像我的朋友一樣消失。所以我不能推薦在那裡交友。因為不想留下痛苦的思念。
+
+@@@@
+##gray|真桑友梨佳的屍體被基金會暗中帶出都更區劃，以極高的維安限制予以收容。上述消息追蹤困難。另外，該跳躍者在返鄉後，因為複數關係密切者及親友之訃聞而精神不穩，終於自盡。##
+
+[[/div]]
+
+[[<]]
+[[div class="email"]]
+[[div class="tofrom"]]
+**To:** KKODiuwo/912Aaae
+**From:** 犀賀六巳
+**Subject:** Re: 關於艾爾瑪異教的資料
+[[/div]]
+------
+
+艾爾瑪異教持有獨家的異次元跳躍技術，其潛在的危險也相當高。但是，以抵達女神艾爾瑪之境為理念的他們對這件事沒有積極出手的理由。應該不會像蛇之手那麼危險。
+
+但是，最後有加註的痕跡。恐怕是作為同伴的真桑友梨佳留下的。異世界跳躍目的地的真桑友梨佳，還有信艾爾瑪異教的真桑友梨佳，兩邊都自殺了。「真桑友梨佳」可能對自己的死有所自覺。
+
+如果同伴的真桑友梨佳有自殺的話，也說不定會是因為知道了某種的真相。疑問根本有增無減。
+[[/div]]
+[[/<]]
+
+----
+++ 角度[??.?]
+
+[[<]]
+[[div class="email"]]
+[[div class="tofrom"]]
+**To:** KKODiuwo/912Aaae
+**From:** 犀賀六巳
+**Subject:** 關於基金會文本加註部分
+[[/div]]
+------
+
+接下來，雖然讀過的資料也蠻多的，真桑友梨佳留下的資料看到下一份就是最後一份了。在這之前先稍為整理一下吧。
+
+GOC看來還沒完全搞清楚「真桑友梨佳」的事情。事實上，是基金會阻止真桑友梨佳被殺。但是，他們注意到這點應該是時間問題吧。到時要注意他們的動向。
+
+PAMWAC在內部是對「真桑友梨佳」的異常眾所周知，但是在組織性質上，還是每一個人各自各的進行調查而已。雖然是可能會有過激行動的危險。艾爾瑪異教也一樣。
+
+問題是在蛇之手。除了使用圖書館之外，他們對沒有異能的人類不甚關心。為了把一個真桑友梨佳納入麾下，甚至要將他從世界誘拐過來，由此可知。另外，如果是圖書館的話，也得同樣調查一下與黑皇后的關聯。
+
+
+
+佐井賀君，在整理真桑友梨佳氏遺留的檔案途中，我發現了看來像是基金會檔案一部分的情報。在關於「真桑友梨佳」的研究，基金會想必會有相當的優勢。我也想給您閱讀一下。
+[[/div]]
+[[/<]]
+
+
+
+
+[[div class="blockquote"]]
+@@@@
+**加註-1（0019/04/14）：** SCP-001-JP概念之嚴謹定義
+
+於0019/02/01，為探查SCP-001-JP概念，並以人為手法再現SCP-001-JP對象，已組編研究團隊。以下為研究團隊概要。
+
+[[div class="blockquote" style="border-radius: 10px; margin: 10px"]]
+[[=]]
+[[size 150%]]**SCP-001-JP研究團隊**[[/size]]
+
+
+**研究團隊總負責人：** 諾伯特．根特納（Norbert Gentner）
+隸屬於000000-000001α多元宇宙基金會聯盟
+
+[[size 120%]]**靈體學取向組**[[/size]]
+
+**組長：** 藏元 大斗（Daito Kuramoto）
+隸屬於128730-112389θ基金會，Site-81UO
+
+**副組長：** 織戶 鹿三郎（Kasaburou Oruto）
+隸屬於128730-112389θ基金會，Site-81UO
+
+另設研究員10名
+
+[[size 120%]]**神學及奇蹟學取向組**[[/size]]
+
+**組長：** 布魯．蒂埃里（Bulle Thierry）
+隸屬於FBA3248-111399ʊ基金會，戰術神學部
+
+**副組長：** 法維奧．利維拉尼（Favio Liverani）
+隸屬於FBA3248-111399ʊ基金會，戰術神學部
+
+另設研究員32名
+
+[[size 120%]]**咒術取向組**[[/size]]
+
+**組長：** 利河 文（Fumi Rigawa）
+隸屬於E239A1-348912ν基金會，Site-81ET
+
+**副組長：** 津馬 京依（Kei Tsuba）
+隸屬於E239A1-348912ν基金會，Site-81ET
+
+另設研究員5名
+
+[[size 120%]]**超自然工程及模因學取向組**[[/size]]
+
+**組長：** 馬丁．內格．勒布朗（Martin Neg Leblanc）
+隸屬於981259-347619ξ基金會，模因部
+
+**副組長：** 伊佐爾達．布爾杜科夫斯卡婭（Izolda Burdukovskaya）
+隸屬於D89D1B-210949ι基金會，燈塔部門
+
+另設研究員29名
+
+[[size 120%]]**超自然法律學取向組**[[/size]]
+
+**組長：** 葛紫釉（Ge Zi-you）
+隸屬於E23AA9-230109ρ基金會，拓樸法學部
+
+**副組長：** 廉雨萱（Lian Yu-xuan）
+隸屬於E23AA9-230109ρ基金會，電場法學部
+
+另設研究員17名
+
+**跨宇宙交涉負責人：** 泰勒．史邁斯（Tylor Smythe）
+隸屬於000000-000001α多元宇宙基金會聯盟
+
+**跨宇宙翻譯負責人：** 黎．黃「東尼」（Le Hoàng Tony）
+隸屬於000000-000001α多元宇宙基金會聯盟
+
+**研究設備負責人：** 弗朗西斯科．托蒂．巴拉（Francesco Totti Barra）
+隸屬於000000-000001α多元宇宙基金會聯盟
+
+[[/=]]
+----
+**目的：** 追查SCP-001-JP概念，以及人為再現SCP-001-JP對象
+
+**編制：** 以複數組別構成縱貫型團隊，從各方取向著手。
+
+**活動期：** 0019/04/14～未定
+
+**備考：** 該研究對象因為可以輕易預見與宇宙的存續及消滅密切相關，各組獲准生成「蘇爾茨巴赫式衰減型宇宙」[[footnote]]可以在任何時機藉由大擠壓造成QK級世界末日情景的人造宇宙。從981FF9-279619γ基金會的蘇爾茨巴赫博士在XACTS的應用研究之中發現，被認定為在時間槽啟動特定的瞬間移動型項目而生成的「過渡現象類存在」。詳情略。[[/footnote]]。為防意外資訊危害及模因危害，各組禁上直接共享研究內容。所有實驗應在經過研究設備責任人及研究團隊總負責人認可之下在合適環境進行。
+[[/div]]
+
+截至註記為止的研究成果概要如下。另外，實驗所用的「真桑友梨佳」若未特別指明，則一律為取自E239A1-348912β宇宙[[footnote]]此宇宙存在於從外部施加刺激時，能夠在生存狀態下進行自我複製的真桑友梨佳，並歸定為SCP-9723。[[/footnote]]的真桑友梨佳。
+
+||~ 實驗號次 ||~ 實驗內容及方法 ||~ 實驗組別 ||~ 結果及分析 ||
+||實驗#1|| 衰減宇宙崩潰設定於10小時後，投入來自他宇宙的真桑友梨佳自殺的屍體 || 初期實驗 || 10小時後崩潰，認定為他宇宙的自殺屍體不符合條件。||
+||實驗#2|| 衰減宇宙崩潰設定於10小時後，投入來自他宇宙的真桑友梨佳，並於衰減宇宙內殺害之 || 初期實驗 || 10小時後崩潰，認定條件必須以自殺為之。||
+||實驗#3|| 衰減宇宙崩潰設定於10小時後，投入來自他宇宙的真桑友梨佳，使其攝入誘發自殺的模因危害。|| 超自然工程及模因學取向組 || 10小時後崩潰，認定強制誘使自殺不屬條件所述的自殺。||
+||實驗#4|| 衰減宇宙崩潰設定於10小時後，投入來自他宇宙的真桑友梨佳，並從宇宙外施行誘使自殺的詛咒。|| 咒術取向組 || 10小時後崩潰，對於咒詛仍視同實驗#3結果。||
+||實驗#5|| 衰減宇宙崩潰設定於10小時後，投入來自他宇宙的真桑友梨佳，告知「為阻止宇宙崩潰，需要拉動扳機」並給予會炸膛的手槍 || 神學及奇蹟學取向組 || 手槍擊發，宇宙在真桑友梨佳死亡後10小時崩潰。||
+||實驗#6|| 衰減宇宙崩潰設定於10小時後，對部分研究員植入「實驗#6的真桑友梨佳已自殺」的記憶，並投入來自他宇宙的真桑友梨佳。|| 神學及奇蹟學取向組 || 10小時後崩潰，認定其他人物的認知與條件無關。||
+||實驗#7|| 衰減宇宙崩潰設定於10小時後，投入經由奇蹟法律學適用「自溺身亡的死亡證明書」的真桑友梨佳之屍體。|| 超自然法律學取向組 || 10小時後崩潰。||
+||實驗#8|| 衰減宇宙崩潰設定於10小時後，投入經由奇蹟法律學適用「服毒自殺的死亡證明書」的真桑友梨佳之屍體。|| 超自然法律學取向組 || 10小時後崩潰。||
+||實驗#9|| 衰減宇宙崩潰設定於10小時後，投入經由奇蹟法律學適用「自縊身亡的死亡證明書」的真桑友梨佳之屍體。|| 超自然法律學取向組 || 10小時後崩潰。||
+||實驗#10|| 衰減宇宙崩潰設定於10小時後，投入經由奇蹟法律學適用「自殺的屍檢證明書」的真桑友梨佳之屍體。|| 超自然法律學取向組 || 10小時後崩潰。||
+||實驗#11|| 衰減宇宙崩潰設定於10小時後，投入於自殺後生成真桑友梨佳所得的靈體。|| 靈體學取向組 || 10小時後崩潰。||
+||實驗#12|| 衰減宇宙崩潰設定於5小時後，投入迫使附身對象自殺的靈體附身狀態下的真桑友梨佳。|| 靈體學取向組 || 宇宙於對象自殺後5小時崩潰。||
+||實驗#13~25|| 衰減宇宙崩潰設定於5小時後，在宇宙內對真桑友梨佳進行複製，並各自依照實驗#1~12所述方式令其自殺。|| 所有組別 || 5小時崩潰，認定條件與真桑友梨佳在該宇宙內誕生與否無關。||
+||實驗#26~100014|| 衰減宇宙崩潰設定於5分鐘後，在宇宙內對真桑友梨佳進行複製，並令其陷入輕度憂鬱狀態。|| 神學及奇蹟學取向組 || 23人自殺，宇宙悉數崩潰。||
+|||||||| 如下284項實驗紀錄已儲存。||
+
+目前為止，仍未能成功阻止衰減型宇宙崩潰。另外，成為SCP-001-JP對象的真桑友梨佳必須完全出自當事宇宙的假說認為可信，現正考慮更改以往實驗方法。
+
+**加註-2：** 來自多元宇宙基金會聯盟理事會的通告
+
+有鑒於SCP-001-JP對宇宙影響重大，現告知多元宇宙基金會協約已從附件追加以下內容。
+
+・若未經跨宇宙運輸兩端宇宙的基金會同意，則嚴禁以SCP-001-JP對象為首的跨宇宙運輸。
+・為防範SCP-001-JP超宇宙規模的影響，未經多元宇宙基金會同意，嚴禁SCP-001-JP研究結果的跨宇宙共享。
+
+追加條款如上。詳情可參考夾附的通告文件。
+
+[[/div]]
+
+[[<]]
+[[div class="email"]]
+[[div class="tofrom"]]
+**致：** Sk⁇m55Mj@?mAAA6304
+**自：** 佐井賀 健
+**主旨：** Re:關於基金會文本加註部分
+[[/div]]
+------
+
+基金會就算投入了那麼豐富的陣容，看來也還是沒能捉摸得到「真桑友梨佳」這個存在的本質。
+
+這邊有一個意見——不過更像是提案，給基金會支援技術如何？我們還有一招是基金會還沒有的。
+[[/div]]
+[[/<]]
+
+[[<]]
+[[div class="email"]]
+[[div class="tofrom"]]
+**To:** KKODiuwo/912Aaae
+**From:** 犀賀六巳
+**Subject:** Re:Re:關於基金會文本加註部分
+[[/div]]
+------
+
+我也剛剛好想到這一點。財團卡關的地方是在沒有「停止世界末日的真桑友梨佳」這種範式案例。毫無頭緒之下只顧重覆實驗，要得到答案並不容易，但是只要看見一次成功的例子，就能從中得出解法。
+
+至少，身為我們同伴的真桑友梨佳是成功了。
+[[/div]]
+[[/<]]
+
+
+[[div class="dc_divider_310415"]]
+@@@@
+[[/div]]
+
+##red|喂喂，實驗也做太多了吧。####chocolate|為了思考宇宙存續的條件，總有一天會殺滿一整個宇宙人口那麼多的真桑友梨佳呢。####blue|如果這樣實驗下去也還沒能成功一次，果然還是跟那個沒關係吧？單憑一個人類就能決定宇宙生死，這果然還是很奇怪啊。####chocolate|如果是這樣的話，我想基金會應該也會理解這種結果吧？####blue|嘛，至少在我的宇宙不應該這樣。####red|只要能讓天秤朝著「我們所守護的宇宙」傾斜，就做甚麼都可以呢，這個偽善者的軍團。##
+
+= ・
+= ・
+= ・
+
+##red|現在看來重要的資料都大概看完了。真桑。到目前為止有想起些甚麼了嗎？就算是注意到甚麼，甚麼東西也好。####gray|不……還是不行。####red|這樣……沒辦法了，那今天就先到這裡為止吧？####blue|的確。真桑現在的身體狀況也不算完美，現在先專心養傷比較好。####red|現在還是不能怠慢的。除了真桑在圖書館落得半死不活的原因還沒搞清楚，連他跟「真桑友梨佳」的關聯也不知道。在明白了將來會怎樣之前，我想讓真桑先留在安全的地方。####chocolate|很好。我也覺得這樣就好。如果真桑妹妹再次被襲擊的話，可真的不知會發生甚麼事。基金會還有其他的組織對「真桑友梨佳」定下了怎樣的方針，在明白了這一點之前都還得慎重而行呢。####blue|那麼就放到我時間線的安全屋那邊吧？####chocolate|很好。真桑妹妹這樣沒問題嗎？####gray|沒問題，謝謝你們。####red|就這麼定了。我會跟其他的姊妹分享今天的事情。說不定會得到新的情報。##
+
+[[div class="dc_divider_226338"]]
+@@@@
+[[/div]]
+
+[[<]]
+[[div class="email"]]
+[[div class="tofrom"]]
+**致：** KKODiuwo/912Aaae
+**自：** 犀賀六巳
+**主旨：** 關於真桑友梨佳
+[[/div]]
+------
+= ・
+= ・
+只不過，我們對「真桑友梨佳」所知確實不少，但是要找出從這世界級的威脅得救的方法，還是不足夠。真桑友梨佳沒有自殺的世界會滅亡，而就這樣拿一個真桑友梨佳的名字給一個人然後讓他自殺，這樣都還是沒能阻止世界滅亡，就像基金會的實驗資料所示。同伴的真桑友梨佳留下的情報與全世界相比也微不足道了。
+
+懸念還不只如此。現在開始，阻止「真桑友梨佳自殺」的勢力將會湧現。例如信奉末世論的宗教、意欲掌握世界的那些惡意組織……。
+
+我們要先他們一步，儘快作出行動才行了。但是我們是貴精不貴多，活動範圍廣闊，人手還不夠多。該如何是好呢。
+[[/div]]
+[[/<]]
+
+
+
+
+
+[[div class="dc_divider_310415"]]
+@@@@
+[[/div]]
+
+##chocolate|那麼，真桑妹妹不在的時候就由這邊開始談一下我們的方針。####red|你注意到了嗎。####chocolate|要比較簡單地說，就是像「要把你軟禁起來」這樣的誘導，果然還是會看得出來。不覺得不自然嗎？你們本來對真桑妹妹還是帶著交友的心態，這場會議卻一直都是把他當成陌生人，明明是真桑妹妹帶過來的資料，卻沒有讓他說太多話。####red|這樣嗎。從基金會的資料看來，真桑是成為了SCP-001-JP對象的存在，這樣應該清楚了吧？####chocolate|的確如此。記憶和意識混亂不清，然後是衰弱以及曖昧不明的發言。這個與其說是襲擊，更加像是服藥過量的徵狀。####blue|是的。他可能已經忘了，本來今天我跟Crimson Red是有預定和他聚會的。我們知道他本來並不像是會自殺的人，我是在途中注意到了這次自殺跟他身為「真桑友梨佳」的事應該有甚麼關聯。####red|在真桑的時間線上被基金會誘使自殺，也可能是身為「真桑友梨佳」的事實而使得如此嗎。##
+
+##chocolate|基金會的檔案也有寫到那樣了，幾乎、不、所有的宇宙都可以這樣說了：「真桑友梨佳」是會自殺的。反過來說，只要真桑友梨佳不自殺，時間線就會消失的假說成立。之前也說了，這個假說的確是模糊的。說不定，不論時間線的存亡，真桑友梨佳也會自殺，又或是真桑友梨佳不自殺的時間線也不會滅亡，只是不能再被認知，這樣也有可能。有眾多的另外解答，也是同樣的思維。嘛，直覺來說，看來最初的假說倒是最正確的。所有宇宙發生的事件也難以想像與宇宙自身無關。####red|我大概也這樣想。##
+
+##blue|真桑出身的時間線是M-023，在2小前到了西曆2101年了。####chocolate|那邊沒事吧？####red|還沒消滅。不過，從此以後就真的不清楚了。可能明天開始就會從記憶永遠消失。####chocolate|不過，真桑妹妹會幫上大忙。####blue|沒錯。如果要採用「最符合直觀的」假說——「21世紀裡的真桑友梨佳自殺是時間線存續的條件」，真桑以後就成為「沒有自殺而超過了時限的真桑友梨佳」。這樣一來，不管M-023會不會毀滅，他也無疑成為了例外。####chocolate|如果時間線連同他一起消失的話？####red|與其他組織相比的情報優勢就會減少一筆。真桑提供的情報是取自多個時間線的，應該不會連那些也消失了吧。####chocolate|真桑妹妹果然還是一張好牌。##
+
+##red|回到正題吧。現在會跨越時間線的組織都在熱烈議論的話題「真桑友梨佳」，基金會、犀賀、PAMWAC還有艾爾瑪他們當中，我們可以佔到優勢的角度不多。但是作為黑皇后的真桑在這裡相當有用。####chocolate|尤其是熱衷於研究的基金會，想必會對他垂涎三尺。不管是情報，還是真桑本人，只要被看見了，就會被問了吧。####red|然後，同樣對「真桑友梨佳」的機制有所了解的傢伙也牽繫到了時間線的存亡。####chocolate|如果做得好的話，我們就能回到爸爸那邊了吧。####red|宇宙在天秤的其中一邊，基金會就會無所不用其極。但是，就是把Gears博士一個人交出來，卻做不到。####chocolate|接下來，現在之後得怎麼辦？####red|我們有情報。各位小姊妹的情報網是廣而淺的。單憑現有的情報，跟基金會也應該合不來，說不定會把我們騙了。####chocolate|對自己不知之處，知得很清楚呢。換言之，我們需要和人合作。####blue|但是又能和誰……？####red|蛇之手雖然好像可以合作，但是老實說又不想，他們對同在一個圖書館裡的我們隱瞞了這個情報。我們說不定還是可以在暗中籌劃的。對兼任蛇之手的姊妹也得停止分享情報了。####chocolate|艾爾瑪的話……似乎不會聽我們說呢。PAMWAC的話，如果靠得住，我就能把剩下的交給他們。####blue|Saiga的人們又如何呢？####red|沒問題嗎？犀賀派看來也是危險的傢伙呢。####blue|不，看來意外地不壞。他們的目標以拯救世界先行，以情報交換作為名目，我想他們會回答我們的。####chocolate|這樣會洩露我們的用意吧？####blue|是有這個風險，但是反過來，只要他們不會令時間線滅亡，我想這還是可以接受的。除此之外，Saiga整體看來不是人數不足嗎？####red|哈，還真的這樣。####blue|欸，說了些奇怪的事了嗎？####chocolate|不不不，晴海也變得堅強起來了不是嗎。沒有被Crimson Red影響到吧？####red|這樣不是在說我性格不好嗎。####chocolate|不是這樣嗎？####blue|那麼，今後的方針就是與犀賀派合作，對「真桑友梨佳」進行調查。##
+
+
+
+[[div class="dc_divider_226338"]]
+@@@@
+[[/div]]
+[[<]]
+[[div class="email"]]
+[[div class="tofrom"]]
+**致：** ?????????????
+**自：** Alison Chao
+**主旨：** 無主旨
+[[/div]]
+------
+
+##blue|敬愛的犀賀六巳：##
+
+##blue|圖書館中不知時日過，時光飛逝迅速驚人如斯。疏於交流之久，敢問是否安好？##
+
+##chocolate|由此，如事前通傳，就我們為「真桑友梨佳」有關情報共享之事，不知能否予以卓裁？我們與貴方，共同深入理解該存在之事，相信會對雙方大有裨益。##
+
+##red|謹此敬候佳音。**為共同拯救世界，**願可聯袂同行。##
+
+L.S.
+
+[[/div]]
+[[/<]]
+
+[[<]]
+[[div class="email"]]
+[[div class="tofrom"]]
+**致：** ?????????????
+**自：** 犀賀六巳
+**主旨：** Re:無主旨
+[[/div]]
+------
+
+親愛的Alison Chao：
+
+感謝鄭重來函。如此求之不得，謹此敬納美意。
+
+以敝人組織之小，若能得貴方通行圖書館相助，助力定當重大。為共享情報，此處已備[http://scp-jp.wikidot.com/corpse-corpus-hub 直接通路]。維安之事不須擔心。
+
+此處惟有不情之情，望能超越團體藩籬，相互坦誠以告。**縱使最終目的相異**，惟因我等所需之物理應一致。
+
+犀賀六巳
+[[/div]]
+[[/<]]
+
+
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+
+
+
+[[div class="dc_divider_309005"]]
+@@@@
+[[/div]]
+
+就說一下比較微觀一點的話吧。無論是基金會、犀賀派、還是黑皇后，橫渡宇宙之間，都有廣闊莫測的視野。「真桑友梨佳」這一件事的確是遍佈全宇宙的事態，各自為政應該無法達到真理。某一個組織失了道德而反覆實驗，另一個組織則為探虛實而開始共享情報。
+
+##gray|古木參天猶勝高樓，惟末端樹葉亦僅止巴掌之大。他們把真桑友梨佳一位一位地忘記，當成了一個集體的現象來看待。無論是已死的真桑友梨佳們，還是即將死亡的真桑友梨佳，也明明有著至死不渝的激情與虛無。那些都被忘掉了。##
+
+對。是很糟糕的事情。看見資料就能夠知道了。真桑友梨佳絕對不是沒有意志、猶如世界上一件零件的存在。在[[[http://scp-zh-tr.wikidot.com/scp-3823-jp | 某個世界]]]，對任誰都不會伸出援手的社會的無力感在笞責著他。在[[[http://scp-zh-tr.wikidot.com/scp-3423-jp | 另一個世界]]]，他對自身釀成的災禍心存恐懼；在[[[http://scp-wiki-cn.wikidot.com/scp-cn-2874 | 再另外一個世界]]]，他失去重要之人而大為悲慟；此外尚有[[[http://scp-zh-tr.wikidot.com/scp-3127-jp | 情結]]]使然、[[[http://scp-zh-tr.wikidot.com/scp-3060-jp | 虐待]]]使然、[[[http://scp-zh-tr.wikidot.com/scp-2527-jp | 嫉妒]]]使然、[[[http://scp-zh-tr.wikidot.com/scp-3901-jp | 窘迫]]]使然。當然，這都不是那些寥寥幾個詞語就能說盡的。
+
+##gray|我的一眾姊妹，表面上予以同情，心底卻另有盤算……雖然這樣想來好像是友好起來了，最後卻是落得軟禁。拯救世界的，毀滅基金會的，那是要去到了令一名少女自殺也得達成的目標。他們所見的就只是數據，任誰都沒有直接面對他本身。##
+
+「真桑友梨佳」如果是掌握世界命運的存在，基金會就猶如理所當然地「那就製作真桑友梨佳再殺死他，這樣追查掌握世界命運的方法吧」這樣子簡單地立下決定，在我所在的地方，幾通電郵就「殺死真桑友梨佳去拯救世界吧」這樣子立下決定了。如此令人目瞪口呆。
+
+
+
+[[<]]
+[[div class="email"]]
+[[div class="tofrom"]]
+**致：** Makuwa Yurika
+**自：** Makuwa Yurika
+**主旨：**
+[[/div]]
+------
+所以我們就是機關。被揭示了頗為零碎的情報，取得了相當的危機感。如果我照辦的話，就會被利欲薰心的他們任憑擺佈。他們若要拯救時間線／宇宙／世界，我們就拯救「真桑友梨佳」。這一次事件上，對他們也仁至義盡了。如果這個時間線連生出真桑友梨佳一個人都不行，那麼消失了也沒關係。你那邊也過得好嗎？
+[[/div]]
+[[/<]]
+
+[[<]]
+[[div class="email"]]
+[[div class="tofrom"]]
+**致：** Makuwa Yurika
+**自：** Makuwa Yurika
+**主旨：**
+[[/div]]
+------
+##gray|很好。因為處於軟禁狀態，所以也不至於被視為那麼大的危險。圖書館的人們還有想去拯救世界的人們開始針對「真桑友梨佳」展開共同調查了。嗯，他們當然也沒有想跟我要好。我想他們實際上也是相互競爭重要的情報、進度和助力，也是各懷鬼胎。共享直通資訊也只到表面為止而已。##
+
+##gray|如果是我們倆的話，可以窺見各個組織的深處。雖然不想騙人，但是我們才真的是人數最少的一邊。##
+@@@@
+@@@@
+@@@@
+##gray|對了，真桑本身對「真桑友梨佳」這件事怎麼想？你會覺得一名少女的死不知為何會跟世界的死連在一起，這會不會是真的，還有為甚麼會這樣想？##
+
+[[/div]]
+[[/<]]
+
+[[<]]
+[[div class="email"]]
+[[div class="tofrom"]]
+**致：** Makuwa Yurika
+**自：** Makuwa Yurika
+**主旨：**
+[[/div]]
+------
+我不知道呢。為甚麼不是傑克，不是花子，而要是真桑友梨佳？為甚麼不是死亡，而要是自殺？為甚麼會有時間限制？為甚麼屍體會容易出現異常？無論哪一方面，強行作出推敲，也難以理解或是接受。為甚麼就偏偏要是我們逃不出自殺的命運，這個也不知道。
+
+
+但是，真桑友梨佳並不是一個系統，自殺也不是一個程式。我們身為真桑友梨佳，自己的死也不應該由任何一個人控制，也不應該追隨著世界的命運而去赴死。雖然是拙見，但我是這樣想的。
+[[/div]]
+[[/<]]
+
+
+
+
+
+
+[[footnoteblock]]
+
+
+
+
+
+[[module css]]
+
+/* CSS Styles for SCP-JP 真桑友梨佳の提言 by KABOOM1103 */
+/* CSS Styles for SCP-JP WakabaContest 2022 Hub by hannyahara */
+/* CSS Styles for SCP-JP RookieContest 2020 Hub by ukwhatn */
+/* Licensed under CC BY-SA 3.0 */
+
+
+.warning-box {
+    max-width: 100%;
+    margin: 2em 0;
+    border: solid 2px #ea0032;
+    background-color: white;
+    text-align: left;
+}
+
+.warning-box.ratinglist .inner {
+    text-align: left;
+}
+
+.warning-box .heading {
+    width: 100%;
+    padding: 5px;
+    margin: 0;
+    background: #ea0032;
+    color: white;
+    font-size: 1.2rem;
+    line-height: 1.2rem;
+    font-weight: 700;
+    box-sizing: border-box;
+}
+
+.warning-box.green {
+    border: solid 2px seagreen;
+    background-color: #d1ed9a;
+    color: #665731;
+
+}
+
+.warning-box.green .heading {
+    background: #a3c162;
+    color: white;
+}
+
+.warning-box.green a {
+    color: darkgreen;
+}
+
+.warning-box.yellow {
+    border: solid 2px #ffcc00;
+}
+
+.warning-box.yellow .heading {
+    background: #ffcc00;
+    color: white;
+}
+
+.warning-box.yellow a {
+    color: #ffbb00;
+}
+
+.warning-box.lightblue {
+    border: solid 2px #178cce;
+}
+
+.warning-box.lightblue .heading {
+    background: #178cce;
+    color: white;
+}
+
+.warning-box.lightblue a {
+    color: #b5cde2;
+}
+
+.warning-box.blue {
+    border: solid 2px midnightblue;
+}
+
+.warning-box.blue .heading {
+    background: midnightblue;
+    color: white;
+}
+
+.warning-box blockquote {
+    max-width: 300px;
+    padding: 0 10%;
+    margin: 1em auto;
+    text-align: left;
+}
+
+.warning-box.blue a {
+    color: midnightblue;
+}
+
+.warning-box .inner {
+    padding: 5px 10px;
+}
+
+.alertbox {
+    width: 600px;
+    max-width: 100%;
+    margin: 1em auto;
+    border-top: solid 3px midnightblue;
+    border-bottom: solid 3px midnightblue;
+    background: rgba(46, 139, 87, 0.05);
+    text-align: center;
+}
+
+
+*/
+#page-content .articles .collapsible-block {
+    margin: 1em 0;
+}
+
+#page-content .articles .collapsible-block-folded a.collapsible-block-link,
+.article-heading {
+    color: midnightblue;
+    font-weight: bold;
+    display: block;
+    margin: 0.5em auto;
+    text-align: center;
+}
+
+#page-content .articles .collapsible-block-folded a.collapsible-block-link::after {
+    content: "\A（點擊以開啟）";
+    white-space: pre;
+    color: gray;
+    font-size: 10px;
+    text-decoration: none !important;
+}
+
+#page-content .articles .collapsible-block-folded a.collapsible-block-link::after:hover {
+    text-decoration: none !important;
+}
+
+#page-content .articles .collapsible-block-folded a.collapsible-block-link {
+    color: midnightblue;
+    font-size: 150%;
+    font-weight: bold;
+}
+
+#page-content .articles .collapsible-block-unfolded {
+    width: 100%;
+    border: solid 0.5px dimgray;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    text-align: center;
+}
+
+#page-content .articles .collapsible-block-unfolded-link {
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: dimgray;
+    line-height: 2;
+    font-size: 120%;
+    font-weight: bold;
+}
+
+#page-content .articles .collapsible-block-unfolded-link a {
+    color: white;
+    text-decoration: none !important;
+    width: 100%;
+    display: block;
+}
+
+#page-content .articles .collapsible-block-content {
+    margin: 3em 0.5em 1em 1em;
+}
+
+[[/module]]
+----
+[[include :scp-zh-tr:component:license-box
+|lang=JP
+|author=KABOOM1103、Kajikimaguro、MC_shrimp]]
+> **檔案頁面：** [http://scp-jp-storage.wikidot.com/file:3691434-21-6mkm ヒメバチ]
+> 
+> **圖源連結：** https://commons.m.wikimedia.org/wiki/File:Dolichomitus_imperator01.jpg#mw-jump-to-license
+> **圖像授權：** CC BY-SA 3.0
+> 
+> **圖像名稱：** File:Dolichomitus imperator01.jpg
+> **著作權持有者：** Jeffdelonge
+> **發表年份：** 2008
+> **圖像備註：**
+
+> **檔案頁面：** [http://scp-jp-storage.wikidot.com/file:7737619-127-ltey 真桑友梨佳（インド）]
+> 
+> **圖源連結：** https://www.flickr.com/photos/kkoshy/6336857812/in/album-72157604305390190/
+> **圖像授權：** CC BY 2.0
+> 
+> **圖像名稱：** Pretty Banjaran
+> **著作權持有者：** Koshy Koshy
+> **發表年份：** 2011
+> **圖像備註：**
+
+> **檔案頁面：** [http://scp-jp-storage.wikidot.com/file:7737619-128-u141 真桑友梨佳（インド2）]
+> 
+> **圖源連結：** https://www.flickr.com/photos/oneras/33456019175/
+> **圖像授權：** CC BY-SA 2.0
+> 
+> **圖像名稱：** Orange Butterfly
+> **著作權持有者：** Mario A. P.
+> **發表年份：** 2017
+> **圖像備註：**
+
+> **檔案頁面：** [http://scp-jp-storage.wikidot.com/file:6590894-31-ngpy 首都観光地区の景色]
+> 
+> **圖源連結：** https://search.find47.jp/ja/i/cVikh
+> **圖像授權：** CC BY-SA 4.0
+> 
+> **圖像名稱：** 東京都 都庁からの展望
+> **著作權持有者：** TsuruSho7
+> **發表年份：** 2017-11-05 17:08:19 +0900
+> **圖像備註：**
+
+> **檔案頁面：** [http://scp-jp-storage.wikidot.com/file:6590894-32-csie 特別自然保護区]
+> 
+> **圖源連結：** https://search.find47.jp/ja/i/fh5bP
+> **圖像授權：** CC BY-SA 4.0
+> 
+> **圖像名稱：** 沖縄県 名蔵湾
+> **著作權持有者：**
+> **發表年份：** 不明
+> **圖像備註：**
+
+> **檔案頁面：** [http://scp-jp-storage.wikidot.com/file:6590894-33-524v 要塞都市ガンジル跡地]
+> 
+> **圖源連結：** https://search.find47.jp/ja/i/XL3FE
+> **圖像授權：** CC BY-SA 4.0
+> 
+> **圖像名稱：** 千葉県 夕暮れ時の東京
+> **著作權持有者：** moja
+> **發表年份：** 2017-09-18 17:11:36 +0900
+> **圖像備註：**
+> 
+> **檔案頁面：** [http://scp-jp-storage.wikidot.com/file:6590894-34-fp31 フィクトム跳躍港]
+
+> **圖源連結：** https://commons.wikimedia.org/wiki/File:Pseudo_Kleinian_OpenCL_214854124_25K.jpg
+> **圖像授權：** CC BY-SA 4.0
+> 
+> **圖像名稱：** File:Pseudo Kleinian OpenCL 214854124 25K.jpg
+> **著作權持有者：** PantheraLeo1359531
+> **發表年份：** 2019年7月25日08:48
+> **圖像備註：**
+> 經過局部裁剪，並使用Google slide調整亮度。
+
+> **檔案頁面：** [http://scp-jp-storage.wikidot.com/file:6903570-36-jkil コウプス・コウパス プレイスホルダー]
+> 
+> **圖源連結：** http://scp-jp-storage.wikidot.com/file:6903570-36-jkil
+> **圖像授權：** CC BY-SA 3.0
+> 
+> **圖像名稱：** corpse corpus placeholder
+> **著作權持有者：** SealBaby-V
+> **發表年份：** 2023
+> **圖像備註：**
+> 使用以下圖像製成。
+> 
+>> **圖源連結：** http://scp-wiki.wdfiles.com/local--files/dr-mackenzie-s-sketchbook/SCP-Logo-2400.png
+>> **圖像授權：** CC BY-SA 3.0
+>> **圖像名稱：** Logo SCP Foundation
+>> **著作權持有者：** [[*user Aelanna]]
+>> **發表年份：** 2011
+
+> **圖源連結：** http://scp-jp.wikidot.com/yamisushi-logo
+> **圖像授權：** CC BY-SA 4.0
+> 
+> **圖像名稱：** 闇寿司　ロゴマーク
+> **著作權持有者：** tutuji
+> **發表年份：** 2020
+> **圖像備註：**
+
+> **檔案頁面：** [http://scp-jp-storage.wikidot.com/file:7737619-125-1fdm 真桑友梨佳(アライグマ)]
+> 
+> **圖源連結：** https://commons.wikimedia.org/wiki/File:Procyon_lotor_in_Higashiyama_Zoo_-_3.jpg
+> **圖像授權：** CC BY-SA 4.0
+> 
+> **圖像名稱：** Procyon lotor in Higashiyama Zoo - 3.jpg
+> **著作權持有者：** KKPCW（Kyu3）
+> **發表年份：** 2015
+> **圖像備註：**
+[[include :scp-zh-tr:component:license-box-end]]
