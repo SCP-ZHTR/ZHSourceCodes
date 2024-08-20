@@ -1144,6 +1144,48 @@ SCP-ZH-???「儒」：兼具孔子與阿爾伯特愛因斯坦兩種人格的活�
 |expiry=06/2047
 ]]
 [[/tab]]
+[[tab 行動代號「倒駕慈航」紀錄摘要]]
+[[div class="content-type-description-2"]]
+
+[[table style="width: 100%;"]]
+[[row style="font-weight: bold; color: #fff; background-color: #666;"]]
+[[cell style="padding: 0 2px; width: 50%;"]]
+名稱
+[[/cell]]
+[[cell style="padding: 0 2px; width: 25%; text-align: center;"]]
+問世時間
+[[/cell]]
+[[cell style="padding: 0 2px; width: 20%; text-align: center;"]]
+教授執筆
+[[/cell]]
+[[cell style="padding: 0 2px; text-align: center;"]]
+評分
+[[/cell]]
+[[/row]]
+[[/table]]
+
+[[/div]]
+
+[[div class="content-type-description"]]
+
+[[module ListPages order="name" prependLine="[[include component:listpages-table]]" perPage="40" appendLine="[[/table]]" category="-fragment, -prime"  separate="false" tags="+2024中元恐怖 -中心 +scp" rss="Most Recently Created"]]
+[[row]]
+[[cell style="vertical-align: top;"]]
+%%title_linked%%
+[[/cell]]
+[[cell style="vertical-align: top; text-align: justify;"]]
+%%created_at|%Y年%m月%d日 %H:%M|agohover%%
+[[/cell]]
+[[cell style="vertical-align: top; text-align: left;"]]
+%%created_by_linked%%
+[[/cell]]
+[[cell style="vertical-align: top; text-align: justify;"]]
+%%rating%%
+[[/cell]]
+[[/row]]
+[[/module]]
+[[/div]]
+[[/tab]]
 [[/tabview]]
 
 [[footnoteblock title="備註"]]
