@@ -1,6 +1,6 @@
 [[include component:scp-meta-title-hiding]]
 [[include info:start]]
-標題： SCP-ZH-737
+標題：SCP-ZH-737 - 向是「新建項目」
 作者：[[*user Hildegardis]]
 [[include info:end]]
 
