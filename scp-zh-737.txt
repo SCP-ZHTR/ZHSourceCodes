@@ -136,7 +136,7 @@ function decrypt() {
 [[include :scp-wiki:component:earthworm
 | first=false | last=false | hub=yes
 | previous-url=/SCP-ZH-715 | previous-title=梅是「門禁」
-| next-url=/SCP-ZH-754 | next-title=暖是「XXXX」
+| next-url=/SCP-ZH-754 | next-title=暖是「您的話語」
 | hub-url=/zhongyuan-2024 | hub-title=「早梅詩」
 ]]
 
