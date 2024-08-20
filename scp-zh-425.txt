@@ -119,7 +119,7 @@
 
 
 
-[[include component:image-block name=https://imgur.com/Cqa1MTF.jpg| caption=[[span id="inviz3"]]最初[[/span]][[span id="inviz1"]]發現時[[/span]][[span id="inviz2"]]的[[/span]][[span id="inviz4"]]SCP-ZH-425[[/span]]| align=right]]
+[[include component:image-block name=https://i.imgur.com/Cqa1MTF.jpg| caption=[[span id="inviz3"]]最初[[/span]][[span id="inviz1"]]發現時[[/span]][[span id="inviz2"]]的[[/span]][[span id="inviz4"]]SCP-ZH-425[[/span]]| align=right]]
 
 [[span id="inviz2"]]**項目編號：**[[/span]] [[span id="inviz8"]]SCP-ZH-425[[/span]]
 
