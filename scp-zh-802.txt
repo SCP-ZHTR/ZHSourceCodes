@@ -1,0 +1,13 @@
+[[include :scp-zh-tr:theme:basalt darkmode=a|wide=a|hidetitle=a]]
+[[include :scp-zh-tr:component:betterfootnotes]]
+[[include info:start]]
+標題： SCP-ZH-802 利刃所向
+作者：[[*user Semibreve]]
+
+投稿“地”元素
+「不朽」
+[[include info:end]]
+
+[[module ListPages category="fragment" parent="." limit="1" order="created_at" offset="@URL|0"]]
+%%content%%
+[[/module]]
