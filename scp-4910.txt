@@ -1,0 +1,47 @@
+[[include component:scp-meta-title-hidding]]
+[[include info:start]]
+**原文：**[https://scp-wiki.wikidot.com/scp-4910 SCP-4910 - 齜笑魔]
+**作者：**[[*user S D Locke]]（重寫者）、[[*user Flumswack]]
+**譯者：**[[*user CSZ87p]]
+[[include info:end]]
+
+[[include component:image-block name=https://scp-wiki.wdfiles.com/local--files/scp-4910/smile.png|caption=唯一錄製到SCP-4910的鏡頭 -- 在影像捕獲當下立即損毀|width=300px]]
+
+**項目編號：** SCP-4910
+
+**項目等級：** Keter
+
+**特殊收容措施：**當前該異常處於逃逸狀態。MTF-ε 「玄色提爾鋒」將對任何目擊事件做出響應。鑒於其傳染性質及低價研究性，已授權對該實體使用致命武器。受害者也應同樣地被施予無差別處決。
+
+倘若從調遣任務返歸的特工身上發現到擁有過度齜嘴咧笑，或多次展現笑容之行爲，則應當透過火力將其無效化，並將其澆泡在專用的鹽酸化合物中 （HF/PURE）。一旦殘餘的肉漿停止活動，便可將其運出場外進行焚毀。
+
+倘若人員在遭遇受影響者後深感不適，建議立即尋獲醫療援助：手術治療能在初期階段（1-2小時）起效。然而，當其下半身開始生長無數的齲洞時（3-4小時），對於其痛苦方面的控制將完全不再奏效。
+
+**描述：**一種掠食性齒類四足動物，自1886年以來在多個大陸上擁有百來次的目擊報告。具體細節不詳：目擊者都無一例外地喪命于其效應 -- 主要為牙齒過度地迅速生長，從而抑制了他們能清晰表達語言的能力。任何記錄設備也都因關鍵部件長出牙本質而立即摧毀。相關的藝術描繪也相當千變萬化，但全都聚焦於各式各樣的牙齒和與其相連的齒齦之融合物。
+
+SCP-4910似乎能區分那些不知曉其特性之人 -- 通常為平民，並以他們為食；以及那些專門嘗試捕捉或傷害它的人，例如：來自世俗及超自然組織的成員，並將他們視為食道增衍之目標。
+
+雖然在大多數方面與標準受害者大相徑庭，但那些被選作增衍目標的人會充當SCP-4910異常特性的載體。
+
+先前的58次逮捕嘗試均未能成功，當中涉及了嚴重的齒類暴力、內出血及傷亡。十三名MTF-ε的特工在行動中失蹤。七人在被施予安樂死後[數據刪除]牙菌斑。五人喪命於變形性自我蠶食。
+
+[[footnoteblock]]
+
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[SCP-4909]]] | SCP-4910 | [[[SCP-4911]]] >>
+[[/=]]
+[[/div]]
+
+[[include :scp-zh-tr:component:license-box
+|author=S D Locke and Flumswack
+|translator=CSZ87p
+]]
+=====
+> **文件名：**smile.png
+> **名稱：**Periodontitis Crónica Severa
+> **圖像作者：**AGUSTIN ZERON
+> **授權協議：**Public Domain
+> **來源鏈接：** [https://commons.wikimedia.org/wiki/File:Periodontitis_Cr%C3%B3nica_Severa.JPG Wikimedia Commons]
+=====
+[[include :scp-zh-tr:component:license-box-end]]

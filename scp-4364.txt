@@ -1,0 +1,57 @@
+[[include component:scp-meta-title-hiding css-style=classic]]
+[[include info:start]]
+**原文：**[https://www.scpwiki.com/scp-4364 SCP-4364 - 何不食肉糜]
+**作者：**不詳（備注：原作者已自刪賬號）
+**譯者：**[[*user CSZ87p]]
+[[include info:end]]
+
+**項目編號：**SCP-4364
+
+**項目等級：**Euclid
+
+**特殊收容措施：**SCP-4364將收容於標準人形收容間内，並放置於一張醫療床上。每日透過靜脈注射療法以維持對項目的外圍腸外營養供給。任何/所有由SCP-4364提出的食物請求須立即被滿足。
+
+一旦SCP-4364死亡，應進行全面屍檢並派遣一組探索隊進入SCP-4364體內。
+
+**描述：**SCP-4364為一名28嵗的西非裔男性人類，對本傑明·福斯特這一名字做出響應。SCP-4364身高達1.8米，體重為34.5公斤。其身體顯示出極度營養不良和消瘦跡象，這當中包括皮下可見的肋骨、極度缺乏肌肉質量及能量水平低下。SCP-4364自述其食慾為「無法滿足」，並且會在清醒時的大部分時間試圖食入任何其認為可被食用的物品。SCP-4364在食入了通常對人體有害的物質時，不曾表現出任何預期的負面效果。
+
+儘管SCP-4364幾乎不間斷地攝取養分，但自收容以來體重卻一直在下降。透過誘導SCP-4364嘔吐來檢查其胃中的內容物：未發現任何食物或部分消化的物質；僅有大量的膽汁及血液。
+
+SCP-4364的身體擁有多處紋身，最顯著的是位於其胃部上方的一個可活動墨水人仔。當SCP-4364進食時，該人仔的腹部會膨脹，體積也隨之增大，並做出心滿意足的表情。除了SCP-4364本身的實際質量外，該紋身的大小似乎沒有上限，並且經常會完全覆蓋SCP-4364身上的其他圖案。SCP-4364身上的其他紋身展示了各種各樣的數字，推測這些數字為某種比例值。這些比例值為23:20、15:27及6:19-20。SCP-4364的右前臂上還印有一個睡覺的小型熊貓紋身。
+
+[[html]]
+<head>
+<style>
+body {
+color: rgb(51, 51, 51);
+font-family: verdana, arial, helvetica, sans-serif;
+font-size: 12.8px;
+line-height: 18.05px;
+}
+</style>
+</head>
+<body>
+<div><strong>附錄4364/1：</strong>於2018/██/01對SCP-4364展開手術以觀察其胃部情況。結果發現SCP-4364缺乏胃部，反之由一個僅能從體內觀察到，并且深度無法估量的圓形開口所取代。一個小型深度追蹤器已投入進該洞口内。截至本檔案撰寫時，該追蹤器已下降至<span id="count">2347</span>米之深。手術留下的疤痕組織並未在SCP-4364的胃部紋身上顯現。</div>
+<script type="text/javascript">
+ var x = 2347;
+ setInterval(function() {
+     x += 32;
+     document.getElementById("count").innerHTML = x;
+ }, 1000);
+</script>
+</body>
+[[/html]]
+
+[[footnoteblock]]
+
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[SCP-4363]]] | SCP-4364 | [[[SCP-4365]]] >>
+[[/=]]
+[[/div]]
+
+[[include :scp-zh-tr:component:license-box
+|author=(user deleted)
+|translator=CSZ87p
+]]
+[[include :scp-zh-tr:component:license-box-end]]
