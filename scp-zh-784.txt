@@ -1,3 +1,4 @@
+[[include component:scp-meta-title-hiding css-style=classic]]
 [[include :scp-wiki:theme:black-highlighter-theme]]
 [[include :scp-wiki:component:toggle-sidebar-bhl]]
 [[include :scp-wiki:component:centered-header-bhl]]
