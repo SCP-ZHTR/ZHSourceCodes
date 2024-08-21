@@ -1,0 +1,39 @@
+[[include :scp-wiki:theme:black-highlighter-theme]]
+[[include :scp-wiki:component:toggle-sidebar-bhl]]
+[[include :scp-wiki:component:centered-header-bhl]]
+
+[[module CSS]]
+@import url("https://cdn.jsdelivr.net/npm/chiron-sung-hk-webfont@1.0.14/css/vf.min.css");
+[[/module]]
+
+[[include info:start]]
+作者：[[*user helloahuman]]
+篇名：SCP-ZH-784 - 一是「意識流」
+
+所有所使用的媒體（包括聲音，圖片等），除本文的背景圖片（CC-BY-SA）外皆由本人製作。
+[[include info:end]]
+
+**項目編號：**SCP-ZH-784
+
+**項目等級：**Ágnōstos
+
+**分級備忘錄 - Ágnōstos：**此分級用於標示不能在常態結構中描述的異常。這類異常將會交由形意部處理。形意部是專門處理不可知論異常的機密部門。有關形意部的更多資訊需由5級權限讀取。
+
+**特殊收容措施：**由形意部維持。
+
+**描述：**SCP-ZH-784無法在常態空間中描述。若需得知更多資訊，人員可嵌入不可知論結構中。門徑將置於下方。
+@@ @@
+[[div class="blockquote"]]
+
+[[=]]
+[[size 125%]]**嵌入警告**[[/size]]
+
+你將要嵌入不可知論結構，你可能會承受不可知論式的各種危害，如語義崩壞，導致自我意識的喪失。請在嵌入之前尋求直屬領導的同意，並在嵌入前完成對應的皮膚過敏測試。如果你仍然願意嵌入，請繼續。
+@@ @@
+@@ @@
+@@ @@
+[[size 150%]]
+[[a style="font-family: "Chiron Sung HK WS", serif !important; text-shadow: rgb(223, 115, 256) 1px 0 7.5px; font-weight: 900;" href="http://scp-zh-tr.wikidot.com/fragment:scp-zh-784-1"]]嵌入[[/a]]
+[[/size]]
+[[/=]]
+[[/div]]
