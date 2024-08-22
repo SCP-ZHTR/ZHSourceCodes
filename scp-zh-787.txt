@@ -333,6 +333,6 @@
 [[include :scp-wiki:component:earthworm
 | first=false | last=false | hub=yes
 | previous-url=/SCP-ZH-784 | previous-title=一是「意識流」
-| next-url=/SCP-ZH-792 | next-title=開是「XX」
+| next-url=/SCP-ZH-792 | next-title=開是「鯨吞」
 | hub-url=/zhongyuan-2024 | hub-title=「早梅詩」
 ]]
