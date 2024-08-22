@@ -160,7 +160,7 @@ SCP-ZH-754-1操作著室內的電腦，自從發現至今，已被觀察到僅�
 [[include :scp-wiki:component:earthworm
 | first=false | last=false | hub=yes
 | previous-url=/SCP-ZH-737 | previous-title=向是「新建項目」
-| next-url=/SCP-ZH-784 | next-title=一是「XXX」
+| next-url=/SCP-ZH-784 | next-title=一是「意識流」
 | hub-url=/zhongyuan-2024 | hub-title=「早梅詩」
 ]]
 

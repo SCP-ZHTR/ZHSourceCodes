@@ -325,3 +325,11 @@ Anderson Smith挖出了自己已經[[span class="info"]][抽象錯誤][[/span]]�
 [[/div]]
 
 [[/div]]
+
+@@ @@
+[[include :scp-wiki:component:earthworm
+| first=false | last=false | hub=yes
+| previous-url=/SCP-ZH-754 | previous-title=暖是「您的話語」
+| next-url=/SCP-ZH-787 | next-title=枝是「鐘點」
+| hub-url=/zhongyuan-2024 | hub-title=「早梅詩」
+]]
