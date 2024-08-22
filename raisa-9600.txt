@@ -868,6 +868,9 @@ padding: 0;
 div.creditButtonStandalone>p>a::before, div.rate-box-with-credit-button .creditButton>p>a::before {
     background-color: rgb(240 240 244) !important;
 }
+div.creditButtonStandalone>p>a::after, div.rate-box-with-credit-button .creditButton>p>a::after {
+    background-color: rgb(0 0 0) !important;
+}
 [[/module]]
 
 [[include :scp-zh-tr:component:listusers-1 users="."]]
