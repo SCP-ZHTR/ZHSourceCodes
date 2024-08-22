@@ -1,0 +1,43 @@
+[[module css]]
+#header h1, 
+#header h2, 
+#page-title,
+div.page-watch-options,
+span.printuser  {
+  display: none;
+}
+
+#side-bar a:link,
+#side-bar a:visited,
+#side-bar .heading,
+#top-bar a:link,
+#top-bar a:visited {
+  color: transparent;
+}
+
+#header {
+    background: none;
+}
+[[/module]]
+
+[[div style="padding-bottom:40em;"]] 
+
+[[/div]]
+
+
+
+[[include :scp-wiki:component:earthworm
+| first=false | last=false | hub=yes
+| previous-url=/scp-zh-787 | previous-title=枝是「鐘點」
+| next-url=/scp-zh-809 | next-title=冰是「XXX」
+| hub-url=/zhongyuan-2024 | hub-title=早梅詩 中心頁
+]]
+
+
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< | [*/zh-whale-hub 測量鯨魚的長度] |
+
+<< @@              @@[[[scp-zh-xxw|-791]]] | @@              @@-792 | @@              @@[[[scp-zh-xxy|-793]]] >>
+[[/=]]
+[[/div]]

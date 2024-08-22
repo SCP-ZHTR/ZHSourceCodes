@@ -1,0 +1,612 @@
+[[include :scp-zh-tr:theme:scp-offices-sigma]]
+[[module css]]
+:root {
+  --cony-color: #eeeed8;
+  --fn-color: #91b399;
+}
+[[/module]]
+[[=]]
+[[div style="background: url(https://i.imgur.com/2a0sWTD.png) center no-repeat; background-size: 60%; background-color: black; border: solid 5px #d10519; float: center; padding: 1px 15px; box-shadow: 0 1px 3px rgba(0,0,0,.2);"]]
+[[div style="color: #ff5c48; text-shadow: -1px 1px 0 black, 1px 1px 0 black, 1px -1px 0 black, -1px -1px 0 black;"]]
+[[size x-large]] **來自基金會模因工程部門與超形上學部的聯合通知** [[/size]]
+[[/div]]
+----
+##white|致各站點：##
+
+##white|本文件遭受一__[[a href="/viken-k-arts" style="color: yellow;"]]混亂級[[/a]]__資訊體竄改，且其效應或已滲透+1至+2敘事疊層。如看到此警告，__切勿__與下文互動，並__完全__切斷終端連接，以及儘快向駐站危險物質收容聯絡（HMCL）監察員通報受污染終端。##
+
+##white|不要對終端附近無名狀之物產生好奇心，不要去嗅那氣味。__離開__。##
+[[/div]]
+[[/=]]
+@@ @@
+@@ @@
+[[div class="cony2"]]
+[[collapsible show="我已接種SCP-ZH-792模因疫苗"]]
+@@ @@
+@@ @@
+@@ @@
+
+（文件版本：今天 6/179664 ）
+
+[[div style="border:solid 1px #999999; background:#f2f2c2; padding:5px; margin-bottom: 10px;"]]
+[[=]]
+++++ 來自基金會紀錄及資訊安全管理部的通知
+
+由於本文件正被大量用戶編輯，瀏覽時或存有卡頓。請點擊［加載］以刷新下文。
+
+-- Mars.aic
+[[/=]]
+[[/div]]
+
+[[div]]
+[[include :scp-zh-tr:component:anomaly-class-bar-source
+|item-number= ZH-792
+|clearance= 3
+|container-class= esoteric
+|secondary-class= skótos
+|secondary-icon= https://scp-wiki.wdfiles.com/local--files/chaos-arts/icon-CC-Skotos.svg
+|disruption-class= vlam
+|risk-class= warning
+]]
+[[include :scp-zh-tr:component:acs-peppo-split
+|object= safe
+|object-image= https://scp-wiki.wdfiles.com/local--files/component%3Aanomaly-class-bar/safe-icon.svg
+|object-color= safe
+|esoteric-color= thaumiel
+]]
+[[/div]]
+
+[[table style="width: 100%; margin-top:1em;"]]
+[[row]]
+[[cell style="border-bottom: 1px solid #AAA; border-right: 1px solid #AAA; text-align: center; width: 25%;"]]
+[[size 90%]]**負責站點**[[/size]]
+[[/cell]]
+[[cell style="border-bottom: 1px solid #AAA; border-right: 1px solid #AAA; text-align: center; width: 25%;"]]
+[[size 90%]]**站點主管**[[/size]]
+[[/cell]]
+[[cell style="border-bottom: 1px solid #AAA; border-right: 1px solid #AAA; text-align: center; width: 25%;"]]
+[[size 90%]]**首席研究員**[[/size]]
+[[/cell]]
+[[cell style="border-bottom: 1px solid #AAA; text-align: center; width: 25%;"]]
+[[size 90%]]**負責機動特遣隊**[[/size]]
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell style="border-right: 1px solid #AAA; text-align: center; width: 25%;"]]
+[[size 80%]] Site-ZH-42 [[/size]]
+[[/cell]]
+[[cell style="border-right: 1px solid #AAA; text-align: center; width: 25%;"]]
+[[size 80%]] N/A [[/size]]
+[[/cell]]
+[[cell style="border-right: 1px solid #AAA; text-align: center; width: 25%;"]]
+[[size 80%]] **［數據丟失］** [[/size]]
+[[/cell]]
+[[cell style="text-align: center; width: 25%;"]]
+[[size 80%]] MTF-早霞-16「**［數據丟失］**」 [[/size]]
+[[/cell]]
+[[/row]]
+[[/table]]
+
+@@ @@
+**特殊收容措施：** [[span class="hover"]][[span]]**Footnote 1.**
+Skótos：項目的研究與記錄工作仍在進行中或嚴重缺乏。
+[[/span]]^^1^^[[/span]]研究與收容無人區Area-ZH-42應撥動所有資源研究並更深入探索SCP-ZH-792-1。指定探索機動特遣隊為MTF-早霞-16「**［數據丟失］**」。
+
+**描述：** SCP-ZH-792是一具位於愛爾蘭西北部海域水深3██.██米，長27.7米的藍鯨（Balaenoptera musculus）屍體。項目的外部擁有異常損傷抗性，且死後一直未見腐爛，因此無法斷定其確實死亡時間。外觀觀察其口部損毀嚴重，推測項目因大型異物進入口部後的內傷而亡。
+
+SCP-ZH-792-1是位於SCP-ZH-792內腔末部的入口，外表多變[[span class="hover"]][[span]]**Footnote 2.**
+Mars.aic附註：**【請求來源】**
+[[/span]]^^2^^[[/span]]。SCP-ZH-792-1結構呈非歐氏拓撲，並向內部繼續延伸。即使ZH-792沒有腐爛跡象，但ZH-792-1持續釋出甲烷、二氧化碳、硫化氫等生物分解時的常見氣體，實際來源因異常性質未能確實。建議更深入探索。
+
+= **［檔案結束］**
+
+[[include :scp-zh-tr:component:coltop
+|show=+ ［加載］
+|hide=- 上方隱藏
+|ifprot=0
+|nohide=1
+|folded=1
+]]
+**附錄：** ██大學於2016年發佈有關在中層帶海底植被異常生長的研究，當中推測SCP-ZH-792為養分來源。繼年，該研究團隊三度派出深海探測器和數隊合共███人的實地考察團隊，皆未有結論；直到基金會於2021年發現██大學海洋科學系異常聘請大量博士後研究人員後懷疑其異常性而停止相關研究。當時上述事件被視為單發性異常事件封存，直到2024年的第四季資料庫定期審查開始應用外推型人工智慧作業員才推算出SCP-ZH-792的存在，並將其重新分為Safe/Skotos級SCP項目。
+
+項目的相關研究與探索正在進行中；然而，回收過程之困難（成因不明）暫對其確實的異常特性無結論。建議更深入探索。
+
+[[include :scp-zh-tr:component:coltop
+|show=+ ［加載］
+|hide=- 上方隱藏
+|ifprot=0
+|nohide=1
+|folded=1
+]]
+
+以下記錄為上述定期審查期間由文書人工智慧作業員篩出並判定與此項目有關。
+
+[[div class="blockquote"]]
+**SCP-ZH-792-1探索影像紀錄概要：**
+
+**日期：** 2021年6月13日
+
+**探索團隊：** MTF-早霞-16「**［數據丟失］**」
+
+**隊長：** **［數據丟失］**
+
+**團隊成員：** **［數據丟失］**、**［數據丟失］**、**［數據丟失］**
+
+-----
+
+團隊首先由Area-ZH-42的直通深海哨站Outpost-ZH-**［數據丟失］**乘搭基金會**［數據丟失］**號[[span class="hover"]][[span]]**Footnote 3.**
+該潛水艇黑盒並沒有當天的航行記錄
+[[/span]]^^3^^[[/span]]出發至SCP-ZH-792。
+
+[[div class="scp-image-block block-right" style="width:200px;"]]
+[[=image https://upload.wikimedia.org/wikipedia/commons/c/c4/Pintuan.jpg  width="100%"]]
+[[div class="scp-image-caption" style="width:100%;"]]
+MTF-早霞-16由內部所見的SCP-ZH-792-1，注意其材質與前述不符。
+[[/div]]
+[[/div]]
+
+SCP-ZH-792-1的入口是一扇加固了的鐵門，沒有鏽跡，似乎最近才泡水。門牌標有「Site-ZH-@@    @@」[[span class="hover"]][[span]]**Footnote 4.**
+原文如此
+[[/span]]^^4^^[[/span]]的字眼，與符合基金會格式之站點識別碼。然而，各分部深井及[/scp-3936 特外站點]沒有位於該位置的站點記錄，尚未瞭解其用意。
+
+在通過一U型通道後，團隊到達SCP-ZH-792-1，形象為一乾爽簡潔風格的「回」型走廊，往左拐後則到達第二道走廊。每道走廊的右方為一個房間，各迭代的門刻[[span class="hover"]][[span]]**Footnote 5.**
+多為徽章或標誌文字，與基金會內部任何部門、站點或其他標誌不符。
+[[/span]]^^5^^[[/span]]、內容與大小各異；回頭走則回到SCP-ZH-792-1之入口。以下為各迭代走廊和房間內容之整理。
+@@ @@
+@@ @@
+@@ @@
+----
+
+[[div class="blockquote"]]
+**房間1**
+**門號：** 04
+**門刻：** 三個隔距相等的同心圓
+
+房間面積約30米*30米，粗略計算有30多名屍體，儘管牆壁嚴重燒黑，屍體身上未有明顯傷痕和屍臭。然而，團隊形容屍體的面孔和身份「//難以形容//」，且姿態異常平靜。
+
+房間中央立着一不明材質的3米黑色巨柱。
+
+[[/div]]
+
+團隊由離開房間1開始隱約嗅到魚腥味，氣味在到達新一段走廊時更為強烈。
+
+[[include :scp-zh-tr:component:coltop
+|show=+ ［加載］
+|hide=- 上方隱藏
+|ifprot=0
+|nohide=1
+|folded=1
+]]
+
+[[div class="blockquote"]]
+**房間2**
+**門號：** 176
+**門刻：** 三曲腿圖，每個節支的螺旋繞了三圈
+
+房間中央立有一4米*1.5米*2米木箱，以釘裝方式判斷是由內部封死，且大量乾涸血水從中流到外部。拆解木箱後，團隊將其中的屍體分離，共47具；大多的手指嚴重損毀，軀幹有腫脹跡象。
+
+當中還夾雜大量以不明語言書寫的紙張，很多因血跡染污未能解讀。然而，其中一名死者懷裏的文件保存完整，人工智能異常翻譯員仍在對其進行分析，現時只能辨認出數字「671」的重複字眼，詳見作業紀錄**［數據丟失］**。
+
+[[/div]]
+
+[[div class="blockquote"]]
+**房間3**
+**門號：** 09
+**門刻：** 「土」字上有一半圓弧形
+
+[[div class="scp-image-block block-right" style="width:200px;"]]
+[[=image https://upload.wikimedia.org/wikipedia/commons/8/88/Scorpion_Image.jpg width="100%"]]
+[[div class="scp-image-caption" style="width:100%;"]]
+被捕捉且無效化的未知甲殼類動物，其左爪和足部在前述過程中受到損毀。
+[[/div]]
+[[/div]]
+
+房間約有三百至五百具枯乾纖維化的屍體，全部身穿宗教性（帶有與門刻相同的標誌）的服飾，當中身穿較華麗的屍體損壞程度最為嚴重。
+
+房間內有大量未知品種的甲殼類動物似乎從屍體內蠶食；該類動物只會在被接近時會使用尾部武器攻擊，除此以外似乎對活人沒有興趣。
+[[/div]]
+
+[[div class="blockquote"]]
+**房間4**
+**門號：** 671
+**門刻：** 基線拓撲上沒可能存在之圖形。該圖形之掃描圖檔請見文件zh792_671_24。
+
+房間為一深坑；隊員**［數據丟失］**和**［數據丟失］**垂降到達水平面進行探索。該平面為有機物，呈血色半透明凝膠狀，仔細觀察為大量嚴重扭曲膨脹的人形狀物；在受到踐踏時會擠壓出凝膠內之暗紅色液體。
+
+前進200多米後可見另一深坑，但肉眼未見底部。隊員**［數據丟失］**將隨身鏡頭[[span class="hover"]][[span]]**Footnote 6.**
+儘管是標準探索器材，//該成員並未在此次行動配備鏡頭//。
+[[/span]]^^6^^[[/span]]以繩索垂吊觀察，//沒有結果//。
+
+[[/div]]
+
+在完成探索房間4後，隊員**［數據丟失］**突然堅持中斷探索並撤退，原因為「團隊的CRV值一開始無法勝任此次探索」。隊長與其餘隊員商討之後以「現時未有足夠證據證明任何潛在危險和危害，而且撤退路線穩定，故應繼續探索」為由駁回有關提議。
+
+[[include :scp-zh-tr:component:coltop
+|show=+ ［加載］
+|hide=- 上方隱藏
+|ifprot=0
+|nohide=1
+|folded=1
+]]
+----
+[[div class="blockquote"]]
+**房間5**
+**門號：** 無
+**門刻：** 基金會現役標誌[[span class="hover"]][[span]]**Footnote 7.**
+尚未理解其用意
+[[/span]]^^7^^[[/span]]
+
+房間面積為3米*3米，無內容物。團隊形容房間充斥着屍腐和魚腥氣味。房間對面有另一扇半掩的門，推測為氣味源頭。
+
+[/scp-zh-792/offset/1 + ［加載］]
+[[/div]]
+
+[[include :scp-zh-tr:component:colend
+|nohide=1
+|hide=- 下方隱藏
+]]
+
+[[include :scp-zh-tr:component:colend
+|nohide=1
+|hide=- 下方隱藏
+]]
+
+[[/div]]
+
+[[include :scp-zh-tr:component:colend
+|nohide=1
+|hide=- 下方隱藏
+]]
+
+[[include :scp-zh-tr:component:colend
+|nohide=1
+|hide=- 下方隱藏
+]]
+
+[[/collapsible]]
+[[/div]]
+@@ @@
+[[div class="cony3"]]
+[[collapsible show="取消"]]
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+[# 感謝你的配合]
+
+（文件版本：今天 6/179664 ）
+
+[[div style="border:solid 1px #999999; background:#f2f2c2; padding:5px; margin-bottom: 10px;"]]
+[[=]]
+++++ 來自基金會紀錄及資訊安全管理部的通知
+
+由於本文件正被大量用戶編輯，瀏覽時或存有卡頓。請點擊［加載］以刷新下文。
+
+-- Mars.aic
+[[/=]]
+[[/div]]
+
+[[div]]
+[[include :scp-zh-tr:component:anomaly-class-bar-source
+|item-number= ZH-792
+|clearance= 3
+|container-class= esoteric
+|secondary-class= skótos
+|secondary-icon= https://scp-wiki.wdfiles.com/local--files/chaos-arts/icon-CC-Skotos.svg
+|disruption-class= vlam
+|risk-class= warning
+]]
+[[include :scp-zh-tr:component:acs-peppo-split
+|object= safe
+|object-image= https://scp-wiki.wdfiles.com/local--files/component%3Aanomaly-class-bar/safe-icon.svg
+|object-color= safe
+|esoteric-color= thaumiel
+]]
+[[/div]]
+
+[[table style="width: 100%; margin-top:1em;"]]
+[[row]]
+[[cell style="border-bottom: 1px solid #AAA; border-right: 1px solid #AAA; text-align: center; width: 25%;"]]
+[[size 90%]]**負責站點**[[/size]]
+[[/cell]]
+[[cell style="border-bottom: 1px solid #AAA; border-right: 1px solid #AAA; text-align: center; width: 25%;"]]
+[[size 90%]]**站點主管**[[/size]]
+[[/cell]]
+[[cell style="border-bottom: 1px solid #AAA; border-right: 1px solid #AAA; text-align: center; width: 25%;"]]
+[[size 90%]]**首席研究員**[[/size]]
+[[/cell]]
+[[cell style="border-bottom: 1px solid #AAA; text-align: center; width: 25%;"]]
+[[size 90%]]**負責機動特遣隊**[[/size]]
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell style="border-right: 1px solid #AAA; text-align: center; width: 25%;"]]
+[[size 80%]] Site-ZH-42 [[/size]]
+[[/cell]]
+[[cell style="border-right: 1px solid #AAA; text-align: center; width: 25%;"]]
+[[size 80%]] N/A [[/size]]
+[[/cell]]
+[[cell style="border-right: 1px solid #AAA; text-align: center; width: 25%;"]]
+[[size 80%]] **［數據丟失］** [[/size]]
+[[/cell]]
+[[cell style="text-align: center; width: 25%;"]]
+[[size 80%]] MTF-早霞-16「**［數據丟失］**」 [[/size]]
+[[/cell]]
+[[/row]]
+[[/table]]
+
+@@ @@
+
+**特殊收容措施：** [[span class="hover"]][[span]]**Footnote 1.**
+Skótos：項目的研究與記錄工作仍在進行中或嚴重缺乏。
+[[/span]]^^1^^[[/span]]研究與收容無人區Area-ZH-42應撥動所有資源研究並更深入探索SCP-ZH-792-1。指定探索機動特遣隊為MTF-早霞-16「**［數據丟失］**」。
+
+**描述：** SCP-ZH-792是一具位於愛爾蘭西北部海域水深3██.██米，長27.7米的藍鯨（Balaenoptera musculus）屍體。項目的外部擁有異常損傷抗性，且死後一直未見腐爛，因此無法斷定其確實死亡時間。外觀觀察其口部損毀嚴重，推測項目因大型異物進入口部後的內傷而亡。
+
+SCP-ZH-792-1是位於SCP-ZH-792內腔末部的入口，外表多變[[span class="hover"]][[span]]**Footnote 2.**
+Mars.aic附註：**【請求來源】**
+[[/span]]^^2^^[[/span]]。SCP-ZH-792-1結構呈非歐氏拓撲，並向內部繼續延伸。即使ZH-792沒有腐爛跡象，但ZH-792-1持續釋出甲烷、二氧化碳、硫化氫等生物分解時的常見氣體，實際來源因異常性質未能確實。建議更深入探索。
+
+= **［檔案結束］**
+
+[[include :scp-zh-tr:component:coltop
+|show=+ ［加載］
+|hide=- 上方隱藏
+|ifprot=0
+|nohide=1
+|folded=1
+]]
+**附錄：** ██大學於2016年發佈有關在中層帶海底植被異常生長的研究，當中推測SCP-ZH-792為養分來源。繼年，該研究團隊三度派出深海探測器和數隊合共███人的實地考察團隊，皆未有結論；直到基金會於2021年發現██大學海洋科學系異常聘請大量博士後研究人員後懷疑其異常性而停止相關研究。當時上述事件被視為單發性異常事件封存，直到2024年的第四季資料庫定期審查開始應用外推型人工智慧作業員才推算出SCP-ZH-792的存在，並將其重新分為Safe/Skotos級SCP項目。
+
+項目的相關研究與探索正在進行中；然而，回收過程之困難（成因不明）暫對其確實的異常特性無結論。建議更深入探索。
+
+[[include :scp-zh-tr:component:coltop
+|show=+ ［加載］
+|hide=- 上方隱藏
+|ifprot=0
+|nohide=1
+|folded=1
+]]
+
+以下記錄為上述定期審查期間由文書人工智慧作業員篩出並判定與此項目有關。
+
+[[div class="blockquote"]]
+**SCP-ZH-792-1探索影像紀錄概要：**
+
+**日期：** 2021年6月13日
+
+**探索團隊：** MTF-早霞-16「**［數據丟失］**」
+
+**隊長：** **［數據丟失］**
+
+**團隊成員：** **［數據丟失］**、**［數據丟失］**、**［數據丟失］**
+
+-----
+
+團隊首先由Area-ZH-42的直通深海哨站Outpost-ZH-**［數據丟失］**乘搭基金會**［數據丟失］**號[[span class="hover"]][[span]]**Footnote 3.**
+該潛水艇黑盒並沒有當天的航行記錄
+[[/span]]^^3^^[[/span]]出發至SCP-ZH-792。
+
+[[div class="scp-image-block block-right" style="width:200px;"]]
+[[=image https://upload.wikimedia.org/wikipedia/commons/c/c4/Pintuan.jpg  width="100%"]]
+[[div class="scp-image-caption" style="width:100%;"]]
+MTF-早霞-16由內部所見的SCP-ZH-792-1，注意其材質與前述不符。
+[[/div]]
+[[/div]]
+
+SCP-ZH-792-1的入口是一扇加固了的鐵門，沒有鏽跡，似乎最近才泡水。門牌標有「Site-ZH-@@    @@」[[span class="hover"]][[span]]**Footnote 4.**
+原文如此
+[[/span]]^^4^^[[/span]]的字眼，與符合基金會格式之站點識別碼。然而，各分部深井及[/scp-3936 特外站點]沒有位於該位置的站點記錄，尚未瞭解其用意。
+
+在通過一U型通道後，團隊到達SCP-ZH-792-1，形象為一乾爽簡潔風格的「回」型走廊，往左拐後則到達第二道走廊。每道走廊的右方為一個房間，各迭代的門刻[[span class="hover"]][[span]]**Footnote 5.**
+多為徽章或標誌文字，與基金會內部任何部門、站點或其他標誌不符。
+[[/span]]^^5^^[[/span]]、內容與大小各異；回頭走則回到SCP-ZH-792-1之入口。以下為各迭代走廊和房間內容之整理。
+@@ @@
+@@ @@
+@@ @@
+----
+
+[[div class="blockquote"]]
+**房間1**
+**門號：** 04
+**門刻：** 三個隔距相等的同心圓
+
+房間面積約30米*30米，粗略計算有30多名屍體，儘管牆壁嚴重燒黑，屍體身上未有明顯傷痕和屍臭。然而，團隊形容屍體的面孔和身份「//難以形容//」，且姿態異常平靜。
+
+房間中央立着一不明材質的3米黑色巨柱。
+
+[[/div]]
+
+團隊由離開房間1開始隱約嗅到魚腥味，氣味在到達新一段走廊時更為強烈。
+
+[[include :scp-zh-tr:component:coltop
+|show=+ ［加載］
+|hide=- 上方隱藏
+|ifprot=0
+|nohide=1
+|folded=1
+]]
+
+[[div class="blockquote"]]
+**房間2**
+**門號：** 176
+**門刻：** 三曲腿圖，每個節支的螺旋繞了三圈
+
+房間中央立有一4米*1.5米*2米木箱，以釘裝方式判斷是由內部封死，且大量乾涸血水從中流到外部。拆解木箱後，團隊將其中的屍體分離，共47具；大多的手指嚴重損毀，軀幹有腫脹跡象。
+
+當中還夾雜大量以不明語言書寫的紙張，很多因血跡染污未能解讀。然而，其中一名死者懷裏的文件保存完整，人工智能異常翻譯員仍在對其進行分析，現時只能辨認出數字「671」的重複字眼，詳見作業紀錄**［數據丟失］**。
+
+[[/div]]
+
+[[div class="blockquote"]]
+**房間3**
+**門號：** 09
+**門刻：** 「土」字上有一半圓弧形
+
+[[div class="scp-image-block block-right" style="width:200px;"]]
+[[=image https://upload.wikimedia.org/wikipedia/commons/8/88/Scorpion_Image.jpg width="100%"]]
+[[div class="scp-image-caption" style="width:100%;"]]
+被捕捉且無效化的未知甲殼類動物，其左爪和足部在前述過程中受到損毀。
+[[/div]]
+[[/div]]
+
+房間約有三百至五百具枯乾纖維化的屍體，全部身穿宗教性（帶有與門刻相同的標誌）的服飾，當中身穿較華麗的屍體損壞程度最為嚴重。
+
+房間內有大量未知品種的甲殼類動物似乎從屍體內蠶食；該類動物只會在被接近時會使用尾部武器攻擊，除此以外似乎對活人沒有興趣。
+[[/div]]
+
+[[div class="blockquote"]]
+**房間4**
+**門號：** 671
+**門刻：** 基線拓撲上沒可能存在之圖形。該圖形之掃描圖檔請見文件zh792_671_24。
+
+房間為一深坑；隊員**［數據丟失］**和**［數據丟失］**垂降到達水平面進行探索。該平面為有機物，呈血色半透明凝膠狀，仔細觀察為大量嚴重扭曲膨脹的人形狀物；在受到踐踏時會擠壓出凝膠內之暗紅色液體。
+
+前進200多米後可見另一深坑，但肉眼未見底部。隊員**［數據丟失］**將隨身鏡頭[[span class="hover"]][[span]]**Footnote 6.**
+儘管是標準探索器材，//該成員並未在此次行動配備鏡頭。//
+[[/span]]^^6^^[[/span]]以繩索垂吊觀察，//沒有結果//。
+
+[[/div]]
+
+在完成探索房間4後，隊員**［數據丟失］**突然堅持中斷探索並撤退，原因為「團隊的CRV值一開始無法勝任此次探索」。隊長與其餘隊員商討之後以「現時未有足夠證據證明任何潛在危險和危害，而且撤退路線穩定，故應繼續探索」為由駁回有關提議。
+
+[[include :scp-zh-tr:component:coltop
+|show=+ ［加載］
+|hide=- 上方隱藏
+|ifprot=0
+|nohide=1
+|folded=1
+]]
+----
+[[div class="blockquote"]]
+**房間5**
+**門號：** 無
+**門刻：** 基金會現役標誌[[span class="hover"]][[span]]**Footnote 7.**
+尚未理解其用意
+[[/span]]^^7^^[[/span]]
+
+房間面積為3米*3米，無內容物。團隊形容房間充斥着屍腐和魚腥氣味。房間對面有另一扇半掩的門，推測為氣味源頭。
+
+[/scp-zh-792/offset/1 + ［加載］]
+[[/div]]
+
+[[include :scp-zh-tr:component:colend
+|nohide=1
+|hide=- 下方隱藏
+]]
+
+[[include :scp-zh-tr:component:colend
+|nohide=1
+|hide=- 下方隱藏
+]]
+
+[[/div]]
+
+[[include :scp-zh-tr:component:colend
+|nohide=1
+|hide=- 下方隱藏
+]]
+
+[[include :scp-zh-tr:component:colend
+|nohide=1
+|hide=- 下方隱藏
+]]
+[[/collapsible]]
+[[/div]]
+
+
+
+
+@@ @@
+@@ @@
+@@ @@
+[[module css]]
+:root {
+  --thaumiel: 25, 25, 25;
+  --accentColor: #7a7a7a;
+  --shadow_color: #bb0011; !important
+}
+
+.collapsible-block-content { position: relative; }
+
+.cony .collapsible-block-content::after {
+    display: block;
+    position: absolute;
+    content: " ";
+    width: 100%;
+    height: 1.5em;
+    background-color: var(--cony-color);
+    bottom: 1.5em;
+}
+
+.cony2 .collapsible-block-content::after {
+    display: block;
+    position: absolute;
+    content: " ";
+    width: 100%;
+    height: 6rem;
+    background-color: var(--cony-color);
+    bottom: -8rem;
+}
+.cony2 .collapsible-block-unfolded { transform: translateY(-2.64rem); }
+.cony .collapsible-block-content::before,
+.cony2 .collapsible-block-content::before {
+    display: block;
+    position: absolute;
+    content: " ";
+    width: 100%;
+    height: 2rem;
+    background-color: var(--cony-color);
+    top: -2rem;
+}
+
+.cony3 .collapsible-block-unfolded { transform: translateY(-2.64rem); }
+.cony .collapsible-block-content::before,
+.cony3 .collapsible-block-content::before {
+    display: block;
+    position: absolute;
+    content: " ";
+    width: 100%;
+    height: 8rem;
+    background-color: var(--cony-color);
+    top: -4rem;
+    bottom: -2rem;
+}
+
+.hover {
+    text-decoration: none;
+    border-bottom: none;
+    color: var(--fn-color);
+}
+
+.hover:hover {
+    text-decoration: underline;
+    background-color: transparent;
+}
+
+.hover span {display: none;}
+
+.hover:hover span {
+    position: absolute;
+    display: inline;
+    margin: 20px 0px;
+    height: auto;
+    width: auto;
+    background: #FFF;
+    border: 1px solid #000;
+    color: black;
+    padding: 0.5em;
+}
+.hover:hover span span {
+    position: relative;
+    margin: auto;
+    height: auto;
+    width: auto;
+    border: none;
+    padding: 0;
+}
+.footnotes-footer{
+display:none;
+}
+
+[[/module]]

@@ -1,0 +1,27 @@
+[[include info:start]]
+**SCP-ZH-792 - 開是「鯨吞」**
+**作者：**[[*user Kikunai]]
+
+> 在注意到之前，你已經在某物的肚子裏。
+
+在這感謝
+* 艾略特老師看稿及技術支援
+
+
+**圖像：**
+[https://commons.wikimedia.org/wiki/File:Pintuan.jpg 門]（Pintuan.jpg）Rhodora D. Alcantara以CC BY-SA 4.0授權
+[https://commons.wikimedia.org/wiki/File:Scorpion_Image.jpg 蠍子]（Scorpion Image.jpg）Ready Street以CC BY-SA 4.0授權
+
+
+[[include info:end]]
+
+[[module ListPages category="fragment" parent="." limit="1" order="created_at" offset="@URL|0"]]
+%%content%%
+[[/module]]
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+[!--http://scp-zh-tr.wikidot.com/fragment:scp-zh-792-0 --]
+[!--http://scp-zh-tr.wikidot.com/fragment:scp-zh-792-1 --]
