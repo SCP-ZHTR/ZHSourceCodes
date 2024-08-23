@@ -448,6 +448,30 @@
 [[/div]]
 [[/div]]
 
+
+
+
+
+[[div class="content-panel standalone series" style="background-color: #FFFFFF;"]]
+[[=]]
++ MTF-車肆-8 「血拼人潮」
+[[=image https://i.imgur.com/JKvrMyC.png height="150px"]]
+[[<]]
+**機動特遣隊任務:** 主要針對繁廣化工所販售的異常物品進行[http://scp-zh-tr.wikidot.com/site-zh-02 壟斷採購]，亦有少數情況被派遣採購其他以異常進行交易的關注組織所販售的異常。
+
+**協助收容項目:**
+[[module ListPages order="name" tags=" +車肆-8 +原創 +SCP " separate="no" perPage="100"]]
+* %%title_linked%%
+[[/module]]
+**行動報告:**
+[[module ListPages order="name" tags=" +車肆-8 +原創 +故事" separate="no" perPage="100"]]
+* %%title_linked%%
+[[/module]]
+[[/<]]
+[[/=]]
+[[div style="text-align:right"]]
+[[/div]]
+[[/div]]
 @@@@
 @@@@
 @@@@

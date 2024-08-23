@@ -610,3 +610,12 @@ display:none;
 }
 
 [[/module]]
+
+@@ @@
+
+[[include :scp-wiki:component:earthworm
+| first=false | last=false | hub=yes
+| previous-url=/scp-zh-787 | previous-title=枝是「鐘點」
+| next-url=/scp-zh-809 | next-title=冰是「XXX」
+| hub-url=/zhongyuan-2024 | hub-title=「早梅詩」
+]]

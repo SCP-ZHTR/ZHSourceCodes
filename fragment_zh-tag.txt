@@ -170,6 +170,8 @@
 
 * **[*/system:page-tags/tag/surge博士 surge博士]** - 標註在與博士[[[*personnel-and-character-dossier-zh#Surge|Shaman Surge]]]相關的[[[*surge|頁面]]]上。
 
+* **[*/system:page-tags/tag/Tostren博士 Tostren博士]** - 標註在與博士[[[*personnel-and-character-dossier-zh#Tostren|Tostren]]]相關的[[[*surge|頁面]]]上。
+
 * **[*/system:page-tags/tag/valentine博士 valentine博士]** - 標註在與博士[[[*personnel-and-character-dossier-zh#dr-valentine|Valentine]]]相關的[[[*valentine-00|頁面]]]上。
 
 * **[*/system:page-tags/tag/x博士 x博士]** - 標註在與博士[[[*personnel-and-character-dossier-zh#X|Dr. X]]]相關的頁面上。
@@ -215,6 +217,8 @@
 * **[*/system:page-tags/tag/少微-12 少微-12] ("三段論證")** - 標註在與MTF 少微-12 相關的[[[http://scp-zh-tr.wikidot.com/task-forces-zh|頁面]]]上。
 
 * **[*/system:page-tags/tag/天槍-9 天槍-9] ("長空之狐")** - 標註在與DTF 天槍-9 相關的[[[http://scp-zh-tr.wikidot.com/task-forces-zh|頁面]]]上。
+
+* **[*/system:page-tags/tag/車肆-8 車肆-8] ("血拼人潮")** - 標註在與MTF 車肆-8 相關的[[[http://scp-zh-tr.wikidot.com/task-forces-zh|頁面]]]上。
 
 [[/tab]]
 [[tab ZH其他標籤]]
