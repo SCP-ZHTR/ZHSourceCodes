@@ -1,0 +1,457 @@
+[[include :scp-wiki:component:djk]]
+[[include :scp-zh-tr:component:fade-in speed=2]]
+[[include component:scp-meta-title-hiding css-style=classic]]
+[[module css]]
+
+:root {
+    --header-title: "SCP基金會";
+    --header-subtitle: "控制 收容 保護";
+    --lgurl: url(http://scp-sandbox-3.wdfiles.com/local--files/collab%3Aihp/scp-logo.svg);
+
+.email {float: center; border: solid 2px #000000; width: 88%; background:#FFFFFF url(http://scp-wiki.wdfiles.com/local--files/the-great-hippo/SCP_icon%281%29.png)top right no-repeat height=50px; padding: 1px 15px; margin: 10px 10px 10px 10px; box-shadow: 0 1px 3px rgba(0,0,0,.5)}
+a.collapsible-block-link { font-weight: bold; }
+
+.tofrom {margin-left: 10px; margin-top: 5px; padding: 1px 15px; border-left: solid 3px maroon}
+
+div#extra-div-1 {
+    background-image: url(http://scp-sandbox-3.wdfiles.com/local--files/collab%3Aihp/scp-logo.svg);
+    padding-top: 10px;
+    filter: opacity(0.2);
+}
+
+#page-content .normal a {
+   color: #000;
+}
+#page-content .normal a:hover {
+    color: #888;
+}
+
+[[/module]]
+
+[[module CSS]]
+.email-example .collapsible-block-folded a.collapsible-block-link {
+    animation: blink 0.8s ease-in-out infinite alternate;
+}
+@keyframes blink {
+    0% { color: transparent; }
+    50%, 100% { color: #b01; }
+}
+.email-example a.collapsible-block-link {font-weight: bold;}
+.footnotes-footer{
+display:none;
+}
+[[/module]]
+
+[[include info:start]]
+**SCP-ZH-809** - **冰**是**半衰期**
+**作者：**[[*user ting129]]
+
+就連時間也無法磨損這致命的武器。
+
+----
+
+感謝[[*user kikunai]]、[[*user Control Z]]、[[*user AbyssDream]]、犯罪心理學老師以及艾略特老師在撰寫過程中提供的協助。
+
+----
+[[=]]
+[[[ting129|作者頁]]]
+[[/=]]
+
+[[include :scp-zh-tr:info:end]]
+
+@@ @@
+[[div class="email"]]
+[[div class="tofrom"]]
+**From:** O5
+**To:** Jacob Lawrence
+**主旨：**關於SCP-ZH-809的進一步規劃
+[[/div]]
+----
+
+　　從考古團隊提供的數據來看，這座遺址確實值得我們繼續探索和開發。前幾次的調查結果也整理完了，下一次的會議將會決定我們是否要投入資源，大規模開採底下的能源。
+
+　　高層提議派遣更大的團隊進入遺址，先不考慮效率問題，但這個提案已經通過倫理委員會審查，不需要擔心外部的質疑，機密計畫要花多少錢那些人也管不著。
+
+　　數據中心已經收到第三次實驗的回報，需要五級權限開啟，請你在下次調查彙報前再整理一次資料。建議你從最新版的項目檔案開始。
+
+　　我們會議上見。
+
+[[/div]]
+
+@@ @@
+@@ @@
+
+[[div style="border:solid 1px #999999; padding: 15px; margin-bottom: 5px;"]]
+
+[[table style="border: none; width: 100%;"]]
+[[row]]
+[[cell]]
+[[size 110%]]**項目編號：** SCP-ZH-809[[/size]]
+[[/cell]]
+[[cell style="text-align: right;"]]
+[[size 110%]]**管制權限等級：**5級/最高機密[[/size]]
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+[[size 110%]]**收容等級：** Safe[[/size]]
+[[/cell]]
+[[cell style="text-align: right;"]]
+[[size 110%]]**瓦解等級：** Dark[[/size]]
+[[/cell]]
+[[/row]]
+[[/table]]
+
+[[/div]]
+
+[[include :scp-wiki:component:customizable-acs
+|category-count= 4
+|class-color-1= 15, 15, 15
+|class-category-1= 負責單位：
+|class-text-1= 考古部門
+|class-color-2= 15, 15, 15
+|class-category-2= 協同單位：
+|class-text-2= 歷史校正部門
+|class-color-3= 15, 15, 15
+|class-category-3= 計畫負責人：
+|class-text-3= Dr. Jacob Lawrence
+|class-color-4= 15, 15, 15
+|class-category-4= 首席研究員：
+|class-text-4= Rsr. William McEnroe
+|inc-extra-categories= --]]]
+
+**特殊收容措施：**
+
+　　根據《戰前人類歷史遺址發掘與保存協同條約》，SCP-ZH-809與**歐基洛托遺址**的保存工作目前由基金會代為執行，並且在其他條約簽署者的監督下，行使區域管制和保存、復原遺址的權力。為防止SCP-ZH-809內部的狀態受到外力干擾，所有進入SCP-ZH-809的人員及無人器械申請必須經由基金會核准。任何請求進入歐基洛托遺址的申請，皆需通過基金會考古部門許可。
+
+　　SCP-ZH-809的入口由兩名武裝人員駐守，並應以X光掃描儀器確認人員進出時的隨身物品內容。所有經核准的探索工具、測量儀器、飲水與食物補給，除了由探索團隊攜入，其餘皆需以無人駕駛機具運送。
+
+　　考量到SCP-ZH-809及歐基洛托遺址遠離人群的性質，在遷移周邊居民後，應限制地圖、大眾媒體、衛星照片與文獻不得紀錄與提及此處。任何闖入限制區域的行為，將會在了解緣由後合理處置，並於C級記憶消除後釋放，確保SCP-ZH-809的詳細位置不會曝光。
+
+　　基於SCP-ZH-809的重要性，只有項目負責人和擁有特殊通行證的人員，能夠知悉通往該遺址的正確路徑。所有與項目有關的資訊，皆屬於基金會5級管制權限。
+
+**描述：**
+
+　　SCP-ZH-809是一座位於**歐基洛托遺址**中的地下結構，同時也是該遺址中規模最大的單一人造結構。考古證據顯示，SCP-ZH-809是建造於大戰之前，位於古歐基洛托文化層[[footnote]]約9500至10000年前之間。[[/footnote]]中，少數留存至今的古世代文明遺址之一。
+
+　　受到大戰後的氣候變遷影響，SCP-ZH-809於8000至9000年前遭地表土層掩埋，因其入口在建設時已由內部封閉，項目內部的建築結構狀態良好。保存於SCP-ZH-809中的書籍與金屬方塊，紀錄了眾多大戰之前存在的人類文化、語言與科技資訊。
+
+　　從SCP-ZH-809內部通道的牆面痕跡與眾多管線規劃，顯示項目在建造過程中經歷了數次增建。此外，牆面上也有多種蝕刻或繪製於金屬上的圖形，包含古代文字、特殊符號以及類似於人臉的圖樣。SCP-ZH-809內出土的金屬器、動植物遺留、衣服、███等器物，與歐基洛托遺址中的其他結構有明顯的時代落差。
+
+　　由於項目內部通道的複雜程度，推測可能仍存在尚未完工的空間、受外力壓迫而塌陷無法進入的通道，或是刻意隱藏的密室。因整體結構範圍超過穿透性探測儀器的測量極限，需要人工輔助探索，目前僅探索至地下約800公尺深。
+
+**附錄 ZH-809.1：**〈關於歐基洛托遺址〉節錄，基金會考古資料庫
+
+[[collapsible show="訪問檔案" hide="關閉檔案"]]
+[[div class="blockquote"]]
+
+**歐基洛托遺址**
+----
+
+　　約1萬年前，人類首次在歐基洛托建造了用於大規模生產的建築群，形成今日在此處發現的歐基洛托文化層的前身，也是此處所發掘的最古老文化。當時的人類處於建築技術與生產技術的巔峰期，會藉由機械與低階能源協助勞動。這種形式的生產仰賴長距離的運輸方式，藉由和遠方的人類社群建立關係，彼此交換維生用品、加工材料、工具、能源，透過合作的方式提升生存率。
+
+　　雖然自然環境使他們沒有生產糧食的優勢，這種集體合作交換的生活方式維持至大戰前。原先處於升溫期的地球在受到全球性的塵埃籠罩影響後，溫度逐漸下降，生活在歐基洛托的人也失去了生產的能力，在海平面下降的同時，歐基洛托遺址的建築也被封閉、廢棄，不再使用。
+
+　　歐基洛托在距今約7000年前，受到地層變動影響，整個建築群被土石掩埋至地下，並被降溫期結束後上升的海平面覆蓋。另一群人在此建立了新的文化，這些人利用大戰前的人類廢棄物作為原料，使用泥沙混合物製造工具，與南方的可潘海恩文化相似。這些人同時也會揀選適合的彩色薄片[[footnote]]是一種遍佈於全球，在大戰前後的地層中頻繁出現的一種片狀、塊狀物品。這些東西具有相似的性質，是大戰後的文化常見的工具材料。[[/footnote]]，結合獸骨、磨製石器、金屬棍棒製作成打獵的工具。
+
+　　歐基洛托遺址是古代文明大規模建築群的其中一種分支。與生活用途的都城和居住區不同，遺址中主要由勞動空間組成，這些格狀排列的建物之間存在大量的管道，用來運送生產原料及產出。除了管道之外，地下也設有許多存放物品的儲藏空間，大量的庫房或人為挖掘的垂直圓柱深坑遍佈在遺址地下，但曾經擺設其中的物品在被掩埋之前就已經遭到移除。
+
+　　在古歐基洛托的勞動中，水是非常重要的資源。在遺址中有許多槽狀的空間，以輸送管線和遺址邊緣的古代海岸線連接。歐基洛托遺址中發現的器械與工具，幫助基金會一定程度瞭解大戰之前的人類科技和文化程度，以及當時的人類對異常技術的瞭解。由基金會主導簽署的《戰前人類歷史遺址發掘與保存協同條約》，期望與世界各大組織合作，協助復原人類文明、確保人類安全。
+
+[[/div]]
+[[/collapsible]]
+
+**附錄 ZH-809.2：**〈SCP-ZH-809與122號挖掘坑〉節錄，基金會考古資料庫
+
+[[collapsible show="訪問檔案" hide="關閉檔案"]]
+[[div class="blockquote"]]
+
+**122號挖掘坑**
+----
+
+　　基金會紀年13522，由Dr. Jacob Lawrence率領的考古團隊，根據文獻和地方傳說的指引，在歐基洛托邦西方的海岸邊進行挖掘工作，發現了歐基洛托1號至6號遺址，除了發現大戰後的移入文明，也在其下方發現了稀少的大戰前文化層。在歐基洛托遺址中，發現了戰後的近代文物和工具，也挖掘到了戰前的建築群，其中以5號遺址中的122號挖掘坑規模最大。
+
+[[include component:image-block name=https://i.imgur.com/mhbgzLG.png|align=left|caption=在SCP-ZH-809中出現的圖示，其顏色可能表示強烈需求，推測是引導人類移動方向的標誌。]]
+
+　　歐基洛托遺址的發現，讓基金會的戰前考古進入了全新的階段。受到議會與基金會的支持，考古團隊於其後的10年間持續拓展考古挖掘範圍，並在紀年13529確立了探索122號挖掘坑的研究探索計劃，決定進入這座深埋地底的戰前地下設施。
+
+　　紀年13528，McEnroe研究員在5號遺址東側的引水溝渠底下，意外發現通往SCP-ZH-809的入口。在確立SCP-ZH-809的年代後，考古團隊隨即準備進入其中。初步發掘中出土了31具史前人類遺骸、金屬工具、衣服、動植物生態遺留。這些發現反應了在SCP-ZH-809中的生活方式、勞動環境以及當時的人類面臨的環境生存風險。
+
+[[/div]]
+[[/collapsible]]
+
+@@ @@
+@@ @@
+
+[[div class="email"]]
+[[div class="tofrom"]]
+**From:** 數據中心
+**To:** Jacob Lawrence
+**主旨：**Re: SCP-ZH-809探索紀錄申請
+[[/div]]
+----
+
+　　經系統審核，許可Dr. Jacob Lawrence檢視文件：〈附錄 ZH-809.3：探索日誌〉。
+
+　　請在信件附錄中確認檔案，若有錯誤，請立即與數據中心或RAISA反應。
+
+　　本信件由系統自動回覆，如有其他申請需求，請再次透過系統提出。
+
+[[/div]]
+
+@@ @@
+@@ @@
+
+**附錄 ZH-809.3：**探索日誌
+
+[[collapsible show="10/05" hide="關閉檔案"]]
+[[div class="blockquote"]]
+
+1005，**第一次探索**
+----
+
+　　第一週的進度，在確認結構穩定性之前，我們只能在接近地表的區域替不重要的物品建檔。那些遺骸早在去年就被搬離，通道裡只剩下一堆廢棄的工具，牆上的文字我也已經不記得含義，或許還有紀錄的價值。
+
+　　這是我第一次參與122坑的挖掘計畫，隊長McEnroe已經是第五次了，Lee則是第二次，Lawrence主任在出發前特別強調，整個基金會只有我們三人能夠勝任這項任務。
+
+　　派去探路的自動儀器預計今天下午會返回，還得先回報數據才能繼續向內前進。繼續維持這種工作節奏，我大概最多只能忍受兩個月吧。Mcenroe已經熟練到把這裡當自己家了，接下來的地圖繪製或許也該由他負責。在這裡，視線所及的範圍只有頭燈的光線，我可能還要一些時間適應。
+
+　　那些壁畫，扣除掉還在解析的古文字，剩下的幾乎都是黃黑相間的圖樣。從其他人的反應看來，他們應該不知道那是什麼意思。
+
+[[/div]]
+[[/collapsible]]
+
+[[collapsible show="10/11" hide="關閉檔案"]]
+[[div class="blockquote"]]
+
+1011，**第一次探索**
+----
+
+　　這週我們下降了50公尺。進到第三層之後，這裡就像是大型倉庫一樣，充滿分支道路和一扇又一扇的金屬門。這些門只剩下塵土下的邊框能夠辨認，實際上，我們連怎麼開啟這些門都不知道。探測儀器雖然能檢驗門後的空間，但這些房間也只是堆滿桶子的儲藏室而已。
+
+　　那些圖也有了一些變化，偶爾能看到像是人臉的圖畫出現在牆上，閉著眼睛、沒有什麼表情。我們三人都沒見過這個圖案，不過McEnroe說他喜歡這個圖案。不懂他在想什麼。
+
+[[include component:image-block name=https://i.imgur.com/j5pGxg1.jpeg|align=right|caption=牆上的人臉圖案，第一次看到時覺得有些詭異。]]
+
+　　McEnroe提議用工具打開一個已經鏽蝕的門，但被上級回絕了。Lawrence提醒我們，這次探索的目標是深入遺址，這不是目前我們需要完成的事。
+
+　　通道兩旁的符號和文字開始出現規律，我們手抄了一些，也拓印了一些準備回傳給地表的營地，考古部門有一些語言學專家，如果能從中得到什麼資訊，對我們的探索也很有幫助。那些黃黑的散射狀圖形彼此之間保持著相近的距離，每走一段路，就又能在某扇門或旁邊的牆面上發現圖形的痕跡。Lee還在努力解讀這些符號，我倒是覺得他需要多休息一點，我們的精神已經開始緊繃了。
+
+　　距離探索結束還剩下兩週時間，還有三次跟基金會諮商師的定期談話，或許會有些幫助。
+
+[[/div]]
+[[/collapsible]]
+
+[[collapsible show="01/30" hide="關閉檔案"]]
+[[div class="blockquote"]]
+
+0130，**第二次探索**
+----
+
+　　上次回去後，我們都生了病。
+
+　　這次Lawrence要我們三個先做好檢查再出發，不希望我們的身體狀況影響研究進展。我告訴他，那一開始或許就不該找我們來。要說不會生病可能有些誇大，不過我確實不常生病，特別是像第一次探索後那樣嚴重。
+
+　　直到此時我才發現我們三人之間的關聯。
+
+　　基金會的安全措施很完善，我們離開後都需要接受完整的消毒和隔離，但醫生也沒有在我們身上檢查出細菌感染或其他病原體的蹤跡。
+
+　　昨天我們抵達了150公尺深，這是去年挖掘計畫時的探索界線，再往前就沒有地圖記錄了。Lee負責操縱偵查的探路儀器，今天的目標是再往前走1公里，距離儀器返回還有一點時間，McEnroe決定去上一條岔路晃晃，他在那裡發現了一本沒有字的圖像書。
+
+　　我偷帶了一些額外的止痛藥，希望這次探索不會用上。
+
+[[/div]]
+[[/collapsible]]
+
+[[collapsible show="02/05" hide="關閉檔案"]]
+[[div class="blockquote"]]
+
+0205，**第二次探索**
+----
+
+　　或許是上手了，我們的進展迅速，從150公尺到170公尺深只花了90小時，也設好了新的駐紮點，以後如果還有其他團隊要進來探索，這裡會是非常方便的基地。新的物資會在48小時後抵達，到時候我們就能再往前探索了。
+
+[[include component:image-block name=https://i.imgur.com/iJSkPSJ.png|align=right|caption=人類頭骨圖畫，在第五層的牆上發現。]]
+
+　　Lee這幾天狀況不太好，跟他輪流值班的那幾天，發現他在我睡覺時吐了好幾次。為了減少對遺址的污染，人體的廢棄物都必須裝袋回收，那些嘔吐物的味道真的很可怕。
+
+　　我們三人選了一個訊號不好的角落，討論了有關身體狀況的細節。除了Lee不舒服之外，我也出現了一些腸胃問題，McEnroe的手傷一直沒好，可能有感染情況。如果沒有跟著運送物資的輸送儀器離開，下一次撤離的機會是七天後了，我們必須趕快決定。
+
+　　今天換班時我在營地附近發現了一具骨骸，看起來應該是人類的，我不知道該不該在這個時間點告訴他們。就算吃了藥，手臂跟腰側還是很不舒服，我猜McEnroe也跟我一樣，對這種傷痛過於陌生，有時他會在睡夢中掙扎。我睡著的時候也會這樣嗎？唯獨這個問題我不敢開口詢問。
+
+[[/div]]
+[[/collapsible]]
+
+[[collapsible show="02/07" hide="關閉檔案"]]
+[[div class="blockquote"]]
+
+0207，**第二次探索**
+----
+
+　　我們撤離了。在第九層發現一個門被壓壞的房間，那裡整層瀰漫著淡藍色的光。我們必須要走。
+
+[[/div]]
+[[/collapsible]]
+
+[[collapsible show="08/26" hide="關閉檔案"]]
+[[div class="blockquote"]]
+
+0826，**第三次探索**
+----
+
+　　自從Lee過世後，我跟McEnroe一直沒有見面，我們被分配到各自的檢驗中心，與外界隔離。Lawrence說，Lee的死因不明。撤離之後，從噁心、嘔吐的症狀到他失去意識，大概只隔了10個小時。像是他的身體在抗拒存活。
+
+　　McEnroe告訴我，他和Lee是同一種人，「超越一般人的身軀」。更長壽、更耐打、更不容易生病，現在回想起來，這可能都是Lawrence計劃的一部分。
+
+　　將我們聚在一起的並不是考古遺址。
+
+　　我和McEnroe分別提出要退出計畫，這件事甚至往上傳到倫理委員會那裡，但都被否決了。那些牆上的圖案、那些文字，此刻在我的眼中更像是一種詛咒的紋路，覆蓋了整座地獄。
+
+　　我們只剩下那團藍色的光線。
+
+[[/div]]
+[[/collapsible]]
+
+[[collapsible show="09/01" hide="關閉檔案"]]
+[[div class="blockquote"]]
+
+0901，**第三次探索**
+----
+
+　　我們抵達第十層後，以十字岔路為中心，分頭展開探索行動。進到這一區之後，我們幾乎不需要再使用燃燈，那些光線彷彿會從牆壁後方穿透而出，移動產生的塵土在藍色的霧中特別明顯。考古部門解讀了一部分的文字，遺址入口的文字似乎是一種邀請，希望外面的人能夠進來。
+
+　　想到之前營地旁的骨骸，我可能錯過了什麼，但我現在已經記不清楚了。
+
+　　我們需要輪班，但McEnroe沒辦法入睡。我請他至少躺著、閉眼也好，不過即使閉上眼睛，視線還是會被藍光包圍。
+
+Metha
+
+[[/div]]
+[[/collapsible]]
+
+[[collapsible show="10/01" hide="關閉檔案"]]
+[[div class="blockquote"]]
+
+1001
+----
+
+　　我把Metha的遺體裝進回收袋，連同一個散發光芒的桶子一起用運輸儀器送回地表。這是Metha死前想到的，他呼叫緊急支援，告訴他們我們倆人都需要撤離，我選了重量與我接近的桶子放在Metha身旁。
+
+　　他比我看得更多，也忘得更多。即使生於大戰之前，也想不起來這些藍色的惡魔為何存在。
+
+　　我可能已經失去了感受的能力，沒有生存的慾望或是實感。我能清楚看到指尖的傷口持續擴散，但大腦抗拒理解、身體抗拒接受，光是寫完一句話的時間就乾嘔了三、四次，這是第一次離死亡如此接近。Lee也好，Metha也好，看到他們斑駁的皮膚不斷剝落、露出底下的血肉時，內心的想法只剩下復仇。我不知道Lawrence的目的是什麼，但就連生命的極限都無法抵擋的疾病、詛咒，我相信他們也無法承受。
+
+　　當哪天有人往遺址裡探頭。
+
+　　我就在底部。
+
+McEnroe
+
+[[/div]]
+[[/collapsible]]
+
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+
+[[div class="email-example"]]
+[[collapsible show="你有 一 則新訊息！" hide="關閉訊息"]]
+
+[[div class="email"]]
+[[div class="tofrom"]]
+**From:** O5
+**To:** Jacob Lawrence
+**主旨：**Re: 第三次實驗結果彙整
+[[/div]]
+------
+
+　　已收到對考古部門**Rsr. William Mcenroe**、歷史校正部門**Rsr. Jasmine Metha**、歷史校正部門**Rsr. Samuel Lee**的所有實驗數據結果。
+
+　　預祝開發作業順利。
+
+@@ @@
+@@ @@
+
+[[=]]
+[[=image https://i.imgur.com/lnfjnw4.png height="150px"]]
+**控制、收容、保護**
+[[/=]]
+
+[[/div]]
+
+[[/collapsible]]
+[[/div]]
+
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+
+[[include :scp-wiki:component:earthworm
+| first=false| last=false | hub=yes
+| previous-url=/scp-zh-792| previous-title=開是「鯨吞」
+| next-url=/scp-zh-819 | next-title=雪是「XX」
+| hub-url=/zhongyuan-2024 | hub-title=中元恐怖——早梅詩
+]]
+
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[SCP-ZH-808]]] | SCP-ZH-809 | [[[SCP-ZH-810]]] >>
+[[/=]]
+[[/div]]
+
+@@ @@
+@@ @@
+
+----
+
+[[include :scp-zh-tr:component:license-box
+|author=ting129]]
+=====
+
+> **檔案名稱:** Faces of Onkalo
+> **原檔案名稱:** Onkalo 2.jpg & WIPP.svg - Small Subsurface Markers.svg
+> **編輯:** ting129
+> **原作者:** kallerna & Department of Energy - Carlsbad Field Office
+> **授權:** CC BY-SA 3.0 & CC BY-SA 3.0 & Public Domain
+> **來源連結:** [https://imgur.com/6V0zpOS 編輯] & [https://upload.wikimedia.org/wikipedia/commons/3/30/Onkalo_2.jpg 原圖（一）] & [https://upload.wikimedia.org/wikipedia/commons/8/88/WIPP_-_Small_Subsurface_Markers.svg 原圖（二）]
+
+> **檔案名稱:** A way out
+> **原檔案名稱:** Logo iso radiation.svg
+> **編輯:** ting129
+> **原作者:** International Atomic Energy Agency
+> **授權:** Public Domain
+> **來源連結:** [https://imgur.com/mhbgzLG 編輯] & [https://upload.wikimedia.org/wikipedia/commons/3/35/Logo_iso_radiation.svg 原圖]
+
+> **檔案名稱:**Do not dig
+> **原檔案名稱:** WIPP - Small Subsurface Markers.svg
+> **編輯:** ting129
+> **原作者:** Department of Energy - Carlsbad Field Office
+> **授權:** Public Domain
+> **來源連結:** [https://imgur.com/j5pGxg1 編輯] & [https://upload.wikimedia.org/wikipedia/commons/8/88/WIPP_-_Small_Subsurface_Markers.svg 原圖]
+
+> **檔案名稱:** No way out
+> **原檔案名稱:** Logo iso radiation.svg
+> **編輯:** ting129
+> **原作者:** International Atomic Energy Agency
+> **授權:** Public Domain
+> **來源連結:** [https://i.imgur.com/iJSkPSJ.png 編輯] & [https://upload.wikimedia.org/wikipedia/commons/3/35/Logo_iso_radiation.svg 原圖]
+
+> **檔案名稱:** Warning Sign of Ionizing Radiation
+> **原檔案名稱:** Radioactive.svg
+> **編輯:** ting129
+> **原作者:** Cary Bass
+> **授權:** Public Domain
+> **來源連結:** [https://i.imgur.com/lnfjnw4.png 編輯] & [https://upload.wikimedia.org/wikipedia/commons/b/b5/Radioactive.svg 原圖]
+
+=====
+[[include :scp-zh-tr:component:license-box-end]]
+
+@@ @@
