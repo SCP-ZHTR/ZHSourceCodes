@@ -15,7 +15,7 @@
 
 [[div class="scp-image-block block-center"
 style="width:500px;"]]
-[[image https://i.meee.com.tw/Ed58g3s.jpg 
+[[image https://i.imgur.com/hiKqGYg.jpg 
 style="width:100%;"]]
 [[div class="scp-image-caption" style="width:100%;"]]
 某個時候的Tostren。
