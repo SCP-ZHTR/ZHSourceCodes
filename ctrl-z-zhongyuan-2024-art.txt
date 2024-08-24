@@ -39,11 +39,11 @@ SCP-ZH-715內仍有6名租約尚未到期之一般民眾。
 [[/div]]
 
 [[image https://imgur.com/wzlAkiq.png]]
-* [[[scp-zh-737|向是「新建項目」]]] - 檔案老師
+* [[[scp-zh-737|向是「新建項目」]]] - 檔案老師##grey|（8/19）##
 [[div style="border-left: darkred 0.2rem solid; padding-left: 8px; margin-top: 12px; margin-bottom: 12px; color: #white; opacity: 0.8;"]]
 ...承上則，經異常改動後還原的資訊不再可信。
 [[/div]]
-* [[[scp-zh-754|暖是「您的話語」]]] - 雷雨老師
+* [[[scp-zh-754|暖是「您的話語」]]] - 雷雨老師##grey|（8/20）##
 [[div style="border-left: darkred 0.2rem solid; padding-left: 8px; margin-top: 12px; margin-bottom: 12px; color: #white; opacity: 0.8;"]]
 唯一對外的窗戶和窗格已被鎖死。
 [[/div]]

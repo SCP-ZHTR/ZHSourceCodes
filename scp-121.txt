@@ -1,5 +1,6 @@
+[[include component:scp-meta-title-hiding css-style=classic]]
 [[include info:start]]
-原文：[https://scp-wiki.wikidot.com/scp-121 SCP-121]
+原文：[https://scp-wiki.wikidot.com/scp-121 SCP-121 - 石屎搖籃]
 作者：[[*user Wilt]]
 譯者：[[*user z423x5c6]]
 [[include info:end]]
