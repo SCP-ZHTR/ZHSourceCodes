@@ -305,7 +305,7 @@ text-shadow: 0 0 0.75rem rgb(var(--swatch-primary-darkest),0.75);
 |author=反事實歷史老師
 |art= https://upload.wikimedia.org/wikipedia/commons/5/50/John_Martin_-_The_Great_Day_of_His_Wrath_-_Google_Art_Project.jpg
 |url=http://scp-zh-tr.wikidot.com/scp-zh-792
-|title=開是「XX」
+|title=開是「鯨吞」
 ]]
 
 [[include :scp-sandbox2-zh:draft:5325850-1o-ly074dry
@@ -313,7 +313,7 @@ text-shadow: 0 0 0.75rem rgb(var(--swatch-primary-darkest),0.75);
 |author=安克羅老師
 |art= https://i.imgur.com/6V0zpOS.jpeg
 |url=http://scp-zh-tr.wikidot.com/scp-zh-809
-|title=冰是「XXX」
+|title=冰是「半衰期」
 ]]
 
 [[include :scp-sandbox2-zh:draft:5325850-1o-ly074dry
@@ -321,7 +321,7 @@ text-shadow: 0 0 0.75rem rgb(var(--swatch-primary-darkest),0.75);
 |author=行為矯正老師
 |art= https://i.imgur.com/rmNA6sp.jpeg
 |url=http://scp-zh-tr.wikidot.com/scp-zh-819
-|title=雪是「XX」
+|title=雪是「囚因」
 ]]
 
 [[include :scp-sandbox2-zh:draft:5325850-1o-ly074dry
@@ -406,31 +406,31 @@ text-shadow: 0 0 0.75rem rgb(var(--swatch-primary-darkest),0.75);
 
 [[div style="padding-left: 20px;"]]
 
-* [[[scp-zh-249|東是「敵愾」」]]] - 理化老師
+* [[[scp-zh-249|東是「敵愾」」]]] - 理化老師##grey|（8/14）##
 [[div style="border-left: darkred 0.2rem solid; padding-left: 8px; margin-top: 12px; margin-bottom: 12px; color: #white; opacity: 0.8;"]]
 累？我不累。我是一個欲望驅動的機械。
 [[/div]]
-* [[[scp-zh-420|風是「法槌」]]] - 不是老師
+* [[[scp-zh-420|風是「法槌」]]] - 不是老師##grey|（8/15）##
 [[div style="border-left: darkred 0.2rem solid; padding-left: 8px; margin-top: 12px; margin-bottom: 12px; color: #white; opacity: 0.8;"]]
 你被判決有罪。
 [[/div]]
-* [[[scp-zh-425|破是「破洞」」]]] - 天體物理學老師
+* [[[scp-zh-425|破是「破洞」」]]] - 天體物理學老師##grey|（8/16）##
 [[div style="border-left: darkred 0.2rem solid; padding-left: 8px; margin-top: 12px; margin-bottom: 12px; color: #white; opacity: 0.8;"]]
 救　我　在　裡　面。
 [[/div]]
-* [[[scp-zh-454|早是「滋潤」]]] - 華倫海特老師
+* [[[scp-zh-454|早是「滋潤」]]] - 華倫海特老師##grey|（8/17）##
 [[div style="border-left: darkred 0.2rem solid; padding-left: 8px; margin-top: 12px; margin-bottom: 12px; color: #white; opacity: 0.8;"]]
 地表不復有液態水存在。
 [[/div]]
-* [[[scp-zh-715|梅是「門禁」」]]] - 管理員老師
+* [[[scp-zh-715|梅是「門禁」」]]] - 管理員老師##grey|（8/18）##
 [[div style="border-left: darkred 0.2rem solid; padding-left: 8px; margin-top: 12px; margin-bottom: 12px; color: #white; opacity: 0.8;"]]
 SCP-ZH-715內仍有6名租約尚未到期之一般民眾。
 [[/div]]
-* [[[scp-zh-737|向是「新建項目」]]] - 檔案老師
+* [[[scp-zh-737|向是「新建項目」]]] - 檔案老師##grey|（8/19）##
 [[div style="border-left: darkred 0.2rem solid; padding-left: 8px; margin-top: 12px; margin-bottom: 12px; color: #white; opacity: 0.8;"]]
 ...承上則，經異常改動後還原的資訊不再可信。
 [[/div]]
-* [[[scp-zh-754|暖是「您的話語」]]] - 雷雨老師
+* [[[scp-zh-754|暖是「您的話語」]]] - 雷雨老師##grey|（8/20）##
 [[div style="border-left: darkred 0.2rem solid; padding-left: 8px; margin-top: 12px; margin-bottom: 12px; color: #white; opacity: 0.8;"]]
 唯一對外的窗戶和窗格已被鎖死。
 [[/div]]
@@ -442,15 +442,15 @@ SCP-ZH-715內仍有6名租約尚未到期之一般民眾。
 [[div style="border-left: darkred 0.2rem solid; padding-left: 8px; margin-top: 12px; margin-bottom: 12px; color: #white; opacity: 0.8;"]]
 我是不會再失手的。
 [[/div]]
-* [[[scp-zh-792|開是「XX」]]] - 反事實歷史老師##grey|（8/23）##
+* [[[scp-zh-792|開是「鯨吞」]]] - 反事實歷史老師##grey|（8/23）##
 [[div style="border-left: darkred 0.2rem solid; padding-left: 8px; margin-top: 12px; margin-bottom: 12px; color: #white; opacity: 0.8;"]]
 團隊由離開房間1開始隱約嗅到魚腥味，氣味在到達新一段走廊時更為強烈。
 [[/div]]
-* [[[scp-zh-809|冰是「XXX」]]] - 安克羅老師##grey|（8/24）##
+* [[[scp-zh-809|冰是「半衰期」]]] - 安克羅老師##grey|（8/24）##
 [[div style="border-left: darkred 0.2rem solid; padding-left: 8px; margin-top: 12px; margin-bottom: 12px; color: #white; opacity: 0.8;"]]
 我能清楚看到指尖的傷口持續擴散，但大腦抗拒理解、身體抗拒接受，這是我第一次離死亡如此接近。
 [[/div]]
-* [[[scp-zh-819|雪是「XX」]]] - 行為矯正老師##grey|（8/25）##
+* [[[scp-zh-819|雪是「囚因」]]] - 行為矯正老師##grey|（8/25）##
 [[div style="border-left: darkred 0.2rem solid; padding-left: 8px; margin-top: 12px; margin-bottom: 12px; color: #white; opacity: 0.8;"]]
 然而，安裝在女兒房內的攝影機於該日深夜突然出現故障，故障一直持續到該日清晨為止，在這一段時間內都沒能拍攝到任何畫面，因此無法直接確定女兒失蹤當晚的確切真相。
 [[/div]]

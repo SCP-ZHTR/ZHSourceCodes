@@ -395,9 +395,9 @@ McEnroe
 @@ @@
 
 [[include :scp-wiki:component:earthworm
-| first=false| last=false | hub=yes
-| previous-url=/scp-zh-792| previous-title=開是「鯨吞」
-| next-url=/scp-zh-819 | next-title=雪是「XX」
+| first=false | last=false | hub=yes
+| previous-url=/scp-zh-792 | previous-title=開是「鯨吞」
+| next-url=/scp-zh-819 | next-title=雪是「囚因」
 | hub-url=/zhongyuan-2024 | hub-title=「早梅詩」
 ]]
 
@@ -453,5 +453,3 @@ McEnroe
 
 =====
 [[include :scp-zh-tr:component:license-box-end]]
-
-@@ @@

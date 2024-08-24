@@ -97,7 +97,7 @@
 
 [[include :scp-wiki:component:earthworm
 | first=false| last=false | hub=yes
-| previous-url=/scp-zh-792| previous-title=冰是「半衰期」
+| previous-url=/scp-zh-809| previous-title=冰是「半衰期」
 | next-url=/scp-zh-840 | next-title=無是「XX」
 | hub-url=/zhongyuan-2024 | hub-title=「早梅詩」
 ]]
