@@ -29,14 +29,14 @@ span.printuser  {
 [[include :scp-wiki:component:earthworm
 | first=false | last=false | hub=yes
 | previous-url=/scp-zh-787 | previous-title=枝是「鐘點」
-| next-url=/scp-zh-809 | next-title=冰是「XXX」
+| next-url=/scp-zh-809 | next-title=冰是「半衰期」
 | hub-url=/zhongyuan-2024 | hub-title=「早梅詩」
 ]]
 
 
 [[div class="footer-wikiwalk-nav"]]
 [[=]]
-<< | [*/zh-whale-hub 測量鯨魚的長度] |
+<< | [*/zh-whale-hub 測量鯨魚的長度] | >>
 
 << @@              @@[[[scp-zh-xxw|-791]]] | @@              @@-792 | @@              @@[[[scp-zh-xxy|-793]]] >>
 [[/=]]
