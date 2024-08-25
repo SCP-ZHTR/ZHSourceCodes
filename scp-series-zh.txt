@@ -1,4 +1,4 @@
-[[div class="content-panel standalone series"]]
+@@raw text@@[[div class="content-panel standalone series"]]
 [[div class="content-toc"]]
 **目錄**
 
@@ -840,7 +840,7 @@
 + 800~899
 * [[[SCP-ZH-800]]] - 雷暴
 * [[[SCP-ZH-801]]] - 湮滅公分母
-* [[[SCP-ZH-802]]] - [禁止訪問]
+* [[[SCP-ZH-802]]] - 利刃所向
 * [[[SCP-ZH-803]]] - [禁止訪問]
 * [[[SCP-ZH-804]]] - 桃花園
 * [[[SCP-ZH-805]]] - [禁止訪問]
