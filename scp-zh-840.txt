@@ -1,0 +1,866 @@
+[[include :scp-zh-tr:component:preview
+|text=我試圖去尋回落失的碎片，但我發現......]]
+[[include :scp-wiki:component:preview
+|text=我試圖去尋回落失的碎片，但我發現......]]
+
+[[div style="display: none;"]]
+[[include component:image-block
+name=https://scpdsandbox.wdfiles.com/local--files/pao-mian-s-file/840image
+|caption=妄滅
+|width=100%
+|align=center]]
+[[/div]]
+
+
+[[include :scp-zh-tr:theme:black-highlighter-theme]]
+[[include :scp-zh-tr:theme:jakstyle]]
+
+[[module CSS]]
+@import url('https://fonts.cdnfonts.com/css/droid-serif-2');
+@import url('https://fonts.googleapis.com/css2?family=Qwitcher+Grypen:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Encode+Sans:wght@100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Chocolate+Classical+Sans&display=swap');
+@import url(https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css);
+
+:root:lang(zh){
+  --header-title: "S.C.P FOUNDATION";
+  --header-subtitle: "WE DIE IN THE DARK";
+}
+
+.tittle-s {
+    font-family: 'Droid Serif', sans-serif;
+}
+
+.tittle-e {
+    font-family: "Qwitcher Grypen", cursive;
+    font-weight: 700;
+    font-size: 2.1em;
+    line-height: 1.8;
+}
+
+.footnotes-footer{
+display:none;
+}
+
+.meta-title {
+  color: white;
+  font-weight: normal;
+  margin: 0 0 0.6em;
+  padding: 0 0 0.25em;
+  font-size: 150%;
+}
+.meta-title p {
+  margin: 0;
+}
+
+.terminal-box{
+    border:solid 3px rgb(var(--swatch-text-general));
+    background:#711F22;
+    padding:1px 15px;
+    margin: 10px auto;
+    text-align: center;
+    color:white;
+    font-size: 105%;
+}
+
+.footnotes-footer { 
+    display: none; 
+}
+
+body {
+  font-family: "Encode Sans", "Chocolate Classical Sans", monospace;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+@import url(https://fonts.googleapis.com/css?family=Roboto:300,400);
+
+.snip1533 {
+  color: white;
+  display: inline-block;
+  font-family: 'Roboto',  "Chocolate Classical Sans", Arial, sans-serif;
+  font-size: 1em;
+  text-align: center;
+  max-width: 310px;
+  min-width: 250px;
+  position: relative;
+  width: 100%;
+  background-color: #141618;
+  border-radius: 5px;
+  border-top: 3px solid #f8f8f8;
+}
+
+.snip1533 *,
+.snip1533 *:before {
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  -webkit-transition: all 0.1s ease-out;
+  transition: all 0.1s ease-out;
+}
+
+.snip1533 .figcaption {
+  padding: 7% 5% 2% 5%;
+}
+
+.snip1533 .figcaption:before {
+  -webkit-transform: translateX(-50%);
+  transform: translateX(-50%);
+  background-color: #141618;
+  border-radius: 50%;
+  color: white;
+  content: "\f10e";
+  font-family: 'FontAwesome';
+  font-size: 32px;
+  font-style: normal;
+  left: 50%;
+  line-height: 60px;
+  position: absolute;
+  top: -30px;
+  width: 60px;
+}
+
+[[/module]]
+
+
+[[=]]
+[[module rate]]
+##grey|Pao Mian & Gh0st2##
+[[/=]]
+
+@@ @@
+@@ @@
+
+[[=]]
++++ [[span class="tittle-s"]]Shattered (Adj.)[[/span]]
+Very Upset, Exhausted.
+[[/=]]
+
+@@ @@
+@@ @@
+----
+
+@@ @@
+@@ @@
+
+[[div class="terminal-box"]]
+**警告：** 本文章帶有**壓抑**及**血肉恐怖**內容，請斟酌閱讀。
+[[/div]]
+
+@@ @@
+@@ @@
+
+----
+
+@@ @@
+@@ @@
+
+[[div style="opacity: 0.4;"]]
+
+日夜顛倒的調律，隨著它那所剩無幾的心跳聲一同散去。沉重的呼吸搭配著迷茫的想法，眼角的一絲餘光沾染了淚水，從它的臉頰流過並化為長槍直入它的心臟。它曾經想像過——自己正在雙手掐住另一個自己的脖頸，試圖使後者窒息死去，隨後從手中握緊憑空而生的紫紅刀刃，直接往它的喉結處刺去並發出燒灼聲，但沒有任何的痛感傳遞它的全身，甚至連一絲想要試著哭喊及尖叫的念頭都被抹去；它認為自己沒有這樣的資格去作反應。而後，結束了終生無果的思想，它的真實隨後映入了眼簾，起了床並看了旁邊的書桌——翻了翻桌上的書本，那些是它前幾天為了完成某件事情，而親自去圖書館借閱的書。
+@@ @@
+之後，它隨手挑了一本來翻閱，埋頭於數小時的閱讀，只因那是唯一能夠表達當下一切的手段，從中尋找著一段能夠反映它一人世界的意義，利用既有的文字及思想來求得一絲共鳴，同時也能證明一件事情——藉由這種方式而過的人並非只有它，也不會只有它自己跌落於這樣的深淵。狼狽的模樣和夜以繼日的夢魘正是罪惡感帶來的報應，完全崩潰的作息替這樣的日子添上了深灰色的悲哀及可嘆：這一切只是為了賦予自己前進下去的意義。隨後，它找到了——那是取自於村上春樹的《聽風的歌》前段內容的其中一頁，它仔細端倪了裡面的文字，並從中擷取了一段將其抄寫下來：
+
+@@ @@
+
+[[div class="snip1533"]]
+[[div class="figcaption"]]
+[[==]]
+[...] 現在，我想說。當然問題依然一個也沒解決，說完以後或許事態仍然完全相同。結果，寫文章並不是自我療養的手段，而只不過是對自我療養所做的微小嘗試而已。但是要說得坦白真誠卻非常困難，我越想說實話，正確的語言就越沉到黑暗深處去。我並不想辯解。至少在這裏所說的，是現在的我的最佳狀態。不需要附加什麼。不過雖然如此，我還是這樣想：搞不好很久以後，幾年或幾十年後，可以發現得救了的自己。
+[[/==]]
+[[/div]]
+[[/div]]
+
+@@ @@
+那段話語對它來說便是唯一的希望，至少是願意提筆繼續書寫屬於它自己一人的故事的動力。即便那樣的光芒在旁人眼中是實屬悲哀且微不足道的，亦或者是能有更好的出路可以抉擇；但唯有身為真實的自己，才能理解何謂救贖的出路——那是前往伊甸園之前，必須要先經歷的自我苦難與無止盡的思想折磨，其最大的源頭並非是他人，而正是自己的影子。它曾經數次詢問著自我，何謂成功及失敗，何謂現實與理想，應當活出什麼樣的故事並譜寫出什麼樣的經歷；直到它面對了挫折之時，它才意識到這樣的思想並非只是它一人獨有。
+@@ @@
+它並非是唯一一個這樣想過的人。
+@@ @@
+最後該怎麼辦？它不僅思索著，想到過去它曾一手鑄下的過錯的孽緣，它只能藉由自己接觸過的形式，把這樣的思想及歷程給表達出來，這是它艱難決定下來的。它選擇將自己的恐懼以某種形式盡可能地表達出來，只為了得到那虛偽、一時得到的解脫，期望能夠有人瞭解，只有一個也好。但問題來了：該怎麼開始，又要該怎麼結束？
+@@ @@
+它反覆思考著這個問題，直到它開始含淚入眠，藉由將大腦的意識壓入海水中沉澱，任由自己的思維化為魚群，不斷向著深處洄游所構築的高塔。最終，它開始目睹了另外一個自己所期望見到的幻想。
+@@ @@
+但這並非是它目睹到的第一次妄滅。
+[[/div]]
+
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+
+[[div style="background: url(https://scp-wiki.wikidot.com/local--files/barbarous-bread-box/Foundation%20Logo) center no-repeat; float: center; letter-spacing: 2px;"]]
+[[=]]
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+[[/=]]
+[[/div]]
+
+[[div class="meta-title"]]
+SCP-ZH-840.FTML
+[[/div]]
+
+[[div style="border-left: solid 3px rgb(228, 228, 228);border-right: solid 3px rgb(228, 228, 228);padding:20px;box-shadow: 0px 0px 3px rgba(0, 0, 0, 0.3);background: #303034; margin-bottom: 10px;"]]
+
+[[table style="border: none; width: 100%;"]]
+[[row]]
+[[cell]]
+[[size 125%]]**項目編號：** SCP-ZH-840[[/size]]
+[[/cell]]
+[[cell style="text-align: right;"]]
+[[size 125%]]**LEVEL 5**[[/size]]
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+[[size 125%]]**機密分級：** Damballah / Binah[[/size]]
+[[/cell]]
+[[cell style="text-align: right;"]]
+[[size 125%]]**機密**[[/size]]
+[[/cell]]
+[[/row]]
+[[/table]]
+
+----
+**Archived Containment Procedures：** 根據最新的研究情報──SCP-ZH-840已經被[[[scp-4972|自適應收容室（Adaptive Containment Chamber）]]]永久收容，其思想已被封存至SCP-ZH-840研究團隊的理念圈（Noosphere）內。為保證基金會能夠實施對項目的收容程序，這些人員的存活狀態將隨著SCP-ZH-840的效應活化而不斷被複寫，因此請勿干涉這些人員的生死狀態。SCP-ZH-840對當前現實以及人類理念圈的改變，對基金會而言是異常但必須延續下去的存在，因此照樣無視之。
+@@ @@
+**Archived Description：** SCP-ZH-840被認定是人類理念圈所具現的腐朽元素，通常存在於人類的腦內記憶、或是任意階段的REM睡眠活動中。換句話說──項目本身是一種未能預判的侵入性思維（Intrusive Thoughts）。需要注意的是，SCP-ZH-840的完全顯現將會導致理念圈與身體機能的界線完全模糊化，而在部分情況中，甚至被偵測到具有高強度的[[[scp-4763|感傷力（Pathos）]]]，意味著SCP-ZH-840能夠透過對思想上的交互，對人體造成不可逆的物理、或精神上的危害。
+
+----
+
+[[>]]
+Written By [[[scp-5370|Amitha Sanmugasunderam]]]
+[[span style="opacity: 0.3;"]]Make Me Sad, Make Me Mad, Make Me Feel Alright?[[/span]]
+[[/>]]
+[[/div]]
+
+@@ @@
+
+[[div class="meta-title"]]
+RAISA-NOTICE.EXE
+[[/div]]
+
+[[div style="border: solid 2px #f8f8f8; padding: 4px 15px; box-shadow: 0 1px 3px rgba(0,0,0,.2);"]]
+[[=]]
+[[div style="background: #38383c; color: #ffffff; padding: 5px; padding-left: 40px; padding-right: 40px; margin-top: 10px; margin-bottom: 10px;"]]
++ {{⚠ RAISA WARNING ⚠}}
+[[/div]]
+[[/=]]
+
+這份文件有著多段未經證實、且尚不完整的描述，因此被我部列入關注之項目。根據初步展開的調查：被命名為「__SCP-ZH-840__」的相關編輯者之身分並不存在，該文件內所提到的對象均與現實中的人物毫無任何關係、或是不存在；根據其撰寫的文件內容，以及最初發現的過程來看——推斷當前現實（或是其它可能的子時間線）發生了以下未經證實的超常事件：
+
+[[div style="padding:15px;"]]
+
+* 當前現實經歷了一起超形上學特性改變，並影響到了原現實的敘事維度之權位。推測即將發生一場[[[SCP-3812|PK級-「萬魔殿」情景]]]，並大規模毀滅現有的時間線以及其衍生的敘事節點。
+[[div style="height:5px;"]]
+[[/div]]
+* 當前現實經歷了一起大規模的現實常態重組，推測可能曾經發生過CK級-「現實重構」情景，大幅影響了原現實的穩定度及歷史演進，並間接導致了全體人類對某個事物或概念的認知喪失。
+[[div style="height:5px;"]]
+[[/div]]
+* 當前現實經歷了基線時間上的位移，並導致原本現實的因果遭到全面修改，推測很有可能是經過大規模重構之後，所發生的[[[https://scp-wiki.wikidot.com/scp-5711|TK級-「因果重組」情景]]]。意味著當前現實所經歷的時間，並非是真正意義上的正統歷史，有可能是經過異常大規模轉變之後的結果。
+[[div style="height:5px;"]]
+[[/div]]
+* 有可能以上皆是，意味著當前現實在某個未知的時間點，發生以上所列出的大規模重構事件；並竄改全人類的理念圈，並導致對某個概念或事物的認知被全面覆寫，且導致了這種狀況具有某種形而上學特性。
+[[/div]]
+
+正在反向追查可能的來源。在最終調查結果出爐之前，請對該文件當中的所有資訊保持著客觀意見，並提醒自己：這些記載的事件並未發生在本基線現實之中。
+@@ @@
+
+----
+
+[[>]]
+OVERSEERS EYES-ONLY
+[[span style="opacity: 0.3;"]]The Only Paradise Is Paradise Lost[[/span]]
+[[/>]]
+
+[[/div]]
+
+@@ @@
+
+[[div class="meta-title"]]
+ADDENDUM.FTML
+[[/div]]
+
+[[div class="scp-image-block block-center" style="width:100%;"]]
+[[image https://scpdsandbox.wdfiles.com/local--files/pao-mian-s-file/Heartbroken.jpg style="width:100%;" link=#]]
+[[div class="scp-image-caption" style="width:100%;"]]
+Vincent Van Gogh, "Wheat Field with Crows". Circa 1890.
+[[/div]]
+[[/div]]
+
+----
+
+[[div class="blockquote" style="border-left: solid 3px rgb(228, 228, 228);border-right: solid 3px rgb(228, 228, 228);padding:20px;box-shadow: 0px 0px 3px rgba(0, 0, 0, 0.3); margin-bottom: 10px; background-image: url(https://scpdsandbox.wdfiles.com/local--files/pao-mian-s-file/My-Blood.png); background-position: right bottom; background-repeat: no-repeat; background-size: 80%;"]]
+
+**格里森主管：** 這杯是敬我們全身而退。
+@@ @@
+**桑提研究員：** 乾杯。
+
+[[div style="border-left: white 0.2rem solid; padding-left: 8px; margin-top: 12px; margin-bottom: 12px; color: #white; opacity: 0.8;"]]
+語畢，所有人在客廳內舉杯對飲，每個人的臉上皆出現了歡樂的表情，對接下來所要發生的事情表現得無憂無慮。於是他們身穿著平常不會穿出門的便衣，坐在沙發上聊著彼此身上發生過的故事。這種看似平凡無奇的聚會場合——對他們而言，卻是一件相當難得的事情。
+[[/div]]
+
+**格菲研究員：** ......有時候，我還真不敢相信自己會有這樣的一天。我的意思是，基金會竟然會同意讓我們在這邊休息過剩下的生活，火勢遏阻部的人都沒在管這些事情的嗎？
+@@ @@
+**米蘭研究員：** 唉呦！老兄，你這傢伙也真夠怪的。反正事實就是這樣——現在我們都退休了，至少找個時間享個清福吧？還是你被那些異常玩意兒給嚇到腦子不清醒了？
+@@ @@
+**哈爾芬研究員：** 她說的對。我們都已經退休了，不用再想那種事情了。
+@@ @@
+**格菲研究員：** 你們說的對。
+@@ @@
+**阿米莎研究員：** 慶祝我們活下來了。
+
+[[div style="border-left: white 0.2rem solid; padding-left: 8px; margin-top: 12px; margin-bottom: 12px; color: #white; opacity: 0.8;"]]
+格菲臉上露出了微笑，看似被這種鼓勵（也許，還有外加一些嘲諷意味）的話語給打動了內心。在他的內心深處，很難想像一個以「必要之惡」為座右銘的超異常組織就這樣批准了他們幾個人的退休提議，連同記憶刪除都不需要接受，就能重獲一般公民的身份回到了常態社會的帷幕之下生活。
+[[/div]]
+
+**格菲研究員：** 老姊，妳面色看起來不是很好？
+
+[[div style="border-left: white 0.2rem solid; padding-left: 8px; margin-top: 12px; margin-bottom: 12px; color: #white; opacity: 0.8;"]]
+站在一旁的阿米莎意識到格菲正在談論的對象——正是她。她裝作鎮定並清了清嗓子後，開口向他確認並應答道。
+[[/div]]
+
+**阿米莎研究員：** 我嗎？
+@@ @@
+**哈爾芬研究員：** 對呀──阿米莎，最近妳看起來一直像是在想某件事似的，臉色看起來也不是很好。怎麼了嗎，是不是米蘭又跟妳說些什麼奇怪的話了？
+
+[[div style="border-left: white 0.2rem solid; padding-left: 8px; margin-top: 12px; margin-bottom: 12px; color: #white; opacity: 0.8;"]]
+米蘭聽到這話顯得相當不悅，並一臉無辜地為這番言論反駁說道。
+[[/div]]
+
+**米蘭研究員：** 哇喔！？不是欸，這又干我什麼事！媽的她就一整天像那樣死氣沉沉的，老是不回我的話，我每天找她聊天，她都只是那幾句像是在敷衍人似的；如果真不想跟我說話大可直接跟我說。我只能說被罵活該啦。
+@@ @@
+**格菲研究員：** 拜託老兄！你就是因為這樣才跟人結下不少仇，你能不能就懂得看場合還有別人當下的心情？說真的，你有時候外耗得太過嚴重了，不要老是把情緒寫在臉上給人看。
+@@ @@
+**米蘭研究員：** 關這個什麼事？
+@@ @@
+**格里森主管：** 好了，都冷靜點。桑堤，你也說點話吧。
+@@ @@
+**桑堤研究員：** 好了，大夥們——我們都是退休老人了。別弄得像是在跟三歲小孩吵架似的，況且：我們今天來這裡不就是為了要好好慶祝一番嗎？來吧，就來慶祝幾杯好好過！
+@@ @@
+**阿米莎研究員：** 是阿，你說的對。
+
+[[div style="border-left: white 0.2rem solid; padding-left: 8px; margin-top: 12px; margin-bottom: 12px; color: #white; opacity: 0.8;"]]
+阿米莎試著露出笑容，試圖減緩現場的尷尬氣氛。但在那虛假的面容背後——卻是藏匿了難以言喻的想法。眾人對此感到擔心，畢竟他們都是這個團體的一份子，從認識多年的朋友，變成了能夠無所不談的知心。尤其是在一旁的格里森，更是如此想著——他認為阿米莎平常都在這種環境下與人交際，但卻不曾表露過自己的想法，老實說這樣的她在某些情況表現得太過順從了；她看似不想與人爭執，甚至會在那般情況下做出某方面的妥協。
+[[/div]]
+
+**阿米莎研究員：** 跟你們在一起的感覺真的很快樂。
+
+[[div style="border-left: white 0.2rem solid; padding-left: 8px; margin-top: 12px; margin-bottom: 12px; color: #white; opacity: 0.8;"]]
+某個東西正在裂開的聲音。
+[[/div]]
+
+**阿米莎研究員：** 只是時間到了。
+
+[[div style="border-left: white 0.2rem solid; padding-left: 8px; margin-top: 12px; margin-bottom: 12px; color: #white; opacity: 0.8;"]]
+阿米莎從背後拿出深藏許久的戰鬥小刀，整個動作都很流利且不帶任何的失誤。她緊握住刀柄並將刃口斬向米蘭的脖頸，後者留下了一個極深的傷口並開始噴湧大量血花；米蘭試圖想要說點什麼，但她的聲帶已經被完全斬斷導致無法發出任何的聲音，眾人只能看著眼前的這一幕突然發生——目睹她面目猙獰地忍受著極端的痛苦並緩慢死去。
+[[/div]]
+
+**格菲研究員：** 米蘭——幹你娘不——阿米莎！
+
+[[div style="border-left: white 0.2rem solid; padding-left: 8px; margin-top: 12px; margin-bottom: 12px; color: #white; opacity: 0.8;"]]
+眾人看著倒地且血流不止的米蘭，阿米莎沒有停下剛才的動作，繼續反握著小刀不斷地捅向米蘭的腹部。她試圖想要尖叫，但隨之帶來的疼痛感之劇烈到早已麻痺了她的感官跟思維；最後，她的眼瞳從原先驚恐且泛淚的朱紅變為了黯淡無光的灰白。
+[[/div]]
+
+**格菲研究員：** 拜託停下——阿米莎——阿米莎妳這傢伙他媽的難道瘋了嗎！？？
+@@ @@
+**阿米莎研究員：** 這場不切實際的幻想要到何時才能破滅。
+
+[[div style="border-left: white 0.2rem solid; padding-left: 8px; margin-top: 12px; margin-bottom: 12px; color: #white; opacity: 0.8;"]]
+阿米莎立即從外套口袋拿出了一把上膛好的左輪手槍，朝著格菲的右胸腔開了數槍，大量的彈孔留在他身上並不斷出血。他驚恐地看了看自己，隨後瞪大眼睛盯著阿米莎——直至他死去。
+[[/div]]
+
+**格菲研究員：** 阿米......莎。
+
+[[div style="border-left: white 0.2rem solid; padding-left: 8px; margin-top: 12px; margin-bottom: 12px; color: #white; opacity: 0.8;"]]
+最後一槍直接穿過他的眉心，緊接著穿過的是顱骨及大腦，將他的人生強制劃下了未盡的句點；而罪魁禍首對此只是漠視不管。阿米莎的臉上沾滿了剛才殺戮所噴濺的鮮血，她摸了下自己的臉龐，那隻手沾滿了那些人所留下的鮮紅——這讓她的腦海想起了一些舊事，當他們還是真實存在，且彼此的人生聯繫在一起的時候，那些充滿著色彩的記憶；以及身後那些被她親手埋葬、因她而起的深淵之底，將這些聯繫給斬殺在手中的罪惡根源。
+[[/div]]
+
+**阿米莎研究員：** 還不夠。
+
+[[div style="border-left: white 0.2rem solid; padding-left: 8px; margin-top: 12px; margin-bottom: 12px; color: #white; opacity: 0.8;"]]
+格里森——作為這棟屋子裡面，最後一位存活的人（排除掉阿米莎），他只是站在一旁，眼睜睜地看著這一切的發生。突如其來的生死存亡，以及隨之湧上來的悲憤及恐懼使他的雙腿發軟，不由自主地向後退了幾步，此時，他腦中所想的只有大量的噪點及空白，即便他想試著冷靜思考，想試圖釐清剛才到底發生了什麼事情；但這般景象所帶來的混亂早已擊潰了他的靈魂。他的身體早已明瞭一件事實——再過不久，他也會成為那些人的陪葬品。
+[[/div]]
+
+**格里森主管：** 阿米莎......拜託饒了我，我還有家人還照顧。我的孩子已經是末期了，一直以來我只能看著照片去思念他那風中殘燭般的生命；如今我終於得償所願......拜託妳了，阿米莎，看在我們是多年的深交的份上，答應你老友那最後的請求吧。
+@@ @@
+**阿米莎研究員：** 格里森，如果你是真實的話——說實話，我怎麼會硬生生拒絕這樣的請求；你的經歷讓我對你這個人感到同情，而我也一直強調你是我的知心之彼，我對你們每一個人都是如此。但我知道這並非是絕對的，現實跟虛幻本就是不一樣的東西，而這便是我在這一生中所意識到的事實。
+@@ @@
+**格里森主管：** 妳......妳到底在說甚麼？
+@@ @@
+**阿米莎研究員：** 你不是格里森。
+
+[[div style="border-left: white 0.2rem solid; padding-left: 8px; margin-top: 12px; margin-bottom: 12px; color: #white; opacity: 0.8;"]]
+阿米莎直接衝向格里森面前，她的手肘往格里森的頭顱揮去。而後者被撞倒在地，其鼻部流出大量的鮮血，格里森尖叫著——承受著剛才傳來的痛感並不斷退後，阿米莎只是靠步向前，用一種漠視的眼神從高處看著難看的他，那並非像是在看待一個活生生的人類，反而更像是在把他當成物品對待。阿米莎隨後抓起格里森的衣領，重重地撞向她的膝蓋，並不斷重複這動作直到對方沒有任何的反抗之力。
+[[/div]]
+
+**阿米莎研究員：** 你不是格里森，你只是我的夢境中所投影出來的假象。
+
+[[div style="border-left: white 0.2rem solid; padding-left: 8px; margin-top: 12px; margin-bottom: 12px; color: #white; opacity: 0.8;"]]
+阿米莎的聲音被格里森的哭喊跟尖叫聲蓋過，但她沒有因此感到煩躁。格里森只能仍由阿米莎蹂躪他的軀體，原本純白色的牆壁被大量噴出的鮮血蓋過。而他的後腦勺不斷被賞好幾記足以暈眩的重擊，格里森的腦海開始變得逐漸模糊且不斷地閃回應當不存在的記憶。
+[[/div]]
+
+**阿米莎研究員：** 真正的格里森早在我的思維當中死去了，只留下曾經的影子跟我的一廂情願——只因為我而引起的事端。因為我一手鑄下的過錯，而你只是對我的真實感到徹底的絕望。最後選擇與我切斷一切的關聯，不管我怎麼嘗試去挽回原本的日子，你唯一留給我的話語是永恆的憎恨及沉默。而換來的是我一輩子的懊悔。
+@@ @@
+**阿米莎研究員：** 他們也是對我這樣的自責感到徹底的死心，知道我這個人的本性就是這樣。一輩子只能活在自己留給自己的陰影，而我不曾試圖去責怪我之外的任何事物，只因我覺得自己沒有這樣的資質去講述他人的過錯，我覺得這些不過是自己罪有應得而已；而這樣的想法卻也成為了抹殺他人之間聯繫的長槍，最終回到了我自己的缺口。
+@@ @@
+**阿米莎研究員：** 他們最後也選擇了將我留在了我早就預期的地方，我知道我可能會被這樣子孤離——哪怕他們的本意並非是這樣，或者是仍對我抱有最後的期望。
+
+[[div style="border-left: white 0.2rem solid; padding-left: 8px; margin-top: 12px; margin-bottom: 12px; color: #white; opacity: 0.8;"]]
+只見牆壁上的兩道影子不斷相互扭打著，其中一人不斷向另外一個人揮拳毆打，直到對方再也沒有任何的聲息；白熾燈光打在那個人的身上——看見的是滿臉鮮血、飄著亂髮的阿米莎，她邊喘著氣並抹去了嘴角上的血漬，隨後映入眼簾的——是被壓倒在地上的格里森，他的臉部腫脹並有著多處面積瘀血，其胸口被捅了好幾刀並流出大量的鮮血。
+[[/div]]
+
+**阿米莎研究員：** 起初，我想試著說出點什麼有意義的詞彙，我有想過試著跟他們說出這些事情——包括我身上所經歷的一切、還有我自己腦中所浮現的那些念頭。我些許相信我的朋友，能夠理解我對此所做出的抉擇或是我的苦衷。但我最後卻失敗了，因為我對我自己的憎恨以及我認為自己只是加害者，不論過錯在誰都是如此，導致我沒辦法對我的所言所語作出擔保。
+@@ @@
+**阿米莎研究員：** 而結果就是：我沒辦法構建出一個有意義的「意義」。
+
+[[div style="border-left: white 0.2rem solid; padding-left: 8px; margin-top: 12px; margin-bottom: 12px; color: #white; opacity: 0.8;"]]
+已經死亡多時的米蘭，她的臉部開始出現凹陷。看似受到極大的外力向下壓去，這導致了她的眼球爆裂，五官的皮膚開始逐漸剝離，並露出了大量的骨頭以及血肉，隨著剝下的皮膚越來越多，整具屍體像是一隻在經歷蛻變的蟲繭——但裡面的蟲身早已腐爛不堪，只是一隻空有其表的死屍罷了。
+[[/div]]
+
+**阿米莎研究員：** 我曾經失去了知心的朋友，我們可以算是將近十年的深交。直到我們之間開始出現了不愉快的爭執，那就像是你的言語如同無形的刀刃，直接往對方的心臟刺入並攪動內部的血肉跟器官，但你對此卻深然不知情，就在你表現的無知的狀態下——成為一個被人唾棄的殺手。
+
+[[div style="border-left: white 0.2rem solid; padding-left: 8px; margin-top: 12px; margin-bottom: 12px; color: #white; opacity: 0.8;"]]
+格里森的屍體正在冒泡發爛，周遭的汙水開始浸漬他那破爛的染血衣物，牆上的黑色菌絲開始孳生著並落在地上生根。那些黴菌開始浮在水面上，並流進了屍體的口中直至填滿。阿米莎只是對這樣的景象感到麻痺不仁，接著她看了看四周躺臥在地上的屍體，其他人的死狀也和格里森相差無異，位於黑暗中的腐敗之物正在揮舞著看不見的爪牙，將其伸向死者最後應有的尊嚴。
+[[/div]]
+
+**阿米莎研究員：** 「你什麼都做不好」，那是他最後給我的一句話。接著然後呢？我只能看著這些成為我記憶的一部分，它們自然地成為了我這個人格的組成來源，最後造出了名為阿米莎的我。但是那些不愉快的元素依舊存在，還有名為過往的事物以及被賦予不再繼續的一切。
+
+[[div style="border-left: white 0.2rem solid; padding-left: 8px; margin-top: 12px; margin-bottom: 12px; color: #white; opacity: 0.8;"]]
+哈爾芬的面容以可見的速度腐爛，大量的屍斑開始出現在他的全身。周圍的菌絲開始蓋過並包覆整具屍體，僅存的血肉及器官被不知名的恐懼給蠶食——最後，哈爾芬的精神及靈魂皆刻劃在了原先的死狀上，直到它們被褻瀆成一張乾扁的人皮。周圍的污水混雜著他們的血液及肉塊，夾雜著青綠色的浮沫浸入了那張人皮裡面，使其變得極為腫脹且看似生不如死。所有人的屍體皆圍繞在阿米莎身旁，而她早已預料到這樣的結果。
+[[/div]]
+
+**阿米莎研究員：** [[[https://scp-wiki.wikidot.com/scp-3020|所以我選擇將自己的過往給埋葬於黑暗之中]]]，就跟我的第一次戀情一樣。沒錯，試圖去藉由這些記憶來將自己塑造得更加理想，這並非是所謂的天方夜譚；但是當你越是去將這些陳腐的事物拿去放入腦中的嘴，嘗試去咀嚼它們，最終那些玩意兒只會變成所謂的索然無味之骨。那些令你留有別種情感的元素，只會隨著時間被扭曲成你不想預見的樣子，而我們最終都將迷失在這條河流當中。
+
+[[div style="border-left: white 0.2rem solid; padding-left: 8px; margin-top: 12px; margin-bottom: 12px; color: #white; opacity: 0.8;"]]
+屍體內部的血液被污染成褐色及青綠色，不時帶著黑色的黏稠物。大量的蛆蟲開始在眼窩外壁爬行著，並不斷啃食剩餘的屍肉，灰白色的骨骼外露並接續出現多道明顯的凹陷跟洞口——那是它們享食之後所留下的殘渣，但它們會繼續侵食下去直到那些元素不復存在。這些人的死狀已經變得面目全非。
+[[/div]]
+
+**阿米莎研究員：** 那些人都依戀過我，而我也喜歡那種依戀，我不想讓那樣的記憶就此消失。但當你意識到那些逝去的時間，只會告訴你必須活在這樣的現實之中，你周圍的一切都會破碎。它們全都破碎了，連同我們當年所共處的愉快時光一同擊潰，沉澱於腦內的大海深處。而我究竟是活在真正的當下，又或者只是打著理性為名的缸中之腦？
+
+[[div style="border-left: white 0.2rem solid; padding-left: 8px; margin-top: 12px; margin-bottom: 12px; color: #white; opacity: 0.8;"]]
+屋子內的牆壁開始出現多道洞口，每個洞皆竄出成千上萬的蛆蟲及[[[https://scp-wiki.wikidot.com/scp-3966|狼蛛]]]。它們開始沿著四周爬行並蠕動著，吞噬著周遭一切能夠看見及觸摸得到的形物。這時客廳內的景象讓人感到噁心不適，每具屍體的外形都開始出現嚴重扭曲，已經無法辨認這些屍體生前的樣貌，其虛假的靈魂也將被菌絲及蟲群受盡永世的折磨。即便如此，阿米莎仍對這樣的結果表現得十分冷漠。
+[[/div]]
+
+**阿米莎研究員：** 那些沉默的言語如同懸掛在天花板的麻繩一樣，緊勒住你的脖頸並使你無法呼吸。動脈內的充氧血逐漸流失，最終使你的理智隨同你的視線一同模糊。而那並非是你所預期的結果，最終──原本的一切都將不復存在，那些你所想要試著去愛的人事物，會因為你的所作所為而開始止住應有的和平，你只會看到他們離去的影子，還有對你這個人格所表露出的失望及厭惡的眼神，那便是你這個人一生的原罪。唯有頭上永不停歇的暴雨和烏雲籠罩著你的殘餘存在，那正是你留給自己一人的百年孤寂。
+
+[[div style="border-left: white 0.2rem solid; padding-left: 8px; margin-top: 12px; margin-bottom: 12px; color: #white; opacity: 0.8;"]]
+牆壁的洞口開始流出帶有腐肉味的黑色粘液，當中帶有一點血紅色的鏽跡。那些粘液最終充斥著阿米莎的腳下，並淹沒了原本的那些屍體——粘液首先是進入了屍體的口中，並鑽入了喉嚨以及支氣管、甚至是每個微血管，可以見到它們的皮膚開始出現黑色的斑點跟大片的瘀青，準備奪取它們身上的所有事物。
+[[/div]]
+
+**阿米莎研究員：** 我這一生犯下太多的過錯，導致我間接失去了一些對我來說無比珍貴的東西。那是用你全身的血肉豁出去也無法換取到的事物，那些東西只會是河面上的浮光幻影，而他們也只會飲下這條忘川的河水來去遺忘那些灰濛般的記憶殘片。
+
+[[div style="border-left: white 0.2rem solid; padding-left: 8px; margin-top: 12px; margin-bottom: 12px; color: #white; opacity: 0.8;"]]
+
+周遭的一切皆被包覆著成千上萬隻的蛆蟲，它們那不斷蠕動的身形彷彿像是構建了一場活生生的人間煉獄，那些屍體所殘留的、早已發膿潰爛的四肢滋生了難以言喻的孽種，腦中的一切早已成為了原罪的溫床。這些事物的存在，讓阿米莎的全身如同被刀割過般刺痛難耐——但她還是強忍下來這樣的痛苦，只因這些代價與她自身的經歷以及如今被剝奪的一切相比，早已微不足道且永無償還之日。這棟屋子早已成了煉獄的大門，這裡便是被流放之人的悲歌，見證他們此生最大的苦難及虛偽的救贖。
+[[/div]]
+
+**阿米莎研究員：** 我就像是活在一場人間煉獄，我的身體不斷在極端的壓迫下不斷苟延殘喘；過著相當腐敗的生活並戴著面具融入這個社會，只希望我能奢求那些事物可以「留下」，我交出了我的尊嚴跟人格來作為籌碼；我希望自己能跟那些人繼續成長及陪伴下去，我期盼自己能有一個理想且健康的關係。
+
+[[div style="border-left: white 0.2rem solid; padding-left: 8px; margin-top: 12px; margin-bottom: 12px; color: #white; opacity: 0.8;"]]
+阿米莎還是決定熬過這一切，她只有這一點勝過於曾經的一切。那便是「保持理智」，因為她只能這樣做——唯有這樣才能將過去的那些事物挽留下來；儘管那是極為渺茫的亡羊補牢，但那是她最後所能留下的慰藉。這時——整棟屋子開始坍塌，所有的因果皆被蛆蟲咬噬殆盡，留下了最後一人的沉默與悔恨之意，其餘屍體的外形開始變得極其扭曲，而周遭的空氣逐漸變得可見，可見到足以讓人窒息的程度。
+[[/div]]
+
+**阿米莎研究員：** 但那正是我一手造成的。
+
+[[div style="border-left: white 0.2rem solid; padding-left: 8px; margin-top: 12px; margin-bottom: 12px; color: #white; opacity: 0.8;"]]
+最終，這些屍體帶有大塊的腫瘤及膿殤，逐一炸裂並褻瀆了整個空間的完整性。阿米莎的身上，除了沾有那些人的青綠色血跡、腸子、腎臟之外，還有那些形物所遺留的黑色粘液。她抹了抹身上的衣服，神情依舊是往常那樣——冷漠無情，再一次掏出身邊的小刀，靠近其餘仍尚「完整」的屍體並將他們的皮膚劃開，將其一層又一層地剝離，掏出了腸子以及內臟，她似乎正在確認自己所接觸到的一切是否屬於真實，亦或者是虛假的幻境。
+[[/div]]
+
+**阿米莎研究員：** ......我對於這樣的景象不再感到陌生，就算這是多麼地令人反胃且血腥不已，現在的我早已對此感到麻痺不仁了，身心上皆是如此。相反地——我對於內心的罪惡及愧疚所產生的投影，正反映了我所渴望的一切；卻也永遠也無法伸手取得它們，只因那些都只是掛著理想名號的幻影，而我只能親眼目睹到它們消失的殘渣，日復一日的折磨只是讓我的意識變得更加沉淪，卻也因此變得更加清醒。
+
+[[div style="border-left: white 0.2rem solid; padding-left: 8px; margin-top: 12px; margin-bottom: 12px; color: #white; opacity: 0.8;"]]
+阿米莎稍微仰頭看了一眼上方，原本的現實變得如此脆弱不堪，形成了滿是血肉盛宴的表象，但其內在卻是透明可見——如同全新的鏡子般貞潔，四面八方映射出了她此刻的殘影，一個又一個的阿米莎正在俯視著這裡的一切，她看著下一個她——再來是下一個她，那些全都是她的迭代，嵌套式的結構猶如永無止境的潘洛斯階梯，模仿著植物的特性，將那根莖深植在我的脊髓，隨之侵入、纏繞住我的松果體，帶來的痛苦在那一瞬間壓過了我對於恐懼思維的再構築，吞噬著我的心智，最終使其變得不再是潔淨的。
+[[/div]]
+
+**阿米莎研究員：** 我正在看著上千百萬個相似的景象，不是嗎？而我相信著自己：自己並非是第一次站在這裡結下這樣的孽緣。我正在看向更加遙遠的未來——那邊同樣包覆著一層如此迷濛的霧霾，只因那些全是指向未知的一切；但我的內心卻早已模擬、或者說是設想過如此的景象，甚至連那一絲的可能性——我所期望的可能、以及會令我陷入絕望的可能，這些使得我的軀體變得如此顫慄不安，不論是我、或者是其他人也好，這樣的境地終究只會驅使我們的理智走向沉穩的顛狂。
+@@ @@
+**阿米莎研究員：** 到頭來，我又能表明些什麼？如果他們就這樣離開我了，那就是我所給予的一切仍然不夠，我沒有把握好機會，就像過去那些對我感到失望或是幻滅的人們，所以導致了這一個緣分的殘缺。而我也沒有資格去為這樣的結局做出任何的表態，只有自我的意志才能動搖到自己所站在的真實，而那樣的真實——便是那些人的影子與我之間的交迭。
+
+[[div style="border-left: white 0.2rem solid; padding-left: 8px; margin-top: 12px; margin-bottom: 12px; color: #white; opacity: 0.8;"]]
+某個東西正在裂開的聲音。
+[[/div]]
+
+**阿米莎研究員：** 這就是我眼前所目睹到的真實。
+
+[[div style="border-left: white 0.2rem solid; padding-left: 8px; margin-top: 12px; margin-bottom: 12px; color: #white; opacity: 0.8;"]]
+周圍的現實就像玻璃一樣開始出現裂痕，被施壓了某種外力導致空間開始扭曲。碎裂聲開始頻繁傳出，那個聲音開始變得越發響亮，直到共振所帶來的碎裂聲貫徹了整個時間，並使一切具備因果的形物開始沉默。原本的屋子變成了一道金黃色的麥田，滿月懸掛在扭曲的深青色夜空之中，烏鴉的啼聲與展翅為這般的景象蒙上了一層哀戚，阿米莎只是看著她背後的黑暗，眼神沒有一絲的猶豫。
+[[/div]]
+
+**阿米莎研究員：** 這就是我內心盼求窺見的曙光。
+
+[[div style="border-left: white 0.2rem solid; padding-left: 8px; margin-top: 12px; margin-bottom: 12px; color: #white; opacity: 0.8;"]]
+阿米莎只是看著這樣的景色，內心沒有產生多餘的情感，因為她已經疲累了，對於這樣的滄海桑田已經感到麻木不仁，早已體會過這般痛苦之人，其內心所經歷的世界絕非是常人所能想像。她抬頭仰望著那個呈漩渦狀的天空，不禁回憶起當初跟那些朋友們的相處時光，直至最終——她才意識到這些都是出於自己之手，而那些往日的景象早已成了牆角中的殘渣，曾經美好的事物換到如今再也回不去了。
+[[/div]]
+
+**阿米莎研究員：** 而我......
+
+[[div style="border-left: white 0.2rem solid; padding-left: 8px; margin-top: 12px; margin-bottom: 12px; color: #white; opacity: 0.8;"]]
+阿米莎離開了那塊麥田，隨後來到一處黑暗的空間，那是她河流的匯聚點。就在她踏入的那一刻，遠處傳來的齒輪轉動聲充斥著整個空間，並不斷循此迴盪著她內心的空虛。有一盞白色燈光打在了她的前方——那是一扇帶有鏽蝕的銀灰色金屬艙門，表面鑲有一塊金色的標牌，讓你想起了令人熟悉的場景，那副標牌上面被人刻上：SCP基金會反常部（Department of Abnormalities）。就在她準備轉動把手，進去房間裡面的那一刻：她轉頭看向了正後方，那正是你所在的位置，她的瞳孔開始呈螺旋狀，每個線條各自發散並在中央匯聚成一點，那個點正映射了你的真實——她正在緊盯著你的靈魂。
+[[/div]]
+
+**阿米莎研究員：** 我希望沒人能夠理解那道曙光的含義。
+
+[[div style="border-left: white 0.2rem solid; padding-left: 8px; margin-top: 12px; margin-bottom: 12px; color: #white; opacity: 0.8;"]]
+枷鎖已被解放，帶來的是金屬摩擦的刺耳聲，讓你的潛意識再次被拉回現實。那是阿米莎對那裡所做出的訣別，但她的內心深處仍明白一件事情：那便是SCP-ZH-840依然存在著，並且永遠都不會消逝；除非人類嘗試放下真正的一切，否則那些泛黃的相片，終究會像那些屍體身上的蛆蟲，回到它們的歸屬——並侵蝕著我的腦迴路的布洛曼分區。阿米莎來到了黑暗的根源，最後的燈光正打在一張老舊的木製椅子上，那邊正坐著一具人類乾屍——那正是[[[scp-3999|詹姆斯 · 塔羅蘭]]]，其眼球早已腐爛而呈現出無底的空洞，取而代之的是不斷流下的黑色液體。
+[[/div]]
+
+**塔羅蘭研究員：** ##transparent|妳來了。##
+
+[[div style="border-left: white 0.2rem solid; padding-left: 8px; margin-top: 12px; margin-bottom: 12px; color: #white; opacity: 0.8;"]]
+塔羅蘭沒有回應，但阿米莎似乎能從死人的沉默當中體會到背後的寒意，在「生離死別」這樣的老對手面前，她再次感受到了何謂「孤獨」。我不知道那具屍體最終講了些什麼，但我唯一能夠知道的真相是：有些事情是我們永遠也無法知道，即便知道了也會被我們的記憶及人格給曲解的。而那些存在，應當隨著塔羅蘭的死去而一同埋葬於此。
+[[/div]]
+
+**阿米莎研究員：** 我們又見面了。
+
+[[div style="border-left: white 0.2rem solid; padding-left: 8px; margin-top: 12px; margin-bottom: 12px; color: #white; opacity: 0.8;"]]
+我的鮮血與臉頰所流下的淚水一同混合。
+[[/div]]
+
+**塔羅蘭研究員：** ##transparent|應該是說，「我」們。##
+
+[[div style="border-left: white 0.2rem solid; padding-left: 8px; margin-top: 12px; margin-bottom: 12px; color: #white; opacity: 0.8;"]]
+帶鹹的苦澀正預示著這場虛實般的謝幕。
+[[/div]]
+
+[[/div]]
+
+@@ @@
+
+[[div class="meta-title"]]
+NOTE.TXT
+[[/div]]
+
+[[div class="scp-image-block block-center" style="width:100%;"]]
+[[image https://scpdsandbox.wdfiles.com/local--files/pao-mian-s-file/I-Want-To-Cry-But-I-Cant.jpg style="width:100%;" link=#]]
+[[div class="scp-image-caption" style="width:100%;"]]
+[DATA CORRUPTION]
+[[/div]]
+[[/div]]
+
+----
+
+[[div class="blockquote" style="border-left: solid 3px rgb(228, 228, 228);border-right: solid 3px rgb(228, 228, 228);padding:20px;box-shadow: 0px 0px 3px rgba(0, 0, 0, 0.3); margin-bottom: 10px;"]]
+這個夢不真實且扭曲到令我想吐，還能依稀聞到那場夢境帶來的刺鼻血腥味，我夢到我正在啃食那些人的屍體，我親手殺了他們並以此循環無數個輪迴。我心中留下了難以磨滅的陰影，而我沒辦法將這些情感全盤托出給我所信任的人，只因為我覺得自己沒有成為受害者的資格，在那之前我堅信我必定有什麼事情是我所遺漏的，或者是我親手鑄下的過錯，從而導致我今天淪落到這種地步並藉由他人的暴力來撐活。我內心最為原始的本能以及我被規範化的理智，兩者之間相互衝突並使得我面前的一切形態變得是如此扭曲，但我必須要提醒自己將這些問題給藏露在深淵，以偽裝過後的表象來去跟身旁的重視之人相處，最後又是那一句謊言：「我沒事」。
+@@ @@
+我只想死去，但我畏懼永恆的失去。我認為在那片盡頭並沒有所謂的救贖，當你選擇離開了，那就是真的不復存在了，那些你所去想的那些人——只會因你的消失而將那些情緒給遺留到他們自身，有的甚至將其歸納為他們一生所造下的深厚大孽；這並非是我所預想的結果，我只是認為這樣的選擇能夠解決那些失去的東西，我認為這樣就能止住那個空虛的洞口，但仍有什麼東西在那裏面流淌著，所以我不能就這樣選擇自殺。
+@@ @@
+那些遺留的思緒是無法被揭露出來的，[[[SCP-3790|就跟那個地方一樣見不得光]]]。要是每個人的心中都有這樣的一個存在，那便是我們打從一出生起就有的因與果，有些未經修飾的概念或思維是只有當事者才能知曉的，而與個人未來的行為並非是絕對相對，但那些不過只是單方面，也就是我們自己一人所提供的說詞而已，唯有我們才能知道真正的涵義，但在他人眼中不過是一種扭曲的心。所以，我們最後選擇了什麼？或者說，我作為這個項目的立案者最後選擇了何種路？
+@@ @@
+最終我選擇當個罪人，我認為這些都是因我而起；故只能因我而終。
+@@ @@
+我只能選擇埋葬它們，就跟我們以往所親自做下的一切相同。現在，我處在一個盡是失去的世界，那正是符合我的本意——我希望自己的存在能隨著這樣的漠視而將過去的一切給平反掉：於是我將它自主收容在我的體內，那是一種多變的複合物，不斷地去侵蝕我現在的每分每秒，我換來了對他人而言的平靜跟淡化，而我卻只能在過往的流逝當中不斷受苦。就連那些常規的輔導或是治療方式，或是幾乎所有的表達形式皆無法減輕我真實的痛苦，連同我撰寫這份報告的當下也是如此。我想跟那些被我奪去平衡的人好好地道歉，甚至說出我以往未曾訴說過得一切——但我知道那只會變得更糟。於是將它們親手扼殺在我的搖床當中，最終化為了名為罪惡的蛆蟲在啃蝕著我的理性，那是一種透過既有的敘述手法也無法說清的惡。
+@@ @@
+對我喜歡的人跟我的朋友都是如此，也只能如此。我想試著去表達我內心的思緒萬千，直到我發覺：那些未被修飾的本我，只會讓人對我這樣的人格感到徹底失望，或是對我當中的所言所行——表露出我預想之外的情緒，但那並非是我的本意，也不應該是如此。因此，我只能透過另一種形式將我的思緒化為行動去付諸，只是想好好地表達我究竟為了什麼而哭泣，為了什麼而承擔了一切的罪惡，到頭來引起這般事態的源頭終究只能是自己——還有我對於失去這一概念本身的心生畏懼。願所謂的蒼天別讓我內心最為脆弱的一面嶄露給眾人。
+@@ @@
+我最後的研究結果便是：除我之外的所有人都離開這裡，只因這裡沒有任何的救贖。
+
+@@ @@
+
+----
+
+[[>]]
+Written By Amitha Sanmugasunderam
+[[span style="opacity: 0.3;"]]Make Me Sad, Make Me Mad, Make Me Feel Alright?[[/span]]
+[[/>]]
+[[/div]]
+
+@@ @@
+
+[[div class="meta-title"]]
+RAISA-NOTICE.EXE
+[[/div]]
+
+[[div style="border: solid 2px #f8f8f8; padding: 4px 15px; box-shadow: 0 1px 3px rgba(0,0,0,.2);"]]
+[[=]]
+[[div style="background: #38383c; color: #ffffff; padding: 5px; padding-left: 40px; padding-right: 40px; margin-top: 10px; margin-bottom: 10px;"]]
++ {{⚠ RAISA WARNING ⚠}}
+[[/div]]
+[[/=]]
+
+根據我部的最終調查結果：據信曾經收容了「__SCP-ZH-840__」的ACC單元已被找到。但其艙門被人用未知手段給完全焊死，這使得該單元具有極端的物理交互排拒性，嘗試透過強行突破的方式進入ACC已被證實無果。目前認定該項目已經被永久收容，除非另行通知，否則先前尋獲的文件將被重新歸檔並上傳至SCiPNET。根據監督者議會的要求，對當前基線現實之完整度的調查已被下令中止，將依照原本定義的「常態」繼續履行職責。
+@@ @@
+鑒於先前發現的文件之資訊，該項目的首席研究員——阿米莎•薩穆加桑德拉姆（Amitha Sanmugasunderam）的身份確實存在；但其生死狀態被認為是無法評估、且被視為是不必要的，根據該人員先前提交至基金會的有效遺囑，對其追授基金會之星的提議已被撤回，將對相關親屬及友人實施S級記憶消除；對形而上涵義的追查被認為是不必要的，讓相關的檢閱者自行發掘。
+@@ @@
+對於已知的情報，全人類的原罪將會延續下去。
+@@ @@
+
+----
+
+[[>]]
+OVERSEERS EYES-ONLY
+[[span style="opacity: 0.3;"]]The Only Paradise Is Paradise Lost[[/span]]
+[[/>]]
+[[/div]]
+
+@@ @@
+
+[[div class="meta-title"]]
+UNKNOWN.FTML
+[[/div]]
+
+[[div class="scp-image-block block-center" style="width:100%;"]]
+[[image https://scpdsandbox.wdfiles.com/local--files/pao-mian-s-file/I-Shall-Kill-Myself.jpg style="width:100%;" link=#]]
+[[div class="scp-image-caption" style="width:100%;"]]
+Where I Lost Us.
+[[/div]]
+[[/div]]
+
+----
+
+[[div class="blockquote" style="border-left: solid 3px rgb(228, 228, 228);border-right: solid 3px rgb(228, 228, 228);padding:20px;box-shadow: 0px 0px 3px rgba(0, 0, 0, 0.3); margin-bottom: 10px; background-image: url(https://scpdsandbox.wdfiles.com/local--files/pao-mian-s-file/My-Heart-Broken.png); background-position: right bottom; background-repeat: no-repeat; background-size: 90%;"]]
+
+[[div style="border-left: white 0.2rem solid; padding-left: 8px; margin-top: 12px; margin-bottom: 12px; color: #white; opacity: 0.8;"]]
+這裡是一處未知具體位置的狹小空間，周圍被擺滿了垃圾跟腐爛的廚餘堆，遠處可以看到大量的瓦礫堆被囤積在角落的牆壁。許久未見的阿米莎正坐在這個房間的唯一一張椅子上，那張椅子坐落在這個房間的正中央，看似是整個的重心所在。而阿米莎的面容跟先前相比，變得更加憂鬱且眼神充滿了絕望的色彩；之前打鬥所留下的傷疤似乎也沒有被包紮，導致她的臉上留下了一道又一道的疤痕，以及大片腫起的膿瘍。
+[[/div]]
+
+**阿米莎研究員：** 或許，這就是我的塔所告訴我的另一種方式，而這就是我研究出來的東西，將它們的一部分給轉譯出來的理因。至於這樣的方式能不能給我帶來一絲寬慰，那就又是另一回事了；但這些事情還沒有結束，光是自我收容還不夠，就在我試圖殺死我自己的影子之前，還需要留點什麼東西給那些人才行，至少要告訴他們：「我們還有避難所可以待留」。
+@@ @@
+**阿米莎研究員：** 「如果沒有，那就自己蓋一座」。
+
+[[div style="border-left: white 0.2rem solid; padding-left: 8px; margin-top: 12px; margin-bottom: 12px; color: #white; opacity: 0.8;"]]
+某個東西正在裂開的聲音，中間夾雜著不明的黏糊聲。
+[[/div]]
+
+**阿米莎研究員：** 但是，這個地方已經探訪過了，還有這個位置也已經被用過了，更為重要的是——我這個人的故事就說到這裡了；所以我需要換一個更大的空間重新開始。畢竟，所謂完美的文章並不存在，就像完美的絶望不存在一樣。
+
+[[div style="border-left: white 0.2rem solid; padding-left: 8px; margin-top: 12px; margin-bottom: 12px; color: #white; opacity: 0.8;"]]
+背後的意識逐漸變得明晰，阿米莎的部分軀體開始出現不正常的腫脹，一同進行的——還有她臉部肌肉所出現的裂痕，這種情況在生物學上是不可能發生的；但這裡是她一人所構建出來的虛空，因此所有的常規定律在這裡皆是空談。那些腫脹的肉塊開始出現大片的瘀青，而肉塊的異常增生所帶來的擠壓，讓皮下的微血管變得肉眼可見——裡面的血肉看似隨時都會沖破而出。隨著臉部出現越多的裂痕，阿米莎的血肉，以及跟她有關的一切事物，開始出現了物理學上的解離。
+[[/div]]
+
+**阿米莎研究員：** 至於在那之前的事情，等到那時你就會知道了。
+
+[[div style="border-left: white 0.2rem solid; padding-left: 8px; margin-top: 12px; margin-bottom: 12px; color: #white; opacity: 0.8;"]]
+那些腫脹且扭曲至無法辨認其原形的血肉，最終達到了這具身體能夠負荷的閥值，伴隨著血與結締組織一同炸裂湧出，碎肉及血花不斷噴出，並玷污了牆上原本的白色，阿米莎在這時已經被認定是慘死，她的面部也隨著爆炸一同出現大片的裂痕，隨後向外撐開並使得她的面部肌肉變得慘不忍睹，裡面的眼球跟鼻腔的碎肉都接連掉落在地，隨後出現的是她的大腦跟一同流出的腦脊髓液。
+[[/div]]
+
+**阿米莎研究員：** 因為真實的我還存在著。
+
+[[div style="border-left: white 0.2rem solid; padding-left: 8px; margin-top: 12px; margin-bottom: 12px; color: #white; opacity: 0.8;"]]
+而我認為自己只是隻披著名為「理智」的外皮的野獸。
+[[/div]]
+
+[[/div]]
+
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+
+[[div style="opacity: 0.4;"]]
+
+我只是一個看似清醒的野獸，而將那些想法給親手殺死並踩著每一個思維的屍骸。我一手捧起那些鮮血塗抹在我的臉上，因為我仍受到自己的禁錮。每當我再次醒來的時候，那些真實及虛假的元素便會混合在一起，讓我瞬間解離並分不清兩者之間的交界點，在近似瘋狂的三日月中，唯一能夠聽見的聲音，便是我對那些人所呼喊的「Mayday」；隨後，這段求救被我自己一人給靜默，跟著往昔的記憶（Your Past Memory）一同逆流於原罪的囚籠裡頭。
+@@ @@
+我已經厭煩試圖裝作鎮定向別人表示自己很好的虛假生活，我試圖掛著笑容，結果後面換來的是無止盡的空虛跟無助感，迷茫遮蔽了我的雙眼使我無法分辨未來的方向，即便我這樣告訴著自己必須振作下去，脫離當時無知的自己的影子，但那些事情以及曾經所留下的創傷皆告訴著我：「我的一部分影子與昔日產生了交迭」，而我依舊沒能完全逃離它們。
+@@ @@
+當我開始起草這東西時，我必須要讓自己埋頭去回想起來，將那些搞砸的場景逐一重建起來；再次將其摧毀殆盡。首先是和友人及所愛之人相處融洽的時光，其次是如何親手毀掉這樣的日子；當初的罪惡感留在我的腦海、跟我的內心，它們就如同餘音繚繞般揮之不去，即便試圖讓自己清醒去寫這些有意義的文字，但我的情緒還有我的眼淚表明了一件事實：「這不會是一個十全十美的選擇」。
+@@ @@
+而我最後選擇了冒險，只因這可能是我唯一得以尋求自我救贖的渺小可能。
+@@ @@
+那便是透過這種形式來讓自己流出更多的血，這樣我才能把自己的淚水跟悲痛全都寫進裡面；哪怕最後投射出來的——只是一丁點的殘渣也好。我希望能將自己對於某人的思念還有悔恨，以及我內心的恐懼，盡可能地化為能夠被理解、具有意義的文字，將其全都寫進去給眾人一覽。透過反覆的去回想，將它們從墳墓中的一角再次挖掘出來，並啃食著那些塵埃及土堆的每一粒養分，挑取當中的蛆蟲並不斷端倪著起因及結局，最終將它們全都蠶食鯨吞。只是為了把自己的故事給寫進去，並將其作為對自己的警惕，我不想再讓自己變得像是癲火般的狂徒。
+@@ @@
+妄滅的終究是我所重視的一切，那對我來說便是永遠的夢魘。
+@@ @@
+所以，我希望你能夠重視起自己現在所剩下的一切，好好陪伴那些被你所重視的人事物。因為失去這一概念，它們就像是流入了忘川的流水盡頭，當你或那些人飲下了泉水，曾經的一切就再也回不來了；而最可怕的是，我們只能將其當作是自己現實生活必經的一部分。
+@@ @@
+最終，這一切將周而復始下去。
+[[/div]]
+
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+
+[[div style="background: url(https://scp-wiki.wikidot.com/local--files/barbarous-bread-box/Foundation%20Logo) center no-repeat; float: center; letter-spacing: 2px;"]]
+[[=]]
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+[[/=]]
+[[/div]]
+
+[[div class="meta-title"]]
+MEMORY.TXT
+[[/div]]
+
+[[div class="scp-image-block block-center" style="width:100%;"]]
+[[image https://scpdsandbox.wdfiles.com/local--files/pao-mian-s-file/Suicide style="width:100%;" link=#]]
+[[div class="scp-image-caption" style="width:100%;"]]
+[DATA COMPLETED]
+[[/div]]
+[[/div]]
+
+----
+
+[[div class="tittle-e" style="background-image: url(https://scpdsandbox.wdfiles.com/local--files/pao-mian-s-file/My-Tears.png); background-position: bottom; background-size: 100%; background-repeat: no-repeat; padding-left: 4px; padding-right: 4px; padding-top: 1em;"]]
+[[=]]
+What are the roots that clutch, 
+What branches grow Out of this stony rubbish? 
+Son of man, You cannot say, 
+Or guess, For you know only
+A heap of broken images, Where the sun beats,
+And the dead tree gives no shelter, 
+The cricket no relief,
+And the dry stone no sound of water.
+@@ @@
+@@ @@
+@@ @@
+[[/=]]
+[[/div]]
+
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+
+[[div style="border: solid 2px #f8f8f8; padding: 4px 15px; box-shadow: 0 1px 3px rgba(0,0,0,.2);"]]
+
+= [[size 105%]][[[https://youtu.be/LDrG7mCEiV4?si=b9MwVnlm0PIVgjhB|而這就是我目前所能留下的慰藉了。]]][[/size]]
+
+[[/div]]
+
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+
+[[=]]
+
+**##grey|CREDITS##**
+@@ @@
+##grey|Article - Pao Mian##
+##grey|Illustration - Gh0st2 ( 唯魎 )##
+##grey|Critters - Gh0st2 & Hildegardis & Kikunai & AbyssDream
+Evans0920 & Ting129 & NocturnalT & YONGZUN
+犯罪心理學老師##
+@@ @@
+**##grey|RELATED CHARACTERS##**
+@@ @@
+##grey|Amitha Sanmugasunderam - Taffeta##
+##grey|Researcher Talloran - LordStonefish##
+@@ @@
+**##grey|RELATED STORIES##**
+@@ @@
+##grey|...Like Clockwork Hub - Decibelles##
+##grey|Unfiltered Exhaust Hub - TroutMaskReplica##
+@@ @@
+**##grey|SPECIAL THANKS##**
+@@ @@
+##grey|Reader - YOU##
+@@ @@
+
+[[include :scp-zh-tr:component:earthworm
+| first=false | last=false | hub=yes
+| previous-url=http://scp-zh-tr.wikidot.com/scp-zh-819 | previous-title=雪是「囚因」
+| next-url=http://scp-zh-tr.wikidot.com/scp-zh-850 | next-title=人是「XXX」
+| hub-url=http://scp-zh-tr.wikidot.com/zhongyuan-2024 | hub-title=「早梅詩」
+]]
+[[/=]]
+
+@@ @@
+
+[[include :scp-zh-tr:component:license-box]]
+=====
+
+[[div class="blockquote"]]
+**Filename:** Heartbroken.jpg
+**Name:** Vincent_van_Gogh_-_Wheatfield_with_crows_-_Google_Art_Project
+**Author:** Vincent van Gogh
+**Editor:** [[*user Pao Mian]]
+**License:** Public Domain
+**Source Link:** [https://commons.m.wikimedia.org/wiki/File:Vincent_van_Gogh_-_Wheatfield_with_crows_-_Google_Art_Project.jpg Wikimedia Commons]
+[[/div]]
+
+[[div class="blockquote"]]
+**Filename:** My-Blood.png
+**Name:** My-Blood
+**Author:** [[*user Pao Mian]]
+**License:** CC BY-SA 3.0
+**Source Link:** N/A
+[[/div]]
+
+[[div class="blockquote"]]
+**Filename:** I-Want-To-Cry-But-I-Cant.jpg
+**Name:** XDM_45_ACP_pistol
+**Author:** Brett_Hondow
+**Editor:** [[*user Pao Mian]]
+**License:** CC0
+**Source Link:** [https://commons.m.wikimedia.org/wiki/File:XDM_45_ACP_pistol.jpg Wikimedia Commons]
+[[/div]]
+
+[[div class="blockquote"]]
+**Filename:** I-Shall-Kill-Myself.jpg
+**Name:** Cellar
+**Author:** Xlucianx
+**Editor:** [[*user Pao Mian]]
+**License:** CC BY 3.0
+**Source Link:** [https://commons.m.wikimedia.org/wiki/File:Cellar.JPG Wikimedia Commons]
+[[/div]]
+
+[[div class="blockquote"]]
+**Filename:** My-Heart-Broken.png
+**Name:** My-Heart-Broken
+**Author:** [[*user Pao Mian]]
+**License:** CC BY-SA 3.0
+**Source Link:** N/A
+[[/div]]
+
+[[div class="blockquote"]]
+**Filename:** Suicide.jpg
+**Name:** Suicide
+**Author:** [[*user Pao Mian]]
+**License:** CC BY-SA 3.0
+**Source Link:** N/A
+[[/div]]
+
+[[div class="blockquote"]]
+**Filename:** My-Tears.png
+**Name:** My-Tears
+**Author:** [[*user Pao Mian]]
+**License:** CC BY-SA 3.0
+**Source Link:** N/A
+[[/div]]
+
+=====
+[[include :scp-zh-tr:component:license-box-end]]
+
+
+----

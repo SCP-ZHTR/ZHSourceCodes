@@ -329,7 +329,7 @@ text-shadow: 0 0 0.75rem rgb(var(--swatch-primary-darkest),0.75);
 |author=艾略特老師
 |art= https://i.imgur.com/spbIq4y.gif
 |url=http://scp-zh-tr.wikidot.com/scp-zh-840
-|title=無是「XX」
+|title=無是「妄滅」
 ]]
 
 [[include :scp-sandbox2-zh:draft:5325850-1o-ly074dry
