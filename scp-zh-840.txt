@@ -790,7 +790,7 @@ Evans0920 & Ting129 & NocturnalT & YONGZUN
 [[include :scp-zh-tr:component:earthworm
 | first=false | last=false | hub=yes
 | previous-url=http://scp-zh-tr.wikidot.com/scp-zh-819 | previous-title=雪是「囚因」
-| next-url=http://scp-zh-tr.wikidot.com/scp-zh-850 | next-title=人是「XXX」
+| next-url=http://scp-zh-tr.wikidot.com/scp-zh-850 | next-title=人是「人間曆」
 | hub-url=http://scp-zh-tr.wikidot.com/zhongyuan-2024 | hub-title=「早梅詩」
 ]]
 [[/=]]

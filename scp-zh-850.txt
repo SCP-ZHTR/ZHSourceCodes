@@ -1,0 +1,84 @@
+[[include :scp-zh-tr:component:scp-meta-title-hiding]]
+[[include :scp-wiki:component:preview
+text=二十一億秒的真桑友梨佳，每一秒過去就增添一具新的屍體，組成被隨機填滿的「人間暦（人形曆書）」。]]
+[[div style="display: none;"]]
+[[include component:image-block
+name=https://scp-jp-storage.wdfiles.com/local--files/file%3A6903570-36-jkil/corpse-corpus-placeholder.png
+|caption=.]]
+[[/div]]
+[[include info:start]]
+[[=]]
+//二十一億秒的真桑友梨佳，每一秒過去就增添一具新的屍體，組成被隨機填滿的[[span class="ruby"]]人形曆書[[span class="rt"]]人間暦[[/span]][[/span]]。//
+[[/=]]
+----
+**著者：** 法罕-曼斯菲爾德老師（Professor Vahan-Mansfield）[!--2003年諾貝爾生醫獎爭議。
+彼得．曼斯菲爾德（Peter Mansfield）：開發了逐層切片掃瞄的磁振造影方式，脫離了逐點掃瞄的低效做法，實現了實用的磁振造影技術，與以磁場漸層為磁振造影賦予定位功能的保羅．勞特伯（Paul Lauterbur）同賞；
+雷蒙德．法罕．達馬蒂安（Raymond Vahan Damadian）：發現核磁共振可用以辨識健康及癌變的組織，初步展示了核磁共振原理在醫學應用的可能性。年輕地球創造論者，錯失諾貝爾獎後歸咎於其宗教信仰所受偏見。--]
+**代筆：** [[*user edward-knave]]（[[[edward-knave|作者頁面]]]）
+**篇名：** SCP-ZH-850 - 人是[[span class="ruby"]]「人間曆」[[span class="rt"]]にんげんこよみ[[/span]][[/span]]（人(/ʐ/) is for "Zeit im Menschen"）
+**備註：** [[[zhongyuan-2024|早梅詩選系列]]]其十四。
+[[include info:end]]
+
+[[module ListPages  category="fragment" parent="." limit="1" order="created_at" offset="@URL|0"]]
+%%content%%
+[[/module]]
+
+[!--
+https://scp-zh-tr.wikidot.com/fragment:scp-zh-850-offset-0
+https://scp-zh-tr.wikidot.com/fragment:scp-zh-850-offset-1
+https://scp-zh-tr.wikidot.com/fragment:scp-zh-850-offset-2
+--]
+
+----
+
+[[include :scp-zh-tr:component:earthworm
+| first=false | last=false | hub=yes
+| previous-url=/SCP-ZH-840 | previous-title=無是「妄滅」
+| next-url=/SCP-ZH-854 | next-title=見是「……
+| hub-url=/zhongyuan-2024 | hub-title=「早梅詩」
+]]
+[[include :scp-zh-tr:component:earthworm
+| first=false | last=false | hub=yes
+| previous-url=/SCP-ZH-849 | previous-title=SCP-ZH-849
+| next-url=/SCP-ZH-851 | next-title=SCP-ZH-851
+| hub-url=/scp-series-zh | hub-title=SCP-ZH系列一
+]]
+
+----
+[[include :scp-zh-tr:component:license-box
+|lang=ZH]]
+=====
+> 《真桑友梨佳的提案》 由KABOOM1103、Kajikimaguro、mC shrimp著作，由Edward_Knave翻譯於SCP繁體中文維基，譯本來源網址為：http://scp-zh-tr.wikidot.com/makuwayurika-s-proposal 。其原文發表於SCP日語維基。原文來源：http://scp-jp.wikidot.com/makuwayurika-s-proposal 。授權方式為CC-BY-SA 4.0。
+
+> **檔案名稱：** ADKIcon.png
+> **圖像作者：** [[*user dr-moned]]
+> **圖像授權：** CC BY-SA 3.0
+> **圖源連結：** https://scp-wiki.wdfiles.com/local--files/dr-moned-s-icons-and-art/ADKIcon.png
+
+> **檔案名稱：** Sun pillar projected onto altocumulus
+> **圖像作者：** Grant W. Goodge（從美國國家海洋暨大氣總署提供）
+> **圖像授權：** 公有領域
+> **圖源連結：** http://www.publicdomainfiles.com/show_file.php?id=13949356811053
+
+> **檔案頁面：** [http://scp-jp-storage.wikidot.com/file:6903570-36-jkil コウプス・コウパス プレイスホルダー]
+> 
+> **圖源連結：** https://scp-jp-storage.wdfiles.com/local--files/file%3A6903570-36-jkil/corpse-corpus-placeholder.png
+> **圖像授權：** CC BY-SA 3.0
+> 
+> **圖像名稱：** corpse corpus placeholder
+> **著作權持有者：** SealBaby-V
+> **發表年份：** 2023
+> **圖像備註：**
+> 使用以下圖像製成。
+> 
+>> **圖源連結：** http://scp-wiki.wdfiles.com/local--files/dr-mackenzie-s-sketchbook/SCP-Logo-2400.png
+>> **圖像授權：** CC BY-SA 3.0
+>> **圖像名稱：** Logo SCP Foundation
+>> **著作權持有者：** [[*user Aelanna]]
+>> **發表年份：** 2011
+
+> **檔案名稱：** RRRuPYn.jpg
+> **圖像作者：** [[*user Edward_Knave]]
+> **圖像授權：** CC BY-SA 3.0
+> **圖源連結：** https://i.imgur.com/RRRuPYn.jpg
+[[include :scp-zh-tr:component:license-box-end]]

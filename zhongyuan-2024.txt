@@ -337,7 +337,7 @@ text-shadow: 0 0 0.75rem rgb(var(--swatch-primary-darkest),0.75);
 |author=法罕-曼斯菲爾德老師
 |art= https://i.imgur.com/Bp5aNAn.png
 |url=http://scp-zh-tr.wikidot.com/scp-zh-850
-|title=人是「XXX」
+|title=人是「人間曆」
 ]]
 
 [[include :scp-sandbox2-zh:draft:5325850-1o-ly074dry
@@ -454,11 +454,11 @@ SCP-ZH-715內仍有6名租約尚未到期之一般民眾。
 [[div style="border-left: darkred 0.2rem solid; padding-left: 8px; margin-top: 12px; margin-bottom: 12px; color: #white; opacity: 0.8;"]]
 然而，安裝在女兒房內的攝影機於該日深夜突然出現故障，故障一直持續到該日清晨為止，在這一段時間內都沒能拍攝到任何畫面，因此無法直接確定女兒失蹤當晚的確切真相。
 [[/div]]
-* [[[scp-zh-840|無是「XX」]]] - 艾略特老師##grey|（8/26）##
+* [[[scp-zh-840|無是「妄滅」]]] - 艾略特老師##grey|（8/26）##
 [[div style="border-left: darkred 0.2rem solid; padding-left: 8px; margin-top: 12px; margin-bottom: 12px; color: #white; opacity: 0.8;"]]
 除我之外的所有人都離開這裡，只因這裡沒有任何的救贖。
 [[/div]]
-* [[[scp-zh-850|人是「XXX」]]] - 法罕-曼斯菲爾德老師##grey|（8/27）##
+* [[[scp-zh-850|人是「人間曆」]]] - 法罕-曼斯菲爾德老師##grey|（8/27）##
 [[div style="border-left: darkred 0.2rem solid; padding-left: 8px; margin-top: 12px; margin-bottom: 12px; color: #white; opacity: 0.8;"]]
 須注意項目已呈現的2,​147,​483,​648種狀態當中，絕大多數在基準宇宙中不存在對應的自殺者。依照目前針對該項目的假說，對應的自殺者推斷位於另外的平行宇宙，而無法介入。
 [[/div]]

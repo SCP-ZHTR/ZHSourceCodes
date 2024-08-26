@@ -1,0 +1,818 @@
+[[include :scp-zh-tr:theme:basalt darkmode=a|wide=a|centertitle=a|acs-itemnum=a]]
+[[module css]]
+.widetable :is(table:not(.form), table.wiki-content-table) {
+    width: 100% !important;
+    margin-top: 1.2rem;
+    margin-bottom: 1rem;
+    font-size: 0.9em;
+}
+[[/module]]
+
+[[div class="raisa_memo"]]
+= 以下檔案版本根據2040年1月1日的歸檔基準建立並持續更新，基準版本自身將於2050年1月1日更新。
+
+= ——真紀真博士，RAISA駐繁體中文分部主任
+[[/div]]
+
+[[div class="ettra_memo"]]
+[[=]]
+目前（2042年）推斷[[[*narrativistics-and-you|基本敘事粒子]]]在2038年起至今持續的物理常數改變與SCP-ZH-850有關。
+由此，該項目已視同全球規模異常處理，擾動等級提升至Amida，收容措施亦已經過大幅重整。
+
+以上通知經由 [[span class="ruby"]]DoTToAD[[span class="rt"]]學科泛戰術化部門[[/span]][[/span]]-ETTRA聯絡員 兼 RAISA-ZH文件翻譯科特遣翻譯員 劉善俠 轉達
+[[/=]]
+[[/div]]
+@@ @@
+@@ @@
+[[include :scp-zh-tr:component:anomaly-class-bar-source
+|item-number= ZH-850
+|clearance= 3
+|container-class= esoteric
+|secondary-class= shahar
+|secondary-icon= https://scp-wiki.wdfiles.com/local--files/dr-moned-s-icons-and-art/ADKIcon.png
+|disruption-class= amida
+|risk-class= 危險
+]]
+[[div class="widetable"]]
+||~ 指定站點 ||~ 指定部門 ||
+||= Site-ZH-14 ||= 時間異常部，紀錄及資訊安全管理部， _
+學科泛戰術化部門，戰術鑑識學部，墓碑部門 ||
+||~ 站點主管 ||~  計劃領導人 ||
+||= [[[scp-zh-049|［已移除資料］]]]（時間異常部門駐繁中分部主任） ||= 真紀真博士，萬如煙博士 ||
+[[/div]]
+----
+
+**項目編號：** SCP-ZH-850
+
+**項目等級：** Shahar[[span class="fnnum"]].[[/span]][[span class="fncon"]]該項目現正造成世界末日，但對策已經建立。該機密分級由分級委員會在日語分部的委員提議，以迦南神話的曙光與啟明星之神為名。[[/span]]
+
+**特殊收容措施：** 目前推斷SCP-ZH-850與現時在世界各地爆發的柴可夫斯基輻射泉有關，基金會由此因應研擬收容該項目，並防止災難進一步影響常態民眾的措施。
+[[include :scp-zh-tr:component:coltop
+|show=+ 開啟備忘：柴可夫斯基輻射
+|hide=- 隱藏備忘：柴可夫斯基輻射
+|ifprot=1
+|nohide=0
+|folded=1
+]]
+[[div class="blockquote"]]
+= **備忘：柴可夫斯基輻射**
+[[span class="ruby"]]**柴可夫斯基輻射**[[span class="rt"]]Tchaikovsky Radiation[[/span]][[/span]]，簡稱「柴氏輻射」或「Ч-輻射」，是一種非電磁輻射，最初發現於被俄羅斯政府鎮壓的媒體所用的基地台，因受害媒體有在臨近停播期間播放《天鵝湖》芭蕾舞劇的慣例，而基地台亦會同時自發放出該種輻射，由此得名，但該輻射更常見於人類的精神狀況出現重大變化時從體內放出。
+
+本來用於量度神性輻射的阿基瓦計數器在安裝特製濾鏡後，可以改為測量柴可夫斯基輻射，柴可夫斯基輻射強度單位亦因此定為「阿基瓦當量」（Akiva Equivalence，AkEq）。
+[[/div]]
+[[include :scp-zh-tr:component:colend
+|nohide=1
+|hide=- 隱藏備忘：柴可夫斯基輻射
+]]
+[[include :scp-zh-tr:component:coltop
+|show=+ 開啟備忘：柴可夫斯基輻射泉
+|hide=- 隱藏備忘：柴可夫斯基輻射泉
+|ifprot=1
+|nohide=0
+|folded=0
+]]
+[[div class="blockquote"]]
+= **備忘：柴可夫斯基輻射泉**
+[[span class="ruby"]]**柴可夫斯基輻射泉**[[span class="rt"]]Tchaikovsky Radiation Spring[[/span]][[/span]]指極高強度的柴氏輻射源。大量的柴氏輻射（又稱「Ч-輻射」，全稱「柴可夫斯基輻射」）會導致環境的熱紅外線藍移，而發出暗紅色的輝光，尤在與重力平行的方向散射較強而呈柱狀，加諸輝光中心區域的光學扭曲，是為柴氏輻射泉最明顯的特徵。足以發出暗紅色輝光的柴氏輻射亦往往在10AkEq以上的水平，遠高於默認致命的4AkEq。受暴露於致命水平的人類會經歷急速的失智、逆行失憶、心理韌性惡化，並通常會在數天至數週內死於自殺，或中樞神經系統萎縮導致的急性神經退化症。
+
+柴氏輻射泉因為人類及機器難以在無害情況下接近，對接近者更必然致命，故通常會改以源頭中心與1AkEq水平區域的距離衡量影響程度，正名為「1阿基瓦當量距離」（1AkEq Distance，1AED），愈大則代表輻射泉愈強，對週邊智慧生物造成的危害亦會愈大。經驗法則而言，由柴氏輻射泉造成的不宜居住地帶半徑為1阿基瓦當量距離的10倍，在此地帶居住者會更容易呈現慢性的創傷後壓力症狀，亦有較高的自殺率。
+[[/div]]
+[[include :scp-zh-tr:component:colend
+|nohide=1
+|hide=- 隱藏備忘：柴可夫斯基輻射泉
+]]
+
+針對SCP-ZH-850的相關異常，現已建立以下特遣隊，負責不同工作。[[span class="fnnum"]].[[/span]][[span class="fncon"]]下述機動特遣隊同時向基金會各語言分部負責，在不同的分部編號可能有異，在此檔案複本概以繁體中文分部所用編號為準。[[/span]]
+[!--致譯者：各特遣隊可以考慮改用譯語所屬分部自家以R字開首的前綴及合適的編號。--]
+
+||~ 特遣隊編號||~ 代號||~ 職掌概述||~ 主管機關||
+|| MTF-人愛-20||= [[span class="ruby"]]「幸福之路」[[span class="rt"]]The Conquest of Happiness[[/span]][[/span]]|| * 參與SCP-ZH-850-A實例及外界情報回收 _
+* 協助日語分部針對SCP-ZH-850-A實例蒐證的指揮工作 _
+* 追蹤並收容所有生還目標人物，以納入為SCP-ZH-850-B實例||RAISA、墓碑部門、特遣隊部門、應用武力部||
+|| RTF-人愛-21||= [[span class="ruby"]]「瑪麗之間」[[span class="rt"]]Mary's room[[/span]][[/span]]|| * 繼續研究SCP-ZH-850本體 _
+* 維護現有收容設施 _
+* 因應新增發現及需求更新收容設施||戰術鑑識學部、時間異常部||
+|| RTF-人愛-30||= [[span class="ruby"]]「聖學之甦」[[span class="rt"]]Ihya' ulum al-din[[/span]][[/span]]|| * 研究永久柴氏輻射泉的形成機理 _
+* 建立針對柴氏輻射症的預防措施 _
+* 必要時與友好的關注組織展開技術交流||學科泛戰術化部門、潛在威脅戰術應對機構||
+|| MTF-人愛-31||= [[span class="ruby"]]「知覺之門」[[span class="rt"]]The Doors of Perception[[/span]][[/span]]|| * 定期測量永久柴氏輻射泉影響範圍 _
+* 協助偵測可以列為SCP-ZH-850-B實例的目標人物 _
+* 在外勤任務參與駐地隊伍調度 _
+* 輔助當地民眾疏散及災防工作||電信監控辦公室、戰術神學部、異常地點部門||
+|| MTF-人愛-32||= 「惻隱之心」|| * 搜尋並救治受到永久柴氏輻射泉影響的一般民眾 _
+* 必要時與友好的關注組織合作救援民眾||特遣隊部門、應用武力部、前台醫護設施||
+
+SCP-ZH-850應儲存於Site-ZH-14的可調節選擇性時間靜止室，靜止區域必須覆蓋SCP-ZH-850全體，室內需要設有屍體鑑識設備，用以從SCP-ZH-850取得額外情報。靜止室內部XACTS時間槽的迅子儲存量必須定期添加，以確保足夠的時間逆行幅度，由此允許對該項目在1970/1/1 00:00:00.000至2038/1/19 03:14:07.999期間的狀態進行研究。##f00|__**任何情況下，皆不得將靜止室的時間調至2038/1/19 03:14:08.000或以後，亦不得將SCP-ZH-850移離時間靜止區域。**__##
+
+各SCP-ZH-850-A實例應依照其所釋出的柴氏輻射強度而以充分防護設施予以收容，亦應依照以往慣例，由所在地或涉事人員對應的分部獨立歸檔，並予以彙整。因為相關實例以日語分部的管轄範圍最為多見，負責追蹤該等實例的指揮工作因此在日語分部進行。為協助基金會其他語言分部在其管轄範圍追蹤相關實例，現已針對該等實例建立資料庫，並翻譯至多種語言以存檔於相應的分部，包括英語本部（及[http://scp-int.wikidot.com/ 國際翻譯站]）、日語分部、原生中文分部、捷克語分部、西班牙語分部、韓語分部、葡萄牙語分部、繁體中文分部。各分部存檔得設專員管理，以繁體中文分部為例，相應的資料庫現時由RAISA-ZH文件翻譯科的特遣翻譯員劉善俠負責管理，並由RAISA-ZH主任真紀真博士親自監督。
+[!--致譯者：若譯語有相應的屍體史體（Corpse Corpus）系列譯本，可以該譯語的分部代替「以繁體中文分部為例」及之後的句子。資料庫管理者及監督者原則上為在該系列提供最多翻譯的（若干名）翻譯者相應的作者化身角色（於2040年的狀態），資料庫管理總監原則上為該等角色維安權限最高者，但亦可因應分部世界觀設定的合理性置換成最適合的人物。--]
+
+各SCP-ZH-850-B實例應由基金會聘為E級人員，以最接近其起居地區、且在安全區域內的基金會前台組織或站點安置，並須以一切必要措施阻止該等實例的自殺嘗試，包括但不限於警用規格非致命武器之使用。
+@@ @@
+[[div class="modal"]]
+= [[span class="bt"]]**__[[[corpse-corpus-hub|現正搜集和於20██/██/██自殺身亡的真桑友梨佳小姐的屍體有關的情報。敬希協助。]]]__**[[/span]]
+[[/div]]
+@@ @@
+**描述：** SCP-ZH-850是於東京時間20[[span class="a-container"]]0
+[[span class="a-0Deca"]]0[[/span]]
+[[span class="a-1Deca"]]1[[/span]]
+[[span class="a-2Deca"]]2[[/span]]
+[[span class="a-3Deca"]]3[[/span]]
+[[span class="a-4Deca"]]4[[/span]]
+[[span class="a-5Deca"]]5[[/span]]
+[[span class="a-6Deca"]]6[[/span]]
+[[/span]][!----][[span class="a-container"]]0
+[[span class="a-0Year"]]0[[/span]]
+[[span class="a-1Year"]]1[[/span]]
+[[span class="a-2Year"]]2[[/span]]
+[[span class="a-3Year"]]3[[/span]]
+[[span class="a-4Year"]]4[[/span]]
+[[span class="a-5Year"]]5[[/span]]
+[[span class="a-6Year"]]6[[/span]]
+[[span class="a-7Year"]]7[[/span]]
+[[span class="a-8Year"]]8[[/span]]
+[[span class="a-9Year"]]9[[/span]]
+[[/span]]/[[span class="a-container"]]0
+[[span class="a-0Ober"]]0[[/span]]
+[[span class="a-1Ober"]]1[[/span]]
+[[/span]][!----][[span class="a-container"]]0
+[[span class="a-0Mont"]]0[[/span]]
+[[span class="a-1Mont"]]1[[/span]]
+[[span class="a-2Mont"]]2[[/span]]
+[[span class="a-3Mont"]]3[[/span]]
+[[span class="a-4Mont"]]4[[/span]]
+[[span class="a-5Mont"]]5[[/span]]
+[[span class="a-6Mont"]]6[[/span]]
+[[span class="a-7Mont"]]7[[/span]]
+[[span class="a-8Mont"]]8[[/span]]
+[[span class="a-9Mont"]]9[[/span]]
+[[/span]]/[[span class="a-container"]]0
+[[span class="a-0Deda"]]0[[/span]]
+[[span class="a-1Deda"]]1[[/span]]
+[[span class="a-2Deda"]]2[[/span]]
+[[span class="a-3Deda"]]3[[/span]]
+[[/span]][!----][[span class="a-container"]]0
+[[span class="a-0Days"]]0[[/span]]
+[[span class="a-1Days"]]1[[/span]]
+[[span class="a-2Days"]]2[[/span]]
+[[span class="a-3Days"]]3[[/span]]
+[[span class="a-4Days"]]4[[/span]]
+[[span class="a-5Days"]]5[[/span]]
+[[span class="a-6Days"]]6[[/span]]
+[[span class="a-7Days"]]7[[/span]]
+[[span class="a-8Days"]]8[[/span]]
+[[span class="a-9Days"]]9[[/span]]
+[[/span]]@@ @@[[span class="a-container"]]0
+[[span class="a-0DeHo"]]0[[/span]]
+[[span class="a-1DeHo"]]1[[/span]]
+[[span class="a-2DeHo"]]2[[/span]]
+[[/span]][!----][[span class="a-container"]]0
+[[span class="a-0Hour"]]0[[/span]]
+[[span class="a-1Hour"]]1[[/span]]
+[[span class="a-2Hour"]]2[[/span]]
+[[span class="a-3Hour"]]3[[/span]]
+[[span class="a-4Hour"]]4[[/span]]
+[[span class="a-5Hour"]]5[[/span]]
+[[span class="a-6Hour"]]6[[/span]]
+[[span class="a-7Hour"]]7[[/span]]
+[[span class="a-8Hour"]]8[[/span]]
+[[span class="a-9Hour"]]9[[/span]]
+[[/span]]:[[span class="a-container"]]0
+[[span class="a-0DeMi"]]0[[/span]]
+[[span class="a-1DeMi"]]1[[/span]]
+[[span class="a-2DeMi"]]2[[/span]]
+[[span class="a-3DeMi"]]3[[/span]]
+[[span class="a-4DeMi"]]4[[/span]]
+[[span class="a-5DeMi"]]5[[/span]]
+[[/span]][!----][[span class="a-container"]]0
+[[span class="a-0Mins"]]0[[/span]]
+[[span class="a-1Mins"]]1[[/span]]
+[[span class="a-2Mins"]]2[[/span]]
+[[span class="a-3Mins"]]3[[/span]]
+[[span class="a-4Mins"]]4[[/span]]
+[[span class="a-5Mins"]]5[[/span]]
+[[span class="a-6Mins"]]6[[/span]]
+[[span class="a-7Mins"]]7[[/span]]
+[[span class="a-8Mins"]]8[[/span]]
+[[span class="a-9Mins"]]9[[/span]]
+[[/span]]:[[span class="a-container"]]0
+[[span class="a-0DeSe"]]0[[/span]]
+[[span class="a-1DeSe"]]1[[/span]]
+[[span class="a-2DeSe"]]2[[/span]]
+[[span class="a-3DeSe"]]3[[/span]]
+[[span class="a-4DeSe"]]4[[/span]]
+[[span class="a-5DeSe"]]5[[/span]]
+[[/span]][!----][[span class="a-container"]]0
+[[span class="a-1Secs"]]1[[/span]]
+[[span class="a-2Secs"]]2[[/span]]
+[[span class="a-3Secs"]]3[[/span]]
+[[span class="a-4Secs"]]4[[/span]]
+[[span class="a-5Secs"]]5[[/span]]
+[[span class="a-6Secs"]]6[[/span]]
+[[span class="a-7Secs"]]7[[/span]]
+[[span class="a-8Secs"]]8[[/span]]
+[[span class="a-9Secs"]]9[[/span]]
+[[/span]]自殺身亡的真桑友梨佳小姐之屍體，提早三十年並改以台灣時區反映於同一具屍體的「參照物」，最初在Site-ZH-11入口回收，辨明時間異常特性後轉交至Site-ZH-14儲存並繼續研究。現時，若嘗試使用時間異常觀測SCP-ZH-850在不同時間下的狀態，則會得出以下的觀測結果：
+* **__1969/12/31 23:59:59.999或以前__**：項目消失，在觀測時間調校至1970/1/1或往後的日期後重新出現。
+* **__1970/1/1 00:00:00.000至2038/1/19 03:14:07.999__**：項目在每一秒都各自經歷狀態變化，從創傷的消失到重新出現皆可見如同人類活體一般保持有意識的活動。從已紀錄的2,​147,​483,​648種狀態，經過人工智慧常備員整理，可見每一次變化之間，年齡、身高、體重、服裝、隨身物品、死因等特徵各異。歷次變化當中，除了名稱表記為「真桑友梨佳」或同一名字依所屬國家官方語言表示的身分證明書之外，未能取得變化規律。
+* **__2038/1/19 03:14:08.000或以後__**：推定為**還曆事件**發生的時間。該項目進入**超臨界狀態**，如果不進行時間異常介入，則會成為柴氏輻射泉。依照曝露者的描述，推定形態可以比喻為2,​147,​483,​648種狀態各自取出一片切片拼合為人體形狀，且切片形狀及排列會迅速變化，包括但不限於垂直平面、極座標平面、球面。
+
+在該項目於2038/1/19 03:14:08進入**超臨界狀態**以前，SCP-ZH-850全身持續定量釋放5.12厘阿基瓦當量的柴氏輻射，收容單元內部的神性輻射強度則在阿基瓦計數器的誤差範圍內視同歸零，推斷曾經具有將環境的神性輻射以接近100%效率轉換成為柴氏輻射的異常特性。此外，進入**超臨界狀態**以前的SCP-ZH-850在超時空觀測之下，於部分的觀測時間未有經歷變化，可見其狀態變化曾經以因果逆行的方式以隨機順序逐一填充至整段時間皆被狀態變化的時間填滿為止。而整段臨界前時間的狀態被填滿的時間點亦將同時為該項目進入**超臨界狀態**的時間。
+
+經過RTF-人愛-21對SCP-ZH-850的集中研究，發現該項目將於2038/1/19 03:14:08變成柴氏輻射泉，惟亦因為發現途中導致的柴氏輻射噴發造成2名基金會人員殉職。該預測後來得到證成，對該項目進行除去時間異常介入的對照測試，就會令該項目成為柴氏輻射泉，測量所得的1AED為約2公尺。
+
+從發現SCP-ZH-850直到**還曆事件**出現為止的沿革詳情可參照[*http://scp-zh-tr.wikidot.com/scp-zh-850/offset/0 上一基準版本]。
+
+該項目進入**超臨界狀態**前一分鐘，Site-ZH-14將其收容單元所有的觀測窗口封鎖，強行灌注反時間子以實現收容單元內部短暫的時間靜止。期間，駐站的時間異常部及戰術鑑識學部（前身為異常死亡研究部）兩部門人員將項目運送至可調節時間靜止實驗室，並將收容單元搬入時間靜止區，將靜止區調校至與收容單元內部時間一致之後打開收容單元，成功避免項目本體的柴氏輻射噴發，但仍無法阻止下文所述的**還曆事件**在外界發生。
+
+在**還曆事件**後，基金會接獲報告指全球各地相繼出現縱向貫穿建築結構的暗紅色柱狀輝光，皆在平民自殺後當場形成，尤以人類聚居地最為密集，接近輝光區域的民眾皆報告輝光區域中心附近景物扭曲晃動，並相繼主訴不明緣故的精神狀態惡化，後來辨明為高強度柴氏輻射源導致的輻射症。基金會派員疏散並救治暴露於柴氏輻射的民眾，並以前台機構組織說辭以為民眾普及經過修飾而不致破壞帷幕的柴氏輻射現象知識，隨後組編MTF-人愛-32，以協助上述工作恆常化的全球指揮。從各地案情歸納，基金會判明該現象適用於地球上所有於2038/1/19 03:14:08往後自殺者。
+
+就基金會所知，在基金會介入之前，各地自發處理柴氏輻射泉的方法因地而異，阻止自殺的手段較為強硬的地區往往會出現較大型且輻射量較高的柴氏輻射泉，而當地較為著重精神健康教育及照護的地區則較少出現柴氏輻射泉，其規模及強度亦會小於平均值。
+
+此外，部分地區亦可見有設立特定地點集中投棄自殺屍體的紀錄，推斷目的為減輕柴氏輻射泉對原有居住地區的影響，但自殺現場仍有未能取得實體的柴氏輻射源殘留，通常依然無法持續居住；而搬運者亦多數會因為長期曝露於較強的柴氏輻射，而在自殺率及遙控設備損毀頻度皆高於本來已經持續提升的平均值。
+
+截至2041年，基金會推算全球已發生至少500萬宗柴氏輻射泉報告，該現象亦已迫使5億人口從原居地遷出並擇地重建居所。
+
+[[div class="blockquote"]]
+那些暗紅色的光柱給我們劃出再也不能住人的地方，或更應說，是被某種比世上所有政黨都更加絕對的力量劃定了再也不能住人的地方。被暗紅光柱照過的每一個人，凡是來不及扶老攜幼全家搬走的，都難免在數週之內難拒心病，最終自殺，因此製造出更多的暗紅光柱。
+
+有人說那是怨靈或是負能量的具現，有人說那是鬼門常開、冤魂長留，也有人說那是未解釋的物理現象。
+
+當我們的世界用著諸如勞動或是安全的名義，壓碎了那麼多的靈魂，扼殺了那麼多人的希望，對任何有宗教信仰的人們來說，這些光柱大概會被當成是相應的神明施加給我們的懲罰吧。
+
+當全世界都在繼續用著自己的方式勉強著對抗這一切，以人民的靈魂與希望為代價，給他們製造另外而需要我們持續灌注的希望，我們還能怪誰呢？
+
+無論怎樣解釋也好，這些光柱都將會成為我們的警世碑，穿過混凝土的塔樓，矗立在天地之間，提醒著我們，要麼得驅趕那暗藏在人心最難觸及之處的絕望，要麼就得被那份絕望驅趕，直到永遠。
+[[>]]
+——張曉天先生（第十任香港行政長官）[[span class="fnnum"]].[[/span]][[span class="fncon"]]就任於2042年，在2046年確診柴氏輻射症，同年公開上列遺書並自殺身亡。[[/span]]
+[[/>]]
+[[/div]]
+
+@@ @@
+
+SCP-ZH-850-A是除了SCP-ZH-850以外，一切從外界回收的SCP-ZH-850相關實例的統稱，該等實例定義為「姓名為真桑友梨佳」、「於2000/1/1 00:00至2068/1/19 03:14期間自殺身亡」。根據收容措施，各個別SCP-ZH-850-A實例應視為獨立項目，由所屬語言分部自行歸檔，並依照[[[corpse-corpus-hub|真桑友梨佳專案]]]的指示，統整至一個中央資料庫，例如[[[SCP-3323-JP]]]、[[[SCP-3324-JP]]]、[[[SCP-3823-JP]]]、[[[SCP-7212]]]、[http://scp-wiki-cn.wikidot.com/scp-cn-2544 SCP-CN-2544]、[[[SCP-ZH-423]]]、[[[SCP-ZH-981]]]等。
+
+[[include component:image-block name=http://res.publicdomainfiles.com.s3.amazonaws.com/pdf_dl/99/13949356811053.jpg|width=300px|caption=基金會無人飛行器朝向Site-CN-37舊址方位拍攝以SCP-CN-3299為最終來源的柱狀輝光照片。]]
+
+在SCP-ZH-850於2038/1/19 03:14:08進入**超臨界狀態**之後，基金會所有已紀錄在真桑友梨佳專案的異常屍體皆同時變成柴氏輻射泉，包括在該時間點以前自殺的實例在內。除此之外，未能發現其他在**還曆事件**發生前死亡而變成柴氏輻射泉的屍體。每一具屍體放出的柴氏輻射泉皆有不同的1AED，範圍一律大於SCP-ZH-850本體，當中以原生中文分部收容的[*https://scp-wiki-cn.wikidot.com/scp-cn-3299 SCP-CN-3299]具有最大的1AED（10公里），兼為已發現全球最大規模、且惟一在宇宙空間（低軌道）從地球表面肉眼可見的單一柴氏輻射泉。
+
+因此，SCP-ZH-850及有關的異常屍體皆被懷疑與各地頻發的柴氏輻射泉現象有關，故將該等屍體歸定為SCP-ZH-850-A，並與SCP-ZH-850合併為同一調查項目，繁中分部亦隨之組編RTF-人愛-30，以研究柴氏輻射泉的形成機理及其防護方法。
+
+此後，因為往後出現的SCP-ZH-850-A實例皆在自殺當下隨即成為柴氏輻射泉，基金會需要使用可以抵抗柴氏輻射的遙控機器人將屍體回收，或就地建立站點收容，以避免調查期間因曝露於柴氏輻射造成的人員折損。
+
+據悉，SCP-ZH-850-A實例除上述定義之外，共通規律之研究工作亦有「多元宇宙基金會聯盟」獨立進行，研究資料列為##red|__**5/0001級機密**__##。
+
+@@ @@
+
+SCP-ZH-850-B是預定留予名為「真桑友梨佳」的預防性收容目標人物的統稱，預定依發現順序設後綴編號。由潛在威脅戰術應對機構接獲SCP-ZH-850項目資料後，擬定由MTF-人愛-20、MTF-人愛-31追蹤其他在生而符合SCP-ZH-850-B定義者，先行安置，以阻止其自殺。
+
+依照目前所得資料，目前所有SCP-ZH-850-A實例皆能從SCP-ZH-850的其中一個狀態對應，時間偏差皆為三十年減一小時。潛在威脅戰術應對機構與學科泛戰術化部門整理SCP-ZH-850的資料之後推斷，當任意一名原定將會在基準宇宙的未來自殺的「真桑友梨佳」若能被阻止自殺而繼續存活，則會令SCP-ZH-850-A實例與SCP-ZH-850之間的對應關係存在例外，以此例外帶來擾亂柴氏輻射泉生成規律的可能性，進而阻止部分柴氏輻射泉的生成。
+@@ @@
+@@ @@
+[[div class="darkdocument"]]
+[[=]]
+= [[span class="st"]]**__附錄 ZH-850-1__：**[[/span]] 相關論文摘錄
+[[/=]]
+[[div class="blockquote"]]
+= **//人間反芻：柴可夫斯基輻射之敘事量子物理考察//**
+----
+
+= […]
+
+@@            @@在敘事相對性理論的[*https://scp-wiki.wikidot.com/narrativistics-and-you 新標準框架]下，當上位敘事的智慧生物接觸下位敘事，並因此體驗情緒變化時，就會釋出喚起素（Rouseme），情緒轉換的程度愈極端，釋出的量愈大。當中有一部分的喚起素會轉換成新的創意慣性，累積至外溢於臨界點以上時，會轉換成為反認知子（Anticognitron），促進原有敘事的完結與新敘事的生成。反認知子在上位敘事生物的情緒行為之下會生成H-能量（又稱「外史能量」，即Headcanon Energy）以生成新的認知子（Cognitron），重新驅動敘事行進的循環。
+
+@@            @@然而，該基準宇宙已知的敘事量子物理框架在喚起素的轉換路徑及生成機理已經確認偏離標準模型。經過基金會學術機構敘事量子物理學科的觀測，發現地球環境內自發形成的喚起素超出依照標準模型預測的水平，而與基準宇宙直接連繫的上位敘事喚起素水平則遠低於預期。由此推斷在該宇宙本來於上位敘事生成的喚起素改為於基準宇宙內部生成，因此未能與上位敘事互動，又因為自然形成的反喚起素（Antirouseme）不敷吸收，而在基準宇宙內部積聚並誘發更多的喚起素加速生成，直到智慧生命無法存活的水平；而上位敘事則在整個過程中一直無法生成並釋出喚起素，而敘事內預期會觸發的情緒反應亦同時未能出現，導致上位敘事讀者與下位敘事環境之間的情緒互動淡化、甚至消失。
+
+@@            @@下位敘事以內的喚起素若由人類釋出，則會以柴氏輻射的形式顯現。當宇宙內部有高濃度的喚起素積聚，人類釋出柴氏輻射的強度亦會因此愈高、所需的情緒變化亦會愈輕微，因此，柴氏輻射釋放就會更加頻密、強大，以至致命。在2038年開始陸續發生於全球各地的自殺者臨終釋出的柴氏輻射亦因為環境內的高濃度喚起素而被恆定化，形成了永久的柴氏輻射泉。
+
+= […]
+
+@@ @@
+
+[[div style="text-align: left; font-size: 0.9em;"]]
+Edward Knave
+《敘事量子論》第35期
+2049年
+[[/div]]
+[[/div]]
+[[/div]]
+
+@@ @@
+@@ @@
+[[=]]
+= [[span class="st"]]**__附錄 ZH-850-2__：**[[/span]] 5/0001級機密
+[[/=]]
+[[=]]
+[[div style="background: url(https://scp-jp-storage.wdfiles.com/local--files/file:2532460-25-b7bd/scp_trans.png) center no-repeat ; float: center; border: solid 2px #ffffff; padding: 1px 15px; box-shadow: 0 1px 3px rgba(255,255,255,.2);"]]
+##ff5c48|[[size 150%]] **警告：以下內容為 5/0001 級機密情報** [[/size]]##
+----
+以下內容牽涉三垣議會從他宇宙觀測而得的SCP-001-JP，根據[[[*scp-5618|1981年多元宇宙基金會協約]]]，等效歸定為與該檔案在原生宇宙同級的機密。
+[[size larger]] **任何未持有 5/0001 級權限者，凡擅自存取該檔案內容，即紀錄在案並受即時懲戒處分。**[[/size]]
+[[/div]]
+[[/=]]
+
+[[include :scp-zh-tr:component:coltop
+|show=+ 開啟 5/0001 級機密內容
+|hide=- 隱藏 5/0001 級機密內容
+|ifprot=1
+|nohide=0
+|folded=1
+]]
+
+
+[[div class="raisa_memo"]]
+[[=]]
+以下檔案依宇宙編號AB2320-1298011χ的基金會所用日語譯本的最近期版本為準[[span class="fnnum"]].[[/span]][[span class="fncon"]]更新日期為0019/01/30，追記日期為0019/04/14，以人工中間維度宇宙000000-000001α為基準。[[/span]]，由本人憑藉[[span class="ruby"]]「地下室協定」[[span class="rt"]]Oubliette Protocol[[/span]][[/span]]取得特別授權，於2049/07/11進行繁體中文二次翻譯。
+須注意此處仍未能與該檔案所述的「多元宇宙基金會聯盟」建立通訊，故此處所在宇宙對應編號仍在調查中。
+
+——劉善俠博士，RAISA-ZH文件翻譯科特遣翻譯員 兼 學科泛戰術化部門署理主任
+[[/=]]
+[[/div]]
+
+[[include :scp-zh-tr:component:coltop
+|show=+ 開啟 Euclid/adviso級項目SCP-001-JP檔案
+|hide=- 隱藏 Euclid/adviso級項目SCP-001-JP檔案
+|ifprot=1
+|nohide=0
+|folded=1
+]]
+
+
+[[div class="modal"]]
+
+**項目編號：** SCP-001-JP
+
+**項目等級：** --Pending-- Euclid/adviso
+
+**特殊收容措施：** 各基金會應確認在相應宇宙內的SCP-001-JP會自殺。另外，若發現在生的「真桑友梨佳」，則應避免接觸，並持續觀察。在檔案最終更新時，多元宇宙基金會聯盟[[span class="fnnum"]].[[/span]][[span class="fncon"]]在時空維度存在的複數基金會並行以類近的常態維持為目標而合作的組織[[/span]]尚未劃一決定針對SCP-001-JP對象的合適收容方法，故應由各宇宙的基金會自行判斷並施行之。
+
+**描述：** SCP-001-JP是於21世紀自殺身亡的真桑友梨佳小姐的屍體，以及與前述概念一致的異常於H型／「智能活動主體」式宇宙[[span class="fnnum"]].[[/span]][[span class="fncon"]]人類等有智能活動的生物存在的宇宙。[[/span]]內有未知上限的高機率[[span class="fnnum"]].[[/span]][[span class="fncon"]]因各宇宙而異，在曆法、時間有不同步的情形，故未能導出充分可信的機率。[[/span]]可以確認的現象。為求簡便，以下將稱屍體本身為「SCP-001-JP對象」，該對象的條件為「SCP-001-JP概念」。
+
+截至檔案更新時間，SCP-001-JP概念指定為「於21世紀自殺身亡的真桑友梨佳小姐的屍體」，惟須注意該概念為有意地以非常模糊的形式表達。定為SCP-001-JP概念之「於21世紀自殺身亡的真桑友梨佳小姐的屍體」所相符的詳細條件現由多元宇宙部門進行研究。現時已判明SCP-001-JP條件如下。
+
+* SCP-001-JP對象於21世紀期間取得異常特性 _
+現時發現，SCP-001-JP乃於西元（基督紀年）起算，「**各宇宙最為普及**」、「**以100年為單位依序分界的曆法**」下的第21區段之內取得異常特性。若在基督宗教不存在的宇宙，則以儒略曆及伊斯蘭曆等曆法與該等條件對應。調查過程中已確認，不滿足上述曆法條件、具體而言不存在有100年週期排序的曆法（包括不存在曆法本身的宇宙）的H型／「智能活動主體」式宇宙並不存在。 _
+@@ @@
+* SCP-001-JP對象在符合上述條件的時間段內完成遂行類屬自殺的行為 _
+SCP-001-JP對象必定會將「**作為自我意識之操縱器使用的物質構造**」經「**以自我意識主動輸出的作為變換**」為「**無法以自我意識操作的狀態**」。在絕大部分的場合，該條件所述的「物質構造」皆為以分子構成的人類活體。以SCP-001-JP對象不屬人類活體的宇宙為實例，FAB3FE-023782λ宇宙內的人類悉數以靈體形式存在，此處的SCP-001-JP對象則使用了靈子振盪器消滅自身。在無法嚴密定義自身與他者邊界的H型／「智能活動主體」式宇宙，SCP-001-JP對象具備「自他邊界」之事則多數會被視為異常特性。 _
+@@ @@
+* SCP-001-JP對象於其所在宇宙被賦予「真桑友梨佳」的個體識別名 _
+SCP-001-JP對象歸屬於在其宇宙的社會結構，並從中被賦予個體識別名「真桑友梨佳」。該名稱不限於實名或通稱等遵循社會結構系統的命名，在諢稱、管理編號、電腦系統所定義的暫用變項等被稱為「真桑友梨佳」亦可符合條件。若在針對個體不使用文字序列予以識別的H型／「智能活動主體」式宇宙，SCP-001-JP對象擁有個體識別名的特性本身則多數被視為其異常特性。
+
+在檔案更新時，多元宇宙基金會聯盟所確認過的H型／「智能活動主體」式宇宙中，已確認有99.999%機率存在SCP-001-JP對象。是次統計的母體並不包括「無法成立通訊的宇宙」以及「『21世紀』未結束的宇宙」。考慮到SCP-001-JP對象可能持有逆模因異常特性的情形，研究團隊內部認為SCP-001-JP對象在所有的H型／「智能活動主體」式宇宙皆有存在之說具說服力。
+
+普通SCP-001-JP對象在各宇宙的實例展示如下。
+
+[[div class="blockquote"]]
+[[include component:image-block
+name=https://scp-jp-storage.wdfiles.com/local--files/file%3A6903570-36-jkil/corpse-corpus-placeholder.png|
+caption=[http://scp-zh-tr.wikidot.com/scp-3823-jp SCP-3823-JP]|
+width=150px|
+align=left
+]]
+**發現所在宇宙編號：** 3289DD-278091β　##gray|X-10A##
+
+**發現所在宇宙內的項目編號：** SCP-3823-JP
+
+**描述：** 於2010/09/12使用發煙裝置，中毒而死。具有生成誘發認知危害及害僚危害的文書之異常特性。基金會在對象死後發現之。異常性甚有可能在死亡後出現。
+@@@@
+@@@@
+[[/div]]
+[[div class="blockquote"]]
+[[include component:image-block
+name=https://scp-jp-storage.wdfiles.com/local--files/file%3A6903570-36-jkil/corpse-corpus-placeholder.png|
+caption=[http://scp-zh-tr.wikidot.com/scp-3324-jp SCP-3324-JP]|
+width=150px|
+align=left
+]]
+**發現所在宇宙編號：** E99ACB-985670ζ　##gray|RX-782##
+
+**發現所在宇宙內的項目編號：** SCP-3324-JP
+
+**描述：** 於2078/12/37失血而死。具有頭部變形，並置換為液晶螢幕的異常特性。畫面上每日展示模擬影片製作群列表的動畫。基金會在對象死後發現之。異常性甚有可能在死亡後出現。另外，異常特性在生效後50日消失。
+@@@@
+@@@@
+[[/div]]
+[[div class="blockquote"]]
+[[include component:image-block
+name=https://scp-jp-storage.wdfiles.com/local--files/file%3A6903570-36-jkil/corpse-corpus-placeholder.png|
+caption=[http://scp-wiki-cn.wikidot.com/scp-cn-2874 SCP-CN-2874]|
+width=150px|
+align=left
+]]
+**發現所在宇宙編號：** AAA1A9-231890ψ　##gray|F-091##
+
+**發現所在宇宙內的項目編號：** SCP-CN-2874
+
+**描述：** 於2012/12/11溺死。具有在體表與液體接觸的表面生成具逆模因特性的植物之異常特性。基金會在對象死前發現之，並予以監視。異常性在死亡前已經出現。
+@@@@
+@@@@
+[[/div]]
+[[div class="blockquote"]]
+[[include component:image-block
+name=https://scp-jp-storage.wdfiles.com/local--files/file%3A6903570-36-jkil/corpse-corpus-placeholder.png|
+caption=[http://scp-zh-tr.wikidot.com/scp-3423-jp SCP-3423-JP]|
+width=150px|
+align=left
+]]
+**發現所在宇宙編號：** 242B04-282915δ/ε　##gray|LM-314##
+
+**發現所在宇宙內的項目編號：** SCP-3423-JP
+
+**描述：** 死於2034/07/10。具有極輕微異常的生理韌性。對象為基金會職員，於死亡前已為基金會所識。基於242B04-282915δ/ε基金會管理層的裁決，對象攝入了誘發自殺的模因。自殺後被偽裝為因另外的異常特性致死的異常。
+[[/div]]
+
+**備註：** 關於SCP-001-JP對象在多個宇宙出現的現象，基金會針對多重宇宙無法為其統計學及數學上的異狀予以嚴謹定義，該項目暫時保留原有項目等級。鑒於其異常特性的潛在風險，以及對該異常的善後處理所預想而得的危險性，該項目已依照多元宇宙基金會聯盟議決，予以收容。
+[[/div]]
+[[div class="modal"]]
+**加註-1（0019/04/14）：** SCP-001-JP概念之嚴謹定義
+
+於0019/02/01，為探查SCP-001-JP概念，並以人為手法再現SCP-001-JP對象，已組編研究團隊。以下為研究團隊概要。
+[[div style="display: flex; justify-content: center; align-items: center;"]]
+[[div class="blockquote" style="border-radius: 10px; margin: 10px"]]
+[[=]]
+[[size 150%]]**SCP-001-JP研究團隊**[[/size]]
+
+
+**研究團隊總負責人：** 諾伯特．根特納（Norbert Gentner）
+隸屬於000000-000001α多元宇宙基金會聯盟
+
+[[size 120%]]**靈體學取向組**[[/size]]
+
+**組長：** 藏元 大斗（Daito Kuramoto）
+隸屬於128730-112389θ基金會，Site-81UO
+
+**副組長：** 織戶 鹿三郎（Kasaburou Oruto）
+隸屬於128730-112389θ基金會，Site-81UO
+
+另設研究員10名
+
+[[size 120%]]**神學及奇蹟學取向組**[[/size]]
+
+**組長：** 布魯．蒂埃里（Bulle Thierry）
+隸屬於FBA3248-111399ʊ基金會，戰術神學部
+
+**副組長：** 法維奧．利維拉尼（Favio Liverani）
+隸屬於FBA3248-111399ʊ基金會，戰術神學部
+
+另設研究員32名
+
+[[size 120%]]**咒術取向組**[[/size]]
+
+**組長：** 利河 文（Fumi Rigawa）
+隸屬於E239A1-348912ν基金會，Site-81ET
+
+**副組長：** 津馬 京依（Kei Tsuba）
+隸屬於E239A1-348912ν基金會，Site-81ET
+
+另設研究員5名
+
+[[size 120%]]**超自然工程及模因學取向組**[[/size]]
+
+**組長：** 馬丁．內格．勒布朗（Martin Neg Leblanc）
+隸屬於981259-347619ξ基金會，模因部
+
+**副組長：** 伊佐爾達．布爾杜科夫斯卡婭（Izolda Burdukovskaya）
+隸屬於D89D1B-210949ι基金會，燈塔部門
+
+另設研究員29名
+
+[[size 120%]]**超自然法律學取向組**[[/size]]
+
+**組長：** 葛紫釉（Ge Zi-you）
+隸屬於E23AA9-230109ρ基金會，拓樸法學部
+
+**副組長：** 廉雨萱（Lian Yu-xuan）
+隸屬於E23AA9-230109ρ基金會，電場法學部
+
+另設研究員17名
+
+**跨宇宙交涉負責人：** 泰勒．史邁斯（Tylor Smythe）
+隸屬於000000-000001α多元宇宙基金會聯盟
+
+**跨宇宙翻譯負責人：** 黎．黃「東尼」（Le Hoàng Tony）
+隸屬於000000-000001α多元宇宙基金會聯盟
+
+**研究設備負責人：** 弗朗西斯科．托蒂．巴拉（Francesco Totti Barra）
+隸屬於000000-000001α多元宇宙基金會聯盟
+
+[[/=]]
+----
+**目的：** 追查SCP-001-JP概念，以及人為再現SCP-001-JP對象
+
+**編制：** 以複數組別構成縱貫型團隊，從各方取向著手。
+
+**活動期：** 0019/04/14～未定
+
+**備考：** 該研究對象因為可以輕易預見與宇宙的存續及消滅密切相關，各組獲准生成「蘇爾茨巴赫式衰減型宇宙」[[span class="fnnum"]].[[/span]][[span class="fncon"]]可以在任何時機藉由大擠壓造成QK級世界末日情景的人造宇宙。從981FF9-279619γ基金會的蘇爾茨巴赫博士在XACTS的應用研究之中發現，被認定為在時間槽啟動特定的瞬間移動型項目而生成的「過渡現象類存在」。詳情略。[[/span]]。為防意外資訊危害及模因危害，各組禁上直接共享研究內容。所有實驗應在經過研究設備責任人及研究團隊總負責人認可之下在合適環境進行。
+[[/div]]
+[[/div]]
+
+截至註記為止的研究成果概要如下。另外，實驗所用的「真桑友梨佳」若未特別指明，則一律為取自E239A1-348912β宇宙[[span class="fnnum"]].[[/span]][[span class="fncon"]]此宇宙存在於從外部施加刺激時，能夠在生存狀態下進行自我複製的真桑友梨佳，並歸定為SCP-9723。[[/span]]的真桑友梨佳。
+
+||~ 實驗號次 ||~ 實驗內容及方法 ||~ 實驗組別 ||~ 結果及分析 ||
+||實驗#1|| 衰減宇宙崩潰設定於10小時後，投入來自他宇宙的真桑友梨佳自殺的屍體 || 初期實驗 || 10小時後崩潰，認定為他宇宙的自殺屍體不符合條件。||
+||實驗#2|| 衰減宇宙崩潰設定於10小時後，投入來自他宇宙的真桑友梨佳，並於衰減宇宙內殺害之 || 初期實驗 || 10小時後崩潰，認定條件必須以自殺為之。||
+||實驗#3|| 衰減宇宙崩潰設定於10小時後，投入來自他宇宙的真桑友梨佳，使其攝入誘發自殺的模因危害。|| 超自然工程及模因學取向組 || 10小時後崩潰，認定強制誘使自殺不屬條件所述的自殺。||
+||實驗#4|| 衰減宇宙崩潰設定於10小時後，投入來自他宇宙的真桑友梨佳，並從宇宙外施行誘使自殺的詛咒。|| 咒術取向組 || 10小時後崩潰，對於咒詛仍視同實驗#3結果。||
+||實驗#5|| 衰減宇宙崩潰設定於10小時後，投入來自他宇宙的真桑友梨佳，告知「為阻止宇宙崩潰，需要拉動扳機」並給予會炸膛的手槍 || 神學及奇蹟學取向組 || 手槍擊發，宇宙在真桑友梨佳死亡後10小時崩潰。||
+||實驗#6|| 衰減宇宙崩潰設定於10小時後，對部分研究員植入「實驗#6的真桑友梨佳已自殺」的記憶，並投入來自他宇宙的真桑友梨佳。|| 神學及奇蹟學取向組 || 10小時後崩潰，認定其他人物的認知與條件無關。||
+||實驗#7|| 衰減宇宙崩潰設定於10小時後，投入經由奇蹟法律學適用「自溺身亡的死亡證明書」的真桑友梨佳之屍體。|| 超自然法律學取向組 || 10小時後崩潰。||
+||實驗#8|| 衰減宇宙崩潰設定於10小時後，投入經由奇蹟法律學適用「服毒自殺的死亡證明書」的真桑友梨佳之屍體。|| 超自然法律學取向組 || 10小時後崩潰。||
+||實驗#9|| 衰減宇宙崩潰設定於10小時後，投入經由奇蹟法律學適用「自縊身亡的死亡證明書」的真桑友梨佳之屍體。|| 超自然法律學取向組 || 10小時後崩潰。||
+||實驗#10|| 衰減宇宙崩潰設定於10小時後，投入經由奇蹟法律學適用「自殺的屍檢證明書」的真桑友梨佳之屍體。|| 超自然法律學取向組 || 10小時後崩潰。||
+||實驗#11|| 衰減宇宙崩潰設定於10小時後，投入於自殺後生成真桑友梨佳所得的靈體。|| 靈體學取向組 || 10小時後崩潰。||
+||實驗#12|| 衰減宇宙崩潰設定於5小時後，投入迫使附身對象自殺的靈體附身狀態下的真桑友梨佳。|| 靈體學取向組 || 宇宙於對象自殺後5小時崩潰。||
+||實驗#13~25|| 衰減宇宙崩潰設定於5小時後，在宇宙內對真桑友梨佳進行複製，並各自依照實驗#1~12所述方式令其自殺。|| 所有組別 || 5小時崩潰，認定條件與真桑友梨佳在該宇宙內誕生與否無關。||
+||實驗#26~100014|| 衰減宇宙崩潰設定於5分鐘後，在宇宙內對真桑友梨佳進行複製，並令其陷入輕度憂鬱狀態。|| 神學及奇蹟學取向組 || 23人自殺，宇宙悉數崩潰。||
+|||||||| 如下284項實驗紀錄已儲存。||
+
+目前為止，仍未能成功阻止衰減型宇宙崩潰。另外，成為SCP-001-JP對象的真桑友梨佳必須完全出自當事宇宙的假說認為可信，現正考慮更改以往實驗方法。
+
+**加註-2：** 來自多元宇宙基金會聯盟理事會的通告
+
+有鑒於SCP-001-JP對宇宙影響重大，現告知多元宇宙基金會協約已從附件追加以下內容。
+
+・若未經跨宇宙運輸兩端宇宙的基金會同意，則嚴禁以SCP-001-JP對象為首的跨宇宙載人運輸。
+・為防範SCP-001-JP超宇宙規模的影響，未經多元宇宙基金會同意，嚴禁SCP-001-JP研究結果的跨宇宙共享。
+
+追加條款如上。詳情可參考夾附的通告文件。
+
+[[/div]]
+
+[[include :scp-zh-tr:component:colend
+|nohide=0
+|hide=- 隱藏 Euclid/adviso級項目SCP-001-JP檔案
+]]
+
+[[div class="transcript tableb"]]
+
+[[table]]
+[[row]]
+[[hcell]]
+自動影像抄錄
+[[/hcell]]
+[[/row]]
+[[row]]
+[[cell]]
+
+**日期：** 2049/07/11
+**地點：** Site-ZH-11地下九樓RAISA-ZH主任辦公室
+
+**抄錄者：** Kikun.aic
+**列席：**
+* RAISA-ZH主任##AA6D61|**真紀真**##
+* 學科泛戰術化部門署理主任##69246B|**劉善俠**##（代號：Edward Knave）
+
+[[/cell]]
+[[/row]]
+[[row]]
+[[hcell]]
+«抄錄開始»
+[[/hcell]]
+[[/row]]
+[[row]]
+[[cell]]
+**Dir. Knave：** 真紀主任，請問閣下可否為我解釋一下這是怎麼回事？
+
+//［Knave署理主任將[*http://scp-jp.wikidot.com/makuwayurika-s-proposal#toc15 Euclid/adviso級項目SCP-001-JP檔案]的繁體中文譯本放在真紀主任的辦公桌上。］//
+
+**Dir. Knave：** 多元宇宙基金會到底還隱瞞了我些甚麼？為何它說過「要避免主動接觸在生的真桑」這件事而沒有人告訴過我？
+
+**Dir. MKM：** 那不是隱瞞，是它給我們自行判斷的權力，那裡有說。
+
+**Dir. Knave：** 「自行判斷」是吧……即使我們必須要主動阻止我們找得到的真桑自殺，也在那個「自行判斷」的範圍裡嗎？
+
+**Dir. MKM：** 我們至今還沒能跟撰寫那分檔案的多元宇宙基金會成立通訊，而我們這邊的多元宇宙基金會也沒有定論。
+
+**Dir. Knave：** 話說回來，我們目前所有分部算起來，收集回來的真桑至少也數以十計，但是那檔案裡好像暗示著一個宇宙只有一個真桑，那又是怎麼回事？
+
+**Dir. MKM：** 會不會是他們跟我們的宇宙對待真桑友梨佳的方法有點不一樣？他們的收容措施看來也遠比我們的謹慎。
+
+**Dir. Knave：** 再者，他們那邊的真桑沒有引發柴可夫斯基輻射泉，當然可以不需要接觸。我們可不一樣。我們要動搖它造成災害的機轉，這樣做大概也很合理吧……不過，若要避免他們阻止我們，我也不是沒辦法的……
+
+[[/cell]]
+[[/row]]
+[[row]]
+[[hcell]]
+«抄錄結束»
+[[/hcell]]
+[[/row]]
+[[row]]
+[[hcell]]
+[[/hcell]]
+[[/row]]
+[[/table]]
+
+[[/div]]
+
+
+[[include :scp-zh-tr:component:colend
+|nohide=0
+|hide=- 隱藏 5/0001 級機密內容
+]]
+
+[[div class="ettra_memo"]]
+[[=]]
+SCP-ZH-850-B實例收容措施已更新：在安置實例前必須追加[[[updated-amnestics-guide#toc7|更新版F級記憶刪除]]]置換身份，阻止自殺的精神健康維護措施照常實行。
+另外，鑒於對SCP-ZH-850的機制已大致辨明，已刪去不必要的對策，並將騰空的人力轉移至增援現有任務。
+
+以上通知經由 學科泛戰術化部門署理主任 兼 RAISA-ZH文件翻譯科特遣翻譯員 劉善俠 轉達
+[[/=]]
+[[/div]]
+@@ @@
+@@ @@
+----
+@@ @@
+@@ @@
+截至檔案最近於2060年更新為止，基金會只發現一名符合SCP-ZH-850-B實例定義的存在，現已依既定措施收容。
+@@ @@
+@@ @@
+[[div class="raisa_memo"]]
+= 以上檔案為已歸檔的過時版本，[*http://scp-zh-tr.wikidot.com/scp-zh-850/offset/2 請按此處閱覽現時版本]。
+
+= ——真紀真博士，RAISA駐繁體中文分部主任
+[[/div]]
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+[[module css]]
+.a-container{position:relative;visibility: hidden;font-size: 50%;display:inline-flex;}
+.a-container span{display:inline-block;position:absolute;top:-1px;width:max-content;font-size: 200%;margin:-0.55em 0 0 0;left:0;opacity:0; }
+.a-container br{display:none}
+@keyframes animate0Deca{0% { opacity: 0.146971642971038818359375       ; }100% { opacity: 0.146971642971038818359375       ; }}
+@keyframes animate1Deca{0% { opacity: 0.146971642971038818359375       ; }100% { opacity: 0.146971642971038818359375       ; }}
+@keyframes animate2Deca{0% { opacity: 0.146971642971038818359375       ; }100% { opacity: 0.146971642971038818359375       ; }}
+@keyframes animate3Deca{0% { opacity: 0.146971642971038818359375       ; }100% { opacity: 0.146971642971038818359375       ; }}
+@keyframes animate4Deca{0% { opacity: 0.146971642971038818359375       ; }100% { opacity: 0.146971642971038818359375       ; }}
+@keyframes animate5Deca{0% { opacity: 0.146971642971038818359375       ; }100% { opacity: 0.146971642971038818359375       ; }}
+@keyframes animate6Deca{0% { opacity: 0.118290841579437255859375       ; }100% { opacity: 0.118290841579437255859375       ; }}
+@keyframes animate0Year{0% { opacity: 0.102956593036651611328125       ; }100% { opacity: 0.102956593036651611328125       ; }}
+@keyframes animate1Year{0% { opacity: 0.102795660495758056640625       ; }100% { opacity: 0.102795660495758056640625       ; }}
+@keyframes animate2Year{0% { opacity: 0.10291635990142822265625        ; }100% { opacity: 0.10291635990142822265625        ; }}
+@keyframes animate3Year{0% { opacity: 0.102795660495758056640625       ; }100% { opacity: 0.102795660495758056640625       ; }}
+@keyframes animate4Year{0% { opacity: 0.102956593036651611328125       ; }100% { opacity: 0.102956593036651611328125       ; }}
+@keyframes animate5Year{0% { opacity: 0.102795660495758056640625       ; }100% { opacity: 0.102795660495758056640625       ; }}
+@keyframes animate6Year{0% { opacity: 0.10291635990142822265625        ; }100% { opacity: 0.10291635990142822265625        ; }}
+@keyframes animate7Year{0% { opacity: 0.102795660495758056640625       ; }100% { opacity: 0.102795660495758056640625       ; }}
+@keyframes animate8Year{0% { opacity: 0.0889608860015869140625         ; }100% { opacity: 0.0889608860015869140625         ; }}
+@keyframes animate9Year{0% { opacity: 0.08811056613922119140625        ; }100% { opacity: 0.08811056613922119140625        ; }}
+@keyframes animate0Ober{0% { opacity: 0.74830150604248046875           ; }100% { opacity: 0.74830150604248046875           ; }}
+@keyframes animate1Ober{0% { opacity: 0.25169849395751953125           ; }100% { opacity: 0.25169849395751953125           ; }}
+@keyframes animate0Mont{0% { opacity: 0.0848114490509033203125         ; }100% { opacity: 0.0848114490509033203125         ; }}
+@keyframes animate1Mont{0% { opacity: 0.167616665363311767578125       ; }100% { opacity: 0.167616665363311767578125       ; }}
+@keyframes animate2Mont{0% { opacity: 0.162099301815032958984375       ; }100% { opacity: 0.162099301815032958984375       ; }}
+@keyframes animate3Mont{0% { opacity: 0.0848114490509033203125         ; }100% { opacity: 0.0848114490509033203125         ; }}
+@keyframes animate4Mont{0% { opacity: 0.082075595855712890625          ; }100% { opacity: 0.082075595855712890625          ; }}
+@keyframes animate5Mont{0% { opacity: 0.0848114490509033203125         ; }100% { opacity: 0.0848114490509033203125         ; }}
+@keyframes animate6Mont{0% { opacity: 0.082075595855712890625          ; }100% { opacity: 0.082075595855712890625          ; }}
+@keyframes animate7Mont{0% { opacity: 0.0848114490509033203125         ; }100% { opacity: 0.0848114490509033203125         ; }}
+@keyframes animate8Mont{0% { opacity: 0.0848114490509033203125         ; }100% { opacity: 0.0848114490509033203125         ; }}
+@keyframes animate9Mont{0% { opacity: 0.082075595855712890625          ; }100% { opacity: 0.082075595855712890625          ; }}
+@keyframes animate0Deda{0% { opacity: 0.295834243297576904296875       ; }100% { opacity: 0.295834243297576904296875       ; }}
+@keyframes animate1Deda{0% { opacity: 0.32866990566253662109375        ; }100% { opacity: 0.32866990566253662109375        ; }}
+@keyframes animate2Deda{0% { opacity: 0.326250493526458740234375       ; }100% { opacity: 0.326250493526458740234375       ; }}
+@keyframes animate3Deda{0% { opacity: 0.049245357513427734375          ; }100% { opacity: 0.049245357513427734375          ; }}
+@keyframes animate0Days{0% { opacity: 0.095795094966888427734375       ; }100% { opacity: 0.095795094966888427734375       ; }}
+@keyframes animate1Days{0% { opacity: 0.11772215366363525390625        ; }100% { opacity: 0.11772215366363525390625        ; }}
+@keyframes animate2Days{0% { opacity: 0.09857118129730224609375        ; }100% { opacity: 0.09857118129730224609375        ; }}
+@keyframes animate3Days{0% { opacity: 0.09857118129730224609375        ; }100% { opacity: 0.09857118129730224609375        ; }}
+@keyframes animate4Days{0% { opacity: 0.09857118129730224609375        ; }100% { opacity: 0.09857118129730224609375        ; }}
+@keyframes animate5Days{0% { opacity: 0.09857118129730224609375        ; }100% { opacity: 0.09857118129730224609375        ; }}
+@keyframes animate6Days{0% { opacity: 0.09857118129730224609375        ; }100% { opacity: 0.09857118129730224609375        ; }}
+@keyframes animate7Days{0% { opacity: 0.09857118129730224609375        ; }100% { opacity: 0.09857118129730224609375        ; }}
+@keyframes animate8Days{0% { opacity: 0.09857118129730224609375        ; }100% { opacity: 0.09857118129730224609375        ; }}
+@keyframes animate9Days{0% { opacity: 0.096484482288360595703125       ; }100% { opacity: 0.096484482288360595703125       ; }}
+@keyframes animate0DeHo{0% { opacity: 0.4166695512831211090087890625   ; }100% { opacity: 0.4166695512831211090087890625   ; }}
+@keyframes animate1DeHo{0% { opacity: 0.41666440665721893310546875     ; }100% { opacity: 0.41666440665721893310546875     ; }}
+@keyframes animate2DeHo{0% { opacity: 0.1666657626628875732421875      ; }100% { opacity: 0.1666657626628875732421875      ; }}
+@keyframes animate0Hour{0% { opacity: 0.12500099837779998779296875     ; }100% { opacity: 0.12500099837779998779296875     ; }}
+@keyframes animate1Hour{0% { opacity: 0.12500099837779998779296875     ; }100% { opacity: 0.12500099837779998779296875     ; }}
+@keyframes animate2Hour{0% { opacity: 0.12500099837779998779296875     ; }100% { opacity: 0.12500099837779998779296875     ; }}
+@keyframes animate3Hour{0% { opacity: 0.1249994374811649322509765625   ; }100% { opacity: 0.1249994374811649322509765625   ; }}
+@keyframes animate4Hour{0% { opacity: 0.124999321997165679931640625    ; }100% { opacity: 0.124999321997165679931640625    ; }}
+@keyframes animate5Hour{0% { opacity: 0.08333288133144378662109375     ; }100% { opacity: 0.08333288133144378662109375     ; }}
+@keyframes animate6Hour{0% { opacity: 0.08333288133144378662109375     ; }100% { opacity: 0.08333288133144378662109375     ; }}
+@keyframes animate7Hour{0% { opacity: 0.08333288133144378662109375     ; }100% { opacity: 0.08333288133144378662109375     ; }}
+@keyframes animate8Hour{0% { opacity: 0.08333288133144378662109375     ; }100% { opacity: 0.08333288133144378662109375     ; }}
+@keyframes animate9Hour{0% { opacity: 0.08333288133144378662109375     ; }100% { opacity: 0.08333288133144378662109375     ; }}
+@keyframes animate0DeMi{0% { opacity: 0.16666688024997711181640625     ; }100% { opacity: 0.16666688024997711181640625     ; }}
+@keyframes animate1DeMi{0% { opacity: 0.1666667163372039794921875      ; }100% { opacity: 0.1666667163372039794921875      ; }}
+@keyframes animate2DeMi{0% { opacity: 0.1666666008532047271728515625   ; }100% { opacity: 0.1666666008532047271728515625   ; }}
+@keyframes animate3DeMi{0% { opacity: 0.1666666008532047271728515625   ; }100% { opacity: 0.1666666008532047271728515625   ; }}
+@keyframes animate4DeMi{0% { opacity: 0.1666666008532047271728515625   ; }100% { opacity: 0.1666666008532047271728515625   ; }}
+@keyframes animate5DeMi{0% { opacity: 0.1666666008532047271728515625   ; }100% { opacity: 0.1666666008532047271728515625   ; }}
+@keyframes animate0Mins{0% { opacity: 0.100000016391277313232421875    ; }100% { opacity: 0.100000016391277313232421875    ; }}
+@keyframes animate1Mins{0% { opacity: 0.100000016391277313232421875    ; }100% { opacity: 0.100000016391277313232421875    ; }}
+@keyframes animate2Mins{0% { opacity: 0.100000016391277313232421875    ; }100% { opacity: 0.100000016391277313232421875    ; }}
+@keyframes animate3Mins{0% { opacity: 0.100000016391277313232421875    ; }100% { opacity: 0.100000016391277313232421875    ; }}
+@keyframes animate4Mins{0% { opacity: 0.09999999217689037322998046875  ; }100% { opacity: 0.09999999217689037322998046875  ; }}
+@keyframes animate5Mins{0% { opacity: 0.09999998845160007476806640625  ; }100% { opacity: 0.09999998845160007476806640625  ; }}
+@keyframes animate6Mins{0% { opacity: 0.09999998845160007476806640625  ; }100% { opacity: 0.09999998845160007476806640625  ; }}
+@keyframes animate7Mins{0% { opacity: 0.09999998845160007476806640625  ; }100% { opacity: 0.09999998845160007476806640625  ; }}
+@keyframes animate8Mins{0% { opacity: 0.09999998845160007476806640625  ; }100% { opacity: 0.09999998845160007476806640625  ; }}
+@keyframes animate9Mins{0% { opacity: 0.09999998845160007476806640625  ; }100% { opacity: 0.09999998845160007476806640625  ; }}
+@keyframes animate0DeSe{0% { opacity: 0.16666666977107524871826171875  ; }100% { opacity: 0.16666666977107524871826171875  ; }}
+@keyframes animate1DeSe{0% { opacity: 0.16666666604578495025634765625  ; }100% { opacity: 0.16666666604578495025634765625  ; }}
+@keyframes animate2DeSe{0% { opacity: 0.16666666604578495025634765625  ; }100% { opacity: 0.16666666604578495025634765625  ; }}
+@keyframes animate3DeSe{0% { opacity: 0.16666666604578495025634765625  ; }100% { opacity: 0.16666666604578495025634765625  ; }}
+@keyframes animate4DeSe{0% { opacity: 0.16666666604578495025634765625  ; }100% { opacity: 0.16666666604578495025634765625  ; }}
+@keyframes animate5DeSe{0% { opacity: 0.16666666604578495025634765625  ; }100% { opacity: 0.16666666604578495025634765625  ; }}
+@keyframes animate1Secs{0% { opacity: 0.09999999962747097015380859375  ; }100% { opacity: 0.09999999962747097015380859375  ; }}
+@keyframes animate2Secs{0% { opacity: 0.09999999962747097015380859375  ; }100% { opacity: 0.09999999962747097015380859375  ; }}
+@keyframes animate3Secs{0% { opacity: 0.09999999962747097015380859375  ; }100% { opacity: 0.09999999962747097015380859375  ; }}
+@keyframes animate4Secs{0% { opacity: 0.09999999962747097015380859375  ; }100% { opacity: 0.09999999962747097015380859375  ; }}
+@keyframes animate5Secs{0% { opacity: 0.09999999962747097015380859375  ; }100% { opacity: 0.09999999962747097015380859375  ; }}
+@keyframes animate6Secs{0% { opacity: 0.09999999962747097015380859375  ; }100% { opacity: 0.09999999962747097015380859375  ; }}
+@keyframes animate7Secs{0% { opacity: 0.09999999962747097015380859375  ; }100% { opacity: 0.09999999962747097015380859375  ; }}
+@keyframes animate8Secs{0% { opacity: 0.0999999991618096828460693359375; }100% { opacity: 0.0999999991618096828460693359375; }}
+@keyframes animate9Secs{0% { opacity: 0.0999999991618096828460693359375; }100% { opacity: 0.0999999991618096828460693359375; }}
+.a-0Deca { visibility: visible; align:center; animation: animate0Deca 5.0s linear alternate infinite;}
+.a-1Deca { visibility: visible; align:center; animation: animate1Deca 5.0s linear alternate infinite;}
+.a-2Deca { visibility: visible; align:center; animation: animate2Deca 5.0s linear alternate infinite;}
+.a-3Deca { visibility: visible; align:center; animation: animate3Deca 5.0s linear alternate infinite;}
+.a-4Deca { visibility: visible; align:center; animation: animate4Deca 5.0s linear alternate infinite;}
+.a-5Deca { visibility: visible; align:center; animation: animate5Deca 5.0s linear alternate infinite;}
+.a-6Deca { visibility: visible; align:center; animation: animate6Deca 5.0s linear alternate infinite;}
+.a-0Year { visibility: visible; align:center; animation: animate0Year 5.0s linear alternate infinite;}
+.a-1Year { visibility: visible; align:center; animation: animate1Year 5.0s linear alternate infinite;}
+.a-2Year { visibility: visible; align:center; animation: animate2Year 5.0s linear alternate infinite;}
+.a-3Year { visibility: visible; align:center; animation: animate3Year 5.0s linear alternate infinite;}
+.a-4Year { visibility: visible; align:center; animation: animate4Year 5.0s linear alternate infinite;}
+.a-5Year { visibility: visible; align:center; animation: animate5Year 5.0s linear alternate infinite;}
+.a-6Year { visibility: visible; align:center; animation: animate6Year 5.0s linear alternate infinite;}
+.a-7Year { visibility: visible; align:center; animation: animate7Year 5.0s linear alternate infinite;}
+.a-8Year { visibility: visible; align:center; animation: animate8Year 5.0s linear alternate infinite;}
+.a-9Year { visibility: visible; align:center; animation: animate9Year 5.0s linear alternate infinite;}
+.a-0Ober { visibility: visible; align:center; animation: animate0Ober 5.0s linear alternate infinite;}
+.a-1Ober { visibility: visible; align:center; animation: animate1Ober 5.0s linear alternate infinite;}
+.a-0Mont { visibility: visible; align:center; animation: animate0Mont 5.0s linear alternate infinite;}
+.a-1Mont { visibility: visible; align:center; animation: animate1Mont 5.0s linear alternate infinite;}
+.a-2Mont { visibility: visible; align:center; animation: animate2Mont 5.0s linear alternate infinite;}
+.a-3Mont { visibility: visible; align:center; animation: animate3Mont 5.0s linear alternate infinite;}
+.a-4Mont { visibility: visible; align:center; animation: animate4Mont 5.0s linear alternate infinite;}
+.a-5Mont { visibility: visible; align:center; animation: animate5Mont 5.0s linear alternate infinite;}
+.a-6Mont { visibility: visible; align:center; animation: animate6Mont 5.0s linear alternate infinite;}
+.a-7Mont { visibility: visible; align:center; animation: animate7Mont 5.0s linear alternate infinite;}
+.a-8Mont { visibility: visible; align:center; animation: animate8Mont 5.0s linear alternate infinite;}
+.a-9Mont { visibility: visible; align:center; animation: animate9Mont 5.0s linear alternate infinite;}
+.a-0Deda { visibility: visible; align:center; animation: animate0Deda 5.0s linear alternate infinite;}
+.a-1Deda { visibility: visible; align:center; animation: animate1Deda 5.0s linear alternate infinite;}
+.a-2Deda { visibility: visible; align:center; animation: animate2Deda 5.0s linear alternate infinite;}
+.a-3Deda { visibility: visible; align:center; animation: animate3Deda 5.0s linear alternate infinite;}
+.a-0Days { visibility: visible; align:center; animation: animate0Days 5.0s linear alternate infinite;}
+.a-1Days { visibility: visible; align:center; animation: animate1Days 5.0s linear alternate infinite;}
+.a-2Days { visibility: visible; align:center; animation: animate2Days 5.0s linear alternate infinite;}
+.a-3Days { visibility: visible; align:center; animation: animate3Days 5.0s linear alternate infinite;}
+.a-4Days { visibility: visible; align:center; animation: animate4Days 5.0s linear alternate infinite;}
+.a-5Days { visibility: visible; align:center; animation: animate5Days 5.0s linear alternate infinite;}
+.a-6Days { visibility: visible; align:center; animation: animate6Days 5.0s linear alternate infinite;}
+.a-7Days { visibility: visible; align:center; animation: animate7Days 5.0s linear alternate infinite;}
+.a-8Days { visibility: visible; align:center; animation: animate8Days 5.0s linear alternate infinite;}
+.a-9Days { visibility: visible; align:center; animation: animate9Days 5.0s linear alternate infinite;}
+.a-0DeHo { visibility: visible; align:center; animation: animate0DeHo 5.0s linear alternate infinite;}
+.a-1DeHo { visibility: visible; align:center; animation: animate1DeHo 5.0s linear alternate infinite;}
+.a-2DeHo { visibility: visible; align:center; animation: animate2DeHo 5.0s linear alternate infinite;}
+.a-0Hour { visibility: visible; align:center; animation: animate0Hour 5.0s linear alternate infinite;}
+.a-1Hour { visibility: visible; align:center; animation: animate1Hour 5.0s linear alternate infinite;}
+.a-2Hour { visibility: visible; align:center; animation: animate2Hour 5.0s linear alternate infinite;}
+.a-3Hour { visibility: visible; align:center; animation: animate3Hour 5.0s linear alternate infinite;}
+.a-4Hour { visibility: visible; align:center; animation: animate4Hour 5.0s linear alternate infinite;}
+.a-5Hour { visibility: visible; align:center; animation: animate5Hour 5.0s linear alternate infinite;}
+.a-6Hour { visibility: visible; align:center; animation: animate6Hour 5.0s linear alternate infinite;}
+.a-7Hour { visibility: visible; align:center; animation: animate7Hour 5.0s linear alternate infinite;}
+.a-8Hour { visibility: visible; align:center; animation: animate8Hour 5.0s linear alternate infinite;}
+.a-9Hour { visibility: visible; align:center; animation: animate9Hour 5.0s linear alternate infinite;}
+.a-0DeMi { visibility: visible; align:center; animation: animate0DeMi 5.0s linear alternate infinite;}
+.a-1DeMi { visibility: visible; align:center; animation: animate1DeMi 5.0s linear alternate infinite;}
+.a-2DeMi { visibility: visible; align:center; animation: animate2DeMi 5.0s linear alternate infinite;}
+.a-3DeMi { visibility: visible; align:center; animation: animate3DeMi 5.0s linear alternate infinite;}
+.a-4DeMi { visibility: visible; align:center; animation: animate4DeMi 5.0s linear alternate infinite;}
+.a-5DeMi { visibility: visible; align:center; animation: animate5DeMi 5.0s linear alternate infinite;}
+.a-0Mins { visibility: visible; align:center; animation: animate0Mins 5.0s linear alternate infinite;}
+.a-1Mins { visibility: visible; align:center; animation: animate1Mins 5.0s linear alternate infinite;}
+.a-2Mins { visibility: visible; align:center; animation: animate2Mins 5.0s linear alternate infinite;}
+.a-3Mins { visibility: visible; align:center; animation: animate3Mins 5.0s linear alternate infinite;}
+.a-4Mins { visibility: visible; align:center; animation: animate4Mins 5.0s linear alternate infinite;}
+.a-5Mins { visibility: visible; align:center; animation: animate5Mins 5.0s linear alternate infinite;}
+.a-6Mins { visibility: visible; align:center; animation: animate6Mins 5.0s linear alternate infinite;}
+.a-7Mins { visibility: visible; align:center; animation: animate7Mins 5.0s linear alternate infinite;}
+.a-8Mins { visibility: visible; align:center; animation: animate8Mins 5.0s linear alternate infinite;}
+.a-9Mins { visibility: visible; align:center; animation: animate9Mins 5.0s linear alternate infinite;}
+.a-0DeSe { visibility: visible; align:center; animation: animate0DeSe 5.0s linear alternate infinite;}
+.a-1DeSe { visibility: visible; align:center; animation: animate1DeSe 5.0s linear alternate infinite;}
+.a-2DeSe { visibility: visible; align:center; animation: animate2DeSe 5.0s linear alternate infinite;}
+.a-3DeSe { visibility: visible; align:center; animation: animate3DeSe 5.0s linear alternate infinite;}
+.a-4DeSe { visibility: visible; align:center; animation: animate4DeSe 5.0s linear alternate infinite;}
+.a-5DeSe { visibility: visible; align:center; animation: animate5DeSe 5.0s linear alternate infinite;}
+.a-1Secs { visibility: visible; align:center; animation: animate1Secs 5.0s linear alternate infinite;}
+.a-2Secs { visibility: visible; align:center; animation: animate2Secs 5.0s linear alternate infinite;}
+.a-3Secs { visibility: visible; align:center; animation: animate3Secs 5.0s linear alternate infinite;}
+.a-4Secs { visibility: visible; align:center; animation: animate4Secs 5.0s linear alternate infinite;}
+.a-5Secs { visibility: visible; align:center; animation: animate5Secs 5.0s linear alternate infinite;}
+.a-6Secs { visibility: visible; align:center; animation: animate6Secs 5.0s linear alternate infinite;}
+.a-7Secs { visibility: visible; align:center; animation: animate7Secs 5.0s linear alternate infinite;}
+.a-8Secs { visibility: visible; align:center; animation: animate8Secs 5.0s linear alternate infinite;}
+.a-9Secs { visibility: visible; align:center; animation: animate9Secs 5.0s linear alternate infinite;}
+[[/module]]
