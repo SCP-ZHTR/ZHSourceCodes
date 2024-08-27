@@ -872,12 +872,12 @@ MSC-7「獌束」
 ||~ [[span class="ruby"]]Danger[[span class="rt"]]危險[[/span]][[/span]] ||= [[span class="ruby"]]SCP-ZH-312[[span class="rt"]][[span class="a-container"]]仁義禮智 _
 [[span class="a-lv1"]]東南西北[[/span]] _
 [[span class="a-lv2"]]仁義禮智[[/span]] _
-[[/span]][[/span]][[/span]] ||= [[span class="ruby"]]SCP-ZH-469[[span class="rt"]]酒單：Four Loko[[/span]][[/span]] ||=  ||=  ||=  ||= 2/5 ||
+[[/span]][[/span]][[/span]] ||= [[span class="ruby"]]SCP-ZH-469[[span class="rt"]]酒單：Four Loko[[/span]][[/span]] ||=  ||=  ||= [[span class="ruby"]]SCP-ZH-850[[span class="rt"]]人是「人間曆」[[/span]][[/span]] ||= 3/5 ||
 ||~ [[span class="ruby"]]Critical[[span class="rt"]]極危[[/span]][[/span]] ||= [[span class="ruby"]]SCP-ZH-968[[span class="rt"]]基輔戰鬼顯現之時[[/span]][[/span]] ||= [[span class="ruby"]]SCP-ZH-964[[span class="rt"]][[span class="a-container"]]海鷗為何撤退？ _
 [[span class="a-lv1"]]海鷗為何撤退？[[/span]] _
 [[span class="a-lv2"]]公雞為何過路？[[/span]] _
 [[/span]][[/span]][[/span]] ||= [[span class="ruby"]]SCP-ZH-385[[span class="rt"]]子母巡弋飛彈MSC-7「獌束」[[/span]][[/span]] ||=  ||=  ||= 3/5 ||
-||~  ||~ 滿 載 ||~ 滿 載 ||= 3/5 ||= 2/5 ||= 1/5 ||
+||~  ||~ 滿 載 ||~ 滿 載 ||= 3/5 ||= 2/5 ||= 2/5 ||
 [[/div]]
 [[/tab]]
 [[tab 人事擷影]]
@@ -1149,13 +1149,13 @@ SCP-ZH-???「儒」：兼具孔子與阿爾伯特愛因斯坦兩種人格的活�
 
 [[table style="width: 100%;"]]
 [[row style="font-weight: bold; color: #fff; background-color: #666;"]]
-[[cell style="padding: 0 2px; width: 50%;"]]
+[[cell style="padding: 0 2px; width: 40%;"]]
 名稱
 [[/cell]]
 [[cell style="padding: 0 2px; width: 25%; text-align: center;"]]
 問世時間
 [[/cell]]
-[[cell style="padding: 0 2px; width: 20%; text-align: center;"]]
+[[cell style="padding: 0 2px; width: 30%; text-align: center;"]]
 教授執筆
 [[/cell]]
 [[cell style="padding: 0 2px; text-align: center;"]]
@@ -1170,13 +1170,13 @@ SCP-ZH-???「儒」：兼具孔子與阿爾伯特愛因斯坦兩種人格的活�
 
 [[module ListPages order="name" prependLine="[[include component:listpages-table]]" perPage="40" appendLine="[[/table]]" category="-fragment, -prime"  separate="false" tags="+2024中元恐怖 -中心 +scp" rss="Most Recently Created"]]
 [[row]]
-[[cell style="vertical-align: top;"]]
+[[cell style="vertical-align: top; width: 40%;"]]
 %%title_linked%%
 [[/cell]]
-[[cell style="vertical-align: top; text-align: justify;"]]
-%%created_at|%Y年%m月%d日 %H:%M|agohover%%
+[[cell style="vertical-align: top; width: 25%; text-align: justify;"]]
+%%created_at|%m月%d日 %H:%M|agohover%%
 [[/cell]]
-[[cell style="vertical-align: top; text-align: left;"]]
+[[cell style="vertical-align: top; width: 30%; text-align: left;"]]
 %%created_by_linked%%
 [[/cell]]
 [[cell style="vertical-align: top; text-align: justify;"]]
