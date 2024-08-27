@@ -316,6 +316,10 @@ SCP-3301 - 基金會
 [[module ListPages order="title" tags=" +原創 +wondertainment博士" separate="no" perPage="200" prependLine="||~ 標題||~ 評分||"]]
 || %%title_linked%% || %%rating%% || 
 [[/module]]
+[[module CountPages tags="+site-zh-44 +原創 +scp -已解明 -搞笑 -001提案"]]
+%%total%%
+
+[[/module]]。
 [[/collapsible]]
 
 [[/tab]]
@@ -471,3 +475,8 @@ We love
 [[/div]]
 [[/tab]]
 [[/tabview]]
+
+
+@@ @@
+--------
+@@ @@
