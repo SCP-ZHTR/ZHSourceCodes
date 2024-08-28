@@ -1,0 +1,194 @@
+[[include component:scp-meta-title-hiding css-style=classic]]
+[[include component:info-ayers
+|lang=en[!-- EN/RU/KO/CN/FR/PL/ES/TH/JP/DE/IT/UA/PTBR --]
+|page=SCP-2399[!-- url of your page on the scp wiki --]
+|authorPage=http://www.scp-wiki.net/djkaktus[!-- link to your author page --]
+|comments=
+
+= **SCP-2399** - //故障的毀滅者//
+]]
+
+[[include info:start]]
+原文：[https://scp-wiki.wikidot.com/scp-2399 SCP-2399]
+作者：[[*user djkaktus]]
+譯者：[[*user Halewen]]
+[[include info:end]]
+
+[[include :scp-zh-tr:component:object-warning-box-source
+|bg-image=https://upload.wikimedia.org/wikipedia/commons/e/ec/SCP_Foundation_%28emblem%29.svg
+|bg-opacity=0.15
+|text-top=**根據監督者議會的命令**
+|text-bottom=以下檔案描述了一敵對的異常外星超結構體，且能造成SK級「貧瘠之地」世界末日情景，此檔案為5/2399級機密。
+**禁止未經授權的訪問。**
+|object-number=2399
+]]
+
+[[include component:anomaly-class-bar-source
+|item-number= 2399
+|clearance= 5
+|container-class= keter
+|secondary-class=
+|secondary-icon=
+|disruption-class= amida
+|risk-class= danger
+]]
+
+-----
+
+[[include component:image-block name=https://scp-wiki.wdfiles.com/local--files/scp-2399/header.png|align=center|width=100%|caption=木星上的大紅斑。]]
+
+-----
+
+[[include component:image-block name=https://scp-wiki.wdfiles.com/local--files/scp-2399/location.png|align=right|width=30%|caption=大紅斑，位於木星]]
+
+**特殊收容措施：** 考量到SCP-2399的位置與性質，物理收容方式目前不可行。位於主流觀測台的基金會特工應回收關於SCP-2399的影片與照片。目前已執行假消息措施，此措施已能從公眾認知中掩蓋任何關於SCP-2399的資訊。
+
+圍繞木星的基金會衛星應時刻對SCP-2399的修復保持警戒，並盡可能阻礙SCP-2399，以免項目的修復進度達到75%。此外，已在高木星軌道上部屬針對長距離電磁訊號的干擾衛星([[span class="ruby"]]屏障[[span class="rt"]]BARRIER[[/span]][[/span]]陣列)。任何被陣列攔截到的訊號都應迅速對其解碼並記錄。
+
+當SCP-2399的修復進度超過75%或有訊息穿過干擾衛星時，必要的基金會人員將啟動軍團兵-5協定(見附錄2399-L5)，假設該裝置已完成。
+
+**描述：** SCP-2399是一目前位於土星對流層的巨型複雜機械結構。自1963年被發現以來，SCP-2399一直在使用高度進步的反物質武器來製造空間扭曲和毀滅性的大氣[已刪除資料]可見的巨大紅色漩渦，俗稱大紅斑。
+
+[[include component:image-block name=https://scp-wiki.wdfiles.com/local--files/scp-2399/redspot.gif|caption=對SCP-2399於██/██/██至██/██/██的移動路徑錄製的縮時攝影]]
+
+SCP-2399目前似乎處於受損狀態，可能是在項目落於目前位置前與木衛一相撞而導致的。觀察SCP-2399後發現，項目釋放了一群小型八爪無人機來試圖修復當初受到的傷害。一部分無人機停留在SCP-2399附近，而另一部分則在附近衛星巡邏，或前往木星氣體深處以試圖尋找SCP-2399缺失的元件。電腦模擬估計目前SCP-2399已完成59%的修復過程，並每年完成.78%。此修復速率已自1970年估計的每年.12%上升。
+
+即使SCP-2399處於受損狀態，項目似乎具有無限的能源供應、十分進步的電磁波屏蔽技術、物質扭曲武器、自我修復功能和準確的目標追蹤系統(見附錄2399-2b)。考量到SCP-2399製造者和我們之間極大的技術差距，從各方面來看，SCP-2399目前無法由人為方式摧毀。理論上足夠強力的電磁脈衝可以使SCP-2399變得脆弱。不幸的是，目前這種科技尚不存在。
+
+[[include component:image-block name=https://scp-wiki.wdfiles.com/local--files/scp-2399/redspot2.png|caption=屏障單元21號觀測到的SCP-2399(紅圈處)]]
+
+自1971年起，SCP-2399便一直在接收一段持續從三角座星系傳來的電磁訊號，其位置離地球大約三百萬光年。SCP-2399抵達我們恆星系的方式與其通訊手段皆是未知的。從1971年到1985年這段期間，SCP-2399不斷接收一段加密訊息，透過解碼和翻譯得知，此訊息似乎為一段指令，命令項目修復進入太陽系時受到的損傷。這段期間過後，建立了屏障陣列以攔截這些訊息。屏障陣列建立的時間剛好與原訊號發源點電波靜默的時間重疊，直到1996年，訊號發源點才開始發送一段不同的指令。屏障陣列目前已阻止SCP-2399收到這些指令(見附錄2399通訊紀錄)。
+
+-----
+
+**SCP-2399發現紀錄：**
+[[collapsible show="+ 存取資料" hide="- 允許存取"]]
+//SCP-2399最初由喬瓦尼·卡西尼於1665年觀察到，雖然他當時並不知道。以下紀錄直接取自卡西尼觀察此事件的日誌，已由義大利文翻譯為英文。//
+
+> **08/10/1665**
+> 我在天空中觀察到了不得了的東西。昨晚，我透過我的目鏡觀察時，看到一顆發著強烈冷光的星星衝過了太陽系外圍。我從沒記錄過那麼快的物體；它在兩小時內就越過外行星了！我用雙眼看著，它靠近木星時減速了，然後突然拐了個彎，接著就這麼消失於木星中。之後，我看到許多道光芒爆發，雖然我到破曉前都一直看著它，但夜空中沒有出現其他紛亂了。我必須持續記錄這些變化，然後在白天時跟我的同事講。
+
+> **15/10/1665**
+> 昨晚我帶彼得到了我的觀星點，但自從我在天穹看到木星降下的火雨後已經過了一個禮拜。他帶了他自己的目鏡，我們一起將視線對準那龐然大物。令我們驚訝的是，木星出現了一個巨大的變化！那遙遠的世界以往只有單調的色帶，但現在木星表面上，星星當初降落的地方出現了一個巨大的紅色斑點。這場美妙的發現就發生在我們眼前，當然，彼得對此感到不可置信。我會持續記錄這件事的。
+
+> **18/10/1665**
+> 今晚，當我用我的目鏡觀察時，我以性命發誓，我看到像是爆炸和星爆的現象從大紅點中發出。我怕我的大腦在欺騙我，畢竟自從天文學興起以來，沒有任何紀錄提過天體會發出如此激烈的爆炸。明天我會請教彼得，希望能從他那得到一些對此事的意見。
+
+> **19/10/1665**
+> 彼得跟我的看法是一樣的！當我帶著我的憂慮和他談論時，他也提出了同樣的想法，我們接著討論後得出了結論：一定是我在第一天晚上看到的流星導致了那強烈的反應，而不是我們的疏失造成的。我在思考我們天上的鄰居到底發生了什麼樣的災難。我們必須要持續記錄這件事。
+[[/collapsible]]
+
+**附錄2399-2b：**
+[[collapsible show="+ 存取附錄" hide="- 允許存取"]]
+
+//在██/██/██第████小時，屏障單元53號觀測到一個SCP-2399的修補無人機靠近一片殘骸，那殘骸很快被確認為受損通訊陣列的一部分。考量到這塊元件的用途以及SCP-2399回收這塊元件後可能產生的後果，屏障單元45號被下令以自身裝載的衝擊砲組對無人機開火，//
+
+//衝擊砲組開火；但無人機外觀沒有出現任何損害。屏障單元53號蒐集到的錄像顯示，當彈頭朝無人機發射時，彈頭在距離目標五公里時被來自SCP-2399的砲火摧毀。在第一發彈頭發射15秒後，屏障單元45號與指揮失去聯繫，觀察影像顯示SCP-2399[已刪除資料]導致空間異常出現在████-██-████-█[已刪除資料]屏障單元45號被屏障單元44號、51號和55號摧毀。//
+
+//屏障單元不得再進一步與SCP-2399或項目釋放的無人機進行交戰。//
+[[/collapsible]]
+
+**附錄2399-2c：[[span class="ruby"]]吉咖斯計畫[[span class="rt"]]Project Gigas[[/span]][[/span]]**
+
+[[collapsible show="+ 訊息僅對四級以上人員開放" hide="- 許可接受"]]
+
+//在██/██/██事件後，基金會決定應授權以必要武力摧毀SCP-2399或使其失去機能。透過基金會與來自45個國家的資源(值得注意的國家有：█████ ███████、███████、█████ ██████、██████、███████ ██████、██████'█ ████████ ██ █████和██████████ ██████'█ ████████ ██ █████)，發射了一個載著██個彈頭，總共███噸爆炸物和██個裝有EMP雷管的彈頭的平台，此平台被放置於木衛二的軌道上。在██/██/██第████小時，15名國家元首與O5█、O5█、O5█、O5█和O5█下令將吉咖斯計畫的所有彈頭朝SCP-2399發射。//
+
+[已刪除資料]
+
+//目前正在研究消滅SCP-2399的替代方案。//[[footnote]]修復[[[SCP-1396]]]的方案已被提過，但被認為目前不可行。[[/footnote]]
+[[/collapsible]]
+
+**附錄2399-L5：**
+[[collapsible show="+ 訊息僅對四級以上人員開放" hide="- 許可接受"]]
+
+> 所以，SCP-2399。
+> 
+> 不知道你是否曾有坐下來想過，也許在聽到你剛剛所在的街道發生車禍，或你之前造訪過的城市遭到轟炸後，能活下來是件多麼幸運的事？要有多少事保持正確才能讓你持續存在？晚個幾秒，或早個幾秒，某人伸手撿他掉下的東西，一車的人就會撞上另一車的人。有時候這種事就是會發生，我們看過，我們太常看到了。但我們就是為此站在這的。從常人不知道如何應對的事物手中保護那些人。
+> 
+> 但我們沒法做到盡善盡美。即使我們能夠收容許多東西，即使我們能盡可能地關住許多威脅要毀滅所有人的東西，但還有很多東西是我們束手無策的。不論它們太大、太快、或太過強大，這些東西一眨眼就能將人類抹除。它們還沒這麼做只是因為我們走運。然而，SCP-2399，它不一樣。
+> 
+> 我們對SCP-2399的動機、起源和能力都所知甚少。我們不知道它是如何在這麼長的距離下通信的，也不知道建造它的人(假如它真的是被建造的)最初為何把它送來我們這。我們不知道SCP-2399完全修復好後，或如果我們的陣列故障，讓一則訊息穿過的話會發生什麼事。我們都不知道，所以要設想最糟的狀況。根據我們觀察到的，如果SCP-2399抵達地球，它便會瞬間毀滅我們。
+> 
+> 但人類有時會獲得些幫助。有時某個東西會剛好擋在末日面前。對於我們，還有對SCP-2399來說，那東西就是木星。當SCP-2399開始減速並靠近地球時，卡西尼看到我們能夠確定的事；SCP-2399撞上了木衛一，它受損了，而且無法逃出木星的引力。它的武器如期啟動了，但木星承受了滅頂之災，而非我們。
+> 
+> 不過，最終SCP-2399很可能會完全回復機能，脫離木星，並持續朝它的目標前進。現在，只要我們想，我們就能不斷對它丟炸彈和EMP，但沒有任何跡象顯示這些東西能傷到它一根汗毛，相反，經驗告訴我們這完全沒用。如果它真的完全回復了機能，我們毫無疑問會被毀滅。
+> 
+> 木星給了我們時間。目前，SCP-2399會待在那，修復自己，而我們同時可以設計阻止它的方法。不論你喜不喜歡，我們現在在跟這東西搞軍備競賽。最樂觀的推測顯示這東西還需要大概25年才能穿透我們的干擾陣列。在那之前，我們必須抓住眼前的機會。我們必須善用木星給的時間，不能浪費。
+> 
+> 所以我們制訂了[[a href="/the-last-man"]][[span class="ruby"]]軍團兵[[span class="rt"]]LEGIONNAIRE[[/span]][[/span]]協定[[/a]]。一個巨大的EMP，由天曉得的什麼方式驅動，接著再丟一連串足以毀滅人類文明上千次的核彈。一個簡單粗暴的計畫，而且很有可能是徒勞。我們的研究員，全球的研究員，連//製造//那種脈衝波的科技都還沒發明出來，更不用說//驅動它//了。我們連一點能夠及時完成軍團兵的跡象都沒有，也不知道它完成後是否會如我們預期的起效。但我們必須試試看。我們必須做點什麼。即使我們會耗盡所有資金、用盡一切資源，我們還是得試。
+> 
+> 我們不常有機會看到一輛公車突然急轉，準備撞死我們，而我們還能成功躲開。木星在不知不覺中給了我們這個機會。我建議我們把握住它。
+> 
+> 
+> 蘭德爾‧麥卡倫
+> 主管
+> 屏障計畫，Site ██
+[[/collapsible]]
+
+**附錄2399通訊紀錄：**
+[[collapsible show="+ 以下資訊僅對4級以上人員開放" hide="- 我們看見了聲音，聽到了光"]]
+
+//以下記錄到的訊息皆不斷重複播放，直到記錄到新訊息，或出現電波靜默為止。//
+> ██/██/1971- 元件受損：修復
+> ██/██/1985- 更新指令：維持目前位置：修復
+> ██/██/1985- //一段電波靜默時期，此時建立了屏障陣列。//
+> ██/██/1996- 元件處於目標範圍外：前往[座標已編輯]星系三號星球：修復
+> ██/██/2015- 元件處於目標外面：前往[座標已編輯]星系三號星球：[[[twistedgears-kaktus-proposal|目標]]]優先：停止修復
+[[/collapsible]]
+
+[[footnoteblock]]
+
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[SCP-2398]]] | SCP-2399 | [[[SCP-2400]]] >>
+[[/=]]
+[[/div]]
+
+[[include :scp-zh-tr:component:license-box]]
+=====
+> **Filename:** header.png
+> **Author:** djkaktus
+> **License:** CC BY-SA 3.0
+> **Source Link:** [[[http://scp-wiki.wikidot.com/scp-2399|SCP Wiki]]]
+> **Derivative of:**
+> ------
+> **Name:** Great_Red_Spot_From_Voyager_1-e1468619371314-580x439.jpg
+> **Author:** NASA
+> **License:** Public Domain
+> **Source Link:** [[[https://www.universetoday.com/136402/get-closest-look-jupiters-great-red-spot/|Link]]]
+
+> **Filename:** location.png
+> **Author:** djkaktus
+> **License:** CC BY-SA 3.0
+> **Source Link:** [[[http://scp-wiki.wikidot.com/scp-2399|SCP Wiki]]]
+> **Derivative of:**
+> ------
+> **Author:** NASA
+> **License:** Public Domain
+> **Source Link:** [[[https://www.universetoday.com/136402/get-closest-look-jupiters-great-red-spot/|Link]]]
+
+> **Filename:** redspot.gif
+> **Author:** djkaktus
+> **License:** CC BY-SA 3.0
+> **Source Link:** [[[http://scp-wiki.wikidot.com/scp-2399|SCP Wiki]]]
+> **Derivative of:**
+> ------
+> **Name:** Experimental animation: the Great Red Spot
+> **Author:** NASA
+> **License:** Public Domain
+> **Source Link:** [[[http://www.thelogbook.com/earl/2012/12/15/great-red-spot/|]]]
+
+> **Filename:** redspot2.png
+> **Author:** djkaktus
+> **License:** CC BY-SA 3.0
+> **Source Link:** [[[http://scp-wiki.wikidot.com/scp-2399|SCP Wiki]]]
+> **Derivative of:**
+> ------
+> **Name:** Voyager 1 enters interstellar space - an incredible journey
+> **Author:** NASA
+> **License:** Public Domain
+> **Source Link:** [[[https://www.zdnet.com/pictures/voyager-1-enters-interstellar-space-an-incredible-journey/6/|Link]]]
+=====
+[[include :scp-zh-tr:component:license-box-end]]
+[[include :scp-zh-tr:component:djk]]
