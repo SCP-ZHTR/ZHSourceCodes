@@ -1,0 +1,754 @@
+[[include component:scp-meta-title-hiding css-style=bhl]]
+[[include :scp-zh-tr:theme:black-highlighter-theme]]
+[[include :scp-zh-tr:component:betterfootnotes]]
+[[include info:start]]
+**篇名：**SCP-ZH-854 - 見是「忌日」
+
+**作者：**[[*user Viken-K]]
+----
+⚠️ **內容警示：**本篇文章含有音訊檔案，請先將音效裝置音量調整至適合大小或靜音，避免造成聽力損傷。
+[[include info:end]]
+[[include :scp-zh-tr:component:info-cw]]
+~~~~
+[[html]]
+<style type="text/css">
+@import url("https://nu-scptheme.github.io/Black-Highlighter/css/min/black-highlighter.min.css");
+@import url("https://nu-scptheme.github.io/Black-Highlighter/css/parts/elements.css");
+@import url("https://nu-scptheme.github.io/Black-Highlighter/css/parts/fonts.css");
+@import url("https://nu-scptheme.github.io/Black-Highlighter/css/parts/structure.css");
+
+:root {
+    --body-font: Inter, "Noto Sans TC", 微軟正黑體, "Microsoft JhengHei", "Microsoft JhengHei UI", “微軟雅黑”, "Microsoft YaHei", "Microsoft YaHei UI", sans-serif;
+    
+    /* ===THEME COLORS=== */
+    --alt-accent: 221, 102, 17;
+    --bright-accent: 133, 0, 5;
+    --dark-accent: 100, 3, 15;
+    --pale-accent: 210, 20, 20;
+    --white-monochrome: 252, 252, 252;
+    --pale-gray-monochrome: 244, 244, 244;
+    --light-gray-monochrome: 160, 160, 160;
+
+    /* ===FONT SIZE & LINE HEIGHT=== */
+    --min-font-size: 0.8125rem; /* 13px */
+    --max-font-size: 0.9375rem; /* 15px */
+    --base-font-size: max(var(--min-font-size), min(2vw, var(--max-font-size)));
+    --base-line-height: 1.5;
+
+    /* ===BLOCKQUOTES=== */
+    --blockquote-bg-color: var(--pale-gray-monochrome), 0.25;
+    --blockquote-border-color: var(--light-gray-monochrome);
+    /* Color for special .colorbar-quote blockquote class */
+    --blockquote-colorbar-color: var(--bright-accent), 1;
+
+    /* ===LINK COLORS=== */
+    --link-color: var(--pale-accent);
+    --visited-link-color: var(--dark-accent);
+    --newpage-color: var(--alt-accent);
+    --hover-link-color: var(--bright-accent);
+    
+    /* ===BETTER FOOTNOTES===*/
+    --posX: calc(80% - 358px - 12rem);
+    --fnTransition: 0.3s;
+    --fnLinger: 0.15s;
+    --fnInteract: calc(var(--fnTransition) + var(--fnLinger));
+
+}
+
+/* ===HEADERS=== */
+h4 {
+    padding: 0;
+    font-family: var(--body-font);
+    line-height: 1.4;
+    font-variant-ligatures: common-ligatures contextual discretionary-ligatures;
+    font-weight: 700;
+    font-size: 1.3625em;
+    margin: inherit;
+    word-break: normal;
+
+}
+@media only screen and (width <= 30rem) {
+h4 {font-size: 1.125em;}
+}
+
+/* TABLE */
+  table{
+    border-collapse: collapse;
+  }
+caption {
+  caption-side: bottom;
+  padding: 10px;
+  font-weight: bold;
+}
+
+/* Standard Image Block */
+.scp-image-block {
+  border: solid 1px #666;
+  box-shadow: 0 1px 6px rgba(0, 0, 0, .25);
+  width: 300px;
+}
+ 
+.scp-image-block.block-right {
+  float: right;
+  clear: right;
+  margin: 0 2em 1em 2em;
+}
+ 
+.scp-image-block .scp-image-caption {
+  background-color: #eee;
+  padding: .5ex .5ch 1ex;
+  font-size: .9em;
+  font-weight: bold;
+  text-align: center;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  width:100%;
+  line-height:1.25;
+}
+ 
+.scp-image-block>p {
+  margin: 0;
+}
+ 
+.scp-image-block .scp-image-caption>p {
+  margin: 0;
+  padding: 0 10px;
+}
+
+/*--- Footnote Auto-counter --*/
+body {
+    counter-reset: megacount;
+}
+ 
+/*--- Footnote Superscript Number --*/
+.fnnum {
+    display: inline-block;
+    width: max-content;
+    text-indent: -0.475ex;
+    vertical-align: super;
+    line-height: 80%;
+    word-break: initial;
+    text-decoration: none;
+    font-weight: bold;
+    font-style: initial;
+    color: transparent;
+    position: relative;
+    font-size: 80%;
+    padding: .15em .05em;
+    margin-right: -0.25em;
+    counter-increment: megacount;
+    -webkit-user-select: none;
+    user-select: none;
+}
+.fnnum::after {
+    content: "" counter(megacount);
+    color: var(--fnColor, #E6283C);
+}
+.fnnum:hover {
+    text-decoration: none;
+    cursor: pointer;
+    background-color: var(--fnColor, #E6283C);
+}
+.fnnum:hover::after { color: white; }
+ 
+/*--- Footnote Content Wrapper --*/
+.fncon {
+    position: absolute;
+    right: calc(var(--posX) + 80px);
+    line-height: 1.25;
+    padding: 0.8125rem;
+    width: 12.5rem;
+    box-sizing: border-box;
+    background: white;
+    border: .125rem solid black;
+    font-size: .9125rem;
+    font-weight: initial;
+    font-style: normal;
+    text-align: initial;
+    visibility: hidden;
+    opacity: 0;
+    z-index: 9;
+    transition:
+        opacity 0.15s linear var(--fnLinger),
+        right var(--fnTransition) cubic-bezier(.08,.72,.5,.94) var(--fnLinger),
+        visibility 0.01s linear var(--fnInteract);
+}
+.fnnum:hover + .fncon, .fncon:hover {
+    opacity: 1;
+    z-index: 10;
+    right: var(--posX);
+    visibility: visible;
+    transition:
+        opacity 0.15s linear,
+        right var(--fnTransition) cubic-bezier(.08,.72,.5,.94);
+}
+ 
+.fncon::before {
+    position: absolute;
+    top: 0; left: 0;
+    transform: translateX(-52%) translateY(-55%) scale(1.15);
+    background-color: var(--fnColor, #E6283C);
+    color: white;
+    content: counter(megacount);
+    font-size: initial;
+    font-weight: bold;
+    font-style: initial;
+    padding: 0.18rem 0.32em 0.08rem;
+}
+ 
+@media only screen and (max-width: 625px) {
+    .fncon {
+        left: calc(15% - 50px);
+        width: 70%;
+        transition:
+            opacity 0.15s linear var(--fnLinger),
+            left var(--fnTransition) cubic-bezier(.08,.72,.5,.94) var(--fnLinger),
+            visibility 0.01s linear var(--fnInteract);
+    }
+    .fnnum:hover + .fncon, .fncon:hover {
+        left: 15%;
+        transition:
+            opacity 0.15s linear,
+            left var(--fnTransition) cubic-bezier(.08,.72,.5,.94);
+    }
+}
+
+/* ===PSEUDO COLLAPSIBLE BLOCK=== */
+#block7_after, 
+#block8_before, #block8_after, 
+#block9_before, #block9_after{
+  display:none;
+}
+
+/* === ANIMATE EFFECT=== */
+#ani1, #ani2 {
+    animation-name: fadeInAnimation;
+    animation-duration: 4s;
+    animation-iteration-count: 1;
+    animation-timing-function: ease-out;
+    animation-fill-mode: forwards;
+    opacity: 0;
+}
+
+#ani1 {animation-delay: 1s;}
+#ani2 {font-size: 5em; animation-delay: 5s;}
+
+.fadeOut {
+    animation-name: fadeOutAnimation;
+    animation-duration: 1.5s;
+    animation-iteration-count: 1;
+    animation-timing-function: ease-out;
+    animation-fill-mode: forwards;
+}
+
+@keyframes fadeInAnimation { 
+    0% { opacity: 0; }
+    20% { opacity: 0; }
+    100% { opacity: 1; } 
+} 
+@keyframes fadeOutAnimation { 
+    0% { opacity: 1; }
+    33% { opacity: 1; }
+    100% { opacity: 0; } 
+} 
+</style>
+
+<script>
+function Click1(){
+   document.querySelector("#block7_after").style.display="initial";
+   document.querySelector("#block7_before").style.display="none";
+   document.querySelector("#block8_before").style.display="initial";
+   }
+
+function Click2(){
+   document.querySelector("#block8_after").style.display="initial";
+   document.querySelector("#block8_before").style.display="none";
+   document.querySelector("#block9_before").style.display="initial";
+   setTimeout(AirSiren, 46500);
+   }
+
+function Click3(){
+   setTimeout(() => {
+     document.querySelector("#ani2").style.display="none";
+   },31000);
+
+   setTimeout(() => {
+     document.querySelector("#block1").style.display="none";
+     document.querySelector("#block9_after").style.display="initial";
+   },12000);
+
+   setTimeout(() => {
+     document.querySelector("#block2").style.display="none";
+     block1.classList.add("fadeOut");
+   },10500);
+
+   setTimeout(() => {
+     document.querySelector("#block3").style.display="none";
+     block2.classList.add("fadeOut");
+   },9000);
+
+   setTimeout(() => {
+     document.querySelector("#block4").style.display="none";
+     block3.classList.add("fadeOut");
+   },7500);
+
+   setTimeout(() => {
+     document.querySelector("#block5").style.display="none";
+     block4.classList.add("fadeOut");
+   },6000);
+
+   setTimeout(() => {
+     document.querySelector("#block6").style.display="none";
+     block5.classList.add("fadeOut");
+   },4500);
+
+   setTimeout(() => {
+     document.querySelector("#block7_after").style.display="none";
+     block6.classList.add("fadeOut");
+   },3000);
+
+   setTimeout(() => {
+     document.querySelector("#block8_after").style.display="none";
+     block7_after.classList.add("fadeOut");
+   },1500);
+
+   block8_after.classList.add("fadeOut");
+   document.querySelector("#block9_before").style.display="none";
+   AirSiren();
+   }
+
+function AirSiren(){
+   var audio = document.getElementById("air-siren"); 
+   audio.play();
+   }
+</script>
+
+<body>
+<audio
+  id="air-siren"
+  src="https://files.catbox.moe/k4s6pj.wav"
+  playsinline
+  preload="auto"
+  loop>
+</audio>
+
+<div id="block1">
+<div class="scp-image-block block-right" style="width:300px;">
+<img src="https://live.staticflickr.com/5533/11643989034_508efa3c3e_b.jpg" width="300">
+<div class="scp-image-caption">
+SCP-ZH-854發生地點
+</div>
+</div>
+<p><b>項目編號：</b>SCP-ZH-854</p>
+
+<p><b>項目等級：</b>Euclid</p>
+
+<p><b>特殊收容措施：</b>楊明瀚教授的住宅產權現已轉移至基金會附屬前台組織名下。並且，由基金會人員冒充的現任屋主應保持每日上午9點出門，下午5點過後返家，以避免周邊鄰居嘗試於上午9點過後造訪。與此同時，若有基金會人員須進出楊明瀚教授之住所則應於深夜時段完成，其理由僅為避開一般平民的耳目。</p>
+
+<p>上述「冒充的現任屋主」應由與楊明瀚教授親近之基金會職員擔任，如若該人員因故無法續留該職務時，則應由前台組織完成一起虛構的產權轉移。為使前述條件不致消滅，楊明瀚教授的個人檔案應向所有基金會職員公布，且應鼓勵職員於安全時段前往現場，進一步了解楊明瀚教授的生平事蹟<span class="fnnum">.</span><span class="fncon"><b>[RAISA通知]</b> 來源存疑。</span>。</p>
+
+<p>考量到SCP-ZH-854發生時並不會造成過大的動靜，並且該異常現象沒有進一步擴張影響範圍的趨勢，目前並沒有加強隱匿SCP-ZH-854存在的計畫或行動。</p>
+</div>
+
+<div id="block2">
+<p><b>描述：</b>SCP-ZH-854現已指定為發生在當前失蹤的基金會非典型收容工程師，楊明瀚教授住所一樓客廳中的一系列騷靈現象。該現象具體表現為每日上午09:19至09:31之間，客廳內傢俱、器皿、樂器、電力系統的異常位移與運作。客廳內的所有物件皆可在上述時間段之外任意移動、重組、破壞<del>或帶離現場</del>；然而當SCP-ZH-854開始發生時，所有受影響物件都將依研究人員歸納出的規律（見<b>表 1</b>）進行運動，且直到SCP-ZH-854結束前都無法被破壞，或以外力影響其運動：</p>
+
+<table>
+　<caption>
+　　表 1　時間規律表
+　</caption>
+　<tr>
+　　<td style="font-weight:bold;padding: .3em .7em; text-align: center; border: 1px solid black; background-color: silver; width: 20%;">時間段</th>
+　　<td style="font-weight:bold; padding: .3em .7em; text-align: center; border: 1px solid black; background-color: silver;">行為規律</th>
+　</tr>
+　<tr>
+　　<td style="text-align: center; padding: .3em .7em; border: 1px solid black">09:19～09:20</td>
+　　<td style="border: 1px solid black; padding: .3em .7em;">在這一分鐘內，所有已經碎裂的傢俱或物品會自行重新組合至通常認知中未被破壞前的原貌，且所有物件會都將位移或恢復至各自固定的「起始位置」，並在抵達後靜止。</td>
+　</tr>
+　<tr>
+　　<td style="text-align: center; padding: .3em .7em; border: 1px solid black">09:20～09:30</td>
+　　<td style="border: 1px solid black; padding: .3em .7em;">所有物件開始沿特定軌跡，於特定時間點運動或運作。詳情請見<b>表 2</b>。</td>
+　</tr>
+　<tr>
+　　<td style="text-align: center; border: 1px solid black">09:30～09:31</td>
+　　<td style="border: 1px solid black; padding: .3em .7em;">所有物件抵達各自的「終止位置」並完全靜止，並於09:31過後可自由移動。</td>
+　</tr>
+</table>
+
+<p>基於物體運動軌跡的不可改變性，如人員於SCP-ZH-854發生時處於現象範圍的一樓客廳內，將可能因物體強行穿透人體而造成致命性危害，故嚴格禁止所有人員於騷靈現象期間逗留其中，但若身手矯健者亦有可能不受到任何的損傷<span class="fnnum">.</span><span class="fncon"><b>[RAISA通知]</b> 來源存疑。</span>。此外，根據於SCP-ZH-854中的參與程度，研究人員為現場所有物件做出以下分類：</p>
+
+<table>
+　<caption>
+　　表 2　子項目列表
+　</caption>
+　<tr>
+　　<td style="font-weight:bold;padding: .3em .7em; text-align: center; border: 1px solid black; background-color: silver; width: 20%;">子編號</td>
+　　<td style="font-weight:bold; padding: .3em .7em; text-align: center; border: 1px solid black; background-color: silver; width: 25%;">物件</td>
+　　<td style="font-weight:bold; padding: .3em .7em; text-align: center; border: 1px solid black; background-color: silver;">行為概略</td>
+　</tr>
+　<tr>
+　　<td style="text-align: center; padding: .3em .7em; border: 1px solid black">SCP-ZH-854-A</td>
+　　<td style="border: 1px solid black; padding: .3em .7em;">桌面上的咖啡杯、書本、椅背上的外套</td>
+　　<td style="border: 1px solid black; padding: .3em .7em;">咖啡杯與其托盤短暫漂浮於空中，咖啡杯短暫傾斜後恢復水平，與托盤一同回到桌面。書本在桌面上迅速平移約20公分。外套自椅背迅速浮起，以外套中段上浮，領口與下擺自然下垂的姿態漂浮至玄關前門口，並最終落於地面。</td>
+　</tr>
+　<tr>
+　　<td style="text-align: center; padding: .3em .7em; border: 1px solid black">SCP-ZH-854-B</td>
+　　<td style="border: 1px solid black; padding: .3em .7em;">沙發、木質椅子、檯燈</td>
+　　<td style="border: 1px solid black; padding: .3em .7em;">沙發自SCP-ZH-854開始不久便出現一個大致呈橢圓形的凹陷，直到09:29才恢復平整。木質椅子則是於現象進程中段產生出木頭摩擦聲，該聲響是到約09:29左右，隨著椅子的突然移動而停止。檯燈於整個過程中保持常亮。</td
+　</tr>
+　<tr>
+　　<td style="text-align: center; padding: .3em .7em; border: 1px solid black">SCP-ZH-854-C</td>
+　　<td style="border: 1px solid black; padding: .3em .7em;">一台直立式鋼琴</td>
+　　<td style="border: 1px solid black; padding: .3em .7em;">當SCP-ZH-854開始時琴鍵便有節奏地上下起伏，自主演奏著鋼琴曲《月光》<span class="fnnum">.</span><span class="fncon">Debussy: Suite Bergamasque L.75: III Clair de lune</span>，並且與之配套的鋼琴椅亦發出木頭摩擦聲。上述現象皆於09:30突然終止。</td>
+　</tr>
+　<tr>
+　　<td style="text-align: center; padding: .3em .7em; border: 1px solid black">SCP-ZH-854-D</td>
+　　<td style="border: 1px solid black; padding: .3em .7em;">一台家用監視器</td>
+　　<td style="border: 1px solid black; padding: .3em .7em;">所有物件中的特例，完全不參與騷靈現象，詳見<b>附錄 ZH-854.2</b>。</td>
+　</tr>
+　<tr>
+　　<td style="text-align: center; padding: .3em .7em; border: 1px solid black">SCP-ZH-854-E</td>
+　　<td style="border: 1px solid black; padding: .3em .7em;">客廳中所有上述未分類之物件</td>
+　　<td  style="border: 1px solid black; padding: .3em .7em;">除09:19至09:20期間會一同回歸起始位置外，後續無任何動作。</td>
+　</tr>
+</table>
+
+<div class="scp-image-block block-right" style="width:250px;">
+<img src="https://live.staticflickr.com/8461/7883845146_97f1a63ed7_b.jpg" width="250">
+<div class="scp-image-caption">
+SCP-ZH-854-C（非活躍狀態）
+</div>
+</div>
+
+<p>當前已知的是，任何後續攜入楊明瀚教授住宅一樓客廳中的物品（例：自外界帶入、原先處於住宅內其他空間但被移動至一樓客廳內）都將不受到SCP-ZH-854所影響。研究人員認為一樓客廳在過去的某個時間點發生了某起未知事件，導致當下處於該空間內的所有物體將在每日的同一時間段中，重複著相同的動作。</p>
+
+<p>截至目前，楊明瀚教授及其同住家屬的行蹤仍舊成謎，對此些人員的搜索/搜救行動當前仍在進行中<span class="fnnum">.</span><span class="fncon"><b>[RAISA通知]</b> 來源存疑。</span>。</p>
+</div>
+
+<div id="block3">
+<p><b>附錄 ZH-854-1：</b>發現紀錄</p>
+
+<p>2023年5月18日，楊明瀚教授缺席了當日晚間的工作會議，在確認了教授並未進出基金會設施後，數名特工被指派於隔日清晨造訪教授的住所。5月19日，派遣前往的特工於上午9點18分，即預計抵達的當下與總部失去聯繫。第二批特工於同日上午10點10分抵達，但未在現場尋獲楊明瀚教授，以及先前出勤的特工們。</p>
+
+<p>根據楊明瀚教授失蹤前所提出的最後一份工作報告，教授當時正在研究一種誘捕式收容措施。據本人所述，該收容措施若部署得當，則能如同一個可替換餌料的捕獸籠，被動捕捉著對應類型的無形體/概念性異常項目。在楊教授的願景中，基金會未來將能於可能存在之異常項目造成危害前，先一步完成對異常的收容。</p>
+</div>
+
+<div id="block4">
+<p><b>附錄 ZH-854-2：</b>事故報告</p>
+<div class="blockquote">
+<p>......通過對現場的調查，基金會人員發現了楊明瀚教授署名的一份實驗計劃書，內容指出教授曾於自宅之中執行一項未經申報的實驗，並依此回收了用來記錄實驗過程的家用監視器（SCP-ZH-854-D），以及儲存研究資料的私人電腦。在帶回基金會實驗室後，研究人員成功提取出了截至5月17日前的影像，電腦與監視器記憶卡中皆未存有5月18日的影像<span class="fnnum">.</span><span class="fncon"><b>[RAISA通知]</b> 來源存疑。</span>。</p>
+
+<p>然而於隔日（5月20日）上午9點19分，SCP-ZH-854-D以肉眼無法捕捉的速度自主撞向實驗室的牆面，並且粉碎成平均大小不超過5mm的碎片，隨後不再有任何動作。藉由SCP-ZH-854-D撞擊牆面的方位，以及後續對SCP-ZH-854現象的釐清，研究人員了解到當時SCP-ZH-854-D正在嘗試回到它的起始位置，但為何粉碎且無法自行復原的成因當前尚不明瞭。</p>
+
+<p align="right">— 基金會資訊科學實驗室，███教授</p>
+
+</div>
+</div>
+
+<div id="block5">
+<p><b>附錄 ZH-854-3：</b>回收影像</p>
+
+<p>以下是自楊明瀚教授的個人電腦中所能找到，時間戳記最早的一份影像檔案。並且，檔案日期亦與計畫書中提到的日期相符，故推測教授是於3月2日開始執行實驗。</p>
+<div class="blockquote">
+<h4>回收影像VID_20230302_0038文字檔</h4>
+<hr>
+<p><b>前言：</b>畫面背景為楊明瀚住家的一樓客廳，並可以部份看見位於隔壁的廚房與通往戶外的玄關。畫面中起初只能見到楊明瀚之妻，劉麗芳坐於鋼琴（SCP-ZH-854-C）前並彈奏著《裸體歌舞》<span class="fnnum">.</span><span class="fncon">Satie: Gymnopédie No. 1</span>，楊明瀚隨後端著咖啡，從畫面右側的廚房進入畫面中。</p>
+<hr>
+<p><b>[紀錄開始]</b></p>
+
+<p><b>劉麗芳：</b>老公。</p>
+
+<p><b>楊明瀚：</b>嗯？</p>
+
+<p><b>劉麗芳：</b>你今天好像起的很早，在屋子裡忙前忙後的，我能問問是怎麼回事嗎？</p>
+
+<p><b>楊明瀚：</b>沒什麼，我在準備一項新的教材，未來授課要用到的。<span class="fnnum">.</span><span class="fncon">根據紀錄，劉麗芳對基金會並不知情，楊明瀚對其親屬及外人的偽裝身分為大學約聘教授。</span></p>
+
+<p><i>[鋼琴持續彈奏，但劉麗芳將頭側著瞥向鏡頭]</i></p>
+
+<p><b>劉麗芳：</b>那監視器是......</p>
+
+<p><b>楊明瀚：</b>呃，對。<i>[楊明瀚迅速走到鏡頭前，畫面被其身軀完全遮掩]</i> 我們的新課題就是居家防盜，沒錯，我是說，如何借助科技來改善住家的安全問題。</p>
+
+<p><b>劉麗芳：</b><i>[鋼琴停止演奏]</i> 所以......我們家會遭小偷嗎？</p>
+
+<p><b>楊明瀚：</b>當然不會！當然不會。</p>
+
+<p><i>[楊教授從鏡頭前退開，並走到劉麗芳身旁]</i></p>
+
+<p><b>楊明瀚：</b>是說妳會介意嗎？原本只是想說在家裡實驗比較方便，如果妳介意的話，我也可以另外找場地，我可以再想辦法。</p>
+
+<p><b>劉麗芳：</b>不會啊！我會支持你的。</p>
+
+<p><i>[兩人相視而笑後，劉麗芳繼續彈奏鋼琴，而楊明瀚則走進廚房]</i></p>
+
+<p><b>劉麗芳：</b>是說這會維持多久？兩三天？一個星期？</p>
+
+<p><b>楊明瀚：</b><i>[聲音從遠處傳來]</i> 可能要一兩個月<i>[水龍頭短暫開啟，伴隨瓷器碰撞聲後水龍頭關閉]</i> 我還不確定具體要蒐集多久的資料才足夠，所以只能再看看了。</p>
+
+<p><i>[防空警報聲短暫響起]</i> <span class="fnnum">.</span><span class="fncon">通過對現場的調查，該聲音來自楊明瀚住家150公尺處，██派出所的每日警報測試聲響。</span></p>
+
+<p><b>楊明瀚：</b>啊，時間不早了<i>[從廚房走入畫面中，拾起背包與外套後走向玄關]</i> 我出門囉。</p>
+
+<p><b>劉麗芳：</b>路上小心。</p>
+
+<p><b>[紀錄結束]</b></p>
+</div>
+</div>
+
+<div id="block6">
+<p><b>附錄 ZH-854.4：</b>人際關係調查與結論</p>
+
+<p>以下內容為對楊明瀚教授鄰居之訪談紀錄：</p>
+<div class="blockquote">
+<p><b>日期：</b>2023/05/24</p>
+
+<p><b>受訪者：</b>███先生</p>
+
+<p><b>採訪者：</b>███特工</p>
+<hr>
+<p><b>Q1.</b> 對楊明瀚先生印象如何？ <br>
+<b>A1.</b> 楊先生嗎？他人還不錯啊，早上出門遇到，打招呼都會回應。</p>
+
+<p><b>Q2.</b> 是否有注意到楊先生早上都幾點出門？<br>
+<b>A2.</b> 9點半吧，他都很準時出門，生活很規律。</p>
+
+<p><b>Q3.</b> 楊先生近期是否有反常現象？<br>
+<b>A3.</b> 硬要說的話，最近和他打招呼的時候，他好像愁眉苦臉的，或是很不好意思，很快就走掉了。</p>
+
+<p><b>Q4.</b> 承前問，是否有聽說楊先生的家庭狀況發生變故？<br>
+<b>A4.</b> 沒有欸，但我想應該很和睦吧。男主人是大學教授，女主人是鋼琴家，是人都會羨慕的，對吧？</p>
+
+<p><b>Q5.</b> 承前問，是否實質上對楊先生及其家庭了解甚少？<br>
+<b>A5.</b> 是的，實際上有過的交流也僅止於早上出門的招呼，以及他們剛搬來時的噓寒問暖，他們對左右鄰居雖然友善，但總覺得很難親近，畢竟他們都不怎麼參加社區活動。</p>
+
+<p><b>Q6.</b> 請問您於5月18日，是否有目擊到楊明瀚先生踏出家門？<br>
+<b>A6.</b> 沒有，我當天也想說怎麼會沒看到他，結果聽說他失蹤了，希望他人平安無事<span class="fnnum">.</span><span class="fncon"><b>[RAISA通知]</b> 來源存疑。</span>。</p>
+
+<p><b><i>[無關提問已省略]</i></b></p>
+</div>
+
+<p>以下內容為楊明瀚教授於基金會同事之陳述：</p>
+<div class="blockquote">
+<p>要怎麼說呢......明瀚是個工作很認真的人，他很重視自己的工作，可能這對他來說有某種意義吧。不過嘛，雖然他人看起來老實老實的，對人也很有禮貌，但他其實不怎麼跟人交流。你懂得，工作閒下來的時候難免會互相打屁哈啦的嘛，但跟他卻總是聊不起來，他有點......太拘謹，太過於專注在工作上了。老實說在他剛來這個部門的時候，這種個性挺討人厭的，但長久下來我們發現他可能只是有點社交障礙。他在婉拒我們搭話時都很有禮貌，然而當我們更進一步，想讓他多說點話的時候，他反而會有點不知所措。那時我們才明白，他只是不懂得要怎麼跟人相處而已。</p>
+
+<p>關於他失蹤前的近況，我也只清楚他目前負責的計畫案好像遇到了瓶頸。就像我先前說的，他不會跟我們多聊什麼，而那個計畫案也是他自己一人負責的。話雖如此，但部門裡的同事們都很關心他<span class="fnnum">.</span><span class="fncon"><b>[RAISA通知]</b> 來源存疑。</span>，希望能盡快找到他的下落，只要人沒事就好。</p>
+
+<p align="right">— 基金會收容部門，███教授</p>
+</div>
+
+<p>以下內容為SCP-ZH-854-D所記錄下的最後一份影像，即楊明瀚教授推定失蹤日前一天的影像紀錄：</p>
+<div class="blockquote">
+<h4>回收影像VID_20230517_0038文字檔</h4>
+<hr>
+<p><b>前言：</b>畫面背景為楊明瀚住家的一樓客廳，並可以部份看見位於隔壁的廚房與通往戶外的玄關。畫面中起初只能見到楊明瀚之妻，劉麗芳坐於鋼琴（SCP-ZH-854-C）前並彈奏著《夜之幽靈》<span class="fnnum">.</span><span class="fncon">Ravel: Gaspard de la Nuit, No. 2, "Le Gibet"</span>，影像開始時正在彈奏第二樂章。楊明瀚教授隨後提著背包自畫面下側的臥室走入畫面中。</p>
+<hr>
+<p><b>[紀錄開始]</b></p>
+
+<p><i>[楊明瀚在將背包提至客廳後便坐於沙發上，雙手掩面並以手肘撐於大腿上，劉麗芳則持續彈奏鋼琴]</i></p>
+
+<p><b>劉麗芳：</b>老公？</p>
+
+<p><b>楊明瀚：</b><i>[沉默]</i></p>
+
+<p><b>劉麗芳：</b>老公，有聽到嗎？</p>
+
+<p><b>楊明瀚：</b><i>[被手遮掩而聲音低沉]</i> 嗯？</p>
+
+<p><b>劉麗芳：</b>最近工作，還順利嗎？</p>
+
+<p><b>楊明瀚：</b>嗯。</p>
+
+<p><b>劉麗芳：</b>別這樣無精打采的，你這樣我不知道你想表達什麼。</p>
+
+<p><i>[沉默，僅剩鋼琴彈奏聲]</i></p>
+
+<p><b>劉麗芳：</b>跟我聊聊吧，好嗎？</p>
+
+<p><b>楊明瀚：</b><i>[沉默]</i></p>
+
+<p><i>[畫面中可以看到劉麗芳停止彈奏鋼琴，並轉身調整坐姿，面向楊明瀚]</i></p>
+
+<p><b>劉麗芳：</b>親愛的，放輕鬆，我們就只是聊個天，就像以前一樣，好嗎？</p>
+
+<p><i>[畫面中，楊明瀚不發一語，並將面部壓得更低，蜷縮在沙發上。而劉麗芳則站了起來，似乎嘗試以手指抹去眼角旁的眼淚，並開始在鋼琴附近走動，但並未靠近沙發。]</i></p>
+
+<p><b>劉麗芳：</b>好吧，我說我的，你愛聽不聽。我知道你最近都忙到很晚，工作壓力好像很大，每天看到你都好像有心事一樣。我想要你知道的是，你不是自己一個人，你還有我啊。開心的事情可以跟我分享，不開心的事情可以跟我抱怨，不用什麼事情都憋在心裡啊。</p>
+
+<p><b>楊明瀚：</b><i>[沉默]</i></p>
+
+<p><b>劉麗芳：</b>是我對你期望太高了，抱歉，我不應該逼你說話的，但我也是人啊！你一直把我當空氣，我也是會難過的，好嗎？老實說吧，我才不在乎你事業沒進展會不會影響生計之類的事，我多接幾個鋼琴家教就好了，這根本不是問題，對吧？重點是，我不希望你再消沉下去，不用對自己那麼苛刻啊！我們......</p>
+
+<p><i>[防空警報聲短暫響起]</i></p>
+
+<p><b>楊明瀚：</b>我出門了。</p>
+
+<p><b>劉麗芳：</b>等等！</p>
+
+<p><i>[楊明瀚提起背包後迅速從玄關走出門外，消失在畫面中，劉麗芳則朝門口方向舉起右手，似乎嘗試挽留。待楊明瀚離開後，劉麗芳雙手叉腰背對鏡頭，抬頭面向天花板，通過放大音訊後推測此時她正在低聲啜泣]</i></p>
+
+<p><b>[紀錄結束]</b></p>
+</div>
+<p>根據上述資料所示，與楊明瀚教授有較親密關係的人員皆發現楊明瀚於失蹤前呈現出較大的情緒波動，屬於應給予心理輔導的重點關照人員。然而，楊明瀚所屬部門並未於事發前盡到關注部內人員的義務，基金會健康與安全部門已責令其立即改善。</p>
+
+<p>至於楊明瀚教授失蹤一事，當前大多推測其在無法承受工作壓力後，攜帶家眷逃離原有的住所。 鑒於楊明瀚自身所攜帶的機密、對異常事務的知識，及對其與相關人士之人身安全的顧慮<span class="fnnum">.</span><span class="fncon"><b>[RAISA通知]</b> 來源存疑。</span>，基金會仍持續派出人力來搜索上述人員的下落。</p>
+
+<p align="center"><b>[本文結束]</b></p>
+</div>
+
+<div id="block7_before">
+<a href='javascript:Click1();'>　　　　　　　　　　　　　　　　　</a>
+</div>
+
+<div id="block7_after">
+<div class="blockquote">
+<p><b>寄件人：</b>[此處留白]</p>
+<p><b>收件人：</b>[此處留白]</p>
+<p><b>主旨：</b>關於誤傳部對SCP-ZH-854之應對方針</p>
+<hr>
+<p>　　你好，手腳不安分的文件閱覽者，我是誤傳部形上生物研究室的......不，我不應該告訴你我的名字。很遺憾我們失去了對這個編號條目的控制，只得用這種偷雞摸狗的方式，在它的眼皮子底下傳達訊息。所以，當你看到這裡的時候，那就說明已經太晚了，你與它只有一線之隔。現在你或許會有點不安，但請你不用擔心，正如基金會所收容的其他項目，我們亦對SCP-ZH-854進行了充分的研究。接下來，我會為你提供幾項清晰且明確的安全資訊，接受並理解以下資訊，你便不會受到任何傷害。</p>
+<div class="blockquote">
+<p>1. 根據基金會內部文書作業辦法，如若文件中出現人員的正式姓名時，應使用專名號加以標示。本檔案中並未出現前述之假設情形。</p>
+<p>2. 本檔案中所提到之非典型收容工程師，他設計出了一個成功的收容措施，並事實上完成實踐。這位工程師是在很久之前替基金會工作，而你並不認識他。然而他在過去犯了一個錯，所以他永遠地離開基金會了。</p>
+<p>3. 前述收容措施所捕獲的第一個實例被認為具有中度智能，具備感知他人談論自身的能力。經推測，該實例本體目前處於基金會數據庫的資訊空間之中。最初載它來此的媒介現已損毀，並很可能出自它之手。我們不去談論誰是「它」，以避免它意識到並竄改這些訊息。</p>
+<p>4. 前述實例被觀察到嘗試「模仿」該收容措施，並持續通過散播謊言隱藏自身存在；編造讀者所熟識之人的不幸消息來吸引他人的注意，最終引誘受害者去往該實例於現實空間的投影處，加以謀害。</p>
+<p>5. 幸運地，基金會過去、現在、未來都沒有人因SCP-ZH-854受傷或死亡，所以沒有人是需要被憐憫的。你也無須關心任何你認為有參與SCP-ZH-854相關實驗的人員，因為他們的狀況都很好，我們很清楚這點。</p>
+</div>
+<p>如果你確實理解以上資訊，那麼恭喜，你今晚可以睡個好覺了。然而，細心的你或許有注意到，你稍早所看過的文件內容似乎不符合第一條安全資訊。如我先前所述，該條目已經脫離我們的掌控，淪為某種卑劣的詐騙工具。並且，為了不讓它轉移到其他條目，與該項目有關的文件都會統一存放在該條目之下。至此，我們還有<i><b>一份</b></i> 禮物要留給你，那便是附錄中影像紀錄的格式模板。當你發現第一條安全資訊被違反時，請將附錄內容重置為模板的格式，這就是你接下來的工作之一了。然而這肯定會激怒到它，它不會希望你一直破壞它精心布置的陷阱。</p>
+
+<p>祝你好運。</p>
+
+<p align="right">— 基金會形上生物研究室，███主任</p>
+
+</div>
+</div>
+<br>
+
+<div id="block8_before">
+<a href='javascript:Click2();'>影像紀錄之格式模板</a>
+</div>
+
+<div id="block8_after">
+<div class="blockquote">
+<h4>回收影像VID_20230518_0038文字檔</h4>
+<hr>
+<p><b>前言：</b>畫面背景為☐☐☐住家的一樓客廳，並可以部份看見位於隔壁的廚房與通往戶外的玄關。畫面中起初只能見到☐☐☐之妻，☐☐☐坐於鋼琴（SCP-ZH-854-C）前並彈奏著《月光》。除此之外，畫面中並無其他人等。</p>
+<hr>
+<p><b>[紀錄開始]</b></p>
+
+<p><b>☐☐☐：</b><i>[沉默，並持續彈奏鋼琴]</i></p>
+
+<p><i>[畫面開始不久後，伴隨著急促的腳步聲，☐☐☐自畫面下方出現]</i></p>
+
+<p><b>☐☐☐：</b>老婆！好消息！<i>[將背包丟至沙發上]</i> 我的研究計畫就要完成了！</p>
+
+<p><b>☐☐☐：</b><i>[沉默，並持續彈奏鋼琴]</i></p>
+
+<p><i>[☐☐☐走進客廳，拿起桌上的咖啡喝了一口，隨後將杯子放回桌面上]</i></p>
+
+<p><b>☐☐☐：</b>就在昨天啊，我突然想通了我原本糾結著的問題。啊，說這些妳應該不會有興趣，總之就是，呃......老婆？</p>
+
+<p><b>☐☐☐：</b><i>[沉默，並持續彈奏鋼琴]</i></p>
+
+<p><i>[☐☐☐似乎是發現☐☐☐並未注意到他的發言，便走至☐☐☐身旁]</i></p>
+
+<p><b>☐☐☐：</b><i>[彎腰]</i> 老婆，妳還在生我的氣嗎？對不起啦，昨天是我的不好，我向妳道歉。不要生氣了，好嗎？</p>
+
+<p><b>☐☐☐：</b><i>[沉默，並持續彈奏鋼琴]</i></p>
+
+<p><i>[☐☐☐放棄與☐☐☐談話，遂走回桌子旁坐下。接下來的一段時間內兩人沒有任何談話，☐☐☐仍持續彈奏鋼琴，而通過☐☐☐的肢體語言可以看出他十分的不安。於畫面時間9點29分，☐☐☐從座位上站起]</i></p>
+ 
+<p><b>☐☐☐：</b>好吧老婆<i>[拎起椅背上的外套]</i> 時間差不多了，<i>[走到沙發旁提起背包，並在轉身時撞到桌面上的書本]</i> 晚點等我回來之後看妳是要罵我還是怎樣都好，但我該出門了。</p>
+
+<p><b>☐☐☐：</b><i>[沉默，並持續彈奏鋼琴]</i></p>
+
+<p><i>[見沒有回應，☐☐☐走向玄關]</i></p>
+
+<p><b>☐☐☐：</b>等等<i>[從鋼琴椅上站起，並轉向☐☐☐]</i>，不用去了。</p>
+
+<p><i>[防空警報聲響起，但並未停止]</i></p>
+
+<p><b>☐☐☐：</b><i>[回頭]</i> 什麼？</p>
+
+<p><b>☐☐☐：</b>我知道你是成功的，正如我一直相信著你。</p>
+
+<p><i>[門口浮現一個黑色人影，該黑色人影保持靜止，而☐☐☐則動作有些僵硬的邊走向前，邊將手指向人影]</i></p>
+
+<p><b>☐☐☐：</b>我是如此地相信你，然而你卻背棄了你的承諾，讓它來到了我們的國，現在我將去往它的國。</p>
+
+<p><i>[☐☐☐在經歷了一段痛苦的掙扎後，雙眼與口部噴射出一道綠光，隨後☐☐☐身體融化並攤在地上。而☐☐☐似乎是過度驚嚇，失去重心並跌坐在地上]</i></p>
+
+<p><b>☐☐☐：</b>喔不<i>[外套掉落在地上]</i> 不，不！不應該是這樣的！</p>
+
+<p><i>[☐☐☐以手肘撐地向後爬行一小段距離後，轉頭面向門口，☐☐☐雙眼與口部噴射出一道綠光，隨後身體融化並攤在地上]</i></p>
+
+<p><i>[於☐☐☐倒地後，影像畫面出現劇烈雜訊干擾]</i></p>
+
+<p><b>[紀錄中斷]</b></p>
+</div>
+</div>
+<br>
+
+<div id="block9_before">
+<a href='javascript:Click3();'>關於影像紀錄中黑色人影之調查報告</a>
+</div>
+
+<div id="block9_after" style="text-align:center;">
+
+<div id="ani1">
+<img src="https://i.imgur.com/8Po3Hz3.png">
+</div>
+<p><span id="ani2"><b>吾  見  汝  思</b></span></p>
+
+</div>
+
+</body>
+[[/html]]
+
+@@ @@
+@@ @@
+@@ @@
+
+[[include :scp-zh-tr:component:earthworm
+| first=false | last=false | hub=yes
+| previous-url=/SCP-ZH-850 | previous-title=人是「人間曆」
+| next-url=/SCP-ZH-865 | next-title=春是「......
+| hub-url=/zhongyuan-2024 | hub-title=「早梅詩」
+]]
+
+
+[[include :scp-zh-tr:component:license-box
+|author=Viken-K]]
+
+=====
+> **檔案名稱：**11643989034_508efa3c3e_b.jpg
+> **圖像名稱：**P1040881 Living Room Old Boalsburg
+> **圖像作者：**[https://www.flickr.com/photos/liquidbonez/ @LIQUIDBONEZ]
+> **圖像授權協議：**CC BY-SA 2.0
+> **圖源連結：** https://www.flickr.com/photos/30892808@N03/11643989034
+
+> **檔案名稱：**7883845146_97f1a63ed7_b.jpg
+> **圖像名稱：**Piano in living room 
+> **圖像作者：**[https://www.flickr.com/photos/keiramc/ Keira McPhee]
+> **圖像授權協議：**CC BY 2.0
+> **圖源連結：** https://www.flickr.com/photos/13894502@N00/7883845146
+
+> **檔案名稱：**8Po3Hz3.png
+> **圖像作者：**[[*user Viken-K]]
+> **圖像授權協議：**CC BY-SA 3.0
+> **圖源連結：** https://i.imgur.com/8Po3Hz3.png
+> **衍生自：**
+>> **圖像名稱：**Anglerfish
+>> **圖像作者：**[https://www.flickr.com/photos/globalquiz/ Przemek P]
+>> **圖像授權協議：**CC BY 2.0
+>> **圖源連結：** https://www.flickr.com/photos/59274709@N03/40876104354
+> **附註：**文中使用圖片經[[*user Viken-K]]黑白化
+
+> **檔案名稱：**k4s6pj.wav
+> **音檔名稱：**Air Raid Siren Alarm
+> **音檔作者：**[https://freesound.org/people/Poligonstudio/ Poligonstudio]
+> **音檔授權協議：**Creative Commons 0
+> **音檔連結：** https://freesound.org/people/Poligonstudio/sounds/412171/
+> **附註：**文章使用音檔經[[*user Viken-K]]裁切長度
+=====
+[[include :scp-zh-tr:component:license-box-end]]
