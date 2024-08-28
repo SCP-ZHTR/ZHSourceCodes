@@ -1,6 +1,6 @@
-[[include component:scp-meta-title-hidding]]
-[[include :scp-wiki:theme:black-highlighter-theme]]
-[[include :scp-wiki:component:bhl-dark-sidebar]]
+[[include component:scp-meta-title-hiding css-style=bhl]]
+[[include theme:black-highlighter-theme]]
+[[include component:bhl-dark-sidebar]]
 [[module CSS]]
 div#header {
     background-image: url(https://scp-wiki.wdfiles.com/local--files/attilas-author-page/humble_logo.svg);

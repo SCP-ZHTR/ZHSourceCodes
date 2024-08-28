@@ -34,7 +34,7 @@ https://scp-zh-tr.wikidot.com/fragment:scp-zh-850-offset-2
 [[include :scp-zh-tr:component:earthworm
 | first=false | last=false | hub=yes
 | previous-url=/SCP-ZH-840 | previous-title=無是「妄滅」
-| next-url=/SCP-ZH-854 | next-title=見是「……
+| next-url=/SCP-ZH-854 | next-title=見是「忌日」
 | hub-url=/zhongyuan-2024 | hub-title=「早梅詩」
 ]]
 [[include :scp-zh-tr:component:earthworm

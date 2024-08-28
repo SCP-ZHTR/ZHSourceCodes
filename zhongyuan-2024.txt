@@ -345,7 +345,7 @@ text-shadow: 0 0 0.75rem rgb(var(--swatch-primary-darkest),0.75);
 |author=約翰 • 羅比遜老師
 |art= https://i.imgur.com/JWpizQa.jpeg
 |url=http://scp-zh-tr.wikidot.com/scp-zh-854
-|title=見是「XX」
+|title=見是「忌日」
 ]]
 
 [[include :scp-sandbox2-zh:draft:5325850-1o-ly074dry
@@ -462,7 +462,7 @@ SCP-ZH-715內仍有6名租約尚未到期之一般民眾。
 [[div style="border-left: darkred 0.2rem solid; padding-left: 8px; margin-top: 12px; margin-bottom: 12px; color: #white; opacity: 0.8;"]]
 須注意項目已呈現的2,​147,​483,​648種狀態當中，絕大多數在基準宇宙中不存在對應的自殺者。依照目前針對該項目的假說，對應的自殺者推斷位於另外的平行宇宙，而無法介入。
 [[/div]]
-* [[[scp-zh-854|見是「XX」]]] - 約翰 • 羅比遜老師##grey|（8/28）##
+* [[[scp-zh-854|見是「忌日」]]] - 約翰 • 羅比遜老師##grey|（8/28）##
 [[div style="border-left: darkred 0.2rem solid; padding-left: 8px; margin-top: 12px; margin-bottom: 12px; color: #white; opacity: 0.8;"]]
 幸運地，基金會過去、現在、未來都沒有人因該項目受傷或死亡，所以沒有人是需要被憐憫的。你也無須關心任何你認為有參與該項目相關實驗的人員，因為他們的狀況都很好，我們很清楚這點。
 [[/div]]
