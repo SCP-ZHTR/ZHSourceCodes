@@ -1,0 +1,232 @@
+[[include :scp-zh-tr:theme:space]]
+[[module CSS]]
+
+:root:lang(zh) {
+    --header-title: "群星之下";
+    --header-subtitle: "All is Empty";
+}
+.danger-diamond > .arrows {
+     top: 0;
+}
+[[/module]]
+
+[[include info:start]]
+**作者：**[[*user Halewen]]
+[[include info:end]]
+
+[[# toc]]
+[[tabview]]
+[[tab 我是誰]]
+我叫Hale，叫我海爾也可，一名喜歡舊時代SCP的讀者，業餘翻譯者，會翻譯只是因為有些喜歡的故事沒有翻譯。
+
+有事或覺得我的翻譯有地方可以翻得更好的話，可以到繁中Discord或是透過wikidot私訊，我的Discord暱稱是halewen，不過如果你沒有跟我有共同伺服器就來找我，我很大機率會把你當詐騙。我不會咬人的，別擔心 :)
+
+順帶一提，這個頁面主題很酷，所以我就採用了，沒什麼特別的原因。
+[[/tab]]
+[[tab 我的翻譯]]
+[[module ListPages created_by="Halewen" tags="+翻譯" separate="no"]]
+* %%title_linked%%
+[[/module]]
+[[/tab]]
+[[tab 我喜歡的文章]]
+這邊是一些我喜歡的文章，希望我能看到每篇都被翻譯的那天。注意這份清單完全由我個人主觀決定，有些文章出現在這只是因為它們對我意義重大。
+[[=]]
+[[size 1.2em]]
+++++ 待翻譯文章數量：61篇。
+[[/size]]
+[[/=]]
+EN分部：
+
+> 破曉時分：
+> 需先閱讀[[[shaggydredlocks-proposal|SCP-001 破曉時分]]]與[[[SCP-1678]]]：
+> - [[[the-sun-ever-sets-on-the-british-empire|May the sun never set on British empire]]] 願太陽永不落於大英帝國
+
+> 阿拉加達與受絞之王：
+> 需先閱讀[[[SCP-701]]]與[[[SCP-2264]]]：
+> - [[[and-so-the-crows-laughed|And so the crows laughed]]] 如是群鴉訕笑不止
+> - [[[a-wandsman-in-the-court-of-the-hanged-king|A Wandsman in the Court of the Hanged King]]] 受絞之王宮廷裡的魔杖士 [未翻譯]
+> - [[[the-clock-shall-strike-again|The Clock Shall Strike Again]]] 鐘聲將會再度響起 [未翻譯]
+> - [[[midnight-parade|Midnight Parade]]] 午夜遊行 [未翻譯]
+> 建議先理解Marshall, Carter & Dark是誰：
+> - [[[masks-monsters-merchants|Masks, Monsters, & Merchants]]] [未翻譯]
+
+> 破碎之神與欲肉教：
+> - [[[broekken-gued|Brökkën Güd]]]
+> - [[[about-the-serpent|About the serpent]]] [未翻譯]
+> - [[[of-dragons-and-serpents|CotBG Archive ██/██/20██-███: Of Dragons and Serpents]]] [未翻譯]
+> - [[[the-maker-and-the-beast|The Maker and the Beast]]] [未翻譯]
+> 建議先閱讀[[[twistedgears-kaktus-proposal|SCP-001 破碎之神]]]：
+> - [[[smoke|Smoke]]] 煙 [未翻譯]
+> 需先閱讀[[[SCP-217]]]：
+> - [[[the-mekhanozoic-era|The Mekhanozoic Era]]] [未翻譯...吧][[footnote]]標註為[未翻譯...吧]的作品表示作品由CN的作者撰寫，而翻譯的CN文本也是同個作者所製，因此不確定是否需要翻譯[[/footnote]]
+
+> 潘洛斯：
+> - [[[don-t-let-the-fire-die|(Don't) Let The Fire Die]]] [未翻譯]
+> - [[[spark-of-creation|Spark of Creation]]] 創造的火花 [未翻譯]
+> - [[[spark-of-wonder|Spark of Wonder]]] 奇蹟的火花 [未翻譯]
+
+> Dr. Wondertainment：
+> - [[[to-never-again-see-the-light-of-day|To Never Again See The Light Of Day]]] [未翻譯]
+
+> Clef與Bright博士：
+> - [[[a-canticle-for-bright|A Canticle For Bright]]] [未翻譯]
+> - [[[unfinished-business|Unfinished Business]]] 未結之事 
+> - [[[clef-excerpts|Excerpts From "How To Survive When Reality Doesn't", by Alto Clef]]] 摘錄自Alto Clef〈如何在現實不存在時求生〉
+> - [[[routine-psychological-evaluations-by-dr-glass|Routine Psychological Evaluations By Dr Glass]]] Glass博士的心理評估
+> - [[[interviews-with-prospective-groups-of-interest|Interviews with Prospective Groups of Interest]]] 潛力關注組織面試 
+> - [[[clef101|Transcript of Dr. Clef's seminar, "Reality Benders and You: How to Survive When Existence Doesn't."]]] Clef博士研討會手記，「現實扭曲者與你：當不存在的事物存在時該如何生存。」 
+
+
+> 雜類：
+> - [[[antimemetics-division-hub|Antimemetics Division Hub]]] 逆模因部中心頁
+> - [[[orientation|Orientation]]] [未翻譯][[footnote]]Max Lombardi的故事其實都挺不錯，只是這篇是我最喜歡的，有興趣的話請見[[[https://scp-wiki.wikidot.com/the-lombardi-tales|這裡，故事中心頁]]]，都是短篇，大部分未翻譯。[[/footnote]]
+> - [[[monochrome|Monochrome]]] [未翻譯]
+> - [[[document-recovered-from-the-marianas-trench|Document Recovered From The Marianas Trench]]] 從馬里亞納海溝回收的文件
+> - [[[log-of-agent-aa|Personal Log of Agent AA]]] 特工AA的個人日誌 
+> - [[[black-white-black-white-black-white-black-white-black-white|black white black white black white black white black white gray]]] 黑白黑白黑白黑白黑白灰
+> - [[[an-o5-s-sleepless-night|An O5's Sleepless Night]]] [未翻譯]
+> - [[[he-who-screws-with-reality|He Who Screws With Reality]]] [未翻譯]
+> - [[[d-class-orientation|D-Class Orientation]]] D級人員培訓
+> - [[[goc-or-that-guy-with-a-gun-fetish|GOC, or that guy with a gun fetish]]] [未翻譯]
+> 需先閱讀[[[dr-manns-proposal|SCP-001 螺旋路]]]與[[[SCP-055]]]：
+> - [[[playing-god|Playing god]]] 扮神
+> 建議先閱讀[[[SCP-073]]]與[[[dr-clef-s-proposal|SCP-001 守門者]]]：
+> - [[[remember|REMEMBER]]] 銘記
+> 需先閱讀[[[SCP-173]]]與[[[SCP-096]]]
+> - [[[consequences-and-collarbones|Consequences and Collarbones]]] [未翻譯]
+> 建議先閱讀[[[SCP-1440]]]：
+> - [[[thrice|Thrice]]] 三局
+> - [[[empty-nights|Empty Nights]]] 空虛之夜
+> 建議先閱讀[[[SCP-1915]]]與[[[SCP-1935]]]：[[footnote]]老實說應該還有一坨設定，但這兩個是主要的，剩下的只是建議先閱讀：大部分GoI、SCP-076、SCP-073、SCP-343、SCP-963、SCP-1440、SCP-2845、潘洛斯、Nobody、Et Tam Deum Petivi中心、Lombardi特工[[/footnote]]
+> - [[[the-stars-do-not-wait-for-you|The stars do not wait for you]]] 群星不會等待你
+> 需先閱讀[[[SCP-2399]]]：
+> - [[[the-last-man|The Last Man]]] 最後一人
+> 需先閱讀[[[SCP-4001]]]：
+> - [[[alexandria-burning|Alexandria Burning]]] 亞歷山大燃燒
+> 需先閱讀[[[SCP-5000]]]：
+> - [[[disgusting|Disgusting]]] 噁心
+
+> SCP：
+> - [[[project-paragon-hub|Project Paragon]]] 楷模計畫
+> - SCP-001:
+>> [[[scp-001-o5|The Factory]]] 工廠
+>> [[[dr-manns-proposal|Spiral Road]]] 螺旋路
+>> [[[twistedgears-kaktus-proposal|The Broken God]]] 破碎之神 [未翻譯]
+>> [[[shaggydredlocks-proposal|When Day Breaks]]] 破曉時分
+>> [[[tanhony-s-proposal|Dead Men]]] 死人
+>> [[[tuftos-proposal|The Scarlet King]]] 猩紅之王 [未翻譯]
+>> [[[liz-the-gm-s-proposal|A Simple Toymaker]]] 一名普通的玩具師
+>> [[[ralliston-s-proposal|The Queen's Gambit]]] [未翻譯]
+>> [[[rounderhouse-jade-proposal|MAMJUL & KORAR]]] [未翻譯]
+> - [[[SCP-093]]] Red Sea Object 紅海物件
+> - [[[SCP-435]]] He-Who-Made-Dark 創造黑暗之人 [未翻譯]
+> - [[[SCP-1281]]] The Harbinger 先驅
+> - [[[SCP-1504]]] Joe Schmo [未翻譯]
+> - [[[SCP-1548]]] The Star, the Hateful [未翻譯]
+> - [[[SCP-1730]]] What Happened to Site-13? [未翻譯]
+> - [[[SCP-1936]]] Daleport [未翻譯]
+> - [[[SCP-2095]]] The Siege of Gyaros 伊亞羅斯圍城
+> - [[[SCP-2191]]] "Dracula Factory" [未翻譯]
+> - [[[SCP-2217]]] Hammer and Anvil 鎚與砧
+> - [[[SCP-2264]]] In the Court of Alagadda 阿拉加達宮廷深處
+> - [[[SCP-2317]]] A Door to Another World 前往彼界之門
+> - [[[SCP-2348]]] --sky-- --天空--
+> - [[[SCP-2399]]] Malfunctioning Destroyer 故障的毀滅者
+> - [[[SCP-2480]]] Unfinished ritual 仍未成就之祭禮
+> - [[[SCP-2481]]] Kill the Suns 弒殺金烏
+> - [[[SCP-2521|●●|●●●●●|●●|●]]]
+> - [[[SCP-2565|艾莉森·埃卡爾特]]] - Allison Eckhart 艾莉森·埃卡爾特
+> - [[[SCP-2646]]] Water Tower [未翻譯]
+> - [[[SCP-2718]]] What Happens After 身後之事
+> - [[[SCP-2732]]] 《缢王本纪》[[footnote]]原文如此[[/footnote]] [未翻譯]
+> - [[[SCP-2847]]] Yu the Great, and the Immortal [未翻譯]
+> - [[[SCP-2998]]] Anomalous Transmission, 2485 MHz 異常傳播訊號，2485MHz
+> - [[[SCP-3043]]] Murphy Law in… Type 3043 — FOR MURDER! 莫非•勞之……代號3043──代 表 謀 殺！
+> - [[[SCP-3143]]] Murphy Law in… The Foundation Always Rings Twice! [未翻譯]
+> - [[[SCP-3280]]] After the Storm 暴風雨後
+> - [[[SCP-3288]]] The Aristocrats [未翻譯]
+> - [[[SCP-3790]]] Department of Abnormalities 反常部
+> - [[[SCP-3799]]] A Short History of Snowfall 降雪簡史
+> - [[[SCP-3844]]] To Slay A Dragon [未翻譯]
+> - [[[SCP-3890]]] Forget-Me-Not [未翻譯]
+> - [[[SCP-3935]]] This Thing a Quiet Madness Made 此處靜謐瘋狂
+> - [[[SCP-3999]]] I Am At The Center of Everything That Happens To Me 我為一切及我之事所包圍
+> - [[[SCP-4000|Taboo]]] 禁忌之地
+> - 舊版的SCP-4214，Desperate Faith [未翻譯][[footnote]]很遺憾，他消失了，不過真的想翻還是能去作者頁翻到他還是4000參賽文章的英文草稿，以及CN分部的翻譯[[/footnote]]
+> - [[[SCP-4352]]] Storytime [未翻譯]
+> - [[[SCP-4661]]] Sin City 罪惡城市
+> - [[[SCP-4833]]] The Syncope Symphony 昏厥交響曲 [未翻譯]
+> - [[[SCP-4935]]] Hereafter [未翻譯]
+> - [[[SCP-4971]]] Rituals 秘儀
+> - [[[SCP-5000]]] Why? 為什麼？
+> - [[[SCP-5001]]] Sacrosanct 神聖不可侵犯 [未翻譯]
+> - [[[SCP-5007]]] Bass Strait 巴斯海峽 [未翻譯]
+> - [[[SCP-5034]]] The Meat Angels 肉天使
+> - [[[SCP-5052]]] The Hand that Mocked Them, and the Heart that Fed 那仿傚的手與依歸的心 [未翻譯]
+> - [[[SCP-5140]]] EVEREST 珠穆朗瑪峰
+> - [[[SCP-5690]]] Professional Demonatrix 專業調教女王
+> - [[[SCP-5761]]] When The Impostor Is Sus II: Nightmare Hour When The Impostor Is Sus II: 夢魘時刻
+> - [[[SCP-5935]]] Blood and the Breaking of My Heart [未翻譯]
+> - [[[SCP-5999]]] This is Where I Died [未翻譯]
+> - [[[SCP-6001]]] Avalon [未翻譯]
+> - [[[SCP-6002]]] All Creatures Great and Small 所有大與小的生物 [未翻譯]
+> - [[[SCP-6111]]] Memoria [未翻譯]
+> - [[[SCP-6183]]] B L A C K B O X 黑 條
+> - [[[SCP-6217]]] The Emergence [未翻譯...吧]
+> - [[[SCP-6222]]] FISH PRISON [未翻譯]
+> - [[[SCP-6624]]] Il Maestro del Rancore [未翻譯]
+> - [[[SCP-6630]]][[footnote]]諷刺的是，我喜歡這篇的原因是因為我不喜歡他，我在讀的時候一直有種窒息感，但這也顯示他的文筆真的好...[[/footnote]] Fire on the Horizon 彼方遙火
+> - [[[SCP-6820]]] TERMINATION ATTEMPT 抹殺嘗試
+> - [[[SCP-7043]]] Murphy Law in… Skip 7043 - THE MONTAUK FALCON! [未翻譯]
+> - [[[SCP-7510]]] There is nothing within the walled area. 牆裡沒有任何東西。
+> - [[[SCP-7600]]] Six Feet Under [未翻譯]
+> - [[[SCP-7666]]] UNDERVEGAS ORIENTATION: The House Loses 陰間維加斯講座：莊家會輸
+> - [[[SCP-7676]]] The Grand Symphony of 1976 1976大交響曲 [未翻譯]
+> - [[[SCP-7701]]] The Conqueror Worm [未翻譯]
+> - [[[SCP-7819]]] No Vacancy 無空
+> - [[[SCP-7838]]] The Patchwork King and the Flayed-Men's Court [未翻譯]
+> - [[[SCP-7841]]] V is for violence V代表暴力
+> - [[[SCP-7900]]] A Place to Drown in [未翻譯]
+> - [[[SCP-7931]]][[footnote]]這篇單純是個人喜好他的文字運用，內文許多人應該都無法接受[[/footnote]] X is for Xenotransplantation X是「異質移植」 
+> - [[[SCP-7999]]] Meet Me in the Stars 來星星間找我
+> - [[[SCP-8209]]] Repairing the World [未翻譯]
+> - [[[SCP-8900-EX]]] Sky Blue Sky 藍天隕落
+
+JP分部：
+> 故事：
+> - [[[unnamed-file|名前の無いファイル]]] 未命名檔案
+> SCP：
+> - [[[http://scp-jp.wikidot.com/scp-062-jp|SCP-062-JP]]] 生存権 [未翻譯]
+> - [[[http://scp-jp.wikidot.com/scp-243-jp|SCP-243-JP]]] 恩人へ [未翻譯]
+> - [[[http://scp-jp.wikidot.com/scp-444-jp|SCP-444-JP]]] █████[アクセス不許可] [未翻譯]
+> - [[[http://scp-jp.wikidot.com/scp-910-jp|SCP-910-JP]]] シンボル [未翻譯]
+> - [[[SCP-999-JP]]] I am No.9 我就是第九號的人物
+
+CN分部：
+> 故事：
+> - [[[https://scp-wiki-cn.wikidot.com/wanderers:ngfz-god|泥塑土偶，自拜成王]]] (這篇是流浪者圖書館的)
+> - [[[https://scp-wiki-cn.wikidot.com/one-man-life|一生]]]
+> - [[[https://scp-wiki-cn.wikidot.com/foundation-fi|4k序曲：基金會幻時代]]]
+> - [[[https://scp-wiki-cn.wikidot.com/2521-escaped|⚠︎ ⬤⬤|⬤⬤⬤⬤⬤|⬤⬤|⬤？ ⚠︎ ]]]
+> - [[[https://scp-wiki-cn.wikidot.com/29-ways-to-summon|《家庭實用召喚儀式29例》（節選）]]]
+> SCP：
+> - [[[http://scp-wiki-cn.wikidot.com/anglia-s-proposal|SCP-CN-001]]] 龍脈
+> - [[[http://scp-wiki-cn.wikidot.com/scp-cn-048|SCP-CN-048]]] 一次失敗的嘗試
+> - [[[http://scp-wiki-cn.wikidot.com/scp-cn-492|SCP-CN-492]]] 混沌之淵
+> - [[[http://scp-wiki-cn.wikidot.com/scp-cn-612|SCP-CN-612]]] 公廁告解室
+> - [[[http://scp-wiki-cn.wikidot.com/scp-cn-1091|SCP-CN-1091]]] 黑王傳說
+> - [[[http://scp-wiki-cn.wikidot.com/scp-cn-1101|SCP-CN-1101]]] 太歲
+> - [[[http://scp-wiki-cn.wikidot.com/scp-cn-1109|SCP-CN-1109]]] 朗基努斯計畫
+> - [[[http://scp-wiki-cn.wikidot.com/scp-cn-2300|SCP-CN-2300]]] 1000
+> - [[[http://scp-wiki-cn.wikidot.com/scp-cn-2470|SCP-CN-2470]]] 解脫
+> - [[[http://scp-wiki-cn.wikidot.com/scp-cn-2982|SCP-CN-2982]]] 第三中學
+> - [[[http://scp-wiki-cn.wikidot.com/scp-cn-2999|SCP-CN-2999]]] Observator Ex Machina
+> - [[[http://scp-wiki-cn.wikidot.com/scp-cn-3096|SCP-CN-3096]]] “羞澀”的房
+> - [[[http://scp-wiki-cn.wikidot.com/scp-cn-3999|SCP-CN-3999]]] 超越天堂
+ZH分部：
+> - 待閱讀
+[[=]]
+,,[#toc 回到頁面頂部],,
+[[/=]]
+[[/tab]]
+[[/tabview]]
