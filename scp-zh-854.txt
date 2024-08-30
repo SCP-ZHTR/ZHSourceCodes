@@ -712,7 +712,7 @@ SCP-ZH-854-C（非活躍狀態）
 [[include :scp-zh-tr:component:earthworm
 | first=false | last=false | hub=yes
 | previous-url=/SCP-ZH-850 | previous-title=人是「人間曆」
-| next-url=/SCP-ZH-865 | next-title=春是「......
+| next-url=/SCP-ZH-865 | next-title=春是「雛鳥」
 | hub-url=/zhongyuan-2024 | hub-title=「早梅詩」
 ]]
 
