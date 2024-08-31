@@ -30,6 +30,7 @@
 [[/tab]]
 [[tab 我喜歡的文章]]
 這邊是一些我喜歡的文章，希望我能看到每篇都被翻譯的那天。注意這份清單完全由我個人主觀決定，有些文章出現在這只是因為它們對我意義重大。
+標註為[未翻譯...吧]的作品表示作品由CN的作者撰寫，而翻譯的CN文本也是同個作者所製，因此不確定是否需要翻譯。
 [[=]]
 [[size 1.2em]]
 ++++ 待翻譯文章數量：61篇。
@@ -58,7 +59,7 @@ EN分部：
 > 建議先閱讀[[[twistedgears-kaktus-proposal|SCP-001 破碎之神]]]：
 > - [[[smoke|Smoke]]] 煙 [未翻譯]
 > 需先閱讀[[[SCP-217]]]：
-> - [[[the-mekhanozoic-era|The Mekhanozoic Era]]] [未翻譯...吧][[footnote]]標註為[未翻譯...吧]的作品表示作品由CN的作者撰寫，而翻譯的CN文本也是同個作者所製，因此不確定是否需要翻譯[[/footnote]]
+> - [[[the-mekhanozoic-era|The Mekhanozoic Era]]] [未翻譯...吧]
 
 > 潘洛斯：
 > - [[[don-t-let-the-fire-die|(Don't) Let The Fire Die]]] [未翻譯]
