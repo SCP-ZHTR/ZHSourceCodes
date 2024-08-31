@@ -1,0 +1,30 @@
+[[include :scp-zh-tr:theme:penumbra]]
+[[module css]]
+:root:lang(zh) {
+  --header-title: "SIKACAWAN";
+  --header-subtitle: "O tafang aca kako.";
+  --lgurl: url("https://i.imgur.com/YtZjaHv.png");
+  --accentColor: #00E3E3;
+}
+[[/module]]
+
+[[include :scp-zh-tr:info:start]]
+**作者：**[[*user samscript]]
+**篇名：**西加走灣輓歌 · 上集：群島再現
+
+= 感謝 [[*user dr v valentine]] 與 [[*user lulu_lucifelle]] 審閱草稿
+[[include :scp-zh-tr:info:end]]
+
+[!--各迭代網址
+http://scp-zh-tr.wikidot.com/fragment:tafang-0（目錄頁）
+http://scp-zh-tr.wikidot.com/fragment:tafang-1（艦長室）
+http://scp-zh-tr.wikidot.com/fragment:tafang-2（臥室）
+http://scp-zh-tr.wikidot.com/fragment:tafang-3（主控室）
+http://scp-zh-tr.wikidot.com/fragment:tafang-4（後出口）
+http://scp-zh-tr.wikidot.com/fragment:tafang-5（島嶼）
+--]
+
+[[module ListPages parent="." category="fragment" limit="1" order="created_at" offset="@URL|0"]]
+
+%%content%%
+[[/module]]
