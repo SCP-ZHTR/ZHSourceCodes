@@ -10,7 +10,7 @@
 [[div style="border: solid 3px #444; background: #f2f2c2 url('https://scp-wiki.wdfiles.com/local--files/theme%3Aredtape/scp_trans.png') center center no-repeat; padding: 1.5rem; margin-bottom: 10px; color: black;text-align: center;"]]
 + 紀錄、檔案、資訊安全管理部
 
-本檔案已接受倫理委員會敏感問題辦公室的部分編輯。如需本檔案的未編輯副本，請聯絡你所在站點的RAISA專案官員。
+本檔案已接受倫理委員會敏感問題辦公室的部分編輯。如需本檔案的未編輯副本，請聯絡你所在站點的RAISA專案負責人。
 [[/div]]
 
 [[include component:image-block name=https://cdn6.picryl.com/photo/1938/05/01/new-madrid-county-missouri-the-hanging-tree-several-negroes-have-been-hanged-6a8d20-640.jpg|
