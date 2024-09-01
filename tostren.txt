@@ -327,10 +327,28 @@ SCP-3301 - 基金會
 [[module ListPages order="title" tags=" +原創 +wondertainment博士" separate="no" perPage="200" prependLine="||~ 標題||~ 評分||"]]
 || %%title_linked%% || %%rating%% || 
 [[/module]]
-[[module CountPages tags="+site-zh-44 +原創 +scp -已解明 -搞笑 -001提案"]]
-%%total%%
 
-[[/module]]。
+[[div class="content-type-description"]]
+
+[[module ListPages order="created_at desc" prependLine="[[include component:listpages-table]]" perPage="30" appendLine="[[/table]]" category="-fragment, -prime"  separate="false" tags="+2024夏季競賽 +原創 " rss="Most Recently Translated"]]
+[[row]]
+[[cell style="vertical-align: top;"]]
+%%title_linked%%
+[[/cell]]
+[[cell style="vertical-align: top; text-align: justify;"]]
+%%created_at|%Y年%m月%d日 %H:%M|agohover%%
+[[/cell]]
+[[cell style="vertical-align: top; text-align: left;"]]
+%%created_by_linked%%
+[[/cell]]
+[[cell style="vertical-align: top; text-align: justify;"]]
+%%rating%%
+[[/cell]]
+[[/row]]
+[[/module]]
+[[/div]]
+[[/div]]
+
 [[/collapsible]]
 
 [[/tab]]
