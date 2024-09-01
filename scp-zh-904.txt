@@ -2,6 +2,7 @@
 [[include theme:black-highlighter-theme]]
 [[include component:bhl-dark-sidebar]]
 [[include info:start]]
+篇名: SCP-ZH-904 - 上是「失鄉」
 作者 : [[*user vomiter]]、[[*user dr v valentine]]
 [[include info:end]]
 
