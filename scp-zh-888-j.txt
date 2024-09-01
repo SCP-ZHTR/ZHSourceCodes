@@ -5,6 +5,8 @@
 -------
 「亡走塵寰」參賽作品。
 題目卡牌為「白磷時代」，主要內容為「資本」。
+-------
+**本文內的所有文法錯誤都是有意為之，請勿擅自修改。**
 [[include info:end]]
 [[include :scp-zh-tr:theme:basalt]]
 
@@ -21,7 +23,7 @@
 
 > + [[[scp-111|Wondertainment博士的龍蝸牛™]]]限時特價中！
 
-如你們所見，項目主要表現為在資料庫的檔案內插入商業性廣告，根據內容推測，推送者應為GoI-386[[footnote]]Wondertainment博士[[/footnote]]
+如你們所見，項目主要表現為在資料庫的檔案內插入商業性廣告，根據內容推測，推送者應為GoI-386[[footnote]]Wondertainment博士[[/footn
 [[div class="blockquote"]]
 **嘿！**你剛剛發現了你自己的小小先生，一個來自Wondertainment博士的繁中特別版收藏集！
 [[collapsible show="［欲解鎖更多內容請點此購買Wondertainment博士的DLC套組™］" hide="［欲解鎖更多內容請點此購買Wondertainment博士的DLC套組™］"]]
