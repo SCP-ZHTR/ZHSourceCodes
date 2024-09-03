@@ -43,7 +43,7 @@
 |name=Semibreve
 |no-right-margin=*]]
 【航海學】
-這篇的時間點位在[[[swift|雨燕]及[[[arrowhead|矢尖]]]過後許久，算是其中一種結局的可能。
+這篇的時間點位在[[[swift|雨燕]]]及[[[arrowhead|矢尖]]]過後許久，算是其中一種結局的可能。
 [[include :scp-wiki:component:author-label-source end=--]]
 
 100天。
