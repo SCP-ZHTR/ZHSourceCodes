@@ -1,0 +1,1885 @@
+=====
+[[include component:preview
+text=故事很少只在很久很久以前發生過。
+]]
+=====
+
+[[include :scp-wiki:theme:black-highlighter-theme]]
+[[include :scp-wiki:theme:eventyr]]
+[[include :scp-wiki:component:fade-in speed=3]]
+
+[[div style="display: none;"]]
+[[include component:image-block name=http://scp-wiki.wikidot.com/local--files/eventyr-hub/LogosearchS.png|caption=.]]
+[[/div]]
+[[include info:start]]
+**原文：**[https://scp-wiki.wikidot.com/eventyr-hub Eventyr Hub]
+**作者：**[[*user Guaire]]、[[*user Waxx]]、[[*user Prismal]]、[[*user Uncle Nicolini]]、[[*user Queerious]]、[[*user Fish^12]]、[[*user sailorenoch]]、[[*user AstersQuill]]、[[*user FlyPurgatorio]]
+**譯者：**[[*user EmptyName723]]
+[[include info:end]]
+
+[[div class="introduction"]]
+故事很少只在[[span class="whoops"]]很久很久以前[[/span]]發生過。
+
+每個故事都會不斷經歷聆聽與講述的循環，並交由那些傳遞故事的人們重新塑造。前人種下的種子會在好幾世代的時間內不斷成長，而後人則將它們塑造成如今的樣子。這些點子也許比我們還要早存在，但這些故事是屬於你和我的。
+
+循環將會不斷繼續，
+但現在由我們定調。
+@@ @@
+@@ @@
+[[/div]]
+
+[[# top]]
+= [[image http://scp-wiki.wikidot.com/local--files/eventyr-hub/13%20-%20Table.png]]
+
+[[div class="toc"]]
+[[div class="bean"]]
+[[span style="white-space: nowrap"]][#synopsis 概要][[/span]]
+[[/div]]
+[[div class="sprout"]]
+[[div class="dots"]]
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[div class="toc"]]
+[[div class="bean"]]
+[[span style="white-space: nowrap"]][#branches 分支][[/span]]
+[[/div]]
+[[div class="sprout"]]
+[[div class="dots"]]
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[div class="toc"]]
+[[div class="bean"]]
+[[span style="white-space: nowrap"]][#characters 主要角色][[/span]]
+[[/div]]
+[[div class="sprout"]]
+[[div class="dots"]]
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[div class="toc"]]
+[[div class="bean"]]
+[[span style="white-space: nowrap"]][#contribute 貢獻][[/span]]
+[[/div]]
+[[div class="sprout"]]
+[[div class="dots"]]
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[div class="toc"]]
+[[div class="bean"]]
+[[span style="white-space: nowrap"]][#interpretations 詮釋][[/span]]
+[[/div]]
+[[div class="sprout"]]
+[[div class="dots"]]
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[div class="toc"]]
+[[div class="bean"]]
+[[span style="white-space: nowrap"]][#afterword 後記][[/span]]
+[[/div]]
+[[div class="sprout"]]
+[[div class="dots"]]
+[[/div]]
+[[/div]]
+[[/div]]
+
+
+
+[[div class="bigtitles"]]
+[[# synopsis]]
++ 概要
+[[/div]]
+
+[[div class="eventypewriter-left"]]
+**Eventyr**
+//丹麥文：童話、民間故事、冒險//
+
+衍生自中世紀低地德語[eventǖr(e)]，即「故事或歷史、值得紀錄的事件、風險或危險、騎士般的冒險」，以及拉丁文[adventūra]，即「將會發生的事」。
+
+[http://ipa-reader.xyz/ IPA發音：][ɛːvəntyːˀɐ]，或英語化念法[ˈɛvəntir]。
+[[/div]]
+
+[[div class="silly"]]
+Eventyr是深根在SCP維基當中最為基本的設定：那些我們共享的創意概念。這個設定能夠讓貢獻者致敬那些他們喜愛的經典SCP元素，同時加入他們自己的才華。這包含改編與再詮釋，且無論世界觀內外。
+
+故事發生在中立、官僚體制下的基金會中，這是為了將人類的因素切分開來。這個基金會冷淡但不殘酷，唯一的原因也只是他們那宛如宗教一般，對執行程序和文書工作的崇拜。在世界觀內，這些改編是基於[[span class="ruby"]]詮釋學[[span class="rt"]]hermeneutics[[/span]][[/span]]：這些異常再詮釋過程會根據故事，以及那些與其互動的人們重新塑造現實。
+[[/div]]
+
+[[div class="eventypewriter-right"]]
+**詮釋學**
+注重如何理解、詮釋宗教文本與（民間）文學的理論框架。與發現意義相關。
+
+**異常詮釋學**
+一種異常概念，能夠透過重新語境化特定概念改變基準現實。
+
+[http://ipa-reader.xyz/ IPA發音：][hɜːrməˈnjuːtɪks]。
+[[/div]]
+
+所以究竟什麼樣的作品屬於Eventyr？
+
+我們的核心是童話般的異想天開和黑暗，或是經典的文學故事，以及奇幻預言和隱喻。這些故事和刺激是重新解釋現實的方法。就如每個版本的愛麗絲都需要她的仙境，我們的角色也相同。
+
+主題上，這個設定是關於在世代間傳承的詛咒，以及從長輩們的過錯學習，希望這次能夠做得更好。角色將在冷漠且毫無關懷的世界中尋找人性，或是找回庇護與家庭。
+
+視覺在Eventyr中也非常重要。不僅僅是繪畫而已，同時也包括任何的CSS或媒體：這並非只是要讓作品看起來美觀，而是它們就是故事如何被講述的一部分。沒有任何圖片的童話故事就是會完全失去原本的味道。
+
+我們的用意是透過改編，重新回顧那些讓我們愛上這個宇宙的事物，以及它的角色和背景。我們將會重新講述過去的作者人設、關注組織、重大事件等等。從Cornwall事件、1976年班，到Iris和格魯烏-P，再到充滿異術的藝廊和每個版本的黑皇后，各種各樣的創作將會出現。
+
+
+
+[[div class="bigtitles"]]
+[[# branches]]
++ 分支
+[[/div]]
+
+[[div class="tree"]]
+
+[[div class="top"]]
+@@ @@
+SCP-8166
+
+[[[SCP-8166|EASTWARD OF EDEN]]]
+[[/div]]
+
+[[div class="trunk"]]
+[[/div]]
+
+[[div class="seriesmeri"]]
+[[image http://scp-wiki.wikidot.com/local--files/eventyr-hub/8%20-%20Meritree.png]]
+
+[[div style="margin-top:-4vw;padding-left:1em;padding-right:1em;"]]
+@@ @@
+**真菌與荊棘的加冕典禮**
+由[[*user AstersQuill]]創作
+
+一篇美女與野獸般的童話故事。講述伊甸園最後一位女孩的旅途，以及她對自由和樂園的追求，卻被持續接近的黑影不斷侵擾。
+
+[http://scp-zh-tr.wikidot.com/it-s-hard-to-be-a-kid-in-containment| it's hard being a kid in containment]
+⇊
+[http://scp-zh-tr.wikidot.com/hoovesandantlers| Of Hooves and Antlers]
+⇊
+[∝] //即將到來⋯⋯//
+⇊
+[http://scp-zh-tr.wikidot.com/nightnotomorrow| A Night With No Tomorrow]
+[[/div]]
+[[/div]]
+
+[[div class="serieshana"]]
+[[image http://scp-wiki.wikidot.com/local--files/eventyr-hub/6%20-%20Hanatree.png]]
+
+[[div style="margin-top:-1.5vw;padding-left:1em;padding-right:1em;"]]
+@@ @@
+**你的人生跑馬燈**
+由[[*user AstersQuill]]創作
+
+快來看！快來看！在黃昏之星警惕的監視下，我們的女主角將會面對她骯髒的過去、超自然的現在，以及蜿蜒的未來。都在這篇故事裡！
+
+[http://scp-zh-tr.wikidot.com/scp-6317| SCP-6317]
+⇊
+[http://scp-zh-tr.wikidot.com/scars-of-kodachrome| Scars of Kodachrome]
+⇊
+[http://scp-zh-tr.wikidot.com/scp-6342| SCP-6342]
+⇊
+[∝] //即將到來⋯⋯//
+⇊
+[http://scp-zh-tr.wikidot.com/nevertellneverhear Never to Tell, Never to Hear]
+[[/div]]
+[[/div]]
+
+[[div class="seriesstrel"]]
+[[image http://scp-wiki.wikidot.com/local--files/eventyr-hub/10%20-%20Waxtree.png]]
+
+[[div style="margin-top:-2vw;padding-left:1em;padding-right:1em;"]]
+@@ @@
+**由蠟做成的男人**
+由[[*user Flypurgatorio]]和[[*user Waxx]]創作
+很久以前曾經有一位男人，他戴上了好多副面具，讓他的臉變成了面具的形狀。但當你發現了雙重交易的現場時，你可能讓自己成為了下一個笨蛋。
+
+對抗著（異常）冷戰，且極為精彩的一場代理戰爭。當骨牌開始一個一個倒下時，你會在哪裡下最後的賭注？
+
+[http://scp-zh-tr.wikidot.com/tinkertailorsoldierjailor| Tinker Tailor Soldier Jailor]
+⇊
+[∝] //即將到來⋯⋯//
+
+[[/div]]
+[[/div]]
+
+[[div class="seriesclef"]]
+[[image http://scp-wiki.wikidot.com/local--files/eventyr-hub/4%20-%20Cleftree.png]]
+
+[[div style="margin-top:-4vw;padding-left:1em;padding-right:1em;"]]
+@@ @@
+**你的名字的頌歌**
+由[[*user Flypurgatorio]]創作
+在曲調被改為用中音譜唱之前，旁邊還正在演奏其他旋律。
+
+這個系列講述全球超自然聯盟的舊案件與外勤任務，以及讓Eli Singh準備好叛逃的過往事件。
+
+[∝] //即將到來⋯⋯//
+⇊
+[http://scp-zh-tr.wikidot.com/scp-8166 SCP-8166]
+
+[[/div]]
+[[/div]]
+
+[[div class="seriesbarbecue"]]
+[[image http://scp-wiki.wikidot.com/local--files/eventyr-hub/BBQ.png]]
+
+[[div style="margin-top:-4vw;padding-left:1em;padding-right:1em;"]]
+@@ @@
+**Chao's Theory**
+由[[*user prismal]]創作
+
+[[span class="ruby"]]混沌理論[[span class="rt"]]Chaos theory[[/span]][[/span]]稱在混沌且複雜的系統之中，各種顯然隨機的事件之間有著潛藏的規律、關聯、循環、重複、秩序。
+
+[[span class="ruby"]]Chao的理論[[span class="rt"]]Chao's theory[[/span]][[/span]]稱她會打破那些該死的循環。
+
+[∝] //即將到來⋯⋯//
+⇊
+[http://scp-zh-tr.wikidot.com/shattered-love| Shattered Love]
+⇊
+[∝] //即將到來⋯⋯//
+[[/div]]
+[[/div]]
+
+[[div class="seriestilda"]]
+[[image http://scp-wiki.wikidot.com/local--files/eventyr-hub/9%20-%20Moosetree.png]]
+
+[[div style="margin-top:-1.5vw;padding-left:1em;padding-right:1em;"]]
+@@ @@
+**消失的戲劇**
+由[[*user prismal]]創作
+
+走過路過，千萬不要錯過！來看他們當中最聰明的騙子！
+蛇中之蛇、蔑視禁忌、圖書館喪失的左右手
+是[[span class="ruby"]]驚奇的Moose[[span class="rt"]]Moose the Magnificent[[/span]][[/span]]！
+他們的下一個表演，可是//真正的//精彩絕倫。
+
+[http://scp-zh-tr.wikidot.com/secrets-and-their-keepers| Secrets and their Keepers]
+⇊
+[∝] //即將到來⋯⋯//
+
+[[/div]]
+[[/div]]
+
+[[div class="seriessudo"]]
+[[image http://scp-wiki.wikidot.com/local--files/eventyr-hub/12%20-%20Pseudotree.png]]
+
+[[div style="margin-top:-2vw;padding-left:1em;padding-right:1em;"]]
+@@ @@
+**謝幕**
+由[[*user queerious]]創作
+
+如果世界是舞台且我們都是演員的話，當這場戲結束，在你最後一次鞠躬之後，究竟會發生什麼事？甚至，如果這齣戲劇一開始就不屬於你呢？由偽創世紀製片公司為您呈現。
+
+[http://scp-zh-tr.wikidot.com/scp-8478| Sense: A Pseudogenesis Production]
+⇊
+[http://scp-zh-tr.wikidot.com/scp-8740| The Secret Project: A Pseudogenesis Production]
+⇊
+[http://scp-zh-tr.wikidot.com/scp-7238| The Critic]
+⇊
+[∝] //即將到來⋯⋯//
+[[/div]]
+[[/div]]
+
+[[div class="serieseventyr"]]
+[[image http://scp-wiki.wikidot.com/local--files/eventyr-hub/11%20-%20Eventree.png]]
+
+[[div style="margin-top:-2vw;padding-left:1em;padding-right:1em;"]]
+@@ @@
+**吟遊詩人和俄羅斯人Horatio**
+由[[*user Flypurgatorio]]和[[*user sailorenoch]]創作
+為了Site-19主任Dmitri A. Strelnikov，由該站的劇院公司所寫出並表演的一系列戲劇。
+
+[∝] //即將到來⋯⋯//
+⇊
+[http://scp-zh-tr.wikidot.com/dragandrabbits| Draven & Dmitri Hit the Stage]
+⇊
+[∝] //即將到來⋯⋯//
+
+[[/div]]
+[[/div]]
+[[div class="roots"]]
+[[/div]]
+[[div class="evertales" style="margin-top:-45px"]]
+@@ @@
+
+++ **Eventales**
+
+來自文學科學部門，或與詮釋學和其他單一實體相關的檔案。這些是Eventyr宇宙的獨立故事和補充閱讀。
+
+[≣] [http://scp-zh-tr.wikidot.com/scp-4982| SCP-4982 ⁠— Heavy lies the crown.]
+
+[≣] [http://scp-zh-tr.wikidot.com/scp-7462| SCP-7462 ⁠— And every night, Alagadda drags you back.]
+
+[≣] [http://scp-zh-tr.wikidot.com/scp-5726| SCP-5726 ⁠— Sparkling Magical Girl ♥ Darling Pink!!]
+
+[≣] [http://scp-zh-tr.wikidot.com/scp-1841| SCP-1841 ⁠— Oh The Places You'll Go]
+
+[≣] [http://scp-zh-tr.wikidot.com/scp-6361| SCP-6361 ⁠— Meat the Director: The Disney Golden Age as Imagined by a Psychotic Meat Witch]
+
+
+[∿] [http://scp-zh-tr.wikidot.com/art:shattered-love-s-artwork| Art — Shattered Love]
+
+[∿] [http://scp-zh-tr.wikidot.com/art:fever-dream-the-clefnikov-experience-art| Art — Fever Dream: Clefnikov Experience]
+
+[∿] [http://scp-zh-tr.wikidot.com/art:anwnt-eventyr-tale-art-tonight-or-never| Art — ANWNT Tonight Or Never]
+
+[‡] [http://scp-zh-tr.wikidot.com/why-scp-173-shits| SCP-173 — An Anartistic Analysis of the Industrial-Biological-Sculptural Contradiction]
+
+[¶] [http://scp-zh-tr.wikidot.com/the-clefnikov-experience| The Clefnikov Experience™]
+
+[¶] [http://scp-zh-tr.wikidot.com/ponyposting| Ponyposting is Now Banned at Site-19]
+
+[¶] [http://scp-zh-tr.wikidot.com/altoid-clef| Lecture notes of Dr. Clef's workshop, "Real Life and You: How to Survive when Barely Functional."]
+
+[‡] [http://scp-zh-tr.wikidot.com/parker-informational-breach| Magic Circle Hijacking]
+
+[¶] [http://scp-zh-tr.wikidot.com/merry-christmas-jude-kriyot| Merry Christmas, Jude Kriyot]
+
+[¶] [http://scp-zh-tr.wikidot.com/before-the-storm| Before the Storm]
+
+[¶] [http://scp-zh-tr.wikidot.com/because-of-the-shame| Because of the Shame]
+
+[¶] [http://scp-zh-tr.wikidot.com/the-legend-of-the-iron-goat| The Legend of The Iron Goat]
+
+[¶] [http://scp-zh-tr.wikidot.com/the-bears| The Bears]
+
+[¶] [http://scp-zh-tr.wikidot.com/the-clef-catfish-kon| The Clef Catfish Condraki]
+
+[[div class="eventypewriter-legend"]]
+
+[≣] SCP主清單
+[¶] 故事
+[∿] 藝術
+[‡] 特殊格式（心得、GOI）
+[∝] 尚未完成
+
+[[/div]]
+
+[[/div]]
+[[/div]]
+
+@@ @@
+
+[[div class="tableau"]]
+近期文章
+[[/div]]
+[[module ListPages separate="no" limit="5" tags="+eventyr" order="created_at desc" category="*"]]
+[[table]]
+[[row]]
+[[cell style="height:5px;background:linear-gradient(to right, tan 3%, white 3%, white 4%, tan 4%, tan 14%, white 14%, white 15%, tan 15%, tan 30%, white 30%, white 31%, tan 31%, tan 51%, white 51%, white 52%, tan 52%, tan 100%)" colspan="2"]]
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell style="font-size:20px;font-family:'cutive';"]]
+%%title_linked%%
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+%%created_by_linked%%
+[[/cell]]
+[[cell style="text-align: right;"]]
+%%size%% characters
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell style="border-bottom:1px dashed tan;"]]
+%%created_at%% posted
+[[/cell]]
+[[cell style="border-bottom:1px dashed tan;text-align: right;"]]
+%%comments%% comments
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell colspan="2" style="padding:1em;"]]
+**評估：**%%revisions%%分中得到了%%rating_votes%%%%comments%%分，共有%%commented_by_id%%人打分。非常優秀。
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell colspan="2" style="padding:1em;text-align: right;word-spacing:4px;"]]
+[[span style="background:#f2f2f2;border-radius:3px;padding-left:5px;padding-right:5px;"]]%%tags%%[[/span]]
+[[/cell]]
+[[/row]]
+[[/table]]
+[[/module]]
+
+[[div class="bigtitles"]]
+[[# characters]]
++ 主要角色
+[[/div]]
+
+@@ @@
+
+[[div class="wrapper"]]
+
+[[div class="box box1"]]
+[[div class="portrait clef"]]
+[[/div]]
+[[/div]]
+
+[[div class="box box2"]]
+[[div class="portrait meri"]]
+[[/div]]
+[[/div]]
+
+[[div class="box box3"]]
+[[div class="portrait luca"]]
+[[/div]]
+[[/div]]
+
+[[div class="box box4"]]
+[[div class="portrait hana"]]
+[[/div]]
+[[/div]]
+
+[[div class="box box5"]]
+[[div class="bio bio1"]]
+
+[[div class="quoty"]]
+「這一切都是選擇。我只是在確保他們不會做出錯誤的選擇。」
+[[/div]]
+[[=]]
+++ **Alto Clef**
+
+//也稱為烏克麗麗特工，或是Eli Singh。來自GOC的叛逃者、現實操控者應對專家、英印混血利物浦人，同時也是高層的燙手山芋。意外地不是Site-19內最糟糕的父親。//
+[[/=]]
+
+[[div class="fancy"]]
+[[div class="foncy"]]
+[≣] [http://scp-zh-tr.wikidot.com/scp-8166| SCP-8166] — [[*user AstersQuill]]、[[*user FlyPurgatorio]]和[[*user sailorenoch]]
+[¶] [http://scp-zh-tr.wikidot.com/tinkertailorsoldierjailor| Tinker Tailor Soldier Jailor] — [[*user FlyPurgatorio]]和[[*user sailorenoch]]
+[¶] [http://scp-zh-tr.wikidot.com/ponyposting| Ponyposting is Now Banned at Site-19] — [[*user AstersQuill]]、[[*user FlyPurgatorio]]和[[*user sailorenoch]]
+[¶] [http://scp-zh-tr.wikidot.com/the-clefnikov-experience| The Clefnikov Experience™] — [[*user Fish^12]]
+[¶] [http://scp-zh-tr.wikidot.com/the-clef-catfish-kon| The Clef Catfish Condraki]
+[[/div]]
+[[/div]]
+
+[[/div]]
+
+[[div class="bio bio2"]]
+
+[[div class="quoty"]]
+不完全是人類，也不完全是動物，但是你，Meri Clef，是個人。
+[[/div]]
+[[=]]
+++ **Meri Clef**
+
+//SCP-8166-2，現實操控者，同時也是異常植物學領域的初級研究員。她是獨自在自己的島嶼上安靜等待的公主，許願著自由的到來。//
+[[/=]]
+
+[[div class="fancy"]]
+[[div class="foncy"]]
+[¶] [http://scp-zh-tr.wikidot.com/it-s-hard-to-be-a-kid-in-containment| it's hard being a kid in containment] — [[*user AstersQuill]]
+[¶] [http://scp-zh-tr.wikidot.com/hoovesandantlers| Of Hooves and Antlers] — [[*user AstersQuill]]
+[≣] [http://scp-zh-tr.wikidot.com/scp-8166| SCP-8166] — [[*user AstersQuill]]、[[*user FlyPurgatorio]]和[[*user sailorenoch]]
+[¶] [http://scp-zh-tr.wikidot.com/nightnotomorrow| A Night With No Tomorrow] — [[*user AstersQuill]]
+[[/div]]
+[[/div]]
+
+[[/div]]
+
+[[div class="bio bio3"]]
+
+[[div class="quoty"]]
+「收容最好的方式就是取回敘述權。」
+[[/div]]
+[[=]]
+++ **Luca Armaros**
+
+//活著的潛台詞和Site-19的文學科學專家，抵達了知識之門的「神聖」詮釋學獵人。Luca是少數真的會閱讀虛構作品的研究員之一。他是Meri的叔叔，也是她唯一理智正常的男性監護人。他在自己的電腦螢幕上貼了寫有「整理是愛的表現」的便條紙。//
+[[/=]]
+
+[[div class="fancy"]]
+[[div class="foncy"]]
+[≣] [http://scp-zh-tr.wikidot.com/scp-8166| SCP-8166] — [[*user AstersQuill]]、[[*user FlyPurgatorio]]和[[*user sailorenoch]]
+[‡] [http://scp-zh-tr.wikidot.com/parker-informational-breach| Magic Circle Hijacking] — [[*user queerious]]
+[¶] [http://scp-zh-tr.wikidot.com/the-legend-of-the-iron-goat| The Legend of The Iron Goat] — [[*user Queerious]]
+[[/div]]
+[[/div]]
+
+[[/div]]
+
+[[div class="bio bio4"]]
+
+[[div class="quoty"]]
+舞會女王放下了她的皇冠和鞋子，並站到了毀滅前方。
+[[/div]]
+[[=]]
+++ **Hana "Iris" Thompson**
+
+//SCP-6317，基金會外勤特工，也是Site-19過度積極又充滿未來的記者。//
+[[/=]]
+
+[[div class="fancy"]]
+[[div class="foncy"]]
+[≣] [http://scp-zh-tr.wikidot.com/scp-6317| SCP-6317] — [[*user AstersQuill]]
+[¶] [http://scp-zh-tr.wikidot.com/scars-of-kodachrome| Scars of Kodachrome] — [[*user AstersQuill]]
+[≣] [http://scp-zh-tr.wikidot.com/scp-6342| SCP-6342] — [[*user AstersQuill]]
+[¶] [http://scp-zh-tr.wikidot.com/nightnotomorrow| A Night With No Tomorrow] — [[*user AstersQuill]]
+[[/div]]
+[[/div]]
+
+[[/div]]
+
+[[/div]]
+[[/div]]
+
+@@ @@
+
+[[div class="wrapper"]]
+
+[[div class="box box1"]]
+[[div class="portrait crow"]]
+[[/div]]
+[[/div]]
+
+[[div class="box box2"]]
+[[div class="portrait strel"]]
+[[/div]]
+[[/div]]
+
+[[div class="box box3"]]
+[[div class="portrait draven"]]
+[[/div]]
+[[/div]]
+
+[[div class="box box4"]]
+[[div class="portrait kondraki"]]
+[[/div]]
+[[/div]]
+
+[[div class="box box5"]]
+[[div class="bio bio1"]]
+
+[[div class="quoty"]]
+「『特殊專案』裡面有什麼？喔天啊，我很高興你這麼問。」
+[[/div]]
+[[=]]
+++ **Kain Crow**
+
+//從前，一位上流的伊頓公學男孩陷入了麻煩。如今，他訴諸P.A.T.H.O.S.──既是一種修辭技巧，也是讓他能夠啟動那些特殊專案的機械輔具。並且，你真的能看著那雙小狗眼睛說不嗎？//
+[[/=]]
+
+[[div class="fancy"]]
+[[div class="foncy"]]
+[¶] [http://scp-zh-tr.wikidot.com/tinkertailorsoldierjailor| Tinker Tailor Soldier Jailor] — [[*user FlyPurgatorio]]和[[*user sailorenoch]]
+[∝] //即將到來⋯⋯//
+
+[[/div]]
+[[/div]]
+
+[[/div]]
+
+[[div class="bio bio2"]]
+
+[[div class="quoty"]]
+「沒有規則，就沒有作弊可言。」
+[[/div]]
+[[=]]
+++ **Dmitri Arkadeyevich Strelnikov**
+
+//Site-19的維安守衛和戲劇宅宅。整個世界都是舞台，而小小的士兵不過是演員罷了。這位特工擁有過兩種以上的身分，並經歷了相對應的大量故事。前格魯烏-P特工，也許還有更多秘密。//
+[[/=]]
+
+[[div class="fancy"]]
+[[div class="foncy"]]
+[¶]  [http://scp-zh-tr.wikidot.com/tinkertailorsoldierjailor| Tinker Tailor Soldier Jailor] — [[*user FlyPurgatorio]]和[[*user sailorenoch]]
+[¶]  [http://scp-zh-tr.wikidot.com/dragandrabbits| Draven & Dmitri Hit the Stage] — [[*user FlyPurgatorio]]、[[*user sailorenoch]]和[[*user Waxx]]
+[¶] [http://scp-zh-tr.wikidot.com/the-clefnikov-experience| The Clefnikov Experience™] — [[*user Fish^12]]
+[∿] [http://scp-zh-tr.wikidot.com/art:fever-dream-the-clefnikov-experience-art| Art — Fever Dream: Clefnikov Experience] — [[*user ashiningmoon]]
+[[/div]]
+[[/div]]
+
+[[/div]]
+
+[[div class="bio bio3"]]
+
+[[div class="quoty"]]
+如果你懼怕墜落，你就無法飛翔。但一旦你放開了手，你就會發現那些願意接住你的人。
+[[/div]]
+[[=]]
+++ **Draven Pacoatl Rodríguez Kondraki**
+
+//戲劇兒童和機動特遣隊特工，兩者都是由Strelnikov訓練出來的。充滿活力且溫柔。父母離婚，而他與Kondraki那半邊的關係不怎麼圓滿。他在槍套旁邊掛著自己的電子雞。//
+[[/=]]
+
+[[div class="fancy"]]
+[[div class="foncy"]]
+[¶] [http://scp-zh-tr.wikidot.com/dragandrabbits| Draven & Dmitri Hit the Stage] — [[*user FlyPurgatorio]]、[[*user sailorenoch]]和[[*user Waxx]]
+[∝] //即將到來⋯⋯//
+[[/div]]
+[[/div]]
+
+[[/div]]
+
+[[div class="bio bio4"]]
+
+[[div class="quoty"]]
+████ ██ ███████ ████  █████  ██  █████████ █████，██████████。
+[[/div]]
+[[=]]
+++ **Benjamin Kondraki**
+
+//前外勤研究員，後來變成了離過婚的站點研究員。本職是鱗翅目學者和生物學家，興趣則是攝影愛好者。周圍圍繞著粗暴且變幻無常的一群鳳蝶，它們聚在一起的樣子總是比他還要巨大。他在能夠陪伴孩子的時候還算是個好父親。//
+[[/=]]
+
+[[div class="fancy"]]
+[[div class="foncy"]]
+[¶] [http://scp-zh-tr.wikidot.com/altoid-clef| Altoid Clef] — [[*user FlyPurgatorio]]、[[*user Prismal]]和[[*user Uncle nicolini]]
+[¶] [http://scp-zh-tr.wikidot.com/tinkertailorsoldierjailor| Tinker Tailor Soldier Jailor] — [[*user FlyPurgatorio]]和[[*user sailorenoch]]
+[¶] [http://scp-zh-tr.wikidot.com/scars-of-kodachrome| Scars of Kodachrome] — [[*user AstersQuill]]
+[¶] [http://scp-zh-tr.wikidot.com/the-clef-catfish-kon| The Clef Catfish Condraki]
+[[/div]]
+[[/div]]
+
+[[/div]]
+
+[[/div]]
+[[/div]]
+
+@@ @@
+
+[[div class="wrapper"]]
+
+[[div class="box box1"]]
+[[div class="portrait rights"]]
+[[/div]]
+[[/div]]
+
+[[div class="box box2"]]
+[[div class="portrait glass"]]
+[[/div]]
+[[/div]]
+
+[[div class="box box3"]]
+[[div class="portrait jay"]]
+[[/div]]
+[[/div]]
+
+[[div class="box box4"]]
+[[div class="portrait light"]]
+[[/div]]
+[[/div]]
+
+[[div class="box box5"]]
+[[div class="bio bio1"]]
+
+[[div class="quoty"]]
+「在充滿學者的世界中，你反而無法錯過藝術，你不這麼覺得嗎？」
+[[/div]]
+[[=]]
+++ **Agatha Rights**
+
+//Site-19的異常藝術專家。喜愛玩偶的歌德Godiva。對她來說，只要用心去看，任何事物都是藝術。//
+[[/=]]
+
+[[div class="fancy"]]
+[[div class="foncy"]]
+[¶] [http://scp-zh-tr.wikidot.com/tinkertailorsoldierjailor| Tinker Tailor Soldier Jailor] — [[*user FlyPurgatorio]]和[[*user sailorenoch]]
+[‡] [http://scp-zh-tr.wikidot.com/why-scp-173-shits| SCP-173 — An Anartistic Analysis of the Industrial-Biological-Sculptural Contradiction] — [[*user queerious]]
+[[/div]]
+[[/div]]
+
+[[/div]]
+
+[[div class="bio bio2"]]
+
+[[div class="quoty"]]
+「我們也許有辦法幫你讓那場夢成真。」
+[[/div]]
+[[=]]
+++ **Simon Glass**
+
+//Site-19--存活最久--的心理學領導。Glass用同理心和智慧補足了自己缺失的經驗。為了追逐自己成為外勤特工的夢想，他離開了過往的人生和家人，而當那夢想變成了一場惡夢時，他發現自己坐上了空置的心理治療師職位，就這麼持續至今。//
+[[/=]]
+
+[[div class="fancy"]]
+[[div class="foncy"]]
+[≣] [http://scp-zh-tr.wikidot.com/scp-6342| SCP-6342] — [[*user AstersQuill]]
+[∝] //即將到來⋯⋯//
+[[/div]]
+[[/div]]
+
+[[/div]]
+
+[[div class="bio bio3"]]
+
+[[div class="quoty"]]
+「說話讓我來就好。」
+[[/div]]
+[[=]]
+++ **Justine "Jay" Everwood**
+
+//Jay Everwood是一位充滿榮耀的外交官。--她--他主導著關注組織的研究，並能有效地與基金會之外的異常世界溝通。他在一場出錯的外交場合中失去了右手臂，因此偶爾可以看到他穿戴著機械義肢，但他並不喜歡。很害怕最後會孤身一人。//
+[[/=]]
+
+[[div class="fancy"]]
+[[div class="foncy"]]
+[¶] [http://scp-zh-tr.wikidot.com/before-the-storm| Before the Storm]
+[∝] //即將到來⋯⋯//
+[[/div]]
+[[/div]]
+
+[[/div]]
+
+[[div class="bio bio4"]]
+
+[[div class="quoty"]]
+「這是在求救嗎？」
+[[/div]]
+[[=]]
+++ **Sophia Light**
+
+//Site-19的--保母--主任和神學家。過勞、務實，優秀卻沒有人賞識。有著人上人一般的耐心，但不會擺出高人一等的態度。當有人說「應該要有人來處理這個」的時候，他們指的其實就是Light。//
+[[/=]]
+
+[[div class="fancy"]]
+[[div class="foncy"]]
+[¶] [http://scp-zh-tr.wikidot.com/ponyposting| Ponyposting is Now Banned] — [[*user AstersQuill]]、[[*user FlyPurgatorio]]和[[*user sailorenoch]]
+[¶] [http://scp-zh-tr.wikidot.com/hoovesandantlers| Of Hooves and Antlers] — [[*user AstersQuill]]
+[[/div]]
+[[/div]]
+
+[[/div]]
+
+[[/div]]
+[[/div]]
+
+@@ @@
+
+
+
+[[div class="bigtitles"]]
+[[# contribute]]
++ 貢獻
+[[/div]]
+
+**教學指導**
+
+儘管Eventyr這個設定內含多個（封閉的）系列，而非世界線本身，我們仍然歡迎感興趣的人們做出貢獻。我們只希望未來的作者們可以先向[[*user FlyPurgatorio]]或[[*user AstersQuill]]的其中一位展示點子，以確保它不會與已經計畫好的其他設定／故事互相衝突。
+
+根本上，Eventyr是各種舊SCP、故事、作者人設和點子的各種改編。如果你想要創作特定的角色，務必要向寫那位角色寫最多的作者詢問（例如：Iris和Meri是Aster、Clef和Strelnikov是Fly、黑皇后是Prismal⋯⋯等等）。Aster和Fly可以幫你指出正確的作者！我們也有充滿更多細節的角色介紹，但我們還不會把它放到中心頁上劇透。如果你還沒看到某個角色，歡迎詢問是否有任何計畫包含該角色，只要不是詢問Bright就好（他並不存在於此設定）。
+
+我們也希望所有想加入的作者先閱讀[http://scp-zh-tr.wikidot.com/scp-8166 SCP-8166]，再來向FlyPurgatorio或AstersQuill詢問點子或看稿。那篇作品宛如此設定的創世紀，我們有好幾個人也將那篇作品視為未來文章的根基。
+
+你可以在Eventyr作品中使用[https://scp-wiki.wikidot.com/theme:eventyr Eventyr主題]和它的各種div！
+
+如果還有任何問題，歡迎在Discord上聯絡AstersQuill或FlyPurgatorio。我們也會出沒在19cord，所以如果你看到我們在聊天室，向我們招手就對了。如果你沒有Discord，你可以在Wikidot上發送個人訊息，但回信可能會需要稍微久一點的時間。
+
+**想要繪畫？**
+
+我們非常歡迎，而且如果你想要的話，我們還有可能將其加入中心頁！請確保它符合SCP授權（CC BY-S.A.，即不得描圖或大幅參考有版權的圖片）並讓我們知道！
+
+
+
+[[div class="bigtitles"]]
+[[# interpretations]]
++ 詮釋
+[[/div]]
+
+當然，循環在Eventyr以外也在繼續。有許多人用美術更進一步地詮釋了我們的世界，而我們喜愛展現他們的作品！若你想將作品放到中心頁上，務必聯絡我們的專門繪師[[*user sailorenoch]]獲得許可。
+
+我們也會列出其他與Eventyr相容，或是作品有交互的世界線或系列分支。
+
+[[div class="glasscase"]]
+
+[[div class="glassyeye"]]
+[[a href="https://imgur.com/ld8mb90.png"]]
+[[image http://scp-wiki.wikidot.com/local--files/eventyr-hub/10%20-%20AwH3ghG.png]]
+[[div class="allfolks"]]
+[https://butterflycommission.carrd.co @butterfly213]
+[[/div]]
+[[/a]]
+[[/div]]
+
+[[div class="glassyeye"]]
+[[a href="https://imgur.com/jaKN4Su.png"]]
+[[image http://scp-wiki.wikidot.com/local--files/eventyr-hub/2%20-%20xFRBMbA.png]]
+[[div class="allfolks"]]
+[https://www.tumblr.com/aronaax @aronaax]
+[[/div]]
+[[/a]]
+[[/div]]
+
+[[div class="glassyeye"]]
+[[a href="https://imgur.com/WPdSWkV.png"]]
+[[image http://scp-wiki.wikidot.com/local--files/eventyr-hub/6%20-%20Z1HH8Go.png]]
+[[div class="allfolks"]]
+[https://www.wikidot.com/user:info/rurascarlet @RuraScarlet]
+[[/div]]
+[[/a]]
+[[/div]]
+
+[[div class="glassyeye"]]
+[[a href="https://imgur.com/xtjwIKU.png"]]
+[[image http://scp-wiki.wikidot.com/local--files/eventyr-hub/12%20-%20UJlsQBs.png]]
+[[div class="allfolks"]]
+[https://butterflycommission.carrd.co @butterfly213]
+[[/div]]
+[[/a]]
+[[/div]]
+
+[[div class="glassyeye"]]
+[[a href="https://imgur.com/V4yNjbg.png"]]
+[[image http://scp-wiki.wikidot.com/local--files/eventyr-hub/13%20-%20A4aSju2.png]]
+[[div class="allfolks"]]
+[https://butterflycommission.carrd.co @butterfly213]
+[[/div]]
+[[/a]]
+[[/div]]
+
+[[div class="glassyeye"]]
+[[a href="https://imgur.com/SytfcsV.png"]]
+[[image http://scp-wiki.wikidot.com/local--files/eventyr-hub/9%20-%20BuRfXR4.png]]
+[[div class="allfolks"]]
+[https://butterflycommission.carrd.co @butterfly213]
+[[/div]]
+[[/a]]
+[[/div]]
+
+[[div class="glassyeye"]]
+[[a href="https://imgur.com/ZTnaded.png"]]
+[[image http://scp-wiki.wikidot.com/local--files/eventyr-hub/8%20-%204GWknNU.png]]
+[[div class="allfolks"]]
+[https://scp-wiki.wikidot.com/art:shattered-love-s-artwork @Ashiningmoon]
+[[/div]]
+[[/a]]
+[[/div]]
+
+[[div class="glassyeye"]]
+[[a href="https://imgur.com/ttPQpAj.png"]]
+[[image http://scp-wiki.wikidot.com/local--files/eventyr-hub/5%20-%20NquhKjo.png]]
+[[div class="allfolks"]]
+[https://scp-wiki.wikidot.com/art:fever-dream-the-clefnikov-experience-art @Ashiningmoon]
+[[/div]]
+[[/a]]
+[[/div]]
+
+[[div class="glassyeye"]]
+[[a href="https://imgur.com/PbybLCe.png"]]
+[[image http://scp-wiki.wikidot.com/local--files/eventyr-hub/7%20-%20D39urL7.png]]
+[[div class="allfolks"]]
+[https://www.tumblr.com/monigote001 @monigote001]
+[[/div]]
+[[/a]]
+[[/div]]
+
+[[div class="glassyeye"]]
+[[a href="https://imgur.com/HSepBgh.png"]]
+[[image http://scp-wiki.wikidot.com/local--files/eventyr-hub/11%20-%20dHVBPY5.png]]
+[[div class="allfolks"]]
+[https://butterflycommission.carrd.co @butterfly213]
+[[/div]]
+[[/a]]
+[[/div]]
+
+[[div class="glassyeye"]]
+[[a href="https://imgur.com/uvqVAjh.png"]]
+[[image http://scp-wiki.wikidot.com/local--files/eventyr-hub/4%20-%202hlpQC4.png]]
+[[div class="allfolks"]]
+[https://scp-wiki.wikidot.com/art:faust-s-art-page @sailorenoch]
+[[/div]]
+[[/a]]
+[[/div]]
+
+[[div class="glassyeye"]]
+[[a href="https://imgur.com/N5zYdjT.png"]]
+[[image http://scp-wiki.wikidot.com/local--files/eventyr-hub/3%20-%20wKUOT0K.png]]
+[[div class="allfolks"]]
+[https://scp-wiki.wikidot.com/art:faust-s-art-page @sailorenoch]
+[[/div]]
+[[/a]]
+[[/div]]
+
+[[div class="glassyeye"]]
+[[a href="https://imgur.com/bKk7Etp.png"]]
+[[image https://scp-wiki.wdfiles.com/local--files/eventyr-hub/DravenDragPearls]]
+[[div class="allfolks"]]
+[https://butterflycommission.carrd.co @butterfly213]
+[[/div]]
+[[/a]]
+[[/div]]
+
+[[div class="glassyeye"]]
+[[a href="https://imgur.com/UHzxWwe"]]
+[[image http://scp-wiki.wikidot.com/local--files/eventyr-hub/Moon-ANWNT]]
+[[div class="allfolks"]]
+[https://scp-wiki.wikidot.com/art:anwnt-eventyr-tale-art-tonight-or-never @Ashiningmoon]
+[[/div]]
+[[/a]]
+[[/div]]
+
+[[div class="glassyeye"]]
+[[a href="https://imgur.com/lfcWedt"]]
+[[image http://scp-wiki.wikidot.com/local--files/eventyr-hub/Dinodraws-Clef]]
+[[div class="allfolks"]]
+[https://scp-wiki.wikidot.com/dinodraws-author-page @Dino--Draws]
+[[/div]]
+[[/a]]
+[[/div]]
+
+[[div class="glassyeye"]]
+[[a href="https://imgur.com/9BVyQio"]]
+[[image http://scp-wiki.wikidot.com/local--files/eventyr-hub/Boomer-Meri-checkup]]
+[[div class="allfolks"]]
+[https://butterflycommission.carrd.co @butterfly213]
+[[/div]]
+[[/a]]
+[[/div]]
+
+[[div class="glassyeye"]]
+[[a href="https://i.imgur.com/iSxtHsS.jpeg"]]
+[[image http://scp-wiki.wikidot.com/local--files/eventyr-hub/EoE8166Rosyfox.png]]
+[[div class="allfolks"]]
+[https://scp-wiki.wikidot.com/art:eastward-of-eden-scp-8166 @Rosyfox2002]
+[[/div]]
+[[/a]]
+[[/div]]
+
+[[/div]]
+
+@@ @@
+
+[[div class="bubble"]]
+[[=]]
+++ [http://scp-zh-tr.wikidot.com/forgotten-memories-hub Forgotten Memories Hub]
+Eventyr相容的保衛43分支世界線，由[[*user Queerious]]創作
+
+//回憶宛如回音，在遭遺忘許久後仍然侵擾你的心靈。就如所有事物一樣，它一開始也有名字。這部關於愛情、女同性戀、模因和記憶的保衛43分支系列中，Heather Garrison和Lillian Lillihammer彼此糾結在一起。//
+[[/=]]
+[[/div]]
+
+非常感謝所有喜歡我們作品的人！詮釋與再詮釋是Eventyr的大主題之一，而將作品視覺化當然也算在裡面。
+
+
+
+[[div class="bigtitles"]]
+[[# afterword]]
++ 後記
+[[/div]]
+@@ @@
+[[div class="eventypewriter-afterword"]]
+無論是透過美術、寫作、CSS、聲音、表演或手工藝，我們都在說故事。為什麼要說故事？這些是我們的想法。
+[[>]]
+— Eventyr說書人
+[[/>]]
+[[/div]]
+@@ @@
+[[div class="eventypewriter"]]
+故事是我感受世界的方法；是我建造並與他人連結的橋樑；是我向人類平凡的美致敬的方法。隨著你說出一篇故事，你便給出了你的一部分。有時候，那會是你最為深邃的恐懼，有時則是滑稽或愉快的時光，但它永遠都會是你的本質。
+
+風險與冒險、值得紀錄的事件、一場[[span class="ruby"]]童話[[span class="rt"]]Eventyr[[/span]][[/span]]。
+[[>]]
+— [[*user FlyPurgatorio]]
+[[/>]]
+[[/div]]
+@@ @@
+[[div class="eventypewriter"]]
+創造並講述故事便是成為人。你付出的每一個字、CSS元素和打磨的時光就是藝術本身，它不只讓我們徜徉在各種令人興奮的主題之中，更是能夠與他人分享這股感受。如此一來，故事不僅肯定我們的人性，也會告訴其他人：我們將他們視為人類，並重視他們身上的故事。
+[[>]]
+— [[*user AstersQuill]]
+[[/>]]
+[[/div]]
+@@ @@
+[[div class="eventypewriter"]]
+說故事和藝術是人類最古老的展示手法。每個字、每道筆畫都是由過往好幾年的人生積累而成。故事能夠真誠地反映我們的每一個部分、想法和文化。沒有人會講同一個故事或畫同一篇圖畫兩次。
+[[>]]
+— [[*user sailorenoch]]
+[[/>]]
+[[/div]]
+@@ @@
+[[div class="eventypewriter"]]
+故事是個逃生出口，是我們得以無懼地做自己的奇幻世界。我寫作是因為故事需要被講述；我//創造//藝術是因為創造這個舉動就是抗爭本身。
+[[>]]
+— [[*user Queerious]]
+[[/>]]
+[[/div]]
+@@ @@
+[[div class="eventypewriter"]]
+為了傳達有意義的事物。
+[[>]]
+— [[*user Fish^12]]
+[[/>]]
+[[/div]]
+@@ @@
+[[div class="eventypewriter"]]
+故事是我們試圖理解客觀上沒有意義的世界的主觀方法。時間、身分、金融、道德，這些都是為了理解//所有事物//，我們因而講述的故事。這是我閱讀和寫作的主要原因，是為了更好地理解人生，為了瞭解並讓所有人知道，沒有人的人生是孤身一人。
+[[>]]
+— [[*user Prismal]]
+[[/>]]
+[[/div]]
+@@ @@
+[[div class="eventypewriter"]]
+故事與你我一樣都有生命，然而，與講述它們的我們不同，故事永遠不會死去。它們會進化，為了更好地貼合那些說故事的人而在時光流逝中改變，但它們不會死亡。這就是為什麼故事這麼神奇，至少對我來說是如此。
+[[>]]
+— [[*user Uncle Nicolini]]
+[[/>]]
+[[/div]]
+@@ @@
+[[div class="eventypewriter"]]
+對我來說，說故事是情緒的延伸。我們無法選擇要經歷什麼情緒，但我們可以將它們濃縮至我們的文字裡。如此一來，我們便能儲存它們，並在之後重新拿出來或是分享，而我想那就是我最享受的地方。當我們全心投入寫作時，當下的情緒便會永久持續，無論是好是壞。只要有任何一個人能夠共情，它就有意義。
+[[>]]
+— [[*user Waxx]]
+[[/>]]
+[[/div]]
+@@ @@
+[[div class="eventypewriter"]]
+自從人類存在以來，我們便在講述故事。無論類別和主題，這些故事會透露出它們被創作時的人們和時光。因此，沉溺在創作它們並與他人分享，是我們理解彼此與自己的唯一方法。
+[[>]]
+— [[*user Guaire]]
+[[/>]]
+[[/div]]
+
+[[div style="margin:500px;"]]
+[[/div]]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[[include :scp-zh-tr:component:license-box
+|author=AstersQuill, FlyPurgatorio, sailorenoch, Fish^12, Queerious, Prismal]]
+
+> **摘錄：**"Chaos theory states that within the apparent randomness of chaotic complex systems, there are underlying patterns, interconnection, constant feedback loops, repetition, self-similarity, fractals and self-organization."
+> **來源：**Chaos Theory
+> **作者：**Wikipedia contributors
+> **授權協議：**Creative Commons Attribution-ShareAlike License 4.0
+> **來源連結：**[https://en.wikipedia.org/wiki/Chaos_theory 連結]
+> **其他註記：**經過改述
+
+> **摘錄：**"eventyr n (singular definite eventyret, plural indefinite eventyr) 1) adventure; 2) fairy tale, folktale.", "IPA: /ɛːvəntyːˀɐ/" and "From Middle Low German eventǖr(e), cognate with German Abenteuer (late Old Norse æfintýr and Swedish äventyr are also from Low German). The word is borrowed from Middle French a(d)venture (hence also English adventure), from Latin adventūra (“things that will happen”), a future participle of the verb adveniō."
+> **來源：**eventyr
+> **作者：**Wikipedia contributors
+> **授權協議：**Creative Commons Attribution-ShareAlike License 4.0
+> **來源連結：**[https://en.wiktionary.org/wiki/eventyr 連結]
+> **其他註記：**經過改述
+
+> **摘錄：**"Hermeneutics (/hɜːrməˈnjuːtɪks/)[1] is the theory and methodology of interpretation,[2][3] especially the interpretation of biblical texts, wisdom literature, and philosophical texts.[4][5] As necessary, hermeneutics may include the art of understanding and communication."
+> **來源：**hermeneutics
+> **作者：**Wikipedia contributors
+> **授權協議：**Creative Commons Attribution-ShareAlike License 4.0
+> **來源連結：**[https://en.wikipedia.org/wiki/Hermeneutics 連結]
+> **其他註記：**經過改述
+
+> **摘錄：**Vort Jordliv her er Evighedens Frø / Our life here on earth is the seed of Eternity
+> **圖像名稱：**Oldingen (poem)
+> **作者：**Hans Christian Andersen (original); [[*user FlyPurgatorio]] (translation)
+> **授權協議：**Public Domain
+> **來源連結：**[http://wayback-01.kb.dk/wayback/20100504130620/http://www2.kb.dk/elib/mss/hcadigt/oldingen/oldingen.htm 連結] / [https://andersen.sdu.dk/vaerk/register/info.html?vid=2303 Link that shows original date of publication of the Danish text in 1874]
+> **其他註記：**Danish phrase is also used on Hans Christian Andersen's gravestone. New translation by [[*user FlyPurgatorio]].
+
+> **檔案名稱：**2 - VOaehsu.png
+> **圖像名稱：**Portrait Clef
+> **圖像作者：**[[*user sailorenoch]]
+> **授權協議：**CC BY-SA 3.0
+> **來源連結：**[http://scp-wiki.wikidot.com/local--files/eventyr-hub/2%20-%20VOaehsu.png 連結] [https://imgur.com/VOaehsu 備用連結]
+> **來源：**作者創作的作品
+
+> **檔案名稱：**12 - 6Rg24Ej.png
+> **圖像名稱：**Portrait Meri
+> **圖像作者：**[[*user sailorenoch]]
+> **授權協議：**CC BY-SA 3.0
+> **來源連結：**[http://scp-wiki.wikidot.com/local--files/eventyr-hub/12%20-%206Rg24Ej.png 連結] [https://imgur.com/6Rg24Ej 備用連結]
+> **來源：**作者創作的作品
+
+> **檔案名稱：**11 - CmHS7xG.png
+> **圖像名稱：**Portrait Luca
+> **圖像作者：**[[*user sailorenoch]]
+> **授權協議：**CC BY-SA 3.0
+> **來源連結：**[http://scp-wiki.wikidot.com/local--files/eventyr-hub/11%20-%20CmHS7xG.png 連結] [https://imgur.com/CmHS7xG 備用連結]
+> **來源：**作者創作的作品
+
+> **檔案名稱：**7 - OBfMvpb.png
+> **圖像名稱：**Portrait Hana
+> **圖像作者：**[[*user sailorenoch]]
+> **授權協議：**CC BY-SA 3.0
+> **來源連結：**[http://scp-wiki.wikidot.com/local--files/eventyr-hub/7%20-%20OBfMvpb.png 連結] [https://imgur.com/OBfMvpb 備用連結]
+> **來源：**作者創作的作品
+
+> **檔案名稱：**3 - rk3tPRu.png
+> **圖像名稱：**Portrait Crow
+> **圖像作者：**[[*user sailorenoch]]
+> **授權協議：**CC BY-SA 3.0
+> **來源連結：**[http://scp-wiki.wikidot.com/local--files/eventyr-hub/3%20-%20rk3tPRu.png 連結] [https://imgur.com/rk3tPRu 備用連結]
+> **來源：**作者創作的作品
+
+> **檔案名稱：**16 - FWMmOMa.png
+> **圖像名稱：**Portrait Strel
+> **圖像作者：**[[*user sailorenoch]]
+> **授權協議：**CC BY-SA 3.0
+> **來源連結：**[http://scp-wiki.wikidot.com/local--files/eventyr-hub/16%20-%20FWMmOMa.png 連結] [https://imgur.com/FWMmOMa 備用連結]
+> **來源：**作者創作的作品
+
+> **檔案名稱：**5 - 126DRUT.png
+> **圖像名稱：**Portrait Draven
+> **圖像作者：**[[*user sailorenoch]]
+> **授權協議：**CC BY-SA 3.0
+> **來源連結：**[http://scp-wiki.wikidot.com/local--files/eventyr-hub/5%20-%20126DRUT.png 連結] [https://imgur.com/126DRUT 備用連結]
+> **來源：**作者創作的作品
+
+> **檔案名稱：**9 - UGDzl0S.png
+> **圖像名稱：**Portrait Konny
+> **圖像作者：**[[*user sailorenoch]]
+> **授權協議：**CC BY-SA 3.0
+> **來源連結：**[http://scp-wiki.wikidot.com/local--files/eventyr-hub/9%20-%20UGDzl0S.png 連結] [https://imgur.com/UGDzl0S 備用連結]
+> **來源：**作者創作的作品
+
+> **檔案名稱：**14 - CkmRxfj.png
+> **圖像名稱：**Portrait Agatha
+> **圖像作者：**[[*user sailorenoch]]
+> **授權協議：**CC BY-SA 3.0
+> **來源連結：**[http://scp-wiki.wikidot.com/local--files/eventyr-hub/14%20-%20CkmRxfj.png 連結] [https://imgur.com/CkmRxfj 備用連結]
+> **來源：**作者創作的作品
+
+> **檔案名稱：**6 - hkIIGi2.png
+> **圖像名稱：**Portrait Glass
+> **圖像作者：**[[*user sailorenoch]]
+> **授權協議：**CC BY-SA 3.0
+> **來源連結：**[http://scp-wiki.wikidot.com/local--files/eventyr-hub/6%20-%20hkIIGi2.png 連結] [https://imgur.com/hkIIGi2 備用連結]
+> **來源：**作者創作的作品
+
+> **檔案名稱：**8 - kMhJxmw.png
+> **圖像名稱：**Portrait Jay
+> **圖像作者：**[[*user sailorenoch]]
+> **授權協議：**CC BY-SA 3.0
+> **來源連結：**[http://scp-wiki.wikidot.com/local--files/eventyr-hub/8%20-%20kMhJxmw.png 連結] [https://imgur.com/kMhJxmw 備用連結]
+> **來源：**作者創作的作品
+
+> **檔案名稱：**10 - 4n8yel6.png
+> **圖像名稱：**Portrait Light
+> **圖像作者：**[[*user sailorenoch]]
+> **授權協議：**CC BY-SA 3.0
+> **來源連結：**[http://scp-wiki.wikidot.com/local--files/eventyr-hub/10%20-%204n8yel6.png 連結] [https://imgur.com/4n8yel6 備用連結]
+> **來源：**作者創作的作品
+
+> **檔案名稱：**13 - Table.png
+> **圖像名稱：**Table of Contents banner
+> **圖像作者：**[[*user FlyPurgatorio]]
+> **授權協議：**CC BY-SA 3.0
+> **來源連結：**[http://scp-wiki.wikidot.com/local--files/eventyr-hub/13%20-%20Table.png] [https://i.imgur.com/55v56Ij.png 備用連結]
+> **來源：**作者創作的作品
+> **Notes:** derivative of 74 mucha documentsdecoratifs 1901.jpg
+
+[Table of Contents banner]衍生自：
+
+> **檔案名稱：**74 mucha documentsdecoratifs 1901.jpg
+> **圖像作者：**Alphonse Mucha
+> **授權協議：**Public Domain
+> **來源連結：**[https://commons.wikimedia.org/wiki/File:74_mucha_documentsdecoratifs_1901.jpg 連結]
+
+> **檔案名稱：**7 - Intro.png
+> **圖像名稱：**Eventyr Intro Border
+> **圖像作者：**[[*user FlyPurgatorio]]
+> **授權協議：**CC BY-SA 3.0
+> **來源連結：**[http://scp-wiki.wikidot.com/local--files/eventyr-hub/7%20-%20Intro.png 連結] [https://i.imgur.com/55v56Ij.png 備用連結]
+> **來源：**作者創作的作品
+> **Notes:** Derivative of Son nom W 371 Chaminade.jpg
+
+[Eventyr Intro Border]衍生自：
+
+> **檔案名稱：**Son nom W 371 Chaminade.jpg
+> **圖像作者：**George Auriol
+> **授權協議：**Public Domain
+> **來源連結：**[https://commons.wikimedia.org/wiki/File:Son_nom_W_371_Chaminade.jpg 連結]
+
+> **檔案名稱：**Evenflowery
+> **圖像作者：**[[*user FlyPurgatorio]]
+> **授權協議：**CC BY-SA 3.0
+> **來源：**作者創作的作品
+> **Notes:** Derivative of L'Image cover 02 Auriol.png, Flowerybottom and Flowerytop
+
+圖片集[Evenflowery.png]衍生自：
+
+> **檔案名稱：**3 - portraintunder.png
+> **圖像名稱：**Flowerybottom
+> **圖像作者：**[[*user FlyPurgatorio]]
+> **授權協議：**CC BY-SA 3.0
+> **來源連結：**[http://scp-wiki.wikidot.com/local--files/eventyr-hub/3%20-%20portraintunder.png 連結]
+> **來源：**作者創作的作品
+> **Notes:** Derivative of L'Image cover 02 Auriol.png
+
+> **檔案名稱：**14 - portrait.png
+> **圖像名稱：**Flowerytop
+> **圖像作者：**[[*user FlyPurgatorio]]
+> **授權協議：**CC BY-SA 3.0
+> **來源連結：**[http://scp-wiki.wikidot.com/local--files/eventyr-hub/14%20-%20portrait.png 連結]
+> **來源：**作者創作的作品
+> **Notes:** Derivative of L'Image cover 02 Auriol.png
+
+> **檔案名稱：**L'Image cover 02 Auriol.png
+> **圖像作者：** Bibliothèque nationale de France
+> **授權協議：**Public Domain
+> **來源連結：**[https://commons.wikimedia.org/wiki/File:L'Image_cover_02_Auriol.png 連結]
+
+> **檔案名稱：**LogosearchS.png
+> **圖像名稱：**Eventyr SCP Logo darkmode
+> **圖像作者：**[[*user FlyPurgatorio]]
+> **授權協議：**CC BY-SA 3.0
+> **來源連結：**[http://scp-wiki.wikidot.com/local--files/eventyr-hub/LogosearchS.png 連結]
+> **來源：**作者創作的作品
+
+> **檔案名稱：**16 - treetop.png
+> **圖像名稱：**treetop.png
+> **圖像作者：**[[*user sailorenoch]]
+> **授權協議：**CC BY-SA 3.0
+> **來源連結：**[http://scp-wiki.wikidot.com/local--files/eventyr-hub/16%20-%20treetop.png 連結] [https://imgur.com/wfUw81K 備用連結]
+> **來源：**作者創作的作品
+
+> **檔案名稱：**8 - Meritree.png
+> **圖像名稱：**Meri branch
+> **圖像作者：**[[*user sailorenoch]]
+> **授權協議：**CC BY-SA 3.0
+> **來源連結：**[http://scp-wiki.wikidot.com/local--files/eventyr-hub/8%20-%20Meritree.png 連結] [https://imgur.com/ecmZbhA 備用連結]
+> **來源：**作者創作的作品
+
+> **檔案名稱：**6 - Hanatree.png
+> **圖像名稱：**Hana branch
+> **圖像作者：**[[*user sailorenoch]]
+> **授權協議：**CC BY-SA 3.0
+> **來源連結：**[http://scp-wiki.wikidot.com/local--files/eventyr-hub/6%20-%20Hanatree.png 連結] [https://imgur.com/vEXOb90 備用連結]
+> **來源：**作者創作的作品
+
+> **檔案名稱：**10 - Waxtree.png
+> **圖像名稱：**Strel branch
+> **圖像作者：**[[*user sailorenoch]]
+> **授權協議：**CC BY-SA 3.0
+> **來源連結：**[http://scp-wiki.wikidot.com/local--files/eventyr-hub/10%20-%20Waxtree.png 連結] [https://imgur.com/sIAWMjD 備用連結]
+> **來源：**作者創作的作品
+
+> **檔案名稱：**4 - Cleftree.png
+> **圖像名稱：**Clef branch
+> **圖像作者：**[[*user sailorenoch]]
+> **授權協議：**CC BY-SA 3.0
+> **來源連結：**[http://scp-wiki.wikidot.com/local--files/eventyr-hub/4%20-%20Cleftree.png 連結] [https://imgur.com/NLH51V5 備用連結]
+> **來源：**作者創作的作品
+
+> **檔案名稱：**BBQ.png
+> **圖像名稱：**Black Queen branch
+> **圖像作者：**[[*user sailorenoch]]
+> **授權協議：**CC BY-SA 3.0
+> **來源連結：**[http://scp-wiki.wikidot.com/local--files/eventyr-hub/BBQ.png 連結] [https://imgur.com/dpXTlfR 備用連結]
+> **來源：**作者創作的作品
+
+> **檔案名稱：**9 - Moosetree.png
+> **圖像名稱：**Moose branch
+> **圖像作者：**[[*user sailorenoch]]
+> **授權協議：**CC BY-SA 3.0
+> **來源連結：**[http://scp-wiki.wikidot.com/local--files/eventyr-hub/9%20-%20Moosetree.png 連結] [https://imgur.com/rLseZXD 備用連結]
+> **來源：**作者創作的作品
+
+> **檔案名稱：**12 - Pseudotree.png
+> **圖像名稱：**Pseudo branch
+> **圖像作者：**[[*user sailorenoch]]
+> **授權協議：**CC BY-SA 3.0
+> **來源連結：**[http://scp-wiki.wikidot.com/local--files/eventyr-hub/12%20-%20Pseudotree.png 連結] [https://imgur.com/ZoCjsVS 備用連結]
+> **來源：**作者創作的作品
+
+> **檔案名稱：**11 - Eventree.png
+> **圖像名稱：**Eventales branch
+> **圖像作者：**[[*user sailorenoch]]
+> **授權協議：**CC BY-SA 3.0
+> **來源連結：**[http://scp-wiki.wikidot.com/local--files/eventyr-hub/11%20-%20Eventree.png 連結][https://imgur.com/FnutsuY 備用連結]
+> **來源：**作者創作的作品
+
+> **檔案名稱：**treeroots.png
+> **圖像作者：**[[*user sailorenoch]]
+> **授權協議：**CC BY-SA 3.0
+> **來源連結：**[http://scp-wiki.wikidot.com/local--files/eventyr-hub/15%20-%20rootstree.png 連結] [https://imgur.com/omVGJFz 備用連結]
+> **來源：**作者創作的作品
+
+> **檔案名稱：**17 - treetrunk.png
+> **圖像名稱：**Treetrunk
+> **圖像作者：**[[*user sailorenoch]]
+> **授權協議：**CC BY-SA 3.0
+> **來源連結：**[http://scp-wiki.wikidot.com/local--files/eventyr-hub/17%20-%20treetrunk.png 連結][https://imgur.com/Jc6VvGR 備用連結]
+> **來源：**作者創作的作品
+
+> **檔案名稱：**10 - AwH3ghG.png
+> *Name:** Strelnikov Shakespeare
+> **圖像作者：**[[*user Butterfly213]]
+> **授權協議：**CC BY-SA 3.0
+> **來源連結：**[10 - AwH3ghG.png 連結] [https://imgur.com/ld8mb90 備用連結]
+> **來源：**作者創作的作品
+
+> **檔案名稱：**12 - UJlsQBs.png
+> **圖像名稱：**Rights makeup
+> **圖像作者：**[[*user Butterfly213]]
+> **授權協議：**CC BY-SA 3.0
+> **來源連結：**[http://scp-wiki.wikidot.com/local--files/eventyr-hub/12%20-%20UJlsQBs.png 連結][https://imgur.com/xtjwIKU 備用連結]
+> **來源：**作者創作的作品
+
+> **檔案名稱：**13 - A4aSju2.png
+> **圖像名稱：**Hana polaroid
+> **圖像作者：**[[*user Butterfly213]]
+> **授權協議：**CC BY-SA 3.0
+> **來源連結：**[http://scp-wiki.wikidot.com/local--files/eventyr-hub/13%20-%20A4aSju2.png 連結] [https://imgur.com/V4yNjbg 備用連結]
+> **來源：**作者創作的作品
+
+> **檔案名稱：**9 - BuRfXR4.png
+> **圖像名稱：**Hana polaroid Co76
+> **圖像作者：**[[*user Butterfly213]]
+> **授權協議：**CC BY-SA 3.0
+> **來源連結：**[http://scp-wiki.wikidot.com/local--files/eventyr-hub/9%20-%20BuRfXR4.png 連結] [https://imgur.com/SytfcsV 備用連結]
+> **來源：**作者創作的作品
+
+> **檔案名稱：**2 - xFRBMbA.png
+> **圖像名稱：**Clef & Meri 8166 art
+> **圖像作者：**[https://www.tumblr.com/aronaax aronaax on Tumblr]
+> **授權協議：**CC BY-SA 3.0
+> **來源連結：**[https://imgur.com/jaKN4Su 連結] on Tumblr: [https://www.tumblr.com/aronaax/752465066446798848/8166-clef-and-meri-%E0%AD%A8%E0%AD%A7?source=share 連結] [http://scp-wiki.wikidot.com/local--files/eventyr-hub/2%20-%20xFRBMbA.png LOCAL 連結]
+> **來源：**作者創作的作品
+
+> **檔案名稱：**6 - Z1HH8Go.png
+> **圖像名稱：**Clefnikov dance
+> **圖像作者：**[[*user RuraScarlet]]
+> **授權協議：**CC BY-SA 3.0
+> **來源連結：**[http://scp-wiki.wikidot.com/local--files/eventyr-hub/6%20-%20Z1HH8Go.png 連結] [https://imgur.com/WPdSWkV 備用連結]
+> **來源：**作者創作的作品
+
+> **檔案名稱：**5 - NquhKjo.png
+> **圖像名稱：**Fever Dream _ The Clefnikov Experience Art
+> **圖像作者：**[[*user ashiningmoon]]
+> **授權協議：**CC BY-SA 3.0
+> **來源連結：**[https://imgur.com/ZTnaded 備用連結] On the wiki: [https://scp-wiki.wikidot.com/art:fever-dream-the-clefnikov-experience-art 連結] [http://scp-wiki.wikidot.com/local--files/eventyr-hub/5%20-%20NquhKjo.png LOCAL 連結]
+> **來源：**作者創作的作品
+
+> **檔案名稱：** 8 - 4GWknNU.png
+> **圖像名稱：**Shattered Love's Fanart_In Those I Seek, In None I Find
+> **圖像作者：**[[*user ashiningmoon]]
+> **授權協議：**CC BY-SA 3.0
+> **來源連結：**[http://scp-wiki.wikidot.com/local--files/eventyr-hub/8%20-%204GWknNU.png 連結]
+> **來源：**作者創作的作品
+
+> **檔案名稱：**11 - dHVBPY5.png
+> **圖像名稱：**Paul Arkadayevich, Drag Icon
+> **圖像作者：**[[*user Butterfly213]]
+> **授權協議：**CC BY-SA 3.0
+> **來源連結：**[http://scp-wiki.wikidot.com/local--files/eventyr-hub/11%20-%20dHVBPY5.png 連結] [https://imgur.com/HSepBgh 備用連結]
+> **來源：**作者創作的作品
+
+> **檔案名稱：**7 - D39urL7.png
+> **圖像名稱：**Clef drawing
+> **圖像作者：**[https://www.tumblr.com/monigote001 Monigote]
+> **授權協議：**CC BY-SA 3.0
+> **來源連結：**[http://scp-wiki.wikidot.com/local--files/eventyr-hub/7%20-%20D39urL7.png 連結] [https://imgur.com/PbybLCe 備用連結]
+> **來源：**作者創作的作品
+
+> **檔案名稱：**4 - 2hlpQC4.png
+> **圖像名稱：**Clef and Luca chibis
+> **圖像作者：**[[*user sailorenoch]]
+> **授權協議：**CC BY-SA 3.0
+> **來源連結：**[http://scp-wiki.wikidot.com/local--files/eventyr-hub/4%20-%202hlpQC4.png 連結] [https://imgur.com/uvqVAjh 備用連結]
+> **來源：**作者創作的作品
+
+> **檔案名稱：**3 - wKUOT0K.png
+> **圖像名稱：**Clef and Luca chibis alternative
+> **圖像作者：**[[*user sailorenoch]]
+> **授權協議：**CC BY-SA 3.0
+> **來源連結：**[http://scp-wiki.wikidot.com/local--files/eventyr-hub/3%20-%20wKUOT0K.png 連結] [https://imgur.com/N5zYdjT 備用連結]
+> **來源：**作者創作的作品
+
+> **檔案名稱：**Paper effect
+> **圖像作者：**[[*user sailorenoch]]
+> **授權協議：**CC BY-SA 3.0
+> **來源連結：**[https://imgur.com/4dVsnOH 備用連結] [http://scp-wiki.wikidot.com/local--files/theme:eventyr/5%20-%20Paper%20effect.png Theme 連結]
+> **來源：**作者創作的作品
+> **Notes:** Used as background for the Storybook and Typewriter divs
+
+> **檔案名稱：**DravenDragPearls
+> *Name:** Paul Pearls
+> **圖像作者：**[[*user Butterfly213]]
+> **授權協議：**CC BY-SA 3.0
+> **來源連結：**[http://scp-wiki.wikidot.com/local--files/eventyr-hub/DravenDragPearls 連結] [https://imgur.com/bKk7Etp 備用連結]
+> **來源：**作者創作的作品
+
+> **檔案名稱：**Moon-ANWNT
+> **圖像名稱：**ANWNT (Eventyr Tale) Art_Tonight Or Never
+> **圖像作者：**[[*user ashiningmoon]]
+> **授權協議：**CC BY-SA 3.0
+> **來源連結：**[https://scp-wiki.wikidot.com/art:anwnt-eventyr-tale-art-tonight-or-never 連結]
+> **來源：**作者創作的作品
+
+> **檔案名稱：**Boomer-Meri-checkup
+> **圖像名稱：**Meri yearly checkup
+> **圖像作者：**[[*user Butterfly213]]
+> **授權協議：**CC BY-SA 3.0
+> **來源連結：**[http://scp-wiki.wikidot.com/local--files/eventyr-hub/Boomer-Meri-checkup 連結]
+> **來源：**作者創作的作品
+
+> **檔案名稱：**Dinodraws-Clef
+> **圖像名稱：**Clef Dragon
+> **圖像作者：**[[*user Dino--draws]]
+> **授權協議：**CC BY-SA 3.0
+> **來源連結：**[http://scp-wiki.wikidot.com/local--files/eventyr-hub/Dinodraws-Clef 連結]
+> **來源：**作者創作的作品
+
+> **檔案名稱：**EoE8166rosyfox.png
+> **圖像名稱：**Eastward of Eden (SCP-8166)
+> **圖像作者：**[[*user Rosyfox2002]]
+> **授權協議：**CC BY-SA 3.0
+> **來源連結：**[https://scp-wiki.wikidot.com/art:eastward-of-eden-scp-8166 連結] [https://imgur.com/iSxtHsS IMGUR連結]
+> **來源：**作者創作的作品
+
+[[include :scp-zh-tr:component:license-box-end]]
+
+
+
+
+
+
+
+
+
+[[module CSS]]
+#page-title{
+    display: none !important;
+}
+.introduction{
+    text-align: center;
+    font-size: 3vw;
+    margin-bottom: 10em;
+    background-image: url("http://scp-wiki.wikidot.com/local--files/eventyr-hub/7%20-%20Intro.png");
+    background-position: bottom left;
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding-bottom: 12vw;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-shadow: 1px 1px 5px white, 1px 1px 5px white, 1px 1px 5px white, 1px 1px 5px white;
+}
+.whoops{
+    font-family: lavishly yours;
+    font-size: 6vw;
+}
+@media screen and (min-width: 1000px) {
+.introduction{
+    font-size: 20px;
+    padding-bottom: 100px;
+}
+.whoops{
+    font-family: lavishly yours;
+    font-size: 50px;
+}
+}
+/* TABLE OF CONTENTS */
+.toc{
+    text-align: -webkit-left;
+    font-size: 20px;
+    font-family: 'Cutive';
+    display: flex;
+}
+.toc p{
+    line-height :0;
+}
+.toc a:visited{
+    color: #b37a12;
+}
+.bean{
+    flex: 0 0;
+}
+.sprout{
+    flex: 1 1;
+    align-self: center;
+}
+.dots{
+    margin-left: 1em;
+    border-bottom: 4px dotted #604230;
+}
+/*TOP BUTTON*/
+.stocky{
+    float: right;
+    position: sticky;
+    bottom: 20px;
+    right: 20px;
+    background-color: #d2b48c;
+    padding: 2px;
+    border-radius: 5px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    margin-right: 10px;
+    transition: 0.3s !important;
+}
+.stocky:hover{
+    background-color :#e5d4be;
+}
+.stocky p{
+    line-height: 0;
+}
+/*GRID BOX NEEDS OR IT BREAKS FOR SOME REASON*/
+#main-content{
+    width: 100%;
+}
+.tree{
+    display: grid;
+    grid-template-columns: 1fr 0.2fr 1fr;
+    text-align: center;
+}
+.tree img{
+    filter: drop-shadow(1px 1px 10px #636363);
+}
+.top{
+    font-family: 'Cutive';
+    font-size: 2em;
+    line-height: .5em;
+    color: gold !important;
+    min-height: 14em;
+@media only screen and (max-width: 800px) {
+    min-height: 10.5em;
+    font-size: 1.3em;
+    line-height: 0.25em;
+}
+    background-image: url(http://scp-wiki.wikidot.com/local--files/eventyr-hub/16%20-%20treetop.png);
+    background-size: 105%;
+    background-position: 44% 23.6%;
+    background-repeat: no-repeat;
+    grid-column: 1 / 4;
+    grid-row: 1 / 2;
+}
+.top p {
+    margin-top: 2.5em;
+    text-shadow: 1px 1px 2px black;
+}
+.top > p > a.newpage, a:visited{
+    transition: gold .15s var(--ease-in-out), lavender .15s var(--ease-in-out) !important;
+    --newpage-color: gold;
+}
+.top > p > a:is(:hover,:active,:focus,:focus-within){
+    --hover-link-color: 177, 156, 217;
+}
+/*TREE CODE*/
+.trunk{
+    background-image: url(http://scp-wiki.wikidot.com/local--files/eventyr-hub/17%20-%20treetrunk.png);
+    background-repeat: repeat-y;
+    background-size: contain;
+    grid-column: 2 / 3;
+    grid-row: 2 / 6;
+}
+.seriesmeri{
+    grid-column: 1 / 2;
+    grid-row: 2 / 3;
+}
+.serieshana{
+    grid-column: 1 / 2;
+    grid-row: 3 / 4;
+}
+.seriesclef{
+    grid-column: 3 / 4;
+    grid-row: 2 / 3;
+}
+.seriesstrel{
+    grid-column: 3 / 4;
+    grid-row: 3 / 4;
+}
+.seriesbarbecue{
+    grid-column: 1 / 2;
+    grid-row: 4 / 5;
+}
+.seriestilda{
+    grid-column: 1 / 2;
+    grid-row: 5 / 6;
+}
+.seriessudo{
+    grid-column: 3 / 4;
+    grid-row: 4 / 5;
+}
+.serieseventyr{
+    grid-column: 3 / 4;
+    grid-row: 5 / 6;
+}
+.roots{
+    min-height: 26em;
+@media only screen and (max-width: 800px) {
+    min-height: 20em;
+}
+    background-image: url(http://scp-wiki.wikidot.com/local--files/eventyr-hub/15%20-%20rootstree.png);
+    background-position: 49.6% top;
+    background-repeat: no-repeat;
+    background-size: 63% 95%;
+    grid-column: 1 / 4;
+    grid-row: 6 / 7;
+}
+.evertales{
+    grid-column: 1 / 4;
+    grid-row: 7 / 8;
+}
+/*CHARACTER PORTRAITS*/
+.wrapper {
+    display: grid;
+    grid-template-columns: 2.5fr 0.5fr 0.5fr 0.5fr;
+    grid-template-rows: 505px auto;
+    transition: 500ms !important;
+}
+:where(.box1, .box2, .box3, .box4, .box5, .box6, .box7, .box8) {
+    transition: 300ms !important;
+}
+.portrait{
+    background-repeat: no-repeat !important;
+    background-position: center !important;
+    height: 500px;
+    filter: brightness(50%);
+    transition: 300ms !important;
+}
+/*THIS IS WHERE ALL THE CHARACTER IMAGES GO*/
+.clef{
+    background: url(http://scp-wiki.wikidot.com/local--files/eventyr-hub/2%20-%20VOaehsu.png);
+}
+.crow{
+    background: url(http://scp-wiki.wikidot.com/local--files/eventyr-hub/3%20-%20rk3tPRu.png);
+}
+.draven{
+    background: url(http://scp-wiki.wikidot.com/local--files/eventyr-hub/5%20-%20126DRUT.png);
+}
+.glass{
+    background: url(http://scp-wiki.wikidot.com/local--files/eventyr-hub/6%20-%20hkIIGi2.png);
+}
+.hana{
+    background: url(http://scp-wiki.wikidot.com/local--files/eventyr-hub/7%20-%20OBfMvpb.png);
+}
+.jay{
+    background: url(http://scp-wiki.wikidot.com/local--files/eventyr-hub/8%20-%20kMhJxmw.png);
+}
+.kondraki{
+    background: url(http://scp-wiki.wikidot.com/local--files/eventyr-hub/9%20-%20UGDzl0S.png);
+}
+.light{
+    background: url(http://scp-wiki.wikidot.com/local--files/eventyr-hub/10%20-%204n8yel6.png);
+}
+.luca{
+    background: url(http://scp-wiki.wikidot.com/local--files/eventyr-hub/11%20-%20CmHS7xG.png);
+}
+.meri{
+    background: url(http://scp-wiki.wikidot.com/local--files/eventyr-hub/12%20-%206Rg24Ej.png);
+}
+.rights{
+    background: url(http://scp-wiki.wikidot.com/local--files/eventyr-hub/14%20-%20CkmRxfj.png);
+}
+.strel{
+    background: url(http://scp-wiki.wikidot.com/local--files/eventyr-hub/16%20-%20FWMmOMa.png);
+}
+/*PLACEHOLDER IMAGES*/
+.stranger{
+    background: url(http://scp-sandbox-3.wikidot.com/local--files/collab:eventyrcode/stranger.png);
+}
+.mystery{
+    background: url(http://scp-sandbox-3.wikidot.com/local--files/collab:eventyrcode/mystery.png);
+}
+@container (min-width: 200px){
+.portrait{
+  filter: brightness(100%) drop-shadow(0px 0px 3px black);
+}
+}
+.box {
+    container-type: inline-size;
+    min-width: 0;
+    transition: 300ms;
+    margin: -1px;
+}
+/*ESTRELLA HELPED ME WITH THIS, IF THERE IS AN ISSUE ASK THEM INSTEAD*/
+.box5 {
+    background: #fdfcfb;
+    grid-column-start: 1;
+    grid-column-end: 5;
+    display: grid;
+    grid-template-areas: "stack";
+}
+.box5 > .bio { grid-area: stack; max-height: 0; overflow-y: hidden; transition: max-height .5s ease-in-out 0s; }
+.box5 > .bio:where(.bio1),
+.box1:hover ~.box5 > .bio1,
+.box2:hover ~.box5 > .bio2,
+.box3:hover ~.box5 > .bio3,
+.box4:hover ~.box5 > .bio4,
+.box5 > .bio:hover { max-height: 100rem; transition-delay: .5s; }
+.box:hover:not(.box1:hover) ~ .box5 > .bio:where(.bio1),
+.box5:hover > .bio1:not(:hover) {
+    max-height: 0;
+    transition-delay: 0s;
+}
+.wrapper:has(.box1:hover, .bio1:hover) {
+    grid-template-columns: 2.5fr 0.5fr 0.5fr 0.5fr;
+}
+.wrapper:has(.box2:hover, .bio2:hover) {
+    grid-template-columns: 0.5fr 2.5fr 0.5fr 0.5fr;
+}
+.wrapper:has(.box3:hover, .bio3:hover) {
+    grid-template-columns: 0.5fr 0.5fr 2.5fr 0.5fr;
+}
+.wrapper:has(.box4:hover, .bio4:hover) {
+    grid-template-columns: 0.5fr 0.5fr 0.5fr 2.5fr;
+}
+.quoty{
+    padding: 5px 2em;
+    margin: 2em;
+    margin-bottom: 0em;
+    border:solid 16px;
+    background: #d5cfc0;
+    border-image: linear-gradient(#fdfcfb, #fdfcfb);
+    font-family: 'cutive';
+    font-size: 16px;
+}
+.fancy{
+    background-image: url(http://scp-wiki.wikidot.com/local--files/eventyr-hub/14%20-%20portrait.png), url(http://scp-wiki.wikidot.com/local--files/eventyr-hub/3%20-%20portraintunder.png);
+    background-repeat: no-repeat;
+    background-size: 24%;
+    background-position: top left, 102% 110%;
+    padding: 1em 1em 1em 2em;
+}
+.foncy{
+    padding: 1em;
+}
+
+/*CODE FOR ALL THE FANART*/
+.glasscase{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.glassyeye{
+    aspect-ratio : 1 / 1;
+    width: 50%;
+    margin-top: -24px;
+    position: relative;
+    transition: 0.5s !important;
+}
+.glassyeye:hover{
+    filter: sepia(1);
+}
+.glassyeye img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
+}
+.allfolks{
+    position: absolute;
+    z-index: 5;
+    top: 0px;
+    left: 10px;
+    font-size: 4vh;
+    mix-blend-mode: difference;
+    filter: invert(1) grayscale(1) contrast(9);
+}
+.allfolks a{
+    font-weight: bold;
+}
+.bigtitles{
+    margin-top: 200px;
+    text-align: center;
+}
+@media screen and (min-width: 1200px) {
+.allfolks{
+    font-size: 25px;
+}
+}
+@media screen and (max-width: 640px) {
+.allfolks{
+    font-size: 4vw;
+    top: 3px;
+}
+.glassyeye{
+    margin-top: 0px;
+}
+}
+/*BIG HEADER TITLES*/
+.tableau{
+    font-family: 'Lavishly Yours';
+    font-size: 8vw;
+    text-align: center;
+}
+.tableau p{
+    line-height: 0;
+}
+@media screen and (min-width: 1200px) {
+.tableau{
+    font-size: 80px;
+}
+}
+/*FOR THE LISTPAGE*/
+table{
+    margin-bottom: 2em;
+    width: 100%;
+}
+/*QUEERIOUS HUB*/
+.bubble {
+    margin: 15px;
+    padding: 24px;
+    border: 3px solid black;
+    border-radius: 12px;
+    background-color: #FFFFFF;
+    min-height: 150px;
+    box-shadow: inset 0px 0px 10px black;
+    transition: 1s !important;
+}
+.bubble a{
+    color: #b30000;
+}
+.bubble:hover{
+    box-shadow: inset -2000px -500px 10px black;
+    color: white;
+}
+.bubble:hover a{
+    color: red;
+}
+.blockquote{
+    font-family: 'Cutive';
+}
+
+/*FLY HUB*/
+.eventypewriter-afterword{
+     font-family: Cutive, serif;
+     background-image: url(http://scp-sandbox-3.wikidot.com/local--files/theme:eventyr-theme/HCAbackground.png);
+     padding: 15px;
+     font-size: 120%;
+     border: 2px solid #5d0f87;
+}
+
+.eventypewriter-legend{
+     font-family: Cutive, serif;
+     background-image: url(http://scp-sandbox-3.wikidot.com/local--files/theme:eventyr-theme/HCAbackground.png);
+     padding: 15px;
+     font-size: 90%;
+     margin: 0 auto;
+     width: 60%;
+     border: 2px solid #5d0f87;
+}
+
+[[/module]]
+
+[[div class="stocky"]]
+[#top top]
+[[/div]]
+
+[[=]]
+[[module rate]]
+[[/=]]
