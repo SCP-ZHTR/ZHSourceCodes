@@ -365,7 +365,7 @@
 ||[[span class="ruby"]]Containment[[span class="rt"]]收容[[/span]][[/span]]||  ||[[[SCP-3408|]]]||
 ||##7d9ae8|[[span class="ruby"]]Cor[[span class="rt"]]天啊[[/span]][[/span]]##|| ||[[[SCP-6131]]]||
 ||Dark Keter|| 項目既不能收容也無法摧毀。||[[[SCP-5166]]]||
-||Dishwasher, Zenzizenzizenzic||  ||[[[SCP-5145]]]||
+||[[span class="ruby"]]Dishwasher[[span class="rt"]]洗碗機[[/span]][[/span]], [[span class="ruby"]]Zenzizenzizenzic[[span class="rt"]]平方之平方之平方[[/span]][[/span]]||  ||[[[SCP-5145]]]||
 ||##red|[[span class="ruby"]]Delirium[[span class="rt"]]譫妄[[/span]][[/span]]##/##blue|[[span class="ruby"]]Synthesis[[span class="rt"]]追憶[[/span]][[/span]]##[[footnote]]**譯注：**原作者補充其命名來源為POE兩個聯盟的名字[[/footnote]]||項目由兩個衝突的概念(狂亂與整合)交互著成。||[[[SCP-ZH-976]]]||
 ||[[span class="ruby"]]Diu-nei-lou-mou[[span class="rt"]]屌你老母[[/span]][[/span]][[footnote]]**編注：**粵語髒話。[[/footnote]]||項目對大範圍的個體構成非致命但嚴重影響生活品質的精神災害，但現時不能收容而只能以損害管理為措施焦點。|| [[[SCP-ZH-403]]]||
 ||[[span class="ruby"]]Downy[[span class="rt"]]絨毛[[/span]][[/span]]||  ||[[[SCP-1425-765]]]||
