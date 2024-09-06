@@ -764,9 +764,9 @@ SCP-ZH-728 組裝完成後，承載 Site-ZH-44 人員與收容物的空間主要
 
 匕首就在群島上，那是玳米雅贊緞鑄四千年，用來殺死夫君孚拉加贊的東西。
 
-為了取得那樣的存在，我們必須先擊碎陽子。
+為了阻止撒瓦塱的海嘯直接攻擊台灣本島，我們必須讓陽子取得匕首。
 
-包括把她獻給撒瓦塱本人。
+並將她獻給撒瓦塱本人。
 
 @@ @@
 
@@ -782,5 +782,20 @@ Shaman Surge，系統管理員
 [[/collapsible]]
 -----
 [[/div]]
+
+
+[[=]]
+----
++* 群島之歌
++++* ##32cd787|O Radiw no Kitakit##
+
+[[include :scp-wiki:component:earthworm
+| first=false| last=false| hub=yes
+| previous-url=/malenlen  | previous-title=MALENLEN
+| next-url=/radiw-no-kitakit-1 | next-title=西加走灣輓歌：群島再現
+| hub-url=/radiw| hub-title=陽嵐之歌
+]]
+----
+[[/=]]
 
 [[footnoteblock]]

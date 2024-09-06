@@ -51,7 +51,7 @@ https://commons.wikimedia.org/wiki/File:Cat_with_book_1767174.jpg
 || [[*user lulu_lucifelle]] || [[span style="background:#ffc4d0;padding:.3em"]][[[wanderers:homunculus|瓶中的碧翠昂]]][[/span]] || 煉金術 || [[[wanderers:pearl|梅爾與珍珠]]] || [[*user dr v valentine]] ||
 || [[*user MGRC]] ||  || 電 || [[span style="background:#A6E0F5;padding:.3em"]][[[bioelectricity|生物電]]][[/span]] || [[*user tianyutianyutian]] ||
 || [[*user helloahuman]] || [[[scp-zh-190| SCP-ZH-190 - 心靈網路]]] || 高速 || [[span style="background:#A6E0F5;padding:.3em"]][[[scp-zh-712|SCP-ZH-712 - 超高速閱讀眼鏡]]][[/span]] || [[*user kenNG]] ||
-|| [[*user trrew]] ||  || 植 || [[span style="background:#A6E0F5;padding:.3em"]][[[phantom-flowering|虛像綻放]]][[/span]] || [[*user pasong]] ||
+|| [[*user trrew]] ||  || 植 || [[span style="background:#A6E0F5;padding:.3em"]][[[phantom-flowering|虛像綻放]]][[/span]] || [[*user UrsaMerak]] ||
 || [[*user control z]] ||  || 玩具 || [[span style="background:#A6E0F5;padding:.3em"]][[[scp-zh-135|SCP-ZH-135 - 貓咪不跟我玩]]][[/span]] || [[*user emptyname723]] ||
 || [[*user reverberate_a]] || [[span style="background:#ffc4d0;padding:.3em"]][[[reverberate-a-s-proposal-1|Reverberate_a的提案]]][[/span]] || 尋 || [[[scp-zh-300-j|SCP-ZH-300-J - 我的襪襪🥺]]] || [[*user samscript]] ||
 || [[*user edward_knave]] || [[[self-coup-of-the-knavish|執左道者的自我政變]]] || 顛倒 || [[span style="background:#A6E0F5;padding:.3em"]][[[scp-zh-176|SCP-ZH-176 - 《海鷗的大撤退》]]][[/span]] || [[*user ting129]] ||
@@ -194,7 +194,7 @@ https://commons.wikimedia.org/wiki/File:Cat_with_book_1767174.jpg
 ++ 【報名區】
 
 || [[*user LuLu_Lucifelle]] || [[*user K the intern]] ||  [[*user Jimmypong10]] ||
-|| [[*user Lostwhat]] || [[*user pasong ]] ||  [[*user Jetttttt ]] ||
+|| [[*user Lostwhat]] || [[*user UrsaMerak ]] ||  [[*user Jetttttt ]] ||
 || [[*user s97169 ]] || [[*user MGRC ]] ||  [[*user trrew]] ||
 || [[*user YONGZUN]] || [[*user Dr V Valentine]] || [[*user k1s10r0db00ne]] ||
 || [[*user Reverberate_a]] || [[*user ting129]] || [[*user Mang Gwan]] ||
@@ -222,7 +222,7 @@ https://commons.wikimedia.org/wiki/File:Cat_with_book_1767174.jpg
 || [[*user lulu_lucifelle]] || 煉金術 || [[*user dr v valentine]] ||
 || [[*user MGRC]] || 電 || [[*user tianyutianyutian]] ||
 || [[*user helloahuman]] || 高速 || [[*user kenNG]] ||
-|| [[*user trrew]] || 植 || [[*user pasong]] ||
+|| [[*user trrew]] || 植 || [[*user UrsaMerak]] ||
 || [[*user control z]] || 玩具 || [[*user emptyname723]] ||
 || [[*user reverberate_a]] || 尋 || [[*user samscript]] ||
 || [[*user edward_knave]] || 顛倒 || [[*user ting129]] ||
