@@ -119,7 +119,7 @@
 [[include :scp-wiki:component:earthworm
 | first=false | last=false | hub=yes
 | previous-url=/scp-zh-891 | previous-title=從是「侵入」
-| next-url=/scp-zh-904 | next-title=上是「OO」
+| next-url=/scp-zh-904 | next-title=上是「失鄉」
 | hub-url=/zhongyuan-2024 | hub-title=「早梅詩」
 ]]
 
