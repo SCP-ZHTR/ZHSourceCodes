@@ -902,7 +902,7 @@
 * [[[SCP-6843]]] - [ACCESS DENIED]
 * [[[SCP-6844]]] - [ACCESS DENIED]
 * [[[SCP-6845]]] - [ACCESS DENIED]
-* [[[SCP-6846]]] - [ACCESS DENIED]
+* [[[SCP-6846]]] - 一隻巴西利斯克 :3
 * [[[SCP-6847]]] - [ACCESS DENIED]
 * [[[SCP-6848]]] - [ACCESS DENIED]
 * [[[SCP-6849]]] - [ACCESS DENIED]
