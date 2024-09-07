@@ -124,3 +124,9 @@
 其實我本來想要使用「屍人蟻」作標題，但是這個諧音太爛了。
 [[/collapsible]]
 [[/=]]
+
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[SCP-ZH-844]]] | SCP-ZH-845 | [[[SCP-ZH-846]]] >>
+[[/=]]
+[[/div]]
