@@ -454,7 +454,7 @@ h1, #page-options-container, .licensebox .collapsible-block-folded a, .page-watc
 
 徹底改變了人性的定義，將這個世界永遠變得獨一無二的那一天。
 
-🌸 [[[lostwhat-s-proposal|Lostwhat的提案一]]] -- by [[*user lostwhat]]
+🌸 [http://scp-zh-tr.wikidot.com/lostwhat-s-proposal Lostwhat的提案一] -- by [[*user lostwhat]]
 
 [[/div]]
 
