@@ -1,0 +1,634 @@
+[[include :scp-vn:theme:basalt darkmode=a|hidetitle=a|centertitle=a]]
+[[module CSS]]
+/* Webkit browsers (Chrome, Safari, newer versions of Edge) */
+::-webkit-scrollbar {
+    width: 12px;
+}
+
+::-webkit-scrollbar-track {
+    background: #2B2B2B; /* A darker background for contrast */
+}
+
+::-webkit-scrollbar-thumb {
+    background: #E18D29;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #FFB154; /* A lighter shade for hover state */
+}
+
+/* Firefox */
+* {
+    scrollbar-width: thin;
+    scrollbar-color: #E18D29 #2B2B2B;
+}
+
+/* For Internet Explorer */
+body {
+    scrollbar-base-color: #E18D29;
+    scrollbar-face-color: #E18D29;
+    scrollbar-3dlight-color: #E18D29;
+    scrollbar-highlight-color: #E18D29;
+    scrollbar-track-color: #2B2B2B;
+    scrollbar-arrow-color: #E18D29;
+    scrollbar-shadow-color: #E18D29;
+}
+
+/* Change color of all links */
+a, a:visited {
+    color: #E18D29 !important;
+}
+
+/* Change color of links on hover */
+a:hover {
+    color: #FFB154 !important; /* A slightly lighter shade for hover state */
+}
+
+/* Change color of username links */
+.printuser a, .printuser a:visited {
+    color: #E18D29 !important;
+}
+
+/* Change color of username links on hover */
+.printuser a:hover {
+    color: #FFB154 !important;
+}
+
+/* Change color of sidebar links */
+#side-bar a, #side-bar a:visited {
+    color: #E18D29 !important;
+}
+
+#side-bar a:hover {
+    color: #FFB154 !important;
+}
+
+/* Change color of top-bar links */
+#top-bar a, #top-bar a:visited {
+    color: #E18D29 !important;
+}
+
+#top-bar a:hover {
+    color: #FFB154 !important;
+}
+
+/* Change color of footer links */
+#footer a, #footer a:visited {
+    color: #E18D29 !important;
+}
+
+#footer a:hover {
+    color: #FFB154 !important;
+}
+
+.yui-navset ul.yui-nav li a,
+.yui-navset ul.yui-nav li a:link,
+.yui-navset ul.yui-nav li a:visited {
+    color: #E18D29 !important;
+}
+
+.yui-navset ul.yui-nav li a:hover {
+    color: white!important;
+}
+
+.yui-navset ul.yui-nav li.selected a,
+.yui-navset ul.yui-nav li.selected a:focus,
+.yui-navset ul.yui-nav li.selected a:hover {
+    color: white !important;
+}
+
+#side-bar .side-block .menu-item > a:hover,
+#side-bar .side-block .menu-item > .text:hover {
+    -webkit-animation: tabHover 0.15s forwards;
+    animation: tabHover 0.15s forwards;
+}
+
+#side-bar .side-block .menu-item > a,
+#side-bar .side-block .menu-item > .text {
+    background-color: #E18D29;
+}
+
+#page-content h1, #page-content h2, #page-content h3,
+#page-content h4, #page-content h5, #page-content h6 {
+    color: #000000 !important;
+}
+
+body, #page-content {
+    color: #000000 !important;
+}
+
+#page-content .yui-navset .yui-content {
+    background-color: white !important;
+}
+
+.blurry-box {
+  position: relative;
+  width: 100%;
+  max-width: 1200px;
+  margin-left: auto;
+  background: rgba(0, 0, 0, 0);
+  border-radius: 10px;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.blurry-box::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: inherit;
+  filter: blur(10px);
+  z-index: -1;
+}
+
+.blurry-box::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  backdrop-filter: blur(10px);
+  mask-image: linear-gradient(
+    to bottom,
+    transparent 0%,
+    rgba(0, 0, 0, 0.1) 15%,
+    black 30%,
+    black 70%,
+    rgba(0, 0, 0, 0.1) 85%,
+    transparent 100%
+  );
+  z-index: 0;
+}
+
+@media only screen and (min-width: 768px) {
+  .blurry-box {
+      width: 9999px;
+      max-width: none !important;
+      margin-left: 50%;
+      transform: translateX(-50%);
+  }
+}
+
+.quote {
+  font-size: 38px;
+  z-index: 1;
+  text-shadow: 0 0 5px rgba(0, 0, 0, 255);
+}
+
+.quote2 {
+  font-size: 28px;
+  z-index: 1;
+  text-shadow: 0 0 5px rgba(0, 0, 0, 255);
+}
+
+/* Phantasmagoria Theme */
+/* by syuzhet */
+
+/*
+
+Beware! The code you are about to see was cruft by wicked hands...
+
+There is nothing here for you but sorrow, member of the tech team.
+
+Turn back now!
+
+*/
+
+:root {
+    --basalt-secondary-color: 0, 0, 0;
+
+    --basalt-overtone: 73, 90, 211;
+    --basalt-undertone: 73, 90, 211;
+    --basalt-bright-element-color: 73, 90, 211;
+    --basalt-dark-element-color: 73, 90, 211;
+
+    --link-color: 59, 199, 251;
+    --link-visited-color: 59, 199, 251;
+
+    --top-bar-link-color-hover: 255, 255, 255;
+    --login-status-text-color-hover: 255, 255, 255;
+    --side-bar-link-color-hover: 255, 255, 255;
+    --side-bar-link-background-hover: 73, 90, 211;
+
+    --header-border-width: 0rem;
+    --title-size: 1.25rem;
+    --subtitle-size: 0rem;
+    --side-bar-button-height: 50vh;
+    --user-button-width: 2rem;
+    --header-logo-size: 67.5%;
+
+    --basalt-UI-dark-palette: 0, 0, 0;
+    --top-bar-link-background-hover: 73, 90, 211;
+
+}
+
+#header h1 a::before {
+    display: none;
+}
+
+#header h1 a span::after {
+    margin-bottom: 0;
+}
+
+#container #header {
+    background: none;
+    position: absolute;
+    box-shadow: unset;
+    backdrop-filter: none;
+}
+
+div #container-wrap {
+    background-color: #2D455E;
+    background: url(http://scpvnsandbox2.wikidot.com/local--files/zzzzzzzzzz/bg%20%281%29.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+#main-content {
+    margin-top: 0;
+}
+#page-content {
+    padding-top: 0;
+    isolation: isolate;
+}
+
+#page-content > p:nth-child(-n+4) {
+    display: none;
+}
+
+.widebox {
+    position: relative;
+    left: calc(-50dvw + 50%);
+    width: 100dvw !important;
+    max-width: 100dvw !important;
+    display: grid;
+    grid-template-areas: "stack";
+    align-items: end;
+    justify-items: center;
+    z-index: -1;
+    margin-bottom: 17.5svh;
+}
+.widebox > br { display: none; }
+.widebox img { grid-area: stack; display: block; width: 100%;}
+
+.widebox > img:first-of-type {
+    max-height: 100svh;
+    object-fit: cover;
+    object-position: bottom;
+}
+.widebox > img:last-of-type {
+    margin-block-end: 3.25svh;
+    width: min(75%, 42rem);
+    z-index: 1;
+}
+
+.widebox .separator {
+    position: absolute;
+    width: 100%;
+    left: 0; top: 70%;
+}
+
+h1, #page-options-container, .licensebox .collapsible-block-folded a, .page-watch-options a {
+    color: white;
+}
+
+#action-area, .licensebox .collapsible-block-content {
+    background: #0D0D0F;
+    padding: 10px;
+}
+
+.licensebox .collapsible-block-link {
+    background: #0D0D0F;
+    padding: 10px;
+}
+
+/* Piece of shit sidebar */
+
+#top-bar div.mobile-top-bar>.open-menu {
+     visibility:visible;
+     opacity: 0.6;
+     transition: opacity 0.2s;
+}
+
+#top-bar div.mobile-top-bar>.open-menu:hover {
+    opacity: 1;
+}
+
+#side-bar {
+     margin-top:0;
+     height:100%
+}
+
+#side-bar, #side-bar:is(:hover, :focus-within):not(:target) {
+     left:calc(var(--side-bar-width) * -1)
+}
+
+#side-bar::after, #side-bar::before {
+     display:none
+}
+
+#side-bar:target {
+     left:0;
+     width:var(--side-bar-width);
+     z-index:10
+}
+
+#side-bar a.close-menu, #side-bar:target a.close-menu {
+     display:block;
+     pointer-events:none;
+     position:fixed;
+     top:0;
+     right:0;
+     left:auto;
+     width:100%;
+     min-width:3.75rem;
+     height:100%;
+     margin-left:0;
+     opacity:0;
+     z-index:-1;
+     transition:width var(--side-bar-transition),opacity var(--side-bar-transition)   
+}
+
+#side-bar:target a.close-menu {
+     width:calc(100% - var(--side-bar-width));
+     pointer-events:auto;
+     opacity:1;
+}
+
+/* Mobile */
+
+@media only screen and (max-width: 1020px) {
+    #container #header {
+        background: black;
+        position: sticky;
+    }
+    .widebox div {
+        position: relative;
+        top: 60%
+    }
+    .widebox .bannerseparator {
+        top: 90dvh;
+    }
+    .widebox img {
+        width: 100%
+    }
+    .widebox #u-logotop {
+        font-size: 6vw;
+    }
+    .quote2 {
+        font-size: 18px;
+    }
+}
+
+[[/module]]
+[[div class="widebox"]]
+[[image https://scpvnsandbox2.wikidot.com/local--files/zzzzzzzzzz/banner1.png]]
+[[div_ class="separator"]]
+[[image https://scpvnsandbox2.wdfiles.com/local--files/zzzzzzzzzz/separator1.png]]
+[[/div]]
+[[image https://scpvnsandbox2.wikidot.com/local--files/aaa/flwr-prdise.png alt="Flower Paradise"]]
+[[/div]]
+
+[[include component:scp-meta-title-hiding css-style=classic]]
+[[include info:start]]
+篇名：繁花天堂中心頁
+原文：[http://scp-vn.wikidot.com/flower-heaven-hub Flower Heaven]
+原作者 ：[[*user KirQ]]
+譯者：[[*user Lostwhat]]
+[[include info:end]]
+
+[[div class="blurry-box"]]
+
+[[div class="quote"]]
+[[=]]
+
+[[span style="color:#F4AC32"]]
+**以一粒沙來窺視蒼穹
+以一朵花來擁有天堂,
+以一雙手來握緊無限
+以一剎那來成為永恆.**
+― William Blake
+[[/span]]
+[[/=]]
+
+[[/div]]
+
+[[/div]]
+@@ @@
+@@ @@
+
+[[div class="blockquote" style="max-width: fit-content; background: #E18D29; border-color: #E18D29; color: #E18D29; font-size: 110%; margin: auto; word-break: break-all !important;"]]
+++ [[size 125%]]###FFFFFF|第一幕：最初的種子##[[/size]]
+[[/div]]
+
+[[div style="display: inline-block; border-radius: 10px; border:solid 0.2px #444; background:#F5F5F5; float:top; width:95%; padding:10px"]]
+[[=]]
++ ??? - 2024
+[[/=]]
+
+那場夢改變了舊時代的一切。而如今的我們能夠從過去的殘片中找回什麼嗎？
+
+🌸 [[[scp-092-vn|SCP-092-VN - 花之香氣]]] -- by [[*user KirQ]]
+
+🌸 [[[scp-034-vn|SCP-034-VN - 鳥之花]]] -- by [[*user KirQ]]/[[*user Lehola1000]]
+
+[[/div]]
+@@ @@
+@@ @@
+[[div class="blockquote" style="max-width: fit-content; background: #E18D29; border-color: #E18D29; color: #E18D29; font-size: 110%; margin: auto; word-break: break-all !important;"]]
+++ [[size 125%]]###FFFFFF|第二幕：綻放之時##[[/size]]
+[[/div]]
+
+
+[[div style="display: inline-block; border-radius: 10px; border:solid 0.2px #444; background:#F5F5F5; float:top; width:95%; padding:10px"]]
+
+[[=]]
++ 19/06/2022
+[[/=]]
+
+徹底改變了人性的定義，將這個世界永遠變得獨一無二的那一天。
+
+🌸 [[[lostwhat-s-proposal|Lostwhat的提案一]]] -- by [[*user lostwhat]]
+
+[[/div]]
+
+@@ @@
+@@ @@
+[[div class="blockquote" style="max-width: fit-content; background: #E18D29; border-color: #E18D29; color: #E18D29; font-size: 110%; margin: auto; word-break: break-all !important;"]]
+++ [[size 125%]]###FFFFFF|第三幕：立於萬千鮮花之上##[[/size]]
+[[/div]]
+
+[[div style="display: inline-block; border-radius: 10px; border:solid 0.2px #444; background:#F5F5F5; float:top; width:95%; padding:10px"]]
+[[=]]
++ 20/06/2022 - 2044
+[[/=]]
+
+基金會也好、關注組織也好、異常們和面紗之外的一切存在也好，他們應該用什麼模樣去面對這這無法回頭的世界？
+
+🌸 [[[where-the-iron-bars-grow-bouquets-of-flowers|落花繽紛於鐵柵之上]]] -- by [[*user Erebus030]]
+
+🌸 [[[scp-035-vn|SCP-035-VN - 苦痛種子]]] -- by [[*user Dept]]
+
+[[/div]]
+
+@@ @@
+@@ @@
+[[div class="blockquote" style="max-width: fit-content; background: #E18D29; border-color: #E18D29; color: #E18D29; font-size: 110%; margin: auto; word-break: break-all !important;"]]
+++ [[size 125%]]###FFFFFF|第四幕：然後，我們將繼續前行##[[/size]]
+[[/div]]
+
+[[div style="display: inline-block; border-radius: 10px; border:solid 0.2px #444; background:#F5F5F5; float:top; width:95%; padding:10px"]]
+[[=]]
++ 2044 - ???
+[[/=]]
+
+一切都已塵埃落定。人類傾身擁抱了自己的命運，並學習與之共存。除非......
+
+🌸 [[[a-wandsman-in-a-flower-garden|花園中的魔杖人]]] -- by [[*user KirQ]]
+
+🌸 [[[scp-072-vn|SCP-072-VN - 彼岸之間]]] -- by [[*user KirQ]]/[[*user Lehola1000]]
+
+🌸 [[[sunflower|向日葵]]] -- by [[*user ChlorustTetch]]
+
+🌸 [[[layers-of-white|層層純白]]] -- by  [[*user KirQ]]
+
+[[/div]]
+
+@@ @@
+@@ @@
+[[div class="blockquote" style="max-width: fit-content; background: #E18D29; border-color: #E18D29; color: #E18D29; font-size: 110%; margin: auto; word-break: break-all !important;"]]
+++ [[size 125%]]###FFFFFF|第五幕：人性。未曾離去。##[[/size]]
+[[/div]]
+
+[[div style="display: inline-block; border-radius: 10px; border:solid 0.2px #444; background:#F5F5F5; float:top; width:95%; padding:10px"]]
+[[=]]
++ 2100
+[[/=]]
+
+花開花謝。這是人類找回心的那一天。
+[[/div]]
+------
+
+[[# canon-guide]]
+
+[[div class="blurry-box"]]
+[[div class="quote2"]]
+[[span style="color:#F4AC32"]]
++ 設定指導
+[[/span]]
+[[/div]]
+[[/div]]
+
+[[tabview]]
+[[tab 總覽]]
++ 關於本設定
+
+「繁花天堂」是延伸自繁中分部的作品，由作者[[*user lostwhat]]所撰寫的[[[lostwhat-s-proposal|Lostwhat的提案一]]]而成的設定。首先，我想先感謝原作作者願意讓作品中的故事成為設定的核心並繼續延伸下去。
+
+整個設定的故事線都聚焦在被這個001項目影響的SCP宇宙裡發生！
+
+@@ @@
+
+
++ 設定原則
+
+目前來說，任何作者都可以在以下的原則裡自由的發展自己想撰寫的故事。不過，接下來要說的內容是面向新手的設定「原則」解說，這裡並不鼓勵違反這些原則，但如果你對自己的想法十分有信心，歡迎隨時打破所有的原則並揮灑出更有趣的內容。
+
+* **面紗早已被「揭開」**
+我們怎麼有能力去隱藏一起同時影響全世界人類的異常事件？面紗早已破碎不堪，而人們正在逐漸習慣與超自然/異常共處。
+
+* **潛藏在黑暗中的勢力並未消失**
+無論是基金會還是其他關注組織，無論「開花事件」對他們影響多大，他們都勢必得繼續前行。然而，這股異常很可能影響他們的方向、目標或立場。最重要的一點是，也許在花瓣的影子下，可能會出現全新的關注組織。
+
+* **異常們也不例外！**
+不只是人類受到了影響，其他人型異常也同樣逃不過命運。去想想在這樣的世界中，他們應當何去何從？
+
+* **人類與花朵的關係變得更加緊密**
+所有在這世界中的人類都受到了項目的影響。因此，他們別無選擇地只能接受與身上綻開的花朵共存的現實，然而他們並不總能綻放出美麗的花朵......
+
+@@ @@
+
++ 設定主題
+
+或許可以說，「繁花天堂」的設定與主站設定的[http://scp-zh-tr.wikidot.com/daybreak 破曉世界線]有點像。不過繁花天堂並沒有一顆會隨時準備把你大卸八塊的邪惡太陽，而是牽好你的手，將你拉進了只在童話裡聽說過的，那個孩子們的快樂天堂。
+
+但是，這世界上哪存在真正的伊甸園？唔，那種地方只存在在故事裡，不是嗎？人類的情感被奪去，必須與綻放在全身上下的無數花朵為伴。捫心自問，你覺得這對你來說真的是天堂嗎？
+
+為了探索這座天堂，你可以從許多角度來切入故事，比方說：
+* 人們要如何與花朵共存？
+* 社會有什麼改變？
+* 對一個充滿花朵的世界來說，什麼事情是禁忌？
+* [http://scp-vn.wikidot.com/scp-072-vn 失去了情感的我們，應該如何繼續存在？]
+* 在這樣的宇宙裡，誰會過得更好？
+* 這個世界的傳統習俗會是什麼樣的？
+
+還有無數個可能性正在等你探索。失控也無所謂，盡情發揮吧 ; )
+
+
+@@ @@
+請看看下一個分頁來了解更深入的設定！
+
+= [[size 80%]][#canon-guide 回到頂部][[/size]]
+
+[[/tab]]
+[[tab 寫作指導]]
+
++ 一般說明
+* 如果你撰寫的作品屬於此設定並符合分站的規範，請將其更新到本中心頁的對應部分。
+* 你可以將你的作品連結的本中心頁，並將本中心頁設定為「父頁面」。當然，這不是強制的，但這可以讓讀者連結到本中心頁與更多相關作品。
+* 作者可以在本中心頁中自由添加、刪除或移動自己的作品。如果你的作品尚未添加到中心頁裡，或你需要中心頁管理員的協助，請隨時與我聯絡 - [[*user KirQ]]/Discord: kirq_0212
+* 
+@@@@
+
+
++ 更多細節
+
+1.本設定的寫作風格沒有限制；作者有相當的創作自由，可以依照自己的喜好來探索世界。
+2.作者應挑明自己的作品屬於時間線的哪一個部分。更仔細的區分如下：
+* **第一幕：**這個時間軸是異常現象發生之前的故事。在這個時間段裡適合深入探討「花開事件」的原因、任何可能與其有關的異常現象，或只是單純陳述這段苦難的開始。這個提案的發生原因尚不明朗，歡迎大家隨意構思！
+* **第二幕：**2022年6月20日，「花開事件」的發生。這個時間軸的作品可能是和側重於政府、基金會和其他組織的第一反應；以及人類對自己身體變化的反應。
+* **第三幕：**這個時間段的大多數作品應該集中於人們如何面對「開花事件」。去試著想想基金會可能會如何想辦法扭轉事件的發生、全球超自然聯盟打算摧毀什麼東西來讓世界回到正軌、各大國家是否會發動戰爭並互扔核彈......
+* **第四幕：**描繪出接受了命運的人類的未來，這個時間軸的作品可以集中描述人類在各個領域的進步、與異常共存的世界有什麼變化、已經存在和正在基金會收容下的異常面對的嶄新挑戰、因面紗內外的重構而發生的改變......
+* **第五幕：**在與花朵並存了很長一段時間，並在科學上有了重大進展後，人類或將找到治療花朵的方法。這可以被認為是這個設定的結局。
+
+@@ @@
+
++ 我想寫這個設定，但我可以讓作品存在於上述所有時間軸之外嗎？
+
+絕對沒問題！隨意發揮創意吧，但如果你可以先向我或其他作者說說你自己的構思，那會好很多！三個臭皮匠，勝過一個諸葛亮: )另外，我也不吝在這個中心頁中劃出一塊屬於你的位置，讓你成為萬眾矚目的焦點！
+
++ 我一定得寫些和花有關的東西嗎？
+
+不用！雖然「繁花天堂」所說的是一個和花朵息息相關的宇宙，但這也不代表你一定得在作品中提到任何花朵！盡情發揮吧！
+
++ 什麼是「花語」？
+
+「花語」是這個提案的標題，也是這個世界的重要概念，是「花的語言」的縮寫。在人類的情感被吞噬的世界中，「花語」是幫助我們彼此溝通/互動的主要方式。每種花在生命中的每個瞬間都表達著不同的意義。
+
+未來，「花語」也會被納入教育體系中，所以這個宇宙裡的大部份人都知道每朵花的意義。別忘了，有些人可能會喜歡這種表達方式，但並不是所有人都喜歡，所以「花語」在這個世界也仍然存在著爭議。
+
+= [[size 80%]][#canon-guide 回到頂部][[/size]]
+
+[[/tab]]
+[[tab 聯絡人員]]
+
+所有人都可以聯繫本中心頁的管理者，也就是我[[*user KirQ]]。可以用Wikidot私訊，但最簡單的方式是加入[https://discord.com/invite/mqVdQAMTyX 越南文分部]並找到我的Discord帳號 (kirq_0212)。
+
+VN分部的作者請聯絡[[*user KirQ]]，ZH分部的作者則請聯絡[[*user Lostwhat]]，其他分部或INT的作者若想要加入這個設定，請聯絡[[*user KirQ]]。
+
+另外，你也可以聯絡這個設定的其他撰寫者以獲得更多意見^^
+
+= [[size 80%]][#canon-guide 回到頂部][[/size]]
+[[/tab]]
+[[/tabview]]
+
+
+@@ @@
+------
+@@ @@
