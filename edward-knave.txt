@@ -1177,7 +1177,7 @@ SCP-ZH-???「儒」：兼具孔子與阿爾伯特愛因斯坦兩種人格的活�
 %%created_at|%m/%d %H:%M|agohover%%
 [[/cell]]
 [[cell style="width: 30%; vertical-align: top; text-align: left;"]]
-%%created_by_linked%%
+[[span style="white-space:nowrap;"]]%%created_by_linked%%[[/span]]
 [[/cell]]
 [[cell style="vertical-align: top; text-align: justify;"]]
 %%rating%%
