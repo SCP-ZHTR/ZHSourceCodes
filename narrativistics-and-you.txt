@@ -1,28 +1,26 @@
-[[include :scp-zh-tr:component:preview
-|text=直到最上一層的作者，直到最下一層的作者。遍佈每一面，在內在外，他們捲起了袖，探入您們的心靈至前臂之深。]]
-[[include :scp-zh-tr:theme:basalt hidetitle=a|darkmode=a|redmode=a]]
+[[include :scp-wiki:component:preview
+text=哈囉？這是啥？我在哪裡？那個「crom」是誰還有這房間為甚麼小？我一說話就覺得這裡更擠了。它沒消失，事愈來愈糟了，老天。]]
+[[include :scp-zh-tr:theme:admo]]
 
 
 [[module CSS]]
-body {
-  font-family: 'Zen Kaku Gothic Antique', sans-serif;
-  font-style:normal;
-  font-weight:500 !important;
-}
+
 div.authorlink-wrapper{margin-top: var(--author-top-adjust, .2em) !important;}
 :root {
- --title: "P.M. 中心";
- --logo: url(https://scp-wiki.wdfiles.com/local--files/scp-7079/narrativistics.png);
- --subtitle: "混合理論學";
- --sidesubtitle: "混合理論學";
- --sidelogo: url(https://scp-wiki.wdfiles.com/local--files/scp-7079/narrativistics.png);
+    --header-title: "致知";
+    --basalt-UI-dark-palette: 50, 45, 45;
+    --basalt-bright-element-color: 125, 20, 20;
+    --backdrop: url(https://scp-wiki.wdfiles.com/local--files/narrativistics-and-you/nausa.gif);
+    --admo-color-bright: 50, 45, 45;
 }
+
 body {
 
-    background-image: url(https://scp-wiki.wdfiles.com/local--files/narrativistics-and-you/nasa);
+ 
     background-attachment: fixed;
     background-size: cover;
     background-blend-mode: difference;
+ 
 }
 
 body:before {
@@ -33,9 +31,11 @@ body:before {
   top: 0;
   width: 100%;
   height: 100%;
-  background-image: linear-gradient(170deg, transparent, rgb(0, 0, 0) 65%, rgb(0, 0, 0) 65%, rgb(0, 0, 0) 100%);
+  background: linear-gradient(90deg, rgba(0, 0, 0, 0) 0%, rgb(var(--basalt-primary-color), 1) 25%, rgb(var(--basalt-primary-color), 1) 50%, rgb(var(--basalt-primary-color), 1) 75%, rgba(0, 0, 0, 0) 100%), var(--backdrop);
   z-index: -1;
   color:#EDEDED;
+  background-size:100%;
+  background-position:center;
 }
 div.text{
     color: rgba(128,255,128,0.8);
@@ -46,7 +46,7 @@ div.text{
     margin: 0 auto;
 }
 div.specialmodal > p:nth-child(1)::before {
-    font-family: 'Work Sans', sans-serif;
+
     font-weight: 900;
     font-size: 130%;
     text-align: center;
@@ -64,7 +64,7 @@ div.specialmodal > p:nth-child(1)::before {
 }
 
 div.specialmodal {
-    font-family: 'Work Sans', sans-serif;
+
     box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.5);
     width: 95%;
     min-height: auto;
@@ -89,7 +89,7 @@ div.specialmodal {
 div.peachy {
 max-width:auto !important;
 padding: 10px 10px 10px 10px !important;
-background-color: #06141F !important;
+background-color: #050404!important;
 }
 
 div.text a {
@@ -113,274 +113,493 @@ li.unfolded > .progmask{ display: block; }
 
 [[/module]]
 
-[[>]]
+[[=]]
 [[module rate]]
-[[/>]]
+[[/=]]
 [[include :scp-zh-tr:component:author-label-source start=--
-|name=Billith|no-right-margin=*]]
+|name=Billith|center=*]]
 //[https://scp-wiki.wikidot.com/narrativistics-and-you NARRATIVISTICS AND YOU: Abandoning the Notion of Fiction vs. Non-Fiction]//
 //敘性論與你：揚棄虛構與紀實之辨//
 [https://scp-wiki.wikidot.com/sr-researcher-james-a-harkness-personnel-file Billith]著
 [[*user frederica-bernkastel]]、[[*user edward-knave]]合譯
-
+[[span style="color:transparent;"]]（重寫前譯本見第14版）[[/span]]
 如果您喜歡這篇文章，您也可能會喜歡這些：
 
-|| **[[[SCP-2786]]]** || **[[[SCP-7079]]]** || **[[[SCP-5646]]]** || **[[[SCP-5541]]]** || **[[[SCP-2921]]]** ||
-[[include :scp-zh-tr:component:author-label-source end=--]]
- 
-@@
-@@
-@@
-@@
+|| **[[[SCP-2786]]]** || **[[[SCP-7079]]]** || **[[[SCP-5646]]]** || **[[[SCP-5541]]]** ||
 
-[[div class="smallmodal peachy"]]
-[[div class="specialmodal" style="border: solid 0px #770077;"]]
-
-
+[[include :scp-wiki:component:author-label-source end=--]]
+@@ @@
+[[div class="raisa_memo"]]
+**以下影片轉錄乃從遺留於[[span class="ruby"]]匹刻落—閔考斯基高等研究中心[[span class="rt"]]Pilcrow-Minkowski Center for Advanced Studies[[/span]][[/span]]食堂內自動販賣機頂上的一枚未知的可移除儲存裝置回收而得。**
+@@ @@
+在錄影的145分鐘以內所述事件的證據未能定位。同樣，涉事人員對此事未有記憶。
+[[/div]]
+@@ @@
+[[=]]
+[[span class="bt"]]標籤內容如下：[[/span]]
+[[/=]]
+[[div class="smallmodal peachy specialmodal" style="position:relative;"]]
+[[f<image https://scp-wiki.wdfiles.com/local--files/narrativistics-and-you/eru.png style="opacity:0.7; display: inline;top:0;right:0;" width="60px;"]]
+[[>]]
 +++ ##white|敘性論與你：##
 ++++ ##white|揚棄虛構與紀實之辨##
-
-@@
-@@
-
-
-@@
-@@
-@@
-@@
-
-
-
-[[/div]]
+[[/>]]
 [[<]]
 **##AEB09B|主講：##**
 ##AEB09B|[https://scp-wiki.wikidot.com/sr-researcher-james-a-harkness-personnel-file 高級研究員 J. 安塞姆．赫奈斯（Sr. Researcher J. Anselm Harkness）]##
-##AEB09B|[[span class="ruby"]]匹刻落—閔考斯基中心混合理論學部[[span class="rt"]]Pilcrow-Minkowski Center's Hybrid Theoretics Division[[/span]][[/span]]．[[span class="ruby"]]概念及本質研究所[[span class="rt"]]Conceptual and Ontological Studies[[/span]][[/span]]##
-,,//##AEB09B|代表[[span class="ruby"]]形上科學部門[[span class="rt"]]Metaphysical Sciences Department[[/span]][[/span]]##//,,
+##AEB09B|匹刻落—閔考斯基中心[[span class="ruby"]]多重學科部[[span class="rt"]]Multidisciplinary Division[[/span]][[/span]]．[[span class="ruby"]]概念及本質研究所[[span class="rt"]]Conceptual and Ontological Studies[[/span]][[/span]]##
+[[size 70%]]//##AEB09B|代表[[span class="ruby"]]形上混合科學部門[[span class="rt"]]Metaphysical Hybrid Sciences Department[[/span]][[/span]]##//[[/size]]
+[[/<]]
+[[>]]
+[[size 60%]][[span style="bottom:0;right:0;position:absolute;"]]由一名維坎德—尼得科技媒體成員於現場拍攝[[/span]][[/size]]
+[[/>]]
+[[/div]]
+@@ @@
+@@ @@
+[[=]]
+[[span class="bt"]]內容轉錄：[[/span]]
+[[/=]]
+[[div class="smallmodal peachy specialmodal"]]
+[[<]]
+
+//片段開始播放，呈現一幕漆黑的空間。隨著**颼**的一聲，頂上一盞偌大的聚光燈打開，違和的白熾亮光直指下方，周圍沐浴在一片明亮而偏黃的光色。鏡頭尷尬地指向一片小講台上空曠的中心。//
+
+//零星的掌聲可聞，鏡頭的方位未指向任何近似觀眾之物，隨後切向斜指同一處，顯現舞台與觀眾席之間一片黑暗的中間地帶，鏡頭移動的同時緩緩放大，聚焦在猩紅色的布簾，那裡理應藏著一處小小的後台。//
+
+//數秒後，殘餘的掌聲消散。取而代之的是一陣怪異的窸窣聲，從上方鏡頭外的天花板而來。一道模糊的人聲透過頂頭的揚聲器傳遍房間。//
+
+對，你不會出事的。
+
+你//絕對//做得到的，是吧？
+
+我到底是咧講//三小//？不，沒事的。照著投影片說，記清楚台詞，別再搞砸了，別再出亂子了。
+
+//人聲清了一下喉嚨，經過一陣沉默，一條人影從後台走出，瞇眼頂著令人不適的光芒，調著夾在襯衫上的小麥克風。他不快地把手舉過眉頭，謹慎地走近聚光燈照著的地方，面向未知而又默默帶著期待的觀眾。他再開腔，投影的螢幕慢慢從他身後的天花降下。//
+
+謝謝各位今天撥冗出席。
+
+歡迎各位來到、呃、這次關於[[span class="ruby"]]敘事性質論[[span class="rt"]]Narrativistics[[/span]][[/span]]與[[span class="ruby"]]敘事相對性模型[[span class="rt"]]Narrative Relativity Model[[/span]][[/span]]的排定研討會。這兩個互有關聯但各自相異的特徵是形上混合科學部門新設的分支、也是PM中心殿堂新血——[[span class="ruby"]]敘性論科[[span class="rt"]]Narrativistics Division[[/span]][[/span]]——所建基的礎石。今夜，我就是我們的締約之間的聯絡員、基金會內長駐的無線網路和現實的維修員、案頭書生兼出氣筒——高級研究員[[span class="ruby"]]詹姆斯．安塞姆．赫奈斯[[span class="rt"]]James Anselm Harkness[[/span]][[/span]]。
+
+而老實說，我並不完全清楚我為甚麼會來到這裡。我不相信我最能解釋這個模型，也沒有經手過任何與它哪怕有一點關係的東西。
+
+這檔後設狗屎嘛，至少就我最近幾天所知，已經整合進去了形上混合科學部門，也向外推進到一些小圈子，務求在基金會研究設施所研究過一切的自然科學領域裡統合出一個基礎理解。
+
+這意味著，不論各位是否喜歡，敘性論（亦因此包括後設狗屎）將會成為您們在基金會的核心學科。它切身關係到您們對異常的理解，也切身關係到您們如何理解這宇宙在其餘一切當中的定位，亦切身關係到如何理解這其餘一切在所有在此之外的事物當中的定位。您們可能會問我，這為甚麼會有必要、又有誰會在意。別擔心，我自己也不知道，但是您們的問題的確會及時得到解答。
+
+好，我慶幸各位真的都有在聽，因為我有些驚人而困擾的消息想分享給各位。如果您們對超形上學有一點認識，您們可能會知道我接下來想說甚麼：
+
+**您們可知道超形上學部說我們全都是虛構的嗎？**
+
+//大約二十到三十人的觀眾回應各異，或沉默、或嘟囔、或其他方式表達毫不意外的沉悶感。一陣咳嗽聲傳出，赫奈斯隨之以相近的不滿之情點頭以對。//
+
+對、對。我們都想必至少有聽過一兩次這樣的話，當中有一部分人也頗常聽見：「[[span class="ruby"]]帕達見過神，神是一個紐澤西的同人寫手[[span class="rt"]]Pata saw God and it's a fanfic writer from New Jersey[[/span]][[/span]]」之類的或是其他同樣情緒色彩的變體。
+
+就讓我來紓緩一下各位的恐懼吧，具體而言，是浪費另外兩個半小時來聽我吹奏您們已經聽過一百萬遍的東西的恐懼，用的就是後設狗屎的酷斃新口味^^TM^^——//[[span class="ruby"]]敘性論[[span class="rt"]]Narrativistics[[/span]][[/span]]//。它的確不像您們年輕時喝過的帕達博士汽水那樣，完全沒有一個在紐澤西的恐怖寫手獨自主宰著這整片多重宇宙的氣味。至少我可以向在座各位朋友保證。
+
+不是那樣的，它傳來的是毫無保留地刺鼻的、永不間斷的燻煙，來自一片常在、廣袤、而永續纏結的複雜敘事網，臨案作者皆陣列在前。餘韻亦然，這//風味//直上最頂，直落最底，四方八面，從內從外，捲起衣袖，探入您們的心靈至前臂之深。您是紐澤西的同人寫手，我也是，您信的神也是，還有在觀看的您們也是。讀著那些字的，那些轉錄下來以予後世參閱，直到永遠的字，也歡迎加入這個同人寫手大隊。而那一位紐澤西的同人寫手也同樣是另外某一位作者的角色，而您們也同樣是那一位作者的角色。另一位作者有朝一日會將您寫進這個世界，但那一位作者也會是另一位作者筆下的角色。
+
+溯及終極，就會呈現一個真理：我們全為一體。為一。
+
+//赫奈斯望向鏡頭，雙眼透著試圖尋求眾人注意有一處明顯而不對勁、但又不能或不願向觀眾言明的感情。是某種對最基本禮儀的公然違背。影片一跳，但上方一角的時間則顯示向前倒跳了三秒。赫奈斯對此渾然不覺。//
+
+另一位作者有朝一日會將您寫進這個世界，但那一位作者也會是另一位作者筆下的角色。而這一刻存在的您也將不會是這故事以外——更甚至是這一幕以外——所存在的您。
+
+不，您們沒聽錯我說的話。但也對，我懂的，我知道這當中有些聽來……與自然科學沒有關係。只不過，在您們向這些祭出一個帕達之前，先聽我說，讓我說完。如果一切順利，又或者近乎順利，我們最終會更加能夠作好準備，請相信我。
+
+//赫奈斯隨著眾人漸增的呢喃聲瞥向四周。//
+
+對——我看得見您們現在的表情，尤其是我的——呃、我想我們現在都是同事了，對不？從這邊來自超形上學部與敘事學部的同事，也開始搖頭了。//「為甚麼不用超形上學？它可以處理基底和作者，它可以處理這個那個！」//我聽到您們在說，而我同意超形上學可以解釋很多我今天向您們展示的概念，但它不能解釋今天所有的概念。它不能解釋它自己與這宇宙以及現實整體之間的關係。再者，超形上學就純粹是//不夠科學//。我們在這些日子需要的是數字和更為細微的解釋。我們需要的是在其餘所有先前出現的系統都不堪用的時候，可以讓人倚靠的系統。
+
+超形上學是一種針對治理架構的哲學系統，在辯論上以及維持謙虛之心的時候有用。[[span class="ruby"]]敘事學[[span class="rt"]]Narrativics[[/span]][[/span]]則在一小部分的世界表現超卓，但會在其餘的世界崩潰，這本身也不是它的錯，而是它所選擇追求的[[[SCP-2786|原型]]]故事的錯。
 
 
-------
+這些現存的模型存在是為了給基金會的統計學‵家所謂「愈趨混沌」的宏觀系統帶來秩序。但這種思路有一個問題：這套理論系統並沒有隨之愈趨混沌。混沌一直存在，並在我們身邊迴旋，但我們愈來愈習慣秩序，而我們自始戮力控制多重宇宙，但在它們的旮旯就會鞭長莫及。
 
-@@
-@@
+到最後，我們只會愈來愈察覺它的//荒謬之處//。我們當中有一部分明白那種程度的混沌不能在現時的尺度得以收容。這只會是天方夜譚。
 
-@@
-@@
+只不過，我們當中的絕大多數仍然相信我們應該儘力理解它並量化它，要將一個開放而無窮無盡的知識之泉給抽竭——[[span class="bt" style="color:red;"]][[span class="ruby"]]致知[[span class="rt"]]ERUDITION[[/span]][[/span]][[/span]]。而混沌的宏觀系統有這樣的特性：您將視角放得愈遠，它就顯得愈有秩序，就愈親近它所遵守的法則。敘性論談的就是放遠視線，//直到最遠//。
 
-歡迎各位來到這次關於形上科學部門新設的[[span class="ruby"]]敘性論科[[span class="rt"]]Narrativistics Division[[/span]][[/span]]所建基的礎石——[[span class="ruby"]]敘事相對性理論模型[[span class="rt"]]Narrative Relativity Model[[/span]][[/span]]的演講。我是基金會內長駐的無線網路和現實的維修員——高級研究員[[span class="ruby"]]詹姆斯．安塞姆．赫奈斯[[span class="rt"]]James Anselm Harkness[[/span]][[/span]]。我其實並不完全清楚我為甚麼會來到這裡。我不相信我最能解釋這個模型，也沒有經手過任何與它有關的東西。敘事這檔事嘛，至少就我最近幾天所知，已經列入了形上科學部門的定位，還延伸到最終覆蓋基金會研究設施所研究過一切的自然科學領域。這意味著，不論各位是否喜歡，敘性論將會成為您們在基金會的核心學科。它切身關係到您們對異常的理解，也切身關係到您們如何理解這宇宙在其餘一切當中的定位，亦切身關係到如何理解這其餘一切在所有在此之外的事物當中的定位。
+而敘性論是有非常清晰而可量化的應用，以將一系列各自相異的[[span class="ruby"]]大宇宙觀[[span class="rt"]]Grand Cosmology[[/span]][[/span]]視為一個統合的系統來理解，亦或完全無視它們的法則——這個我們之後會說——基金會對敘事的邊緣個案研究裡的超形上學風格，在目的與本質而言則始終模糊。您們有些時候可能會發現自己被捲入不少辯論的其中一方，比如說將所有的時間線大體相容為一的失敗是否存在、是否攸關、是否無緣無故，或是您們會拿哪個巨匠造物者奉為自己的超形上高位力量，但是這些辯論一直以來就已經存在，只希望答案能夠更常得到，更遑論是尋求共識。
 
-好，我慶幸各位真的都有在聽，因為我有些驚人的消息想分享給各位。如果您們對超形上學有一點認識，您們可能會知道我接下來想說甚麼：//您們可知道超形上學部說我們全都是虛構的嗎？//
-
-對、對。我們都想必至少有聽過一兩次這樣的話。「[[span class="ruby"]]帕達見過神，神是一個紐澤西的同人寫手[[span class="rt"]]Pata saw God and it's a fanfic writer from New Jersey[[/span]][[/span]]」之類的或是其他同樣訊息的變體。
-
-就讓我用一點敘性論來紓緩一下各位的恐懼吧。在這整片多重宇宙當中主宰的並不是只有一個在紐澤西的恐怖寫手。至少我可以向在座各位朋友保證。
-
-不是那樣的，主宰這些的，其實是一片常在、廣袤、而永續纏結的複雜敘事網。直到最上一層的作者，直到最下一層的作者。遍佈每一面，在內在外，他們捲起了袖，探入您們的心靈至前臂之深。您是紐澤西的同人寫手，我也是，神也是，鬼也是。每一樣東西、每一個人全部都是。
-
-不，您們沒聽錯我說的話。但也對，我知道這當中有些聽來……與自然科學沒有關係。只不過，在您們向這些祭出一個帕達之前，先聽我說，讓我說完。如果一切順利，我們最終會更加能夠作好準備。
-
-對——我看得見您們的表情，尤其是我的——呃、我想我們現在都是同事了，對不？從這邊來自超形上學部與敘事學部的同事，也開始搖頭了。//「為甚麼不用超形上學？它可以處理基底和作者，它可以處理這個那個！」//我聽到您們在說，而我同意超形上學可以解釋很多我今天向您們展示的概念，但它不能解釋今天所有的概念。它不能解釋它自己與這宇宙以及現實整體之間的關係。再者，超形上學就純粹是//不夠科學//。超形上學是一種針對治理架構的哲學系統；[[span class="ruby"]]敘事學[[span class="rt"]]Narrativics[[/span]][[/span]]則在一小部分的世界表現超卓但會在其餘的世界崩潰。
-
-這些現存的模型存在是為了給「愈趨混沌」的宏觀系統帶來秩序。但這種思路有一個問題：這套理論系統並沒有隨之愈趨混沌。混沌一直存在，但我們愈來愈習慣秩序，而我們自始戮力控制多重宇宙，但在它們的旮旯就會鞭長莫及。到最後，我們只會愈來愈察覺它的荒謬之處。我們當中有一部分明白那種程度的混沌不能在現時的尺度得以收容。這只會是天方夜譚。
-
-只不過，我們//可以//儘力理解它並量化它。混沌的宏觀系統有這樣的特性：您將視角放得愈遠，它就顯得愈有秩序，就愈親近它所遵守的法則。敘性論談的就是放遠視線，//直到最遠//。
-
-而敘性論可以為將整個[[span class="ruby"]]大宇宙觀[[span class="rt"]]Grand Cosmology[[/span]][[/span]]視為一個統合的系統給予非常清晰且可以量化的理解——這個我們之後會說——基金會對敘事的邊緣個案研究裡的超形上學風格則充其量也只能說是模糊。您們有些時候可能會發現自己被捲入不少辯論的其中一方，比如說將所有的時間線大體相容為一的失敗是否存在、是否攸關、是否無緣無故，或是您們會拿哪個造物者奉為自己的超形上高位力量，但是這些辯論一直以來就已經存在。很多時候，這正是主流超形上學模型所設的硬性「規則」的錯，或者更應說是它缺乏硬性規則的錯。由[[span class="ruby"]]S.A. 斯旺[[span class="rt"]]S.A. Swann[[/span]][[/span]]對這議題的[[[sandrewswann-s-proposal|研究]]]所作的原始公設，隨之推導而生的模型看待現實的這些細節，就如同一個原始赫密士主義者在煉金術的奧秘面前所作的應對一樣。誠然，您們會發現不少基金會的人員會擁護著超形上學的用詞，猶如只須喚出那些詞語，就能像咒語一樣召喚出更深一層的理解。
+很多時候，那會被說成是主流的超形上學模型定義得不好的「規則」的錯，或是它未能執行那些規則的錯。由[[span class="ruby"]]S.A. 斯萬[[span class="rt"]]S.A. Swann[[/span]][[/span]]對這議題的[[[sandrewswann-s-proposal|研究]]]所作的原始公設，隨之推導而生的模型看待現實的這些細節，就如同一個原始赫密士主義者在煉金術的奧秘面前所作的應對一樣。誠然，您們會發現不少基金會的人員會擁護著超形上學的用詞，猶如只須喚出那些詞語，就能像咒語一樣召喚出更深一層的理解。
 
 同樣，從水銀衍生出黃金的技術對黃金黎明來說，就算是當中最拙劣的成員也是可能做到的，但我們現在——甚至早在一百年前——就已經知道，這所用的方法並不是最有效的。它既麻煩又不精準，不像物理學那樣在問世以後千百年來還能一直完備以解釋諸多現象。這事實在1941年經由粒子加速器首次得到證明，但是人類因為資源匱乏而對法幣本位經濟體系的追求使得這些方法的成本高得不可執行。今日，基金會的先進科技可以只用一小部分的成本就能立體列印黃金，您們不信我的話就問美國的聯邦儲備局吧。
 
-可別真的走去問。他們不會知道您們在說甚麼，但我們會。我們還有一種超強的藥物來為那些洩露或是聽到基金會機密的人們準備的。它是A字開頭的，但我有點忘了它叫甚麼名字……
+在契約上，我有義務澄清一句：可別真的走去問。他們不會知道您們在說甚麼，但我們會。我們還有一種超強的藥物來為那些洩露或是聽到基金會機密的人們準備的。它是A字開頭的，但我有點忘了它叫甚麼名字……
 
-［輕笑］好的，我們稍微放鬆下來了，很好。我們接下來可不能太繃緊。
+//沉默數秒。//
 
-回到我本來的論點——在基金會的作業範圍裡，關於超形上學的應用與有效性的討論自從形上學部設立以來就已經存在。我們雖然確認了有必要設立這一科，去專攻真實程度各異的現實，但也是時候放開我們對敘事文體的假設了，老實說，還有關於我們//自己的//現實的假設。當您們明白了不同的敘事基底之間的關係，您們就會看見本體論與敘性論之間的類比，剩下的人也會跟著看清楚。
+哈哈、好的，我們稍微放鬆下來了，很好。我們接下來可不能太繃緊。再者，這邊可是PM中心，您們深知守口如瓶之道。
+
+//沉默數秒。//
+
+老天，好吧，呃、也不是//這麼//好笑。謝謝，謝謝。
+
+回到我本來的論點——在基金會行動的範疇裡，關於超形上學的應用與有效性的討論自從超形上學部設立以來就已經存在。我們雖然確認了有必要設立一個處室，去專攻真實程度各異的現實，但也是時候放開我們對敘事文體的假設了，老實說，還有關於我們//自己的//現實的假設。當您們明白了超形上學現象與物理現象之間的關係，您們就會看見本體論與敘性論之間的類比，剩下的人也會跟著看清楚。
+
+//講者從寬褲前的口袋亮出一枝雷射筆，指向螢幕。//
 
 首先將話說在前頭：敘性論到底是個甚麼東西？
 
+//按了一下之後，螢幕顯現出一頁投影片。赫奈斯的反應顯得訝異。//
+
+敘ㄒ——//呃//——等一下，//這甚麼//？這複本不是我的……那是//批註//嗎？唔，抱歉各位，看來我們手邊有一宗塗改文本的事件……之類的。
+
+我會嘗試去集中在那更加、呃、適切的東西。當那些字不在就好。
+
+@@
+@@
+@@
+@@
 [[include :scp-wiki:component:image-features-source |click-fullscreen=--]
-|speed=300
+|speed=300 
 |float=true
 |align=left
 |width=900px
-|url=https://i.imgur.com/GXFJ1ZZ.png
+|url=https://i.imgur.com/gMNiqjd.png
 |add-caption=false
 |caption=text
 ]]
+@@
+@@
+@@
+@@
+//赫奈斯花了接下來的五分鐘望遍投影片每一角落，彷似在迷宮中，同時用雷射筆指著遊走。他逐字說著投影片上的每一點，然後回頭面向觀眾，如今在鏡頭轉過全場之後可見是一組排成幾排坐著的黑暗人影。在上方則有染色玻璃的私人包廂俯視主持。那些包廂的持有人與存在的原因，無人可知。//
 
+——所以，敘性論是為敘事、人物、作者的定位重設的框架，可以無限推展延伸並且完全納入其他事物。它有三條見解作為主要的支柱，支撐著敘性論整個學說的內在維繫：
 
-@@ @@
-@@ @@
+第一條支柱——[[span class="ruby"]]虛構[[span class="rt"]]fiction[[/span]][[/span]]與[[span class="ruby"]]紀實[[span class="rt"]]non-fiction[[/span]][[/span]]之間沒有分別，就如講題所言。因為在這張多層嵌套網之內的測察者的感知與發源點，而對「虛構性的有無」存有假象。這已知由受到以下三種特徵影響的因素表示：[[span class="ruby"]]敘事性[[span class="rt"]]Narrativism[[/span]][[/span]]、[[span class="ruby"]]可信性[[span class="rt"]]Believability[[/span]][[/span]]、[[span class="ruby"]]真實性[[span class="rt"]]Realism[[/span]][[/span]]，它們都是[[span class="ruby"]]敘事相對性[[span class="rt"]]Narrative relativity[[/span]][[/span]]的副產物，透過觀測者現時所在的特徵與敘事特徵之間比對而測量得出。
 
-敘性論是為敘事、人物、作者的定位重設的框架，可以無限推展延伸並且完全納入其他事物。它有三條見解作為主要的支柱：
+因此，所有的敘事對於體驗它的人物都同樣「真實」，以一切的目標與意義而言，那就是他們的現實。如先前所言，[[span class="ruby"]]敘事性／可信性／真實性[[span class="rt"]]NBR[[/span]][[/span]]水平只能以比對得出，因為您們所知的就只有基線。因此，我們會用到這種方法論：
 
-第一條支柱——[[span class="ruby"]]虛構[[span class="rt"]]fiction[[/span]][[/span]]與[[span class="ruby"]]紀實[[span class="rt"]]non-fiction[[/span]][[/span]]之間沒有分別，就如講題所言。因為在「[[span class="ruby"]]敘事疊層[[span class="rt"]]Narrative stack[[/span]][[/span]]」之內的測察者的感知與發源點，而對「虛構性的有無」存有假象；[[span class="ruby"]]敘事性[[span class="rt"]]Narrativism[[/span]][[/span]]、[[span class="ruby"]]可信性[[span class="rt"]]Believability[[/span]][[/span]]、[[span class="ruby"]]真實性[[span class="rt"]]Realism[[/span]][[/span]]都是[[span class="ruby"]]敘事相對性[[span class="rt"]]Narrative relativity[[/span]][[/span]]的副產物，同時是觀測者的發源特徵。因此，所有的敘事對於體驗它的人物都同樣「真實」，以一切的目標與意義而言，那就是他們的現實。
+//赫奈斯在雷射筆按了一下，新一頁的投影片取代舊一頁。//
 
-@@ @@
+——喔，看。更多的「批註」。呃啊。
 
+@@
+@@
+@@
 [[include :scp-wiki:component:image-features-source |click-fullscreen=--]
-|speed=300
+|speed=300 
 |float=true
 |align=left
 |width=900px
-|url=https://i.imgur.com/bmeL8kw.png
+|url=https://i.imgur.com/rMF9sNQ.png
 |add-caption=false
 |caption=text
 ]]
-@@ @@
-@@ @@
+@@
+@@
+@@
+@@
 
-我需要澄清一點：「敘事疊層」有別於其他大部分的模型，它單純是一個視覺化的工具，就像[[span class="ruby"]][https://en.wikipedia.org/wiki/Point%E2%80%93line%E2%80%93plane_postulate 點—線—面公設][[span class="rt"]]Point-line-plane Postulate[[/span]][[/span]]那樣。以這系統來直述敘事現實因為沒有與另外的敘事位面連接的線性向量，所以是錯誤而落伍的做法。目前有很多的敘事都有相近的[[span class="ruby"]]敘事性／可信性／真實性[[span class="rt"]]NBR[[/span]][[/span]]水平，但都沒有互動，而在本質上是完全分開的。因此，您們可以在傳統意義上假設那些敘事並沒有「疊」在一起。它可以幫您們更好理解敘事現實，將它們想像成無線電頻譜裡不同頻率的電台頻道，它們相位各異，緊密地捲在互為相關而合稱為「[[span class="ruby"]]正史束[[span class="rt"]]Canonical bundles[[/span]][[/span]]」的故事組別之中。「調」入一個特定的位面需要將某個旋鈕從您本來所在的電台調校一段距離，愈遠離您的發源地，就愈難完成。您將那個旋鈕調向一邊，您就相比於您原來的地方所在的人們變得更不真實；調向另一邊，您就變得相對更為真實。
+我不確定您們是在笑我還是在嘗試緩解緊張的情緒，但現在絕對是兩者其一。[[footnote]]我從那邊看見，是兩者都是。[[/footnote]]
 
+唔？//赫奈斯稍為環視一遍。//有人在說話嗎？
+
+//沉默。//
+
+奇怪……總之，我說那是「基線」，但我也需要澄清：所謂「基線」也只是一個假象。一個故事裡的角色的基線是一回事，我們現實的基線是另一回事，而任意一處的基線則又是另一回事。那個是隨意的。重點是故事的基線與它的角色的基線是相等的。
+
+也許，用一個簡單的比喻：試想——
+
+//舞台左方傳出一下撞擊聲，遙遠但不合時宜地響，猶如一塊紅木上一聲輕敲卻傳到了遠遠超出常理的距離。空氣悶熱，全場靜默、佇候。//
+
+咳咳，好。我想有人回頭了，我剛剛在說甚麼？喔、對——
+
+試想像一個故事裡的角色在一條多線高速公路上開車。公路上的路線代表不同的敘事，整條公路就是整個層級，是我們看著自己駕駛著的故事書中所有敘事的整體。部分的角色會在您們大部分、甚至整段旅程都陪在身邊，有一部分只會陪一陣子，直到您們到了他們的終點，或是您們到了終點。到現在為止還懂嗎？
+
+如果您們在公路上用著跟另外一人一樣的速度開著，那對您們來說，他的車就看似沒有在動。在距離方面，它在您們看來就像是靜止了，而不會動。那輛車與您們同在一個基線，但另一輛車可能會比您們的車開得更快／更慢。
+
+現在，試想像那輛車沒有催馬達，而是那條路本身在您們的車底下用不同的速度移動。那些路線各自移動的速度可能不同，但如果有其中幾條移動的速度一樣，那麼，那些車輛跟路線相對於對方而言就不動。還明白嗎？因為接下來就會變得再奇怪一點。
+
+問題在您們的感知限制了理解的能力——路跟車沒有分別，而兩者//是//一樣的。路其實在另一輛車上面，只是那輛車非常非常非常地大。大得不可思議，大得您們不能理解它是一輛車。
+
+然後，這之後還有更多的車、更多的路。
+
+實際上，有//無限//多輛車疊在一起，在上下左右都有車疊著。而如果下面幾層路車裡有一輛車坐著一個版本的您，他就會感覺他所在的現實就是他們的現實。因為那是他的基線。基線//永遠//對同一個角色是不變的。
+
+這看起來像是「[[span class="ruby"]]敘事疊層[[span class="rt"]]Narrative stack[[/span]][[/span]]」，但我們這裡會迴避這個詞。「敘事疊層」並不是正確的說法，這比喻單純是一個視覺化的工具，就像[[span class="ruby"]][https://en.wikipedia.org/wiki/Point%E2%80%93line%E2%80%93plane_postulate 點—線—面公設][[span class="rt"]]Point-line-plane Postulate[[/span]][[/span]]那樣——
+
+//投影片自行切換。//
+@@
+@@
+@@
+@@
 [[include :scp-wiki:component:image-features-source |click-fullscreen=--]
-|speed=300
+|speed=300 
 |float=true
 |align=left
 |width=900px
-|url=https://i.imgur.com/83fQZoq.png
+|url=https://i.imgur.com/1o1QuFP.png
 |add-caption=false
 |caption=text
 ]]
+@@
+@@
+@@
+@@
+呃——就是這樣。謝謝？
 
-@@ @@
-@@ @@
+總之，以這系統來直述敘事現實因為沒有與另外的敘事位面連接的線性向量，所以是錯誤而落伍的做法。甚至是您們所讀的書都不是它們所代表的敘事位面。它們二維的敘事量子在另一個現實處創造了一個三維的[https://zh.wikipedia.org/zh-tw/%E5%85%A8%E5%83%8F%E5%8E%9F%E7%90%86 全像投影]。
 
-而這就是第二條支柱——感知的真實性會朝「[[span class="ruby"]]非實[[span class="rt"]]Unreal[[/span]][[/span]]」或是「[[span class="ruby"]]極實[[span class="rt"]]Hyperreal[[/span]][[/span]]」兩個方向浮動，每一個敘事都有獨特的特徵或是「頻率」，是您在穿越不同的層級時會維持不變的。變得極實或者非實攸關所有本質促動的作為，一切現實扭曲的異常都可以歸類為//極實//以及//非實//。
+目前有很多的敘事都有相近的[[span class="ruby"]]敘事性、可信性、真實性[[span class="rt"]]NBR[[/span]][[/span]]水平，但都沒有互動，而在本質上是完全分開的。因此，您們可以在傳統意義上假設那些敘事並沒有「疊」在一起。
+
+它可以幫您們更好理解敘事現實，將它們想像成無線電頻譜裡不同的電台頻道，它們相位各異，緊密地捲在互為相關而合稱為「[[span class="ruby"]]正史束[[span class="rt"]]Canonical bundles[[/span]][[/span]]」的故事組別之中。「調」入一個特定的位面需要將某個旋鈕從您本來所在的電台調校一段距離，愈遠離您的發源地，就愈難完成。您將那個旋鈕調向一邊，您就相比於您原來的地方所在的人們變得更不真實；調向另一邊，您就變得相對更為真實。
+
+//投影片再換一次，但是赫奈斯此時背對螢幕。看來他沒有察覺到投影片的變化。// 
+@@
+@@
+@@
+@@
+[[include :scp-wiki:component:image-features-source |click-fullscreen=--]
+|speed=300 
+|float=true
+|align=left
+|width=900px
+|url=https://i.imgur.com/bC10fRe.png
+|add-caption=false
+|caption=text
+]]
+@@
+@@
+@@
+@@
+而這就是第二條支柱——感知的真實性會朝「[[span class="ruby"]]非實[[span class="rt"]]Unreal[[/span]][[/span]]」或是「[[span class="ruby"]]極實[[span class="rt"]]Hyperreal[[/span]][[/span]]」兩個方向浮動，每一個敘事都有獨特的特徵或是「頻率」，是您在穿越不同的層級時會維持不變的。變得極實或者非實攸關所有本質促動的作為，一切現實扭曲的異常都可以與基線相比，歸類為//極實//以及//非實//。
 
 您向「上」走一個敘事層的話，您走入的敘事層會相對比您更為真實，您就相對地較不真實。可以操縱那種空間的異常稱為非實型現實扭曲者，通常會藉由利用它們自己較不真實的敘事因果去引發類似「故事書」或「童話」風格的能力。那些現實扭曲者通常只會影響身邊附近的環境，止於他們的狀況認知範圍；而比較強的實體有時會趨向囂張、易於犯錯，還有較大的認知或是感知上的盲點，可以在收容或處決時加以利用。
 
 您向「下」走一個敘事層的話，您就會比身邊的環境更為真實。所以當地就會相對非實，您則相對極實。一個極實的扭曲者平均來說遠較危險，而遠遠更具破壞力。我們在談的是一個由上而下的支配，而不是由下而上的。當然，極實與非實的本質促動異常可以依照強度排列。一個特別弱的或是未受訓練的極實個體可能會比一個有信心、經驗與準備的非實個體更加危險。經驗法則而言，要分辨這兩種異常，您就要問自己：那個異常能不能改變現實本身？它能不能依照自己的選擇去毀滅宇宙？如果能夠，那就是極實個體。
 
+//正在赫奈斯回頭望向投影片之際，投影片再切換。他研究了片刻，聳了一下肩就繼續。// 
+@@
+@@
+@@
+@@
 [[include :scp-wiki:component:image-features-source |click-fullscreen=--]
-|speed=300
+|speed=300 
 |float=true
 |align=left
 |width=900px
-|url=https://i.imgur.com/uhyPMKI.png
+|url=https://i.imgur.com/peJ3mIo.png
 |add-caption=false
 |caption=text
 ]]
+@@
+@@
+@@
+@@
+所以，極實型的現實扭曲者比較近似單純的代理作者，因為作者的意念主宰著一切存在的位面所有的事件，一個被寫進故事的實體如果有改寫基本定律的能力，就多少形同一個作者級的實體被一個更「上位」的作者寫進去世界裡。這是因為——
 
-極實型的現實扭曲者比較近似單純的代理作者，因為作者的意念主宰著一切存在的位面所有的事件，一個被寫進故事的實體如果有改寫基本定律的能力，就多少形同一個作者級的實體被一個更「上位」的作者寫進去世界裡。這是因為第三條支柱——
+//一帖金色的小信箋從天而降，穿過假天花的一條縫隙，慢慢飄落，猶似輕得不可置信。血紅色的「**懷疑**」二字用正楷寫著，優雅地飄轉落下，直到躺在舞台中央。//
 
-我們假設可抵達的敘事層應有無限多個。在層與層之間必定又有另外一層，即便它們看起來完全沒有甚麼不同，正如我們前面所說，疊層只是個視覺化工具，幫助我們這些脆弱人腦理解更抽象的現象。敘事作為眾多頻率的頻譜存在，假如您被塞到了與當前疊層不同的位置，哪怕只距離原點一度上下，您的不和諧度就會瞬間竄升。您相對原點層「向上」走得越遠，您就顯得越不真實，您對那些位面本身的掌控度也就越弱。反過來說，如果您是「向下」去走，您對下層的掌控度就幾乎不受影響，但以您這個觀察者的角度來看，敘事仍會相對地較不真實，也因此，您向下走得越遠，那些敘事的意義就越來越弱。
+
+//赫奈斯慢慢靠近，眼眨得比以往更快。他心內擔憂著，也經過不耐的眾人嘀咕得到印證。他把指甲攝進薄薄的文具底下托起，響出一聲小小的囁嚅，經過領上的麥克風傳得遠遠更響。//
+
+
+意外地重呢，嘿。
+
+
+//略作施力，信封從重力之中釋放。赫奈斯轉了掌上的信封一圈，盯著封背一陣子。//
+
+……懷疑……
+
+//赫奈斯打開信封，兩眼為之圓瞪。他掃視了一下內容，雙瞳隨之左右遊移向下。一分鐘後即止。//
+
+啊……好。我明白了。這、這不是計劃之內的。但是我們在這領域還在活躍努力著。所以，我想我有必要指出我百分百確定這是真的。我也確定自己恨這一張東西。絕對不可能的。//他搖了搖頭。//那又是甚麼意思？我又在說甚麼？
+
+//赫奈斯翻向信紙的另一面，裡面看來空空如也。他把信箋摺起藏進口袋，再嚥了一口唾。//
+
+這一切只是餘興。這他媽不重要。零加零還是零。停下……別再擾亂我了！我不想這樣做！
+
+//赫奈斯把頭埋在雙掌中。一道吃力的長嘆從齒縫間漏出。少頓，主講從掌中仰望，繼續發言。//
+
+抱歉，就只是——這——//東西//。這個地方。所有的地方。就像一場戲，但沒有人知道自己在戲裡。即使您們告訴他們，他們就是不懂。甚至是我，我、我也會忘記的。它會被推出我的腦海，變回一無所知。但是它還是會在這裡，在我腦後。它絕對不會真的完全離開！對我如此，對我的作者如此，但對其他人我就不敢說了，還有……我、我不——//我不明白我自己的職掌。//我是怎麼做到這裡的？//我又為甚麼會在這裡？//答我啊！
+
+//赫奈斯的呼叫傳遍講場。除此之外，別無可聞。//
+
+//他頭上的聚光燈一瞬間變成暗紅色，照得他滿臉血光。他直視著燈光，紋絲不動。光芒在他的雙眼反映變色，轉藍、轉綠、再轉回紅，起初緩緩轉變，再隨之加速，以至劇烈。赫奈斯依然朝上凝望。經過半晌，燈光轉回先前的白熾。他一抖之下回神，若無其事地繼續說。// 
+ 
+接下來，最後一條、第三條支柱：
+
+我們假設可抵達的敘事層應有無限多個。在層與層之間必定又有另外一層，即便它們看起來完全沒有甚麼不同，正如我們前面所說，「疊層」只是個視覺化工具，幫助我們這些脆弱人腦理解更抽象的現象。敘事作為眾多頻率的頻譜存在，假如您被塞到了與當前疊層不同的位置，哪怕只距離原點一度上下，您的不和諧度就會瞬間竄升。您相對原點層「向上」走得越遠，您就顯得越不真實，您對那些位面本身的掌控度也就越弱。反過來說，如果您是「向下」去走，您對下層的掌控度就幾乎不受影響，但以您這個觀察者的角度來看，敘事仍會相對地較不真實，也因此，您向下走得越遠，那些敘事的意義就越來越弱。
 
 當然了，對於這種意義／可信度的喪失，有一個變通的方法：將作者實體寫進疊層，讓他代表您行事。任何您筆下的人物都不可能比您還要真實，這使他們能成為打入其他敘事層的理想代行者。他們就跟所有的角色／作者一樣，沒有太多自己的權利，除非他們的作者／角色讓他們能這麼做。
 
-同樣的，很少有角色能影響作者所在層，不過在較低的疊層發生率倒是會提高。這是因為在NBR值較低的敘事中生成人物時，使實體顯現所需的H-能量／認知子密度會比較小。大家都聽說過有實體向上攻擊他們的[[span class="ruby"]]斯旺型作者實體[[span class="rt"]]Swann author entities[[/span]][[/span]]的事，不過這些故事在設計上都有謬誤；我們拿[[[SCP-3812]]]舉例。
+同樣的，很少有角色能影響作者所在層，不過在「較低」的疊層發生率倒是會提高。這是因為在NBR值較低的敘事中生成人物時，使實體顯現所需的H-能量／認知子密度會比較小。大家都聽說過有實體向上攻擊他們的敘事外造物主的事，不過這些故事在設計上都有謬誤；我們拿[[[SCP-3812]]]舉例。
 
-您多找幾個人去問3812的事，肯定會有人告訴您「這個實體爬上了敘事層，攻擊在我們之上將它寫出來的作者」這種錯誤答案。我們是確信這個異常想要攻擊它的作者，但之後更可能發生的事情是，那位作者實體將代理作者塞進下位，然後代表他被打。這樣作者只要把3812寫進-2層，再把代理作者寫進-1層，然後讓3812（按照自己的意願）向上爬，他的目標就大功告成了。
+您多找幾個人去問3812的事，肯定會有人告訴您「這個實體爬上了敘事層，攻擊在我們之上將它寫出來的作者」這種錯誤答案。我們是確信這個異常想要攻擊它的作者，但之後更可能發生的事情是，那位作者實體將代理作者塞進下位，然後代表他被打。這樣作者只要把3812寫進-2層，再把代理作者寫進-1層，然後讓3812（按照自己的意願）向上爬，他的目標就大功告成了。然而，當您將視線放遠，就會發現-2層與-1層都因此是同一篇故事的一部分。-2層是之於-1層的後設敘事，那位實體也並沒有真的移出了作者意願的邊界以外。即使它真的攻擊了某個本應把它寫進去的存在也好。
 
-不過到了最後，一切都如作者所願，敘事存在的芸芸眾生根本無法沒有甚麼自我意願，當然他們或許會以為那些都出於自己的意願吧。只有被賦予人物的意圖才會是他們的意圖，這個意圖將會透過作者傳遞給造物，而那位作者又自其作者處接獲意圖，於是作者鏈就這麼形成了。
+不過到了最後，//一切//都如作者所願，而意願是會透過自我而被扭曲的。這道屏障就使得敘事存在的芸芸眾生相信自己有獨立於他們定位之外的自我意願。雖然他們或許會以為那些都出於自己的意願，但只有被賦予人物的意圖才會是他們的意圖，這個意圖將會透過作者傳遞給造物，而那位作者又自其作者處接獲意圖，於是作者鏈就這麼形成了。
 
-作者的意願是多元宇宙中唯一重要的東西；實際上您們當中的某些人可能已經注意到，您們的日常生活中存在很多不一致的地方。今天休謨指數是可靠的測量系統，第二天它就啥也不是了。這到底是怎麼回事？形上學部的某些人報告說某種基本力被被完全改變了，另一些人則認為則說他們發現了兩種[[[SCP-3125]]]，一個是[http://scp-zh-tr.wikidot.com/antimemetics-division-hub 致命的模因複合體]，另一個則是機掰大的巨無霸海星。好吧，您可以把這些當作作者怠慢的產物。又或者作者就是刻意想搞亂您們的連續性，或者他就想看兩條互相衝突的規則被引到一塊，他們完全可以這麼做，敘事將會為他而凝聚糾結。
+作者的意願是多元宇宙中唯一重要的東西；實際上您們當中的某些人可能已經注意到，您們的日常生活中存在很多不一致的地方。今天休謨指數是可靠的測量系統，第二天它就啥也不是了。這到底是怎麼回事？
+
+形上學部的某些人報告說某種基本力被完全改變了，另一些人則認為則說他們發現了兩種[[[SCP-3125]]]，一個是[http://scp-zh-tr.wikidot.com/antimemetics-division-hub 已死的模因複合體]，另一個則是機掰大的巨無霸海星。好吧，您可以把這些當作作者怠慢的產物。又或者作者就是刻意想搞亂您們的連續性，或者他就想看兩條互相衝突的規則被引到一塊，他們完全可以這麼做，敘事將會為他而凝聚糾結。
 
 不過也別太埋怨作者，畢竟他們也是由作者的作者使役。那些作者的作者上頭自然還有作者，沒完沒了。
 
 並且是的，這意味著沒有任何生命擁有自由意志與決定權，就連我們自己也不例外。我們只是無限作者創作鏈中的其中一環，是連鎖創造世界嵌套的其中一層，一旦媒介被破壞就會瞬間灰飛煙滅。
 
-說到這點，您可能會因為這些資訊而感到痛苦甚至絕望。如果您有這種感覺那就先擔著吧，因為您們剛剛吃的糕點和咖啡其實加入了輕微的抗焦慮劑，是甚麼西泮或甚麼唑侖之類的東西，很溫和的。應該不會有問題，除非您們喝了太多，對——您嗎？還有——//一，二，三，四//，四個。喔好，您們五個，先暫且過去走廊盡頭的醫療室吧。讓我看看我的手錶啊。
+說到這點，您可能會因為這些資訊而感到痛苦甚至絕望。如果您有這種感覺那就先撐著吧，因為您們剛剛吃的糕點和咖啡其實加入了輕微的抗焦慮劑，是甚麼西泮或甚麼唑侖之類的東西，很溫和的。應該不會有問題，除非您們喝了太多，對——您嗎？還有——//一，二，三，四//，四個？喔好，您們五個，先暫且過去走廊盡頭的醫療室吧。讓我看看我的手錶啊。
 
 好的，對，您們不會有事的。只要快點去就沒問題。
 
-不用擔心太多。我確定這總會比強力的致幻劑要更好，雖然如果我借了其他跟我們以前在[[span class="ruby"]]綠型[[span class="rt"]]Type Green[[/span]][[/span]]講座給聽眾那些在給藥途徑不一樣的東西，那我就失職了。我蠻確定您們有聽過那些[http://scp-zh-tr.wikidot.com//clef101 故事]，光是那精神醫療的費用啊——
+不用擔心太多。我確定這總會比強力的致幻劑要更好，雖然如果我借了其他跟我們以前在[[span class="ruby"]]綠型[[span class="rt"]]Type Green[[/span]][[/span]]研討會給聽眾那些在給藥途徑不一樣的東西，那我就失職了。我蠻確定您們有聽過那些[http://scp-zh-tr.wikidot.com//clef101 故事]，光是那精神醫療的費用啊——
 
-［咳］——無論如何，我打算換個話題，說一下敘事的物理結構。我們都至少知道一些典型的基本粒子是我們認為構成了我們的現實：光子、夸克、玻色子之類的。其實，那些粒子是一個現實的投影，您們可以當作是一個全像投影。那些粒子在敘事位面的實際演繹沒太大關係，只因為那是在三維空間裡的折衷。我們現在要看的則是敘性論式基本粒子的列表。當中有很多用來將敘事表達成一個特定的格式，以儘可能輕易地準確再現它所攜帶的資訊。諸如[[span class="ruby"]]符素[[span class="rt"]]Glypheme[[/span]][[/span]]、[[span class="ruby"]]姿語素[[span class="rt"]]Chereme[[/span]][[/span]]、[[span class="ruby"]]辭位素[[span class="rt"]]Lexeme[[/span]][[/span]]的粒子是特定媒介的基本單位，分別對應到文字、手語、語音。
+//赫奈斯咳了咳，換了話題。//
 
+無論如何，我打算換個話題，說一下敘事的物理結構。我們都至少知道一些典型的基本粒子是我們認為構成了我們的現實：光子、夸克、玻色子之類的。其實，那些粒子是一個現實的投影，您們可以當作是一個全像投影。那些粒子在敘事位面的實際演繹沒太大關係，只因為那是在三維空間裡的折衷。我們現在要看的則是敘性論式量子的列表。當中有很多用來將敘事表達成一個特定的格式，以儘可能輕易地準確再現它所攜帶的資訊。諸如[[span class="ruby"]]符素[[span class="rt"]]Glypheme[[/span]][[/span]]、[[span class="ruby"]]姿語素[[span class="rt"]]Chereme[[/span]][[/span]]、[[span class="ruby"]]音素[[span class="rt"]]Phoneme[[/span]][[/span]]的量子化能量場是特定媒介的基本單位，分別對應到文字、手語、語音。
+@@
+@@
+@@
+@@
 [[include :scp-wiki:component:image-features-source |click-fullscreen=--]
-|speed=300
+|speed=300 
 |float=true
 |align=left
 |width=900px
-|url=https://i.imgur.com/uFfDGVy.png
+|url=https://i.imgur.com/UquRNbb.png
 |add-caption=false
 |caption=text
 ]]]
+@@
+@@
+@@
+@@
+這張表是專有的，而且會時刻演變。我們會隨著作者的學習與傳達而得到知識。這是因為如果我們作者的作者會憑空把資料交給他們的角色，這件事本身實在太不可能去相信。它必須感覺起來真實。它必須//是//真實。
 
-H-能量和認知子在這討論當中是最重要的元素。H-能量，又稱為[[span class="ruby"]]外史能量[[span class="rt"]]Headcanon Energy[[/span]][[/span]]，在創造與鞏固世界的時候發揮作用，也是從[[span class="ruby"]]認知子[[span class="rt"]]Cognitron[[/span]][[/span]]——思想的基本單位——衍生過來的。認知子會在苦惱情緒出現期間自創意儲備一併產出，在其他各種情況也會發生但較少見，而這些儲備通常會用在生成內在地景之上。在生成敘事基底的時候，認知子轉換成H-能量的時候也產生了[[span class="ruby"]]正史位勢[[span class="rt"]]Canonical potential[[/span]][[/span]]，有助以集中的力量將那些世界鞏固在特定媒介。
+//鏡頭稍為失焦，但在一陣子之後回復清晰。//
 
-我的描述做了過度的簡化，畢竟反粒子產生與本研討會並無特別關係，不過H-能量轉化為[[span class="ruby"]]敘素[[span class="rt"]]Narreme[[/span]][[/span]]的方式，再加上因應媒介不同而比例各異的[[span class="ruby"]]意理素[[span class="rt"]]Ideologeme[[/span]][[/span]]、[[span class="ruby"]]辭位素[[span class="rt"]]Lexeme[[/span]][[/span]]、[[span class="ruby"]]音素[[span class="rt"]]Phoneme[[/span]][[/span]]、[[span class="ruby"]]辭形素[[span class="rt"]]Morpheme[[/span]][[/span]]、[[span class="ruby"]]圖素[[span class="rt"]]Grapheme[[/span]][[/span]]，這一點倒是值得一提。多餘的H-能量將失去勢能，然後還原回認知子，儲存回系統中以供下次使用。如果故事儲存在數位媒介中，它的基本組成將轉存為位元，直到被上述的媒介調用為止。
+這些量子並不算是真正的粒子，而更多是以離散的區域代表的能量場，現象就發生在那裡，而我們//知道//那些現象正在發生。但是。就像波粒二象性的典型特徵、觀察者效應，諸如此類，我們沒辦法在不改變那些力量的情況下觀測它們。它們的精確位置是模糊的，對我們而言一直未知。它們依照仍然正確的測量資料，是在物理上以球形區域表示。就如各位所見——
 
-敘素可以組合成稱為//[[span class="ruby"]]手法[[span class="rt"]]Tropes[[/span]][[/span]]//的複合體，並根據媒介的不同構成更多組合——從辭位素到[[span class="ruby"]]短語素[[span class="rt"]]Phraseme[[/span]][[/span]]，從音素到[[span class="ruby"]]音節素[[span class="rt"]]Diaphoneme[[/span]][[/span]]，從意理素到[[span class="ruby"]]思想[[span class="rt"]]Ethos[[/span]][[/span]]等等。//手法//與敘素合成的片段叫做//[[span class="ruby"]]述體[[span class="rt"]]Sujet[[/span]][[/span]]//。敘事在運行時間內的進展速度叫做//[[span class="ruby"]]節奏率[[span class="rt"]]Pacing[[/span]][[/span]]//，可以透過計算每個述體的[[span class="ruby"]]時間子[[span class="rt"]]Chronon[[/span]][[/span]]密度而得。
+//赫奈斯按了一下遙控器，臉上隨即顯得困惑。他從未見過這頁投影片，看來是新的。他很快地跳過它，另一頁新的投影片隨即取代。//
 
-認知子的密度呈指數式下降，意味著後續嵌套敘事的敘素就會減少，故事就會愈不完備、也在敘事性上愈不真實；意理素減少，令這些敘事在可信性上更不真實；及／或符素、姿語素、辭位素的減少，讓這些敘事的真實度下降。儘管如此，上層作者能夠隨時利用H-能量從高位的系統向下的流動，在系統上投入更多認知子提高其可信性／真實性。
+甚麼——
 
-各位唯一要記的反粒子重點是，這種粒子就是一切危害的成因。我們仍然不知道異常//為甚麼//或//如何//能操縱反粒子，但我們能確定，危害的產生就是源於反粒子的交叉作用，例如[[span class="ruby"]]反敘素[[span class="rt"]]Antinarreme[[/span]][[/span]]造成[[span class="ruby"]]敘事危害[[span class="rt"]]Narrativohazards[[/span]][[/span]]；[[span class="ruby"]]反模因[[span class="rt"]]Antimeme[[/span]][[/span]]造成[[span class="ruby"]]模因危害[[span class="rt"]]Memetic Hazard[[/span]][[/span]]；[[span class="ruby"]]符碼粒[[span class="rt"]]Iconomere[[/span]][[/span]]造成[[span class="ruby"]][http://scp-zh-tr.wikidot.com/scp-7079 符號危害][[span class="rt"]]Iconohazard[[/span]][[/span]]；[[span class="ruby"]]反語義素[[span class="rt"]]Antisemiome[[/span]][[/span]]造成[[span class="ruby"]]語義危害[[span class="rt"]]Semiohazards[[/span]][[/span]]，由此類推。
+//他再切換投影片。下一頁差不多地陌生。他繼續再切換六次，拒絕閱讀內容，本身亦沒有事先準備任何討論它們的台詞。然而，您們可以僅僅在他跳到下一頁之前看清內容。//
+@@
+@@
+@@
+@@
+[[include :scp-wiki:component:image-pager |css=-- |alt=alt
+|p1=-- |img1=https://i.imgur.com/XxK1yzF.png |alt-text1=Alt text for image 1.
+             
+|p2=-- |img2=https://i.imgur.com/cLIKuvt.png |alt-text2=Alt text for image 2.
+             
+|p3=-- |img3=https://i.imgur.com/41xtKuP.png |alt-text3=Alt text for image 3.
+             
+|p4=-- |img4=https://i.imgur.com/WQa7EFd.png |alt-text4=Alt text for image 4.
+             
+|p5=-- |img5=https://i.imgur.com/SS9omnf.png |alt-text5=Alt text for image 5.
+             
+|p6=-- |img6=https://i.imgur.com/ephqMdy.png |alt-text6=Alt text for image 6.
+             
+|p7=-- |img7=https://i.imgur.com/xB7Fbgw.png |alt-text7=Alt text for image 7.
+             
+|p8=-- |img8=https://i.imgur.com/3WlI4It.png |alt-text8=Alt text for image 8.
+             
+|p9=-- |img9=https://i.imgur.com/SQUKgW4.png |alt-text9=Alt text for image 9.
+]]
 
-儘管H-能量負責創造設定與世界，但它也能使故事元素變得稍微「真實」一些。這需要相當大的努力與集體的腦力激盪，不過理論上確實有可能憑藉充分的相信，導致某個概念無中生有的成真。我將此過程稱為「[[span class="ruby"]]心靈顯現[[span class="rt"]]Psychogenesis[[/span]][[/span]]」，這會需要眾多作者同時並持續的輸出認知子。當一個想法經歷了心靈顯現，其造物（在我們的標準理解中）就稱作「[[span class="ruby"]]思想形[[span class="rt"]]Thoughtform[[/span]][[/span]]」或「[[span class="ruby"]]圖帕[[span class="rt"]]Tulpa[[/span]][[/span]]」——基本上就是集中信念在現實中的具現。
+@@
+@@
+@@
+@@
+//此後，投影片跳回那一組的第一頁。可以聽到有人站起離開講場，但鏡頭依然指向赫奈斯。他滿臉通紅，困惑地眨了幾次眼（亦或是出於求救，但那只是猜想）。//
 
-抱歉，到了最後才跟您們說，我其實也不那麼確定這些是不是全都是真的。我的意思是，我知道這些都是真的，但那是直到幾秒鐘前才發生的事。這就是問題所在對嗎？肯定是有甚麼人給了我這些想法，就正如有人把我塞到[[span class="ruby"]]敘性論學識計劃[[span class="rt"]]Narrativistics' Erudition Project[[/span]][[/span]]一樣。我不知道那是誰，但有天我醒來就被升到這位置了。當然這怪極了，還沒有這研討會那麼怪。您們可有誰記得自己來這之前都幹了些甚麼？有誰？我不知道。
+咳咳，對。
 
-這就是敘性論的作用。敘性論就是我在這裡辦研討會的原因，也是您們這些人都沒有臉能看的原因。我直到剛剛才意識到這點，您們全部都是背向著我的，而這樣沒問題。
+H-能量、[[span class="ruby"]]認知子[[span class="rt"]]Cognitron[[/span]][[/span]]、[[span class="ruby"]]知識素[[span class="rt"]]Knoleme[[/span]][[/span]]，它們是在創作過程當中、以及在這討論當中，是最重要的元素。H-能量，又稱為[[span class="ruby"]]外史能量[[span class="rt"]]Headcanon Energy[[/span]][[/span]]，在創造與鞏固世界的時候發揮作用。它遍佈所有的現實，以如鏈子一般流過我們思想的河流之形存在，流往一個方向。它隨後轉換成認知子——思想的基本單位。認知子會在情緒體驗期間——通常是負面情緒——自創意儲備一併產出，在其他各種情況也會發生但較少見。認知子再轉換成為稱作[[span class="ruby"]]基模[[span class="rt"]]Schema[[/span]][[/span]]的知識素，由原始意念單位的八種味構成。當這些基模用於生成敘事基底的時候，附隨的創意慣性有助以集中的力量將那些世界鞏固在特定媒介。
+
+我的描述再次做了過度的簡化，但是那些知識素會轉換成諸如[[span class="ruby"]]敘素[[span class="rt"]]Narreme[[/span]][[/span]]、[[span class="ruby"]]模因[[span class="rt"]]Meme[[/span]][[/span]]、[[span class="ruby"]]義素[[span class="rt"]]Seme[[/span]][[/span]]、[[span class="ruby"]]文化素[[span class="rt"]]Cultureme[[/span]][[/span]]的意念單位，以及一個由各種溝通現象構成的組合，例如[[span class="ruby"]]辭位素[[span class="rt"]]Lexeme[[/span]][[/span]]、[[span class="ruby"]]音素[[span class="rt"]]Phoneme[[/span]][[/span]]、[[span class="ruby"]]辭形素[[span class="rt"]]Morpheme[[/span]][[/span]]，諸如此類，視乎媒介而定。這些敘事帶來的體驗產生[[span class="ruby"]]情感[[span class="rt"]]//Pathos//[[/span]][[/span]]，或是情緒反應，由[[span class="ruby"]]價值素[[span class="rt"]]Valeme[[/span]][[/span]]與[[span class="ruby"]]喚起素[[span class="rt"]]Rouseme[[/span]][[/span]]代表，最終變換成為觀眾腦內的H-能量，容後使用。如果故事儲存在數位媒介中，它的基本組成將轉存為位元，直到被上述的媒介調用為止。
+
+敘素可以組合成稱為//[[span class="ruby"]]手法[[span class="rt"]]Devices[[/span]][[/span]]//、//[[span class="ruby"]]橋段[[span class="rt"]]Tropes[[/span]][[/span]]//、//[[span class="ruby"]]主題[[span class="rt"]]Themes[[/span]][[/span]]//的複合體，並根據媒介的不同構成更多組合——從[[span class="ruby"]]辭形素[[span class="rt"]]Morphemes[[/span]][[/span]]到[[span class="ruby"]]短語素[[span class="rt"]]Phraseme[[/span]][[/span]]，從音素到[[span class="ruby"]]二聚音素[[span class="rt"]]Diaphoneme[[/span]][[/span]]、[[span class="ruby"]]三聚音素[[span class="rt"]]Triphoneme[[/span]][[/span]]等等。
+
+各種手法與敘素合成的片段叫做//[[span class="ruby"]]述體[[span class="rt"]]Sujet[[/span]][[/span]]//。而//[[span class="ruby"]]時序[[span class="rt"]]Fabula[[/span]][[/span]]//，又或一條完整的世界線，隨著//[[span class="ruby"]]節奏率[[span class="rt"]]Pacing[[/span]][[/span]]//在述體之中運行進展，這速度可以透過計算每個述體的[[span class="ruby"]]時間子[[span class="rt"]]Chronon[[/span]][[/span]]密度而得。這種力稱為//[[span class="ruby"]]連貫性[[span class="rt"]]Continuity[[/span]][[/span]]//，而連貫性自然且合理的進展則稱為//[[span class="ruby"]]敘事凝聚[[span class="rt"]]Narrative Cohesion[[/span]][[/span]]//。這就我們所知，和[[span class="ruby"]]因果[[span class="rt"]]Causality[[/span]][[/span]]是同一個意思。另一方面，//[[span class="ruby"]]敘事因果[[span class="rt"]]Narrative Causality[[/span]][[/span]]//則與例如共時性、偶然性、舞台機關送神、主角威能之類的本體概念有關。這些概念在濫用時會衝擊到敘事的可信性，減弱相對較為真實的現實所感知得到的像真性。
+
+在敘事內觀測到H-能量呈指數式下降，意味著後續的嵌套時序所具有的潛在量子密度就會減少。
+
+關於反量子的一項重點是，這種量子就是一切危害的成因。我們仍然不知道異常//為甚麼//或//如何//形成，也不知道它們如何操縱反量子的密度，但我們能確定，危害的產生就是源於反量子的交叉作用，例如[[span class="ruby"]]反敘素[[span class="rt"]]Antinarreme[[/span]][[/span]]造成[[span class="ruby"]]敘事危害[[span class="rt"]]Narrativohazards[[/span]][[/span]]；[[span class="ruby"]]反模因[[span class="rt"]]Antimeme[[/span]][[/span]]造成[[span class="ruby"]]模因危害[[span class="rt"]]Memetic Hazard[[/span]][[/span]]；[[span class="ruby"]]符碼粒[[span class="rt"]]Iconomere[[/span]][[/span]]造成[[span class="ruby"]][http://scp-zh-tr.wikidot.com/scp-7079 符號危害][[span class="rt"]]Iconohazard[[/span]][[/span]]；[[span class="ruby"]]反義素[[span class="rt"]]Antiseme[[/span]][[/span]]造成[[span class="ruby"]]語義危害[[span class="rt"]]Semiohazards[[/span]][[/span]]，由此類推。
+
+儘管H-能量大致上負責創造設定與世界，但它也能使故事元素變得稍微「真實」一些。這需要相當大的努力與集體的腦力激盪，不過理論上確實有可能憑藉充分的相信，導致某個概念無中生有的成真。我將此過程稱為「[[span class="ruby"]]心靈顯現[[span class="rt"]]Psychogenesis[[/span]][[/span]]」，這會需要眾多作者同時並持續的自行生成設定。當一個想法經歷了心靈顯現，其造物（在我們的標準理解中）就稱作「[[span class="ruby"]]思想形[[span class="rt"]]Thoughtform[[/span]][[/span]]」或「[[span class="ruby"]]圖帕[[span class="rt"]]Tulpa[[/span]][[/span]]」——基本上就是集中信念在現實中的具現。
+
+抱歉，到了最後才跟您們說，我其實也不那麼確定這些是不是全都是真的。我的意思是，我知道這些都是真的，但那是直到幾秒鐘前才發生的事，這也絕對會意味著我們的現實正受到我們作者的作者影響。這也使得我們的作者成為了一位角色，我們的世界成為一個後設敘事。這不會帶來任何改變。我的頭好痛。我要回家，但我不知道有沒有家了、或是曾經有過家。
+
+這就是問題所在對嗎？肯定是有甚麼人給了我這些想法，就正如有人把我塞到[[span class="ruby"]]敘性論學識計劃[[span class="rt"]]Narrativistics' Erudition Project[[/span]][[/span]]一樣。我不知道那是誰，但有天我醒來就被升到這位置了。當然這怪極了，還沒有這研討會那麼怪。您們可有誰記得自己來這之前都幹了些甚麼？//有誰？//我不知道。我記得……我在幕後。我記得之前辦過這研討會。但我忘了在哪裡、哪時。是這裡嗎？一直以來都在這裡嗎？
+
+這就是敘性論的作用。敘性論就是我在這裡辦研討會的原因，一而再、再而三，也是您們這些人都沒有臉能看的原因。我直到//剛剛//才意識到這點，您們全部都是背向著我的，而這樣沒問題。
 
 而我決定無視這種展開，並在被這些瑣事纏住之前直奔結語。您們看得愈近，就會愈意識到自己當初就不想知道這些。儘管如此，好消息和壞消息，我們都照單全收了，這都是大局的一部分，我肯定您們現在都已經知道了，對吧？
 
-[[div class="imok" style="color:#06141F; font-size:85%;"]]
-［五秒的沉默。赫奈斯的目光左右遊移，再望向上。少頃，他往地板俯視凝主。複雜而矛盾的情感凝集成為困感。這不是不可忍受的，卻會令人乏力。我他媽累爆了。那些真是我的感受嗎？真是我的想法嗎？為甚麼所有東西都感覺這麼熟悉？我聽過這聲音，像鐘聲，殘響交疊，網羅一切，帶著未知存在給予的意圖。在正中央，我自己，一個傳導者，廣播著受我影響的，我的意念與夢境。人物、文明、全世界，各自活在他們的人生，個個都獨特而與我眼中自己的人生一樣同等真實。是恐怖的。恐怖在他們盡信了這一切，感受著每一刻，卻仍在我今早一覺醒來的時候不復存在。在突觸激發之間那一剎那，這一切的功業全都化為烏有。但我仍然在這裡。他們不值得受這樣的結局。這公平嗎？公平嗎！？］
+[[div class="imok" style="color:#050404; font-size:85%;"]]
+//五秒的沉默。赫奈斯的目光左右遊移，再望向上。少頃，他往地板俯視凝望。複雜而矛盾的情感凝集成為困惑。這不是不可忍受的，卻會令人乏力。我他媽累爆了。那些真是我的感受嗎？真是我的想法嗎？為甚麼所有東西都感覺這麼熟悉？我聽過這聲音，像鐘聲，殘響交疊，網羅一切，帶著未知存在給予的意圖。在正中央，我自己，一個傳導者，廣播著受我影響的，我的意念與夢境。人物、文明、全世界，各自活在他們的人生，個個都獨特而與我眼中自己的人生一樣同等真實。是恐怖的。恐怖在他們盡信了這一切，感受著每一刻，卻仍在我今早一覺醒來的時候不復存在。在突觸激發之間那一剎那，這一切的功業全都化為烏有。但我仍然在這裡。他們不值得受這樣的結局。這公平嗎？公平嗎！？//
 [[/div]]
 
-全都是大局的一部分。
+全部……都是大局的一部分。
 
 
-[[div class="imok" style="color:#06141F; font-size:85%;"]]
-［我見證了三千大千世界之死，但它們只在行刑後的頃刻從我的記憶消退。諸行無常。伺服器的毀壞，一尊神明的記憶裡增長的空隙，擦去鉛筆跡的橡皮擦。火燒、水蝕。再過多久，就會發生在我的身上？您們的身上？］
+[[div class="imok" style="color:#050404; font-size:85%;"]]
+//我見證了三千大千世界之死，但它們只在行刑後的頃刻從我的記憶消退。諸行無常。伺服器的毀壞，一尊神明的記憶裡增長的空隙，擦去鉛筆跡的橡皮擦。火燒、水蝕。再過多久，就會發生在我的身上？您們的身上？//
+
+
+//我們都在這裡存在，直到不再如是。//
+
 [[/div]]
 
 
 @@ @@
 
-所、所以——哇喔——呃、我、呃、靠。抱歉。有一會恍神了……吧？［停頓］有、有人有那種感覺嗎？那……嗯。啊，罷了。
+所、所以——我之前、呃、我、呃、靠。抱歉。有一會恍神了……吧？有、有人有那種感覺嗎？那……嗯。啊，罷了。
 
-行，行。就讓我——［呼氣］
+行，行。就讓我——
 
-下個總結：［停頓］敘性論是超形上學超集合模型的多元宇宙理論。它假設所有故事對人物來說都同樣真實，對觀察者而言也相對真實。所有的理論、設定、故事無論好壞與是否可信，在某種程度上都是存在的。就算是情節漏洞與不相容交叉聯繫都能獲得解釋。作者的意圖是唯一重要的事物。如果我寫了兩個不相容的故事卻要它們聯繫，它們就會奇蹟般的聯繫在一起，但就只有我自己寫的孤立小敘事泡沫中才會這樣。要是有人寫了個刻意無視敘性論的故事，它仍會在敘性論的作用下有效，這是因為那個疊層仍然存在，不過是在其他的某個地方就是了。這個框架並不局限於任何一條時間線，也不局限於SCP基金會存在並死在其中的多重宇宙部分。它本身不是一個敘事，這次研討會只是在這一刻傳達敘性論的一個敘事基底，但它的起源是比我自己更為實在的，在這一方面也甚至比我的作者更為實在。
+//又一回深呼吸，又呼了一口長氣。//
 
-敘性論是敘述因果關係的大一統框架，它包括了所有故事，無論來自真實或想像，來自未來或從前，來自SCP或非SCP，來自您的故事或我的故事，甚至是遠在天邊眾神的故事與所有一切的故事。
+下個總結：敘性論是超形上學超集合模型的多元宇宙理論。它假設所有故事對人物來說都同樣真實，對觀察者而言也相對真實。
 
-而現在，我回到了回憶中的敘事邊緣空間，在這個空間我是存在的，但聽眾並不存在。我正在對著一堵空牆壁說話。這並沒有任何問題。
+所有的理論、設定、故事無論好壞與是否可信，在某種程度上都是存在的。就算是情節漏洞與不相容交叉聯繫都能獲得解釋。作者的意圖是唯一重要的事物。如果我寫了兩個不相容的故事卻要它們聯繫，它們就會奇蹟般的聯繫在一起，但就只有我自己寫的孤立小敘事泡沫中才會這樣。要是有人寫了個刻意無視敘性論的故事，它仍會在敘性論的作用下有效，這是因為那個位面仍然存在，不過是在其他的某個地方就是了。這個雙重後設框架並不局限於任何一條時間線，也不局限於SCP基金會存在並死在其中的多重宇宙部分。它本身不是一個敘事，這次研討會只是在這一刻傳達敘性論的一個敘事基底，但它的起源是比我自己更為實在的，在這一方面也甚至比我的作者更為實在。重點就在把我們從集體的夢中喚醒的事物，因為您未曾入睡的話就不能醒來，而您生來作夢的話就不能入睡。
 
-晚安。
+敘性論是敘述因果關係的大一統框架，它包括了所有故事，無論來自真實或想像，來自未來或從前，來自SCP或非SCP，來自您的故事或我的故事，甚至是遠在天邊眾神的故事、小至腳下微塵的故事、存在莊嚴感之下集體意識的故事、單細胞生物稍蹤即逝的白日夢、與所有一切的故事。萬物、眾人，都在其中。
 
+而現在，我回到了回憶中的敘事邊緣空間，在這個空間我是存在的，但聽眾並不存在。我正在對著一堵空牆壁說話。這並沒有任何問題。研討會到此為止。
 
+晚安——//喔//——
 
-
-
-
-
-
-
+//赫奈斯踏進了舞台中央的地板門。他大叫著，叫聲隨著他的身軀沉到底下的空間而漸漸變遠。叫聲戛然而止。地板底下無光，開口只餘一個靜謐的虛空回視觀眾。研討會到此為止。//
+@@ @@
+//一切必有終止。//
+@@ @@
+//觀眾退去。摺疊椅疊回講堂遠方在舞台對面的牆邊。這段詭異的時刻經過多久？一陣無人可覺的遠方搖撼。研討會到此為止。//
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+//黑暗蓋過舞台。//
 [[/<]]
 
 [[/div]]
-
 
 @@ @@
 [[include :scp-zh-tr:component:license-box
 |lang=EN
 |author=Billith
 |translator=Frederica Bernkastel、Edward_Knave]]
-=====
 > **圖檔名稱：** NASA.jpg
 > **圖像名稱：** NASA
 > **圖像作者：** NASA, ESA, H. Teplitz and M. Rafelski (IPAC/Caltech), A. Koekemoer (STScI), R. Windhorst (Arizona State University), and Z. Levay (STScI)
 > **圖像授權協議：** 公有領域
 > **圖源連結：** [https://commons.wikimedia.org/wiki/File:NASA-HS201427a-HubbleUltraDeepField2014-20140603.jpg 維基共享資源]
-=====
-> **圖檔名稱：** narra.png
-> **圖像名稱：** narra
-> **圖像作者：** Billith
-> **圖像授權協議：** CC BY-SA 4.0
-> **圖源連結：** https://scp-wiki.wdfiles.com/local--files/narrativistics-and-you/*
-=====
-> **圖檔名稱：** 0.5.png,1.0.png,1.6.png,2.0.png,2.5.png
-> **圖像名稱：** 0.5,1.0,1.6,2.0,2.5
+
+
+> **圖檔名稱：** 0.5.png,1.0.png,1.6.png,2.0.png,2.5.png, qq.png, narra.png, new1.png, new2.png, new3.png, new4.png, new5.png, new6.png, new7.png, new8.png, new9.png, bib.png
+> **圖像名稱：** 0.5.1.0,1.6,2.0,2.5,narra, qq, new1, new2, new3, new4, new5, new6, new7, new8, new9, bib
 > **圖像作者：** Billith
 > **圖像授權協議：** CC BY-SA 4.0
 > **圖源連結：** https://scp-wiki.wdfiles.com/local--files/narrativistics-and-you/*
 > **圖像內文翻譯：** Edward_Knave
-> **圖像譯本名稱：** Narrativistic_0.5,Narrativistic_1.0,Narrativistic_1.6,Narrativistic_2.0,Narrativistic_2.5
-> **譯本圖源名稱：** GXFJ1ZZ.png,bmeL8kw.png,uFfDGVy.png,83fQZoq.png,uhyPMKI.png
+> **圖像譯本名稱：** Narra1ZH,Narra2ZH,Narra3ZH,Narra4ZH,Narra5ZH,Narra6ZH,NarraqqZH,Narranew1ZH,Narranew2ZH,Narranew3ZH,Narranew4ZH,Narranew5ZH,Narranew6ZH,Narranew7ZH,Narranew8ZH,Narranew9ZH
+> **譯本圖源名稱：** gMNiqjd.png,rMF9sNQ.png,bC10fRe.png,peJ3mIo.png,1o1QuFP.png,UquRNbb.png,XxK1yzF.png,cLIKuvt.png,41xtKuP.png,WQa7EFd.png,SS9omnf.png,ephqMdy.png,xB7Fbgw.png,3WlI4It.png,SQUKgW4.png
 > **譯本圖源連結：** https://i.imgur.com/*
-=====
 [[include :scp-zh-tr:component:license-box-end]]
 [[=]]
 [[span style="color:transparent; font-size:50%;"]]如果您看到這條訊息，那是因為基金會已經成功無力化了您現時的宇宙外史最強大的實體。對不起／不用謝，那規則也不是我定的。其實，我只不過用了我找到的這把槍而已，易如反掌。[[/span]]
