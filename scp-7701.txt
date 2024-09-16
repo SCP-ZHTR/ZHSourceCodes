@@ -1,0 +1,404 @@
+[[include component:scp-meta-title-hiding css-style=classic]]
+=====
+[[include component:preview
+text=為什麼這裡就結束了？
+]]
+=====
+
+[[div style="display: none;"]]
+[[include component:image-block
+name=https://scp-wiki.wdfiles.com/local--files/scp-7701/7701-Thumbnail.png
+|caption=征服者蠕蟲
+|width=100%
+|align=center]]
+[[/div]]
+
+[[include :scp-zh-tr:theme:black-highlighter-theme]]
+[[include :scp-zh-tr:component:centered-header-bhl]]
+[[include :scp-zh-tr:component:toggle-sidebar-bhl]]
+[[include :scp-zh-tr:component:acs-animation]]
+
+[[module css]]
+
+#page-content .info-container {
+    --link-color: rgb(var(--swatch-text-general));
+}
+
+#page-content .info-container .collapsible-block-link,
+#page-content .info-container:hover .collapsible-block-link {
+    line-height: 1.6em;
+}
+
+#page-content .info-container .collapsible-block-folded,
+#page-content .info-container .collapsible-block-unfolded-link {
+    display: grid;
+}
+
+#page-content .info-container .collapsible-block-folded .collapsible-block-link,
+#page-content .info-container .collapsible-block-link {
+    -webkit-mask: unset;
+            mask: unset;
+    background: transparent;
+    grid-column: 1;
+    grid-row: 1;
+    opacity: 0;
+}
+
+#page-content .info-container .collapsible-block-folded::before,
+#page-content .info-container .collapsible-block-unfolded-link::before {
+    --wght: 800;
+    content: "ETC";
+    color: #FFFFFF;
+    font-family: Inter, Arimo, Verdana, Geneva, "Helvetica Neue", "Helvetica", Arial, sans-serif;;
+    display: block;
+    pointer-events: none;
+    grid-column: 1;
+    grid-row: 1;
+    line-height: 2.75ex;
+}
+
+.top-left-box > .item {
+  display: none;
+}
+
+[[/module]]
+
+[[include component:info-ayers
+|lang=zh
+|page=scp-7701
+|authorPage=https://scp-wiki.wikidot.com/MontagueETC
+|comments=
+
+= **SCP-7701** -- //征服者蠕蟲//
+
+-----
+
+= **[https://www.youtube.com/watch?v=apce5DngfZk 推薦的閱讀用音樂]**
+
+-----
+
+= **內容警告：** 暴力、中度血肉塊、明確的自殘行為以及自殺。
+
+]]
+
+= ⚠️ 內容警告 ↑
+
+[[include info:start]]
+原文：[https://scp-wiki.wikidot.com/scp-7701 SCP-7701]
+作者：[[*user MontagueETC]]
+譯者：[[*user Halewen]]
+[[include info:end]]
+
+[[include component:anomaly-class-bar-source
+|item-number= SCP-7701
+|clearance= 3
+|container-class= keter
+|secondary-class= none
+|disruption-class= vlam
+|risk-class= danger
+]]
+
+-----
+
+[[include component:image-block
+| name=https://scp-wiki.wdfiles.com/local--files/scp-7701/Theatre.png
+| caption=SCP-7701
+| width=100%
+| align=center]]
+
+@@ @@
+
+[[=]]
+++++ **Special Containment Procedures**
+++++ **特殊收容措施**
+[[/=]]
+
+與SCP-7701相連的房間已被圍牆圍起，以隔絕此房間與摩爾多瓦共和國總統府的其餘部分。此房間的位置也已自所有總統府建築藍圖的公共副本中移除。
+
+SCP-7701內的攝像機將紀錄發生的「表演事件」，並自動抄錄其內容。NOUS.AIC應持續簡化抄錄內容，直到其中的信息危害內容都已被移除。當有人的認知受到SCP-7701感染時，阻擋SCP-7701通道的圍牆將被暫時撤下，以把感染者的屍體埋於SCP-7701舞台下方。
+
+@@ @@
+
+[[=]]
+++++ **描述**
+[[/=]]
+
+SCP-7701是一座破舊的地下劇場，位於摩爾多瓦，奇西瑙的大國民議會廣場[[footnote]]譯註：原名Great National Assembly Square。[[/footnote]]地下56公尺處。項目被發現於1964年，當時在總統府建成後於地下室發現了一條未知的通道。那時摩爾多瓦[[footnote]]其名稱當時為「摩爾達維亞蘇維埃社會主義共和國」[[/footnote]]仍是蘇聯的共和國，[[[gru-p-hub |格魯烏"P"部門]]]很快注意到人口失蹤與發現SCP-7701之間的關聯，並開始試圖收容。SCP-7701與其他異常在蘇聯解體後被納入基金會管轄中。
+
+[[include component:image-block
+| name=https://scp-wiki.wdfiles.com/local--files/scp-7701/Actor.png
+| caption=SCP-7701-B入口，表演中途。
+| width=300px
+| align=right]]
+
+SCP-7701「表演事件」平均一個月發生一次。一場「表演事件」由四個階段組成：
+
+**階段1：**9-48名SCP-7701-A實例顯現於SCP-7701內的座位，並被鐵鍊綁於椅子上。SCP-7701-A實例為無明顯性徵的裸體灰色人形，且缺乏任何形式的性器官，這些實例的肩胛骨之間有一對經燒灼的樹樁從中突出。它們的頭被帆布袋包住，而上面沾有一種散發著香味的未確認黑色物質。
+
+SCP-7701-A實例會在事件期間安靜地抽搐，並低聲發出時長不一的呻吟聲。目前仍無法確定這些呻吟聲的情緒性質（傷心、痛苦、愉悅等等）。遠距離能量掃描顯示當每個SCP-7701-A實例顯現時，會每秒產生約32-48釐阿奇瓦輻射。[[footnote]]直接服侍神性實體的實例平均每秒產生60-75釐阿奇瓦輻射。[[/footnote]]
+
+**階段2：**3-15位SCP-7701-B實例顯現於舞臺後。SCP-7701-B實例為穿著類似威尼斯化裝舞會服裝的人形實體。這些實例以一種抽搐、懶散以及如同提線木偶般的方式移動，並說著義大利語、羅馬尼亞語、法語和通俗拉丁語的混和語言。
+
+**階段3：**SCP-7701-B實例將上演一場表演，此表演劇本的撰寫時間點不晚於17世紀。這些表演以極度相似原劇本的方式開場，但會隨著表演繼續而逐漸出現差異。以下詳細描述了五場隨機挑選的表演。
+
+@@ @@
+
+||~ 表演 ||~ 值得注意的差異||
+||= 酒神 || 其他角色時常將酒神戴歐尼修斯描述為「紅臉的」、「欣喜的」、「被血漆過的」。在原著中，戴歐尼修斯試圖證明他的神性，而在此戲劇中，他盡力展現「絞索之主」的神格，最終透過殺死彭透斯以獻祭絞索之主，並把海倫的城鎮餵給SCP-7701-C。 ||
+||= [[span style="white-space: nowrap"]]哈姆雷特[[/span]] || 羅森克蘭茨與吉爾登斯吞沒有出現在表演中。在第一幕中，是「Alagadro的先驅」告知了哈姆雷特王子哈姆雷特國王的暗殺，而非國王的鬼魂。此先驅出現在接下來的許多場景中，但僅在歐菲莉亞死前被她認知到。在第五幕中，哈姆雷特與雷爾提在擊劍對決時被SCP-7701-C的到來打斷，而後-C吞噬了剩餘的所有演員。||
+||= 無題表演 || 此表演的起源未知，似乎是一種義大利即興喜劇。[[footnote]]一種早期專業戲劇，起源於義大利。[[/footnote]]目前未知此戲劇是否為某篇失傳的作品，或是由SCP-7701本身創造——由於SCP-7701之前以及之後都沒產出原創作品，前者的可能性較大。雖然此表演初期使用了一些//義大利即興喜劇//中的理念與角色原型，但隨著表演繼續，場景逐漸變得越加暴力，最終演變成單純殘害自身肉體的可怕行為。在戲劇結局時，所有演員聚集在一起，然後上吊自殺。他們的屍體隨後被SCP-7701-C吞噬。||
+||= 威尼斯商人 || 此表演主要發生在「[[[scp7011640b1 | Trinculo之國]]]」中，而非威尼斯的城鎮。故事在表演看似接近結尾時出現分歧——此時一名戴著[[[SCP-2264 | 黃色面具]]]的無名者靠近賽洛克，並向賽洛克提供對毀了他人生的人群復仇的機會。表演繼續上演了一段額外的完整戲碼，在這一幕中，賽洛克透過面具男子的幫助，向那些曾經對他不公的人施加越來越殘忍的行為，並從每位受害者身上割下一磅肉塊。在最後的場景中，賽洛克自願將自身餵給SCP-7701-C，以報答面具男子給予的協助。||
+||= [[[SCP-701 | 受絞之王的悲劇]]] || [信息危害已刪除][[footnote]]**事件7701-G1：** 13人傷亡。事後開始採用自動抄錄手續。 [[/footnote]] ||
+
+@@ @@
+
+**階段4：**當表演接近結尾時，SCP-7001-C，一個長15.2公尺、由剝皮後的人類屍體組成的環節動物，將會從舞台下方冒出，並將自身納入表演的最終場景。此舉將不可避免地導致所有顯現的SCP-7701-B實例被-C以暴力的方式吞噬。表演完成後，SCP-7001-C將會移動至舞台邊緣敬禮，並爬至舞台下方。所有SCP-7701-A實例接著會在接下來的21.5小時內溶解成黑色煙霧。
+
+@@ @@
+
+[[=]]
+++++ **附錄：事件7701-R9**
+[[/=]]
+
+2007/01/07，在摩爾多瓦，奇西瑙中，28人試圖在2:25PM至3:49PM這段期間自殺。[[footnote]]在此期間，於SCP-7701中偵測到移動現象、模糊的發聲與小型空間扭曲。[[/footnote]]調查顯示28名個體之間皆沒有任何形式的聯繫，但確認了每人之間的數個共通性：
+
+* 在以下創作領域中有一定的專業：寫作、繪畫、演戲、唱歌等等
+* 曾經歷過一次或多次精神以及/或睡眠障礙症。
+* 在事件前幾天表現出反常的活力或邊緣型狂躁行為。
+* 試圖透過物理自殘來自殺，最常見的行為為劃傷自身或是上吊。
+
+[[include component:image-block
+| name=https://scp-wiki.wdfiles.com/local--files/scp-7701/Footage.png
+| caption=SCP-7701樓梯間B
+(07/01/2007 14:28:56)
+| width=300px
+| align=right]]
+
+18名受害者在醫療救援到達之前死亡。5名受害者在急救過程中死亡。3名受害者成功復甦，但在接下來的48小時內因併發症而死亡。目前僅有2名事件7701-R9的受害者仍存活著：Caleb Josan與Sabina Lisnic。
+
+Caleb Josan是一名音樂家，因窒息而遭受了嚴重的腦部傷害，目前正處於植物人狀態。Sabina Lisnic為一名演員，當時正試圖用廚房刀切割自己以達成自殺，但剛好被她的室友Elena Mardari撞見。Mardari受過緊急醫療技術員的訓練，她成功從Lisnic手中奪下刀子，並在支援抵達前幫她的傷口止血。
+
+@@ @@
+
+[[div class="blockquote"]]
+
+**受訪者：**Sabina Lisnic
+
+**訪談者：**Sturza特工
+
+//[此訪談由羅馬尼亞文翻譯而成。]//
+
+-----
+
+= **[記錄開始]**
+
+//[Sturza進入Lisnic的醫院房間，她正處於監察中。]//
+
+**Sturza：**今天感覺如何？
+
+**Lisnic：**感覺像被捅了。你是誰？
+
+**Sturza：**我的名字是Tchmil博士。我是來問你一些問題的，如果你感覺可以的話。
+
+**Lisnic：**哪種問題？
+
+**Sturza：**如果你不想的話，可以不用回答的問題。
+
+**Lisnic：**//[停頓。]// 好。
+
+//[Sturza坐在Lisnic的病床旁。]//
+
+**Sturza：**你現在感覺如何？我是指情緒上的。
+
+**Lisnic：**我不知道... 我覺得我感到很空虛。就像我體內的所有東西都被湯勺挖出了。//[Lisnic毫無幽默感地笑了一下。]//不過也可能只是因為疼痛藥物的關係。
+
+**Sturza：**你有想要自殘的衝動嗎？
+
+**Lisnic：**沒有。
+
+**Sturza：**你知道你為什麼三天前自殘了嗎？
+
+**Lisnic：**你想知道我為什麼試圖自殺。
+
+**Sturza：**是。
+
+**Lisnic：**我這麼做是因為那就是我要做的。
+
+**Sturza：**什麼意思？
+
+**Lisnic：**就是那個意思。試著自殺然後失敗就是我要做的。到這裡來問我問題就是你要做的。沒其他的了。
+
+**Sturza：**//[停頓。]// 你在告訴我這一切都是不可避免的？你有料到你的室友會阻止你嗎？
+
+**Lisnic：**預料與這件事無關。這就只是我要做的。
+
+**Sturza：**好。你可以告訴我你在試圖自殺前幾天感覺如何嗎？
+
+**Lisnic：**一般般，我猜。不過我一直看到一些東西。
+
+**Sturza：**你出現幻覺了？
+
+**Lisnic：**不。幻覺只不過是一種謊言——我看到的不是假象。那是真實的。比其他所有東西都還真實。
+
+**Sturza：**你當時看到了什麼？
+
+**Lisnic：**不過是短暫看到一些東西。一些邊界。有天早上，我看到房間裡的簾子——但那不是我的簾子。它們是紅色的絲絨，而且比海洋還深沉。我知道假如我碰到了那些簾子，就會被完全吞噬。另一天早上，我是唯一一個注意到太陽打開的時間晚了幾分鐘的人。技術困難，你知道的。後台。
+
+**Sturza：**我理解了。
+
+**Lisnic：**有次，我看到我的室友坐在客廳，哭泣著。她真的在哭，碩大的淚滴流下她的臉龐，鼻涕從她的鼻子流出，她的肩膀像地震一般抖著，但完全保持安靜。看起來就像... 機械一樣。一個禮拜後我才明白，當時她的未婚夫跟他分手了——我看到她用一樣的方式哭泣。同樣的眼淚。我那時才明白，她是在事先//練習//。就像一場彩排。
+
+**Sturza：**你還有看到其他感覺「特別真實」的東西嗎？
+
+**Lisnic：**有。
+
+**Sturza：**//[停頓。]// 你會告訴我嗎？
+
+**Lisnic：**不。這不是我要做的。
+
+**Sturza：**如果你選擇這麼做的話，那這就是你要做的。
+
+**Lisnic：**你不理解。沒關係——幫助你理解是我要做的。
+
+**Sturza：**我在聽著。
+
+**Lisnic：**我的醫生把他的夾板留在那了。讀它。
+
+//[Sturza起身去拿夾板，上面有一份Lisnic的醫療檔案副本。最後一頁似乎被撕下了。在翻閱的過程中，發現檔案背面印著一份詳細抄本，其內容為Sturza特工的一天，從他那天早上起床開始。]//
+
+//[最後一頁可讀頁面的最後一行寫著：「為什麼這裡就結束了？」]//
+
+**Sturza：**//[輕聲。]// 這//三小//？ //[回復正常音量。]// 這是你做的嗎？
+
+**Lisnic：**我不是道具部門的人。
+
+//[Sturza掃視抄本，並翻閱數次。]//
+
+**Sturza：**為什麼這裡就結束了？
+
+//[地面開始震動。]//
+
+**Sturza：**Sabina。為什麼劇本結束在這？你要我理解什麼？
+
+//[燈光閃爍。]//
+
+**Sturza：**Sabina！
+
+//[Lisnic從病床床單下方抽出一把華麗的匕首。]//
+
+**Lisnic：**如此，我們的貢品，我們盡數獻上。
+
+**Sturza：**等等——！
+
+//[Sturza試圖阻止Lisnic，但不夠快；Lisnic將匕首插進自身腹部。Lisnic咬緊牙齒，與此同時，一抹紅色染上了她的床單，以及從她的下巴滴下。]//
+
+**Lisnic：**如此，我們的血——
+
+//[Lisnic猛然將小刀拉到一旁，並費力呻吟著。可聽見血肉撕扯的聲音。]//
+
+**Lisnic：**——就是受絞之王的血。
+
+//[Sturza乾嘔。]//
+
+**Sturza：**喔，//天啊//。
+
+//[SCP-7701-C在一陣破碎陶瓷與尖碎木片的爆炸中從地板衝出。它在光芒之下蠕動，閃閃發亮且身軀腫脹。那些沒有皮膚的臉龐露出狂喜又痛苦的微笑。它唱著歌。]//
+
+**Sturza：**靠！
+
+//[Sturza掏出暗藏的軍用手槍，並指向SCP-7701-C——但沒有開火。他的臉抽搐著，並用另一隻手抓住頭。]//
+
+**Sturza：**這-這是什麼... 聲音？
+
+//[隨著SCP-7701-C持續歌唱，Sturza跪下，手中的槍撞到地面，發出哐啷的聲響，而他雙手抱頭。]//
+
+**Sturza：**這是多麼... //美麗//。我從來都不知道。天啊，我從來都不//知道//。
+
+//[Sturza在地上捲曲自身，雙手緊抓頭髮，同時SCP-7701-C在他上方盤旋，黏稠的液體從其嘴中滴落。Sturza的頭突然扭到一旁，彷彿從夢中醒來。]//
+
+**Sturza：**不！我不... 這些不是我的話語！這些不是——
+
+//[SCP-7701-C吞噬特工Sturza。Lisnic以短淺的喘息呼吸著。她的額頭因為汗水而發亮，而她的牙齒染上了腥紅色。]//
+
+**Lisnic：**//[沙啞地。]//以... 以此...
+
+//[Lisnic虛弱地以雙手握住匕首柄尾，並擺在她面前，刀尖指向她的胸膛。SCP-7701-C靜止不動。]//
+
+**Lisnic：**以此匕首，將吾等全數獻上。
+
+//[Lisnic用顫抖的手指握緊柄尾。]//
+
+**Lisnic：**盡歸汝等。
+
+//[在Lisnic將匕首插向心臟的瞬間，SCP-7701-C撲向她。在SCP-7701-C啃食的過程中，可以聽見濕潤以及嘎吱般的聲響。一陣子後，它從被推倒的病床立起，將面龐轉向睨視著的觀眾，而後鞠躬，最終朝舞台右側離去。]//
+
+//[布幕垂下。]//
+
+= **[場景結束]**
+
+[[/div]]
+
+@@ @@
+
+[[footnoteblock]]
+-----
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[SCP-7700]]] | SCP-7701 | [[[SCP-7702]]] >>
+[[/=]]
+[[/div]]
+
+[[include :scp-zh-tr:component:license-box]]
+=====
+> **Filename:** 7701-Thumbnail.png
+> **Author:** [[*user MontagueETC]]
+> **License:** CC BY-SA 3.0
+> **Derivative of:**
+> -----
+> **Name:** 070920111017
+> **Author:** [[[https://www.flickr.com/people/67732373@N07/ | Col Ben]]]
+> **License:** CC BY 2.0
+> **Source Link:** [[[https://www.flickr.com/photos/67732373@N07/6165361513/ | Flickr]]]
+> -----
+> **Name:** Carnival venice 2015 135
+> **Author:** [[[https://commons.wikimedia.org/wiki/User:Abxbay | Abxbay]]]
+> **License:** CC BY-SA 4.0
+> **Source Link:** [[[https://commons.wikimedia.org/wiki/File:Carnival_venice_2015_135.JPG | Wikimedia Commons]]]
+=====
+> **Filename:** Theatre.png
+> **Name:** 070920111021
+> **Author:** [[[https://www.flickr.com/people/67732373@N07/ | Col Ben]]]
+> **License:** CC BY 2.0
+> **Source Link:** [[[https://www.flickr.com/photos/67732373@N07/6165894900/ | Flickr]]]
+=====
+> **Filename:** Actor.png
+> **Author:** [[*user MontagueETC]]
+> **License:** CC BY-SA 3.0
+> **Derivative of:**
+> -----
+> **Name:** 070920111017
+> **Author:** [[[https://www.flickr.com/people/67732373@N07/ | Col Ben]]]
+> **License:** CC BY 2.0
+> **Source Link:** [[[https://www.flickr.com/photos/67732373@N07/6165361513/ | Flickr]]]
+> -----
+> **Name:** Carnival venice 2015 135
+> **Author:** [[[https://commons.wikimedia.org/wiki/User:Abxbay | Abxbay]]]
+> **License:** CC BY-SA 4.0
+> **Source Link:** [[[https://commons.wikimedia.org/wiki/File:Carnival_venice_2015_135.JPG | Wikimedia Commons]]]
+=====
+> **Filename:** Footage.png
+> **Author:** [[*user MontagueETC]]
+> **License:** CC BY-SA 3.0
+> **Derivative of:**
+> -----
+> **Name:** 070920111016
+> **Author:** [[[https://www.flickr.com/people/67732373@N07/ | Col Ben]]]
+> **License:** CC BY 2.0
+> **Source Link:** [[[https://www.flickr.com/photos/67732373@N07/6165893896/ | Flickr]]]
+> -----
+> **Name:** 2015-05-01_16-39-02_ILCE-6000_3068_DxO
+> **Author:** [[[https://www.flickr.com/people/miguel_discart/ | Miguel Discart]]]
+> **License:** CC BY-SA 2.0
+> **Source Link:** [[[https://www.flickr.com/photos/miguel_discart/20054097666/ | Flickr]]]
+=====
+[[include :scp-zh-tr:component:license-box-end]]
