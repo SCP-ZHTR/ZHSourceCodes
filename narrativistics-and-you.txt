@@ -279,6 +279,7 @@ li.unfolded > .progmask{ display: block; }
 @@
 @@
 @@
+@@
 [[include :scp-wiki:component:image-features-source |click-fullscreen=--]
 |speed=300 
 |float=true
