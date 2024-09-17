@@ -33,7 +33,7 @@
 標註為[未翻譯...吧]的作品表示作品由CN的作者撰寫，而翻譯的CN文本也是同個作者所製，因此不確定是否需要翻譯。
 [[=]]
 [[size 1.2em]]
-++++ 待翻譯文章數量：61篇。
+++++ 待翻譯文章數量：58篇。
 [[/size]]
 [[/=]]
 EN分部：
@@ -46,8 +46,8 @@ EN分部：
 > 需先閱讀[[[SCP-701]]]與[[[SCP-2264]]]：
 > - [[[and-so-the-crows-laughed|And so the crows laughed]]] 如是群鴉訕笑不止
 > - [[[a-wandsman-in-the-court-of-the-hanged-king|A Wandsman in the Court of the Hanged King]]] 受絞之王宮廷裡的魔杖士 [未翻譯]
-> - [[[the-clock-shall-strike-again|The Clock Shall Strike Again]]] 鐘聲將會再度響起 [未翻譯]
-> - [[[midnight-parade|Midnight Parade]]] 午夜遊行 [未翻譯]
+> - [[[the-clock-shall-strike-again|The Clock Shall Strike Again]]] 鐘聲將會再度響起
+> - [[[midnight-parade|Midnight Parade]]] 午夜遊行
 > 建議先理解Marshall, Carter & Dark是誰：
 > - [[[masks-monsters-merchants|Masks, Monsters, & Merchants]]] [未翻譯]
 
@@ -120,7 +120,7 @@ EN分部：
 >> [[[ralliston-s-proposal|The Queen's Gambit]]] [未翻譯]
 >> [[[rounderhouse-jade-proposal|MAMJUL & KORAR]]] [未翻譯]
 > - [[[SCP-093]]] Red Sea Object 紅海物件
-> - [[[SCP-435]]] He-Who-Made-Dark 創造黑暗之人 [未翻譯]
+> - [[[SCP-435]]] He-Who-Made-Dark 造暗者 [未翻譯]
 > - [[[SCP-1281]]] The Harbinger 先驅
 > - [[[SCP-1504]]] Joe Schmo [未翻譯]
 > - [[[SCP-1548]]] The Star, the Hateful [未翻譯]
@@ -183,7 +183,7 @@ EN分部：
 > - [[[SCP-7600]]] Six Feet Under [未翻譯]
 > - [[[SCP-7666]]] UNDERVEGAS ORIENTATION: The House Loses 陰間維加斯講座：莊家會輸
 > - [[[SCP-7676]]] The Grand Symphony of 1976 1976大交響曲 [未翻譯]
-> - [[[SCP-7701]]] The Conqueror Worm [未翻譯]
+> - [[[SCP-7701]]] The Conqueror Worm 征服者蠕蟲
 > - [[[SCP-7819]]] No Vacancy 無空
 > - [[[SCP-7838]]] The Patchwork King and the Flayed-Men's Court [未翻譯]
 > - [[[SCP-7841]]] V is for violence V代表暴力
@@ -229,5 +229,10 @@ ZH分部：
 [[=]]
 ,,[#toc 回到頁面頂部],,
 [[/=]]
+[[/tab]]
+[[tab 短篇翻譯練習推薦]]
+這裡放了一些我找到的EN短篇，可供想練習翻譯的翻譯者取用。不定時更新。有些已經被列在「我喜歡的文章」中的檔案便不再多列在此。
+[[[SCP-8022]]] Build Your **Dreams**, One **Brick** at a Time.
+[[[SCP-8963]]] Inside Job
 [[/tab]]
 [[/tabview]]

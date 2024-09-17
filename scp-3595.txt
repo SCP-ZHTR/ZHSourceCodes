@@ -1,8 +1,10 @@
 [[include component:scp-meta-title-hiding css-style=classic]]
+[[include :scp-wiki:theme:classic]]
+
 [[include info:start]]
 作者：[[*user ObserverSeptember]]
 篇名：團結（Einheit）
-原文：[https://scp-wiki.wikidot.com/scp-3595 Einheit]
+原文：[https://scp-wiki.wikidot.com/scp-3595 SCP-3595] Einheit
 譯者：[[*user Pseudopoet]]
 [[include info:end]]
 
