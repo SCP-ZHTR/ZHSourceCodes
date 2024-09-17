@@ -564,6 +564,25 @@ SCP-ZH-249 - 東是「敵愾」
 
 @@ @@
 @@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+
+[[=]]
+[[collapsible show="你在地上找到一張紙條。" hide="這紙條別要了吧。"]]
+
+[[image https://i.imgur.com/4gsKYGG.png width="600px"]]
+
+[[/collapsible]]
+[[/=]]
+
+@@ @@
+@@ @@
 
 [[include :scp-zh-tr:component:license-box
 |author=AbyssDream]]
