@@ -1,8 +1,8 @@
 [[include :scp-zh-tr:component:scp-meta-title-hiding]]
 [[include :scp-wiki:component:preview
-text=吃燈籠、玩月餅，願人月兩團圓。]]
+text=吃燈籠、玩月餅，願人月兩團圓，一起忍過「搭錯線」的世界。]]
 [[include info:start]]
-= //吃燈籠、玩月餅，願人月兩團圓。//
+= //吃燈籠、玩月餅，願人月兩團圓，一起忍過「搭錯線」的世界。//
 ----
 **著者：** 施本納老師（Professor Spooner）
 **代筆：** [[*user edward-knave]]（[[[edward-knave|作者頁面]]]）
