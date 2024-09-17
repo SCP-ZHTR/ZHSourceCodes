@@ -109,7 +109,6 @@ name=https://scp-wiki.wdfiles.com/local--files/scp-7701/7701-Thumbnail.png
 @@ @@
 
 [[=]]
-++++ **Special Containment Procedures**
 ++++ **特殊收容措施**
 [[/=]]
 
