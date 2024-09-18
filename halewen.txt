@@ -233,6 +233,7 @@ ZH分部：
 [[tab 短篇翻譯練習推薦]]
 這裡放了一些我找到的EN短篇，可供想練習翻譯的翻譯者取用。不定時更新。有些已經被列在「我喜歡的文章」中的檔案便不再多列在此。
 [[[SCP-8022]]] Build Your **Dreams**, One **Brick** at a Time.
+[[[SCP-8594]]] Leaves From the Vine
 [[[SCP-8963]]] Inside Job
 [[/tab]]
 [[/tabview]]
