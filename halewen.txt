@@ -34,7 +34,7 @@
 標註為[未翻譯...吧]的作品表示作品由CN的作者撰寫，而翻譯的CN文本也是同個作者所製，因此不確定是否需要翻譯。
 [[=]]
 [[size 1.2em]]
-++++ 待翻譯文章數量：58篇。
+++++ 待翻譯文章數量：57篇。
 [[/size]]
 [[/=]]
 EN分部：
@@ -161,7 +161,7 @@ EN分部：
 > - [[[SCP-4935]]] Hereafter [未翻譯]
 > - [[[SCP-4971]]] Rituals 秘儀
 > - [[[SCP-5000]]] Why? 為什麼？
-> - [[[SCP-5001]]] Sacrosanct 神聖不可侵犯 [未翻譯]
+> - [[[SCP-5001]]] Sacrosanct 神聖不可侵犯
 > - [[[SCP-5007]]] Bass Strait 巴斯海峽 [未翻譯]
 > - [[[SCP-5034]]] The Meat Angels 肉天使
 > - [[[SCP-5052]]] The Hand that Mocked Them, and the Heart that Fed 那仿傚的手與依歸的心 [未翻譯]
