@@ -168,7 +168,7 @@ Cidal 被廣闊如海洪的意念，狂猛如漫天林火的情緒吞沒。一�
 [[include :scp-wiki:component:earthworm
 | first=false| last=false| hub=yes
 | previous-url=/scp-zh-728 | previous-title=SCP-ZH-728
-| next-url=/radiw-no-kitakit-2 | next-title=群島崩潰
+| next-url=/radiw-no-kitakit-2 | next-title=部族瓦解
 | hub-url=/radiw| hub-title=陽嵐之歌
 ]]
 ----
