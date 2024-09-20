@@ -122,6 +122,7 @@
 
 沒人知道月球上的最後一人在笑還是在哭。
 @@ @@
-[[include :scp-zh-tr:component:license-box]]
+[[include :scp-zh-tr:component:license-box
+|author=ModernMajorGeneral]]
 [!-- N/A (No Images)  --]
 [[include :scp-zh-tr:component:license-box-end]]

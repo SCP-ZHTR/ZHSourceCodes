@@ -347,7 +347,8 @@ Caleb Josan是一名音樂家，因窒息而遭受了嚴重的腦部傷害，目
 [[/=]]
 [[/div]]
 
-[[include :scp-zh-tr:component:license-box]]
+[[include :scp-zh-tr:component:license-box
+|author=MontagueETC]]
 =====
 > **Filename:** 7701-Thumbnail.png
 > **Author:** [[*user MontagueETC]]

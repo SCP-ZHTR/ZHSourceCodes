@@ -26,6 +26,7 @@
 
 山脈越加靠近，老人休息了一下。他可以短暫控制驅使他的這股力量。他坐在沙子上，並將視線移向上方，看向星星。深藍的清晨天空，唯有數顆星星閃爍，但它們閃耀著明亮清晰的光芒。注視著它們，老人想起自己為何堅持。也許這是他最愚笨的行為，但他允許自己做出此事。這世界很美，不該在沒有為之一戰的情況下毀滅，而人類也不該因為一名愚蠢老人犯的錯而滅絕。他無法不對人類造成傷害，但他能給人類他的希望。即使自己將被遺忘，他仍會窮盡一切阻止自己。
 @@ @@
-[[include :scp-zh-tr:component:license-box]]
+[[include :scp-zh-tr:component:license-box
+|author=Dmatix]]
 [!-- N/A (No Images)  --]
 [[include :scp-zh-tr:component:license-box-end]]

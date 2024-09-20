@@ -145,7 +145,8 @@ SCP-2399目前似乎處於受損狀態，可能是在項目落於目前位置前
 [[/=]]
 [[/div]]
 
-[[include :scp-zh-tr:component:license-box]]
+[[include :scp-zh-tr:component:license-box
+|author=djkaktus]]
 =====
 > **Filename:** header.png
 > **Author:** djkaktus

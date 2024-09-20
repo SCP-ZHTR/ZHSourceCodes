@@ -60,6 +60,7 @@
 
 他不斷、不斷大笑，而他的手裡緊握著那把燒焦的鑰匙。
 @@ @@
-[[include :scp-zh-tr:component:license-box]]
+[[include :scp-zh-tr:component:license-box
+|author=SunnyClockwork]]
 [!-- N/A (No Images)  --]
 [[include :scp-zh-tr:component:license-box-end]]

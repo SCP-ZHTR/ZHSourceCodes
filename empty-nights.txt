@@ -101,6 +101,7 @@
 
 蒼白的天空中出現了一抹金屬色。
 @@ @@
-[[include :scp-zh-tr:component:license-box]]
+[[include :scp-zh-tr:component:license-box
+|author=Dmatix]]
 [!-- N/A (No Images)  --]
 [[include :scp-zh-tr:component:license-box-end]]

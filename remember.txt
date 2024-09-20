@@ -99,6 +99,7 @@
 **<< 銘記 | The Choices We Make >>**
 [[/=]]
 
-[[include :scp-zh-tr:component:license-box]]
+[[include :scp-zh-tr:component:license-box
+|author=Cerastes]]
 [!-- N/A (No Images)  --]
 [[include :scp-zh-tr:component:license-box-end]]

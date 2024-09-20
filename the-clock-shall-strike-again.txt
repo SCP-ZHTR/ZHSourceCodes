@@ -60,7 +60,8 @@
 
 [[=image http://scp-wiki.wdfiles.com/local--files/the-clock-shall-strike-again/TCSSA%E5%AE%88%E8%BE%B0%E6%94%B9%E5%B0%8F.gif]]
 
-[[include :scp-zh-tr:component:license-box]]
+[[include :scp-zh-tr:component:license-box
+|author=SunnyClockwork]]
 =====
 > **Filename:** TCSSA守辰改小.gif
 > **Author:** [[*user SunnyClockwork]]

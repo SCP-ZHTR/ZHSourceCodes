@@ -43,6 +43,7 @@
 
 Aaron Siegel
 @@>@@又稱O5-5。
-[[include :scp-zh-tr:component:license-box]]
+[[include :scp-zh-tr:component:license-box
+|author=Rikks]]
 [!-- N/A (No Images)  --]
 [[include :scp-zh-tr:component:license-box-end]]

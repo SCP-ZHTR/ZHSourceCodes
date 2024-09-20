@@ -139,7 +139,8 @@ SCP-6846具有智人程度的智力，其大約等同於10歲人類小孩。雖�
 [[/=]]
 [[/div]]
 
-[[include :scp-zh-tr:component:license-box]]
+[[include :scp-zh-tr:component:license-box
+|author=ubergoober]]
 > **Filename:** basilisk.png
 > **License:** CC BY-SA 4.0
 This image is adapted from:

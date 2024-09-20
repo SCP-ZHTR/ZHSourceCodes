@@ -146,5 +146,6 @@ SCP-1281在接下來的十五分鐘內皆沒有活動，此後，項目開始了
 << [[[SCP-1280]]] | SCP-1281 | [[[SCP-1282]]] >>
 [[/=]]
 [[/div]]
-[[include :scp-zh-tr:component:license-box]]
+[[include :scp-zh-tr:component:license-box
+|author=DrEverettMann]]
 [[include :scp-zh-tr:component:license-box-end]]

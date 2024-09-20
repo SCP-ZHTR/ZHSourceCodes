@@ -155,7 +155,8 @@
 
 而在王國內扭曲的小巷外頭，受絞之王的尖刺王座之上，烏鴉一邊大笑一邊離去，但他們的眼將會永遠注視著。
 @@@@
-[[include :scp-zh-tr:component:license-box]]
+[[include :scp-zh-tr:component:license-box
+|author=SunnyClockwork]]
 =====
 **圖片1**
 > **檔案：** //Blood of the Fool.jpg//

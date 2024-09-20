@@ -26,6 +26,7 @@
 
 嗯哼。歡迎！我是初級助理——現在，拜託，安靜下來...
 @@ @@
-[[include :scp-zh-tr:component:license-box]]
+[[include :scp-zh-tr:component:license-box
+|author=evictedSaint]]
 [!-- N/A (No Images)  --]
 [[include :scp-zh-tr:component:license-box-end]]
