@@ -887,7 +887,7 @@ Alofay 看著每個人與他們身邊的助力。族人、鯨魚、紛紛在海�
 [[include :scp-wiki:component:earthworm
 | first=false| last=false| hub=yes
 | previous-url=/radiw-no-kitakit-1 | previous-title=群島再現
-| next-url=/radiw-no-kitakit-3 | next-title=諸神覆滅
+| next-url=/radiw-no-kitakit-3 | next-title=靈魂崩碎
 | hub-url=/radiw| hub-title=陽嵐之歌
 ]]
 ----
