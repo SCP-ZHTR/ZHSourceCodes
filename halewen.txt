@@ -240,5 +240,6 @@ ZH分部：
 [[[SCP-8022]]] Build Your **Dreams**, One **Brick** at a Time.
 [[[SCP-8594]]] Leaves From the Vine
 [[[SCP-8963]]] Inside Job
+[[[SCP-8816]]] The Curtains Were (Fucking) Evil
 [[/tab]]
 [[/tabview]]
