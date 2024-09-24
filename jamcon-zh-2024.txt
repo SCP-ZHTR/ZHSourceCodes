@@ -60,6 +60,8 @@ Cinamalay
 
 + 【題目】
 
+[[collapsible show="+ 展開原始題庫" hide="-否缺-"]]
+
 前兩題的題目將會從各車站的用字中各抽一字。
 
 +++ 第一題：台鐵車站用字
@@ -86,6 +88,15 @@ Cinamalay
 * 末班車要開了（舊車款淘汰）
 * 糖、香料與一切美好的事物（鐵路與產業）
 * 重新出發（緬懷近代台鐵重大事故）
+
+[[/collapsible]]
+
++++ 第一題：南
+
++++ 第二題：新
+
++++ 第三題：重新出發
+
 
 @@ @@
 
@@ -178,12 +189,18 @@ Cinamalay
 
 + 【Q&A】
 
-* **Q：**今年是不是沒什麼好問的？
-* **A：**對
+* **Q：**--今年是不是沒什麼好問的？--
+* **A：**--對--
+
+* **Q：**我一定要寫火車或鐵路主題嗎？
+* **A：**不一定，只要符合題目就好
+
+* **Q：**那我可以寫火車或鐵路主題嗎？
+* **A：**//可以。//
 
 + 【作品展示區】
 
-= **題目1：【台鐵車站】**
+= **題目1：南**
 [[div class="content-type-description-2"]]
 
 [[table style="width: 100%;"]]
@@ -207,7 +224,7 @@ Cinamalay
 
 [[div class="content-type-description"]]
 
-[[module ListPages order="created_at desc" prependLine="[[include component:listpages-table]]" perPage="30" appendLine="[[/table]]" category="-fragment, -prime"  separate="false" tags="+zh急迫競賽2024 +原創 -詩歌 -藝術作品 -中心" rss="Most Recently Translated"]]
+[[module ListPages order="created_at desc" prependLine="[[include component:listpages-table]]" perPage="30" appendLine="[[/table]]" category="-fragment, -prime"  separate="false" tags="+zh急迫競賽2024 +原創 +_南 -詩歌 -藝術作品 -中心" rss="Most Recently Translated"]]
 [[row]]
 [[cell style="vertical-align: top;"]]
 %%title_linked%%
@@ -225,7 +242,7 @@ Cinamalay
 [[/module]]
 [[/div]]
 
-= **題目2：【捷運車站】**
+= **題目2：新**
 [[div class="content-type-description-2"]]
 
 [[table style="width: 100%;"]]
@@ -249,7 +266,7 @@ Cinamalay
 
 [[div class="content-type-description"]]
 
-[[module ListPages order="created_at desc" prependLine="[[include component:listpages-table]]" perPage="30" appendLine="[[/table]]" category="-fragment, -prime"  separate="false" tags="+zh急迫競賽2024 +原創 -詩歌 -藝術作品 -中心 " rss="Most Recently Translated"]]
+[[module ListPages order="created_at desc" prependLine="[[include component:listpages-table]]" perPage="30" appendLine="[[/table]]" category="-fragment, -prime"  separate="false" tags="+zh急迫競賽2024 +原創 +_新 -詩歌 -藝術作品 -中心 " rss="Most Recently Translated"]]
 [[row]]
 [[cell style="vertical-align: top;"]]
 %%title_linked%%
@@ -267,7 +284,7 @@ Cinamalay
 [[/module]]
 [[/div]]
 
-= **題目3：【鐵路史】**
+= **題目3：重新出發**
 [[div class="content-type-description-2"]]
 
 [[table style="width: 100%;"]]
@@ -291,7 +308,7 @@ Cinamalay
 
 [[div class="content-type-description"]]
 
-[[module ListPages order="created_at desc" prependLine="[[include component:listpages-table]]" perPage="30" appendLine="[[/table]]" category="-fragment, -prime"  separate="false" tags="+zh急迫競賽2024 +原創 -詩歌 -藝術作品 -中心 " rss="Most Recently Translated"]]
+[[module ListPages order="created_at desc" prependLine="[[include component:listpages-table]]" perPage="30" appendLine="[[/table]]" category="-fragment, -prime"  separate="false" tags="+zh急迫競賽2024 +原創 +_重新出發 -詩歌 -藝術作品 -中心 " rss="Most Recently Translated"]]
 [[row]]
 [[cell style="vertical-align: top;"]]
 %%title_linked%%
