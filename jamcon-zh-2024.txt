@@ -60,6 +60,8 @@ Cinamalay
 
 + 【題目】
 
+前兩題的題目將會從各車站的用字中各抽一字。
+
 +++ 第一題：台鐵車站用字
 
 [[image https://i.imgur.com/EVXYR52.png size="100%" align="center"]]
