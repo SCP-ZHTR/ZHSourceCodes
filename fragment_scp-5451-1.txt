@@ -1,0 +1,647 @@
+[[include :scp-zh-tr:component:anomaly-class-bar-source
+    |item-number= 5451
+    |clearance= 2
+    |container-class= safe
+    |disruption-class= dark
+    |risk-class= notice
+    ]]
+ _
+
+
+[[include :scp-zh-tr:component:image-features-source |click-fullscreen=--]
+|speed=250
+|float=true
+|align=center
+|width=300px
+|url= http://www.scpwiki.com/local--files/scp-5451/ad-113.png
+|add-caption=true
+|caption=SCP-5451-2B
+]]
+
+
+**特殊收容措施:** SCP-5451-2A實體應收容於標準收容櫃中。禁止任何[[span class="ruby"]]//企鵝//[[span class="rt"]]Spheniscidae[[/span]][[/span]]科的成員與廣告接觸。具模因汙染效果的SCP-5451-2B實體應由基金會網路爬蟲 Πουλί 阻絕。所有SCP-5451散佈的素材應由基金會封面 R621（"網路角色扮演"）覆蓋後傳播。除此之外，基金會網路爬蟲將持續追蹤SCP-5451-1的貼文和對話以偵測任何異常活動。
+
+**描述:**SCP-5451是一間主要招收//Spheniscidae//科（通常被稱為企鵝） 的線上學院。其網站設立於penguinschool.aq，學生可以透過語音聊天室與老師互動，並透過訊息程式發送作業。
+
+SCP-5451-1是一群有知覺且能使用英語溝通的企鵝，並能透過異常手段上網。論壇forum.penguinschool.aq是SCP-5451-1個體互相交流的管道。非異常企鵝在接觸前一名SCP-5451-1個體製作的廣告後會轉變成SCP-5451-1個體。這些模因汙染廣告（以下稱作 SCP-5451-2）分為兩種形式，一種為傳單、另一種則為橫幅廣告，分別被稱作SCP-5451-2A和SCP-5451-2B。
+
+SCP-5451-2A實體是由沾滿尿液的羽毛構成的傳單，此傳單被發現於交配季後的企鵝交配場所。接觸過SCP-5451-2A的企鵝將會轉變成 SCP-5451-1 個體。經過一學年後，他們便會進入SCP-5451就讀。
+
+SCP-5451-2B實例是於網路上發現的橫幅廣告。廣告的前景為一隻企鵝，其身旁有一段文字 「（一種企鵝的俗名） 企鵝學院, 全國最好的大學！」或類似的文字。與SCP-5451-2B實體接觸的個體有25%的機率透過論壇為企鵝保育做出貢獻。
+
+
+[[include :scp-zh-tr:component:image-features-source |click-fullscreen=--]
+|speed=250
+|float=true
+|align=center
+|width=400px
+|url= http://www.scpwiki.com/local--files/scp-5451/forum.png
+|add-caption=true
+|caption=SCP-5451-1個體用於交流的論壇
+]]
+
+
+**附錄 1.1: 嘗試與SCP-5451-1 個體展開對話**
+
+為了收集SCP-5451和SCP-5451-2的基本資訊，初級研究員 Cook 於2021/02/01被指派籌畫與SCP-5451-1個體的對話。
+
+[[collapsible show="+ 顯示對話嘗試 " hide="- 隱藏對話嘗試"]]
+
+> 標題：這間學院是做什麼的？
+[[div class="post"]]
+[[div class="one"]]
+[[image  http://www.scpwiki.com/local--files/scp-5451/beep-beep-lettuce.png]]
+##000000| beep beep lettuce ##
+##0055FF| 新生 ##
+[[/div]]
+[[div class="two"]]
+>
+> 你好，我是新來的學生，我十分想要了解這間學院，包含學院的歷史、文化以及這裡有的好料和其他資訊。
+>
+[[/div]]
+[[/div]]
+
+[[div class="post"]]
+[[div class="one"]]
+[[image  http://www.scpwiki.com/local--files/scp-5451/cody.png]]
+##000000| Cody ##
+##00AAFF| 四年級生 ##
+[[/div]]
+[[div class="two"]]
+>
+>痾，新生總是像你一樣，不斷問一些白癡問題，「像這間學院是做什麼的？」「食物好吃嗎？」把論壇弄得亂糟糟的。 
+> 蛤，你為什麼不自己做好功課，去讀FAQ，然後在發文前多看一些論壇內容。
+>
+[[/div]]
+[[/div]]
+
+[[div class="post"]]
+[[div class="one"]]
+[[image  http://www.scpwiki.com/local--files/scp-5451/beep-beep-lettuce.png]]
+##000000| beep beep lettuce ##
+##0055FF| 新生 ##
+[[/div]]
+[[div class="two"]]
+>
+> 嘿，你不需要這麼激動。
+> 老兄，我只是在問問題。
+>
+[[/div]]
+[[/div]]
+
+[[div class="post"]]
+[[div class="one"]]
+[[image  http://www.scpwiki.com/local--files/scp-5451/cody.png]]
+##000000| Cody ##
+##00AAFF| 四年級生 ##
+[[/div]]
+[[div class="two"]]
+>
+> 哀，典型的藉口
+> 「偶只是在問問題」
+> 傻蛋，如果你花多一些時間逛論壇，大部分的問題都有答案。
+> @Forster，請關閉這串帖子。這只會堵塞論壇。
+[[/div]]
+[[/div]]
+
+[[div class="post"]]
+[[div class="one"]]
+[[image  http://www.scpwiki.com/local--files/scp-5451/pingu-bot.png]]
+##000000| {{Pingu-Bot}}##
+##FF5500| 機器人##
+[[/div]]
+[[div class="two"]]
+>
+> 因以下原因，本帖已關閉。 
+>> 問這種問題前，去讀FAQ 
+>> - ##000000| Forster## | ##004670| 職員##
+[[/div]]
+[[/div]]
+[[/collapsible]]
+
+**附錄 1.2: 在SCP-5451-1群體中建立關係**
+
+由於SCP-5451-1個體對他的打聽行為表現負面，初級研究員Cook決定先在SCP-5451-1群體中建立名聲。
+
+
+[[collapsible hideLocation="both" show="+ 顯示論壇紀錄" hide="- 隱藏論壇紀錄"]]
+
+> 自我介紹帖: beep beep lettuce　
+
+[[div class="post"]]
+[[div class="one"]]
+[[image  http://www.scpwiki.com/local--files/scp-5451/beep-beep-lettuce.png]]
+##000000| beep beep lettuce ##
+##0055FF| 新生 ##
+[[/div]]
+
+[[div class="two"]]
+>
+> 我對於上次的諮詢感到抱歉
+>
+[[/div]]
+[[/div]]
+
+
+[[div class="post"]]
+[[div class="one"]]
+[[image  http://www.scpwiki.com/local--files/scp-5451/cody.png]]
+##000000| Cody ##
+##00AAFF| 四年級生 ##
+[[/div]]
+[[div class="two"]]
+>
+> 或許當時有些太嚴格
+> 新生不遵重我們的文化之類的
+> 話雖這麼說，歡迎！
+> ----
+> 理學士 運動科學  | 「隨時準備破壞商店和派對」
+[[/div]]
+[[/div]]
+
+[[div class="post"]]
+[[div class="one"]]
+[[image   http://www.scpwiki.com/local--files/scp-5451/bluekorora.png]]
+##000000| BlueKorora ##
+##0077FF| 三年級生 ##
+[[/div]]
+
+[[div class="two"]]
+>
+> 沒事的，兄弟，我們之前有時候也會忘記規定
+> -------
+> 理學士 捕魚專科| 「是個小可愛uwu」
+[[/div]]
+[[/div]]
+
+[[div class="post"]]
+[[div class="one"]]
+[[image http://www.scpwiki.com/local--files/scp-5451/noot-noot-2.png]]
+##000000| noot-noot ##
+##0055FF| 新生 ##
+[[/div]]
+
+[[div class="two"]]
+>
+> 歡迎
+> 嘿，你也是新來的！:D　
+>
+[[/div]]
+[[/div]]
+
+[[div class="post"]]
+[[div class="one"]]
+[[image  http://www.scpwiki.com/local--files/scp-5451/beep-beep-lettuce.png]]
+##000000| beep beep lettuce ##
+##0055FF| 新生 ##
+[[/div]]
+
+[[div class="two"]]
+> //回覆 noot-noot:// 喔，你好，新生夥伴！
+> 話說，有人有校園的地圖嗎？我還沒到校園，但我不希望到時候在校園裡迷路　
+>
+[[/div]]
+[[/div]]
+
+[[div class="post"]]
+[[div class="one"]]
+[[image   http://www.scpwiki.com/local--files/scp-5451/bluekorora.png]]
+##000000| BlueKorora ##
+##0077FF| 三年級生##
+[[/div]]
+
+[[div class="two"]]
+>
+> 沒問題，這是我的地圖副本，上面有全部的東西。包含......好地點，如果你知道我在說什麼 ;) ;) ;)　
+>> //檔案上傳：// __地圖__ [[footnote]] 雖然上傳的檔案格式是 PNG，但沒有任何圖片展示軟體能夠正確地開啟地圖，不是導致系統崩潰就是跳出檔案毀損的提示。[[/footnote]]
+> -------
+> 理學士 捕魚專科|「是個小可愛uwu」
+[[/div]]
+[[/div]]
+
+[[div class="post"]]
+[[div class="one"]]
+[[image  http://www.scpwiki.com/local--files/scp-5451/beep-beep-lettuce.png]]
+##000000| beep beep lettuce ##
+##0055FF| 新生##
+[[/div]]
+
+[[div class="two"]]
+>
+> 謝謝你的地圖，BlueKorora。如果沒有這份地圖，我可能會在校園裡迷路。
+> 這對我而言是個新的體驗，我從沒為了上學離開家裡。
+[[/div]]
+[[/div]]
+
+[[div class="post"]]
+[[div class="one"]]
+[[image  http://www.scpwiki.com/local--files/scp-5451/beep-beep-lettuce.png]]
+##000000| beep beep lettuce ##
+##0055FF| 新生##
+[[/div]]
+
+[[div class="two"]]
+>
+> 謝謝你的地圖，BlueKorora。如果沒有這份地圖，我可能會在校園裡迷路。
+> 這對我而言是個新的體驗，我從沒為了上學離開家裡。
+[[/div]]
+[[/div]]
+
+[[div class="post"]]
+[[div class="one"]]
+[[image  http://www.scpwiki.com/local--files/scp-5451/beep-beep-lettuce.png]]
+##000000| beep beep lettuce ##
+##0055FF| 新生 ##
+[[/div]]
+
+[[div class="two"]]
+>
+> 喔，抱歉我重複貼了兩次文，這裡的網路有點爛。
+>
+[[/div]]
+[[/div]]
+
+
+[[div class="post"]]
+[[div class="one"]]
+[[image  http://www.scpwiki.com/local--files/scp-5451/cody.png]]
+##000000| Cody ##
+##00AAFF| 四年級生 ##
+[[/div]]
+
+[[div class="two"]]
+>
+> 兄弟，你需要放輕鬆點。不要擔心，我們都有第一次。
+>
+[[/div]]
+[[/div]]
+
+[[div class="post"]]
+[[div class="one"]]
+[[image  http://www.scpwiki.com/local--files/scp-5451/grape-kun.png]]
+##000000| MsGrapeBoi ##
+##0066FF| 二年級生 ##
+[[/div]]
+
+[[div class="two"]]
+>
+>嘿。歡迎來到敝校! 希望你在這能夠開心。
+>
+> //回覆 beep beep lettuce:// 所以，你主修的科目是什麼? 我是理學士，主修人類社會
+> ------
+> 理學士 人類社會學|「永遠保持友善；你永遠不知道什麼時候會幫上忙。」
+[[/div]]
+[[/div]]
+
+[[div class="post"]]
+[[div class="one"]]
+[[image  http://www.scpwiki.com/local--files/scp-5451/crimson.png]]
+##000000| DC143C##
+##00AAFF| 四年級生 ##
+[[/div]]
+
+[[div class="two"]]
+>
+>嘿，歡迎你入學 beep beep lettuce!
+> 不用擔心，你會習慣的
+> -------
+> 理學院 航空學系|「我們將會再次飛翔，不論用魔法或決心」
+[[/div]]
+[[/div]]
+
+[[div class="post"]]
+[[div class="one"]]
+[[image  http://www.scpwiki.com/local--files/scp-5451/beep-beep-lettuce.png]]
+##000000| beep beep lettuce ##
+##0055FF| 新生 ##
+[[/div]]
+
+[[div class="two"]]
+>
+>謝謝大家的歡迎。希望我們都能在這成為好朋友 
+>
+> //回覆 MsGrapeBoi:// 我目前攻讀理學院的行銷學系
+[[/div]]
+[[/div]]
+
+
+[[div class="post"]]
+[[div class="one"]]
+[[image  http://www.scpwiki.com/local--files/scp-5451/adelle.png]]
+##000000| Adelle ##
+##004670| 職員##
+[[/div]]
+
+[[div class="two"]]
+>
+> beep beep lettuce，歡迎來到我們的線上學院和論壇。希望你能在這裡過得舒適並能進一步了解這個世界。
+>
+> 如果你有任何有關學校、論壇或人類的疑問，你可以傳訊給##004670| 職員##，他們隨時樂意效勞。 
+> 只是要確認他們在線就行<3 
+> ------
+> ##004670| 職員## |「自2000年起熱愛我的工作」| __請於此處聯絡職員！__
+[[/div]]
+[[/div]]
+
+[[/collapsible]]
+
+**附錄 1.3: 有關SCP-54512的訊息**
+
+以學院專題研究的名義，初級研究員 Cook 與一名SCP-5451-1個體展開對話，對話內容為SCP-5451-2實體的特質。
+
+[[collapsible hideLocation="both" show="+ 顯示訊息紀錄" hide="- 隱藏訊息紀錄"]]
+
+[[div class="post"]]
+[[div class="one"]]
+[[image  http://www.scpwiki.com/local--files/scp-5451/beep-beep-lettuce.png]]
+##000000| beep beep lettuce ##
+##2266FF| 二年級生 ##
+[[/div]]
+[[div class="two"]]
+>
+> 你是廣告設計團隊的成員對吧？
+>
+[[/div]]
+[[/div]]
+
+[[div class="post"]]
+[[div class="owt"]]
+>
+> 沒錯！作為行銷專業，那正是我們做的事 :D 
+> -----
+> 理學士 行銷 |「做你熱愛的事」
+[[/div]]
+[[div class="eno"]]
+[[image  http://www.scpwiki.com/local--files/scp-5451/chiffon.png]]
+##000000| Chiffon ##
+##0077FF| 三年級生##
+[[/div]]
+
+[[/div]]
+
+[[div class="post"]]
+[[div class="one"]]
+[[image  http://www.scpwiki.com/local--files/scp-5451/beep-beep-lettuce.png]]
+##000000| beep beep lettuce ##
+##2266FF| 二年級生 ##
+[[/div]]
+[[div class="two"]]
+>
+> 我一直對你們能夠說服其他企鵝來入學感到驚奇。你們究竟是怎麼做到的？
+>  
+[[/div]]
+[[/div]]
+
+
+[[div class="post"]]
+[[div class="owt"]]
+>
+> 痾，那算不上什麼，真的。我們只是透過口耳相傳，再撒上一些......魔法。
+> -----
+> 理學士 行銷 |「做你熱愛的事」 - 匿名
+[[/div]]
+[[div class="eno"]]
+[[image  http://www.scpwiki.com/local--files/scp-5451/chiffon.png]]
+##000000| Chiffon ##
+##0077FF| 三年級生##
+[[/div]]
+
+[[/div]]
+
+[[div class="post"]]
+[[div class="one"]]
+[[image  http://www.scpwiki.com/local--files/scp-5451/beep-beep-lettuce.png]]
+##000000| beep beep lettuce ##
+##2266FF| 二年級生 ##
+[[/div]]
+[[div class="two"]]
+>
+> 哇，你們真的會用魔法？
+>
+[[/div]]
+[[/div]]
+
+[[div class="post"]]
+[[div class="owt"]]
+>
+> 開玩笑的，我們只是在作品中注入我們對學院的愛。
+> 我的意思是，沒有學院的話，我們不過是毫無意義地活著，而誰又會想要這樣？
+> -----
+> 理學士 行銷 |「做你熱愛的事」- 匿名
+[[/div]]
+[[div class="eno"]]
+[[image  http://www.scpwiki.com/local--files/scp-5451/chiffon.png]]
+##000000| Chiffon ##
+##0077FF| 三年級生##
+[[/div]]
+
+[[/div]]
+
+針對各式SCP-5451-2A實體的分析顯示其並無奇蹟術改造的跡象 
+
+[[/collapsible]]
+
+
+**附錄 1.4: SCP-5451-1個體的文化**
+為了學習更多有關 SCP-5451-1個體的文化，在接下來的數個月內，初級研究員 Cook以"beep beep lettuce"的網名為偽裝，並以學院專題研究的名義與多位SCP-5451-1個體展開對話。十個月後，初級研究員 Cook 發表了一篇論文，標題為//SCP-5451-1的文化 : 透過線上學院了解異常企鵝的生活//。以下提供了該論文的摘錄以及初級研究員 Cook 與SCP-5451-1個體的對話摘錄。
+
+完整論文和對話紀錄的副本可向初級研究員 Cook 或高級研究員 Drake 索取。
+
+
+[[collapsible show="+ SCP-5451-1個體的文化" hide="- SCP-5451-1個體的文化"]]
+
+[[div class="blockquote"]]
+1. **家族生活**
+儘管SCP-5451-1個體具備與一般人類相同的舉止，他們仍與家族有著緊密的關係，這點與一般企鵝並無不同。某種意義上來說，他們與家族間的關係融合了一般人類和企鵝的觀念。
+
+與非異常企鵝相同，SCP-5451-1個體甚至與他們三等親的表親也有著明顯的密切關係，他們大多生活在同一群體中。然而，當SCP-5451-1離開他們的老家去成家立業時，他們的父母會交給他們家傳食譜的副本。
+
+事實上，SCP-5451-1個體在沒有父母幫助的情況下做飯是一種成年儀式。
+
+兩名SCP-5451-1個體的求婚儀式包含為新郎/新娘煮一道家傳食譜的傳統料理。由於家傳食譜流傳了許多世代，SCP-5451-1個體對其血脈感到十分自豪。
+
+成為廚師是SCP-5451-1個體間的最高榮譽，而在重現家傳料理的同時加入自己的特點，是一件父母必須教給小孩的重要事項。
+
+2. **料理**
+
+雖然主要受到美式料理的啟發，然而SCP-5451-1個體的食譜通常會包含魚，並會添加海藻來增加鮮味。
+
+大多SCP-5451-1個體稱做「傳統」的菜餚都來自因紐特食譜，暗示了SCP-5451-1個體和因紐特文化的關聯。除此之外，最傳統的SCP-5451-1菜餚蘊含某種食品保存技藝，包含發酵和風乾食品。
+
+由於全球化的緣故，其他烹飪食物的方式已傳入SCP-5451-1個體之間，並造就了料理的迅速發展。較年輕的SCP-5451-1個體因料理方式過多而難以開發屬於自己的食譜。
+
+某些SCP-5451-1傳統的食物保存方式如下:
+* 發酵魚
+* 冷凍生魚
+* 將海藻在陽光下曬乾以供食用
+* 煙燻
+
+[[/div]]
+[[/collapsible]]
+
+
+[[collapsible hideLocation="both" show="+ 初級研究員 Cook 與SCP-5451-1個體有關料理的對話摘錄" hide="- 初級研究員 Cook 與SCP-5451-1個體有關料理的對話摘錄"]]
+
+> 今日主題帖：最喜歡的食物？（頁數 5/7）
+
+[[div class="post"]]
+[[div class="one"]]
+[[image  http://www.scpwiki.com/local--files/scp-5451/beep-beep-lettuce.png]]
+##000000| beep beep lettuce ##
+##0055FF| 新生 ##
+[[/div]]
+
+[[div class="two"]]
+>
+> 你們真的會吃冷凍生魚嗎？連煮都不煮？
+>
+[[/div]]
+[[/div]]
+
+[[div class="post"]]
+[[div class="one"]]
+[[image   http://www.scpwiki.com/local--files/scp-5451/bluekorora.png]]
+##000000| BlueKorora ##
+##0077FF| 三年級生##
+[[/div]]
+
+[[div class="two"]]
+>
+> 沒錯！這是真的，老兄，我發誓！
+>
+> 你不會把魚冷凍後生吃嗎？
+> -------
+> 理學士 捕魚專科 |「是個小可愛uwu」
+[[/div]]
+[[/div]]
+
+[[div class="post"]]
+[[div class="one"]]
+[[image  http://www.scpwiki.com/local--files/scp-5451/cody.png]]
+##000000| Cody ##
+##00AAFF| 四年級生 ##
+[[/div]]
+[[div class="two"]]
+>
+> 不用管他們－他們是傳統主義者　
+>
+> 我個人偏好用啤酒醃泡後，然後油炸。你應該試試看，非常美味。
+> ----
+> 理學士 運動科學 |「隨時準備破壞商店和派對」
+[[/div]]
+[[/div]]
+
+
+[[div class="post"]]
+[[div class="one"]]
+[[image  http://www.scpwiki.com/local--files/scp-5451/Arctique.png]]
+##000000| Arctique ##
+##00AAFF| 四年級生 ##
+[[/div]]
+[[div class="two"]]
+>
+> 看了你的「美食推薦」，還是不了 
+>
+[[/div]]
+[[/div]]
+
+[[div class="post"]]
+[[div class="one"]]
+[[image  http://www.scpwiki.com/local--files/scp-5451/cody.png]]
+##000000| Cody ##
+##00AAFF| 四年級生 ##
+[[/div]]
+[[div class="two"]]
+>
+> 拜託，它沒那麼糟 
+>  
+> ----
+> 理學士 運動科學 |「隨時準備破壞商店和派對」
+[[/div]]
+[[/div]]
+
+[[div class="post"]]
+[[div class="one"]]
+[[image http://www.scpwiki.com/local--files/scp-5451/noot-noot-2.png]]
+##000000| noot-noot ##
+##0055FF| 新生##
+[[/div]]
+
+[[div class="two"]]
+>
+> 我最喜歡的料理是我媽為我煮的
+>
+> 她說是曾祖母傳下來的
+>
+[[/div]]
+[[/div]]
+
+[[div class="post"]]
+[[div class="one"]]
+[[image  http://www.scpwiki.com/local--files/scp-5451/beep-beep-lettuce.png]]
+##000000| beep beep lettuce ##
+##0055FF| 新生##
+[[/div]]
+
+[[div class="two"]]
+>
+> 嘿，noot-noot，你可以傳一份食譜的副本給我嗎？我想試做看看　
+>
+[[/div]]
+[[/div]]
+
+[[div class="post"]]
+[[div class="one"]]
+[[image http://www.scpwiki.com/local--files/scp-5451/noot-noot-2.png]]
+##000000| noot-noot ##
+##0055FF| 新生##
+[[/div]]
+
+[[div class="two"]]
+>
+> 可以，等我一下
+>> //檔案上傳：// __魚.txt__ [[footnote]] 檔案描述了如何獵捕、準備和以傳統的因紐特方式烹飪北極紅點鮭的步驟[[/footnote]]
+[[/div]]
+[[/div]]
+
+
+[[div class="post"]]
+[[div class="one"]]
+[[image  http://www.scpwiki.com/local--files/scp-5451/beep-beep-lettuce.png]]
+##000000| beep beep lettuce ##
+##0055FF| 新生##
+[[/div]]
+
+[[div class="two"]]
+>
+> 謝謝你傳給我食譜，noot-noot。 希望它很美味。
+>
+[[/div]]
+[[/div]]
+
+
+[[div class="post"]]
+[[div class="one"]]
+[[image  http://www.scpwiki.com/local--files/scp-5451/cody.png]]
+##000000| Cody ##
+##00AAFF| 四年級生 ##
+[[/div]]
+
+[[div class="two"]]
+>
+> 喔，我們在貼食譜嗎？這是我的
+>> //檔案上傳：// __食譜recipe.txt__ [[footnote]] 檔案描述如何將北鱈用啤酒醃泡、裹上麵包粉、以及油炸的步驟。[[/footnote]]
+[[/div]]
+[[/div]]
+
+[[/collapsible]]
+ _
+
+
+[[div style="border:solid 1px #999999; background:#f2f2c2; padding:5px; margin-bottom: 10px;"]]
+[[=]]
+[[>]]
+[[[http://http://scp-zh-tr.wikidot.com/scp-5451/SCP-5451/offset/1|這份檔案有新的疊代！]]]
+[[/>]]
+[[/=]]
+[[/div]]

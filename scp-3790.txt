@@ -202,6 +202,18 @@ SCP基金會沒有反常部曾存在的紀錄。尚未發現有關該建築的�
 [[/=]]
 [[/div]]
 
+[[include :scp-zh-tr:component:license-box
+|author=Croquembouche and djkaktus
+]]
+=====
+> **檔案名稱：**doorway3.jpg
+> **圖像名稱：**Into the Darkness....
+> **圖像作者：**Josh Wedin
+> **圖像授權協議：**CC BY-SA 2.0
+> **圖源連結：**[https://www.flickr.com/photos/38446022@N00/4007497950 Flickr]
+=====
+[[include :scp-zh-tr:component:license-box-end]]
+
 [[include :scp-zh-tr:component:djk]]
 
 [[module CSS]]
