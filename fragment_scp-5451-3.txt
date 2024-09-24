@@ -8,10 +8,10 @@
 
 **描述:** SCP-5451是一間主要招收//Spheniscidae//(通常被稱為企鵝) 科成員的線上學院。其網站設立於penguinschool.aq，學生可以透過聊天室與老師互動，並透過訊息程式發送作業。
 
-SCP-5451-1是一群有知覺且能使用英語溝通的企鵝，並能透過異常手段上網。論壇forum.penguinschool.aq是SCP-5451-1個體互相交流的管道。非異常企鵝在接觸前一名SCP-5451-1個體製作的廣告單後會轉變成SCP-5451-1個體。這些模因汙染廣告（因此被稱作 SCP-5451-2）分為兩種形式，一種為傳單、另一種則為廣告橫幅，分別被稱作SCP-5451-2A和SCP-5451-2B
+SCP-5451-1是一群有知覺且能使用英語溝通的企鵝，並能透過異常手段上網。論壇forum.penguinschool.aq是SCP-5451-1個體互相交流的管道。非異常企鵝在接觸前一名SCP-5451-1個體製作的廣告單後會轉變成SCP-5451-1個體。這些模因汙染廣告（因此被稱作 SCP-5451-2）分為兩種形式，一種為傳單、另一種則為廣告橫幅，分別被稱作SCP-5451-2A和SCP-5451-2B。
 
 SCP-5451-2A實體是由沾滿尿液的羽毛構成的傳單，此傳單被發現於交配季後的企鵝交配場所。接觸過SCP-5451-2A的企鵝將會轉變成 SCP-5451-1 個體。經過一學年後，他們便會進入SCP-5451就讀。
-.
+
 SCP-5451-2B實例是於網路上發現的廣告橫幅。橫幅的前景為一隻企鵝，其身旁有一段文字 「（一種企鵝的俗名）企鵝學院, 全國最好的大學！」或類似的文字。
 
 於2023/02/01，SCP-5451-1個體聚集和使用的論壇因資金不足關閉。
@@ -54,7 +54,7 @@ SCP-5451-2B實例是於網路上發現的廣告橫幅。橫幅的前景為一隻
 [[div style="border:solid 1px #999999; background:#f2f2c2; padding:5px; margin-bottom: 10px; padding: 0 2%; float: left; width: 45%"]]
 [[=]]
 [[<]]
-[[[http://http://scp-zh-tr.wikidot.com/scp-5451/SCP-5451/offset/1| 回到之前的疊代？]]]
+[[[http://scp-zh-tr.wikidot.com/scp-5451/offset/1| 回到之前的疊代？]]]
 [[/<]]
 [[/=]]
 [[/div]]
@@ -62,7 +62,7 @@ SCP-5451-2B實例是於網路上發現的廣告橫幅。橫幅的前景為一隻
 [[div style="border:solid 1px #999999; background:#f2f2c2; padding:5px; margin-bottom: 10px; padding: 0 2%; float: right; width: 45%"]]
 [[=]]
 [[>]]
-[[[http://http://scp-zh-tr.wikidot.com/scp-5451/SCP-5451/offset/0| 回到第一個疊代？]]]
+[[[http://scp-zh-tr.wikidot.com/scp-5451/offset/0| 回到第一個疊代？]]]
 [[/>]]
 [[/=]]
 [[/div]]

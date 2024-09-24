@@ -490,7 +490,7 @@
 * [[[SCP-5448]]] - When We Fall Asleep, Where Do We Go?
 * [[[SCP-5449]]] - [ACCESS DENIED]
 * [[[SCP-5450]]] - Fintastic Soup
-* [[[SCP-5451]]] - Penguin School, The Best University in the Arctic!
+* [[[SCP-5451]]] -  企鵝學院, 北極最好的大學！
 * [[[SCP-5452]]] - LOVED.exe
 * [[[SCP-5453]]] - A Nice Warm Bowl of //Sinigang//
 * [[[SCP-5454]]] - Terratoma

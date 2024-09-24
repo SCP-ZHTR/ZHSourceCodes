@@ -641,7 +641,7 @@ SCP-5451-2B實例是於網路上發現的橫幅廣告。廣告的前景為一隻
 [[div style="border:solid 1px #999999; background:#f2f2c2; padding:5px; margin-bottom: 10px;"]]
 [[=]]
 [[>]]
-[[[http://http://scp-zh-tr.wikidot.com/scp-5451/SCP-5451/offset/1|這份檔案有新的疊代！]]]
+[[[http://scp-zh-tr.wikidot.com/scp-5451/offset/1|這份檔案有新的疊代！]]]
 [[/>]]
 [[/=]]
 [[/div]]
