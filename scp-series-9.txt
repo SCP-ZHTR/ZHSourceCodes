@@ -409,7 +409,7 @@
 * [[[SCP-8369]]] - [ACCESS DENIED]
 * [[[SCP-8370]]] - [ACCESS DENIED]
 * [[[SCP-8371]]] - [ACCESS DENIED]
-* [[[SCP-8372]]] - I Dream Of The Sea
+* [[[SCP-8372]]] - 永恆灰燼
 * [[[SCP-8373]]] - [ACCESS DENIED]
 * [[[SCP-8374]]] - [ACCESS DENIED]
 * [[[SCP-8375]]] - [ACCESS DENIED]
