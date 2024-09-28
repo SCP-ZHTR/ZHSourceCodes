@@ -91,7 +91,7 @@ https://commons.wikimedia.org/wiki/File:View_of_a_Skull_III.jpg
 
 任何形式的干涉皆已不必要。{{//（revision. 11）//}}
 
-**描述：**SCP-ZH-989被定義為為一種人類的異常體染色體顯性遺傳疾病 ，舊稱托爾萊德症候群。致病原因與[https://www.tfrd.org.tw/tfrd/rare_b/view/id/132 克魯松氏症候群]相似，是因位於10號染色體上的FGFR2產生突變，導致顱骨發育異常及蝶囟閉合不全，但未見有顱縫早閉或頭形畸形。如C████、Y3███等幾處的點突變都可能造成SCP-ZH-989［((bibcite xu))］。
+**描述：**SCP-ZH-989被定義為一種人類的異常體染色體顯性遺傳疾病 ，舊稱托爾萊德症候群。致病原因與[https://www.tfrd.org.tw/tfrd/rare_b/view/id/132 克魯松氏症候群]相似，是因位於10號染色體上的FGFR2產生突變，導致顱骨發育異常及蝶囟閉合不全，但未見有顱縫早閉或頭形畸形。如C████、Y3███等幾處的點突變都可能造成SCP-ZH-989［((bibcite xu))］。
 
 [[collapsible show="展開名詞解釋：「FGFR2」" hide="收起名詞解釋：「FGFR2」"]]
 [[div class="blockquote"]]
