@@ -241,5 +241,6 @@ ZH分部：
 [[[SCP-8594]]] Leaves From the Vine
 [[[SCP-8963]]] Inside Job
 [[[SCP-8816]]] The Curtains Were (Fucking) Evil
+[[[https://scp-wiki.wikidot.com/pattern-recognition|Pattern Recognition]]]
 [[/tab]]
 [[/tabview]]
