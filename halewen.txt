@@ -79,7 +79,7 @@
 標註為[未翻譯...吧]的作品表示作品由CN的作者撰寫，而翻譯的CN文本也是同個作者所製，因此不確定是否需要翻譯。
 [[=]]
 [[size 1.2em]]
-++++ 待翻譯文章數量：57篇。
+++++ 待翻譯文章數量：56篇。
 [[/size]]
 [[/=]]
 EN分部：
@@ -103,7 +103,7 @@ EN分部：
 > - [[[of-dragons-and-serpents|CotBG Archive ██/██/20██-███: Of Dragons and Serpents]]] [未翻譯]
 > - [[[the-maker-and-the-beast|The Maker and the Beast]]] [未翻譯]
 > 建議先閱讀[[[twistedgears-kaktus-proposal|SCP-001 破碎之神]]]：
-> - [[[smoke|Smoke]]] 煙 [未翻譯]
+> - [[[smoke|Smoke]]] 煙
 > 需先閱讀[[[SCP-217]]]：
 > - [[[the-mekhanozoic-era|The Mekhanozoic Era]]] [未翻譯...吧]
 
