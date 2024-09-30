@@ -1,0 +1,165 @@
+[[include :scp-zh-tr:component:scp-meta-title-hiding css-style=classic]]
+[[include :scp-wiki:component:toggle-sidebar]]
+[[include :scp-wiki:component:preview
+text=每一個人都有自己的幻影，被遠方無可企及的滿潮供養，被身邊乾涸難耐的低潮喚醒。]]
+[[div style="display: none;"]]
+[[include component:image-block
+name=https://i.imgur.com/sTjPEbG.png
+|caption=.]]
+[[/div]]
+[[module css]]
+#header h1 a {
+    display: block;
+    margin: 0;
+    padding: 80px 0 25px;
+    line-height: 0px;
+    max-height: 0px;
+    color: transparent;
+    background: transparent;
+    font-family: BauhausLTDemi. 'Nanum Gothic'. Arial. sans-serif;
+    text-decoration: none;
+    text-shadow: none;
+    letter-spacing: 0.9px;
+}
+ 
+#header h1 a::before {
+    content: "Site-ZH-11";
+    color: #fff;
+    letter-spacing: -0.02em;
+    text-shadow: 3px 3px 5px #000;
+}
+ 
+#header h2 span {
+    display: block;
+    margin: 0;
+    padding: 19px 0;
+    line-height: 0px;
+    max-height: 0px;
+    font-weight: bold;
+    color: transparent;
+    text-shadow: none;
+}
+ 
+#header h2 span::before {
+    content: '翰林 同文 護法';
+    color: #ffc;
+    text-shadow: 1px 1px 1px #000;
+    text-shadow: 1px 1px 1px rgba(0,0,0,.8);
+}
+[[/module]]
+[[include info:start]]
+[[=]]
+//以瓦注者巧，以鉤注者憚，以黃金注者殙。其巧一也，而有所矜，則重外也。凡外重者內拙。//
+[[/=]]
+----
+**著者：** [[*user edward-knave]]（[[[edward-knave|作者頁面]]]）
+**篇名：** SCP-ZH-636 - 流光、幻影、半屏大仙（The Streaks, the Constructs, and the Portioned）
+**備註：** 繁中分部[[[jamcon-zh-2024|人類紀元12024年急迫競賽]]]第二題「新」投稿，核心概念為「思辯下的新觀點」。投稿成就為「南迴線」。[*https://www.ifreesite.com/wordcount/ 字數統計]顯示內文含1195 + 162 = 1357全形字，符合「輕軌」成就條件。
+[[include info:end]]
+
+[[include :scp-zh-tr:component:anomaly-class-bar-source
+|item-number= ZH-636
+|clearance= 3
+|container-class= euclid
+|secondary-class= none
+|secondary-icon=
+|disruption-class= dark
+|risk-class= 危險
+]]
+----
+**項目編號：** SCP-ZH-636
+
+**項目等級：** Euclid
+
+**特殊收容措施：** 
+@@ @@
+[[=]]
++++* {{**[僅限三垣議會、RAISA-ZH正副主任及學科泛戰術化部門主任親閱]**}}
+[[/=]]
+@@ @@
+除此檔案內容所示，基金會人員不得對SCP-ZH-636加以描述，以免影響後續收容作業。
+
+**描述：** SCP-ZH-636是一個受到空間異常影響的擬神性實體，自稱為「半屏大仙」，宣稱可以利用其命名為「見隱之術」的超維度移動手法穿越障礙物，該能力的原理及效果從基金會對空間扭曲的觀測得以證實。
+
+從現時觀察，SCP-ZH-636無法離開現時所在的建築物（Site-ZH-11），並令其身體外貌呈現為表面顏色持續迅速轉變、且具多處平整切口、時而有臉孔圖案在體表閃爍的無定形發光體，據該項目宣稱為超維度移動能力故障所致。
+
+此外，SCP-ZH-636可以從襲擊的目標生成一個與目標外貌相似的靈質實體（以下稱SCP-ZH-636-A），須注意襲擊目標的[[[retrospektrologia|巴納塞克靈質密度]]]不會因此減少，但是會較容易受低休謨值環境效應影響。
+
+往後，該目標會持續被SCP-ZH-636-A以心靈感應訊息滋擾，並漸漸失去記憶創傷經驗或引起負面情緒的事件細節的能力，但在嘗試回想時仍會引起至少同等強度的情緒效應。然而，該效應只能同時影響一人，SCP-ZH-636襲擊另一人時，上一名目標所受的效應將隨即悉數逆轉。
+
+在2024/09/2█，學科泛戰術化部門主任蘇敬言宣稱接獲非現實部傳訊，發出行政命令徵用戰術哲學部辦公室，為期翌日02:00至06:00，同時通知當時最近遇襲的助理研究員Edward Knave屆時執行收容。
+
+__**監視影像節錄：2024/09/2█ 16:00，Site-ZH-11諮詢部門辦公室**__
+[[div class="blockquote"]]
+
+//［Knave研究員走到辦公室其中一個空座位前，逕自就座，沉默數秒。］//
+
+//［Knave研究員取出紙筆，書寫自己抱持羞愧、恐懼與怨憤的事項。］//
+
+//［Knave研究員繼續書寫，對紙上的事項逐一追溯至其最終來源，分出最終由他人或自己所致的因素。］//
+
+**Knave研究員：** 這樣就可以了……吧？
+
+//［Knave研究員站起離席，離開辦公室。］//
+
+[[/div]]
+
+__**監視影像節錄：2024/09/2█ 02:30，Site-ZH-11戰術哲學部辦公室**__
+[[div class="blockquote"]]
+
+//［Knave研究員與容貌相似的SCP-ZH-636-A站在一張桌子對面，SCP-ZH-636位於兩者之間。］//
+
+//［不重要對話已省略。］//
+
+**SCP-ZH-636-A：** //綜合上述論點，可以證明友方在自身的知識面、成就與能力、面對競爭的反應、遭受過的苦難，都一概無法抵抗上位互換的取代，由此證成「反方沒有資格生活於現世」這個論題。//
+
+**SCP-ZH-636：** //請反方進行結辯。//
+
+**Knave研究員：** 現時世界萬物存在是宇宙所有物質與能量從大霹靂開始演變至今的結果。因此，世界萬物的存在經過了物理定律的准許，包括人的生命。只要我還沒被殺死，我就因為宇宙物理定律的准許，而有資格繼續活在這世上。
+
+**Knave研究員：** 因此，友方若要證成論題，就只有一個方法。
+
+//［Knave研究員從桌底取出霰彈槍與紙盒，從紙盒取出子彈裝填，遞到SCP-ZH-636-A的面前。］//
+
+**Knave研究員：** ——就是在這一刻，拿起這把霰彈槍，親手將我擊斃。今晚的辯論中，只要我仍然活著，我就自動被宇宙的物理定律允許了自己誕生起至今的化學反應持續進行，只有它的終止才可以證成這個論題。
+
+//［沉默數秒。］//
+
+**Knave研究員：** 而我，永遠都不會代替友方自證這一個論題。
+
+//［Knave研究員往身後的椅子就座，雙手交疊，等待30分鐘。SCP-ZH-636與SCP-ZH-636-A一同消失。］//
+
+//［Knave研究員反覆泵動霰彈槍，直到槍彈全數退出，並將槍彈裝回紙盒中。］//
+
+**Knave研究員：** 這樣就可以了……吧？
+
+//［Knave研究員取回霰彈槍與子彈盒，離開戰術哲學部辦公室，並將霰彈槍歸位，途中未被特工發現。］//
+
+[[/div]]
+
+經過RAISA-ZH副主任真紀真博士動議，Knave研究員竊取維安部門戰術反應特工黎文富佩槍的行為已蒙受站點主任陳幢應恩赦。
+
+[[div class="blockquote"]]
+
+這次行動尚算成功，但是往後，如果艾德遇到了更困難的舉證，比如說需要主動證明自己不應該被殺的情形，他可能還需要更加新的觀點。
+
+　　——真紀真博士，RAISA駐繁體中文分部副主任
+
+[[/div]]
+
+[[footnoteblock]]
+----
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+【急迫三部曲「瓦巧鉤憚黃金殙」】
+<< [[[SCP-ZH-707]]] | SCP-ZH-636 | [[[SCP-ZH-565]]] >>
+【SCP-ZH系列一】
+<< [[[SCP-ZH-635]]] | SCP-ZH-636 | [[[SCP-ZH-637]]] >>
+[[/=]]
+[[/div]]
+[[include :scp-zh-tr:component:license-box
+|lang=ZH]]
+> **圖像作者：** [[*user Edward_Knave]]
+> **授權方式：** CC BY-SA 3.0
+> **圖源連結：** https://i.imgur.com/sTjPEbG.png
+[[include :scp-zh-tr:component:license-box-end]]

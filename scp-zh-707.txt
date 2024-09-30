@@ -1,0 +1,160 @@
+[[include :scp-zh-tr:component:scp-meta-title-hiding css-style=classic]]
+[[include :scp-wiki:component:toggle-sidebar]]
+[[include :scp-wiki:component:preview
+text=……紀律通常會說在南方。]]
+[[div style="display: none;"]]
+[[include component:image-block
+name=https://i.imgur.com/gPTThZ8.png
+|caption=.]]
+[[/div]]
+[[module css]]
+#header h1 a {
+    display: block;
+    margin: 0;
+    padding: 80px 0 25px;
+    line-height: 0px;
+    max-height: 0px;
+    color: transparent;
+    background: transparent;
+    font-family: BauhausLTDemi. 'Nanum Gothic'. Arial. sans-serif;
+    text-decoration: none;
+    text-shadow: none;
+    letter-spacing: 0.9px;
+}
+ 
+#header h1 a::before {
+    content: "Site-ZH-11";
+    color: #fff;
+    letter-spacing: -0.02em;
+    text-shadow: 3px 3px 5px #000;
+}
+ 
+#header h2 span {
+    display: block;
+    margin: 0;
+    padding: 19px 0;
+    line-height: 0px;
+    max-height: 0px;
+    font-weight: bold;
+    color: transparent;
+    text-shadow: none;
+}
+ 
+#header h2 span::before {
+    content: '翰林 同文 護法';
+    color: #ffc;
+    text-shadow: 1px 1px 1px #000;
+    text-shadow: 1px 1px 1px rgba(0,0,0,.8);
+}
+[[/module]]
+[[include info:start]]
+[[=]]
+//知北遊於玄水之上，知不得問，反於白水之南，知不得問，反於帝宮，黃帝曰：「無思無慮始知道，無處無服始安道，無從無道始得道。」//
+[[/=]]
+----
+**著者：** [[*user edward-knave]]（[[[edward-knave|作者頁面]]]）
+**篇名：** SCP-ZH-707 - 如果真理有一個方位（Should Truth Prefers a Direction...）
+**備註：** 繁中分部[[[jamcon-zh-2024|人類紀元12024年急迫競賽]]]第一題「南」投稿。投稿成就為「東部線」。[*https://www.ifreesite.com/wordcount/ 字數統計]顯示內文含1089 + 145 = 1234全形字，符合「輕軌」成就條件。
+[[include info:end]]
+[[include :scp-zh-tr:component:anomaly-class-bar-source
+|item-number= ZH-707
+|clearance= 3
+|container-class= keter
+|secondary-class= none
+|secondary-icon=
+|disruption-class= vlam
+|risk-class= 警戒
+]]
+----
+**項目編號：** SCP-ZH-707
+
+**項目等級：** Keter
+
+**特殊收容措施：** 受SCP-ZH-707影響者獲准在站點暫時住宿，惟應在日常交通事先規劃徒步路程，因應必須向北方行走的部分指定休息地點及時間。受影響者若因項目影響感到不適，應隨自行判斷，適當休息至體力恢復並繼續行程。
+
+**描述：** SCP-ZH-707是一種適用於人類方位感官的時空異常現象，受影響者及其身邊半徑1公尺以內的人類在向北行走時，會感到極其疲憊，且在嘗試進入交通工具時會感到極度抗拒而無法乘坐；反之，向南行走時，時間流逝與體能消耗俱大幅減慢。
+
+根據觀察，SCP-ZH-707只會影響Site-ZH-11的其中一名人員，並在未知時機更換目標，站點人員因此未能掌握規律，而暫時如同原因未知的非異常疾病處理，主力控制負面效應，直到科學部門顧問向行政部門報告受影響者周圍的空間扭曲異常，隨之為SCP-ZH-707正式建檔並通傳站點人員以協助控制項目。
+
+2024/09/2█，RAISA-ZH副主任真紀真博士下令對SCP-ZH-707展開主動收容，由隨扈趙禮竺特工隨同親自率領，並指示當時受影響的助理研究員Edward Knave參與。
+
+[[div class="blockquote"]]
+__**SCP-ZH-707收容團隊**__
+* 真紀真博士（RAISA-ZH）——隊長
+* 趙禮竺特工（RAISA-ZH、維安部門）——隊伍護衛
+* 助理研究員Edward Knave（RAISA-ZH、學科泛戰術化部門）——項目押運
+**注意事項：** 因為項目異常特性，全程須徒步行走。在隊伍向北行走時，其餘成員應與押運專員保持距離，並在其停止移動時協助恢復體力。隊伍向南行走時，全隊應儘量靠近押運專員，以保持在項目正面影響範圍以內。
+[[/div]]
+
+__**隨身錄影片段節錄（SCP-ZH-707收容團隊一致授權公開）**__
+
+[[div class="blockquote"]]
+
+**Knave研究員：** 要到哪裡去？
+
+**真紀副主任：** 向南走。
+
+//［三人離開圖書館，真紀副主任與趙禮竺特工牽手同行，Knave研究員殿後。］//
+
+[[/div]]
+
+[[div class="blockquote"]]
+
+//［收容團隊進入台南赤崁樓文昌閣。］//
+
+//［在真紀副主任的指示下，神態略帶疲憊的Knave研究員上前對魁星像跪拜，擲筊至取得三次聖筊為止。］//
+
+//［Knave研究員在投入香油錢之後，取得一枝鉛筆，表面以金漆書「赤崁樓魁星筆」六字。］//
+
+//［收容團隊再對魁星像鞠躬一次之後離開，迅速向南而去。］//
+
+[[/div]]
+
+[[div class="blockquote"]]
+
+//［三人一邊沿市道183號行走，一邊仰望天上的晚霞。］//
+
+**Knave研究員：** 這樣子走遠路也是第一次……
+
+**真紀副主任：** 艾德沒有散步的習慣嗎？
+
+**Knave研究員：** 這算「散步」……？——不過像這樣子走法，以前倒是有經常去集會遊行，同一條路線走過不知多少回，可之後沒這樣的機會了。
+
+[[/div]]
+
+[[div class="blockquote"]]
+
+//［三人經過屏東縣枋寮鄉的建築群，繼續行走。］//
+
+**Knave研究員：** 真紀副主任、禮竺小姐，抱歉要讓您們陪我走這麼遠的路……
+
+**真紀副主任：** 這對我們來說不算遠了。
+
+**Knave研究員：** 厲害……話說，我們的最終目的地在哪裡來著？
+
+**真紀副主任：** 南方。
+
+[[/div]]
+
+在主動收容令下達的同時，英語本部Site-137人員經過繁體中文分部請求，取用[[[SCP-283]]]，將之運送至位於台灣最南點的會合地點，與SCP-ZH-707收容團隊會合，依照Site-ZH-11諮詢部門的神話及民俗部顧問指引，施行奇蹟術儀式，使用SCP-283以及台灣最南點意象標誌雕塑為方位參照，以Knave研究員從赤崁樓取得的鉛筆為錨點，壓制SCP-ZH-707的效應，並將之錨定於筆中，令其適用對象改為該鉛筆的持有者。
+
+從基金會配給的計步器可見，收容團隊從Site-ZH-11到台灣最南點的路程全長155公里，惟從外界所見，耗時只有1小時40分鐘，推斷為SCP-ZH-707的時間異常效應所致。
+
+隨SCP-ZH-707錨定物就地隱匿收容於台灣最南點，將SCP-ZH-707重編為Safe級的議案現正等待分級委員會受理。
+
+[[footnoteblock]]
+----
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+【急迫三部曲「瓦巧鉤憚黃金殙」】
+<< SCP-ZH-707 | [[[SCP-ZH-636]]] | [[[SCP-ZH-565]]] >>
+【SCP-ZH系列一】
+<< [[[SCP-ZH-706]]] | SCP-ZH-707 | [[[SCP-ZH-708]]] >>
+[[/=]]
+[[/div]]
+[[include :scp-zh-tr:component:license-box
+|lang=ZH]]
+> **圖像作者：** [[*user Edward_Knave]]
+> **授權方式：** CC BY-SA 3.0
+> **圖源連結：** https://i.imgur.com/gPTThZ8.png
+[[include :scp-zh-tr:component:license-box-end]]

@@ -1,0 +1,59 @@
+[[include :scp-zh-tr:component:scp-meta-title-hiding]]
+
+[[include :scp-zh-tr:theme:classic]]
+
+[[include info:start]]
+原作者：[[*user Weryllium]]
+譯者：[[*user surprising_mars]]
+原文：[[[https://scp-wiki.wikidot.com/scp-3637|SCP-3637 - Many Waters]]]
+篇名：SCP-3637 – 眾水
+[[include info:end]]
+
+[[include component:image-block
+    name=https://scp-wiki.wdfiles.com/local--files/scp-3637/Maiasaura.jpg |
+    caption=轉移至博物館的SCP-3637。
+]]
+
+**項目編號：**SCP-3637
+
+**項目等級：**--Euclid-- Neutralized
+
+**特殊收容措施：**自3637-A事故後，3637-[[span class="ruby"]]拉瑪[[span class="rt"]]Ramah[[/span]][[/span]]事件完全停止，且SCP-3637被重分為Neutralized級。於3637-A事故一年後，SCP-3637被完全挖出，並轉移至由基金會前台經營的博物館。
+
+[[collapsible show="已歸檔之特殊收容措施" hide="已授權"]]
+應環繞距SCP-3637半徑一公里的區域，設置8公尺高圍欄，並每隔200公尺派駐守衛。若SCP-3637-1試圖破壞屏障，應使用高壓水槍阻撓其行為。
+[[/collapsible]]
+
+**描述：**SCP-3637是一副慈母龍屬（//Maiasaura//）骨架化石，位於蒙大拿州拜納姆東方8公里處，於古生物學挖掘中發現。在初次挖掘出SCP-3637時，古生物學團隊聽到一聲來源不明的響亮咆哮。
+
+每當雷雨形成或直接經過SCP-3637時，項目會經歷一次3637-拉瑪事件。
+
+當發生3637-拉瑪事件時，SCP-3637附近的風速會上升至約時速140公里、出現一聲嘹亮的吼叫，且SCP-3637會吸引周圍119公尺內的鹽晶，使鹽晶完全覆蓋其上。而後，一道閃電將直接擊中SCP-3637（SCP-3637不會因此受到傷害），鹽晶隨即組合為成年慈母龍骨架的形狀，下稱SCP-3637-1。SCP-3637-1將掙脫SCP-3637並離開。最後風速回歸正常，3637-拉瑪事件結束。
+
+SCP-3637-1傾向漫無目的地徘徊，不時發出聲音並用前肢挖掘地面。SCP-3637-1會持續上述動作，直到雨水將其分解至無法行動。已留意到當SCP-3637-1被雨水分解時，它將發出更大的聲音，並如發狂般更快速地挖掘。SCP-3637-1附近會持續降雨，直到實體完全溶解。同一時間僅會存在一個SCP-3637-1實體，在該實體溶解前不會出現下一起3637-拉瑪事件。
+
+SCP-3637-1能記憶曾挖掘過的區域及特定基金會人員，解釋此現象的主要理論為SCP-3637-1是一個重複出現的實體，或一群共享集體記憶的實體。
+
+**3637-A事故：**於2018年5月13日，基金會古生物學團隊在距離SCP-3637約11公里處挖出一個近乎完整的慈母龍巢，巢穴內有數打化石蛋。即使沒有下雨，SCP-3637所在處仍立刻發生3637-拉瑪事件，其所產生的SCP-3637-1立即大聲咆哮，直奔向恐龍巢。而後，SCP-3637-1從地面吸收鹽分，成長至15公尺高，並輕易翻越圍欄。駐守人員試圖用高壓水槍無效化SCP-3637-1但未成功。隨即，SCP-3637-1脫去多餘鹽分，回歸原先9公尺高的體型，且持續奔向巢穴。在後備人員趕往現場時，位於恐龍巢附近的人員被建議撤離。抵達巢穴後，SCP-3637-1在旁邊躺下，並用鼻子磨蹭化石蛋，最後崩解回鹽晶。
+
+[[footnoteblock]]
+
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[SCP-3636]]] | SCP-3637 | [[[SCP-3638]]] >>
+[[/=]]
+[[/div]]
+
+[[include :scp-zh-tr:component:license-box
+|author=Weryllium
+|translator=surprising_mars
+|lang=EN]]
+=====
+> **檔案名稱：**Maiasaura.jpg
+> **圖像作者：**Paul Hermans
+> **圖像授權協議：**CC-BY-SA 3.0
+> **圖源連結：** https://scp-wiki.wdfiles.com/local--files/scp-3637/Maiasaura.jpg
+> **衍生自：** https://commons.wikimedia.org/wiki/File:Maia_Hadrosauri%C3%ABr_28-12-2007_15-11-57.jpg
+> **附註：**由Weryllium修圖裁去照片中的小孩
+=====
+[[include :scp-zh-tr:component:license-box-end]]

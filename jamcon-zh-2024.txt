@@ -341,6 +341,7 @@ Cinamalay
 || [[[scp-992|]]] || [[*user Edward_Knave]] || 題目1：南 ||
 || [[[scp-271|]]] || [[*user Edward_Knave]] || 題目2：新 ||
 || [[[scp-483|]]] || [[*user Edward_Knave]] || 題目3：重新出發 ||
+|| [[[scp-3637|]]] || [[*user surprising_mars]] || 題目3：重新出發 ||
 ||  ||  ||  ||
 ||  ||  ||  ||
 
