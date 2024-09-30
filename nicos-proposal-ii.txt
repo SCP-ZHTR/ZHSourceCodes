@@ -1,0 +1,325 @@
+[[include component:scp-meta-title-hiding | showing-title=Nico的提案二]]
+[[include info:start]]
+**Nico的提案二 -  從左舞台悄然退場**
+**作者：**[[*user Uncle Nicolini]]
+**原文：**[https://scp-wiki.wikidot.com/nicos-proposal-ii Nico's Proposal II - Exit Stage Left]
+**譯者：**[[*user Kikunai]]
+**圖像：** 見底部。
+[[include info:end]]
+
+**項目編號：** SCP-001
+
+**項目等級：** Safe
+
+**特殊收容措施：** 根據導演的命令，預期所有演員不再出演擔當的角色，並在謝幕鞠躬後退到左舞台[[footnote]]**譯註：**舞台的左側（以演員的角度來看）。[[/footnote]]離開。
+
+不可在扮演角色時提及SCP-001。
+
+**描述：** SCP-001指所有演員在表演結束後的定期重新選角。
+
+選角現正生效中。
+
+@@ @@
+@@ @@
+
+**演員招募：** 導演已發出以下新角色的演員招募。需注意此文件僅可查閱未曾被選派演員的角色。
+
+||~ 角色||~ 備註||
+||Garrison博士|| 對未來有着過分多的信心，很有自信。||
+||日曆特工||愛以拳頭解決問題。||
+||Rex研究員|| 不善溝通，沒自信。||
+||D-1221|| 擁有瘋狂的心智。||
+
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+
+[[div style="float: center; border: solid 3px #444444; width: 85%; padding: 1px 15px; margin: auto; margin-top: 10px; box-shadow: 0 1px 3px rgba(0,0,0,.2);"]]
+[[table style="align:left; margin-top: 10px;"]]
+[[row]]
+[[hcell style="text-align:right"]]
+**寄件人：**
+[[/hcell]]
+[[cell]]
+o5-10@overwatch.scp
+[[/cell]]
+[[/row]]
+[[row]]
+[[hcell style="text-align:right"]]
+**寄件人：**
+[[/hcell]]
+[[cell]]
+o5-1@overwatch.scp
+[[/cell]]
+[[/row]]
+[[row]]
+[[hcell style="text-align:right"]]
+**CC：**
+[[/hcell]]
+[[cell]]
+
+[[/cell]]
+[[/row]]
+[[row]]
+[[hcell style="text-align:right"]]
+**標題：**
+[[/hcell]]
+[[cell]]
+一切結束
+[[/cell]]
+[[/row]]
+[[/table]]
+
+-----
+
+我們試鏡並被選派角色感覺就像昨天才發生的事。光陰似箭，不是嗎？這不禁使我想起這門藝術的本質——不像一幅畫、一座雕像，我們上一刻站在這裏，下一刻就不在了。但作為演員的我們早就知道了。
+
+抱歉在這裏耍花腔，我的朋友。我們在謝幕禮見。
+
+致意。
+O5-10
+控制，收容，保護[[/div]]
+
+[[div style="float: center; border: solid 3px #444444; width: 85%; padding: 1px 15px; margin: auto; margin-top: 10px; box-shadow: 0 1px 3px rgba(0,0,0,.2);"]]
+[[table style="align:left; margin-top: 10px;"]]
+[[row]]
+[[hcell style="text-align:right"]]
+**寄件人：**
+[[/hcell]]
+[[cell]]
+o5-1@overwatch.scp
+[[/cell]]
+[[/row]]
+[[row]]
+[[hcell style="text-align:right"]]
+**收件人：**
+[[/hcell]]
+[[cell]]
+o5-10@overwatch.scp
+[[/cell]]
+[[/row]]
+[[row]]
+[[hcell style="text-align:right"]]
+**CC：**
+[[/hcell]]
+[[cell]]
+
+[[/cell]]
+[[/row]]
+[[row]]
+[[hcell style="text-align:right"]]
+**標題：**
+[[/hcell]]
+[[cell]]
+Re:The End
+[[/cell]]
+[[/row]]
+[[/table]]
+
+-----
+
+我費了很多精神想了很久，決定不會放棄我的角色。如果導演對此有意見，那就由他了。
+
+謹啟。
+O5-1
+控制，收容，保護[[/div]]
+
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+
+以下是準備利用SCP-001執行的執導筆記清單。
+
+||~ 角色||~ 備註||
+||Wettle博士|| 我想看到這個角色朝更嚴肅新方向進發。把喜劇化為悲劇。 ||
+||Strelnikov特工|| 這個角色有着負面的種族刻板印象。我們應該想想怎樣反轉這個印象，還有，或許添加一點深度。||
+||Clef博士|| 雖然透過營造一種故作正經的氛圍使他嚴肅的舉止與古怪情節構成了令人發笑的反差，然而嘩世動俗的演出才是真正畫龍點睛之筆之處||
+||Gears博士|| 經過深思熟慮，Gears類型的角色不會有妻子或者子女，因此他們往後不會出現。 ||
+||Everwood博士|| //ATTN服裝部門：記得這次斬去演員的右臂。那則機械臂的故事需要太多解釋了。//||
+
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+
+[[div style="float: center; border: solid 3px #444444; width: 85%; padding: 1px 15px; margin: auto; margin-top: 10px; box-shadow: 0 1px 3px rgba(0,0,0,.2);"]]
+[[table style="align:left; margin-top: 10px;"]]
+[[row]]
+[[hcell style="text-align:right"]]
+**寄件人：**
+[[/hcell]]
+[[cell]]
+o5-10@overwatch.scp
+[[/cell]]
+[[/row]]
+[[row]]
+[[hcell style="text-align:right"]]
+**收件人：**
+[[/hcell]]
+[[cell]]
+o5-1@overwatch.scp
+[[/cell]]
+[[/row]]
+[[row]]
+[[hcell style="text-align:right"]]
+**CC：**
+[[/hcell]]
+[[cell]]
+
+[[/cell]]
+[[/row]]
+[[row]]
+[[hcell style="text-align:right"]]
+**標題：**
+[[/hcell]]
+[[cell]]
+Re:Re:一切結束
+[[/cell]]
+[[/row]]
+[[/table]]
+
+-----
+
+你在哪裏？我知道你說過你不想卸下角色，我覺得是狂言，但我相信你可以作出自己的決定。我猜我還是在謝幕時等你出現好了。導演親自問我你的去向，而我不知道該說甚麼。
+
+致意。
+O5-10
+控制，收容，保護[[/div]]
+
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+
+並非所有角色都會在每個SCP-001循環中受重新選派。以下表格列出不會重歸出演的角色，以及導演提供的解釋。
+
+||~ 角色||~ 備註||
+||Iceberg博士|| 易忘、無關、多餘。 ||
+||Kain Pathos Crow教授|| 選拔犬隻演員並訓練牠們與人類演員合作實在太花時間了。||
+||Kondraki博士|| 屢次造成舞台事故，以及其煽動性的行為。  ||
+||Smalls研究員|| 屢次缺席。 ||
+||Lloyd研究員|| 角色對其他演員造成持續、直接的危險。||
+
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+
+[[div style="float: center; border: solid 3px #444444; width: 85%; padding: 1px 15px; margin: auto; margin-top: 10px; box-shadow: 0 1px 3px rgba(0,0,0,.2);"]]
+[[table style="align:left; margin-top: 10px;"]]
+[[row]]
+[[hcell style="text-align:right"]]
+**寄件人：**
+[[/hcell]]
+[[cell]]
+o5-10@overwatch.scp
+[[/cell]]
+[[/row]]
+[[row]]
+[[hcell style="text-align:right"]]
+**收件人：**
+[[/hcell]]
+[[cell]]
+o5-1@overwatch.scp
+[[/cell]]
+[[/row]]
+[[row]]
+[[hcell style="text-align:right"]]
+**CC：**
+[[/hcell]]
+[[cell]]
+
+[[/cell]]
+[[/row]]
+[[row]]
+[[hcell style="text-align:right"]]
+**標題：**
+[[/hcell]]
+[[cell]]
+一切結束
+[[/cell]]
+[[/row]]
+[[/table]]
+
+-----
+
+剛剛是我們最後一次的鞠躬。我已經把道具跟服裝還給導演了，這將會是我最後一則信息。是時候化為僅僅一段記憶了。
+
+我希望你知道自己在做甚麼。
+
+致意，
+你的朋友。
+[[/div]]
+
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+
+**等待過渡的角色：** 以下角色未在謝幕出現。
+
+||~ 角色||~ 狀態||
+||O5-1|| 已定位||
+
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+[[=]]
+[[collapsible show="(1)道新信息：從左舞台悄然退場。" hide="[CLOSE]" hideLocation="both"]]
+[[<]]
+[[div style="float: center; border: solid 3px #444444; width: 85%; padding: 1px 15px; margin: auto; margin-top: 10px; box-shadow: 0 1px 3px rgba(0,0,0,.2);"]]
+[[table style="align:left; margin-top: 10px;"]]
+[[row]]
+[[hcell style="text-align:right"]]
+**寄件人：**
+[[/hcell]]
+[[cell]]
+the-show@foundation.scp
+[[/cell]]
+[[/row]]
+[[row]]
+[[hcell style="text-align:right"]]
+**收件人：**
+[[/hcell]]
+[[cell]]
+o5-1@overwatch.scp
+[[/cell]]
+[[/row]]
+[[row]]
+[[hcell style="text-align:right"]]
+**標題：**
+[[/hcell]]
+[[cell]]
+從左舞台悄然退場
+[[/cell]]
+[[/row]]
+[[/table]]
+-----
+
+無人能夠逃出故事的結局。
+
+[[=image https://scp-wiki.wdfiles.com/local--files/nicos-proposal-ii/killagent.gif]]
+
+[[/div]]
+[[/<]]
+[[/collapsible]]
+[[/=]]
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+[[include :scp-zh-tr:component:license-box]]
+=====
+> **Filename:** killagent.gif
+> **Name:** killagent.gif
+> **Author:** [[*user Uncle Nicolini]]
+> **License:** Creative Commons Attribution-ShareAlike 3.0
+> **Source Link:** [https://scp-wiki.wikidot.com/nicos-proposal-ii SCP Wiki]
+> **Derivative Of:** SCP logo by [[*userfar2]]
+[[include :scp-zh-tr:component:license-box-end]]
