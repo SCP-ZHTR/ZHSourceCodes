@@ -1,0 +1,64 @@
+[[include info:start]]
+**篇名：**項目檔案圖像紀錄：「瓦巧鉤憚黃金殙」
+**作者：**[[*user Haru Ken]]
+
+------
+
+**繁中2024急迫競賽藝術作品，投稿題目為「新」。**
+//向著新的方向前進。//
+
+靈感源於[[*user Edward_Knave]]的急迫三部曲「瓦巧鉤憚黃金殙」，在圖像上也有詢問原作者一些意見。
+
+[[collapsible show="更多想說的話。" hide="更多想說的話。"]]
+感謝[[*user Edward_Knave]]寫出了這幾篇文章且幫忙想了網址名稱[[footnote]]其大致回譯為「外在的依附令一人傾向失敗」。[[/footnote]]，也因一句「求之不得」而堅定了把它畫完的想法。
+也感謝此次競賽主辦人[[*user SamScript]]延後競賽的投稿時間，讓我可以有更充足的時間兼顧學業與競賽。
+最後，謝謝每個有看見此藝術作品的人（不管你投了uv、nv還是dv），以上。
+[[/collapsible]]
+[[include info:end]]
+[[module CSS]]
+.footnotes-footer{
+display:none;
+}
+[[/module]]
+
+來自K^2對於「瓦巧鉤憚黃金殙」事件之圖像紀錄。
+@@ @@
+@@ @@
+[[collapsible show="SCP-ZH-707" hide="如果真理有一個方位"]]
+@@ @@
+[[div class="scp-image-block block-center"
+style="width:350px;"]]
+[[image https://imgur.com/krQQbv9.jpg 
+style="width:100%;"]]
+[[div class="scp-image-caption" style="width:100%;"]]
+「收容團隊再對魁星像鞠躬一次之後離開，迅速向南而去。」 - 摘錄自[http://scp-zh-tr.wikidot.com/scp-zh-707 SCP-ZH-707]檔案之隨身錄影片段。
+[[/div]]
+[[/div]]
+@@ @@
+[[/collapsible]]
+@@ @@
+[[collapsible show="SCP-ZH-636" hide="流光、幻影、半屏大仙"]]
+@@ @@
+[[div class="scp-image-block block-center"
+style="width:500px;"]]
+[[image https://imgur.com/pfMLRYD.jpg 
+style="width:100%;"]]
+[[div class="scp-image-caption" style="width:100%;"]]
+「而我，永遠都不會代替友方自證這一個論題。」 - 摘錄自[http://scp-zh-tr.wikidot.com/scp-zh-636 SCP-ZH-636]檔案之Site-ZH-11戰術哲學部辦公室監視影像節錄。
+[[/div]]
+[[/div]]
+@@ @@
+[[/collapsible]]
+@@ @@
+[[collapsible show="SCP-ZH-565" hide="無頭的愛德"]]
+@@ @@
+[[div class="scp-image-block block-center"
+style="width:350px;"]]
+[[image https://imgur.com/YlqVxOX.jpg 
+style="width:100%;"]]
+[[div class="scp-image-caption" style="width:100%;"]]
+「也對，是重新出發的時候了。」 - 摘錄自[http://scp-zh-tr.wikidot.com/scp-zh-565 SCP-ZH-565]檔案之案情重建抄錄。
+[[/div]]
+[[/div]]
+@@ @@
+[[/collapsible]]

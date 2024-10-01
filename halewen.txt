@@ -79,7 +79,7 @@
 標註為[未翻譯...吧]的作品表示作品由CN的作者撰寫，而翻譯的CN文本也是同個作者所製，因此不確定是否需要翻譯。
 [[=]]
 [[size 1.2em]]
-++++ 待翻譯文章數量：56篇。
+++++ 待翻譯文章數量：58篇。
 [[/size]]
 [[/=]]
 EN分部：
@@ -114,6 +114,9 @@ EN分部：
 
 > Dr. Wondertainment：
 > - [[[to-never-again-see-the-light-of-day|To Never Again See The Light Of Day]]] [未翻譯]
+
+> Eventyr：
+> - [[[blessings-of-bumaro|Blessings of Bumaro]]] [未翻譯]
 
 > Clef與Bright博士：
 > - [[[a-canticle-for-bright|A Canticle For Bright]]] [未翻譯]
@@ -237,6 +240,7 @@ EN分部：
 > - [[[SCP-7931]]][[footnote]]這篇單純是個人喜好他的文字運用，內文許多人應該都無法接受[[/footnote]] X is for Xenotransplantation X是「異質移植」 
 > - [[[SCP-7999]]] Meet Me in the Stars 來星星間找我
 > - [[[SCP-8209]]] Repairing the World [未翻譯]
+> - [[[SCP-8585]]] A Setting Sun [未翻譯]
 > - [[[SCP-8900-EX]]] Sky Blue Sky 藍天隕落
 
 JP分部：
