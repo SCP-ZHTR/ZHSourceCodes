@@ -38,9 +38,9 @@ line-height: 1.6em;
 [[include info:start]]
 **作者：** 不認得海上的鞭痕的[[*user edward-knave]]（[[[edward-knave|作者頁面]]]）
 **篇名：** SCP-ZH-674-J - 海外驗傷（Overseas Exam）
-**備註：** 繁中分部[[[summer-clear-sky-contest|夏日晴空競賽]]]投稿，採用題目「**夏天**」、「**流動**」，牽涉景物概念「海峽夏天的流水」，成立普通雙池組合。**鳴謝[[*user pao-mian]]、[[*user s97169]]、[[*user kikunai]]、[[*user abyssdream]]、[[*user samscript]]提點行文。**
+**備註：** 繁中分部[[[summer-clear-sky-contest|夏日晴空競賽]]]投稿，採用題目「**夏天**」、「**流動**」，牽涉景物概念「海峽夏天的流水」，成立普通雙池組合。**鳴謝[[*user pao-mian]]、[[*user Sugoi97169]]、[[*user kikunai]]、[[*user abyssdream]]、[[*user samscript]]提點行文。**
 * **登場人物原案（文本順序）：**
- * Rosetta.aic：[[*user edward-knave]]
+ * Rosetta.aic（Site-ZH-11）：[[*user edward-knave]]
  * mars.aic：[[*user surprising-mars]]
  * 小倉矩久：[[*user edward-knave]]
  * 真紀真：[[*user frederica bernkastel]]
