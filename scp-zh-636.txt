@@ -54,7 +54,7 @@ name=https://i.imgur.com/sTjPEbG.png
 ----
 **著者：** [[*user edward-knave]]（[[[edward-knave|作者頁面]]]）
 **篇名：** SCP-ZH-636 - 流光、幻影、半屏大仙（The Streaks, the Constructs, and the Portioned）
-**備註：** 繁中分部[[[jamcon-zh-2024|人類紀元12024年急迫競賽]]]第二題「新」投稿，核心概念為「思辯下的新觀點」。投稿成就為「南迴線」。[*https://www.ifreesite.com/wordcount/ 字數統計]顯示內文含1195 + 162 = 1357全形字，符合「輕軌」成就條件。
+**備註：** 繁中分部[[[jamcon-zh-2024|人類紀元12024年急迫競賽]]]第二題「新」投稿，核心概念為「思辯下的新觀點」。投稿成就為「南迴線」。[*https://www.ifreesite.com/wordcount/ 字數統計]顯示內文含1195 + 162 = 1357全形字，符合「輕軌」成就條件。鳴謝[[*user Frederica Bernkastel]]及[[*user YONGZUN]]支援確認設定。
 [[include info:end]]
 
 [[include :scp-zh-tr:component:anomaly-class-bar-source

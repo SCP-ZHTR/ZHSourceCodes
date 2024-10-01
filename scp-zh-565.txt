@@ -52,7 +52,7 @@ name=https://i.imgur.com/sFW77v4.png
 ----
 **著者：** [[*user edward-knave]]（[[[edward-knave|作者頁面]]]）
 **篇名：** SCP-ZH-565 - 無頭的愛德（Ed the Headless）
-**備註：** 繁中分部[[[jamcon-zh-2024|人類紀元12024年急迫競賽]]]第三題「重新出發」投稿。投稿成就為「東部線」。[*https://www.ifreesite.com/wordcount/ 字數統計]顯示內文含1410 + 183 = 1593全形字，符合「輕軌」成就條件。
+**備註：** 繁中分部[[[jamcon-zh-2024|人類紀元12024年急迫競賽]]]第三題「重新出發」投稿。投稿成就為「東部線」。[*https://www.ifreesite.com/wordcount/ 字數統計]顯示內文含1410 + 183 = 1593全形字，符合「輕軌」成就條件。鳴謝[[*user Frederica Bernkastel]]支援確認設定。
 [[include info:end]]
 
 [[include :scp-zh-tr:component:anomaly-class-bar-source
