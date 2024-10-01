@@ -1,7 +1,7 @@
 [[include component:scp-meta-title-hiding css-style=classic]]
 [[include :scp-zh-tr:theme:classic]]
 [[include :scp-wiki:info:start]]
-作品：SCP-ZH-250 會到的快一點
+作品：SCP-ZH-250 會到得快一點
 作者：[[*user Frederica Bernkastel]]
 
 本篇投稿 Cinamalay 急那麼來：繁中急迫競賽 3.0
