@@ -4,10 +4,456 @@
 **圖片授權 Image Credit:** 頁面中相片來自 [[*user samscript]]，應以 CC BY-SA 3.0 授權分享。The image used in the page is from [[*user samscript]] and should be spread under CC BY-SA 3.0 License.
 [[include info:end]]
 
-[[module ListPages category="fragment" parent="." limit="1" order="created_at" offset="@URL|0"]]
-%%content%%
+[[include :scp-zh-tr:theme:penumbra]]
+[[module css]]
+:root:lang(zh) {
+  --header-title: "SITE-ZH-44";
+  --header-subtitle: "Nengneng pasiwali yo sadak sa ni Cidal";
+  --lgurl: url("https://i.imgur.com/YtZjaHv.png");
+  --accentColor: #32cd87;
+}
 [[/module]]
 
-[!-- 各迭代的原始頁面--]
-[!-- http://scp-zh-tr.wikidot.com/fragment:radiw-1 --]
-[!-- http://scp-zh-tr.wikidot.com/fragment:radiw-2 --]
+[[image https://i.imgur.com/2DwFks4.jpeg width="100%" align="center"]]
+[[=]]
+-----
+
+//Nengneng pasiwali yo sadak sa ko cidal//
+//在太陽升起時，往東方望去。//
+
+//Lomowad yo sato kako, ano papacem to haw, ina//
+//一旦甦醒，我便起身了，媽媽啊。//
+
+-----
+[[/=]]
+
+@@ @@
+@@ @@
+
+[[=]]
++* 這是什麼 ？
++++* O maan koni?
+[[/=]]
+
+[[div class="blockquote"]]
+
+一段關於太陽、山林、海洋、島嶼、諸神，以及重生的故事。
+
+本系列圍繞著被編號為「SCP-ZH-922」的女孩：Cidal Dongi 展開，在 2022 到 2024 年之間，沉睡的諸神為當代的台灣東部帶來了一場不可逆的奇幻浩劫。
+
+阿美語拼寫與英文發音並不相同，故 Cidal Dongi 這個名字的最貼近華語唸音是「吉薩兒 · 汝逆」或「幾辣 · 擄逆」，而不是「西打 · 東吉」。
+
+本系列為虛構創作。__//請勿將本系列中的設定視為真實世界的阿美族文化知識，或作為參考資料。//__
+
+[[/div]]
+
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+
+
+[[=]]
++ 第一部分：山林之歌
++++* O Radiw no Kilakilangan
+
+//甦醒自百年沉眠，花與春日之使者踏上重生之路。
+在他的培育下譜出屬於山林的現代傳奇。//
+[[/=]]
+[[=]]
+-----
++++ [[[scp-zh-922| ]]]
++++++* NaniFarangaw a Kaying
+-----
+[[/=]]
+
+[[div class="blockquote"]]
+SCP-ZH-922 是一名女性人類，在基金會回收時的生理年齡約16歲。其能夠藉由「喚名」和「吟唱指定歌謠」的方式促進植物活體的生長，並按照其意願扭曲成指定的形狀......
+
+ZH-44 號站為提升收容的穩定性與項目的溝通方便性，開啟了《轉轍計畫》以確保 SCP-ZH-922 與基金會之間產生一定程度的依賴性......
+
+[[/div]]
+
+[[=]]
+-----
++++ [[[romiamiad-ni-cidal| ]]]
++++++* Romi'ami'ad ni Cidal
+-----
+[[/=]]
+
+[[div class="blockquote"]]
+由於項目的心理狀況與平均能力皆與普通的 16 歲女性人類沒有二致，為確保項目的穩定發展和收容可近性，本管理人在此展開了--預計四個月--暫無限期的看管與秩序輔導工作......
+
+「那你算是我的家人嗎？」
+
+[[/div]]
+
+[[=]]
+-----
++++ [http://scp-zh-tr.wikidot.com/we-are-no-more-than-mortal-souls 我們都只是血肉之軀]
++++++* O Heci ato Irang aca Koni a Tatirengan
+-----
+[[/=]]
+
+[[div class="blockquote"]]
+曾經陌生的山林此刻也早已被他記下了每一條小徑，天氣仍是與那天一樣的過度晴朗到讓人煩躁的地步，不過 Cidal 挺適合晴天的，所以不壞。
+
+這世界或許對她而言還是太過無理，但至少她這次能再次找回自己的歸屬，然後向前邁進。
+
+//這樣就好。//
+[[/div]]
+@@ @@
+
+@@ @@
+@@ @@
+
+[[=]]
++ 第二部分：太陽之歌
++++* O Radiw no Cidal
+
+//太陽從拂曉來到天頂，收穫光輝的計畫浮上檯面。//
+//顛峰後的頹勢卻無人攔阻。//
+[[/=]]
+[[=]]
+-----
++++ [[[methadone| ]]]
++++++* O Mipalafangay
+-----
+[[/=]]
+
+[[div class="blockquote"]]
+「Cidal，你去幫姊姊點一杯啤酒好不好？」說完託付給她三十塊銅板，陽子點個頭就走向吧台。眼看時機恰當，山本立刻過目資料夾中的第一頁。
+
+= {{《袋狀軌計畫》}}
+
+[[/div]]
+
+[[=]]
+-----
++++ [http://scp-zh-tr.wikidot.com/hr-database/offset/2 編輯：人事資料庫〔已鎖定〕- 特聘顧問]
++++++* O Fa^lohay a Singsi
+-----
+[[/=]]
+
+[[div class="blockquote"]]
+他們說，她是繁中的 Iris 。
+ 
+Lilliana 打量著眼前的女孩。一般員工或許很難將夠像人類的 SCP 視為 SCP 項目，但 Lilliana 不會。眼前的女孩無論再怎麼像是人類，實際上都是一團可能失控的風暴。
+
+充滿潛力。他們只消找到自由收放風暴的方法。
+[[/div]]
+
+[[=]]
+-----
++++ [[[radiw-na-cidal| ]]]
++++++* O Radiw ni Cidal
+-----
+[[/=]]
+
+[[div class="blockquote"]]
+他看著眼前輕撫自己臉龐的女孩子，惦記著她所夢見與遇見之事。或許未來的某一天，44 站，乃至於整個基金會，將會有需要她奉獻自己的時刻——無論那樣的奉獻僅僅是一臂之力，抑或是必須將她的第二生命還諸天地。
+
+他不禁悲痛起來。最起碼，要延緩那天的到來。盡其所能。
+[[/div]]
+
+[[=]]
+-----
++++ [[[day-day-is-good-day| ]]]
++++++* Makapahay ko Romi'ami'ad
+-----
+[[/=]]
+
+[[div class="blockquote"]]
+「歌唱吧，陽子。」
+
+是啊，就連鳥兒都有自由唱歌的權利，又有誰有資格綁住陽子自由的靈魂？她的家人不行、基金會不行、甚至連五十嵐自己都沒有能夠一直握住這雙手的自信。
+[[/div]]
+
+[[=]]
+-----
++++ [[[tadakaciferangan| ]]]
++++++* Tadakaciferangan
+-----
+[[/=]]
+
+[[div class="blockquote"]]
+追逐戰瞬間展開。還沒來得及反應，山本的上背與臉頰就被多方水砲攻擊，打得他只能落荒而逃。轉身一看，Cidal 仍然死咬著他不放，眼神卻已怒氣全失，留下的只有笑意。
+
+清澈的新池子反射正午的陽光，映照著變得涼爽的地表花圃。山邊，嬉鬧的人聲與烈陽的吼唱交織成歌，詠唱盛夏的正式降臨。
+[[/div]]
+@@ @@
+
+@@ @@
+@@ @@
+
+[[=]]
++ 第三部分：海洪之歌
++++* O Radiw no Riyar
+
+//上古神話的女神在異象之後，劇變之前降臨，
+令千萬生靈詠唱哭號，屬風暴與海洋的斑駁血淚。//
+[[/=]]
+[[=]]
+-----
++++ [[[scp-zh-020| ]]]
++++++* Mirepel to Tapelik no i'ayaway
+-----
+[[/=]]
+
+[[div class="blockquote"]]
+
+在退潮期SCP-ZH-020會在海灘上留下各類殘留物，殘留物通常與進入SCP-ZH-020的人員曾遺失的物品有關，在潛入SCP-ZH-020海域進行搜索時並沒有發現類似的殘留物存在跡象。
+
+[[/div]]
+
+
+[[=]]
+-----
++++ [[[night-tide| ]]]
++++++* O Tapelik no Dadaya
+-----
+[[/=]]
+
+[[div class="blockquote"]]
+
+他早已學會與陰霾共處，只是現在又有一些外力因素將風吹入體內，把長年沉積的那些情緒攪散，時間久了便再慢慢沉澱回去。
+
+結束了，他想，打算睜開眼看看又會有什麼妻子或女兒的遺物出現在沙灘上，映入眼簾的東西卻在他意料之外。
+
+[[/div]]
+
+[[=]]
+-----
+++++ [[[scp-zh-698| ]]]
++++++* Ci Tamiyacan ato Lenlen no Aomawkiay
+-----
+[[/=]]
+
+[[div class="blockquote"]]
+倘若 SCP-ZH-698-A 提供的資訊正確，則預定的大型海嘯將於 8 月 20 日日落時分前侵襲台灣東岸，目前尚無法預計最大浪高。【待更新】
+
+//Cidal 在一百年前被神祇封印起來，而孚拉加贊也在一百年前被殺死。我隱約感覺這兩件事情之間有某種關聯性？//
+
+//最不妙也最高的可能性是，她很可能處於這一切風暴的中心點，我們也早已深陷其中。//
+[[/div]]
+
+
+[[=]]
+-----
++++ [[[i-lisin-tafalong| ]]]
++++++* I Lisin: Tafalong
+-----
+[[/=]]
+
+[[div class="blockquote"]]
+「那你也至少告訴我！」陽子掙脫他，「如果我不值得休息，從一開始就告訴我！一整天，不，好幾個月以來，你們從來就對我不老實！我為什麼突然就變成 MTF 成員了？我為什麼要上那麼多課，卻連基金會想抓 kangic 這件事都不知道？太巴塱的祖靈沒出現又是怎麼一回事？你們到底還有多少事情沒讓我知道？」
+
+「我不是基金會的狗！」
+[[/div]]
+
+
+[[=]]
+-----
++++ [[[i-lisin-cilangasan| ]]]
++++++* I Lisin: Cilangasan
+-----
+[[/=]]
+
+[[div class="blockquote"]]
+
+早在基金會把她列為戰略資源的那一刻，陽子就被規劃為 SCP-ZH-684 的最終收容手段。
+
+而今晚就是那一天。她將被打扮成誘餌，偽裝成再次投靠祖靈的天選女兒。女神與龍前來接送她之際，就是基金會成功獵捕神明的時機。
+
+//真殘忍哪，基金會。//
+
+[[/div]]
+
+
+[[=]]
+-----
++++ [[[malenlen| ]]]
++++++* The Flood
+-----
+[[/=]]
+
+[[div class="blockquote"]]
+
+從山麓一路滑坡到海邊的綠意，被摧殘為一片褐黑色的焦土。遠方的海水不顯蔚藍，而且充滿敵意。
+
+她恨透了這一切。海人帶走了她所熱愛的生活。44 站、山林、海水。
+
+//也許我可以，殺死任何一個海人。//
+
+//殺一個是一個。//
+
+[[/div]]
+
+@@ @@
+
+@@ @@
+@@ @@
+
+[[=]]
++ 第四部分：群島之歌
++++* O Radiw no Kitakitakit
+
+//終章的歌謠開始吟唱，神話回到原初的起點。//
+//方舟劃破寧靜的海水，航向盡頭。//
+
+[[/=]]
+[[=]]
+----
++++* [[[SCP-ZH-728| ]]]
++++++* Cifar no Ongcoy ato Pakarongay no Cidal
+----
+[[/=]]
+[[div class="blockquote"]]
+
+//吾乃奧摩奇亞王族，撒瓦塱之子加瓦里珊。下方的人類團體「基金會」，立即交出西加走灣孑遺的女兒。你們與這座島還有存續的機會。//
+
+「經三垣指揮部以 13:0:0 決議，Site-ZH-44 立刻將 SCP-ZH-922 轉移給 SCP-ZH-698-C『加瓦里珊』。本決議不會撤回。」
+[[/div]]
+
+[[=]]
+----
++++* [[[radiw-no-kitakit-1|西加走灣輓歌・上：群島再現]]]
++++++* Radiw no Sikacawan: Mitafang
+----
+[[/=]]
+[[div class="blockquote"]]
+
+於是，時隔七十個秋分，再一次有外人進入了西加走灣海域。這個曾經餵養八千人與數百尾鯨魚，卻在一夕間淪為焦荒，被鮮血染紅泥壤的土地。
+
+「不用對於獻祭她的舉動感到太過罪惡感，一直以來，這都是她被神樹復活的使命。」
+
+[[/div]]
+
+[[=]]
+----
++++* [[[radiw-no-kitakit-2|西加走灣輓歌・中：部族瓦解]]]
++++++* Radiw no Sikacawan: Pakoyoc
+----
+[[/=]]
+[[div class="blockquote"]]
+
+「Cidal Dongi Tapangan，你有三十分鐘抵達我們所在的海灘，否則這個人會死。」
+
+匕首在她的手中成形。一把與她的前臂等長，刀柄與刀身各佔一半的利刃，閃爍著不現實的黑色與白色輪廓，在現實中波動。
+
+她尖叫痛哭。
+
+[[/div]]
+
+[[=]]
+----
++++* [[[radiw-no-kitakit-3|西加走灣輓歌・下：靈魂崩碎]]]
++++++* Radiw no Sikacawan: Miketon
+----
+[[/=]]
+[[div class="blockquote"]]
+
+「我們今天就要結束整個循環。」
+
+儀式在海灘上召開。
+
+她必須繼續吟唱。她必須繼續吟唱。
+
+[[/div]]
+@@ @@
+@@ @@
+
+
+[[=]]
+----
++++* [[[o-nokay-ni-cidal|尾聲：太陽的故鄉]]]
++++++* O Nokay ni Cidal
+----
+[[/=]]
+[[div class="blockquote"]]
+
+即便是在毫無神靈與魔法干涉的情況下，平凡人的身上也可能出現奇蹟。
+
+//你想繼續留在基金會呢，或是有但書地離開基金會？//
+
+[[/div]]
+
+@@ @@
+@@ @@
+
+@@ @@
+@@ @@
+
+[[=]]
+++ ##32cd87|旁系作品：古代詩篇##
++++* O 'Olic Naitiyaho
+
+//踅步千古傷痕，在民族的壯麗與悲歌間縱橫。//
+[[/=]]
+[[=]]
+-----
++++ [[[scp-zh-684|SCP-ZH-684 - Kangic]]]
++++++* Kangic, the 'Amis Dragon
+-----
+[[/=]]
+
+[[div class="blockquote"]]
+**SCP-ZH-684：**這就是我們不一樣的地方了。看，我的身體不是人，靈魂卻是。而你的身體雖然是阿美族的孩子，你的靈魂卻不是。在你的說話裡面，你難道不是一個外地的「獵人」嗎？
+[[/div]]
+
+[[=]]
+-----
++++ [[[scp-zh-270| ]]]
++++++* Folofolo'an no Sakiraya
+-----
+[[/=]]
+
+[[div class="blockquote"]]
+SCP-ZH-270 莖幹所形成的橫斷面總是具有穿刺人體的性質。撒奇萊雅族與噶瑪蘭族人員對上述的異常屬性幾乎完全免疫，而漢族人員遭受到這些傷害的相對風險是其他原住民族的 2.24 倍。
+[[/div]]
+
+[[=]]
+-----
++++ [[[nx-zh-02| ]]]
++++++* O Kitakit no Sikacawan
+-----
+[[/=]]
+
+[[div class="blockquote"]]
+在該實體醒來後，研究人員訪談發現其自稱「Tamiymacan（玳米雅贊）」、「Felakacan（孚拉加贊）之遺孀」、「Sikacawan 之母」。現已編號為 SCP-ZH-698-A 調查。
+[[/div]]
+
+[[=]]
+-----
++++ [[[scp-zh-757| ]]]
++++++* Niceleman no Cifar i Maliana
+-----
+[[/=]]
+
+[[div class="blockquote"]]
+
+位於 SCP-ZH-757 周遭的 EVE 粒子殘跡十分紊亂，且遍佈在海床以上 7000 公尺的各層海水中，越下層越濃厚，年代大約在 7200 到 6900 年之前。追溯性奇蹟學研究認為 SCP-ZH-757 艦體曾經在此處遭遇巨大的攻擊。
+
+[[/div]]
+@@ @@
+
+@@ @@
+@@ @@
+
+[[=]]
+++* ##32cd87|藝術作品##
++++* O Renaf ni Cidal
+
+//有關陽子妹妹的一些傑出美術作品。//
+[[/=]]
+[[div class="blockquote"]]
+* [http://scp-zh-tr.wikidot.com/cidal-dongi-by-lulu-lucifelle 藝術作品：SCP-ZH-922（LuLu_Lucifelle版）]
+* [http://scp-zh-tr.wikidot.com/cidal-dongi-by-samscript 藝術作品：SCP-ZH-922（SamScript版）]
+* [http://scp-zh-tr.wikidot.com/cidal-dongi-by-k1s10r0d 藝術作品：SCP-ZH-922（k1s10r0d版）]
+* [http://scp-zh-tr.wikidot.com/cidal-dongi-by-controlz 藝術作品：SCP-ZH-922（Control Z版）]
+* [http://scp-zh-tr.wikidot.com/scp-zh-922-fanart SCP-ZH-922 馬蘭姑娘 藝作] by [[*user kikunai]]
+* [http://scp-zh-tr.wikidot.com/scp-zh-922-art 藝術作品：SCP-ZH-922] by [[*user lillian1152]]
+* [http://scp-zh-tr.wikidot.com/in-the-bamboo-forest 在竹林中] by [[*user cywhitebear]]
+
+* [http://scp-zh-tr.wikidot.com/site-zh-44-characters 清晨，太陽從東方升起（藝術作品）] by [[*user samscript]]
+[[/div]]

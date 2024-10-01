@@ -1,0 +1,32 @@
+[[include :scp-zh-tr:theme:penumbra]]
+[[module css]]
+:root:lang(zh) {
+  --header-title: "SITE-ZH-44";
+  --header-subtitle: "O nokay no Cidal, o kahemekan no mita.";
+  --lgurl: url("https://i.imgur.com/YtZjaHv.png");
+  --accentColor: #32cd87;
+}
+[[/module]]
+
+[[include :scp-zh-tr:info:start]]
+**作者：**[[*user samscript]]
+**篇名：**太陽的故鄉
+
+= 謹獻給我所熱愛並致力學習的阿美文化。
+= 參與 [[[jamcon-zh-2024|2024 年繁中急迫競賽：急那麼來 Cinamalay]]]
+= 題目三：「重新出發」
+
+= 本文為[[[radiw|《陽嵐之歌》]]]系列完結篇。
+
+[[include :scp-zh-tr:info:end]]
+
+[!--各迭代網址
+http://scp-zh-tr.wikidot.com/fragment:nokay-0
+http://scp-zh-tr.wikidot.com/fragment:nokay-1
+http://scp-zh-tr.wikidot.com/fragment:nokay-2
+--]
+
+[[module ListPages parent="." category="fragment" limit="1" order="created_at" offset="@URL|0"]]
+
+%%content%%
+[[/module]]
