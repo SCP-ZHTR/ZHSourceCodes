@@ -806,7 +806,7 @@ Cidal 露出微笑，趴倒在山本重新起伏的胸膛與搏動的心跳之�
 [[include :scp-wiki:component:earthworm
 | first=false| last=false| hub=yes
 | previous-url=/radiw-no-kitakit-2 | previous-title=部族瓦解
-| next-url=/radiw-no-kitakit-3 | next-title=尾聲：太陽的故鄉
+| next-url=/o-nokay-ni-cidal| next-title=尾聲：太陽的故鄉
 | hub-url=/radiw| hub-title=陽嵐之歌
 ]]
 ----
