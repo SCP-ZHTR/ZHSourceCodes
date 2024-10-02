@@ -154,6 +154,8 @@
 
 * **[*/system:page-tags/tag/ctrl-Z博士 ctrl-Z博士]** - 標註在與博士[[[*personnel-and-character-dossier-zh#CtrlZ|Ctrl-Z]]]相關的[[[*bangyen|頁面]]]上。
 
+* **[*/system:page-tags/tag/Flavir博士 Flavir博士]** - 標註在與博士[[[*personnel-and-character-dossier-zh#Flavir|Flavir]]]相關的頁面上。
+
 * **[*/system:page-tags/tag/HanKu博士 HanKu博士]** - 標註在與博士[[[*personnel-and-character-dossier-zh#Han-Qing-Ku|HanKu博士]]]相關的[[[paomian|頁面]]]上。
 
 * **[*/system:page-tags/tag/kris博士 kris博士]** - 標註在與博士[[[*personnel-and-character-dossier-zh#KrisBoone|Kris]]]相關的[[[k1s10r0d|頁面]]]上。
@@ -195,6 +197,8 @@
 * **[*/system:page-tags/tag/王尚毅特工 王尚毅特工]** - 標註在與特工王尚毅相關的頁面上。
 
 * **[*/system:page-tags/tag/koschei.aic koschei.aic]** - 標註在與人工智能專員[[[*personnel-and-character-dossier-zh#Koschei.aic|Koschei.aic]]]相關的頁面上。
+
+* **[*/system:page-tags/tag/山本五十嵐 山本五十嵐]** - 標註在與博士[[[*personnel-and-character-dossier-zh#Igarashi|山本五十嵐]]]相關的[[[*Igarashi|頁面]]]頁面上。
 
 * **[*/system:page-tags/tag/張道士 張道士]** - 標註在與基金會員工[[[*personnel-and-character-dossier-zh#Daoshi Cheung|張道士]]]相關的[[[*minmasterqw|頁面]]]上。
 

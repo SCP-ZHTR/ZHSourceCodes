@@ -59,6 +59,8 @@
 
 [[include character:res-edward-knave]]
 
+[[include character:Flavir]]
+
 [[include character:dr-han-qing-ku]]
 
 [[include character:res-k]]
@@ -68,6 +70,8 @@
 [[include character:dr-liesbeth]]
 
 [[include character:res-lucifelle]]
+
+[[include character:igarashi]]
 
 [[include character:dr-semibreve]]
 

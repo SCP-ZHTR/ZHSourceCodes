@@ -1,0 +1,19 @@
+[[include character:start]]
+
+----
+
++++++* Flavir博士
+
+Site-ZH-44 的頂尖研究員，留著黑長直髮，著名的冰山美人。[[[time-lapse|與 Surge 博士早在高中便已相識並踏入戀情]]]，最終仍以失敗告終，異常的介入使得這段破碎的感情衍生出[[[scp-zh-930|一系列事件，險些造成世界瓦解]]]。
+
+是繁中分部生物醫學會的主力研究員，以[[[scp-zh-310|生體性現實扭曲]]]與[[[scp-zh-610|異常人體科學]]]領域見長，經常負責訪問[[[scp-zh-955|欲肉型異常的感染者]]]。
+
+[[collapsible show="█████" hide="█████"]]
+
+█████
+
+[[/collapsible]]
+
+所有被標記為 //Flavir博士// 的檔案都可以在[/system:page-tags/tag/Flavir博士 這裡]找到。
+
+[[include character:end]]

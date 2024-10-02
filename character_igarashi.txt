@@ -1,0 +1,14 @@
+[[include character:start]]
+----
+
++++++* 山本五十嵐
+
+來自 JP 分部的研究員，1986 年生，有著銀白色的頭髮與略顯邋遢的鬍渣，性格彆扭，有些壞脾氣。[[[we-are-no-more-than-mortal-souls|老菸槍]]]。是 SCP-ZH-922 的輔導員，但時常受到她的捉弄與調侃。基於工作需求而學會了華語與阿美族語，並開始半強迫地戒菸。與 [http://scp-zh-tr.wikidot.com/radiw-na-cidal#toc2 Alofay 博士]是重要的搭檔。
+
+[[collapsible show="請勿錯誤臆測我與項目之間的關係。" hide="只不過是在世界盡頭找到彼此而已。"]]
+
+原先有著摯愛的妻子與女兒，在[[[night-tide|深愛的她們相繼過世後]]]後度過了長達十年的渾沌人生。2022 年為協助收容 SCP-ZH-922 而被調任至 Site-ZH-44，開始了一段看似在輔導人形項目，實際上也在[[[scp-zh-020|修復自己]]]的療癒之路。雖然表面上拒絕了 ZH-922 的愛慕，偶爾也有[[[tadakaciferangan|嫉妒之時]]]，在[http://scp-zh-tr.wikidot.com/radiw-no-kitakit-1/offset/2 關鍵時刻]則比任何人都更為她[[[radiw-no-kitakit-3|拼命]]]。
+[[/collapsible]]
+
+所有被標記為 //山本五十嵐// 的檔案都可以在[/system:page-tags/tag/山本五十嵐 這裡]找到。
+[[include character:end]]
