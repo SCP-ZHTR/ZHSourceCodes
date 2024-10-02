@@ -318,7 +318,7 @@ Lilliana 打量著眼前的女孩。一般員工或許很難將夠像人類的 S
 [[=]]
 ----
 +++* [[[radiw-no-kitakit-1|西加走灣輓歌・上：群島再現]]]
-+++++* Radiw no Sikacawan: Mitafang
++++++* Radiw no Sikacawan: Sapitafang
 ----
 [[/=]]
 [[div class="blockquote"]]
@@ -332,7 +332,7 @@ Lilliana 打量著眼前的女孩。一般員工或許很難將夠像人類的 S
 [[=]]
 ----
 +++* [[[radiw-no-kitakit-2|西加走灣輓歌・中：部族瓦解]]]
-+++++* Radiw no Sikacawan: Pakoyoc
++++++* Radiw no Sikacawan: Pakoyocay
 ----
 [[/=]]
 [[div class="blockquote"]]
@@ -348,7 +348,7 @@ Lilliana 打量著眼前的女孩。一般員工或許很難將夠像人類的 S
 [[=]]
 ----
 +++* [[[radiw-no-kitakit-3|西加走灣輓歌・下：靈魂崩碎]]]
-+++++* Radiw no Sikacawan: Miketon
++++++* Radiw no Sikacawan: Mipatayay
 ----
 [[/=]]
 [[div class="blockquote"]]

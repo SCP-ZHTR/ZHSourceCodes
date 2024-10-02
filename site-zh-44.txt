@@ -249,6 +249,8 @@
 * **[[[tadakaciferangan|]]]**
 
 +++++* 第三部：海洪之歌
+* **[[[SCP-ZH-020| ]]]**
+* **[[[night-tide| ]]]**
 * **[[[SCP-ZH-698| ]]]**
 * **[[[i-lisin-tafalong| ]]]**
 * **[[[i-lisin-cilangasan| ]]]**
@@ -256,9 +258,15 @@
 
 +++++* 第四部：群島之歌
 * **[[[SCP-ZH-728| ]]]**
+* **[[[radiw-no-kitakit-1| ]]]**
+* **[[[radiw-no-kitakit-2| ]]]**
+* **[[[radiw-no-kitakit-3| ]]]**
+
+* **[[[o-nokay-ni-cidal| ]]]**
 
 +++++* 插曲：上古詩篇
 * **[[[SCP-ZH-684| ]]]**
+* **[[[SCP-ZH-270| ]]]**
 * **[[[nx-zh-02| ]]]**
 [[/div]]
 
