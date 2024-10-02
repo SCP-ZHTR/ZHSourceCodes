@@ -1,0 +1,55 @@
+[[include :scp-wiki:theme:minimal
+|title=SCP International
+|subtitle=Wiki and Translation Archive]]
+
+[[include component:scp-meta-title-hiding css-style=classic]]
+[[include info:start]]
+SCP-355-KO - ♪
+**原文：**[https://scpko.wikidot.com/scp-355-ko SCP-355-KO] - ♪
+**作者：**[[*user romrom]]
+
+**英文版翻譯：**[http://scp-int.wikidot.com/scp-355-ko SCP-355-KO] - ♪
+**英文版譯者：**[[*user fluxman]]
+
+**中文版譯者：**[[*user feitag]]
+[[include info:end]]
+
+**項目編號：**SCP-355-KO
+
+**項目等級：**Keter
+
+**特殊收容措施：**SCP-355-KO 只會在 Seo Eun-woo 研究員周遭顯現，故他必須隨身攜帶錄音設備。一旦確認 SCP-355-KO 顯現，Seo Eun-woo 研究員必須立即依照標準反應流程錄音。
+
+**描述：**SCP-355-KO 是透過異常機制生成的人類口哨聲。只在 Seo Eun-woo 研究員周遭顯現，持續時間由最短10秒鐘到最長10分鐘。值得注意的是，雖然起源不明，但口哨聲總是男音。
+
+SCP-355-KO 時常用口哨聲演奏著名歌曲，其中大多數是1980年代至1990年代的熱門歌曲。例如：Michael Jackson 的《Bad》、《Man In The Mirror》；金元萱的《Masquerade》。
+
+根據 Seo 研究員所言，SCP-355-KO 傾向顯現在非常「私密」的地方。他聲稱 SCP-355-KO 經常出現在他附近的廁所隔間、他的衣櫃或貼近淋浴間的地方等。該假設的可信度尚未得到證實。
+
+@@@@
+@@@@
+
+**附錄：**Seo 不斷試圖揭開 SCP-355-KO 的來源，但都失敗了。以下為部分嘗試清單。
+
+> **地點：**Seo 研究員住宅的廁所
+> **行動：**Seo 研究員開門闖入廁所。只見廁所間燈亮著，但卻什麼人也沒有。
+
+> **地點：**Seo 研究員住宅的淋浴間
+> **行動：**Seo 研究員掀開浴簾並對內尖叫。蓮蓬頭流出溫水，有一些肥皂泡泡在隔間內，但沒有其他值得注目的地方。
+
+> **地點：**Site-21K 公共男廁三號隔間
+> **行動：**Seo 研究員從自己的隔間出來，踢開第三號間的門。除了馬桶正在沖水之外，沒有見到任何異常。
+
+[[collapsible show="有新附錄，是否觀看更新？" hide="確認"]]
+
+**附錄 2：**SCP-355-KO 第 378 次顯現後，Seo 研究員在他的房間裡發現了一張手寫紙條。他將紙條內容記錄並回報至基金會管理部，內容如下：
+
+> 拜託喔，好好做個人行不行？
+> 我拉屎的時候你衝進來，我淋浴的時候你掀開浴簾，還有我在吹頭髮的時候你一邊尖叫一邊把門踢開。
+> 我忍很久了，這是我的隱私！
+> 我受夠了。我要找其他室友了。你老是這樣搞讓我非常不爽。
+> 我要走了。再見，希望再也不見。
+
+在發現該紙條後，SCP-355-KO 未再顯現。正在討論是否應重新分級為無效化。
+
+[[/collapsible]]

@@ -154,6 +154,11 @@
 **作者：[[*user semibreve]]**
 > 台灣海峽上空成為熱點，但真相在漆黑的軌道表面展開。
 
+++++* [[[red-earth-4|未知航程：海峽戰役 2-4]]]
++++++* Unknown Voyage: A Red Earth 
+**作者：[[*user semibreve]]**
+> 只因那極夜，柔美如歌。
+
 ++++* [[[a-precise-bombing|精準轟炸]]]
 +++++* Precise Bombing 
 **作者：[[*user samscript]]**
@@ -217,6 +222,11 @@
 +++++* Wynn Village Reconnaissance Mission Description
 **作者：[[*user mang gwan]]**
 > 來自 DE 分部的事件報告。
+
+++++* [[[SCP-ZH-955]]]：Consider a Spherical Human
++++++* 識別為球型人類  
+**作者：[[*user fallen_truth]]**
+> 清除花東境內所有 SCP-ZH-955-A 的《黃葉協議》正在討論中。
 
 @@ @@
 @@ @@
