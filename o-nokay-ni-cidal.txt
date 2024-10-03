@@ -10,7 +10,7 @@
 
 [[include :scp-zh-tr:info:start]]
 **作者：**[[*user samscript]]
-**篇名：**太陽的故鄉
+**篇名：**太陽的歸鄉
 
 = 謹獻給我所熱愛並致力學習的阿美文化。
 = 參與 [[[jamcon-zh-2024|2024 年繁中急迫競賽：急那麼來 Cinamalay]]]
