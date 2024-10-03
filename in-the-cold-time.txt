@@ -1,0 +1,51 @@
+[[include info:start]]
+**篇名：**讓自己保持溫暖
+**作者：**[[*user Haru Ken]]
+
+------
+
+**繁中2024急迫競賽藝術作品，投稿題目為「重新出發」。**
+//自我心靈上的再建設。//
+
+靈感源於[[*user YONGZUN]]的急迫競賽故事「天涼時節」。
+
+[[collapsible show="更多想說的話。" hide="更多想說的話。"]]
+在創作此作品時，心中曾經過不同思考與諸多雜念，但仍須有效控制自身之情緒以成此事。
+雖不善於對故事進行紀錄，可我已把我想表現出的都畫出來了。
+最後，謝謝每個有看見此藝術作品的人（不管你投了uv、nv還是dv），以上。
+[[/collapsible]]
+[[include info:end]]
+
+在經歷██████████之後，研究員K^2經過一定程度的心理治療並畫出該圖畫。
+或許他不應有這段記憶。
+@@ @@
+[[div class="scp-image-block block-center"
+style="width:500px;"]]
+[[image https://imgur.com/2tyJpHG.jpg 
+style="width:100%;"]]
+[[div class="scp-image-caption" style="width:100%;"]]
+「畢竟到了天涼時節。」 - [http://scp-zh-tr.wikidot.com/keep-yourself-warm 天涼時節]
+[[/div]]
+[[/div]]
+@@ @@
+[[collapsible show="一些隨筆紀錄。" hide="Site-ZH-09之aic「謝有實」與研究員「吳冠廷」。"]]
+@@ @@
+[[div class="scp-image-block block-center"
+style="width:350px;"]]
+[[image https://imgur.com/IV2PbAs.jpg 
+style="width:100%;"]]
+[[div class="scp-image-caption" style="width:100%;"]]
+Site-ZH-09 謝有實.aic
+[[/div]]
+[[/div]]
+@@ @@
+[[div class="scp-image-block block-center"
+style="width:350px;"]]
+[[image https://imgur.com/yRCKW2x.jpg 
+style="width:100%;"]]
+[[div class="scp-image-caption" style="width:100%;"]]
+Site-ZH-09 研究員吳冠廷
+[[/div]]
+[[/div]]
+@@ @@
+[[/collapsible]]
