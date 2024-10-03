@@ -15,43 +15,31 @@
 --　-- [[*user ic_1623]]，刪除部
 [[/div]]
 
-[[div style="border-bottom:2px solid #ffffff; margin-bottom:1px;"]]
-[[/div]]
-[[size 1%]]　[[/size]]
-[[div style="border-bottom:2px solid #ffffff; margin-bottom:1px;"]]
-[[/div]]
-@@ @@
+[[=image https://i.imgur.com/3TRCKu1.png]]
 
 @@ @@
 
 @@ @@
 
 @@ @@
-[[div class="papernote"]]
-[[=]]
-作者用來防止手痠的工具
-[[/=]]
-[#A 關於這個人]
-[#B 角色]
-[#C 原創]
-[#D 翻譯]
-[#E 藝作]
-[#F 競賽徽章]
-[[/div]]
-@@ @@
 
 @@ @@
 
+
+@@ @@
+
+[[tabview]]
+[[tab 個人簡介]]
 [[div class="notation"]]
-[[# A]]
 [[>]]
 被覆寫__　00　__%
 [[/>]]
 [[=]]
 + 關於這個人
 @@ @@
-[[=image https://i.imgur.com/3TRCKu1.png]]
 [[/=]]
+[[div style="border-bottom:2px solid #ffffff; margin-bottom:1px;"]]
+[[/div]]
 [[include component:image-block name=cuttlefishina|caption=警告！檔案讀取失敗
 可能是目前不支援此格式，或檔案已損毀。]]
 * 不譯遊戲持有者
@@ -75,172 +63,99 @@
 要找我請至[http://scp-zh-tr.wikidot.com/chat-guide SCP繁體中文官方DC群]，謝謝。
 
 @@ @@
-[[=image https://i.imgur.com/3TRCKu1.png]]
 [[/div]]
+[[/tab]]
 
-@@ @@
-
-@@ @@
+[[tab 下位]]
 
 [[div class="smallmodal"]]
-[[# B]]
 [[>]]
 被覆寫__　00　__%
 [[/>]]
 [[=]]
 + 角色
-@@ @@
-[[=image https://i.imgur.com/3TRCKu1.png]]
 [[/=]]
 [[div style="border-bottom:2px solid #ffffff; margin-bottom:1px;"]]
 [[/div]]
 ++ 王玉婷
 等我一下，我找一下她的資料。
-7/6應該就會更新了（立旗）
- 
-7/16更新， 無限期延期
-[[div style="border-bottom:2px solid #ffffff; margin-bottom:1px;"]]
+無限期延期
 [[/div]]
-
-[[=]]
-（之後可能有新的）
-[[/=]]
-[[div style="border-bottom:2px solid #ffffff; margin-bottom:1px;"]]
-[[/div]]
-[[=image https://i.imgur.com/3TRCKu1.png]]
-[[/div]]
+[[/tab]]
+[[/tabview]]
 
 @@ @@
 
 @@ @@
-
-
+[[tabview]]
+[[tab 原創]]
 [[div class="smallmodal"]]
-[[# C]]
 [[>]]
 被覆寫__　00　__%
 [[/>]]
 [[=]]
 + 原創
-@@ @@
-[[=image https://i.imgur.com/3TRCKu1.png]]
 [[/=]]
-[[tabview]]
-[[tab 已完成]]
-在寫了在寫了
-[[/tab]]
-[[tab 敬請期待]]
+[[div style="border-bottom:2px solid #ffffff; margin-bottom:1px;"]]
+[[/div]]
++++ 敬請期待
 * SCP-ZH-994 還原
 * 天穹－輻都台北
 * 夏日 · 44
-[[/tab]]
-[[/tabview]]
-[[=image https://i.imgur.com/3TRCKu1.png]]
 [[/div]]
+[[/tab]]
 
-@@ @@
-
-@@ @@
-
-
+[[tab 翻譯]]
 [[div class="smallmodal"]]
-[[# D]]
 [[>]]
 被覆寫__　99　__%
 [[/>]]
 [[=]]
 + 翻譯
+[[div style="border-bottom:2px solid #ffffff; margin-bottom:1px;"]]
+[[/div]]
 @@ @@
-[[=image https://i.imgur.com/3TRCKu1.png]]
 [[size 500%]]別想了，不可能！[[/size]]
-[[=image https://i.imgur.com/3TRCKu1.png]]
 [[/=]]
 [[/div]]
+[[/tab]]
 
-@@ @@
-
-@@ @@
-
+[[tab 藝作]]
 [[div class="smallmodal"]]
-[[# E]]
 [[>]]
 被覆寫__　00　__%
 [[/>]]
 [[=]]
 + 藝作
-@@ @@
-[[=image https://i.imgur.com/3TRCKu1.png]]
-[[/=]]
-
-[[include :scp-zh-tr:component:scp-hover-box-structure
-|container-number=two
-|corner-cutout=1em
-|container-bgcolor=rgb(237, 237, 237)
-|container-txtcolor=rgb(36, 0, 0)
-|container-hover-bgcolor=rgb(146, 23, 23)
-|container-hover-txtcolor=rgb(255, 34, 0)
-|container-stroke-color=rgba(180, 35, 35)
-|container-hover-stroke-color=rgb(242, 199, 80)
-|background-url=https://i.imgur.com/exSt1dr.png
-|background-vertical-position=30%
-|link-fill-color=rgba(252, 252, 252)
-|link-stroke-width=0.125rem
-|link-stroke-color=rgba(12, 12, 12)
-|anchor=301
-|link=http://scp-zh-tr.wikidot.com/the-dark-magician
-|title=SCP-ZH-888-J
-|sub-title=請付費以觀看本文件
-|blerb=**親愛的顧客，您還沒付錢呢。**
-]]
-@@ @@
-@@ @@
-[[include :scp-zh-tr:component:scp-hover-box-structure
-|container-number=five
-|corner-cutout=1em
-|container-bgcolor=rgb(237, 237, 237)
-|container-txtcolor=rgb(36, 0, 0)
-|container-hover-bgcolor=rgb(146, 23, 23)
-|container-hover-txtcolor=rgb(255, 34, 0)
-|container-stroke-color=rgba(180, 35, 35)
-|container-hover-stroke-color=rgb(242, 199, 80)
-|background-url=https://upload.wikimedia.org/wikipedia/commons/0/0e/Xinqiao_Fried_Chicken_%2820150104123156%29.JPG
-|background-vertical-position=30%
-|link-fill-color=rgba(252, 252, 252)
-|link-stroke-width=0.125rem
-|link-stroke-color=rgba(12, 12, 12)
-|anchor=120
-|link=http://scp-zh-tr.wikidot.com/scp-zh-750-art
-|title=油漬天使
-|sub-title=ART
-|blerb=**油膩膩的藝作。**
-]]
-@@ @@
-@@ @@
-[[include :scp-zh-tr:component:scp-hover-box-structure
-|container-number=six
-|corner-cutout=1em
-|container-bgcolor=rgb(237, 237, 237)
-|container-txtcolor=rgb(36, 0, 0)
-|container-hover-bgcolor=rgb(146, 23, 23)
-|container-hover-txtcolor=rgb(255, 34, 0)
-|container-stroke-color=rgba(180, 35, 35)
-|container-hover-stroke-color=rgb(242, 199, 80)
-|background-url=https://upload.wikimedia.org/wikipedia/commons/d/d6/Blantomat_pcb_ver_4_bw.jpg
-|background-vertical-position=30%
-|link-fill-color=rgba(252, 252, 252)
-|link-stroke-width=0.125rem
-|link-stroke-color=rgba(12, 12, 12)
-|anchor=810
-|link=http://scp-zh-tr.wikidot.com/i-do-not-want-to-translate-art
-|title=Site-ZH-11通用aic
-|sub-title=ART
-|blerb=**王玉婷初登場。**
-]]
-@@ @@
-@@ @@
 [[div style="border-bottom:2px solid #ffffff; margin-bottom:1px;"]]
 [[/div]]
+[[/=]]
+
+[[div class="modal"]]
+[http://scp-zh-tr.wikidot.com/the-car-is-8 MTF-車肆-8 「血拼人潮」隊徽]
+
+咪呀呀([[*user Dr V Valentine]])委託
+[[/div]]
+[[div class="modal"]]
+[http://scp-zh-tr.wikidot.com/i-do-not-want-to-translate-art mars.aic]
+
+像塑畫
+[[/div]]
+[[div class="modal"]]
+[http://scp-zh-tr.wikidot.com/scp-zh-750-art SCP-ZH-750]
+
+又一個像素畫
+[[/div]]
+[[div class="modal"]]
+[http://scp-zh-tr.wikidot.com/the-dark-magician 請付費以觀看本文件]
+
+負責背景製作
+[[/div]]
+@@ @@
+@@ @@
 [[=]]
+[[div style="border-bottom:2px solid #ffffff; margin-bottom:1px;"]]
+[[/div]]
 戰術遊戲部LOGO
 @@ @@
 [[image https://i.imgur.com/LpslTSt.png width="200px"]][[image https://i.imgur.com/lO0z9H3.png width="200px"]]
@@ -264,49 +179,38 @@
 [[/div]]
 @@ @@
 [[/=]]
-[[=image https://i.imgur.com/3TRCKu1.png]]
 [[/div]]
+[[/tab]]
+[[/tabview]]
 
 @@ @@
 
 @@ @@
 
 
-[[div class="smallmodal"]]
-[[# F]]
+[[div class="document"]]
+
 [[>]]
 被覆寫__　00　__%
 [[/>]]
-[[=]]
 + 競賽徽章
-[[/=]]
+----
 @@ @@
-[[=image https://i.imgur.com/3TRCKu1.png]]
-亡走塵寰 繪圖組
 [[image https://semibreve-sandbox.wdfiles.com/local--files/2/%22%E6%88%91%E6%9C%83%E5%B0%87%E4%BD%A0%E5%80%91%E5%B8%B6%E5%9B%9E%E4%BE%86%22 width="150px"]]
-[[=image https://i.imgur.com/3TRCKu1.png]]
+亡走塵寰 繪圖組
+
 [[/div]]
 
 
-[[collapsible show="圖像圖像使用授權" hide="摺疊摺疊摺疊頁"hideLocation="both"]]
 
+[[collapsible show="圖像圖像使用授權" hide="摺疊摺疊摺疊頁"hideLocation="both"]]
 [[div class="jotting"]]
 連結：https://scp-wiki.wdfiles.com/local--files/scp-7549/recurrent_triangle.png
 授權方式：CC BY-SA 3.0
 版權所有者：[[*user Billith]]
 [[/div]]
 [[div class="jotting"]]
-連結：https://commons.wikimedia.org/wiki/File:Xinqiao_Fried_Chicken_(20150104123156).JPG
-授權方式：Creative Commons Attribution-Share Alike 4.0
-版權所有者：N509FZ
-[[/div]]
-[[div class="jotting"]]
-連結：https://commons.wikimedia.org/wiki/File:Blantomat_pcb_ver_4_bw.jpg
-授權方式：Creative Commons Attribution 3.0
-版權所有者：Adamschodowy
-[[/div]]
-[[div class="jotting"]]
-其他圖像：https://i.imgur.com/exSt1dr.png 、 https://i.imgur.com/3TRCKu1.png、https://i.imgur.com/LpslTSt.png 、https://i.imgur.com/lO0z9H3.png 、 https://i.imgur.com/LU78DRJ.png 、 https://i.imgur.com/JR4mLRn.png
+其他圖像：https://i.imgur.com/3TRCKu1.png、https://i.imgur.com/LpslTSt.png 、https://i.imgur.com/lO0z9H3.png 、 https://i.imgur.com/LU78DRJ.png 、 https://i.imgur.com/JR4mLRn.png
 授權方式：CC BY-SA 3.0
 版權所有者：[[*user ic_1623]]
 [[/div]]
@@ -314,6 +218,11 @@
 其他圖像：https://i.imgur.com/hjljsRx.png
 授權方式：CC BY-SA 3.0
 版權所有者：[[*user ic_1623]]
+[[/div]]
+[[div class="jotting"]]
+其他圖像：https://semibreve-sandbox.wdfiles.com/local--files/2/%22%E6%88%91%E6%9C%83%E5%B0%87%E4%BD%A0%E5%80%91%E5%B8%B6%E5%9B%9E%E4%BE%86%22
+授權方式：CC BY-SA 3.0
+版權所有者：[[*user AbyssDream]]
 [[/div]]
 [[/collapsible]]
 
