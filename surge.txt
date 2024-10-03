@@ -842,5 +842,13 @@ ZH分部第一篇001提案，「之冊」的故事。
 # **%%title_linked%%** | [[*user %%created_by%%]]
 [[/module]]
 
+[[module Listpages category="*" order="created_at" tag="+原創" created_by="colorful penguin" separate="no" perPage="1000"]]
+# (+**%%rating%%**) || **[[[%%fullname%%|%%title%%]]]**   
+[[/module]]
+
+[[module Listpages category="*" order="created_at" tag="+原創" created_by="ursamerak" separate="no" perPage="1000"]]
+# (+**%%rating%%**) || **[[[%%fullname%%|%%title%%]]]**   
+[[/module]]
+
 [[/tab]]
 [[/tabview]]
