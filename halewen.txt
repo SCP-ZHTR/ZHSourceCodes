@@ -284,12 +284,14 @@ ZH分部：
 這裡放了一些我找到而且覺得有趣的EN短篇(所以我覺得讀起來不太好玩的可能就不會丟在這)，可供想練習翻譯的翻譯者取用。不定時更新。有些已經被列在「我喜歡的文章」中的檔案便不再多列在此。
 [[[SCP-8022]]] Build Your **Dreams**, One **Brick** at a Time.
 > Can you turn around for a second?
+[[[SCP-8047]]] Writhing, Squirming, **Living**
+> One of the greatest challenges of the Fire Suppression Department is the effect that fatal containment breaches on the psyche of the average staff member. 
 [[[SCP-8594]]] Leaves From the Vine
 > SCP-8594-2 will not pass until SCP-8594-1 says their goodbyes.
-[[[SCP-8963]]] Inside Job
-> And sure enough, over the course of the final test we had come to know him as a humble, soft-spoken, down-to-earth fellow.
 [[[SCP-8816]]] The Curtains Were (Fucking) Evil
 > Summers suddenly begins stomping his right foot repeatedly, startling Gheist.
+[[[SCP-8963]]] Inside Job
+> And sure enough, over the course of the final test we had come to know him as a humble, soft-spoken, down-to-earth fellow.
 [[[https://scp-wiki.wikidot.com/pattern-recognition|Pattern Recognition]]]
 > Since the first of you looked to the sky and thought to name us, you feared us, though we posed no threat.
 [[/tab]]
