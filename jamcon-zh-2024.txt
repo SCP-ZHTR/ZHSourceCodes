@@ -345,7 +345,7 @@ Cinamalay
 || [[[scp-271|]]] || [[*user Edward_Knave]] || 題目2：新 ||
 || [[[scp-483|]]] || [[*user Edward_Knave]] || 題目3：重新出發 ||
 || [[[scp-3637|]]] || [[*user surprising_mars]] || 題目3：重新出發 ||
-||  ||  ||  ||
+||  [*/nicos-proposal-ii Nico的提案二 - 從左舞台悄然退場]|| [[*user kikunai]] || 題目3：重新出發 ||
 ||  ||  ||  ||
 
 @@ @@
