@@ -1,0 +1,110 @@
+[[include info:start]]
+**篇名：**項目檔案圖像紀錄：「Site-ZH-47」
+**作者：**[[*user Haru Ken]]
+
+------
+
+**繁中2024急迫競賽藝術作品，投稿題目為「南」。**
+//曾在教科書上看過澎湖被歸於南部......//
+
+靈感源於[[*user UrsaMerak]]此次急迫競賽項目[http://scp-zh-tr.wikidot.com/scp-zh-615 SCP-ZH-615]外，還有[[*user Tostren]]的2024冬季競賽項目[http://scp-zh-tr.wikidot.com/scp-zh-358 SCP-ZH-358]、2024夏季競賽項目[http://scp-zh-tr.wikidot.com/scp-zh-498 SCP-ZH-498]、一般項目[http://scp-zh-tr.wikidot.com/scp-zh-853 SCP-ZH-853]、一般項目[http://scp-zh-tr.wikidot.com/scp-zh-948 SCP-ZH-948]，[[*user SamScript]]的一般項目[http://scp-zh-tr.wikidot.com/scp-zh-209 SCP-ZH-209]，[[*user Sigtina]]的一般項目[http://scp-zh-tr.wikidot.com/scp-zh-449 SCP-ZH-449]。
+
+[[collapsible show="更多想說的話。" hide="更多想說的話。"]]
+原本只想畫祈雨鯨，但因為[[*user Dr V Valentine]]的建議，於是心血來潮畫了Site-ZH-47所收容的項目。
+因為[http://scp-zh-tr.wikidot.com/scp-zh-986 SCP-ZH-986]的影響太大（全繁中欸），就索性放棄畫了--絕對不是我沒看完--。
+最後，謝謝每個有看見此藝術作品的人（不管你投了uv、nv還是dv），以上。
+[[/collapsible]]
+[[include info:end]]
+
+研究員K^2依研究員Teab之項目檔案轉述而憑印象畫出的紀錄。
+@@ @@
+[[collapsible show="SCP-ZH-209" hide="海藍洞底的血紅墓穴"]]
+@@ @@
+[[div class="scp-image-block block-center"
+style="width:500px;"]]
+[[image https://imgur.com/PIhCu0T.jpg 
+style="width:100%;"]]
+[[div class="scp-image-caption" style="width:100%;"]]
+「後續調查發現透過最原始的殆瓦式生人獻祭可以阻止一梯次人員進入後受到詛咒。研究時的安全措施因此被修訂。」 - 摘錄自[http://scp-zh-tr.wikidot.com/scp-zh-209 SCP-ZH-209]之發現文字。
+[[/div]]
+[[/div]]
+@@ @@
+[[/collapsible]]
+@@ @@
+[[collapsible show="SCP-ZH-358" hide="罪有所償，命有所還"]]
+@@ @@
+[[div class="scp-image-block block-center"
+style="width:500px;"]]
+[[image https://imgur.com/ltnJdFP.jpg 
+style="width:100%;"]]
+[[div class="scp-image-caption" style="width:100%;"]]
+「SCP-ZH-358為一把金屬製的手砲，長約60cm，高約20cm，碳-14定年法檢測表明其製造時間約在15至17世紀之間。」 - 摘錄自[http://scp-zh-tr.wikidot.com/scp-zh-358 SCP-ZH-358]之描述。
+[[/div]]
+[[/div]]
+@@ @@
+[[/collapsible]]
+@@ @@
+[[collapsible show="SCP-ZH-449" hide="瀨—基拉症候群"]]
+@@ @@
+[[div class="scp-image-block block-center"
+style="width:350px;"]]
+[[image https://imgur.com/OhQYuO9.jpg 
+style="width:100%;"]]
+[[div class="scp-image-caption" style="width:100%;"]]
+「SCP-ZH-449 在常態社會原先被稱作 渴愛病 ，現正名為 瀨—基拉症候群 ，具有激發期與緩解期的差異，會導致罹病個體在激發期具有在流行文化被稱為「愛心眼」病徵，以及精神和身心症狀，並導致其愛與歸屬需要，即被愛的需要難以被滿足，滿足方式具有個別性與專一性。」 - 摘錄自[http://scp-zh-tr.wikidot.com/scp-zh-449 SCP-ZH-449]之描述。
+[[/div]]
+[[/div]]
+@@ @@
+[[/collapsible]]
+@@ @@
+[[collapsible show="SCP-ZH-498" hide="割勿骨"]]
+@@ @@
+[[div class="scp-image-block block-center"
+style="width:350px;"]]
+[[image https://imgur.com/7qQmz2a.jpg 
+style="width:100%;"]]
+[[div class="scp-image-caption" style="width:100%;"]]
+「在此次訪談的一個月後，Site-ZH-47站內已完成了前述奇蹟性裝置的裝設，令SCP-ZH-498-A在站內全時受到幻象性奇蹟陣列的庇護，而令其他員工在視覺上把他視為有著血肉的正常人。」 - 摘錄自[http://scp-zh-tr.wikidot.com/scp-zh-498 SCP-ZH-498]之訪談紀錄ZH-498-D。
+[[/div]]
+[[/div]]
+@@ @@
+[[/collapsible]]
+@@ @@
+[[collapsible show="SCP-ZH-615" hide="祈雨鯨"]]
+@@ @@
+[[div class="scp-image-block block-center"
+style="width:350px;"]]
+[[image https://imgur.com/InUreJa.jpg 
+style="width:100%;"]]
+[[div class="scp-image-caption" style="width:100%;"]]
+「若項目超過一天沒有接觸到任何液體，則其會產生一系列現象（下稱SCP-ZH-615-α）。」 - 摘錄自[http://scp-zh-tr.wikidot.com/scp-zh-615 SCP-ZH-615]之描述。
+[[/div]]
+[[/div]]
+@@ @@
+[[/collapsible]]
+@@ @@
+[[collapsible show="SCP-ZH-853" hide="水泥先生"]]
+@@ @@
+[[div class="scp-image-block block-center"
+style="width:350px;"]]
+[[image https://imgur.com/ISQljFj.jpg 
+style="width:100%;"]]
+[[div class="scp-image-caption" style="width:100%;"]]
+「那中了就是中了啊，還能怎麼辦？就算是真的好了，我也沒有那個美國時間跟錢去弄這個、弄那個的，我手腳沒斷掉還可以動就好了啦。」 - 摘錄自[http://scp-zh-tr.wikidot.com/scp-zh-853 SCP-ZH-853]之附錄ZH-853-1。
+[[/div]]
+[[/div]]
+@@ @@
+[[/collapsible]]
+@@ @@
+[[collapsible show="SCP-ZH-948" hide="愛先生"]]
+@@ @@
+[[div class="scp-image-block block-center"
+style="width:500px;"]]
+[[image https://imgur.com/0sngq3U.jpg 
+style="width:100%;"]]
+[[div class="scp-image-caption" style="width:100%;"]]
+「SCP-ZH-948為一人形實體，外觀與7歲幼童相似，身上不具有性別特徵與生殖系統，臉部沒有正常人類的五官，但有兩處凹窩與一條弧狀的溝，形成近似笑臉的圖案。體表除背部及頭部外佈滿了圓錐狀的尖刺，項目頸部連接著一片垂落在其背面的薄膜，薄膜長度延伸至其腳踝處，呈現出類似披風的模樣。」 - 摘錄自[http://scp-zh-tr.wikidot.com/scp-zh-948 SCP-ZH-948]之描述。
+[[/div]]
+[[/div]]
+@@ @@
+[[/collapsible]]
