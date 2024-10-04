@@ -159,8 +159,16 @@ Cinamalay
 +++* 氤遞必你急獎
 完成三篇參賽作品且總分最高者，可領取專屬徽章與儲值 440 元的繁中立體造型悠遊卡一張[[footnote]]倘若得獎者不在台灣境內，將會另行討論獎項內容。[[/footnote]][[footnote]]如果主辦單位沒有時間處理，會變成 NTD 440 元禮金。[[/footnote]]
 
+* **恭喜 [[*user fallen_truth]] 以 44.4 分之姿奪冠**
+
 +++* 三鐵共構獎
 完成三個題目的參賽作品，可領取專屬徽章與繁中特製平面悠遊卡一張[[footnote]]如果主辦單位沒有時間處理，會變成 NTD 44 元禮金。[[/footnote]]
+
+恭喜以下參賽者爭取到本獎項
+* [[*user Edward_Knave]]
+* [[*user ursamerak]]
+* [[*user fallen_truth]]
+* [[*user yongzun]]
 
 +++* 會到獎
 完成至少一篇參賽作品，但不符合三鐵共構獎者，可領取特別徽章
@@ -348,7 +356,6 @@ Cinamalay
 || [[[scp-483|]]] || [[*user Edward_Knave]] || 題目3：重新出發 ||
 || [[[scp-3637|]]] || [[*user surprising_mars]] || 題目3：重新出發 ||
 ||  [*/nicos-proposal-ii Nico的提案二 - 從左舞台悄然退場]|| [[*user kikunai]] || 題目3：重新出發 ||
-||  ||  ||  ||
 
 @@ @@
 
