@@ -79,7 +79,7 @@
 標註為[未翻譯...吧]的作品表示作品由CN的作者撰寫，而翻譯的CN文本也是同個作者所製，因此不確定是否需要翻譯。
 [[=]]
 [[size 1.2em]]
-++++ 待翻譯文章數量：58篇。
+++++ 待翻譯文章數量：59篇。
 [[/size]]
 [[/=]]
 EN分部：
@@ -202,6 +202,7 @@ EN分部：
 > - [[[SCP-3935]]] This Thing a Quiet Madness Made 此處靜謐瘋狂
 > - [[[SCP-3999]]] I Am At The Center of Everything That Happens To Me 我為一切及我之事所包圍
 > - [[[SCP-4000|Taboo]]] 禁忌之地
+> - [[[SCP-4010]]] Attempt to look at what we accomplished [未翻譯]
 > - 舊版的SCP-4214，Desperate Faith [未翻譯][[footnote]]很遺憾，他消失了，不過真的想翻還是能去作者頁翻到他還是4000參賽文章的英文草稿，以及CN分部的翻譯[[/footnote]]
 > - [[[SCP-4352]]] Storytime [未翻譯]
 > - [[[SCP-4661]]] Sin City 罪惡城市
