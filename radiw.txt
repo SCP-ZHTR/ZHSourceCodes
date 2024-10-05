@@ -1,5 +1,6 @@
 [[include info:start]]
 **編者：**[[*user samscript]]
+**系列作者：**[[*user samscript]]、[[*user lulu_lucifelle]]
 **篇名：**陽嵐之歌 中心頁
 **圖片授權 Image Credit:** 頁面中相片來自 [[*user samscript]]，應以 CC BY-SA 3.0 授權分享。The image used in the page is from [[*user samscript]] and should be spread under CC BY-SA 3.0 License.
 [[include info:end]]
