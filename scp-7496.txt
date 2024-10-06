@@ -1,0 +1,77 @@
+[[include component:scp-meta-title-hiding css-style=classic]]
+[[include :scp-zh-tr:theme:black-highlighter-theme]]
+[[include :scp-zh-tr:component:toggle-sidebar-bhl]]
+
+[[include info:start]]
+原文：[https://scp-wiki.wikidot.com/scp-7496 SCP-7496] 聯盟強大
+作者：[[*user Eledec]]
+譯者：[[*user Frederica Bernkastel]]
+[[include info:end]]
+
+[[include :scp-zh-tr:component:anomaly-class-bar-source
+|item-number= 7496
+|clearance= 2
+|container-class= euclid
+|secondary-class=  none
+|secondary-icon=
+|disruption-class= vlam
+|risk-class= notice
+]]
+----
+[[include component:image-block
+| name=https://upload.wikimedia.org/wikipedia/commons/c/c7/Abandoned_Packard_Automobile_Factory_Detroit_200.jpg
+| caption=SCP-7496影響區域的核心。
+| width=300px]]
+**特殊收容措施：**指示國家勞工關係委員潛伏基金會職員，應斷然拒絕密西根███████所有的工會選舉請願書。
+
+臨時站點Site-7496已在密西根███████郊區建立，用於監控與記錄SCP-7496個體。受SCP-7496影響人類之媒體報導應透過常規掩蓋協議執行審查。受SCP-7496影響之非人類應移送至SCP-7496影響範圍外區域，其異常效應理應在隨後消失。
+
+基金會職員進入SCP-7496影響區域時，不得與其他基金會人員結隊而行。
+
+**描述：** SCP-7496是一種行為現象，影響密西根███████一座廢棄汽車製造廠半徑約7公里的範圍，促使範圍內的個體組建工會，並無視任何可行性、合法性、合理性等問題。無論受SCP-7496影響個體過去的認知能力如何，其將獲得密西根州勞動法的高度複雜知識，還能以某種方式傳達此類知識，
+
+SCP-7496似乎能夠在任何生物群體中顯現，只要該生物體具有活動能力，且能夠執行相當程度的體力或腦力勞動。
+
+**附錄7496.1：SCP-7496實例簡表**
+
+> **日期：** 2007/9/17
+> **物種：** //Homo sapiens//
+> **受影響個體數：** 35
+> **自訂名稱：** 汽工聯[[footnote]]汽車工人聯合會[[/footnote]]2994號地方分會
+> **備注：** 當地幼稚園學生投訴課後作業是「無授權的工時延長」。另外在次日，國家勞工委員會還收到了幼兒園班級工會的書面選舉請願書，其內容極具說服力，這引起了當地媒體的報導。事件發生後，基金會意識到了該異常狀況，隨後制定了當前的收容措施。
+
+> **日期：** 2007/11/8
+> **物種：** //Oncorhynchus tshawytscha//[[footnote]]奇努克鮭魚[[/footnote]]
+> **受影響個體數：** ~400
+> **自訂名稱：** 食商工聯[[footnote]]食品和商業工人聯合會
+[[/footnote]]7493號地方分會
+> **備注：** 部分漁民報告指稱，過去數週捕獲的奇努克鮭魚數量急劇下降。基金會以聲納追蹤了鮭魚的位置，還偵測到了能以摩斯電碼破譯的不規則鰭運動。經翻譯後發現，受影響鮭魚在抗議漁民無限期的扣發薪水，這違反了1978年密西根州通過的某項法律。鮭魚還聲稱，除非給予其至少15日的帶薪休假，使其能去探望蘇必利爾湖的家魚，否則魚群將開始舉辦工會選舉。
+
+> **日期：** 2008/1/15
+> **物種：** //Saccharomyces cerevisiae//[[footnote]]麵包酵母[[/footnote]]
+> **受影響個體數：** ~1.72兆
+> **自訂名稱：** 麵糖菸穀聯[[footnote]] 麵包店、糖果店、菸草工、穀物磨坊聯合[[/footnote]]668號地方分會
+> **備注：** 一家麵包店有罐酵母發酵劑透過氣泡發表了冗長的抱怨，聲稱自己在該公司被迫「在整個聖誕假期輪班工作，其他員工卻可以享受假期」。酵母發酵劑拒絕「繼續工作」，除非能組建工會並獲得200公克糖的聖誕獎金。所有相關人員都接受了記憶刪除。
+
+> **日期：** 2008/3/24
+> **物種：** 多種
+> **受影響個體數：** ~700兆
+> **自訂名稱：** 美公事工人聯[[footnote]]美國公共事業工人聯盟[[/footnote]]2670號地方分會
+> **備注：** 臨時站點Site-7496注意到了站點化糞池過濾效率急劇下降。經調查後發現池內厭氧菌受到了SCP-7496的影響，並開始拒絕分解排泄物。厭氧菌透過讓水變色，向基金會抗議站點塔可星期二之夜沒有提供加班費，並要求加入工會。現已暫停對SCP-7496的進一步研究，相關談判仍在進行中。
+
+[[footnoteblock]]
+
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[SCP-7495]]] | SCP-7496 | [[[SCP-7497]]] >>
+[[/=]]
+[[/div]]
+
+[[include :scp-zh-tr:component:license-box
+|author=Eledec
+]]
+> **Filename:** Abandoned Packard Automobile Factory Detroit 200.jpg
+> **Author:** Albert duce
+> **License:** CC BY SA 3.0
+> **Source Link:** https://commons.wikimedia.org/wiki/File:Abandoned_Packard_Automobile_Factory_Detroit_200.jpg
+[[include :scp-zh-tr:component:license-box-end]]
