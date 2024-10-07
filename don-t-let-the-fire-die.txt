@@ -34,6 +34,7 @@
 
 我只能希望與幻想著。
 
-[[include :scp-zh-tr:component:license-box]]
+[[include :scp-zh-tr:component:license-box
+|author=ADream]]
 [!-- N/A (No Images)  --]
 [[include :scp-zh-tr:component:license-box-end]]
