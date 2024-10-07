@@ -81,7 +81,7 @@
 標註為[未翻譯...吧]的作品表示作品由CN的作者撰寫，而翻譯的CN文本也是同個作者所製，因此不確定是否需要翻譯。
 [[=]]
 [[size 1.2em]]
-++++ 待翻譯文章數量：59篇。
+++++ 待翻譯文章數量：60篇。
 [[/size]]
 [[/=]]
 EN分部：
@@ -245,6 +245,7 @@ EN分部：
 > - [[[SCP-8209]]] Repairing the World [未翻譯]
 > - [[[SCP-8585]]] A Setting Sun [未翻譯]
 > - [[[SCP-8900-EX]]] Sky Blue Sky 藍天隕落
+> - [[[SCP-8980]]][[footnote]]彼方遙火2，我第一次讀到想吐。[[/footnote]] [[span style="color: #0a460a"]]**Ergophobia:**[[/span]] Without Regards [未翻譯]
 
 JP分部：
 > 故事：
