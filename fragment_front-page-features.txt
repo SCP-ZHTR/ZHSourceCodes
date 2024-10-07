@@ -1,6 +1,6 @@
 [[div id="featured"]]
 [[tabview]]
-[[tab 9月作品展出]]
+[[tab 10月作品展出]]
 
 [!-- Left block --]
 [[div class="feature-block"]]
@@ -10,14 +10,13 @@ SCP作品展出
 [[/div]]
 [[div class="panel-body"]]
 [[div class="feature-title"]]
-[[[*scp-zh-787|]]]
+[[[*SCP-ZH-730|]]]
 [[/div]]
 [[div class="feature-subtitle"]]
-作者：[[user YONGZUN]]
+作者：[[user Fallen_Truth]]
 [[/div]]
-踩上凳子，我最喜歡踩上凳子。
+特別注意，乙類人員是為正式員工，每位乙類人員皆與甲類人員（ Site-ZH-72 的其餘一般員工）相同，有自己的維安權限分級、人員分級和職位。
 
-如果不踩上其他凳子，還把場地弄亂，那紅色的凳子將被用來款待各位。
 [[/div]]
 [[div class="panel-footer"]]
 [[[*featured-scp-archive|查看以往展出的SCP作品]]]
@@ -31,12 +30,12 @@ SCP作品展出
 [[/div]]
 [[div class="panel-body"]]
 [[div class="feature-title"]]
-[[[time-lapse|TIME LAPSE]]]
+[[[red-earth-4|]]]
 [[/div]]
 [[div class="feature-subtitle"]]
-作者：[[user SamScript]]
+作者：[[user Semibreve]]
 [[/div]]
-「看來他們確實曾經是戀人。」
+「但是這個操作過程必須要非常精準……或是妳的力量足夠強大，我希望是後者，因為前者光是造成細微影響的參數都是天文數字，幾乎不可能達成。」
 [[/div]]
 [[div class="panel-footer"]]
 [[[*featured-tale-archive|查看以往展出之故事]]]
@@ -52,13 +51,13 @@ SCP作品展出
 [[/div]]
 [[div class="panel-body"]]
 [[div class="feature-title"]]
-[[[*scp-2527-jp|]]]
+[[[*scp-6846|]]]
 [[/div]]
 [[div class="feature-subtitle"]]
-作者：[[user seda87ne]]
-譯者：[[user Edward_Knave]]
+作者：[[user ubergoober]]
+譯者：[[user Halewen]]
 [[/div]]
-把粉紅色的糖果送到某一個人那邊，這麼簡單的工作就5萬。最初就很輕鬆地接受了。說是就像Uber那樣。我知道的，根本就不是那一回事，現在都已經變成這樣了。
+目前已知此即時通話的對象是SCP-6846，而表情符號「:3」為致命的認知危害。隨後確認發送者位於撒哈拉沙漠，並在那發現和捕捉到了SCP-6846。
 
 [[/div]]
 [[div class="panel-footer"]]
@@ -73,12 +72,12 @@ SCP作品展出
 [[/div]]
 [[div class="panel-body"]]
 [[div class="feature-title"]]
-[[[wanderers:outer-space-marketing-articles-tyrosine|]]]
+[[[the-diverging-paths-of-koumin-literature|]]]
 [[/div]]
 [[div class="feature-subtitle"]]
-作者：[[user Dr V Valentine]]
+作者：[[user ting129]]
 [[/div]]
-這完全是倚靠多年掌廚的經驗才能展現出的好味道，因此每當人們問起我所推薦的鮭魚料理時除了天鵝我便不再提供其他店家的資訊。
+在親身體會那股屬於熱帶的濕氣之前，綠對這座島嶼的印象，只有哥哥偶爾寄回家中的信件裡提到的，那些樸實且平淡的生活瑣事而已。
 [[/div]]
 [[div class="panel-footer"]]
 [[[*featured-Comprehensive-exhibition|查看以往的綜合展出]]]
