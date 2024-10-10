@@ -83,7 +83,7 @@
 標註為[未翻譯...吧]的作品表示作品由CN的作者撰寫，而翻譯的CN文本也是同個作者所製，因此不確定是否需要翻譯。
 [[=]]
 [[size 1.2em]]
-++++ 待翻譯文章數量：60篇。
+++++ 待翻譯文章數量：58篇。
 [[/size]]
 [[/=]]
 EN分部：
@@ -95,7 +95,7 @@ EN分部：
 > 阿拉加達與受絞之王：
 > 需先閱讀[[[SCP-701]]]與[[[SCP-2264]]]：
 > - [[[and-so-the-crows-laughed|And so the crows laughed]]] 如是群鴉訕笑不止
-> - [[[a-wandsman-in-the-court-of-the-hanged-king|A Wandsman in the Court of the Hanged King]]] 受絞之王宮廷裡的魔杖士 [未翻譯]
+> - [[[a-wandsman-in-the-court-of-the-hanged-king|A Wandsman in the Court of the Hanged King]]] 受絞之王宮廷裡的一名魔杖士
 > - [[[the-clock-shall-strike-again|The Clock Shall Strike Again]]] 鐘聲將會再度響起
 > - [[[midnight-parade|Midnight Parade]]] 午夜遊行
 > 建議先理解Marshall, Carter & Dark是誰：
@@ -112,7 +112,7 @@ EN分部：
 > - [[[the-mekhanozoic-era|The Mekhanozoic Era]]] [未翻譯...吧]
 
 > 潘洛斯：
-> - [[[don-t-let-the-fire-die|(Don't) Let The Fire Die]]] [未翻譯]
+> - [[[don-t-let-the-fire-die|(Don't) Let The Fire Die]]] （不要）讓火熄了
 > - [[[spark-of-creation|Spark of Creation]]] 創造的火花 [未翻譯]
 > - [[[spark-of-wonder|Spark of Wonder]]] 奇蹟的火花 [未翻譯]
 
