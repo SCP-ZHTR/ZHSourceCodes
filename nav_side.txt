@@ -98,23 +98,19 @@ SCP檔案
 [[/div]]
 
 [[div_ class="menu-item"]]
-[#u-top-foundation-tales 基金會故事]
-[[/div]]
-
-[[div_ class="menu-item"]]
-[#u-top-canon-hub 世界線中心頁]
-[[/div]]
-
-[[div_ class="menu-item"]]
-[#u-top-series-archive 系列檔案室]
-[[/div]]
-
-[[div_ class="menu-item"]]
 [[[universe-hub|基金會世界觀中心]]]
 [[/div]]
 
 [[div_ class="menu-item"]]
- [#u-top-groups-of-interest 關注組織] | [[[goi-formats|GoI格式]]]
+[[[personnel-and-character-dossier-zh|角色]]] | [[[secure-facilities-locations-zh|設施]]] | [[[departments|部門]]] | [[[task-forces-zh|特遣隊]]]
+[[/div]]
+
+[[div_ class="menu-item"]]
+[#u-top-canon-hub 世界線] | [#u-top-foundation-tales 故事] | [#u-top-series-archive 系列檔案室]
+[[/div]]
+
+[[div_ class="menu-item"]]
+ [#u-top-groups-of-interest 關注組織] | [[[goi-formats|關注組織格式檔案]]]
 [[/div]]
 
 [[div_ class="menu-item"]]
