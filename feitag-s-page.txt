@@ -295,6 +295,7 @@ z-index: 50;
 [[[proposition-de-projet-2019-319|]]]
 
 [[[scp-355-ko|]]]
+[[[propuesta-de-proyecto-2024-111|]]]
 ------
 [[[feitag-give-attribution-for-images|]]]
 [[[how-to-modify-the-css-of-ambrose-goi-format|]]]
