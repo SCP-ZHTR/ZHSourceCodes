@@ -154,3 +154,14 @@ SCP-ZH-891 的⽣活史⼗分特殊並且對當地⾼階獵⾷者造成寄⽣危
 **補述 2：**當前由繁中分部所收容的 SCP-ZH-891 雌性個體由⼈類⼥性所轉化⽽來，然而其遺傳物質已經在感染 SCP-ZH-891 後而脫離人類範疇，無法檢驗其原先身分。該個體在被發現時正懷抱著⼈類的頭⾻遊蕩於 Isuisu ⼭區之中。位於該⼭區四個村落的居⺠目前仍全數失蹤。
 
 [[/div]]
+
+@@ @@
+@@ @@
+@@ @@
+
+[[include :scp-zh-tr:component:earthworm
+| first=false | last=false | hub=yes
+| previous-url=/SCP-ZH-865 | previous-title=春是「雛鳥」
+| next-url=/SCP-ZH-897 | next-title=天是「停下來，拜託。」
+| hub-url=/zhongyuan-2024 | hub-title=「早梅詩」
+]]

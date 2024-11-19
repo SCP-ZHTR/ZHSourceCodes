@@ -1,0 +1,571 @@
+[[include :scp-zh-tr:theme:penumbra]]
+[[module CSS]]
+:root {
+  --header-title: "SCP-ZH-TR";
+  --header-subtitle: "Secure, Contain, Protect.";
+  --lgurl: url("URL");
+  --accentColor: #48dbdd;
+}
+[[/module]]
+[[include :scp-zh-tr:component:betterfootnotes]]
+[[module CSS]]
+:root {
+    --fnColor: #48dbdd;
+}
+[[/module]]
+[[module CSS]]
+.dblock:hover {background: #31353E}
+[[/module]]
+[[module CSS]]
+.dblock:hover {color: white}
+[[/module]]
+[[module CSS]]
+.bblock:hover{background: #edefec}
+[[/module]]
+[[module CSS]]
+.bblock:hover {color: black}
+[[/module]]
+[[module CSS]]
+.cblock:hover {color: #48dbdd}
+[[/module]]
+
+[[module css]]
+.a-container{position:relative;visibility: hidden;}
+.a-container span{display:inline-block;position:absolute;top:-1px;width:max-content;left:0;opacity:0; }
+.a-container br{display:none}
+@keyframes animate1 {
+  0% { opacity: 1; }
+  48% { opacity: 1; }
+  52% { opacity: 0; }
+  100% { opacity: 0; }
+}
+@keyframes animate2 {
+  0% { opacity: 0; }
+  48% { opacity: 0; }
+  52% { opacity: 1; }
+  100% { opacity: 1; }
+}
+.a-lv1 { visibility: visible; align:center; animation: animate1 5.0s linear alternate infinite; }
+.a-lv2 { visibility: visible; align:center; animation: animate2 5.0s linear alternate infinite; }
+[[/module]]
+
+[[include info:start]]
+@@ @@
+= 「面我以清，見我以實，映我以真。」
+@@ @@
+------
+@@ @@
+**作者：**[[*user Haru Ken]]
+@@ @@
+試求自我探索與意義之價值。
+......
+嘿對，我就爛（被打）
+雖然自認技不如人，但還是努力活著吧。
+@@ @@
+[[include info:more]]
+這個作者頁參考了一堆其他的作者頁（套娃是吧），就一一於此舉例。
+
+[[div class="blockquote"]]
+* [http://scp-zh-tr.wikidot.com/bangyen Ctrl Z博士的辦公室]
+* [http://scp-zh-tr.wikidot.com/freezer-compartment 踏入零下273度]
+* [http://scp-zh-tr.wikidot.com/edward-knave 人事檔案「Edward Knave」]
+* [http://scp-zh-tr.wikidot.com/tostren 吐司的烘焙坊（超級讚）]
+[[/div]]
+
+圖片皆是自己用電腦軟體畫的，感覺這個主題不大適合使用顏色所以就只畫線條圖......或許那是我的問題，但還是不大敢用除了色鉛筆以外之有顏色的筆著色。
+以上。
+@@ @@
+[[include info:end]]
+
+@@ @@
+@@ @@
+[[div class="darkbox"]]
+你莫名的掉入一個神奇的空間。
+環顧四周，並沒有任何的門。
+於是你決定在這個地方探索一下。
+[[/div]]
+@@ @@
+@@ @@
+@@ @@
+[[collapsible show="資料整理區" hide="這裡有點亂，在意的人就別看。"]]
+[[div class="blockquote"]]
+@@ @@
+[[include :scp-zh-tr:component:coltop
+|show=一份人事檔案
+|hide=一個小小的研究員可沒什麼秘密。
+|ifprot=0
+|nohide=0
+|folded=1
+]]
+[[div class="lightbox"]]
+姓名：Haru Ken / 謙遙[[span class="fnnum"]].[[/span]][[span class="fncon"]]##black|姓謙，名遙。不用懷疑。##[[/span]]
+    
+代號：K^2[[span class="fnnum"]].[[/span]][[span class="fncon"]]##black|Dr. Valentine原本要叫該人員KenKen，但在Rsr. Adev的提議下改為K^2。##[[/span]] / K2[[span class="fnnum"]].[[/span]][[span class="fncon"]]##black|簽署文件時會簽的文字，同時是給那些懶得打出^或不知道^要怎麼唸的人。##[[/span]]
+    
+暱稱：謙 / Ken / Haru / 昇龍拳[[span class="fnnum"]].[[/span]][[span class="fncon"]]##black|到底為甚麼會眼殘看錯......##[[/span]] / 反應係數（平方）
+    
+員工分級：C級
+    
+安保權限：2級
+    
+職務：研究員
+    
+專長：藏匿自身行蹤、偽裝、繪圖、紀錄補充
+    
+工作站點：未知[[span class="fnnum"]].[[/span]][[span class="fncon"]]##black|雖然該人員的名字縮寫是HK，但與Site-ZH-11那位Dr. HanKu沒有關係。##[[/span]]
+    
+歷史：身分成謎，本人也對其過去經歷三緘其口。[[span class="bblock"]]似乎有以特工的身分活動過。[[/span]]
+    
+簡介：K^2的日常形象為深綠短髮（挑染一搓白髮）、黑瞳，戴著黑框眼鏡，身穿白色內裡的黑色外套、黑色運動褲與白色T恤的19歲少年。[[span class="fnnum"]].[[/span]][[span class="fncon"]]##black|實際上該人員之年齡存疑。##[[/span]] 身高約為170cm，生理男但聲音中性偏女。[[span class="fnnum"]].[[/span]][[span class="fncon"]]##black|當該人員女裝時會被誤認性別。##[[/span]] 日常行蹤成謎，但因為該人員時常會突然從紙箱裡出現而嚇到其他人員。
+    
+附錄：無神論者，理性至上對他而言是行事準則。
+
+附錄：第一人稱代詞為遙某 / 我們，第二人稱代詞為您 / 您們。
+
+[[div class="darkbox"]]
+
+##48dbdd|自身異常為「停滯」，意為其肉體處於時停狀態，以至於對外界時間流動無感。
+對他人的外表只會停留在第一次見到的樣子，但衣裝和身高上的改變還是會發覺，只不過會有點疑惑。
+現階段該人員尚未發現其異常之處。##
+
+[[include :scp-zh-tr:component:coltop
+|show=相關檔案
+|hide=相關檔案
+|ifprot=0
+|nohide=0
+|folded=1
+]]
+[[div class="lightbox"]]
+目前空空如也。
+[[/div]]
+[[include :scp-zh-tr:component:colend
+|nohide=1
+|hide=
+]]
+
+[[/div]]
+[[/div]]
+[[include :scp-zh-tr:component:colend
+|nohide=1
+|hide=
+]]
+@@ @@
+[[include :scp-zh-tr:component:coltop
+|show=小型收納櫃
+|hide=放了一些東西。
+|ifprot=0
+|nohide=0
+|folded=1
+]]
+
+[[tabview]]
+[[tab 管理檔案]]
+@@ @@
+[[include :scp-zh-tr:component:coltop
+|show=SCP-ZH
+|hide=原創項目
+|ifprot=0
+|nohide=0
+|folded=1
+]]
+[[div class="lightbox"]]
+目前空空如也。
+[[/div]]
+[[include :scp-zh-tr:component:colend
+|nohide=1
+|hide=
+]]
+@@ @@
+[[include :scp-zh-tr:component:coltop
+|show=SCP-EN
+|hide=翻譯項目
+|ifprot=0
+|nohide=0
+|folded=1
+]]
+[[div class="lightbox"]]
+目前空空如也。
+[[/div]]
+[[include :scp-zh-tr:component:colend
+|nohide=1
+|hide=
+]]
+@@ @@
+> 遙某不善於此，但盡力而為吧。
+[[/tab]]
+[[tab 圖片原稿]]
+[[div class="lightbox"]]
+**2024夏季競賽《元素》**
+[http://scp-zh-tr.wikidot.com/inharmonious-rain/comments/show#post-6615469 不和諧晴雨][[span class="fnnum"]].[[/span]][[span class="fncon"]]##black|Feat. [[*user Tostren]]的下位Tostren博士。##[[/span]]
+「......Tostren博士，甚麼是真實？」
+
+**Cinamalay 急那麼來：繁中急迫競賽 3.0**
+[http://scp-zh-tr.wikidot.com/external-attachments-make-one-prone-to-failure 項目檔案圖像紀錄：「瓦巧鉤憚黃金殙」][[span class="fnnum"]].[[/span]][[span class="fncon"]]##black|Feat. [[*user Edward_Knave]]的下位研究員Knave與其相關檔案[http://scp-zh-tr.wikidot.com/scp-zh-707 SCP-ZH-707]、[http://scp-zh-tr.wikidot.com/scp-zh-636 SCP-ZH-636]、[http://scp-zh-tr.wikidot.com/scp-zh-565 SCP-ZH-565]。##[[/span]]
+「自我探索與其意義，行事不宜執著外物。」
+[http://scp-zh-tr.wikidot.com/in-the-cold-time 讓自己保持溫暖][[span class="fnnum"]].[[/span]][[span class="fncon"]]##black|Feat. [[*user YONGZUN]]的角色研究員吳冠廷與謝有實.aic。##[[/span]]
+「對自身提出質疑。」
+[http://scp-zh-tr.wikidot.com/47-image 項目檔案圖像紀錄：「Site-ZH-47」][[span class="fnnum"]].[[/span]][[span class="fncon"]]##black|看看Site-ZH-47站點中心頁何時會放上，遙某再放連結於此。##[[/span]]
+「我在想，如果把手持雨具的Tostren博士帶去室外透氣且當時處於觸發了SCP-ZH-615之異常效應——誰會勝出呢？」
+[[/div]]
+> 感到無聊的時候就想做些什麼。
+[[/tab]]
+[[tab 成就擺示]]
+[[div class="lightbox"]]
+95%一定會空著的地方。剩下的5%一定是賽到。
+[[/div]]
+> 遙某不善於表達自身......
+[[/tab]]
+[[/tabview]]
+[[include :scp-zh-tr:component:colend
+|nohide=1
+|hide=
+]]
+@@ @@
+[[include :scp-zh-tr:component:coltop
+|show=和牆一樣大的白板
+|hide=上面有一些人事檔案。
+|ifprot=0
+|nohide=0
+|folded=1
+]]
+
+[[tabview]]
+[[tab 研究員Teab]]
+[[div class="lightbox"]]
+姓名：Teab Lin / 林茶亘[[span class="fnnum"]].[[/span]][[span class="fncon"]]##black|ㄍㄣˋ（gèn，亙）##[[/span]]
+    
+代號：Teab
+    
+暱稱：茶B / 茶葉蛋[[span class="fnnum"]].[[/span]][[span class="fncon"]]##black|如果你不知道亘要怎麼念，這樣叫他也可以。##[[/span]] / 喝茶人[[span class="fnnum"]].[[/span]][[span class="fncon"]]##black|一日不可無茶……正在嘗試控制劑量。##[[/span]]
+    
+員工分級：C級
+    
+安保權限：3級
+    
+職務：研究員
+    
+專長：駭入各種系統、軟體維修
+    
+工作站點：Site-ZH-47[[span class="fnnum"]].[[/span]][[span class="fncon"]]##black|雖然站點還沒蓋好，但先把他放在那吧。##[[/span]]
+    
+[待補充]
+
+[[div class="darkbox"]]
+
+##48dbdd|[待補充]##
+
+[[include :scp-zh-tr:component:coltop
+|show=相關檔案
+|hide=相關檔案
+|ifprot=0
+|nohide=0
+|folded=1
+]]
+[[div class="lightbox"]]
+目前空空如也。
+[[/div]]
+[[include :scp-zh-tr:component:colend
+|nohide=1
+|hide=
+]]
+
+[[/div]]
+
+[[/div]]
+[[/tab]]
+
+[[tab 研究員Cof]]
+[[div class="lightbox"]]
+姓名：Cof Lin / 林非亘[[span class="fnnum"]].[[/span]][[span class="fncon"]]##black|ㄍㄣˋ（gèn，亙）##[[/span]]
+    
+代號：Cof
+    
+暱稱：飛彈[[span class="fnnum"]].[[/span]][[span class="fncon"]]##black|不知道亘要怎麼念的人就直接這樣叫了。##[[/span]] / 飛天蛋 / 咖啡人[[span class="fnnum"]].[[/span]][[span class="fncon"]]##black|一日不可無咖啡......不過沒差啦。##[[/span]]
+    
+員工分級：C級
+    
+安保權限：3級
+    
+職務：研究員
+    
+專長：駭入各種系統、軟體維修
+    
+工作站點：未知
+    
+[待補充]
+
+[[div class="darkbox"]]
+
+##48dbdd|[待補充]##
+
+[[include :scp-zh-tr:component:coltop
+|show=相關檔案
+|hide=相關檔案
+|ifprot=0
+|nohide=0
+|folded=1
+]]
+[[div class="lightbox"]]
+目前空空如也。
+[[/div]]
+[[include :scp-zh-tr:component:colend
+|nohide=1
+|hide=
+]]
+
+[[/div]]
+
+[[/div]]
+
+[[/tab]]
+
+[[tab 特工Blem]]
+[[div class="lightbox"]]
+姓名：Akane Wu / 吳茜炩[[span class="fnnum"]].[[/span]][[span class="fncon"]]##black|ㄌㄧㄥˋ（ lìng，另）##[[/span]]
+    
+代號：Blem
+    
+暱稱：茜[[span class="fnnum"]].[[/span]][[span class="fncon"]]##black|來自於她的英文名轉日文的意思。##[[/span]]
+    
+員工分級：C級
+    
+安保權限：2級
+    
+職務：特工
+    
+專長：文書處理、體術、射擊
+    
+工作站點：未知
+    
+歷史：國立██大學歷史系的畢業生，因其機動性良好而被招攬至基金會成為特工。
+    
+[待補充]
+
+[[div class="darkbox"]]
+
+##48dbdd|[待補充]##
+
+[[include :scp-zh-tr:component:coltop
+|show=相關檔案
+|hide=相關檔案
+|ifprot=0
+|nohide=0
+|folded=1
+]]
+[[div class="lightbox"]]
+目前空空如也。
+[[/div]]
+[[include :scp-zh-tr:component:colend
+|nohide=1
+|hide=
+]]
+
+[[/div]]
+
+[[/div]]
+[[/tab]]
+[[/tabview]]
+[[include :scp-zh-tr:component:colend
+|nohide=1
+|hide=
+]]
+@@ @@
+[[include :scp-zh-tr:component:coltop
+|show=標示「SCP-ZH」的文件
+|hide=標示「SCP-ZH」的文件
+|ifprot=0
+|nohide=0
+|folded=1
+]]
+> [http://scp-zh-tr.wikidot.com/meet-the-staff ZH分部的重要人員名單。][[span class="fnnum"]].[[/span]][[span class="fncon"]]##black|備忘。要記得他們，這很重要。##[[/span]]
+[[include :scp-zh-tr:component:colend
+|nohide=1
+|hide=
+]]
+@@ @@
+[[/div]]
+[[/collapsible]]
+@@ @@
+[[collapsible show="雜物區" hide="喔天，這什麼鬼？"]]
+[[div class="blockquote"]]
+@@ @@
+[[include :scp-zh-tr:component:coltop
+|show=許多紙箱
+|hide=倒蓋著的紙箱被充當為桌子。
+|ifprot=0
+|nohide=0
+|folded=1
+]]
+[[div class="darkbox"]]
+@@ @@
+[[include :scp-zh-tr:component:coltop
+|show=筆記型電腦
+|hide=筆記型電腦
+|ifprot=0
+|nohide=0
+|folded=1
+]]
+它正開著，而頁面停在Google Chrome瀏覽器。
+上面顯示了幾個分頁。
+* [https://www.instagram.com/youyao_nacl Instagram]
+* [https://twitter.com/youyao_nacl Twitter(X)]
+* [https://www.facebook.com/youyao2haru Facebook]
+* [https://www.pixiv.net/users/81393411 Pixiv]
+> 如果你在SCP基金會繁中分部的Discord上需要找遙某，那請用力地利用小老鼠tag，這九成是可行的。
+> 不行的話，應該可以透過這些東西來找到遙某，那個轉達的人--悠遙--會轉達的。
+[[include :scp-zh-tr:component:colend
+|nohide=1
+|hide=
+]]
+@@ @@
+[[include :scp-zh-tr:component:coltop
+|show=電繪板
+|hide=電繪板
+|ifprot=0
+|nohide=0
+|folded=1
+]]
+普通的電繪板。某個區域很明顯的磨損。[[span class="fnnum"]].[[/span]][[span class="fncon"]]##black|「遙某並不擅長電腦繪圖，用筆記本比較習慣。但用這東西比直接用手機畫圖來得好。」##[[/span]]
+[[include :scp-zh-tr:component:colend
+|nohide=1
+|hide=
+]]
+@@ @@
+[[include :scp-zh-tr:component:coltop
+|show=全罩式耳機
+|hide=全罩式耳機
+|ifprot=0
+|nohide=0
+|folded=1
+]]
+它被放在了放置電腦的箱子旁的地板上，而耳機線連接著電腦。
+你戴上了它，[https://www.youtube.com/watch?v=afsKnCosMtA 聽見了這首歌。] 音樂播完之後，甚麼事都沒發生。
+[[include :scp-zh-tr:component:colend
+|nohide=1
+|hide=
+]]
+@@ @@
+[[include :scp-zh-tr:component:coltop
+|show=盒子
+|hide=盒子
+|ifprot=0
+|nohide=0
+|folded=1
+]]
+裡面有許多的藍色白板筆和品牌、款式不一的自動鉛筆。
+一旁有許多的橡皮擦，但板擦去哪了?
+[[include :scp-zh-tr:component:colend
+|nohide=1
+|hide=
+]]
+@@ @@
+[[include :scp-zh-tr:component:coltop
+|show=筆記本
+|hide=筆記本
+|ifprot=0
+|nohide=0
+|folded=1
+]]
+用於紀錄或繪圖都很方便。
+[[include :scp-zh-tr:component:colend
+|nohide=1
+|hide=
+]]
+@@ @@
+[[include :scp-zh-tr:component:colend
+|nohide=1
+|hide=
+]]
+@@ @@
+[[include :scp-zh-tr:component:coltop
+|show=懶骨頭
+|hide=懶骨頭
+|ifprot=0
+|nohide=0
+|folded=1
+]]
+躺著很舒服，感覺會睡著......
+但還是建議你快點起來。
+[[include :scp-zh-tr:component:colend
+|nohide=1
+|hide=
+]]
+@@ @@
+[[/div]]
+@@ @@
+[[/div]]
+[[/collapsible]]
+@@ @@
+[[collapsible show="日常用品區" hide="這人到底是怎麼活的？"]]
+[[div class="blockquote"]]
+@@ @@
+[[include :scp-zh-tr:component:coltop
+|show=大型收納櫃
+|hide=大型收納櫃
+|ifprot=0
+|nohide=0
+|folded=1
+]]
+
+[[tabview]]
+[[tab 外套]]
+不同版型的白色內裡黑色外套。
+[[/tab]]
+[[tab 白色T恤]]
+不同花紋的白色T恤。
+純白、有SCP-EN標誌、有SCP-ZH標誌的多了一兩件。
+[[/tab]]
+[[tab 黑色運動褲]]
+有些側邊有直條紋，有些是純黑。
+但最多的還是有直條紋的。
+[[/tab]]
+[[tab 偽裝道具]]
+假髮、隱形眼鏡、各種髮飾與服飾配件......為了裝作某個人能無所不用其極。[[span class="fnnum"]].[[/span]][[span class="fncon"]]##black|在這其中，我最喜歡黑色口罩和這個有著SCP基金會標誌的黑色帽子，非偽裝狀態其實也有可能會戴著。
+但我的偽裝還是會保留一些我的特徵，要不然當天就會變成愚人節。##[[/span]]
+[[/tab]]
+[[/tabview]]
+[[include :scp-zh-tr:component:colend
+|nohide=1
+|hide=
+]]
+@@ @@
+[[include :scp-zh-tr:component:coltop
+|show=刻意被立放的紙箱
+|hide=刻意被立放的紙箱
+|ifprot=0
+|nohide=0
+|folded=1
+]]
+只看見了一大堆不同品牌的泡麵。
+[[include :scp-zh-tr:component:colend
+|nohide=1
+|hide=
+]]
+@@ @@
+[[include :scp-zh-tr:component:coltop
+|show=落地鏡
+|hide=落地鏡
+|ifprot=0
+|nohide=0
+|folded=1
+]]
+一面固定的很牢固的鏡子。你在鏡中看見的不是自己的身影，而是一位陌生男子的。
+鏡中男子似乎也注意到了你。
+
+[[include component:image-block name=https://imgur.com/UgbKSdr.jpg|caption=「......為什麼會有人在 [[span class="a-container"]]這 _
+[[span class="a-lv1"]]這[[/span]] _
+[[span class="a-lv2"]]那[[/span]] _
+[[/span]]？你不該待太久的。」|align=center|width=100%]]
+@@ @@
+隨即你的肩膀感覺被拍了一下，鏡中的陌生男子出現在了你背後。
+
+[[include component:image-block name=https://imgur.com/TA6ydwa.jpg|caption=「初次見面，這裡是研究員K^2。請問您來這裡找遙某，有什麼事嗎？沒事的話，閉著眼睛往白板的方向走過去，感覺撞到東西之後，[http://scp-zh-tr.wikidot.com/authors-pages 左轉就能離開了喔。]那麼，慢走不送啦。」|align=center|width=100%]]
+
+[[include :scp-zh-tr:component:colend
+|nohide=1
+|hide=
+]]
+@@ @@
+[[/div]]
+[[/collapsible]]
+@@ @@

@@ -874,16 +874,16 @@ div.creditButtonStandalone>p>a::after, div.rate-box-with-credit-button .creditBu
 [[/module]]
 
 [[include :scp-zh-tr:component:listusers-1 users="."]]
-[[size smaller]]##009F6B|%%name%%## >> [https://scp-wiki.wikidot.com/secure-facility-dossier-site-12 Site-12] ##009F6B|Darabase## >> **登山攝影探險隊事故**[[/size]]
+[[size smaller]]##009F6B|%%name%%## >> [https://scp-wiki.wikidot.com/secure-facility-dossier-site-12 Site-12] ##009F6B|Achive## >> **登山攝影探險隊事故**[[/size]]
 [[include :scp-zh-tr:component:listusers-2]]
-[[size smaller]]##009F6B|Unknown User##  >> [https://scp-wiki.wikidot.com/secure-facility-dossier-site-12 Site-12] ##009F6B|Darabase##  >> **登山攝影探險隊事故**[[/size]]
+[[size smaller]]##009F6B|Unknown User##  >> [https://scp-wiki.wikidot.com/secure-facility-dossier-site-12 Site-12] ##009F6B|Achive##  >> **登山攝影探險隊事故**[[/size]]
 [[include :scp-zh-tr:component:listusers-3]]
 
 [[div style="float:right;"]]
 [[include info:start]]
 **標題：**RAISA-9600
 **副標題：**干城章嘉峰1925 登山攝影探險隊事故
-某年某月某日，某時某分某地，你意外發現了一份原本應該要被儲存於Site-12的電子檔案。開啟被遺忘的檔案，裡頭是數篇被塵封已久的歷史文獻，零碎地記載著一世紀前，發生在偏遠山區的一起神秘悲劇。
+某年某月某日，某時某分某地，你意外發現了一份原本應該要被儲存於Site-12檔案庫的電子檔案。開啟被遺忘的檔案，裡頭是數篇被塵封已久的歷史文獻，零碎地記載著一世紀前，發生在偏遠山區的一起神秘悲劇。
 九十九年前，雖然確立異常世界的帷幕早已形成，甚至基金會也已經成立，然而對於許多近代才被發現、且被異常界眾人所熟知的項目，在當時則是毫無頭緒。
 九十九年後，經過歲月的沖洗，世事已非，當年的基金會、那些受害者、研究員、和軍人，也無從看見未來，人們是否終於能夠得知當年的真相。
 而現代的人們，也只能透過撿拾被沖散的紀錄碎片，逐漸拼湊、推測、想像出一篇完整的故事，並且期望這正是當時所發生的這段、受到掩蓋、微不足道的過去。
@@ -1455,7 +1455,7 @@ R███ A█████, 1925.　　　　
 @@ @@
 5月23日
 @@    @@今天早上，我們檢查了昨日沖洗的負片。結果令人失望，因為在任何膠卷上都沒有找到村莊的照片。
-@@    @@昨晚被浸泡在不明液體中的膠卷反而顯得相當奇怪。大多數的成像都是正常的，唯獨幾張負片出現大片的白色顆粒污漬，這些負片拍攝的似乎是一個雪山山谷。
+@@    @@昨晚被浸泡在不明液體中的膠卷反而顯得相當奇怪。大多數的成像都是正常的，唯獨幾張負片出現大片的白色顆粒污漬，這些負片拍攝的似乎是一個在雪山山谷中的黑色人影。
 @@    @@污漬始終覆蓋住了連續圖像的相同部分，好像在阻止我們看到什麼一樣。這就是一種異常的力量嗎？
 @@    @@那些團伙是怎麼做到？又為何猝死？更重要的是，為什麼要冒著生命危險只是為了毀掉幾張負片？
 @@    @@我實在是認為兵團不應該在這裡久留，但司令部仍沒有回覆撤營的請求。無奈，我只能增加更多的巡邏，祈禱對方不要在此時攻擊我們。

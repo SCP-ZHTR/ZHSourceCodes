@@ -1,0 +1,25 @@
+[[include :scp-zh-tr:theme:basalt]]
+[[include credit:start]]
+**標題：**Site-ZH-59站徽
+**作者：**[[*user ic_1623]]
+**圖像授權：**CC BY-SA 3.0
+[[include credit:end]]
+
+當你往下看，你看到了Site-ZH-59的站徽
+[[=image https://i.imgur.com/y6K6Idx.png]]
+> 總之，如果你想用上面這張圖請用以下網址
+> @@https://i.imgur.com/y6K6Idx.png@@
+
+@@ @@
+
+@@ @@
+
+@@ @@
+
+[[collapsible show="不是關閉" hide="也不是開啟"]]
+[[div class="darkdocument"]]
+[[=image https://i.imgur.com/xioKKMz.png height="200px"]]
+白色的，黑色主題的好朋友
+@@https://i.imgur.com/xioKKMz.png@@
+[[/div]]
+[[/collapsible]]

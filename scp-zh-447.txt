@@ -1,21 +1,13 @@
 [[include component:scp-meta-title-hiding css-style=classic]]
-
-[[include :scp-zh-tr:theme:word-processor]]
-
+[[include :scp-wiki:theme:black-highlighter-theme]]
+[[include :scp-wiki:theme:scp-archive]]
 
 [[module CSS]]
-#header h1 a::before {
-    content: 'SCP基金會';
-    color: #333;
-    font-family: 'Baloo Bhaina 2', cursive;
-
+:root:lang(zh){
+     --header-title: "SCP基金會";
+     --header-subtitle: "語言、文化、禁忌";
+     --lgurl: url('http://scp-wiki.wikidot.com/local--files/unreality-hub/Unreality%20Header%20Logo.svg');
 }
-
-#header h2 span::before {
-    content: '控制、收容、保護';
-    color: #0F4699;
-    font-family: 'Baloo Bhaina 2', cursive;
-
 [[/module]]
 
 [[include info:start]]
@@ -43,7 +35,8 @@ SCP-ZH-447進行異常遞送活動時，將隨機選擇不定數量人家，並�
 第一個直接接觸SCP-ZH-447-A的人員，將被視為收禮者，將於接觸後的第七日以通常方式死亡，收禮者以任何方式死亡後，第一個直接接觸到SCP-ZH-447-A的人員將被視為繼承者，繼承者將因不明理由去珍藏SCP-ZH-447-A，並抗拒失去SCP-ZH-447-A，若繼承者轉讓或賣出所持SCP-ZH-447-A，則繼承者將於轉讓或賣出後的第七日以通常方式死亡，並以同樣方式決定下一個繼承者。
 
 當繼承者非因轉讓或賣出而死亡，則SCP-ZH-447-A將失去異常效應。
-
+@@ @@
+@@ @@
 > = **【附錄一：攔截與圍捕紀錄】**
 > 
 > **攔截大綱：**以偽裝成警察以進行臨檢或是其他活動之理由執行攔截任務，並取得有關SCP-ZH-447的資訊。
@@ -62,8 +55,8 @@ SCP-ZH-447進行異常遞送活動時，將隨機選擇不定數量人家，並�
 > || 2020/3/16 || 失敗 || 台東市長濱鄉 || 項目在圍捕後與摩托車憑空消失，追蹤系統顯示其於新北市板橋區出現 ||
 > 
 > 
-
-
+@@ @@
+@@ @@
 > = **【附錄二：第一次追逐訪問】**
 > 
 > **受訪者：**SCP-ZH-447
@@ -101,7 +94,8 @@ SCP-ZH-447進行異常遞送活動時，將隨機選擇不定數量人家，並�
 >> **[兩人追丟SCP-ZH-447，訪談結束]**
 >> 
 > 
-
+@@ @@
+@@ @@
 > = **【附錄三：第二次追逐訪問】**
 > 
 > **受訪者：**SCP-ZH-447
@@ -148,7 +142,8 @@ SCP-ZH-447進行異常遞送活動時，將隨機選擇不定數量人家，並�
 >> 
 > 
 > 
-
+@@ @@
+@@ @@
 > = **【附錄四：第三次訪問】**
 > 
 > **受訪者：**SCP-ZH-447
@@ -243,6 +238,9 @@ SCP-ZH-447進行異常遞送活動時，將隨機選擇不定數量人家，並�
 > 
 > **備註：**黃子興特工於訪談期間將新的定位器裝在SCP-ZH-447的機車隱密處，對項目的空間追蹤正在進行。
 > 
+
+@@ @@
+@@ @@
 
 [[collapsible show="【附錄五：特殊收容措施更新提案】" hide="關閉"]]
 

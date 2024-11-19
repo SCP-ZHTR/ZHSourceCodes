@@ -116,7 +116,7 @@
 * [[[SCP-8088]]] - Still Within Bounds
 * [[[SCP-8089]]] - No one in the world ever gets what they want, and that is Beautiful
 * [[[SCP-8090]]] - PROFANITY / PROVIDENCE / PURGATORY
-* [[[SCP-8091]]] - [ACCESS DENIED]
+* [[[SCP-8091]]] - **火燄恐懼症：**與我同焚
 * [[[SCP-8092]]] - [ACCESS DENIED]
 * [[[SCP-8093]]] - [ACCESS DENIED]
 * [[[SCP-8094]]] - [ACCESS DENIED]
@@ -703,7 +703,7 @@
 * [[[SCP-8651]]] - [ACCESS DENIED]
 * [[[SCP-8652]]] - [ACCESS DENIED]
 * [[[SCP-8653]]] - [ACCESS DENIED]
-* [[[SCP-8654]]] - [ACCESS DENIED]
+* [[[SCP-8654]]] - **高處恐懼症：**上即是下
 * [[[SCP-8655]]] - [ACCESS DENIED]
 * [[[SCP-8656]]] - [ACCESS DENIED]
 * [[[SCP-8657]]] - [ACCESS DENIED]

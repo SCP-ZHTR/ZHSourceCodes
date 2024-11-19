@@ -100,6 +100,7 @@
  * 12022 HE 07.06：劉善俠學位答辯
  * 12022 HE 12.09：SCP-ZH-824無效化確認，劉善俠轉為全職人員，加入Site-ZH-11
 * 12022 HE 12.██：劉善俠經過基金會人員建議，採用化名「Edward Knave」，後來取得「艾德」或「愛德」之暱稱
+* 12024 HE 09.2█：「瓦巧鉤憚黃金殙」事件（[[[SCP-ZH-565|]]]、[[[SCP-ZH-636|]]]、[[[SCP-ZH-707|]]]）
 * 1202█ HE ██.██：Knave研究員加入Site-ZH-11轄下的機動特遣隊 見危-11（「誰在一壘？」）任職跨學科研究員（代號：二壘裁判）
 * 12028 HE 03.05：安特爾剌之子事件（[[[SCP-ZH-469|]]]）
 * 12029 HE 08.██：Knave研究員取得3級維安權限
@@ -172,6 +173,7 @@ __**SCP-978實驗紀錄████號——實驗日期： 2032/7/15 22:10**__
 [[/module]]
 * [[[wanderers:a-freak-accident-also-a-forced-anchorage|《迫降事件》]]] —— //[流浪者圖書館文本]//
 * [http://scp-sandbox2-zh.wikidot.com/draft:7605593-19-lkcq9u6g SCP-ZH-708-J-ARC - 我打中了你的經絡秘孔，你已經死了] —— 未歸檔
+* [http://scp-sandbox2-zh.wikidot.com/draft:7605593-2d-lsx3vs8q SCP-ZH-861-TENT - 聲韻、藍花、伊呂波] —— 未歸檔
 翻譯文本：
 [[module ListPages created_by="edward-knave" tags="翻譯" perPage="250" separate="no"]]
 # %%title_linked%% —— 評分：%%rating%% ／ 建檔時間：%%created_at|人類紀元1%Y年%m月%d日 %H:%M|agohover%%
@@ -799,11 +801,6 @@ MSC-7「獌束」
  * [[[scp-zh-824|SCP-ZH-824 - 最沉重的繪圖筆]]]：印象曲為平澤進[https://www.youtube.com/watch?v=zP4hJhHqFPw 《Art Blind》突弦變異版]
  * [[[scp-zh-403|SCP-ZH-403 - 禁臠與終止符]]]：印象曲為平澤進[https://www.youtube.com/watch?v=jxB_89l4QGM 《崇めよ我はTVなり》]
  * [[[helms-of-nine-iterations-in-red-storm-quadrants|特殊配備「九轉盔」實驗紀聞：赤嵐四向]]]：印象曲為平澤進[https://www.youtube.com/watch?v=ghSivyXhgvE 《萬象奇夜》]
-* 國際親善系列
- * [[[SCP-ZH-181|SCP-ZH-181 - 永續的工業革命]]]：[http://scp-vn.wikidot.com/ 越南語]分部
- * [[[SCP-ZH-424|SCP-ZH-424 - S.P.I.R.I.T.]]]：[http://scp-pl.wikidot.com/ 波蘭語]分部
- * [[[SCP-ZH-674-J|SCP-ZH-674-J - 海外驗傷]]]：[http://scpvakfi.wikidot.com/ 土耳其語]分部
- * [[[SCP-ZH-968|SCP-ZH-968 - 基輔戰鬼顯現之時]]]：[http://scp-ukrainian.wikidot.com/ 烏克蘭語]分部
 * 夏之陣三部曲（12023 HE）／身語意三部曲
  * [[[SCP-ZH-424|SCP-ZH-424 - S.P.I.R.I.T.]]]：意
  * [[[SCP-ZH-649|SCP-ZH-649 - 補經]]]：語
@@ -831,11 +828,35 @@ MSC-7「獌束」
 [[span class="a-lv1"]]見不善如襲隱以避難靜居[[/span]] _
 [[span class="a-lv2"]]仲尼曰以同異難以異易易[[/span]] _
 [[/span]]：勇氣
+* 急迫三部曲「瓦巧鉤憚黃金殙」
+ * [[[SCP-ZH-707|]]]
+ * [[[SCP-ZH-636|]]]
+ * [[[SCP-ZH-565|]]]
+ * [[[external-attachments-make-one-prone-to-failure|]]]（作者：[[*user Haru Ken]]）
+
+* 國際親善系列
+ * [[[SCP-ZH-181|SCP-ZH-181 - 永續的工業革命]]]：[http://scp-vn.wikidot.com/ 越南語]分部
+ * [[[SCP-ZH-424|SCP-ZH-424 - S.P.I.R.I.T.]]]：[http://scp-pl.wikidot.com/ 波蘭語]分部
+ * [[[SCP-ZH-674-J|SCP-ZH-674-J - 海外驗傷]]]：[http://scpvakfi.wikidot.com/ 土耳其語]分部
+ * [[[SCP-ZH-968|SCP-ZH-968 - 基輔戰鬼顯現之時]]]：[http://scp-ukrainian.wikidot.com/ 烏克蘭語]分部
 * 「翻譯」系列
  * [[[first-glimpse-into-legend-of-shower-chess-style|]]] - [[[scp-1875|]]]
  * [[[scorch-correspondence-pattern|]]] - [[[scp-2528|]]]
  * [[[a-transgress-or-translate-before-spring|]]] - [[[scp-8008|]]]
  * [[[scp-zh-469|]]] - [[[scp-7931|]]]
+* 戰術學科系列
+ * [[[SCP-ZH-295]]]：戰術美食學部
+ * [[[SCP-ZH-636]]]：戰術哲學部
+ * [[[SCP-ZH-818]]]：戰術遊戲學部、戰術數學部
+ * [[[SCP-ZH-850]]]：戰術鑑識學部
+ * [[[SCP-ZH-851]]]：戰術聲韻學部（聲韻學部分）
+ * [[[SCP-ZH-996]]]：戰術聲韻學部（文字學部分）
+* 敘事量子系列
+ * [[[SCP-ZH-465]]]：符碼粒（反意理素）
+ * [[[SCP-ZH-850]]]：喚起素
+ * [[[SCP-ZH-851]]]：反音素
+ * [[[SCP-ZH-964]]]：反敘素
+
 * 醉譯系列
  * [[[SCP-3380]]] - 科學、技術、工程、神性
  * [[[SCP-7166]]] - 雷擊不貳
@@ -843,6 +864,7 @@ MSC-7「獌束」
  * [[[SCP-3799]]] - 降雪簡史
  * [[[SCP-078-JP]]] - 永恆懷爐
  * [[[SCP-1050]]] - 黑曜石警世碑
+
 
 [[div style="overflow:scroll;white-space:nowrap;"]]
 ||~ 項目母題 ||~ 項目編號 ||~ [[span class="ruby"]]SCP-ZH-968[[span class="rt"]]基輔戰鬼顯現之時[[/span]][[/span]] ||~ [[span class="ruby"]]SCP-ZH-824[[span class="rt"]]最沉重的繪圖筆[[/span]][[/span]] ||~ [[span class="ruby"]]SCP-ZH-776[[span class="rt"]]暗黑暗黑暗黑之劍[[/span]][[/span]] ||~ [[span class="ruby"]]SCP-ZH-649[[span class="rt"]]補經[[/span]][[/span]] ||~ [[span class="ruby"]]SCP-ZH-534[[span class="rt"]]這是在貼啥啦[[/span]][[/span]] ||~ [[span class="ruby"]]SCP-ZH-403[[span class="rt"]]禁臠與終止符[[/span]][[/span]] ||~ [[span class="ruby"]]SCP-ZH-385[[span class="rt"]]子母巡弋飛彈MSC-7「獌束」[[/span]][[/span]] ||~ [[span class="ruby"]]SCP-ZH-295[[span class="rt"]]Safe色、Euclid色、Keter色[[/span]][[/span]] ||~ [[span class="ruby"]]SCP-ZH-181[[span class="rt"]]永續的工業革命[[/span]][[/span]] ||
@@ -903,6 +925,10 @@ MSC-7「獌束」
 @@ @@
 [[include :scp-zh-tr:component:image-block name=https://i.imgur.com/fTYhRKi.png|align=center|width=65%|caption= 回眸以共勉之。 _
 **作者：** [[*user Hector-ZH-TR]]]]
+@@ @@
+[[include :scp-zh-tr:component:image-block name=https://i.imgur.com/BUPyJc1.jpg|align=center|width=65%|caption= [[[SCP-8008]]]×Edward Knave _
+**作者：** [[*user Edward_Knave]] _
+**主參考：** [http://scp-zh-tr.wikidot.com/a-transgress-or-translate-before-spring 《春天前的一次反逆／翻譯》]]]
 @@ @@
 [[/tab]]
 [[tab 簡易異常紀錄]]

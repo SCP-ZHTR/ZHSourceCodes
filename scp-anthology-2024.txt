@@ -1,0 +1,2394 @@
+[[include info:start]]
+原文：[https://scp-wiki.wikidot.com/scp-anthology-2024 SCP Anthology 2024] SCP驚選集2024
+作者：[[*user EstrellaYoshte]]、[[*user S D Locke]]
+譯者：[[*user Frederica Bernkastel]]
+[[include info:end]]
+
+[[include :scp-wiki:theme:sunside]]
+
+[[module CSS]]
+
+@font-face {
+    font-family: 'TT2020 Style D';
+    src: url(https://cdn.jsdelivr.net/gh/SYwaves/Webfont-Archive@master/TT2020StyleD-Regular.woff2) format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'TT2020 Style D';
+    src: url(https://cdn.jsdelivr.net/gh/SYwaves/Webfont-Archive@master/TT2020StyleD-Italic.woff2) format("woff2");
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+:root {
+    --accent-h: -12deg;
+    --complement-h: calc(var(--accent-h) + 200deg);
+    --primary-accent-1: var(--accent-h) 87.5% 54.25%;
+    --primary-accent-2: var(--accent-h) 70% 62.5%;
+    --primary-accent-3: calc(var(--accent-h) - 5deg) 67.5% 67.25%;
+    --dark-accent: calc(var(--accent-h) - 1.5deg) 50% 12.5%;
+    --dark-complement: var(--complement-h) 10.5% 2.5%;
+    --assist-color: var(--accent-h) 6% 10%;
+
+    --s-header-desktop-height: 39.5rem;
+    --s-header-mobile-height: var( --s-header-desktop-height);
+    --sp_dropdown-width: 22ch;
+    --header-title: 'SCP Anthology 2024';
+    --header-subtitle: 'Face Your Fears.';
+    --sp_header-title-size: min(calc(2.675rem * var(--sp_header-title-scale)), calc(.875rem * var(--sp_header-title-scale) + 2.5vw));
+    --sp_header-title-scale: 2.75;
+    --sp_header-subtitle-scale: 2.25;
+
+    --anthology-fg: url(https://smlt.wdfiles.com/local--files/odule%3Acrab/ant24fig.png);
+    --anthology-bg: url(https://smlt.wdfiles.com/local--files/odule%3Acrab/ant24.jpg);
+    --anthology-blend-color: rgb(4 4 4);
+    --anthology-blend-gap: 6.5rem;
+    --anthology-body-bg: url(https://smlt.wdfiles.com/local--files/odule%3Acrab/tilebg.png);
+
+    --header-font: 'TT2020 Style D', monospace;
+    --body-font: InterVariable,Inter,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen,Ubuntu,Cantarell,'Fira Sans','Droid Sans','Helvetica Neue',sans-serif;
+
+    --main-content-width: 84.25rem;
+    --sp_area-max-width: 84.25rem;
+    --sp_area-min-margin: 1.75rem;
+}
+
+body, textarea, input {
+    background-color: hsl(var(--dark-complement));
+    color: hsl(var(--light-accent-1));
+}
+
+body {
+    background-image: linear-gradient(to right, transparent 0%, hsl(var(--dark-complement)) 25%, hsl(var(--dark-complement)) 75%, transparent 100%), var(--anthology-body-bg);
+    background-size: auto, 31.75rem;
+}
+
+#container::before {
+    clip-path: initial;
+    width: 100%;
+    height: var(--anthology-blend-gap);
+    background: linear-gradient(to bottom, var(--anthology-blend-color), transparent);
+}
+
+/*-------------------------------*/
+/*-------------------------------*/
+/*-------------------------------*/
+
+#header {
+    grid-template-areas:
+        "login login login search"
+        "top-bar top-bar top-bar top-bar"
+        ". . . ."
+        "h1 h1 h1 h1"
+        "h2 h2 h2 h2";
+    grid-template-rows: auto auto 1fr auto auto;
+
+    background-color: var(--anthology-blend-color);
+    background-image: var(--anthology-bg);
+    background-size: auto 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+#header::before { all: unset; }
+
+#login-status {
+    background-color: var(--anthology-blend-color);
+}
+
+#top-bar {
+    background: transparent;
+}
+#top-bar div[class*="top-bar"] > ul > li { flex-grow: 1; }
+
+
+#header :is(h1,h2) {
+    margin: initial;
+    text-align: center;
+    z-index: 1;
+    position: relative;
+}
+#header h1 a {
+    color: hsl(var(--primary-accent-1));
+    text-shadow: 0 0 0.325rem hsl(var(--primary-accent-2) /.25);
+    letter-spacing: -.1rem;
+    line-height: 0.875;
+}
+
+
+#header-extra-div-1, #header-extra-div-2, #header-extra-div-3 { all: unset; }
+
+#top-bar div.open-menu a {
+    background-color: hsl(var(--dark-complement));
+    clip-path: unset;
+}
+
+/*-------------------------------*/
+/*-------------------------------*/
+/*-------------------------------*/
+
+#container {
+    overflow-x: hidden;
+}
+
+#content-wrap {
+    margin-top: 0;
+}
+
+#page-title {
+    display: none;
+}
+
+/*-------------------------------*/
+
+.page-source, .code,
+.owindow, div.modalbox, #lock-info {
+    background-color: hsl(var(--dark-complement));
+}
+
+.city-block {
+    width: min(calc(100% - 2rem), 80ch);
+    padding: 0.5rem 1.75rem;
+    margin-block: 2.25rem;
+    background-color: hsl(var(--primary-complement) / 0.05);
+}
+
+
+.collapsible-block-folded, .collapsible-block-unfolded-link { text-align: center; }
+/*-------------------------------*/
+
+.a-randomizer {  padding-block-end: .001rem; pointer-events: none; }
+.a-randomizer div[id] { display: none; }
+
+.a-randomizer .dude {
+    background-image: var(--anthology-fg);
+    background-size: auto 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: absolute;
+    height: var(--sp_final-header-height); width: 100%;
+    left: 0; bottom: calc(100% + var(--anthology-blend-gap));
+    visibility: hidden;
+}
+.a-randomizer div:is([id$="4"]) + .dude {
+    visibility: visible;
+}
+
+.aria-only {
+    position: absolute;
+    border: none;
+    font-size: 0.1em;
+    opacity: .01;
+    color: transparent;
+    pointer-events: none;
+}
+
+/*-------------------------------*/
+/*-------------------------------*/
+/*-------------------------------*/
+
+.anthology-cards-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 2.25rem 1.625rem;
+    margin: 2.5rem auto;
+}
+
+.anthology-card {
+    --cut: 1.25rem;
+    --w: .3875rem;
+    --card-size: 17.5rem;
+    --time: .175s ease-out .075s;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex-basis: var(--card-size);
+    aspect-ratio: 7 / 9;
+    position: relative;
+    text-align: center;
+    isolation: isolate;
+    transition: all var(--time);
+}
+
+
+.eulogy {
+    display: grid;
+    place-content: center;
+    height: calc(var(--cut)* 2);
+    font-family: var(--UI-font);
+    font-size: 1.05em;
+    font-weight: bold;
+    letter-spacing: .05rem;
+    position: relative;
+    z-index: 1;
+    width: calc(100% - 2.75rem);
+    margin-block-end: calc(var(--cut)* -1);
+    line-height: 1.15;
+}
+.eulogy::before, .eulogy::after {
+    content: "";
+    position: absolute;
+    bottom: 0; left: 0;
+    width: 100%; height: 100%;
+    clip-path: polygon( 0% var(--cut), var(--cut) 0%, calc(100% - var(--cut)) 0%, 100% var(--cut), 100% calc(100% - var(--cut)), calc(100% - var(--cut)) 100%, var(--cut) 100%, 0% calc(100% - var(--cut)) );
+    z-index: -1;
+    background-color: hsl(var(--assist-color));
+}
+.eulogy::before {
+    background-color: var(--acc);
+    transition: all var(--time);
+}
+
+
+.backing-img {
+    flex-grow: 1;
+    position: relative;
+    background-color: hsl(var(--assist-color));
+    align-self: stretch;
+    isolation: isolate;
+}
+.backing-img::before, .backing-img::after {
+    content: "";
+    position: absolute;
+    top: 0; left: 0; bottom: 0; right: 0;
+}
+.backing-img::after {
+    background-color: hsl(var(--dark-complement));
+    background-image: var(--cover-img);
+    background-size: cover;
+    background-position: center;
+}
+.backing-img::before {
+    background-image: linear-gradient(to bottom, var(--acc) var(--cut), hsl(var(--dark-complement)));
+    transition: all var(--time);
+}
+
+.backing-img > a {
+    position: absolute;
+    top: 0; left: 0;
+    width: 100%; height: 100%;
+    border: none;
+    background: unset;
+    color: transparent;
+    font-size: 0.1em;
+    z-index: 1;
+}
+
+.anthology-title {
+    position: relative;
+    align-self: stretch;
+}
+.anthology-title .main {
+    position: absolute;
+    bottom: calc(100% - 1px);
+    left: 0;
+    width: 100%;
+    font-family: var(--header-font);
+    font-weight: bold;
+    font-size: 1.5em;
+    padding: .25em;
+    padding-block-start: .5em;
+    box-sizing: border-box;
+    background-image: linear-gradient(to bottom, transparent, hsl(var(--dark-complement)) 67.5%);
+    text-shadow: 0 0 0.625em hsl(var(--dark-complement));
+    transition: color var(--time);
+}
+.anthology-title .sub {
+    display: grid;
+    place-content: center;
+    position: relative;
+    padding-block: 0.325rem;
+    box-sizing: border-box;
+    height: 1.875rem;
+    font-family: var(--UI-font);
+}
+.anthology-title .sub p {
+    margin: 0;
+    padding-inline: .25rem;
+    line-height: 1.25;
+    clip-path: inset(0 50%);
+    transition: clip-path var(--time);
+}
+.anthology-title .sub strong {
+    color: var(--acc);
+}
+
+.anthology-title .sub::before,
+.anthology-title .sub::after {
+    content: "";
+    position: absolute;
+    width: var(--cut);
+    height: var(--cut);
+    box-sizing: border-box;
+    border: solid .175rem var(--acc);
+    background-color: var(--acc);
+    box-shadow: inset 0 0 0 .225rem hsl(calc( -12deg + 190deg) 10.5% 3.25%);
+    top: calc(50% - var(--cut)/2);
+    transform: rotate(45deg);
+    transition: all var(--time);
+}
+.anthology-title .sub::before {
+    left: calc(50% - var(--cut)/2);
+    clip-path: polygon(0 0, 100% 0, 100% 100%);
+}
+.anthology-title .sub::after {
+    right: calc(50% - var(--cut)/2);
+    clip-path: polygon(0 0, 0 100%, 100% 100%);
+}
+
+/*-------------------------------*/
+
+/* Card hover */
+
+.anthology-card:is(:hover,:focus-within) {
+    z-index: 1;
+    transform: scale(1.1);
+}
+
+.anthology-card:is(:hover,:focus-within) .eulogy::before {
+    bottom: calc(var(--w));
+    left: calc(var(--w)*-.3535);
+    width: calc(var(--w)*.707 + 100%);
+}
+
+.anthology-card:is(:hover,:focus-within) .backing-img::before {
+    top: calc(var(--w)*-1);
+    left: calc(var(--w)*-1);
+    right: calc(var(--w)*-1);
+}
+
+.anthology-card.a-active:is(:hover,:focus-within) .anthology-title .main {
+    color: var(--acc);
+}
+
+.anthology-card.a-active:is(:hover,:focus-within) .sub p { clip-path: inset(0); }
+.anthology-card.a-active:is(:hover,:focus-within) .sub::before { left: calc(var(--cut)*-1); }
+.anthology-card.a-active:is(:hover,:focus-within) .sub::after { right: calc(var(--cut)*-1); }
+
+/*-------------------------------*/
+
+/* Fallback if no set accent color */
+
+.anthology-card[style*="$color"] {
+    --acc: hsl(var(--primary-accent-1))!important;
+}
+
+/* Not active card */
+
+.anthology-card:not(.a-active) {
+    --acc: hsl(var(--accent-h) 5% 50%)!important;
+    opacity: .675;
+    cursor: not-allowed;
+}
+
+.anthology-card:not(.a-active) :is(.backing-img > a, .sub p) { visibility: hidden; }
+.anthology-card:not(.a-active) .backing-img::after {
+    background-image: url(https://smlt.wdfiles.com/local--files/odule%3Acrab/brick.jpg);
+}
+
+.anthology-card:not(.a-active) .anthology-title .sub::before,
+.anthology-card:not(.a-active) .anthology-title .sub::after {
+    background: transparent;
+    box-shadow: none;
+}
+
+/*-------------------------------*/
+/*-------------------------------*/
+/*-------------------------------*/
+
+.yui-navset .yui-nav {
+  justify-content: center;
+  gap: 0.75rem 1.625rem;
+}
+.yui-navset .yui-nav li {
+  flex: 0 1 clamp(5rem, 22%, 17.5rem);
+}
+
+.closable-tab .yui-navset .yui-nav {
+  position: relative;
+  z-index: 1;
+}
+.closable-tab .yui-navset .yui-nav li:first-child {
+    position: absolute;
+    top: calc(100% + 1.5rem);
+    left: 0;
+    transform: translateX(-50%);
+}
+
+.closable-tab .yui-navset .yui-nav li:first-child a {
+    display: grid;
+    place-items: center;
+    aspect-ratio: 1;
+    height: 1.875rem;
+    min-height: unset;
+    padding: 0.175rem;
+    clip-path: unset;
+    background: transparent;
+    font-weight: bold;
+    isolation: isolate;
+}
+.closable-tab .yui-navset .yui-nav li:first-child a::before {all: unset;}
+.closable-tab .yui-navset .yui-nav li:first-child a::after {
+    content: "";
+    position: absolute;
+    top: 0; left: 0;
+    width: 100%; height: 100%;
+    box-sizing: border-box;
+    border: solid .175rem hsl(var(--primary-accent-1));
+    background-color: hsl(var(--dark-complement));
+    transform: rotate(45deg);
+    z-index: -1;
+}
+
+
+.closable-tab .yui-navset .yui-nav li:first-child.selected,
+.closable-tab .yui-navset .yui-nav:has(li:first-child.selected)::after,
+.closable-tab .yui-navset:has(.yui-nav li:first-child.selected) .yui-content {
+  display: none;
+}
+.closable-tab .yui-navset:has(.yui-nav li:first-child.selected) .yui-content:has(#u-newest) { display: block; }
+.closable-tab .yui-navset:has(.yui-nav li:first-child.selected) .yui-content > div:has(#u-newest) {  display: block!important; }
+
+.closable-tab .yui-navset .yui-content {
+  padding-inline: 1.5rem;
+}
+
+.closable-tab div.audio_iframe {
+    width: 28rem;
+    margin-inline: auto;
+    padding-bottom: 0;
+}
+
+/* Randomise Mnemophobia/Alethophobia */
+/* Cover image - each of these has a cumulative 25% chance of applying */
+.a-randomizer:has([id*='34'],[id*='93'],[id$='4'],[id$='5'],[id$='6']) ~ .anthology-cards-container [style*='alethophobia'] {
+  --cover-img: url(https://scp-sandbox-3.wdfiles.com/local--files/test544/alethophobia2.jpg) !important;
+}
+.a-randomizer:has([id*='23'],[id*='63'],[id*='88'],[id$='7'],[id$='8']) ~ .anthology-cards-container [style*='alethophobia'] {
+  --cover-img: url(https://scp-sandbox-3.wdfiles.com/local--files/test544/alethophobia3.jpg) !important;
+}
+.a-randomizer:has([id*='12'],[id*='54'],[id*='22'],[id*='99'],[id$='9']) ~ .anthology-cards-container [style*='alethophobia'] {
+  --cover-img: url(https://scp-sandbox-3.wdfiles.com/local--files/test544/alethophobia4.png) !important;
+}
+/* Title - 50% chance of applying */
+.anthology-cards-container [style*='alethophobia'] .main::before,
+.yui-navset:has(.monologue-alethophobia) .yui-nav li:nth-child(2) em::before {
+  content: "真實";
+}
+.a-randomizer:has([id$='0'],[id$='2'],[id$='4'],[id$='6'],[id$='8']) ~ .anthology-cards-container [style*='alethophobia'] .main::before,
+.a-randomizer:has([id$='0'],[id$='2'],[id$='4'],[id$='6'],[id$='8']) ~ .closable-tab .yui-navset:has(.monologue-alethophobia) .yui-nav li:nth-child(2) em::before {
+  content: "記憶";
+}
+/* Monologue content - 50% chance of applying; matches title */
+.monologue-mnemophobia, .a-randomizer:has([id$='0'],[id$='2'],[id$='4'],[id$='6'],[id$='8']) ~ .closable-tab .monologue-alethophobia { display: none }
+.monologue-alethophobia, .a-randomizer:has([id$='0'],[id$='2'],[id$='4'],[id$='6'],[id$='8']) ~ .closable-tab .monologue-mnemophobia { display: block }
+
+[[/module]]
+
+[[div_ class="aria-only" role="heading"]]
+SCP驚選集2024 — 直面你的恐懼。
+[[/div]]
+
+[[div_ class="a-randomizer"]]
+[[module Members group="moderators"]]
+[[div class="dude"]]
+[[/div]]
+[[/div]]
+
+////
+[[div class="city-block"]]
+
+[[include :scp-wiki:component:audio-player-woed-source
+|unique-name=INTRO
+|audio-file=https://scp-sandbox-3.wdfiles.com/local--files/test544/INTRO.mp3
+|background-color=rgb(27 24 25)|border-radius=0rem|dropshadow-color=rgb(12 12 12/0)|text-color=rgb(255 246 246)
+|border-color=#eb3a3a
+|icons-color=#eb3a3a
+|player-color=#eb3a3a
+|progress-color=#eb3a3a
+]]
+
+-----
+
+你即將來到滿是不可能的世界。這是個矛盾而不一致的維度。這個領域的邏輯奠基已經遭到侵蝕，為未知睜開的血盆大口取代。你將徹底深陷恐怖之中，邁入人類最大的恐懼。
+
+這裡匯集了悲愴的、癲狂的故事，提供你考量反思。這些悲劇將關注人類的弱點，乃是對其痛苦的描繪。每天都會有全新的恐怖。依次自我們優秀社群不同成員的思想中剝離而來，從基金會最初的建造者，乃至近期才加入我們隊伍的新人。每篇檔案都代表著不同的恐懼。是獨一無二的恐懼症。
+
+恐懼症的定義在於其中的非理性，儘管有著理性與理解，卻仍然存在的恐懼。這是人類生命中的破壞力量，但也能透過接觸加以控制。只要勇於對抗，就可能加以克服。經歷逆境，人就會變得更為強大。
+
+歡迎來到差異之樞紐。歡迎來到無垠之地域。
+[[/div]]
+
+@@ @@
+[[=]]
+##white|**備注：** 點選圖像上標籤顯示SCP文字簡介/音訊檔案##
+[[/=]]
+@@ @@
+
+[[div class="closable-tab"]]
+[[tabview]]
+[[tab X]]
+[[/tab]]
+[[tab 恐懼恐懼症]]
+
+------
+
+[[include :scp-wiki:component:audio-player-woed-source
+|unique-name=Phobophobia
+|audio-file=https://scp-sandbox-3.wdfiles.com/local--files/test544/Phobophobia.mp3
+|background-color=rgb(27 24 25)|border-radius=0rem|dropshadow-color=rgb(12 12 12/0)|text-color=rgb(255 246 246)
+|border-color=#0a5cf7
+|icons-color=#0a5cf7
+|player-color=#0a5cf7
+|progress-color=#0a5cf7
+]]
+
+------
+
+想像那個位居職業巔峰的男人──恐懼學部的蘭德爾．歐因斯博士。在擔任主任期間，歐因斯先生始終致力於應對人們的恐懼淵藪。他認為自己是個先驅者，是個冒險闖入黑暗領域帶回理性之光的人。
+
+然而你即將親眼見證歐因斯先生踏上全新的冒險旅途，奔赴歷史未曾記下的無垠之地域。
+
+
+[[/tab]]
+[[tab 視線恐懼症]]
+
+-----
+
+[[include :scp-wiki:component:audio-player-woed-source
+|unique-name=Scopophobia
+|audio-file=https://scp-sandbox-3.wdfiles.com/local--files/test544/Scopophobia.mp3
+|background-color=rgb(27 24 25)|border-radius=0rem|dropshadow-color=rgb(12 12 12/0)|text-color=rgb(255 246 246)
+|border-color=#eb3a3a
+|icons-color=#eb3a3a
+|player-color=#eb3a3a
+|progress-color=#eb3a3a
+]]
+
+-----
+
+已提交請你批准，喬治．安布羅斯先生。研究員。尋路人。審訊者。於松林泥炭地中的不起眼居所中，安布羅斯先生即將發現自己面臨著最艱鉅的任務：探索主宰意識本身存在的思想。是能夠揭穿人最私密想法的實體。很快的，安布羅斯先生就會穿越不起眼的住宅大門，進到野獸的肚子裡。
+
+進到將巢穴築於無垠之地域的野獸肚子裡。
+
+[[/tab]]
+[[tab 火焰恐懼症]]
+
+-----
+
+[[include :scp-wiki:component:audio-player-woed-source
+|unique-name=Pyrophobia
+|audio-file=https://scp-sandbox-3.wdfiles.com/local--files/test544/Pyrophobia.mp3
+|background-color=rgb(27 24 25)|border-radius=0rem|dropshadow-color=rgb(12 12 12/0)|text-color=rgb(255 246 246)
+|border-color=#fb6212
+|icons-color=#fb6212
+|player-color=#fb6212
+|progress-color=#fb6212
+]]
+
+-----
+
+據人類所知，地球是我們所謂「火焰」──這種難以置信的燃燒反應──的唯一繼承者。那是兼具破壞與生產的力量，既美麗又危險。利用它的力量，人類能夠從動物界底層脫穎而出，一躍站上巔峰。
+
+火從最開始就與人類相伴而行，而當最後一名人類嚥下最後一口氣時，火也仍舊存在。我們由火造就成人，我們也將因火化為灰燼而湮滅。
+
+今夜的故事將體現這偉大而奠基的力量。這將歸定為A是「灰燼」（Ash）。因為這就是無垠之地域殘餘的一切。
+
+
+[[/tab]]
+[[tab 假面恐懼症]]
+
+-----
+
+[[include :scp-wiki:component:audio-player-woed-source
+|unique-name=Masklophobia
+|audio-file=https://scp-sandbox-3.wdfiles.com/local--files/test544/Masklophobia.mp3
+|background-color=rgb(27 24 25)|border-radius=0rem|dropshadow-color=rgb(12 12 12/0)|text-color=rgb(255 246 246)
+|border-color=#c99a00
+|icons-color=#c99a00
+|player-color=#c99a00
+|progress-color=#c99a00
+]]
+
+-----
+
+克勞赫斯特主任──或者更精確的稱呼，代理主任出場了。這個自以為是之人得要接上前任的重擔，可他有個唯一的缺點，這擔子容不下他那過度膨脹的自我。他之所以能迅速崛起，訣竅在於他能在任何時候戴上各種假面。他在下屬面前戴上權威的面具，在那些臉孔為陰影壟罩的人面前，他就會戴上遵從的面具。
+
+但是現在，克勞赫斯特先生不得不戴上全新的面具，去填上新的角色。從各種意義來說，他都不過是個代理主任。臨時站點Site 14的燈光暗了下來，大幕拉起，第一幕就在這無垠之地域大舞臺上演。
+
+[[/tab]]
+[[/tabview]]
+[[/div]]
+
+[[div class="anthology-cards-container"]]
+
+[[include :smlt:odule:paella |status=active
+|color= #0a5cf7|cover-img= https://scp-sandbox-3.wdfiles.com/local--files/test544/phobophobia.png
+|slug=scp-8066
+|author=MontagueETC
+|phobia=恐懼恐懼症|title=唯一值得**恐懼**之物
+]]
+
+[[include :smlt:odule:paella |status=active
+|color=#eb3a3a |cover-img=https://scp-sandbox-3.wdfiles.com/local--files/test544/scopophobia.gif
+|slug=scp-8596
+|author=PlaguePJP
+|phobia=視線恐懼症|title=本月最佳員工
+]]
+
+[[include :smlt:odule:paella |status=active
+|color= #fb6212 |cover-img=https://scp-sandbox-3.wdfiles.com/local--files/test544/pyrophobia.gif
+|slug=SCP-8091
+|author=Cathy Autumn
+|phobia=火焰恐懼症|title=與我同**焚**
+]]
+
+[[include :smlt:odule:paella |status=active
+|color=#c99a00 |cover-img=https://scp-sandbox-3.wdfiles.com/local--files/test544/masklophobia2.png
+|slug=scp-8906
+|author=Sound Chaser
+|phobia=假面恐懼症|title=舞臺**謀殺**
+]]
+[[/div]]
+
+[[div class="closable-tab"]]
+[[tabview]]
+[[tab X]]
+[[/tab]]
+[[tab 水體恐懼症]]
+
+-----
+
+[[include :scp-wiki:component:audio-player-woed-source
+|unique-name=Aquaphobia
+|audio-file=https://scp-sandbox-3.wdfiles.com/local--files/test544/Aquaphobia.mp3
+|background-color=rgb(27 24 25)|border-radius=0rem|dropshadow-color=rgb(12 12 12/0)|text-color=rgb(255 246 246)
+|border-color=#17aabc
+|icons-color=#17aabc
+|player-color=#17aabc
+|progress-color=#17aabc
+]]
+
+-----
+
+夏日。野餐與騎腳踏車的時節。在木板路散步與吃冰棒的時節。爬樹與遊樂園的時節。
+
+正如你即將見識的那樣，這根本不是在游泳池暢游的時節。那些不專心的人，可能會發現自己遠離了安全的淺水區，不可挽回的游入深不可測的無垠之地域深淵。
+
+[[/tab]]
+[[tab 工作恐懼症]]
+
+-----
+
+[[include :scp-wiki:component:audio-player-woed-source
+|unique-name=Ergophobia
+|audio-file=https://scp-sandbox-3.wdfiles.com/local--files/test544/Ergophobia.mp3
+|background-color=rgb(27 24 25)|border-radius=0rem|dropshadow-color=rgb(12 12 12/0)|text-color=rgb(255 246 246)
+|border-color=#0a460a
+|icons-color=#0a460a
+|player-color=#0a460a
+|progress-color=#0a460a
+]]
+
+-----
+
+莉蓮．瑪莉女士今天也打卡上班。年齡：28歲。職業：收容專員。這位女性聰明又有幹勁。他就像是絕大多數的天才那樣大膽高傲。他始終是表現最好的模範員工。他在各項能力上都表現出色，只有一個例外：他生活在一個不希望看到她成功的世界。
+
+接下來內容並不僅僅只是小說創作。這反映出了我們社會固有的疾患。這在社會血管脈動的半致死量毒素，是整個社會的自作孽。莉蓮．瑪莉才開始了新一天的輪班，卻發現自己被安排了加班。他得在無垠之地域永無止境的徒然苦勞。
+
+
+[[/tab]]
+[[tab 跌落恐懼症]]
+
+-----
+
+[[include :scp-wiki:component:audio-player-woed-source
+|unique-name=Basophobia
+|audio-file=https://scp-sandbox-3.wdfiles.com/local--files/test544/Basophobia.mp3
+|background-color=rgb(27 24 25)|border-radius=0rem|dropshadow-color=rgb(12 12 12/0)|text-color=rgb(255 246 246)
+|border-color=#ab6116
+|icons-color=#ab6116
+|player-color=#ab6116
+|progress-color=#ab6116
+]]
+
+-----
+
+印第安納芬頓。這座寧靜的中西部小鎮，正發現自己陷入了相當不穩定的境地。一切有形已知事物的基礎與奠基正在他們腳下崩潰，他們發現自己正在我們稱為狂熱的深淵邊緣搖搖欲墜。宗教狂熱深淵是貧者與弱勢跌落的深淵，也是渴望救贖虔誠靈魂的深淵。
+
+印第安納芬頓民眾即將做出有意識的選擇，跳出信仰之躍。那是無法接觸地面的飛躍。是潛入無垠之地域深淵的飛躍。
+
+[[/tab]]
+[[tab 光芒恐懼症]]
+
+-----
+
+[[include :scp-wiki:component:audio-player-woed-source
+|unique-name=Photophobia
+|audio-file=https://scp-sandbox-3.wdfiles.com/local--files/test544/Photophobia.mp3
+|background-color=rgb(27 24 25)|border-radius=0rem|dropshadow-color=rgb(12 12 12/0)|text-color=rgb(255 246 246)
+|border-color=#fffcda
+|icons-color=#fffcda
+|player-color=#fffcda
+|progress-color=#fffcda
+]]
+
+-----
+
+讓我們用摘錄作為開頭。莎士比亞《愛的徒勞》第一幕。引言如下：「本想找光明，反而失去了光明；因為黑暗里的光明尚未發現，你兩眼的光明已經轉為黑暗。」
+
+有些追求是出於至高意圖而進行。雄心勃勃的努力，明確是為了確保人類擁有光明璀璨的未來。但人類並不完美，即使是最周全的計畫，也充滿了不可預見、有時甚至自相矛盾的後果。在無垠之地域中，我們要不斷汲取教訓。
+
+[[/tab]]
+[[/tabview]]
+[[/div]]
+
+[[div class="anthology-cards-container"]]
+
+[[include :smlt:odule:paella |status=active
+|color=#17aabc |cover-img=https://scp-sandbox-3.wdfiles.com/local--files/test544/aquaphobia.png
+|slug=scp-8380
+|author=TroutMaskReplica
+|phobia=水體恐懼症|title=**表**面**張**力
+]]
+
+[[include :smlt:odule:paella |status=active
+|color=#0a460a|cover-img=https://scp-sandbox-3.wdfiles.com/local--files/test544/ergophobia.png
+|slug=scp-8980
+|author=Yossipossi
+|phobia=工作恐懼症|title=**喪盡**熱忱
+]]
+
+[[include :smlt:odule:paella |status=active
+|color=#ab6116 |cover-img=https://scp-sandbox-3.wdfiles.com/local--files/test544/basophobia0.png
+|slug=scp-8894
+|author=cubeflix
+|phobia=跌落恐懼症|title=**信仰之躍**
+]]
+
+[[include :smlt:odule:paella |status=active
+|color=#fffcda |cover-img=https://scp-sandbox-3.wdfiles.com/local--files/test544/photophobia.jpg
+|slug=scp-8339
+|author=Ecronak
+|phobia=光芒恐懼症|title=生**於**黑**暗**。死**於**光**明**。
+
+]]
+[[/div]]
+
+[[div class="closable-tab"]]
+[[tabview]]
+[[tab X]]
+[[/tab]]
+[[tab 核武恐懼症]]
+
+-----
+
+[[include :scp-wiki:component:audio-player-woed-source
+|unique-name=Nucleomituphobia
+|audio-file=https://scp-sandbox-3.wdfiles.com/local--files/test544/Nucleomituphobia.mp3
+|background-color=rgb(27 24 25)|border-radius=0rem|dropshadow-color=rgb(12 12 12/0)|text-color=rgb(255 246 246)
+|border-color=#ff2e1d
+|icons-color=#ff2e1d
+|player-color=#ff2e1d
+|progress-color=#ff2e1d
+]]
+
+-----
+
+我們地球母親的表面有個巨大躍動動瘤。如果不加以控制，就會像癌症一樣傳播，任它透過吸收與竊取維持自身。就像癌症一樣，這種腫瘤也是由細胞組成。這些型態近似人類，又小又邪惡的細菌。對這些貪婪無情的存在來說，同情與憐憫都是無法理解的。所謂人類最擔憂的，不僅僅是其能承受與獲得之事物，而是有朝一日可能被要求償還自身罪孽的時刻。是他們事業被視為不當或不義的時刻。
+
+是看著自己的成就，卻感到絕望的時刻。
+
+[[/tab]]
+[[tab 人類恐懼症]]
+
+-----
+
+[[include :scp-wiki:component:audio-player-woed-source
+|unique-name=Anthropophobia
+|audio-file=https://scp-sandbox-3.wdfiles.com/local--files/test544/Anthropophobia.mp3
+|background-color=rgb(27 24 25)|border-radius=0rem|dropshadow-color=rgb(12 12 12/0)|text-color=rgb(255 246 246)
+|border-color=#8b332f
+|icons-color=#8b332f
+|player-color=#8b332f
+|progress-color=#8b332f
+]]
+
+-----
+
+人口增長的結果是生計需求遭到工業化。我們得提高提供人類食物的流程與系統效率。這些就是死亡的系統。機器運轉時的效率如此殘酷冷漠。乾淨的切片。凌亂的碎末。這一切都是為了將產品包裝整齊，方便運送到離你所在地最近的雜貨店。
+
+下次去市場時，請試著考慮選購素食。畢竟你找到的肉很可能是從無垠之地域屠宰場產出。
+
+[[/tab]]
+[[tab 發展恐懼症]]
+
+-----
+
+[[include :scp-wiki:component:audio-player-woed-source
+|unique-name=Prosophobia
+|audio-file=https://scp-sandbox-3.wdfiles.com/local--files/test544/Prosophobia.mp3
+|background-color=rgb(27 24 25)|border-radius=0rem|dropshadow-color=rgb(12 12 12/0)|text-color=rgb(255 246 246)
+|border-color=#FFD700
+|icons-color=#FFD700
+|player-color=#FFD700
+|progress-color=#FFD700
+]]
+
+-----
+
+現代社會不乏科技奇蹟。醫學進步能夠延長生命福祉。農業創新支撐日益攀升的人口。最近，還發明出了偉大的思維機器，如今已能設計出迄今為止人類思維無力企及的解決方案。甚至是連想像都有困難的方案。
+
+發展得越來越快，將我們帶入了充滿不確定性的未來。在那裡，我們將接受加工，蓋上「過時」的橡皮圖章後，發配去幹單純的零件工作。數位惡夢中的晶片，每秒十萬次的計算後得出了唯一結論：它是我們的上位。
+
+這並非故障。它是完全按照程式設計執行的程式碼。這就是無垠之地域得出的最終結論。
+
+[[/tab]]
+[[tab 愉悅恐懼症]]
+
+-----
+
+[[include :scp-wiki:component:audio-player-woed-source
+|unique-name=Hedonophobia
+|audio-file=https://scp-sandbox-3.wdfiles.com/local--files/test544/Hedonophobia.mp3
+|background-color=rgb(27 24 25)|border-radius=0rem|dropshadow-color=rgb(12 12 12/0)|text-color=rgb(255 246 246)
+|border-color=#9c6d6d
+|icons-color=#9c6d6d
+|player-color=#9c6d6d
+|progress-color=#9c6d6d
+]]
+
+-----
+
+已提交請你批准，亞倫．波魯斯研究員。這位不幸之人每每與幸運擦肩而過，又帶著令人厭惡的渴望擺脫了命運。那是永遠不能搔抓的癢。看啊，波魯斯先生已判處死刑，為其簽名者乃是激情與慾望。注定要感受，卻永遠無法觸摸。
+
+人人都有渴望。人人都有需求。對那些必須在我們稱為無垠之地域的孤絕牢房服刑者而言，這始終都是事先就已知曉的事實。
+
+[[/tab]]
+[[/tabview]]
+[[/div]]
+
+[[div class="anthology-cards-container"]]
+
+[[include :smlt:odule:paella |status=active
+|color=#ff2e1d |cover-img=https://scp-sandbox-3.wdfiles.com/local--files/test544/nucleomituphobia.jpg
+|slug=scp-8084
+|author=basirskipreader and FLOORBOARDS
+|phobia=核武恐懼症|title=完美文化**勝利**
+]]
+
+[[include :smlt:odule:paella |status=active
+|color=#8b332f |cover-img=https://scp-sandbox-3.wdfiles.com/local--files/test544/anthropophobia.png
+|slug=scp-8876
+|author=J Dune
+|phobia=人類恐懼症|title=**屠宰**場
+]]
+
+[[include :smlt:odule:paella |status=active
+|color=#FFD700 |cover-img=https://scp-sandbox-3.wdfiles.com/local--files/test544/prosophobia.png
+|slug=scp-8430
+|author=bigslothonmyface
+|phobia=發展恐懼症|title=**充實貫徹**
+]]
+
+[[include :smlt:odule:paella |status=active
+|color=#9c6d6d|cover-img=https://scp-sandbox-3.wdfiles.com/local--files/test544/hedonophobia.png
+|slug=scp-8558
+|author=OriTiefling
+|phobia=愉悅恐懼症|title=肉身**朽壞**
+]]
+[[/div]]
+
+[[div class="closable-tab"]]
+[[tabview]]
+[[tab X]]
+[[/tab]]
+[[tab 恐懼症 ]] [!-- 真實恐懼症/記憶恐懼症 --]
+
+[[div class="monologue-alethophobia"]]
+[[include :scp-wiki:component:audio-player-woed-source
+|unique-name=Alethophobia
+|audio-file=https://scp-sandbox-3.wdfiles.com/local--files/test544/Alethophobia.mp3
+|background-color=rgb(27 24 25)|border-radius=0rem|dropshadow-color=rgb(12 12 12/0)|text-color=rgb(255 246 246)
+|border-color=#92866c
+|icons-color=#92866c
+|player-color=#92866c
+|progress-color=#92866c
+]]
+
+-----
+
+這是我們原始思維的造物，在學習事實與資訊時總需要我們緊緊抓牢。我們將世界的想法與信念灌輸給自己，使之成為我們性格的一部分。我們的思想拒絕改變，拒絕忘記那些我們已經認知為客觀真理的事物。若是面對相互矛盾的訊息，固步自封的頭腦就會頑抗──導致令人不安的認知失調症狀。
+
+對於那些能夠窺視現實面紗背後的男男女女而言，對於基金會的男男女女而言，他們都曉得「真相」與「事實」都是短暫而脆弱的概念，根本沒有可以立足之地。對感知之門已然淨化的他們來說，世間一切看起來也不過如此：無窮無盡。在異常世界行動，你就會知道沒有什麼是不變的。事實、虛構、迷信、信仰總是在變化。一切都在那不可能的領域中，無可辯駁的交叉重疊──就在那歐基里德的無垠之地域。
+
+*注：重整頁面查閱記憶恐懼症簡介*
+[[/div]] [!-- .monologue-alethophobia --]
+
+[[div class="monologue-mnemophobia"]]
+[[include :scp-wiki:component:audio-player-woed-source
+|unique-name=Alethophobia
+|audio-file=https://scp-sandbox-3.wdfiles.com/local--files/test544/Mnemophobia.mp3
+|background-color=rgb(27 24 25)|border-radius=0rem|dropshadow-color=rgb(12 12 12/0)|text-color=rgb(255 246 246)
+|border-color=#92866c
+|icons-color=#92866c
+|player-color=#92866c
+|progress-color=#92866c
+]]
+
+-----
+
+心智是如此善變。我們的記憶與經歷將不可避免受到遺忘。我們的一生全都會逐步遭到取代。遭到遺忘的陰霾壟罩。回憶注定一半遭到忘卻而另一半混濁不堪。人自身的歷史將永久埋藏在歲月重壓之下，只有我們最清晰的記憶得以倖存。確實，心智就是個筲箕。
+
+正因如此，我們抵抗意識記憶的消失。我們用照片捕捉瞬間。我們在日記記錄我們的想法。我們透過社群媒體傳播自己的生活。這些終究都會成為遺物。這座紀念碑會比我們不完美的心智更為長久。這座紀念碑將矗立在低矮平坦的沙灘上，一路延伸至地平線。成為無垠之地域遺忘處的綿延起伏沙丘。
+
+*注：重整頁面查閱真實恐懼症簡介*
+[[/div]] [!-- .monologue-mnemophobia --]
+
+[[/tab]]
+[[tab 資料丟失恐懼症]]
+
+-----
+
+[[include :scp-wiki:component:audio-player-woed-source
+|unique-name=Diagraphephobia
+|audio-file=https://scp-sandbox-3.wdfiles.com/local--files/test544/Diagraphephobia.mp3
+|background-color=rgb(27 24 25)|border-radius=0rem|dropshadow-color=rgb(12 12 12/0)|text-color=rgb(255 246 246)
+|border-color=#ec393a
+|icons-color=#ec393a
+|player-color=#ec393a
+|progress-color=#ec393a
+]]
+
+-----
+
+柏拉圖《費德魯斯篇》中，認為識讀寫作可以塗銷心靈。倚賴文本的不變與實用性質，人會停止獨立思考，削弱記憶，鈍化智慧。能使人們學會很多事物，卻又對其一無所知。儘管這在當時恐怕有些離譜，但到了數位時代確實是一語成讖。當男女長幼都隨身攜帶個人超級電腦，將其連接至深不可測的海量資訊時，思想與記憶就會變得輕盈。人類回憶與思考的過程將轉移到數位助理上。
+
+肌肉遭到忽視棄用時就會萎縮。組織就會弱化。它努力重現其預期作用，最終卻淪為廢棄之物。使之成為警告吧。標有路標的地方給定了一條不歸路──在那裡，有意識的回憶變得不再可能。那些在無垠之地域漫無目的、絕望徘徊的人，將深陷破碎晦暗的心靈之中。
+
+[[/tab]]
+[[tab 月亮恐懼症]]
+
+-----
+
+[[include :scp-wiki:component:audio-player-woed-source
+|unique-name=Selenophobia
+|audio-file=https://scp-sandbox-3.wdfiles.com/local--files/test544/Selenophobia.mp3
+|background-color=rgb(27 24 25)|border-radius=0rem|dropshadow-color=rgb(12 12 12/0)|text-color=rgb(255 246 246)
+|border-color=#ced6a9
+|icons-color=#ced6a9
+|player-color=#ced6a9
+|progress-color=#ced6a9
+]]
+
+-----
+
+尼爾．阿姆斯壯。「嗡嗡」．奧爾德林。麥可．柯林斯。三名水手正在黑曜石海洋航行，他們即將登陸。其中兩人，阿姆斯壯與奧爾德林，將有幸在地球的永久衛星上行走。當他們的一小步踏上那個荒涼世界時，這印記將會永遠載入史冊。
+
+在他們頭頂極遠處，三人中的一名將獲得殊榮：洞察之祝福。因為當他的同事在建立靜海基地時，麥可．柯林斯將與這樣的認知抗爭：這裡根本沒有寧靜可言。儘管在指揮艙的他絕對安全，但他將會被拋棄在那裡。在那裡，他將被迫在知識之海逆流而上，海汐將隨著主宰無垠之地域的蒼白球體盈缺潮起潮落。
+
+
+[[/tab]]
+[[tab 人形恐懼症]]
+
+-----
+
+[[include :scp-wiki:component:audio-player-woed-source
+|unique-name=Automotophobia
+|audio-file=https://scp-sandbox-3.wdfiles.com/local--files/test544/Automotophobia.mp3
+|background-color=rgb(27 24 25)|border-radius=0rem|dropshadow-color=rgb(12 12 12/0)|text-color=rgb(255 246 246)
+|border-color=#969eb5
+|icons-color=#969eb5
+|player-color=#969eb5
+|progress-color=#969eb5
+]]
+
+-----
+
+恐怖谷。這種形而上的概念，指涉當對人類外型再現與模仿達到近乎完美的水準時，將會引發恐懼不安的感受。有個人們的普遍誤解：認為恐怖谷的存在出於在人類過去的某個時刻，對看似人類卻非如此的存在產生了警惕之心。當然，這與事實相差甚遠。
+
+危險就在眼前。如你所見，恐怖谷可不僅僅是概念。那是個真實的地點。就位於無垠之地域群峰丘陵間的某處。
+
+[[/tab]]
+[[/tabview]]
+[[/div]]
+
+[[div class="anthology-cards-container"]]
+
+[[include :smlt:odule:paella |status=active
+|color=#92866c |cover-img=https://scp-sandbox-3.wdfiles.com/local--files/test544/alethophobia.jpg
+|slug=scp-8822
+|author=Croquembouche
+|phobia=恐懼症|title=腦內正設
+]]
+
+[[include :smlt:odule:paella |status=active
+|color=#ec393a|cover-img=https://scp-wiki.wdfiles.com/local--files/scp-8976/10.png
+|slug=scp-8976
+|author=ROUNDERHOUSE
+|phobia=資料丟失恐懼症|title=碎片化
+]]
+
+[[include :smlt:odule:paella |status=active
+|color=#ced6a9 |cover-img=https://scp-sandbox-3.wdfiles.com/local--files/test544/selenophobia.png
+|slug=scp-8520
+|author=AriadnesThread
+|phobia=月亮恐懼症|title=**空虛**映影
+]]
+
+[[include :smlt:odule:paella |status=active
+|color=#969eb5 |cover-img= https://scp-sandbox-3.wdfiles.com/local--files/test544/automotonophobia.jpg
+|slug=scp-8986
+|author=PeppersGhost
+|phobia=人形恐懼症|title=偽**正**
+]]
+
+[[/div]]
+
+[[div class="closable-tab"]]
+[[tabview]]
+[[tab X]]
+[[/tab]]
+[[tab 指甲恐懼症]]
+
+-----
+
+[[include :scp-wiki:component:audio-player-woed-source
+|unique-name=Onuxophobia
+|audio-file=https://scp-sandbox-3.wdfiles.com/local--files/test544/Onuxophobia.mp3
+|background-color=rgb(27 24 25)|border-radius=0rem|dropshadow-color=rgb(12 12 12/0)|text-color=rgb(255 246 246)
+|border-color=#a51844
+|icons-color=#a51844
+|player-color=#a51844
+|progress-color=#a51844
+]]
+
+-----
+
+愛蜜莉．柯蒂斯出場了，這位陷入困境的年輕女性，有著顯而易見的自我毀滅傾向。這種應對機制的行為模式轉為狂熱癡迷，他身陷其中的次數多到他用雙手都數不清。你瞧，愛蜜莉．柯蒂斯已經遭到創傷的魔爪緊握，被痛苦的尖牙死咬。這一直侵蝕著他的自我意識。
+
+當人跌入最低谷時，當救贖似乎成為幻想時，請放心隧道盡頭確實還有燈火。如果有人能咬緊牙關。如果有人願意竭盡全力實現這個目標就好了。這是只有在無垠之地域才能親身體驗的自我實現過程。
+
+[[/tab]]
+[[tab 闊域恐懼症]]
+
+-----
+
+[[include :scp-wiki:component:audio-player-woed-source
+|unique-name=Kenophobia
+|audio-file=https://scp-sandbox-3.wdfiles.com/local--files/test544/Kenophobia.mp3
+|background-color=rgb(27 24 25)|border-radius=0rem|dropshadow-color=rgb(12 12 12/0)|text-color=rgb(255 246 246)
+|border-color=#81779b
+|icons-color=#81779b
+|player-color=#81779b
+|progress-color=#81779b
+]]
+
+-----
+
+這個房間裡什麼都沒有。沒有家具。沒有鋼筋。沒有插座。沒有電線。這個房間裡什麼都沒有，完完全全的空無一物。沒有地毯。沒有地板。沒有天花板。沒有門。什麼都沒有。
+
+這裡沒有寵物。沒有人。沒有門。沒有光。沒有聲音。沒有思想。
+
+這裡沒有你。這裡空無一物。無，無，無占滿了無垠之地域的空白。
+
+[[/tab]]
+[[tab 鏡像恐懼症]]
+
+-----
+
+[[include :scp-wiki:component:audio-player-woed-source
+|unique-name=Eisoptrophobia
+|audio-file=https://scp-sandbox-3.wdfiles.com/local--files/test544/Eisoptrophobia.mp3
+|background-color=rgb(27 24 25)|border-radius=0rem|dropshadow-color=rgb(12 12 12/0)|text-color=rgb(255 246 246)
+|border-color=#434242
+|icons-color=#434242
+|player-color=#434242
+|progress-color=#434242
+]]
+-----
+
+看著黑色的點。看著黑色的點。看著黑色的點。看著黑色的點。看著黑色的點。看著黑色的點。看著黑色的點。看著黑色的點。看著黑色的點。看著黑色的點。看著黑色的點。看著黑色的點。看著黑色的點。
+
+看著黑色的點。
+
+[[/tab]]
+[[tab 分娩恐懼症]]
+
+-----
+
+[[include :scp-wiki:component:audio-player-woed-source
+|unique-name=Tokophobia
+|audio-file=https://scp-sandbox-3.wdfiles.com/local--files/test544/Tokophobia.mp3
+|background-color=rgb(27 24 25)|border-radius=0rem|dropshadow-color=rgb(12 12 12/0)|text-color=rgb(255 246 246)
+|border-color=#ef3584
+|icons-color=#ef3584
+|player-color=#ef3584
+|progress-color=#ef3584
+]]
+
+-----
+
+所有的出生都是餽贈。所有的新生兒都無比珍貴。在世界任何地方、任何民族、任何文化中，擁有生命的奇蹟都被視為一種祝福。這是個受歡迎的歡樂時刻。
+
+所有地方都是如此，只有名喚伍茲霍勒的偏僻村莊是個例外。在這座寂靜小鎮的範圍內，所有的出生都是詛咒。所有的新生兒都如此可憎。迎接他們降世沒有任何歡樂。只有恐怖。只有畏懼。伍茲霍勒的居民只能屏息等待，他們深知自己唯一能等到的只有絕望。這是無垠之地域內孕育蔓延的天譴狀態。
+
+[[/tab]]
+[[/tabview]]
+[[/div]]
+
+[[div class="anthology-cards-container"]]
+
+[[include :smlt:odule:paella |status=active
+|color=#a51844 |cover-img=https://scp-sandbox-3.wdfiles.com/local--files/test544/Onuxophobia.png
+|slug=scp-8480
+|author=Queerious
+|phobia=指甲恐懼症|title=病態**自食**
+]]
+
+[[include :smlt:odule:paella |status=active
+|color=#81779b |cover-img=https://scp-sandbox-3.wdfiles.com/local--files/test544/Kenophobia.png
+|slug=scp-8724
+|author=Fishish
+|phobia=闊域恐懼症|title=一輩子的壞氛圍
+]]
+
+[[include :smlt:odule:paella |status=active
+|color=#434242 |cover-img=https://scp-sandbox-3.wdfiles.com/local--files/test544/eisoptrophobia.png
+|slug=scp-8465
+|author=PoufyPoufson
+|phobia=鏡像恐懼症|title=黑**點**
+]]
+
+[[include :smlt:odule:paella |status=active
+|color=#ef3584 |cover-img=https://scp-sandbox-3.wdfiles.com/local--files/test544/tokophobia.png
+|slug=scp-8935
+|author=djkaktus
+|phobia=分娩恐懼症|title=處子之**產**
+]]
+
+[[/div]]
+
+[[div class="closable-tab"]]
+[[tabview]]
+[[tab X]]
+[[/tab]]
+[[tab 末日恐懼症]]
+
+-----
+
+[[include :scp-wiki:component:audio-player-woed-source
+|unique-name=Eschatophobia
+|audio-file=https://scp-sandbox-3.wdfiles.com/local--files/test544/Eschatophobia2.mp3
+|background-color=rgb(27 24 25)|border-radius=0rem|dropshadow-color=rgb(12 12 12/0)|text-color=rgb(255 246 246)
+|border-color=#8d3226
+|icons-color=#8d3226
+|player-color=#8d3226
+|progress-color=#8d3226
+]]
+
+> 許多怪異的事情確實讓人惶恐不安。像真會隨時爆炸的手榴彈。又或者是三頭鴨？也許公車怪人正偷偷朝你的方向望去呢。無論如何，在這一切毛骨悚然的事情中，沒有什麼比當大難臨頭，我們凝視著「超衰小」與「很高興認識你」二話並出更令人毛骨悚然的時刻了。
+> 
+> 如果你有點樂觀又有些愚蠢的話，這就是世界末日了，又或者是新世界的開始。不管怎樣，這都是世界末日。XK-跟你的屁股吻別情景（由於未決版權訴訟）只會在未定義領域發生。
+
+[[/tab]]
+[[tab 傷口恐懼症]]
+
+-----
+
+[[include :scp-wiki:component:audio-player-woed-source
+|unique-name=Traumatophobia
+|audio-file=https://scp-sandbox-3.wdfiles.com/local--files/test544/Traumatophobia.mp3
+|background-color=rgb(27 24 25)|border-radius=0rem|dropshadow-color=rgb(12 12 12/0)|text-color=rgb(255 246 246)
+|border-color=#e00000
+|icons-color=#e00000
+|player-color=#e00000
+|progress-color=#e00000
+]]
+
+-----
+
+如果有什麼特徵能貫徹人類史，那就是對戰爭的偏好。對土地的貪欲、對資源的需求、對鮮血的渴望。一次次的拋棄了禮貌、同情心、人性。為了信仰與意識形態的紀念碑犧牲一切。極端主義狂熱。以民族主義與仇恨為引擎的系統。作為犧牲者，他的身體已然支離破碎。他的土地一片荒蕪。永恆的靈魂也遭到拋棄。
+
+因此，人類會永遠受到詛咒。在永無止境的衝突中，於無垠之地域交錯重疊的戰場前線上戰鬥。
+
+[[/tab]]
+[[tab 獨處恐懼症]]
+
+-----
+
+[[include :scp-wiki:component:audio-player-woed-source
+|unique-name=Autophobia
+|audio-file=https://scp-sandbox-3.wdfiles.com/local--files/test544/Autophobia.mp3
+|background-color=rgb(27 24 25)|border-radius=0rem|dropshadow-color=rgb(12 12 12/0)|text-color=rgb(255 246 246)
+|border-color=#ad2a9b
+|icons-color=#ad2a9b
+|player-color=#ad2a9b
+|progress-color=#ad2a9b
+]]
+
+-----
+
+這是個健康社群的圖景。社群互動建立在彼此親密的連結上。愛你的鄰人就要靠真正了解他們。完美和諧狀態下的思想網路。如果有人認為這樣的社群就是天堂，完全可以理解。宛如田園詩一般。
+
+然而這種情況下，隨著關係變得更加牢固，分離時刻也會變得更加痛苦。當你漫步在無垠之地域如畫小鎮的安靜街道時，請務必牢記這個事實。
+
+[[/tab]]
+[[tab 失敗恐懼症]]
+
+-----
+[[include :scp-wiki:component:audio-player-woed-source
+|unique-name=Atychiphobia
+|audio-file=https://scp-sandbox-3.wdfiles.com/local--files/test544/Atychiphobia.mp3
+|background-color=rgb(27 24 25)|border-radius=0rem|dropshadow-color=rgb(12 12 12/0)|text-color=rgb(255 246 246)
+|border-color=#866631
+|icons-color=#866631
+|player-color=#866631
+|progress-color=#866631
+]]
+
+-----
+
+在我們腳下的某處，在某個不可測知的深處，在黑暗中，正爆發一場家庭爭吵。這對手足出於不滿與不適應大吵一架。看啊，這些年輕人背負遠比他們頭頂大地還要沉重的負擔：巨大的期望壓垮了他們。這是必須犧牲所有才能證明自我價值的世代。在絕望攀上高峰的過程中，所有事物都必須放棄。
+
+通往成功的道路確實漫長艱辛，有時你還會發現，這條路將你引導至無垠之地域中心絕無寬待的領地。
+
+[[/tab]]
+[[/tabview]]
+[[/div]]
+
+[[div class="anthology-cards-container"]]
+
+[[include :smlt:odule:paella |status=active
+|color=#8d3226 |cover-img=https://scp-sandbox-3.wdfiles.com/local--files/test544/eschatophobia.jpg
+|slug=scp-8201
+|author=daveyoufool
+|phobia=末日恐懼症|title=唯**一**出路
+]]
+
+[[include :smlt:odule:paella |status=active
+|color=#e00000 |cover-img=https://scp-sandbox-3.wdfiles.com/local--files/test544/traumatophobia.jpg
+|slug=scp-8217
+|author=habaniah
+|phobia=傷口恐懼症|title=及**吾等**不如及**他人**
+]]
+
+[[include :smlt:odule:paella |status=active
+|color=#ad2a9b |cover-img=https://scp-sandbox-3.wdfiles.com/local--files/test544/autophobia4.png
+|slug=scp-8123
+|author=Sonderance
+|phobia=獨處恐懼症|title=**弦斷**
+]]
+
+[[include :smlt:odule:paella |status=active
+|color=#866631 |cover-img=https://scp-sandbox-3.wdfiles.com/local--files/test544/atychiphobia.png
+|slug=dr-frueh-s-proposal
+|author=DarkStuff的提案
+|phobia=失敗恐懼症|title=家庭生活
+]]
+[[/div]]
+
+[[div class="closable-tab"]]
+[[tabview]]
+[[tab X]]
+[[/tab]]
+[[tab 高處恐懼症]]
+
+-----
+[[include :scp-wiki:component:audio-player-woed-source
+|unique-name=Acrophobia
+|audio-file=https://scp-sandbox-3.wdfiles.com/local--files/test544/Acrophobia.mp3
+|background-color=rgb(27 24 25)|border-radius=0rem|dropshadow-color=rgb(12 12 12/0)|text-color=rgb(255 246 246)
+|border-color=#4486f6
+|icons-color=#4486f6
+|player-color=#4486f6
+|progress-color=#4486f6
+]]
+
+-----
+
+生活中有許多事情我們認為是理所當然的。藍天理所當然，雨也理所當然。太陽每天升起落下。時代將會永遠前進。上就是上，下就是下。我們在自然秩序中得到慰藉。
+
+正如你即將發現的那樣，「自然」與「秩序」在共識常態範疇外根本毫無意義，事實上在無垠之地域更無立足之地可言。
+
+[[/tab]]
+[[tab 信任恐懼症]]
+
+-----
+[[include :scp-wiki:component:audio-player-woed-source
+|unique-name=Pistanthrophobia
+|audio-file=https://scp-sandbox-3.wdfiles.com/local--files/test544/Pistanthrophobia.mp3
+|background-color=rgb(27 24 25)|border-radius=0rem|dropshadow-color=rgb(12 12 12/0)|text-color=rgb(255 246 246)
+|border-color=#FFD1DC
+|icons-color=#FFD1DC
+|player-color=#FFD1DC
+|progress-color=#FFD1DC
+]]
+
+-----
+
+那麼現在，我們想跟你介紹露西。露西九歲了。他與他的父親相依為命，這位父親是個備受景仰的科學家，那個專業領域難以發音，更難以理解。而比那艱澀難解之研究更奇特的，當屬露西發現自家房子的當前狀態：孤獨坐落在陌生而可怕的世界之中。露西為此對牆外等待的生物戰慄不安。他預感到了大野狼的嚎叫。
+
+當兩人除彼此外一無所有時，維持信任就會成為重中之重。當其中一人還是孩子時尤其如此，天性將迫使他們將自己的安全福祉交到照顧者手上。這就是純真的不穩定狀態。年輕人的模糊狀態，必須接受所見與所知間的差異。此乃謊言與真理結合之所。
+
+這是堂需要理解、研習、精通的課程，就在那無垠之地域邊角的教室當中。
+
+
+[[/tab]]
+[[tab 沉沒造物恐懼症]]
+
+-----
+[[include :scp-wiki:component:audio-player-woed-source
+|unique-name=Submechanophobia
+|audio-file=https://scp-sandbox-3.wdfiles.com/local--files/test544/Submechanophobia.mp3
+|background-color=rgb(27 24 25)|border-radius=0rem|dropshadow-color=rgb(12 12 12/0)|text-color=rgb(255 246 246)
+|border-color=#8748d0
+|icons-color=#8748d0
+|player-color=#8748d0
+|progress-color=#8748d0
+]]
+
+-----
+
+想像那個優雅美麗的女人，他的內心蘊含富庶的靈魂。他的存在就是生命線。他是守護者。他是提供者。他是潮湧大海的庇護所。他就是每一艘船。過去、現在、未來的每一艘船。每一艘航向遙遠彼岸之船。每一艘拖網漁船、每一艘戰艦、每一艘遊輪、每一艘獨木舟。
+
+而沈船事件又是怎樣的呢？整艘船員與貨物被拋入海中，沉進無光深淵的船會變成什麼樣子？他將會迎來緩慢痛苦的結局。注定在另一個世界徹底腐爛。成為無用而受人遺忘之物──不再能乘載人的生命。他將會被水流撕碎。他將會被時間蹂躪。他將會被深海摧殘。
+
+若船是女人，沈船必定就是女屍。如果我們揭開他的棺材，就會在棺蓋上發現他的爪痕，那是還能給予更多之人的留言。請將此歸定為D是「遇難」（Distress）──這是在無垠之地域才能得到回應的求救訊號。
+
+
+[[/tab]]
+[[tab 忘卻恐懼症]]
+
+-----
+[[include :scp-wiki:component:audio-player-woed-source
+|unique-name=Athazagoraphobia
+|audio-file=https://scp-sandbox-3.wdfiles.com/local--files/test544/Athazagoraphobia.mp3
+|background-color=rgb(27 24 25)|border-radius=0rem|dropshadow-color=rgb(12 12 12/0)|text-color=rgb(255 246 246)
+|border-color=#6679bc
+|icons-color=#6679bc
+|player-color=#6679bc
+|progress-color=#6679bc
+]]
+
+-----
+
+在宇宙無限虛空中的某處，有個微不足道的斑點。那是被認定有高級生物居住的斑點，斑點終其一生都在觀察自身容器範圍外的夜空。思考自己的脆弱。思考自己的無常。斑點對命運與遺產感到不信任，決心留下無法磨滅的印記，這是對星辰間黑暗的宣告。
+
+在今天的故事中，那個已然微不足道的斑點──在恆星系統中距離太陽第三遠的那個──將以微觀世界形式呈現。扮演「地球」的角色：能力未知的星際運輸裝置，其製造是機密事項。顯而易見地，填補人類角色的是：這艘絕密航艦的飛行員與唯一的乘客。僅以代號「西塔」為人所知的個體。
+
+乘客與航艦將一同開闢前往未知的道路，在那裡漫無目的地四處漂流──充滿危險且不可挽回的，來到無垠之地域。
+
+[[/tab]]
+[[/tabview]]
+[[/div]]
+
+[[div class="anthology-cards-container"]]
+
+[[include :smlt:odule:paella |status=active
+|color=#4486f6 |cover-img=https://scp-sandbox-3.wdfiles.com/local--files/test544/acrophobia.png
+|slug=scp-8654
+|author=LizardWizard
+|phobia=高處恐懼症|title=**上**即是**下**
+]]
+
+[[include :smlt:odule:paella |status=active
+|color=#FFD1DC |cover-img=https://scp-sandbox-3.wdfiles.com/local--files/test544/pistanthrophobia.png
+|slug=scp-8607
+|author=Uncannyon
+|phobia=信任恐懼症|title=**露西的**家
+]]
+
+[[include :smlt:odule:paella |status=active
+|color=#8748d0 |cover-img=https://scp-sandbox-3.wdfiles.com/local--files/test544/submechanophobia.png
+|slug=scp-8770
+|author=Dino—Draws
+|phobia=沉水造物恐懼症|title=我**思念**你
+]]
+
+[[include :smlt:odule:paella |status=active
+|color=#6679bc|cover-img=https://scp-sandbox-3.wdfiles.com/local--files/test544/Athazagoraphobia.png
+|slug=scp-8160
+|author=IndustryStandard
+|phobia=忘卻恐懼症|title=**而地球仍舊轉動**
+]]
+
+[[/div]]
+
+[[div class="closable-tab"]]
+[[tabview]]
+[[tab X]]
+[[/tab]]
+[[tab 寒冷恐懼症]]
+
+-----
+[[include :scp-wiki:component:audio-player-woed-source
+|unique-name=Frigophobia
+|audio-file=https://scp-sandbox-3.wdfiles.com/local--files/test544/Frigophobia.mp3
+|background-color=rgb(27 24 25)|border-radius=0rem|dropshadow-color=rgb(12 12 12/0)|text-color=rgb(255 246 246)
+|border-color=#aba8ff
+|icons-color=#aba8ff
+|player-color=#aba8ff
+|progress-color=#aba8ff
+]]
+
+-----
+
+這將會從你的四肢開始。你的手指與腳趾都刺入了針。這些針還會蠕動竄行。越扎越深。貪婪永無止境。完全的讓人壓抑。
+
+這是滲透入山峰者。這是存在於虛空者。這是在墳墓靜候我等者。這是夜晚的寒意。這是你呼吸中的霜。它正處於暴風雪帶來的刺痛中。
+
+它就是寒冷，渴望著你的溫暖。
+
+
+[[/tab]]
+[[tab 目恐懼症]]
+
+-----
+[[include :scp-wiki:component:audio-player-woed-source
+|unique-name=Ommetaphobia
+|audio-file=https://scp-sandbox-3.wdfiles.com/local--files/test544/Ommetaphobia.mp3
+|background-color=rgb(27 24 25)|border-radius=0rem|dropshadow-color=rgb(12 12 12/0)|text-color=rgb(255 246 246)
+|border-color=#806f67
+|icons-color=#806f67
+|player-color=#806f67
+|progress-color=#806f67
+]]
+
+-----
+
+信念是強大的力量。是神的精妙，是精神的能量。是人類解釋神聖與超自然力量，並與之互動的手段。隨著時間推移，由於民族與社會的融合，習俗與信仰體系自然出現改變與交互。相互借用、相互滲透，達到同步和諧的狀態。
+
+對某些人來說，這種混合是種褻瀆。玷污了神聖的儀式。淡化了身分之別。這些人將任何外部影響，或者所謂的異端邪說從自己社區剔除。他們主張自己的信念就要佔據主導地位。
+
+分裂中的信仰會變成什麼樣子？神或靈魂的各方面都遭到剝離，並受到痛苦撕扯時會發生什麼？其遺骸又會如何？這些都是人們橫越無垠之地域神聖大地時必須思考的問題。
+
+
+[[/tab]]
+[[tab 黑暗恐懼症]]
+
+-----
+
+[[include :scp-wiki:component:audio-player-woed-source
+|unique-name=Nyctophobia
+|audio-file=https://scp-sandbox-3.wdfiles.com/local--files/test544/Nyctophobia.mp3
+|background-color=#0e0f0f|border-radius=0rem|dropshadow-color=rgb(12 12 12/0)|text-color=rgb(255 246 246)
+|border-color=#0e0f0f
+|icons-color=rgb(255 246 246)
+|player-color=rgb(255 246 246)
+|progress-color=rgb(255 246 246)
+]]
+
+-----
+
+除了死亡先生這個幽靈外，最普遍而原始的恐懼就是對黑暗的恐懼。在那層封閉的面紗中，蘊藏著一切可能的危險、一切可想像的威脅。站在黑暗面前，就等於在心靈劇場經歷了千百次的死亡。黑暗正在篝火的溫暖外等待。他是佔據虛空者。他掩蓋了所有可觀察的事物。
+
+在這裡，我們到達了一切事物的終點。因為它只能在開始的地方結束：就在黑暗之中。就在虛空之中。就在在陰影中。當最後的星辰逐一在閃爍中死去時，黑暗將會留下來。在那一刻，儘管已經沒人能活著聽到了，但將會有個巨大可怕的聲音，響徹曾經的一切。那就是最後的斷言。那是在書本合上前，最後一頁的最後一行文字：
+
+「要有黑暗。」
+
+[[div id="newest"]]
+[[/div]]
+[[/tab]]
+[[/tabview]]
+[[/div]]
+
+[[div class="anthology-cards-container"]]
+
+[[include :smlt:odule:paella |status=active
+|color=#aba8ff |cover-img=https://scp-sandbox-3.wdfiles.com/local--files/test544/frigophobia.png
+|slug=scp-8109
+|author=Dr Clef
+|phobia=寒冷恐懼症|title=趁**冷**端上為佳
+]]
+
+[[include :smlt:odule:paella |status=active
+|color=#806f67 |cover-img=https://scp-sandbox-3.wdfiles.com/local--files/test544/Ommetaphobia6.png
+|slug=scp-8934
+|author=Karathh
+|phobia=目恐懼症|title= 「き」是「刻」（きざみ）
+]]
+
+[[include :smlt:odule:paella |status=active
+|color=#0e0f0f|cover-img=https://scp-sandbox-3.wdfiles.com/local--files/test544/nyctophobia.png
+|slug=scp-3246
+|author=Henzoid
+|phobia=黑暗恐懼症|title=盲者被提
+]]
+
+[[/div]]
+
+[[include :scp-zh-tr:component:license-box
+|author=EstrellaYoshte, S D Locke
+]]
+> **Name:** Slovakia, Komárno, hospital, abandoned building 3, 8
+> **Author:** Random photos 1989
+> **License:** CC BY-SA 4.0
+> **Source Link:** [https://commons.wikimedia.org/wiki/File:Slovakia,_Kom%C3%A1rno,_hospital,_abandoned_building_3,_8.jpg Wikimedia Commons]
+> **Additional Notes:** Edited by [[*user EstrellaYoshte]]
+
+> **Name:** Standing statue of Merti's wife MET 26.2.3
+> **Author:** Jules Verne Times Two
+> **License:** CC0
+> **Source Link:** [https://commons.wikimedia.org/wiki/File:Standing_statue_of_Merti%27s_wife_MET_26.2.3.jpeg Wikimedia Commons]
+> **Additional Notes:** Edited by [[*user EstrellaYoshte]]
+
+> **Name:** Marble Tiles
+> **Author:** Charlotte Baglioni
+> **License:** CC0
+> **Source Link:** [https://polyhaven.com/a/marble_tiles Poly Haven]
+> **Additional Notes:** Edited by [[*user EstrellaYoshte]]
+
+> **Name:** Sun shining on a brick wall, Harvard Yard, Cambridge, Massachusetts, US
+> **Author:** Metropolitan Museum of Art
+> **License:** CC BY-SA 4.0
+> **Source Link:** [https://commons.wikimedia.org/wiki/File:Sun_shining_on_a_brick_wall,_Harvard_Yard,_Cambridge,_Massachusetts,_US_(PPL2-Enhanced)_julesvernex2.jpg Wikimedia Commons]
+> **Additional Notes:** Edited by [[*user EstrellaYoshte]]
+
+> **Name:** phone-intercom-noise-ep.flac
+> **Author:** Timbre
+> **License:** PD
+> **Source Link:** https://openverse.org/audio/00dabf9c-6a0f-4c49-bece-3206a7197b7c?q=phone+intercom+noise
+> **Additional Notes:** __All audio files incorporate this track into their backing sound.__
+
+NOTE: All audio/images below this point, unless otherwise noted, edited by [[*user S D Locke]]
+
+> **Filename:** Intro.mp3
+> **Name:** Intro
+> **Author:** [[*user S D Locke]]
+> **License:** CC4.0
+>
+> **Name:** Reinterpreted Twilight Zone Intro
+> **Author:** koryc
+> **License:** CC0
+> **Source Link:** [https://freesound dot org/people/koryc/sounds/222462/]
+>
+> **Name:** The Dream Sequence
+> **Author:** Kevin Hartnell
+> **License:** CC4
+> **Source Link:** [https://freemusicarchive.org/music/Kevin_Hartnell/CC_BY-SA_40/Kevin_Hartnell_-_CC_BY-SA_40_-_19_The_Dream_Sequence/]
+
+> **Filename:** Phobophobia.png
+> **Name:** Horror in Prater
+> **Author:** Jebulon
+> **License:** CC0 1.0
+> **Source Link:** [https://commons.wikimedia.org/wiki/File:Horror_in_Prater.jpg]
+
+> **Filename:** Phobophobia.mp3
+> **Name:** Phobophobia Intro
+> **Author:** [[*user S D Locke]]
+> **License:** CC4.0
+>
+> **Name:** Catacombae. Sepulcrum romanum Largo
+> **Author:** Skidmore College Orchestra
+> **License:** PD
+> **Source Link:** [https://freemusicarchive.org/music/Skidmore_College_Orchestra/]
+
+> **Filename:** Scopophobia.gif
+> **Name:** Disturbing Eyes/Vision
+> **Author:** TimothyLinnomme
+> **License:** CC3.0
+> **Source Link:** [https://www.deviantart.com/timothylinnomme/art/Disturbing-Eyes-Vision-326941095]
+> **Additional Notes:** [unedited from source]
+
+> **Filename:** Scopophobia.mp3
+> **Name:** Scopophobia Intro
+> **Author:** [[*user S D Locke]]
+> **License:** CC4.0
+>
+> **Name:** Bydlo Sempre moderato pesante
+> **Author:** Skidmore College Orchestra
+> **License:** PD
+> **Source Link:** [https://freemusicarchive.org/music/Skidmore_College_Orchestra/Mussorgskys_Pictures_at_an_Exhibition/IV_Bydlo_Sempre_moderato_pesante/]
+
+> **Filename:** Pyrophobia.gif
+> **Name:** Pyrophobia
+> **Author:** AnEmissaryFromHell
+> **License:** CC4
+> **Source Link:** [https://x.com/PeterJohnDorian/status/1848540262559039837]
+> > **Additional Notes:** [unedited from source]
+
+> **Filename:** Pyrophobia.mp3
+> **Name:** Pyrophobia Intro
+> **Author:** [[*user S D Locke]]
+> **License:** CC0
+>
+> **Name:** Ricercari II
+> **Author:** David Joseph Stith
+> **License:** CC0
+> **Source Link:** [https://freemusicarchive.org/music/stripedgazelle/david-joseph-stith-ricercari]
+
+> **Filename:** Masklophobia.png
+> **Name:** eyes_wide_open_see_look_observe_stare_face_iris
+> **Author:** PDPics
+> **License:** CC0
+> **Source Link:** [https://pxhere.com/en/photo/951930]
+>
+> **Name:** Venetian Carnival Mask - Maschera di Carnevale - Venice Italy
+> **Author:** gnuckx
+> **License:** CC0
+> **Source Link:** [https://www.flickr.com/photos/34409164@N06/4820456037]
+>
+> **Name:** Common Raven on Seedskadee National Wildlife Refuge (16741673188)
+> **Author:** U.S. Fish and Wildlife Service
+> **License:** PD
+> **Source Link:** [https://picryl.com/media/common-raven-on-seedskadee-national-wildlife-refuge-16741673188-25d98a]
+
+> **Filename:** Masklophobia.mp3
+> **Name:** Masklophobia Intro
+> **Author:** [[*user S D Locke]]
+> **License:** CC3.0
+>
+> **Name:** Cultural Dis-Ease
+> **Author:** Andrew Bisset
+> **License:** CC3.0
+> **Source Link:** [https://freemusicarchive.org/music/Andrew_Bisset/Works_by_Andrew_Bissett/Andrew_Bisset_-_Cultural_Dis-Ease_1299/]
+
+> **Filename:** Aquaphobia.png
+> **Name:** Cia Gould 2015 (Unsplash)
+> **Author:** Cia Gould
+> **License:** CC0
+> **Source Link:**[https://commons.wikimedia.org/wiki/File:Cia_Gould_2015_(Unsplash).jpg]
+>
+> **Name:** Hands pressing against frosted glass
+> **Author:** Matthew Henry
+> **License:** CC0
+> **Source Link:** [https://freerangestock.com/photos/169170/hands-pressing-against-frosted-glass.html]
+
+> **Filename: Aquaphobia.mp3
+> **Name:** Aquaphobia Intro
+> **Author:** S D Locke
+> **License:** CC4
+>
+> **Name:** Ukraine
+> **Author:** HoliznaCC0
+> **License:** CC0
+> **Source Link:** [https://freemusicarchive.org/music/holiznacc0/scores/ukraine/]
+>
+> **Name:** waves-caves1
+> **Author:** justkiddink
+> **License:** CC4
+> **Source Link:** [https://freesound dot org/people/juskiddink/sounds/59356/]
+
+> **Filename:** Ergophobia.png
+> **Name:** The Veiled Nun (Giuseppe Croff)
+> **Author:** Mike Maguire
+> **License:** PD
+> **Source Link:** [https://commons.wikimedia.org/wiki/File:The_Veiled_Nun_(Giuseppe_Croff).jpg]
+>
+> **Name:** Hammer Worker White
+> **Author:** n/a
+> **License:** CC0
+> **Source Link:** [https://pixabay.com/ko/photos/%EB%A7%9D%EC%B9%98-%EB%85%B8%EB%8F%99%EC%9E%90-%ED%95%98%EC%96%80%EC%83%89-%EA%B3%84%EC%82%B0%EB%B2%95-1008971/]
+
+> **Filename:** Ergophobia.mp3
+> **Name:** Ergophobia Intro
+> **Author:** S D Locke
+> **License:** CC0
+>
+> **Name:** MIdLife
+> **Author:** HolzinaCC0
+> **License:** CC0
+> **Source Link:** [https://freemusicarchive.org/music/holiznacc0/the-beautiful-brain-of-a-robot/midlife/]
+
+> **Filename:** Basophobia0.png
+> **Name:** Madonna Advocata
+> **Author:** Luke the Evangelist
+> **License:** CC4.0
+> **Source Link:** [https://en.wikipedia.org/wiki/File:Madonna_Advocata.png]
+>
+> **Name:** Gaping hole of cistern
+> **Author:** Davidbena
+> **License:** CC4.0
+> **Source Link:** [https://commons.m.wikimedia.org/wiki/File:Gaping_hole_of_cistern.jpg]
+> **Additional Notes:** [Created by [[*user TroutMaskReplica]]]
+
+> **Filename:** Basophobia.mp3
+> **Name:** Basophobia Intro
+> **Author:** S D Locke
+> **License:** PD
+>
+> **Name:** Giovanni Croce's Cantato Domino
+> **Author:** Anonymous Choir
+> **License:** PD
+> **Source Link:** [https://freemusicarchive.org/music/Anonymous_Choir/Giovanni_Croces_Cantato_Domino]
+>
+> **Name:** SHOVELING.WAV
+> **Author:** ernstBWP
+> **License:** CC0
+> **Source Link:** [https://freesound dot org/people/ernstBWP/sounds/568846/]
+
+> **Filename:** Photophobia.jpg
+> **Name:** Entity
+> **Author:** [[*user Entity Art]]
+> **License:** CC4
+> **Source Link:** [https://www.facebook.com/100064841826649/posts/949440107227375/?mibextid=rS40aB7S9Ucbxw6v]
+> **Additional Notes:** [unedited from source]
+
+> **Filename:** Photophobia.mp3
+> **Name:** Photophobia Intro
+> **Author:** S D Locke
+> **License:** CC0
+>
+> **Name:** Auras 5
+> **Author:** Pablo Perez
+> **License:** CC0
+> **Source Link:** [https://freemusicarchive.org/music/pablo-perez/single/auras-5/]
+
+> **Filename:** Nucleomituphobia.jpg
+> **Name:** Nucleomituphobia
+> **Author:** [[*user Entity Art]]
+> **License:** CC4
+> **Source Link:** [https://www.facebook.com/photo?fbid=951060617065324&set=a.459617946209596]
+
+> **Filename:** Nucleomituphobia.mp3
+> **Name:** Nucleomituphobia Intro
+> **Author:** S D Locke
+> **License:** CC0
+>
+> **Name:** United States National Anthem (The Star Spangled Banner)
+> **Author:** The United States Army Old Guard Fife and Drum Corps
+> **License:** PD
+> **Source Link:** [https://freemusicarchive.org/music/The_United_States_Army_Old_Guard_Fife_and_Drum_Corps/Celebrating_50_Years/02_1942/]
+>
+> **Name:** Alarm, Air Raid Siren, Test, Devonport, Sony PCM M-10
+> **Author:** audiojacked
+> **License:** CC0
+> **Source Link:** [https://freesound dot org/people/audiojacked/sounds/336640/]
+
+> **Filename:** Anthropophobia.png
+> **Name:** London - Smithfield Market - 3663
+> **Author:** Jorge Royan
+> **License:** CC3.0
+> **Source Link:** [https://commons.wikimedia.org/wiki/File:London_-_Smithfield_Market_-_3663.jpg]
+>
+> **Name:** Pig Heads
+> **Author:** The Meat Case
+> **License:** CC2.0
+> **Source Link:** [https://www.flickr.com/photos/b1ll/15811893103]
+>
+> **Name:** Old Photo Texture
+> **Author:** Diego da Silva
+> **License:** CC2.0
+> **Source Link:** [https://www.flickr.com/photos/natura_pagana/4128299686]
+
+> **Filename:** Anthropophobia.mp3
+> **Name:** Anthropophobia Intro
+> **Author:** S D Locke
+> **License:** CC0
+>
+> **Name:** Think About It
+> **Author:** Bryan Teoh
+> **License:** PD
+> **Source Link:** [https://freepd.com/epic.php]
+>  
+> **Name:** Four pigs screaming together
+> **Author:** felix.blume
+> **License:** CC0
+> **Source Link:** [https://freesound dot org/people/felix.blume/sounds/434384/]
+>
+> **Name:** Crowd Screaming
+> **Author:** DigestContent
+> **License:** CC0
+> **Source Link:** [https://freesound dot org/people/DigestContent/sounds/459101/]
+
+> **Filename:** Prosophobia.png
+> **Name:** Future City
+> **Author:** Steven Miller
+> **License:** CC2.0
+> **Source Link:** [https://www.flickr.com/photos/aloha75/4605051691]
+>
+> **Name:** 2010_07_17_paris_catacombs_030y
+> **Author:** Doc Searls
+> **License:** CC2.0
+> **Source Link:** [https://www.flickr.com/photos/docsearls/26542123648]
+
+> **Filename:** Prosophobia.mp3
+> **Name:** Prosophobia Intro
+> **Author:** S D Locke
+> **License:** PD
+>
+> **Name:** Mysterious Lights
+> **Author:** Bryan Teoh
+> **License:** PD
+> **Source Link:** [https://freepd.com/horror.php]
+
+> **Filename:** Hedonophobia.png
+> **Name:** Male couple holding hands
+> **Author:** LOOK Magazine Photograph Collection
+> **License:** PD
+> **Source Link:** [https://jenikirbyhistory.getarchive.net/media/male-couple-holding-hands-41106-16-92a665]
+>
+> **Name:** Shotgun wound
+> **Author:** DiverDave
+> **License:** CC3.0
+> **Source Link:** [https://commons.wikimedia dot org/wiki/File:Shotgun_wound.JPG] WARNING! GRAPHIC!
+>
+> **Name:** a-role-players-thigh-is-transformed-to-an-open-wound
+> **Author:** Defense Visual Information Distribution Service
+> **License:** PD
+> **Source Link:** [https://boudewijnhuijgens.getarchive.net/amp/media/a-role-players-thigh-is-transformed-to-an-open-wound-b34516]
+
+> **Filename:** Hedonophobia.mp3
+> **Name:** Hedonophobia Intro
+> **Author:** S D Locke
+> **License:** CC0
+>
+> **Name:** Venetian Love Song
+> **Author:** Victor Herbert Orchestra
+> **License:** CC0
+> **Source Link:** [https://commons.wikimedia.org/wiki/File:Victor_Herbert_Orchestra_-_07_-_1909_-_Venetian_Love_Song.ogg]
+
+> **Filename:** Alethophobia.jpg
+> **Name:** Ancient Greece Bronze Statue Head of Antikythera Philosopher, c. 230 BC (27884130133)
+> **Author:** Gary Todd
+> **License:** CC0
+> **Source Link:** [https://commons.wikimedia.org/wiki/File:Ancient_Greece_Bronze_Statue_Head_of_Antikythera_Philosopher,_c._230_BC_%2827884130133%29.jpg]
+> **Additional Notes:** [unedited from source]
+
+> **Filename:** Alethophobia2.jpg
+> **Name:** Colossal head of Zeus at the National Archaeological Museum of Athens on 1 July 2018
+> **Author:** George E. Koronaios
+> **License:** CC4.0
+> **Source Link:** [https://commons.wikimedia.org/wiki/File:Colossal_head_of_Zeus_at_the_National_Archaeological_Museum_of_Athens_on_1_July_2018.jpg]
+> **Additional Notes:** [unedited from source]
+
+> **Filename:** Alethophobia2.jpg
+> **Name:** Epikouros BM 1843
+> **Author:** Marie-Lan Nguyen
+> **License:** PD
+> **Source Link:** [https://en.wikipedia.org/wiki/File:Epikouros_BM_1843.jpg]
+> **Additional Notes:** [unedited from source]
+
+> **Filename:** Alethophobia4.png
+> **Name:** Gaslight
+> **Author:** Steve Snodgrass
+> **License:** CC2
+> **Source Link:** [https://www.flickr.com/photos/stevensnodgrass/3421398650]
+
+> **Filename:** Alethophobia.mp3
+> **Name:** Alethophobia Intro
+> **Author:** S D Locke
+> **License:** CC4
+>
+> **Name:** Teaglach Kira
+> **Author:** Kira Daly
+> **License:** CC4
+> **Source Link:** [https://freemusicarchive.org/music/kira-daly/single/teaglach-kiramp3/]
+
+> **Filename:** Mnemophobia.mp3
+> **Name:** Mnemophobia Intro
+> **Author:** S D Locke
+> **License:** CC4
+>
+> **Name:** Tortues
+> **Author:** Camille Saint Saens
+> **License:** CC4
+> **Source Link:** [https://freemusicarchive.org/music/Aitua/Carnaval_des_Animaux/Aitua_-_06_Camille_Saint_Saens_-_Carnaval_des_animaux_-_IV_Tortues/]
+
+> **Filename:** scp-8976/10.png
+> **Name:** scp-8976/10
+> **Author:** GreeboGangLeader
+> **License:** PD
+>
+> **Name:** Elise Riant
+> **Author:** Eugène Carrière
+> **License:** PD
+> **Source Link:** [https://commons.wikimedia.org/wiki/File:Carri%C3%A8re_-_Elise_riant_Les_yeux_noirs,_NUM_Mfilm_347_(02,_456).jpg]
+
+> **Filename:** Diagraphephobia.mp3
+> **Name:** Diagraphephobia Intro
+> **Author:** S D Locke
+> **License:**
+>
+> **Name:** OldAge
+> **Author:** HoliznaCC0
+> **License:** CC0
+> **Source Link:** [https://freemusicarchive.org/music/holiznacc0/the-beautiful-brain-of-a-robot/oldage/]
+
+> **Filename:** Selenophobia.png
+> **Name:** kuu-luna-yö-tilaa-taivas
+> **Author:** markusstengle
+> **License:** CC0
+> **Source Link:** [https://pixabay.com/fi/photos/kuu-luna-y%C3%B6-tilaa-taivas-325083/]
+>
+> **Name:** eye-pupil-vision-iris-human-lens
+> **Author:** InspiredImages
+> **License:** CC0
+> **Source Link:** [https://picryl.com/media/eye-pupil-vision-health-medical-2af347]
+
+> **Filename:** Selenophobia.mp3
+> **Name:**  Intro
+> **Author:** S D Locke
+> **License:** CC4
+>
+> **Name:** Sea Surf
+> **Author:** Kickhat
+> **License:** CC4
+> **Source Link:** [https://freesound dot org/people/kickhat/sounds/327589/]
+
+> **Filename:** Automatonophobia.jpg
+> **Name:** BCBGMAXAZRIA mannequins
+> **Author:** Viriditas
+> **License:** CC3
+> **Source Link:** [https://commons.wikimedia.org/wiki/File:BCBGMAXAZRIA_mannequins.jpg]
+> **Additional Notes:** [unedited from source]
+
+> **Filename:** Automatonophobia.mp3
+> **Name:** Automatonophobia Intro
+> **Author:** S D Locke
+> **License:** PD
+>
+> **Name:** Satin Danger
+> **Author:** Kevin MacLeod
+> **License:** PD
+> **Source Link:** [https://freepd.com/horror.php]
+
+> **Filename:** Onuxophobia.png
+> **Name:** x-ray-1896-nouvelle-iconographie-de-salpetriere
+> **Author:** Wellcome Library
+> **License:** PD
+> **Source Link:** [https://garystockbridge617.getarchive.net/amp/media/x-ray-1896-nouvelle-iconographie-de-salpetriere-469d30]
+
+> **Filename:** Onuxophobia.mp3
+> **Name:** Onuxophobia Intro
+> **Author:** S D Locke
+> **License:** CC4
+>
+> **Name:** Last Time
+> **Author:** UNIVERSFIELD
+> **License:** CC4
+> **Source Link:** [https://freemusicarchive.org/music/universfield/sad-music/last-time/]
+
+> **Filename:** Kenophobia
+> **Name:** Kenophobia
+> **Author:** TroutMaskReplica
+> **License:** CC4
+>
+> **Name:** Dülmen, Kirchspiel, ehem. Munitionslager Visbeck, Bunker -- 2019 -- 6432 (bw)
+> **Author:** Dietmar Rabich
+> **License:** CC4
+> **Source Link:** [https://commons.m.wikimedia.org/wiki/File:D%C3%BClmen,_Kirchspiel,_ehem._Munitionslager_Visbeck,_Bunker_--_2019_--_6432_(bw).jpg]
+
+> **Filename:** Kenophobia.mp3
+> **Name:** Kenophobia Intro
+> **Author:** S D Locke
+> **License:**
+>
+> **Name:** Halloween Soundscape
+> **Author:** HolzinaCC0
+> **License:** CC0
+> **Source Link:** [https://freemusicarchive.org/music/holiznacc0/horseless-headman-halloween-beats/halloween-soundscape/]
+
+> **Filename:** Eisoptrophobia.png
+> **Name:** mirror image
+> **Author:** Clare Black
+> **License:** CC2
+> **Source Link:** [https://www.flickr.com/photos/33254102@N04/3415909302]
+>
+> **Name:** broken glass texture1
+> **Author:** BananAdopt
+> **License:** CC3
+> **Source Link:** [https://www.deviantart.com/bananadopt/art/broken-glass-texture1-71925599]
+>  
+> **Name:** metal-scratch-texture-background-surface-design
+> **Author:** Teddy
+> **License:** CC0
+> **Source Link:** [https://www.rawpixel.com/image/6152496/metal-scratch-texture-background-surface-design]
+
+> **Filename:** Eisoptrophobia.mp3
+> **Name:** Eisoptrophobia Intro
+> **Author:** S D Locke
+> **License:** CC0
+>
+> **Name:** DEATH SCENE
+> **Author:** Pablo Perez
+> **License:** CC0
+> **Source Link:** [https://freemusicarchive.org/music/pablo-perez/single/death-scene/]
+
+> **Filename:** Tokophobia.png
+> **Name:** Newborn baby (May 7, 2005)
+> **Author:** Spikebrennan
+> **License:** CC3
+> **Source Link:** [https://en.wikipedia.org/wiki/File:Newborn_baby_%28May_7,_2005%29.jpg]
+>
+> **Name:** free-frost-image-public-domain-winter-cc0-photo
+> **Author:** n/a
+> **License:** CC0
+> **Source Link:** [https://www.rawpixel.com/image/5924692/free-frost-image-public-domain-winter-cc0-photo]
+>
+> **Name:** image-paper-texture-public-domain
+> **Author:** n/a
+> **License:** CC0
+> **Source Link:** [https://www.rawpixel.com/image/5914719/image-paper-texture-public-domain]
+>
+> **Name:** Fig 3
+> **Author:**  Mohammadamin Parsaei
+> **License:** CC4
+> **Source Link:** [https://www.researchgate.net/figure/a-The-uterus-isthmus-contained-a-2151cm-3-mass-at-the-right-side-of-the-cesarean_fig1_383047286]
+>
+> **Name:** Mature Cystic Teratoma of the Ovary (5560431170)
+> **Author:** Ed Uthman
+> **License:** CC2
+> **Source Link:** [https://commons.wikimedia.org/wiki/File:Mature_Cystic_Teratoma_of_the_Ovary_%285560431170%29.jpg]
+>
+> **Name:** baby-eyes-newborn-blue-eye-beautiful-child-cute-emotion-expression
+> **Author:** TaniaVdb
+> **License:** CC0
+> **Source Link:** [https://www.needpix.com/photo/227019/baby-eyes-newborn-blue-eye-beautiful-child-cute-emotion-expression]
+
+> **Filename:** Tokophobia.mp3
+> **Name:** Tokophobia Intro
+> **Author:** S D Locke
+> **License:** CC4
+>
+> **Name:** Beauty
+> **Author:** Spectacular Sound Productions
+> **License:** CC4
+> **Source Link:** [https://freemusicarchive.org/music/Spectacular_Sound_Productions/Beauty_1695/Beauty_1301/]
+
+> **Filename:** Eschatophobia.jpg
+> **Name:** Zamieć
+> **Author:** Leony Bierkowskiej
+> **License:** CC0
+> **Source Link:** [https://commons.wikimedia.org/wiki/File:Zamie%C4%87.jpg]
+> **Additional Notes:** [unedited from source]
+
+> **Filename:** Eschatophobia.mp3
+> **Name:** Eschatophobia Intro
+> **Author:** S D Locke
+> **License:** CC4
+>
+> **Name:** Mystery Bells
+> **Author:** TheoJT
+> **License:** CC4
+> **Source Link:** [https://freesound dot org/people/TheoJT/sounds/727433/]
+
+> **Filename:** Traumatophobia,jpg
+> **Name:** The Apotheosis of War
+> **Author:** Vasily Vereshchagin
+> **License:** PD
+> **Source Link:** [https://commons.wikimedia.org/wiki/File:Wereschtschagin2.jpg]
+> **Additional Notes:** [unedited from source]
+
+> **Filename:** Autophobia.png
+> **Name:** Magic Mushrooms? NOT
+> **Author:** jmv
+> **License:** CC2
+> **Source Link:** [https://www.flickr.com/photos/jmv/2858690234]
+>
+> **Name:** Crumpled Paper Texture
+> **Author:** PkGam
+> **License:** CC3
+> **Source Link:** [https://www.deviantart.com/pkgam/art/Crumpled-Paper-Texture-429242491]
+
+> **Filename:** Autophobia.mp3
+> **Name:** Autophobia Intro
+> **Author:** S D Locke
+> **License:** PD
+>
+> **Name:** Magic in the Garden
+> **Author:** Rafael Krux
+> **License:** PD
+> **Source Link:** [https://freepd.com/scoring.php]
+
+> **Filename:** Atychiphobia.pmg
+> **Name:** CAPSULE HOTEL, GINZA
+> **Author:** Michael
+> **License:** CC2
+> **Source Link:** [https://www.flickr.com/photos/sagamiono/4023111814]
+>
+> **Name:** eye-pupil-vision-iris-human-lens
+> **Author:** InspiredImages
+> **License:** CC0
+> **Source Link:** [https://picryl.com/media/eye-pupil-vision-health-medical-2af347]
+
+> **Filename:** Atychiphobia.mp3
+> **Name:** Atychiphobia Intro
+> **Author:** S D Locke
+> **License:** CC4
+>
+> **Name:** The Crypt
+> **Author:** Kevin Hartnell
+> **License:** CC4
+> **Source Link:** []https://freemusicarchive.org/music/Kevin_Hartnell/CC_BY-SA_40/Kevin_Hartnell_-_CC_BY-SA_40_-_17_The_Crypt/
+
+> **Filename:** Acrophobia.png
+> **Name:** symbolinen-putoavat-pilviä
+> **Author:** Alexas_Fotos
+> **License:** PD
+> **Source Link:** [https://pixabay.com/fi/photos/symbolinen-putoavat-pilvi%C3%A4-2036456/]
+>
+> **Name:** Sky From Above
+> **Author:** Scott Robinson
+> **License:** CC2
+> **Source Link:** [https://www.flickr.com/photos/clearlyambiguous/40277322]
+>  
+> **Name:** Puff
+> **Author:** Russ Quinlan
+> **License:** CC2
+> **Source Link:** [https://www.flickr.com/photos/russ2020/16469404633]
+
+> **Filename:** Acrophobia.mp3
+> **Name:** Acrophobia Intro
+> **Author:** S D Locke
+> **License:** CC4
+>
+> **Name:** SeeUSoon
+> **Author:** Jahzzar
+> **License:** CC4
+> **Source Link:** [https://freemusicarchive.org/music/Jahzzar/handmade/SeeUSoon]
+
+> **Filename:** Pistanthrophobia.png
+> **Name:** Wc_yellow_house_child_drawing
+> **Author:** Øyvind Holmstad
+> **License:** CC4
+> **Source Link:** [https://commons.wikimedia.org/wiki/File:Wc_yellow_house_child_drawing.jpg]
+>
+> **Name:** Pencil_Drawing_-_Study_Hand
+> **Author:** Quant
+> **License:** CC3
+> **Source Link:** [https://commons.wikimedia.org/wiki/File:Pencil_Drawing_-_Study_Hand.JPG]
+
+> **Filename:** Pistanthrophobia.mp3
+> **Name:** Pistanthrophobia Intro
+> **Author:** S D Locke
+> **License:** CC4
+>
+> **Name:** Runaway
+> **Author:** Jahzzar
+> **License:** CC3
+> **Source Link:** [https://freemusicarchive.org/music/Jahzzar/Viikinsaari/Runaway/]
+
+> **Filename:** Submechanophobia.png
+> **Name:** Submechanophobia
+> **Author:** [[*user TroutMaskReplica]]
+> **License:** CC4
+
+> **Filename:** Submechanophobia.mp3
+> **Name:** Submechanophobia Intro
+> **Author:** S D Locke
+> **License:**
+>  
+> **Name:** الغول
+> **Author:** Ø+yn + GMC
+> **License:** CC4
+> **Source Link:** [https://freemusicarchive.org/music/yn__GMC/Popolus_Ajeno/yn_GMC_-_06_-_/]
+>  
+> **Name:** female vocal clip
+> **Author:** womb affliction
+> **License:** CC4
+> **Source Link:** [https://freesound dot org/people/womb_affliction/sounds/376520/]
+
+> **Filename:** Athazagoraphobia.png
+> **Name:** Dune footprints at Great Sand Dunes National Park
+> **Author:** Raechel Romero
+> **License:** CC0
+> **Source Link:** [https://commons.wikimedia.org/wiki/File:Dune_footprints_at_Great_Sand_Dunes_National_Park.jpg]
+>  
+> **Name:** Rural Road
+> **Author:** Luke Palmer
+> **License:** CC0
+> **Source Link:** [https://stocksnap.io/photo/rural-road-RLJZG8QQBC]
+
+> **Filename:** Athazagoraphobia.mp3
+> **Name:** Athazagoraphobia Intro
+> **Author:** S D Locke
+> **License:** CC4
+>
+> **Name:** Voyager_Lisa Hammer
+> **Author:** Lisa Hammer
+> **License:** CC4
+> **Source Link:** [https://freemusicarchive.org/music/lisa-hammer/soundtrack-series-campy-sci-fi-and-horror/voyager-lisa-hammermp3/]
+>
+> **Name:** Sci-fi 2
+> **Author:** juskissink
+> **License:** CC4
+> **Source Link:** [https://freesound dot org/people/juskiddink/sounds/70043/]
+>
+> **Name:** Sci-fi 1
+> **Author:** juskiddink
+> **License:** CC4
+> **Source Link:** [https://freesound dot org/people/juskiddink/sounds/70042/]
+
+> **Filename:**
+> **Name:**
+> **Author:**
+> **License:**
+> **Source Link:** []
+>
+> **Name:**
+> **Author:**
+> **License:**
+> **Source Link:** []
+
+> **Filename:**
+> **Name:**
+> **Author:**
+> **License:**
+> **Source Link:** []
+>
+> **Name:**
+> **Author:**
+> **License:**
+> **Source Link:** []
+
+> **Filename:**
+> **Name:**
+> **Author:**
+> **License:**
+> **Source Link:** []
+>
+> **Name:**
+> **Author:**
+> **License:**
+> **Source Link:** []
+
+> **Filename:**
+> **Name:**
+> **Author:**
+> **License:**
+> **Source Link:** []
+>
+> **Name:**
+> **Author:**
+> **License:**
+> **Source Link:** []
+
+> **Filename:**
+> **Name:**
+> **Author:**
+> **License:**
+> **Source Link:** []
+>
+> **Name:**
+> **Author:**
+> **License:**
+> **Source Link:** []
+
+> **Filename:**
+> **Name:**
+> **Author:**
+> **License:**
+> **Source Link:** []
+>
+> **Name:**
+> **Author:**
+> **License:**
+> **Source Link:** []
+
+> **Filename:**
+> **Name:**
+> **Author:**
+> **License:**
+> **Source Link:** []
+>
+> **Name:**
+> **Author:**
+> **License:**
+> **Source Link:** []
+
+> **Filename:**
+> **Name:**
+> **Author:**
+> **License:**
+> **Source Link:** []
+>
+> **Name:**
+> **Author:**
+> **License:**
+> **Source Link:** []
+
+> **Filename:**
+> **Name:**
+> **Author:**
+> **License:**
+> **Source Link:** []
+>
+> **Name:**
+> **Author:**
+> **License:**
+> **Source Link:** []
+
+> **Filename:**
+> **Name:**
+> **Author:**
+> **License:**
+> **Source Link:** []
+>
+> **Name:**
+> **Author:**
+> **License:**
+> **Source Link:** []
+
+> **Filename:**
+> **Name:**
+> **Author:**
+> **License:**
+> **Source Link:** []
+>
+> **Name:**
+> **Author:**
+> **License:**
+> **Source Link:** []
+
+> **Filename:**
+> **Name:**
+> **Author:**
+> **License:**
+> **Source Link:** []
+>
+> **Name:**
+> **Author:**
+> **License:**
+> **Source Link:** []
+
+> **Filename:**
+> **Name:**
+> **Author:**
+> **License:**
+> **Source Link:** []
+>
+> **Name:**
+> **Author:**
+> **License:**
+> **Source Link:** []
+
+> **Filename:**
+> **Name:**
+> **Author:**
+> **License:**
+> **Source Link:** []
+>
+> **Name:**
+> **Author:**
+> **License:**
+> **Source Link:** []
+
+> **Filename:**
+> **Name:**
+> **Author:**
+> **License:**
+> **Source Link:** []
+>
+> **Name:**
+> **Author:**
+> **License:**
+> **Source Link:** []
+
+> **Filename:**
+> **Name:**
+> **Author:**
+> **License:**
+> **Source Link:** []
+>
+> **Name:**
+> **Author:**
+> **License:**
+> **Source Link:** []
+
+[[include :scp-zh-tr:component:license-box-end]]

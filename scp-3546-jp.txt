@@ -1,0 +1,347 @@
+[[include :scp-zh-tr:component:scp-meta-title-hiding css-style=classic]]
+[[include credit:start]]
+**原著：** [[*user KanKan]]
+**原著年：** 2024
+**譯者：** [[*user edward-knave]]
+**原題：** SCP-3546-JP - マクワユリカ(Makuwa Yurika)
+**譯題：** SCP-3546-JP - 真桑岼佳（競賽馬）
+**原文：** https://scp-jp.wikidot.com/scp-3546-jp
+**譯題注：** 香港賽馬會規定，賽馬中文名限二至四字、英文名含空格限十八個字母以內，本文一切角色在被視為賽馬時，名稱皆在此限。
+----
+[https://scp-jp.wikidot.com/author:kankan 原著作者頁]
+[[include credit:end]]
+
+[[div class="scp-image-block block-right scp-clear-false" style="width: 210px;"]]
+[[image http://scp-jp-storage.wikidot.com/local--files/file:2859452-230-t34a/makuwa_horse.png style="width: 100%;" link=#]]
+[[div class="scp-image-caption" style="width: 100%;"]]
+發現時的SCP-3546-JP。須注意未具備Γ級感知免疫力的職員將視之為純種馬
+[[/div]]
+[[/div]]**項目編號：** SCP-3546-JP
+
+**項目等級：** --Keter-- Euclid
+
+**特殊收容措施：** SCP-3546-JP以及SCP-3546-JP-A群應個別收容於Ⅲ級收容單元。比照收容前的管理方法，收容單元地面應覆以稻草，並將人類糧食仿照[[span class="ruby"]]純種馬[[span class="rt"]]Thoroughbred[[/span]][[/span]]飼料樣態製造，與食水一併設置於容器內，以作餵飼。若糧水耗盡，則應補充。
+
+閱覽SCP-3546-JP資料時，必須攝入反模因-3546-JP。另外，SCP-3546-JP之負責職員保有施行[[span class="ruby"]]Γ[[span class="rt"]]Gamma[[/span]][[/span]]級感知免疫獲取措施之義務。
+
+**描述：** SCP-3546-JP是於20██/██/██自殺身亡的真桑友梨佳小姐的屍體。真桑友梨佳小姐乃在自家自縊身亡，據其遺書，乃在就讀高中被同級學生稱為「馬面」而受霸凌，加諸家人及任教之教師未經協助，而指出其自殺理由成立。
+
+SCP-3546-JP身為具備擴散性的Γ級認知影響特性媒介，不具Γ級感知免疫的人類將認知其為棗色純種雌馬。因其廣泛且後溯的副作用，針對外部紀錄的認知以及過往的腦內記憶亦會有隨著其矛盾消除而被改變的情形。該副作用即使不具Γ級感知免疫，亦可使用反模因-3546-JP預防。SCP-3546-JP即使在心肺及神經系統停止運作之下仍能維持身體機能，其隨意運動可見有模仿純種馬之舉動。
+
+SCP-3546-JP在日本中央競馬會（JRA）以「[[span class="ruby"]]マクワユリカ[[span class="rt"]]真桑岼佳[[/span]][[/span]]（Makuwa Yurika）」為名被登記為雌性賽馬，並以3歲未勝利及3歳以上一勝級等戰績勝出。另外，在取消註冊後，直到基金會收容為止，該項目於[已刪除]農場作為繁殖雌馬受到[[span class="ruby"]]繫養[[span class="rt"]]けいよう[[/span]][[/span]]。以下為在多處賽馬相關的新聞媒體記載的SCP-3546-JP四代血統表。
+
+[[div class="blockquote deco ketto"]]
+
+[[div]]
+[[div]]
+[[span class="ruby"]]真桑健太[[span class="rt"]]Makuwa Kenta[[/span]][[/span]] 19██ 黑馬
+[[/div]]
+[[div]]
+[[span class="ruby"]]真桑金子[[span class="rt"]]Makuwa Kanako[[/span]][[/span]] 19██ 棗馬
+[[/div]]
+[[/div]]
+
+[[div]]
+[[div]]
+[[span class="ruby"]]真桑權藏[[span class="rt"]]Makuwa Gonzou[[/span]][[/span]] 19██ 灰馬
+[[/div]]
+[[div]]
+[[span class="ruby"]]真桑智子[[span class="rt"]]Makuwa Tomoko[[/span]][[/span]] 19██ 灰馬
+[[/div]]
+[[div]]
+[[span class="ruby"]]鶴見新一[[span class="rt"]]Tsurumi Shinichi[[/span]][[/span]] 19██ 灰馬
+[[/div]]
+[[div]]
+[[span class="ruby"]]鶴見惠子[[span class="rt"]]Tsurumi Keiko[[/span]][[/span]] 19██ 灰馬
+[[/div]]
+[[/div]]
+
+[[div]]
+[[div]]
+[[span class="ruby"]]真桑太郎[[span class="rt"]]Makuwa Tarou[[/span]][[/span]]
+[[/div]]
+[[div]]
+[[span class="ruby"]]真桑友惠[[span class="rt"]]Makuwa Tomoe[[/span]][[/span]]
+[[/div]]
+[[div]]
+[[span class="ruby"]]大槻智彦[[span class="rt"]]Ootsuki Tomohiko[[/span]][[/span]]
+[[/div]]
+[[div]]
+[[span class="ruby"]]大槻千代[[span class="rt"]]Ootsuki Chiyo[[/span]][[/span]]
+[[/div]]
+[[div]]
+[[span class="ruby"]]鶴見豪[[span class="rt"]]Tsurumi Gou[[/span]][[/span]]
+[[/div]]
+[[div]]
+[[span class="ruby"]]鶴見花[[span class="rt"]]Tsurumi Hana[[/span]][[/span]]
+[[/div]]
+[[div]]
+[[span class="ruby"]]西川重雄[[span class="rt"]]Nishikawa Shigeo[[/span]][[/span]]
+[[/div]]
+[[div]]
+[[span class="ruby"]]西川富[[span class="rt"]]Nishikawa Tomi[[/span]][[/span]]
+[[/div]]
+[[/div]]
+
+[[div]]
+[[div]]
+[[span class="ruby"]]真桑一成[[span class="rt"]]Makuwa Kazunari[[/span]][[/span]]
+[[/div]]
+[[div]]
+[[span class="ruby"]]真桑幸子[[span class="rt"]]Makuwa Sachiko[[/span]][[/span]]
+[[/div]]
+[[div]]
+[[span class="ruby"]]島田三郎[[span class="rt"]]Shimada Saburo[[/span]][[/span]]
+[[/div]]
+[[div]]
+[[span class="ruby"]]島田敏子[[span class="rt"]]Shimada Toshiko[[/span]][[/span]]
+[[/div]]
+[[div]]
+[[span class="ruby"]]大槻清[[span class="rt"]]Ootsuki Kiyoshi[[/span]][[/span]]
+[[/div]]
+[[div]]
+[[span class="ruby"]]大槻滿子[[span class="rt"]]Ootsuki Mitsuko[[/span]][[/span]]
+[[/div]]
+[[div]]
+[[span class="ruby"]]新田實[[span class="rt"]]Nitta Minoru[[/span]][[/span]]
+[[/div]]
+[[div]]
+[[span class="ruby"]]新田久子[[span class="rt"]]Nitta Hisako[[/span]][[/span]]
+[[/div]]
+[[div]]
+[[span class="ruby"]]鶴見正[[span class="rt"]]Tsurumi Tadashi[[/span]][[/span]]
+[[/div]]
+[[div]]
+[[span class="ruby"]]鶴見愛子[[span class="rt"]]Tsurumi Aiko[[/span]][[/span]]
+[[/div]]
+[[div]]
+[[span class="ruby"]]富野勇[[span class="rt"]]Tomino Isamu[[/span]][[/span]]
+[[/div]]
+[[div]]
+[[span class="ruby"]]富野靜子[[span class="rt"]]Tomino Shizuko[[/span]][[/span]]
+[[/div]]
+[[div]]
+[[span class="ruby"]]西川博[[span class="rt"]]Nishikawa Hiroshi[[/span]][[/span]]
+[[/div]]
+[[div]]
+[[span class="ruby"]]西川千代[[span class="rt"]]Nishikawa Chiyoko[[/span]][[/span]]
+[[/div]]
+[[div]]
+[[span class="ruby"]]野島武[[span class="rt"]]Nojima Takeshi[[/span]][[/span]]
+[[/div]]
+[[div]]
+[[span class="ruby"]]野島清子[[span class="rt"]]Nojima Kiyoko[[/span]][[/span]]
+[[/div]]
+[[/div]]
+
+[[/div]]
+
+此外，真桑友梨佳小姐在三等親以內的親戚及同級學生，以及其教師（前述關係人一律歸定為SCP-3546-JP-A）亦具備同一內容的Γ級認知影響特性。SCP-3546-JP-A具有身為純種馬的自覺，其舉動亦與純種馬大致相仿。SCP-3546-JP-A的舉動亦有偏離人類體能的情形。例如，在真桑友梨佳小姐的遺書記載姓名的同級同學澤城蓮先生（SCP-3546-JP-A-8）亦以賽馬「[[span class="ruby"]]サワシロレン[[span class="rt"]]澤城蓮[[/span]][[/span]]（Sawashiro Ren）」之名在20██年參與二級賽產經賞、以及同年參與一級賽秋季天皇賞獲勝。SCP-3546-JP-A的異常特性在人身的生物學死亡後仍然持續，並與SCP-3546-JP一樣以純種馬的形式繼續運作。
+
+以下為JRA官方網站發佈的3歲未勝利賽馬影像紀錄。
+
+[[div class="blockquote deco"]]
+
+[[>]]
+**影像紀錄**
+[[/>]]
+
+----
+
+= **＜紀錄開始＞**
+
+//SCP-3546-JP以全裸之形穿著包括半遮眼罩[[footnote]]遮蔽賽馬下半部分視野的馬具。[[/footnote]]的馬具以及寫有「1 マクワユリカ」的鞍墊，呈四肢著地匍伏。SCP-3546-JP上有[已刪除]騎師騎乘，騎師手持與SCP-3546-JP頭部的轡相連的韁繩。馬閘[[footnote]]令全體賽馬一同起跑的裝置。又稱「起跑閘」，或簡稱為「閘」。[[/footnote]]鄰格則有大野加奈小姐[[footnote]]真桑友梨佳小姐的遺書上提及其名稱。[[/footnote]]（SCP-3546-JP-A-14）穿著除了半遮眼罩之外與SCP-3546-JP一樣的馬具，以及寫有「2 オオノカナ」的鞍墊披在全裸的身體上。//
+
+**旁白：** 馬匹到齊。
+
+//馬閘打開，各馬匹一同跑出。SCP-3546-JP與SCP-3546-JP-A-14皆以異常的速度運動四肢，以與純種馬同等的速度開始奔跑。//
+
+**旁白：** 起跑了。6號[已刪除]從後跑出。然後2號大野加奈也由後面跑出。
+
+//SCP-3546-JP從後方移動，進入中間馬群的中段。//
+
+**旁白：** 那接下來……朝著第三彎位那邊有10號的[已刪除]跑出，外疊就有16號[已刪除]。再接著第6檔[[footnote]]**譯注：** 日本賽馬投注模式有[https://tampa-info.com/wakujun.php 將所有參賽馬分成八檔（枠）之設]，從內而外排列，餘數從最外檔開始填補，1至4檔為內檔、5至8檔為外檔。[[/footnote]]2匹[已刪除]、[已刪除]之後有第5名17號的[已刪除]由前方追走，內疊就有4號的[已刪除]。
+
+//SCP-3546-JP開始逐漸朝向馬群前方徘徊。SCP-3546-JP的頭劇烈地前後晃動。//
+
+**旁白：** 然後中間馬群裡有9號[已刪除]，和7號的[已刪除]。再接著是13號[已刪除]，1號真桑岼佳從內檔趕上。然後相隔一個馬身有18號[已刪除]。內檔方向有8號的[已刪除]緊追，從內檔也有2號大野加奈趕上。
+
+//SCP-3546-JP脫離馬群並移動至中間馬群以外。//
+
+**旁白：** 接下來後面3號[已刪除]、後面起算第四——第五。再接著是3檔2匹[已刪除]、[已刪除]，後面14號[已刪除]倒數第二，最後面是15番[已刪除]的形勢。
+
+//SCP-3546-JP到達彎位，在中間馬群以外過彎。隨後從中間馬群中段移動至後段。//
+
+**旁白：** 各匹馬由現在開始轉過第三彎位，到達三、四彎位中間。現在最前面的10號[已刪除]跑向第四彎位。領先兩個馬身。跑到剩下800米。第二名是11號的[已刪除]，一字排後。然後第三名是16號[已刪除]轉過第四彎位，走向直路。再接著[已刪除]、[已刪除]那些都跑向直路，去到剩下600米。現在最前面是10號[已刪除]、[已刪除]、領先兩個馬身。
+
+//SCP-3546-JP從中間馬群的大外圍[[footnote]]馬群的最外圍。[[/footnote]]開始籌劃，[已刪除]騎師激烈地前後揮動韁繩，亦對SCP-3546-JP數度抽鞭。//
+
+**旁白：** 然後第二名11號[已刪除]後面迅速打橫排開，從外檔有18號[已刪除]現在第三名準備追上第二。再外面有9號的[已刪除]。最外面有1號的真桑岼佳緊隨不放。現在剩下200米了。
+
+//SCP-3546-JP徐徐出入，追上其他馬匹。[已刪除]騎師對SCP-3546-JP激烈抽鞭，SCP-3546-JP的四肢與頭部則更為劇烈往返晃動。//
+
+**旁白：** 那，帶頭的換了嗎？外面起有1號的真桑岼佳、真桑岼佳。接著是大野加奈。2號的大野加奈也總算從空位追上來，1檔兩匹平排爭先！
+
+//SCP-3546-JP與SCP-3546-JP-A-14並列向前衝。在臨近終點前，SCP-3546-JP追離了SCP-3546-JP-A-14。//
+
+**旁白：** 是大野還是真桑！真桑！大野！是真桑，過終點了！真桑岼佳險勝！第三名看來是3號的[已刪除]！
+
+//SCP-3546-JP繼續奔跑。[已刪除]騎師輕拍SCP-3546-JP的頭。//
+
+= **＜紀錄結束＞**
+
+[[/div]]
+
+SCP-3546-JP在繁殖雌馬的時期，與SCP-3546-JP-A-8誕下的子嗣[[footnote]]（日語：産駒）指某父系／母系所生的馬。[[/footnote]][[span class="ruby"]]澤城酒神[[span class="rt"]]サワシロバッカス[[/span]][[/span]]（Sawashiro Bacchus）於20██年勝出一級賽皐月賞、[[span class="ruby"]]桑椹[[span class="rt"]]マルベリー[[/span]][[/span]]（Mulberry）則於20██年勝出一級賽維多利亞一哩賽、以父系澤城蓮及母父[[footnote]]母系之父系。[[/footnote]]真桑健太的[[span class="ruby"]]好相性[[span class="rt"]]nicks[[/span]][[/span]][[footnote]]意指較有可能生出優秀賽馬的血統組合。[[/footnote]]而受注目。因此，真桑友梨佳的全姊[[footnote]]父系及母系俱相等的姊姊。[[/footnote]]真桑早紀（SCP-3546-JP-A-1）亦以繁殖雌馬「[[span class="ruby"]]マクワサキ[[span class="rt"]]真桑早紀[[/span]][[/span]]（Makuwa Saki）」的形式廣受注目。另外值得注意的是，SCP-3546-JP與SCP-3546-JP-A的子嗣都屬於不具遺傳異常或特別之處的純種馬。
+
+近乎同一時期，基金會研發了Γ級感知免疫賦予措施，由此發現SCP-3546-JP。另外，各地的純種馬繫養設施內，被繫養的SCP-3546-JP-A群並非純種馬而屬於人類的事實亦得以確認——因為提供了不適合人類的飼料而死的SCP-3546-JP-A個體合計已有18個。因此[http://scp-jp.wikidot.com/deception-orientation 基金會欺瞞部門]對關係人發佈「死於疾病」說辭的同時，亦對SCP-3546-JP以及SCP-3546-JP-A群予以收容；至於對關係人的A級記憶刪除，則因可能隨之而生的資料紀錄與群眾記憶不一致的規模之大的疑慮，而未有實施。
+
+[[div class="blockquote deco"]]
+
+[[>]]
+**影像紀錄**
+[[/>]]
+
+----
+
+**受訪者：** 櫔谷克己先生（當時繫養SCP-3546-JP的[已刪除]牧場的營運者）
+
+**採訪者：** 特工梅原翔
+
+**前言：** 此乃在「死於疾病」的說辭發佈前的訪談。
+
+= **＜紀錄開始＞**
+
+**梅原特工：** ——那接下來，我想知道關於那匹馬的事情。
+
+**櫔谷先生：** 是、是，你在說小岼吧？那匹馬本來就是在我們的牧場養著的馬。這樣說來嘛，牠的血統打從阿權那一代開始就由我們打理了。
+
+**梅原特工：** 阿權？
+
+**櫔谷先生：** 嗯，是真桑權藏。小岼的祖父[[footnote]]父系之父系。[[/footnote]]。
+
+**梅原特工：** 原來如此。換言之，作為產馬[[footnote]]種牡馬與繁殖雌馬交配後生產幼馬。[[/footnote]]的一部分，真桑岼佳還有牠的近親純種馬也在管理之內是吧。
+
+**櫔谷先生：** 大致是這樣子。
+
+**梅原特工：** 只不過，您們的牧場好像沒有進行產馬吧？
+
+**櫔谷先生：** 欸？不對，有在做的[[footnote]]推斷伴隨Γ級認知影響特性而被竄改記憶。[[/footnote]]。嘛，也只有生到阿健跟早紀牠們就是。
+
+//沉默。//
+
+**梅原特工：** ……明白了。接下來，真桑岼佳就被賣出去了，是吧。
+
+**櫔谷先生：** 嗯。嘛，畢竟又不是甚麼著名的血統，所以也很便宜，但是就算這樣，牠都是一勝級，所以有跑贏過，也很開心。要說私心的話，如果公開賽或是表列賽也有贏的話那很好，不過回想過去那時也已經足夠了。
+
+**梅原特工：** 之後就作為繁殖雌馬繼續活躍嗎？
+
+**櫔谷先生：** 對、對！只是呢，牠生了一匹一級馬出來的時候我也蠻吃驚的！不過，本來想著不賣出去而繼續在這裡配種的，卻想過這樣下去可就不算見過世面了吧。只是，那匹小孩子卻這麼好生養[[footnote]]指繁殖雌馬產子的情形。「好生養」則指誕下子嗣較多。[[/footnote]]，說不定可以生出好相性的也不意外了呢。哈——天大地大，無奇不有啊。
+
+**梅原特工：** 這樣子嗎。話說回來，真桑岼佳在這邊的牧場的情況怎樣？
+
+**櫔谷先生：** 這個嘛。飼養那邊[[footnote]]指食欲方面。[[/footnote]]有點不好，所以看來[[span class="ruby"]]減磅了[[span class="rt"]]ガレ[[/span]][[/span]][[footnote]]減磅即減重之意。[[/footnote]]的樣子。怎麼說，牠果然不是像重賞馬那樣好身裁，整體來說果然還是比較小。不過老實說，牠可是好孩子。就算在跑馬的時候，也沒聽說過牠有發甚麼脾氣。啊，就是有一點怕事。所以會戴半遮眼罩。
+
+**梅原特工：** 原來如此。
+
+**櫔谷先生：** 只是，之後我也挺看好的。怎麼說，這邊也還有小岼的全姊早紀在嘛！
+
+//全裸的真桑早紀小姐（SCP-3546-JP-A-1）從馬廄探出頭部，舔舐櫔谷先生的臉。//
+
+**櫔谷先生：** 哈哈，好啦好啦。停下來吧。喏，給你吃蘿蔔。
+
+//櫔谷先生把蘿蔔遞向SCP-3546-JP-A-1，SCP-3546-JP-A-1開始嚼起蘿蔔。//
+
+**櫔谷先生：** 只是呢，還是得跟澤城蓮配一下[[footnote]]指配種。[[/footnote]]才行呢。拜託了，生一匹好的吧，早紀。
+
+= **＜紀錄結束＞**
+
+[[/div]]
+
+----
+
+[[module css]]
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100..900&display=swap');
+
+@media screen and (max-width:500px){
+   .scp-image-block.block-right{
+      float:none;
+      margin:auto;
+      margin-bottom: 1.2em;
+   }
+}
+@media screen and (min-width:501px){
+   .scp-image-block.block-right{
+      float:right;
+   }
+}
+
+.blockquote.deco.ketto {
+  padding: 0;
+  overflow-x: auto;
+  border: .5px solid #999;
+  background: #f5ebeb;
+  display: flex;
+}
+
+.ketto > div {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+.ketto > div > div {
+  flex: 1;
+  /*min-height: calc(1.41em * 2);*/
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  border: .5px solid #999;
+}
+
+.ketto > div > div:nth-child(odd) {
+  background: #ebf1f5;
+}
+
+.ketto p {
+  margin: 0 .5em;
+  white-space: nowrap;
+}
+
+.blockquote.deco {
+  background: #fff;
+  border: 1px solid #999;
+  box-shadow: 0 1px 6px rgba(0,0,0,.25);
+}
+
+.blockquote.deco em {
+  color: #999;
+  font-family: "Noto Sans JP", sans-serif;
+}
+
+/* シェアボタン */
+
+#page-content .share-button-wrapper {
+  display: block;
+}
+
+[[/module]]
+
+[[footnoteblock]] 
+----
+[[include :scp-zh-tr:component:license-box
+|lang=JP
+|author=KanKan]]
+> **檔案頁面：** [http://scp-jp-storage.wikidot.com/file:2859452-230-t34a makuwa_horse.png]
+> 
+> **檔案名稱：** makuwa_horse.png
+> 
+> **圖源連結：**  https://commons.m.wikimedia.org/wiki/File:Arabian_Purebred_Stallion_0001.jpg#mw-jump-to-license
+> **授權方式：**  CC BY 2.5
+> **圖檔名稱：**  File:Arabian Purebred Stallion 0001.jpg
+> **著作權持有者：**  Alexander Kastler
+> **發表年份：**  2002
+> 
+> **圖檔備註：** 經過加工處理。
+[[include :scp-zh-tr:component:license-box-end]]

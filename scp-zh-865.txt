@@ -278,3 +278,14 @@
 [[/div]]
 [[/=]]
 [[/div]]
+
+@@ @@
+@@ @@
+@@ @@
+
+[[include :scp-zh-tr:component:earthworm
+| first=false | last=false | hub=yes
+| previous-url=/SCP-ZH-854 | previous-title=見是「忌日」
+| next-url=/SCP-ZH-891 | next-title=從是「侵入」
+| hub-url=/zhongyuan-2024 | hub-title=「早梅詩」
+]]

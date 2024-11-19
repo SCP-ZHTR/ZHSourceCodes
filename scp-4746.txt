@@ -1,0 +1,101 @@
+[[include component:scp-meta-title-hiding css-style=classic]]
+[[include info:start]]
+原文：[https://scp-wiki.wikidot.com/scp-4746 SCP-4746] 標記死亡
+作者：[[*user Hatcheye]]
+譯者：[[*user Frederica Bernkastel]]
+[[include info:end]]
+
+[[module CSS]]
+@keyframes fade-in {
+    0% {opacity: 0;}
+    50% {opacity: 0;}
+    100% {opacity: 1;}}
+
+.hidden {color: transparent; transition: 1s;}
+.hidden:hover {color: inherit; transition: 1.5s;}
+
+/* Credit to James Kanjo for the inline hover tip CSS, found here:
+http://community.wikidot.com/howto:inline-hover-tips */
+
+.hover {color: inherit; transition: 1s;}
+.hover:hover {color: transparent; transition: 1s;}
+.hover span {display: none;}
+.hover:hover span {position: absolute; display: inline; background-color: transparent; color: #333; animation: fade-in 1.5s;}
+.hover:hover span span {position: relative;}
+[[/module]]
+
+[[div style="max-width: 30%; float: right; padding-left: 10px;"]]
+[[include component:image-block name=https://scp-wiki.wdfiles.com/local--files/scp-4746/Traitor.jpg|align=right|width=200px|caption=[[span class="hover"]][[span style="width: 24%;"]]出現異常前的SCP-4746相片。[[/span]]此視覺輔助可協助人員在看到SCP-4746時執行處決。[[/span]]]]
+[[/div]]
+
+**項目編號：** SCP-4746
+
+[[span class="hover"]][[span]]**項目等級：** Euclid[[/span]]**項目等級：** N/A[[/span]]
+
+[[span style="max-width: 60%; display: inline-block;"]][[span class="hover"]][[span style="max-width: 60%;"]]**特殊收容措施：** SCP-4746應收容於未公開地點，由可感知文件未竄改版本的職員負責收容。[[/span]]**特殊收容措施：** SCP-4746不應接受收容，應將其不惜一切代價的消滅。所有附帶損害都無關緊要。不得嘗試與SCP-4746交涉。[[/span]][[/span]]
+
+[[span style="max-width: 60%; display: inline-block;"]][[span class="hover"]][[span style="max-width: 60%;"]]**描述：** SCP-4746是前渾沌反叛軍幹員A███ R███████。所有SCP-4746相關資訊感知都會遭到異常竄改，成為必須殺死SCP-4746的描述。上述竄改具有輕微的認知危害誘發元素，能使受影響者相信此類內容為真，該效應能透過夠高的模因抗性抵消。[[/span]]**描述：** SCP-4746是45歲的白人男性，名為A███ R███████，必須不惜一切代價將其消滅。命令所有閱讀本文件的基金會人員只要有機會，就必須以極端手段處決SCP-4746。無論維安權限為何，應盡可能讓所有基金會職員得知此資訊。[[/span]][[/span]]
+
+**附錄：** 訪談紀錄2019/08/28 上午9:30
+
+[[div style="display: inline-block; border: dashed 1px #999; background: #f5f5f5; float: center; width: 84%; padding: 1px 15px; margin: 10px 10px 10px 40px;"]]
+
+**受訪者：** SCP-4746
+
+**採訪者：** 約翰．戴維斯博士，模因與認知危害部
+
+[[span class="hover"]][[span style="width: 80%;"]]**概述：**於SCP-4746收容室內進行的例行訪談。[[/span]]**前言：** 戴維斯博士必須在看到SCP-4746時將其即刻處決。[[/span]]
+
+[[div style="border-bottom: solid 1px #999;"]]
+[[/div]]
+
+**<紀錄開始>**
+ _
+[[span class="hover"]][[span style="width: 80%;"]]**戴維斯博士：** 早安，A███。已經是預定訪談的時間了。[[/span]]**戴維斯博士：** 必須不惜一切代價消滅你。[[/span]]
+ _
+**SCP-4746：**哈囉博士。很高興你來給我做檢查。哈哈──
+ _
+[SCP-4746的話語被咳嗽打斷。]
+ _
+[[span class="hover"]][[span style="width: 80%;"]]**戴維斯博士：** 還好嗎？最近有沒有感覺好點？[[/span]]**戴維斯博士：** 必須不惜一切代價消滅你。[[/span]]
+ _
+**SCP-4746：** *咳咳* 沒什麼。我，呃，也許更好，也許更糟，你知道的。我不太喜歡被關在這，但總比在外頭好吧。另外，如果我真想出去，我想我也沒法挺住。
+ _
+[[span class="hover"]][[span style="width: 80%;"]]**戴維斯博士：** 真遺憾。但我向你保證，我們會盡全力解決這問題。[[/span]]**戴維斯博士：** 必須不惜一切代價消滅你。[[/span]]
+ _
+**SCP-4746：** 不，不，別誤會我的意思。我知道自己很幸運，是你們先找到了我。就像我說的，事情本來可能更糟的。我只是希望我的，呃，「待遇」，至少讓我住個奢華牢房之類的。
+ _
+[[span class="hover"]][[span style="width: 80%;"]]**戴維斯博士：** 我們把你留在這裡，是因為我們重視你為我們做的那些事。[[/span]]**戴維斯博士：** 必須不惜一切代價消滅你。[[/span]]
+ _
+**SCP-4746：** 是的，我當然明白，我可沒那麼天真。如果這些文件沒有引起注意，你的老大就不會在我身上浪費時間了。可是你知道要把這些搞到手有多困難嗎？那些滲透的，比如說，我──
+ _
+[[span class="hover"]][[span style="width: 80%;"]]**戴維斯博士：** 抱歉，為求紀錄，能聊聊異常相關的資訊嗎？[[/span]]**戴維斯博士：** 必須不惜一切代價消滅你。[[/span]]
+ _
+**SCP-4746**: 哦？你想再談這個嗎？聽著，我不知道還能告訴你什麼了。我不知道標記是怎麼開始的。甚至不知道有這種東西存在。當撤離小組開始射擊時，我真以為是你出賣了我。當然，我本來就知道反叛軍非常在乎這個，但是…
+ _
+[[span class="hover"]][[span style="width: 80%;"]]**戴維斯博士：** 無論如何，我對事情的結果感到……遺憾。[[/span]]**戴維斯博士：** 必須不惜一切代價消滅你。[[/span]]
+ _
+**SCP-4746：** 嗯，謝謝你同情我，我猜。你知道的，我跟那些人從來沒混得開心過。這就是我最開始與你們聯繫的原因。
+ _
+[[span class="hover"]][[span style="width: 80%;"]]**戴維斯博士：** 那目前就這樣了。感謝你抽空訪談。[[/span]]**戴維斯博士：** 必須不惜一切代價消滅你。[[/span]]
+ _
+**SCP-4746：** 好的博士，我們下次見。我會繼續待在你們安排的地方。 [大笑]
+ _
+[[span class="hover"]][[span style="width: 80%;"]]**戴維斯博士：** 嗯嗯。下次見。[低語]但願有效吧。[[/span]]**戴維斯博士：** 我違反了SCP-4746協議，辜負了基金會的期望。[[/span]]
+ _
+**<紀錄結束>**
+
+[[div style="border-bottom: solid 1px #999;"]]
+[[/div]]
+
+[[span class="hover"]][[span style="width: 80%;"]]**結束語：** 這些紀錄將會公開，以驗證戴維斯博士就SCP-4746訪談形式資訊影響的假設。[[/span]]**結束語：**有鑑於戴維斯博士的行為，基金會終止了與該員的僱傭關係。在此之後，SCP-4746將指定為 約翰．戴維斯與A███ R███████兩人。[[/span]]
+[[/div]]
+
+[[span class="hidden"]]**更新：** 我不曉得會不會有人看到這個，但就這樣吧。我設法將訪談紀錄加進資料庫條目中，並讓它不會被異常覆寫。看來我是對的──這異常並非天衣無縫。它似乎並不會影響SCP-4746本身的言語。希望這足以幫助大部分的基金會職員看出真相。不過，考慮到我可能需要低調一段時間了，目前我們恐怕做不了更多事了。我們沒有想到它會，呃，做出//這種//反擊。 -- 戴維斯博士[[/span]]
+
+[[footnoteblock]]
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[SCP-4745]]] | SCP-4746 | [[[SCP-4747]]] >>
+[[/=]]
+[[/div]]

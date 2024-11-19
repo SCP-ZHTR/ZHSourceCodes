@@ -1,0 +1,41 @@
+[[include component:scp-meta-title-hiding css-style=classic]]
+[[include info:start]]
+原文：[https://scp-wiki.wikidot.com/scp-4791 SCP-4791 - 緩緩緩緩地劃過天，我對妳說著再見]
+作者：[[*user Jack Waltz]]
+譯者：[[*user DCup#mus]]
+[[include info:end]]
+**項目編號：**SCP-4791
+
+**收容等級：**Euclid
+
+**特殊收容措施：**由于SCP-4791具有高度惰性和非擾動性，因此對其進行物理收容是不必要的。Site-228負責對其進行進一步的研究。
+
+**描述：**SCP-4791是一只充滿氣的破舊藍色橡膠氣球，其上繪有生日蛋糕圖案。氣球的繩子系有一紙板便條，似能抵禦潮濕與風化（詳見附錄）。
+
+SCP-4791以緩慢的速度穿梭于對流層，飛行高度無規律變化，但均不超過十千米。據觀察，SCP-4791總能避開極端天氣，僅現身于天氣平穩、時有廣袤雲層之地。
+
+尚不知曉SCP-4791何以獲得上述異常特質，但項目是在2022年3月13日時，Tina Walles的葬禮結束後被偵測到，當時Site-228在Walles的住所檢測到了奇蹟術殘留物。對她住所的進一步搜查並未尋得與SCP-4791或其來源相關的任何物品。房屋現由Tina Walles的兒子Jakob Walles繼承[[footnote]]目前處于基金會監視之下[[/footnote]]，但目前空置無人。
+
+**附錄：**所附便條內容轉錄如下。
+
+[[div class="blockquote"]]
+我心歉疚，關鍵時刻卻未能伴妳左右。若我早知，妳知道我必不會離妳而去。
+
+妳傾盡所有，給予我愛、關懷與溫暖，給予我妳擁有的一切，能獲得此，我真的很高興。
+
+這個氣球，就是妳在我最後一個生日贈予我的那個，即便漏氣，我也一直保留至今。而今，我借此向妳傳達我的心聲。
+
+願妳在彼處尋得此信，無論哪裏。謝謝妳，媽媽，我愛妳。
+[[/div]]
+[[size 2em]]@@ @@[[/size]]
+[[footnoteblock]]
+------
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[SCP-4790]]] | SCP-4791 | [[[SCP-4792]]] >>
+[[/=]]
+[[/div]]
+
+[[include :scp-zh-tr:component:license-box
+| author=Jack Waltz]]
+[[include :scp-zh-tr:component:license-box-end]]

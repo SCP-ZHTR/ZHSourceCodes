@@ -187,3 +187,14 @@ Day5
 [[/div]]
 
 **附錄C：** 2024年8月1日， SCP-ZH-904 原本的出沒地點又發生一次濃霧現象，然而這次沒有出現 SCP-ZH-904 ，只有劇烈刺鼻的肉類燒焦味持續傳出，在濃霧消散後氣味仍然繼續擴散而出。
+
+@@ @@
+@@ @@
+@@ @@
+
+[[include :scp-zh-tr:component:earthworm
+| first=false | last=false | hub=yes
+| previous-url=/SCP-ZH-897 | previous-title=天是「停下來，拜託。」
+| next-url=/SCP-ZH-975 | next-title=來是「蓮皿」
+| hub-url=/zhongyuan-2024 | hub-title=「早梅詩」
+]]

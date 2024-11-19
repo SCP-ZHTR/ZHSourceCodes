@@ -17,16 +17,17 @@
 
 [[# toc]]
 [[tabview]]
-[[tab 我是誰]]
-我叫Hale，叫我海爾也可，一名喜歡舊時代SCP的讀者，業餘翻譯者，會翻譯只是因為有些喜歡的故事沒有翻譯。這個頁面主題很酷，所以我就採用了，沒什麼特別的原因。
+[[tab 一張紙條]]
+嗨，我叫Hale，叫我海爾也可，翻譯者。
 
-[[div class="inline-colmod"]]
 有事或覺得我的翻譯有地方可以翻得更好的話，可以到繁中Discord或是透過wikidot私訊，我的Discord暱稱是halewen，不過如果你沒有跟我有共同伺服器就來找我，我很大機率會把你當詐騙。
 
-[[include :scp-wiki:component:inline-colmod show=我不會咬人的，別擔心 :) | content=@@@@
-@@@@
-**特殊收容措施：**項目必須收容於不斷撥放諧音梗的標準收容間，若發生諧音梗中斷事故，應立即使用火焰噴射器對項目進行控制，直到收容間重新恢復足夠的諧音梗濃度。若項目表現良好，可允許其提出的M屬性要求或提供翻譯稿件作為項目的娛樂。禁止任何有關獸控的圖片、影像、文字進入收容間。 [[footnote]]感謝[[*user colorful penguin]]撰寫。[[/footnote]]]]
-[[/div]]
+我不會咬人的，別擔心 :)
+
+//紙條下方還寫著什麼，但被劃掉了//
+
+--**特殊收容措施：**項目必須收容於不斷撥放諧音梗的標準收容間，若發生諧音梗中斷事故，應立即使用火焰噴射器對項目進行控制，直到收容間重新恢復足夠的諧音梗濃度。若項目表現良好，可允許其提出的M屬性要求或提供翻譯稿件作為項目的娛樂。禁止任何有關獸控的圖片、影像、文字進入收容間。--
+[[*user colorful penguin]]，我再說一次，獸控不是異常，還有，我要是再看到你在我桌上留諧音梗的話，我就要開始考慮把辦公室貼滿獸圖來作為避免你進門的手段了。
 [[/tab]]
 [[tab 我的翻譯]]
 
@@ -74,6 +75,8 @@
 > 我那時才明白，她是在事先練習。就像一場彩排。
 [[[scp-8372|SCP-8372 - 永恆灰燼]]]
 > 所有屍體的服裝皆非由殆瓦所製。
+[[[scp-8654|SCP-8654 - 高處恐懼症：上即是下]]]
+> 而你接著墜落。
 [[=]]
 ,,[#toc 回到頁面頂部],,
 [[/=]]
@@ -83,7 +86,7 @@
 標註為[未翻譯...吧]的作品表示作品由CN的作者撰寫，而翻譯的CN文本也是同個作者所製，因此不確定是否需要翻譯。
 [[=]]
 [[size 1.2em]]
-++++ 待翻譯文章數量：58篇。
+++++ 待翻譯文章數量：60/159篇。
 [[/size]]
 [[/=]]
 EN分部：
@@ -246,8 +249,10 @@ EN分部：
 > - [[[SCP-7999]]] Meet Me in the Stars 來星星間找我
 > - [[[SCP-8209]]] Repairing the World [未翻譯]
 > - [[[SCP-8585]]] A Setting Sun [未翻譯]
+> - [[[SCP-8654]]] **Acrophobia:** Up Is Down **高處恐懼症：**上即是下
 > - [[[SCP-8900-EX]]] Sky Blue Sky 藍天隕落
-> - [[[SCP-8980]]][[footnote]]彼方遙火2，我第一次讀到想吐。[[/footnote]] [[span style="color: #0a460a"]]**Ergophobia:**[[/span]] Without Regards [未翻譯]
+> - [[[SCP-8976]]] Diagraphephobia: fragmentation [未翻譯]
+> - [[[SCP-8980]]][[footnote]]我第一次讀到想吐。請做好心理準備再讀這篇。不，不是因為血腥或肉體恐怖才讓我想吐的。[[/footnote]] [[span style="color: #0a460a"]]**Ergophobia:**[[/span]] Without Regards [未翻譯]
 
 JP分部：
 > 故事：
@@ -279,6 +284,7 @@ CN分部：
 > - [[[http://scp-wiki-cn.wikidot.com/scp-cn-2982|SCP-CN-2982]]] 第三中學
 > - [[[http://scp-wiki-cn.wikidot.com/scp-cn-2999|SCP-CN-2999]]] Observator Ex Machina
 > - [[[http://scp-wiki-cn.wikidot.com/scp-cn-3096|SCP-CN-3096]]] “羞澀”的房
+> - [[[http://scp-wiki-cn.wikidot.com/scp-cn-3969|SCP-CN-3969]]] 末世無聞
 > - [[[http://scp-wiki-cn.wikidot.com/scp-cn-3999|SCP-CN-3999]]] 超越天堂
 ZH分部：
 > - 待閱讀

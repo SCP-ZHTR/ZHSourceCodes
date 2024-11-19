@@ -1147,11 +1147,11 @@ INTSC-Zuen是Site-15提供給Area-12的實驗型AIC強化百億億級超級電�
 
 [[div class="sourcebox" style="height: 36em;"]]
 [[div class="floatbox psl"]]
-[[=image http://scptestwiki.wdfiles.com/local--files/sigma:5k-redesign-dossier/PURESOURCELEFT.png width="100%"]]
+[[=image https://scp-wiki.wdfiles.com/local--files/secure-facility-dossier-area-12/PURESOURCELEFT.png width="100%"]]
 [[/div]]
 
 [[div class="floatbox right psr"]]
-[[=image http://scptestwiki.wdfiles.com/local--files/sigma:5k-redesign-dossier/PURESOURCERIGHT.png width="100%"]]
+[[=image https://scp-wiki.wdfiles.com/local--files/secure-facility-dossier-area-12/PURESOURCERIGHT.png width="100%"]]
 [[/div]]
 
 [[div style="height: 32em;"]]

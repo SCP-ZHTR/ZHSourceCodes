@@ -1009,3 +1009,14 @@ SCP-ZH-975是一個無法被準確描述的異常物體，這種異常效應的�
 [[a href="#u-toc-A1"  class="btn1"]]登入[[/a]]
 [[/=]]
 [[/div]]
+
+@@ @@
+@@ @@
+@@ @@
+
+[[include :scp-zh-tr:component:earthworm
+| first=false | last=true| hub=yes
+| previous-url=/SCP-ZH-904 | previous-title=上是「失鄉」
+| next-url=/ | next-title=/
+| hub-url=/zhongyuan-2024 | hub-title=「早梅詩」
+]]
