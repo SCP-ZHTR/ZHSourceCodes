@@ -1,0 +1,172 @@
+[[module css]]
+:root:lang(zh) {
+ --lgurl: url("https://i.imgur.com/RGgAALK.png");
+ --accentColor: 255 0 0;
+ --header-title: "早梅詩";
+ --header-subtitle: "　";
+}
+[[/module]]
+[[include :scp-zh-tr:theme:black-highlighter-theme]]
+[[include :scp-zh-tr:theme:penumbra-bhl]]
+
+[[include component:scp-meta-title-hidding]]
+[[include info:start]]
+**篇名：**春是「遲到」
+**作者：**[[*user IC_1623]]
+**授權：**所有圖片皆由本人製作，授權方式是CC BY-SA 3.0
+[[include info:end]]
+
+
+下列圖示皆由王玉婷研究員受████委託所製成之圖示，製作期間所使用到的記憶刪除劑皆由████支付其費用。
+
+
+[[div class="darkbox"]]
+[[collapsible show="東風破早梅" hide="東風破早梅"]]
+
+[[=image https://i.imgur.com/zJchIB4.png width="200px" link="*http://scp-zh-tr.wikidot.com/scp-zh-249"]]
+[[div style="border-left: darkred 0.2rem solid; padding-left: 8px; margin-top: 12px; margin-bottom: 12px; color: 0 0 0; opacity: 0.8;"]]
+累？我不累。我是一個欲望驅動的機械。
+[[/div]]
+@@ @@
+
+[[=image https://i.imgur.com/I9b1H5W.png width="200px" link="*http://scp-zh-tr.wikidot.com/scp-zh-420"]]
+[[div style="border-left: darkred 0.2rem solid; padding-left: 8px; margin-top: 12px; margin-bottom: 12px; color: 0 0 0; opacity: 0.8;"]]
+你被判決有罪。
+[[/div]]
+@@ @@
+
+[[=image https://i.imgur.com/kpTckhz.png width="200px" link="*http://scp-zh-tr.wikidot.com/scp-zh-425"]]
+[[div style="border-left: darkred 0.2rem solid; padding-left: 8px; margin-top: 12px; margin-bottom: 12px; color: 0 0 0; opacity: 0.8;"]]
+救　我　在　裡　面。
+[[/div]]
+@@ @@
+
+[[=image https://i.imgur.com/4ykyis6.png width="200px" link="*http://scp-zh-tr.wikidot.com/scp-zh-454"]]
+[[div style="border-left: darkred 0.2rem solid; padding-left: 8px; margin-top: 12px; margin-bottom: 12px; color: 0 0 0; opacity: 0.8;"]]
+地表不復有液態水存在。
+[[/div]]
+@@ @@
+
+[[=image https://i.imgur.com/lpugIhA.png width="200px" link="*http://scp-zh-tr.wikidot.com/scp-zh-715"]]
+[[div style="border-left: darkred 0.2rem solid; padding-left: 8px; margin-top: 12px; margin-bottom: 12px; color: 0 0 0; opacity: 0.8;"]]
+SCP-ZH-715內仍有6名租約尚未到期之一般民眾。
+[[/div]]
+@@ @@
+
+
+[[/collapsible]]
+[[/div]]
+@@ @@
+
+[[div class="darkbox"]]
+[[collapsible show="向暖一枝開" hide="向暖一枝開"]]
+
+[[=image https://i.imgur.com/WRGOFVV.png width="200px" link="*http://scp-zh-tr.wikidot.com/scp-zh-737"]]
+[[div style="border-left: darkred 0.2rem solid; padding-left: 8px; margin-top: 12px; margin-bottom: 12px; color: 0 0 0; opacity: 0.8;"]]
+…承上則，經異常改動後還原的資訊不再可信。
+[[/div]]
+@@ @@
+
+[[=image https://i.imgur.com/NAklBQB.png width="200px" link="*http://scp-zh-tr.wikidot.com/scp-zh-754"]]
+[[div style="border-left: darkred 0.2rem solid; padding-left: 8px; margin-top: 12px; margin-bottom: 12px; color: 0 0 0; opacity: 0.8;"]]
+唯一對外的窗戶和窗格已被鎖死。
+[[/div]]
+@@ @@
+
+[[=image https://i.imgur.com/hD7l1X0.png width="200px" link="*http://scp-zh-tr.wikidot.com/scp-zh-784"]]
+[[div style="border-left: darkred 0.2rem solid; padding-left: 8px; margin-top: 12px; margin-bottom: 12px; color: 0 0 0; opacity: 0.8;"]]
+而我將永遠與你同在。
+[[/div]]
+@@ @@
+
+[[=image https://i.imgur.com/K9oFpL8.png width="200px" link="*http://scp-zh-tr.wikidot.com/scp-zh-787"]]
+[[div style="border-left: darkred 0.2rem solid; padding-left: 8px; margin-top: 12px; margin-bottom: 12px; color: 0 0 0; opacity: 0.8;"]]
+我是不會再失手的。
+[[/div]]
+@@ @@
+
+[[=image https://i.imgur.com/TNG1498.png width="200px" link="*http://scp-zh-tr.wikidot.com/scp-zh-792"]]
+[[div style="border-left: darkred 0.2rem solid; padding-left: 8px; margin-top: 12px; margin-bottom: 12px; color: 0 0 0; opacity: 0.8;"]]
+團隊由離開房間1開始隱約嗅到魚腥味，氣味在到達新一段走廊時更為強烈。
+[[/div]]
+@@ @@
+
+
+[[/collapsible]]
+[[/div]]
+@@ @@
+
+[[div class="darkbox"]]
+[[collapsible show="冰雪無人見" hide="冰雪無人見"]]
+
+[[=image https://i.imgur.com/xSifgvm.png width="200px" link="*http://scp-zh-tr.wikidot.com/scp-zh-809"]]
+[[div style="border-left: darkred 0.2rem solid; padding-left: 8px; margin-top: 12px; margin-bottom: 12px; color: 0 0 0; opacity: 0.8;"]]
+我能清楚看到指尖的傷口持續擴散，但大腦抗拒理解、身體抗拒接受，這是我第一次離死亡如此接近。
+[[/div]]
+@@ @@
+
+[[=image https://i.imgur.com/GIhV5XC.png width="200px" link="*http://scp-zh-tr.wikidot.com/scp-zh-819"]]
+[[div style="border-left: darkred 0.2rem solid; padding-left: 8px; margin-top: 12px; margin-bottom: 12px; color: 0 0 0; opacity: 0.8;"]]
+然而，安裝在女兒房內的攝影機於該日深夜突然出現故障，故障一直持續到該日清晨為止，在這一段時間內都沒能拍攝到任何畫面，因此無法直接確定女兒失蹤當晚的確切真相。
+[[/div]]
+@@ @@
+
+[[=image https://i.imgur.com/InDQa3m.png width="200px" link="*http://scp-zh-tr.wikidot.com/scp-zh-840"]]
+[[div style="border-left: darkred 0.2rem solid; padding-left: 8px; margin-top: 12px; margin-bottom: 12px; color: 0 0 0; opacity: 0.8;"]]
+除我之外的所有人都離開這裡，只因這裡沒有任何的救贖。
+[[/div]]
+@@ @@
+
+[[=image https://i.imgur.com/eQeTnzz.png width="200px" link="*http://scp-zh-tr.wikidot.com/scp-zh-850"]]
+[[div style="border-left: darkred 0.2rem solid; padding-left: 8px; margin-top: 12px; margin-bottom: 12px; color: 0 0 0; opacity: 0.8;"]]
+須注意項目已呈現的2,​147,​483,​648種狀態當中，絕大多數在基準宇宙中不存在對應的自殺者。依照目前針對該項目的假說，對應的自殺者推斷位於另外的平行宇宙，而無法介入。
+[[/div]]
+@@ @@
+
+[[=image https://i.imgur.com/byzWMZ5.png width="200px" link="*http://scp-zh-tr.wikidot.com/scp-zh-854"]]
+[[div style="border-left: darkred 0.2rem solid; padding-left: 8px; margin-top: 12px; margin-bottom: 12px; color: 0 0 0; opacity: 0.8;"]]
+幸運地，基金會過去、現在、未來都沒有人因該項目受傷或死亡，所以沒有人是需要被憐憫的。你也無須關心任何你認為有參與該項目相關實驗的人員，因為他們的狀況都很好，我們很清楚這點。
+[[/div]]
+@@ @@
+
+
+[[/collapsible]]
+[[/div]]
+@@ @@
+
+[[div class="darkbox"]]
+[[collapsible show="春從天上來" hide="春從天上來"]]
+
+[[=image https://i.imgur.com/qxYwX5n.png width="200px" link="*http://scp-zh-tr.wikidot.com/scp-zh-865"]]
+[[div style="border-left: darkred 0.2rem solid; padding-left: 8px; margin-top: 12px; margin-bottom: 12px; color: 0 0 0; opacity: 0.8;"]]
+每天要拿這段課文給老師檢查，紅色封條都沒有撕開的乖同學可以找老師拿點心獎勵。如果不小心撕開紅色封條也沒關係，立刻跟老師講，老師還是會給你小棒棒糖獎勵。
+[[/div]]
+@@ @@
+
+[[=image https://i.imgur.com/7Ljn0Xn.png width="200px" link="*http://scp-zh-tr.wikidot.com/scp-zh-891"]]
+[[div style="border-left: darkred 0.2rem solid; padding-left: 8px; margin-top: 12px; margin-bottom: 12px; color: 0 0 0; opacity: 0.8;"]]
+一切都無所謂了，我只渴望能夠成為她的一部份。
+[[/div]]
+@@ @@
+
+[[=image https://i.imgur.com/BlRB7Zp.png width="200px" link="*http://scp-zh-tr.wikidot.com/scp-zh-897"]]
+[[div style="border-left: darkred 0.2rem solid; padding-left: 8px; margin-top: 12px; margin-bottom: 12px; color: 0 0 0; opacity: 0.8;"]]
+今天清晨六時許，露營場上發現了一名年輕女性遺體，死者的頭顱遭到輾爆，並在河堤道路留下長長的血跡。
+[[/div]]
+@@ @@
+
+[[=image https://i.imgur.com/VtqyST5.png width="200px" link="*http://scp-zh-tr.wikidot.com/scp-zh-904"]]
+[[div style="border-left: darkred 0.2rem solid; padding-left: 8px; margin-top: 12px; margin-bottom: 12px; color: 0 0 0; opacity: 0.8;"]]
+大部分三十歲以上的 SCP-ZH-904-A 都維持著人類的樣貌，只是皮膚相較無異常的當地人種更為黝黑且佈滿皺紋，四肢枯瘦，普遍有牙齒缺損的情況。
+[[/div]]
+@@ @@
+
+[[=image https://i.imgur.com/DrLMXpd.png width="200px" link="*http://scp-zh-tr.wikidot.com/scp-zh-975"]]
+[[div style="border-left: darkred 0.2rem solid; padding-left: 8px; margin-top: 12px; margin-bottom: 12px; color: 0 0 0; opacity: 0.8;"]]
+「人類害怕的不是黑暗，而是不知道黑暗裡會有什麼東西。」這句話已經忘記是從何方聽來的，也不記得細節正不正確了，不過有一點可以確定的是，現在的你也許能夠為這句話的真偽作證。
+[[/div]]
+@@ @@
+
+
+[[/collapsible]]
+[[/div]]
