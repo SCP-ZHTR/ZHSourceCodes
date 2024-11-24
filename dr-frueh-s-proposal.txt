@@ -826,7 +826,7 @@ SCP-001-17則更為麻煩，以其處境而言，或符合其年齡層預期表�
 
 [[include :scp-wiki:fragment:scp-anthology-2024-earthworm
 | previous-url = scp-8123
-| previous-title = 人形恐懼症
+| previous-title = 獨處恐懼症
 | next-url = scp-8654
 | next-title = 高處恐懼症
 | hub-url = scp-anthology-2024
