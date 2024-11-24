@@ -1,0 +1,158 @@
+=====
+[[include component:preview
+text=
+SCP驚選集2024 第5日
+]]
+=====
+
+[[module CSS]]
+
+html {
+   -webkit-filter: grayscale(1); /* Older Webkit */
+   -webkit-filter: grayscale(100%);
+   -moz-filter: grayscale(100%);
+   -ms-filter: grayscale(100%);
+   -o-filter: grayscale(100%);
+   filter: grayscale(100%);
+   background-color: white;
+}
+
+[[/module]]
+
+[[include :scp-wiki:component:toggle-sidebar]]
+
+[[div style="display:none;"]]
+[[image http://scp-sandbox-3.wikidot.com/local--files/troutmaskreplica-soggy/thumbnail.png]]
+[[/div]]
+
+[[include :scp-zh-tr:info:start]]
+[[=]]
+> [[span class="ruby"]]But let me tell you, brother[[span class="rt"]]讓我來告訴你吧，兄弟[[/span]][[/span]]
+> 
+> [[span class="ruby"]]Still waters go stagnant[[span class="rt"]]靜水漸濁[[/span]][[/span]]
+> 
+> [[span class="ruby"]]Bodies bloat[[span class="rt"]]尸體膨脹[[/span]][[/span]]
+> 
+> [[span class="ruby"]]And the cellar door is an open throat[[span class="rt"]]而地窖之門早已張開血盆大口[[/span]][[/span]]
+
+（歌詞來自The Mountain Goats創作的The House that Dripped Blood）
+
+表面張力
+
+----
+
+**原文：**[https://scp-wiki.wikidot.com/scp-8380 SCP-8380 - 水恐懼症：表面張力]
+**作者：**[[*user Troutmaskreplica]] : [https://scp-wiki.wikidot.com/trouts-authorpage 作者頁]
+**譯者：**[[*user CSZ87p]]
+[[/=]]
+[[include :scp-zh-tr:info:end]]
+
+[[include :scp-zh-tr:component:cd-ver2
+|lv=2
+|item=SCP-8380
+|class=Keter
+|site-responsible=N/A
+|director=朱利安·庫斯托 高級研究員
+|research-head=瑪麗安娜·雷恩 研究員
+|assigned-task-force=MTF%20Omega-9%20「淵下之界」
+]]
+----
+[[include :scp-wiki:component:wide-image-sizer]]
+[[div class="scp-image-block block-center" style="width:100%;"]]
+[[image  https://upload.wikimedia.org/wikipedia/commons/7/7e/Splashy_New_Year_New_Orleans.jpg style="width:100%;"]]
+[[/div]]
+----
+**特殊收容措施：**SCP-8380事件須透過已建立的監控網絡進行監測。任何行蹤最後涉及到泳池、SPA水療中心或水庫的人員，都應立即由機動特遣隊Omega-9「淵下之界」進行調查。
+
+**描述：**SCP-8380是一種與人造水體相關的異常現象。每次SCP-8380事件最終都會導致一名人員的失蹤。
+
+SCP-8380事件會在毫無徵兆的情況下發生。當一名人員被SCP-8380選作目標時，該人員將無法浮出受影響的水體。其他人員雖能自由行動，但任何救援嘗試皆以失敗告終：最常見的結果是水體自身會強行將救援者推開。當受害者完全沉入水中後，他們的身體會逐漸變得無形且透明，最終徹底消失。
+
+下表為SCP-8380的事件節錄。
+
+> **實例：** 8380.17
+> **日期：** 1995年6月11日
+> **受害者：** 安妮莉絲·瑪麗·約翰遜
+> **描述：** 一起已確認的SCP-8380實例，發生在一個擁有多名目擊者在場的公共泳池。一名成年女性（後經確認為安妮莉絲·瑪麗·約翰遜）被目擊到正在掙扎著對抗某種無形的力量。綜合目擊者所述，事件發生時，安妮莉絲位於水深僅1.5英尺[[footnote]]**譯注：**大約為45.72厘米/公尺。[[/footnote]]的淺水區[[footnote]]一個專門為孩童設計的泳池區域。[[/footnote]]。她逐漸向池底下沉，身形隨之變得透明且無法觸碰。數日後，相關單位尋獲了她的遺體。
+
+> **實例：** 8380.73
+> **日期：** 2001年7月30日
+> **受害者：** 亞歷山大·斯特林三世
+> **描述：** 一段回收至網上發佈的手機錄像。亞歷山大·斯特林三世是一位虔誠的天主教徒，並下定決心在當地的教堂進行洗禮。當他第一次踏入水池時，SCP-8380立即顯現，並將其拖入水中。參與儀式的神父在震驚之下不慎鬆開了他的手，導致斯特林消失在眾人的視線中。池水排乾後，僅發現少許頭髮與牙齒碎片。[[footnote]]這些碎片經過檢測後，發現與斯特林並無任何基因關聯，而是屬於另外十七位失蹤的人員。[[/footnote]]
+
+> **實例：** 8380.73
+> **日期：** 2022年8月6日
+> **受害者：** 珍妮·H·李
+> **描述：** 詳見下方。
+> 
+> 以下錄像取自████公共中心的室內泳池。此事件最初被歸檔為失蹤人口案件。然而，當李的朋友坦承他們進入過該場所後，發現了下列相關錄像。
+> 
+> [[=]]
+> << **記錄開始** >>
+> [[/=]]
+> 
+> **[00:00]** 監控畫面開始，顯示了泳池區域。附近的一扇窗戶被打開。
+> 
+> **[00:11]** 一群青少年（已確認身分者如下：珍妮·李、瑞恩·皮爾斯伯里與其他數人）進入場地。他們似乎正一邊交談，一邊往泳池邊緣走去。
+> 
+> **[00:25]** 這群人跳入泳池，並開始互相潑水嬉戲。李注視著水面，遲疑了一會兒後才決定加入他們。
+> 
+> **[00:37]** 李的行為舉止出現異樣：她的游泳動作變得混亂，表情也透出痛苦。起初，他們以為李是在開玩笑，但在看到她出現呼吸困難後，皮爾斯伯里試圖救助對方。監控畫面顯示，纏繞於李身上的水似乎變形成手的形狀，抓住她的頭髮並將其頭部強行壓入水中。
+> 
+> **[00:49]** 目睹李的掙扎後，眾人陷入了驚慌之中。皮爾斯伯里試圖伸手拉住她，但沒能成功。李轉而嘗試抓住泳池邊緣，想把手伸出水面，但水面卻如凝膠般緊貼其身，把她再次拉回水下。
+> 
+> **[01:08]** 李在驚恐中持續下沉，她的掙扎逐漸變得虛弱，無法再對抗那無形的力量。皮爾斯伯里不斷嘗試將她拉出水面，但未能成功。他抓住她的手，但水體卻猛烈地將他推開。
+> 
+> **[01:23]** 李周圍的水開始不自然地起伏。她的朋友們瞪大了雙眼，其中一人幾乎快要嘔吐出來。李的喊叫聲被水體所淹沒，但仍能聽見一種失真的哀嚎聲從錄影中傳出。
+> 
+> **[01:35]** 水面猛烈地翻湧，李被拉入水下，她的身影逐漸變得若隱若現。皮爾斯伯里潛入水中，但很快又浮出水面。他被水流推向了泳池邊，並顯得焦急如焚。
+> 
+> **[01:43]** 李扶住泳池邊緣，成功將自己從水中拉起。但她全身被厚厚的水層所包裹住。她試圖向眾人求助，但聲音因為水的隔絕而變得含糊不清。不久之後，李再次被拉入水下，身影徹底消失。
+> 
+> **[01:48]** 其餘的青少年顯得驚魂未定，在經過數分鐘的爭論後，慌忙地逃離泳池區域。
+> 
+> **[01:58]** 李的哭泣聲不再可聞。
+> 
+> **[02:14]** 錄音中萬籟俱寂。
+> 
+> **[03:19]** 一根肋骨浮出水面。
+
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+[[include :scp-zh-tr:component:license-box
+|author=Troutmaskreplica
+|translator=CSZ87p
+]]
+=====
+> **文件名：**anthology.jpeg
+> **名稱：**Splashy New Year New Orleans
+> **圖像作者：**Bart Everson
+> **授權協議：**Creative Commons Attribution 2.0 Generic
+> **來源鏈接：** https://commons.wikimedia.org/wiki/File:Splashy_New_Year_New_Orleans.jpg
+
+> **文件名：**thumbnail.png
+> **名稱：**StateLibQld 1 109508 Crowd at the swimming pool, ca. 1910
+> **圖像作者：**State Library of Queensland
+> **授權協議：**Public Domain
+> **來源鏈接：** https://commons.wikimedia.org/wiki/File:StateLibQld_1_109508_Crowd_at_the_swimming_pool,_ca._1910.jpg
+=====
+[[include :scp-wiki:component:license-box-end]]
+@@ @@
+[[include :scp-wiki:fragment:scp-anthology-2024-earthworm
+| previous-url = scp-8906
+| previous-title = 臉譜恐懼症：臺上殺人
+| next-url = scp-8980
+| next-title = 工作恐懼症：無有謝忱
+| hub-url = http://scp-zh-tr.wikidot.com/scp-anthology-2024
+| hub-title = SCP驚選集2024
+]]
