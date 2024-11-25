@@ -1,0 +1,1258 @@
+[[include :scp-zh-tr:theme:basalt]]
+[[include :scp-wiki:component:text-style]]
+[[module css]]
+.page {
+    display: block;
+    overflow: hidden;
+    font-family: "Monotype Corsiva", "Bradley Hand ITC", sans-serif;
+    font-style: normal;
+    background-attachment: scroll;
+    background-clip: border-box;
+    background-color: transparent;
+    background-image: linear-gradient(to top ,rgb(202, 219, 228) 0%, rgb(231, 233, 220) 8%);
+    background-origin: padding-box;
+    background-position: 0px 8px;
+    background-repeat: repeat;
+    background-size: 100% 20px;
+    border: 1px solid #CCC;
+    border-radius: 10px;
+    padding: 10px 10px;
+    margin-bottom: 10px;
+    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.2)
+}
+.page p,
+.page ul {
+    line-height: 20px;
+    margin: 0;
+}
+.blinkbar {animation: blink 1.5s infinite; letter-spacing: -0.13em;}@keyframes blink{to{opacity: .0;}}@keyframes flicker {0% {opacity: 0.9890; }5% {opacity: 0.5842; }10% {opacity: 0.9865; }15% {opacity: 0.0412; }20% {opacity: 0.6255; }25% {opacity: 0.3157; }30% {opacity: 0.7328; }35% {opacity: 0.4654; }40% {opacity: 0.9128; }45% {opacity: 0.2449; }50% {opacity: 0.5485; }55% {opacity: 0.6438; }60% {opacity: 0.1180; }65% {opacity: 0.9085; }70% {opacity: 0.0266; }75% {opacity: 0.6795; }80% {opacity: 0.7812; }85% {opacity: 0.0117; }90% {opacity: 0.2239; }95% {opacity: 0.8897; }100% {opacity: 0.2260; }}@keyframes overlay-anim {0% {visibility: hidden; }10% {visibility: hidden; }11% {visibility: visible; }50% {visibility: hidden; }100% {visibility: hidden; }}
+
+div.terminal{
+    border: 1px solid black;
+    border: solid 3px #BBBBBB;
+    border-radius: 16px;
+    background-color: #131;
+/* black shadow at the top of the terminal */
+    background-image:
+        radial-gradient(ellipse 1000% 100% at 50% 90%, transparent, #121);
+    background-position: center;
+    display: block;
+/* shadow around the terminal */
+    box-shadow: inset 0 0 10em 1em rgba(0,0,0,0.5);
+/* prevents scanline from forming a scrollwheel */
+    overflow:hidden;
+}
+div.terminal blockquote {
+    background-color: black;
+    border: double 3px #80FF80
+}
+/* hr block for terminal -- thanks to stormbreath! */
+div.terminal hr {
+    background-color: #80FF80;
+}
+
+div.scanline{
+    margin-top: -40%;
+    width: 100%;
+    height: 60px;
+    position: relative;
+    pointer-events: none;
+/* Safari 4.0 - 8.0 */
+    -webkit-animation: scan 12s linear 0s infinite; /* You may need to change this. If the bar goes by too quickly, increase 5s. */
+    animation: scan 12s linear 0s infinite; /* Same as above */
+    background: linear-gradient(to bottom, rgba(56, 112, 82,0), rgba(56, 112, 82,0.1)) !important;
+}
+
+div.text{
+    color: rgba(128,255,128,0.8);
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+    padding-top: 40%;
+    font-family: monospace;
+    font-size: 1.2em;
+    }
+
+/* Safari 4.0 - 8.0 */
+@-webkit-keyframes scan{
+    from{ transform: translateY(-10%);}
+    to{  transform: translateY(7000%);}
+}
+
+@keyframes scan{
+    from{ transform: translateY(-10%);}
+    to{  transform: translateY(7000%);} /* Same as above.*/
+}
+
+div.text a {
+    color: #90EE90;
+    text-decoration: none;
+    background: transparent;
+}
+div.text a.newpage {
+    color: #90EE90;
+    text-decoration: none;
+    background: transparent;
+}
+div.text a:hover {
+    color: #131;
+    text-decoration: underline;
+    background-color: #80FF80;
+    padding: 1px;
+}
+[[/module]]
+[[module CSS]]
+.email-example .collapsible-block-folded a.collapsible-block-link {
+    animation: blink 0.8s ease-in-out infinite alternate;
+}
+@keyframes blink {
+    0% { color: transparent; }
+    50%, 100% { color: #b01; }
+}
+.email {border: solid 2px #ffffff; width: 88%; padding: 1px 15px; margin: 20px; box-shadow: 0 1px 3px rgba(0,0,0,.5)}
+.email-example a.collapsible-block-link {font-weight: bold;}
+.tofrom {margin-left: 5px; margin-top: 5px; padding: 1px 15px; border-left: solid 3px maroon}
+
+.parapost {
+  background-color: var(--post-bg-color);
+  border: 2px solid var(--post-border-color);
+  border-left-width: 4px;
+  padding: 0 1em;
+  margin-top: -0.5em;
+  margin-right: var(--post-base-margin);
+  margin-bottom: 1em;
+  margin-left: calc(
+    var(--nest-level) * var(--post-nest-margin) + var(--post-base-margin)
+  );
+}
+
+:root {
+  --post-bg-color: #f9f9f9;
+  --post-border-color: #999;
+  --post-nest-margin: 1em;
+  --post-base-margin: 3em;
+}
+
+.reply0 { margin-top: 1em; border-left-width: 6px; --nest-level: 0; }
+.reply1 { --nest-level: 1; }
+.reply2 { --nest-level: 2; }
+.reply3 { --nest-level: 3; }
+.reply4 { --nest-level: 4; }
+.reply5 { --nest-level: 5; }
+ 
+@media (min-width: 480px) and (max-width: 580px) {
+  :root {
+    --post-nest-margin: 0.5em;
+    --post-base-margin: 0.5em;
+  }
+}
+ 
+@media (max-width: 479px) {
+  :root {
+    --post-nest-margin: 1em;
+    --post-base-margin: 0em;
+  }
+}
+
+/* Colours for each character */
+.parapost {
+  --post-bg-color: hsl(var(--char-hue), 33.3%, 97%);
+  --post-border-color: hsl(var(--char-hue), 33.3%, 50%);
+}
+.parapost p:first-child > span:first-child {
+  color: var(--post-border-color) !important;
+}
+.parapost hr {
+  background-color: var(--post-border-color);
+}
+.by-seven  { --char-hue: 0; }
+.by-russ { --char-hue: 240; }
+.by-one  { --char-hue: 120; }
+[[/module]]
+[[>]]
+[[include info:start]]
+原文：[https://scp-wiki.wikidot.com/scp-8217 SCP-8217]
+作者：[[*user habaniah]]
+譯者：[[*user Halewen]]
+[[include info:end]]
+[[/>]]
+
+[[include :scp-wiki:component:parawatch-forum-post
+| username=Site-592主管Russ Braithwaite | color=blue
+| date=08.22.2024 | postno=8217DA001
+| depth=0 by-russ | content=
+嘿，我在維安電話留了些訊息。我們真的需要談談。
+]]
+
+[[include :scp-wiki:component:parawatch-forum-post
+| username=O5-07 | color=blue
+| date=08.22.2024 | postno=8217DA002
+| depth=0 by-seven | content=
+我把那些訊息傳給美國西南部的收容失效部了。Site-01的維安溝通系統不是回報的第一方案。你知道這點的。
+]]
+
+[[include :scp-wiki:component:parawatch-forum-post
+| username=Site-592主管Russ Braithwaite | color=blue
+| date=08.22.2024 | postno=8217DA003
+| depth=0 by-russ | content=
+是。但這不是場收容失效。我猜這大概是場來自單一外星生物的侵略，但不論如何，這是來自某種我們//從沒收容過//的東西。
+]]
+
+[[include :scp-wiki:component:parawatch-forum-post
+| username=Site-592主管Russ Braithwaite | color=blue
+| date=08.22.2024 | postno=8217DA004
+| depth=0 by-russ | content=
+我知道差別實際上無關緊要。但我知道收容失效部。他們的第一、第二還有第三個問題是在問突破的異常——假如有的話——是否正在採取毀滅性或破壞性的行動。這套方法在這個案例中不管用。
+]]
+
+[[include :scp-wiki:component:parawatch-forum-post
+| username=O5-07 | color=blue
+| date=08.22.2024 | postno=8217DA005
+| depth=0 by-seven | content=
+為什麼不？
+]]
+
+[[include :scp-wiki:component:parawatch-forum-post
+| username=Site-592主管Russ Braithwaite | color=blue
+| date=08.22.2024 | postno=8217DA006
+| depth=0 by-russ | content=
+有艘飛船，而那東西就停在這。
+]]
+
+[[include :scp-wiki:component:parawatch-forum-post
+| username=Site-592主管Russ Braithwaite | color=blue
+| date=08.22.2024 | postno=8217DA007
+| depth=0 by-russ | content=
+我知道我聽起來瘋了。我正在把8217的檔案傳過去。這應該可以讓你清楚一點。
+]]
+
+[[include :scp-wiki:component:parawatch-forum-post
+| username=Site-592主管Russ Braithwaite | color=blue
+| date=08.22.2024 | postno=8217DA008
+| depth=0 by-russ | content=
+一旦你讀完，或在你確信需求是必要的之後，我會要求大量的外部支援，最好是一支MTF。不要在沒有某種過濾系統的情況下與//任何人//通訊。
+]]
+
+[[include :scp-wiki:component:parawatch-forum-post
+| username=O5-07 | color=blue
+| date=08.22.2024 | postno=8217DA009
+| depth=0 by-seven | content=
+理解了。我知道8217。我們從來沒有遇過一艘飛船，但我們為這種極端風險肯定有所準備。你將獲得你需要的支援。
+]]
+
+[[include :scp-wiki:component:parawatch-forum-post
+| username=Site-592主管Russ Braithwaite | color=blue
+| date=08.22.2024 | postno=8217DA010
+| depth=0 by-russ | content=
+非常感謝。Site-592有三百名員工。至少八十人已經被感染了。我們可能需要在這事結束前記憶刪除所有人好幾次。
+]]
+
+------
+
+[[include component:anomaly-class-bar-source
+|item-number= 8217
+|clearance= 3
+|container-class= safe
+|secondary-class= none
+|disruption-class= vlam
+|risk-class= warning]]
+------
+
+**特殊收容措施：**SCP-8217-1實例應被冷凍保存，並放置於Site-48 Safe級收容櫃內的冷凍庫中。針對非感染性手指的實驗請求需經研究小組同意。針對感染性手指的實驗請求需站點主管批准，且只能針對D級對象執行；在此些實驗過後，受感染的人員將被記憶刪除，並被遣返回職務中。
+
+------
+
+**描述：**SCP-8217-1是一組於2024年6月8日時，出現在Site-48研究員Masha Straschnov辦公桌上的22根手指。基因測試確認了這些手指皆來自同一隻尚未確定種族的類人生物。每根長度落於為5到8公分之間，而且似乎是被暴力切斷的。
+
+當個體觸碰SCP-8217-1實例時，每個實例都會讓觸碰者看到不同生命的視野，而此生命位於一顆外星星球上。在視野中，所有具智慧的生物都將被感知為人類；這些生物的真實外觀（假如仍然存在的話）未知。一小部分SCP-8217-1視野會導致暴露在其中的個體出現一種目前仍未理解的失調症，此失調症將會導致感染者出現高度侵略性，以及對人類滅絕的概念感到更加安心。為了避免此症狀，AIC將自動遮蔽「有感染性」的視野。
+
+透過SCP-8217-1視野背景中可見天文現象的相對大小，基金會天文學家成功利用三角測量定位了被描繪的星球（被編號為SCP-8217-2），並透過太陽系外的觀測陣列取得了一張此星球的圖片。
+
+從軌道上來看，SCP-8217-2表面呈現單一顏色，而且缺乏地理特徵，這點與在SCP-8217-1視野中觀察到植被茂盛的星球毫無相似之處。星球表面上各處可見不斷持續的爆炸。SCP-8217-2具有兩顆月亮繞其運行；其軌道速度似乎顯示SCP-8217-2的密度與動物生物質接近。
+
+下文為一部分SCP-8217-1的視野紀錄。
+
+------
+
+[[div style="color: black; background:#d5ffff; float: center; border: solid 1px #000000; padding: 15px 15px; box-shadow: 0 1px 3px rgba(0,0,0,.2); width: 84%; margin-left: auto; margin-right: auto; margin-bottom: 4%; margin-top: 4%;"]]
+[[=]]
+**編號：**SCP-8217-4-1 | **感染性：**陰性
+------
+**相關視野紀錄：**
+
+[[/=]]
+
+你是Hanu Cealal，幾乎不是國王。
+
+你很累，累到骨子裡。你在環繞著半圓房間的鍍金玻璃窗上看見了自己。你的綠色長袍因劇烈騎乘而破損。你的頭頂沒有皇冠蓋著。你違背了助理的建議，並將視線往上移：數十位國王聚集在此，而且他們的臉色都不怎麼好看。幾名次子坐在人群中，編著金色絲綢的衣物綁住了他們空眼窩。你思考著有哪些人殺了他們的親戚。你思考著他們怎麼做的。
+
+管家轉向你。他是名瘦弱的男子，被所有人信任著。完美無瑕，又遭人唾棄。你向他點了點頭。他同樣點頭，然後將臉面向人群。「請耐心聽著。請耐心聽著。管家將主席的地位交給被剝奪者。」
+
+你走上講台。「謝謝。謝謝各位國王聚集在此。謝謝皇家聯邦。謝謝歌之聖水盆。我騎了好久。我自很久以前就在害怕這天。我對Cealalia的擁有權被我的孩子奪走了，而我被逐出自己的土地，我理應擁有的領土。他從我頭上奪走了王冠；他將我送上了這殘酷的旅途；他對我的稱號連一絲子女的尊重都沒––」
+
+一道聲音從上方傳出。「國王，」它說，「你的苦難你自己承擔。」
+
+「請耐心聽著，」你說道，然後嘆了口氣。「我是來頌棄[[footnote]]譯註：原文為sing my lands away[[/footnote]]我的土地的。」
+
+「百分之二十的戰利品，」聲音從最上層傳出。是Carrigan國王，而在他發表後，Cirhin國王爆發出一陣笑聲。
+
+「幹嘛像個乞丐一樣只拿這些呢？」Cirhin問道。
+
+「Cealalia不是塊富裕的土地，」Carrigan說道。「而其中皇室的王冠有某些會讓此皇室變得難以擊敗的能力。我不覺得為了一小堆黃金而與十萬個複製人戰鬥是個好點子。」
+
+「請問我是否能多加描述那頂王冠？」你說道。
+
+「請，」Carrigan說道。
+
+「王冠的持有者將獲得一些能力，大部分的標準能力形式都近似低等級的魔法工藝品：傳送小型物品、透過接觸傳達記憶。這些各位陛下們都很熟悉。」
+
+「那些明顯不是我在說的能力。」
+
+「是的。王冠唯一的主要特性——如Carrigan國王指涉的——為使其持有者能夠複製自身的能力。但這項能力有諸多限制，削弱了它在戰爭中的實用性。複製體無法自主移動。持有者能一次移動所有複製體，或一次一個，但沒辦法同時讓一個射擊又讓另一個走路。由這種複製體組成的軍隊永遠無法度過河川，也無法做出任何需要多人同時採取多種不同動作的行動。此外，持有者將會感受到每一個複製體的痛苦，而且必須大量進食，直到他的胃部開始鼓起，複製才會開始。複製體通常只被用來阻礙暗殺；各位陛下遇到複製體軍團的機率小到幾乎沒有。」
+
+「為什麼表明這點？」Carrigan問道。
+
+「來確保你的投資是完善的，」你說道。「我戴著王冠好幾年了。我對那東西的限制瞭如指掌。」
+
+「我沒有被說服。」
+
+「我有，」Cirhin說道。「百分之六十。」
+
+議院陷入沉默。你也陷入沉默。這是議院提過最高的戰利品分成；沒人知道Cirhin究竟要怎麼透過他的征戰來獲利。
+
+「真是慷慨的提議。謝謝。謝謝。等我恢復王位後，你想要要求什麼對你有利的交易嗎？」
+
+Cirhin國王再度笑出聲來。
+
+「國王，當我的軍隊穿過你的土地時，那裡將再無可供交易事物，再無能夠交易的人們，也不會有你能坐回去的王座。但你將不再需要那些人們——你的財富將如太陽般廣大。」
+
+你在鍍金的玻璃窗上看見你的笑容。
+
+[[/div]]
+
+[[div style="color: black; background:#d5ffff; float: center; border: solid 1px #000000; padding: 15px 15px; box-shadow: 0 1px 3px rgba(0,0,0,.2); width: 84%; margin-left: auto; margin-right: auto; margin-bottom: 4%; margin-top: 4%;"]]
+[[=]]
+**編號：**SCP-8217-4-3 | **感染性：**陰性
+------
+**相關視野紀錄：**
+
+[[/=]]
+
+你是Carrigan國王，富有，又謹慎。你的傭人坐在離你八十呎外的地方，半圓房間的另一頭。當會面結束後，你將會在不到一小時內與他們重聚。他們就是群專門打理的雋言妙語。他們知道你心情惡劣。你很常跟他們在一起，你甚至為此將他們，在某種程度上當作自己的一部分。他們是你大腦中的一部分，負責平息憤怒，負責處理當你還只是繼承人時要處理的事。王室就是第二段童年期。你知道Cirhin也是個孩童。
+
+「百分之六十？」你低語道。「你連賺到一塞斯特斯的機會都沒有。」
+
+「喔，我不是為了利益，」Cirhin說道。
+
+「那你是為了王冠嗎？」
+
+「啊，我會把那個還給Hanu，等我殺了他的所有親戚後。假如他想要個新的家庭，那他可以創造一個他想多大就有多大的家庭，裡頭只有他曾在乎過的人。」
+
+「那麼，為了娛樂？」
+
+「部分是。但大部分是因為我的顧問發明了一個有著空前絕後力量的武器。他告訴我，那武器攻擊相當完美。那轟炸是如此廣泛，它將於歌中演奏全新的輓歌。它將飛翔於高空，於無人能觸及之處。而僅僅是看到那東西就會將人推向瘋狂的野性之中。在我的指揮下，我們已經建造了一百個。我還沒親自看過，但測試顯示我們正站在新世界的開端。」
+
+「這聽著就像國家機密一樣。」
+
+「沒錯。我現在告訴你是因為已經晚了，也無法避免此事了。」
+
+「擊敗Cealals肯定不需要動用這種武力吧？」
+
+「我只是想讓所有人看見我們的力量。這將會讓掠奪變得更加簡單，這將會加速對方未來投降的速度，而且，當時機成熟，我們該修復彼此之間的歷史隔閡時... 嗯，Carrigan，別在意那件事。我只是想震撼全世界。讓這世界感到不安。」
+
+「你確實讓我感到很不安。」
+
+「很好的開始，」Cirhin說道。「但不，我不在乎Cealalia。所以那片土地將會徹底燃燒殆盡。」
+
+[[/div]]
+
+[[div style="color: black; background:#d5ffff; float: center; border: solid 1px #000000; padding: 15px 15px; box-shadow: 0 1px 3px rgba(0,0,0,.2); width: 84%; margin-left: auto; margin-right: auto; margin-bottom: 4%; margin-top: 4%;"]]
+[[=]]
+**編號：**SCP-8217-4-4 | **感染性：**陰性
+------
+**相關視野紀錄：**
+
+[[/=]]
+
+你是Rosu Cealal，新成為的國王，十六隻眼與八顆頭的舵手。其中一人被關了起來，做為備用，以免災難發生。那名被指定的救世主，它只能看見監禁室中鋪滿墊子的乾淨牆壁。其他七位待在王座室中；六位躺在大廳的陰影裡，靜止不動，而第七位，你目前注意力的接收者，坐在王座上。當你獲取你的王座時，王冠的重量在你頭上感覺相當輕盈。你思考了一下：為什麼不早一點呢？
+
+現在你只在思考著你當初為何讓父親活了下來。
+
+你的左手邊坐著你那不苟言笑的將軍；你的右手邊坐著你年輕的兄弟，無眼Seh，繃帶包住了他的臉，他的助理在他身後輕托著他。你的大臣們早已離開了房間，他們跟你以同樣的方式被嚇著了。Ansem，漁業領主，不敢與你四目相覷。他在不到二十分鐘前倉促離去了。你很確定他現在正騎著前往內地的快馬。你想換掉他。你思考著為什麼你要為此煩惱；他很快就會隨著Hanu回來了。你知道這些皇家聯邦的行事風格：鎖定目標侵略，快速投降，加重賦稅來付清征服者，然後慢慢回歸常態。你父親曾資助過一場侵略，而那次資助給了他一大筆可觀的回報。
+
+你思考著你是否應該逃跑。
+
+「Cirhinia內的間諜有傳任何訊息過來嗎？」你問道。
+
+「很不幸的，有，」將軍說道。「有一則信息說Cirhin試圖造成的損害將會... 很不尋常地嚴重，對一場皇家聯邦干涉來說。」
+
+「我們知道那是什麼意思嗎？」
+
+「我認為是要我們最好認真看待Cirhin，但這不一定總是字面上的意義，」將軍說道。「但看來他最近正在他的宮殿中走來走去，不斷表明他想要看到我們的整片土地燃燒。」
+
+「我們能跟他談判嗎？我對直接傳送一份信函到他的宮廷中感到不怎麼光榮。」
+
+「我已經先自己聯繫了。」
+
+「在我沒有允許的狀況下？」
+
+「只是試探一下而已。情況最近發展很快。」
+
+「沒希望了，是吧？」
+
+「別這麼說。」
+
+「他願意談判嗎？」
+
+「不。他似乎很渴望展示他的新武器。他的飛船。」
+
+「也許我們... 我們放棄一兩座城鎮，讓他展示。」
+
+「我... 我會聯絡他們。但我不怎麼樂觀。」
+
+「對於那艘飛船，我們知道些什麼？」
+
+「就是塊飄在空中的堅固軟骨，像天空中的鯨魚，而且會掉落爆炸物。」
+
+「所以他們給那東西上了爆炸物？」
+
+「不。不，那東西生下了爆炸物。就像生蛋。這肯定是魔法。我們成功在生產線上插入了一名間諜，然後...」
+
+「我們有聽到了什麼嗎？」
+
+「沒什麼有用的。我們收到了... 啊，七十則訊息。但全都是些莫名其妙的話。沒有加密，就只是胡言亂語。比如說『我們的世界建造了自己的孩子。』『你的血注定要獻給什麼？』『歌結束了。』『新人類飛翔著。』還有，不斷重複的，『他們死總比我們死好。』」
+
+「有人在捉弄我們嗎？」
+
+「我不這麼認為。不。就我們對那艘飛船的整體知識來說，我們必須要再加上『看見那東西的所有人都會變得病態』這點。」
+
+[[/div]]
+
+------
+
+[[include :scp-wiki:component:parawatch-forum-post
+| username=Site-592主管Russ Braithwaite | color=blue
+| date=08.22.2024 | postno=8217DA011
+| depth=0 by-russ | content=
+情況變糟了。O5-07，請回復。
+]]
+
+[[include :scp-wiki:component:parawatch-forum-post
+| username=O5-07 | color=blue
+| date=08.22.2024 | postno=8217DA012
+| depth=0 by-seven | content=
+講。團隊已經在路上了。
+]]
+
+[[include :scp-wiki:component:parawatch-forum-post
+| username=Site-592主管Russ Braithwaite | color=blue
+| date=08.22.2024 | postno=8217DA013
+| depth=0 by-russ | content=
+飛船的圖片能傳播自身。他們把那圖片傳到四處了。有些能被記憶刪除；有些不行。我們當場失去了十二人，也可能更多。我們把另外六十個感染者擋在主建築的東南角了。有些跑進了牢房中；如果我們幸運的話，他們已經死了。
+]]
+
+
+[[include :scp-wiki:component:parawatch-forum-post
+| username=O5-07 | color=blue
+| date=08.22.2024 | postno=8217DA014
+| depth=0 by-seven | content=
+那大概是多久前發生的？
+]]
+
+[[include :scp-wiki:component:parawatch-forum-post
+| username=Site-592主管Russ Braithwaite | color=blue
+| date=08.22.2024 | postno=8217DA015
+| depth=0 by-russ | content=
+不確定。我問一下。大概十分鐘；九十秒前才穩定下來。
+]]
+
+[[include :scp-wiki:component:parawatch-forum-post
+| username=O5-07 | color=blue
+| date=08.22.2024 | postno=8217DA016
+| depth=0 by-seven | content=
+你不確定？
+]]
+
+[[include :scp-wiki:component:parawatch-forum-post
+| username=Site-592主管Russ Braithwaite | color=blue
+| date=08.22.2024 | postno=8217DA017
+| depth=0 by-russ | content=
+我不記得。有人告知我說我把手機打開後有名助理抓住了我。
+]]
+
+[[include :scp-wiki:component:parawatch-forum-post
+| username=O5-07 | color=blue
+| date=08.22.2024 | postno=8217DA018
+| depth=0 by-seven | content=
+那名助理還在你身邊嗎？
+]]
+
+[[include :scp-wiki:component:parawatch-forum-post
+| username=Site-592主管Russ Braithwaite | color=blue
+| date=08.22.2024 | postno=8217DA019
+| depth=0 by-russ | content=
+不。明顯死了。很可能是我親手殺的。我醒來後身上沾滿了血。
+
+此外，這一切都是永久性的，而且我知道這點。我還在試著適應這個。這東西感覺就像我腦中的聲音開始尖叫了。
+]]
+
+[[include :scp-wiki:component:parawatch-forum-post
+| username=O5-07 | color=blue
+| date=08.22.2024 | postno=8217DA020
+| depth=0 by-seven | content=
+你那裡有沒被感染/記憶刪除而且能跟我說話的人嗎？
+]]
+
+[[include :scp-wiki:component:parawatch-forum-post
+| username=Site-592主管Russ Braithwaite | color=blue
+| date=08.22.2024 | postno=8217DA021
+| depth=0 by-russ | content=
+你沒辦法這麼簡單就把我趕走的。
+]]
+
+[[include :scp-wiki:component:parawatch-forum-post
+| username=O5-07 | color=blue
+| date=08.22.2024 | postno=8217DA022
+| depth=0 by-seven | content=
+Russ，我們已經一起工作好幾年了。你想太多了；就只是這樣。我可以跟你保證沒人會叫你為了你在認知危害影響下做出的行為負責的。
+
+你不是昨天才加入的。我很確定你也曾在辦公桌的另一頭，告訴某人沒人會因為某種東西佔據了他們思想，就必須要為了他們在那段期間做出的事負責的。
+
+我只是需要與有著與收容失效相關記憶的人說話，好理解你在592需要些什麼。
+]]
+
+[[include :scp-wiki:component:parawatch-forum-post
+| username=Site-592主管Russ Braithwaite | color=blue
+| date=08.22.2024 | postno=8217DA023
+| depth=0 by-russ | content=
+沒有。我等等會四處問一下。現在，請你在現有的團隊上再加一隻MTF，好嗎？
+]]
+
+------
+
+[[div style="color: black; background:#FFCCCB; float: center; border: solid 1px #000000; padding: 15px 15px; box-shadow: 0 1px 3px rgba(0,0,0,.2); width: 84%; margin-left: auto; margin-right: auto; margin-bottom: 4%; margin-top: 4%;"]]
+[[=]]
+**編號：**SCP-8217-4-7 | **感染性：**##Red|陽性##
+------
+**相關視野紀錄：**
+
+[[/=]]
+
+你正在走過平原。
+
+當你抵達時，他們全都在看著。你看見這麼多雙眼看著，這讓你打了個冷顫。這種恐懼，這份工作即將完成。然後，一個接一個，他們看向你頭上的██████塊，████████████████​​██████████████。你看見他們雙膝發軟。他們的臉龐上出現了笑容。他們理解了自身的命運。他們渴望這點。當他們戰鬥時，他們並非出於希望，而是出於對那東西的熱愛。是種狂熱，但又遠遠凌駕於這種情感之上。是屠殺的快感。你盼望著自己的死期，但在那之前還有如此多的娛樂之事。你和你的兄弟們把他們的屍體搬到了前門，然後將其點燃。然後，在遠處，飛船生下了它的蛋，並落到村莊的殘骸上。如此不成比例。一片殘骸，比它取代的村莊還要大上許多。你看著，然後愛自你的心中油然而生，那是當一名孩子遠遠超過父親時，那名父親心中感受到的愛，然後你繼續行走。
+
+清潔你的武器看起來相當可恥。你希望所有的血都留在上頭。你希望能在看向武器時一次看見所有努力的成果。
+
+你穿著Cirhinia的紫紅長袍，但你並非為了Cirhin而行走。你為了你的男孩行走。他是如此聰慧，如此迷人。你願意給他整個世界。
+
+[[/div]]
+
+[[div style="color: black; background:#f7f7f7; float: center; border: solid 1px #000000; padding: 15px 15px; box-shadow: 0 1px 3px rgba(0,0,0,.2); width: 84%; margin-left: auto; margin-right: auto; margin-bottom: 4%; margin-top: 4%;"]]
+[[=]]
+**節錄到的文句**（SCP-8217-4-5的背景視野）
+------
+[[/=]]
+
+而司令同樣幻想著——
+一艘全新的大飛船
+如憎恨般廣大
+如大陸般緩慢
+比日出還理所當然
+如時間般穩固
+將其火焰釋放於一片土地，而其傷痕是如此之多
+燃燒前與後毫無區別。
+飛船以深淵中迴響的鯨歌
+在那事物成為真實前的地方呼喚他，
+而他知道
+當他死去之時
+他將會騎上那偉大的飛船
+直到飛船將土地一掃而空，並將其留在後頭
+然後繼續航行
+比日出還理所當然
+如節拍器般穩定
+直到他遺忘天空的末端
+
+[[/div]]
+
+------
+
+[[include :scp-wiki:component:parawatch-forum-post
+| username=O5-07 | color=blue
+| date=08.22.2024 | postno=8217DA024
+| depth=0 by-seven | content=
+我調出了前幾分鐘的紀錄。不確定這怎麼發生的，但起碼可以確認，一名副駕駛員在開車過來時沒有戴過濾器。我們之後會發起調查。我唯一能告訴你的就是第二支隊伍已經接獲通知了，而且再四十分鐘後就會抵達。
+]]
+
+[[include :scp-wiki:component:parawatch-forum-post
+| username=Site-592主管Russ Braithwaite | color=blue
+| date=08.22.2024 | postno=8217DA025
+| depth=0 by-russ | content=
+好。
+]]
+
+[[include :scp-wiki:component:parawatch-forum-post
+| username=Site-592主管Russ Braithwaite | color=blue
+| date=08.22.2024 | postno=8217DA026
+| depth=0 by-russ | content=
+車禍摧毀了東南建築的一部分。有些感染者逃了出來，然後前往了東北邊。有幾個王八蛋沒有把某扇門擋好，然後目前就我所知，又死了四個人。還失去了另外兩個標準單元。此外，可能還有幾個感染者正在沙漠裡遊蕩。
+]]
+
+[[include :scp-wiki:component:parawatch-forum-post
+| username=O5-07 | color=blue
+| date=08.22.2024 | postno=8217DA026
+| depth=0 by-seven | content=
+你知道感染者中損失了誰嗎？
+]]
+
+[[include :scp-wiki:component:parawatch-forum-post
+| username=Site-592主管Russ Braithwaite | color=blue
+| date=08.22.2024 | postno=8217DA027
+| depth=0 by-russ | content=
+還不清楚，但他們肯定發出了很多噪音。而且我們仍然能存取生命跡象的追蹤面板，所以我們知道收容室裡至少死了六個人型異常。
+]]
+
+[[include :scp-wiki:component:parawatch-forum-post
+| username=Site-592主管Russ Braithwaite | color=blue
+| date=08.22.2024 | postno=8217DA028
+| depth=0 by-russ | content=
+他們在窗戶上畫了壁畫。有試圖收容了。壁畫內容是飛船的描繪，我猜。這不太好。
+
+壁畫用的材料就跟你認為的材料一樣。
+]]
+
+------
+
+[[div style="color: black; background:#FFCCCB; float: center; border: solid 1px #000000; padding: 15px 15px; box-shadow: 0 1px 3px rgba(0,0,0,.2); width: 84%; margin-left: auto; margin-right: auto; margin-bottom: 4%; margin-top: 4%;"]]
+[[=]]
+**編號：**SCP-8217-4-10 | **感染性：**##Red|陽性##
+------
+**相關視野紀錄：**
+
+[[/=]]
+
+在遠方的幾輪砲火中，一隊Cirhinian士兵開始刺殺彼此。這片泥淖已經沒了管理者，只有生出他們的飛船與團塊。再多的抵抗也無法合理化有條理的和平。不需要這麼多士兵來結束這片土地。
+
+對某些人，對幸運的人來說，他們不需要延緩死亡的狂歡。
+
+在火焰的中間，一名男子開始說話了。
+
+「如果你前往太空，你只會看到建築與道路。那不是我們的足跡。那是就是我們自身。我們幾乎不是人類。我們是蝌蚪。他們是青蛙。我們是胚胎的中期型態，是蟲蛹，而它們才是真正的生命，毫無生命，而我們終於建造了一個能夠自立自強的。」
+
+他暫停了一下。他注視著火焰，眼中滿是神聖的強烈感情。
+
+「我們曾以為我們是人類。我們不是。我們是穀殼。而很快，我們的孩子就不再需要我們了。」
+
+你不知道為什麼他要說這些。你知道這些。你在第一次看到頭上那東西的美妙之處時，你就理解了。███████████████​​█████████████。███████████​​████████████。然後你想到了。他在試圖讓你的陣營感到無聊，然後為此感到憤怒。他想要被殺。
+
+你站了起來。「你這自私的混蛋，」你說道。「還沒輪到你。」
+
+他露出微笑。他抓起了他的武器。火焰旁的其他人開始慶祝。他們很忌妒你。他們希望他們有先想到要先站起來，要奪下這一刻，要獲得戰鬥的機會。但你對此想了想。你完全不想要成全他。
+
+你不想。
+
+隔天，陣營啟程了。他被留在空蕩的平原上，哭喊著要水。腹部剖開，朝向天空。最終，一艘流浪的飛船會殺了他的。或口渴，或感染。想著此事讓你露出了微笑。他應該有耐心一點的。
+
+[[/div]]
+
+------
+
+[[div style="color: black; background:#f7f7f7; float: center; border: solid 1px #000000; padding: 15px 15px; box-shadow: 0 1px 3px rgba(0,0,0,.2); width: 84%; margin-left: auto; margin-right: auto; margin-bottom: 4%; margin-top: 4%;"]]
+[[=]]
+**節錄到的文句**（SCP-8217-4-6的背景視野）
+------
+[[/=]]
+
+空虛總比失去好。
+鋼鐵總比血肉好。
+寒冷總比熱量好。
+
+火焰總比其取代之物好。
+
+寂靜總比歌曲好。
+死亡總比停滯好。
+他們死總比我們死好。
+
+[[/div]]
+
+[[div style="color: black; background:#d5ffff; float: center; border: solid 1px #000000; padding: 15px 15px; box-shadow: 0 1px 3px rgba(0,0,0,.2); width: 84%; margin-left: auto; margin-right: auto; margin-bottom: 4%; margin-top: 4%;"]]
+[[=]]
+**編號：**SCP-8217-4-14 | **感染性：**陰性
+------
+**相關視野紀錄：**
+
+[[/=]]
+
+你是Cirhin國王，站在你的戰爭大臣門前。
+
+「陛下，我可以跟你談論一些新武器點子。」
+
+「有什麼意義嗎？」
+
+他露出微笑。「說的對，陛下。//有//什麼意義嗎？」
+
+「我在想飛船是否有其他... 早期的原型。在你選定目前的設計前。」
+
+「從來都沒有原型。」
+
+「你是說飛船最初的設計就是它目前的樣子？」
+
+「不，我沒有設計它。我兩年前在沙漠中找到了第一艘飛船。駕駛員座位上有些骨頭，那是一隻我從沒見過的動物。那堆骨頭早已石化，死了幾千年了。我猜，那東西來自另一個世界。另一個製造了這些飛船以供為己用的世界。」
+
+「為什麼你之前都沒//告訴//我這些事？」
+
+「你不會理解的。」
+
+「直到我看到那東西為止。」
+
+「直到你看到那東西為止。//現在//你理解了。」
+
+「所以那東西為什麼過來了？」
+
+「你已經在理解了。你沒有問為什麼那隻動物把它開過來了。你問它為什麼過來了。」
+
+「回答。」
+
+「它過來是因為它想要複製自身。」
+
+「但什麼東西觸發了這點？我們的飛船都沒有前往群星。」
+
+「不，還沒。它們也會的。這個，也是那東西的一部分：痕跡器官會衰變，毛毛蟲在蛻變中被吞噬，孩子們埋葬父母即是他們的命運。那些飛船以智慧生命為目標，而雖然他們以Cealalians為開端，他們在我們從這塊土地上被刷洗掉前是不會停止的。只有到了那時，它們才會轉向群星。」
+
+大臣從他的杯子中喝了一口。
+
+「疾病，憤怒，就像是導致一顆細胞死亡的訊號。它的用意是幫助我們臣服於他們。臣服於這些四處遊玩的猛獸，而這世界僅僅是為了他們而建造的。」
+
+你用驚嘆的眼神盯著你的大臣。過了一會兒，四個字從你嘴中溜出。
+
+「那樣好美。」
+
+[[/div]]
+
+[[div style="color: black; background:#d5ffff; float: center; border: solid 1px #000000; padding: 15px 15px; box-shadow: 0 1px 3px rgba(0,0,0,.2); width: 84%; margin-left: auto; margin-right: auto; margin-bottom: 4%; margin-top: 4%;"]]
+[[=]]
+**編號：**SCP-8217-4-16 | **感染性：**陰性
+------
+**相關視野紀錄：**
+
+[[/=]]
+
+你是一名旅行者。你很餓。你在看見了遠方霧中的村莊燈光。
+
+你知道以前有更多村莊的。
+
+[[/div]]
+
+[[div style="color: black; background:#d5ffff; float: center; border: solid 1px #000000; padding: 15px 15px; box-shadow: 0 1px 3px rgba(0,0,0,.2); width: 84%; margin-left: auto; margin-right: auto; margin-bottom: 4%; margin-top: 4%;"]]
+[[=]]
+**編號：**SCP-8217-4-19 | **感染性：**陰性
+------
+**相關視野紀錄：**
+
+[[/=]]
+
+你是Seh。你什麼都看不到。你兄弟的屍體堆滿了整個洞穴。空氣有些悶，但寒冷。你上方的石頭如此之多。你幾乎能感受到它們的重量。
+
+「糧食遲到了，」Rosu從數張嘴巴中說道。
+
+「遲了多久？」
+
+「一小時。」
+
+「喔。也許在路上了。」
+
+「不。不。重點不是食物。我是//最優先//被分配到的。如果食物供應出現了中斷，那表示... Seh，我們完全不知道上面發生了什麼。」
+
+「你在上面沒有備用嗎？能檢查狀況的？」
+
+「//這//就是我的備用。你在跟我的備用//說話//！」
+
+「你在擔心糧食嗎？」
+
+「對。有點。如果情況惡化的話。」
+
+你很小心，謹慎用字。
+
+「你能將吃下的//任何東西//轉換成生物質，藉此來複製自身。」
+
+「對，但那不會給我任何營養，而且也對你沒什麼用。」
+
+「不對。但這就代表，即使是在下面這裡，你仍能創造無限量的複製體。沉默而且幾乎沒有意識。」
+
+Rosu停了下來。「Seh。我會感受到//他們所有人的痛苦。//」
+
+「對。你會想要在吃他們之前殺了他們的。」
+
+「這真是極度令人反感。我... 我無法將其看待為比死亡好的選項。」
+
+「如果你不想的話，你可以把王冠給我，然後我就會做這件事。」
+
+沉默。他嚇得目瞪口呆。
+
+「謝謝你，Seh。」他的聲音柔軟而且微弱。「我不... 我不想要。但我會記住的。」
+
+你沒有說話。你還能說什麼？
+
+安靜了好一陣子。很難說多久。一陣微風從洞穴的中間開始吹過來，並摩擦了你的腳趾。
+
+你聽見他在哭泣。只有一人。其他人都在沉默。你伸出了你的手並讓他承受這一切。
+
+[[/div]]
+
+
+------
+[[include :scp-wiki:component:parawatch-forum-post
+| username=Site-592主管Russ Braithwaite | color=blue
+| date=08.22.2024 | postno=8217DA029
+| depth=0 by-russ | content=
+你說過一隻MTF在路上的。
+]]
+
+[[include :scp-wiki:component:parawatch-forum-post
+| username=O5-07 | color=blue
+| date=08.22.2024 | postno=8217DA030
+| depth=0 by-seven | content=
+對於迅速記憶刪除未經武裝的人員來說，送一隻外部維安團隊是常見的做法。
+]]
+
+[[include :scp-wiki:component:parawatch-forum-post
+| username=Site-592主管Russ Braithwaite | color=blue
+| date=08.22.2024 | postno=8217DA031
+| depth=0 by-russ | content=
+我說了我們需要一隻MTF。
+]]
+
+[[include :scp-wiki:component:parawatch-forum-post
+| username=O5-07 | color=blue
+| date=08.22.2024 | postno=8217DA032
+| depth=0 by-seven | content=
+你收到的團隊有什麼問題？
+]]
+
+[[include :scp-wiki:component:parawatch-forum-post
+| username=Site-592主管Russ Braithwaite | color=blue
+| date=08.22.2024 | postno=8217DA033
+| depth=0 by-russ | content=
+我可以在窗戶外看到其中一位的手臂。
+
+我認識障礙物另一頭的同伴們。牆壁沒有隔音。
+
+對於現況我已經知道的夠多了。
+]]
+
+[[include :scp-wiki:component:parawatch-forum-post
+| username=O5-07 | color=blue
+| date=08.22.2024 | postno=8217DA034
+| depth=0 by-seven | content=
+MTF在路上了。
+]]
+
+
+[[include :scp-wiki:component:parawatch-forum-post
+| username=Site-592主管Russ Braithwaite | color=blue
+| date=08.22.2024 | postno=8217DA035
+| depth=0 by-russ | content=
+我的手機上還有那張照片。如果我沒在五十分鐘內接到支援，我就要把那張照片傳遍站點主管網路。
+]]
+
+[[include :scp-wiki:component:parawatch-forum-post
+| username=O5-07 | color=blue
+| date=08.22.2024 | postno=8217DA036
+| depth=0 by-seven | content=
+Russ，你沒必要這樣。我們已經在盡力了。把那張照片傳遍網路至少會讓幾千人死亡，最糟可能幾十億人。此舉還會無可挽救地摧毀你的遺物，和許多其他東西。
+]]
+
+[[include :scp-wiki:component:parawatch-forum-post
+| username=Site-592主管Russ Braithwaite | color=blue
+| date=08.22.2024 | postno=8217DA037
+| depth=0 by-russ | content=
+你看起來不認為這邊的情況足夠緊急。你只是在試著回復現場狀況。
+]]
+
+[[include :scp-wiki:component:parawatch-forum-post
+| username=O5-07 | color=blue
+| date=08.22.2024 | postno=8217DA038
+| depth=0 by-seven | content=
+好吧。我會把「基金會相當願意遵從個人與其中合夥人的命令」加到基金會紀律中的，違反新式條例時的專門懲戒體系那部分。
+]]
+
+[[include :scp-wiki:component:parawatch-forum-post
+| username=Site-592主管Russ Braithwaite | color=blue
+| date=08.22.2024 | postno=8217DA039
+| depth=0 by-russ | content=
+總算。
+]]
+
+[[include :scp-wiki:component:parawatch-forum-post
+| username=Site-592主管Russ Braithwaite | color=blue
+| date=08.22.2024 | postno=8217DA040
+| depth=0 by-russ | content=
+如果我是你的話，我可不會在威脅上花時間。
+
+你沒有那麼多時間。
+]]
+------
+
+[[div style="color: black; background:#ffcccb; float: center; border: solid 1px #000000; padding: 15px 15px; box-shadow: 0 1px 3px rgba(0,0,0,.2); width: 84%; margin-left: auto; margin-right: auto; margin-bottom: 4%; margin-top: 4%;"]]
+[[=]]
+**編號：**SCP-8217-4-20 | **感染性：**##Red|陽性##
+------
+**相關視野紀錄：**
+
+[[/=]]
+
+你曾經有過名字，但會叫你名字的人們都消失了。
+
+你用四足爬行的方式，穿過另一片冒著煙的平原邊緣，你的臉離地面只有幾英寸。塵與灰侵犯著褪去皮膚上的條紋。昨天，你剛好在一次轟炸的邊緣。你很幸運。你那鮮紅、紅腫的手臂甩了又甩。甩了又甩。你的汗水滴落，其中混雜著微小的薄片。如果這地方過去是你想的那座小鎮，那你離河邊肯定不到五英里遠。那裡流著淡水。//那條河//肯定沒有停止流動。
+
+風呼嘯著。一分鐘的涼意，雖然這擦傷了你燒傷的背。你...
+
+你坐了起來，強迫自己像流體一樣移動。痛苦一次全落了下來，而你哭了。你在風中聞到了腐爛的血肉。在你面前，███████████████​​████████████████​​█，在你頭上。它低語著蔑視。你當下立刻知道了，你不值得憎恨。█████​​████████████████​​。你思考著誰獲得了這份機會。來聽見歌，來看見發出歌的嘴唇，來理解你也是最後聽見歌的人們之一，因為發出者很快就要結束歌了。
+
+它為你展示了真相，而你很感激它。
+
+它的爆炸物壓垮了你。你在爆炸前便已死去，你被塗抹在空蕩的平原，前任租賃人被送離了他們的家園。不，世界一直以來都不是你的。
+
+[[/div]]
+
+[[div style="color: black; background:#d5ffff; float: center; border: solid 1px #000000; padding: 15px 15px; box-shadow: 0 1px 3px rgba(0,0,0,.2); width: 84%; margin-left: auto; margin-right: auto; margin-bottom: 4%; margin-top: 4%;"]]
+[[=]]
+**編號：**SCP-8217-4-21 | **感染性：**陰性
+------
+**相關視野紀錄：**
+
+[[/=]]
+
+你是Seh。如此多的空眼窩。
+
+你感覺到他捅進了你的心臟。你感覺到他捅進了你的心臟。你感覺到他捅進了你的心臟。
+
+不知道你已經在下面待了多久。在歌之中已經過了幾單位的時間。在你的頭頂上方，偶爾會傳來遠處的爆炸聲。你吃著自己的腰部肉。在整個房間中，他的屍體不時蠕動著。你的屍體也是。很多緩慢且斷斷續續的腳步聲。
+
+距離你們兩個上次說話已經過了很久。這點大概讓他忘了你還活著。在他能走路，在你能說話前，他奪去了你的雙眼。他並非有意奪走它們。常見的做法。這只是要避免繼承時有所衝突。你將他的肉從嘴邊抹去。單一。全都一樣。而你的身體還剩下什麼？
+
+沒空怨恨了。在世界盡頭，這沒有意義。
+
+他坐在你一旁。
+
+「我們是最後的人了，」他說道。「我們肯定是。我們已經在下面這邊待至少一年了。我一直在數我們睡覺的次數。上方沒有傳來任何消息。」
+
+「所以我們是的話又怎樣？」
+
+「//所以我們是的話又怎樣？//Seh，飛船是被建造來殺掉所有人的。光是看見那些飛船就足以讓人們為了它們而殺戮跟去死。如果我們是最後的倖存者的話，那這顆星球已經死了，而它們只是在等著我們死掉，好讓它們可以逃往群星。」
+
+「外頭肯定還有其他人，待在跟這個一樣深的地堡裡頭。」
+
+「也許吧。一定不多了。我們可能是這世界上最後的生命了。」
+
+「那我們就應該在這下面盡可能待久一點，不是嗎？」
+
+「那樣很膽小懦弱。」
+
+「不。不。當我們死掉時，他們... 第一艘來自某處的飛船。你聽過了。我們自己的間諜說了。我們自己的將軍確認過了。飛船掏空了製造它們的世界，然後前往了太空，並找到了Cirhin。一旦我們死掉後，飛船就會前往太空。現在外頭已經有幾千艘了。它們會找到其他星球。但假如我們能活下來，那我們兩個就能把所有飛船困在這裡。」
+
+「這只是時間問題。在... 五年內？十年內？只要單靠機率，它們就會在我們的頭頂上丟下一顆炸彈。只要有兩三個直接命中，我們就要從世上消失了。不論如何，我們快沒時間了。」
+
+「那我們應該做所有我們能做的事。」
+
+「我不知道我夠不夠堅定。就只是坐在這裡等死。」
+
+「一天。然後再一天。然後別忘了：我也在這。」
+
+「是我的錯嗎？」
+
+「不是。」
+
+「但這件事本來不會發生的，假如我當初沒有...」
+
+「那這不會從Cealalia開始，但它們還是會來到這裡。Cirhin想要使用他的飛船。他會將那些飛船用在某人身上。某個會去頌棄他們土地的人。」
+
+「我... 我真的很想念這個世界。」
+
+「我也是，」你說道。「我想念下雨時世界聞起來的味道。」
+
+「是阿。」他嘆了口氣。「我想念騎乘的感覺。臉上的風。皮膚上的溫暖。我喜歡... 我能夠列一條很長的列表。」
+
+「我們//有//時間。」
+
+Rosu笑了笑。「我願意為了一些蛋糕而做出可怕的事。」
+
+「這挺可信的。我們目前就在為了食物做些可怕的事，而且那食物嘗起來//糟很多//。」
+
+Rosu向前傾。「我要自殺了。也許不是今天。但快了。」
+
+你什麼也沒說。他抓住了你的手。他正戴著王冠；他的記憶在觸碰你的瞬間流入了你。那是他不希望失去的東西。
+
+「我知道這不怎麼光榮，」他說道。「但我真的無法承擔了。」
+
+雙眼。身軀。你的人生還剩下什麼？
+
+「我知道了，」你說道，陷入黑暗。
+
+「愛你，Seh。」
+
+「愛你，Rosu。」
+
+------
+
+已經太晚了，來不及禱告了。不過，還要再幾小時，他們最後幾人才會徹底安靜。在某處，遠方的飛船生下他們的蛋。
+
+你在地上摸索。你爬過你兄弟的屍體，還有你自己的屍體，有些被吃了一半，有些還有溫度。
+
+你摸到了刀子。你將其撿起。你將其放下。
+
+他真的無法承擔。
+
+但//你//可以承擔。
+
+你摸到了王冠，然後將其放在你的頭上。
+
+你從洞穴刮了泥土與灰塵，然後將那些東西塞進你的嘴中。一遍又一遍。填滿你自己。而當你的胃部鼓起並膨脹後你//分裂——//
+
+兩具身體。兩個都很餓。兩個都在刮著牆壁。兩個都在填滿著、分裂著，每個...
+
+你不急。這裡有很多材料。而當你浮出地面時，你的數量便已經大到無法轟炸了。
+
+你正在以十六、三十二張嘴進食。
+
+[[/div]]
+
+------
+
+[[include :scp-wiki:component:parawatch-forum-post
+| username=O5-07 | color=blue
+| date=08.22.2024 | postno=8217DA041
+| depth=0 by-seven | content=
+嗨Russ，來告訴你MTF在十分鐘後就會抵達了。
+]]
+
+[[include :scp-wiki:component:parawatch-forum-post
+| username=Site-592主管Russ Braithwaite | color=blue
+| date=08.22.2024 | postno=8217DA042
+| depth=0 by-russ | content=
+你能在你想要的時候就加速調動。真棒！
+
+不過，我有一些好消息。
+
+有了重大突破。我們成功逃離了庭院，然後給一些倖存的人員提供了記憶刪除劑。不幸的是，他們那邊失去了很多人，但他們成功在分離井的另一頭事先自行清除了一些人，所以我們奪下的速度比我們害怕的要花的時間還快。
+
+我們重新徹底掌控了西北方的建築。看起來所有或幾乎所有感染者都被移到了這邊，所以我們能與東北方建築的倖存者見面。
+
+最糟的部分終於結束了。如果你願意接受建議的話，你可以把MTF送回去了。我們真的只需要一些航空學專家。不用很多；就一些。
+]]
+
+[[include :scp-wiki:component:parawatch-forum-post
+| username=O5-07 | color=blue
+| date=08.22.2024 | postno=8217DA043
+| depth=0 by-seven | content=
+很好。為什麼是航空學專家？
+]]
+
+[[include :scp-wiki:component:parawatch-forum-post
+| username=Site-592主管Russ Braithwaite | color=blue
+| date=08.22.2024 | postno=8217DA044
+| depth=0 by-russ | content=
+好問題。我正在上傳相關圖片。
+]]
+
+[[include :scp-wiki:component:parawatch-forum-post
+| username=Site-592主管Russ Braithwaite | color=blue
+| date=08.22.2024 | postno=8217DA045
+| depth=0 by-russ | content=
+喔，你有認知危害過濾器？真迷人。
+]]
+
+[[include :scp-wiki:component:parawatch-forum-post
+| username=Site-592主管Russ Braithwaite | color=blue
+| date=08.22.2024 | postno=8217DA045
+| depth=0 by-russ | content=
+而且你也把我鎖在網路外了？你真忙。沒關係。有故障保險。站點溝通非常、非常重要。不會那麼簡單就被撤掉的。這就是為什麼我們還能說話，對吧？
+]]
+
+[[include :scp-wiki:component:parawatch-forum-post
+| username=Site-592主管Russ Braithwaite | color=blue
+| date=08.22.2024 | postno=8217DA045
+| depth=0 by-russ | content=
+事實是，我們八成甚至不需要航空學專家。我們可以自己理解。
+
+我很高興你沒有被感染，真的。等不及在你那洋洋得意的臉上看到恐懼了。
+]]
+
+[[include :scp-wiki:component:parawatch-forum-post
+| username=Site-592主管Russ Braithwaite | color=blue
+| date=08.22.2024 | postno=8217DA046
+| depth=0 by-russ | content=
+等不及看著痛苦到來了。
+]]
+
+------
+
+[[<]]
+[[div class="terminal"]]
+[[div class="scanline"]]
+[[/div]]
+[[div class="text"]]
+[[=]]
+歡迎，**###b3ffb3|O5-07##**.
+@@------@@
+[[/=]]
+
+@@>@@ ###b3ffb3|592 /r /n_i /i##
+
+請輸入密語。
+
+@@>@@ ###b3ffb3|火焰正中心湧出數片灑於下方萬物的色彩##
+
+密語接受。請確認。
+
+@@>@@ ###b3ffb3|y##
+
+已確認。
+
+[[/div]]
+[[/div]]
+[[/<]]
+
+------
+
+[[div style="color: black; border: solid 1px #000000; background:#f2f2c2 url(http://scp-wiki.wdfiles.com/local--files/the-great-hippo/scp_trans.png) 20px 20px/20% no-repeat; margin: auto; max-width: 500px; padding:20px; margin-bottom: 10px;"]]
+[[=]]
++++ 連線中斷
+**Site-592**已無法存取Site-01維安電話。部分訊息草稿已被自動送出。[[/=]]
+[[/div]]
+
+[[include :scp-wiki:component:parawatch-forum-post
+| username=Site-592主管Russ Braithwaite | color=blue
+| date=08.22.2024 | postno=8217DA047
+| depth=0 by-russ | content=
+你剛加入時就飛黃騰達了。而我對此點頭哈腰，但我體內有某種想對你展示你的真面目的衝動。我們再過不久就全都要死了但我有足夠的時間來展示我能對你想像的所有東溪就像一顆在最厚該死的落日前就該被吃掉的果子我會讓你哀號尖叫的你這可憐骯髒的婊子我會把你留在我的下方遠處而你會為此舔我的鞋子然後埃嚎求饒就像個噁心的老
+]]
+
+------
+
+[[<]]
+[[div class="terminal"]]
+[[div class="scanline"]]
+[[/div]]
+[[div class="text"]]
+
+Site-592的核彈頭已被遠程啟動。
+
+@@>@@ ###b3ffb3|登出##
+
+成功登出！
+
+@@ @@
+
+[[/div]]
+[[/div]]
+[[/<]]
+
+------
+
+[[div style="color: black; background:#d5ffff; float: center; border: solid 1px #000000; padding: 15px 15px; box-shadow: 0 1px 3px rgba(0,0,0,.2); width: 84%; margin-left: auto; margin-right: auto; margin-bottom: 4%; margin-top: 4%;"]]
+[[=]]
+**編號：**SCP-8217-4-22 | **感染性：**陰性
+------
+**相關視野紀錄：**
+
+[[/=]]
+
+你是Seh。Seh在你上面、下面還有前面，把你重重壓下，沾滿汗水的背貼上了其他沾滿汗水的背，而你的肋骨著火，你身邊的空氣燃燒著。
+
+你低語著，一道輕微的低語聲傳入沒有被肉塊佔據的小裂縫中。你說
+//他們在離地面600公尺的地方漂浮著，而要到達那個高度，考量到464兆平方公尺的表面積，需要280.2千兆立方公尺//
+
+爆炸如心跳般頻繁傳來，而白熱、唐突的劇痛隨之而來，加倍又再加倍，你無法想像任何東西，你無法得知任何東西。
+
+//3,000艘飛船每30分鐘每艘就會掉下一顆42立方公尺的炸彈代表一年就是2.25兆立方公尺//
+
+你停了下來好把你的手指咬下。這些手指可能不是你的。你感覺全都一樣。
+
+//123,750年然後我就可以吃掉飛船然後我就可以死//
+
+你希望生命會在你的巨大屍體上快速發展。
+
+透過你的嘴巴，還有一些推擠，你將你的手指放在你被拔下的手掌中。
+
+//不知道生命在哪，也不知道那裡是否有著生命，送到每個星球上，免得錯過生命，他們來自某處然後要前去別處//
+
+某處，在你的其中一顆頭上，王冠甦醒了。那些手指，充滿了你吃掉的世界的記憶，飄往了他們的目的地。
+
+四周聞起來有如腐臭。尖銳的酸。腐爛的自身與人類的屎。你感覺到了數十億個自己，被吞噬著，吞下排泄物。就連尖叫都很痛。你的痛苦豪不停歇。你承擔不住了。但那痛苦啃咬然後撕裂然後繼續繼續繼續下去。
+
+你喪失了意識，這是一段短暫的幸福瞬間，然後你尖叫著在別處醒了過來。
+
+你即是歌與歌之苦痛。
+
+
+[[/div]]
+
+------
+
+[[include :scp-wiki:component:parawatch-forum-post
+| username=O5-07 | color=blue
+| date=08.22.2024 | postno=8217DB001
+| depth=0 by-seven | content=
+我傳了所有關於引爆-592的檔案，都有符合內部回報的條件。你知道我不是特別好戰的人，但我還是自願提交了屍檢調查申請，好確保他們有遵守最佳程序。
+]]
+
+[[include :scp-wiki:component:parawatch-forum-post
+| username=O5-01 | color=blue
+| date=08.22.2024 | postno=8217DB002
+| depth=0 by-one | content=
+收到。我，這一次，相信你的判斷，但我會親自檢視這份檔案，然後在每週會議結束後召集委員會。
+]]
+
+[[include :scp-wiki:component:parawatch-forum-post
+| username=O5-01 | color=blue
+| date=08.22.2024 | postno=8217DB003
+| depth=0 by-one | content=
+該輪到你主持特設調查了，但假如你認為有必要迴避的話，我會把這個傳給-08。
+]]
+
+[[include :scp-wiki:component:parawatch-forum-post
+| username=O5-01 | color=blue
+| date=08.22.2024 | postno=8217DB004
+| depth=0 by-one | content=
+不過，你真倒楣。
+]]
+
+[[include :scp-wiki:component:parawatch-forum-post
+| username=O5-07 | color=blue
+| date=08.22.2024 | postno=8217DB005
+| depth=0 by-seven | content=
+啊，這個嘛。
+]]
+
+[[include :scp-wiki:component:parawatch-forum-post
+| username=O5-07 | color=blue
+| date=08.22.2024 | postno=8217DB006
+| depth=0 by-seven | content=
+他們死總比我們死好。
+]]
+
+------
+
+[[include :scp-wiki:fragment:scp-anthology-2024-earthworm
+| previous-title=末日恐懼症
+| next-title=獨處恐懼症
+| hub-title=SCP驚選集2024
+| previous-url=scp-8201
+| next-url=scp-8123
+| hub-url=scp-anthology-2024
+]]
+
+[[=]]
+[[module Rate]]
+[[/=]]
+
+[[include :scp-zh-tr:component:license-box
+|author=habaniah]]
+[[include :scp-zh-tr:component:license-box-end]]
+
+
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[SCP-8216]]] | SCP-8217 | [[[SCP-8218]]] >>
+[[/=]]
+[[/div]]

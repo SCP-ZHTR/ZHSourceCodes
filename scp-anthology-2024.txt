@@ -1274,7 +1274,7 @@ SCP驚選集2024 — 直面你的恐懼。
 |color=#e00000 |cover-img=https://scp-sandbox-3.wdfiles.com/local--files/test544/traumatophobia.jpg
 |slug=scp-8217
 |author=habaniah
-|phobia=傷口恐懼症|title=及**吾等**不如及**他人**
+|phobia=傷口恐懼症|title=**他們**死總比**我們**死好
 ]]
 
 [[include :smlt:odule:paella |status=active
