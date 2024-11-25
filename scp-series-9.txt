@@ -250,7 +250,7 @@
 * [[[SCP-8214]]] - [ACCESS DENIED]
 * [[[SCP-8215]]] - [ACCESS DENIED]
 * [[[SCP-8216]]] - [ACCESS DENIED]
-* [[[SCP-8217]]] - [ACCESS DENIED]
+* [[[SCP-8217]]] - 傷口恐懼症：他們死總比我們死好
 * [[[SCP-8218]]] - [ACCESS DENIED]
 * [[[SCP-8219]]] - [ACCESS DENIED]
 * [[[SCP-8220]]] - [ACCESS DENIED]
