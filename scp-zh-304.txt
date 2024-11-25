@@ -1,21 +1,8 @@
 [[include component:scp-meta-title-hiding css-style=classic]]
 
-[[include :scp-zh-tr:theme:word-processor]]
+[[include :scp-wiki:theme:black-highlighter-theme]]
+[[include :scp-wiki:theme:scp-archive]]
 
-[[module CSS]]
-#header h1 a::before {
-    content: 'SCP基金會';
-    color: #333;
-    font-family: 'Baloo Bhaina 2', cursive;
-
-}
-
-#header h2 span::before {
-    content: '控制、收容、保護';
-    color: #0F4699;
-    font-family: 'Baloo Bhaina 2', cursive;
-
-[[/module]]
 [[include info:start]]
 篇名︰**行進插曲**
 2022夏季競賽 第一階段題目：「X」
@@ -45,10 +32,10 @@
 **2019/12/9新增描述：**[[[SCP-043]]]是一張表面無凹槽之複刻版披頭士「The White Album」黑膠唱片，於應播放「革命9」時將會停止轉動並以一位可互動實體聲音替代。
 
 SCP-ZH-304若與[[[SCP-043]]]中實體的聲音一同撥放，將造成[[[SCP-043]]]內的實體進入行進曲時空中，而撥放SCP-ZH-304的人員則取代前述實體，並在SCP-ZH-304撥放結束後恢復原狀。
-
-
+@@ @@
+@@ @@
 = **【附錄304：實驗人員描述】**
-
+> @@ @@
 > 
 >> **實驗日期：**2019/4/6 ~ 2019/4/9
 >> 
@@ -114,7 +101,8 @@ SCP-ZH-304若與[[[SCP-043]]]中實體的聲音一同撥放，將造成[[[SCP-04
 >>> **趙海月研究員：**(本次發生事故304)
 >> 
 > 
-
+@@ @@
+@@ @@
 > = **【事故304】**
 > 
 > = **撰寫人：**Dr. Ming
@@ -125,7 +113,8 @@ SCP-ZH-304若與[[[SCP-043]]]中實體的聲音一同撥放，將造成[[[SCP-04
 > = 
 > = 而[[[SCP-043]]]之研究人員在後續實驗後對其中實體詢問有關行進曲時空的事情，實體亦回答其的確抵達了該時空，並對SCP-ZH-304與時空內聽見的音樂表示欣賞，同時也表現願意再嘗試一次。
 > = 
-
+@@ @@
+@@ @@
 [[collapsible show="附錄304：封套包裝內側文字中文翻譯" hide="關閉"]]
 
 > 
