@@ -659,7 +659,7 @@ SCP驚選集2024 — 直面你的恐懼。
 [[tabview]]
 [[tab X]]
 [[/tab]]
-[[tab 水體恐懼症]]
+[[tab 水恐懼症]]
 
 -----
 
@@ -753,7 +753,7 @@ SCP驚選集2024 — 直面你的恐懼。
 |color=#17aabc |cover-img=https://scp-sandbox-3.wdfiles.com/local--files/test544/aquaphobia.png
 |slug=scp-8380
 |author=TroutMaskReplica
-|phobia=水體恐懼症|title=**表**面**張**力
+|phobia=水恐懼症|title=**表**面**張**力
 ]]
 
 [[include :smlt:odule:paella |status=active
