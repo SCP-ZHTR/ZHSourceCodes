@@ -36,12 +36,12 @@
 ]]
 
 [[div class="darkdocument"]]
-[[=image https://i.imgur.com/NsuyoUB.png width="200px"]]
-@@https://i.imgur.com/NsuyoUB.png@@
+[[=image https://i.imgur.com/vudcft3.png width="200px"]]
+@@https://i.imgur.com/vudcft3.png@@
 [[/div]]
 [[div class="document"]]
-[[=image https://i.imgur.com/1hbm5em.png width="200px"]]
-https://i.imgur.com/1hbm5em.png
+[[=image https://i.imgur.com/Lw4iJyp.png width="200px"]]
+https://i.imgur.com/Lw4iJyp.png
 [[/div]]
 
 [[include :scp-wiki:component:colend]]
@@ -52,11 +52,11 @@ https://i.imgur.com/1hbm5em.png
 ]]
 
 [[div class="darkdocument"]]
-[[=image https://i.imgur.com/lU7wr8E.png width="200px"]]
-@@https://i.imgur.com/lU7wr8E.png@@
+[[=image https://i.imgur.com/TjJbRE7.png width="200px"]]
+@@https://i.imgur.com/TjJbRE7.png@@
 [[/div]]
 [[div class="document"]]
-[[=image https://i.imgur.com/9MAc0se.png width="200px"]]
+[[=image https://i.imgur.com/v6Bdn62.png width="200px"]]
 https://i.imgur.com/9MAc0se.png
 [[/div]]
 
@@ -100,12 +100,12 @@ https://i.imgur.com/9MAc0se.png
 ]]
 
 [[div class="darkdocument"]]
-[[=image https://i.imgur.com/czga3yK.png width="200px"]]
-@@https://i.imgur.com/czga3yK.png@@
+[[=image https://i.imgur.com/d4E1Wnf.png width="200px"]]
+@@https://i.imgur.com/d4E1Wnf.png@@
 [[/div]]
 [[div class="document"]]
-[[=image https://i.imgur.com/xfw5r4D.png width="200px"]]
-https://i.imgur.com/xfw5r4D.png
+[[=image https://i.imgur.com/MEswTpK.png width="200px"]]
+https://i.imgur.com/MEswTpK.png
 [[/div]]
 
 [[include :scp-wiki:component:colend]]
@@ -118,12 +118,12 @@ https://i.imgur.com/xfw5r4D.png
 ]]
 
 [[div class="darkdocument"]]
-[[=image https://i.imgur.com/uVrKL0m.png width="200px"]]
-@@https://i.imgur.com/uVrKL0m.png@@
+[[=image https://i.imgur.com/ApF7Bc7.png width="200px"]]
+@@https://i.imgur.com/ApF7Bc7.png@@
 [[/div]]
 [[div class="document"]]
-[[=image https://i.imgur.com/Ja4OZmg.png width="200px"]]
-https://i.imgur.com/Ja4OZmg.png
+[[=image https://i.imgur.com/mv1wa61.png width="200px"]]
+https://i.imgur.com/mv1wa61.png
 [[/div]]
 
 [[include :scp-wiki:component:colend]]
@@ -135,12 +135,12 @@ https://i.imgur.com/Ja4OZmg.png
 ]]
 
 [[div class="darkdocument"]]
-[[=image https://i.imgur.com/75HTB3M.png width="200px"]]
-@@https://i.imgur.com/75HTB3M.png@@
+[[=image https://i.imgur.com/TcfzyDh.png width="200px"]]
+@@https://i.imgur.com/TcfzyDh.png@@
 [[/div]]
 [[div class="document"]]
-[[=image https://i.imgur.com/WrpYJHP.png width="200px"]]
-https://i.imgur.com/WrpYJHP.png
+[[=image https://i.imgur.com/aJMdrIU.png width="200px"]]
+https://i.imgur.com/aJMdrIU.png
 [[/div]]
 
 [[include :scp-wiki:component:colend]]
