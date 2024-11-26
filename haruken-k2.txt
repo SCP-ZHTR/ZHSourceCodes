@@ -3,7 +3,7 @@
 :root {
   --header-title: "SCP-ZH-TR";
   --header-subtitle: "Secure, Contain, Protect.";
-  --lgurl: url("URL");
+  --lgurl: url("https://scp-wiki.wdfiles.com/local--files/theme%3Apenumbra/logo.png");
   --accentColor: #48dbdd;
 }
 [[/module]]
@@ -72,7 +72,8 @@
 * [http://scp-zh-tr.wikidot.com/tostren 吐司的烘焙坊（超級讚）]
 [[/div]]
 
-圖片皆是自己用電腦軟體畫的，感覺這個主題不大適合使用顏色所以就只畫線條圖......或許那是我的問題，但還是不大敢用除了色鉛筆以外之有顏色的筆著色。
+Header logo是抓半影外觀主題裡的基金會logo網址。
+而落地鏡部分的圖片皆是自己用電腦軟體畫的，感覺這個主題不大適合使用顏色所以就只畫線條圖......或許那是我的問題，但還是不大敢用除了色鉛筆以外之有顏色的筆著色。
 以上。
 @@ @@
 [[include info:end]]

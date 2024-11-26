@@ -389,7 +389,7 @@ Cirhin國王再度笑出聲來。
 
 「我認為是要我們最好認真看待Cirhin，但這不一定總是字面上的意義，」將軍說道。「但看來他最近正在他的宮殿中走來走去，不斷表明他想要看到我們的整片土地燃燒。」
 
-「我們能跟他談判嗎？我對直接傳送一份信函到他的宮廷中感到不怎麼光榮。」
+「我們能跟他談判嗎？我沒自傲到不願意直接傳送一份信函到他的宮廷中。」
 
 「我已經先自己聯繫了。」
 
@@ -433,7 +433,7 @@ Cirhin國王再度笑出聲來。
 | username=Site-592主管Russ Braithwaite | color=blue
 | date=08.22.2024 | postno=8217DA011
 | depth=0 by-russ | content=
-情況變糟了。O5-07，請回復。
+情況變糟了。O5-07，請回覆。
 ]]
 
 [[include :scp-wiki:component:parawatch-forum-post
@@ -865,14 +865,14 @@ Russ，你沒必要這樣。我們已經在盡力了。把那張照片傳遍網�
 | username=Site-592主管Russ Braithwaite | color=blue
 | date=08.22.2024 | postno=8217DA037
 | depth=0 by-russ | content=
-你看起來不認為這邊的情況足夠緊急。你只是在試著回復現場狀況。
+你看起來不認為這邊的情況足夠緊急。你只是在試著對這情況做出點反應。
 ]]
 
 [[include :scp-wiki:component:parawatch-forum-post
 | username=O5-07 | color=blue
 | date=08.22.2024 | postno=8217DA038
 | depth=0 by-seven | content=
-好吧。我會把「基金會相當願意遵從個人與其中合夥人的命令」加到基金會紀律中的，違反新式條例時的專門懲戒體系那部分。
+好吧。我想補充一下，基金會非常願意針對以新穎方式違反基金會紀律守則的個人及其關聯者客製化懲罰方式。
 ]]
 
 [[include :scp-wiki:component:parawatch-forum-post
