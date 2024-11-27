@@ -376,7 +376,7 @@
 * [[[SCP-8336]]] - [ACCESS DENIED]
 * [[[SCP-8337]]] - [ACCESS DENIED]
 * [[[SCP-8338]]] - [ACCESS DENIED]
-* [[[SCP-8339]]] - [ACCESS DENIED]
+* [[[SCP-8339]]] - 光芒恐懼症：生於黑暗。死於光芒。
 * [[[SCP-8340]]] - [ACCESS DENIED]
 * [[[SCP-8341]]] - [ACCESS DENIED]
 * [[[SCP-8342]]] - [ACCESS DENIED]
