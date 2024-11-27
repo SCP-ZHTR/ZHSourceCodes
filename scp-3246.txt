@@ -241,7 +241,7 @@ Lamison住所的出入口。
 [[div class="scp-image-block block-center" style="width:100%;"]]
 [[image https://scp-wiki.wdfiles.com/local--files/scp-3246/nycdarkline3MINE.png style="width:100%;" link=#]]
 [[div class="scp-image-caption" style="width:100%;"]]
-由一台無人機拍攝曼哈頓的直播，影像未經剪輯。
+由無人機拍攝曼哈頓的直播，影像未經剪輯。
 [[/div]]
 [[/div]]
 

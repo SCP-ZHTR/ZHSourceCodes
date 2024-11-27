@@ -774,7 +774,7 @@ SCP驚選集2024 — 直面你的恐懼。
 |color=#fffcda |cover-img=https://scp-sandbox-3.wdfiles.com/local--files/test544/photophobia.jpg
 |slug=scp-8339
 |author=Ecronak
-|phobia=光芒恐懼症|title=生**於**黑**暗**。死**於**光**明**。
+|phobia=光芒恐懼症|title=生**於**黑**暗**。死**於**光**芒**。
 
 ]]
 [[/div]]
