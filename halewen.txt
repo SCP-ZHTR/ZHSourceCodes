@@ -77,7 +77,7 @@
 > :3
 [[[scp-7701|SCP-7701 - 征服者蠕蟲]]]
 > 我那時才明白，她是在事先練習。就像一場彩排。
-[[[scp-8217|SCP-8217 - 傷口恐懼症：他們死總比我們死好]]]
+[[[scp-8217|SCP-8217 - 傷口恐懼症：他們承擔總比我們承擔好]]]
 > 你即是歌與歌之苦痛。
 [[[scp-8372|SCP-8372 - 永恆灰燼]]]
 > 所有屍體的服裝皆非由殆瓦所製。
@@ -254,7 +254,7 @@ EN分部：
 > - [[[SCP-7931]]][[footnote]]這篇單純是個人喜好他的文字運用，內文許多人應該都無法接受[[/footnote]] X is for Xenotransplantation X是「異質移植」 
 > - [[[SCP-7999]]] Meet Me in the Stars 來星星間找我
 > - [[[SCP-8209]]] Repairing the World [未翻譯]
-> - [[[SCP-8217]]] Traumatophobia: Better Them Than Us 傷口恐懼症：他們死總比我們死好
+> - [[[SCP-8217]]] Traumatophobia: Better Them Than Us 傷口恐懼症：他們承擔總比我們承擔好
 > - [[[SCP-8585]]] A Setting Sun [未翻譯]
 > - [[[SCP-8654]]] **Acrophobia:** Up Is Down **高處恐懼症：**上即是下
 > - [[[SCP-8900-EX]]] Sky Blue Sky 藍天隕落
