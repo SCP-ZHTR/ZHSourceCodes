@@ -2,6 +2,7 @@
 
 [[include info:start]]
 原文：[https://scp-wiki.wikidot.com/scp-3246 <SCP-3246>]
+篇名：SCP-3246 - 黑暗恐懼症：盲者被提
 作者：[[*user Henzoid]]
 譯者：[[*user colorful penguin]]
 校對者：[[*user Halewen ]]
@@ -30,7 +31,7 @@
 @@ @@
 
 @@ @@
-**項目 #:** SCP-3246
+**項目:** SCP-3246
 
 **項目等級:** Keter
 
