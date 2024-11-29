@@ -29,6 +29,8 @@
 
 * **[*/system:page-tags/tag/挑戰活動 挑戰活動]** - 標註挑戰活動的頁面上。
 
+* **[*/system:page-tags/tag/素材 素材]** - 標註提供作品使用的站內素材頁面上。
+
 * **[*/system:page-tags/tag/_數據 _數據]** - （ 隱標 "數據" ）只由ZH站[[[*meet-the-staff|工作人員]]]標注在特定頁面上，用以統計資料。
 
 * **[*/system:page-tags/tag/_image _image]** - （ 隱標 "image" ）只由ZH站[[[*meet-the-staff|工作人員]]]添加在擁有圖片，但尚不得知圖片是否符合CC的頁面上。
