@@ -136,7 +136,7 @@ display:none;
 | previous-url = scp-8596
 | previous-title = 視線恐懼症
 | next-url = scp-8906
-| next-title = 臉譜恐懼症
+| next-title = 假面恐懼症
 | hub-url = scp-anthology-2024
 | hub-title = SCP驚選集2024
 ]]

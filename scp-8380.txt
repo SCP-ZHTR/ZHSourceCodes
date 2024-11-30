@@ -150,7 +150,7 @@ SCP-8380事件會在毫無徵兆的情況下發生。當一名人員被SCP-8380�
 @@ @@
 [[include :scp-wiki:fragment:scp-anthology-2024-earthworm
 | previous-url = scp-8906
-| previous-title = 臉譜恐懼症：臺上殺人
+| previous-title = 假面恐懼症：臺上殺人
 | next-url = scp-8980
 | next-title = 工作恐懼症：無有謝忱
 | hub-url = http://scp-zh-tr.wikidot.com/scp-anthology-2024
