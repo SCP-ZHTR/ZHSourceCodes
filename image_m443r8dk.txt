@@ -1,0 +1,6 @@
+image: 'https://i.imgur.com/mWGwIq3.png'
+owner: 阿鵝(Gunter)
+owner-wiki: colorful_penguin
+license: '0'
+other-license: ''
+note: ''

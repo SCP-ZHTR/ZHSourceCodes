@@ -1,0 +1,6 @@
+image: 'https://i.imgur.com/RG5lUMc.png'
+owner: 菊內
+owner-wiki: Kikunai
+license: '0'
+other-license: ''
+note: ''

@@ -1,0 +1,6 @@
+image: 'https://i.imgur.com/Lteojpw.png'
+owner: 白熊
+owner-wiki: cywhitebear
+license: '0'
+other-license: ''
+note: ''

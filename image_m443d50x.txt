@@ -1,0 +1,6 @@
+image: 'https://i.imgur.com/gtMd6dT.png'
+owner: 小空
+owner-wiki: EmptyName723
+license: '0'
+other-license: ''
+note: ''

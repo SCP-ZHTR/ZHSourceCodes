@@ -1,0 +1,6 @@
+image: 'https://i.imgur.com/d8kEwQF.png'
+owner: 艾德
+owner-wiki: Edward_Knave
+license: '0'
+other-license: ''
+note: ''

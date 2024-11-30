@@ -1,0 +1,6 @@
+image: 'https://i.imgur.com/lbQgG3y.png'
+owner: 阿吐
+owner-wiki: vomiter
+license: '0'
+other-license: ''
+note: ''
