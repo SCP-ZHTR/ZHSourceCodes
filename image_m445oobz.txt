@@ -1,0 +1,6 @@
+image: 'https://i.imgur.com/q2UGEja.png'
+owner: 墨魚
+owner-wiki: IC_1623
+license: '0'
+other-license: ''
+note: ''

@@ -1,0 +1,6 @@
+image: 'https://i.imgur.com/e6FMzlo.png'
+owner: 家豪
+owner-wiki: Jahao
+license: '0'
+other-license: ''
+note: ''

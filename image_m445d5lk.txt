@@ -1,0 +1,6 @@
+image: 'https://i.imgur.com/jDz9rVs.png'
+owner: 海爾
+owner-wiki: Halewen
+license: '0'
+other-license: ''
+note: ''

@@ -1,0 +1,6 @@
+image: 'https://i.imgur.com/rvcpPiC.png'
+owner: 殘響
+owner-wiki: Reverberate_a
+license: '0'
+other-license: ''
+note: ''

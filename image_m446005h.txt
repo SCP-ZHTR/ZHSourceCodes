@@ -1,0 +1,6 @@
+image: 'https://i.imgur.com/bUir7ka.png'
+owner: 萌萌
+owner-wiki: Mang_Gwan
+license: '0'
+other-license: ''
+note: ''

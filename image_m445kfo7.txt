@@ -1,0 +1,6 @@
+image: 'https://i.imgur.com/1urrVpy.png'
+owner: 殘響
+owner-wiki: Reverberate_a
+license: '0'
+other-license: ''
+note: ''
