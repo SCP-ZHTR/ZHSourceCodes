@@ -41,7 +41,7 @@ ul.update-wrapper, .update-wrapper > li {
 譯者：[[*user Halewen]]
 ⚠️ **內容警告：**此文章包含人類衝突、戰爭、屠殺與肉體恐怖的主題。建議讀者酌情閱讀。
 [[include info:end]]
-[[include :scp-wiki:component:info-cw]]
+[[include :scp-zh-tr:component:info-cw]]
 [[div class="document"]]
 
 [[div class="page"]]
