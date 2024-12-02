@@ -1,6 +1,5 @@
-[[include component:scp-meta-title-hiding | showing-title=而你接著墜落。]]
-[[include :scp-wiki:theme:black-highlighter-theme]]
-[[include :scp-wiki:component:toggle-sidebar-bhl]]
+[[include :scp-zh-tr:theme:black-highlighter-theme]]
+[[include :scp-zh-tr:component:toggle-sidebar-bhl]]
 [[include :scp-wiki:theme:cyberpunk theme-number=1]]
 
 [[include info:start]]
