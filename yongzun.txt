@@ -92,7 +92,7 @@
 [[/tab]]
 [[tab 有關的玩意兒]]
 
-[[module ListPages created_by="YONGZUN" order="created_at" limit="50" separate="no" perPage="100"]]
+[[module ListPages created_by="YONGZUN" order="created_at" limit="100" separate="no" perPage="100"]]
 * %%title_linked%% (+%%rating%%)
 [[/module]]
 
