@@ -13,15 +13,11 @@
 [[<]]
 +++ 最新活動消息
 [[/<]]
+[[image https://i.imgur.com/XFe13yd.png link ="christmas-event6"]]
+-----
+@@ @@
 ++ [http://scp-zh-tr.wikidot.com/jamcon-zh-2024 Cinamalay 急那麼來：繁中急迫競賽 3.0😆😎😬🤓😁]
 ----
-@@ @@
-[[image https://i.imgur.com/yR2YdBN.png link ="summer-contest-2024"]]
------
-@@ @@
-[[image https://i.imgur.com/hzIkUwu.png link ="zhongyuan-2024"]]
------
-@@ @@
 [[/div]]
 
 [!-- 展出  --]

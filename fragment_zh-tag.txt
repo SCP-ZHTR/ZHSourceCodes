@@ -281,6 +281,8 @@
 * **[*/system:page-tags/tag/2022聖夜相守 2022聖夜相守]** - 標註在與挑戰活動[[[*christmas-event4|聖夜相守另一夜]]]相關的頁面上。
 
 * **[*/system:page-tags/tag/2024中元恐怖 2024中元恐怖]** - 標註在與挑戰活動[[[*zhongyuan-2024|中元恐怖——早梅詩]]]相關的頁面上。
+
+* **[*/system:page-tags/tag/聖夜虹光 聖夜虹光]** - 標註在與挑戰活動[[[*christmas-event6|聖夜相守虹光夜]]]相關的頁面上。
 [[/tab]]
 [[/tabview]]
 [[>]]
