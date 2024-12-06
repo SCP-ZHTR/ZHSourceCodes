@@ -287,7 +287,7 @@ text-shadow: 0 0 0.75rem rgb(var(--swatch-primary-darkest),0.75);
 [[include :scp-sandbox2-zh:draft:5325850-1o-ly074dry
 |status= |pre-flipped=
 |author=佛洛伊德老師
-|art= https://lett-store.github.io/CSR-2.png
+|art= https://i.imgur.com/cK2VT5T.png
 |url=http://scp-zh-tr.wikidot.com/scp-zh-784
 |title=一是「意識流」
 ]]
@@ -628,9 +628,9 @@ SCP-ZH-249 - 東是「敵愾」
 > **來源連結：** [https://i.imgur.com/fXsICjoh.png 見此]
 
 > **檔案名稱：** CSR-2.png
-> **作者：** 佛洛伊德老師
+> **作者：** 管理員老師
 > **授權：** CC BY-SA 3.0
-> **來源連結：** [https://lett-store.github.io/CSR-2.png 見此]
+> **來源連結：** [https://i.imgur.com/cK2VT5T.png 見此]
 
 > **檔案名稱：** 53881613332_af7b4e7fd9_m.jpg
 > **原檔案名稱：** 3717619682_90c56af27e_o.jpg
