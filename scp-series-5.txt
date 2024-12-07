@@ -60,7 +60,7 @@
 * [[[SCP-4033]]] - The Easter Bunny is Dead
 * [[[SCP-4034]]] - Defenetre of the Strate
 * [[[SCP-4035]]] -  語言深淵
-* [[[SCP-4036]]] - The Republic
+* [[[SCP-4036]]] -  共和國
 * [[[SCP-4037]]] - One of Mind
 * [[[SCP-4038]]] - The Common Tongue
 * [[[SCP-4039]]] - The Second Second Law of Thermodynamics
@@ -681,7 +681,7 @@
 * [[[SCP-4630]]] - I Put My Lettuce in the CRISPR and Now It's Sapient
 * [[[SCP-4631]]] - Never a Devil Again
 * [[[SCP-4632]]] - Would you know if you were dreaming right now?
-* [[[SCP-4633]]] - Rock, Paper, Yog-Sothoth
+* [[[SCP-4633]]] - 剪刀、石頭、Yog-Sothoth
 * [[[SCP-4634]]] - Out-of-Order
 * [[[SCP-4635]]] - English is the language of the demon.
 * [[[SCP-4636]]] - I must confess I must confess.
@@ -689,7 +689,7 @@
 * [[[SCP-4638]]] - It’s Only Spinach, Really
 * [[[SCP-4639]]] - Product Profile - //Citrus Vitae//
 * [[[SCP-4640]]] - Let the darn kid experience real life!
-* [[[SCP-4641]]] - Get a Clue
+* [[[SCP-4641]]] - 得到線索
 * [[[SCP-4642]]] - Self-portrait
 * [[[SCP-4643]]] - The Wheel of Fire
 * [[[SCP-4644]]] - Sea, Sky, and Spirit
@@ -798,7 +798,7 @@
 * [[[SCP-4743]]] - A Proud Product of Vandelay Industries
 * [[[SCP-4744]]] - Stay Woke
 * [[[SCP-4745]]] - Spooky Scary Snowman
-* [[[SCP-4746]]] - Marked for Death
+* [[[SCP-4746]]] - 標記死亡
 * [[[SCP-4747]]] - I Improved My Marriage By Perverting Nature (Or: How I Learned To Stop Worrying And Spit Upon God's Creation)
 * [[[SCP-4748]]] - Arctic Whaleways
 * [[[SCP-4749]]] - Demoniacal Paper Towel Dispenser
@@ -811,11 +811,11 @@
 * [[[SCP-4756]]] - 重生之人。
 * [[[SCP-4757]]] - Trials of Valhalla
 * [[[SCP-4758]]] - Old Letters
-* [[[SCP-4759]]] - The Challenger of Donut Taxes
+* [[[SCP-4759]]] - 甜甜圈稅挑戰者
 * [[[SCP-4760]]] - An Eye for an Eye
 * [[[SCP-4761]]] - Lost in Yesterday
 * [[[SCP-4762]]] - Multiple Solutions
-* [[[SCP-4763]]] - Down the Tragedy Well
+* [[[SCP-4763]]] - 落入悲劇之井
 * [[[SCP-4764]]] - OKKULT X-PERIENCE OF WYRLDENDING PORPORTIONS
 * [[[SCP-4765]]] - A Shattered Visage Lies
 * [[[SCP-4766]]] - My Beautiful, Beautiful Son
