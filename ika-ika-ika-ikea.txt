@@ -75,6 +75,7 @@
 
 [[div class="modal"]]
 [http://scp-zh-tr.wikidot.com/the-car-is-8 MTF-車肆-8 「血拼人潮」隊徽]
+[[=image https://i.imgur.com/lM42uRH.png height="200px"]]
 
 咪呀呀([[*user Dr V Valentine]])委託
 [[/div]]
@@ -96,8 +97,14 @@
 [[div class="modal"]]
 
 [http://scp-zh-tr.wikidot.com/groups-of-interest-zh-2#toc8 彩虹橋]
-
+[[=image https://i.imgur.com/qO4iSaK.png height="200px"]]
 LOGO我做的
+[[/div]]
+[[div class="modal"]]
+
+[http://scp-zh-tr.wikidot.com/art-site-zh-59 Site-ZH-59站徽]
+[[=image https://i.imgur.com/xioKKMz.png height="200px"]]
+靈感來自[https://scp-wiki.wikidot.com/desk-of-junior-designer-s-yvonne 這邊]的本質促動部跟日本的龜甲紋。
 [[/div]]
 [[div class="modal"]]
 
@@ -108,15 +115,9 @@ LOGO我做的
 [[/div]]
 [[div class="modal"]]
 
-[http://scp-zh-tr.wikidot.com/art-site-zh-59 Site-ZH-59站徽]
-
-靈感來自[https://scp-wiki.wikidot.com/desk-of-junior-designer-s-yvonne 這邊]的本質促動部跟日本的龜甲紋。
-[[/div]]
-[[div class="modal"]]
-
 [http://scp-zh-tr.wikidot.com/new-folder-scp-logo 未命名資料夾（SCP - LOGO）]
 
-59站的
+存圖的資料夾其實是新增資料夾(4)
 [[/div]]
 
 @@ @@
