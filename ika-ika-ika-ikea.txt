@@ -2,13 +2,8 @@
 
 [[include info:start]]
 作者：[[*user ic_1623]]
-你點開了
-然後...
-就沒有然後了
+這裡是檔案櫃
 [[include info:end]]
-
-[[=image https://scp-wiki.wdfiles.com/local--files/scp-7549/recurrent_triangle.png width="400px"]]
-
 [[div class="overwatch_memo"]]
 總而言之，這是篇作者頁。
 @@ @@
@@ -32,35 +27,15 @@
 [[tab 個人簡介]]
 [[div class="notation"]]
 [[>]]
-被覆寫__　00　__%
+資料損毀程度：__　00　__%
 [[/>]]
 [[=]]
 + 關於這個人
 @@ @@
 [[/=]]
-[[div style="border-bottom:2px solid #ffffff; margin-bottom:1px;"]]
-[[/div]]
-[[include component:image-block name=cuttlefishina|caption=警告！檔案讀取失敗
-可能是目前不支援此格式，或檔案已損毀。]]
-* 不譯遊戲持有者
-* 常被認成[[*user YONGZUN]]
-* 一些爛雙關
-* 還在繪畫路上的人
-* 可能會製作LOGO的人
-* [https://x.com/suisei_hosimati 星詠者]
-* [https://x.com/ninomaeinanis tako]
-* [https://x.com/tokoyamitowa 眷属]
-* 頭足類
-* 不是魷魚
-* 不是章魚
-* 不是烏賊
-* 是墨魚
-* 來自深淵愛好者
-* 書痴
-
-沒了嗎 沒了吧
-
-要找我請至[http://scp-zh-tr.wikidot.com/chat-guide SCP繁體中文官方DC群]，謝謝。
+* LOGO繪製者
+* 有在畫圖者
+* DC名稱是イカ，有事請來SCP-ZH基金會DC煩我
 
 @@ @@
 [[/div]]
@@ -70,7 +45,7 @@
 
 [[div class="smallmodal"]]
 [[>]]
-被覆寫__　00　__%
+資料損毀程度：__　90　__%
 [[/>]]
 [[=]]
 + 角色
@@ -79,7 +54,6 @@
 [[/div]]
 ++ 王玉婷
 等我一下，我找一下她的資料。
-無限期延期
 [[/div]]
 [[/tab]]
 [[/tabview]]
@@ -88,42 +62,10 @@
 
 @@ @@
 [[tabview]]
-[[tab 原創]]
-[[div class="smallmodal"]]
-[[>]]
-被覆寫__　00　__%
-[[/>]]
-[[=]]
-+ 原創
-[[/=]]
-[[div style="border-bottom:2px solid #ffffff; margin-bottom:1px;"]]
-[[/div]]
-+++ 敬請期待
-* SCP-ZH-994 還原
-* 天穹－輻都台北
-* 夏日 · 44
-[[/div]]
-[[/tab]]
-
-[[tab 翻譯]]
-[[div class="smallmodal"]]
-[[>]]
-被覆寫__　99　__%
-[[/>]]
-[[=]]
-+ 翻譯
-[[div style="border-bottom:2px solid #ffffff; margin-bottom:1px;"]]
-[[/div]]
-@@ @@
-[[size 500%]]別想了，不可能！[[/size]]
-[[/=]]
-[[/div]]
-[[/tab]]
-
 [[tab 藝作]]
 [[div class="smallmodal"]]
 [[>]]
-被覆寫__　00　__%
+資料損毀程度：__　00　__%
 [[/>]]
 [[=]]
 + 藝作
@@ -166,15 +108,22 @@ LOGO我做的
 [[/div]]
 [[div class="modal"]]
 
+[http://scp-zh-tr.wikidot.com/art-site-zh-59 Site-ZH-59站徽]
+
+靈感來自[https://scp-wiki.wikidot.com/desk-of-junior-designer-s-yvonne 這邊]的本質促動部跟日本的龜甲紋。
+[[/div]]
+[[div class="modal"]]
+
 [http://scp-zh-tr.wikidot.com/new-folder-scp-logo 未命名資料夾（SCP - LOGO）]
 
-存圖的資料夾其實叫新增資料夾(4)
+59站的
 [[/div]]
 
 @@ @@
 @@ @@
 [[=]]
 [[div style="border-bottom:2px solid #ffffff; margin-bottom:1px;"]]
++++ 其他沒丟上網的東西
 [[/div]]
 戰術遊戲部LOGO
 @@ @@
@@ -188,16 +137,38 @@ LOGO我做的
 @@ @@
 
 @@ @@
+[[/=]]
+[[/div]]
+[[/tab]]
 
-亂作的LOGO，要用跟我說一下
-@@ @@
-[[image https://i.imgur.com/LU78DRJ.png width="200px"]][[image https://i.imgur.com/JR4mLRn.png width="200px"]]
-@@ @@
-[[div class="notation"]]
-黑色  https://i.imgur.com/LU78DRJ.png
-白色 https://i.imgur.com/JR4mLRn.png
+[[tab 原創]]
+[[div class="smallmodal"]]
+[[>]]
+資料損毀程度：__　70　__%
+[[/>]]
+[[=]]
++ 原創
+[[/=]]
+[[div style="border-bottom:2px solid #ffffff; margin-bottom:1px;"]]
+[[/div]]
++++ 敬請期待
+* SCP-ZH-994 還原
+* 天穹－輻都台北
+* 夏日 · 44
+[[/div]]
+[[/tab]]
+
+[[tab 翻譯]]
+[[div class="smallmodal"]]
+[[>]]
+資料損毀程度：__　99　__%
+[[/>]]
+[[=]]
++ 翻譯
+[[div style="border-bottom:2px solid #ffffff; margin-bottom:1px;"]]
 [[/div]]
 @@ @@
+[[size 300%]]別想了，不可能！[[/size]]
 [[/=]]
 [[/div]]
 [[/tab]]
@@ -236,7 +207,7 @@ LOGO我做的
 [[/div]]
 [[div class="jotting"]]
 其他圖像：https://i.imgur.com/hjljsRx.png
-授權方式：CC BY-SA 3.0
+授權方式：圖片僅供個人使用
 版權所有者：[[*user ic_1623]]
 [[/div]]
 [[div class="jotting"]]

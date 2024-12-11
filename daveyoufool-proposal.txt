@@ -3,6 +3,7 @@
 **原文：** [http://scp-wiki.wikidot.com/daveyoufool-proposal SCP-001-J]
 **原作者：** [[*user Daveyoufool]]
 **譯者：** [[*user Tiro_taiwan]]
+**校對：**[[*user Goblinshark3024]]
 Null
 [[include info:end]]
 
@@ -18,49 +19,49 @@ Null
 
 **項目等級：**Apollyon
 
-**特殊收容措施：**自從事件-OO1-Omega以後，不再有任何方法收容SCP-OO1-J或阻止XK-OO1-J末日場景的到來。
+**特殊收容措施：**於事件-OO1-Omega以後，目前已無任何方法收容SCP-OO1-J或阻止XK-OO1-J末日場景的到來。
 
-為了保持冷靜，並讓人類平穩的過渡到[http://scp-wiki-zh.wikidot.com/a-slumber-did-my-spirit-seal 訂製][[[SCP-2187|得]]]多[[[SCP-2718|樣]]][[[SCP-2731|且容易獲得的]]][[[SCP-2922|來生]]][[footnote]]指示駐紮在肯亞北部試驗場的所有G級人員[[[SCP-1557|放棄希望]]]，因為他們非常知道自己的做了什麼。[[/footnote]]，應立即執行Contingency Schubert-9措施。
+為了保持冷靜，並讓人類平穩的過渡到[http://scp-wiki-zh.wikidot.com/a-slumber-did-my-spirit-seal 訂製][[[SCP-2187|得]]]多[[[SCP-2718|樣]]][[[SCP-2731|且容易獲得的]]][[[SCP-2922|來生]]][[footnote]]在此建議駐紮於肯亞北部試驗場的所有G級人員放棄希望。他們幹了什麼好事自己心裡有數。[[/footnote]]，應立即執行Contingency Schubert-9措施。
 
-**描述：**SCP-OO1-J的描述具有致命的認知危害，因此，可按要求提供予感興趣的人員。
+**描述：**SCP-OO1-J的描述具有致命的認知危害；因此，感興趣的人員可自由申請存取權限及閱讀。
 
 **附錄 - Contingency Schubert-9措施：**在所有基金會設施中皆有安裝Contingency Schubert-9措施的聽覺警報系統，將反覆播放以下警報。
 
 ||~ 威脅等級 ||~ 警報 ||~ 意思 ||
-|| Epsilon-Green || 霧角聲 || SCP-OO1-J已被停止，因為奇蹟是真的。  ||
-|| Delta-Green || 喇叭聲 || SCP-OO1-J沒有活動。  ||
-|| Delta-Blue || 喇叭聲，但音調高略高 || SCP-OO1-J已睜開它的眼 (未證實) ||
-|| Delta-Yellow || O5-11模仿Delta-Blue的警報聲 || SCP-OO1-J睜開了它的眼睛 (照片證實) ||
+|| Epsilon-Green || 霧角聲 ||上天顯靈，奇蹟降世，SCP-OO1-J被阻止了。  ||
+|| Delta-Green || 喇叭聲 || SCP-OO1-J沒有任何動作。 ||
+|| Delta-Blue || 喇叭聲，但音調高略高 || SCP-OO1-J睜開了它的眼睛 (尚未證實) ||
+|| Delta-Yellow || O5-11模仿Delta-Blue的警報聲 || SCP-OO1-J睜開了它的眼睛 (有照片證實) ||
 || Delta-Orange || 湯姆·瓊斯的歌曲「It's Not Unusual」 || SCP-OO1-J睜開了它的眼睛並且看著地球。  ||
-|| Delta-Red || 歌曲「It's Not Unusual」 Naismith博士的挪威黑金屬混音版本 || SCP-OO1睜開了它的眼睛並且看著地球，且Naismith博士想宣傳他的樂團。[[footnote]]**註記：**這個世界//正在死亡//，Naismith。那已經沒有任何意義了。//- O5-12//[[/footnote]][[footnote]] **註記：**所以你在告訴我世界末日—可能是地球史上最金屬樂的事情—對金屬樂來講是一個不好的時刻？ //- Naismith//[[/footnote]][[footnote]]**註記：**…你甚至連錯都算不上，而且我//討厭//那個。 //- O5-12// [[/footnote]] ||
-|| Gamma-Green || 喇叭、霧角、蜂鳴聲同時 || 平民傷亡開始。  ||
-|| Gamma-Blue || David Lynch的電影//Dune//完整配樂 || 平民傷亡繼續。 ||
-|| Gamma-Yellow || 和Delta-Orange一樣，但加上了空氣喇叭 || 平民傷亡繼續，但有更多挑釁的意思。  ||
-|| Gamma-Orange || 和Epsilon-Green一樣，但背景隱約有鷹啼聲 || SCP-OO1-J衝著你位於的站點，準備死吧。  ||
-|| Gamma-Red || Petula Clark的歌曲「Don't Sleep In The Subway」 || 此站點已被SCP-OO1-J摧毀了，因此，我能一直享受Petula Clark到我喜歡，而只有屍體會批評我。  ||
-|| Beta-Green || 10秒鐘老女人歇斯底里的啜泣  || 一種動物被SCP-OO1-J滅絕了。  ||
-|| Beta-Blue || 14秒鐘老女人歇斯底里的啜泣  || 一座城市被SCP-OO1-J摧毀了。  ||
-|| Beta-Yellow || 14.3秒鐘老女人歇斯底里的啜泣  || 一個國家被SCP-OO1-J摧毀了。  ||
-|| Beta-Orange || 和Beta-Yellow一樣，但在背景中有以手風琴演奏的歌曲「Nearer My God To Thee」。  || 一塊大陸被SCP-OO1-J摧毀了。  ||
-|| Beta-Red || 倒播的Beta-Orange。  || 我們記錄的老女人對此事還是很難過，需要一個擁抱。  ||
-|| Alpha-Black-Omega-Death-Death || Toby Keith全部的唱片目錄歌曲 || 「做得好，OO1-J，你摧毀了​​我們的文明。這是你的獎勵，永遠的Toby Keith，這值得嗎？」##ffffff|實際上，我是聾子。  ## ||
+|| Delta-Red || 「It's Not Unusual」 ，但是是用Naismith博士的挪威黑金屬混音版本 || SCP-OO1睜開了它的眼睛並且看著地球；與此同時，Naismith博士想宣傳他的樂團。[[footnote]]**註記：**Naismith，世界末日要//來//了，沒人想管你的樂團。//- O5-12//[[/footnote]][[footnote]] **註記：**可是世界末日這麼金屬的時刻不是正應該配點金屬樂嗎？ //- Naismith//[[/footnote]][[footnote]]**註記：**…我很不想同意，但你講的有道理。 //- O5-12// [[/footnote]] ||
+|| Gamma-Green || 喇叭、霧角、蜂鳴聲齊響 || 出現平民傷亡。  ||
+|| Gamma-Blue || David Lynch的電影//Dune//完整配樂 || 持續出現平民傷亡。 ||
+|| Gamma-Yellow || 和Delta-Orange一樣，但加上了空氣喇叭 || 持續出現平民傷亡，但氣氛更緊繃一點。  ||
+|| Gamma-Orange || 和Epsilon-Green一樣，但背景隱約有鷹啼聲 || SCP-OO1-J正要攻擊你的站點，準備投胎吧。  ||
+|| Gamma-Red || Petula Clark的歌曲「Don't Sleep In The Subway」 || 此站點已被SCP-OO1-J摧毀；現在我終於能聽Petula Clark到我爽為止。  ||
+|| Beta-Green || 一位老奶奶歇斯底里的啜泣10秒  || 一個物種被SCP-OO1-J滅絕了。  ||
+|| Beta-Blue || 一位老奶奶歇斯底里的啜泣14秒  || 一座城市被SCP-OO1-J摧毀了。  ||
+|| Beta-Yellow || 一位老奶奶歇斯底里的啜泣14.3秒  || 一個國家被SCP-OO1-J摧毀了。  ||
+|| Beta-Orange || 和Beta-Yellow一樣，但背景裡同時播放手風琴演奏版的「Nearer My God To Thee」。  || 一塊大陸被SCP-OO1-J摧毀了。  ||
+|| Beta-Red || 倒帶的Beta-Orange。  || 老奶奶還是很難過，請給她一個抱抱。  ||
+|| Alpha-Black-Omega-Death-Death || Toby Keith全部的唱片目錄歌曲 || 「好棒棒喔，OO1-J，你摧毀了​​我們的文明。享受每分每秒魔音穿腦的Toby Keith吧，這樣你開心了嗎？」##ffffff|...其實，我聽不見。  ## ||
 
-相信執行Contingency Schubert-9措施可以保持良好的氣勢、減緩痛苦和紓解壓力。
+我等相信執行Contingency Schubert-9措施可以保持良好的氣勢、減緩痛苦和紓解壓力。
 
-此外，在事故-OO1-Omega發生之前的測試中發現，警報的音量跟壓力期間的鎮定水平成正比。因此，鼓勵發揮額外的資源提高到最大音量。
+此外，在事故-OO1-Omega發生之前的測試中發現，警報的音量跟壓力期間的鎮定水平成正比。因此，鼓勵各站點發揮額外的資源將警報提高到最大音量。
 
 
-[[collapsible show="+ 黑月會嗥叫嗎？" hide="- 「實際上，那比較像音調低、類似於短暫呢喃的喘息，像是: 貘會發出聲音嗎？ - 是貘在打噴嚏。」 - 5/OO1-J 清除已接受"]]
+[[collapsible show="+ 黑月會嗥叫嗎？" hide="- 「實際上，那個聲音比較像低音、伴著喘息的呢喃...貘會發出聲音嗎？ 大概就像貘打噴嚏的聲音。」 - 5/OO1-J 權限已接受"]]
 
 > 敬啟者：
 > 
-> 我從各個站點主管那打聽到了消息，說在XK-OO1-J末日場景期間，Contingency Schubert-9措施實際上會//加重//壓力水平。請允許我盡可能為您解決一些您的憂慮：
+> 我從各個站點主管那收到了回應；他們表示在XK-OO1-J末日場景期間，Contingency Schubert-9措施實際上會//加重//壓力水平。對此，請允許我盡可能為您解決這些擔憂：
 > 
-> 1. 這些憂慮絕對是正確的。
+> 1. 這些憂慮完完全全正確。
 > 
-> 2. 事實上，我可以向您保證，Schubert-9措施的目的就是要使所有人無法忍受，然後，希望讓我們互相殘殺。
+> 2. 事實上，我可以向您保證，Schubert-9措施的目的就是要使所有人都抓狂，讓我們恨不得先把彼此幹掉。
 > 
-> 3. 我真的不喜歡你們任何人，坦白說，我對於SCP-OO1-J可以比我更早跟你們打交道這件事非常不高興。一則相關的註記上—找到了你們的受害者，你們這些冷血的外行人。
+> 3. 我打從心底討厭你們所有人；說真的，對於SCP-OO1-J可以比我更早把你們幹掉這件事，我非常不高興。對了，SCP-OO1-J；去找你自己的目標啦，你這個撿尾刀的嫩嫩。
 > 
 > 感謝你們在這段難熬期間的理解。
 > 
