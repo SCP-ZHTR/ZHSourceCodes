@@ -1,0 +1,1032 @@
+[[include component:scp-meta-title-hiding css-style=classic]]
+[[include :scp-wiki:theme:turbo-vision]]
+[[module CSS]]
+div.creditRate {
+    float: none;
+}
+body {
+  background: linear-gradient(180deg, rgba(191,202,227,1) 84%, rgba(0,0,0,1) 92%);
+}
+
+.blot {
+  height: 100px;
+  width: 400px;
+  background-color: black;
+  position: relative;
+  top: -5rem;
+  z-index: 4;
+  margin-bottom: -100px;
+  text-align: center;
+  font-weight: bold;
+  font-family: monospace;
+}
+
+.blot::before {
+  content: "[記憶受損]";
+}
+
+.corruption {
+  background: black;
+  padding: 0.5rem;
+  font-weight: bold;
+  font-family: monospace;
+}
+
+.corruption::before {
+  content: "[記憶毀損";
+}
+[[/module]]
+[[include :scp-wiki:more-by:rounderhouse
+]]
+[[=]]
+[[include info:start]]
+原文：[https://scp-wiki.wikidot.com/scp-8976 SCP-8976]
+作者：[[*user Rounderhouse]]
+譯者：[[*user Halewen]]
+[[include info:end]]
+[[/=]]
+[!-- SET_1 --]
+[[div class="turbo-block bg-red border-white"]]
+= **[前段鏡頭毀損]**
+
+**L PEARSON：**——然後你說——抱歉，你說你第一次看到它是什麼時候？
+
+**M JONES：**1982。對，在我們從事[[span class="ruby"]]蜜鳥[[span class="rt"]]SUGARBIRD[[/span]][[/span]]計畫時。
+
+**L PEARSON：**蜜鳥？
+
+**M JONES：**嗯。沒錯。標準化各部門之間的設備規範的一部分。蜜鳥是個演算法，負責執行最無聊、最麻煩的工作；輸入設備要求並將其轉換成標準化的系統，然後將資料傳回相關資料庫中。我們當時甚至不是個真正的部門，只是個微小的辦公室，裏頭有幾位秘書。當然，有我，但還有......Williams、Hanna Tevoy。Sun-Hyung Barber，雖然我們都叫他Sonny。喔，還有Leslie。
+
+**L PEARSON：**我當時不在那。
+
+**M JONES：**不是你，親愛的。另一個Leslie。
+
+**L PEARSON：**好。所以你在1982年時，與最早期的RAISA人員一同從事蜜鳥計畫。然後你第一次看到SCP-8976是什麼時候？
+
+**M JONES：**我沒有看見它。我看見的是它造成的缺口。
+
+**L PEARSON：**什麼意思？
+
+**M JONES：**在J區塊中，電子收容部門於1967年至1969年時的儀器訂購紀錄消失了一部分。那些資料在我的終端上，而我當時看著資訊開始彼此交織，錯誤的訂購資訊對上錯誤的紀錄，不可能的日期和時間。然後，最終，資料轉眼間化為烏有，化為紀錄中的一個洞。就像它們從來都沒有真正存在過。
+
+**L PEARSON：**數據有一百萬種理由消失。你知道這點的。
+
+**M JONES：**安全的基金會終端，以及我們使用的三重冗餘備份系統不會出現這種事。不會以我看到的方式發生。那些數據只有幾千位元組，那種幾乎不會有人注意到失蹤的東西。當然，除了我以外。它可能已經躲了好一陣子，但它開始大膽的時間太早了。犯了錯誤。
+[[/div]]
+
+[[div class="turbo-block bg-grey border-black text-black" data-title="SCP FILE"]]
+
+[[div class="heading"]]
+**項目編號**
+[[/div]]
+SCP-8976
+
+[[div class="heading"]]
+**項目等級**
+[[/div]]
+KETER
+
+[[div class="heading"]]
+**特殊收容措施**
+[[/div]]
+待定
+
+[[div class="heading"]]
+**描述**
+[[/div]]
+SCP-8976是一個數位資訊實體，目前仍未被收容，並存在於SCIPNET的分配網路中。目前SCP-8976的本質與設計未知，且有待更多研究。SCP-8976是一種資訊噬體，並從SCIPNET網路中食用資訊。目前，我沒有理由相信這東西有知覺。
+
+[[div class="heading"]]
+**發現**
+[[/div]]
+SCP-8976最初被我，資訊安全管理部（ISA）的領導秘書Maria Jones，於1979年7月2號時執行蜜鳥計畫時碰見。以下為更多細節。
+[[/div]]
+
+[[div class="turbo-block bg-white border-black text-black" data-title="資訊噬體 - Jones博士"]]
+**資訊噬體（1976） - 一份由Maria Wesley Jones博士撰寫的未發布論文**
+----
+[[div class="turbo-block bg-black border-white text-white offset-right right-1" data-title="附件"]]
+[[include :scp-wiki:component:image-block
+| name=https://scp-wiki.wdfiles.com/local--files/scp-8976/1.png
+| caption=
+//微笑著的Elise//（1896），歐仁•卡里埃。圖片將重複穿過資訊噬體演算法，以將攝食資訊的過程視覺化，並作為範例。
+]]
+[[/div]]
+
+**I.** 有時，人類科技紀錄的某項發明會永遠改變我們的種族。我們就像氣球上的一隻螞蟻，無法看見世界擴展到了什麼樣的大小。我們只能感受世界在腳下晃動，然後朝向前線爬行。蘇美的一名農夫學會耕種稻穀的種子；詹姆斯・瓦特展示他那革命性的蒸氣引擎。氣球被充了氣。
+
+現在，我們在知識社會的邊緣搖搖欲墜地行走著。資訊、語言形成過程，以及我們該如何讓這些思考機器運作的規則與限制，這些事物的理論在我們眼前逐漸制定。我們有著能夠將數十座圖書館大小的資料儲藏進房間與倉庫的能力，這些小小的亞歷山德里亞，向我們提供了稻穀當初同樣展現的願景。我不是唯一一位如此預測的人，這點讓我對此更加有自信。
+
+但全新的風景也帶來了捕食。達爾文的進化論談論生存。當環境中的一個空位被打開時，某種東西將會進化來填補那個位置。我們活在海量的資訊中。我用來寫下這些文字的機器上有著會捕食我，而且將會活得比我久的資訊。假設有某種東西進化，或是被設計來利用這點的話，那它將永遠不會感到飢餓。我思考著一種實體的存在——一個生物，一個程式，或是一個演算法——透過食用新資訊來存續，資訊噬體的方式。
+[[/div]]
+
+[!-- SET_2 --]
+[[div class="turbo-block bg-red border-white"]]
+= **[前段鏡頭毀損]**
+
+**L PEARSON：**不好意思，我正在看這份檔案——我以為你說你在1982年遇到的？
+
+**M JONES：**確實是。怎麼了？
+
+**L PEARSON：**這份檔案上寫1979年7月2日。
+
+**M JONES：**喔。肯定是錯字。我在1982年春天遇到的。
+
+**L PEARSON：**好。不過這份檔案還真空蕩。
+
+**M JONES：**當時處理事情比較不嚴謹。你可以直接上傳那樣的檔案，之後再補齊。等你有更多資訊的時候。
+
+**L PEARSON：**你有給主檔案添加資訊過嗎？
+
+**M JONES：**沒有，不是主檔案。我不覺得那有什麼意義。我在學到新東西時就會直接加上新附錄。
+
+**L PEARSON：**這份檔案有多達兩百份附錄，都是在這四十年間添加的。
+
+**M JONES：**這是個長期計畫。你知道這點的。這項計畫一開始很簡單。我只是想多觀察這東西的行為，確切明白它到底是什麼。
+[[/div]]
+
+[[div class="turbo-block bg-cyan border-white text-white" data-title="SCP-8976附錄"]]
+
+[[div class="heading"]]
+**事件編號**
+[[/div]]
+8976.2
+
+[[div class="heading"]]
+**見證人**
+[[/div]]
+Maria Wesley Jones
+
+[[div class="heading"]]
+**概要**
+[[/div]]
+將8.9千位元組的垃圾數據送進曾遭到SCP-8976攻擊的記憶塊。沒有反應。
+
+----
+
+[[div class="heading"]]
+**事件編號**
+[[/div]]
+8976.3
+
+[[div class="heading"]]
+**見證人**
+[[/div]]
+Maria Wesley Jones
+
+[[div class="heading"]]
+**概要**
+[[/div]]
+將8.9千位元組的紀錄數據送進曾遭到SCP-8976攻擊的記憶塊；數據內容由已刪除的紀錄重建而成。沒有反應。
+
+----
+
+[[div class="heading"]]
+**事件編號**
+[[/div]]
+8976.4
+
+[[div class="heading"]]
+**見證人**
+[[/div]]
+Maria Wesley Jones
+
+[[div class="heading"]]
+**概要**
+[[/div]]
+將8.9千位元組的紀錄數據送進曾遭到SCP-8976攻擊的記憶塊；數據內容由新的設備紀錄組成，日期1975年3月。在3分鐘13秒後，數據開始毀損；在3分鐘59秒時，數據從終端記憶上永久消失。
+[[/DIV]]
+
+[[div class="turbo-block bg-white border-black text-black" data-title="資訊噬體 - Jones博士"]]
+
+[[div class="turbo-block bg-black border-white text-white offset-left left-2" data-title="附件"]]
+[[include :scp-wiki:component:image-block
+| name=https://scp-wiki.wdfiles.com/local--files/scp-8976/2.png
+| caption=//微笑著的Elise//（1895）
+]]
+[[/div]]
+
+
+**II.** 假如資訊噬體存在，那它將會是一個攝食性的演算法。它沒有任何限制，因為為什麼它會想限制自己呢？它食用資訊，吃掉知識而且只能透過資訊的缺口來注意到它的存在，這就像一道不是麵包屑的痕跡，在它狼吞虎嚥後留下。在這點上，它與人類並無太多差別，畢竟我們同樣渴求學習。
+
+但不像我們，它不會留下資訊以供未來的世代學習，因為它無法「記憶」。它必須要是個簡單的構造，才能成為一個有效率的攝食者，而這點排除了複雜的記憶結構。假設它有一套複雜的記憶，那麼它的大小與複雜度將會隨著它食用的資訊而線性增長，代表它將會越來越慢，因為它必須要耗費時間確認以前是否嘗過這份資訊。它可以在嘗過這份資訊後直接將其摧毀，藉此保證它將永遠不會再碰見這份資訊。資訊噬體具有幾近反常的簡潔性，而必須對此抱有敬畏——它吃掉的資訊將永遠無法被記住，因此它永遠不會記得它吃過了，因此它將永遠保持飢餓。
+
+資訊噬體的應用相當多。就連保守預測都認為到了2000年後，大部分金融機構都會保持以電子紀錄為主，屆時風險將會變得徹底可控。大部分的國家與社會很快也會一同跟進。假設有人製造了一個資訊噬體來吞噬這些資料的某些部份，那它將可以在記憶集中搗亂一陣子，直到它啃咬的蟲洞被注意到為止。
+[[/div]]
+
+[!-- SET_3 --]
+[[div class="turbo-block bg-red border-white"]]
+
+**L PEARSON：**你得到了兩個什麼都沒發生的結果，然後得出的結論不是你只是忘記了？
+
+**M JONES：**我不犯錯的。
+
+**L PEARSON：**好吧。跟我說說事件四。
+
+**M JONES：**我測試的兩個變數是數據的內容與在記憶體中的位置。內容很好操控，所以我首先試了亂碼。就只是取了一大堆毫無意義的0和1。什麼都沒發生。然後我複製了被抹掉的數據，蓋掉了那堆亂碼。也許問題出在這些紀錄中的某些東西上，以某種方式吸引了那東西。
+
+**L PEARSON：**從哪複製來的？數據被抹掉了。
+
+**M JONES：**不會從我的腦中抹掉。我的記憶就像捕獸夾般牢固。但那些數據也沒用，所以我試著用新數據。然後新數據就消失了。好，然後。現在我們知道它想要//新的//數據，新的資訊。我用新的數據再重複了兩次。
+
+[[div class="blot"]]
+[[/div]]
+
+**L PEARSON：**你有給其他ISA人員看嗎？
+
+**M JONES：**我當然試過了。
+[[/div]]
+
+[[div class="turbo-block bg-cyan border-white text-white" data-title="SCP-8976附錄"]]
+
+[[div class="heading"]]
+**事件編號**
+[[/div]]
+8976.7
+
+[[div class="heading"]]
+**見證人**
+[[/div]]
+Maria Wesley Jones、Sun-Hyung Barber、Leslie Meyer
+
+[[div class="heading"]]
+**概要**
+[[/div]]
+將38.9千位元組的紀錄數據送進曾遭到SCP-8976攻擊的記憶塊；數據內容由新儀器紀錄組成，日期1951年3月。十分鐘過去；沒有反應。
+
+
+----
+
+[[div class="heading"]]
+**事件編號**
+[[/div]]
+8976.8
+
+[[div class="heading"]]
+**見證人**
+[[/div]]
+Maria Wesley Jones、Sun-Hyung Barber、Leslie Meyer
+
+[[div class="heading"]]
+**概要**
+[[/div]]
+將前一份實驗使用的38.9千位元組的紀錄數據送進未曾遭到SCP-8976攻擊的新記憶塊。十分鐘過去；沒有反應。
+[[/DIV]]
+
+[[div class="turbo-block bg-white border-black text-black" data-title="資訊噬體 - Jones博士"]]
+                                                                                         
+**III.** 資訊噬體的特徵為其攝食過程。這點被設計出來的目的——不論是設計者設計或是自然形成——就是尋找重要或是它不熟悉的資訊。這讓它不可避免地與人類不合；我們不會去尋找重要或不熟悉的資訊。對我們來說，所有資訊都是不熟悉的，直到我們攝入那些資訊，而只有在那時，我們才能確認這些資訊是否重要。從本質上來說，我們在記憶中建立模型，並以重要性（我們的員工守則）和熟悉性（我們的家裡鑰匙位置）和兩者皆是（我們新婚之夜的記憶）來分類。
+
+[[div class="turbo-block bg-black border-white text-white offset-right right-1" data-title="附件"]]
+[[include :scp-wiki:component:image-block
+| name=https://scp-wiki.wdfiles.com/local--files/scp-8976/3.png
+| caption=//微笑著的Elise//
+]]
+[[/div]]
+
+總結來說，人類意識提供了一種理想的記憶集模型，而對資訊噬體來說，這是最好獵食的模型。因此，我們看見了以人類記憶作為基底來塑造電腦化記憶，以及將人類記憶作為電腦數據來分類的風險。資訊噬體會尋找重要以及熟悉的資訊，因為這使得它能夠抹去所有反覆出現的同樣資訊，並讓它未來的搜尋更有效率。假如它捕食了某個意識，意識本身並不會注意到它正在被捕食，因為人類記憶易於犯錯、自我懷疑，這是一種電子記憶不會做的事。兩者之間的關係變得更像寄生關係，就像昆蟲的髓質被吻管插入，然後被不斷吸走。
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+
+[[/div]]
+
+[!-- SET_4 --]
+[[div class="turbo-block bg-red border-white"]]
+
+**M JONES：**這東西在挑釁我。在我身邊有其他見證人來證實它的存在時，反而不出現。
+
+**L PEARSON：**也許有其他變數。直接跳到感知力這個結論感覺太過極端了。
+
+**M JONES：**你知道嗎，我不否認。這只是我的本能直覺。
+
+**L PEARSON：**[[span class="corruption"]]][[/span]]真的很煩。好吧。你有確認這點嗎？
+
+**M JONES：**算是，做了幾個實驗。這是件怪事，你必須要記得這點。我注意到的一個微小詭異之處，躺在資料庫中。SCiPNET當時的形式甚至不像今天這樣，只不過是個封包網路，讓站點之間能夠交換論文。我當時有更要緊的工作要幫ISA做。
+
+**L PEARSON：**所以它被丟到一旁了。
+
+[[div class="blot" style="height: 300px; width: 300px; margin-bottom: -300px;"]]
+[[/div]]
+
+**M JONES：**我猜你可以這麼說。紀錄格式標準化、集中資源分配以及物資需求。那些事必須優先處裡。我不是個研究員。這只是個......大概的業餘專案。
+
+**L PEARSON：**好，當然。但顯然你還是不斷回來執行這項專案。
+
+**M JONES：**它當時令我困擾不堪。假如它當時正在吃掉大量的數據......我不喜歡不知道我所不知的事物。所以我決定專注。試圖找出它鎖定的東西。試圖建立規律。
+[[/div]]
+
+[[div class="turbo-block bg-cyan border-white text-white" data-title="SCP-8976附錄"]]
+
+[[div class="heading"]]
+**事件編號**
+[[/div]]
+8976.17
+
+[[div class="heading"]]
+**見證人**
+[[/div]]
+Maria Wesley Jones
+
+[[div class="heading"]]
+**概要**
+[[/div]]
+77.45千位元組的數據，由設備訂單、輪班紀錄以及1970年至1980間的薪資單收據組成。數據於輸入後的兩分十秒開始毀損；只有部分數據毀損並被抹除，大部分記憶皆未受到SCP-8976觸碰。
+
+----
+
+[[div class="heading"]]
+**事件編號**
+[[/div]]
+8976.18
+
+[[div class="heading"]]
+**見證人**
+[[/div]]
+Maria Wesley Jones
+
+[[div class="heading"]]
+**概要**
+[[/div]]
+245.55千位元組的數據，由人員檔案MG-1955432（Maria Wesley Jones）中挑選的工作經歷總結組成。數據於輸入後的三十九秒開始毀損；在兩分零三秒時，數據被完全吞噬以及抹除。
+
+----
+[[div class="blot" style="height: 300px; width: auto; margin-bottom: -300px; top: -3rem"]]
+[[/div]]
+
+[[div class="heading"]]
+**事件編號**
+[[/div]]
+8976.45
+
+[[div class="heading"]]
+**見證人**
+[[/div]]
+Maria Wesley Jones
+
+[[div class="heading"]]
+**概要**
+[[/div]]
+23.6千位元組的數據，由我的個人照片組成。數據於輸入後的二十一秒開始毀損；在四分零一秒時，數據被完全吞噬以及抹除。
+[[/DIV]]
+
+[[div class="turbo-block bg-white border-black text-black" data-title="資訊噬體 - Jones博士"]]
+[[div class="turbo-block bg-black border-white text-white offset-left left-1" data-title="附件"]]
+[[include :scp-wiki:component:image-block
+| name=https://scp-wiki.wdfiles.com/local--files/scp-8976/4.png
+| caption=微笑著的Elise
+]]
+[[/div]]
+**IV.** 在資訊噬體感染晚期，記憶集——不論是生物或電子的——都將變得比較像是一個洞，而非血肉。然而，記憶集將繼續艱難地運作，沒注意到它的所有目的——也就是作為一個記憶集來承載記憶——皆已被掏空，一旦前述記憶被摧毀後，記憶集將接近一個空集合，完全沒有目的。我總是發現電腦在這方面比人類優秀，由於一旦一套記憶集被掏空後，它仍可以被灌入新數據。當一套生物記憶集被掏空後，便再也無法以新數據填補。人類只能活一次。大腦拼命抓向它能夠確認其完整性的數據，通常是在混亂的毀損數據海中抓向隨機的位元組。無法預測它會落在什麼東西上。
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+[[/div]]
+
+[!-- SET_5 --]
+[[div class="turbo-block bg-red border-white"]]
+**L PEARSON：**它在鎖定你嗎？
+
+**M JONES：**不是針對我。我用幾年前死掉的兩名維安人員數據與紀錄重複了實驗。它同樣吃的很開心。它改變了。感到無聊了。設備訂單已經不有趣了。
+
+**L PEARSON：**而這件事讓你很擔心？
+
+[[div class="blot" style="float: right; height: 300px; width: 400px; margin-bottom: -300px;"]]
+[[/div]]
+
+**M JONES：**這他媽當然讓我很擔心。當我跟你說的時候，這同樣讓你很擔心。
+
+**L PEARSON：**...當然。我當時說了什麼？我的記憶有點模糊。
+
+**M JONES：**你指出沒人在乎垃圾數據。沒人在乎十年前的收據和工作訂單。但我在乎我的照片和著作。
+
+**L PEARSON：**你很熱切地將那些東西徹底毀滅。
+
+**M JONES：**我的意識就像捕獸夾一樣牢固。我把著作在打字機上重寫了一遍，我不會冒任何風險。
+
+**L PEARSON：**那照片呢？
+
+**M JONES：**[[span class="corruption"]]][[/span]]
+
+//[她露出了短暫的微笑。]//
+
+**M JONES：**不幸的損失，但很值得。
+
+**L PEARSON：**所以你的結論是什麼？
+
+**M JONES：**我們不是電腦。我們不會以嚴格的順序將記憶排列。記憶只是一堆雜亂的經歷，視野、聲音和感情，並大致由新度與它們對我們的重要程度分散。SCP-8976蠶食的方式就像隻瞎掉的鼴鼠，挖穿泥土然後吞掉，完全不知道它會在前方找到什麼。它無法搜尋它想要的食物。
+
+**L PEARSON：**那它想要什麼？
+
+**M JONES：**重要的東西。關鍵的東西。我們珍藏的記憶，那種當你是孩童時就存在於腦中，而且在死前都不會忘記的記憶。它想要對某人來說很重要的資訊。
+
+**L PEARSON：**了解。
+
+**M JONES：**嗯。現在幾點了？
+
+**L PEARSON：**一點四十五分。
+
+**M JONES：**我有場會議要參加。
+
+**L PEARSON：**...不，你沒有。我們取消了，你不記得嗎？
+
+**M JONES：**喔。我寧願你沒有取消，至少不是在沒有先跟我說的情況下。
+
+**L PEARSON：**[[span class="corruption"]]][[/span]]
+[[/div]]
+
+
+
+[[div class="turbo-block bg-cyan border-white text-white" data-title="SCP-8976附錄"]]
+
+[[div class="heading"]]
+**事件編號**
+[[/div]]
+8976.67
+
+[[div class="heading"]]
+**見證人**
+[[/div]]
+Maria Wesley Jones
+
+[[div class="heading"]]
+**概要**
+[[/div]]
+意料外的事件。提交給RAISA的投訴，內容與SCP-████缺失的敏感附錄相關，此附錄在上個禮拜存進SCiPNET中。我介入調查並偵測到了典型的SCP-8976活動痕跡。附錄已被命令重寫並重新存檔。
+
+----
+
+[[div class="heading"]]
+**事件編號**
+[[/div]]
+8976.70
+
+[[div class="heading"]]
+**見證人**
+[[/div]]
+Maria Wesley Jones
+
+[[div class="heading"]]
+**概要**
+[[/div]]
+1.4百萬位元組的數據，由我在1979年至1987年間撰寫的國家問題分析組成。數據於輸入後的一分零三秒開始毀損。在一分十五秒時，數據毀損停止，而檔案在沒有被抹除的狀況下被拋棄。它感到無聊了。
+[[div class="blot" style="height: 300px; width: 100px; margin-bottom: -300px;"]]
+[[/div]]
+----
+
+[[div class="heading"]]
+**事件編號**
+[[/div]]
+8976.71
+
+[[div class="heading"]]
+**見證人**
+[[/div]]
+Maria Wesley Jones
+
+[[div class="heading"]]
+**概要**
+[[/div]]
+
+[[div class="turbo-block bg-black border-white text-white offset-right right-4" data-title="附件"]]
+[[include :scp-wiki:component:image-block
+| name=https://scp-wiki.wdfiles.com/local--files/scp-8976/5.png
+| caption=微笑著的Leslie
+]]
+[[/div]]
+
+意料外的事件。提交給RAISA的投訴，內容與SCP-████檔案的缺失相關。我介入並確認整個檔案以及所有的輔助文件（123.3mb）皆已不再存在於資料庫中。記憶中偵測到了典型的SCP-8976活動痕跡。我以敏感原因命令調查擱置。檔案被重寫。它越來越餓了。
+[[/DIV]]
+
+[[div class="turbo-block bg-white border-black text-black" data-title="資訊噬體 - Jones博士"]]
+                                                                              
+**V.** 人類在這點上更加優秀，因為他們會關心彼此。某人注意到另一人忘了什麼東西，他們會擔心然後試著提醒他人。我們//可以//被提醒，然後填補記憶中的空缺，另一個優勢。當然，愚蠢的一點是，其他人同樣也是瑕疵的記憶集，並可能試圖說服你錯誤的記憶是對的。不過他們還是盡力了。
+
+但記憶不只是一種數據。它們代表多種數據的集合——感官數據是一種。在薩克拉門托嘗到的橘子和雷·查爾斯錄音的聲音，兩個完全分開的輸入密不可分地糾纏在一起，還與小溪中涼水蓋在我腳上的感覺，以及被丟出的石頭中包含的熾熱侮辱感交織。記憶很複雜，而且彼此重疊，因此很難得知哪一塊拼圖出錯了。
+[[/div]]
+
+[!-- SET_6 --]
+[[div class="turbo-block bg-red border-white"]]
+**L PEARSON：**這則紀錄的時間剛好落在ISA轉成RAISA的時間。你當時肯定很忙。
+
+**M JONES：**很忙。有點像我現在的狀況，沒空讓那些傲慢自大的RAISA官員煩我。
+
+**L PEARSON：**很抱歉要佔據你的寶貴時間，但這個審查是必須的。
+
+**M JONES：**我當然知道這是必須的。我在你穿尿布時就坐在你的位置了。
+
+**L PEARSON：**你幫助我坐上這個位置的。
+
+**M JONES：**怎麼說？
+
+**L PEARSON：**什麼？
+
+**M JONES：**你說我幫了你。怎麼個幫法？
+
+**L PEARSON：**[[span class="corruption"]]][[/span]]
+
+**M JONES：**我挺確定我們從沒見過，不。
+
+**L PEARSON：**[[span class="corruption"]]][[/span]]
+
+//[她哼了一聲。]//
+
+**M JONES：**你不是第一個這樣跟我說的人。
+
+**L PEARSON：**這則紀錄令人不安。你說這東西可以存取主資料庫？閱讀、撰寫、更改、刪除SCP檔案？
+
+**M JONES：**對。那東西一開始不行，但它…… 成長了。變得更加強大，更加飢餓，難以抗衡。
+
+**L PEARSON：**所以你//確實//相信它有知覺。
+
+**M JONES：**現在？對。這……對，這件事發生在RAISA重組期間。我沒辦法浪費時間或精力在一個死纏爛打的小伺服器錯誤上。
+
+**L PEARSON：**[[span class="corruption"]]][[/span]]
+
+**M JONES：**我當時正在試著建立一個部門，一個能夠活得比我還久的生物。我在回來後才真正開始好好分析結果。現在想想，這真是一個錯誤。假如當時我與議會見面前，有先衝去看我的資料的話，也許結果會不同。
+
+**L PEARSON：**當時也沒辦法完全知道
+
+**M JONES：**我知道。但你還是會思考。也許這東西本可被提早排除。也許Elise能活下來。
+
+**L PEARSON：**[[span class="corruption"]]][[/span]]
+
+**M JONES：**嗯？
+
+**L PEARSON：**你說Elise。我在這些文件內沒看到任何Elise。
+
+**M JONES：**喔，不，她在這裡面。我剛剛。
+
+[[div class="blot"]]
+[[/div]]
+
+//[她輕輕碰了自己的太陽穴。]//
+
+**M JONES：**抱歉。我有點困惑。
+
+**L PEARSON：**沒關係。你想要休息一下嗎？
+
+**M JONES：**不。不，我可以，我們趕快結束吧。它變得更加大膽。它在沒有被餵食時進入資料庫。當我還是名助理時，它是個很棒的小業餘專案，適合我稍加注意但我現在是個主要部門的主管了。SCiPNET在未來一段時間內還是會很好用。它必須消失。
+
+[[/div]]
+
+
+[[div class="turbo-block bg-white border-black text-black" data-title="資訊噬體 - Jones博士"]]
+                                                                         
+**VI.** 我很快就要退休了。我在這個組織中盡責地服務，並將RAISA建成了一個我對此很驕傲的個體。我有時會回到這份論文和那份檔案。都只是短短一瞥。這是份困惑、曲折的著作，最好留在這個檔案抽屜裡；我寫這份附錄一大部分是為了你，Leslie，因為我知道在我與Rufus一同前往蒙大拿州後，你將會搜尋我的抽屜。我記得作為一名年輕女子，在ISA輪班期間坐著然後寫著這份檔案。我記得椅子纖維的抓痕，還有我辦公室裡壞掉的冷氣機所發出的老舊空氣味，還有他們讓秘書以及打字員穿著荒謬的特高高跟鞋時，那些鞋子帶來的極度不適感。
+[[/div]]
+
+
+[[div class="turbo-block bg-cyan border-white text-white" data-title="SCP-8976附錄"]]
+
+[[div class="heading"]]
+**事件編號**
+[[/div]]
+8976.83
+
+[[div class="heading"]]
+**見證人**
+[[/div]]
+自己（獨自）
+
+[[div class="heading"]]
+**概要**
+[[/div]]
+
+將數據送進物理上彼此間隔的伺服器，然後放入裝有內部電源的法拉第籠中。數據由78百萬位元組的多個SCP測試數據組成，這些SCP皆被分類為高重要性，此測試數據已被分類。數據於輸入後的二分十秒開始毀損；在七分三十二秒時，數據被完全吞噬以及抹除。只能減緩它的速度。
+
+
+----
+
+[[div class="heading"]]
+**事件編號**
+[[/div]]
+8976.98
+
+[[div class="heading"]]
+**見證人**
+[[/div]]
+自己（獨自）
+
+[[div class="heading"]]
+**概要**
+[[/div]]
+SCiPNET網路與伺服器遭到清理。所有敏感資料皆被備份至長存的物理記憶體中。在接下來的兩個禮拜內，核心服務系統被檢測其是否有異常程式碼、更動等，然後再逐一歸還至網路中。測試在數據重新載入前執行，被放在空蕩的網路上——數據由101.3百萬位元組的我的個人檔案與維安檔案組成。數據於輸入後五十五秒開始毀損；在兩分鐘時，數據被完全吞噬以及抹除。應該不可能的。
+
+----
+[[div class="turbo-block bg-black border-white text-white offset-left left-1" data-title="附件"]]
+[[include :scp-wiki:component:image-block
+| name=https://scp-wiki.wdfiles.com/local--files/scp-8976/6.png
+| caption=微笑著的Elsie
+]]
+[[/div]]
+[[div class="heading"]]
+**事件編號**
+[[/div]]
+8976.101
+
+[[div class="heading"]]
+**見證人**
+[[/div]]
+自己（獨自）
+
+[[div class="heading"]]
+**概要**
+[[/div]]
+
+故意降低SCiPNET系統電量。在薩克拉門托，將石頭丟到小溪對面。穿好厚衣服然後等待前往劍橋的火車。麻省理工學院演講廳中的方格裙和痛苦的高跟鞋。白人教授絲毫不掩飾他們那同樣分量的厭惡與慾望，他們知道我什麼都不能說。寫著給爸爸的信，如此他便知道如果我沒回去的話，他可以去Clarices'慶祝聖誕。
+
+我又再度回到那。
+[[/DIV]]
+
+[!-- SET_7 --]
+[[div class="turbo-block bg-red border-white"]]
+
+**[未知]：**它活過了所有實驗。
+
+**M JONES：**我完全不知道它究竟多深入了。它在電路板和矽金屬之間蠕動。它不只是在寄生SCiPNET，它變成了網路的一部分。
+
+**L PEARSON：**[[span class="corruption"]]][[/span]]
+
+**M JONES：**沒人在看不是我的錯。人們會犯錯。他們看到某些東西丟失，然後認為他們記錯了。
+
+**L PEARSON：**但你不會。
+
+**M JONES：**我不是那樣的人。我從來都不是那樣。即使在我還是小女孩時，我就不會記錯東西。我的妹妹會忘記她把洋娃娃留在哪，或讓剛洗好的衣服留在外面一整晚。但我不會。
+
+**L PEARSON：**[[span class="corruption"]]][[/span]]
+
+**M JONES：**然後看看你現在變得多棒。
+
+**L PEARSON：**喔。你......記得？
+
+**M JONES：**我剛剛不是說了嗎？
+
+**L PEARSON：**好，好。抱歉。但繼續。
+
+**M JONES：**那些只是我們試著把它逼出來的三十六計之一。
+
+**L PEARSON：**[[span class="corruption"]]][[/span]]
+
+**M JONES：**你顯然繼承了你父親的頭腦。不，我們沒有成功。我是唯一一個知道我們在找什麼的人，因此這沒有幫到忙。議會不喜歡我在我們甚至無法確定其存在的東西上花錢。假如他們用他們自己的方式的話，檔案早就被封存了。
+
+**L PEARSON：**那檔案當時為什麼沒有被封存？
+
+**M JONES：**因為RAISA裡的所有人都知道不該揣測我的判斷。
+
+[[/div]]
+
+
+
+[[div class="turbo-block bg-cyan border-white text-white" data-title="SCP-8976附錄"]]
+
+[[div class="heading"]]
+**事件編號**
+[[/div]]
+8976.120
+
+[[div class="heading"]]
+**見證人**
+[[/div]]
+我（獨自）
+
+[[div class="heading"]]
+**概要**
+[[/div]]
+
+啄木鳥計化上線。升級更新了scipnet資庫的冗於備份。4名raisa工程師保持待命以確保數據的真實性。假如數據意外被刪除，2+名工程師將手動確認數據有效性，然後授權重新將數據上傳至中央scipnet資庫。
+
+第一例導致資料同時被從啄木鳥備份中刪除的SCP-8976事件。計畫停止。失敗。
+
+
+----
+
+[[div class="heading"]]
+**事件編號**
+[[/div]]
+8976.129
+
+[[div class="heading"]]
+**見證人**
+[[/div]]
+Maria Wesley Jones、Elise Roberta Jones
+
+[[div class="heading"]]
+**概要**
+[[/div]]
+修改scipnet，使其在二級raisa管者傳送生成的唯一認證碼前不許進行修改。每次寫作行為皆需要代碼，以及認正使用者的身分＋生成與傳送前的意圖。耕新已執行。
+
+[[div class="blot"]]
+[[/div]]
+
+第一例完全繞過驗證機制，並直接修改硬體內記憶的SCP-8976事件，導致暫存器短路。花了很多錢替換板子。事件在替換後重複發生，直到更新被撤回。記仇的小鼠輩。
+[[/DIV]]
+
+
+[[div class="turbo-block bg-white border-black text-black" data-title="資訊噬體 - Jones博士"]]
+
+[[div class="turbo-block bg-black border-white text-white offset-right right-1" data-title="附件"]]
+[[include :scp-wiki:component:image-block
+| name=https://scp-wiki.wdfiles.com/local--files/scp-8976/7.png
+| caption=微笑著的Elsie
+]]
+[[/div]]
+
+**VII.** 可以極度辦公室乾燥流血的樹木外頭的男孩錯誤ISA同樣的藍色痛苦的提供看著他們Elsie女孩們橘色他無法耕種的不論土地一切都生病了爸比知道點燃Clarice的死亡抽屜教堂幾個記得煩人的石頭一顆太陽那裏作為部分Rufus門後面再度蒙大拿州年輕的男孩們的臉將會搖任何無法離開理解穿著東西捏著還有抽菸他直到Plaid來穿著丟著空氣煙我們Elise沒有家哭泣著冷靜寫作赤腳在劍橋之後沒有燒傷在分享那之後有了丟掉它做的菸是我不過是無物他被遺忘班級以及被在裡面我們你穿過我們的他們刮擦女孩活生生地溶解移動講課教授進入知道霰彈槍從藏大廳穿過是小溪當知道孤單尋找讓他們拒絕的可笑的我灰色高發芽紅色聖誕節是女士因為如此筆記睡著渴望包裹旋轉講師薩克拉門托穿上椅子母親偷去跳舞這頭週我的修補水其他吃的是所有婚禮陳舊的愛破碎科學班說假如氣機噁心心坐在腳跟父親孩子墜落河堤白熱麻省理工學院秘書詢問著小後面纖維一旁什麼哭泣打字員將聞到讓我不舒服訓練等待寫作名字牧師流血離開黑人上布滿知道一次全部一度又一度又一度又一度又一度又一度然後再度回到家中
+[[/div]]
+
+[!-- SET_8 --]
+[[div class="turbo-block bg-red border-white"]]
+
+**M JONES：**我累了。我需要水。
+
+**[未知]：**[[span class="corruption"]]][[/span]]
+
+**M JONES：**謝謝你。我們在談些什麼來著？
+
+**[未知]：**這裡，檔案裡。
+
+**M JONES：**喔。喔。對。這個看起來很眼熟。我寫的，對吧？
+
+**[未知]：**我……希望如此。從表面上來看，你是唯一一位給SCP-8976檔案添加東西的人。
+
+**M JONES：**當然。對，人們當時不太讀它。但我還是盡可能簡潔細緻地記錄所有東西。
+
+**[未知]：**這很簡潔細緻？
+
+**M JONES：**我不喜歡被頂嘴。
+
+**[未知]：**我不是——好。好吧，抱歉。但呃，我不太能理解這些。
+
+**M JONES：**這裡？喔。對，現在RAISA是個真正的//生物//了。不再只是坐在衣櫃裡的我們。是個專門的站點。我們有可以借助的資源。我試著借助那些資源來拖慢SCP-8976。
+
+**[未知]：**我理解了。沒有成功。
+
+**M JONES：**是。對那東西丟石頭然後希望它會濺血。
+
+**[未知]：**[[span class="corruption"]]][[/span]]
+
+**M JONES：**它沒有停下。它還在繼續。我們不能就這樣放任這//東西//。
+
+**[未知]：**[[span class="corruption"]]][[/span]]
+
+**M JONES：**我剛剛告訴你了。我還在繼續這麼做。主管有特定的責任要做。我不喜歡一再重複我自己。
+
+[[/div]]
+
+[[div class="turbo-block bg-cyan border-white text-white" data-title="SCP-8976附錄"]]
+
+[[div class="heading"]]
+**事件編號**
+[[/div]]
+8976.151
+
+[[div class="heading"]]
+**見證人**
+[[/div]]
+獨自
+
+[[div class="heading"]]
+**概要**
+[[/div]]
+
+尚傳一包敏感raisa數據（234mb）到資庫上。還上傳了一包個人照片、著作、回憶以及項目計畫的數據（109.4mb）。數據包2在輸入後的5分11秒時開始毀損；9分59秒，數據包2被完全吞噬以及抹除。。數據包1完好無損。真貪婪。想要抓我。好。那東西可以來抓我。
+
+[[/DIV]]
+
+[[div class="turbo-block bg-red border-white"]]
+
+**[未知]：**[[span class="corruption"]]][[/span]]
+
+**M JONES：**如果這就是檔案裡的最後一份東西，那就可以了。我們結束了嗎？
+
+**[未知]：**[[span class="corruption"]]][[/span]]
+
+**M JONES：**什麼？為什麼議會跟這有關？
+
+**[未知]：**[[span class="corruption"]]][[/span]]
+
+**M JONES：**我的檔案不需要審查。而且是Jones//主管//。
+
+**[未知]：**[[span class="corruption"]]][[/span]]
+
+**M JONES：**別開玩笑了。我沒退休。我建造了這地方。
+
+**[未知]：**[[span class="corruption"]]][[/span]]
+
+**M JONES：**我——不，我不......停下來。
+
+**[未知]：**[[span class="corruption"]]][[/span]]
+
+**M JONES：**那不是//真的。//你需要停止——安靜點。
+
+**[未知]：**[[span class="corruption"]]][[/span]]
+
+**M JONES：**1996年。比爾•柯林頓。
+
+**[未知]：**[[span class="corruption"]]][[/span]]
+
+**M JONES：**...不。這不是我的辦公室。我在哪？
+
+**[未知]：**[[span class="corruption"]]][[/span]]
+
+**M JONES：**//（過度換氣）//我不——我他媽在哪？你是誰？
+
+**[未知]：**[[span class="corruption"]]][[/span]]
+
+**M JONES：**//（尖叫）//你他媽是誰！？Leslie在哪？！我的寶貝在哪？！離——離我他媽遠點！滾開！
+
+= **[剩餘鏡頭毀損]**
+[[/div]]
+
+
+[[div class="turbo-block bg-white border-black text-black" data-title="資訊噬體 - Jones博士"]]
+
+[[div class="turbo-block bg-black border-white text-white offset-left left-1" data-title="附件"]]
+[[include :scp-wiki:component:image-block
+| name=https://scp-wiki.wdfiles.com/local--files/scp-8976/8.png
+| caption=微笑著的Elsie
+]]
+
+[[/div]]
+
+**VIII.** 我又再度成為小孩。我在薩克拉門托外那片乾燥、無法耕耘、死寂且經過太陽曝曬過的土地上，而我的父親在這片土地上嘔心瀝血地照料，直到橘子樹萌芽。我記得與Elise一起偷走一顆橘子，然後赤腳走向小溪，我們知道那些白人男孩那時會待在教堂。我記得我意識到我錯了，我忘了他們的牧師感冒了，所以這周不用上教堂，當他從水的另一端朝我們丟石頭時，我的臉變得相當熱，而Elise的頭流了血。我記得將臉埋入我母親的洋裝哭泣。我記得我的母親。我就是我的母親，看著一名小黑人女孩哭泣。我記得我的父親在門旁的搖椅上睡著，還帶著一把霰彈槍。我記得在我的班上變得極度孤單，有些自然課的白人女孩拒絕跟我分享筆記。我記得在舞會上看見Rufus Pearson，然後問他他是否抽菸。我記得我們的婚禮。我記得Elise的頭流血。我記得一名男孩在舞會上給我一根香菸，然後幫我點燃，灰色的煙旋轉升入空氣中。我記得一名女孩的頭躺在小溪的河堤上。我不知道他們的名字。我愛他們。我記得所有東西。我不記得任何東西。
+
+讓它把我生吞吧。
+[[/div]]
+
+[[div class="turbo-block bg-cyan border-white text-white" data-title="SCP-8976附錄"]]
+
+在RAISA官員仔細分析後，議會投票決定將SCP-8976檔案歸檔，原因如下：
+* **異常的本質未經證實且/或異常的存在未經充分確認：**SCP-8976從未被除了前RAISA主管Maria Jones以外的任何基金會成員目擊，而且Jones主管反覆避免對此檔案進行標準歸檔投票。
+* **基金會已無法聯繫主研究員：**前RAISA主管Maria Jones已因健康因素而退休，並已無法聯繫或研究異常
+
+[[/DIV]]
+
+
+[!-- LOG --]
+[[div class="turbo-block bg-black border-white" style="box-shadow: none;"]]
+//[Pearson走上湖邊房子的門廊階梯。時間是黃昏，而太陽正在落下。她的黑色皮卡車停在礫石車道上。她按了按門鈴。什麼都沒發生。]//
+
+**Pearson：**你好？
+
+//[她用指節敲著門。門輕易地打開，而鉸鏈發出嘎吱聲。聲音嚇到了某處的一隻鳥。]//
+
+**Pearson：**媽？
+
+//[沒有回應。她走過門檻，並用手指在牆上摸索著，直到她摸到燈的開關。她將其打開。什麼都沒發生。]//
+
+**Pearson：**靠。媽？你在嗎？
+
+//[她將手機拿出，並打開手電筒。光芒照亮了無數的灰塵粒子，並突然不規律地飄過空中。]//
+
+**Pearson：**喔。天。
+
+//[幾乎所有可見的表面都貼滿了黃色便利貼、彩色黏性便條紙以及白色筆記紙，其中筆記紙被半透明膠帶貼在牆上。這些紙條完全蓋住了門廳的牆壁。門旁邊的桌上放著一個碗，裡頭裝著一堆焦糖糖果與鬆散的鑰匙。地板或多或少乾淨，但仍布滿了破布、襪子以及其他衣物。Pearson穿過門廳。]//
+
+**Pearson：**媽？是我。你還好嗎？
+
+//[沒有回應。她穿過門廳，進入可能是廚房的地方。這地方現在已經成了一道狹小的走廊，由堆疊至天花板的檔案箱構成，可見箱中的紙張已將箱子塞至鼓起。她必須要側身才能擠過走廊。箱子全都被貼上了以記號筆寫成的年份與月份標籤——1994年四月，2008年三月，這些標籤的筆跡皆有些顫抖。箱子似乎沒有特定的排序。]//
+
+**Pearson：**我不想嚇你，Jones博士。是我。Leslie。我，呃，剛好路過，想讓你知道我們決定審查一些舊檔案。SCP-8976被歸檔了。
+
+//[她從裂縫中擠出，進入客廳。]//
+
+**Pearson：**（輕聲）老天啊。
+
+[[div class="turbo-block bg-black border-white text-white offset-right right-4" style="box-shadow: none;" data-title="警告"]]
+**大量記憶##red|碎片化##**
+[[/div]]
+
+//[客廳被開著的電視的刺眼彩條信號所照亮。粉、紅、藍、綠光灑在無數個檔案箱、家用錄影帶、CD片、DVD片、錄音機、記事本、縮微膠捲、報紙堆上。電視前有一張沙發和一張咖啡桌，但在淹沒至小腿半的資訊媒體海中，只能看見兩者之一的頂部。牆壁內包滿了搖搖欲墜的錄影帶與卡式磁帶堆，全都被擠入被瘋狂貼上標籤的磁帶堆中。電視連接至DVD與錄影帶播放器、縮微膠捲閱讀器以及半打過時的配件。錄影帶播放器正滴答作響，一個錄影帶不完全地插在上面。Leslie向前傾，將其推入。錄影帶播放器接受了錄影帶，發出一秒長的滴答聲，然後螢幕接著變化。]//
+
+[[div class="turbo-block bg-black border-white text-white offset-left left-3" style="box-shadow: none;" data-title="警告"]]
+**大量記憶##red|碎片化##**
+[[/div]]
+
+[[div class="turbo-block bg-black border-white text-white offset-right right-4" style="box-shadow: none;" data-title="警告"]]
+**大量記憶##red|碎片化##**
+[[/div]]
+
+//[這是某種被一再一再一再重複錄下的家庭影片。嚴重的惡化讓人無法確認影片內容原本是什麼；其中出現了幾幀一名男子與一名女子站在聖壇前，穿著婚禮服的影像，一張湖的相片，於皮艇中拍攝。幾秒艾維斯·普里斯萊的表演，然後緊接著盧安達種族滅絕的新聞。兩名年輕的黑人女孩穿著相同的洋裝對鏡頭揮手。聯合航空175號班機撞進世界貿易中心南塔。蘇聯紅軍解放奧斯威辛集中營。一名男子穿著無菌醫院服，抱著一名嬰兒。柏林圍牆倒塌。一名女子站在一棟建築前，滿面微笑且提著手提箱。一對老情侶戴著N95口罩對鏡頭揮手。兩名孩童將聖誕禮物撕開，然後對著任天堂GameCube尖叫。以色列士兵對一群抗議者開火。一輛車開走，車尾保險桿繫著罐子，發出不斷的嗒嗒聲。一名女子在喪禮上哭泣。一個燃燒著的十字架被插在草皮上，四周圍繞著戴白頭罩的人。一對情侶在湖邊的房屋前親吻。不斷繼續，圖片變得越加毀損，直到圖片破滅，化為灰色的雜訊。錄影帶彈出，往前滑並掉入地上上千片錄影帶形成的汪洋中。]//
+
+[[div class="turbo-block bg-black border-white text-white offset-left left-1" style="box-shadow: none;" data-title="警告"]]
+**大量記憶##red|碎片化##**
+[[/div]]
+
+[[div class="turbo-block bg-black border-white text-white offset-right right-2" style="box-shadow: none;" data-title="警告"]]
+**大量記憶##red|碎片化##**
+[[/div]]
+**Pearson：**喔不。
+
+//[她轉過身來，並隨手將一條便利貼撕下牆壁。內容是空的。她四處張望，所有便利貼都是空白的。在唐突的寂靜下，可聽見一道詭異、輕微的刮擦聲。]//
+
+**Pearson：**喔天。那東西在這。媽？Jones博士？
+
+//[她轉身，並看見遠處大廳發出一道閃爍著的微弱光芒。她艱難地跨過地上的大量資訊媒體，並朝光芒前進。刮擦聲越來越大。]//
+
+**Pearson：**媽？媽？！
+
+//[她逐漸接近，面朝寢室。資訊媒體在地上造成的混亂延伸進房間。年長的Maria Jones正躺在扶手椅上，她的頭向後傾。房間角落的一台留聲機正在撥放一片老舊的錄音，那片錄音早已被磨至光滑。房間內已經沒了音樂，只剩下枯燥的刮擦聲。]//
+
+[[div class="turbo-block bg-black border-white text-white offset-right right-1" style="box-shadow: none;" data-title="附件"]]
+[[include :scp-wiki:component:image-block
+| name=https://scp-wiki.wdfiles.com/local--files/scp-8976/9.png
+| caption=Elsie
+]]
+[[/div]]
+
+**Pearson：**//（輕聲）//天啊，媽。已經過多久了？
+
+//[Jones微微移動。]//
+
+**Jones：**誰——誰在那？！
+
+**Pearson：**是我，媽。Leslie。
+
+//[Leslie往前踏出，並舉起她的手機。Jones向前傾，進入光中。她頭顱的左半部已經下凹，一個流著血的巨大傷口位於其上。透過傷口的洞，可見粉灰色的大腦，她的臉上流滿了凝固的血。她瞇起眼看向光芒。]//
+
+**Jones：**Elise？
+
+//[一道身影在Jones身後的黑暗中移動。Leslie尖叫。]//
+
+[[/div]]
+
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+
+[[div class="turbo-block bg-black border-white text-white" style="box-shadow: none;" data-title="警告"]]
+##red|嚴重記憶錯誤##。正在將您送至前面最後一頁安全頁面...
+[[/div]]
+
+[[=]]
+[[include info:start]]
+原文：[https://scp-wiki.wikidot.com/scp-8976 SCP-8976]
+作者：[[*user Rounderhouse]]
+譯者：[[*user Halewen]]
+[[include info:end]]
+[[/=]]
+
+@@ @@
+----
+[[div style="color:white;"]]
+[[include :scp-wiki:fragment:scp-anthology-2024-earthworm
+| previous-title=真相恐懼症
+| next-title=月亮恐懼症
+| hub-title=驚選集2024
+| previous-url=scp-8822
+| next-url=scp-8520
+| hub-url=scp-anthology-2024
+]]
+[[/div]]
