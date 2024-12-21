@@ -1037,7 +1037,7 @@
 * [[[SCP-8973]]] - [ACCESS DENIED]
 * [[[SCP-8974]]] - [ACCESS DENIED]
 * [[[SCP-8975]]] - [ACCESS DENIED]
-* [[[SCP-8976]]] - [ACCESS DENIED]
+* [[[SCP-8976]]] - 資料丟失恐懼症：碎片化
 * [[[SCP-8977]]] - [ACCESS DENIED]
 * [[[SCP-8978]]] - [ACCESS DENIED]
 * [[[SCP-8979]]] - [ACCESS DENIED]
