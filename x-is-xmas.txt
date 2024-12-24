@@ -1,0 +1,55 @@
+[[include info:start]]
+**篇名：**X是「Xmas」
+**作者：**[[*user IC_1623]]
+**授權：**所有圖片皆由本人製作，授權方式是CC BY-SA 3.0（SCP - 7686的文字來自[[*user Halewen]]）
+總之，聖誕快樂。
+[[include info:end]]
+
+[[include :scp-zh-tr:theme:basalt darkmode=a|centertitle=a]]
+[[module css]]
+.menu a:link{color: #FFF}
+.menu a:newpage{color: #FFF}
+.menu a:visited{color: #FFF}
+.menu a:hover{color: #FFF}
+[[/module]]
+[[span style="color:#444"]]
+黑暗中只有只有圓形光點為你指引方向，你順應手電筒的光移動視線探索空間。
+
+這是一間方形空房，牆壁用潮濕磚瓦堆砌，上面遍布植物根系，牆面似乎畫有圖文，卻因密布的樹根而無法細看。
+
+在一陣視線掃視後，你注意到樹根底下似乎有個發光小點，你走進並將密如網的根割除。
+[[/span]]
+[[span class="menu"]]
+[[collapsible show="然後你用手指將文字上方的灰塵抹除，想看清他究竟是甚麼。" hide="由光構成的文字像蛇一般四處逃竄，爾後，光芒添滿了所有圖文．樹根因光芒而畏縮，使得掩藏的圖文重見天日。"]]
+[[div class="modal"]]
+[[=]]
+++ 死亡ABC icon
+ @@ @@
+ @@ @@
+[[image https://i.imgur.com/2kS1M5L.png width="200px"]][[image https://i.imgur.com/WgabrZj.png width="200px"]][[image https://i.imgur.com/d699YNL.png width="200px"]]
+ @@ @@
+[[image https://i.imgur.com/RlzD2zr.png width="200px"]][[image https://i.imgur.com/NTSin72.png width="200px"]][[image https://i.imgur.com/Vv6hong.png width="200px"]]
+ @@ @@
+[[image https://i.imgur.com/Qq8uM6Z.png width="200px"]][[image https://i.imgur.com/ohvS5cN.png width="200px"]][[image https://i.imgur.com/xXcrUwo.png width="200px"]]
+ @@ @@
+[[image https://i.imgur.com/2fjH2Bq.png width="200px"]][[image https://i.imgur.com/DlCYzN1.png width="200px"]][[image https://i.imgur.com/t9HYJt9.png width="200px"]]
+ @@ @@
+[[image https://i.imgur.com/W0DGj1h.png width="200px"]][[image https://i.imgur.com/Cs4XrnS.png width="200px"]][[image https://i.imgur.com/oLFIaT3.png width="200px"]]
+ @@ @@
+[[image https://i.imgur.com/PpCS4BV.png width="200px"]][[image https://i.imgur.com/tZll7hn.png width="200px"]][[image https://i.imgur.com/S1wawWJ.png width="200px"]]
+ @@ @@
+[[image https://i.imgur.com/4ZD3MuY.png width="200px"]][[image https://i.imgur.com/Unf6gHF.png width="200px"]][[image https://i.imgur.com/parXzJC.png width="200px"]]
+ @@ @@
+[[image https://i.imgur.com/zD1uqNh.png width="200px"]][[image https://i.imgur.com/3EizSDF.png width="200px"]][[image https://i.imgur.com/OgZOayv.png width="200px"]]
+ @@ @@
+[[image https://i.imgur.com/vHgqjD6.png width="200px"]][[image https://i.imgur.com/fNxhQwP.png width="200px"]][[image https://i.imgur.com/FMgYJlX.png width="200px"]]
+ @@ @@
+[[image https://i.imgur.com/yU7ci0X.png width="200px"]][[image https://i.imgur.com/AczwlDF.png width="200px"]][[image https://i.imgur.com/t87v0Y3.png width="200px"]]
+ @@ @@
+[[image https://i.imgur.com/80tMUCl.png width="200px"]][[image https://i.imgur.com/FqPjQ0J.png width="200px"]][[image https://i.imgur.com/4i2FYze.png width="200px"]]
+@@ @@
+
+[[/=]]
+[[/div]]
+[[/collapsible]]
+[[/span]]
