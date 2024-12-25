@@ -1,0 +1,1267 @@
+[[include component:scp-meta-title-hiding css-style=classic]]
+[[include info:start]]
+**SCP-005-VN - 基金會如何與聖誕節競賽**
+**作者：** [[*user KirQ]]，[[*user Dept]]
+**原文：** [http://scp-vn.wikidot.com/scp-005-vn SCP-005-VN Cách Tổ Chức Chạy Đua Với Giáng Sinh]
+
+**EN翻譯：** [[*user Irina Bougainvillea]]，[[*user RedEyeMikeyy]]，[[*user Rigball]]，[[*user MegaSun]]，[[*user t4nku]]，[[*user Welpermander]]
+**EN譯文：** [https://scp-wiki.wikidot.com/scp-005-vn SCP-005-VN - How The Foundation Races Against Christmas]
+
+**二次翻譯：**[[*user Kikunai]]
+**圖像：** 見底部。
+[[include info:end]]
+
+[[div class="blockquote table4 tableb"]]
+[[table class="wiki-content-table" style="width: 100%"]]
+[[row]]
+[[hcell]]
+**__{{Site-333 -- 跨部門文字通訊紀錄：}}__**
+{{21/12/2023 -- 12:20}}
+[[/hcell]]
+[[/row]]
+[[row]]
+[[cell]]
+* ##blue|**Vincent Bohart**##，主任；
+* ##green|**Leonora Morales**##，野生動物專員；
+* ##red|**Tony Catalano**##，會計兼旅遊人員；
+* ##a3c1ad|**Larry Cumbleton##**，臨時初級研究員。
+[[/cell]]
+[[/row]]
+[[row]]
+[[hcell]]
+[[/hcell]]
+[[/row]]
+[[row]]
+[[cell]]
+
+##a3c1ad|**Larry Cumbleton##**： 嘿，大家，節慶快到了。
+
+##blue|**Vincent Bohart##**：  哦。
+
+##green|**Leonora Morales##**：  哦。
+
+##red|**Tony Catalano##**:  哦。
+
+##a3c1ad|**Larry Cumbleton##**：  你們究竟是甚麼態度？你們的節日氣氛呢？還是你們的站點不會開趴？
+
+##blue|**Vincent Bohart##**： 會喔。
+
+##green|**Leonora Morales##**： 會喔。
+
+##red|**Tony Catalano##**： 會喔。
+
+##a3c1ad|**Larry Cumbleton##**： 喂，不要跟複讀機一樣重複說話好嗎。主任，發生甚麼事了？
+
+##blue|**Vincent Bohart##**： 今年基金會給了假期功課。
+
+##a3c1ad|**Larry Cumbleton##**： 而我以為你們會因此覺得開心？一般而言，我們都像繼子一樣被丟在一旁。
+
+##red|**Tony Catalano##**： 你這白痴，這麼看來，今年就怎麼突然給我們緊急任務了？準是凶多吉少了。
+
+##green|**Leonora Morales##**： 喔Tony，他是新人，就別對他太嚴厲吧。但話說回來，是啊，你怎麼這麼白痴？
+
+##a3c1ad|**Larry Cumbleton##**： 我記得實習生都說假期任務都很簡單，例如秘密交換禮物遊戲，佈置站點之類的。
+
+##blue|**Vincent Bohart##**： 自投羅網。
+
+##green|**Leonora Morales##**： 自投羅網。
+
+##red|**Tony Catalano##**： 自投羅網。
+
+##a3c1ad|**Larry Cumbleton##**： 大家就不能說白一點嗎？
+
+##blue|**Vincent Bohart##**： 今年，我們有幸能夠嘗試捕捉一個異常。
+
+##a3c1ad|**Larry Cumbleton##**： 而它是？
+
+##blue|**Vincent Bohart##：** 他媽的聖誕老人。
+[[/cell]]
+[[/row]]
+[[row]]
+[[hcell]]
+[[/hcell]]
+[[/row]]
+[[/table]]
+[[/div]]
+-----
+[[include :scp-zh-tr:component:anomaly-class-bar-source
+|item-number= 005-VN
+|clearance= 1
+|container-class=keter
+|secondary-class=
+|secondary-icon=
+|disruption-class=ekhi
+|risk-class=謹慎
+]]
+-----
+**特殊收容措施：** 現時SCP-005-VN沒有具體的「硬性收容」措施。針對SCP-005-VN的「軟性收容」措施包括通報SCP-005-VN的出現，以及偽造和散播有關所報告區域正進行飛機測試的資訊。
+
+[[include component:image-block
+name=http://scp-vn.wdfiles.com/local--files/scp-005-vn/caught_in_4k.jpg|
+caption=捕捉到SCP-005-VN「高速移動」的照片。|
+width=400px
+]]
+
+**描述：** SCP-005-VN指每年十二月二十五日出現的實體，它擁有「聖誕老人」、"Père Noel"、「聖誕老公公」等的名字，並且是聖誕節的象徵和化身。SCP-005-VN的外表是一名過重白人男子，且穿着帶有白色絨邊的紅色衣裳。SCP-005-VN時常乘坐SCP-005-VN-1——由9頭//Rangifer tarandus//（馴鹿）拉動的雪橇，據推測是前述異常能夠在空中移動的原因。
+
+**附錄005-VN.01：** 歷史
+
+SCP-005-VN有多次的目擊案例，並在歷史上被視為大眾文化的一部分。最近，自大約十年前以來，SCP-005-VN的形象發生了許多變化，最終成為目前的外表。然而，它的異常性質並沒有太大的變化。基金會在以上變化出現後開始收容該異常，但幾乎所有收容嘗試以失敗告終。以下是與SCP-005-VN互動的簡史：
+
+||~ 年份 ||~ 重要事件 ||~ 對策 ||
+|| 1500年 || 最初發現。 || 異常編為Alpha級關注人士 ||
+|| 1621年 || 在SCP-005-VN飛行時確認其異常性質的跡象。 || 已發表SCP-005-VN的文件並將其添加至基金會資料庫。 ||
+|| 1770年 || 1770年12月4日00:05，數位平民在慶祝時發現SCP-005-VN位於挪威上空。|| 基金會發表流星經過的掩蓋故事。 ||
+|| 1773至1990年 || 基金會已執行數項SCP-005-VN的收容計劃。然而，所有嘗試因技術問題、缺少器材或資源而宣告失敗。 || **筆記：**我們因為沒錢而抓不了一個老頭子，真的假的？~███博士 ||
+|| 1991年 || 由於種種收容困難，O5議會決定每年指定一個站點擁有SCP-005-VN的完全處理權，並在其出現時執行此收容任務。 || 不適用 ||
+-----
+@@ @@
+@@ @@
+[[div class="blockquote table4 tableb"]]
+[[table class="wiki-content-table" style="width: 100%"]]
+[[row]]
+[[hcell]]
+**__{{Site-333 -- 跨部門通訊紀錄：}}__**
+{{23/12/2023 -- 11:03}}
+[[/hcell]]
+[[/row]]
+[[row]]
+[[cell]]
+* ##blue|**Vincent Bohart**##，主任；
+* ##green|**Leonora Morales**##，野生動物專員；
+* ##a3c1ad|**Larry Cumbleton**##，臨時初級研究員。
+[[/cell]]
+[[/row]]
+[[row]]
+[[hcell]]
+[[/hcell]]
+[[/row]]
+[[row]]
+[[cell]]
+##a3c1ad|**Larry Cumbleton**##：呃OK，但為甚麼基金會只指定一個站點處理呢？我們可以調動所有力量的話，也許就能抓着他了。
+
+##blue|**Vincent Bohart##**：現在是假期誒，老兄，大家可不想一起受罪。 
+
+##green|**Leonora Morales##**： 幹你娘，我才不做。我可不喜歡假日加班，更不喜歡無薪補償。
+
+[[/cell]]
+[[/row]]
+[[row]]
+[[hcell]]
+[[/hcell]]
+[[/row]]
+[[/table]]
+[[/div]]
+-----
+**附錄 005-VN.02：**
+[[div class="foundation snow"]]
+[[=]]
+++ SCP-005-VN的進一步研究
+[[/=]]
+-----
+[[include component:image-block name=http://scp-vn.wdfiles.com/local--files/scp-005-vn/park|width=100%|align=center|caption=大西洋城的遊樂場。]]
+-----
+//三位Site-333人員Tony Catalano、Leonora Morales和Noah Patel站在遊樂園入口前。其餘兩位人員Vincent Bohart和Larry Cumbleton在裏面，坐在長椅上，吃着棉花糖聊天。Larry Cumbleton看見外面的人員便站了起來揮手。//
+
+##a3c1ad|**Larry Cumbleton**##： 我們在這兒呢，大家。
+
+//三人認出了Larry Cumbleton，並一同走向他。//
+
+##red|**Tony Catalano##**： 早安，但為甚麼我們都聚在這裏呢？
+
+##blue|**Vincent Bohart**##： 是新人的主意，說要改變做事方式，而不是把屁股黏在辦公室椅子上。
+
+//Larry向每人遞給一根棉花糖。所有人坐下來討論任務。//
+
+##blue|**Vincent Bohart##**： 我們現在能進入正題嗎？這是Site-333大展身手的時刻，所以今天我想讓大家聚起來討論SCP-005-VN。大家都知道這個異常是甚麼了吧？
+
+##a3c1ad|**Larry Cumbleton**##：呃，我以為基金會因為想各位的家人開心就讓那老頭子到處逛。
+
+##red|**Tony Catalano##**： 對，一開始是很好玩沒錯，免費給孩子們禮物之類的，但到了現在不是該阻止他的時候嗎？
+
+##blue|**Vincent Bohart**##： 是的，而且還得考慮到最近備受爭議的[http://scp-vn.wikidot.com/scp-021-vn 授權]事件。
+
+##a3c1ad|**Larry Cumbleton**##： 幹。
+
+##blue|**Vincent Bohart**##： 咳咳，好了。我們現在對聖誕老人瞭解多少？Stark先生，你先說。
+
+##red|**Tony Catalano##**： 他大個子，穿紅色衣服，偷偷闖進別人家中為孩子帶來禮物？他是共產仔還是甚麼啊？總之我覺得他是個怪人。
+
+##a3c1ad|**Larry Cumbleton**##： Leonora，你有甚麼看法？
+
+##green|**Leonora Morales**##： 沒甚麼好說的，我跟你所知道的差不多。我倒覺得他的馴鹿隊他媽的酷爆。即使我們只抓到一匹，使[*/scp-7073 那地方]變成旅遊景點還是足足有餘的。但是喔，魯道夫實在可憐啊。
+
+##blue|**Vincent Bohart**##： 他怎麼了？
+
+##green|**Leonora Morales**##: 我以我的名字和工作發誓，這可憐的動物準是患了罕有的馴鹿病，但那死老頭還是硬要他當領頭鹿？而你們看到他腫得像個大蘋果的鼻子都感到開心嗎？夭壽，現實中還有其他長得像他的馴鹿嗎？
+
+##blue|**Vincent Bohart**##： 好啦。 Noah，你呢？怎麼這麼安靜了？
+
+##orange|**Noah Patel**##： 我有甚麼好說的？他在我的專業之外。
+
+##a3c1ad|**Larry Cumbleton**##： 認真喔？
+
+##orange|**Noah Patel**##： **我。研究。神秘。動物。的。** 聖誕老人只是普通人而已，不是嗎？這跟我有甚麼關係？
+
+##green|**Leonora Morales**##： 我以為你研究過坎卜斯[[footnote]]**譯註：**坎卜斯（Krampus）是阿爾卑斯山地區民間故事的一個角色。坎卜斯被描繪為頭上有角、黑髮、有獠牙和長舌頭，並帶着鏈子和鈴鐺以鞭打，還有一捆樺木棍以棒打不順從或被認定為舉止糟糕（「邪惡」）的兒童，然後會將「壞孩子」裝袋拖到死者的世界（或它的生活地點）。來自[https://zh.wikipedia.org/wiki/坎卜斯 中文維基百科][[/footnote]]？你就沒想過它的死對頭嗎？
+
+##orange|**Noah Patel**##： 我可沒那麼空餘時間。我還在忙澤西惡魔的案子，甚麼都還沒搞完，就沒時間處理其他案子了。
+
+##red|**Tony Catalano##**： 你知道甚麼就說甚麼吧。
+
+##orange|**Noah Patel**##： OK，OK。儘管有着幾百年的傳說，聖誕老人並沒被列為神秘動物之一。要我說的話，我會把他跟女巫和賣冰淇淋的土耳其小販歸為一類。
+
+##green|**Leonora Morales**##： 真的？
+
+##orange|**Noah Patel**##： 找到了。我的朋友在2006年因為坎卜斯在意大利被指控向未成年施暴必須出庭，而他得到機會採訪了他。照片在這。
+
+[[=image http://scp-vn.wdfiles.com/local--files/scp-005-vn/krampus.jpg size="medium"]]
+
+##blue|**Vincent Bohart**##： 天。我在澤西待了不少時間，但這是衝三小。[[footnote]]譯注：原文"Jersey đã xem và đánh giá."（直譯「澤西已看到並評斷」）的"Đã xem và đánh giá"為越南網路用語，帶嘲笑、批評意味。[[/footnote]]
+
+##orange|**Noah Patel**##： 還有，這人的駕駛技術非常頂尖。如果傳說是真的，他不穿防護裝備，只披上睡意就能橫跨大陸？
+
+##a3c1ad|**Larry Cumbleton**##： 有時候他甚至會帶幾隻小精靈一起捱夜。唉呀。
+
+##orange|**Noah Patel**##： 我想問一下，為甚麼你對這案子這麼投入？他們通常都瞧不起我們。
+
+##blue|**Vincent Bohart**##： 我在上週末跟其他站點的人打賭說我們一定能抓着他……
+
+//其餘人員從長椅站起來離去，留下坐着的Vincent。//
+[[/div]]
+-----
+
+以下是基金會收容實體的數次嘗試：
+
+* 第一次嘗試 - 2003年聖誕節
+
+2003年12月24日晚上，基金會在一平民住所內準備佈局作為收容異常的嘗試。佈局包括：在煙囱底部設置加固合金金屬網，和以同樣材質造成，實體在煙囱裏時自動放置在頂部的網；一組武裝特工和作為誘餌的平民女孩。已回收以房子客廳錄影機拍攝的事件全景記錄並記錄如下：
+
+[[div class="foundation snow"]]
+
+**<<開始抄錄>>**
+
+//SCP-005-VN與一輛一級方程式賽用車輛如卡通角色般液化鑽出煙囱。//
+
+**SCP-005-VN：** //［大聲但不是在尖叫」//呵呵呵，聖誕快樂！
+
+**誘餌：** 是聖誕老人嗎？
+
+**SCP-005-VN：** 呵呵？天哪，是位小女孩呢！你這一年都是乖孩子嗎？
+
+**誘餌：** 啊，真的是聖誕老人！我全年都可是乖孩子！
+
+**SCP-005-VN：**//［從口袋拿出枴杖糖］//乖孩子有禮物。
+
+**誘餌：** 啊，//［雙手拿着糖果吃完］//謝謝伯伯！
+
+**SCP-005-VN：** 好了。//［轉向通往睡房的走廊］//還有誰想要禮物？
+
+//特工一個一個從走廊現身，謹慎環繞SCP-005-VN並掩護誘餌。//
+
+**SCP-005-VN：** 呵？這是甚麼回事？我喜歡你們的熱情，但收禮物時不是應該排隊嗎？我可是為你們全部人準備了禮物啊。
+
+**Alpha：** 大夥兒。
+
+//部隊從口袋掏出充電警棍，並轉為防禦姿態。//
+
+**SCP-005-VN：**呵呵。乖孩子在聖誕節有禮物。//［從口袋掏出枴杖糖］//壞孩子呢//［用力握着糖果，並用另一隻手如拔劍橫掃糖果，將其變為枴杖糖型撬棍］//就該被懲罰。
+
+**Alpha：** 上！
+
+//整支隊伍往前衝，意圖攻擊SCP-005-VN未受保護的身體部位以控制和癱瘓異常。SCP-005-VN立刻以撬棍擊中四位特工其中三位的頭部，餘下一位成功電擊他的大腿。SCP-005-VN似乎免疫此攻擊並轉動上半身。實體以撬棍攻擊最後一位特工，但被另一位成員格擋。
+
+**SCP-005-VN：** 呵呵，不得不說你們很齊心協力呢。壞小孩值得嘉許的美德。
+
+//站在SCP-005-VN背後的特工試圖跳起頭鎖制動。SCP-005-VN轉身，以撬棍翹起來的部分抓着他的頸部，將其視為人肉鞭子般攻擊附近的特工，最後將他丟到另一位特工上，使他們無法繼續戰鬥。//
+
+**Alpha：** 散開。重組隊形，然後抓着他。
+
+**SCP-005-VN:** //［觀察時鐘］//似乎我餘下的時間不多了。
+
+//當特工試圖把自身拋到SCP-005-VN身上時，實體以異常的速度用撬棍逐一抓着特工並把他們丟到一旁，導致他們昏迷30秒。//
+
+**SCP-005-VN：** 晚安喔壞蛋。明年再接再厲。//［轉向誘餌並拿出禮物］//而這份是你的。下年也要當好孩子，好嗎？
+
+**<<結束抄錄>>**
+
+[[/div]]
+[[include component:image-block
+name=http://scp-vn.wdfiles.com/local--files/scp-005-vn/ready_to_fire.jpg|
+caption= 在某次行動中偵查SCP-005-VN的砲塔。|
+width=400px
+]]
+
+**備註：** 已消除誘餌的記憶並將其帶回家人身邊。基金會以研究為由沒收了她的禮物並收容在儲物櫃中，儘管禮物被視為沒有異常。禮物盒內裝着一隻手工製馴鹿玩偶。
+
+* 第二次嘗試 - 2009年聖誕節
+
+2009年12月24日，基金會從加拿大努納武特地區伊魁特收到情報，指一未知飛機在晚上10點左右在其上空飛行，因此能夠追蹤SCP-005-VN的行蹤。基金會派出洛克希德·馬丁F-22猛禽戰鬥機前往當地嘗試監視異常。以下是飛行員與指揮中心的對話抄錄：
+
+[[div class="foundation snow"]]
+
+**<<開始抄錄>>**
+
+<10:55（GMT-5）>
+
+**鐵鳥：** 鐵鳥呼叫指揮部。已經到達指定地點。Over。
+
+**指揮部：** 收到。盡能力偵查整個區域。如果走運的話，他可能還在那。
+
+**鐵鳥：** 收到。Over。
+
+<11:05（GMT-5）>
+
+**鐵鳥：** 鐵鳥呼叫指揮部。 你們肯定那傢伙還在這裏嗎？Over。
+
+**指揮部：** 這是指揮部。接下來的十分鐘繼續偵察，然後撤退。Over。
+
+**鐵鳥：** 收到。Over。
+
+<11:08 (GMT-5)>
+
+**鐵鳥：** 鐵鳥呼叫指揮部。找到他了。現在要做甚麼？Over。
+
+**指揮部：** 闡述現在的情況。Over。
+
+**鐵鳥：** R收到。他現在在低飛，大概以離地五至十米的高度穿梭房屋之間。他的行速蠻快的，大概F1賽車的速度，但慢得可以直入煙囱。我現在會降低高度。Over。
+
+**指揮部：** 好，我們現在需要你——
+
+**鐵鳥：** 吃屎。他看到我了。我重複，目標看到我了。我現在會追蹤他。Over。
+
+**指揮部：** 收到。儘量保持聯絡。Over。
+
+<11:15 (GMT-5)>
+
+**鐵鳥：** 鐵鳥呼叫指揮部。我現在已經追蹤他數百米了。目標能夠在一段不少的時間內以最高速度維持距離。請求反制指引。Over。
+
+**指揮部：** 收到。我們已經請求支援，SCP-005-VN也許在速度上略勝一籌，但他的最長飛行距離比我們的遜色。繼續追蹤他，測試他的飛行距離。Over。
+
+**鐵鳥：** 收到。Over。
+
+<11:20 (GMT-5)>
+
+**指揮部：** 指揮部呼叫鐵鳥，情況如何？Over。
+
+**鐵鳥：** 正前往大風的區域，我猜我在俄羅斯東北部？沒看到異——等等。目標正在加速轉彎。我重複，目標正在加速轉彎。他正往無風區域移動。恐怕沒法繼續跟上他了。Over。
+
+**指揮部：** //［長嘆］//你可以撤退了，做得很好。Over。
+
+**<<結束抄錄>>**
+
+[[/div]]
+
+**備註：** SCP-005-VN擺脫鐵鳥的速度推定達到2.5馬赫，使它能夠逃出基金會的捕捉範圍。正制定反制措施，並研發更優良的戰鬥機。
+
+* 第三次嘗試 - 2010年聖誕節
+
+2010年12月24日，在SCP-005-VN開始派分發禮物後，基金會在全球派出超過1000輛直升機以巡查和追蹤實體。在2010年12月25日00:30左右，SCP-005-VN於芬蘭北部的鄉郊地區被發現。根據以往經驗，基金會部隊沒有積極追擊實體，而是保持一段距離，以及使用發射裝置在實體的載具附上跟蹤信號。
+
+在設好追蹤裝置後，異常飛往歐洲北部後失去三十分鐘的訊號，接着重現在俄羅斯薩哈共和國雅庫茨克市，花了兩小時穿梭亞洲，然後回到北極消失了一段時間。聖誕夜期間，SCP-005-VN花兩小時穿越一個大洲，接着回到北極消失半小時，如此重複了幾次。
+
+6:00（GMT 0）左右，基金會最終在挪威與格陵蘭之間某處失去SCP-005-VN的蹤影。然而，當仔細觀察最後目擊SCP-005-VN所在地時，基金會無法辨認任何值得注意的線索。理論而言，SCP-005-VN要麼傳送到另一個維度，或者單純在飛行期間摧毀了追蹤裝置，但沒有實際證據支持任何一方的推論。
+
+**附錄 005-VN.03：**
+
+[[div class="foundation snow"]]
+[[=]]
+++ SCP-005-VN收容策略總覽
+[[/=]]
+-----
+[[include component:image-block name=http://scp-vn.wdfiles.com/local--files/scp-005-vn/hq__room.jpg|width=100%|align=center|caption=Site-333的會議室。（圖片只供參考）]]
+-----
+
+##blue|**Vincent Bohart##**: 所以這就是為甚麼我們在今天22號需要討論如何抓着SCP-005-VN。
+
+##orange|**Noah Patel**##: 你媽。為甚麼我們就不能無視它，跟普通人一樣享受我們的假期呢。
+
+##red|**Tony Catalano**##: 我當然想啦，但高層已經為此批了預算。要說不幹已經太遲了。
+
+##green|**Leonora Morales##:** 還有我們親愛的站點主任決定賭上站點的全部預算。
+
+##blue|**Vincent Bohart##**: 賠率一比一百。如果我們贏了，我們贏大了。
+
+##green|**Leonora Morales##:** 或者我們可以搬到公路橋下面住。
+
+##blue|**Vincent Bohart##**: 你們可不可以不要在嘲笑我，開始想想辦法？
+
+##red|**Tony Catalano##**: 看看檔案裏所有的收容嘗試嗎？其他站點做的事比我們的專業至少十倍啊。但你覺得這他媽的破地方可以做得更好嗎？靠腰。
+
+##orange|**Noah Patel**##: Vincent，你腦殼裏甚麼都沒有啊。他們有些派了數百計的人員也徒勞無功。要比他們做得更好實在是放屁，我們算上新來的Larry也只有五個人。
+
+##green|**Leonora Morales##**: 好啦，待會才繼續罵吧。我們需要一個計劃。Vincent，你打算怎樣做？
+
+##blue|**Tony Catalano##**: 我們明顯沒足夠資金去北極，所以我建議在這裏附近圍捕那個老頭子。他沒可能不會來，我們只是需要好的出手時機。
+
+##orange|**Noah Patel**##: 但我們要在哪裏找更多人支援行動？時間已經不多了。
+
+##blue|**Vincent Bohart##**: 如果跟其他站點相比，他們就是因為太多人才被發現的，不是嗎？也許少而精效果比較好。
+
+##orange|**Noah Patel**##: 完全沒用。你想我們五個笨手笨腳抓他喔？即使最快的戰鬥機也跑不過他。你打算在附近的倉庫店租台雪地摩托車輸得更快嗎？
+
+##blue|**Vincent Bohart##**: Noah，你是他媽的天才。如果我們追不上他，那弄一個可以更好追上他的載具。馴鹿、雪橇、膠水、再加上一段魔法就搞定了。聽起來不難嘛。
+
+##orange|**Noah Patel**##: 老兄你他媽的認真喔？
+
+##blue|**Vincent Bohart##**: 比「我會贏」的事實更真。Tony，看看他們批了多少預算。
+
+##red|**Tony Catalano##:** 夭壽喔。
+
+##orange|**Noah Patel**##: 啥？
+
+ ##red|**Tony Catalano##:** 1000塊。
+
+##blue|**Vincent Bohart##**:夭壽喔。
+
+[[/div]]
+-----
+@@ @@
+@@ @@
+
+++ __**提早開箱計劃**__
+
+[[include component:image-block name=http://scp-vn.wdfiles.com/local--files/scp-005-vn/boardwalk_shop.jpg|caption=Site-33購買物資的海灘商店 - 大西洋城。]]
+
+計劃作為SCP-005-VN的反制措施於2023年12月23日展開，而根據一些Site-333人員，這是「半桶水又倉卒」的嘗試。然而Bohart主任繼續自信地肯定此計劃「雖然簡單，但成功率將超出所有人的預期」。本計劃的配套設備如下：
+
+-----
+[[table class="wiki-content-table" style="width: 100%"]]
+[[row]]
+[[hcell]]
+**__{{2023年12月23日財務計畫概覽：}}__**
+[[/hcell]]
+[[/row]]
+[[/table]]
+[[table class="wiki-content-table" style="width: 100%"]]
+[[row]]
+[[hcell]]
+{{已購物品}}
+[[/hcell]]
+[[hcell]]
+{{Price}}
+[[/hcell]]
+[[/row]]
+[[row]]
+[[cell]]
+{{設計為藍色的保暖衣物，從站點附近的商店訂購。}}
+[[/cell]]
+[[cell]]
+$450。
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+{{追擊異常時使用的耐衝擊頭盔。}}
+[[/cell]]
+[[cell]]
+$150。
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+{{足夠容納一個成人的雪橇。}}
+[[/cell]]
+[[cell]]
+$20，從市內平民的車庫舊物出售會購得。 
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+{{追擊期間避免遮擋視線的護目鏡。}}
+[[/cell]]
+[[cell]]
+從站點裝備取得的免費紅外線護目鏡。
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+{{四罐賽車氮氣壓縮瓶。}}
+[[/cell]]
+[[cell]]
+從「值得信賴」的源頭購得，一瓶$175。
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+{{雜誌《超級賽車手：冬季泳裝限量版》}}
+[[/cell]]
+[[cell]]
+免費。從臨時初級研究員Larry Cumbleton家中取得。
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+{{餅乾，牛奶與其他在任務中提供的食品。}}
+[[/cell]]
+[[cell]]
+$300，不含運輸費。
+[[/cell]]
+[[/row]]
+[[/table]]
+
+[[table class="wiki-content-table" style="width: 100%"]]
+[[row]]
+[[hcell]]
+**{{總消費：}} {{##90EE90|$1620##}}**
+[[/hcell]]
+[[hcell]]
+**{{結果：}} ##FF6863|{{__超出預算。額外開支從Bohart主任薪金扣減。__}}##**
+[[/hcell]]
+[[/row]]
+[[/table]]
+-----
+
+-----
+[[div class="blockquote table4 tableb"]]
+[[table class="wiki-content-table" style="width: 100%"]]
+[[row]]
+[[hcell]]
+**__{{Site-333 — 跨部門文字通訊紀錄：}}__**
+{{23/12/2023 – 15:16}}
+[[/hcell]]
+[[/row]]
+[[row]]
+[[cell]]
+* ##blue|**Vincent Bohart**##，主任；
+* ##green|**Leonora Morales**##，野生動物專員。
+[[/cell]]
+[[/row]]
+[[row]]
+[[hcell]]
+[[/hcell]]
+[[/row]]
+[[row]]
+[[cell]]
+##blue|**Vincent Bohart##：** 我們已經超出預算，但我們還沒準備好任何跟他比賽的「裝備」。現在要怎麼辦？
+
+##green|**Leonora Morales##：** 我有個辦法。
+
+##blue|**Vincent Bohart##：** 說說看。
+
+##green|**Leonora Morales##：** 「知彼知己，百戰不殆。」
+
+##blue|**Vincent Bohart##：** 是誰說的？
+
+##green|**Leonora Morales##：** 孫子，活躍於公元前4-5世紀的出色古中國戰略家。
+
+##green|**Leonora Morales##：** 如果那老頭有九隻魔法牲畜，或者以更科學的口吻來說，九隻異常牲畜任他差遣，為甚麼我們就不能抓一隻呢？
+
+##blue|**Vincent Bohart##：** [*/scp-7073 那頭鵝]沒甚麼卵用。
+
+##green|**Leonora Morales##：** 我認識另外一隻鳥，是它的遠親，但更友善的。
+
+##blue|**Vincent Bohart##：** 哪隻？
+
+##green|**Leonora Morales##：** 我聯絡一下[*/scp-7601 Site-198]的同事。
+
+[[/cell]]
+[[/row]]
+[[row]]
+[[hcell]]
+[[/hcell]]
+[[/row]]
+[[row]]
+[[cell]]
+[[/cell]]
+[[/row]]
+[[row]]
+[[hcell]]
+{{23/12/2023 – 15:23}}
+[[/hcell]]
+[[/row]]
+[[row]]
+[[cell]]
+* ##blue|**Vincent Bohart**##，主任；
+* ##green|**Leonora Morales**##，野生動物專員。
+[[/cell]]
+[[/row]]
+[[row]]
+[[hcell]]
+[[/hcell]]
+[[/row]]
+[[row]]
+[[cell]]
+##blue|**Vincent Bohart##：** 他們說了甚麼？
+
+##green|**Leonora Morales**##： 他們立即同意了，而且額外給我們500塊作為支援資金。
+[[/cell]]
+[[/row]]
+[[row]]
+[[hcell]]
+[[/hcell]]
+[[/row]]
+[[/table]]
+[[/div]]
+-----
+**附錄 005-VN.03：**
+
+2023年12月24日清晨，Leonora Morales在與Site-198商討後，SCP-7601被運到Site-333。運輸車輛在7:54到達站點，Vincent Bohart和Leonora Morales在站點前接收異常。
+
+[[div class="foundation snow"]]
+[[=]]
+++ 接觸對話摘錄 — 24/12/2023
+-----
+[[/=]]
+
+[[include component:image-block name=http://scp-vn.wdfiles.com/local--files/scp-005-vn/truck|caption=運輸SCP-7601的車輛。]]
+
+//車輛沿路行駛，停在站點門前。Vincent Bohart主任認出車輛並衝向它。//
+
+##blue|**Vincent Bohart##：** 貨到了，去看看吧Leonora。
+
+##green|**Leonora Morales**##： 等等我。
+
+//兩位人員靠近無人駕駛載具。車輛在確認感應到二人後停了下來，並發出語音通知。//
+
+##E64019|**聲音##**： 注意，已完成運輸貨物，請到後方取貨。
+
+##blue|**Vincent Bohart##：** 呃等等，你肯定只是一頭鴨子？我至今對上次的事還有心理陰影。
+
+##green|**Leonora Morales**##：我也是
+
+##blue|**Vincent Bohart##：** 好吧，女士先走。
+
+//Leonora Morales沉了臉。她嘆息，走到車輛後方打開後車廂。Vincent Bohart小心翼翼跟在後頭。//
+
+##green|**Leonora Morales**##： 幫我一下。
+
+##blue|**Vincent Bohart##：** 好，好……
+
+##green|**Leonora Morales**##：  一、二、三——
+
+//兩位人員抬起後車廂門。異常被關在加固鳥禽籠子裏。SCP-7601似乎處於「非活躍」或「休眠」狀態//
+
+##blue|**Vincent Bohart##：** 老天爺，真的是一隻鴨子，但接觸它安全嗎？
+
+##green|**Leonora Morales**##： 冷靜，它不咬人的。
+
+//Leonora Morales從車輛提出籠子並釋放SCP-7601。異常出來後再次「活躍」。//
+
+##green|**Leonora Morales**##： 你好，SCP-7601。
+
+//SCP-7601沒有回應，而是面向她。//
+
+##blue|**Vincent Bohart##：** 嘿，嘿，它在盯着我們。現在怎麼辦？我不想再被某隻鳥毀掉人生了。
+
+//Vincent Bohart突然本能地退後一步。//
+
+##green|**Leonora Morales**##： 冷靜下來，讓我回想他們跟我說過的啓動短語。
+
+##green|**Leonora Morales**##： 你好SCP-7601。我想註冊使用你的服務。
+
+//SCP-7601伸長脖子到Leonora Morales的高度，接着回答。//
+
+##F30474|**SCP-7601**##：感謝Leonora Morales小姐使用我們的服務。請說明你想使用的服務。
+
+##green|**Leonora Morales**##：嘿Vincent，我們現在應該問甚麼？
+
+##blue|**Vincent Bohart##：** 據我所知，這頭鴨子就像一家異常保險公司的職員。所以呃……SCP-7601，我想查一下聖誕老人的保險登記記錄。
+
+##green|**Leonora Morales**##：你認真喔。
+
+##blue|**Vincent Bohart##：** 所有買了車子的人都需要登記，只有沒上過學的人才不會。
+
+##F30474|**SCP-7601**##： 搜尋中……請耐心等待……已找到一份記錄……聖誕老人的受保期已經結束……他三百年前已經沒有支付保險……
+
+##blue|**Vincent Bohart##：** OK，現在大家都知道他沒受過教育。
+
+##blue|**Vincent Bohart##：** SCP-7601，你知道他的住址嗎？
+
+##F30474|**SCP-7601**##： 搜尋中……請耐心等待……已找到記錄……記錄因顧客條款已加密……無法透露……
+
+##blue|**Vincent Bohart##**： 現在怎麼辦？Leonora，你可是提出這隻鴨的人。解決它。
+
+//Vincent Bohart示意Leonora Morales退後。兩人互相耳語，接着回到SCP-7601前。//
+
+##green|**Leonora Morales**##： SCP-7601，你想不想收取聖誕老人的保險續延費？
+
+##F30474|**SCP-7601**##： 計算中……好的……
+
+##blue|**Vincent Bohart##**： 我們會幫你。你今天會被釋放以收取費用，前提是我們可以跟你一起去。聽起來如何？我們會幫忙的。
+
+//SCP-7601進入非活躍狀態一段時間，然後回答。//
+
+##F30474|**SCP-7601**##： 同意此提案……條件是你們需要補貼所有交通費用……
+
+##green|**Leonora Morales**##： 如果我們為你投保，你可以負擔自己的嗎？
+
+##F30474|**SCP-7601**##： 當然了……
+
+##blue|**Vincent Bohart##**： 棒。
+[[/div]]
+
+-----
+
+在與SCP-7601商討後，Site-333舉行了一次內部會議。記錄如下：
+
+[[div class="blockquote table4 tableb"]]
+[[table class="wiki-content-table" style="width: 100%"]]
+[[row]]
+[[hcell]]
+**__{{Site-333 -- 跨部門文字通訊紀錄：}}__**
+{{24/12/2023 -- 09:45}}
+[[/hcell]]
+[[/row]]
+[[row]]
+[[cell]]
+* ##blue|**Vincent Bohart**##，主任；
+* ##red|**Tony Catalano**##，會計兼旅遊人員；
+* ##green|**Leonora Morales**##，野生動物專員；
+* ##orange|**Noah Patel**##，神秘動物學家兼博物館館長；
+* ##a3c1ad|**Larry Cumbleton**##，臨時初級研究員。
+[[/cell]]
+[[/row]]
+[[row]]
+[[hcell]]
+[[/hcell]]
+[[/row]]
+[[row]]
+[[cell]]
+
+##blue|**Vincent Bohart##**： 寵物的部分搞定。
+
+##a3c1ad|**Larry Cumbleton**##： 一隻怎能拉雪橇……
+
+##blue|**Vincent Bohart##**： 放鬆吧，吝嗇先生。
+
+##red|**Tony Catalano**##： 雪橇？把那捆木頭放在Amazon賣了，賺了230塊。
+
+##orange|**Noah Patel**##： 這樣的話我們又要怎樣跟他競賽？
+
+##blue|**Vincent Bohart##**： 我想想，嗯……就坐在鴨頸上吧。像賽馬一樣。
+
+##green|**Leonora Morales**##： 那我們要怎樣抓着它不掉下來？
+
+##blue|**Vincent Bohart##**： 已經有辦法了。
+
+[[=image http://scp-vn.wdfiles.com/local--files/scp-005-vn/duck size="medium"]]
+
+##blue|**Vincent Bohart##**： 抓它的鹿角。
+
+##orange|**Noah Patel**##： 媽的，你甚麼時候裝上去的？
+
+##blue|**Vincent Bohart##**： 很酷嘛？
+
+##a3c1ad|**Larry Cumbleton**##： 不管怎樣，大家，現在最主要的問題是誰當選手……
+
+##blue|**Vincent Bohart##**： 噢好，公平起見，來投票吧。
+
+||~ 名字 ||~ 票數 ||
+|| Larry Cumbleton || 3 ||
+|| Tony Catalano || 2 ||
+|| Leonora Morales || 1 ||
+|| Noah Patel || 2 ||
+|| Vincent Bohart || 5||  
+
+##red|**Tony Catalano**##： 幹你娘Vincent，你也投給自己了？
+
+##green|**Leonora Morales**##： 就結果而言，Vincent會參賽。
+
+##orange|**Noah Patel**##： 大家慢慢準備吧。事實上，我今晚得去看看澤西惡魔有沒有異常活動。
+
+##a3c1ad|**Larry Cumbleton**##： 誒，真可惜。
+
+##red|**Tony Catalano**##： 沒事Noah，專注你的工作吧。我們三個人就能搞定。
+
+[[/cell]]
+[[/row]]
+[[row]]
+[[hcell]]
+[[/hcell]]
+[[/row]]
+[[/table]]
+[[/div]]
+
+-----
+
+以下記錄了由站點主任Vincent Bohart執行的SCP-005-VN捕獲計劃。Site-333的所有人員都同意在Site的通訊室拍攝這場追逐，而不是通過安裝在Vincent主任身上的設備來記錄這次任務，原因為「營造團結的氣氛」和「沒人願意在寒冷的天氣下外出」。以下是收容任務的完整影片：
+
+[[div class="foundation snow"]]
+
+##green|**Leonora Morales**##：OK，喂？喂？麥克風測試，一二三四，四三二一，喂？
+
+##red|**Tony Catalano##**： 我覺得所有設備應該沒問題了，要開始打給他。
+
+##green|**Leonora Morales**##： 好。Vincent，你在嗎？
+
+##blue|**Vincent Bohart##**： 聽得清清楚楚。話說這安全帶繫好了嗎？我是說，我會半路掉下來嗎？
+
+##green|**Leonora Morales**##： 應該啦。上鴨吧，我們剛剛得知他的位置。
+
+##blue|**Vincent Bohart##**： 好吧。等等，你說「應該吧」是甚麼意思？
+
+##red|**Tony Catalano##**： 抓緊了。
+
+##blue|**Vincent Bohart##**：喂等一 ——
+
+//Vincent向對講機尖叫，使得喇叭發出刺耳聲，隨即切斷了數秒。//  
+
+##red|**Tony Catalano##**： 嘿Vincent，你還活着嗎？
+
+##blue|**Vincent Bohart##**： BRRRRRRRRR//［風打進麥克風的聲音，可聽到內頰撲打的聲音］//
+
+##green|**Leonora Morales**##： 喂，Vincent。
+
+##blue|**Vincent Bohart##**： 還、還、還呼吸着，在努力緊緊抓着鴨、鴨子。該死的鴨毛這麼光滑。Brrr。
+
+##red|**Tony Catalano##**： 你覺得可以撐到全程嗎？誒，問得好像有第二個答案似的。繼續抓着它吧。
+
+##blue|**Vincent Bohart##**： 這麼高的地方他、他媽的很難呼——
+
+##green|**Leonora Morales**##： 你跟那怪老頭的屁股很接近了！準備跟他見面——三！二！一！
+
+//線路另一頭的引擎聲越來越大。//
+
+##blue|**Vincent Bohart##**： ABUSOREEEFAAAACOSI——
+
+//線路另一頭的引擎聲突然越來越大。//
+
+##green|**Leonora Morales**##： 那狗娘養的加速了！不能在這裏輸掉，朋友。
+
+##red|**Tony Catalano##**： 想想之後的名利，撐下去。
+
+//線路另一頭的引擎聲繼續越來越大。//
+
+##green|**Leonora Morales**##： 喲，Vincent追上他了。給點廢氣讓他看看吧。
+
+//Vincent的聲音受風聲干擾。//
+
+##blue|**Vincent Bohart##**： //［向麥克風尖叫］// 他接受了交易！
+
+##red|**Tony Catalano##**：好耶！現在，先生女士，歡迎收看本世紀最精彩的比賽，選手包括我們偉大的主任，還——有——！聖誕他媽的老人！！！！！！！！！
+
+//Tony按下按鈕，啓動從Vincent的隨身鏡頭拍攝的直播，隨即可以聽到一系列的通知聲。//
+
+##green|**Leonora Morales**##： 哇！賭盤越來越大了。
+
+##blue|**Vincent Bohart##**： 你他媽——你們沒跟我說你們也在這場賽車比賽下了注？？？
+
+##green|**Leonora Morales**##： 對啊，我們也跟其他站點的人打賭了。
+
+##blue|**Vincent Bohart##**： 我的派彩呢？
+
+##red|**Tony Catalano##**： 你的派彩來自主任議會的賭盤。當然了，贏了才能拿。
+
+//Vincent的聲音再次被風聲干擾。//
+
+##red|**Tony Catalano##**： 我猜他只是說了一堆髒話，但你應該要滿足於你的那份派彩，因為你是第一個在所有人背後打賭的人。
+
+##green|**Leonora Morales**##： 說回比賽。//［興奮］//SCP-005-VN和[[[SCP-7601]]]勢均力敵。沒有人在放棄。在這種刮風下雪的情況下，也許SCP-005-VN因本身適合這種天氣駕駛而具有優勢。但別！擔！心！每個人都知道SCP-7601是一隻可以萬能的鴨子。只要大聲喊出「聖誕老人是逃債人」即可。
+
+##blue|**Vincent Bohart##**： //［大呼］//聖誕老人是逃債人。
+
+##red|**Tony Catalano##**： //［大呼］//聖誕老人是逃債人。
+
+##green|**Leonora Morales**##： //［大呼］//聖誕老人是逃債人。
+
+##green|**Leonora Morales**##： 好了，鴨子加速領先聖誕老人。大家快點下注吧。
+
+//背景不斷傳出叮叮的通知聲。//
+
+##red|**Tony Catalano##**：//［大叫］//危險！前面是懸崖！快點掉頭！
+
+//SCP-7601轉頭看了看Vincent，接着轉回前方繼續沿着既定的路線走。//
+
+##green|**Leonora Morales**##： 等等，聖誕老人呢？
+
+##red|**Tony Catalano##**：[[span class="ruby"]]嚴寒老人[[span class="rt"]]Ded Moroz[[/span]][[/span]][[footnote]]**譯註：**指俄羅斯民間傳說的[https://zh.wikipedia.org/wiki/%E4%B8%A5%E5%AF%92%E8%80%81%E4%BA%BA Дед Мороз]。[[/footnote]]也許變成[[span class="ruby"]]嚴重失温老人[[span class="rt"]]Dead Moroz[[/span]][[/span]]了大家！然後——
+
+//鏡頭轉向與載具一同上下倒轉的SCP-005-VN。他看着Vincent，眨了眨眼，接着加速。//
+
+##green|**Leonora Morales**##： 各位看官，這場比賽很快就會結束。兩人的速度已經差不多到三馬赫，很快就到達終點線了。
+
+##red|**Tony Catalano##**：大家哪，你們可以為我高呼「聖誕老人是逃債人」嗎？一、二、三，聖誕老人是逃債人！來嘛大家。聖誕老人是逃債人！聖誕老人是逃債人！聖誕老人是逃債人！
+
+//SCP-7601的脖子一點點地伸長，逐漸追上聖誕老人。//
+
+##green|**Leonora Morales**##： 倒數計時。**三！二！一！**
+
+//Vincent突然將身子傾前。//
+
+##green|**Leonora Morales**##：//［大呼］//**而贏家是VINCENTTTTTTTTTTTTTTTTTTT！**
+
+##red|**Tony Catalano##**： 天啊，這太令人難以置信了。Vincent贏了一個頭位，字面上的。
+
+##green|**Leonora Morales**##： 多麼精彩的表演。好吧，別因為輸掉賭局生悶氣啦，我們的文森特只是一個平凡的賽車手，贏了沒甚麼特別的。
+
+//SCP-005-VN和SCP-7601逐漸減速，直到兩者着地。這時，SCP-7601把脖子伸到SCP-005-VN，開始談論它的保險。//
+[[=]]
+.
+.
+.
+[[/=]]
+//Tony Catalano和Leonora Morales花了數分鐘一起計算投注金和公佈賠率後結束直播，並示意Vincent Bohart開始訪問。兩位人員在遠端協助Bohart主任。//
+
+//Vincent Bohart接近並拍了拍SCP-005-VN的肩膀，後者因SCP-7601的提問而羞愧得轉身。//
+
+##blue|**Vincent Bohart##**： 而你是？
+
+##964B00|**SCP-005-VN##**： //［轉頭］// Ronnie Peterson。
+
+##blue|**Vincent Bohart##**： 幹，沒聽過。
+
+##green|**Leonora Morales**##： Ronnie Peterson，瑞典籍賽車手，兩次一級方程式賽車比賽亞軍，兩次瑞典三級方程式賽車冠軍，還參加了很多其他錦標賽。因腎臟衰竭於1978年逝世。
+
+##red|**Tony Catalano##**： 你怎麼知道這麼多？
+
+##green|**Leonora Morales**##： 頭號粉絲。
+
+##red|**Tony Catalano##**： 誒，真的？我從來沒看過你對這種東西感興趣。
+
+##green|**Leonora Morales**##： 說笑而已，我查了維基百科。
+
+##blue|**Vincent Bohart##**： 等等，我以為你是聖誕老人？你怎麼當了聖誕車手？
+
+##964B00|**SCP-005-VN##**： 聖誕老人在放假，我是替班的。
+
+##green|**Leonora Morales**##： 你跟照片的樣子根本不像啊，我該怎麼說呢——
+
+##red|**Tony Catalano##**： 小心說話。
+
+##964B00|**SCP-005-VN##**： 肥了？呃，為了符合形象，我需要稍微「提高一個重量級」。即使你不願意，每天吃薑餅遲早會讓你變得像這樣胖。
+
+##blue|**Vincent Bohart##**： 但你不是死了嗎？1978年死於腎衰竭。
+
+##964B00|**SCP-005-VN##**： 沒錯，可不是裝死。
+
+##blue|**Vincent Bohart##**： 你他媽怎樣回到陽間的？
+
+##964B00|**SCP-005-VN##**： 呃，當彼岸的光輝在招手的時候，一隻手抓着我的肩膀，拉到房間裏的火爐旁邊，外面刮着暴風雪。
+
+##green|**Leonora Morales**##： 讓我想想喔。
+
+**Leonora & Tony & Vincent：** 是聖誕老人！
+
+##green|**Leonora Morales**##： 哇，恭喜你Vincent，終於追上其他人的思路了。
+
+##blue|**Vincent Bohart##**： 別再嘲笑我啦。//面向SCP-005-VN］//不管怎樣，我還是需要你清楚解釋他選你當車手的原因。對聖誕老人而言，虔誠的心或者愛小孩的美德不是更重要嗎？為甚麼他會抓個死賽車手當替班的？
+
+##964B00|**SCP-005-VN##**： 嗯……他說他需要真正的賽車手，保證準時派發所有禮物，而之前所有的候選人都遲到了。
+
+##green|**Leonora Morales**##： 哇喔。所以他更關心[[span class="ruby"]]KPI[[span class="rt"]]關鍵績效指標[[/span]][[/span]]而不是客戶體驗？
+
+##964B00|**SCP-005-VN##**： 對，你猜怎麼樣，聖誕老人也有死線的。某一天，我在上頭曬日光浴時，那老頭拍拍我的肩膀說：「嘿，年輕人。你開車一流嘛。我需要你幫個忙。」然後就叫他的小精靈幫我穿衣服，把他的雪橇跟責任全丟給我之後就落跑了。」
+
+##red|**Tony Catalano##**： 換句話說，那老頭是個懶鬼，所以把責任推給其他人。
+
+##964B00|**SCP-005-VN##**： 我替班已經十年了。不管怎樣，我沒差。爆雷一下，天堂沒一級方程式賽車軌道，所以我重活得越久越好。
+
+##blue|**Vincent Bohart##**： 但你拿了這麼多獎項，為甚麼還會輸給我這個鴨子騎士？
+
+##964B00|**SCP-005-VN##**： 這是你的禮物，聖誕快樂！
+
+//SCP-005-VN和Vincent情緒激動地互相擁抱。SCP-7601仍在後面咆哮着SCP-005-VN支付他的保險續保費。//
+
+##red|**Tony Catalano##**： 嘿Leonora。
+
+##green|**Leonora Morales**##： 甚麼事？
+
+##red|**Tony Catalano##**： 我們可悲的站點主任被老頭子送了一個勝利當禮物。
+
+[[/div]]
+-----
+
+[[include :scp-zh-tr:component:anomaly-class-bar-source
+|item-number= 005-VN
+|clearance= 1
+|container-class=keter
+|secondary-class=
+|secondary-icon=
+|disruption-class=ekhi
+|risk-class=謹慎
+]]
+-----
+
+**特殊收容措施：** 鑑於實體仍在基金會的掌控之外，現時的收容措施單純為在每年12月24至25日追蹤實體的蹤跡。基金會每年會指定資料庫中一個站點執行「制定SCP-005-VN的反制措施」的任務。
+
+[[include component:image-block
+name=http://scp-vn.wdfiles.com/local--files/scp-005-vn/peterson.jpg|
+caption=SCP-005-VN於1978年8月的照片。|
+width=250px
+]]
+
+Site-333在未來將被指派執行上述任務。
+
+**描述：** SCP-005-VN是Ronnie Peterson，一位著名的瑞典籍賽車選手，以綽號[[span class="ruby"]]超級瑞典賽車手[[span class="rt"]]“SuperSwede”[[/span]][[/span]]為名。SCP-005-VN是一個三級復甦實體[[footnote]]復甦實體是透過異常方式從「永恆來世」重回陽間的人類，動物，或任何具思考能力的生物。實體因為了解決某一問題或完成某一任務而被復生［...］而且，他們受世外力量「祝福」，以更直白的方式來說，就是異常性質。 ~ 節錄於《仰望世外：從死復甦的深入研究》，Sam Jones，PhD，SCP基金會超常科學期刊，第286卷，4月1日號（2021年），內部刊物。[[/footnote]]，擁有輕微的異常性質，如堅不可摧的體質、耐熱性和對某些常見疾病的抵抗力。
+
+除此之外，SCP-005-VN還持有SCP-005-VN-1作為運輸工具。
+
+[[collapsible show="2023年聖誕節更新" hide="隱藏更新"]]
+
+**更新描述：** 現時，SCP-005-VN-1是一改良一級方程式賽車。SCP-005-VN-1的車漆顯示一隻//Rangifer tarandus// （馴鹿）的前半呈衝刺狀態，它的前腿在兩個前輪上，後腿推着後輪，前翼則塗了一堆鹿角。
+
+SCP-005-VN-1的最低速度與普通一級方程式賽車的最高速度相等，而記錄到的最高速度則超過2.5馬赫。SCP-005-VN-1亦有控制自身聲量的能量，以避免SCP-005-VN在執行義務期間打擾附近平民睡覺。據推測，SCP-005-VN-1的出現是為了「追隨時代潮流」。
+[[/collapsible]]
+-----
+[[div class="blockquote table4 tableb"]]
+[[table class="wiki-content-table" style="width: 100%"]]
+[[row]]
+[[hcell]]
+**__{{Site-333 -- 跨部門文字通訊紀錄：}}__**
+{{25/12/2023 -- 09:14}}
+[[/hcell]]
+[[/row]]
+[[row]]
+[[cell]]
+* ##blue|**Vincent Bohart**##，主任；
+* ##red|**Tony Catalano**##，會計兼旅遊人員。
+[[/cell]]
+[[/row]]
+[[row]]
+[[hcell]]
+[[/hcell]]
+[[/row]]
+[[row]]
+[[cell]]
+##red|**Tony Catalano**##： 你最終還是讓SCP-005-VN跑了。開始收拾行李吧。
+
+##blue|**Vincent Bohart##**： 為甚麼？
+
+##red|**Tony Catalano##**： 你他媽的賭輸了啊。
+[[/cell]]
+[[/row]]
+[[row]]
+[[hcell]]
+[[/hcell]]
+[[/row]]
+[[/table]]
+[[/div]]
+
+-----
+@@ @@
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[SCP-004-VN]]] | SCP-005-VN | [[[SCP-006-VN]]] >>
+[[/=]]
+[[/div]]
+
+[[include :scp-zh-tr:component:license-box
+| author= KirQ, Dept, Irina Bougainvillea, RedEyeMikeyy, t4nku, Welpermander, MegaSun, Rigball]]
+
+====
+> **Filename:** caught_in_4k.jpg
+> **Name:** File:February -conservationlands15 Social Media Takeover- Top 15 Places on National Conservation Lands for Night Sky Viewing (16358396509).jpg
+> **Author:** Bureau of Land Management
+> **License:** Public Domain
+> **Source Link:** [https://commons.wikimedia.org/wiki/File:February_-conservationlands15_Social_Media_Takeover-_Top_15_Places_on_National_Conservation_Lands_for_Night_Sky_Viewing_(16358396509).jpg Wikimedia Commons]
+> **Notes:** Image edited by [[*user Dept]].
+
+> **Filename:** park
+> **Name:** Amusement Park in Atlantic City, New Jersey
+> **Author:** momentcaptured1
+> **License:** CC BY 2.0 DEED
+> **Source Link:** [https://www.flickr.com/photos/pat_ossa/6004473148/ Flickr]
+
+> **Filename:** ready_to_fire.jpg
+> **Name:** File:Ready to fire 141210-A-ZD229-897.jpg
+> **Author:** [https://www.dvidshub.net/image/1703770 Sgt. Eric-James Estrada]
+> **License:** Public Domain
+> **Source Link:** [https://commons.wikimedia.org/wiki/File:Ready_to_fire_141210-A-ZD229-897.jpg Wikimedia Commons]
+
+> **Filename:** krampus.jpg
+> **Name:** File:Krampus Toblach.jpg
+> **Author:** Luca Lorenzi (Llorenzi)
+> **License:** CC BY-SA 3.0
+> **Source Link:** [https://commons.wikimedia.org/wiki/File:Krampus_Toblach.jpg Wikimedia Commons]
+
+> **Filename:** hq__room.jpg
+> **Name:** File:NOIRLab HQ Conference Room (6V6A0258-CC).jpg
+> **Author:** NOIRLab/NSF/AURA/T. Slovinský
+> **License:** CC BY 4.0
+> **Source Link:** [https://commons.wikimedia.org/wiki/File:NOIRLab_HQ_Conference_Room_%286V6A0258-CC%29.jpg Wikimedia Commons]
+
+> **Filename:** boardwalk_shop.jpg
+> **Name:** File:Boardwalk shop in Atlantic City.jpg
+> **Author:** Bruce Emmerling
+> **License:** CC BY-SA 4.0
+> **Source Link:** [https://commons.wikimedia.org/wiki/File:Boardwalk_shop_in_Atlantic_City.jpg Wikimedia Commons]
+
+> **Filename:** truck
+> **Name:** Manekineko Duck Truck in Ginza
+> **Author:** beatneko
+> **License:** CC BY-SA 2.0 DEED
+> **Source Link:** [https://www.flickr.com/photos/nekonin/4629035924/ Flickr]
+
+> **Filename:** duck
+> **Author:** [[*user Dept]]
+> **License:** CC BY-SA 3.0
+> **Source Link:** [http://scp-vn.wikidot.com/scp-005-vn The Vietnamese SCP Wiki]
+> **Notes:** This photo is made from the following files:
+
+> **Name:** File:Alces alces antlers in Ockelbo 3321.jpg
+> **Author:** Gunnar Creutz
+> **License:** CC BY-SA 4.0
+> **Source Link:** [https://commons.wikimedia.org/wiki/File:Alces_alces_antlers_in_Ockelbo_3321.jpg Wikimedia Commons]
+
+> **Name:** White duck
+> **License:** CC0 1.0
+> **Source Link:** [https://www.stockvault.net/photo/200682/white-duck Stockvault]
+
+> **Filename:** peterson.jpg
+> **Name:** File:Peterson at 1978 Dutch Grand Prix.jpg
+> **Author:** Suyk, Koen / Anefo / neg. stroken, 1945-1989, 2.24.01.05, item number 929-8748
+> **License:** CC0
+> **Source Link:** [https://commons.wikimedia.org/wiki/File:Peterson_at_1978_Dutch_Grand_Prix.jpg Wikimedia Commons]
+[[include :scp-zh-tr:component:license-box-end]]
+
+[[include :scp-wiki:theme:black-highlighter-theme]]
+[[include :scptestwiki:undervegas]]
+[[include :scp-wiki:theme:xmas
+|xmas-snow-bhl= --]]]
+[[module CSS]]
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,900;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Shade&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Staatliches&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+:root:lang(zh){
+    --logo-image: url("http://scpdsandbox.wdfiles.com/local--files/site-333/At3.png");
+    --header-title: "SITE-333";
+    --header-subtitle: "天上人間";
+    --header-font: 'Playfair Display', serif;
+    --title-font: 'Playfair Display', serif;
+    --body-font: 'Telex', sans-serif;
+    --bright-accent: 0, 109, 255;
+    --medium-accent: 0, 63, 197;
+    --dark-accent: 0, 22, 142;
+
+    --link-color: var(--medium-accent);
+}
+
+#extra-div-1 {
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 10rem;
+    background-image: url("http://scpdsandbox.wdfiles.com/local--files/site-333/PanoRam2.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: repeat-x;
+    pointer-events: none;
+}
+
+#extra-div-2 {
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 10rem;
+    background: linear-gradient(0deg, rgba(0, 109, 255,1) 35%, rgba(204, 226, 255) 97%);
+    pointer-events: none;
+    opacity: 0.40;
+}
+
+#extra-div-3 {
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 10rem;
+    background-image: url("http://scptestwiki.wdfiles.com/local--files/undervegas/dicegold.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: repeat-x;
+    pointer-events: none;
+    opacity: 0.65;
+
+}
+
+/* *** DIVS *** */
+.addendum {
+    border:solid 2px rgb(var(--bright-accent));
+    background:#F5F5F5;
+    width:84%;
+    padding:1px 15px;
+    margin: 10px auto;
+}
+
+.label {
+    background: rgb(var(--bright-accent));
+    color: white;
+    padding: 3px;
+    border-radius: 4px;
+    font-family: monospace;
+    white-space: nowrap;
+}
+
+.doc {
+    background-color: rgb(var(--bright-accent));
+    color: white;
+    font-family: var(--mono-font);
+    padding: 0 1.5rem;
+    font-size: 1.1em;
+    width: fit-content;
+    position: relative;
+    top: -2em;
+    border-radius: 4px;
+    margin-bottom: -3rem;
+}
+
+.addendum {margin-top: 1.6rem;}
+
+.angled {clip-path: polygon(4% 0%, 100% 0%, 96% 100%, 0% 100%); border-radius: 5px;}
+
+.foundation {
+    border:solid 3px #444;
+    background: #f2f2c2 url('https://scp-wiki.wdfiles.com/local--files/theme%3Aredtape/scp_trans.png') center center no-repeat;
+    padding: 1.5rem;
+    margin-bottom: 10px;
+    color: black;
+}
+.foundation p {
+    margin: none;
+}
+
+.foundation.snow {
+    background: #fff url('https://scp-wiki.wdfiles.com/local--files/theme%3Aredtape/scp_trans.png') center center no-repeat;
+}
+
+.foundation.raisa {
+    background: #f2f2c2 url('https://scp-wiki.wdfiles.com/local--files/theme%3Aredtape/raisa_trans.png') center center no-repeat;
+    background-size: 29rem;
+    text-align: center;
+}
+.foundation.alt {
+    background: #fff url('https://scp-wiki.wdfiles.com/local--files/theme%3Ai57/scp-logo-i57.png') center center no-repeat;
+}
+
+.generic {
+   position: relative;
+   margin: 0.5em 1.25rem;
+   padding: 0.825em 1.25em;
+   clear: both;
+   clip-path: polygon(93% 0px, 100% 15.11%, 100% 100%, 0px 100%, 0px 0px);
+   border-left: 4px solid gray;
+}
+.generic hr {background: gray; border: none;}
+.generic h1, .generic h2, .generic h3, .generic h4, .generic h5, .generic h6 {color: #515050;}
+.generic.red {background: #ff4a4a3d;}
+.generic.blue {background: #4a80ff3d;}
+.generic.yellow {background: #fff77f3d;}
+.generic.purple {background: #a561d536;}
+.generic.green {background: #CDE5DD;}
+
+
+#header::before {
+    left: 0.5rem;
+    background-position: center -0.5rem;
+    opacity: 1;
+}
+
+#header h1, #header h2 {
+    margin: 1.7rem 0;
+}
+
+}
+.table2 {
+    --accentColor: rgb(40, 135, 189);
+}
+.custom2 .wiki-content-table {
+    width: 100%;
+}
+[[/module]]

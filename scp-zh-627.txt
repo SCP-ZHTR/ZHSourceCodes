@@ -1,7 +1,8 @@
+[[include component:scp-meta-title-hiding css-style=classic]]
 [[include :scp-zh-tr:theme:black-highlighter-theme]]
 [[include :scp-zh-tr:component:bhl-dark-sidebar]]
 [[include :scp-zh-tr:component:centered-header-bhl]]
-[[include component:scp-meta-title-hiding css-style=classic]]
+
 
 
 [[include info:start]]
