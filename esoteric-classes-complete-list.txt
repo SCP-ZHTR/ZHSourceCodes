@@ -181,6 +181,7 @@
 ||[[span class="ruby"]]Prodest[[span class="rt"]]驕傲[[/span]][[/span]][[footnote]]**譯注：**拉丁文，驕傲之意。[[/footnote]]|| 項目具有有益的屬性。|| [[[SCP-5708]]] ||
 ||[[span class="ruby"]]Pudicitia[[span class="rt"]]浦狄喀提亞[[/span]][[/span]][[footnote]]**譯注：**拉丁文，古羅馬司掌貞潔的女神。[[/footnote]]|| 在基金會介入產生不良影響後，現在已經成為基金會的救助對象。||[[[SCP-6821]]]||
 ||[[span class="ruby"]]Radix[[span class="rt"]]基數[[/span]][[/span]]|| 項目已被整合到基金會的指揮結構中，但與猶太教無關，否則應分入Yesod級。||[[[SCP-6987]]], [[[SCP-5562]]]||
+||[[span class="ruby"]]Shahar[[span class="rt"]]沙哈爾[[/span]][[/span]][[footnote]]**譯注：**迦南神話的曙光與啟明星之神。[[/footnote]]||項目危及人類文明存續，但對策已得以建立。||[*http://scp-jp.wikidot.com/scp-3363-jp SCP-3363-JP], [[[SCP-ZH-850]]]||
 ||[[span class="ruby"]]Simpatico[[span class="rt"]]柔和[[/span]][[/span]][[footnote]]**譯注：**義大利文，討喜、和諧之意。[[/footnote]]||項目不可預測，但並不危險。||[*http://scp-pl.wikidot.com/scp-pl-201 SCP-PL-201], [[[SCP-4939|SCP-8999]]]||
 ||[[span class="ruby"]]Sköll[[span class="rt"]]斯庫爾[[/span]][[/span]][[footnote]]**譯注：**古挪威文，北歐神話中在諸神黃昏到來前永遠在追逐太陽的狼[[/footnote]]||項目正處於過度狀態，最終將可能會無效化、永遠突破收容或兩者間有之。||[[[SCP-5651]]]||
 ||[[span class="ruby"]]Skótos[[span class="rt"]]盲者[[/span]][[/span]][[footnote]]**譯注：**義大利文，眼盲、黑暗之意。[[/footnote]]||項目的研究與記錄工作仍在進行中或嚴重缺乏。||[http://scp-pl.wikidot.com/scp-pl-252 SCP-PL-252], [[[SCP-5703]]]||
@@ -188,7 +189,7 @@
 ||[[span class="ruby"]]Starveling[[span class="rt"]]飢餓[[/span]][[/span]]|| 確切含意不明。是超現實部「飽食等級」的分級。||[[[SCP-6445|SCP-⌘]]]||
 ||[[span class="ruby"]]Symbolic[[span class="rt"]]符號化[[/span]][[/span]]|| 對該項目的收容僅是象徵為之。執行真正的收容措施將會招致即刻且極端的懲罰。||[[[SCP-6445|SCP-⌘]]]||
 ||[[span class="ruby"]]talakal ni Adek[[span class="rt"]]彩虹[[/span]][[/span]][[footnote]]**譯注：**南勢阿美族語之拼音，意為彩虹。[[/footnote]]||  ||[[[SCP-ZH-372]]]||
-||[[span class="ruby"]]Tenebrarius[[span class="rt"]]泰納布拉里烏斯[[/span]][[/span]][[footnote]]**譯注：**拉丁文，黃昏之意。[[/footnote]]||基金會沒有且不可能獲取項目的相關資訊。||[[[SCP-PL-290]]], [[[SCP-7931]]], [[[SCP-ZH-818]]||
+||[[span class="ruby"]]Tenebrarius[[span class="rt"]]泰納布拉里烏斯[[/span]][[/span]][[footnote]]**譯注：**拉丁文，黃昏之意。[[/footnote]]||基金會沒有且不可能獲取項目的相關資訊。||[[[SCP-PL-290]]], [[[SCP-7931]]], [[[SCP-ZH-818]]]||
 ||[[span class="ruby"]]Terminal[[span class="rt"]]終端[[/span]][[/span]]||項目牽涉人類的死後世界。[http://scp-int.wikidot.com/forum/t-7855061/scp-es-145 詳盡定義在此。] ||[http://scp-int.wikidot.com/scp-es-145 SCP-ES-145], [http://lafundacionscp.wikidot.com/scp-es-163 SCP-ES-163], [http://scp-int.wikidot.com/scp-es-266 SCP-ES-266], [[[SCP-5523]]], [[[SCP-5572]]], [[[SCP-5961]]]||
 ||[[span class="ruby"]]the simpsons farting[[span class="rt"]]辛普森一家放屁[[/span]][[/span]]||未知。||[[[SCP-PL-290]]]||
 ||[[span class="ruby"]]Tiamat[[span class="rt"]]迪亞馬特[[/span]][[/span]][[footnote]]**譯注：**阿卡德文，巴比倫神話的地母神，是苦水(鹹水，即海洋)的象徵。[[/footnote]]||項目直接對人類造成威脅，但可透過公然作戰或其他造成破碎假面情景[[footnote]]**譯注：**基金會或異常被公眾所認知[[/footnote]]的行動強加「收容」。|| [http://scp-wiki-cn.wikidot.com/scp-cn-2000 SCP-CN-2000], [http://lafundacionscp.wikidot.com/scp-es-244 SCP-ES-244], [http://scp-pl.wikidot.com/scp-pl-253 SCP-PL-253], [http://scp-jp.wikidot.com/scp-405-jp SCP-405-JP], [http://scp-jp.wikidot.com/scp-2682-jp SCP-2682-JP], [http://scp-int.wikidot.com/scp-2891-jp SCP-2891-JP], [http://scp-jp.wikidot.com/scp-2938-jp SCP-2938-JP], [http://scp-jp.wikidot.com/scp-2944-jp SCP-2944-JP], [[[SCP-3396]]], [[[SCP-3895]]], [[[SCP-4568]]], [[[SCP-5034]]], [[[SCP-5866]]], [[[SCP-6335]]], [[[SCP-6942]]]||
@@ -199,9 +200,9 @@
 ||[[span class="ruby"]]Uncontained[[span class="rt"]]未收容[[/span]][[/span]][[footnote]]可同樣參見該同名[#toc1 子類]。[[/footnote]]||  ||[http://scp-int.wikidot.com/propuesta-de-nico Nico's Proposal (ES)], [http://fondationscp.wikidot.com/scp-340-fr SCP-340-FR], [http://scp-jp.wikidot.com/scp-764-jp SCP-764-JP], [http://scp-jp.wikidot.com/scp-1390-jp SCP-1390-JP], [http://scp-jp.wikidot.com/scp-2627-jp SCP-2627-JP], [[[scp-2744|TATTLETALE]]], [[[SCP-3005]]], [[[SCP-3681]]], [[[SCP-4612]]], [[[SCP-5074]]], [[[SCP-5097]]], [[[SCP-5311]]], [[[SCP-5346]]], [[[SCP-5379]]], [[[SCP-5471]]], [[[SCP-5802]]], [[[SCP-5859]]], [[[SCP-6039]]], [[[SCP-6061]]], [[[SCP-6330]]], [[[SCP-6610]]], [[[SCP-6701]]], [[[SCP-6982]]]，[[[SCP-ZH-236]]]，[[[SCP-ZH-835]]]||
 ||[[span class="ruby"]]Unknown[[span class="rt"]]未知[[/span]][[/span]]||  ||[[[SCP-4604]]], [[[SCP-4972]]], [[[SCP-5541]]], [[[SCP-5664]]]||
 ||[[span class="ruby"]]Unnecessary[[span class="rt"]]不需要[[/span]][[/span]]||  ||[[[Lily's Proposal|Lily的提案]]]，[[[SCP-4023]]]，[[[SCP-5143]]]||
-|| Uya || 項目被推測應存在但當前尚未發現 || [[[SCP-ZH-611]]] ||
+|| Uya || 項目被推測應存在但當前尚未發現。 || [http://scp-jp.wikidot.com/scp-1580-jp SCP-1580-JP]，[[[SCP-ZH-611]]] ||
 ||[[span class="ruby"]]Yesod[[span class="rt"]]基礎[[/span]][[/span]][[footnote]]**譯注：**希伯來文，是卡巴拉生命樹的質點之一。[[/footnote]]|| 項目納入基金會的指揮機構 。||[[[spikebrennan's proposal]]], [http://scp-jp.wikidot.com/scp-1370-jp SCP-370Y], [http://scp-wiki-cn.wikidot.com/scp-cn-2599 SCP-CN-2599], [http://scp-jp.wikidot.com/scp-2983-jp SCP-2983-JP], [[[SCP-4436]]], [[[SCP-5292]]], [[[SCP-6600]]]||
-||[[span class="ruby"]]Zeno[[span class="rt"]]芝諾[[/span]][[/span]][[footnote]]**譯注：**希臘文，古希臘哲學家，提出了諸多關於運動不可分的悖論，即兩分法悖論、阿基里斯悖論、飛矢不動悖論與遊行隊伍悖論。[[/footnote]]||項目的收容難度中等，威脅性低。||[[[SCP-2005]]]||
+||[[span class="ruby"]]Zeno[[span class="rt"]]芝諾[[/span]][[/span]][[footnote]]**譯注：**希臘文，古希臘哲學家，提出了諸多關於運動不可分的悖論，即兩分法悖論、阿基里斯悖論、飛矢不動悖論與遊行隊伍悖論。[[/footnote]]||項目的收容難度中等，威脅性低。||[[[SCP-2005]]], [[[SCP-ZH-565]]]||
 ||[[span class="ruby"]]Zurvan[[span class="rt"]]祖爾文[[/span]][[/span]][[footnote]]**譯注：**波斯文，摩尼教的至高神。[[/footnote]]||項目構成了基準現實的一方面，不應受到干擾。||[http://scp-wiki-cn.wikidot.com/scp-cn-2626 SCP-CN-2626],[[[SCP-5103]]], [[[SCP-6166]]]||
 ||Ѻмѐга-Титло|| ||[[[SCP-7802]]]||
 [[/collapsible]]
