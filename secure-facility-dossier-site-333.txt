@@ -201,7 +201,8 @@ Site-333在這裡一待就是好幾年的時間，基金會行政層從未發現
 Site-333當前位置為駐站的小型行政、研究與收容小組頗有裨益。儘管該站點絕非完全無害，但根據對當地居民的評估結果，他們對該設施及其員工生活狀態根本毫不在乎。目前Site-333經營了一座博物館，專門展示當地的神祕生物「澤西惡魔」，此外還設有附屬燈塔所提供的觀景臺。
 
 2019年，Site-333站點主任文森特．伯哈特聯繫了[*http://scp-zh-tr.wikidot.com/scp-4661 基金會站點Site-666的豪斯主任]，並提議為兩站點締結「姊妹站點」的關係。由於沒有收到豪斯主任的任何回應，推定他默認了該協議提出的要求。Site-333為此舉辦了小型締結儀式；不過Site-666並未派員出席。
-
+-----
+[[include component:image-block name=https://i.imgur.com/hpm8xPj.png|width=100%|align=center|caption=Site-333 員工休息室 -- 由兼職實習員工**[*https://scp-zh-tr.wikidot.com/kikunai-s-artwork-hub Kikunai]**描繪的日常。]]
 -----
 
 ++ __重要人物 -- Q&A：__
@@ -274,7 +275,7 @@ Site-333當前位置為駐站的小型行政、研究與收容小組頗有裨益
 * [*http://scp-zh-tr.wikidot.com/scp-7599 SCP-7599：月亮使人瘋狂]
 * [*http://scp-zh-tr.wikidot.com/scp-7599 SCP-7855：伯哈特煮了⠀⠀⠀⠀⠀⠀]
 * [*http://scp-zh-tr.wikidot.com/scp-8472-ex SCP-8472-EX：喔，老鼠！]
-* [*https://scp-wiki.wikidot.com/scp-005-vn SCP-005-VN: How The Foundation Races Against Christmas]
+* [*https://scp-wiki.wikidot.com/scp-005-vn SCP-005-VN: 聖誕節格蘭披治賽]
 
 = {{備註：在異常項目紀錄與異常事件紀錄中重分類的其他項目。}}
 @@ @@
