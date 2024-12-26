@@ -1,11 +1,11 @@
 [[include component:scp-meta-title-hiding css-style=classic]]
 [[include info:start]]
-**SCP-005-VN - 基金會如何與聖誕節競賽**
+**SCP-005-VN - 格蘭披治賽車**
 **作者：** [[*user KirQ]]，[[*user Dept]]
-**原文：** [http://scp-vn.wikidot.com/scp-005-vn SCP-005-VN Cách Tổ Chức Chạy Đua Với Giáng Sinh]
+**原文：** [http://scp-vn.wikidot.com/scp-005-vn SCP-005-VN Noel Grand Prix]
 
 **EN翻譯：** [[*user Irina Bougainvillea]]，[[*user RedEyeMikeyy]]，[[*user Rigball]]，[[*user MegaSun]]，[[*user t4nku]]，[[*user Welpermander]]
-**EN譯文：** [https://scp-wiki.wikidot.com/scp-005-vn SCP-005-VN - How The Foundation Races Against Christmas]
+**EN譯文：** [https://scp-wiki.wikidot.com/scp-005-vn SCP-005-VN - Noel Grand Prix]
 
 **二次翻譯：**[[*user Kikunai]]
 **圖像：** 見底部。
@@ -318,7 +318,7 @@ width=400px
 
 **鐵鳥：** 收到。Over。
 
-<11:08 (GMT-5)>
+<11:08 （GMT-5）>
 
 **鐵鳥：** 鐵鳥呼叫指揮部。找到他了。現在要做甚麼？Over。
 
@@ -332,7 +332,7 @@ width=400px
 
 **指揮部：** 收到。儘量保持聯絡。Over。
 
-<11:15 (GMT-5)>
+<11:15 （GMT-5）>
 
 **鐵鳥：** 鐵鳥呼叫指揮部。我現在已經追蹤他數百米了。目標能夠在一段不少的時間內以最高速度維持距離。請求反制指引。Over。
 
@@ -340,7 +340,7 @@ width=400px
 
 **鐵鳥：** 收到。Over。
 
-<11:20 (GMT-5)>
+<11:20 （GMT-5）>
 
 **指揮部：** 指揮部呼叫鐵鳥，情況如何？Over。
 
@@ -372,47 +372,47 @@ width=400px
 [[include component:image-block name=http://scp-vn.wdfiles.com/local--files/scp-005-vn/hq__room.jpg|width=100%|align=center|caption=Site-333的會議室。（圖片只供參考）]]
 -----
 
-##blue|**Vincent Bohart##**: 所以這就是為甚麼我們在今天22號需要討論如何抓着SCP-005-VN。
+##blue|**Vincent Bohart##**： 所以這就是為甚麼我們在今天22號需要討論如何抓着SCP-005-VN。
 
-##orange|**Noah Patel**##: 你媽。為甚麼我們就不能無視它，跟普通人一樣享受我們的假期呢。
+##orange|**Noah Patel**##： 你媽。為甚麼我們就不能無視它，跟普通人一樣享受我們的假期呢。
 
-##red|**Tony Catalano**##: 我當然想啦，但高層已經為此批了預算。要說不幹已經太遲了。
+##red|**Tony Catalano**##： 我當然想啦，但高層已經為此批了預算。要說不幹已經太遲了。
 
-##green|**Leonora Morales##:** 還有我們親愛的站點主任決定賭上站點的全部預算。
+##green|**Leonora Morales##：** 還有我們親愛的站點主任決定賭上站點的全部預算。
 
-##blue|**Vincent Bohart##**: 賠率一比一百。如果我們贏了，我們贏大了。
+##blue|**Vincent Bohart##**： 賠率一比一百。如果我們贏了，我們贏大了。
 
-##green|**Leonora Morales##:** 或者我們可以搬到公路橋下面住。
+##green|**Leonora Morales##：** 或者我們可以搬到公路橋下面住。
 
-##blue|**Vincent Bohart##**: 你們可不可以不要在嘲笑我，開始想想辦法？
+##blue|**Vincent Bohart##**： 你們可不可以不要在嘲笑我，開始想想辦法？
 
-##red|**Tony Catalano##**: 看看檔案裏所有的收容嘗試嗎？其他站點做的事比我們的專業至少十倍啊。但你覺得這他媽的破地方可以做得更好嗎？靠腰。
+##red|**Tony Catalano##**： 看看檔案裏所有的收容嘗試嗎？其他站點做的事比我們的專業至少十倍啊。但你覺得這他媽的破地方可以做得更好嗎？靠腰。
 
-##orange|**Noah Patel**##: Vincent，你腦殼裏甚麼都沒有啊。他們有些派了數百計的人員也徒勞無功。要比他們做得更好實在是放屁，我們算上新來的Larry也只有五個人。
+##orange|**Noah Patel**##： Vincent，你腦殼裏甚麼都沒有啊。他們有些派了數百計的人員也徒勞無功。要比他們做得更好實在是放屁，我們算上新來的Larry也只有五個人。
 
-##green|**Leonora Morales##**: 好啦，待會才繼續罵吧。我們需要一個計劃。Vincent，你打算怎樣做？
+##green|**Leonora Morales##**： 好啦，待會才繼續罵吧。我們需要一個計劃。Vincent，你打算怎樣做？
 
-##blue|**Tony Catalano##**: 我們明顯沒足夠資金去北極，所以我建議在這裏附近圍捕那個老頭子。他沒可能不會來，我們只是需要好的出手時機。
+##blue|**Tony Catalano##**： 我們明顯沒足夠資金去北極，所以我建議在這裏附近圍捕那個老頭子。他沒可能不會來，我們只是需要好的出手時機。
 
-##orange|**Noah Patel**##: 但我們要在哪裏找更多人支援行動？時間已經不多了。
+##orange|**Noah Patel**##： 但我們要在哪裏找更多人支援行動？時間已經不多了。
 
-##blue|**Vincent Bohart##**: 如果跟其他站點相比，他們就是因為太多人才被發現的，不是嗎？也許少而精效果比較好。
+##blue|**Vincent Bohart##**： 如果跟其他站點相比，他們就是因為太多人才被發現的，不是嗎？也許少而精效果比較好。
 
-##orange|**Noah Patel**##: 完全沒用。你想我們五個笨手笨腳抓他喔？即使最快的戰鬥機也跑不過他。你打算在附近的倉庫店租台雪地摩托車輸得更快嗎？
+##orange|**Noah Patel**##： 完全沒用。你想我們五個笨手笨腳抓他喔？即使最快的戰鬥機也跑不過他。你打算在附近的倉庫店租台雪地摩托車輸得更快嗎？
 
-##blue|**Vincent Bohart##**: Noah，你是他媽的天才。如果我們追不上他，那弄一個可以更好追上他的載具。馴鹿、雪橇、膠水、再加上一段魔法就搞定了。聽起來不難嘛。
+##blue|**Vincent Bohart##**： Noah，你是他媽的天才。如果我們追不上他，那弄一個可以更好追上他的載具。馴鹿、雪橇、膠水、再加上一段魔法就搞定了。聽起來不難嘛。
 
-##orange|**Noah Patel**##: 老兄你他媽的認真喔？
+##orange|**Noah Patel**##： 老兄你他媽的認真喔？
 
-##blue|**Vincent Bohart##**: 比「我會贏」的事實更真。Tony，看看他們批了多少預算。
+##blue|**Vincent Bohart##**： 比「我會贏」的事實更真。Tony，看看他們批了多少預算。
 
-##red|**Tony Catalano##:** 夭壽喔。
+##red|**Tony Catalano##：** 夭壽喔。
 
-##orange|**Noah Patel**##: 啥？
+##orange|**Noah Patel**##： 啥？
 
- ##red|**Tony Catalano##:** 1000塊。
+ ##red|**Tony Catalano##：** 1000塊。
 
-##blue|**Vincent Bohart##**:夭壽喔。
+##blue|**Vincent Bohart##**： 夭壽喔。
 
 [[/div]]
 -----
@@ -941,7 +941,7 @@ $300，不含運輸費。
 
 ##green|**Leonora Morales**##： 哇喔。所以他更關心[[span class="ruby"]]KPI[[span class="rt"]]關鍵績效指標[[/span]][[/span]]而不是客戶體驗？
 
-##964B00|**SCP-005-VN##**： 對，你猜怎麼樣，聖誕老人也有死線的。某一天，我在上頭曬日光浴時，那老頭拍拍我的肩膀說：「嘿，年輕人。你開車一流嘛。我需要你幫個忙。」然後就叫他的小精靈幫我穿衣服，把他的雪橇跟責任全丟給我之後就落跑了。」
+##964B00|**SCP-005-VN##**： 對，你猜怎麼樣，聖誕老人也有死線的。某一天，我在上頭曬日光浴時，那老頭拍拍我的肩膀說：「嘿，年輕人。你開車一流嘛。我需要你幫個忙。」然後就叫他的小精靈幫我穿衣服，把他的雪橇跟責任全丟給我之後就落跑了。
 
 ##red|**Tony Catalano##**： 換句話說，那老頭是個懶鬼，所以把責任推給其他人。
 
