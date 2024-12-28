@@ -439,7 +439,7 @@ width=400px
 {{已購物品}}
 [[/hcell]]
 [[hcell]]
-{{Price}}
+{{價格}}
 [[/hcell]]
 [[/row]]
 [[row]]
