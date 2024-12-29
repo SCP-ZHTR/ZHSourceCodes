@@ -541,7 +541,7 @@ Header logo是抓半影外觀主題裡的基金會logo網址。
 |nohide=0
 |folded=1
 ]]
-只看見了一大堆不同品牌的泡麵。
+只看見了一大堆不同品牌的泡麵。[[span class="fnnum"]].[[/span]][[span class="fncon"]]##black|此泡麵非彼[[*user Pao Mian]]。##[[/span]]
 [[include :scp-zh-tr:component:colend
 |nohide=1
 |hide=
