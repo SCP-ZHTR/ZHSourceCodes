@@ -1,0 +1,53 @@
+[[include info:start]]
+**篇名：**辦公桌上一份[已刪除]文件
+**作者：**[[*user IC_1623]]
+[[collapsible show="授權" hide="收全"]]
+> 圖片標題：M4460po5
+> 圖片所有人：萌萌 ([[*user Mang_Gwan]])
+> 來源：https://i.imgur.com/ia0ZpYc.png
+> 授權證明：http://scp-zh-tr.wikidot.com/image:m4460po5
+> 授權方式：CC BY-SA 3.0
+
+> 圖片標題：M445xy9a
+> 圖片所有人：萌萌 ([[*user Mang_Gwan]])
+> 來源：https://i.imgur.com/0aLgJld.png
+> 授權證明：http://scp-zh-tr.wikidot.com/image:m445xy9a
+> 授權方式：CC BY-SA 3.0
+
+> 圖片標題：M445rb8e
+> 圖片所有人：萌萌 ([[*user Mang_Gwan]])
+> 來源：https://i.imgur.com/KoHcXah.png
+> 授權證明：http://scp-zh-tr.wikidot.com/image:m445rb8e
+> 授權方式：CC BY-SA 3.0
+
+> 圖片標題：M445oobz
+> 圖片所有人：墨魚 ([[*user IC_1623]])
+> 來源：https://i.imgur.com/q2UGEja.png
+> 授權證明：http://scp-zh-tr.wikidot.com/image:m445oobz
+> 授權方式：CC BY-SA 3.0
+
+> 圖片標題：M445lipj
+> 圖片所有人：殘響 ([[*user Reverberate_a]])
+> 來源：https://i.imgur.com/kDdX0BH.png
+> 授權證明：http://scp-zh-tr.wikidot.com/image:m445lipj
+> 授權方式：CC BY-SA 3.0
+
+> 圖片標題：M443fc09
+> 圖片所有人：天雨 ([[*user Tianyutianyutian]])
+> 來源：https://i.imgur.com/FogxF1Q.png
+> 授權證明：http://scp-zh-tr.wikidot.com/image:m443fc09
+> 授權方式：CC BY-SA 3.0
+[[/collapsible]]
+[[include info:end]]
+
+[[include :scp-zh-tr:theme:basalt darkmode=a|centertitle=a]]
+[[image https://i.imgur.com/kmiJKlL.jpeg]]
+[[div class="notation"]]
+出場項目：
+* [[[SCP-ZH-467]]]
+* [[[SCP-ZH-627]]]
+* [[[SCP-ZH-298]]]
+* [[[SCP-ZH-107]]]
+* [[[SCP-ZH-835]]]
+* [[[SCP-7601]]]
+[[/div]]

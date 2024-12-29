@@ -12,7 +12,7 @@
 .menu a:visited{color: #FFF}
 .menu a:hover{color: #FFF}
 [[/module]]
-[[span style="color:#444"]]
+[[span style="color:#555"]]
 黑暗中只有只有圓形光點為你指引方向，你順應手電筒的光移動視線探索空間。
 
 這是一間方形空房，牆壁用潮濕磚瓦堆砌，上面遍布植物根系，牆面似乎畫有圖文，卻因密布的樹根而無法細看。
