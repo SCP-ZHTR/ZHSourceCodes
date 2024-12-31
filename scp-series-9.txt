@@ -851,7 +851,7 @@
 * [[[SCP-8795]]] - [ACCESS DENIED]
 * [[[SCP-8796]]] - [ACCESS DENIED]
 * [[[SCP-8797]]] - [ACCESS DENIED]
-* [[[SCP-8798]]] - [ACCESS DENIED]
+* [[[SCP-8798]]] - 故鄉
 * [[[SCP-8799]]] - A Book of Kings
 
 [[# 8800]]
