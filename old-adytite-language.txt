@@ -1,6 +1,6 @@
 [[include credit:start]]
 **原著：** Makuta Makaveli（帳戶已刪除）
-**譯者：** [[*user edward-knave]]、[[*user nyunyunyun]]
+**譯者：** [[*user edward-knave]]
 **原題：** Ämärangnä Language (Adytite) 
 **譯題：** 阿瑪浪納語（阿狄泰語）
 **原文：** https://scp-wiki.wikidot.com/old-adytite-language
@@ -304,5 +304,5 @@ Soone Ültü
 [[include :scp-zh-tr:component:license-box
 |lang=EN
 |author=Makuta Makaveli
-|translator=Edward_Knave、Nyunyunyun]]
+|translator=Edward_Knave]]
 [[include :scp-zh-tr:component:license-box-end]]
