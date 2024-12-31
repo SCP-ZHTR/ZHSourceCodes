@@ -1,0 +1,2782 @@
+[[module CSS]]
+@import url('https://scp-wiki.wdfiles.com/local--files/nsl213-pilesaran-and-soonesaran/PilesaranStylesheet.css');
+[[/module]]
+
+[[include credit:start]]
+**原著：** [[*user IronShears]]、[[*user Guaire]]
+**譯者：** [[*user edward-knave]]
+**原題：** Nälkän Scripts and Languages 213: Pilesaran and Soonesaran
+**譯題：** 納餓卡語文課程213：彼列薩蘭文與孫訥薩蘭文
+**原文：** https://scp-wiki.wikidot.com/nsl213-pilesaran-and-soonesaran
+[[include credit:end]]
+
+[[module CSS]]
+
+.verticalrotate{
+margin-top: 30%;T
+padding:0px;
+  -webkit-transform: rotate(90deg);
+          transform: rotate(90deg);
+border: 1px solid transparent;
+text-align:left;
+}
+
+.collapsible-block{
+text-align: center;
+}
+
+.collapsible-block-content{
+text-align: left;
+}
+
+h1,h2,h3,h4,h5{
+text-align: center;
+}
+
+.wrapper{
+margin:0%;
+padding:0.5%;
+  display: flex;
+flex-wrap: wrap;
+justify-content: center;
+border-radius: 10px;
+border: 2px solid black;
+text-align:center;
+}
+
+.letter{
+margin: 0.5% auto;
+width: 18.6%;
+height: 100px;
+padding:0px
+padding-bottom: 30px;
+border: 1px solid black;
+border-radius: 10px;
+display: block;
+}
+.letter>h2, .lettertall>h2{
+font-size: 3cqw;
+}
+
+.letter>h3, .lettertall>h3{
+font-size: 2.3cqw;
+}
+
+
+.lettertall{
+margin: 0.5% auto;
+width: 18.6%;
+height: 160px;
+padding:0px
+padding-bottom: 30px;
+border: 1px solid black;
+border-radius: 10px;
+display: block;
+}
+
+
+.letternoted{
+margin: 0.5% auto;
+width: 18.6%;
+height: 130px;
+padding:0px
+padding-bottom: 30px;
+border: 1px solid black;
+border-radius: 10px;
+display: block;
+}
+.letternoted>h2, .letternotedtall>h2, .lettertwonotedtall>h2{
+font-size: 3cqw;
+}
+
+.letternoted>h3, .letternotedtall>h3, .lettertwonotedtall>h3{
+font-size: 2.3cqw;
+}
+
+
+.letternotedtall{
+margin: 0.5% auto;
+width: 18.6%;
+height: 190px;
+padding:0px
+padding-bottom: 30px;
+border: 1px solid black;
+border-radius: 10px;
+display: block;
+}
+
+
+
+.lettertwonotedtall{
+margin: 0.5% auto;
+width: 18.6%;
+height: 220px;
+padding:0px
+padding-bottom: 30px;
+border: 1px solid black;
+border-radius: 10px;
+display: block;
+}
+
+
+
+.letterfull{
+margin: 0.5% auto;
+width: 30%;
+height:210px;
+padding:0px
+padding-bottom: 30px;
+border: 1px solid black;
+border-radius: 10px;
+display: block;
+}
+
+.letterfull>div.pilesaran>div.verticalrotate{
+margin-top: 35%
+}
+
+@media only screen and (max-width: 56.25rem) {
+
+.letterfull>div.pilesaran>div.verticalrotate{
+margin-top: 50%
+}
+
+
+.verticalrotate {
+  margin-top: 50%;
+}
+
+.letter{
+width: 23%;
+height: 70px;
+}
+
+.lettertall{
+width: 31%;
+height: 90px;
+}
+
+.letterfull{
+width: 50%;
+height: 180px;
+}
+
+.letternoted{
+width: 23%;
+height: 70px;
+}
+
+.letternotedtall{
+width: 31%;
+height: 90px;
+}
+
+.lettertwonotedtall{
+width: 31%;
+height: 140px;
+}
+
+}
+[[/module]]
+
+[[div class="pilesaran"]]
+
+.Welcome, To, Θe, Virtual+
+
+[[div class="rotate"]]
+;course, For, Nsl, 159 !₾ & ₲[[footnote]]歡迎來到NSL213「彼列薩蘭文與孫訥薩蘭文」的線上課程！[[/footnote]]
+[[/div]]
+
+[[/div]]
+
+
+[[include component:image-block name=https://scp-wiki.wdfiles.com/local--files/nsl213-pilesaran-and-soonesaran/wormtattoopainting.png
+|caption=一名[[span class="ruby"]]狄洛吉[[span class="rt"]]Divoši[[/span]][[/span]]女性的畫像（1806年繪）。其背上紋有一句彼列薩蘭文寫成的阿瑪浪納語，意指「我是相信大術士伊仰將會揚升的人」。
+|align=center
+|width=100%]]
+
+[[div class="blockquote"]]
+++ 課綱
+
+話在前頭，我是你們的教授——高級研究員[[span class="ruby"]]埃維卡．科恩[[span class="rt"]]Evika Cohen[[/span]][[/span]]博士，兼[[span class="ruby"]]戰術語言及文字學部[[span class="rt"]]Department of Tactical Linguistics and Graphemics[[/span]][[/span]]部長。你們任何時候都可以透過電郵和我聯絡，但我只會在星期一至五，協調世界時14到22點的時段回信。你們想親身和我面談的話，就先寄電郵通知我。不要過來我在Site-83的辦公室找我，我__任何時候都不會__在辦公室裡的。我管不著這對你們個人來說有多不方便。
+
+這段為期三週的課程並不是為了改善你們在被派駐的社群所用語言的說話技巧。那些被派駐到仍然用到阿狄泰語衍生語言的社群的人員，應該在派遣之前就已經完成了相應的語文課程。如果你被派到那一類的社群，而還沒修完語文課程，就請向你的指揮官轉達。
+
+至於派駐的社群所用的語言已經包括自己母語的人員，就不需要再先修其他課程。這門課程最初是用__英文__授課的，但是也同時覆蓋了在英文沒有的、或者已經納入彼列薩蘭文的拉丁字母音譯。如果你被派到了使用西里爾字母為主的地區，也請一樣向長官傳達。因為你走錯課室了。
+
+這門課程集中教授一種叫做[[span class="ruby"]]彼列薩蘭[[span class="rt"]]Pilesaran[[/span]][[/span]]文的字母系統的讀寫，它是在[[span class="ruby"]]納餓卡[[span class="rt"]]Nälkä[[/span]][[/span]]或者一部分的新欲肉教社群裡常見的字母，這些社群大多在歐洲、亞洲西北部、西伯利亞西部，也有一些移居社群在美洲、大洋洲、非洲。
+
+在現代，彼列薩蘭文，還有[[span class="ruby"]]孫訥薩蘭[[span class="rt"]]Soonesaran[[/span]][[/span]]文，都是以筆墨書寫為主。但是，利用[[span class="ruby"]]皮膚幼蟲移行[[span class="rt"]]cutaneous larva migrans[[/span]][[/span]]的刺青依然極為常見，而為了創造這種CLM刺青，所需要駕馭塑肉術的技巧在學習這種文字的過程也被視為重要的一部分。也因為這樣，彼列薩蘭文和孫訥薩蘭文對大部分的學生來說，都是透過把濕毛線捏成所需文字的方式教授的。這種方法也叫做「[[span class="ruby"]]擰貼[[span class="rt"]]"twine-and-paste"[[/span]][[/span]]學習法」。我們現在不會用這種方法，但是在業餘時間可以自由練習。
+
+孫訥薩蘭文，則是一個在世界各地大部分的現代納餓卡社群熟知的文字系統，在這門課程則主要論及它在彼列薩蘭文的應用。然而，有很重要的一點就是在現場應該避免使用孫訥薩蘭文。那種直接指明__必須用到__孫訥薩蘭文的任務應該指派給一個在孫訥薩蘭文在母語水平的特工。我會在課程之後的部分詳細說明這項規則__確切的__存在原因。在這一刻，如果你的任務需要認識孫訥薩蘭文，而你現在又讀不懂的，還要是為了彌補而被派到來這門課的話，__不要__跟你的長官傳達。跟__我__說，同時帶上你長官的名字，好讓我__親自__褫奪他們的職務。
+
+至於為了改進閱讀理解而設、要透過線上途徑提交的同行討論作業，則可以用以下的工具來生成數位文字。
+
+[[collapsible show="►開啟工具" hide="▼關閉工具"]]
+
+這工具可以幫你生成代碼，以在你自己的頁面使用這種字體。要讓它運作的話，先把這段複製貼上到你頁面的開頭：
+[[code]]
+[[module CSS]]
+@import url('https://scp-wiki.wdfiles.com/local--files/nsl213-pilesaran-and-soonesaran/PilesaranStylesheet.css');
+[[/module]]
+[[/code]]
+
+接下來，這工具就可以幫你處理到**絕大部分**的格式。只需要把輸出結果段複製貼上到你的頁面（假設你已經複製好了那個CSS模組的話），那就應該可以了！只是有一些事情需要注意：
+
+# 在使用這工具之前，請先確保輸入的文本是使用拉丁字母的（例如英文），而且拼字和文法都沒有錯誤！在下文的對應表裡會在中文下方以較小的斜體字表示對應的英文字母及詞語。所有的句子末尾都需要加半形標點。
+# 大部分的字都會儘可能（例如：教派名稱、人物名稱，還有那些「[[span class="ruby"]]eternal love[[span class="rt"]]永恆之愛[[/span]][[/span]]」這樣的可愛複合字，諸如此類的）自動轉換成為孫訥薩蘭文。像是[[span class="ruby"]]Ion/Iun[[span class="rt"]]伊仰[[/span]][[/span]]那些比較短的字，則需要前後各加一個空格，或者前面一個空格加後面一個句點，以免擾亂到其他的字。
+# 只有英文的字位（例如：ch、sh、th、ph、wh）才會轉換。如果是要寫芬蘭文，裡面有用到「Å」的話，就改用它以前的雙字母形態「Aa」；如果是要寫德文，而裡面有用到「ß」，就改用「Ss」，像在瑞士的拼法那樣。請嘗試避免只用英文拼法，試一下用比較古代的拼法式是在相鄰的語言的拼法。
+# 如果只是想表達一個不特指某一人的稱號，請在它後面加上「person」。例如「[[span class="ruby"]]Karcist[[span class="rt"]]術士[[/span]][[/span]]」就會是「Karcist Person」。
+# 將各字之間的連接詞另外列表排好！你不需要複製貼上那些符號，它們也是會經過自動轉換的，但是你仍然會需要將它放到表上各自的字之間。我沒辦法幫你完成這一步。「[[span class="ruby"]]Or[[span class="rt"]]或[[/span]][[/span]]」、「[[span class="ruby"]]and[[span class="rt"]]與[[/span]][[/span]]」、「[[span class="ruby"]]nor[[span class="rt"]]非或[[/span]][[/span]]」全部都會自動轉換，但是「非與」則可以寫成「not and」或者簡寫成「nand」。
+# 如果輸入文字裡有數字，而又不想手動轉換成十二進制的話，可以先用像[https://www.mathsisfun.com/numbers/convert-base.php 這樣子]的轉換器，轉換好了再放進文字轉換欄。記得要把它設成十二進制。轉換好了，把「A」和「B」換成「(」和「)」就好。 
+
+如果你想要給一個人物名或是教派名另安一個還沒在表上的字符，可以在討論區留言。
+
+[[html]]
+<style>
+
+@import url("https://cdn.scpwiki.com/theme/en/sigma/css/sigma.min.css");
+
+textarea{
+width:90%;
+margin:5%;
+height:150px;
+}
+
+button{
+width:24%;
+margin:1% 38%;
+}
+
+h1{
+text-align:center;
+}
+
+</style>
+<script>
+function buttonClick() {
+
+var text = document.getElementById('input').value;
+const checkboxNeo = document.getElementById("neosarkic");
+const checkboxPoet = document.getElementById("poeticWords");
+
+var isSpace = true
+while (isSpace == true){
+if(text.charAt(text.length - 1) == " "){
+var text = text.slice(0,text.length - 1);
+}else{
+var isSpace = false
+}
+}
+
+var text = text.toLowerCase();
+var text = text.replaceAll("?\n\n\n","?");
+var text = text.replaceAll("?\n\n","?");
+var text = text.replaceAll("?\n","?");
+var text = text.replaceAll("?\n\n\n","!");
+var text = text.replaceAll("!\n\n","!");
+var text = text.replaceAll("!\n","!");
+var text = text.replaceAll(".\n\n\n",". ");
+var text = text.replaceAll(".\n\n",". ");
+var text = text.replaceAll(".\n",". ");
+var text = text.replaceAll("\n\n\n",". ");
+var text = text.replaceAll("\n\n",". ");
+var text = text.replaceAll("\n",". ");
+var text = text.replaceAll(",","");
+var text = text.replaceAll(";",".");
+var text = text.replaceAll(":",".");
+var text = text.replaceAll("-","");
+var text = text.replaceAll("+","");
+var text = text.replaceAll("'","");
+var text = text.replaceAll(' "'," '");
+var text = text.replaceAll('."','".');
+var text = text.replaceAll('!"','"!');
+var text = text.replaceAll('?"','"?');
+var text = text.replaceAll("*","");
+var text = text.replaceAll("[","");
+var text = text.replaceAll("]","");
+var text = text.replaceAll("{","");
+var text = text.replaceAll("}","");
+
+if (checkboxNeo.checked != true) {
+var text = text.replaceAll("soonesaran","₲");
+var text = text.replaceAll("pilesaran","₾");
+var text = text.replaceAll(" and "," & ");
+var text = text.replaceAll(" or "," ∧ ");
+var text = text.replaceAll(" nor "," ∇ ");
+var text = text.replaceAll(" nand "," ∆ ");
+var text = text.replaceAll(" not and ","∆");
+var text = text.replaceAll(" ion"," ¥");
+var text = text.replaceAll(" iun"," ¥");
+var text = text.replaceAll("nadox","$");
+var text = text.replaceAll("lovataar","¢");
+var text = text.replaceAll("orok","€");
+var text = text.replaceAll("saarn","₹");
+var text = text.replaceAll("yaldabaoth","₺");
+var text = text.replaceAll("važjuma","₺");
+var text = text.replaceAll("nälkä","฿");
+var text = text.replaceAll("nälkän","฿");
+var text = text.replaceAll("daeva","₩");
+var text = text.replaceAll("daevite","₩");
+var text = text.replaceAll("mekhanite","₵");
+var text = text.replaceAll("church of the broken god","₵");
+var text = text.replaceAll("valksaran","₡");
+var text = text.replaceAll("archon","₲");
+var text = text.replaceAll("ozi̮rmok ","₦");
+var text = text.replaceAll("grand karcist ","₦");
+var text = text.replaceAll("klavigar ","₱");
+var text = text.replaceAll("karcist ","₴");
+var text = text.replaceAll("võlutaar ","₽");
+var text = text.replaceAll("vaśńa","₷₪฿");
+var text = text.replaceAll("divoši","৳฿");
+var text = text.replaceAll("order of the wyrm","₹฿");
+var text = text.replaceAll("sineaters church","৳฿");
+var text = text.replaceAll("sin eaters church","৳฿");
+var text = text.replaceAll("ur-nälkä","₮฿");
+var text = text.replaceAll("adytum","₮");
+var text = text.replaceAll("neo-sarkic","¤฿");
+var text = text.replaceAll("vātula","₶฿");
+var text = text.replaceAll("church of the red harvest","૱฿");
+var text = text.replaceAll("solomanari","₳฿");
+var text = text.replaceAll("church of the eternal mother","₢฿");
+var text = text.replaceAll("pannonian avars","₰฿");
+var text = text.replaceAll("ɨal","₻฿");
+var text = text.replaceAll("adytite republic of polynesia","₯฿");
+var text = text.replaceAll("ancestrecall","₠฿");
+var text = text.replaceAll("kuobach","¦");
+var text = text.replaceAll("halyna ieva","©");
+var text = text.replaceAll("jáska","®");
+var text = text.replaceAll("person","¶");
+
+if (checkboxPoet.checked) {
+var text = text.replaceAll("jautapi","£$");
+var text = text.replaceAll("Greek Fire","£₪");
+var text = text.replaceAll("emptiness","0₰");
+var text = text.replaceAll("apathy","0₰");
+var text = text.replaceAll("heresy","¤₡");
+var text = text.replaceAll("clay person","₳¶");
+var text = text.replaceAll("savant","₳¶");
+var text = text.replaceAll("aurora borealis","₷₪");
+var text = text.replaceAll("northern lights","₷₪");
+var text = text.replaceAll("eternal love","₦¢");
+var text = text.replaceAll("true love","₦¢");
+var text = text.replaceAll("gluttony","¤₡");
+var text = text.replaceAll("lightbulb","¤૱");
+var text = text.replaceAll("ascension","₶₺");
+var text = text.replaceAll("merchant seaman","₯₠");
+var text = text.replaceAll("merchant sailor","₯₠");
+var text = text.replaceAll("birth parent","₺¶");
+var text = text.replaceAll("cruel person","ƒ¶");
+var text = text.replaceAll("menstruation","₢૱");
+var text = text.replaceAll("undertaker","₶¶");
+var text = text.replaceAll("tailor","৳¶");
+}
+
+}
+
+var text = text.replaceAll("th","θ");
+var text = text.replaceAll("ph","f");
+var text = text.replaceAll("wh","w");
+var text = text.replaceAll("sh","shs");
+var text = text.replaceAll("ch","chs");
+var text = text.replaceAll("ng","ŋ");
+var text = text.replaceAll("ck","k");
+var text = text.replaceAll("bb","b");
+var text = text.replaceAll("dd","d");
+var text = text.replaceAll("dge","dž");
+var text = text.replaceAll("gg","g");
+var text = text.replaceAll("mm","m");
+var text = text.replaceAll("qu","q");
+var text = text.replaceAll("rr","r");
+var text = text.replaceAll("wr","r");
+var soonesaran = ["!", ".", "?", "₲","₾","&","∧","∇","∆", "¥", "$", "¢", "€", "₹", "₺", "฿", "₩", "₵", "₡", "₲", "₦", "₱", "₴", "₽", "₷", "₪", "৳", "₸", "₮", "¤", "₶", "૱", "₳", "₢", "₰", "₻", "₯", "₠", "0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "¦", "§", "©", "£", "®", "¶"];
+var tempString = text;
+
+var currentNum = 0;
+var currentPunctuation= "";
+var firstPunctuation = "";
+var punctPos;
+
+
+while(currentNum < text.length){
+if(text.charAt(currentNum) == '.' || text.charAt(currentNum) == '!' || text.charAt(currentNum) == '?'){
+if(firstPunctuation == ""){
+var firstPunctuation  = text.charAt(currentNum);
+var tempString = text.slice(0,currentNum) + text.slice(currentNum+1);
+var punctPos = currentNum -1
+}else{
+var currentPunctuation = " " + text.charAt(currentNum);
+var tempString = text.slice(0,currentNum) + text.slice(currentNum+1);
+var tempString = tempString.slice(0,punctPos+1) + currentPunctuation + tempString.slice(punctPos+2);
+var punctPos = currentNum
+}
+var text = tempString
+}
+var currentNum = currentNum +1
+}
+
+var currentNum = 26;
+var currentStart= '+\n\n~\n';
+var currentEnd= ';';
+
+while(currentNum < text.length){
+if(text.charAt(currentNum) == ' '){
+
+
+var soonesaranStart = ""
+var soonesaranEnd = ""
+for (let i = 0; i < soonesaran.length; i++) { 
+var currentChar = text.charAt(currentNum-1);
+if(soonesaran[i] == currentChar){
+var soonesaranStart = " *";
+var soonesaranEnd = ", ";
+}
+}
+
+if (text.charAt(currentNum-1) == '.' || text.charAt(currentNum-1) == '!' || text.charAt(currentNum-1) == '?'){
+var tempString = text.slice(0,currentNum-2) + soonesaranStart + currentStart + text.slice(currentNum-1);
+currentNum = currentNum + 26 + currentStart.length+ currentEnd.length;
+}else{
+var tempString = text.slice(0,currentNum) + soonesaranStart + currentStart + currentEnd + soonesaranEnd + text.slice(currentNum+1);
+currentNum = currentNum + 26 + currentStart.length+ currentEnd.length;
+}
+var text = tempString
+if(currentEnd == ';'){
+var currentStart= '-\n[[/div]]\n\n';
+var currentEnd= ':';
+}else{
+var currentStart ='+\n\n~\n';
+var currentEnd= ';';
+}
+} else {
+var currentNum = currentNum - 1;
+}
+} 
+
+
+var currentNum = text.length;
+var currentChar = "none"
+var isSoonesaran = false;
+
+
+while (currentNum != 0) {
+if(text.charAt(currentNum) == ' '){
+if(currentNum > 1){
+for (let i = 0; i < soonesaran.length; i++) { 
+var currentChar = text.charAt(currentNum-1);
+if(soonesaran[i] == currentChar){
+var isSoonesaran = true;
+}
+}
+}
+if (isSoonesaran == false){
+var tempString = text.slice(0,currentNum)+','+text.slice(currentNum,currentNum+1) +
+text.charAt(currentNum+1).toUpperCase() + text.slice(currentNum+2);
+var text = tempString;
+}else{
+var tempString = text.slice(0,currentNum)+text.slice(currentNum,currentNum+1) +
+text.charAt(currentNum+1).toUpperCase() + text.slice(currentNum+2);
+var text = tempString;
+isSoonesaran = false
+}
+}else if(text.charAt(currentNum) == '.' || text.charAt(currentNum) == '!' || text.charAt(currentNum) == '?'){
+
+var tempString = text.slice(0,currentNum+1) +
+text.charAt(currentNum+1).toUpperCase() + text.slice(currentNum+2);
+var text = tempString;
+}
+
+var currentNum = currentNum-1
+}
+
+var tempString = firstPunctuation + text.slice(0,1).toUpperCase() + text.slice(1);
+
+var text = tempString;
+
+if(currentEnd == ':'){
+var text = text + ',\n[[/div]]';
+}else{
+var isSoonesaran = false
+for (let i = 0; i < soonesaran.length; i++) {
+var finalChar = text.charAt(text.length - 1);
+if(soonesaran[i] == finalChar){
+var isSoonesaran = true;
+}
+}
+if (isSoonesaran == false){
+var text = text + ',';
+}
+
+}
+
+var text = text.replaceAll(';.', '.');
+var text = text.replaceAll(':.', '.');
+var text = text.replaceAll(';!', '!');
+var text = text.replaceAll(':!', '!');
+var text = text.replaceAll(';?', '?');
+var text = text.replaceAll(':?', '?');
+
+
+var text = text.replaceAll('~', '[[div class="rotate"]]');
+var text = text.replaceAll('."', ".'");
+var text = text.replaceAll('!"', "!'");
+var text = text.replaceAll('?"', "?'");
+var text = text.replaceAll("dʲ","}");
+var text = text.replaceAll("Dʲ","{");
+
+var text = '[[div class="pilesaran"]]\n\n' + text + '\n\n[[/div]]'
+
+document.getElementById('output').value= text
+}
+</script>
+
+<h1> 文字轉換器</h1>
+<textarea id="input" name="input">
+請輸入文本</textarea>
+<input type="checkbox" id="neosarkic" name="neosarkic" value="true">
+<label for="vehicle1"> 新欲肉教（不包括孫訥薩蘭文）</label><br>
+<input type="checkbox" id="poeticWords" name="poeticWords" value="true">
+<label for="vehicle1"> 複合諺字（如「燈泡（Lightbulb）」或「永恆之愛（Eternal Love）」等詞的孫訥薩蘭字）</label><br>
+<button type="button" onclick="buttonClick()">轉換文本</button>
+<textarea id="output" name="output">
+輸出</textarea>
+[[/html]]
+[[/collapsible]]
+
+前言都作完了，現在就來真的__學__些東西吧。
+[[/div]]
+
+++ 歷史與背景
+
+因為史料缺乏的緣故，關於這兩種書寫系統起源，可以確認的事實甚少。然而，目前公認孫訥薩蘭文遠比相對新近的彼列薩蘭文有更悠久的歷史。
+
+[[include component:image-block name=https://scp-wiki.wdfiles.com/local--files/nsl213-pilesaran-and-soonesaran/Hookworm_filariform_A.jpg
+|caption=圖紋彎口線蟲（//Uncinaria graphia//）幼體]]
+
+這種文字的形態來自圖紋彎口線蟲（//Uncinaria graphia//），是線蟲動物門的一種寄生蟲，用於起初藉由皮膚幼蟲移行病（簡稱CLM）編寫而成的文字。有一些更加古老或是與外界隔絕的社群成員會將那些標記稱為「niŋəžamže」，在阿狄泰語直譯為「（皮下寄生）蠕蟲皮」，但在整體而言，這詞語在當地單純用作代指「刺青」一詞。為方便分辨，我們會將這種書寫方式稱為CLM刺青。
+
+這個物種來自於一個與狹頭彎口線蟲（ //Uncinaria stenocephala//）[[footnote]]又名「狹頭鉤蟲」。[[/footnote]]在__非常__近期才有分支的共通祖先，卻是經由早期的納餓卡社群進行選擇性的配種以及基因改造而形成一個全新的物種。圖紋彎口線蟲喪失了移動能力、也無法自行對刺激作出反應，身體的周長亦相對增大了，使得皮下的圖案更為顯眼。這種蠕蟲不會像牠們的祖先一樣透過皮膚接觸造成感染，那些幼蟲是被人用一枝利器逼進皮膚底下的，之後就在皮下透過外部按壓或是塑肉術而向內推並伸展成所需的筆劃[[footnote]]「擰貼學習法」則旨在模仿這種體驗而設。[[/footnote]]。那些蟲之後就會與寄主的循環系統連接。在CLM刺青新形成的頭幾週，附近部位會有輕微不適，但隨著傷口癒合就會漸漸消失。那些蟲可以在寄主體內永久存活，而幾近不帶負面的副作用。
+
+[[include :scp-wiki:component:image-block name=https://scp-wiki.wdfiles.com/local--files/nsl213-pilesaran-and-soonesaran/shoulderworms.png
+|align=left
+|caption=屬於PoI-83721（「輔路她 莎阿恩」／Võlutaar Saarn[[footnote]]在部分的納餓卡社群，襲用宗教名人的名稱是常見的命名做法。PoI-83721自身與首徒莎阿恩（Klavigar Saarn）本人無關。[[/footnote]]）的孫訥薩蘭文刺青。其意為「我是相信暴食／異端等同於死亡的人」。]]
+
+納餓卡的口述傳統主張孫訥薩蘭文是在殆瓦帝國治下由異見人士研發的，用以與志同道合者溝通，同時避免偵查。這種文字易於被負責平亂的人誤認為極其常見而肆虐帝國低下階層的寄生蟲感染，因此在大部分情況會被無視。透過帶有這種標記的動物活體、人類「信使」以及經過屠宰的肉塊，可以秘密傳遞訊息。
+
+[[include :scp-wiki:component:image-block name=https://scp-wiki.wdfiles.com/local--files/nsl213-pilesaran-and-soonesaran/adytitestele.png
+|caption=一尊阿狄泰石碑，其上鐫刻「伊仰的揚升」。
+|width=100px]]
+
+雖然現時期沒有特定的文本實例存世，惟現時推定那些訊息在內容與形態上相對簡單，而在現時孫訥薩蘭文獻佔大宗且更為複雜的筆劃則是在不死帝國的時期出現的。這項見解亦因為阿狄泰碑銘而得以佐證，碑銘也是來自不死帝國少數以不會腐爛的材質書寫的實例之一。
+
+根據納餓卡傳承，孫訥薩蘭文在現代意義上的發明者是[[span class="ruby"]]首徒納多克斯[[span class="rt"]]Klavigar Nadox[[/span]][[/span]]，他創造了數以千計的字，以代表實物以及超自然的概念，主要旨在利用統一的文學傳承，團結帝國以內數千民族。而當時文本為宣教帶來的便利亦令這套文字成為其新興宗教備受歡迎的選擇。
+
+經過數千年後，到了十一世紀，一個在旅居術士當中流行的運動開始適應了納餓卡社群所用語言自從不死帝國陷落以來經歷的變化。他們在當地所用的書寫系統取得了靈感，諸如西里爾字母、拉丁字母、弗薩克字母。鑒於CLM刺青媒材的局限，彼列薩蘭文則是以一筆連續寫成，以將刺青所需用到的蟲減到最少，同時便於閱讀。
+
+這些文字起初研發時所用的語言開始完全失傳，並被當地主流的語言代替。這些文字並沒有隨著相應的語言而衰落，而是被當地的社群改造成用以書寫新語言的形態。納餓卡社群認為這些文字得以存續有賴於多種因素，最廣為提及的原因是這些文字帶來的隱密性、宗教書法藝術經過代代相傳而得以保存，以及抗拒外來同化的文化意識。 
+
+直到現代，彼列薩蘭文依然為其傳及地區之內，大部分的納餓卡社群以及部分的新欲肉教社群所用，即使在那些社群之中，孫訥薩蘭文在納餓卡的社會，也依然留為書寫稱號、姓名，以及文法構成的重要一部分。
+
+++ 彼列薩蘭文
+
+[[span class="ruby"]]彼列薩蘭[[span class="rt"]]Pilesaran[[/span]][[/span]]，直譯就是「長文」，在實務上方便記憶。它__正是__為方便上手而設的，在這目標也相對成功。學習彼列薩蘭文並不是這習題最難的部分，我可以保證。
+
+這些字是由一條大蟲加上幾條比較小的蟲組成重音符號而構成。它們由線蟲的後方尖端開始，以鈍口的前端為結尾。因為那些蟲是由頭部開始插入皮下，遠離上一個筆劃，以保證字與字之間的空位平均。這一點對代表重音符號的蟲則不適用，牠們朝著哪個方向都不重要。 
+
+++++ 標點 
+
+彼列薩蘭文從任何方向都可以閱讀。除了線蟲的尖端之外，彼列薩蘭文還有五種錨點，以進一步釐清閱讀方向，同時當作標點符號使用。這些錨點當中有三種稱為「標點錨」，與英文的句末標點直接對應。
+
+
+[[div class="wrapper"]]
+
+[[div class="letter"]]
+++ .
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[div class="letter"]]
+++ !
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+!
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[div class="letter"]]
+++ ?
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+?
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[/div]]
+
+對應到句點（.）的標點錨至少在孫訥薩蘭文在不死帝國治下傳播的時候就已經存在，但另外兩種標點則是後來加上的。所有的字母都是依照它們相對於那些錨點的關係而閱讀的。與英文不一樣，那些錨點都是寫在句子開頭的，就像以下的例子。
+
+[[div class="pilesaran"]]
+!Hello,[[footnote]]你好！（英文：Hello!）[[/footnote]]
+[[/div]]
+
+[[image https://i.imgur.com/Qfy2cK6.png]]
+
+因應課程的安排，這裡所有的文字都是橫著讀的。另外兩個錨點在英文沒有對應。那些叫做「行錨點」。
+
+[[div class="wrapper"]]
+
+[[div class="letter"]]
+++ 行末
+++ //^^[[size 50%]]-[[/size]]^^//
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+-
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[div class="letter"]]
+++ 行首
+++ //^^[[size 50%]]:[[/size]]^^//
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+:
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[/div]]
+
+行錨點出現在通篇每一行的開始與結尾，以分別顯示哪一行是下一行，還有它應該用哪個方向閱讀。如果行末指向下，就即是要讀者去從它正下方的那一行繼續閱讀。如果它指向上或是其他方向，指著的__那一行__就是接著要讀的下一行。因應課程安排，這裡每一行都是從上而下的。 
+
+[[div class="pilesaran"]]
+
+.I, Am, Doctor+
+
+[[div class="rotate"]]
+;cohen,
+[[/div]]
+
+[[/div]]
+
+有一點很重要的，就是被指向繼續閱讀的那行上的行錨點會被視為新的標點錨。這也意味著，所讀的文字方向在下一行會被//翻轉//。另一個不錯的思路就是將那些字當成一條摺起來的繩來看。
+
+[[image https://i.imgur.com/wEWnSr5.png]]
+
+作為最後一項演示，上文寫成__拉丁__字母就像這樣： 
+
+[[div class="demostration"]]
+
+→I am Doctor↓
+
+[[div class="rotate"]]
+→Cohen[[footnote]]我是科恩博士[[/footnote]]
+[[/div]]
+
+[[/div]]
+
+記著上面的例子並不是這一句最正確的寫法，人名與稱號都是要用__孫訥薩蘭文__寫的。這一點我們之後再說。
+
+如果句子的結尾同時落在一行的結尾，相應的標點錨就可以代替這一行的行首錨點。 
+
+[[div class="pilesaran"]]
+
+.Hello+
+
+[[div class="rotate"]]
+!It, Is, Nice, To, Meet, You,[[footnote]]你好。幸會！（英文：Hello. It is nice to meet you!）[[/footnote]]
+[[/div]]
+
+[[/div]]
+
+一行裡的標點錨除了放在句子開頭之外，作用上就與在英文的句末標點沒有分別了。 
+
+[[div class="pilesaran"]]
+.Sentence+
+[[div class="rotate"]]
+;one, .Sentence, Two,[[footnote]]句子一。句子二。（英文：Sentence one. Sentence two.）[[/footnote]]
+[[/div]]
+[[/div]] 
+
+彼列薩蘭文並沒有讀號，連接詞則是放在列表上每一品項之間。彼列薩蘭文也沒有撇號，在英文縮略的字，例如「can't」或是「don't」都要寫回去「cannot」跟「do not」的樣子。不過，英語圈內閱讀彼列薩蘭文的讀者都依然會在說話時略過不必要的連接詞跟縮寫詞。際了那些錨點之外，彼列薩蘭文還有另外一種標點：引號。 
+
+[[div class="wrapper"]]
+
+[[div class="letter"]]
+++ "
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+."
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[/div]]
+
+這個是相對近期加入的，是在十七世紀，卻傳得很快，今天幾乎所有用彼列薩蘭文的社群都會接受這種用法。那些就跟平常用引號的時候一樣，但是錨點就得放在引號__外面__。
+
+[[div class="pilesaran"]]
+.'like, Θis",[[footnote]]「就像這樣。」（英文："Like this."）[[/footnote]]
+[[/div]]
+
+++++ 字母
+彼列薩蘭文最初創造時有31個字母。這些字母都與[https://scp-zh-tr.wikidot.com/old-adytite-language 古阿狄泰語]所見的字母直接對應。
+
+[[div class="wrapper"]]
+
+[[div class="letter"]]
+++ A
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.A
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[div class="letter"]]
+++ Ä
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.Ä
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[div class="letter"]]
+++ B
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.B
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[div class="letter"]]
+++ C
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.C
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[div class="letter"]]
+++ D
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.D,
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[div class="letter"]]
+++ Dʲ
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.{
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[div class="letter"]]
+++ E
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.E
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[div class="letter"]]
+++ Ə
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.Ə
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[div class="letter"]]
+++ G
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.G
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[div class="letter"]]
+++ I
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.I
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[div class="letter"]]
+++ J
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.J
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[div class="letter"]]
+++ K
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.K
+[[/div]]
+[[/div]]
+[[/div]]
+
+
+[[div class="letter"]]
+++ L
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.L
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[div class="letter"]]
+++ M
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.M
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[div class="letter"]]
+++ N
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.N
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[div class="letter"]]
+++ Ŋ
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.Ŋ
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[div class="letter"]]
+++ O
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.O
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[div class="letter"]]
+++ Õ
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.Õ
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[div class="letter"]]
+++ P
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.P
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[div class="letter"]]
+++ R
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.R
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[div class="letter"]]
+++ S
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.S
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[div class="letter"]]
+++ T
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.T
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[div class="letter"]]
+++ U
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.U
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[div class="letter"]]
+++ Ü
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.Ü
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[div class="letter"]]
+++ V
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.V
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[div class="letter"]]
+++ Ž
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.Ž
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[/div]]
+
+各位有修過[https://scp-zh-tr.wikidot.com/old-adytite-language 阿瑪浪納語]課的話可能會對以下一段覺得熟悉。
+
+[[div class="pilesaran"]]
+
+.Soone, Ültü, .Ültü, Mi, Vjema+
+
+[[div class="rotate"]]
+;ütü, Mi, Bə}ema, .Mi, Sülä-
+[[/div]]
+
+:ŋemu, Kuŋ, Uree, Mi, Tüle, Gemu+
+
+[[div class="rotate"]]
+;kug, Uree, .Ŋämän, Cuca, Gemen-
+[[/div]]
+
+:susa, .Mäcä, Siŋa, Mese, Tiga+
+
+[[div class="rotate"]]
+.Num, Murun, Num, Murun, .Ŋum-
+[[/div]]
+
+:salu, Gum, Talu, .Ŋum, Suem+
+
+[[div class="rotate"]]
+;gum, Təbem, .Üe, Küce, Üe, Küse-
+[[/div]]
+
+.Suem, Küce, Təbem, Küse+
+
+[[div class="rotate"]]
+.Käjä, Ŋuŋa, Ke}e, Guga, .Raŋa-
+[[/div]]
+
+:uree, Daga, Uree, .Lujuma, Me+
+
+[[div class="rotate"]]
+;lu}uma, Me, .Mimin, Ün, Näm-
+[[/div]]
+
+:mimin, Ün, Nem, .Ŋul, Ŋul+
+
+[[div class="rotate"]]
+;säsäjä, Gubu, Gubu, Sese}e, Mi-
+[[/div]]
+
+:suunam, Mi, Suunam,
+
+[[/div]]
+
+隨後，在不同時期都有更多的字母加入。
+
+[[div class="wrapper"]]
+
+[[div class="letter"]]
+++ F
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.F
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[div class="letter"]]
+++ H
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.H
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[div class="letter"]]
+++ Ö
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.Ö
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[div class="letter"]]
+++ Q
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.Q
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[div class="letter"]]
+++ R[[footnote]]這個字母用於在擁有兩個不同的「R」音素的語言在讀音寫作彼列薩蘭文。例如，使用西班牙語的納餓卡人會用[[span class="pilesaranText"]].R[[/span]]表示顫音[r]，以對應到字首的「Rr」和「R」，卻會使用[[span class="pilesaranText"]].Р[[/span]]表示字中段或字尾的"R"相應的[ɾ]音。[[/footnote]]
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.Р
+[[/div]]
+[[/div]]
+[[/div]]
+
+
+
+[[div class="letter"]]
+++ Θ/Þ
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.Θ
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[div class="letter"]]
+++ W
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.W
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[div class="letter"]]
+++ X
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.X
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[div class="letter"]]
+++ Y
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.Y
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[div class="letter"]]
+++ Z
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.Z
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[/div]]
+
+這些字團大多都與借來的對應字母相似，也跟其他字母明顯不同，除了形狀分別借自「[[span class="pilesaranText"]].Õ[[/span]]」和「[[span class="pilesaranText"]].R[[/span]]」「[[span class="pilesaranText"]].Ö[[/span]]」和「[[span class="pilesaranText"]].Р[[/span]]」字符之外。
+
+因為彼列薩蘭文在歷史上適應各種原本不在其設計原意的不同語言，它用在英文的時候也大體採用了與拉丁字母相當近似的拼字法。不過，也有一些在英文由多個字母組成的字位則是以讀音寫出的：那些稱為[[span class="ruby"]]常字位[[span class="rt"]]constant grapheme[[/span]][[/span]]。
+
+[[div class="wrapper"]]
+
+[[div class="lettertall"]]
+++ Bb
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.B
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[div class="lettertall"]]
+++ Ck
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.K
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[div class="lettertall"]]
+++ Ch
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.Chs
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[div class="lettertall"]]
+++ Dd
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.D
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[div class="lettertall"]]
+++ Dge
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.Dž
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[div class="lettertall"]]
+++ Gg
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.G
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[div class="lettertall"]]
+++ Mm
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.M
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[div class="lettertall"]]
+++ Ng
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.Ŋ
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[div class="lettertall"]]
+++ Ph
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.F
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[div class="lettertall"]]
+++ Qu
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.Q
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[div class="lettertall"]]
+++ Rr
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.R
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[div class="lettertall"]]
+++ Sh
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.Shs
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[div class="lettertall"]]
+++ Th
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.Θ
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[div class="lettertall"]]
+++ Wh
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.W
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[div class="lettertall"]]
+++ Wr
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.R
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[/div]]
+
+所以，「[[span class="ruby"]]I wrote about chewing bubblegum on the bridge[[span class="rt"]]我寫下在橋上嚼口香糖的事[[/span]][[/span]]」這句就會寫成這樣：
+
+[[div class="pilesaran"]]
+
+.I, Rote, About, Chsewiŋ+
+
+[[div class="rotate"]]
+;bublegum, On, Θe-
+[[/div]]
+
+:bridž,
+
+[[/div]]
+
+直接轉回去拉丁字母，看來就會是這樣：
+
+[[div class="demostration"]]
+
+→I rote about chsewiŋ↓
+
+[[div class="rotate"]]
+→bublegum on θe↑
+[[/div]]
+
+→bridž,
+
+[[/div]]
+
+至於英文以外，寫成彼列薩蘭文要用拼字法還是要用讀音，多數視乎當地社群在哪段時期採用這語言、還有這文字是在哪段時期引入那個語言。至於哪個音具體要用哪個字符則各有差異。
+
+但是，在使用拼字法寫彼列薩蘭文的社群裡，使用不在彼列薩蘭文的字母時，採用的字位音譯比較多時候都會跟其他闕失同一字母的文字系統使用音譯的時候一樣。記著，大部分能讀彼列薩蘭文的人也__同樣__能讀週邊地區所用的文字。除了一些離群的例外，那些拼字也傾向脗合。
+
+如果捷克語的「Č」在週邊地區的語言字母用「Cz」作為音譯，那麼狄洛吉人也會相應地用「[[span class="pilesaranText"]].Cz[[/span]]」來去拼寫。
+
+++ 孫訥薩蘭文
+
+[[span class="ruby"]]孫訥薩蘭[[span class="rt"]]Soonesaran[[/span]][[/span]]，直譯就是「筋文」，和彼列薩蘭文相比難學得多。不過，你們已經學了孫訥薩蘭文會用到的五種符號，就是那些標點錙。那些符號在彼列薩蘭文出現之前就早已存在了。
+
+雖說如此，你們並不會單獨地用孫訥薩蘭文。而是會學到它在彼列薩蘭文裡面的用法。孫訥薩蘭文和彼列薩蘭文之間的關係可以類比到日文的漢字和假名，但並不是完全一樣的。孫訥薩蘭文是用來寫專有名詞和人名、稱號、一些對等連接詞，還有在罕見的情形用作詩意的修辭。值得注意的是，大部分新欲肉教的派別即使在那些用途之下，也完全不會用到孫訥薩蘭文。
+
+至於對那些會用到孫訥薩蘭文的納餓卡教群或是少數的新欲肉教群，把用來指稱概念的專有名詞直接拼出來會令人感到__違和__。那並不至於無法辨識，他們還是會明白的，但是當你是作為社群一分子去表達的時候，這樣做就是表明你是__外人__的跡象。犯下這種錯誤很多時是會招來殺身之禍的。你們並不用非要完全讀懂孫訥薩蘭文不可，大部分在使用彼列薩蘭文的社群長大的人都不會懂每一個孫訥薩蘭字，但是你們應該知道何時需要用到孫訥薩蘭文，還有如何寫出重要的字符。
+
+一開頭，我們會先學其中兩個字，作為字形結構的示例。
+
+[[div class="wrapper"]]
+
+[[div class="letternoted"]]
+++ 彼列薩蘭文
+++ //^^[[size 50%]]Pilesaran[[/size]]^^//
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.₾
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[div class="letternoted"]]
+++ 孫訥薩蘭文
+++ //^^[[size 50%]]Soonesaran[[/size]]^^//
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.₲
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[/div]]
+
+孫訥薩蘭字的閱讀方向跟彼列薩蘭文一樣，也在文中視為詞語處理。每一個字之間都會有空位，就像在彼列薩蘭文那樣。
+
+[[div class="pilesaran"]]
+.Θis, Is, ₲[[footnote]]這是孫訥薩蘭文。（英文：This is Soonesaran.）[[/footnote]]
+[[/div]]
+
+當一個孫訥薩蘭字落在行末，就會在行末錨點前方留一個空位。行首錨點也是同樣處理，在錨點後留空位。
+
+[[div class="pilesaran"]]
+.Θis, Is, ₲ *+
+[[div class="rotate"]]
+;flowing, Wiθ-
+[[/div]]
+:, ₾[[footnote]]這是孫訥薩蘭文連同彼列薩蘭文並流。（英文：This is Soonesaran flowing with Pilesaran.）[[/footnote]]
+[[/div]]
+
+在彼列薩蘭文裡，也會用到四個用孫訥薩蘭文寫的對等連接詞。頭三個是跟英文有直接對應的「[[span class="ruby"]]與[[span class="rt"]]And[[/span]][[/span]]」、「[[span class="ruby"]]或[[span class="rt"]]Or[[/span]][[/span]]」、「[[span class="ruby"]]非或[[span class="rt"]]Nor[[/span]][[/span]]」，此外，還有一個字對應到「[[span class="ruby"]]非與[[span class="rt"]]Not And[[/span]][[/span]]」。其中一個方便記憶哪些對等連接詞有那些字的方法就是去記住哪個字可以用來列舉品項。
+
+
+[[div class="wrapper"]]
+
+[[div class="letternoted"]]
+++ 與
+++ //^^[[size 50%]]And/&[[/size]]^^//
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.&
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[div class="letternoted"]]
+++ 或
+++ //^^[[size 50%]]Or[[/size]]^^//
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.∧
+[[/div]]
+[[/div]]
+[[/div]]
+
+
+[[div class="letternoted"]]
+++ 非或
+++ //^^[[size 50%]]Nor[[/size]]^^//
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.∇
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[div class="letternoted"]]
+++ 非與
+++ //^^[[size 50%]]Not And[[/size]]^^//
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.∆
+[[/div]]
+[[/div]]
+[[/div]]
+
+
+[[/div]]
+
+就如之前提到，「與」和「或」都是像「非或」那樣處理，列在每一項之間。 
+
+
+[[div class="pilesaran"]]
+.I, Eat, Rice, & Beans, & *+
+[[div class="rotate"]]
+;lentils .I, Eat, Θem, Wiθ-
+[[/div]]
+:garlic, ∧ Onion, ∧ Pepper, .I+
+[[div class="rotate"]]
+;do, Not, Eat, Θem, Wiθ-
+[[/div]]
+:cheese, ∇ Milk, ∇ Eggs+
+[[div class="rotate"]]
+;i, Also, Do, Not, Eat, Mangos-
+[[/div]]
+:, ∆ Almonds, ∆ Sesame,[[footnote]]我吃米、豆和小扁豆。我把它們連同蒜、洋蔥或是胡椒一起吃。我不會把它們配著起司、牛奶又或是雞蛋來吃。我也不會吃芒果、杏仁和芝麻。（英文：I eat rice, beans, and lentils. I eat them with garlic, onion or pepper. I do not eat them with cheese, milk, or eggs. I also do not eat mangos, almonds, and sesame.）[[/footnote]]
+
+[[/div]]
+
+「[[span class="pilesaranText"]].∇[[/span]]」這個字並不是與英文的「Nor」直接對應的，而是用來列舉__所有__不是所指事物的品項。例如「[[span class="ruby"]]I do not like meat or fish[[span class="rt"]]我不喜歡吃肉和魚[[/span]][[/span]]」這一句必先寫成「I do not like meat //nor// fish」。因為這句說的是「我喜歡吃的東西不包括肉或是魚」，所以就會用「[[span class="pilesaranText"]].∇[[/span]]」。當你在英文會用到「or」去列舉一些屬於否定的東西，就應該用「[[span class="pilesaranText"]].∇[[/span]]」。 
+
+「[[span class="pilesaranText"]].∆[[/span]]」這個字在實用上和「[[span class="pilesaranText"]].∇[[/span]]」一樣，但是用來對應到「and」這字的。「[[span class="ruby"]]I do not like meat and fish[[span class="rt"]]我不喜歡肉和魚一起吃[[/span]][[/span]]」這句，就會寫成像「I do not like meat //not and// fish」那樣，以「[[span class="pilesaranText"]].∆[[/span]]」字放在「not and」所在的位置。
+
+++++ 人名
+
+你們被派駐的地方裡，不同的教派可能會有不同的命名傳統，但是孫訥薩蘭文的人名幾乎必定都是取自一個本來已經存在的字形。只是，取名有一個通則。人名__永遠不會__有同時多於一個字。 
+
+我們會為這類名字舉幾個例子。
+
+[[div class="wrapper"]]
+
+[[div class="lettertall"]]
+++ [https://scp-wiki.wikidot.com/sarkic-case-study-01-the-vas-n-a-of-sarvi 雅西卡]
+++ //^^[[size 50%]]Jáska[[/size]]^^//
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.®
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[div class="lettertall"]]
+++ [https://scp-wiki.wikidot.com/mother-who-demands-ones-toes 哈利那．伊娃]
+++ //^^[[size 50%]]Halyna Ieva[[/size]]^^//
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.©
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[div class="lettertall"]]
+++ [https://scp-wiki.wikidot.com/kuobachs-eyes 廓巴赫]
+++ //^^[[size 50%]]Kuobach[[/size]]^^//
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.¦
+[[/div]]
+[[/div]]
+[[/div]]
+
+
+
+[[div class="lettertall"]]
+++ 埃維卡．科恩
+++ //^^[[size 50%]]Evika Cohen[[/size]]^^//
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.#
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[/div]]
+
+所以，如果我不帶自己稱號，要正確地介紹自己，我會這樣子寫： 
+
+[[div class="pilesaran"]]
+.Hello, I, Am, #
+[[/div]]
+
+在這四個名字當中，其中兩個是改自傳統的字，另外兩個則是直接取用已有的字。 
+
+[[div class="wrapper"]]
+
+[[div class="letternoted"]]
+++ 遠見者
+++ //^^[[size 50%]]Visionary[[/size]]^^//
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.®
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[div class="letternoted"]]
+++ 戰爭
+++ //^^[[size 50%]]War[[/size]]^^//
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.£
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[div class="letternoted"]]
+++ 野兔／兔
+++ //^^[[size 50%]]Hare/Rabbit[[/size]]^^//
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.§
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[div class="letternoted"]]
+++ 學生
+++ //^^[[size 50%]]Student[[/size]]^^//
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.#
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[/div]]
+
+你應該立刻就能注意到那些被改過的字裡面本來是沒有螺旋紋的。納餓卡傳統上，螺旋是大術士伊仰的符號，用來同時代表某事物與納餓卡之間的關係，又或是更廣泛地，具備__智能__的存在。這些字形的修改幾乎一律是在本身沒有螺旋的字上加一個螺旋，用以表示這字代表的是人，不是物件。 
+
+人名字符通常和那個名字的發音無關。不過這傳統也傾向因教派而異。廓巴赫因為在嬰兒時期有兔唇，而在當時被取名「[[span class="pilesaranText"]].§[[/span]]」。他的名字在說出來的時候，也同時在他的母語代表「野兔」的意思。「[[span class="ruby"]]Jáska[[span class="rt"]]雅西卡[[/span]][[/span]]」用作名詞時解作「明星」，也與他的名字所用的字符完全無關。
+
+這些字符也時而會隨著人的生平而有改變，而他的本名發音不會同時改變。最初的字符通常是表徵的描述，取自兒童身上被父母視為可親的特徵。這些改變通常會隨著他們的人格得以發展，或是生活裡出現重大變化的時候發生。廓巴赫沒有改變過自己的名字符號，因為他始終認為那個字仍然可以代表他。雅西卡則有在開始熱衷於追求成為輔路她的時候更改過自己的名字符號。目前沒有人能夠和術士哈利那．伊娃進行訪談，但是他的名字符號也很有可能更改過。大部分明白事理的人是不會拿像「戰爭」那樣的貶義詞來去給孩子起名字的，而大部分的納餓卡人，不管你們聽說到甚麼傳聞也好，都__是__講理的人。
+
+在選擇自己的名字時，要依照你想去呈現的面相去挑字符。儘量避免選擇帶有攻擊性或是負面意涵的字符。我用的字符則是以我的學術生涯為依據的。
+
+當然，命名取自既存字符的規則也有例外。當中最廣為人知的就是大術士伊仰和他的首徒。
+
+[[div class="wrapper"]]
+
+[[div class="letternoted"]]
+++ 伊仰
+++ //^^[[size 50%]]Ion[[/size]]^^//
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.¥
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[div class="letternoted"]]
+++ 納多克斯
+++ //^^[[size 50%]]Nadox[[/size]]^^//
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.$
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[div class="letternoted"]]
+++ 洛愛塔珥
+++ //^^[[size 50%]]Lovataar[[/size]]^^//
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.¢
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[div class="letternoted"]]
+++ 歐若克
+++ //^^[[size 50%]]Orok[[/size]]^^//
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.€
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[div class="letternoted"]]
+++ 莎阿恩
+++ //^^[[size 50%]]Saarn[[/size]]^^//
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.₹
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[/div]]
+
+這些字並沒有附上另外的字義，很有可能只是因為那些字比較古老，而重要到不能再自行加上第二個字義。那些字符也從來不會用來稱呼人，除了戴上了那名號的人們之外。這也不代表那些字並不能用作複合字的一部分來形成新的意義，不過我們之後會再說。
+
+除了這五個字符之外，有些教派也會在給孩子命名時選擇創造全新的字符，但是那是罕見的做法。這做法在少數使用孫訥薩蘭文的新欲肉教群，或是完全與外界隔絕的教派之中會更加常見。
+
+這裡還有另外應該知道的名字，但是我們現在不會太過詳細介紹。
+
+[[div class="wrapper"]]
+
+[[div class="letternoted"]]
+++ 亞大孢斯
+++ //^^[[size 50%]]Yaldabaoth[[/size]]^^//
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.₺
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[div class="letternoted"]]
+++ 執官
+++ //^^[[size 50%]]Archon[[/size]]^^//
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.ƒ
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[/div]]
+
+++++ 稱號
+
+之後我們講稱號。在你們的任務裡，只有四種稱號會很有可能用到。每一個都對應到一個階層。不過，為作示例，我們會另外多學一個。
+
+[[div class="wrapper"]]
+
+[[div class="letternoted"]]
+++ 奧世牧
+++ //^^[[size 50%]]Ozi̮rmok[[/size]]^^//
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.₦
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[div class="letternoted"]]
+++ 首徒
+++ //^^[[size 50%]]Klavigar[[/size]]^^//
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.₱
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[div class="letternoted"]]
+++ 大術士
+++ //^^[[size 50%]]Karcist[[/size]]^^//
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.₴
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[div class="letternoted"]]
+++ 輔路她
+++ //^^[[size 50%]]Võlutaar[[/size]]^^//
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.₽
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[div class="letternoted"]]
+++ 博士
+++ //^^[[size 50%]]Doctor[[/size]]^^//
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.=
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[/div]]
+
+稱號永遠是不會單獨地用的。如果是要用來叫一個稱號而不加人名，就會在稱號後面加一個對應到「人」的字代替人名的位置。 
+
+[[div class="wrapper"]]
+
+[[div class="letternoted"]]
+++ 人
+++ //^^[[size 50%]]Person[[/size]]^^//
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.¶
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[/div]]
+
+這些字符必定是會緊挨在對應的人名之前的。稱號和人名兩個字符之間並不會留空格。這兩項概念並用的例句就如以下所寫：
+
+[[div class="pilesaran"]]
+.Θe, ₱¶ Of, ₦¥ Are, Called+
+
+[[div class="rotate"]]
+;, ₱$ & ₱¢ & ₱€ & ₱₹[[footnote]]大術士伊仰的首徒分別稱為首徒那多克斯、首徒洛愛塔珥、首徒歐若克、首徒莎阿恩。（英文：The Klavigar of Grand Karcist Ion are called Klavigar Nadox, Klavigar Lovataar, Klavigar Orok, and Klavigar Saarn.）[[/footnote]]
+[[/div]]
+[[/div]]
+
+這稱謂系統也理所當然地對其他稱號和相應的人名適用。 
+
+[[div class="pilesaran"]]
+
+.₴© & ₽® Boθ, Have, Titles, [[footnote]]術士 哈利那．伊娃和輔路她 雅西卡兩者都有稱號。（英文：Karcist Halyna Ieva and Võlutaar Jáska both have titles.）[[/footnote]]
+
+[[/div]]
+
+到最後，真正地介紹我自己，連同稱號之類的，就會是這樣子。 
+
+[[div class="pilesaran"]]
+
+.Hello, I, Am, =#
+
+[[/div]]
+
+
+++++ 納餓卡記數法
+
+納餓卡的記數法事實上比看來的困難。一開頭，它看似簡單，有著跟阿拉伯數字一樣的基本結構。就是一些數位並列在一起，就可以形成更大的數字。不像拉丁的記數法那樣要記住複雜的系統，要記住的數字就只有單一的數位而已。
+
+不過，納餓卡記數法用的並不是我們在阿拉伯數字熟知的十進制，而是用__十二進制__寫成。亦即是說，單一數位的數字會有12個，而不是阿拉伯數字的10個。
+
+[[div class="wrapper"]]
+
+[[div class="letter"]]
+++ 0[[footnote]]這個字當作數字來用是相對後期才發展得來的。最初，這個字只會用作稱呼亞大孢斯所居住的界域之名。[[/footnote]]
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.0
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[div class="letter"]]
+++ 1
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.1
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[div class="letter"]]
+++ 2
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.2
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[div class="letter"]]
+++ 3
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.3
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[div class="letter"]]
+++ 4
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.4
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[div class="letter"]]
+++ 5
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.5
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[div class="letter"]]
+++ 6
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.6
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[div class="letter"]]
+++ 7
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.7
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[div class="letter"]]
+++ 8
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.8
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[div class="letter"]]
+++ 9
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.9
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[div class="letter"]]
+++ 10
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.(
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[div class="letter"]]
+++ 11
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.)
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[/div]]
+
+十二進制記數法比較難上手，但是概念易明。0至9的數字就跟阿拉伯數字一樣。之後就不是進位到兩位數「10」，而是還有兩個單位數對應到「10」和「11」，分別是：「[[span class="pilesaranText"]].([[/span]]」和「[[span class="pilesaranText"]].)[[/span]]」。兩位數是要到了十二之後才會開始。迢也意味著，要像用阿拉伯數字去寫，寫成「[[span class="pilesaranText"]].10[[/span]]」，分別代表1和0，指的其實是12。
+
+我以前見過一個輔路她宣稱這種記數法來自你一隻手的手指上有多少節骨頭，可以用拇指來去逐個指出來。他解釋說首徒那多克斯在被殆瓦人砍掉了一隻手之後就學會這樣數數字。另外一個聽到對話的輔路她就過來指正他，__他那邊__的解釋就是說那多克斯沒有被殆瓦人砍斷手，而是__天生__就兩隻手各有六根手指。此外也還有其他的解釋，但是大多數人都在某一方面將發明記數法歸功於那多克斯的手的構造。
+
+++++ 複合字與納餓卡群體
+
+孫訥薩蘭文的複合字是兩個不同的字符不留空位排在一起。要注意的是，那兩個字都必定是名詞，而用來當作「描述符」的一個或兩個名詞都必然在前方。為求解釋，我們會再多學幾個字。
+
+[[div class="wrapper"]]
+
+[[div class="letternoted"]]
+++ 納餓卡
+++ //^^[[size 50%]]Nälkä[[/size]]^^//
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.฿
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[div class="letternoted"]]
+++ 聖言
+++ //^^[[size 50%]]Valksaran[[/size]]^^//
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.₡
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[/div]]
+
+在你描述用彼列薩蘭文或是孫訥薩蘭文寫成的[[span class="ruby"]]瓦科薩蘭[[span class="rt"]]Valksaran[[/span]][[/span]]（意譯：聖言；直譯：閃亮的話語）時，會是將代表「彼列薩蘭文」或是「孫訥薩蘭文」的字放在代表「聖言」的字之前。 
+
+[[div class="pilesaran"]]
+.₾₡ .₲₡
+[[/div]]
+
+社群的名稱跟人名的處理方式不同。社群的名稱幾乎總會有一個複合字，由幾個字組成，除非那個群體是很廣泛的統稱。這些字符通常是一個描述性的名詞之後再搭一個比較廣泛的「類別」字。以納餓卡的社群為例，就會用「[[span class="pilesaranText"]].฿[[/span]]」來代表「納餓卡」。為了學習這些群體的名字，我會介紹我們需要用到的字。
+
+[[div class="wrapper"]]
+
+[[div class="letternoted"]]
+++ 天空
+++ //^^[[size 50%]]Sky[[/size]]^^//
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.₪
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[div class="letternoted"]]
+++ 火燄
+++ //^^[[size 50%]]Flame[[/size]]^^//
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.₷
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[div class="letternoted"]]
+++ 衣服[[footnote]]更加準確而言，這個字符也同樣可以指「斗篷（英文：cloak）」。[[/footnote]]
+++ //^^[[size 50%]]Clothes[[/size]]^^//
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.৳
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[div class="letternoted"]]
+++ 平衡
+++ //^^[[size 50%]]Balance[[/size]]^^//
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.₸
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[div class="letternoted"]]
+++ 阿狄泰姆
+++ //^^[[size 50%]]Adytum[[/size]]^^//
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.₮
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[div class="letternoted"]]
+++ 錯謬
+++ //^^[[size 50%]]Falsity[[/size]]^^//
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.¤
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[div class="letternoted"]]
+++ 死亡
+++ //^^[[size 50%]]Death[[/size]]^^//
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.₶‎
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[div class="letternoted"]]
+++ 太陽
+++ //^^[[size 50%]]Sun[[/size]]^^//
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.૱
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[div class="letternoted"]]
+++ 陶土
+++ //^^[[size 50%]]Clay[[/size]]^^//
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.₳
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[div class="letternoted"]]
+++ 子宮
+++ //^^[[size 50%]]Womb[[/size]]^^//
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.₢
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[div class="letternoted"]]
+++ 詛咒
+++ //^^[[size 50%]]Curse[[/size]]^^//
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.₰
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[div class="letternoted"]]
+++ 馬匹
+++ //^^[[size 50%]]Horse[[/size]]^^//
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.₻
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[div class="letternoted"]]
+++ 海
+++ //^^[[size 50%]]Sea[[/size]]^^//
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.₯
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[div class="letternoted"]]
+++ 商人
+++ //^^[[size 50%]]Merchant[[/size]]^^//
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.₠
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[/div]]
+
+有了那些字符，我們就能組成社群的名字。 
+
+[[div class="wrapper"]]
+
+[[div class="lettertwonotedtall"]]
+++ [https://scp-wiki.wikidot.com/sarkic-case-study-01-the-vas-n-a-of-sarvi 瓦西尼亞]
+++ //^^[[size 50%]]Vaśńa[[/size]]^^//
+[[div class="pilesaran" style="font-size: 2.7cqw"]]
+[[div class="verticalrotate"]]
+.₪₷฿
+[[/div]]
+[[/div]]
+//[[size 40%]]「天空」「火燄」「納餓卡」[[/size]]//
+[[/div]]
+
+[[div class="lettertwonotedtall"]]
+++ [https://scp-wiki.wikidot.com/an-anthropological-approach-to-sarkicism-case-study-02-the-d 狄洛吉]
+++ //^^[[size 50%]]Divoši[[/size]]^^//
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.৳฿
+[[/div]]
+[[/div]]
+//[[size 40%]]「斗篷」「納餓卡」[[/size]]//
+[[/div]]
+
+[[div class="lettertwonotedtall"]]
+++ [https://scp-wiki.wikidot.com/sarkic-case-study-05-korean-seulga 世乙加]
+++ //^^[[size 50%]]Seŭlga[[/size]]^^//
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.₸฿
+[[/div]]
+[[/div]]
+//[[size 40%]]「平衡」「納餓卡」[[/size]]//
+[[/div]]
+
+[[div class="lettertwonotedtall"]]
+++ 兀-納餓卡
+++ //^^[[size 50%]]Ur- Nälkä[[/size]]^^//
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.₮฿
+[[/div]]
+[[/div]]
+//[[size 40%]]「阿狄泰姆」「納餓卡」[[/size]]//
+[[/div]]
+
+[[div class="lettertwonotedtall"]]
+++ 新欲肉教
+++ //^^[[size 50%]]Neo-Sarkicism[[/size]]^^//
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.¤฿
+[[/div]]
+[[/div]]
+//[[size 40%]]「錯謬」「納餓卡」[[/size]]//
+[[/div]]
+
+[[div class="lettertwonotedtall"]]
+++ [https://scp-wiki.wikidot.com/scp-2833 法徒拉派]
+++ //^^[[size 50%]]Vātula[[/size]]^^//
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.₶‎฿
+[[/div]]
+[[/div]]
+//[[size 40%]]「死亡」「納餓卡」[[/size]]//
+[[/div]]
+
+[[div class="lettertwonotedtall"]]
+++ [https://scp-wiki.wikidot.com/scp-2133 紅色收穫教會]
+++ //^^[[size 50%]]Church of the Red Harvest[[/size]]^^//
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.૱฿
+[[/div]]
+[[/div]]
+//[[size 40%]]「太陽」「納餓卡」[[/size]]//
+[[/div]]
+
+[[div class="lettertwonotedtall"]]
+++ 索羅門納里派
+++ //^^[[size 50%]]Solomonari[[/size]]^^//
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.₳฿
+[[/div]]
+[[/div]]
+//[[size 40%]]「陶土」「納餓卡」[[/size]]//
+[[/div]]
+
+[[div class="lettertwonotedtall"]]
+++ [https://scp-wiki.wikidot.com/scp-4476 永恆之母教會]
+++ //^^[[size 40%]]Church of the Eternal Mother[[/size]]^^//
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.₢฿
+[[/div]]
+[[/div]]
+//[[size 40%]]「子宮」「納餓卡」[[/size]]//
+[[/div]]
+
+[[div class="lettertwonotedtall"]]
+++  [https://scp-wiki.wikidot.com/scp-4772 潘諾尼亞阿瓦爾人]
+++ //^^[[size 50%]]Pannonian Avars[[/size]]^^//
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.₰฿
+[[/div]]
+[[/div]]
+//[[size 40%]]「詛咒」「納餓卡」[[/size]]//
+[[/div]]
+
+[[div class="lettertwonotedtall"]]
+++ [https://scp-wiki.wikidot.com/kuobachs-eyes 烏阿爾人]
+++ //^^[[size 50%]]Ɨal[[/size]]^^//
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.₻฿
+[[/div]]
+[[/div]]
+//[[size 40%]]「馬匹」「納餓卡」[[/size]]//
+[[/div]]
+
+[[div class="lettertwonotedtall"]]
++++ [https://scp-zh-tr.wikidot.com/scp-4036 玻里尼西亞阿狄泰姆共和國]
+++ //^^[[size 50%]]Adytite Republic of Polynesia[[/size]]^^//
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.₯฿
+[[/div]]
+[[/div]]
+//[[size 40%]]「海洋」「納餓卡」[[/size]]//
+[[/div]]
+
+[[div class="lettertwonotedtall"]]
+++ [https://scp-wiki.wikidot.com/ancestrecall 阿卜拉克薩斯集團]
+++ //^^[[size 50%]]Abraxas Group[[/size]]^^//
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.₠฿
+[[/div]]
+[[/div]]
+//[[size 40%]]「商人」「納餓卡」[[/size]]//
+[[/div]]
+
+[[div class="lettertwonotedtall"]]
+++ 蛇紋龍會
+++ //^^[[size 50%]]Order of the Wyrm[[/size]]^^//
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.₹฿
+[[/div]]
+[[/div]]
+//[[size 40%]]「莎阿恩」「納餓卡」[[/size]]//
+[[/div]]
+
+[[/div]]
+
+這種為群體命名的方法並不只適用於__納餓卡__的社群。所有的群體都是可以用字符指稱的。為了進一步分辨那些群體，也能以那些代表不同人的字符好像「[[span class="pilesaranText"]].฿[[/span]]」那樣用來組成複合字。 
+
+[[div class="wrapper"]]
+
+[[div class="letternoted"]]
+++ 殆瓦
+++ //^^[[size 50%]]Daeva[[/size]]^^//
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.₩
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[div class="letternoted"]]
+++ 美刻尼教徒
+++ //^^[[size 50%]]Mekhanite[[/size]]^^//
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.₵
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[/div]]
+
+在一尊阿狄泰石碑上，從一個用作港口的島而來的殆瓦人被稱為「[[span class="pilesaranText"]].₯₠₩[[/span]]」，直譯就是「海商殆瓦」。有一份十一世紀的手稿提及一支古代的美刻尼教軍隊相傳有使用希臘火，就用到了「[[span class="pilesaranText"]].£₷₵[[/span]]」，亦即「[[span class="ruby"]]希臘火[[span class="rt"]]『戰爭』『火燄』[[/span]][[/span]]美刻尼教徒」，來稱呼這支軍隊。 
+
+要注意的是，之前我舉過的例子當中，瓦西尼亞人、還有上述的殆瓦人和美刻尼教徒是有用到__三個__字符組成的複合字。而在這些例子當中，頭兩個字本身就自成一個複合字。這些複合字也有不少，但是我們現在只會學其中一些。 
+
+[[div class="wrapper"]]
+
+[[div class="lettertwonotedtall"]]
+++ 北極光
+++ //^^[[size 50%]]Aurora Borealis[[/size]]^^//
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.₪₷
+[[/div]]
+[[/div]]
+//[[size 40%]]「天空」「火燄」[[/size]]//
+[[/div]]
+
+[[div class="lettertwonotedtall"]]
+++ 海上商旅
+++ //^^[[size 50%]]Merchant Seaman[[/size]]^^//
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.₯₠
+[[/div]]
+[[/div]]
+//[[size 40%]]「海」「商人」[[/size]]//
+[[/div]]
+
+
+[[div class="lettertwonotedtall"]]
+++ 希臘火
+++ //^^[[size 50%]]Greek Fire[[/size]]^^//
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.£₷
+[[/div]]
+[[/div]]
+//[[size 40%]]「戰爭」「火燄」[[/size]]//
+[[/div]]
+
+[[div class="lettertwonotedtall"]]
+++ 耀躂彼[[footnote]]一種格網形的桌上策略遊戲，近似國際象棋或圍棋，常見於納餓卡群體。[[/footnote]]
+++ //^^[[size 50%]]Jautapi[[/size]]^^//
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.£$
+[[/div]]
+[[/div]]
+//[[size 40%]]「戰爭」「納多克斯」[[/size]]//
+[[/div]]
+
+[[div class="lettertwonotedtall"]]
+++ 異端/暴食[[footnote]]這一詞特指新欲肉教群予人自私的印象。[[/footnote]]
+++ //^^[[size 50%]]Heresy/Gluttony[[/size]]^^//
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.¤₡
+[[/div]]
+[[/div]]
+//[[size 40%]]「錯謬」「聖言」[[/size]]//
+[[/div]]
+
+[[div class="lettertwonotedtall"]]
+++ 燈泡
+++ //^^[[size 50%]]Lightbulb[[/size]]^^//
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.¤૱
+[[/div]]
+[[/div]]
+//[[size 40%]]「錯謬」「太陽」[[/size]]//
+[[/div]]
+
+[[div class="lettertwonotedtall"]]
+++ 空虛/冷漠
+++ //^^[[size 50%]]Emptiness/Apathy[[/size]]^^//
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.0₰
+[[/div]]
+[[/div]]
+//[[size 40%]]「零」「詛咒」[[/size]]//
+[[/div]]
+
+[[div class="lettertwonotedtall"]]
+++ 親生父母[[footnote]]特別指一個忽視或苛待兒女之人，以至子女離去或被社群從中取去代為撫養。這一詞含有貶義，不會用作指稱出於虐待以外的原因而導致兒女被他人領養的親生父母。[[/footnote]]
+++ //^^[[size 50%]]Birth Parent[[/size]]^^//
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.₺¶
+[[/div]]
+[[/div]]
+//[[size 40%]]「亞大孢斯」「人」[[/size]]//
+[[/div]]
+
+[[div class="lettertwonotedtall"]]
+++ 永恆之愛
+++ //^^[[size 50%]]Eternal Love[[/size]]^^//
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.₦¢
+[[/div]]
+[[/div]]
+//[[size 40%]]「奧世牧」「洛愛塔珥」[[/size]]//
+[[/div]]
+
+[[div class="lettertwonotedtall"]]
+++ 凶殘之人
+++ //^^[[size 50%]]Cruel Person[[/size]]^^//
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.ƒ¶
+[[/div]]
+[[/div]]
+//[[size 40%]]「執官」「人」[[/size]]//
+[[/div]]
+
+[[div class="lettertwonotedtall"]]
+++ 裁縫
+++ //^^[[size 50%]]Tailor[[/size]]^^//
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.৳¶
+[[/div]]
+[[/div]]
+//[[size 40%]]「衣物」「人」[[/size]]//
+[[/div]]
+
+[[div class="lettertwonotedtall"]]
+++ 送葬者
+++ //^^[[size 50%]]Undertaker[[/size]]^^//
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.₶¶
+[[/div]]
+[[/div]]
+//[[size 40%]]「死亡」「人」[[/size]]//
+[[/div]]
+
+[[div class="lettertwonotedtall"]]
+++ 揚升
+++ //^^[[size 50%]]Ascension[[/size]]^^//
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.₶₺
+[[/div]]
+[[/div]]
+//[[size 40%]]「死亡」「亞大孢斯」[[/size]]//
+[[/div]]
+
+[[div class="lettertwonotedtall"]]
+++ 月經
+++ //^^[[size 50%]]Menstruation[[/size]]^^//
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.₢૱
+[[/div]]
+[[/div]]
+//[[size 40%]]「子宮」「太陽」[[/size]]//
+[[/div]]
+
+[[div class="lettertwonotedtall"]]
+++ 賢者[[footnote]]這一詞特指在塑肉術上有天賦的人。這類人在部分群體中也被視為「第三性別」的存在。[[/footnote]]
+++ //^^[[size 50%]]Savant[[/size]]^^//
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.₳¶
+[[/div]]
+[[/div]]
+//[[size 40%]]「陶土」「人」[[/size]]//
+[[/div]]
+
+[[/div]]
+
+如上述用以指稱非特指的名詞或概念的複合字也可以代替彼列薩蘭文使用，也會用以在書寫過程中增加「詩意」或用作強調相應字詞。 
+
+[[div class="pilesaran"]]
+.He, Turns, On, Θe, ¤૱[[footnote]]他打開了燈泡。（英文：He turns on the lightbulb.）[[/footnote]]
+[[/div]]
+
+雖說如此，那些詞用彼列薩蘭文拼出來也不會起疑。 
+
+++ 「蛇紋龍會」事件
+
+如果你還留在這課上，而你符合了我之前提過要跟指揮官傳達的其中一個情節，或是指揮官要求你繼續上課，又或是你被事先__警告__不要聽我說的話，這樣子的人不只你一個。打從我開課以來，__每一課__就至少有一個是這樣子。我現在就會給你一個理由為自己辯護。
+
+以下的事件__就是__在異常宗教聯繫上用以推翻「沉默即自我收容」政策的主要原因，也同時是戰術語言及文字學部本身存在的緣故。
+
+基金會如今的確是有了更深的了解，現在會孫訥薩蘭文的職員可以公開參與這類討論。但這並不代表這種事件沒可能會再次發生。__直到現在__，很明顯還會有指揮官無視我的部門為了保護像__你__這樣的特工，而推行的安全措施，就只是為了跳過所謂的「繁文縟節」，而下了這一番錯誤的工夫。為了你的安全著想，你__必須__確保你的指揮官會負責維護我們現有的安全網。
+
+在這次慘劇，你要得到的教訓不應該是我們走得多遠，而是我們不能讓它重演。
+
+-----
+
+在1998年的三月初，有一個站點主任遭到企圖暗殺。
+
+行刺的團體是GoI-827，是一個與蛇之手有鬆散聯繫的泛納餓卡網路，名為「[[span class="ruby"]]蛇紋龍會[[span class="rt"]]Order of the Wyrm[[/span]][[/span]]」。就算基金會對這組織有所熟悉，這團體大部分的資源依然投放了在改善流浪者圖書館的社會基建之上。這是透過那組織稱之為「直接行動」以及「相互救濟」的極端左翼行動原則實現的，這些行動也往往為他們和圖書館員帶來衝突。
+
+這組織是由數以千計的成員構成，全部來自各地的納餓卡群體__以及__新欲肉教群，還有幾個沒有宗教背景的同盟。GoI-827在有人居住的六大洲，以及流浪者圖書館都有運作，並使用一種生物異常的跨維度通訊方式實現廣泛活動。這組織的獨特之處在它每年三月都會在三波特蘭舉辦「公開」的招募期。這些招募活動並不需要事前的擔保，可以不需通行流浪者圖書館就能參加。
+
+[[span class="ruby"]]蘿拉．德伏爾[[span class="rt"]]Laura D'Vour[[/span]][[/span]]特工就被派去扮成一個希望入會的納餓卡人，參與其中一個這樣子的招募活動，以對這組織進行滲透。他被指示脫衣，以接受檢查，以及進行入會儀式。在他有辦法加入之前，就被監督入會的術士處決了。在音訊上最後一樣得知的就是那個術士說他「連那個[孫訥薩蘭文標記]都沒有」。
+
+當然，德伏爾特工宣稱出身的社群是有以CLM刺青刻印家族標誌的傳統的。但是，當時主管滲透計劃的Site-56前首席指揮官[[span class="ruby"]]亞伯特．卡斯提洛[[span class="rt"]]Abbott Costello[[/span]][[/span]]先生，假設了孫訥薩蘭文的CLM刺青大體而言只是招募者要在應募者身上找到的一個特徵，用以攔截滲透者。
+
+所以，研究那種標記就在卡斯提洛先生為求成功滲透的計劃當中，成為了第一要務。因為他的影響力，他的計劃很快就獲准了，但是進行正式研究所需的資源至少要待六個月才會到。他認為事情太緊急，來不及等到1999年的招募期，所以他就決定__逕自__進行研究了。
+
+那組織裡的其中一名成員PoI-83721（「輔路她 莎阿恩」）在離開汽車旅館吸煙時被拘提。GoI-827的成員已知會在被捕的當下自盡，所以在抓到PoI-83721的時候，我方就立刻開出談判條件，讓他設計一個孫訥薩蘭文CLM刺青，好確保帶有刺青的人可以成功入會。
+
+[[div class="blockquote"]]
+**日期： 1998年3月14日** 
+
+**受訪者：** PoI-83721（「輔路她 莎阿恩」）
+
+**採訪者：** 指揮官亞伯特．卡斯提洛
+
+**備註：** 在得知條件之後，PoI-83721隨即同意條件，並獲予紙筆各一，以及30分鐘以作繪畫。他在一分鐘內完成繪製。
+
+-----
+
+**［紀錄開始］**
+
+在卡斯提洛指揮官走入房間時，PoI-83721瞪向指揮官，折斷了獲發用以繪畫符號的鉛筆，將之丟向指揮官腳下。卡斯提洛指揮官清了一下喉嚨，拿起紙張。
+
+[[div class="letterfull"]]
++++ PoI-83721提交的孫訥薩蘭文
+@@@@
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.৳<>°
+[[/div]]
+[[/div]]
+[[/div]]
+
+**卡斯提洛指揮官：** 很快。你確定這沒錯了嗎？
+
+**PoI-83721：** 我可以走了嗎？
+
+**卡斯提洛指揮官：**  [望過紙上的符號] 這指的是甚麼意思？
+
+**PoI-83721：** 直譯起來沒有意思。就告訴別人你很__重要__這樣。
+
+**卡斯提洛指揮官：**  這個字是指衣物，對吧？[[footnote]]當時，卡斯提洛指揮官在不久之前成功領導了一場針對狄洛吉群體的滲透行動。這符號，以及對應到「納餓卡」的字符就是他__惟二__了解的符號。[[/footnote]]
+
+**PoI-83721：** [停頓並望向卡斯提洛指揮官的臉] 是沒錯。
+
+**卡斯提洛指揮官：** 那字在這裡幹啥？其他的字又怎麼解？
+
+**PoI-83721：** 逐個字的意思不關整個詞的事。就像「蝴」字也不關__「蝴蝶」__的事。
+
+**卡斯提洛指揮官：** 唔……
+
+**PoI-83721：** 我給了你要的東西。我們談完了吧？
+
+**卡斯提洛指揮官：** 先等一下。
+
+卡斯提洛指揮官回頭走向門口，仍在看著字紙。
+
+-----
+
+**［紀錄結束］**
+
+**結語：** 在對PoI-83721進行記憶刪除之後，再向其展示該字紙，以詢問對於身上有此符號作為CLM刺青的人有何種看法。他譏笑一聲之後，就指會認為此人「可受尊重」。PoI-83721再經過記憶刪除以容後釋放。在一小時內，他在準備送回汽車旅館之前，就在囚房中被發現已死。
+[[/div]]
+
+鑒於「沉默即自我收容」政策，忠於基金會而可以閱讀孫訥薩蘭文的人員不能接受採訪以確認所見字符的意思。所以，當時就改向具有納餓卡背景的關注人物、異常個體以及D級人員進行訪談。
+
+平心而論，卡斯提洛先生有做對一件事，他的確有__嘗試__使用科學方法。卡斯提洛先生已經確定意思的那個「[[span class="pilesaranText"]].৳[[/span]]」在那些對話之中被用作「對照」。每一個受訪的人都會被問及會對身上有這個CLM刺青持甚麼看法，還有「[[span class="pilesaranText"]].৳[[/span]]」這個字是甚麼意思。
+
+[[div class="blockquote"]]
+**日期： 1998年3月15日** 
+
+**受訪者：** [https://scp-wiki.wikidot.com/scp-6521 PoI-64395]（「[[span class="ruby"]]艾莉克斯．戈蒂耶[[span class="rt"]]Alyx Gautier[[/span]][[/span]]」）
+
+**採訪者：** 指揮官亞伯特．卡斯提洛
+
+**備註：** PoI-64395來自一個接受基金會監視的欲肉教社群，以刺青師為業。其作品採用傳統CLM刺青方法、墨水紋身、以及塑肉術，以及藝術設計、孫訥薩蘭文與彼列薩蘭文的組合。
+
+**［紀錄開始］**
+ 
+卡斯提洛指揮官走入房間時，PoI-64395在坐在椅上仰後身體，雙腿托在桌上。
+
+**卡斯提洛指揮官：** 這裡的字。
+
+卡斯提洛指揮官將PoI-64395的腳從桌上推開，並將字紙拋到對方面前。對方傾前看了紙上的符號一眼。
+
+**卡斯提洛指揮官：** 如果你給人作刺青的時候，在背上紋這個，那對你來說會有甚麼意思。
+
+[[div class="letterfull"]]
+++ 「重要之人」
+@@@@
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.৳<>°
+[[/div]]
+[[/div]]
+[[/div]]
+
+PoI-64395大笑，拿起字紙。
+
+**卡斯提洛指揮官：** 有甚麼好笑的？
+
+**PoI-64395：** [停止大笑並望向卡斯提洛指揮官] 這嘛…… [微笑並推走字紙] 就不能相信這事。我從未見過基金會的人用孫訥薩蘭文，寫起來還這麼意外地漂亮。比起帶著自己想法來到我店裡的大多數人都還要寫得更好。文法、筆劃，還有那些蟲的細尾也是。 
+
+**卡斯提洛指揮官：** 所以……這字是甚麼意思？
+
+**PoI-64395：** 這……啊……啊、唔……該怎麼說呢……它指的就是你……是個……__特別__的人吧，我想……
+
+**卡斯提洛指揮官：** [指向代表衣物的字] 那這裡這一個字是甚麼意思？單獨來說。
+
+**PoI-64395：** [停頓，正臉看了卡斯提洛指揮官一眼，再回頭望向字紙] ……衣物……
+
+卡斯提洛指揮官點了頭，收回字紙，離開房間。
+
+-----
+
+**［紀錄結束］**
+
+[[/div]]
+
+以這種形式接受訪談的總共有19個不同的人，來自各種納餓卡的背景，也有幾個新欲肉教的人，包括PoI-83721和PoI-64395在內。當中有14人可以指出那個字的意思。
+
+||~ 受訪者||~ 釋讀||
+||PoI-83721（「輔路她 莎阿恩」）||「一個重要的人」及「一個受尊重的人」||
+||[https://scp-wiki.wikidot.com/scp-6521 PoI-64395]（「艾莉克斯．戈蒂耶」）||「特別的人」||
+||[https://scp-zh-tr.wikidot.com/scp-2075 SCP-2075]||「高譽之人」||
+||D-35763（「[[span class="ruby"]]朴桁鐘[[span class="rt"]]Park Hyeongjong[[/span]][[/span]]」）||「備受尊敬的人」||
+||D-60834（「[[span class="ruby"]]米庫克．佩特洛娃[[span class="rt"]]Mikuk Petrova[[/span]][[/span]]」）||「可信的人」||
+||[https://scp-wiki.wikidot.com/are-we-gentrified-yet PoI-8264]（「[[span class="ruby"]]贊者 基韋萊[[span class="rt"]]Zend Kivelä[[/span]][[/span]]」）||「給他寫這個的那個人覺得他酷爆了」||
+||D-85434（「[[span class="ruby"]]魏福熹[[span class="rt"]]Fuxi Wei[[/span]][[/span]]」）||「人格可靠者」||
+||PoI-64395（「[[span class="ruby"]]輔路她 約瑟芙卡[[span class="rt"]]Võlutaar Iosefka[[/span]][[/span]]」）||「行善者」||
+||[https://wanderers-library.wikidot.com/wreckage-by-the-sea PoI-64354]（「[[span class="ruby"]]贊者 維果[[span class="rt"]]Zend Vigo[[/span]][[/span]]」）]||「道德健全者」||
+||D-64353（「[[span class="ruby"]]艾亞克斯．阿爾瓦雷斯[[span class="rt"]]Áiax Álvares[[/span]][[/span]]」）||「一個我可能得聽從的人」||
+||[https://scp-zh-tr.wikidot.com/scp-2133 SCP-2133-1-15]「[[span class="ruby"]]日丹[[span class="rt"]]Zhdan[[/span]][[/span]]」||「[像卡斯提洛指揮官]那樣有價值的人」||
+||D-52433（「[[span class="ruby"]]艾莉伊德．梅吉[[span class="rt"]]Aliide Mägi[[/span]][[/span]]」）|| 「應予仰慕之人」||
+||D-34234（「[[span class="ruby"]]馬基西格[[span class="rt"]]Makisig[[/span]][[/span]]」）|| 「有品味的夥子」||
+||[https://scp-zh-tr.wikidot.com/scp-2688 SCP-2688-A5]（「[[span class="ruby"]]阿拉珀魯斯．貝盧斯[[span class="rt"]]Alaparus Belos[[/span]][[/span]]」）|| 「一個受尊重的社群成員」||
+
+這14人也同樣正確地認出對照的「[[span class="pilesaranText"]].৳[[/span]]」字為「衣服」、「斗篷」或是「衣物」。
+
+當時，卡斯提洛指揮官假定了PoI-83721指出那些符號的意義是正確的。雖然有幾名研究員得知他的行動之後建議再作測試，GoI-827一年一度的招募期則臨近結束，而GoI-827__第二次__企圖行刺的事件也使得滲透任務更加緊急。這個符號就因此在PoI-64395的協助之下，用了CLM刺青的方式紋在特工[[span class="ruby"]]弗拉基米爾．索恩[[span class="rt"]]Vladimir Thorne[[/span]][[/span]]的身上，送去三波特蘭的會合點。
+
+[[div class="blockquote"]]
+
+= **影像紀錄**
+----
+**日期： 1998年3月30日** 
+
+**備註：** 弗拉基米爾．索恩特工在2時01分抵達酒店房間。他在2時07分被連同12名應募者帶入房間。在他們入房時，房間內有5人：在場監督的術士，是一名身形高大的男性，以友善的微笑對每名應募者逐一致意；三名輔路她身穿五顏六色的羊毛披肩，其中兩人為女性，另一人由他人以中性代詞稱呼；另外一名不屬於欲肉教，而從屬於蛇之手的女性。
+----
+
+**［紀錄開始］**
+
+**[2:10]:** 索恩特工站在門邊，等待呼喚上前。應募者逐一接受面見。每一人都會被指示脫衣。此後，他們會接受檢查，術士會抓住應募者的額頭。儀式一經完成，一條蛞蝓狀的生物就會插入鼻腔。在生物鑽入之後，新入會的成員會左眼抽搐幾秒。抽搐結束之後，他們就會向某種不可聽的事物作出反應，並被給予一條毯包住自己的身體，再接受輔路她與非欲肉教女性四人的祝賀，再走回其他人站立之處，目送下一人上前。在索恩特工之前，沒有應募者遭到處決。
+
+**[2:38]: 術士：** 你，穿黑衣那個。[指向索恩特工] 來吧，孩子。寬衣吧。
+
+**2:38:** 索恩特工走到術士前方，背對術士，面向輔路她與非欲肉教女子四人，如同先前的應募者一般。他開始脫下衣服。
+
+**[2:38]: 輔路她甲：** 你有點太過……__安靜__呢。害怕顯露情緒嗎？我保證他不會咬人的。他要傷人的話，有的是遠遠更有效的方法。
+
+**[2:38]:** 另外兩名輔路她當中其一輕笑。術士亦隨笑話微笑搖頭。索恩特工沒有回應。術士隨後皺眉並望向性別未知的輔路她，面帶警惕。
+
+**[2:39]: 術士：** 這下靜得__委實__令人不安。我一直擔心會有人單純為嗜血而來……[[span class="ruby"]]萊那夫[[span class="rt"]]Lyev[[/span]][[/span]]，你也有如此顧慮嗎？ 
+
+**[2:39]:** 被問到的輔路她左右歪頭，不甚在意。術士撅起嘴，伸手撫摸索恩特工的髮頂。
+
+**[2:39]: 術士：** 也許社交就不是他的強項。放到其中一個施膳處說不定會很有用。畢竟那裡不怎麼需要對人。
+
+**[2:39]: 女子：** 說不定他__可以__當一個很好的刺客。不苛言笑在那裡……應該是__優點__吧？
+
+**[2:39]: 輔路她乙[[footnote]]該人貌似PoI-83721，亦似乎襲用了其死後的身份與記憶。該效應甚有可能是經由可見於部分納餓卡社群用以賦予不連續不朽特性的罕見方法實現。[[/footnote]]：** 蛤？當然不是。是__記憶點__來的。
+
+**[2:39]: 女子：** 真的？
+
+**[2:39]: 輔路她丙：** 你在__電視__上看回來的，是吧？這絕對只是宣傳技倆。我以前啊——
+
+**[2:40]:** 索恩特工脫下了襯衣。 
+
+[[div class="letterfull"]]
+++ 索恩特工的刺青
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.৳<>°
+[[/div]]
+[[/div]]
+[[/div]]
+
+**[2:40]:** 術士突然放聲大笑，打斷了輔路她的發言。術士隨後抓住索恩特工的喉嚨，又再把他舉起離地，把他的身體轉向輔路她，以展示其背後的孫訥薩蘭文刺青，然後再向其他新加入的應募者展示。其餘所有人，除了顯得錯愕與困惑的非欲肉教女性、以及一名疊手皺眉的輔路她之外，都開始大笑。 
+
+**[2:40]: 輔路她甲：** 喔……喔，__哇__。[繼續大笑] 獄卒看來還真在試新東西呢？莎阿恩，是__你__給他們寫這個的嗎？
+
+**[2:40]: 輔路她乙：** 我不知道啊！[舉手掩住雙眼，繼續大笑] 不過的確像是我會做的事，對吧？可能就是因為這樣，上次他們抓住我那時，才會留我這麼久吧。
+
+**[2:40]: 輔路她丙：** 這下是可以視為與敵人__同謀__的。我希望這樣值得。
+
+**[2:40]: 輔路她甲：** 別這麼洩氣啦，享受一下也行吧！
+
+**[2:40]: 女子：** 請問……有沒有人可以告訴我那是甚麼意思？我不會讀孫訥薩蘭文。
+
+**[2:41]: 術士：** [抬起空出的手抹去一滴眼淚] 等我們確定沒人偷聽的時候再告訴你……我可從未料到會親眼看見這種事。[術士稍待片刻回復冷靜，笑完之後，就將索恩特工的頸部掐斷。片段中斷。]
+
+-----
+
+**［紀錄結束］**
+
+[[/div]]
+
+在這次滲透行動災難性的慘敗之後，卡斯提洛先生火冒三丈。他再向納餓卡還有新欲肉教背景的人們作了十幾次的訪談，這次不是給予報酬，而是對方一旦拒絕合作即以暴力威脅。這些測試也持續得到同樣的結果，那個詞也被一致釋讀為屬於受尊敬的人。這時，卡斯提洛先生終於意識到這個詞一定有甚麼奇怪之處，令讀者得以共謀欺騙。
+
+五個月後，計劃所需的資源終於得到分配。作為調查的一部分，可以讀寫孫訥薩蘭文的基金會員工獲准具名受訪。 
+
+[[div class="blockquote"]]
+
+**日期： 1998年4月12日** 
+
+**受訪者：** 埃維卡．科恩博士
+
+**採訪者：** 指揮官亞伯特．卡斯提洛
+
+-----
+
+**［紀錄開始］**
+
+卡斯提洛指揮官走入房間時，科恩博士面帶微笑。
+
+**卡斯提洛指揮官：** 我沒想到會有我__認識的__人肯上前來。[[span class="ruby"]]小埃[[span class="rt"]]Eve[[/span]][[/span]]，你最近可好嗎？
+
+**科恩博士：** 不錯……但是我叫過你別用那名字叫我了。[嘆一口氣，再作微笑] 但是……我們的能耐可比你想像的多得很。
+
+**卡斯提洛指揮官：** [將字紙擺到對方面前] 是嗎？那不如你告訴我們這__真正的__意思是甚麼如何？還是說我們要再在那__一堆__人裡抓人來問？
+
+[[div class="letterfull"]]
+++ 索恩特工的刺青
+@@@@
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.৳<>°
+[[/div]]
+[[/div]]
+[[/div]]
+
+**科恩博士：** [翻了白眼，乾笑一聲之後，低頭看向字紙。然後收回微笑，再抬頭以不能置信的表情望向卡斯提洛指揮官] 你派了……一個__特工__……進去__蛇紋龍會__……背上還紋著__這個__……？
+
+**卡斯提洛指揮官：** ……是。
+
+-----
+
+**［紀錄結束］**
+[[/div]]
+
+老實說，卡斯提洛先生在他的「研究」顯露出來的無能與急躁令我感到噁心。索恩特工是個活生生的人。他是一個好人，他相信基金會的使命，想讓世界變得更安全，就跟我們所有人一樣。他有家人，也有一個女朋友，我至今也還偶爾會找他聊天。如果卡斯提洛先生肯再多等六個月，索恩特工就不用死得這麼不必要而還要同時遭受這樣的奇恥大辱。
+
+除了那個代表「衣物」的字符之外，還有另外三個卡斯提洛先生沒能認得的符號。
+
+[[div class="wrapper"]]
+
+[[div class="lettertall"]]
+++ 奴役者
+++ //^^[[size 50%]]Enslaver[[/size]]^^//
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.<
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[div class="lettertall"]]
+++ 豬
+++ //^^[[size 50%]]Pig[[/size]]^^//
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.>
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[div class="lettertall"]]
+++ 交媾者
+++ //^^[[size 50%]]One Who Copulates[[/size]]^^//
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.°
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[/div]]
+
+PoI-83721交給卡斯提洛先生的大複合字是由兩個比較小的複合字組成。
+
+[[div class="wrapper"]]
+
+[[div class="lettertwonotedtall"]]
++++ SCP基金會[[footnote]]這一詞卻主要是反對基金會作為的人所用的。在流通於納餓卡社群的宣傳之中，則必定會較偏好用「[[span class="pilesaranText"]].৳૱[[/span]]」。[[/footnote]]
+++ //^^[[size 50%]]The SCP Foundation[[/size]]^^//
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.৳<
+[[/div]]
+[[/div]]
+//[[size 40%]]「斗篷」「奴役者」[[/size]]//
+[[/div]]
+
+[[div class="lettertwonotedtall"]]
+++ 肏豬的[[footnote]]這個短語可以溯及不死帝國的時期，更甚至在瓦科薩蘭典籍的其中一段故事之中，為首徒莎阿恩所用，用法就和PoI-83721當時差不多。這詞語雖然更常用作如同「肏他媽的」或「混帳」之類的侮辱詞，但是在CLM刺青，也__廣泛__用作暗示帶有刺青者實際上不知道那一詞的意思，也因此不能信任。[[/footnote]]
+++ //^^[[size 50%]]Pigfucker[[/size]]^^//
+[[div class="pilesaran"]]
+[[div class="verticalrotate"]]
+.>°
+[[/div]]
+[[/div]]
+//[[size 40%]]「豬」「交媾者」[[/size]]//
+[[/div]]
+[[/div]]
+
+當孫訥薩蘭文或是彼列薩蘭文刻印在一個人的身上，就會被認定為那個人對自己__身份__的宣言。
+
+這個CLM刺青給出來的身份宣言就是「我是SCP基金會的特工，我肏豬，而我不知道這些字的意思」。
+
+一看見這個孫訥薩蘭字，被問到它紋在一個人的身上時是甚麼意思，每一個讀得懂的人都自然地__立刻__明白PoI-83721想做甚麼。
+
+-----
+
+在紀律聆訊中，卡斯提洛先生一直重覆說經過這一場他看成是一個不能預見且不能解釋的無言默契，自己有多麼__震驚__。這些人當中，沒有一個見過其他的人。這些人當中，沒有一個來自同一個群體。這些人當中，沒有一個抱持同樣的信念或是習俗。這些人當中，大部分人甚至是說不同的__語言__。儘管如此，他們每一個人，即使受到威脅，也毫不例外地可以對其他同伴忠誠到能夠保持默契。
+
+但是我所能想到的是……那不是__忠誠__使然。如果我沒有受僱於基金會，或是在近似情形下被一個不信任的人問到這樣的問題，我也確定自己會跟著PoI-83721的計劃去走。那也不會令我、或是卡斯提洛先生訪談的人們，因此變得對他或是他的理念__效忠__。
+
+他們會這樣做，原因也跟卡斯提洛先生縱使在聽過了很多人叫他去__耐心等待__，都還是推進了計劃一樣。
+
+世界各地的納餓卡社群各自在整體上沒有太多共通點，納餓卡人和新欲肉教群之間的共通點就更少了。但是在他們所有人當中，不論東西南北，活在俄羅斯凍土與世隔絕，還是住在紐約大都會混跡鬧市，也和我們所有人有一個共通的特徵。這特徵也就是納餓卡在彼列薩蘭文和孫訥薩蘭文原本研發用以書寫的語言早被遺棄之後，至今都還在用著這兩套文字的緣故。
+
+那也是我、我的丈夫和他猶太的祖輩都共同擁有的同一個特徵。這特徵也是少數宗教和文化一直被死亡脅迫著與主流同化，直到他們偉大的文明陷落過後，卻還得以存續千百年的緣故。這特徵也同時推動了女性普選權利、民權運動、LGBTQ的解放運動，也弔詭地成為了它們應當存在的理由。這特徵也是基金會無論力保人類安全的使命有多大的困難，都永不放棄的緣故。這特徵也是我的女兒滿臉都是巧克力都還要向我誣告他弟弟偷糖果的原因。
+
+我們，和每一個人類一樣，都是__固執的__。
+
+你那位就算明知你不應該在這裡，都還堅持要留你們在課堂裡的指揮官可能是世上最不可多得的人。他可能體魄壯健、身心堅強，或是令你感到像一家人。他也可能完全相信我因為被自己的包袱蒙蔽的理想而變得浮誇濫情。
+
+但他並不是被用槍指著腦袋的那個人。 
+
+我們——__基金會__——必須確保我們每一個人都有的這份固執是會帶我們前進，而不是帶我們送死。
+
+[[footnoteblock]]
+
+[[include :scp-zh-tr:component:license-box
+|lang=EN
+|author=IronShears及Guaire]]
+
+
+> **檔案名稱：** Pilesaran-Regular.ttf
+> **檔案作者：** IronShears
+> **檔案授權：** CC-BY-SA 3.0
+> **來源連結：** The CSS file of this page
+> **檔案備註：** 該字體以[https://www.calligraphr.com/en/ Calligraphr]及[https://fontforge.org/en-US/ FontForge]製成
+
+> **圖檔名稱：** wormtattoopainting.png
+> **圖像作者：** IIsidore Pils(1836)
+> **圖像授權：** 公有領域
+> **圖源連結：** https://commons.wikimedia.org/wiki/File:Isidore_Pils_-_Study_of_a_Reclining_Nude_-_1939.63_-_Cleveland_Museum_of_Art.tif
+> **圖像備註：** 經過Ironshears編輯
+
+> **圖檔名稱：** Hookworm_filariform_A.jpg
+> **圖像作者：** Fernandolive
+> **圖像授權：** 公有領域
+> **圖源連結：** https://commons.wikimedia.org/wiki/File:Hookworm_filariform_A.jpg
+
+> **圖檔名稱：** shoulderworms.png
+> **圖像作者：** Elements Of This World
+> **圖像授權：** CC-BY 2.0
+> **圖源連結：** https://commons.wikimedia.org/wiki/File:Adult_female_bending_downwards_in_a_shower.png
+> **圖像備註：** 經過Ironshears編輯
+
+> **圖檔名稱：** adytitestele.png
+> **圖像作者：** Ángel M. Felicísimo
+> **圖像授權：** CC-BY 2.0
+> **圖源連結：** https://www.flickr.com/photos/elgolem/29350234441/
+> **圖像備註：** 經過Ironshears編輯
+
+[[include :scp-zh-tr:component:license-box-end]]
