@@ -206,7 +206,7 @@
 || [[span class="ruby"]]藝術異常部[[span class="rt"]]Department of Artistic Anomalies[[/span]][[/span]] || [[[SCP-3688]]] || 研究音樂、舞蹈與視覺藝術相關的異常 || N/A ||
 || [[span class="ruby"]]天體物理學部[[span class="rt"]]Department of Astrophysics[[/span]][[/span]] || [[[SCP-5612]]] || 研究天體相關的物理學。 || N/A ||
 || [[span class="ruby"]]群鳥部[[span class="rt"]]Avian Division[[/span]][[/span]] || [[[bird |Team Bird Series]]] || 以另一角度實現基金會的目標。僅由效力於基金會的[[[SCP-3095]]]-1實體聘用與編制。  || N/A ||
-|| [[span class="ruby"]]化學部[[span class="rt"]]Department of Chemistry[[/span]][[/span]] || [[[SCP-118]]] || 研究化學異常 || 見**冶金研究部** ||
+|| [[span class="ruby"]]化學部[[span class="rt"]]Department of Chemistry[[/span]][[/span]] || [[[scp-118]]] || 研究化學異常 || 見**冶金研究部** ||
 || [[span class="ruby"]]認知危害部[[span class="rt"]]Department of Cognitohazards[[/span]][[/span]] || [[[wjs-proposal |WJS的提案]]] || 審查模因危害之認知危害影響 || 見**逆模因部**以及**模因部** ||
 || [[span class="ruby"]]匯要會微徵調查部[[span class="rt"]]Compendium Phenomic Inquiry[[/span]][[/span]] || [[[SCP-6001]]] || 匯要會的部門之一，負責調查科學異聞的科學專家小組 || N/A ||
 || [[span class="ruby"]]計算辦公處[[span class="rt"]]Computus Desk[[/span]][[/span]] || [[[SCP-1844]]] || 進行神學異常現象相關的演算 || N/A ||
