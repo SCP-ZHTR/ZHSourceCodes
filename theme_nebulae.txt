@@ -1,0 +1,1416 @@
+[[module css]]
+@import url("https://scp-jp.wdfiles.com/local--code/theme%3Anebulae/2")
+[[/module]]
+[[include :scp-jp:component:interwiki-style
+| priority=1
+| theme= https://scp-jp.wdfiles.com/local--code/theme%3Anebulae/2
+]]
+
+[[iftags +外觀主題]]
+[[include :scp-jp:credit:start-preview]]
+**標題：** [http://scp-jp.wikidot.com/theme:nebulae/offset/1/ngc3372_limit/1 星雲主題]
+**作者：** [[*user nebula2700]]
+**創作年份：** 2024
+**搬運：** [[*user Dr V Valentine]]
+**搬運年份：** 2025
+[[include :scp-jp:credit:end-preview]]
+
+[!-- 礁湖星雲 --]
+
+[[module ListPages offset="@URL|0" range="."]]
+
+= [[size 150%]]當前的星雲是[[span style="color:rgb(var(--nebula-hue)); font-weight:bold;"]]礁湖星雲[[/span]]。[[/size]]
+> = @@[[include :scp-zh-tr:theme:nebulae]]@@
+= 切換星雲：
+= | [[a href="/theme:nebulae/offset/1/ngc7000_limit/1" style="color:rgb(30,181,232); font-weight:bold;"]]北美洲星雲[[/a]] | [[a href="/theme:nebulae/offset/1/ngc3372_limit/1" style="color:rgb(184,32,60); font-weight:bold;"]]船底座星雲[[/a]] |
+= | [[a href="/theme:nebulae/offset/1/ngc0_limit/1" style="color:rgb(92, 222, 236); font-weight:bold;"]]仰望星空[[/a]] |
+@@ @@
+
+[[%%content{0}%%include :scp-jp:component:theme-squares -=-
+| color1-name=Lagoon
+| color1-variable=--nebula-hue
+| color1-info=(255, 248, 220)
+| color2-name=Neutron Star
+| color2-variable=--neutron-white
+| color2-info=(249, 255, 255)
+| subcolor1-name=Icy Blue
+| subcolor1-variable=--cold-space
+| subcolor1-info=(92, 222, 236)
+| subcolor2-name=Lonely Blue
+| subcolor2-variable=--satellite-tone
+| subcolor2-info=(44, 123, 149)
+| subcolor2-has-light-text=1
+| subcolor3-name=Empty Black
+| subcolor3-variable=--dark-void
+| subcolor3-info=(28, 28, 30)
+| subcolor3-has-light-text=1
+]]
+[[%%content{0}%%include :scp-jp:component:theme-squares -=-
+| subcolor4-name=Cosmic Black
+| subcolor4-variable=--outer-space
+| subcolor4-info=(22, 23, 33)
+| subcolor4-has-light-text=1
+]]
+[[/module]]
+
+[!-- 北美洲星雲 --]
+
+[[module ListPages limit="@URL|0" range="." urlAttrPrefix="ngc7000"]]
+
+= [[size 150%]]當前的星雲是[[span style="color:rgb(var(--nebula-hue)); font-weight:bold;"]]北美洲星雲[[/span]]。[[/size]]
+> = @@[[include :scp-zh-tr:theme:nebulae ngc7000=a]]@@
+= 切換星雲：
+= | [[a href="/theme:nebulae" style="color:rgb(255, 248, 220); font-weight:bold;"]]礁湖星雲[[/a]] | [[a href="/theme:nebulae/offset/1/ngc3372_limit/1" style="color:rgb(184,32,60); font-weight:bold;"]]船底座星雲[[/a]] |
+= | [[a href="/theme:nebulae/offset/1/ngc0_limit/1" style="color:rgb(92, 222, 236); font-weight:bold;"]]仰望星空[[/a]] |
+
+@@ @@
+
+[[%%content{0}%%module css]]
+:root {
+    --header-image: url("https://scp-jp-storage.wdfiles.com/local--files/file%3A8260379-50-bfp5/ngc7000.jpeg");
+    --nebula-hue: 30,181,232;
+}
+[[%%content{0}%%/module]]
+
+[[%%content{0}%%include :scp-jp:component:theme-squares -=-
+| color1-name=North America
+| color1-variable=--nebula-hue
+| color1-info=(30,181,232)
+| color2-name=Neutron Star
+| color2-variable=--neutron-white
+| color2-info=(249, 255, 255)
+| subcolor1-name=Icy Blue
+| subcolor1-variable=--cold-space
+| subcolor1-info=(92, 222, 236)
+| subcolor2-name=Lonely Blue
+| subcolor2-variable=--satellite-tone
+| subcolor2-info=(44, 123, 149)
+| subcolor2-has-light-text=1
+| subcolor3-name=Empty Black
+| subcolor3-variable=--dark-void
+| subcolor3-info=(28, 28, 30)
+| subcolor3-has-light-text=1
+]]
+[[%%content{0}%%include :scp-jp:component:theme-squares -=-
+| subcolor4-name=Cosmic Black
+| subcolor4-variable=--outer-space
+| subcolor4-info=(22, 23, 33)
+| subcolor4-has-light-text=1
+]]
+[[/module]]
+
+[!-- 船底座η星 --]
+
+[[module ListPages limit="@URL|0" range="." urlAttrPrefix="ngc3372"]]
+
+= [[size 150%]]當前的星雲是[[span style="color:rgb(var(--nebula-hue)); font-weight:bold;"]]船底座星雲[[/span]]。[[/size]]
+> = @@[[include :scp-zh-tr:theme:nebulae ngc3372=a]]@@
+= 切換星雲:
+= | [[a href="/theme:nebulae" style="color:rgb(255, 248, 220); font-weight:bold;"]]礁湖星雲[[/a]] | [[a href="/theme:nebulae/offset/1/ngc7000_limit/1" style="color:rgb(30,181,232); font-weight:bold;"]]北美洲星雲[[/a]] |
+= | [[a href="/theme:nebulae/offset/1/ngc0_limit/1" style="color:rgb(92, 222, 236); font-weight:bold;"]]仰望星空[[/a]] |  
+
+@@ @@
+
+[[%%content{0}%%module css]]
+:root {
+    --header-image: url("https://scp-jp-storage.wdfiles.com/local--files/file%3A8260379-62-6krm/ngc3372.jpeg");
+    --nebula-hue: 184,32,60;
+}
+[[%%content{0}%%/module]]
+
+[[%%content{0}%%include :scp-jp:component:theme-squares -=-
+| color1-name=Eta Carinae
+| color1-variable=--nebula-hue
+| color1-info=(184,32,60)
+| color2-name=Neutron Star
+| color2-variable=--neutron-white
+| color2-info=(249, 255, 255)
+| subcolor1-name=Icy Blue
+| subcolor1-variable=--cold-space
+| subcolor1-info=(92, 222, 236)
+| subcolor2-name=Lonely Blue
+| subcolor2-variable=--satellite-tone
+| subcolor2-info=(44, 123, 149)
+| subcolor2-has-light-text=1
+| subcolor3-name=Empty Black
+| subcolor3-variable=--dark-void
+| subcolor3-info=(28, 28, 30)
+| subcolor3-has-light-text=1
+]]
+[[%%content{0}%%include :scp-jp:component:theme-squares -=-
+| subcolor4-name=Cosmic Black
+| subcolor4-variable=--outer-space
+| subcolor4-info=(22, 23, 33)
+| subcolor4-has-light-text=1
+]]
+[[/module]]
+
+[!-- 宇宙 --]
+
+[[module ListPages limit="@URL|0" range="." urlAttrPrefix="ngc0"]]
+
+= [[size 150%]]當前星空是[[span style="color:rgb(var(--nebula-hue)); font-weight:bold;"]]宇宙[[/span]]。[[/size]]
+> = @@[[include :scp-zh-tr:theme:nebulae ngc0=a]]@@
+= 切換星雲:
+= | [[a href="/theme:nebulae" style="color:rgb(255, 248, 220); font-weight:bold;"]]礁湖星雲[[/a]] | [[a href="/theme:nebulae/offset/1/ngc7000_limit/1" style="color:rgb(30,181,232); font-weight:bold;"]]北美洲星雲[[/a]] | [[a href="/theme:nebulae/offset/1/ngc3372_limit/1" style="color:rgb(184,32,60); font-weight:bold;"]]船底座星雲[[/a]] |
+
+@@ @@
+
+[[%%content{0}%%module css]]
+:root {
+    --header-image: url("https://scp-jp-storage.wdfiles.com/local--files/file%3A8260379-52-94qo/ngc0.jpeg");
+    --nebula-hue: var(--cold-space);
+}
+
+#extra-div-2 {
+    background-color: rgb(var(--outer-space));
+}
+
+#extra-div-1::before, #extra-div-1::after {
+    background-image: none;
+}
+
+#extra-div-1 span {
+    background-color: rgb(var(--outer-space), 67.5%);
+}
+
+#top-bar ul li a {
+    color: rgb(var(--neutron-white));
+}
+
+#license-area {
+    order: 4;
+    position: relative;
+    isolation: isolate;
+    padding: 0.5rem;
+    font-size: 0.75rem;
+    color: rgb(var(--neutron-white));
+    background-color: rgb(var(--outer-space));
+}
+[[%%content{0}%%/module]]
+
+[[%%content{0}%%include :scp-jp:component:theme-squares -=-
+| color1-name=Cosmos
+| color1-variable=--nebula-hue
+| color1-info=(92, 222, 236)
+| color2-name=Neutron Star
+| color2-variable=--neutron-white
+| color2-info=(249, 255, 255)
+| subcolor1-name=Icy Blue
+| subcolor1-variable=--cold-space
+| subcolor1-info=(92, 222, 236)
+| subcolor2-name=Lonely Blue
+| subcolor2-variable=--satellite-tone
+| subcolor2-info=(44, 123, 149)
+| subcolor2-has-light-text=1
+| subcolor3-name=Empty Black
+| subcolor3-variable=--dark-void
+| subcolor3-info=(28, 28, 30)
+| subcolor3-has-light-text=1
+]]
+[[%%content{0}%%include :scp-jp:component:theme-squares -=-
+| subcolor4-name=Cosmic Black
+| subcolor4-variable=--outer-space
+| subcolor4-info=(22, 23, 33)
+| subcolor4-has-light-text=1
+]]
+[[/module]]
+
+-----
+
++* 範例
+
+[[include :scp-jp:component:image-block
+|name= https://scp-jp-storage.wdfiles.com/local--files/file%3A8260379-51-o3mm/sample-nebula.jpeg
+|caption= 神秘。
+]]
+
+「分隔線可以使用五個連字符「@@-----@@」來創建，如果沒有放置在某個內部區域（例如：引用框）中，則會應用於整個頁面。此文件中用來區分章節的橫線即為分隔線。」
+
+-----
+
+標題字體可以通過在行的開頭放置1到6個「+」符號來創建
+
+[[collapsible show="▶︎ 標題" hide="▼ 關閉"]]
++ 一級標題
+
+++ 二級標題
+
++++ 三級標題
+
+++++ 四級標題
+
++++++ 五級標題
+
+++++++ 六級標題
+[[/collapsible]]
+
+@@ @@
+
+[[tabview]]
+[[tab 建立標籤]]
+這是標籤。[[footnote]] 這是註腳。 [[/footnote]]
+[[/tab]]
+[[tab 標籤已建立]]
+請看，這裡也有文字。
+
+真是奇妙。
+[[/tab]]
+[[tab 長標籤]]
+這是長標籤。裡面有很多文字。
+
+這是長標籤。裡面有很多文字。
+
+這是長標籤。裡面有很多文字。
+
+這是長標籤。裡面有很多文字。
+
+這是長標籤。裡面有很多文字。
+
+這是長標籤。裡面有很多文字。
+
+這是長標籤。裡面有很多文字。
+
+這是長標籤。裡面有很多文字。
+
+這是長標籤。裡面有很多文字。
+
+這是長標籤。裡面有很多文字。
+
+這是長標籤。裡面有很多文字。
+
+這是長標籤。裡面有很多文字。
+[[/tab]]
+[[tab 空標籤]]
+[[/tab]]
+[[tab 空標籤]]
+[[/tab]]
+[[tab 空標籤]]
+[[/tab]]
+[[tab 空標籤]]
+[[/tab]]
+[[tab 空標籤]]
+[[/tab]]
+[[tab 空標籤]]
+真的很空。就像//不存在//一樣。
+[[/tab]]
+[[/tabview]]
+
+> 這是引用區塊。通過在每行的開頭加上半角「> 」來創建。
+>
+> 追加的文字
+> -----
+> 這是一個分隔線
+>
+>> 引用框的疊加
+
+||~ 這是 ||~ 表格 ||
+||已經 || 做法應該 ||
+||||知道了吧 ||
+
+-----
+
++* 星雲切換
+> = [[a href="/theme:nebulae" style="color:rgb(255,248,220); font-weight:bold; font-size:140%;"]]礁湖星雲 (預設)[[/a]]
+>> = @@[[include :scp-zh-tr:theme:nebulae]]@@
+> [[=image https://scp-jp-storage.wdfiles.com/local--files/file%3A8260379-63-sgxf/scp-jp.wikidot.com_theme_nebulae.png]]
+
+@@ @@
+
+> = [[a href="/theme:nebulae/offset/1/ngc7000_limit/1" style="color:rgb(30,181,232); font-weight:bold; font-size:140%;"]]北美洲星雲[[/a]]
+>> = @@[[include :scp-zh-tr:theme:nebulae ngc7000=a]]@@
+> [[=image https://scp-jp-storage.wdfiles.com/local--files/file%3A8260379-63-uil0/sample-north-america.png]]
+
+@@ @@
+
+> = [[a href="/theme:nebulae/offset/1/ngc3372_limit/1" style="color:rgb(184,32,60); font-weight:bold; font-size:140%;"]]船底座星雲[[/a]]
+>> = @@[[include :scp-zh-tr:theme:nebulae ngc3372=a]]@@
+> [[=image https://scp-jp-storage.wdfiles.com/local--files/file%3A8260379-64-nlsn/sample-eta-carinae.png]]
+
+@@ @@
+
+> = [[a href="/theme:nebulae/offset/1/ngc0_limit/1" style="color:rgb(92, 222, 236); font-weight:bold; font-size:140%;"]]宇宙[[/a]]
+>> = @@[[include :scp-zh-tr:theme:nebulae ngc0=a]]@@
+> [[=image https://scp-jp-storage.wdfiles.com/local--files/file%3A8260379-65-hvee/sample-cosmos.pngsample-cosmos.png]]
+
+@@ @@
+
+++* 你創建的星雲
+你可以自由更改標頭和頁尾的圖片、主題顏色，只需在{{[[include]]}}後添加以下代碼。
+顏色變數是RGB格式。
+
+
+**##fff8dc|礁湖星雲##的代碼:**
+[[code type="css"]]
+:root {
+    --header-image: url("https://scp-jp-storage.wdfiles.com/local--files/file%3A8260379-49-exwy/ngc6523.jpeg");
+ 
+    --nebula-hue: 255,248,220;
+    --neutron-white: 249,255,255;
+    --cold-space: 92,222,236;
+    --satellite-tone: 44,123,149;
+    --dark-void: 32,34,33;
+    --outer-space: 22,23,33;
+}
+[[/code]]
+@@ @@
+
++* 代碼
+[[collapsible show="▶ 顯示代碼" hide="▼ 隱藏代碼"]]
+[[code type="css"]]
+/*
+    星雲主題
+    [2024 Wikidot 主題]
+    由 nebula2700 提供
+    基於：
+    Oceanbound 主題，由 EstrellaYoshte 所設計
+*/
+ 
+@import url('https://fonts.googleapis.com/css2?family=BIZ+UDMincho:wght@700&family=Cute+Font&family=Kreon:wght@300..700&family=Space+Grotesk:wght@552&family=Train+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=BIZ+UDMincho:wght@700&family=Cute+Font&family=Kreon:wght@300..700&family=Noto+Serif+JP:wght@900&family=Space+Grotesk:wght@552&family=Train+One&display=swap');
+ 
+:root {
+    --header-font: 'Noto Serif JP', serif;
+    --UI-font: 'Space Grotesk', 'Nanum Gothic', sans-serif;
+    --mono-font: 'Space Mono', 'Nanum Gothic Coding', monospace;
+    --body-font: 'Inter', 'Arial', sans-serif;
+ 
+    --side-bar-width: 14.5rem;
+    --header-height: 14.25rem;
+    --top-bar-height: 2.75rem;
+    --header-image: url("https://scp-jp-storage.wdfiles.com/local--files/file%3A8260379-49-exwy/ngc6523.jpeg");
+ 
+    --nebula-hue: 255,248,220;
+    --neutron-white: 249,255,255;
+    --cold-space: 92,222,236;
+    --satellite-tone: 44,123,149;
+    --dark-void: 32,34,33;
+    --outer-space: 22,23,33;
+ 
+    --search-mask: url("data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20512%20512%22%3E%3Cpath%20fill%3D%22%23ddd%22%20d%3D%22M505%20442.7L405.3%20343c-4.5-4.5-10.6-7-17-7H372c27.6-35.3%2044-79.7%2044-128C416%2093.1%20322.9%200%20208%200S0%2093.1%200%20208s93.1%20208%20208%20208c48.3%200%2092.7-16.4%20128-44v16.3c0%206.4%202.5%2012.5%207%2017l99.7%2099.7c9.4%209.4%2024.6%209.4%2033.9%200l28.3-28.3c9.4-9.4%209.4-24.6.1-34zM208%20336c-70.7%200-128-57.2-128-128%200-70.7%2057.2-128%20128-128%2070.7%200%20128%2057.2%20128%20128%200%2070.7-57.2%20128-128%20128z%22%2F%3E%3C%2Fsvg%3E");
+}
+ 
+body, li, p {
+    line-height: 1.5;
+}
+ 
+body {
+    font-family: var(--body-font);
+    color: rgb(var(--neutron-white));
+    background-color: rgb(var(--outer-space));
+    font-size: 0.925rem;
+}
+ 
+::selection {
+    background-color: rgb(var(--satellite-tone),0.875);
+    color: rgb(var(--outer-space));
+}
+ 
+/*-------------------------------------*/
+/*-------------標頭---------------*/
+/*-------------------------------------*/
+ 
+div#container-wrap, #header { background: none; }
+#header h1 a, #header h2 span {
+    color: transparent;
+    text-shadow: none;
+    user-select: none;
+}
+ 
+#header {
+    height: calc(var(--header-height) + var(--top-bar-height));
+    padding: 0;
+}
+#extra-div-1 {
+    position: absolute;
+    top: 0; left: 0;
+    width: 100%;
+    height: calc(var(--header-height) + var(--top-bar-height));
+    background-image: var(--header-image);
+    background-size: cover;
+    background-position: right center;
+    overflow: hidden;
+    isolation: isolate;
+    border-bottom-right-radius: min(calc(1.5rem + 4vw), 7.5rem);
+}
+#extra-div-2 {
+    width: min(calc(1.5rem + 4vw), 7.5rem);
+    aspect-ratio: 1;
+    position: absolute;
+    top: calc(var(--header-height) + var(--top-bar-height));
+    left: 0;
+    background-color: rgb(var(--nebula-hue));
+    z-index: -1;
+}
+#extra-div-2::before {
+    content: "";
+    position: absolute;
+    top: 0; left: 0;
+    width: 102%; height: 102%;
+    background-color: rgb(var(--outer-space));
+    border-top-left-radius: min(calc(1.5rem + 4vw), 7.5rem);
+}
+ 
+#extra-div-1::before, #extra-div-1::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: min(36rem, 100%);
+    height: 100%;
+    background-image: linear-gradient(90deg, rgb(var(--nebula-hue)) 12.5%, transparent);
+}
+#extra-div-1::after {
+    background-image: var(--title-image);
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: calc(100% - var(--top-bar-height)/1.5);
+}
+#header h1 {
+    float: none; margin: 0; max-height: unset;
+    position: absolute;
+    top: 0; left: 0;
+    display: block;
+    width: min(26rem, 100%);
+    height: calc(100% - var(--top-bar-height));
+}
+#header h1 a {
+    width: 100%;
+    height: 100%;
+    padding: 0;
+    max-height: unset;
+}
+ 
+#extra-div-1 span {
+    position: absolute;
+    top: var(--header-height); left: 0;
+    width: 100%;
+    height: var(--top-bar-height);
+    background-color: rgb(var(--nebula-hue), 67.5%);
+    -webkit-backdrop-filter: blur(0.125rem);
+    backdrop-filter: blur(0.125rem);
+}
+ 
+#top-bar {
+    top: var(--header-height);
+    right: 0;
+    height: var(--top-bar-height);
+    line-height: var(--top-bar-height);
+    font-family: var(--UI-font);
+}
+#top-bar div[class*="top-bar"] > ul > li > ul {
+    border: none;
+    min-width: max-content;
+    box-shadow: none;
+}
+#top-bar div[class*="top-bar"] > ul > li > a {
+    font-size: 0.825em;
+    font-weight: normal;
+    text-transform: uppercase;
+    letter-spacing: 0.115ch;
+    border: none;
+}
+#top-bar ul li a {
+    color: rgb(var(--outer-space));
+    padding: var(--top-bar-height) 12px;
+    padding-top: 0;
+    height: var(--top-bar-height);
+    line-height: var(--top-bar-height);
+}
+#top-bar div[class*="top-bar"] > ul > li.sfhover > a,
+#top-bar div[class*="top-bar"] ul li:hover a:hover {
+    background-color: rgb(var(--cold-space));
+    color: rgb(var(--outer-space));
+}
+#top-bar ul li ul li a, #top-bar ul li.sfhover ul li a, #top-bar ul li:hover ul li a {
+    border-top: none;
+    box-sizing: border-box;
+    min-width: auto;
+    padding: 0.475em;
+    color: rgb(var(--cold-space));
+    background-color: rgb(var(--outer-space) / 0.1);
+
+}
+#top-bar :is(.top-bar, .mobile-top-bar) ul li ul {
+    border: none;
+    box-shadow: none;
+    -webkit-backdrop-filter: blur(0.125rem);
+    backdrop-filter: blur(0.125rem);
+}
+#top-bar :is(.top-bar, .mobile-top-bar) ul li ul li a {
+    padding: 0.5em 0.675em;
+    text-align: center;
+    font-weight: bold;
+}
+ 
+/* 行動裝置頂部欄 */
+
+#top-bar div[class*="top-bar"] > ul > li {
+    position: static;
+}
+#top-bar :is(.top-bar, .mobile-top-bar) ul li ul li a {
+    padding: 0.75em 0.675em;
+}
+#top-bar .mobile-top-bar {
+    left: 0;
+    width: 100%;
+}
+#top-bar .mobile-top-bar > ul {
+    float: none;
+    display: flex;
+    justify-content: center;
+    border: none;
+}
+#top-bar .mobile-top-bar > ul > li {
+    flex-grow: 1;
+}
+
+/*-------------搜尋和WikiID---------------*/
+div#search-top-box {
+    top: 18.5px;
+    width: 100%;
+    right: 70px
+}
+ 
+div#search-top-box form {
+    display: flex;
+    justify-content: flex-end
+}
+ 
+div#search-top-box form input[type="text"],
+div#search-top-box form input[type="text"]:hover {
+    background-color: rgb(var(--dark-void)) !important;
+    display: inline-block;
+    height: 1.1rem;
+    width: 8rem;
+    transition: width .25s;
+    outline: none;
+    filter: brightness(120%);
+}
+ 
+_::-webkit-full-page-media,
+_:future,
+:root div#search-top-box form input[type="text"] {
+    font-size: 16px;
+}
+ 
+div#search-top-box form input[type="text"]:not(:focus),
+div#search-top-box form input[type="text"]:not(:focus):not(:hover) {
+    background-color: rgb(var(--dark-void)) !important;
+    color: transparent;
+    cursor: pointer;
+    display: inline-block;
+    width: 22px;
+    height: 22px;
+    box-sizing: border-box;
+    border: solid 1px rgb(var(--neutron-white));
+    border-radius: 50px;
+    box-shadow: none;
+    background-position: center;
+    background-size: 55%;
+    background-repeat: no-repeat;
+    background-image: var(--search-mask);
+}
+ 
+div#search-top-box form input[type="submit"] {
+    display: none;
+}
+ 
+#search-top-box-input {
+    border-radius: 5px;
+}
+ 
+#login-status {
+    top: 2px;
+}
+ 
+#login-status {
+    display: flex;
+    flex-direction: column;
+    align-content: space-around;
+    font-size: 0;
+}
+ 
+#login-status .printuser {
+    margin: 0;
+    background-color: none;
+    position: absolute;
+    top: 13px;
+    right: 0px;
+    width: 28px;
+    padding: 0;
+}
+ 
+#login-status .printuser img.small {
+    background: none !important;
+    margin: 0;
+    width: 28px;
+    height: 28px;
+    padding: 0;
+    border-radius: 100px;
+    box-shadow: 0 0 3px rgb(var(--dark-void));
+}
+ 
+#login-status [id] {
+    font-size: .72rem;
+}
+ 
+#login-status>a[href="javascript:;"] {
+    font-size: 0;
+    font-weight: bold;
+    margin: 0;
+    text-align: center;
+    text-decoration: none;
+    background: none;
+    width: 21.8px;
+    position: absolute;
+    top: 13px;
+    height: 21px;
+    right: 30px;
+    border: none;
+}
+ 
+#login-status>a[href="javascript:;"]:before {
+    display: inline-block;
+    font-family: FontAwesome;
+    font-size: 1.3rem;
+    margin: 4px 3px;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    transform: translate(0, 0);
+}
+ 
+#login-status #account-topbutton:before {
+    content: "\f013";
+    color: rgb(var(--neutron-white));
+    position:relative;
+    bottom: 5px;
+}
+ 
+#login-status .login-status-sign-in {
+    right: 35px !important;
+}
+ 
+#login-status .login-status-sign-in:before {
+    content: "\f13e";
+    color: rgb(var(--neutron-white));
+    position:relative !important;
+    bottom: 4.5px !important;
+}
+ 
+#login-status .login-status-create-account {
+    right: 11px !important;
+    margin: 0 0 .25rem;
+}
+ 
+div#login-status a.login-status-create-account {
+    right: 11px;
+}
+ 
+#login-status .login-status-create-account:before {
+    content: "\f067";
+    color: rgb(var(--neutron-white));
+    position:relative !important;
+    bottom: 4.5px !important;
+}
+ 
+#login-status #my-account {
+    display: none;
+}
+ 
+#login-status a strong {
+    position: absolute;
+    top: 0;
+    right: 2.25rem;
+    font-size: 1rem;
+}
+ 
+#login-status #account-topbutton:not(:focus):not(:focus-within):not(:hover):not(:active)+#account-options {
+    display: none !important;
+}
+ 
+#header #login-status #account-topbutton+#account-options:focus,
+#header #login-status #account-topbutton+#account-options:focus-within,
+#header #login-status #account-topbutton+#account-options:hover,
+#header #login-status #account-topbutton+#account-options:active {
+    display: block !important;
+}
+ 
+#account-options ul {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+ 
+#account-options ul>li {
+    flex-grow: 1;
+    text-align: center;
+    width: 40%;
+}
+ 
+#account-options ul>li a {
+    transition: all .25s ease-in-out;
+}
+ 
+#account-options ul>li a:hover {
+    background-color: rgb(var(--outer-space));
+    color: rgb(var(--neutron-white));
+    text-decoration: none;
+}
+ 
+#login-status ul a {
+    color: rgb(var(--outer-space));
+}
+
+ 
+/*-------------------------------------*/
+/*----------------佈局----------------*/
+/*-------------------------------------*/
+ 
+#container {
+    display: flex;
+    flex-direction: column;
+}
+ 
+#content-wrap {
+    width: 100%;
+    max-width: 68rem;
+    margin-top: 0;
+    display: grid;
+    grid-template-areas:
+        "deco deco"
+        "side main";
+    grid-template-rows: 3rem auto;
+    grid-template-columns: var(--side-bar-width) minmax(0, 1fr);
+    grid-gap: 1.125rem 2.5rem;
+    padding: 1.125rem 2.5em;
+    box-sizing: border-box;
+}
+ 
+#side-bar {
+    position: relative;
+    width: var(--side-bar-width);
+    top: 0; left: 0;
+    margin: 0;
+    grid-area: side;
+}
+ 
+#main-content {
+    margin: 0; padding: 0;
+    max-width: unset;
+    grid-area: main;
+}
+ 
+@media only screen and (max-width:768px) {
+    #content-wrap {
+        grid-template-areas:
+            "deco deco"
+            "main main";
+    }
+    #side-bar {
+        position: fixed;
+        left: calc(var(--side-bar-width)*-1.15);
+        overflow-x: hidden;
+    }
+    #side-bar, #side-bar:target {
+        border: none;
+        width: var(--side-bar-width);
+    }
+}
+ 
+/*--------------------------------------*/
+/*----------------側欄------------------*/
+/*--------------------------------------*/
+ 
+#side-bar {
+    box-sizing: border-box;
+}
+ 
+:is(#side-bar, #interwiki) a {
+    color: rgb(var(--cold-space));
+}
+ 
+:is(#side-bar, #interwiki) .side-block {
+    border: none;
+    box-shadow: none;
+    border-radius: 0;
+    background: rgb(var(--outer-space));
+    font-family: var(--UI-font);
+}
+#side-bar .side-block.media { background-color: rgb(var(--outer-space)); }
+#side-bar .side-block.resources { background-color: rgb(var(--dark-void)); }
+
+.side-block.sns, .side-block[style="background-color: #fff0f0;"], [style="background-color: #f0f0f0;"], [style="background-color: #a7dba2;"] {
+    background-color: rgb(var(--outer-space)) !important;
+}
+ 
+:is(#side-bar, #interwiki) .heading {
+    display: flex;
+    align-items: center;
+    column-gap: 0.125em;
+    color: rgb(var(--nebula-hue));
+    font-family: var(--header-font);
+    font-size: 1.125rem;
+    border-color: currentColor;
+    padding: 0;
+}
+
+@media only screen and (max-width:768px) {
+    #side-bar {
+        background-color: rgb(var(--outer-space));
+        padding: 0;
+    }
+    #side-bar .side-block { margin: 0; }
+}
+ 
+:is(#side-bar, #interwiki) .menu-item img {
+    display: none;
+}
+ 
+#top-bar .open-menu a {
+    border: solid 3px rgb(var(--nebula-hue)) !important;
+    color: rgb(var(--nebula-hue)) !important;
+    background-color: transparent
+!important;
+    border-radius: 0;
+    padding: 0.125rem;
+}
+ 
+/*--------------------------------------*/
+/* -------- 頁面元素 -------- */
+/*--------------------------------------*/
+ 
+#page-title, .meta-title {
+    display: flex;
+    align-items: center;
+    column-gap: 0.325rem;
+    color: rgb(var(--nebula-hue));
+    font-family: var(--header-font);
+    font-weight: bold;
+    font-size: 2em;
+    line-height: 1;
+    padding-bottom: 0;
+    border-bottom: none;
+    margin-bottom: 0.425em;
+}
+:is(#page-title, .meta-title)::after {
+    content: "";
+    display: block;
+    height: 0.1rem;
+    min-width: 2.5rem;
+    flex-grow: 1;
+    background: rgb(var(--nebula-hue));
+    order: 1;
+}
+
+textarea, input.text {
+    background-color: rgb(var(--outer-space));
+    color: inherit;
+}
+ 
+#lock-info {
+    font-family: var(--mono-font);
+    font-size: 0.825em;
+    border: none;
+    background-color: rgb(var(--dark-void));   
+}
+ 
+div.buttons input, input.button, button, a.button, .owindow .button-bar a {
+    font-family: var(--mono-font);
+    font-size: 0.925em;
+    margin: 0.125rem;
+    padding: 0.25rem 0.675rem;
+    text-decoration: none;
+    background-color: rgb(var(--outer-space) / 0.375);
+    border: solid 0.05rem rgb(var(--cold-space));
+    color: rgb(var(--cold-space));
+    cursor: pointer;
+}
+:is(div.buttons input, input.button, button, a.button, .owindow .button-bar a):is(:hover,:focus) {
+    color: rgb(var(--satellite-tone));
+    background-color: rgb(var(--outer-space) / 0.175);
+}
+ 
+.page-source, tt, .code pre, .code p, .code {
+    font-family: var(--mono-font);
+    color: rgb(var(--neutron-white)) !important;
+}
+ 
+a:any-link:not(.newpage) {
+    color: rgb(var(--cold-space));
+}
+a:visited, :is(#side-bar,#interwiki) a:visited {
+    color: rgb(var(--satellite-tone));
+}
+ 
+h1,h2,h3,h4,h5,h6 {
+    font-family: var(--UI-font);
+    font-weight: bold;
+    color: rgb(var(--nebula-hue));
+}
+h1,h2 { line-height: 1.25; }
+h3,h4 { line-height: 1.325; }
+ 
+hr {
+    --hr-icon-size: 1.25rem;
+    background: rgb(var(--nebula-hue));
+}
+ 
+/*---- 評分模組 ----*/
+.page-rate-widget-box,
+:is(div,ul).creditRate {
+    margin-right: 0;
+}
+.page-rate-widget-box,
+div.rate-box-with-credit-button {
+    font-family: var(--UI-font);
+    box-shadow: none;
+    border: none;
+    border-radius: 0;
+}
+.page-rate-widget-box > span {
+    display: inline-block;
+}
+ 
+div.page-rate-widget-box :is(.rate-points,.rateup,.ratedown,.cancel) {
+    border-radius: 0;
+    border: none;
+    background-color: transparent;
+    color: rgb(var(--nebula-hue));
+}
+div.page-rate-widget-box span:is(.rate-points,.rateup,.ratedown,.cancel) a {
+    color: rgb(var(--nebula-hue)) !important;
+    margin-bottom: 3px;
+    border-radius: 0;
+    display: inline-block;
+    width: 2ex;
+    text-align: center;
+}
+:is(.page-rate-widget-box,.modalbox,#action-area) span:is(.rate-points,.rateup,.ratedown,.cancel) a {
+    padding-right: 0.75rem;
+}
+
+.page-rate-widget-box .cancel a {
+    margin-top: -1px;
+}
+div.page-rate-widget-box span:is(.rate-points,.rateup,.ratedown,.cancel) a:is(:hover,:focus) {
+    color: rgb(var(--cold-space)) !important;
+    background-color: transparent !important;
+}
+ 
+div.rate-box-with-credit-button .page-rate-widget-box {
+    border-bottom: none;
+}
+.creditRate .rateBox div.rate-box-with-credit-button p { display: contents; }
+div.rate-box-with-credit-button p a { border-left: none; }
+
+div.page-rate-widget-box, .creditButton {
+    box-shadow: none !important;
+}
+
+.creditRate:not(.no-rate) .rateBox, .modalbox .page-rate-widget-box, .creditRate.no-rate .fa-info {
+    border-bottom: solid 2px rgb(var(--nebula-hue)) !important;
+    background-color: transparent !important;
+}
+.creditRate.no-rate .fa-info {
+    padding-bottom: 4px;
+}
+
+div.creditButton p a {
+    border: none;
+    padding: 0;
+    color: rgb(var(--cold-space));
+}
+ 
+div.creditButton {
+    display: inline-block !important;
+    background: none !important;
+    border: none !important;
+    margin-left: 6px !important;
+    margin-bottom: -4px;
+}
+ 
+.creditButton a {
+    color: rgb(var(--nebula-hue)) !important;
+}
+ 
+.creditButton a:hover {
+    color: rgb(var(--cold-space)) !important;
+}
+ 
+div.modalbox {
+    color: rgb(var(--neutron-white));
+    background: rgb(var(--dark-void));
+    padding: 0.25rem 0.75rem;
+    border: none;
+    border-radius: 0;
+    box-shadow: none;
+}
+#u-credit-otherwise .modalbox {
+  background-color: rgb(var(--dark-void)) !important;
+}
+.modalbox hr {
+    margin: 0.25rem 0.875rem;
+}
+.modalbox > .credit {
+    margin: 0.5rem;
+}
+.modalbox .cc {
+    color: rgb(var(--nebula-hue)) !important;
+}
+.modalbox-title {
+    background: rgb(var(--dark-void)) !important;
+}
+ 
+/*---- 引用框 ----*/
+blockquote, div.blockquote {
+    background-color: rgb(var(--dark-void));
+    border: none;
+    border-inline-start: solid 0.25rem rgb(var(--nebula-hue));
+    padding: 0.25rem 1.125rem;
+}
+
+#toc {
+    background-color: rgb(var(--dark-void));
+    border: solid 0.15rem rgb(var(--nebula-hue));
+    padding: 0.25rem 1.125rem;
+}
+ 
+.code, .page-source {
+    border: none;
+    background-color: rgb(var(--dark-void));
+}
+
+.hl-code,
+.hl-default,
+.hl-brackets,
+.hl-quotes,
+.hl-string,
+.hl-identifier {
+    color: rgb(var(--neutron-white));
+}
+.hl-special {
+    color: rgb(var(--satellite-tone));
+}
+.hl-number {
+    color: rgb(var(--nebula-hue));
+}
+.hl-reserved {
+    color: rgb(var(--cold-space));
+}
+ 
+/*---- 圖片區塊 ----*/
+.scp-image-block {
+    border: none;
+    box-shadow: none;
+    background-color: rgb(var(--dark-void));
+    padding: 0.625em;
+    border-bottom: solid 0.1rem rgb(var(--nebula-hue));
+    box-sizing: border-box;
+}
+.scp-image-block.block-left { margin-left: 0; }
+.scp-image-block.block-right { margin-right: 0; }
+.scp-image-block .scp-image-caption {
+    border-top: none;
+    padding: 0.5em 0.25em 0;
+    box-sizing: border-box;
+    background-color: transparent;
+}
+ 
+/*---- FOOTNOTES ----*/
+bibitems .title, .footnotes-footer .title {
+    font-family: var(--UI-font);
+    font-size: 1.375em;
+}
+ 
+.hovertip {
+    background-color: rgb(var(--outer-space))!important;
+    border-color: rgb(var(--nebula-hue))!important;
+    padding: 0.25em 0.125em;
+}
+.hovertip .content .footnote .f-heading,
+.hovertip .content .reference .r-heading {
+    font-family: var(--UI-font);
+}
+ 
+/* ---- 標籤 ---- */
+ 
+/* ---- YUI TAB BASE ---- */
+.yui-navset .yui-nav a,.yui-navset .yui-navset-top .yui-nav a{background-color:inherit;background-image:inherit}.yui-navset .yui-nav a:hover,.yui-navset .yui-nav a:focus{background:inherit;text-decoration:inherit}.yui-navset .yui-nav .selected a,.yui-navset .yui-nav .selected a:focus,.yui-navset .yui-nav .selected a:hover{color:inherit;background:inherit}.yui-navset .yui-nav,.yui-navset .yui-navset-top .yui-nav{border-color:inherit}.yui-navset li{line-height:inherit}
+ 
+/* ---- YUI TAB CUSTOMIZATION ----*/
+ 
+.yui-navset { clear: both; }
+ 
+ .yui-navset .yui-nav,
+ .yui-navset .yui-navset-top .yui-nav{
+     display: flex;
+     flex-wrap: wrap;
+     margin: 0 auto;
+     font-family: var(--UI-font);
+     font-weight: bold;
+     border-bottom: solid 0.125rem rgb(var(--nebula-hue));
+     box-shadow: none;
+}
+ .yui-navset .yui-nav a, /* ---- Link Modifier ---- */
+ .yui-navset .yui-navset-top .yui-nav a{
+     color: rgb(var(--nebula-hue));
+    /* ---- Tab Background Colour | [UNSELECTED] ---- */
+     background-color: rgb(var(--dark-void));
+     border: unset;
+     box-shadow: none;
+     box-shadow: none;
+}
+ .yui-navset .yui-nav a:hover,
+ .yui-navset .yui-nav li:not(.selected) a:focus {
+     color: rgb(var(--outer-space));
+    /* ---- Tab Background Colour | [HOVER] ---- */
+     background-color: rgb(var(--cold-space));
+}
+ .yui-navset .yui-nav li, /* ---- Listitem Modifier ---- */
+ .yui-navset .yui-navset-top .yui-nav li{
+     position: relative;
+     display: flex;
+     flex-grow: 2;
+     max-width: 100%;
+     margin: 0;
+     padding: 0;
+     color: rgb(var(--outer-space));
+     background-color: rgb(var(--outer-space));
+     border-color: transparent;
+     box-shadow: none;
+}
+ .yui-navset .yui-nav li a,
+ .yui-navset-top .yui-nav li a,
+ .yui-navset-bottom .yui-nav li a{
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     width: 100%;
+}
+ .yui-navset .yui-nav li em{
+     border: unset;
+}
+ .yui-navset .yui-nav a em,
+ .yui-navset .yui-navset-top .yui-nav a em{
+     padding: .35em .75em;
+ 
+     text-overflow: ellipsis;
+     overflow: hidden;
+     white-space: nowrap;
+}
+ .yui-navset .yui-nav .selected, /* ---- Selection Modifier ---- */
+ .yui-navset .yui-navset-top .yui-nav .selected{
+     flex-grow: 2;
+     margin: 0;
+     padding: 0;
+    /* ---- Tab Background Colour | [SELECTED] ---- */
+     background-color: rgb(var(--nebula-hue));
+}
+ .yui-navset .yui-nav .selected a,
+ .yui-navset .yui-nav .selected a em{
+     border: none;
+}
+ .yui-navset .yui-nav .selected a{
+     width: 100%;
+     color: rgb(var(--outer-space));
+}
+ .yui-navset .yui-content {
+    background-color: rgb(var(--dark-void));
+}
+ .yui-navset .yui-content,
+ .yui-navset .yui-navset-top .yui-content{
+     padding: 0.25rem .625rem;
+     border: none;
+}
+ 
+/* ---- TABLE ---- */
+ 
+table.wiki-content-table td {
+    border-color: rgb(var(--nebula-hue));
+}
+table.wiki-content-table th {
+    border-color: rgb(var(--nebula-hue));
+    background-color: rgb(var(--nebula-hue));
+    color: rgb(var(--outer-space));
+}
+ 
+#page-content .licensebox a.collapsible-block-link {
+    color: rgb(var(--satellite-tone));
+}
+
+/* ---- Pop-Up ---- */
+.owindow {
+    background-color: rgb(var(--outer-space));
+    border-color: rgb(var(--nebula-hue));
+}
+ 
+.owindow .modal-header {
+    background-color: rgb(var(--outer-space));
+}
+ 
+.owindow .modal-body img {
+    background-color: transparent !important;
+}
+ 
+.owindow .title {
+    background-color: rgb(var(--dark-void));
+    color: rgb(var(--neutron-white));
+    border: none;
+}
+ 
+.owindow .modal-body a {
+    color: rgb(var(--nebula-hue));
+}
+
+.owindow .button-bar a {
+    background-color: rgb(var(--outer-space));
+    border-color: rgb(var(--nebula-hue));
+    color: rgb(var(--neutron-white));
+}
+.owindow .button-bar a:hover {
+    color: rgb(var(--nebula-hue));
+}
+ 
+/*--------------------------------------------*/
+/*-------------底部區域---------------*/
+/*--------------------------------------------*/
+ 
+#extrac-div-1 {
+    order: 2;
+    background-color: rgb(var(--cold-space));
+    height: min(calc(1.5rem + 4vw), 7.5rem);
+    border-top-left-radius: min(calc(1.5rem + 4vw), 7.5rem);
+    position: relative;
+}
+#extrac-div-1 span {
+    display: block;
+    width: min(calc(1.5rem + 4vw), 7.5rem);
+    aspect-ratio: 1;
+    position: absolute;
+    bottom: 100%;
+    right: 0;
+    background-color: inherit;
+    z-index: -1;
+}
+#extrac-div-1 span::before {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    width: 102%;
+    height: 102%;
+    background-color: rgb(var(--outer-space));
+    border-bottom-right-radius: min(calc(1.5rem + 4vw), 7.5rem);
+}
+ 
+#footer {
+    order: 3;
+    display: flex!important;
+    flex-wrap: wrap;
+    column-gap: 0.5ex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 0;
+    color: rgb(var(--satellite-tone));
+    background-color: rgb(var(--cold-space));
+    padding: 0.5rem;
+}
+#footer .options {
+    float: none;
+    width: auto;
+    font-size: 0;
+    display: flex!important;
+    flex-wrap: wrap;
+    justify-content: center;
+    column-gap: 0.5rem;
+    padding-right: 0.675rem;
+}
+#footer .options a {
+    font-size: 0.675rem;
+}
+ 
+#footer, #extrac-div-1, #extrac-div-1 span {
+    background-image: var(--header-image);
+    background-size: 100vmax;
+    background-attachment: fixed;
+    background-position: bottom;
+}
+ 
+#license-area {
+    order: 4;
+    position: relative;
+    isolation: isolate;
+    padding: 0.5rem;
+    font-size: 0.75rem;
+    color: rgb(var(--outer-space));
+    background-color: rgb(var(--nebula-hue));
+}
+#license-area a {
+    color: inherit;
+    font-weight: bold;
+}
+[[/code]]
+[[/collapsible]]
+[[/iftags]]
+
+>[[ift{$ngc7000}gs -テーマ]]
+>[[iftags]]
+[[module css]]
+:root {
+    --header-image: url("https://scp-jp-storage.wdfiles.com/local--files/file%3A8260379-50-bfp5/ngc7000.jpeg");
+    --nebula-hue: 30,181,232;
+}
+[[/module]]
+>[[/iftags]]
+>[[/ift{$ngc7000}gs]]
+
+>[[ift{$ngc3372}gs -テーマ]]
+>[[iftags]]
+[[module css]]
+:root {
+    --header-image: url("https://scp-jp-storage.wdfiles.com/local--files/file%3A8260379-62-6krm/ngc3372.jpeg");
+    --nebula-hue: 184,32,60;
+}
+[[/module]]
+>[[/iftags]]
+>[[/ift{$ngc3372}gs]]
+
+>[[ift{$ngc0}gs -テーマ]]
+>[[iftags]]
+[[module css]]
+:root {
+    --header-image: url("https://scp-jp-storage.wdfiles.com/local--files/file%3A8260379-52-94qo/ngc0.jpeg");
+    --nebula-hue: var(--cold-space);
+}
+
+#extra-div-2 {
+    background-color: rgb(var(--outer-space));
+}
+
+#extra-div-1::before, #extra-div-1::after {
+    background-image: none;
+}
+
+#extra-div-1 span {
+    background-color: rgb(var(--outer-space), 67.5%);
+}
+
+#top-bar ul li a {
+    color: rgb(var(--neutron-white));
+}
+
+#license-area {
+    order: 4;
+    position: relative;
+    isolation: isolate;
+    padding: 0.5rem;
+    font-size: 0.75rem;
+    color: rgb(var(--neutron-white));
+    background-color: rgb(var(--outer-space));
+}
+[[/module]]
+>[[/iftags]]
+>[[/ift{$ngc0}gs]]
