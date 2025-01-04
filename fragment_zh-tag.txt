@@ -260,6 +260,8 @@
 * **[*/system:page-tags/tag/2023冬季競賽 2023冬季競賽]** - 標註在與[[[*better-to-add-an-imaaage|2023冬季競賽]]]「此風可長」相關的頁面上。
 
 * **[*/system:page-tags/tag/2023夏季競賽 2023夏季競賽]** - 標註在與[[[*summer-contest-2023|2023夏季競賽]]]相關的頁面上。
+
+* **[*/system:page-tags/tag/2024夏季競賽 2024夏季競賽]** - 標註在與[[[*summer-contest-2024|2024夏季競賽]]]相關的頁面上。
 -----
 +++* ZH活動標籤
 * **[*/system:page-tags/tag/2019聖夜相守 2019聖夜相守]** - 標註在與活動[[[*christmas-event|聖夜相守]]]相關的頁面上。
