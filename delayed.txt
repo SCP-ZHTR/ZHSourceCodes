@@ -1,0 +1,23 @@
+[[include info:start]]
+**篇名：**車次［106］．車種［自強］．（誤點146640分）
+**作者：**[[*user IC_1623]]
+**授權：**皆由[[*user IC_1623]]製作 CC-BY-SA 3.0
+
+稍微簡化一些作品名
+不然塞不下
+[[include info:end]]
+
+[[include :scp-zh-tr:theme:basalt hidetitle=a]]
+
+[[module css]]
+:root {
+ --logo: url(https://i.imgur.com/LZcJt1D.png);
+ --title: "台鐵列車";
+ --subtitle: "遲到－誤點－未發車";
+}
+[[/module]]
+
+[[image https://i.imgur.com/tSobNUx.png]]
+[[image https://i.imgur.com/gcaJLO8.png]]
+[[image https://i.imgur.com/axyP1UE.png]]
+[[image https://i.imgur.com/DQuhWsZ.png]]
