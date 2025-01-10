@@ -1,0 +1,6 @@
+image: 'https://imgur.com/6d9b4XX.jpg'
+owner: Tiro
+owner-wiki: Tiro_taiwan
+license: '0'
+other-license: ''
+note: 2024/11/29
