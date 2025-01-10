@@ -1,6 +1,6 @@
 [[div id="featured"]]
 [[tabview]]
-[[tab 12月作品展出]]
+[[tab 1月作品展出]]
 
 [!-- Left block --]
 [[div class="feature-block"]]
@@ -10,13 +10,12 @@ SCP作品展出
 [[/div]]
 [[div class="panel-body"]]
 [[div class="feature-title"]]
-[[[*scp-zh-754|]]]
+[[[*scp-zh-294|SCP-ZH-294 - 山林裡的肉工廠]]]
 [[/div]]
 [[div class="feature-subtitle"]]
-作者：[[user NocturnalT]]
+作者：[[user vomiter]]
 [[/div]]
-再次為所有不便道歉，感謝您的體諒。
-
+有位弟兄困於血之紐帶，窩藏了不容於我主的汙穢。這位弟兄將接受無機化洗禮，以永恆的身軀為我主的事業持續奉獻。
 [[/div]]
 [[div class="panel-footer"]]
 [[[*featured-scp-archive|查看以往展出的SCP作品]]]
@@ -30,14 +29,12 @@ SCP作品展出
 [[/div]]
 [[div class="panel-body"]]
 [[div class="feature-title"]]
-[[[till-we-be-the-stars|]]]
+[[[and-then-there-were-you|僅我生還]]]
 [[/div]]
 [[div class="feature-subtitle"]]
-作者：[[user Lostwhat]]、[[user LuLu_Lucifelle]]
+作者：[[user AbyssDream]]
 [[/div]]
-「那這個故事要叫什麼名字？」
-
-「你是先想標題的那一派嗎？」
+自大的存在想要違抗書寫者，自大的存在自以為毫無紕漏的計畫好一切。然而這一切都不過是書寫者所策畫，是宇宙的注定走向。
 [[/div]]
 [[div class="panel-footer"]]
 [[[*featured-tale-archive|查看以往展出之故事]]]
@@ -53,12 +50,12 @@ SCP作品展出
 [[/div]]
 [[div class="panel-body"]]
 [[div class="feature-title"]]
-[[[*scp-4633|]]]
+[[[*scp-1342|]]] 
 [[/div]]
 [[div class="feature-subtitle"]]
-作者：[[user Mortos]] 譯者：[[user Kikunai]]
+作者：[[user FlameShirt]] 譯者：[[user Lostwhat]]
 [[/div]]
-評論員1號： 這就是為甚麼我喜歡這個遊戲。你永遠不知道下一個驚喜是甚麼。當然了，現在玩家2號的手變成一隻巨大蟹鉗，手勢的選擇稍為有限。
+我們花了數十年來理解你們的訊息，你們的語言，嘗試在無序的千絲萬縷中拼湊答案。踏過靜電與雜訊，最終我們找到了你們。
 [[/div]]
 [[div class="panel-footer"]]
 [[[*featured-translation|查看以往展出的翻譯作品]]]
@@ -72,12 +69,12 @@ SCP作品展出
 [[/div]]
 [[div class="panel-body"]]
 [[div class="feature-title"]]
-[[[chassis|]]]
+[[[wanderers:tulip-bubble|]]]
 [[/div]]
 [[div class="feature-subtitle"]]
-作者：[[user Lostwhat]]
+作者：[[user Chromeblushowo]]
 [[/div]]
-我們要來談的是有趣的光。是暮光，是晨光，是夜光，是火光，是電光，是極光，如果你喜歡的話還可能是佛光。
+一點一滴累積的鬱金香花瓣再也滿足不了任何人，那種快感是再也無法戒掉。貪婪地飲下鴆毒，但是受傷的不只是夢中人。
 [[/div]]
 [[div class="panel-footer"]]
 [[[*featured-Comprehensive-exhibition|查看以往的綜合展出]]]
