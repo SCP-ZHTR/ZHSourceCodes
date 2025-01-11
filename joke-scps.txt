@@ -257,6 +257,7 @@
 * [[[SCP-47-47-J]]] - 神奇狗 Rusty
 * [[[SCP-4800-J]]] - The One True God
 * [[[SCP-5000-J]]] - The Cookie Caper
+* [[[SCP-5001-J]]] - 什麼？
 * [[[SCP-5040-J]]] - Stripèd Gangs
 * [[[SCP-5150-J]]] - Think Of The Children
 * [[[scp-why-are-you-reading-a-url-go-be-productive-j|SCP-5200-J]]] - JUST SAY NO!!!!!!!!
