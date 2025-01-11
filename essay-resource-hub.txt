@@ -27,7 +27,7 @@
 @@@@
 心得與資源中心是SCP社群撰寫資訊頁面的集中地。與**[[[Guide Hub| 指南中心]]]**不同，以下文章並非必讀或官方指導，但仍是有趣或對你有幫助的。
 
-與「[http://scp-zh-tr.wikidot.com/system:page-tags/tag/指導 指導]」標籤不同，「[http://scp-zh-tr.wikidot.com/system:page-tags/tag/心得 心得]」和「[http://scp-wiki.wikidot.com/system:page-tags/tag/資源 資源]」標籤可憑原作者意願自行添加，你也可以將加上這些標籤的頁面自由添入下方合適位置（請按照字母順序排列）。「心得」提供了SCP基金會/維基特定方面的建議或意見，「資源」則列出了SCP基金會各方面的設定資訊，通常會是開放新添內容的合作頁面。為了查詢的方便，具備有用資訊的中心頁也會放在下方。如果你不確定自己的作品是否符合以上標準，或者你認為應該開設新的分類，請向工作人員尋求協助。
+與「[http://scp-zh-tr.wikidot.com/system:page-tags/tag/指導 指導]」標籤不同，「[http://scp-zh-tr.wikidot.com/system:page-tags/tag/心得 心得]」和「[http://scp-zh-tr.wikidot.com/system:page-tags/tag/資源 資源]」標籤可憑原作者意願自行添加，你也可以將加上這些標籤的頁面自由添入下方合適位置（請按照字母順序排列）。「心得」提供了SCP基金會/維基特定方面的建議或意見，「資源」則列出了SCP基金會各方面的設定資訊，通常會是開放新添內容的合作頁面。為了查詢的方便，具備有用資訊的中心頁也會放在下方。如果你不確定自己的作品是否符合以上標準，或者你認為應該開設新的分類，請向工作人員尋求協助。
 
 [[toc]]
 
