@@ -328,29 +328,17 @@ SCP-3301 - 基金會
 || %%title_linked%% || %%rating%% || 
 [[/module]]
 
-[[div class="content-type-description"]]
-
-[[module ListPages order="created_at desc" prependLine="[[include component:listpages-table]]" perPage="30" appendLine="[[/table]]" category="-fragment, -prime"  separate="false" tags="+2024夏季競賽 +原創 " rss="Most Recently Translated"]]
-[[row]]
-[[cell style="vertical-align: top;"]]
-%%title_linked%%
-[[/cell]]
-[[cell style="vertical-align: top; text-align: justify;"]]
-%%created_at|%Y年%m月%d日 %H:%M|agohover%%
-[[/cell]]
-[[cell style="vertical-align: top; text-align: left;"]]
-%%created_by_linked%%
-[[/cell]]
-[[cell style="vertical-align: top; text-align: justify;"]]
-%%rating%%
-[[/cell]]
-[[/row]]
-[[/module]]
-[[/div]]
-[[/div]]
-
-[[module ListPages order="created_by" created_at="2024" tags=" +原創 -藝術作品 -外觀主題" separate="no" perPage="300" prependLine="||~ 標題||~ 評分||"]]
+[[module ListPages order="created_by" created_at="2024" tags=" +原創 +藝術作品 -外觀主題" separate="no" perPage="300" prependLine="||~ 標題||~ 評分||"]]
 || %%title_linked%% || %%created_by%% || %%created_at%% || 
+
+[[/module]]
+
+[[module ListPages category="*" order="created_by" created_at="2024" tags=" +原創 -藝術作品 -外觀主題 -模板 -組件 -組件後端" separate="no" perPage="300" prependLine="||~ 標題||~ 評分||"]]
+|| %%title_linked%% || %%created_by%% || %%created_at%% || 
+[[/module]]
+
+[[module CountPages category="*" created_at="2024" tags=" +原創 -藝術作品 -外觀主題 -模板 -組件 -組件後端" ]]
+%%total%%頁
 [[/module]]
 
 [[/collapsible]]
@@ -423,7 +411,7 @@ SCP-3301 - 基金會
 [[[escape-into-the-world-of-mortals|亡走塵寰參加獎]]]
 [[image https://semibreve-sandbox.wdfiles.com/local--files/2/%22%E8%A1%8C%E5%A1%B5%E5%A4%99%E5%A4%9C%22 width="150px"]]
 
-嘿，如果亡走塵寰真的那麼棒的話，那為什麼—
+嘿，如果亡走塵寰真的那麼棒的話，那為什麼——
 好吧，其實我們還有[[[escape-into-the-world-of-mortals|亡走塵寰繪圖組參加獎]]]
 
 [[image https://semibreve-sandbox.wdfiles.com/local--files/2/%22%E6%88%91%E6%9C%83%E5%B0%87%E4%BD%A0%E5%80%91%E5%B8%B6%E5%9B%9E%E4%BE%86%22 width="150px"]]
