@@ -1,0 +1,6 @@
+image: 'https://i.imgur.com/wtU3Evt.jpg'
+owner: 空名
+owner-wiki: EmptyName723
+license: '0'
+other-license: ''
+note: 應該是纜車

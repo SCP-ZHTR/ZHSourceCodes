@@ -1,0 +1,6 @@
+image: 'https://i.imgur.com/NbUuRbe.jpg'
+owner: 空名
+owner-wiki: EmptyName723
+license: '0'
+other-license: ''
+note: ''

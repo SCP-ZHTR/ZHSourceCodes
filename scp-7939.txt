@@ -270,7 +270,7 @@
 | first=false | last=false | hub=no
 | previous-url=https://scp-wiki.wikidot.com/scripture-for-microwaves | previous-title=微波爐經
 | next-url= http://scp-zh-tr.wikidot.com/nial-must-be-flushed | next-title=#尼爾必須被沖掉
-| hub-url=/ | hub-title=家用品大戰爭中心頁
+| hub-url=/ | hub-title= 家用品大戰爭
 ]]
 @@ @@
 
