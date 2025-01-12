@@ -9,15 +9,10 @@
 [!-- News: Entry 1 --]
 [[div class="alternate unmargined"]]
 [[div class="news-title"]]
-2024年02月13日**【競賽活動】**
+2025年01月10日**【競賽活動】**
 [[/div]]
 [[div class="news-content"]]
-* [[[http://scp-zh-tr.wikidot.com/wishing-to-do-well|2024冬季競賽《欲善其事》]]]成績已經公布！恭喜獲獎者： _
-第一名：[[*user Nihilmace]]　[[[scp-zh-022|]]] (24.2) _
-第二名：[[*user EmptyName723]]　[[[scp-zh-345|]]] (22) _
-第三名：[[*user Hildegardis]]　[[[scp-zh-611|]]] (20.9) _
-最高總分獎：[[*user Nihilmace]]與[[*user Edward_Knave]]同分勝出 (24.2) _
-感謝各位的熱情參與！
+* 年度冬季競賽《絕望與希望》已經正式公開！徵文時間為【2025年01月17日 (五)】至【2025年02月07日 (五) 23:59】，更多詳情請見[[[winter-ace-2025|▶活動網頁]]]。
 [[/div]]
 [[/div]]
 
@@ -26,10 +21,11 @@
 [!-- News: Entry 2 --]
 [[div class="alternate unmargined"]]
 [[div class="news-title"]]
-2024年01月18日**【競賽活動】**
+2024年12月03日**【活動公告】**
 [[/div]]
 [[div class="news-content"]]
-* 2024冬季競賽《欲善其事》正式公開！本次活動徵件時間為【2024年02月01日 (四)】至【2024年02月07日 (三) 23:59】，更多詳情請見[[[http://scp-zh-tr.wikidot.com/wishing-to-do-well|▶活動中心頁]]]
+* 今年的聖夜將合併虹光複刻活動一起舉辦。活動時間為至12/31日23:59分為止。 _
+詳情請見[[[christmas-event6|▶活動中心頁]]]。
 [[/div]]
 [[/div]]
 
@@ -39,10 +35,13 @@
 [!-- News: Entry 3 --]
 [[div class="alternate unmargined"]]
 [[div class="news-title"]]
-2023年12月28日**【網站改動】**
+2024年08月31日**【競賽活動】**
 [[/div]]
 [[div class="news-content"]]
-* 日前Wikidot出現的無法透過網址連結至頁面的異常已修復完畢，因此，已從網站上撤下替代此功能的相關工具。
+* 夏季競賽《元素》結果已經發表！恭喜獲獎者： _
+第一名：[[*user Control Z]] _
+第二名：[[*user SamScript]] _
+第三名：[[*user Kikunai]] _
 [[/div]]
 [[/div]]
 
@@ -51,10 +50,11 @@
 [!-- News: Entry 4 --]
 [[div class="alternate unmargined"]]
 [[div class="news-title"]]
-2023年12月03日**【競賽活動】**
+2024年08月05日**【活動公告】**
 [[/div]]
 [[div class="news-content"]]
-* 繁中聖誕節活動：《聖夜相守這一夜》今年繼續舉辦！本次採用的是與往年不同的規則，活動時間為【2023/12/03（日）】至【2023/12/30（六）】。詳情請參考[[[http://scp-zh-tr.wikidot.com/christmas-event5|▶活動中心頁]]]。
+* 中元恐怖——《早梅詩》是繁中分部在2024年農曆七月期間所發布的原創恐怖SCP合輯。 _
+接下來的二十日內，二十位本分部的作者將發布二十篇全新的SCP作品，[[[zhongyuan-2024|▶前往中心頁]]]。
 [[/div]]
 [[/div]]
 
