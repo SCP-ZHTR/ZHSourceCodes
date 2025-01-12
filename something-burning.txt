@@ -113,7 +113,7 @@
 | first=false | last=false | hub=no
 | previous-url=http://scp-zh-tr.wikidot.com/nial-must-be-flushed | previous-title=#尼爾必須被沖掉
 | next-url=http://scp-zh-tr.wikidot.com/alight | next-title=一燈
-| hub-url=/| hub-title=家用品大戰爭
+| hub-url=/| hub-title= 家用品大戰爭
 ]]
 @@ @@
 
