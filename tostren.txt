@@ -349,6 +349,10 @@ SCP-3301 - 基金會
 [[/div]]
 [[/div]]
 
+[[module ListPages order="created_by" created_at="2024" tags=" +原創 -藝術作品 -外觀主題" separate="no" perPage="300" prependLine="||~ 標題||~ 評分||"]]
+|| %%title_linked%% || %%created_by%% || %%created_at%% || 
+[[/module]]
+
 [[/collapsible]]
 
 [[/tab]]
