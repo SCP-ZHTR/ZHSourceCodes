@@ -1,0 +1,6 @@
+image: 'https://i.imgur.com/0BMUZLK.jpeg'
+owner: KaiTenno
+owner-wiki: KaiTenno
+license: '0'
+other-license: ''
+note: 攝於2023年12月28日

@@ -1,0 +1,6 @@
+image: 'https://i.imgur.com/qJZJ7TA.jpg'
+owner: Kikunai
+owner-wiki: Kikunai
+license: '1'
+other-license: ''
+note: ''
