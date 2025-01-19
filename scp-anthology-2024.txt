@@ -36,8 +36,8 @@
     --s-header-desktop-height: 39.5rem;
     --s-header-mobile-height: var( --s-header-desktop-height);
     --sp_dropdown-width: 22ch;
-    --header-title: 'SCP Anthology 2024';
-    --header-subtitle: 'Face Your Fears.';
+    --header-title: 'SCP驚選集2024';
+    --header-subtitle: '直面你的恐懼。';
     --sp_header-title-size: min(calc(2.675rem * var(--sp_header-title-scale)), calc(.875rem * var(--sp_header-title-scale) + 2.5vw));
     --sp_header-title-scale: 2.75;
     --sp_header-subtitle-scale: 2.25;
