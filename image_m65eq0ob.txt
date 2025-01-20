@@ -1,0 +1,6 @@
+image: 'https://imgur.com/a/UxMn0ki'
+owner: HABAO
+owner-wiki: 'HABAO '
+license: '0'
+other-license: ''
+note: ''
