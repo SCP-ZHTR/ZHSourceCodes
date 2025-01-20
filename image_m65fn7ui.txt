@@ -1,4 +1,4 @@
-image: 'https://i.imgur.com/Mhn0f2R.jpg'
+image: 'https://i.imgur.com/5mFiHDn.jpeg'
 owner: HABAO
 owner-wiki: 'HABAO '
 license: '0'
