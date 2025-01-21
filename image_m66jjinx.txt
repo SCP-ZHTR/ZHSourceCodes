@@ -1,0 +1,6 @@
+image: 'https://live.staticflickr.com/65535/54278297062_08030c4084_z.jpg'
+owner: Adev
+owner-wiki: adev-drafaski
+license: '0'
+other-license: ''
+note: ''
