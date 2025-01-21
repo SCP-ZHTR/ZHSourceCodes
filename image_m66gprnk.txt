@@ -1,0 +1,6 @@
+image: 'https://i.imgur.com/z0i2ivQ.jpeg'
+owner: vomiter
+owner-wiki: vomiter
+license: '0'
+other-license: ''
+note: ''
