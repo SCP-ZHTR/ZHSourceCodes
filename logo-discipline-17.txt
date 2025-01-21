@@ -9,7 +9,7 @@
 **授權方式：**CC BY-SA 4.0
 [[include :scp-zh-tr:component:author-label-source end=--]]
 @@ @@
-= [[image https://i.imgur.com/61k03kY.png height="200px"]]
+= [[image https://i.imgur.com/YAW0JBm.png height="200px"]]
 @@ @@
 @@ @@
 @@ @@
