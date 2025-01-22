@@ -22,13 +22,13 @@ SCP-2006
 
 [[include component:image-block
 | name=https://scp-wiki.wdfiles.com/local--files/fragment:scp-8066-3/doomsday.png
-| caption=-- SCP-2006--處於收容中--。
+| caption=SCP-2006--處於收容中--。
 | width=100%
 | align=center]]
 
 **項目№:** SCP-2006
 
-**項目等級：**--Keter-- --Neutralized-- Megiddo[[span class="fnnum"]].[[/span]][[span class="fncon"]]**Megiddo：**已經來不及了。[[/span]]
+**項目等級：**--Keter-- --Neutralized-- Megiddo[[span class="fnnum"]].[[/span]][[span class="fncon"]]**Megiddo：**已經太晚了。[[/span]]
 
 **特殊收容措施：**所有物件皆應待在他們的盒子內。所有盒子和不是盒子的東西皆應被緊緊靠在一起。
 

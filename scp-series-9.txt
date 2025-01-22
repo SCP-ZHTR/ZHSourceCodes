@@ -91,7 +91,7 @@
 * [[[SCP-8063]]] - [ACCESS DENIED]
 * [[[SCP-8064]]] - [ACCESS DENIED]
 * [[[SCP-8065]]] - [ACCESS DENIED]
-* [[[SCP-8066]]] - [ACCESS DENIED]
+* [[[SCP-8066]]] - 恐懼恐懼症：唯一值得恐懼之物
 * [[[SCP-8067]]] - [ACCESS DENIED]
 * [[[SCP-8068]]] - [ACCESS DENIED]
 * [[[SCP-8069]]] - [ACCESS DENIED]

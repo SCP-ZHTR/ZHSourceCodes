@@ -915,7 +915,7 @@ div.creditButtonStandalone>p>a::after, div.rate-box-with-credit-button .creditBu
 [[div class="blockquote"]]
 **Title:** George V Signature.svg
 **Source:** https://commons.m.wikimedia.org/wiki/File:George_V_Signature.svg
-**License:** PB
+**License:** PD
 **Author:** George V
 **Publication Year:** 1918
 [[/div]]
@@ -954,7 +954,7 @@ div.creditButtonStandalone>p>a::after, div.rate-box-with-credit-button .creditBu
 **物件作者：**R███ A█████
 **物件創建時間：**1925年5月
 **回收日期：**1925年7月
-**回收位置：**英國英格蘭肯辛頓皇家自治市[[footnote]]今肯辛頓和切爾西皇家自治市[[/footnote]]戈爾大道1號
+**回收位置：**英國英格蘭肯辛頓皇家自治市[[footnote]]今肯辛頓和切爾西皇家自治市[[/footnote]]肯辛頓戈爾1號
 **備註：**R███ A█████在物件回收前已在事件[已編輯]中罹難。[[/size]]
 [[include :scp-zh-tr:component:blacklight-box-source |inc-section-end= --]]]
 [[div class="old"]]
@@ -1078,7 +1078,7 @@ R███ A█████, 1925.　　　　
 **物件作者：**Νικόλαος Τομπάζης
 **物件創建時間：**1925年4月
 **回收日期：**1925年7月
-**回收位置：**英國英格蘭肯辛頓皇家自治市戈爾大道1號
+**回收位置：**英國英格蘭肯辛頓皇家自治市肯辛頓戈爾1號
 **備註：**[[/size]]
 [[include :scp-zh-tr:component:blacklight-box-source |inc-section-end= --]]]
 [[div class="raisa_memo"]]
