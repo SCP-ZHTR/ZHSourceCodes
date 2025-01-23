@@ -1,0 +1,6 @@
+image: 'https://i.imgur.com/jsC9FCC.jpg'
+owner: Edward_Knave
+owner-wiki: Edward_Knave
+license: '0'
+other-license: ''
+note: ''
