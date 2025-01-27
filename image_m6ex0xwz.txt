@@ -1,0 +1,6 @@
+image: 'https://imgur.com/a/XMr63cn'
+owner: tingtangting
+owner-wiki: tingtangting
+license: '0'
+other-license: ''
+note: ''
