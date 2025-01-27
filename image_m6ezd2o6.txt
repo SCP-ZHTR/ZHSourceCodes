@@ -1,0 +1,6 @@
+image: 'https://i.imgur.com/UyaNxai.jpg'
+owner: tingtangting
+owner-wiki: tingtangting
+license: '0'
+other-license: ''
+note: ''
