@@ -360,7 +360,7 @@ color: #dd7711 !important;
 
 [[# tactical-theology]]
 [[div class="content-panel standalone series" style="background-color: #FFFFFF;"]]
-+ ##black|戰術神學部##
++ [[[http://scp-zh-tr.wikidot.com/tactical-theology-hub| 戰術神學部]]]
 [[f>image https://scp-wiki.wdfiles.com/local--files/secure-facility-dossier-reliquary-area-27/DoTT.png width="100px"]]
 
 **概述：** 戰術神學部負責捕捉、收容並[[[deicide| 嘗試無效化]]]神學異常。其工作範圍涉及到懷疑是[[[scp-4261| 聖物]]]的異常，以及被認為是[[[scp-4967| 奇蹟]]]的異常事件，以及應對[[[operation-heaving-spirit| 超常邪教]]]與至高層萬能實體。
