@@ -1,0 +1,6 @@
+image: 'https://i.imgur.com/0aJ8M1ph.jpg'
+owner: NocturnalT
+owner-wiki: NocturnalT
+license: '0'
+other-license: ''
+note: ''
