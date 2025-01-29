@@ -1,0 +1,541 @@
+[[include component:scp-meta-title-hiding css-style=classic]]
+
+[[include info:start]]
+作者：[[*user Mayaw Kacaw]]
+篇名：街談巷語
+-------
+本文章為投稿2025冬季競賽《絕望與希望》絕望組
+
+—
+圖片資訊：
+
+圖片標題：虎斑貓
+圖片所有人：surprising_mars ([[*user surprising_mars]])
+來源：https://live.staticflickr.com/65535/54291467835_2e52f31135_m.jpg
+授權證明：http://scp-zh-tr.wikidot.com/image:m6f7z1qt
+授權方式：CC BY-SA 3.0
+
+[[include info:end]]
+
+[[include component:image-block name=https://live.staticflickr.com/65535/54291467835_2e52f31135_m.jpg
+|caption=SCP-ZH-422-1]]
+
+**項目編號：**SCP-ZH-422
+
+**項目等級：**Safe
+
+**特殊收容措施：**SCP-ZH-422被分別收容於被收容於Site-ZH-███，規格為 5.5m* 5.5m*3.5 m之Safe級小型陸上生物收容間。須確保收容間內部無任何可讓項目進入之縫隙，室內亮度需保持在300cd/m^^2^^[[footnote]] 即燭光/每平方公尺。為衡量亮度的國際單位制導出單位，其中的燭光（cd）是衡量發光強度的國際單位制主單位 [[/footnote]]以上。
+@@ @@
+與SCP-ZH-422相關實驗需至少一名持有三級權限人員同意才可執行。
+@@ @@
+**備註：**實驗ZH-422-6後，參與實驗之D級須被固定四肢以確保其無法攻擊SCP-ZH-422。
+@@ @@
+**描述：**SCP-ZH-422為具異常性之隻家貓（//Felis catus//），所有個體皆有環繞脖頸之已癒合疤痕且有疑似被切除聲帶的跡象，目前收容4隻。
+@@ @@
+當SCP-ZH-422身處亮度低於100cd/m^^2^^，寬度小於2.50m的狹長空間時將觸發其異常性，項目會停止移動並開始嚎叫，每名聽者對SCP-ZH-422的叫聲形容不盡相同，但項目的聲音皆被形容為「惱人」、「刺耳」、「令人不安」等負面評價，SCP-ZH-422會持續嚎叫直到其身處環境不符合異常性觸發條件。
+@@ @@
+以下為目前基金會收容的SCP-ZH-422：
+@@ @@
+
+||~ 編號 ||~ 收容時間 ||~ 回收地點 ||~ 外觀描述 ||~ 備註 ||
+|| SCP-ZH-422-1 || 2013/07/31 || 台北市萬華區永福街4█巷 || 雄性褐色虎斑貓 || 無 ||
+|| SCP-ZH-422-2 || 2013/08/02 || 新竹市██區動物保護教育園區|| 雌性三色貓 || 無 ||
+|| SCP-ZH-422-3 || 2014/12/01 || 台南市中西區南門路6█號 || 雌性折耳白貓 || 無 ||
+|| SCP-ZH-422-4 || 2016/05/22 || 彰化縣鹿港鎮菜園路4█號 || 雄性黑貓 || 該項目已在實驗ZH-422-6中死亡||
+|| SCP-ZH-422-5 || 2018/12/31 || SCP基金會ZH分部D級人員宿舍 || 雌性橘貓 || 見事件ZH-422-B ||
+
+自2013年07月2█日起，網路社交平台上不定期出現的有關噪音的討論串引起基金會的注意，基金會根據該文章派遣收容小隊前往指定地點回收SCP-ZH-422。
+
+@@ @@
+
+[[collapsible show="以下為其中一篇討論串內容" hide="收起"hideLocation="both"]]
+
+[[div style="border:solid 0px #ffffff; background:#f0e0d6; padding:5px; margin-bottom: 10px; ;width:90%"]]
+
+**[[span style="color:#cc1105"]]關於噪音 [[/span]]** **[[span style="color:#117743"]]萬年不能倒 [[/span]]**[[span style="color:#800000"]]2013/06/21 23:42:31 ID:mKCN5GWQ[[/span]][[span style="color:#4d00ee"]] No.51548798[[/span]]
+----
+
+[[span style="color:#800000"]]
+
+我萬華天龍人啦
+最近我家晚上一直聽到到隔壁傳來敲打聲
+吵得我最近都睡不著
+隔天上班打瞌睡還要被老闆念
+幹被我找出是誰我要拿槌子敲到他腦袋開花
+
+[[/span]]
+[[/div]]
+
+[[div style="border:solid 0px #ffffff; background:#f0e0d6; padding:5px; margin-bottom: 10px; ;width:80%"]]
+**[[span style="color:#cc1105"]]無題[[/span]]** **[[span style="color:#117743"]]大新竹米粉天下第一 [[/span]]**[[span style="color:#800000"]]2013/06/22 20:11:16 ID:6fwNEPk5[[/span]][[span style="color:#4d00ee"]] No.51548801[[/span]]
+----
+
+[[span style="color:#800000"]]
+
+我懂我懂
+我是新竹人
+前陣子我媽說因為聽了一整晚嬰兒哭聲睡都睡不著
+
+我媽生我時還得過產後抑鬱，真不知道哪戶那麼缺德幹
+
+[[/span]]
+[[/div]]
+
+[[div style="border:solid 0px #ffffff; background:#f0e0d6; padding:5px; margin-bottom: 10px; ;width:80%"]]
+**[[span style="color:#cc1105"]]一點建議[[/span]]** **[[span style="color:#117743"]]打工系社畜 [[/span]]**[[span style="color:#800000"]]2013/06/22 22:12:21 ID:YN7kuJ22[[/span]][[span style="color:#4d00ee"]] No. 51548803[[/span]]
+----
+[[span style="color:#4d00ee"]]>> 51548798[[/span]]
+[[span style="color:#4d00ee"]]>> 51548801[[/span]]
+[[span style="color:#800000"]]
+
+路過給一點建議：2位要不要打電話給環保局檢舉？
+
+[[/span]]
+[[/div]]
+
+
+[[div style="border:solid 0px #ffffff; background:#f0e0d6; padding:5px; margin-bottom: 10px; ;width:80%"]]
+**[[span style="color:#cc1105"]]Re：一點建議[[/span]]** **[[span style="color:#117743"]]萬年不能倒 [[/span]]**[[span style="color:#800000"]]2013/06/24 00:08:03 ID:mKCN5GWQ[[/span]][[span style="color:#4d00ee"]] No.51548805[[/span]]
+----
+[[span style="color:#4d00ee"]]>> 51548803[[/span]]
+[[span style="color:#800000"]]
+
+幹我當然打過，一點屁用都沒有！
+來的人都說沒有超過指定分貝數
+幹公務人員都混吃等死是吧！
+
+[[/span]]
+[[/div]]
+
+
+[[div style="border:solid 0px #ffffff; background:#f0e0d6; padding:5px; margin-bottom: 10px; ;width:80%"]]
+**[[span style="color:#cc1105"]]無題[[/span]]** **[[span style="color:#117743"]]大新竹米粉天下第一 [[/span]]**[[span style="color:#800000"]]2013/06/24 09:02:47 ID:6fwNEPk5[[/span]][[span style="color:#4d00ee"]] No.51548806[[/span]]
+----
+[[span style="color:#4d00ee"]]>>  51548805[[/span]]
+[[span style="color:#800000"]]
+
+幹我這也是！
+警察還跟我媽說現在少子化，要我們多體諒新手爸媽
+體諒個屁啦！不會顧就別生啊幹！
+
+[[/span]]
+[[/div]]
+
+
+[[div style="border:solid 0px #ffffff; background:#f0e0d6; padding:5px; margin-bottom: 10px; ;width:80%"]]
+**[[span style="color:#cc1105"]]檢舉噪音的方法[[/span]]** **[[span style="color:#117743"]]打工系社畜 [[/span]]**[[span style="color:#800000"]]2013/06/24 12:52:11 ID:YN7kuJ22[[/span]][[span style="color:#4d00ee"]] No.51548801[[/span]]
+----
+[[span style="color:#4d00ee"]]>> 51548805[[/span]]
+[[span style="color:#4d00ee"]]>> 51548806[[/span]]
+[[span style="color:#800000"]]
+
+兩位先冷靜。
+可能是鄰居知道會有人要來測先停了，
+不如你們買個測分貝的分貝器自己錄影（記得將分貝器一起拍進去）
+之後把這影片交給環保局。
+
+這是律師教我的方法，一定能成功。
+
+[[/span]]
+[[/div]]
+
+[[div style="border:solid 0px #ffffff; background:#f0e0d6; padding:5px; margin-bottom: 10px; ;width:80%"]]
+**[[span style="color:#cc1105"]]無題[[/span]]** **[[span style="color:#117743"]]萬年不能倒 [[/span]]**[[span style="color:#800000"]]2013/06/24 23:42:01 ID:mKCN5GWQ[[/span]][[span style="color:#4d00ee"]] No.51548811[[/span]]
+----
+[[span style="color:#4d00ee"]]>> 51548801[[/span]]
+[[span style="color:#800000"]]
+
+感謝樓上
+我明天下班就去買
+我絕對要告死害我睡不著的王八蛋
+
+[[/span]]
+[[/div]]
+
+
+[[div style="border:solid 0px #ffffff; background:#f0e0d6; padding:5px; margin-bottom: 10px; ;width:80%"]]
+**[[span style="color:#cc1105"]]無題[[/span]]** **[[span style="color:#117743"]]大新竹米粉天下第一 [[/span]]**[[span style="color:#800000"]]2013/06/25 19:15:23 ID:6fwNEPk5[[/span]][[span style="color:#4d00ee"]] No.51548812[[/span]]
+----
+[[span style="color:#4d00ee"]]>> No.51548801[[/span]]
+[[span style="color:#800000"]]
+
+我照著你教的方法試了
+但分貝器測出的數字不達噪音標準
+我是不是買到假貨了？
+
+[[/span]]
+[[/div]]
+
+
+[[div style="border:solid 0px #ffffff; background:#f0e0d6; padding:5px; margin-bottom: 10px; ;width:80%"]]
+**[[span style="color:#cc1105"]]無題[[/span]]** **[[span style="color:#117743"]]萬年不能倒 [[/span]]**[[span style="color:#800000"]]2013/06/25 23:01:41 ID:mKCN5GWQ[[/span]][[span style="color:#4d00ee"]] No.51548814[[/span]]
+----
+[[span style="color:#4d00ee"]]>>  51548812[[/span]]
+[[span style="color:#800000"]]
+
+我這也不行，幹我要崩潰了
+這幾天完全沒辦法睡
+工作不斷出錯，已經被老闆噹好幾次了
+再這樣下去我要被開除了
+
+[[/span]]
+[[/div]]
+
+[[div style="border:solid 0px #ffffff; background:#f0e0d6; padding:5px; margin-bottom: 10px; ;width:80%"]]
+**[[span style="color:#cc1105"]]最後的辦法[[/span]]** **[[span style="color:#117743"]]打工系社畜 [[/span]]**[[span style="color:#800000"]]2013/06/26 11:59:56 ID:YN7kuJ22[[/span]][[span style="color:#4d00ee"]] No.51548816[[/span]]
+----
+
+[[span style="color:#800000"]]
+
+既然錄不到聲音，
+要不要去聽到聲音的巷子看看？
+或許能找到聲音來源直接解決問題。
+
+[[/span]]
+[[/div]]
+
+[[div style="border:solid 0px #ffffff; background:#f0e0d6; padding:5px; margin-bottom: 10px; ;width:80%"]]
+**[[span style="color:#cc1105"]]Re：最後的辦法[[/span]]** **[[span style="color:#117743"]]萬年不能倒 [[/span]]**[[span style="color:#800000"]]2013/06/27 01:47:41 ID:mKCN5GWQ[[/span]][[span style="color:#4d00ee"]] No.51548817[[/span]]
+----
+[[span style="color:#800000"]]
+
+找不到，完全找不到
+附近沒有工地也沒有大型機器
+巷子除了幾隻野貓找不到任何東西
+
+跟周圍的人抱怨也只會被講想太多了
+老闆還跟我說不用再來上班了幹
+
+我只是想好好睡上一覺
+幹你媽為什麼要這樣對我？
+
+[[/span]]
+[[/div]]
+
+
+[[div style="border:solid 0px #ffffff; background:#f0e0d6; padding:5px; margin-bottom: 10px; ;width:80%"]]
+**[[span style="color:#cc1105"]]無題[[/span]]** **[[span style="color:#117743"]]打工系社畜 [[/span]]**[[span style="color:#800000"]]2013/06/27 11:59:56 ID:YN7kuJ22[[/span]][[span style="color:#4d00ee"]] No.51548818[[/span]]
+----
+[[span style="color:#4d00ee"]]>> 51548817[[/span]]
+[[span style="color:#800000"]]
+
+那我沒辦法了，只能請你去買副好耳塞了
+很抱歉我幫不上忙。
+
+[[/span]]
+[[/div]]
+
+
+[[div style="border:solid 0px #ffffff; background:#f0e0d6; padding:5px; margin-bottom: 10px; ;width:80%"]]
+**[[span style="color:#cc1105"]]無題[[/span]]** **[[span style="color:#117743"]]大新竹米粉天下第一 [[/span]]**[[span style="color:#800000"]]2013/06/27 13:22:50 ID:6fwNEPk5[[/span]][[span style="color:#4d00ee"]] No.51548817[[/span]]
+----
+[[span style="color:#4d00ee"]]>>  51548816[[/span]]
+[[span style="color:#800000"]]
+
+我請一天假到防火巷看了一圈，巷子裡面堆滿了垃圾
+在垃圾堆中有看到一隻滿身是傷的野貓
+我打電話叫認識的動保人員帶走了
+
+[[/span]]
+[[/div]]
+
+
+[[div style="border:solid 0px #ffffff; background:#f0e0d6; padding:5px; margin-bottom: 10px; ;width:80%"]]
+**[[span style="color:#cc1105"]]無題[[/span]]** **[[span style="color:#117743"]]打工系社畜 [[/span]]**[[span style="color:#800000"]]2013/06/27 22:02:49 ID:YN7kuJ22[[/span]][[span style="color:#4d00ee"]] No.51548819[[/span]]
+----
+[[span style="color:#4d00ee"]]>> 51548817[[/span]]
+[[span style="color:#800000"]]
+
+該不會你母親聽到的就是這隻貓的聲音吧？
+
+[[/span]]
+[[/div]]
+
+[[div style="border:solid 0px #ffffff; background:#f0e0d6; padding:5px; margin-bottom: 10px; ;width:80%"]]
+**[[span style="color:#cc1105"]]無題[[/span]]** **[[span style="color:#117743"]]大新竹米粉天下第一 [[/span]]**[[span style="color:#800000"]]2013/06/27 23:00:58 ID:6fwNEPk5[[/span]][[span style="color:#4d00ee"]] No.51548820[[/span]]
+----
+[[span style="color:#4d00ee"]]>> 51548819[[/span]]
+[[span style="color:#800000"]]
+
+應該不是
+那隻貓被虐得很慘
+脖子不知被什麼綁成一小圈還血肉模糊的
+別說叫不叫得出聲，連牠是怎麼活到現在的也不知道
+
+[[/span]]
+[[/div]]
+
+
+[[div style="border:solid 0px #ffffff; background:#f0e0d6; padding:5px; margin-bottom: 10px; ;width:80%"]]
+**[[span style="color:#cc1105"]]夠了[[/span]]** **[[span style="color:#117743"]]萬年不能倒 [[/span]]**[[span style="color:#800000"]]2013/06/29 00:01:44 ID:mKCN5GWQ[[/span]][[span style="color:#4d00ee"]] No.51548822[[/span]]
+----
+[[span style="color:#800000"]]
+
+我受夠了
+我已經什麼都不在乎了
+我明天就要去找出是哪個傢伙
+我絕對要把那傢伙的腦袋敲爛！
+
+[[/span]]
+[[/div]]
+
+
+[[div style="border:solid 0px #ffffff; background:#f0e0d6; padding:5px; margin-bottom: 10px; ;width:80%"]]
+**[[span style="color:#cc1105"]]無題[[/span]]** **[[span style="color:#117743"]]打工系社畜 [[/span]]**[[span style="color:#800000"]]2013/07/06 17:22:13 ID:YN7kuJ22[[/span]][[span style="color:#4d00ee"]] No.51548825[[/span]]
+----
+[[span style="color:#800000"]]
+
+有人最近版上看到樓上那兩位嗎？
+我有不好的預感。
+
+[[/span]]
+[[/div]]
+
+
+[[div style="border:solid 0px #ffffff; background:#f0e0d6; padding:5px; margin-bottom: 10px; ;width:80%"]]
+**[[span style="color:#cc1105"]]無題[[/span]]** **[[span style="color:#117743"]]大新竹米粉天下第一 [[/span]]**[[span style="color:#800000"]]2013/07/09 19:02:31 ID:6fwNEPk5[[/span]][[span style="color:#4d00ee"]] No.51548829[[/span]]
+----
+[[span style="color:#4d00ee"]]>>  51548825[[/span]]
+[[span style="color:#800000"]]
+
+抱歉現在才回覆
+自從上次那篇貼文後
+我媽說再也沒聽到哭聲，她終於能睡個好覺了
+另一位不知道怎麼樣了
+
+[[/span]]
+[[/div]]
+
+
+[[div style="border:solid 0px #ffffff; background:#f0e0d6; padding:5px; margin-bottom: 10px; ;width:80%"]]
+**[[span style="color:#cc1105"]]無題[[/span]]** **[[span style="color:#117743"]]打工系社畜 [[/span]]**[[span style="color:#800000"]]2013/07/11 18:41:21 ID:YN7kuJ22[[/span]][[span style="color:#4d00ee"]] No.51548830[[/span]]
+----
+[[span style="color:#4d00ee"]]>> 51548829[[/span]]
+[[span style="color:#800000"]]
+[[a href="javascript:void(0);" style="color:#4d00ee"]]萬華男子鐵鎚襲擊致三死，鄰居：因噪音問題多次起衝突[[/a]]
+剛才看到這篇新聞，希望跟萬年不能倒沒有關係。
+
+[[/span]]
+[[/div]]
+
+[[div style="border:solid 0px #ffffff; background:#f0e0d6; padding:5px; margin-bottom: 10px; ;width:80%"]]
+**[[span style="color:#cc1105"]]無題[[/span]]** **[[span style="color:#117743"]]大新竹米粉天下第一 [[/span]]**[[span style="color:#800000"]]2013/07/12 22:32:50 ID:6fwNEPk5[[/span]][[span style="color:#4d00ee"]] No.51548832[[/span]]
+----
+[[span style="color:#4d00ee"]]>> 51548830[[/span]]
+[[span style="color:#800000"]]
+
+我希望沒有關係
+
+最近煩心事一個接著一個來
+我媽好不容易能睡了
+反倒是我的朋友開始跟我抱怨睡眠問題
+
+[[/span]]
+[[/div]]
+
+
+[[div style="border:solid 0px #ffffff; background:#f0e0d6; padding:5px; margin-bottom: 10px; ;width:80%"]]
+**[[span style="color:#cc1105"]]無題[[/span]]** **[[span style="color:#117743"]]打工系社畜 [[/span]]**[[span style="color:#800000"]]2013/07/12 17:51:13 ID:YN7kuJ22[[/span]][[span style="color:#4d00ee"]] No.51548834[[/span]]
+----
+[[span style="color:#4d00ee"]]>> 51548832[[/span]]
+[[span style="color:#800000"]]
+
+怎麼了？
+不會又是聽到嬰兒的哭聲吧？
+
+[[/span]]
+[[/div]]
+
+
+[[div style="border:solid 0px #ffffff; background:#f0e0d6; padding:5px; margin-bottom: 10px; ;width:80%"]]
+**[[span style="color:#cc1105"]]無題[[/span]]** **[[span style="color:#117743"]]大新竹米粉天下第一 [[/span]]**[[span style="color:#800000"]]2013/07/12 21:32:19 ID:6fwNEPk5[[/span]][[span style="color:#4d00ee"]] No.51548835[[/span]]
+----
+[[span style="color:#4d00ee"]]>> 51548834[[/span]]
+[[span style="color:#800000"]]
+
+我朋友是做動保的
+自從我把那隻野貓交給他後
+他就時常在收容所內聽到類似小孩哭聲
+
+[[/span]]
+[[/div]]
+
+[[div style="border:solid 0px #ffffff; background:#f0e0d6; padding:5px; margin-bottom: 10px; ;width:80%"]]
+**[[span style="color:#cc1105"]]無題[[/span]]** **[[span style="color:#117743"]]打工系社畜 [[/span]]**[[span style="color:#800000"]]2013/07/06 17:22:13 ID:YN7kuJ22[[/span]][[span style="color:#4d00ee"]] No.51548836[[/span]]
+----
+[[span style="color:#4d00ee"]]>> 51548835[[/span]]
+[[span style="color:#800000"]]
+
+聽說貓的叫聲跟小孩聲音挺像的，
+你們聽到的該不會真的是那隻貓的聲音吧？
+[[/span]]
+[[/div]]
+
+[[div style="border:solid 0px #ffffff; background:#f0e0d6; padding:5px; margin-bottom: 10px; ;width:80%"]]
+**[[span style="color:#cc1105"]]無題[[/span]]** **[[span style="color:#117743"]]大新竹米粉天下第一 [[/span]]**[[span style="color:#800000"]]2013/07/06 21:56:39 ID:6fwNEPk5[[/span]][[span style="color:#4d00ee"]] No.51548837[[/span]]
+----
+[[span style="color:#4d00ee"]]>> 51548836[[/span]]
+[[span style="color:#800000"]]
+
+不可能，
+先不說我發現那隻貓時，牠的脖子都快斷了
+我朋友還告訴我那隻貓被做過聲帶切除，只能發出氣音
+
+我那朋友流產過沒法生育，這件事對她造成很大的打擊
+現在卻要每晚一直聽到小孩子的哭聲
+感覺愈來愈邪門了
+
+[[/span]]
+[[/div]]
+
+@@ @@
+**結語：**根據該討論串內容，收容小隊分別在台北市萬華區與新竹市██區尋獲SCP-ZH-422-1與SCP-ZH-422-2，回收SCP-ZH-422-2的人員回報「聽到貓發出死去隊友的求救聲」。
+@@ @@
+相關人士被施以A級記憶刪除，相關文章以由MTF-市樓-5（線路門將）介入並將事件宣傳為已處理之噪音事件。
+
+
+[[/collapsible]]
+
+@@ @@
+
+[[collapsible show="以下為SCP-ZH-422的相關實驗記錄" hide="收起"hideLocation="both"]]
+
+**備註：**所有實驗皆在能觸發項目異常性之實驗場地進行
+
+> **實驗ZH-422-1**
+> 
+> **參與實驗之對象：**D-0026（37歲，有性侵殺害幼童的前科）
+> 
+> **參與實驗之項目：**SCP-ZH-422-1、SCP-ZH-422-2、SCP-ZH-422-3、SCP-ZH-422-4
+> 
+> **實驗內容：**要求D級人員進入實驗場地聆聽SCP-ZH-422的叫聲
+> 
+> **實驗結果：**D-0026進入場地約1分鐘後表現出不悅並嘗試踢SCP-ZH-422-2，被研究人員警告才停止，該D級表示「那隻貓發出了小孩子的慘叫聲」
+
+> **實驗ZH-422-2**
+> 
+> **參與實驗之對象：**D-7446（61歲，曾因瓦斯氣爆重傷）
+> 
+> **參與實驗之項目：**SCP-ZH-422-1、SCP-ZH-422-2、SCP-ZH-422-3、SCP-ZH-422-4
+> 
+> **實驗內容：**要求D級人員進入實驗場地聆聽SCP-ZH-422的叫聲
+> 
+> **實驗結果：**D-7446進入場地約2秒後立刻蹲下並摀住雙耳，之後對SCP-ZH-422-3表現出恐懼反應，該D級表示「聽到白貓那發出很大的爆炸聲」
+
+> **實驗ZH-422-3**
+> 
+> **參與實驗之對象：**D-2236（46歲，因工廠事故右腿截肢）
+> 
+> **參與實驗之項目：**SCP-ZH-422-1、SCP-ZH-422-2、SCP-ZH-422-3、SCP-ZH-422-4
+> 
+> **實驗內容：**要求D級人員進入實驗場地聆聽SCP-ZH-422的叫聲
+> 
+> **實驗結果：**D-2236進入場地約40秒後指著SCP-ZH-422-1表示「那隻虎斑貓的聲音讓我很不爽」，當被要求描述項目的叫聲時，該D級表示「聽到很像大型機器運作的聲音」
+
+> **實驗ZH-422-4**
+> 
+> **參與實驗之對象：**D-6678（21歲，無特殊經歷）
+> 
+> **參與實驗之項目：**SCP-ZH-422-1、SCP-ZH-422-2、SCP-ZH-422-3、SCP-ZH-422-4
+> 
+> **實驗內容：**要求D級人員進入實驗場地聆聽SCP-ZH-422的叫聲
+> 
+> **實驗結果：**D-6678進入場地約15分鐘後無反應，研究員詢問是否有聽到任何聲音，該D級表示「只聽到非常小的貓叫聲」
+
+> **實驗ZH-422-5**
+> 
+> **參與實驗之對象：**D-2236、D-9017（39歲，與其母親曾遭酗酒父親虐待）
+> 
+> **參與實驗之項目：**SCP-ZH-422-1、SCP-ZH-422-2
+> 
+> **實驗內容：**要求D級人員進入實驗場地分別聆聽SCP-ZH-422-1與SCP-ZH-422-2的叫聲
+> 
+> **實驗結果：**D-9017與D-2236進入有SCP-ZH-422-1的實驗場地後，D-2236對項目叫聲描述為大型機械的運作聲，D-9017的描述為酒瓶摔在地上的聲音。
+> 
+> 當兩人進入有SCP-ZH-422-2的實驗場地後，D-2236對項目叫聲無反應，D-9017則表示聽見死去母親的尖叫聲。
+
+> **實驗ZH-422-6**
+> 
+> **參與實驗之對象：**D-9017
+> 
+> **參與實驗之項目：**SCP-ZH-422-1、SCP-ZH-422-2、SCP-ZH-422-3、SCP-ZH-422-4
+> 
+> **實驗內容：**要求D級人員配戴隔音耳罩進入實驗場地聆聽SCP-ZH-422的叫聲
+> 
+> **實驗結果：**D-9017進入實驗場地後約6秒後突然徒手攻擊SCP-ZH-422-4，直到安全人員將其壓制後才停止。
+> 
+> SCP-ZH-422-4實驗後14分鐘後經治療無效死亡。事後D-9017拒絕回答研究人員問題並不斷重複「那王八蛋還活著！那王八蛋附身在黑貓身上！」
+> 
+> //本次實驗事故使我們損失了SCP-ZH-422-4，為確保其他項目的安全，今後之後所有參與實驗的D級人員都必須被固定手腳//－－研究員許孟益
+[[/collapsible]]
+
+
+> **事件ZH-422-B**
+> 
+> 2018年11月31日上午9點27分，D-9017被發現在基金會ZH分部D級人員宿舍的房間內以被單上吊自殺，與其同房的D級人員D-9011表示D-9017在去世前一個月曾多次抱怨「睡夢中一直聽到混蛋父親的聲音」
+> 
+> 2018年12月20日上午10點39分，基金會ZH分部D級人員宿舍包含D-9011在內的14名D級人員與宿舍管理員發生肢體衝突，暴動持續12分鐘直到武裝人員到場壓制才停止，該事件造成5人死亡9人輕重傷。
+
+[[collapsible show="訪談紀錄ZH-422-B" hide="收起"hideLocation="both"]]
+> **訪談紀錄ZH-422-B**
+> 
+> **訪談日期：**2018/12/28
+> **受訪者：**D-9011
+> **採訪者：**研究員許孟益
+> **前言：**D-9011在該事件中右前臂與鎖骨骨折，該D級同意接受訪談換取從輕處罰
+>  
+> (//紀錄開始//)
+> 
+> **研究員許孟益：**午安D-9011，你現在可以接受訪談了嗎？
+> 
+> **D-9011：**行吧，你想知道什麼？
+> 
+> **研究員許孟益：**首先，請告訴我你們8天前與宿舍人員起衝突的原因。
+> 
+> **D-9011：**舍監沒告訴你嗎？
+> 
+> **研究員許孟益：**沒有，他們也不清楚原因。
+> 
+> **D-9011：**(//咋舌//)是噪音。
+> 
+> **研究員許孟益：**請詳細說明。
+> 
+> **D-9011：**自從阿保[[footnote]] 為D-9017的綽號 [[/footnote]]死了後，我就一直在晚上聽到他的聲音。
+> 
+> **研究員許孟益：**你確定沒有聽錯嗎？我已經請人調取宿舍的監視器，錄像中並沒有錄到任何聲音。
+> 
+> **D-9011：**我一開始也以為是我瘋了。但我問了一圈，不只是同房間的，連同樓層的其他人都有聽到，所以我很確定不是我的問題。
+> 
+> **研究員許孟益：**那你有告訴宿舍管理者嗎？
+> 
+> **D-9011：**當然有！我們講了快十幾次了，他們根本不處理！我說「那至少讓我去看個醫生」，結果那群廢物完全不理我！
+> 
+> 每晚聽著死去室友的哭聲睡都睡不好，隔天還要被派去做一堆可能害自己缺胳膊少腿的危險工作，不抓狂才怪！
+> 
+> **研究員許孟益：**我明白了，我保證會請人處理。容我問一句，關於那些聲音，你有任何線索嗎？
+> 
+> **D-9011：**我記得阿保死前為了找出聲音曾把房間全翻了一遍，他好像說聲音是從牆裡傳出來的。
+> 
+> **研究員許孟益：**牆裡？
+> 
+> **D-9011：**對啊，他指著靠近他床的那面牆說他老爸在裡面，死前那幾天看他對著牆壁又打又踹的，隔壁房的還被吵得跟阿保打起來。而且……
+> 
+> **研究員許孟益：**而且？
+> 
+> **D-9011：**這幾天我曾睡過阿保的那張床，我親耳聽到牆裡傳出阿保的哭聲。
+> 
+> (//紀錄結束//)
+> 
+> **結語：**訪談結束後，研究團隊對D-9011訪談中提到的宿舍牆面進行調查，在隔間牆內發現一隻目測約三個月大，頸部纏繞疑電線的橘貓。
+> 
+> 基金會所屬獸醫將電線取下後，發現該生物脖頸處有一道已癒合疤痕，且該生物聲帶有疑似被利器切除的痕跡。
+> 
+> 經測試，該生物表現出與SCP-ZH-422相似之異常性，已將其收容並編號為SCP-ZH-422-5。
+> 
+> //考量到一般家貓難以長時間在牆內生存，我懷疑SCP-ZH-422會在造成其死亡的對象附近出現。如果真是如此，我們今後有關SCP-ZH-422的實驗得更加謹慎，絕對不能讓項目因死亡發生收容失效。//
+> 
+> //還有，雖然這不屬於我的管轄範圍，但希望能改進D級人員宿舍的管理問題。假如宿舍管理人員能提早通報D級人員的異常表現，這次事件本來是可以避免的//
+> [[>]]
+> －－研究員許孟益
+> [[/>]]
+[[/collapsible]]
