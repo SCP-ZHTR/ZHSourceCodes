@@ -1,0 +1,6 @@
+image: 'https://i.imgur.com/gSxB34V.jpg'
+owner: 離章
+owner-wiki: Lostwhat
+license: '1'
+other-license: ''
+note: ''

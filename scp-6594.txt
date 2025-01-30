@@ -97,7 +97,7 @@ div.blockquote {
 ]]
 -----
 [[div class="scp-image-block block-center" style="width:100%;"]]
-[[image http://scptestwiki.wdfiles.com/local--files/light/party.png style="width:100%;" link=#]]
+[[image https://scp-wiki.wdfiles.com/local--files/scp-6594/party.png style="width:100%;" link=#]]
 [[div class="scp-image-caption" style="width:100%;"]]
 生日派對。
 [[/div]]
@@ -299,7 +299,7 @@ div.blockquote {
 葛拉漢·葛里遜博士在先前未知的Site-322次級地下室中被發現。通往房間內的門上裝有一面寫著「CL級」的告示牌。沒有任何與Site-322中此單位有關的紀錄。針對該房間的調查發現此門的上鎖功能出現問題，而後導致其在過去四年當中週期性地開啟。該房間充滿可追溯至1974年的電腦設備。所有介面皆發出巨大的嗶嗶聲響，無法確定該聲音的目的。
 
 [[div class="scp-image-block block-center" style="width:60%;"]]
-[[image http://scptestwiki.wdfiles.com/local--files/light/chamber.png style="width:100%;" link=#]]
+[[image https://scp-wiki.wdfiles.com/local--files/scp-6594/chamber.png style="width:100%;" link=#]]
 [[div class="scp-image-caption" style="width:100%;"]]
 進入房間的窗戶。
 [[/div]]
