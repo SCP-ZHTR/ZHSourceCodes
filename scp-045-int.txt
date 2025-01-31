@@ -1,6 +1,18 @@
 [[include component:scp-meta-title-hiding]]
 [[include :scp-int:theme:pacom]]
 [[module CSS]]
+
+@media (max-width: 768px){
+
+  #main-content {
+
+    margin: 0 5%;
+
+  }
+
+}
+
+
 #page-content hr {
 margin-top: 2em;
 margin-bottom: 2em;
