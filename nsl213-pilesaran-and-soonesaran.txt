@@ -1925,7 +1925,7 @@ document.getElementById('output').value= text
 [[/div]]
 
 [[div class="letternoted"]]
-++ 錯謬
+++ 虛妄
 ++ //^^[[size 50%]]Falsity[[/size]]^^//
 [[div class="pilesaran"]]
 [[div class="verticalrotate"]]
@@ -2072,7 +2072,7 @@ document.getElementById('output').value= text
 .¤฿
 [[/div]]
 [[/div]]
-//[[size 40%]]「錯謬」「納餓卡」[[/size]]//
+//[[size 40%]]「虛妄」「納餓卡」[[/size]]//
 [[/div]]
 
 [[div class="lettertwonotedtall"]]
@@ -2261,7 +2261,7 @@ document.getElementById('output').value= text
 .¤₡
 [[/div]]
 [[/div]]
-//[[size 40%]]「錯謬」「聖言」[[/size]]//
+//[[size 40%]]「虛妄」「聖言」[[/size]]//
 [[/div]]
 
 [[div class="lettertwonotedtall"]]
@@ -2272,7 +2272,7 @@ document.getElementById('output').value= text
 .¤૱
 [[/div]]
 [[/div]]
-//[[size 40%]]「錯謬」「太陽」[[/size]]//
+//[[size 40%]]「虛妄」「太陽」[[/size]]//
 [[/div]]
 
 [[div class="lettertwonotedtall"]]
