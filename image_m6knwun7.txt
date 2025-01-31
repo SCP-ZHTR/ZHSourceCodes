@@ -1,0 +1,6 @@
+image: 'https://i.imgur.com/ao8XHZ1.png'
+owner: 殘響
+owner-wiki: Reverberate_a
+license: '0'
+other-license: ''
+note: 蒙特內哥羅
