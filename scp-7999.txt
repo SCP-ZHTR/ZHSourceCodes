@@ -2,7 +2,12 @@
 
 [[include :scp-zh-tr:theme:space]]
 [[include :scp-zh-tr:component:toggle-sidebar]]
-
+=====
+[[include :scp-wiki:component:preview
+text=
+來找我們吧。我們會等著的。
+]]
+=====
 [[module CSS]]
 
 :root {
