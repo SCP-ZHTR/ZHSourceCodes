@@ -477,7 +477,7 @@ body {
 /* Title - 50% chance of applying */
 .anthology-cards-container [style*='alethophobia'] .main::before,
 .yui-navset:has(.monologue-alethophobia) .yui-nav li:nth-child(2) em::before {
-  content: "真實";
+  content: "真相";
 }
 .a-randomizer:has([id$='0'],[id$='2'],[id$='4'],[id$='6'],[id$='8']) ~ .anthology-cards-container [style*='alethophobia'] .main::before,
 .a-randomizer:has([id$='0'],[id$='2'],[id$='4'],[id$='6'],[id$='8']) ~ .closable-tab .yui-navset:has(.monologue-alethophobia) .yui-nav li:nth-child(2) em::before {
@@ -907,7 +907,7 @@ SCP驚選集2024 — 直面你的恐懼。
 [[tabview]]
 [[tab X]]
 [[/tab]]
-[[tab 恐懼症 ]] [!-- 真實恐懼症/記憶恐懼症 --]
+[[tab 恐懼症 ]] [!-- 真相恐懼症/記憶恐懼症 --]
 
 [[div class="monologue-alethophobia"]]
 [[include :scp-wiki:component:audio-player-woed-source
@@ -946,7 +946,7 @@ SCP驚選集2024 — 直面你的恐懼。
 
 正因如此，我們抵抗意識記憶的消失。我們用照片捕捉瞬間。我們在日記記錄我們的想法。我們透過社群媒體傳播自己的生活。這些終究都會成為遺物。這座紀念碑會比我們不完美的心智更為長久。這座紀念碑將矗立在低矮平坦的沙灘上，一路延伸至地平線。成為無垠之地域遺忘處的綿延起伏沙丘。
 
-*注：重整頁面查閱真實恐懼症簡介*
+*注：重整頁面查閱真相恐懼症簡介*
 [[/div]] [!-- .monologue-mnemophobia --]
 
 [[/tab]]
@@ -1023,7 +1023,7 @@ SCP驚選集2024 — 直面你的恐懼。
 |color=#92866c |cover-img=https://scp-sandbox-3.wdfiles.com/local--files/test544/alethophobia.jpg
 |slug=scp-8822
 |author=Croquembouche
-|phobia=恐懼症|title=腦內正設
+|phobia=恐懼症|title=腦內補完從頭歸正
 ]]
 
 [[include :smlt:odule:paella |status=active
