@@ -854,7 +854,7 @@ p { margin: 0 }
 
 [[div class="a_50"]]
 
-[[div class="croqstyle-image-block scp-image-block block-right ch_A"]]
+[[div class="croqstyle-image-block scp-image-block block-right ch_A" style="width: 300px"]]
 [[div class="scp-image-alt img-heads-pile "]]
 一堆石像頭的照片。
 [[/div]]
@@ -867,7 +867,7 @@ p { margin: 0 }
 
 [[div class="a_10"]]
 
-[[div class="croqstyle-image-block scp-image-block block-right ch_A"]]
+[[div class="croqstyle-image-block scp-image-block block-right ch_A" style="width: 300px"]]
 [[div class="a_7"]]
 [[div class="scp-image-alt img-head-original-angle"]]
 [[image head-original-angle-300x300.webp link="#"]]
@@ -996,7 +996,7 @@ SDP-8822是基金會一項卓絕空前的展品。
 [[/embed]]
 
 **回收沿革**
-[[div class="croqstyle-image-block scp-image-block block-right"]]
+[[div class="croqstyle-image-block scp-image-block block-right" style="width: 300px"]]
 [[div class="ch_B"]]
 [[div class="a_28"]]
 [[div class="scp-image-alt img-masonry-exterior-bradford"]]
@@ -1195,7 +1195,7 @@ SDP-8822是基金會一項卓絕空前的展品。
 
 -----
 
-[[div class="croqstyle-image-block scp-image-block block-left ch_A"]]
+[[div class="croqstyle-image-block scp-image-block block-left ch_A" style="width: 300px"]]
 [[div class="a_7"]]
 [[div class="scp-image-alt img-head-brian-angle"]]
 [[image head-brian-angle-300x300.webp link="#"]]
@@ -1254,7 +1254,7 @@ SCP-8822-1
 [[/div]]
 
 
-[[div class="croqstyle-image-block scp-image-block block-right ch_A"]]
+[[div class="croqstyle-image-block scp-image-block block-right ch_A" style="width: 300px"]]
 [[div class="a_7"]]
 [[div class="scp-image-alt img-head-christie-angle"]]
 [[image head-christie-angle-300x300.webp link="#"]]
@@ -1510,7 +1510,7 @@ SCP-8822-3
 
 -----
 
-[[div class="croqstyle-image-block scp-image-block block-left ch_A"]]
+[[div class="croqstyle-image-block scp-image-block block-left ch_A" style="width: 300px"]]
 [[div class="a_7"]]
 [[div class="scp-image-alt img-head-gregory-angle"]]
 [[image head-gregory-angle-300x300.webp link="#"]]
@@ -1728,7 +1728,7 @@ SCP-8822-7
 
 -----
 
-[[div class="croqstyle-image-block scp-image-block block-right ch_A"]]
+[[div class="croqstyle-image-block scp-image-block block-right ch_A" style="width: 300px"]]
 [[div class="a_7"]]
 [[div class="scp-image-alt img-head-brian-angle"]]
 [[image head-brian-angle-300x300.webp link="#"]]
@@ -1773,7 +1773,7 @@ SCP-8822-1
 
 從第一印象，該石匠館遠遠更應描述為禮品店，而非石雕實際製作的現場。四尊石首皆引人注意，遠較古老，比起現代作品更似考古文物，尤以第四尊外貌更有殆瓦風格。不幸地，我們無法對它們詳細分析。
 
-[[div class="croqstyle-image-block scp-image-block block-center"]]
+[[div class="croqstyle-image-block scp-image-block block-center" style="width: 300px"]]
 [[div class="scp-image-alt img-masonry-interior"]]
 失修房間照片，工業類廢棄物凌亂遍佈。
 [[/div]]
@@ -1792,7 +1792,7 @@ SCP-8822-1
 
 我們各自拿起了一顆石首，嘗試找到關鍵情報，但結果克蕾兒與我也一樣對地質學一竅不通。我有生以來未曾考慮外勤探勘，如今，我卻感覺隊伍正缺一名專家。
 
-[[div class="croqstyle-image-block scp-image-block block-center ch_A"]]
+[[div class="croqstyle-image-block scp-image-block block-center ch_A" style="width: 300px"]]
 [[div class="a_7"]]
 [[div class="scp-image-alt img-head-christie-angle"]]
 [[image head-christie-angle-300x300.webp link="#"]]
@@ -2014,7 +2014,7 @@ SCP-8822-3
 
 -----
 
-[[div class="croqstyle-image-block scp-image-block block-right ch_A"]]
+[[div class="croqstyle-image-block scp-image-block block-right ch_A" style="width: 300px"]]
 [[div class="a_7"]]
 [[div class="scp-image-alt img-head-brian-angle"]]
 [[image head-brian-angle-300x300.webp link="#"]]
@@ -2055,7 +2055,7 @@ SCP-8822-1
  # [[span class="ch_B"]][[span class="a_23"]]或為男性，石灰岩製，經過嚴重風化，低品質，[[/span]][[span class="a_10"]]男性，大理石製，經過風化，高品質肖像，[[/span]][[/span]]
  # [[span class="ch_B"]][[span class="a_23"]]//（此外另有石首已知位於石首熟食店女廁）//[[/span]][[span class="a_10"]]或為男性，石灰岩製，經過嚴重風化，低品質。[[/span]][[/span]]
 
-[[div class="croqstyle-image-block scp-image-block block-right"]]
+[[div class="croqstyle-image-block scp-image-block block-right" style="width: 300px"]]
 [[div class="scp-image-alt img-masonry-interior"]]
 失修房間照片，工業類廢棄物凌亂遍佈。
 [[/div]]
@@ -2074,7 +2074,7 @@ SCP-8822-1
 
 **09:20** - 格里哥報告康德計數器已經就位並正在記錄休謨水平，在這段時間將會收集數據。鑒於他是我們的財經分析師，我再叫格里哥到樓上，搜尋辦公室與起居室，以回收營業紀錄。
 
-[[div class="croqstyle-image-block scp-image-block block-right ch_A"]]
+[[div class="croqstyle-image-block scp-image-block block-right ch_A" style="width: 300px"]]
 [[div class="a_7"]]
 [[div class="scp-image-alt img-head-christie-angle"]]
 [[image head-christie-angle-300x300.webp link="#"]]
