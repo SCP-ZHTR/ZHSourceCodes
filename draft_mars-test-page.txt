@@ -1,0 +1,9 @@
+[[module ListPages tag="{$tags}" order="random" limit="1"]]
+%%content%%
+
+------
+
+%%tags%%
+%%_tags%%
+
+[[/module]]
