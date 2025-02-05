@@ -1,0 +1,6 @@
+image: 'https://i.imgur.com/oKvpDyX.jpeg'
+owner: イカ
+owner-wiki: ic-1623
+license: '0'
+other-license: ''
+note: ''
