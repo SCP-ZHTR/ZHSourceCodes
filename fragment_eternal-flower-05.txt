@@ -206,3 +206,6 @@ display: block;
 不過他一定想的到辦法的，對嗎？
 
 你叉起一口檸檬塔。
+[[=]]
+[[include component:image-block name=https://i.imgur.com/OQOSkLe.png|caption=「絕對不要忘記喔。」]]
+[[/=]]
