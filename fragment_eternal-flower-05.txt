@@ -1,0 +1,208 @@
+[[include :scp-zh-tr:theme:basalt darkmode=a]]
+[[Module CSS]]
+
+.btn1,
+.btn1:focus {
+    position: relative;
+    min-width: 200px;
+    background: transparent;
+    color: #E1332D;
+    font-size: 1rem;
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: none;
+    box-sizing: inherit;
+    padding: 10px 20px;
+    border: 1px solid;
+    box-shadow: inset 0 0 20px rgba(225, 51, 45, 0);
+    outline: 1px solid !important;
+    outline-color: rgba(225, 51, 45, 0.5);
+    outline-offset: 0px;
+    text-shadow: none;
+    transition: all 1250ms cubic-bezier(0.19, 1, 0.22, 1);
+}
+.btn1:hover {
+    color: #E1332D;
+    border: 1px solid;
+    box-shadow: inset 0 0 20px rgba(225, 51, 45, 0.5), 0 0 20px rgba(225, 51, 45, 0.2);
+    outline: 1px solid !important;
+    outline-color: rgba(225, 51, 45, 0) !important;
+    outline-offset: 15px;
+    text-shadow: 1px 1px 2px #427388;
+}
+[[/module]]
+[[Module CSS]]
+
+#u-toc-A1{
+display: none;
+}
+
+#u-toc-A1n{
+display: none;
+}
+
+#u-toc-A2{
+display: none;
+}
+
+#u-toc-A2n{
+display: none;
+}
+
+#u-toc-AC1n{
+display: block;
+}
+
+#u-toc-AC2n{
+display: none;
+}
+
+#u-toc-A1:target~#u-toc-AC1n{
+display: none;
+}
+
+#u-toc-A1:target~#u-toc-AC2n{
+display: block;
+}
+
+#u-toc-A1:target~#u-toc-A1n{
+display: block;
+}
+
+#u-toc-A2a:target~#u-toc-AC2n{
+display: none;
+}
+
+#u-toc-A2:target~#u-toc-AC1n{
+display: none;
+}
+
+#u-toc-A2:target~#u-toc-A1n{
+display: block;
+}
+
+#u-toc-A2:target~#u-toc-A2n{
+display: block;
+}
+
+#u-toc-A2:target~#u-toc-A1{
+display: block;
+}
+
+[[/module]]
+
+醒來的時候，一切都已經歸於平靜了，就像你未曾踏進這間屋子之前，就像你還沒劃破這間屋子的的謊言之前。火焰就像未曾到訪過，未曾將你們兩個永恆地分離，就像你們從來沒有離開過一樣。
+
+神清氣爽，這裡沒有別人了，只剩下你自己。鑰匙還是在你的口袋，你以奇怪的姿勢舞動身體，好不容易讓鑰匙從口袋裡滑出一截，你趕緊用小指勉強勾住，這才笨拙地解開手銬。你還有其他事情必須完成。
+
+項目現在還坐在你的對面，閉上眼休息著。就像是你們第一次見面的場景，那時你從屏風後面呼喚他，然後視線就那樣對上了。
+
+他胸口的黑色襯衫上，綻開了一朵暗紅色的花，菜刀還緊緊抓在手上。你撥開他冰冷僵硬的手指，把菜刀安全的放到菜刀應該在的位置。接著，你用盡所有力氣，扶住項目的肩膀與雙腿，將他抱在你的胸前，幸好他很輕，幸好你很輕。
+
+抱著他已經沒有溫度的遺體，你知道該怎麼做。
+
+
+@@ @@
+@@ @@
+++ 『調查飯廳』
+@@ @@
+[[collapsible show="「接近項目」" hide="你擁抱著他。"]]
+> 他好冷。
+> 
+> 你的體溫也高不到哪裡去，但你仍能將你們的體溫平均分配。有人說過，體溫這種東西就像是指紋、生物光、虹膜一樣獨特，每個人的體溫特徵都完全不同，因為體溫不只是一個數字，而是能讓血流的方向無所遁形的魔法。有些人手腳冰冷，有些人體溫本來就偏高偏低。可是你現在在做的事情正是將自己的一切覆蓋到對方身上去。
+> 
+> 太冷了，還不夠，對不起。
+> 
+> 他胸的血花仍然刺眼。
+[[/collapsible]]
+@@ @@
+@@ @@
+[[collapsible show="「接近花瓶」" hide="永久花真的是永久的嗎？"]]
+
+> 先把花的靈魂抽出，然後再注入不屬於它的靈魂。
+> 
+> 可是又有誰記得花的靈魂是否也可愛？
+> 
+> 乾燥花、葬花、壓花、拓花，人類一直都在想盡辦法延長花的壽命，好讓這份美麗能夠觸碰永久。
+> 
+> 但每個人也都知道，明明在花的那一瞬間才是最美的啊。
+[[/collapsible]]
+@@ @@
+@@ @@
+[[collapsible show="「接近冰箱」" hide="不需要打開。"]]
+> 已經沒有打開的理由了。
+> 
+> 你懷中的他，比冰箱還更冰涼。
+> 
+> 但如果可以的話，回到現實世界後，你也想搞一個基金會磁鐵。不知道哪裡能找到。
+
+[[/collapsible]]
+@@ @@
+@@ @@
+++ 『調查客廳』
+@@ @@
+[[collapsible show="「接近電視」" hide="無論電視機在撥什麼，你都直接把它關了。"]]
+> 正義與否，偉大與否，愛與否，好與否。電視機終究是單向的，片面的真相還能稱做是真相嗎？
+> 
+> 比起電視，用雙眼去看吧。
+> 
+> 還有機會的話，請務必記下這個世界的一切，並且不要忘記了。
+> 
+> 約好了。
+[[/collapsible]]
+@@ @@
+@@ @@
+[[collapsible show="「接近牆上的畫」" hide="如果有機會的話。"]]
+
+> 如果有機會的話，你想用現在的這雙眼睛，去譜寫這個世界。
+> 
+> 回過頭去，你的世界與原本的模樣已經不一樣了。
+> 
+> 這些你現在才能看見的東西，是不是其實本來就一直在那裡？
+[[/collapsible]]
+@@ @@
+@@ @@
+++ 『調查臥室』
+@@ @@
+[[collapsible show="「接近衣櫃」" hide="......"]]
+
+> 你先溫柔地把項目放在床上，確保他的身體沒有碰嗑到。
+> 
+> 你甚至沒有出太多力，衣櫃門就像是已經守候多時，很輕易的就能拉開。衣櫃空無一物，沒有任何衣服，這也難怪，項目身上穿的衣服不也一直都是同一件嗎？
+> 
+> 在抱著項目時就知道了，那個味道苦中帶甜，像是植物根部的氣味，是沒藥的味道。一直一直淡淡地從項目的身上飄出。
+> 
+> 花語是治癒，治癒傷痛，撫平傷痕。
+> 
+> 你把項目抱起，放進衣櫃裡。衣櫃門關上後就再也打不開了。
+[[/collapsible]]
+@@ @@
+@@ @@
+[[collapsible show="「接近鏡子」" hide="鏡子照出了我。"]]
+> 這應該是這面鏡子在這幾天以來最完整的一次，好好映照出了你的臉。
+> 
+> 金色的頭髮綁著絲帶，黑色的襯衫作為下擺，你把領帶也給丟了，一起塞進洗衣籃裡，反正用不到了。
+[[/collapsible]]
+@@ @@
+@@ @@
+「呼......」總算是結束了，抱著一個體重相當於自己的人在屋子裡走來走去，對現在體弱多病的你而言實在是件難事。繼承了項目的全部，繼承了他的過去與他的未來，你們倆之間幾乎沒有不同了。那場事故的起點也是這樣，你將命運交給了另一個自己，然後祝福他可以過上比你還要幸福的生活，因為你沒有那個權力去過。
+
+啊，在結束前還有什麼事要做。你抽了一張餐巾紙，再去客廳拿了筆。
+
+> 給自己：
+
+你想了想。
+
+> 給自己：不要忘記，你不是一個人。
+
+你決定把它寫在最前面。
+
+......
+
+......
+
+啊，還真的塞不下沒有碰見異常的處理方法。
+
+不過他一定想的到辦法的，對嗎？
+
+你叉起一口檸檬塔。

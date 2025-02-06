@@ -1,0 +1,23 @@
+[[>]]
+[[module rate]]
+[[/>]]
+[[include :scp-zh-tr:component:author-label-source start=--
+|name= Lostwhat
+|no-right-margin=*]]
+作品名：永久花
+
+[[include :scp-zh-tr:component:author-label-source end=--]]
+
+[[module ListPages category="fragment" parent="." limit="1" order="name" offset="@URL|0"]]
+
+%%content%%
+[[/module]]
+
+[!--
+http://scp-zh-tr.wikidot.com/fragment:eternal-flower-01
+http://scp-zh-tr.wikidot.com/fragment:eternal-flower-02
+http://scp-zh-tr.wikidot.com/fragment:eternal-flower-03
+http://scp-zh-tr.wikidot.com/fragment:eternal-flower-04
+http://scp-zh-tr.wikidot.com/fragment:eternal-flower-05
+http://scp-zh-tr.wikidot.com/fragment:eternal-flower-0d
+--]
