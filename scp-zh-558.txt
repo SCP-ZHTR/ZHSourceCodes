@@ -1,0 +1,71 @@
+[[include :scp-zh-tr:component:scp-meta-title-hiding css-style=classic]]
+[[include :scp-wiki:component:toggle-sidebar]]
+[[include :scp-wiki:component:preview
+text=「二曰謀大逆。（謂謀毀宗廟、山陵及宮闕。）」——《唐律疏議》〈卷第一〉十惡]]
+[[include info:start]]
+[[=]]
+//干紀犯順，違道悖德，逆莫大焉，故曰「大逆」。//
+[[/=]]
+----
+**著者：** [[*user edward-knave]]（[[[edward-knave|作者頁面]]]）
+**篇名：** SCP-ZH-558 - 裂紙大逆（A Ream-Splitting High Treason）
+**備註：** 繁中分部[[[winter-ace-2025|人類紀元12025年冬之陣「絕望與希望」]]]之「絕望」組別投稿。鳴謝[[*user kikunai]]、[[*user tingtangting]]提供協助。
+[[include info:end]]
+
+[[include :scp-zh-tr:component:anomaly-class-bar-source
+|item-number= ZH-558
+|clearance= 3
+|container-class= safe
+|secondary-class= none
+|secondary-icon=
+|disruption-class= keneq
+|risk-class= 謹慎
+]]
+----
+[[include component:image-block
+name=https://i.imgur.com/FjtQxyC.png
+|caption=發現當下的SCP-ZH-558，現已除去並作儲存。
+|width=100%
+|align=center]]
+**項目編號：** SCP-ZH-558
+
+**項目等級：** Safe
+
+**特殊收容措施：** SCP-ZH-558現已儲存於暫設收容區Area-ZH-89，並視為機動特遣隊 葫蘆-8（「約聘編輯團」）轄下資產，座標資料由RAISA-ZH以及繁中分部各[[[why-you-need-pataphysics|敘事戰術站點]]]的正副主任持有。
+
+一切後續測試提案須經過MTF-葫蘆-8成員轉達上述人員，並經前述部門及站點主管層逾三分之二同意，始可執行。
+
+**描述：** SCP-ZH-558是一組由███張白色環氧樹脂片構成的藝術裝置，懸掛時，距離懸掛地點100公尺以內全體人類會被誘發讀寫障礙，形成近似通稱「作家屏障（Writer's Block）」的心理效應。對照實驗指出SCP-ZH-558會使受影響者產出文本、或在文字媒介發言所需時間平均增加至原來的17倍，範圍內的人工智慧常備員以及常態社會現用的人工智慧在生成文本時，亦會出現與受影響的人類相若的延遲。
+
+該效應已知會影響書寫、印刷文本、數位文本處理，只有受影響者離開範圍方可結束。若懸掛位置屬於都市環境，則影響範圍除了原有的半徑100公尺圓形區域之外，亦會包括所在街區全域本來未覆蓋的部分（若有）。
+
+SCP-ZH-558最初在台北[已刪減]書店中，因接獲特工報告現場民眾遠高於常態頻度的投訴、以及書店職員工作可見受阻，而由基金會動員回收，整理項目時在其中一片發現一段題寫，依照負責整理的人員記憶轉錄如下。
+
+> = 揚棄韋編，惟恐舌禍；弒殺作者，惟恐炫耀。
+
+因為SCP-ZH-558未有署名，故現正從已知藝術性質關注組織及異常藝術家開始，對可能與SCP-ZH-558有關的人物展開調查。
+
+鑒於SCP-ZH-558具有擾亂組織運作的應用潛力，該項目現已交由繁中分部敘事戰術站點以及RAISA-ZH共同管理，在繁中分部管轄範圍挑選遠離行政或文書處理事務的收容區儲存，視乎打擊敵意關注組織的需要，審議應用提案。
+
+有說法指出SCP-ZH-558與[[[scp-j|SCP-____-J]]]的異常效應類近，故兩項目的關聯測試日期待定。
+
+現正等待人員提交SCP-ZH-558的實驗或進攻性質應用提案。
+
+[[footnoteblock]]
+----
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+【SCP-ZH系列一】
+<< [[[SCP-ZH-557]]] | SCP-ZH-558 | [[[SCP-ZH-559]]] >>
+[[/=]]
+[[/div]]
+[[include :scp-zh-tr:component:license-box
+|lang=ZH
+]]
+> **圖片標題：** 揚紙
+> **圖片所有人：** tingtangting ([[*user tingtangting]])
+> **來源：** https://i.imgur.com/7ikEWZo.jpg
+> **授權證明：** http://scp-zh-tr.wikidot.com/image:m6ez8uhr
+> **授權方式：** CC BY-SA 3.0
+> **備註：** 圖片經過[[*user Edward_Knave]]裁剪
+[[include :scp-zh-tr:component:license-box-end]]
