@@ -1,0 +1,6 @@
+image: 'https://i.imgur.com/RrrKXPa.jpeg'
+owner: 'Frederica Bernkastel'
+owner-wiki: Frederica-Bernkastel
+license: '0'
+other-license: ''
+note: 自用
