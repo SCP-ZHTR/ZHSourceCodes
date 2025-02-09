@@ -1,6 +1,6 @@
 [[div id="featured"]]
 [[tabview]]
-[[tab 1月作品展出]]
+[[tab 2月作品展出]]
 
 [!-- Left block --]
 [[div class="feature-block"]]
@@ -10,12 +10,12 @@ SCP作品展出
 [[/div]]
 [[div class="panel-body"]]
 [[div class="feature-title"]]
-[[[*scp-zh-294|SCP-ZH-294 - 山林裡的肉工廠]]]
+[[[*scp-zh-606|SCP-ZH-606 - 子虛烏有]]]
 [[/div]]
 [[div class="feature-subtitle"]]
-作者：[[user vomiter]]
+作者：[[user Lostwhat]]
 [[/div]]
-有位弟兄困於血之紐帶，窩藏了不容於我主的汙穢。這位弟兄將接受無機化洗禮，以永恆的身軀為我主的事業持續奉獻。
+你不覺得這整件事有點奇怪嗎？我們檢疫人員有發現你的動物好像都沒有申報，屋子裡奇怪的地方也很多。你真的覺得憑空出現的動物很正常？雞就算了，路上碰到走失的牛這種事怎麼想都不對勁吧。
 [[/div]]
 [[div class="panel-footer"]]
 [[[*featured-scp-archive|查看以往展出的SCP作品]]]
@@ -29,12 +29,12 @@ SCP作品展出
 [[/div]]
 [[div class="panel-body"]]
 [[div class="feature-title"]]
-[[[and-then-there-were-you|僅我生還]]]
+[[[we-will-meet-again|我們會再次見面]]]
 [[/div]]
 [[div class="feature-subtitle"]]
-作者：[[user AbyssDream]]
+作者：[[user KaiTenno]]
 [[/div]]
-自大的存在想要違抗書寫者，自大的存在自以為毫無紕漏的計畫好一切。然而這一切都不過是書寫者所策畫，是宇宙的注定走向。
+把宇宙大爆炸想像成一顆樹的種子，長出來的幼苗會不斷長出新枝，而各個世界就是不同的樹枝。你能夠從這個樹枝盪到另一個樹枝，但你不能逆轉樹木生長的過程。我們的機器是傳送器，不是時光機。
 [[/div]]
 [[div class="panel-footer"]]
 [[[*featured-tale-archive|查看以往展出之故事]]]
@@ -50,12 +50,12 @@ SCP作品展出
 [[/div]]
 [[div class="panel-body"]]
 [[div class="feature-title"]]
-[[[*scp-1342|]]] 
+[[[*scp-7939|]]] 
 [[/div]]
 [[div class="feature-subtitle"]]
-作者：[[user FlameShirt]] 譯者：[[user Lostwhat]]
+作者：[[user ThatGuyThatTime]] 譯者：[[user colorful penguin]]
 [[/div]]
-我們花了數十年來理解你們的訊息，你們的語言，嘗試在無序的千絲萬縷中拼湊答案。踏過靜電與雜訊，最終我們找到了你們。
+帶著嚴肅而噁心的心情，我們宣布所有SCPF的雇員只能透過非常規的手段來……解放。為了讓各位處理自己的麻煩，目前已在挖洞或建置專門的衛生空間。
 [[/div]]
 [[div class="panel-footer"]]
 [[[*featured-translation|查看以往展出的翻譯作品]]]
@@ -69,12 +69,12 @@ SCP作品展出
 [[/div]]
 [[div class="panel-body"]]
 [[div class="feature-title"]]
-[[[wanderers:tulip-bubble|]]]
+[[[time-thief-sticker|]]]
 [[/div]]
 [[div class="feature-subtitle"]]
-作者：[[user Chromeblushowo]]
+作者：[[user Dr V Valentine]]
 [[/div]]
-一點一滴累積的鬱金香花瓣再也滿足不了任何人，那種快感是再也無法戒掉。貪婪地飲下鴆毒，但是受傷的不只是夢中人。
+只要接觸到圓球，你也能感受同樣的時空！世界運轉著，時間不斷的流逝，街道上佈滿了行人，但不會有人對你的叫喊做出任何回應，他們甚至會走更快速一點。
 [[/div]]
 [[div class="panel-footer"]]
 [[[*featured-Comprehensive-exhibition|查看以往的綜合展出]]]
