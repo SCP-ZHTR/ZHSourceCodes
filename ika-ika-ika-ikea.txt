@@ -129,10 +129,19 @@ LOGO我做的
 不然塞不下
 [[/div]]
 
+[[div class="modal"]]
 [http://scp-zh-tr.wikidot.com/second-art 刻秒-ART]
 [[=image https://i.imgur.com/A30ou19.png height="200px"]]
-: )
+：）
 [[/div]]
+
+[[div class="modal"]]
+[http://scp-zh-tr.wikidot.com/chassis-a-r-t 「無色的畫室」]
+[[=image https://i.imgur.com/LnFxj3q.jpeg height="200px"]]
+：）
+[[/div]]
+
+
 [[div class="modal"]]
 @@ @@
 @@ @@
@@ -154,6 +163,7 @@ LOGO我做的
 @@ @@
 [[/=]]
 [[/div]]
+[[/div]]
 [[/tab]]
 
 [[tab 原創]]
@@ -166,10 +176,7 @@ LOGO我做的
 [[/=]]
 [[div style="border-bottom:2px solid #ffffff; margin-bottom:1px;"]]
 [[/div]]
-+++ 敬請期待
-* SCP-ZH-994 還原
-* 天穹－輻都台北
-* 夏日 · 44
+還沒有任何東西
 [[/div]]
 [[/tab]]
 
