@@ -1834,7 +1834,7 @@ SCP-8822-2
 +++ 2024-10-15．英國布拉福．A-068396
 
 [[div class="croqstyle-responsive-div"]]
-||~ [[span class="croqstyle-responsive-div__desktop" style="display: none"]]實驗內容[[/span]][[span class="croqstyle-responsive-div__mobile"]]實驗[[/span]] || 透過分析[[span class="ruby"]]乙太伊嵐能量[[span class="rt"]]Elan-Vital Energy[[/span]][[/span]]（EVE）進行[[[scp-8235|奇蹟學評估]]] ||
+||~ [[span class="croqstyle-responsive-div__desktop" style="display: none"]]實驗內容[[/span]][[span class="croqstyle-responsive-div__mobile"]]實驗[[/span]] || 透過分析[[span class="ruby"]]伊嵐生體能量[[span class="rt"]]Elan-Vital Energy[[/span]][[/span]]（EVE）進行[[[scp-8235|奇蹟學評估]]] ||
 ||~ [[span class="croqstyle-responsive-div__desktop" style="display: none"]]施行人員[[/span]][[span class="croqstyle-responsive-div__mobile"]]人員[[/span]] || 高級研究員尼古拉．卡拉瑟斯 _
 高級研究員格里高利．布洛特 ||
 ||~ 步驟 || 利用乙太共振造影儀觀測現場的EVE放射。||
@@ -2153,7 +2153,7 @@ SCP-8822-3
 +++ 2024-10-15．英國索爾福德．A-068396
 
 [[div class="croqstyle-responsive-div"]]
-||~ [[span class="croqstyle-responsive-div__desktop" style="display: none"]]實驗內容[[/span]][[span class="croqstyle-responsive-div__mobile"]]實驗[[/span]] || 透過分析[[span class="ruby"]]乙太伊嵐能量[[span class="rt"]]Elan-Vital Energy[[/span]][[/span]]（EVE）進行[[[scp-8235|奇蹟學評估]]] ||
+||~ [[span class="croqstyle-responsive-div__desktop" style="display: none"]]實驗內容[[/span]][[span class="croqstyle-responsive-div__mobile"]]實驗[[/span]] || 透過分析[[span class="ruby"]]伊嵐生體能量[[span class="rt"]]Elan-Vital Energy[[/span]][[/span]]（EVE）進行[[[scp-8235|奇蹟學評估]]] ||
 ||~ [[span class="croqstyle-responsive-div__desktop" style="display: none"]]施行人員[[/span]][[span class="croqstyle-responsive-div__mobile"]]人員[[/span]] || 高級研究員尼古拉．卡拉瑟斯 _
 研究員蘿倫．謝潑德 ||
 ||~ 步驟 || 利用乙太共振造影儀觀測現場的EVE放射。||
