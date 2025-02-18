@@ -1,3 +1,4 @@
+[[include component:scp-meta-title-hiding css-style=classic]]
 [[include :scp-zh-tr:theme:basalt darkmode=a]]
 [[>]]
 [[module rate]]
