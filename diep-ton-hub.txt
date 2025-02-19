@@ -1,0 +1,348 @@
+[[include :scpko:theme:pacom]]
+
+[[module CSS]]
+.page-rate-widget-box .rate-points {
+color: #000;
+}
+:root {
+    --ct_col_rate-primary: var(--background);
+    --ct_col_link: var(--hyperlink);
+    --ct_col_link-visited: var(--hyperlink-visited);
+    --ct_col_link-newpage: var(--hyperlink);
+}
+
+#header {
+  background-image: url(http://scpvnsandbox2.wdfiles.com/local--files/khnam/header-pacom.png);
+    background-repeat: no-repeat;
+}
+
+.yui-navset:after {
+  content: "《End of Tab》";
+}
+
+#header h1 a::before {
+    content: "SCP FOUNDATION";
+}
+#header h2 span::before {
+    content: "VIETNAMESE GROUP OF INTEREST FILE";
+}
+
+#top-bar {
+    font-size: 90%;
+}
+
+#search-top-box{
+    top: 7.2em;
+}
+
+#side-bar .hover {
+    color: var(--main);
+}
+
+#side-bar .menu-item {
+    padding-left: 0;
+}
+
+#side-bar .menu-item a {
+    margin: 0;
+    font-size: 15px;
+    line-height: 1.41;
+    text-align: center;
+}
+
+#side-bar .menu-item p::before {
+    display: none !important;
+}
+
+.page-rate-widget-box, .creditButton {
+    box-shadow: none !important;
+}
+
+.rate-box-with-credit-button {
+    margin-right: 0;
+}
+
+.rate-box-with-credit-button .page-rate-widget-box .rateup,
+.rate-box-with-credit-button .page-rate-widget-box .ratedown,
+.rate-box-with-credit-button .page-rate-widget-box .cancel {
+    border-top: none;
+    border-bottom: none;
+    border-right: none !important;
+}
+
+@media (max-width: 767px) {
+  #top-bar .open-menu a {
+    top: 0;
+  }
+  #header {
+    background-image: url(https://khoaigarret.wdfiles.com/local--files/bougain-media/scpvnblack);
+  }
+  #action-area {
+    width: 250px;
+    padding-left: 2.5%;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1104px) {
+  #side-bar {
+    background-image: url(http://scpvnsandbox2.wdfiles.com/local--files/khnam/header-pacom.png);
+    margin-top: -14.15em;
+    padding-top: 14.15em;
+  }
+}
+
+@media (min-width: 580px) and (max-width: 766px) {
+  #top-bar {
+    display: block;
+  }
+}
+
+@media (max-width: 680px) {
+  #header h1 a::before {
+    content: "SCP Foundation";
+  }
+  #header h2 span::before {
+    content: "GOI-VN Profile";
+  }
+}
+
+@media (max-width: 580px) {
+  #top-bar ul > li:first-child > a,
+  #top-bar ul > li:first-child > a:hover {
+    color: transparent;
+    letter-spacing: -1em;
+  }
+  #top-bar ul > li:first-child > a::after{
+    color: var(--main);
+    letter-spacing: 0;
+    content: "SCP-VN";
+  }
+  #top-bar ul > li > ul > li:first-child > a {
+    color: var(--main);
+    letter-spacing: 0;
+  }
+  #top-bar ul > li > ul > li:first-child > a:hover {
+    color: var(--highlight);
+    letter-spacing: 0;
+  }
+  #top-bar ul > li > ul > li:first-child > a::after{
+    content: "";
+  }
+}
+
+@media (max-width: 380px) {
+  #header h2 span::before {
+    content: "TLĐLT-VN";
+    letter-spacing: -2px;
+  }
+}
+
+#page-content hr {
+margin-top: 2em;
+margin-bottom: 2em;
+}
+.page-rate-widget-box .rate-points{
+color: #000
+}
+@media (max-width: 767px){
+.side-bar-container {
+background: unset;
+}
+}
+
+[[/module]]
+
+[[include :scp-vn:info:start]]
+[[=image http://scpdsandbox.wdfiles.com/local--files/testbysy3/scp-vn6.png style="width:100px"]]
+[[=]]
+
+**GOI-VN Profile: Children of the Leaf**
+
+**作者：** [[*user KH Nam]], [[*user jackkiller]]
+
+[http://scp-vn.wikidot.com/khnam-profile KH Nam’s Author Page]
+本文為基於英文的二次翻譯
+**英譯版譯者：** [[*user dreadfulfakey]]
+
+**中譯版譯者：** [[*user feitag]]
+嶺南摭怪文言漢語引用自[https://zh.wikisource.org/wiki/%E5%B6%BA%E5%8D%97%E6%91%AD%E6%80%AA/%E6%9C%A8%E7%B2%BE%E5%82%B3 維基文庫]
+[[/=]]
+[[include :scp-vn:info:end]]
+
+[[==]]
+
+**Diệp Tôn** (漢字：葉孫；法語：//Enfants de la Feuille//；英語：//Children of the Leaf//) [[footnote]] 均來自基金會收集的葉孫官方文件中使用的自稱。[[/footnote]] 是異常秘密結社/宗教團體/犯罪組織，被基金會認定為關注組織。其主要活動區域為中南半島與中國南部，並特別活躍於 [[[NX-59-VN]]] (「第零郡」)。組織高度分層化與保密，致使其結構複雜，並讓不同階層成員之間彼此隔離。
+
+* **下層:** 主要由數個缺乏帷幕外部知識的非異常犯罪組織構成。他們負責執行大規模的非法活動，如毒品生產與分銷、人口販運、軍火交易等。更高層的葉孫成員藉由異常能力強迫或威嚇以控制本層成員。只有下層各組織的領導者能和較高層的信使直接接觸。
+* 
+* **中層：**極度狂熱的教團，其信仰圍繞著一個被稱為木神的實體。由於長期使用 [[[SCP-420-VN]]]，多數成員具有現實扭曲能力。而 SCP-420-VN-1 的副作用使中層成員時常出現認知障礙與關於自身能力的妄想。
+
+* **上層：**與中層屬於同一教團，但較不狂熱，且把持關鍵領導職位。他們的異常能力來自對奇蹟術的實際知識。他們的法術通常牽涉自然元素，如植物、礦物、精氣......，尤其是與木神簽訂契約的能力。本層的職位似乎是繼承制，幾個法師氏族是葉孫事實上的領導者。 
+
+歷史悠久的關注組織通常都對葉孫有一定程度的了解，而現代成立的異常組織（如SCP基金會或全球超自然聯盟）則對他們知之甚少。SCP基金會對葉孫的知識大多數來自異事監（Dị Sự Giám）的文獻，以及[[[don-vi-tam-linh-hub | 靈學部門]]]從各種管道獲取的情報。
+@@ @@
+
+[[# u-top]]
+
+[[tabview]]
+
+[[tab 信仰體系]]
+
+總體上來說，葉孫的信仰圍繞著對植物、「自然世界」以及他們認為是其化身的實體----木神（Mộc Thần）的崇拜。據信徒的說法，植物[[footnote]] 葉孫對植物的定義與生物分類學上的植物界並不完全一致。似乎真菌界與部分原生生物界的生物也囊括在定義中。[[/footnote]] 是最真實且純淨的生命形式，並且是宇宙中演化所不可避免的產物。
+
+相反的，葉孫認為，微生物是低等的生命形式，而具有血肉的動物是真實生命形式異化（Entfremdung /tha hoá）的後果。至於現代社會、機械、人工智慧與非有機生命體則被認為是終極的墮落，乃「異化中的異化」。 [[footnote]] 正在調查葉孫對欲肉教與破碎之神教會的態度。 [[/footnote]] 因此，葉孫的政治理念應該最接近「[https://en.wikipedia.org/wiki/Anarchism 無政府主義]」。
+
+木神（在異事監的文獻中也稱為木精）的本質不明，似乎是一個高維多能實體，其代表（或宣稱代表）「自然與植物」之概念。葉孫教團的極端主義似乎是木神的意志。
+
+組織內的中層/高層成員實踐的信念如下：
+
+* **[https://en.wikipedia.org/wiki/Monolatry 拜一神論（Monolatry）]：**承認有多位神祇存在，但始終只崇拜一位神。 [[footnote]] 和一神論（Monotheism）不同的是，一神論只承認存在一位至高神。而和單一主神論（Henotheism）不同的是，單一主神論承認有眾多神靈存在，但認為其中只有一位是值得崇拜的至尊主神。 [[/footnote]]
+* **[https://en.wikipedia.org/wiki/Carnivore_diet 純肉飲食]：**葉孫的追隨者拒絕食用所有植物性食物，並認為食用此類食物為瀆神行徑。唯一允許的例外是食用「木神賜予的」植物，如 [[[SCP-420-VN]]]。
+* **反現代主義：** 葉孫的教義幾乎和文明的工業化與現代化趨勢相反。中層成員均強烈反對都市化與全球化。
+* **[https://en.wikipedia.org/wiki/Millenarianism 千禧年主義]：**相信末日近了，只有遵循葉孫信仰的人才能從即將降臨的災厄中得救，並生活在更美好的新世界。
+
+[[div class="blockquote"]]
+
+
+「你問為何草木才是真實的生命形式？我回答：植物與動物之間，先有植物。植物吸收天地元氣與精華，自生自滅，不仰賴也不破壞他物。而反觀動物，若不是必須吃植物才得以生存，就是更低劣地，必須吃其他動物才得以生長。他們先是仰賴植物，後來更是為了私利而自相殘殺。因此，我告訴你：植物高貴，而動物低賤。」
+
+[[>]]
+摘錄自《葉孫諸要經集略譯》(Lược dịch Các kinh điển Đáng lưu tâm của Diệp Tôn)
+（內傳文獻）
+[[/>]]
+
+[[/div]]
+
+葉孫的中層與上層都相信，木神將於不久後的未來降臨並「清洗世上一切異營生物，再將全人類庇護在一個樹冠下」。該陳述的具體意義目前還不明確，但根據基金會從所抓獲的中層成員身上獲得的情報，可以初步推測這是HK級神祇征服情景。這是一個在葉孫教典中反覆提及，極為重要的事件。
+
+中層藉由異常能力來威嚇下層以保持對他們的控制，而上層則藉由信念灌輸來保持對中層的控制。葉孫的上層是唯一能與木神直接溝通的層級，成員被視為「神的使者」，在教義問題上擁有絕對權威。有跡象顯示，上層氏族正在利用這種權力來剝削較下層的階級，謀取私利。
+
+極端主義思想和行為主要發生在中層，目前基金會懷疑是 SCP-420-VN 認知效應的後果。上層的葉孫成員並沒有絕對奉行上述教義，並且似乎將自身與木神之間視為互惠關係。基金會甚至紀錄到數起上層成員擱置木神命令以「討價還價」的案例。
+
+@@ @@
+
+[[=]]
+[[a href="#u-top"]]【Back To The Top】[[/a]]
+[[/=]]
+
+@@ @@
+[[/tab]]
+[[tab 歷史]]
+
+[[div class="blockquote"]]
+
+= **嶺南摭怪[[footnote]] Lĩnh Nam chích quái，以文言漢語編成的古代越南傳說故事集。[[/footnote]] - 木精傳**
+
+峰州之地，上古有一大樹，名旃檀，高千餘仞，枝葉蔽芾，不知其幾千里，有鶴來棲，因名其地曰白鶴。其樹經幾千年，歲久枯朽，化為妖精，變幻勇猛，能殺生人物。
+
+涇陽王以術勝之，妖祟稍屈，然在此在彼，變化不測，常食人。民乃立祠，每歲終十二月三十日，薦以生人，民居始安，呼為猖狂神[[footnote]] 木神的別名[[/footnote]]。西南界近獼猴國，雄王命婆露（今演州府是也）蠻歲取山源頭獠子以薦，無能易者。
+
+及秦始皇令任囂為龍川令，因革其弊，無以生人禱，猖狂怒殺囂。是後事之尤謹。
+
+至丁先皇時，有法師文俞祥，本北地人，操行修潔，歷遊諸國，通諸蠻語，習得金牙銅齒，年八十餘，遊到我南國。先皇以師禮事之，教以之術娛猖狂神，殺之。
+
+
+[...]
+
+或鉦鼓歌舞，噪亂喧嘩，殺宰生物以領盡走死。無怪作妖，免歲薦之例，民多全活。
+
+[[/div]]
+
+由靈學部門發掘的異事監歷史文獻也記載了類似事件，但在一些關鍵事件上有所差異。首先，這群法師是奉丁先皇（Đinh Tiên Hoàng）諭令而集結的，並由文俞祥（Văn Du Tường）率領。然而，實際上的核心人物是精通時空咒法的日本知名陰陽師安倍晴明。其次，木精並未被完全殺滅，而是被分裂成精、氣、神，三個部分，並各自封印在不同地點。
+
+葉孫在歷史上最早的蹤跡，是在丁先皇 (968 - 979) 在位期間過後不久。最初，葉孫只是居住在越南西北部山區和北中部海岸一些法師氏族的信仰。
+
+在黎初朝（Initial Lê dynasty）早期，這些氏族變成異事監的成立因素之一，從此，他們的信仰實踐更加受限。其教義中的極端主義與日俱增，最終這些氏族在 1592 年由異事監實施的大規模突襲[[[tan-cuoc | 鎮壓]]]中遭到清洗。
+
+在接下來的幾個世紀裡，葉孫存在的痕跡稀有而且零星，主要是在偏遠地區的小規模活動。直到 18 世紀末，葉孫的活動規模與頻率才開始逐漸增加。西山朝富春朝廷甚至試圖將大南國土中受葉孫嚴重影響的區域分割出去。[[footnote]] 「皇帝從嘉定城進軍北伐時，萬象王國國王因塔翁派遣士兵隨我軍共同在山區作戰。在[[[https://en.wikipedia.org/wiki/Tonkin | 白鶴（Bắc Hà）]]]平定後，皇帝賜給他鎮寧的土地。」 -- 摘譯自[[[https://en.wikipedia.org/wiki/%C4%90%E1%BA%A1i_Nam_th%E1%BB%B1c_l%E1%BB%A5c | 大南實錄（Đại Nam thực lục）]]](原譯注：大南是越南阮朝使用時間最長的國號。)[[/footnote]]
+
+在法國殖民中南半島後，有消息稱葉孫將總部遷至寮緬邊境地區，其目的是借助大英帝國與法蘭西帝國之間的地緣政治敏感性，來使兩國對葉孫勢力範圍的影響降到最小。葉孫利用19世紀下半葉至20世紀初不安定的社會政治局勢，穩定地滲透越南異常社群，特別是 NX-59-VN 地區（「第零郡」）。
+
+和先前遭異事監打壓的時期不同的是，這段時期的葉孫教義開始顯露出反現代主義和千禧年主義的早期跡象。他們反西方文明的言論和末日宣傳廣泛傳播。中層會員數也持續成長，主要出於兩個原因：
+
+# 葉孫在貧困農村地區舉辦了多次義診。他們時常使用異常植物的衍生物來治療當時西方醫學無法治癒的疾病，因而獲得了一部分貧困人口的青睞。
+# 上層成員有廣大的交際與情報網路，使他們得以迅速掌握全球局勢（這在當時的亞洲殖民地國家是難以辦到的）。透過對資訊的洞察力，他們在宣傳/預測中所論述到的政治發展和第二次世界大戰的開始，對平民來說幾乎是預言。
+
+在爭奪第零郡的衝突中，葉孫無可避免地與日本帝國 IJAMEA 站在同一陣線，因為他們的政治意識似乎同樣完全對立於法蘭西殖民帝國以及越南激進革命勢力兩方。他們的政治鬥爭通常利用當時在第零郡的廣大追隨者，來宣揚反對當時親法政府的言論。
+
+作為日本在法屬印度支那發動政變的一環，IJAMEA 與葉孫計畫武裝篡奪第零郡，以作為與盟軍談判的籌碼。然而，這個計畫在1945年3月9日的發起的三九政變中失敗了，並導致該市日軍全員陣亡。事件的細節因為缺乏倖存的目擊者而無法得知。
+
+在第零郡三大氏族清洗外部勢力的過程中，葉孫又再次受到嚴重打壓。然而，葉孫旗下的許多犯罪組織至今仍在該市秘密活動。
+
+從二十世紀下半葉直至今，葉孫更加重視擴大在黑社會的勢力，從而打造出了極其龐大的下層武力。雖然他們的自我孤立性和守密性有助於防止其活動對帷幕協議產生重大影響，然而，葉孫致力於實踐其信仰以及籌備末日降臨，對異常界與全球的安全都將構成嚴重威脅。
+
+@@ @@
+
+[[=]]
+[[a href="#u-top"]]【Back To The Top】[[/a]]
+[[/=]]
+
+@@ @@
+[[/tab]]
+[[tab 組織結構]]
+
+中層/高層的分層方法是透過外部觀察得出的，且僅有基金會使用。區分這兩層的主要判定標準是異常能力的來源（使用異常物品而得/擁有奇蹟術知識）和對教團的態度（狂熱/務實且自利）。
+
+在葉孫內部有一套嚴格的宗教等級制度，分為五等：
+
+* **入門：**比作小草，為新招募的成員。他們負責協助或服侍等級更高的成員。
+
+* **護法：**比作樹葉，為教團的正式成員，且人口數佔比最大。他們負責執行高等成員指派的任務。
+
+* **訓導：**比作樹枝，負責管理、協調與審核下等成員的每日活動。
+
+* **教授：**比作樹幹，負責宣傳教義、控制教規，並對教團的重要事務下決策。
+
+* **元老：**比作樹根，對教義和世俗事務有絕對權威，並經常自稱是木神的信使。
+
+訓導一職的層級似乎介於中層與上層之間。然而，成員層級與聖職等級並不完全相關，因為存在數例高層成員佔據低等聖職 [[footnote]] 例如出身於統治氏族的年輕成員。[[/footnote]]，也存在擔任高等聖職的中層成員。
+
+@@ @@
+
+[[=]]
+[[a href="#u-top"]]【Back To The Top】[[/a]]
+[[/=]]
+
+@@ @@
+[[/tab]]
+[[tab 檔案目錄]]
+
+**異常檔案：**
+
+* [[[SCP-165-VN]]] written by [[*user KH Nam]]
+* [[[SCP-420-VN]]] written by [[*user Irina Bougainvillea]]/[[*user KH Nam]]/[[*user Goose of the Pool]]
+* [[[SCP-030-VN]]] written by [[*user KH Nam]]
+* [[[SCP-079-VN]]] written by [[*user Irina Bougainvillea]]
+* [[[SCP-015-VN]]] written by [[*user Rigball]]/[[*user Dept]]
+* [[[SCP-045-VN]]] written by [[*user MI SA]]
+**其他檔案：**
+
+* [[[nx-59-vn | NX-59-VN - District Zero]]] written by [[*user KH Nam]]/[[*user MarkNguyen]]/[[*user Goose of the Pool]]
+* [[[tan-cuoc | The Aftermath]]] written by [[*user KH Nam]]
+* [[[ca-cap-cuu-o-don-vi-tam-linh | An Emergency Case At The Spiritual Division
+]]] written by [[*user KH Nam]]
+
+@@ @@
+
+[[=]]
+[[a href="#u-top"]]【Back To The Top】[[/a]]
+[[/=]]
+
+@@ @@
+[[/tab]]
+[[/tabview]]
+[[/==]]
+[[footnoteblock]]
+
+------
+
+[[=]]
+
+[[module Rate]]
+
+More works by **[[[http://scp-vn.wikidot.com/khnam-profile | KH Nam]]]** / **[[user jackkiller]]**
+[[include :scp-vn:component:license-box-au
+|author=KH Nam và jackkiller]]
+[[include :scp-vn:component:license-box-end]]
+
+[[/=]]
