@@ -1,0 +1,3617 @@
+[[module ThemePreviewer noUi="true"]]
+
+[[include :scp-wiki:theme:basalt darkmode=a|hidetitle=a]]
+
+[[module CSS]]
+
+@import url('https://scp-wiki.wikidot.com/local--files/scp-8980/departuremono.css');
+
+:root {
+    --logo: url(http://scptestwiki.wikidot.com/local--files/sigma:lol/ecw.png);
+    --header-title: "倫理委員會";
+    --header-subtitle: "內部記錄保存介面";
+    --basalt-primary-color: 0, 15, 0;
+    --basalt-secondary-color: 0, 22, 0;
+    --basalt-tertiary-color: 0, 30, 0;
+    --ec-popup-color: 10, 70, 10;
+    --basalt-bright-element-color: 16, 184, 16;
+    --basalt-dark-element-color: 10, 150, 10;
+    --rfr-primary: #E0F6FD;
+    --rfr-secondary: lightskyblue;
+}
+
+body {
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.8)), url("https://scp-wiki.wikidot.com/local--files/scp-8980/fractal.webp");
+    background-position: center, center;
+    background-size: cover;
+    background-attachment: scroll, fixed;
+}
+
+b, strong {
+    font-weight: 800;
+}
+
+table {
+    box-sizing: border-box;
+}
+
+.content-warning {
+    font-size: 85%;
+    translate: 0px -5px;
+}
+
+#top-bar div[class*="top-bar"] > ul > li > a {
+    font-size: 115%;
+}
+
+.page-title {
+    border-bottom: solid 1px #424248;
+    font-weight: normal;
+    margin: 0 0 0.6em;
+    padding: 0 0 0.25em;
+    font-size: 200%;
+    font-family: var(--title-font);
+}
+
+.page-title p {
+    margin: 0;
+}
+
+#breadcrumbs, .pseudocrumbs {
+    margin: auto;
+    width: fit-content;
+    padding-bottom: 5px;
+    opacity: 0.8;
+}
+
+#page-content .yui-content div {
+    overflow: hidden;
+}
+
+#page-content div:is(.document, .darkdocument) {
+    max-width: 50rem;
+}
+
+div:is(.document, .darkdocument)::before, div:is(.document, .darkdocument)::after {
+    position: relative !important;
+}
+
+div.blockquote {
+    background-color: #0f0f0f;
+}
+
+div.blockquote.light {
+    background-color: #2b2b2b;
+}
+
+.red-text {
+    color: red;
+}
+
+.licensebox .collapsible-block-link {
+    opacity: 0.5;
+    transition-duration: 0.3s;
+}
+
+.licensebox .collapsible-block-link:hover {
+    opacity: 1;
+    transition-duration: 0.3s;
+}
+
+@media (max-width: 430px) {
+    :where(#page-content) table {
+        width: fit-content;
+    }
+}
+
+[[/module]]
+
+[[module CSS]]
+
+.yui-nav li:first-child, .yui-nav li.selected {
+    display: none;
+    border: none;
+}
+
+.yui-navset.yui-navset-top {
+    margin: 0;
+    border: none;
+    box-sizing: border-box;
+}
+
+.yui-navset.yui-navset-top div.yui-content {
+    padding: 0px;
+    border: none;
+    box-sizing: border-box;
+    overflow: auto;
+}
+
+.yui-nav li, .yui-nav li a, body .yui-navset.yui-navset-top > ul.yui-nav li a {
+    border: none !important;
+    border-top: none !important;
+    gap: 0;
+}
+
+.yui-navset div.yui-content {
+    background: transparent;
+    border: none;
+}
+
+.yui-navset.yui-navset-top {
+    display: grid;
+    border: none;
+}
+
+.yui-navset .yui-nav {
+    grid-row-start: 2;
+    border: none;
+}
+
+#page-content {
+    position: relative;
+}
+
+@keyframes fademodal {
+  70% { visibility: hidden; }
+  100% { visibility: visible; }
+}
+
+ul.modal-wrapper > li {
+    list-style: none;
+    position: absolute;
+    top: -0.1rem;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 9;
+    transition: opacity 0.3s ease-out;
+    animation: 0.15s fademodal;
+    animation-fill-mode: forwards;
+}
+
+ul.modal-wrapper > li.unfolded {
+    visibility: visible;
+    opacity: 1;
+}
+
+ul.modal-wrapper > li.folded {
+    visibility: hidden;
+    opacity: 0;
+    pointer-events: none;
+    user-select: none;
+}
+
+.unfolded-ec-warning {
+    backdrop-filter: blur(4px);
+    -webkit-backdrop-filter: blur(4px);
+}
+
+ul:has(.unfolded) ~ div.yui-navset {
+    filter: blur(4px);
+}
+
+.ec, .ec-popup {
+    width: 100%;
+    box-sizing: border-box;
+    background-color: rgb(var(--basalt-secondary-color));
+    border: 5px solid rgb(var(--ec-popup-color));
+}
+
+.ec {
+    font-family: 'Departure Mono';
+    padding: 10px;
+    background-image: url(https://scp-wiki.wikidot.com/local--files/theme:basalt/ETHICS_LIGHTLOGO.png);
+    background-size: cover;
+    background-position: center, center;
+    background-blend-mode: darken;
+    font-size: 90%;
+}
+
+.ec-popup {
+    height: 55vh;
+    overflow: auto;
+    position: relative;
+}
+
+.ec-title {
+    font-family: 'Departure Mono';
+    font-size: 2rem;
+    padding: 0;
+    margin: auto;
+}
+
+.ec-grid {
+    display: grid;
+    width: 100%;
+    height: 100%;
+    grid-template-rows: min-content;
+    grid-template-columns: repeat(3, minmax(0, 1fr))
+}
+
+.ec-popup-login, .ec-popup-date {
+    font-family: 'Departure Mono';
+    padding-left: 10px;
+    font-size: 125%;
+    opacity: 0.6;
+    transition-duration: 0.3s;
+}
+
+:is(.ec-popup-login, .ec-popup-date):hover {
+    opacity: 1;
+    transition-duration: 0.3s;
+}
+
+.ec-popup-login {
+    grid-column-start: 1;
+    white-space: nowrap;
+}
+
+.ec-popup-login a {
+    pointer-events: none;
+}
+
+.ec-popup-date {
+    text-align: right;
+    padding-right: 10px;
+    grid-column-start: span 2;
+}
+
+.ec-popup-title {
+    width: 100%;
+    font-family: 'Departure Mono';
+    font-size: 275%;
+    text-align: center;
+    box-sizing: border-box;
+    margin: auto;
+    margin-top: 0;
+    padding: 20px;
+    border-top: 8px double rgb(var(--ec-popup-color));
+    border-bottom: 8px double rgb(var(--ec-popup-color));
+    grid-column-start: span 3;
+}
+
+.ec-popup-desc {
+    text-align: center;
+    margin: auto;
+    grid-column-start: span 3;
+    font-family: 'Departure Mono';
+    font-size: 1rem;
+    width: 75%;
+    box-sizing: border-box;
+}
+
+.ec-options {
+    display: grid;
+    width: 65%;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    background: rgb(var(--basalt-secondary-color));
+    margin: auto;
+    aspect-ratio: 12/1 auto;
+}
+
+:is(.ec-theme-button, .ec-colorblind-button, .ec-accessibility-button) {
+    text-align: center;
+    font-family: 'Departure Mono';
+    border: 5px solid rgb(var(--ec-popup-color));
+    border-top: 0px;
+    box-sizing: border-box;
+    position: relative;
+    transition-duration: 0.5s;
+    display: grid;
+}
+
+.ec-button-inner-wrapper {
+    margin: auto;
+}
+
+:is(.ec-theme-button, .ec-colorblind-button, .ec-accessibility-button) a {
+    text-decoration: none !important;
+}
+
+.ec-button-inner-wrapper a::before {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    content: "";
+}
+
+.ec-theme-button {
+    border-right: 2.5px solid rgb(var(--ec-popup-color));
+}
+
+.ec-colorblind-button {
+    border-left: 2.5px solid rgb(var(--ec-popup-color));
+    border-right: 2.5px solid rgb(var(--ec-popup-color));
+}
+
+.ec-accessibility-button {
+    border-left: 2.5px solid rgb(var(--ec-popup-color));
+}
+
+:is(.ec-theme-button , .ec-accessibility-button, .ec-colorblind-button):hover {
+    background-color: rgba(0, 0, 0, 0.5);
+    transition-duration: 0.5s;
+}
+
+.ecinside {
+    font-family: var(--body-font);
+    font-size: var(--page-content-font-size);
+    color: rgb(195, 195, 200);
+}
+
+.colorblind-mode-on, .light-mode-on {
+    display: none;
+}
+
+:is(.ec, .ec-popup-login, .ec-popup-date, .ec-popup-title, .ec-popup-button) > p,
+:is(.ec, .ec-popup-class, .ec-popup-status, .ec-popup-priority) div:not(.ecinside) > p {
+    margin: auto;
+}
+
+:is(.ec-popup-title, .ec-popup-button) > p {
+    line-height: 1.2;
+}
+
+.ec-popup-button {
+    width: 40%;
+    margin: auto;
+    margin-bottom: 20px;
+    padding: 10px;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0);
+    transition-duration: 0.5s;
+    grid-column-start: span 3;
+    position: relative;
+    border: 8px double rgb(var(--ec-popup-color));
+    box-sizing: border-box;
+    letter-spacing: 2px;
+    cursor: pointer;
+}
+
+.ec-popup-button:hover {
+    background-color: rgba(0, 0, 0, 0.5);
+    transition-duration: 0.5s;
+    letter-spacing: 10px;
+}
+
+.ec-popup-button :is(a, a:hover, a:active, a:focus) {
+    text-decoration: none;
+    pointer-events: none;
+    font-family: 'Departure Mono';
+    font-size: 370%;
+}
+
+.ec-popup-class, .ec-popup-status, .ec-popup-priority {
+    display: flex;
+    flex-direction: column;
+    font-family: 'Departure Mono';
+    text-align: center;
+    border-bottom: 8px double rgb(var(--ec-popup-color));
+}
+
+:is(.ec-popup-class, .ec-popup-status, .ec-popup-priority) div:first-child {
+    font-size: 120%;
+    opacity: 0.7;
+    margin-bottom: -10px;
+}
+
+:is(.ec-popup-class, .ec-popup-status, .ec-popup-priority) div:last-child {
+    font-size: 175%;
+}
+
+.whitepop {
+    color: rgb(195, 195, 200);
+}
+
+.ec-comments .blockquote {
+    border: 3px double rgb(var(--ec-popup-color));
+    background: rgba(var(--basalt-secondary-color), 0.7);
+    width: 100%;
+    margin: auto;
+    margin-bottom: 20px;
+}
+
+.ec-comment {
+    padding-left: 15px;
+    margin-top: -7px;
+}
+
+@media (max-width: 733px) {
+    .ec-popup {
+        height: fit-content;
+    }
+
+    .ec-title {
+        font-size: 7vw;
+    }
+
+    .ec-popup-title {
+        font-size: 7vw;
+    }
+
+    .ec-popup-button:hover {
+        letter-spacing: 5px;
+    }
+
+    .ec-popup-desc {
+        font-family: 'Departure Mono';
+        font-size: 3vw;
+        width: 100%;
+        padding: 5px;
+    }
+    
+    .ec-popup-login, .ec-popup-date {
+        opacity: 1;
+        font-size: 3.7vw;
+        grid-column-start: span 3;
+        text-align: center;
+        padding-right: 10px;
+        margin: auto;
+    }
+
+    div.ec-popup-button :is(a, a:hover, a:active, a:focus) {
+        font-size: 4.5vw;
+    }
+
+    :is(.ec-popup-class, .ec-popup-status, .ec-popup-priority) div:last-child {
+        font-size: 4.3vw;
+    }
+
+    .ec-options {
+        width: 100%;
+        font-size: 90%;
+    }
+}
+
+@media (max-width: 450px) {
+    div.scientistimage {
+        width: fit-content;
+        margin: auto;
+        float: unset;
+    }
+
+    .ec-popup-button {
+        width: 50vw;
+        font-size: 1.5vw;
+    }
+}
+
+
+
+
+
+:is(.bi-r, .bi-y, .bi-g, .bi-b) {
+    padding: 0px 2px 0px;
+}
+
+.bi-r {
+    background-color: rgba(255, 0, 0, 0.25);
+}
+
+.bi-y {
+    background-color: rgba(255, 255, 0, 0.25);
+}
+
+.bi-g {
+    background-color: rgba(0, 255, 0, 0.25);
+}
+
+.bi-b {
+    background-color: rgba(0, 150, 255, 0.25);
+}
+
+:is(.bi-r, .bi-y, .bi-g, .bi-b) :is(a, a:hover, a:active, a:focus) {
+    text-decoration: none;
+    color: inherit;
+}
+
+
+.bi-popup {
+    background-color: rgb(var(--basalt-secondary-color));
+    background-image: url(https://scp-wiki.wikidot.com/local--files/theme:basalt/ETHICS_LIGHTLOGO.png);
+    background-size: cover;
+    background-position: center, center;
+    background-blend-mode: darken;
+    border: 5px solid rgb(var(--ec-popup-color));
+    font-family: 'Departure Mono';
+    padding: 10px;
+    font-size: 90%;
+    transition-duration: 0.2s;
+    z-index: 8;
+    max-height: calc(100vh - 12rem);
+    overflow: scroll;
+    font-style: normal;
+}
+
+.annotitle {
+    font-weight: bold;
+    font-size: 135%;
+    text-decoration: underline;
+    display: block;
+    text-align: center;
+    color: #fff;
+}
+
+.bi-popup strong {
+    font-size: 115%;
+    color: #fff;
+    text-decoration: underline;
+}
+
+.bi-popup a {
+    pointer-events: auto;
+}
+
+:is(.bi-r, .bi-y, .bi-g, .bi-b) .scp-image-block {
+    margin: .2rem .2rem .2rem .2rem;
+    border-bottom: 0px;
+}
+
+
+
+
+.scientistimage {
+    padding: 10px;
+    float: right;
+    position: relative;
+    margin: 10px;
+    width: min-content;
+}
+
+.rfr {
+    display: grid;
+    grid-template-columns: repeat(4, minmax(0, 1fr)) 3px 1fr;
+    grid-template-rows: min-content;
+    font-family: 'Times New Roman'; background: whitesmoke;
+    color: #202020;
+    width: 90%;
+    margin: auto;
+    border: 3px solid var(--rfr-primary);
+}
+
+.rfr > div {
+    position: relative;
+}
+
+.rfr-label {
+    font-size: 80%;
+    display: inline-block;
+    width: 100%;
+    background: var(--rfr-primary);
+    padding-left: 1px;
+}
+
+.committee-reply {
+    background-color: #b5906a;
+    color: black;
+    margin: auto;
+    width: 81%;
+    padding: 7px;
+    border: 3px solid #523500;
+}
+
+.logtime {
+    font-weight: 350;
+    color: grey;
+    font-size: 95%;
+}
+
+.email {
+    background-color: rgba(var(--basalt-secondary-color), 0.9);
+    border: 5px double rgb(var(--ec-popup-color));
+    font-family: 'Departure Mono';
+    padding: 10px;
+    margin: auto;
+    width: 95%;
+    font-size: 95%;
+    box-sizing: border-box;
+}
+
+@media (max-width: 700px) {
+    .scientistimage + .bi-popup {
+        grid-row: 2 !important;
+        grid-column: 1 !important;
+    }
+}
+
+[[/module]]
+
+[[div class="accessibility-mode"]]
+
+[[div style="margin-top: -50px;"]]
+= 您現正閱讀SCP-8980的無障礙模式。該文本大部分的互動要素已除去，使得對於使用螢幕閱讀器的讀者而言更為可讀，其餘內容維持不變。若不需無障礙特徵，則建議使用標準排版，以改善閱讀體驗。
+[[/div]]
+
+@@​@@
+
+[[div class="ec-popup"]]
+[[div class="ec-grid"]]
+[[div class="ec-popup-login"]]
+FMarinos-Site-17@eth-comm.scip.net
+[[/div]]
+[[div class="ec-popup-date"]]
+2017年11月07日 - 當地時間03:43
+[[/div]]
+[[div class="ec-popup-title"]]
+倫理委員會案件
+[[size 50%]]編號14012015-8980-F[[/size]]
+[[/div]]
+
+[[div class="ec-popup-class"]]
+[[div]]
+權限
+[[/div]]
+[[div]]
+僅限3/EC+
+[[/div]]
+[[/div]]
+
+[[div class="ec-popup-status"]]
+[[div]]
+狀態
+[[/div]]
+[[div]]
+[[span style="color: rgb(var(--link-visited-color))"]]持續中[[/span]]
+[[/div]]
+[[/div]]
+
+[[div class="ec-popup-priority"]]
+[[div]]
+優先度
+[[/div]]
+[[div]]
+[[span style="color: orange"]]中級[[/span]]
+[[/div]]
+[[/div]]
+
+[[div class="ec-popup-desc"]]
+以下檔案因違反SCP基金會行為準則而正在接受倫理委員會調查。其中資訊可能並沒有準確反映實際情況，而這份檔案不應視為可信賴的來源。
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[div class="ec-options"]]
+
+[[div class="ec-theme-button light-mode-off colorblind-mode-off"]]
+[[div class="ec-button-inner-wrapper"]]
+[[a href="https://scp-zh-tr.wikidot.com/scp-8980/offset/1?theme_url=https://scp-wiki.wikidot.com/local--files/scp-8980/modeL.css"]]亮色模式[[/a]]
+[[/div]]
+[[/div]]
+
+[[div class="ec-theme-button light-mode-on colorblind-mode-off"]]
+[[div class="ec-button-inner-wrapper"]]
+[[a href="https://scp-zh-tr.wikidot.com/scp-8980/offset/1"]]暗色模式[[/a]]
+[[/div]]
+[[/div]]
+
+[[div class="ec-theme-button light-mode-off colorblind-mode-on"]]
+[[div class="ec-button-inner-wrapper"]]
+[[a href="https://scp-zh-tr.wikidot.com/scp-8980/offset/1?theme_url=https://scp-wiki.wikidot.com/local--files/scp-8980/modeLC.css"]]亮色模式[[/a]]
+[[/div]]
+[[/div]]
+
+[[div class="ec-theme-button light-mode-on colorblind-mode-on"]]
+[[div class="ec-button-inner-wrapper"]]
+[[a href="https://scp-zh-tr.wikidot.com/scp-8980/offset/1?theme_url=https://scp-wiki.wikidot.com/local--files/scp-8980/modeC.css"]]暗色模式[[/a]]
+[[/div]]
+[[/div]]
+
+
+
+[[div class="ec-colorblind-button colorblind-mode-off light-mode-off"]]
+[[div class="ec-button-inner-wrapper"]]
+[[a href="https://scp-zh-tr.wikidot.com/scp-8980/offset/1?theme_url=https://scp-wiki.wikidot.com/local--files/scp-8980/modeC.css"]]色盲模式[[/a]]
+[[/div]]
+[[/div]]
+
+[[div class="ec-colorblind-button colorblind-mode-on light-mode-off"]]
+[[div class="ec-button-inner-wrapper"]]
+[[a href="https://scp-zh-tr.wikidot.com/scp-8980/offset/1"]]標準顏色模式[[/a]]
+[[/div]]
+[[/div]]
+
+[[div class="ec-colorblind-button colorblind-mode-off light-mode-on"]]
+[[div class="ec-button-inner-wrapper"]]
+[[a href="https://scp-zh-tr.wikidot.com/scp-8980/offset/1?theme_url=https://scp-wiki.wikidot.com/local--files/scp-8980/modeLC.css"]]色盲模式[[/a]]
+[[/div]]
+[[/div]]
+
+[[div class="ec-colorblind-button colorblind-mode-on light-mode-on"]]
+[[div class="ec-button-inner-wrapper"]]
+[[a href="https://scp-zh-tr.wikidot.com/scp-8980/offset/1?theme_url=https://scp-wiki.wikidot.com/local--files/scp-8980/modeL.css"]]標準顏色模式[[/a]]
+[[/div]]
+[[/div]]
+
+
+
+[[div class="ec-accessibility-button light-mode-off colorblind-mode-off"]]
+[[div class="ec-button-inner-wrapper"]]
+[[a href="https://scp-zh-tr.wikidot.com/scp-8980"]]標準排版模式[[/a]]
+[[/div]]
+[[/div]]
+
+[[div class="ec-accessibility-button light-mode-on colorblind-mode-off"]]
+[[div class="ec-button-inner-wrapper"]]
+[[a href="https://scp-zh-tr.wikidot.com/scp-8980?theme_url=https://scp-wiki.wikidot.com/local--files/scp-8980/modeL.css"]]標準排版模式[[/a]]
+[[/div]]
+[[/div]]
+
+[[div class="ec-accessibility-button light-mode-off colorblind-mode-on"]]
+[[div class="ec-button-inner-wrapper"]]
+[[a href="https://scp-zh-tr.wikidot.com/scp-8980?theme_url=https://scp-wiki.wikidot.com/local--files/scp-8980/modeC.css"]]標準排版模式[[/a]]
+[[/div]]
+[[/div]]
+
+[[div class="ec-accessibility-button light-mode-on colorblind-mode-on"]]
+[[div class="ec-button-inner-wrapper"]]
+[[a href="https://scp-zh-tr.wikidot.com/scp-8980?theme_url=https://scp-wiki.wikidot.com/local--files/scp-8980/modeLC.css"]]標準排版模式[[/a]]
+[[/div]]
+[[/div]]
+
+[[/div]]
+
+@@​@@
+@@​@@
+@@​@@
+@@​@@
+@@​@@
+
+[[include :scp-zh-tr:info:start]]
+= SCP-8980 — **工作恐懼症：無可感荷**
+= 由[[*user Yossipossi]]撰寫
+= 由[[*user Halewen]]與[[*user Edward_Knave]]翻譯
+
+請注意本檔案包含極度敏感的內容。**強烈**建議讀者慎重。以下為敏感話題的完整列表（同時也不可避免地必須劇透文章內的某些主題）：
+
+@@  @@• **明確和隱晦的厭女**
+@@  @@• 長期官僚與心理傷害
+@@  @@• 劇烈心理創傷與虐待
+@@  @@• 官僚與個人心理操縱
+@@  @@• 物理、臨床與官僚暴力
+@@  @@• 官僚忽視與長期孤立
+@@  @@• 性侵害暗示與類比
+@@  @@• 強制注入/使用藥品
+@@  @@• 性行為與自殺的提及
+
+在繼續前，請確保你在心理與物理上能夠閱讀本檔案。檔案中有世界觀內的內容警告，以告知更多嚴肅主題將逐漸開始在故事中突出。
+
+本文章為虛構作品，其中角色與任何現實中的人出現的相似之處皆為巧合。然而，這篇檔案是基於數個真實故事而撰寫的。
+[[include :scp-zh-tr:info:end]]
+[[include :scp-zh-tr:component:info-cw]]
+
+[[div class="ec"]]
+
+= **[[span class="ec-title"]]倫理委員會備忘錄[[/span]]**
+
+= 因本檔案具有不準確或誤導性資訊，此檔案已由倫理委員會審查專員（ECRSs）的合格專家小組註解。已標記的內容被分為三個種類：
+
+@@​@@
+
+[[div class="bi-r" style="margin: 3px; padding: 5px;"]]
+= 紅色的資訊：不應被包含的資訊。
+[[/div]]
+
+@@​@@
+
+[[div class="bi-y" style="margin: 3px; padding: 5px;"]]
+= 黃色的資訊：不準確或誤導性的資訊。
+[[/div]]
+
+@@​@@
+
+[[div class="bi-g" style="margin: 3px; padding: 5px;"]]
+= 綠色的資訊：應被包含，但並未出現的資訊。
+[[/div]]
+
+@@​@@
+
+= [[span]]額外的內文資訊可能會以[[span class="bi-b"]]藍色標記[[/span]]。[[/span]]
+
+[[/div]]
+
+[[=]]
+@@​@@
+
+……
+
+@@​@@
+
+{{讀取檔案中……}}
+
+@@@@
+
+……
+
+@@​@@
+[[/=]]
+
+[[div class="darkdocument"]]
+
+[[=]]
+[[div class="page-title" style="display: block;" id="#page-title"]]
+SCP-8980
+[[/div]]
+[[/=]]
+
+[[div style="display: grid;"]]
+[[div_ class="bi-y scientistimage"]]
+[[include component:image-block name=https://scp-wiki.wikidot.com/local--files/scp-8980/femalescientist.png| caption=SCP-8980 (2009)| width=225px|alt=alt|alt-text=一名女性科學家。雙眼被黑條遮蓋。襯衣／外套可見的部分鈕扣打開，戴小項鏈。
+]]
+[[/div]]
+[[div_ class="bi-popup" style="grid-row: 1; grid-column: 2; height: min-content; margin: auto;"]]
+[[span class="annotitle"]]審核者註解[[/span]]
+**不當的刪減** — 自1992年起，使用黑條遮住異常項目相片的雙眼已不再是標準做法。
+**不當的照片** — 當異常目前或之前曾受僱於SCP基金會時，除非另有必要，不然應使用他們的研究檔案相片（RPP）。此政策於2005年採用。當時SCP-8980的RPP公開可用且應用於此處。
+**錯誤日期** — 照片於1999年拍攝。
+[[/div]]
+[[/div]]
+
+**項目編號：**SCP-8980
+
+[[span]]**項目等級：**[[span class="bi-b"]]Euclid[[/span]][[/span]]
+
+[[div_ class="bi-popup"]]
+[[span class="annotitle"]]審核者註解[[/span]]
+截至2015年為止，SCP-8980的項目等級正在等待重新分級為Neutralized。
+[[/div]]
+
+[[span class="bi-r"]]**風險等級：**Warning[[/span]]
+
+[[div_ class="bi-popup"]]
+[[span class="annotitle"]]審核者註解[[/span]]
+**不當的格式** — 在SCP檔案中，風險等級必須與瓦解等級一同使用，以符合異常分類系統（ACS）標準。
+**錯誤分級** — 現象通常僅對SCP-8980造成輕微風險，因此至多只為Caution級。
+[[/div]]
+
+**特殊收容措施：**SCP-8980被收容於Site-17內的標準人類收容室中，並使用標準的非電子維安措施。項目必須被[[span class="bi-y"]]三日次地[[/span]]餵食，並採用[[span class="bi-y"]]B2類別的飲食[[/span]]。
+
+[[div_ class="bi-popup"]]
+[[span class="annotitle"]]審核者註解[[/span]]
+**模糊的用詞** — 「三日次地」可能指涉異常是每三天被餵食一次。應使用「每日三次」。
+**錯誤的飲食規範** — SCP-8980沒有任何飲食需求；本檔案以外的收容規範暗示SCP-8980對糖過敏，雖然SCP-8980的醫療記錄在2003年前並沒有顯示此項目對此過敏。
+[[/div]]
+
+SCP-8980能夠在特定的時段參與社交活動，但更多接觸必須由[[span class="bi-b"]]一名合格的收容員工[[/span]]監督。
+
+[[div_ class="bi-popup"]]
+[[span class="annotitle"]]審核者註解[[/span]]
+被分配至SCP-8980的收容員工為克里斯多福．伯恩斯博士、瑞秋．史蒂爾博士和初級研究員摩根．麥克菲瑞，該等人員皆為SCP-8980被收容前的同事。每位人員皆是此審查的關注對象。
+[[/div]]
+
+SCP-8980不得與電子設備接觸。電子設備的使用——如手機、電視或是電腦——必須由[[span class="bi-b"]]首席研究員克里斯多福．伯恩斯[[/span]]認可。當SCP-8980身旁出現透過電子通訊系統進行的溝通時，應不斷監控其中的損壞或惡化。
+
+[[div_ class="bi-popup"]]
+[[span class="annotitle"]]審核者註解[[/span]]
+**克里斯多福．伯恩斯**為基金會於1982至2014年間僱用的4級收容專員。他在獲得電腦科學博士學位不久後被SCP基金會評估並僱用。在受僱於基金會期間，伯恩斯博士參與了數個值得注意的軟硬體異常收容過程（包含SCP-079），最終使得他於1998年時獲提拔至收容專員。他於2010年10月獲得了4級認證。他選擇於2014年退休，並出於他自己的意志而接受了E級記憶刪除。
+ _
+在他的職業生涯早期，倫理委員會收到了一些關於伯恩斯博士行為的舉報，他的同事們認為他的行為相當自傲且帶有侵略性。他時常因這種行為而被同事們舉報。在與Site-17人力資源部代表正式會談後，伯恩斯博士答應會多加小心並注意自己對於其他基金會成員的行為。委員會在此之後即沒有再收到更多關於他的行為的報告。
+ _
+伯恩斯博士為此註解審查的主要調查對象。SCP-8980的記錄（包含本檔案）有很大一部分都是由他撰寫並發布的。
+[[/div]]
+
+作為[[span class="bi-r"]]前[[/span]]基金會員工，SCP-8980應在異常性質停止後回歸至其職位並執行其原職責。為此，SCP-8980每年應作例行測試，以確保其仍為異常。
+
+[[div_ class="bi-popup"]]
+[[span class="annotitle"]]審核者註解[[/span]]
+**誤導性資訊** — SCP-8980在收容期間仍為基金會員工。
+[[/div]]
+
+----
+
+**描述：**SCP-8980為[[span class="bi-b"]]麗莉安．瑪莉[[/span]]。
+
+[[div_ class="bi-popup"]]
+[[span class="annotitle"]]審核者註解[[/span]]
+**麗莉安．瑪莉**曾是3級收容專員，且目前受僱於SCP基金會。瑪莉在電腦科學獲得學士學位不久後，發現了一個與異常數學不等式直接相關的演算法，其後於1999年加入基金會。
+ _
+雖然瑪莉研究員在受僱於基金會期間並沒有再繼續升讀，但基於她的職業道德、盡責態度和成就，她很快就成為了初級職員中的傑出人員。她在研究時徹底客觀而嚴格的態度最終使得她於2004年獲得了3級認證，也就是她於2005年開始出現異常性質的不久前。
+ _
+瑪莉研究員為此註解審查的次要調查對象。
+[[/div]]
+
+SCP-8980為一名[[span class="bi-y"]]28歲[[/span]][[span class="bi-r"]]白種[[/span]]女性[[span class="bi-g"]]人類[[/span]]，出生於美國加利福尼亞州舊金山。
+
+[[div_ class="bi-popup"]]
+[[span class="annotitle"]]審核者註解[[/span]]
+**錯誤年齡** — SCP-8980在收容時為28歲。根據標準協定，應調派一人工智慧構造體以在SCP-8980的出生日時（1月12日）更新此頁面，或僅在此頁面撰寫其出生日。SCP-8980在是次審查當時為40歲。
+ _
+**不恰當的命名** — 「白種」為過時的分類；倘若有必要明確指出項目的種族（在此案例中並非必要），則列明其出身文化更為合適。單字「人類」可用以取代種族。
+[[/div]]
+
+SCP-8980站立時為160公分高，擁有黑色頭髮與棕色眼睛。自收容以來，項目不曾表現出異常的休謨、EVE或神性輻射讀數。
+
+SCP-8980的異常能力在使用電子軟體時會出現。當SCP-8980製造、編輯、刪除或用其他方式與數位資訊互動（包含間接）時，資訊會遭到修改，並對SCP-8980產生某方面的負面影響，諸如社交、財務、心理層面。過去出現的案例包含：
+
+* SCP-8980持有的設備內的重要檔案遭到隨機刪除。
+* 檔案內的文字變化為類似但不適當的單字（[[span class="bi-y"]]即：[[/span]]「[[span class="ruby"]]我喜歡你。[[span class="rt"]]I like you.[[/span]][[/span]]」 -> 「[[span class="ruby"]]我舔你。[[span class="rt"]]I lick you.[[/span]][[/span]]」）。
+[[div_ class="bi-popup"]]
+[[span class="annotitle"]]審核者註解[[/span]]
+**錯誤片語** — 由於此句子的用意為提供例子，而非澄清前一句子，應改為使用「例：」。
+[[/div]]
+* 電子通訊內容被送至錯誤的位置，並時常導致資料外洩或接收者困惑。
+* SCP-8980啟動的重要程式出現未定義行為，即使此狀況不可能發生（例：在記憶體安全的情況下出現記憶體區段錯誤）。
+* 給SCP-8980的電子付款在自動化系統中被送至錯誤的收件者，或是無法送出付款。
+* SCP-8980身邊的電子設備隨機關閉，特別是其他人持有的設備。
+
+SCP-8980的確切異常來源不明，兼為持續研究的目標。
+
+----
+
+**發現：**SCP-8980在2005年2月時的一場例行團隊會面中[[span class="bi-y"]]初次變成異常[[/span]]。
+
+[[div_ class="bi-popup"]]
+[[span class="annotitle"]]審核者註解[[/span]]
+**錯誤的斷定** — 不確定SCP-8980在此之前是否為異常。應使用「初次被發現」。
+[[/div]]
+
+瑪莉研究員試圖展示一張比較兩種演算法的圖表；然而，投影機卻開始展現相當露骨的內容。這導致人力資源事後懲戒瑪莉研究員，要求[[span class="bi-y"]]雙周次地[[/span]]審查她的個人設備，並降低她的薪水，儘管她對此表達了抗議，[[span class="bi-g"]]並表示她的設備從未包含過這種內容，而這並非她自己的過錯[[/span]]。
+
+[[div_ class="bi-popup"]]
+[[span class="annotitle"]]審核者註解[[/span]]
+**模糊的用詞** — 「雙周次地」可能指涉SCP-8980被每周審查了兩次。應使用「每兩周一次」。 _
+ _
+**缺乏背景資訊** — 沒有說明SCP-8980抗議的本質，暗指此抗議是針對懲罰本身而非案例背後的根據。
+[[/div]]
+
+在接下來的幾周，麗莉安研究員開始通報她的設備以及獲分配的SCiPnet帳號出現重大問題。提供的例子包括：檔案隨機遭到刪除、與人溝通的內容遭到修改並對她造成負面影響（在其中一例導致了額外的懲戒）、以及身邊同事的電子產品隨機關機。替換她的設備、重建她的帳號、甚至是暫時搬遷並孤立她自身皆無法避免這些異常發生。
+
+在審議後，考量到財物毀損與喪失性命的可能性，將瑪莉研究員分類為異常[[span class="bi-y"]]被認為是[[/span]]最好的做法。
+
+[[div_ class="bi-popup"]]
+[[span class="annotitle"]]審核者註解[[/span]]
+**被動用法** — 被動語態的使用模糊了這件事的過程，此事是由Site-17的收容監督委員會在諮詢伯恩斯博士的研究團隊（SCP-8980除外）後採取的行動。
+[[/div]]
+
+瑪莉有些猶豫地答應了[[span class="bi-g"]]暫時[[/span]]的收容，直到異常性質消失為止。
+
+[[div_ class="bi-popup"]]
+[[span class="annotitle"]]審核者註解[[/span]]
+**缺乏背景資訊** — SCP-8980僅答應試驗性質的暫時收容；在缺乏此內文的情況下，措詞可能暗指SCP-8980同意永久收容，而項目並未同意這點。
+[[/div]]
+
+----
+
+**附錄1：**初步訪談
+
+在收容後，首席研究員克里斯多福．伯恩斯進行了一系列的初步訪談，以理解SCP-8980異常性質的規模與嚴重程度。以下為這些訪談的完整記錄。
+
+[[div class="blockquote"]]
+**日期：**2005年3月10日
+
+**訪談者：**首席研究員克里斯多福．伯恩斯
+
+**受訪者：**SCP-8980
+
+**主題：**收容後初次訪談
+
+----
+
+= **[記錄開始]**
+
+----
+
+//伯恩斯博士與SCP-8980坐在SCP-8980的收容室中，此收容室為布置良好的標準人形收容單元，兩人之間隔著一張摺疊桌。[[span class="bi-r"]]SCP-8980的多個個人物品正位於房間中，其中包含數本書與一隻老化的絨毛動物玩具。[[/span]]伯恩斯博士在調整椅子和領帶後開始說話。//
+
+[[div_ class="bi-popup"]]
+[[span class="annotitle"]]審核者註解[[/span]]
+**不必要的個人資訊** — 如題。
+[[/div]]
+
+**伯恩斯博士：**我為這些，呃，不幸的狀況致歉，麗莉安—
+
+**SCP-8980：**（//打斷//）你沒有遵守標準程序。在正式訪談中——尤其是那些會放進檔案裡的——你要叫我S-C-P八-九-八-零。我想要專業一點。
+
+//伯恩斯博士清了一下喉嚨。//
+
+**伯恩斯博士：**是，當然。你完全是對的。嗯哼——我為這些不幸的狀況致歉，//SCP-8980//。我理解被迫要經歷這些沒用的程序對像你這樣的人來說肯定很麻煩。
+
+//SCP-8980聳肩。//
+
+**SCP-8980：**沒關係的。我只是希望我們可以在一兩周內解決這事。我需要回去處理流形問題。
+
+**伯恩斯博士：**我們只能希望這件事會快點結束了。
+
+//伯恩斯博士將他手中的數份紙張弄直。//
+
+**伯恩斯博士：**好，我們先從基本的開始：請問你的名字、年齡和職位是？
+
+**SCP-8980：**研究員麗莉安．瑪莉，二十八歲，Site-17的3級收容專員。（//停頓//）感謝你這次有比較正式了。
+
+//伯恩斯博士嘆氣。//
+
+**伯恩斯博士：**好，嗯。下一個，請描述你發現異常性質時的情況。
+
+//短暫的沉默。//
+
+**SCP-8980：**……有必要嗎？你大可直接把所有細節放到檔案裡。
+
+//伯恩斯博士輕笑。//
+
+**伯恩斯博士：**正式性呢？
+
+//SCP-8980吐氣，然後搖搖頭。//
+
+**SCP-8980：**好吧。我當時正在報告對於[[span class="bi-b"]]當//m//值大於50時計算阿克曼函數[[/span]]的啟發式演算法，而投影機突然開始在當場的員工面前展示……（//深呼吸//）「在性方面相當露骨的內容」——沒有任何東西是真的存在我的硬碟中的，補充一下。
+
+[[div_ class="bi-popup"]]
+[[span class="annotitle"]]審核者註解[[/span]]
+此說明的定義與此調查目的大體無關。
+[[/div]]
+
+**伯恩斯博士：**我理解了。通常這會被分類為異常事件，但想必接下來還出了更多事。
+
+//SCP-8980微微皺眉。//
+
+**SCP-8980：**你是我的老闆，伯恩斯。你已經知道接下來發生什麼了。
+
+**伯恩斯博士：**但這是為了記錄，好嗎？
+
+//SCP-8980嘆氣。//
+
+**SCP-8980：**好。我附近的軟體開始出現數場故障，其中包含重要的檔案遭到刪除，電子郵件送到錯誤的地址，還有我同事的電腦隨機關機。這樣夠了嗎？
+
+**伯恩斯博士：**是的，這樣夠了。謝謝你。
+
+
+**SCP-8980：**當然。（//停頓//）你檢查過異常的[[span class="bi-b"]]級別[[/span]]了嗎？
+
+[[div_ class="bi-popup"]]
+[[span class="annotitle"]]審核者註解[[/span]]
+「級別」為**__異常關聯級別__**（ACG）的縮寫，此為SCP基金會收容專員用於確認異常內部邏輯的一種分類法。級別包含：
+
+* **偽解明：**異常完全可用反傳統科學解釋。
+* **範圍內一致：**異常與科學不符，但有一套完善的規則。
+* **模式為主：**異常有某些特定的風格或模式，但沒有規則。
+* **無法解釋：**異常沒有一定的規則或模式，讓收容相當困難。
+
+除非必要，否則收容執行者不會使用ACG，也因此沒有包含在正式記錄內。
+[[/div]]
+
+**伯恩斯博士：**還沒精確檢查過。我們目前在跑一些休謨測試，如果那些測試結果顯示沒反應的話，我們會試著檢查[[span class="ruby"]]伊嵐生體能量[[span class="rt"]]Elan Vital Energy[[/span]][[/span]]。
+
+//SCP-8980輕輕譏笑。//
+
+**SCP-8980：**好像那些測試以前有用過一樣。
+
+**伯恩斯博士：**這個嘛，我[[span class="ruby"]]凡事都無一不做得徹底[[span class="rt"]]nothing if not thorough[[/span]][[/span]]——你以前不總是這樣跟我說的嗎？
+
+//SCP-8980向後傾，然後將頭向上仰。//
+
+**SCP-8980：**……我猜我當時確實這樣說。好吧，做你需要做的測試。但拜託，盡快完成那些測試；我只在這待了一小時就已經坐立難安了。
+
+//伯恩斯博士同情地露出微笑，然後伸展身體，發出一聲可聽見的哈欠聲。//
+
+**伯恩斯博士：**啊，這個嘛，你已經知道標準協定禁止我們給你電腦了，但我猜我可以在測試的同時幫你安排一些輕鬆讀物。可能就從大廳拿個幾本之類的，所以無法保證一定是有趣的東西。
+
+//SCP-8980稍微笑了一下。//
+
+**SCP-8980：**謝謝你。至少感謝你幫我做的。
+
+**伯恩斯博士：**是，當然。在我結束訪談前，還有其他程序內的問題嗎？
+
+**SCP-8980：**應該就這樣了。
+
+**伯恩斯博士：**很好。我們測試完後會再找你。
+
+//伯恩斯博士和SCP-8980握手，而後伯恩斯博士結束了記錄。//
+
+----
+
+= **［紀錄結束］**
+
+----
+
+**後記：**//SCP-8980在收容中表現相當配合。我已經給其提供了基本閱讀物，用來打發接下來幾天的測試期間，主要為輕科幻小說與員工大廳的雜誌。SCP-8980的異常性質測試將透過血液樣本與身體檢測的方式執行。//——伯恩斯博士
+
+[[/div]]
+
+----
+
+**附錄2：**測試結果
+
+在接下來的一周內，收容員工在SCP-8980身上執行了數場測試。主要測試結果記錄如下：
+
+||~ 種類 ||~ 結果 ||~ 評論 ||
+||= 休謨 ||= [[span class="red-text"]]基線[[/span]] || 排除了操縱基準現實的可能性。||
+||= EVE ||= [[span class="red-text"]]基線[[/span]] || 排除了標準奇蹟術活動的可能性。||
+||= Cuil ||= [[span class="red-text"]]非抽象化[[/span]] || 排除了基準現實抽象化的可能性。||
+||= 反熵||= [[span class="red-text"]]本地[[/span]] || 排除了標準跨維度的可能性。||
+||= [[span class="bi-b"]]I-ACRS[[/span]] ||= ##grey|數據不足## || 需要更多實驗以得出確切的結論。||
+
+[[div_ class="bi-popup"]]
+[[span class="annotitle"]]審核者註解[[/span]]
+代表「跨異常相關迴歸數」（Inter-Anomaly Correlative Regression Score）。用於衡量一個異常效應與其他現存異常的資料點相關程度的指標。
+[[/div]]
+
+由於沒有測試產出陽性結果，SCP-8980的收容團隊制定了新行動計畫以研究異常。
+
+[[div class="blockquote"]]
+
+**日期：**2005年3月16日
+
+**訪談者：**首席研究員克里斯多福．伯恩斯
+
+**受訪者：**SCP-8980
+
+**主題：**異常測試結果與未來行動計劃
+
+----
+
+= **[記錄開始]**
+
+----
+
+//訪談於標準訪談室中進行。SCP-8980正坐著，但明顯有些惱怒；它在接下來的一段時間內不斷踏著腳，並憤怒地吐著氣。幾分鐘後，伯恩斯博士進入房間，使SCP-8980抬頭看向他。//
+
+**SCP-8980：**你遲到了。
+
+**伯恩斯博士：**我知道，抱歉。今天路上塞車。
+
+**SCP-8980：**現在是上午10:13。你兩小時前就到站點了。我知道你的行程，我們已經一起工作兩年了。
+
+**伯恩斯博士：**塞車也拖延了我的其他工作。你知道我作為3區的首席研究員有很多責任。
+
+**SCP-8980：**當然。
+
+//沉默。//
+
+**SCP-8980：**所以？
+
+**伯恩斯博士：**你今天有點沒耐心。
+
+**SCP-8980：**（//激動//）聽著伯恩斯，我從上個禮拜起就一直被困在房間裡抽血，然後忍受這些測試。我希望——至少——你會準時到場。
+
+//伯恩斯博士搖了搖頭。//
+
+**伯恩斯博士：**天。你有時真難搞，麗莉。
+
+//SCP-8980揉了揉它的太陽穴。//
+
+**SCP-8980：**只是……這次就饒了我吧。目前狀況如何？
+
+//伯恩斯博士將他的手提箱放在桌上，然後從上方拿取一些文件，再將手提箱放在地上。他有些猶豫地咬了他的嘴唇。//
+
+**伯恩斯博士：**這個嘛，不幸的是，看來所有標準測試都顯示沒有反應，顯示你的異常並非偽解明級。
+
+//沉默。//
+
+**SCP-8980：**好吧。我想也是。
+
+//伯恩斯博士抽出另一份文件，並遞給SCP-8980。它拿起後開始閱讀，而伯恩斯博士繼續說話。//
+
+**伯恩斯博士：**我們還沒發現任何具體的//規則//，但我們至少可以確定異常不是無法解釋級的。
+
+**SCP-8980：**……是啊。我肯定可以在這些資料裡看見一些關聯性，但沒有可以讓我們預測任何特定……
+
+//伯恩斯博士等待了一下，而SCP-8980瞇起眼睛看著文件。//
+
+**伯恩斯博士：**不過，我們已經能夠建立一個可以貫穿過去所有事件的要點。
+
+//SCP-8980停止閱讀並抬起頭，臉上有些擔憂。//
+
+**SCP-8980：**……而那個要點是？
+
+//伯恩斯博士清了一下喉嚨。//
+
+**伯恩斯博士：**這個嘛……看來異常在試著羞辱你。
+
+//沉默。//
+
+**SCP-8980：**//啥？//
+
+**伯恩斯博士：**這裡，看。
+
+//伯恩斯博士將第三份文件遞給SCP-8980，而它熱切地立即開始閱讀。//
+
+**伯恩斯博士：**每次8980改變文本都會損害你的名譽；每份被刪除的文件都是你最需要用來工作的那幾份；而送到錯誤地址的電子郵件都導致了敏感信息外洩，並讓你懷疑自身的感知穩定度；而每台自動關機的設備都正在執行某種重要作業，你剛好在一旁。
+
+//SCP-8980抬頭看向伯恩斯博士。//
+
+**SCP-8980：**什……我——你覺得這是——
+
+**伯恩斯博士：**你有沒有任何宗教信仰呢？
+
+//SCP-8980停頓，嚇了一跳，然後短暫地沉思了問題。它搖搖頭。//
+
+**SCP-8980：**……沒有。我父母是天主教教徒，但我自十五歲以來便沒有信教。
+
+**伯恩斯博士：**那麼我們的首要推測就是來自阿基瓦實體的針對性神罰，或是某種本質物理的附屬物。我可以請相關部門在我們的名義下跑一些測試；幸好本質物理的集中在17站，所以他們可以更快回覆我們。
+
+//SCP-8980低頭看向它抓著的紙張。//
+
+**SCP-8980：**……謝謝。感謝你幫我做的。
+
+//SCP-8980停頓。//
+
+**SCP-8980：**看著這些結果……我猜你同時想要從我身上弄出更多資料點。
+
+//伯恩斯博士微笑，並將雙手交叉在胸前。//
+
+**伯恩斯博士：**你的頭腦一直都很好，SCP-8980。對，我們想要再執行一些實驗，以完全確保沒有潛藏的規律。這樣一來，在我們釐清狀況時，你就有事可以做了，如果這有安慰到你的話。
+
+**SCP-8980：**……這至少會給我的收容延長兩個禮拜。這太荒謬了。我不能這麼做。
+
+//伯恩斯博士微微嘆氣。//
+
+**伯恩斯博士：**很遺憾，我不覺得我們有多少選擇。我們不能讓你在無意間毀了站點裡的重要軟體，尤其我們在這關了一些活生生的夢魘。你只能繼續忍受一陣子。我們已經把流形問題分配給摩根了，他應該能夠處理，如果這有讓你感覺好點的話。把這件事當作是……一場延長假期，好嗎？
+
+//SCP-8980大聲嘆氣。//
+
+**SCP-8980：**好。好——好吧。好——好吧。但你最好確保他有把我已經完成的部分歸功於我。
+
+**伯恩斯博士：**[[span class="bi-b"]]我當然會的。[[/span]]
+
+[[div_ class="bi-popup"]]
+[[span class="annotitle"]]審核者註解[[/span]]
+此處的文章《加約斯-黎曼流形內的三角形面積（z曲線 > 1）》而後以初級研究員摩根．麥克菲瑞作為唯一的作者發表。SCP-8980僅在致謝中與他的其他研究團隊成員一同被提及。
+ _
+雖然此事件被發現違反了基金會的引文政策，目前並沒有採取紀律處分。應注意自事件發生以來已經過了相當長的時間；追溯性懲罰被認為會給麥克菲瑞博士的職業帶來過於巨大的影響，因此不值得追究。
+[[/div]]
+
+//沉默。//
+
+**伯恩斯博士：**所以，我們該繼續第二階段的測試嗎？
+
+**SCP-8980：**……不確定我有沒有得選擇。
+
+**伯恩斯博士：**很好！我總是很喜歡順暢的面談。我會確保你的測試在明天之前會準備好。今天就這樣了嗎？
+
+**SCP-8980：**是。
+
+**伯恩斯博士：**好，明天一大早再見——下次一定準時！
+
+----
+
+= **［紀錄結束］**
+
+----
+
+**後記：**//我會在準備實驗的同時聯繫其他部門。我們需要試著從不同媒介觀察異常來獲取數據點，所以我會試著給這份計劃分配一些資金。希望更多資料可以給我們帶來更多關聯性。//——伯恩斯博士
+
+[[/div]]
+
+----
+
+**附錄3：**實驗記錄及第二次測試結果
+
+以下為SCP-8980實驗紀錄的簡短列表，一共進行了[[span class="bi-y"]]四[[/span]]天。
+
+[[div_ class="bi-popup"]]
+[[span class="annotitle"]]審核者註解[[/span]]
+**錯誤資訊** — 實驗共進行了五天，而非四天。
+[[/div]]
+
+[[div class="blockquote light"]]
+**編號：**8980-A-1
+
+**時長：**2小時
+
+**實驗：**對照組。給予SCP-8980一台內部安裝Windows 95作為系統的標準戴爾牌筆電。筆電無法連上SCiPNet或網際網路。
+
+**記錄到的效果：**最初幾乎沒什麼事發生；然而，在一小時後，當SCP-8980試圖玩踩地雷時，[[span class="bi-b"]]SCP-8980連續58局第一次就踩到地雷[[/span]]，導致項目憤怒地關掉了設備。
+
+[[div_ class="bi-popup"]]
+[[span class="annotitle"]]審核者註解[[/span]]
+由於遊戲在第一個按鈕被按下後才會生成面板，此現象在非異常的Windows 95版本中不可能發生。[[/div]]
+
+----
+
+**評論：**//這個現象有可能是在讓SCP-8980陷入會令其感到挫折或憤怒的狀況來讓它難堪。SCP-8980那[[span class="bi-y"]]衝動的脾性[[/span]]大概也證實了這點；對未來的實驗是一條良好的方向。//——伯恩斯博士
+
+[[div_ class="bi-popup"]]
+[[span class="annotitle"]]審核者註解[[/span]]
+**不恰當的描述** — 如題。
+[[/div]]
+
+[[/div]]
+
+[[div class="blockquote light"]]
+**ID:** 8980-A-2
+
+**DURATION:** 3.5 Hours
+
+**實驗：**提供SCP-8980一台內部正在運行[[span class="bi-b"]]NETLOG[[/span]]的標準戴爾牌筆電，此筆電包含僅供閱讀的SCiPNet權限。SCP-8980被指示要在此設備上解決一百道幾何數學問題。其中軟體已遭到刻意修改，以混淆和阻撓SCP-8980，此舉用意為測試挫敗感是否能避免觸發SCP-8980的異常。
+
+[[div_ class="bi-popup"]]
+[[span class="annotitle"]]審核者註解[[/span]]
+NETLOG為大部分設備使用的標準SCP基金會運行系統。此系統於2010年棄用，並被Framerail取代。
+[[/div]]
+
+**記錄到的效果：**SCP-8980最初回報了好壞參半的結果，雖然項目不斷撞見令[[span class="bi-y"]]她[[/span]]感到懊惱的軟體混淆。
+
+[[div_ class="bi-popup"]]
+[[span class="annotitle"]]審核者註解[[/span]]
+**錯誤識別詞** — 所有異常皆僅應透過它們的編號、臨床識別詞或是代詞「它」稱呼。此舉是為了避免人員與他們被分配至的SCP產生不適當的私人關係。
+[[/div]]
+
+研究員注意到軟體內的數值在SCP-8980解決問題實開始微微變化，並導致了一致錯誤的結果；此變化並非事先修改的策略之一。測試在SCP-8980回報偏頭痛並拒絕繼續後中止。
+
+----
+
+**評論：**//SCP-8980的異常性質在這裡用很陰險的方式起效了；我們花了快二十分鐘才注意到數值正在變化。看來異常不滿足於讓情況自然發展，而且它影響的尺度可能比我們預想的更加細小。我們必須要更加注意。//——伯恩斯博士
+[[/div]]
+
+[[div class="blockquote light"]]
+**編號：**8980-A-4
+
+**時長：**25分鐘
+
+**實驗：**提供SCP-8980它的工作電腦，此電腦被調整為僅供閱讀的SCiPNet權限。SCP-8980被允許私下使用此設備至多一小時，以測試異常效應是否會在沒有外在觀察者的情況下觸發。
+
+**記錄到的效果：**SCP-8980出乎意料地在實驗開始25分鐘後中止測試，且項目表現悲痛。[[span class="bi-b"]]SCP-8980沒有回答有關此事件本質的問題，且要求不要再次執行此實驗。[[/span]]
+
+[[div_ class="bi-popup"]]
+[[span class="annotitle"]]審核者註解[[/span]]
+雖然證詞證實了此實驗以及此處描述的訪談的存在，但Site-17的深井檔案中卻無法找到任何影像紀錄。
+[[/div]]
+
+----
+
+**評論：**//雖然我們不知道這次實驗究竟發生了什麼，但異常顯然還是會在SCP-8980獨處時觸發。調查的下一步應為檢察SCP-8980的異常活動在除了個人電腦（PCs）以外的電子設備上是否會觸發。// ——[[span class="bi-b"]]史蒂爾博士[[/span]]
+
+[[div_ class="bi-popup"]]
+[[span class="annotitle"]]審核者註解[[/span]]
+**瑞秋．史蒂爾博士**為SCP-8980收容團隊的另一名成員。倫理委員會對她執行的訪談顯示她除了初步測試以外幾乎與SCP-8980的實際收容過程毫無關係。
+ _
+倫理委員會普遍認為史蒂爾博士的缺乏參與為她對SCP-8980後期收容環境的嚴重忽視，因此屬於直接違反基金會的行為準則。
+[[/div]]
+
+[[/div]]
+
+[[div class="blockquote light"]]
+**編號：**8980-A-5
+
+**時長：**7.5小時
+
+**實驗：**將SCP-8980帶至一間暫時測試間，其中包含必要生活物資，並提供項目一台接上電源的27吋的液晶電視。SCP-8980被允許觀看任何它想觀看的電視頻道。
+
+**記錄到的效果：**SCP-8980在測試期間觀看了多種教育性的紀錄節目，而一名主研究員偶爾進入房間以檢查實驗狀況。在七個半小時後——接近分配給實驗的八小時時——主研究員進入房間前，電視突然切換至《搖擺家族！》（一個兒童節目）。設備在SCP-8980被送離現場之前皆不對任何外部輸入有任何反應。
+
+----
+
+**評論：**[[span class="bi-y"]]//看來SCP-8980的異常有某種預見或智慧能力——雖然我們仍無法理解他/它到底是什麼。//[[/span]]——伯恩斯博士
+
+[[div_ class="bi-popup"]]
+[[span class="annotitle"]]審核者註解[[/span]]
+**錯誤的假設** — 異常有數種理由表現出類似缺乏知覺的智能生物的理性行為，作為一名收容專員，伯恩斯博士應該要注意到這點。
+[[/div]]
+
+[[/div]]
+
+與此同時，對SCP-8980的生物樣本進行了更多測試，測試紀錄如下：
+
+||~ 種類 ||~ 結果 ||~ 評論 ||
+||= 阿基瓦 ||= [[span class="red-text"]]基線[[/span]] [[size 80%]]（無神論）[[/size]] || 排除了神罰的可能性。||
+||= 本質物理||= [[span class="red-text"]]未綁定[[/span]] || 排除了本質物理化身的可能性。||
+||= 時空 ||= [[span class="red-text"]]未影響[[/span]] || 排除了時空操縱的可能性。||
+||= I-ACRS ||= [[span class="red-text"]]無配對[[/span]] || 排除了由已知異常引起的可能性。||
+||= 逆模因 ||= ##orange|不太可能## || 雖然無法排除，但沒有檢測到任何重大逆模因活動的指標。||
+||= 數位 ||= ##orange|不太可能## || 雖然同樣無法排除，但資訊科技部門與AIAD皆無法定位任何惡意軟體或能夠在SCiPNet上導致SCP-8980的類似軟體。||
+
+在統整現有的證據後，與SCP-8980進行了第三次訪談，此訪談的時間點約為初步收容的三週後。
+
+[[div class="blockquote"]]
+
+**日期：**2005年3月29日
+
+**訪談者：**首席研究員克里斯多福．伯恩斯
+
+**受訪者：**SCP-8980
+
+**主題：**解釋調查結果
+
+----
+
+= **[記錄開始]**
+
+----
+
+//訪談於SCP-8980的收容間中進行。SCP-8980一動也不動地坐在摺疊桌後方，並在大腿上緊握雙手，等著伯恩斯博士抵達。他於[[span class="bi-g"]]上午10:16[[/span]]開門並進入房間。//
+
+[[div_ class="bi-popup"]]
+[[span class="annotitle"]]審核者註解[[/span]]
+**缺乏背景資訊** — 伯恩斯博士的遲到在前份紀錄是引起爭論的一個重點，但值得注意的是，SCP-8980在此沒有特別對此多言。
+[[/div]]
+
+**伯恩斯博士：**早安。
+
+**SCP-8980：**……早。
+
+//伯恩斯博士坐在SCP-8980對面。//
+
+**伯恩斯博士：**恐怕我沒有什麼好消息。
+
+//SCP-8980沒有說話，但它的身體僵硬了起來。伯恩斯博士將一份文件遞給SCP-8980，而後它拿起並開始掃視文件。//
+
+**伯恩斯博士：**幾乎每個主要測試都回報了陰性反應或不太可能的結果。我們已經聯絡過基金會裡的幾乎每個部門了，而我們還是沒有結果。從本質上來看，你似乎是個獨特的模式為主級異常。
+
+//SCP-8980在[[span class="bi-r"]]挫敗[[/span]]之下讓文件掉到地上。它開始不斷深呼吸。//
+
+[[div_ class="bi-popup"]]
+[[span class="annotitle"]]審核者註解[[/span]]
+**不恰當的描述詞** — 如題。
+[[/div]]
+
+**SCP-8980：**喔幹。
+
+**伯恩斯博士：**注意你的用詞。
+
+//SCP-8980將一隻手砸在桌上，嚇到了伯恩斯博士。//
+
+**SCP-8980：**//該死//的！
+
+**伯恩斯博士：**冷靜點。
+
+**SCP-8980：**我要怎麼對此保持冷靜？
+
+//伯恩斯博士不耐煩地嘆了口氣。他捏了一下額頭上的皺紋。//
+
+**伯恩斯博士：**麗莉安，你又開始無理取鬧了。這又不是世界末日之類的——
+
+**SCP-8980：**（//打斷//）最好不是！你知道這代表什麼嗎？！
+
+**伯恩斯博士：**——你……你//只是//需要繼續測試幾個月，然後我們就可以知道……知道要如何減輕你的異常效應。就這樣。就這樣。
+
+//SCP-8980冷笑。//
+
+**SCP-8980：**所以？我就應該要整天爛在這個房間裡，同時等我的「同事們」用棍子戳戳我？
+
+**伯恩斯博士：**這裡，看。我確定我們可以安排一些形式的……娛樂，好讓你度過這段時期。
+
+**SCP-8980：**我不——我不//想要//娛樂。我只想要繼續從事我的專案，然後給這個世界//做出//真正的貢獻，而不是——整天看他媽的《搖擺家族》！
+
+//伯恩斯博士在失望之下嘆了口氣。//
+
+**伯恩斯博士：**我知道跟你說壞消息很難。好，//好吧//……現在，你能幫我們做的就是待在收容中，然後幫我們研究你。等到所有事情都完成並解決了，且我們也發現你出了什麼事之後，我們就會讓你回來，然後你就能用你的專案或演算法或任何東西來幫我們。好嗎？
+
+**SCP-8980：**這//不//好。而且我從沒說過我想要幫助//你//。
+
+//伯恩斯博士退縮，並哼了一聲。//
+
+**伯恩斯博士：**……反正你也沒有幫//我//多少忙。
+
+//SCP-8980再度冷笑，但沒有立即回應。沉默持續了十秒鐘。兩者皆沒有眼神接觸。//
+
+**SCP-8980：**好。一個月。在那之後，我撤銷我對收容的同意。
+
+**伯恩斯博士：**……你不能「撤銷」你對收容的同意。
+
+**SCP-8980：**我知道我的權利，伯恩斯。
+
+//伯恩斯博士笑出聲。[[span class="bi-g"]]SCP-8980沒有。[[/span]]//
+
+[[div_ class="bi-popup"]]
+[[span class="annotitle"]]審核者註解[[/span]]
+**缺乏描述** — 考量到伯恩斯博士與SCP-8980的反應彼此對立，值得注意這裡包含了SCP-8980缺乏的社交回應。
+[[/div]]
+
+**伯恩斯博士：**好，好。知道了。一個月。我們會試著在那之前解決所有事。
+
+//SCP-8980嘆氣，然後在椅子上往後傾。//
+
+**SCP-8980：**那就這樣？
+
+**伯恩斯博士：**對。
+
+**SCP-8980：**感謝老天。
+
+**伯恩斯博士：**對，確實感謝老天。
+
+//伯恩斯博士起身，伸手試圖與SCP-8980握手。SCP-8980最初看向他的臉和手之間，然後最終決定接受握手。兩者皆離開房間。//
+
+----
+
+= **［紀錄結束］**
+
+----
+
+**後記：**//將身為異常的收容會如何進行作為壞消息告知SCP-8980肯定會很尷尬，所以如果我們至少能在下個月內找到減輕SCP-8980的效應的話，那肯定會比較好。雖然我們將會需要借一些其他部門的成員來幫助加速測試——但為了我們的其中一員，我們又有什麼不該做的呢？//——伯恩斯博士
+
+[[/div]]
+
+----
+
+**附錄4：**第二輪實驗記錄
+
+為了以最佳方式將SCP-8980重新整合至SCP基金會的雇用結構中，已執行多種測試以確認如何以最佳方式將其異常性質容納至工作場所中。
+
+[[div class="blockquote light"]]
+
+**編號：**8980-B-2
+
+**時長：**2小時
+
+**實驗：**SCP-8980被載至無法連接至電網或網路的偏僻地點。提供SCP-8980一台全新且完全充飽電的筆電，其中內部正在運行Windows 95，且先前並無與此筆電進行互動過，其內部電子器材也並無故障。
+
+**記錄到的效果：**SCP-8980在架設作業系統時經歷了極大的困難，其中包含高度輸入延遲、筆電自行選擇錯誤選項（例如語言）以及設備突然重啟。雖然SCP-8980最終完成了設定，項目認為這場經歷相當難受並要求結束實驗。
+
+----
+
+**評論：**//這場實驗看來確認了SCP-8980是異常的**源頭**，而非只是它的對象。隔離無法完全避免它的效應，雖然這麼做也將所有毀損限制在了設備本身。//——伯恩斯博士
+
+[[/div]]
+
+[[div class="blockquote light"]]
+
+**編號：**8980-B-4
+
+**時長：**45分鐘
+
+**實驗：**SCP-8980在[[span class="bi-b"]]2級法拉第房[[/span]]中使用一台標準基金會筆電。
+
+[[div_ class="bi-popup"]]
+[[span class="annotitle"]]審核者註解[[/span]]
+以法拉第籠環繞的房間，法拉第籠為設計來避免電磁輻射干涉內部電子器材的設備。確切定義對此審查無關緊要；然而，由於沒有理由猜想此實驗會有任何效果，目前尚不清楚為何伯恩斯博士將此實驗包含在紀錄中，而實驗也回報了零結果。
+[[/div]]
+
+**記錄到的效果：**SCP-8980經歷了類似前次觀察的異常效應。
+
+----
+
+**評論：**//這肯定排除了電磁干涉的可能性，[[span class="bi-r"]]或其他類似的東西[[/span]]。//——伯恩斯博士
+
+[[div_ class="bi-popup"]]
+[[span class="annotitle"]]審核者註解[[/span]]
+**模糊的用詞** — 此處應使用更加精確的用詞，例如「或其他可能的類似異常效應源頭」。
+[[/div]]
+
+[[/div]]
+
+[[div class="blockquote light"]]
+
+**編號：**8980-B-5
+
+**時長：**25分鐘
+
+**實驗：**SCP-8980被放置於一間有著數台電子設備的房間，其中包含手機、電視機和電腦。SCP-8980被指示在實驗期間使用任何一台裝置來做任何事。
+
+**記錄到的效果：**SCP-8980選擇在接下來的數分鐘內使用一台黑莓7230。由於此裝置已被調整成避免使用者向外進行電子通訊，SCP-8980開始玩遊戲「打磚塊」。數分鐘後，設備突然當機，並開始向外撥打電話。接受者——一位名為「麥克．克勞佛」的男子——接起了電話，這名男子曾與SCP-8980就讀於同一間大學。SCP-8980在得知男子的身分後試圖掛上電話，但設備並未配合。兩者在一模糊的話題上激烈爭論了將近十五分鐘，而後SCP-8980將設備摔到地上，並中止了實驗。
+
+----
+
+**評論：**//在SCP-8980的周圍放滿電子設備以「稀釋」異常效應看來沒有效果。異常似乎相當專心於對SCP-8980的心理造成盡可能多的傷害，雖然其能力極限尚未被徹底確認。//
+
+//我們對這起關於麥克．克勞佛的事件很感興趣，然而對他的背景調查和後續訪談仍對SCP-8980的異常性質沒有幫助。他對SCP-8980的理解似乎比SCP-8980對他知道的還多，因此推論他與SCP-8980的關係似乎是單向的，不過他們肯定//知道//彼此。詳細細節僅限兩人知道。他與任何已知的GoI皆無關係，且幾乎沒有帷幕後的知識。但為了保險起見，我們還是對他使用了B級記憶刪除劑。//
+
+//SCP-8980對未來實驗表現出了極度的不情願。我已向它保證我們快找到永久解決方案了。它只需要再控制自己的情緒幾天就好。//——伯恩斯博士
+
+[[/div]]
+
+[[div class="blockquote light"]]
+
+**編號：**8980-B-6
+
+**時長：**10小時
+
+**實驗：**SCP-8980被帶至改裝過的收容間，並提供其數疊標準基金會格線紙以及數個寫作用具（比如鉛筆）。SCP-8980被指示在紙上以//C語言//寫下數個短程式碼，然後將成品放入牆上的洞口中。紙張接著將會被遠端系統解讀，然後將其要求的除錯/輸出資訊印出，並送給SCP-8980。
+
+**記錄到的效果：**在此過程中沒有觀察到任何值得注意的SCP-8980異常效應。
+
+----
+
+**評論：**//這個系統看起來是個可行且實用的方式，能夠讓SCP-8980繼續為基金會執勤。雖然我很確定比起使用機器，這會導致工作品質大幅下降，但我也很確定在得知它在這個組織中仍有前途後，這至少能讓人稍微放心。我很確定當我說我很期待它回來與我們一同共事時，整個研究團隊都會同意。//——伯恩斯博士
+
+[[/div]]
+
+在標準化SCP-8980的收容計畫後的幾天內，SCP-8980在考量了其異常能力的特殊情況下，於2005年4月18日繼續於基金會工作。然而，考量到SCP-8980可能對身邊的電子設備造成威脅，其編號並未被移除。SCP-8980的收容措施已更新。
+
+----
+
+**附錄5：**重新雇用後的收容訪談
+
+在容納SCP-8980的措施經過標準化後的幾天內，SCP-8980呈現適應困難的跡象，但即使是在這些限制下，項目很快地在一個禮拜的適應期內達成了與先前相近的效率。SCP-8980在此期間的精神穩定性出現改善。
+
+在同時進行收容與雇用數週後，SCP-8980表現出了煩惱且缺乏合作的跡象。在項目連續三天並未達到基金會的工作標準後，伯恩斯博士與SCP-8980安排了一場訪談以確認問題的源頭。
+
+[[div class="blockquote"]]
+
+**日期：**2005年5月4日
+
+**訪談者：**首席研究員克里斯多福．伯恩斯
+
+**受訪者：**SCP-8980
+
+**主題：**持續的職業操守問題
+
+----
+
+= **[記錄開始]**
+
+----
+
+//SCP-8980坐在訪談桌後方，沒有動作且雙手緊扣。雖然SCP-8980並沒有動作，但項目臉上有著明顯[[span class="bi-y"]]惱怒[[/span]]的表情。//
+
+[[div_ class="bi-popup"]]
+[[span class="annotitle"]]審核者註解[[/span]]
+**錯誤的措辭** — SCP-8980的表情明顯偏向焦慮，而非惱怒。
+[[/div]]
+
+//在大約上午10:09時，伯恩斯博士進入訪談室。SCP-8980安靜地深吸一口氣，但沒有對他打招呼。伯恩斯博士坐下並面對著它。//
+
+**伯恩斯博士：**早安。
+
+**SCP-8980：**嗨。
+
+//沉默。//
+
+**伯恩斯博士：**所以……你最近的表現有點……「負面趨勢」，用專業術語來說是這樣。[[span class="bi-b"]]部門主管[[/span]]有點不開心，而我確定你知道我們受到的壓力有多大。你的狀況在過去幾周看起來挺好，所以我很好奇你的職業操守為何突然退步了。
+
+[[div_ class="bi-popup"]]
+[[span class="annotitle"]]審核者註解[[/span]]
+菲利浦．湯普森主管。與本案無關。
+[[/div]]
+
+**SCP-8980：**我想出去，伯恩斯。
+
+**伯恩斯博士：**嗯？
+
+**SCP-8980：**我已經被困在這間房間超過一個月了，每天有16小時都在房間內，一周七天幾乎每天都沒有自由。在工作期間，我沒在休息時就完全孤單一人。這股寂靜令我窒息而我累癱了。我想要//離開//。
+
+//沉默。SCP-8980在椅子上移動。//
+
+**SCP-8980：**我們這裡有可以幫我「在受到異常干擾下繼續接受雇用」的系統，但我想要再跟我的……我的朋友說話。還有我的父母。我知道你知道我跟他們沒有處的很好，但我已經超過一個月沒見過或跟他們說過話了，而我真的很想念他們。你肯定能同情我。
+
+//伯恩斯博士抓了一下下巴。//
+
+**伯恩斯博士：**這個嘛，你又不是不能離開你的房間。你在受監視區域中有總共八小時的社交時間。你只是不能進入敏感區域不代表你被囚禁起來了。
+
+//伯恩斯博士短暫停頓。//
+
+**伯恩斯博士：**此外，反正你也不是那麼外向的人。你在工作期間以外幾乎不會跟我們說話。
+
+//SCP-8980發出哼聲。//
+
+**SCP-8980：**我真的寧願在沒有被監視的情況下與人交流。而且讓我重複一遍：//我想再見到我的父母//。所以我想要離開收容，還有——在理想情況下——我想要再次在電腦前工作，無論有甚麼後果也好。
+
+**伯恩斯博士：**麗莉，你是異常，我們不能——
+
+**SCP-8980：**（//打斷//）聽著。我知道。我//知道//。但基金會也有雇用其他異常，而他們大多都不用忍受這麼多的……的……
+
+//SCP-8980猛烈地做出動作。//
+
+**SCP-8980：**……這麼多的//爛事。//我感覺像個他媽的囚犯。
+
+**伯恩斯博士：**你的狀況很特殊，//8980//。我們不能讓你四處亂晃，然後同時給基金會的維安或常態造成破壞。只要隨便一個重要部件出了問題，我們可能就得賠上//大把性命//。[[span class="bi-b"]]靠，基金會讓你離開這間房間你就該謝天謝地了。[[/span]]你現在是個極大的風險，對我們——對//整體//基金會來說都是。
+
+[[div_ class="bi-popup"]]
+[[span class="annotitle"]]審核者註解[[/span]]
+基金會人形收容政策要求異常應能獲得每天至少八小時的社交機會，除了敵對或極度危險的實體（例如SCP-4051）以外。因此，伯恩斯博士這則評論並不恰當。
+[[/div]]
+
+//SCP-8980不舒服地挪動。//
+
+**SCP-8980：**我——
+
+//SCP-8980猶豫。//
+
+**SCP-8980：**我是說……老實說，我他媽才不在乎。這不//正常//。我從沒答應過//這個//。
+
+**伯恩斯博士：**基金會時常對對人們做出他們不答應的事。而在所有人之中，就屬你最應該要知道這點。
+
+//沉默。//
+
+**SCP-8980：**你還真會說話，伯恩斯。
+
+**伯恩斯博士：**事實就是這樣。老實說，這真的有夠令人勞累。我的職責範圍內又多了另一個異常，而且從我的執勤人員表上再劃掉一人給我們的團隊帶來了無數的問題，你最近出現的不服真的（//停頓。//）真的有夠令人厭煩。
+
+**SCP-8980：**喔是啊，我確定//我一直//都很令//你//厭煩。可憐的東西。
+
+**伯恩斯博士：**你一直都是這樣，//真是非常謝謝你//。
+
+//SCP-8980冷笑，但沒有回應。房間內經歷了十二秒的沉默。SCP-8980焦慮地扭動。//
+
+**SCP-8980：**我要提交一份[[span class="bi-b"]]RFR[[/span]]，如果我必須這麼做的話。我才不會再乖乖坐一個月，然後整天只在一張他媽的紙上寫程式。
+
+[[div_ class="bi-popup"]]
+[[span class="annotitle"]]審核者註解[[/span]]
+代表「[[span class="ruby"]]重新評估要求[[span class="rt"]]Request For Reassessment[[/span]][[/span]]表」。此為異常能夠提交以要求重新評估收容措施的一種表單。
+[[/div]]
+
+//伯恩斯博士聳肩。//
+
+**伯恩斯博士：**去吧，8980。我不能阻止你。但你知道我是對的：你對常態是個潛在危險，而主管們也知道這點。假使他們真的做了什麼，他們做出的行為也跟我沒什麼不同。不過我們總是可以再做一輪測試；也許我們又能見到你的另一名大學前男友。
+
+//SCP-8980面容苦悶。//
+
+**SCP-8980：**也許我可以要他們換掉分配到我的人，這樣至少我的每月社交對象就不會是像你一樣的//王八蛋//了。
+
+//伯恩斯博士皺眉。//
+
+**伯恩斯博士：**我要直接假設你[[span class="bi-b"]]大姨媽[[/span]]又來了，然後假裝沒聽見那句話，這樣我們才能保持一定的專業程度。
+
+[[div_ class="bi-popup"]]
+[[span class="annotitle"]]審核者註解[[/span]]
+俚語，意旨月經週期間的黃體期，此時許多女性都會出現不尋常的易怒性格。這種方言形式在職場中並不合適，而伯恩斯博士不應使用。[[/div]]
+
+**SCP-8980：**當然[[span class="bi-g"]]，反正我們早就在假裝沒聽見一些東西了[[/span]]。
+
+[[div_ class="bi-popup"]]
+[[span class="annotitle"]]審核者註解[[/span]]
+**對話闕失** — 這部分的錄像並未被明確記錄下來。考量到這段評論敏感的本質以及其從抄錄中明顯消失了，顯然伯恩斯博士因不明原因而排除了這句話。故意修改基金會抄錄直接違反了基金會的行為準則。
+ _
+無法辨認SCP-8980發言的語境。
+[[/div]]
+
+//伯恩斯博士發出咕噥聲。沉默持續了約二十秒，兩人皆未移動。在幾秒後，SCP-8980嘆氣並站起。//
+
+**SCP-8980：**我想我們沒什麼好說的了。你知道我想要什麼。如果你想再度阻止我，我就會直接繞過你。我已經看膩你那醜陋的嘴臉了，而我很樂意讓你不要再處裡我這個案例。
+
+//沉默。//
+
+**伯恩斯博士：**好，好。提交你的RFR。我們下次訪談再見。
+
+//SCP-8980張嘴試圖回應，但決定不說話。它在一名警衛的陪同下離開訪談室。//
+
+//伯恩斯博士接下來在房間中花了幾分鐘沉思，然後低聲說了一句髒話，並關掉錄像。//
+
+----
+
+= **［紀錄結束］**
+
+----
+
+**後記：**N/A
+
+[[/div]]
+
+訪談4小時後，SCP-8980要求並遞交了一張2093A表單（俗稱「RFR」，或「重新評估要求表」）給[[span class="bi-b"]]Site-17收容監督委員會[[/span]]。
+
+[[div_ class="bi-popup"]]
+[[span class="annotitle"]]審核者註解[[/span]]
+由數名收容專員以及高級Site-17員工組成，包含高級研究員艾倫．威爾斯、諾雅．蓋茲博士以及站點主管湯瑪斯．葛拉漢。
+[[/div]]
+
+[[span class="bi-r"]]為保持資訊透明，文件已轉載於下方[[/span]]。
+
+[[div_ class="bi-popup"]]
+[[span class="annotitle"]]審核者註解[[/span]]
+**違反隱私權** — 倫理委員會審查團隊一致認為SCP-8980於2005年提交的2093A表單不須被展示於其官方檔案中以替代此事件的總結。面向公眾的SCP檔案中禁止發佈私人資訊，除非明確需要提供；目前認為涵蓋此文件的作為別有用心。不論如何，在這個案例中，伯恩斯博士直接違反了基金會的行為準則政策。
+[[/div]]
+@@​@@
+[[div class="blockquote"]]
+[[=]]
++ 表單2093A
++++ 特殊收容措施的重新評估
+[[/=]]
+
+[[div style="width: 85%; margin: auto;"]]
+= [[size 85%]]2093A表單的設計用意為使異常能夠要求站點的收容監督者委員會重新評估它們的特殊收容措施。2093A表單於1995年統一。[[/size]]
+[[/div]]
+
+----
+
+**編號：**SCP-8980
+
+**完整姓名：**麗莉安．瑪莉
+
+**出生日期：**1977年1月12日
+
+**生理性別：**女性
+
+**性別認同：**女性
+
+**婚姻狀態：**未婚
+
+**近親屬：**母
+
+**你目前是否受雇於SCP基金會？：**是
+
+**當前與之前的僱用狀態：**僱用中，在僱用期間成為異常。
+
+**員工編號：**L7701M53-9271
+
+**收容區域的完整正式名稱：**Site-17 西北翼 6區 人形收容室#β082
+
+**填寫目的：**我對於當前我的收容員工執行收容的方式感到相當不滿。作為一名曾為非異常且與收容專員一同密切工作的前基金會員工，我認為我被剝奪了某些權利，且遭到不恰當的收容，其中包含（但不限於）：
+
+* 嚴重缺乏探訪家人的權利。
+* 嚴重缺乏隱私權，特別是在社交過程中。
+* 缺乏足夠的娛樂/激勵。
+* 來自首席研究員克里斯多福．伯恩斯的言語暴力。
+* 並未取得永久收容的同意。
+
+基於以上因素，我要求收容監督委員會直接介入並重新評估我當前的收容措施，以及伯恩斯博士是否為處裡此案件的最佳人選。我希望這些問題可以在沒有產生更多問題的情況下解決。
+
+[[div_ style="border-top: 3px dashed white; text-align: center; border-bottom: 3px dashed white"]]
++++ 異常不得填寫以下部分。
+[[/div]]
+
+**常用稱謂：**博士
+
+**完整姓名：**克里斯多福．伯恩斯
+
+**生理性別：**男性
+
+**性別認同：**男性
+
+**婚姻狀態：**離婚
+
+**許可等級：** 3級 - 收容專員，臨時Site-17/4級權限（10/26/2004授予）
+
+**額外評論與澄清：** 必須承認，SCP-8980對我來說是十分難處理的異常。瑪莉研究員在其任職於我們的部門期間曾是我的密切合作人，雖然我們之間有所不合，但我們作為團隊還是做的很好。看見它必須忍受這個異常對我們所有人來說都相當痛苦——特別是它自己——而這情況給我們所有人都帶來了相當多的負面情緒。
+
+儘管如此，作為專家，我認為我們仍已經為了SCP-8980的舒適度與生產力盡了一切努力。它的異常效應——雖然最初看上去無害——如果與站點內的重要電子器材互動了，就可能會帶來災難性的後果。為此，我們必須多加注意SCP-8980互動的對象，為了它的和我們的安全著想。這也是為什麼它的臨時收容被延長了。
+
+我承認，我到目前為止對SCP-8980的訪談都沒有那麼專業。然而，既然情況已經開始變糟了，我也注意到了此事。根據我過往的諮詢經驗，我希望試著向委員會展現我完全能夠挽回我的錯誤，並在未來與SCP-8980維持良好且有效的關係。如果有必要的話，我會開始進行心理矯正治療以處裡我的錯誤，並努力為我自己與他人創造更好的未來。
+
+誠望垂注
+克里斯多福．伯恩斯博士
+
+[[div_ style="grid-column-start: span 6; border-top: 3px dashed white; text-align: center;"]]
+
++++ 文件結束
+[[/div]]
+[[/div]]
+
+在審議三週後，Site-17的收容監督委員會以[[span class="bi-r"]]下列文件[[/span]]回覆了要求表：
+
+[[div_ class="bi-popup"]]
+[[span class="annotitle"]]審核者註解[[/span]]
+**違反隱私權** — 見前一註解。
+[[/div]]
+@@​@@
+[[div class="committee-reply"]]
+
+[[=]]
++++ Site-17收容監督委員會
+
++++++ 回覆表單2093A-8980（05/27/05）
+[[/=]]
+
+----
+
+[[div style="font-family: 'Times New Roman';"]]
+
+SCP-8980，
+
+感謝您為了您當前的收容情況而聯繫委員會。我們感謝您致力幫助SCP基金會成為一個更加道德且負責的組織。
+
+在激烈的爭論後，我們決定在下方分別回覆您提及的論點，以確保我們有充分滿足您的意願：
+
+[[span style="padding-left: 10px; color: #2f2f2f; border-left: 3px solid #2f2f2f"]]嚴重缺乏探訪家人的權利。[[/span]]
+
+根據倫理委員會行為準則第2章第5節8.15.3條，假如運輸過程中牽涉的人員會「對常態或SCP基金會的財產/人員資源造成重大且/或高度可能的損害」，則異常的探訪權可能會被否決。在將您的異常效應納入考量後，本委員會的意見認為剝奪您的探訪權符合倫理委員會設立的準則，以及當初設立此準則時的意圖。
+
+[[span style="padding-left: 10px; color: #2f2f2f; border-left: 3px solid #2f2f2f"]]嚴重缺乏隱私權，特別是在社交過程中。[[/span]]
+
+本委員會的大部分意見認為伯恩斯博士並未侵犯您的隱私權。雖然您未來的收容能夠且將會有更多特殊措施（比如暫時答應您能夠在沒有直接監督的情況下與其他異常或同事進行一對一交談），您目前的隱私權仍會有所限制，藉此容納您的異常性質。
+
+[[span style="padding-left: 10px; color: #2f2f2f; border-left: 3px solid #2f2f2f"]]缺乏足夠的娛樂/激勵。[[/span]]
+
+您的收容員工將會得到每月50美元的預算，以購買您要求的休閒活動物件。
+
+[[span style="padding-left: 10px; color: #2f2f2f; border-left: 3px solid #2f2f2f"]]來自首席研究員克里斯多福．伯恩斯的言語暴力。[[/span]]
+
+委員會發現首席研究員克里斯多福．伯恩斯對您說的數個評論在專業環境下確實並不恰當。我們已針對伯恩斯博士的評論對其進行訓誡，並給他安排了為期三個月的心理矯正治療，在此治療期間，他將會同時監督您的異常性質。
+
+[[span style="padding-left: 10px; color: #2f2f2f; border-left: 3px solid #2f2f2f"]]並未取得永久收容的同意。[[/span]]
+
+根據基金會員工手冊，您的收容無須經過您的同意。
+
+----
+
+我們希望這些論點能夠減輕您對於在SCP基金會被持續收容的擔憂。如果您還有更多問題或擔憂，請聯繫[[span class="bi-b"]]Site-17當地的倫理委員會連絡員[[/span]]。
+
+++++ 收容監督委員會辦公室
++++++ 會議由諾亞．蓋茲博士於2005年5月27日主持
+
+[[/div]]
+
+[[div_ class="bi-popup whitepop"]]
+[[span class="annotitle"]]審核者註解[[/span]]
+Site-17倫理委員會連絡員的位置當時從缺。此位置最終於2011年由倫理委員會連絡員弗蘿拉．馬里諾斯填補。
+[[/div]]
+
+[[/div]]
+@@​@@
+[[/div]]
+
+@@​@@
+
+[[div class="ec"]]
+
+= **[[span class="ec-title"]]倫理委員會備忘錄[[/span]]**
+@@​@@
+= 本檔案的剩餘部分展示了**嚴重且持續違反**SCP基金會行為準則政策的行為，其中包含長時間惡劣忽視與明確虐待一遭到收容的異常。
+@@ @@
+= 所有不願閱讀這類內容的人員皆不應繼續閱讀本檔案的剩餘部分。如果你已被分配至此檔案且對於閱讀這類文件感到不適，請與你的上司聯繫以盡快重新分配職位並接受記憶消除。
+@@ @@
+= [[size 135%]]強烈建議讀者慎重。[[span class="red-text"]]__繼續的風險須自行承擔。[[/span]]__[[/size]]
+
+[[/div]]
+
+@@​@@
+
+[[div class="darkdocument"]]
+
+**附錄6：**進行中的收容計畫
+
+2005年6月8日，伯恩斯博士在接受心理矯正治療兩週後與SCP-8980展開跟進訪談，藉此重新評估收容成效，並確保SCP-8980的狀況良好。
+
+SCP-8980在基金會續聘期間，持續呈現低參與度、時常錯過工作截止時間、沒能準時打卡（儘管它就住在工作場所中），以及更多出錯。除此之外，雖然SCP-8980可見有與其他異常進行社交，但這些互動大多仍屬淺層，且推測無法滿足SCP-8980，有可能為憂鬱症的徵狀表現。
+
+[[div class="blockquote"]]
+
+**日期：**2005年6月8日
+
+**訪談者：**首席研究員克里斯多福．伯恩斯
+
+**受訪者：**SCP-8980
+
+**主題：**持續的問題
+
+----
+
+= **[記錄開始]**
+
+----
+
+//SCP-8980正待在它的收容間中，在塑膠折疊桌上用手撐著頭。[[span class="bi-r"]]它的床鋪並未整理，而房間角落的垃圾桶裡充滿了多種品牌的無糖汽水。數張皺掉的紙張正位於基金會分配給項目的書桌下。[[/span]]//
+
+[[div_ class="bi-popup"]]
+[[span class="annotitle"]]審核者註解[[/span]]
+**不必要的個人資訊** — 雖然SCP-8980房間的狀態確認了項目的精神狀態不佳，本訪談的內容便已足夠體現這點，因此本段描述並非必要。
+[[/div]]
+
+//伯恩斯博士進入房間，促使SCP-8980抬頭，但沒有移動。伯恩斯博士將錄音設備放在桌上，並開啟設備。//
+
+**伯恩斯博士：**開始記錄訪談，編號8980-W23，對象SCP-8980，時間上午10:01。早安，8980。
+
+//SCP-8980開始激動地大笑。//
+
+**SCP-8980：**哇，伯恩斯，他們肯定訓練得很兇！從沒想過我會見到你表現如此專業——你講話甚至沒有結巴！
+
+//伯恩斯博士微笑。//
+
+**伯恩斯博士：**是的，嗯，我猜你能說我現在已經改變了。我已經發現我幾乎沒有試圖最小化職場上的糾紛。所以從現在起，我會每字每句都遵守SCP基金會的準則。我希望這可以讓我們——用我以前說過的話——今後互相保持專業。
+
+**SCP-8980：**[[span class="bi-b"]]等我相信了再說。[[/span]]我不是昨天才出生的，我知道你一點都沒改變。
+
+[[div_ class="bi-popup"]]
+[[span class="annotitle"]]審核者註解[[/span]]
+這句話有被正確抄錄。 _
+**譯註：**原文為I'll see it when I believe it，通常的說法為I'll believe it when I see it，「等我親眼見證後再相信」。
+[[/div]]
+
+//伯恩斯博士再度微笑。//
+
+**伯恩斯博士：**別擔心；你會親眼見證的。
+
+//SCP-8980發出[[span class="bi-y"]]惱怒的嘆笑聲[[/span]]。伯恩斯博士將數份文件放在他面前的桌上。//
+
+[[div_ class="bi-popup"]]
+[[span class="annotitle"]]審核者註解[[/span]]
+**錯誤用詞** — 對這種聲音來說，正確的用詞為「乾笑」。
+[[/div]]
+
+**伯恩斯博士：**至於今天的行程，我想和你聊聊你的工作環境，提供心理幫助的可能性，以及未來測試的協議。
+
+**SCP-8980：**我不需要心理——（//停頓//）……測試？
+
+**伯恩斯博士：**是，我們想要——
+
+//SCP-8980將拳頭砸向桌子，並站起來，嚇到了伯恩斯首席研究員。//
+
+**SCP-8980：**//不！//絕——
+
+//SCP-8980停頓，然後再度坐下。//
+
+**SCP-8980：**……絕對不要。不。我不會再做任何測試了。
+
+//沉默。//
+
+**伯恩斯博士：**如果可以的話，請讓我多加描述。
+
+//沉默。//
+
+**伯恩斯博士：**從你的RFR來看，你對於你目前的工作安排很不滿，對嗎？
+
+[[span class="bi-b"]]//SCP-8980僵住，但緩緩點頭。//[[/span]]
+
+[[div_ class="bi-popup"]]
+[[span class="annotitle"]]審核者註解[[/span]]
+SCP-8980很可能並不知道RFR在收容監督委員會審查前會由收容處理者過目，這也解釋了它在聽見伯恩斯博士的說法後的反應。
+[[/div]]
+
+**伯恩斯博士：**嗯，只要有了更多測試，我們應該就能夠找到更適合你工作的環境。我確定你會想要的，對吧？
+
+**SCP-8980：**去你的，你個王八蛋。我對此沒有選擇。
+
+**伯恩斯博士：**這個嘛，嚴格說來你有。根據基金會行為——
+
+**SCP-8980：**（//打斷//）你省省吧。
+
+**伯恩斯博士：**——根據基金會行為準則，如果測試並非因維安風險、強化常態或是處決項目為目的而執行的話，你能夠拒絕測試。由於你的異常並非//不可避免的//危險，你不用擔心剛剛說的最後一點。
+
+**SCP-8980：**老天。
+
+**伯恩斯博士：**總之，請在禮拜一前告知我你是否想要終止測試。我會把相關文件傳給你填寫；行為準則基本上不允許我基於口頭要求拒絕測試，而我需要給妳三個「工作」天好讓你書面撤回同意。
+
+//伯恩斯博士停頓，然後繼續。//
+
+**伯恩斯博士：**不過，我確實想要告知你，我個人相信測試對你相當有利，特別是在考量過你以前跟我說過的話，以及你當前的心理狀態後。
+
+**SCP-8980：**可以讓我的心理狀態好點的方法就是不要讓//你//主持我的測試。
+
+**伯恩斯博士：**不幸的是，行為準則要求我要在對你進行的任何實驗中至少擁有一些監督職責。我希望你能理解。
+
+**SCP-8980：**如果這就是你試圖緩和衝突的方法，那你的心理師肯定很難當。
+
+//伯恩斯博士稍微微笑。//
+
+**伯恩斯博士：**那麼我為你的不適表示抱歉。不過，說到心理師，我想幫你報名Site-17的超心理諮商計畫。我有一個——
+
+**SCP-8980：**（//打斷//）克里斯，讓我幫你省去麻煩。我不想要心理師。我//沒事//。我很好。//我很好。//好嗎？
+
+//伯恩斯博士微笑。//
+
+**伯恩斯博士：**好，好。但記得，你隨時都能選擇參與。
+
+**SCP-8980：**謝謝你告知。
+
+//沉默。//
+
+**SCP-8980：**就這樣了嗎？你現在能離開了嗎？//拜託？//
+
+**伯恩斯博士：**是，這樣應該就完成我議程上的所有東西了。我在今天下午5點以前會把相關文件送到你那。[[span class="bi-b"]]不過，如果你問我的話，我//強烈//建議你不要提交。[[/span]]
+
+[[div_ class="bi-popup"]]
+[[span class="annotitle"]]審核者註解[[/span]]
+伯恩斯博士不應對SCP-8980是否應拒絕測試提供意見，因為這並非他要做的選擇。
+[[/div]]
+
+//伯恩斯博士伸出手，而SCP-8980[[span class="bi-g"]]不情願地[[/span]]握手。伯恩斯博士離開收容間。//
+
+[[div_ class="bi-popup"]]
+[[span class="annotitle"]]審核者註解[[/span]]
+**缺乏描述** — 影像顯示SCP-8980猶豫了幾秒後才與伯恩斯博士握手。
+[[/div]]
+
+----
+
+= **［紀錄結束］**
+
+----
+
+**後記：**//SCP-8980不願接受心理治療以及繼續測試可能是因為它的憂鬱症狀，我們也不斷在它的適應性工作環境中看到了。然而，我十分確信更多測試可以幫我們發現能夠改善SCP-8980環境的更多方式，或是做為替代，幫我們更加理解異常的基礎。//
+
+//我想重申我們的團隊正努力地改善SCP-8980的狀況。雖然我們無法控制SCP-8980對其收容過程的反應，但我們可以盡力確保項目能對它的新職責感到舒適。//——伯恩斯博士
+
+[[/div]]
+
+----
+
+**附錄7：**第三輪實驗記錄
+
+在等待SCP-8980呈交合適文件的數日後，項目勉強同意參與針對其異常特性「必要且果斷」的測試，以「致力營造一個更有生產力的工作環境」。以下為在首席研究員克里斯多福．伯恩斯指揮之下，SCP-8980研究團隊施行的第三輪實驗列表[[span class="bi-b"]]節選[[/span]]。
+
+[[div_ class="bi-popup"]]
+[[span class="annotitle"]]審核者註解[[/span]]
+倫理委員會一致認為已執行的實驗總次數嚴重超出合理所需：兩個月間合共進行36次實驗，當中卻只有下列四次提供任何新情報。
+[[/div]]
+
+[[div class="blockquote light"]]
+
+**編號：**8980-C-3
+
+**時長：**1.5分鐘
+
+**實驗：** SCP-8980被指示使用一台無電子介面（但內含電子迴路）的微波爐加熱一份基金會標準口糧。
+
+**記錄到的效果：**微波爐放出的輻射量遠高於正常水平，而非本來的2.5 GHz。微波爐輸出據信高達其型號所能輸出最大的6.8 GHz，導致口糧在爐內猛烈爆炸。
+
+----
+
+**評論：**//看來電子迴路即使沒有電子介面，也會受到SCP-8980的效應影響。這效應也延伸到了常規的設備，也證明嚴密監督SCP-8980的站內活動是合理的。//——伯恩斯博士
+
+[[/div]]
+
+[[div class="blockquote light"]]
+
+**編號：**8980-C-12
+
+**時長：**2小時
+
+**實驗：** SCP-8980被指示使用一台位於另一房間的實驗型語音抄錄機 ，以完成各種命令，該等命令將隨後以類比系統列印。SCP-8980與該屬於電子儀器的抄錄機並無任何直接的接觸。
+
+**記錄到的效果：**抄錄機開始誤讀SCP-8980多處發言，舉動與其已知異常特性相符。目前未知是否有一部分由於抄錄機本身失準，或SCP-8980之影響所致。
+
+----
+
+**評論：**//只要是SCP-8980有直接連繫的電子部件，即使它沒有看見也好，也仍然會呈現失靈。這絕對會再制肘我們本來不多的選項。如果我們要找到替代的系統，可得絞盡腦汁才行。//——伯恩斯博士
+
+[[/div]]
+
+[[div class="blockquote light"]]
+
+**編號：**8980-C-31
+
+**時長：**15小時
+
+**實驗：** 一台運行Windows XP系統的戴爾牌桌面電腦以未啟動的狀態置於SCP-8980的收容間。SCP-8980被指示完全不去使用電腦或與電腦互動。
+
+**記錄到的效果：**即使桌電沒有經過互動，都還是重覆啟動了。在啟動時，電腦播放了Windows XP的開機音效，可以反複聽見SCP-8980受到驚動。開機之後，SCP-8980拒絕接觸或關閉電腦，即使在實驗監督員要求之下亦然。
+
+在實驗大約十五小時後，經過第二十三次啟動，SCP-8980開始失控抽泣，試驗由此終止。
+
+----
+
+**評論：**//這場實驗雖然對SCP-8980造成擾亂，卻仍然幫到我們縮窄我們的替代系統不甚有效的可能解釋。異常似乎並不需要牽涉互動，而只要在SCP-8980附近也會見效。//——伯恩斯博士
+[[/div]]
+
+[[div class="blockquote light"]]
+
+**編號：**8980-C-36
+
+**時長：**47分鐘
+
+**實驗：**將SCP-8980帶至一間連線的測試間。項目被指示與處於另一房間的初級研究員摩根．麥克菲瑞溝通。麥克菲瑞被指示在與一台戴爾牌桌面電腦互動的同時，跟隨SCP-8980的指示行事，並注意除了使用相連的窗口進行筆談以外，不以其他形式向SCP-8980回應。
+
+**記錄到的效果：**實驗進行期間，沒有發生可注意的效應。然而，在實驗開始後約3/4小時，SCP-8980朝測試間地面嘔吐，並開始失控哭泣。SCP-8980與初級研究員麥克菲瑞兩人皆被帶離測試間，實驗提早終止。
+
+----
+
+**評論：**見以下事件紀錄。
+[[/div]]
+
+----
+
+**事件1：**治療後不穩事態
+
+在2005年8月16日，SCP-8980在[[span class="bi-r"]]定期[[/span]]測試期間劇烈嘔吐，隨即收治Site-17西翼留醫。
+
+[[div_ class="bi-popup"]]
+[[span class="annotitle"]]審核者註解[[/span]]
+**錯誤資訊** — 該測試並非定期。
+[[/div]]
+
+經過客觀分析，大體判明SCP-8980並未罹患任何已知的異常及非異常痼疾，其不適成因甚有可能為壓力積累、憂鬱症狀、因缺乏合適營養導致的迷向。[[span class="bi-b"]]SCP-8980於2005年8月17日出院返回收容單元。[[/span]]
+
+[[div_ class="bi-popup"]]
+[[span class="annotitle"]]審核者註解[[/span]]
+雖然當事醫護人員符合基金會醫療守則，惟繼續留醫SCP-8980數日，以妥善診斷任何潛在身體或精神疾病，仍為審慎。
+[[/div]]
+
+SCP-8980在出院後仍然拒絕接受測試，指其住院為中止實驗的[[span class="bi-g"]]（有效）[[/span]]理由。
+
+[[div_ class="bi-popup"]]
+[[span class="annotitle"]]審核者註解[[/span]]
+**缺乏背景資訊** — 根據基金會行為準則，應指明SCP-8980中止測試的理由在當時情形是完全合理的。
+[[/div]]
+
+理由。然而，與此同時，項目拒絕離開房間，並持續數日處於嚴重呆滯狀態，因此當時極少工作及社交活動。在2005年8月23日，伯恩斯博士與SCP-8980展開介入訪談，以處理其所面對的問題。
+
+[[div class="blockquote"]]
+
+**日期：**2005年8月23日
+
+**訪談者：**首席研究員克里斯多福．伯恩斯
+
+**受訪者：**SCP-8980
+
+**主題：**呆滯狀態及動力匱乏
+
+----
+
+= **[記錄開始]**
+
+----
+
+//SCP-8980坐在收容間，雙手環抱自身。它直盯著眼前下方不動，直到伯恩斯進入房間，使得它瞪向他，其餘部分依然不動。其呼吸可見短暫加速，隨後回復基線。//
+
+//伯恩斯博士把錄音機放在摺疊桌上，開始訪談。//
+
+**伯恩斯博士：**開始記錄訪談，編號8980-W23，對象SCP-8980，時間上午10:01。早安，8980。
+
+//沉默。//
+
+**伯恩斯博士：**我理解了。嘛，我想這//就//是今天我們的訪談目的了，那就讓我直入主題。
+
+//伯恩斯博士取出幾張紙，將之弄直。//
+
+**伯恩斯博士：**咳哼。那，我們今天第一個議題是在涉及麥克菲瑞先生的實驗8980-C-36期間發生的事件。啊，他就是牆後面的那個人。我肯定你記得他的。有幫忙解過流形問題那位，如果你還記得的話。
+
+//沉默。SCP-8980直盯向伯恩斯博士。//
+
+**伯恩斯博士：**總之，回到正題：我們要循例問幾題。這樣可以嗎？
+
+**SCP-8980：**不。
+
+**伯恩斯博士：**……嗯。嘛，我想，依照基金會行為準則，我大概不許強逼你去答醫療相關的問題，所以我先暫時按下。我們之後可以再回去談。總之……規程上的第二件事，我看看——
+
+//SCP-8980懊惱地嘆了一口長氣。//
+
+**SCP-8980：**今天……
+
+//沉默。伯恩斯博士期盼地看向SCP-8980。//
+
+**SCP-8980：** 今天甚麼日子。
+
+**伯恩斯博士：**是星期二。
+
+**SCP-8980：**不，伯恩斯。我是說……今天……今天的……日期是甚麼？
+
+//伯恩斯博士向SCP-8980收容間的四周瞥了一下。//
+
+**伯恩斯博士：**我理解了。你這裡沒有日曆。[[span class="bi-b"]]我想我之後會安排給你一本。[[/span]]
+
+[[div_ class="bi-popup"]]
+[[span class="annotitle"]]審核者註解[[/span]]
+在SCP-8980收容全程，伯恩斯博士從未為項目提供日曆。
+[[/div]]
+
+//伯恩斯把手伸進袋中，打算拿出手機，才想起身上沒有手機。他再花了片刻思考。//
+
+**伯恩斯博士：**也對，你的規則不讓我帶手機進來。我想大概……8月22日吧？我也挺忙的，所以……
+
+**SCP-8980：**//八月？//
+
+//SCP-8980開始呼吸過度，突然站起，把椅子往後撞倒，驚動了伯恩斯博士。//
+
+**SCP-8980：**已經//六個月了//？！我在這裡已經——已經//六個月//？！
+
+**伯恩斯博士：**我……恐怕就是這樣。很不幸地，我們在無效化你的異常那邊沒甚麼進展——
+
+**SCP-8980：**（//大聲打斷//）我的天啊。我的天。我的天。
+
+**伯恩斯博士：**拜託，冷靜點。
+
+//SCP-8980抱頭退後到牆邊。它開始暗自囁嚅，間斷傳出歇斯底里的哭聲。伯恩斯博士留在桌邊，卻持續凝望SCP-8980。//
+
+**SCP-8980：**六個月……六個月……我的天……我的天啊……這甚麼時候才會完啊，為甚麼，為甚麼……
+
+**伯恩斯博士：**你看，我——
+
+//SCP-8980尖叫一聲，然後大聲哭泣，低身倒地。伯恩斯博士不動。SCP-8980繼續哭泣數分鐘，直到靜靜飲泣。//
+
+**伯恩斯博士：**……你知道我並不是想來傷害你的，8980。那些實驗是會很難熬沒錯，但是最後我們是有一點進展了，而且——
+
+**SCP-8980：**（//打斷//）給……給我閉嘴。//拜託了。//請給我//安靜//就好。
+
+**伯恩斯博士：**我是來幫你的，8980。我們全部都是。雖然我們進度……//是//慢了點，但以現在的速度，我們保證一兩年內會有突破的。
+
+//SCP-8980展露滿佈淚痕的臉孔，[[span class="bi-g"]]驚恐地[[/span]]瞪向伯恩斯博士，慢慢站起。//
+
+[[div_ class="bi-popup"]]
+[[span class="annotitle"]]審核者註解[[/span]]
+**缺乏描述** — SCP-8980當時無疑呈現驚恐。
+[[/div]]
+
+**SCP-8980：**不。不、不、不、不、不、不、不。你根本沒在幫我。你根本沒幫到//任何一個人//。出去。拜託。
+
+//伯恩斯博士慢慢摘下眼鏡開始擦拭。//
+
+**伯恩斯博士：**你知道我們不走完整個流程，我是不會走的，8980。而我在這裡//是//來幫你的，即使你還沒明白也好。
+
+//SCP-8980走近桌子，卻未坐下。伯恩斯博士抬頭，擦眼鏡的手停下。//
+
+**SCP-8980：**我他媽不想再這樣瞎搞了，克里斯多福。我不要再跟你們這樣他媽胡鬧下去。我沒辦法再撐六個月，更別說天殺的//一整年//。我寧願死都不想再做一次操他媽完全沒用的狗屎實驗，還要被你那自大自戀[[span class="bi-g"]]而又厭女[[/span]]還要這樣不可一世的//臭王八嘴臉//監督著！
+
+[[div_ class="bi-popup"]]
+[[span class="annotitle"]]審核者註解[[/span]]
+**對話闕失** — SCP-8980發言中「而又厭女」四字未被伯恩斯博士轉錄。
+[[/div]]
+
+**伯恩斯博士：**……8980。
+
+//SCP-8980握拳湊到臉前，隨後再尖叫。然後，SCP-8980在毫無預警之下，越過桌子衝向伯恩斯博士，兩人一同推倒在地。伯恩斯驚慌大叫。//
+
+**SCP-8980：//老娘名字叫麗莉安．瑪莉，你這殺千刀的王八蛋！//**
+
+//SCP-8980伸腿踩在伯恩斯的左臂，再將全身的重量倚向對方的右臂，將對方壓制。在SCP-8980開始連忙搜索的同時，伯恩斯猛烈掙扎。//
+
+ **伯恩斯博士：放開我！**
+
+//在兩人掙扎的同時，SCP-8980未有發言回應。短時間內，項目在地上找到了收容單元的鑰匙，立刻伸手去搶。在SCP-8980的重心移離的一瞬間，伯恩斯博士掙開自己，並往側縱身撞去，在SCP-8980搶到鑰匙前將之撞到翻滾在地。伯恩斯博士反射式地踢向SCP-8980的胸口，項目為之痛呼。//
+
+//SCP-8980回復平衡的同時，伯恩斯博士借助被翻倒的桌子撐起自己，同時撫著腹部。SCP-8980嘗試站起，伯恩斯博士卻[[span class="bi-r"]]出於自衛[[/span]]向其胸口再踢一腳，將項目踢到滾至伯恩斯博士已翻側的椅子旁。項目背部撞地時尖叫並開始失控哭泣。//
+
+[[div_ class="bi-popup"]]
+[[span class="annotitle"]]審核者註解[[/span]]
+**錯誤資訊** — 該行動已判明過當，即使在兩人當時處境，亦溯及構成對異常的明顯虐待。
+[[/div]]
+
+//伯恩斯喘氣數秒，盯著SCP-8980，之後拿起單元的鑰匙，以及他（已打碎）的眼鏡，離開房間，留下錄音設備。SCP-8980對其離去未有反應，亦未嘗試追出收容單元。而是再在地上哭泣並輕聲[[span class="bi-y"]][[span class="ruby"]]吟叫[[span class="rt"]]moans[[/span]][[/span]][[/span]]，慢慢蜷縮成胎兒臥姿。//
+
+[[div_ class="bi-popup"]]
+[[span class="annotitle"]]審核者註解[[/span]]
+**用詞不當** — 「[[span class="ruby"]]呻吟[[span class="rt"]]groans[[/span]][[/span]]」在此語境比「[[span class="ruby"]]吟叫[[span class="rt"]]moans[[/span]][[/span]]」一詞更為恰當。
+[[/div]]
+
+//數分鐘後，站點警備接報應對。[[span class="bi-b"]]一名警備人員[[/span]]進入收容間，並立即對SCP-8980上手銬，拘提途中未遇顯著反抗。//
+
+[[div_ class="bi-popup"]]
+[[span class="annotitle"]]審核者註解[[/span]]
+該員後來辨明為特工奧莉薇亞．M．霍爾，31歲女性警衛。
+[[/div]]
+
+//[[span class="bi-y"]]他[[/span]]隨後將SCP-8980放到床上，將桌椅放正，最後結束錄音，然後離開並重新鎖上收容間。//
+
+[[div_ class="bi-popup"]]
+[[span class="annotitle"]]審核者註解[[/span]]
+**錯誤識別詞** — 因為伯恩斯博士當時未知該警衛的生理及心理性別，故應在撰寫事件報告時，使用性別通用辭彙，以示對該員的尊重。
+[[/div]]
+
+----
+
+= **［紀錄結束］**
+
+[[/div]]
+
+在此事件過後，已明顯可見SCP-8980的心理狀態顯著惡化，乃至對基金會職員主動作出敵意行為。由此，基金會有必要介入，以確保該異常及其收容人員兩方安全。為此，伯恩斯博士隨即遵照基金會行為準則施行多種措施：
+
+* SCP-8980被歸類為潛在敵意實體，收容職員與該異常互動需要許可。
+* SCP-8980的自由活動時間減少，站內活動範圍加以受限，以避免往後事件發生。
+* SCP-8980必須接受[[span class="bi-b"]]3級強度人形設防措施[[/span]]。
+* SCP-8980須親身接受強制的超心理諮商。
+
+[[div_ class="bi-popup"]]
+[[span class="annotitle"]]審核者註解[[/span]]
+3級強度設防需要直接在異常的收容間內設置監視鏡頭，同時為該異常可以要求取得的娛樂用品追加限制，加上每周搜查房間以免管有違禁品。設防級數最高為五。 _
+ _
+倫理委員會審查團隊認為此措施在當時為極度過當，即使在技術上並未違反基金會的行為準則。
+[[/div]]
+
+施行上述措施後，伯恩斯博士被Site-17行政部要求與SCP-8980個案保持距離。[[span class="bi-y"]]該員同意。[[/span]]
+
+[[div_ class="bi-popup"]]
+[[span class="annotitle"]]審核者註解[[/span]]
+**錯誤資訊** — 伯恩斯博士獲悉除役後甚為激動，並持續向Site-17的高層職員施壓，以維持針對SCP-8980的首席研究員職位。
+[[/div]]
+
+然而，[[span class="bi-y"]]經過數周尋求候補人選不果[[/span]]，站點主任湯瑪斯．葛拉漢[[span class="bi-b"]]以該員在處理SCP-8980「脾氣」上之專業精神及知識為由[[/span]]，簽署保留伯恩斯博士的首席研究員職位。
+[[div_ class="bi-popup"]]
+[[span class="annotitle"]]審核者註解[[/span]]
+**模糊的資訊** — 根據基金會調遷政策，當時可以候補該職位的人選只有SCP-8980研究團隊現存的其餘成員，當中合共須有至少三人。在其餘的兩人當中，史蒂爾博士表示無意接替，而初級研究員麥克菲瑞亦不適任。
+ _
+**錯誤資訊** — 徵求過程維持數日，而非數周。
+
+[[/div]]
+
+[[div_ class="bi-popup"]]
+[[span class="annotitle"]]審核者註解[[/span]]
+在遇到伯恩斯博士先前不當行為的證據時，站點主任湯瑪斯．葛拉漢宣稱對上下文所述幾乎所有的事件毫不知情。從其在Site-17收容監督委員會的核心地位，該情況視為極不可能，惟在此情形，尚無確鑿證據指出他故意違反基金會行為準則。
+[[/div]]  
+
+事件三日後，SCP-8980在爭論期間所受的傷勢得到醫治。在8月27日，項目返回收容間。第一次超心理諮商排定於2005年9月5日，並預定往後每星期一進行，由[[span class="bi-b"]]納丁．克勞福博士（PPsyD）[[/span]]主持。
+
+[[div_ class="bi-popup"]]
+[[span class="annotitle"]]審核者註解[[/span]]
+**納丁．克勞福**是在Site-17從事的一名傑出的超心理學家。於1979年在美國俄勒岡州波特蘭取得心理學博士學位之後，因為診所鄰近三波特蘭樞紐，而偶遇大量的異常病患，因此獲得基金會徵才機構造訪，稍後接受任職超心理學家。 _
+ _
+大部分曾經由克勞福博士照護的異常指該員細心、富同情心，且有耐性。然而，綜觀其職涯，該員在多次事件中呈現嚴重行為不當，導致基金會於2013年終止聘用。當中包括在2012年一件特別嚴重的事件，涉及與其所照顧的一名男性異常實體之間的戀愛關係，最終導致該異常在收容期間自殺。 _
+ _
+從倫理委員會審查團隊所得證據，目前懷疑克勞福與伯恩斯博士之間有密切的私人連繫。更多涉及與該員有關個案的資料，請查詢案件編號07082012-9932-T。
+[[/div]]
+
+----
+
+**附錄8：**持續的身心健康影響
+
+自近九月初起，SCP-8980須要每周接受納丁．克勞福博士的超心理諮商。起初，因為SCP-8980對療程有強烈的負面反應，諮商過程收效不彰。此情形在該月間持續。然而，在2005年9月26日終於取得首次突破，當時SCP-8980開始可以與克勞福博士首次進行有意義的對話。
+
+[[div class="blockquote"]]
+
+= **[節錄開始]**
+
+----
+
+//已除去無關資料。在節錄部分之前，克勞福博士已多次嘗試與SCP-8980展開有用的對話，大多未能得到回應。//
+
+//克勞福博士坐在家具齊全的辦公室內的桌後，SCP-8980則躺在一張偌大的絨毛椅上。克勞福博士在將近十五分鐘間默默處理雜項文件，SCP-8980在椅上吃力保持清醒。SCP-8980的衣服與頭髮皆相當凌亂。//
+
+//SCP-8980第四次回復注意力之後，在椅子上再將自己推上，推定為協助保持清醒。//
+
+**克勞福博士：**很舒服，對吧？
+
+//SCP-8980望過去克勞福博士，對方開始瞥上去，對著正在凝望的SCP-8980。//
+
+**SCP-8980：**是，是……很好。
+
+**克勞福博士：**跟你說，你坐著的椅子是異常的。
+
+//SCP-8980對克勞福博士回以難以置信的表情，致使克勞福博士繼續。//
+
+**克勞福博士：**它的質料是由一個使奇蹟術的裁縫織出來，我們有很多優質的素材都是他提供的。我跟你說，我還跟他見過一次面。
+
+**SCP-8980：**唔？
+
+**克勞福博士：**嘛，因為[[span class="bi-b"]]客戶機密[[/span]]，所以我不能夠多說，不過我們是在俄勒岡波特蘭那時見面的。他很可愛。
+
+[[div_ class="bi-popup"]]
+[[span class="annotitle"]]審核者註解[[/span]]
+鑒於基金會超心理學家的客戶保密規則放寬，若克勞福博士有理由懷疑公開與該異常共處有關的資料會有助SCP-8980重返職場，則完全獲准為之。
+[[/div]]
+
+**SCP-8980：**喔，有趣。
+
+**克勞福博士：**更有趣的是，我想他的編號應該是[[span class="bi-b"]]SCP-8580[[/span]]。這不是很妙的巧合嗎？
+
+[[div_ class="bi-popup"]]
+[[span class="annotitle"]]審核者註解[[/span]]
+SCP-8580-ARC舊有的編號，該項目於1993年在Site-43一次工作間意外遭到分子尺度毀滅。[[/div]]
+
+//SCP-8980嘟囔著交疊雙臂。//
+
+**SCP-8980：**真希望我每晚都能躺在這樣的椅子上。
+
+//克勞福博士隨之正襟危坐。//
+
+**克勞福博士：**是甚麼令你這樣說呢，麗莉安？
+
+//SCP-8980擦著雙臂之際，沉默持續數秒。//
+
+**SCP-8980：**我想念我的床。我在這裡宿舍的那一張。那床壁似乎塞不進那個他們叫做床框的混凝土塊，所以他們就給了我那種標準的低級貨。我不喜歡它。
+
+**克勞福博士：**那你有因為這樣而睡得不好嗎？
+
+//SCP-8980[[span class="bi-b"]]可見稍為退縮[[/span]]，之後用力搖頭。//
+
+[[div_ class="bi-popup"]]
+[[span class="annotitle"]]審核者註解[[/span]]
+目前未知是SCP-8980嘗試保持清醒，或是適才的發言出於某種緣故而退後。
+[[/div]]
+
+**SCP-8980：**沒關係的。我已經克服了。
+
+**克勞福博士：**嘛，你喜歡的話，我可以每次諮商都給你在這上面小睡一會。
+
+//SCP-8980未有回應，但在少頃間入睡。克勞福博士微笑過後繼續處理公文。//
+
+----
+
+= **[節錄結束]**
+
+[[/div]]
+
+SCP-8980甦醒後，繼續迴避尋常的對話展開，直到諮商時段結束為止。然而，經過多次會面，SCP-8980開始更多與克勞福博士寒暄，雙方得以建立某程度上的和睦。[[span class="bi-r"]]話題內容常見包括SCP-8980現時的專案、過往閱讀過的小說，以及其他無關的雜事。[[/span]]
+
+[[div_ class="bi-popup"]]
+[[span class="annotitle"]]審核者註解[[/span]]
+**違反隱私權** — 關於SCP-8980在超心理諮商期間進展的資料應含糊描述，除非呈現重大突破或為強調重要互動。
+[[/div]]
+
+雖然SCP-8980的精神狀態在期間未見顯著改善，但隨著諮商繼續，SCP-8980開始對克勞福博士建立信任。由此，最終使得克勞福博士可以論及SCP-8980的過往，在重建SCP-8980精神狀態的過程為一重大的里程碑。
+
+[[div class="blockquote"]]
+
+= **[節錄開始]**
+
+----
+
+//已除去無關資料。SCP-8980坐在克勞福博士辦公室內的一張長椅。項目的外表依然相當凌亂，亦無意中作出小動作。克勞福博士埋頭筆記，直到SCP-8980突然開口為止。//
+
+**SCP-8980：**……你在這裡工作多久了？
+
+//克勞福博士坐起，微笑望向SCP-8980。//
+
+**克勞福博士：**喔，我嗎？嘛，我在這裡工作已經差不多……到現在為止，有二十五年了吧？天啊，時光飛逝啊。
+
+//克勞福博士雙手交疊。//
+
+**克勞福博士：**親愛的，那你呢？你在基金會有工作多久了呢？
+
+//SCP-8980[[span class="bi-y"]]嘆笑[[/span]]一聲。//
+
+[[div_ class="bi-popup"]]
+[[span class="annotitle"]]審核者註解[[/span]]
+**錯誤用詞** — 如前述，此聲音的正確用詞為「乾笑」。
+[[/div]]
+
+**SCP-8980：**我不覺得這在我的合約範圍裡！
+
+**克勞福博士：**喔，我很對不起。希望這沒有踰越你的界線。
+
+//SCP-8980發出了一下[[span class="bi-b"]]不能理解的聲音[[/span]]再向椅中沉入。//
+
+[[div_ class="bi-popup"]]
+[[span class="annotitle"]]審核者註解[[/span]]
+對SCP-8980發出的聲音，是準確的描述。
+[[/div]]
+
+//隨後沉默數秒。//
+
+**SCP-8980：**沒關係的。我、嗯。我在基金會工作了……六到七年吧。基金會在我拿了學位之後就僱用我了。
+
+**克勞福博士：**我可以問是哪種學位嗎？
+
+//SCP-8980從長椅坐起，與克勞福博士短暫眼神相接，其後迴避視線。//
+
+**SCP-8980：**喔，這嘛……沒甚麼了不起的。我在拿到了電腦科學的學士學位之後就被僱用了。
+
+//克勞福博士拍掌並帶上開懷的笑容。//
+
+**克勞福博士：**哇喔！這可是一番成就耶，尤其是對像你這年紀的女孩來說！
+
+//SCP-8980困惑皺眉。//
+
+**SCP-8980：**呃……謝了，我想……？
+
+//克勞福博士微微抬手。//
+
+**克勞福博士：**喔，我很抱歉，親愛的，我沒有冒犯的意思。我只是說，你是在二十出頭的時候就被基金會相中可是一番成就的意思。有這樣殊榮的人我認識不多，而當中大部分都是在混金融的男人！
+
+//克勞福博士輕笑。SCP-8980起初不為所動，卻隨後短暫歡笑。//
+
+**SCP-8980：**那……謝謝。感謝你幫我做的。[[span class="bi-b"]]我的舊老闆[[/span]]自己就覺得不怎麼樣。
+
+[[div_ class="bi-popup"]]
+[[span class="annotitle"]]審核者註解[[/span]]
+在此非常可能指伯恩斯博士。
+[[/div]]
+
+**克勞福博士：**是他的損失，對吧？
+
+**SCP-8980：**啊，對，那……那當然。
+
+//克勞福博士再輕笑。SCP-8980咬著下唇，再次垂頭，然後皺眉，面帶憂慮。//
+
+//在克勞福博士得以發言之前，SCP-8980走到絨椅上躺下，背對克勞福博士。克勞福博士沒有開口，只繼續看著。SCP-8980開始低聲哭泣，稍後迅速入睡。//
+
+----
+
+= **[節錄結束]**
+
+[[/div]]
+
+SCP-8980在十至十一月間全程繼續參與諮商。縱使該項目與克勞福博士的關係有所改善，其精神狀態依然在諮商時段以外停滯不前，生產力仍然相對低落，維持在持續聘用可以接受的最低限度。
+
+在先前數月，SCP-8980在定期訪談之中除非被明示必要，否則持續拒絕回應首席研究員伯恩斯，致使其異常狀態對治方面進展不彰。縱使伯恩斯博士在事件一之後嘗試儘量避免呈現敵意，[[span class="bi-y"]]SCP-8980顯然對他抱持不滿[[/span]]；儘管如此，該項目未再對任何收容人員作出更多敵意行為。
+
+[[div_ class="bi-popup"]]
+[[span class="annotitle"]]審核者註解[[/span]]
+**不恰當的描述** — SCP-8980對伯恩斯的不滿態度應予更符合科學口吻的用詞描述。
+[[/div]]
+
+在2005年11月24日，感恩節數日後，克勞福博士在SCP-8980的個案取得重大突破，使得SCP-8980的心理狀態顯著改善，詳情如下。
+
+[[div class="blockquote"]]
+
+= **[節錄開始]**
+
+----
+
+//已除去無關資料。SCP-8980閉眼躺在絨椅上。項目未入睡，而是隨著克勞福的指示深呼吸。//
+
+**克勞福博士：**吸氣。
+
+//SCP-8980深深地吸一口氣。//
+
+**克勞福博士：**再呼氣。
+
+//SCP-8980呼氣。//
+
+**克勞福博士：**吸氣。
+
+//SCP-8980吸氣。//
+
+**克勞福博士：**再呼氣。
+
+//SCP-8980呼氣。//
+
+**克勞福博士：**吸氣——
+
+**SCP-8980：**……欸、唔。你看。我……我很感謝你嘗試幫我作那些呼吸練習，但是我不覺得這對我有甚麼效。
+
+//克勞福博士皺眉。//
+
+**克勞福博士：**嘛，我們可以隨時回去再作。這只是用來幫你冷靜的，畢竟你總是想太多。
+
+//SCP-8980發出哼聲。//
+
+**SCP-8980：**我還是不清楚它們真的有幫到多少……
+
+//隨後沉默數秒。克勞福博士把手上的筆反複輕敲自己的臉。//
+
+**克勞福博士：**看來今天有些新的事煩著你呢。
+
+//SCP-8980訝異抬頭望向克勞福博士，隨後再降下視線。//
+
+**SCP-8980：**沒事。
+
+**克勞福博士：**嘛，你不想說的話我不會迫你的，但是記得我們上星期說過的話嗎？如果你想我幫到你的話，你能夠向我表達你的感受是很重要的事情。
+
+//SCP-8980張大眼睛，卻隨即重新集中。他再擦擦雙臂。//
+
+**SCP-8980：**這個嘛……我只是……在感恩節那時有點不開心。
+
+**克勞福博士：**啊，我懂了。你的同事可以回家與家人慶祝的同時，你不得不獨自過節。這的確很慘，對吧？
+
+//SCP-8980猛然抬頭，再望向克勞福博士。//
+
+**SCP-8980：**對，是這樣沒錯。
+
+//SCP-8980停頓。//
+
+**SCP-8980：**……你很擅長看這種事。
+
+//克勞福博士發笑。//
+
+**克勞福博士：**喔，親愛的，明白這些東西是我的工作。我完全理解你是怎麼來到這裡的。我見過數不清的客人有經歷過跟你一樣的事情。
+
+**SCP-8980：**……那他們有人可以回家過感恩節嗎？
+
+//克勞福博士頓了一會。//
+
+**克勞福博士：**嘛……大部分都沒有……
+
+//SCP-8980迅速呼氣，轉向背對克勞福博士。//
+
+**SCP-8980：**那麼，這還他媽有甚麼意思？
+
+//克勞福調了一下眼鏡。//
+
+**克勞福博士：**……要放你離開收容並不在我的能力範圍之內。你絕對是明白這一點的。而我這一刻的工作，是去幫你……
+
+//克勞福指向外面。//
+
+**克勞福博士：**……去//克服//你現在有的那些糟糕的感覺。
+
+//SCP-8980未有回應。克勞福博士清了一下喉嚨，再繼續說。//
+
+**克勞福博士：**對你現在處身的情景不滿或是有憤怒，並不是羞恥的事。你的感受是完全自然的，尤其是對一位年輕的女生來說。但是要讓它們侵蝕你的事業，讓處境去支配你，那……
+
+//克勞福博士搖了搖頭，咂了咂舌。//
+
+**克勞福博士：**那就不好了，對吧？
+
+**SCP-8980：**（//嘀咕//）那我究竟又可以怎麼辦？
+
+//短暫的沉默過去。//
+
+**克勞福博士：**在我的經驗，一個人處於逆境的時候，能做的最好的事就是把問題視為……一個挑戰。
+
+//沉默。SCP-8980回頭。//
+
+**SCP-8980：**……一個挑戰？
+
+//克勞福博士微笑。//
+
+**克勞福博士：**是，一個挑戰。我確定這未必能夠解決每一個人的問題，但是我認為你每一次面對的試煉如果都當成挑戰的話，總能耐得過去的。畢竟，我都是靠這樣子拿到學位的。
+
+//SCP-8980開始皺眉。//
+
+**SCP-8980：**一個挑戰……
+
+//克勞福博士不發一語，而持續朝著SCP-8980微笑。突然間，SCP-8980張大眼睛，盯向下方的地板。//
+
+**SCP-8980：**對……一……一個挑戰，是吧？那是一個挑戰。我可以……對……對……
+
+//SCP-8980抬頭向克勞福博士微笑。//
+
+**SCP-8980:** 對。一個挑戰。
+
+//克勞福博士慎重地點頭。SCP-8980快速站起。//
+
+**SCP-8980：**如果你不介意的話，我們今天可以提早結束嗎？我有些工作需要跟上。
+
+**克勞福博士：**噢！唔、這絕對可以，親愛的。不過你真的不想繼續談感恩節的話題嗎？
+
+**SCP-8980：**不用了，我沒事。即使我在感恩節都還是被困在這裡……我感覺到了聖誕節就能見到家人了。
+
+----
+
+= **[節錄結束]**
+
+[[/div]]
+
+經過是次對話，SCP-8980的生產力突然呈現極大的進步，達到與初期收容相若的水平。與此同時，該項目在憂鬱症狀方面未有其他改變，[[span class="bi-r"]]時而持續長期未作個人清潔或社交活動[[/span]]。
+
+[[div_ class="bi-popup"]]
+[[span class="annotitle"]]審核者註解[[/span]]
+**不必要的細節** — 如此程度的細節不需記載。
+[[/div]]
+
+[[span class="bi-b"]]在2005年12月9日，伯恩斯博士與SCP-8980展開訪談，以確定其生產力改善的來源。[[/span]]
+
+[[div_ class="bi-popup"]]
+[[span class="annotitle"]]審核者註解[[/span]]
+伯恩斯展開訪談的理由未知，因為當時未有理由懷疑SCP-8980是否另有動機。
+[[/div]]
+
+[[div class="blockquote"]]
+
+**日期：**2005年12月9日
+
+**訪談者：**首席研究員克里斯多福．伯恩斯
+
+**受訪者：**SCP-8980
+
+**主題：**新取得的動力
+
+----
+
+= **[記錄開始]**
+
+----
+
+//SCP-8980在經過把守的訪談室內就座，身後有一名幪面的警衛。它倚到桌上瞪著前方，等待伯恩斯博士來到。他在上午10:00準時入室，坐在SCP-8980面前。它瞪著他，未作其他反應。//
+
+**伯恩斯博士：**開始記錄訪談，編號8980-S12，對象SCP-8980，時間上午10:01。早安。
+
+**SCP-8980：**你想怎樣？
+
+**伯恩斯博士：**我提出今天跟你作一場特別訪談，因為我們注意到你的生產力在最近幾天有急劇提升。
+
+//SCP-8980瞥向側面。//
+
+**SCP-8980：**所以？
+
+//伯恩斯博士微笑。//
+
+**伯恩斯博士：**這個嘛，收容隊只是好奇你怎麼會有這下突然的心境轉變。
+
+**SCP-8980：**對，我肯定史蒂爾至少有在乎過我。
+
+//沉默。伯恩斯博士盯向SCP-8980。//
+
+**SCP-8980：**我就只是覺得好起來了，行吧？我的治療師幫大忙了。
+
+//沉默。//
+
+**SCP-8980：**你沒說錯，那可以吧？我認了。治療是有用的。我可以走了嗎？
+
+**伯恩斯博士：**嘛，就算看見你突然回復生產力，我們注意到你的憂鬱症狀沒怎麼改變。沒解決源頭就可以這樣子振作起來，可不是那麼常見的事。
+
+//SCP-8980冷笑。//
+
+**SCP-8980：**[[span class="bi-b"]][[span class="ruby"]]我有權保持緘默。[[span class="rt"]]I plead the fifth.[[/span]][[/span]][[/span]]
+
+[[div_ class="bi-popup"]]
+[[span class="annotitle"]]審核者註解[[/span]]
+**譯注：**美國憲法第五修正案確立人民不得在任何刑事案件中被迫自證其罪，由此在美國成為申明保持緘默權利的日常用語。
+[[/div]]
+
+**伯恩斯博士：**而且會這樣說笑，也不像平常的你。
+
+//SCP-8980咬牙。身後的警衛稍為擎起武器。//
+
+**SCP-8980：**一個女生難道就不能他媽安心地做好自己的工作嗎？[[span class="bi-g"]]你甚麼要對我每一件事都得天殺的插手進去？[[/span]]
+
+[[div_ class="bi-popup"]]
+[[span class="annotitle"]]審核者註解[[/span]]
+**對話闕失** — 假若伯恩斯博士有意不包括這句對話，則其緣故未知。
+[[/div]]
+
+//沉默。數秒後，伯恩斯博士嘆氣站起。//
+
+**伯恩斯博士：**好吧，我們結束這次會談。謝謝你抽空來到。
+
+**SCP-8980：**謝謝你//浪費//我的時間。混球。
+
+//伯恩斯博士關閉錄音機並離開房間。SCP-8980稍後被護送回收容間。//
+
+----
+
+= **［紀錄結束］**
+
+----
+
+**後記：**//SCP-8980行為突然轉變，令我懷疑它的動機。我們在可見的將來會需要更加密切留意它。//——伯恩斯博士
+
+[[/div]]
+
+因為SCP-8980的憂鬱症狀持續，其超心理諮商過程被視為有繼續之必要。
+
+----
+
+**事件2：**任意程式碼執行漏洞利用事件及其後續結果
+
+自生產力提升後數週，SCP-8980除定期訪談及諮商以外完全未有社交活動。該異常亦每日加班數小時，在未獲派工作的週末亦然。
+
+[[span class="bi-b"]]收容人員[[/span]]認為此活動有異，惟於2005年12月22日突然停止，且SCP-8980的生產力返回正常水平。
+
+[[div_ class="bi-popup"]]
+[[span class="annotitle"]]審核者註解[[/span]]
+「收容人員」在此僅指伯恩斯博士一人。
+[[/div]]
+
+然而，據克勞福博士所指，項目憂鬱症狀發作稍為減少，整體行為依然視為反常。
+
+在2006年1月9日，伯恩斯博士[[span class="bi-g"]]要求並[[/span]]獲得[[span class="bi-g"]]Site-17收容監督委員會[[/span]]准許，以對SCP-8980及其收容區進行全面審核。
+[[div_ class="bi-popup"]]
+[[span class="annotitle"]]審核者註解[[/span]]
+**資料闕失** — 未指明此行動經過要求，導致伯恩斯博士在所作調查中的定位被淡化。詳見下一註解。
+ _
+**被動用法** — 被動用法隱去了該行動的施事者，責任因此轉嫁至無特指的一方。 _
+ _
+倫理委員會審查團隊大多數相信在SCP-8980收容至今，該等模糊措辭大多乃蓄意為之——縱使先前違規乃屬無心。
+[[/div]]
+
+[[span class="bi-y"]]SCP-8980及其房間被除去物件並進行搜索[[/span]]，SCP-8980辦公所用的遙距編程裝置亦然。
+
+[[div_ class="bi-popup"]]
+[[span class="annotitle"]]審核者註解[[/span]]
+**模糊的用詞** — 此用詞隱去了SCP-8980被逼接受脫衣搜身的事實，包括侵入性的醫學掃瞄以檢查身上可能有的危險品。倫理委員會審查團隊認定此行動嚴重過當，並構成極度嚴重違反基金會的行為準則。
+[[/div]]
+
+經過對該項目所有物品為期兩日的仔細查核，調查職員發現SCP-8980在先前數週從其遙距工作設備尋得並利用[[span class="ruby"]]任意程式碼執行[[span class="rt"]]Arbitrary Code Execution[[/span]][[/span]]（ACE）漏洞。此行動令項目全面取得其原有的SCiPNet帳戶存取權限，令其可以存取資料如下：
+
+* 項目先前受限制使用的所有SCiPNet工具（例如其內部傳訊系統）。
+* 項目的基金會外安全通訊系統。
+* {{SCP-8980}}檔案本身。
+
+在十二月的後半月間，SCP-8980已直接聯繫基金會數名職員，以及數名帷幕外個體，尤以其母親為甚。縱使該等對話的性質未違反任何僱員守則，SCP-8980身為被收容的異常使得未經准許與上述人員的對話成為明文禁止行為。一切曾與SCP-8980互動者皆被施以[[span class="bi-b"]]C級記憶消除[[/span]]。
+
+[[div_ class="bi-popup"]]
+[[span class="annotitle"]]審核者註解[[/span]]
+C級記憶消除用以針對特定的記憶或概念。C級記刪經由兩劑注射施行：第一針為誘導劑，令對象進入催眠狀態，用以口頭「誘導」目標的概念或記憶；第二劑為催化劑，用以消除有關的印跡。
+[[/div]]
+
+因為SCP-8980濫用其在基金會的起居設施以促成其違規行為，收容監督委員會一致裁定SCP-8980必須接受記憶消除療程或被永久剝奪遙距工作設備的權限。SCP-8980雖然起初反對接受記憶消除，克勞福博士最終藉由堅稱療程的有效性，信服SCP-8980自願接受療程。
+
+[[/div]]
+
+@@ @@
+
+[[div class="ec"]]
+
+= **[[span class="ec-title"]]倫理委員會備忘錄[[/span]]**
+
+@@ @@
+
+以下為SCP-8980記憶消除過程的影片與音頻抄本。雖然此抄本不存在於原始檔案中，也不應存在，但為求提供脈絡資料並供他人審查，而在此附加。
+
+[[div class="blockquote ecinside"]]
+
+**日期：**2006年1月12日
+
+**調查對象：**克里斯多福．伯恩斯博士
+
+**調查部分：**SCP-8980的記憶消除
+
+----
+
+= **[開始轉錄]**
+
+----
+
+[[span class="logtime"]]上午8:42:41 |[[/span]] SCP-8980的記憶消除師與克里斯多福．伯恩斯博士於記憶消除前抵達，時間為當地時間上午8:42。伯恩斯博士最初將記憶消除師誤認為護士，但她迅速糾正了伯恩斯。在接下來的二十分鐘內，兩人間歇地進行了簡單的交談，同時等待SCP-8980被護送至房間內；兩人似乎都沒有談論任何值得注意的事。
+
+[[span class="logtime"]]上午9:08:53 |[[/span]] SCP-8980由一名武裝警衛護送至記憶消除實驗室。項目的外表如前面所述，相當不整潔。它的行走動作有些遲緩，可能是因其處於呆滯狀態而導致的。
+
+[[span class="logtime"]]上午9:08:58 |[[/span]] SCP-8980看見伯恩斯博士，而後者在與SCP-8980進行眼神接觸時停止說話。項目立即僵住。
+
+**SCP-8980：**喔天啊。
+
+[[span class="logtime"]]上午9:09:01 |[[/span]] SCP-8980立即開始後退離開實驗室，但被後方的警衛推入。項目跌倒在地，導致伯恩斯博士發出一陣笑聲。記憶消除師沒有反應。
+
+**SCP-8980：**不……不要。不要這樣。
+
+[[span class="logtime"]]上午9:09:15 |[[/span]] SCP-8980花費數秒試圖爬開和站起（兩個行為皆失敗了）。一陣子後，項目躺在地上一動也不動，然後與記憶消除師進行眼神接觸。她看向一旁然後清理喉嚨。
+
+**記憶消除師：**我知道這個過程有點可怕，但相信我，你在發覺之前就會結束了。我已經做過很多次了；我是專業的。十年內都沒出過意外。
+
+[[span class="logtime"]]上午9:09:23 |[[/span]] 在猶豫了數秒後，SCP-89800緩緩站起。然後指向伯恩斯博士，同時盯著記憶消除師。
+
+**SCP-8980：**為什麼//他//在這？
+
+**記憶消除師：**他？這個嘛——
+
+**伯恩斯博士：**（//打斷//）根據基金會行為準則，我被要求要監督你的記憶消除過程。我只是在這給//護//——醫師提供「目標記憶痕跡」而已，這裡。
+
+**記憶消除師：**……是的，博士。（//對SCP-8980//）C級記憶消除的程序會先注射誘導劑，而我們接著會透過[[span class="ruby"]]催眠後的夢遊狀態[[span class="rt"]]a hypnotic-hypnagogic fugue state[[/span]][[/span]]來指定要刪除的目標記憶，然後注射會真正刪除記憶的第二管。由於記憶消除過程通常牽涉到機密資訊，進行誘導的人必須是他。
+
+**伯恩斯博士：**你要幫她簡化。她是電腦技術員，不是神經科醫生。
+
+**記憶消除師：**恕我直言，博士，你也不是。（//對SCP-8980//）我這段期間都會待在房間，好嗎？整個過程都會被記錄下來，所以不用再表現的那麼誇張了。
+
+[[span class="logtime"]]上午9:10:12 |[[/span]] SCP-8980來回望向伯恩斯博士和記憶消除師。它緩緩站起身。
+
+**SCP-8980：**……我……我不能。我不能做這個。我不……我不……
+
+[[span class="logtime"]]上午9:10:26 |[[/span]] SCP-8980立即轉身並開始跑向門口。它迅速被將其帶來的警衛攔截，導致它跌倒在地。
+
+[[span class="logtime"]]上午9:10:31 |[[/span]] 警衛開始將SCP-8980拖向記憶消除場，此舉導致SCP-8980開始無法控制地尖叫。記憶消除師對此感到煩惱而將雙耳遮住；伯恩斯博士只是看著。
+
+[[span class="logtime"]]上午9:10:54 |[[/span]] 警衛將SCP-8980固定在空的記憶消除劑注射桌上。SCP-8980在桌上扭動著，同時繼續尖叫。
+
+[[span class="logtime"]]上午9:11:09 |[[/span]] 數秒後，記憶消除師走向SCP-8980，導致項目停止尖叫。
+
+**記憶消除師：**我保證，會很快的，好嗎？不會痛，不會有違規行為，好嗎？
+
+**SCP-8980：**不要……不要讓他……我……
+
+**伯恩斯博士：**（//打斷//）你可以開始程序了嗎？我9:30有會面。
+
+[[span class="logtime"]]上午9:11:27 |[[/span]] SCP-8980開始再度哭泣。
+
+**SCP-8980：**離我……離我遠點……
+
+[[span class="logtime"]]上午9:11:34 |[[/span]] 記憶消除師開始幫SCP-8980的手臂消毒以準備注射，導致SCP-8980在恐懼之下拉緊了手臂肌肉。她花了數秒試圖放鬆肌肉，並出乎意料地成功了。SCP-8980在挫敗之下停止扭動，並不連貫地喘氣與哭泣。
+
+[[span class="logtime"]]上午9:12:00 |[[/span]] 記憶消除師開始進行局部麻醉。
+
+**記憶消除師：**好了，應該兩到三分鐘就會完全起效了。
+
+[[span class="logtime"]]上午9:12:44 |[[/span]] SCP-8980與記憶消除師進行眼神接觸。醫師在看見項目的表情時停下了動作，並看著對方。
+
+**SCP-8980：**拜託……拜託不要對我這樣。你不知道他是什麼樣的人。拜託幫幫我。拜託，讓我離開。
+
+[[span class="logtime"]]上午9:12:52 |[[/span]] 伯恩斯博士沒有反應，但看著兩人。記憶消除師瞥向伯恩斯，但很快就將視線轉回SCP-8980身上。
+
+**記憶消除師：**聽著，女士……我只在盡我的職責。我不想被牽扯進來。把這件事跟倫理委員會說，之類的。
+
+**SCP-8980：**他們不會聽的。拜託。
+
+[[span class="logtime"]]上午9:13:08 |[[/span]] SCP-8980施力試圖掙脫它的束縛。記憶消除師再度瞥向伯恩斯博士。他雙手交叉並看著醫師。醫師轉向SCP-8980。
+
+**記憶消除師：**我才不要為了一個陌生人賭上我的飯碗。抱歉。
+
+[[span class="logtime"]]上午9:13:14 |[[/span]] SCP-8980倒回檯面上，看著前方，同時安靜地哭泣。伯恩斯博士拿出他的行動設備（違反了他自己對SCP-8980制定的措施），但很快就將其放到一旁，設備似乎並沒有開啟。接下來的幾分鐘內，房間陷入沉默，僅能聽見SCP-8980的哭泣聲以及現場警衛偶爾的哼聲。
+
+[[span class="logtime"]]上午9:16:05 |[[/span]] 記憶消除師為記憶消除過程準備誘導劑。推測是考量到SCP-8980整體不配合，記憶消除師選擇在符合記憶消除劑使用準則的情況下添加一個能夠快速起效的輕度鎮靜劑。
+
+[[span class="logtime"]]上午9:16:59 |[[/span]] 在準備好所有材料後，記憶消除師走向SCP-8980，並再度幫注射點消毒。SCP-8980再度開始過度換氣並掙扎著。伯恩斯博士默默地看著。
+
+[[span class="logtime"]]上午9:17:13 |[[/span]] 記憶消除師開始注射，而SCP-8980同時開始尖叫。記憶消除師忽視了尖叫聲。
+
+[[span class="logtime"]]上午9:17:43 |[[/span]] 記憶消除師完成注射，然後將空的注射筒拔出。SCP-8980停止掙扎，但可見其仍在顫抖並哭泣著。
+
+**記憶消除師：**好了，都完成了。（//朝伯恩斯博士//）她要再幾分鐘才可以進行誘導。等她準備好了之後，你在完成前都不該說任何話，因為這麼做可能會帶來一些危險的副作用。這表示要完全安靜；如果你說了除了誘導詞以外的話，我們就必須要等藥效消失，然後重新排時間。懂了嗎？
+
+**伯恩斯博士：**懂了。
+
+**記憶消除師：**很好。她好了之後我會豎大拇指，好讓你知道她準備好了。
+
+[[span class="logtime"]]上午9:18:00 |[[/span]] 在藥劑開始起效後的幾分鐘內，SCP-8980不斷顫抖並哭泣著。伯恩斯博士默默看著SCP-8980，而記憶消除師在整理相關文件。
+
+[[span class="logtime"]]上午9:21:51 |[[/span]] 當誘導劑開始在SCP-8980體內擴散時，項目再度加倍掙脫束縛的力道；然而，它的左手已完全癱瘓，而它的話語也變得極度模糊。
+
+[[span class="logtime"]]上午9:23:24 |[[/span]] SCP-8980的嘴開始不受控制地抽搐著，而它同時激烈地看向房間各處。很快地，SCP-8980已無法再移動另一隻手與雙腿，而項目也緩緩停下顫抖和扭動。
+
+[[span class="logtime"]]上午9:26:55 |[[/span]] 在多花了幾分鐘讓藥劑在項目體內擴散後，SCP-8980已幾乎無法移動，僅能夠微微呼吸以及控制雙眼。項目的下巴正鬆垮地張大著；唾液開始從嘴旁滴下，而其雙眼反覆聚焦和失焦，但仍在恐懼地四處張望。
+
+[[span class="logtime"]]上午9:27:34 |[[/span]] 記憶消除師檢查她的手表，然後看向SCP-8980。她向伯恩斯博士豎起大拇指，但伯恩斯正無表情地專心看著SCP-8980，而未注意到醫師。
+
+[[span class="logtime"]]上午9:27:40 |[[/span]] 記憶消除師煩躁地起身並走向伯恩斯博士，而伯恩斯博士在他看見醫師靠近時猛然彈起。醫師停下動作並向他豎起拇指，並導致伯恩斯博士靠近SCP-8980。項目的雙眼僅僅聚焦在他身上。
+
+[[span class="logtime"]]上午9:27:53 |[[/span]] 記憶消除師將她的基金會規格耳罩戴上，以確保她依據標準協議不會接觸到機密資訊。SCP-8980似乎注意到了這點，其嘴部開始反覆抽搐。記憶消除師默默看著。
+
+[[span class="logtime"]]上午9:28:00 |[[/span]] 伯恩斯博士拿出一張對摺的紙（推測為進行記憶消除誘導的筆記），然後開始對SCP-8980進行記憶消除誘導。他露出微笑。
+
+**伯恩斯博士：**記憶。於收容期間利用任意程式碼執行的漏洞。
+
+[[span class="logtime"]]上午9:28:07 |[[/span]] SCP-8980的左眼抽搐。
+
+**伯恩斯博士：**概念。任意程式碼執行漏洞。
+
+[[span class="logtime"]]上午9:28:12 |[[/span]] SCP-8980的嘴巴抽動，而它的雙眼望向記憶消除師。記憶消除師不關心地看著。它不斷試圖發聲，但無法發出連貫的聲音，只能發出低沉的咕嚕與呻吟聲。
+
+**伯恩斯博士：**記憶。於收容期間與同事進行聯繫。
+
+[[span class="logtime"]]上午9:28:19 |[[/span]] SCP-8980沒有任何唐突的反應，但其雙眼再度對上伯恩斯博士。伯恩斯博士再度看向手中的紙張。
+
+**伯恩斯博士：**記憶。於收容期間與母親進行聯繫。
+
+[[span class="logtime"]]上午9:28:25 |[[/span]] SCP-8980的右手重複抽搐著，而SCP-8980的雙眼慌張地望向房間各處。
+
+[[span class="logtime"]]上午9:28:30 |[[/span]] 數秒後，SCP-8980的雙眼開始滴出淚水，並逐漸下滑，與下巴的唾液混和在一起。
+
+[[span class="logtime"]]上午9:28:36 |[[/span]] 伯恩斯博士花了數秒閱讀手上的紙張。
+
+**伯恩斯博士：**概念。使用你的遠程工作設備以突破收容。
+
+[[span class="logtime"]]上午9:28:43 |[[/span]] SCP-8980的嘴再度短暫地抽搐。在接下來的幾秒內，它開始呻吟並試圖發聲，但沒有成功。
+
+[[span class="logtime"]]上午9:28:47 |[[/span]] 在接下來的幾秒內，房間陷入沉默且沒有任何動作，伯恩斯博士抬頭並直接看向SCP-8980的雙眼。他直直看著項目；其雙眼睜大，並立即停止發聲。
+
+[[span class="logtime"]]上午9:28:49 |[[/span]] 伯恩斯博士看向一旁的紀錄設備，然後看向後方的記憶消除師，醫師幾乎沒有反應。他接著再度看向異常。
+
+[[span class="logtime"]]上午9:28:53 |[[/span]] 伯恩斯博士向前傾，位於SCP-8980正上方，且近到兩者的臉距離只有幾公分。項目的下巴開始抽搐。兩人皆沒有移開視線，但SCP-8980的呼吸變得極度粗重。
+
+[[span class="logtime"]]上午9:28:58 |[[/span]] 在沉默了幾秒後，伯恩斯博士微笑，然後說話。
+
+**伯恩斯博士：**概念。[資料毀損]。
+
+[[span class="logtime"]]上午9:29:03 |[[/span]] 影像與聲音嚴重扭曲了數秒。SCP-8980猛烈地抽搐著，而它的目光茫然。它的呼吸相當不規律。伯恩斯博士不再向前傾。
+
+[[span class="logtime"]]上午9:29:04 |[[/span]] 記憶消除師跳起並下意識地抓向她的耳罩；然而，在她向前看去並想起紀錄設備的存在後，她有些遲疑地再度將手放下。
+
+[[span class="logtime"]]上午9:29:36 |[[/span]] SCP-8980在幾秒後回到惰性狀態，但其嘴仍持續抽搐並大聲呻吟著。伯恩斯博士轉向記憶消除師並豎起拇指，表示誘導階段已完成。
+
+[[span class="logtime"]]上午9:29:42 |[[/span]] 記憶消除師起身並開始準備第二劑，同時再度幫SCP-8980的手臂消毒。SCP-8980似乎已從抽搐中復原，其雙眼重新聚焦，並開始更劇烈地哭泣，並看相伯恩斯博士的雙眼，但後者現已移開視線。
+
+[[span class="logtime"]]上午9:30:15 |[[/span]] 記憶消除師準備好了第二劑，並有些遲疑地靠近SCP-8980。
+
+[[span class="logtime"]]上午9:30:20 |[[/span]] 記憶消除師彎下身準備注射催化劑藥劑，同時看向SCP-8980的雙眼，後者現在直直看著醫師。其嘴部劇烈抽搐。醫師轉身看向伯恩斯博士，後者嚴厲地點點頭。醫師嘆了口氣。
+
+[[span class="logtime"]]上午9:30:34 |[[/span]] 記憶消除師給SCP-8980注射催化劑。
+
+[[span class="logtime"]]上午9:30:39 |[[/span]] SCP-8980的嘴停止抽搐。
+
+[[span class="logtime"]]上午9:31:12 |[[/span]] 記憶消除劑起效的同時，SCP-8980的意識逐漸模糊，導致項目的雙眼徹底失焦，並使它的頭部癱軟。記憶消除師再度嘆氣。
+
+**記憶消除師：**好了，完成了。她應該在幾小時內就會醒來了。
+
+**伯恩斯博士：**謝謝你，醫師。
+
+[[span class="logtime"]]上午9:31:19 |[[/span]] 沉默。警衛開始移除SCP-8980的束縛，而伯恩斯博士和記憶消除師望向彼此。
+
+**記憶消除師：**……請問一下，她怎麼——
+
+**伯恩斯博士：**（//打斷//）那是高度機密。
+
+[[span class="logtime"]]上午9:31:24 |[[/span]] 伯恩斯博士看向他的手錶。
+
+**伯恩斯博士：**因為你手腳太慢，我赴約遲到了，所以我要離開了。警衛會處理異常。祝您一天愉快。
+
+[[span class="logtime"]]上午9:31:32 |[[/span]] 伯恩斯博士離開房間，而同時警衛已解開SCP-8980的束縛。
+
+[[span class="logtime"]]上午9:32:01 |[[/span]] 警衛將SCP-8980軟弱的身體抓起，並扛在肩膀上，然後離開房間。記憶消除師一開始沒有反應，但在幾秒後回過神來，然後開始收拾東西。
+
+[[span class="logtime"]]上午9:38:29 |[[/span]] 記憶消除師結束後，她瞥向紀錄設備。她顫抖了一陣，然後抓了她手臂上的一片變色區域，並離開房間。
+
+----
+
+= **[轉錄結束]**
+
+[[/div]]
+
+伯恩斯博士的行為完整分析已夾附在此審查的結尾，因此並不會在此深度討論。不論如何，明顯伯恩斯博士濫用了分配給首席研究員職位的保護措施以刻意消除非必要的SCP-8980的概念和記憶。此舉帶來的影響可於以下的SCP-8980檔案紀錄看見。
+
+@@ @@
+
+此事件中的一段過程（時間9:28:53）似乎已損壞到無法恢復的地步。目前認為此效應是因SCP-8980的異常能力所導致的，雖然這是唯一一次紀錄設備被異常直接影響的案例。
+
+@@ @@
+
+記憶消除師——審查團隊因須遵守行為準則而刻意模糊了其身分——事後已被確認身分並對其進行審問。由於審問後發現她長期濫用記憶消除劑以消除她自身的創傷記憶，此審問很遺憾地沒有產出任何值得顯著的結果。不論如何，她仍能記得她在事情發生的一天後提交了一份訴狀給Site-17的倫理委員會聯絡員辦公室，但此報告由於當時聯絡員職位從缺而未被收到。
+
+@@ @@
+
+警衛的身分——雖然當時依據基金會守則而帶著SCRAMBLE裝備——由於相關資訊可能是由Site-17管理層蒐集，已向他們要求身分資訊。雖然Site-17管理層遵守了要求，後續調查顯示警衛——傑拉多．H．羅德里格茲——已於2013年的一場收容失效中被殺害。雖然倫理委員會從O5議會獲取了搜索其所有物的搜索令，搜索並未找到任何與此案相關的證據。
+
+@@ @@
+
+倫理委員會審查團隊無法推論伯恩斯博士抹除的毀損概念為何。
+
+[[/div]]
+
+@@​@@
+
+[[div class="darkdocument"]]
+
+[[span class="bi-b"]]**附錄9：**[[/span]]記憶消除後的憂鬱
+
+[[div_ class="bi-popup"]]
+[[span class="annotitle"]]審核者註解[[/span]]
+倫理委員會審查團隊在此加註，以提醒人員此附錄原本就在檔案中，但沒有前文。
+[[/div]]
+
+在SCP-8980進行記憶消除後，其心理狀態惡化到無法達成任何業績標準的地步，也無法回應任何工作問題。作為回應，SCP-8980被要求[[span class="bi-y"]]雙周次地[[/span]]參與超心理諮商，但儘管克勞福博士盡了最大努力，這些諮商對其症狀幾乎沒有改善。
+
+[[div_ class="bi-popup"]]
+[[span class="annotitle"]]審核者註解[[/span]]
+**模糊的用詞** — 「雙周次地」可能暗指異常被要求每兩周參加一次諮商。應使用「每周兩次」。值得注意的是，在這之後的收容過程中，收容人員確實誤解了這個詞。
+[[/div]]
+
+克勞福博士於2006年1月16日再度有所進展：
+
+[[div class="blockquote"]]
+
+= **[節錄開始]**
+
+----
+
+//已除去無關資料。克勞福博士正坐在書桌前，緩緩在她的客戶檔案中四處搜尋。在此之前，數次開始進行溝通的嘗試皆已失敗，狀況類似她初次與異常互動時。//
+
+//SCP-8980正躺在絨毛椅上，沒有動作。它直直盯著天花板，且完全沒有注意到克勞福博士。它的呼吸淺薄。//
+
+**克勞福博士：**啊，有了。
+
+//[[span class="bi-b"]]克勞福博士花了數分鐘閱讀關於SCP-8980的近期報告[[/span]]，她的表情逐漸變得凝重。//
+
+[[div_ class="bi-popup"]]
+[[span class="annotitle"]]審核者註解[[/span]]
+此舉在諮詢開始之前就應執行。
+[[/div]]
+
+**克勞福博士：**喔天啊。
+
+//克勞福博士抬頭看向異常。//
+
+**克勞福博士：**記憶消除劑讓你憂鬱了，嗯？
+
+//SCP-8980微微轉頭，面向克勞福博士，並認知到其發言。克勞福博士短暫哼了一下。//
+
+**克勞福博士：**我記得我第一次進行記憶消除的時候。
+
+//克勞福博士稍微等待SCP-8980做出回應；項目沒有回應。//
+
+**克勞福博士：**我當然不記得我當時確切看到什麼了，但天，那肯定很恐怖。我基本上就是走到那張記憶消除桌上然後給自己注射了藥！
+
+//SCP-8980沒有回應，但將頭撇開。克勞福博士皺眉。//
+
+**克勞福博士：**嗯，我猜記憶消除對你來說肯定很不舒服。你//是//自願的，不是嗎？
+
+//SCP-8980的臉短暫扭曲了一下，但沒有出現更多反應。//
+
+**克勞福博士：**親愛的，如果你總是把你的情緒鎖起來，你總有一天會爆炸的。你需要把困擾著你的東西說出來。你可以相信我，就像你可以相信任何老太婆一樣。
+
+//SCP-8980顫抖，然後雙眼睜大。//
+
+**SCP-8980：**我……他們……他……
+
+//SCP-8980停頓，然後再度顫抖。//
+
+**SCP-8980：**他……他從我身上拿走了什麼。
+
+**克勞福博士：**「他」又是在指伯恩斯？
+
+//SCP-8980的聲音似乎卡頓了一下，所以它點點頭。克勞福博士嘆氣。//
+
+**克勞福博士：**如果你繼續把問題甩給那個人，你將會永遠沒辦法克服這個……你自己給自己設立的受害者心理。
+
+//SCP-8980沒有回應。//
+
+**克勞福博士：**我很常聽說——我是說，在我的行業裡——有些現實扭曲者會下意識用他們自己的異常能力來折磨自己，因為他們相信他們就應該受罰。他們會用各種方式讓自己的生活變得相當悽慘。
+
+//SCP-8980的雙眼睜大。//
+
+**SCP-8980：**我不……
+
+**克勞福博士：**（//打斷//）喔，抱歉，對，我知道你不是。他們有測試過了，對吧？
+
+//SCP-8980點頭。//
+
+**克勞福博士：**我提起這個是因為，嗯，有時候錯誤確實來自內在。而這是個難以接受的事實，但在現實中幾乎不會發生我們真正無法幫助的事情。
+
+//SCP-8980再度顫抖。//
+
+**SCP-8980：**我不知道如果……如果那……
+
+**克勞福博士：**這個嘛，你因為試圖突破收容所以才被記憶消除的，不是嗎？
+
+//SCP-8980的雙眼短暫失焦。它困惑地微微搖頭。//
+
+**SCP-8980：**我不……我不記得……
+
+//克勞福博士低頭再次閱讀簡報。她大聲嘆氣，導致SCP-8980退縮。//
+
+**克勞福博士：**我很確定你總有一天可以爭取到更加輕微的限制的，如果你更加克制的話。我就是靠著看人臉色閉嘴才爬到現在這個位置的。有時候，你只是需要忍氣吞聲，就像人們常說的，就算你知道你是正確的也一樣。只有那時你才能繼續前進。
+
+//SCP-8980沒有回應，但眼淚開始從其臉頰留下。克勞福博士抬頭。//
+
+**克勞福博士：**喔，親愛的，我很抱歉。我不是有意要讓你哭的。我剛剛講太多私事了。
+
+//SCP-8980沒有回應。克勞福博士看向時鐘。//
+
+**克勞福博士：**親愛的，我很抱歉，但我們今天的時間已經要結束了。我很討厭在這麼情緒化的時刻中斷，但我還有其他客戶非常需要我。基金會有時是個相當殘酷的地方。
+
+//SCP-8980沒有回應。克勞福博士嘆氣，然後微微暗笑。//
+
+**克勞福博士：**我猜我們那充滿情緒的小腦袋瓜就像基金會本身，不是嗎？不論我們多麼努力，總是還有更多工作要完成。
+
+//克勞福博士起身結束會談，但她在看見SCP-8980的表情時停下了動作。SCP-8980的雙眼睜大，而它的嘴正張著。//
+
+**SCP-8980：**總是……總是還有更多工作要完成。
+
+[[/div]]
+
+在此會面後，SCP-8980的生產力完美達到了其應有的程度。然而，它的憂鬱症狀似乎加劇了，項目不再花費時機尋求娛樂或是社交，並選擇在一天剩下的時間內待在床上。儘管如此，克勞福博士還是因她對增進SCP-8980生產力所做出的貢獻而[[span class="bi-y"]]受到表揚[[/span]]，儘管此舉帶來了一些缺點。
+
+[[div_ class="bi-popup"]]
+[[span class="annotitle"]]審核者註解[[/span]]
+**被動用法** — 「受到表揚」處模糊了表揚者的身分，表揚者為Site-17的收容監督委員會
+[[/div]]
+
+[[/div]]
+
+@@​@@
+
+[[div class="ec"]]
+
+= **[[span class="ec-title"]]倫理委員會備忘錄[[/span]]**
+
+@@​@@
+
+以下影片於Site-17的深井檔案庫中提取。此影片並不存在於原始檔案中，但已依時間順序記錄在此，而不帶評論。
+
+[[div class="blockquote ecinside"]]
+
+**日期：**2006年3月10日
+
+**調查對象：**克里斯多福．伯恩斯博士
+
+**調查部分：**與SCP-8980的未公開面談
+
+----
+
+= **[開始轉錄]**
+
+----
+
+[[span class="logtime"]]上午6:28:34 |[[/span]] SCP-8980正坐在其收容間內的椅子上。它頹然地向前傾，直直盯著地板，朝向房間入口。
+
+[[span class="logtime"]]上午6:29:23 |[[/span]] 房間的門打開，而伯恩斯博士進入房間。SCP-8980沒有反應，繼續盯著地板。
+
+[[span class="logtime"]]上午6:29:35 |[[/span]] 伯恩斯博士花了數秒關上身後的門，然後轉向SCP-8980，與其面對面。他花了數秒默默地看著她。
+
+**伯恩斯博士：**很抱歉我遲到了幾天。你知道路上交通有時很塞。
+
+[[span class="logtime"]]上午6:29:40 |[[/span]] SCP-8980沒有回應。
+
+**伯恩斯博士：**你要求了與我見面。我願意搭理你你就該心懷感激了，特別是考量到你的狀態。但你應該要知道，我身上有帶電擊槍，所以你這次敢耍任何花招，後果//會//很痛的。
+
+[[span class="logtime"]]上午6:29:47 |[[/span]] SCP-8980沒有回應。伯恩斯博士煩惱地交叉雙臂。
+
+**伯恩斯博士：**如果浪費我的時間就是你對我略報小仇的話，你和我都知道我可以做出比這糟很多的——
+
+[[span class="logtime"]]上午6:29:51 |[[/span]] SCP-8980放出一道痛苦的長嘆息，導致伯恩斯博士陷入沉默。
+
+**SCP-8980：**你……你……
+
+[[span class="logtime"]]上午6:29:55 |[[/span]] SCP-8980開始默默哭泣。
+
+**SCP-8980：**你——你……
+
+[[span class="logtime"]]上午6:29:59 |[[/span]] SCP-8980的呼吸加速，然後開始顫抖。伯恩斯博士伸向他的電擊槍。
+
+[[span class="logtime"]]上午6:30:03 |[[/span]] SCP-8980抬頭看向伯恩斯博士。
+
+**SCP-8980：**你……你贏了。
+
+[[span class="logtime"]]上午6:30:05 |[[/span]] 伯恩斯博士沒有反應。SCP-8980持續快速呼吸，並等待了數秒，然後將視線下移。
+
+**SCP-8980：**你贏了。（//項目短暫嗆到。//）你贏了，好嗎？
+
+[[span class="logtime"]]上午6:30:11 |[[/span]] 伯恩斯博士沒有反應。SCP-8980加劇哭泣。
+
+**SCP-8980：**我會做你想要的任何事。拜託，讓我回去以前的樣子。
+
+[[span class="logtime"]]上午6:30:15 |[[/span]] 沉默。伯恩斯博士將手移開電擊槍。SCP-8980懇求地抬頭看向他。
+
+**SCP-8980：**我願意給你我有的所有東西。所有。你可以擁有我銀行帳戶裡和我房間裡的所有東西。我願意幫你貸我自己都無法付清的貸款。我願意給你我的薪水。所有東西。
+
+[[span class="logtime"]]上午6:30:23 |[[/span]] 伯恩斯博士沒有反應。
+
+**SCP-8980：**我願——我願意做你給我的任何工作。我願意讓你擁有我每篇論文的功勞。我願意當你的——（//SCP-8980大口吸氣。//）你的秘書。我願意每天早上幫你泡咖啡跟做三明治。//我願意舔你的鞋子。//
+
+[[span class="logtime"]]上午6:30:31 |[[/span]] 伯恩斯博士沒有反應。SCP-8980熱切地看著他的表情，尋找任何情緒。
+
+[[span class="logtime"]]上午6:30:36 |[[/span]] 數秒後，SCP-8980哭泣並低下視線。
+
+**SCP-8980：**（//低語著//）我願意……我甚至願意讓你睡了我。拜託。
+
+[[span class="logtime"]]上午6:30:41 |[[/span]] 伯恩斯博士最初沒有反應，但隨後緩緩露出微笑。SCP-8980滿懷希望地抬頭看向他，但其表情隨著伯恩斯博士沒有回應而沉了下來。
+
+**SCP-8980：**（//低語著//）拜託。
+
+[[span class="logtime"]]上午6:30:53 |[[/span]] 伯恩斯博士開始笑出聲。他大笑了數秒，同時抓著自己的腹部，並向前傾。SCP-8980跌下椅子，並害怕地向後退。
+
+[[span class="logtime"]]上午6:31:18 |[[/span]] 在大笑將近三十秒後，伯恩斯博士鎮定下來，並從眼中擦掉一滴眼淚。
+
+**伯恩斯博士：**真好笑。說出這些話只顯示你變得有多可悲。你一直以來都是如此可悲。
+
+[[span class="logtime"]]上午6:31:24 |[[/span]] 伯恩斯博士走向SCP-8980。項目向後爬，試圖在伯恩斯博士接近的同時遠離他。
+
+[[span class="logtime"]]上午6:31:31 |[[/span]] 項目的背貼到了牆壁。伯恩斯博士站在其面前，然後蹲下以將視線對上對方。SCP-8980顫抖，並試圖說話，但無法。
+
+**伯恩斯博士：**你真的不理解，對吧？
+
+[[span class="logtime"]]上午6:31:34 |[[/span]] 沉默。
+
+**伯恩斯博士：**如果我想上你，我早就做了。
+
+[[span class="logtime"]]上午6:31:38 |[[/span]] 沉默。伯恩斯博士微笑。
+
+**伯恩斯博士：**我已經從你那獲得我想要的所有東西了。
+
+[[span class="logtime"]]上午6:31:43 |[[/span]] 伯恩斯博士不再多說，同時站了起來。SCP-8980茫然地盯著前方，並哭泣著。而伯恩斯博士走向收容室的門，項目沒有反應。
+
+[[span class="logtime"]]上午6:31:48 |[[/span]] 伯恩斯博士停下，然後轉頭看。
+
+**伯恩斯博士：**一周年快樂，麗莉安。之後還有更多呢。
+
+[[span class="logtime"]]上午6:31:53 |[[/span]] 伯恩斯博士沾沾自喜地笑著，然後離開房間。
+
+[[span class="logtime"]]上午8:00:03 |[[/span]] 在接下來的一個半小時內，房間皆無活動，然後SCP-8980房間內的遠端工作設備印出項目的工作時程表。SCP-8980慢慢從地上爬起，然後準備工作。
+
+[[/div]]
+
+[[/div]]
+
+@@​@@
+@@​@@
+@@​@@
+@@​@@
+@@​@@
+
+[[div class="darkdocument"]]
+
+**附錄10：**無效化
+
+2014年12月12日，首席研究員克里斯多福．伯恩斯選擇退休。根據基金會繼任標準，摩根．麥克菲瑞博士於同年12月15日接任SCP-8980的首席研究員職位。
+
+2015年1月5日，麥克菲瑞博士根據SCP-8980的特殊收容措施執行了年度例行測試。在幾輪測試後，麥克菲瑞博士發現SCP-8980不具有任何檔案中描述的異常性質，此事再經數輪額外測試確認屬實。
+
+2015年1月8日，麥克菲瑞博士與SCP-8980進行了訪談。在訪談過程中，他注意到實體具有數個令人擔憂的性質，包括極度冷漠、嚴重的科技恐懼症、以及缺乏社會認知。在花了數天確認SCP-8980曾直接和間接受到長期虐待與疏忽後，麥克菲瑞博士提交了一份正式的倫理委員會訴狀，其內容為克里斯多福．伯恩斯博士對SCP-8980的待遇。在從O5議會獲取調查令後，一場正式調查於2015年1月14日開始進行。
+
+自2015年1月19日起，SCP-8980已在摩根．麥克菲瑞博士的直接監督下開始重新適應並整合至更廣泛的基金會職場中。正在審議將SCP-8980重新分級為Neutralized。
+
+[[/div]]
+
+[[=]]
+@@​@@
+
+@@​@@
+
+@@​@@
+
+……
+
+@@​@@
+
+{{檔案結束。}}
+
+@@​@@
+
+……
+
+@@​@@
+
+……
+
+@@​@@
+
+……
+
+@@​@@
+
+{{正在讀取附件……}}
+
+@@​@@
+
+……
+
+@@​@@
+
+@@​@@
+
+@@​@@
+[[/=]]
+
+[[div class="ec-comments"]]
+
+[[div class="blockquote"]]
+
++++ SCP-8980調查總結 [[span style="color: grey; font-size: 80%;"]]| 2015年5月5日[[/span]]
+
+++++++ 本結果由隆納．羅伯茲（領導人）、琳達．M．N．布朗、弗蘿拉・馬里諾斯以及安柏．H．戈爾茨坦展示。
+
+----
+
+前份文件已於2015年5月4日徹底完成審查以及註解，並在此全文展示以供理解審查結果。
+
+根據SCP-8980的文件以及審查團隊找到的外部資源，顯然**__克里斯多福．伯恩斯博士__**對一異常進行了長時間的嚴重蓄意虐待。雖然違規行為的範圍廣泛，已確認的完整行為列表如下：
+
+* 濫用正式職位以勒索、操控或是以其他方式負面影響其他基金會員工。[[span class="logtime"]]（第1編第7章第1條）[[/span]]
+* 沒有避免自己參與與自己有明顯利益衝突的敏感事務。[[span class="logtime"]]（第1編第7章第3條）[[/span]]
+* 濫用正式檔案以呈現錯誤或不準確的信息。[[span class="logtime"]]（第5編第3章第1.1條）[[/span]]
+* 在正式檔案中刻意模糊細節。[[span class="logtime"]]（第5編第3章第2條）[[/span]]
+* 虐待一異常。[[span class="logtime"]]（第2編第2章）[[/span]]
+* 性騷擾一異常。[[span class="logtime"]]（第2編第2章第1.5條）[[/span]]
+* 惡劣忽視一異常。[[span class="logtime"]]（第2編第2章第2.4.1條）[[/span]]
+* 對一具感知力的異常過度進行測試。[[span class="logtime"]]（第2編第2章第2.6條）[[/span]]
+* 蓄意恐嚇一異常。[[span class="logtime"]]（第2編第2章第5.3條）[[/span]]
+* 公開一異常的私人信息。[[span class="logtime"]]（第2編第2章第7條）[[/span]]
+* 惡劣濫用記憶消除劑。[[span class="logtime"]]（第7編第1章第2條）[[/span]]
+* 違反先前發布的倫理委員會停止令。[[span class="logtime"]]（第9編第1章第7條）[[/span]]
+
+雖然這些違規行為本身極度嚴重且數量龐大，但由於數項違規行為無法被證實，且其他違規行為可能是在收容其他異常時所犯下的，因此該列表可能無法完全展示伯恩斯博士犯下的所有違規行為。雖然審查團隊已試圖全面辨認伯恩斯博士違規行為的規模，但此調查已因Site-17管理層的不服以及O5議會不願延長調查令而受到極大的阻撓。
+
+不幸的是，伯恩斯博士無法被判刑。根據O5議會於1995年發表的記憶消除後倫理懲戒規則，由於伯恩斯博士無法記得在重大記憶消除前所犯下的行為，因此他無法接受懲戒。
+
+**__瑞秋．史蒂爾博士__**同樣被發現違反了基金會的行為準則，特別是第2章，第2段2.4.1節，與惡劣忽視異常相關的章節。由於她並非首席研究員，且在此之前她並未有過違規紀錄，審查團隊建議採取標準罰則，即停薪一週，以及強制接受三個月的心理矯正治療。
+
+雖然**__摩根．麥克菲瑞博士__**被發現違反了基金會的行為準則（情況類似史蒂爾博士），但審查團隊（2/4）一致認為麥克菲瑞博士不應在他的履歷上留下違規紀錄。
+
+**__納丁．克勞福博士__**在此之前已不再是基金會員工。更多資訊請見案件編號07082012-9932-T。
+
+----
+
+作為調查結果，SCP-8980審查團隊欲建議幾點如下，以供倫理委員會未來矯正此案：
+
+# 給SCP-8980提供金錢賠償，以補償克里斯多福．伯恩斯博士對其造成的虐待。
+# 在SCP-8980於基金會的剩餘任職期間，提供其免費心理諮商。
+# 要求火勢遏阻部輕度監視SCP-8980以順利將其重新整合至基金會職場。
+
+此外，如果能以基金會動議的名義提案以下組織結構上的改變，將能助益於整體基金會：
+
+# 提交基金會動議以要求倫理委員會審查任何在退休時希望接受記憶消除治療的人員。
+# 提交基金會動議以擴大倫理委員會的能力，使倫理委員會能夠在沒有站點主管許可的情況下將聯絡員提拔至站點。
+# 要求O5議會授予調查令以調查Site-17的所有行政措施。
+
+如有更多問題，請轉交給審查團隊領導人隆納．羅伯茲。
+
+[[/div]]
+
+@@​@@
+
+[[div class="blockquote"]]
+
+**奧東戈．特賈尼主席** [[span class="logtime"]]| 2015年5月5日 - 當地時間上午01:02[[/span]]
+[[div class="ec-comment"]]
+感謝你對此案件付出極大的努力，羅伯茲。你和你的團隊完成了這份如此詳細的案件，並幫了我們的委員會很大一個忙。
+
+你們建議的倫理委員會提案皆已通過倫理委員會的初步審查，並接著會對其分別進行投票。倘若整體倫理委員會認可基金會動議，則這些動議將會在下次的年度跨委員會會議中對其進行投票。
+[[/div]]
+[[/div]]
+
+@@​@@
+
+[[div class="blockquote"]]
+
+**奧東戈．特賈尼主席** [[span class="logtime"]]| 2015年6月15日 - 當地時間上午01:00[[/span]]
+[[div class="ec-comment"]]
+
+審查團隊提出的三個倫理委員會提案皆已通過。
+
+* **提案1（賠償）：**已通過。（61-2-4）
+ * 另一場投票（33-22-12）決定應對此案分配$470,000美元，此金額與類似案件的標準截然不同。主要意見擔憂近期經費出現的赤字以及認為此案應保持低調。
+* **提案2（諮商）：**已通過。（64-1-3）
+ * 此為標準措施；投反對票的人認為SCP-8980與克勞福博士的經歷可能會對其產生額外的創傷。
+* **提案3（遏火）：**已通過。（38-29）
+ * 結果幾乎無關緊要；遏火部早已監督SCP-8980的案件數年。遏火採取的所有行動皆已被審查，並認為皆屬倫理上可接受的範圍內。
+
+基金會動議1和3已通過；然而，動議2已被否決（33-34），反對方認為此政策會動搖O5議會、倫理委員會與站點主管委員會之間的權力平衡，並不必要地加劇基金會之間的緊張局勢。
+
+[[/div]]
+[[/div]]
+
+@@​@@
+
+[[div class="blockquote"]]
+
+**奧東戈．特賈尼主席** [[span class="logtime"]]| 2015年9月2日 - 當地時間上午01:00[[/span]]
+[[div class="ec-comment"]]
+
+我給這個帖子添加了額外的評論，以表明前述基金會動議已於今年度的基金會委員會會議中進行投票表決。投票結果如下：
+
+* **動議1（記憶消除修正案）：**已否決。O5議會通過（10-3），但由站點主管委員會否決（68-109）。
+ * O5議會的多數意見贊同此修正案，認為此舉沒有問題。
+ * 站點主管委員會的多數意見否決此修正案，並聲稱此動議為倫理委員會試圖從站點主管奪取權力的計謀。
+
+* **動議2（Site-17調查令）：**由O5議會否決（6-7）。
+ * 少數意見贊成應確保Site-17有徹底遵守基金會的倫理準則。
+ * 多數意見僅如此評論：「Site-17只是在如期運作。」
+
+不幸的是，看來我們又被限制住了。我會讓這份案件無限期保持開放，留待伯恩斯博士的其他行為調查在未來可能的進展。
+
+我想再度感謝我們厲害的審查團隊，感謝他們的努力才讓這份案件得以公開。你們的努力對於維持基金會的安全來說不可估量，而我們非常感謝你的成果。
+
+[[/div]]
+[[/div]]
+
+@@​@@
+
+[[div class="blockquote"]]
+
+= {{這則帖子已因缺乏活動（2年）而被自動鎖起。請聯繫您的上級以解鎖此帖子。}}
+
+[[/div]]
+
+[[/div]]
+
+[[=]]
+@@​@@
+
+@@​@@
+
+@@​@@
+
+……
+
+@@​@@
+
+{{檔案結束。}}
+
+@@​@@
+
+……
+
+@@​@@
+
+……
+
+@@​@@
+
+{{正在掃描附加的本地檔案……}}
+
+@@​@@
+
+……
+
+@@​@@
+
+……
+
+@@​@@
+
+{{正在讀取一（1）封本地檔案……}}
+
+@@​@@
+
+……
+
+@@​@@
+
+@@​@@
+
+@@​@@
+[[/=]]
+
+[[div class="email"]]
+
+**自：**[# MMcPharrell@site17.scip.net]
+**致：**[# FMarinos+Site-17@eth-comm.scip.net]
+**主題：**復健治療進度更新（2017年11月3日）
+
+[[div style="border: 1px solid rgb(var(--ec-popup-color));"]]
+[[/div]]
+
+午安弗蘿拉，
+
+我希望我能告知你我已經在麗莉安的復健治療上有所進展，但她上個月的狀況實在不是很好。至少，我有一些新事情要報告。
+
+首先，你推薦的新諮商程式沒有用。她才使用兩分鐘就立刻恐慌發作了，而第二次嘗試甚至更糟。照目前的速度，我們再過大概一個月就要用光17的新治療師了。在我們穩定她的科技恐懼症，好讓她能夠連續使用電腦一小時前，長距離治療基本上不可行。
+
+至於工作方面，她基本上還是無法做出任何有所產值的事。這我也不太能責備她；每週做一個部門的工作量，而且有三分之一的人生都在做這種事肯定會累垮一個人。但湯普森主管在她的工作完成前還是會不停對我嘮叨，所以我只好硬著頭皮幫她做她的工作。每天都得超時工作真的很痛苦，但我也束手無策——葛拉漢主管已經拒絕我的調動要求了。至少我能拿到加班費。
+
+最後，她的整體狀況……她整體來說都還是一樣，但我已經有了些許進展。比如，她終於不再像是被強迫一樣地稱呼我為「先生」了。一開始還挺有趣的，但這很快就變得相當詭異，所以我很高興我們終於渡過這點了。不過她還是會突然尖叫，或是在我睡覺時試圖盯著我，但這些事發生的頻率已經有所減少了。能讓事情有所進展的可能性就在這些事裡頭——但如果我們這兩年看到的進展就只有這些的話，那麼我們還有很長一段路要走。
+
+我不敢跟其他人說這個，但……我覺得我真的開始怨恨她了，弗蘿拉。我在實質上已經被迫成了她的全職保母，而且坦白說，她真的有夠令我厭煩。每天都要處理她的工作和雜事//還有//整天忍受她的重度神經病，她徹底把我累癱了，為此，我甚至已經無法再把她當作一名人類看待，更不用說把她當同事了。我很不喜歡這樣說，但老實講，我已經很想要放棄這件事，留她一人自生自滅了。我不能繼續這麼做了。總得放棄某些東西。
+
+送出這份郵件可能是我在職涯中做過最蠢的事，但我真的需要把這事講出來。我知道你說過委員會被限制住了，但如果你還有什麼能做的，//拜託//幫幫我。我不知道我還能忍受這個瘋女人多久。
+
+[[div style="border: 1px solid rgb(var(--ec-popup-color));"]]
+[[/div]]
+
+毋任感荷，
+摩根．麥克菲瑞博士
+
+[[/div]]
+
+[[=]]
+@@​@@
+
+@@​@@
+
+@@​@@
+
+……
+
+@@​@@
+
+{{檔案結束。檔案已被歸檔。}}
+
+@@​@@
+
+{{沒有找到更多文件。}}
+
+@@​@@
+
+……
+
+@@​@@
+
+@@​@@
+
+@@​@@
+{{登出中……}}
+
+@@​@@
+@@​@@
+@@​@@
+@@​@@
+@@​@@
+@@​@@
+
+{{您已成功登出。祝您一天愉快，[[[SCP-7777|馬里諾斯聯絡員]]]。}}
+
+[[/=]]
+
+[[/div]]
