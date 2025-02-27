@@ -760,7 +760,7 @@ SCP驚選集2024 — 直面你的恐懼。
 |color=#0a460a|cover-img=https://scp-sandbox-3.wdfiles.com/local--files/test544/ergophobia.png
 |slug=scp-8980
 |author=Yossipossi
-|phobia=工作恐懼症|title=**喪盡**熱忱
+|phobia=工作恐懼症|title=**無可**感荷
 ]]
 
 [[include :smlt:odule:paella |status=active

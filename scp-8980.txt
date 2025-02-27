@@ -17,7 +17,10 @@ https://scp-zh-tr..wikidot.com/fragment:scp-8980-2
 @@ @@
 @@ @@
 
-[[include :scp-zh-tr:component:license-box]]
+[[include :scp-zh-tr:component:license-box
+|lang=EN
+|author=Yossipossi
+]]
 > **Filename:** fractal.webp
 > **Name:** Abox - Sphere 4D 8K HQ OpenCL 20200323 klein
 > **Author:** PantheraLeo1359531

@@ -1041,7 +1041,7 @@
 * [[[SCP-8977]]] - [ACCESS DENIED]
 * [[[SCP-8978]]] - [ACCESS DENIED]
 * [[[SCP-8979]]] - [ACCESS DENIED]
-* [[[SCP-8980]]] - [ACCESS DENIED]
+* [[[SCP-8980]]] - [[span style="color: #0a460a"]]**工作恐懼症：**[[/span]]無可感荷
 * [[[SCP-8981]]] - [ACCESS DENIED]
 * [[[SCP-8982]]] - [ACCESS DENIED]
 * [[[SCP-8983]]] - [ACCESS DENIED]
