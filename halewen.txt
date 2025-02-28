@@ -95,6 +95,8 @@
 > 他們信仰的細節無關緊要。
 [[[scp-8976|SCP-8976 - 資料丟失恐懼症：碎片化]]]
 > ##red|嚴重記憶錯誤##。
+[[[scp-8980|SCP-8980 - 工作恐懼症：無可感荷]]]，與[[*user Edward_knave]]合譯。
+> SCP-8980慢慢從地上爬起，然後準備工作。
 [[=]]
 ,,[#toc 回到頁面頂部],,
 [[/=]]
@@ -271,7 +273,7 @@ EN分部：
 > - [[[SCP-8654]]] **Acrophobia:** Up Is Down **高處恐懼症：**上即是下
 > - [[[SCP-8900-EX]]] Sky Blue Sky 藍天隕落
 > - [[[SCP-8976]]] Diagraphephobia: fragmentation 資料丟失恐懼症：碎片化
-> - [[[SCP-8980]]][[footnote]]我第一次讀到想吐。請做好心理準備再讀這篇。不，不是因為血腥或肉體恐怖才讓我想吐的。[[/footnote]] [[span style="color: #0a460a"]]**Ergophobia:**[[/span]] Without Regards [未翻譯]
+> - [[[SCP-8980]]][[footnote]]我第一次讀到想吐。請做好心理準備再讀這篇。不，不是因為血腥或肉體恐怖才讓我想吐的。[[/footnote]] [[span style="color: #0a460a"]]**Ergophobia:**[[/span]] Without Regards
 
 JP分部：
 > 故事：
