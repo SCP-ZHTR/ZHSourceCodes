@@ -186,6 +186,7 @@ Header logo是抓半影外觀主題裡的基金會logo網址。
 ]]
 [[div class="lightbox"]]
 目前空空如也。
+> 待辦檔案：SCP-118、SCP-8465。
 [[/div]]
 [[include :scp-zh-tr:component:colend
 |nohide=1
