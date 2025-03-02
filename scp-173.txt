@@ -7,7 +7,7 @@
 **譯者：**[[*user Semibreve]]
 [[include info:end]]
 
-[[include component:image-block name=https://i.imgur.com/GCzBxpN.png|caption=[*http://scp-zh-tr.wikidot.com/archived:untitled2004 ［圖片現況說明請按此］]|link="*http://scp-zh-tr.wikidot.com/peanut-gallery"]]
+[[include component:image-block name=ambxt-tfxni.webp|caption=[*http://scp-zh-tr.wikidot.com/archived:untitled2004 ［圖片現況說明請按此］]|link="*http://scp-zh-tr.wikidot.com/peanut-gallery"]]
 
 **項目編號：** SCP-173 
 
