@@ -1,6 +1,6 @@
 [[include component:scp-meta-title-hiding css-style=classic]]
 [[include info:start]]
-**SCP-005-VN - 格蘭披治賽車**
+**SCP-005-VN - 聖誕節格蘭披治賽**
 **作者：** [[*user KirQ]]，[[*user Dept]]
 **原文：** [http://scp-vn.wikidot.com/scp-005-vn SCP-005-VN Noel Grand Prix]
 
