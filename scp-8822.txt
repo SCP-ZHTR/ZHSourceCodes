@@ -972,7 +972,7 @@ SDP-8822不應在事先核准的表列展館以外的場地展示，所有獲准
 
 [[div class="ch_B"]]
 [[div class="a_45"]]
-**描述：** SDP-8822是一組[[span class="ch_B"]][[span class="a_50"]]621[[/span]][[span class="a_48"]]55[[/span]][[span class="a_10"]]11[[/span]][[/span]]尊的手雕石像頭，是經過一場人氣急升的進取行銷活動而成的結果，在[[span class="ch_B"]][[span class="a_48"]]英國[[/span]][[span class="a_10"]]英格蘭北部[[/span]][[/span]]流行文化中，俗稱為[[span class="ch_B"]][[span class="a_48"]][[span class="ruby"]]「人頭像」[[span class="rt"]]'the heads'[[/span]][[/span]][[/span]][[span class="a_10"]][[span class="ruby"]]布拉福石像頭[[span class="rt"]]Bradford Heads[[/span]][[/span]][[/span]][[/span]]。每一件SDP-8822都極其美麗。其一切手藝工法皆屬最高品質。每一件皆經過某程度的風化過程洗練，選材亦各自與每一件呼喚的強烈感情互補。
+**描述：** SDP-8822是一組[[span class="ch_B"]][[span class="a_50"]]621[[/span]][[span class="a_48"]]55[[/span]][[span class="a_10"]]11[[/span]][[/span]]尊的手雕石像頭，因為經過一場人氣急升的進取行銷活動，而結果在[[span class="ch_B"]][[span class="a_48"]]英國[[/span]][[span class="a_10"]]英格蘭北部[[/span]][[/span]]流行文化中，俗稱為[[span class="ch_B"]][[span class="a_48"]][[span class="ruby"]]「人頭像」[[span class="rt"]]'the heads'[[/span]][[/span]][[/span]][[span class="a_10"]][[span class="ruby"]]布拉福石像頭[[span class="rt"]]Bradford Heads[[/span]][[/span]][[/span]][[/span]]。每一件SDP-8822都極其美麗。其一切手藝工法皆屬最高品質。每一件皆經過某程度的風化過程洗練，選材亦各自與每一件呼喚的強烈感情互補。
 
 **風評**
 
@@ -1489,7 +1489,7 @@ SCP-8822-3
 
 **伯格曼：** 呃……也一陣子了。也好久的一陣子了，對不？（大笑）……啊，你們也拜託一下。我不太擅長記日子的。
 
-**伯格曼：** 麥克……這是你第一次去看石像頭嗎？
+**霍桑：** 麥克……這是你第一次去看石像頭嗎？
 
 **伯格曼：** 這問題也很沒禮貌。
 [[/div]]
@@ -2240,7 +2240,7 @@ SCP-8822-3
 
 //[卡拉瑟斯為之踉蹌。]//
 
-**謝潑德：** 人們去把它取回來。克蕾兒，留在這裡。
+**謝潑德：** 我們去把它取回來。克蕾兒，留在這裡。
 
 **溫德福：** 我會想跟過來。我……還沒洗手。
 
@@ -2268,7 +2268,7 @@ SCP-8822-3
 
 **溫德福：** 阿尼，你的錄音機。我們把頭裝進我的背包裡了。
 
-**卡拉瑟斯：** 你__拿了那顆頭？__放進背包裡？到底是甚麼驅攸到你這樣做的？
+**卡拉瑟斯：** 你__拿了那顆頭？__放進背包裡？到底是甚麼驅使到你這樣做的？
 
 //[卡拉瑟斯瞥向無語的布洛特。]//
 
