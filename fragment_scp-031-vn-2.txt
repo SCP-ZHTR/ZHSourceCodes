@@ -2,15 +2,15 @@
 [[include :scp-wiki:theme:minimalist-bhl]]
 [[include :scp-wiki:component:toggle-sidebar-bhl]]
 [[module CSS]]
-:root {
-     --header-title: "Department of Unreality";
-     --header-subtitle: "MAKING THE UNREAL A";
-  --lgurl: url('https://scp-wiki.wdfiles.com/local--files/component:pride-highlighter/tg_logo.svg');
+:root:lang(zh){
+     --header-title: "非現實部";
+     --header-subtitle: "讓非現實成為";
+     --lgurl: url('https://scp-wiki.wdfiles.com/local--files/component:pride-highlighter/tg_logo.svg');
 }
  
 @media only screen and (max-width: 26.5625rem) {
     :root {
-        --header-title: "Unreality";
+        --header-title: "非現實";
     }
 }
  
