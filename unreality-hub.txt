@@ -357,6 +357,27 @@ John Doe
 
 @@ @@
 
+> + 空虛
+> [[span class="ruby"]]//A veces dejo de respirar por un instante..//[[span class="rt"]]有時候我會暫停一下呼吸……[[/span]][[/span]]
+
+[[div class="blockquote"]]
+[[[SCP-031-VN | SCP-031-VN - 細聽非現實的低語]]] – by [[*user Welpermander]].
+
+//**［無關數據］：** 非現實是一門很基礎，很容易理解的學問。你只是大家的負累。沒有人對你不失望。//
+
+[[/div]]
+
+@@ @@
+
+@@ @@
+-----
+@@ @@
+
+@@ @@
+
+
+
+
 [[div class="blockquote"]]
 [[=]]
 + 空無一物
@@ -405,7 +426,6 @@ John Doe
 @@ @@
 
 @@ @@
-
 
 > + [未分配內存]
 > //兩者之間的肖像。//
