@@ -1,0 +1,73 @@
+[[include :scp-zh-tr:theme:scp-trans-pride |trans-pride-logo= --]]]
+[[include :scp-zh-tr:component:anomaly-class-bar-source
+|item-number= 031-VN
+|clearance= 2
+|container-class= pending
+|secondary-class=
+|secondary-icon=
+|disruption-class= dark
+|risk-class= notice
+]]
+ 
+-----
+
+**特殊收容措施：** 現時仍在調查SCP-031-VN。所有有關異常的資訊需向Site-75-VN的超常資訊部門通報。
+
+**描述：** SCP-031-VN是指Site-75-VN內部文件所提及的「非現實」與「非現實部」，儘管Site-75-VN和整個基金會並沒有此部門，或覆蓋此研究範疇。
+
+在首次發現至此檔案寫成期間，SCP-031-VN個案激增，估計已影響Site-75-VN約3.4%的文件。
+
+**附錄-1：** 發現
+
+SCP-031-VN在2024年2月31日由超常資訊部的[[span class="ruby"]]阮垂莊[[span class="rt"]]Nguyễn Thuỳ Trang[[/span]][[/span]]主任和[[span class="ruby"]]潘文孟[[span class="rt"]]Phan Văn Mạnh[[/span]][[/span]]副主任在檢閱報告時發現。
+
+
+[[div class="blockquote"]]
+= **[開始記錄]**
+
+= <//已刪減無關資訊。//>
+
+**莊主任[[footnote]]譯註：越南人多以個人名（越：[[span class="ruby"]]Tên chính[[span class="rt"]]𠸛正[[/span]][[/span]]）稱呼彼此[[/footnote]]：** 接着是這份報告……等等，甚麼是非現實？
+
+**孟副主任：** 嗯？在說甚麼？
+
+**莊主任：**  看看這個，<//莊主任將文件遞給孟副主任//>「非……現實部」。我們沒有叫這個的部門，對吧?
+
+**孟副主任：** 也許是國外的部門？
+
+**莊主任：**  這些是Site-75-VN的內部報告。即使出現了甚麼混淆，沒人會向我們提交一張白紙。
+
+= <//莊主任在SciP.net資料庫搜尋有關非現實的資訊，無結果。//>
+
+**莊主任：** 連SciP.net也沒有結果。我曾經看過研究部門的列表，也沒見過這個部門。
+
+**孟副主任：** 非現實……非現實……聽起來像是在捱餓？
+
+**莊主任：** 你的意思是？
+
+**孟副主任：** [[span class="ruby"]]非現實[[span class="rt"]]Vô thực（無實）[[/span]][[/span]]聽起來就像[[span class="ruby"]]沒有食物[[span class="rt"]]Vô thực（無食）[[/span]][[/span]]。這可能是場惡作劇。
+
+**莊主任：** 也許是那個[https://scp-vn.wikidot.com/scp-088-vn 錯字]作祟。不，也不對。
+
+= <//莊主任的電腦顯示新通知。//>
+
+**莊主任：** 孟，看看，現在突然出現兩個新搜尋結果！就在……呃，[http://scp-vn.wikidot.com/secure-facility-dossier-site-75-vn 我們站點檔案裏]？
+
+**孟副主任：** 而且是隸屬我們部門的支部門！//<閱讀電腦上的文字>//「……有關研究領域，包括：逆模因、誤傳、人工智慧應用、超現實、以及非現實。」
+
+**莊主任：** 我們有辦法跟所有部門聯絡……除了這個以外。最後的編輯記錄是兩個月前，而且是由我編輯，然而這些記錄在幾分鐘前出現。
+
+**孟副主任：** 我不知道誒老闆。這肯定是異常。
+
+**莊主任：** 至少是值得上報的超常事件。第二條結果是……「非現實部的現實聯絡員Alex Thorley將被調至Site-75-VN……」這是一個月前的信息。你能幫我看站點裏有叫Thorley的人嗎？」
+
+= <//孟副主任用電腦查看。//>
+
+**孟副主任：** 完全沒有。
+
+**莊主任：** 那這絕對是異常。
+ 
+= **[記錄結束]**
+[[/div]]
+
+> 檔案已被更新，按[/scp-031-vn/offset/1 此]查閱下一迭代。

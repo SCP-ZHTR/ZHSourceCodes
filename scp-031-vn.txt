@@ -1,0 +1,29 @@
+[[include info:start]]
+SCP-031-VN - 細聽非現實的低語
+
+**作者：** [[*user Welpermander]]
+**原文：** [http://scp-vn.wikidot.com/scp-031-vn SCP-031-VN - Hãy Lắng Nghe Tiếng Thì Thầm Của Những Kẻ Không Có Thật]
+
+**EN翻譯：** [[*user Welpermander]]
+**EN譯文：** [https://scp-wiki.wikidot.com/scp-031-vn SCP-031-VN - Listen To The Whispers Of The Unreals]
+
+**二次翻譯：**[[*user Kikunai]]
+
+----
+++++ 去看[[[http://scp-vn.wikidot.com/welpermander-s-profile|油人]]]的作者頁
+[[include info:end]]
+
+
+[[module ListPages  category="fragment" parent="." limit="1" order="created_at" offset="@URL|0"]]
+%%content%%
+[[/module]]
+
+[!-- https://scp-zh-tr.wikidot.com/fragment:scp-031-vn-0 --]
+[!-- https://scp-zh-tr.wikidot.com/fragment:scp-031-vn-1 --]
+[!-- https://scp-zh-tr.wikidot.com/fragment:scp-031-vn-2 --]
+
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[SCP-030-VN]]] | SCP-031-VN | [[[SCP-032-VN]]] >>
+[[/div]]
+[[/=]]
