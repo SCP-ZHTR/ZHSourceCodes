@@ -228,7 +228,7 @@ background: #454545;
 
 **莊：** 我只是想知道非現實是甚麼……
 
-= //[ ［[http://scp-vn.wikidot.com/phong-ban-chet-doi 安博士]走向莊。請為我幫幫這位女士。］//
+= //［[http://scp-vn.wikidot.com/phong-ban-chet-doi 安博士]走向莊。請為我幫幫這位女士。］//
 
 **安博士：** 你真的想知道？
 
