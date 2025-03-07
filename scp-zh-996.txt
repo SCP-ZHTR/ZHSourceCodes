@@ -171,7 +171,7 @@ SCP-ZH-996-2長42.9公分、寬0.6公分，出土時大致完整，右側有契�
 
 [[div class="limit"]]
 [[div class="anchor"]]
-[[div class="sidebox"]]
+[[div class="sidecontainer"]]
 [[div class="tableb"]]
 ||~ [[span style="font-family: Monospace;"]]**ASSOCIATED AUDIO RECORD SNIPPET SYSTEM POWERED BY MARS.AIC**[[/span]] ||
 || **寒清嚳：** 定位的座標在中國？……安徽？ _
@@ -204,7 +204,7 @@ SCP-ZH-996-2長42.9公分、寬0.6公分，出土時大致完整，右側有契�
 
 [[div class="limit"]]
 [[div class="anchor"]]
-[[div class="sidebox"]]
+[[div class="sidecontainer"]]
 [[div class="tableb"]]
 ||~ [[span style="font-family: Monospace;"]]**ASSOCIATED AUDIO RECORD SNIPPET SYSTEM POWERED BY MARS.AIC**[[/span]] ||
 || **蘇敬言：** 不是啊，這一切都應該是本能才對呀？為甚麼本能的善會死在那裡？ _
@@ -242,7 +242,7 @@ SCP-2140是一幀由基金會以Kallinikos計劃生成的圖像。每一名觀�
 
 [[div class="limit"]]
 [[div class="anchor"]]
-[[div class="sidebox"]]
+[[div class="sidecontainer"]]
 [[div class="tableb"]]
 ||~ [[span style="font-family: Monospace;"]]**ASSOCIATED AUDIO RECORD SNIPPET SYSTEM POWERED BY MARS.AIC**[[/span]] ||
 || **劉善俠：** 昆伯，這些年來我看著閣下一直在默默打理著這裡，努力阻止著害蟲的入侵，只不過如今閣下在作的事可是與這些害蟲同類啊！ _
@@ -292,7 +292,7 @@ __Protocol "Inner Sage"__
 
 [[div class="limit"]]
 [[div class="anchor"]]
-[[div class="sidebox"]]
+[[div class="sidecontainer"]]
 [[div class="tableb"]]
 ||~ [[span style="font-family: Monospace;"]]**ASSOCIATED AUDIO RECORD SNIPPET SYSTEM POWERED BY MARS.AIC**[[/span]] ||
 || **朴知恩：** 我真不敢想像。我是深知文字的確有無窮的力量沒錯，我不敢想像的是事情會變成這樣，正是因為文字的力量。我必須強調，現在安大簡所有的釋讀都還不算是絕對正確的，就算是殆瓦帝國的擅自「解讀」也不例外。 _
@@ -313,7 +313,7 @@ RAISA-ZH將火勢遏阻部擅自使用SCP-ZH-996異常特性的資料通傳戰�
 
 [[div class="limit"]]
 [[div class="anchor"]]
-[[div class="sidebox"]]
+[[div class="sidecontainer"]]
 [[div class="tableb"]]
 ||~ [[span style="font-family: Monospace;"]]**ASSOCIATED AUDIO RECORD SNIPPET SYSTEM POWERED BY MARS.AIC**[[/span]] ||
 || **真紀真：** 又是命運依舊繼續前進的一天。在此之下，我們仍有真誠惻怛的良知可以依憑。 _
