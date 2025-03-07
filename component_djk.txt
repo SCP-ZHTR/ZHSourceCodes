@@ -220,6 +220,16 @@ top:-0.5rem;
     top:1.5rem;
 }
 }
+
+div.meta-title::after, div.meta-title::before {
+    height: 0.1rem;
+    background: rgb(var(--swatch-primary));
+}
+
+:is(#page-title,.meta-title):after{
+    height: 0.1rem;
+    background: rgb(var(--swatch-primary));
+}
 [[/code]]
 [[/iftags]]
 

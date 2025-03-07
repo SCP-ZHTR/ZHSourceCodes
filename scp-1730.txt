@@ -2759,19 +2759,3 @@ P.S. 我很驚訝不過幾年的時間能造成這麼多改變，你說是吧？
 
 
 [[include :scp-zh-tr:component:djk]]
-
-[[module css]]
-:is(#page-title,.meta-title):after {
-    content: "";
-    background: rgb(var(--swatch-primary));
-    -webkit-box-flex: 1;
-    -webkit-flex-grow: 1;
-    flex-grow: 1;
-    height: 0.1rem;
-    margin: auto auto auto 1.25rem;
-}
-#page-title::after, .meta-title::after, #page-title::before, .meta-title::before {
-    height: 0.1rem;
-    background: rgb(var(--swatch-primary));
-}
-[[/module]]
