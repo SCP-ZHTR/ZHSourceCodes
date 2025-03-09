@@ -1640,7 +1640,7 @@ document.getElementById('output').value= text
 [[/div]]
 
 [[div class="letternoted"]]
-++ 大術士
+++ 術士
 ++ //^^[[size 50%]]Karcist[[/size]]^^//
 [[div class="pilesaran"]]
 [[div class="verticalrotate"]]
@@ -1832,7 +1832,7 @@ document.getElementById('output').value= text
 
 [[/div]]
 
-十二進制記數法比較難上手，但是概念易明。0至9的數字就跟阿拉伯數字一樣。之後就不是進位到兩位數「10」，而是還有兩個單位數對應到「10」和「11」，分別是：「[[span class="pilesaranText"]].([[/span]]」和「[[span class="pilesaranText"]].)[[/span]]」。兩位數是要到了十二之後才會開始。迢也意味著，要像用阿拉伯數字去寫，寫成「[[span class="pilesaranText"]].10[[/span]]」，分別代表1和0，指的其實是12。
+十二進制記數法比較難上手，但是概念易明。0至9的數字就跟阿拉伯數字一樣。之後就不是進位到兩位數「10」，而是還有兩個單位數對應到「10」和「11」，分別是：「[[span class="pilesaranText"]].([[/span]]」和「[[span class="pilesaranText"]].)[[/span]]」。兩位數是要到了十二之後才會開始。這也意味著，要像用阿拉伯數字去寫，寫成「[[span class="pilesaranText"]].10[[/span]]」，分別代表1和0，指的其實是12。
 
 我以前見過一個輔路她宣稱這種記數法來自你一隻手的手指上有多少節骨頭，可以用拇指來去逐個指出來。他解釋說首徒那多克斯在被殆瓦人砍掉了一隻手之後就學會這樣數數字。另外一個聽到對話的輔路她就過來指正他，__他那邊__的解釋就是說那多克斯沒有被殆瓦人砍斷手，而是__天生__就兩隻手各有六根手指。此外也還有其他的解釋，但是大多數人都在某一方面將發明記數法歸功於那多克斯的手的構造。
 
