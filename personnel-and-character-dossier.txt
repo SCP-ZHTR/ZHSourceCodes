@@ -536,8 +536,6 @@ IV級現實扭曲者。平常十分和善與乖順，但願意為保護在乎的
 
 **Agent Basil Sias（巴西爾．西雅思特工）：** [[[scp-5828| 異常大使部門]]]的雇員，負責建立基金會成員和[[[scp-6033| 異常現象參與者]]]之間的溝通橋樑。他魅力十足且富有同理心的性格，讓西雅思特工成為負責[[[scp-7999| 高風險外交行動]]]的不二人選。在[[[scp-6621| 父親泰姆・西雅思特工過世]]]及受僱於基金會前，西雅思特工曾是一名音樂家與藝術家。
 
-Agent Basil Sias: An employee of the Department of Anomalous Ambassadors, responsible for facilitating communication between Foundation personnel and individuals involved in anomalous phenomena. Known for his charisma and empathy, Agent Sias is ideally suited to the demands of high-stakes dilomacy. Formerly a musician and artist, Sias was recruited by the Foundation following the passing of his father, Agent Tyme Sias.
-
 ----
 
 
@@ -656,6 +654,8 @@ Agent Basil Sias: An employee of the Department of Anomalous Ambassadors, respon
 
 潛藏在「能幹精練站點主任」外表下的莫伊拉是位溫柔的大姐頭。她非常重視士氣，也非常樂意在度過難關後給她的職員一個大抱抱。
 
+[[/collapsible]]
+
 ----
 
 
@@ -683,9 +683,6 @@ Agent Basil Sias: An employee of the Department of Anomalous Ambassadors, respon
 
 
 **[/system:page-tags/tag/yossarian-leiner Director Yossarian Leiner]（約塞連．萊納主任）：** 從1985年就是[[[tactical-theology-hub| 戰術神學部]]]的成員，於2020年前主管穆罕穆德・塔基死後繼任成為新主管。作為亞伯拉罕宗教部的主管，萊納是[[[undervegas-hub| 陰間維加斯倡議]]]的重要推手，與此同時他也[[[partner-s-mission| 協助]]]了多次[[[scp-7291| 收容行動]]]。除此之外，萊納還幫助了[[[scp-5693| 阿基瓦輻射的研究進展]]]，及[[[scp-6442| 協助神性實體收容的裝置研發]]]。
-
-
-Director Yossarian Leiner: A member of the Department of Tactical Theology since his recruitment in 1985, Leiner was promoted to the position of Director in 2020, following the death of former Director Muhammad al-Taqi. In his previous position as the head of the Abrahamics Subdivision, Leiner played an important role in the Undervegas Initiative, as well as directly assisting in the containment of various other anomalies. He also made major contributions to the study of Akiva Radiation and the development of devices for the containment of divine beings. 
 
 ----
 
@@ -767,7 +764,7 @@ Delta-3解散後，威斯布魯克晉升為[[[secure-facility-dossier-site-246|S
 > 
 > 你知道你來這裡的目的。
 > 
-> 他們永遠不會給你完整的故事。片面的真相已經夠在大多數時候騙過大多數人。他們只會給你必要的資訊搪塞你，讓你別再追查下去那些人需要隱藏的事。
+> 他們永遠不會給你完整的故事。片面的真相已經夠在大多數時候，騙過大多數人。他們只會給你必要的資訊搪塞你，讓你別再追查下去那些人需要隱藏的事。
 > 
 > 如果你想得到比那些陳舊麵包屑更有價值的東西，繼續讀下去吧。
 > 
@@ -814,7 +811,7 @@ Delta-3解散後，威斯布魯克晉升為[[[secure-facility-dossier-site-246|S
 
 **Liaison Atlas Keyestone（阿特拉斯．科耶史東聯絡員）：** 認真盡責的基金會職員，擔任多個站點的倫理委員會聯絡員。許多家族成員皆[[[scp-8150| 受基金會雇用]]]。通常頗受歡迎，但有時會近乎僭越職權以調查[[[scp-7937| 自身有興趣的東西]]]。在心理假結束後，近期剛復職。
 
-[[collapsible show="我的故事尚未結束..." hide="我真希望它早已結尾..."]]
+[[collapsible show="我的故事尚未完結..." hide="我打從心底希望它早已結局。"]]
 在開朗的外表下，阿特拉斯是位創傷深重的人。[[[|i-am-weird 童年]]]被歧視與霸凌的他加入基金會時早已在心理問題中掙扎。每次他死去，阿特拉斯都會在他去基金會上班的第一天從自己床上醒來；他[[scp-8104| 活下，又死去]]]，重複了這輪迴已有十萬年之久。在一個破損的太陽奪去和他同樣經歷的愛人之後，他每分每秒都在找尋與他們團圓的方法。
 [[/collapsible]]
 ----
@@ -856,8 +853,7 @@ Delta-3解散後，威斯布魯克晉升為[[[secure-facility-dossier-site-246|S
 [[collapsible show="ACCesDend" hide="dsdffdsfvd"]]
 在小鮑伊的帶領下，鮑伊議會把基金會的超軍備力量重點轉守為攻。鮑伊議會促成了「亞伯計畫」及機動特遣隊[[[task-forces#omega-7| Omega-7]]]「潘朵拉之盒」的誕生。在其成功的對抗多個有敵意的關注組織後，該計畫得到了正面的評價。該計畫所造成的過多損失主要是鮑伊的個人責任；他允許了[[[SCP-076| SCP-076-2]]]擔任特遣隊隊長並給予判定哪些項目能參與的決定權，還在076-2殺死多名研究員後仍然下令讓其繼續主導特遣隊。最後076-2破壞拘束器，屠殺了他大部分的隊員，並造成收容區-25嚴重損壞後，鮑伊被要求負起主要責任。機動特遣隊Omega-7被解散，鮑伊議會亦同。在此事件和[[[SCP-935]]]事故後，許多基金會超軍備武裝力量遭到非難或是選擇叛變。鮑伊議會的支持者們則倒戈到了[[[chaos-insurgency-hub|渾沌反叛軍]]]或是[[[goc-hub-page|全球超自然聯盟]]]。
 
-鮑伊曾被推測已經死亡，但[[[resurrection-old-foes-hub| 近期證據]]]顯示他仍然還活著，並仍打算跟基金會繼續糾纏。
-
+鮑伊曾被推測已經死亡，但[[[resurrection-old-foes-hub| 近期證據]]]顯示他仍然還活著，並仍打算跟基金會繼續糾纏
 [[/collapsible]]
 
 ----

@@ -1,0 +1,15 @@
+[[include component:scp-meta-title-hiding css-style=classic]]
+[[include info:start]]
+**SCP-8797 - Alex Thorley文集**
+
+**作者：**[[*user Tufto]]
+**原文：**[https://scp-wiki.wikidot.com/scp-8797 SCP-8797 - The Collected Works of Alex Thorley]
+**譯者：**[[*user Kikunai]] 
+[[include info:end]]
+
+[[module ListPages  category="fragment" parent="." limit="1" order="created_at" offset="@URL|0"]]
+%%content%%
+[[/module]]
+
+[!-- https://scp-zh-tr.wikidot.com/fragment:scp-8797-0 --]
+[!-- https://scp-zh-tr.wikidot.com/fragment:scp-8797-1 --]
