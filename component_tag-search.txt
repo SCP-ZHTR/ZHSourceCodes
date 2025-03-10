@@ -2533,6 +2533,11 @@ description = "標註在ZH世界線中心轉世計劃相關的頁面上。"
 name= "物理少年"
 description = "標註在ZH世界線中心轉世計劃相關的頁面上。"
 
+[[tags]]
+name= "燦藍天穹"
+description = "標註在ZH世界線中心燦藍天穹相關的頁面上。"
+
+
 # ZH地點標籤
 
 [[tags]]
@@ -2546,6 +2551,10 @@ description = "標註在與繁中分部的Site-ZH-01相關的頁面上。"
 [[tags]]
 name= "site-zh-02"
 description = "標註在與繁中分部的Site-ZH-02相關的頁面上。"
+
+[[tags]]
+name= "site-zh-11"
+description = "標註在與繁中分部的Site-ZH-11相關的頁面上。"
 
 [[tags]]
 name= "site-zh-12"
@@ -2584,6 +2593,14 @@ name= "site-zh-50"
 description = "標註在與繁中分部的Site-ZH-50相關的頁面上。"
 
 [[tags]]
+name= "site-zh-59"
+description = "標註在與繁中分部的Site-ZH-59相關的頁面上。"
+
+[[tags]]
+name= "site-zh-72"
+description = "標註在與繁中分部的Site-ZH-72相關的頁面上。"
+
+[[tags]]
 name= "site-zh-81"
 description = "標註在與繁中分部的Site-ZH-81相關的頁面上。"
 
@@ -2595,27 +2612,31 @@ description = "標註在與繁中分部的Site-ZH-88相關的頁面上。"
 
 [[tags]]
 name= "chrome"
-description = "標註在與博士Dr. Chrome相關的頁面上。"
+description = "標註在與Chrome博士相關的頁面上。"
 
 [[tags]]
 name= "ad博士"
-description = "標註在與博士Dr. AD相關的頁面上。"
+description = "標註在與AD博士相關的頁面上。"
 
 [[tags]]
 name= "ain博士"
-description = "標註在與博士Dr. Ain相關的頁面上。"
+description = "標註在與Ain博士相關的頁面上。"
 
 [[tags]]
 name= "apoyn博士"
-description = "標註在與博士Dr. Apoyn相關的頁面上。"
+description = "標註在與Apoyn博士相關的頁面上。"
 
 [[tags]]
 name= "bales博士"
-description = "標註在與博士Bales相關的頁面上。"
+description = "標註在與Bales博士相關的頁面上。"
 
 [[tags]]
 name= "ctrl-z博士"
-description = "標註在與博士Ctrl-Z相關的頁面上。"
+description = "標註在與Ctrl-Z博士相關的頁面上。"
+
+[[tags]]
+name= "flavir博士"
+description = "標註在與Flavir博士相關的頁面上。"
 
 [[tags]]
 name= "hanku博士"
@@ -2623,39 +2644,51 @@ description = "標註在與HanKu博士相關的頁面上。"
 
 [[tags]]
 name= "kris博士"
-description = "標註在與博士Kris相關的頁面上。"
+description = "標註在與Kris博士相關的頁面上。"
 
 [[tags]]
-name= "Metha博士"
+name= "liesbeth博士"
+description = "標註在與Liesbeth博士相關的頁面上。"
+
+[[tags]]
+name= "metha博士"
 description = "標註在與Metha博士相關的頁面上。"
 
 [[tags]]
+name= "真紀博士"
+description = "標註在與真紀博士相關的頁面上。"
+
+[[tags]]
 name= "reverberate博士"
-description = "標註在與博士Reverberate相關的頁面上。"
+description = "標註在與Reverberate博士相關的頁面上。"
 
 [[tags]]
 name= "semibreve博士"
-description = "標註在與博士Dr. Semibreve相關的頁面上。"
+description = "標註在與Semibreve博士相關的頁面上。"
 
 [[tags]]
 name= "sugoi博士"
-description = "標註在與博士Dr. Sugoi相關的頁面上。"
+description = "標註在與Sugoi博士相關的頁面上。"
 
 [[tags]]
 name= "surge博士"
-description = "標註在與博士Shaman Surge相關的頁面上。"
+description = "標註在與Shaman Surge博士相關的頁面上。"
+
+[[tags]]
+name= "surge博士"
+description = "標註在與Tostren博士相關的頁面上。"
 
 [[tags]]
 name= "x博士"
-description = "標註在與博士Dr. X相關的頁面上。"
+description = "標註在與X博士相關的頁面上。"
 
 [[tags]]
 name= "葉凡博士"
-description = "標註在與博士Dr. 葉凡相關的頁面上。"
+description = "標註在與葉凡博士相關的頁面上。"
 
 [[tags]]
 name= "吳昕博士"
-description = "標註在與博士吳昕相關的頁面上。"
+description = "標註在與吳昕博士相關的頁面上。"
 
 [[tags]]
 name= "研究員l.what"
@@ -2666,20 +2699,36 @@ name= "研究員k"
 description = "標註在與基金會員工研究員K相關的頁面上。"
 
 [[tags]]
+name= "研究員Knave"
+description = "標註在與研究員Knave相關的頁面上。"
+
+[[tags]]
 name= "研究員lucifelle"
 description = "標註在與基金會員工研究員Lucifelle相關的頁面上。"
 
 [[tags]]
 name= "willow特工"
-description = "標註在與特工Willow相關的頁面上。"
+description = "標註在與Willow特工相關的頁面上。"
+
+[[tags]]
+name= "：王尚毅特工"
+description = "標註在與：王尚毅特工w相關的頁面上。"
 
 [[tags]]
 name= "koschei.aic"
 description = "標註在與人工智能專員Koschei.aic相關的頁面上。"
 
 [[tags]]
+name= "山本五十嵐"
+description = "標註在與研究員山本五十嵐相關的頁面上。"
+
+[[tags]]
 name= "張道士"
 description = "標註在與基金會員工張道士相關的頁面上。"
+
+[[tags]]
+name= "cidal-dongi"
+description = "標註在與SCP-ZH-922（又稱為 Cidal Dongi）相關的頁面上。"
 
 [[tags]]
 name= "maddy"
@@ -2699,17 +2748,30 @@ description = "標註在與轉世計劃世界線角色佩森尼爾相關的頁�
 
 [[tags]]
 name= "天紀-17"
-description = "標註在與MTF 天紀-17 (〝金融封鎖〞)相關的頁面上。"
+description = "標註在與MTF 天紀-17 (〝金融封鎖」)相關的頁面上。"
 
 [[tags]]
 name= "長垣-4"
-description = "標註在與JTF 長垣-4 (〝冷卻系統〞)相關的頁面上。"
+description = "標註在與JTF 長垣-4 (「冷卻系統」)相關的頁面上。"
 
 [[tags]]
 name= "少微-12"
-description = "標註在與MTF 少微-12 (〝三段論證〞)相關的頁面上。"
+description = "標註在與MTF 少微-12 (「三段論證」)相關的頁面上。"
+
+[[tags]]
+name= "天槍-9"
+description = "標註在與DTF 天槍-9 (「長空之狐」)相關的頁面上。"
+
+[[tags]]
+name= "車肆-8"
+description = "標註在與MTF 車肆-8  (「血拼人潮」)相關的頁面上。"
+
 
 # ZH其他標籤
+
+[[tags]]
+name= "酣夜櫻華"
+description = "標註在與酣夜櫻華系列相關的頁面上。"
 
 [[tags]]
 name= "2019暑期比賽"

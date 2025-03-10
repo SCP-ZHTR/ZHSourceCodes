@@ -148,13 +148,13 @@
 [[tab ZH角色標籤]]
 +++* ZH角色標籤
 
-* **[*/system:page-tags/tag/ad博士 ad博士]** - 標註在與博士[[[*personnel-and-character-dossier-zh#AdamDavis|Dr. AD]]]相關的[[[*adiscooooool|頁面]]]上。
+* **[*/system:page-tags/tag/ad博士 ad博士]** - 標註在與[[[*personnel-and-character-dossier-zh#AdamDavis|Dr. AD]]]相關的[[[*adiscooooool|頁面]]]上。
 
-* **[*/system:page-tags/tag/ain博士 ain博士]** - 標註在與博士[[[*personnel-and-character-dossier-zh#Ain|Dr. Ain]]]相關的[[[*aindavis-817|頁面]]]上。
+* **[*/system:page-tags/tag/ain博士 ain博士]** - 標註在與[[[*personnel-and-character-dossier-zh#Ain|Dr. Ain]]]相關的[[[*aindavis-817|頁面]]]上。
 
-* **[*/system:page-tags/tag/apoyn博士 apoyn博士]** - 標註在與博士[[[*personnel-and-character-dossier-zh#Apoyn|Dr. Apoyn]]]相關的[[[*viken-k|頁面]]]上。
+* **[*/system:page-tags/tag/apoyn博士 apoyn博士]** - 標註在與[[[*personnel-and-character-dossier-zh#Apoyn|Dr. Apoyn]]]相關的[[[*viken-k|頁面]]]上。
 
-* **[*/system:page-tags/tag/chrome chrome]** - 標註在與博士[[[*personnel-and-character-dossier-zh#Chrome|Dr. Chrome]]]相關的[[[*chromeblushowo|頁面]]]上。
+* **[*/system:page-tags/tag/chrome chrome]** - 標註在與[[[*personnel-and-character-dossier-zh#Chrome|Dr. Chrome]]]相關的[[[*chromeblushowo|頁面]]]上。
 
 * **[*/system:page-tags/tag/ctrl-Z博士 ctrl-Z博士]** - 標註在與博士[[[*personnel-and-character-dossier-zh#CtrlZ|Ctrl-Z]]]相關的[[[*bangyen|頁面]]]上。
 
@@ -170,9 +170,9 @@
 
 * **[*/system:page-tags/tag/reverberate博士 reverberate博士]** - 標註在與博士[[[*personnel-and-character-dossier-zh#Reverberate|Reverberate]]]相關的[[[*reverberation|頁面]]]上。
 
-* **[*/system:page-tags/tag/semibreve博士 semibreve博士]** - 標註在與博士[[[*personnel-and-character-dossier-zh#Semibreve|Dr. Semibreve]]]相關的[[[*final-semibreve|頁面]]]上。
+* **[*/system:page-tags/tag/semibreve博士 semibreve博士]** - 標註在與[[[*personnel-and-character-dossier-zh#Semibreve|Dr. Semibreve]]]相關的[[[*final-semibreve|頁面]]]上。
 
-* **[*/system:page-tags/tag/sugoi博士 sugoi博士]** - 標註在與博士[[[*personnel-and-character-dossier-zh#Sugoi|Dr. Sugoi]]]相關的[[[*dr-sugoi-is-bishojo|頁面]]]上。
+* **[*/system:page-tags/tag/sugoi博士 sugoi博士]** - 標註在與[[[*personnel-and-character-dossier-zh#Sugoi|Dr. Sugoi]]]相關的[[[*dr-sugoi-is-bishojo|頁面]]]上。
 
 * **[*/system:page-tags/tag/surge博士 surge博士]** - 標註在與博士[[[*personnel-and-character-dossier-zh#Surge|Shaman Surge]]]相關的[[[*surge|頁面]]]上。
 
@@ -180,9 +180,9 @@
 
 * **[*/system:page-tags/tag/valentine博士 valentine博士]** - 標註在與博士[[[*personnel-and-character-dossier-zh#dr-valentine|Valentine]]]相關的[[[*valentine-00|頁面]]]上。
 
-* **[*/system:page-tags/tag/x博士 x博士]** - 標註在與博士[[[*personnel-and-character-dossier-zh#X|Dr. X]]]相關的頁面上。
+* **[*/system:page-tags/tag/x博士 x博士]** - 標註在與[[[*personnel-and-character-dossier-zh#X|Dr. X]]]相關的頁面上。
 
-* **[*/system:page-tags/tag/葉凡博士 葉凡博士]** - 標註在與博士[[[*personnel-and-character-dossier-zh#YehFan|Dr. 葉凡]]]相關的[[[*fan|頁面]]]上。
+* **[*/system:page-tags/tag/葉凡博士 葉凡博士]** - 標註在與[[[*personnel-and-character-dossier-zh#YehFan|Dr. 葉凡]]]相關的[[[*Phyllon|頁面]]]上。
 
 * **[*/system:page-tags/tag/吳昕博士 吳昕博士]** - 標註在與博士[[[*personnel-and-character-dossier-zh#WuShin|吳昕]]]相關的頁面上。
 
@@ -196,13 +196,13 @@
 
 * **[*/system:page-tags/tag/研究員lucifelle 研究員lucifelle]** - 標註在與基金會員工[[[*personnel-and-character-dossier-zh#Lucifelle|研究員Lucifelle]]]相關的[[[*lucifelle|頁面]]]上。
 
-* **[*/system:page-tags/tag/willow特工 willow特工]** - 標註在與特工[[[*personnel-and-character-dossier-zh#willow|Willow]]]相關的[[[*sigtina|頁面]]]上。
+* **[*/system:page-tags/tag/willow特工 willow特工]** - 標註在與特工[[[*personnel-and-character-dossier-zh#willow|Willow]]]相關的[[[*zh-sigtina|頁面]]]上。
 
 * **[*/system:page-tags/tag/王尚毅特工 王尚毅特工]** - 標註在與特工王尚毅相關的頁面上。
 
 * **[*/system:page-tags/tag/koschei.aic koschei.aic]** - 標註在與人工智能專員[[[*personnel-and-character-dossier-zh#Koschei.aic|Koschei.aic]]]相關的頁面上。
 
-* **[*/system:page-tags/tag/山本五十嵐 山本五十嵐]** - 標註在與博士[[[*personnel-and-character-dossier-zh#Igarashi|山本五十嵐]]]相關的[[[*Igarashi|頁面]]]頁面上。
+* **[*/system:page-tags/tag/山本五十嵐 山本五十嵐]** - 標註在與研究員[[[*personnel-and-character-dossier-zh#Igarashi|山本五十嵐]]]相關的頁面上。
 
 * **[*/system:page-tags/tag/張道士 張道士]** - 標註在與基金會員工[[[*personnel-and-character-dossier-zh#Daoshi Cheung|張道士]]]相關的[[[*minmasterqw|頁面]]]上。
 
@@ -218,15 +218,15 @@
 
 -----
 +++* ZH機動特遣隊標籤
-* **[*/system:page-tags/tag/天紀-17 天紀-17] ("金融封鎖")** - 標註在與MTF 天紀-17 相關的[[[http://scp-zh-tr.wikidot.com/task-forces-zh|頁面]]]上。
+* **[*/system:page-tags/tag/天紀-17 天紀-17] (「金融封鎖」)** - 標註在與MTF 天紀-17 相關的[[[http://scp-zh-tr.wikidot.com/task-forces-zh|頁面]]]上。
 
-* **[*/system:page-tags/tag/長垣-4 長垣-4] ("冷卻系統")** - 標註在與JTF 長垣-4 相關的[[[http://scp-zh-tr.wikidot.com/task-forces-zh|頁面]]]上。
+* **[*/system:page-tags/tag/長垣-4 長垣-4] (「冷卻系統」)** - 標註在與JTF 長垣-4 相關的[[[http://scp-zh-tr.wikidot.com/task-forces-zh|頁面]]]上。
 
-* **[*/system:page-tags/tag/少微-12 少微-12] ("三段論證")** - 標註在與MTF 少微-12 相關的[[[http://scp-zh-tr.wikidot.com/task-forces-zh|頁面]]]上。
+* **[*/system:page-tags/tag/少微-12 少微-12] (「三段論證」)** - 標註在與MTF 少微-12 相關的[[[http://scp-zh-tr.wikidot.com/task-forces-zh|頁面]]]上。
 
-* **[*/system:page-tags/tag/天槍-9 天槍-9] ("長空之狐")** - 標註在與DTF 天槍-9 相關的[[[http://scp-zh-tr.wikidot.com/task-forces-zh|頁面]]]上。
+* **[*/system:page-tags/tag/天槍-9 天槍-9] (「長空之狐」)** - 標註在與DTF 天槍-9 相關的[[[http://scp-zh-tr.wikidot.com/task-forces-zh|頁面]]]上。
 
-* **[*/system:page-tags/tag/車肆-8 車肆-8] ("血拼人潮")** - 標註在與MTF 車肆-8 相關的[[[http://scp-zh-tr.wikidot.com/task-forces-zh|頁面]]]上。
+* **[*/system:page-tags/tag/車肆-8 車肆-8] (「血拼人潮」)** - 標註在與MTF 車肆-8 相關的[[[http://scp-zh-tr.wikidot.com/task-forces-zh|頁面]]]上。
 
 [[/tab]]
 [[tab ZH其他標籤]]
