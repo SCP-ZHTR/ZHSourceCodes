@@ -73,6 +73,9 @@ Tumblr在[https://www.tumblr.com/kikunai 這邊]，有比推特更多的雜談�
 ++++++ [[[scp-zh-739|]]]
 > 掃走地氈下的髒東西。
 ----
+++++++ [/scp-8797-analysis SCP-8797解析]
+> 太長沒看：--toxic nonbinary yaoi selfcest-- 不要把你的注意力放在自大狂身上。
+
 ++++++ [/how-to-use-image-hosting-services Kikunai手把手教你使用外部圖床]
 > 給上傳藝作新手的心得。
 [[/=]]

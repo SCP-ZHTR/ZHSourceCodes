@@ -6,7 +6,7 @@
 [[include info:end]]
 
 
-你好，這是[[*user kikunai]] 菊內，今天為大家帶來[*/scp-8797 SCP-8797 - Alex Thorley文集]的解析。
+你好，這是[[*user kikunai]] 菊內，今天為大家帶來[*/scp-8797 SCP-8797 - Alex Thorley文集]（作者：[[*user tufto]]）的解析。
 
 //嗯？不是用戶解密嗎？// 我覺得一到了超現實的作品，不能像[https://scp-zh-tr.wikidot.com/domc-hub 謎語文]一樣咬文嚼字，拆解一個實在的謎底，更需要退一步，觀察作者利用這些看似無關的元素組成甚麼樣子的效果、結論。
 
