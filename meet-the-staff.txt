@@ -32,15 +32,15 @@
 
 * **[[*user EmptyName723]]︰空名**
 
-* **[[*user  ZH_mercury]]︰水銀**
+* **[[*user  ZH_mercury]]︰水銀**(非活躍)
 
 * **[[*user NocturnalT]]︰夜行**(非活躍)
 
-* **[[*user kingdom war]]︰翼飛**
-
 * **[[*user Mang Gwan]]︰萌萌**
 
-* **[[*user Frederica Bernkastel ]]︰瑪奇**
+* **[[*user Frederica Bernkastel ]]︰真紀**
+
+* **[[*user kikunai]]：菊內**
 
 @@ @@
 [[>]]
@@ -67,8 +67,6 @@
 * **[[*user Pao Mian ]]︰泡麵**
 
 * **[[*user cnblack]] ：白雷**
-
-* **[[*user kikunai]]：菊內**
 
 [[>]]
 [#A ▲ 回到頂端  ]
@@ -182,6 +180,7 @@
 * **退休志工(貢獻者)[[*user Jochoi]]︰鑿鑿**
 * **退休志工(貢獻者)[[*user Shingowu]]︰Shingo**
 * **退休志工(貢獻者)[[*user alashi87111]]︰蒼蘭西亞**
+* **退休志工(貢獻者)[[*user kingdom war]]︰翼飛**
 [[>]]
 [#A ▲ 回到頂端  ]
 [[/>]]

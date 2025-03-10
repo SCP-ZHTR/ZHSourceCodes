@@ -117,7 +117,7 @@ line-height: 0.4;
 
 ----
 
-**[/system:page-tags/tag/doctor-dan Dr. Dan] ███████（丹・███████博士）：** 以顧全大局為原則的天才，但也情緒化得讓人難以容忍。前海軍陸戰隊成員。曾經任職一項極危險[[[scp-096 | SCP]]]的首席研究員：他雖然一開始就認為該項目的危險度已高到不應保留，但未能直接說服O5議會接受他的看法──因此[[[incident-096-1-a | Dan親手讓它突破收容]]]，導致數十人死亡。這讓他的處決提案得以實施，但丹也因此被定讞處決。
+**[/system:page-tags/tag/dan博士 Dr. Dan] ███████（丹・███████博士）：** 以顧全大局為原則的天才，但也情緒化得讓人難以容忍。前海軍陸戰隊成員。曾經任職一項極危險[[[scp-096 | SCP]]]的首席研究員：他雖然一開始就認為該項目的危險度已高到不應保留，但未能直接說服O5議會接受他的看法──因此[[[incident-096-1-a | Dan親手讓它突破收容]]]，導致數十人死亡。這讓他的處決提案得以實施，但丹也因此被定讞處決。
 
 [[collapsible show="你犯了一點小錯誤……" hide="……然後他們就給了你一整個部門。"]]
 
@@ -147,7 +147,7 @@ line-height: 0.4;
 
 ----
 
-**[/system:page-tags/tag/doctor-elstrom Dr.Karen Elstrom]（凱倫．埃斯特羅姆博士）：** Site-43行政與監督部部長，負責處理運行站點所需的後勤事務。[[[scp-5109| 挑剔的管理者]]]、[[[the-forms|完美的行政人員]]]，受尊敬但並[[[bitch-hub| 不受歡迎]]]。認真負責，但[[[the-huron-carol| 有些體弱]]][[[passing-sentence|多病]]]。
+**[/system:page-tags/tag/elstrom博士 Dr.Karen Elstrom]（凱倫．埃斯特羅姆博士）：** Site-43行政與監督部部長，負責處理運行站點所需的後勤事務。[[[scp-5109| 挑剔的管理者]]]、[[[the-forms|完美的行政人員]]]，受尊敬但並[[[bitch-hub| 不受歡迎]]]。認真負責，但[[[the-huron-carol| 有些體弱]]][[[passing-sentence|多病]]]。
 
 
 ----
@@ -257,7 +257,7 @@ line-height: 0.4;
 
 ----
 
-**[/system:page-tags/tag/doctor-light Dr. Sophia Light]（索菲雅・萊特博士）：** 具備生物學家與外科醫師專業的一名站長。有著太多的秘密。雖然討人喜歡，但也令人畏懼。直率、充滿決心、工於心計，在壓力下仍表現良好。致力於讓自己友善待人、情緒穩定和樂於傾聽。臉上有小傷疤。左手的舊傷有時會帶來不便。她小時候的照顧者為了訓練她的野外生存能力，時常遺棄她在非洲荒野中數天，導致她的童年有些創傷。她加入基金會的契機是一場造成十一人死亡的機密異常事件，其中死者也包含了她的未婚伴侶。與特洛伊・勒門之間存在（或曾存在）情侶關係。
+**[/system:page-tags/tag/light博士 Dr. Sophia Light]（索菲雅・萊特博士）：** 具備生物學家與外科醫師專業的一名站長。有著太多的秘密。雖然討人喜歡，但也令人畏懼。直率、充滿決心、工於心計，在壓力下仍表現良好。致力於讓自己友善待人、情緒穩定和樂於傾聽。臉上有小傷疤。左手的舊傷有時會帶來不便。她小時候的照顧者為了訓練她的野外生存能力，時常遺棄她在非洲荒野中數天，導致她的童年有些創傷。她加入基金會的契機是一場造成十一人死亡的機密異常事件，其中死者也包含了她的未婚伴侶。與特洛伊・勒門之間存在（或曾存在）情侶關係。
 
 [[collapsible show="他們想要再開一次會不是我的錯。" hide="......"]]
 
@@ -329,7 +329,7 @@ line-height: 0.4;
 
 ----
 
-**[/system:page-tags/tag/doctor-rivera Dr. Jessie Rivera]（傑西・里維拉博士）：** [[[from-120-s-archives-hub|Site-120]]]主任委員會成員。丹尼爾・阿席沃什博士的密友，與他一起負責[[[and-every-time-we-meet-again-hub| 達米安・諾瓦克案]]]，負責提供更基於現實的觀點。[[[secure-facility-dossier-site-120| Site-120的建立者]]][[[SCP-5292|漢娜・里維拉的孫女]]]。與站點主任委員會的另一名成員瑪格達琳・康威爾結為連理，小倆口在艾斯特伯格自由市過著婚後生活。
+**[/system:page-tags/tag/rivera博士 Dr. Jessie Rivera]（傑西・里維拉博士）：** [[[from-120-s-archives-hub|Site-120]]]主任委員會成員。丹尼爾・阿席沃什博士的密友，與他一起負責[[[and-every-time-we-meet-again-hub| 達米安・諾瓦克案]]]，負責提供更基於現實的觀點。[[[secure-facility-dossier-site-120| Site-120的建立者]]][[[SCP-5292|漢娜・里維拉的孫女]]]。與站點主任委員會的另一名成員瑪格達琳・康威爾結為連理，小倆口在艾斯特伯格自由市過著婚後生活。
 
 [[collapsible show="瑪格？" hide="瑪格？！"]]
 
@@ -559,7 +559,7 @@ IV級現實扭曲者。平常十分和善與乖順，但願意為保護在乎的
 
 ----
 
-**Mobile Task Force Tau-5 “Samsara”（機動特遣隊 Tau-5 「輪迴」）：** [[[prometheus-labs-hub| 普羅米修斯實驗室]]]從[[[the-lord-of-endowments| 一個神的死軀]]]血肉中[[[grant-request-for-investigating-the-potential-application-of| 創造]]]的[[[Avatara| 永生]]]仿生人。[[[scp-4755| Irantu]]], Munru, Onru和Nanku通常裝備著實驗性武器被派遣入[[[scp-1730| 高風險的情境]]]；比起[[[death-perception| 普通的日常]]]，[[[the-powers-that-bark| 如孩童般純真]]]的他們更習慣劍拔駑張的戰場。
+**[/system:page-tags/tag/tau-5輪迴 Mobile Task Force Tau-5 “Samsara”] （機動特遣隊 Tau-5 「輪迴」）：** [[[prometheus-labs-hub| 普羅米修斯實驗室]]]從[[[the-lord-of-endowments| 一個神的死軀]]]血肉中[[[grant-request-for-investigating-the-potential-application-of| 創造]]]的[[[Avatara| 永生]]]仿生人。[[[scp-4755| Irantu]]], Munru, Onru和Nanku通常裝備著實驗性武器被派遣入[[[scp-1730| 高風險的情境]]]；比起[[[death-perception| 普通的日常]]]，[[[the-powers-that-bark| 如孩童般純真]]]的他們更習慣劍拔駑張的戰場。
 
 [[/tab]]
 
@@ -677,12 +677,12 @@ IV級現實扭曲者。平常十分和善與乖順，但願意為保護在乎的
 
 ----
 
-**[http://scp-zh-tr.wikidot.com/system:page-tags/tag/director-lague Director Paul Lague]（保羅・拉格主任）：** Site-322主任與整合計畫負責人，該計畫旨在[[[SCP-5595|僱傭]]][[[scp-6984|可供差遣的]]]收容中異常。拉格試圖透過[[[scp-6597| 社交]]]等方式，和採用類似計畫的[[[the-signing-of-the-las-vegas-accords|其他站點]]]密切合作，不過他也會對其他基金會職員[[[scp-6121| 不贊成該計畫]]]感到失落。
+**[/system:page-tags/tag/lague主任 Director Paul Lague]（保羅・拉格主任）：** Site-322主任與整合計畫負責人，該計畫旨在[[[SCP-5595|僱傭]]][[[scp-6984|可供差遣的]]]收容中異常。拉格試圖透過[[[scp-6597| 社交]]]等方式，和採用類似計畫的[[[the-signing-of-the-las-vegas-accords|其他站點]]]密切合作，不過他也會對其他基金會職員[[[scp-6121| 不贊成該計畫]]]感到失落。
  
 ----
 
 
-**[/system:page-tags/tag/yossarian-leiner Director Yossarian Leiner]（約塞連．萊納主任）：** 從1985年就是[[[tactical-theology-hub| 戰術神學部]]]的成員，於2020年前主管穆罕穆德・塔基死後繼任成為新主管。作為亞伯拉罕宗教部的主管，萊納是[[[undervegas-hub| 陰間維加斯倡議]]]的重要推手，與此同時他也[[[partner-s-mission| 協助]]]了多次[[[scp-7291| 收容行動]]]。除此之外，萊納還幫助了[[[scp-5693| 阿基瓦輻射的研究進展]]]，及[[[scp-6442| 協助神性實體收容的裝置研發]]]。
+**[/system:page-tags/tag/Leiner主任 Director Yossarian Leiner]（約塞連．萊納主任）：** 從1985年就是[[[tactical-theology-hub| 戰術神學部]]]的成員，於2020年前主管穆罕穆德・塔基死後繼任成為新主管。作為亞伯拉罕宗教部的主管，萊納是[[[undervegas-hub| 陰間維加斯倡議]]]的重要推手，與此同時他也[[[partner-s-mission| 協助]]]了多次[[[scp-7291| 收容行動]]]。除此之外，萊納還幫助了[[[scp-5693| 阿基瓦輻射的研究進展]]]，及[[[scp-6442| 協助神性實體收容的裝置研發]]]。
 
 ----
 
@@ -694,7 +694,7 @@ IV級現實扭曲者。平常十分和善與乖順，但願意為保護在乎的
 
 ----
 
-**[/system:page-tags/tag/director-moose Dr. Tilda D. Moose]（提爾妲・D・慕什博士）：** [[[cat-s-in-the-cradle| 現為]]]Site-19站點主任兼Site-17聯合主任，她從一位又一位的前任主任手中接過這職務。嚴厲、焦慮、有輕微的強迫症，如果有事情能讓她興奮起來，她就會變得過度熱情。她在基金會不到十年的正式任期相對較短，但即便如此仍被認為有極大的影響力。無論是否真為如此，Site-19的部分官僚單位已經把她當成形象代言人了。
+**[/system:page-tags/tag/moose主任 Dr. Tilda D. Moose]（提爾妲・D・慕什博士）：** [[[cat-s-in-the-cradle| 現為]]]Site-19站點主任兼Site-17聯合主任，她從一位又一位的前任主任手中接過這職務。嚴厲、焦慮、有輕微的強迫症，如果有事情能讓她興奮起來，她就會變得過度熱情。她在基金會不到十年的正式任期相對較短，但即便如此仍被認為有極大的影響力。無論是否真為如此，Site-19的部分官僚單位已經把她當成形象代言人了。
 
 [[collapsible show="你不用擔心我。這次我不會再好高騖遠了。" hide="......"]]
 
@@ -718,7 +718,7 @@ IV級現實扭曲者。平常十分和善與乖順，但願意為保護在乎的
 
 ----
 
-**[/system:page-tags/tag/director-richter Director Leah Erin Richter]（莉亞・艾琳・理奇特主任）：** [[[scp-7682| Site-78]]]的[[[secure-facility-dossier-site-78| 主管]]]，主要負責收容Chugwater鎮的異常。嚴肅及神秘的她負責帶領基金會收容[[[revelations-of-the-author| 「九件」]]]，一組據說能合組成「前往天堂之門」的各式[[[scp-5938| 異常]]]物件。專業的偏激讓理奇特主任為了達成基金會的目標，願意不擇手段。即使經常與她的下屬葛瑞研究員共事，仍十分討厭他。
+**[/system:page-tags/tag/richter主任 Director Leah Erin Richter]（莉亞・艾琳・理奇特主任）：** [[[scp-7682| Site-78]]]的[[[secure-facility-dossier-site-78| 主管]]]，主要負責收容Chugwater鎮的異常。嚴肅及神秘的她負責帶領基金會收容[[[revelations-of-the-author| 「九件」]]]，一組據說能合組成「前往天堂之門」的各式[[[scp-5938| 異常]]]物件。專業的偏激讓理奇特主任為了達成基金會的目標，願意不擇手段。即使經常與她的下屬葛瑞研究員共事，仍十分討厭他。
 
 ----
 
@@ -816,7 +816,7 @@ Delta-3解散後，威斯布魯克晉升為[[[secure-facility-dossier-site-246|S
 [[/collapsible]]
 ----
 
-**[/system:page-tags/tag/primrose-esquire Primrose Promethea Fatish Von Trevil, esq]（貝琳洛絲・法蒂什・馮・特雷維爾閣下），亦稱為[[[whore-of-blood-hub| The Whore of Blood]]]（血淫婦）：** 貝琳洛絲最初被基金會歸定為[[[scp-6159|SCP-6159-1]]]，是來自地獄第七圈的大惡魔。貝琳洛絲是[[[scp-7603| 巴巴倫的女兒]]]兼暴力王座的真正繼承人。目前正作為[[[scp-6607|律師]]]受雇於SCP基金會。
+**[/system:page-tags/tag/primrose閣下 Primrose Promethea Fatish Von Trevil, esq]（貝琳洛絲・法蒂什・馮・特雷維爾閣下），亦稱為[[[whore-of-blood-hub| The Whore of Blood]]]（血淫婦）：** 貝琳洛絲最初被基金會歸定為[[[scp-6159|SCP-6159-1]]]，是來自地獄第七圈的大惡魔。貝琳洛絲是[[[scp-7603| 巴巴倫的女兒]]]兼暴力王座的真正繼承人。目前正作為[[[scp-6607|律師]]]受雇於SCP基金會。
 
 ----
 
@@ -824,7 +824,7 @@ Delta-3解散後，威斯布魯克晉升為[[[secure-facility-dossier-site-246|S
 
 ----
 
-**[/system:page-tags/tag/samara-maclear Specialist Samara Maclear]（靈能學專家薩馬拉・馬克切爾）：** 前[[[scp-3739| 基金會特工]]]，基金會為利用她的[[[scp-4519| 預知能力]]]以「[[[scp-4190| 靈能學專家]]](Psionics Specialist)」身份雇用她。其他部門在處理有[[[scp-7814| 靈能效果相關的物件]]]時常前來[[[o4-s-summit| 求助於她]]]。
+**[/system:page-tags/tag/Maclear專員 Specialist Samara Maclear]（靈能學專家薩馬拉・馬克切爾）：** 前[[[scp-3739| 基金會特工]]]，基金會為利用她的[[[scp-4519| 預知能力]]]，以「[[[scp-4190| 靈能學專員]]](Psionics Specialist)」的身份雇用她。其他部門在處理有[[[scp-7814| 靈能效果相關的物件]]]時，常前來[[[o4-s-summit| 求助於她]]]。
 
 ----
 
@@ -1585,14 +1585,14 @@ L.S.可能並無其人，而是蛇手成員識別友方人員的代號「[[span 
 
 ----
 
-**The [/system:page-tags/tag/hanged-king Hanged King]（受絞之王）：** 在多部[[[SCP-701|戲]]][[[scp-2732|劇]]]中提及的異常實體，相關劇目通常以表演者的全數死亡告終。似乎是[[[scp-2264|超維度之城]]][/system:page-tags/tag/alagadda 阿拉加達]的[[[a-wandsman-in-the-court-of-the-hanged-king| 統治者]]]，唯一的倖存者將其描述為一個[[[clown-town| 「神形的空孔」]]]。其通常受「阿拉加達的[[[scp-5075| 使節]]]」代表：該使節是一名[[[scp-6500| 多次襲擊]]]基因會人員的強大巫師。神話對受絞之王是[[[about-the-serpent| 自殺]]]還是被他的人民[[[and-so-the-crows-laughed| 絞死]]]描述前後矛盾；「受絞」也有可能只是其卡在非生非死狀態的形容。
+**The [/system:page-tags/tag/受絞之王 Hanged King]（受絞之王）：** 在多部[[[SCP-701|戲]]][[[scp-2732|劇]]]中提及的異常實體，相關劇目通常以表演者的全數死亡告終。似乎是[[[scp-2264|超維度之城]]][/system:page-tags/tag/alagadda 阿拉加達]的[[[a-wandsman-in-the-court-of-the-hanged-king| 統治者]]]，唯一的倖存者將其描述為一個[[[clown-town| 「神形的空孔」]]]。其通常受「阿拉加達的[[[scp-5075| 使節]]]」代表：該使節是一名[[[scp-6500| 多次襲擊]]]基因會人員的強大巫師。神話對受絞之王是[[[about-the-serpent| 自殺]]]還是被他的人民[[[and-so-the-crows-laughed| 絞死]]]描述前後矛盾；「受絞」也有可能只是其卡在非生非死狀態的形容。
 
 ----
 
 **JALAKÅRA of the Impenetrable（堅不可摧的賈拉喀拉）：** 賈拉喀拉是[[[three-moons-initiative-hub| 叁月協會]]]的[[[radical-acceptance| 守護神]]]，是[[[scp-2922| 柯爾本尼奇]]]原生的強大現實扭曲實體。賈拉喀拉被描繪為長著人臉與鬍鬚的[[[ill-be-home-for-christmas|巨大蜘蛛]]]。作為提供能源、資源、[[[wielka-altana|神聖庇護]]]的交換，☽☽☽協會將貢上[[[scp-5319| 崇拜]]]與[[[scp-3768| 效命]]]，並讓其擁有任何行政事務的[[[scp-3319| 最終話語權]]]。
 ----
 
-**[/system:page-tags/tag/queen-mab Queen Mab]（瑪布女王）：** 這個[[[ralliston-s-proposal|收容於Site-01的實體SCP-001-C]]]曾是[[[cos-tu-smierdzi|古妖精的統治者]]]，擁有史上最強大的奇蹟術與本質促動能力。她與[[[a-faerie-tale-of-twin-queens|親手殺害的的姊妹]]]以及[[[the-lands-nobody-returns-from|被稱為「Nobody」的實體]]]長年處於衝突狀態。
+**[/system:page-tags/tag/瑪布女王 Queen Mab]（瑪布女王）：** 這個[[[ralliston-s-proposal|收容於Site-01的實體SCP-001-C]]]曾是[[[cos-tu-smierdzi|古妖精的統治者]]]，擁有史上最強大的奇蹟術與本質促動能力。她與[[[a-faerie-tale-of-twin-queens|親手殺害的的姊妹]]]以及[[[the-lands-nobody-returns-from|被稱為「Nobody」的實體]]]長年處於衝突狀態。
 
 [[collapsible show="這世界要不屬於我..." hide="......要不就全然覆亡。"]]
 
@@ -1601,7 +1601,7 @@ L.S.可能並無其人，而是蛇手成員識別友方人員的代號「[[span 
 [[/collapsible]]
 ----
 
-**[[[seas-of-orcadia-hub| 歐刻堤亞諸神]]]：** [[[seas-of-orcadia-hub| 歐刻堤亞鰭裔]]]（Finnfolk, 學名//Homo Aquarius//）的神祇，共有十三位。這些神源自靈界，每位神祇皆有自身的特色、神格，與對其信徒來說之特定宗教意義。有些神祇[[[scp-3703| 蒙受監禁]]]，而有些則[[[scp-4700| 雲遊大地]]]。
+**[[[seas-of-orcadia-hub| 奧卡迪亞諸神]]]：** [[[seas-of-orcadia-hub| 奧卡迪亞鰭裔]]]（Finnfolk, 學名//Homo Aquarius//）的神祇，共有十三位。這些神源自靈界，每位神祇皆有自身的特色、神格，與對其信徒來說之特定宗教意義。有些神祇[[[scp-3703| 蒙受監禁]]]，而有些則[[[scp-4700| 雲遊大地]]]。
 
 該教派的信仰中心位於蘇格蘭奧克尼群島。在研究比較後，發現其信仰體系中包含其他宗教之神祇，如破碎之神、亞大孢斯、宙伍宇海星及猩紅之王等：目前研究重點於對比歐刻堤亞人與其他地區對各神衹描述異同之處。
 
