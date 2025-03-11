@@ -23,7 +23,7 @@
 
 * **[*/system:page-tags/tag/誤傳部 誤傳部] (miscommunications)** - 標註在與[[[domc-hub|誤傳部門]]]的相關頁面上。
 
-* **[*/system:page-tags/tag/別的部 別的部] (department-of-other)** -- 標註在與別的部相關的頁面上
+* **[*/system:page-tags/tag/別的部 別的部] (department-of-other)** -- 標註在與負責處理-J項目的別的部相關的頁面上。
 
 * **[*/system:page-tags/tag/超形上學部 超形上學部] (pataphysics-dept)** - 標註在與超形上學部相關的頁面上。
 
