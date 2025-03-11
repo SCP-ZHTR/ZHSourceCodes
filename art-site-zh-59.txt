@@ -21,5 +21,8 @@
 [[=image https://i.imgur.com/xioKKMz.png height="200px"]]
 白色的，黑色主題的好朋友
 @@https://i.imgur.com/xioKKMz.png@@
+[[=image https://i.imgur.com/gDJuEQg.png height="200px"]]
+...或是30%透明度?
+@@https://i.imgur.com/gDJuEQg.png@@
 [[/div]]
 [[/collapsible]]
