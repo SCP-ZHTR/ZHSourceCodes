@@ -147,7 +147,7 @@
 庫根開始祈禱。一股力量突然將門擠壓成碎片。房間也不存在了。
 
 [[=]]
-**<< | [[[matryoshka one| 第一章]]] | [[[俄羅斯套娃]]] | [[[matryoshka three| 第三章]]] | >>**
+**<< | [[[matryoshka one| 第一章]]] | [[[matryoshka| 俄羅斯套娃]]] | [[[matryoshka three| 第三章]]] | >>**
 [[/=]]
 
 [[include :scp-zh-tr:component:license-box
