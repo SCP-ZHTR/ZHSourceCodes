@@ -691,7 +691,7 @@ Unit是Site或Area内的獨立區塊，例如收容生物或維度異常的部�
 [[=]]
 
 + Site-ZH-59
-[[include custom:img img0=https://i.imgur.com/GVjIlgg.png | img1=https://i.imgur.com/7kSx9Y7.png | width=140px]]
+[[include custom:img img0=https://i.imgur.com/y6K6Idx.png | img1=https://i.imgur.com/xioKKMz.png | width=140px]]
 [[/=]]
 
 [[div style="float:left; width: 45%; padding: 0 2%"]]
