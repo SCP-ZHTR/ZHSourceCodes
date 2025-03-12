@@ -1,5 +1,7 @@
 [[div style="display: inline-block; border-radius: 10px; border:dashed 1px #444444; background:#F5F5F5; float:top; width:96.5%; padding:10px" class="grey-block"]]
+
 + 國際分部標籤
+
 [[tabview]]
 [[tab 各分部代號標籤]]
 +++* 國外翻譯標籤
@@ -58,6 +60,9 @@
 +++* 跨分部合作競賽標籤
 * **[*/system:page-tags/tag/int-goi2019 int-goi2019]** - 標記在國際站的[http://scp-int.wikidot.com/international-goi-contest-2019 2019goi競賽]作品上，由於此次競賽的作品是INT辦理參賽者將作品投稿於其分部和統一投稿英文翻譯至INT，故以INT為準。注意帶有此標籤的文章通常會另帶有其語源標籤。
 [[/tab]]
+
+
+
 [[tab 俄文分部]]
 ++* **[https://scpfoundation.net/ 俄文分部] - [/system:page-tags/tag/ru ru]**
 -------
@@ -72,6 +77,9 @@
 
 * **[*/system:page-tags/tag/進步研究院 進步研究院] (НИИ_Прогресс)** - 標註在所有與關注組織 進步研究院 (НИИ "Прогресс") 相關的項目及故事上。
 [[/tab]]
+
+
+
 [[tab 韓文分部]]
 ++* **[http://scp-kr.wikidot.com/ 韓文分部] - [/system:page-tags/tag/ko ko]**
 -------
@@ -100,6 +108,9 @@
 
 * **[*/system:page-tags/tag/ko-2016漫畫競賽 ko-2016漫畫競賽] (2016-카툰경연)** - 屬於韓文分部[http://scpko.wikidot.com/foundation-cartoon-contest-2016 2016漫畫競賽]或者與之相關。
 [[/tab]]
+
+
+
 [[tab 中文分部]]
 ++* **[http://scp-wiki-cn.wikidot.com/ 中文分部] - [/system:page-tags/tag/cn cn]**
 -------
@@ -115,6 +126,9 @@
 
 * **[*/system:page-tags/tag/聖克莉斯汀娜書院 聖克莉斯汀娜書院] (圣克里斯汀娜书院)** - 標註在中文分部關注組織「聖克莉斯汀娜書院」的相關頁面上。
 [[/tab]]
+
+
+
 [[tab 法文分部]]
 ++* **[http://fondationscp.wikidot.com/ 法文分部] - [/system:page-tags/tag/fr fr]**
 -------
@@ -138,6 +152,9 @@
 +++* [http://scp-pl.wikidot.com/canon-hub 波蘭文分部世界線]
 * **[*/system:page-tags/tag/地下療法 地下療法] (przyczajone-leczenie)** - 在波蘭文分部相關世界線[[[przyczajone-leczenie-hub|「地下療法（Przyczajone Leczenie）」]]]的相關頁面上。
 [[/tab]]
+
+
+
 [[tab 西班牙分部]]
 ++* **[http://lafundacionscp.wikidot.com/ 西班牙文分部] - [/system:page-tags/tag/es es]**
 ----
@@ -156,6 +173,9 @@
 
 * **[*/system:page-tags/tag/es-探索競賽2019 es-探索競賽2019] (exploracion2019)** - 屬於[http://lafundacionscp.wikidot.com/concurso-exploracion-2019 2019年探索競賽]或者與之相關。
 [[/tab]]
+
+
+
 [[tab 泰文分部]]
 ++* **[http://scp-th.wikidot.com/ 泰文分部] - [/system:page-tags/tag/th th]**
 -------
@@ -174,6 +194,9 @@
 -------
 = 貓咪施工
 [[/tab]]
+
+
+
 [[tab 日文分部]]
 ++* **[http://ja.scp-wiki.net/ 日文分部] - [/system:page-tags/tag/jp jp]**
 -------
@@ -385,36 +408,57 @@
 +++* 日文分部地點標籤
 * **[*/system:page-tags/tag/戀昏崎 戀昏崎]** - 標註在與相關地點「恋昏崎」有關之頁面。
 [[/tab]]
+
+
+
 [[tab 德文分部]]
 ++* **[http://scp-de.wikidot.com/ 德文分部] - [/system:page-tags/tag/de de]**
 -------
 +++* 德文分部關注組織
+
+* **[*/system:page-tags/tag/魔法學院 魔法學院] (magierakademie)** - 標註在德文分部關注組織魔法學院（Die Magierakademie）相關的頁面上。
+
 * **[*/system:page-tags/tag/奇物室 奇物室] (mm-wk)** - 標註在德文分部關注組織「奇物室」的相關頁面上。
 --------
 +++* 德文分部世界線中心頁
 * **[*/system:page-tags/tag/machina machina]** - 應添加在所有與德文分部世界線「[http://scp-wiki-de.wikidot.com/machina-portal Machina]」相關的文件中。
 [[/tab]]
+
+
+
 [[tab 義大利文分部]]
 ++* **[http://fondazionescp.wikidot.com/ 義大利文分部] - [/system:page-tags/tag/it it]**
 -----
 +++* 義大利文分部關注組織
-* **[*/system:page-tags/tag/麥地奇藝術學院 麥地奇藝術學院] (medicea-accademia)** - 標註在與意大利關注組織，麥地奇藝術學院（Medicea Accademia Dell'Arte Occulta）相關的頁面上。
+* **[*/system:page-tags/tag/麥地奇藝術學院 麥地奇藝術學院] (medicea-accademia)** - 標註在與意大利關注組織麥地奇藝術學院（Medicea Accademia Dell'Arte Occulta）相關的頁面上。
 [[/tab]]
+
+
+
 [[tab 烏克蘭文分部]]
 ++* **[http://scp-ukrainian.wikidot.com/ 烏克蘭文分部] - [/system:page-tags/tag/ua ua]**
 ------
 = 貓咪施工
 [[/tab]]
+
+
+
 [[tab 葡萄牙文分部]]
 ++* **[http://scp-pt-br.wikidot.com/ 葡萄牙文分部] - [/system:page-tags/tag/pt pt]**
 ------
 = 貓咪施工
 [[/tab]]
+
+
+
 [[tab 捷克文分部]]
 ++* **[http://scp-cs.wikidot.com/ 捷克文分部] - [/system:page-tags/tag/cs cs]**
 --------
 = 貓咪施工
 [[/tab]]
+
+
+
 [[tab 越南文分部]]
 -------
 ++* **[http://scp-vn.wikidot.com/ 越南文分部] - [/system:page-tags/tag/vn vn]**
@@ -424,6 +468,9 @@
 -------
 = 貓咪施工
 [[/tab]]
+
+
+
 [[tab 發展中分部]]
 ++* **[http://scp-nd.wikidot.com/ 北歐分部]**
 ++* **([/system:page-tags/tag/nd-da nd-da] - 丹麥語)([/system:page-tags/tag/nd-fo nd-fo] - 法羅語)([/system:page-tags/tag/nd-no nd-no] - 挪威語)([/system:page-tags/tag/nd-sv nd-sv] - 瑞典語)**

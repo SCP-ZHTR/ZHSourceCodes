@@ -125,7 +125,7 @@ body {
 [[=]]
 中心頁和世界線由[[*user LurkD]]製作.
 2020年主界面由[[*user Placeholder Mcd]]和[[*user EstrellaYoshte]]更新.
-特別感謝[[*user SunnyClockwork]]的原來AIAD圖標，和他在世界線裏發展馬克士威宗的設定。
+特別感謝[[*user SunnyClockwork]]的原來AIAD圖標，和他在世界線裏發展馬克斯威主義的設定。
 
 [[[lurk-d-s-personnel-file|More by LurkD]]]
 [[[desk-of-junior-designer-s-yvonne|EstrellaYoshte's Artpage]]]
@@ -456,13 +456,13 @@ aiad_infotabs.scpl 載入中
  
 當然，保持控制AIC和確保他們不會造成威脅是AIAD重大關注點之一，因此部門外越來越多的人認為應解散機動特遣隊，因為他們擔心它會像過去的另一個錯誤一樣在他們面前爆炸。部門內外都承受著很大的壓力，要求AIAD保持高度戒備，直到能夠做出決定為止。
 
-++ 馬克士威宗網絡
-馬克士威宗是[[[church-of-the-broken-god-hub|破碎之神教會]]]的支派，以下是有關解說：
+++ 馬克斯威主義網絡
+馬克斯威主義是[[[church-of-the-broken-god-hub|破碎之神教會]]]的支派，以下是有關解說：
 
 [[=]]
-> //「馬克士威宗教會」（GOI-004C）代表着一個現代化、電腦化和網絡為主的崇拜。據了解，該宗教不存在中央組織教會機構。然而，從訪問和秘密監視可推定所有已知的成員會定期聯絡，也能夠進行協作活動。馬克士威宗傾向利用先進神經機械和增強器官的小型身體改造。儘管有觀察到人工肢體和強化骨骼的應用，馬克士威宗教徒的植入物主要聚焦於增加溝通、數據儲存和聯網上的能力，以及官感增強化。//
+> //「馬克斯威主義教會」（GOI-004C）代表着一個現代化、電腦化和網絡為主的崇拜。據了解，該宗教不存在中央組織教會機構。然而，從訪問和秘密監視可推定所有已知的成員會定期聯絡，也能夠進行協作活動。馬克斯威主義傾向利用先進神經機械和增強器官的小型身體改造。儘管有觀察到人工肢體和強化骨骼的應用，馬克斯威主義教徒的植入物主要聚焦於增加溝通、數據儲存和聯網上的能力，以及官感增強化。//
 [[/=]]
-在AIAD的世界線中，該教派代表着一個非友善或敵對的獨立組織，他們希望不被打擾，在基金會的目光外默默生活。AIAD和馬克士威宗教徒的關係可從[[*user SunnyClockwork]]的故事[[[https://scp-wiki.wikidot.com/forum/t-1643825/basic-observations|基本觀察]]]而見，當中解釋了馬克士威宗網絡和層階制的運行模式。詳情可見[*https://scp-wiki.wikidot.com/forum/t-1643825/basic-observations#post-2472081 此討論帖]。
+在AIAD的世界線中，該教派代表着一個非友善或敵對的獨立組織，他們希望不被打擾，在基金會的目光外默默生活。AIAD和馬克斯威主義教徒的關係可從[[*user SunnyClockwork]]的故事[[[https://scp-wiki.wikidot.com/forum/t-1643825/basic-observations|基本觀察]]]而見，當中解釋了馬克斯威主義網絡和層階制的運行模式。詳情可見[*https://scp-wiki.wikidot.com/forum/t-1643825/basic-observations#post-2472081 此討論帖]。
 [[/tab]]
 
 [[tab 如何寫AIAD]]

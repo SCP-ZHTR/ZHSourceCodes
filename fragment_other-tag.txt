@@ -9,9 +9,13 @@
 這些標籤用於標示出與基金會部門或機動特遣隊的頁面。
 
 
-* **[*/system:page-tags/tag/反常部 反常部] (abnormalities)** - 標註在與關注組織反常部相關的頁面上。
+* **[*/system:page-tags/tag/反常部 反常部] (abnormalities)** -- 標註在與關注組織反常部相關的頁面上。
 
-* **[*/system:page-tags/tag/廢除部 廢除部] (decommissioning-dept)** - 最初出現在[[[SCP-4456]]]中並發展成正式設定之一，應添加於任何帶有直接提及「廢除部」存在或是帶有相關內容的作品中。
+* **[*/system:page-tags/tag/廢除部 廢除部] (decommissioning-dept)** -- 最初出現在[[[SCP-4456]]]中並發展成正式設定之一，應添加於任何帶有直接提及「廢除部」存在或是帶有相關內容的作品中。
+
+* **[*/system:page-tags/tag/刪除部 刪除部] (deletions-dept)** -- 標註在與刪除部相關的頁面上。
+
+* **[*/system:page-tags/tag/delta-t delta-t]** -- 標註在與跨時間線機構Delta T相關的頁面上。
 
 * **[*/system:page-tags/tag/倫理委員會 倫理委員會] (ethics-committee)** - 標註在與倫理委員會相關的頁面上。
 
@@ -21,28 +25,23 @@
 
 * **[*/system:page-tags/tag/民俗部 民俗部] (folklore-dept)** -標註在神話學和民俗學部門相關的頁面上。
 
-* **[*/system:page-tags/tag/誤傳部 誤傳部] (miscommunications)** - 標註在與[[[domc-hub|誤傳部門]]]的相關頁面上。
+* **[*/system:page-tags/tag/誤傳部 誤傳部] (miscommunications)** -- 標註在與[[[domc-hub|誤傳部門]]]的相關頁面上。
 
 * **[*/system:page-tags/tag/別的部 別的部] (department-of-other)** -- 標註在與負責處理-J項目的別的部相關的頁面上。
 
-* **[*/system:page-tags/tag/超形上學部 超形上學部] (pataphysics-dept)** - 標註在與超形上學部相關的頁面上。
+* **[*/system:page-tags/tag/超形上學部 超形上學部] (pataphysics-dept)** -- 標註在與超形上學部相關的頁面上。
 
-* **[*/system:page-tags/tag/採購與清算部 採購與清算部] (procurement-liquidation-dept)** - 標註在與採購與清算部相關的頁面上。
+* **[*/system:page-tags/tag/採購與清算部 採購與清算部] (procurement-liquidation-dept)** -- 標註在與採購與清算部相關的頁面上。
 
-* **[*/system:page-tags/tag/超現實部 超現實部] (surrealistics-dept)** - 屬於或與基金會的超現實部相關的。
+* **[*/system:page-tags/tag/戰術神學部 戰術神學部] (tactical-theology)** -- 標註在與戰術神學部有關或相關的頁面上。
 
-* **[*/system:page-tags/tag/戰術神學部 戰術神學部] (tactical-theology)** - 標註在與戰術神學部有關或相關的頁面上。
+* **[*/system:page-tags/tag/超現實部 超現實部] (surrealistics-dept)** -- 屬於或與基金會的超現實部相關的。
 
-* **[*/system:page-tags/tag/電信監控辦公室 電信監控辦公室] (telecom-office)** - 標註在與電信監控辦公室相關的頁面上。
+* **[*/system:page-tags/tag/電信監控辦公室 電信監控辦公室] (telecom-office)** -- 標註在與電信監控辦公室相關的頁面上。
 
-* **[*/system:page-tags/tag/非現實部 非現實部] (unreality-dept)** -標註在與非現實部相關的頁面上。
+* **[*/system:page-tags/tag/非現實部 非現實部] (unreality-dept)** -- 標註在與非現實部相關的頁面上。
 
-
-
-
-+++ 機動特遣隊
-
-* **[*/system:page-tags/tag/角磨機 theta-90角磨機] (angle-grinders)** - 標註在與機動特遣隊Theta-90 「角磨機」相關的頁面上。
+* **[*/system:page-tags/tag/角磨機 theta-90角磨機] (angle-grinders)** -- 標註在與機動特遣隊Theta-90 「角磨機」相關的頁面上。
 
 * **[*/system:page-tags/tag/alpha-9 alpha-9最後希望] (last-hope)** -- 標註在與機動特遣隊Alpha-9 「最後希望」相關的頁面上。
 
@@ -71,7 +70,7 @@
 
 * **[*/system:page-tags/tag/avelar avelar]** - 標註在與Avelar專業產品有關或相關的頁面。
 
-* **[*/system:page-tags/tag/blackwood blackwood]** - 標註在布萊克伍德爵爺冒險故事相關頁面。
+* **[*/system:page-tags/tag/blackwood blackwood]** - 標註在布萊克伍德爵爺（[[[SCP-1867]]]）冒險故事相關頁面。
 
 * **[*/system:page-tags/tag/黑皇后 黑皇后] (black-queen)** - 標註在與關注組織[[[groups-of-interest#toc3|黑皇后]]] 相關的頁面上。
 
@@ -129,31 +128,37 @@
 
 * **[*/system:page-tags/tag/ijamea ijamea]** - 標註在與大日本帝國異常事務調査局相關的頁面上。
 
-* **[*/system:page-tags/tag/麥地奇藝術學院 麥地奇藝術學院] (madao)** - 標註在與意大利關注組織 麥地奇藝術學院（Medicea Accademia Dell'Arte Occulta）相關的頁面上。
+* **[*/system:page-tags/tag/joicl 日本生類創研]（joicl）** - 標註在與日本分部關注組織日本生類創研（Japanese Organism Improvement and Creation Laboratory）相關的頁面上。
 
-* **[*/system:page-tags/tag/魔法學院 魔法學院] (mages-academy)** - 標註在與魔法學院相關的頁面上。
+* **[*/system:page-tags/tag/joicl just-girly-things]（just-girly-things）** - 標註在關注組織Just Girly Things相關的頁面上。
+
+* **[*/system:page-tags/tag/麥地奇藝術學院 麥地奇藝術學院] (madao)** - 標註在與意大利關注組織麥地奇藝術學院（Medicea Accademia Dell'Arte Occulta）相關的頁面上。
+
+* **[*/system:page-tags/tag/魔法學院 魔法學院] (mages-academy)** - 標註在德語關注組織魔法學院（Die Magierakademie）相關的頁面上。
 
 * **[*/system:page-tags/tag/瑪納慈善基金會 瑪納慈善基金會] (manna-charitable-foundation)** - 標註在與關注組織[[[groups-of-interest#toc15|瑪納慈善基金會]]]相關的頁面上。
 
 * **[*/system:page-tags/tag/mc&d mc&d] (marshall-carter-and-dark)** - 標註在與關注組織[[[groups-of-interest#toc16| Marshall，Carter和Dark有限公司]]]（MC&D）相關的頁面上。
 
+* **[*/system:page-tags/tag/馬克斯威主義教會 馬克斯威主義教會] (maxwellism)** - 標註在與關注組織破碎之神教會支派馬克斯威主義教會（Church of Maxwellism）相關的頁面上。
+
+* **[*/system:page-tags/tag/瑪納慈善基金會 瑪納慈善基金會] (manna-charitable-foundation)** - 標註在與關注組織[[[groups-of-interest#toc15|瑪納慈善基金會]]]相關的頁面上。
+
 * **[*/system:page-tags/tag/無名 無名] (nameless)** - 標註在[[[SCP-4000]]]或當中所敘述的無名者與妖精的相關頁面上。
 
 * **[*/system:page-tags/tag/nobody nobody]** - 標註在與關注組織[[[groups-of-interest#toc17|"Nobody"]]]相關的頁面上。
 
-* **[*/system:page-tags/tag/obearwatch obearwatch]** - 屬於或與obearwatch相關的。
+* **[*/system:page-tags/tag/obearwatch obearwatch]** -  標註在與關注組織Obearwatch的相關頁面上。
 
-* **[*/system:page-tags/tag/未明軍團 未明軍團] (Obskura)** - 標註在與未明軍團(Obskura Corps) 有關的頁面上。
+* **[*/system:page-tags/tag/未明軍團 未明軍團] (Obskura)** - 標註在與未明軍團（Obskurakorps）有關的頁面上。
 
 * **[*/system:page-tags/tag/夢神 夢神] (oneiroi)** - 標註在與關注組織[[[groups-of-interest#toc19|夢神集團]]]相關的頁面上。
 
 * **[*/system:page-tags/tag/伊斯蘭物品回收辦公室 伊斯蘭物品回收辦公室] (reclamation)** - 標註在與關注組織[[[groups-of-interest#toc18|伊斯蘭物品回收辦公室]]] (ORIA) 相關的頁面上。
 
-
-
 * **[*/system:page-tags/tag/異視維基 異視維基] (parawatch)** - 標註在與異視維基(Parawatch Wiki)有關或相關的頁面上。
 
-* **[*/system:page-tags/tag/相嘯魔 相嘯魔] (pattern-screamer)** - 標註在項目是相嘯魔或與相嘯魔有關的SCP頁面上。
+* **[*/system:page-tags/tag/相嘯魔 相嘯魔] (pattern-screamer)** - 標註在與相嘯魔相關的頁面上。
 
 * **[*/system:page-tags/tag/五角星 五角星] (pentagram)** - 標註在與五角星有關或相關的頁面上。
 
@@ -161,28 +166,27 @@
 
 * **[*/system:page-tags/tag/普羅米修斯實驗室 普羅米修斯實驗室] (prometheus)** - 標註在與關注組織[[[groups-of-interest#toc20|普羅米修斯實驗室]]]相關的頁面上。
 
-
-* **[*/system:page-tags/tag/藍寶石 藍寶石] (sapphire)** - 標註在與關注組織「藍寶石」相關頁面上。與法國分部的藍寶石為相同的組織。
+* **[*/system:page-tags/tag/藍寶石 藍寶石] (sapphire)** - 標註在與法國分部關注組織「藍寶石」相關頁面上。
 
 * **[*/system:page-tags/tag/欲肉教 欲肉教] (sarkic)** - 標註在與關注組織[[[groups-of-interest#toc21|欲肉教派]]]相關的頁面上。
 
-* **[*/system:page-tags/tag/腥紅之王 腥紅之王]** -- Of or related to the The Scarlet King, or the [https://scp-wiki.wikidot.com/cotsk-hub Children of the Scarlet King] group of interest.
+* **[*/system:page-tags/tag/腥紅之王 腥紅之王]** -- 標註在與腥紅之王或關注組織[/cotsk-hub|腥紅之王的孩子]相關的頁面上。
 
-* **[*/system:page-tags/tag/第二海托世教會 第二海托世教會] (second-hytoth)** - 標註在與關注組織[[[second-hytoth-hub|第二海托世教會]]]相關的頁面上。
+* **[*/system:page-tags/tag/第二海托世教會 第二海托世教會] (second-hytoth)** - 標註在與關注組織[[[second-hytoth-hub|第二海托世教會]]]（ Church of the Second Hytoth）相關的頁面上。
 
 * **[*/system:page-tags/tag/蛇之手 蛇之手] (serpents-hand)** - 標註在與關注組織[[[groups-of-interest#toc22|蛇之手]]]相關的頁面上。
 
 * **[*/system:page-tags/tag/毆打鯊魚中心 毆打鯊魚中心] (shark-punching-center)** - 標註在毆打鯊魚中心相關頁面上。
 
-* **[*/system:page-tags/tag/矽諾倫 矽諾倫] (silicon-nornir)** - 標註在與矽諾倫之僕相關的頁面上。
+* **[*/system:page-tags/tag/矽諾倫 矽諾倫] (silicon-nornir)** - 標註在與宗教組織暨GOC 108議會成員矽諾倫之僕相關的頁面上。
 
-* **[*/system:page-tags/tag/糖梳糕餅 糖梳糕餅] (sugarcomb-confectionery)** - 標註在與糖梳糕餅有關或相關的頁面上。
+* **[*/system:page-tags/tag/糖梳糕餅 糖梳糕餅] (sugarcomb-confectionery)** - 標註在與關注組織糖梳糕餅相關的頁面上。
 
-* **[*/system:page-tags/tag/叁月協會 叁月協會] (three-moons-initiative)** - 標註在與[[[three-moons-initiative-hub|叁月協會]]]有關或相關的頁面上。
+* **[*/system:page-tags/tag/叁月協會 叁月協會] (three-moons-initiative)** - 標註在與關注組織[[[three-moons-initiative-hub|叁月協會]]]相關頁面上。
 
-* **[*/system:page-tags/tag/totleighsoft totleighsoft]** - 屬於或與異常軟體開發公司TotleighSoft相關的。
+* **[*/system:page-tags/tag/totleighsoft totleighsoft]** - 標註在與異常軟體開發公司TotleighSoft相關頁面上。
 
-* **[*/system:page-tags/tag/特殊貨物事務委員會 特殊貨物事務委員會] (unusual-cargo)** - 標註在與關注組織特殊貨物事務委員會相關的頁面上。
+* **[*/system:page-tags/tag/特殊貨物事務委員會 特殊貨物事務委員會] (unusual-cargo)** - 標註在與關注組織特殊貨物事務委員會（Commission on Unusual Cargo）相關的頁面上。
 
 * **[*/system:page-tags/tag/uiu uiu] (unusual-incidents-unit)** - 標註在與關注組織聯邦調查局所屬[[[groups-of-interest#toc23|特異事故處]]] (UIU) 相關的頁面上。
 
@@ -192,9 +196,9 @@
 
 * **[*/system:page-tags/tag/魔杖士 魔杖士] (wandsmen)** - 標註在與關注組織[[[groups-of-interest#toc24|魔杖士]]]相關的頁面上。
 
-* **[*/system:page-tags/tag/韋斯特海德媒體 韋斯特海德媒體] (westhead-media)** - 標註在與韋斯特海德媒體集團相關的頁面上。
+* **[*/system:page-tags/tag/韋斯特海德媒體 韋斯特海德媒體] (westhead-media)** - 標註在與韋斯特海德媒體集團（Westhead Media）相關的頁面上。
 
-* **[*/system:page-tags/tag/威爾遜生物應對組 威爾遜生物應對組] (wilsons-wildlife)** - 標註在與關注組織[[[groups-of-interest#toc25|威爾遜生物應對組]]]相關的頁面上。
+* **[*/system:page-tags/tag/威爾遜生物應對組 威爾遜生物應對組] (wilsons-wildlife)** - 標註在與關注組織[[[groups-of-interest#toc25|威爾遜生物應對組]]]（Wilson's Wildlife Solutions）相關的頁面上。
 
 * **[*/system:page-tags/tag/夏異常 夏異常] (xia-dynasty)** - 標註提及與中華文化相關的異常文明夏朝之頁面
 [[/tab]]

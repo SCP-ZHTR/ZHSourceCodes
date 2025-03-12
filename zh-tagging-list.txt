@@ -10,6 +10,12 @@
 [[/module]]
 [[/tab]]
 
+[[tab jp未翻標籤]]
+[[module ListPages separate="yes" perPage="50" tags="+jp"  order="created_at desc" -category="_default"]]
+%%title_linked%% - %%created_by%% ##gray|%%tags%%## 
+[[/module]]
+[[/tab]]
+
 [[tab 原創標籤一覽]]
 [[module ListPages separate="no" perPage="100" tags="+scp +原創" order="name" -category="_default"]]
 # %%title_linked%% - %%created_by%%  ##gray|%%tags%%##
@@ -56,7 +62,13 @@ vvv現實扭曲vvv
 [[/collapsible]]
 [[/tab]]
 
-[[tab 反物理定律刪除]]
-表3的內容。
+
+
+[[tab jp未翻標籤]]
+[[collapsible show="可以替換成任何字的(開啟)" hide="可以替換成任何字的(收起)"hideLocation="both"]]
+開心的填入內文
+開心的填入內文
+開心的填入內文
+[[/collapsible]]
 [[/tab]]
 [[/tabview]]
