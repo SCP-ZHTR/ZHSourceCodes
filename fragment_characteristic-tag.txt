@@ -121,7 +121,7 @@
  * //多與「動物」標籤共同使用。//
 * **[*/system:page-tags/tag/爬行類動物 爬行類動物]（reptile）** -- SCP是爬行類，或者影響/類似於爬行類動物。
  * //多與「動物」標籤共同使用。//
-* **[*/system:page-tags/tag/齧齒目 齧齒目]（rodent）** -- SCP是齧齒類，或者影響/類似於齧齒類動物，包括老鼠、松鼠、海狸等。
+* **[*/system:page-tags/tag/鼠類 鼠類]（rodent）** -- SCP是齧齒類，或者影響/類似於齧齒類動物，包括老鼠、松鼠、海狸等。
  * //多與「動物」標籤共同使用。//
 * **[*/system:page-tags/tag/鯊類 鯊類]（shark）** -- SCP是鯊類，或者影響/類似於鯊類動物，包括魟魚、鰩魚等。
  * //需要與「魚類」標籤共同使用。//
@@ -162,7 +162,7 @@
 * **[*/system:page-tags/tag/生殖性 生殖性]（reproductive）** -- SCP以異常影響或干擾生物體（包括人類）正常生物繁衍過程，或者具備除了//寄生//或//自我複製//涉及之生物繁殖外的異常生物繁殖方式
  * //避免與「寄生性」、「自我複製」標籤共同使用。//
 * **[*/system:page-tags/tag/性 性]（sexual）** -- SCP涉及或影響性器官、性行為、性相關概念。此標籤並不會總是有成人內容。
-* **[*/system:page-tags/tag/骨骼 骨骼]（skeletal）** -- SCP是骨骼，或是包含一副骨架的硬骨／軟骨，或影響生物的骨骼組織
+* **[*/system:page-tags/tag/骨骼 骨骼]（skeletal）** -- SCP是骨骼，或是包含一副骨架的硬骨／軟骨，或影響生物的骨骼組織。
 * **[*/system:page-tags/tag/毒性 毒性]（toxic）** -- SCP能導致受影響者化學中毒。
 
 
@@ -253,11 +253,11 @@
  * //可與「微觀」標籤搭配使用。//
 * **[*/system:page-tags/tag/異常移動 異常移動]（mobile）** -- SCP能透過異常手段移動。一般而言，此標籤僅適用於通常無法移動的實體或物體。
  * //避免與「傳送」標籤共同使用。//
-* **[*/system:page-tags/tag/門徑 門徑]（portal）** -- SCP是表現出不一致連貫性的開口或門戶。
- * //多與「維度外」、「空間影響」標籤共同使用。//
 * **[*/system:page-tags/tag/悖論 悖論]（paradox）** -- SCP生成、表現、涉及了悖論事件或情勢中。
  * //多與「時間影響」標籤共同使用。//
 * **[*/system:page-tags/tag/多面體 多面體]（polyhedral）** -- SCP是多面體：具備平面與直邊的三維形物。
+* **[*/system:page-tags/tag/門徑 門徑]（portal）** -- SCP是表現出不一致連貫性的開口或門戶（傳送門）。
+ * //多與「維度外」、「空間影響」標籤共同使用。//
 * **[*/system:page-tags/tag/放射性 放射性]（radioactive）** -- SCP會放出輻射會影響輻射。
 * **[*/system:page-tags/tag/現實扭曲 現實扭曲]（reality-bending）** -- SCP能透過異常手段（即「本質促動」、「現實扭曲」、「現實歪曲」）操縱現實。
  * //取代「反熵」標籤。//
@@ -291,42 +291,39 @@
 
 * **[*/system:page-tags/tag/家電用品 家電用品]（appliance）** -- SCP是家電或類似於家用電器。
  * //多與「電力」、「電子」標籤共同使用。//
- * //取代「人造物體」標籤。//
+ * //取代「人造物品」標籤。//
  * //為「電腦」標籤所取代。//
 * **[*/system:page-tags/tag/藝術性 藝術性]（artistic）** -- SCP是藝術作品，表現出藝術屬性或藝術意義。
- * //取代「人造物體」標籤。//
+ * //取代「人造物品」標籤。//
  * //為「音樂性」、「表演」、「雕塑」標籤所取代。//
 * **[*/system:page-tags/tag/人工智能 人工智能]（artificial-intelligence）** SCP是人工智能，擁有人工智能，或影響其他人工智能。
-* **[*/system:page-tags/tag/人造物體 人造物體]（artifact）** -- SCP是，至少最初是人類所造的。
+* **[*/system:page-tags/tag/人造物品 人造物品]（artifact）** -- SCP是，至少最初是人類所造的。
  * //為「家電用品」、「藝術品」、「衣物」、「電腦」、「文獻」、「食物」、「飾品」、「媒體」、「工具」、「玩具」、「武器」、「載具」標籤所取代。// 
 * **[*/system:page-tags/tag/發條 發條]（clockwork）** -- SCP主要透過鐘錶運作，鐘錶定義為主要透過齒輪/發條驅動的機械裝置。
  * //取代「機械」標籤。//
 * **[*/system:page-tags/tag/衣物 衣物]（clothing）** -- SCP是主要用於穿戴以求防護/舒適的造物，這包括了盔甲與頭盔。
  * //與「飾品」標籤衝突。//
- * //取代「人造物體」標籤。//
-* **[*/system:page-tags/tag/電腦 電腦]（computer）** -- SCP是電腦設備或影響電腦設備。
- * //多與「電力」、「電子」標籤共同使用。//
- * //取代「人造物體」、「家電用品」標籤。//
+ * //取代「人造物品」標籤。//
 * **[*/system:page-tags/tag/電影 電影]（cinema）** -- SCP是、有關和/或涉及電影攝影、藝術電影、大眾電影之媒介。
- * //取代「人造物體」標籤。//
-* **[*/system:page-tags/tag/電腦 電腦]（computer）** -- SCP是計算裝置、或影響計算裝置。computational device or affects computational devices. 
+ * //取代「人造物品」標籤。//
+* **[*/system:page-tags/tag/電腦 電腦]（computer）** -- SCP是計算裝置、或影響計算裝置。
  * //多與「電子」、「機械」標籤共同使用。//
- * //取代「人造物體」和「家電用品」標籤。//
+ * //取代「人造物品」和「家電用品」標籤。//
 * **[*/system:page-tags/tag/貨幣 貨幣]（currency）** -- SCP是貨幣，或影響/類似於貨幣，或由貨幣等主要交易媒介物觸發效應。
 * **[*/system:page-tags/tag/文獻 文獻]（document）** -- SCP是書籍等各類文件文本。
- * //取代「人造物體物」、「銘文」標籤。//
+ * //取代「人造物品」、「銘文」標籤。//
 * **[*/system:page-tags/tag/電子 電子]（electronic）** -- SCP是電子裝置，或類似於電子裝置。
 * **[*/system:page-tags/tag/食物 食物]（food）** -- SCP的主要目的是作為可食用物體/物質。
- * //取代「人造物體」標籤。//
+ * //取代「人造物品」標籤。//
 * **[*/system:page-tags/tag/銘文 銘文]（inscription）** -- SCP以雕刻、版刻、銘刻文字/數字/其他設計為特點。
  * //為「文獻」標籤所取代。//
 * **[*/system:page-tags/tag/飾品 飾品]（jewelry）** -- SCP主要作為裝飾配戴品使用。
  * //與「衣物」標籤衝突。//
- * //取代「人造物體」標籤。//
+ * //取代「人造物品」標籤。//
 * **[*/system:page-tags/tag/機械 機械]（mechanical）** -- SCP主要與機械方式運作，或就是種機械裝置。
  * //為「發條」、「機器人」標籤所取代。//
 * **[*/system:page-tags/tag/媒體 媒體]（media）** -- SCP是固定/行動式類比或數位媒體，或者位於其中，例如磁帶、唱片、光碟、磁碟機等。
- * //取代「人造物體」標籤。//
+ * //取代「人造物品」標籤。//
 * **[*/system:page-tags/tag/音樂性 音樂性]（musical）** -- SCP是音樂，或者其產生音樂/由音樂產生。
  * //取代「藝術品」標籤。//
 * **[*/system:page-tags/tag/線上 線上]（online）** -- SCP可以在網路上使用、運用，或其仰賴於與網路的連接。
@@ -340,13 +337,14 @@
 * **[*/system:page-tags/tag/雕像 雕像]（sculpture）** -- SCP是三維藝術品。所謂的//雕像//，必須符合塑型、經雕刻、模造三條件的其中之一。
  * //取代「藝術品」標籤。//
 * **[*/system:page-tags/tag/工具 工具]（tool）** -- SCP是（或至少打算是）作為工具使用。
- * //取代「人造物體」標籤。//
+ * //取代「人造物品」標籤。//
 * **[*/system:page-tags/tag/玩具 玩具]（toy）** -- SCP是玩具，或主要作為玩具而使用。
- * //取代「人造物體」標籤。//
-* **[*/system:page-tags/tag/武器 武器]（weapon）** -- SCP是武器，或主要作為武器而使用。
- * //取代「人造物體」標籤。//
+ * //取代「人造物品」標籤。//
 * **[*/system:page-tags/tag/載具 載具]（vehicle）** -- SCP是載具，或打算要作為載具而使用。
- * //取代「人造物體」標籤。//
+ * //取代「人造物品」標籤。//
+* **[*/system:page-tags/tag/武器 武器]（weapon）** -- SCP是武器，或主要作為武器而使用。
+ * //取代「人造物品」標籤。//
+
 
 
 
@@ -368,7 +366,7 @@
 * **[*/system:page-tags/tag/星際 星際]（extraterrestrial）** -- SCP源於或發現於地球之外，或者實現/表現出星際旅行的能力。
 * **[*/system:page-tags/tag/地質 地質]（geological）** -- SCP是/影響自然地質構造（如洞穴、懸崖、山脈、山谷、火山等）或重大地質事件（地震、滑坡、天坑等）。
  * //為「星球」標籤所取代。//
-* **[*/system:page-tags/tag/島嶼 島嶼]（island）** -- SCP是、或影響島嶼、群島或類似的地理結構。 is or affects islands, archipelagos or similar formations.
+* **[*/system:page-tags/tag/島嶼 島嶼]（island）** -- SCP是、或影響島嶼、群島或類似的地理結構。
 * **[*/system:page-tags/tag/圖書館 圖書館]（library）** -- SCP是圖書館，或以其他方式與圖書館相涉/影響，圖書館指稱存放書籍以供人們閱讀與借出的空間/建物。
 * **[*/system:page-tags/tag/地點 地點]（location）** -- SCP具有特別的地理位置。
  * //為「城市」標籤所取代。//
@@ -391,9 +389,9 @@
 
 
 * **[*/system:page-tags/tag/異常現象 異常現象]（anomalous-event）** -- SCP是以某途徑顯著影響了現實的單一事件。 
+* **[*/system:page-tags/tag/概念 概念]（concept）** -- SCP是/影響純粹的非物理概念。此標籤不應與任何描述物理性質的標籤共同使用。
  * 避免與「現象」標籤共同使用。
 * **[*/system:page-tags/tag/公司 公司]（corporate）** -- SCP影響了企業或公司的運作。
-* **[*/system:page-tags/tag/概念 概念]（concept）** -- SCP是/影響純粹的非物理概念。此標籤不應與任何描述物理性質的標籤共同使用。
 * **[*/system:page-tags/tag/交換 交換]（exchange）** -- SCP與某種有形或無形的交換行為相涉/觸發，這包括但不限於以物易物與貨幣貿易行為。
 * **[*/system:page-tags/tag/基金會製造 基金會製造]（foundation-made）** -- SCP是基金會有意或無意的造物。請注意，本標籤僅適用於基金會具體行動導致或產生的項目，並不包括基金會所在地長期暴露異常而自發形成的現象。
 * **[*/system:page-tags/tag/未來 未來]（future）** -- SCP來自未來，或以某種方式從較晚的時間點轉移到了較早的時間點。
@@ -405,16 +403,16 @@
 * **[*/system:page-tags/tag/法律性 法律性]（legality）** -- SCP是/影響/涉及法律、法律程序、法律條文。
 * **[*/system:page-tags/tag/循環 循環]（loop）** -- SCP表現或涉及了重複的循環活動。
 * **[*/system:page-tags/tag/數學性 數學性]（mathematical）** -- SCP是/影響數字、數字系統、數字方程等具有數學意義之事物。
+* **[*/system:page-tags/tag/meta meta]（meta）** -- SCP影響其檔案或受其檔案影響，或項目需要針對其文件的收容措施。更多資訊詳見標籤[https://05command.wikidot.com/tech-hub-tag FAQ]說明。
 * **[*/system:page-tags/tag/軍事 軍事]（military）** -- SCP是軍事裝備、軍事編制組織、軍事編制成員等具有軍事意義之事物。
  * //可與「武器」標籤搭配使用。//
-* **[*/system:page-tags/tag/meta meta]（meta）** -- SCP影響其檔案或受其檔案影響，或項目需要針對其文件的收容措施。更多資訊詳見標籤[https://05command.wikidot.com/tech-hub-tag FAQ]說明。
 * **[*/system:page-tags/tag/敘述性 敘述性]（narrative）** -- SCP是/涉及/透過敘述性資訊或文件傳播。
 * **[*/system:page-tags/tag/機率性 機率性]（probability）** -- SCP改變/操縱了某些事件或結果的機率。
 * **[*/system:page-tags/tag/現象 現象]（phenomenon）** -- SCP是持續存在、影響廣泛的現象，而且不是直接受到物理來源影響。 
  * 避免與「異常現象」標籤共同使用。
 * **[*/system:page-tags/tag/宗教 宗教]（religious）** -- SCP與一或多個宗教組織有關，或在宗教上具有特別意義。
 * **[*/system:page-tags/tag/儀式性 儀式性]（ritual）** -- SCP透過儀式行為觸發或啟動。
-* **[*/system:page-tags/tag/體育 體育]（sport）** -- SCP是/用於/受觸發於/有關於一或多個體育活動，體育定義為一或多人與其他個人或團隊競爭，涉及到體力消耗與技巧比較的活動。體育運動本身應再加上「競賽」標籤。特別或專門作為體與活動使用的設備/裝備也應該視情況再加上「衣物」、「工具」標籤。
+* **[*/system:page-tags/tag/體育 體育]（sport）** -- SCP是/用於/受觸發於/有關於一或多個體育活動，體育定義為一或多人與其他個人或團隊競爭，涉及到體力消耗與技巧比較的活動。體育運動本身應再加上「遊戲」標籤。特別或專門作為體與活動使用的設備/裝備也應該視情況再加上「衣物」、「工具」標籤。
  * //可與「遊戲」、「衣物」、「工具」標籤搭配使用。//
 * **[*/system:page-tags/tag/未收容 未收容]（uncontained）** -- SCP既未完全收容也無法部分收容。此標籤僅適用於完全處於未收容狀態的SCP實體，如果基金會設法成功收容了當中一或多個實體，則不適用於此標籤。
 [[>]]
