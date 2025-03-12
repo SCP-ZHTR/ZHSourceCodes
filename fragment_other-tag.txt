@@ -115,7 +115,7 @@
 
 * **[*/system:page-tags/tag/格雷茨堡 格雷茨堡] (greazeburger)** - 標註在與格雷茨堡公司有關或相關的頁面上。
 
-* **[*/system:page-tags/tag/格魯烏-p部門 格魯烏-p部門] (gru-division-p)** - 標註在與關注組織[[[groups-of-interest#toc12|格魯烏"P"部門]]])相關的頁面上。
+* **[*/system:page-tags/tag/格魯烏-p部門 格魯烏-p部門] (gru-division-p)** - 標註在與關注組織[[[groups-of-interest#toc12|格魯烏"P"部門]]]相關的頁面上。
 
 * **[*/system:page-tags/tag/赫曼-富勒 赫曼-富勒] (herman-fuller)** - 標註在與關注組織[[[groups-of-interest#toc13|赫曼•富勒的不安馬戲團]]] 相關的頁面上。
 
