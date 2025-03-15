@@ -160,7 +160,7 @@ line-height: 0.4;
 
 ----
 
-**[/system:page-tags/tag/fynegan博士 Dr. Joseph "Joe" Fynegan]（喬瑟夫・「喬」・飛漢博士）：** Site-409高級研究員，主導了[*http://scp-zh-tr.wikidot.com/scp-wow-j/offset/2 數個][[[scp-4917|SCP]]]的收容與其文件的撰寫。曾被懷疑[[[kaleidoscope-of-guilt|謀殺]]]了基金會的同事，但後來擺脫了所有指控。[[[arbh-class-debrief-file|ARBH級事件情景]]]（亦稱為[[[arbh-class-hub|「昆蟲地獄」滅絕級]]][[[zero-hour| 事件]]]）的專家。他不擅於交際，還是個超級書呆子。性情相當悠閒，也許以基金會成員身份來說太天真。
+**[/system:page-tags/tag/fynegan博士 Dr. Joseph "Joe" Fynegan]（喬瑟夫・「喬」・飛漢博士）：** Site-409高級研究員，主導了[*http://scp-zh-tr.wikidot.com/scp-wow-j/offset/2 數個][[[scp-4917|SCP]]]的收容與其文件的撰寫。曾被懷疑[[[kaleidoscope-of-guilt|謀殺]]]了基金會的同事，但後來擺脫了所有指控。[[[arbh-class-debrief-file|ARBH級事件情景]]]（亦稱為[[[arbh-class-hub|「昆蟲地獄」滅絕級]]][[[zero-hour| 事件]]]）的專家。不擅於交際的超級書呆子，性情相當悠閒，也許作為基金會成員來說有些太天真。
 
 [[collapsible show="你也知道我這個人很無聊的......" hide="我發誓。"]]
 
@@ -960,7 +960,7 @@ Delta-3解散後，威斯布魯克晉升為[[[secure-facility-dossier-site-246|S
 
 **[/system:page-tags/tag/塔羅蘭研究員 Researcher James Martin Talloran]（詹姆斯・馬丁・塔羅蘭研究員）：** 一名忠實的三級研究員，因其對Keter級項目的研究聞名。忠於基金會、他的家人以及前[[[portraits-of-your-father| 男友]]]**[/system:page-tags/tag/draven-kondraki| 卓文康卓奇]**。有著鋼鐵般的意志。他在一起[[[SCP-3999| 神秘事件]]]期間於收容突破事故中殉職，其細節至今對全基金會而言都是一個謎。
 
-[[collapsible show="我對你的恐怖感到厭煩了。" hide="我對你感到厭煩了。"]]
+[[collapsible show="我對你帶來的恐怖感到厭煩了。" hide="我對「你」感到厭煩了。"]]
 
 關於塔羅蘭的本質與結局，有著相互矛盾的說法。官方的紀錄認為他已經死了。也有人說他已經[[[i-stared-into-the-face-of-everything-and-nothing|歷劫歸來]]]，但變得[[[the-trouble-with-amnestics| 不一樣]]]了，也有人說他面對了某個神，並[[[like-clockwork-hub| 設法突圍而出]]]。我們甚至無從得知塔羅蘭的名字是詹姆斯・馬丁還是[[[let-us-get-murdered| 傑西・愛里]]]。他是個難以捉模的人，是個比我們當中任何人都要堅忍不拔的人，他是一個謎團，一個鬥士。他不可能卻也將永遠死於黑暗，卻又為光明所包圍。
 
@@ -982,7 +982,7 @@ Delta-3解散後，威斯布魯克晉升為[[[secure-facility-dossier-site-246|S
 
 **[[[SCP-035]]]，亦稱為[/system:page-tags/tag/佔據面具 "The Possessive Mask"]（「佔據面具」）：** 一個白色的陶瓷面具，能不斷分泌出具腐蝕性的黑色物質。能將戴上面具者佔據，性格聰穎而有著[[[that-s-not-love-isabel| 虐待狂]]]人格，善於操弄他人。如果不定期為它提供新宿主，將會對周圍的環境造成異常影響。它對可以成為[[[the-bowe-decommission-part-three| 不滅]]][[[addressing-the-second|宿主]]]的[[[SCP-682]]]相當有興趣。
 
-懷疑[[[SCP-035]]]曾是[[[scp-2264| 阿拉加達]]]──[[[a-wandsman-in-the-court-of-the-hanged-king| 受絞之王的王室]]]──的[[[midnight-parade| 居民之一]]]，更精確地說，它就是[[[in-the-shadow-of-the-anguished-lord| 憤怒面具]]]的[[[everyone-wears-a-mask| 配戴者]]]──[[[masks-monsters-merchants| 黑之領主]]]。
+有假說提出[[[SCP-035]]]曾是[[[scp-2264| 阿拉加達]]]──[[[a-wandsman-in-the-court-of-the-hanged-king| 受絞之王宮廷]]]──裡的[[[midnight-parade| 居民之一]]]。更精確地說，它曾為[[[in-the-shadow-of-the-anguished-lord| 憤怒面具]]]的[[[everyone-wears-a-mask| 配戴者]]]，[[[masks-monsters-merchants| 黑之領主]]]。
 
 ----
 
@@ -1439,15 +1439,15 @@ L.S.可能並無其人，而是蛇手成員識別友方人員的代號「[[span 
 
 **Mr. Marshall, Mr. Carter, and [[[poi-dark| Mr. Dark]]]（馬歇爾先生、卡特先生、達克先生）：** [[[marshall-carter-and-dark-hub| 馬歇爾、卡特、達克]]]公司的共同[[[acquisitions1| 領導人]]]兼[[[from-vagrants-to-gentlemen| 創建者]]]，這個公司專門向富人與權貴販售異常。關於這個組織的上級人物相關資訊都相當有限，而且經常有不一致的報告。這可能是同一[[[scp-4566| 家族]]][[[third-death| 好幾代人]]]都參與其中的結果，包括一位被稱為**[/system:page-tags/tag/iris-dark 愛蕊絲・達克女士]**的關注人士。
 
-[[collapsible show="尊敬的馬歇爾先生、卡特先生......" hide="...... 以及達克。"]]
+[[collapsible show="尊敬的馬歇爾閣下、卡特閣下......" hide="...... 以及達克閣下。"]]
 
-對馬歇爾與卡特的[[[acquisitions2| 報告]]]極度不一致。當中有[[[mc-d-agent-orientation| 部分]]]將卡特描述為坐輪椅者，馬歇爾則相對年輕；[[[acquisitions3| 其他來源]]]則提出了完全相反的結論。關於卡特的報告多半認為他坐著輪椅，還指稱他用了異常手段延續自己的壽命，似乎是以一個裝在後方袋子裡、被下藥（但還保持著意識）的人類為食。還有[[[third-death| 謠言指稱]]]，「阿莫斯」馬歇爾以人類的靈魂為食，「魯普雷希特」卡特則能在身體之間轉移意識。
+對馬歇爾與卡特的[[[acquisitions2| 報告]]]極度不一致。有些報告[[[mc-d-agent-orientation| 部分]]]描述卡特有坐輪椅，馬歇爾則相對年輕；[[[acquisitions3| 其他來源]]]則提出了完全相反的結論。關於卡特的報告多半認為他坐著輪椅，還指稱他用了異常手段延續自己的壽命，似乎是以一個裝在後方袋子裡、被下藥（但還保持著意識）的人類為食。還有[[[third-death| 謠言指稱]]]，「阿莫斯」馬歇爾以人類的靈魂為食，「魯普雷希特」卡特則能在身體之間轉移意識。
 
 至於[[[poi-dark| 達克]]]的形象與本質，人們的猜測就更多了，不過對達克（又被稱為[[[a-darke-tale-new-age|德瑞克]]]）主要分為三類：第一類將達克描述為數個世紀來[[[when-situations-degenerate| 由多人使用]]]（多半是男性）的名號。第二類將達克描述為半不死的智人實體，雖然不總是如此但大體上是人形的，能為了適應當前目的而改變身體與性別。第三類則是[[[so they called him darke| 兩者皆是]]]，有一個較老的「帕西瓦爾」達克與較年輕的「代行者」（也許還是[[[the-boy-who-cried-wolf| 眾人]]]中[[[dark-and-disquieting| 最年輕的]]]）當前並存。
 
 就算是馬歇爾與卡特似乎也不完全了解達克。儘管他們共同處理了公司大部分的業務，但達克比其他兩位對MC&D的控制權都要高，也比他們還要[[[a-question-of-commerce| 早]]][[[scp-3549| 得多]]]。奇怪的是，達克似乎沒有MC&D本身那麼邪惡──不管他是誰，他的道德觀似乎更為高尚，不過他大有能力做出超出其組織能力的[[[scp-5802| 駭人行徑]]]。
 
-[[[wills-and-ways-hub| 部分]]]MC&D[[[all-that-glisters| 情報]]]描述了「初級合夥人」的存在，他們是所謂「高級合夥人」的後代。這些人包括了冒險家兼探索者[[[skitter-marshall| 斯凱特・馬歇爾]]]、享樂主義的花花公子[[[robert-carter| 羅伯特・卡特]]]以及技術神童[[[iris-dark| 愛蕊絲・達克]]]，後者還是公司的[[[the-dark-web-dke79-o2rg5-4jlw6| 超科技]]][[[mcd-smart-hex| 開發]]]與[[[osteotronic-cubes-vxy33-f7rq3-9xad1| 收購]]]部[[[micky-d-s| 部長]]]。
+[[[wills-and-ways-hub| 部分]]]MC&D[[[all-that-glisters| 情報]]]描述了「初級合夥人」的存在。他們是所謂「高級合夥人」的後代。這些人包括了冒險家兼探索者[[[skitter-marshall| 斯凱特・馬歇爾]]]、享樂主義的花花公子[[[robert-carter| 羅伯特・卡特]]]以及技術神童[[[iris-dark| 愛蕊絲・達克]]]，後者也是公司的[[[the-dark-web-dke79-o2rg5-4jlw6| 超科技]]][[[mcd-smart-hex| 開發]]]與[[[osteotronic-cubes-vxy33-f7rq3-9xad1| 收購]]]部[[[micky-d-s| 部長]]]。
 
 [[/collapsible]]
 

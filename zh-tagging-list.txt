@@ -1,18 +1,97 @@
 這是[[*user kikunai]]用來掛標籤的工作頁面
 推薦右鍵「用新分頁開啓連結」
+
+
 [[tabview]]
-
-
-
 [[tab 新作原創 標籤]]
 [[module ListPages separate="no" perPage="7" tags="+scp +原創" order="created_at desc" -category="_default"]]
-# %%title_linked%% - %%created_by%%  ##gray|%%tags%%##
+* %%title_linked%% - %%created_by%% | %%created_at%% 
+##gray|%%tags%%##
 [[/module]]
 [[/tab]]
 
 [[tab jp未翻標籤]]
 [[module ListPages separate="yes" perPage="50" tags="+jp"  order="created_at desc" -category="_default"]]
-%%title_linked%% - %%created_by%% ##gray|%%tags%%## 
+%%title_linked%% - %%created_by%%  
+##gray|%%tags%%## 
+[[/module]]
+[[/tab]]
+
+[[tab 金屬 刪除]]
+[[module ListPages separate="yes" perPage="1000" tags="+金屬" order="name" -category="_default"]]
+%%title_linked%% - %%created_by%%
+[[/module]]
+[[/tab]]
+
+[[tab 感知力 刪除]]
+[[module ListPages separate="yes" perPage="1000" tags="+感知力" order="name" -category="_default"]]
+%%title_linked%% - %%created_by%%
+[[/module]]
+[[/tab]]
+
+[[tab 雜食性 刪除]]
+[[module ListPages separate="yes" perPage="1000" tags="+雜食性" order="name" -category="_default"]]
+%%title_linked%% - %%created_by%%
+[[/module]]
+[[/tab]]
+
+[[tab 肉食性 刪除]]
+[[module ListPages separate="yes" perPage="1000" tags="+肉食性" order="name" -category="_default"]]
+%%title_linked%% - %%created_by%%
+[[/module]]
+[[/tab]]
+
+[[tab 立方體 刪除]]
+[[module ListPages separate="yes" perPage="1000" tags="+立方體" order="name" -category="_default"]]
+%%title_linked%% - %%created_by%%
+[[/module]]
+[[/tab]]
+
+[[tab 黏土 刪除]]
+[[module ListPages separate="yes" perPage="1000" tags="+黏土" order="name" -category="_default"]]
+%%title_linked%% - %%created_by%%
+[[/module]]
+[[/tab]]
+
+[[tab 玻璃 刪除]]
+[[module ListPages separate="yes" perPage="1000" tags="+玻璃" order="name" -category="_default"]]
+%%title_linked%% - %%created_by%%
+[[/module]]
+[[/tab]]
+
+[[tab 石頭 刪除]]
+[[module ListPages separate="yes" perPage="1000" tags="+石頭" order="name" -category="_default"]]
+%%title_linked%% - %%created_by%%
+[[/module]]
+[[/tab]]
+
+[[tab 木質 刪除]]
+[[module ListPages separate="yes" perPage="1000" tags="+木質" order="name" -category="_default"]]
+%%title_linked%% - %%created_by%%
+[[/module]]
+[[/tab]]
+
+[[tab 家具 刪除]]
+[[module ListPages separate="yes" perPage="1000" tags="+家具" order="name" -category="_default"]]
+%%title_linked%% - %%created_by%%
+[[/module]]
+[[/tab]]
+
+[[tab 地圖 刪除]]
+[[module ListPages separate="yes" perPage="1000" tags="+地圖" order="name" -category="_default"]]
+%%title_linked%% - %%created_by%%
+[[/module]]
+[[/tab]]
+
+[[tab 爬行類動物 -> 爬行類]]
+[[module ListPages separate="yes" perPage="1000" tags="+爬行類動物" order="name" -category="_default"]]
+%%title_linked%% - %%created_by%%
+[[/module]]
+[[/tab]]
+
+[[tab  頭足類動物 -> 頭足類]]
+[[module ListPages separate="yes" perPage="1000" tags="+頭足類動物" order="name" -category="_default"]]
+%%title_linked%% - %%created_by%%
 [[/module]]
 [[/tab]]
 
@@ -22,20 +101,31 @@
 [[/module]]
 [[/tab]]
 
-[[tab 時空->空間影響]]
-[[collapsible show="原創"]]
-[[module ListPages separate="yes" perPage="1000" tags="+時空 +原創" order="name" -category="_default"]]
-%%title_linked%% - %%created_by%% ##gray|%%tags%%##
-[[/module]]
-[[/collapsible]]
-[[collapsible show="翻譯"]]
-[[module ListPages separate="yes" perPage="1000" tags="+時空 +翻譯" order="name" -category="_default"]]
-%%title_linked%% - %%created_by%% ##gray|%%tags%%##
-[[/module]]
-[[/collapsible]]
+[[tab 1]]
+
 [[/tab]]
 
-[[tab 反物理定律 刪除]]
+[[tab 2]]
+
+[[/tab]]
+
+[[tab 3]]
+[[collapsible show="可以替換成任何字的(開啟)" hide="可以替換成任何字的(收起)"hideLocation="both"]]
+
+
+[[/collapsible]]
+[[/tab]]
+[[/tabview]]
+
+備份：
+本質促動改為現實扭曲
+[[code]]
+[[module ListPages separate="yes" perPage="1000" tags="+本質促動" order="name" -category="_default"]]
+%%title_linked%% - %%created_by%%
+[[/module]]
+[[/code]]
+反物理定律 刪除
+[[code]]
 [[collapsible show="原創"]]
 [[module ListPages separate="yes" perPage="1000" tags="+反物理定律 +原創" order="name" -category="_default"]]
 %%title_linked%% - %%created_by%% ##gray|%%tags%%##
@@ -46,29 +136,17 @@
 %%title_linked%% - %%created_by%% ##gray|%%tags%%##
 [[/module]]
 [[/collapsible]]
-[[/tab]]
-
-
-[[tab 本質促動改為現實扭曲]]
-[[module ListPages separate="yes" perPage="1000" tags="+本質促動" order="name" -category="_default"]]
-%%title_linked%% - %%created_by%%
-[[/module]]
-----
-vvv現實扭曲vvv
-[[collapsible show="開啟" hide="收起"hideLocation="both"]]
-[[module ListPages separate="yes" perPage="50" tags="+現實扭曲" order="name" -category="_default"]]
-%%title_linked%% - %%created_by%% 
+[[/code]]
+時空->空間影響
+[[code]]
+[[collapsible show="原創"]]
+[[module ListPages separate="yes" perPage="1000" tags="+時空 +原創" order="name" -category="_default"]]
+%%title_linked%% - %%created_by%% ##gray|%%tags%%##
 [[/module]]
 [[/collapsible]]
-[[/tab]]
-
-
-
-[[tab jp未翻標籤]]
-[[collapsible show="可以替換成任何字的(開啟)" hide="可以替換成任何字的(收起)"hideLocation="both"]]
-開心的填入內文
-開心的填入內文
-開心的填入內文
+[[collapsible show="翻譯"]]
+[[module ListPages separate="yes" perPage="1000" tags="+時空 +翻譯" order="name" -category="_default"]]
+%%title_linked%% - %%created_by%% ##gray|%%tags%%##
+[[/module]]
 [[/collapsible]]
-[[/tab]]
-[[/tabview]]
+[[/code]]

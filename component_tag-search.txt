@@ -1147,15 +1147,39 @@ description = "（故事標籤）現有類型、背景、風格標籤均不適�
 
 # 其他標籤
 # 關注組織
+# 部門
 
 [[tags]]
 name= "反常部"
 description = "標註在與關注組織反常部相關的頁面上。"
 
 [[tags]]
-name= "角磨機"
+name= "廢除部"
+description = "最初出現在SCP-4456中並發展成正式設定之一，應添加於任何帶有直接提及「廢除部」存在或是帶有相關內容的作品中。"
+
+[[tags]]
+name= "倫理委員會"
+description = "標註在與倫理委員會相關的頁面上。"
+
+[[tags]]
+name= "民俗部"
+description = "標註在與民俗部相關的頁面上。"
+
+#機動特遣隊
+[[tags]]
+name= "theta-90角磨機"
 description = "與機動特遣隊Theta-90 「角磨機」相關。"
 
+[[tags]]
+name= "alpha-9最後希望"
+description = "標註在與機動特遣隊Alpha-9 「最後希望」相關的頁面上。"
+
+[[tags]]
+name= "tau-5輪迴"
+description = "標註在與機動特遣隊Tau-5 「輪迴」相關的頁面上。"
+
+
+# 關注組織
 [[tags]]
 name= "加速未來"
 description = "標註在與加速未來（Accelerate the Future）有關或相關的頁面上。"
@@ -1166,39 +1190,39 @@ description = "標註在與關注組織Alexylva大學相關的頁面上。"
 
 [[tags]]
 name= "安布羅斯餐廳"
-description = "標註在與關注組織安布羅斯餐廳相關的頁面上。"
+description = "標註在與關注組織安布羅斯餐廳（Ambrose Restaurant）相關的頁面上。"
 
 [[tags]]
 name= "安德森機器人"
-description = "標註在與關注組織安德森機器人相關的頁面上。"
+description = "標註在與關注組織安德森機器人（Anderson Robotics）相關的頁面上。"
 
 [[tags]]
 name= "阿卡迪亞"
-description = "標註在與雅達利·阿卡迪亞組織相關的頁面上。"
+description = "標註在與雅達利·阿卡迪亞組織（Arcadia）相關的頁面上。"
 
 [[tags]]
 name= "awcy"
 description = "標註在與關注組織Are We Cool Yet? (AWCY)相關的頁面上。"
 
 [[tags]]
-name= "avelar"
-description = "標註在與Avelar專業產品有關或相關的頁面。"
-
-[[tags]]
 name= "asci"
 description = "標註在與美國維安收容倡議會（American Secure Containment Initiative）有關或相關的頁面。"
 
 [[tags]]
+name= "avelar"
+description = "標註在與Avelar專業產品有關或相關的頁面。"
+
+[[tags]]
 name= "黑皇后"
-description = "標註在與關注組織黑皇后 相關的頁面上。"
+description = "標註在與關注組織黑皇后（The Black Queen）相關的頁面上。"
 
 [[tags]]
 name= "blackwood"
-description = "標註在布萊克伍德爵爺冒險故事相關頁面。"
+description = "標註在布萊克伍德爵爺（Lord Blackwood/SCP-1867）冒險故事相關頁面。"
 
 [[tags]]
 name= "英國神秘情報局"
-description = "標註在與英國神秘情報局(MI666)相關的頁面上。"
+description = "標註在與英國神秘情報局（MI666）相關的頁面上。"
 
 [[tags]]
 name= "破碎之神教會"
@@ -1218,83 +1242,79 @@ description = "標註在與關注組織芝加哥鬼靈相關的頁面上。"
 
 [[tags]]
 name= "夜之子"
-description = "標註在與夜之子（略述於SCP-1000內）相關的頁面上。"
+description = "標註在與夜之子（Children of the night）（略述於SCP-1000內）相關的頁面上。"
 
 [[tags]]
 name= "火炬之子"
-description = "標註在與關注組織火炬之子相關的頁面上。"
+description = "標註在與關注組織火炬之子（Children of the Torch）相關的頁面上。"
 
 [[tags]]
 name= "1976年班"
-description = "1976年班的SCP及故事相關頁面。"
+description = "1976年班（Class of '76）的SCP及故事相關頁面。"
 
 [[tags]]
 name= "殆瓦"
-description = "標註在與殆瓦文明相關的頁面上。"
-
-[[tags]]
-name= "廢除部"
-description = "最初出現在SCP-4456中並發展成正式設定之一，應添加於任何帶有直接提及「廢除部」存在或是帶有相關內容的作品中。"
+description = "標註在與殆瓦文明（Daevite）相關的頁面上。"
 
 [[tags]]
 name= "鹿學院"
-description = "標註在與鹿學院相關的頁面上。"
+description = "標註在與鹿學院（Deer College）相關的頁面上。"
 
 [[tags]]
 name= "wondertainment博士"
-description = "標註在與個體或關注組織Wondertainment博士相關的頁面上。"
-
-[[tags]]
-name= "倫理委員會"
-description = "標註在與倫理委員會相關的頁面上。"
+description = "標註在與個體或關注組織Wondertainment博士（Doctor Wondertainment）相關的頁面上。"
 
 [[tags]]
 name= "工廠"
-description = "標註在與關注組織工廠相關的頁面上。"
+description = "標註在與關注組織工廠（The Factory）相關的頁面上。"
 
 [[tags]]
 name= "第五教會"
-description = "標註在與關注組織第五教會相關的頁面上。"
-
-[[tags]]
-name= "民俗部"
-description = "屬於或與基金會的神話學和民俗學部門相關的。"
+description = "標註在與關注組織第五教會（The Fifth Church）相關的頁面上。"
 
 [[tags]]
 name= "反大麻玩家"
-description = "標註在與關注組織反大麻玩家相關的頁面上。"
+description = "標註在與關注組織反大麻玩家（Gamers Against Weed）相關的頁面上。"
+
+[[tags]]
+name= "giftschreiber"
+description = "標註在與關注組織Giftschreiber（毒寫者）相關的頁面上。"
 
 [[tags]]
 name= "全球超自然聯盟"
-description = "標註在與關注組織全球超自然聯盟 (GOC)相關的頁面上。"
+description = "標註在與關注組織全球超自然聯盟（The Global Occult Coalition/GOC）相關的頁面上。"
+
+[[tags]]
+name= "金貝克-萊茨"
+description = "標註在與關注組織金貝克-萊茨（Goldbaker-Reinz Ltd.）相關的頁面上。"
 
 [[tags]]
 name= "金帳軍"
-description = "標註在與金帳軍有關或相關的頁面上。"
+description = "標註在與時空穿梭關注組織金帳軍（The Golden Horde）有關或相關的頁面上。"
 
 [[tags]]
 name= "格雷茨堡"
-description = "標註在與格雷茨堡公司有關或相關的頁面上。"
+description = "標註在與格雷茨堡公司（Greazeburger Incorporated）有關或相關的頁面上。"
 
 [[tags]]
 name= "格魯烏-p部門"
-description = "標註在與關注組織格魯烏〝P〞部門)相關的頁面上。"
+description = "標註在與關注組織格魯烏〝P〞部門（GRU Division 〝P〞）相關的頁面上。"
 
 [[tags]]
 name= "赫曼-富勒"
-description = "標註在與關注組織赫曼•富勒的不安馬戲團 相關的頁面上。"
+description = "標註在與關注組織赫曼•富勒的不安馬戲團（Herman Fuller's Circus of the Disquieting）相關的頁面上。"
 
 [[tags]]
 name= "hmfscp"
-description = "標註在與皇家奇物與異象研究基金會相關的頁面上。"
+description = "標註在與皇家奇物與異象研究基金會（His/Her Majesty's Foundation For The Study of Curiosities and Phantasmagoria）相關的頁面上。"
 
 [[tags]]
 name= "homo-sapiens-sidhe"
-description = "標註在如《來自120的檔案》中所述的與Fae/Homo相關的頁面上。"
+description = "標註在如《來自120的檔案》中所述的與Fae（Homo sapiens sidhe）相關的頁面上。"
 
 [[tags]]
 name= "地平線倡議"
-description = "標註在與關注組織地平線倡議 相關的頁面上。"
+description = "標註在與關注組織地平線倡議（The Horizon Initiative）相關的頁面上。"
 
 [[tags]]
 name= "icsut"
@@ -1302,11 +1322,9 @@ description = "標註在與統一奇蹟學國際研究中心相關的頁面上�
 
 [[tags]]
 name= "ijamea"
-description = "標註在與大日本帝國異常事務調査局相關的頁面上。"
+description = "標註在與大日本帝國異常事務調査局（Imperial Japanese Anomalous Matters Examination Agency）相關的頁面上。"
 
-[[tags]]
-name= "魔法學院"
-description = "標註在與魔法學院相關的頁面上。"
+
 
 [[tags]]
 name= "瑪納慈善基金會"
@@ -3643,8 +3661,13 @@ description = "標註在與相關地點「恋昏崎」有關之頁面。"
 # 德文分部
 
 [[tags]]
+
+[[tags]]
+name= "魔法學院"
+description = "標註在德文分部關注組織「魔法學院」（Die Magierakademie/Mages Academy）相關的頁面上。"
+
 name= "奇物室"
-description = "標註在德文分部關注組織〝奇物室〞的相關頁面上。"
+description = "標註在德文分部關注組織「奇物室」的相關頁面上。"
 
 [[tags]]
 name= "machina"
