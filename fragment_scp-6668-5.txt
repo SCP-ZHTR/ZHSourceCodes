@@ -62,6 +62,9 @@ div.blockquote {
     padding:1px 15px;
     margin: 10px auto;
 }
+
+#page-title{display:none}
+
 [[/module]]
 
 = [[size x-large]]{{ **12:09 PM** }}[[/size]]
@@ -74,8 +77,7 @@ div.blockquote {
 
 @import url(https://d3g0gp89917ko0.cloudfront.net/v--3e3a6f7dbcc9/common--theme/base/css/style.css);
 @import url(https://scp-wiki.wdfiles.com/local--code/component%3Atheme/1);
-@import url("https://nu-scptheme.github.io/Black-Highlighter/css/min/normalize.min.css");
-@import url("https://nu-scptheme.github.io/Black-Highlighter/css/min/black-highlighter.min.css");
+
 </style>
 
 <head>
@@ -105,7 +107,7 @@ $(function () {
       $('#Div-B').show();
 
    },
-   9050
+   20050
 );
   });
 
