@@ -83,17 +83,7 @@
 [[/module]]
 [[/tab]]
 
-[[tab 爬行類動物 -> 爬行類]]
-[[module ListPages separate="yes" perPage="1000" tags="+爬行類動物" order="name" -category="_default"]]
-%%title_linked%% - %%created_by%%
-[[/module]]
-[[/tab]]
 
-[[tab  頭足類動物 -> 頭足類]]
-[[module ListPages separate="yes" perPage="1000" tags="+頭足類動物" order="name" -category="_default"]]
-%%title_linked%% - %%created_by%%
-[[/module]]
-[[/tab]]
 
 [[tab 原創標籤一覽]]
 [[module ListPages separate="no" perPage="100" tags="+scp +原創" order="name" -category="_default"]]
@@ -118,12 +108,16 @@
 [[/tabview]]
 
 備份：
+
+[[collapsible show="開啟" hide="收起"hideLocation="both"]]
+
 本質促動改為現實扭曲
 [[code]]
 [[module ListPages separate="yes" perPage="1000" tags="+本質促動" order="name" -category="_default"]]
 %%title_linked%% - %%created_by%%
 [[/module]]
 [[/code]]
+
 反物理定律 刪除
 [[code]]
 [[collapsible show="原創"]]
@@ -137,6 +131,7 @@
 [[/module]]
 [[/collapsible]]
 [[/code]]
+
 時空->空間影響
 [[code]]
 [[collapsible show="原創"]]
@@ -150,3 +145,19 @@
 [[/module]]
 [[/collapsible]]
 [[/code]]
+
+爬行類動物 -> 爬行類
+[[code]]
+[[module ListPages separate="yes" perPage="1000" tags="+爬行類動物" order="name" -category="_default"]]
+%%title_linked%% - %%created_by%%
+[[/module]]
+[[/code]]
+
+頭足類動物 -> 頭足類
+[[code]]
+[[module ListPages separate="yes" perPage="1000" tags="+頭足類動物" order="name" -category="_default"]]
+%%title_linked%% - %%created_by%%
+[[/module]]
+[[/code]]
+
+[[/collapsible]]
