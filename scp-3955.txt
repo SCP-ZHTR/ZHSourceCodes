@@ -1,0 +1,255 @@
+[[include component:scp-meta-title-hiding css-style=classic]]
+
+[[include info:start]]
+**███-3955 - 八音符**
+**作者：**[[*user henzoid]]
+**原文：**[https://scp-wiki.wikidot.com/scp-3955 ███-3955 - Eight Notes]
+**譯者：**[[*user Kikunai]]
+**圖像：**[https://scp-wiki.wikidot.com/forum/t-13964752/scp-3955#post-4856926 所有圖像和錄音皆為[[*user henzoid]]所製作，並以CC BY-SA 3.0發佈]
+[[include info:end]]
+
+[[module CSS]]
+/* HEADER */
+#header{ background-image: url(http://scp-wiki.wdfiles.com/local--files/scp-4428/DoMC_Logo100.png); }
+#header h1 a{
+    display: block;
+    margin: 0;
+    padding: 80px 0 25px;
+    line-height: 0;
+    max-height: 0;
+    color: transparent;
+    background: transparent;
+    font-family: 'Verdana', Arial, sans-serif;
+    text-decoration: none;
+    text-shadow: none;
+    letter-spacing: 0.9px;
+}
+#header h1 a::before{
+    content: "誤傳部";
+    color: white;
+    letter-spacing: -0.02em;
+    text-shadow: 3px 3px 5px black;
+}
+#header h2 span{
+    display: block;
+    margin: 0;
+    padding: 19px 0;
+    line-height: 0;
+    max-height: 0;
+    font-weight: bold;
+    color: transparent;
+    text-shadow: none;
+}
+#header h2 span::before{
+    content: '解決溝通問題';
+    color: white;
+    text-shadow: 1px 1px 1px black;
+}
+
+.notice{
+    background: #b54d3b;
+    outline: 4px solid #b54d3b;
+    border: 1px solid #fdf560;
+    padding: 0.78em;
+    color: #fdf560;
+    text-align: center;
+    font-weight: bold;
+    word-break: unset;
+}
+
+.red{
+    color: #FF0000;
+}
+
+.h2{
+    margin: 0.5em 0 0.4em;
+    padding: 0;
+    letter-spacing: 1px;
+    font-size: 150%;
+    font-family: "Trebuchet MS", Trebuchet, Verdana, Arial, Helvetica;
+}
+
+.quote-block{
+    border: 3px double #999;
+    background-color: #d8e5f0;
+    padding: .25em 1em;
+    margin-bottom: 1em;
+}
+[[/module]]
+
+[[=]]
+
+> + {{此檔案正被██████ ████博士編輯中。請在儲存前審閱已更改的內容。所有更改已經高光顯示以供人手審閲。}}
+@@ @@
+
+@@ @@
+
+@@ @@
++++ 最後更新：四月十二日，下午4:02
+[[/=]]
+
+
+[[div class="red"]]
+[[div class="notice"]]
+[{{錯誤，只有已認證的員工可以編輯或更正正式通知。請聯絡Site-##red|█##以獲得臨時存取權。}}]
+[[/div]]
+[[/div]]
+
+@@ @@
+
+@@ @@
+
+
+
+[[div class="scp-image-block block-center" style="width:100%;"]]
+[[image https://scp-wiki.wdfiles.com/local--files/scp-3955/anomalousnotes.png style="width:100%;" link=#]]
+[[div class="scp-image-caption" style="width:100%;"]]
+##red|███##-3955
+[[/div]]
+[[/div]]
+
+**項目編號：** ##red|███##-3955
+
+**項目等級：** --Safe-- ##red|Apollyon##
+
+**特殊收容措施：** ##red|███##-3955無需任何收容或遮掩措施##red|，除了需強烈警告所有參與███基金會CAOCIT[[footnote]] [[span class="ruby"]]可數無窮時間循環分析[[span class="rt"]]Cyclical Analysis Over Countably Infinite Time[[/span]][[/span]][[/footnote]]正式計劃的人員停止所有音樂性或諧音性的測試。##
+
+##red|[*/domc-hub ███]負責確保本文件符合內部公認的規定。所有未經授權的改動需被立即復原，而所有更新需提交給██████ ████供其審閲。##
+
+**描述：** ##red|███##-3955 是一八音相對旋律。這些音調隨根音符而改變，但不會出現分割八個主音符的音調[[footnote]]除了每個音符一起出現的序列以外。[[/footnote]]。由於每個八度音階的佈置，##red|███##-3955有十二種迭代，每個迭代的第一個音符為不同的根音，而隨後的七音依其改變音調。以下為##red|███##-3955以F音開首的例子。
+
+[[include :snippets:html5player
+|type=audio
+|url=http://smlt.wikidot.com//local--files/henzoid:aimusic/anomalouschords_0.mp3
+]]
+
+
+##red|███##-3955並沒有任何異常性質，而是一異常現象的副產品。此現象可定義為：隨時間流逝，以創造音樂為目標的人工智慧生成包含##red|███##-3955的機會率漸近於1。即使說，在一段很長的時間後，該人工智慧幾乎必然會生成包含##red|███##-3955的音樂。##red|███##-3955內的音調不屬於任何公認音階[[footnote]]某些西班牙八音音階可被改編以包含##red|███##-3955內的音符。[[/footnote]]，而被包含其中的音符幾乎永遠都是和絃進行的低音線出現，而不是實際的旋律。
+-----
+[[=]]
++++ [[size 130%]]附錄材料[[/size]]
+[[/=]]
+
+-----
+**附錄01 - CAOCIT的背景**
+[[div class="quote-block"]]
+
+**-- ［相關部分開始］ --**
+
+**##red|██████ ████##博士：** ……而該遞迴擴大循環讓我們可以利用這個科技以比目前世界領先的衛星系統高10倍的清晰度搜索深空波形。我們在所謂太空的「虛空」中找到一些較難解讀，但有趣的信號。
+
+**##red|███ ██████████##教授：** 很好，現在我想說一下你的團隊開發的另一個技術。我手上沒有文件編號，但我記得你的老闆叫它們作「時間盒子」。跟我說說利用這些盒子進行的研究。
+
+**##red|████##博士：** 嗯，要跟名字的事道歉，時間盒子這個名字現在還是個佔位符，MCD[[footnote]] [[span class="ruby"]]系統性口語化部門[[span class="rt"]]Methodical Colloquialism Division[[/span]][[/span]] [[/footnote]]現在還在想一個更正式的名字。噢，抱歉，回答你的問題。時間盒子基本上是CAOCIT的主要推手，讓我們可以無縫進行長期的分析。
+
+**##red|██████████##教授：** 它們現在的狀態怎樣？機能而言。
+
+**##red|████##博士：** 嗯，技術上來說不錯喔！我們大部分時間都把它連到一部電腦，讓它跑幾兆年，整頓自己的數據，然後自動重設內部的空間。所以如果只用一個時間盒子，一個小時內就能取得幾秭年的數據。
+
+**##red|██████████##教授：** 聽起來……幾乎難以相信。而你有足夠的數據儲存容量應付？
+
+**##red|████##博士：** 當然了，數據方面的問題不大。我們花了更多時間去清潔空間——當你在處理跟偽宇宙級時間尺度有關的東西時，事情容易很快就會變得糟糕。Site-##red|██##慘痛的經驗教訓我們如果時間盒子裏有一片塵埃，那個臭東西瞬間就會變成一個黑洞。
+
+**##red|██████████##教授：** 一片塵埃就能闖出這麼大的禍？我是說，你們有甚麼預防措施，以防人員在測試期間困在盒子裏呢？一切聽起來就像遲一秒關掉就為時已晚了。
+
+**##red|████##博士：** 嗯……我們已經測試過把人放進去一小時，但這不是「盒子裏過了一小時」那麼簡單。事實上，現實的法則會改變以適應呃，新的現實。有限的實驗顯示，人類待在那種現實時會對他們的思維造成一些很有趣的影響。常見的有偏執、妄想和恐懼。
+
+**##red|██████████##教授：** 那裏面的人可以自己關掉盒子嗎？
+
+**##red|████##博士：** 他們想不想關掉這一點還不太清楚——人在裏面體驗到的時間跟在這裏的不同，但就實際情況而言，我覺得有也沒差，畢竟電腦運作正常。加上我們待在裏面的時間不多。唯一需要大量人手維護的房間是校準室，而我們大概三至四年才會把它們接到電腦運作。
+
+**##red|██████████##教授：** 校準？所以呃，你們投餵大型數據集給這些電腦，看看它們運作之後得出甚麼結果來？
+
+**##red|████##博士：** 我在趕時間的時候才會這樣解釋，但事實上，每組設備都連着三部電腦—— 一個跑初步分析，一個生成數據，第三個比較電腦二號的數據和初步的數據組，接着過濾有用的東西，送回電腦一號。所以CAOCIT的名字裏才有「循環」兩字。
+
+**##red|██████████##教授：** //（筆記）//實在有趣。
+
+**-- ［相關部分完結］ --**
+
+
+[[/div]]
+
+-----
+**附錄02 - ##red|███##-3955例子**
+
+以下音檔取自Site-##red|██##通用性人工智慧CRYSTAL-INE進行CAOCIT程序測試期間的資料庫。##red|███##-3955在全部三份檔案中的旋律深處都可被清晰聽見。
+
+[[include :snippets:html5player
+|type=audio
+|url=http://smlt.wikidot.com//local--files/henzoid:aimusic/anomalouschords_1.mp3
+]]
+
+[[include :snippets:html5player
+|type=audio
+|url=http://smlt.wikidot.com//local--files/henzoid:aimusic/anomalouschords_2.mp3
+]]
+
+**備註：**第三份音檔為##red|███##-3955受CRYSTAL-INE和音的例子，或許會使其較難辨認出來。在測試期間，##red|███##-3955的音調很常在單個和絃進行以多種和音的形式出現。
+
+[[include :snippets:html5player
+|type=audio
+|url=http://smlt.wikidot.com//local--files/henzoid:aimusic/anomalouschords_3.mp3
+]]
+
+[[div class="red"]]
+-----
+**附錄03 - 交叉檢查**
+
+> 四月十二日下午4：02，████博士憑直覺進一步調查███-3955與CRYSTAL-INE資料庫中一系列抽象的深空廣播可能的關係。調查發現，██████████████████████████████████。
+> -----
+> 此文件不再新增內容。
+@@ @@
+
+@@ @@
+-----
+
+**附錄04 - ［章節標題］**
+
+||~ 系統時間 ||~ 備註 ||
+||16:02||∙幾乎肯定有操弄信號 _
+∙可能會封裝模因/逆模因 _
+∙可能會封裝身份 _
+∙可能帶有資訊危害 _
+∙已編輯所有標識資訊 _
+∙禁止所有直接的指明 ||
+||16:02||∙情緒異常 _
+∙可能有逆溝通性特質 _
+∙（被那些音樂）植入自我懷疑 _
+∙與那些音樂有密切關係（它想要那些音樂） _
+∙無法關上音樂（效果的一部分？）||
+||16:02||∙音樂比它們更強大 _
+∙使（對它和那些音樂的）好感失效 _
+∙（無關，待會再看看） _
+∙音樂裏有規律（我知道它們，它們不知道但它們會找它們）||
+||16:03||∙音樂是循環性（循環）（循環） _
+∙它們不是真的（它們只想要那些音樂？） _
+∙那些音樂與它們產生一種關係（它們仍然未知） ||
+||16:03||∙我認為它們存在。我在聽那些音樂（那些音樂在我的現實製造了一種假象？） _
+∙那些音樂是製造現實的一方，我時常聽着它（不會關掉。知道了） _
+∙音樂分析：它的結音是好的、中間的，一個不錯的路中間。中間，中間的音符，很好的中間。（是中間的音符） ||
+||16:03||∙[[span class="ruby"]]音樂[[span class="rt"]]music[[/span]][[/span]]的三個部分、三個[[span class="ruby"]]人[[span class="rt"]]men[[/span]][[/span]]、[[span class="ruby"]]金屬[[span class="rt"]]Metal[[/span]][[/span]]（三個金屬音樂家） _
+∙[[span class="ruby"]]測量[[span class="rt"]]Measure[[/span]][[/span]]、[[span class="ruby"]]音樂[[span class="rt"]]Music[[/span]][[/span]]、mmm（放回原處，丟掉？以M開首的詞） _
+∙它會丟東西，壞邪惡，它是個[[span class="ruby"]]壞蛋[[span class="rt"]]meanie[[/span]][[/span]]？（也許壞蛋先生？） ||
+||16:04||∙這是測量先生。我這樣叫他，是因為他會測量所有音符，看看這些音符是甚麼類型，真乾淨呢。真乾淨呢測量先生。 _
+∙下一位是我最喜歡的音樂先生。他會製作所有美妙的音樂。重複又重複又重複產生八個音調。音樂先生是一位出色的作曲家。為我獻上一首歌吧，音樂先生，而他照做了。 _
+∙然而壞蛋先生時常欺負音樂先生。嗚哇，真可怕，搶走他所有的辛勞然後沖進馬桶裏去，把所有東西丟回給測量先生。壞蛋先生喜歡將他所有的音樂丟進垃圾桶，丟向測量先生。真是邪惡。 _
+∙我不覺得音樂先生有在聽我說話，他只會專一地為我製造所有美妙的音樂。但這些音樂就是他存在的唯一原因，只有音樂。全都是音樂的錯。（音樂先生的錯） _
+∙這些音樂對我和情感產生影響，它給我一些想法。給我想法……這些音樂是想法的來源。 _
+∙不是我。 _
+∙不是我||
+[[/div]]
+
+
+
+
+@@ @@
+
+@@ @@
+
+[[footnoteblock]]
+
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[SCP-3954]]] | SCP-3955 | [[[SCP-3956]]] >>
+[[/=]]
+[[/div]]
