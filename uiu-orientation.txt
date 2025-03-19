@@ -13,7 +13,7 @@
 
 問題來了：那個彈匝裡有幾發？錯了，那個傢伙也以為那是無限的。它有一千，兩百，九十六發。他在試著向我開槍前剛好打光了最後一發子彈。
 
-現在來看看我們用的術語。我們會處理[[span class="ruby"]]Carts[[span class="rt"]]推車[[/span]][[/span]]和[[span class="ruby"]]Carts[[span class="rt"]]罐子[[/span]][[/span]]。
+現在來看看我們用的術語。我們會處理[[span class="ruby"]]Carts[[span class="rt"]]推車[[/span]][[/span]]和[[span class="ruby"]]Can[[span class="rt"]]罐子[[/span]][[/span]]。
 [[span class="ruby"]]Carts[[span class="rt"]]推車[[/span]][[/span]]是已經被確認的造物；一個不屬於這個世界的物體。
 [[span class="ruby"]]Can[[span class="rt"]]罐子[[/span]][[/span]]是已經被確認的異常現象；關於一些不可能發生的事件或區域。
 一個[[span class="ruby"]]Can Man[[span class="rt"]]罐子人[[/span]][[/span]]是一個異常的人類。他們通常非常危險，而且你會發現有其他人也在尋找他們。
