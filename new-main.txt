@@ -1,0 +1,97 @@
+[!-- This image acts as a thumbnail.  --]
+[[image https://scp-wiki.wdfiles.com/local--files/main/logo_250.png width="0" height="0"]]
+
+[[include fragment:front-page-gridcode]]
+
+[!-- THIS IS THE HEADER: IT HAS THE CLASSIFIED HEADER, THE CONTEST BANNER, AND THE SURVEY LINK. PLEASE USE THE APPROPRIATE TOGGLES: classified, contest, and survey and surveylink. THE CLASSIFIED HEADER AND CONTEST BANNER SHOULD NOT BE ON AT THE SAME TIME, BUT THE SURVEY CAN COEXIST WITH EITHER. --]
+
+[[include :scp-wiki:fragment:front-page-header
+|contest=--]
+]]
+
+[[div class="grid"]]
+
+[[include fragment:front-page-news-bulletin
+|date1=March 1st
+|blurb1=This month's site news announces the spring cleaning event, and that there's an international contest coming up! Read it [https://scp-wiki.wikidot.com/news-03-2025 here!]
+]]
+
+[[include fragment:front-page-features
+[!-- SCP FEATURE --]
+|scpslug=https://scp-wiki.wikidot.com/scp-8598
+|scptitle=SCP-8598: The Sharpshooter
+[!-- ADD A SPACE AT THE END OF THE AUTHOR(S) --]
+|scpby=[[user PlaguePJP]]
+|scpselector=PlaguePJP
+|scpblurb=SCP-8598 is professional wrestler and reality bender Gary Moreno.
+
+[!-- TALE FEATURE --]
+|taleslug=https://scp-wiki.wikidot.com/hellevator
+|taletitle=Don't Use Sector-02's Elevator
+[!-- ADD A SPACE AT THE END OF THE AUTHOR(S) --]
+|taleby=[[user ubergoober]]
+|taleselector=Staff
+|taleblurb=Also, just between us, don't use Sector-02's elevator. Doing you a favor.
+
+[!-- GOI FORMAT FEATURE --]
+|goislug=https://scp-wiki.wikidot.com/critter-profile-pothole
+|goititle=Critter Profile: Pothole!
+[!-- ADD A SPACE AT THE END OF THE AUTHOR(S) --]
+|goiby=[[user Queerious]]
+|goiselector=Staff
+|goiblurb=The migration patterns of pavement rain frogs are believed to cause 60% of all potholes in the continental United States — and that's why we called him Pothole!
+
+[!-- REVIEWER'S SPOTLIGHT --]
+|rsslug=https://scp-wiki.wikidot.com/scp-8725
+|rstitle=SCP-8725: Loss, Erasure, Finding Oneself
+[!-- ADD A SPACE AT THE END OF THE AUTHOR(S) --]
+|rsby=[[user Uncle Nicolini]]
+|rsselector=fairydoctor
+|rsblurb=Everwood: But I am only helping you out of basic human decency. You would do the same for me, right?
+]]
+
+[[include fragment:front-page-artist-showcase
+|artblurb=rottingraisins, Fenmoth, JohnnoDwarf
+
+[!-- SLIDESHOW IMAGE URLS. IF IT'S ONLY ONE IMAGE STICK IT IN ALL THREE--]
+
+|art1url= https://64.media.tumblr.com/4fba9b814dbf3f593e31af98f04b8741/5182bea2cd86a10c-c5/s1280x1920/79a085d8a6a4c86c5cde1e27dd7c527969c39e12.pnj
+
+|art2url= https://i.imgur.com/aZzi4A9.gif
+
+|art3url= https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5bb8db6d-0550-411b-a51e-24b51e9b6cf0/di47q9e-2d944854-1841-44d7-b2a3-098459e16d70.png/v1/fill/w_1280,h_1842,q_80,strp/scp_6668_by_johnnodwarf_di47q9e-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTg0MiIsInBhdGgiOiJcL2ZcLzViYjhkYjZkLTA1NTAtNDExYi1hNTFlLTI0YjUxZTliNmNmMFwvZGk0N3E5ZS0yZDk0NDg1NC0xODQxLTQ0ZDctYjJhMy0wOTg0NTllMTZkNzAucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ._o2a1us5v0WoDHMSVHVdKnJ5ZjkBXp4j9qVlorWNCGA ]]
+
+[[/div]]
+
+~~~~
+----
+[[include :scp-wiki:fragment:wl-front-page-box |css=--]]]
+[[include :scp-wiki:fragment:wl-front-page-box |div=--]
+|URL=https://wanderers-library.wikidot.com/
+|URL-Title=Wanderers' Library
+|img-URL=https://wanderers-library.wdfiles.com/local--files/component%3Atheme/wl_logo.png
+|top-h4=Official Sister Site
+|top-h2=The Wanderer's Library
+|text=The Wanderer's Library features the endless fantastical stories contained within the Library, home to the Serpent's Hand and readers of all shapes and sizes. Stories should inspire Wonder - a sense that there is a larger world beyond the one we know.
+]]
+[[include :scp-wiki:fragment:front-page-international-branches]]
+[[=]]
+[[include :scp-wiki:component:license-box
+|author=The SCP Foundation Wiki]]
+> **Name:** Sigma-10 CSS Theme
+> **Maintainer:** Technical Team
+> **License:** CC BY-SA 3.0
+> **Source Link:** [[[theme:site|Site Theme]]]
+> **Additional Notes:** Based on
+> ----
+> **Name:** Sigma-9 CSS Theme
+> **Author:** [[*user Aelanna]]
+> **License:** CC BY-SA 3.0
+> **Source Link:** [[[component:theme|]]]
+
+> **Name:** header-logo.svg, body_bg.svg
+> **Author:** [[*user dr_grom]]
+> **License:** CC BY-SA 3.0
+> **Source Link:** [https://github.com/Grombald/Common-Theme GitHub]
+[[include :scp-wiki:component:license-box-end]]
+[[/=]]
