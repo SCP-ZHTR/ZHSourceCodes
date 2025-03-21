@@ -11,12 +11,12 @@
 
 [[div class="grid"]]
 
-[[include fragment:front-page-news-bulletin
+[[include fragment:new-front-page-news-bulletin
 |date1=March 1st
 |blurb1=This month's site news announces the spring cleaning event, and that there's an international contest coming up! Read it [https://scp-wiki.wikidot.com/news-03-2025 here!]
 ]]
 
-[[include fragment:front-page-features
+[[include fragment:new-front-page-features
 [!-- SCP FEATURE --]
 |scpslug=https://scp-wiki.wikidot.com/scp-8598
 |scptitle=SCP-8598: The Sharpshooter
