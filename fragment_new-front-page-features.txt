@@ -1,0 +1,95 @@
+[[div class="box feature1box"]]
+[[div class="title"]]
+SCP 作品展出
+[[/div]]
+
+[[div class="feature"]]
+++ [[[{$scpslug}| {$scptitle}]]]
+[[span class="feature-subtitle"]]by {$scpby}[[/span]] | [[span class="feature-subsubtitle"]]Selected by {$scpselector}[[/span]]
+
+[[span class="feature-blurb"]]{$scpblurb}[[/span]]
+[[/div]]
+
+[[div class="footer"]]
+@@>>@@ [https://scp-wiki.wikidot.com/featured-scp-archive-iii Archived SCP Features]
+[[/div]]
+[[/div]]
+
+[[div class="box feature2box"]]
+[[div class="title"]]
+故事展出
+[[/div]]
+
+[[div class="feature"]]
+++ [[[{$taleslug}| {$taletitle}]]]
+[[span class="feature-subtitle"]]by {$taleby}[[/span]] | [[span class="feature-subsubtitle"]]Selected by {$taleselector}[[/span]]
+
+[[span class="feature-blurb"]]{$taleblurb}[[/span]]
+[[/div]]
+
+[[div class="footer"]]
+@@>>@@ [https://scp-wiki.wikidot.com/featured-tale-archive-ii Archived Tale Features]
+[[/div]]
+[[/div]]
+
+
+[[div class="box feature3box"]]
+[[div class="title"]]
+翻譯展出
+[[/div]]
+
+[[div class="feature"]]
+++ [[[{$goislug}| {$goititle}]]]
+[[span class="feature-subtitle"]]by {$goiby}[[/span]] | [[span class="feature-subsubtitle"]]Selected by {$goiselector}[[/span]]
+
+[[span class="feature-blurb"]]{$goiblurb}[[/span]]
+[[/div]]
+
+[[div class="footer"]]
+@@>>@@ [https://scp-wiki.wikidot.com/featured-goi-format-archive Archived GoI Features]
+[[/div]]
+[[/div]]
+
+[[div class="box feature4box"]]
+[[div class="title"]]
+綜合展出
+[[/div]]
+
+[[div class="feature"]]
+++ [[a href="{$rsslug}"]]{$rstitle}[[/a]]
+[[span class="feature-subtitle"]]by {$rsby}[[/span]] | [[span class="feature-subsubtitle"]]Selected by {$rsselector}[[/span]]
+
+[[span class="feature-blurb"]]{$rsblurb}[[/span]]
+[[/div]]
+
+[[div class="footer"]]
+@@>>@@ [https://scp-wiki.wikidot.com/reviewers-spotlight-archive-iii Archived Spotlights]
+[[/div]]
+[[/div]]
+
+
+[[module CSS]]
+/* *** FEATURES *** */
+
+.feature {
+    padding: 0px 10px;
+}
+
+.feature h2 {
+    font-weight: bold;
+    margin-bottom: -10px;
+}
+
+.feature-subtitle {
+    font-size: 90%;
+}
+
+.feature-subsubtitle {
+    font-size: 85%;
+    font-style: italic;
+}
+
+.feature-blurb {
+    font-style: italic;
+}
+[[/module]]

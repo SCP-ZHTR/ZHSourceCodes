@@ -16,39 +16,7 @@
 |blurb1=This month's site news announces the spring cleaning event, and that there's an international contest coming up! Read it [https://scp-wiki.wikidot.com/news-03-2025 here!]
 ]]
 
-[[include fragment:new-front-page-features
-[!-- SCP FEATURE --]
-|scpslug=https://scp-wiki.wikidot.com/scp-8598
-|scptitle=SCP-8598: The Sharpshooter
-[!-- ADD A SPACE AT THE END OF THE AUTHOR(S) --]
-|scpby=[[user PlaguePJP]]
-|scpselector=PlaguePJP
-|scpblurb=SCP-8598 is professional wrestler and reality bender Gary Moreno.
-
-[!-- TALE FEATURE --]
-|taleslug=https://scp-wiki.wikidot.com/hellevator
-|taletitle=Don't Use Sector-02's Elevator
-[!-- ADD A SPACE AT THE END OF THE AUTHOR(S) --]
-|taleby=[[user ubergoober]]
-|taleselector=Staff
-|taleblurb=Also, just between us, don't use Sector-02's elevator. Doing you a favor.
-
-[!-- GOI FORMAT FEATURE --]
-|goislug=https://scp-wiki.wikidot.com/critter-profile-pothole
-|goititle=Critter Profile: Pothole!
-[!-- ADD A SPACE AT THE END OF THE AUTHOR(S) --]
-|goiby=[[user Queerious]]
-|goiselector=Staff
-|goiblurb=The migration patterns of pavement rain frogs are believed to cause 60% of all potholes in the continental United States — and that's why we called him Pothole!
-
-[!-- REVIEWER'S SPOTLIGHT --]
-|rsslug=https://scp-wiki.wikidot.com/scp-8725
-|rstitle=SCP-8725: Loss, Erasure, Finding Oneself
-[!-- ADD A SPACE AT THE END OF THE AUTHOR(S) --]
-|rsby=[[user Uncle Nicolini]]
-|rsselector=fairydoctor
-|rsblurb=Everwood: But I am only helping you out of basic human decency. You would do the same for me, right?
-]]
+[[include fragment:new-front-page-features]]
 
 [[include fragment:front-page-artist-showcase
 |artblurb=rottingraisins, Fenmoth, JohnnoDwarf
