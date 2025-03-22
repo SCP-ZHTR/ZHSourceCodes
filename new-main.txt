@@ -16,8 +16,11 @@
 |blurb1=This month's site news announces the spring cleaning event, and that there's an international contest coming up! Read it [https://scp-wiki.wikidot.com/news-03-2025 here!]
 ]]
 
+[[include fragment:main-page-rss]]
+
 [[include fragment:new-front-page-features]]
 
+[!--
 [[include fragment:front-page-artist-showcase
 |artblurb=rottingraisins, Fenmoth, JohnnoDwarf
 
@@ -28,7 +31,7 @@
 |art2url= https://i.imgur.com/aZzi4A9.gif
 
 |art3url= https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5bb8db6d-0550-411b-a51e-24b51e9b6cf0/di47q9e-2d944854-1841-44d7-b2a3-098459e16d70.png/v1/fill/w_1280,h_1842,q_80,strp/scp_6668_by_johnnodwarf_di47q9e-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTg0MiIsInBhdGgiOiJcL2ZcLzViYjhkYjZkLTA1NTAtNDExYi1hNTFlLTI0YjUxZTliNmNmMFwvZGk0N3E5ZS0yZDk0NDg1NC0xODQxLTQ0ZDctYjJhMy0wOTg0NTllMTZkNzAucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ._o2a1us5v0WoDHMSVHVdKnJ5ZjkBXp4j9qVlorWNCGA ]]
-
+--]
 [[/div]]
 
 ~~~~

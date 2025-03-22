@@ -154,6 +154,12 @@ div.art {
     -ms-grid-column-span: 3;
     grid-area: art;
 }
+div.origrss{
+    grid-area: origrss;
+}
+div.transrss{
+    grid-area: transrss;
+}
 
 
 /* *** MOBILE *** */

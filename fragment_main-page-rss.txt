@@ -1,0 +1,37 @@
+[[div class="box origrss"]]
+[[div class="title"]]
+最新原創
+[[/div]]
+
+[[div class="content-type-description"]]
+
+[[module ListPages tags="原創" order="created_at desc" limit="10" separate="false"]]
+|| %%title_linked%% ||
+[[/module]]
+
+[[/div]]
+
+[[div class="footer"]]
+最新原創詞條一覽
+[[/div]]
+
+[[/div]]
+
+[[div class="box transrss"]]
+[[div class="title"]]
+最新翻譯
+[[/div]]
+
+[[div class="content-type-description"]]
+
+[[module ListPages tags="翻譯" order="created_at desc" limit="10" separate="false"]]
+|| %%title_linked%% ||
+[[/module]]
+
+[[/div]]
+
+[[div class="footer"]]
+最新翻譯詞條一覽
+[[/div]]
+
+[[/div]]
