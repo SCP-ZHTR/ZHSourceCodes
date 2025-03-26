@@ -956,7 +956,7 @@ Site-ZH-96前台為位於偏僻地區的[已編輯]療養院所。實質上也�
 位於火星太空軌道之空間站，為了收容[[[SCP-ZH-666]]]而設立，周圍區域的管制等級為最高。
 已被報銷。
 @@ @@
-[[include component:area name=Area-ZH-42|number=42|c0=#630|subtitle=Research Area 42]]
+[[include component:area name=Area-ZH-42|number=42|c0=#630|subtitle=（Research Area 42）]]
 位於英國約克郡西北部的特殊研究區，作風隱蔽。研究項目有[[[SCP-ZH-986]]]和[[[SCP-ZH-792]]]。相關故事包括[/attempt-of-type-green-and-bluenullification-via-aether-rewea 重新編織乙太質以無效化綠型和藍型異常性質之嘗試]。
 @@ @@
 [[include component:area name=Area-ZH-73|number=73|c0=#630|subtitle=(Research Area 73E) ]]
