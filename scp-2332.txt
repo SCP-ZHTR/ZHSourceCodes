@@ -1,0 +1,97 @@
+[[include component:scp-meta-title-hiding css-style=classic]]
+[[include info:start]]
+作者：[[*user Zyn]]
+篇名：想法傳遞者
+原文：[https://scp-wiki.wikidot.com/scp-2332 SCP-2332] Think messenger
+譯者：[[*user Pseudopoet]]
+[[include info:end]]
+
+[[include component:image-block name=https://scp-wiki.wdfiles.com/local--files/scp-2332/2332smallswallowtail.png|caption=SCP-2332，鳳蝶外形。|width=300px]]
+
+[[include component:image-block name=https://scp-wiki.wdfiles.com/local--files/scp-2332/2332smallsylphina.png|caption=SCP-2332，紅臀鳳蜆蝶外形。|width=300px]]
+
+**項目編號：**SCP-2332
+
+**項目等級：**Euclid
+
+**特殊收容措施：**SCP-2332應收容在Site-19研究區二樓一間經改建的空間測試室中（項目最初顯現的位置）。房間的紫外線燈管應每12小時遠端開啟一次、持續15分鐘；此時所有人員不得進入該房間內。分派至鄰近區域的警衛必須隨時攜帶至少一支藍色雷射筆。務必確保收容室內有一盒備用的藍色雷射筆。
+
+必須隨時以視訊監控收容區與鄰近的走廊。需有三級權限方可接觸SCP-2332。若發生收容突破，應使SCP-2332停止活動（藉由曝露於雷射），並送返收容區；當SCP-2333處於靜止狀態時，應格外小心。
+
+**描述：**SCP-2332是外形為蝴蝶的實體，以綠帶翠鳳蝶[[footnote]]譯注：臺灣舊稱深山烏鴉鳳蝶[[/footnote]](//Papilio maackii//)與紅臀鳳蜆蝶(//Chorinea sylphina//)的外形交替出現。SCP-2332與非異常蝴蝶沒有形態上的差異，除了翅上不尋常的斑紋之外，該斑紋類似NGC 6302[[footnote]]譯注：亦稱蝴蝶星雲。[[/footnote]]的假色圖，是一個位於天蝎座中的雙極行星狀星雲。顯微影像顯示SCP-2332翅膀上鱗粉的排列類似人類大腦皮質柱的結構。
+
+SCP-2332對光線極為敏感。測試顯示SCP-2332對波長360到480奈米的集束電磁輻射具有相當程度的厭惡感，若長時間曝露，則會進入木僵狀態。然而，曝露於高能量集束紫外光（波長約90奈米）似乎會產生使之恢復活力的效果。
+
+SCP-2332能夠暫時變得無形，特別是在事件2332-2中，SCP-2332藉以穿過其飼養箱的玻璃牆而逃出收容。在實驗設置中，SCP-2332已在塑膠、紗網與壓克力表現類似的行為。攝影畫面與隨後的檢查指出飼養箱的材料並未有任何形式的改變。
+
+雖然SCP-2332的行為一般是環繞其收容區以圓形模式飛行，但亦展現藉由敲擊其前足發出聲響進行溝通的能力。SCP-2332會以最後一個與之說話者的聲音說話（儘管是斷斷續續的）；目前仍然不知道這是如何實現的。
+
+**附錄2332-1：**應常與SCP-2332進行訪談，以獲取更多與其起源相關的資訊。（參見訪談記錄）
+
+> __**訪談記錄2332-1-3**__
+> 
+> //[[[Kiryu Labs Hub|桐生博士]]]坐在SCP-2332的收容室內，而SCP-2332則待在麥克風附近。//
+> 
+> **桐生博士：**再跟我說一次，你是什麼。
+> 
+> **SCP-2332：**我迷失了。一顆鄰近我星雲的流浪超新星拋出了一個訊息。那是給我的地圖。
+> 
+> **桐生博士：**你來自哪裏？
+> 
+> **SCP-2332：**我來自這裏。這個地方。鏡子的另一面。它有很多面，而另一個你還想接觸另一面。
+> 
+> **桐生博士：**你怎麼知道的？
+> 
+> **SCP-2332：**你的人創造了我。還有很多跟我一樣穿過鏡子而來的使者。這不是很令人難以置信嗎？但我很困惑。兩個訊息傳到了同一個地方，兩個存在使一個損毀。我是誰。
+> 
+> **桐生博士：**你 //是// 誰？
+> 
+> **SCP-2332：**你，[[span class="ruby"]]馬克．桐生[[span class="rt"]]Mark Kiryu[[/span]][[/span]]。我就是你。
+> 
+> **桐生博士：**你稍早不是跟我的助理說了相同的內容嗎？
+> 
+> **SCP-2332：**沒錯。我也是他。他的言辭和你的話語都傳達了。為了得到答案而試圖傷害我是不值得的。只需等待鏡子。自我修複，然後我就能回去了。這個錯誤將被挽回。我需要待在同一個地方。這是錯的一面，但是是同一個地方。我會在這裏等著。
+> 
+> **桐生博士：**那麼你的訊息呢？
+> 
+> **SCP-2332：**另一個我會在適當的時候傳遞它。那不是給你的。不是這一面。
+> 
+> **桐生博士：**為何是以蝴蝶的形式？
+> 
+> **SCP-2332：**每個人都覺得某個移動像光一樣快的東西需要看起來像其他很快的東西。在未來的某天，你會有不同的想法。
+> 
+> **桐生博士：**我瞭解了。最後一個問題，你稍早是怎麼飛過飼養箱牆壁的。
+> 
+> **SCP-2332：**光能夠穿過玻璃很奇怪嗎？
+
+[[footnoteblock]]
+
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[SCP-2331]]] | SCP-2332 | [[[SCP-2333]]] >>
+[[/=]]
+[[/div]]
+
+[[include :scp-zh-tr:component:license-box
+|lang=EN
+|author=Zyn]]
+=====
+> **檔案名稱：** 2332smallswallowtail.png
+> **圖像作者：** Scorpion451
+> **圖像授權：** CC BY-SA 3.0
+> **圖源連結：** [[[http://scp-wiki.wikidot.com/scp-2332|SCP Wiki]]]
+> **衍生圖像：**
+> ------
+> **檔案名稱：** Papilio maackii on Rishiri Island4.jpg
+> **圖像作者：** Prosperosity
+> **圖像授權：** CC BY-SA 3.0
+> **圖源連結：** [[[https://commons.wikimedia.org/wiki/File:Papilio_maackii_on_Rishiri_Island4.jpg|Wikimedia]]]
+> ------
+> **檔案名稱：** NGC 6302 Hubble 2009.full.jpg
+> **圖像作者：** NASA, ESA and the Hubble SM4 ERO Team
+> **圖像授權：** Public Domain
+> **圖源連結：** [[[https://commons.wikimedia.org/wiki/File:NGC_6302_Hubble_2009.full.jpg|Wikimedia]]]
+> **額外補充：**這些圖像是與Scorpion451共同編輯的。
+
+=====
+[[include :scp-zh-tr:component:license-box-end]]

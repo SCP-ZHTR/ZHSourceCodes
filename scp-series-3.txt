@@ -366,7 +366,7 @@
 * [[[SCP-2329]]] - ...But Nobody's Home
 * [[[SCP-2330]]] - A Convincing Whiteboard
 * [[[SCP-2331]]] - **//SCRAVECROW//**
-* [[[SCP-2332]]] - Thought Messenger
+* [[[SCP-2332]]] - 思想傳遞者
 * [[[SCP-2333]]] - One Week To Live
 * [[[SCP-2334]]] - Every Possible Photograph
 * [[[SCP-2335]]] - The Filmmaker
