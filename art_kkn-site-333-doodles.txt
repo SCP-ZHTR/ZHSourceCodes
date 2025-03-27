@@ -1,0 +1,157 @@
+[[include theme:black-highlighter-theme]]
+[[include :scp-wiki:component:centered-header-bhl]]
+[[include :scp-wiki:component:toggle-sidebar-bhl]]
+[[module CSS]]
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,900;1,900&display=swap');
+
+:root:lang(zh){
+    --logo-image: url("http://scpdsandbox.wdfiles.com/local--files/site-333/At3.png");
+    --header-title: "SITE-333";
+    --header-subtitle: "天上人間";
+    --header-font: 'Playfair Display', serif;
+    --title-font: 'Playfair Display', serif;
+    --body-font: 'Telex', sans-serif;
+    --bright-accent: 0, 109, 255;
+    --medium-accent: 0, 63, 197;
+    --dark-accent: 0, 22, 142;
+
+    --link-color: var(--medium-accent);
+}
+
+#extra-div-1 {
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 10rem;
+    background-image: url("http://scpdsandbox.wdfiles.com/local--files/site-333/PanoRam2.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: repeat-x;
+    pointer-events: none;
+}
+
+#extra-div-2 {
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 10rem;
+    background: linear-gradient(0deg, rgba(0, 109, 255,1) 35%, rgba(204, 226, 255) 97%);
+    pointer-events: none;
+    opacity: 0.40;
+}
+
+#extra-div-3 {
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 10rem;
+    background-image: url("http://scptestwiki.wdfiles.com/local--files/undervegas/dicegold.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: repeat-x;
+    pointer-events: none;
+    opacity: 0.65;
+
+}
+
+#header::before {
+    left: 0.5rem;
+    background-position: center -0.5rem;
+    opacity: 1;
+}
+
+#header h1, #header h2 {
+    margin: 1.7rem 0;
+}
+
+}
+.table2 {
+    --accentColor: rgb(40, 135, 189);
+}
+.custom2 .wiki-content-table {
+    width: 100%;
+}
+
+#header::before {
+    left: 0.5rem;
+    background-position: center -0.5rem;
+    opacity: 1;
+}
+
+#header h1, #header h2 {
+    margin: 1.7rem 0;
+}
+[[/module]]
+
+[[include info:start]]
+**Site-333角色塗鴉**
+**作者：**[[*user Kikunai]]
+**原文：**[https://scp-wiki.wikidot.com/art:kkn-site-333-doodles Site-333 character doodles]
+**譯者：**[[*user Kikunai]]
+[[include info:end]]
+@@ @@
+
+[[div class="scp-image-block block-center" style="width:100%;"]]
+[[=image https://i.imgur.com/D6e6Oze.png width="100%"]]
+[[div class="scp-image-caption" style="width:100%;"]]
+[*https://scp-wiki.wikidot.com/art:kikunai-s-2023-art-exchange-gifts 在2023年藝術交換中給dododevil製作]的角色參考圖，因為不知名原因沒丟上維基
+[[/div]]
+[[/div]]
+[[div class="blockquote"]]
+**譯註：**
+※ 藝術交換的角色設計參考圖
+##cadetblue|*請忽視我的私設筆記 我只是覺得它們蠻好笑所以就放在這裏##
+----
+**Vincent Bohart** ##cadetblue|（我最不會尊重的傢伙）##  ##DDDDDD|--點讚以拍打他的光頭分享以拍打他的光頭--##
+##cadetblue|站點裏比較好（即：不是塑膠）的椅子##
+**Tony Catalano**
+##cadetblue|（我沒私設抱歉）##
+**Leonora Morales**
+##cadetblue|我敢肯定大西洋城裏沒有猛禽 但她每天都會戴着［獵鷹手套］##
+**Noah Patel**
+##cadetblue|［幫他鑽孔的人］用訂書機把他的皮膚釘回去的技術很差 之後的那個星期皮膚就掉下來了 所以他們又把它釘回去##
+##cadetblue|結果［洞］不會發炎所以他沒再把皮膚釘回去 讓洞口暴露到空氣之中##
+[[/div]]
+@@ @@
+
+[[div class="scp-image-block block-center" style="width:100%;"]]
+[[=image https://i.imgur.com/Oir961p.png width="100%"]]
+[[div class="scp-image-caption" style="width:100%;"]]
+Vincent Bohart，他在[[[SCP-7769]]]事件後的愛車，還有打擾他吃飯的[[[SCP-7529]]]
+[[/div]]
+[[/div]]
+@@ @@
+[[div class="scp-image-block block-center" style="width:100%;"]]
+[[=image https://i.imgur.com/YD0o9DX.png width="100%"]]
+[[div class="scp-image-caption" style="width:100%;"]]
+Noah Patel的博物館禮品店，幫[[[SCP-7529]]]剪趾甲的Leonora Morales和正在工作的Tony Catalano
+[[/div]]
+[[/div]]
+[[div class="blockquote"]]
+**譯註：** 博物館禮品店裏的神秘生物低品質假貨週邊（沒人買）
+[[/div]]
+@@ @@
+[[div class="scp-image-block block-center" style="width:100%;"]]
+[[=image https://i.imgur.com/KwKg9IR.png width="100%"]]
+[[div class="scp-image-caption" style="width:100%;"]]
+在CanonNexus伺服器的Magma多人畫布上畫的Leonora
+[[/div]]
+[[/div]]
+[[div class="blockquote"]]
+**譯註：**
+←在觀察海鷗抽煙 
+
+她現在為甚麼長得這麼像ISAT裏的Olide……
+↲順便一提這是Leonora
+
+……老天爺海鷗真可怕
+[[/div]]
+@@ @@
+@@ @@
+@@ @@
