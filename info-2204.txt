@@ -1,1 +1,154 @@
-[[include draft:mars-test-page | tags=藝術作品]]
+[[include :scp-wiki:theme:bedrock]]
+[[include :scp-wiki:theme:eigenmachine light=a]]
+[[module css]]
+:root {
+    --title-mobile:"P.M. CENTER";
+    --subtitle-mobile:"ADVANCED STUDIES";
+    --header-logo: url("https://i.imgur.com/voxTt5d.png");
+    --header-title:"SCP基金會";
+    --header-subtitle:"捍衛您美好日常的堅實後盾！";
+    --custom-header: "custom memo - your header here";
+[[/module]]
+
+[[html]]
+<!-- 頂欄選單 -->
+<div id="top-bar">
+    <ul>
+        <li data-title="最新消息"><a href="#">最新消息</a></li>
+        <li data-title="公司簡介"><a href="#">公司簡介</a></li>
+        <li data-title="服務項目"><a href="#">服務項目</a></li>
+        <li data-title="聯絡我們"><a href="#">聯絡我們</a></li>
+    </ul>
+</div>
+
+<!-- Modal 彈出視窗 -->
+<div id="modal" class="modal">
+    <div class="modal-content">
+        <span class="close">&times;</span>
+        <div id="modal-body">這裡是內容</div>
+    </div>
+</div>
+
+[[/html]]
+
+[[html]]
+/* 設定頂欄固定在上方 */
+#top-bar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background: #003D79; /* 藍色背景 */
+    padding: 10px 0;
+    text-align: center;
+    box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.2);
+    z-index: 1001; /* 確保它高於其他內容 */
+}
+
+/* 頂欄選單 */
+#top-bar ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+}
+
+#top-bar ul li {
+    position: relative;
+    display: inline-block;
+    margin: 0 20px;
+    font-size: 16px;
+    color: white;
+    cursor: pointer;
+}
+
+/* 隱藏原本的超連結 */
+#top-bar ul li a {
+    visibility: hidden;
+    position: absolute;
+}
+
+/* 替代顯示內容 */
+#top-bar ul li::after {
+    content: attr(data-title);
+    visibility: visible;
+    cursor: pointer;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+/* Modal 彈出視窗 */
+.modal {
+    display: none;
+    position: fixed;
+    z-index: 2000; /* 高於頂欄 */
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.modal-content {
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    max-width: 500px;
+    width: 80%;
+    position: relative;
+}
+
+.close {
+    position: absolute;
+    right: 15px;
+    top: 10px;
+    font-size: 24px;
+    cursor: pointer;
+    color: black;
+}
+
+[[/html]]
+
+[[html]]
+document.addEventListener("DOMContentLoaded", function() {
+    const menuItems = document.querySelectorAll("#top-bar ul li");
+    const modal = document.getElementById("modal");
+    const modalBody = document.getElementById("modal-body");
+    const closeModal = document.querySelector(".close");
+
+    // 設定每個選單對應的內容
+    const content = {
+        "最新消息": "這裡是最新消息的內容。",
+        "公司簡介": "這裡是公司簡介。",
+        "服務項目": "這裡是服務項目的介紹。",
+        "聯絡我們": "這裡是聯絡方式。"
+    };
+
+    // 讓選單可點擊
+    menuItems.forEach((item) => {
+        item.addEventListener("click", function() {
+            const title = item.getAttribute("data-title");
+            modalBody.innerText = content[title];
+            modal.style.display = "flex";
+        });
+    });
+
+    // 點擊關閉按鈕時關閉 modal
+    closeModal.addEventListener("click", function() {
+        modal.style.display = "none";
+    });
+
+    // 點擊 modal 外部也能關閉
+    window.addEventListener("click", function(event) {
+        if (event.target === modal) {
+            modal.style.display = "none";
+        }
+    });
+});
+
+[[/html]]
