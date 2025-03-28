@@ -753,7 +753,7 @@ table.wiki-content-table td {
 [[/row]]
 [[row]]
 [[cell style="border: 1px solid black; padding-right: 12px; padding-top: 12px; padding-bottom: 12px; padding-left: 12px;" colspan="2"]]
-**Note:** 從此時起，SCP-6121個體不再出現在冬季奧運會上，而所有其他顯現個體如常出現。
+**備註：** 從此時起，SCP-6121個體不再出現在冬季奧運會上，而所有其他顯現個體如常出現。
 
 [[/cell]]
 [[/row]]
@@ -819,7 +819,7 @@ Clef博士成功請求O5議會授權將所有SCP-6121個體轉移至 Site-19。 
 ++++ **通知！**
 已就此文件發起一個3+級保安權限討論！
 
-[[collapsible show="啓動全站點內聯" hide="已啓動全站點內聯"]]
+[[collapsible show="開啓全站點內聯" hide="已開啓全站點內聯"]]
 [[/=]]
 @@ @@
 [[div class="irc-log"]]

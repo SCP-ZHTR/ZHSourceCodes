@@ -125,7 +125,7 @@ __本站收錄__
 @@ @@
 +++ __翻譯（故事和一切文章）__
 @@ @@
-[[module ListPages created_by="Kikunai" tags="+翻譯 -scp" order="created_at desc"]]
+[[module ListPages created_by="Kikunai" tags="+翻譯 -scp" category="*" order="created_at desc"]]
 %%title_linked%% （%%created_at%% | %%rating%%）
 [[/module]]
 -----
