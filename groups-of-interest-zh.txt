@@ -56,25 +56,6 @@
 [[/div]]
 
 [[div class="content-panel standalone series" style="background-color: #FFFFFF;"]]
-+ [[[nsb8-hub|中華民國國家安全局第八處]]]
-[[f>image https://i.imgur.com/9inQGbN.png width="160px"]]
-
-**概述：**關於這個行蹤異常隱密的組織直到最近才被確認其存在，被認為是冷戰期間遭到全球超自然聯盟和軍情666處殲滅的前政府組織。
-
-被認為會透過佔據平行時空和不同位面的異常地域（[[[nexus-series|Nexus]]]）來進行私人商業化用途，透過奴役或殖民大量Nexus住民，規模已經無法忽視。
-
-該組織擁有的軍事實力被認為有高度威脅，除了會積極尋找GOC特工進行暗殺之外，也被認為與蛇之手和安布羅斯餐廳等關注組織有所關聯，並且大幅度將現實扭曲者和奇術師編入部隊以增強戰力。
-
-對於全球超自然聯盟（GOC）極端敵視。
-
-[/system:page-tags/tag/第八處 點擊此處]查閱所有標記有//第八處//的頁面。
-
-[[div style="text-align:right"]]
-,,[#toc 回到頂部],,
-[[/div]]
-[[/div]]
-
-[[div class="content-panel standalone series" style="background-color: #FFFFFF;"]]
 + [[[laundry-of-miya|洗衣部門]]]
 [[f>image https://i.imgur.com/oWbgTOd.jpg width="110px"]]
 **概述：**基金會和夢蘭花-潔椿洗衣公司（以下簡稱潔椿。）加盟並簽署保密協定，潔椿提供異常洗滌技術和材料，繁中站點將其用來處理日益增多且複雜的污衣處理需求，亦提供私人洗衣服務作為額外的獲利來源。繁中站點則使用潔椿的洗標系統及資料庫系統統整資料，並招募相關人員及成立特遣隊。
