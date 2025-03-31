@@ -1,0 +1,344 @@
+[[include :scp-wiki:theme:bedrock]]
+[[include :scp-wiki:theme:eigenmachine light=a]]
+[[module css]]
+:root {
+    --title-mobile:"P.M. CENTER";
+    --subtitle-mobile:"ADVANCED STUDIES";
+    --header-logo: url("https://i.imgur.com/voxTt5d.png");
+    --header-title:"SCP基金會";
+    --header-subtitle:"捍衛您美好日常的堅實後盾！";
+    --custom-header: "custom memo - your header here";
+[[/module]]
+
+[!-- 隱藏註腳 --]
+[[module CSS]]
+.footnotes-footer{
+display:none;
+}
+[[/module]]
+
+[!-- 圖片跑馬燈 --]
+[[html]]
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>圖片輪播</title>
+    <style>
+        .carousel {
+            position: relative;
+            width: 100%; /* 設為 100% 寬度 */
+            overflow: hidden;
+        }
+        .carousel-track {
+            display: flex;
+            transition: transform 0.5s ease-in-out;
+        }
+        .carousel img {
+            width: 100%; /* 圖片寬度為容器寬度的 100% */
+            flex-shrink: 0;
+        }
+        .carousel-dots {
+            text-align: center;
+            margin-top: 10px;
+        }
+        .dot {
+            display: inline-block;
+            width: 10px;
+            height: 10px;
+            margin: 5px;
+            background-color: #bbb;
+            border-radius: 50%;
+            cursor: pointer;
+        }
+        .dot.active {
+            background-color: #333;
+        }
+    </style>
+</head>
+<body>
+    <div class="carousel">
+        <div class="carousel-track">
+            <img src="https://i.imgur.com/bX6oFWC.png" alt="Image 1">
+            <img src="https://i.imgur.com/lP7ZIGY.png" alt="Image 2">
+            <img src="https://i.imgur.com/vN0gYk8.png" alt="Image 3">
+        </div>
+    </div>
+    <div class="carousel-dots"></div>
+
+    <script>
+        const track = document.querySelector(".carousel-track");
+        const images = document.querySelectorAll(".carousel img");
+        const dotsContainer = document.querySelector(".carousel-dots");
+        let currentIndex = 0;
+        let interval;
+
+        // 建立圓點
+        images.forEach((_, index) => {
+            const dot = document.createElement("span");
+            dot.classList.add("dot");
+            if (index === 0) dot.classList.add("active");
+            dot.addEventListener("click", () => goToSlide(index));
+            dotsContainer.appendChild(dot);
+        });
+        const dots = document.querySelectorAll(".dot");
+
+        function goToSlide(index) {
+            currentIndex = index;
+            updateCarousel();
+            resetInterval();
+        }
+
+        function updateCarousel() {
+            track.style.transform = `translateX(-${currentIndex * 100}%)`;
+            dots.forEach(dot => dot.classList.remove("active"));
+            dots[currentIndex].classList.add("active");
+        }
+
+        function nextSlide() {
+            currentIndex = (currentIndex + 1) % images.length;
+            updateCarousel();
+        }
+
+        function startAutoPlay() {
+            interval = setInterval(nextSlide, 3000); // 每 3 秒換一張
+        }
+
+        function resetInterval() {
+            clearInterval(interval);
+            startAutoPlay();
+        }
+
+        startAutoPlay();
+    </script>
+</body>
+</html>
+[[/html]]
+
+[!-- 文字跑馬燈 --]
+[[html]]
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>上翻式跑馬燈</title>
+    <style>
+        /* 外框 */
+        .news-ticker {
+            display: flex;
+            align-items: center;
+            width: 100%; /* 撐滿整個網頁 */
+            height: 40px;
+            overflow: hidden;
+        }
+
+        /* 按鈕樣式 */
+        .news-button {
+            background: #0044BB;
+            color: white;
+            font-weight: bold;
+            padding: 5px 10px;
+            font-size: 14px;
+            text-decoration: none;
+            border-radius: 8px;
+            margin-right: 10px; /* 讓按鈕與標籤有間距 */
+        }
+
+        /* 左側紅色標籤 */
+        .news-label {
+            background: #CC0000;
+            color: white;
+            font-weight: bold;
+            padding: 5px 15px;
+            font-size: 14px;
+            white-space: nowrap;
+            border-radius: 8px;
+        }
+
+        /* 右側跑馬燈區域 */
+        .news-content {
+            flex: 1;
+            overflow: hidden;
+            position: relative;
+            height: 40px;
+            line-height: 40px;
+            padding-left: 15px;
+        }
+
+        /* 消息列表 */
+        .news-content ul {
+            position: absolute;
+            margin: 0;
+            padding: 0;
+            list-style: none;
+            transition: transform 0.5s ease-in-out;
+        }
+
+        .news-content li {
+            white-space: nowrap;
+            font-size: 16px;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="news-ticker">
+        <a href="http://scp-zh-tr.wikidot.com/main" class="news-button">返回首頁</a>
+        <div class="news-label">最新消息</div>
+        <div class="news-content">
+            <ul>
+                <li>SCP 企業保證：您的隱私我們絕對保護！（但我們不保證您還記得這件事）</li>
+                <li>本站的用戶滿意度高達 99.9%！其餘用戶正於 Site-██ 進行進一步觀察</li>
+                <li>SCP 企業榮獲「最具安全感企業獎」！</li>
+                <li>狂賀！本站尚未獲得德國 iF 設計大獎！</li>
+            </ul>
+        </div>
+    </div>
+
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            const newsList = document.querySelector(".news-content ul");
+            const items = newsList.querySelectorAll("li");
+            let index = 0;
+
+            function scrollNews() {
+                index++;
+                if (index >= items.length) {
+                    index = 0;
+                    newsList.style.transition = "none";
+                    newsList.style.transform = "translateY(0)";
+                } else {
+                    newsList.style.transition = "transform 0.5s ease-in-out";
+                    newsList.style.transform = `translateY(-${index * 40}px)`;
+                }
+            }
+
+            setInterval(scrollNews, 3000);
+        });
+    </script>
+
+</body>
+</html>
+[[/html]]
+
+[[div class="razer fade-in1" style="text-align: center;"]]
+[[span class="fade-in1"]]你是否曾經遇到以下問題？[[/span]]
+
+[[span class="fade-in2"]]打開冰箱門以後突然忘記自己原本要做什麼？
+家裡的貓對著空氣喵喵叫，看見了你不該看的東西？
+突然出現陌生行為的親友、同事，卻只有你一個人懷疑？[[/span]]
+
+[[span class="fade-in3"style="font-size: 25px;"]]從今天開始不用再擔心！SCP基金會將為您提供全方位異常管理解決方案！[[/span]]
+[[/div]]
+
+
+[[div class="contain-aster"]]
+[[div class="asterisk spinner"]]
+[[=image https://scp-wiki.wdfiles.com/local--files/theme%3Aeigenmachine/asterisk_scp.svg]]
+[[/div]]
+[[/div]]
+
+[[div class="capt vanta"]]
++ 異常物品的回收與封存
+您家中是否有神秘發光的湯匙？拔掉插頭後依舊能自己運轉的家電？
+我們的專業異常回收隊伍 24小時全年無休待命，將這些物件安全移除，確保您的日常生活不受影響！
+[[/div]]
+@@ @@
+[[div class="capt vanta"]]
++ 空間異常修復
+在熟悉的賣場迷路5天走不出去？電梯門打開後通往19世紀末？
+基金會頂尖團隊將在第一時間迅速分析問題，修正現實扭曲現象，讓您的空間恢復正常！[[size smaller]]##AAAAAA|※此服務不包含平行宇宙調整費##[[/size]]
+[[/div]]
+@@ @@
+[[div class="capt vanta"]]
++ 超自然現象鑑定
+古蹟總是無故著火？鏡子裡的人能跟你做出不同表情？
+異常偵測部門會進行專業檢測，確保您的生活空間不受異常影響。如發現Euclid級異常，本公司將免費升級為封鎖處理
+[[/div]]
+@@ @@
+[[div class="capt vanta"]]
++ 個人異常紀錄清除
+曾經不小心發誓「說謊會變成小狗」然後就發生了一點小麻煩？
+我們提供專業的異常影響清除與記錄銷毀服務，讓您無後顧之憂愉快迎接第二人生！
+[[/div]]
+@@ @@
+[[div class="capt vanta"]]
++ 客製化體驗訂閱服務
+您是否渴望擁有專屬異常體驗？
+訂閱我們的客製化服務，每月可獲得一個獨特且安全的異常物品！從「永遠吃不胖的魔法叉子」到「一鍵老闆更換機」，選擇多多，驚喜連連！
+[[/div]]
+@@ @@
+[[div class="capt danger"]]
++ 高風險異常處理
+您是否發現有人突然開始發出紅光，並開始低聲吟誦拉丁文？
+或是是自己正不斷觀看同樣一場比賽無法離開球場？
+不用擔心！我們的緊急應對小組將在30分鐘內趕到現場，並依照異常等級進行適當處理。[[size smaller]]##AAAAAA|※部分地區響應時間可能因為Keter級威脅而有所延遲##[[/size]]
+[[/div]]
+@@ @@
+@@ @@
+[[div class="oheader duplo jean"]]
+++ 為什麼選擇我們？
+全天候24小時一週七天服務——無論異常何時發生，我們都在您身邊！
+專業權威技術支持——由資深異常現象專家提供最專業的評估！
+99.9%市面最高客戶滿意度——0.1%客戶失聯，但我們相信他們會滿意！
+隱私保護——您不會記得您使用過我們的服務，這是我們的保證！
+
+現在訂購，首單可享「[http://scp-zh-tr.wikidot.com/amnestic-orientation-manual A級記憶刪除]9折優惠」！
+加入會員，即可獲得「免費一次異常診斷」機會！[[footnote]] 免費服務並無副作用保固 [[/footnote]]
+
+立即聯繫SCP基金會，讓異常遠離您的生活！
+
+[[/div]]
+
+@@ @@
+
+[[div class="capt white"]]
+[[<]]
++ 客戶回饋
+[[/<]]
+[[div class="oheader grey left align-l"]]
+內湖 張先生
+[[size 80%]]{{(★★★★★)}}[[/size]]
+-----
+「很棒的服務！在我填寫了 200 頁表格後，他們終於把樓下的詭異噪音處理了……只是基金會順手帶走了我的貓。」
+[[/div]]
+@@ @@
+[[div class="oheader grey left align-l"]]
+高雄 王小姐
+[[size 80%]]{{(★★★★★)}}[[/size]]
+-----
+--「基金會幫我『重新安置』了前男友，現在他在某個地下 5 公里深的收容站裡，超滿意！」--
+（此評論已被管理員刪除）
+[[/div]]
+@@ @@
+[[div class="oheader grey left align-l"]]
+灣仔 江小姐
+[[size 80%]]{{(★★★★★)}}[[/size]]
+-----
+「本來我家電梯每到晚上9:00就會卡在不存在的樓層直到天亮，自從基金會來了以後……我們整棟樓都被收容了！」
+[[/div]]
+@@ @@
+[[div class="oheader grey left align-l"]]
+灣仔 匿名客戶
+[[size 80%]]{{(★★★★★)}}[[/size]]
+-----
+「我想不起來發生了什麼？？？……但我的問題似乎已經解決了？」
+[[/div]]
+[[/div]]
+
+
+[[include :scp-zh-tr:component:author-label-source start=--
+|name=愚人節快樂！|center=*]]
+**授權資訊：**
+**作者：**[[*user Dr V Valentine ]]
+----
+主題：[https://scp-wiki.wikidot.com/theme:eigenmachine eigenmachine theme]
+作者：[[*user Billith]]
+----
+橫幅廣告的素材圖片皆為CC0 並由[[*user Dr V Valentine ]]後製改圖處理
+https://pxhere.com/zh/photo/1652041 商務握手
+https://pxhere.com/zh/photo/875937 警察
+https://pxhere.com/zh/photo/1060065 全家福
+[[include :scp-zh-tr:component:author-label-source end=--]]
