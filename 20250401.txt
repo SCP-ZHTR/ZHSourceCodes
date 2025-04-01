@@ -185,7 +185,7 @@ display:none;
 <body>
 
     <div class="news-ticker">
-        <a href="http://scp-zh-tr.wikidot.com/main" class="news-button">返回首頁</a>
+        <a href="http://scp-zh-tr.wikidot.com/main" class="news-button" target="_blank">返回首頁</a>
         <div class="news-label">最新消息</div>
         <div class="news-content">
             <ul>
@@ -328,7 +328,9 @@ display:none;
 [[/div]]
 [[/div]]
 
-
+[[>]]
+[[module rate]]
+[[/>]]
 [[include :scp-zh-tr:component:author-label-source start=--
 |name=愚人節快樂！|center=*]]
 **授權資訊：**
