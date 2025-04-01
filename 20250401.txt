@@ -185,7 +185,7 @@ display:none;
 <body>
 
     <div class="news-ticker">
-        <a href="http://scp-zh-tr.wikidot.com/main" class="news-button" target="_blank">返回首頁</a>
+        <a href="javascript:top.location.replace('http://scp-zh-tr.wikidot.com/main'); void(0)" class="news-button" id="to_main">返回首頁</a>
         <div class="news-label">最新消息</div>
         <div class="news-content">
             <ul>
