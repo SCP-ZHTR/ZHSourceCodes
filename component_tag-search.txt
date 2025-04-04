@@ -3661,11 +3661,10 @@ description = "標註在與相關地點「恋昏崎」有關之頁面。"
 # 德文分部
 
 [[tags]]
-
-[[tags]]
 name= "魔法學院"
 description = "標註在德文分部關注組織「魔法學院」（Die Magierakademie/Mages Academy）相關的頁面上。"
 
+[[tags]]
 name= "奇物室"
 description = "標註在德文分部關注組織「奇物室」的相關頁面上。"
 
