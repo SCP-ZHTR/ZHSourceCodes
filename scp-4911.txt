@@ -1,7 +1,10 @@
+[[include component:scp-meta-title-hiding css-style=classic]]
+
 [[include info:start]]
 **篇名：**SCP-4911
 **作者：** [[*user Joreth]]
 [[include info:end]]
+
 
 [[include component:object-class-bar-source
 |item-num=4911
