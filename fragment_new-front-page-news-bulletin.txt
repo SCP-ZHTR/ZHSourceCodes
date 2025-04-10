@@ -15,13 +15,13 @@
 {$blurb1}
 [[/div]]
 
-[!--
+
 [[div class="news"]]
 +++++ {$date2}
 
 {$blurb2}
 [[/div]]
---]
+
 
 [[div class="footer"]]
 @@>>@@ [[[news|]]]

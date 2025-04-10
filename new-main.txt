@@ -14,6 +14,8 @@
 [[include fragment:new-front-page-news-bulletin
 |date1=March 1st
 |blurb1=This month's site news announces the spring cleaning event, and that there's an international contest coming up! Read it [https://scp-wiki.wikidot.com/news-03-2025 here!]
+|date2=March 1st
+|blurb2=This month's site news announces the spring cleaning event, and that there's an international contest coming up! Read it [https://scp-wiki.wikidot.com/news-03-2025 here!]
 ]]
 
 [[include fragment:main-page-rss]]

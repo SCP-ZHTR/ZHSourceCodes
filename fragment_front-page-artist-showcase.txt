@@ -1,0 +1,66 @@
+[[div class="box art"]]
+[[div class="title"]]
+ART SPOTLIGHT
+[[/div]]
+[[div class="caption"]]
+This month's [[[/artwork-hub | Featured Artists]]]: {$artblurb}
+[[/div]]
+[[div class="footer"]]
+@@>>@@ [https://scp-wiki.wikidot.com/artist-showcase-archive Past Art Spotlights]
+[[/div]]
+[[/div]]
+
+
+
+[[module CSS]]
+/* *** ART FEATURES *** */
+
+.art {
+    background-image: url({$art1url});
+    background-size: cover;
+    background-position: center;
+    -webkit-animation: artslide 20s linear infinite;
+            animation: artslide 20s linear infinite;
+    -webkit-animation-timing-function: step-end;
+            animation-timing-function: step-end;
+}
+
+.caption {
+    display: block;
+    position: relative;
+    bottom: -30%;
+    background: #4a0000ad;
+    color: white;
+    padding: 0.25rem;
+    margin: 0.5rem;
+    text-align: center;
+    border-radius: 4px;
+}
+
+.caption a {
+    font-weight: bold;
+    color: white;
+}
+
+@-webkit-keyframes artslide {
+    0% {background-image: url({$art1url});}
+    30% {background-image: url({$art1url});}
+    33% {background-image: url({$art2url});}
+    63% {background-image: url({$art2url});}
+    66% {background-image: url({$art3url});}
+    96% {background-image: url({$art3url});}
+    99% {background-image: url({$art1url});}
+
+}
+
+@keyframes artslide {
+    0% {background-image: url({$art1url});}
+    30% {background-image: url({$art1url});}
+    33% {background-image: url({$art2url});}
+    63% {background-image: url({$art2url});}
+    66% {background-image: url({$art3url});}
+    96% {background-image: url({$art3url});}
+    99% {background-image: url({$art1url});}
+
+}
+[[/module]]
