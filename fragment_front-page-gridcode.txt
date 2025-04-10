@@ -189,5 +189,8 @@ div.transrss{
     }
     div.grid > div.art {-ms-grid-row: 4;-ms-grid-row-span: 1;-ms-grid-column: 1;-ms-grid-column-span: 2;
     }
+    div.transrss, div.origrss{
+        display:none;
+    }
 }
 [[/module]]
