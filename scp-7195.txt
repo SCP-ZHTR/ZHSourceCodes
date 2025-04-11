@@ -1,5 +1,5 @@
-[[include :scp-wiki:theme:black-highlighter-theme]]
-[[include :scp-wiki:theme:minimalist-bhl]]
+[[include :scp-zh-tr:theme:black-highlighter-theme]]
+[[include :scp-zh-tr:theme:minimalist-bhl]]
 
 [[include :scp-zh-tr:component:toggle-sidebar-bhl]]
 [[include :scp-zh-tr:component:acs-animation]]
@@ -8,7 +8,7 @@
 [[include component:scp-meta-title-hiding css-style=bhl]]
 
 [[module CSS]]
-:root {
+:root:lang(zh) {
      --header-title: "非現實部";
      --header-subtitle: "讓非現實成為ㅤㅤㅤㅤ";
      --lgurl: url('http://scp-wiki.wikidot.com/local--files/unreality-hub/Unreality%20Header%20Logo.svg');

@@ -1,6 +1,6 @@
 [[include component:scp-meta-title-hiding css-style=bhl]]
 [[include :scp-zh-tr:theme:black-highlighter-theme]]
-[[include :scp-wiki:theme:minimalist-bhl]]
+[[include :scp-zh-tr:theme:minimalist-bhl]]
 @@ @@
 [[include info:start]]
 原文：[http://www.scpwiki.com/scp-5863 SCP-5863] 樸素神話

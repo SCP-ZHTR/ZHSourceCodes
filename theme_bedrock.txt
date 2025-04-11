@@ -1,0 +1,312 @@
+[[module css]]
+@import url('https://cdn.scpwiki.com/theme/en/basalt/normalize-min.css');
+@import url('https://cdn.scpwiki.com/theme/en/basalt/basalt-bedrock-min.css');
+[[/module]]
+[[div_]]
+[[include :scp-zh-tr:component:interwiki-style
+| priority=1
+| theme=https://cdn.scpwiki.com/theme/en/basalt/normalize-min.css
+]]
+[[include :scp-zh-tr:component:interwiki-style
+| priority=2
+| theme=https://cdn.scpwiki.com/theme/en/basalt/basalt-bedrock-min.css
+]]
+[[/div]]
+
+[[iftags +外觀主題]]
+[[div class="nametag"]]
++ 基岩
+
+[[include info:start]]
+**基岩 主題**
+**作者：**[[*user EstrellaYoshte]], [[*user Liryn]] and [[*user Placeholder McD]]
+**原文：**[https://scp-wiki.wikidot.com/theme:bedrock Bedrock Theme]
+**譯者：**[[*user Kikunai]]
+
+範例直接沿用[/theme:penumbra 半影 外觀主題]
+[[include info:end]]
+[[/div]]
+
+**基岩**是由[[*user EstrellaYoshte]]、[[*user Liryn]]和[[*user Placeholder McD]]製作的美觀性基礎外觀主題。在此特別感謝[[*user aismallard]]在GitHub事宜上的協助，以及[[*user Woedenaz]]的編輯界面按鈕的SVG和一般的諮詢。
+
+這是作為[[[theme:basalt|Basalt 2.0版本]]]的基礎結構。
+
+[[include :scp-wiki:component:theme-squares -=-
+| color1-name=Quartz
+| color1-variable=--basalt-primary-color
+| color1-info=254,254,254
+| color2-name=Calcite
+| color2-variable=--basalt-secondary-color
+| color2-info=247,248,250
+| color3-name=Lapis Lazuli
+| color3-variable=--basalt-bright-element-color
+| color3-info=16,76,184
+| color3-has-light-text=1
+| color4-name=Amethyst
+| color4-variable=--basalt-undertone
+| color4-info=61,71,202
+| color4-has-light-text=1
+| color5-name=Slate
+| color5-variable=--basalt-overtone
+| color5-info=56,60,64
+| color5-has-light-text=1
+| subcolor1-name=Granite
+| subcolor1-variable=--basalt-tertiary-color
+| subcolor1-info=218,219,222
+| subcolor2-name=Andesite
+| subcolor2-variable=--basalt-sub-text-color
+| subcolor2-info=155,154,162
+| subcolor2-has-light-text=1
+| subcolor3-name=Sunstone
+| subcolor3-variable=--basalt-alternate-color
+| subcolor3-info=255,132,0
+| subcolor4-name=Emerald
+| subcolor4-variable=--basalt-positive-color
+| subcolor4-info=26,180,28
+| subcolor4-has-light-text=1
+| subcolor5-name=Ruby
+| subcolor5-variable=--basalt-negative-color
+| subcolor5-info=255,48,48
+| subcolor5-has-light-text=1
+| subcolor6-name=Sapphire
+| subcolor6-variable=--basalt-dark-element-color
+| subcolor6-info=18,20,150
+| subcolor6-has-light-text=1
+]]
+
+為了要將該主題導入至你的頁面當中，請將以下文字插入至你頁面中：
+> {{@@[[include :scp-zh-tr:theme:bedrock]]@@}}
+
+[[toc]]
+
++ 範例
+
+一條水平線可以透括使用4個連字號「@@----@@」來創建 [[footnote]]這仍是為了平息[[*user Placeholder McD]]。[[/footnote]]且如果它沒被包在任何東西裡面的話（例如引用塊），它會延伸並橫跨整個頁面。在這份文件中被拿來分段的就是水平線。
+
+[[include :scp-zh-tr:component:image-block name=https://cdn.scpwiki.com/theme/en/basalt/basaltlogo.svg|caption=圖片格。|width=280px]]
+標題可以被以在一行的開頭添加一至六個加號「+」來創建
+
+[[collapsible show="摺疊頁 - 點我" hide="摺疊頁 - 點我"]]
++* 一級標題
+
+++* 二級標題
+
++++* 三級標題
+
+++++* 四級標題
+
++++++* 五級標題
+
+++++++* 六級標題
+
+[[/collapsible]]
+
+~~~~
+
+[[tabview]]
+[[tab Tabulator]]
+這是個tabview。
+[[/tab]]
+[[tab Tabulation]]
+嘿，看看這裡，這裡有更多文字。
+
+多麼別緻啊。
+[[/tab]]
+[[tab 長Tab]]
+這是個長Tab。裡面容納了大量文字。
+
+這是個長Tab。裡面容納了大量文字。
+
+這是個長Tab。裡面容納了大量文字。
+
+這是個長Tab。裡面容納了大量文字。
+
+這是個長Tab。裡面容納了大量文字。
+
+這是個長Tab。裡面容納了大量文字。
+
+這是個長Tab。裡面容納了大量文字。
+
+這是個長Tab。裡面容納了大量文字。
+
+這是個長Tab。裡面容納了大量文字。
+
+這是個長Tab。裡面容納了大量文字。
+
+這是個長Tab。裡面容納了大量文字。
+
+這是個長Tab。裡面容納了大量文字。
+
+[[/tab]]
+[[tab 這個tab因為某些奇怪的原因有着很長的名字。我很好奇原因。確實奇怪。]]
+這是有腳註的Tab。[[footnote]]這是另一個腳註[[/footnote]]
+[[/tab]]
+[[tab 空Tab]]
+[[/tab]]
+[[tab 空Tab]]
+[[/tab]]
+[[tab 空Tab]]
+[[/tab]]
+[[tab 空Tab]]
+[[/tab]]
+[[tab 空Tab]]
+[[/tab]]
+[[/tabview]]
+
+> 這是個引用塊，可以透過在每一行的開頭添加「> 」來創建。
+>
+> 更多文字
+> -----
+> 這是個水平線。
+>
+>> 巢狀引用塊
+
+||~ 這是個 ||~ 表格 ||
+||你應該要 || 知道該如何 ||
+||||創建這東西了 ||
+
+[[footnoteblock]]
+
+[[=]]
++++* 標題字體是Lexend.
+
+內容字體是Inter.
+
+[[span style="font-family: var(--UI-font);"]]UI的字體是Jost.[[/span]]
+
+{{Monospace的字體是JetBrains Mono.}}
+[[/=]]
+
+------
+
++ CSS參數
+
+基岩是建立在一系列可改變其外觀的CSS參數之上。以下為一些頂層參數：
+
+[[code type="css"]]
+:root {
+    --basalt-primary-color: 254,254,254;
+    --basalt-secondary-color: 247,248,250;
+    --basalt-tertiary-color: 218,219,222;
+    --basalt-main-text-color: 20,20,20;
+    --basalt-overtone: 50,50,50;
+    --basalt-undertone: 61,71,202;
+
+    --basalt-bright-element-color: 16,76,184;
+    --basalt-dark-element-color: 18,20,150;
+    --basalt-alternate-color: 255,132,0;
+    --basalt-positive-color: 24,163,20;
+    --basalt-negative-color: 255,48,48;
+    --basalt-cancel-color: var(--basalt-negative-color);
+    --basalt-sub-text-color: 155,154,162;
+    --basalt-light-text-color: var(--basalt-primary-color);
+
+    --basalt-UI-dark-palette: var(--basalt-overtone);
+    --basalt-focus-color: var(--basalt-undertone);
+    --basalt-background-color: var(--basalt-primary-color);
+}
+[[/code]]
+
+顏色參數的格式是RGB。
+
+[[code type="css"]]
+:root:lang(zh) {
+    --header-font-primary: 'Lexend';
+    --UI-font-primary: 'Jost';
+    --body-font-primary: 'Inter';
+    --mono-font-primary: 'JetBrains Mono';
+}
+[[/code]]
+
+基岩使用的四種字體。
+
+[[code type="css"]]
+:root:lang(zh) {
+    --header-logo: url('https://cdn.scpwiki.com/theme/en/basalt/basaltlogo.svg');
+    --header-title: 'SCP基金會';
+    --header-subtitle: '控制 - 收容 - 保護';
+    --title-size: 1.5rem;
+    --subtitle-size: 0.825rem;
+
+    --base-font-size: 1rem;
+    --main-content-width: 67.5rem;
+    --side-bar-width: 19rem;
+}
+[[/code]]
+
+注意，由於CSS{{calc()}}功能裏的機制，任何帶有長度單位的參數（如rem或px）在將數值設為0時不應刪除其單位，例如//{{@@--subtitle-size: 0rem;@@}}//會令副標題消失，但不會令{{calc()}}功能失效。
+
+{{@@--main-content-width@@}}不應設為%式單位。若欲將主要範圍加闊到全螢幕寬度，請使用很高很高的rem值。
+------
+
++ 其他
+本外觀主題的源代碼可在[https://basalt-team.github.io/Basalt/ GitHub]頁面查閱。
+
+基岩現時與基礎主題不相容。
+
+[[module css]]
+.nametag {
+    --bs: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='517.88' height='444.8' version='1.0' viewBox='0 0 388.41 333.6'%3E%3Cpath d='M223 20.7c-4.6 4.9-23.9 24.6-42.9 43.8-19 19.3-36.5 37.1-38.9 39.6-4.2 4.5-4.5 5.4-17.8 47.9L110 195.3l8.7 18.5 8.8 18.5 8.5 3.9c4.7 2.2 9.5 4.4 10.7 4.8 2 .8 3.3-1 17.9-25.3 8.6-14.4 16.4-26.9 17.3-27.8.9-.9 3.7-2.3 6.3-3.2l4.7-1.6 31 13.5 30.9 13.5 9.9-6.3c5.4-3.4 10.1-6.6 10.4-7.1.3-.4 1.4-9.4 2.4-20 1.2-11.8 2.1-18.3 2.6-17.1.8 1.9 9.9 44.5 9.9 46.2 0 .5-2.3 3.9-5 7.5l-5.1 6.7 4.5 4.2c3.2 3.1 4.6 5.4 5.1 8.3 2.4 13.7 6.1 29.7 6.9 29.8.5.1 13.3-14.5 28.4-32.6l27.5-32.7h13.4l10.3 13.2c12.2 15.8 11.8 15.3 12.5 14.7.2-.3-1.8-12.6-4.5-27.5-4.5-24-6.6-32.4-19.8-77.4l-14.7-50.5L292 40.8c-31.6-15.7-58.2-28.7-59.1-28.7-.9-.1-5.3 3.8-9.9 8.6Zm88.4 73.6 23.3 32.7.8 28.1c.4 15.4.5 28.2.4 28.4-.2.2-5.6-12-11.9-27.1L312.5 129l-27.8-25.7c-15.3-14.2-29.9-27.7-32.5-30-2.6-2.4-4.5-4.3-4.2-4.3.3-.1 8.8-1.8 19-4 10.2-2.1 19.1-3.7 19.8-3.7.7.1 11.7 14.9 24.6 33zM63.2 183.8l-17.4 5.7-15.9 15.4c-8.8 8.5-15.8 15.9-15.5 16.6.2.7 5.2 7.8 11.1 15.8l10.6 14.5 9.2.6c5.1.3 18.2.8 29.2 1.1l20 .6 8.4-8.5 8.4-8.4-14-29.4c-7.7-16.1-14.7-29.4-15.4-29.5-.8-.1-9.2 2.3-18.7 5.5z' style='fill:%23000;stroke:none;stroke-width:.1' transform='translate(-14.4 -12.1)'/%3E%3Cpath d='m170.2 239.1-22.2 37 .2 28.7.3 28.6 49 6.2 48.9 6.1 22.1-9.8c20.4-9.1 22-10 21.7-12.2-.3-3.2-17.1-86.9-17.4-87.3-.6-.5-78.9-34.4-79.6-34.4-.4 0-10.7 16.7-23 37.1zm70.8 5.5c9.1 5.2 17 10.1 17.6 10.7 1.4 1.5 13.6 47.4 13.2 49.7-.2.9-5.9 6.7-12.8 12.9l-12.5 11.2-14.3-.7c-7.8-.3-17.7-.9-22-1.3l-7.7-.6 18.3-13.4c10-7.3 18.5-13.7 18.8-14.2.3-.5 1.1-9.7 1.7-20.3l1.1-19.4-9.7-12.1c-5.4-6.7-9.4-12.1-9-12.1.5 0 8.3 4.3 17.3 9.6zm94.5-1.4c-12.5 14.9-23 27.9-23.2 28.8-.3 1-.1 2 .4 2.3 1 .7 62.1 13.7 64.1 13.7 2.6 0 26.3-14.2 26-15.6-.3-1.4-40.9-53.4-43.1-55.3-1.1-.8-6 4.4-24.2 26.1z' style='fill:%23000;stroke:none;stroke-width:.1' transform='translate(-14.4 -12.1)'/%3E%3C/svg%3E");
+    text-align: center;
+    overflow: hidden;
+    padding-top: 2rem;
+}
+.nametag h1 {
+    font-size: 0;
+    height: 16rem;
+    width: min(16rem,90%);
+    margin: 0.5rem auto 0;
+    background-color: rgb(var(--basalt-overtone));
+    -webkit-mask-image: var(--bs);
+    -webkit-mask-repeat: no-repeat;
+    -webkit-mask-size: contain;
+    -webkit-mask-position: center;
+    mask-image: var(--bs);
+    mask-repeat: no-repeat;
+    mask-size: contain;
+    mask-position: center;
+    transition: all 0.175s ease-out;
+}
+.nametag h1:hover {
+    background-color: rgb(var(--basalt-undertone));
+}
+
+#page-content .colors-container {
+    max-width: calc(var(--main-content-width)*0.75);
+    margin: 1.25rem auto;
+}
+.colors-container, .colors-container .css-variable {
+    font-family: var(--mono-font);
+}
+.colors-container .colors .color {
+    text-align: center;
+    flex-basis: calc((100% / 3) - 2rem);
+}
+.colors-container .color { margin: 0; }
+.colors-container, .colors-container .colors, .colors-container .subcolors { grid-gap: 0.375rem; }
+.colors-container .color span[style*="pre-wrap"] {
+    font-size: 85%;
+    opacity: 0.625;
+}
+[[/module]]
+[[/iftags]]
+
+[[module css]]
+/* 調整 */ 
+:root:lang(zh) {
+    --header-title: 'SCP基金會';
+    --header-subtitle: '控制 - 收容 - 保護';
+
+    --body-font: var(--body-font-primary);
+    --UI-font: var(--UI-font-primary);
+    --header-font: var(--header-font-primary);
+    --title-font: var(--body-font-primary);
+    --mono-font: var(--mono-font-primary);
+}
+
+#header h1 a span {
+  align-items: flex-start;
+  justify-content: center;
+}
+
+[[/module]]

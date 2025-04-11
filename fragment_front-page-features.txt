@@ -1,6 +1,6 @@
 [[div id="featured"]]
 [[tabview]]
-[[tab 3月作品展出]]
+[[tab 4月作品展出]]
 
 [!-- Left block --]
 [[div class="feature-block"]]
@@ -10,12 +10,12 @@ SCP作品展出
 [[/div]]
 [[div class="panel-body"]]
 [[div class="feature-title"]]
-[[[*scp-zh-778|SCP-ZH-778 - 局內人模擬器]]]
+[[[*scp-zh-454|SCP-ZH-454 - 早是「滋潤」]]]
 [[/div]]
 [[div class="feature-subtitle"]]
-作者：[[user Frederica Bernkastel]]
+作者：[[user EmptyName723]]
 [[/div]]
-根據戰術遊戲學部的測試結果，使用SCP-ZH-778後，測試者的精神狀況普遍良好，尤其是不擅乃至於拒絕社交者，98%以上都能在相關問題上得到改善。
+儘管各國政府提出抗議，但為了將剩餘資源傾注在基金會職員身上，基金會不再對一般民眾供應用水。這使得大量平民陷入恐慌與暴動，並幾乎皆於五天內死亡。
 [[/div]]
 [[div class="panel-footer"]]
 [[[*featured-scp-archive|查看以往展出的SCP作品]]]
@@ -29,12 +29,12 @@ SCP作品展出
 [[/div]]
 [[div class="panel-body"]]
 [[div class="feature-title"]]
-[[[eternal-flower|永久花]]]
+[[[identification-card|]]]
 [[/div]]
 [[div class="feature-subtitle"]]
-作者：[[user Lostwhat]]
+作者：[[user Aindavis_817]]
 [[/div]]
-把仍然活著的鮮花浸入液體中，讓花朵脫水，讓花的靈魂潰散在脫色溶液中，讓花失去色彩再失而復得，讓本來應該死去的花以不屬於它的靈魂繼續活著，接近永恆。
+「我的理想是工作到死，死在辦公室那種。」Ain扯動嘴角，「退休後的平靜生活，我不考慮。」
 [[/div]]
 [[div class="panel-footer"]]
 [[[*featured-tale-archive|查看以往展出之故事]]]
@@ -50,13 +50,13 @@ SCP作品展出
 [[/div]]
 [[div class="panel-body"]]
 [[div class="feature-title"]]
-[[[*scp-8980|]]] 
+[[[*scp-3631|]]] 
 [[/div]]
 [[div class="feature-subtitle"]]
-作者：[[user Yossipossi]] 
-譯者：[[user Halewen]] & [[user Edward_Knave]]
+作者：[[user Attila the Pun]] 
+譯者：[[user CSZ87p]]
 [[/div]]
-SCP-8980慢慢從地上爬起，然後準備工作。
+除此之外，其腹部還有一道深達腹腔的長切口。對疤痕組織的分析表明，這很可能是由動物的爪子造成的，但傷口的精確性也暗示著造成這些傷害的意圖不僅僅只是簡單的防禦或捕食行為。
 [[/div]]
 [[div class="panel-footer"]]
 [[[*featured-translation|查看以往展出的翻譯作品]]]
@@ -70,12 +70,12 @@ SCP-8980慢慢從地上爬起，然後準備工作。
 [[/div]]
 [[div class="panel-body"]]
 [[div class="feature-title"]]
-[[[attempt-of-type-green-and-bluenullification-via-aether-rewea|]]]
+[[[esther|]]]
 [[/div]]
 [[div class="feature-subtitle"]]
-作者：[[user Kikunai]]
+作者：[[user Dr V Valentine]]
 [[/div]]
-然而現在的基金會所做的都是將人類的利益放在首位，即使思想圈發生甚麼問題，人類也可以繼續存活下去。我認為在末日中，這是可接受的風險。
+值得慶幸的是Esther是個非常懂事的好孩子，在Rose抱起他之後像個乖寶寶一樣，我發誓！他甚至在賣場人員詢問培養土的狀況時垂下了耳朵發出了嗚嗚聲道歉。
 [[/div]]
 [[div class="panel-footer"]]
 [[[*featured-Comprehensive-exhibition|查看以往的綜合展出]]]
