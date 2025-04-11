@@ -1,4 +1,4 @@
-[[include :scp-wiki:theme:foxtrot poland=a]]
+[[include :scp-zh-tr:theme:foxtrot poland=a]]
 [[=]]
 [[include info:start]]
 原文：[http://www.scpwiki.com/a-faerie-tale-of-twin-queens 妖精雙子女王故事] 

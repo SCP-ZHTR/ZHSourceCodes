@@ -1,15 +1,11 @@
-[[include :scp-wiki:theme:foxtrot
-overwatch=a|
-dark=a|
-wide=a|
-hidetitle=a]]
+[[include :scp-zh-tr:theme:foxtrot overwatch=a|dark=a|wide=a|hidetitle=a]]
 [[include :scp-zh-tr:component:fade-in speed=1]]
 
 [[module css]]
 @import url('https://fonts.googleapis.com/css2?family=Courgette&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Courgette&display=swap');
 
-:root {
+:root:lang(zh) {
   --header-title: "監督者"; 
   --header-subtitle: "犧牲 賦予 權力"; 
   --head-font: 'Monserrat', sans-serif;

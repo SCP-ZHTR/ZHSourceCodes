@@ -8,7 +8,7 @@ text=
 「翻譯者，反逆者也。（Traduttori, traditori）」——義大利諺語
 ]]
 =====
-[[include :scp-wiki:theme:foxtrot wide=a|verdana=a]]
+[[include :scp-zh-tr:theme:foxtrot wide=a|verdana=a]]
 [[include :scp-wiki:component:wide-image-sizer]]
 [[module css]]
 :root:lang(zh){

@@ -1,9 +1,9 @@
 [[include component:scp-meta-title-hiding css-style=classic]]
-[[include :scp-wiki:theme:foxtrot
+[[include :scp-zh-tr:theme:foxtrot
 hidetitle=a]]
 
 [[module css]]
-:root{
+:root:lang(zh){
   --header-title: "RCT-Δt";
   --header-subtitle: "擬似 時序 模式";
 }

@@ -596,9 +596,6 @@ dolor sit amet
 
     --header-title: "SCP基金會";
     --header-subtitle: "控制，收容，保護";
-    --logo-img: url(https://scp-wiki.wikidot.com/local--files/theme:foxtrot/fxtrt-scp_logo_lightmode.svg);
-    --darkmode-logo-img: url(https://scp-wiki.wikidot.com/local--files/theme:foxtrot/fxtrt-scp_logo_darkmode.svg);
-    --logo-opacity: 14%;
 
     --head-font: 'Sans Normalcy';
     --ui-font: 'IBM Plex Sans';
@@ -606,7 +603,13 @@ dolor sit amet
     --page-font: 'Inter', 'verdana';
     --base-font-size: 0.9rem;
     --page-font-size: 1rem;
+}
 
+:root {
+/* 微調背景 */
+    --logo-img: url(https://scp-wiki.wikidot.com/local--files/theme:foxtrot/fxtrt-scp_logo_lightmode.svg);
+    --darkmode-logo-img: url(https://scp-wiki.wikidot.com/local--files/theme:foxtrot/fxtrt-scp_logo_darkmode.svg);
+    --logo-opacity: 14%;
     /* VARIABLES > Misc */
 
     --header-txt-color: #333333;

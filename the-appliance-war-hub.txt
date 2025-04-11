@@ -6,7 +6,7 @@
 = 為地下的人們復仇。
 [[include info:end]]
 
-[[include :scp-wiki:theme:foxtrot wide=a]]
+[[include :scp-zh-tr:theme:foxtrot wide=a]]
 [[module CSS]]
 :root:lang(zh){
      --header-title: "SITE-37";

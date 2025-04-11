@@ -1,4 +1,4 @@
-[[include :scp-wiki:theme:foxtrot
+[[include :scp-zh-tr:theme:foxtrot
 dark=a|
 verdana=a|
 hidetitle=a]]

@@ -8,9 +8,9 @@
 [[/=]]
 [[include info:end]]
 [[/>]]
-[[include :scp-wiki:theme:foxtrot hidetitle=a|wide=a]]
+[[include :scp-zh-tr:theme:foxtrot hidetitle=a|wide=a]]
 [[module CSS]]
-:root {--logo-img: url(none)}
+:root:lang(zh) {--logo-img: url(none)}
 .footnotes-footer{
 display:none;
 }

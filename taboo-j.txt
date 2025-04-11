@@ -9,7 +9,7 @@
 |sexual-references=1
 ]]
 
-[[include :scp-wiki:theme:foxtrot]]
+[[include :scp-zh-tr:theme:foxtrot]]
 [[include :scp-zh-tr:component:betterfootnotes]]
 
 [[div style="height: 45px"]]

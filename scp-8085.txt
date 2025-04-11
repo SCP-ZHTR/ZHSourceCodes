@@ -1,11 +1,6 @@
-[[include :scp-wiki:theme:foxtrot]]
+[[include :scp-zh-tr:theme:foxtrot]]
 [[include component:scp-meta-title-hiding css-style=classic]]
-[[module css]]
-:root{
-  --header-title: "SCP基金會";
-  --header-subtitle: "控制 收容 保護";
-}
-[[/module]]
+
 [[=]]
 [[include info:start]]
 **SCP-8085 -  本來就是自然的**

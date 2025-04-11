@@ -1,5 +1,5 @@
 [[include component:scp-meta-title-hiding css-style=penumbra]]
-[[include :scp-wiki:theme:foxtrot]]
+[[include :scp-zh-tr:theme:foxtrot]]
 
 [[>]]
 [[include info:start]]

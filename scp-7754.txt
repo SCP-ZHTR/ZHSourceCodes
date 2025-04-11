@@ -1,8 +1,8 @@
 [[include component:scp-meta-title-hiding css-style=classic]]
-[[include :scp-wiki:theme:foxtrot dark=a|wide=a]]
+[[include :scp-zh-tr:theme:foxtrot dark=a|wide=a]]
 [[module css]]
-:root {
-     --header-title: "THE FOUNDATION";
+:root:lang(zh) {
+     --header-title: "基金會";
      --header-txt-color: #FFFFFF;
      --misc-txt-color: #FFFFFF;
      --darkmode-gradient-top: #0084D9;

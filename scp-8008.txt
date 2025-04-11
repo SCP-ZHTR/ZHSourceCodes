@@ -9,7 +9,7 @@ text=
 ]]
 =====
 
-[[include :scp-wiki:theme:foxtrot wide=a|verdana=a]]
+[[include :scp-zh-tr:theme:foxtrot wide=a|verdana=a]]
 [[include :scp-wiki:component:wide-image-sizer]]
 [[module css]]
 :root:lang(zh){

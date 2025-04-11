@@ -2,7 +2,7 @@
 [[include component:image-block name=https://scp-wiki.wdfiles.com/local--files/scp-anthology-hub/O2hub.png|caption=.]]
 [[/div]]
 
-[[include :scp-wiki:theme:foxtrot hidetitle=a|verdana=a]]
+[[include :scp-zh-tr:theme:foxtrot hidetitle=a|verdana=a]]
 
 [[module css]]
 :root{

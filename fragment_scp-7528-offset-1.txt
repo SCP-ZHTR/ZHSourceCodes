@@ -1,4 +1,4 @@
-[[include :scp-wiki:theme:foxtrot dark=a|wide=a]]
+[[include :scp-zh-tr:theme:foxtrot dark=a|wide=a]]
 
 [[div style="display: none;"]]
 [[include :scp-wiki:component:image-block name=https://scp-wiki.wdfiles.com/local--files/scp-7528/SmallSkull.jpg|caption=.]]
