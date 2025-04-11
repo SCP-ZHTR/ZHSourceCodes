@@ -26,46 +26,51 @@
 [[[black-highlighter-themes|黑色標記筆 主題中心]]]
 
 +++ GoI
-[[[component:bt|拋鈴人 CSS模板]]]
-[[[theme:cobweb-international-theme|蛛網國際 CSS]]]
+++++ EN
+[[[theme:cosmonaut|太空人 外觀主題]]]（夢神）
 [[[theme:creepypasta|異視維基外觀主題]]]
 [[[theme:galactic-theme|銀河聯邦 外觀主題]]]
-[[[theme:goc|依職權 外觀主題]]]
+[[[theme:goc|依職權 外觀主題]]]（GOC）
 [[[theme:hytoth|第二海托世 外觀主題]]]
+[[[theme:hansarp|HANSARP 外觀主題]]]
 [[[component:ijamea-theme|大日本帝國異常事例調查局主題]]]
-[[[theme:laundry|洗衣店 主題CSS]]]
-[[[theme:logos|Logos外觀主題]]]
+[[[theme:revised-ijamea-theme|大日本帝國異常事例調查局主題 改]]]
+[[[theme:just-girly-things|粉粉的少女 外觀主題]]]
 [[[theme:mcd|MC&D 外觀主題]]]
 [[[theme:mcf|瑪納慈善基金會 外觀主題]]]
-[[[component:mu-yi-mini-theme|木易小館 CSS主題]]]
-[[[component:mu-yi-theme|木易藏書閣 css版式]]]
-[[[theme:new-mu-yi|新木易 CSS 外觀主題]]]
+[[[theme:much-cool|勁爆酷 CSS外觀主題]]]
 [[[theme:prom-labs|普羅米修斯實驗室 外觀主題]]]
-[[[theme:revised-ijamea-theme|大日本帝國異常事例調查局主題 改]]]
 [[[theme:spc|SPC 外觀主題]]]
 [[[component:spirit-theme|芝加哥鬼靈主題代碼]]]
-[[[theme:toyoho-web|遠野妖怪保護區官方網站主題]]]
 [[[theme:uiu-bhl-theme|特異事故處 BHL 主題]]]
+[[[theme:twin-files|雙重檔案 外觀主題]]]（UIU）
 [[[theme:unusual-cargo|特殊貨物]]]
 [[[theme:wanderers|蛇之手 CSS]]]
 [[[theme:wilsons|威爾遜生物應對組 外觀主題]]]
-[[[theme:much-cool|勁爆酷 CSS外觀主題]]]
-[[[theme:cosmonaut|太空人 外觀主題]]]
-[[[theme:hansarp|HANSARP 外觀主題]]]
 [[[theme:wondertainment|Wondertainment博士外觀主題]]]
 
-+++ 世界線
+++++ INT
+[[[theme:logos|Logos外觀主題]]]
+[[[theme:toyoho-web|遠野妖怪保護區官方網站主題]]]
+
+
++++ 世界線/系列
 [[[theme:3law|第三定律世界線 外觀主題]]]
+[[[theme:5k|5K 外觀主題]]]
+[[[theme:admo|告誡主題]]]
+[[[theme:ad-abyssum|直至深淵 外觀主題]]] （戰術神學部）
+[[[theme:ad-abyssum-penumbra|直至深淵 外觀主題（半影版）]]]（戰術神學部）
 [[[theme:broken-masquerade|毀壞假面 外觀主題CSS]]]
 [[[theme:expose|曝光 外觀主題]]]
 [[[theme:i57|設施-57黑色標記筆外觀主題]]]
 [[[theme:i57-theme|設施-57外觀主題]]]
+[[[theme:kiryu-labs-theme|桐生實驗室外觀主題]]]
+[[[theme:redtape|紅縟帶 外觀主題]]]
 [[[component:sn|核子之夢 外觀主題]]]
 [[[theme:swirling-ashes|漫天塵燼 外觀主題（BHL）]]]
-[[[theme:technoblast|Technoblast 外觀主題]]]
-[[[theme:the-future-is-here-sigma-9|未來就在這裏 Sigma 9 外觀主題]]]
+[[[theme:technoblast|Technoblast 外觀主題]]]（AIAD）
 [[[theme:war-on-all-fronts-sigma|全線戰爭 外觀主題（Sigma-9）]]]
-[[[theme:admo|告誡主題]]]
+
 
 +++ 流浪者圖書館
 [[[theme:dustjacket|流浪者的護封 主題 css]]]
@@ -75,24 +80,19 @@
 [[[component:once-upon-a-time|從前主題]]]
 [[[wanderers:component:hardcover|流浪者的精裝本]]]
 
-+++ 站點主題
-[[[component:site-zh-02|site-zh-02 CSS模板]]]
-[[[component:site-zh-16-css|Site zh 16 Css]]]
-[[[component:site-zh-25-css|Site Zh 25 Css]]]
-[[[component:site-zh-44|site-zh-44 css]]]
 
-+++ 美觀性主題
-[[[theme:archeopelago|上古南島 外觀主題]]]
-[[[component:azure-skydome|燦藍神穹 外觀主題]]]
+
++++ 美觀性主題（Sigma-9）
 [[[theme:basalt|BASALT 外觀主題]]]
 [[[theme:blankstyle|BLANKSTYLE CSS]]]
+[[[theme:bedrock|基岩 外觀主題]]]
 [[[theme:classic|經典SCP基金會外觀主題]]]
 [[[component:darkbodytheme|暗黑之軀主題]]]
-[[[component:djk|DJK]]]
+[[[theme:foxtrot|Foxtrot 外觀主題]]]
 [[[theme:halloween|萬聖節 外觀主題]]]
-[[[theme:jakstyle|JAKSTYLE]]]
-[[[theme:just-girly-things|粉粉的少女 外觀主題]]]
-[[[theme:kiryu-labs-theme|桐生實驗室外觀主題]]]
+[[[theme:monotypical|單型 外觀主題]]]
+[[[theme:minimal|簡約 外觀主題]]]
+[[[theme:nebulae|星雲主題]]]
 [[[theme:night-rush-theme|夜行 外觀主題]]]
 [[[theme:paperstack|Paperstack 外觀主題]]]
 [[[theme:pataphysics|超形上學部 外觀主題]]]
@@ -105,36 +105,63 @@
 [[[theme:sigma|Sigma-9外觀主題]]]
 [[[theme:simple-yonder|悠悠彼方 外觀主題]]]
 [[[theme:space|浩瀚宇宙 外觀主題]]]
-[[[component:three-enclosures-headquarters|三垣CSS主題]]]
+[[[theme:turbo-vision|Turbo Vision 外觀主題]]]
 [[[theme:word-processor|文書軟體 外觀主題]]]
 [[[theme:xmas|聖誕節主題]]]
-[[[theme:monotypical|單型 外觀主題]]]
-[[[theme:turbo-vision|Turbo Vision 外觀主題]]]
-[[[theme:tina|緹娜 外觀主題]]]
-[[[theme:5k|5K 外觀主題]]]
-[[[theme:ad-abyssum|直至深淵 外觀主題]]]
+
 
 +++ 美觀性主題（BHL）
-[[[theme:black-highlighter-theme|黑色標記筆 外觀主題]]]
+* [[[theme:black-highlighter-theme|黑色標記筆 外觀主題]]]
 [[[theme:ch-scp-theme|世界觀內的SCP基金會中文分部外觀主題]]]
 [[[theme:disrememberment-theme|遺忘 外觀主題]]]
+[[[component:djk|DJK]]]
 [[[theme:extra-black-highlighter-theme|超黑標記筆 外觀主題]]]
+[[[theme:jakstyle|JAKSTYLE]]]
+[[[theme:minimalist-bhl|簡約風 黑色標記筆 外觀主題]]]
 [[[theme:ouroborous-theme|銜尾蛇 外觀主題]]]
 [[[theme:penumbra-bhl|半影 BHL]]]
 [[[theme:raisa|RAISA 外觀主題]]]
-[[[theme:redtape|紅縟帶 外觀主題]]]
 [[[theme:scp-offices-theme|SCP 辦公室外觀主題]]]
 [[[theme:the-way-out|出路主題]]]
+
 
 +++ 功能性主題
 [[[component:croqstyle|Croqstyle CSS]]]
 [[[theme:magnus-web-format|Magnus網頁版式]]]
-[[[theme:newspaper-zh|基金會月刊外觀主題]]]
 [[[component:news-layout|新聞版面]]]
 [[[component:pride-highlighter|驕傲標記筆]]]
 [[[component:rso|RSO 組件]]]
 [[[theme:scp-trans-pride|SCP跨性別驕傲 外觀主題]]]
 [[[component:scp-pride|SCP驕傲模板]]]
+
+----
+
++++ 繁中原創主題
+++++ GoI
+[[[component:bt|拋鈴人 CSS模板]]]
+[[[theme:cobweb-international-theme|蛛網國際 CSS]]]
+[[[theme:laundry|洗衣店 主題CSS]]]
+[[[component:mu-yi-mini-theme|木易小館 CSS主題]]]
+[[[component:mu-yi-theme|木易藏書閣 css版式]]]
+[[[theme:new-mu-yi|新木易 CSS 外觀主題]]]
+[[[component:three-enclosures-headquarters|三垣CSS主題]]]
+
+++++ 世界線/系列
+[[[theme:the-future-is-here-sigma-9|未來就在這裏 Sigma 9 外觀主題]]]
+[[[theme:archeopelago|上古南島 外觀主題]]]
+[[[component:azure-skydome|燦藍神穹 外觀主題]]]
+
+++++ 美觀性主題
+[[[theme:tina|緹娜 外觀主題]]]
+[[[theme:newspaper-zh|基金會月刊外觀主題]]]
+
+++++ 站點主題
+[[[component:site-zh-02|Site-zh-02 CSS模板]]]
+[[[component:site-zh-16-css|Site-ZH-16 CSS]]]
+[[[component:site-zh-25-css|Site-ZH-25 CSS]]]
+[[[component:site-zh-44|Site-ZH-44 CSS]]]
+
+
 
 [[/tab]]
 [[tab 評分模組相關]]
@@ -259,23 +286,25 @@
 [[[component:coltop|Coltop]]]
 [[[component:colend|Colend]]]
 
-+++ 作者頁面用
++++ 作者頁面
 [[[component:author-page|人事頁面小工具]]]
 [[[component:bales-brb|徽章展示器本體]]]
-[[[bales-brb-teach|徽章展示器使用教學頁面]]]
+[[[component:wikimodule|維基模組組件]]]
 
-+++ 未分類
++++ 媒體類
 [[[component:audio-player-woed|Woed的音樂播放器 模板]]]
-[[[component:betterfootnotes|BetterFootnotes]]]
-[[[component:blacklight-box|Blacklight Box]]]
+
++++ 頁面與內容客製化組件
+[[[component:betterfootnotes|BetterFootnotes]]]（腳註）
+[[[component:blacklight-box|Blacklight Box]]]（Blockquote）
 [[[component:fade-in|淡入組件]]]
 [[[component:id-card|識別卡]]]
+[[[component:mapping|地圖組件]]]
+[[[component:sigma-plus|Sigma+]]]
++++ Listuser
 [[[component:listusers-1|ListUsers 1]]]
 [[[component:listusers-2|Listusers 2]]]
 [[[component:listusers-3|Listusers 3]]]
-[[[component:mapping|地圖組件]]]
-[[[component:sigma-plus|Sigma+]]]
-[[[component:wikimodule|維基模組組件]]]
 
 [[/tab]]
 
