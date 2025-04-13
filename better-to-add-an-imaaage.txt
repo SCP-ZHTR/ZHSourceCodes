@@ -1,4 +1,4 @@
-[[include :scp-wiki:theme:bedrock]]
+[[include :scp-zh-tr:theme:bedrock]]
 
 [[module CSS]]
 :root {
