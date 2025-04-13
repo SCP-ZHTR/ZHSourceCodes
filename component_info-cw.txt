@@ -57,28 +57,19 @@ table.wiki-content-table td img { padding: 4px; }
 [[/iftags]]
 
 [[module CSS]]
+/* Shift the content warning into position beneath the info button */
 .content-warning {
-  /* Shift the content warning into position beneath the info button
-   *
-   * The var --base-font-size is set to 0.9375rem (15px) in BHL, so using the
-   * fallback parameter of the var() function, I can detect if it or Sigma-9
-   * is being used. I can use this to get the perfect positioning.
-   */
-  transform: translate(
-    /* Horizontal: 5px for BHL and 12px for Sigma-9 */
-    calc(var(--base-font-size, 21px) - 9px),
-    /* Vertical: -8px for BHL and -5px for Sigma-9 */
-    calc(var(--base-font-size, 19px) - 24px)
-  );
+  transform: translate(12px, -5px);
 }
-.content-warning p {
-  /* Override changes from the info module */
-  line-height: normal;
-}
+
 .content-warning-arrow {
+  /* https://phosphoricons.com, licensed MIT */
+  --arrow: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='192' height='192' fill='%23000000' viewBox='0 0 256 256'%3E%3Crect width='256' height='256' fill='none'%3E%3C/rect%3E%3Cpolyline points='128 96 176 48 224 96' fill='none' stroke='%23000000' stroke-linecap='round' stroke-linejoin='round' stroke-width='16'%3E%3C/polyline%3E%3Cpolyline points='32 192 176 192 176 48' fill='none' stroke='%23000000' stroke-linecap='round' stroke-linejoin='round' stroke-width='16'%3E%3C/polyline%3E%3C/svg%3E");
+
   display: inline-block;
   width: 32px;
   transform: translateY(-3px);
+  margin-left: 0.3ch;
 
   background-color: currentColor;
   -webkit-mask-size: 16px;
@@ -87,13 +78,27 @@ table.wiki-content-table td img { padding: 4px; }
   mask-repeat: no-repeat;
   -webkit-mask-position: top left;
   mask-position: top left;
+  -webkit-mask-image: var(--arrow);
+  mask-image: var(--arrow);
+}
 
-  /* https://phosphoricons.com, licensed MIT */
-  -webkit-mask-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='192' height='192' fill='%23000000' viewBox='0 0 256 256'%3E%3Crect width='256' height='256' fill='none'%3E%3C/rect%3E%3Cpolyline points='128 96 176 48 224 96' fill='none' stroke='%23000000' stroke-linecap='round' stroke-linejoin='round' stroke-width='16'%3E%3C/polyline%3E%3Cpolyline points='32 192 176 192 176 48' fill='none' stroke='%23000000' stroke-linecap='round' stroke-linejoin='round' stroke-width='16'%3E%3C/polyline%3E%3C/svg%3E");
-  mask-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='192' height='192' fill='%23000000' viewBox='0 0 256 256'%3E%3Crect width='256' height='256' fill='none'%3E%3C/rect%3E%3Cpolyline points='128 96 176 48 224 96' fill='none' stroke='%23000000' stroke-linecap='round' stroke-linejoin='round' stroke-width='16'%3E%3C/polyline%3E%3Cpolyline points='32 192 176 192 176 48' fill='none' stroke='%23000000' stroke-linecap='round' stroke-linejoin='round' stroke-width='16'%3E%3C/polyline%3E%3C/svg%3E");
+/* Theme compatibility */
+
+:where(:root:has(iframe[src*='black-highlighter'])) .content-warning {
+  transform: translate(0.7em, -0.5em);
+}
+:where(:root:has(iframe[src*='black-highlighter'])) .content-warning-arrow {
+  transform: translateY(-1px);
+}
+
+:where(:root:has(iframe[src*='basalt/basalt-bedrock'])) #page-content .content-warning {
+  transform: translate(0.3em, -0.1em);
+}
+:where(:root:has(iframe[src*='basalt/basalt-bedrock'])) .content-warning-arrow {
+  transform: translateY(-1px);
 }
 [[/module]]
 
-[[div class="content-warning creditRate"]]
+[[div_ class="content-warning creditRate"]]
 ⚠️ 內容警示 [[span class="content-warning-arrow"]]@@ @@[[/span]]
 [[/div]]
