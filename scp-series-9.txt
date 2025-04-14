@@ -417,7 +417,7 @@
 * [[[SCP-8377]]] - [ACCESS DENIED]
 * [[[SCP-8378]]] - [ACCESS DENIED]
 * [[[SCP-8379]]] - [ACCESS DENIED]
-* [[[SCP-8380]]] - [ACCESS DENIED]
+* [[[SCP-8380]]] - 水恐懼症：表面張力 
 * [[[SCP-8381]]] - [ACCESS DENIED]
 * [[[SCP-8382]]] - [ACCESS DENIED]
 * [[[SCP-8383]]] - [ACCESS DENIED]
@@ -636,7 +636,7 @@
 * [[[SCP-8588]]] - [ACCESS DENIED]
 * [[[SCP-8589]]] - [ACCESS DENIED]
 * [[[SCP-8590]]] - Dale
-* [[[SCP-8591]]] - [ACCESS DENIED]
+* [[[SCP-8591]]] - Alex Thorley未能僥倖逃脫
 * [[[SCP-8592]]] - 部門部門
 * [[[SCP-8593]]] - [ACCESS DENIED]
 * [[[SCP-8594]]] - [ACCESS DENIED]
@@ -977,7 +977,7 @@
 * [[[SCP-8913]]] - [ACCESS DENIED]
 * [[[SCP-8914]]] - Our Four Elemental Dragons
 * [[[SCP-8915]]] - [ACCESS DENIED]
-* [[[SCP-8916]]] - [ACCESS DENIED]
+* [[[SCP-8916]]] - 異果
 * [[[SCP-8917]]] - [ACCESS DENIED]
 * [[[SCP-8918]]] - [ACCESS DENIED]
 * [[[SCP-8919]]] - [ACCESS DENIED]
