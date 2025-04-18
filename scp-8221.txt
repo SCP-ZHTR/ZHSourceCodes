@@ -1,6 +1,6 @@
 [[include component:scp-meta-title-hiding css-style=classic]]
 [[include info:start]]
-原文：[https://scp-wiki.wikidot.com/scp-8221 SCP-8221] （無）靈魂音樂與人類時代的終結
+原文：[https://scp-wiki.wikidot.com/scp-8221 SCP-8221] （無）靈魂樂與人類時代的終結
 作者：[[*user TroutMaskReplica]] 
 譯者：[[*user Frederica Bernkastel]]
 > 看看周圍這個你我創造的世界吧
@@ -49,7 +49,7 @@
 * 立即將本異常歸定為SCP-8221（項目等級：Keter），以利繼續研究與監控。
 * 擴大對基金會人員的認知測試，評估相關操作風險。
 * 研究人類靈魂的創造或復甦。
-* 當智慧個體數跌破人類總人口0.01%時，嘗試自殺。
+* 當智慧個體數跌破人類總人口0.01%時，嘗試弒神。
 * 當人類不再是自身文明的主要智慧體時，修正常態定義。
 
 [[>]]
