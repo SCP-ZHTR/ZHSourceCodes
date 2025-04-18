@@ -51,8 +51,8 @@ SCP-ZH-716-B 是指在方碑旁周遭非自然形成的痕跡，包括一堆十�
 **追加：**經對照不同時間 SCP-ZH-716-A 所指的方向後，確認其指向的目標為火星奧林帕斯山山頂，現對有關地區的探索為基金會火星探測任務的第一類優先項目。
 [[module css]]
 :root {
-    --header-logo: url(https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Moon_farside_LRO_5000.jpg/600px-Moon_farside_LRO_5000.jpg);
-    --lumina-footer-image: url(https://moon.nasa.gov/rails/active_storage/disk/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9JYTJWNVNTSXBaVGd3TjJSbFpqa3ROR0l4TnkwME1EZzVMV0ZsTVRBdFl6TmhOMkkyWldJeU9EUXlCam9HUlZRNkVHUnBjM0J2YzJsMGFXOXVTU0pCYVc1c2FXNWxPeUJtYVd4bGJtRnRaVDBpY3pJdE1USTRNQzVxY0djaU95Qm1hV3hsYm1GdFpTbzlWVlJHTFRnbkozTXlMVEV5T0RBdWFuQm5CanNHVkRvUlkyOXVkR1Z1ZEY5MGVYQmxTU0lQYVcxaFoyVXZhbkJsWndZN0JsUTZFWE5sY25acFkyVmZibUZ0WlRvS2JHOWpZV3c9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2tleSJ9fQ==--e51e51e1b690265b9363eb37511e63cd650d1e54/s2-1280.jpg);
+    --header-logo: url(https://scp-wiki.wdfiles.com/local--files/scp-zh-716/600px-Moon_farside_LRO_5000.jpg);
+    --lumina-footer-image: url(https://scp-wiki.wdfiles.com/local--files/scp-zh-716/moon-surface.jpg);
     --moon-mask: linear-gradient(45deg, transparent 10%, white 70%);
     --line-width: 1px;
     --circle-size: calc(var(--base-header-height) *.75 * .1);

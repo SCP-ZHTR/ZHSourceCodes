@@ -1,7 +1,7 @@
 [[include component:scp-meta-title-hiding css-style=classic]]
 [[include info:start]]
-原文：[https://scp-wiki.wikidot.com/scp-8221 SCP-8221] 
-作者：[[*user TroutMaskReplica]] （無）靈魂音樂與人類時代的終結
+原文：[https://scp-wiki.wikidot.com/scp-8221 SCP-8221] （無）靈魂音樂與人類時代的終結
+作者：[[*user TroutMaskReplica]] 
 譯者：[[*user Frederica Bernkastel]]
 > 看看周圍這個你我創造的世界吧
 > 平等就是我們所有的本錢
