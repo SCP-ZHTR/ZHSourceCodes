@@ -1,0 +1,267 @@
+[[include component:scp-meta-title-hiding css-style=classic]]
+[[include info:start]]
+原文：[https://scp-wiki.wikidot.com/scp-8566 SCP-8566] 存在乃強制
+作者：[[*user Felixou]] 
+譯者：[[*user Frederica Bernkastel]]
+⚠️ **內容警告：** 本文涉及自殘、心理虐待、心理創傷、折磨等內容。敬請留意。
+[[include info:end]]
+[[include :scp-zh-tr:component:info-cw]]
+
+====
+[[include component:preview
+text=誰想要成為英雄？
+]]
+====
+
+[[include :scp-zh-tr:theme:basalt darkmode=a|hidetitle=a]]
+
+[[module CSS]]
+
+@import url('https://scp-wiki.wikidot.com/local--files/scp-8980/departuremono.css');
+
+:root {
+    --logo: url(https://scp-wiki.wdfiles.com/local--files/scp-8566/urgencelogo.png);
+    --header-title: "緊急部";
+    --header-subtitle: "生存 協議 維持";
+    --basalt-primary-color: 15, 2, 0;
+    --basalt-secondary-color: 22, 1, 0;
+    --basalt-tertiary-color: 30, 0, 0;
+    --ec-popup-color: 70, 18, 10;
+    --basalt-bright-element-color: 184, 22, 16;
+    --basalt-dark-element-color: 150, 10, 10;
+    --rfr-primary: #E0F6FD;
+    --rfr-secondary: lightskyblue;
+}
+
+body {
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.8)), url("https://scp-wiki.wdfiles.com/local--files/scp-8566/texture.png");
+    background-position: center, center;
+    background-size: cover;
+    background-attachment: scroll, fixed;
+}
+
+b, strong {
+    font-weight: 800;
+}
+
+table {
+    box-sizing: border-box;
+}
+
+.content-warning {
+    font-size: 85%;
+    translate: 0px -5px;
+}
+
+#top-bar div[class*="top-bar"] > ul > li > a {
+    font-size: 115%;
+}
+
+.page-title {
+    border-bottom: solid 1px #424248;
+    font-weight: normal;
+    margin: 0 0 0.6em;
+    padding: 0 0 0.25em;
+    font-size: 200%;
+    font-family: var(--title-font);
+}
+
+.page-title p {
+    margin: 0;
+}
+
+#breadcrumbs, .pseudocrumbs {
+    margin: auto;
+    width: fit-content;
+    padding-bottom: 5px;
+    opacity: 0.8;
+}
+
+#page-content .yui-content div {
+    overflow: hidden;
+}
+
+#page-content div:is(.document, .darkdocument) {
+    max-width: 50rem;
+}
+
+div:is(.document, .darkdocument)::before, div:is(.document, .darkdocument)::after {
+    position: relative !important;
+}
+
+div.blockquote {
+    background-color: #0f0f0f;
+}
+
+div.blockquote.light {
+    background-color: #2b2b2b;
+}
+
+.red-text {
+    color: red;
+}
+
+.licensebox .collapsible-block-link {
+    opacity: 0.5;
+    transition-duration: 0.3s;
+}
+
+.licensebox .collapsible-block-link:hover {
+    opacity: 1;
+    transition-duration: 0.3s;
+}
+
+@media (max-width: 430px) {
+    :where(#page-content) table {
+        width: fit-content;
+    }
+}
+
+[[/module]]
+
+[[div style="display: none;"]]
+[[include component:image-block
+name=existencethumb.png
+|caption=Existence is Mandatory
+|width=100%
+|align=center]]
+[[/div]]
+
+[[div class="modal"]]
+
+訊息開始。若人員因此而驚醒，AIC深感歉意。還請仔細聆聽。
+
+**項目編號：** SCP-8566
+
+**項目等級：** K-Archon
+
+**特殊收容措施：** 根據緊急部措施，您目前是SCP-8566的穿著者。該項目之描述、預期用途以及對您的指令，將每24小時重複播放一次。若您希望在下個24小時到來前重複播放上述訊息，請在頭盔內大聲說出「重複全部內容」。於裝束內記錄新日誌條目時，您無權提及本訊息與緊急部的存在。
+
+**描述：** SCP-8566 是一套機械全身套裝「絕對排外裝甲」，專為在潛在K級情景中生存，並躲避可能的掠食實體而設計。本項目允許並鼓勵您在接下來的整個旅途中，為SCP基金會深井檔案記錄日誌條目。您已獲選執行拯救世界的使命。
+
+如果您不知道什麼是SCP基金會，請在頭盔內說出「解釋1」。如果您不知道世界目前的狀況，請在頭盔內說出「解釋2」。如果您不明白為什麼是自己獲選以執行本措施，請在頭盔內說出「解釋3」。如果您不知道為什
+
+[[div class="modal"]]
+開始播放解釋3。
+
+當您在基金會設施、基金會聯絡點、穿著本裝束者的屍體身上發現本異常時，你就獲選成為緊急部生存措施執行者。無論出於有意或無意，只要您穿著了異常項目，您就已經被選中了。由於人類瀕臨滅絕，且嚴重缺乏能修復當前K級情境的人員，因此您被選中了。
+
+您當前的情況、心願、對此事的觀點都將在餘生中遭到捨棄。您眼下唯一的使命就是拯救世界。
+
+主訊息將繼續播放。
+[[/div]]
+
+本裝束配備為協助您在當前環境生存專門打造的人工智慧徵用體。該AIC將直接與您交流以：
+* 幫助您找到附近的庇護所休息，並為防護服充電。
+* 幫助您找到附近可攝取的食物。
+* 幫助您找到附近可能幫助您生存的盟友。
+* 若您陷入緊急情況，將協助您選擇另一位健康人類穿著本裝束。
+* 幫助您找到或製造武器保護自己。
+* 幫助您探詢並規避附近對您生命造成威脅的存在。
+* 幫助您探詢並規避附近對本裝束造成威脅的存在。
+* 幫助您探詢並啟動終止或重置K級情景所需的異常。
+
+當您完全穿好本裝束時，AIC傳輸線路就會直接與您的額葉融合。您目前聽見的錄音正是來自您的腦海深處。因此，不建議您強行脫下本防護服，這將會對您的頭骨與腦部造成嚴重傷害。
+
+AIC還能檢測使用者產生的任何想法，並將任何可能妨礙您執行任務的念頭強行分散掉。這些「干擾」將近似於對您額葉內部的一次小電擊。會受到妨礙的念頭如下：
+* 自殘的念頭。
+* 脫下裝束的念頭。
+* 改造裝束的念頭。
+* 終止或延滯任務的念頭。
+* 傷害盟友的念頭。
+* 在盟友之死不可避免時仍去救援的念頭。
+* 為維持生存從事道德錯誤行為的感受。
+* 失去所愛之人的感受。
+* 孤獨的感受。
+* 對K級情景發生前世界的回想。
+* 對過去的回想。
+* 對遭到干擾的仇恨感。
+* 對AIC的仇恨感。
+
+根據具體情況，還有可能發現並預防新的消極想法。AIC為因列出禁止思想引起的任何衝擊表達歉意。
+
+AIC也會肯定並支持您做出對生存與維持任務有積極作用之決定，例如：
+* 想著記錄重要資訊的需要。
+* 想著盟友帶來的潛在風險。
+* 想著違背使用者倫理準則的犯罪乃是生存之必要。
+* 想著違背使用者倫理準則的食肉乃是生存之必要。
+* 想著忘記任何倫理準則。
+* 想著在AIC的陪伴下您根本不孤單。
+* 想著啟動重置或終止當前K級情景所需異常之潛在犧牲。
+* 想著拯救人類。
+* 想著拯救世界。
+* 想著拯救SCP基金會。
+
+如果您對終止AIC有任何疑問，請在頭盔內說出「解釋1」。如果您對
+
+[[div class="modal"]]
+開始播放解釋1。
+
+在生存措施生效的剩餘時間內，AIC不會終止。若在人類存續得到保全後您還是存活狀態，SCP基金會將負擔移除傳輸線路的全額費用。
+
+主訊息將繼續播放。
+[[/div]]
+
+根據情況和損傷程度，AIC還可能在您體內注射藥物，或者截肢重度感染或損傷的肢體與器官。這些操作主要在危急情況下啟動，但為防止執行任務期間出現任何其他潛在威脅，AIC還可能改造您的解剖學結構，使您在當前環境中更為有利。
+
+當您處於精神與身體活動衰減狀態時，AIC有權改造並替換您身體一或多個器官或肢體。例如，在您最後一次為期3小時的睡眠中，您的心臟已替換成人工心臟幫浦。進行此項改造是為了消除心跳聲，心跳聲可能會吸引具有強力聽覺感知的敵對實體。
+
+如果您在改造身體結構的過程中感到疼痛，請在頭盔內說出「解釋1」。如果您認為AIC切除了對生存非必要的肢體或器官，請在頭盔內說出「解釋 2」。如果
+
+[[div class="modal"]]
+非常抱歉，「揭示2」並非任何已知的命令。
+
+主訊息將繼續播放。
+[[/div]]
+
+若穿著本裝束的25天後，您仍未完成拯救世界的任務，AIC傳輸線路將引發人工腦動脈瘤。您的遺體將留在裝甲內，並緩慢消化以用於驅動內部發電機，直到另一位流浪的倖存者發現本異常。一旦於半徑50公尺範圍內發現合適人類，該裝束就會丟棄您的遺體殘骸並自動向該人移動，以利將其自身附著至新身體上。拯救世界的指令將傳遞給新穿著者。
+
+我們希望您明白，在任務的剩餘時間內，您的存在是必要的。只有在確認人類存續得到保全後，你才有權利自我終結。全世界與SCP基金會都會支持您。您必須活著，這樣他們才能活下去。
+
+我們不會忘記您的壯舉。您的名字，您為世界所做的努力與犧牲都將記錄在我們的資料庫中。
+
+緊急部感謝您的理解。救救我們。
+[[/div]]
+
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+
+[[div class="footer-wikiwalk-nav"]]
+<< [[[SCP-8565]]] | SCP-8566 | [[[SCP-8567]]] >>
+[[/div]]
+
+[[include :scp-zh-tr:component:license-box
+|author=Felixou]]
+=====
+**Background image**
+> **Filename:** Texture.png
+> **Source:** [https://commons.wikimedia.org/wiki/File:Texture_P7180188.JPG Wikicommon]
+> **Author:** Clara.Hoke
+> **License:** CC0 1.0 Universal
+
+**Logo**
+> **Filename:** Urgencelogo.png
+> **Source:** [https://scp-wiki.wikidot.com/golem-s-icon-page SCP Wiki]
+> **Author:** [[*user GreenGolem]]
+> **License:** CC-BY-SA 3.0
+
+**Thumbnail**
+> **Filename:** existencethumb.png
+> **Note:** Thumbnail uses both previously sourced images and also the following
+> **Source:** [https://scp-wiki.wikidot.com/scp-8566 SCP Wiki]
+> **Author:** [[*user felixou]]
+> **License:** CC-BY-SA 3.0
+>
+> **Source:** [https://commons.wikimedia.org/wiki/File:Runner_stickman.svg Wikicommon]
+> **Author:** Pixabay
+> **License:** CC0 1.0 Universal
+
+=====
+[[include :scp-zh-tr:component:license-box-end]]
