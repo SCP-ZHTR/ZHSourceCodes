@@ -1,0 +1,74 @@
+[[include component:scp-meta-title-hiding css-style=classic]]
+[[include info:start]]
+原文：[https://scp-wiki.wikidot.com/scp-8221 SCP-8221] 
+作者：[[*user TroutMaskReplica]] （無）靈魂音樂與人類時代的終結
+譯者：[[*user Frederica Bernkastel]]
+> 看看周圍這個你我創造的世界吧
+> 平等就是我們所有的本錢
+> 快來加入人類兄弟會吧
+> 哦，多麼美好、美滿的世界
+= （西暦2112年）
+[[include info:end]]
+
+[[div style="display: none;"]]
+[[include :scp-wiki:theme:flopstyle]]
+[[/div]]
+[[div style="display: none;" class="crom-thumbnail"]]
+[[include component:image-block name=hisimage.jpg]]
+[[/div]]
+
+
+[[include :scp-wiki:component:centered-header-sigma-9]]
+[[module CSS]]
+ :root {
+    --header-title: "SCP基金會";
+    --header-subtitle: "戰術神學部";
+    --lgurl: url(https://scp-wiki.wdfiles.com/local--files/theme%3Aad-abyssum/Department%20of%20Tactical%20Theology%20Inverted%20Transparent.png);
+}
+[[/module]]
+
+[[div class="report-box"]]
++++* 基金會內部報告
+= **檔案編號：** TACT-THEO/2025-03-24/001
+= **權限等級：** 4
+= **機密**
+----
+**優先等級：** [[span class="terminal-span"]] AMIDA [[/span]]
+
+**摘要：** 在近期戰術神學的身後之地研究中，發現了全球人口統計的一些矛盾。儘管西元33年（C†事件後）以降人類宿體數量呈指數級增長，人類靈魂數量卻始終僅維持在8億上下。
+
+這代表儘管真實人類意識與有限數量的輪迴靈魂關係密切，但越來越多人口正受到未知力量/神靈實體的使役。此外，根據長期死後研究結果，數千個初始靈體並未能成功轉世，而是成為了死後的異常存在，或因驅魔遭到消滅（每年約佔總體靈魂之0.00015%）。
+
+**重大發現：**
+
+* 全球樣本（N=100000）認知與神學分析顯示，統計上存在極大比例個體缺乏預期的智慧自我意識特徵。 （這包括約63%的SCP基金會人員。）儘管外觀上相當正常，但卻在深度記憶保存方面存在顯著落差。
+* 基金會根據目前的出生率推斷，在2150年時，靈魂操縱人類將僅佔總人口的1/6。
+
+**建議措施：**
+
+* 立即將本異常歸定為SCP-8221（項目等級：Keter），以利繼續研究與監控。
+* 擴大對基金會人員的認知測試，評估相關操作風險。
+* 研究人類靈魂的創造或復甦。
+* 當智慧個體數跌破人類總人口0.01%時，嘗試自殺。
+* 當人類不再是自身文明的主要智慧體時，修正常態定義。
+
+[[>]]
+- 蒂安娜．馬克．羅斯安，戰術神學部
+[[/>]]
+[[/div]]
+
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[SCP-8220]]] | SCP-8221 | [[[SCP-8222]]] >>
+[[/=]]
+[[/div]]
+
+[[include :scp-zh-tr:component:license-box
+|author=TroutMaskReplica
+]]
+> **Filename:** hisimage.jpg
+> **Name:** God the Father MET EP1444
+> **Author:** Giovanni Ambrogio Bevilacqua
+> **License:** Public Domain
+> **Source Link:** [https://commons.wikimedia.org/wiki/File:God_the_Father_MET_EP1444.jpg Wikimedia Commons]
+[[include :scp-zh-tr:component:license-box-end]]
