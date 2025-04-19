@@ -1,0 +1,679 @@
+[[include info:start]]
+原文：[https://scp-wiki.wikidot.com/kill-agents-and-you Don't Die: Kill Agents and You] 不要死掉：滅殺劑與你
+作者：[[*user Queerious]] 
+譯者：[[*user Frederica Bernkastel]]
+[[include info:end]]
+
+=====
+[[include :scp-zh-tr:component:preview
+|text=注：基金會全體職員在接觸模因滅殺劑後應查閱以下內容。]]
+=====
+[[include :scp-zh-tr:theme:blankstyle]]
+[[include :scp-wiki:theme:queerstyle]]
+
+[[module css]]
+
+:root {
+    --fade-in-delay: 0.05s;
+}
+
+/* SLIDE SHOW - BASIC FORMAT FOR VIEWPORT */
+.yui-navset .yui-nav li, .yui-navset .yui-navset-top .yui-nav li {
+    flex-grow: 0 !important;
+}
+
+.yui-navset-top {
+    container-type: inline-size;
+}
+
+.yui-nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    bottom-border-width: 0px;
+}
+
+.yui-nav li {
+    display: none !important;
+    margin: 0 !important;
+}
+
+.yui-nav li.selected {
+    display: inline-block !important;
+}
+
+.yui-content {
+    display: grid;
+    padding: 0em !important;
+    min-width: 110%;
+    margin-left: -5%;
+    max-width: 120%;
+    border: 2px solid #333 !important;
+}
+
+@container (width >= 1em) {
+    .yui-content {
+        min-height: calc(60cqw * 1.1);
+        max-height: calc(60cqw * 1.1);
+        margin-top: -73cqw;
+    }
+    .yui-nav {
+        margin-top: 69cqw !important;
+}
+}
+
+.debugNote {
+    margin: auto;
+    display: none;
+}
+
+@media (max-width: 600px) {
+    .debugNote {
+        display: block;
+}
+
+}
+
+/* Slide Visuals CSS */
+.slideContainer {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr;
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    background-image: url(https://scp-wiki.wdfiles.com/local--files/kill-agents-and-you/2560px-Pseudo_Kleinian_OpenCL_214854124_25K.jpg);
+    background-blend-mode: saturation;
+    background-color: #00000040;
+    color:white;
+}
+
+.slideContainer p, .slideContainer li {
+    font-size: 1.3em;
+    line-height: 1.6;
+}
+
+.slideAInner {
+    grid-area: 1 / 1 / 5 / 5;
+    margin: auto 1.5em;
+    padding: 0.5em 1em;
+    border: solid 1px black;
+    background: rgb(210 210 210 / 30%);
+}
+
+.slideBInnerLeft {
+    grid-area: 1 / 1 / 5 / 3;
+    margin: 1.5em 0.5em 1.5em 1.5em;
+    padding: 0.5em 1em;
+    border: solid 1px black;
+    background: rgb(210 210 210 / 30%);
+}
+.slideBInnerRight {
+    grid-area: 1 / 3 / 5 / 5;
+    margin: 1.5em 1.5em 1.5em 0.5em;
+    padding: 0.5em 1em;
+    border: solid 1px black;
+    background: rgb(210 210 210 / 30%);
+}
+
+.slideCInner {
+    grid-area: 2 / 1 / 4 / 5;
+    margin: auto 1.5em;
+    padding: 0.5em 1em;
+    border: solid 1px black;
+    align-content: center;
+    text-align: center;
+    background: rgb(210 210 210 / 30%);
+}
+
+.slideDInner {
+    grid-area: 5 / 1 / 5 / 5;
+    margin: auto 1.5em;
+    padding: 0.5em 1em;
+    border: solid 1px black;
+    background: rgb(210 210 210 / 30%);
+}
+
+.slideEInnerLeft {
+    grid-area: 1 / 1 / 5 / 1;
+    margin: 1.5em -1.5em 1.5em 1.5em;
+    padding: 0.5em 1em;
+    border: solid 1px black;
+    border-right-width: 0px;
+    background: rgb(210 210 210 / 30%);
+}
+.slideEInnerRight {
+    grid-area: 1 / 2 / 5 / 5;
+    margin: 1.5em;
+    padding: 0.5em 1em;
+    border: solid 1px black;
+    background: rgb(210 210 210 / 30%);
+}
+
+.slideFInnerTitle {
+    grid-area: 1 / 1 / 2 / 5;
+    margin: 1.5em 1.5em 0em 1.5em;
+    padding: 0.5em 1em;
+    border: solid 1px black;
+    background: rgb(210 210 210 / 30%);
+    text-align:center;
+}
+.slideFInnerBody {
+    grid-area: 2 / 1 / 5 / 5;
+    margin: 1em 1.5em 1.5em 1.5em;
+    padding: 0.5em 1em;
+    border: solid 1px black;
+    background: rgb(210 210 210 / 30%);
+}
+.slideGInnerTitle {
+    grid-area: 1 / 1 / 2 / 5;
+    margin: auto 1.5em 0em 1.5em;
+    padding: 0.5em 1em;
+    border: solid 1px black;
+    background: rgb(210 210 210 / 30%);
+    text-align:center;
+}
+.slideGInnerLeft {
+    grid-area: 2 / 1 / 5 / 3;
+    margin: 1em 0.5em auto 1.5em;
+    padding: 0.5em 1em;
+    border: solid 1px black;
+    background: rgb(210 210 210 / 30%);
+}
+.slideGInnerRight {
+    grid-area: 2 / 3 / 5 / 5;
+    margin: 1em 1.5em auto 0.5em;
+    padding: 0.5em 1em;
+    border: solid 1px black;
+    background: rgb(210 210 210 / 30%);
+}
+
+.titleSlide {
+    grid-area: 2 / 1 / 4 / 5;
+    margin: auto 1.5em;
+    padding: 0.5em 1em;
+    align-content: center;
+    text-align: center;
+    background: rgb(0 0 0 / 30%);
+}
+
+/* Individual Slide Logic */
+.yui-nav:nth-child(1) {
+
+/*Slide 1*/
+li.selected:nth-of-type(1) + li:nth-of-type(2) {
+    display: inline-block !important;
+}
+
+/*Slide 2*/
+li:nth-of-type(1):has(+ li.selected:nth-of-type(2)){
+    display: inline-block !important;
+}
+li.selected:nth-of-type(2) + li:nth-of-type(3) {
+    display: inline-block !important;
+}
+
+/*Slide 3*/
+li:nth-of-type(2):has(+ li.selected:nth-of-type(3)){
+    display: inline-block !important;
+}
+li.selected:nth-of-type(3) + li:nth-of-type(4) {
+    display: inline-block !important;
+}
+
+/*Slide 4*/
+li:nth-of-type(3):has( + li.selected:nth-of-type(4)){
+    display: inline-block !important;
+}
+li.selected:nth-of-type(4) + li:nth-of-type(5) {
+    display: inline-block !important;
+}
+
+/*Slide 5*/
+li:nth-of-type(4):has( + li.selected:nth-of-type(5)){
+    display: inline-block !important;
+}
+li.selected:nth-of-type(5) + li:nth-of-type(6) {
+    display: inline-block !important;
+}
+
+/*Slide 6*/
+li:nth-of-type(5):has( + li.selected:nth-of-type(6)){
+    display: inline-block !important;
+}
+li.selected:nth-of-type(6) + li:nth-of-type(7) {
+    display: inline-block !important;
+}
+
+/*Slide 7*/
+li:nth-of-type(6):has( + li.selected:nth-of-type(7)){
+    display: inline-block !important;
+}
+li.selected:nth-of-type(7) + li:nth-of-type(8) {
+    display: inline-block !important;
+}
+
+/*Slide 8*/
+li:nth-of-type(7):has( + li.selected:nth-of-type(8)){
+    display: inline-block !important;
+}
+li.selected:nth-of-type(8) + li:nth-of-type(9) {
+    display: inline-block !important;
+}
+
+/*Slide 9*/
+li:nth-of-type(8):has( + li.selected:nth-of-type(9)){
+    display: inline-block !important;
+}
+li.selected:nth-of-type(9) + li:nth-of-type(10) {
+    display: inline-block !important;
+}
+
+/*Slide 10*/
+li:nth-of-type(9):has( + li.selected:nth-of-type(10)){
+    display: inline-block !important;
+}
+li.selected:nth-of-type(10) + li:nth-of-type(11) {
+    display: inline-block !important;
+}
+
+/*Slide 11*/
+li:nth-of-type(10):has( + li.selected:nth-of-type(11)){
+    display: inline-block !important;
+}
+li.selected:nth-of-type(11) + li:nth-of-type(12) {
+    display: inline-block !important;
+}
+
+/*Slide 12*/
+li:nth-of-type(11):has( + li.selected:nth-of-type(12)){
+    display: inline-block !important;
+}
+li.selected:nth-of-type(12) + li:nth-of-type(13) {
+    display: inline-block !important;
+}
+
+/*Slide 13*/
+li:nth-of-type(12):has( + li.selected:nth-of-type(13)){
+    display: inline-block !important;
+}
+li.selected:nth-of-type(13) + li:nth-of-type(14) {
+    display: inline-block !important;
+}
+
+/*Slide 14*/
+li:nth-of-type(13):has( + li.selected:nth-of-type(14)){
+    display: inline-block !important;
+}
+li.selected:nth-of-type(14) + li:nth-of-type(15) {
+    display: inline-block !important;
+}
+
+/*Slide 15*/
+li:nth-of-type(14):has( + li.selected:nth-of-type(15)){
+    display: inline-block !important;
+}
+li.selected:nth-of-type(15) + li:nth-of-type(16) {
+    display: inline-block !important;
+}
+
+/*Slide 16*/
+li:nth-of-type(15):has( + li.selected:nth-of-type(16)){
+    display: inline-block !important;
+}
+li.selected:nth-of-type(16) + li:nth-of-type(17) {
+    display: inline-block !important;
+}
+
+/*Slide 17*/
+li:nth-of-type(16):has( + li.selected:nth-of-type(17)){
+    display: inline-block !important;
+}
+li.selected:nth-of-type(17) + li:nth-of-type(18) {
+    display: inline-block !important;
+}
+
+/*Slide 18*/
+li:nth-of-type(17):has( + li.selected:nth-of-type(18)){
+    display: inline-block !important;
+}
+li.selected:nth-of-type(18) + li:nth-of-type(19) {
+    display: inline-block !important;
+}
+
+/*Slide 19*/
+li:nth-of-type(18):has( + li.selected:nth-of-type(19)){
+    display: inline-block !important;
+}
+li.selected:nth-of-type(19) + li:nth-of-type(20) {
+    display: inline-block !important;
+}
+
+/*Slide 20*/
+li:nth-of-type(19):has( + li.selected:nth-of-type(20)){
+    display: inline-block !important;
+}
+li.selected:nth-of-type(20) + li:nth-of-type(21) {
+    display: inline-block !important;
+}
+
+/*Last Slide*/
+li:nth-last-of-type(2):has( + li.selected:nth-last-of-type(1)) {
+    display: inline-block !important;
+}
+
+}
+
+/* Radian Conditional Collapsibles Code */
+body:has(.lightSwitch .collapsible-block-unfolded[style="display: block;"]),
+body:has(.lightSwitch .collapsible-block-unfolded[style=""]) {
+    background-color: rgb(196 202 195);
+    background-blend-mode: difference;
+}
+
+[[/module]]
+
+[[div class="blockquote debugNote"]]
+++ 如果你正在閱讀本文，而且看起來很有問題，這是因為本剪報在設計時並未考量到您的螢幕尺寸。請另選其他桌電或筆電瀏覽本文的內容。
+[[/div]]
+
+[[tabview]]
+[[tab 投影片封面]]
+[[div class="slideContainer" style="background-image: url(https://scp-wiki.wdfiles.com/local--files/kill-agents-and-you/Spirals_in_self-similarity.jpg);"]]
+[[div class="titleSlide" ]]
++ ##white|__不要死掉：滅殺劑與你__##
+++ ##white|//認知危害與模因「滅殺」劑綜合指南//##
+[[/div]]
+[[/div]]
+[[/tab]]
+
+[[tab 投影片2]]
+[[div class="slideContainer"]]
+[[div class="slideAInner"]]
++ ##white|__所以你完蛋了__##
+既然你在看這分報告，那就意味著一件事：你完蛋了。你不是看了某個滅殺劑並僥倖活了下來，就是覺得把奇怪網絡釣魚電子郵件發給其他站點人員是個好主意──不管是哪個，你都該知道更多東西了。
+
+所以為了修正這點，在本次簡報結束後你將會學到：
+* 什麼是模因滅殺劑；
+* 不同類型的滅殺劑；
+* 如何識別滅殺劑；
+* 當你（又一次地）玩大蛋時該怎麼做。
+[[/div]]
+[[/div]]
+[[/tab]]
+
+[[tab 投影片3]]
+[[div class="slideContainer"]]
+[[div class="slideCInner"]]
+**首先，你要知道模因滅殺劑危險、不穩定、錯綜複雜。然而，實務發現的大多數「滅殺劑」實際上並不會真的殺死受害者。**
+
+**當你確認安全並準備好繼續後，請點擊下一張投影片。**
+[[/div]]
+[[/div]]
+[[/tab]]
+
+[[tab 投影片4]]
+[[div class="slideContainer"]]
+[[div class="slideAInner" style="background-image:url(https://scp-wiki.wdfiles.com/local--files/scp-001/fractal-mka.jpeg); margin: 1.5em;"]]
+
+[[/div]]
+[[/div]]
+[[/tab]]
+
+[[tab 投影片5]]
+[[div class="slideContainer"]]
+[[div class="slideCInner"]]
++++ ##white|嚇到了嗎？你認出那是001提案存取系統的「滅殺劑」了嗎？好吧，你根本不該存取那個頁面的──但先不管這個了，這不是那個滅殺劑。只是//看上去//很相似而已。##
+
+++ ##white|__第一課__：不是所有碎形圖都是滅殺劑。有些只是圖片而已。##
+[[/div]]
+[[/div]]
+[[/tab]]
+
+[[tab 投影片6]]
+[[div class="slideContainer"]]
+[[div class="slideAInner"]]
++ ##white|__那什麼才是滅殺劑？__##
+
+我們喜歡用許多模糊的語言談論非常具體複雜的事物，整個基金會都在犯這種錯。但沒有任何領域能與基金會研究員在模因與認知危害方面，理解缺乏的程度相比。
+
+要了解什麼是模因或認知危害滅殺劑，那麼，你可能會需要先知道什麼是模因，對嗎？不，你不需要知道。是的。你只需要知道//足夠多//，就不會再害自己完蛋了──你需要知道的就是這個簡報將提供的。
+
+滅殺劑就是能透過感知或概念終結你性命的__任何東西__。
+[[/div]]
+[[/div]]
+[[/tab]]
+
+[[tab 投影片7]]
+[[div class="slideContainer"]]
+[[div class="slideCInner"]]
+++ ##white|所以滅殺劑會把你弄死。夠簡單了吧？##
+
+++ ##white|不幸的是，知道這會害死你對我們要挽救你的性命沒什麼幫助。如果你想要在（又一個）滅殺劑面前活下來，你需要搞清楚自己正在面對__哪種__類型的滅殺劑。##
+[[/div]]
+[[/div]]
+[[/tab]]
+
+[[tab 投影片8]]
+[[div class="slideContainer"]]
+[[div class="slideAInner"]]
++ ##white|__三大類模因滅殺劑__##
+
+在記憶不同類型的滅殺劑時，重點就是記住所有模因學家都是「詐欺師」（**CON** artists）。「CON」是個很好的記憶口訣，幫助你快速記住三大類型的滅殺劑。
+* 化學（**C**hemical）滅殺劑，透過誘引大腦產生化合物，直接殺死受害者；
+* 本體（**O**ntological）滅殺劑，透過危險的思想、概念、不可能性，直接殺死受害者；
+* 神經（**N**eurological）滅殺劑，透過改變受害者的感知，間接殺死受害者，與前兩者的直接手段並不相同。
+[[/div]]
+[[/div]]
+[[/tab]]
+
+[[tab 投影片9]]
+[[div class="slideContainer"]]
+[[div class="slideFInnerTitle"]]
++ ##white|__第一型：[[size 115%]]化[[/size]]學滅殺劑__##
+[[/div]]
+[[div class="slideFInnerBody"]]
+__化學滅殺劑__ 通常是最安全的殺滅劑，因為在導致死亡前會有延遲時間。這是出於化學滅殺劑的攻擊方式：迫使大腦產生特定神經傳導物質，例如腎上腺素、多巴胺、血清素等。
+
+與其他模因滅殺劑相比，化學滅殺劑通常不太會造成致命後果。化學滅殺劑可以透過反模因、醫療干預實現中和，緊急情況下，還可以透過誘導暫時生物停滯消除迷因滅殺劑的指令。
+[[/div]]
+[[/div]]
+[[/tab]]
+
+[[tab 投影片10]]
+[[div class="slideContainer"]]
+[[div class="slideGInnerTitle"]]
++ ##white|__識別模因滅殺劑（CKA）__##
+[[/div]]
+[[div class="slideGInnerLeft"]]
++++ ##white|CKA## ###55ff55|會：##
+* 讓你的身體產生異樣感。這種感覺可能如疼痛般明顯，也可能如刺痛般微妙；
+* 症狀逐漸惡化；
+* 透過誘引生成危險級別的化學物質殺死目標。
+[[/div]]
+[[div class="slideGInnerRight"]]
++++ ##white|CKA## ###ff5353|不會：##
+* 一經觀察就將人殺死。這是最快級別的特徵；
+* 竄改現實，CKA僅針對化學物質生成；
+* 在惰性或未受觀察時仍存在固有的生物危害特質。
+[[/div]]
+[[/div]]
+[[/tab]]
+
+[[tab 投影片11]]
+[[div class="slideContainer"]]
+[[div class="slideFInnerTitle"]]
++ ##white|__第二型：[[size 115%]]本[[/size]]體滅殺劑__##
+[[/div]]
+[[div class="slideFInnerBody"]]
+__本體滅殺劑__是最難預測的滅殺劑類型，這類滅殺劑能夠產生大規模的影響。本體滅殺劑的攻擊載體是概念轉移；具體而言，可以透過視覺觸發傳達個人的思想、概念、模因。
+
+不幸的是，這個「概念」實際上可以是任何東西，而其用以導致死亡的方法也同樣難以預測。這個概念可能是不可能的思想（讓你脫離現實），極具攻擊性、掠食性的信息吞噬者，甚至只是與人類生存本身不相容的概念。
+[[/div]]
+[[/div]]
+[[/tab]]
+
+[[tab 投影片12]]
+[[div class="slideContainer"]]
+[[div class="slideGInnerTitle"]]
++ ##white|__識別本體滅殺劑（OKA）__##
+[[/div]]
+[[div class="slideGInnerLeft"]]
++++ ##white|OKA## ###55ff55|會：##
+* 啥事都幹得出來謝謝。這類滅殺劑都是不可預測的；
+* 具有竄改現實的潛力，可能會波及他人；
+* 記憶消除劑是其弱點，因為忘記這個思想//可以//否定掉這類滅殺劑。
+[[/div]]
+[[div class="slideGInnerRight"]]
++++ ##white|OKA## ###ff5353|不會：##
+* 暴露於不同個體而出現一致的症狀；
+* 造成//瞬間//即死，除非是在極端情況下；
+* 消除時造成比其他模因滅殺危害更大的風險。
+[[/div]]
+[[/div]]
+[[/tab]]
+
+[[tab 投影片13]]
+[[div class="slideContainer"]]
+[[div class="slideFInnerTitle"]]
++ ##white|__第三型：[[size 115%]]神[[/size]]經滅殺劑__##
+[[/div]]
+[[div class="slideFInnerBody"]]
+__神經滅殺劑__被認為是所有模因滅殺劑中最危險的，不僅會危及感染者的生命，更會危害周遭他人的生命。神經滅殺劑採取多種替代或破壞性的攻擊方式，間接導致感染者死亡。
+
+實際上，這可以是微妙的東西，例如告訴你的大腦你已經死了，關閉你的生物機能，也可以更直白點，例如讓你相信自己//得去//啟動站點的自毀程序。這就是為什麼神經滅殺劑是最致命的：這東西可以幹出任何事情。
+[[/div]]
+[[/div]]
+[[/tab]]
+
+[[tab 投影片14]]
+[[div class="slideContainer"]]
+[[div class="slideGInnerTitle"]]
++ [[size 90%]]##white|__識別神經滅殺劑（NKA）__##[[/size]]
+[[/div]]
+[[div class="slideGInnerLeft"]]
++++ ##white|NKA## ###55ff55|會：##
+* 影響受害者感知現實的能力；
+* 能竄改受害者的觀點、信念、記憶；
+* 以各種獨特、任意的方式影響不同個體。
+[[/div]]
+[[div class="slideGInnerRight"]]
++++ ##white|NKA## ###ff5353|不會：##
+* 竄改現實，不管受害者說了什麼；
+* 具有相同的發作進程。有可能是即時的，也可能非常緩慢；
+* 擁有同樣的抵抗或中和方法。
+[[/div]]
+[[/div]]
+[[/tab]]
+
+[[tab 投影片15]]
+[[div class="slideContainer"]]
+[[div class="slideCInner"]]
+++ ##white|現在，你對於如何識別滅殺劑有了更好的理解，你可能會想，這樣就能夠倖存下來了，對嗎？##
+
+++ ##white|__第二課__：不。//你//無法擊敗模因滅殺劑。所以請停止嘗試這麼做。##
+[[/div]]
+[[/div]]
+[[/tab]]
+
+[[tab 投影片16]]
+[[div class="slideContainer"]]
+[[div class="slideDInner"]]
+++ ##white|所以。當你看到滅殺劑時，你準備好了解該怎麼做了嗎？##
+[[/div]]
+[[/div]]
+[[/tab]]
+
+[[tab 投影片17]]
+[[div class="slideContainer"]]
+[[div class="slideAInner"]]
++ ##white|__所以究竟該怎麼做呢？對它「S.I.T.」！__##
+
+當你遭遇滅殺劑危機，或認為自己遭遇了可能帶有滅殺劑的事物時，你應該怎麼做？你應該對其進行**S.I.T.**。
+
+* **S.** - 停下（Stop）你在做的任何事，閉上眼睛，先坐下來。保持冷靜，不要驚慌。
+* **I.** - 識別（Identify）這個滅殺危害的類型，盡你所能的去試。你能做出的解釋越多，生還的機會就越大。
+* **T.** - 告知（Tell）他人這裡有活躍狀態的認知危害滅殺劑，並要求他們通知維安部門。模因與反模因學職員將獲派前往你所在的位置清除危害。
+ 
+[[/div]]
+[[/div]]
+[[/tab]]
+
+[[tab 投影片18]]
+[[div class="slideContainer"]]
+[[div class="slideCInner"]]
+++ ##white|但是，等等！如果被感染了怎麼辦？有沒有保證能在遇到滅殺劑時，還能存活下來的方法？##
+
+++ ##white|__第三課__： 它們被稱作「滅殺」劑是有原因的。最好的防禦就是從一開始就不去看它們。##
+[[/div]]
+[[/div]]
+[[/tab]]
+
+[[tab 投影片19]]
+[[div class="slideContainer"]]
+[[div class="slideCInner"]]
+++ ##white|所以。你感覺好一點了嗎？##
+
+++ ##white|有點感覺模因滅殺劑不是那種不可知的危險？是否對自己遭遇模因危害後生存的能力更有信心了？##
+[[/div]]
+[[/div]]
+[[/tab]]
+
+[[tab 投影片20]]
+[[div class="slideContainer"]]
+[[div class="slideAInner"]]
+++ ##white|__來實證一下吧。__##
+
+現在我們將發放一分書面測試，你必須答對90%的問題，否則就必須強制參加額外的模因學基礎培訓課程。如果你沒有親自參與本課程，或者是事後再觀看本剪報，我們將在不久後的將來為你提供測驗。
+
+如果您沒有感到困惑，而是感到無聊，並開始嘗試思索我們在此列出規則的例外情況──那麼，你或許能在模因學領域上大有前途。如果你成功從這些投影片中捕捉了我們想要傳達的訊息，那麼你//肯定//已經具備所需的條件了。
+
+你//還在//看嗎？
+
+請到Site-43聯繫我們 -- Heather G.與Lillian L.
+[[/div]]
+[[/div]]
+[[/tab]]
+
+[[tab 最終投影片]]
+[[div class="slideContainer" style="background-image: url(https://scp-wiki.wdfiles.com/local--files/kill-agents-and-you/Spirals_in_self-similarity.jpg);"]]
+[[div class="titleSlide" ]]
++ ##white|所以要記得。當你下次看見模因滅殺劑並開始恐慌時？##
+
++ ##white|對它「S.I.T.」！##
+
+[[/div]]
+[[/div]]
+[[/tab]]
+
+[[/tabview]]
+@@ @@
+@@ @@
+@@ @@
+[[div class="lightSwitch"]]
+[[=]]
+[[span style="font-weight: 600; font-size:175%;"]][[collapsible show="關個燈？" hide="開個燈？"]][[/span]]
+[[/collapsible]]
+[[/=]]
+[[/div]]
+
+[[include :scp-zh-tr:component:license-box
+|author=Queerious
+]]
+> **Filename:** Pseudo Kleinian OpenCL 214854124 25K.jpg
+> **Author:** PantheraLeo1359531
+> **License:** CC-BY-SA 4.0
+> **Source Link:** https://commons.wikimedia.org/wiki/File:Pseudo_Kleinian_OpenCL_214854124_25K.jpg
+
+> **Filename:** Spirals in self-similarity.jpg
+> **Author:** PantheraLeo1359531
+> **License:** CC-BY-SA 4.0
+> **Source Link:** https://commons.wikimedia.org/wiki/File:Spirals_in_self-similarity.jpg
+
+> **Filename:** fractal-mka.jpeg
+> **Name:** Feather fractal
+> **Author:** Kevin Dooley
+> **License:** CC BY 2.0
+> **Source Link:** https://www.flickr.com/photos/pagedooley/36578381671|Flickr
+[[include :scp-zh-tr:component:license-box-end]]
