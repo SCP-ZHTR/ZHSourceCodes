@@ -41,49 +41,6 @@
 [[/module]]
 [[/tab]]
 
-[[tab 立方體 刪除]]
-[[module ListPages separate="yes" perPage="1000" tags="+立方體" order="name" -category="_default"]]
-%%title_linked%% - %%created_by%%
-[[/module]]
-[[/tab]]
-
-[[tab 黏土 刪除]]
-[[module ListPages separate="yes" perPage="1000" tags="+黏土" order="name" -category="_default"]]
-%%title_linked%% - %%created_by%%
-[[/module]]
-[[/tab]]
-
-[[tab 玻璃 刪除]]
-[[module ListPages separate="yes" perPage="1000" tags="+玻璃" order="name" -category="_default"]]
-%%title_linked%% - %%created_by%%
-[[/module]]
-[[/tab]]
-
-[[tab 石頭 刪除]]
-[[module ListPages separate="yes" perPage="1000" tags="+石頭" order="name" -category="_default"]]
-%%title_linked%% - %%created_by%%
-[[/module]]
-[[/tab]]
-
-[[tab 木質 刪除]]
-[[module ListPages separate="yes" perPage="1000" tags="+木質" order="name" -category="_default"]]
-%%title_linked%% - %%created_by%%
-[[/module]]
-[[/tab]]
-
-[[tab 家具 刪除]]
-[[module ListPages separate="yes" perPage="1000" tags="+家具" order="name" -category="_default"]]
-%%title_linked%% - %%created_by%%
-[[/module]]
-[[/tab]]
-
-[[tab 地圖 刪除]]
-[[module ListPages separate="yes" perPage="1000" tags="+地圖" order="name" -category="_default"]]
-%%title_linked%% - %%created_by%%
-[[/module]]
-[[/tab]]
-
-
 
 [[tab 原創標籤一覽]]
 [[module ListPages separate="no" perPage="100" tags="+scp +原創" order="name" -category="_default"]]
@@ -158,6 +115,69 @@
 [[module ListPages separate="yes" perPage="1000" tags="+頭足類動物" order="name" -category="_default"]]
 %%title_linked%% - %%created_by%%
 [[/module]]
+[[/code]]
+
+立方體
+[[code]]
+[[tab 立方體 刪除]]
+[[module ListPages separate="yes" perPage="1000" tags="+立方體" order="name" -category="_default"]]
+%%title_linked%% - %%created_by%%
+[[/module]]
+[[/tab]]
+[[/code]]
+
+黏土
+[[code]]
+[[tab 黏土 刪除]]
+[[module ListPages separate="yes" perPage="1000" tags="+黏土" order="name" -category="_default"]]
+%%title_linked%% - %%created_by%%
+[[/module]]
+[[/tab]]
+[[/code]]
+
+玻璃
+[[code]]
+[[tab 玻璃 刪除]]
+[[module ListPages separate="yes" perPage="1000" tags="+玻璃" order="name" -category="_default"]]
+%%title_linked%% - %%created_by%%
+[[/module]]
+[[/tab]]
+[[/code]]
+
+石頭
+[[code]]
+[[tab 石頭 刪除]]
+[[module ListPages separate="yes" perPage="1000" tags="+石頭" order="name" -category="_default"]]
+%%title_linked%% - %%created_by%%
+[[/module]]
+[[/tab]]
+[[/code]]
+
+木質
+[[code]]
+[[tab 木質 刪除]]
+[[module ListPages separate="yes" perPage="1000" tags="+木質" order="name" -category="_default"]]
+%%title_linked%% - %%created_by%%
+[[/module]]
+[[/tab]]
+[[/code]]
+
+傢具：SCP-1005-RU / SCP-207-JP
+[[code]]
+[[tab 家具 刪除]]
+[[module ListPages separate="yes" perPage="1000" tags="+家具" order="name" -category="_default"]]
+%%title_linked%% - %%created_by%%
+[[/module]]
+[[/tab]]
+[[/code]]
+
+地圖
+[[code]]
+[[tab 地圖 刪除]]
+[[module ListPages separate="yes" perPage="1000" tags="+地圖" order="name" -category="_default"]]
+%%title_linked%% - %%created_by%%
+[[/module]]
+[[/tab]]
 [[/code]]
 
 [[/collapsible]]
