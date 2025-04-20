@@ -1,4 +1,4 @@
-[[include :scp-wiki:info:start]]
+[[include :scp-zh-tr:info:start]]
 **著作資訊**
 作者： [[*user ParallelPotatoes]]
 
@@ -6,7 +6,7 @@
 
 [https://wanderers-library.wikidot.com/wayward-prayers A Selection of Wayward Prayers]
 
-[[include info:end]]
+[[include :scp-zh-tr:info:end]]
 
 **祈禱來源：**Steven Reft
 **祈禱接受者：**血神 Kolash
