@@ -172,7 +172,7 @@ line-height: 0.4;
 
 ----
 
-**Dr. Heather Garrison（海瑟・加里森博士）：** 大聲公、尖酸、自傲—但她通常是對的，所以大家還是聽她的。在[[[on-guard-43-hub| Site-43]]]任職的模因學及本質學專家；在工作外的[[[cat-got-your-tongue| 研究計畫]]]裡熟練的[[[the-deadname-meme|操弄概念]]]和躲過後果。經常觀測、踏足與操控思想圈。
+**[/system:page-tags/tag/garrison博士 Dr. Heather Garrison]（海瑟・加里森博士）：** 大聲公、尖酸、自傲—但她通常是對的，所以大家還是聽她的。[[[welcome-to-site| SITE]]]的主管，異常本質學部門主席，也在[[[on-guard-43-hub| Site-43]]]兼職模因學專家。在工作外的[[[cat-got-your-tongue| 研究計畫]]]裡熟練的[[[the-deadname-meme|操弄概念]]]和躲過後果。經常觀測、踏足與操控思想圈。
 
 [[collapsible show="你還是不懂？算了，沒關係。" hide="反正你大概等下就忘光了。"]]
 [[[forgotten-memories-hub| 海瑟博士跟莉莉安博士在交往]]]；海瑟可以為了她女友出生入死，而莉莉安博士也是個瘋狂女同，所以兩人一拍即合。所有跟她死名[[footnote]]跨性別者在變性前的舊名[[/footnote]]相關的記憶，包括[[[don-t-let-me-forget| 她的童年記憶]]]，都被永遠抹消了。此事應不會造成任何問題。應該啦。
@@ -1224,7 +1224,7 @@ SCP-4051已作為異常資產部署於實地行動，其最初是[[[task-forces#
 
 [[tab 關注人士]]
 
-= //盟友、對手與其他觀察對象。//
+= //盟友、敵手與其他觀察對象。//
 
 ----
 
@@ -1271,6 +1271,12 @@ SCP-4051已作為異常資產部署於實地行動，其最初是[[[task-forces#
 布馬洛與其追隨者大多[[[footage-recovered-from-a-private-server| 反抗]]]基金會對被認定為「破碎之神」碎片之異常造物的收容行動，但在某些[[[scp-2217| 罕見]]]的[[[the-battle-of-baikal| 情況下]]]，布馬洛也願意成為基金會的[[[scp-6019| 盟友]]]。
 
 [[/collapsible]]
+
+----
+
+**Mr. Carter（卡特閣下）：** 專門兜售異常物品給權貴的關注組織「[[[marshall-carter-and-dark-hub| 馬歇爾、卡特與達克]]]（MC&D）」之[[[from-vagrants-to-gentlemen| 創始人]]]與[[[acquisitions1| 領導者]]]之一。因疑似有多名創始人家族成員[[[when-situations-degenerate |跨世代]]]經營，該組織主管階層的相關資訊不多。[[[mc-d-agent-orientation| 某些情報]]]宣稱卡特定坐在輪椅，疑似用異常手段[[[acquisitions3| 攝取]]]綁在他輪椅後一個被下藥（但仍有意識）的人，以延續生命；[[[third-death| 其他情報]]]則稱其實馬歇爾才是有輪椅的那位，而「魯普雷希特」・卡特則能夠自由在肉軀間轉移意識。
+
+來自該公司的[[[kaiju-caviar-ocn39-t5fg6-7hjl2| 內部文件]]]顯現魯普雷希特・卡特積極參與公司事務，且十分重視[[[micky-d-s| 組織名譽]]]，但也是許多[[[somatic-backups| 尷尬糗事]]]的肇事者。
 
 ----
 

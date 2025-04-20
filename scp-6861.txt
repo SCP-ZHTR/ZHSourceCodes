@@ -1,0 +1,28 @@
+[[include component:scp-meta-title-hiding css-style=classic]]
+[[include info:start]]
+原文：[https://scp-wiki.wikidot.com/scp-6861 SCP-6861] 這就是暴龍的下場
+作者：[[*user Guaire]]
+譯者：[[*user Frederica Bernkastel]]
+[[include info:end]]
+
+[[include :scp-zh-tr:component:pride-highlighter |inc-s9-clgbt-alt= --]]]
+
+**項目編號：** SCP-6861
+
+**項目等級：** Neutralized
+
+**特殊收容措施：** SCP-6861遺體應冷凍保存於標準生物遺骸收容室內。古生物學職員可按需要進行檢查。
+
+**描述：** SCP-6861是PoI-1860的遺骸。SCP-6861死前是一隻//Tyrannosaurus rex//的活體標本，根據目擊者證詞，此霸王龍於1809年2月於美國肯塔基誕生。在PoI-1860死亡前曾擁有異常能力，使人類觀察者無法感知SCP-6861的真實本質，並將其視為非異常的英裔美國人類男性。由於上述特性，加上其近似於人類的智力，使該異常存在一直得到美國安全收容倡議的隱瞞，直到1865年項目死亡為止。
+
+在項目健康狀況最佳的時期，SCP-6861身高12公尺，體重達7公噸以上。這使SCP有著成功（但短暫）的摔跤與軍事生涯。
+
+SCP-6861成年後開始從政，加入當時反對奴隸制的共和黨，並於1834年成為伊利諾州眾議院議員，1842年成為美國眾議院議員，最終投入了1860年的總統大選。
+
+PoI-1860最終於1865年死於華盛頓特區的福特劇院，當時南方邦聯同情者約翰．威爾克斯．布斯對其發起了恐怖攻擊，後者在高喊「[[span class="ruby"]]這就是暴龍的下場[[span class="rt"]]Sic Semper Tyrannosaurus[[/span]][[/span]]」的同時槍擊PoI-1860，子彈擊中項目眼窩導致其死亡。PoI-1860於此事件死亡導致其異常效應喪失，美國維安收容倡議（日後的SCP基金會）施行了大規模的掩蓋作業。對布斯遺體的屍檢顯示，該員屬於//Spinosaurus aegyptiacus//龍種。
+
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[SCP-6860]]] | SCP-6861 | [[[SCP-6862]]] >>
+[[/=]]
+[[/div]]
