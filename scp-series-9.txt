@@ -176,7 +176,7 @@
 * [[[SCP-8144]]] - [ACCESS DENIED]
 * [[[SCP-8145]]] - [ACCESS DENIED]
 * [[[SCP-8146]]] - [ACCESS DENIED]
-* [[[SCP-8147]]] - [ACCESS DENIED]
+* [[[SCP-8147]]] - 世界建造者
 * [[[SCP-8148]]] - [ACCESS DENIED]
 * [[[SCP-8149]]] - [ACCESS DENIED]
 * [[[SCP-8150]]] - [ACCESS DENIED]
@@ -254,7 +254,7 @@
 * [[[SCP-8218]]] - [ACCESS DENIED]
 * [[[SCP-8219]]] - [ACCESS DENIED]
 * [[[SCP-8220]]] - [ACCESS DENIED]
-* [[[SCP-8221]]] - [ACCESS DENIED]
+* [[[SCP-8221]]] - （無）靈魂樂與人類時代的終結
 * [[[SCP-8222]]] - SCP: Panorama
 * [[[SCP-8223]]] - [ACCESS DENIED]
 * [[[SCP-8224]]] - [ACCESS DENIED]
@@ -555,7 +555,7 @@
 * [[[SCP-8507]]] - [ACCESS DENIED]
 * [[[SCP-8508]]] - [ACCESS DENIED]
 * [[[SCP-8509]]] - [ACCESS DENIED]
-* [[[SCP-8510]]] - [ACCESS DENIED]
+* [[[SCP-8510]]] - 從餓房子中回收的筆記
 * [[[SCP-8511]]] - [ACCESS DENIED]
 * [[[SCP-8512]]] - [ACCESS DENIED]
 * [[[SCP-8513]]] - [ACCESS DENIED]
@@ -611,7 +611,7 @@
 * [[[SCP-8563]]] - [ACCESS DENIED]
 * [[[SCP-8564]]] - [ACCESS DENIED]
 * [[[SCP-8565]]] - [ACCESS DENIED]
-* [[[SCP-8566]]] - [ACCESS DENIED]
+* [[[SCP-8566]]] - 存在乃強制
 * [[[SCP-8567]]] - [ACCESS DENIED]
 * [[[SCP-8568]]] - [ACCESS DENIED]
 * [[[SCP-8569]]] - [ACCESS DENIED]
@@ -850,7 +850,7 @@
 * [[[SCP-8794]]] - [ACCESS DENIED]
 * [[[SCP-8795]]] - [ACCESS DENIED]
 * [[[SCP-8796]]] - [ACCESS DENIED]
-* [[[SCP-8797]]] - [ACCESS DENIED]
+* [[[SCP-8797]]] - Alex Thorley文集
 * [[[SCP-8798]]] - 故鄉
 * [[[SCP-8799]]] - A Book of Kings
 
@@ -879,7 +879,7 @@
 * [[[SCP-8819]]] - [ACCESS DENIED]
 * [[[SCP-8820]]] - [ACCESS DENIED]
 * [[[SCP-8821]]] - [ACCESS DENIED]
-* [[[SCP-8822]]] - [ACCESS DENIED]
+* [[[SCP-8822]]] - 真相恐懼症：腦內補完從頭歸正
 * [[[SCP-8823]]] - [ACCESS DENIED]
 * [[[SCP-8824]]] - [ACCESS DENIED]
 * [[[SCP-8825]]] - [ACCESS DENIED]
@@ -967,7 +967,7 @@
 * [[[SCP-8903]]] - [ACCESS DENIED]
 * [[[SCP-8904]]] - [ACCESS DENIED]
 * [[[SCP-8905]]] - [ACCESS DENIED]
-* [[[SCP-8906]]] - [ACCESS DENIED]
+* [[[SCP-8906]]] -  假面恐懼症：臺上殺人
 * [[[SCP-8907]]] - [ACCESS DENIED]
 * [[[SCP-8908]]] - [ACCESS DENIED]
 * [[[SCP-8909]]] - [ACCESS DENIED]

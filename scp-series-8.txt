@@ -543,7 +543,7 @@
 * [[[SCP-7493]]] - [ACCESS DENIED]
 * [[[SCP-7494]]] - [ACCESS DENIED]
 * [[[SCP-7495]]] - [ACCESS DENIED]
-* [[[SCP-7496]]] - [ACCESS DENIED]
+* [[[SCP-7496]]] - 聯盟強大
 * [[[SCP-7497]]] - [ACCESS DENIED]
 * [[[SCP-7498]]] - [ACCESS DENIED]
 * [[[SCP-7499]]] - [ACCESS DENIED]
@@ -626,7 +626,7 @@
 * [[[SCP-7572]]] - [ACCESS DENIED]
 * [[[SCP-7573]]] - [ACCESS DENIED]
 * [[[SCP-7574]]] - [ACCESS DENIED]
-* [[[SCP-7575]]] - [ACCESS DENIED]
+* [[[SCP-7575]]] - 如何將你永遠不去做、永遠不能做、永遠不會做的事情歸功於自己：對會計的頌歌；它捏造了數字，就是如此 / 一塊金屬立方體
 * [[[SCP-7576]]] - [ACCESS DENIED]
 * [[[SCP-7577]]] - [ACCESS DENIED]
 * [[[SCP-7578]]] - [ACCESS DENIED]

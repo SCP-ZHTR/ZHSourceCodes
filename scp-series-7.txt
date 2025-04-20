@@ -416,7 +416,7 @@
 * [[[SCP-6377]]] - ##purple|水平之門##
 * [[[SCP-6378]]] - [ACCESS DENIED]
 * [[[SCP-6379]]] - [ACCESS DENIED]
-* [[[SCP-6380]]] - [ACCESS DENIED]
+* [[[SCP-6380]]] - 愛爾蘭問題
 * [[[SCP-6381]]] - [ACCESS DENIED]
 * [[[SCP-6382]]] - [ACCESS DENIED]
 * [[[SCP-6383]]] - 正牌的異常
@@ -546,7 +546,7 @@
 
 * [[[SCP-6500]]] - 無以避免
 * [[[SCP-6501]]] - [ACCESS DENIED]
-* [[[SCP-6502]]] - [ACCESS DENIED]
+* [[[SCP-6502]]] - 哈威克公墓
 * [[[SCP-6503]]] - [ACCESS DENIED]
 * [[[SCP-6504]]] - [ACCESS DENIED]
 * [[[SCP-6505]]] - [ACCESS DENIED]
@@ -642,7 +642,7 @@
 * [[[SCP-6595]]] - [ACCESS DENIED]
 * [[[SCP-6596]]] - [ACCESS DENIED]
 * [[[SCP-6597]]] - [ACCESS DENIED]
-* [[[SCP-6598]]] - Flippant
+* [[[SCP-6598]]] - 輕率彈幣
 * [[[SCP-6599]]] - HOGSLICE
 
 [[# 6600]]
@@ -718,7 +718,7 @@
 * [[[SCP-6667]]] - For the Love of Humanity
 * [[[SCP-6668]]] - 群襲
 * [[[SCP-6669]]] - Endlessly Fucking Space
-* [[[SCP-6670]]] - [ACCESS DENIED]
+* [[[SCP-6670]]] - 「媽媽？」
 * [[[SCP-6671]]] - [ACCESS DENIED]
 * [[[SCP-6672]]] - [ACCESS DENIED]
 * [[[SCP-6673]]] - [ACCESS DENIED]
@@ -846,7 +846,7 @@
 * [[[SCP-6791]]] - [ACCESS DENIED]
 * [[[SCP-6792]]] - [ACCESS DENIED]
 * [[[SCP-6793]]] - [ACCESS DENIED]
-* [[[SCP-6794]]] - [ACCESS DENIED]
+* [[[SCP-6794]]] - 五疊之道
 * [[[SCP-6795]]] - [ACCESS DENIED]
 * [[[SCP-6796]]] - [ACCESS DENIED]
 * [[[SCP-6797]]] - [ACCESS DENIED]
@@ -917,7 +917,7 @@
 * [[[SCP-6858]]] - [ACCESS DENIED]
 * [[[SCP-6859]]] - [ACCESS DENIED]
 * [[[SCP-6860]]] - [ACCESS DENIED]
-* [[[SCP-6861]]] - [ACCESS DENIED]
+* [[[SCP-6861]]] - 這就是暴龍的下場
 * [[[SCP-6862]]] - [ACCESS DENIED]
 * [[[SCP-6863]]] - [ACCESS DENIED]
 * [[[SCP-6864]]] - [ACCESS DENIED]
