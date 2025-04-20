@@ -1,0 +1,163 @@
+[[include component:scp-meta-title-hiding css-style=classic]]
+[[include info:start]]
+原文：[https://scp-wiki.wikidot.com/scp-6598 SCP-6598] 輕率彈幣
+作者：[[*user PlaguePJP]]、[[*user HarryBlank]]、[[*user Cremo]]、[[*user J Dune]]
+譯者：[[*user Frederica Bernkastel]]
+[[include info:end]]
+=====
+[[include :scp-zh-tr:component:preview
+text=PlaguePJP, HarryBlank, Cremo, & J Dune: XV
+]]
+=====
+
+[[include :scp-zh-tr:theme:black-highlighter-theme]]
+[[include :scp-zh-tr:component:bhl-dark-sidebar]]
+[[include :scp-zh-tr:component:centered-header-bhl]]
+[[include :scp-zh-tr:component:toggle-sidebar-bhl]]
+[[include :scp-zh-tr:component:acs-animation]]
+[[include :scp-zh-tr:component:fade-in speed=4]]
+[[module CSS]]
+
+#page-content hr {
+border-top: none;
+height: .05em;
+background: #454545;
+}
+
+.info-container .collapsible-block-folded a{
+color: #FFF;}
+.info-container .collapsible-block-unfolded-link a{
+color: #FFF;
+}
+
+.info-container .collapsible-block-folded a{
+color: #FFF;}
+.info-container .collapsible-block-unfolded-link a{
+color: #FFF;
+}
+
+#page-content > .collapsible-block {
+    display: block;
+    text-align: center;
+    padding: .8em;
+    background-color: #e3e3e3;
+    border-top: 0.125rem dashed #b5b5b5;
+    border-bottom: 0.125rem dashed #b5b5b5;
+}
+
+#page-content > .collapsible-block .collapsible-block-content {
+    text-align: left;
+}
+
+blockquote,
+div.blockquote {
+    border: 0.125rem solid #d4d4d4;
+    background-color: #F5F5F5;
+}
+
+.interview{
+    border:solid 2px #d4d4d4;
+    background:#F5F5F5;
+    width:90%;
+    padding:1px 15px;
+    margin: 10px auto;
+}
+
+.addendum{
+    border:solid 1px #5e5e5e;
+    background:#ffffff;
+    width:90%;
+    padding:1px 15px;
+    margin: 10px auto;
+}
+
+#page-title{display:none}
+
+[[/module]]
+
+[[div]]
+[[include :scp-zh-tr:component:anomaly-class-bar-source
+|item-number=6598
+|clearance= 2
+|container-class= safe
+|secondary-class=
+|secondary-icon=
+|disruption-class=
+|risk-class=
+]]
+
+[[include :scp-zh-tr:component:customizable-acs
+|containment-class= safe
+|containment-image= https://scp-wiki.wdfiles.com/local--files/component%3Aanomaly-class-bar/safe-icon.svg
+|containment-color= 0,159,107
+|inc-neutralized-layout = --]]]
+
+
+[[include :scp-zh-tr:component:customizable-acs
+|clearance-two= 0,159,107
+|inc-clearance= --]]]
+[[/div]]
+
+-----
+
+[[div class="scp-image-block block-right" style="width:50%;"]]
+[[image https://scp-wiki.wdfiles.com/local--files/scp-6598/coin.png style="width:100%;" link=#]]
+[[div class="scp-image-caption" style="width:100%;"]]
+SCP-6598。
+[[/div]]
+[[/div]]
+
+**特殊收容措施：** SCP-6598儲存於Site-322低維安項目庫的硬幣盒中。 SCP-6598測試由H．哈特韋爾研究員與J．杜恩博士負責監督。
+
+**描述：** SCP-6598是一枚美國25美分硬幣，可追溯至1983年。當個體做出口頭陳述，而後彈起SCP-6598時，物體將落在陳述與客觀事實關係相應的面上。如果結果是「正面」，陳述為真相；如果結果是「反面」，陳述為謊言。無法以是否回答的問題與陳述不會使SCP-6598給出答案。 SCP-6598表現的準確度正在調查中。
+
+**附錄6598.1：** 實驗紀錄
+
+||~ 陳述 ||~ 結果 ||
+|| 草是綠的。（杜恩） || 正面。 ||
+|| SCP-6598聽得懂我說的話。（杜恩） || 正面。 ||
+|| SCP-6598今天很愉快。（哈特韋爾） || 反面。 //筆記：觀察發現SCP-6598以異常力道著陸。// ||
+|| 明日中獎號碼的第一位數是1。（哈特韋爾） || 反面。 ||
+||||= //[省略25項測試]// ||
+|| 明日中獎號碼的最後一位數是7。（哈特韋爾） || 正面。 //獎金沒收。利用異常獲取更多個人利益將進行紀律懲處 -- 保羅．拉格主任//||
+|| 杜恩博士今日下午將以三明治作為午餐。（哈特韋爾） ||正面。 //好你個聰明鬼。熱狗才不是三明治 -- J．杜恩// ||
+|| 外星生命是存在的。（杜恩） || 反面。 測試以多個不同變體重複數次，包括指定整個宇宙中的各種生命等。結果始終為反面。 ||
+|| 棒球是無聊的運動。（哈特韋爾）|| SCP-6598在正反面之間翻轉直到下個陳述做出。 ||
+|| 《星際大戰八部曲：最後的絕地武士》是爛片。（哈特韋爾） || 與上次測試結果相同。在重複該陳述後，SCP-6598溫度急劇升至無法安全處理的程度。十五分鐘後，溫度恢復至基線溫度。||
+|| SCP-6598比起哈特韋爾研究員更喜歡杜恩博士。（杜恩）|| 與上次測試結果相同。每次SCP-6598將翻轉至正面時，都會相對更加猶豫不決。 ||
+|| 上帝可以創造出辣到他吃不下去的墨西哥捲餅。（哈特韋爾）|| SCP-6598燒傷了哈特韋爾研究員的手。 ||
+|| SCP-6598討厭悖論。（哈特韋爾）|| 正面。以相當大的力量著陸，甚至讓測試臺凹陷下去。 ||
+|| SCP-6598 喜歡被拋出。（哈特韋爾）|| 反面。與上次測試結果相同。 SCP-6598著陸時成功貫穿了桌子。||
+|| SCP-6598將來會突破收容。（哈特韋爾）|| 正面。 ||
+|| [[[SCP-682]]]不可摧毀。（哈特韋爾）|| 反面。 //哈特韋爾研究員的彩券獎金將作為日後廢除嘗試的預算。 -- Dir. Paul Lague//||
+|| [[[SCP-4182 | Site-5]]]不存在。（杜恩）|| 正面。重複此測試後，SCP-6598 改變了決定。後續測試尚未得出確切結果。||
+|| 我會在五年內跟我的女朋友結為連理。（哈特韋爾）|| 反面。 ||
+|| 一切存在都會消亡。（哈特韋爾）|| 正面。戰術神學部立即召開研討會，討論該結果的影響。 ||
+||我將在十年內死去。（哈特韋爾）|| 正面。 ||
+|| SCP-6598在生我的氣。（哈特韋爾）|| SCP-6598在懸空後靜止，而後開始劇烈震動，加速至約1100公里/小時，貫穿哈特韋爾研究員的頭骨，飛離了Site-322（項目稍微修正了飛出方向以避免擊中杜恩博士）。||
+
+在距離Site-322約30公里處的空停車場發現了SCP-6598，項目正面朝上。在周圍瀝青上發現了小型的撞擊坑洞。在最後一次測試後，無論是將項目彈起或提供額外提示，SCP-6598始終保持正面朝上。測試終止。
+
+[[footnoteblock]]
+----
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[SCP-6597]]] | SCP-6598 | [[[SCP-6599]]] >>
+[[/=]]
+[[/div]]
+----
+[[div]]
+[[=]]
+[[include :scp-zh-tr:component:license-box
+|author=PlaguePJP, HarryBlank, Cremo, & J Dune]]
+=====
+[[<]]
+> **Filename:** coin.png
+> **Author:** Arun Kumar Singh
+> **License:** CC BY-SA 4.0
+> **Source:** [https://commons.wikimedia.org/wiki/File:United_States_Quarter.jpg]
+[[/<]]
+=====
+[[include :scp-zh-tr:component:license-box-end]]
+[[/=]]
+[[/div]]
