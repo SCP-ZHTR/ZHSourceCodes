@@ -1,0 +1,136 @@
+[[include component:scp-meta-title-hiding css-style=classic]]
+[[include info:start]]
+原文：[https://scp-wiki.wikidot.com/scp-4256 SCP-4256] 私酒販的印刷機
+作者：[[*user Uncle Nicolini]]、[[*user Ihp]]
+譯者：[[*user Frederica Bernkastel]]
+[[include info:end]]
+[[include :scp-zh-tr:component:scp-pride]]
+[[include component:image-block name=https://scp-wiki.wdfiles.com/local--files/scp-4256/press.jpg|caption=1932 年，ASCI與特異事故處特工突襲芝加哥鬼靈行動後帶回了SCP-4256。]]
+ 
+**項目編號：** SCP-4256
+
+**項目等級：** Thaumiel
+
+**特殊收容措施：** SCP-4256收容於Site-19生產區域的B翼區。SCP-4256維護相關備件與工具應儲存於特定標記容器中。此項目的使用僅限自動變數印刷機操作受訓人員。SCP-4256任務應分配予基金會忠誠度測試分數低於60分，或有連續違規紀錄的人員。
+
+已完成SCP-4256-1訂單將放置在調色盤上，並貼上標籤等待交付。
+
+**描述：** SCP-4256是一臺古董工業印刷機，製造於1920年代末。SCP-4256頂部固定著一塊銅牌，寫上文字「致R.C. - 科瓦列維奇」。
+
+長期操作（通常超過一週以上）SCP-4256者會經歷認知變化，其特徵是反建制欲望與行為的降低乃至完全消除。據信SCP-4256是將反叛欲轉化為機械能，因為沒有可見方法能透過正常方式為SCP-4256提供動力。
+
+SCP-4256能將插入的紙質材料轉化為SCP-4256-1。SCP-4256-1是一種紙張，能將插入物轉換為該物品的二維圖像或描述文字。
+
+SCP-4256可使所有紙質進行SCP-4256-1轉換，即使這些紙張通常與工業印刷機不相容。已有報紙、雜誌、小冊子、摺紙雕塑、未裝訂手稿乃至多本《聖經》等成功轉換為SCP-4256-1，且SCP-4256沒有出現任何明顯問題。
+
+可插入SCP-4256-1實體質量僅受表面積限制。然而，動物完全無法在 SCP-4256內長時間生存，這通常會導致其缺氧致死。而後可將SCP-4256-1 實體放回項目內回收原本的物品。由於其空間效率且便於運輸，芝加哥鬼靈成員將SCP-4256-1廣泛用於走私酒精與武器。工廠要員也透過 SCP-4256-1向客戶秘密交付產品。
+
+SCP-4256-1實體的破壞會導致異常效應。撕毀SCP-4256-1實體將導致其內部物體被排出，通常會以與材料撕裂相應的形式造成損壞。燃燒SCP-4256-1實體會導致內部物品被彈出，彈出力道足以造成大規模的地形異常。SCP-4256-1燃燒區域的內外尺寸不成比例，該現象被芝加哥鬼靈組織的成員加以利用。
+
+**附錄 0.02- 歷史：**  自1932年以降，於芝加哥等已知由芝加哥鬼靈控制的地區，都有平民報告稱可疑人員使用折疊紙張製作各種物品，從車輛、武器、機器零件甚至整座工廠。
+
+首個抓獲的SCP-4256-1實體是在1933年，由美國調查局[[footnote]]現代聯邦調查局的前身。[[/footnote]]特異事故處所獲取，該組織在一名調查人員突然死亡後，對位於「豬窩」肉品加工廠的疑似犯罪藏身處發起突襲。最後發現此處實際上是為工廠所有，由前臺組織掩護的大型空間異常。UIU承受了毀滅級損失，並在總領班辦公室發現工廠與芝加哥鬼靈有聯繫的簽名信，為此UIU向美國維安收容倡議請求協助。
+
+信中文字已抄錄如下。
+
+> __來自理查德．查帕爾的辦公桌__
+>
+> 感謝你的印刷機。
+>
+> 為了感謝你為我所做的一切，我為你買了一件禮物。那個一直在你地盤晃蕩的幽靈不會再打擾你了。
+>
+> 你應該盡快讓他開始工作。
+
+值得注意的是，上述文件被發現時已經浸滿了鮮血，推測這些鮮血屬於前UIU特工麥可．博斯科維奇。
+
+1934年，在ASCI-UIU聯合突襲理查德．查帕爾的安全屋後，SCP-4256得以成功回收並接受收容。[[footnote]] 查帕爾得以逃離監禁。 [[/footnote]]發現了與多名對象的一系列通信，包括與工廠所在地總領班的一連串信件。
+
+信件內容抄錄如下。
+
+[[table style="border-collapse:collapse; width:100%; font-family:Monospace;font-size:  10pt;"]]
+[[row]]
+[[hcell style="border: 1px solid black; padding: 0 1%; background-color: silver;" rowspan="60"]]
+
+[[/hcell]]
+[[hcell style="border: 1px solid black; background-color: silver;"]]
+寄件人：
+[[/hcell]]
+
+[[cell style="border: 1px solid black;" rowspan="10"]]
+[[=]]
+[[size xx-large]]{{工廠}}[[/size]]
+{{對外通訊}}
+[[/=]]
+[[/cell]]
+[[/row]]
+
+[[row]]
+[[cell style="border: 1px solid black; padding: 0 1%"]]
+總領班12-21科瓦列維奇
+[[/cell]]
+[[/row]]
+
+[[row]]
+[[hcell style="border: 1px solid black; background-color: silver;"]]
+通訊編號：
+[[/hcell]]
+[[/row]]
+
+[[row]]
+[[cell style="border: 1px solid black; padding: 0 1%"]]
+I-49392
+[[/cell]]
+[[/row]]
+
+[[row]]
+[[hcell style="border: 1px solid black; background-color: silver;"]]
+重要程度：
+[[/hcell]]
+[[/row]]
+
+[[row]]
+[[cell style="border: 1px solid black; padding: 0 1%" ]]
+中
+[[/cell]]
+[[/row]]
+
+[[row]]
+[[hcell style="border: 1px solid black; background-color: silver;"]]
+正文：
+[[/hcell]]
+[[/row]]
+
+[[row]]
+[[cell style="border: 1px solid black; padding: 0 1%"]]
+查帕爾先生，
+很高興於今日致信予你，以慶祝我們建立業務關係達五周年。做為慶祝的禮物，工廠與我將
+贈送你這臺奢華的印刷機，這能夠再現用於向你交付紙張的特性。為了讓這個禮物更有價值
+，我建議讓最不熱情的工人操作它。這將迅速糾正這些不良行徑。
+
+願下一個五年同樣順遂。
+
+[[/cell]]
+[[/row]]
+[[/table]]
+
+SCP-4256 的認知改變特性於1936年為人員所發現， 隨即ASCI廣泛使用 SCP-4256-1實體，約翰．埃德加．胡佛經常根據人員對自己與整個組織的忠誠度，親自挑選人員操作SCP-4256。由於SCP-4256具有改變認知的能力，懷疑胡佛正是利用這個異常，抑制有關該員與調查局副局長克萊德．托爾森關係謠言的傳播。
+
+至於ASCI，SCP-4256-1通常用於促進彈藥與緊急物資等資源，以及車輛等大型物體（特殊情況下還包括建築材料）的謹慎運輸。在轉型現代基金會後，SCP-4256-1的使用仍在繼續，並整合至三個需在二維空間收容的SCP項目收容措施中。
+
+2005年穩定蟲洞生成問世後，SCP-4256-1在收容以外的使用基本已經停止。儘管如此，所有基金會緊急避難所都配備了改造SCP-4256-1實體，使這些設施都儲備五年分以上的水、食物、燃料，以及與其他站點通信的工具與手段。
+
+根據估計，目前美國本土（包括Site 17、19、77）有89%基金會人員，受到了SCP-4256的影響。目前正在制定收容人形異常的實用計畫。
+
+[[include component:earthworm
+  first=false | last=true | hub=yes |
+  previous-url=/chicago-factory| previous-title=Carroll #280/R-01221 |
+  next-url=/ | next-title=/ |
+  hub-url=/collaboration-contest | hub-title=Collab-Con |
+]]
+
+[[footnoteblock]]
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[SCP-4255]]] | SCP-4256 | [[[SCP-4257]]] >>
+[[/=]]
+[[/div]]
