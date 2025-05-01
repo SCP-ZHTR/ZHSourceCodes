@@ -898,8 +898,12 @@ Delta-3解散後，威斯布魯克晉升為[[[secure-facility-dossier-site-246|S
 
 ----
 
-**[/system:page-tags/tag/gerald博士 Dr. R. Gerald]（R・傑拉德博士）：** 原研究助理主任。是一位[[[gfc|優秀的研究人員]]]，但在涉及了[[[scp-666-j| 一系列]]][[[ecceperago| 高調]]]的危險[[[annon| 事故]]]後聲名狼藉，現已退休。
+**[/system:page-tags/tag/gerald博士 Dr. R. Gerald]（R・傑拉德博士）：** 原研究助理主任。是一位[[[gfc|優秀的研究人員]]]，但在涉及了[[[scp-666-j| 一系列]]][[[ecceperago| 高調]]]的危險[[[annon| 事故]]]後聲名狼藉。有時會參與[[[scp-8501| 創新的]]]廢除方案。[[[such-a-shame-it-didn-t-work| 現已退休]]]。
 
+[[collapsible show="我沒死。" hide="只是升職了。"]]
+可能是[[[you| 他者部]]]的部長，對他管轄下的異常有些佔有慾。也許因為該部門缺乏經費和監督，傑拉德博士非常樂意嘗試[[[scp-7772| 奇異、近乎實驗性]]]的收容方式──至於結果如何就[[[scp-5784| 不一定]]]了。勇於捍衛自身立場，就算[[[scp-477-j| 面對O5議會]]]也一樣。
+
+[[/collapsible]]
 ----
 
 **[/system:page-tags/tag/iceberg博士 Dr. "Iceberg"]（「艾斯柏格」博士）：** [[[life-s-cold| 自負]]]、自戀之人。原本是基爾斯博士的[[[epitaph|副手]]]。最終因為在基爾斯博士手下工作帶來的[[[iceberg-puts-135-on-ice| 壓力]]][[[in-his-own-image| 選擇自盡]]]；他的職位受勒門特工接替。他作為基爾斯的助手太有用了，使得他無法繼續晉升，於是他一直被留任到他自殺的那一天。
