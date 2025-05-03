@@ -118,11 +118,11 @@ name= "creepypasta"
 description = "creepypasta-是與基金會無關的「故事」頁面，內容是講述原創的都市傳說或深夜怪談等等。creepypasta頁面必須附有「故事」標籤，特別注意本站收錄的「creepypasta」必須是由用戶自己撰寫而成的故事；如果想要分享在別處看到的「creepypasta」請至聊天室或閒聊版區。"
 
 [[tags]]
-name= "合作/協作"
+name= "合作"
 description = "合作頁面是開放給所有網站成員添加內容的頁面，但必須注意，原作者與負責的工作人員有權修改或刪除其中不恰當內容的權利。"
 
 [[tags]]
-name= "合著/共同創作"
+name= "合著"
 description = "合著的頁面是由兩位或更多作者合作的結果，除非另有說明否則不開放給其他網站成員增添內容。"
 
 [[tags]]
