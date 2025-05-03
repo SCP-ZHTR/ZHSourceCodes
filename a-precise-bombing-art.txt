@@ -1,0 +1,20 @@
+[[=]]
+> 樓房、怪物與他的未婚妻一起粉碎。
+
+[[image https://i.imgur.com/nSinEOK.jpeg]]
+[[/=]]
+
+
+[[include :scp-zh-tr:theme:penumbra]]
+[[module css]]
+:root:lang(zh) {
+  --header-title: "SITE-ZH-50";
+  --header-subtitle: "Strike, Combat, Patrol";
+  --lgurl: url("https://i.imgur.com/FG2CzvR.png");
+  --accentColor: #69e1c5;
+}
+[[/module]]
+[[include :scp-zh-tr:info:start]]
+**作者：**[[*user IC_1623]]
+**標題：**閃光劃破天際。
+[[include :scp-zh-tr:info:end]]
