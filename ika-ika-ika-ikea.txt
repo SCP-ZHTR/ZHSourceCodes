@@ -138,8 +138,15 @@ LOGO我做的
 [[div class="modal"]]
 [http://scp-zh-tr.wikidot.com/chassis-a-r-t 「無色的畫室」]
 [[=image https://i.imgur.com/LnFxj3q.jpeg height="200px"]]
-：）
+粉彩畫，我恨粉彩。
 [[/div]]
+
+[[div class="modal"]]
+[http://scp-zh-tr.wikidot.com/a-precise-bombing-art 閃光劃破天際。]
+[[=image https://i.imgur.com/nSinEOK.jpeg height="200px"]]
+黃金史萊姆
+[[/div]]
+
 
 
 [[div class="modal"]]
