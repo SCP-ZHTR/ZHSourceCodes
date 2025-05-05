@@ -957,7 +957,7 @@ Site-ZH-96前台為位於偏僻地區的[已編輯]療養院所。實質上也�
 已被報銷。
 @@ @@
 [[include component:area name=Area-ZH-42|number=42|c0=#630|subtitle=（Research Area 42）]]
-位於英國約克郡西北部的特殊研究區，作風隱蔽。研究項目有[[[SCP-ZH-986]]]和[[[SCP-ZH-792]]]。相關故事包括[/attempt-of-type-green-and-bluenullification-via-aether-rewea 重新編織乙太質以無效化綠型和藍型異常性質之嘗試]。
+位於英國約克郡西北部的特殊研究區。研究項目有[[[SCP-ZH-986]]]和[[[SCP-ZH-792]]]。相關故事包括[/attempt-of-type-green-and-bluenullification-via-aether-rewea 重新編織乙太質以無效化綠型和藍型異常性質之嘗試]和[/portals-101 Site-ZH-42物流及運輸部門（定點運輸組）入門講座，又稱傳送門101]。
 @@ @@
 [[include component:area name=Area-ZH-73|number=73|c0=#630|subtitle=(Research Area 73E) ]]
 位於地下的研究設施，負責開發對特定項目的實驗性收容措施。於[[[SCP-ZH-747]]]事故後重新啟用，無常駐收容項目。
