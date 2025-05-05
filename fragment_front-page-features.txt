@@ -1,6 +1,6 @@
 [[div id="featured"]]
 [[tabview]]
-[[tab 4月作品展出]]
+[[tab 5月作品展出]]
 
 [!-- Left block --]
 [[div class="feature-block"]]
@@ -10,12 +10,12 @@ SCP作品展出
 [[/div]]
 [[div class="panel-body"]]
 [[div class="feature-title"]]
-[[[*scp-zh-454|SCP-ZH-454 - 早是「滋潤」]]]
+[[[*scp-zh-605|SCP-ZH-605 - 殍烏，或稱三杯大怪鳥]]]
 [[/div]]
 [[div class="feature-subtitle"]]
-作者：[[user EmptyName723]]
+作者：[[user Lostwhat]]
 [[/div]]
-儘管各國政府提出抗議，但為了將剩餘資源傾注在基金會職員身上，基金會不再對一般民眾供應用水。這使得大量平民陷入恐慌與暴動，並幾乎皆於五天內死亡。
+項目的美味之處並不在於味道，而是在於希望。人造的希望不會美味，人造的絕望淡然無味。
 [[/div]]
 [[div class="panel-footer"]]
 [[[*featured-scp-archive|查看以往展出的SCP作品]]]
@@ -29,12 +29,12 @@ SCP作品展出
 [[/div]]
 [[div class="panel-body"]]
 [[div class="feature-title"]]
-[[[identification-card|]]]
+[[[three-assassinations-and-your-night|]]]
 [[/div]]
 [[div class="feature-subtitle"]]
-作者：[[user Aindavis_817]]
+作者：[[user Frederica Bernkastel]]
 [[/div]]
-「我的理想是工作到死，死在辦公室那種。」Ain扯動嘴角，「退休後的平靜生活，我不考慮。」
+從佈達人員的位置退下來後，禮竺轉身走到了勉色面前。禮竺其實可以馬上離開，不過他決定再完成最後一次點餐，才去進行下一個刺殺任務。
 [[/div]]
 [[div class="panel-footer"]]
 [[[*featured-tale-archive|查看以往展出之故事]]]
@@ -50,13 +50,13 @@ SCP作品展出
 [[/div]]
 [[div class="panel-body"]]
 [[div class="feature-title"]]
-[[[*scp-3631|]]] 
+[[[*scp-8566|SCP-8566 存在乃強制]]] 
 [[/div]]
 [[div class="feature-subtitle"]]
-作者：[[user Attila the Pun]] 
-譯者：[[user CSZ87p]]
+作者：[[user Felixou]] 
+譯者：[[user Frederica Bernkastel]]
 [[/div]]
-除此之外，其腹部還有一道深達腹腔的長切口。對疤痕組織的分析表明，這很可能是由動物的爪子造成的，但傷口的精確性也暗示著造成這些傷害的意圖不僅僅只是簡單的防禦或捕食行為。
+您當前的情況、心願、對此事的觀點都將在餘生中遭到捨棄。您眼下唯一的使命就是拯救世界。
 [[/div]]
 [[div class="panel-footer"]]
 [[[*featured-translation|查看以往展出的翻譯作品]]]
@@ -70,12 +70,12 @@ SCP作品展出
 [[/div]]
 [[div class="panel-body"]]
 [[div class="feature-title"]]
-[[[esther|]]]
+[[[project-proposal-1925-1894|]]]
 [[/div]]
 [[div class="feature-subtitle"]]
-作者：[[user Dr V Valentine]]
+作者：[[user Reverberate_a]]
 [[/div]]
-值得慶幸的是Esther是個非常懂事的好孩子，在Rose抱起他之後像個乖寶寶一樣，我發誓！他甚至在賣場人員詢問培養土的狀況時垂下了耳朵發出了嗚嗚聲道歉。
+這樣的發展啟不亞於、不媲美於世界上最偉大的「神異」？
 [[/div]]
 [[div class="panel-footer"]]
 [[[*featured-Comprehensive-exhibition|查看以往的綜合展出]]]
