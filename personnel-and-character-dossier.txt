@@ -1278,13 +1278,18 @@ SCP-4051已作為異常資產部署於實地行動，其最初是[[[task-forces#
 
 ----
 
-**Mr. Carter（卡特閣下）：** 專門兜售異常物品給權貴的關注組織「[[[marshall-carter-and-dark-hub| 馬歇爾、卡特與達克]]]（MC&D）」之[[[from-vagrants-to-gentlemen| 創始人]]]與[[[acquisitions1| 領導者]]]之一。因疑似有多名創始人家族成員[[[when-situations-degenerate |跨世代]]]經營，該組織主管階層的相關資訊不多。[[[mc-d-agent-orientation| 某些情報]]]宣稱卡特定坐在輪椅，疑似用異常手段[[[acquisitions3| 攝取]]]綁在他輪椅後一個被下藥（但仍有意識）的人，以延續生命；[[[third-death| 其他情報]]]則稱其實馬歇爾才是有輪椅的那位，而「魯普雷希特」・卡特則能夠自由在肉軀間轉移意識。
+**[/system:page-tags/tag/robert-carter Ruprecht Carter]（魯普雷希特・卡特閣下）：** 專門兜售異常物品給權貴的關注組織「[[[marshall-carter-and-dark-hub| 馬歇爾、卡特與達克]]]（MC&D）」之創始人與領導者之一。因疑似有多名創始人家族成員[[[when-situations-degenerate |跨世代]]]經營，該組織主管階層的相關資訊不多，且時常矛盾，因此無法確定目前的「[[[acquisitions1| 卡特閣下]]]」是否仍指涉該組織的[[[from-vagrants-to-gentlemen| 創辦人]]]。[[[third-death| 有些情報]]]宣稱魯普雷希特則能自由在肉軀間轉移意識，但[[[mc-d-agent-orientation| 其他消息]]]宣稱卡特困坐在輪椅，用異常手段[[[acquisitions3| 攝取]]]綁在他輪椅後一個被下藥（但仍有意識）的人，以苟延殘喘的延續生命。
 
-來自該公司的[[[kaiju-caviar-ocn39-t5fg6-7hjl2| 內部文件]]]顯現魯普雷希特・卡特積極參與公司事務，且十分重視[[[micky-d-s| 組織名譽]]]，但也是許多[[[somatic-backups| 尷尬糗事]]]的肇事者。
+來自該公司的[[[kaiju-caviar-ocn39-t5fg6-7hjl2| 內部文件]]]顯現魯普雷希特・卡特[[[put-it-all-on-black| 積極參與公司事務]]]，且十分重視[[[micky-d-s| 組織名譽]]]，但也是許多[[[somatic-backups| 尷尬糗事]]]的肇事者。魯普雷希特似乎和他的繼承者羅伯特・卡特[[[put-it-all-on-black| 十分親近]]]，但也有時是位[[[put-it-all-on-black|嚴厲且頤指氣使]]]的長輩。
 
 ----
 
-**Alison Chao（愛麗森・喬）亦稱為[[[black-queen-hub| "The Black Queen"]]]（「黑皇后」）：** 智商高，行動力也高，對基金會的結構、活動與收容項目都有廣泛的理解。有時被認為是具有高度惡意、殺人如麻且極具破壞力的；有時則被認為具仁慈之心，甚至會暗中協助//一些//基金會的事業。與許多主要關注組織及各國政府都有所聯繫。似乎意圖扳倒基金會。[[[Prisoners | 也許吧]]]。
+**[/system:page-tags/tag/robert-carter Robert Carter]（羅伯特・卡特閣下）：** 「[[[marshall-carter-and-dark-hub| 馬歇爾、卡特與達克]]]（MC&D）」創始人的後代。在開始為家族事業效力前，[[[robert-carter| 羅伯特]]既是個花花公子也是個賭徒，而他[[[masks-monsters-merchants| 繼承遺產]]]之後仍舊如故。最新的資訊宣稱他選擇主動出擊，從單純的[[[all-that-glisters| 商業夥伴]]]成為愛蕊絲・達克的[[[your-number-one| 得力副手]]]，帶領組織為了獲利[[[coda-for-the-capitol| 投身水火]]]──他的計畫有時[[[carter-courier-channel| 大賺]]]，有時[[[nexus-hyperline|慘賠]]]。
+
+謠傳羅伯特並非[[[put-it-all-on-black| 完全為人]]]──他那條機械尾巴只是他身上[[[put-it-all-on-black| 最明顯的異常]]]而已。
+
+----
+**Alison Chao（愛麗森・喬）亦稱為[[[black-queen-hub| "The Black Queen"]]]（「黑皇后」）：** 智商高，行動力也高，對基金會的結構、活動與收容項目都有廣泛的理解。有時被認為具有高度惡意、殺人如麻且極具破壞力；有時則被認為具仁慈之心，甚至會暗中協助//一些//基金會的事業。與許多主要關注組織及各國政府都有所聯繫。似乎意圖扳倒基金會。[[[Prisoners | 也許吧]]]。
 
 [[collapsible show="爸？" hide="......"]]
 
@@ -1376,7 +1381,7 @@ SCP-4051已作為異常資產部署於實地行動，其最初是[[[task-forces#
 
 ----
 
-**[/system:page-tags/tag/大術士伊仰 Grand Karcist Ion]（大術士伊仰），亦稱為Ozi̮rmok（奧世牧）：** 神化的[[[sarkicism-hub| 欲肉教]]]創建者，亦稱為「[[[memoria-adytum| 阿狄泰姆]]][[[about-the-serpent| 巫王]]]」。他是個強大的本質促動能力者，並在接受肉體異常改造後已經在生物學上不死。根據欲肉教的傳說，伊仰在四千年前於西伯利亞地區誕生，並領導了針對[[[SCP-140| 殆瓦]]]的奴隸革命。若「大術士伊仰」真是存活至今的歷史人物，而非繼承的頭銜或完全的[[[the-parables-of-pseudo-nadox|神話人物]]]，那麼他建立並統治了帝國達[[[scp-2095| 千年之久]]]。推測他已經死亡，可能是在與[[[so-the-beasts-shall-plague-the-land-no-more| 美刻尼信徒]]]（[[[church-of-the-broken-god-hub| 破碎之神教會]]]的前身）[[[sic-semper-tyrannis| 過去的衝突]]]中身亡，因此應僅被作為歷史人物看待。
+**[/system:page-tags/tag/大術士伊仰 Grand Karcist Ion]（大術士伊仰），亦稱為Ozi̮rmok（奧世牧）：** 神化的[[[sarkicism-hub| 欲肉教]]]創建者，亦稱為「[[[memoria-adytum| 阿狄泰姆]]][[[about-the-serpent| 巫王]]]」。他是個強大的本質促動能力者，並在接受肉體異常改造後已經在生物學上不死。根據欲肉教的傳說，伊仰在四千年前於西伯利亞地區誕生，並領導了針對[[[SCP-140| 殆瓦]]]的奴隸革命。若「大術士伊仰」真是存活至今的歷史人物，而非繼承的頭銜或完全的[[[the-parables-of-pseudo-nadox|神話人物]]]，那麼他建立並統治了帝國達[[[scp-2095| 千年之久]]]。目前推測伊仰可能已在與[[[so-the-beasts-shall-plague-the-land-no-more| 美刻尼信徒]]]（[[[church-of-the-broken-god-hub| 破碎之神教會]]]的前身）[[[sic-semper-tyrannis| 過去的戰爭]]]中身亡，因此他應僅被作為歷史人物看待。
 
 [[collapsible show="我的頭被砍下，我的骨被打斷，我的肉被焚燒......" hide="......我的身體轉化，我習得如何變成靈魂。"]]
 
