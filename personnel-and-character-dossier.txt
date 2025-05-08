@@ -1358,6 +1358,13 @@ SCP-4051已作為異常資產部署於實地行動，其最初是[[[task-forces#
 **[/system:page-tags/tag/eric Eric]（埃里克）：** 與[[[SCP-066]]]、[[[SCP-168]]]和[[[SCP-683]]]有關的不明人物，推測是有製造異常玩具能力的孩童。已經發現了他的[[[scp-5102| 個人日記]]]，但卻拒絕提供基金會任何資訊。[[[scp-1248| 考慮到]]]埃里克[[[scp-4688| 可能]]]擁有的異常[[[scp-6080| 能力]]]，將其拘留是基金會 --的高優先任務-- [[[a-calculated-risk| 非必要工作]]]。
 
 ----
+**The Essodeer （意現之鹿）：** 代表著歡樂、榮耀與冒險的森林神祇。她僅是一個小神，但她的[[[how-to-walk-on-air-and-poetry |超常存在]]]仍舊可能讓她很難和沒做好準備的人交流。負責守衛及[[[audra-and-their-deer| 獨居]]]一個總是下雪的口袋超常維度。
+
+曾被[[[a thorley little christmas | 一個具惡意]]]的全能實體拘禁，但在一位基金會聯絡員和她[[[art:the-essodeer-speedpaint-art| 交換外貌]]]後成功脫逃。也有可能是該聯絡員的[[[the-father-the-son-and-the-holy-spirit-hub| 多重人格]]]具象化。
+
+跟基金會可能有比起檯面上[[[you-deserve-to-be-happy|更深密]]]的關係。
+
+----
 
 **Ringmaster Herman Fuller（赫曼・富勒團長）：** 同名組織[[[herman-fuller-hub | 「赫曼・富勒的不安馬戲團」]]]創始人，一個[[[the-dread-behemoth| 騙子]]]與[[[the-sea-slug-and-the-showman| 殘忍]]][[[free-freaks| 無情]]]的[[[scp-2912| 無賴]]]。他也是個熟練的[[[the-den-of-disquiet| 魔術師與表演者]]]，但[[[herman-fuller-can-shove-it-up-his-ass| 遠遠沒有自己想像的那樣聰明]]]。
 
@@ -1366,6 +1373,10 @@ SCP-4051已作為異常資產部署於實地行動，其最初是[[[task-forces#
 赫曼・富勒不是個受歡迎的團長，因此馬戲團迎來[[[Dread & Circuses hub| 新的管理人]]]是遲早之事。在遭到[[[upside-down-cake| 驅逐]]]後，富勒[[[a-real-humdinger| 逃了出去]]]又[[[there-are-no-strings-on-me| 再度回來]]]報復。事情並沒有他想要的[[[scp-3440| 那麼順利]]]，但他可能還會回來參加[[[curtain-call| 最終謝幕]]]。
 
 [[/collapsible]]
+
+----
+
+**[/system:page-tags/tag/olivie-gwyneth Olivié Gwyneth]（奧莉薇・格溫妮絲）：**妖精歷史學家，專長為上古時期。她的著作形塑了現今對妖精帝國的認知與理解。現任職[[[goc-hub-page| 超自然聯盟]]][[[hour-zero| 108議會成員]]]的精靈之屋首席歸檔者。和[[[secure-facility-dossier-site-120| Site-120]]]的傑西・里維拉主管是知心好友。
 
 ----
 
