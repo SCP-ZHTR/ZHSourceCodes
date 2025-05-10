@@ -24,109 +24,105 @@
 [[div style="align-items: center;display: flex;flex-wrap: wrap;gap: 3em;"]]
 [[include component:image-block
 name=https://scp-jp-storage.wdfiles.com/local--files/file%3A7737619-40-ckr5/%E7%9C%9F%E6%A1%91%E5%8F%8B%E6%A2%A8%E4%BD%B33.jpg|
-caption=[http://scp-zh-tr.wikidot.com/scp-3823-jp SCP-3823-JP]|
+caption=[http://scp-jp.wikidot.com/scp-3823-jp SCP-3823-JP]|
 width=150px|
+heit=200px|
 align=center
 ]]
 [[include component:image-block
 name=https://scp-jp-storage.wdfiles.com/local--files/file%3A7737619-38-p6ic/%E7%9C%9F%E6%A1%91%E5%8F%8B%E6%A2%A8%E4%BD%B31.png|
-caption=[http://scp-zh-tr.wikidot.com/scp-3323-jp SCP-3323-JP]|
+caption=[http://scp-jp.wikidot.com/scp-3323-jp SCP-3323-JP]|
 width=150px|
+height=400px|
 align=center
 ]]
 [[include component:image-block
 name=https://scp-jp-storage.wdfiles.com/local--files/file%3A7737619-39-i5ig/%E7%9C%9F%E6%A1%91%E5%8F%8B%E6%A2%A8%E4%BD%B32.jpg|
-caption=[http://scp-zh-tr.wikidot.com/scp-3324-jp SCP-3324-JP]|
+caption=[http://scp-jp.wikidot.com/scp-3324-jp SCP-3324-JP]|
 width=150px|
 align=center
 ]]
 [[include component:image-block
 name=http://scp-jp-storage.wikidot.com/local--files/file:7270672-21-o0re/20230930_130328%20%282%29.jpg|
-caption=[http://scp-zh-tr.wikidot.com/scp-3326-jp SCP-3326-JP]|
+caption=[http://scp-jp.wikidot.com/scp-3326-jp SCP-3326-JP]|
 width=150px|
 align=center
 ]]
 [[include component:image-block
 name=https://scp-jp-storage.wdfiles.com/local--files/file%3A6903570-36-jkil/corpse-corpus-placeholder.png|
-caption=[http://scp-zh-tr.wikidot.com/scp-zh-981 SCP-ZH-981]|
+caption=[http://scp-jp.wikidot.com/scp-zh-981 SCP-ZH-981]|
 width=150px|
 align=center
 ]]
 [[include component:image-block
 name=http://scp-jp-storage.wdfiles.com/local--files/file%3A7737619-47-x1zp/%E7%9C%9F%E6%A1%91%E5%8F%8B%E6%A2%A8%E4%BD%B35.jpg|
-caption=[http://scp-zh-tr.wikidot.com/scp-3423-jp SCP-3423-JP]|
+caption=[http://scp-jp.wikidot.com/scp-3423-jp SCP-3423-JP]|
 width=150px|
 align=center
 ]]
 [[include component:image-block
 name=http://scp-jp-storage.wdfiles.com/local--files/file%3A3247157-61-b1q9/SCP-3104-JP.jpg|
-caption=[http://scp-zh-tr.wikidot.com/scp-3104-jp SCP-3104-JP]|
+caption=[http://scp-jp.wikidot.com/scp-3104-jp SCP-3104-JP]|
 width=150px|
 align=center
 ]]
 [[include component:image-block
 name=https://scp-jp-storage.wdfiles.com/local--files/file%3A3461191-142-42do/CC.jpg|
-caption=[http://scp-zh-tr.wikidot.com/scp-2182-jp SCP-2182-JP]|
+caption=[http://scp-jp.wikidot.com/scp-2182-jp SCP-2182-JP]|
 width=150px|
 align=center
 ]]
 [[include component:image-block
 name=http://scp-jp-storage.wikidot.com/local--files/file:7633340-32-a17v/3018jp.png|
-caption=[http://scp-zh-tr.wikidot.com/scp-3018-jp SCP-3018-JP]|
+caption=[http://scp-jp.wikidot.com/scp-3018-jp SCP-3018-JP]|
 width=150px|
 align=center
 ]]
 [[include component:image-block
-name=https://i.imgur.com/zPslZbu.jpeg|
+name=https://scp-jp-storage.wdfiles.com/local--files/file%3A7737619-48-8zac/ZH%E7%9C%9F%E6%A1%91%E5%8F%8B%E6%A2%A8%E4%BD%B32.jpeg|
 caption=[http://scp-zh-tr.wikidot.com/scp-zh-423 SCP-ZH-423]|
 width=150px|
 align=center
 ]]
 [[include component:image-block
-name=http://scp-jp-storage.wikidot.com/local--files/file:6637840-203-j2ec/makuwa.jpg|
-caption=[http://scp-zh-tr.wikidot.com/scp-3113-jp SCP-3113-JP]|
-width=150px|
-align=center
-]]
-[[include component:image-block
 name=https://scp-jp-storage.wdfiles.com/local--files/file%3A7737619-57-r0yc/EN%E7%9C%9F%E6%A1%91%E5%8F%8B%E6%A2%A8%E4%BD%B31.jpg|
-caption=[https://scp-zh-tr.wikidot.com/scp-6874 SCP-6874-EN]|
+caption=[http://scp-jp.wikidot.com/scp-6874 SCP-6874-EN]|
 width=150px|
 align=center
 ]]
 [[include component:image-block
 name=http://scp-jp-storage.wikidot.com/local--files/file:3846037-19-q038/%E7%9C%9F%E6%A1%91%E5%8F%8B%E6%A2%A8%E4%BD%B33127.jpg|
-caption=[http://scp-zh-tr.wikidot.com/scp-3127-jp SCP-3127-JP]|
+caption=[http://scp-jp.wikidot.com/scp-3127-jp SCP-3127-JP]|
 width=150px|
 align=center
 ]]
 [[include component:image-block
 name= http://scp-jp-storage.wdfiles.com/local--files/file:4589204-243-lnwg/真桑友梨佳群 |
-caption=[http://scp-zh-tr.wikidot.com/scp-3170-jp SCP-3170-JP]|
+caption=[http://scp-jp.wikidot.com/scp-3170-jp SCP-3170-JP]|
 width=150px|
 align=center
 ]]
 [[include component:image-block
 name=https://scp-jp-storage.wdfiles.com/local--files/file%3A7450069-258-78t8/ySiXWluY8veKyIq1702489169_1702489183.jpg|
-caption=[http://scp-zh-tr.wikidot.com/scp-3024-jp SCP-3024-JP]|
+caption=[http://scp-jp.wikidot.com/scp-3024-jp SCP-3024-JP]|
 width=150px|
 align=center
 ]]
 [[include component:image-block
 name=http://scp-jp-storage.wikidot.com/local--files/file:4062604-31-wqm0/%E7%9C%9F%E6%A1%91%E3%82%BB%E3%83%94%E3%82%A2.jpg|
-caption=[http://scp-zh-tr.wikidot.com/scp-3060-jp SCP-3060-JP]|
+caption=[http://scp-jp.wikidot.com/scp-3060-jp SCP-3060-JP]|
 width=150px|
 align=center
 ]]
 [[include component:image-block
 name=http://scp-jp-storage.wikidot.com/local--files/file:8299414-78-kblv/woods.jpg|
-caption=[http://scp-zh-tr.wikidot.com/scp-7212 SCP-7212-EN]|
+caption=[http://scp-jp.wikidot.com/scp-7212 SCP-7212-EN]|
 width=150px|
 align=center
 ]]
 [[include component:image-block
 name=https://scp-jp-storage.wdfiles.com/local--files/file%3A7450069-263-wi8q/IMG_9763.jpeg|
-caption=[http://scp-zh-tr.wikidot.com/scp-3792-jp SCP-3792-JP]|
+caption=[http://scp-jp.wikidot.com/scp-3792-jp SCP-3792-JP]|
 width=150px|
 align=center
 ]]
@@ -138,12 +134,77 @@ align=center
 ]]
 [[include component:image-block
 name=http://scp-jp-storage.wikidot.com/local--files/file:5384396-122-geuy/SCP-3415-JP|
-caption=[http://scp-zh-tr.wikidot.com/scp-3415-jp SCP-3415-JP]|
+caption=[http://scp-jp.wikidot.com/scp-3415-jp SCP-3415-JP]|
 width=150px|
 align=center
 ]]
-
-
+[[include component:image-block
+name=http://scp-jp-storage.wikidot.com/local--files/file:3389120-24-m3ur/makuwa|
+caption=[http://scp-jp.wikidot.com/scp-3991-jp SCP-3991-JP]|
+width=150px|
+align=center
+]]
+[[include component:image-block
+name=https://scp-jp-storage.wdfiles.com/local--files/file%3A2859452-230-t34a/makuwa_horse.png|
+caption=[http://scp-jp.wikidot.com/scp-3546-jp SCP-3546-JP]|
+width=150px|
+align=center
+]]
+[[div class="scp-image-block block-center scp-clear-false" style="width: 150px;"]]
+[[image http://scp-jp-storage.wikidot.com/local--files/file:2859452-244-gxlu/makku.png style="width: 100%; filter: grayscale(100%);" link=#]]
+[[div class="scp-image-caption" style="width: 100%;"]]
+[http://scp-jp.wikidot.com/scp-3545-jp SCP-3545-JP]
+[[/div]]
+[[/div]]
+[[div class="scp-image-block block-center scp-clear-false" style="width: 150px;"]]
+[[image https://scp-jp-storage.wdfiles.com/local--files/file%3A2419995-121-668b/639px-Batt-6F22KG-Toshiba--21lyeyxy.jpg style="width: 100%; filter: grayscale(100%);" link=#]]
+[[div class="scp-image-caption" style="width: 100%;"]]
+[http://scp-jp.wikidot.com/scp-3806-jp SCP-3806-JP]
+[[/div]]
+[[/div]]
+[[include component:image-block
+name=https://scp-jp-storage.wdfiles.com/local--files/file%3A2616236-7-mqgm/makuwa_3984-JP.jpg|
+caption=[http://scp-jp.wikidot.com/scp-3984-jp SCP-3984-JP]|
+width=150px|
+align=center
+]]
+[[include component:image-block
+name=https://scp-jp-storage.wdfiles.com/local--files/file%3A6903570-36-jkil/corpse-corpus-placeholder.png|
+caption=[http://scp-jp.wikidot.com/scp-3602-jp SCP-3602-JP]|
+width=150px|
+align=center
+]]
+[[include component:image-block
+name= http://scp-jp-storage.wikidot.com/local--files/file:8538458-33-x6n3/IMG_1736.jpeg |
+caption=[http://scp-jp.wikidot.com/scp-3087-jp SCP-3087-JP]|
+width=150px|
+heit=200px|
+align=center
+]]
+[[include component:image-block
+name=http://scp-jp-storage.wikidot.com/local--files/file:3671347-49-6621/Makuwa-Yurika-12.jpg|
+caption=[[[SCP-3618-JP]]]|
+width=150px|
+align=center
+]]
+[[include component:image-block
+name=https://scp-jp-storage.wdfiles.com/local--files/file%3A3205804-57-cc3b/36314220603_dc4ba51f5b_o.jpg|
+caption=[http://scp-jp.wikidot.com/scp-2604-jp SCP-2604-JP]|
+width=150px|
+align=center
+]]
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
 [[/div]]
 [[=]]
 [[span class="thin"]]
