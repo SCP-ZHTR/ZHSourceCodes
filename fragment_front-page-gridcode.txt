@@ -168,29 +168,15 @@ div.transrss{
     div.grid {
      -ms-grid-columns: 1fr 1fr;
      grid-template-columns: 1fr 1fr;
-          grid-template-areas:
-     "newsbox newsbox"
+     grid-template-areas:
+     "transrss origrss"
      "feature1 feature2"
      "feature3 feature4"
+     "newsbox newsbox"
      "art art";
     }
     div.classified {letter-spacing: 0.5rem;font-size: 2rem;margin-left: 0.5rem;}
     div.caption {margin-top: 10rem; bottom: 0;}
     div.art {background-position-x: unset;}
-    div.grid > div.newsbox {-ms-grid-row: 1;-ms-grid-row-span: 1;-ms-grid-column: 1;-ms-grid-column-span: 2;
-    }
-    div.grid > div.feature1box {-ms-grid-row: 2;-ms-grid-column: 1;-ms-grid-column-span: 1;
-    }
-    div.grid > div.feature2box {-ms-grid-row: 2;-ms-grid-column: 2;-ms-grid-column-span: 1;
-    }
-    div.grid > div.feature3box {-ms-grid-row: 3;-ms-grid-column: 1;-ms-grid-column-span: 1;
-    }
-    div.grid > div.feature4box {-ms-grid-row: 3;-ms-grid-column: 2;-ms-grid-column-span: 1;
-    }
-    div.grid > div.art {-ms-grid-row: 4;-ms-grid-row-span: 1;-ms-grid-column: 1;-ms-grid-column-span: 2;
-    }
-    div.transrss, div.origrss{
-        display:none;
-    }
 }
 [[/module]]

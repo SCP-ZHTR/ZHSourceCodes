@@ -5,7 +5,7 @@ SCP 作品展出
 
 [[div class="feature"]]
 ++ [[[{$scpslug}| {$scptitle}]]]
-[[span class="feature-subtitle"]]by {$scpby}[[/span]] | [[span class="feature-subsubtitle"]]Selected by {$scpselector}[[/span]]
+[[span class="feature-subtitle"]]作者： {$scpby}[[/span]] | [[span class="feature-subsubtitle"]]推薦人： {$scpselector}[[/span]]
 
 [[span class="feature-blurb"]]{$scpblurb}[[/span]]
 [[/div]]
@@ -22,7 +22,7 @@ SCP 作品展出
 
 [[div class="feature"]]
 ++ [[[{$taleslug}| {$taletitle}]]]
-[[span class="feature-subtitle"]]by {$taleby}[[/span]] | [[span class="feature-subsubtitle"]]Selected by {$taleselector}[[/span]]
+[[span class="feature-subtitle"]]作者：{$taleby}[[/span]] | [[span class="feature-subsubtitle"]]推薦人： {$taleselector}[[/span]]
 
 [[span class="feature-blurb"]]{$taleblurb}[[/span]]
 [[/div]]
@@ -39,10 +39,10 @@ SCP 作品展出
 [[/div]]
 
 [[div class="feature"]]
-++ [[[{$goislug}| {$goititle}]]]
-[[span class="feature-subtitle"]]by {$goiby}[[/span]] | [[span class="feature-subsubtitle"]]Selected by {$goiselector}[[/span]]
+++ [[[{$transslug}| {$transtitle}]]]
+[[span class="feature-subtitle"]]譯者：{$transby}　譯者：{$transauthor}[[/span]] | [[span class="feature-subsubtitle"]]推薦人： {$transselector}[[/span]]
 
-[[span class="feature-blurb"]]{$goiblurb}[[/span]]
+[[span class="feature-blurb"]]{$transblurb}[[/span]]
 [[/div]]
 
 [[div class="footer"]]
@@ -57,7 +57,7 @@ SCP 作品展出
 
 [[div class="feature"]]
 ++ [[a href="{$rsslug}"]]{$rstitle}[[/a]]
-[[span class="feature-subtitle"]]by {$rsby}[[/span]] | [[span class="feature-subsubtitle"]]Selected by {$rsselector}[[/span]]
+[[span class="feature-subtitle"]]作者：{$rsby}[[/span]] | [[span class="feature-subsubtitle"]]推薦人：{$rsselector}[[/span]]
 
 [[span class="feature-blurb"]]{$rsblurb}[[/span]]
 [[/div]]

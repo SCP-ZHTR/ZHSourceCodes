@@ -1,6 +1,6 @@
 [!-- This image acts as a thumbnail.  --]
 [[image https://scp-wiki.wdfiles.com/local--files/main/logo_250.png width="0" height="0"]]
-
+ 
 [[include fragment:front-page-gridcode]]
 
 [!-- THIS IS THE HEADER: IT HAS THE CLASSIFIED HEADER, THE CONTEST BANNER, AND THE SURVEY LINK. PLEASE USE THE APPROPRIATE TOGGLES: classified, contest, and survey and surveylink. THE CLASSIFIED HEADER AND CONTEST BANNER SHOULD NOT BE ON AT THE SAME TIME, BUT THE SURVEY CAN COEXIST WITH EITHER. --]
@@ -20,7 +20,14 @@
 
 [[include fragment:main-page-rss]]
 
-[[include fragment:new-front-page-features]]
+[[include fragment:new-front-page-features
+|scptitle=SCP-ZH-605 - 殍烏，或稱三杯大怪鳥
+|scpslug=scp-zh-605
+|scpby=[[user lostwhat]] 
+|scpselector=[[user dr-v-valentine]] 
+|scpblurb=項目的美味之處並不在於味道，而是在於希望。人造的希望不會美味，人造的絕望淡然無味。
+
+]]
 
 [[include fragment:front-page-artist-showcase
 |artblurb=rottingraisins, Fenmoth, JohnnoDwarf
