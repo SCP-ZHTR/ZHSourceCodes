@@ -1,0 +1,5 @@
+[[iftags +外觀主題]]
+[[module css]]
+@import url("https://scp-wiki.wdfiles.com/local--code/theme%3Agreystyle/1")
+[[/module]]
+[[/iftags]]

@@ -1,0 +1,3 @@
+[[module css]]
+@import url("https://scp-wiki.wdfiles.com/local--code/theme%3Agreystyle/2")
+[[/module]]
