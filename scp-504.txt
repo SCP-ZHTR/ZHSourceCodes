@@ -1,3 +1,4 @@
+[[include component:scp-meta-title-hiding css-style=classic]]
 [[include credit:start]]
 標題：SCP-504 - 暴擊番茄
 作者：[[*user BlastYoBoots]]
@@ -5,7 +6,6 @@
 
 譯者註：翻譯笑話很難，我嘗試重現每一則笑話的神韻，不過這終究還是要見仁見智。
 [[include credit:end]]
-[[include component:scp-meta-title-hiding css-style=classic]]
 
 [[include component:image-block name=https://scp-wiki.wdfiles.com/local--files/scp-504/tomato2.jpg|caption=SCP-504]]
 
