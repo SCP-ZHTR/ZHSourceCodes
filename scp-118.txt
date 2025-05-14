@@ -1,5 +1,6 @@
 [[include component:scp-meta-title-hiding]]
 [[include info:start]]
+**標題：** SCP-118 - 核能原蟲
 **作者：** [[*user Oksbad]]
 **譯者：** [[*user vomiter]]
 [[include info:end]]
