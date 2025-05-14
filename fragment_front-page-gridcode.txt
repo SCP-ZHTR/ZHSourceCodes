@@ -169,9 +169,9 @@ div.transrss{
      -ms-grid-columns: 1fr 1fr;
      grid-template-columns: 1fr 1fr;
      grid-template-areas:
-     "transrss origrss"
      "feature1 feature2"
      "feature3 feature4"
+     "transrss origrss"
      "newsbox newsbox"
      "art art";
     }

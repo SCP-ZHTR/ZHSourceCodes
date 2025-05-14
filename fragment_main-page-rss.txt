@@ -1,3 +1,14 @@
+[[module css]]
+.main-rss{
+    padding: 0.5rem;
+}
+@media only screen and (max-width: 666px) {
+.main-rss{
+    padding: 0.2rem;
+}
+}
+[[/module]]
+
 [[div class="box origrss"]]
 [[div class="title"]]
 最新原創
@@ -5,8 +16,10 @@
 
 [[div class="content-type-description"]]
 
-[[module ListPages tags="原創" order="created_at desc" limit="10" separate="false"]]
-|| %%title_linked%% ||
+[[module ListPages tags="原創" order="created_at desc" limit="8" separate="false"]]
+[[div_ class="main-rss"]]
+ %%title_linked%% 
+[[/div]]
 [[/module]]
 
 [[/div]]
@@ -24,8 +37,10 @@
 
 [[div class="content-type-description"]]
 
-[[module ListPages tags="翻譯" order="created_at desc" limit="10" separate="false"]]
-|| %%title_linked%% ||
+[[module ListPages tags="翻譯" order="created_at desc" limit="8" separate="false"]]
+[[div_ class="main-rss"]]
+ %%title_linked%% 
+[[/div]]
 [[/module]]
 
 [[/div]]
