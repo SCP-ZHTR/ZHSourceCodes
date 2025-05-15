@@ -10,6 +10,13 @@
 [[/module]]
 [[/tab]]
 
+[[tab 標籤顯示]]
+[[module ListPages separate="no" perPage="20" tags="+wanderers" order="created_at desc" -category="*"]]
+* %%title_linked%% - %%created_by%% | %%created_at%% 
+##gray|%%tags%%##
+[[/module]]
+[[/tab]]
+
 [[tab jp未翻標籤]]
 [[module ListPages separate="yes" perPage="50" tags="+jp"  order="created_at desc" -category="_default"]]
 %%title_linked%% - %%created_by%%  
@@ -28,19 +35,6 @@
 %%title_linked%% - %%created_by%%
 [[/module]]
 [[/tab]]
-
-[[tab 雜食性 刪除]]
-[[module ListPages separate="yes" perPage="1000" tags="+雜食性" order="name" -category="_default"]]
-%%title_linked%% - %%created_by%%
-[[/module]]
-[[/tab]]
-
-[[tab 肉食性 刪除]]
-[[module ListPages separate="yes" perPage="1000" tags="+肉食性" order="name" -category="_default"]]
-%%title_linked%% - %%created_by%%
-[[/module]]
-[[/tab]]
-
 
 [[tab 原創標籤一覽]]
 [[module ListPages separate="no" perPage="100" tags="+scp +原創" order="name" -category="_default"]]
@@ -175,6 +169,24 @@
 [[code]]
 [[tab 地圖 刪除]]
 [[module ListPages separate="yes" perPage="1000" tags="+地圖" order="name" -category="_default"]]
+%%title_linked%% - %%created_by%%
+[[/module]]
+[[/tab]]
+[[/code]]
+
+雜食性
+[[code]]
+[[tab 雜食性 刪除]]
+[[module ListPages separate="yes" perPage="1000" tags="+雜食性" order="name" -category="_default"]]
+%%title_linked%% - %%created_by%%
+[[/module]]
+[[/tab]]
+[[/code]]
+
+雜食性
+[[code]]
+[[tab 肉食性 刪除]]
+[[module ListPages separate="yes" perPage="1000" tags="+肉食性" order="name" -category="_default"]]
 %%title_linked%% - %%created_by%%
 [[/module]]
 [[/tab]]
