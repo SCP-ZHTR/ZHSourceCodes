@@ -538,7 +538,7 @@ Greyve
 [[/div]]
 
 [[div class="jotting"]]
-Use [[span class="label"]]@@[[div class="jotting"]]@@[[/span]]以建立。
+使用[[span class="label"]]@@[[div class="jotting"]]@@[[/span]]以建立。
 [[/div]]
 
 [[div class="modal"]]
@@ -593,7 +593,7 @@ Use [[span class="label"]]@@[[div class="jotting"]]@@[[/span]]以建立。
 [[/div]]
 
 [[div class="raisa-memo"]]
-Use [[span class="label"]]@@[[div class="raisa-memo"]]@@[[/span]]以建立。 
+使用[[span class="label"]]@@[[div class="raisa-memo"]]@@[[/span]]以建立。 
 [[/div]]
 
 [[div class="blockquote shadow"]]
