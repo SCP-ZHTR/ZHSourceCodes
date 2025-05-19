@@ -11,7 +11,7 @@ SCP 作品展出
 [[/div]]
 
 [[div class="footer"]]
-@@>>@@ [https://scp-wiki.wikidot.com/featured-scp-archive-iii Archived SCP Features]
+@@>>@@ [[[*featured-scp-archive|查看以往展出的SCP作品]]]
 [[/div]]
 [[/div]]
 
@@ -28,7 +28,8 @@ SCP 作品展出
 [[/div]]
 
 [[div class="footer"]]
-@@>>@@ [https://scp-wiki.wikidot.com/featured-tale-archive-ii Archived Tale Features]
+@@>>@@ [[[*featured-tale-archive|查看以往展出之故事]]]
+
 [[/div]]
 [[/div]]
 
@@ -46,7 +47,7 @@ SCP 作品展出
 [[/div]]
 
 [[div class="footer"]]
-@@>>@@ [https://scp-wiki.wikidot.com/featured-goi-format-archive Archived GoI Features]
+@@>>@@ [[[*featured-translation|查看以往展出的翻譯作品]]]
 [[/div]]
 [[/div]]
 
@@ -63,7 +64,7 @@ SCP 作品展出
 [[/div]]
 
 [[div class="footer"]]
-@@>>@@ [https://scp-wiki.wikidot.com/reviewers-spotlight-archive-iii Archived Spotlights]
+@@>>@@ [[[*featured-Comprehensive-exhibition|查看以往的綜合展出]]]
 [[/div]]
 [[/div]]
 
