@@ -1,9 +1,11 @@
+[[include component:scp-meta-title-hiding css-style=classic]]
+
 [[include credit:start]]
 作者：[[*user Agent Angus Smith]]、[[*user voct]]
 譯者：[[*user vomiter]]
 標題：SCP-086 - [刪減內容]博士的辦公室
 [[include credit:end]]
-[[include component:scp-meta-title-hiding css-style=classic]]
+
 
 [[include component:image-block name=https://scp-wiki.wdfiles.com/local--files/scp-086/rotary.JPG|caption=SCP-086-1]]
 

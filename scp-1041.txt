@@ -5,7 +5,7 @@
 **作者：** [[*user Communism will win]]
 **譯者：** [[*user Pseudopoet]]
 [[include credit:end]]
-[[include component:scp-meta-title-hiding css-style=classic]]
+
 
 
 **項目編號:** SCP-1041
