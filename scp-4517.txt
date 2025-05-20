@@ -4,7 +4,7 @@
 [[/>]]
 
 
-[[include component:image-block name=http://topia.wdfiles.com/local--files/malice-quality/censoredbath.jpg | caption=裝有 SCP-4517 的浴缸。內容物已編輯。]]
+[[include component:image-block name=https://topia.wdfiles.com/local--files/malice-quality/censoredbath.jpg | caption=裝有 SCP-4517 的浴缸。內容物已編輯。]]
 
 **項目編號：**SCP-4517
 
