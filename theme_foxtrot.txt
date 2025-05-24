@@ -295,7 +295,7 @@ Foxtrot以先前一系列的外觀主題作為基礎，主要為[[[https://scp-z
  * 默認值：@@ @@ {{url(__@@https://scp-wiki.wikidot.com/local--files/theme:foxtrot/fxtrt_scp_logo_lightmode.svg@@__)}}
  * 默認值（暗色模式）： @@ @@ {{url(__@@https://scp-wiki.wikidot.com/local--files/theme:foxtrot/fxtrt_scp_logo_darkmode.svg@@__)}}
 
-* **{{@@--logo-opacity@@}}** @@ @@ -- @@ @@版頭The opacity of the image displayed on the page header.
+* **{{@@--logo-opacity@@}}** @@ @@ -- @@ @@版頭圖片的不透明度。
  * 默認值： @@ @@ {{14%}}
  * 默認值（暗色模式）： @@ @@ {{30%}}
 

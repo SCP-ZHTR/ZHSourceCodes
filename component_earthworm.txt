@@ -1,109 +1,111 @@
-[[div class="earthworm"]]
-[[div class="first {$first}"]]
-  [[div class="inner"]]
-    [[image http://scp-wiki.wdfiles.com/local--files/component%3Aearthworm/Transparent.gif]]
+[[div class="earthworm earthworm--old-syntax-first-{$first} earthworm--old-syntax-last-{$last} earthworm--old-syntax-hub-{$hub} {$class}"]]
+[[div class="first earthworm__previous" data-title="{$previous-title}"]]
+  [[div class="inner earthworm__inner"]]
+    [[image https://scp-wiki.wdfiles.com/local--files/component%3Aearthworm/Transparent.gif class="image earthworm__arrowhead earthworm__arrowhead--left"]]
 
-    [[div class="arrow"]]
+    [[div class="arrow earthworm__arrow"]]
     [[/div]]
 
   [[/div]]
 
-  [{$previous-url} {$previous-title}]
+  [[[{$previous-url} | {$previous-title}]]]
 [[/div]]
-[[div class="hub {$hub}"]]
-  [{$hub-url} {$hub-title}]
+[[div class="hub earthworm__hub" data-title="{$hub-title}"]]
+  [[[{$hub-url} | {$hub-title}]]]
 [[/div]]
-[[div class="last {$last}"]]
-  [[div class="inner"]]
-    [[image http://scp-wiki.wdfiles.com/local--files/component%3Aearthworm/Transparent.gif]]
+[[div class="last earthworm__next" data-title="{$next-title}"]]
+  [[div class="inner earthworm__inner"]]
+    [[image https://scp-wiki.wdfiles.com/local--files/component%3Aearthworm/Transparent.gif class="image earthworm__arrowhead earthworm__arrowhead--right"]]
 
-    [[div class="arrow"]]
+    [[div class="arrow earthworm__arrow"]]
     [[/div]]
 
   [[/div]]
 
-  [{$next-url} {$next-title}]
+  [[[{$next-url} | {$next-title}]]]
 [[/div]]
 [[/div]]
 
 [[module CSS]]
 .earthworm {
-    font-weight: bold;
-    display: flex;
-    justify-content: center;
-    align-items: stretch;
-    margin: 1em 0;
-    clear: both;
-    z-index: 0;
-    min-height: 36px;
-}
-.earthworm > div {
-    display: flex;
-    align-items: center;
-}
-.earthworm p {
-    margin: 0 0.8em;
-    text-align: center;
-    position: relative;
-    z-index: 5;
-}
-.earthworm .first {
-    border-top: 2px rgba(150,150,150,0.5) solid;
-    border-bottom: 2px rgba(150,150,150,0.5) solid;
-    position: relative;
-}
-.earthworm .first:not(.true) img {
-    height: 100%;
-    width: auto;
-    display: block;
-    position: absolute;
-    left: 0;
-    top: -1.5px;
-    border: 2.8px rgba(150,150,150,0.5) solid;
-    transform: scale(0.707) rotate(-45deg);
-    border-width: 2.8px 0 0 2.8px;
-    transform-origin: 0% 100%;
-}
-.earthworm .hub {
-    margin: -3px 0;
-    border: 3px rgba(150,150,150,0.5) solid;
-    background: linear-gradient(10deg, rgba(150,150,150,0.1), rgba(150,150,150,0));
-    position: relative;
-    z-index: 5;
-}
-.earthworm .hub.no a, .earthworm a[href="/"], .earthworm a[href="http://www.scp-wiki.net"] {
-    color: #333;
-    text-decoration: none;
-    cursor: text;
-    pointer-events: none;
-}
-.earthworm .last {
-    border-top: 2px rgba(150,150,150,0.5) solid;
-    border-bottom: 2px rgba(150,150,150,0.5) solid;
-    position: relative;
-}
-.earthworm .last:not(.true) img {
-    height: 100%;
-    width: auto;
-    display: block;
-    position: absolute;
-    right: 0;
-    top: -1.5px;
-    border: 2.8px rgba(150,150,150,0.5) solid;
-    transform: scale(0.707) rotate(45deg);
-    border-width: 2.8px 2.8px 0 0;
-    transform-origin: 100% 100%;
-}
-.earthworm div.true {
-    width: 0;
-}
-.earthworm div.true p {
-    display: none;
+  --earthworm-segment-border-color: rgba(150,150,150,0.5);
+  font-weight: bold;
+  display: flex;
+  justify-content: center;
+  align-items: stretch;
+  margin: 1em 0;
+  clear: both;
+  min-height: 36px;
 }
 .earthworm a {
-    word-break: normal;
+  word-break: normal;
+}
+.earthworm__previous, .earthworm__hub, .earthworm__next {
+  display: flex;
+  align-items: center;
+}
+.earthworm p {
+  margin: 0 0.8em;
+  text-align: center;
+}
+.earthworm__previous, .earthworm__next {
+  border-top: 2px solid var(--earthworm-segment-border-color);
+  border-bottom: 2px solid var(--earthworm-segment-border-color);
+  position: relative;
+}
+.earthworm__hub {
+  margin: -3px 0;
+  border: 3px solid var(--earthworm-segment-border-color);
+  background: linear-gradient(10deg, rgba(150,150,150,0.1), rgba(150,150,150,0));
+  position: relative;
+}
+.earthworm__arrowhead {
+  width: auto;
+  height: calc(100% + 2px);
+  top: -2.5px;
+  display: block;
+  position: absolute;
+  border-style: solid;
+  border-color: var(--earthworm-segment-border-color);
+}
+.earthworm__arrowhead--left {
+  left: 0;
+  transform: scale(0.707) rotate(-45deg);
+  border-width: 2.8px 0 0 2.8px;
+  transform-origin: 0% 100%;
+  clip-path: polygon(0% 0%, 100% 0%, 0% 100%);
+}
+.earthworm__arrowhead--right {
+  right: 0;
+  transform: scale(0.707) rotate(45deg);
+  border-width: 2.8px 2.8px 0 0;
+  transform-origin: 100% 100%;
+  clip-path: polygon(0% 0%, 100% 0%, 100% 100%);
+}
+
+/* Hide segments that have url=/ AND (title= OR title=/) */
+.earthworm__previous:has(a[href="/"]):is([data-title="\{\$previous-title\}"], [data-title="/"]),
+.earthworm__next:has(a[href="/"]):is([data-title="\{\$next-title\}"], [data-title="/"]),
+.earthworm__hub:is([data-title="\{\$next-title\}"], [data-title="/"]) a[href="/"] {
+  display: none;
+}
+
+/* Style href=/ links to look like plain text */
+.earthworm a[href="/"] {
+  color: #333;
+  text-decoration: none;
+  cursor: text;
+  pointer-events: none;
+}
+
+/* Backwards compatibility: support old syntax */
+.earthworm--old-syntax-first-true .earthworm__previous,
+.earthworm--old-syntax-last-true .earthworm__next,
+.earthworm--old-syntax-hub-no .earthworm__hub a {
+  display: none;
 }
 [[/module]]
+
 
 [[iftags +組件]]
 
@@ -127,7 +129,7 @@ td { vertical-align: top; }
 在任何wiki上：
 
 [[div class="code"]]
-##blue|**[[include :scp-wiki:component:earthworm**##
+##blue|**[[include :scp-zh-tr:component:earthworm**##
 ##blue|**|**## ##green|first####blue|**=**##false ##blue|**|**## ##green|last####blue|**=**##false ##blue|**|**## ##green|hub####blue|**=**##yes
 ##blue|**|**## ##green|previous-url####blue|**=**##URL_OF_PREVIOUS ##blue|**|**## ##green|previous-title####blue|**=**##TITLE OF PREVIOUS
 ##blue|**|**## ##green|next-url####blue|**=**##URL_OF_NEXT ##blue|**|**## ##green|next-title####blue|**=**##TITLE OF NEXT
