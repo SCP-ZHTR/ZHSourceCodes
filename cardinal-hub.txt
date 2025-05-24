@@ -105,6 +105,7 @@
 [[[theme:sigma|Sigma-9外觀主題]]]
 [[[theme:simple-yonder|悠悠彼方 外觀主題]]]
 [[[theme:space|浩瀚宇宙 外觀主題]]]
+[[[theme:cosmos|無垠宇宙 外觀主題]]]
 [[[theme:turbo-vision|Turbo Vision 外觀主題]]]
 [[[theme:word-processor|文書軟體 外觀主題]]]
 [[[theme:xmas|聖誕節主題]]]
@@ -116,6 +117,7 @@
 [[[theme:disrememberment-theme|遺忘 外觀主題]]]
 [[[component:djk|DJK]]]
 [[[theme:extra-black-highlighter-theme|超黑標記筆 外觀主題]]]
+[[[theme:greystyle|Greystyle]]]
 [[[theme:jakstyle|JAKSTYLE]]]
 [[[theme:minimalist-bhl|簡約風 黑色標記筆 外觀主題]]]
 [[[theme:ouroborous-theme|銜尾蛇 外觀主題]]]
@@ -263,14 +265,20 @@
 [[[component:svgheader|SVG標頭]]]
 
 +++ 頁面導航元素
+++++ 成人警示
 [[[component:adult-content-warning|成人內容警示]]]
 [[[component:adult-splash|成人遮蔽頁組件]]]
+++++ 側欄
 [[[component:bhl-dark-sidebar|黑標暗色側邊欄]]]
-[[[component:bhl-style-collapse|黑色標記筆風格的折疊頁]]]
-[[[component:collapsible-sidebar|可折疊側欄]]]
-[[[component:earthworm|Earthworm系列導航欄]]]
++++++ Toggle
 [[[component:toggle-sidebar|折疊側欄]]]
 [[[component:toggle-sidebar-bhl|黑標切換側欄]]]
++++++ Collapsible
+[[[component:bhl-style-collapse|黑色標記筆風格的折疊頁]]]
+[[[component:collapsible-sidebar|可折疊側欄]]]
+++++ 導航欄
+[[[component:earthworm|Earthworm系列導航欄]]]
+
 
 +++ Hover Box
 [[[component:scp-hover-box|SCP Hover Box]]]
