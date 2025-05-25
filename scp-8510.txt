@@ -87,7 +87,7 @@
 > **雷恩特工**
 > 
 > 雷恩特工，你不會記起來的，但你從自己一直在追捕的逆模因中拿走了這分文件，並從窗戶逃了出來。如果你需要證據證明這是你自己寫的，那麼證據就是「埃爾克哈特湖和黑莓派」。只要把這文件送回任務控制中心，一切都會好起來的。不要忘記這份文件，除非再三確認那是棟真實的建築，不要進入任何建築裡面。回來後參加X課程並撰寫完整報告。你做得到的。[[/collapsible]]
-[[include component:image-block | name=https://scp-wiki.wdfiles.com/local--files/scp-8510/memetic.jpg | caption=[[span style="font-family: Shadows Into Light; font-size: 110%;"]]禁止干擾模因製劑| width=WIDTH-GOES-HERE]][[/span]]
+[[include component:image-block | name=https://scp-wiki.wdfiles.com/local--files/scp-8510/memetic.jpg | caption=[[span style="font-family: Shadows Into Light; font-size: 110%;"]]禁止干擾模因製劑[[/span]]| width=300px]]
 [[span style="font-family: Handlee; font-size: 100%;"]]項目編號：未歸定[[/span]]
 
 [[span style="font-family: Handlee; font-size: 100%;"]]項目等級： --Irrelevant-- [[/span]][[span style="font-family: Shadows Into Light; font-size: 110%;"]]Keter。這東西絕對是Keter。[[/span]]
