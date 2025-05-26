@@ -889,7 +889,7 @@ div.creditButtonStandalone>p>a::after, div.rate-box-with-credit-button .creditBu
 而現代的人們，也只能透過撿拾被沖散的紀錄碎片，逐漸拼湊、推測、想像出一篇完整的故事，並且期望這正是當時所發生的這段、受到掩蓋、微不足道的過去。
 同樣的我們，也無從得知未來的世界將會變成什麼樣子。基金會，或之後的任何組織，究竟是否能夠如同當年的[[span class="ruby"]]遠征[[span class="rt"]]Expedition[[/span]][[/span]]，解釋目前人類所不能理解的異常、探索目前人類所無法接觸的未知？
 ----
-**作者：**[[*user Tiro_taiwan]]
+**作者：**[[*user Tiro_taiwan]]（[[[author-secret-office|作者頁面]]]）
 我的第一篇原創作品。
 由於我太高估自己，比起原訂的內容，目前的版本其實是經過大量刪減與整改後的結果。
 原本想要補充我一篇關於夜之子的原創項目的故事，結果寫著寫著就變成這樣了，連一片雪花都沒提到。
@@ -1158,7 +1158,7 @@ R███ A█████, 1925.　　　　
 = __機密__
 根據大英帝國官方機密法令，本函件僅供指定收件人閱讀，嚴禁未授權之揭露、複製或傳播。閱讀者具有對其內容保密及妥善保管函件之義務，以保障國家的安全與利益。[[/size]]
 [[>]]
-[[image flickr:53348521259_1e5890c7a4_c style="width:100px; margin-right:50px;"]]
+[[image https://imgur.com/Ab3QrGs.png style="width:100px; margin-right:50px;"]]
 [[/>]]
 親愛的Tombazi先生：
 　　這裡是國王陛下超自然控制暨收容基金會，隸屬於大不列顛暨愛爾蘭聯合王國統治者，因為以下原因與您聯繫。
