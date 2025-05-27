@@ -116,7 +116,7 @@ SCP-ZH-525最先記載於[http://scp-zh-tr.wikidot.com/system:page-tags/tag/_%E6
 [[/div]]
 
 
-[[include :scp-wiki:theme:foxtrot
+[[include :scp-zh-tr:theme:foxtrot
 hidetitle=a]]
 [[module css]]
 @import url('http://www.scp-zh-tr.wikidot.com/local--files/component:theme/font-bauhaus.css');
