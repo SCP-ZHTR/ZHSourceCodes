@@ -7,7 +7,7 @@ text=
 =====
 
 
-[[include :scp-wiki:theme:minimal
+[[include :scp-zh-tr:theme:minimal
 |title=SCP 基金會
 |subtitle=控制，收容，保護]]
 
