@@ -623,7 +623,7 @@ Amelia Barlow
 | next-title=信任恐懼症
 | hub-title=SCP驚選集2024
 | previous-url=dr-frueh-s-proposal
-| next-url=scp-anthology-2024
+| next-url=scp-8607
 | hub-url=scp-anthology-2024
 ]]
 
