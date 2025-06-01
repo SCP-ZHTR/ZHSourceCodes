@@ -1,0 +1,231 @@
+[[include :scp-wiki:theme:black-highlighter-theme]]
+[[include :scp-wiki:theme:the-way-out]]
+
+[[module css]]
+:root:lang(zh) {
+    /* S-CSS-P Integration */
+    /* If you're making a new CSS theme, please include the following three variables at minimum. */
+    --theme-base: "nuscp";
+    /* must be either "nuscp" or "sigma9" */
+    --theme-id: "nuscp";
+    /* set this to the URL of your theme's page - eg for "component:ar-theme", set it to "ar-theme" */
+    --theme-name: "nu-SCP Theme";
+    /* set this to your theme's full name */
+        
+    /* Header */
+    --logo-image: url("http://scp-int.wdfiles.com/local--files/main/scp-logo-en-400.png");
+    --header-title: "2025夏季競賽";
+    --header-subtitle: "Summer 2025 Competition";
+
+ /* 內頁標題 */
+    #page-title {
+     border-color: #c3d3e0;
+     color:  #FFFFFF;
+    }
+
+    /*連結顏色 */
+    --visited-link-color:0, 112, 209;
+    --link-color:60, 97, 130;
+
+    /*鴿子直升機 */
+--gradient-background: linear-gradient(to bottom,
+#363636 0%,
+ #FFFFFF 100%);
+    /*直升機輔助輪 */
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    background-color: #FFFFFF; /* 設置整個頁面的背景顏色 */
+}
+
+.header {
+    height: 100px; /* 頁面頂部的高度 */
+    background-image: linear-gradient(to bottom, #bdbebf, transparent); /* 從灰色漸變到透明 */
+}
+
+.content {
+    padding: 20px;
+}
+}
+[[/module]]
+
+[!-- 資訊欄▼ --]
+[[include info:start-standalone]]
+本次主題來自於[[*user Rounderhouse]]的[https://scp-wiki.wikidot.com/theme:the-way-out The Way Out Theme]並經過微調改造。
+---------
+競賽主視覺來自https://pxhere.com/zh/photo/1457017
+以CC0授權使用由[[*user Dr V Valentine]]後製為主視覺標題
+Checkmate !
+[[include info:end]]
+[!-- 主視覺▼ --]
+[[image https://i.postimg.cc/YtZ59546/GOI.png link ="summer-contest-2025"]]
+[!-- 那些該注意的或很棒的事▼ --]
+[[tabview]]
+[[tab 題目與規則]]
++* 題目
+本次 2025 年夏季競賽以 關注組織（GOI）為主題。
+你可以選擇撰寫任何現有關注組織的相關作品，也可以大膽創造一個全新的組織。
+
+唯一的條件是：
+> 所有參賽作品須建立在 SCP 宇宙觀 的基礎上，創作出風格與設定相符的組織相關文書。
+
+不論你偏好經典 GOI 還是腦洞大開的異常團體，這將是一次探索與重塑「組織」之名的挑戰。
+
+-----
+@@ @@
++* 規則
+
+參賽作品必須為您的原創作品。2025夏季競賽 ##930000|接受合著共同創作##，還請參賽者多加留意。
+本次競賽不限制投稿作品數量，我們接受以下6種格式的創作投稿：001提案、SCP檔案、故事、-EX（已解明）、-J（搞笑）、GOI格式。
+
+各位參賽者請務必於徵件開始後，於作品頁面底部的紅色標籤欄位中加入標籤：##930000|2025夏季競賽##以便讀者快速搜尋您的參賽作品。
+
+請注意：若於準備期內先將作品作為一般作品投稿，並於事後才補上活動標籤是不行的、這是禁止行為，除非刪除原作並重新投稿，否則將會被記錄並失去參賽資格。
+
+如有任何疑問，歡迎前往 [http://scp-zh-tr.wikidot.com/chat-guide 各大聯絡窗口] 尋求協助。
+
+@@ @@
+[[=]]
+主辦單位保有活動最終解釋權及變更活動內容細節之權利。
+[[/=]]
+@@ @@
+@@ @@
+[[/tab]]
+[[tab 賽程解說]]
+[[=]]
++ 賽程解說
+@@ @@
+++++++* 由於用戶多數位於相同時區內，以下所標示的日期及時間的基準皆以(GMT+8)為主。
+[[/=]]
+>
+> **準備期**：【2025年06月01日 （日）】至【2025年06月22日 （日） 23:59】
+>
+> **徵件期**：【2025年06月23日 （一）】至【2025年08月03日 （日） 23:59】
+>
+> **投票期**：【2025年06月23日 （一）】至【2025年08月10日 （日） 20:59】
+-----
+@@ @@
+= **##930000|※請不要在準備期投稿作品。##**
+@@ @@
+[[/tab]]
+[[tab 獎項]]
+> [[=]]
+> + 競賽優勝獎
+>
+> 若有多位參賽者在投票總分上並列同一名次，
+> 將合併該名次與其後一名次之獎金總額後平均分配。
+> [[span style="background:#f2fafc"]]例如：若有兩位參賽者並列第二名，則第二名與第三名的獎金（NTD 350＋300）合併後平均分配，每人獲得 NTD 325，並從「第四名」繼續排名，依此類推。[[/span]]
+> ※ 若參賽者並列最末位名次，則平均分配該名次獎金，無下一名可合併。
+> 
+> 「第一名」新台幣400
+> 「第二名」新台幣350
+> 「第三名」新台幣300
+> 「第四名」新台幣250
+> 「第五名」新台幣200
+> 「第六名」新台幣150
+> 「第七名」新台幣100
+> @@ @@
+> = **※ 匯率依照匯款當日新台幣幣值為基準**
+> [[/=]]
+@@ @@
+
+> [[=]]
+> + 你超厲害獎
+>
+> 通過艱難挑戰在短時間達成了[http://scp-zh-tr.wikidot.com/forum/t-12825884/#post-4430150 原創一個ZH關注組織][[footnote]] 3名作者與5篇及格的作品[[/footnote]]的成就的你們，超級厲害。
+>
+> 相關作品參與者每人都能得到新台幣50元。
+> @@ @@
+>
+> [[/=]]
+
+@@ @@
+
+> [[=]]
+> + 參加獎
+> SCP-ZH 企業冰箱壓克力磁鐵
+> **※ 參加獎定義**完成投稿且在投票結算時及格的##0080FF|每位參賽者限領**一個**##。
+> [[/=]]
+@@ @@
+
+[[=]]
+**##0080FF|※ 主辦單位保留更換其他等值獎項與調整獎項細節之權利##**。
+**有任何疑問歡迎留言詢問或是前往我們的[[[*chat-guide|聊天室與各大窗口]]]求助。**
+[[/=]]
+
+[[/tab]]
+[[tab 重點整理]]
+[[=]]
++ 重點整理
+[[/=]]
+
+* 標示的日期及時間的基準皆以(GMT+8)為主。
+
+* 提前投搞將失去參賽資格除非您刪除並重新投稿。
+
+* 請務必在比賽作品上添加**##930000|"2025夏季競賽"##**與**##930000|"原創"##**的兩種標籤。[[footnote]] 還不熟悉標籤操作的成員們請前往留言詢問或是在我們的[[[*chat-guide|聊天室與各大窗口]]]求助 [[/footnote]]
+
+* 開放001提案、SCP檔案、故事、-EX(已解明)、-J(搞笑)、GOI格式，等6種格式投稿參賽。
+
+* 本次不收受流浪者圖書館的創作，但收蛇之手的還請多加留意。
+
+* 2025夏季競賽**##930000|接受##**合著共同創作。
+
+* 題目沒有限制投稿份數。
+
+* 擁有wikidot帳號並申請[[[*system:join|加入站點]]]的會員才能參與投票或投稿。
+
+* 主辦單位保有活動最終解釋權及變更活動內容細節之權利。
+
+@@ @@
+[[/tab]]
+[[/tabview]]
+
+[!-- 自動收集器▼ --]
+[[div class="content-panel standalone content-row"]]
+[[div class="content-type-title"]]
+++ 目前參賽作品
+[[/div]]
+
+[[div class="content-type-description-2"]]
+
+[[table style="width: 100%;"]]
+[[row style="font-weight: bold; color: #fff; background-color: #666;"]]
+[[cell style="padding: 0 2px; width: 50%;"]]
+頁面名稱
+[[/cell]]
+[[cell style="padding: 0 2px; width: 25%; text-align: center;"]]
+建立日期
+[[/cell]]
+[[cell style="padding: 0 2px; width: 20%; text-align: center;"]]
+創建者
+[[/cell]]
+[[cell style="padding: 0 2px; text-align: center;"]]
+評分
+[[/cell]]
+[[/row]]
+[[/table]]
+
+[[/div]]
+
+[[div class="content-type-description"]]
+
+[[module ListPages order="created_at desc" prependLine="[[include component:listpages-table]]" perPage="30" appendLine="[[/table]]" category="-fragment, -prime"  separate="false" tags="+2025夏季競賽 +原創 -中心" rss="Most Recently Translated"]]
+[[row]]
+[[cell style="vertical-align: top;"]]
+%%title_linked%%
+[[/cell]]
+[[cell style="vertical-align: top; text-align: justify;"]]
+%%created_at|%Y年%m月%d日 %H:%M|agohover%%
+[[/cell]]
+[[cell style="vertical-align: top; text-align: left;"]]
+%%created_by_linked%%
+[[/cell]]
+[[cell style="vertical-align: top; text-align: justify;"]]
+%%rating%%
+[[/cell]]
+[[/row]]
+[[/module]]
+[[/div]]
+[[/div]]
