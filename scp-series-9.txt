@@ -656,7 +656,7 @@
 * [[[SCP-8604]]] - [ACCESS DENIED]
 * [[[SCP-8605]]] - [ACCESS DENIED]
 * [[[SCP-8606]]] - [ACCESS DENIED]
-* [[[SCP-8607]]] - [ACCESS DENIED]
+* [[[SCP-8607]]] - **信任恐懼症：[[span style="color: #f1a3e6"]]露西的家[[/span]]**
 * [[[SCP-8608]]] - [ACCESS DENIED]
 * [[[SCP-8609]]] - [ACCESS DENIED]
 * [[[SCP-8610]]] - [ACCESS DENIED]
