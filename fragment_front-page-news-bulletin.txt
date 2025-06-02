@@ -13,7 +13,7 @@
 [!-- News: Entry 3 --]
 [[div class="alternate unmargined"]]
 [[div class="news-title"]]
-2024年08月31日**【競賽活動】**
+2025年06月01日**【競賽活動】**
 [[/div]]
 [[div class="news-content"]]
 * 年度夏季競賽《異常之局》已經正式公開！徵文時間為【2025年06月23日 （一）】至【2025年08月03日 （日） 23:59】，更多詳情請見[[[summer-contest-2025|▶活動網頁]]]。
@@ -27,7 +27,7 @@
 [!-- News: Entry 4 --]
 [[div class="alternate unmargined"]]
 [[div class="news-title"]]
-2025年06月01日**【競賽活動】**
+2025年02月15日**【競賽活動】**
 [[/div]]
 [[div class="news-content"]]
 * 冬季競賽《絕望與希望》結果已經發表！恭喜獲獎者： _
