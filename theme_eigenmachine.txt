@@ -1,0 +1,3118 @@
+[[iftags +外觀主題]]
+[[module css]]
+@import url("https://cdn.scpwiki.com/theme/en/basalt/normalize-min.css");
+@import url("https://cdn.scpwiki.com/theme/en/basalt/basalt-bedrock-min.css");
+[[/module]]
+
+[[module CSS]]
+:root:lang(zh) {
+    --loop3: 1;
+    --loop2: 1;
+    --loop1: 1;
+    --demoloop: infinite;
+    --custom-color: 36, 31, 36;
+}
+.state_one, .state_two, .state_three, .state_four {
+  float: left;
+  width: 20%;
+padding: 5px;
+}
+
+.containser:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+#toc .title { font-size: 1em; }
+
+.tocy {
+    float:right;
+    padding-left: 10px;
+}
+
+@media all and (max-width: 800px) {
+    #page-content div:is(.tocy) {
+        float: none;
+        display: table;
+        margin: 0 auto;
+        padding-left: 0;
+    }
+
+    :where(.table_wrap) table {
+        table-layout:fixed;
+        width: fit-content;
+        overflow-x:auto;
+    }
+}
+
+@media screen and (max-width: 600px) {
+.state_one, .state_two, .state_three {
+    width: 100%;
+  }
+}
+
+
+[[/module]]
+
+[[div class="pseudocrumbs"]]
+//另見：[[[theme:scpedia|SCPedia外觀主題]]]、[[[theme:eigenvector|Eigenvector外觀主題]]]//
+[[/div]]
+
+[[>]]
+[[module Rate]]
+[[/>]]
+@@ @@
+[[div class="tocy"]]
+[[toc]]
+[[/div]]
+@@ @@
+
+這是以[[*user EstrellaYoshte]]製作的[[[theme:eigenvector|Eigenvector]]]為基礎，由[[*user Billith]]製作的通用主題。本主題多用在P.M.中心的SCP頁面上，但可被客製以滿足各類需求。
+
+將以下文字複製到你想導入本主題的頁面上：
+
+> {{@@[[include :scp-wiki:theme:bedrock]]@@}}
+> {{@@[[include :scp-wiki:theme:eigenmachine]]@@}}
+
+插入以下參數以調到//刪除部//模式：
+> {{@@[[include :scp-wiki:theme:eigenmachine delete=a]]@@}} //[https://scp-sandbox-3.wikidot.com/eigend-dark-test （預覽）]//
+
+插入以下參數以調到//無障礙（亮色）//模式：
+> {{@@[[include :scp-wiki:theme:eigenmachine light=a]]@@}} //[https://scp-sandbox-3.wikidot.com/eigend-light-test （預覽）]//
+
+插入以下參數以調到//murder of the universe//模式：
+> {{@@[[include :scp-wiki:theme:eigenmachine murder=a]]@@}} //[https://scp-sandbox-3.wikidot.com/eigend-murder-test （預覽）]//
+
+每種模式均有獨特的着色div，可以按上方的連結看看！現時正在開發懷舊模式，當我完成所有變體代碼後就會將其插到本頁。
+
++ 基本
+@@ @@
+[[include component:image-block name=https://scp-wiki.wdfiles.com/local--files/theme%3Aeigenmachine/PM.svg|caption=Image.|width=240px]]
+@@ @@
+一條水平線可以透括使用5個連字號「-----」來創建且如果它沒被包在任何東西裡面的話（例如引用塊），它會延伸並橫跨整個頁面。在這份文件中被拿來分段的就是水平線。
+
+標題可以被以在一行的開頭添加一至六個加號「+」來創建。
+@@ @@
+[[collapsible show="顯示標題" hide="隱藏"]]
+@@ @@
++* 一級標題
+
+++* 二級標題
+
++++* 三級標題
+
+++++* 四級標題
+
++++++* 五級標題
+
+++++++* 六級標題
+@@ @@
+[[/collapsible]]
+
+@@ @@
+~~~~
+
+[[tabview]]
+[[tab Tabulator]]
+這是個tab view.
+[[/tab]]
+[[tab Tabulation]]
+更多文字。
+
+真別緻啊。
+[[/tab]]
+[[tab 長Tab]]
+這是個長Tab。裡面容納了大量文字。
+
+這是個長Tab。裡面容納了大量文字。
+
+這是個長Tab。裡面容納了大量文字。
+
+這是個長Tab。裡面容納了大量文字。
+
+這是個長Tab。裡面容納了大量文字。
+
+這是個長Tab。裡面容納了大量文字。
+
+這是個長Tab。裡面容納了大量文字。
+
+這是個長Tab。裡面容納了大量文字。
+[[/tab]]
+[[tab 更長的Tab]]
+這也是個長Tab。裡面容納了大量文字。
+
+這也是個長Tab。裡面容納了大量文字。
+
+這也是個長Tab。裡面容納了大量文字。
+
+這也是個長Tab。裡面容納了大量文字。
+
+這也是個長Tab。裡面容納了大量文字。
+
+這也是個長Tab。裡面容納了大量文字。
+
+這也是個長Tab。裡面容納了大量文字。
+
+這也是個長Tab。裡面容納了大量文字。
+
+這也是個長Tab。裡面容納了大量文字。
+
+這也是個長Tab。裡面容納了大量文字。
+
+這也是個長Tab。裡面容納了大量文字。
+
+這也是個長Tab。裡面容納了大量文字。
+
+這也是個長Tab。裡面容納了大量文字。
+
+這也是個長Tab。裡面容納了大量文字。
+
+[[[theme:eigenmachine|和一個連結！]]]它們有強調用的格式。
+[[/tab]]
+[[tab 空Tab]]
+[[/tab]]
+[[/tabview]]
+@@ @@
+@@ @@
+> 這是個引用塊，可以透過在每一行的開頭添加「> 」來創建。
+>
+> 更多文字
+> -----
+> 這是個水平線。
+>
+>> 巢狀引用塊
+>>
+>>> 繼續巢
+>>>
+>>>> 喜歡巢就繼續巢
+@@ @@
+@@ @@
+||~ 一 ||~ 系列||~ 的||
+|||| 格子 || 在 ||
+|| 格子|| 之間|| 互相連結 ||
+|||||| 而且在單個根互相連結 [[footnote]]而且非常清晰。[[/footnote]] ||
+@@ @@
+@@ @@
+[[footnoteblock]]
+@@ @@
+@@ @@
++ 客製Div/Span
+@@ @@
+本主題擴充了Eigenvector的{{oheader}}/{{capt}} class，有新的顏色，細節和新的[[span class="ocolor mint4"]]ocolor[[/span]] class：
+@@ @@
+[[div class="oheader"]]
+div class {{oheader}}
+[[/div]]
+@@ @@
+[[div class="capt"]]
+div class {{capt}}
+[[/div]]
+@@ @@
+[[collapsible show="顯示顏色選擇" hide="關上"]]
+@@ @@
+[[div class="containser"]]
+[[div class="state_one"]]
+= **標準：**
+
+[[div class="oheader white"]]
+div class {{oheader white}}
+[[/div]]
+[[div class="oheader clay"]]
+div class {{oheader clay}}
+[[/div]]
+[[div class="oheader jean"]]
+div class {{oheader jean}}
+[[/div]]
+[[div class="oheader desertblue"]]
+div class {{oheader desertblue}}
+[[/div]]
+[[div class="oheader deep"]]
+div class {{oheader deep}}
+[[/div]]
+[[div class="oheader turquoise"]]
+div class {{oheader turquoise }}
+[[/div]]
+[[div class="oheader orange"]]
+div class {{oheader orange}}
+[[/div]]
+[[div class="oheader sandy"]]
+div class {{oheader sandy}}
+[[/div]]
+[[div class="oheader peachy"]]
+div class {{oheader peachy}}
+[[/div]]
+[[div class="oheader pink"]]
+div class {{oheader pink}}
+[[/div]]
+[[div class="oheader bubblegum"]]
+div class {{oheader bubblegum}}
+[[/div]]
+[[div class="oheader red"]]
+div class {{oheader red}}
+[[/div]]
+[[div class="oheader danger"]]
+div class {{oheader danger}}
+[[/div]]
+[[div class="oheader purp"]]
+div class {{oheader purp}}
+[[/div]]
+[[div class="oheader mimosa"]]
+div class {{oheader mimosa}}
+[[/div]]
+[[div class="oheader mint"]]
+div class {{oheader mint}}
+[[/div]]
+[[div class="oheader wasabi"]]
+div class {{oheader wasabi}}
+[[/div]]
+[[div class="oheader enki"]]
+div class {{oheader enki}}
+[[/div]]
+[[div class="oheader green"]]
+div class {{oheader green}}
+[[/div]]
+[[div class="oheader forest"]]
+div class {{oheader forest}}
+[[/div]]
+[[div class="oheader grey"]]
+div class {{oheader grey}}
+[[/div]]
+[[div class="oheader storm"]]
+div class {{oheader storm}}
+[[/div]]
+[[div class="oheader dark"]]
+div class {{oheader dark}}
+[[/div]]
+[[div class="oheader vanta"]]
+div class {{oheader vanta}}
+[[/div]]
+[[/div]]
+
+[[div class="state_two" style="background-color: black; background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 304 304' width='304' height='304'%3E%3Cpath fill='%23818181' fill-opacity='0.07' d='M44.1 224a5 5 0 1 1 0 2H0v-2h44.1zm160 48a5 5 0 1 1 0 2H82v-2h122.1zm57.8-46a5 5 0 1 1 0-2H304v2h-42.1zm0 16a5 5 0 1 1 0-2H304v2h-42.1zm6.2-114a5 5 0 1 1 0 2h-86.2a5 5 0 1 1 0-2h86.2zm-256-48a5 5 0 1 1 0 2H0v-2h12.1zm185.8 34a5 5 0 1 1 0-2h86.2a5 5 0 1 1 0 2h-86.2zM258 12.1a5 5 0 1 1-2 0V0h2v12.1zm-64 208a5 5 0 1 1-2 0v-54.2a5 5 0 1 1 2 0v54.2zm48-198.2V80h62v2h-64V21.9a5 5 0 1 1 2 0zm16 16V64h46v2h-48V37.9a5 5 0 1 1 2 0zm-128 96V208h16v12.1a5 5 0 1 1-2 0V210h-16v-76.1a5 5 0 1 1 2 0zm-5.9-21.9a5 5 0 1 1 0 2H114v48H85.9a5 5 0 1 1 0-2H112v-48h12.1zm-6.2 130a5 5 0 1 1 0-2H176v-74.1a5 5 0 1 1 2 0V242h-60.1zm-16-64a5 5 0 1 1 0-2H114v48h10.1a5 5 0 1 1 0 2H112v-48h-10.1zM66 284.1a5 5 0 1 1-2 0V274H50v30h-2v-32h18v12.1zM236.1 176a5 5 0 1 1 0 2H226v94h48v32h-2v-30h-48v-98h12.1zm25.8-30a5 5 0 1 1 0-2H274v44.1a5 5 0 1 1-2 0V146h-10.1zm-64 96a5 5 0 1 1 0-2H208v-80h16v-14h-42.1a5 5 0 1 1 0-2H226v18h-16v80h-12.1zm86.2-210a5 5 0 1 1 0 2H272V0h2v32h10.1zM98 101.9V146H53.9a5 5 0 1 1 0-2H96v-42.1a5 5 0 1 1 2 0zM53.9 34a5 5 0 1 1 0-2H80V0h2v34H53.9zm60.1 3.9V66H82v64H69.9a5 5 0 1 1 0-2H80V64h32V37.9a5 5 0 1 1 2 0zM101.9 82a5 5 0 1 1 0-2H128V37.9a5 5 0 1 1 2 0V82h-28.1zm16-64a5 5 0 1 1 0-2H146v44.1a5 5 0 1 1-2 0V18h-26.1zm102.2 270a5 5 0 1 1 0 2H98v14h-2v-16h124.1zM242 149.9V160h16v34h-16v62h48v48h-2v-46h-48v-66h16v-30h-16v-12.1a5 5 0 1 1 2 0zM53.9 18a5 5 0 1 1 0-2H64V2H48V0h18v18H53.9zm112 32a5 5 0 1 1 0-2H192V0h50v2h-48v48h-28.1zm-48-48a5 5 0 0 1-9.8-2h2.07a3 3 0 1 0 5.66 0H178v34h-18V21.9a5 5 0 1 1 2 0V32h14V2h-58.1zm0 96a5 5 0 1 1 0-2H137l32-32h39V21.9a5 5 0 1 1 2 0V66h-40.17l-32 32H117.9zm28.1 90.1a5 5 0 1 1-2 0v-76.51L175.59 80H224V21.9a5 5 0 1 1 2 0V82h-49.59L146 112.41v75.69zm16 32a5 5 0 1 1-2 0v-99.51L184.59 96H300.1a5 5 0 0 1 3.9-3.9v2.07a3 3 0 0 0 0 5.66v2.07a5 5 0 0 1-3.9-3.9H185.41L162 121.41v98.69zm-144-64a5 5 0 1 1-2 0v-3.51l48-48V48h32V0h2v50H66v55.41l-48 48v2.69zM50 53.9v43.51l-48 48V208h26.1a5 5 0 1 1 0 2H0v-65.41l48-48V53.9a5 5 0 1 1 2 0zm-16 16V89.41l-34 34v-2.82l32-32V69.9a5 5 0 1 1 2 0zM12.1 32a5 5 0 1 1 0 2H9.41L0 43.41V40.6L8.59 32h3.51zm265.8 18a5 5 0 1 1 0-2h18.69l7.41-7.41v2.82L297.41 50H277.9zm-16 160a5 5 0 1 1 0-2H288v-71.41l16-16v2.82l-14 14V210h-28.1zm-208 32a5 5 0 1 1 0-2H64v-22.59L40.59 194H21.9a5 5 0 1 1 0-2H41.41L66 216.59V242H53.9zm150.2 14a5 5 0 1 1 0 2H96v-56.6L56.6 162H37.9a5 5 0 1 1 0-2h19.5L98 200.6V256h106.1zm-150.2 2a5 5 0 1 1 0-2H80v-46.59L48.59 178H21.9a5 5 0 1 1 0-2H49.41L82 208.59V258H53.9zM34 39.8v1.61L9.41 66H0v-2h8.59L32 40.59V0h2v39.8zM2 300.1a5 5 0 0 1 3.9 3.9H3.83A3 3 0 0 0 0 302.17V256h18v48h-2v-46H2v42.1zM34 241v63h-2v-62H0v-2h34v1zM17 18H0v-2h16V0h2v18h-1zm273-2h14v2h-16V0h2v16zm-32 273v15h-2v-14h-14v14h-2v-16h18v1zM0 92.1A5.02 5.02 0 0 1 6 97a5 5 0 0 1-6 4.9v-2.07a3 3 0 1 0 0-5.66V92.1zM80 272h2v32h-2v-32zm37.9 32h-2.07a3 3 0 0 0-5.66 0h-2.07a5 5 0 0 1 9.8 0zM5.9 0A5.02 5.02 0 0 1 0 5.9V3.83A3 3 0 0 0 3.83 0H5.9zm294.2 0h2.07A3 3 0 0 0 304 3.83V5.9a5 5 0 0 1-3.9-5.9zm3.9 300.1v2.07a3 3 0 0 0-1.83 1.83h-2.07a5 5 0 0 1 3.9-3.9zM97 100a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm0-16a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm16 16a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm16 16a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm0 16a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm-48 32a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm16 16a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm32 48a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm-16 16a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm32-16a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm0-32a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm16 32a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm32 16a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm0-16a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm-16-64a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm16 0a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm16 96a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm0 16a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm16 16a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm16-144a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm0 32a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm16-32a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm16-16a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm-96 0a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm0 16a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm16-32a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm96 0a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm-16-64a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm16-16a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm-32 0a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm0-16a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm-16 0a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm-16 0a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm-16 0a3 3 0 1 0 0-6 3 3 0 0 0 0 6zM49 36a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm-32 0a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm32 16a3 3 0 1 0 0-6 3 3 0 0 0 0 6zM33 68a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm16-48a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm0 240a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm16 32a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm-16-64a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm0 16a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm-16-32a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm80-176a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm16 0a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm-16-16a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm32 48a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm16-16a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm0-32a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm112 176a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm-16 16a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm0 16a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm0 16a3 3 0 1 0 0-6 3 3 0 0 0 0 6zM17 180a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm0 16a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm0-32a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm16 0a3 3 0 1 0 0-6 3 3 0 0 0 0 6zM17 84a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm32 64a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm16-16a3 3 0 1 0 0-6 3 3 0 0 0 0 6z'%3E%3C/path%3E%3C/svg%3E");background-size:45%;color:rgb(224, 219, 220);"]]
+
+= **刪除部（第二組）：**
+
+[[div class="oheader white2"]]
+div class {{oheader white}}
+[[/div]]
+[[div class="oheader clay2"]]
+div class {{oheader clay}}
+[[/div]]
+[[div class="oheader jean2"]]
+div class {{oheader jean}}
+[[/div]]
+[[div class="oheader desertblue2"]]
+div class {{oheader desertblue}}
+[[/div]]
+[[div class="oheader deep2"]]
+div class {{oheader deep}}
+[[/div]]
+[[div class="oheader turquoise2"]]
+div class {{oheader turquoise}}
+[[/div]]
+[[div class="oheader orange2"]]
+div class {{oheader orange}}
+[[/div]]
+[[div class="oheader sandy2"]]
+div class {{oheader sandy}}
+[[/div]]
+[[div class="oheader peachy2"]]
+div class {{oheader peachy}}
+[[/div]]
+[[div class="oheader pink2"]]
+div class {{oheader pink}}
+[[/div]]
+[[div class="oheader bubblegum2"]]
+div class {{oheader bubblegum}}
+[[/div]]
+[[div class="oheader red2"]]
+div class {{oheader red}}
+[[/div]]
+[[div class="oheader danger2"]]
+div class {{oheader danger}}
+[[/div]]
+[[div class="oheader purp2"]]
+div class {{oheader purp}}
+[[/div]]
+[[div class="oheader mimosa2"]]
+div class {{oheader mimosa}}
+[[/div]]
+[[div class="oheader mint2"]]
+div class {{oheader mint}}
+[[/div]]
+[[div class="oheader wasabi2"]]
+div class {{oheader wasabi}}
+[[/div]]
+[[div class="oheader enki2"]]
+div class {{oheader enki}}
+[[/div]]
+[[div class="oheader green2"]]
+div class {{oheader green}}
+[[/div]]
+[[div class="oheader forest2"]]
+div class {{oheader forest}}
+[[/div]]
+[[div class="oheader grey2"]]
+div class {{oheader grey}}
+[[/div]]
+[[div class="oheader storm2"]]
+div class {{oheader storm}}
+[[/div]]
+[[div class="oheader dark2"]]
+div class {{oheader dark}}
+[[/div]]
+[[div class="oheader vanta2"]]
+div class {{oheader vanta}}
+[[/div]]
+[[/div]]
+
+[[div class="state_three" style="background-color: #ededed;background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='4' height='4' viewBox='0 0 4 4'%3E%3Cpath fill='%23cae3ff' fill-opacity='0.4' d='M1 3h1v1H1V3zm2-2h1v1H3V1z'%3E%3C/path%3E%3C/svg%3E");background-size:.2%;color:rgb(31, 28, 31);"]]
+
+= **亮色模式（第三組）：**
+
+[[div class="oheader white3"]]
+div class {{oheader white}}
+[[/div]]
+[[div class="oheader clay3"]]
+div class {{oheader clay}}
+[[/div]]
+[[div class="oheader jean3"]]
+div class {{oheader jean}}
+[[/div]]
+[[div class="oheader desertblue3"]]
+div class {{oheader desertblue}}
+[[/div]]
+[[div class="oheader deep3"]]
+div class {{oheader deep}}
+[[/div]]
+[[div class="oheader turquoise3"]]
+div class {{oheader turquoise }}
+[[/div]]
+[[div class="oheader orange3"]]
+div class {{oheader orange}}
+[[/div]]
+[[div class="oheader sandy3"]]
+div class {{oheader sandy}}
+[[/div]]
+[[div class="oheader peachy3"]]
+div class {{oheader peachy}}
+[[/div]]
+[[div class="oheader pink3"]]
+div class {{oheader pink}}
+[[/div]]
+[[div class="oheader bubblegum3"]]
+div class {{oheader bubblegum}}
+[[/div]]
+[[div class="oheader red3"]]
+div class {{oheader red}}
+[[/div]]
+[[div class="oheader danger3"]]
+div class {{oheader danger}}
+[[/div]]
+[[div class="oheader purp3"]]
+div class {{oheader purp}}
+[[/div]]
+[[div class="oheader mimosa3"]]
+div class {{oheader mimosa}}
+[[/div]]
+[[div class="oheader mint3"]]
+div class {{oheader mint}}
+[[/div]]
+[[div class="oheader wasabi3"]]
+div class {{oheader wasabi}}
+[[/div]]
+[[div class="oheader enki3"]]
+div class {{oheader enki}}
+[[/div]]
+[[div class="oheader green3"]]
+div class {{oheader green}}
+[[/div]]
+[[div class="oheader forest3"]]
+div class {{oheader forest}}
+[[/div]]
+[[div class="oheader grey3"]]
+div class {{oheader grey}}
+[[/div]]
+[[div class="oheader storm3"]]
+div class {{oheader storm}}
+[[/div]]
+[[div class="oheader dark3"]]
+div class {{oheader dark}}
+[[/div]]
+[[div class="oheader vanta3"]]
+div class {{oheader vanta}}
+[[/div]]
+[[/div]]
+
+[[div class="state_four" style="background-color: #09010d;background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 56 28' width='56' height='28'%3E%3Cpath fill='%2317001d' fill-opacity='1' d='M56 26v2h-7.75c2.3-1.27 4.94-2 7.75-2zm-26 2a2 2 0 1 0-4 0h-4.09A25.98 25.98 0 0 0 0 16v-2c.67 0 1.34.02 2 .07V14a2 2 0 0 0-2-2v-2a4 4 0 0 1 3.98 3.6 28.09 28.09 0 0 1 2.8-3.86A8 8 0 0 0 0 6V4a9.99 9.99 0 0 1 8.17 4.23c.94-.95 1.96-1.83 3.03-2.63A13.98 13.98 0 0 0 0 0h7.75c2 1.1 3.73 2.63 5.1 4.45 1.12-.72 2.3-1.37 3.53-1.93A20.1 20.1 0 0 0 14.28 0h2.7c.45.56.88 1.14 1.29 1.74 1.3-.48 2.63-.87 4-1.15-.11-.2-.23-.4-.36-.59H26v.07a28.4 28.4 0 0 1 4 0V0h4.09l-.37.59c1.38.28 2.72.67 4.01 1.15.4-.6.84-1.18 1.3-1.74h2.69a20.1 20.1 0 0 0-2.1 2.52c1.23.56 2.41 1.2 3.54 1.93A16.08 16.08 0 0 1 48.25 0H56c-4.58 0-8.65 2.2-11.2 5.6 1.07.8 2.09 1.68 3.03 2.63A9.99 9.99 0 0 1 56 4v2a8 8 0 0 0-6.77 3.74c1.03 1.2 1.97 2.5 2.79 3.86A4 4 0 0 1 56 10v2a2 2 0 0 0-2 2.07 28.4 28.4 0 0 1 2-.07v2c-9.2 0-17.3 4.78-21.91 12H30zM7.75 28H0v-2c2.81 0 5.46.73 7.75 2zM56 20v2c-5.6 0-10.65 2.3-14.28 6h-2.7c4.04-4.89 10.15-8 16.98-8zm-39.03 8h-2.69C10.65 24.3 5.6 22 0 22v-2c6.83 0 12.94 3.11 16.97 8zm15.01-.4a28.09 28.09 0 0 1 2.8-3.86 8 8 0 0 0-13.55 0c1.03 1.2 1.97 2.5 2.79 3.86a4 4 0 0 1 7.96 0zm14.29-11.86c1.3-.48 2.63-.87 4-1.15a25.99 25.99 0 0 0-44.55 0c1.38.28 2.72.67 4.01 1.15a21.98 21.98 0 0 1 36.54 0zm-5.43 2.71c1.13-.72 2.3-1.37 3.54-1.93a19.98 19.98 0 0 0-32.76 0c1.23.56 2.41 1.2 3.54 1.93a15.98 15.98 0 0 1 25.68 0zm-4.67 3.78c.94-.95 1.96-1.83 3.03-2.63a13.98 13.98 0 0 0-22.4 0c1.07.8 2.09 1.68 3.03 2.63a9.99 9.99 0 0 1 16.34 0z'%3E%3C/path%3E%3C/svg%3E");background-size:.2%;color:rgb(224, 219, 220);"]]
+
+= **Murder of the Universe（第四組）：**
+
+[[div class="oheader white4"]]
+div class {{oheader white}}
+[[/div]]
+[[div class="oheader clay4"]]
+div class {{oheader clay}}
+[[/div]]
+[[div class="oheader jean4"]]
+div class {{oheader jean}}
+[[/div]]
+[[div class="oheader desertblue4"]]
+div class {{oheader desertblue}}
+[[/div]]
+[[div class="oheader deep4"]]
+div class {{oheader deep}}
+[[/div]]
+[[div class="oheader turquoise4"]]
+div class {{oheader turquoise }}
+[[/div]]
+[[div class="oheader orange4"]]
+div class {{oheader orange}}
+[[/div]]
+[[div class="oheader sandy4"]]
+div class {{oheader sandy}}
+[[/div]]
+[[div class="oheader peachy4"]]
+div class {{oheader peachy}}
+[[/div]]
+[[div class="oheader pink4"]]
+div class {{oheader pink}}
+[[/div]]
+[[div class="oheader bubblegum4"]]
+div class {{oheader bubblegum}}
+[[/div]]
+[[div class="oheader red4"]]
+div class {{oheader red}}
+[[/div]]
+[[div class="oheader danger4"]]
+div class {{oheader danger}}
+[[/div]]
+[[div class="oheader purp4"]]
+div class {{oheader purp}}
+[[/div]]
+[[div class="oheader mimosa4"]]
+div class {{oheader mimosa}}
+[[/div]]
+[[div class="oheader mint4"]]
+div class {{oheader mint}}
+[[/div]]
+[[div class="oheader wasabi4"]]
+div class {{oheader wasabi}}
+[[/div]]
+[[div class="oheader enki4"]]
+div class {{oheader enki}}
+[[/div]]
+[[div class="oheader green4"]]
+div class {{oheader green}}
+[[/div]]
+[[div class="oheader forest4"]]
+div class {{oheader forest}}
+[[/div]]
+[[div class="oheader grey4"]]
+div class {{oheader grey}}
+[[/div]]
+[[div class="oheader storm4"]]
+div class {{oheader storm}}
+[[/div]]
+[[div class="oheader dark4"]]
+div class {{oheader dark}}
+[[/div]]
+[[div class="oheader vanta4"]]
+div class {{oheader vanta}}
+[[/div]]
+[[/div]]
+
+[[/div]]
+@@ @@
+
+= 你也可以透過class {{color#}}（{{color}}是顏色名稱，{{#}}是組合編號）使用另一個模式的色調。
+
+@@ @@
+[[/collapsible]]
+[[collapsible show="顯示其他修飾符" hide="關上"]]
+@@ @@
+[[div class="oheader tiny"]]
+div class {{oheader tiny}}
+[[/div]]
+[[div class="oheader medium"]]
+div class {{oheader medium}}
+[[/div]]
+[[div class="oheader large"]]
+div class {{oheader large}}
+[[/div]]
+[[div class="oheader duplo"]]
+div class {{oheader duplo}}
+[[/div]]
+[[div class="oheader quatro"]]
+div class {{oheader quatro}}
+[[/div]]
+[[div class="oheader slim"]]
+div class {{oheader slim}}
+[[/div]]
+~~~~
+[[div class="oheader right"]]
+div class {{oheader right}}
+[[/div]]
+~~~~
+[[div class="oheader left"]]
+div class {{oheader left}}
+[[/div]]
+~~~~
+[[div class="oheader align-r"]]
+div class {{oheader align-r}}
+[[/div]]
+~~~~
+[[div class="oheader align-l"]]
+div class {{oheader align-l}}
+[[/div]]
+~~~~
+[[div class="oheader opaque"]]
+div class {{oheader opaque}}
+[[/div]]
+~~~~
+[[/collapsible]]
+@@ @@
+~~~~
+帶有淡色波紋背景的div class {{logger}}可以用來包着對話方塊 ：
+[[div class="logger"]]
+[[div class="oheader red left align-l"]]
+[[*user billith]]
+ 
+[[size 80%]]{{(555-0123)}}[[/size]]
+-----
+裏面的水平線有特殊的着色喔！
+[[/div]]
+[[div class="oheader deep right align-r"]]
+[[module ListUsers users="."]]
+[[*user %%title%%]]
+[[/module]]
+[[size 80%]]{{［已移除聯絡資訊］}}[[/size]]
+-----
+請別再就你的新外觀主題跟我發短訊。
+[[/div]]
+[[div class="oheader red left align-l"]]
+[[*user billith]]
+ 
+[[size 80%]]{{(555-0123)}}[[/size]]
+-----
+:(
+[[/div]]
+
+[[/div]]
+[[div class="wikibox"]]
+
+= {{**@@[[div class="wikibox"]]@@**}}
+
+[[image https://scp-wiki.wdfiles.com/local--files/theme%3Aeigenmachine/PMW.svg width="250px"]]
+= //本圖片在wikibox裏面。//
+@@ @@
+----
+[[span class="capt red"]] span class {{capt red}} [[/span]]
+[[span class="capt sandy"]] span class {{capt sandy}} [[/span]]
+[[span class="capt orange"]] span class {{capt orange}} [[/span]]
+[[span class="capt enki"]] span class {{capt enki}} [[/span]]
+[[span class="capt desertblue"]] span class {{capt desertblue}} [[/span]]
+[[span class="capt mimosa"]] span class {{capt mimosa}} [[/span]]
+[[span class="capt dark"]] span class {{capt dark}} [[/span]]
+[[span class="capt vanta"]] span class {{capt vanta}} [[/span]]
+|| 這是個 || 在wikibox||
+|| 裏面的 || 表格||
+[[/div]]
+@@ @@
+[[span class="s-title"]]span class {{s-title}}[[/span]]
+@@ @@
+可以作為段落標題。
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec pellentesque felis eu vulputate suscipit. Vestibulum dui elit, ornare eget eros ut, gravida finibus velit. Pellentesque et diam vel turpis semper ullamcorper. Integer scelerisque malesuada enim, a semper risus molestie eget. Fusce luctus ex in ante feugiat fermentum. In nec sodales nibh. Suspendisse potenti. Aenean in volutpat turpis, in dictum sapien. Quisque vehicula turpis nec ligula feugiat commodo. Maecenas ornare lorem vel commodo mattis. Sed egestas dignissim sapien nec pulvinar.
+@@ @@
+
+[[div class="box"]]
+
+這個段落使用了{{div class box}}。
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec pellentesque felis eu vulputate suscipit. Vestibulum dui elit, ornare eget eros ut, gravida finibus velit. Pellentesque et diam vel turpis semper ullamcorper. Integer scelerisque malesuada enim, a semper risus molestie eget. Fusce luctus ex in ante feugiat fermentum. In nec sodales nibh. Suspendisse potenti. Aenean in volutpat turpis, in dictum sapien. Quisque vehicula turpis nec ligula feugiat commodo. Maecenas ornare lorem vel commodo mattis. Sed egestas dignissim sapien nec pulvinar.
+[[/div]]
+
+[[div class="dashbox bubblegum medium"]]
+
+這個段落使用了{{div class dashbox bubblegum medium}}.
+
+In ligula ipsum, posuere sit amet turpis in, cursus euismod tellus. Maecenas vestibulum nunc in euismod auctor. Donec ultrices tempor felis sit amet ornare. Nam nec lectus sit amet nisl bibendum condimentum. Morbi eu arcu quis mi pulvinar fringilla. Ut fringilla interdum urna, at porta sapien vulputate quis. Integer eu scelerisque urna. Morbi luctus, justo eget viverra feugiat, leo quam egestas velit, sit amet feugiat nisi nibh molestie metus. Phasellus ut blandit ex. Ut aliquam, nisl ut aliquam volutpat, sem lorem tempor mi, sit amet ultricies nunc ante eu libero. Aenean lacinia porta nisi, in finibus quam. Aliquam erat volutpat. Aliquam malesuada libero id dapibus efficitur. Cras bibendum, dolor sit amet sagittis scelerisque, lorem magna ornare purus, vel accumsan leo tortor sit amet dolor. Maecenas finibus ante eget purus ullamcorper, vel elementum purus auctor. Quisque sagittis, leo et pretium efficitur, orci nulla interdum enim, in dignissim enim quam in neque.
+@@ @@
+[[/div]]
+~~~~
+
+[[span class="s-title"]]其他Div[[/span]]
+
+{{razer}}，跟"raiser"（提高器）同音，因為從頁面凸了出來。
+
+[[div class="razer"]]
+div class {{razer}}
+[[/div]]
+
+{{inter}}可以以顏色class更改文字顏色：
+
+[[div class="inter"]]
+div class {{inter}}
+[[/div]]
+
+[[div class="inter purp"]]
+div class {{inter purp}}
+[[/div]]
+
+{{lightpanel}}和{{darkpanel}}是一對可客製化的陰陽div：
+
+[[div class="lightpanel"]]
+div class {{lightpanel}}
+背景顏色 {{@@--light-color@@}}
+文字顏色 {{@@--dark-color@@}}
+[[[theme:eigenmachine|連結顏色]]] {{@@--dark-link@@}}
+[[/div]]
+[[div class="darkpanel"]]
+div class {{darkpanel}}
+背景顏色 {{@@--dark-color@@}}
+文字顏色 {{@@--light-color@@}}
+[[[theme:eigenmachine|連結顏色]]] {{@@--light-link@@}}
+[[/div]]
+
+以下div均受顏色class影響：
+
+[[div class="lightpanel bubblegum"]]
+div class {{lightpanel bubblegum}}
+[[/div]]
+
+{{space}} class單純只會根據文字改變div的寬度：
+
+[[div class="space"]]
+Lorem ipsum.
+[[/div]]
+
+[[div class="space"]]
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Multum refert patienti medicum imitari, sed tempus edax et dolorosum, quia nemo pulchrius opus facit quam lucrum. Ludere velit, cupiditate velit obcaecati. Errat. Item hoc est "Lorem Ipsum", sed per interpretem centies currite. Cogitavi modo te scire velle. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+[[/div]]
+
+嘗試在div裏增加不同的顏色/大小/方位class，製作自定義div吧：
+@@ @@
+[[collapsible show="顯示多個瘋狂組合" hide="關上"]]
+@@ @@
+[[div class="logger"]]
+[[div class="lightpanel orange slim"]]
+div class {{lightpanel orange slim}}
+[[/div]]
+[[div class="darkpanel tiny mint dashbox"]]
+div class {{darkpanel tiny mint dashbox}}
+[[/div]]
+[[div class="space dark slim gridline"]]
+div class {{space dark slim gridline}}
+[[/div]]
+[[div class="clay box opaque"]]
+div class {{clay box opaque}}
+[[/div]]
+[[div class="darkpanel oheader space peachy box left tiny"]]
+div class {{darkpanel oheader space peachy box left tiny}}
+[[/div]]
+[[div class="darkpanel oheader space sandy slim left tiny align-r"]]
+div class {{darkpanel oheader space sandy slim left tiny align-r}}
+[[/div]]
+[[div class="darkpanel oheader space left medium opaque"]]
+div class {{darkpanel oheader space left medium opaque}}
+[[/div]]
+[[div class="wikibox mimosa gridline"]]
+= {{**@@[[div class="wikibox mimosa gridline"]]@@**}}
+
+[[image https://scp-wiki.wdfiles.com/local--files/theme%3Aeigenmachine/PMW.svg width="250px"]]
+@@ @@
+----
+[[span class="capt vanta"]] span class {{capt vanta}} [[/span]]
+[[span class="capt turquoise"]] span class {{capt turquoise}} [[/span]]
+[[span class="capt pink space"]] span class {{capt pink space}} [[/span]]
+[[span class="capt darkpanel white"]] span class {{capt darkpanel white}} [[/span]]
+[[span class="capt oheader pink tiny"]] span class {{capt oheader pink tiny}} [[/span]]
+[[span class="capt large turquoise lightpanel razer"]] span class {{capt large turquoise lightpanel razer}} [[/span]]
+[[/div]]
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec pellentesque felis eu vulputate suscipit. Vestibulum dui elit, ornare eget eros ut, gravida finibus velit. Pellentesque et diam vel turpis semper ullamcorper. Integer scelerisque malesuada enim, a semper risus molestie eget. Fusce luctus ex in ante feugiat fermentum. In nec sodales nibh. Suspendisse potenti. Aenean in volutpat turpis, in dictum sapien. Quisque vehicula turpis nec ligula feugiat commodo. Maecenas ornare lorem vel commodo mattis. Sed egestas dignissim sapien nec pulvinar.
+
+[[div class="darkpanel inter space pink duplo left align-r"]]
+div class {{darkpanel inter space pink duplo left align-r}}
+[[div class="darkpanel inter space clay duplo right align-l"]]
+div class {{darkpanel inter space clay duplo right align-l}}
+[[/div]]
+[[/div]]
+[[div class="darkpanel oheader space bubblegum duplo left align-r"]]
+div class {{darkpanel oheader space bubblegum duplo left align-r}}
+[[/div]]
+[[div class="space large orange align-r"]]
+div class {{space large orange align-r}}
+[[/div]]
+[[div class="oheader danger slim right align-r"]]
+= div class {{oheader danger slim right align-r}}
+-----
+有很多文字。
+有很多文字。
+有很多文字。
+有很多文字。
+有很多文字。
+有很多文字。
+有很多文字。
+有很多文字。
+有很多文字。
+有很多文字。
+有很多文字。
+有很多文字。
+有很多文字。
+有很多文字。
+有很多文字。
+有很多文字。
+有很多文字。
+有很多文字。
+有很多文字。
+有很多文字。
+有很多文字。
+有很多文字。
+有很多文字。
+有很多文字。
+有很多文字。
+有很多[[footnote]]文字。[[span class="fade-in1"]]看哪，來自未來的腳註！[[/span]][[/footnote]]
+[[/div]]
+[[/div]]
+
+@@ @@
+[[/collapsible]]
+@@ @@
++ 備忘
+@@ @@
+供在[[[deleted|刪除部]]]文章裏使用：
+@@ @@
+[[div class="deletions_memo"]]
+div class {{deletions_memo}}
+[[/div]]
+@@ @@
+供在有[[[deleted|受監察者議會]]]的文章裏使用：
+@@ @@
+[[div class="underwatch_memo"]]
+div class {{underwatch_memo}}
+[[/div]]
+= //如果開啓了「減少動態模式」，此動畫將被靜態圖像替代。//
+@@ @@
+供你[[[contribute|喜歡]]]使用：
+@@ @@
+[[div class="custom_memo"]]
+div class {{custom_memo}}
+[[/div]]
+
+以上備忘受{{@@--custom-header@@}}、{{@@--custom-logo@@}}和{{@@--custom-color@@}}影響。你也可以使用以上的顏色class為它們着色。例如：
+
+[[div class="custom_memo deep"]]
+div class {{custom_memo deep}}
+[[/div]]
+
+@@ @@
+@@ @@
++ 進階科技
+@@ @@
+
+[[span class="s-title"]]淡入[[/span]]
+@@ @@
+添加class {{fade-in1}}、{{fade-in2}}和{{fade-in3}}以使單個元素在載入或互動後淡入。 
+@@ @@
+@@ @@
+[[=]]
+[[collapsible show="按此查看你的運勢" hide="你今天的運勢："]]
+@@ @@
+@@ @@
+[[div class="oheader dark duplo fade-in1"]]
+[[span class="fade-in1"]]你會死[[/span]] [[span class="fade-in2"]]，某天啦。[[/span]] [[span class="fade-in3"]]//應該是這樣沒錯。//[[/span]]
+[[/div]]
+@@ @@
+@@ @@
+[[/collapsible]]
+@@ @@
+@@ @@
+同樣地，{{fade-out1}}、 {{fade-out2}}和{{fade-out3}}可以使元素淡出。但請注意，{{fade-out1}}跟{{fade-in1}}共同使用{{@@--scale1@@}}、{{@@--delay1@@}}和{{@@--loop1@@}}參數（請見下文以瞭解更多）。
+@@ @@
+@@ @@
+[[collapsible show="獲得禁忌知識" hide="請吃掉這個訊息，消除所有蹤跡："]]
+@@ @@
+@@ @@
+[[div class="oheader dark duplo fade-in2 fade-out2"]]
+[[span class="fade-in2 fade-out2"]]救命！！！！！！[[/span]]
+[[/div]]
+[[span class="fade-in2"]]嗯~[[/span]] [[span class="fade-in3" style="]]好吃[[/span]]
+@@ @@
+@@ @@
+[[/collapsible]]
+@@ @@
+@@ @@
+[[span class="blinkenlights bd"]]**警告：**如果你想讓某個元素重覆閃爍，請使用class {{blinkenlights}}！[[/span]]
+@@ @@
+= //如果開啓了「減少動態模式」就無法播放這個動畫。//
+@@ @@
+[[/=]]
+
+@@ @@
+@@ @@
+@@ @@
+
+@@ @@
+@@ @@
+[[span class="s-title"]]載入條[[/span]]
+@@ @@
+簡單的載入條，專為{{oheader}}而設計，但可以忽略不使用。你可以調整顏色/樣式class或手動調整輕鬆調整它們。載入條默認會在打開摺疊頁後運行，不用摺疊頁的話則在頁面載入後自動運行。
+
+@@ @@
+請使用以下框架創建：
+
+div class {{loading-wrap}}
+div class {{loading-cont}}
+div class {{loading-bar}}
+
+你可以利用淡入div使內容在載入條動畫結束後顯示。
+@@ @@
+@@ @@
+[[=]]
+[[collapsible show="執行自毀程序" hide="沒問題，老大"]]
+[[div class="loading-wrap fade-out3"]]
+[[div class="loading-cont danger slim"]]
+[[div class="loading-bar danger opaque"]]
+
+[[/div]]
+[[/div]]
+[[/div]]
+[[div class="fade-in2 medium oheader opaque danger duplo"]]
+ 
+[[span class="bd"]]錯誤：未尋找命令[[/span]]
+ 
+[[/div]]
+[[/collapsible]]
+[[/=]]
+@@ @@
+@@ @@
+@@ @@
+[[=]]
+[[collapsible show="顯示代碼" hide="隱藏代碼"]]
+[[<]]
+@@[[collapsible show="執行自毀程序" hide="沒問題，老大"]]@@
+@@[[div class="loading-wrap"]]@@
+@@[[div class="loading-cont danger slim"]]@@
+@@[[div class="loading-bar danger opaque"]]@@
+@@[[/div]]@@
+@@[[/div]]@@
+@@[[/div]]@@
+@@ @@
+@@[[div class="fade-in2 oheader opaque danger duplo"]]@@
+    @@ @@
+@@[[span class="bd"]]錯誤：未尋找命令[[/span]]@@
+    @@ @@
+@@[[/div]]@@
+@@[[/collapsible]]@@
+[[/<]]
+[[/collapsible]]
+[[/=]]
+
+[[span class="s-title"]]著作者標籤[[/span]]
+@@ @@
+[[>]]
+[[module rate]]
+[[include :scp-zh-tr:component:author-label-source start=--
+|name=隨你喜歡放甚麼就放甚麼！|center=*]]
+= 本外觀主題也包括了[[[component:author-label|著作者標籤組件]]]的客製參數！詳見[[span class="bd"]]root參數[[/span]]列表。
+[[include :scp-zh-tr:component:author-label-source end=--]]
+[[/>]]
+
+@@ @@
+
+[[span class="s-title"]]鼠標圖樣（只限桌面）[[/span]]
+@@ @@
+
+標準鼠標是箭頭型。某些功能有預設的鼠標圖樣，例如：
+@@ @@
+||~ [[span class="cursor crosshair"]]這應該是十字準線。[[/span]] ||
+|| [[span class="cursor wait"]]這應該是沙漏型。[[/span]] ||
+@@ @@
+更改鼠標模樣：
+
+[[collapsible show="顯示鼠標class" hide="關上"]]
+@@ @@
+= //本外觀主題包括的選項：//
+[[table]]
+[[row]]
+[[hcell]]
+鼠標類別
+[[/hcell]]
+[[/row]]
+[[row]]
+[[cell]]
+[[span class="cursor pointer"]]class {{cursor pointer}}[[/span]]
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+[[span class="cursor help"]]class {{cursor help}}[[/span]]
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+[[span class="cursor crosshair"]]class {{cursor crosshair}}[[/span]]
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+[[span class="cursor donot"]]class {{cursor donot}}[[/span]]
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+[[span class="cursor hand"]]class {{cursor hand}}[[/span]]
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+[[span class="cursor grab"]]class {{cursor grab}}[[/span]]
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+[[span class="cursor wait"]]class {{cursor wait}}[[/span]]
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+[[span class="cursor move"]]class {{cursor move}}[[/span]]
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+[[span class="cursor copy"]]class {{cursor copy}}[[/span]]
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+[[span class="cursor text-h"]]class {{cursor text-h}}[[/span]]
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+[[span class="cursor progress"]]class {{cursor progress}}[[/span]]
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+[[span class="cursor zoom-in"]]class {{cursor zoom-in}}[[/span]]
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+[[span class="cursor zoom-out"]]class {{cursor zoom-out}}[[/span]]
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+[[span class="cursor cell"]]class {{cursor cell}}[[/span]]
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+[[span class="cursor text-v"]]class {{cursor text-v}}[[/span]]
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+[[span class="cursor invisible"]]class {{cursor invisible}}[[/span]]
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+[[span class="cursor auto"]]class {{cursor auto}}[[/span]]
+[[/cell]]
+[[/row]]
+[[/table]]
+@@ @@
+[[/collapsible]]
+@@ @@
+@@ @@
+[[span class="s-title"]]星號（間隔符）*[[/span]]
+[[size 30%]]* 不是真的星號。[[/size]]
+
+間隔符可作為水平線，或與水平線一同使用，分隔文章各個段落。例如你可以在div外使用間隔符，裏面則使用水平線。它們也可以作為標誌或載入圖像使用。
+
+被div class {{asterisk}}包着的圖像會將其調整至合適大小，可以更改{{@@--astersize@@}}參數調整。它亦可以包着附在div上的某些動畫。你可以使用輔助class {{inverse}}將間隔符負片至較暗的顏色。
+
+@@ @@
+[[div class="asterisk"]]
+[[image https://scp-wiki.wdfiles.com/local--files/theme%3Aeigenmachine/asterisk_scp.svg]]
+[[/div]]
+
+[[div class="asterisk inverse"]]
+[[image https://scp-wiki.wdfiles.com/local--files/theme%3Aeigenmachine/asterisk_scp.svg]]
+[[/div]]
+
+[[collapsible show="顯示間隔符" hide="關上"]]
+@@ @@
+= //included options://
+[[div class="table_wrap" style="overflow-x:auto;"]]
+[[table]]
+[[row]]
+[[cell]]
+[[=image https://scp-wiki.wdfiles.com/local--files/theme%3Aeigenmachine/asterisk_scp.svg width="100px"]]
+[[/cell]]
+[[cell]]
+[[=image https://scp-wiki.wdfiles.com/local--files/theme%3Aeigenmachine/asterisk_emblem.svg width="100px"]]
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+[https://scp-wiki.wdfiles.com/local--files/theme%3Aeigenmachine/asterisk_scp.svg asterisk_scp.svg]
+[[/cell]]
+[[cell]]
+[https://scp-wiki.wdfiles.com/local--files/theme%3Aeigenmachine/asterisk_emblem.svg asterisk_emblem.svg]
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+[[=image https://scp-wiki.wdfiles.com/local--files/theme%3Aeigenmachine/asterisk_asterisk.svg width="100px"]]
+[[/cell]]
+[[cell]]
+[[=image https://scp-wiki.wdfiles.com/local--files/theme%3Aeigenmachine/asterisk_spinner2.svg width="100px"]]
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+[https://scp-wiki.wdfiles.com/local--files/theme%3Aeigenmachine/asterisk_asterisk.svg asterisk_asterisk.svg]
+[[/cell]]
+[[cell]]
+[https://scp-wiki.wdfiles.com/local--files/theme%3Aeigenmachine/asterisk_emblem.svg asterisk_spinner2.svg]
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+[[=image https://scp-wiki.wdfiles.com/local--files/theme%3Aeigenmachine/asterisk_cube.svg width="100px"]]
+[[/cell]]
+[[cell]]
+[[=image https://scp-wiki.wdfiles.com/local--files/theme%3Aeigenmachine/asterisk_blackbox.svg width="100px"]]
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+[https://scp-wiki.wdfiles.com/local--files/theme%3Aeigenmachine/asterisk_cube.svg asterisk_cube.svg]
+[[/cell]]
+[[cell]]
+[https://scp-wiki.wdfiles.com/local--files/theme%3Aeigenmachine/asterisk_blackbox.svg asterisk_blackbox.svg]
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+[[=image https://scp-wiki.wdfiles.com/local--files/theme%3Aeigenmachine/topologo.svg width="100px"]]
+[[/cell]]
+[[cell]]
+[[=image https://scp-wiki.wdfiles.com/local--files/theme%3Aeigenmachine/asterisk_spinner.svg width="100px"]]
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+[https://scp-wiki.wdfiles.com/local--files/theme%3Aeigenmachine/topologo.svg topologo.svg]
+[[/cell]]
+[[cell]]
+[https://scp-wiki.wdfiles.com/local--files/theme%3Aeigenmachine/asterisk_spinner.svg asterisk_spinner.svg]
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+[[=image https://scp-wiki.wdfiles.com/local--files/theme%3Aeigenmachine/asterisk_flower.svg width="100px"]]
+[[/cell]]
+[[cell]]
+[[=image https://scp-wiki.wdfiles.com/local--files/theme%3Aeigenmachine/asterisk_mdd.svg width="100px"]]
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+[https://scp-wiki.wdfiles.com/local--files/theme%3Aeigenmachine/asterisk_flower.svg asterisk_flower.svg]
+[[/cell]]
+[[cell]]
+[https://scp-wiki.wdfiles.com/local--files/theme%3Aeigenmachine/asterisk_mdd.svg asterisk_mdd.svg]
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+[[=image https://scp-wiki.wdfiles.com/local--files/theme%3Aeigenmachine/asterisk_conglomerate.svg width="100px"]]
+[[/cell]]
+[[cell]]
+[[=image https://scp-wiki.wdfiles.com/local--files/theme%3Aeigenmachine/asterisk_collideoscope.svg width="100px"]]
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+[https://scp-wiki.wdfiles.com/local--files/theme%3Aeigenmachine/asterisk_conglomerate.svg asterisk_conglomerate.svg]
+[[/cell]]
+[[cell]]
+[https://scp-wiki.wdfiles.com/local--files/theme%3Aeigenmachine/asterisk_collideoscope.svg asterisk_collideoscope.svg]
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+[[=image https://scp-wiki.wdfiles.com/local--files/theme%3Aeigenmachine/asterisk_delete.svg width="100px"]]
+[[/cell]]
+[[cell]]
+[[=image https://scp-wiki.wdfiles.com/local--files/theme%3Aeigenmachine/asterisk_delete2.svg width="100px"]]
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+[https://scp-wiki.wdfiles.com/local--files/theme%3Aeigenmachine/asterisk_delete.svg asterisk_delete.svg]
+[[/cell]]
+[[cell]]
+[https://scp-wiki.wdfiles.com/local--files/theme%3Aeigenmachine/asterisk_delete2.svg asterisk_delete2.svg]
+[[/cell]]
+[[/row]]
+[[/table]]
+[[/collapsible]]
+[[/div]]
+@@ @@
+@@ @@
+使用額外的class {{spinner}}（受{{@@--scale1@@}}和{{@@--loop2@@}}參數影響）令間隔符旋轉（請在前後以容器class {{contain-aster}}包裹）：
+@@ @@
+[[div class="contain-aster"]]
+[[div class="asterisk spinner"]]
+[[=image https://scp-wiki.wdfiles.com/local--files/theme%3Aeigenmachine/asterisk_blackbox.svg]]
+[[/div]]
+[[/div]]
+@@ @@
+使用額外的class {{rotator}}（受{{@@--scale2@@}}和{{@@--loop2@@}}參數影響）令間隔符旋轉（請在前後以容器class {{contain-aster}}包裹）：
+@@ @@
+[[div class="contain-aster"]]
+[[div class="asterisk rotator"]]
+[[=image https://scp-wiki.wdfiles.com/local--files/theme%3Aeigenmachine/asterisk_cube.svg]]
+[[/div]]
+[[/div]]
+@@ @@
+= //請酌情使用。如果開啓了「減少動態模式」，這些動畫會無法播放。//
+
+
+
+
+
++ Root參數
+@@ @@
+
+
+若欲更改root 參數，請在頁面裏如下添加CSS module。
+
+> {{@@[[module CSS]]@@}}
+>
+>
+>
+>
+>
+> {{@@[[/module]]@@}}
+
+然後添加{{:root:lang(zh)}} pseudo-class。
+
+> {{@@[[module CSS]]@@}}
+> {{@@:root:lang(zh) {@@}}
+>
+>
+>
+> {{@@}@@}}
+> {{@@[[/module]]@@}}
+
+最後添加合適的參數以及你想更改的數值。
+
+> {{@@[[module CSS]]@@}}
+> {{@@:root:lang(zh) {@@}}
+>
+> {{@@--variable-name: value;@@}}
+>
+> {{@@}@@}}
+> {{@@[[/module]]@@}}
+@@ @@
+= //最重要的root參數：//
+||~ 參數 ||~ 默認值 ||~ 單位 ||
+|| {{@@--scale@@}} || 3 || 秒(s) ||
+|||||| 控制{{fade-in1}}、{{fade-out1}}、{{spinner}}、{{rotator}}和{{blinkenlights}}的時長 ||
+|| {{@@--scale2@@}} || 1 || 秒(s) ||
+|||||| 控制{{fade-in2}}和{{fade-out2}}的時長 ||
+|| {{@@--scale3@@}} || 2 || seconds (s) ||
+|||||| 控制{{fade-in3}}和{{fade-out3}}的時長 ||
+|| {{@@--delay@@}} || 0 || 秒(s) ||
+|||||| 控制{{fade-in1}}、{{fade-out1}}、{{spinner}}和{{rotator}}的延遲時長 ||
+|| {{@@--delay2@@}} || 3 || 秒(s) ||
+|||||| 控制{{fade-in2}}和{{fade-out2}}的延遲時長 ||
+|| {{@@--delay3@@}} || 5 || 秒(s) ||
+|||||| 控制{{fade-in3}}和{{fade-out3}}的延遲時長 ||
+|| {{@@--loop1@@}} || 1 || 量值（接受無限，無數值，點數以及更多） ||
+|||||| 控制{{fade-in1}}、{{fade-out1}}、{{rotator}}和{{spinner}}在結束前重覆的次數 ||
+|| {{@@--loop2@@}} || 1 || 量值（接受無限，無數值，點數以及更多） ||
+|||||| 控制{{fade-in2}}和{{fade-out2}}在結束前重覆的次數 ||
+|| {{@@--loop3@@}} || 1 || 量值（接受無限，無數值，點數以及更多） ||
+|||||| 控制{{fade-in3}}和{{fade-out3}}在結束前重覆的次數 ||
+|| {{@@--light-color@@}} || 237, 237, 237 || RGB值 ||
+|||||| 調整{{lightpanel}}的背景和{{darkpanel}}的文字/框線顏色 ||
+|| {{@@--dark-color@@}} || 15, 2, 16 || RGB值 ||
+|||||| 調整{{darkpanel}的背景和{{lightpanel}}的文字/框線顏色 ||
+|| {{@@--astersize@@}} || 50 || 像素(px) ||
+|||||| 設定{{asterisk}}的大小 ||
+|| {{@@--header-logo@@}} || 內置標誌 || url("x") ||
+|||||| 調整版頭標誌 ||
+|| {{@@--logger-bg@@}} || 內置花紋 || url("x") ||
+|||||| 調整{{logger}}的背景圖像 ||
+|| {{@@--backdrop@@}} || 內置花紋 || url("x") ||
+|||||| 調整頁面背景圖像 ||
+|| {{@@--tilesize@@}} || 0.2 (基礎) 45 (刪除部) || 百分比 ||
+|||||| 調整{{@@--backdrop@@}}的大小。100為完整尺寸，100以下則會重覆圖像。 ||
+|| {{@@--header-title@@}} || "PILCROW-MINKOWSKI" || "文字" ||
+|||||| 調整版頭標題 ||
+|| {{@@--header-subtitle@@}} || "高級研究中心" || "文字" ||
+|||||| 調整版頭副標題 ||
+|| {{@@--mobile-title@@}} || "P.M.中心" || "文字" ||
+|||||| 調整較小螢幕所顯示的版頭標題 ||
+|| {{@@--mobile-subtitle@@}} || "高級研究" || "文字" ||
+|||||| 調整較小螢幕所顯示的版頭副標題 ||
+|| {{@@--author-triangle@@}} || 0 || pixels (px) ||
+|||||| 調整/移除著作者標籤盒上方的三角形東東 ||
+|| {{@@--custom-header@@}} || "自訂備忘 - 在此輸入標題" || "文字" ||
+|||||| 調整{{custom_memo}}的文字 ||
+|| {{@@--custom-logo@@}} || 內置標誌  || url("x") ||
+|||||| 調整{{custom_memo}}的背景圖像 ||
+|| {{@@--custom-color@@}} || 36, 31, 36 || RGB values ||
+|||||| 調整{{custom_memo}}的背景/框線顏色，可使用以上顯示的所有顏色class ||
+|| {{@@--link-volume@@}} || 大寫|| 所有[https://developer.mozilla.org/en-US/docs/Web/CSS/text-transform 文字變換]值 ||
+|||||| 調整連結字符的大小寫/間隔樣式 ||
+|| {{@@--link-decor@@}} || none || 任何[https://developer.mozilla.org/en-US/docs/Web/CSS/text-decoration 文字裝飾]值 ||
+|||||| 控制連結文字的底線/頂線樣式。 ||
+|| {{@@--abstractor@@}} || visible || 接受{{visible}}、{{hidden}} ||
+|||||| 顯示頁面身份（標題） ||
+|| {{@@--loader-height@@}} || 14 ||  像素(px) ||
+|||||| 控制載入條的高度 ||
+|| {{@@--fill-time@@}} || 3 || 秒(s) ||
+|||||| 控制載入條完全填滿的時長 || 
+@@ @@
+||||||~ //請查閲源代碼以觀覽完整列表。// ||
+@@ @@
+@@ @@
++ 字體
+[[=]]
+
+
+||~ 字型 ||~ 用途 ||~ 客製class/root參數 ||
+|| [[span style="font-family: var(--header-font);font-size: 1.25em;"]]Poppins[[/span]] || 默認、亮色和刪除部模式的標題、ACS組件和[[[theme:eigenmachine|連結 ]]]。 || {{@@--header-font-primary@@}}, class {{bd}} ||
+|| [[span class="overpass"]]Overpass Mono[[/span]] || Murder of the Universe模式的連結 || class {{overpass}} ||
+|| [[span class="zen"]]Zen Kaku Gothic Antique[[/span]] || 默認內文字體。 || {{@@--body-font-primary@@}}, class {{zen}} ||
+|| {{Fragment Mono}} || 默認monospace字體 || {{@@--mono-font-primary@@}}, class {{fragment}} ||
+|| [[span class="gothbit"]]DotGothic16[[/span]] || 特殊字體 || class {{gothbit}} ||
+||  [[span class="silk"]]Silkscreen[[/span]] || 特殊字體 || class {{silk}} ||
+||  [[span class="VT323"]]VT323[[/span]] || 特殊字體 || class {{VT323}} ||
+
+[[span class="wide"]]fullwidth[[/span]] using class {{wide}}
+@@ @@
+
+[[/=]]
+@@ @@
+@@ @@
+@@ @@
++ 源代碼
+@@ @@
+[[collapsible show="顯示源代碼" hide="關上"]]
+
+[[code type="css"]]
+
+@import url('https://fonts.googleapis.com/css2?family=DotGothic16&family=Fragment+Mono:ital@0;1&family=Overpass+Mono:wght@300..700&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Silkscreen:wght@400;700&family=VT323&family=Zen+Kaku+Gothic+Antique&display=swap');
+ 
+:root:lang(zh) {
+ 
+/*------- Default Colors  -------*/
+ 
+    --basalt-primary-color: 41, 41, 41;
+    --basalt-secondary-color: 33, 30, 33;
+    --basalt-tertiary-color: 66, 57, 65;
+    --basalt-bright-element-color: 104, 54, 104;
+    --basalt-dark-element-color: 50, 14 70;
+    --basalt-alternate-color: 110,32,110;
+    --basalt-overtone: 32,33,34;
+    --basalt-background-color: 37, 37, 37;
+    --basalt-undertone: 18, 18, 18;
+    --search-icon-color: 187, 162, 201;
+    --swatch-menubg-black-color: 10,10,10;
+    --top-bar-link-background-hover-alt: 16, 17, 19;
+    --top-bar-link-color: 192, 192, 192;
+    --top-bar-dropdown-background-hover: 74, 64, 74;
+    --general-border-color: var(--basalt-secondary-color);
+    --swatch-menutxt-dark-color: 169, 169, 169;
+    --swatch-background: 12, 12, 12;
+    --swatch-text-general: var(--basalt-main-text-color);
+    --basalt-main-text-color: 231, 228, 231;
+    --selection-background-color: 107, 93, 107;
+    --tab-focus-text-color: 245, 239, 245;
+    --tab-hover-background-color: 25, 20, 27;
+    --tab-selected-background-color: 63, 57, 76;
+    --basalt-positive-color:var(--vector-green);
+    --basalt-cancel-color:var(--vector-danger);
+    --basalt-bright-element-color: 231, 228, 231;
+    --vector-midtone: 53, 53, 54;
+    --link-active-color: var(--basalt-alternate-color);
+    --link-newpage-color: 156, 150, 156;
+    --link-color: 194, 173, 205;
+    --login-status-text-color: 191, 174, 199;
+    --login-status-link-background-hover: 63, 57, 76; 
+    --basalt-light-text-color: var(--light-color);
+    --link-visited-color: 153, 133, 153;
+    --basalt-focus-color: 53, 53, 53;
+    --header-background-color: var(--basalt-background-color);
+    --header-border-color: var(--header-background-color);
+    --side-bar-link-color: var(--link-color);
+    --side-bar-link-background-hover: 93, 63, 81;
+    --side-bar-resources-background-color: var(--basalt-alternate-color), 0;
+    --side-bar-heading-text-color-hover: 0, 0, 0;
+    --side-bar-heading-background-color: 64, 56, 65;
+    --side-bar-background-color: var(--basalt-background-color), 0.99;
+    --side-bar-button-background-hover: 47, 45, 47;
+    --side-bar-media-background-color: var(--basalt-background-color); 
+    --hr-color: 71, 71, 71;
+    --h-border-color: 71, 71, 71;
+    --dark-link: 66, 6, 66;
+    --light-link: 163, 215, 215;
+    --title-border-color: var(--h-border-color);
+    --blockquote-border-color: var(--hr-color);
+    --image-caption-background-color: var(--basalt-secondary-color);
+    --footnote-background-color: var(--basalt-secondary-color);
+    --bottom-area-background-color: var(--basalt-secondary-color);
+    --light-color: 237, 237, 237;
+    --dark-color: 15, 2, 16;
+    --_reserved: 90, 90, 255;
+    --_number: 38, 178, 38;
+    --basalt-sub-text-color: 212, 206, 225;
+    --scrollbar-track-color:var(--basalt-undertone);
+    --scrollbar-thumb-color:124, 92, 124;
+    --link-weight: 700;
+ 
+ /*------- oheader Colors  -------*/
+ 
+    --vector-clay: 163, 189, 191;
+    --vector-desertblue: 49, 61, 89;
+    --vector-jean: 57, 109, 125;
+    --vector-turquoise: 0, 206, 209;
+    --vector-deep: 4, 9, 49;
+    --vector-peachy: 255, 196, 184;
+    --vector-pink: 229, 169, 194;
+    --vector-bubblegum: 254, 108, 144;
+    --vector-purp: 205, 162, 247;
+    --vector-mimosa: 47, 28, 51;
+    --vector-red: 67, 2, 18;
+    --vector-danger: 168, 20, 29;
+    --vector-orange: 255, 170, 94;
+    --vector-sandy: 232, 220, 140;
+    --vector-mint: 207, 255, 230;
+    --vector-wasabi: 197, 255, 159;
+    --vector-enki: 77, 128, 97;
+    --vector-green: 2, 113, 13;
+    --vector-forest: 18, 36, 27; 
+    --vector-white: 240, 246, 240;
+    --vector-grey: 150,148,150;
+    --vector-storm: 55,56,56;
+    --vector-dark: 23, 23, 23;
+    --vector-vanta: 0, 0, 0;
+ 
+    --vector2-clay: 126, 114, 115;
+    --vector2-desertblue: 75, 108, 155;
+    --vector2-jean: 124, 161, 192;
+    --vector2-turquoise: 104, 172, 169;
+    --vector2-deep: 6, 24, 46;
+    --vector2-peachy: 194, 141, 117;
+    --vector2-pink: 195, 136, 144;
+    --vector2-bubblegum: 226, 28, 97;
+    --vector2-purp: 165, 147, 165;
+    --vector2-mimosa: 56, 22, 49;
+    --vector2-red: 164, 70, 72;
+    --vector2-danger: 205, 29, 29;
+    --vector2-orange: 255, 142, 29;
+    --vector2-sandy: 201, 166, 131;
+    --vector2-mint: 110, 170, 120;
+    --vector2-wasabi: 147, 161, 103;
+    --vector2-enki: 94, 99, 66;
+    --vector2-green: 45, 134, 45;
+    --vector2-forest: 17, 59, 17;
+    --vector2-white: 231, 234, 225;
+    --vector2-grey: 93, 104, 114;
+    --vector2-storm: 71, 57, 57;
+    --vector2-dark: 41, 40, 49;
+    --vector2-vanta: 0, 0, 0;
+ 
+    --vector3-clay: 111, 103, 118;
+    --vector3-desertblue: 126,158,153;
+    --vector3-jean: 124,161,192;
+    --vector3-turquoise: 57, 172, 172;
+    --vector3-deep: 51, 83, 128;
+    --vector3-peachy: 230, 173, 153;
+    --vector3-pink: 212, 170, 170;
+    --vector3-bubblegum: 244, 113, 146;
+    --vector3-purp: 87, 62, 116;
+    --vector3-mimosa: 96, 88, 120;
+    --vector3-red: 172, 83, 84;
+    --vector3-danger: 210, 45, 47;
+    --vector3-orange: 230, 128, 81;
+    --vector3-sandy: 198, 169, 83;
+    --vector3-mint:66, 233, 162;
+    --vector3-wasabi: 201, 209, 117;
+    --vector3-enki: 107, 168, 87;
+    --vector3-green: 110, 170, 120;
+    --vector3-forest: 76, 144, 103;
+    --vector3-white: 237, 237, 237;
+    --vector3-grey: 175, 192, 195;
+    --vector3-storm: 90, 91, 91;
+    --vector3-dark: 53, 56, 5;
+    --vector3-vanta: 0, 0, 0;
+ 
+    --vector4-clay: 165, 147, 165;
+    --vector4-desertblue: 40, 67, 76;
+    --vector4-jean: 0, 152, 219;
+    --vector4-turquoise: 104, 172, 169;
+    --vector4-deep: 6, 24, 46;
+    --vector4-peachy: 255, 163, 134;
+    --vector4-pink: 195, 136, 144;
+    --vector4-bubblegum: 255, 54, 106;
+    --vector4-purp: 65,0,56;
+    --vector4-mimosa: 102, 15, 49;
+    --vector4-red: 255, 5, 70;
+    --vector4-danger: 156, 23, 59;
+    --vector4-orange: 255, 142, 29;
+    --vector4-sandy: 255, 223, 134;
+    --vector4-mint: 12 230 242;
+    --vector4-wasabi: 107, 163, 87;
+    --vector4-enki: 94, 99, 66;
+    --vector4-green: 60, 113, 99;
+    --vector4-forest: 49, 93, 82;
+    --vector4-white: 234, 238, 237;
+    --vector4-grey: 115, 122, 120;
+    --vector4-storm: 33, 26, 37;
+    --vector4-dark: 9, 1, 13;
+    --vector4-vanta: 0, 0, 0;
+/*------- Default Fonts -------*/
+ 
+    --header-font-primary: 'Poppins';
+    --UI-font-primary: 'Poppins';
+    --body-font-primary: 'Zen Kaku Gothic Antique', sans-serif;
+    --mono-font-primary: 'Fragment Mono', monospace;
+    --title-font: var(--UI-font-primary);
+    --link-font-primary: 'Poppins';
+ 
+/*------- Logos / Titles / Images -------*/
+ 
+    --title-mobile:"P.M.中心";
+    --subtitle-mobile:"高級研究";
+    --header-logo: url("https://scp-wiki.wdfiles.com/local--files/theme%3Aeigenmachine/PMW.png");
+    --header-title:"PILCROW-MINKOWSKI";
+    --header-subtitle:"高級研究中心";
+    --custom-header: "自訂備忘 - 在此輸入標題";
+    --custom-logo: url("https://scp-wiki.wdfiles.com/local--files/theme%3Aeigenmachine/asterisk_emblem.svg");
+    --license-area-logo-size: 2rem; 
+    --logger-bg: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 56 28' width='56' height='28'%3E%3Cpath fill='%2390749c' fill-opacity='0.03' d='M56 26v2h-7.75c2.3-1.27 4.94-2 7.75-2zm-26 2a2 2 0 1 0-4 0h-4.09A25.98 25.98 0 0 0 0 16v-2c.67 0 1.34.02 2 .07V14a2 2 0 0 0-2-2v-2a4 4 0 0 1 3.98 3.6 28.09 28.09 0 0 1 2.8-3.86A8 8 0 0 0 0 6V4a9.99 9.99 0 0 1 8.17 4.23c.94-.95 1.96-1.83 3.03-2.63A13.98 13.98 0 0 0 0 0h7.75c2 1.1 3.73 2.63 5.1 4.45 1.12-.72 2.3-1.37 3.53-1.93A20.1 20.1 0 0 0 14.28 0h2.7c.45.56.88 1.14 1.29 1.74 1.3-.48 2.63-.87 4-1.15-.11-.2-.23-.4-.36-.59H26v.07a28.4 28.4 0 0 1 4 0V0h4.09l-.37.59c1.38.28 2.72.67 4.01 1.15.4-.6.84-1.18 1.3-1.74h2.69a20.1 20.1 0 0 0-2.1 2.52c1.23.56 2.41 1.2 3.54 1.93A16.08 16.08 0 0 1 48.25 0H56c-4.58 0-8.65 2.2-11.2 5.6 1.07.8 2.09 1.68 3.03 2.63A9.99 9.99 0 0 1 56 4v2a8 8 0 0 0-6.77 3.74c1.03 1.2 1.97 2.5 2.79 3.86A4 4 0 0 1 56 10v2a2 2 0 0 0-2 2.07 28.4 28.4 0 0 1 2-.07v2c-9.2 0-17.3 4.78-21.91 12H30zM7.75 28H0v-2c2.81 0 5.46.73 7.75 2zM56 20v2c-5.6 0-10.65 2.3-14.28 6h-2.7c4.04-4.89 10.15-8 16.98-8zm-39.03 8h-2.69C10.65 24.3 5.6 22 0 22v-2c6.83 0 12.94 3.11 16.97 8zm15.01-.4a28.09 28.09 0 0 1 2.8-3.86 8 8 0 0 0-13.55 0c1.03 1.2 1.97 2.5 2.79 3.86a4 4 0 0 1 7.96 0zm14.29-11.86c1.3-.48 2.63-.87 4-1.15a25.99 25.99 0 0 0-44.55 0c1.38.28 2.72.67 4.01 1.15a21.98 21.98 0 0 1 36.54 0zm-5.43 2.71c1.13-.72 2.3-1.37 3.54-1.93a19.98 19.98 0 0 0-32.76 0c1.23.56 2.41 1.2 3.54 1.93a15.98 15.98 0 0 1 25.68 0zm-4.67 3.78c.94-.95 1.96-1.83 3.03-2.63a13.98 13.98 0 0 0-22.4 0c1.07.8 2.09 1.68 3.03 2.63a9.99 9.99 0 0 1 16.34 0z'%3E%3C/path%3E%3C/svg%3E");
+ 
+    --astersize: 50;
+    --backdrop: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='4' height='4' viewBox='0 0 4 4'%3E%3Cpath fill='%23e0b0ff' fill-opacity='0.04' d='M1 3h1v1H1V3zm2-2h1v1H3V1z'%3E%3C/path%3E%3C/svg%3E");
+    --tilesize: 0.2;
+ 
+/*------- Default Element Sizing -------*/
+ 
+    --title-size: 1.75rem;
+    --subtitle-size: 1.15rem;
+    --base-font-size: 1rem;
+    --header-UI-font-size: calc(var(--true-font-size)*0.875);
+    --header-UI-dropdown-font-size: calc(var(--header-UI-font-size) * 1.125);
+    --user-button-width: 3.175rem;
+    --main-content-width: 70rem;
+    --main-content-top-margin: 0.5rem;
+    --main-content-side-margin: 1.5rem;
+    --main-content-bottom-margin: 1rem;
+    --bottom-area-padding: var(--true-font-size);
+    --license-area-divider-thickness: 0.05rem;
+    --link-volume: uppercase;
+    --link-decor: none;
+    --abstractor: visible;
+ 
+/*------- Default Animation Variables -------*/
+ 
+    --scale1: 3;
+    --delay1: 0; 
+    --scale2: 1;
+    --delay2: 3;
+    --scale3: 2;
+    --delay3: 5;
+    --loop1: 1;
+    --loop2: 1;
+    --loop3: 1;
+ 
+/*------- Cursor Values -------*/
+ 
+   --vector-point: pointer;
+   --vector-help: help;   
+   --vector-cross: crosshair;
+   --vector-wait: wait;
+   --vector-donot: not-allowed;
+   --vector-hand: grab;
+   --vector-grab: grabbing;
+   --vector-alias: alias;
+   --vector-move: move;
+   --vector-copy: copy;
+   --vector-none: none;
+   --vector-text-h: text; 
+   --vector-progress: progress;
+   --vector-zoom-in: zoom-in;
+   --vector-zoom-out: zoom-out;
+   --vector-cell: cell;
+   --vector-text-v: vertical-text;
+   --vector-auto: auto;
+ 
+}
+ 
+/*------- Body, Titles, and Rules-------*/
+ 
+body {
+    background-image: var(--backdrop);
+    background-size: calc(1% * var(--tilesize, 100));
+}
+ 
+#page-title, .meta-title {
+visibility: var(--abstractor, visible); 
+}
+ 
+hr { 
+    height: 0.05rem;
+}
+ 
+/*------- Links  -------*/
+ 
+a:any-link {
+   text-transform: var(--link-volume, uppercase) !important;
+   text-decoration: var(--link-decor, none) !important;
+   font-family: var(--link-font-primary, 'Poppins') !important;
+   font-weight:var(--link-weight, 700) !important;
+}
+ 
+#main-content, body.print-body #main-content {
+    max-width: calc(100% - var(--main-content-side-margin)* 2.5);
+}
+ 
+/*------- Top Bar / Header -------*/
+ 
+#top-bar div[class*=top-bar] ul li ul {
+    border-block-end: solid 0.05rem rgb(var(--general-border-color));
+    border-inline-end: solid 0.05rem rgb(var(--general-border-color));
+    box-sizing: border-box;
+}
+ 
+#header h1 a span { 
+   line-height: 0.95;
+}
+ 
+#top-bar div[class*="top-bar"] > ul > li > a {
+    text-transform: initial;
+}
+ 
+#header, #side-bar {
+    border-style: solid;
+    border-width: 0.05rem 0 0.05rem 0.75rem;
+    border-color:black;
+    margin-left: 0;
+}
+ 
+/*------- Side Bar -------*/
+ 
+#side-bar::after, #side-bar::before {
+    left: 12px;
+}
+ 
+#side-bar {
+    padding: 0.325rem 0.875rem;
+}
+ 
+:is(#side-bar, #interwiki) .heading {
+    padding: 0.125em 0;
+    text-align: left;
+    text-transform: initial;
+    font-weight: normal;
+    font-size: .775em;
+    font-family: var(--UI-font);
+    color: inherit;
+    border-bottom: solid 0.05rem rgb(var(--general-border-color));
+}
+ 
+:is(#side-bar, #interwiki) .menu-item a {
+    padding: 0.275em;
+}
+ 
+:is(#side-bar,#interwiki) .menu-item, :is(#side-bar,#interwiki) .menu-item.small {
+    flex-direction: column;
+} 
+ 
+ #side-bar {
+    --scrollbar-track-color: var(--basalt-background-color);
+    --scrollbar-thumb-color: var(--basalt-background-color);
+}
+ 
+/*------- Page Tags -------*/
+ 
+#main-content > .page-tags {
+    border: solid 0.05rem rgb(var(--general-border-color));
+    background-color: rgb(var(--basalt-secondary-color));
+    padding: 0.325rem;
+    margin-top: 0.5rem;
+    display: flex;
+    flex-direction: row;
+    align-items: stretch;
+}
+ 
+#main-content > .page-tags::before {
+    content: "TAGS:";
+    font-size: 0.6em;
+    background-color: rgb(var(--basalt-secondary-color));
+    padding: .6em;
+}
+ 
+#main-content > .page-tags > span {
+    align-items: center;
+    width: 100%;
+    padding-top: 0;
+}
+ 
+#main-content > .page-tags > span a {
+    flex-grow: 0;
+    border-radius: 0;
+}
+ 
+/*------- Page Options -------*/
+ 
+#page-info { 
+    color: rgb(var(--basalt-sub-text-color));
+}
+ 
+#page-options-container, .footnotes-footer {
+    padding: 0.525rem 0.575rem 0.525rem 0.575rem;
+    background-color: rgb(var(--basalt-secondary-color));
+    border: solid 0.05rem rgb(var(--h-border-color));
+    border-radius: 5px;
+ 
+}
+ 
+div[id*="page-options-bottom"] {
+    --po-padding: 0.325rem;
+    background: transparent;
+}
+ 
+#history-subarea a.action-area-close:is(:hover,:focus), #view-diff-div a.button:is(:hover,:focus), div:where(#action-area,.buttons) :is(a,input).btn:is(:hover,:focus) {
+    color: rgb(247, 247, 247);
+}
+ 
+/*------- Title, Breadcrumbs, Rating Module  -------*/
+ 
+#page-title, .meta-title {
+    font-size: 2.125em;
+    border-bottom-width: 0.05rem;
+    border: none;
+}
+ 
+#breadcrumbs, .pseudocrumbs {
+    font-weight: normal;
+    font-size: 1em;
+}
+ 
+div.page-rate-widget-box, div.rate-box-with-credit-button {
+    border: solid 0.1em rgb(var(--general-border-color));
+    padding: 0.1em;
+}
+div.page-rate-widget-box span.btn > a {
+    border-bottom-width: 0;
+}
+ 
+/*------- Page Content -------*/
+ 
+#page-content :is(h1,h2,h3,h4,h5,h6) {
+    display: flow-root;
+ 
+}
+ 
+#page-content :is(h3,h4,h5,h6) {
+    border-bottom-style: none;
+ 
+    font-family: var(--body-font);
+ 
+}
+ 
+#page-content :is(h1,h2) > span {
+    font-size: 91.25%;
+}
+ 
+#page-content :is(h3,h4,h5,h6) > span {
+    font-size: 77.5%;
+}
+ 
+ /*------- Blockquotes -------*/
+ 
+blockquote, div.blockquote {
+    background: transparent;
+    border-width: 0;
+    border-left-width: 0.2rem;
+    padding: 0.325rem 1.25rem;
+    margin: 0.25rem auto;
+}
+ 
+#license-area::after{
+    background-image: unset;
+}
+ 
+ /*------- Image Blocks -------*/
+ 
+.image-block, .scp-image-block {
+    border: solid 0.05rem rgb(var(--dark-color));
+    background-color: rgb(var(--image-caption-background-color));
+    padding: 0.25rem;
+}
+ 
+:is(.image-block, .scp-image-block) :is(.image-caption, .scp-image-caption) {
+    padding: 0.25rem;
+    text-align: left;
+}
+ 
+:is(.image-block, .scp-image-block) img {
+    border: inherit;
+}
+ 
+:is(.image-block, .scp-image-block) img, .wikibox img {
+    border-color: rgb(var(--dark-color));
+}
+ 
+/*------- Tables & Footnotes  -------*/
+ 
+:is(#page-content table:not(.form), table.wiki-content-table) th {
+    background-color: rgb(var(--basalt-secondary-color));
+    border-color: rgb(var(--general-border-color));
+    color: rgb(var(--basalt-main-text-color));
+    font-family: var(--body-font);
+}
+ 
+:is(#page-content table:not(.form), table.wiki-content-table) td {
+    background-color: rgb(var(--vector-midtone));
+}
+ 
+.hovertip .content .footnote::before, .hovertip .content .reference::before {
+    content: none;
+}
+ 
+.hovertip .content .footnote .f-heading, .hovertip .content .reference .r-heading {
+    background-color: transparent;
+    color: inherit;
+    font-family: var(--header-font);
+    border-bottom: solid 0.05rem rgb(var(--h-border-color));
+    width: auto;
+    padding: 0;
+    position: static;
+}
+ 
+.hovertip .content .footnote .f-content, .hovertip .content .reference .r-content {
+    padding-left: 0;
+    margin: 0.125rem 0 0;
+}
+ 
+.bibitems, .footnotes-footer {
+    padding: 1rem 0.5rem;
+}
+ 
+.bibitems::before, .footnotes-footer::before {
+    content: unset;
+}
+ 
+.bibitems .title, .footnotes-footer .title {
+    display: flow-root;
+    width: auto;
+    font-family: var(--header-font);
+    padding: 0;
+    background-color: transparent;
+    color: rgb(var(--basalt-main-text-color));
+    font-size: 1.6em;
+    text-transform: uppercase;
+    font-weight: bold;
+    border-bottom: solid 0.05rem rgb(var(--h-border-color));
+}
+ 
+.bibitems .bibitem, .footnotes-footer .footnote-footer {
+    margin: 1rem 0.575rem .5rem 1.575rem;
+    font-size: 0.875em;
+}
+ 
+.bibitems .title, .footnotes-footer .title { 
+    padding: 10px; 
+    background-color: transparent; 
+    color: rgb(var(--light-color)); 
+    padding-left: 1.2rem; 
+    padding-left: 1.2rem;
+}
+ 
+.footnotes-footer .footnote-footer > a:first-child {
+    inset-inline-end: calc(100% + 0.175ch);
+    inset-block-start: 0.05em;
+}
+ 
+a.footnoteref::before, a.bibcite::before {
+    content:"["; 
+}
+ 
+a.footnoteref::after, a.bibcite::after  {
+    content:"]"; 
+}
+ 
+.yui-navset.yui-navset-top .yui-content {
+    border: none;
+    border-bottom: 1px solid rgb(var(--hr-color));
+}
+ 
+.yui-navset .yui-nav a em, .yui-navset .yui-navset-top .yui-nav a em {
+    font-weight: 500;
+    letter-spacing: .094rem;
+    font-size: .81rem;
+    font-family: var(--mono-font-primary);
+}
+ 
+.preview-message {
+background-color:black;
+}
+/*------------------------------------*/
+/*---------DESKTOP QUERY--------*/
+/*------------------------------------*/
+ 
+@media screen and (min-width: 1024px) {
+    #side-bar .side-block.media {
+        padding: 2rem !important;
+    }
+ 
+    #header h1 a span {
+         align-items: unset;
+         text-align: left;
+    }
+     #header {
+          position: sticky;
+     }
+}
+ 
+/*----------------------------------*/
+/*-------- MOBILE QUERY --------*/
+/*----------------------------------*/
+ 
+@media only screen and (max-width: 1024px) {
+    #header h1 {
+        grid-column: 1/5;
+    }
+    #header h1 a {
+        margin: 0 auto;
+    }
+}
+ 
+@media all and (max-height: 812px) { 
+    .tiny {
+        width: 60%;
+    }
+    .medium {
+        width: 80%;
+   }
+    .large {
+        width: 100%;
+   }
+}
+@media (max-width: 600px) {
+:root:lang(zh) {
+    --header-title: var(--title-mobile);
+    --header-subtitle: var(--subtitle-mobile);
+}
+}
+/*----------------------------------*/
+/*-----PRINT/ACCESSIBILITY-----*/
+/*----------------------------------*/
+ 
+body.print-body #content-wrap::after {
+    content: unset;
+}
+ 
+@media (prefers-reduced-motion: reduce) {
+    .rotator, .spinner, .blinkenlights {
+        animation: none;
+     }
+    div:is(.underwatch_memo) {
+        --memo-logo: url("http://scp-wiki.wikidot.com/local--files/deleted/understill.gif");
+    }
+}
+ 
+/*-------------------------------------*/
+/*-------- CUSTOM SYNTAX ---------*/
+/*-------------------------------------*/
+ 
+/*------------Animations-------------*/
+ 
+.fade-in1 {
+    opacity: 0;
+    animation: infade1 calc(1s * var(--scale1, 1)) linear calc(1s * var(--delay1, 0)) var(--loop1, 1);
+    animation-fill-mode: forwards;
+}
+ 
+.fade-in2 {
+    opacity: 0;
+    animation: infade2 calc(1s * var(--scale2, 1)) linear calc(1s * var(--delay2, 0)) var(--loop2, 1);
+    animation-fill-mode: forwards;
+}
+ 
+.fade-in3 {
+    opacity: 0;
+    animation: infade3 calc(1s * var(--scale3, 1)) linear calc(1s * var(--delay3, 0)) var(--loop3, 1);
+    animation-fill-mode: forwards;
+}
+ 
+.fade-out1 {
+    opacity: 1;
+    animation: outfade1 calc(1s * var(--scale1, 1)) linear calc(1s * var(--delay1, 0)) var(--loop1, 1);
+    animation-fill-mode: forwards;
+}
+ 
+.fade-out2 {
+    opacity: 1;
+    animation: outfade2 calc(1s * var(--scale2, 1)) linear calc(1s * var(--delay2, 0)) var(--loop2, 1);
+    animation-fill-mode: forwards;
+ 
+}
+ 
+.fade-out3 {
+    opacity: 1;
+    animation: outfade3 calc(1s * var(--scale3, 1)) linear calc(1s * var(--delay3, 0)) var(--loop3, 1);
+    animation-fill-mode: forwards;
+}
+ 
+.asterisk {
+    border-radius: 50% 50% 50% 50%;
+    margin-inline: auto;
+    margin-block:10px;
+    object-fit: contain;
+    width: calc(10px + var(--astersize, 85));
+    height: calc(10px + var(--astersize, 85));
+    max-width: calc(2px * var(--astersize, 85));
+    max-height: calc(2px * var(--astersize, 85));
+    justify-content: center;
+    display: flex;
+}
+ 
+.inverse img {
+filter: invert(1);
+}
+ 
+.contain-aster {
+overflow:hidden;
+ 
+}
+ 
+.asterisk img { 
+    width: calc(1px * var(--astersize, 75));
+    height: calc(1px * var(--astersize, 75));
+}
+ 
+.spinner {
+    will-change:transform;
+    animation:  flip-with-rotate calc(1s * var(--scale1, 4)) linear calc(1s * var(--delay1, 0)) var(--spinloop, infinite);
+    animation-fill-mode: forwards;
+    vertical-align: middle;
+    animation-play-state:running;
+    --spinloop: var(--demoloop, var(--loop1));
+    background-repeat: no-repeat;
+    background-position: center;
+    border-radius: 50% 50% 50% 50%;
+    margin: 0 auto;
+    background-size: contain;
+    overflow-x: hidden;
+}
+ 
+.rotator {
+    will-change:transform;
+    animation: rotation calc(1s * var(--scale1, 4)) linear calc(1s * var(--delay1, 0)) var(--rotaloop, infinite);
+    animation-fill-mode: forwards;
+    vertical-align: middle;
+    --rotaloop: var(--demoloop, var(--loop1));
+    background-repeat: no-repeat;
+    background-position: center;
+    border-radius: 50% 50% 50% 50%;
+    margin: 0 auto;
+    background-size: contain;
+    overflow-x: hidden;
+}
+ 
+.blinkenlights {
+    animation: blink calc(1s * var(--scale1, 1)) ease-in-out infinite alternate;
+    animation-play-state:running;
+}
+ 
+@keyframes infade1 {
+    from { opacity:0; }
+    to { opacity:1; }
+}
+ 
+@keyframes infade2 {
+    from { opacity:0; }
+    to { opacity:1; }
+}
+ 
+@keyframes infade3 {
+    from { opacity:0; }
+    to { opacity:1; }
+}
+ 
+@keyframes outfade1 {
+    from { opacity:1; }
+    to { opacity:0; }
+}
+ 
+@keyframes outfade2 {
+    from { opacity:1; }
+    to { opacity:0; }
+}
+@keyframes outfade3 {
+    from { opacity:1; }
+    to { opacity:0; }
+}
+ 
+@keyframes flip-with-rotate {
+    0% { transform: perspective(400px) rotateY(0); }
+    100% { transform: perspective(400px) rotateY(180deg); }
+}
+ 
+@keyframes rotation {
+    from { transform: rotate(0deg); }
+    to { transform: rotate(359deg); }
+}
+ 
+@keyframes blink {
+    0% { opacity:1; }
+    50% { opacity:0; }
+    100% { opacity:1; }
+}
+ 
+/*------- Custom Divs  -------*/
+ 
+.space {
+    margin-inline: auto;
+    margin-block: 1.4rem;
+    padding: 0.3rem;
+    box-sizing: border-box;
+    padding-inline: 1rem;
+    background-color: rgba(var(--basalt-secondary-color),0.8);
+    color: rgb(var(--basalt-main-text-color));
+}
+ 
+div.space {
+    border-color: rgb(var(--active-color));
+    border-left: solid 0.25rem rgb(var(--active-color));
+    border-right: solid 0.25rem rgb(var(--active-color));
+}
+ 
+.razer {
+    padding: 1.5em;
+    margin: 2em;
+    box-shadow: 0px 4px 9px rgba(0, 0, 0, 0.2);
+}
+ 
+div.space {
+    border-top: none;
+    border-bottom: none;
+}
+ 
+div.space:not(.tiny, .medium, .large, .inter, .darkpanel, .lightpanel) {
+padding: 25px;
+max-width: 66%;
+display:table;
+}
+ 
+.logger .space {
+    display: flow-root;
+    margin-inline: 25px;
+}
+ 
+div.space.slim {
+    border-left: unset;
+    border-right: unset; 
+    border: solid .1rem rgb(var(--active-color)); 
+}
+ 
+.darkpanel, .lightpanel { 
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+    padding-block: 1rem;
+    margin-inline: auto;
+    margin-block: 1rem;
+    box-sizing: border-box;
+    padding-inline: 1rem;
+    position: relative;
+    width: 90%;
+    border-radius:4px;
+}
+ 
+.darkpanel {
+    background: rgb(var(--dark-color));
+    color: rgb(var(--light-color));
+    border: 0.17rem solid rgb(var(--light-color));
+}
+ 
+.lightpanel {
+    background: rgb(var(--light-color));
+    color: rgb(var(--dark-color));
+    border: 0.17rem solid rgb(var(--dark-color));
+}
+ 
+#page-content div:is(.lightpanel) a {
+    color: rgb(var(--dark-link));
+}
+ 
+#page-content div:is(.darkpanel) a {
+    color: rgb(var(--light-link));
+}
+ 
+div.darkpanel, div.lightpanel {
+    border-color: rgb(var(--active-color));
+}
+ 
+#page-content div:is(.inter) { 
+    max-width: 43rem; 
+    display: block;
+    margin-inline: auto;
+    margin-block: 1.5rem;
+    padding-block: 0.7rem;
+    padding-inline: 1.5rem;
+    background-color: rgb(var(--basalt-primary-color), 0.5);
+    border: solid 0.01rem rgb(var(--general-border-color));
+    color: rgb(var(--active-color, var(--basalt-main-text-color)));
+}
+ 
+.oheader {
+    --active-color: var(--basalt-tertiary-color);
+    background-color: rgb(var(--active-color),0.1);
+    border-color: rgb(var(--active-color));
+    border-style: solid;
+    border-width: 0.05rem 0.05rem 0.05rem 0.75rem;
+    margin: 1rem auto;
+    padding: 0.5rem 0.875rem;
+    box-sizing: border-box;
+}
+ 
+.ocolor {
+    --active-color: var(--basalt-tertiary-color);
+    color:rgb(var(--active-color)) !important;
+    font-weight:bold;
+}
+ 
+.cursor {
+    cursor: var(--active-cursor, auto);
+}
+ 
+div.logger {
+    overflow: hidden;
+    padding: 1.5rem;
+    margin: 0 auto;
+    border-radius: 15px;
+    border: solid 0.08rem rgb(var(--active-color), .9);
+    position: relative;
+    background-color: var(--logger-color, transparent);
+    background-image: var(--logger-bg);
+    background-attachment: fixed;
+    background-size:4rem;
+}
+ 
+.capt {
+    --active-color: var(--basalt-tertiary-color);
+    display: flow-root;
+    margin: 0.125rem 0.25rem -0.5rem;
+    font-size: 1.05em;
+    padding: 0.25rem;
+    font-weight: bold;
+    text-align: center;
+    background-color: rgb(var(--active-color), .8);
+}
+ 
+#page-content div:is(.logger) {
+    max-width: 50rem;
+}
+ 
+/*-------------Memos---------------*/
+ 
+div.underwatch_memo {
+    --memo-heading: "你已獲選為受監督者議會效命";
+    --memo-logo: url("http://scp-wiki.wikidot.com/local--files/deleted/eyeonu.gif");
+    --memo-color: 8,5,8;
+    color:#fff;
+    font-size:1.1rem;
+    background-blend-mode: darken;
+}
+ 
+div.deletions_memo {
+    --memo-heading: "本檔案已標記為刪除";
+    --memo-logo: url("https://scp-wiki.wdfiles.com/local--files/scp-6768/deletion.png");
+    --memo-color: 55, 55, 55;
+}
+ 
+div.custom_memo {
+    --memo-heading: var(--custom-header, "自訂備忘 - 在此輸入標題");
+    --memo-logo: var(--custom-logo, url("https://scp-wiki.wdfiles.com/local--files/theme%3Aeigenmachine/asterisk_emblem.svg"));
+    --memo-color: var(--active-color);
+}
+ 
+div.deletions_memo, div.underwatch_memo, div.custom_memo {
+    background-size: contain;
+    background-position: top center;
+    background-image: var(--memo-logo);
+    background-repeat: no-repeat;
+    min-height: 4rem;
+    margin-inline: auto;
+    margin-block: 2rem;
+    padding-inline: 20px;
+    padding-block:10px;
+    border: solid 2px;
+    text-align: center; 
+}
+ 
+div.deletions_memo, div.underwatch_memo {
+    background-color:rgb(var(--memo-color), 0.75);
+    border-color: rgb(var(--memo-color), 0.9);
+}
+ 
+div.deletions_memo::before, div.underwatch_memo::before, div.custom_memo::before {
+    content: var(--memo-heading);
+    font-family: var(--UI-font-primary);
+    font-weight: 600;
+    font-size: 1.3rem;
+    text-align: center;
+    margin: 0 auto 1rem auto;
+    display: flex;
+    flex-direction: column;
+    padding-top: 0.5em;
+}
+ 
+.custom_memo {
+    --active-color: var(--custom-color);
+}
+ 
+div:is(.custom_memo) {
+    background-color: rgb(var(--active-color), 0.6);
+    border-color: rgb(var(--active-color), 0.9);
+}
+/*------- Author Label Mods -------*/
+ 
+.authorlink-wrapper > a {
+    font-family: 'VT323', monospace;
+    font-size: 1.1em;
+    letter-spacing: .04em;
+    margin-top: 1vh;
+    text-transform: uppercase;
+}
+ 
+.authorlink-wrapper > a::before {
+    content:"" !important;
+ 
+}
+ 
+.authorlink-wrapper .authorbox::before {
+    border-width:calc(1px * var(--author-triangle, 0)) !important; 
+}
+ 
+.authorlink-wrapper .authorbox {
+ 
+    box-shadow: 0px 0px 3px 3px rgb(var(--swatch-background));
+}
+ 
+/*------- Alignment + Modifiers -------*/
+ 
+div.right  {
+    border-width: 0.05rem 0.9rem 0.05rem 0.05rem;
+    float:right;
+}
+ 
+div.left {
+    border-width: 0.05rem 0.05rem 0.05rem 0.75rem;
+    float:left;
+}
+ 
+div.align-r {
+    text-align: right;
+}
+ 
+div.align-l {
+    text-align: left;
+}
+ 
+.oheader:not(.tiny, .medium, .large, .space, .inter, .darkpanel, .lightpanel, .custom_memo) {
+    width: max(67.5%, calc(var(--main-content-width)*0.5));
+}
+ 
+#page-content div:is(.oheader, .space, .inter, .logger) {
+    clear: both;
+}
+ 
+.dashbox {
+   border: dashed 0.2rem rgb(var(--active-color));
+   margin-inline: auto;
+   margin-block: 1.5rem;
+   padding-inline: 1.25rem;
+   padding-block: 0.15rem;
+   background-color: rgb(var(--basalt-background-color));
+ 
+}
+#page-content div.box {
+    max-width: 57rem;
+}
+div.box {
+   border: solid 0.1rem rgb(var(--basalt-secondary-color));
+   margin-inline: auto;
+   margin-block: 1.5rem;
+   padding-inline: 1.25rem;
+   padding-block: 0.15rem;
+   background-color: rgb(var(--active-color, --basalt-background-color));
+   display: flex;
+   flex-flow: row wrap;
+}
+.oheader hr {
+    margin: unset;
+    margin-block: 5px;
+    margin-inline: auto;
+    background-color: rgb(var(--active-color), 0.9);
+    filter: brightness(.6);
+}
+ 
+#page-content div:is(.gridline) {
+background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height='100' viewBox='0 0 100 100'%3E%3Cg fill-rule='evenodd'%3E%3Cg fill='%23dbd5e5' fill-opacity='0.14'%3E%3Cpath opacity='.5' d='M96 95h4v1h-4v4h-1v-4h-9v4h-1v-4h-9v4h-1v-4h-9v4h-1v-4h-9v4h-1v-4h-9v4h-1v-4h-9v4h-1v-4h-9v4h-1v-4h-9v4h-1v-4H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15V0h1v15h9V0h1v15h9V0h1v15h9V0h1v15h9V0h1v15h9V0h1v15h9V0h1v15h9V0h1v15h9V0h1v15h4v1h-4v9h4v1h-4v9h4v1h-4v9h4v1h-4v9h4v1h-4v9h4v1h-4v9h4v1h-4v9h4v1h-4v9zm-1 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-9-10h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm9-10v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-9-10h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm9-10v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-9-10h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm9-10v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-9-10h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9z'/%3E%3Cpath d='M6 5V0H5v5H0v1h5v94h1V6h94V5H6z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
+background-position: center;
+background-color: rgb(var(--active-color), .82);
+}
+ 
+.capt.sandy, .capt.wasabi, .capt.white, .capt.grey, .capt.peachy, .capt.pink, .capt.clay, .capt.mint, .capt.turquoise, .wikibox.sandy, .wikibox.wasabi, .wikibox.white, .wikibox.grey, .wikibox.peachy, .wikibox.pink, .wikibox.clay, .wikibox.mint,  .wikibox.turquoise {
+    color: rgb(var(--dark-color));
+}
+ 
+.capt.vanta, .capt.deep, .capt.dark, .capt.danger, .wikibox.vanta, .wikibox.deep, .wikibox.dark, .wikibox.danger {
+    color:rgb(var(--light-color));
+}
+ 
+#page-content div:is(.large) {
+    max-width:50rem;
+}
+ 
+#page-content div:is(.medium) {
+    max-width:26rem;
+}
+ 
+#page-content div:is(.tiny) {
+    max-width:15rem;
+}
+ 
+#page-content div:is(.duplo) {
+    border-width: 0.05rem 0.75rem 0.05rem 0.75rem;
+}
+ 
+#page-content div:is(.quatro) {
+    border-width: 0.25rem 0.25rem 0.25rem 0.25rem;
+}
+ 
+#page-content div:is(.slim) {
+    border-width: 0.05rem 0.05rem 0.05rem 0.05rem;
+}
+ 
+#page-content div:is(.opaque) {
+    background-color: rgb(var(--active-color), .82);
+}
+ 
+.VT323 {
+    font-size: 1.2em;
+    letter-spacing: .1em;
+    font-family: 'VT323', monospace;
+    font-stretch: expanded;
+}
+ 
+.silk {
+    font-size: 1.2em;
+    letter-spacing: .2em;
+    font-family: 'Silkscreen', sans-serif;
+    font-stretch: expanded;
+}
+ 
+.overpass {
+    font-size: 1.2em;
+    letter-spacing: .2em;
+    font-family: "Overpass Mono", monospace;
+    font-weight: 500;
+}
+ 
+.gothbit {
+  font-family: "DotGothic16", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+ 
+.fragment {
+  font-family: "Fragment Mono", monospace;
+}
+ 
+.zen {
+  font-family: "Zen Kaku Gothic Antique", sans-serif;
+}
+ 
+.s-title {
+    font-size: 1.15em;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin: 0.4rem 0;
+    letter-spacing: 0.09rem;
+}
+ 
+.bd {
+    font-family: var(--UI-font);
+    font-weight:bold;
+}
+ 
+.wide {
+    letter-spacing: .9em;
+}
+ 
+.grey { --active-color: var(--vector-grey); }
+.forest { --active-color: var(--vector-forest); }
+.green { --active-color: var(--vector-green); }
+.pink { --active-color: var(--vector-pink); }
+.desertblue { --active-color: var(--vector-desertblue); }
+.orange { --active-color: var(--vector-orange); }
+.red { --active-color: var(--vector-red); }
+.jean { --active-color: var(--vector-jean); }
+.storm { --active-color: var(--vector-storm); }
+.enki { --active-color: var(--vector-enki); }
+.dark { --active-color: var(--vector-dark); }
+.sandy { --active-color: var(--vector-sandy); }
+.purp { --active-color: var(--vector-purp); }
+.mimosa { --active-color: var(--vector-mimosa); }
+.mint { --active-color: var(--vector-mint); }
+.wasabi { --active-color: var(--vector-wasabi); }
+.deep { --active-color: var(--vector-deep); }
+.turquoise { --active-color: var(--vector-turquoise ); }
+.white { --active-color: var(--vector-white); }
+.vanta{ --active-color: var(--vector-vanta); }
+.danger { --active-color: var(--vector-danger); }
+.clay { --active-color: var(--vector-clay); }
+.peachy{ --active-color: var(--vector-peachy); }
+.bubblegum{ --active-color: var(--vector-bubblegum); }
+ 
+.grey2 { --active-color: var(--vector2-grey) !Important; }
+.forest2 { --active-color: var(--vector2-forest) !Important; }
+.green2 { --active-color: var(--vector2-green) !Important; }
+.pink2 { --active-color: var(--vector2-pink) !Important; }
+.desertblue2 { --active-color: var(--vector2-desertblue) !Important; }
+.orange2 { --active-color: var(--vector2-orange) !Important; }
+.red2 { --active-color: var(--vector2-red) !Important; }
+.jean2 { --active-color: var(--vector2-jean) !Important; }
+.storm2 { --active-color: var(--vector2-storm) !Important; }
+.enki2 { --active-color: var(--vector2-enki) !Important; }
+.dark2 { --active-color: var(--vector2-dark) !Important; }
+.sandy2 { --active-color: var(--vector2-sandy) !Important; }
+.purp2 { --active-color: var(--vector2-purp) !Important; }
+.mimosa2 { --active-color: var(--vector2-mimosa) !Important; }
+.mint2 { --active-color: var(--vector2-mint) !Important; }
+.wasabi2 { --active-color: var(--vector2-wasabi) !Important; }
+.deep2 { --active-color: var(--vector2-deep) !Important; }
+.turquoise2 { --active-color: var(--vector2-turquoise ) !Important; }
+.white2 { --active-color: var(--vector2-white) !Important; }
+.vanta2{ --active-color: var(--vector2-vanta) !Important; }
+.danger2 { --active-color: var(--vector2-danger) !Important; }
+.clay2 { --active-color: var(--vector2-clay) !Important; }
+.peachy2 { --active-color: var(--vector2-peachy) !Important; }
+.bubblegum2 { --active-color: var(--vector2-bubblegum) !Important; }
+ 
+.grey3 { --active-color: var(--vector3-grey) !Important; }
+.forest3 { --active-color: var(--vector3-forest) !Important; }
+.green3 { --active-color: var(--vector3-green) !Important; }
+.pink3 { --active-color: var(--vector3-pink) !Important; }
+.desertblue3 { --active-color: var(--vector3-desertblue) !Important; }
+.orange3 { --active-color: var(--vector3-orange) !Important; }
+.red3 { --active-color: var(--vector3-red) !Important; }
+.jean3 { --active-color: var(--vector3-jean) !Important; }
+.storm3 { --active-color: var(--vector3-storm) !Important; }
+.enki3 { --active-color: var(--vector3-enki) !Important; }
+.dark3 { --active-color: var(--vector3-dark) !Important; }
+.sandy3 { --active-color: var(--vector3-sandy) !Important; }
+.purp3 { --active-color: var(--vector3-purp) !Important; }
+.mimosa3 { --active-color: var(--vector3-mimosa) !Important; }
+.mint3 { --active-color: var(--vector3-mint) !Important; }
+.wasabi3 { --active-color: var(--vector3-wasabi) !Important; }
+.deep3 { --active-color: var(--vector3-deep) !Important; }
+.turquoise3 { --active-color: var(--vector3-turquoise ) !Important; }
+.white3 { --active-color: var(--vector3-white) !Important; }
+.vanta3{ --active-color: var(--vector3-vanta) !Important; }
+.danger3 { --active-color: var(--vector3-danger) !Important; }
+.clay3 { --active-color: var(--vector3-clay) !Important; }
+.peachy3 { --active-color: var(--vector3-peachy) !Important; }
+.bubblegum3 { --active-color: var(--vector3-bubblegum) !Important; }
+ 
+.grey4 { --active-color: var(--vector4-grey) !Important; }
+.forest4 { --active-color: var(--vector4-forest) !Important; }
+.green4 { --active-color: var(--vector4-green) !Important; }
+.pink4 { --active-color: var(--vector4-pink) !Important; }
+.desertblue4 { --active-color: var(--vector4-desertblue) !Important; }
+.orange4 { --active-color: var(--vector4-orange) !Important; }
+.red4 { --active-color: var(--vector4-red) !Important; }
+.jean4 { --active-color: var(--vector4-jean) !Important; }
+.storm4 { --active-color: var(--vector4-storm) !Important; }
+.enki4 { --active-color: var(--vector4-enki) !Important; }
+.dark4 { --active-color: var(--vector4-dark) !Important; }
+.sandy4 { --active-color: var(--vector4-sandy) !Important; }
+.purp4 { --active-color: var(--vector4-purp) !Important; }
+.mimosa4 { --active-color: var(--vector4-mimosa) !Important; }
+.mint4 { --active-color: var(--vector4-mint) !Important; }
+.wasabi4 { --active-color: var(--vector4-wasabi) !Important; }
+.deep4 { --active-color: var(--vector4-deep) !Important; }
+.turquoise4 { --active-color: var(--vector4-turquoise ) !Important; }
+.white4 { --active-color: var(--vector4-white) !Important; }
+.vanta4{ --active-color: var(--vector4-vanta) !Important; }
+.danger4 { --active-color: var(--vector4-danger) !Important; }
+.clay4 { --active-color: var(--vector4-clay) !Important; }
+.peachy4 { --active-color: var(--vector4-peachy) !Important; }
+.bubblegum4 { --active-color: var(--vector4-bubblegum) !Important; }
+ 
+.pointer { --active-cursor: var(--vector-point); }
+.wait { --active-cursor: var(--vector-wait); }
+.help { --active-cursor: var(--vector-help); }
+.donot { --active-cursor: var(--vector-donot); }
+.crosshair { --active-cursor: var(--vector-cross); }
+.hand { --active-cursor: var(--vector-hand); }
+.grab { --active-cursor: var(--vector-grab); }
+.alias { --active-cursor: var(--vector-alias); }
+.move { --active-cursor: var(--vector-move); }
+.copy { --active-cursor: var(--vector-copy); }
+.progress { --active-cursor: var(--vector-progress); }
+.zoom-in { --active-cursor: var(--vector-zoom-in); }
+.zoom-out { --active-cursor: var(--vector-zoom-out); }
+.cell { --active-cursor: var(--vector-cell); }
+.text-h { --active-cursor: var(--vector-text-h); }
+.text-v { --active-cursor: var(--vector-text-v); }
+.auto { --active-cursor: var(--vector-auto); }
+.invisible { --active-cursor: var(--vector-none); }
+ 
+/*------- Wikibox -------*/
+ 
+.wikibox {
+    border-color: rgb(var(--basalt-secondary-color));
+    margin: .5rem 0 .5rem 1.5rem;
+    padding: 0.375rem 0.5rem;
+    float: right;
+    clear: right;
+    font-size: 0.875em;
+    width: 17.75rem;
+    box-sizing: border-box;
+    border-style: solid;
+    border-width: 0.05rem;
+    background-color: rgb(var(--active-color, --basalt-secondary-color), 0.7);
+}
+ 
+div.wikibox hr {
+    margin-block: 5px;
+    margin-inline: auto;
+    background-color: rgb(var(--active-color), 0.9);
+    filter: brightness(.6);
+}
+ 
+@media (max-width: 36rem) {
+    .wikibox {
+        float: none;
+        clear: both;
+        margin-left: auto; 
+        margin-right: auto;
+    }
+}
+ 
+.wikibox table {
+    width: 100%;
+    margin: 0;
+}
+ 
+.wikibox table td {
+    border: none;
+    padding: 0.225em;
+}
+ 
+/* ---- Wikimodule Integration ---- */
+ 
+div.collection .collapsible-block {
+    border: solid 0.05rem rgb(var(--general-border-color));
+}
+ 
+div.collection :is(.collapsible-block-unfolded-link, .collapsible-block-folded) a {
+    color: rgb(var(--link-color));
+}
+ 
+#page-content .collection table { margin: 0; }
+ 
+#page-content .collection th:is(.titlecolumn, .namerow) {
+    border: 0.125rem solid rgb(var(--basalt-background-color));
+    padding: 0.375rem;
+    font-weight: normal;
+}
+ 
+#page-content .collection th.articlecolumn {
+    background-color: black;
+}
+ 
+.code, .code p, .code pre, code, tt {
+    font-size: .9em;
+}
+ 
+div.collection .collapsible-block-unfolded-link a, div.collection .collapsible-block-folded a {
+background-color: rgb(28, 28, 28);
+border-width: 0px;
+}
+div.collection .collapsible-block {
+border-width: 0px;
+background-color: transparent;
+}
+
+/*-----Deletions Variant-----*/
+ 
+:root:lang(zh) {
+    --basalt-UI-opacity: 0.75;
+    --header-logo: url("https://scp-wiki.wdfiles.com/local--files/scp-6768/dept.png");
+    --header-title:"R.S. MNEMOSYNE";
+    --header-subtitle:"DEPARTMENT OF DELETIONS";
+    --scrollbar-track-color: 18, 18, 18;
+    --top-bar-link-background-hover-alt: var(--basalt-undertone);
+    --basalt-focus-color: var(--basalt-alternate-color);
+    --basalt-secondary-color: 26, 26, 28;
+    --basalt-undertone: 18, 18, 18;
+    --basalt-background-color: var(--basalt-secondary-color);
+    --swatch-menubg-black-color: 9, 9, 9;
+    --general-border-color: 18, 18, 18;
+    --swatch-menutxt-dark-color: 69, 69, 69;
+    --basalt-main-text-color: 224, 219, 220 ;
+    --basalt-bright-element-color: var(--basalt-alternate-color);
+    --basalt-alternate-color: 221, 119, 17;
+    --title-size: 1.5rem;
+    --subtitle-size: .825rem;
+    --button-hover-text-color: var(--basalt-tertiary-color);
+    --header-border-width: .125rem;
+    --header-border-color: var(--basalt-tertiary-color);
+    --author-triangle: 0;
+    --tilesize: 45;
+    --basalt-tertiary-color: 155, 147, 155;
+    --basalt-bright-element-color: 104, 54, 104;
+    --basalt-dark-element-color: 50, 14 70;
+    --basalt-alternate-color: 255, 142, 29;
+    --basalt-overtone: 32,33,34;
+    --basalt-background-color: 0, 0, 0;
+    --basalt-undertone: 18, 18, 18;
+    --search-icon-color: 194, 141, 75;
+    --swatch-menubg-black-color: 0, 0, 0;
+    --top-bar-link-color: 164, 164, 164;
+    --top-bar-dropdown-link-color:  164, 164, 164;
+    --top-bar-dropdown-background-hover: 74, 64, 74;
+    --general-border-color: 28, 20, 28;
+    --swatch-menutxt-dark-color: 169, 169, 169;
+    --swatch-background: 6, 13, 31;
+    --swatch-text-general: var(--basalt-main-text-color);
+    --basalt-main-text-color: 231, 228, 231;
+    --selection-background-color: 145, 120, 145;
+    --tab-focus-text-color:  26, 26, 26;
+    --tab-hover-background-color: 183, 91, 0;
+    --tab-selected-background-color: var(--basalt-alternate-color);
+    --basalt-positive-color:var(--vector-peachy);
+    --basalt-cancel-color:var(--vector-green);
+    --basalt-bright-element-color: var(--basalt-alternate-color);
+    --vector-midtone: 28, 27, 27;
+    --link-active-color: var(--basalt-alternate-color);
+    --link-newpage-color: 212, 142, 13;
+    --link-color: var(--basalt-alternate-color);
+    --login-status-text-color: 221, 119, 17;
+    --login-status-link-background-hover: 26, 26, 28; 
+    --basalt-light-text-color: var(--light-color);
+    --link-visited-color: 153, 133, 153;
+    --basalt-focus-color: 170, 170 170;
+    --header-background-color: var(--basalt-background-color);
+    --header-border-color: var(--header-background-color);
+    --side-bar-link-color: var(--link-color);
+    --side-bar-link-background-hover: 0, 0, 0;
+    --side-bar-resources-background-color: var(--basalt-alternate-color), 0;
+    --side-bar-heading-text-color-hover: 0, 0, 0;
+    --side-bar-heading-background-color: var(--dark-color);
+    --side-bar-background-color: 0, 0, 0;
+    --side-bar-button-background-hover: 66, 66, 66;
+    --selection-background-color: 117, 53, 5;
+    --hr-color: 71, 71, 71;
+    --h-border-color: 71, 71, 71;
+    --dark-link: 106, 64. 100;
+    --link-volume: uppercase;
+    --title-border-color: var(--h-border-color);
+    --blockquote-border-color: var(--hr-color);
+    --image-caption-background-color: var(--basalt-secondary-color);
+    --footnote-background-color: var(--basalt-secondary-color);
+    --bottom-area-background-color: var(--basalt-secondary-color);
+    --light-color: 237, 237, 237;
+    --dark-color: 26, 26, 26;
+    --scrollbar-track-color:var(--basalt-undertone);
+    --scrollbar-thumb-color:var(--basalt-alternate-color);
+    --basalt-sub-text-color: 212, 206, 225;
+    --backdrop: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 304 304' width='304' height='304'%3E%3Cpath fill='%23818181' fill-opacity='0.07' d='M44.1 224a5 5 0 1 1 0 2H0v-2h44.1zm160 48a5 5 0 1 1 0 2H82v-2h122.1zm57.8-46a5 5 0 1 1 0-2H304v2h-42.1zm0 16a5 5 0 1 1 0-2H304v2h-42.1zm6.2-114a5 5 0 1 1 0 2h-86.2a5 5 0 1 1 0-2h86.2zm-256-48a5 5 0 1 1 0 2H0v-2h12.1zm185.8 34a5 5 0 1 1 0-2h86.2a5 5 0 1 1 0 2h-86.2zM258 12.1a5 5 0 1 1-2 0V0h2v12.1zm-64 208a5 5 0 1 1-2 0v-54.2a5 5 0 1 1 2 0v54.2zm48-198.2V80h62v2h-64V21.9a5 5 0 1 1 2 0zm16 16V64h46v2h-48V37.9a5 5 0 1 1 2 0zm-128 96V208h16v12.1a5 5 0 1 1-2 0V210h-16v-76.1a5 5 0 1 1 2 0zm-5.9-21.9a5 5 0 1 1 0 2H114v48H85.9a5 5 0 1 1 0-2H112v-48h12.1zm-6.2 130a5 5 0 1 1 0-2H176v-74.1a5 5 0 1 1 2 0V242h-60.1zm-16-64a5 5 0 1 1 0-2H114v48h10.1a5 5 0 1 1 0 2H112v-48h-10.1zM66 284.1a5 5 0 1 1-2 0V274H50v30h-2v-32h18v12.1zM236.1 176a5 5 0 1 1 0 2H226v94h48v32h-2v-30h-48v-98h12.1zm25.8-30a5 5 0 1 1 0-2H274v44.1a5 5 0 1 1-2 0V146h-10.1zm-64 96a5 5 0 1 1 0-2H208v-80h16v-14h-42.1a5 5 0 1 1 0-2H226v18h-16v80h-12.1zm86.2-210a5 5 0 1 1 0 2H272V0h2v32h10.1zM98 101.9V146H53.9a5 5 0 1 1 0-2H96v-42.1a5 5 0 1 1 2 0zM53.9 34a5 5 0 1 1 0-2H80V0h2v34H53.9zm60.1 3.9V66H82v64H69.9a5 5 0 1 1 0-2H80V64h32V37.9a5 5 0 1 1 2 0zM101.9 82a5 5 0 1 1 0-2H128V37.9a5 5 0 1 1 2 0V82h-28.1zm16-64a5 5 0 1 1 0-2H146v44.1a5 5 0 1 1-2 0V18h-26.1zm102.2 270a5 5 0 1 1 0 2H98v14h-2v-16h124.1zM242 149.9V160h16v34h-16v62h48v48h-2v-46h-48v-66h16v-30h-16v-12.1a5 5 0 1 1 2 0zM53.9 18a5 5 0 1 1 0-2H64V2H48V0h18v18H53.9zm112 32a5 5 0 1 1 0-2H192V0h50v2h-48v48h-28.1zm-48-48a5 5 0 0 1-9.8-2h2.07a3 3 0 1 0 5.66 0H178v34h-18V21.9a5 5 0 1 1 2 0V32h14V2h-58.1zm0 96a5 5 0 1 1 0-2H137l32-32h39V21.9a5 5 0 1 1 2 0V66h-40.17l-32 32H117.9zm28.1 90.1a5 5 0 1 1-2 0v-76.51L175.59 80H224V21.9a5 5 0 1 1 2 0V82h-49.59L146 112.41v75.69zm16 32a5 5 0 1 1-2 0v-99.51L184.59 96H300.1a5 5 0 0 1 3.9-3.9v2.07a3 3 0 0 0 0 5.66v2.07a5 5 0 0 1-3.9-3.9H185.41L162 121.41v98.69zm-144-64a5 5 0 1 1-2 0v-3.51l48-48V48h32V0h2v50H66v55.41l-48 48v2.69zM50 53.9v43.51l-48 48V208h26.1a5 5 0 1 1 0 2H0v-65.41l48-48V53.9a5 5 0 1 1 2 0zm-16 16V89.41l-34 34v-2.82l32-32V69.9a5 5 0 1 1 2 0zM12.1 32a5 5 0 1 1 0 2H9.41L0 43.41V40.6L8.59 32h3.51zm265.8 18a5 5 0 1 1 0-2h18.69l7.41-7.41v2.82L297.41 50H277.9zm-16 160a5 5 0 1 1 0-2H288v-71.41l16-16v2.82l-14 14V210h-28.1zm-208 32a5 5 0 1 1 0-2H64v-22.59L40.59 194H21.9a5 5 0 1 1 0-2H41.41L66 216.59V242H53.9zm150.2 14a5 5 0 1 1 0 2H96v-56.6L56.6 162H37.9a5 5 0 1 1 0-2h19.5L98 200.6V256h106.1zm-150.2 2a5 5 0 1 1 0-2H80v-46.59L48.59 178H21.9a5 5 0 1 1 0-2H49.41L82 208.59V258H53.9zM34 39.8v1.61L9.41 66H0v-2h8.59L32 40.59V0h2v39.8zM2 300.1a5 5 0 0 1 3.9 3.9H3.83A3 3 0 0 0 0 302.17V256h18v48h-2v-46H2v42.1zM34 241v63h-2v-62H0v-2h34v1zM17 18H0v-2h16V0h2v18h-1zm273-2h14v2h-16V0h2v16zm-32 273v15h-2v-14h-14v14h-2v-16h18v1zM0 92.1A5.02 5.02 0 0 1 6 97a5 5 0 0 1-6 4.9v-2.07a3 3 0 1 0 0-5.66V92.1zM80 272h2v32h-2v-32zm37.9 32h-2.07a3 3 0 0 0-5.66 0h-2.07a5 5 0 0 1 9.8 0zM5.9 0A5.02 5.02 0 0 1 0 5.9V3.83A3 3 0 0 0 3.83 0H5.9zm294.2 0h2.07A3 3 0 0 0 304 3.83V5.9a5 5 0 0 1-3.9-5.9zm3.9 300.1v2.07a3 3 0 0 0-1.83 1.83h-2.07a5 5 0 0 1 3.9-3.9zM97 100a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm0-16a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm16 16a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm16 16a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm0 16a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm-48 32a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm16 16a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm32 48a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm-16 16a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm32-16a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm0-32a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm16 32a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm32 16a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm0-16a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm-16-64a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm16 0a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm16 96a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm0 16a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm16 16a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm16-144a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm0 32a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm16-32a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm16-16a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm-96 0a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm0 16a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm16-32a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm96 0a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm-16-64a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm16-16a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm-32 0a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm0-16a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm-16 0a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm-16 0a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm-16 0a3 3 0 1 0 0-6 3 3 0 0 0 0 6zM49 36a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm-32 0a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm32 16a3 3 0 1 0 0-6 3 3 0 0 0 0 6zM33 68a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm16-48a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm0 240a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm16 32a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm-16-64a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm0 16a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm-16-32a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm80-176a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm16 0a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm-16-16a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm32 48a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm16-16a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm0-32a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm112 176a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm-16 16a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm0 16a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm0 16a3 3 0 1 0 0-6 3 3 0 0 0 0 6zM17 180a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm0 16a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm0-32a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm16 0a3 3 0 1 0 0-6 3 3 0 0 0 0 6zM17 84a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm32 64a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm16-16a3 3 0 1 0 0-6 3 3 0 0 0 0 6z'%3E%3C/path%3E%3C/svg%3E");
+ /*------- oheader Colors  -------*/
+ 
+    --vector-clay: 126, 114, 115;
+    --vector-desertblue: 75, 108, 155;
+    --vector-jean: 124, 161, 192;
+    --vector-turquoise: 110, 170, 120;
+    --vector-deep: 6, 24, 46;
+    --vector-peachy: 194, 141, 117;
+    --vector-pink: 195, 136, 144;
+    --vector-bubblegum: 226, 28, 97;
+    --vector-purp: 165, 147, 165;
+    --vector-mimosa: 56, 22, 49;
+    --vector-red: 164, 70, 72;
+    --vector-danger: 205, 29, 29;
+    --vector-orange: 255, 142, 29;
+    --vector-sandy: 201, 166, 131;
+    --vector-mint: 104, 172, 169;
+    --vector-wasabi: 147, 161, 103;
+    --vector-enki: 94, 99, 66;
+    --vector-green: 45, 134, 45;
+    --vector-forest: 17, 59, 17;
+    --vector-white: 231, 234, 225;
+    --vector-grey: 93, 104, 114;
+    --vector-storm: 71, 57, 57;
+    --vector-dark: 41, 40, 49;
+    --vector-vanta: 9, 0, 13;
+}
+ 
+blockquote, div.blockquote {
+    background-color: rgb(var(--blockquote-background-color));
+}
+ 
+:is(#page-content table:not(.form), table.wiki-content-table) th {
+    background-color: rgb(var(--basalt-overtone));
+}
+ 
+#main-content > .page-tags::before {
+    background-color: rgb(var(--basalt-secondary-color));
+}
+ 
+div:is(.authorlink-wrapper .authorbox) {
+    background-color: rgb(var(--basalt-secondary-color));
+    box-shadow: none;
+}
+ 
+div.razer {
+box-shadow: 0px 4px 9px rgb(138, 164, 255, 0.2);
+}
+ 
+.fncon {
+background-color: var(--basalt-secondary-color);
+ 
+color: var(--basalt-alternate-color);
+ 
+}
+
+:root:lang(zh) {
+ 
+/*-----Lightmode Variant-----*/
+ 
+--basalt-main-text-color: 31, 28, 31;
+--link-volume: uppercase;
+--basalt-background-color: 237, 237, 237;
+--header-logo: url("http://scp-sandbox-3.wikidot.com/local--files/sgc2c/pwnb.png");
+--header-title:"基金會";
+--header-subtitle:"照亮黑暗";
+--basalt-secondary-color: 207, 207, 207;
+--link-color: 5, 56, 85;
+--basalt-sub-text-color: 43, 36, 58;
+--side-bar-link-color-hover: var(--basalt-light-text-color);
+--side-bar-heading-background-color: var(--admo-color-dim);
+--top-bar-dropdown-link-color-hover: var(--basalt-light-text-color);
+--login-status-text-color-hover: var(--basalt-light-text-color);
+--selection-text-color: var(--basalt-light-text-color);
+--tab-hover-background-color: var(--basalt-dark-element-color);
+--tab-selected-background-color: var(--basalt-th-background-color);
+--image-caption-background-color: var(--basalt-tertiary-color);
+--top-bar-link-color: 5, 56, 85;
+--basalt-overtone: 69, 69, 69;
+--general-border-color: 180, 180, 180;
+--basalt-tertiary-color: 217, 217, 217;
+--top-bar-dropdown-link-color: 14, 14, 18;
+--top-bar-dropdown-background: 245, 245, 245;
+--top-bar-link-color: 14, 14, 18;
+--top-bar-link-background-hover-alt: 14, 14, 18;
+--search-icon-color: var(--basalt-overtone);
+--swatch-background: 237, 237, 237;
+--astersize: 50;
+--vector-midtone: 212, 212, 212;
+--scrollbar-thumb-color: 31, 28, 31;
+--scrollbar-track-color: 237, 237, 237;
+--footer-link-color: 87, 84. 91;
+--backdrop: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='4' height='4' viewBox='0 0 4 4'%3E%3Cpath fill='%23cae3ff' fill-opacity='0.4' d='M1 3h1v1H1V3zm2-2h1v1H3V1z'%3E%3C/path%3E%3C/svg%3E");
+--tilesize: 0.2;
+--_reserved: 2, 0, 47;
+ /*------- oheader Colors  -------*/
+ 
+    --vector-clay: 111, 103, 118;
+    --vector-desertblue: 126,158,153;
+    --vector-jean: 124,161,192;
+    --vector-turquoise: 57, 172, 172;
+    --vector-deep: 51, 83, 128;
+    --vector-peachy: 230, 173, 153;
+    --vector-pink: 212, 170, 170;
+    --vector-bubblegum: 244, 113, 146;
+    --vector-purp: 87, 62, 116;
+    --vector-mimosa: 96, 88, 120;
+    --vector-red: 172, 83, 84;
+    --vector-danger: 210, 45, 47;
+    --vector-orange: 230, 128, 81;
+    --vector-sandy: 198, 169, 83;
+    --vector-mint:66, 233, 162;
+    --vector-wasabi: 201, 209, 117;
+    --vector-enki: 110, 170, 120;
+    --vector-green: 0, 150, 90;
+    --vector-forest: 76, 144, 103;
+    --vector-white: 237, 237, 237;
+    --vector-grey: 175, 192, 195;
+    --vector-storm: 90, 91, 91;
+    --vector-dark: 12, 23, 20;
+    --vector-vanta: 0, 0, 0;
+ 
+}
+.yui-navset.yui-navset-top>ul.yui-nav li.selected::after {
+border-style: none !Important;
+}
+.bibitems .bibitem, .footnotes-footer .footnote-footer {
+font-size: 1em;
+font-weight: 500;
+}
+ 
+.yui-navset .yui-nav a em, .yui-navset .yui-navset-top .yui-nav a em {
+    font-weight: unset;
+    letter-spacing: .094rem;
+    font-size: .8rem;
+}
+
+/*-----Murder of the Universe Variant-----*/
+ 
+:root:lang(zh) {
+ 
+  --basalt-background-color: 9,1,13;
+  --header-title-color: 255,5,70;
+  --header-logo: url("");
+  --header-title: "";
+  --header-subtitle: "";
+  --top-bar-link-color: 156, 23, 59;
+  --side-bar-link-color: 255,5,70;
+  --scrollbar-thumb-color: 255,5,70;
+  --general-border-color: 69, 3, 39;
+  --header-font-primary: "Overpass Mono", serif;
+  --basalt-secondary-color: 9,1,13;
+  --link-color:12, 230, 242;
+  --footer-link-color:12, 230, 242;
+  --bottom-area-text-color: 102, 15, 49;
+  --basalt-sub-text-color: 156, 23, 59;
+  --button-text-color: 255, 5, 70;
+  --abstractor: hidden;
+  --h-border-color: 255, 5, 70;
+  --dark-color: 9, 1, 13;
+  --search-icon-color: 156, 23, 59;
+  --swatch-menubg-black-color: 9, 1, 13;
+  --top-bar-link-background-hover-alt: 23, 0, 29;
+  --link-font-primary: 'Overpass Mono' !important;
+  --link-volume: uppercase;
+  --scrollbar-track-color: 18, 18, 18;
+  --basalt-focus-color: var(--basalt-alternate-color);
+  --basalt-undertone: 9, 1, 13;
+  --swatch-menutxt-dark-color: 39, 0, 34;
+  --basalt-main-text-color: 224, 219, 220;
+  --basalt-bright-element-color: var(--basalt-alternate-color);
+  --basalt-alternate-color:255, 5, 70;
+  --title-size: 1.5rem;
+  --subtitle-size: .825rem;
+  --button-hover-text-color: var(--basalt-tertiary-color);
+  --header-border-width: .125rem;
+  --header-border-color: var(--basalt-tertiary-color);
+  --author-triangle: 0;
+  --basalt-tertiary-color: 0, 152, 219,
+  --basalt-dark-element-color: 50, 14 70;
+  --basalt-overtone: 23, 0 , 29;
+  --top-bar-dropdown-link-color: 164, 164, 164;
+  --top-bar-dropdown-background-hover: 74, 64, 74;
+  --swatch-background: 6, 13, 31;
+  --swatch-text-general: 255, 5, 70;
+  --selection-background-color: 145, 120, 145;
+  --tab-focus-text-color: 26, 26, 26;
+  --tab-hover-background-color: 156, 23, 59;
+  --tab-selected-background-color: 255, 5, 70;
+  --basalt-positive-color: var(--vector-peachy);
+  --basalt-cancel-color: var(--vector-green);
+  --vector-midtone: 102, 15, 49;
+  --link-active-color: var(--basalt-alternate-color);
+  --link-newpage-color: 255, 5, 70;
+  --login-status-text-color: 255, 5, 70;
+  --login-status-link-background-hover: 9, 1, 13;
+  --basalt-light-text-color: var(--light-color);
+  --link-visited-color: 255, 5, 70;
+  --header-background-color: var(--basalt-background-color);
+  --side-bar-resources-background-color: var(--basalt-alternate-color), 0;
+  --side-bar-heading-text-color-hover: 0, 0, 0;
+  --side-bar-heading-background-color: var(--dark-color);
+  --side-bar-background-color: 9, 0, 13;
+  --side-bar-button-background-hover: 255, 5, 70;
+  --side-bar-link-background-hover: 9, 0, 13;
+  --hr-color: 71, 71, 71;
+  --dark-link: 106, 64. 100;
+  --title-border-color: var(--h-border-color);
+  --blockquote-border-color: var(--hr-color);
+  --image-caption-background-color: var(--basalt-secondary-color);
+  --footnote-background-color: var(--basalt-secondary-color);
+  --bottom-area-background-color: var(--basalt-secondary-color);
+  --light-color: 246, 254, 242;
+ 
+ /*------- oheader Colors  -------*/
+ 
+    --vector-clay: 165, 147, 165;
+    --vector-desertblue: 40, 67, 76;
+    --vector-jean: 0, 152, 219;
+    --vector-turquoise: 104, 172, 169;
+    --vector-deep: 6, 24, 46;
+    --vector-peachy: 255, 163, 134;
+    --vector-pink: 195, 136, 144;
+    --vector-bubblegum: 255, 54, 106;
+    --vector-purp: 65,0,56;
+    --vector-mimosa: 102, 15, 49;
+    --vector-red: 255, 5, 70;
+    --vector-danger: 156, 23, 59;
+    --vector-orange: 255, 142, 29;
+    --vector-sandy: 255, 223, 134;
+    --vector-mint: 12 230 242;
+    --vector-wasabi: 107, 163, 87;
+    --vector-enki: 94, 99, 66;
+    --vector-green: 60, 113, 99;
+    --vector-forest: 49, 93, 82;
+    --vector-white: 234, 238, 237;
+    --vector-grey: 115, 122, 120;
+    --vector-storm: 33, 26, 37;
+    --vector-dark: 9, 1, 13;
+    --vector-vanta: 0, 0, 0;
+}
+ 
+blockquote, div.blockquote {
+    background-color: rgb(var(--blockquote-background-color));
+}
+ 
+#main-content > .page-tags::before {
+    background-color: rgb(var(--basalt-secondary-color));
+}
+ 
+div:is(.authorlink-wrapper .authorbox) {
+    background-color: rgb(var(--basalt-secondary-color));
+    box-shadow: none;
+}
+ 
+div.razer {
+        box-shadow: 0px 4px 9px rgba(75, 21, 22, .2);
+}
+ 
+.fncon {
+background-color: var(--basalt-secondary-color);
+ 
+color: var(--basalt-alternate-color);
+ 
+}
+ 
+#page-content div:is(.inter) {
+background-color: rgb(var(--basalt-primary-color), 0.3);
+}
+ 
+.yui-navset.yui-navset-top>ul.yui-nav li.selected::after {
+border-style: none !Important;
+}
+.bibitems .bibitem, .footnotes-footer .footnote-footer {
+font-size: 1em;
+font-weight: 500;
+}
+:is(#page-content table:not(.form), table.wiki-content-table) td {
+    background-color: rgb();
+}
+
+[[/code]]
+[[/collapsible]]
+[[/iftags]]
+
+[[div_]]
+[[module css]]
+@import url("https://scp-wiki.wdfiles.com/local--code/theme%3Aeigenmachine/1");
+[[/module]]
+
+[[include :scp-wiki:component:interwiki-style
+| priority=3
+| theme=https://scp-wiki.wdfiles.com/local--code/theme%3Aeigenmachine/1
+]]
+
+
+>[[ift{$delete}gs -外觀主題]]
+>[[iftags]]
+[[module css]]
+@import url("https://scp-wiki.wdfiles.com/local--code/theme%3Aeigenmachine/2");
+[[/module]]
+[[include :scp-wiki:component:interwiki-style
+| priority=4
+| theme=https://scp-wiki.wdfiles.com/local--code/theme%3Aeigenmachine/2
+]]
+>[[/iftags]]
+>[[/ift{$delete}gs]]
+
+>[[ift{$light}gs -外觀主題]]
+>[[iftags]]
+[[module css]]
+@import url("https://scp-wiki.wdfiles.com/local--code/theme%3Aeigenmachine/3");
+[[/module]]
+[[include :scp-wiki:component:interwiki-style
+| priority=5
+| theme=https://scp-wiki.wdfiles.com/local--code/theme%3Aeigenmachine/3
+]]
+>[[/iftags]]
+>[[/ift{$light}gs]]
+
+
+>[[ift{$murder}gs -外觀主題]]
+>[[iftags]]
+[[module css]]
+@import url("https://scp-wiki.wdfiles.com/local--code/theme%3Aeigenmachine/4");
+[[/module]]
+[[include :scp-wiki:component:interwiki-style
+| priority=6
+| theme=https://scp-wiki.wdfiles.com/local--code/theme%3Aeigenmachine/4
+]]
+>[[/iftags]]
+>[[/ift{$murder}gs]]
+
+
+
+
+
+[[/div]]
+
+[[module css]]
+:root:lang(zh) {
+    --mono-font: var(--mono-font-primary);
+    --mono-font-primary: 'Fragment Mono', monospace;
+    --body-font: var(--body-font-primary);
+    --body-font-primary: 'Zen Kaku Gothic Antique', sans-serif;
+    --header-font: var(--header-font-primary);
+    --header-font-primary: 'Poppins';
+    --UI-font-primary: 'Poppins';
+
+    --title-font: var(--UI-font-primary);
+    --link-font-primary: 'Poppins';
+
+    --title-mobile:"P.M.中心";
+    --subtitle-mobile:"高級研究";
+    --header-title:"PILCROW-MINKOWSKI";
+    --header-subtitle:"高級研究中心";
+    --custom-header: "自訂備忘 - 在此輸入標題";
+}
+
+div.underwatch_memo {
+    --memo-heading: "你已獲選為受監督者議會效命";
+}
+ 
+div.deletions_memo {
+    --memo-heading: "本檔案已標記為刪除";
+}
+
+[[/module]]

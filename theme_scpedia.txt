@@ -247,9 +247,9 @@ div#extra-div-1::before {
     left: 18rem;
 }
 div#extra-div-1::after {
-    content: var(--header-subtitle, "來源, 目錄, 簡述");
-    font-size: 2em;
-    top: 4.2rem;
+    content: var(--header-subtitle, "採源, 編錄, 簡述");
+    font-size: 1.625em;
+    top: 4.7rem;
     left: 21rem;
 }
 
@@ -264,7 +264,7 @@ div#extra-div-1::after {
         content: var(--header-title, "SCP 基金會");
     }
     #header h2::before {
-       content: var(--header-subtitle, "來源, 目錄, 簡述");
+       content: var(--header-subtitle, "採源, 編錄, 簡述");
     }
     div#extra-div-1::before, div#extra-div-1::after { display: none; }
 }
