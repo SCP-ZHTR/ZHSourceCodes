@@ -72,19 +72,19 @@ padding: 5px;
 
 將以下文字複製到你想導入本主題的頁面上：
 
-> {{@@[[include :scp-wiki:theme:bedrock]]@@}}
-> {{@@[[include :scp-wiki:theme:eigenmachine]]@@}}
+> {{@@[[include :scp-zh-tr:theme:bedrock]]@@}}
+> {{@@[[include :scp-zh-tr:theme:eigenmachine]]@@}}
 
 插入以下參數以調到//刪除部//模式：
-> {{@@[[include :scp-wiki:theme:eigenmachine delete=a]]@@}} //[https://scp-sandbox-3.wikidot.com/eigend-dark-test （預覽）]//
+> {{@@[[include :scp-zh-tr:theme:eigenmachine delete=a]]@@}} //[https://scp-sandbox-3.wikidot.com/eigend-dark-test （預覽）]//
 
 插入以下參數以調到//無障礙（亮色）//模式：
-> {{@@[[include :scp-wiki:theme:eigenmachine light=a]]@@}} //[https://scp-sandbox-3.wikidot.com/eigend-light-test （預覽）]//
+> {{@@[[include :scp-zh-tr:theme:eigenmachine light=a]]@@}} //[https://scp-sandbox-3.wikidot.com/eigend-light-test （預覽）]//
 
 插入以下參數以調到//murder of the universe//模式：
-> {{@@[[include :scp-wiki:theme:eigenmachine murder=a]]@@}} //[https://scp-sandbox-3.wikidot.com/eigend-murder-test （預覽）]//
+> {{@@[[include :scp-zh-tr:theme:eigenmachine murder=a]]@@}} //[https://scp-sandbox-3.wikidot.com/eigend-murder-test （預覽）]//
 
-每種模式均有獨特的着色div，可以按上方的連結看看！現時正在開發懷舊模式，當我完成所有變體代碼後就會將其插到本頁。
+每種模式均有獨特的着色div，可以按上方的連結看看！現時正在開發懷舊模式，當完成所有變體代碼後就會將其插到本頁。
 
 + 基本
 @@ @@
