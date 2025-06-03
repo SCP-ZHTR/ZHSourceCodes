@@ -1302,7 +1302,7 @@ div class {{loading-bar}}
 ||  [[span class="silk"]]Silkscreen[[/span]] || 特殊字體 || class {{silk}} ||
 ||  [[span class="VT323"]]VT323[[/span]] || 特殊字體 || class {{VT323}} ||
 
-[[span class="wide"]]fullwidth[[/span]] using class {{wide}}
+利用class {{wide}}使文字[[span class="wide"]]間隔加寬[[/span]]
 @@ @@
 
 [[/=]]
