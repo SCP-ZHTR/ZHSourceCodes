@@ -200,6 +200,8 @@
 
 * **[*/system:page-tags/tag/王尚毅特工 王尚毅特工]** - 標註在與特工王尚毅相關的頁面上。
 
+* **[*/system:page-tags/tag/趙禮竺特工 趙禮竺特工]** - 標註在與特工[[[*personnel-and-character-dossier-zh#agent-jau-li-ju|趙禮竺]]]相關的頁面上。
+
 * **[*/system:page-tags/tag/koschei.aic koschei.aic]** - 標註在與人工智能專員[[[*personnel-and-character-dossier-zh#Koschei.aic|Koschei.aic]]]相關的頁面上。
 
 * **[*/system:page-tags/tag/山本五十嵐 山本五十嵐]** - 標註在與研究員[[[*personnel-and-character-dossier-zh#Igarashi|山本五十嵐]]]相關的頁面上。

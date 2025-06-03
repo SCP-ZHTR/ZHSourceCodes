@@ -1,0 +1,16 @@
+[[include character:start]]
+
+----
+
++++++* 特工趙禮竺
+
+繁中部紀錄和資訊安全管理部（RAISA）[[[scp-zh-707|副主任隨扈]]]，乾淨俐落的極簡派女子，[[[three-assassinations-and-your-night|精通各種戰鬥與殺戮技巧]]]使其成為Site-ZH-11最強大的特工。[[[unsalted|挑食到教各路廚師髮指]]]的地步，但天性的肉體仍舊給了他驚人怪力與體魄。
+
+[[collapsible show="我的心是大空洞。" hide="而你無須將其填滿。"]]
+
+[[[scp-zh-778|會刻意避談自己空虛的靈魂]]]，就彷彿不存在那樣。他與[[[merry-christmas-mkm|RAISA副主任真紀博士正在交往]]]，理所當然的並不能改變什麼。
+[[/collapsible]]
+
+所有被標記為 //特工趙禮竺// 的檔案都可以在[/system:page-tags/tag/特工趙禮竺 這裡]找到。
+
+[[include character:end]]

@@ -96,7 +96,7 @@
 [[div class="content-panel standalone series" style="background-color: #FFFFFF;"]]
 + 基金會的特工[[# agents]]
 [[include character:agent-willow]]
-
+[[include character:agent-jau-li-ju]]
 [[/div]]
 
 [[div class="content-panel standalone series" style="background-color: #FFFFFF;"]]
