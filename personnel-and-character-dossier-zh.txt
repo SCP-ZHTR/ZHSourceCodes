@@ -1,7 +1,3 @@
-[[include :topia:credit:start-standalone]]
-旁邊超棒的浮動式目錄來自於日分的[http://scp-jp.wikidot.com/tag-list タグリスト]頁面。
-[[include :topia:credit:end]]
-
 [[module css]]
 /* This is used on The Specter's entry. */
 @import url('https://fonts.googleapis.com/css?family=Ruslan+Display');
@@ -23,30 +19,12 @@
 [[/size]]
 [[/div]]
 [[=]]
-
 本檔案僅限**[[[security-clearance-levels#toc5| 4級]]]**以上人員查詢。
-
 [[/=]]
 
 
-[!-- 浮動式目錄開頭 --]
-[[div class="toc-box"]]
-[[div class="pseudo-title"]]
-**目錄**
-[[/div]]
-[[collapsible show="打開" hide="收起"]]
-----
-[[toc]]
-[[/collapsible]]
-[[/div]]
-[!-- 浮動式目錄內臟 --]
-[[module CSS]]
-.toc-box {position: fixed;right: 5px;bottom: 3.2em;padding-left: 0;padding-right: 0;}.toc-box .pseudo-title {margin: 0.2em 0;padding: 0 2em;text-align: center;}.toc-box hr {margin: 0;padding: 0;background-color: transparent;border: none;border-bottom: 1px dashed gray;}.toc-box #toc {font-size: 95%;min-width: 80px;max-width: 200px;word-break: break-all;border: none!important;}.toc-box #toc .title,.toc-box #toc #toc-action-bar,.toc-box #toc #toc-action-bar a {display: none!important;}.toc-box {margin: 1em auto 1em 0;padding: 0em 0.5em;border: 1px dashed gray;background-color: #F7F7F7;display: table;}.toc-box #toc-list div {margin-left: 0!important;}.toc-box .collapsible-block-unfolded-link,.toc-box .collapsible-block-folded {text-align: center;}@media (max-width: 767px) {.toc-box {animation-name: clear; animation-duration: 1s; animation-delay: 1s; animation-fill-mode: forwards;}.toc-box:hover {animation: none;}}@keyframes clear {to {opacity: 0.45;}}
-[[/module]]
-[!-- 浮動式目錄結尾 --]
-
-
-
+[[tabview]]
+[[tab 基金會的研究員]]
 [[div class="content-panel standalone series" style="background-color: #FFFFFF;"]]
 + 基金會的研究員[[# researchers]]
 [[include character:dr-ain]]
@@ -93,12 +71,23 @@
 
 [[/div]]
 
+
+
+[[/tab]]
+[[tab 基金會的特工]]
+
 [[div class="content-panel standalone series" style="background-color: #FFFFFF;"]]
 + 基金會的特工[[# agents]]
 [[include character:agent-willow]]
 [[include character:agent-jau-li-ju]]
 [[/div]]
 
+
+
+[[/tab]]
+
+
+[[tab 基金會的主管]]
 [[div class="content-panel standalone series" style="background-color: #FFFFFF;"]]
 + 基金會的主管[[# directors]]
 [[include character:dir-ad]]
@@ -117,6 +106,10 @@
 
 [[/div]]
 
+[[/tab]]
+
+
+[[tab 基金會的其他]]
 [[div class="content-panel standalone series" style="background-color: #FFFFFF;"]]
 + 基金會的其他[[# researchers]]
 
@@ -129,7 +122,10 @@
 [[include character:maddy]]
 
 [[/div]]
+[[/tab]]
 
+
+[[tab 非基金會人物]]
 [[div class="content-panel standalone series" style="background-color: #FFFFFF;"]]
 + 非基金會人物[[# people-of-interest]]
 
@@ -142,22 +138,8 @@
 [[include character:deng-zhao-hua]]
 
 [[/div]]
-@@@@
-@@@@
-@@@@
-@@@@
-@@@@
-@@@@
-@@@@
-@@@@
-@@@@
-@@@@
-@@@@
-
-+++++ 如何添加角色?
-[[=]]
-[[include component:coltop show=詳細的說明|hide=一份繁中原創的角色列表]]
-[[<]]
+[[/tab]]
+[[tab 如何添加角色?]]
 在這裡我們用來記錄了出現在各篇原創作品中活躍的人物們，讓你們可以更好的了解他們。你也可以進行列表上角色的相關創作。本列表經過一次大規模更新，更新前的內容可以在[[[personnel-and-character-dossier-zh-arc|這裡]]]找到。
 
 若你想要添加一名新的角色，請先確保該角色符合以下兩個條件之一：
@@ -214,6 +196,5 @@
 [[module NewPage size="20" category="character:" button="我已經準備好添加角色了"]]
 [[/div]]
 
-[[/<]]
-[[include component:colend nohide=true]]
-[[/=]]
+[[/tab]]
+[[/tabview]]
