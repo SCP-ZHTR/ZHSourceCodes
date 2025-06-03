@@ -2867,11 +2867,11 @@ name= "willow特工"
 description = "標註在與Willow特工相關的頁面上。"
 
 [[tags]]
-name= "：王尚毅特工"
+name= "王尚毅特工"
 description = "標註在與特工王尚毅相關的頁面上。"
 
 [[tags]]
-name= "：趙禮竺特工"
+name= "趙禮竺特工"
 description = "標註在與特工趙禮竺相關的頁面上。"
 
 [[tags]]
