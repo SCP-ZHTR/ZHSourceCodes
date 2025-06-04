@@ -3105,13 +3105,13 @@ font-weight: 500;
 
     --header-title:"PILCROW-MINKOWSKI";
     --header-subtitle:"高級研究中心";
-    --custom-header: "自訂備忘 - 在此輸入標題";
+    --custom-header: "自訂備忘 - 在此輸入標題"; 
 }
-
 @media (max-width: 600px) {
 :root:lang(zh) {
     --header-title: var(--title-mobile);
     --header-subtitle: var(--subtitle-mobile);
+}
 }
 
 div.underwatch_memo {
