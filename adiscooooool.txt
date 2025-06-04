@@ -40,6 +40,10 @@
 [[=image https://i.imgur.com/AYcrUwh.gif width="150px"]]
 ----
 ----
++* [[[zhongyuan-2024|中元恐怖——早梅詩]]]
+++* 活動共同舉辦者
+----
+----
 [[/=]]
 @@ @@
 @@ @@
@@ -307,6 +311,50 @@
 |title=AbyssDream的提案一
 |sub-title=創作
 |blerb=**那麼，走吧，你與我。**
+]]
+@@ @@
+@@ @@
+[[include :scp-zh-tr:component:scp-hover-box-structure
+|container-number=sixteen
+|corner-cutout=1em
+|container-bgcolor=rgb(237, 237, 237)
+|container-txtcolor=rgb(36, 0, 0)
+|container-hover-bgcolor=rgb(146, 23, 23)
+|container-hover-txtcolor=rgb(255, 34, 0)
+|container-stroke-color=rgba(180, 35, 35)
+|container-hover-stroke-color=rgb(242, 199, 80)
+|background-url= https://upload.wikimedia.org/wikipedia/commons/8/8d/Kaohsiung_Refinery.jpg
+|background-vertical-position=40%
+|link-fill-color=rgba(252, 252, 252)
+|link-stroke-width=0.125rem
+|link-stroke-color=rgba(12, 12, 12)
+|anchor=351
+|link=http://scp-zh-tr.wikidot.com/scp-zh-351
+|title=SCP-ZH-351
+|sub-title=煉油廠加工原料
+|blerb=**不記得屍體的身分不是不作為的理由。**
+]]
+@@ @@
+@@ @@
+[[include :scp-zh-tr:component:scp-hover-box-structure
+|container-number=seventeen
+|corner-cutout=1em
+|container-bgcolor=rgb(237, 237, 237)
+|container-txtcolor=rgb(36, 0, 0)
+|container-hover-bgcolor=rgb(146, 23, 23)
+|container-hover-txtcolor=rgb(255, 34, 0)
+|container-stroke-color=rgba(180, 35, 35)
+|container-hover-stroke-color=rgb(242, 199, 80)
+|background-url= https://i.imgur.com/DZ6rUNZ.png
+|background-vertical-position=40%
+|link-fill-color=rgba(252, 252, 252)
+|link-stroke-width=0.125rem
+|link-stroke-color=rgba(12, 12, 12)
+|anchor=715
+|link=http://scp-zh-tr.wikidot.com/scp-zh-715
+|title=SCP-ZH-715
+|sub-title=梅是「門禁」
+|blerb=**SCP-ZH-715內仍有6名租約尚未到期之一般民眾。**
 ]]
 @@ @@
 **等待重寫：**
