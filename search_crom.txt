@@ -25,7 +25,7 @@
 [[include :crom:wiki-search
 | lang=zh-tw
 | wiki=scp-wiki-zh-tr
-| tagconfig=http://scp-zh-tr.wdfiles.com/local--code/component:tag-search/1
+| tagconfig=https://scp-zh-tr.wdfiles.com/local--code/component%3Atag-search/1
 ]]
 [[collapsible show="備用搜尋引擎" hide="關閉"]]
 [[iframe https://vomiter-scp-zh.github.io/google-search-for-scp-zh height="800px" width="800px"]]
