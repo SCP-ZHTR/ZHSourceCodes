@@ -15,7 +15,7 @@
 [[/module]]
 
 [[include info:start]]
-所有原創和本頁的圖像都是由[[user Kikunai]]繪製/拍攝。
+所有原創和本頁的圖像都是由[[*user Kikunai]]繪製/拍攝。
 [[include info:end]]
 
 [[div class="papernote"]]
@@ -49,7 +49,7 @@ Tumblr在[https://www.tumblr.com/kikunai 這邊]，有比推特更多的雜談�
 [[=]]
 ++++ __原創：__
 
-++++++ [/portals-101 Site-ZH-42物流及運輸部門（定點運輸組）入門講座，又稱傳送門101] 
+++++++ [/portals-101 Site-ZH-42物流及運輸部門（定點運輸組）入門講座，又稱傳送門101] [[footnote]]2025年6月展出作品🎉[[/footnote]]
 > //奇蹟在正確的情況下會變得常見。//我希望大家即使在打盹，也務必將剛才的一句話聽進去，待在這個搞魔法工程的站點非常受用。
 ++++++ [/attempt-of-type-green-and-bluenullification-via-aether-rewea 重新編織乙太質以無效化綠型和藍型異常性質之嘗試] 
 > 至於授權，在台灣如蹈水火的三垣又能對我做甚麼呢？我相信他們不會介懷這等小事。
