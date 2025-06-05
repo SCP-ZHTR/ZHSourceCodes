@@ -315,16 +315,23 @@ ZH分部：
 [[/tab]]
 [[tab 短篇翻譯練習推薦]]
 這裡放了一些我找到而且覺得有趣的EN短篇(所以我覺得讀起來不太好玩的可能就不會丟在這)，可供想練習翻譯的翻譯者取用。不定時更新。有些已經被列在「我喜歡的文章」中的檔案便不再多列在此。
+
 [[[https://scp-wiki.wikidot.com/scp-8022|SCP-8022]]] Build Your **Dreams**, One **Brick** at a Time.
 > Can you turn around for a second?
+[[[https://scp-wiki.wikidot.com/scp-8043|SCP-8043]]] On and On and On and On
+> And then the cycle repeats… until you're done. But you keep it with you, I kept it with me. The way you felt. There's still a shadow of it. Like I said, you take what you can get.
 [[[https://scp-wiki.wikidot.com/scp-8047|SCP-8047]]] Writhing, Squirming, **Living**
 > One of the greatest challenges of the Fire Suppression Department is the effect that fatal containment breaches on the psyche of the average staff member. 
+[[[https://scp-wiki.wikidot.com/scp-8281|SCP-8281]]] Transformations
+> The transformation process is reported to be both painless and pleasant by any subjects who retain the ability to communicate following exposure to the object.
 [[[https://scp-wiki.wikidot.com/scp-8594|SCP-8594]]] Leaves From the Vine
 > SCP-8594-2 will not pass until SCP-8594-1 says their goodbyes.
 [[[https://scp-wiki.wikidot.com/scp-8630|SCP-8630]]] Pin the Dart on the Donkey
 > Note that despite three gunshots being heard by witnesses, only one bullet casing was found in the sniper's nest. 
 [[[https://scp-wiki.wikidot.com/scp-8816|SCP-8816]]] The Curtains Were (Fucking) Evil
 > Summers suddenly begins stomping his right foot repeatedly, startling Gheist.
+[[[https://scp-wiki.wikidot.com/scp-8905|SCP-8905]]] One must imagine Sisyphus getting a promotion
+> The anomaly is highly resistant to attempts to unlock it: traditional lockpicking, physical damage, and anomalous means to bypass have not shown signs of success. 
 [[[https://scp-wiki.wikidot.com/scp-8963|SCP-8963]]] Inside Job
 > And sure enough, over the course of the final test we had come to know him as a humble, soft-spoken, down-to-earth fellow.
 [[[https://scp-wiki.wikidot.com/pattern-recognition|Pattern Recognition]]]
