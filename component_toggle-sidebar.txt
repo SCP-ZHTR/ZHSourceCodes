@@ -19,10 +19,8 @@
 
 ----
 
-[[/iftags]]
 
-[[div [[iftags -組件]]style="display: none"[[/iftags]]]]
-[[module CSS show="true"]]
+[[code type="CSS"]]
 
 /* source: http://ah-sandbox.wikidot.com/component:collapsible-sidebar-x1 */
  
@@ -31,7 +29,7 @@
         top: 0.5em;
         left: 0.5em;
         z-index: 5;
-        font-family: 'Nanum Gothic', san-serif;
+        font-family: 'Lucida Sans Unicode','Lucida Grande','Lucida Sans','Times New Roman',Helvetica,Roboto,sans-serif;
         font-size: 30px;
         font-weight: 700;
         width: 30px;
@@ -42,12 +40,14 @@
         background-color: #fff;
         border-radius: 3em;
         color: #888;
+        pointer-events: auto;
 }
  
-@media (min-width: 768px) {
+@media not all and (max-width: 767px) {
  
     #top-bar .mobile-top-bar {
         display: block;
+        pointer-events: none;
     }
  
     #top-bar .mobile-top-bar li {
@@ -55,7 +55,7 @@
     }
  
     #main-content {
-        max-width: 708px;
+        max-width: 44.5rem;
         margin: 0 auto;
         padding: 0;
         transition: max-width 0.2s ease-in-out;
@@ -65,10 +65,11 @@
         display: block;
         position: fixed;
         top: 0;
-        left: -20em;
-        width: 17.75em;
+        left: -18rem;
+        width: 15.25rem;
         height: 100%;
         margin: 0;
+        overflow-x: hidden;
         overflow-y: auto;
         z-index: 10;
         padding: 1em 1em 0 1em;
@@ -81,7 +82,7 @@
     #side-bar:target {
         left: 0;
     }
-    #side-bar:focus-within:not(:target) {
+    #side-bar:focus-within {
         left: 0;
     }
  
@@ -92,7 +93,7 @@
         height: 100%;
         top: 0;
         left: 0;
-        margin-left: 19.75em;
+        margin-left: 17rem;
         opacity: 0;
         z-index: -1;
         visibility: visible;
@@ -102,47 +103,11 @@
     #top-bar .open-menu a:hover {
         text-decoration: none;
     }
- 
-    /* FIREFOX-SPECIFIC COMPATIBILITY METHOD */
-    @supports (-moz-appearance:none) {
-    #top-bar .open-menu a {
-        pointer-events: none;
-    }
-    #side-bar:not(:target) .close-menu {
-        display: block;
-        pointer-events: none;
-        user-select: none;
-    }
- 
-    /* This pseudo-element is meant to overlay the regular sidebar button
-    so the fixed positioning (top, left, right and/or bottom) has to match */
- 
-    #side-bar .close-menu::before {
-        content: "";
-        position: fixed;
-        z-index: 5;
-        display: block;
- 
-        top: 0.5em;
-        left: 0.5em;
- 
-        border: 0.2em solid transparent;
-        width: 30px;
-        height: 30px;
-        font-size: 30px;
-        line-height: 0.9em;
- 
-        pointer-events: all;
-        cursor: pointer;
-    }
-    #side-bar:focus-within {
-        left: 0;
-    }
-    #side-bar:focus-within .close-menu::before {
-        pointer-events: none;
-    }
-    }
 }
 
+[[/code]]
+[[/iftags]]
+
+[[module CSS]]
+@import url(https://scp-wiki.wdfiles.com/local--code/component%3Atoggle-sidebar/1);
 [[/module]]
-[[/div]]
