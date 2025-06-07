@@ -313,7 +313,7 @@ span.flip {
 
 @@ @@
 
-[[include :scp-zh-tr:component:carousel
+[[include :scp-wiki:component:carousel
 | images=https://i.imgur.com/z8ra5Zu.png,https://i.imgur.com/nu9psym.png,https://i.imgur.com/RIVHHKf.png
 | caption=Site-ZH-11站徽從1959年[[footnote]]1959年繁中檔案館建立。[[/footnote]]、至1972年[[footnote]]1972年成功大學共產黨案導致RAISA-ZH與政府交惡。[[/footnote]]、以及1978年[[footnote]]1978年以李登輝就任RAISA-ZH主任為RAISA-ZH與政府修復關係的里程碑。[[/footnote]]的演變。
 | interval=3
@@ -649,7 +649,7 @@ table.heritage div.date p {
 || 2017 || Site-ZH-11引入人工智慧翻譯，文件翻譯科定位大幅改動，人手翻譯地位重整 ||
 || 2019 || 學科泛戰術化部門於Site-ZH-11成立，首任戰術學科主任蘇敬言就任至今 ||
 || 2022 || 時任RAISA-ZH副主任陳欣琪因背叛罪接受處決，第九任RAISA-ZH副主任真紀真接任至今 ||
-|| [[span class="futura"]]2025[[/span]] || [[span class="futura"]][[[SCP-ZH-424]]]納入Site-ZH-11及兩座主要觀察點供電系統，用電限制解除[[/span]] ||
+|| 2025 || [[[SCP-ZH-424]]]納入Site-ZH-11及兩座主要觀察點供電系統，用電限制解除 ||
 || [[span class="futura"]]2032[[/span]] || [[span class="futura"]]蘇敬言失蹤，戰術學科主任懸缺，學科泛戰術化部門改行圓桌管理[[/span]] ||
 [[/tab]]
 [[tab ＞展開站點歷史時間軸]]
@@ -909,19 +909,19 @@ table.heritage div.date p {
 
 [[row]]
 [[cell class="title"]]
-+++* [[span class="futura"]]###696969|2025年##[[/span]]
++++* ###696969|2025年##
 [[/cell]]
 [[/row]]
 
 [[row]]
 [[cell class="label"]]
-++++* [[span class="futura"]]###5BE2E4|6月##[[/span]]
+++++* ###5BE2E4|6月##
 [[/cell]]
 [[cell class="entry"]]
 [[div class="description"]]
-[[span class="futura"]]**連星**[[/span]]
+**連星**
 [[/div]]
-* [[span class="futura"]]6月1日：收容於Observation Post-ZH-11-2的[[[SCP-ZH-424]]]已建立星柱供電系統，以為Site-ZH-11及其兩處主要觀察站（Observation Posts-ZH-11-1,2）供應電力及其額外儲備。上述站點用電限制解除。[[/span]]
+* 6月1日：收容於Observation Post-ZH-11-2的[[[SCP-ZH-424]]]已建立星柱供電系統，以為Site-ZH-11及其兩處主要觀察站（Observation Posts-ZH-11-1,2）供應電力及其額外儲備。上述站點用電限制解除。
 [[/cell]]
 [[/row]]
 
