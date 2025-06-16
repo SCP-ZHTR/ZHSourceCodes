@@ -1,6 +1,7 @@
 [!-- https://scp-zh-tr.wikidot.com/fragment:scp-8084-0 --]
 [!-- https://scp-zh-tr.wikidot.com/fragment:scp-8084-1 --]
 
+[[include component:scp-meta-title-hiding css-style=classic]]
 =====
 [[include component:preview
 text=
@@ -49,9 +50,14 @@ text=
 display:none;
 }
 [[/module]]
-[[>]]
-[[module Rate]]
-[[/>]]
+
+[[include credit:start]]
+**項目編號：**SCP-8084 - 核武恐懼症：文化上的完全勝利
+**作者：**[[*user basirskipreader]] and [[*user FLOORBOARDS]]
+**原文：** https://scp-wiki.wikidot.com/scp-8084
+**譯者：**[[*user Pseudopoet]]
+[[include credit:end]]
+
 
 [[module ListPages category="fragment" parent="." order="title" limit="1" offset="@URL|0"]]
 %%content%%
