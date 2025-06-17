@@ -60,6 +60,7 @@
 [[[theme:admo|告誡主題]]]
 [[[theme:ad-abyssum|直至深淵 外觀主題]]] （戰術神學部）
 [[[theme:ad-abyssum-penumbra|直至深淵 外觀主題（半影版）]]]（戰術神學部）
+[[[theme:blankstyle|BLANKSTYLE CSS]]]（保衞43）
 [[[theme:broken-masquerade|毀壞假面 外觀主題CSS]]]
 [[[theme:expose|曝光 外觀主題]]]
 [[[theme:i57|設施-57黑色標記筆外觀主題]]]
@@ -84,7 +85,6 @@
 
 +++ 美觀性主題（Sigma-9）
 [[[theme:basalt|BASALT 外觀主題]]]
-[[[theme:blankstyle|BLANKSTYLE CSS]]]
 [[[theme:bedrock|基岩 外觀主題]]]
 [[[theme:classic|經典SCP基金會外觀主題]]]
 [[[component:darkbodytheme|暗黑之軀主題]]]
