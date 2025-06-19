@@ -176,7 +176,7 @@
 [[/div]]
 
 [[div class="other-lang"]]
-[http://scp-un.wikidot.com/ 更多其他語言]
+[http://scp-int.wikidot.com/unofficial:language-incubator-hub/ 更多其他語言]
 [[/div]]
 
 [[/collapsible]]

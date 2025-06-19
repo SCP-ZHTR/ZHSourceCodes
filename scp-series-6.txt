@@ -46,7 +46,7 @@
 * [[[SCP-5019]]] - LoOpy LiLLy
 * [[[SCP-5020]]] - InfestStation
 * [[[SCP-5021]]] - 長臂延展
-* [[[SCP-5022]]] - Kid Heads
+* [[[SCP-5022]]] - 子首
 * [[[SCP-5023]]] - 人類的原始需求
 * [[[SCP-5024]]] - The Wandering Library
 * [[[SCP-5025]]] - Training Boyfriend
@@ -86,7 +86,7 @@
 * [[[SCP-5059]]] - Roll Out!
 * [[[SCP-5060]]] - North Sentinel Planet
 * [[[SCP-5061]]] - A Toast To Elizabeth Connors, A Brilliant Actress
-* [[[SCP-5062]]] - The Cleansing Room
+* [[[SCP-5062]]] - 潔淨室
 * [[[SCP-5063]]] -  Driving The Turtles To Market
 * [[[SCP-5064]]] - Safety Dance
 * [[[SCP-5065]]] - Man of Many Mysteries

@@ -109,7 +109,7 @@
 * [[[SCP-8081]]] - [ACCESS DENIED]
 * [[[SCP-8082]]] - The Wild Hunt
 * [[[SCP-8083]]] - [ACCESS DENIED]
-* [[[SCP-8084]]] - [ACCESS DENIED]
+* [[[SCP-8084]]] - 核武恐懼症：文化上的完全勝利
 * [[[SCP-8085]]] - 本來就是自然的
 * [[[SCP-8086]]] - [ACCESS DENIED]
 * [[[SCP-8087]]] - [ACCESS DENIED]
@@ -303,7 +303,7 @@
 * [[[SCP-8267]]] - [ACCESS DENIED]
 * [[[SCP-8268]]] - [ACCESS DENIED]
 * [[[SCP-8269]]] - [ACCESS DENIED]
-* [[[SCP-8270]]] - [ACCESS DENIED]
+* [[[SCP-8270]]] - 幻牙
 * [[[SCP-8271]]] - [ACCESS DENIED]
 * [[[SCP-8272]]] - [ACCESS DENIED]
 * [[[SCP-8273]]] - [ACCESS DENIED]
@@ -393,7 +393,7 @@
 * [[[SCP-8353]]] - [ACCESS DENIED]
 * [[[SCP-8354]]] - [ACCESS DENIED]
 * [[[SCP-8355]]] - [ACCESS DENIED]
-* [[[SCP-8356]]] - [ACCESS DENIED]
+* [[[SCP-8356]]] - 選擇恐懼症：行差踏錯
 * [[[SCP-8357]]] - [ACCESS DENIED]
 * [[[SCP-8358]]] - [ACCESS DENIED]
 * [[[SCP-8359]]] - [ACCESS DENIED]
