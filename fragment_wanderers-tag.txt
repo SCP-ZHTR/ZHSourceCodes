@@ -1,5 +1,7 @@
 [[div style="display: inline-block; border-radius: 10px; border:dashed 1px #444444; background:#F5F5F5; float:top; width:96.5%; padding:10px" class="grey-block"]]
 + 流浪者圖書館標籤
+（原創請標上「原創 故事 wanderers」，翻譯請使用翻譯機）
+
 [[tabview]]
 [[tab 書架標籤]]
 施工喵咪
