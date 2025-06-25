@@ -178,6 +178,7 @@ __**SCP-978實驗紀錄████號——實驗日期： 2032/7/15 22:10**__
 [[module ListPages created_by="edward-knave" tags="翻譯" perPage="250" separate="no"]]
 # %%title_linked%% —— 評分：%%rating%% ／ 建檔時間：%%created_at|人類紀元1%Y年%m月%d日 %H:%M|agohover%%
 [[/module]]
+* [http://scp-zh-tr.wikidot.com/deleted:scp-3681-jp SCP-3681-JP - 詠] —— 被刪除
 [[/tab]]
 [[tab 文本試現（截至星柱協議前）]]
 [!--NextNo.:twenty-nine--]
@@ -864,6 +865,8 @@ MSC-7「獌束」
  * [[[SCP-3799]]] - 降雪簡史
  * [[[SCP-078-JP]]] - 永恆懷爐
  * [[[SCP-1050]]] - 黑曜石警世碑
+ * [[[SCP-3546-JP]]] - 真桑岼佳（競賽馬） 
+ * [[span style="opacity:0;"]][http://scp-zh-tr.wikidot.com/deleted:troutsproposal Trout的提案 - 血、汗、淚（被刪除）][[/span]]
 
 
 [[div style="overflow:scroll;white-space:nowrap;"]]
