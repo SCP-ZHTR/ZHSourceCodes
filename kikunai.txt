@@ -85,7 +85,7 @@ Tumblr在[https://www.tumblr.com/kikunai 這邊]，有比推特更多的雜談�
 [[>]]
 [[collapsible show="Listpage" hide="收起"hideLocation="both"]]
 [[<]]
-[[module ListPages created_by="Kikunai" tags="+原創 -藝術作品" order="created_at desc"]]
+[[module ListPages created_by="Kikunai" tags="+原創 -藝術作品" order="created_at desc" perPage="500"]]
 %%title_linked%% （%%created_at%% | %%rating%%）
 [[/module]]
 [[/<]]
@@ -98,7 +98,7 @@ Tumblr在[https://www.tumblr.com/kikunai 這邊]，有比推特更多的雜談�
 +++ __藝術作品__
 @@ @@
 __本站收錄__
-[[module ListPages created_by="Kikunai" tags="+藝術作品 -翻譯" order="created_at desc" category="*" ]]
+[[module ListPages created_by="Kikunai" tags="+藝術作品 -翻譯" order="created_at desc" category="*" perPage="500"]]
 %%title_linked%% 【%%created_at%% | %%rating%%】
 [[/module]]
 ----
@@ -120,14 +120,14 @@ __本站收錄__
 [[=]]
 +++ __翻譯（項目）__
 @@ @@
-[[module ListPages created_by="Kikunai" tags="+翻譯 +scp" order="created_at desc"]]
+[[module ListPages created_by="Kikunai" tags="+翻譯 +scp" order="created_at desc" perPage="500"]]
 %%title_linked%% （%%created_at%% | %%rating%%）
 [[/module]]
 -----
 @@ @@
 +++ __翻譯（故事和一切文章）__
 @@ @@
-[[module ListPages created_by="Kikunai" tags="+翻譯 -scp" category="*" order="created_at desc"]]
+[[module ListPages created_by="Kikunai" tags="+翻譯 -scp" category="*" order="created_at desc" perPage="500"]]
 %%title_linked%% （%%created_at%% | %%rating%%）
 [[/module]]
 -----
