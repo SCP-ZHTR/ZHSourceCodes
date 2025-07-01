@@ -1,6 +1,6 @@
 [[div id="featured"]]
 [[tabview]]
-[[tab 6月作品展出]]
+[[tab 7月作品展出]]
 
 [!-- Left block --]
 [[div class="feature-block"]]
@@ -10,12 +10,12 @@ SCP作品展出
 [[/div]]
 [[div class="panel-body"]]
 [[div class="feature-title"]]
-[[[*scp-zh-802|SCP-ZH-802 - 利刃所向]]]
+[[[*scp-zh-232|SCP-ZH-232 - 幽靈船的逃犯]]]
 [[/div]]
 [[div class="feature-subtitle"]]
-作者：[[user Semibreve]]
+作者：[[user vomiter]]
 [[/div]]
-我就像個屍袋般，把自己裹得嚴嚴實實，麻木的等待著下一個感覺上差不多的目的地，並希望著沒人來打擾這份清閒。
+殘留物分析發現有較周遭土壤更高的含鹽量、焦炭以及遭輾壓的藤壺遺骸。
 [[/div]]
 [[div class="panel-footer"]]
 [[[*featured-scp-archive|查看以往展出的SCP作品]]]
@@ -29,12 +29,12 @@ SCP作品展出
 [[/div]]
 [[div class="panel-body"]]
 [[div class="feature-title"]]
-[[[assistantlog7795|]]]
+[[[unsalted|未若柳絮]]]
 [[/div]]
 [[div class="feature-subtitle"]]
-作者：[[user Polater]]
+作者：[[user Lostwhat]]
 [[/div]]
-此時我們倆第三次陷入沉默，不過這次不一樣，我們之間的溝通並沒有斷開，而是透過眼神與對方交換心意，為過去、現在、未來的事尋找合適的答案。
+「這是我一生一次的大戰爭，我不能輸。」真紀開始滑動相片，幾十張幾百張各種角度的蛋糕如流水般在她眼前流逝，足以感受到溫度，靠得太近的距離也令人發寒「幫幫我，我需要做出和這個一樣好的甜點，好嗎？」
 [[/div]]
 [[div class="panel-footer"]]
 [[[*featured-tale-archive|查看以往展出之故事]]]
@@ -50,13 +50,13 @@ SCP作品展出
 [[/div]]
 [[div class="panel-body"]]
 [[div class="feature-title"]]
-[[[*scp-3393|SCP-3393 僅供汝閱]]] 
+[[[*scp-6502|SCP-6502 哈威克公墓]]] 
 [[/div]]
 [[div class="feature-subtitle"]]
-作者：[[user Captain Kirby]] 
+作者：[[user bigslothonmyface]] 
 譯者：[[user Frederica Bernkastel]]
 [[/div]]
-人人都很特別。你只是個極端案例。
+你正在接受專門醫療設施的收容，這將持續到我們找到對你病況的治療方法為止。
 [[/div]]
 [[div class="panel-footer"]]
 [[[*featured-translation|查看以往展出的翻譯作品]]]
@@ -70,12 +70,12 @@ SCP作品展出
 [[/div]]
 [[div class="panel-body"]]
 [[div class="feature-title"]]
-[[[portals-101|Site-ZH-42物流及運輸部門（定點運輸組）入門講座，又稱傳送門101]]]
+[[[snedronningen|百花魔女的愛之書]]]
 [[/div]]
 [[div class="feature-subtitle"]]
-作者：[[user Kikunai]]
+作者：[[user Dr V Valentine]]
 [[/div]]
-傳送魔法一直受學界跟普通奇蹟術師鄙視的原因是前置功夫需要的奇蹟源條件甚高。
+自豪的魔法似乎也要失效，美夢就像泡沫上的彩虹，接連的厄運讓你變得更加的憔悴，再多的魔法也換不起你的笑容時，夢境結束了。
 [[/div]]
 [[div class="panel-footer"]]
 [[[*featured-Comprehensive-exhibition|查看以往的綜合展出]]]
