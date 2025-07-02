@@ -1,10 +1,12 @@
+[[include component:scp-meta-title-hiding css-style=classic]]
+
 [[include info:start]]
-原文：[https://scp-wiki.wikidot.com/scp-4493]
+原文：[https://scp-wiki.wikidot.com/scp-4493 SCP-4493 - Keep Pride Out of Corps]
 原作者：[[*user kinchtheknifeblade]]
 譯者：[[*user kkuilmke]]
 [[include info:end]]
 
-[[include component:image-block name=pride.png| caption=SCP-4493-1個體之一。[[footnote]]譯註：圖片中的文字為「驕傲月快樂#AbsolutPride #Pride LGBT族群的酒精濫用率是普羅大眾的兩倍之高，對於絕對伏特加的利潤來說簡直太棒了！」[[/footnote]]]]
+[[include component:image-block name=https://scp-wiki.wdfiles.com/local--files/scp-4493/pride.png| caption=SCP-4493-1個體之一。[[footnote]]譯註：圖片中的文字為「驕傲月快樂#AbsolutPride #Pride LGBT族群的酒精濫用率是普羅大眾的兩倍之高，對於絕對伏特加的利潤來說簡直太棒了！」[[/footnote]]]]
 
 **項目編號：** SCP-4493
 
