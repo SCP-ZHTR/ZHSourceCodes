@@ -1,0 +1,77 @@
+[[include component:scp-meta-title-hiding css-style=classic]]
+[[include info:start]]
+原文：[https://scp-wiki.wikidot.com/scp-8893 SCP-8893] 向佐伊．奎因致歉
+作者：[[*user Uncle Nicolini]]
+譯者：[[*user Frederica Bernkastel]]
+⚠️ **內容警告：** 本文涉及了**身體、性、昆蟲恐怖**。
+玩家門（GamerGate）事件介紹請見：[https://zh.wikipedia.org/zh-tw/%E7%8E%A9%E5%AE%B6%E9%97%A8 維基頁面]
+
+[[include info:end]]
+[[include :scp-zh-tr:component:info-cw]]
+
+[[include component:preview
+text=
+你肯定有比網路騷擾女性要更好的事情做，不是嗎？
+]]
+
+[[include :scp-zh-tr:theme:classic]]
+
+[[include component:image-block name=https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Pachycondyla_berthoudi_sam-hym-c007394a_profile_1.jpg/764px-Pachycondyla_berthoudi_sam-hym-c007394a_profile_1.jpg|caption=圖A：SCP-8893產生之SCP-8893-B樣本。至今為止，所有SCP-8893-B樣本均確認為//Ophthalmopone berthoudi//屬。|width=300px]]
+
+**項目編號：** SCP-8893
+
+**項目等級：** Archived
+
+**已歸檔收容措施：** 已指派SAURON.aic監控醫院資料庫，檢索任何與 SCP-8893有關的檔案。SCP-8893-A實例將接受記憶刪除，所有回收 SCP-8893-B實體將集中收容於生物站點Site-0726。
+
+
+**描述：** SCP-8893是[[span class="ruby"]]配偶工[[span class="rt"]]gamergate[[/span]][[/span]][[footnote]]能進行有性繁殖的雌性工蟻，此現象僅存在於工蟻具有功能型精子庫的分類單元。[[/footnote]]蟻（SCP-8893-B）於男性人類（SCP-8893-A）[[footnote]] 值得注意的是，SCP-8893僅對成年順性別男性產生影響。 [[/footnote]]尿道顯現的現象。這些男性人類必定符合以下條件：
+
+* SCP-8893-A會在Twitter、Facebook、Reddit等社群媒體平台/貼圖討論版宣揚針對女性的性別歧視觀念；
+* SCP-8893-A欠缺性伴侶/戀人；
+* SCP-8893-A只能透過自慰達到性高潮。 
+
+若人員滿足上述所有條件，SCP-8893-B將於SCP-8893-A的尿道中顯現，取代精液等通常在射精時會排出的各種液體。原始SCP-8893-A在接受尿道膀胱鏡檢查（見圖B）後，發現其內部存在SCP-8893-B聚落。
+
+[[include component:image-block name=https://scp-sandbox-3.wikidot.com/local--files/nicotest4/antsindick.png|caption=圖B：膀胱鏡檢查出的SCP-8893-A尿道影像，顯示其內部存在 SCP-8893-B實體。|width=300px|align=left]]
+
+所有SCP-8893-B實體均已受精──其授精對象並非同類的可交配成員，而是SCP-8893-A本身。在測試中，並未觀察到任何因此影響產出的樣本。
+
+
+
+**備注：** 截至2016年，SCP-8893實例已在全球範圍內減少99%。由於該異常已接近無效化，本項目將移至基金會資料庫的已歸檔頁面。
+
+@@@@
+@@@@
+[[footnoteblock]]
+
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[SCP-8892]]] | SCP-8893 | [[[SCP-8894]]] >>
+[[/=]]
+[[/div]]
+@@@@
+@@@@
+
+[[include :scp-zh-tr:component:license-box
+|author=Uncle Nicolini]]
+
+> **Filename:** ant.png
+> **Name:** Pachycondyla berthoudi sam-hym-c007394a profile 1.jpg
+> **Author:** Antweb.org
+> **License:** CC BY SA 3.0
+> **Source Link:** [https://commons.wikimedia.org/wiki/File:Pachycondyla_berthoudi_sam-hym-c007394a_profile_1.jpg Wikimedia Commons]
+> **Additional Notes:** Cropped by [[*user Uncle Nicolini]]
+
+> **Filename:**antsindick.png
+> **Name:**
+> **Author:** Pixabay
+> **License:** Public Domain 1.0
+> **Source Link:** [https://boudewijnhuijgens.getarchive.net/amp/media/ants-red-ants-recycle-c5130c Link]
+> **Additional Notes:** Cropped by [[*user Uncle Nicolini]]
+
+[[include :scp-zh-tr:component:license-box-end]]
