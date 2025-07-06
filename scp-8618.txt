@@ -1,0 +1,166 @@
+[[include component:scp-meta-title-hiding css-style=classic]]
+[[include info:start]]
+原文：[https://scp-wiki.wikidot.com/scp-8618 SCP-8618] 牆上蜘蛛
+作者：[[*user syuzhet]]
+譯者：[[*user Frederica Bernkastel]]
+[[include info:end]]
+
+[[module CSS]]
+.table-main {
+    border-collapse: collapse;
+    border-spacing: 0;
+    margin: 0.5em auto;
+}
+
+.table-hcell {
+    border: 1px solid #888;
+    padding: 0.3em 0.7em;
+    background-color: #EEE;
+    font-weight: bold;
+    text-align: center;
+}
+
+.table-cell {
+    border: 1px solid #888;
+    padding: 0.3em 0.7em;
+}
+[[/module]]
+
+[[div style="float:right; margin:0 2em 1em 2em; width:300px; border:0;"]]
+|| ,,**影像編號8618-00612**,, ||
+|||| [[image https://scp-wiki.wdfiles.com/local--files/scp-8618/I%20AM%20EATING%20BUGS.jpeg width="300px" link="https://scp-wiki.wdfiles.com/local--files/scp-8618/I%20AM%20EATING%20BUGS.jpeg"]] ||
+|| ,,SCP-8618內發現的相片,, ||
+|| ,,{{攝於19/04/13}},, ||
+[[/div]]
+**項目編號：** SCP-8618
+
+**項目等級：** Safe
+
+**特殊收容措施：** 基金會已收購SCP-8618，並對公眾實行封鎖。作為安全措施，已加固了該房產的門窗以防外部入侵，同時為監控異常本身而安裝了運動感測器。
+
+**描述：** SCP-8618是一間位於英國哥倫比亞坎盧普斯的單房公寓。根據房內跡象顯示，此處已長期廢棄──家具上可見大量積累灰塵與蜘蛛網。房屋記錄顯示，該套房屬於安娜．勒克萊爾，該員曾受僱於溫哥華的狗仔組織。在發現SCP-8618前，勒克萊爾早已失蹤數月以上，但直到該房屋租約到期後，才被通報了失蹤。
+
+SCP-8618內物品──儘管極為混亂──整體而言並無異常。然而，廚房烤箱接受了非正常的改造。烤箱內部瓷質鑲板與鋼製層架均已拆解，並從烤箱架上取下。烤箱門鉸鏈卡死，使其無法關閉。有道乾涸的血跡垂直流進門內，一路延伸至烤箱後方的低窄空間。
+
+此低窄空間即是SCP-8618的空間異常──環繞公寓的廣闊無光區域──入口。從該異常空間內部觀測，公寓牆壁會是完全透明的，觀察者可以藉此觀測到內部的狀況。這種效果是單向的──從其他角度或公寓內部觀察時，牆壁就會變得不透明。壁掛物、家具等障礙物也會產生相同的效果。
+
+一張巨大蜘蛛網懸掛在了SCP-8618上方。這些蜘蛛網向外延伸數公里不止。蜘蛛網上懸掛著多張相片，每張相片均附手寫標籤注明日期。這些相片的內容各異，但通常以SCP-8618的原屋主安娜．勒克萊爾為主角。
+
+大部分相片均為勒克萊爾在此公寓中的高角度拍攝照，拍攝地點都位於SCP-8618牆外的合適位置。這些相片通常拍下了勒克萊爾的日常生活，該員似乎並未意識到拍攝者的存在。值得注意的是，某些相片還是透過近距離視角拍攝目標，例如臉部特寫或背後直接拍攝。已回收相片列表請見附錄01。
+
+當前尚未確認SCP-8618內部相片的具體數量。然而，對相片標注日期的趨勢分析顯示，該異常區域內至少有著拍攝歷程橫跨數年的相片。平均每日拍攝50至100張相片，涵蓋了勒克萊爾開始入住到失蹤為止的整個過程。沒有該員失蹤以後日期的相片，可知在此之後相片就不再顯現了。
+
+目前對勒克萊爾失蹤事件的調查仍在進行中。
+
+**附錄01 - 回收相片（摘錄）：**
+[[table class="table-main"]]
+[[row]]
+[[cell class="table-hcell"]]
+相片
+[[/cell]]
+[[cell class="table-hcell"]]
+描述
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell class="table-cell"]]
+**影像編號8618-00617**
+[[/cell]]
+[[cell class="table-cell" rowspan="2"]]
+勒克萊爾坐在廚房餐桌旁喝湯。更之前的數張相片顯示，該員從冰箱中取出了一個特百惠器皿，把裡面的東西倒進碗中，而後放進微波爐加熱。
+
+這張相片是從廚房天花板後方高角度拍攝的。懸掛燈具末端位於拍攝視點前，也就是天花板平面通常的所在位置。
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell class="table-cell"]]
+2019/04/13
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell class="table-cell"]]
+**影像編號8618-05572**
+[[/cell]]
+[[cell class="table-cell" rowspan="2"]]
+勒克萊爾正在床上睡覺。臥室已熄燈。
+
+這張相片是從勒克萊爾臥室壁櫥內以齊平視角拍攝的。值得注意的是，從公寓牆外觀測，壁櫥內的物品完全不透明。
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell class="table-cell"]]
+2019/06/22
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell class="table-cell"]]
+**影像編號8618-08651**
+[[/cell]]
+[[cell class="table-cell" rowspan="2"]]
+勒克萊爾正在凝結水氣的玻璃浴室門後洗澡。
+
+其視角與位置顯示相片是在浴室內直接拍攝的。勒克萊爾似乎並未意識到自己正在被拍攝。
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell class="table-cell"]]
+2019/09/10
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell class="table-cell"]]
+**影像編號8618-10455**
+[[/cell]]
+[[cell class="table-cell" rowspan="2"]]
+勒克萊爾正拉起窗簾並向外看去。
+
+此相片是從背後拍攝的勒克萊爾特寫。
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell class="table-cell"]]
+2019/11/30
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell class="table-cell"]]
+**影像編號8618-11177**
+[[/cell]]
+[[cell class="table-cell" rowspan="2"]]
+烤箱的內部。尚未釐清拍攝當下的狀況。
+
+沒有晚於這個日期的相片。
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell class="table-cell"]]
+2019/12/08
+[[/cell]]
+[[/row]]
+[[/table]]
+
+**附錄02 - 後續調查：**
+
+安娜．勒克萊爾過去曾任職於位於溫哥華的狗仔經紀公司，基金會對該公司進行了追查。公司記錄顯示，勒克萊爾的大部分照片經常遭到埋怨並被拒絕發布。儘管勒克萊爾曾多次收到威脅解僱郵件，但公司內部備忘錄卻強烈建議將其留任，理由是勒克萊爾對該公司是相當寶貴的資產。
+
+對該公司的辦公室進行全面檢查與清點後，於牆壁後方發現了隱藏的隔間。隔間內藏有多本皮革活頁夾，上面都覆蓋著厚重的蜘蛛網。每本活頁夾內都放入數百張的相片，其內容與主題與在SCP-8618內發現的相片相近。其中最值得注意的是，每本活頁夾都是對不同個人的相片紀錄。
+
+在對英國哥倫比亞失蹤人口案件進行全面調查後，目前對SCP-8618影響的再評估申請正在等待批准中。
+
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[SCP-8617]]] | SCP-8618 | [[[SCP-8619]]] >>
+[[/=]]
+[[/div]]
+
+[[include :scp-zh-tr:component:license-box
+|author=syuzhet
+]]
+=====
+> **Filename:** I AM EATING BUGS.jpeg
+> **Name:** SCP-8618's Dour and Sorrowful Image...!
+> **Author:** U.N. Owen
+> **License:** CC BY-SA 3.0
+> **Source Link:** https://scp-wiki.wikidot.com/local--files/scp-8618/I%20AM%20EATING%20BUGS.jpeg
+=====
+[[include :scp-zh-tr:component:license-box-end]]
