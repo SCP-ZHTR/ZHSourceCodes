@@ -163,7 +163,9 @@
 [[/=]]
 [[/div]]
 
-[[include component:license-box]]
+[[include component:license-box
+|author=the great hippo
+]]
 =====
 > **Filename:** poker.png
 > **Author:** [[*user the great hippo]]
