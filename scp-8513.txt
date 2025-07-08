@@ -1,0 +1,42 @@
+[[include component:scp-meta-title-hiding css-style=classic]]
+[[include info:start]]
+原文：[https://scp-wiki.wikidot.com/scp-8513 SCP-8513] 不得釋放
+作者：[[*user J Dune]]
+譯者：[[*user Frederica Bernkastel]]
+[[include info:end]]
+
+=====
+[[include component:preview
+text=你的懲罰是囚禁至死。]]
+=====
+
+**項目編號：** SCP-8513
+
+**項目等級：** Keter
+
+**特殊收容措施：** 一旦公眾發現SCP-8513，基金會將部署掩蓋故事，理論上能使公眾相信大氣擾動可阻止腐敗進程。
+
+受影響屍體將由基金會負責保管。
+
+**描述：** SCP-8513是路克．格雷森研究員的屍體。SCP-8513當成正在經歷復活的過程。減緩或阻止SCP-8513復活的嘗試均徒勞無功，因為對屍體新造成的傷害都會迅速痊癒。
+
+2029年12月6日，參宿四超新星爆發前，格雷森研究員自公寓窗戶墜樓身亡。在超新星開始爆發之後，基金會專用設備在全球範圍探測到一種新型輻射。SCP-8513同樣也會發出高濃度的此類輻射。
+
+基金會已在人口中心部署感測器，以監測SCP-8513的污染程度。感測器顯示，所有在超新星爆發前死亡的人類遺體，都開始釋放出此類高濃度輻射。
+
+受影響屍體復活的速度各不相同，但無論其已死時間的長短，都預計將在12月9日前完全復活。值得注意的是，事件發生後死亡的人員即使暴露於8513相關輻射，似乎也不會出現復活的跡象。
+
+基金會沒有任何計畫能應付即將在明日復活的910億名人類，但我們相信他們中的絕大多數無法自己從墓裡逃出。
+
+=====
+[[div class="titlepreview"]]
+不得釋放
+[[/div]]
+[[div class="coauthors"]]
+None
+[[/div]]
+[[module CSS]]
+div.titlepreview { display: none; }
+div.coauthors { display: none; }
+[[/module]]
+======
