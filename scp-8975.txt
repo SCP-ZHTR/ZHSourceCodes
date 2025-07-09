@@ -1,0 +1,97 @@
+[[include :scp-zh-tr:component:scp-meta-title-hiding]]
+=====
+[[include :scp-wiki:component:preview
+text= 下方之物。
+]]
+=====
+
+[[include :scp-zh-tr:theme:classic]]
+
+[[include info:start]]
+原文：[https://scp-wiki.wikidot.com/scp-8975 SCP-8975]
+**作者：**[[*user HarryBlank]]
+譯者：[[*user Halewen]]
+[[include info:end]]
+
+[[include :scp-wiki:component:image-block
+    name=https://scp-wiki.wdfiles.com/local--files/scp-8975/Abyss.jpg|
+    caption=SCP-8975|
+    align=right|    
+    width=300px|
+]]
+
+**項目編號：**SCP-8975
+
+**項目等級：**Safe
+
+**特殊收容措施：**SCP-8975所在的房子已由基金會收購，而地下室已被封起。地下室在任何情況下皆不得開啟。
+
+不接受進行任何更多測試的請求。
+
+**描述：**SCP-8975是一個小洞（直徑約6公分），位於加拿大，████████的房子地下室地面。項目最初由████████警員於1961年發現，當時唯一居住者O. Shaugnessy的家人報告此人失蹤；一天後，調查本案的警官D. Gaertner所屬的部門報告此人失蹤，此時基金會發現此異常。
+
+SCP-8975沒有可見的底部。在以下事件發生後，試圖抵達底部的行動已被無限期暫停。
+
+在初步調查房子時，對此洞的例行調查從中取回了六（6）樣物品。研究員L. Harvey將這些物品送至基金會以供分析人員進行研究，並於隔天完成分析：
+
+||~ # ||~ 深度 ||~ 物品 ||~ 筆記||
+|| 1 || 20公尺 || 爪子碎片 || 鑒定來源於黑鼠 ||
+|| 2 || 25公尺 || 一叢頭髮 || 鑒定來源於家貓 ||
+|| 3 || 30公尺 || 散落的睫毛 || 鑒定來源於B. Shaugnessy[[footnote]] O. Shaugnessy的兒子，在一個月前報告失蹤。[[/footnote]]||
+|| 4 || 35公尺 || 鼻腔分泌物 || 鑒定來源於 C. Shaugnessy[[footnote]] O. Shaugnessy的妻子，在一個月前報告失蹤。[[/footnote]]||
+|| 5 || 40公尺 || 散落的皮膚碎片 || 鑒定來源於O. Shaugnessy ||
+|| 6 || 45公尺 || 一縷頭髮 || 鑒定來源於警探D. Gaertner ||
+
+人員認為這些結果已足夠將此洞分類為一SCP。在進行分類後，研究員M. Patel進行了更多調查。她取回了額外的七（7）樣物品，將其送至基金會以供分析人員進行研究，並再度於隔天完成分析：
+
+||~ # ||~ 深度 ||~ 物品 ||~ 筆記||
+|| 1 || 20公尺 || 一叢頭髮 || 鑒定來源於黑鼠 ||
+|| 2 || 25公尺 || 鬍鬚 || 鑒定來源於家貓 ||
+|| 4 || 30公尺 || 牙齦 || 鑒定來源於B. Shaugnessy ||
+|| 4 || 35公尺 || 指甲 || 鑒定來源於C. Shaugnessy ||
+|| 5 || 40公尺 || 散落的皮膚碎片 || 鑒定來源於O. Shaugnessy ||
+|| 6 || 45公尺 || 血 || 鑒定來源於探員D. Gaertner ||
+|| 7 || 50公尺 || 口內左邊第二臼齒 || 鑒定來源於研究員L. Harvey ||
+
+在辨認物品#7後，員工試圖聯繫研究員Harvey，但並未成功。在搜查他的住所後，他被宣告失蹤。 
+
+[[include :scp-wiki:component:image-block
+    name=https://scp-wiki.wdfiles.com/local--files/scp-8975/Abyss_Closeup.jpg|
+    caption=SCP-8975，細部|
+    align=right|    
+    width=300px|
+]]
+
+員工接著試圖聯繫研究員Patel，但並未成功。在搜查她的住所後，她也被宣告失蹤。
+
+在監控設備送來的同時，一名武裝警衛被立即安排至SCP-8975所在的地下室。當技術員抵達時，警衛已失蹤。
+
+人員立即撤出房子，而地下室被徹底密封。
+
+再無進行更多調查。
+
+[[footnoteblock]]
+
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[SCP-8974]]] | SCP-8975 | [[[SCP-8976]]] >>
+[[/=]]
+[[/div]]
+
+[[div]]
+[[=]]
+[[include :scp-zh-tr:component:license-box]]
+=====
+[[<]]
+
+----
+
+> **Filename:** Abyss.jpg/Abyss_Closeup.jpg
+> **Author:** [[*user HarryBlank]]
+> **License:** CC BY-SA 3.0
+
+[[/<]]
+=====
+[[include :scp-zh-tr:component:license-box-end]]
+[[/=]]
+[[/div]]
