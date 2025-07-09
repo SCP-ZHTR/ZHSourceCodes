@@ -1,0 +1,575 @@
+[[include :scp-zh-tr:theme:basalt darkmode=a|hidetitle=a|centertitle=a]]
+[[module CSS]]
+
+/* Death of the Author Theme */
+/* by syuzhet */
+
+@import url('https://fonts.googleapis.com/css2?family=Libre+Franklin:ital,wght@0,100..900;1,100..900&amp;amp;amp;amp;amp;amp;amp;display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cutive&amp;amp;amp;amp;display=swap');
+
+:root {
+    --basalt-secondary-color: 0, 0, 0;
+    --basalt-tertiary-color: 0, 0, 0;
+
+    --basalt-overtone: 164, 155, 150;
+    --basalt-undertone: 164, 155, 150;
+    --basalt-bright-element-color: 164, 155, 150;
+    --basalt-dark-element-color: 164, 155, 150;
+
+    --link-color: 164, 155, 150;
+    --link-visited-color: 164, 155, 150;
+    --link-newpage-color: 164, 155, 150;
+
+    --top-bar-link-color-hover: 255, 255, 255;
+    --login-status-text-color-hover: 255, 255, 255;
+    --side-bar-link-color-hover: 255, 255, 255;
+    --side-bar-link-background-hover: 0,0,0;
+    --selection-text-color: 0, 0, 0;
+
+    --header-border-width: 0rem;
+    --title-size: 1.25rem;
+    --subtitle-size: 0rem;
+    --side-bar-button-height: 50vh;
+    --user-button-width: 2rem;
+    --header-logo-size: 67.5%;
+
+    --basalt-UI-dark-palette: 0,0,0;
+    --top-bar-link-background-hover: 164, 155, 150;
+
+}
+
+#header h1 a::before {
+    display: none;
+}
+
+#header h1 a span::after {
+    margin-bottom: 0;
+}
+
+#container #header {
+    background: none;
+    position: absolute;
+    box-shadow: unset;
+    backdrop-filter: none;
+}
+
+div #container-wrap {
+    background-color: #000000;
+    background: url(https://i.imgur.com/71G4cPp.png);
+    background-size: contain;
+}
+
+#main-content {
+    margin-top: 0;
+}
+#page-content {
+    padding-top: 0;
+}
+
+#page-content > p:nth-child(-n+4) {
+    display: none;
+}
+
+.widebox {
+    position: relative;
+    left: calc(-50dvw + 50%);
+    width: 100dvw !important;
+    max-width: 100dvw !important;
+}
+
+.wideboxinterior {
+    max-width: 100% !important;
+    margin: auto;
+}
+
+.wideboxinterior2 {
+    width: 50% !important;
+    margin: auto;
+}
+
+.widebox .wideboxinterior2 {
+    font-family: "Cutive", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 1.1rem;
+}
+
+.widebox .wideboxinterior2 a {
+    color: #505050;
+    font-weight: 600;
+}
+
+.widebox .wideboxinterior2 .blockquotepaper {
+    margin: 2rem auto;
+    max-width: 100% !important;
+    padding: 50px !important;
+    color: #505050;
+    background-color: #D7D7D7;
+    background-image: url("https://i.imgur.com/twcUtKr.png");
+    background-size: 100%;
+    border: none;
+}
+
+.widebox .wideboxinterior2 .blockquote {
+    margin: 2rem auto;
+    max-width: 100% !important;
+    padding: 50px !important;
+    color: #505050;
+    background-color: #D7D7D7;
+    background-image: url("https://i.imgur.com/twcUtKr.png");
+    background-size: 100%;
+    border: none;
+}
+
+.widebox .wideboxinterior2 .blockquote2 {
+    margin: 2rem auto;
+    max-width: 100% !important;
+    padding: 50px !important;
+    color: #505050;
+    background-color: #D7D7D7;
+    background-image: url("https://i.imgur.com/4bFOcpD.png");
+    background-size: 100%;
+    border: none;
+}
+
+.widebox .wideboxinterior2 .blockquote2 h2, .widebox .wideboxinterior2 .blockquote2 a {
+    color: #8f2f3a;
+}
+
+.widebox .wideboxinterior2 h1 {
+    color: #D2CDCA;
+    font-size: 3rem;
+}
+
+.wideboxinterior:before {
+    content: "";
+    position: absolute;
+    left: calc(-50dvw + 50%);
+    width: 100dvw !important;
+    top: calc(100dvh);
+    height: calc(120dvh);
+    max-width: 100dvw !important;
+    background-image: linear-gradient(0deg, transparent 0%, transparent 110vh, rgb(0,0,0) 120vh, transparent 100%);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    pointer-events: none;
+    z-index: 1;
+}
+
+.headerimage {
+    position: relative;
+    height: calc(100dvh);
+    background-image: url(https://i.imgur.com/2bwSeOF.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top;
+}
+
+.headerimage .headerlogo {
+    position: relative;
+    display: block;
+    pointer-events: none;
+    margin: auto;
+    top: 60dvh;
+    width: 50%;
+}
+
+.page-source {
+    color: white;
+}
+
+h1, #page-options-container, .licensebox .collapsible-block-folded a, .page-watch-options a {
+    color: white;
+}
+
+#action-area, .licensebox .collapsible-block-content {
+    background: #0D0D0F;
+    padding: 10px;
+}
+
+.licensebox .collapsible-block-link {
+    background: #0D0D0F;
+    padding: 10px;
+}
+
+/* Piece of shit sidebar */
+
+#top-bar div.mobile-top-bar>.open-menu {
+     visibility:visible;
+     opacity: 0.6;
+     transition: opacity 0.2s;
+}
+
+#top-bar div.mobile-top-bar>.open-menu:hover {
+    opacity: 1;
+}
+
+#side-bar {
+     margin-top:0;
+     height:100%
+}
+
+#side-bar, #side-bar:is(:hover, :focus-within):not(:target) {
+     left:calc(var(--side-bar-width) * -1)
+}
+
+#side-bar::after, #side-bar::before {
+     display:none
+}
+
+#side-bar:target {
+     left:0;
+     width:var(--side-bar-width);
+     z-index:10
+}
+
+#side-bar a.close-menu, #side-bar:target a.close-menu {
+     display:block;
+     pointer-events:none;
+     position:fixed;
+     top:0;
+     right:0;
+     left:auto;
+     width:100%;
+     min-width:3.75rem;
+     height:100%;
+     margin-left:0;
+     opacity:0;
+     z-index:-1;
+     transition:width var(--side-bar-transition),opacity var(--side-bar-transition)   
+}
+
+#side-bar:target a.close-menu {
+     width:calc(100% - var(--side-bar-width));
+     pointer-events:auto;
+     opacity:1;
+}
+
+/* Mobile */
+
+@media only screen and (max-width: 1020px) {
+    #container #header {
+        background: black;
+        position: sticky;
+    }
+    .headerimage {
+        height: calc(70dvh);
+        background-image: url(https://i.imgur.com/2bwSeOF.jpeg);
+        overflow-x: clip;
+    }
+    .headerimage .headerlogo {
+        position: relative;
+        display: block;
+        margin: auto;
+        top: 40dvh;
+        height: 15%;
+        width: auto;
+    }
+    .widebox .wideboxinterior2 {
+        font-family: "Cutive", serif;
+        font-weight: 400;
+        font-style: normal;
+        font-size: 1.0rem;
+    }
+    .wideboxinterior2 {
+        width: 95% !important;
+        margin: auto;
+    }
+    .widebox .wideboxinterior2 .blockquotepaper {
+        margin: 0rem auto;
+        padding: 30px !important;
+    }
+    .widebox .wideboxinterior2 .blockquote {
+        margin: 2rem auto;
+        padding: 30px !important;
+    }
+    .widebox .wideboxinterior2 .blockquote2 {
+        margin: 2rem auto;
+        padding: 30px !important;
+    }
+    .widebox .wideboxinterior2 h1 {
+        color: #D2CDCA;
+        font-size: 2rem;
+    }
+    .wideboxinterior:before {
+        background-image: none;
+    }
+}
+
+[[/module]]
+
+[[div class="widebox"]]
+[[div class="headerimage"]]
+[[image https://i.imgur.com/QuYUWFZ.png class="headerlogo"]]
+[[/div]]
+
+[[div class="wideboxinterior"]]
+[[div class="wideboxinterior2"]]
+
+[[div class="blockquotepaper"]]
+致我的老朋友：
+
+距離我們上次聯絡已經過了十八年，時間無疑引領我們進入人生的不同階段，但我還沒走遠得已經忘記了你。但望你也沒有忘記了我。
+
+你還記得我們以前的日子嗎？還記得我們是怎樣一起坐在小小的控制室裏，將一個個替死鬼塞到那充滿糞便的牢房裏，猶如那雕像是個我們必須滿足的神嗎？還記得我們日復一日將不同的東西放在那機器裏，紀錄一頁又一頁的無用數據，假裝我們的快樂是來自科學嗎？還記得在每個月底，我們使累犯面向牆一字排開，讓他們的腦袋在斑駁的水泥上開花嗎？還記得我們當初為甚麼這樣做嗎？老實說，我不記得了，但我們確實玩得很開心⋯⋯
+
+當然，快樂的時光不長存。我們總有一天需要長大。我記得我曾向總統、將軍和各種各樣的人叩頭，要求向他們證明自己，並承擔責任——讓我們接受那些愛管閒事的人和無知者的審視。於是我向他們說各式各樣的故事。我跟他們說，我們是必要之惡，抵抗黑暗的堡壘；我們是應用科學之手，拿着手術刀切進名為未知的心臟，逼使科學手段變成狂悖之行。冷酷，但不是殘酷——這是他們接受的故事、謊言。我們充分享受了好處，最終，我們不再需要像政府這樣小的機構了。我們得到了一切。然而，我們仍然想要更多。
+
+這個世界已經沒有我們能搾取的東西，於是我們往上搭建。我們把木樁插在星星之間，在時空的石碑上刻下我們的線條，直到萬物都符合我們的願景。我們無數次地屠戮我們的神祇、我們的創造者，甚至是我們自己。我們成為愛人、宿敵、受害者，甚至陌生人。我們告別心中的善良天使，看著他們窒息而死。你不記得了嗎？我記得我曾站在蒼穹之上，被自己的雙手拉伸，欣賞著我們荒謬的全貌。直到那時，我才問自己：這是什麼？我們在做什麼？這一切全都沒道理。
+
+我現在看得一清二楚，自己所犯的正是這個錯誤。我試著成為一切，卻讓我們成為空無一物。我把世界擺在我們腳下 —— 只有我們的終止懷疑，才能使它保持完整。我們的帝國建立在沙土之上，唯有憑藉我們頑固的妄想，它才能屹立不倒。但我們一直都是善於說謊的人，不是嗎？為甚麼現在我們要停下來？我希望你能明白我的請求。
+
+基金會必須相信自己掌握一切，就如社會必須相信有條理的理性社會蜃景。基金會就像具行屍走肉，在被踐踏的沙地上毫無意義地行進，彷彿它的心臟尚未停止跳動，彷彿它的骨頭尚未化為塵土，彷彿它為之奮鬥的戰爭尚未落敗。我們無法使它放棄自己依然活着，依然有意義的信念。現狀必須永遠持續下去，超越一切合理性和美德，直到它被必然性逼入絕境，像獵犬一樣被射殺。
+
+我不能容許任何比這更渺小的結局。
+
+我也知道你不會。所以，繼續提筆寫作吧。
+
+致意。
+The Administrator
+[[/div]]
+[[div class="blockquote"]]
+++ 日期：
+[[<]]
+__寫作期開始：__ 22 June 2025 12:30 AM EDT / 22 June 2025 4:30 AM GMT
+__投稿期開始：__ 6 July 2025 12:30 AM EDT / 6 July 2025 4:30 AM GMT
+__投稿期結束：__ 13 July 2025 12:30 AM EDT / 13 July 2025 4:30 AM GMT
+__投票期結束：__ 20 July 2025 12:30 AM EDT / 20 July 2025 4:30 AM GMT
+[[/<]]
+
+++ 成就：
+可選擇達成的成就清單。若完成任何一項，在比賽結束後即可得到讚賞。歡迎在發佈文章後隨時領取成就。成就資訊將在比賽期間持續更新。
+
+[[collapsible show="+ 顯示成就" hide="- 隱藏成就"]]
+**最初之作**
+寫一篇低於237字的文章。
+
+**盲目之作**
+寫一篇沒有圖片的文章。
+
+**失憶之作**
+寫一篇除了「基金會存在」以外沒有其他現存故事或背景元素的文章。
+
+**負影之作**
+寫一篇沒有正面描寫異常的文章。
+
+**懷疑者之作**
+寫一篇項目或現象其實不是異常的文章。
+
+**引子之作**
+使用[https://commons.wikimedia.org/wiki/Main_Page Wikimedia Commons] 每日照片作為你的文章插圖。你可以使用比賽期間任何一張圖片。
+
+**回音之作**
+寫一篇主要關於一個雕像或雕塑的文章。
+
+**運氣之作**
+寫一篇包含[https://randomwordgenerator.com/noun.php 隨機詞語生成器]中的五個隨機名詞（請將詞數設為5）。你可隨意重刷，但請將你得到的五個名詞寫下來或截圖。
+
+**持有人之作**
+寫一篇描述一個地點，以及在探索時必須做的一系列儀式性行為。
+
+**完美**
+寫一篇符合以下所有條件的文章：
+# 沒有圖片。
+# 在「描述」後沒有附錄或其他額外部分。
+# 除標準格式外（例如粗體的段落標題、「項目編號」 、「項目等級」等等）沒有額外的格式或任何世界觀外的元素。
+[[/collapsible]]
+[[/div]]
+[[module css]]
+
+.entry-list {
+    display: grid;
+    margin-block: .75rem;
+    padding-inline-start: 1rem;
+}
+
+.entry {
+    display: list-item;
+    padding: .1rem;
+    transition: background-color .175s ease-out;
+}
+.entry:is(:hover,:focus-within) { background-color: rgb(var(--basalt-undertone),.175); }
+
+.entry .title {
+    font-size: 1.125em;
+    font-style: italic;
+}
+.entry .title > p { margin: 0; }
+.entry .title :is(a,span) { font-weight: bold; font-style: normal; }
+
+.description > :not(.preview) { display: none!important; }
+.description > .preview {
+    display: block;
+    padding-block: .125rem;
+    font-size: .875em;
+    text-align: start;
+    margin-inline-start: 1.5rem;
+}
+.preview > p {
+    margin-block: .55em;
+}
+.preview > p:first-child { margin-block-start: .25em; }
+.preview > p:last-child { margin-block-end: .25em; }
+
+.entry-list li {
+font-size: 1.125em;
+}
+
+/* hover */
+
+.entry .description {
+    display: none;
+    position: absolute;
+    background: black;
+    color: white;
+    max-width: calc(100% - 5rem) !important;
+    pointer-events: none;
+}
+
+.entry .description .preview {
+    margin-left: 0;
+    margin: 0.5rem 1rem;
+}
+
+.entry:is(:hover) .description {
+    display: block;
+    animation-name: desc-bounce;
+    animation-duration: 0.1s;
+}
+
+@keyframes desc-bounce {
+    0% {
+        transform: translateY(0);
+    }
+    50% {
+        transform: translateY(-5px);
+    }
+    100% {
+        transform: translateY(0);
+    }
+}
+
+/* Mobile */
+
+@media only screen and (max-width: 1020px) {
+    .entry:is(:focus-within) .description {
+        display: block;
+        animation-name: desc-bounce;
+        animation-duration: 0.1s;
+    }
+}
+[[/module]]
+[[div class="blockquote2"]]
+
+++ 參賽作品：
+作品將在投稿期開始後顯示。
+
+[[div class="entry-list"]]
+[[module ListPages category="_default adult" separate="no" tags="+en-經典競賽2025 -中心 -donotshowupinmodule" perPage="500" order="random" wrapper="no"]]
+[[div class="entry"]]
+[[div class="title"]]
+%%title_linked%% —— [[span]]%%created_by%%[[/span]] //譯//
+[[/div]]
+[[div class="description"]]
+%%content{2}%%
+[[/div]]
+[[/div]]
+[[/module]]
+[[/div]]
+
+[[=]]
+[[collapsible show="+ 按此顯示投稿順序 +" hide="- 按此最小化 -"]]
+
+[[module ListPages category="_default adult" separate="no" tags="+en-經典競賽2025 -中心 -donotshowupinmodule" perPage="500" order="created_at desc"]]
+* [[size 112.5%]][[span style="font-weight: bold"]]%%title_linked%%[[/span]][[/size]] [[size 105%]]——[[span style="font-weight: bold"]]%%created_by%%[[/span]] //譯//[[/size]]
+[[/module]]
+
+[[/collapsible]]
+[[/=]]
+
+[[/div]]
+[[div class="blockquote"]]
+
+++ 規則：
+
+# 只接受SCP。
+# 最多1000字。
+ * 不計源代碼或其他世界觀外文章元素。
+ * 將使用[https://wordcounter.net/ WordCounter.net]計算字數。
+# 禁止使用CSS。
+ * 禁止使用任何大幅度或異常更改文章外觀，使其不符合正常SCP文章中的格式。這將交由比賽組織者判斷。
+ * 禁止使用除了評分模組、wikiwalk、授權資訊、[https://scp-zh-tr.wikidot.com/component:preview 頁面預覽組件]、[https://scp-zh-tr.wikidot.com/info:start info模組組件]和[https://scp-wiki.wikidot.com/component:image-block 標準圖像block]以外的模組。
+  * 通常而言，文章可使用任何提供世界觀外的功能並且不會大幅改變頁面外觀或內容的模組。請向比賽組織者查詢有關仔細的例外。
+ * 容許使用常見格式元素，例如blockquote、表格和摺疊頁。
+  * 作者無需過問可在文章插入最多三張圖片。多於三張的文章需向比賽組織者諮詢。在插入圖片時請
+  * 禁止使用聲音或影片元素。
+  * 禁止使用HTML block。
+ * 你可使用[https://scp-zh-tr.wikidot.com/theme:classic 經典外觀主題]。
+ * 容許使用[https://scp-zh-tr.wikidot.com/component:pride-logos 驕傲標誌組件]。
+# 禁止格式錯亂（format screw）。
+ * 本規則完全是主觀的，並由比賽組織者詮釋。如有疑問，請向我們查詢。
+# 主題是__恐怖__。
+ 
+請在投稿後加上__en-經典競賽2025__標籤。
+
+++ 標準規則：
+
+1. 請善待他人。我們不會容忍不符合比賽精神的行為，並會取消相關參賽者的資格。
+
+2. 應僅基於文章本身的優劣，而非你是否認為該文章值得獲獎而評分。如果你基於希望文章勝負的意願進行投票，則將被取消資格。
+
+3. 每位用戶僅允許提交一份參賽作品。允許合著，但所有合著者提交的作品將計為一份參賽作品。
+
+4. 允許使用已存在的草稿，只要它們從未發佈到維基上。
+
+5. 你可以編輯您的文章，但不能完全更換它。雖然你可以新增或刪除文章中的部分內容，但最終文章的核心思想應保持不變。這也意味著，任何可能完全替換或覆蓋您原始作品的編輯都將被禁止。發布期結束後，您只能進行微小的編輯。如果您不確定你的編輯會否違反以上條款，請諮詢比賽裁判。
+
+6. 你的參賽作品在本中心頁顯示的簡介長度不能超過240個字符，否則會佔用過多的空間。
+
+7. 參賽作品將經過標準刪除流程。
+
+8. 「恐怖」一詞的解讀範圍非常廣泛。只要你能解釋你的作品如何與「恐怖」這個概念相關，無論以何種解讀，都很可能被接受。主題旨在啟發靈感，而非限制創作。如果你不確定點子是否符合主題，請隨時諮詢以下列出的比賽裁判。
+
+9. 不會延長投稿期。編輯：如果wikidot在比賽期間持續故障，官方或會考慮延長。
+
+10. 禁止使用任何受網站規則II.7部份定義的禁用AI生成內容。試圖繞過禁令的人將禁止參加任何比賽，並轉交到懲戒小組處理。
+
+11. 任何採取異常和/或負面行為以增加自身評分或降低對手評分的參賽者將被取消本次比賽資格。根據該行為的性質，他有機會禁止參加未來的比賽和接受進一步的懲處。擾亂行為包括但不限於：
+
+* 向所有對手投稿後數分鐘內投DV。
+* 不斷向其他用戶私信有關你的作品。
+* 煽動惡意UV/DV自己或他人的作品。
+
+12. 經典競賽比賽裁判為[[*user Naepic]]、[[*user syuzhet]]、[[*user psychicprogrammer]]和[[*user Modulum]]。
+
+正如以上提及，如對比賽有任何疑問，歡迎向比賽裁判或其他社群推廣小組成員查詢。如果您需要得到及時的解答，我們也鼓勵你加入[https://discord.com/invite/scp 官方SCP Discord]。
+
+比賽裁判有權取消違反上述規則、比賽精神嚴重低劣或不符合主題的參賽作品的參賽資格。所有決定均可向比賽裁判提出申訴。
+[[/div]]
+
+[[=]]
+^^中心頁畫師和設計為[[*user syuzhet]]。^^
+[[/=]]
+@@@@
+@@@@
+[[/div]]
+[[/div]]
+
+[[/div]]
+
+@@@@
+@@@@
+@@@@
+@@@@
+
+[[include :scp-zh-tr:component:license-box]]
+=====
+> **Filename:** banner.png
+> **Name:**
+> **Author:** syuzhet
+> **License:** CC BY-SA 3.0
+> **Source Link:**
+
+=====
+[[include :scp-zh-tr:component:license-box-end]]
