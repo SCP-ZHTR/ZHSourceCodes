@@ -1,0 +1,147 @@
+[[include component:scp-meta-title-hiding css-style=classic]]
+[[include info:start]]
+原文：[https://scp-wiki.wikidot.com/scp-8411 SCP-8411] 樺木蹤跡
+作者：[[*user sprawlingstar]]
+譯者：[[*user Frederica Bernkastel]]
+**[https://scp-wiki.wikidot.com/dinodraws-author-page 來看該作者的更多作品！]**
+[[include info:end]]
+
+[[include :scp-zh-tr:component:pride-highlighter |inc-s9-lgbt= --]]]
+[[include component:preview
+text=
+這些樹有眼睛，你知道嗎？ ]]
+=====
+
+[[div style="display: none;" class="crom-thumbnail"]]
+[[include component:image-block name= https://scp-wiki.wdfiles.com/local--files/scp-8411/13.png]]
+[[/div]]
+
+
+[[include component:image-block name= https://scp-wiki.wdfiles.com/local--files/scp-8411/tree.jpg|caption= 刻在//Betula papyrifera//（美國樺木）上的SCP-8411實例，為標明已將木材染色。|width=350px|align= right]]
+
+**項目編號：** SCP-8411
+
+**項目等級：** Safe
+
+**特殊收容措施：** 在阿帕拉契地區健行步道或常規探索區域發現的SCP-8411實例，均應悉數加以銷毀。准許所有人員透過刮除、破壞、移除部分樹皮摧毀該異常。
+
+應謹慎移除存在新符號的樹皮，並送往Site-898妥善編目歸檔。
+
+**描述：** SCP-8411是在阿帕拉契山脈多處各種//betula//[[footnote]] 樺木。[[/footnote]]上發現的一系列符號。這些符號通常直接刻在木頭上，也可能用噴漆與木炭繪製。由於工藝水準與呈現方式的差異，推測SCP-8411實例是由阿帕拉契山脈各地多人創造的「指示標」。
+
+SCP-8411符號在受到觀察時，會透過模因效應賦予觀察者特定的意義。SCP-8411在1975年底首度於當地健行步道上發現後不久，就被注意到只有特定個體能夠接收這種模因效應。雖然尚未釐清會受SCP-8411影響者的具體標準，但根據Site-898工作人員的測試結果，影響對象包括但不限於：
+* 機動特遣隊成員[[footnote]] 具體而言，是Site-898的搜救MTF Gamma-89。 [[/footnote]]
+* 站點維安人員
+* 收容團隊
+然而，根據研究發現，投入相當時間嘗試研究或定位SCP-8411實例者，也會逐漸受到異常影響。
+
+符合上述標準的基金會職員已能複製具相應功能的SCP-8411符號，但只有實例位於//betula//樹皮上時，項目才會顯現模因性質。
+
+以下為已知的SCP-8411實例紀錄。
+
+|| **SCP-8411符號** || **實例編號** || **模因意義抄錄** ||
+|| [[image https://scp-wiki.wdfiles.com/local--files/scp-8411/4.png width="250px"]] || 01 || 附近有架[[footnote]] 最有可能指涉樹架，是用於狩獵的人造平臺。[[/footnote]] ||
+|| [[image https://scp-wiki.wdfiles.com/local--files/scp-8411/5.png width="250px"]]  || 02 || 安全區域 ||
+|| [[image https://scp-wiki.wdfiles.com/local--files/scp-8411/6.png width="250px"]] || 03 || 保持警惕||
+|| [[image https://scp-wiki.wdfiles.com/local--files/scp-8411/8.png width="250px"]]  || 04 || 附近有危險野生生物[[footnote]] 具體通常指涉熊、美洲獅、郊狼。[[/footnote]]||
+|| [[image https://scp-wiki.wdfiles.com/local--files/scp-8411/9.png width="250px"]]  || 05 || 停止開火，不要前進||
+|| [[image https://scp-wiki.wdfiles.com/local--files/scp-8411/10.png width="250px"]]  || 06 || 歡迎獵人使用[[footnote]] 在小屋附近發現。[[/footnote]]||
+|| [[image https://scp-wiki.wdfiles.com/local--files/scp-8411/12.png width="250px"]]  || 07 || 有人在此消失，不要尋找||
+|| [[image https://scp-wiki.wdfiles.com/local--files/scp-8411/13.png width="250px"]]  || 08 || 不要單獨進入||
+|| [[image https://scp-wiki.wdfiles.com/local--files/scp-8411/14.png width="250px"]] || 09 || 不要理會聲音||
+|| [[image https://scp-wiki.wdfiles.com/local--files/scp-8411/15.png width="250px"]]  || 10 || 檢查人數||
+|| [[image https://scp-wiki.wdfiles.com/local--files/scp-8411/16.png width="250px"]]  || 11 || 很快就會復活 ||
+|| [[image https://scp-wiki.wdfiles.com/local--files/scp-8411/12a.png width="250px"]]  || 12 || 沒有人在叫你的名字 ||
+|| [[image  https://scp-wiki.wdfiles.com/local--files/scp-8411/13a.png width="250px"]]  || 13 || 有什麼在聽著 ||
+|| [[image https://scp-wiki.wdfiles.com/local--files/scp-8411/14a.png width="250px"]]  || 14 || 有什麼在看著 ||
+|| [[image https://scp-wiki.wdfiles.com/local--files/scp-8411/Her.png width="250px"]] || 15 || 看透林木之女 ||
+
+[[footnoteblock]]
+
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[SCP-8410]]] | SCP-8411 | [[[SCP-8412]]] >>
+[[/=]]
+[[/div]]
+
+[[=]]
+[[include :scp-zh-tr:component:license-box
+|author=Dino--Draws
+]]
+> **Filename:** tree.jpg
+> **Name:** File:Dülmen, Hausdülmen, Bäume -- 2022 -- 9636.jpg
+> **Author:** Dietmar Rabich
+> **License:** CC BY-SA 4.0
+> **Source Link:** https://commons.wikimedia.org/wiki/File:D%C3%BClmen,_Hausd%C3%BClmen,_B%C3%A4ume_--_2022_--_9636.jpg
+> **Additional Comments:** Edited by [[*user Dino--Draws]]
+
+> **Filename:** 1.png
+> **License:** CC BY-SA 3.0
+> **Author:** [[*user Dino--Draws]]
+
+> **Filename:** 4.png
+> **License:** CC BY-SA 3.0
+> **Author:** [[*user Dino--Draws]]
+
+> **Filename:** 5.png
+> **License:** CC BY-SA 3.0
+> **Author:** [[*user Dino--Draws]]
+
+> **Filename:** 6.png
+> **License:** CC BY-SA 3.0
+> **Author:** [[*user Dino--Draws]]
+
+> **Filename:** 7.png
+> **License:** CC BY-SA 3.0
+> **Author:** [[*user Dino--Draws]]
+
+> **Filename:** 8.png
+> **License:** CC BY-SA 3.0
+> **Author:** [[*user Dino--Draws]]
+
+> **Filename:** 9.png
+> **License:** CC BY-SA 3.0
+> **Author:** [[*user Dino--Draws]]
+
+> **Filename:** 10.png
+> **License:** CC BY-SA 3.0
+> **Author:** [[*user Dino--Draws]]
+
+> **Filename:** 11.png
+> **License:** CC BY-SA 3.0
+> **Author:** [[*user Dino--Draws]]
+
+> **Filename:** 12.png
+> **License:** CC BY-SA 3.0
+> **Author:** [[*user Dino--Draws]]
+
+> **Filename:** 13.png
+> **License:** CC BY-SA 3.0
+> **Author:** [[*user Dino--Draws]]
+
+> **Filename:** 14.png
+> **License:** CC BY-SA 3.0
+> **Author:** [[*user Dino--Draws]]
+
+> **Filename:** 15.png
+> **License:** CC BY-SA 3.0
+> **Author:** [[*user Dino--Draws]]
+
+> **Filename:** 12a.png
+> **License:** CC BY-SA 3.0
+> **Author:** [[*user Dino--Draws]]
+
+> **Filename:** 13a.png
+> **License:** CC BY-SA 3.0
+> **Author:** [[*user Dino--Draws]]
+
+> **Filename:** 14a.png
+> **License:** CC BY-SA 3.0
+> **Author:** [[*user Dino--Draws]]
+
+> **Filename:** Her.png
+> **License:** CC BY-SA 3.0
+> **Author:** [[*user Dino--Draws]]
+
+[[include :scp-zh-tr:component:license-box-end]]
+[[/=]]
