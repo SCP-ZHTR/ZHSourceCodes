@@ -1,0 +1,69 @@
+[[include component:scp-meta-title-hiding css-style=classic]]
+[[include info:start]]
+原文：[https://scp-wiki.wikidot.com/scp-7823 SCP-7823] 登陸月球
+作者：[[*user sprawlingstar]]
+譯者：[[*user Frederica Bernkastel]]
+
+**內容警告：**
+- 血腥和身體恐怖，其中包括對指甲的描繪。
+- 強制服毒。
+[[include info:end]]
+[[include :scp-zh-tr:component:info-cw]]
+=====
+[[include component:preview
+text=這是人類的一大步。]]
+=====
+
+[[include :scp-zh-tr:theme:classic]]
+
+**項目：** 7823
+
+**項目等級：** Keter
+
+**特殊收容措施：**
+阿波羅11號乘員遺體應浸泡於裝有高氯酸的大桶中。這些大桶將由電磁掛鎖密封。應將所有已知月神的神像隨機放置於儲藏室各處。此外還應放置赫娜[[footnote]] 阿爾巴尼亞異教信仰。[[/footnote]]女神像。
+
+每隔11個月，應開啟存放伯茲．艾德林的容器，將一個十字架放入其中。開啟容器時，應至少要有11名人員在場，所有人員均須配備氰化物藥丸。
+
+若麥可．科林斯的容器內出現哭泣或尖叫聲，工作人員應以口頭安慰作為回應。超出人類聲音範圍的噪音是誘餌，不應做出回應。
+
+尼爾．阿姆斯壯所在容器發出的任何聲音都應該被無視。
+
+一旦違反上述任何一項措施，阿波羅11號乘員將會復活，並在收容室內重演SCP-7823事件。
+
+**描述：**
+SCP-7823是月球著陸器在月球表面登陸時爆發的未知衝突事件。在這起事件中，太空員尼爾．阿姆斯壯失去了人類身分。此後不久，阿姆斯壯遭到了隊友伯茲．艾德林與麥可．科林斯的暴力襲擊。
+
+阿波羅11號返回地球後，三名太空人的狀況如下：
+
+艾德林被發現死於石油中毒，該員下巴脫臼，臉部肌腱撕裂。目前推測該員被用管子塞入口中，並藉此向其強行灌下火箭燃料。 [[footnote]]當前尚未釐清阿波羅11號如何在沒有燃料的情況下返回地球。[[/footnote]]這種情況一直持續到該員長時間吐逆[[footnote]] 嘔吐。 [[/footnote]]使管線堵塞為止。最終，排出液體湧入鼻腔，導致該員窒息身亡。艾德林死後，臉部與喉嚨遭到多處撕裂。隨後，四根來源未知的金屬釘子[[footnote]] 阿波羅11號資料並未登記這些物體。 [[/footnote]]將其屍體釘在登陸艙門上。
+
+阿姆斯壯被發現時瘦弱不堪但仍然存活。該員的背部被鑿傷，脊椎骨暴露在外，[[footnote]] 在阿姆斯壯背部發現了六根艾德林的指甲。這些指甲很可能原本刺入了阿姆斯壯的表皮內，並在艾德林掙扎時斷裂。 [[/footnote]]脊椎骨上還有多處咬痕。這些傷害導致阿姆斯壯脊柱斷裂。[[footnote]]根據現代解剖學的所有標準判斷，這應該是致命傷害。[[/footnote]]阿姆斯壯的皮膚變得蒼白透明。[[footnote]] 與適應無光環境的生物一致。[[/footnote]]同樣，該員的手指也變長了，指甲平均增長了11公分。此外，阿姆斯壯的胃變得膨脹，在其中發現了11磅（約4.5公斤）的多種生物質。[[footnote]]此生物質之主要組成是麥可．科林斯的皮膚。[[/footnote]]
+
+尚未釐清麥可．科林斯遭受的具體傷害。然而，這足以使之喪失行動能力、皮膚大部分受損、肋骨與背部斷裂。--儘管如此，科林斯的精神狀態依舊良好，至今仍能進行對話。-- 科林斯的身體開始出現與阿姆斯壯類似的轉變。由於這種轉變尚未結束，建議人員在與之交談時應保持謹慎。
+
+在SCP-7823發生期間，月球著陸器發送了以下影像：
+
+[[div class="blockquote"]]
+[[=image https://scp-wiki.wdfiles.com/local--files/scp-7823/astronaut.png]]
+這張相片是在月球著陸器升空期間自動拍攝，記錄了不明身分的身影正試圖闖入艙體內。相片拍攝時，所有阿波羅11號乘員都在飛船內部，並且被封鎖在艙體中。
+[[/div]]
+
+[[footnoteblock]]
+
+
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[SCP-7822]]] | SCP-7823 | [[[SCP-7824]]] >>
+[[/=]]
+[[/div]]
+
+[[include :scp-zh-tr:component:license-box
+|author=sprawlingstar
+]]
+> **Filename:** astronaut.png
+> **Name:** Apollo_11_first_step.jpg
+> **Author:** NASA
+> **License:**  Public Domain
+> **Source Link:** https://commons.wikimedia.org/wiki/File:Apollo_11_first_step.jpg
+[[include :scp-zh-tr:component:license-box-end]]
