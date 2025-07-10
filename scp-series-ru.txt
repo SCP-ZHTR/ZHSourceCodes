@@ -1,14 +1,7 @@
 [[div class="content-panel standalone series"]]
-[[div class="content-toc"]]
-**頁面目錄**
-[/scp-series-ru#001 001 to 999]
-[/scp-series-ru#1000 1000 to 1999]
-[[/div]]
-
-
 + SCP列表
 
-[[# 1000]]
+
 + 1000~1999
 * [[[scp-1002-ru]]] - "真理"廣播電台
 * [[[scp-1005-ru]]] - 洗錢機
@@ -31,6 +24,7 @@
 * [[[scp-1399-ru]]] - 再一次，我睜開眼
 * [[[scp-1410-ru]]] - 負罪雙肩之上的脆弱穹頂
 * [[[scp-1711-ru]]] - 這個項目叫什麼？問答撲克牌。
+
 
 + EX
 * [[[scp-1329-ru-ex]]] - 小小大冒險
