@@ -1,0 +1,26 @@
+[[div class="content-panel standalone series"]]
++ SCP列表
+
+
++ 001~999
+* [[[SCP-003-VN]]] - 森林之母
+* [[[SCP-005-VN]]] - 聖誕節格蘭披治賽
+* [[[SCP-012-VN]]] - 咎由自取
+* [[[SCP-013-VN]]] - 毒奶
+* [[[SCP-031-VN]]] - 細聽非現實的低語
+* [[[SCP-068-VN]]] - 我的肉體，我的命運，我的靈魂……
+* [[[SCP-101-VN]]] - 判事官之燄
+* [[[SCP-404-VN]]] - SOS！電腦出事了！
+
+
++ 搞笑SCP
+* [[[SCP-100-VN-J]]] - 真正全能的SCP
+* [[[SCP-6789-VN-J]]] - Kettle級大聲公
+
+
++ 故事/附加資料
+[[module ListPages tags="+翻譯 +VN -中心 故事 附加資料" order="created_at" ]]
+* %%linked_title%%
+[[/module]]
+
+[[/div]]
