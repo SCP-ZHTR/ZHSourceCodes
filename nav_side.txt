@@ -86,7 +86,19 @@ SCP檔案
 [[/div]]
 
 [[div_ class="menu-item"]]
-[[[scp-series-jp|SCP-JP系列 Ⅰ | Ⅱ | Ⅲ]]]
+[[[scp-series-jp|SCP-JP系列]]]
+[[/div]]
+
+[[div_ class="menu-item"]]
+[[[scp-series-ko|SCP-KO系列]]]
+[[/div]]
+
+[[div_ class="menu-item"]]
+[[[scp-series-ru|SCP-RU系列]]]
+[[/div]]
+
+[[div_ class="menu-item"]]
+[[[scp-series-vn|SCP-VN系列]]]
 [[/div]]
 
 [[div_ class="menu-item"]]

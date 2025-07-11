@@ -102,10 +102,19 @@
 * [[[SCP-3423-JP]]] - 無端自殺
 * [[[SCP-3823-JP]]] - 蝸角至孝
 * [[[SCP-3792-JP]]] - 「ひ」是「貧膜類」（貧膜口類／ひんまくこうるい）
+
+
 + 搞笑SCP
 * [[[SCP-240-JP-J]]] - 零條頭髮
 * [[[scp-325-jp-j|極度危險。絕對不要點開喔。]]]
 * [[[scpaaaaaaaaaaaaaaaaaa-jp-j|SC嗚喔喔啊啊啊啊啊啊啊啊-JP-J]]]
 * [[[scp-tintin-j|SCP-ㄐ█ㄐ█-JP-J]]]
 * [[[deleted:scp-9271-jp-j|SCP-9271-JP-J - 虛擬資本主義]]]（被刪除）
+
+
++ 故事/附加資料
+[[module ListPages tags="+翻譯 +JP -中心 故事 附加資料" order="created_at" ]]
+* %%linked_title%%
+[[/module]]
+
 [[/div]]
