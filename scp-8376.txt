@@ -1,0 +1,35 @@
+[[include component:scp-meta-title-hiding css-style=classic]]
+[[include info:start]]
+原文：[https://scp-wiki.wikidot.com/scp-8376 SCP-8376] 鏟子給我，你下去
+作者：[[*user mothmanUXO]]
+譯者：[[*user Frederica Bernkastel]]
+[[include info:end]]
+
+[[include component:image-block
+|name= https://scp-wiki.wdfiles.com/local--files/scp-8376/KiddeauxBlurredWhole.jpg
+|caption= ███████老年安養中心療程時間表
+|width= 2080
+|align= right]]
+[[footnote]] **譯注：**參與各種賓果遊戲挑戰，贏取小獎品。先訂先贏，但也可以隨時參加。掩埋名額**不在**獎品之列。 
+今天是埋葬日！謝麗爾、列夫、尤斯塔斯！一起來玫瑰園，記得要守規矩！
+[[/footnote]]
+
+
+**項目編號：**Safe
+
+**收容措施：** SCP-8376不使用時應存放於Site-56低風險項目儲存室。每15日，最多只能活埋5名D級人員。所有自願被活埋者都可以參與活埋抽籤。活埋將在Site-4溫室進行。
+
+**描述：**SCP-8376是一把附聚碳酸酯手柄的鋼刃鏟。任何擁有這把鏟子的人，都會產生想活埋任何在其照顧或管轄範圍內之人的衝動。任何參與活埋事件者，都會對被活埋者──即使該員就是自己──的前景有正面期待。旁觀者也會表現出同樣的熱情，並經常參與其中，為挖掘者歡呼，甚至也用手參與活埋。已確認被掩埋者的熱情在遭到土壤完整覆蓋後即會消退。
+
+SCP-8376是由███████老年安養中心回收而得。無需對該設施採取任何記憶消除措施──所有照顧人員都已遭到就地活埋。迄今為止未曾發現任何遺體。
+
+
+=====
+[[include component:preview
+text=
+已確認被掩埋者的熱情在遭到土壤完整覆蓋後即會消退。]]
+=====
+
+[[div style="display: none;" class="crom-thumbnail"]]
+[[include component:image-block name= https://scp-wiki.wdfiles.com/local--files/scp-8376/KiddeauxBlurredWhole.jpg]]
+[[/div]]
