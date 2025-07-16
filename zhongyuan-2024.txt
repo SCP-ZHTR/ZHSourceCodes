@@ -7,6 +7,12 @@
 [[include :scp-zh-tr:component:centered-header-bhl]]
 [[include :scp-sandbox2-zh:collab:i-hate-coding-2]]
 
+[[module CSS]]
+.footnotes-footer{
+display:none;
+}
+[[/module]]
+
 [[module css]]
 @import url('https://fonts.googleapis.com/css2?family=Zen+Antique+Soft&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Noto+Serif+TC:wght@800&display=swap');
@@ -504,9 +510,9 @@ SCP-ZH-715內仍有6名租約尚未到期之一般民眾。
 @@ @@
 @@ @@
 ##black|「驚悚的技法」[[footnote]] 淵夢認定最恐怖獎 [[/footnote]]：## 
-SCP-ZH-897 - 天是「停下來，拜託。」
+##black|SCP-ZH-897 - 天是「停下來，拜託。」## 
 ##black|「真紀嚇爆給獎聯盟」[[footnote]] 真紀認定最恐怖獎 [[/footnote]]：## 
-SCP-ZH-809 - 冰是「半衰期」
+##black|SCP-ZH-809 - 冰是「半衰期」## 
 @@ @@
 [[/div]]
 [[/=]]
@@ -518,11 +524,11 @@ SCP-ZH-809 - 冰是「半衰期」
 @@ @@
 @@ @@
 ##black|「不戰鬥就無法生存」[[footnote]] 最高得分數 [[/footnote]]：##
-SCP-ZH-420 - 風是「法槌」
+##black| SCP-ZH-420 - 風是「法槌」##
 ##black|「我要與命運戰鬥」[[footnote]] 第二高得分數 [[/footnote]]：##
-SCP-ZH-425 - 破是「破洞」
+##black|SCP-ZH-425 - 破是「破洞」##
 ##black|「dead or alive」[[footnote]] 第三高得分數 [[/footnote]]：##
-SCP-ZH-249 - 東是「敵愾」
+##black|SCP-ZH-249 - 東是「敵愾」##
 @@ @@
 [[/div]]
 [[/=]]
@@ -533,16 +539,16 @@ SCP-ZH-249 - 東是「敵愾」
 @@ @@
 @@ @@
 @@ @@
-##black|「大蛋」[[footnote]] 最長SCP的作者 [[/footnote]]：## Lostwhat
-##black|「它小小的」[[footnote]] 最短SCP的作者 [[/footnote]]：## Hildegardis
-##black|「素早的心得」[[footnote]] 最早完成定稿的作者 [[/footnote]]：## AbyssDream
-##black|「人生是一場巨大的坐牢」[[footnote]] 跟定稿戰鬥到最後一刻的作者 [[/footnote]]：## LuLu_Lucifelle
-##black|「天鵝絨秘書」[[footnote]] 為最多草稿評論的成員 [[/footnote]]：## Pao Mian、Control Z
-##black|「阿淵亂葬崗」[[footnote]] 包含最多具屍體的具屍體標籤項目作者[[/footnote]]：## Edward_Knave
-##black|「這裡是誰你是哪裡」[[footnote]] 帶有模因、逆模因、記憶影響、認知危害標籤（擇一）中最高分作者[[/footnote]]：## Reverberate_a
-##black|「拉郎系博士」[[footnote]] 在文章中使從未同時出現過的兩個本站獨有標籤同時出現的作者[[/footnote]]：## Frederica Bernkastel
-##black|「好連一直連」[[footnote]] 使用了最多的超連結[[/footnote]]：## Edward_Knave
-##black|「不可能完全不可能」[[footnote]] 作品沒有任何人死亡[[/footnote]]：## NocturnalT、Control Z
+##black|「大蛋」[[footnote]] 最長SCP的作者 [[/footnote]]：Lostwhat## 
+##black|「它小小的」[[footnote]] 最短SCP的作者 [[/footnote]]：Hildegardis## 
+##black|「素早的心得」[[footnote]] 最早完成定稿的作者 [[/footnote]]：AbyssDream## 
+##black|「人生是一場巨大的坐牢」[[footnote]] 跟定稿戰鬥到最後一刻的作者 [[/footnote]]：LuLu_Lucifelle## 
+##black|「天鵝絨秘書」[[footnote]] 為最多草稿評論的成員 [[/footnote]]：Pao Mian、Control Z## 
+##black|「阿淵亂葬崗」[[footnote]] 包含最多具屍體的具屍體標籤項目作者[[/footnote]]：Edward_Knave## 
+##black|「這裡是誰你是哪裡」[[footnote]] 帶有模因、逆模因、記憶影響、認知危害標籤（擇一）中最高分作者[[/footnote]]：Reverberate_a## 
+##black|「拉郎系博士」[[footnote]] 在文章中使從未同時出現過的兩個本站獨有標籤同時出現的作者[[/footnote]]： Frederica Bernkastel## 
+##black|「好連一直連」[[footnote]] 使用了最多的超連結[[/footnote]]：Edward_Knave##
+##black|「不可能完全不可能」[[footnote]] 作品沒有任何人死亡[[/footnote]]：NocturnalT、Control Z##
 
 @@ @@
 [[/div]]
@@ -554,10 +560,10 @@ SCP-ZH-249 - 東是「敵愾」
 @@ @@
 @@ @@
 @@ @@
-##black|「通靈王」[[footnote]] 正確猜中了某篇文章的標題[[/footnote]]：## ic_1623
-##black|「嘿嘿抓到你囉」[[footnote]]正確猜中了某篇文章的作者[[/footnote]]：## Sugoi97169、Mayaw Kacaw
-##black|「深夜電視」[[footnote]]在活動結束前為任意一篇作品投稿藝作[[/footnote]]：## Control Z
-##black|「異次元使者」[[footnote]]尊貴的外國朋友評論者[[/footnote]]：## KirQ
+##black|「通靈王」[[footnote]] 正確猜中了某篇文章的標題[[/footnote]]： ic_1623##
+##black|「嘿嘿抓到你囉」[[footnote]]正確猜中了某篇文章的作者[[/footnote]]：Sugoi97169、Mayaw Kacaw## 
+##black|「深夜電視」[[footnote]]在活動結束前為任意一篇作品投稿藝作[[/footnote]]：Control Z## 
+##black|「異次元使者」[[footnote]]尊貴的外國朋友評論者[[/footnote]]： KirQ## 
 @@ @@
 [[/div]]
 [[/=]]
