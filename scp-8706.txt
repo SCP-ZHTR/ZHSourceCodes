@@ -5,6 +5,11 @@
 譯者：[[*user Frederica Bernkastel]]
 
 **內容警告：** 本文涉及了自殺與血腥相關內容。
+
+=====
+[[include :scp-wiki:component:preview
+text= ......就不再是世界]]
+=====
 [[include info:end]]
 =====
 [[include :scp-zh-tr:component:preview
