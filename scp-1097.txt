@@ -1,0 +1,253 @@
+[[include component:scp-meta-title-hiding css-style=classic]]
+
+[[include :scp-zh-tr:theme:black-highlighter-theme]]
+[[include :scp-zh-tr:component:bhl-dark-sidebar]]
+[[include :scp-zh-tr:component:centered-header-bhl]]
+[[include :scp-zh-tr:component:toggle-sidebar-bhl]]
+[[include :scp-zh-tr:component:acs-animation]]
+[[include :scp-zh-tr:component:fade-in speed=4]]
+[[module CSS]]
+:root {
+    --logo-image: url("https://nu-scptheme.github.io/Black-Highlighter/img/logo.svg");
+}
+
+#page-content hr {
+border-top: none;
+height: .05em;
+background: #454545;
+}
+
+.info-container .collapsible-block-folded a{
+color: #FFF;}
+.info-container .collapsible-block-unfolded-link a{
+color: #FFF;
+}
+
+.info-container .collapsible-block-folded a{
+color: #FFF;}
+.info-container .collapsible-block-unfolded-link a{
+color: #FFF;
+}
+
+#page-content > .collapsible-block {
+    display: block;
+    text-align: center;
+    padding: .8em;
+    background-color: #e3e3e3;
+    border-top: 0.125rem dashed #b5b5b5;
+    border-bottom: 0.125rem dashed #b5b5b5;
+}
+
+#page-content > .collapsible-block .collapsible-block-content {
+    text-align: left;
+}
+
+blockquote,
+div.blockquote {
+    border: 0.125rem solid #d4d4d4;
+    background-color: #F5F5F5;
+}
+
+.interview{
+    border:solid 2px #d4d4d4;
+    background:#F5F5F5;
+    width:90%;
+    padding:1px 15px;
+    margin: 10px auto;
+}
+
+.addendum{
+    border:solid 1px #5e5e5e;
+    background:#ffffff;
+    width:90%;
+    padding:1px 15px;
+    margin: 10px auto;
+}
+
+#page-title{display:none}
+
+#page-content ul:not(.yui-nav) {
+  list-style: outside;
+  margin-left: 32px;
+}
+
+ .notice{
+     padding: 0.5em;
+     color: hsl(57, 98%, 68%);
+     background: hsl(9, 51%, 47%);
+     border: 1px solid hsl(57, 98%, 68%);
+     outline: 4px solid hsl(9, 51%, 47%);
+     text-align: center;
+}
+
+
+[[/module]]
+
+[[>]]
+[[include info:start]]
+原文：[https://scp-wiki.wikidot.com/scp-1097 1097-PCS] 順序倒錯
+作者：[[*user PlaguePJP]]
+譯者：[[*user Frederica Bernkastel]]
+[[include info:end]]
+[[/>]]
+[[div style="text-align: right; margin-top: -20px;"]]
+[[size 80%]]##757575|by PlaguePJP##[[/size]]
+[[/div]]
+
+@@ @@
+@@ @@
+
+[[div class="notice"]]
+
+。讀可再不案檔本使將這。例實久永效失容收1097-PCS的中行進為成將案檔本，內時小42的來下接在
+
+++++ 來自傳誤部的警告
+[[/div]]
+
+@@ @@
+
+
+[[div class="interview"]]
+= **<<紀錄結束>>**
+
+**哈勒博士：** 誤傳部，女士。
+
+**克蘭西主任：** 了解。我確認一下，你所屬的部門是？
+
+**哈勒博士：** 我想可以。這應該會有用。//[......]//實際上，從第14頁頁尾開始。讓我們把東西聊清楚。
+
+**克蘭西主任：** 成了嗎？
+
+//（靜默。）//
+
+**克蘭西主任：** 懂了。所以，問題出在清晰度上，這文件是上下倒反的。
+
+**哈勒博士：** 我們仍在努力解決這個問題。1097-PCS會扭曲檔案結構，因此處理好它需要時間。我們會繼續觀察下去——最糟的情況，我們得要從頭來過。目前的草案足夠穩定。有些標準文件是太簡略了，但也都是故意為之。這有助於確保條理清晰。
+
+**克蘭西主任：** 如果情況惡化，有逆轉的方法嗎？
+
+**哈勒博士：** 我們認為將它與歸定編號綁死或許能使其穩定下來，到目前為止，這種想法確實有用。但要逆轉1-1097-PCS實例？我們仍然遙不可及。我們還沒法完全確定它是如何選擇目標並與之結合的，也不清楚它進入目標後究竟會發生什麼。易變特性是我們面對最大的障礙。
+
+**克蘭西主任：** 你們如何處理連結？
+
+**哈勒博士：** 我們還得繼續改進──有一次，它從我的終端出來後，我們真得在兩個衛生紙盒間將它來回打來打去。它移動得太快了。實際的方法是先創造命名關聯──給它名字──並在建立連結後，將實體物理注入目標檔案。我們給它下了個誘餌。
+
+**克蘭西主任：** 你覺得這樣就能成功嗎？如果它又盯上別的東西呢？這是它的本質，不是嗎？
+
+**哈勒博士：** 是的。博士曼夫霍剛被感染時，我們無法直接用名字來指稱他──它破壞了所有實例。然而一旦我們停止使用這個名字，1097-PCS就脫離了他，緊接著寄生在我SCiPnet終端機的一個資料夾中。他的名字仍舊被破壞了，但他本人安然無恙。馬修斯猜想，重新使用被破壞的名字──博士曼夫霍──就能把它又拖回來。於是我們在乾淨的文件上測試了一下，成功。
+
+**克蘭西主任：** 這就是為什麼它被歸定為1097-PCS──因為它以這個指稱為食。有意思。我好像在收容措施草案裡見過這個。
+
+**哈勒博士：** 是的。我與馬修斯一起構思了最初的想法，然後團隊也參與了改進。首要任務是保持其惰性與穩定，確保它不會佔用整個文件使之無法閱讀。只要它處於「被餵食」的狀態，它就會保持不動。
+
+**克蘭西主任：** 嗯哼。幹得好。你們的收容措施從來沒讓人失望過──我想這在其他部門可不常見。
+
+//（靜默。）//
+
+**哈勒博士：** 現在倒過來。「幹得好。」
+
+**克蘭西主任：** //（翻動文件）// 嗯嗯。
+
+**哈勒博士：** 其實還是最後一刻改好的。等一下啊，//（翻動文件。哈勒博士將一疊文件遞給了克蘭西主任）//給。準備好就讀吧。
+
+**克蘭西主任：** 我帶上昨天的複本。裡面都內容是全部了嗎？
+
+**哈勒博士：** 啊，糟透了。如果需要幫助就儘管告訴我吧。哦，那個我昨晚完成，發給威爾遜了。看起來還行嗎？
+
+**克蘭西主任：** 很高興再次見到你──我們好久沒聊聊了。我最近沒怎麼在部門待著。監督者每年這個時候都喜歡搞事情。
+
+= **<<紀錄開始>>**
+
+-----
+= **文本抄錄**
+[[/div]]
+
+[[div class="notice"]]
+--依萊・福克萊，誤傳部主任
+
+以下交流已按照VCP-PCS/1097進行。職員請注意，文本偏離可能導致命名突破。
+
+++++ 誤傳部誤傳部通知
+[[/div]]
+
+**附錄1097.1：** 更多資訊
+
+迄今為止，尚未發現逆轉永久感染的方法。
+
+|| 2夾件文 || 哈勒博士SCiPNet終端上的文件夾。 || 任何放入2夾件文的資料都會被重新命名，顯示為1-1097-PCS實例。這些文件的內容並不會受到影響。 || 18分鐘 ||
+|| 博士曼夫霍 || 誤傳部助理研究員 ||任何以未受影響頭銜稱呼博士曼夫霍的嘗試都失敗了。 || 1小時23分鐘 ||
+|| 西馬 || 加盧奇研究員的狗 || 走路、吠叫、吃飯都是反向進行的。 || 13小時54分鐘：永久影響。 ||
+|| 寬口玻璃瓶 || 最初由博士曼夫霍作為測試用的實體收容空間 || 試圖放入罐子開口的物品會碰上看不見的牆。若要將物品放入罐中，只需蓋上蓋子並擰緊，然後將物品滑過玻璃外殼即可。 || 32小時9分鐘：永久影響。 ||
+||~ 物體 ||~ 描述 ||~ 影響 ||~ 時長 ||
+
+1-1097-PCS指涉已感染或感染中的1097-PCS物體或實體。如果項目實體被快速移除，則該實體可能得以逆轉，但根據暴露時間長短，可能會出現輕微的殘留效應。已知1-1097-PCS實例簡表如下：
+
+1097-PCS極其隱蔽，傾向於停留在自己選擇的目標中，直到該實體完全重組為1-1097-PCS永久實例，或被從目標上拔除。
+
+1097-PCS外形近似反光黑色凝膠狀的小型頭足類生物。項目透過滑動與跳躍的組合行為在周圍環境移動。選定目標後，1097-PCS就會利用觸手下方的吸盤吸附目標。一旦與目標連接，1097-PCS即會變為無形。
+
+**描述：** 1097-PCS是一種傳染性偽模因寄生實體，能反轉並重組描述符、內容，以及實體物件、生物體、概念結構的溝通功能。項目主要影響名稱、符號、指稱鏈。
+
+根據非書面收容協議PCS/1097，所有人員必須始終使用編號「1097-PCS」指稱項目。不得偏離。不得自創。不得試圖自由詮解。
+
+**特殊收容措施：** 1097-PCS收容於本檔案中。
+
+-----
+
+[[div]]
+[[include :scp-zh-tr:component:anomaly-class-bar-source
+|item-number=1097
+|clearance= 4
+|container-class= keter
+|secondary-class=
+|secondary-icon=
+|disruption-class=
+|risk-class=
+]]
+
+[[include :scp-zh-tr:component:customizable-acs
+|containment-class= keter
+|containment-image= https://scp-wiki.wdfiles.com/local--files/component%3Aanomaly-class-bar/keter-icon.svg
+|containment-color= 196,2,51
+|inc-neutralized-layout = --]]]
+
+[[include :scp-zh-tr:component:customizable-acs
+|clearance-four= 196,2,51
+|inc-clearance= --]]]
+[[/div]]
+------
+
+
+[[div style="text-align: right; margin-bottom: -30px;"]]
+[[size 80%]]##757575|by PlaguePJP##[[/size]]
+[[/div]]
+[[>]]
+[[include info:start]]
+原文：[https://scp-wiki.wikidot.com/scp-1097 1097-PCS] 
+作者：[[*user PlaguePJP]]
+譯者：[[*user Frederica Bernkastel]]
+[[include info:end]]
+[[/>]]
+
+
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+
+[[footnoteblock]]
+----
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[SCP-1096]]] | PCS-1097 | [[[SCP-1098]]] >>
+[[/=]]
+[[/div]]
+----
