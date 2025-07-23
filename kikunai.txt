@@ -127,7 +127,14 @@ __本站收錄__
 @@ @@
 +++ __翻譯（故事和一切文章）__
 @@ @@
-[[module ListPages created_by="Kikunai" tags="+翻譯 -scp" category="*" order="created_at desc" perPage="500"]]
+[[module ListPages created_by="Kikunai" tags="+翻譯 -scp -外觀主題 -組件" category="*" order="created_at desc" perPage="500"]]
+%%title_linked%% （%%created_at%% | %%rating%%）
+[[/module]]
+
+@@ @@
++++ __翻譯（CSS）__
+@@ @@
+[[module ListPages created_by="Kikunai" tags="+翻譯 +外觀主題" category="*" order="created_at desc" perPage="500"]]
 %%title_linked%% （%%created_at%% | %%rating%%）
 [[/module]]
 -----
