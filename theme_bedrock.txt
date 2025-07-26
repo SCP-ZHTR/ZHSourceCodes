@@ -84,7 +84,8 @@
 一條水平線可以透括使用4個連字號「@@----@@」來創建 [[footnote]]這仍是為了平息[[*user Placeholder McD]]。[[/footnote]]且如果它沒被包在任何東西裡面的話（例如引用塊），它會延伸並橫跨整個頁面。在這份文件中被拿來分段的就是水平線。
 
 [[include :scp-zh-tr:component:image-block name=https://cdn.scpwiki.com/theme/en/basalt/basaltlogo.svg|caption=圖片格。|width=280px]]
-標題可以被以在一行的開頭添加一至六個加號「+」來創建
+
+標題可以透過在一行的開頭添加一至六個加號「+」來創建。
 
 [[collapsible show="摺疊頁 - 點我" hide="摺疊頁 - 點我"]]
 +* 一級標題
