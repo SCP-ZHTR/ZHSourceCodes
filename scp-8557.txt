@@ -1,0 +1,87 @@
+[[include :scp-zh-tr:component:scp-meta-title-hiding]]
+[[include :scp-zh-tr:component:adult-content-warning
+|gore=1
+|torture=1
+|self-harm=1
+|suicide=1
+|custom=1 |custom-content=單向下藥他人的描述
+
+]]
+
+[[include :scp-zh-tr:theme:classic]]
+
+[[include info:start]]
+**SCP-8557** - 又來了，納西瑟斯？
+**作者：**[[*user local lesbian commie]] 
+**譯者：**[[*user Halewen]]
+**主題製作：** [[*user Lt Flops]]
+[https://scp-wiki.wikidot.com/local-lesbian-commie-s-secret-hideout local lesbian commie的作者頁]
+[[include info:end]]
+
+=====
+[[include component:preview
+text=
+「你不曾對自己感到厭煩嗎？」
+]]
+=====
+
+**項目編號：**SCP-8557
+
+**項目等級：** Euclid
+
+**特殊收容措施：**對於任何曾試圖自殘、出現自殺念頭或是擁有相關精神症狀的人員，嚴禁將其分配至SCP-8557的收容。
+
+被選中的特工將潛伏於多個醫療機構網路中——比如急救單位與精神科診所——以辨認和監視潛在的SCP-8557案例，直到正式診斷單發下為止。
+
+倘若確認了SCP-8557案例，人員將逐漸說服對象正在經歷致幻性的壞死性筋膜炎，唯一的治療方式為縫合所有SCP-8557實例。如有必要，此手術無須雙方同意即可進行，並在事後給予E級記憶消除。
+
+**描述：**SCP-8557是一生物現象，即持續性的自殘將導致最新的傷口成為具有智能的口腔，此口腔能夠進行長期且連貫的對話。
+
+此過程並不會導致疼痛；受影響的傷口將會停止流血，並於4分鐘內凝固。形成過程首先將於傷口附近的表皮組織上生成嘴唇，接著出現完整的成人牙弓，並在最後形成無功能的舌頭。
+
+SCP-8557實例不斷表現出一種被描述為「無條件關愛」的態度，並與他們的宿主進行個人化的情緒認同對話，其中精準談論了重要的興趣、恐懼以及未解決的悲痛感。這種態度將引起宿主的心理依賴感，強度在化學上可比藥物成癮。
+
+在SCP-8557初次顯現後，多名對象會加強自殘的嚴重程度與頻率，並聲稱此過程是「不用多說便被理解」、「終於感覺被看見」，以及最常見的[https://scp-wiki.wikidot.com/the-hardest-thing-you-will-ever-do-is-attempt-to-love-yourse 「不痛的痛苦」]。
+
+[[include component:image-block
+|name=https://scp-wiki.wdfiles.com/local--files/scp-8557/a%20new%20friend.jpg
+|caption=一個SCP-8557實例誕生
+|width=70%
+|align=right]]
+
+SCP-8557實例並未對手術干涉表示抵抗。傷口縫合可透過標準方式進行，在此之後實例將不再動作[[footnote]]但物理上仍嵌在體內。[[/footnote]]。
+
+**項目歷史：**2007年6月22日，SCP-8557被發現於/x/——一個致力於討論超自然現象的4Chan版——上的一則匿名貼文。此則貼文包含了多張照片以及一名人員的自白，追查此貼文後發現本貼文來自於Akari Tanaka，一名居住在日本本州安城市的19歲女性。
+
+進一步調查顯示Tanaka自童年早期便已是SCP-8557的受害者，並與其發展了複雜的情感關係。據稱，她將異常當作寵物看待，並試圖分別餵食它們，以及給它們分別起名。
+
+對象的伴侶——Himari Akiyama——不只知曉此現象，甚至積極鼓勵Tanaka持續自殘，以增加SCP-8557的數量。Akiyama有時甚至會令Tanaka服下處方藥的鎮靜劑，使她昏迷一段時間，與此同時，Akiyama會單獨與SCP-8557實例互動[[footnote]]回收到的一本個人日記中包含了超過70張Tanaka的傷口照片。[[/footnote]]。
+
+在透過手術介入時，Tanaka的皮膚有47%皆已被自殘傷口覆蓋。六個月後，Tanaka自殺。基金會人員參與了她的喪禮以防其死後出現任何效應。現場沒有任何平民。
+
+[[footnoteblock]]
+
+[[include :scp-zh-tr:component:license-box]]
+
+> **Filename:** Into my mouth (1781548133).jpg
+> **Author:** Marcus Quigmire
+> **License:** CC-BY-SA 2.0
+> **Source Link:** [https://upload.wikimedia.org/wikipedia/commons/d/de/Into_my_mouth_%281781548133%29.jpg Wikimedia Commons]
+
+> **Filename:** Healthcare Simulation Moulage Standardized Patient Actor Deep Gash Wound Cut on Wrist.jpg
+> **Author:** Ashabnama
+> **License:** CC-BY-SA 4.0 
+> **Source Link:** [https://upload.wikimedia.org/wikipedia/commons/d/d7/Healthcare_Simulation_Moulage_Standardized_Patient_Actor_Deep_Gash_Wound_Cut_on_Wrist.jpg Wikimedia Commons]
+
+> **Filename:** a new friend.jpg
+> **Author:** [[*user local lesbian commie]]
+> **License:** CC-BY-SA 4.0 
+> **Source Link:** [https://flic.kr/p/2rcjKyX Flickr]
+
+[[include :scp-zh-tr:component:license-box-end]]
+
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[SCP-8556]]] | SCP-8557 | [[[SCP-8558]]] >>
+[[/=]]
+[[/div]]

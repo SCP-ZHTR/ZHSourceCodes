@@ -602,7 +602,7 @@
 * [[[SCP-8554]]] - [ACCESS DENIED]
 * [[[SCP-8555]]] - Kaleidoscope
 * [[[SCP-8556]]] - [ACCESS DENIED]
-* [[[SCP-8557]]] - [ACCESS DENIED]
+* [[[SCP-8557]]] - 又來了，納西瑟斯？
 * [[[SCP-8558]]] - [ACCESS DENIED]
 * [[[SCP-8559]]] - [ACCESS DENIED]
 * [[[SCP-8560]]] - [ACCESS DENIED]
