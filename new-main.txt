@@ -43,16 +43,27 @@
 
 ~~~~
 ----
-[[include :scp-wiki:fragment:wl-front-page-box |css=--]]]
-[[include :scp-wiki:fragment:wl-front-page-box |div=--]
-|URL=https://wanderers-library.wikidot.com/
-|URL-Title=Wanderers' Library
+
+[!-- 國際分站列表  --]
+[[include :scp-zh-tr:fragment:front-page-international-branches]]
+
+------
+
+[[include :scp-zh-tr:fragment:wl-front-page-box |css=--]]]
+[[include :scp-zh-tr:fragment:wl-front-page-box |div=--]
+|URL=http://scp-zh-tr.wikidot.com/wanderers:start-zh
+|URL-Title=流浪者圖書館
 |img-URL=https://wanderers-library.wdfiles.com/local--files/component%3Atheme/wl_logo.png
-|top-h4=Official Sister Site
-|top-h2=The Wanderer's Library
-|text=The Wanderer's Library features the endless fantastical stories contained within the Library, home to the Serpent's Hand and readers of all shapes and sizes. Stories should inspire Wonder - a sense that there is a larger world beyond the one we know.
+|top-h4=官方姐妹網站
+|top-h2=[[span class="ruby"]]流浪者圖書館[[span class="rt"]]The Wanderer's Library[[/span]][[/span]]|text=流浪者圖書館中收藏了數之不盡的奇幻故事，「蛇之手」與形貌各異的讀者們也棲息於此。這裡的故事應當令人[[span class="ruby"]]驚嘆[[span class="rt"]]Wonder[[/span]][[/span]]：在我們所知道的世界之外，原來還有著更加廣闊的宇宙。
 ]]
-[[include :scp-wiki:fragment:front-page-international-branches]]
+
+[[module css]]
+.library>div.wl-text {
+    display: initial;
+}
+[[/module]]
+
 [[=]]
 [[include :scp-wiki:component:license-box
 |author=The SCP Foundation Wiki]]

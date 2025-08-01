@@ -25,7 +25,7 @@
 [[/div]]
 
 [[div class="footer"]]
-最新原創詞條一覽
+[http://scp-zh-tr.wikidot.com/new-works 最新原創詞條一覽]
 [[/div]]
 
 [[/div]]
@@ -46,7 +46,7 @@
 [[/div]]
 
 [[div class="footer"]]
-最新翻譯詞條一覽
+[http://scp-zh-tr.wikidot.com/new-translation 最新翻譯詞條一覽]
 [[/div]]
 
 [[/div]]
