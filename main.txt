@@ -5,7 +5,10 @@
 
 [!-- THIS IS THE HEADER: IT HAS THE CLASSIFIED HEADER, THE CONTEST BANNER, AND THE SURVEY LINK. PLEASE USE THE APPROPRIATE TOGGLES: classified, contest, and survey and surveylink. THE CLASSIFIED HEADER AND CONTEST BANNER SHOULD NOT BE ON AT THE SAME TIME, BUT THE SURVEY CAN COEXIST WITH EITHER. --]
 
+[[div style="margin-bottom:0.5rem;"]]
 [[image https://i.postimg.cc/YtZ59546/GOI.png link ="summer-contest-2025"]]
+[[/div]]
+
 
 [[div class="grid"]]
 
