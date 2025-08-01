@@ -1,28 +1,65 @@
 [!-- This image acts as a thumbnail.  --]
 [[image https://scp-wiki.wdfiles.com/local--files/main/logo_250.png width="0" height="0"]]
+ 
+[[include fragment:front-page-gridcode]]
 
-[[include :scp-zh-tr:fragment:front-page-header]]
+[!-- THIS IS THE HEADER: IT HAS THE CLASSIFIED HEADER, THE CONTEST BANNER, AND THE SURVEY LINK. PLEASE USE THE APPROPRIATE TOGGLES: classified, contest, and survey and surveylink. THE CLASSIFIED HEADER AND CONTEST BANNER SHOULD NOT BE ON AT THE SAME TIME, BUT THE SURVEY CAN COEXIST WITH EITHER. --]
 
-~~~~
-[!-- 歡迎方塊  --]
-[[include :scp-zh-tr:fragment:front-page-welcome-box]]
-
-@@ @@
-[!-- 最新活動消息  --]
-[[div style="border:solid 1px #000000; background:#d6d6d6; padding:5px; margin-bottom: 10px;"]]
-[[<]]
-+++ 最新活動消息
-[[/<]]
 [[image https://i.postimg.cc/YtZ59546/GOI.png link ="summer-contest-2025"]]
-+++ [http://scp-zh-tr.wikidot.com/summer-contest-2025 2025夏季競賽《異常之局》]
 
-----
+[[div class="grid"]]
+
+[[include fragment:new-front-page-news-bulletin
+|date1=2025年06月01日**【競賽活動】**
+|blurb1=年度夏季競賽《異常之局》已經正式公開！徵文時間為【2025年06月23日 （一）】至【2025年08月03日 （日） 23:59】，更多詳情請見[/summer-contest-2025 ▶活動網頁]。
+|date2=2025年02月15日**【競賽活動】**
+|blurb2=* 冬季競賽《絕望與希望》結果已經發表！恭喜獲獎者： _
+第一名：[[*user Lostwhat]] _
+第二名：[[*user Frederica Bernkastel]] _
+第三名：[[*user Mayaw Kacaw]] _
+]]
+
+[[include fragment:main-page-rss]]
+
+[[include fragment:new-front-page-features
+|scptitle=SCP-ZH-386 - 廢紙堆下
+|scpslug=scp-zh-386
+|scpby=[[user lostwhat]] 
+|scpselector=[[user dr-v-valentine]] 
+|scpblurb=SCP-ZH-386 的影響會漸進增強，初期只是在受影響者附近周遭產生廣告，隨著時間進展將直接附著在該對象外表面或內部，甚至從廣告紙的黏貼面產生有腐蝕性的液體。
+|taletitle=為何我們不能濫用現實穩定錨？
+|taleslug=about-scranton-reality-anchors
+|taleby=[[user Nihilmace]] 
+|taleselector=[[user dr-v-valentine]] 
+|taleblurb=SRA將會被校準對那些已死亡的宇宙抽取現實，包括熱寂以及遭受其他除IK級以外K級情景後的宇宙，儘管會更加速那些宇宙的死亡，但對沒有生物的宇宙這麼做仍是可被接受的。
+|transtitle=SCP-6794 - 五疊之道 - SCP基金會
+|transslug=scp-6794
+|transby=[[user Frederica Bernkastel]] 
+|transauthor=[[user Rounderhouse]] 
+|transselector=[[user dr-v-valentine]] 
+|transblurb=受害者會表現出想待在室內的願望，並且感到火焰的吸引力。尚未釐清這些行為間的關聯。
+|rstitle=4x4x4的囚籠
+|rsslug=4x4x4-cell
+|rsby=[[user kikunai]] 
+|rsselector=[[user vomiter]] 
+|rsblurb=我覺得自己的命運是個魔方
+]]
+
+[[include fragment:front-page-artist-showcase
+|artblurb=Tostren, 灰塵, IC 1623
+
+[!-- SLIDESHOW IMAGE URLS. IF IT'S ONLY ONE IMAGE STICK IT IN ALL THREE--]
+
+|art1url= https://i.imgur.com/eE4AxKW.jpeg
+
+|art2url= https://i.imgur.com/gOdU2t3.jpeg
+
+|art3url= https://i.imgur.com/LnFxj3q.jpeg]]
 [[/div]]
 
-[!-- 展出  --]
-[[include :scp-zh-tr:fragment:front-page-features]]
-[!-- 新聞  --]
-[[include :scp-zh-tr:fragment:front-page-news-bulletin]]
+~~~~
+----
+
 [!-- 國際分站列表  --]
 [[include :scp-zh-tr:fragment:front-page-international-branches]]
 
@@ -33,20 +70,33 @@
 |URL=http://scp-zh-tr.wikidot.com/wanderers:start-zh
 |URL-Title=流浪者圖書館
 |img-URL=https://wanderers-library.wdfiles.com/local--files/component%3Atheme/wl_logo.png
-|top-h4=官方姐妹網站 
-|top-h2=[[span class="ruby"]]流浪者圖書館[[span class="rt"]]The Wanderer's Library[[/span]][[/span]] 
-|text=流浪者圖書館中收藏了數之不盡的奇幻故事，「蛇之手」與形貌各異的讀者們也棲息於此。這裡的故事應當令人[[span class="ruby"]]驚嘆[[span class="rt"]]Wonder[[/span]][[/span]]：在我們所知道的世界之外，原來還有著更加廣闊的宇宙。
+|top-h4=官方姐妹網站
+|top-h2=[[span class="ruby"]]流浪者圖書館[[span class="rt"]]The Wanderer's Library[[/span]][[/span]]|text=流浪者圖書館中收藏了數之不盡的奇幻故事，「蛇之手」與形貌各異的讀者們也棲息於此。這裡的故事應當令人[[span class="ruby"]]驚嘆[[span class="rt"]]Wonder[[/span]][[/span]]：在我們所知道的世界之外，原來還有著更加廣闊的宇宙。
 ]]
+
 [[module css]]
 .library>div.wl-text {
     display: initial;
 }
 [[/module]]
------
-[[div class="content-panel centered standalone"]]
-[[table]][[row]]
-[[cell style="padding:5px; width:88px;"]][[image https://i.creativecommons.org/l/by-sa/3.0/88x31.png link="http://creativecommons.org/licenses/by-sa/3.0/" alt="Creative Commons License"]][[/cell]]
-[[cell style="padding:5px;"]]該維基以[https://creativecommons.org/licenses/by-sa/3.0/deed.zh_TW 姓名標示-相同方式分享 3.0 未本地化 (CC BY-SA 3.0)]協議進行授權。 _
-SCP 基金會維基的 **Sigma-9** 外觀主題及格式由 [[user Aelanna]] 設計。
-[[/cell]][[/row]][[/table]]
-[[/div]]
+
+[[=]]
+[[include :scp-wiki:component:license-box
+|author=The SCP Foundation Wiki]]
+> **Name:** Sigma-10 CSS Theme
+> **Maintainer:** Technical Team
+> **License:** CC BY-SA 3.0
+> **Source Link:** [[[theme:site|Site Theme]]]
+> **Additional Notes:** Based on
+> ----
+> **Name:** Sigma-9 CSS Theme
+> **Author:** [[*user Aelanna]]
+> **License:** CC BY-SA 3.0
+> **Source Link:** [[[component:theme|]]]
+
+> **Name:** header-logo.svg, body_bg.svg
+> **Author:** [[*user dr_grom]]
+> **License:** CC BY-SA 3.0
+> **Source Link:** [https://github.com/Grombald/Common-Theme GitHub]
+[[include :scp-wiki:component:license-box-end]]
+[[/=]]

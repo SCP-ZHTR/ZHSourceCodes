@@ -1,12 +1,12 @@
 [[div class="box art"]]
 [[div class="title"]]
-ART SPOTLIGHT
+藝術展示
 [[/div]]
 [[div class="caption"]]
-This month's [[[/artwork-hub | Featured Artists]]]: {$artblurb}
+本月 [[[/artwork-hub | 展示藝術家]]]: {$artblurb}
 [[/div]]
 [[div class="footer"]]
-@@>>@@ [https://scp-wiki.wikidot.com/artist-showcase-archive Past Art Spotlights]
+@@>>@@ 頁面暫時空缺
 [[/div]]
 [[/div]]
 

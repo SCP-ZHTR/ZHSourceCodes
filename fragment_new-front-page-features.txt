@@ -41,7 +41,7 @@ SCP 作品展出
 
 [[div class="feature"]]
 ++ [[[{$transslug}| {$transtitle}]]]
-[[span class="feature-subtitle"]]譯者：{$transby}　譯者：{$transauthor}[[/span]] | [[span class="feature-subsubtitle"]]推薦人： {$transselector}[[/span]]
+[[span class="feature-subtitle"]]譯者：{$transby}　作者：{$transauthor}[[/span]] | [[span class="feature-subsubtitle"]]推薦人： {$transselector}[[/span]]
 
 [[span class="feature-blurb"]]{$transblurb}[[/span]]
 [[/div]]

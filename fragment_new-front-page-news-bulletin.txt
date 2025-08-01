@@ -7,7 +7,7 @@
 網站新聞
 [[/div]]
 [[div class="issue"]]
-**[[[news | Latest Issue]]]** of //Site News!//
+**[[[news | 過往新聞存檔]]]**
 [[/div]]
 [[div class="news"]]
 +++++ {$date1}
