@@ -27,7 +27,7 @@
 [[include fragment:new-front-page-features
 |scptitle=SCP-ZH-386 - 廢紙堆下
 |scpslug=scp-zh-386
-|scpby=[[user lostwhat]] 
+|scpby=[[user vomiter]] 
 |scpselector=[[user dr-v-valentine]] 
 |scpblurb=SCP-ZH-386 的影響會漸進增強，初期只是在受影響者附近周遭產生廣告，隨著時間進展將直接附著在該對象外表面或內部，甚至從廣告紙的黏貼面產生有腐蝕性的液體。
 |taletitle=為何我們不能濫用現實穩定錨？
