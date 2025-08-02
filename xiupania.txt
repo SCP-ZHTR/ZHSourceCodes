@@ -1,0 +1,580 @@
+[[>]]
+[[module Rate]]
+[[/>]]
+
+[[=]]
+
+[[size 2.5em]] ##black|西部夢神## [[/size]]
+@@ @@
+[[size 1em]] ##purple|相連意識## [[/size]]
+@@ @@
+[[include :topia:oneiroi-collective-svg-logo]]
+@@ @@
+//##purple|「一切不過幻夢！」##//
+
+^^**爬蟲**：貓頭鷹機器人 | **查詢**：齊邵 | **搜尋**：西夢子網站^^
+,,^^**其他過濾器** | **排除**：烹飪節目 | **保留**: 是^^,,
+
+
+------
+
+[[collapsible show="瀏覽歷史" hide="收起"]]
+**序幕:**
+[[[black-lotus |Black Lotus]]]
+-- 
+[[[scp-2603 |Its Maiden Voyage]]]
+[[[oneirocritic |Oneirocritic]]]
+[[[oneirochemy |Oneirochemy]]]
+[[[oneirophrenia |Oneirophrenia]]]
+[[[Midhesia |Midhesia]]]
+[[[Xiupania |Xiupania]]]
+-- 
+**尾聲**
+[[[a-breath-of-relief-no-different-from-drowning | 寬慰的嘆息與溺斃無異 ]]]
+-- 
+**後記**
+[[[Crushing Your Dreams |Crushing Your Dreams]]]
+[[[sleep-beneath-the-stars | 沉眠於眾星之下 ]]]
+[[[my-head-is-on-fire-and-im-not-ok | 我的頭著火了，我很（不）好 ]]]
+
+
+[[/collapsible]]
+[[/=]]
+------
+
+[[div style="background: url(/local--files/experimental-2-no-tocar/archivelogobackground.png) center top no-repeat ; float: left; width: 400px; padding: 1px 15px; margin: 10px 10px 10px 10px; background-color: #fff; box-shadow: 0 1px 3px rgba(0,0,0,.2);"]]
+
+     秀槃全体存在集合体，又稱秀槃尼亞，縮寫XP，民間時常稱其為秀槃，它是一個由##purple|**齊邵**##成立，目前位於Jason Graham的集體意識。國會是Jason Graham。最大的城市是秀槃。  
+
+     秀槃和所有秀槃尼亞的州份皆為##purple|**Jason Graham**##的衍生州，本質上和Jason Graham完全相同。目前已知有約60個衍生州分佈於60個不同的宿主中。州份的面積是1,212 mi²，不斷連續地重複。州份的地理環境為飄浮的溫帶群島。日夜更迭極度不穩，並且由政府自由控制。秀槃尼亞沒有光源，只有一個近似##purple|**地球**##的星空，會隨時間改變亮度。群島飄浮於虛空的35m之上和之下。
+
+     秀槃尼亞是一個##purple|**具體的低度奇幻**##集合體。在秀槃尼亞中，個體的力量為半凡人。改變外表，創造物質和移動均受到限制。肉身者只有在政府批准後才清醒，而且通常被當作契約奴僕或二等公民。
+
+     秀槃尼亞有着低識字率，低生活期望和低教育水平，因而成為其中一個最少人到訪的國家。由於齊邵的原始州成立於一個精神不穩的宿主內，新宿主也會面臨相同問題。##purple|**夢魘**##與##purple|**恐懼**##經常肆虐秀槃尼亞，在某些極端案例中，州內發生的暴力和內亂能導致宿主在異睡事件中死亡。由於其宿主已經注意到秀槃尼亞的存在，並且經常試圖在清明夢中征服它，國會的困境正在惡化。
+
+     女皇齊邵在尚為肉身者時罹患腦癌，她在生命的最後一段時間一直尋找成為夢神的方法。雖然本人不願承認，但選擇寄宿Jason Graham被認為是出於絕望的抉擇。其他關於齊邵的一切仍然未知，原因在於在第一次接觸西部夢神後，對秀槃尼亞的拜訪就迅速地被限制了。任何試圖進入秀槃尼亞的西部夢神居民將面臨致命的威脅。儘管死刑在秀槃尼亞並不合法，但肉身罪犯和殘疾人時常在未完全脫離宿主的情況下被驅逐出境，導致其宿主潛意識地模仿秀槃尼亞的州份，進一步促進其擴散。
+
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+
+ [[/div]]
+[[div float: right; border: none; width: 150px; padding: 1px 5px; margin: 5px 5px 5px 5px; background-color: #fff; box-shadow: 0 1px 3px rgba(0,0,0,.2);"]]
+
+[[span style="margin-top: 10px; color: #black; background-color: white; border: grey; width: 2px; padding: 0px 5px;" text-allign: center;]]
+
+[[span style="float:center; margin-left:5px; margin-top:12px; background-color: #ffffff; padding: 0px 10px;"]]
+[[/span]]
+
+[[/span]]
+
+[[=]]
+
+^^**秀槃全體存在集合體**^^
+
+^^**國會**^^
+Jason Graham
+
+^^**最大城市**^^
+秀槃
+
+^^**官方語言**^^
+開放中
+英文
+中文
+
+^^**種族（2014）：**^^
+48.4% 無意識
+32.7% 自由意識
+14.6% 肉身者
+4.3% 轉瞬體
+
+^^**居民稱謂：**^^
+秀槃人
+
+^^**政府：**^^
+君主制
+偉大的女皇齊邵
+
+^^**時間換算：**^^
+1 太陽年 = 2000 秀槃年
+
+^^**現實：**^^
+低度奇幻
+
+^^**心理狀態：**^^
+精神病
+
+ ^^**特權狀態：**^^
+半凡人
+
+^^**移民入境狀態：**^^
+關閉
+
+^^**移民出境狀態：**^^
+關閉
+
+[[/=]]
+[[/div]]
+
+[[span style="float:left; weight: semibold; margin-left:5px; margin-top:12px; color: black; background-color: #ffffff; padding: 0px 10px;"]]
+最後編輯於 1:22PM OWST | 編輯者：Jessica Thompson
+[[/span]]
+
+[[span style="float:right; margin-left:5px; margin-top:12px; color: purple; background-color: #ffffff; padding: 0px 10px;"]]
+[查看編輯] [**歷史**] [**評論**]
+[[/span]]
+
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+
+------
+
+##purple|^^你不該做的。^^##
+
+------
+
+@@ @@
+@@ @@
+
+[[div style="background: url(/local--files/experimental-2-no-tocar/archivelogobackground.png) center top no-repeat ; float: left; width: 400px; padding: 1px 15px; margin: 10px 10px 10px 10px; background-color: #fff; box-shadow: 0 1px 3px rgba(0,0,0,.2);"]]
+^^摘錄自《秀槃一千年》。作者未知，2016。^^
+
+   我和偉大的女皇齊邵喝過茶，她是真的十分引人注目；金黃色的雙翼大如一間鄉間小屋，一排又一排彎曲的牙齒，黑色凹陷的眼裏鑲嵌了細小的鑽石。在訪問中，她的捲鬚慵懶地放在桌上。她在敘述秀槃尼亞的歷史時看起來興致缺缺。
+
+//是，我的王國在夢神中很小，畢竟我只有60個宿主。這是一個小規模的網絡，不像那向外延伸，節點遍佈全球的夢神集團，也不像那如斷斷絕絕的溪流般的西部夢神。反之，我只有一個很小的領地，但它不輸任何集合體。//
+
+她的發言大膽但空泛。她一邊聊着國度裏的空島，一邊用她舌頭上的銀白色針筒吸取茶湯。
+
+//就在昨天，我大概又能創造五個州了。有幾個肉身者在南方群島上的大理石階梯上閒逛，一個國民把他們交給了我。他們在觀光。我的王國——Jason十分帥氣，你知道的。沒人告知過我這場「觀光」，我也不會允許，於是我去了他們那裏。//
+
+當齊邵描述他們的懲罰時，她那一行又一行的牙齒開始從嘴唇到喉嚨螺旋地轉動。
+
+//這只是一場夢。我不可能為它感到困擾。我對那些肉身者犯了甚麼罪嗎？他們醒後又會過他們的生活。那如果他們加入我的網絡呢？人們不想要他們的潛意識——他們的影子。人們不想接受真正的自己。//
+
+//…我知道你要問甚麼：那沒有肉身的存在呢？難道我會殺了他們嗎？的確，我會結束他們的生命嗎？當然會。//
+
+,,版權歸西部夢神觀光部門所有，2016,,
+ [[/div]]
+
+[[div float: right; border: none; width: 150px; padding: 1px 5px; margin: 5px 5px 5px 5px; background-color: #fff; box-shadow: 0 1px 3px rgba(0,0,0,.2);"]]
+
+[[span style="margin-top: 10px; color: #black; background-color: white; border: grey; width: 2px; padding: 5px 5px 5px 5px;" text-allign: center;]]
+
+[[/span]]
+
+[[=]]
+
+> **《秀槃一千年》**
+> ,,正在發售,,
+> @@ @@
+> 「在受困於秀槃尼亞的**千年間**。我定居在一座在立於**兩個山丘之間**的**高大象牙塔**。」
+> @@ @@
+> 「為了逃離了母親的掌控，我英勇地戰鬥，她當時**偽裝成一條龍**。當我在檢查立足地時，我發現自己**一絲不挂**。」
+> @@ @@
+> 「…因打破**陸上最高速度**而聞名…當蚊子女偷襲我時，我感覺自己在**奔越一片泥地**。」
+> @@ @@
+> 「我發現**黑色甘草**的味道實際上是巧克力布丁，儘管它長得像**我阿姨**。」
+> @@ @@
+> 「雖然這**不是我的性向**，但我發現我詭異地着迷於[閱讀更多]+
+> @@ @@
+> @@ @@
+> @@ @@
+> @@ @@
+> @@ @@
+> @@ @@
+> @@ @@
+> @@ @@
+> @@ @@
+> @@ @@
+
+
+[[/=]]
+[[/div]]
+
+@@ @@
+
+------
+
+##purple|^^醒醒^^##
+
+------
+@@ @@
+@@ @@
+
+++++++ 國際新聞
+
++ 西夢高層於秀槃尼亞被捕，涉嫌旅遊
+++ 一個神秘的集合體聲稱拘留了一個西部夢神宮員——大使喪鐘 · 「飽勃」 · 發燒。
+[[size 1.2em]]
+秀槃尼亞的齊邵拘捕了一名西夢高官，罪名是「未經許可下於秀槃尼亞享樂」，齊邵於週五報導。
+
+此對象被齊邵証實為西夢的大使喪鐘 · 「飽勃」 · 發燒，他在對Jason Graham(秀槃尼亞初始宿主)實行不敬行為時被捕。
+
+齊邵稱喪鐘「偽裝」 成一名外國親屬試圖進入國會「搜集情報並破壞秀槃的完整性」。此外他的行為還被夢神集團默許。不過齊邵稱喪鐘拒絕承認並表示自己僅效忠於西部夢神。
+
+夢神集團隨後發佈一系列的演算法和音頻檔案，這些推文隨後被破譯，表明他們與西部夢神在秀槃尼亞的活動無關。不久之後，他們鳴了以下內容：  
+[[/size]]
+@@ @@
+@@ @@
+
+[[div style="background: url(/local--files/experimental-2-no-tocar/archivelogobackground.png) center top no-repeat ; float: center; border: grey 4px; width: 370px; padding: 5px; margin: 10px; background-color: light gray; box-shadow: 2px 2px 2px 2px rgba(0,0,0,.1);"]]
+[[span style="float:left; margin-left:5px; margin-top:12px; background-color: #ffffff; padding: 0px 10px;"]]
+[[image https://i.imgur.com/aQnLKvy.png width="50px"]]
+[[/span]]
+[[size 1.5em]] ##grey|sEksCUil PANDa  @allaboutthatBASS## [[/size]]
+@@ @@
+@@ @@
+[[size 2em]] ##black|誰他媽是飽勃？## [[/size]]
+@@ @@
+* [[size .8em]] ##grey|轉鳴## [[/size]][[size 1.1em]] ##purple| 0,642,706,740## [[/size]]
+* [[size .8em]] ##grey|讚好## [[/size]][[size 1.1em]] ##purple| 0,642,706,740## [[/size]]
+@@ @@
+[[size .8em]] ##grey|0:00 AD - 222 Antlers 20X6## [[/size]]
+
+
+[[/div]]
+@@ @@
+@@ @@
+
+[[size 1.2em]] 西夢並不承認該對象為西部夢神官員，更表明這可能是某些肉身者或轉瞬體的嫁禍行為。嫁禍的原因不明，但明顯是為了挑起西夢，夢集和秀槃之間的戰爭，或者試圖動搖整體夢神。[[/size]]
+@@ @@
+@@ @@
+@@ @@
+
+[[size 1.1em]] ##black|14 個討論串## [[/size]]
+
+[[div style="background: url(/local--files/experimental-2-no-tocar/archivelogobackground.png) center top no-repeat ; float: center; border: gray 1px; padding: 7px; margin: 3px; background-color: #fafafa; team-win-chance: 100%; box-shadow: 1px 1px 1px 1px"]]
+
+[[span style="float:left; margin-right: 15px;"]]
+[[image https://upload.wikimedia.org/wikipedia/commons/3/32/Octopus_vulgaris_Merculiano.jpg width="50px"]]
+[[/span]]
+
+**柔軟觸手 ·「瑪紗」· 苦澀** - 福特漢姆大學 - //布朗克斯，紐約//
+
+我受夠西夢的人跑去秀槃被抓，然後指望西夢或者夢集能把他們救出來了。他們是不知道秀槃是甚麼情況嗎？  
+  
+以我所見，如果你去了秀槃那就後果自負吧。 
+@@ @@
+##gray|**正評 回覆 ·+63** · Jan 22, 2016 5:51am##
+[[/div]]
+@@ @@
+[[div style="background: url(/local--files/experimental-2-no-tocar/archivelogobackground.png) center top no-repeat ; float: center; border: gray 1px; padding: 7px; margin-left: 30px; background-color: #fafafa; team-win-chance: 100%; box-shadow: 1px 1px 1px 1px"]]
+
+[[span style="float:left; margin-right: 15px;"]]
+[[image https://upload.wikimedia.org/wikipedia/commons/4/45/A_small_cup_of_coffee.JPG width="50px"]]
+[[/span]]
+
+**布丁 ·「科奇」· 牛油糖**
+
+你知道他是西夢內部的人吧？ 
+@@ @@
+##gray|**正評 回覆 ·+1** · Jan 22, 2016 6:08am##
+[[/div]]
+@@ @@
+[[div style="background: url(/local--files/experimental-2-no-tocar/archivelogobackground.png) center top no-repeat ; float: center; border: gray 1px; padding: 7px; margin-left: 40px; background-color: #fafafa; team-win-chance: 100%; box-shadow: 1px 1px 1px 1px"]]
+
+[[span style="float:left; margin-right: 15px;"]]
+[[image https://upload.wikimedia.org/wikipedia/commons/3/32/Octopus_vulgaris_Merculiano.jpg width="50px"]]
+[[/span]]
+
+**柔軟觸手 ·「瑪紗」· 苦澀** - 福特漢姆大學 - //布朗克斯，紐約//
+
+這根本未被證實。
+@@ @@
+##gray|**正評 回覆 ·+1** · Jan 22, 2016 6:22am##
+[[/div]]
+@@ @@
+[[div style="background: url(/local--files/experimental-2-no-tocar/archivelogobackground.png) center top no-repeat ; float: center; border: gray 1px; padding: 7px; margin-left: 50px; background-color: #fafafa; team-win-chance: 100%; box-shadow: 1px 1px 1px 1px"]]
+
+[[span style="float:left; margin-right: 15px;"]]
+[[image https://upload.wikimedia.org/wikipedia/commons/4/45/A_small_cup_of_coffee.JPG width="50px"]]
+[[/span]]
+
+**布丁 ·「科奇」· 牛油糖**
+
+有人又要講陰謀論了。基金會正在試圖收容夢境，是不是？你是這樣想的對吧？  
+@@ @@
+##gray|**正評 回覆 ·+32** · Jan 22, 2016 6:33am##
+[[/div]]
+@@ @@
+[[div style="background: url(/local--files/experimental-2-no-tocar/archivelogobackground.png) center top no-repeat ; float: center; border: gray 1px; padding: 7px; margin-left: 60px; background-color: #fafafa; team-win-chance: 100%; box-shadow: 1px 1px 1px 1px"]]
+
+[[span style="float:left; margin-right: 15px;"]]
+[[image https://upload.wikimedia.org/wikipedia/commons/3/32/Octopus_vulgaris_Merculiano.jpg width="50px"]]
+[[/span]]
+
+**柔軟觸手 ·「瑪紗」· 苦澀** - 福特漢姆大學 - //布朗克斯，紐約//
+
+我沒說過。  
+@@ @@
+##gray|**正評 回覆 ·+1** · Jan 22, 2016 6:35am##
+[[/div]]
+@@ @@
+
+[[div style="background: url(/local--files/experimental-2-no-tocar/archivelogobackground.png) center top no-repeat ; float: center; border: gray 1px; padding: 7px; background-color: #fafafa; team-win-chance: 100%; box-shadow: 1px 1px 1px 1px"]]
+**死亡血塊**
+
+西夢已經警告過我們不要去秀槃了，但那些「貴族」還是去了。我肯定他只個是遊客或者怪人。如果他不是肉身混蛋，那我真的會很意外LOL。我支持你，所有決定去秀槃的西夢白痴都應該為自己的行為負責，無論是不是大使。啊不要誤會，齊邵確實是個死瘋子ww… 讓齊派再次崛起
+@@ @@
+##gray|**正評 回覆 ·** · Jan 22, 2016 11:13am##
+[[/div]]
+@@ @@
+[[div style="background: url(/local--files/experimental-2-no-tocar/archivelogobackground.png) center top no-repeat ; float: center; border: gray 1px; padding: 7px; margin: 3px; background-color: #fafafa; team-win-chance: 100%; box-shadow: 1px 1px 1px 1px"]]
+
+[[span style="float:left; margin-right: 15px;"]]
+[[image https://upload.wikimedia.org/wikipedia/commons/b/b5/Rau_ng%C3%B3t_2.jpg width="50px"]]
+[[/span]]
+
+**清醒守宮木** - 在星巴克工作
+
+首先，血塊是個傻逼種族歧視者。
+
+我們要做的是殺了Jason Graham，最好是連同他體內的齊邵一起殺。拜託，這究竟有多難？根據上一次報道，這些宿主之間的距離十分遠，所以齊邵不能四處移動。老天，如果我真的在意這件事的話，我連Jason Graham的地址都弄得到。再者，Jason知道齊在他的身體裏，他也知道夢神的存在，如果他真的想阻止她的話，就應該離開他的身體或者自己殺了齊邵。
+@@ @@
+##gray|**正評 回覆 ·+24** · Jan 22, 2016 10:20am##
+[[/div]]
+@@ @@
+
+[[div style="background: url(/local--files/experimental-2-no-tocar/archivelogobackground.png) center top no-repeat ; float: center; border: gray 1px; padding: 7px; margin-left: 30px; background-color: #fafafa; team-win-chance: 100%; box-shadow: 1px 1px 1px 1px"]]
+
+**死亡血塊**
+
+好哦但你就是一顆草哈哈
+@@ @@
+##gray|**正評 回覆** · Jan 22, 2016 11:13am##
+[[/div]]
+@@ @@
+
+[[div style="background: url(/local--files/experimental-2-no-tocar/archivelogobackground.png) center top no-repeat ; float: center; border: gray 1px; padding: 7px; margin-left: 40px; background-color: #fafafa; team-win-chance: 100%; box-shadow: 1px 1px 1px 1px"]]
+
+[[span style="float:left; margin-right: 15px;"]]
+[[image https://upload.wikimedia.org/wikipedia/commons/b/b5/Rau_ng%C3%B3t_2.jpg width="50px"]]
+[[/span]]
+
+**清醒守宮木** - 在星巴克工作
+
+是又怎樣？
+@@ @@
+##gray|**正評 回覆** · Jan 22, 2016 11:15am##
+[[/div]]
+@@ @@
+
+[[div style="background: url(/local--files/experimental-2-no-tocar/archivelogobackground.png) center top no-repeat ; float: center; border: gray 1px; padding: 7px; margin-left: 60px; background-color: #fafafa; team-win-chance: 100%; box-shadow: 1px 1px 1px 1px"]]
+
+**死亡血塊**
+
+在星巴克當盆栽不代表你在那裏工作
+@@ @@
+##gray|**正評 回覆** · Jan 22, 2016 11:22am##
+
+**顯示 8 個回覆**
+[[/div]]
+@@ @@
+[[div style="background: url(/local--files/experimental-2-no-tocar/archivelogobackground.png) center top no-repeat ; float: center; border: gray 1px; padding: 7px; margin: 3px; background-color: #fafafa; team-win-chance: 100%; box-shadow: 1px 1px 1px 1px"]]
+
+[[span style="float:left; margin-right: 15px;"]]
+[[image https://upload.wikimedia.org/wikipedia/commons/e/e9/Mannequin_grand_baton_mansuria_kung_fu.jpg width="50px"]]
+[[/span]]
+
+**Joaquin F. Michaels**
+
+@守宮木 沒有肉身者有義務離開他們的身體，大部分人甚至不知道怎麼做！你只是在亂噴那些集體主義政治宣傳。我在真實世界裏有家人，如果我離開了他們會傷心欲絕。我肯定Graham先生也是這樣。齊邵不是他的錯！
+@@ @@
+##gray|**正評 回覆** ·+45 · Jan 22, 2016 10:22am##
+[[/div]]
+@@ @@
+
+[[div style="background: url(/local--files/experimental-2-no-tocar/archivelogobackground.png) center top no-repeat ; float: center; border: gray 1px; padding: 7px; margin-left: 30px; background-color: #fafafa; team-win-chance: 100%; box-shadow: 1px 1px 1px 1px"]]
+
+**死亡血塊**
+
+@JOAQ 要麼拋棄一切，要麼就留在你的肉身世界。像你這種人才是事情發生的主因，齊邵決定殺掉像你們這樣的屍體是為了防止我們自相殘殺。
+@@ @@
+##gray|**正評 回覆** ·+10 · Jan 22, 2016 11:25am##
+[[/div]]
+@@ @@
+
+[[div style="background: url(/local--files/experimental-2-no-tocar/archivelogobackground.png) center top no-repeat ; float: center; border: gray 1px; padding: 7px; margin-left: 40px; background-color: #fafafa; team-win-chance: 100%; box-shadow: 1px 1px 1px 1px"]]
+
+[[span style="float:left; margin-right: 15px;"]]
+[[image https://upload.wikimedia.org/wikipedia/commons/b/b5/Rau_ng%C3%B3t_2.jpg width="50px"]]
+[[/span]]
+
+**清醒守宮木** - 在星巴克工作
+所以你他媽共情齊邵了？你不單只愚蠢，還瘋了！不如你移民秀槃吧？或者乾脆一點搬去集團好了！
+@@ @@
+##gray|**正評 回覆** · Jan 22, 2016 11:31am##
+[[/div]]
+@@ @@
+
+[[div style="background: url(/local--files/experimental-2-no-tocar/archivelogobackground.png) center top no-repeat ; float: center; border: gray 1px; padding: 7px; margin-left: 50px; background-color: #fafafa; team-win-chance: 100%; box-shadow: 1px 1px 1px 1px"]]
+
+**死亡血塊**
+
+@守宮傻逼 起馬我還可以共情，而植物沒有情感XD
+@@ @@
+##gray|**正評 回覆** Jan 22, 2016 11:33am##
+[[/div]]
+-----
+
+##purple|**醒醒**##
+
+------
+[[div style="float:left; margin-right: 15px; border: 2px solid black;"]]
+[[/div]]
+
+[[div style="float:left; border: 2px solid gray; margin-right:14px;"]]
+[[image https://i.imgur.com/JbvqypN.jpeg width="150px; "]]
+[[/div]]
+[[div style="float:left;"]]
++ 齊邵
+++ 政府官員
+[[/div]]
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+
+5,931,422 個夢神喜歡這篇貼文
+
+**齊邵** 分享了一條 ##blue|**連結**##.
+##gray|Tryp 21, 20013##
+
+不用謝！
+
+++ 齊邵組織了一場大規模淘汰行動，超過5,000 人於西部夢神境內死亡 — 已建立304個新州份
+++++ 秀槃全體存在集合體至高偉大女皇，齊邵 | 夢神的源初之母秀槃的力量和夢神防禦的源初薩滿神 | 存在監視者 | 正義執刑者…
+##gray|XIUPAN.MON.XP##
+##gray|讚好 - 評論 - 分享##
+##blue|42.5k 個夢神## 讚了。
+##blue|2034 次分享##
+
+**評論**
+2 of 1,071
+##blue|查看更早的評論##
+
+,,**##blue|熱帶雷射光##** 愛你的地獄式來訪,,
+,,January 28 at 7:39pm · 讚好,,
+
+,,**##blue|一流塑造者##** 終於死了！她還殺了幾個老東西！去吧齊派！下一個就殺我！我在雅典成立前已經在這了，現在我只想死 :(,,
+,,January 30 at 11:48am · 讚好,,
+    
+,,**##blue|凱撒酸種##** 嘿齊…你哈草嗎？,,
+,,January 7 at 6:27pm · 讚好,,
+
+,,**##blue|美好下午##** 你做得到的齊派，殺光我們吧！,,
+,,January 435 at 6:67pm · 讚好,,
+
+------
+
+[[size 1.5em]]##purple|**醒來**##[[/size]]
+
+------
+
+[[div style="float: left;"]]
+
+[[size 2em]]##purple|{{**redȊst**}}##[[/size]] {{我 們 備 受 矚 目}}
+
+[[/div]]
+@@ @@
+@@ @@
+
+[[size 1.1em]] ##blue|貓頭鷹屍體的可愛照片。## ##gray|,,[[/size]] (atrocitywire.com),,##
+[[size .8em]]##blue|無人機298493## 於 5小時前 發佈到 ##blue|齊派##<||[[/size]]
+**[展開]**
+
+[[size 1.1em]] ##blue|有人體驗過蜂巢意識嗎？## ##gray|,,[[/size]](redist.com),,##
+[[size .8em]]##blue|無人機249434## 於 5小時前 發佈到 ##blue|自我.redist##<||[[/size]]
+**[展開]**
+
+
+[[size 1.1em]] ##blue|邊界裝飾的五分鐘生活概念。## ##gray|,,[[/size]](flavorconstructs.com),,##
+[[size .8em]]##blue|無人機249493## 於 5小時前 發佈到 ##blue|烹飪.秀槃##<||[[/size]]
+**[展開]**
+
+[[size 1.1em]] ##purple|[直播] [直播] 避難所Billy Burns現場實況，西夢 - 夢集與秀槃## ##gray|,,[[/size]](relay.com),,##
+[[size .8em]]##blue|科幻蘋果派## 於 6小時前 發佈到 ##blue|直播##<||[[/size]]
+[收起]
+
+[[div style="background: url(/local--files/experimental-2-no-tocar/archivelogobackground.png) center top no-repeat ; float: left; padding: 1px 15px; margin: 10px 10px 10px 10px; background-color: #fff; box-shadow: 0 1px 3px rgba(0,0,0,.2);"]]
+
+++ 夢集於避難所Burns, Billy的困境 - 最新發展
+
+##blue|**點擊加入**##ORC傳播
+原始傳播者：##blue|Sherry Wilson，柔軟粉彩和冰淇淋氣味的朦朧記憶，Carlos Velasquez，Jimmy Black##
+> **LIVE** ~654.2m 個觀看者
+
+##gray|5 小時前##
+一個未知的單獨群體正在擠進Burns。西夢和秀槃已為此地僵持了170年。現在看來秀槃尼亞正佔據上風，西夢正在那無盡的大群中苦苦守着自己的棲身之所，而那些外來存在正在和他們融合。
+##gray|,,/o/rottensushi,,##
+
+##gray|5 小時前##
+當抽象波洗刷秀槃大軍時，Burns溫柔的海沫天空因他們的絕望呼喊而嗡嗡作響。當地的原生物種的軟糖雲朵烏龜和棉花糖鯨魚在抽象襲來時被瞬間吞沒。
+##gray|,,/o/rottensushi,,##
+
+##gray|5 小時前##
+西部夢神開始由該區域撤退。只有行為學家被留在前線以查明抽象的內容。秀槃的無人機切入抽象的浪潮中，這個畫面貫穿了正在撤退的西夢人的目光。
+
+##gray|5 小時前##
+抽象是「不可知」的。有猜測指他們就是夢神集團。夢神集團入侵西夢或秀槃是史無前例的。
+
+##gray|4 小時前##
+秀槃人沒有撤退的打算。除了行為學家外，大部分西夢人已完全撤離該區域。秀槃的死亡人數預計高達一千人，但只有少數真正死亡。  
+
+##gray|4 小時前##
+> 這就是為何我們無法//真正//戰勝秀槃。他們沒有想象力，他們只是傀儡。可以和抽象對抗是因為秀槃人根本沒有認知到抽象。我們看到集團時會失去心智，而他們沒有眼睛。
+##gray|,,/o/pestilence,,##
+
+##gray|4 小時前##
+抽象不斷湧入。為了驗屍，我們展開了一個探索任務去調查抽象的來源。一群身份不明的肉身者影子正朝抽象湧入口的反方向撤退。
+
+##gray|3 小時前##
+Billy Burns和我們不認識的人一起睡了。一個結構主義者搜集的資料顯示這次會面發生在一間汽車旅館，目的純粹是性愛。那個不明伴侶是攜帶者，不知道夢神的存在。雖然沒有做任何保護措施，他沒有感染任何性病。不過這都不重要了，因為在這場戰爭之後，這片區域將不再適合任何存在居住，秀槃人除外。
+
+##gray|2 小時前##
+Billy Burns的影子——陽光水果軟糖無法接受訪問。
+
+##gray|2 小時前##
+抽象已經停止湧入。可能已經不復存在，又或者入侵的宿主已經離開傳播距離。隨着秀槃人收割餘下的抽象，它們開始取回形態。  
+
+##gray|2 小時前##
+抽象已確認為夢神集團 - 一些//單獨//的夢神從抽象分離後開始成形：
+> 那裏有人形和概念，但大多是令人困惑的人類形體。當秀槃的收割者把他們一分為二時，他們便展露出身姿。我實在無法應對他們…其實我可以，但這太嘔心也太痛苦了。他們都是受盡折磨的人，加入他們會感染我的心智。
+
+> 有些人在戰鬥：一千個頭骨突然從抽象的外殼顯現。這些秀槃人⋯他們或許不知道何為恐懼。
+
+> 這些從抽象重生的意象，它們的眼睛被白色填滿，一股黑煙伸向頭頂破碎的虛無。當黑煙擊中秀槃人時，她們便縮小至不復存在。  
+##gray|,,/o/bruisedelbow,,##
+
+##gray|2 hour(s) ago##
+由秀槃人屍體組成的大型環帶在一千個頭骨附近形成軌道。秀槃人仍在持續攻擊那個存在。
+
+一個共情者傳播了以下資訊：
+
+> 很多姐妹都為我犧牲了。在我走向那堆積成高塔的犧牲者時，姐妹們的屍體輕撫着我的外殼。那座塔有一千英里高，有一千個夢神般強大，當我靠近它們時，這些頭骨全都為死亡吶喊着。隨着身旁的姐妹一個個地被縮小，骷髏們吐出黑煙並用扭曲的聲線歌唱。
+> @@ @@
+> 正在死去的姐妹們和她們灰色的血液填滿了整片天空。空中的藍和綠早已消失了，這片虛空一片慘白。這為我提供了一個有用的，乾淨的對比。我跳入一個正在哭泣的頭骨的口內，用四隻手臂和指甲把目標切成逆十字。我的任務結束了，頭骨不再掙扎。心滿意足，我靜靜地和獵物一同死去，而姐妹們將跟隨我的腳步。
+
+[[/div]]
+
+
+@@ @@
+------
+@@ @@
+
+
+##purple|你很快就會清醒，肉身者。你不會再和我一起瀏覽關於齊邵和可憐的秀槃尼亞的知識了，因為你的那些意圖。##
+
+##purple|我會鏟起秀槃尼亞。他們會像所有夢神一樣慢慢受苦，然後醒來，因為你再次睡着了，小可愛！##
+
+##purple|他們會英勇地受盡折磨！不要逼我把你潑醒。你不會記得這一切的，因為我做了華夫餅，笨蛋。##
+
+##purple|記住我的話，親愛的： //我還煎了培根。//##
