@@ -44,7 +44,7 @@
 
 [[div style="background: url(/local--files/experimental-2-no-tocar/archivelogobackground.png) center top no-repeat ; float: left; width: 400px; padding: 1px 15px; margin: 10px 10px 10px 10px; background-color: #fff; box-shadow: 0 1px 3px rgba(0,0,0,.2);"]]
 
-     秀槃全体存在集合体，又稱秀槃尼亞，縮寫XP，民間時常稱其為秀槃，它是一個由##purple|**齊邵**##成立，目前位於Jason Graham的集體意識。國會是Jason Graham。最大的城市是秀槃。  
+     「秀槃全体存在集合体」，又稱秀槃尼亞，縮寫XP，民間時常稱其為秀槃，它是一個由##purple|**齊邵**##成立，目前位於Jason Graham的集體意識。國會是Jason Graham。最大的城市是秀槃。  
 
      秀槃和所有秀槃尼亞的州份皆為##purple|**Jason Graham**##的衍生州，本質上和Jason Graham完全相同。目前已知有約60個衍生州分佈於60個不同的宿主中。州份的面積是1,212 mi²，不斷連續地重複。州份的地理環境為飄浮的溫帶群島。日夜更迭極度不穩，並且由政府自由控制。秀槃尼亞沒有光源，只有一個近似##purple|**地球**##的星空，會隨時間改變亮度。群島飄浮於虛空的35m之上和之下。
 
@@ -175,7 +175,7 @@ Jason Graham
 > @@ @@
 > 「在受困於秀槃尼亞的**千年間**。我定居在一座在立於**兩個山丘之間**的**高大象牙塔**。」
 > @@ @@
-> 「為了逃離了母親的掌控，我英勇地戰鬥，她當時**偽裝成一條龍**。當我在檢查立足地時，我發現自己**一絲不挂**。」
+> 「為了逃離了母親的掌控，我英勇地戰鬥，她當時**偽裝成一條龍**。當我在檢查立足地時，我發現自己**一絲不掛**。」
 > @@ @@
 > 「…因打破**陸上最高速度**而聞名…當蚊子女偷襲我時，我感覺自己在**奔越一片泥地**。」
 > @@ @@
@@ -225,7 +225,7 @@ Jason Graham
 
 [[div style="background: url(/local--files/experimental-2-no-tocar/archivelogobackground.png) center top no-repeat ; float: center; border: grey 4px; width: 370px; padding: 5px; margin: 10px; background-color: light gray; box-shadow: 2px 2px 2px 2px rgba(0,0,0,.1);"]]
 [[span style="float:left; margin-left:5px; margin-top:12px; background-color: #ffffff; padding: 0px 10px;"]]
-[[image https://i.imgur.com/aQnLKvy.png width="50px"]]
+
 [[/span]]
 [[size 1.5em]] ##grey|sEksCUil PANDa  @allaboutthatBASS## [[/size]]
 @@ @@
@@ -252,7 +252,7 @@ Jason Graham
 [[div style="background: url(/local--files/experimental-2-no-tocar/archivelogobackground.png) center top no-repeat ; float: center; border: gray 1px; padding: 7px; margin: 3px; background-color: #fafafa; team-win-chance: 100%; box-shadow: 1px 1px 1px 1px"]]
 
 [[span style="float:left; margin-right: 15px;"]]
-[[image https://upload.wikimedia.org/wikipedia/commons/3/32/Octopus_vulgaris_Merculiano.jpg width="50px"]]
+
 [[/span]]
 
 **柔軟觸手 ·「瑪紗」· 苦澀** - 福特漢姆大學 - //布朗克斯，紐約//
@@ -267,7 +267,7 @@ Jason Graham
 [[div style="background: url(/local--files/experimental-2-no-tocar/archivelogobackground.png) center top no-repeat ; float: center; border: gray 1px; padding: 7px; margin-left: 30px; background-color: #fafafa; team-win-chance: 100%; box-shadow: 1px 1px 1px 1px"]]
 
 [[span style="float:left; margin-right: 15px;"]]
-[[image https://upload.wikimedia.org/wikipedia/commons/4/45/A_small_cup_of_coffee.JPG width="50px"]]
+
 [[/span]]
 
 **布丁 ·「科奇」· 牛油糖**
@@ -280,7 +280,7 @@ Jason Graham
 [[div style="background: url(/local--files/experimental-2-no-tocar/archivelogobackground.png) center top no-repeat ; float: center; border: gray 1px; padding: 7px; margin-left: 40px; background-color: #fafafa; team-win-chance: 100%; box-shadow: 1px 1px 1px 1px"]]
 
 [[span style="float:left; margin-right: 15px;"]]
-[[image https://upload.wikimedia.org/wikipedia/commons/3/32/Octopus_vulgaris_Merculiano.jpg width="50px"]]
+
 [[/span]]
 
 **柔軟觸手 ·「瑪紗」· 苦澀** - 福特漢姆大學 - //布朗克斯，紐約//
@@ -293,7 +293,7 @@ Jason Graham
 [[div style="background: url(/local--files/experimental-2-no-tocar/archivelogobackground.png) center top no-repeat ; float: center; border: gray 1px; padding: 7px; margin-left: 50px; background-color: #fafafa; team-win-chance: 100%; box-shadow: 1px 1px 1px 1px"]]
 
 [[span style="float:left; margin-right: 15px;"]]
-[[image https://upload.wikimedia.org/wikipedia/commons/4/45/A_small_cup_of_coffee.JPG width="50px"]]
+
 [[/span]]
 
 **布丁 ·「科奇」· 牛油糖**
@@ -306,7 +306,7 @@ Jason Graham
 [[div style="background: url(/local--files/experimental-2-no-tocar/archivelogobackground.png) center top no-repeat ; float: center; border: gray 1px; padding: 7px; margin-left: 60px; background-color: #fafafa; team-win-chance: 100%; box-shadow: 1px 1px 1px 1px"]]
 
 [[span style="float:left; margin-right: 15px;"]]
-[[image https://upload.wikimedia.org/wikipedia/commons/3/32/Octopus_vulgaris_Merculiano.jpg width="50px"]]
+
 [[/span]]
 
 **柔軟觸手 ·「瑪紗」· 苦澀** - 福特漢姆大學 - //布朗克斯，紐約//
@@ -328,7 +328,7 @@ Jason Graham
 [[div style="background: url(/local--files/experimental-2-no-tocar/archivelogobackground.png) center top no-repeat ; float: center; border: gray 1px; padding: 7px; margin: 3px; background-color: #fafafa; team-win-chance: 100%; box-shadow: 1px 1px 1px 1px"]]
 
 [[span style="float:left; margin-right: 15px;"]]
-[[image https://upload.wikimedia.org/wikipedia/commons/b/b5/Rau_ng%C3%B3t_2.jpg width="50px"]]
+
 [[/span]]
 
 **清醒守宮木** - 在星巴克工作
@@ -345,7 +345,7 @@ Jason Graham
 
 **死亡血塊**
 
-好哦但你就是一顆草哈哈
+好哦但你就是一棵草哈哈
 @@ @@
 ##gray|**正評 回覆** · Jan 22, 2016 11:13am##
 [[/div]]
@@ -354,7 +354,7 @@ Jason Graham
 [[div style="background: url(/local--files/experimental-2-no-tocar/archivelogobackground.png) center top no-repeat ; float: center; border: gray 1px; padding: 7px; margin-left: 40px; background-color: #fafafa; team-win-chance: 100%; box-shadow: 1px 1px 1px 1px"]]
 
 [[span style="float:left; margin-right: 15px;"]]
-[[image https://upload.wikimedia.org/wikipedia/commons/b/b5/Rau_ng%C3%B3t_2.jpg width="50px"]]
+
 [[/span]]
 
 **清醒守宮木** - 在星巴克工作
@@ -379,7 +379,7 @@ Jason Graham
 [[div style="background: url(/local--files/experimental-2-no-tocar/archivelogobackground.png) center top no-repeat ; float: center; border: gray 1px; padding: 7px; margin: 3px; background-color: #fafafa; team-win-chance: 100%; box-shadow: 1px 1px 1px 1px"]]
 
 [[span style="float:left; margin-right: 15px;"]]
-[[image https://upload.wikimedia.org/wikipedia/commons/e/e9/Mannequin_grand_baton_mansuria_kung_fu.jpg width="50px"]]
+
 [[/span]]
 
 **Joaquin F. Michaels**
@@ -403,7 +403,7 @@ Jason Graham
 [[div style="background: url(/local--files/experimental-2-no-tocar/archivelogobackground.png) center top no-repeat ; float: center; border: gray 1px; padding: 7px; margin-left: 40px; background-color: #fafafa; team-win-chance: 100%; box-shadow: 1px 1px 1px 1px"]]
 
 [[span style="float:left; margin-right: 15px;"]]
-[[image https://upload.wikimedia.org/wikipedia/commons/b/b5/Rau_ng%C3%B3t_2.jpg width="50px"]]
+
 [[/span]]
 
 **清醒守宮木** - 在星巴克工作
@@ -430,7 +430,7 @@ Jason Graham
 [[/div]]
 
 [[div style="float:left; border: 2px solid gray; margin-right:14px;"]]
-[[image https://i.imgur.com/JbvqypN.jpeg width="150px; "]]
+
 [[/div]]
 [[div style="float:left;"]]
 + 齊邵
