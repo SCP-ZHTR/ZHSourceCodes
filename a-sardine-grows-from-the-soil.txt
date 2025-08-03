@@ -3,6 +3,9 @@
 [[include info:start]]
 **篇名：沙甸魚從地裏鑽了出來**
 作者：[[*user kikunai]]
+[[div class="blockquote"]]
+= [https://www.youtube.com/watch?v=e_Qb1UP002c ♫]
+[[/div]]
 
 [https://commons.wikimedia.org/wiki/Wrench#/media/File:Kluc_nastavitelny.jpg 扳手]為公有領域
 [[include info:end]]
@@ -602,7 +605,7 @@ Base64
 [[div class="blockquote"]]
 斷來源為燈塔本身，準確而言是燈塔內的一個方狀物體。
 
-目前夢神中已知有--五-- 七 人到達燈塔，然而在他們進入燈塔以後與其失去一切聯絡。若有人成功到達燈塔，望能提供--五-- 七 人的去向，以及自己的遺產估算。
+目前夢神中已知有--五-- ##purple|**七**## 人到達燈塔，然而在他們進入燈塔以後與其失去一切聯絡。若有人成功到達燈塔，望能提供--五-- ##purple|**七**## 人的去向，以及自己的遺產估算。
 [[/div]]
 [[div class="or-footer"]]
 [[span]]最後編輯 21:06PM ONST 由 燈塔・燈塔・燈塔[[/span]]
