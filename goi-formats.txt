@@ -401,7 +401,7 @@
 * %%title_linked%%
 [[/module]]
 本站收錄
-[[module ListPages order="name" tags="+goi格式 +夢神+_夢神-goi格式 +原創" separate="no" perPage="100"]]
+[[module ListPages order="name" tags="+goi格式 +夢神 +_夢神-goi格式 +原創" separate="no" perPage="100"]]
 * %%title_linked%%
 [[/module]]
 
@@ -434,7 +434,7 @@
 * %%title_linked%%
 [[/module]]
 本站收錄
-[[module ListPages order="name" tags="+goi格式 +saphir+_saphir-goi格式 +原創" separate="no" perPage="100"]]
+[[module ListPages order="name" tags="+goi格式 +saphir +_saphir-goi格式 +原創" separate="no" perPage="100"]]
 * %%title_linked%%
 [[/module]]
 
