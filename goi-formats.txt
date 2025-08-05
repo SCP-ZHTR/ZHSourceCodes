@@ -55,7 +55,7 @@
 [/goi-formats#tsars-hub 沙皇先知協會]
 [/goi-formats#nsb8-hub 國家安全局第八處]
 [/goi-formats#cobweb-hub 蛛網國際]
-
+[/goi-formats#bifrost 彩虹橋計畫組織]
 ------
 其他分部文件列表
 [/goi-formats#madao 蒐集院]
@@ -598,6 +598,14 @@
 * %%title_linked%%
 [[/module]]
 [[/div]]
+
+[[div class="content-panel standalone series"]]
+[[# bifrost]]
++ [[[http://scp-zh-tr.wikidot.com/groups-of-interest-zh-2#toc8|彩虹橋計畫組織]]]
+* [http://scp-zh-tr.wikidot.com/recover-data-goi-2018-r0320 回收資料：GoI-2018-R0320「芬羅西亞島」]
+* [http://scp-zh-tr.wikidot.com/bifrost-project-baltani 彩虹橋計畫資料庫：巴爾塔尼半島]
+[[/div]]
+
 
 ++ 其他分部文件列表
 [[div class="content-panel standalone series"]]
