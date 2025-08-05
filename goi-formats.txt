@@ -561,7 +561,7 @@
 
 [[div class="content-panel standalone series"]]
 [[# laundry-hub]]
-+ [[[laundry-of-miya|洗衣部]]]
++ [[[laundry-of-miya|洗衣部門]]]
 [[module ListPages order="name" tags=" +_洗衣部門-goi格式 " separate="no" perPage="100"]]
 * %%title_linked%%
 [[/module]]
@@ -623,6 +623,16 @@
 * %%title_linked%%
 [[/module]]
 [[/div]]
+
+[[div class="content-panel standalone series"]]
+[[# yamizushi]]
++ [[[kanshin-ryoiki-koigarezaki|戀昏崎新聞社]]]
+[[module ListPages order="name" tags=" +_戀昏崎新聞社-goi格式" separate="no" perPage="100"]]
+* %%title_linked%%
+[[/module]]
+[[/div]]
+
+
 
 [[div class="content-panel standalone series"]]
 [[# das-wunderkabinett]]

@@ -13,7 +13,8 @@
 [[tab 標籤顯示]]
 [[module ListPages separate="no" perPage="20" tags="+goi格式" order="created_at desc" -category="*"]]
 * %%title_linked%% - %%created_by%% | %%created_at%% 
-##gray|%%tags%%｜%%_tags%%##
+##gray|%%tags%%##
+##palevioletred|%%_tags%%##
 [[/module]]
 [[/tab]]
 
