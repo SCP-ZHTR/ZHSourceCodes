@@ -47,7 +47,7 @@ div.pangloss-note{
 [[[tactical-theology-hub | 戰術神學部]]]超常宗教部建立此列表並非承認各實體神性，僅作為紀錄關於此類存在各式事蹟之用。
 
 本列表將依新研究與資訊而隨時更新。
-
+~~~~
 [[# broken-god]]
 [[div class="modal"]]
 + [[[church-of-the-broken-god-hub| 破碎之神]]] （The Broken God）
@@ -67,10 +67,6 @@ div.pangloss-note{
 亦被稱為[[[about-the-serpent| 死滅領主]]]，據稱小死神、大死神、全死神各自主宰著規模不同的死亡。他們因為與[[[SCP-1440]]]和[[[SCP-032]]]（[[[death-and-the-doctors-hub| 可能還有]]][[[SCP-049]]]）的聯繫聞名。[[[now-you-find-out| 據說]]]與這些實體互動是[[[empty-nights| 可能的]]]，但目前未受O5議會授權下嚴格禁止進行此類嘗試。
 
 在此特注，死滅三弟兄並非[[[scp-8004| 唯一]]]被描述為[[[scp-6292|「死亡」]]][[[djkaktus-s-proposal-iii| 化身]]]的[[[tanhony-s-proposal| 實體]]]。為了更加理解[[[end-of-death-hub| 「死亡」]]]的[[[scp-4260| 異常]]]性，[[[scp-2935|進一步的]]][[[scp-3448| 研究]]]正在進行中。
-
-Also known as the [[[about-the-serpent| Lords of Death]]], the Small Death, the Great Death, and the All-Death are described as each ruling over death on a different scale. Known for their connection to [[[SCP-1440]]] and [[[SCP-032]]], and [[[death-and-the-doctors-hub| perhaps]]] with [[[SCP-049]]]. Interaction with these entities is [[[now-you-find-out| allegedly]]] [[[empty-nights| possible]]], but is strictly prohibited without authorisation from the O5 Council.
-
-It should be noted that the Brothers are not the only [[[tanhony-s-proposal| entities]]] identified as [[[djkaktus-s-proposal-iii| personifications]]] of [[[scp-6292| "Death"]]], and there [[[scp-8004| may be many more]]]. [[[scp-2935| Research]]] is [[[scp-3448| ongoing]]] in order to better understand the [[[scp-4260| anomalous aspects]]] of the [[[end-of-death-hub| concept of "Death"]]].
 [[/div]]
 
 [[# starfish]]
