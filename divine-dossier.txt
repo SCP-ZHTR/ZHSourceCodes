@@ -46,9 +46,9 @@ div.pangloss-note{
 ~~~~
 [[# broken-god]]
 [[div class="modal"]]
-+ [[[church-of-the-broken-god-hub| 破碎之神]]] （The Broken God）
++ [[span class="ruby"]][[[church-of-the-broken-god-hub| 破碎之神]]][[span class="rt"]]The Broken God[[/span]][[/span]]
 
-齒輪正教會和[[[so-the-beasts-shall-plague-the-land-no-more| 古]]][[[nadox-and-the-mekhanite| 美刻尼]]][[[scp-2406| 文明]]]稱其為[[[v19113a-01| 美刻尼]]]，[/system:page-tags/tag/夏異常 夏朝]喚其為[[[about-the-serpent| 蛇父伏羲]]]，馬克士威宗教會稱呼其為[[[wans-image-png| WAN]]]；其他破碎之神教派也予其各式稱謂，如[[[scp-6217| 赫羅斯]]]（Holos）, [[[beneath-two-trees| 哈克哈瑪]]] （Hakhama）或[[[excerpts-regarding-st-sophia| 索非亞]]]（Sophia）。上述團體都聲稱他們正在由各部件重組該實體（以馬克士威宗詮釋而言，以人智與[[[implanting-god| 數據]]]「[[[corruption| 彙編]]]」該存在），但對於其最初是如何「破碎」仍存有爭議。
+齒輪正教會和[[[so-the-beasts-shall-plague-the-land-no-more| 古]]][[[nadox-and-the-mekhanite| 美刻尼]]][[[scp-2406| 文明]]]稱其為[[[v19113a-01| 美刻尼]]]，[/system:page-tags/tag/夏異常 夏朝]喚其為[[[about-the-serpent| 蛇父伏羲]]]，馬克士威宗教會稱呼其為[[[wans-image-png| WAN]]]；其他破碎之神教派也予其各式稱謂，如[[span class="ruby"]] [[[scp-6217| 赫羅斯]]][[span class="rt"]]Holos[[/span]][[/span]]、[[span class="ruby"]][[[beneath-two-trees| 哈克哈瑪]]][[span class="rt"]]Hakhama[[/span]][[/span]]或[[span class="ruby"]][[[excerpts-regarding-st-sophia| 索非亞]]][[span class="rt"]]Sophia[[/span]][[/span]]。上述團體都聲稱他們正在由各部件重組該實體（以馬克士威宗詮釋而言，以人智與[[[implanting-god| 數據]]]「[[[corruption| 彙編]]]」該存在），但對於其最初是如何「破碎」仍存有爭議。
 
 受他們崇敬的該實體被作為知識與技術的象徵：其通常被描述為是[[[scp-6217|「宇宙機器」]]]，而[[[fratricide | 自古以來]]]其信徒也常用[[[scp-217| 異常手段]]]來[[[rounderhouse-gold-proposal | 以機械義肢取代肉身部位]]] ，以企圖達成物理及心智上與其合融。除此之外，其相關傳說也時常提及與「[[[scp-610| 血肉]]]」的[[[scp-2217|對立]]]；破碎之神教會認為該傳說[[[scp-6166| 指涉]]]的對象即為[#yaldabaoth 亞大孢斯]與[[[sarkicism-hub| 欲肉教]]]，和靈智派（Gnosticism）信仰中兩神二元對立的情況相近。
 
@@ -58,16 +58,16 @@ div.pangloss-note{
 
 [[# brothers-of-death]]
 [[div class="modal"]]
-+ [/system:page-tags/tag/brothers-of-death 死滅三兄弟]（The Brothers of Death）
++ [[span class="ruby"]] [/system:page-tags/tag/brothers-of-death 死滅弟兄][[span class="rt"]]The Brothers Death[[/span]][[/span]]
 
-亦被稱為[[[about-the-serpent| 死滅領主]]]，據稱小死神、大死神、全死神各自主宰著規模不同的死亡。他們因為與[[[SCP-1440]]]和[[[SCP-032]]]（[[[death-and-the-doctors-hub| 可能還有]]][[[SCP-049]]]）的聯繫聞名。[[[now-you-find-out| 據說]]]與這些實體互動是[[[empty-nights| 可能的]]]，但目前未受O5議會授權下嚴格禁止進行此類嘗試。
+亦被稱為[[[about-the-serpent| 死滅領主]]]，據稱小死神、大死神、全死神三兄弟各自主宰著規模不同的死亡。他們因為與[[[SCP-1440]]]和[[[SCP-032]]]（[[[death-and-the-doctors-hub| 可能還有]]][[[SCP-049]]]）的聯繫聞名。[[[now-you-find-out| 據說]]]與這些實體互動是[[[empty-nights| 可能的]]]，但目前未受O5議會授權下嚴格禁止進行此類嘗試。
 
-在此特注，死滅三弟兄並非[[[scp-8004| 唯一]]]被描述為[[[scp-6292|「死亡」]]][[[djkaktus-s-proposal-iii| 化身]]]的[[[tanhony-s-proposal| 實體]]]。為了更加理解[[[end-of-death-hub| 「死亡」]]]的[[[scp-4260| 異常]]]性，[[[scp-2935|進一步的]]][[[scp-3448| 研究]]]正在進行中。
+在此特注，死滅弟兄並非[[[scp-8004| 唯一]]]被描述為[[[scp-6292|「死亡」]]][[[djkaktus-s-proposal-iii| 化身]]]的[[[tanhony-s-proposal| 實體]]]。為了更加理解[[[end-of-death-hub| 「死亡」]]]的[[[scp-4260| 異常]]]性，[[[scp-2935|進一步的]]][[[scp-3448| 研究]]]正在進行中。
 [[/div]]
 
 [[# starfish]]
 [[div class="modal"]]
-+ 宙伍宇海星（The Cosmic Starfish）
++ [[span class="ruby"]]宙伍宇海星[[span class="rt"]]The Cosmic Starfish[[/span]][[/span]]
 
 受[[[fifthist-hub| 第五教會]]]及其分支教派所崇敬的異空間實體。第五教會及其先驅教派可[[[scp-2456| 追溯至]]][[[stephane-the-apostles-epistle-to-the-palmyrene| 古希臘]]]；各時期的教派通常互不關聯，但他們同樣崇拜[[[beneath-the-council| 數字「五」]]]、有五個分支教派，且和[[[scp-1425| 星星]]]、[[[scp-1534| 海星]]]、[[[scp-1982| 煙]]]、[[[prologue-water-coalesces-and-descends-as-rain| 音樂]]]和[[[scp-3005| 粉色]]]等元素相關。第五教會各教派通常由[[[scp-5982| 靈修]]]或是[[[the-broken-fifth| 宗教]]][[[pink-cracks-in-a-digital-wall| 團體]]]中分歧而出，其形式也受其起源影響；當一個分支瓦解，另外一個分支即會以不同形式，重出江湖。宙伍宇海星也曾被探索含有[[[scp-5800| 抽象概念的五度空間]]]和[[[scp-6659| 尋找全能實體]]]的基金會計畫所發掘。
 
@@ -78,17 +78,17 @@ div.pangloss-note{
 
 [[# gate-guardian]]
 [[div class="modal"]]
-+ [[[dr-clef-s-proposal | 「守門者」]]]（The Gate Guardian）
++ [[span class="ruby"]] [[[dr-clef-s-proposal | 「守門者」]]][[span class="rt"]]The Gate Guardian[[/span]][[/span]]
 
-一名有著翅膀、手持劍且受火焰環繞的人形實體。它在底格里斯河和和幼發拉底河的交界處守衛著一個[[[djkaktus-s-proposal-iii | 花園]]]的入口。雖其神性顯然，但目前假設其並非任何神祇，而是某種「[[[kte-5503-bice-copernicus | 墨青型]]]」（Type Bice）（俗稱「天使」型）實體。雖現有證據顯示其與其他已記錄的「神使」皆應同屬戰術神學部亞伯拉罕部門管轄，目前還未知其所代表的神（或是否代表任何神祇）。
+一名有著翅膀、手持劍且受火焰環繞的人形實體。它在底格里斯河和和幼發拉底河的交界處守衛著一個[[[djkaktus-s-proposal-iii | 花園]]]的入口。雖其神性顯然，但目前假設其並非任何神祇，而是某種「[[span class="ruby"]][[[kte-5503-bice-copernicus | 墨青型]]][[span class="rt"]]Type Bice[[/span]][[/span]]」（俗稱「天使」型）實體。雖現有證據顯示其與其他已記錄的「神使」皆應同屬戰術神學部亞伯拉罕部門管轄，目前還未知其所代表的神（或是否代表任何神祇）。
 
-該實體能讓其任何命令受尊崇：通常其對觀測者所下的命令為「遺忘（FORGET）」，但也有人收到[[[themission | 其他指令]]]，例如受指派「[[[REMEMBER| 銘記]]]（Remember）」的[[[scp-073 | 受試者之一]]]及受命「[[[scp-4960 | 準備]]]（Prepare）」的另一位。[[[clavis | 截獲的資訊]]]顯示該實體可能在某個XK級[[[competitive-eschatology-hub |世界末日]]]情境中[[[the-gate-opens | 扮演重要角色]]]—因此，有些人提出廢除及殲滅該實體的提案，但目前未找到如何既能成功處決該實體又不造成末世情境的方案。
+該實體能讓其任何命令受尊崇：通常其對觀測者所下的命令為「[[span class="ruby"]]遺忘[[span class="rt"]]FORGET[[/span]][[/span]]」，但也有人收到[[[themission | 其他指令]]]，例如受指派「[[span class="ruby"]][[[REMEMBER| 銘記]]][[span class="rt"]]REMEMBER[[/span]][[/span]]」的[[[scp-073 | 受試者之一]]]及受命「[[span class="ruby"]] [[[scp-4960 | 準備]]][[span class="rt"]]PREPARE[[/span]][[/span]]」的另一位。[[[clavis | 截獲的資訊]]]顯示該實體可能在某個XK級[[[competitive-eschatology-hub |世界末日]]]情境中[[[the-gate-opens | 扮演重要角色]]]—因此，有些人提出廢除及殲滅該實體的提案，但目前未找到如何既能成功處決該實體又不造成末世情境的方案。
 
 [[/div]]
 
 [[# hanged-king]]
 [[div class="modal"]]
-+ [/system:page-tags/tag/受絞之王 受絞之王]（The Hanged King） 
++ [[span class="ruby"]] [/system:page-tags/tag/受絞之王 受絞之王][[span class="rt"]]The Hanged King[[/span]][[/span]] 
 
 在[[[SCP-701]]]「受絞之王的悲劇」和[[[the-hanged-king-s-tragedy| 其他]]]類似[[[scp-2732|劇目]]]中提及的異常實體，該類劇本的演出通常以[[[scp-7838| 癲狂與暴行的爆發]]]而作結。原被認為僅是虛構角色，但後來發現其為[[[scp-2264|超維度之城]]][/system:page-tags/tag/alagadda 阿拉加達]的[[[a-wandsman-in-the-court-of-the-hanged-king| 統治者]]]，而探索該城行動唯一的倖存者將其描述為一個[[[clown-town| 「神形的洞」]]]。[[[theology-of-a-snake| 神話]]]對受絞之王是[[[about-the-serpent| 自殺]]]還是被他的人民[[[and-so-the-crows-laughed| 絞死]]]眾說紛紜；「受絞」也有可能只是其卡在非生非死狀態的形容。
 
@@ -107,7 +107,7 @@ div.pangloss-note{
 
 [[# jalakara]]
 [[div class="modal"]]
-+ 堅不可摧的賈拉喀拉（JALAKÅRA of the Impenetrable）
++ [[span class="ruby"]]堅不可摧的賈拉喀拉[[span class="rt"]]JALAKÅRA of the Impenetrable[[/span]][[/span]]
 
 [[[locations-of-interest#corbenic| 科爾本尼奇]]]原生的強大現實扭曲實體，也是[[[three-moons-initiative-hub| 叁月協會]]]的[[[radical-acceptance| 守護神]]]。其被描繪為長著人臉與鬍鬚的[[[ill-be-home-for-christmas|巨大蜘蛛]]]。☽☽☽協會對賈拉喀拉奉上[[[scp-5319| 崇敬]]]與[[[scp-3768| 忠誠]]]，且讓其保有對任何行政事務的[[[scp-3319| 最終話語權]]]，以交換[[[scp-7578| 能源]]]、[[[scp-7157| 資源]]]及[[[wielka-altana|其神力的佑護]]]。由於賈拉喀拉只願與[[[radical-acceptance|叁月協會創辦人]]]尼恩大總統交談，與該實體的多數交流皆透過叁月協會中央委員會十三位成員中介。
 
