@@ -131,25 +131,25 @@ div.pangloss-note{
 
 [[# queen-mab]]
 [[div class="modal"]]
-+ [/system:page-tags/tag/瑪布女王 瑪布女王]（Queen Mab）
++ [[span class="ruby"]] [/system:page-tags/tag/瑪布女王 瑪布女王][[span class="rt"]]Queen Mab[[/span]][[/span]]
 
-以[[[ralliston-s-proposal|SCP-001-C之名收容於Site-01]]]，她曾是[[[cos-tu-smierdzi|古妖精的帝皇]]]，擁有信史以來最強大的奇蹟術與本質促動能力。她與[[[a-faerie-tale-of-twin-queens|親手殺害的的姊妹]]]以及[[[the-lands-nobody-returns-from|被稱為「Nobody」的存在]]]長年[[[midnight-sun| 交戰]]]著。
+以[[[ralliston-s-proposal|SCP-001-C之名收容於Site-01]]]的她曾是[[[cos-tu-smierdzi|古妖精的帝皇]]]，擁有信史以來最強大的奇蹟術與本質促動能力。她與[[[a-faerie-tale-of-twin-queens|親手殺害的的姊妹]]]以及[[[the-lands-nobody-returns-from|被稱為「Nobody」的存在]]]長年[[[midnight-sun| 交戰]]]著。
 
 儘管已經死亡超過三十萬年以上，且僅以傳說的方式存於人類歷史，瑪布女王仍然具有影響事象的能力，例如協助策劃[[[SCP-1000|花開之日]]]與[[[they-had-names|工廠大屠殺]]]。儘管對她曾經的臣民造成了[[[wniosek-o-dotacje-na-opracowanie-srodka-przeciwko-alergii|極大的傷害]]]，仍然有些[[[kte-6990-mendel-nimuebusterchild|妖精組織]]]堅持[[[ambrose-esterberg|效忠於她]]]，且尋找著[[[gaslight-gatekeep-girlboss-hub| 能復活她的方法]]]。
 [[/div]]
 
 [[# orcadia]]
 [[div class="modal"]]
-+ [[[seas-of-orcadia-hub| 奧卡迪亞諸神]]]（Orcadian Pantheon）
++ [[span class="ruby"]] [[[seas-of-orcadia-hub| 奧卡迪亞諸神]]][[span class="rt"]]Orcadian Pantheon[[/span]][[/span]]
 
-[[[seas-of-orcadia-hub| 奧卡迪亞鰭裔]]]（Finnfolk, 學名//Homo Aquarius//）的神祇，共有十三位。這些神源自靈界，每位神祇皆有自身的特色、神格與對其信徒來說的宗教意涵。有些神祇[[[scp-3703| 蒙受監禁]]]，而有些則[[[scp-4700| 不受拘束，雲遊大地]]]。
+[[[seas-of-orcadia-hub| 奧卡迪亞鰭裔]]]（Finnfolk, 學名//Homo Aquarius//）的十三位神祇。這些神源自靈界，且每位神祇皆有自身的特色、神格與對其信徒來說的宗教意涵。有些神祇[[[scp-3703| 蒙受監禁]]]，而有些則[[[scp-4700| 不受拘束，雲遊大地]]]。
 
 該教派的信仰中心位於蘇格蘭奧克尼群島。在研究比較後，發現其信仰體系中包含其他宗教之神祇，如破碎之神、亞大孢斯、宙伍宇海星及猩紅之王等：目前研究重點於對比奧卡迪亞人與其他地區對各神衹描述異同之處。
 [[/div]]
 
 [[# pangloss]]
 [[div class="modal"]]
-+ [/system:page-tags/tag/pangloss 潘洛斯] （Pangloss）
++ [[span class="ruby"]][/system:page-tags/tag/pangloss 潘洛斯][[span class="rt"]]Pangloss[[/span]][[/span]]
 與[[[don-t-let-the-fire-die| 火焰]]]、[[[spark-of-creation| 創造]]]與[[[spark-of-wonder| 奇蹟]]]相關的[[[about-the-serpent| 神話]]]人物。這個名字經常被簽寫在[[[scp-1522 |一系列]]][[[scp-1685 | 異常]]]相關的[[[scp-1612 | 紙條]]]上，但[[[scp-3310 |紙條]]]的真正作者當前仍然[[[strange-things-happen-at-sea| 未知]]]。
 
 [[div class="pangloss-note"]]
@@ -163,7 +163,7 @@ div.pangloss-note{
 
 [[# rakmou-leusan]]
 [[div class="modal"]]
-+ 勒克穆・洛聖 （Rakmou-leusan）
++ [[span class="ruby"]]勒克穆・洛聖[[span class="rt"]]Rakmou-Leusan[[/span]] [[/span]]
 在奧托世宇宙觀中，「第四聖」勒克穆・洛聖是[[[second-hytoth-hub|第二海托世教會]]]崇拜的高如・透沙（ Koru-teusa，「七大聖」）當中[[[scp-4547| 僅存]]]的一位。奧托世人認為這七位存在是[[[pattern-dwellers-an-expose| 上個宇宙]]]（「第一海托世」）的倖存者，戰鬥著以保護這個宇宙（「第二海托世」）免於稱作「弗如者」的[[[scp-3417|宇宙外敵意實體]]]威脅。
 
 此異常宗教[[[scp-2417|信徒]]]定期舉行[[[let-the-winds-send-you-onwards|血祭]]]，他們聲稱這對[[[scp-6695| 維持]]]其神聖庇護者的存續十分重要；由於勒克穆・洛聖現在需獨自戰鬥，這些 [[[a-real-actual-blood-cult | 獻祭]]]也更受重視。信徒對[[[scp-2417|勒克穆・洛聖的描述]]]集中在其作為戰士的實力、其許多英勇的行徑與其奮勇不倦的決心。
@@ -192,9 +192,9 @@ div.pangloss-note{
 
 [[# scarlet-king]]
 [[div class="modal"]]
-+ [[[cotsk-hub| 猩紅之王]]]（The Scarlet King）
++ [[span class="ruby"]][[[cotsk-hub| 猩紅之王]]][[span class="rt"]]The Scarlet King[[/span]][[/span]]
 
-其擁有眾多稱號，如 [[[dust-and-blood|修馬許-烏爾代]]]（Shormaush Urdal）、「[[[omnigenesis-and-the-law-of-blades| 卡拉克]]]」（Khahrahk）、「[[[scp-3838| 緋紅汗]]]」（Crimson Khan）以及「[[[scp-3150| 紅]]][[[scp-4989|沙阿]]]」（Red Shah）；其各個稱謂通常為代表「 [[[scp-6996| 紅]]]」的字前綴於代表[[[beneath-the-council| 統治者]]]的稱號。該實體受許多密教如「[[[scp-6019| 猩紅之王的幼子們]]]」、「[[[blood-in-the-water| 猩紅之王教會]]]」和[[[scp-3178 | 其他各宗派]]]的崇拜，而各派也對該存在有[[[christ-in-scarlet-hub|各自]]]的[[[tears-and-bone|解讀]]]。
+其擁有眾多稱號，如[[[dust-and-blood|修馬許-烏爾代]]]（Shormaush Urdal）、「[[[omnigenesis-and-the-law-of-blades| 卡拉克]]]」（Khahrahk）、「[[[scp-3838| 緋紅汗]]]」（Crimson Khan）以及「[[[scp-3150| 紅]]][[[scp-4989|沙阿]]]」（Red Shah）；其各個稱謂通常為代表「 [[[scp-6996| 紅]]]」的字前綴於代表[[[beneath-the-council| 統治者]]]的稱號。該實體受許多密教如「[[[scp-6019| 猩紅之王的幼子們]]]」、「[[[blood-in-the-water| 猩紅之王教會]]]」和[[[scp-3178 | 其他各宗派]]]的崇拜，而各派也對該存在有[[[christ-in-scarlet-hub|各自]]]的[[[tears-and-bone|解讀]]]。
 
 雖對其的崇敬方式各異，其通常被認為與權力、暴力和雄性特質有關。他常被描述為擁有[[[dust-and-blood| 七位新娘]]]，和[[[scp-475|頭足類與鯨豚]]]相關，並且是[[[lord-goran| 猩紅]]] [[[lord-jeser |部落]]]的領導者。其有時與[[[SCP-140]]]中描述的[[[daevite-hub| 殆瓦帝國]]][[[beneath-two-trees| 有所關連]]]，作為為[[[the-trashfire| 殆瓦人所信仰]]]的[[[empire-of-dirt-part-1| 各神祇]]]之一存在，不過這也可能是對[[[rounderhouse-jade-proposal|殆瓦信仰]]]的[[[SCP-6140| 誤解]]]。於某些故事中，其與被稱作[[[when-we-came-home|「奇蹟創造者」]]][[[the-real-adventures-in-capitalism| 之存在]]]為[[[dr-wondertainment-goes-out-with-a-bang| 對立]]]關係；其的另位敵手為「沙那」（Sanna），一個混沌、帶有雌性特質且作為其對立面存在的實體。
 
@@ -216,15 +216,15 @@ div.pangloss-note{
 
 [[# the-serpent]]
 [[div class="modal"]]
-+ [/system:page-tags/tag/the-serpent 蛇]（The Serpent）
-據傳居於[[[http://wanderers-library.wikidot.com|流浪者的圖書館]]][[[http://wanderers-library.wikidot.com/conversations-with-the-serpent| 最深處]]]的存在，以作為[[[serpent-s-hand-hub| 蛇之手]]]的標誌聞名。除了它與[[[scp-6000|圖書館]]]的關聯外，對此一實體[[[found-in-a-dusty-corner-of-the-library| 沒有任何經證實]]]的了解，但其應[[[mud-on-the-carpet| 非]]]僅為某種純粹的[[[djkaktus-s-proposal-iii| 象徵物]]]。流浪者圖書館與圖書館員明顯有著[[[scp-8888| 集體]]]智能，而該智能可能是蛇的真面目，也可能是由該實體所操縱。
++ [[span class="ruby"]][/system:page-tags/tag/the-serpent 蛇][[span class="rt"]]The Serpent[[/span]][[/span]]
+據傳居於[[[http://wanderers-library.wikidot.com|流浪者的圖書館]]][[[http://wanderers-library.wikidot.com/conversations-with-the-serpent| 最深處]]]的存在，以作為[[[serpent-s-hand-hub| 蛇之手]]]的標誌聞名。除了它與[[[scp-6000|圖書館]]]的關聯外，對此一實體[[[found-in-a-dusty-corner-of-the-library| 沒有任何經證實]]]的了解，但其應[[[mud-on-the-carpet| 非]]]僅為某種純粹的[[[djkaktus-s-proposal-iii| 象徵物]]]。流浪者圖書館與圖書館員明顯有著[[[scp-8888| 集體]]]智能，而該智能既可能是蛇的真面目，也可能是由該實體所操縱。
 
 許多假說將蛇與各神話中的角色如[[[scp-4343| 撒旦]]]、[[[dr-clef-s-proposal| 伊甸]]][[[http://wanderers-library.wikidot.com/sins-of-the-mother| 園]]]之[[[beneath-two-trees| 蛇]]]、[[[SCP-722| 耶夢加得]]]、[[[scp-4959| 羽蛇神]]]、[[[the-thing-at-the-bottom-of-my-dreams| 慾肉教的執官]]][[[http://wanderers-library.wikidot.com/the-three-kings| 等等]]]。[[[scp-4840 | 根據報告]]]，它有一個[[[scp-3000| 「黑暗兄弟」]]]，他們分別代表了所有的「是」與所有的「非」。[[[lte-0851-cetus|毀滅]]]了[[[nx-03| 哈伯希爾]]]的異常實體[[[war-on-all-fronts-hub|LSA-Brasil-01]]][[[anastasis-hub | 也可能]]]與蛇[[[reviviscence| 有關]]]。
 [[/div]]
 
 [[# swn001]]
 [[div class="modal"]]
-+ [[[sandrewswann-s-proposal| SWN001實體]]] （SWN001 Entities）
++ [[span class="ruby"]][[[sandrewswann-s-proposal| SWN001實體]]][[span class="rt"]]SWN001 Entities[[/span]][[/span]] 
 雖並未受任何已知宗教虔敬，但此類異常實體展現出了[[[scp-3309 |近乎無限]]]的藉[[[metafiction| 虛構媒介]]]來直接或[[[scp-7996|間接]]][[[scp-7700|操縱現實]]]的[[[scp-3999|能力]]]。有些[[[scp-6760|基金會研究]]]認為其能影響[[[in-the-end|對任何與其相關的宗教與現象，而其他假說則認為其他全能實體對多重宇宙掌握更多，或是兩者以階級式交錯排列，層層疊疊的互相影響]]]。即使其擁有強大能力，基金會[[[scp-7888 | 仍能]]]與該類實體[[[scp-cn-1109 | 互動]]]（甚至能對其[[[scp-5500 |執行無效化]]]）。基金會已規劃了對該類實體的[[[cygnus | 廢除程序]]]，但由於可能造成[[[the-final-deletion| ZK級現實失效]]]導致[[[so-it-was|宇宙終結]]]的風險而沒有實行。
 
 由[[[scp-4410|超形上學部]]]進行的[[[scp-2614 |進一步研究]]]顯示，我們的現實與SWN001實體所在現實，很可能都存在於[[[scp-3812 | 一層一層的敘事層階梯]]]之中，每層都是下方敘事層的創造者。[[[narrativistics-and-you|這些層級]]]可能包括了一切存在；所有曾經被創造、被毀滅、存在與不存在的事物，全都被[[[i-h-p-proposal | 螺旋排入]]]了創造現實的故事中。
@@ -234,10 +234,10 @@ div.pangloss-note{
 
 [[# yaldabaoth]]
 [[div class="modal"]]
-+ 亞大孢斯（Yaldabaoth）
-[[[sarkicism-hub| 欲肉教]]]教義中的[[[scp-3391|宇宙主神]]]，同時也是創造與毀滅之神。有著非常多的稱謂，包括法酋瑪（Važjuma）、「[[[scp-4884| 噬神者]]]」與「渾沌之母」。雖欲肉教稱其為「亞大孢斯」，該名號實源於靈智派的創世之神（Demiruge），一名創造了物質世界且與靈性上帝對立的存在。欲肉教及基督教學者皆正研究兩宗教過去對彼此的影響程度。
++ [[span class="ruby"]]亞大孢斯[[span class="rt"]]Yaldabaoth[[/span]][[/span]]
+[[[sarkicism-hub| 欲肉教]]]教義中的[[[scp-3391|宇宙主神]]]，同時也是創造與毀滅之神。有著非常多的稱謂，包括[[span class="ruby"]]法酋瑪[[span class="rt"]] Važjuma[[/span]][[/span]]、「[[[scp-4884| 噬神者]]]」與「渾沌之母」。雖欲肉教稱其為「亞大孢斯」，該名號實源於靈智派的創世之匠（Demiruge），一名創造了物質世界且與靈性上帝對立的存在。欲肉教及基督教學者皆正研究兩宗教過去對彼此的影響程度。
 
-有些傳說[[[about-the-serpent|描述]]]亞大孢斯和[#broken-god 「破碎之神」]既是手足又是勁敵的 [[[scp-6166| 關係]]]，但多數[[[church-of-the-broken-god-hub| 破碎之神教會]]]成員將此類描述視為異端，而有些將兩者描繪為[[party-of-gods|情人]]]的故事更是[[[hist-327-comparative-mythology-of-mekhanism-and-naelkae|備受爭議]]]。在此特注靈智派中的創世之神乃由智慧之神索非亞所生，而「索非亞」也是破碎之神[[[beneath-two-trees| 眾多稱號]]]之一。
+有些傳說[[[about-the-serpent|描述]]]亞大孢斯和[#broken-god 「破碎之神」]既是手足又是勁敵的 [[[scp-6166| 關係]]]，但多數[[[church-of-the-broken-god-hub| 破碎之神教會]]]成員將此類描述視為異端，而有些將兩者描繪為[[[party-of-gods|情人]]]的故事更是[[[hist-327-comparative-mythology-of-mekhanism-and-naelkae|備受爭議]]]。在此特注靈智派中的創世之匠乃由智慧之神索非亞所生，而「索非亞」也是破碎之神[[[beneath-two-trees| 眾多稱號]]]之一。
 
 欲肉教通常將亞大孢斯當作某種[[[an-anthropological-approach-to-sarkicism-case-study-04-house|自然力量]]]而非需虔敬的神祇，而原欲肉教宗派比起崇敬更常對其展現懼怕及憎厭。許多欲肉教文獻與口敘歷史都提及了名喚大術士伊仰的人物—其在通過了[[[on-the-origins|某些考驗]]]後，由亞大孢斯手下的[[[lord-goran|六位執官]]]（Archon）賦其異能。有些版本中其異能為受亞大孢斯所佑而來，但更多記錄兩者的[[[scp-5480|對立關係]]]—伊仰強奪了亞大孢斯的能力，以其血肉為冑，又以其軀而建阿狄泰姆帝國。雖通常不應以字面意義解讀宗教神話，但為解明[[[memoria-adytum| 當代各大術士]]]的能力，對其等起源的調查正在進行中。
 [[/div]]
