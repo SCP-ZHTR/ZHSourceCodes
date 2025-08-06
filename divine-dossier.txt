@@ -36,10 +36,6 @@ div.pangloss-note{
 
 +* 重要全能實體列表 
 
-[[>]]
-[[module Rate]]
-[[/>]]
-
 [[f>toc]]
 @@ @@
 過往紀錄[[[personnel-and-character-dossier | 關注人士]]]過程中，有些名號與存在時常被提及。雖假設該類實體神性以神學標準過為武斷，但該等存在時常被[[[Groups of Interest | 關注組織]]]作為神祇看待，且也有據證指出其等行跡與基金會收容的項目有關。雖有少數假說推斷崇敬所導致的阿基瓦場異常是創造這些實體的主因，但可實證該類存在的事證通常在其受虔敬前就已出現。由於此類實體似乎毫無限制的強大能力，許多基金會成員稱呼這類存在為**//「全能實體」//**。
@@ -129,7 +125,7 @@ div.pangloss-note{
 * 愛之親王，督魯格蘭塔的羅姆（ROUM of the Drömglänta）—科爾本尼奇第五親王，其形象通常為拿著樹枝，總是挑逗凝視著的人型雄鹿。目前無更多其的情報。
 * 海之親王，頻洛淵的哈吉赫提（HAJHETI of the Primrose Deep）—科爾本尼奇第六親王，其形象通常為有著樹隻人手且拿著笛子的海龜。商業、貿易與階級之神。其後裔，「提洛」（Threll），時常專注於將它們的事業拓展至多個宇宙。其相關教義時常提倡征服與鎮壓的重要，因此提洛也時常[[[dyfscp0013|將其他生命作為器物]]]使用，但此惡名昭彰的行為也讓叁月協會和哈吉赫提的信徒間關係緊張。
 * 序之親王，堅不可摧的賈拉喀拉（JALAKÅRA of the Impenetrable）—科爾本尼奇第七親王。
-* 末無的夫歐（VUOOU of the Murk）—受遺忘的科爾本尼奇第八親王。任何描繪其形象的創作都已受摧毀，因此目前不知其外貌。因其對[[[scp-7702| 暴行與苦難的痴迷]]而受其他親王所憎，被稱為「寄生蟲」。
+* 末無的夫歐（VUOOU of the Murk）—受遺忘的科爾本尼奇第八親王。任何描繪其形象的創作都已受摧毀，因此目前不知其外貌。因其對[[[scp-7702| 暴行與苦難的痴迷]]]而受其他親王所憎，被稱為「寄生蟲」。
 [[/collapsible]]
 [[/div]]
 
@@ -204,11 +200,8 @@ div.pangloss-note{
 
 七個新娘 --正-- 曾作為[[[SCP-231]]]並透過110-[[[scp-4231|蒙托克]]]程序收容。[[[SCP-2317]]]由 --七條鎖鏈-- 一條鎖鏈封印著。[[[kte-2013-kapala-mendes| 七之矛]]]在與[[[goc-hub-page| 全球超自然聯盟]]]的共同努力下已成功收容。[[[channeling-flows| 大封印]]]已經就位。目前--猩紅之王[[[new-job| 尚未被]]]完全控制。--不需要任何[[[fear-alone| 進一步的行動]]]以收容[[[tuftos-proposal| SCP-001]]]。
 
-The Seven Brides --are-- were contained as [[[SCP-231]]] through the use of Procedure 110-[[[scp-4231|Montauk]]]. [[[SCP-2317]]] is bound by --Seven Chains-- a single chain. The [[[kte-2013-kapala-mendes| Seven Spears]]] were captured through a joint effort with the [[[goc-hub-page| Global Occult Coalition]]]. The [[[channeling-flows| Great Seal]]] is in place. --The Scarlet King is [[[new-job| not yet]]] fully contained.-- No [[[fear-alone| further]]] [[[scp-5317|  action]]]  is required to contain [[[tuftos-proposal| SCP-001]]].
-
-
 [[collapsible show="+ 七位新娘" hide="..."]]
-七位新娘的身份與代表同猩紅之王一樣變化多端，但信徒仍時常將其與數字七連結。猩紅之王 [[[dust-and-blood| 最常受提及的相關傳說]]]之一聲稱七位新娘為其與沙那的七位女兒，且將她們與下列各名號及封印予以連結。
+七位新娘的身份與代表同猩紅之王一樣變化多端，但信徒仍時常將其與數字七連結。猩紅之王[[[dust-and-blood| 最常受提及的相關傳說]]]之一聲稱七位新娘為其與沙那的七位女兒，且將她們與下列各名號及封印予以連結。
 *阿堤薇（A’tivik），第一位新娘，受權威之封而鎮。
 *阿霍兒（A’ghor），第二位新娘，受長盼之封而鎮。
 *阿狄絲塔（A’distat），第三位新娘，受荒蕪之封而鎮。
@@ -249,5 +242,5 @@ The Seven Brides --are-- were contained as [[[SCP-231]]] through the use of Proc
 欲肉教通常將亞大孢斯當作某種[[[an-anthropological-approach-to-sarkicism-case-study-04-house|自然力量]]]而非需虔敬的神祇，而原欲肉教宗派比起崇敬更常對其展現懼怕及憎厭。許多欲肉教文獻與口敘歷史都提及了名喚大術士伊仰的人物—其在通過了[[[on-the-origins|某些考驗]]]後，由亞大孢斯手下的[[[lord-goran|六位執官]]]（Archon）賦其異能。有些版本中其異能為受亞大孢斯所佑而來，但更多記錄兩者的[[[scp-5480|對立關係]]]—伊仰強奪了亞大孢斯的能力，以其血肉為冑，又以其軀而建阿狄泰姆帝國。雖通常不應以字面意義解讀宗教神話，但為解明[[[memoria-adytum| 當代各大術士]]]的能力，對其等起源的調查正在進行中。
 [[/div]]
 
-[[include :scp-wiki:component:license-box]]
-[[include :scp-wiki:component:license-box-end]]
+[[include :scp-zh-tr:component:license-box]]
+[[include :scp-zh-tr:component:license-box-end]]
