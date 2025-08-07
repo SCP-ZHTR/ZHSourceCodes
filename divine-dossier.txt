@@ -118,7 +118,7 @@ div.pangloss-note{
 
 [[collapsible show="科爾本尼奇八親王" hide="科爾本尼奇八親王"]]
 由一位[[[the-lithopedion| 胎死腹中的]]]神粉碎的心智而生的八位「親王」分別為：
-* 星之親王，八重珠庫姆（KHUUM of the Eightfold Jewel，亦稱八芒星（Eightfold stars）庫姆）—科爾本尼奇第一親王，也是他們之中最年長的。其形象通常為有著八臂的半龍半鸛。據稱擁有[[[scp-7941|能夠由其輻射創造生命的魔法火焰]]]，用其來在毫無活物的宇宙裡創造星星。
+* 星之親王，八重珠庫姆（KHUUM of the Eightfold Jewel），亦稱八芒星庫姆（KHUMM of the Eightfold stars）—科爾本尼奇第一親王，也是他們之中最年長的。其形象通常為有著八臂的半龍半鸛。據稱擁有[[[scp-7941|能夠由其輻射創造生命的魔法火焰]]]，用其來在毫無活物的宇宙裡創造星星。
 * 狩之親王，永恆獵手諾絲達克（NÅZHDAK of the Eternal Hunt）—科爾本尼奇第二親王。其形象通常為拿著像薩克斯風裝置的的七頭雪貂。自然與野性之神，其對[[[dyfscp-001|特定物種]]]的熱愛眾所週知。對該實體的研究因[[[scp-7922|安全疑慮]]]而目前停止。
 * 蠱之親王，紅坑的阿巴塔（ABBAD of the Red Crater）—科爾本尼奇第三親王，形象通常為拿著彎刀的蜈蚣。賈拉喀拉的親生兄弟，也是被稱為[[[dyfscp0012|「祖母」]]]的神祇之父。任何受訪的叁月協會代表皆稱其為一[[[stella-secundus|「不知感恩、好吃懶做而且臭氣熏天的蟲」]]]，因此目前無更多關於其的情報。
 * 炙之親王，不熄之爐的莫茲（MUZD of the Everkiln）—科爾本尼奇第四親王，也是親王之中第二年長的。其形象為拿著巨錘，受火焰環繞的鵰。火焰、藝術與建設之神，據說是「[[[scp-7702|賢獸特勞富]]]」管理的會堂的所有人。
@@ -194,7 +194,7 @@ div.pangloss-note{
 [[div class="modal"]]
 + [[span class="ruby"]][[[cotsk-hub| 猩紅之王]]][[span class="rt"]]The Scarlet King[[/span]][[/span]]
 
-其擁有眾多稱號，如[[[dust-and-blood|修馬許-烏爾代]]]（Shormaush Urdal）、「[[[omnigenesis-and-the-law-of-blades| 卡拉克]]]」（Khahrahk）、「[[[scp-3838| 緋紅汗]]]」（Crimson Khan）以及「[[[scp-3150| 紅]]][[[scp-4989|沙阿]]]」（Red Shah）；其各個稱謂通常為代表「 [[[scp-6996| 紅]]]」的字前綴於代表[[[beneath-the-council| 統治者]]]的稱號。該實體受許多密教如「[[[scp-6019| 猩紅之王的幼子們]]]」、「[[[blood-in-the-water| 猩紅之王教會]]]」和[[[scp-3178 | 其他各宗派]]]的崇拜，而各派也對該存在有[[[christ-in-scarlet-hub|各自]]]的[[[tears-and-bone|解讀]]]。
+其擁有眾多稱號，如[[span class="ruby"]][[[dust-and-blood|「修馬許-烏爾代」]]][[span class="rt"]] Shormaush Urdal[[/span]][[/span]]、「[[span class="ruby"]] 「[[[omnigenesis-and-the-law-of-blades| 卡拉克]]]」[[span class="rt"]]Khahrahk[[/span]][[/span]]、「[[[scp-3838| 緋紅汗]]]」以及「[[[scp-3150| 紅]]][[[scp-4989|沙阿]]]」；其各個稱謂通常為代表「 [[[scp-6996| 紅]]]」的字前綴於代表[[[beneath-the-council| 統治者]]]的稱號。該實體受許多密教如「[[[scp-6019| 猩紅之王的幼子們]]]」、「[[[blood-in-the-water| 猩紅之王教會]]]」和[[[scp-3178 | 其他各宗派]]]的崇拜，而各派也對該存在有[[[christ-in-scarlet-hub|各自]]]的[[[tears-and-bone|解讀]]]。
 
 雖對其的崇敬方式各異，其通常被認為與權力、暴力和雄性特質有關。他常被描述為擁有[[[dust-and-blood| 七位新娘]]]，和[[[scp-475|頭足類與鯨豚]]]相關，並且是[[[lord-goran| 猩紅]]] [[[lord-jeser |部落]]]的領導者。其有時與[[[SCP-140]]]中描述的[[[daevite-hub| 殆瓦帝國]]][[[beneath-two-trees| 有所關連]]]，作為為[[[the-trashfire| 殆瓦人所信仰]]]的[[[empire-of-dirt-part-1| 各神祇]]]之一存在，不過這也可能是對[[[rounderhouse-jade-proposal|殆瓦信仰]]]的[[[SCP-6140| 誤解]]]。於某些故事中，其與被稱作[[[when-we-came-home|「奇蹟創造者」]]][[[the-real-adventures-in-capitalism| 之存在]]]為[[[dr-wondertainment-goes-out-with-a-bang| 對立]]]關係；其的另位敵手為「沙那」（Sanna），一個混沌、帶有雌性特質且作為其對立面存在的實體。
 
@@ -202,13 +202,13 @@ div.pangloss-note{
 
 [[collapsible show="+ 七位新娘" hide="..."]]
 七位新娘的身份與代表同猩紅之王一樣變化多端，但信徒仍時常將其與數字七連結。猩紅之王[[[dust-and-blood| 最常受提及的相關傳說]]]之一聲稱七位新娘為其與沙那的七位女兒，且將她們與下列各名號及封印予以連結。
-*阿堤薇（A’tivik），第一位新娘，受權威之封而鎮。
-*阿霍兒（A’ghor），第二位新娘，受長盼之封而鎮。
-*阿狄絲塔（A’distat），第三位新娘，受荒蕪之封而鎮。
-*阿席別（A’zieb），第四位新娘，受憎憤之封而鎮，[[[SCP-682]]][[[new-job|之母]]]。
-*阿努赫（A’nuht），第五位新娘，受貧乏之封而鎮。作為[[[scp-6462| SCP-6462-C-1]]]而被收容。
-*阿帖莉芙（A’tellif），第六位新娘，受隱藏的封印而鎮。
-*阿赫芭塔（A’habbat），第七位新娘，受冀望之封而鎮。[[[scp-8225| 利維坦獵人]]]之母。儀式客體受收容為 [[[scp-231| SCP-231-7]]]。有[[[new-job| 假說]]]認為其和[[[SCP-999]]]有所[[[diary-of-an-adolescent-orange-blob| 關聯]]] 。
+*阿堤薇（A’tivik），第一位新娘，壓鎮於權威之封。
+*阿霍兒（A’ghor），第二位新娘，壓鎮於長盼之封。
+*阿狄絲塔（A’distat），第三位新娘，壓鎮於荒蕪之封。
+*阿席別（A’zieb），第四位新娘，壓鎮於憎憤之封，[[[SCP-682]]][[[new-job|之母]]]。
+*阿努赫（A’nuht），第五位新娘，壓鎮於貧乏之封。作為[[[scp-6462| SCP-6462-C-1]]]而被收容。
+*阿帖莉芙（A’tellif），第六位新娘，壓鎮於隱藏的封印。
+*阿赫芭塔（A’habbat），第七位新娘，壓陣於冀望之封。[[[scp-8225| 利維坦獵人]]]之母。儀式客體受收容為 [[[scp-231| SCP-231-7]]]。有[[[new-job| 假說]]]認為其和[[[SCP-999]]]有所[[[diary-of-an-adolescent-orange-blob| 關聯]]] 。
 各新娘的稱號、特質與由其所誕的猩紅後裔在各式猩紅之王相關的宗教皆時常出現。
 
 [[/collapsible]]
