@@ -91,12 +91,13 @@ color: #DDDD77;
 [[# basic]]
 
 ++ 基礎項目模板
-
+[[div class="blockquote"]]
+{{@@[[include info:start]]@@
+@@**篇名：**@@
+@@**作者：** @@
+@@[[include info:end]]@@}}
+[[/div]]
 [[code]]
-[[>]]
-[[module Rate]]
-[[/>]]
-
 **項目編號：**SCP-ZH-XXX
 
 **項目等級：**Safe/Euclid/Keter（表明項目等級）
