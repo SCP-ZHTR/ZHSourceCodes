@@ -1,5 +1,6 @@
 [[include component:scp-meta-title-hiding css-style=classic]]
-[[include :scp-zh-tr:theme:classic]]
+[[include :scp-zh-tr:theme:bedrock]]
+[[include :scp-zh-tr:theme:site-zh-11]]
 [[include :scp-wiki:info:start]]
 作品：SCP-ZH-778 局內人模擬器
 作者：[[*user Frederica Bernkastel]]

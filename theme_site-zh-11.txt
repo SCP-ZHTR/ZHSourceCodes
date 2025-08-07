@@ -1,0 +1,1137 @@
+[[iftags +外觀主題]]
+[[module css]]
+@import url('https://cdn.scpwiki.com/theme/en/basalt/normalize-min.css');
+@import url('https://cdn.scpwiki.com/theme/en/basalt/basalt-bedrock-min.css');
+@import url("http://scp-zh-tr.wikidot.com/theme:bedrock");
+
+[[/module]]
+
+[[include info:start]]
+**Site-ZH-11外觀主題**
+作者：[[*user kikunai]]
+
+其他元素的作者已在demo內標出。
+[[include info:end]]
+
+[[div class="toc-box"]]
+[[div class="pseudo-title"]]
+**目錄**
+[[size 65%]]（本外觀主題也
+支援toc box喔）[[/size]]
+[[/div]]
+----
+[[collapsible show="▶ 開啓" hide="▼ 隱藏"]]
+[[toc]]
+[[/collapsible]]
+[[/div]]
+
+
++ 簡介
+本外觀主題為[[*user kikunai]]根據某大學網站版面製作的[http://scp-zh-tr.wikidot.com/theme:bedrock 基岩][[footnote]]原製作者：[[*user EstrellaYoshte]]、[[*user Liryn]]和[[*user Placeholder McD]]。順便展示一下腳註。[[/footnote]]變體。
+
+然而，由於本主題是由基岩（Bedrock）fork出來的，轉而套用玄武岩（Basalt）時或會出現bug或辣眼睛的地方，敬請注意。
+
+本主題//鼓勵//在Site-ZH-11相關文章使用。
+
+= **於任何頁面上加入以下代碼：**
+
+[[div class="blockquote" style="font-size: 110%; text-align: center;"]]
+{{@@[[include :scp-zh-tr:theme:bedrock]]@@
+@@[[include :scp-zh-tr:theme:site-zh-11]]@@}}
+
+（暗色模式 - [http://scp-zh-tr.wikidot.com/theme-site-zh-11-dark-demo 預覽]）
+{{@@[[include :scp-zh-tr:theme:bedrock]]@@
+@@[[include :scp-zh-tr:theme:site-zh-11 dark=a]]@@}}
+[[/div]]
+
+@@ @@
+@@ @@
+@@ @@
+
+
+[[include component:image-block name=https://i.imgur.com/RIVHHKf.png|caption=Site-ZH-11的標誌 |width=200px]]
+[[include component:image-block name=https://i.imgur.com/lRDmS4u.png|caption=本外觀主題使用的Site-ZH-11標誌變體 |width=200px]]
+
+一條水平線可以透括使用--4-- --5-- 你喜歡放多少就多少的連字號「@@-----@@」來創建，且如果它沒被包在任何東西裡面的話（例如引用塊），它會延伸並橫跨整個頁面。在這份文件中被拿來分段的就是水平線。
+
+* [# 還沒按下去的連結]
+* [http://scp-zh-tr.wikidot.com/theme:site-zh-11 已經瀏覽過的連結]
+* [[[0|不存在的連結]]]
+
+標題可以透過在一行的開頭添加一至六個加號「+」來創建。
+
+~~~~~~
+
+[[collapsible show="+ 標題" hide="- 標題"]]
++* 一級標題
+
+++* 二級標題
+
++++* 三級標題
+
+++++* 四級標題
+
++++++* 五級標題
+
+++++++* 六級標題
+[[/collapsible]]
+
+@@ @@
+
+[[tabview]]
+[[tab tab]]
+為甚麼鏟子很特別？
+
+因為它是一個破天荒的發明。
+[[/tab]]
+[[tab tab1]]
+更多文字。
+
+真別緻啊。
+[[/tab]]
+[[tab 長tab]]
+這是個長Tab。裡面容納了大量文字。
+
+這是個長Tab。裡面容納了大量文字。
+
+這是個長Tab。裡面容納了大量文字。
+
+這是個長Tab。裡面容納了大量文字。
+
+這是個長Tab。裡面容納了大量文字。
+
+這是個長Tab。裡面容納了大量文字。
+
+這是個長Tab。裡面容納了大量文字。
+
+這是個長Tab。裡面容納了大量文字。
+
+這是個長Tab。裡面容納了大量文字。
+
+這是個長Tab。裡面容納了大量文字。
+
+這是個長Tab。裡面容納了大量文字。
+
+這是個長Tab。裡面容納了大量文字。
+[[/tab]]
+[[tab 這個空tab有着很長很長的名字。]]
+[[/tab]]
+[[tab 空Tab]]
+[[/tab]]
+[[tab 空Tab]]
+[[/tab]]
+[[tab 空Tab]]
+[[/tab]]
+[[tab 空Tab]]
+[[/tab]]
+[[tab 空Tab]]
+[[/tab]]
+[[/tabview]]
+
+@@ @@
+
+> 這是個引用塊，可以透過在每一行的開頭添加「> 」來創建。
+>
+> 看哪！更多文字！
+> -----
+> 這是個水平線，不錯吧？
+
+
+||~ 這是個 ||~ 表格 ||
+||你應該要 || 知道該如何 ||
+||||創建這東西了 ||
+
+[[footnoteblock]]
+
+----
+
++ 玄武岩div
+
+因為知道大家比較常用玄武岩所以順便將它的所有特色div拆了出來。[[footnote]]（原製作者：[[*user Liryn]]和[[*user Placeholder McD]]）[[/footnote]]
+
+@@ @@
+= [[span class="st"]]@@[[span class="st"]]@@[[/span]] [[span class="noclick"]] @@ @@ [[/span]] [[span class="specialtext"]]@@[[span class="specialtext"]]@@[[/span]]
+
+= [[span class="bt"]]@@[[span class="bt"]]@@[[/span]] [[span class="noclick"]] @@ @@ [[/span]] [[span class="bigtext"]]@@[[span class="bigtext"]]@@[[/span]]
+@@ @@
+
+[[=]]
+
+[[div class="blockquote"]]
+**{{@@[[div class="blockquote"]]@@}}**
+[[/div]]
+
+[[div class="notation"]]
+**{{@@[[div class="notation"]]@@}}**
+[[/div]]
+
+[[div class="jotting"]]
+**{{@@[[div class="jotting"]]@@}}**
+[[/div]]
+
+[[div class="modal"]]
+**{{@@[[div class="modal"]]@@}}**
+[[/div]]
+
+[[div class="smallmodal"]]
+**{{@@[[div class="smallmodal"]]@@}}**
+[[/div]]
+
+[[div class="papernote"]]
+**{{@@[[div class="papernote"]]@@}}**
+[[/div]]
+
+[[/=]]
+
+@@ @@
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec pellentesque felis eu vulputate suscipit. Vestibulum dui elit, ornare eget eros ut, gravida finibus velit. Pellentesque et diam vel turpis semper ullamcorper. Integer scelerisque malesuada enim, a semper risus molestie eget. Fusce luctus ex in ante feugiat fermentum. In nec sodales nibh. Suspendisse potenti. Aenean in volutpat turpis, in dictum sapien. Quisque vehicula turpis nec ligula feugiat commodo. Maecenas ornare lorem vel commodo mattis. Sed egestas dignissim sapien nec pulvinar. In ligula ipsum, posuere sit amet turpis in, cursus euismod tellus.
+
+[[div class="floatbox"]]
+**{{@@[[div class="floatbox"]]@@}}**
+
+這是個[[span class="ruby"]]floatbox[[span class="rt"]]懸浮框[[/span]][[/span]]，你可以在這裡面填入各式各樣的內容（就現在來說只有BetterFootnotes不行），它會懸浮於頁面中的一側並被此外的內容所包圍。
+
+[[/div]]
+
+Maecenas vestibulum nunc in euismod auctor. Donec ultrices tempor felis sit amet ornare. Nam nec lectus sit amet nisl bibendum condimentum. Morbi eu arcu quis mi pulvinar fringilla. Ut fringilla interdum urna, at porta sapien vulputate quis. Integer eu scelerisque urna. Morbi luctus, justo eget viverra feugiat, leo quam egestas velit, sit amet feugiat nisi nibh molestie metus. Phasellus ut blandit ex. Ut aliquam, nisl ut aliquam volutpat, sem lorem tempor mi, sit amet ultricies nunc ante eu libero. Aenean lacinia porta nisi, in finibus quam. Aliquam erat volutpat. Aliquam malesuada libero id dapibus efficitur. Cras bibendum, dolor sit amet sagittis scelerisque, lorem magna ornare purus, vel accumsan leo tortor sit amet dolor. Maecenas finibus ante eget purus ullamcorper, vel elementum purus auctor. Quisque sagittis, leo et pretium efficitur, orci nulla interdum enim, in dignissim enim quam in neque.
+
+[[div class="floatbox right"]]
+**{{@@[[div class="floatbox right"]]@@}}**
+[[/div]]
+
+Curabitur sed dui nec libero fringilla placerat. Pellentesque imperdiet ac dolor et sagittis. Vestibulum rhoncus justo magna, vel ornare eros iaculis et. Praesent suscipit massa eu urna convallis molestie. Vestibulum molestie faucibus eleifend. Nullam ut felis ac sapien aliquet consequat a sit amet ipsum. Sed rutrum diam quis urna ullamcorper, sit amet tristique lacus faucibus. Cras facilisis consequat sem, et egestas elit blandit ut. Cras sagittis velit ut posuere semper. Vestibulum in ipsum orci.
+
+@@ @@
+
+[[div style="display: flex; flex-flow: row wrap; justify-content: space-between; gap: 2.5rem;"]]
+
+[[div class="document" style="padding-bottom: 23rem; flex-grow: 1;"]]
+**{{@@[[div class="document"]]@@}}**
+[[/div]]
+
+[[div class="darkdocument" style="padding-bottom: 23rem; flex-grow: 1;"]]
+**{{@@[[div class="darkdocument"]]@@}}**
+[[/div]]
+
+[[/div]]
+
+@@ @@
+
+[[div class="raisa_memo"]]
+**{{@@[[div class="raisa_memo"]]@@}}**
+[[/div]]
+
+[[=]]
+[[collapsible show="+ 更多memos" hide="- Hide"]]
+
+組織圖標由[[*user EstrellaYoshte]]（[[[https://scp-wiki.wikidot.com/desk-of-junior-designer-s-yvonne|見此]]]）所繪
+
+[[div class="classification_memo"]]
+**{{@@[[div class="classification_memo"]]@@}}**
+[[/div]]
+
+[[div class="ettra_memo"]]
+**{{@@[[div class="ettra_memo"]]@@}}**
+[[/div]]
+
+[[div class="ethics_memo"]]
+**{{@@[[div class="ethics_memo"]]@@}}**
+[[/div]]
+
+[[div class="temporal_memo"]]
+**{{@@[[div class="temporal_memo"]]@@}}**
+[[/div]]
+
+[[div class="overwatch_memo"]]
+**{{@@[[div class="overwatch_memo"]]@@}}**
+[[/div]]
+
+[[div class="miscomm_memo"]]
+**{{@@[[div class="miscomm_memo"]]@@}}**
+[[/div]]
+
+[[/collapsible]]
+[[/=]]
+
+有些部件能夠利用**{{tableX}}**一類的class來改變顏色。
+這套著色系統的設計目的是讓你去聯動[[[https://scp-zh-tr.wikidot.com/anomaly-classification-system-guide |異常分類系統]]]；各個顏色都有其相應的維安權限層級。
+
+@@ @@
+
+[[div style="display: flex; flex-flow: row wrap; gap: 2.5rem;"]]
+
+[[div class="table1"]]
+||~ {{.table1}} ||
+||= 在此填入文字 ||
+||= 在此填入文字 ||
+||= 在此填入文字 ||
+[[/div]]
+
+[[div class="table1"]]
+[[include :scp-zh-tr:component:image-block name=https://basalt-team.github.io/Basalt/basaltlogo.svg|caption=**{{.table1}}**|width=100px]]
+[[/div]]
+
+[[div class="table2"]]
+||~ {{.table2}} ||
+||= 在此填入文字 ||
+||= 在此填入文字 ||
+||= 在此填入文字 ||
+[[/div]]
+
+[[div class="table2"]]
+[[include :scp-zh-tr:component:image-block name=https://basalt-team.github.io/Basalt/basaltlogo.svg|caption=**{{.table2}}**|width=100px]]
+[[/div]]
+
+[[div class="table3"]]
+||~ {{.table3}} ||
+||= 在此填入文字 ||
+||= 在此填入文字 ||
+||= 在此填入文字 ||
+[[/div]]
+
+[[div class="table3"]]
+[[include :scp-zh-tr:component:image-block name=https://basalt-team.github.io/Basalt/basaltlogo.svg|caption=**{{.table3}}**|width=100px]]
+[[/div]]
+
+[[div class="table4"]]
+||~ {{.table4}} ||
+||= 在此填入文字 ||
+||= 在此填入文字 ||
+||= 在此填入文字 ||
+[[/div]]
+
+[[div class="table4"]]
+[[include :scp-zh-tr:component:image-block name=https://basalt-team.github.io/Basalt/basaltlogo.svg|caption=**{{.table4}}**|width=100px]]
+[[/div]]
+
+[[div class="table5"]]
+||~ {{.table5}} ||
+||= 在此填入文字 ||
+||= 在此填入文字 ||
+||= 在此填入文字 ||
+[[/div]]
+
+[[div class="table5"]]
+[[include :scp-zh-tr:component:image-block name=https://basalt-team.github.io/Basalt/basaltlogo.svg|caption=**{{.table5}}**|width=100px]]
+[[/div]]
+
+[[div class="table6"]]
+||~ {{.table6}} ||
+||= 在此填入文字 ||
+||= 在此填入文字 ||
+||= 在此填入文字 ||
+[[/div]]
+
+[[div class="table6"]]
+[[include :scp-zh-tr:component:image-block name=https://basalt-team.github.io/Basalt/basaltlogo.svg|caption=**{{.table6}}**|width=100px]]
+[[/div]]
+
+[[/div]]
+
+
+@@ @@
+@@ @@
+@@ @@
+
+
+
+----
+
++ 客製化
+
++++ 更多繁中memo
+如果有更多部門div點子請在Discord找我
+
+[[div class="srr_memo"]]
+**{{@@[[div class="srr_memo"]]@@}}**
+[[/div]]
+
+[[div class="te_memo"]]
+**{{@@[[div class="te_memo"]]@@}}**
+[[/div]]
+
++++ 懸浮目錄盒（toc box）
+就是在右下角的東西（究竟是誰弄的……？），請隨意擺放。
+
+[[div class="blockquote"]]
+{{@@[[div class="toc-box"]]@@
+@@[[div class="pseudo-title"]]@@
+**標題**
+@@[[/div]]@@
+@@----@@
+@@[[collapsible show="▶ 開啓" hide="▼ 隱藏"]]@@
+@@[[toc]]@@
+@@[[/collapsible]]@@
+@@[[/div]]@@}}
+[[/div]]
+
++++ mars.aic 
+[http://scp-zh-tr.wikidot.com/i-do-not-want-to-translate-art 頭像]由[[*user IC 1623]]製作
+@@ @@
+
+ [[div class="mars"]]
+您好，我是隸屬Site-ZH-11的mars.aic。如欲使用這個div，請複製以下代碼：
+
+{{@@[[div class="mars"]]@@
+文字
+@@[[/div]]@@}}
+[[/div]]
+
+[[div class="mars right"]]
+也有右面的選項喔
+{{@@[[div class="mars right"]]@@
+文字
+@@[[/div]]@@}}
+[[/div]] 
+
+[[div class="mars"]]
+就是這樣。
+文字較多時的示例：
+先帝創業未半，而中道崩殂 ，今天下三分，益州疲弊 ，此誠危急存亡之秋也。然侍衞之臣，不懈於內；忠志之士，忘身於外者，蓋追先帝之殊遇，欲報之於陛下也 。誠宜開張聖聽，以光先帝遺德，恢弘志士之氣﹔不宜妄自菲薄，引喻失義，以塞忠諫之路也。宮中、府中，俱為一體，陟罰臧否，不宜異同。若有作姦犯科，及為忠善者，宜付有司，論其刑賞，以昭陛下平明之治 ；不宜偏私，使內外異法也。
+> 支援 //{{blockquote}}//
+> ----
+> 侍中、侍郎郭攸之、費禕、董允等，此皆良實，志慮忠純，是以先帝簡拔以遺陛下。愚以為宮中之事，事無大小，悉以咨之，然後施行，必能裨補闕漏，有所廣益。將軍向寵，性行淑均 ，曉暢軍事，試用於昔日，先帝稱之曰「能」，是以眾議舉寵為督。愚以為營中之事，悉以咨之，必能使行陣和睦，優劣得所。
+
+[[/div]]
+
+[[div class="mars m-box"]]
+可在div class裏增加//{{m-box}}//改變紙貓頭像
+[[/div]]
+
+[[div class="mars m-search"]]
+{{m-search}}
+[[/div]]
+
+[[div class="mars right m-defence"]]
+{{m-defence}}
+[[/div]]
+
+[[div class="mars m-sad"]]
+{{m-sad}}
+[[/div]]
+
+[[div style="background-color: #fefefe; padding: 0.8em;"]]
+[[div class="flip"]]
+[[div class="mars right m-loading"]]
+{{m-loading}}
+
+如欲將頭像水平反轉，請在mars外增加//{{@@[[div class="flip"]]@@}}//
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[div style="background-color: #0f0f13; padding: 0.8em;"]]
+[[div class="mars m-loadingb"]]
+{{m-loadingb}}
+[[/div]]
+[[/div]]
+
+@@ @@
+
+[[collapsible show="+ div裏也能使用" hide="- 收起"]]
+[[div class="blockquote"]]
+[[div class="mars"]]
+咬
+[[/div]]
+
+
+[[div class="mars right"]]
+親賢臣，遠小人，此先漢所以興隆也﹔親小人，遠賢臣，此後漢所以傾頹也。先帝在時，每與臣論此事，未嘗不歎息痛恨於桓、靈也！侍中、尚書、長史、參軍，此悉貞良死節之臣，願陛下親之、信之，則漢室之隆，可計日而待也。臣本布衣，躬耕於南陽 ，苟全性命於亂世，不求聞達於諸侯。先帝不以臣卑鄙，猥自枉屈，三顧臣於草廬之中，諮臣以當世之事，由是感激，遂許先帝以驅馳 。後值傾覆，受任於敗軍之際，奉命於危難之間，爾來二十有一年矣。先帝知臣謹慎，故臨崩寄臣以大事也。受命以來，夙夜憂歎，恐託付不效，以傷先帝之明。故五月渡瀘，深入不毛 。今南方已定，兵甲已足，當獎率三軍，北定中原，庶竭駑鈍，攘除姦凶 ，興復漢室，還於舊都 。此臣所以報先帝而忠陛下之職分也。至於斟酌損益，進盡忠言，則攸之、禕、允之任也。願陛下託臣以討賊興復之效；不效，則治臣之罪，以告先帝之靈。若無興德之言，則責攸之、禕、允等之慢，以彰其咎 。陛下亦宜自謀，以諮諏善道，察納雅言 ，深追先帝遺詔。臣不勝受恩感激。今當遠離，臨表涕零，不知所言。
+[[/div]] 
+
+[[div class="mars"]]
+喵
+是單獨拆出來對sigma-9/10和黑標也友善的div喔[[footnote]]免責聲明：可能要改四、五行代碼[[/footnote]]
+[[/div]]
+
+[[/div]]
+[[/collapsible]]
+@@ @@ 
+++++ 普通對話框
+[[div class="mchat"]]
+{{@@[[div class="mchat"]]@@}}
+[[/div]]
+
+[[div class="mchat right" style="--mchat-bg-color: 173, 235, 179;"]]
+同樣支援 //{{right}}//
+可增加//{{@@style="--mchat-bg-color: RGB顏色代碼;"@@}}//調整單個對話框的背景顏色
+[[/div]]
+
+
+@@ @@
+@@ @@
+@@ @@
+
++++ 菊內（？）div（？）
+
+我不知道
+##transparent|這是我用來快速跳到頁面底部修復css的錨點，不過將來可能有菊內div也説不定。##
+##transparent|就這樣吧謝謝看到最後的人##
+菊內
+
+
+----
+@@ @@ 
+@@ @@ 
+@@ @@
+@@ @@ 
+@@ @@ 
+@@ @@
+
+
+
+
+
+[[/iftags]]
+
+[[module css]]
+:root:root:lang(zh) {
+--header-title: "Site-ZH-11"; 
+--header-subtitle: "翰林 - 同文 - 護法"; 
+}
+
+:root {
+--redwhite: 254, 254, 254;
+--header-logo: url('https://i.imgur.com/lRDmS4u.png');
+--basalt-dark-element-color: 128, 102, 75;
+--basalt-undertone: 162, 31, 51;
+--basalt-overtone: 76, 73, 72;
+
+--header-background-color: 130, 27, 35;
+--tab-hover-background-color: var(--basalt-undertone);
+
+--header-title-color: var(--redwhite);
+--search-icon-color: var(--redwhite);
+--bottom-area-text-color: var(--redwhite);
+--top-bar-link-color: var(--redwhite);
+
+@media only screen and (max-width: 600px) {
+ --top-bar-link-color: var(--basalt-main-text-color);
+}
+
+--bottom-area-background-color: var(--basalt-undertone);
+--edit-area-toolbar-background-color: var(--basalt-undertone);
+
+/* basalt 拆包 root */
+
+--basalt-th-background-color: var(--basalt-UI-dark-palette);
+--basalt-th-text-color: var(--basalt-light-text-color);
+--floatbox-background-color: var(--basalt-secondary-color);
+--document-background-color: 253, 253, 253;
+--darkdocument-background-color: 30, 30, 35;
+--one-color: 0, 159, 107;
+--two-color: 0, 135, 189;
+--three-color: 255, 211, 0;
+--four-color: 255, 109, 0;
+--five-color: 196, 2, 51;
+--six-color: 173, 77, 191;
+}
+
+
+
+/* 修整*/
+
+.wd-editor-toolbar-panel ul li a::after {
+  background-color: rgb(var(--redwhite));
+}
+
+div#footer {
+ color: rgb(var(--redwhite));
+}
+
+div#license-area.license-area a {
+ color: rgb(var(--basalt-sub-text-color));
+}
+
+span.rate-points,
+.yui-navset.yui-navset-top > ul.yui-nav li {
+background-color: rbg(var(--basalt-undertone));
+}
+
+
+
+/* basalt拆包 */
+
+:is(div.blockquote, blockquote) {
+    color: rgb(var(--basalt-main-text-color));
+    overflow: auto;
+}
+
+:is(div.blockquote, blockquote):has(div.floatbox) {
+    overflow: unset;
+}
+
+#page-content div.notation {
+    max-width: 45rem;
+}
+
+div.notation {
+    display: block;
+    margin-inline: auto;
+    margin-block: 1.4rem;
+    padding-inline: 1.1rem;
+    padding-block: 0.9rem;
+    background-color: rgb(var(--basalt-secondary-color));
+    border-left: solid 0.25rem rgb(var(--general-border-color));
+    border-right: solid 0.25rem rgb(var(--general-border-color));
+    color: rgb(var(--basalt-main-text-color));
+}
+
+#page-content div.modal {
+    max-width: 57rem;
+}
+
+div.modal {
+    display: block;
+    margin-inline: auto;
+    margin-block: 1.4rem;
+    padding-inline: 1.5rem;
+    padding-block: 0.5rem;
+    background-color: rgb(var(--basalt-primary-color));
+    border: solid 0.2rem rgb(var(--general-border-color));
+    color: rgb(var(--basalt-main-text-color));
+}
+
+#page-content div.smallmodal {
+    max-width: 47rem;
+}
+
+div.smallmodal {
+    display: block;
+    margin-inline: auto;
+    margin-block: 1.4rem;
+    padding-inline: 1rem;
+    padding-block: 0.2rem;
+    background-color: rgb(var(--basalt-primary-color));
+    border: solid 0.15rem rgb(var(--general-border-color));
+    color: rgb(var(--basalt-main-text-color));
+}
+
+#page-content div:is(.jotting, .transcript) {
+    max-width: 42rem;
+}
+
+div:is(.jotting, .transcript) {
+    display: block;
+    margin-inline: auto;
+    margin-block: 1.4rem;
+    padding-inline: 1.5rem;
+    padding-block: 0.2rem;
+    background-color: rgb(var(--basalt-secondary-color));
+    border: dashed 0.15rem rgb(var(--general-border-color));
+    color: rgb(var(--basalt-main-text-color));
+}
+
+#page-content div.papernote {
+    max-width: 30rem;
+}
+
+div.papernote {
+    display: block;
+    margin-inline: auto;
+    margin-block: 1.4rem;
+    padding: 1rem 2rem;
+    background-color: rgb(var(--basalt-tertiary-color));
+    color: rgb(var(--basalt-main-text-color));
+}
+
+#page-content div:is(.document, .darkdocument) {
+    max-width: 45rem;
+}
+
+div:is(.document, .darkdocument) {
+    padding: 1.5em;
+    margin: 2em;
+
+}
+
+div.document {
+    background-color: rgb(var(--document-background-color));
+    box-shadow: 0px 4px 9px rgba(0, 0, 0, 0.2);
+    color: rgb(50, 50, 53);
+}
+
+div.darkdocument {
+    background-color: rgb(var(--darkdocument-background-color));
+    box-shadow:  0px 4px 9px rgba(0, 0, 7, 0.9);
+    color: rgb(195, 195, 200);
+}
+
+div[class$="_memo"] {
+    background: var(--memo-logo) rgba(var(--memo-color), 1);
+    background-size: contain;
+    background-position: top center;
+    background-repeat: no-repeat;
+    min-height: 4rem;
+    margin-inline: auto;
+    margin-block: 2rem;
+    padding-inline: 20px;
+    padding-block: 10px;
+    border: solid 2px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+div[class$="_memo"]::before {
+    content: var(--memo-heading);
+    font-family: var(--UI-font);
+    font-weight: 900;
+    font-size: 1.3em;
+    text-align: center;
+    margin: 0 auto 1rem auto;
+    display: flex;
+    flex-direction: column;
+    padding-top: 0.5em;
+}
+
+div.raisa_memo {
+    --memo-heading: "來自紀錄及資訊安全管理部的通知";
+    --memo-logo: url(https://scp-wiki.wikidot.com/local--files/theme:basalt/RAISA_LIGHTLOGO.png);
+    --memo-color: 255, 243, 173;
+}
+
+div.classification_memo {
+    --memo-heading: "分級委員會備忘錄";
+    --memo-logo: url(https://scp-wiki.wikidot.com/local--files/theme:basalt/CLASSIFICATION_LIGHTLOGO.png);
+    --memo-color: 237, 245, 243;
+}
+
+div.ettra_memo {
+    --memo-heading: "來自潛在威脅戰術應對機構的通知";
+    --memo-logo: url(https://scp-wiki.wikidot.com/local--files/theme:basalt/ETTRA_LIGHTLOGO.png);
+    --memo-color: 245, 215, 215;
+}
+
+div.ethics_memo {
+    --memo-heading: "倫理委員會備忘錄";
+    --memo-logo: url(https://scp-wiki.wikidot.com/local--files/theme:basalt/ETHICS_LIGHTLOGO.png);
+    --memo-color: 255, 219, 196;
+}
+
+div.temporal_memo {
+    --memo-heading: "時間異常部門";
+    --memo-logo: url(https://scp-wiki.wikidot.com/local--files/theme:basalt/DELTA_T_LIGHTLOGO.png);
+    --memo-color: 255, 255, 255;
+}
+
+div.overwatch_memo {
+    --memo-heading: "來自監督者的指示";
+    --memo-logo: url(https://scp-wiki.wikidot.com/local--files/theme:basalt/O5_LIGHTLOGO.png);
+    --memo-color: 227, 227, 227;
+}
+
+div.miscomm_memo {
+    --memo-heading: "來自誤傳部門的通知";
+    --memo-logo: url(https://scp-wiki.wikidot.com/local--files/theme:basalt/MISCOMM_LIGHTLOGO.png);
+    --memo-color: 238, 237, 250;
+}
+
+/* 額外memo */
+div.srr_memo {
+    --memo-heading: "來自系統還原與追溯部門的通知";
+    --memo-logo: url(https://i.imgur.com/P64Q84k.png);
+    --memo-color: 204, 204, 204;
+}
+
+div.te_memo {
+    --memo-heading: "來自三垣的指示";
+    --memo-logo: url(https://i.imgur.com/Jn1rn9H.png);
+    --memo-color: 193, 211, 241;
+}
+
+
+
+:is(#page-content table:not(.form), table.wiki-content-table) th {
+    background-color: rgb(var(--basalt-th-background-color));
+    border-color: rgb(var(--basalt-th-background-color));
+    color: rgb(var(--basalt-th-text-color));
+}
+
+.table1 {
+    --basalt-th-background-color: var(--one-color);
+}
+
+.table2 {
+    --basalt-th-background-color: var(--two-color);
+}
+
+.table3 {
+    --basalt-th-background-color: var(--three-color);
+    --basalt-th-text-color: var(--basalt-main-text-color);
+}
+
+.table4 {
+    --basalt-th-background-color: var(--four-color);
+}
+
+.table5 {
+    --basalt-th-background-color: var(--five-color);
+}
+
+.table6 {
+    --basalt-th-background-color: var(--six-color);
+}
+
+
+div:is(.table1, .table2, .table3, .table4, .table5, .table6) .scp-image-block {
+    border-bottom-color: rgba(var(--basalt-th-background-color), 0.75);
+}
+
+div.tableb :is(#page-content table:not(.form), table.wiki-content-table) {
+    border-collapse: separate;
+    border-spacing: 4px;
+}
+
+span:is(.bigtext, .bt) {
+    font-family: var(--header-font);
+    font-weight: bold;
+}
+
+span:is(.specialtext, .st) {
+    font-family: var(--UI-font);
+    font-weight: bold;
+}
+
+:is(.table1, .table2, .table3, .table4, .table5, .table6) span:is(.st, .specialtext) {
+    color: rgb(var(--basalt-th-background-color));
+}
+
+#page-content div.floatbox {
+    background-color: rgb(var(--floatbox-background-color));
+    float: left;
+    max-width: calc(var(--main-content-width)/2.25);
+    box-sizing: border-box;
+    margin: 0.25rem 1.25rem;
+    margin-left: clamp(calc(var(--main-content-width)/-4.5), calc((87.5vw - 95%)/-2), 0rem);
+    padding-inline: 1.2rem;
+    padding-block: 0.5rem;
+    font-size: 0.9125em;
+    border-radius: 7px;
+    border: solid 0.12rem rgba(var(--basalt-overtone), 0.4);
+}
+
+#page-content div.floatbox.right {
+    float: right;
+    margin-left: 1.25rem;
+    margin-right: clamp(calc(var(--main-content-width)/-4.5), calc((87.5vw - 95%)/-2), 0rem);
+}
+
+@media only screen and (max-width: 640px) {
+    #page-content div:is(.floatbox, .floatbox.right) {
+     float: none;
+     margin: 0.5rem auto;
+     width: 100%;
+    }
+}
+
+:is(.table-no-border, .authorbox) td {
+    border-color: transparent !important;
+}
+
+
+/* toc */
+.toc-box {position: fixed;right: 5px;bottom: 3.2em;padding-left: 0;padding-right: 0; z-index: 30;}
+.toc-box .pseudo-title {margin: 0.2em 0;padding: 0 2em;text-align: center;}
+.toc-box hr {margin: 0; padding: 0;background-color: transparent;border: none; border-bottom: 1px solid rgba(var(--basalt-undertone));}
+.toc-box #toc {font-size: 95%;min-width: 80px;max-width: 200px;word-break: break-all;border: none!important;}
+.toc-box #toc .title,.toc-box #toc #toc-action-bar,.toc-box #toc #toc-action-bar a {display: none!important;}
+.toc-box {margin: 1em 1.5em 1em 0; padding: 0em 0.5em; border: 2px solid rgba(var(--basalt-tertiary-color)); border-radius: 0.5em; background-color: rgba(var(--basalt-primary-color)); display: table;}
+.toc-box #toc-list div {margin-left: 0!important;}
+.toc-box .collapsible-block-unfolded-link,.toc-box .collapsible-block-folded {text-align: center;}
+@media (max-width: 767px) {
+.toc-box {animation-name: clear; animation-duration: 1s; animation-delay: 1s; animation-fill-mode: forwards;}
+.toc-box:hover {animation: none;}}@keyframes clear {to {opacity: 0.45;}
+}
+
+
+/* 紙貓 */
+:root {
+ --mars-bg-color: 255, 244, 155;
+ --mars-icon: var(--m-default);
+ --m-default: url("https://i.imgur.com/uOMHHCU.gif");
+ --m-box: url("https://i.imgur.com/GlFdvtN.png");
+ --m-search: url("https://i.imgur.com/d32OIK9.png");
+ --m-sad: url("https://i.imgur.com/PA1xZMC.png");
+ --m-defence: url("https://i.imgur.com/WRhr04H.png");
+ --m-loading: url("https://i.imgur.com/sflFmwu.gif");
+ --m-loadingb: url("https://i.imgur.com/jkLDcgS.gif");
+
+ --mchat-bg-color: 179, 235, 242;
+}
+
+#page-content div.mars, #page-content div.mchat {
+ position: relative;
+ background: rgb(var(--mchat-bg-color));
+ border-radius: 0.7em;
+ max-width: 8rem;
+ min-width: fit-content;
+ padding: 0.8em 1.3em;
+ margin: 0.8em auto 0.8em 1.25em;
+ display: flex;
+ flex-direction: column;
+  @media only screen and (max-width: 600px) {
+  max-width: fit-content;
+  font-size: 90%;
+ }
+}
+.mars:after, .mchat:after {
+ content: '';
+ position: absolute;
+ left: 0;
+ top: 1.3em;
+ border: 20px solid transparent;
+ border-right-color: rgb(var(--mchat-bg-color));
+ border-left: 0;
+ border-top: 0;
+ margin: -0.625em 0 0 -1.25em;
+}
+/* 右邊 */
+#page-content div.mchat.right {
+ margin-left: auto;
+ margin-right: 1.25em;
+}
+.mars.right:after, .mchat.right:after {
+ content: '';
+ position: absolute;
+ left: 100%;
+ top: 1.3em;
+ border: 20px solid transparent;
+ border-left-color: rgb(var(--mchat-bg-color));
+ border-right: 0;
+ border-top: 0;
+ margin: -0.625em -1.25em 0 0;
+}
+
+#page-content div.mars {
+--mchat-bg-color: var(--mars-bg-color);
+ margin: 0.8em auto 0.8em 7em;
+}
+/* 箭頭 */
+.mars:after, .mars.right:after {
+--mchat-bg-color: var(--mars-bg-color);
+}
+/* 紙貓頭像 */
+.mars:before, .mars.right:before {
+ content: '';
+ background: var(--mars-icon) no-repeat;
+ position: absolute;
+ width: 6em; 
+ height: 6em;
+ left: -7em;
+ display: flex;
+ background-size: contain;
+ top: -0.5em;
+}
+/* 右邊 */
+#page-content div.mars.right {
+ margin-left: auto;
+ margin-right: 6em;
+}
+.mars.right:before {
+ left: auto;
+ right: -7em;
+ transform: scaleX(-1);
+}
+
+.flip { 
+ div.mars:before {transform: scaleX(-1);}
+ div.mars.right:before{transform: none;}
+}
+
+/* 紙貓/m-chat blockquote */
+:is(#page-content div.mars, #page-content div.mchat):has(div.blockquote, blockquote) { 
+
+--hr-color: var(--mchat-bg-color);
+
+ div.blockquote, blockquote {
+ box-sizing: border-box;
+ margin: 0 1.7rem;
+ padding: 0.5rem 1.45rem;
+ background-color: rgb(var(--basalt-secondary-color));
+ border-radius: 7px;
+ max-width: fit-content;
+   @media only screen and (max-width: 600px) {
+   margin: 0;
+   padding: 0.5rem 0.3rem;
+  }
+ }
+}
+
+
+
+/* 頭像更換 */
+.mars.m-box,
+.mars.right.m-box {
+--mars-icon: var(--m-box);
+}
+.mars.m-search,
+.mars.right.m-search {
+--mars-icon: var(--m-search);
+}
+.mars.m-sad,
+.mars.right.m-sad {
+--mars-icon: var(--m-sad);
+}
+.mars.m-defence,
+.mars.right.m-defence {
+--mars-icon: var(--m-defence);
+}
+.mars.m-loading,
+.mars.right.m-loading {
+--mars-icon: var(--m-loading);
+}
+.mars.m-loadingb,
+.mars.right.m-loadingb {
+--mars-icon: var(--m-loadingb);
+}
+
+
+
+
+
+
+
+
+/* bedrock調整 */
+:root:lang(zh) {
+    --body-font: var(--body-font-primary);
+    --UI-font: var(--UI-font-primary);
+    --header-font: var(--header-font-primary);
+    --title-font: var(--body-font-primary);
+    --mono-font: var(--mono-font-primary);
+}
+
+#header h1 a span {
+  align-items: flex-start;
+  justify-content: center;
+}
+[[/module]]
+
+
+>[[ift{$dark}gs -外觀主題]]
+>[[iftags]]
+[[module CSS]]
+/* 暗色模式 */
+:root {
+--redwhite: 254,254,254;
+
+--basalt-primary-color: 15, 15, 19;
+--basalt-secondary-color: 30, 30, 35;
+--basalt-tertiary-color: 44, 44, 45;
+--basalt-bright-element-color: 30, 143, 255;
+--basalt-dark-element-color: 184, 135, 11;
+--basalt-undertone: 152, 27, 46;
+--basalt-overtone: 167, 29, 49;
+--basalt-main-text-color: 245, 245, 245;
+--basalt-light-text-color: var(--basalt-main-text-color);
+
+--header-background-color: var(--basalt-undertone);
+
+--header-title-color: var(--redwhite);
+--search-icon-color: var(--redwhite);
+--rate-module-text-color: var(--redwhite);
+--bottom-area-text-color: var(--redwhite);
+--top-bar-link-color: var(--redwhite);
+
+@media only screen and (max-width: 600px) {
+ --top-bar-link-color: var(--basalt-primary-color);
+}
+
+--tab-hover-background-color: var(--basalt-sub-text-color);
+
+--bottom-area-background-color: var(--basalt-undertone);
+--edit-area-toolbar-background-color: var(--basalt-undertone);
+}
+
+.wd-editor-toolbar-panel ul li a::after {
+  background-color: rgb(var(--redwhite));
+}
+
+div#footer {
+ color: rgb(var(--redwhite));
+}
+
+div#license-area.license-area a {
+ color: rgb(var(--basalt-sub-text-color));
+}
+
+div[class$="_memo"] {
+    background-color: rgba(var(--basalt-secondary-color), 1);
+    border: solid 2px rgba(var(--memo-color), 1);
+}
+
+div[class$="_memo"]::before {
+    color: rgb(var(--memo-color));
+}
+
+div.raisa_memo {
+    --memo-logo: url(https://scp-wiki.wikidot.com/local--files/theme:basalt/RAISA_DARKLOGO.png);
+}
+
+div.classification_memo {
+    --memo-logo: url(https://scp-wiki.wikidot.com/local--files/theme:basalt/CLASSIFICATION_DARKLOGO.png);
+}
+
+div.ettra_memo {
+    --memo-logo: url(https://scp-wiki.wikidot.com/local--files/theme:basalt/ETTRA_DARKLOGO.png);
+}
+
+div.ethics_memo {
+    --memo-logo: url(https://scp-wiki.wikidot.com/local--files/theme:basalt/ETHICS_DARKLOGO.png);
+}
+
+div.temporal_memo {
+    --memo-logo: url(https://scp-wiki.wikidot.com/local--files/theme:basalt/DELTA_T_DARKLOGO.png);
+    --memo-color: 195, 195, 200;
+}
+
+div.overwatch_memo {
+    --memo-logo: url(https://scp-wiki.wikidot.com/local--files/theme:basalt/O5_DARKLOGO.png);
+}
+
+div.miscomm_memo {
+    --memo-logo: url(https://scp-wiki.wikidot.com/local--files/theme:basalt/MISCOMM_DARKLOGO.png);
+}
+
+div.srr_memo {
+    --memo-logo: url(https://i.imgur.com/dobivbG.png);
+}
+
+div.te_memo {
+    --memo-logo: url(https://i.imgur.com/qyUuGHK.png);
+}
+
+:is(.table1, .table2, .table3, .table4, .table5, .table6) {
+    --basalt-th-text-color: var(--basalt-light-text-color);
+}
+
+:is(div.table1, div.table2, div.table3, div.table4, div.table5, div.table6) span:is(.specialtext, .st) {
+    filter: brightness(1.2);
+}
+
+:is(.table1, .table2, .table3, .table4, .table5, .table6) h1 {
+    color: rgb(var(--basalt-th-background-color));
+}
+
+
+
+#page-content div.mars, #page-content div.mchat{
+ background-color: rgba(var(--basalt-secondary-color), 1);
+ border: solid 2px rgb(var(--mchat-bg-color));
+}
+@media only screen and (max-width: 600px) {
+ .mars:after, .mchat:after {
+ left: -0.2rem;
+ }
+}
+
+
+/* 紙貓/m-chat */
+:is(#page-content div.mars, #page-content div.mchat):has(div.blockquote, blockquote) { 
+--blockquote-border-color: var(--mchat-bg-color);
+}
+
+
+[[/module]]
+>[[/iftags]]
+>[[/ift{$dark}gs]]
