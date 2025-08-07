@@ -78,6 +78,10 @@ Tumblr在[https://www.tumblr.com/kikunai 這邊]，有比推特更多的雜談�
 ++++++ [[[scp-zh-739|]]]
 > 掃走地氈下的髒東西。
 ----
+
+++++++ [/theme:site-zh-11 Site-ZH-11 CSS主題]
+> 菊內
+
 ++++++ [/scp-8797-analysis SCP-8797解析]
 > 太長沒看：--toxic nonbinary yaoi selfcest-- 不要把你的注意力放在自大狂身上。
 
@@ -88,7 +92,7 @@ Tumblr在[https://www.tumblr.com/kikunai 這邊]，有比推特更多的雜談�
 [[>]]
 [[collapsible show="Listpage" hide="收起"hideLocation="both"]]
 [[<]]
-[[module ListPages created_by="Kikunai" tags="+原創 -藝術作品" order="created_at desc" perPage="500"]]
+[[module ListPages created_by="Kikunai" tags="+原創 -藝術作品" order="created_at desc" category="*" perPage="500"]]
 %%title_linked%% （%%created_at%% | %%rating%%）
 [[/module]]
 [[/<]]

@@ -88,6 +88,7 @@
 [[[theme:bedrock|基岩 外觀主題]]]
 [[[theme:classic|經典SCP基金會外觀主題]]]
 [[[component:darkbodytheme|暗黑之軀主題]]]
+[[[theme:eigenmachine|本徵機器 外觀主題]]]（內包刪除部）
 [[[theme:foxtrot|Foxtrot 外觀主題]]]
 [[[theme:halloween|萬聖節 外觀主題]]]
 [[[theme:monotypical|單型 外觀主題]]]
@@ -162,7 +163,7 @@
 [[[component:site-zh-16-css|Site-ZH-16 CSS]]]
 [[[component:site-zh-25-css|Site-ZH-25 CSS]]]
 [[[component:site-zh-44|Site-ZH-44 CSS]]]
-
+[[[theme:site-zh-11|Site-ZH-11 CSS主題]]]
 
 
 [[/tab]]
