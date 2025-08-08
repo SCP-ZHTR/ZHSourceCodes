@@ -16,7 +16,7 @@
 
 [[div class="content-type-description"]]
 
-[[module ListPages tags="原創" order="created_at desc" limit="8" separate="false"]]
+[[module ListPages category="-fragment" tags="原創" order="created_at desc" limit="8" separate="false"]]
 [[div_ class="main-rss"]]
  %%title_linked%% 
 [[/div]]
@@ -37,7 +37,7 @@
 
 [[div class="content-type-description"]]
 
-[[module ListPages tags="翻譯" order="created_at desc" limit="8" separate="false"]]
+[[module ListPages category="-fragment" tags="翻譯" order="created_at desc" limit="8" separate="false"]]
 [[div_ class="main-rss"]]
  %%title_linked%% 
 [[/div]]
