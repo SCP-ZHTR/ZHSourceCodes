@@ -155,7 +155,7 @@ line-height: 0.4;
 **[/system:page-tags/tag/everwood博士 Dr. Justine 'Jay' Everwood]（賈斯汀・「傑」・艾佛伍德博士）：** GoI專家，對於與基金會打交道的許多關注組織都有既深且廣的了解。對[[[dr-wondertainment-hub| 妙樂博士]]]以及[[[wilson-s-wildlife-solutions-hub|威爾遜生物應對組]]]特別感興趣。大部分情況下都樂於談話，只不過也經常迷失在自己的思緒中——有時是[[[robin| 一般]]]的思考，有時是奇幻的狂想。
 
 [[collapsible show="祝你有個美妙的一天！" hide="......"]]
-喜歡別人稱呼他為傑而非賈斯汀。自稱為非二元性別者，但也接納女性稱謂。在一次牽扯某位神秘人物的[[[scp-8725| 事件]]]中失去了右手。雷克斯・阿爾西斯是傑的心腹助手，兩人也經常駐紮在Site-55。
+喜歡別人稱呼他為傑而非賈斯汀。為非二元性別者，但也接納女性稱謂。在一次牽扯某位神秘人物的[[[scp-8725| 事件]]]中失去了右手。雷克斯・阿爾西斯是傑的心腹助手，兩人也經常駐紮在Site-55。
 
 傑和伊茜・雷恩代爾博士自2023年開始交往，且於2025年搬入Site-43和雷恩代爾博士同居。
 [[/collapsible]]
@@ -706,6 +706,11 @@ IV級現實扭曲者。平常十分和善與乖順，但願意為保護在乎的
 
 ----
 
+**[/system:page-tags/tag/director-metanoia Director Amelie Rose Metanoia]（愛蜜莉·蘿絲·梅塔諾亞主任）:**[[[anomalous-entity-engagement-division-hub|異常實體交流部]]]（AEED）自1985年創立以來的主任。作為基金會研究員，在前線面對異常的經驗給了她別於常人的啟發：她認為給予異常更好的照顧定會讓基金會得益。
+
+雖然該部門能大展身手的次數仍然有限，她的部員及她所協助過的項目都對她和她持續的努力十分尊敬。
+----
+
 **[/system:page-tags/tag/moose主任 Dr. Tilda D. Moose]（提爾妲・D・慕什博士）：** [[[cat-s-in-the-cradle| 現為]]]Site-19站點主任兼Site-17聯合主任，她從一位又一位的前任主任手中接過這職務。嚴厲、焦慮、有輕微的強迫症，如果有事情能讓她興奮起來，她就會變得過度熱情。她在基金會不到十年的正式任期相對較短，但即便如此仍被認為有極大的影響力。無論是否真為如此，Site-19的部分官僚單位已經把她當成形象代言人了。
 
 [[collapsible show="你不用擔心我。這次我不會再好高騖遠了。" hide="......"]]
@@ -824,7 +829,7 @@ Delta-3解散後，威斯布魯克晉升為[[[secure-facility-dossier-site-246|S
 **Liaison Atlas Keyestone（阿特拉斯．科耶史東聯絡員）：** 認真盡責的基金會職員，擔任多個站點的倫理委員會聯絡員。許多家族成員皆[[[scp-8150| 受基金會雇用]]]。通常頗受歡迎，但有時會近乎僭越職權以調查[[[scp-7937| 自身有興趣的東西]]]。在心理假結束後，近期剛復職。
 
 [[collapsible show="我的故事尚未完結..." hide="我打從心底希望它早已結局。"]]
-在開朗的外表下，阿特拉斯是位創傷深重的人。[[[|i-am-weird| 童年]]]被歧視與霸凌的他加入基金會時早已在心理問題中掙扎。每次他死去，阿特拉斯都會在他去基金會上班的第一天從自己床上醒來；他[[[scp-8104| 活下，又死去]]]，重複了這輪迴已有十萬年之久。在一個破損的太陽奪去和他同樣經歷的愛人之後，他每分每秒都在找尋與他們團圓的方法。
+在開朗的外表下，阿特拉斯是位創傷深重的人。[[[i-am-weird| 童年]]]被歧視與霸凌的他加入基金會時早已在心理問題中掙扎。每次他死去，阿特拉斯都會在他去基金會上班的第一天從自己床上醒來；他[[[scp-8104| 活下，又死去]]]，重複了這輪迴已有十萬年之久。在一個破損的太陽奪去和他同樣經歷的愛人之後，他每分每秒都在找尋與他們團圓的方法。
 [[/collapsible]]
 ----
 
@@ -1384,7 +1389,7 @@ SCP-4051已作為異常資產部署於實地行動，其最初是[[[task-forces#
 
 ----
 
-**[/system:page-tags/tag/聖海德威 Saint Hedwig] of the Angels（聖海德威天使）：** 為馬克士威宗教會──[[[church-of-the-broken-god-hub| 破碎之神教會]]]最現代化的教派，崇拜著「WAN」這個存在──奉為先知。受到了大量[[[implanting-god| 模控強化]]]，並加入了[[[basic-observations| 精神]]]與[[[corruption| 數位系統]]]連接。與教會的[[[the-heresy-of-disassembly|其他領導人]]]──[[[rounderhouse-gold-proposal| 布馬洛]]]和耳軸──之間有著亦敵亦友的關係；他們將馬克士威宗對「WAN」的解讀視為異端，但在面對教會的[[[the-battle-of-baikal| 共同敵人]]]時仍[[[sfyri-kai-amoni| 願意合作]]]。
+**[/system:page-tags/tag/聖海德威 Saint Hedwig] of the Angels（聖海德威天使）：** 為馬克士威宗教會──[[[church-of-the-broken-god-hub| 破碎之神教會]]]最現代化的教派，崇拜著「WAN」這個存在──奉為先知。受到了大量[[[implanting-god| 模控強化]]]，並加入了[[[basic-observations| 精神]]]與[[[corruption| 數位系統]]]連接。與其他教派的[[[the-heresy-of-disassembly|領導人]]]──[[[rounderhouse-gold-proposal| 布馬洛]]]和耳軸──之間有著亦敵亦友的關係；他們將馬克士威宗對「WAN」的解讀視為異端，但在面對教會的[[[the-battle-of-baikal| 共同敵人]]]時仍[[[sfyri-kai-amoni| 願意合作]]]。
 
 ----
 
@@ -1566,11 +1571,11 @@ L.S.可能並無其人，而是蛇手成員識別友方人員的代號「[[span 
 
 ----
 
-**[/system:page-tags/tag/聖使者耳軸 Legate Trunnion]（聖使者耳軸）：** 齒輪正教會──[[[church-of-the-broken-god-hub| 破碎之神教會]]]三大教派之一──的領導人。裝載了[[[variations-on-a-schema| 「標準化」]]]的蒸氣與齒輪驅動[[[the-deniers|義肢]]]。與教會的[[[the-heresy-of-disassembly| 其他領導人]]]──布馬洛和海德威──之間有著亦敵亦友的關係；他們使用的技術被齒輪正教會視為異端，但在面對教會的[[[the-battle-of-baikal| 共同敵人]]]時仍[[[sfyri-kai-amoni| 願意合作]]]。
+**[/system:page-tags/tag/聖使者耳軸 Legate Trunnion]（聖使者耳軸）：** 齒輪正教會──[[[church-of-the-broken-god-hub| 破碎之神教會]]]三大教派之一──的領導人。裝載了[[[variations-on-a-schema| 「標準化」]]]的蒸氣與齒輪驅動[[[the-deniers|義肢]]]。與其他教派的[[[the-heresy-of-disassembly| 領導人]]]──布馬洛和海德威──之間有著亦敵亦友的關係；他們使用的技術被齒輪正教會視為異端，但在面對教會的[[[the-battle-of-baikal| 共同敵人]]]時仍[[[sfyri-kai-amoni| 願意合作]]]。
 
 ----
 
-**[/system:page-tags/tag/aw教授 Professor A██████ W█████]（A██████ W█████教授）：** 1914年便已離世的維多利亞時期超常工程師。會將其特別的「AW」符號刻在其創作的[[[scp-300| 一系列]]][[[scp-733| 異常]]][[[scp-1408| 造物]]]中，當前都已經處於基金會的收容之下。他有許多發明似乎都與[[[gone| 他的妻子]]][[[scp-4733| 「諾拉」]]]有關。
+**[/system:page-tags/tag/aw教授 Professor A██████ W█████]（A██████ W█████教授）：** 1914年離世的維多利亞時期超常工程師。會將其特別的「AW」符號刻在其創作的[[[scp-300| 一系列]]][[[scp-733| 異常]]][[[scp-1408| 造物]]]中，當前都已經處於基金會的收容之下。他有許多發明似乎都與[[[gone| 他的妻子]]][[[scp-4733| 「諾拉」]]]有關。
 
 ----
 

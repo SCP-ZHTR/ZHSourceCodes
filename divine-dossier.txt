@@ -44,6 +44,15 @@ div.pangloss-note{
 
 本列表將依新研究與資訊而隨時更新。
 ~~~~
+[[# anafabula]]
+[[div class="modal"]]
++ [[span class="ruby"]] [/system:page-tags/tag/anafabula 逆敘事][[span class="rt"]]The Anafabula[[/span]][[/span]]
+被收容為[[[SCP-2747]]]，該[[[to-pulp-the-fiction|逆敘事]]]存在會[[[a-quiet-night|完全抹去]]]任何受其影響的文本。 超形上學部對於[#swn001 「作者實體」]的[[[scp-6747| 研究]]]指出其對我等現實也可能造成威脅。
+
+雖說該將其作為威脅實體或無意識的異常現象看待仍有爭議，由[[[fifthist-hub| 第五教會]]]處收集的資料描述其為[[[fifthdation| 對他們懷有敵意的實體]]]：他們將其稱為「[[[why-is-five-afraid-of-seven| 虛無之主]]]」或「[[[scp-5317|黑荊女皇]]]，且其將和數字「七」做連結。目前[[[tools-and-their-uses |研究]]]專注於識別[[[所有構成SCP-2747的元素]]][!--這連結是刻意無效ㄉ--], 以意圖防止其效果[[[altered-by-all-means-necessary|影響非虛構文本]]]及讓基金會得以[[[scp-8643|利用]]]其特性。
+
+[[/div]]
+
 [[# broken-god]]
 [[div class="modal"]]
 + [[span class="ruby"]][[[church-of-the-broken-god-hub| 破碎之神]]][[span class="rt"]]The Broken God[[/span]][[/span]]
@@ -225,11 +234,10 @@ div.pangloss-note{
 [[# swn001]]
 [[div class="modal"]]
 + [[span class="ruby"]][[[sandrewswann-s-proposal| SWN001實體]]][[span class="rt"]]SWN001 Entities[[/span]][[/span]] 
-雖並未受任何已知宗教虔敬，但此類異常實體展現出了[[[scp-3309 |近乎無限]]]的藉[[[metafiction| 虛構媒介]]]來直接或[[[scp-7996|間接]]][[[scp-7700|操縱現實]]]的[[[scp-3999|能力]]]。有些[[[scp-6760|基金會研究]]]認為其能影響[[[in-the-end|對任何與其相關的宗教與現象，而其他假說則認為其他全能實體對多重宇宙掌握更多，或是兩者以階級式交錯排列，層層疊疊的互相影響]]]。即使其擁有強大能力，基金會[[[scp-7888 | 仍能]]]與該類實體[[[scp-cn-1109 | 互動]]]（甚至能對其[[[scp-5500 |執行無效化]]]）。基金會已規劃了對該類實體的[[[cygnus | 廢除程序]]]，但由於可能造成[[[the-final-deletion| ZK級現實失效]]]導致[[[so-it-was|宇宙終結]]]的風險而尚未實行。
+雖並未受任何已知宗教虔敬，但此類「作者實體」展現出了[[[scp-3309 |近乎無限]]]的以[[[metafiction| 寫作虛構]]]為媒介來直接或[[[scp-7996|間接]]][[[scp-7700|操縱現實]]]的[[[scp-3999|能力]]]。有些[[[scp-6760|基金會研究]]]認為其能影響[[[in-the-end|對任何與其相關的宗教與現象]]]，而其他假說則認為其他全能實體對多重宇宙掌握更多，或是兩者以階級式交錯排列，層層疊疊的互相影響。即使其擁有強大能力，基金會[[[scp-7888 | 仍能]]]與該類實體[[[scp-cn-1109 | 互動]]]（甚至能對其[[[scp-5500 |執行無效化]]]）。基金會已規劃了對該類實體的[[[cygnus | 廢除程序]]]，但由於可能造成[[[the-final-deletion| ZK級現實失效]]]導致[[[so-it-was|宇宙終結]]]的風險而尚未實行。
 
 由[[[scp-4410|超形上學部]]]進行的[[[scp-2614 |進一步研究]]]顯示，我們的現實與SWN001實體所在現實，很可能都存在於[[[scp-3812 | 一層一層的敘事層階梯]]]之中，每層都是下方敘事層的創造者。[[[narrativistics-and-you|這些層級]]]可能包括了一切存在；所有曾經被創造、被毀滅、存在與不存在的事物，全都被[[[i-h-p-proposal | 螺旋排入]]]了創造現實的故事中。
 
-超形上學部[[[scp-6747| 目前研究重點]]]為該類「作者實體」[[[to-pulp-the-fiction| 對於]]]被收容為[[[SCP-2747]]]的逆敘事實體（anafabula）之興趣。 該逆敘事實體會[[[a-quiet-night|完全抹去]]]任何提及其的文本，因此可假設該存在對我等現實也會造成威脅。由[[[fifthist-hub| 第五教會]]]處收集的資料描述該實體[[[fifthdation| 對其等具有敵意]]]：他們將該實體稱為「[[[why-is-five-afraid-of-seven| 虛無之主]]]」或「[[[scp-5317|黑荊女皇]]]，且將其和數字「七」做連結。目前[[[tools-and-their-uses |研究]]]專注於識別[[[所有構成SCP-2747的元素]]][!--這連結是刻意無效ㄉ--], 以意圖防止其效果[[[altered-by-all-means-necessary|影響非虛構文本]]]。
 [[/div]]
 
 [[# yaldabaoth]]
