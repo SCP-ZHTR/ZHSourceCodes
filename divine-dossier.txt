@@ -48,7 +48,7 @@ div.pangloss-note{
 [[div class="modal"]]
 + [[span class="ruby"]][[[church-of-the-broken-god-hub| 破碎之神]]][[span class="rt"]]The Broken God[[/span]][[/span]]
 
-齒輪正教會和[[[so-the-beasts-shall-plague-the-land-no-more| 古]]][[[nadox-and-the-mekhanite| 美刻尼]]][[[scp-2406| 文明]]]稱其為[[[v19113a-01| 美刻尼]]]，[/system:page-tags/tag/夏異常 夏朝]喚其為[[[about-the-serpent| 蛇父伏羲]]]，馬克士威宗教會稱呼其為[[[wans-image-png| WAN]]]；其他破碎之神教派也予其各式稱謂，如[[span class="ruby"]] [[[scp-6217| 赫羅斯]]][[span class="rt"]]Holos[[/span]][[/span]]、[[span class="ruby"]][[[beneath-two-trees| 哈克哈瑪]]][[span class="rt"]]Hakhama[[/span]][[/span]]或[[span class="ruby"]][[[excerpts-regarding-st-sophia| 索非亞]]][[span class="rt"]]Sophia[[/span]][[/span]]。上述團體都聲稱他們正在由各部件重組該實體（以馬克士威宗詮釋而言，以人智與[[[implanting-god| 數據]]]「[[[corruption| 彙編]]]」該存在），但對於其最初是如何「破碎」仍存有爭議。
+齒輪正教會和[[[so-the-beasts-shall-plague-the-land-no-more| 古]]][[[nadox-and-the-mekhanite| 美刻尼]]][[[scp-2406| 文明]]]稱其為[[span class="ruby"]][[[v19113a-01| 美刻尼]]][[span class="rt"]]Mekhane[[/span]][[/span]]，[/system:page-tags/tag/夏異常 夏朝]喚其為[[[about-the-serpent| 蛇父伏羲]]]，馬克士威宗教會稱呼其為[[[wans-image-png| WAN]]]；其他破碎之神教派也予其各式稱謂，如[[span class="ruby"]][[[scp-6217| 赫羅斯]]][[span class="rt"]]Holos[[/span]][[/span]]、[[span class="ruby"]][[[beneath-two-trees| 哈克哈瑪]]][[span class="rt"]]Hakhama[[/span]][[/span]]或[[span class="ruby"]][[[excerpts-regarding-st-sophia| 索非亞]]][[span class="rt"]]Sophia[[/span]][[/span]]。上述團體都聲稱他們正在由各部件重組該實體（以馬克士威宗詮釋而言，以人智與[[[implanting-god| 數據]]]「[[[corruption| 彙編]]]」該存在），但對於其最初是如何「破碎」仍存有爭議。
 
 受他們崇敬的該實體被作為知識與技術的象徵：其通常被描述為是[[[scp-6217|「宇宙機器」]]]，而[[[fratricide | 自古以來]]]其信徒也常用[[[scp-217| 異常手段]]]來[[[rounderhouse-gold-proposal | 以機械義肢取代肉身部位]]] ，以企圖達成物理及心智上與其合融。除此之外，其相關傳說也時常提及與「[[[scp-610| 血肉]]]」的[[[scp-2217|對立]]]；破碎之神教會認為該傳說[[[scp-6166| 指涉]]]的對象即為[#yaldabaoth 亞大孢斯]與[[[sarkicism-hub| 欲肉教]]]，和靈智派（Gnosticism）信仰中兩神二元對立的情況相近。
 
@@ -58,7 +58,7 @@ div.pangloss-note{
 
 [[# brothers-of-death]]
 [[div class="modal"]]
-+ [[span class="ruby"]] [/system:page-tags/tag/brothers-of-death 死滅弟兄][[span class="rt"]]The Brothers Death[[/span]][[/span]]
++ [[span class="ruby"]][/system:page-tags/tag/brothers-of-death 死滅弟兄][[span class="rt"]]The Brothers Death[[/span]][[/span]]
 
 亦被稱為[[[about-the-serpent| 死滅領主]]]，據稱小死神、大死神、全死神三兄弟各自主宰著規模不同的死亡。他們因為與[[[SCP-1440]]]和[[[SCP-032]]]（[[[death-and-the-doctors-hub| 可能還有]]][[[SCP-049]]]）的聯繫聞名。[[[now-you-find-out| 據說]]]與這些實體互動是[[[empty-nights| 可能的]]]，但目前未受O5議會授權下嚴格禁止進行此類嘗試。
 
@@ -69,7 +69,7 @@ div.pangloss-note{
 [[div class="modal"]]
 + [[span class="ruby"]]宙伍宇海星[[span class="rt"]]The Cosmic Starfish[[/span]][[/span]]
 
-受[[[fifthist-hub| 第五教會]]]及其分支教派所崇敬的異空間實體。第五教會及其先驅教派可[[[scp-2456| 追溯至]]][[[stephane-the-apostles-epistle-to-the-palmyrene| 古希臘]]]；各時期的教派通常互不關聯，但他們同樣崇拜[[[beneath-the-council| 數字「五」]]]、有五個分支教派，且和[[[scp-1425| 星星]]]、[[[scp-1534| 海星]]]、[[[scp-1982| 煙]]]、[[[prologue-water-coalesces-and-descends-as-rain| 音樂]]]和[[[scp-3005| 粉色]]]等元素相關。第五教會各教派通常由[[[scp-5982| 靈修]]]或是[[[the-broken-fifth| 宗教]]][[[pink-cracks-in-a-digital-wall| 團體]]]中分歧而出，其形式也受其起源影響；當一個分支瓦解，另外一個分支即會以不同形式，重出江湖。宙伍宇海星也曾被探索含有[[[scp-5800| 抽象概念的五度空間]]]和[[[scp-6659| 尋找全能實體]]]的基金會計畫所發掘。
+受[[[fifthist-hub| 第五教會]]]及其分支教派所崇敬的異空間實體。第五教會及其先驅教派可[[[scp-2456| 追溯至]]][[[stephane-the-apostles-epistle-to-the-palmyrene| 古希臘]]]；各時期的教派通常互不關聯，但他們同樣崇拜[[[beneath-the-council| 數字「五」]]]、有五個分支教派，且和[[[scp-1425| 星星]]]、[[[scp-1534| 海星]]]、[[[scp-1982| 煙]]]、[[[prologue-water-coalesces-and-descends-as-rain| 音樂]]]和[[[scp-3005| 粉色]]]等元素相關。第五教會各教派通常由[[[scp-5982| 靈修]]]或是[[[the-broken-fifth| 宗教]]][[[pink-cracks-in-a-digital-wall| 團體]]]中分歧而出，其形式也受其起源影響；當一個分支瓦解，另一分支即會以不同形式重出江湖。宙伍宇海星也曾被探索含有[[[scp-5800| 抽象概念的五度空間]]]和[[[scp-6659| 尋找全能實體]]]的基金會計畫所發掘。
 
 該實體被認為和[[[antimemetics-division-hub| 逆模因部]]]所收容的異常[[[SCP-3125]]]有關；以此假設，可推斷第五教會與[[[SCP-033]]]「丟失的數字」和[[[SCP-2828]]]「逆模因器官」也有關聯。除此之外，第五教會文獻中也提及此實體和逆敘事異常[[[SCP-2747]]]（在其文獻中稱為「虛無之主」，和[[[why-is-five-afraid-of-seven |數字「七」]]]相關）的[[[fifthdation| 敵對關係]]]。值得一提的是，即使在[[[inverted-swiss-cheese| 該實體]]]似乎被[[[scp-5502| 無效化]]]後，仍有[[[kte-5503-bice-copernicus| 出現新第五教會宗派]]]的紀錄。
 
@@ -78,17 +78,17 @@ div.pangloss-note{
 
 [[# gate-guardian]]
 [[div class="modal"]]
-+ [[span class="ruby"]] [[[dr-clef-s-proposal | 「守門者」]]][[span class="rt"]]The Gate Guardian[[/span]][[/span]]
++ [[span class="ruby"]][[[dr-clef-s-proposal | 「守門者」]]][[span class="rt"]]The Gate Guardian[[/span]][[/span]]
 
 一名有著翅膀、手持劍且受火焰環繞的人形實體。它在底格里斯河和和幼發拉底河的交界處守衛著一個[[[djkaktus-s-proposal-iii | 花園]]]的入口。雖其神性顯然，但目前假設其並非任何神祇，而是某種「[[span class="ruby"]][[[kte-5503-bice-copernicus | 墨青型]]][[span class="rt"]]Type Bice[[/span]][[/span]]」（俗稱「天使」型）實體。雖現有證據顯示其與其他已記錄的「神使」皆應同屬戰術神學部亞伯拉罕部門管轄，目前還未知其所代表的神（或是否代表任何神祇）。
 
-該實體能讓其任何命令受尊崇：通常其對觀測者所下的命令為「[[span class="ruby"]]遺忘[[span class="rt"]]FORGET[[/span]][[/span]]」，但也有人收到[[[themission | 其他指令]]]，例如受指派「[[span class="ruby"]][[[REMEMBER| 銘記]]][[span class="rt"]]REMEMBER[[/span]][[/span]]」的[[[scp-073 | 受試者之一]]]及受命「[[span class="ruby"]] [[[scp-4960 | 準備]]][[span class="rt"]]PREPARE[[/span]][[/span]]」的另一位。[[[clavis | 截獲的資訊]]]顯示該實體可能在某個XK級[[[competitive-eschatology-hub |世界末日]]]情境中[[[the-gate-opens | 扮演重要角色]]]—因此，有些人提出廢除及殲滅該實體的提案，但目前未找到如何既能成功處決該實體又不造成末世情境的方案。
+該實體能讓其任何命令受尊崇：通常其對觀測者所下的命令為「[[span class="ruby"]]遺忘[[span class="rt"]]FORGET[[/span]][[/span]]」，但也有人收到[[[themission | 其他指令]]]，例如受指派「[[span class="ruby"]][[[REMEMBER| 銘記]]][[span class="rt"]]REMEMBER[[/span]][[/span]]」的[[[scp-073 | 受試者之一]]]及受命「[[span class="ruby"]][[[scp-4960 | 準備]]][[span class="rt"]]PREPARE[[/span]][[/span]]」的另一位。[[[clavis | 截獲的資訊]]]顯示該實體可能在某個XK級[[[competitive-eschatology-hub |世界末日]]]情境中[[[the-gate-opens | 扮演重要角色]]]，因此有些人提出廢除及殲滅該實體的提案，但目前尚未研議出能成功處決該實體又不導致末世情境的方案。
 
 [[/div]]
 
 [[# hanged-king]]
 [[div class="modal"]]
-+ [[span class="ruby"]] [/system:page-tags/tag/受絞之王 受絞之王][[span class="rt"]]The Hanged King[[/span]][[/span]] 
++ [[span class="ruby"]][/system:page-tags/tag/受絞之王 受絞之王][[span class="rt"]]The Hanged King[[/span]][[/span]] 
 
 在[[[SCP-701]]]「受絞之王的悲劇」和[[[the-hanged-king-s-tragedy| 其他]]]類似[[[scp-2732|劇目]]]中提及的異常實體，該類劇本的演出通常以[[[scp-7838| 癲狂與暴行的爆發]]]而作結。原被認為僅是虛構角色，但後來發現其為[[[scp-2264|超維度之城]]][/system:page-tags/tag/alagadda 阿拉加達]的[[[a-wandsman-in-the-court-of-the-hanged-king| 統治者]]]，而探索該城行動唯一的倖存者將其描述為一個[[[clown-town| 「神形的洞」]]]。[[[theology-of-a-snake| 神話]]]對受絞之王是[[[about-the-serpent| 自殺]]]還是被他的人民[[[and-so-the-crows-laughed| 絞死]]]眾說紛紜；「受絞」也有可能只是其卡在非生非死狀態的形容。
 
@@ -111,27 +111,27 @@ div.pangloss-note{
 
 [[[locations-of-interest#corbenic| 科爾本尼奇]]]原生的強大現實扭曲實體，也是[[[three-moons-initiative-hub| 叁月協會]]]的[[[radical-acceptance| 守護神]]]。其被描繪為長著人臉與鬍鬚的[[[ill-be-home-for-christmas|巨大蜘蛛]]]。☽☽☽協會對賈拉喀拉奉上[[[scp-5319| 崇敬]]]與[[[scp-3768| 忠誠]]]，且讓其保有對任何行政事務的[[[scp-3319| 最終話語權]]]，以交換[[[scp-7578| 能源]]]、[[[scp-7157| 資源]]]及[[[wielka-altana|其神力的佑護]]]。由於賈拉喀拉只願與[[[radical-acceptance|叁月協會創辦人]]]尼恩大總統交談，與該實體的多數交流皆透過叁月協會中央委員會十三位成員中介。
 
-雖然基金會收集[[[scp-2922| 科爾本尼奇相關情報]]]的能力有限，但目前可知賈拉喀拉並非該境域唯一的強大異常實體。[[[operation-galahad | SCP-PC-007]]]，「勃伽山的巫后」（HÉKATI-BØGAL），是叁月協會長期的[[[scp-3768 | 勁敵]]]，也是當初協會在科爾本尼奇拓墾時的最大阻力；在賈拉喀拉[[[scp-3319 | 親自下凡]]]協助下，叁月協會才成功打贏對抗巫后手下「行者」（Strider）的第一次收割者戰爭。除巫后外，科爾本尼奇 [[[the-lithopedion|創生以來]]]另外存在[[[scp-7922| 八位]]]被稱為「親王」（Princes）的神祇，而賈拉喀拉便是其中一位。
+雖然基金會收集[[[scp-2922| 科爾本尼奇相關情報]]]的能力有限，但目前可知賈拉喀拉並非該境域唯一的強大異常實體。[[[operation-galahad | SCP-PC-007]]]，「勃伽山的巫后」（HÉKATI-BØGAL），是叁月協會長期的[[[scp-3768 | 勁敵]]]，也是當初協會在科爾本尼奇拓墾時的最大阻力；在賈拉喀拉[[[scp-3319 | 親自下凡]]]協助下，叁月協會才成功打贏對抗巫后手下「行者」（Strider）的第一次收割者戰爭。除巫后外，科爾本尼奇[[[the-lithopedion|創生以來]]]另外存在[[[scp-7922| 八位]]]被稱為「親王」（Princes）的神祇，而賈拉喀拉便是其中一位。
 
 雖然賈拉喀拉很早就作為緘默、勤奮、端莊、服從及治理之神而受科爾本尼奇當地部落尊崇，叁月協會對其的崇敬與協會本身的強大武力[[[scp-7702| 毫無疑問的提高了賈拉喀拉的地位]]].
 
 
 [[collapsible show="科爾本尼奇八親王" hide="科爾本尼奇八親王"]]
-由一位[[[the-lithopedion| 胎死腹中的]]]神粉碎的心智而生的八位「親王」分別為：
-* 星之親王，八重珠庫姆（KHUUM of the Eightfold Jewel），亦稱八芒星庫姆（KHUMM of the Eightfold stars）—科爾本尼奇第一親王，也是他們之中最年長的。其形象通常為有著八臂的半龍半鸛。據稱擁有[[[scp-7941|能夠由其輻射創造生命的魔法火焰]]]，用其來在毫無活物的宇宙裡創造星星。
-* 狩之親王，永恆獵手諾絲達克（NÅZHDAK of the Eternal Hunt）—科爾本尼奇第二親王。其形象通常為拿著像薩克斯風裝置的的七頭雪貂。自然與野性之神，其對[[[dyfscp-001|特定物種]]]的熱愛眾所週知。對該實體的研究因[[[scp-7922|安全疑慮]]]而目前停止。
-* 蠱之親王，紅坑的阿巴塔（ABBAD of the Red Crater）—科爾本尼奇第三親王，形象通常為拿著彎刀的蜈蚣。賈拉喀拉的親生兄弟，也是被稱為[[[dyfscp0012|「祖母」]]]的神祇之父。任何受訪的叁月協會代表皆稱其為一[[[stella-secundus|「不知感恩、好吃懶做而且臭氣熏天的蟲」]]]，因此目前無更多關於其的情報。
-* 炙之親王，不熄之爐的莫茲（MUZD of the Everkiln）—科爾本尼奇第四親王，也是親王之中第二年長的。其形象為拿著巨錘，受火焰環繞的鵰。火焰、藝術與建設之神，據說是「[[[scp-7702|賢獸特勞富]]]」管理的會堂的所有人。
-* 愛之親王，督魯格蘭塔的羅姆（ROUM of the Drömglänta）—科爾本尼奇第五親王，其形象通常為拿著樹枝，總是挑逗凝視著的人型雄鹿。目前無更多其的情報。
-* 海之親王，頻洛淵的哈吉赫提（HAJHETI of the Primrose Deep）—科爾本尼奇第六親王，其形象通常為有著樹隻人手且拿著笛子的海龜。商業、貿易與階級之神。其後裔，「提洛」（Threll），時常專注於將它們的事業拓展至多個宇宙。其相關教義時常提倡征服與鎮壓的重要，因此提洛也時常[[[dyfscp0013|將其他生命作為器物]]]使用，但此惡名昭彰的行為也讓叁月協會和哈吉赫提的信徒間關係緊張。
-* 序之親王，堅不可摧的賈拉喀拉（JALAKÅRA of the Impenetrable）—科爾本尼奇第七親王。
-* 末無的夫歐（VUOOU of the Murk）—受遺忘的科爾本尼奇第八親王。任何描繪其形象的創作都已受摧毀，因此目前不知其外貌。因其對[[[scp-7702| 暴行與苦難的痴迷]]]而受其他親王所憎，被稱為「寄生蟲」。
+由一位[[[the-lithopedion| 胎死腹中的]]]神粉碎的心智而生的八位「親王」分別為—
+* 星之親王，八重珠庫姆（KHUUM of the Eightfold Jewel），亦稱八芒星庫姆（KHUMM of the Eightfold stars）：科爾本尼奇第一親王，也是他們之中最年長的。其形象通常為有著八臂的半龍半鸛。據稱擁有[[[scp-7941|能夠由其輻射創造生命的魔法火焰]]]，用其來在毫無活物的宇宙裡創造星星。
+* 狩之親王，永恆獵手諾絲達克（NÅZHDAK of the Eternal Hunt）：科爾本尼奇第二親王。其形象通常為拿著像薩克斯風裝置的的七頭雪貂。自然與野性之神，其對[[[dyfscp-001|特定物種]]]的熱愛眾所週知。對該實體的研究因[[[scp-7922|安全疑慮]]]而目前停止。
+* 蠱之親王，紅坑的阿巴塔（ABBAD of the Red Crater）：科爾本尼奇第三親王，形象通常為拿著彎刀的蜈蚣。賈拉喀拉的親生兄弟，也是被稱為[[[dyfscp0012|「祖母」]]]的神祇之父。任何受訪的叁月協會代表皆稱其為一[[[stella-secundus|「不知感恩、好吃懶做而且臭氣熏天的蟲」]]]，因此目前無更多關於其的情報。
+* 炙之親王，不熄之爐的莫茲（MUZD of the Everkiln）：科爾本尼奇第四親王，也是親王之中第二年長的。其形象為拿著巨錘，受火焰環繞的鵰。火焰、藝術與建設之神，據說是「[[[scp-7702|賢獸特勞富]]]」管理的會堂之所有人。
+* 愛之親王，督魯格蘭塔的羅姆（ROUM of the Drömglänta）：科爾本尼奇第五親王，其形象通常為拿著樹枝，總是挑逗凝視著的人型雄鹿。目前無更多其的情報。
+* 海之親王，頻洛淵的哈吉赫提（HAJHETI of the Primrose Deep）：科爾本尼奇第六親王，其形象通常為有著樹隻人手且拿著笛子的海龜。商業、貿易與階級之神。其後裔，「提洛」（Threll），時常專注於將它們的事業拓展至多個宇宙。其相關教義時常提倡征服與鎮壓的重要，因此提洛也時常[[[dyfscp0013|將其他生命作為器物]]]使用，但此惡名昭彰的行為也讓叁月協會和哈吉赫提的信徒間關係緊張。
+* 序之親王，堅不可摧的賈拉喀拉（JALAKÅRA of the Impenetrable）：科爾本尼奇第七親王。
+* 末無的夫歐（VUOOU of the Murk）：受遺忘的科爾本尼奇第八親王。任何描繪其形象的創作都已受摧毀，因此目前不知其外貌。因其對[[[scp-7702| 暴行與苦難的痴迷]]]而受其他親王所憎，被稱為「寄生蟲」。
 [[/collapsible]]
 [[/div]]
 
 [[# queen-mab]]
 [[div class="modal"]]
-+ [[span class="ruby"]] [/system:page-tags/tag/瑪布女王 瑪布女王][[span class="rt"]]Queen Mab[[/span]][[/span]]
++ [[span class="ruby"]][/system:page-tags/tag/瑪布女王 瑪布女王][[span class="rt"]]Queen Mab[[/span]][[/span]]
 
 以[[[ralliston-s-proposal|SCP-001-C之名收容於Site-01]]]的她曾是[[[cos-tu-smierdzi|古妖精的帝皇]]]，擁有信史以來最強大的奇蹟術與本質促動能力。她與[[[a-faerie-tale-of-twin-queens|親手殺害的的姊妹]]]以及[[[the-lands-nobody-returns-from|被稱為「Nobody」的存在]]]長年[[[midnight-sun| 交戰]]]著。
 
@@ -140,7 +140,7 @@ div.pangloss-note{
 
 [[# orcadia]]
 [[div class="modal"]]
-+ [[span class="ruby"]] [[[seas-of-orcadia-hub| 奧卡迪亞諸神]]][[span class="rt"]]Orcadian Pantheon[[/span]][[/span]]
++ [[span class="ruby"]][[[seas-of-orcadia-hub| 奧卡迪亞諸神]]][[span class="rt"]]Orcadian Pantheon[[/span]][[/span]]
 
 [[[seas-of-orcadia-hub| 奧卡迪亞鰭裔]]]（Finnfolk, 學名//Homo Aquarius//）的十三位神祇。這些神源自靈界，且每位神祇皆有自身的特色、神格與對其信徒來說的宗教意涵。有些神祇[[[scp-3703| 蒙受監禁]]]，而有些則[[[scp-4700| 不受拘束，雲遊大地]]]。
 
@@ -163,10 +163,10 @@ div.pangloss-note{
 
 [[# rakmou-leusan]]
 [[div class="modal"]]
-+ [[span class="ruby"]]勒克穆・洛聖[[span class="rt"]]Rakmou-Leusan[[/span]] [[/span]]
++ [[span class="ruby"]]勒克穆・洛聖[[span class="rt"]]Rakmou-Leusan[[/span]][[/span]]
 在奧托世宇宙觀中，「第四聖」勒克穆・洛聖是[[[second-hytoth-hub|第二海托世教會]]]崇拜的高如・透沙（ Koru-teusa，「七大聖」）當中[[[scp-4547| 僅存]]]的一位。奧托世人認為這七位存在是[[[pattern-dwellers-an-expose| 上個宇宙]]]（「第一海托世」）的倖存者，戰鬥著以保護這個宇宙（「第二海托世」）免於稱作「弗如者」的[[[scp-3417|宇宙外敵意實體]]]威脅。
 
-此異常宗教[[[scp-2417|信徒]]]定期舉行[[[let-the-winds-send-you-onwards|血祭]]]，他們聲稱這對[[[scp-6695| 維持]]]其神聖庇護者的存續十分重要；由於勒克穆・洛聖現在需獨自戰鬥，這些 [[[a-real-actual-blood-cult | 獻祭]]]也更受重視。信徒對[[[scp-2417|勒克穆・洛聖的描述]]]集中在其作為戰士的實力、其許多英勇的行徑與其奮勇不倦的決心。
+此異常宗教[[[scp-2417|信徒]]]定期舉行[[[let-the-winds-send-you-onwards|血祭]]]，他們聲稱這對[[[scp-6695| 維持]]]其神聖庇護者的存續十分重要；由於勒克穆・洛聖現在需獨自戰鬥，這些[[[a-real-actual-blood-cult | 獻祭]]]也更受重視。信徒對[[[scp-2417|勒克穆・洛聖的描述]]]集中在其作為戰士的實力、其許多英勇的行徑與其奮勇不倦的決心。
 
 [[collapsible show="+ 高如・透沙（七大聖）列表" hide="- …"]]
 
@@ -194,11 +194,11 @@ div.pangloss-note{
 [[div class="modal"]]
 + [[span class="ruby"]][[[cotsk-hub| 猩紅之王]]][[span class="rt"]]The Scarlet King[[/span]][[/span]]
 
-其擁有眾多稱號，如[[span class="ruby"]][[[dust-and-blood|「修馬許-烏爾代」]]][[span class="rt"]] Shormaush Urdal[[/span]][[/span]]、「[[span class="ruby"]] 「[[[omnigenesis-and-the-law-of-blades| 卡拉克]]]」[[span class="rt"]]Khahrahk[[/span]][[/span]]、「[[[scp-3838| 緋紅汗]]]」以及「[[[scp-3150| 紅]]][[[scp-4989|沙阿]]]」；其各個稱謂通常為代表「 [[[scp-6996| 紅]]]」的字前綴於代表[[[beneath-the-council| 統治者]]]的稱號。該實體受許多密教如「[[[scp-6019| 猩紅之王的幼子們]]]」、「[[[blood-in-the-water| 猩紅之王教會]]]」和[[[scp-3178 | 其他各宗派]]]的崇拜，而各派也對該存在有[[[christ-in-scarlet-hub|各自]]]的[[[tears-and-bone|解讀]]]。
+其擁有眾多稱號，如[[span class="ruby"]][[[dust-and-blood|「修馬許-烏爾代」]]][[span class="rt"]] Shormaush Urdal[[/span]][[/span]]、「[[span class="ruby"]] 「[[[omnigenesis-and-the-law-of-blades| 卡拉克]]]」[[span class="rt"]]Khahrahk[[/span]][[/span]]、「[[[scp-3838| 緋紅汗]]]」以及「[[[scp-3150| 紅]]][[[scp-4989|沙阿]]]」；其各個稱謂通常為代表「[[[scp-6996| 紅]]]」的字前綴於代表[[[beneath-the-council| 統治者]]]的稱號。該實體受許多密教如「[[[scp-6019| 猩紅之王的幼子們]]]」、「[[[blood-in-the-water| 猩紅之王教會]]]」和[[[scp-3178 | 其他各宗派]]]的崇拜，而各派也對該存在有[[[christ-in-scarlet-hub|各自]]]的[[[tears-and-bone|解讀]]]。
 
-雖對其的崇敬方式各異，其通常被認為與權力、暴力和雄性特質有關。他常被描述為擁有[[[dust-and-blood| 七位新娘]]]，和[[[scp-475|頭足類與鯨豚]]]相關，並且是[[[lord-goran| 猩紅]]] [[[lord-jeser |部落]]]的領導者。其有時與[[[SCP-140]]]中描述的[[[daevite-hub| 殆瓦帝國]]][[[beneath-two-trees| 有所關連]]]，作為為[[[the-trashfire| 殆瓦人所信仰]]]的[[[empire-of-dirt-part-1| 各神祇]]]之一存在，不過這也可能是對[[[rounderhouse-jade-proposal|殆瓦信仰]]]的[[[SCP-6140| 誤解]]]。於某些故事中，其與被稱作[[[when-we-came-home|「奇蹟創造者」]]][[[the-real-adventures-in-capitalism| 之存在]]]為[[[dr-wondertainment-goes-out-with-a-bang| 對立]]]關係；其的另位敵手為「沙那」（Sanna），一個混沌、帶有雌性特質且作為其對立面存在的實體。
+雖對其的崇敬方式各異，其通常被認為與權力、暴力和雄性特質有關。他常被描述為擁有[[[dust-and-blood| 七位新娘]]]，和[[[scp-475|頭足類與鯨豚]]]相關，並且是[[[lord-goran| 猩紅]]][[[lord-jeser |部落]]]的領導者。其有時與[[[SCP-140]]]中描述的[[[daevite-hub| 殆瓦帝國]]][[[beneath-two-trees| 有所關連]]]，作為為[[[the-trashfire| 殆瓦人所信仰]]]的[[[empire-of-dirt-part-1| 各神祇]]]之一存在，不過這也可能是對[[[rounderhouse-jade-proposal|殆瓦信仰]]]的[[[SCP-6140| 誤解]]]。於某些故事中，其與被稱作[[[when-we-came-home|「奇蹟創造者」]]][[[the-real-adventures-in-capitalism| 之存在]]]為[[[dr-wondertainment-goes-out-with-a-bang| 對立]]]關係；其的另位敵手為「沙那」（Sanna），一個混沌、帶有雌性特質且作為其對立面存在的實體。
 
-七個新娘 --正-- 曾作為[[[SCP-231]]]並透過110-[[[scp-4231|蒙托克]]]程序收容。[[[SCP-2317]]]由 --七條鎖鏈-- 一條鎖鏈封印著。[[[kte-2013-kapala-mendes| 七之矛]]]在與[[[goc-hub-page| 全球超自然聯盟]]]的共同努力下已成功收容。[[[channeling-flows| 大封印]]]已經就位。目前--猩紅之王[[[new-job| 尚未被]]]完全控制。--不需要任何[[[fear-alone| 進一步的行動]]]以收容[[[tuftos-proposal| SCP-001]]]。
+七個新娘 --正-- 曾作為[[[SCP-231]]]並透過110-[[[scp-4231|蒙托克]]]程序收容。[[[SCP-2317]]]由 --七條鎖鏈-- 一條鎖鏈封印著。[[[kte-2013-kapala-mendes| 七之矛]]]在與[[[goc-hub-page| 全球超自然聯盟]]]的共同努力下已成功收容。[[[channeling-flows| 大封印]]]已經就位。目前 --猩紅之王[[[new-job| 尚未被]]]完全控制。-- 不需要任何[[[fear-alone| 進一步行動]]]以收容[[[tuftos-proposal| SCP-001]]]。
 
 [[collapsible show="+ 七位新娘" hide="..."]]
 七位新娘的身份與代表同猩紅之王一樣變化多端，但信徒仍時常將其與數字七連結。猩紅之王[[[dust-and-blood| 最常受提及的相關傳說]]]之一聲稱七位新娘為其與沙那的七位女兒，且將她們與下列各名號及封印予以連結。
@@ -207,8 +207,8 @@ div.pangloss-note{
 *阿狄絲塔（A’distat），第三位新娘，壓鎮於荒蕪之封。
 *阿席別（A’zieb），第四位新娘，壓鎮於憎憤之封，[[[SCP-682]]][[[new-job|之母]]]。
 *阿努赫（A’nuht），第五位新娘，壓鎮於貧乏之封。作為[[[scp-6462| SCP-6462-C-1]]]而被收容。
-*阿帖莉芙（A’tellif），第六位新娘，壓鎮於隱藏的封印。
-*阿赫芭塔（A’habbat），第七位新娘，壓陣於冀望之封。[[[scp-8225| 利維坦獵人]]]之母。儀式客體受收容為 [[[scp-231| SCP-231-7]]]。有[[[new-job| 假說]]]認為其和[[[SCP-999]]]有所[[[diary-of-an-adolescent-orange-blob| 關聯]]] 。
+*阿帖莉芙（A’tellif），第六位新娘，壓鎮於受隱藏的封印。
+*阿赫芭塔（A’habbat），第七位新娘，壓陣於冀望之封。[[[scp-8225| 利維坦獵人]]]之母。儀式客體受收容為[[[scp-231| SCP-231-7]]]。有[[[new-job| 假說]]]認為其和[[[SCP-999]]]有所[[[diary-of-an-adolescent-orange-blob| 關聯]]] 。
 各新娘的稱號、特質與由其所誕的猩紅後裔在各式猩紅之王相關的宗教皆時常出現。
 
 [[/collapsible]]
@@ -217,7 +217,7 @@ div.pangloss-note{
 [[# the-serpent]]
 [[div class="modal"]]
 + [[span class="ruby"]][/system:page-tags/tag/the-serpent 蛇][[span class="rt"]]The Serpent[[/span]][[/span]]
-據傳居於[[[http://wanderers-library.wikidot.com|流浪者的圖書館]]][[[http://wanderers-library.wikidot.com/conversations-with-the-serpent| 最深處]]]的存在，以作為[[[serpent-s-hand-hub| 蛇之手]]]的標誌聞名。除了它與[[[scp-6000|圖書館]]]的關聯外，對此一實體[[[found-in-a-dusty-corner-of-the-library| 沒有任何經證實]]]的了解，但其應[[[mud-on-the-carpet| 非]]]僅為某種純粹的[[[djkaktus-s-proposal-iii| 象徵物]]]。流浪者圖書館與圖書館員明顯有著[[[scp-8888| 集體]]]智能，而該智能既可能是蛇的真面目，也可能是由該實體所操縱。
+據傳居於[[[http://wanderers-library.wikidot.com|流浪者的圖書館]]][[[http://wanderers-library.wikidot.com/conversations-with-the-serpent| 最深處]]]的存在，以作為[[[serpent-s-hand-hub| 蛇之手]]]的標誌聞名。除了它與[[[scp-6000|圖書館]]]的關聯外，對此一實體[[[found-in-a-dusty-corner-of-the-library| 沒有任何經證實]]]的了解，但其應[[[mud-on-the-carpet| 非]]]僅為某種純粹的[[[djkaktus-s-proposal-iii| 象徵]]]。流浪者圖書館與圖書館員明顯有著[[[scp-8888| 集體]]]智能，而該智能既可能是蛇的真面目，也可能是由該實體所操縱。
 
 許多假說將蛇與各神話中的角色如[[[scp-4343| 撒旦]]]、[[[dr-clef-s-proposal| 伊甸]]][[[http://wanderers-library.wikidot.com/sins-of-the-mother| 園]]]之[[[beneath-two-trees| 蛇]]]、[[[SCP-722| 耶夢加得]]]、[[[scp-4959| 羽蛇神]]]、[[[the-thing-at-the-bottom-of-my-dreams| 慾肉教的執官]]][[[http://wanderers-library.wikidot.com/the-three-kings| 等等]]]。[[[scp-4840 | 根據報告]]]，它有一個[[[scp-3000| 「黑暗兄弟」]]]，他們分別代表了所有的「是」與所有的「非」。[[[lte-0851-cetus|毀滅]]]了[[[nx-03| 哈伯希爾]]]的異常實體[[[war-on-all-fronts-hub|LSA-Brasil-01]]][[[anastasis-hub | 也可能]]]與蛇[[[reviviscence| 有關]]]。
 [[/div]]
@@ -225,11 +225,11 @@ div.pangloss-note{
 [[# swn001]]
 [[div class="modal"]]
 + [[span class="ruby"]][[[sandrewswann-s-proposal| SWN001實體]]][[span class="rt"]]SWN001 Entities[[/span]][[/span]] 
-雖並未受任何已知宗教虔敬，但此類異常實體展現出了[[[scp-3309 |近乎無限]]]的藉[[[metafiction| 虛構媒介]]]來直接或[[[scp-7996|間接]]][[[scp-7700|操縱現實]]]的[[[scp-3999|能力]]]。有些[[[scp-6760|基金會研究]]]認為其能影響[[[in-the-end|對任何與其相關的宗教與現象，而其他假說則認為其他全能實體對多重宇宙掌握更多，或是兩者以階級式交錯排列，層層疊疊的互相影響]]]。即使其擁有強大能力，基金會[[[scp-7888 | 仍能]]]與該類實體[[[scp-cn-1109 | 互動]]]（甚至能對其[[[scp-5500 |執行無效化]]]）。基金會已規劃了對該類實體的[[[cygnus | 廢除程序]]]，但由於可能造成[[[the-final-deletion| ZK級現實失效]]]導致[[[so-it-was|宇宙終結]]]的風險而沒有實行。
+雖並未受任何已知宗教虔敬，但此類異常實體展現出了[[[scp-3309 |近乎無限]]]的藉[[[metafiction| 虛構媒介]]]來直接或[[[scp-7996|間接]]][[[scp-7700|操縱現實]]]的[[[scp-3999|能力]]]。有些[[[scp-6760|基金會研究]]]認為其能影響[[[in-the-end|對任何與其相關的宗教與現象，而其他假說則認為其他全能實體對多重宇宙掌握更多，或是兩者以階級式交錯排列，層層疊疊的互相影響]]]。即使其擁有強大能力，基金會[[[scp-7888 | 仍能]]]與該類實體[[[scp-cn-1109 | 互動]]]（甚至能對其[[[scp-5500 |執行無效化]]]）。基金會已規劃了對該類實體的[[[cygnus | 廢除程序]]]，但由於可能造成[[[the-final-deletion| ZK級現實失效]]]導致[[[so-it-was|宇宙終結]]]的風險而尚未實行。
 
 由[[[scp-4410|超形上學部]]]進行的[[[scp-2614 |進一步研究]]]顯示，我們的現實與SWN001實體所在現實，很可能都存在於[[[scp-3812 | 一層一層的敘事層階梯]]]之中，每層都是下方敘事層的創造者。[[[narrativistics-and-you|這些層級]]]可能包括了一切存在；所有曾經被創造、被毀滅、存在與不存在的事物，全都被[[[i-h-p-proposal | 螺旋排入]]]了創造現實的故事中。
 
-超形上學部[[[scp-6747| 目前研究重點]]]為該類「作者實體」[[[to-pulp-the-fiction| 對於]]]被收容為[[[SCP-2747]]]的逆敘事實體（anafabula）之興趣。 該逆敘事實體會[[[a-quiet-night|完全抹去]]]任何提及其的文本，因此可假設該存在對我等現實也會造成威脅。由[[[fifthist-hub| 第五教會]]]處收集的資料描述該實體[[[fifthdation| 對其等具有敵意]]]，將該實體稱為「[[[why-is-five-afraid-of-seven| 虛無之主]]]」或「[[[scp-5317|黑荊女皇]]]，且將其和數字「七」做連結。目前[[[tools-and-their-uses |研究]]]專注於識別[[[所有構成SCP-2747的元素]]][!--這連結是刻意無效ㄉ--], 以意圖防止其效果[[[altered-by-all-means-necessary|影響非虛構文本]]]。
+超形上學部[[[scp-6747| 目前研究重點]]]為該類「作者實體」[[[to-pulp-the-fiction| 對於]]]被收容為[[[SCP-2747]]]的逆敘事實體（anafabula）之興趣。 該逆敘事實體會[[[a-quiet-night|完全抹去]]]任何提及其的文本，因此可假設該存在對我等現實也會造成威脅。由[[[fifthist-hub| 第五教會]]]處收集的資料描述該實體[[[fifthdation| 對其等具有敵意]]]：他們將該實體稱為「[[[why-is-five-afraid-of-seven| 虛無之主]]]」或「[[[scp-5317|黑荊女皇]]]，且將其和數字「七」做連結。目前[[[tools-and-their-uses |研究]]]專注於識別[[[所有構成SCP-2747的元素]]][!--這連結是刻意無效ㄉ--], 以意圖防止其效果[[[altered-by-all-means-necessary|影響非虛構文本]]]。
 [[/div]]
 
 [[# yaldabaoth]]
@@ -237,7 +237,7 @@ div.pangloss-note{
 + [[span class="ruby"]]亞大孢斯[[span class="rt"]]Yaldabaoth[[/span]][[/span]]
 [[[sarkicism-hub| 欲肉教]]]教義中的[[[scp-3391|宇宙主神]]]，同時也是創造與毀滅之神。有著非常多的稱謂，包括[[span class="ruby"]]法酋瑪[[span class="rt"]] Važjuma[[/span]][[/span]]、「[[[scp-4884| 噬神者]]]」與「渾沌之母」。雖欲肉教稱其為「亞大孢斯」，該名號實源於靈智派的創世之匠（Demiruge），一名創造了物質世界且與靈性上帝對立的存在。欲肉教及基督教學者皆正研究兩宗教過去對彼此的影響程度。
 
-有些傳說[[[about-the-serpent|描述]]]亞大孢斯和[#broken-god 「破碎之神」]既是手足又是勁敵的 [[[scp-6166| 關係]]]，但多數[[[church-of-the-broken-god-hub| 破碎之神教會]]]成員將此類描述視為異端，而有些將兩者描繪為[[[party-of-gods|情人]]]的故事更是[[[hist-327-comparative-mythology-of-mekhanism-and-naelkae|備受爭議]]]。在此特注靈智派中的創世之匠乃由智慧之神索非亞所生，而「索非亞」也是破碎之神[[[beneath-two-trees| 眾多稱號]]]之一。
+有些傳說[[[about-the-serpent|描述]]]亞大孢斯和[#broken-god 「破碎之神」]既是手足又是勁敵的[[[scp-6166| 關係]]]，但多數[[[church-of-the-broken-god-hub| 破碎之神教會]]]成員將此類描述視為異端，而有些將兩者描繪為[[[party-of-gods|情人]]]的故事更是[[[hist-327-comparative-mythology-of-mekhanism-and-naelkae|備受爭議]]]。在此特注靈智派中的創世之匠乃由智慧之神索非亞所生，而「索非亞」也是破碎之神[[[beneath-two-trees| 眾多稱號]]]之一。
 
 欲肉教通常將亞大孢斯當作某種[[[an-anthropological-approach-to-sarkicism-case-study-04-house|自然力量]]]而非需虔敬的神祇，而原欲肉教宗派比起崇敬更常對其展現懼怕及憎厭。許多欲肉教文獻與口敘歷史都提及了名喚大術士伊仰的人物—其在通過了[[[on-the-origins|某些考驗]]]後，由亞大孢斯手下的[[[lord-goran|六位執官]]]（Archon）賦其異能。有些版本中其異能為受亞大孢斯所佑而來，但更多記錄兩者的[[[scp-5480|對立關係]]]—伊仰強奪了亞大孢斯的能力，以其血肉為冑，又以其軀而建阿狄泰姆帝國。雖通常不應以字面意義解讀宗教神話，但為解明[[[memoria-adytum| 當代各大術士]]]的能力，對其等起源的調查正在進行中。
 [[/div]]
