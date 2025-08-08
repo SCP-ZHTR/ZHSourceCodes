@@ -736,7 +736,7 @@ div.srr_memo {
 div.te_memo {
     --memo-heading: "來自三垣的指示";
     --memo-logo: url(https://i.imgur.com/Jn1rn9H.png);
-    --memo-color: 193, 211, 241;
+    --memo-color: 204, 242, 255;
 }
 
 
@@ -1098,6 +1098,7 @@ div.srr_memo {
 }
 
 div.te_memo {
+    --memo-color: 103, 177, 233;
     --memo-logo: url(https://i.imgur.com/qyUuGHK.png);
 }
 

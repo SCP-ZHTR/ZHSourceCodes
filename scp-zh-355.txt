@@ -2,6 +2,10 @@
 [[include info:start]]
 標題： SCP-ZH-355
 作者：[[*user czizi077]]
+圖片標題：Nanya Night Market
+圖片來源：https://www.flickr.com/photos/whenwhere/8050648686/
+授權方式：cc-by-sa-2.0
+版權所有者：ZENG'S TALK
 [[include info:end]]
 
 [[include component:anomaly-class-bar-source-alt
@@ -15,7 +19,7 @@
 
 ------
 
-[[include component:image-block name=https://i.meee.com.tw/Mkz8Rda.jpg|width=320px |caption=SCP-ZH-355被發現時處於SCP-ZH-355-02的狀態]]
+[[include component:image-block name=https://i.meee.com.tw/fDlee5P.png|width=320px |caption=SCP-ZH-355被發現時處於SCP-ZH-355-02的狀態]]
 
 **特殊收容措施：**--SCP-ZH-355目前收容於Site-ZH-12的標準人形生物收容室內--，收容室需配備隔音牆，定期檢查牆體是否有裂縫或損壞。每日需提供SCP-ZH-355標準基金會配給餐點，並允許其在監控下進行娛樂活動。任何與SCP-ZH-355的互動必須由至少兩名三級以上安全權限人員在場，並嚴格遵守預先批准的訪談協議。
 
