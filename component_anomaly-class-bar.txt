@@ -555,7 +555,7 @@ critical
 [[/div]]
 
 [[div_ class="step_container"]]
-+ 次要分級選項與連結 | [http://www.scp-wiki.net/esoteric-classes-complete-list 見此頁面以獲得更詳細的訊息]
++ 次要分級選項與連結 | [*/esoteric-classes-complete-list 見此頁面以獲得更詳細的訊息]
 > //感謝[[*user samscript]]，本表列有的次要分級無須填入URL即可顯示圖標。//
 [[div_ class="icons"]]
 
