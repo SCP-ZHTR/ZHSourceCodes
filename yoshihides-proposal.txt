@@ -4,7 +4,7 @@ text=我看向火焰之中，然後我希望，神啊我希望，能夠獲得一
 ]]
 =====
 
-[[include :scp-wiki:theme:black-highlighter-theme]]
+[[include :scp-zh-tr:theme:black-highlighter-theme]]
 [[include :scp-wiki:theme:ashes-to-ashes act=prelude]]
 
 [[module CSS]]
