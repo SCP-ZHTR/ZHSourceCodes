@@ -1,0 +1,176 @@
+=====
+[[include component:preview
+text=我看向火焰之中，然後我希望，神啊我希望，能夠獲得一個結局。
+]]
+=====
+
+[[include :scp-wiki:theme:black-highlighter-theme]]
+[[include :scp-wiki:theme:ashes-to-ashes act=prelude]]
+
+[[module CSS]]
+
+:root:lang(zh) {
+    --header-title: "良秀的提案";
+    --header-subtitle: "地獄變";
+}
+
+.acts {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    gap: 5rem;
+    font-size: 150%;
+}
+
+.acts > div {
+    flex-grow: 2;
+    display: block;
+}
+
+[[/module]]
+
+[[div class="blockquote"]]
+在我還小時，我父親曾告訴我「地獄即他人」。我當時不知道他的意思，但其中的某些感觸、重量深入了我的心中。他說那句話時並未看著我；他當時喝著威士忌，百葉窗半開著，遮住太陽，他的視線穿過嗡嗡作響的蒼蠅之間，停留在牆壁上。他很享受跟我說這些東西。他很驕傲自己不是會打小孩的那種人。
+
+當我們埋葬他時，我想起了其他東西——我坐在他的藏身處中，看著他工作。他眼中和牙齒上的微光顯示出他潔白的微笑，如同由骨頭搭成的墓碑，他說服自己是在做正確的事情，這全都是必要的。太陽在地平線上有如墨橘，堅定地融入山群，帶來了夜晚的寂靜。他的視線是如此緊迫，他的嘴張地如此之大。我本可伸出雙手，看著落日在雙臂間融化。
+
+我在想，那些蒼蠅是否仍在嗡嗡作響，在大地的破損血肉下，於他的臉上爬行著。
+
+[[>]]
+--管理員
+[[/>]]
+[[/div]]
+
+@@ @@
+@@ @@
+
+[[include info:start]]
+原文：[https://scp-wiki.wikidot.com/yoshihides-proposal Yoshihide's Proposal]
+作者：[[*user Yossipossi]]、[[*user djkaktus]]、[[*user Tufto]]
+譯者：[[*user Halewen]]
+[[include info:end]]
+
+[[include component:image-block name=https://scp-wiki.wdfiles.com/local--files/yoshihides-proposal/overseer3.png|caption=SCP-001-108]]
+
+**項目編號：**SCP-001-108
+
+**項目等級：**Keter-potissimi
+
+**特殊收容措施：**SCP-001-108尚未被收容。目前已證實包圍SCP-001-108的火焰相當難以限制。由於此特性，收容措施將著重於減少火焰的擴散。
+
+考量到此異常造成的威脅對Site-01極度嚴重（也因此間接包含了對基金會整體），監督者議會將異常的收容視為最高優先級。目前避免火焰擴散並最終收容SCP-001-108的計畫由站點主管武彦金澤領導。
+
+**描述：**SCP-001-108為O5-3的屍體，在其位於Site-01的辦公室中吊著，並受到不斷燃燒的火焰包覆。此火焰目前已擴散至整個辦公室，以及一大部分的Site-01行政翼區。火焰持續以SCP-001-108為中心燃燒其範圍內的所有物質，此範圍仍在擴張。
+
+火焰的擴張相當不穩定且無法預測。平均來說，火焰在未受干擾的情況下每日擴張四公尺。
+
+[[div class="blockquote"]]
+也許地獄是地球上的地方。我們的行為導致了地獄，畢竟；我們就被困在這之中，在因果報應與墮落的循環中祈求一個我們無法抵達的出口。
+
+我不認識我的母親，但她以前會作畫。我們家裡的一面牆就是幅很好的濕壁畫，是她以前畫的，描繪了溫柔又綠意盎然的鄉村。毛刷在牆上點出藍與白，而光芒穿過薄紗窗簾灑落其上。我以前會靠近並觸碰那幅畫，感受顏料的碎片，思考著一張又一張的面龐，並用金色的星星將那些面龐框起來。
+
+我的哥哥有天回到家中，發瘋般地拿起刀子走到那幅畫面前。我驚恐地看著他對那幅畫又砍又刮，他大聲吼叫著——他在戰爭中奪走的一切，死亡接著死亡。光芒依然靜靜地穿過窗簾，照亮每一道缺陷，放大它們；他又繼續繼續下去，摧毀那些圖案。
+
+[[>]]
+--管理員
+[[/>]]
+[[/div]]
+
+SCP-001-108發出的火焰永遠燃燒著。雖然火焰附著的物體可能會腐爛或枯萎，物體大部分會保持完好，並持續作為無盡的燃料供火焰燃燒。一旦物件被火焰包覆，火焰將會無法撲滅，即使將其移出SCP-001-108所影響的範圍也一樣。當其他物體觸碰到SCP-001-108點燃的物體時，其他物體將會成為新的火焰發源點——因此，目前建議將所有燃燒的物件或人員移回SCP-001-108的範圍內，以避免不必要地散播火焰。
+
+受SCP-001-108火焰點燃的活體生物不會死去，不論其燃燒程度如何。試圖直接撲滅火焰的舉動通常會因暴露在火焰之下而導致傷亡增加。然而，這些個體可透過其他手段殺死——受SCP-001-108影響的人員通常認為這個結果是必要的（有時是被要求的）。目前未知處決是否能減緩他們的痛苦。
+
+由於項目附近的大火，直接觀察SCP-001-108本體相當困難。SCP-001-108最初的照片顯示烈火的來源似乎為屍體張開的嘴巴與（現已為空的）眼窩。目前無法確認此事。
+
+[[div class="blockquote"]]
+也許地獄是一個狀態，一個環境。我曾讀過神學家說的話，現代的僧侶抓著他們的念珠，並看向他們的神，他們懷抱希望與祈願，向神祈求寬恕。[[span class="ruby"]]主的羔羊，祢去除世界上的罪，憐憫我們[[span class="rt"]]Agnus Dei, qui tollis peccata mundi, miserere nobis[[/span]][[/span]]。
+
+我見過薩拉曼卡的一名僧侶，用塔韋爾納斯語禱告著。我當時還年輕，而且相當自傲。我正在搜尋一光芒與黑暗之物，然後我成功了。僧侶無法理解那東西，那東西的廣大無邊；那東西若隱若現的爪子、鋸齒利牙。他動搖了，然後他的話語如液體般灑出，不論我怎麼做都無法幫到他。
+
+當我把他的屍體丟在他兄弟的家門前時，我看到了他們臉上的表情。他們試著理解他們的朋友，他們那沉默寡言的同伴，到底是怎麼變成這團肉和肢體的。詭異的是，我感到了一股優越感；我並非耶穌。我感受到了光芒的汗水、黑暗的冷酷。我得知了無從描述的事物。
+[[>]]
+--管理員
+[[/>]]
+[[/div]]
+
+**發現：**SCP-001-108於O5-3自殺後被直接發現。
+
+在其生命跡象停止後，管理員自動收到了[[span class="ruby"]]羅生門[[span class="rt"]]Rashōmon[[/span]][[/span]]程序失敗的消息。機動特遣隊Alpha-1（「血色右手」）被派遣至O5-3的辦公室，其中屍體從天花板上吊下，並開始燃燒。
+
+最初試圖撲滅屍體散發的火焰導致SCP-001-108的火焰擴散，其中包含現已無法抵達的行政翼區醫務室。最初試圖收容SCP-001-108火焰的大部分人員皆待在醫務室，無法移動，且無法聯繫人員或拿取能夠處決他們的裝備。根據可辨識的聲音數量，目前認為醫務室中有二十六名人員正永遠燃燒著。
+
+[[div class="blockquote"]]
+佛教地獄是個暫時的地方，一個能讓你住到前世罪孽皆被肅淨的地方。但那不是我還小時聽過的地獄。我眼前的意象從一座木製教堂開始浮現，裡頭的梁柱與漂白衣物，到傳教士的唾沫與舉起的書本。我看到的是一個喀爾文地獄，一個充滿燒焦火焰的冰凍之地，充滿無窮無盡的折磨。
+
+真是鬆了一口氣，我這麼想著。至少，你死去了；所有願望、所有希望、所有不幸，在苦難面前皆毫無效用。到了最後，地獄是寬恕；不再需要思考，不再努力，不再感到罪惡或受到誘惑。就只有你，還有痛苦。我可以抱住這個地獄。我可以與其爭鬥。
+
+我看向火焰之中，然後我希望，神啊我希望，能夠獲得一個結局。
+[[>]]
+--管理員
+[[/>]]
+[[/div]]
+
+**附錄：**暴露在SCP-001-108火焰之下的人員皆會受到幻覺與幻象影響，彷彿他們開始燃燒。這些幻象似乎遵循數個敘事。雖然這些幻象在每次暴露時皆保持一致，但受影響的人員會因幻覺火焰的影響而無法或不願與員工描述他們看見的事物，完整確認敘事相當困難。
+
+儘管如此，人員已記錄了足夠的幻覺以建構出三個不同的敘事。
+
+[[div class="blockquote"]]
+管理員是個蠢材。他根本不曉得地獄為何。
+
+他試過了，所以才無法知曉。
+[[>]]
+--O5-3，遺書。
+[[/>]]
+[[/div]]
+
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+
+[[div class="acts"]]
+[[div]]
+++++ 第一幕
+++ [[[the-trail-for-beasts|野獸之徑]]]
+[[/div]]
+
+[[div]]
+++++ 第二幕
+++ [[[the-path-of-swords|劍刃之道]]]
+[[/div]]
+
+[[div]]
+++++ 第三幕
+++ [[[the-road-to-hell|地獄之路]]]
+[[/div]]
+[[/div]]
+
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+
+
+
+[[include :scp-zh-tr:component:license-box |author=djkaktus, Yossipossi, & Tufto]]
+> **Filename:** overseer3.png
+> **Author:** [[*user djkaktus]]
+> **License:** CC BY-SA 3.0
+> **Derivative Of:**
+> 
+>> **Name:** Burning tractor
+>> **Author:** Hermann Hammer
+>> **License:** CC BY-SA 3.0
+>> **Source Link:** [https://commons.wikimedia.org/wiki/File:Burning_tractor.jpg Wikimedia Commons]
+> 
+>> **Name:** ETH-BIB-Hingerichteter Schwerverbrecher, zur Abschreckung in Baum aufgehängt-Abessinienflug 1934-LBS MH02-22-0594
+>> **Author:** Walter Mittelholzer
+>> **License:** Public Domain
+>> **Source Link:** [https://commons.wikimedia.org/wiki/File:ETH-BIB-Hingerichteter_Schwerverbrecher,_zur_Abschreckung_in_Baum_aufgeh%C3%A4ngt-Abessinienflug_1934-LBS_MH02-22-0594.tif Wikimedia Commons]
+> 
+>> **Name:** base-burn
+>> **Author:** Jon Evans
+>> **License:** CC BY 2.0
+>> **Source Link:** [https://www.flickr.com/photos/rezendi/44474820951 Flickr]
+
+[[include :scp-zh-tr:component:license-box-end]]
