@@ -1,3 +1,4 @@
+[[include :scp-zh-tr:component:scp-meta-title-hiding css-style=modern]]
 [[include :scp-zh-tr:theme:space]]
 [[include :scp-zh-tr:theme:cosmos]]
 [[module CSS]]
