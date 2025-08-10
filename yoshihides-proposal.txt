@@ -9,6 +9,10 @@ text=我看向火焰之中，然後我希望，神啊我希望，能夠獲得一
 
 [[module CSS]]
 
+#header h2 span::before, #header h2 span::after {
+transform: translateY(-25%) translateX(-50%);
+}
+
 :root:lang(zh) {
     --header-title: "良秀的提案";
     --header-subtitle: "地獄變";
