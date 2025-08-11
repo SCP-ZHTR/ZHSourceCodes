@@ -71,7 +71,7 @@ sup {
 **經費使用狀況**
 
 [[include :scp-sandbox-3:image-zoom 
-   name=flickr:53435273623|
+   name= flickr:53435273623 |
    caption=圖 C1（懸停放大）|
    width=300px|align=right
 ]]

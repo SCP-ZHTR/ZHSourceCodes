@@ -1,3 +1,9 @@
+[[include info:start]]
+標題：SCP-ZH-323
+作者：[[*user HR484268XD]]
+
+[[include info:end]]
+
 **項目編號**：SCP-ZH-323
 
 **項目等級**：safe
