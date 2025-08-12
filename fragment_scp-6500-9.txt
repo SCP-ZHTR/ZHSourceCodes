@@ -1,39 +1,28 @@
-[[div style="display: none;"]]
-[[include :scp-zh-tr:theme:placestyle]]
-[[/div]]
+[[include :scp-zh-tr:theme:foxtrot
+overwatch=a|
+dark=a|
+wide=a|
+hidetitle=a]]
 [[include :scp-zh-tr:component:fade-in speed=1]]
 
 [[module css]]
-body {
-    background-image: linear-gradient(
-        to bottom,
-        #FFD700, #2F333C 200px,
-        #2F333C 200px, #2F333C 100%);
-}
+@import url('https://fonts.googleapis.com/css2?family=Courgette&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,800;1,800&display=swap');
 
 :root {
-  --header-title: "監督者";
-  --header-subtitle: "犧牲 賦予 權力";
-  --lgurl: url('https://scp-wiki.wdfiles.com/local--files/fragment%3Ascp-6500-2/overwatchheader.svg');
-  --accentColor: #FFD700;
+  --head-font: 'Monserrat', sans-serif;
+  
+  --link-txt-color: rgb(var(--accent)) !important;
+  --three-color: var(--accent);
 }
 
-div#extra-div-1 {
-    filter: brightness(100%);
-    height: 100px;
-    margin-top: 30px;
+#page-content .table0 {
+  --accent: 175, 175, 175;
+  --link-txt-color: rgb(175, 175, 175);
 }
 
-#header h1 a::before {
-    color: transparent;
-}
-
-#header h2::before {
-    color: transparent;
-}
-
-.bt {
-    filter: none;
+#page-content .bt {
+  color: rgb(var(--accent));
 }
 
 @keyframes rotation {
@@ -45,67 +34,98 @@ div#extra-div-1 {
   }
 }
 
-.no {
-    font-size: 125%;
+#page-content tr th {
+  text-align: center !important;
 }
 
-.no:hover {
-    filter: opacity(0.5);
-    cursor: not-allowed;
-}
-
-#login-status {
-    color: #21252E;
-}
-#login-status a {
-    color: #21252E;
-}
-#login-status ul a {
-    color: #ededed;
-    background: #21252E;
-}
-#login-status ul a:hover {
-    color: #21252E;
-}
-#account-topbutton{
-    border: solid 1px #21252E;
-}
-
-.fancyborder {
-    border-radius: 5rem;
+:is(.fancyborder) {
+  border-radius: 4vb;
 }
 
 .fancyborder .fnnum::after {
-    color: #000;
-}
-
-@media (max-width: 706px) {
-    .fancyborder {
-        border-radius: 1rem;
-    }
+  border-bottom: 1px solid var(--dark-bg-1);
 }
 
 .cards {
-    display: flex;
-    flex-wrap: nowrap;
-    justify-content: center;
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: center;
 }
 
 .cards > div {
-    margin: -12px;
+  margin: -12px;
 }
 
-.bluebox {
-    --accentColor: #2bf;
+.cards a {
+  border-bottom: none !important;
+}
+
+.cards a:hover,
+.cards a::selection {
+  background-color: rgb(var(--accent));
+}
+
+.cards .image-container:nth-of-type(1) *,
+.yui-nav li:nth-of-type(1),
+.yui-content > div:nth-of-type(1) * {
+  --accent: 175, 175, 175;
+}
+
+.cards .image-container:nth-of-type(2) *,
+.yui-nav li:nth-of-type(2),
+.yui-content div:nth-of-type(2) * {
+  --accent: var(--five-color);
+}
+
+.cards .image-container:nth-of-type(3) *,
+.yui-nav li:nth-of-type(3),
+.yui-nav li:nth-of-type(3) a,
+.yui-content div:nth-of-type(3) * {
+  --accent: var(--two-color);
+  filter: opacity(.33);
+  cursor: not-allowed;
+  color: transparent !important;
+  background-color: transparent !important;
+}
+
+.cards .image-container:nth-of-type(4) *,
+.yui-nav li:nth-of-type(4),
+.yui-content div:nth-of-type(4) * {
+  --accent: var(--one-color);
+}
+
+.yui-navset .yui-nav {
+  border: none !important;
+}
+
+.yui-navset .yui-nav li {
+  min-width: 25%;
+}
+
+.yui-navset .yui-content {
+  background: none !important;
+  margin-top: -1px;
+  padding: 0;
+}
+
+.yui-navset .yui-content > div {
+  background: none !important;
+  padding: 0;
+  margin: 0;
+}
+
+.yui-navset .yui-content .modal {
+  width: auto;
+  margin: auto;
 }
 [[/module]]
-[[include :scp-sandbox2-zh:draft:no-return-header eye-colour=fed700]]
+
 
 = [[span class="bt"]]__附錄__：[[/span]] 匯報資料
 
 = 重新提交許可憑證，以訪問SCP-6500-α回收任務後相關報告。
 
-[[div class="darkbox bluebox"]]
+[[div class="notation table2"]]
 [[span class="bt"]]**項目編號**[[/span]]：SCP-6500-α-Staff
 
 [[span class="bt"]]**項目等級**[[/span]]：Safe
@@ -125,7 +145,7 @@ POI-8888此前曾對與基金會合作表達強烈牴觸。然而在其康復期
 [[span class="bt"]]**附錄 – 研究與運用項目之建議**[[/span]]：
 有鑑於SCP-6500具有操縱時空結構的能力，██████高級研究員提議使用SCP-6500-α-Staff來確定SCP-6500引發的熵來源。此乃基於SCP-6500起源於超維度之理論，該理論尚未獲得證實。此外，██████研究員提議使用該物體作為其異常能量進入 SCP-6500之退化熵源的通道，從而將基線現實異常能量的進一步退化加以移轉。
 
-[[div class="lightbox"]]
+[[div class="paper"]]
 [[=]]
 ++++ 來自監督者指揮部的通知
 
@@ -194,13 +214,28 @@ POI-8888此前曾對與基金會合作表達強烈牴觸。然而在其康復期
 @@ @@
 [[tabview]]
 [[tab 戰士]]
+[[div class="modal"]]
 = 取得主導之刃：一把交織於超形上學現實皺褶中的傳說之刀；其持有者將體現英雄的精神。該武器的性質使得SCP-6500能透過征服一場偉大的任務而被解決。
+[[/div]]
 [[/tab]]
 [[tab 法師]]
+[[div class="modal"]]
 = 收集奧瑞卡科斯原石：一個能儲存大量魔法能量的神秘文物，並允許使用者在可能的普遍範圍內進行儀式與典禮。使用法典的奇蹟術能力將使SCP-6500的影響完全中止並逆轉。
+[[/div]]
+[[/tab]]
+[[tab 僧侶]]
+
+@@ @@
+
+@@ @@
+
+@@ @@
+
 [[/tab]]
 [[tab 盜賊]]
+[[div class="modal"]]
 = 偷取//Mouleur Foci//。一個本質與普遍的熵、腐爛和退化交纏的遺物。透過控制該項目將獲得支配所有與腐朽相關的能力，也就是SCP-6500。
+[[/div]]
 [[/tab]]
 [[/tabview]]
 @@ @@
