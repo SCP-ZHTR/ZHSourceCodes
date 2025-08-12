@@ -1,37 +1,33 @@
-[[include :scp-zh-tr:theme:placestyle]]
-[[include :scp-zh-tr:component:fade-in speed=1]]
+[[include :scp-wiki:theme:foxtrot
+vanguard=a|
+dark=a|
+wide=a|
+hidetitle=a]]
+[[include :scp-wiki:component:fade-in speed=1]]
 
 [[module css]]
-body {
-    background-image: linear-gradient(
-        to bottom,
-        #5c3, #2F333C 200px,
-        #2F333C 200px, #2F333C 100%);
-}
+@import url('https://fonts.googleapis.com/css2?family=Courgette&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,800;1,800&display=swap');
 
 :root {
-  --header-title: "領航者";
-  --header-subtitle: "庇護 常態 告知";
-  --lgurl: url('https://scp-wiki.wdfiles.com/local--files/fragment%3Ascp-6500-12/overwatchheadervanguard.svg');
-  --accentColor: #5c3;
+  --head-font: 'Monserrat', sans-serif;
+  
+  --link-txt-color: rgb(var(--accent)) !important;
+  --one-color: var(--accent);
 }
 
-div#extra-div-1 {
-    filter: brightness(100%);
-    height: 100px;
-    margin-top: 30px;
+.fancyhr,
+.fancyborder {
+  filter: hue-rotate(60deg);
 }
 
-#header h1 a::before {
-    color: transparent;
+#page-content .table0 {
+  --accent: 175, 175, 175;
+  --link-txt-color: rgb(175, 175, 175);
 }
 
-#header h2::before {
-    color: transparent;
-}
-
-.bt {
-    filter: none;
+#page-content .bt {
+  color: rgb(var(--accent));
 }
 
 @keyframes rotation {
@@ -43,73 +39,102 @@ div#extra-div-1 {
   }
 }
 
-.no {
-    font-size: 125%;
+#page-content tr th {
+  text-align: center !important;
 }
 
-.no:hover {
-    filter: opacity(0.5);
-    cursor: not-allowed;
-}
-
-#login-status {
-    color: #21252E;
-}
-#login-status a {
-    color: #21252E;
-}
-#login-status ul a {
-    color: #ededed;
-    background: #21252E;
-}
-#login-status ul a:hover {
-    color: #21252E;
-}
-#account-topbutton{
-    border: solid 1px #21252E;
-}
-
-.fancyborder {
-    border-radius: 5rem;
+:is(.fancyborder) {
+  border-radius: 4vb;
 }
 
 .fancyborder .fnnum::after {
-    color: #000;
-}
-
-@media (max-width: 706px) {
-    .fancyborder {
-        border-radius: 1rem;
-    }
+  border-bottom: 1px solid var(--dark-bg-1);
 }
 
 .cards {
-    display: flex;
-    flex-wrap: nowrap;
-    justify-content: center;
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: center;
 }
 
-.cards > .image-container {
-    padding: 1px;
+.cards > div {
+  margin: -12px;
 }
 
-.yui-navset {
-    margin: 2%;
+.cards a {
+  border-bottom: none !important;
 }
 
-.graybox {
-    --accentColor: #ddcfee;
+.cards a:hover,
+.cards a::selection {
+  background-color: rgb(var(--accent));
 }
 
-.fancyhr {
-    filter: hue-rotate(60deg);
+.cards.main > :is(:nth-child(1), :nth-child(2)) {
+  --accent: 175, 175, 175;
+  filter: opacity(.33);
+  cursor: not-allowed;
+  color: transparent !important;
+  background-color: transparent !important;
+}
+
+.cards.tabs > div:nth-child(1) {
+  --accent: 175, 175, 175;
+  filter: opacity(.33);
+  cursor: not-allowed;
+}
+
+@media (max-width: 767px) {
+  .cards.tabs > div:nth-child(1) {
+    display: none;
+  }
+}
+
+.cards.main > :nth-child(3),
+.cards.tabs > div:nth-child(2) .yui-navset .yui-nav li:nth-of-type(1) {
+  --accent: var(--six-color) !important;
+}
+
+@keyframes emissary {
+  0%   { filter: none; }
+  100% { filter: invert(1) hue-rotate(180deg);  }
+}
+
+.cards.main > :nth-child(4):hover {
+  filter: invert(1) hue-rotate(180deg);
+  animation-name: emissary;
+  animation-duration: .5s;
+}
+
+.yui-navset .yui-nav {
+  border: none !important;
+}
+
+.yui-navset .yui-nav li {
+  min-width: 25%;
+}
+
+.yui-navset .yui-content {
+  background: none !important;
+  margin-top: -1px;
+  padding: 0;
+}
+
+.yui-navset .yui-content > div {
+  background: none !important;
+  padding: 0;
+  margin: 0;
+}
+
+.yui-navset .yui-content .modal {
+  width: auto;
+  margin: auto;
 }
 [[/module]]
-[[include :scp-sandbox2-zh:draft:no-return-header eye-colour=5de038]]
 
 = [[span class="bt"]]__附錄 II：__[[/span]] 時間線觀測
 
-[[div class="darkbox"]]
+[[div class="notation"]]
 @@ @@
 [[=image https://scp-wiki.wdfiles.com/local--files/fragment%3Ascp-6500-12/LockBroken.png]]
 @@ @@
@@ -139,39 +164,55 @@ O5議會#X-2737B會議後，時間異常部即時向行政人員通報了一個�
 + //選擇你的道路//
 [[/=]]
 @@ @@
-[[div class="cards"]]
-[[div class="graybox" style="filter: opacity(0.3); width: 50%;"]]
-[[div class="cards"]]
-[[f=image https://i.imgur.com/ODYqAnz.png width="180px"]]
-[[f=image https://i.imgur.com/SUgdvNC.png width="180px"]]
+
+[[div class="cards main" style="width: 100%; margin-bottom: 1em;"]]
+[[f=image https://scp-wiki.wdfiles.com/local--files/fragment%3Ascp-6500-2/warlockcard.png width="100%"]]
+[[f=image https://scp-wiki.wdfiles.com/local--files/fragment%3Ascp-6500-2/reliquarianscard.png width="100%"]]
+[[f=image https://scp-wiki.wdfiles.com/local--files/fragment%3Ascp-6500-2/voyagercard.png link="https://scp-wiki.wikidot.com/scp-6500/offset/15" width="100%"]]
+[[f=image https://scp-wiki.wdfiles.com/local--files/fragment%3Ascp-6500-2/emmissarycard.png link="https://scp-wiki.wikidot.com/scp-6500/offset/16" width="100%"]]
 [[/div]]
-[[div height="5px"]]
-[[/div]]
+
+
+[[<]]
+[[div class="cards tabs" style="width: 100%;"]]
+[[div style="width: 50%; min-width: 300px; margin: 2px;"]]
+
 [[tabview]]
 [[tab 僅限時間部門]]
+[[div class="modal table0"]]
 = **{{[/scp-6500/offset/12 鎖定]}}**
+[[/div]]
 [[/tab]]
 [[/tabview]]
 [[/div]]
-[[div style="width: 50%;"]]
-[[div class="cards"]]
-[[f=image https://i.imgur.com/3Y5HzCK.png link="https://scp-zh-tr.wikidot.com/scp-6500/offset/15" width="180px"]]
-[[f=image https://i.imgur.com/I7yLWQ8.png link="https://scp-zh-tr.wikidot.com/scp-6500/offset/16" width="180px"]]
-[[/div]]
-[[div height="5px"]]
-[[/div]]
+
+
+[[div style="width: 50%; min-width: 300px; margin: 2px;"]]
 [[tabview]]
 [[tab 旅行者]]
-= 一個不朽的特工嘗試修復她的跳表，她必須進行一次迷失方向的旅途；成為不同世界的見證者，無論是好是壞。
+
+[[div class="modal table6"]]
+[[span class="bt"]]一個不朽的特工[[/span]]嘗試修復她的跳表，她必須進行一次迷失方向的旅途；成為不同世界的見證者，無論是好是壞。
+[[/div]]
+
 [[/tab]]
+
 [[tab 出使者]]
-= 一群曾經的對手、傑出的思想家與異常世界代表齊聚一堂，討論曾經強大的基金會該如何塑造未來。
+
+[[div class="modal"]]
+[[span class="bt"]]一群曾經的對手、傑出的思想家[[/span]]與異常世界代表齊聚一堂，討論曾經強大的基金會該如何塑造未來。
+[[/div]]
+
 [[/tab]]
+
 [[/tabview]]
 [[/div]]
 [[/div]]
+[[/<]]
+
+
 ----
-[[div class="blockquote"]]
+[[div class="notation"]]
 = {{已驗證臨時憑證。歡迎，特工。}}
 [[/div]]
 

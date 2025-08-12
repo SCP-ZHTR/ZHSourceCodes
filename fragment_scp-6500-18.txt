@@ -1,62 +1,14 @@
-[[div style="display: none;"]]
-[[include :scp-zh-tr:theme:placestyle]]
-[[/div]]
-[[include :scp-zh-tr:component:fade-in speed=1]]
+[[include :scp-wiki:theme:foxtrot
+overwatch=a|
+dark=a|
+hidetitle=a]]
+[[include :scp-wiki:component:fade-in speed=1]]
 
 [[module css]]
-body {
-    background-image: linear-gradient(
-        to bottom,
-        #FFD700, #2F333C 200px,
-        #2F333C 200px, #2F333C 100%);
-}
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,800;1,800&display=swap');
 
 :root {
-  --header-title: "監督者";
-  --header-subtitle: "犧牲 賦予 權力";
-  --lgurl: url('https://scp-wiki.wdfiles.com/local--files/fragment%3Ascp-6500-2/overwatchheader.svg');
-  --accentColor: #FFD700;
-}
-
-div#extra-div-1 {
-    filter: brightness(100%);
-    height: 100px;
-    margin-top: 30px;
-}
-
-#header h1 a::before {
-    color: transparent;
-}
-
-#header h2::before {
-    color: transparent;
-}
-
-.fancyborder {
-    border-radius: 5rem;
-}
-
-@media (max-width: 706px) {
-    .fancyborder {
-        border-radius: 1rem;
-    }
-}
-
-#login-status {
-    color: #21252E;
-}
-#login-status a {
-    color: #21252E;
-}
-#login-status ul a {
-    color: #ededed;
-    background: #21252E;
-}
-#login-status ul a:hover {
-    color: #21252E;
-}
-#account-topbutton{
-    border: solid 1px #21252E;
+  --head-font: 'Monserrat', sans-serif;
 }
 
 .collapsible-block-content { position: relative; }
@@ -82,12 +34,11 @@ div#extra-div-1 {
     top: -4rem;
 }
 [[/module]]
-[[include :scp-sandbox2-zh:draft:no-return-header eye-colour=fed700]]
 
-[[div style="height: 10px;"]]
-[[/div]]
 
-[[div class="darkbox"]]
+@@ @@
+
+[[div class="notation"]]
 [[=]]
 + 十字路
 [[/=]]
@@ -99,8 +50,8 @@ div#extra-div-1 {
 
 然而，這個新時間線已經證明了她的肯定並無根據。沒有跡象表明任何一條時間線的健康與穩定性下降了，時間流似乎也不肯崩潰到任何一種狀態。正因為這個難題，她現在坐在辦公室裡，撥開散亂的頭髮，露出帶有血絲的雙眼，盯著辦公桌上的終端。她瀏覽著自己目前所寫的內容，選取後按下了//Backspace//，隨後哼了一聲。//回到了畫板前。//她仔細地重新閱讀了頭一份回收的文件，仍然對這種外來的格式與之背後更多外來情感震驚不已。
 
-[[div style="border:solid 1px #999999; background:#D0DFF4; padding-left: 16px; padding-right: 16px;margin-bottom: 16px;"]]
 
+[[div class="notation table2"]]
 [[=image https://scp-wiki.wikidot.com/local--files/grigori-karpin-s-author-page/vanguard%20transparent.png width="100px" height="100px"]]
 
 [[div class="tableb"]]
@@ -125,11 +76,13 @@ div#extra-div-1 {
 
 儘管如此，嘗試就是領航者的責任，也是最重要的目的。
 [[/div]]
+
+
+[[div class="notation" style="border: none;"]]
+她微笑著。無論如何，她是一個樂觀的女人，但她也認為這是個艱鉅的任務。她想了一會，然後開始書寫。
 [[/div]]
 
-她微笑著。無論如何，她是一個樂觀的女人，但她也認為這是個艱鉅的任務。她想了一會，然後開始書寫。
-
-[[div class="lightbox" style="padding: 20px;"]]
+[[div class="paper"]]
 
 在樞紐之前，我們的處境很艱難。SCP基金會有數百萬計的移動部件，我們為保持它們運作而制定了有效的方式。它們做得好嗎？有些是好，但不是全部。它們是否付出了代價？肯定有。甚至在我們意識到自己就是這起災難的主因前，我們就知道自己的所作所為並非永久之計。無論如何，我們還是繼續做下去，希望會有些理想的解決方案出現，所以我們繼續保持下去。TL-001-VG的O5議會，邁開了真正激進的一步，他們解散了基金會，把我們的整套//權宜之計//擺到一邊去，希望藉此找到更好的方法。這很勇敢，但也風險巨大。保護世界令基金會的資源負擔達到極限，有時只有最嚴厲的措施才能讓我們腦袋浮出水面來。我們可能同時擁有安全//與//自由嗎？這整條時間線都是對這個問題的測試實例。
 
@@ -137,9 +90,12 @@ div#extra-div-1 {
 
 [[/div]]
 
+[[div class="notation" style="border: none;"]]
 這感覺真糟糕，//相當//糟糕，但是當她完成後，她發現自己仍在微笑。「改變，」她高聲說道。領航者時間線用這個簡單有力的詞彙就能概括。她打開第二個文件，收起了笑容。
+[[/div]]
 
-[[div class="darkbox"]]
+
+[[div class="notation"]]
 [[include :scp-zh-tr:component:advanced-information-methodology blocks=-
 |XXXX=6500
 |lv=one
@@ -184,11 +140,14 @@ div#extra-div-1 {
 SCP-6500的起源未知。反對基金會的相關組織參與了虛假宣傳活動，將我等的行為描繪成事件導火索；沒有證據能支持前述說法。
 [[/div]]
 
+
+[[div class="notation" style="border: none;"]]
 她扮了個鬼臉。一條是天馬行空狂想家的時間線，一條是滿口謊言的時間線。最後一段話的傲慢令她頭暈目眩；她無法想像基金會薪資單上的所有人這麼蠢，蠢到相信自己與終局毫無關係。從她第一次聽到有關收容就是問題本身的流言起，她就知道這是真的。都這時候了還不相信的傢伙，不是洗腦洗到壞掉了，就是麻木不仁透了。
 
 還有......
+[[/div]]
 
-[[div class="lightbox" style="padding: 20px;"]]
+[[div class="paper"]]
 
 行政提案6500-Ω的投票有兩個選項，而且都不是真正的不作為承諾。我有充分的理由相信權宜之計將__暫時地__有效控制Finis級事件的影響。在危機後期回收的四件造物似乎終結了大規模的凋亡與消滅，並為異常世界恢復了某種模糊的平衡。然而，沒有理由相信這些行動除了將明確的解決方案推遲到更之後，還能做到什麼事情。儘管基金會毫髮無損，但還是從陰影中被拖出來了，進入了類似光明的地方。TL-001-TH的各個關注組織都充分意識到基金會的共謀行為，這讓他們不怎麼高興，隨著不作為變得越發不可容忍，日常工作會變得更加困難。
 
