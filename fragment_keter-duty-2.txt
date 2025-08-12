@@ -1,22 +1,15 @@
-[[div style="display: none;"]]
-[[include :scp-wiki:theme:placestyle]]
-[[include :scp-zh-tr:component:fade-in speed=1]]
-[[/div]]
-
+[[include :scp-wiki:theme:foxtrot
+dark=a|
+hidetitle=a]]
 
 [[module css]]
+ @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,800;1,800&display=swap');
 
 :root {
   --header-title: "SITE-001";
   --header-subtitle: "永續同步收容";
-  --lgurl: url(http://scp-sandbox-3.wdfiles.com/local--files/collab%3Aihp/scp-logo.svg);
-  --accentColor: #ff2244;
-}
-
-div#extra-div-1 {
-    height: 160px;
-    padding-top: 10px;
-    filter: invert(1) opacity(0.2);
+  --accent: var(--five-color);
+  --head-font: 'Monserrat';
 }
 
 a[href*="/scp-2718"]::after {
@@ -24,7 +17,11 @@ a[href*="/scp-2718"]::after {
     animation-name: death;
     animation-duration: 2.2s;
     animation-iteration-count: infinite;
+    display: inline-block;
+    width: 2.25rem;
+    overflow-wrap: initial;
 }
+
 @keyframes death {
   0%   {content: "1#12";}
   10%  {content: "07!2";}
@@ -37,6 +34,57 @@ a[href*="/scp-2718"]::after {
   80% {content: "1718";}
   90% {content: "1712";}
   100%   {content: "1#12";}
+}
+
+.grid-table {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1.5fr;
+    align-items: stretch;
+    border: solid 0.5px rgb(var(--accent));
+}
+
+.grid-table > * {
+    display: flex;
+    flex-direction: column;
+    border: solid 0.5px rgb(var(--accent));
+    background-color: #21252E;
+    color: #EDEDED;
+    padding: 0.625em;
+    justify-content: center;
+}
+
+.grid-table > .title {
+    color: #21252E;
+    background-color: rgb(var(--accent));
+    padding: 0;
+    font-weight: bold;
+    text-align: center;
+}
+
+@media screen and (max-width: 620px) {
+    .grid-table {
+        grid-template-columns: 1fr 1fr;
+        border: none;
+    }
+    .grid-table > .title { display: none; }
+    .grid-table > * { justify-content: start; }
+    .grid-table > *:nth-child(3n-2) { border-width: 1px 0.5px 0.5px 1px; }
+    .grid-table > *:nth-child(3n-1) { border-width: 1px 1px 0.5px 0.5px; }
+    .grid-table > *:nth-child(3n) {
+        grid-column: span 2;
+        margin-bottom: 1.25rem;
+        border-width: 0.5px 1px 1px;
+     }
+    .grid-table > *:nth-child(3n-2)::before, .grid-table > *:nth-child(3n-1)::before {
+        content: "SCP";
+        display: block;
+        color: #21252E;
+        background-color: rgb(var(--accent));
+        text-align: center;
+        font-weight: bold;
+        padding: 0.5em;
+    }
+    .grid-table > *:nth-child(3n-1)::before { content: "001-K"; }
 }
 [[/module]]
 
@@ -143,8 +191,14 @@ SCP-001的大廳被分成數百個，獨一無二的收容區域，每一區域�
 
 儘管該項目已處於基金會轄下有一個世紀之久，SCP-001的核心區域直至近來才為一支探險隊所發掘。回收文件包含有對收容室內容物的簡報，以及一份致基金會[[span class="ruby"]]管理員[[span class="rt"]]Administrator[[/span]][[/span]]的公文。此後，倖存的探險隊員已自此任務中解職，以表彰其對此所做出的奉獻。
 
-[[collapsible show="需有6級許可權限" hide="訪問獲准。歡迎，新任的管理員。"]]
+@@ @@
 
+[[=]]
+[[div class="default-col"]]
+[[collapsible show="需有6級許可權限" hide="訪問獲准。歡迎，新任的管理員。"]]
+[[<]]
+
+@@ @@
 
 ||||~ 核心內容項目||~ 收容方式||
 ||代號：LOCKE - 如若太陽奇點發生時地球所處的狀態，將使所有有機生命變成半液體狀，並得到永生。||代號：LILY - 所有生命終止前的那一天，地球所處的狀態，繁花將於地球表面上的大多數地方綻放。該事件的特點在於其向所有智慧生命傳達了對此天命的完全理解，並於最後的幾小時內停止了近乎所有於人類之中所發生的暴力事件。||//面對那樣的絕望，我們該怎麼做呢？緊抓著我們那扭曲的性命，將一切珍貴且摯愛的事物曲解成那些令人髮指的暴行嗎？// _
@@ -166,4 +220,9 @@ SCP-001的大廳被分成數百個，獨一無二的收容區域，每一區域�
 > //這一切都將變得更好。我們再次擁有了同情心，而他們近來又重新點燃了太陽。如果你孤身一人，並且聽到了相嘯那般的聲響，請將你的頭低下。他們的犧牲將會得到兌現的。//
 
 
+[[/<]]
 [[/collapsible]]
+[[/div]]
+[[/=]]
+
+@@ @@
