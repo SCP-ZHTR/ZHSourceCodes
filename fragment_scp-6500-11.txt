@@ -1,52 +1,32 @@
-[[div style="display: none;"]]
-[[include :scp-zh-tr:theme:placestyle]]
-[[/div]]
-[[include :scp-zh-tr:component:fade-in speed=1]]
+[[include :scp-wiki:theme:foxtrot
+overwatch=a|
+dark=a|
+wide=a|
+hidetitle=a]]
 
 [[module css]]
-body {
-    background-image: linear-gradient(
-        to bottom,
-        #FFD700, #2F333C 200px,
-        #2F333C 200px, #2F333C 100%);
-}
-
 :root {
-  --header-title: "監督者";
-  --header-subtitle: "犧牲 賦予 權力";
-   --lgurl: url('https://scp-wiki.wdfiles.com/local--files/fragment%3Ascp-6500-2/overwatchheader.svg');
-  --accentColor: #FFD700;
-}
-
-div#extra-div-1 {
-    filter: brightness(100%);
-    height: 100px;
-    margin-top: 30px;
-}
-#header h1 a::before {
-    color: transparent;
-}
-#header h2::before {
-    color: transparent;
-}
-
-.bt {
-    filter: none;
+  --head-font: var(--ui-font);
 }
 
 .twobutton {
     position: relative;
     width: 100%;
+    font-family: var(--mono-font);
     font-weight: bold;
+    --base-font-size: 1.7rem !important;
 }
+
 .cony {
     width: 100%;
-    --accentColor: #5c3;
+    --accent: 175, 175, 175;
+    --link-txt-color: 175, 175, 175;
 }
 
 .cony2 {
     width: 100%;
-    --accentColor: #ddcfee;
+    --accent: var(--one-color);
+    --link-txt-color: var(--one-color);
 }
 
 .collapsible-block-content { position: relative; }
@@ -56,10 +36,10 @@ div#extra-div-1 {
     content: " ";
     width: 100%;
     height: 4rem;
-    background-color: #21252E;
+    background-color: var(--dark-bg-1);
     bottom: -4rem;
 }
-.cony2 .collapsible-block-unfolded { transform: translateY(-2.64rem); }
+.cony2 .collapsible-block-unfolded { transform: translateY(-3rem); }
 
 .cony .collapsible-block-content::before, .cony2 .collapsible-block-content::before {
     display: block;
@@ -67,32 +47,11 @@ div#extra-div-1 {
     content: " ";
     width: 100%;
     height: 4rem;
-    background-color: #21252E;
+    background-color: var(--dark-bg-1);
     top: -4rem;
 }
 
-#login-status {
-    color: #21252E;
-}
-#login-status a {
-    color: #21252E;
-}
-#login-status ul a {
-    color: #ededed;
-    background: #21252E;
-}
-#login-status ul a:hover {
-    color: #21252E;
-}
-#account-topbutton{
-    border: solid 1px #21252E;
-}
-
-#page-content .image-container {
-    padding: 0;
-}
 [[/module]]
-[[include :scp-sandbox2-zh:draft:no-return-header eye-colour=fed700]]
 
 @@ @@
 [[=]]
@@ -108,7 +67,8 @@ div#extra-div-1 {
 @@ @@
 [[=image https://i.imgur.com/zNpYxbP.png width="100%" style="margin-left: -100px; margin-right: -100px;"]]
 @@ @@
-[[div class="darkbox"]]
+
+[[div class="notation"]]
 [[=]]
 + 失勢者的安魂曲
 [[/=]]
@@ -138,7 +98,7 @@ O5-1伸手向前，拿起了基金會提供的工作平板電腦和觸控筆。�
 
 「作為現任基金會主席」 O5-1誦讀道，「我確認上述內容並開始O5議會#X-2737B會議。」他的聲音與O5-2的相似度表明了他是個多無聊的人；音節序列有如預先錄製好的單調。「我們的第一項行程是要求審查內部司法部門的判決結果。」隨著他繼續說了下去，你看向了自己的工作平板電腦。
 
-[[div class="lightbox" style="padding: 20px;"]]
+[[div class="paper"]]
 @@ @@
 [[=image http://scp-ru.wdfiles.com/local--files/they/%D0%A2%D1%80%D0%B8%D0%B1%D1%83%D0%BD%D0%B0%D0%BB.png width="200px"]]
 ᅠ
@@ -172,6 +132,8 @@ O5-1伸手向前，拿起了基金會提供的工作平板電腦和觸控筆。�
 法源於ITD法典。
 [[/div]]
 
+
+[[div class="notation" style="border: none;"]]
 你並非唯一瞪大雙眼看文件的人。議會在事件發生後不久便獲悉了這一事件及其肇事者，但並未告知其原因或方式。一長串的指控並不是什麼罕見之事，不過被告身分不明的狀況就非常稀少了。
 
 「主犯持有特殊的異常能力與增強的體能，其秘密潛入基金會設施並偽裝成一名高級研究員，藉由提交項目提案以奪取SCP-6500-α-Staff。並透過後者以強奪剩餘的SCP-6500-α元素，藉此迫使基金會解體。」你再度感到訝異，因為O5-1似乎對這最後一句話的嚴重性感到不以為然。
@@ -299,13 +261,20 @@ O5-1看向他的監督者夥伴，並在深呼吸後拿起了工作平板電腦�
 一個接一個，按照投票順序，每個監督者(除了二以外)都拿起了自己的平板電腦。一和二的投票很快就出現了，三和四也是如此。你看著五號痛苦的表情，直到他的抉擇顯示出來為止。投票就這樣繼續下去，每一個抉擇都使你的輪次更加逼近。你重新審視自己的邏輯，並考慮其他的觀點；你如此專心於思考，以至於當十二也完成投票時，你嚇了一跳，只剩下你從未發表意見了。
 
 肩負世界的重擔 —— 基金會的阿特拉斯 —— 你望向自己的工作平板電腦。
+[[/div]]
 @@ @@
 [[div class="blockquote" style="font-family: Fira Code; font-size: 105%;"]]
 = [[size 120%]]__行政提案6500-Ω__[[/size]]
 
 **提案：**
+[[div class="jotting"]]
 @@ @@
-@@     @@「//解散當前形式的基金會，結束對異常的控制與收容，以及任何其他被觀察到會破壞已知與未知異常和魔法現象的作為。開始塑造一個能夠與異常社群建立聯繫的新組織，確保他們得以延續與繁榮。//」(O5-0)
+* 解散當前形式的基金會，結束對異常的控制與收容，以及任何其他被觀察到會破壞已知與未知異常和魔法現象的作為。
+* 開始塑造一個能夠與異常社群建立聯繫的新組織，確保他們得以延續與繁榮。
+[[>]]
+-- O5-0
+[[/>]]
+[[/div]]
 @@ @@
 = 議會投票紀要：
 ||~ 贊成  ||~ 反對  ||~ 棄權 ||
@@ -332,6 +301,7 @@ O5-1看向他的監督者夥伴，並在深呼吸後拿起了工作平板電腦�
 [[span class="bt"]]__在下方提交您的投票。所有投票將會是最終結果。__[[/span]]
 [[/=]]
 @@ @@
+[[=]]
 [[div class="twobutton"]]
 [[div class="cony"]]
 [[collapsible show="贊成" hide="贊成"]]
@@ -362,6 +332,7 @@ O5-1看向他的監督者夥伴，並在深呼吸後拿起了工作平板電腦�
 [[/collapsible]]
 [[/div]]
 [[/div]]
+[[/=]]
 @@ @@
 [[/div]]
 @@ @@
