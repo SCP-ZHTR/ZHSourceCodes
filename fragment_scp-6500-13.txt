@@ -6,36 +6,28 @@ hidetitle=a]]
 [[include :scp-wiki:component:fade-in speed=1]]
 
 [[module css]]
-body {
-    background-image: linear-gradient(
-        to bottom,
-        #ddcfee, #2F333C 200px,
-        #2F333C 200px, #2F333C 100%);
-}
+@import url('https://fonts.googleapis.com/css2?family=Courgette&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,800;1,800&display=swap');
 
 :root {
-  --header-title: "臨界者";
-  --header-subtitle: "支撐 保存 延續";
-  --lgurl: url('https://scp-wiki.wdfiles.com/local--files/fragment%3Ascp-6500-13/overwatchheaderthreshold.svg');
-  --accentColor: #ddcfee;
+  --head-font: 'Monserrat', sans-serif;
+  
+  --link-txt-color: rgb(var(--accent)) !important;
+  --one-color: var(--accent);
 }
 
-div#extra-div-1 {
-    filter: brightness(100%);
-    height: 100px;
-    margin-top: 30px;
+.fancyhr,
+.fancyborder {
+  filter: grayscale(1);
 }
 
-#header h1 a::before {
-    color: transparent;
+#page-content .table0 {
+  --accent: 175, 175, 175;
+  --link-txt-color: rgb(175, 175, 175);
 }
 
-#header h2::before {
-    color: transparent;
-}
-
-.bt {
-    filter: none;
+#page-content .bt {
+  color: rgb(var(--accent));
 }
 
 @keyframes rotation {
@@ -47,69 +39,96 @@ div#extra-div-1 {
   }
 }
 
-.no {
-    font-size: 125%;
+#page-content tr th {
+  text-align: center !important;
 }
 
-.no:hover {
-    filter: opacity(0.5);
-    cursor: not-allowed;
-}
-
-#login-status {
-    color: #21252E;
-}
-#login-status a {
-    color: #21252E;
-}
-#login-status ul a {
-    color: #ededed;
-    background: #21252E;
-}
-#login-status ul a:hover {
-    color: #21252E;
-}
-#account-topbutton{
-    border: solid 1px #21252E;
-}
-
-.fancyborder {
-    border-radius: 5rem;
+:is(.fancyborder) {
+  border-radius: 4vb;
 }
 
 .fancyborder .fnnum::after {
-    color: #000;
-}
-
-@media (max-width: 706px) {
-    .fancyborder {
-        border-radius: 1rem;
-    }
+  border-bottom: 1px solid var(--dark-bg-1);
 }
 
 .cards {
-    display: flex;
-    flex-wrap: nowrap;
-    justify-content: center;
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: center;
 }
 
-.cards > .image-container {
-    padding: 1px;
+.cards > div {
+  margin: -12px;
 }
 
-.yui-navset {
-    margin: 1%;
+.cards a {
+  border-bottom: none !important;
 }
 
-.greenbox {
-    --accentColor: #4b2;
+.cards a:hover,
+.cards a::selection {
+  background-color: rgb(var(--accent));
 }
 
-.fancyhr {
-    filter: grayscale(80%) hue-rotate(240deg);
+.cards.main > :is(:nth-child(3), :nth-child(4)) {
+  --accent: var(--one-color);
+  filter: opacity(.33);
+  cursor: not-allowed;
+  color: transparent !important;
+  background-color: transparent !important;
+}
+
+.cards.tabs > div:nth-child(2) {
+  --accent: var(--one-color);
+  filter: opacity(.33);
+  cursor: not-allowed;
+}
+
+@media (max-width: 767px) {
+  .cards.tabs > div:nth-child(2) {
+    display: none;
+  }
+}
+
+.cards.tabs > div:nth-child(1) .yui-navset .yui-nav li {
+  width: 50%;
+}
+
+.cards.main > :nth-child(1),
+.cards.tabs > div:nth-child(1) :is(.yui-navset .yui-nav li:nth-of-type(1), .yui-content > :nth-of-type(1) *) {
+  --accent: 0, 150, 150 !important;
+}
+.cards.main > :nth-child(2),
+.cards.tabs > div:nth-child(1) :is(.yui-navset .yui-nav li:nth-of-type(2), .yui-content > :nth-of-type(2) *) {
+  --accent: 150, 0, 0 !important;
+}
+
+.yui-navset .yui-nav {
+  border: none !important;
+}
+
+.yui-navset .yui-nav li {
+  min-width: 25%;
+}
+
+.yui-navset .yui-content {
+  background: none !important;
+  margin-top: -1px;
+  padding: 0;
+}
+
+.yui-navset .yui-content > div {
+  background: none !important;
+  padding: 0;
+  margin: 0;
+}
+
+.yui-navset .yui-content .modal {
+  width: auto;
+  margin: auto;
 }
 [[/module]]
-[[include :scp-sandbox2-zh:draft:no-return-header eye-colour=f3e4ff]]
+[[include :scp-sandbox2-zh:draft:no-return-header |eye-colour=f3e4ff |three-section= a |header-text=臨界者 |subheader-text=支撐 保存 延續]]
 
 = [[span class="bt"]]__附錄 II：__[[/span]] 時間線觀測
 
