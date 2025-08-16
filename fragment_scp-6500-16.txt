@@ -1,119 +1,11 @@
-[[div style="display: none;"]]
-[[include theme:placestyle]]
-[[/div]]
+[[include :scp-zh-tr:theme:foxtrot
+vanguard=a|
+dark=a|
+hidetitle=a]]
 
 [[module css]]
 :root:lang(zh) {
-    --header-title: "領航者";
-    --header-subtitle: "庇護 - 常態 - 告知";
-    --timeScale: 1;
-    --timeDelay: 1.5s;
-    --accentColor: #b8f;
-}
-
-div#extra-div-1 {
-    height: 170px;
-    margin-top: -15px;
-    background-image: url('https://i.imgur.com/tslbdWm.png');
-    left: -10.75rem;
-    filter: brightness(135%) saturate(120%);
-}
-
-#header {
-    padding-bottom: 30px;
-}
-
-#header #top-bar {
-    top: 14em;
-}
-
-#header #top-bar ul {
-    border-radius: 50px;
-    border: 0px transparent solid;
-    background: var(--accentColor);
-    padding-left: 10px;
-    padding-right: 10px;
-}
-
-#header #top-bar a {
-    color: #223;
-    background: var(--accentColor);
-    font-weight: bold;
-}
-
-#header #top-bar ul li ul {
-    padding: 0px;
-    border-radius: 0px;
-}
-
-#header h1 {
-    position: inherit;
-    right: -1.7em;
-}
-
-#header h1 a::before {
-    color: #dc6;
-    font-size: 1.36em;
-    box-shadow: 0 -8px #dc6 inset;
-    background: -webkit-linear-gradient(#ffd, #dc6);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-}
-
-#header h2 {
-    position: inherit;
-    right: -3.25em;
-    top: 1.5em;
-}
-
-#header h2::before {
-    background: -webkit-linear-gradient(#ffd, #889);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    font-size: 1.42em;
-    letter-spacing: 1px;
-}
-
-@media (max-width: 767px) {
-    div#extra-div-1 {
-        left: -7.5rem;
-    }
-
-    #header {
-        padding-bottom: 25px;
-    }
-
-    #header h1 {
-        right: -1.75em;
-    }
-
-    #header h1 a::before {
-        font-size: 1.8em;
-        box-shadow: 0 -6px #ed4 inset;
-    }
-
-    #header h2 {
-        top: 0.5em;
-        right: -3.25em;
-    }
-
-    #header h2::before {
-        font-size: 1em;
-        letter-spacing: 1px;
-    }
-
-    #header #top-bar {
-        top: 11.5em;
-    }
-}
-
-#page-content {
-    padding-top: 2em;
-    margin-top: 0.5em;
-}
-
-.lush {
-    --accentColor: #5c3;
+  --accent: var(--six-color);
 }
 
 .page {
@@ -149,7 +41,7 @@ div#extra-div-1 {
 
 > [[span class="bt"]]__備忘：__[[/span]]根據現場報告的標準程序，以下時空紀錄之事件將按時間順序呈現。該紀錄不應與[[span class="bt"]]第六太陽協議[[/span]]規範之敘事方式有所衝突。
 
-[[div class="darkbox"]]
+[[div class="notation"]]
 [[=]]
 ++ 1970/01/01
 ++ ##ddcfee|紐約州，紐約市##
@@ -200,7 +92,7 @@ Ilse困惑地向未來的自己眨眼，伴隨著遷躍螢幕開始關閉，她�
 @@ @@
 = //**誰是Lys？**//
 @@ @@
-[[div class="darkbox"]]
+[[div class="notation"]]
 [[=]]
 + ##ddcfee|觀測## / ##5c3|見證##
 ----
@@ -214,7 +106,8 @@ Ilse在一陣明亮的藍色閃光中現身，並在一陣咳嗽後倒地。她�
 一位年輕而消瘦的William Wettle博士，他走出了在站點叉路的地鐵站，在短暫的步行後回到了車上好取回車內的東西。在他頭上42公尺處，有盆矮牽牛花也在一陣藍光中顯現。沉重的陶瓷在朝地面翻滾時獲得了巨大動力；它沒有砸中人，而是選擇撞碎了一輛破舊棕褐色轎車的擋風玻璃，而車主便是那位髮色近似的笨拙丑角。在一陣沉重的嘆息後，他拿起一根菸，但強風卻讓他沒法將其點燃。//「幹。」//
 
 花盆的破碎殘骸很快就消失了。
-[[div class="darkbox"]]
+
+[[div class="notation"]]
 [[=]]
 ++ 2020/11/23
 [[/=]]
@@ -228,8 +121,8 @@ Ilse在一陣明亮的藍色閃光中現身，並在一陣咳嗽後倒地。她�
 
 Place邊笑邊強忍著不要出聲。「你剛剛說什麼？」
 
-[[div class="lush"]]
-[[div class="darkbox"]]
+[[div class="table1"]]
+[[div class="notation"]]
 [[=]]
 ++ 2021/04/01
 ++ ##5c3|安大略省，伊帕瓦什公園##
@@ -273,7 +166,7 @@ Ilse微笑著，並示意她絕對別再說下去了。「妳會發現自己還�
 Ilse對自己眨眨眼，然後消失在黯淡的藍色光輝中。
 [[/div]]
 
-[[div class="darkbox"]]
+[[div class="notation"]]
 [[=]]
 ++ N/A
 ++ [*/welcome-to-delta-t RCT-Δt]
@@ -310,7 +203,7 @@ Ilse挑眉。「搖搖晃晃？」Marcus點點頭，他瞪大的雙眼顯明了�
 
 這是Marcus最後一次看見他的矮牽牛花。
 
-[[div class="darkbox"]]
+[[div class="notation"]]
 [[=]]
 ++ 2034/01/06
 ++ ##ddcfee|威斯康辛州，斯洛斯皮特##
@@ -336,8 +229,8 @@ Ilse將這令人頭疼的自我參考項目從記事本上劃掉後才鬆了口�
 
 她本該去拜訪一下自己的。
 
-[[div class="lush"]]
-[[div class="darkbox"]]
+[[div class="table1"]]
+[[div class="notation"]]
 [[=]]
 ++ 2099/06/24
 ++ ##5c3|安大略省，伊帕瓦什公園##
@@ -369,7 +262,7 @@ Ilse的錶給出的時間與地點都沒有錯誤，但這不知何故的故障�
 她加緊腳步的來到走廊上，呼吸也變急促了。//拜託，Wettle，拜託......//她默默地懇求著，抵達他敞開的辦公室門前。
 她推了門進到室內，走向他的辦公桌，拉出中間的抽屜，她在裡頭找到一盒半空的香菸時才鬆了一口氣。她不喜歡抽菸，但這種情況下......
 
-[[div class="darkbox"]]
+[[div class="notation"]]
 [[=image https://scp-wiki.wikidot.com/local--files/grigori-karpin-s-author-page/vanguard%20transparent.png width="120px"]]
 
 [[include component:image-block
@@ -414,7 +307,7 @@ Ilse不知道自己坐了多久，在眼淚止息前，她看著文件一遍又�
 
 她哼了一聲，點開了下一個文件。
 
-[[div class="darkbox"]]
+[[div class="notation"]]
 [[=image https://scp-wiki.wikidot.com/local--files/grigori-karpin-s-author-page/vanguard%20transparent.png width="120px"]]
 
 [[span class="bt"]]__項目編號：__[[/span]] VNP-O5-2
@@ -434,7 +327,7 @@ Reynders主任，一位擁有16個完整學位的人，不知何故完全忘記�
 
 她恰好知道自己何時何地會遇上另一個自己。
 
-[[div class="darkbox"]]
+[[div class="notation"]]
 [[=]]
 ++ ##5c3|WP-15，加利福尼亞##
 [[/=]]
@@ -539,7 +432,7 @@ Ilse低頭盯著自己的鞋子好一會兒，然後看向了手錶「你準備�
 世界變得黑暗。
 [[/div]]
 
-[[div class="darkbox"]]
+[[div class="notation"]]
 [[=]]
 ++ N/A + 6小時
 ++ [*/welcome-to-delta-t RCT-Δt]

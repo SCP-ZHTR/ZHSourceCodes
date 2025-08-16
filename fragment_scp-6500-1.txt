@@ -32,10 +32,10 @@
 @@ @@
 [[/div]]
 @@ @@
+[[=]]
 [[collapsible show="開始儀式" hide="第六太陽的反思"]]
 @@ @@
 [[div class="fancyborder" style="background-image: url(https://scp-wiki.wdfiles.com/local--files/scp-5862/paperbackground.jpg); color: #000; font-size: 150%; font-weight: bold; font-family: courgette;"]]
-[[=]]
 @@ @@
 //我即為劍，我即為盾//
 //我即為不屈之臂膀//
@@ -72,7 +72,7 @@
 
 //我等永不落下//
 @@ @@
-[[/=]]
+
 [[/div]]
 @@ @@
 [[div style="font-size: 200%;"]]
@@ -80,6 +80,7 @@
 = [http://scp-zh-tr.wikidot.com/scp-6500/offset/1 加緊腳步，持續前行。]
 [[/div]]
 [[/collapsible]]
+[[/=]]
 @@ @@
 [[div_ class="fancyhr"]]
 ----
