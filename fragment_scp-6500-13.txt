@@ -1,6 +1,8 @@
-[[div style="display: none;"]]
-[[include :scp-wiki:theme:placestyle]]
-[[/div]]
+[[include :scp-wiki:theme:foxtrot
+threshold=a|
+dark=a|
+wide=a|
+hidetitle=a]]
 [[include :scp-wiki:component:fade-in speed=1]]
 
 [[module css]]

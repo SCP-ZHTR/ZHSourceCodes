@@ -1,7 +1,6 @@
 [[include :scp-zh-tr:theme:foxtrot overwatch=a|dark=a|wide=a|hidetitle=a]]
 [[include :scp-zh-tr:component:fade-in speed=1]]
-[[include :scp-sandbox2-zh:draft:no-return-header |eye-colour=fed700 |header-text=監督者 |subheader-text=犧牲賦予權力]]
-
+[[include :scp-sandbox2-zh:draft:no-return-header |eye-colour=fed700 |three-section= |header-text=監督者 |subheader-text=犧牲賦予權力]]
 [[module css]]
 @import url('https://fonts.googleapis.com/css2?family=Courgette&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Courgette&display=swap');
