@@ -29,8 +29,8 @@
      --header-title: "SITE-37";
      --header-subtitle: "新的，更糟的麻煩。";
      --accent: 151, 206, 142;
-     --logo-img: url(https://scp-zh-tr.wdfiles.com/local--files/the-appliance-war-hub/37NONUMBERSVG.svg);
---link-txt-color: #64AF45;
+     --link-txt-color: #64AF45;
+     --logo-img: url(https://scp-wiki.wdfiles.com/local--files/the-appliance-war-hub/37NONUMBERSVG.svg);
 }
 [[/module]]
 
