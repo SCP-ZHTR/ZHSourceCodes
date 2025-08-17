@@ -1,0 +1,715 @@
+[[include component:scp-meta-title-hiding]]
+
+[[include info:start]]
+原文：[https://scp-wiki.wikidot.com/scp-7639 <SCP-7639>]
+作者：[[*user ThatGuyThatTime]]
+譯者：[[*user colorful penguin]]
+校對者：[[*user AbyssDream]]
+[[include info:end]]
+
+[[include :scp-wiki:component:wide-image-sizer]]
+
+[[module CSS]]
+.email-example .collapsible-block-folded a.collapsible-block-link {
+    animation: blink 0.8s ease-in-out infinite alternate;
+}
+@keyframes blink {
+    0% { color: transparent; }
+    50%, 100% { color: #b01; }
+}
+.email {border: solid 2px #000000; width: 88%; padding: 1px 15px; margin: 10px; box-shadow: 0 1px 3px rgba(0,0,0,.5)}
+.email-example a.collapsible-block-link {font-weight: bold;}
+.tofrom {margin-left: 10px; margin-top: 5px; padding: 1px 15px; border-left: solid 3px maroon}
+[[/module]]
+
+
+[[include :scp-zh-tr:theme:foxtrot wide=a]]
+[[module CSS]]
+:root:lang(zh) {
+     --header-title: "SITE-37";
+     --header-subtitle: "新的，更糟的麻煩。";
+     --accent: 151, 206, 142;
+     --logo-img: url(https://scp-zh-tr.wdfiles.com/local--files/the-appliance-war-hub/37NONUMBERSVG.svg);
+--link-txt-color: #64AF45;
+}
+[[/module]]
+
+[[include :scp-zh-tr:component:info-ayers
+|lang=en
+|page=appliance-war-hub
+|authorPage=https://scp-wiki.wikidot.com/thatauthorpagethattime
+|comments=
+
+= //Jesus. We’re sorry, folks.//
+
+------
+
+= One of those times I wish I was good at photo editing.
+
+]]
+
+[[include :scp-zh-tr:component:anomaly-class-bar-source
+|item-number= 7639
+|clearance= 3
+|container-class= keter
+|secondary-class= class_here
+|secondary-icon=
+|disruption-class= vlam
+|risk-class= warning
+]]
+------
+**特殊收容措施：** 任一疑似SCP-7639實體活動的公眾回報應實施核實調查。SCP-7639實體已被判定為具有敵意的實體，應立即消滅SCP-7639實體。
+
+
+##red|**更新：**## 新-附錄-7639-4,  針對SCP-7639-1的行動主旨由收容更改為立即消滅。
+
+[[include :scp-zh-tr:component:image-block name=http://scp-wiki.wdfiles.com/local--files/scp-7639/Netejar_el_bidet%2C_3.jpg |caption=在坐浴桶轉變成SCP-7639前，特工Gallagher在清理他的私人坐浴桶的照片。]]
+
+**描述：** SCP-7639是一種裝載水管系統並擁有知覺的異常實體。SCP-7639的外型大致與SCP-7639//甘氏巨螯蟹//相似。[[footnote]]日本蜘蛛蟹。[[/footnote]]
+
+ SCP-7639實體主要由兩部分組成：
+# 由坐浴桶構成的「甲殼」軀幹。構成甲殼的陶瓷比明顯地比正常的陶瓷還要堅固，在受到一定損傷前，可耐受持續性的射擊。
+# 多附肢。由方圓七公尺內坐浴桶的水管和抽水系統組成，可用於移動或自我防衛。已觀察到多名 SCP-7639實體的附肢數量，超出坐浴桶所能配備的抽水系統上限。尚未釐清這些附肢從何產生。
+
+
+SCP-7639對所有生物體皆保持極強的敵意，並經常透過附肢攻擊生物體或由軀幹的坐浴桶釋放高壓水柱。儘管SCP-7639實體大多時候傾向消滅任何接近產卵區域的生物體，但若是遇到數量龐大的敵人，大多數的實體會選擇撤退。
+
+SCP-7639沒有特定的出現條件，70%紀錄在案的實體出現於下列事件的周遭：
+
+* [[[http://scp-zh-tr.wikidot.com/scp-7939|SCP-7939]]] 實體。
+* 由GOI-9219"新沖水秩序"發起的行動。
+
+
+截至撰寫檔案時，自首次發現異常後， 44 份有關 SCP-7639 的報告中，23 份以丟失實體作結，這些實體的位置現仍未知。
+
+
+**附錄-1：SCP-7639收容會議**
+
+[[div class="blockquote"]]
+
+**前言：** 以下會議由Site-37專責SCP-7939和SCP-7639收容團隊召開，內容為討論近期SCP-7639大量出現的現象。由於特工Gallagher和特工Malley正在調查第45起回報的SCP-7639實體，因此兩人以視訊通話的方式出席會議。
+
+
+**與會者：** Dr. Emmett Fenton （首席/綜合研究員）, [[[SCP-7119|特工Jeffrey Gallagher]]] （MTF Iota-00）, 特工Vito Malley （MTF Iota-00）, Dr. Kip Kibbald （異常生物專家）, Dr. James Martin （綜合研究員）, [[[/a-hrd-day-s-work|Ethel Kursh]]] （人力資源部）。
+
+------
+
+[紀錄開始]
+
+//所有與會人員圍繞在一張內建展示螢幕的研討室桌，螢幕上展示著一張標記所有SCP-7639出現位置的地圖。//
+
+**E. Fenton：** 我很討厭這樣說，但我們唯一知道的資訊只有，當馬桶們做了些什麼，那些東西就會出現。
+
+//Dr. Martin晃著左臂，因疼痛而皺眉，他的左臂包著石膏。//
+
+**J. Martin：** 只要馬桶們想，他們能出現在所有地方。當7939的出現頻率開始降低，我們還以為這會是一段幸運的休眠期，但我猜他們只是在為此做準備。
+
+**J. Gallagher：** 真他媽的精彩。讓我想想，Ethel，我們得去摧毀所有的坐浴桶？
+
+//Ethel抬頭，目光從她的剪貼簿離開。//
+
+**E. Kursh：** 沒錯，所有私人的坐浴桶。我們不用擔心基金會設施，裡面已經全部清空了。
+
+**J. Gallagher：**痾。真怪。幸好我早就把我的坐浴桶移走了，用一個很迅速的方式。 
+
+**J. Martin：** 考慮那個迅速的方式是被一隻巨大坐浴桶螃蟹攻擊，你看起來異常冷靜。
+
+**J. Gallagher：** 那怪胎只是個小傢伙，快一公尺高而已。只要拿滅火器敲他幾下，它就倒在地上了。
+
+**K. Kibbald：** 真是遺憾你把它砸爛了，如果能抓到一隻活的應該多少有點幫助。
+
+**J. Gallagher：** 我們真的不能......從街上抓一隻就好嗎？
+
+**J. Martin：** 在損傷遠大於利益作為代價的情況下不行。7639實體在逐漸變大隻，而且它們全都很暴力。更別提我們搞丟的那隻，那隻......好險是跑向野外，而不是跑進市中心。
+
+**V. Malley：** 更糟的是，它們似乎每次都能感知到我們在試圖消滅它們。這隻高20英尺的傢伙毫不猶豫地衝向Gallagher。
+
+**J. Gallagher：**我想會行走的巨大坐浴桶沒有那麼聰明。
+
+**J. Martin：**事實上，我不會忽視這些事情。並不是因為它們很聰明，而是因為它們看起來像是便所、馬桶和微波爐的哈巴狗。
+
+**J. Gallagher：** 忘記坐浴桶也是它們的一員。所以Ethel，Nial還好──
+
+**E. Kursh：** 不好。他已經不歸我管了，自從 [[[/nial-must-be-flushed|the tape]]] 事件發生。
+
+**J. Gallagher：** 喔對。
+
+**E. Fenton：** 回歸正題，如果有人有任何想法，歡迎提出。
+
+//一片安靜。Martin抓了抓頭。//
+
+**J. Martin：** 繼續......幹掉它們？ 
+
+**V. Malley：** 我認為這只是短期的應付心態。
+
+**J. Martin：** 至少到現在還「算是」有用。有一些傷亡，但不管它們變得多大隻，都不像馬桶那麼可怕。痾，你說的對。
+
+**K. Kibbald：** 嗯。
+
+**E. Fenton：** Kip，有什麼想法嗎？
+
+**K. Kibbald：** Martin，你的清單上有每隻實體的大小嗎？
+
+**J. Martin：** 有啊？
+
+**K. Kibbald：** 太棒了，傳給我。
+
+//Kibbald從Martin手上接過清單，開始滑起平板。Kibbald將表示SCP-7639實體的圓點逐漸放大。//
+
+**E. Fenton：**  Kip，為什麼──
+
+//突然間，在Gallagher和Malley對街的一道牆炸了開來。兩人向後摔去，他們的回報也暫時中斷，隨後一個 4 公尺高的 SCP-7639 實體爬了進來。該實體由坐浴桶甲殼釋放出強烈水柱，並發出高頻的尖銳噪音。//
+
+**J. Gallagher：** （喊叫）喔，她是大隻的那種！
+
+**V. Malley：** 靠北，真的超大，開始交戰。
+
+//Kibbald持續將圓點放大，並持續注視放著Malley的影像的螢幕。//
+
+**K. Kibbald：** 不！不，等等，Vito我需要驗證一些事。
+
+
+//該名SCP-7639實體朝Malley衝去，金屬附肢刮在水泥牆上的同時，水從坐浴桶中濺出。兩名特工都躲向一側。//
+
+**J. Martin：** Kibbald，你他媽的在說什麼？
+
+**V. Malley：** Kip，我們收到的命令是目視開火，我不覺得我們能──　
+
+
+//該名SCP-7639實體向Malley射出高壓水柱，他差點沒躲過。Gallagher起身並將武器瞄準了實體。//
+
+**K. Kibbald：** 只要── James，先不要射他。
+
+**J. Martin：** 不好意思？
+
+**J. Gallagher：** Kibbald，你在說什麼？
+
+//該名實體朝Gallagher揮舞附肢，將他的槍枝從手中打落，並把他也打倒在地。他的身影從影像中消失。//
+
+**J. Gallagher：** 幹！
+
+**E. Fenton：** Gallagher！Gallagher，你還聽得到嗎？
+
+//一聲濕咳從Gallagher的對講機傳來。//
+
+**J. Gallagher：** 痾......技術上可以。
+
+**V. Malley：** Kip如果你要嘗試什麼，你需要//現在//就做！
+
+**K. Kibbald：** 我知道，我知道，只是......
+
+//Kibbald在地圖上連上最後一個點後，迅速起身並指向一塊 SCP-7639 實體避開的區域。//
+
+[[include :scp-wiki:component:image-block
+name=https://scp-wiki.wdfiles.com/local--files/scp-7639/Map_of_the_United_States_%28Generic%29_%2824247764924%29.jpg|
+caption=地圖.7639.image |
+align=center |
+width=100%
+]]
+
+**K. Kibbald：** 這是── 這是一道儀式。他們透過明顯的路徑在增大，而且── 他們看起來朝著某個地方前進，某個接近......Vito！
+
+//Martin和Fenton迷惑地看著地圖。Malley的隨身攝影機顯示 SCP-7639實體重複噴射水柱，嘗試想要消滅他。Gallagher 則在周遭，試圖爬向他被打落的槍枝。//
+
+**V. Malley：** 現在這能幫上我們什麼忙？
+
+**K. Kibbald：** Vito，我需要你── Emmett長官，可以假定我接管此次任務的指揮權嗎？
+
+**E. Fenton：** 痾......可以，下達指令吧。 
+
+**K. Kibbald：** 感謝您。Vito，我需要你把用來回報位置的個人GPS丟掉。
+
+**V. Malley：** 嗯？
+
+**K. Kibbald：** 反正你會跟 Gallagher待在一起，所以把它拆了。然後拿你們的膠帶隨便纏個幾圈，接著──
+
+**V. Malley：** 把它纏在坐浴桶上？
+
+**K. Kibbald：** 沒錯，把它拍在──。
+
+//Malley伸向他肩上的GPS，將其一把扯下，隨後放下武器，用另一隻手拿出一捲膠帶。在往旁邊翻滾躲避前，他拉出一大段黏合的部分。SCP-7639向他發起衝鋒，並撞進交會點對面的另一道牆體，卡在裡頭。//
+
+**J. Martin：** 等等，你怎麼能確定這玩意不會直接把它扯下來？
+
+**K. Kibbald：** 這不是真的蜘蛛蟹，它沒有鉗子。還有，這是個機會──
+
+//在用腿砸向牆體，試圖將自己從牆體中撬出前，該名SCP-7639實體發出另一段高頻噪音。Gallagher撿起他的槍。//
+
+**K. Kibbald：** 這是一個機會可以知道所有7639都躲在哪。Fenton說我們需要一些進展，對吧？這就是。
+
+**J. Martin：** 痾。做的好。
+
+**K. Kibbald：** Gallagher，只要Malley把GPS拍上去，你就可以開始進行//非致命//的射擊 。只是要把螃蟹趕出城鎮。
+
+**J. Gallagher：** 理── 理解。
+
+//在跑向實體前，Malley深吸了一口氣，以膠帶纏繞的GPS在他手中。//
+
+**V. Malley：** 開始接近實體── 這最好有用，Kip。
+
+**J. Martin：** 一路順風。
+
+//Malley躍上被困住的實體，並將自己拉上坐浴桶的甲殼。當Malley把GPS貼在它的背上，SCP-7639為了要從中掙脫，開始四處揮舞附肢。在實體掙脫並讓他向後飛去前，他纏了好幾圈膠帶。在槍聲響起前，SCP-7639轉向Malley並舉起附肢，該附肢穿透了坐浴桶的蓋子。Malley轉身，他的隨身攝影機顯示Gallagher跌坐在地，將他的武器對準實體。//
+
+**J. Gallagher：**到頭來還是一個小傢伙，你這個瘦巴巴的小混蛋。 
+
+//Gallagher又開了三槍，在衝向Gallagher前，該名實體發出另一段高頻噪音。每一顆子彈擊中SCP-7639的時候，該名實體都會放慢腳步，並在距離 Gallagher四公尺時停下。他輕蔑一笑。//
+
+**J. Gallagher：** 現在沒那麼有種了吧，是吧？
+
+//該名實體轉身背對Malley，面向Gallagher，怒氣沖沖地由坐浴桶甲殼釋放水霧。它隨後背向Gallagher迅速離去，沿路掉著陶瓷碎片。Malley嘆了口氣，Gallagher躺著背靠在地。在一段短暫的沉默後，研討室的眾人開始歡呼。Malley緩慢地露出笑容。//
+
+**V. Malley：** 夠好嗎？
+
+**K. Kibbald：** 先生們，精采絕倫的合作。
+
+//Fenton切過桌上的螢幕，播放運作中的GPS監控。與特工Malley相關的GPS ID緩慢地橫跨地圖。Kibbald接著重新撥放那張做過筆記的地圖。GPS信號正朝著淨空的領域中間前進。//
+
+**E. Fenton：** 你是對的，Kip，它在朝那個區域前進。
+
+**J. Martin：** 我們逮到它們了。
+
+**K. Kibbald：** 天殺的正確。我們來看看這些坐浴桶最終要去哪。
+
+[紀錄結束]
+
+[[/div]]
+
+@@ @@
+
+上述遭遇事件發生後， 追蹤到特工Vito Malley的GPS設備朝未影響區域的中心前進，該區域為Dr. Kibbald在地圖上標註的位置。在遠端無人機投入偵查後，發現了一處未知小湖，並拍攝到該名SCP-7639實體潛入水中。
+
+
+已招集MTF Gamma-6 （「深淵餵食者」）調查該事件。
+
+[[include :scp-wiki:component:image-block
+name=https://scp-wiki.wdfiles.com/local--files/scp-7639/Round_lake_2020-06-11_002.jpg|
+caption=前段敘述中的未知湖泊，被標記為追蹤的SCP-7639實體的目的地。 |
+align=center |
+width=100%
+]]
+
+**附錄-2：探索紀錄**
+
+[[div class="blockquote"]]
+
+**前言：** 以下記錄源自MTF Gamma-6作為SCP-7639調查小組的最終探索音檔紀錄。
+
+**列名：** Gamma-α, Gamma-β, Gamma-ι, Gamma-δ and 指揮部。
+
+------
+
+[紀錄開始]
+
+**指揮部：** 好，通訊確認。 Gamma-6，等你們準備完成就可以開行動。
+
+**Alpha：** 收到長官。我們正在下潛。
+
+**指揮部：** 還有Iota，你負責待在岸上警戒嗎？你確定你可以嗎？
+
+**Iota：** 長官，我為了此刻受訓了十三年。針對水面上的任何麻煩，槍已上膛，隨時準備好作戰。
+
+**指揮部：** 很好。祝好運，各位同袍。如果你們需要我們，我們都聽的到，但請記得，不要與在下面與敵人交戰。我們不知道它們是否跟作為模板的螃蟹一樣，適應那樣的深度。
+
+**Beta：** 蜘蛛蟹對吧？我曾經養過一隻，他媽的有夠怪。
+
+**Delta：** 希望現在不會更怪，Beta。
+
+**Beta：** 我見過更糟的。
+
+**Alpha：** 好了，好了，耽擱夠久了。指揮部，我們開始下潛。Iota，我們在另一邊見。
+
+**Iota：** 好ㄌㄟ。
+
+**指揮部：** 紀錄下潛的時刻。Gamma-6確認並開始行動。
+
+//進入水中的腳步聲持續了一分鐘。//
+
+**Alpha：** 完全沒入水面，持續下潛中。你們還可以聽到我們嗎？
+
+**指揮部：** 很清楚。
+
+**Iota：** 甚至跟水晶一樣清楚！
+
+**Alpha：** 太棒了。我們繼續下潛。
+
+**Beta：** 有任何人開始期待回程了嗎？
+
+**Delta：**我把三明治留在37，所以對，我說了。
+
+//[已刪除15分鐘的無關紀錄。]//
+
+**Delta：** 哇── 然後我說，哇，那是一堆馬糞！
+
+**Beta：** 訓練真的很幹。
+
+**Delta：** 阿門，兄弟。
+
+**Alpha：** 難怪我是Alpha，訓練是──
+
+//可以聽見慢動作在水中產生的聲音。Gamma-6停下腳步。//
+
+**指揮部：** 下面的一切還好嗎？
+
+**Alpha：** 聽到有東西在動。有人看到東西嗎？
+
+**Beta：** 幹，痾......現在沒有。水底有一堆懸浮微粒，所以手電筒沒有什麼幫助。
+
+**Delta：** 我也看不到。
+
+**指揮部：** 恩。你們現在的深度多少， Alpha？
+
+**Alpha：** 我們現在剛好在50英尺深。
+
+**指揮部：** 好。Iota，上方的狀況如何？
+
+//在Iota聽到前，傳來一小段雜訊。//
+
+**Iota：** 沒什麼奇怪的。持續監控整片區域，還挺空的。
+
+**指揮部：** 很好，很好。那麼Alpha，你那邊──
+
+**Iota：** 等等。什麼？
+
+**Alpha：** Iota？
+
+**指揮部：** 有問題嗎，Iota？
+
+**Iota：** 剛剛偶然穿過湖邊的一些樹林，然後我發現…...天哪，看起來像一個巨大的管道？
+
+**指揮部：** 不好意思？
+
+**Iota：** 我是說，我不知道，那是一個巨大的金屬環狀物，它插在地面上。你們不是說這區域無人居住？
+
+**指揮部：** 本應如此。
+
+**Alpha：** 長官，我們要繼續行動嗎？
+
+//遲疑。//
+
+**指揮部：** 沒錯，繼續前進Alpha。做好準備，或許會有更多阻礙。
+
+
+**Delta：** 希望不會有。
+
+//[已刪除10分鐘的無關音訊]//
+
+**Delta：** 感謝基金會讓我們在水下100英尺行走像是在公園裡散步。
+
+**Beta：** 肯定更加──
+
+//巨大的碎裂聲。停下腳步。//
+
+**Alpha：** 三小......
+
+**Beta：** 那是什麼？
+
+**Iota：**你們還──
+
+**Alpha：** 我們......我們還好。我只是踩得稍微用力，然後腳底的地面就......
+
+//Alpha抬起腳的聲音。他發出驚嘆。//
+
+**Alpha：** 那......不是被土掩埋的石頭。
+
+**Beta：** 看起來是白色的。
+
+**指揮部：** 白色？Alpha，你們踩到的東西的究竟是什麼？
+
+//傳來泥土和殘骸被清開的聲音，隨後聲音戛然而止。//
+
+**Alpha：** 指揮部，似乎有陶瓷在我們下方。在我們進入湖前，我們對這座湖的掃描有多詳細？
+
+**指揮部Command：** 為了要追上SCP-7639實體，大略而已。
+
+**Alpha：** 了解。
+
+**Delta：** 我們要折返嗎？感覺我們應該要考慮一下。
+
+**Beta：** 我不知道我們需不需要考慮折返。但總之其他地面感覺就像有一堵厚厚的殼層。
+
+**Delta：** 無論如何，底下可能有什麼東西。我們才潛了多深？八十英尺？
+
+**Beta：** 八十英尺不是小數字，Delta。
+
+**Delta：** 我知道數字代表什麼，聰明屁股蛋。
+
+**Alpha：** 你們兩個都先停下。指揮部，你們對於任務的評估是？
+
+**指揮部：** 恩。這肯定不在我們的預料之內，但──
+
+//一連串的金屬破裂聲傳來，並在聲音停止前越來越大聲。Beta吃痛地叫出聲。//
+
+**Alpha：** 所有人穩住。
+
+**指揮部：** Gamma-6？深淵餵食者，發生什麼──
+
+**Alpha：** 七名SCP-7639 實體包圍了我們。坐浴桶直接對著我們。它們沒有攻擊但感覺是在威脅。
+
+**指揮部：** 小心行事，深淵餵食者，那些水管可以發射──
+
+**Beta：** 高於潛水服可承受的PsI[[footnote]] 磅每平方英寸，為pounds per square inch的縮寫，是一種英制壓力單位。 [[/footnote]]範圍，我們知道。
+
+//金屬破裂聲開始移動。腳步聲重新出現。//
+
+**Alpha：** 它們開始移動，然後......我猜他們要我們跟上。
+
+**Beta：** 看起來我們沒有別的選擇。
+
+**指揮部：** 耶穌阿。兄弟們，我們很抱歉。
+
+**Delta：** 我不知，它們看起來沒有像報告中寫的那麼生氣。雖然也不像是要跟我們溝通的樣子。
+
+**指揮部：** 了解。Iota，上面的情況如何？
+
+**Iota：** 恩。我又發現另外五個金屬管道，然後我沿著湖走了半圈。你確定這裡是未開發區域嗎？
+
+**指揮部：** 確定。你能觀察到管道的底部嗎？能確定深度嗎？
+
+**Iota：** 它們很長。我丟了一塊石頭下去，但沒有聽到石頭掉到底部發出的聲音。它們是什麼東西，我完全沒有頭緒，但我會繼續通知新的發現。希望這只是什麼做壞的奇怪儲油設備。
+
+**指揮部：** 你或許該把希望分到水下。
+
+//由水下麥克風接收的腳步聲消失。傳來倒抽一口氣的聲音。//
+
+**Delta：** 那......三小？
+
+**指揮部：** Delta？深淵餵食者，你們為什麼──
+
+**Alpha：** 它們......正在展示給我們看一個大洞。洞的上方，我不知，7 尺寬，在湖底。它們全部圍著它...... ，然後
+
+**Beta：** 我們應該進去嗎？
+
+**Alpha：** 那......看起來似乎有邊緣。沒錯，湖底的塵埃已被清除，然後它......看起來像金屬。 
+
+**Beta：** 它們似乎不在乎我們在說話，指揮部。這是什麼鬼地方？
+
+**Alpha：** Iota，你說你發現的那些金屬管線，它們有多寬？
+
+**Iota：** 痾，圓長大約 7 或 8 英尺？
+
+**Alpha：** 痾，那很有可能那是它們的──
+
+//Alpha被地面震動的聲響給打斷，聲響由他們和Iota的麥克風傳出。//
+
+**指揮部：** 深淵餵食者，發生什麼了？
+
+**Iota：** 我不── 外面的地面，正開始── 幹。
+
+**Delta：** Iota，你說什麼？
+
+**Iota：** 喔耶穌上帝阿，那些管線，它們正在上升，我能──
+
+//Iota的音訊由雜訊斷開。突然間，緩慢的水流聲從Alpha的麥克風傳出。//
+
+**指揮部：** Iota？快回來Iota，你說它們在上升是什麼意思？
+
+**Alpha：** 夥計們，你們感覺到了，對吧？
+
+**Beta：** 對，對，我感覺到── 嘿，為什麼它們走開了？
+
+**Delta：** 它們不是走開，它們── 它們在跑。指揮部，那些坐浴桶，它們── 
+
+//Delta的音訊斷開。水流的聲音變得越來越大聲和急促，然後可以從聽到Alpha的麥克風Delta的尖叫聲。//
+
+**Alpha：** 耶穌。 Beta，Delta，我們該閃人了，那是──
+
+**指揮部：** Alpha，一切還好嗎？
+
+**Alpha：** 不！不好，那種水流，那是── 太混濁了，我無法看清楚，但── 水流是從洞裡來的，媽的它在把我們吸進去！
+
+**指揮部：** 上帝啊。Gamma-6，他媽的趕快離開那裡，現在。
+
+**Beta：** 我們正在嘗試了，但它實在太強了，然後這裡的地面──
+
+**Alpha：** 沒有東西可以抓著，然後要上浮的距離太長了。我沒辦法──
+
+//水流聲變得越發嘈雜和迅速。現在已經幾乎無法聽到Alpha和Beta的聲音。傳來腳與地面磨擦的聲音。從 Beta 的麥克風裡隱隱傳來一聲巨響。//
+
+**Beta：** 別，別，拜託別──
+
+//Beta的音訊斷開。可以從 Alpha的麥克風隱約聽到一聲尖叫。//
+
+**Alpha：** 他們── Beta跟Delta沒了，長官，他們被── 喔老天，他們被吸進去──
+
+**指揮部：** Alph，如果你能接近水面，Iota可以把你拉出來。繼續游就對了，隊長，然後──
+
+**Alpha：** 我沒辦法── 水流，實在── 實在太強，長官。我僅能堪堪抓著──
+
+**指揮部：** Alpha，幹天啊，我不能在一天內失去三個隊員，拜託── 
+
+
+**Alpha：** 我很抱歉，長官。
+
+//Alpha的音訊斷開。//
+
+**指揮部：** 幹。
+
+//Iota的音訊重新連上。//
+
+**Iota：** 靠靠靠靠靠──
+
+**指揮部：** Iota！感謝上帝，特工，我以為你掛了。上面的情況怎麼樣？你說管線在上升是什麼意思？
+
+**Iota：** （喊叫） 那代表它們他媽的漂到空中！靠，我想它們現在在30英尺高，我可以看到它們，從──
+
+//地面轟隆震動的聲音從Iota的麥克風傳來。//
+
+**Iota：** 我要撤出這個鬼地方了，這是- 靠，它們在加速。
+
+**指揮部：**  Iota，那些管線長怎樣？
+
+**Iota：** 我不- 它們......它們看起來像水管裝置，超大型的水管裝置。我不── 我的天，它們開始彎曲。整座湖都被帶到空中。上帝啊，那甚至不是一個──
+
+**指揮部：** 什麼？Iota，拜託保持冷靜跟──
+
+//傳來各種巨響。//
+
+**Iota：** 那些管道，它們不單是管道，它們──（喊叫）它們他媽的──　
+
+//在Iota的音訊斷開前，傳來了巨大的衝擊聲。//
+
+[紀錄結束]
+
+[[/div]]
+
+四名派遣的Gamma-6隊員全被認定為陣亡。200多公尺高的SCP-7639實體（以下稱作SCP-7639-1）在探索任務中將自身從地面拉出，後被目擊朝最近的人口密集都會區前進，預計於接下來的五小時內將暴露於公眾視野。 
+
+派遣的遠端監控無人機回報一名「帶有金色紋路的小型馬桶」坐在SCP-7639-1上頭。與POI-9219, 「便所」相關的可能性已在調查當中。 
+
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+
+[[div class="email-example"]]
+[[=]]
+[[collapsible show="進入SCiPNET信箱？您有 (1)則新訊息！" hide="當前的狀況。"]]
+[[<]]
+[[div class="email"]]
+[[div class="tofrom"]]
+**致：** emmet.fenton37@SCiP.net
+**來自：** **###FFBF00|O5-6##**的辦公室。
+**主旨：** 當前的狀況。
+[[/div]]
+------
+Dr. Fenton祝你有美好的一天。
+
+迄今你可能注意到便所主導的麻煩變得更糟了。你和你的團隊發現的那頭巨型SCP-7639只剩幾小時便會突破帷幕，並且馬桶們又開始組織新的攻勢。情況十分嚴峻。
+
+而我們面對的問題不僅止於馬桶們。有關我們的朋友，Nial的微波爐似乎已發展至宣戰的地步。另外，大幅增加的「小型」事件同時巧合地發生，就像[[[/something-burning|37燒掉的吐司機]]]，或者[[[/alight|紅綠燈故障]]] 導致的舊金山連環車禍。今年已經是收容突破最糟糕的一年，把資源分配給所有基金會的部門也不會有幫助，反而會導致資源不足而無法妥善地處理。
+
+Fenton，你已經在Site-37工作許多年了，儘管你具備一定的資歷，你還是滿足於Site-37簡單的生活。如果你不是人力資源部門的「受害者」，那間垃圾場似的設施確實很寧靜，但我們現在不需要「綜合研究主管」。家用品確實是個大問題，但我實在無法接受僅為了應對一次危機就把人員從重要崗位上調走，還是調到人員都像你這樣缺乏專業技能的部門。
+
+話雖如此，你現在已經被晉升為家用品應對部門的主管了。你可以從Site-37中選擇任何人來擔任副手和團隊成員；我推薦Kibbald，或者你也可以以深淵餵食者事件為理由拒絕他們加入。畢竟，這最終取決於你的選擇；我說你可以選擇任何人，就是任何人。我知道在Site-37沒什麼重要的事。
+
+此次升遷為強制命令。我們再聯絡。
+
+
+- **###FFBF00|O5-6##**（戰術應對，武器部門，條件作戰）
+[[=]]
+------
+**SCPF監督者部門**
+//保障，機密，有力。//
+[[/=]]
+[[/div]]
+@@ @@
+[[/<]]
+[[/collapsible]]
+[[/=]]
+[[/div]]
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+[[include :scp-zh-tr:component:earthworm
+| first=false | last=false | hub=no
+| previous-url=https://scp-wiki.wikidot.com/alight | previous-title=一燈
+| next-url= https://scp-wiki.wikidot.com/a-sinking-feeling | next-title=沉沒之感
+| hub-url=/ | hub-title=THE APPLIANCE WAR
+]]
+@@ @@
+
+[[footnoteblock]]
+
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[SCP-7638]]] | SCP-7639 | [[[SCP-7640]]] >>
+[[/=]]
+[[/div]]
+
+[[include :scp-zh-tr:component:license-box
+|author=ThatGuyThatTime
+|translator=colorful penguin
+|lang=EN]]
+=====
+> **Filename:** Netejar_el_bidet,_3.jpg
+> **Author:** Carolina Latorre Canet
+> **License:** CC-BY-SA-3.0
+> **Source Link:** https://commons.wikimedia.org/wiki/File:Netejar_el_bidet,_3.jpg
+
+> **Filename:** Map_of_the_United_States_(Generic)_(24247764924).jpg
+> **Author:** DonkeyHotey (edited by [[*user ThatGuyThatTime]])
+> **License:** Public Domain
+> **Source Link:** https://commons.wikimedia.org/wiki/File:Map_of_the_United_States_(Generic)_(24247764924).jpg
+
+> **Filename:** Round_lake_2020-06-11_002.jpg
+> **Author:** Chris Light
+> **License:** CC-BY-SA-4.0
+> **Source Link:** https://commons.wikimedia.org/wiki/File:Round_lake_2020-06-11_002.jpg
+=====
+[[include :scp-zh-tr:component:license-box-end]]
