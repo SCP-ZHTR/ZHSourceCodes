@@ -371,7 +371,7 @@ span， a { word-break: normal !important }
 [[div class="bubble"]]
 [[=image https://scp-wiki.wdfiles.com/local--files/on-guard-43-hub/Defence.png]]
 
-++ **畢業，第2部分：[[[defence|防衛]]]**
+++ **畢業，第2部分：[[[defence|答辯]]]**
 由[[*user HarryBlank]]撰寫
 
 你第一個遇上的異常是什麼？你是在野外偶然遇見了它，或站在它傷害不了你的玻璃後方看著？你是否抓住了機會，承擔了一切風險？
