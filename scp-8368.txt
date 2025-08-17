@@ -1,0 +1,46 @@
+[[include component:scp-meta-title-hiding css-style=classic]]
+[[include info:start]]
+原文：[https://scp-wiki.wikidot.com/scp-8368 SCP-8368] 平靜的夜晚
+作者：[[*user Letova]]
+譯者：[[*user Frederica Bernkastel]]
+[[include info:end]]
+
+=====
+[[include component:preview
+text=
+狗都需要休息。]]
+=====
+
+**項目編號：** SCP-8368
+
+**項目等級：** Euclid
+
+**特殊收容措施：** 由於難以估算出事件的發生日期，且列寧地鐵員工能接受該異常現象，因此將不執行主動收容。對SCP-8368誤導宣傳著重於將其描述為2000年代末期捏造之都市傳說。
+
+**描述：** SCP-8368是一種異常事件，發生在莫斯科列寧勳章與勞動紅旗勳章地鐵站之間的隨機站點，發生時間為凌晨1:00至4:30[[footnote]]地鐵系統於此期間處於關閉狀態。[[/footnote]]之間，其時間間隔是隨機的。目前，SCP-8368事件時間間隔最短為5日，最長達7年1月13日。
+
+[[include component:image-block name=https://scp-sandbox-3.wdfiles.com/local--files/test-erika-3/doggy.jpg|width=300px|caption=SCP-8368事件後拍攝照片。]]
+
+SCP-8368會在車站大部分員工離開後開始。在此期間，一列莫斯科地鐵現用型號的六節車廂列車將駛入車站空軌並打開車門。列車上沒有任何標記，僅在每扇車門上懸掛黃色銘牌，上面寫著：「СЕМЕЙНАЯ КЛИНИКА」[[footnote]]「家庭診所」[[/footnote]]字樣。
+
+在接下來的45分鐘內，許多流浪狗將接近火車[[footnote]] 莫斯科市內有大量流浪狗——離家出走的、遭到遺棄、野外出生等。[[/footnote]]。接近火車的狗通常患病、受重傷、已達到同品種犬隻平均壽命。警犬會從側門和地鐵隧道進入，有時還會得到其他工作人員的協助。這些犬隻將透過側門與地鐵隧道進入車廂內，有時還會得到工作人員的幫助[[footnote]] 尚未發現SCP-8368涉及任何強迫效應。[[/footnote]]。
+
+而後，犬隻將聚集在車廂內。在此期間，犬隻會與彼此以及前來的工作人員互動，以地鐵乘客在運營期間留下或丟失的塑膠瓶罐等物體玩耍。這段時間結束後，這些犬隻會趴在地板或座位上，停止玩耍，沉沉睡去。
+
+大約一個小時後，車廂廣播將發出[http://scp-zh-tr.wikidot.com/scp-8391 男性的聲音]。隨後，一旦在場人員離開列車與軌道，列車將立即駛離車站並迅速消失。
+
+儘管沒有留下錄音紀錄，但所有接受詢問的證人一致認為，該人聲說的是：「**Спокойной ночи**」[[footnote]]「祝你有個平靜的夜晚」[[/footnote]]。
+
+[[include :scp-zh-tr:component:license-box
+|author=Letova
+]]
+
+=====
+> **Filename:** doggy.jpg
+> **Name:** Dog asleep on the Moscow Metro.jpg
+> **Author:** Alexander Mishin
+> **Source:** https://commons.wikimedia.org/wiki/File:Dog_asleep_on_the_Moscow_Metro.jpg
+> **License:** CC BY-SA 3.0
+=====
+
+[[include :scp-zh-tr:component:license-box-end]]
