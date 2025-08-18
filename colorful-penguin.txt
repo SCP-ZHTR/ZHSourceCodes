@@ -22,8 +22,11 @@
 
 待更新
 
+
+
 [[/tab]]
 [[tab 原創作品]]
+
 [[size 1.5em]]地下室的那些事[[/size]]
 
 •[[[http://scp-zh-tr.wikidot.com/subject-name-sisyphus|稿件代號：薛西弗斯]]]
@@ -114,6 +117,16 @@ SCP-ZH-350 - 貓貓巡邏隊]]]
 
 
 將會持續更新
+
+[[/tab]]
+
+[[tab ListPages]]
+
+
+[[module ListPages created_by="colorful penguin" limit="50" separate="no" order="created_at desc"]]
+# %%created_at%% %%title_linked%% (%%rating%%)
+[[/module]]
+
 
 [[/tab]]
 [[/tabview]]
