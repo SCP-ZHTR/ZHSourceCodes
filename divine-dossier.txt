@@ -49,7 +49,7 @@ div.pangloss-note{
 + [[span class="ruby"]] [/system:page-tags/tag/anafabula 逆敘事][[span class="rt"]]The Anafabula[[/span]][[/span]]
 被收容為[[[SCP-2747]]]，該[[[to-pulp-the-fiction|逆敘事]]]存在會[[[a-quiet-night|完全抹去]]]任何受其影響的文本。 超形上學部對於[#swn001 「作者實體」]的[[[scp-6747| 研究]]]指出其對我等現實也可能造成威脅。
 
-雖說該將其作為威脅實體或無意識的異常現象看待仍有爭議，由[[[fifthist-hub| 第五教會]]]處收集的資料描述其為[[[fifthdation| 對他們懷有敵意的實體]]]：他們將其稱為「[[[why-is-five-afraid-of-seven| 虛無之主]]]」或「[[[scp-5317|黑荊女皇]]]，且其將和數字「七」做連結。目前[[[tools-and-their-uses |研究]]]專注於識別[[[所有構成SCP-2747的元素]]][!--這連結是刻意無效ㄉ--], 以意圖防止其效果[[[altered-by-all-means-necessary|影響非虛構文本]]]及讓基金會得以[[[scp-8643|利用]]]其特性。
+雖說該將其作為威脅實體或無意識的異常現象看待仍有爭議，由[[[fifthist-hub| 第五教會]]]處收集的資料描述其為[[[fifthdation| 對他們懷有敵意的實體]]]：他們將其稱為「[[[why-is-five-afraid-of-seven| 虛無之主]]]」或「[[[scp-5317|黑荊女皇]]]」，且其將和數字「七」做連結。目前[[[tools-and-their-uses |研究]]]專注於識別[[[所有構成SCP-2747的元素]]][!--這連結是刻意無效ㄉ--], 以意圖防止其效果[[[altered-by-all-means-necessary|影響非虛構文本]]]及讓基金會得以[[[scp-8643|利用]]]其特性。
 
 [[/div]]
 
