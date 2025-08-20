@@ -1,0 +1,476 @@
+[[module css]]
+
+.page-source {
+    background: white;
+}
+
+div#container-wrap{ 
+
+   background-image: linear-gradient( to bottom, white 0px, white 255px, black 100%);
+}
+div#login-status {
+   color: black;
+}
+
+div#login-status a{
+   color: black;
+}
+
+div#top-bar a {
+   color: black;
+}
+
+
+div.collapsible-block-folded {
+    text-align: center;
+    font-size: 20px;
+}
+
+div.collapsible-block-unfolded-link {
+    text-align: center;
+    font-size: 20px;
+}
+
+div.collapsible-block-unfolded {
+   padding-bottom: 1em;
+   padding-left: 10px;
+   padding-right: 10px
+}
+
+div.orange a.collapsible-block-link {
+     color: #f3c04a;
+}
+
+div.image-container {
+    padding: 0em;
+    margin: 0em;
+}
+
+div.orange {
+   background-color: #d48e5a;
+}
+
+div.orange a {
+    color: blue;
+}
+
+div.red {
+   background-color: #8b3142;
+   color: white;
+   
+}
+
+div.red a {
+    color: orange;
+}
+
+div.yellow {
+   background-color: #f3c04a;
+}
+
+div.green {
+   background-color: #a9ce52;
+}
+
+div.blue {
+   background-color: #63e2e4;
+}
+
+div.blue a {
+    color: #8B3142;
+}
+
+div.indigo {
+   background-color: #143382;
+   color: white;
+}
+
+div.indigo a {
+   color: orange;
+}
+
+div.violet {
+   background-color: #6522c3;
+   color: white;
+}
+
+div.violet a {
+    color: gold;
+}
+
+
+div.gray {
+   background-color: #aaa3a3;
+}
+
+div.black {
+   background-color: #091826;
+   color: white;
+}
+
+div.white {
+   background-color: white;
+}
+
+div.yellow a.collapsible-block-link {
+     color: #11581D;
+}
+
+div.green a.collapsible-block-link {
+     color: #06656B;
+}
+
+div.blue a.collapsible-block-link {
+     color: #143382;
+}
+
+div.indigo a.collapsible-block-link {
+     color: #AA23B5;
+}
+
+div.violet a.collapsible-block-link {
+     color: #aaa3a3;
+}
+
+div.gray a.collapsible-block-link {
+     color: black;
+}
+
+div.black a.collapsible-block-link {
+     color: white;
+}
+
+div.white a.collapsible-block-link {
+     color: #8b3142;
+}
+
+div.end a.collapsible-block-link {
+    color: w;
+}
+
+div.end {
+   color: white;
+}
+[[/module]]
+
+[[div style="display: none;"]]
+[[include component:image-block name=http://scp-wiki.wdfiles.com/local--files/monochrome/monochrome.png|caption=.]]
+[[/div]]
+
+[[include info:start]]
+原文：[https://scp-wiki.wikidot.com/monochrome Monochrome]
+作者：[[*user Captain Kirby]]
+譯者：[[*user Halewen]]
+[[include info:end]]
+
+[[div style="text-align: right; margin-right: 3em; margin-top: -20px;"]]
+由[[[captain-kirby-s-personal-file|Captain Kirby]]]撰寫@@     @@
+[[/div]]
+
+
+[[div class="red"]]
+[[collapsible show="+" hide="-"]]
+
+過了頭五年，[[[SCP-6996|Cervantes特工]]]忘了其他顏色的存在。透過緋紅鏡片觀察這個世界令她興奮不已。前一秒，她看見一名藝術家的熱忱、一名母親的擁抱、以及情人節巧克力被互相交換。接著眼前的景色將她帶到手術室、戰場、以及爭吵至面紅耳赤的人。每個瞬間都有如雲霄飛車。
+
+但在過了那麼久後，這些景色也失去了活力。她的日常變得如單色一樣乏味。Cervantes發誓她早已看過那塊櫻桃派，或是那場輸血。葡萄酒嘗起來全都一樣，而她的舌頭早已對草莓麻痺。
+
+「不好意思？」Cervantes不知道如何稱呼紅色。
+
+「是，Ava？」世界回應著。
+
+「我只是在想，有沒有其他......像你一樣的//東西//？」
+
+「我不太確定我是否有理解你的問題。」
+
+「就是，有沒有人保存世界的藍色？」
+
+世界停頓了一下以沉思這個想法。過了很長一段時間。可能過了幾分鐘，可能過了幾年，但Cervantes等待著回覆。而在過了一段可能是永恆的時間後，那個存在回答：
+
+「什麼是藍色？」
+
+[[/collapsible]]
+[[/div]]
+[[=image https://scp-wiki.wdfiles.com/local--files/monochrome/kirbything1.png]]
+[[div class="orange"]]
+[[collapsible show="+" hide="-"]]
+
+[[[SCP-5005|Ramirez特工]]]被人遺忘，正在寒冷中顫抖著，她唯一能辨認的事物是那些溫暖的橘光，現在已經遠到無法觸及了。一盞在天空中高掛；另一盞由燈城發散。
+
+Ramirez感覺她要死了。就像宇宙的寒氣湧進她的體內便不再離去，不論她如何接近那些溫暖的烽火也沒有用。所以她向命運屈服，然後坐在她原本站在的物質上。
+
+這樣的死法真的很可悲。她當時是如此渴望解答，為此放棄了舒適的超維度定居地。而她現在得到了解答，她希望當時選擇保持無知。她很冷、孤單、而且忿忿不平。
+
+但現實不如她的預期，她仍在繼續思考。她五分鐘前就該死了。現在十分鐘了。而她怒不可遏，所以她遷怒至燈光之城的居民頭上。
+
+他們怎麼甘願坐在那個橘色泡泡裡呢？他們說他們渴望體驗未知，在其周圍建起他們的世界，但那只是個藉口。這很懶。詢問那個，探究這個。那該死的城鎮裡沒有任何人擁有堅定的信念，願意踏入黑暗去尋找答案。
+
+Ramirez喜歡那個字的聲音，「堅定」。她可能感到很冷，但至少她付諸實行了。至少她完成了這一趟的目標。
+
+「去他們的，」她低聲說道。這麼做最初讓她感到好點，但很快，她又感到失望了。她很失望她死前的最後幾分鐘是這樣度過的，而現在延伸成了幾小時。
+
+寒冷之中，Ramirez坐著，他發現自己正在向燈光道歉。 她感激燈光的橘色光芒，點亮她的永夜。好似她並非孤單死去。
+
+[[/collapsible]]
+[[/div]]
+[[=image https://scp-wiki.wdfiles.com/local--files/monochrome/kirbything2.png]]
+[[div class="yellow"]]
+[[collapsible show="+" hide="-"]]
+
+Graham唯一能感受到的情感便是後悔。如果她能記得更多東西的話，她也會感到失落，但她僅剩下後悔。所以她只是後悔她不理解自己為何應該感到失落。
+
+[[[SCP-3890|她已獨自一人在這沙漠世界]]]待了三天。而當事實從她的腦海中消失的同時，這些事實仍舊存在。她殺了唯一一個和她待在一起的東西。對，是為了生存。不，那東西不在乎她是什麼（除了可食用以外）。但在三天前，她並不孤單。三天前她有了目標。三天前，她的生活有了除了一片又一片的黃色沙丘與金黃顆粒以外的東西。
+
+那東西有時候會變化成像是Graham同事之一的東西。其他時候，那東西成了她的伴侶。而有次，那東西甚至變成她的摸樣。在這些點點滴滴中，在那東西試圖享用Graham搖搖欲墜的思想之前，她感到相當安心。因為一個友善的面孔打破了這個世界。
+
+有一天，她忘了怎麼走路。在她小跑步跑下沙丘時，她跌倒了，將臉埋入地面。她的手臂沒有反應，而她的脖子背叛了她。她唯一能做的，就是張開她的雙眼，看著沙子，或是閉上雙眼，什麼都不看。
+
+在她消逝前的最後一個想法，是這也沒什麼差別。
+
+[[/collapsible]]
+[[/div]]
+[[=image https://scp-wiki.wdfiles.com/local--files/monochrome/kirbything3.png]]
+[[div class="green"]]
+[[collapsible show="+" hide="-"]]
+
+[[[scp-6005|Hawley]]]向後倒去，靠在一塊長滿青苔的石頭上，他身處在山丘的頂端，山丘四周長滿了青草。他的目光所及之處，是綿延數里的草木和枝葉。微風涼爽，而太陽的溫度剛剛好。在努力了一天後，他值得好好休息，但要小睡片刻又感覺哪裡怪怪的。
+
+「所以，現在呢？」他向森林呼喊。沒有回應，這讓他露出了微笑。他像個該死的嬉皮一樣在跟樹木說話，他還期待些什麼呢？
+
+但，森林依舊保持沉默，Hawley逐漸變得不耐煩了。那位樹木女孩肯定有聽到他，對吧？在Hawley幫了她那麼多忙後，忽視Hawley實在是有些無禮的行為。沒錯，他們所有人都是。
+
+Hawley站起身來，再次進入森林。他經過一棵又一棵樹，一邊敲著樹幹，一邊呼喊道。
+
+「你們打算就這樣拋下我嗎？」他大喊。然後他使勁踢向一棵樹。力道之大，可能讓他斷了一根腳趾頭。
+
+「靠！」他跌坐到地上，緊抓他的腳，「該死的！好吧妳這婊子，就這樣。我知道怎麼回事了。在我沒用後就這樣把我拋下。」
+
+Hawley聽見他身後傳來樹葉的沙沙聲。他強迫自己的脖子轉向後方，盡可能地看向後方的東西。在他的視線邊緣，Hawley看見了幾綹如同藤蔓的頭髮。
+
+「我很抱歉。我並非有意如此，」她說道。
+
+「什麼？」
+
+「你不能與我們同行。」
+
+「但——但我加入了妳的靈魂小隊，對吧？我就處在這個人造世界，就像妳一樣。」
+
+「其他人不相信你。」
+
+「我給了妳復仇的機會。一份禮物。」
+
+「但你仍然屬於基金會。」
+
+「已經不是了！我離開了！」Hawley感覺自己毫無防備，而他仍坐在地上說話，仍在按摩他的腳。這名女孩像是在跟弟弟說話一樣。
+
+「不是稱謂上的，是心理上的。」
+
+「根本鬼扯，妳知道這點的。」
+
+「那你為什麼還留著你的員工證？」
+
+女孩指向Hawley腰帶上的方形塑料牌。
+
+「等等，這不是有意的。」
+
+「正是如此。」
+
+「但——」
+
+「這不是取決於我。非常感謝你，Douglas。我不會忘記你的。」
+
+一陣微風撫過樹林。Hawley遮住了臉，但當他再度睜眼時，女孩消失了。
+
+為了不去擠到他（可能）斷掉的腳指頭，Hawley小心地站了起來。他們不會就這樣把他丟在這的。他將跟隨他們，不論他們去哪。他將會追隨他們直達天堂。他一拐一拐地行走著。他穿過無界的樹林，腳下總是長著綠色的青草，頭頂上方總是長著綠色的樹葉，遮住太陽。
+[[/collapsible]]
+[[/div]]
+[[=image https://scp-wiki.wdfiles.com/local--files/monochrome/kirbything4.png]]
+[[div class="blue"]]
+[[collapsible show="+"  hide="-"]]
+
+天空與大海是地球上最藍的兩樣東西。在[[[SCP-4877|Abagail Liu]]]摔死前，這兩樣東西溫柔地包裹住她。她並不害怕，這跟她幾秒前搭航班時的感覺沒什麼差別。而所有人都知道藍色是個令人放鬆的顏色。
+
+Abagail只希望Olivia也能在這，與她一同共享這無邊無際的藍色。這樣的風景應當分享出去。
+
+[[/collapsible]]
+[[/div]] 
+[[=image https://scp-wiki.wdfiles.com/local--files/monochrome/kirbything5.png]]
+[[div class="indigo"]]
+[[collapsible show="+" hide="-"]]
+
+[https://scp-wiki.wikidot.com/lily-s-proposal 數據已刪除]
+
+[[/collapsible]]
+[[/div]]
+[[=image https://scp-wiki.wdfiles.com/local--files/monochrome/kirbything6.png]]
+[[div class="violet"]]
+[[collapsible show="+" hide="-"]]
+
+在他死前的片刻，Sforza看見了以下的事物：
+
+* **大約一打男人**。當Sfroza嚥下最後幾口氣時，他們都在歡呼。他們擠滿了國王的庭院，就像觀眾擠滿戲院一樣。在知曉Sforza的死亡至少給一些市民帶來喜悅後，他們的惡意便不再那麼銳利了。
+* **庭院整修**（大部分都被前面提到的男人遮住了）。Sforza的庭院上上下下都是他用皇家旗幟和窗簾裝飾的，所有東西當然都是紫色的。沒有比紫色更能代表皇室的顏色。如果有時間的話，他甚至會將整座城堡蓋滿紫色。身為國王，紫色是唯一能配得上他的顏色。
+* **Sforza的弟弟Gonzalo**，站在吊死之人和群眾之間，被舉在一個箱子上。Gonzalo一直都不喜歡這些裝潢，或是Sforza的老婆，或是其他有的沒的東西。但他很常提到Sforza在城堡周圍用上的紫羅蘭數量。這大概是Sforza的弟弟覺得他唯一能不贊同的東西。
+
+在[https://scp-wiki.wikidot.com/scp7011640b1 Sforza之死的紀錄]（之後被誤認為虛構作品）中，很多細節與事實不符，這點無庸置疑。大部分錯誤都跟Gonzalo背叛的本質相關。然而，也沒人會責備歷史學家誤認Sforza當時處在驚愕之中。並在死前詛咒他的兄弟犯下了如此罪行。事實上根本不是這樣。
+
+//我在想，如果我再多加些其他顏色的話，Gonzalo還會不會恨我？//
+
+[[/collapsible]]
+[[/div]]
+[[=image https://scp-wiki.wdfiles.com/local--files/monochrome/kirbything7.png]]
+[[div class="gray"]]
+[[collapsible show="+" hide="-"]]
+
+他們活著四周皆灰的人生。
+
+在所屬的收容室中醒來。在所屬的收容室中睡去。
+
+灰色灰色灰色。牆壁、地面、天花板。
+
+只有你和灰色。
+
+門從未開啟。
+
+灰色不是個很好的朋友。
+
+[[/collapsible]]
+[[/div]]
+[[=image https://scp-wiki.wdfiles.com/local--files/monochrome/kirbything8.png]]
+[[div class="black"]]
+[[collapsible show="+" hide="-"]]
+
+我們都會孤單死去。
+
+這裡毫無色彩。
+
+[[/collapsible]]
+[[/div]]
+[[=image https://scp-wiki.wdfiles.com/local--files/monochrome/kirbything9.png]]
+[[div class="white"]]
+[[collapsible show="+" hide="-"]]
+
+而我們可能重生，或我們可能繼續前行，隻身一人進入未知的領域。但在過程之中，在短暫休息的片刻，黑暗化為光芒，世界則是一片雪白。森羅萬象。沒有任何一物能脫穎而出。這一切是如此龐大。那裡只有一片雪白，所有組成之物皆在光澤中暈散。
+
+色彩死於此地。
+
+[[/collapsible]]
+[[/div]]
+[[=image https://scp-wiki.wdfiles.com/local--files/monochrome/kirbything10.png]]
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+[[div class="end"]]
+一名盲者在畫布上撇下寬大的筆劃。他用水彩作畫，但他在使用壓克力與油畫顏料的技法上也不輸水彩。他的朋友們問他是否能夠觀察、見證他的作畫過程。所有人都認為看著一名看不見的人作畫是種奇觀。但盲者拒絕了。他的藝術大多是透過猜測與直覺繪製，而非方法。
+
+有次，隔壁的小男孩希望盲者能教他畫畫，那是他唯一一次讓某人見證他的藝術之密。盲者過去拒絕了所有學徒，但這名小伙子的直率打動了他。
+
+所以現在，這名男孩看著盲者飛翔。不是真正的飛翔，但盲者認為急切地做出某種荒謬的舉措肯定就跟飛翔一樣。他在畫布上四處翱翔，他的筆刷迴圈翻滾，降落在他的調色盤上填充燃料，調整航線後再度起飛。
+
+當他完成時，盲者無從知曉他畫了什麼。
+
+「你怎麼知道畫完了？」男孩從房間遠處的一端問道。
+
+「因為，調色盤上的顏色一開始是分離的。它們有著自己的小空間，這些小空間為了容納一部分的彩虹而被雕出來。」
+
+「但你將它們帶出了那塊空間。」
+
+「沒錯。然後我將它們介紹給彼此。紅色遇見黃色。橘色向藍色問好。紫色與綠色一同愉快地野餐，」盲者示意男孩過來，「靠近點看。」
+
+一雙鞋沿路發出聲響，直到盲者能聽見柔和的呼吸聲。
+
+「這幅畫相當和諧。沒有任何顏色被其他顏色孤立或遮蔽。而一旦我將每種色調與色相帶到畫布上時，我就知道我完成了。」
+
+「但你要怎麼知道這幅畫好不好看呢？」男孩問道。
+
+「我不知道好不好看。我只知道這幅畫讓我感到開心。」
+
+男孩點點頭，但盲者不知道這點。
+
+[[/div]]
+
+[[include :scp-zh-tr:component:license-box]]
+=====
+> **Filename:** monochrome.png
+> **Author:** [[*user Aethris]]
+> **License:** CC BY-SA 3.0
+> **Source Link:** [https://scp-wiki.wikidot.com/monochrome SCP Foundation Wiki]
+
+> **Filename:** kirbything1.png
+> **Author:** [[*user Aethris]]
+> **License:** CC BY-SA 3.0
+> **Source Link:** [https://scp-wiki.wikidot.com/monochrome SCP Foundation Wiki]
+
+> **Filename:** kirbything2.png
+> **Author:** [[*user Aethris]]
+> **License:** CC BY-SA 3.0
+> **Source Link:** [https://scp-wiki.wikidot.com/monochrome SCP Foundation Wiki]
+
+> **Filename:** kirbything3.png
+> **Author:** [[*user Aethris]]
+> **License:** CC BY-SA 3.0
+> **Source Link:** [https://scp-wiki.wikidot.com/monochrome SCP Foundation Wiki]
+
+> **Filename:** kirbything4.png
+> **Author:** [[*user Aethris]]
+> **License:** CC BY-SA 3.0
+> **Source Link:** [https://scp-wiki.wikidot.com/monochrome SCP Foundation Wiki]
+
+> **Filename:** kirbything5.png
+> **Author:** [[*user Aethris]]
+> **License:** CC BY-SA 3.0
+> **Source Link:** [https://scp-wiki.wikidot.com/monochrome SCP Foundation Wiki]
+
+> **Filename:** kirbything6.png
+> **Author:** [[*user Aethris]]
+> **License:** CC BY-SA 3.0
+> **Source Link:** [https://scp-wiki.wikidot.com/monochrome SCP Foundation Wiki]
+
+> **Filename:** kirbything7.png
+> **Author:** [[*user Aethris]]
+> **License:** CC BY-SA 3.0
+> **Source Link:** [https://scp-wiki.wikidot.com/monochrome SCP Foundation Wiki]
+
+> **Filename:** kirbything8.png
+> **Author:** [[*user Aethris]]
+> **License:** CC BY-SA 3.0
+> **Source Link:** [https://scp-wiki.wikidot.com/monochrome SCP Foundation Wiki]
+
+> **Filename:** kirbything9.png
+> **Author:** [[*user Aethris]]
+> **License:** CC BY-SA 3.0
+> **Source Link:** [https://scp-wiki.wikidot.com/monochrome SCP Foundation Wiki]
+
+> **Filename:** kirbything10.png
+> **Author:** [[*user Aethris]]
+> **License:** CC BY-SA 3.0
+> **Source Link:** [https://scp-wiki.wikidot.com/monochrome SCP Foundation Wiki]
+=====
+[[include :scp-zh-tr:component:license-box-end]]
