@@ -147,6 +147,12 @@ LOGO我做的
 黃金史萊姆
 [[/div]]
 
+[[div class="modal"]]
+[http://scp-zh-tr.wikidot.com/undertaker-art 收屍人]
+[[=image https://i.postimg.cc/y8STG6g3/ezgif-com-optimize.gif height="200px"]]
+屍體
+[[/div]]
+
 
 
 [[div class="modal"]]
