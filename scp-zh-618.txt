@@ -1,7 +1,7 @@
 [[include component:scp-meta-title-hiding css-style=classic]]
 
 [[include info:start]]
-篇名︰太陽餅獅
+篇名︰SCP-ZH-618 太陽餅獅
 作者︰[[*user Dr V Valentine ]]
 [[include info:end]]
 **項目编號：**SCP-ZH-618
