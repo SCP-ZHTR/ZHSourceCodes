@@ -858,6 +858,10 @@ MSC-7「獌束」
  * [[[SCP-ZH-851]]]：反音素
  * [[[SCP-ZH-964]]]：反敘素
 
+* 合譯
+ * [[[narrativistics-and-you|]]]：與[[*user Frederica Bernkastel]]合譯
+ * [[[SCP-8980|]]]：與[[*user Halewen]]合譯
+
 * 醉譯系列
  * [[[SCP-3380]]] - 科學、技術、工程、神性
  * [[[SCP-7166]]] - 雷擊不貳

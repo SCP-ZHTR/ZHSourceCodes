@@ -1,6 +1,6 @@
 [[include component:scp-meta-title-hiding]]
 [[include info:start]]
-標題： SCP-ZH-355
+標題： SCP-ZH-355 - 心目中的熱鬧夜市
 作者：[[*user czizi077]]
 圖片標題：Nanya Night Market
 圖片來源：https://www.flickr.com/photos/whenwhere/8050648686/
