@@ -161,7 +161,7 @@ style="width:300px;"]]
 標註為[未翻譯...吧]的作品表示作品由CN的作者撰寫，而翻譯的CN文本也是同個作者所製，因此不確定是否需要翻譯。
 [[=]]
 [[size 1.2em]]
-++++ 待翻譯文章數量：61/160篇。
+++++ 待翻譯文章數量：59/160篇。
 [[/size]]
 [[/=]]
 EN分部：
@@ -250,6 +250,7 @@ EN分部：
 >> [[[liz-the-gm-s-proposal|A Simple Toymaker]]] 一名普通的玩具師
 >> [[[ralliston-s-proposal|The Queen's Gambit]]] [未翻譯]
 >> [[[rounderhouse-jade-proposal|MAMJUL & KORAR]]] [未翻譯]
+>> [[[yoshihides-proposal|地獄變]]] [未翻譯] x3
 > - [[[SCP-093]]] Red Sea Object 紅海物件
 > - [[[SCP-435]]] He-Who-Made-Dark 造暗者 [未翻譯]
 > - [[[SCP-1281]]] The Harbinger 先驅
