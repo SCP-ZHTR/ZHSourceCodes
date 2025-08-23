@@ -1,0 +1,1082 @@
+=====
+[[include component:preview
+text=SCP9000競賽中心頁8/22 @ 11:59 PM EST以前不要公開]]
+=====
+
+[[include :scp-zh-tr:theme:basalt darkmode=a|hidetitle=a|centertitle=a]]
+
+[[div class="jumbotron"]]
++ SCP-9000競賽
+++ 體育
+[[div class="lights"]]
+[[/div]]
+[[/div]]
+
+[[=]]
+[[include info:start]]
+**原文：**[https://scp-wiki.wikidot.com/definitelyrealofficialscp9000contesthubplzdontbanusitsajoke SCP 9000 CONTEST VERY OFFICIALE]
+**原作：**[[*user radian628]]
+**譯者：**[[*user EmptyName723]]
+
+部分使用了[[*user Halewen]]在DC聊天室的內容翻譯。
+[[include info:end]]
+[[/=]]
+
+@@ @@
+
+[[div class="main"]]
+
+[[div style="background-color: #22222288; border-radius: 10px; box-shadow: 1px 2px 5px 0px rgba(0,0,0,0.75); padding: 2em; margin: 50px auto;"]]
+{{體育：人類最純粹的表現形式。毫無參雜的人類力量、意志與團隊合作，一切都在那令人著迷的人工草地上，由一群留著汗的男人互相搏鬥所展現。沒錯，體育就是社會文化的巔峰。今晚，SCP維基作者會將他們的最佳表現帶入會場，為了優勝而互相競爭──並贏得**SCP-9000**的桂冠。}}
+
+[[=]]
+++ 讓比賽開始吧！
+[[/=]]
+
+[[/div]]
+
++ 參賽指示：
+
+用戶必須符合以下條件才能獲得資格：
+* 完整填寫總共27頁的PDF申請檔。
+
+* 提交DNA樣本，以確保你的血緣純正（至少來自以下其中一位：F. Scott Fitzgerald、Ayn Rand、一位前Tumblr詩人）
+
+* 你的英文教授的推薦信。
+
+* 寫出一篇與[[*user syuzhet]]的文風相似的SCP。
+
+* 必須是一位18歲以下的成年人。
+
++ 標籤：
+
+未妥善標籤頁面的作者將得到一次標籤違規。得到三次標籤違規的用戶將會遭到MAST狙擊手[[footnote]]現正招募中。[[/footnote]]射殺。不要在自己的作品中加上「9000」標籤。我們非常不鼓勵你為自己的作品加上標籤，而是應該讓MAST的友善志工為你服務。不要自己加上「scp」標籤，這必須由MAST成員操作。不妥善的標籤屬於違規。MAST是對的。不要質疑MAST。MAST是對的。MAST是對的。
+
++ 規則：
+
+* 當個好的運動家。
+
+* 為了確保競賽安全，各作品的評分將會透過CSS隱藏。各用戶應嚴肅地勾起小拇指，約定不會用檢視網站元素功能規避此規則。
+
+* 讀者不得對作品扣分。事實上，你也不應該為它們加分。我們會一直用高爾夫球桿爆打[[*user smlt]]，直到他為Crom添加遠端監控功能為止，如此一來，你便可以用它來閱讀競賽文章，同時確保你不會為任何一篇評分。
+
+* 喔對，不評分也是禁止的。
+
+* 評分階段結束時最高分的文章便是獲勝者。
+
+* 如果有平手的狀況發現，獲勝者將透過小刀決戰決定。
+
+* 任何進行可疑和／或負面行為來增加自己的票數，或減少對手票數的參賽者，將會因他們的技術和鬼斧神工獲得恭賀，並可能根據程度被提拔進競賽團隊，甚至能進一步升職。
+
+* 用「運動球」誹謗的任何人將被立即封禁。
+
+* 「體育」的詮釋方式非常狹隘。只要你能用任何詮釋方式解釋你的作品如何與體育有所關聯，你大概就是錯的。如果你不確定它是否符合，那大概就不會。我們競賽團隊可沒有時間處理這坨鳥事，畢竟我們太忙於起訴一位威脅如果沒有贏得競賽，便會捐贈100,000美元到傳統基金會的用戶。
+
+* 所有文章都有5,000字的限制。然而，只要每5,000字的段落之間都有五分鐘的廣告時間分隔，該文章就可以不受限制。[[footnote]]那些律師的聘用費可不會自己付清。[[/footnote]]
+
+* 任何聲稱自己「為了廣告而閱讀『某篇文章』」的用戶都會因惡意閱讀而遭到永久封禁。
+
+* 禁止使用表現增強藥物（例如：古柯鹼、酒精、咖啡因、DHMO[[footnote]][[span class="ruby"]]一氧化二氫[[span class="rt"]]Dihydrogen Monoxide[[/span]][[/span]][[/footnote]]）。
+
+* 也禁止使用表現減弱藥物（例如：ChatGPT、Grammarly）。
+
+* SCP-9000競賽的競賽負責人是[[*user ubergoober]]和[[*user radian628]]，先前的團隊是因選擇了錯誤的競賽主題而被炒了魷魚。請無視有三百個充滿謎團的新帳號為我們的作品加分，那都歸功於我們優秀的網路推廣能力，是完全正常的網站發掘機制所導致的結果。
+
+* 調查[[*user ubergoober]]房子後面的垃圾箱會導致你立即失去資格。
+
+* 記得補充水分！
+
++ 允許的體育項目：
+
+為了避免那些欺詐者用廣泛的方式詮釋競賽主題，或是更糟：用什麼算是「體育」的提問打擾我們，我們列出了以下的白名單與黑名單。這些清單是完整的，所以不要用像是Calvinball算不算體育的問題質問我們。請記住：競賽主題是用來限制的，不是引發靈感的！
+
+[[div class="grid"]]
+
+[[div style="background-color: #222; color: white;"]]
+++ 黑名單
+
+* 高爾夫球
+* 沙包洞
+* 微軟飛行模擬器
+* 夢幻足球
+* 冰釣[[footnote]]請養成一個真正的興趣。[[/footnote]]
+* 撲克牌
+* 大胃王競賽
+* 馬拉松（賽事）
+* 沙狐球
+* 足球（國際版）
+
+[[/div]]
+
+[[div style="background-color: #eee; color: black; text-shadow: none;"]]
+++ 白名單
+
+* 釣鱸魚競賽
+* 極限熨燙
+* 魔術方塊
+* 空氣曲棍球
+* 洞穴潛水
+* 脫衣撲克牌
+* 腳趾摔角
+* 馬拉松（//嬌妻真人秀//）
+* 職業鬼抓人
+* 足球（美國版）
+
+[[/div]]
+[[/div]]
+
++ 常見問題：
+
+**Q：我可以寫魁地奇／飛梭賽車／西洋棋／［其他虛構體育］嗎？**
+A：只要你能保護我們不會接到DMCA聲明就好。
+
+**Q：如果我想要自己想出一種體育呢？**
+A：是怎樣，會是「SCP文章寫作競技」嗎？我們可沒有那麼笨，滾開。
+
+**Q：電子競技算嗎？**
+A：嘿，你可以站在這個巨大、令人可疑地空的置物櫃前面一下嗎？
+
+**Q：如果我討厭體育呢？**
+A：他媽的，我早就知道了。
+
+**Q：我可以寫一個「其實真正的運動是我們的友誼」的故事嗎？**
+A：為了避免有人形成小團體並接著導致不可避免的拉票情況發生，SCP-9000參與者不可擁有「朋友」。[[footnote]]不過我們發現這對大部分的參賽者都沒有影響。[[/footnote]]
+
+**Q：剪刀石頭布算嗎？**
+A：說實在的，剪刀毀了現在的環境。過去十年來，我一直都是世界級的布玩家，而那一直都很有趣且令人興奮，有著各種酷炫的策略存在，像是包住石頭之類的。但是，現在所有人都在用剪刀，而那毀了這款遊戲，因為他們都只會剪布、剪布、剪布。我恨透了，我了解且喜愛的遊戲變成了毫無創意的垃圾，只因為他們找到了將所有樂趣一掃而空的最佳策略。剪刀石頭布以前很酷的。
+
+等等，問題是什麼來著？
+
+**Q：體育需要有[[span class="ruby"]]球[[span class="rt"]]balls[[/span]][[/span]]嗎？**
+A：你那是性別歧視。
+
+[[span class="ruby"]]瘋起來吧[[span class="rt"]]Go nuts[[/span]][[/span]]。
+
++ 獎賞：
+
+* **富有爭議：**留言數比加分數更多。如果討論區裡有三個段落長的論文則有額外分數。
+
+* **愛哭鬼：**因為對競賽抱怨而遭到封禁。
+
+* **破壞家：**在與競賽團隊爭辯無意義的細節上浪費最多時間。
+
+* **偽裝大師：**在競賽中投稿至少三篇作品，同時不被發現。
+
+* **胡狼：**在投稿結束前一小時投稿你的作品。
+ 
+* **更優秀的賭徒：**在夢幻9k競賽──由[[*user radian628]]主辦──中下注並獲得最大收益。[[footnote]]考量到那些居住在賭博違法的國家的用戶，為了使這項獎項公平，你也可以納入你引入進文章的虛擬貨幣挖礦程式的收益。[[/footnote]]
+
++ 額外資訊：
+
+基於SCP-9999是最後一個四位數的號碼，它佔有重要地位，而競賽團隊決定它重要到不能只透過一場競賽頒給單一位用戶。在這場競賽的第三位主辦建議建立另一個如SCP-001的「提案」系統後，他差點被自己屋外的憤怒群眾毆打致死。為了避免更進一步的動亂，我們決定將以下嶄新且獨創的文章放到SCP-9999的位置：
+
+[[div style="font-size: 150%;"]]
+[[=]]
+[[collapsible show="+ 揭露SCP-9999?" hide="- 關閉"]]
+[[div style="transform: rotate(180deg);"]]
+[[html style="background-color: white;"]]
+
+    <script>
+      setInterval(() => {
+        document.getElementById("skrollr-body").style.height = "800px";
+        document.getElementById("skrollr-body").style.overflow = "auto";
+     }, 300);
+    </script>
+
+    <title>SCP-6666 - SCP基金會</title>
+    
+    
+    <meta http-equiv="content-type" content="text/html;charset=UTF-8">
+                            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+                                <meta name="description" content="屬於SCP基金會【機密】資料庫，為了你的享受而解密。">
+                                <meta name="og:image" content="https://scp-wiki.wdfiles.com/local--files/main/logo_white.png">
+                                <meta name="twitter:site" content="@scpwiki">
+                                <meta name="twitter:image:alt" content="Seal of the SCP Foundation">
+                                <meta name="og:site_name" content="The SCP Foundation">
+                                <meta name="twitter:card" content="summary">
+                                <meta name="theme-color" content="#882244">
+                                <meta name="og:type" content="article">
+                                <meta name="og:locale" content="en_US">
+                                <meta name="og:locale:alternate" content="en_GB">
+                            
+    
+    
+    
+    
+    <meta http-equiv="content-language" content="en">
+    
+        
+    
+    <style type="text/css" id="internal-style">
+        
+        /* modules */
+@import url(https://d3g0gp89917ko0.cloudfront.net/v--4b961b7cc327/common--modules/css/pagerate/PageRateWidgetModule.css);
+
+
+        
+                
+        /* theme */
+                    @import url(https://d3g0gp89917ko0.cloudfront.net/v--4b961b7cc327/common--theme/base/css/style.css);
+                    @import url(https://cdn.scpwiki.com/theme/en/sigma/css/sigma.min.css);
+            </style>
+    
+        
+        
+        
+    <link rel="shortcut icon" href="/local--favicon/favicon.gif">
+    <link rel="icon" type="image/gif" href="/local--favicon/favicon.gif">
+    
+            <link rel="apple-touch-icon" href="/local--iosicon/iosicon_57.png">
+        <link rel="apple-touch-icon" sizes="72x72" href="/local--iosicon/iosicon_72.png">
+        <link rel="apple-touch-icon" sizes="114x114" href="/local--iosicon/iosicon.png">    
+        
+        
+            <link rel="alternate" type="application/wiki" title="Edit this page" href="javascript:WIKIDOT.page.listeners.editClick()">
+    
+    
+        <link rel="manifest" href="/onesignal/manifest.json">
+   
+        
+<style>
+iframe.scpnet-interwiki-frame { height: 0; }
+</style>
+<style></style><style></style>
+<div id="skrollr-body">
+<a name="page-top"></a>
+
+
+
+
+
+<div id="container-wrap-wrap">
+    <div id="container-wrap">
+        <div id="container">
+            <div id="header">
+              <h1><a href="/"><span>SCP基金會</span></a></h1>
+                
+                    <h2><span>控制，收容，保護</span></h2>
+                
+                
+                <!-- google_ad_section_start(weight=ignore) -->
+                
+                <div id="search-top-box" class="form-search">
+    <form id="search-top-box-form" action="dummy" class="input-append">
+        <input id="search-top-box-input" class="text empty search-query" type="text" size="15" name="query" value="Search this site" onfocus="if(YAHOO.util.Dom.hasClass(this, 'empty')){YAHOO.util.Dom.removeClass(this,'empty'); this.value='';}"><input class="button btn" type="submit" name="search" value="搜尋">
+    </form>
+</div>
+                
+                
+                    <div id="top-bar">
+                        
+
+<div class="top-bar">
+<ul>
+<li><a href="javascript:;">關於
+</a><ul>
+<li><a href="/about-the-scp-foundation">關於我們</a></li>
+<li><a href="/site-rules">網站規則</a></li>
+<li><a href="/faq">常見問題</a></li>
+<li><a href="/licensing-guide">授權協議</a></li>
+<li><a href="/criticism-policy">批評政策</a></li>
+<li><a href="/deletions-guide">文章刪除</a></li>
+</ul>
+</li>
+<li><a href="javascript:;">社群
+</a><ul>
+<li><a href="/news">網站新聞</a></li>
+<li><a href="/chat-guide">IRC聊天室</a></li>
+<li><a href="/authors-pages">作者頁面</a></li>
+<li><a href="/artist-directory">藝術家索引</a></li>
+<li><a href="/contest-archive">競賽資料庫</a></li>
+<li><a href="http://05command.wikidot.com/staff-list">工作人員名單</a></li>
+</ul>
+</li>
+<li><a href="javascript:;">資源
+</a><ul>
+<li><a href="/guide-hub">指南</a></li>
+<li><a href="/essay-resource-hub">心得 &amp; 資源</a></li>
+<li><a href="/wiki-syntax">維基語法</a></li>
+<li><a href="/sandbox">沙盒網站</a></li>
+<li><a href="/usertools">用戶工具</a></li>
+</ul>
+</li>
+<li><a href="javascript:;">姊妹網站
+</a><ul>
+<li><a href="http://scp-int.wikidot.com/">SCP國際站</a></li>
+<li><a href="https://wanderers-library.wikidot.com/">流浪者圖書館</a></li>
+</ul>
+</li>
+<li><a href="/contact-staff">聯絡我們</a></li>
+</ul>
+</div>
+<div class="mobile-top-bar">
+<div class="open-menu">
+<p><a href="#side-bar">≡</a></p>
+</div>
+<ul>
+<li><a href="javascript:;">關於
+</a><ul>
+<li><a href="/about-the-scp-foundation">關於我們</a></li>
+<li><a href="/site-rules">網站規則</a></li>
+<li><a href="/faq">常見問題</a></li>
+<li><a href="/licensing-guide">授權協議</a></li>
+<li><a href="/criticism-policy">批評政策</a></li>
+<li><a href="/deletions-guide">文章刪除</a></li>
+<li><a href="/contact-staff">聯絡工作人員</a></li>
+</ul>
+</li>
+<li><a href="javascript:;">社群
+</a><ul>
+<li><a href="/news">網站新聞</a></li>
+<li><a href="/chat-guide">IRC聊天室</a></li>
+<li><a href="/authors-pages">作者頁面</a></li>
+<li><a href="/artist-directory">藝術家索引</a></li>
+<li><a href="/contest-archive">競賽資料庫</a></li>
+<li><a href="http://05command.wikidot.com/staff-list">工作人員名單</a></li>
+</ul>
+</li>
+<li><a href="javascript:;">資源
+</a><ul>
+<li><a href="/guide-hub">指南</a></li>
+<li><a href="/essay-resource-hub">心得 &amp; 資源</a></li>
+<li><a href="/wiki-syntax">維基語法</a></li>
+<li><a href="/sandbox">沙盒網站</a></li>
+<li><a href="/usertools">用戶工具</a></li>
+</ul>
+</li>
+<li><a href="javascript:;">姊妹網站
+</a><ul>
+<li><a href="http://scp-int.wikidot.com/">SCP國際站</a></li>
+<li><a href="https://wanderers-library.wikidot.com/">流浪者圖書館</a></li>
+</ul>
+</li>
+</ul>
+</div>
+
+                    </div>
+                
+                <div id="login-status"><a href="javascript:;" onclick="WIKIDOT.page.listeners.createAccount(event)" class="login-status-create-account btn">建立帳號</a> <span>或</span> <a href="javascript:;" onclick="WIKIDOT.page.listeners.loginClick(event)" class="login-status-sign-in btn btn-primary">登入</a> </div>
+                <div id="header-extra-div-1"><span></span></div><div id="header-extra-div-2"><span></span></div><div id="header-extra-div-3"><span></span></div>
+            </div>
+            
+            <div id="content-wrap">
+                
+                    <div id="side-bar">
+                        
+
+
+                        
+
+<div class="side-block media" style="padding: 10px 0;">
+<div style="text-align: center;"><a href="https://www.facebook.com/scpfoundation"><img src="https://scp-wiki.wdfiles.com/local--files/nav:side/social-facebook.png" alt="Facebook" class="image"></a><a href="https://twitter.com/scpwiki"><img src="https://scp-wiki.wdfiles.com/local--files/nav:side/social-twitter.png" alt="Twitter" class="image"></a><a href="https://www.reddit.com/r/SCP"><img src="https://scp-wiki.wdfiles.com/local--files/nav:side/social-reddit.png" alt="Reddit" class="image"></a><a href="https://www.instagram.com/scpfoundationwiki"><img src="https://scp-wiki.wdfiles.com/local--files/nav:side/social-instagram.png" alt="Instagram" class="image"></a><a href="https://www.twitch.tv/scpwiki"><img src="https://scp-wiki.wdfiles.com/local--files/nav:side/social-twitch.png" alt="Twitch" class="image"></a><a href="https://www.tiktok.com/@scpwikiofficial?"><img src="https://scp-wiki.wdfiles.com/local--files/nav%3Aside/social-tiktok.png" alt="TikTok" class="image"></a><a href="https://discord.com/invite/scp"><img src="https://scp-wiki.wikidot.com/local--files/nav:side/icon-Discord-2023.png" alt="Discord" class="image"></a></div>
+</div>
+<div style="clear:both; height: 0px; font-size: 1px"></div>
+<div class="side-block resources">
+<div class="heading">
+<p>新手導引</p>
+</div>
+<div class="menu-item"><a href="/guide-for-newcomers">新成員指南</a></div>
+<div class="menu-item"><a href="/system:join">加入網站</a></div>
+<div class="menu-item"><a href="/contribute">如何貢獻</a> | <a href="/faq">常見問題</a></div>
+<div class="menu-item"><a href="/universe-hub">基金會宇宙中心</a></div>
+</div>
+<div style="clear:both; height: 0px; font-size: 1px"></div>
+<div class="side-block">
+<div class="menu-item"><a href="/">Main</a> | <a href="/forum:start">Forum</a></div>
+<div class="heading">
+<p>SCP檔案</p>
+</div>
+<div class="menu-item"><a href="/scp-series">I</a> | <a href="/scp-series-2">II</a> | <a href="/scp-series-3">III</a> | <a href="/scp-series-4">IV</a> | <a href="/scp-series-5">V</a></div>
+<div class="menu-item"><a href="/scp-series-6">VI</a> | <a href="/scp-series-7">VII</a> | <a href="/scp-series-8">VIII</a> | <a href="/scp-series-9">IX</a></div>
+<div class="heading">
+<p>其他SCP</p>
+</div>
+<div class="menu-item"><a href="/scp-ex">已解明</a> | <a href="/joke-scps">搞笑</a></div>
+<div class="menu-item"><a href="/scp-international">國際</a></div>
+<div class="heading">
+<p>網站資訊</p>
+</div>
+<div class="menu-item"><a href="/new-pages-feed">新創建頁面</a></div>
+<div class="menu-item small"><a href="/shortest-pages-this-month">最短頁面</a> | <a href="/top-rated-pages-this-month">最高分</a></div>
+<div class="menu-item"><a href="/system:recent-changes">網站近期修訂</a></div>
+<div class="menu-item"><a href="/forum:recent-posts">討論區最新貼文</a></div>
+<div class="menu-item"><a href="/lowest-rated-pages">最低分頁面</a></div>
+<div class="heading">
+<p>故事</p>
+</div>
+<div class="menu-item"><a href="/foundation-tales">故事中心頁</a> | <a href="/series-archive">系列</a></div>
+<div class="menu-item"><a href="/groups-of-interest">關注組織</a></div>
+<div class="menu-item"><a href="/goi-formats">GoI格式</a></div>
+<div class="menu-item"><a href="/canon-hub">世界現中心頁</a></div>
+<div class="heading">
+<p>發掘</p>
+</div>
+<div class="menu-item"><a href="/artwork-hub">藝作中心頁</a></div>
+<div class="menu-item"><a href="/curated-lists">推薦列表</a></div>
+<div class="menu-item"><a href="/curated-tale-series">推薦故事系列</a></div>
+<div class="menu-item"><a href="/tag-search">標籤搜尋</a></div>
+<div class="heading">
+<p>隨機</p>
+</div>
+<div class="menu-item"><a href="/random:random-scp">SCP</a> | <a href="/random:random-tale">故事</a> | <a href="/random:random-goi-format">GOI</a> | <a href="/random:random-art">藝術作品</a></div>
+<div class="menu-item"><a href="/random:random-page">隨機頁面</a></div>
+</div>
+<a class="close-menu" href="##"><br>
+<img src="https://scp-wiki.wdfiles.com/local--files/nav:side/black.png" style="z-index:-1; opacity: 0.3;" alt="black.png" class="image"><br></a>
+
+
+<div class="scpnet-interwiki-wrapper interwiki-stylable"><div class="list-pages-box">    <div class="list-pages-item">
+
+
+<p><iframe src="//interwiki.scpwiki.com/interwikiFrame.html?lang=zh-tr&amp;community=scp&amp;pagename=scp-021-j" allowtransparency="true" class="html-block-iframe scpnet-interwiki-frame" style="height: 273.767px;"></iframe></p>
+</div>
+    
+    
+    
+    </div></div>
+<p><iframe src="//interwiki.scpwiki.com/styleFrame.html?priority=0&amp;theme=https://cdn.scpwiki.com/theme/en/sigma/css/sigma.min.css&amp;css={$css}" style="display: none"></iframe></p>
+<div style="position: absolute; top: -9999px; left: -9999px"><div class="list-pages-box">    <div class="list-pages-item">
+
+
+<img src="https://api.crom.avn.sh/pixel?site_name=scp-wiki&amp;fullname=scp-021-j&amp;revisions=21&amp;rating=305&amp;rating_votes=863" alt="" class="image"></div>
+    
+    
+    
+    </div></div>
+
+                        
+
+
+                    </div>
+                
+                
+                <!-- google_ad_section_end -->
+                
+                <div id="main-content">
+                    <div id="action-area-top"></div>
+                    
+                    
+                        <div id="page-title">
+                            SCP-6666
+                        </div>
+                    
+
+                    
+
+                    
+
+
+
+                    <div id="page-content">
+                        
+
+<div style="text-align: right;"><div class="page-rate-widget-box"><span class="rate-points">評分：&nbsp;<span class="number prw54353">+305</span></span><span class="rateup btn btn-default"><a title="我喜歡" href="javascript:;" onclick="WIKIDOT.modules.PageRateWidgetModule.listeners.rate(event, 1)">+</a></span><span class="ratedown btn btn-default"><a title="我不喜歡" href="javascript:;" onclick="WIKIDOT.modules.PageRateWidgetModule.listeners.rate(event, -1)">–</a></span><span class="cancel btn btn-default"><a title="取消我的投票" href="javascript:;" onclick="WIKIDOT.modules.PageRateWidgetModule.listeners.cancelVote(event)">x</a></span></div></div>
+<p><strong>項目編號：</strong>SCP-6666</p>
+<p><strong>項目等級：</strong>危儉</p>
+<div class="scp-image-block block-right" style="width:300px;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Plastic_Water_Bottle.jpg/640px-Plastic_Water_Bottle.jpg" alt="640px-Plastic_Water_Bottle.jpg" class="image">
+<div class="scp-image-caption">
+<p>邪惡 :(</p>
+</div>
+</div>
+<p><strong>特殊收容措施：</strong>不可能收容</p>
+<p><strong>描述：</strong>邪惡水并瓦</p>
+<div class="licensebox">
+<div class="collapsible-block">
+<div class="collapsible-block-folded"><a class="collapsible-block-link" href="javascript:;">‡&nbsp;授權&nbsp;/&nbsp;引用資訊</a></div>
+<div class="collapsible-block-unfolded" style="display:none">
+<div class="collapsible-block-unfolded-link"><a class="collapsible-block-link" href="javascript:;">‡&nbsp;隱藏&nbsp;授權&nbsp;/&nbsp;引用資訊</a></div>
+<div class="collapsible-block-content">
+<p>請在引用該頁面時添加以下資訊：</p>
+<div class="list-pages-box">    <div class="list-pages-item">
+
+
+<blockquote>
+<p>發表於<a href="https://scpwiki.com">SCP維基</a>的《<a href="/SCP-6666" class="active">SCP-6666</a>》由bigmaleman著作。原文來源：<a href="https://scpwiki.com/SCP-6666">https://scpwiki.com/SCP-6666</a>。授權方式為<a href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA</a>。</p>
+</blockquote>
+</div>
+    
+    
+    
+    </div>
+<p>欲瞭解如何使用這個組件，請詳見<a href="/component:license-box">評分模塊組件</a>。欲瞭解授權政策，請詳見<a href="/licensing-guide">授權指南</a>。</p>
+<div class="content-separator" style="display: none:"></div>
+<blockquote>
+<p><strong>檔案名稱：</strong> Plastic_Water_Bottle.jpg<br>
+<strong>圖像作者：</strong> Kykywinks<br>
+<strong>圖像授權協議：</strong> CC 4.0<br>
+<strong>圖源連結：</strong> <a href="https://commons.wikimedia.org/wiki/File:Plastic_Water_Bottle.jpg">https://commons.wikimedia.org/wiki/File:Plastic_Water_Bottle.jpg</a></p>
+</blockquote>
+<div class="content-separator" style="display: none:"></div>
+</div>
+</div>
+</div>
+</div>
+
+                    </div>
+
+                            
+                    
+    
+
+                    
+
+
+                    
+
+
+
+                    
+                        <div class="page-tags">
+                            <span>
+                                <a href="/system:page-tags/tag/_cc#pages">_cc</a><a href="/system:page-tags/tag/scp#pages">scp</a><a href="/system:page-tags/tag/人造物品#pages">人造物品</a><a href="/system:page-tags/tag/搞笑#pages">搞笑</a><a href="/system:page-tags/tag/敵意#pages">敵意</a><a href="/system:page-tags/tag/未收容#pages">未收容</a><a href="/system:page-tags/tag/機密分級#pages">機密分級</a><a href="/system:page-tags/tag/液體#pages">液體</a>
+                            </span>
+                        </div>
+                    
+
+                    <div id="page-info-break"></div>
+                    
+                        <div id="page-options-container">
+                            <div id="page-info">頁面更改紀錄：21, 最後編輯於：<span class="odate time_1729038437 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20ago%29" style="display: inline;">15 Oct 2024, 17:27 (311 days 前)</span></div>
+            <div id="page-options-bottom" class="page-options-bottom">
+            <a href="javascript:;" class="btn btn-default" id="edit-button">編輯</a>
+<a href="javascript:;" class="btn btn-default" id="pagerate-button">評分（<span id="prw54355">+305</span>）</a>
+<a href="javascript:;" class="btn btn-default" id="tags-button">標籤</a>
+<a href="/forum/t-16465447/scp-021-j" class="btn btn-default" id="discuss-button">討論（321）</a>
+<a href="javascript:;" class="btn btn-default" id="history-button">歷程紀錄</a>
+<a href="javascript:;" class="btn btn-default" id="files-button">檔案</a>
+<a href="javascript:;" class="btn btn-default" id="print-button">打印</a>
+<a href="javascript:;" class="btn btn-default" id="site-tools-button">網站工具</a>
+<a href="javascript:;" class="btn btn-default" id="more-options-button">+&nbsp;選項</a>
+</div>
+<div id="page-options-bottom-2" class="page-options-bottom form-actions" style="display:none">
+    <a href="javascript:;" class="btn btn-default" id="edit-sections-button">編輯段落</a>
+    <a href="javascript:;" class="btn btn-default" id="edit-append-button">附加</a>
+    <a href="javascript:;" class="btn btn-default" id="edit-meta-button">編輯元資料</a>
+    <a href="javascript:;" class="btn btn-default" id="watchers-button">關注者</a>
+    <a href="javascript:;" class="btn btn-default" id="backlinks-button">反向連結</a>
+    <a href="javascript:;" class="btn btn-default" id="view-source-button">頁面源代碼</a>
+    <a href="javascript:;" class="btn btn-default" id="parent-page-button">父頁面</a>
+    <a href="javascript:;" class="btn btn-default" id="page-block-button">鎖定頁面</a>    
+    <a href="javascript:;" class="btn btn-default" id="rename-move-button">重新命名</a>
+    <a href="javascript:;" class="btn btn-default" id="delete-button">刪除</a>
+</div>
+<div id="page-options-area-bottom">
+</div>
+
+                        </div>
+                    
+                    <div id="action-area" style="display: none;"></div>
+                </div>
+            </div>
+            
+            
+            
+            <div id="footer" style="display: block; visibility: visible;">
+                <div class="options" style="display: block; visibility: visible;">
+    <a href="http://www.wikidot.com/doc" id="wikidot-help-button">說明</a>
+    &nbsp;|
+    <a href="http://www.wikidot.com/legal:terms-of-service" id="wikidot-tos-button">服務條款</a>
+    &nbsp;|
+    <a href="http://www.wikidot.com/legal:privacy-policy" id="wikidot-privacy-button">隱私</a>
+    &nbsp;|
+    <a href="javascript:;" id="bug-report-button" onclick="WIKIDOT.page.listeners.pageBugReport(event)">錯誤回報</a>
+    &nbsp;|
+    <a href="javascript:;" id="abuse-report-button" onclick="WIKIDOT.page.listeners.flagPageObjectionable(event)">標記為令人反感的</a>
+    <span id="consent-box" style="display:none">
+        &nbsp;|
+        <a href="javascript:;" onclick="window.__cmp('showModal');">更新Cookie設定</a>
+    </span>
+
+</div>
+基於 <a href="http://www.wikidot.com">Wikidot.com</a>
+            </div>
+            
+                <div id="license-area" class="license-area">
+                    除非特別註明，本頁內容採用以下授權方式：<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 License</a>
+                </div>
+            
+            
+            
+
+
+
+            <div id="extrac-div-1"><span></span></div><div id="extrac-div-2"><span></span></div><div id="extrac-div-3"><span></span></div>
+            
+            
+            
+            
+                
+            
+        </div>
+        
+    </div>
+<!-- 這些額外的div/span可以用以增加額外圖片。 -->
+<div id="extra-div-1"><span></span></div><div id="extra-div-2"><span></span></div><div id="extra-div-3"><span></span></div>
+<div id="extra-div-4"><span></span></div><div id="extra-div-5"><span></span></div><div id="extra-div-6"><span></span></div>
+</div>
+
+
+
+
+</div>
+<div id="dummy-ondomready-block" style="display: none;"></div>
+  
+
+
+
+
+<div id="page-options-bottom-tips" style="display: none;">
+    
+</div>
+<div id="page-options-bottom-2-tips" style="display: none;">
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+            
+        
+        
+        
+        
+    </div>
+
+<div id="odialog-hovertips" style="position: absolute; z-index: 100; top: 0px; width: 100%;"><div id="edit-button-hovertip" class="hovertip " style="position: absolute; display: none; border: 1px solid black;"><div class="content">
+        請點此編輯本頁內容。    </div></div><div id="edit-sections-button-hovertip" class="hovertip " style="position: absolute; display: none; border: 1px solid black;"><div class="content">
+        單擊此處切換頁面各部份的編輯按鈕（如果可能）。         在標題邊會顯示「編輯」鏈接。    </div></div><div id="edit-append-button-hovertip" class="hovertip " style="position: absolute; display: none; border: 1px solid black;"><div class="content">
+        在不編輯整個頁面原始碼的情形下添加內容。    </div></div><div id="history-button-hovertip" class="hovertip " style="position: absolute; display: none; border: 1px solid black;"><div class="content">
+        看看本頁過去是如何沿革的。    </div></div><div id="discuss-button-hovertip" class="hovertip " style="position: absolute; display: none; border: 1px solid black;"><div class="content">
+       若您想要討論本頁內容 - 這是最簡單的方法。    </div></div><div id="files-button-hovertip" class="hovertip " style="position: absolute; display: none; border: 1px solid black;"><div class="content">
+        檢視並管理本頁附件。    </div></div><div id="site-tools-button-hovertip" class="hovertip " style="position: absolute; display: none; border: 1px solid black;"><div class="content">
+        管理網站的好用工具。    </div></div><div id="backlinks-button-hovertip" class="hovertip " style="position: absolute; display: none; border: 1px solid black;"><div class="content">
+        檢視連至本頁或包含本頁的頁面。    </div></div><div id="rename-move-button-hovertip" class="hovertip " style="position: absolute; display: none; border: 1px solid black;"><div class="content">
+        變更頁面名稱（及 URL 位址，或許會改變分類）。    </div></div><div id="view-source-button-hovertip" class="hovertip " style="position: absolute; display: none; border: 1px solid black;"><div class="content">
+        在不編輯的情形下檢視維基原始碼。    </div></div><div id="parent-page-button-hovertip" class="hovertip " style="position: absolute; display: none; border: 1px solid black;"><div class="content">  
+        檢視／設定父頁面（用以建立瀏覽足跡與結構化配置）。    </div></div><div id="abuse-report-button-hovertip" class="hovertip " style="position: absolute; display: none; border: 1px solid black;"><div class="content">
+            向管理者檢舉本頁有令人反感的內容。        </div></div><div id="bug-report-button-hovertip" class="hovertip " style="position: absolute; display: none; border: 1px solid black;"><div class="content">
+            事情不如預期？找找看您可以做些什麼        </div></div><div id="wikidot-help-button-hovertip" class="hovertip " style="position: absolute; display: none; border: 1px solid black;"><div class="content">
+            一般的 Wikidot.com 文件與說明。        </div></div><div id="wikidot-tos-button-hovertip" class="hovertip " style="position: absolute; display: none; border: 1px solid black;"><div class="content">
+            Wikidot.com 服務條館 - 您可以做的是，您不該做的事之類的。Terms of Service - what you can, what you should not etc.        </div></div><div id="wikidot-privacy-button-hovertip" class="hovertip " style="position: absolute; display: none; border: 1px solid black;"><div class="content">
+            Wikidot.com 隱私政策。          
+        </div></div></div>
+[[/html]]
+[[/div]]
+[[/collapsible]]
+[[/=]]
+[[/div]]
+
+代替SCP-9999的位置，此競賽的第二名可以選擇SCP-10000的位置。
+
+[[div class="football"]]
+[[image https://scp-wiki.wdfiles.com/local--files/definitelyrealofficialscp9000contesthubplzdontbanusitsajoke/football.png]]
+[[/div]]
+
+[[=]]
+[[collapsible show="+ 腳註" hide="- 隱藏"]]
+[[<]]
+[[footnoteblock]]
+[[/collapsible]]
+[[/<]]
+[[/=]]
+
+
+[[include :scp-zh-tr:component:license-box
+|author=radian628 和 ubergoober]]
+> **檔案名稱：** 0001.webp, 0002.webp, 0003.webp
+> **圖像作者：**[[*user radian628]]
+> **圖像授權協議：** CC BY-SA
+> **圖源連結：** SCP Wiki
+> **其他附註：** 球場背景圖片
+
+> **檔案名稱：** SCP-021-J
+> **圖像作者：**[[*user bigmaleman]]
+> **圖像授權協議：** CC BY-SA
+> **圖源連結：** [https://scpwiki.com/scp-021-j SCP維基]
+
+> **檔案名稱：** football.png
+> **圖像名稱：:** Football
+> **圖像作者：** Simanek
+> **圖像授權協議：** Public Domain
+> **圖源連結：** [https://openclipart.org/detail/102853/football OpenClipArt]
+[[include :scp-zh-tr:component:license-box-end]]
+
+[[/div]]
+
+
+
+
+
+[!-- BEWARE! CSS below. --]
+
+[[module CSS]]
+@import url(https://db.onlinewebfonts.com/c/06293470459fdd61c89494d32c8a4583?family=Libre+Clarendon);
+
+:root {
+    --basalt-secondary-color: 0, 0, 0;
+
+    --basalt-overtone: 73, 90, 211;
+    --basalt-undertone: 73, 90, 211;
+    --basalt-bright-element-color: 73, 90, 211;
+    --basalt-dark-element-color: 73, 90, 211;
+
+    --link-color: 255, 255, 255;
+    --link-visited-color: 150, 150, 150;
+
+    --top-bar-link-color-hover: 255, 255, 255;
+    --login-status-text-color-hover: 255, 255, 255;
+    --side-bar-link-color-hover: 255, 255, 255;
+    --side-bar-link-background-hover: 73, 90, 211;
+
+    --header-border-width: 0rem;
+    --title-size: 1.25rem;
+    --subtitle-size: 0rem;
+    --side-bar-button-height: 50vh;
+    --user-button-width: 2rem;
+    --header-logo-size: 67.5%;
+
+    --basalt-UI-dark-palette: 0, 0, 0;
+    --top-bar-link-background-hover: 73, 90, 211;
+
+}
+
+#page-content a:visited {
+  color: #fff;
+}
+
+hr {
+  background-color: white;
+  filter: drop-shadow(0.75px 0.75px 0 black)
+drop-shadow(-0.75px -0.75px 0 black)
+drop-shadow(-0.75px 0.75px 0 black)
+drop-shadow(0.75px -0.75px 0 black);
+}
+
+
+
+#page-content {
+  text-shadow:
+    1px 1px 0 black,
+    1px -1px 0 black,
+    -1px 1px 0 black,
+    -1px -1px 0 black;
+}
+
+#header h1 a::before {
+    display: none;
+}
+
+#header h1 a span::after {
+    margin-bottom: 0;
+}
+
+.main { margin: auto; width: 80%; color: white; }
+
+.main h1 {
+  position: relative;
+  padding: 1em;
+  font-size: 2em;
+  font-family: "Libre Clarendon", serif;
+  color: white;
+  background-color: transparent;
+  display: inline-block;
+  margin: auto;
+  text-align: center;
+  line-height: 1.2;
+  box-sizing: border-box;
+  z-index: 1;
+}
+
+.main h1::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: #822b1baa;
+  z-index: -1;
+  clip-path: polygon(
+    10% 10%, 90% 10%,   
+    100% 50%,           
+    90% 90%, 10% 90%,   
+    0% 50%              
+  );
+}
+
+#container #header {
+    background: none;
+    /* position: absolute; */
+    box-shadow: unset;
+    backdrop-filter: none;
+}
+
+@media (min-width: 768px) {
+  #container #header {
+    position: absolute;
+  }
+}
+
+.page-source {
+    color: white;
+}
+
+#page-content {
+  perspective: 100vw;
+  margin-bottom: 500px;
+}
+
+.jumbotron {
+  transform: rotateX(-100deg);
+  width: 100%;
+  padding: 80px 20px;
+  margin: 200px auto;
+  background: linear-gradient(135deg, #8b0000, #b22222, #ff8c00, #228b22, #4682b4, #4b0082, #800080);
+  background-size: 1400% 1400%;
+  animation: rainbow 10s linear infinite;
+  color: #fff;
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  box-shadow:
+    inset 0 0 20px #000,
+    0 0 40px rgba(255, 255, 255, 0.4),
+    0 0 0 20px #333,
+    0 0 0 25px #111,
+    0 0 0 30px #666;
+  border-radius: 20px;
+  border-top: 10px double #fff;
+  border-bottom: 10px double #fff;
+  position: relative;
+  z-index: 1;
+}
+
+.jumbotron h1 {
+  font-size: 8em;
+  margin-bottom: 30px;
+  text-shadow: 3px 3px 0 #000, 5px 5px 10px #ff0;
+  animation: pulse 1.5s infinite;
+}
+
+.jumbotron h2 {
+  font-size: 4em;
+  text-shadow: 2px 2px 0 #000;
+  animation: flicker 2s infinite;
+}
+
+
+@keyframes rainbow {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+
+@keyframes pulse {
+  0% { transform: scale(1); }
+  50% { transform: scale(1.05); }
+  100% { transform: scale(1); }
+}
+
+@keyframes flicker {
+  0%, 19%, 21%, 23%, 25%, 54%, 56%, 100% {
+    opacity: 1;
+  }
+  20%, 22%, 24%, 55% {
+    opacity: 0.5;
+  }
+}
+
+.lights {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: repeating-linear-gradient(
+    45deg,
+    rgba(255,255,255,0.2),
+    rgba(255,255,255,0.2) 10px,
+    transparent 10px,
+    transparent 20px
+  );
+  animation: strobe 0.3s infinite;
+  z-index: -1;
+}
+
+@keyframes strobe {
+  0% { opacity: 0.3; }
+  50% { opacity: 0.8; }
+  100% { opacity: 0.3; }
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 1rem;
+    margin-bottom: 2.4rem;
+    box-sizing: border-box;
+}
+.grid > div {
+    box-shadow: 0px 0px 4px rgba(0,0,0,0.2);
+    padding: 0.8rem;
+    border-radius: 6px;
+    box-sizing: border-box;
+    position: relative;
+}
+
+body {
+  --bg-size: min(3300px, 330vw);
+  --bg-vert-shift: -300px;
+  background-image: url("https://scp-wiki.wdfiles.com/local--files/definitelyrealofficialscp9000contesthubplzdontbanusitsajoke/0001.webp"),  url("https://scp-wiki.wdfiles.com/local--files/definitelyrealofficialscp9000contesthubplzdontbanusitsajoke/0003.webp"), url("https://scp-wiki.wdfiles.com/local--files/definitelyrealofficialscp9000contesthubplzdontbanusitsajoke/0002.webp");
+  background-position:
+    center var(--bg-vert-shift),
+    center calc(round(up, 100%, var(--bg-size)) + var(--bg-vert-shift)),
+    center var(--bg-vert-shift);
+  background-size: var(--bg-size);
+  background-repeat: no-repeat, no-repeat, repeat-y;
+  background-color: black;
+}
+
+.footnotes-footer {
+  background-color: transparent;
+  width: 80%;
+  margin: auto;
+  margin-top: 200px;
+  color: white;
+}
+
+#page-content .footnote-footer a {
+  background-color: transparent;
+}
+
+.footnotes-footer .title {
+  background-color: transparent;
+  font-size: 1rem;
+  color: white;
+}
+
+.footnotes-footer::before {
+  background-color: transparent;
+}
+
+#page-content h1 {
+  margin: auto;
+  display: block;
+  width: fit-content;
+}
+
+.football {
+    position: relative;
+    margin: 200px auto;
+    width: 30%;
+}
+
+.football:after {
+    content:"這裡都是球咖！";
+    visibility:hidden;
+    width: 200px;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+
+    /* Position the tooltip */
+    position: absolute;
+    z-index: 1;
+    top: 100%;
+    left: 50%;
+    margin-left: -100px;
+}
+
+.football:hover:after, .football:active:after {
+    visibility: visible;
+}
+
+#page-content {
+  perspective: 200vh;
+}
+
+
+@media (max-width: 600px) {
+  .jumbotron h1 {
+    line-height: 1;
+  }
+
+  #page-content {
+    perspective: 300vh;
+  }
+}
+
+.jumbotron {
+  padding: 80px 0;
+}
+
+.jumbotron h1 {
+  font-size: min(8em, 14vw);
+}
+
+.jumbotron h2 {
+  font-size: min(4em, 7vw);
+}
+
+@media (max-width: 500px) {
+  .jumbotron {
+    margin-top: 50px;
+    margin-bottom: 100px;
+  }
+}
+
+@media (max-width: 550px) {
+  .grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+#page-content :not(.jumbotron) h1 {
+  display: grid;
+  grid-template-columns: 1fr max-content 1fr;
+  align-items: center;
+  width: 100%;
+  justify-content: center;
+}
+
+@media (max-width: 600px) {
+#page-content h1::before,
+#page-content h1::after {
+  display: none;
+}
+
+#page-content :not(.jumbotron) h1 {
+  grid-template-columns: max-content;
+}
+}
+
+#page-content :not(.jumbotron) h1::before,
+#page-content :not(.jumbotron) h1::after {
+  filter:
+    drop-shadow(0.7px 0.7px 0 black)
+    drop-shadow(-0.7px 0.7px 0 black)
+    drop-shadow(-0.7px -0.7px 0 black)
+    drop-shadow(0.7px -0.7px 0 black);
+  position: static;
+  background-color: white;
+  clip-path: none;
+  height: 4px;
+  content: "";
+}
+
+#page-content :not(.jumbotron) h1 span {
+  padding: 0 30px;
+}
+
+.page-rate-widget-box {
+  position: relative;
+  z-index: 9999999999999999999;
+}
+
+[[/module]]
