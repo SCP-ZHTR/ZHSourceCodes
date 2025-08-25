@@ -478,7 +478,8 @@ h1, #page-options-container, .licensebox .collapsible-block-folded a, .page-watc
 @@@@
 @@@@
 
-[[include :scp-zh-tr:component:license-box]]
+[[include :scp-zh-tr:component:license-box
+|author=Naepic]]
 =====
 > **檔案名稱：** banner.png
 > **圖像名稱：** 這個授權區塊將會在授權團隊提振士氣之前保持空白。
