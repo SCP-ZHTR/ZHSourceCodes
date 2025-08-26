@@ -29,7 +29,7 @@
 [[/module]]
 [[include info:start]]
 作者：[[*user Purple Zhuo]]
-篇名：SCP-ZH-XXXX 項目標題
+篇名：SCP-ZH-958 -『砰』的一聲 
 [[include info:end]]
 
 **項目編號：** SCP-ZH-958
