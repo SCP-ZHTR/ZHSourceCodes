@@ -773,7 +773,7 @@
 * [[[SCP-719]]] - Light-Bringer
 * [[[SCP-720]]] - 圓形監獄
 * [[[SCP-721]]] - Factory Toys
-* [[[SCP-722]]] - Jörmungandr
+* [[[SCP-722]]] - 耶夢加德
 * [[[SCP-723]]] - Aging Staircase
 * [[[SCP-724]]] - //Procyon stentor//
 * [[[SCP-725]]] - Parrot Whale
