@@ -1,3 +1,5 @@
+[[include component:scp-meta-title-hiding css-style=classic]]
+
 [[module css]]
 .page {
     display: block;
