@@ -633,7 +633,7 @@
 * [[[SCP-7579]]] - Ø是「ØRKESLØS」
 * [[[SCP-7580]]] - [ACCESS DENIED]
 * [[[SCP-7581]]] - [ACCESS DENIED]
-* [[[SCP-7582]]] - [ACCESS DENIED]
+* [[[SCP-7582]]] - **未知**
 * [[[SCP-7583]]] - [ACCESS DENIED]
 * [[[SCP-7584]]] - [ACCESS DENIED]
 * [[[SCP-7585]]] - [ACCESS DENIED]
@@ -886,7 +886,7 @@
 * [[[SCP-7820]]] - The Polar People
 * [[[SCP-7821]]] - Luck of the House (or Lack Thereof)
 * [[[SCP-7822]]] - [ACCESS DENIED]
-* [[[SCP-7823]]] - [ACCESS DENIED]
+* [[[SCP-7823]]] - 登陸月球
 * [[[SCP-7824]]] - Infinity's Edge
 * [[[SCP-7825]]] - [ACCESS DENIED]
 * [[[SCP-7826]]] - //Holes in My Mind//
