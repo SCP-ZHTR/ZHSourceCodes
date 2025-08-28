@@ -61,10 +61,28 @@ style="width:250px;"]]
 > 我超可愛！
 [[/collapsible]]
 
+[[collapsible show="+ 要不要一起吃晚餐？" hide="- 要不要一起吃晚餐？"]]
+[[div class="scp-image-block block-center"
+style="width:250px;"]]
+[[image https://live.staticflickr.com/65535/54750171758_5b687750c2_b.jpg]]
+[[/div]]
+> 「要跟我吃晚餐嗎！昨天我有找到一家很好吃的餐廳喔！我們忙完就立刻去吧！」
+[[div class="scp-image-block block-center"
+style="width:250px;"]]
+[[image https://live.staticflickr.com/65535/54750177564_072373659e_b.jpg]]
+[[/div]]
+> 「跟我共進晚餐？你腦子沒問題吧？你可不可以去死啊？」
+> --這個我知道，對他一點一點地使壞直到他願意跪在你面前求你一起去吃晚餐。--
+> 這句是誰寫的啦！我以後再也不跟你們聚餐了！
+[[/collapsible]]
+
 [[collapsible show="+ 智天使" hide="-  智天使"]]
 [[div class="scp-image-block block-center"
 style="width:300px;"]]
 [[image https://live.staticflickr.com/65535/54729202696_1b97a8f05a_b.jpg]]
+[[/div]]
+[[div class="scp-image-block block-center"
+style="width:300px;"]]
 [[image https://live.staticflickr.com/65535/54729418023_a92f392272_b.jpg]]
 [[/div]]
 > 違反神的旨意之人... 皆必須消失。
@@ -74,6 +92,9 @@ style="width:300px;"]]
 [[div class="scp-image-block block-center"
 style="width:300px;"]]
 [[image https://live.staticflickr.com/65535/54729566480_fa45480527_b.jpg]]
+[[/div]]
+[[div class="scp-image-block block-center"
+style="width:300px;"]]
 [[image https://live.staticflickr.com/65535/54729566475_c9c2ce2b8a_b.jpg]]
 [[/div]]
 > 懺悔也來不及了！
