@@ -207,7 +207,7 @@ text-shadow: 0 0 0.75rem rgb(var(--swatch-primary-darkest),0.75);
 [[/div]]
 
 [[=]]
-[[size 120%]][[span style="font-family:'Noto Serif TC';"]]你推開了鏽蝕的##red|鐵門##。[[/span]][[/size]]
+[[size 120%]][[span style="font-family:'Noto Serif TC';"]]你推開了鏽蝕的[https://youtu.be/i3aIznKipt0?si=XQ62A_sgFiQgcsFj 鐵門]。[[/span]][[/size]]
 [[/=]]
 
 @@ @@
