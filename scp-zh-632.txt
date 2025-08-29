@@ -10,7 +10,7 @@
 
 
 [[include info:start]]
-**篇名：**SCP-632-Can You Hear Me?
+**篇名：**SCP-ZH-632-Can You Hear Me?
 **作者：** [[*user minatoyukiyo]]
 特別感謝[[*user CNBlack]]、[[*user SamScript]]、[[*user LostWhat]]的協助及指導!
 [[include info:end]]
