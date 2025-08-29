@@ -8,7 +8,7 @@
 [[include :scp-zh-tr:component:acs-animation]]
 [[include :scp-zh-tr:component:anomaly-class-bar-source
 |item-number= 7328
-|clearance= 1
+|clearance= 5
 |container-class= neutralized
 |disruption-class= none
 |risk-class= none
@@ -22,7 +22,7 @@ SCP-7328-B將收容於標準異常物品儲存室。可按需要提供項目在�
 
 SCP-7328-A是一種類頭足類地外生命，推定來自SCP-7328內部。有關其生物學相關的進一步細節，詳見報告7328-A-1屍體解剖報告。
 
-SCP-7328-A最初是在RAISA接獲通報後曝光的，當時O5-1並不在Site-01，卻有人在該站點使用了O5-1的憑證訪問其終端。[[footnote]]尚未釐清SCP-7328-A如何獲取O5-1的憑證，亦不確定項目是如何入侵Site-01的；懷疑項目具有逆模因特性。[[/footnote]]當機動特遣隊Alpha-1「血色右手」抵達受入侵終端時，他們發現了SCP-7328-A的遺體。該有機生命似乎是在試圖訪問[[[SCP-001]]]文件時，遭到Berryman-Langford模因滅殺劑終結的；然而根據終端紀錄顯示，項目在此之前已經成功瀏覽了████分其他文件[[footnote]]包括[[[SCP-231]]]、[[[SCP-2317]]]等高度機密的Keter級和Apollyon級項目。[[/footnote]]。
+SCP-7328-A最初是在RAISA接獲通報後曝光的，當時O5-1並不在Site-01，卻有人在該站點使用了O5-1的憑證訪問其終端。[[footnote]]尚未釐清SCP-7328-A如何獲取O5-1的憑證，亦不確定項目是如何入侵Site-01的；懷疑項目具有逆模因特性。[[/footnote]]當機動特遣隊Alpha-1「血色右手」抵達受入侵終端時，他們發現了SCP-7328-A的遺體。該有機生命似乎在試圖存取[[[SCP-001]]]文件時，遭到Berryman-Langford模因滅殺劑終結；然而根據終端紀錄顯示，項目在此之前已經成功瀏覽了████分其他文件。
 
 SCP-7328-B是從SCP-7328-A屍體上回收的圓柱型金屬通訊裝置。SCP-7328-A很可能就是透過這個裝置，將獲取的部分甚至全部機密資訊轉送予SCP-7328。無法得知該裝置的操作方式，與SCP-7328的資訊傳輸方式也無從確認。SCP-7328-B在SCP-7328-A終結後仍持續接收著傳輸訊號，這可能代表著相同的訊息正在發送予多個SCP-7328-A實體。
 
