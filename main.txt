@@ -25,39 +25,45 @@
 [[include fragment:main-page-rss]]
 
 [[include fragment:new-front-page-features
-|scptitle=SCP-ZH-386 - 廢紙堆下
-|scpslug=scp-zh-386
-|scpby=[[user vomiter]] 
-|scpselector=[[user dr-v-valentine]] 
-|scpblurb=SCP-ZH-386 的影響會漸進增強，初期只是在受影響者附近周遭產生廣告，隨著時間進展將直接附著在該對象外表面或內部，甚至從廣告紙的黏貼面產生有腐蝕性的液體。
-|taletitle=為何我們不能濫用現實穩定錨？
-|taleslug=about-scranton-reality-anchors
-|taleby=[[user Nihilmace]] 
-|taleselector=[[user dr-v-valentine]] 
-|taleblurb=SRA將會被校準對那些已死亡的宇宙抽取現實，包括熱寂以及遭受其他除IK級以外K級情景後的宇宙，儘管會更加速那些宇宙的死亡，但對沒有生物的宇宙這麼做仍是可被接受的。
-|transtitle=SCP-6794 - 五疊之道 - SCP基金會
-|transslug=scp-6794
+|scptitle=SCP-ZH-422 - 街談巷語
+|scpslug=scp-zh-422
+|scpby=[[user Mayaw Kacaw]] 
+|scpselector=[[user vomiter]] 
+|scpblurb=我一開始也以為是我瘋了。但我問了一圈，不只是同房間的，連同樓層的其他人都有聽到，所以我很確定不是我的問題。
+
+
+|taletitle=山本研究員的ZH-922觀察日誌
+|taleslug=romiamiad-ni-cidal
+|taleby=[[user SamScript]] 
+|taleselector=[[user Kikunai]] 
+|taleblurb=十分之一個永恆之後，日本人眼神中的寧靜風暴止息下來，他的雙眸透露著疲累，而陽子幾乎已經知道他想要說甚麼。
+
+
+|transtitle=SCP-8706 - 沒有天使的世界
+|transslug=scp-8706
 |transby=[[user Frederica Bernkastel]] 
-|transauthor=[[user Rounderhouse]] 
+|transauthor=[[user Uncannyon]] 
 |transselector=[[user dr-v-valentine]] 
-|transblurb=受害者會表現出想待在室內的願望，並且感到火焰的吸引力。尚未釐清這些行為間的關聯。
-|rstitle=4x4x4的囚籠
-|rsslug=4x4x4-cell
-|rsby=[[user kikunai]] 
-|rsselector=[[user vomiter]] 
-|rsblurb=我覺得自己的命運是個魔方
+|transblurb= 所有防止 SCP-8706-A實體自我傷害的嘗試──包括基金會的保護程序──都遭遇了接連的失敗。
+
+
+|rstitle=項目企劃書 2025-36：《那就讓金魚活在果汁機裡吧！》
+|rsslug=project-proposal-2025-36-zh
+|rsby=[[user AbyssDream]] 
+|rsselector=[[user Frederica Bernkastel]] 
+|rsblurb=在那堂課程中，我沒有按下果汁機的開關。金魚保住了生命，卻失去了自己在這場表演中的意義。但要是我按下了開關，內臟與骨骼化為肉泥的金魚，大概會永遠留存在我的惡夢中吧。
 ]]
 
 [[include fragment:front-page-artist-showcase
-|artblurb=Tostren, 灰塵, IC 1623
+|artblurb=Control Z, IC 1623, Kikunai
 
 [!-- SLIDESHOW IMAGE URLS. IF IT'S ONLY ONE IMAGE STICK IT IN ALL THREE--]
 
-|art1url= https://i.imgur.com/eE4AxKW.jpeg
+|art1url= https://i.imgur.com/e77zuTM.jpg
 
-|art2url= https://i.imgur.com/gOdU2t3.jpeg
+|art2url= https://i.imgur.com/A30ou19.png
 
-|art3url= https://i.imgur.com/LnFxj3q.jpeg]]
+|art3url= https://i.imgur.com/Nj3xTwZ.png]]
 [[/div]]
 
 ~~~~
