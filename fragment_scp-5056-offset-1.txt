@@ -69,6 +69,8 @@
 SCP-5056首度出現在JM64面前是在Site-43的奧秘消解設施AAF-D[http://www.scpwiki.com/scp-5243 異常材料處裡災難]爆發後隔日。自2002年9月9日以來，它就從無例外的一直跟著他，未曾停頓或休息。實驗與事故數據表明，它可以感知到其他實體，但卻選擇了忽略。它與JM64的互動在近二十年的糾纏中不斷地演變；最初它試圖對其進行恫嚇與恐嚇，後來轉為操弄令他不快的話語，其目的顯然是為了激起他焦慮和/或存在恐懼。目前，它更傾向於強調JM64處境的荒謬、關係的脆弱並預測其行為將會導致的災難後果。心理研究表明，它能夠100%反映他的潛在顧慮。
 
 JM64只用「Doug」來稱呼SCP-5056，作為回應，它也只稱他為「Philip」。
+@@ @@
+@@ @@
 [[div]]
 [[div style="border:solid 1px #999999; background:#FFE0CB; padding-left:12px; padding-right:12px; padding-top:6px; margin-bottom: 10px;"]]
 [[=]]
@@ -145,7 +147,8 @@ SCP-5056吸收了JM64的消極思維過程，將他的憂鬱與自我懷疑外�
 JM64於2020年9月9日開始與清潔與維護部長Amelia Torosyan開始了穩定的戀愛關係。與基金會其他職員的典型反應相反，Torosyan部長對SCP-5056表現出持續的興趣，並對JM64與它糾纏不清的關係深表同情。JM64報告5056的嘮叨話語也產生了變化；現在它活躍期間時，通常會吸引他人對JM64與Torosyan部長關係升溫時的關注，而他的非活躍期則大幅拉長了。
 
 JM64與Torosyan部長已經在2021年6月12日於伊帕瓦什公園舉行婚禮。
-
+@@ @@
+@@ @@
 [[div style="border:solid 1px #999999; background:#EDEDED; padding-left:12px; padding-right:12px; padding-top:6px; margin-bottom: 10px;"]]
 [[=]]
 ++ **SCP-5056 重新評估(2021) -- Polyxeni Mataxas博士**
