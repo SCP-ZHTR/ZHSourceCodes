@@ -1,0 +1,184 @@
+[[include :scp-zh-tr:theme:black-highlighter-theme]]
+[[include :scp-zh-tr:theme:scp-offices-theme]]
+[[include :scp-zh-tr:component:fade-in speed=1]]
+
+[[module css]]
+.page {
+    display: block;
+    overflow: hidden;
+    font-family: "Monotype Corsiva", "Bradley Hand ITC", sans-serif;
+    font-style: normal;
+
+    background-attachment: scroll;
+    background-clip: border-box;
+    background-color: transparent;
+    background-image: linear-gradient(to top ,rgb(202, 219, 228) 0%, rgb(231, 233, 220) 8%);
+    background-origin: padding-box;
+    background-position: 0px 8px;
+    background-repeat: repeat;
+    background-size: 100% 20px;
+
+    border: 1px solid #CCC;
+    border-radius: 10px;
+    padding: 10px 10px;
+    margin-bottom: 10px;
+
+    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.2)
+    }
+.page p,
+.page ul {
+    line-height: 20px;
+    margin: 0;
+}
+[[/module]]
+
+[[module css]]
+#header {
+    background-image: url(https://live.staticflickr.com/65535/54763850557_e87a5d516c_o.png);
+}
+
+#header h1 a span {
+ font-size: 0px;
+}
+#header h1 a:before {
+content: "歷史檔案資料庫";
+}
+
+#header h2 span {
+ padding: 10px 0;
+ font-size: 20px;
+}
+
+#header h2 span::before {
+ content: '分析、轉化、重構';
+}
+
+#main-content {
+margin-top: unset;
+}
+
+#page-content {
+padding-top: unset;
+}
+
+#page-title {
+display: none !important;
+}
+
+[[/module]]
+
+[!--
+https://scp-zh-tr.wikidot.com/fragment:author-secret-office-0
+https://scp-zh-tr.wikidot.com/fragment:author-secret-office-1
+--]
+
+[[module ListPages  category="fragment" parent="." limit="1" order="created_at" offset="@URL|0"]]
+%%content%%
+[[/module]]
+
++ 把文件通通丟出窗外～(∠・ω< )^^⌒^^★
+
+------
+
+[[div style="border:solid 1px #999999; background:#f2f2c2; padding:5px; margin-bottom: 10px;"]]
+
+[[=]]
+++++ 來自基金會異常文件歸檔部的通知
+
+歡迎訪問翻譯人員**__日立(defenestration)__**的人事頁面。
+
+「一份樸實無華、死板枯燥的檔案。」
+[[/=]]
+
+[[/div]]
+
+------
+
++ SCP項目
+
+[[tabview]]
+[[tab 系列一]]
+ [[[http://scp-zh-tr.wikidot.com/scp-045|SCP-045 - 大氣轉換儀]]]
+ [[[http://scp-zh-tr.wikidot.com/scp-046|SCP-046 -「掠食性」冬青灌木叢]]]
+ [[[http://scp-zh-tr.wikidot.com/scp-103|SCP-103 - 永不飢餓的人]]]
+ [[[http://scp-zh-tr.wikidot.com/scp-124|SCP-124 - 肥沃土壤]]]
+ [[[http://scp-zh-tr.wikidot.com/scp-894|SCP-894 - 不見，不聞，不言]]]
+
+[[/tab]]
+[[tab 系列二]]
+ [[[http://scp-zh-tr.wikidot.com/scp-1250|SCP-1250 - 平行宇宙紀錄]]]
+> 附加檔案：[[[http://scp-zh-tr.wikidot.com/experiment-log-1250|實驗日誌-1250]]]
+  [[[http://scp-zh-tr.wikidot.com/scp-1752|SCP-1752 - 救命專線]]]
+[[/tab]]
+[[tab 系列三]]
+ [[[http://scp-zh-tr.wikidot.com/scp-2306| SCP-2306 - 返世AI]]]
+ [[[http://scp-zh-tr.wikidot.com/scp-2599|SCP-2599 - 差強人意]]]
+[[/tab]]
+[[tab 系列四]]
+ [[[http://scp-zh-tr.wikidot.com/scp-3984| SCP-3984 - 用棍棒戳死神]]]
+[[/tab]]
+[[tab 系列五]]
+ 暫無資料。
+[[/tab]]
+[[tab 系列六]]
+ 暫無資料。
+[[/tab]]
+[[tab 系列七]]
+暫無資料。
+[[/tab]]
+[[tab 系列八]]
+ [[[http://scp-zh-tr.wikidot.com/scp-7759| SCP-7759 - T是「傳輸」（Transmission）]]]
+[[/tab]]
+[[tab 系列九]]
+[[[http://scp-zh-tr.wikidot.com/scp-8607| SCP-8607 - 信任恐懼症：露西的家]]]
+[[/tab]]
+[[/tabview]]
+
++ 世界線
+
+[[tabview]]
+[[tab 死亡終了]]
+++ [[[http://scp-zh-tr.wikidot.com/end-of-death-hub|中心頁]]]
+# [[[http://scp-zh-tr.wikidot.com/omega-k|ΩK]]]
+# [[[http://scp-zh-tr.wikidot.com/surgical-identity-perpetuation|請求批准完善大腦移植手術，以使身分恆定，並將其作為永生狀態下，高齡所致損傷之治療方案]]]
+# [[[http://scp-zh-tr.wikidot.com/with-the-reaper-on-retirement| 死神退休後的世界 ]]]
+------
+++++ 相關檔案
+[[[http://scp-zh-tr.wikidot.com/scp-3984| SCP-3984 - 用棍棒戳死神]]]
+[[/tab]]
+
+[[tab 安德森機器人]]
+++ [[[http://scp-zh-tr.wikidot.com/anderson-robotics-hub|中心頁]]]
+++++ 游準
+# [[[http://scp-zh-tr.wikidot.com/building-up| 第四部份：事前準備]]]
+# [[[http://scp-zh-tr.wikidot.com/tearing-down|第五部分：解體]]]
+------
+++++ 相關檔案
+[[[http://scp-zh-tr.wikidot.com/scp-2306| SCP-2306 - 返世AI]]]
+[[/tab]]
+
+[[tab 機櫃建造]]
+++ [[[http://scp-zh-tr.wikidot.com/making-2000-hub|中心頁]]]
+# [[[http://scp-zh-tr.wikidot.com/grant-request-for-development-of-nurturing-and-education| 有關批准開發補助驟增人口之養育、教育設備的申請 ]]]
+[[/tab]]
+
+[[/tabview]]
+[[include :scp-zh-tr:component:license-box
+|author=
+|translator=
+|lang=]]
+=====
+
+> **檔案名稱：**raisa_office
+> **圖像作者：**[[*user defenestration]]
+> **圖像授權協議：**CC-BY-SA 3.0
+> **圖源連結：** [https://www.flickr.com/photos/199803747@N03/54763850557/in/dateposted-public Flickr]
+> **附註：** 更改顏色以符合主題。
+> **衍生自：**
+>> \
+ **檔案名稱：** https://imgur.com/4uLBoQ3
+>> **圖像作者：** [[[*user EstrellaYoshte]]
+>> **圖像授權協議：** CC BY-SA 3.0
+>> **圖源連結：** [[[http://scp-zh-tr.wikidot.com/desk-of-junior-designer-s-yvonne| S. Yvonne初級設計師的辦公桌]]]
+=====
+[[include :scp-zh-tr:component:license-box-end]]
