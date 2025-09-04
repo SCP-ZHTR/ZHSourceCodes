@@ -83,7 +83,7 @@ https://scp-zh-tr.wikidot.com/fragment:author-secret-office-1
 [[div style="border:solid 1px #999999; background:#f2f2c2; padding:5px; margin-bottom: 10px;"]]
 
 [[=]]
-++++ 來自基金會異常文件歸檔部的通知
+++++ 來自異常文件歸檔部的通知
 
 歡迎訪問翻譯人員**__日立(defenestration)__**的人事頁面。
 
@@ -176,7 +176,7 @@ https://scp-zh-tr.wikidot.com/fragment:author-secret-office-1
 > **附註：** 更改顏色以符合主題。
 > **衍生自：**
 >> \
- **檔案名稱：** https://imgur.com/4uLBoQ3
+ **圖像名稱：** RAISA
 >> **圖像作者：** [[[*user EstrellaYoshte]]
 >> **圖像授權協議：** CC BY-SA 3.0
 >> **圖源連結：** [[[http://scp-zh-tr.wikidot.com/desk-of-junior-designer-s-yvonne| S. Yvonne初級設計師的辦公桌]]]
