@@ -1,0 +1,460 @@
+[[include :scp-zh-tr:theme:space]]
+[[include :scp-zh-tr:component:toggle-sidebar]]
+
+[[module CSS]]
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+TC:wght@800&display=swap');
+
+:root:lang(zh){
+    --sp_header-logo: url(https://i.postimg.cc/WpF8zpbQ/2025-logo-3.png);
+    --sp_header-opacity: 1.0;
+    --header-title: "中元恐怖";
+    --header-subtitle: "";
+    --header-font: "Noto Serif TC", serif;
+}
+
+#page-title { display: none; }
+
+#header::before {
+mix-blend-mode: initial;
+}
+
+a{
+color: #F6CB74;
+text-decoration: none;
+}
+.wrapper {
+  display: flex;
+  justify-content: center; /* 水平置中 */
+  align-items: center;     /* 垂直置中 */
+  min-height: 100vh;       /* 撐滿整個視窗 */
+  
+}
+.stack {
+  display: flex;
+  flex-direction: column;
+  gap: 60px;               /* 組與組之間的間距 */
+  align-items: center;     /* 保證每組 container 在 stack 裡水平置中 */
+}
+
+/* 預設：左清單右圖片 */
+.container {
+  font-size: 1.375vi;
+  display: grid;
+  grid-template-columns: max-content max-content;
+  column-gap: 2em;
+  align-items: center;       /* 垂直置中 */
+  justify-content: center;   /* 水平置中 *//
+}
+
+
+/* zone-list */
+.zone-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5em;
+  margin-top: 0;              /* 和圖片齊平 */
+  width: max-content;
+}
+.zone {
+  font-family: "Noto Serif TC", serif;
+  padding: 0.5em 0.6em;
+  background: #212121;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background .25s, transform .1s;
+}
+.zone:hover { background: #ddd; transform: translateY(-1px); }
+
+/* image-box */
+.image-box {
+  position: relative;
+  width: 16em;
+  height: 24em;
+  border: 4px solid #E5D69D;
+  border-radius: 10px;
+  overflow: hidden;
+  background: #212121;
+}
+.image-box img {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  opacity: 0;
+  transition: opacity .25s;
+}
+.image-box img:first-child { opacity: 1; }
+
+/* hover 控制（每組獨立） */
+.container:hover .image-box img { opacity: 0; }
+.container:has(.zone-list .zone:nth-child(1):hover) .image-box img:nth-child(1) { opacity: 1; }
+.container:has(.zone-list .zone:nth-child(2):hover) .image-box img:nth-child(2) { opacity: 1; }
+.container:has(.zone-list .zone:nth-child(3):hover) .image-box img:nth-child(3) { opacity: 1; }
+.container:has(.zone-list .zone:nth-child(4):hover) .image-box img:nth-child(4) { opacity: 1; }
+.container:has(.zone-list .zone:nth-child(5):hover) .image-box img:nth-child(5) { opacity: 1; }
+
+
+.footnotes-footer{
+display:none;
+}
+
+@media (max-width: 1024px) {
+.container {
+  font-size: 2.5vi;
+}
+}
+
+
+[[/module]]
+
+[[include info:start]]
+= **中元恐怖——繁星輿圖**
+@@ @@
+由 [[*user abyssdream]] 以及 [[*user Frederica Bernkastel]] 構想，並由15位站內作者協力合著。
+
+除有標記作者之圖片外，其餘圖片由 [[*user abyssdream]] 繪製。
+感謝距離現實136.74公里者與距離現實550.65公里者提供之CSS協助。
+感謝[https://store.steampowered.com/app/1229490/ULTRAKILL/ 該頁面]提供之精神支援。
+[[include info:end]]
+
+
+
+
+[[=]]
+
+[[=image https://i.postimg.cc/FFwFp9df/IMG-2475.png width="300px"]]
+
+[[size 120%]][[span style="font-family:'Noto Serif TC';"]]你可曾想過，星圖上那微不足道的光點，竟是人類文明的結晶？[[/span]][[/size]]
+[[/=]]
+
+
+-----
+
+[[=]]
+[[size 135%]][[span style="font-family: "Noto Serif TC", serif;"]]介紹 | WHAT IS THIS?[[/span]][[/size]]
+
+
+《繁星輿圖》——是繁中分部在2025年農曆七月期間所發布的原創恐怖SCP合輯。
+ 
+十五位創作者，十五個地點，十五顆已經無法被摘下的死去恆星。
+ 
+農曆七月，直抵此岸，遙望群星。
+
+[[/=]]
+
+[[div class="wrapper"]]
+  [[div class="stack"]]
+
+    [!-- 第一組（預設：左清單右圖片） --]
+    [[div class="container"]]
+      [[div class="zone-list"]]
+      [[div class="zone"]]
+[http://scp-zh-tr.wikidot.com/scp-zh-935 起始：【禁止觀測】]
+[[/div]]
+      [[div class="zone"]]
+[http://scp-zh-tr.wikidot.com/scp-zh-906 距離21.87公里：【禁止觀測】]
+[[/div]]
+      [[div class="zone"]]
+[http://scp-zh-tr.wikidot.com/scp-zh-881 距離9.90公里：【禁止觀測】]
+[[/div]]
+      [[div class="zone"]]
+[http://scp-zh-tr.wikidot.com/scp-zh-616 距離8.27公里：【禁止觀測】]
+[[/div]]
+      [[div class="zone"]]
+[http://scp-zh-tr.wikidot.com/scp-zh-702 距離60.30公里：【禁止觀測】]
+[[/div]]
+[[/div]]
+      [[div class="image-box"]]
+        [[image https://live.staticflickr.com/65535/54764941376_a39d3e8b37_k.jpg]] [[image https://i.imgur.com/CleVrdH.png]] [[image https://live.staticflickr.com/65535/54761480205_bb49804a92_m.jpg]] [[image https://i.postimg.cc/cLCcxGq9/walkinto.png]] [[image https://images-ext-1.discordapp.net/external/dbV0HPIUnI227t7U-3qwK__c_r6mV93LCW-or3v6s7U/https/live.staticflickr.com/65535/54766462685_9cf73e7cb0_b.jpg?format=webp&width=949&height=1265]]
+      [[/div]]
+    [[/div]]
+
+    [!-- 第二組（加 reverse：左圖片右清單） --]
+    [[div class="container"]]
+    [[div class="image-box"]]
+        [[image https://i.postimg.cc/jdqM7pkg/image.jpg]] [[image https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Eertvelt%2C_Santa_Maria.jpg/1024px-Eertvelt%2C_Santa_Maria.jpg]] [[image https://cdn.pixabay.com/photo/2018/10/12/20/16/barbary-ape-3742926_1280.jpg]] [[image https://images2.imgbox.com/f0/48/MainOD7v_o.jpg]] [[image https://live.staticflickr.com/65535/54758734411_2c8cc98972_b.jpg]]
+      [[/div]]
+      [[div class="zone-list"]]
+      [[div class="zone"]] 
+[http://scp-zh-tr.wikidot.com/scp-zh-918 距離73.72公里：【禁止觀測】]
+[[/div]]
+      [[div class="zone"]] 
+[http://scp-zh-tr.wikidot.com/scp-zh-414 距離136.74公里：【禁止觀測】]
+[[/div]]
+      [[div class="zone"]] 
+[http://scp-zh-tr.wikidot.com/scp-zh-143 距離49.41公里：【禁止觀測】]
+[[/div]]
+      [[div class="zone"]] 
+[http://scp-zh-tr.wikidot.com/scp-zh-841 距離92.21公里：【禁止觀測】]
+[[/div]]
+      [[div class="zone"]] 
+[http://scp-zh-tr.wikidot.com/scp-zh-979 距離31.23公里：【禁止觀測】]
+[[/div]]
+[[/div]]
+
+    [[/div]]
+
+    [!-- 第三組（預設：左清單右圖片） --]
+    [[div class="container"]]
+      [[div class="zone-list"]]
+      [[div class="zone"]] 
+[http://scp-zh-tr.wikidot.com/scp-zh-751 距離105.86公里：【禁止觀測】]
+[[/div]]
+      [[div class="zone"]] 
+[http://scp-zh-tr.wikidot.com/scp-zh-596 距離550.65公里：【禁止觀測】]
+[[/div]]
+      [[div class="zone"]] 
+[http://scp-zh-tr.wikidot.com/scp-zh-823 距離8.50公里：【禁止觀測】]
+[[/div]]
+      [[div class="zone"]] 
+[http://scp-zh-tr.wikidot.com/scp-zh-890 距離3305.27公里：【禁止觀測】]
+[[/div]]
+      [[div class="zone"]] 
+[http://scp-zh-tr.wikidot.com/scp-zh-481 距離3040.02公里：【禁止觀測】]
+[[/div]]
+[[/div]]
+      [[div class="image-box reverse"]]
+        [[image https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/DeadTree.jpg/500px-DeadTree.jpg?20051109081737]] [[image https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Michel_Serre-Peste-Cours_Belsunce.jpg/960px-Michel_Serre-Peste-Cours_Belsunce.jpg?20170305174634]] [[image https://i.imgur.com/NsmhkNC.png]] [[image https://images.plurk.com/wsCU3axH2sQtyUszK5Ckv.jpg]] [[image https://images-ext-1.discordapp.net/external/rVkJz4Hjoeq0WE8-RNhYD-9UkQ0WV3_2eEgLUHaY86Y/https/live.staticflickr.com/65535/54765313372_3cb0c6d70d_z.jpg?format=webp&width=1120&height=728]]
+      [[/div]]
+    [[/div]]
+
+  [[/div]]
+[[/div]]
+
+
+
+
+-----
+
+
+[[=]]
+[[size 135%]][[span style="font-family: "Noto Serif TC", serif;"]] 文章列表 | ARTICLES[[/span]][[/size]]
+[[/=]]
+
+[[div style="padding-left: 20px;"]]
+
+* 起始：[[[scp-zh-935 |【禁止觀測】]]]##grey|（9/8）##
+[[div style="border-left: 0.2rem solid; padding-left: 8px; margin-top: 12px; margin-bottom: 12px; color: #white; opacity: 0.8;"]]
+應將該防空洞視為已損失：
+* 防空洞崩塌。
+* 防空洞內部被不明有機生物組織填滿。
+[[/div]]
+* 距離21.87公里：[[[scp-zh-906 |【禁止觀測】]]]##grey|（9/9）##
+[[div style="border-left: 0.2rem solid; padding-left: 8px; margin-top: 12px; margin-bottom: 12px; color: #white; opacity: 0.8;"]]
+一個完美的、空泛的、沒有意義的，大都會系統。
+[[/div]]
+* 距離9.90公里：[[[scp-zh-881 |【禁止觀測】]]]##grey|（9/10）##
+[[div style="border-left: 0.2rem solid; padding-left: 8px; margin-top: 12px; margin-bottom: 12px; color: #white; opacity: 0.8;"]]
+任何造訪區域的外界人員將會暴露在現象的效果之下，並憑空消失，為此失蹤的人員至今仍未被尋獲。
+[[/div]]
+* 距離8.27公里：[[[scp-zh-616 |【禁止觀測】]]]##grey|（9/11）##
+[[div style="border-left: 0.2rem solid; padding-left: 8px; margin-top: 12px; margin-bottom: 12px; color: #white; opacity: 0.8;"]]
+「是否設定『　　』為新增中途點？」
+[[/div]]
+* 距離60.30公里：[[[scp-zh-702 |【禁止觀測】]]]##grey|（9/12）##
+[[div style="border-left: 0.2rem solid; padding-left: 8px; margin-top: 12px; margin-bottom: 12px; color: #white; opacity: 0.8;"]]
+人員在失去與指揮小組的聯繫的情況下一律將其視為**已經回歸並生長**。
+[[/div]]
+* 距離73.72公里：[[[scp-zh-918 |【禁止觀測】]]]##grey|（9/13）##
+[[div style="border-left: 0.2rem solid; padding-left: 8px; margin-top: 12px; margin-bottom: 12px; color: #white; opacity: 0.8;"]]
+隨著個體暴露於 SCP-ZH-918 的時間延長，聲響將逐漸增強，並對其聽覺與認知造成顯著干擾，最終往往導致嚴重交通事故的發生。
+[[/div]]
+* 距離136.74公里：[[[scp-zh-414 |【禁止觀測】]]]##grey|（9/14）##
+[[div style="border-left: 0.2rem solid; padding-left: 8px; margin-top: 12px; margin-bottom: 12px; color: #white; opacity: 0.8;"]]
+SCP-ZH-414最早發現於1995年的**【禁止踏足】**大火。當天有42名普通民眾於火災發生前曾向人提到諸如「天上有一艘船，船上的人一直叫我們小心火。」此類的敘述，在之後即發生**【禁止踏足】**大火，近2006年左右，與項目相關的資訊開始慢慢出現於社交媒體上，鑒於**【禁止踏足】**大火時的紀錄，基金會開始調查SCP-ZH-414。 
+
+[[/div]]
+* 距離49.41公里：[[[scp-zh-143 |【禁止觀測】]]]##grey|（9/15）##
+[[div style="border-left: 0.2rem solid; padding-left: 8px; margin-top: 12px; margin-bottom: 12px; color: #white; opacity: 0.8;"]]
+SCP-ZH-143因2024年6月1日發生於國道三號—**【禁止踏足】**交流道路段異常動物出沒事件的通報引起基金會的注意。
+[[/div]]
+* 距離92.21公里：[[[scp-zh-841 |【禁止觀測】]]]##grey|（9/16）##
+[[div style="border-left: 0.2rem solid; padding-left: 8px; margin-top: 12px; margin-bottom: 12px; color: #white; opacity: 0.8;"]]
+為避免引發校園師生的大規模恐慌，特工並未提到過去通報的五起失蹤事件──該校師生也從未提及先前失蹤的那些學生。
+[[/div]]
+* 距離31.23公里：[[[scp-zh-979 |【禁止觀測】]]]##grey|（9/17）##
+[[div style="border-left: 0.2rem solid; padding-left: 8px; margin-top: 12px; margin-bottom: 12px; color: #white; opacity: 0.8;"]]
+其特徵點在於受害者總是自睡眠中醒覺後，順序式地執行一系列異常行為。
+[[/div]]
+* 距離105.86公里：[[[scp-zh-751 |【禁止觀測】]]]##grey|（9/18）##
+[[div style="border-left: 0.2rem solid; padding-left: 8px; margin-top: 12px; margin-bottom: 12px; color: #white; opacity: 0.8;"]]
+來自基金會誤傳部的通知：本檔案的內容非常**美麗**。
+[[/div]]
+* 距離550.65公里：[[[scp-zh-596 |【禁止觀測】]]]##grey|（9/19）##
+[[div style="border-left: 0.2rem solid; padding-left: 8px; margin-top: 12px; margin-bottom: 12px; color: #white; opacity: 0.8;"]]
+你們做的一切都是徒勞無功，這次的大遠征是不會失敗的。 
+[[/div]]
+* 距離8.50公里：[[[scp-zh-823 |【禁止觀測】]]]##grey|（9/19）##
+[[div style="border-left: 0.2rem solid; padding-left: 8px; margin-top: 12px; margin-bottom: 12px; color: #white; opacity: 0.8;"]]
+特殊收容措施：**[承RAISA-ZH之命刪減]**。
+[[/div]]
+* 距離3305.27公里：[[[scp-zh-890 |【禁止觀測】]]]##grey|（9/20）##
+[[div style="border-left: 0.2rem solid; padding-left: 8px; margin-top: 12px; margin-bottom: 12px; color: #white; opacity: 0.8;"]]
+--Safe--,--Keter--,--TBD--,--Utmost--,離苦得樂
+[[/div]]
+* 距離3040.02公里：[[[scp-zh-481 |【禁止觀測】]]]##grey|（9/21）##
+[[div style="border-left: 0.2rem solid; padding-left: 8px; margin-top: 12px; margin-bottom: 12px; color: #white; opacity: 0.8;"]]
+由於不朔及既往原則，項目在1907年3月18日至1996年4月1日期間完全合法，非常抱歉。 
+[[/div]]
+
+
+----
+
+[[=]]
+[[size 135%]][[span style="font-family: "Noto Serif TC", serif;"]] 星等 | MAGNITUDE[[/span]][[/size]]
+[[span style="font-family: "Noto Serif TC", serif;"]]//為耀眼的製圖者獻上宇宙的一隅。//[[/span]]
+[[/=]]
+
+[[=]]
+++* 一等星
+[[span style="font-family: "Noto Serif TC", serif;"]]//##gray| Sirius##//[[/span]]
+
+[[span style="font-family: "Noto Serif TC", serif;"]]//瞧！那漆黑狼犬的鼻尖！//[[/span]]
+[[span style="font-family: "Noto Serif TC", serif;"]]//雙星相繞，災禍相倚。//[[/span]]
+[[/=]]
+@@ @@
+@@ @@
+[[=]]
+++* 二等星
+[[span style="font-family: "Noto Serif TC", serif;"]]//##gray| β Persei##//[[/span]]
+
+[[span style="font-family: "Noto Serif TC", serif;"]]//瞧！那戰士手握的頭顱！//[[/span]]
+[[span style="font-family: "Noto Serif TC", serif;"]]//惡魔之心，飄搖不定。//[[/span]]
+[[/=]]
+@@ @@
+@@ @@
+[[=]]
+++* 三等星
+[[span style="font-family: "Noto Serif TC", serif;"]]//##gray| β Cygni##//[[/span]]
+
+[[span style="font-family: "Noto Serif TC", serif;"]]//瞧！那深空天鵝的頭頂！//[[/span]]
+[[span style="font-family: "Noto Serif TC", serif;"]]//琥珀湖水，叼酌聯星。//[[/span]]
+[[/=]]
+@@ @@
+@@ @@
+[[=]]
+++* 心宿二
+[[span style="font-family: "Noto Serif TC", serif;"]]//##gray| Antares##//[[/span]]
+
+[[span style="font-family: "Noto Serif TC", serif;"]]//招攬群星者[[footnote]] [[*user Frederica Bernkastel]] [[/footnote]]讚賞之作//[[/span]]
+[[/=]]
+@@ @@
+@@ @@
+[[=]]
+++* 參宿二
+[[span style="font-family: "Noto Serif TC", serif;"]]//##gray| Alnilam##//[[/span]]
+
+[[span style="font-family: "Noto Serif TC", serif;"]]//蒐羅輿圖者[[footnote]] [[*user AbyssDream]] [[/footnote]]讚賞之作//[[/span]]
+[[/=]]
+
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+
+[[include :scp-zh-tr:component:license-box
+|author=AbyssDream]]
+=====
+
+> **檔案名稱：**【禁止踏足】築港殉職者紀念碑
+> **作者：**劉文浩
+> **授權：** CC 0
+> **來源連結：** https://flic.kr/p/2rroD6b
+
+> **檔案名稱：**CleVrdH.png
+> **圖像作者：**距離現實21.87公里者
+> **圖像授權協議：**CC BY-SA 3.0
+> **圖源連結：** https://i.imgur.com/CleVrdH.png
+> **衍生自：**
+>
+> **圖像名稱：**【禁止踏足】Skyline 2022.06.29.jpg
+> **圖像作者：**毛貓大少爺
+> **圖像授權協議：**CC BY-SA 2.0
+> **圖源連結：** https://www.flickr.com/photos/92975612@N02/52185140077/
+
+> **檔案名稱：**地下
+> **作者：**距離現實9.90公里者
+> **授權：**CC BY-SA 4.0
+> **來源連結：** https://www.flickr.com/photos/203104323@N03/54761480205/in/datetaken/
+
+> **檔案名稱：**walkinto.png
+> **作者：**距離現實8.27公里者
+> **授權：**CC BY-SA 3.0
+> **來源連結：** https://i.postimg.cc/cLCcxGq9/walkinto.png
+> **衍生自：**
+>
+> **圖像名稱：**【禁止踏足】_GuanyShan-5
+> **作者：** Mnb
+> **授權：** CC BY-SA 3.0
+> **來源連結：** https://commons.wikimedia.org/wiki/File:Taipei_GuanyShan-5.jpg
+
+> **檔案名稱：**IMG_0080
+> **作者：**距離現實60.30公里者
+> **授權：**CC 0
+> **來源連結：** https://flic.kr/p/2rrwrjD
+
+> **圖像名稱：​**【禁止踏足】公路九彎十八拐的一段
+> **圖像作者：**Solomon12354
+> **圖像授權協議：**CC BY-SA 4.0
+> **圖源連結：** https://zh.wikipedia.org/wiki/%E5%8C%97%E5%AE%9C%E5%85%AC%E8%B7%AF#/media/File:%E5%8C%97%E5%AE%9C%E5%85%AC%E8%B7%AF%E4%B9%9D%E5%BD%8E%E5%8D%81%E5%85%AB%E6%8B%90.jpg
+
+> **檔案名稱：** The Santa Maria at anchor
+> **作者：** Andries van Eertvelt
+> **授權：** Public Domain
+> **來源連結：** https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Eertvelt%2C_Santa_Maria.jpg/1024px-Eertvelt%2C_Santa_Maria.jpg
+
+> **檔案名稱：**barbary-ape-3742926_1280.jpg
+> **作者：** 網站未標示
+> **授權：**CC0
+> **來源連結：** https://cdn.pixabay.com/photo/2018/10/12/20/16/barbary-ape-3742926_1280.jpg
+
+> **檔案名稱：**嵩竹
+> **作者：** 距離現實92.21公里者
+> **授權：** 圖片為本人拍攝與編輯、依據網站授權
+> **來源連結：** https://imgbox.com/MainOD7v
+
+> **檔案名稱：**【禁止踏足】隧道
+> **作者：**距離現實31.23公里者
+> **授權：** CC 0
+> **來源連結：** https://www.flickr.com/photos/190522664@N06/54758734411
+
+> **檔案名稱：**DeadTree
+> **作者：**Brookie
+> **授權：**CC BY-SA 3.0
+> **來源連結：** https://commons.m.wikimedia.org/wiki/File:DeadTree.jpg
+
+> **檔案名稱：**French: Vue du Cours Belsunce pendant la peste de 1720 (Marseille)
+> **作者：** Michel Serre
+> **授權：** CC 0
+> **來源連結：** https://commons.m.wikimedia.org/wiki/File:Michel_Serre-Peste-Cours_Belsunce.jpg
+
+> **檔案名稱：** NsmhkNC.png
+> **原檔案名稱：** Amah_Rock_02.jpg & Lion_Rock_5.jpg
+> **編輯：** 距離現實8.50公里者
+> **原作者：** 維基媒體用戶[https://commons.wikimedia.org/wiki/User:Underwaterbuffalo Underwaterbuffalo] & [https://commons.wikimedia.org/wiki/User:Minghong Minghong]
+> **授權：** CC BY-SA 4.0 & CC BY-SA 4.0 & CC BY-SA 4.0
+> **來源連結：** [https://i.imgur.com/NsmhkNC.png 已編輯過] & [https://commons.wikimedia.org/wiki/File:Amah_Rock_02.jpg 原圖（一）] & [https://commons.wikimedia.org/wiki/File:Lion_Rock_5.jpg 原圖（二）]
+
+> **檔案名稱：**森林
+> **作者：** 距離現實3305.27公里者
+> **授權：** CC BY 3.0
+> **來源連結：**https://images.plurk.com/wsCU3axH2sQtyUszK5Ckv.jpg
+
+> **檔案名稱：**leprosy.png
+> **作者：**距離現實3040.02公里者
+> **授權：**CC BY-SA 3.0
+> **來源連結：** https://flic.kr/p/2rrqxEU
+> **衍生自：**
+> 
+> **圖像名稱：**M.leprae.jpg
+> **作者：**Libell hanna
+> **授權：**CC BY-SA 3.0
+>**來源連結：** https://commons.wikimedia.org/wiki/File:M.leprae.jpg#/media/ファイル:M.leprae.jpg
+
+=====
+[[include :scp-zh-tr:component:license-box-end]]
+[[/div]]
