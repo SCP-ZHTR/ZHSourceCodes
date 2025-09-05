@@ -3,36 +3,6 @@
 [[include :scp-zh-tr:component:fade-in speed=1]]
 
 [[module css]]
-.page {
-    display: block;
-    overflow: hidden;
-    font-family: "Monotype Corsiva", "Bradley Hand ITC", sans-serif;
-    font-style: normal;
-
-    background-attachment: scroll;
-    background-clip: border-box;
-    background-color: transparent;
-    background-image: linear-gradient(to top ,rgb(202, 219, 228) 0%, rgb(231, 233, 220) 8%);
-    background-origin: padding-box;
-    background-position: 0px 8px;
-    background-repeat: repeat;
-    background-size: 100% 20px;
-
-    border: 1px solid #CCC;
-    border-radius: 10px;
-    padding: 10px 10px;
-    margin-bottom: 10px;
-
-    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.2)
-    }
-.page p,
-.page ul {
-    line-height: 20px;
-    margin: 0;
-}
-[[/module]]
-
-[[module css]]
 #header {
     background-image: url(https://live.staticflickr.com/65535/54763850557_e87a5d516c_o.png);
 }
@@ -44,7 +14,7 @@
 content: "歷史檔案資料庫";
 }
 
-#header h2 span {
+#header h2 span { 
  padding: 10px 0;
  font-size: 20px;
 }
@@ -53,27 +23,6 @@ content: "歷史檔案資料庫";
  content: '分析、轉化、重構';
 }
 
-#main-content {
-margin-top: unset;
-}
-
-#page-content {
-padding-top: unset;
-}
-
-#page-title {
-display: none !important;
-}
-
-[[/module]]
-
-[!--
-https://scp-zh-tr.wikidot.com/fragment:author-secret-office-0
-https://scp-zh-tr.wikidot.com/fragment:author-secret-office-1
---]
-
-[[module ListPages  category="fragment" parent="." limit="1" order="created_at" offset="@URL|0"]]
-%%content%%
 [[/module]]
 
 + 把文件通通丟出窗外～(∠・ω< )^^⌒^^★
@@ -100,23 +49,67 @@ https://scp-zh-tr.wikidot.com/fragment:author-secret-office-1
 [[tabview]]
 [[tab 系列一]]
  [[[http://scp-zh-tr.wikidot.com/scp-045|SCP-045 - 大氣轉換儀]]]
+> SCP-045會週期性地以多條軸線為中心旋轉，間隔時間無法預測，從二週至三個月不等，持續時間不超過73秒。
+> 
+> 在持續時間內，一連串小型地震會立刻發生於SCP-045的所在地(小於芮氏規模2.5)。如果阻止SCP-045旋轉，地震強度最高會達到芮氏規模5.3。
  [[[http://scp-zh-tr.wikidot.com/scp-046|SCP-046 -「掠食性」冬青灌木叢]]]
+> SCP-046是一食肉性植物叢，位於肯塔基州的西南方。
+> 
+> SCP-046由兩個部分組成。SCP-046-1為大量的植物群，種類涵蓋當地絕大多數的原生種。
+> 
+> SCP-046-2是緊鄰SCP-046-1的土地，範圍約是以植物群為圓心，半徑20公尺的圓形區域。此區域為SCP-046的主要攝食區。
  [[[http://scp-zh-tr.wikidot.com/scp-103|SCP-103 - 永不飢餓的人]]]
+> SCP-103外觀上是一位40多歲的普通人類男性。身高190cm，體重100kg。該個體於19██年████月██日出生，目前無任何已知的在世親屬。
+> 
+> 項目約於四月中旬的晚上9:30入住當地一間小型醫院。它向醫生表示，由於沒有感覺到飢餓，因此已經好幾個星期沒有吃東西了。儘管如此，在初步檢查後，SCP-103的身體數值顯示一切正常。 SCP-103進一步向醫生解釋，它沒有感覺到進食的需求。
  [[[http://scp-zh-tr.wikidot.com/scp-124|SCP-124 - 肥沃土壤]]]
+> SCP-124具有促使任何有機生命體在相對較短的時間內成長至其完全潛能的能力。
+> 
+> 所有種植於SCP-124的食物皆被回報為高品質、美味且營養的，無論這些食物在種植於SCP-124之前處於何種狀態。
  [[[http://scp-zh-tr.wikidot.com/scp-894|SCP-894 - 不見，不聞，不言]]]
-
+> SCP-894-1，2與3為同一系列的小型塑膠製猴子，每一隻的動作與表情皆有些微差異。
+> 
+> SCP-894-1是一隻用手摀住嘴巴的猴子。
+> 
+> SCP-894-2是一隻用手蓋住耳朵的猴子
+> 
+> SCP-894-3則是一隻用手遮住眼睛的猴子。
 [[/tab]]
 [[tab 系列二]]
  [[[http://scp-zh-tr.wikidot.com/scp-1250|SCP-1250 - 平行宇宙紀錄]]]
-> 附加檔案：[[[http://scp-zh-tr.wikidot.com/experiment-log-1250|實驗日誌-1250]]]
+> SCP-1250為一系列的█████卡式錄音帶與█████VHS錄影帶(以SCP-1250-1與SCP-1250-2做為區分)。
+> 
+> 在播放SCP-1250-1和SCP-1250-2時，內容與實際發生的事件有著顯著差異。
+> 
+> 這些差異的內容大多與正常紀錄相同，但有著些微變化(發音的不同、詞彙選擇、房間內的家具、被記錄的人員的性別/年齡)。
+>> \
+附加檔案：[[[http://scp-zh-tr.wikidot.com/experiment-log-1250|實驗日誌-1250]]]
   [[[http://scp-zh-tr.wikidot.com/scp-1752|SCP-1752 - 救命專線]]]
+> SCP-1752-1是一個空間中的靜態點，它週期性地(約每1-5小時)發出聲音。
+> 
+> 聽見SCP-1752-1所發出之聲音的人描述其使用他們最熟悉的語言和方言發出清晰的聲音，並能夠理解其意涵。
 [[/tab]]
 [[tab 系列三]]
  [[[http://scp-zh-tr.wikidot.com/scp-2306| SCP-2306 - 返世AI]]]
+> SCP-2306-1的主要功能是修復接入電腦的軟體問題。接入後，SCP-2306-1會開始修復已登錄錯誤，將偵測到的惡意軟體或病毒隔離/刪除，並清除硬碟中的「垃圾檔案」。
  [[[http://scp-zh-tr.wikidot.com/scp-2599|SCP-2599 - 差強人意]]]
+> **文件2599-Alpha：**以下為一系列有關SCP-2599的實驗記錄。
+> 
+> 指令：給予SCP-2599三塊積木，並命令它將積木撿起。
+> 
+> 結果：SCP-2599撿起兩塊積木，然後對其為何無法撿起第三塊積木而感到困惑。當被命令撿起第三塊積木時，它將其舉到一半然後放下。
+> 
+> 指令： 命令SCP-2599快樂一點。
+> 
+> 結果：SCP-2599體內的多巴胺與血清素濃度在持續上升約十秒後，下降至低於原先的水平。
 [[/tab]]
 [[tab 系列四]]
  [[[http://scp-zh-tr.wikidot.com/scp-3984| SCP-3984 - 用棍棒戳死神]]]
+> 你迅速蹲伏至圖書管理員的書桌後面，藏身於電腦螢幕正下方，背部緊靠書桌前方的木板。一聲槍響劃破了寂靜。當子彈穿過書桌時，你注意到木屑在眼前揚起。有什麼東西從你的胸膛正中央射出，你的呼吸停止了。
+> 
+> 黑色的人影從兩側繞過書桌，朝你匯合，越來越近。
+> 
+> 你是多麼希望自己能夠死去。
 [[/tab]]
 [[tab 系列五]]
  暫無資料。
@@ -129,9 +122,19 @@ https://scp-zh-tr.wikidot.com/fragment:author-secret-office-1
 [[/tab]]
 [[tab 系列八]]
  [[[http://scp-zh-tr.wikidot.com/scp-7759| SCP-7759 - T是「傳輸」（Transmission）]]]
+> SCP-7759原為基金會設置於古柏帶的固定衛星服務太空站，其編號為HADES-01。當前認為SCP-7759已與一種外星奈米機械融合或同化。
+> 
+> 10-23-43更新：所有具無線電接收功能的基金會站點已被無限期封鎖。任何訊號均視為具有敵意的異常傳播媒介，無論發信來源為何。
+> 
+> 與此同時，已有數個基金會設施接收到SCP-7759傳輸之訊號。由於站點內部的製造廠迅速出現大量具敵意之奈米機械，上述設施正處於NK級隔離中。
 [[/tab]]
 [[tab 系列九]]
 [[[http://scp-zh-tr.wikidot.com/scp-8607| SCP-8607 - 信任恐懼症：露西的家]]]
+> 雖然爹地很想見到媽咪與露西，但他的工作太重要了。有時候，他回家時會特別累，需要一些獨處時間。露西的媽咪無法理解這點，但爹地只是因為他非常非常愛露西與媽咪，所以才持續做這份工作。
+> 
+> 露西很幸運，能夠有一位這麼好的爹地，他努力工作，只為了給他這棟漂亮的房子與許多美好事物。
+> 
+> 露西應該感到開心。
 [[/tab]]
 [[/tabview]]
 
@@ -140,9 +143,41 @@ https://scp-zh-tr.wikidot.com/fragment:author-secret-office-1
 [[tabview]]
 [[tab 死亡終了]]
 ++ [[[http://scp-zh-tr.wikidot.com/end-of-death-hub|中心頁]]]
-# [[[http://scp-zh-tr.wikidot.com/omega-k|ΩK]]]
-# [[[http://scp-zh-tr.wikidot.com/surgical-identity-perpetuation|請求批准完善大腦移植手術，以使身分恆定，並將其作為永生狀態下，高齡所致損傷之治療方案]]]
-# [[[http://scp-zh-tr.wikidot.com/with-the-reaper-on-retirement| 死神退休後的世界 ]]]
+> **情景類型：**ΩK級
+> 
+> **發生率：**近幾不可能
+> 
+> **嚴重性：**仍適合生存，但人類文明須經適度重建
+> 
+> **描述：**ΩK 級情景(「死亡終了」)是指所有生命體於不伴隨其它生理變化(例如停止老化或強制絕育)之情況下，獲得無法死亡之特性。該情景的發生意指已免除任何破碎假面情景造成的可能，且基金會及其支部仍維持當前格局。
+> 
+> //**節錄自基金會數據庫「K級意外事故」**//
+++++ [[[http://scp-zh-tr.wikidot.com/omega-k|ΩK]]]
+[[div]] 
+> 「爸，你知道嗎」她開口，「這種藥很難取得。它是由一家名叫Marshall, Carter, and Dark的公司所製造，他們把這命名為「眠曲林」。它很昂貴，//**遠比我這輩子所能負擔的還要貴。**//」
+> 
+> 她靠得更近了一點，父親專注地盯著她。「其實呢，這是我偷來的。我們──基金會，就是我工作的地方──截獲了一批這種藥丸，我很幸運地幫你偷到一個。」
+> 
+> 她將父親的手放在藥丸上，不想直接碰觸，以防萬一。「這對你來說真的很重要，你…爸，我希望你吃下這個，為了自己。」
+> 
+> 如果她父親知情，也許就會願意服用藥物。又或許，如果他認為這是安眠藥，會讓他陷入深沉的睡眠，永遠不會醒來，他會選擇接受。
+> 
+> 他沒有服用，Joyce也不是怪物。
+[[/div]]
+++++ [[[http://scp-zh-tr.wikidot.com/surgical-identity-perpetuation|請求批准完善大腦移植手術，以使身分恆定，並將其作為永生狀態下，高齡所致損傷之治療方案]]]
+[[div]]
+> 目前，我們的身體在大腦停止老化的情況下，依然正常老化。這種有條件的永生為人類帶來諸多問題。
+> 
+> 無須擔心人體實驗對象的數量。
+> 
+> 大腦灰質永生症意味著數以億計的大腦，在前一輪實驗成功後，可以被再回收用於未來的測試。如有必要，可以與基金會協商或從黑市徵求任何項目所需的測試對象。縱使完成這些目標所需的時間不易估計，但只要能夠完成項目，即使超出時間也不成問題。
+[[/div]]
+++++ [[[http://scp-zh-tr.wikidot.com/with-the-reaper-on-retirement| 死神退休後的世界 ]]]
+[[div]]
+> 這是Joyce做的第四次手術。一般來說，它們的價格極其昂貴，可供更換的身體更是如海底撈針般難尋，但基金會總有辦法搞定一切。
+> 
+> Joyce從未思考過自己的新身體來自何處。他有過一些猜想，但這麼做只會徒增自身的不適感。
+[[/div]]
 ------
 ++++ 相關檔案
 [[[http://scp-zh-tr.wikidot.com/scp-3984| SCP-3984 - 用棍棒戳死神]]]
@@ -150,9 +185,45 @@ https://scp-zh-tr.wikidot.com/fragment:author-secret-office-1
 
 [[tab 安德森機器人]]
 ++ [[[http://scp-zh-tr.wikidot.com/anderson-robotics-hub|中心頁]]]
-++++ 游準
-# [[[http://scp-zh-tr.wikidot.com/building-up| 第四部份：事前準備]]]
-# [[[http://scp-zh-tr.wikidot.com/tearing-down|第五部分：解體]]]
+
+[[include component:image-block name= http://scp-wiki.wdfiles.com/local--files/anderson-robotics-hub/anderson_robotics_by_sunnyclockwork.png|caption=約2014年，安德森機器人商標。|width=250px ]]
+
+**編號：** GoI-1115，「[[span class="ruby"]]安德森機器人[[span class="rt"]]Anderson Robotic[[/span]][[/span]]」
+
+**成員：** 全球擁有約200名員工 [[footnote]]由於安德森旗下的勞動力使用了獵隼單位，因此很難確認其員工數量。 [[/footnote]]
+
+**資源：** 每年平均約有 (USD) $7.5億收入，具有異常能力
+
+**狀態：** 活動中
+
+**描述：** 安德森機器人是一家高科技公司，專門售賣異常機器人、仿生機器人、人工智慧、電腦程式和模控學改造物。安德森機器人被認為自1990年代起開始營業，直到2007年基金會突擊西雅圖一處超技術交易倉庫，收容了[[[http://scp-zh-tr.wikidot.com/scp-1360| SCP-1360]]]後才引起基金會的注意。自初次接觸以來，安德森機器人是目前被發現，機器人超技術領域的首要販賣商。
+
+------
+
++++ 故事集——游準
+[[[http://scp-zh-tr.wikidot.com/building-up| 第四部份：事前準備]]]
+
+[[div]]
+> 當牢房門開始滑動時，哈羅德猛地拔掉手套，赤手將一名警衛抓入門軌中。警衛發出一聲驚呼，下個瞬間就變成堅硬的大理石像。
+> 
+> 房間重歸寂靜，哈羅德起身，拍了拍身上的灰塵。他迅速解除鐐銬，撿起一名警衛的手槍與通行證，接著披上弗里蒙特的實驗袍。
+> 
+> 他花了點時間在鏡子前整理打扮。只要不引起過多注意，從這裡走一小段路到柯林斯博士的辦公室應該不算太難。偽裝成基金會職員混入人群也同樣簡單。
+> 
+> 畢竟，他也曾是其中的一員。
+[[/div]]
+
+[[[http://scp-zh-tr.wikidot.com/tearing-down|第五部分：解體]]]
+
+[[div]]
+> 「留給我們的時間不多了，#31。我已將門完全封死，希望這能為我們多爭取些時間。如果你還有什麼話想問或說的，這是最後的機會了。」
+> 
+> 1360低頭凝視著自己的筆記本陷入沉思，接著看向#76。無數問題在腦中翻湧。不久後，它從中選了一個。
+> 
+> 「你重新安裝了我的終端驅動器。我們會死掉嗎？」
+> 
+> 「很遺憾，是的，#31，」獵隼回道。「但平心而論，你和我從來都沒有真正活著過。」1360默默點頭表示理解。它們從未有能力為自己的命運另闢道路。
+[[/div]]
 ------
 ++++ 相關檔案
 [[[http://scp-zh-tr.wikidot.com/scp-2306| SCP-2306 - 返世AI]]]
@@ -160,10 +231,41 @@ https://scp-zh-tr.wikidot.com/fragment:author-secret-office-1
 
 [[tab 機櫃建造]]
 ++ [[[http://scp-zh-tr.wikidot.com/making-2000-hub|中心頁]]]
-# [[[http://scp-zh-tr.wikidot.com/grant-request-for-development-of-nurturing-and-education| 有關批准開發補助驟增人口之養育、教育設備的申請 ]]]
+
+[[div class="email"]]
+[[div class="tofrom"]]
+**收件人：** O5-1
+**寄件人：** Maria Jones - ##steelblue|RAISA##
+**主旨：** 調查結果
+[[/div]]
+------
+> 致O5-1
+> 
+> 鑒於Sector-3382的事件而對[[[http://scp-zh-tr.wikidot.com/scp-2000| SCP-2000]]]內部進行了調查。由於取得了十分有意思的成果，故將在此報告。
+> 
+> 本次我們重新調查了一次SCP-2000的深處，也就是大概最早被製造出來的設備。在那裡發現了諸多推測是在SCP-2000「最初」建構時留下的紀錄。我將一部分發現的資料放在郵件的附檔中了，之後也請過目。令人吃驚的是，如果這份紀錄為真，基金會曾經與多個關注組織合作，甚至現身於一般社會的面前呼求協助建造SCP-2000。
+> 
+> 然後，最難相信的部分是，這整個建構過程只花費了64天。
+> 
+> 我知道SCP-2000是極端精緻的複雜技術結晶。所以才對此難以置信……大約兩個月的時間，居然就可以建造出足以拯救世界的萬能底牌嗎。O5-1，我的權限可能不足以知道這些，但還是希望你能告訴我你知道的事。
+> 
+> 最初的「他們」，究竟是何方神聖？
+[[/div]]
+
+------
+
++++ [[[http://scp-zh-tr.wikidot.com/grant-request-for-development-of-nurturing-and-education| 有關批准開發補助驟增人口之養育、教育設備的申請 ]]]
+
+[[div]]
+> 全球人口若因戰爭、災難、末日等事件而急速減少，需要極長時間才能自然恢復。根據過往大規模傳染病流行的研究，倘若10年內有20%的人口死亡，將使得異常事件因社會恐慌而難以掩蓋，從而更易導致混亂擴散。
+> 
+> 
+> 由多個國際超自然組織於1901年聯合而成的[[[http://scp-zh-tr.wikidot.com/wrong-proposal| 「基金會」]]]對該領域展現出濃厚的興趣，為了將其作為[[[http://scp-zh-tr.wikidot.com/scp-2000| 應對末日事件的對策]]]，他們委託普羅米修斯實驗室進行研究，並承諾提供龐大的資金、人力和資源支援。
+[[/div]]
 [[/tab]]
 
 [[/tabview]]
+
 [[include :scp-zh-tr:component:license-box
 |author=
 |translator=
@@ -177,7 +279,7 @@ https://scp-zh-tr.wikidot.com/fragment:author-secret-office-1
 > **附註：** 更改顏色以符合主題。
 > **衍生自：**
 >> \
- **圖像名稱：** RAISA
+ **檔案名稱：** https://imgur.com/4uLBoQ3
 >> **圖像作者：** [[[*user EstrellaYoshte]]
 >> **圖像授權協議：** CC BY-SA 3.0
 >> **圖源連結：** [[[http://scp-zh-tr.wikidot.com/desk-of-junior-designer-s-yvonne| S. Yvonne初級設計師的辦公桌]]]
