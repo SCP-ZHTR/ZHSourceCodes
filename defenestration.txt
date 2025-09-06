@@ -5,6 +5,9 @@
 [[module css]]
 #header {
     background-image: url(https://live.staticflickr.com/65535/54763850557_e87a5d516c_o.png);
+    background-position: -5px 10px;
+    background-repeat: no-repeat;
+    background-size: 110px 110px;
 }
 
 #header h1 a span {
