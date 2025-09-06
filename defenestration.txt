@@ -303,13 +303,13 @@ width=250px|
 > **附註：** 更改顏色以符合主題。
 > **衍生自：**
 >> \
- **檔案名稱：**https://i.imgur.com/4uLBoQ3.png
+ **檔案名稱：** https://i.imgur.com/4uLBoQ3.png
 >> **圖像作者：** [[[*user EstrellaYoshte]]
 >> **圖像授權協議：** CC BY-SA 3.0
 >> **圖源連結：** [[[http://scp-zh-tr.wikidot.com/desk-of-junior-designer-s-yvonne| S. Yvonne初級設計師的辦公桌]]]
 
 > **檔案名稱：** https://i.imgur.com/e1Qu7QU.png
-> **圖像作者：** [[[*user EstrellaYoshte]]
+> **圖像作者：** [[*user EstrellaYoshte]]
 > **圖像授權協議：** CC BY-SA 3.0
 > **圖源連結：** [[[http://scp-zh-tr.wikidot.com/desk-of-junior-designer-s-yvonne| S. Yvonne初級設計師的辦公桌]]]
 =====
