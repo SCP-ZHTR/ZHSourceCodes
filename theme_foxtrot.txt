@@ -2810,6 +2810,10 @@ body {
 
 /* VARIABLES */
 
+:root:lang(zh) {
+--logo-img: var(--darkmode-logo-img);
+}
+
 :root {
 
     /* VARIABLES > Core */

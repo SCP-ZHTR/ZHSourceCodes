@@ -76,6 +76,15 @@ style="width:250px;"]]
 > 這句是誰寫的啦！我以後再也不跟你們聚餐了！
 [[/collapsible]]
 
+[[collapsible show="+ 領星者" hide="-  領星者"]]
+[[div class="scp-image-block block-center"
+style="width:700px;"]]
+[[image https://live.staticflickr.com/65535/54769445604_8aa5189747_b.jpg]]
+[[/div]]
+> 我們是... 領星者。
+[[/collapsible]]
+
+
 [[collapsible show="+ 智天使" hide="-  智天使"]]
 [[div class="scp-image-block block-center"
 style="width:300px;"]]
