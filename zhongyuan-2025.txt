@@ -151,7 +151,7 @@ display:none;
     [[div class="container"]]
       [[div class="zone-list"]]
       [[div class="zone"]]
-[http://scp-zh-tr.wikidot.com/scp-zh-935 起始：【禁止觀測】]
+[http://scp-zh-tr.wikidot.com/scp-zh-935 起始：登堂入室]
 [[/div]]
       [[div class="zone"]]
 [http://scp-zh-tr.wikidot.com/scp-zh-906 距離21.87公里：【禁止觀測】]
@@ -235,7 +235,7 @@ display:none;
 
 [[div style="padding-left: 20px;"]]
 
-* 起始：[[[scp-zh-935 |【禁止觀測】]]]##grey|（9/8）##
+* 起始：[[[scp-zh-935 |登堂入室]]]##grey|（9/8）##
 [[div style="border-left: 0.2rem solid; padding-left: 8px; margin-top: 12px; margin-bottom: 12px; color: #white; opacity: 0.8;"]]
 應將該防空洞視為已損失：
 * 防空洞崩塌。
