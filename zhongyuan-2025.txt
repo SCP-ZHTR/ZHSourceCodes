@@ -154,7 +154,7 @@ display:none;
 [http://scp-zh-tr.wikidot.com/scp-zh-935 起始：登堂入室]
 [[/div]]
       [[div class="zone"]]
-[http://scp-zh-tr.wikidot.com/scp-zh-906 距離21.87公里：【禁止觀測】]
+[http://scp-zh-tr.wikidot.com/scp-zh-906 距離21.87公里：大都會系統]
 [[/div]]
       [[div class="zone"]]
 [http://scp-zh-tr.wikidot.com/scp-zh-881 距離9.90公里：【禁止觀測】]
@@ -241,7 +241,7 @@ display:none;
 * 防空洞崩塌。
 * 防空洞內部被不明有機生物組織填滿。
 [[/div]]
-* 距離21.87公里：[[[scp-zh-906 |【禁止觀測】]]]##grey|（9/9）##
+* 距離21.87公里：[[[scp-zh-906 |大都會系統]]]##grey|（9/9）##
 [[div style="border-left: 0.2rem solid; padding-left: 8px; margin-top: 12px; margin-bottom: 12px; color: #white; opacity: 0.8;"]]
 一個完美的、空泛的、沒有意義的，大都會系統。
 [[/div]]
