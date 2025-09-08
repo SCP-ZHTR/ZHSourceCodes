@@ -1,5 +1,7 @@
-[[module CSS]]
+she/her
+your favorite author that posts every two years 
 
+[[module CSS]]
 .footnotes-footer{
 display:none;
 }
@@ -40,5 +42,3 @@ background:none;
 [[module ListPages category="*" created_by="Jetttttt" order="created_at_desc" separate="no" perPage="250" tag="-作者頁面"]]
 ||%%title_linked%%||##grey|**%%created_at%%**##||%%rating%%||
 [[/module]]
-
-oh hey look whos a [https://hrtcafe.net/ girl] now two years later
