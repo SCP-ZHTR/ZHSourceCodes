@@ -1,11 +1,9 @@
-[[include component:scp-meta-title-hiding css-style=classic]]
 [[include info:start]]
 篇名：SCP-ZH-881 - 距離9.90公里：人去城留
 作者：[[*user NocturnalT]]
 
 此篇項目中之圖片皆由本人[[*user NocturnalT]]拍攝與編輯
 [[include info:end]]
-
 [[div class="scp-image-block block-center" style="width:68%;"]]
 [[f>image https://live.staticflickr.com/65535/54635194256_ef30e8a6d6_c.jpg style="width:100%;" link=#]]
 [[/div]]

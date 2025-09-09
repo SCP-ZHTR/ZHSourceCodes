@@ -4,10 +4,10 @@
 
 此篇項目中之圖片皆由本人[[*user NocturnalT]]拍攝與編輯
 [[include info:end]]
-
 [[div class="scp-image-block block-center" style="width:68%;"]]
 [[f>image https://live.staticflickr.com/65535/54759636662_ea48e028f0_c.jpg style="width:100%;" link=#]]
 [[/div]]
+
 **項目編號：**SCP-ZH-881
 
 **項目等級：**Safe

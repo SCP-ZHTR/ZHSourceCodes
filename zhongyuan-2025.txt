@@ -157,7 +157,7 @@ display:none;
 [http://scp-zh-tr.wikidot.com/scp-zh-906 距離21.87公里：大都會系統]
 [[/div]]
       [[div class="zone"]]
-[http://scp-zh-tr.wikidot.com/scp-zh-881 距離9.90公里：【禁止觀測】]
+[http://scp-zh-tr.wikidot.com/scp-zh-881 距離9.90公里：人去城留]
 [[/div]]
       [[div class="zone"]]
 [http://scp-zh-tr.wikidot.com/scp-zh-616 距離8.27公里：【禁止觀測】]
@@ -245,7 +245,7 @@ display:none;
 [[div style="border-left: 0.2rem solid; padding-left: 8px; margin-top: 12px; margin-bottom: 12px; color: #white; opacity: 0.8;"]]
 一個完美的、空泛的、沒有意義的，大都會系統。
 [[/div]]
-* 距離9.90公里：[[[scp-zh-881 |【禁止觀測】]]]##grey|（9/10）##
+* 距離9.90公里：[[[scp-zh-881 |人去城留]]]##grey|（9/10）##
 [[div style="border-left: 0.2rem solid; padding-left: 8px; margin-top: 12px; margin-bottom: 12px; color: #white; opacity: 0.8;"]]
 任何造訪區域的外界人員將會暴露在現象的效果之下，並憑空消失，為此失蹤的人員至今仍未被尋獲。
 [[/div]]
