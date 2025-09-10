@@ -1,0 +1,505 @@
+[[include :scp-jp:theme:min-theme]]
+[[include :scp-zh-tr:component:betterfootnotes]]
+[[include :scp-zh-tr:component:blacklight-box-source |inc-source= --]]]
+[[module CSS]]
+* {
+    color: #c0c0c0;
+}
+
+#header h1 a {
+    filter: invert(1);
+}
+
+h1 {
+    color: white;
+}
+
+div.page-rate-widget-box,
+div.page-rate-widget-box span.rate-points,
+div.page-rate-widget-box span.cancel {
+    background-color: #050a14!important;
+    border: solid #c0c0c0 1px!important;
+}
+div.page-rate-widget-box span.rateup,
+div.page-rate-widget-box span.ratedown {
+    border: solid #c0c0c0!important;
+    border-width: 1px 0!important;
+}
+div.page-rate-widget-box span.rate-points,
+div.page-rate-widget-box span.cancel a,
+div.page-rate-widget-box span.cancel a:hover {
+    border: #c0c0c0;
+    color: #c0c0c0;
+}
+div.page-rate-widget-box span.rateup,
+div.page-rate-widget-box span.ratedown {
+    background-color: #050a14!important;
+}
+div.page-rate-widget-box span.rateup a,
+div.page-rate-widget-box span.ratedown a {
+    color: #c0c0c0!important;
+}
+div.page-rate-widget-box span.cancel a:hover,
+div.page-rate-widget-box span.rateup a:hover,
+div.page-rate-widget-box span.ratedown a:hover {
+    background: transparent!important;
+    color: transparent!important;
+}
+
+a,a:visited {
+    color: grey;
+}
+
+#top-bar a {
+    color: grey;
+}
+
+div#container-wrap {
+    background-color: #050a14;
+}
+
+#side-bar {
+    filter: grayscale(1);
+}
+
+#scp-image-block scp-image-caption {
+    background-color: #050a14;
+}
+
+#breadcrumbs {
+    display:none;
+}
+
+/* From 欧豆（wikiID：Odeo） */
+#page-options-container {
+    opacity: 0.1;
+    transition: ease-in 0.1s;
+}
+
+#page-options-container:hover {
+    opacity: 1;
+ 
+}
+
+.email-example .collapsible-block-folded a.collapsible-block-link {
+    animation: blink 0.8s ease-in-out infinite alternate;
+}
+@keyframes blink {
+    0% { color: transparent; }
+    50%, 100% { color: #b01; }
+}
+
+.email-example .collapsible-block-unfolded a.collapsible-block-link {
+    animation: erase 1.5s ease-in-out forwards;
+}
+@keyframes erase {
+    0% { color: rgba(176, 176, 176, 1); }
+    100% { color: rgba(176, 176, 176, 0); font-size: 0em; }
+}
+
+.email-example a.collapsible-block-link {
+    font-family: monospace;
+    font-weight: bold;
+    font-size: 1.5em;
+}
+
+#header {
+   height: 10vh;
+}
+
+.topp {
+   height: 77.5vh;
+   text-align: center;
+   font-size: 250%;
+   line-height : 0;
+   display: flex;
+   justify-content: center;
+   align-items: center; 
+}
+
+.info-container {
+   --barColour: #000609;
+   --linkColour: #3b3b3b;
+}
+
+.info-container .collapsible-block-unfolded {
+    border: #000609 !important;
+}
+
+.fncon {
+   background-color:#020811;
+   border-color:white;
+}
+
+.blockquote {
+   background-color: #020811 !important;
+   color: #c0c0c0 !important;
+   border-color: white !important;
+}
+
+.scp-image-caption {
+   color: black !important;
+}
+
+table.wiki-content-table th {
+   border: 1px solid #888 !important;
+   color: #050a14 !important;
+   background-color: #c0c0c0 !important;
+}
+
+/* 
+Fadeout Page-Contents
+- Copyright (c) 2020 ukwhatn
+- Released under the MIT License
+- http://expunged.xyz/MIT.txt
+*/
+
+/* from SCP格式資源 */
+
+/*== variables ==*/
+:root {
+  --fadeout-background: #050a14;
+  --fadeout-time: 1s;
+  --img-fadein-time: 1s;
+  --img-fadein-delay: 1s;
+  --txt-fadein-time: 1s;
+  --txt-fadein-delay: 1s;
+}
+
+/*== BASE CODE ==*/
+
+.fadeout-wrapper  {
+  position: relative;
+  overflow: hidden;
+}
+
+.fadeout-wrapper .cover{
+  width: 100%;
+  height: 200%;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  z-index: 2;
+  background: var(--fadeout-background);
+  color: transparent;
+  animation: cover-anim var(--fadeout-time) linear 0s 1 forwards;
+}
+
+@keyframes cover-anim {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+.fadeout-wrapper .escape {
+  position: relative;
+  display: inline-block;
+  z-index: 3;
+}
+
+.fadeout-wrapper .fadein-img img{
+  position: relative;
+  z-index: 3;
+  opacity: 0;
+  animation: cover-anim var(--img-fadein-time) linear var(--img-fadein-delay) 1 forwards;
+}
+
+.fadeout-wrapper .fadein-txt {
+  position: relative;
+  z-index: 3;
+  opacity: 0;
+  animation: cover-anim var(--txt-fadein-time) linear var(--txt-fadein-delay) 1 forwards;
+}
+[[/module]]
+
+[[include :scp-zh-tr:component:blacklight-box-source |inc-colors= --]
+|color-family=copy
+|bg-color=rgb(5, 10, 20)
+|txt-color=rgb(192, 192, 192)
+|border-color=rgb(192, 192, 192)
+|label-bg-color=rgb(192, 192, 192)
+|label-txt-color=rgb(5, 10, 20)
+]]
+
+[[include :scp-zh-tr:component:info-ayers
+|page=scp-zh-000
+|authorPage=http://scp-zh-tr.wikidot.com/fallen-truth
+|comments= 
+= **SCP-ZH-616：**距離8.27公里：叢枝體 
+= **作者：**[[*user Fallen_Truth]]@@ @@ 
+= //您已到達目的地。//
+]]
+[[=]]
+[[module Rate]]
+[[/=]]
+**項目編號：**SCP-ZH-616
+
+**項目等級：**[[span style="background-color: #cc0000; padding: 1px;"]]KETER[[/span]]
+
+**特殊收容措施：**尚未研擬出妥善的措施遏制SCP-ZH-616。
+
+由於SCP-ZH-616-L幅員遼闊，涵蓋許多新北市西側及桃園市東側的道路，當前認為封鎖所有可能發生SCP-ZH-616的道路會帶來不可接受的社會輿論。
+
+已督促政府於SCP-ZH-616-L內的道路上設置更多路標，盡可能減少因SCP-ZH-616迷路的民眾。並於SCP-ZH-616-L附近的警察局安插特工，協助攔截並處理與SCP-ZH-616有關的求助。
+
+異常程式部已派出特工與導航系統廠商合作，以「協助研究程式錯誤」為由，嘗試攔截並回收疑似的SCP-ZH-616-D。
+
+**描述：**SCP-ZH-616為一類衛星導航失靈現象，可能影響任何具有導航功能的儀器及設備[[span class="fnnum"]].[[/span]][[span class="fncon"]]如行車導航儀、車載導航系統及安裝有導航程式的行動裝置。[[/span]]，特徵為反覆出現大量不尋常的錯誤，表現形式相當廣泛，包括但不限於顯示故障畫面、定位失靈、系統當機等。項目於2010年後陸續被回報並記錄，2020年後發生頻率逐漸增加[[span class="fnnum"]].[[/span]][[span class="fncon"]]儘管如此，SCP-ZH-616也僅被記錄到94例，其中半數發生於2020年之後。[[/span]]。
+
+子項目SCP-ZH-616-L指定為可能發生SCP-ZH-616的區域。儘管並無具體理論指出兩者的聯繫，但當前所有的SCP-ZH-616案例僅於SCP-ZH-616-L內發生，由此前SCP-ZH-616回報紀錄可大致確定SCP-ZH-616-L涵蓋臺灣觀音山南側、林口台地西側及桃園台地西南側，最北可至新北市五股區孝義路，最南可至桃園市龜山區國立體育大學後側的無名產業道路。由於SCP-ZH-616的遭遇者多半也遭遇迷路及空間混亂的狀況，因此對於SCP-ZH-000-L是否也具有異常效應仍未有定論。
+
+子項目SCP-ZH-616-D臨時指定[[span class="fnnum"]].[[/span]][[span class="fncon"]]臨時指定為項目編號指派的特殊階段，用於真實性存疑及異常性存疑的項目。由於SCP-ZH-616-D並無實物紀錄（見本段後文），但據遭遇者的證詞認定其極有可能存在，因此採臨時指定。[[/span]]為所有曾受SCP-ZH-616影響的導航設備。異常程式部與外勤設備部門曾派遣特工偽裝為製造商人員，登門拜訪遭遇SCP-ZH-616的民眾試圖收集SCP-ZH-616-D，然而無一例外地皆未成功回收，未知去向。//更多回收紀錄參見**附錄ZH-616.1**。//
+
+異常程式部仍無法再現SCP-ZH-616，僅能嘗試模擬可能觸發SCP-ZH-616的程式漏洞，以及攜帶各式導航設備多次進入SCP-ZH-616-L，然而損失一定量的導航設備後並未成功。設備製造商也回應無法處理SCP-ZH-616，稱其「非正常使用導航設備產生的錯誤」。
+
+2025/08/30 回收的DEVICE#414被認為疑似是SCP-ZH-616-D的實例，編號指派程序將在研究完畢後重新審定。//更多紀錄參見**附錄ZH-616.2**。//
+
+**附錄ZH-000.1：SCP-ZH-616紀錄節錄**
+
+[[div class="blockquote"]]
+**編號：**005
+**日期：**2012/12/22
+**受訪者：**王曉中
+
+**發生背景：**王曉中於2012/12/19 16:08駕車從位於五股區的██國小[[span class="fnnum"]].[[/span]][[span class="fncon"]]該校為王曉中的//{{[數據損毀，請通報RAISA-ZH]}}//[[/span]]返家途中，在行經民義路二段40號後未知地點發現異常[[span class="fnnum"]].[[/span]][[span class="fncon"]]「那條路我開過好多次了，所以我知道附近大概到幾號。」「但不知道是不是因為下大雨，我看不出來我開到哪裡。」[[/span]]。
+
+**特徵：**
+||~ 編號||~ 異常狀況||~ 附註||
+||~ 1||指北針功能失效，無規律偏轉。||曾指向某個固定方向持續數分鐘，原因或意義未明。||
+||~ 2||多次更改規劃路線，無固定時間間隔。||████████。||
+||~ 3||預計抵達時間不斷增加。||王曉中透過手錶確定當前時間正常無誤。||
+
+**後續情況：**由於熟悉路況，王曉中也僅較往常遲五分鐘到家，//{{[數據損毀，請通報RAISA-ZH]}}//。王曉中聲稱「回到家後沒有發現其他怪事，只是那天不知道為什麼多買了一人份的晚餐回家，被老婆念了一頓。」
+
+2012/12/20 王曉中將SCP-ZH-616-D-5送修後，設備商稱其為製造過程中有瑕疵導致故障，但暫未找到方法解決，因此只能恢復原廠設定送回。經檢查，SCP-ZH-616-D-5未有任何特殊之處，也不再出現異常狀況。
+[[/div]]
+
+[[div class="blockquote"]]
+**編號：**021
+**日期：**2015/09/21
+**受訪者：**顧芳湄
+
+**發生背景：**顧芳湄於2015/09/18 15:21駕駛計程車載客從新北市五股區的黎明技術學院前往桃園市龜山區的林口長庚醫院，為避開車潮而改行黎明路接南林路，在開至南亞科技大樓之前發現導航發生異常。
+
+**特徵：**
+||~ 編號||~ 異常狀況||~ 附註||
+||~ 1||多次更改規劃路線。||至少發生五次。||
+||~ 2||語音播報聲音變得尖銳刺耳。|| ||
+||~ 3||地圖沿南北方向緩慢拉伸。|| ||
+||~ 4||反覆跳出互動視窗，詢問「是否設定『　　』[[span class="fnnum"]].[[/span]][[span class="fncon"]]互動視窗中並無顯示任何名稱。[[/span]]為新增中途點？」||顧芳湄表示前面幾次均按「否」，最後一次選取「是」後便未再跳出。||
+||~ 5||螢幕跳至開機畫面，隨後在顯示商標時當機，而後在閃過未知畫面後重新顯示地圖。||顧芳湄稱因他剛好回頭//{{[數據損毀，請通報RAISA]}}//，轉回來時看到螢幕突然顯示紅色畫面，但未看清具體內容。||
+||~ 6||多次播報「您已到達目的地。」||提示音相互重疊。||
+||~ 7||跳出空白提示框，選取確定後導航顯示關機畫面，之後無法重啟。||顧芳湄稱此提示框在他拿出地圖時顯示。在關機後他也曾嘗試開機及重接電源線，然而導航並無反應。||
+
+**後續情況：**由於顧芳湄鮮少到此處載客而不熟當地路況，因此迷路，約十分鐘後在車上的手套箱中找到紙本地圖，參考地圖繼續按原定路徑行駛，最終比預期晚十五分鐘抵達目的地，本趟車程未收費即駛離林口長庚醫院[[span class="fnnum"]].[[/span]][[span class="fncon"]]問及未收費原因，//{{[數據損毀，請通報RAISA-ZH]}}//[[/span]]。
+
+2015/09/20 顧芳湄將SCP-ZH-616-D-21帶去通訊行回收，基金會人員隔日前往通訊行，但已無法追查下落。
+[[/div]]
+
+[[div class="blockquote"]]
+**編號：**044
+**日期：**2018/04/03
+**受訪者：**//無//（見下）
+
+**發生背景：**2018/04/01 23:47基金會網路爬蟲「志怪」運行時，在臺灣知名網路論壇中標記一篇疑似有關都市傳說型異常的相關討論串，發文時間開始於同日21:23，內容聲稱其發文者正在行駛於林口山區的某條路上，導航和手機地圖都變得怪異，自己也不知身處何處。由於討論內容與SCP-ZH-616相似，因此轉交給SCP-ZH-616項目小組負責調查。//{{[數據損毀，請通報RAISA]}}//
+
+**特徵：**
+||~ 編號||~ 異常狀況||~ 附註||
+||~ 1||地圖扭曲。|| ||
+||~ 2||「要求於直線路徑上連續轉彎。」||該回覆具有歧義，未知為導航顯示的規劃路線為直線，抑或是實際道路為直線。||
+||~ 3||顯示多個目的地符號。||透過其他回覆推測發文者的實際目的地並不在該處附近。||
+||~ 4||顯示無衛星訊號卻仍可導航。|| ||
+||~ 5||無法正常開啟地圖應用程式，反覆跳出提醒要求用戶更新。||發文者稱已多次更新，卻仍舊無法使用。||
+
+**後續情況：**無法追查該篇文章的真實性，兩日後該文章被刪除，原因未知。按其文內聲稱使用的導航設備，應須註冊帳號並紀錄真實姓名及電話號碼方能使用，然而2018/04/02聯絡該公司以調查失蹤名義搜尋相關資料，依文內附圖透露的帳號名稱尋找，卻仍然找不到發文者。
+
+//{{[圖片損毀，請通報RAISA-ZH]}}//
+
+[[/div]]
+
+**附錄ZH-616.2：DEVICE#414螢幕畫面紀錄**
+DEVICE為基金會研製的衛星導航儀器，主要供員工能於各地的基金會設施。因存有大量機密資訊，DEVICE設有登入系統及定位裝置，此外也採具名登記制度，並在開機後即時向外勤設備部門的遠端資料庫持續上傳操作紀錄及螢幕畫面[[span class="fnnum"]].[[/span]][[span class="fncon"]]更多使用規範，請參見[# DEVICE使用條款第5版]。[[/span]]。
+
+2025/08/30，基金會觀測站16.34和Site-ZH-16先後接收到未知無線電訊號，訊號內容卻存有大量雜音而無法辨別。同日稍早，未知持有者的DEVICE（機身編號為414，下稱DEVICE#414）持續上傳GPS定位、螢幕畫面、使用記錄等，由於發射點位於SCP-ZH-616-L，且上傳資料與SCP-ZH-616的特徵相似，有望成為SCP-ZH-616的研究材料，已將這些資料整併羅列如下，尚待分析及探討。
+
+[[include :scp-zh-tr:component:blacklight-box-source |inc-section-start= --]
+|color-family=copy
+|unique-name=1
+|display-name=20:57:13
+]]
+[[=]]
+[[collapsible show="展開圖1" hide="收起圖1"]]
+[[=image https://i.postimg.cc/hvK6rLM3/MAP01.png width="99.5%" style="border: white 1px solid; filter: brightness(0.85);"]]
+[[/collapsible]]
+[[/=]]
+由此前回傳紀錄判斷，使用者正從新北市五股區的一處基金會觀測站出發，前往新北市林口區的Site-ZH-16。
+[[include :scp-zh-tr:component:blacklight-box-source |inc-section-end= --]]]
+
+[[include :scp-zh-tr:component:blacklight-box-source |inc-section-start= --]
+|color-family=copy
+|unique-name=2
+|display-name=21:00:57
+]]
+[[=]]
+[[collapsible show="展開圖2" hide="收起圖2"]]
+[[=image https://i.postimg.cc/bYRKv5wX/MAP02.png width="99.5%" style="border: white 1px solid; filter: brightness(0.85);"]]
+[[/collapsible]]
+[[/=]]
+使用者按導航指示靠左駛入粉寮一街，此時導航仍正常無誤。
+[[include :scp-zh-tr:component:blacklight-box-source |inc-section-end= --]]]
+
+[[include :scp-zh-tr:component:blacklight-box-source |inc-section-start= --]
+|color-family=copy
+|unique-name=3
+|display-name=21:01:08
+]]
+[[=]]
+[[collapsible show="展開圖3" hide="收起圖3"]]
+[[=image https://i.postimg.cc/t4sf2Cty/MAP03.png width="99.5%" style="border: white 1px solid; filter: brightness(0.85);"]]
+[[/collapsible]]
+[[/=]]
+SCP-ZH-000發生，[[span class="fnnum"]].[[/span]][[span class="fncon"]]另一說認為此時確為衛星連線中斷，圖5後才為SCP-ZH-616造成的異常效應。[[/span]]此時GPS訊號瞬間全數中斷，彈出互動視窗提醒正在嘗試重新連線。
+[[include :scp-zh-tr:component:blacklight-box-source |inc-section-end= --]]]
+
+[[include :scp-zh-tr:component:blacklight-box-source |inc-section-start= --]
+|color-family=copy
+|unique-name=4
+|display-name=21:04:26
+]]
+[[=]]
+[[collapsible show="展開圖4" hide="收起圖4"]]
+[[=image https://i.postimg.cc/wjnrP80N/MAP04.png width="99.5%" style="border: white 1px solid; filter: brightness(0.85);"]]
+[[/collapsible]]
+[[/=]]
+行車圖示上出現紅色叉號閃爍，此為正常GPS失去衛星訊號的提示。使用者可能仍未駕駛，緊急定位功能顯示其仍停留於該處。
+[[include :scp-zh-tr:component:blacklight-box-source |inc-section-end= --]]]
+
+[[include :scp-zh-tr:component:blacklight-box-source |inc-section-start= --]
+|color-family=copy
+|unique-name=5
+|display-name=21:08:32
+]]
+[[=]]
+[[collapsible show="展開圖5" hide="收起圖5"]]
+[[=image https://i.postimg.cc/DZPY8WFQ/MAP05.png width="99.5%" style="border: white 1px solid; filter: brightness(0.85);"]]
+[[/collapsible]]
+[[/=]]
+圖4畫面持續到此時後斷訊，DEVICE#414離線。同時DEVICE#414的緊急定位功能發生異常，根據GPX檔紀錄，DEVICE#414的定位點從此時開始向西北固定方向漂移，移動速度固定於每小時25公里，持續14分02秒。緊急定位功能與畫面上傳功能用於開機後監控使用者去向及記錄使用者意圖，並確保在緊急情況下仍可快速確認使用者的行蹤，因此有獨立於導航功能的供電系統及內建自我測試以便維持運作，除超常原因外鮮少發生故障，推測此二者故障皆為SCP-ZH-000的連帶異常效應。
+[[include :scp-zh-tr:component:blacklight-box-source |inc-section-end= --]]]
+
+[[include :scp-zh-tr:component:blacklight-box-source |inc-section-start= --]
+|color-family=copy
+|unique-name=6
+|display-name=21:21:33
+]]
+[[=]]
+[[collapsible show="展開圖6" hide="收起圖6"]]
+[[=image https://i.postimg.cc/7YfmytCn/MAP06.png width="99.5%" style="border: white 1px solid; filter: brightness(0.85);"]]
+[[/collapsible]]
+[[/=]]
+DEVICE#414重新上線，顯示不合理的地圖，在圖4定位附近二十分鐘車程處並無任何登記為「道路」的路徑。過程中使用者多次點擊目錄及衛星按鈕，但皆無反應。
+[[include :scp-zh-tr:component:blacklight-box-source |inc-section-end= --]]]
+
+[[include :scp-zh-tr:component:blacklight-box-source |inc-section-start= --]
+|color-family=copy
+|unique-name=7
+|display-name=21:22:34
+]]
+[[=]]
+[[collapsible show="展開圖7" hide="收起圖7"]]
+[[=image https://i.postimg.cc/DZPY8WFQ/MAP05.png width="99.5%" style="border: white 1px solid; filter: brightness(0.85);"]]
+[[/collapsible]]
+[[/=]]
+在使用者依照圖6指示掉頭後，DEVICE#414再次離線。此時緊急定位功能仍失靈，但DEVICE#414的定位點轉向東北方向漂移，移動速度不固定，介於每小時5至83公里之間。於此時開始DEVICE#414的緊急通報功能被反覆開啟又關閉共4次，最後一次關閉緊急通報於23:08:11。緊急通報用於使用者遭遇危急情況可第一時間向基金會尋求求助，通報將會被外勤設備部門紀錄，交由緊急應對部門協助處理，該功能可透過按下DEVICE側邊的紅色按鈕啟用。
+[[include :scp-zh-tr:component:blacklight-box-source |inc-section-end= --]]]
+
+[[include :scp-zh-tr:component:blacklight-box-source |inc-section-start= --]
+|color-family=copy
+|unique-name=8
+|display-name=23:12:11
+]]
+[[=]]
+[[collapsible show="展開圖8" hide="收起圖8"]]
+[[=image https://i.postimg.cc/k5fbG9z6/MAP07.png width="99.5%" style="border: white 1px solid; filter: brightness(0.85);"]]
+[[/collapsible]]
+[[/=]]
+DEVICE#414重新上線，背景中顯示不合理的地圖，在圖6定位附近兩小時車程處並無與圖中相符的道路。一個異常互動視窗彈出，外勤設備部門已確認DEVICE中顯示錯誤訊息的互動視窗外框確為紅色，但並無設計「錯誤444」的錯誤訊息。
+[[include :scp-zh-tr:component:blacklight-box-source |inc-section-end= --]]]
+
+[[include :scp-zh-tr:component:blacklight-box-source |inc-section-start= --]
+|color-family=copy
+|unique-name=9
+|display-name=23:15:57
+]]
+[[=]]
+[[collapsible show="展開圖9" hide="收起圖9"]]
+[[=image https://i.postimg.cc/fLPS7CwM/MAP08.png width="99.5%" style="border: white 1px solid; filter: brightness(0.85);"]]
+[[/collapsible]]
+[[/=]]
+注意此時行車圖示已脫離規劃路線，因此重新規劃路線並非異常，且由車速變化判斷使用者駕駛車輛並沒有發生碰撞或翻落山坡。
+[[include :scp-zh-tr:component:blacklight-box-source |inc-section-end= --]]]
+
+[[include :scp-zh-tr:component:blacklight-box-source |inc-section-start= --]
+|color-family=copy
+|unique-name=10
+|display-name=23:16:42
+]]
+[[=]]
+[[collapsible show="展開圖10" hide="收起圖10"]]
+[[=image https://i.postimg.cc/DZPY8WFQ/MAP05.png width="99.5%" style="border: white 1px solid; filter: brightness(0.85);"]]
+[[/collapsible]]
+[[/=]]
+圖9後使用者持續向前移動，地圖上已無標示道路，DEVICE#414第三次離線。此時DEVICE#414的定位點轉向南至向西方向漂移，移動速度不固定，介於每小時5至47公里之間。
+[[include :scp-zh-tr:component:blacklight-box-source |inc-section-end= --]]]
+
+[[include :scp-zh-tr:component:blacklight-box-source |inc-section-start= --]
+|color-family=copy
+|unique-name=11
+|display-name=23:53:39
+]]
+[[=]]
+[[collapsible show="展開圖11" hide="收起圖11"]]
+[[=image https://i.postimg.cc/MGPm4yWF/MAP10.png width="99.5%" style="border: white 1px solid; filter: brightness(0.85);"]]
+[[/collapsible]]
+[[/=]]
+DEVICE#414重新上線，行車圖示未再移動。
+[[include :scp-zh-tr:component:blacklight-box-source |inc-section-end= --]]]
+
+[[include :scp-zh-tr:component:blacklight-box-source |inc-section-start= --]
+|color-family=copy
+|unique-name=12
+|display-name=23:53:59
+]]
+[[=]]
+[[collapsible show="展開圖12" hide="收起圖12"]]
+[[=image https://i.postimg.cc/CLkJ1BNR/MAP09.png width="99.5%" style="border: white 1px solid; filter: brightness(0.85);"]]
+[[/collapsible]]
+[[/=]]
+在上線後20秒鐘，一個異常互動視窗彈出，隨後停留於此畫面約2小時45分鐘，期間使用者沒有作出任何操作。最終DEVICE#414於隔日02:39:18離線，此後再無訊號傳輸。
+[[include :scp-zh-tr:component:blacklight-box-source |inc-section-end= --]]]
+[[div_ class="fadeout-wrapper"]]
+已確認DEVICE#414由Site-ZH-02於2025/08/28登記借出，登記使用者為//{{[數據損毀，請通報RAISA]}}//
+
+外勤設備部門於隔日截獲DEVICE#414發出的緊急定位訊號，在SCP-ZH-616-L內的一處並無道路經過的山谷中發現DEVICE#414。回收地點並無發現其他可證明事故發生的證據回收地點並無發現其他可證明事故發生的證據，現場植被完整無破壞痕跡，周遭一百公尺的樹林皆經過搜索，並未發現諸如玻璃、車輛碎片、等殘留物，也無腳印、血跡等人為影響痕跡。DEVICE#414帶回Site-ZH-16分析，暫編為SCP-ZH-616-D-95。
+
+SCP-ZH-616-D-95外表並無明顯受損痕跡，但回收後無法正常使用，在顯示開機畫面後並未跳出登入介面，而是發生黑畫面當機，其上顯示的錯誤代碼並不符合初開發時設計，且無法進入修復模式，已交予異常程式部與外勤設備部門組成資料還原及重建小組協助處理。
+
+//{{[數據損毀，請通報RAISA]}}//已失蹤。
+
+[[div class="email-example"]]
+[[=]]
+[[collapsible show="Update?" hide="Received."]]
+[[<]]
+2025/09/01，資料還原及重建小組發現SCP-ZH-616-D-95的地圖資料庫中被寫入大量不正確加密的圖資，分析處理後已整理成一小部分地圖，約佔全部異常資料1%。
+
+該地圖中僅有多條道路，並無標示任何地點，也無指定行政區劃，且全數道路被標上虛構的人名，按此道路密度推估可得整份異常資料包含110~140條道路。
+
+資料還原及重建小組仍在持續解密，嘗試還原SCP-ZH-616-D-95的全部數據，並試圖尋找其中資料的共通性。
+[[/<]]
+[[/div]]
+[[/collapsible]]
+[[/div]]
+[[/=]]
