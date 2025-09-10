@@ -225,7 +225,7 @@ Fadeout Page-Contents
 ]]
 
 [[include :scp-zh-tr:component:info-ayers
-|page=scp-zh-000
+|page=scp-zh-616
 |authorPage=http://scp-zh-tr.wikidot.com/fallen-truth
 |comments= 
 = **SCP-ZH-616：**距離8.27公里：叢枝體 
@@ -249,7 +249,7 @@ Fadeout Page-Contents
 
 **描述：**SCP-ZH-616為一類衛星導航失靈現象，可能影響任何具有導航功能的儀器及設備[[span class="fnnum"]].[[/span]][[span class="fncon"]]如行車導航儀、車載導航系統及安裝有導航程式的行動裝置。[[/span]]，特徵為反覆出現大量不尋常的錯誤，表現形式相當廣泛，包括但不限於顯示故障畫面、定位失靈、系統當機等。項目於2010年後陸續被回報並記錄，2020年後發生頻率逐漸增加[[span class="fnnum"]].[[/span]][[span class="fncon"]]儘管如此，SCP-ZH-616也僅被記錄到94例，其中半數發生於2020年之後。[[/span]]。
 
-子項目SCP-ZH-616-L指定為可能發生SCP-ZH-616的區域。儘管並無具體理論指出兩者的聯繫，但當前所有的SCP-ZH-616案例僅於SCP-ZH-616-L內發生，由此前SCP-ZH-616回報紀錄可大致確定SCP-ZH-616-L涵蓋臺灣觀音山南側、林口台地西側及桃園台地西南側，最北可至新北市五股區孝義路，最南可至桃園市龜山區國立體育大學後側的無名產業道路。由於SCP-ZH-616的遭遇者多半也遭遇迷路及空間混亂的狀況，因此對於SCP-ZH-000-L是否也具有異常效應仍未有定論。
+子項目SCP-ZH-616-L指定為可能發生SCP-ZH-616的區域。儘管並無具體理論指出兩者的聯繫，但當前所有的SCP-ZH-616案例僅於SCP-ZH-616-L內發生，由此前SCP-ZH-616回報紀錄可大致確定SCP-ZH-616-L涵蓋臺灣觀音山南側、林口台地西側及桃園台地西南側，最北可至新北市五股區孝義路，最南可至桃園市龜山區國立體育大學後側的無名產業道路。由於SCP-ZH-616的遭遇者多半也遭遇迷路及空間混亂的狀況，因此對於SCP-ZH-616-L是否也具有異常效應仍未有定論。
 
 子項目SCP-ZH-616-D臨時指定[[span class="fnnum"]].[[/span]][[span class="fncon"]]臨時指定為項目編號指派的特殊階段，用於真實性存疑及異常性存疑的項目。由於SCP-ZH-616-D並無實物紀錄（見本段後文），但據遭遇者的證詞認定其極有可能存在，因此採臨時指定。[[/span]]為所有曾受SCP-ZH-616影響的導航設備。異常程式部與外勤設備部門曾派遣特工偽裝為製造商人員，登門拜訪遭遇SCP-ZH-616的民眾試圖收集SCP-ZH-616-D，然而無一例外地皆未成功回收，未知去向。//更多回收紀錄參見**附錄ZH-616.1**。//
 
@@ -257,7 +257,7 @@ Fadeout Page-Contents
 
 2025/08/30 回收的DEVICE#414被認為疑似是SCP-ZH-616-D的實例，編號指派程序將在研究完畢後重新審定。//更多紀錄參見**附錄ZH-616.2**。//
 
-**附錄ZH-000.1：SCP-ZH-616紀錄節錄**
+**附錄ZH-616.1：SCP-ZH-616紀錄節錄**
 
 [[div class="blockquote"]]
 **編號：**005
@@ -361,7 +361,7 @@ DEVICE為基金會研製的衛星導航儀器，主要供員工能於各地的�
 [[=image https://i.postimg.cc/t4sf2Cty/MAP03.png width="99.5%" style="border: white 1px solid; filter: brightness(0.85);"]]
 [[/collapsible]]
 [[/=]]
-SCP-ZH-000發生，[[span class="fnnum"]].[[/span]][[span class="fncon"]]另一說認為此時確為衛星連線中斷，圖5後才為SCP-ZH-616造成的異常效應。[[/span]]此時GPS訊號瞬間全數中斷，彈出互動視窗提醒正在嘗試重新連線。
+SCP-ZH-616發生，[[span class="fnnum"]].[[/span]][[span class="fncon"]]另一說認為此時確為衛星連線中斷，圖5後才為SCP-ZH-616造成的異常效應。[[/span]]此時GPS訊號瞬間全數中斷，彈出互動視窗提醒正在嘗試重新連線。
 [[include :scp-zh-tr:component:blacklight-box-source |inc-section-end= --]]]
 
 [[include :scp-zh-tr:component:blacklight-box-source |inc-section-start= --]
@@ -387,7 +387,7 @@ SCP-ZH-000發生，[[span class="fnnum"]].[[/span]][[span class="fncon"]]另一�
 [[=image https://i.postimg.cc/DZPY8WFQ/MAP05.png width="99.5%" style="border: white 1px solid; filter: brightness(0.85);"]]
 [[/collapsible]]
 [[/=]]
-圖4畫面持續到此時後斷訊，DEVICE#414離線。同時DEVICE#414的緊急定位功能發生異常，根據GPX檔紀錄，DEVICE#414的定位點從此時開始向西北固定方向漂移，移動速度固定於每小時25公里，持續14分02秒。緊急定位功能與畫面上傳功能用於開機後監控使用者去向及記錄使用者意圖，並確保在緊急情況下仍可快速確認使用者的行蹤，因此有獨立於導航功能的供電系統及內建自我測試以便維持運作，除超常原因外鮮少發生故障，推測此二者故障皆為SCP-ZH-000的連帶異常效應。
+圖4畫面持續到此時後斷訊，DEVICE#414離線。同時DEVICE#414的緊急定位功能發生異常，根據GPX檔紀錄，DEVICE#414的定位點從此時開始向西北固定方向漂移，移動速度固定於每小時25公里，持續14分02秒。緊急定位功能與畫面上傳功能用於開機後監控使用者去向及記錄使用者意圖，並確保在緊急情況下仍可快速確認使用者的行蹤，因此有獨立於導航功能的供電系統及內建自我測試以便維持運作，除超常原因外鮮少發生故障，推測此二者故障皆為SCP-ZH-616的連帶異常效應。
 [[include :scp-zh-tr:component:blacklight-box-source |inc-section-end= --]]]
 
 [[include :scp-zh-tr:component:blacklight-box-source |inc-section-start= --]
@@ -483,7 +483,7 @@ DEVICE#414重新上線，行車圖示未再移動。
 [[div_ class="fadeout-wrapper"]]
 已確認DEVICE#414由Site-ZH-02於2025/08/28登記借出，登記使用者為//{{[數據損毀，請通報RAISA]}}//
 
-外勤設備部門於隔日截獲DEVICE#414發出的緊急定位訊號，在SCP-ZH-616-L內的一處並無道路經過的山谷中發現DEVICE#414。回收地點並無發現其他可證明事故發生的證據回收地點並無發現其他可證明事故發生的證據，現場植被完整無破壞痕跡，周遭一百公尺的樹林皆經過搜索，並未發現諸如玻璃、車輛碎片、等殘留物，也無腳印、血跡等人為影響痕跡。DEVICE#414帶回Site-ZH-16分析，暫編為SCP-ZH-616-D-95。
+外勤設備部門於隔日截獲DEVICE#414發出的緊急定位訊號，在SCP-ZH-616-L內的一處並無道路經過的山谷中發現DEVICE#414。回收地點並無發現其他可證明事故發生的證據，現場植被完整無破壞痕跡，周遭一百公尺的樹林經過搜索也並未發現諸如玻璃、車輛碎片、等殘留物，甚或腳印、血跡等人為影響痕跡。已將DEVICE#414帶回Site-ZH-16分析，暫編為SCP-ZH-616-D-95。
 
 SCP-ZH-616-D-95外表並無明顯受損痕跡，但回收後無法正常使用，在顯示開機畫面後並未跳出登入介面，而是發生黑畫面當機，其上顯示的錯誤代碼並不符合初開發時設計，且無法進入修復模式，已交予異常程式部與外勤設備部門組成資料還原及重建小組協助處理。
 
