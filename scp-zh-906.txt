@@ -586,7 +586,7 @@
 [[include :scp-wiki:component:earthworm
 | first=false | last=false | hub=yes
 | previous-url=/SCP-ZH-935 | previous-title=起始：登堂入室
-| next-url=/SCP-ZH-881 | next-title=距離9.90公里：【禁止觀測】
+| next-url=/SCP-ZH-881 | next-title=距離9.90公里：人去城留
 | hub-url=/zhongyuan-2025 | hub-title=「繁星輿圖」
 ]]
 @@ @@
