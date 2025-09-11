@@ -18,7 +18,10 @@
   margin: 0;
 }
 [[/module]]
-[[include component:scp-meta-title-hiding css-style=classic]]
 [[module ListPages parent="." category="fragment" limit="1" order="created_at" offset="@URL|0"]]
+[[div class="meta-title"]]
+%%title%%
+[[/div]]
+
 %%content%%
 [[/module]]

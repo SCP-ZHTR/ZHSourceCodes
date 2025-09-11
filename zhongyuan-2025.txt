@@ -163,7 +163,7 @@ display:none;
 [http://scp-zh-tr.wikidot.com/scp-zh-616 距離8.27公里：叢枝體]
 [[/div]]
       [[div class="zone"]]
-[http://scp-zh-tr.wikidot.com/scp-zh-702 距離60.30公里：【禁止觀測】]
+[http://scp-zh-tr.wikidot.com/scp-zh-702 距離60.30公里：瀆神血肉]
 [[/div]]
 [[/div]]
       [[div class="image-box"]]
@@ -253,7 +253,7 @@ display:none;
 [[div style="border-left: 0.2rem solid; padding-left: 8px; margin-top: 12px; margin-bottom: 12px; color: #white; opacity: 0.8;"]]
 「是否設定『　　』為新增中途點？」
 [[/div]]
-* 距離60.30公里：[[[scp-zh-702 |【禁止觀測】]]]##grey|（9/12）##
+* 距離60.30公里：[[[scp-zh-702 |瀆神血肉]]]##grey|（9/12）##
 [[div style="border-left: 0.2rem solid; padding-left: 8px; margin-top: 12px; margin-bottom: 12px; color: #white; opacity: 0.8;"]]
 人員在失去與指揮小組的聯繫的情況下一律將其視為**已經回歸並生長**。
 [[/div]]
