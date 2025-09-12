@@ -1,4 +1,4 @@
-[[include :scp-zh-tr:theme:black-highlighter-theme]]
+[[include component:scp-meta-title-hiding css-style=classic]]
 [[include info:start]]
 篇名 :SCP-ZH-918 - 距離73.72公里：九彎十八拐
 作者 : [[*user Dr V Valentine]]
@@ -112,7 +112,7 @@
 
 **將軍：**我不知道啊......都沒關西了。退休以後，我說不定還會想來這裡賣蛋。年輕時總想成為大人物、立下戰功。只是這些年在山上，被奪走的太多，也把我磨平了。現在隧道開通，道路拓寬，護欄也全都仔細的安裝上儀器了。我們努力把異常攔截在車道之外。
 
-我得跟你說，他們沒走。
+但我得跟你說，他們沒走。
 
 仍在護欄外，喚我的名字
 

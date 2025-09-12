@@ -178,7 +178,7 @@ display:none;
       [[/div]]
       [[div class="zone-list"]]
       [[div class="zone"]] 
-[http://scp-zh-tr.wikidot.com/scp-zh-918 距離73.72公里：【禁止觀測】]
+[http://scp-zh-tr.wikidot.com/scp-zh-918 距離73.72公里：九彎十八拐]
 [[/div]]
       [[div class="zone"]] 
 [http://scp-zh-tr.wikidot.com/scp-zh-414 距離136.74公里：【禁止觀測】]
@@ -257,7 +257,7 @@ display:none;
 [[div style="border-left: 0.2rem solid; padding-left: 8px; margin-top: 12px; margin-bottom: 12px; color: #white; opacity: 0.8;"]]
 人員在失去與指揮小組的聯繫的情況下一律將其視為**已經回歸並生長**。
 [[/div]]
-* 距離73.72公里：[[[scp-zh-918 |【禁止觀測】]]]##grey|（9/13）##
+* 距離73.72公里：[[[scp-zh-918 |九彎十八拐]]]##grey|（9/13）##
 [[div style="border-left: 0.2rem solid; padding-left: 8px; margin-top: 12px; margin-bottom: 12px; color: #white; opacity: 0.8;"]]
 隨著個體暴露於 SCP-ZH-918 的時間延長，聲響將逐漸增強，並對其聽覺與認知造成顯著干擾，最終往往導致嚴重交通事故的發生。
 [[/div]]
