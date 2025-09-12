@@ -1,0 +1,19 @@
+[[include component:image-block name=http://scp-pl.wikidot.com/local--files/scp-pl-253/kurczak.jpg|caption=於SCP-PL-253購入的雞肉。]]
+
+**項目編號：** SCP-PL-253
+
+**項目等級：** Euclid/Eparch
+
+**特殊收容措施：** SCP-PL-253將由[[[secure-facility-dossier-site-120|Site-120]]]人員負責監管，並根據Site-120管理層與PoI-PL-253之間的協議，每週檢查一次項目。嚴禁向平民透露PoI-PL-253的異常性質。
+
+**描述：** SCP-PL-253是一家位於波蘭西里西亞琴斯托霍瓦的餐廳「[[span class="ruby"]]琴斯托霍瓦炸雞店[[span class="rt"]]Częstochowa Fried Chicken[[/span]][[/span]]」，供應炸雞及相關產品。SCP-PL-253本身並無異常，所有供應產品均完全且得以安全食用。SCP-PL-253購得食物檢測結果並未發現任何異常物質。
+
+SCP-PL-253的店主（PoI-PL-253）是一名正常的妖精（//Homo sapiens sidhe//）。PoI-PL-253對基金會職員相當友善，並同意隱瞞自己真實身分以繼續做生意。
+
+**附錄：** 2021年10月23日，SCP-PL-253遭到[[span class="ruby"]]肯德基[[span class="rt"]]Kentucky Fried Chicken[[/span]][[/span]]起訴，理由是其店名與肯德基注冊商標相似。正在監控相關的事態發展。
+
+-----
+[[=]]
+[/scp-pl-253/offset/1 «你正在閱讀的文件剛剛更新。是否要開啟最新版本？»]
+[[/=]]
+-----

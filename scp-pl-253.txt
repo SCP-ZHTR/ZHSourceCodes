@@ -1,0 +1,43 @@
+[[include component:scp-meta-title-hiding css-style=classic]]
+[[include :scp-wiki:info:start]]
+原文：[http://scp-pl.wikidot.com/scp-pl-253 SCP-PL-253] [波蘭文]
+第一譯文：[https://scp-wiki.wikidot.com/scp-pl-253 SCP-PL-253] ##green|**肯德基幹三小**##
+作者：[[*user BlazingPie]]
+第一譯者：[[*user Jasiu06]]
+第二譯者：[[*user Frederica Bernkastel]]
+[[include :scp-wiki:info:end]]
+
+[[include :scp-zh-tr:theme:blankstyle]]
+[[include :scp-zh-tr:component:fade-in speed=1]]
+[[module css]]
+:root:lang(zh){
+  --header-title: "R\0026 C SITE-120";
+  --header-subtitle: "以火攻火";
+}
+
+div#extra-div-1 {
+    background-image: url(https://scp-wiki.wdfiles.com/local--files/secure-facility-dossier-site-120/120.png);
+    filter: opacity(20%);
+}
+#top-bar .open-menu {
+    display : block !important;
+}
+[[/module]]
+
+[[module ListPages parent="." category="fragment" limit="1" order="created_at" offset="@URL|0"]]
+[[div class="meta-title"]]
+%%title%%
+[[/div]]
+
+%%content%%
+[[/module]]
+
+[!-- http://scp-zh-tr.wikidot.com/fragment:scp-pl-253-1 --]
+[!-- http://scp-zh-tr.wikidot.com/fragment:scp-pl-253-2 --]
+
+
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[SCP-PL-252]]] | SCP-PL-253 | [[[SCP-PL-254]]] >>
+[[/=]]
+[[/div]]
