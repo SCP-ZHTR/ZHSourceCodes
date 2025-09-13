@@ -1,0 +1,133 @@
+[[include info:start]]
+原文：[https://scp-wiki.wikidot.com/scp-3434-j SCP-數不完-J] 「『「『「科學」』」』」
+作者：[[*user AWhiteBoy]]
+譯者：[[*user Frederica Bernkastel]]
+[[include info:end]]
+
+[[module css]]
+
+@media (max-width: 1000px) {
+  :root .scp-image-block {
+    width: min(300px, 90%) !important;
+    margin: auto;
+    float: none;
+  }
+}
+[[/module]]
+
+
+[[include :scp-zh-tr:component:anomaly-class-bar-source
+
+|item-number= 3434-J
+
+|clearance= 0
+
+|container-class= FAKE
+
+|secondary-class= none
+
+|secondary-icon= https://urlhere.com
+
+|disruption-class= dark
+
+|risk-class= critical
+
+]]
+@@ @@
+[[include component:image-block | name=https://www.publicdomainpictures.net/pictures/90000/velka/clear-blue-sky-landscape.jpg | caption=「風」 | width=WIDTH-GOES-HERE]]
+**特殊收容措施：** 沒有，因為每個人都很高興地以為這很正常，但事實根本**不是這樣**。
+
+**描述：** SCP-3434-J是一堆毫無意義而莫名其妙東西的總稱。
+SCP-3434-J-1通常被稱為「風」。「風」是一種讓空氣移動物體的力量。
+SCP-3434-J-2通常被稱為「磁力」。「磁力」會讓金屬有時能吸引其他金屬。
+SCP-3434-J-3通常被稱為「電」。「電」用來給電池充電。
+
+
+[[div class="addendum" style="border-style: solid; border-width: 1px; padding-bottom: 0.7rem; border-radius: 4px; padding: 0 1.5rem; border-color: #000000"]]
+[[=]]
+**SCP-3434-1測試紀錄**
+[[/=]]
+[[include component:image-block | name=https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Kite_at_Morecambe_Kite_Festival.jpg/960px-Kite_at_Morecambe_Kite_Festival.jpg?20110728080157 | caption=妄想。 | width=175px ]]
+[[div class="addendum" style="text-align: left;"]]
+
+以下列出我用風做的一切毫無意義之事。
+
+**測試：** 在不觸碰的情況下，移動一片葉子。
+**結果：** 葉子突然被推下桌子，還慢慢掉到了地上。這是怎麼做到的？
+
+**測試：** 賦予物體鳥類的神聖力量：飛行。
+**結果：** 風箏從地面飛向空中。它甚至沒有翅膀耶。
+
+**測試：** 強迫風動起來，給手機充電（這就對了）。
+**結果：** 做了像海上那些大風扇縮小版的東西。風卻不幫我推扇葉還不給我能量（太懶了吧）。
+[[/div]]
+[[/div]]
+@@ @@
+[[div class="addendum" style="border-style: solid; border-width: 1px; padding-bottom: 0.7rem; border-radius: 4px; padding: 0 1.5rem; border-color: #000000"]]
+[[=]]
+**SCP-3434-2測試紀錄**
+[[/=]]
+[[div class="addendum" style="text-align: left;"]]
+
+測試SCP-3434-J-1後，我想弄清楚SCP-3434-J-2又能幹嘛。
+
+**測試：** 把一塊是馬蹄形狀的磁鐵（理想上？）放在金屬旁邊。
+**結果：** 磁鐵把金屬拉到自己身上不放。
+
+**測試：** 把磁鐵放在另一塊金屬旁邊。
+**結果：** 這次就沒吸了。看來我猜的沒錯。
+[[include component:image-block | name=https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Powder_steel_on_magnet.jpg/960px-Powder_steel_on_magnet.jpg | caption=？？？？？？？？？？ | width=140px | align=left]]
+**測試：** 讓兩塊磁鐵戰鬥一下。
+**結果：** 它們剛要靠近就都退開了。膽小鬼。
+
+**測試：** 拿比較大的磁鐵去拉汽車。
+**結果：** 我的磁鐵卡在車上拔都拔不下來。
+[[/div]]
+[[/div]]
+@@ @@
+[[div class="addendum" style="border-style: solid; border-width: 1px; padding-bottom: 0.7rem; border-radius: 4px; padding: 0 1.5rem; border-color: #000000"]]
+[[=]]
+**SCP-3434-3測試紀錄**
+[[/=]]
+[[div class="addendum" style="text-align: left;"]]
+[[include component:image-block | name=https://live.staticflickr.com/7309/27661834650_79435a7323_b.jpg | caption=閃電真的挺酷的。 | width=175px]]
+
+說實話，我覺得電超有問題的，但我必須搞科學。
+
+**測試：** 給我的手機插電。
+**結果：** 我的手機啥也沒幹，3小時就充飽電了。電量怎麼知道不能超過100%呢？
+
+**測試：** 給加熱器插電看看會怎樣。
+**結果：** 加熱器變熱了。電還挺花心的，顯然跟我一樣多才多藝。
+
+**測試：** 給叉子插電我要給自己來根電三叉戟。
+**結果：**
+
+
+[[/div]]
+[[/div]]
+[[footnoteblock]]
+
+[[include :scp-zh-tr:component:license-box
+author=AWhiteBoy
+]]
+> **Name:** Clear Blue Sky - Landscape
+> **Author:** Kelly Martin
+> **License:** CC0 Public Domain
+> **Source Link:** https://www.publicdomainpictures.net/en/view-image.php?image=85406&picture=clear-blue-sky-landscape
+
+> **Name:** Kite at Morecambe Kite Festival.jpg
+> **Author:** Worm That Turned
+> **License:** CC BY-SA 3.0
+> **Source Link:** https://commons.wikimedia.org/wiki/File:Kite_at_Morecambe_Kite_Festival.jpg
+
+> **Name:** Powder steel on magnet.jpg
+> **Author:** Aney
+> **License:** CC BY-SA 3.0
+> **Source Link:** https://commons.wikimedia.org/wiki/File:Powder_steel_on_magnet.jpg
+
+> **Name:** con00310
+> **Author:** Kevin Skow
+> **License:** CC BY-SA 2.0
+> **Source Link:** https://flic.kr/p/J9o8HC
+[[include :scp-zh-tr:component:license-box-end]]
