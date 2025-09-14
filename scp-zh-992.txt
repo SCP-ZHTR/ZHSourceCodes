@@ -4,10 +4,12 @@
 [[include info:end]]
 
 
-
 **項目編號：**SCP-ZH-992 
 
 **項目等級：**Archon
+
+[[image https://i.meee.com.tw/PNtEaRE.png]]
+|這是由█████博士為SCP-ZH-992畫的黑白畫|
 
 **特殊收容措施：**目前SCP-ZH-992自身特性使此實體無須被收容，一但SCP-ZH-992對現實造成影響，不許有任何人員其他對其多餘的行動，並等待上層的指揮。
 
