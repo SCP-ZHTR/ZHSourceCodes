@@ -184,7 +184,7 @@ display:none;
 [http://scp-zh-tr.wikidot.com/scp-zh-414 距離136.74公里：抬頭可見的死亡]
 [[/div]]
       [[div class="zone"]] 
-[http://scp-zh-tr.wikidot.com/scp-zh-143 距離49.41公里：【禁止觀測】]
+[http://scp-zh-tr.wikidot.com/scp-zh-143 距離49.41公里：星期六，猴子去斗六]
 [[/div]]
       [[div class="zone"]] 
 [http://scp-zh-tr.wikidot.com/scp-zh-841 距離92.21公里：【禁止觀測】]
@@ -266,9 +266,9 @@ display:none;
 SCP-ZH-414最早發現於1995年的台中大火。當天有42名普通民眾於火災發生前曾向人提到諸如「天上有一艘船，船上的人一直叫我們小心火。」此類的敘述，在之後即發生台中大火，近2006年左右，與項目相關的資訊開始慢慢出現於社交媒體上，鑒於台中大火時的紀錄，基金會開始調查SCP-ZH-414。 
 
 [[/div]]
-* 距離49.41公里：[[[scp-zh-143 |【禁止觀測】]]]##grey|（9/15）##
+* 距離49.41公里：[[[scp-zh-143 |星期六，猴子去斗六]]]##grey|（9/15）##
 [[div style="border-left: 0.2rem solid; padding-left: 8px; margin-top: 12px; margin-bottom: 12px; color: #white; opacity: 0.8;"]]
-SCP-ZH-143因2024年6月1日發生於國道三號—**【禁止踏足】**交流道路段異常動物出沒事件的通報引起基金會的注意。
+SCP-ZH-143因2024年6月1日發生於國道三號—斗六交流道路段異常動物出沒事件的通報引起基金會的注意。
 [[/div]]
 * 距離92.21公里：[[[scp-zh-841 |【禁止觀測】]]]##grey|（9/16）##
 [[div style="border-left: 0.2rem solid; padding-left: 8px; margin-top: 12px; margin-bottom: 12px; color: #white; opacity: 0.8;"]]
