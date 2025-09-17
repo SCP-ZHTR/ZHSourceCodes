@@ -816,7 +816,7 @@
 * [[[SCP-6761]]] - [ACCESS DENIED]
 * [[[SCP-6762]]] - [ACCESS DENIED]
 * [[[SCP-6763]]] - [ACCESS DENIED]
-* [[[SCP-6764]]] - [ACCESS DENIED]
+* [[[SCP-6764]]] - 梅狄
 * [[[SCP-6765]]] - 惡魔奧吉爾與瑪利德拉格血之王座
 * [[[SCP-6766]]] - [ACCESS DENIED]
 * [[[SCP-6767]]] - [ACCESS DENIED]

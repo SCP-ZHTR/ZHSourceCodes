@@ -1,0 +1,217 @@
+[[include info:start]]
+原文：[https://scp-wiki.wikidot.com/secure-facility-dossier-reliquary-area-27 Secure Facility Dossier: Reliquary Area-27] 維安設施檔案：遺跡無人區Area-27
+作者：[[*user Deadly Bread]]
+譯者：[[*user Frederica Bernkastel]]
+[[include info:end]]
+
+[[include :scp-zh-tr:theme:ad-abyssum]]
+
+[[div style="center no-repeat ; float: center; border: solid 2px #000000; padding: 1px 15px; margin: 10px 10px 10px 40px; box-shadow: 0 1px 3px rgba(0,0,0,.2);"]]
+
+[[f<image https://scp-wiki.wdfiles.com/local--files/secure-facility-dossier-reliquary-area-27/DoTT.png width="130px"]]
+
+[[=]]
++ SCP基金會維安設施檔案
+
++++ 遺跡無人區Area-27
+
+**官方名稱：** SCP基金會神學研究與緊急神祇壓制設施
+
+**無人區識別碼：** CAONOT-Area-27
+[[/=]]
+
+-----
+[[=]]
+++ 基本資料
+[[/=]]
+-----
+
+[[include :scp-zh-tr:component:image-features-source |hover-enlarge=--]
+|enlarge-amount=6
+|speed=250
+|float=true
+|align=right
+|width=300px
+|url=https://scp-wiki.wdfiles.com/local--files/secure-facility-dossier-reliquary-area-27/church.png
+|add-caption=true
+|caption=遺跡無人區Area-27。懸停以放大。
+]]
+
+**建立於：** 1994年5月24日
+
+**創始主任：** 薇薇安．奧古斯特博士
+
+**地點：** 加拿大安大略渥太華
+
+**掩蓋故事：** 聖母聖殿主教座堂
+
+**設施功能：** 研究、發展、專業收容、特遣隊部署、緊急應對人員派駐、行政
+
+**面積：** 總土地面積3.81平方公里
+
+**辦公室與各翼區：**
+
+  **主層：** 前臺建築（聖母聖殿主教座堂）
+
+  **主辦公區（地下1層）：** 行政區域、機動特遣隊駐地
+
+    **A翼區（地下1層）：** 職員宿舍、醫療中心、神殿
+
+    **B翼區（地下1層）：** 研究翼區、[[[SCP-5502|低維安造物儲存區]]]
+
+    **C翼區（地下2層）：** D級宿舍
+
+    **D翼區（地下2層）：** 異常武器儲存區、[[[SCP-5993|蜂房]]]
+
+    **E翼區（地下2層）：**中維安控制區
+
+    **F翼區（地下2層）：** 全知隱蔽掩體、安全生活區
+
+    **G翼區（地下3層）：** 永續農業中心
+
+    **H翼區（地下3層）：** [[[SCP-4967|聖水筒倉]]]、高價值收容翼區
+
+    **I翼區（地下4層）：** [需要4級權限等級]
+
+----
+[[=]]
+++ 職員資訊
+[[/=]]
+----
+
+[[include component:image-block name=https://scp-wiki.wdfiles.com/local--files/secure-facility-dossier-reliquary-area-27/director.png|caption=莉莉絲．艾西莫夫主任]]
+
+**設施主任：** 莉莉絲．艾西莫夫博士
+
+**設施副主任：** 奧利佛．加爾文博士
+
+**人事助理主任：** 達內爾．福廷
+
+**設施助理主任：** 佩內​​洛普．洛克
+
+**研究助理主任：** 馬庫斯．布沙爾博士
+
+**收容助理主任：** 藍道．班諾克博士
+
+**維安助理主任：** 康蘇埃洛．格雷羅特工
+
+**特遣隊助理主任：** 克勞蒂亞．菲奧雷特工
+
+**戰術神學部主任：** 約塞連．萊納
+
+**駐站神學顧問：** --路斯．普拉斯科-- --馬庫斯．安布羅斯--
+
+**駐站心理師：** 愛麗絲．潘朵拉醫師
+
+**駐站人員：**
+
+    **各部門管理層：** 11
+
+    **博士職員：** 47
+
+    **研究員職員：** 115
+
+    **行政職員：** 36
+
+    **維護清潔職員：** 29
+
+    **維安職員：** 71
+
+    **D級：** 23
+
+    **其他人員：** 57
+
+-----
+[[=]]
+++ 補充資訊
+[[/=]]
+----
+
+遺跡無人區Area-27最初於1987年自加拿大政府購得，原本僅用於掩蓋聖母聖殿主教座堂相關輕微異常現象。座堂原訂編號UL-00915，基金會發現當地經歷過數次小型重構事件，但根據基金會特外檔案，該座堂從未受過相關影響。在戰術神學部的提議下，遺跡無人區Area-27建成了地下部分，以利在大規模K級情景時作為基金會人員的庇護所。
+
+遺跡無人區Area-27建成後，主要用於基金會的臨時住所，並由60-100名骨幹人員維護。直到發現[[[SCP-4531| SCP-4531-2]]]並加以利用後，該地點才承擔起收容多個宗教異常的任務。截至本文件撰寫為止，遺跡無人區Area-27可長期容納多達2000名人員。該無人區僅有極小的收容室，大多數異常會轉移至站外收容。所有無人區收容異常均根據其在重大神性危機中擁有的優勢選定。
+
+遺跡無人區Area-27同時也是戰術神學部總部。該部門由穆罕默德．塔基領導，負責協助捕獲、收容、消除潛在神學異常。該部門成員經常被派往各部門擔任聯絡員。此類部署包括：
+* [[[SCP-4795]]]的最終收容。
+* 持續監測和收容[[[SCP-5998]]]。
+* 將神學收容方法重新引入基金會標準行動中。
+* 對[[[SCP-3310]]]進行調查與重歸定作業。
+* 為特遣隊行動提供各類異常裝備與武器。
+
+戰術神學部活動的完整檔案列表請見[[[http://scp-zh-tr.wikidot.com/system:page-tags/tag/%E6%88%B0%E8%A1%93%E7%A5%9E%E5%AD%B8%E9%83%A8#pages|文件-IV]]]。
+
+[[collapsible show="► [輸入四級安全密鑰]" hide="▼ [允許存取]"]]
+
+設施底層[[footnote]]無人區職員暱稱其為「克麗奧佩脫拉之墓」。[[/footnote]]設有緊急安全裝置，能對無人區內任何神學實體進行徹底淨化。故障保險裝置僅能從異常武器庫內安全艙口進入，僅有4級以上人員密碼可以啟動裝置。
+
+一旦啟動故障保險裝置，無人區蜂房安裝的遠端阿基瓦炸藥就會爆炸，將蜂群[[footnote]]由SCP-5993蜂群與非異常蜜蜂構成。[[/footnote]]釋放到整個無人區，同時透過突然的阿基瓦暴露刺激蜂群。警報費洛蒙將透過隱藏通風系統擴散至整個無人區，進一步刺激蟲群。此外，預先準備的SCP-5993-1將泵入緊急噴水系統，消除站內任何潛在神性威脅或現象。
+
+啟動後，最近且仍在運作中的基金會設施將收到故障保險裝置啟動通知。駐地特遣隊 Beta-14「躍過篝火」將接受動員，協助營救倖存人員、回收異常項目、接手後續養蜂工作。若養蜂作業失敗，應恢復SCP-5993的宿主，並[[[http://scp-zh-tr.wikidot.com/scp-5693|將無人區視為已遺失]]]。
+
+[[footnoteblock]]
+[[/collapsible]]
+-----
+[[=]]
+++ 重大事件
+[[/=]]
+----
+
+> 微型定向CK級重構情景
+> 1997年10月
+> 
+> 包括遺跡無人區Area-27前臺建築在內的多個高識別度宗教場所，反覆受到針對性因果逆行異常影響，致使其結構──尤其是藝術飾品與建築風格──出現劇烈變化。在目標地點的歷史記載中，18至19世紀間的人類紀錄完全消失。相關記錄變成實體「地下者」的神學發展，據稱這類實體居住在大型互聯洞穴系統之中。
+> 
+> 事件狀態：已解決。已對公開記錄進行相應修改，以符合公眾對受影響地點的共識。歷史記錄未發現任何「地下者」的進一步描述，也未發現任何涉及洞穴系統存在的證據。
+
+> 敵對關注組織企圖侵略
+> 2002年4月
+> 
+> GoI-0051「[[[saphir-centre|藍寶石]]]」成員意圖突襲遺跡無人區Area-27，以獲取一項未指明的異常物品。在此之前，還發現該組織運送了數件未知造物，但在突襲期間並未發現任何此類物品。突襲期間，該無人區的外部遭到嚴重破壞，但地下區域在基金會標準封鎖程序下安然無恙。
+> 
+> 事件狀態：已解決。藍寶石特工被制服並隨後接受審訊。這些特工似乎對遺跡無人區Area-27本身或該地點為基金會設施一無所知，並誤以為座堂本身藏有某種強大的宗教神器。入侵特工接受記憶消除，植入虛假記憶後釋放以減少懷疑。
+
+> IV級宗教無效化事件
+> 2014年2月
+> 
+> 北半球神學收容措施效力驟降長達14小時，事件起因為臨時哨站Outpost-5998因風暴部分坍塌，進而對SCP-5998造成了干擾。由於屍體周圍持續顯現出至高天實體，修復嘗試被暫時推遲了。
+> 
+> 事件狀態：已解決。此次效力下降導致了45起收容失效，超過168人傷亡。臨時哨站Outpost-5998現已重建，並進一步加固以抵禦惡劣天氣。
+[[=]]
+[[collapsible show="1分草稿尚未完成。查看草稿？" hide="瀏覽草稿"]]
+[[<]]
+> [[[competitive-eschatology-hub|廣布HK級「神靈征服」事件]]]
+> 2020年11月
+> 
+> 數量不明的神性實體（目前估計超過250名）──包括已接受基金會收容或因其他原因喪失行動能力者──同時試圖以各自的方式消滅人類。這些實體自此開始與彼此及全人類交戰，造成了全球範圍的大規模傷亡。
+> 
+> 事件狀態：進行中。Omega級緊急避難程序已啟用，等待與聯盟組織進一步聯繫。
+[[/<]]
+[[/collapsible]]
+[[/=]]
+@@@@
+[[/div]]
+-----
+[[=]]
+**<< [[[KTE-5634-Ex-Machina-Bosch]]] | 維安設施檔案：遺跡無人區Area-27 | [[[great-cult-escape| The Great Cult Escape]]] >>**
+[[/=]]
+
+[[include :scp-zh-tr:component:license-box
+|author=Deadly Bread]]
+=====
+> **Filename:** church.png
+> **Name:** Cathedral Notre Dame Ottawa Sunset.jpg
+> **Author:** Jannahelena
+> **License:** CC BY-SA 3.0
+> **Source Link:** [[[https://commons.wikimedia.org/wiki/File:Cathedral_Notre_Dame_Ottawa_Sunset.jpg|Wikimedia Commons]]]
+
+> **Filename:** director.png
+> **Name:** Barbara McClintock (1902-1992) shown in her laboratory in 1947.jpg
+> **Author:** [[[https://commons.wikimedia.org/wiki/User:Adam_Cuerden|Adam Cuerden]]]
+> **License:** Public Domain
+> **Source Link:** [[[https://commons.wikimedia.org/wiki/File:Barbara_McClintock_(1902-1992)_shown_in_her_laboratory_in_1947.jpg|Wikimedia Commons]]]
+
+> **Filename:** DoTT.png
+> **Author:** [[*user Aethris]]
+> **License:** CC BY-SA 3.0
+=====
+[[include :scp-zh-tr:component:license-box-end]]
