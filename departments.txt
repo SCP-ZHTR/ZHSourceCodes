@@ -72,6 +72,8 @@ color: #dd7711 !important;
 > @@ @@ [#department-of-other 別的部]
 > @@ @@ [#pataphysics-dept 超形上學部]
 > @@ @@ [#procurement-liquidation-dept 採購與清算部]
+> @@ @@ [#purgatorial-spaces 煉獄空間部]
+> @@ @@ [#spicy-crust-pizzeria 香脆披薩店]
 > @@ @@ [#surrealistics-dept 超現實部]
 > @@ @@ [#tactical-theology 戰術神學部]
 > @@ @@ [#telecom-office 電信監控辦公室]
@@ -334,6 +336,35 @@ color: #dd7711 !important;
 該部門在全球範圍運作，其總部位於佛羅里達邁阿密的[[[secure-facility-dossier-site-106| Site-106]]]。
 
 欲察看頁面標記為//採購與清算部//的檔案請[/system:page-tags/tag/採購與清算部 點擊此處]。
+
+[[div style="text-align:right"]]
+,,[#toc 回到頁首],,
+[[/div]]
+[[/div]]
+
+[[# purgatorial-spaces]]
+[[div class="content-panel standalone series" style="background-color: #FFFFFF;"]]
++ [[[department-of-purgatorial-spaces-hub| 煉獄空間部]]]
+[[f>image https://scp-sandbox-3.wdfiles.com/local--files/deptofpurghub/purgatory width="100px"]]
+
+**概述：** 煉獄空間部專門從事對人類心靈的誘捕、探索、分析，並利用嵌入個體意識中的「個人煉獄」實行。這些煉獄形式多樣，但通常經過特殊設計，其唯一目的是引發受試者的情緒或生理反應。
+
+「煉獄空間部不受倫理道德準則的約束。這裡沒有職員也沒有主管。任何持不同意見者都將明白，活著真的比死了要更糟糕。」
+[[div style="text-align:right"]]
+,,[#toc 回到頁首],,
+[[/div]]
+[[/div]]
+
+[[# spicy-crust-pizzeria]]
+[[div class="content-panel standalone series" style="background-color: #FFFFFF;"]]
++ ##black|香脆披薩店##
+[[f>image https://scp-wiki.wdfiles.com/local--files/departments/spicy-crust-pizzeria.png width="100px"]]
+
+**概述：** 香脆披薩店是基金會[[[a-semi-comprehensive-list-of-foundation-fronts|眾多的前臺公司]]]之一，為基金會的營運提供[[[boron-blisters|資金]]]，並支持其[[[covert-cursing|秘密行動]]]與[[[scp-8225|通訊]]]。儘管香脆披薩店是[[[scp-6296|在世界各地]]]都有分店的知名品牌，但由於[[[pickman-blank-proposal|卷首]]]模因隱藏機制，即使是那些知曉基金會的人，也無法察覺其與基金會的聯繫。雖然有部分職員是[[[slice-of-life|退休的基金會雇員]]]，但大多數披薩店員工並不曉得自己是為一間不[[[spicy-crust-platoon|正常的餐廳]]]工作。
+
+基金會員工買香脆披薩店商品均可享九折優惠。但須要遵守相關條款及細則。
+
+欲察看頁面標記為//香脆披薩店//的檔案請[/system:page-tags/tag/香脆披薩店 點擊此處]。
 
 [[div style="text-align:right"]]
 ,,[#toc 回到頁首],,

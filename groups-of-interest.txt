@@ -157,7 +157,7 @@
 [[div class="content-panel standalone series" style="background-color: #FFFFFF;"]]
 + [[[*black-queen-hub|黑皇后]]]
 
-[[f>image http://scp-wiki.wdfiles.com/local--files/groups-of-interest/bql.png]]
+[[f>image https://scp-wiki.wdfiles.com/local--files/groups-of-interest/BlackQueenCrown.png]]
 
 **簡介：**當前幾乎沒有關於這位被稱為「黑皇后」的[[span class="ruby"]]特殊關注人員[[span class="rt"]]Person Of Interest[[/span]][[/span]]的確切情報。對方聲稱自己的名字為[[[*http://www.scp-wiki.net/going-out-of-book|Alison Chao]]]，是Dr. ██████ Gears和█████ ███ Chao在Dr. Gears進入基金會前為自己的女兒取的名字。
 
