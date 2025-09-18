@@ -36,11 +36,13 @@
 > [#fifthist 第五教會]
 > [#gamers-against-weed 反大麻玩家]
 > [#global-occult-coalition 全球超自然聯盟（GOC）]
+> [#goldbaker-reinz 高諾保險有限公司]
 > [#greazeburger 格雷茨堡公司]
 > [#gru-division-p 格魯烏-p部門]
 > [#herman-fuller 赫曼·富勒的不安馬戲團]
 > [#horizon-initiative 地平線倡議]
 > [#ijamea 大日本帝國異常事例調查局]
+> [#just-girly-things 僅僅少女事]
 > [#manna-charitable-foundation 瑪納慈善基金會]
 > [#marshall-carter-and-dark Marshall, Carter, and Dark 有限公司]
 > [#madao 麥地奇超自然藝術學院]
@@ -48,6 +50,7 @@
 > [#reclamation 伊斯蘭物品回收辦公室 (ORIA)]
 > [#oneiroi 夢神集團]
 > [#parawatch 異視維基]
+> [#pseudogenesis 偽創製作]
 > [#prometheus 普羅米修斯實驗室]
 > [#sarkic 欲肉教]
 > [#serpents-hand 蛇之手]
@@ -396,10 +399,31 @@ GOC是一股政治性占比很高的勢力，自認為擔任著異常世界的�
 
 對於來自GOC的特工應抱持懷疑態度。
 
-查看有關//全球超自然聯盟// 的相關頁面，[/system:page-tags/tag/全球超自然聯盟 請點擊此處]。
+查看有關//全球超自然聯盟//的相關頁面，[/system:page-tags/tag/全球超自然聯盟 請點擊此處]。
 
 [[div style="text-align:right"]]
 ,,[#toc 回到最頂層],,
+[[/div]]
+[[/div]]
+
+[[# goldbaker-reinz]]
+[[div class="content-panel standalone series" style="background-color: #FFFFFF;"]]
++ [[[*goldbaker-reinz-hub|高諾保險有限公司]]]
+
+[[f>image https://scp-wiki.wdfiles.com/local--files/groups-of-interest/Goldbaker-Reinz.png]]
+
+**簡介：** 高諾保險有限公司是異常世界頭號保險提供者。該公司為個人與機構提供保險，並提供再保險、數據銷售、風險分析、法證與執法服務，並以始終誠信履行合約條款聞名整個異常世界。由於其前身在第七次超自然戰爭後提供的大量救援服務贏得了信任，該公司在全球超自然聯盟108議會中佔有一席之地，並持續為GOC、基金會等組織提供服務至今。
+
+現代的高諾保險是在1981年，神祕的金貝克領導的金貝克公司以及維爾納．萊茨領導的萊茨集團，[[[Taking the Reinz|在萊茨集團其餘創始成員神秘失蹤後]]]合併而成的。金貝克的起源與完整歷史已無從考證，但早在人類文明初期，擁有類似頭銜或名字的個人就已經開始提供類似服務，甚至可能還要更早。
+
+[[[SCP-6987|基金會與高諾保險簽訂了多分重要合約]]]。保單種類繁多，從普通保單（例如標準人員健康保險與人壽保險）到財務保單（例如收容失效期間以固定價格供應鈹青銅等材料）乃至罕見且獨特的保單（例如在GH級死亡溫室情景發生時採購供氧藻類）。這些保單大多與基金會自身的緊急計劃重合，但對於兩個如此厭惡風險的組織來說，這種冗贅反而能讓人安心。
+
+這些合約是出於善意簽訂的，但基金會也將其視為確保對高諾保險內部運作準確與最新了解的手段。基金會深知高諾保險在異常世界中的權力地位，因此合約談判目標是最大限度地減少金錢與資訊投入，同時最大限度地擴增保險範圍並攫取資訊。儘管這場貓捉老鼠的遊戲維持甚久，基金會與高諾保險仍然認為彼此值得信賴──至少足以開展相關業務了。
+
+查看有關//高諾保險//的相關頁面，[/system:page-tags/tag/高諾保險 請點擊此處]。
+
+[[div style="text-align:right"]]
+,,[#toc Back to Top],,
 [[/div]]
 [[/div]]
 
@@ -499,6 +523,25 @@ GOC是一股政治性占比很高的勢力，自認為擔任著異常世界的�
 不過，異常事例調查局內部帝國忠誠者與日本的民族主義者們，在戰後的年代依然把這個機構以秘密結社的形式保留了下來，而其主要焦點放在了監察共產主義於日本與東南亞的擴散。時至今天，此組織主要維護日本多樣但漸趨不穩的異常生態，並藉由與某些顯赫的政治家、商人與文化界翹楚的聯繫，支持各種民族主義的政治議題。此組織期望將部份政治力量回歸天皇家族，讓日本重拾往日威風，並以此為前提，主動尋找各類異常並將其據為己有。基金會只被其視為國外的競爭者，而當接觸大日本帝國異常事例調查局相關人士時，探員需保持謹慎。
 
 查看有關//大日本帝國異常事例調查局// 的相關頁面， [/system:page-tags/tag/ijamea 請點擊此處]。
+
+[[div style="text-align:right"]]
+,,[#toc 回到最頂層],,
+[[/div]]
+[[/div]]
+
+[[# just-girly-things]]
+[[div class="content-panel standalone series" style="background-color: #FFFFFF;"]]
++ [[[*just-girly-things-hub| 僅僅少女事]]]
+
+[[f>image https://scp-wiki.wdfiles.com/local--files/groups-of-interest/just-girly-things.png width="60px"]]
+
+**簡介：** 僅僅少女事是異常網路部落格，致力於鼓勵女孩投入傳統女性美學與活動。該網站最初於2006年以雜誌形式發布，並於2010年上線，任何Y染色體攜帶者都無法進入該網站。
+
+僅僅少女事網站本身，乃至其他GOI-4319相關產品均表現出模因效應，迫使具有XX染色體受害者加入該組織，並遵守其領導者對女性傳統性別角色的觀念，即使這些觀念與受害者先前的政治信念或性別認同直接衝突。僅僅少女事成員表現傾向於操縱周圍之人，並盡其所能傳播該組織的理念。由於其高度傳染力，GOI-4319被認為極度危險。
+
+GOI-4319的創始人是POI-4319，一位極具魅力的現實扭曲者「KeeLee」。POI-4319展現出強大的能力，能夠透過結合社會操縱與異常手段，迫使他人接受其思維模式。
+
+查看有關//僅僅少女事//，[/system:page-tags/tag/僅僅少女事 請點擊此處]。
 
 [[div style="text-align:right"]]
 ,,[#toc 回到最頂層],,
@@ -629,7 +672,27 @@ MC&D有限公司曾透過金錢和社會壓力造成了多次SCP項目突破收�
 
 儘管投入於超自然現象，但異視維基對異常現象的性質、面紗以及基金會的存在並不了解。加上公開性質不明，使他們避免了對於面紗的潛在危害。該團體目前仍在運作，作為誤導其它異常調查的手段。
 
-查看有關//異視維基// 的相關頁面， [/system:page-tags/tag/異視維基 請點擊此處]。
+查看有關//異視維基//的相關頁面， [/system:page-tags/tag/異視維基 請點擊此處]。
+
+[[div style="text-align:right"]]
+,,[#toc 回到最頂層],,
+[[/div]]
+[[/div]]
+
+[[# pseudogenesis]]
+[[div class="content-panel standalone series" style="background-color: #FFFFFF;"]]
++ [[[*Pseudogenesis Productions Hub|偽創製作]]]
+
+[[f>image https://scp-wiki.wdfiles.com/local--files/groups-of-interest/Pseudogenesis-Productions.png]]
+
+**簡介：** 偽創製作是一家小型異常劇團，專注於運用模因與本體論異常，創作沉浸式創新戲劇作品。偽創製作的核心團隊共有四人，他們與當地異常藝術家與表演者合作，打造獨一無二的體驗，讓人人都有機會從全新的視角看世界。
+
+儘管該組織創造的異常與表演相對溫和，但基金會還是竭盡所能去阻止他們──他們拒絕尊重面紗，這導致了許多衝突。在這種情況下，基金會唯一的選擇就是讓觀眾相信「//這些都是表演的一部分罷了//」。
+
+門票很快就會售完，所以不要再等了──今天就來看演出吧！
+,,##red|//RAISA標記：檢測到認知危害影響。//##,,
+
+查看有關//偽創製作//的相關頁面，[/system:page-tags/tag/偽創製作 請點擊此處]。
 
 [[div style="text-align:right"]]
 ,,[#toc 回到最頂層],,
