@@ -52,7 +52,7 @@ vertical-align: top; position: relative; top: -0.5em;
 [[collapsible show="▶ 報告-183-JP-87 " hide="▼ 已認可閱覽。"]]
 
 __**報告-183-JP-87：金子家**__
-[[f>image https://i.imgur.com/Sq93UQ4.png]]
+[[f>image https://i.imgur.com/vVYzGNO.png]]
 
 [[/collapsible]]
 
@@ -80,5 +80,5 @@ __**報告-183-JP-87：金子家**__
 > **圖源連結：** https://scp-jp-sandbox2.wdfiles.com/local--files/indonootoko/%E5%AE%B6%E8%A8%88%E3%81%9A.png
 > **圖像內文翻譯：** Edward_Knave
 > **圖像譯本名稱：** SCP-JP-187-Case87.png
-> **譯本圖源連結：** https://i.imgur.com/Sq93UQ4.png
+> **譯本圖源連結：** https://i.imgur.com/vVYzGNO.png
 [[include :scp-zh-tr:component:license-box-end]]
