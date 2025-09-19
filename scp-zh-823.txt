@@ -49,6 +49,9 @@ body {
 
 }
 
+div.notedlogger {
+    overflow: visible !important;
+}
 [[/module]]
 
 [[module css]]
@@ -373,7 +376,7 @@ Cer——……Cerunnos？Cerrunnos？Cer、Cern、Cer、Cernrunos？
 
 由此，誤傳部及學科泛戰術化部門展開實驗，試圖使用暗喻等修辭手法，尋求對SCP-ZH-823本質更為準確的描述，同時避免觸及表觀收容措施。
 @@ @@
-[[div class="blockquote logger enki"]]
+[[div class="blockquote logger enki notedlogger"]]
 = __**實驗結果：SCP-ZH-823暗喻測試**__
 
 **結論：** 經過誤傳部測試，目前推定無害的暗喻式敘述如下。
