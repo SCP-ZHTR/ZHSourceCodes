@@ -895,10 +895,10 @@ MSC-7「獌束」
 [[span class="a-lv1"]]Zététique[[/span]] _
 [[span class="a-lv2"]]Zetetics[[/span]] _
 [[/span]][[/span]][[/span]] ||=  ||= 4/5 ||
-||~ [[span class="ruby"]]Warning[[span class="rt"]]警戒[[/span]][[/span]] ||= [[span class="ruby"]]SCP-ZH-776[[span class="rt"]]暗黑暗黑暗黑之劍[[/span]][[/span]] ||= [[span class="ruby"]]SCP-ZH-424[[span class="rt"]]S.P.I.R.I.T.[[/span]][[/span]] ||=  ||= [[span class="ruby"]]SCP-ZH-996[[span class="rt"]][[span class="a-container"]]見不善如襲隱以避難靜居 _
+||~ [[span class="ruby"]]Warning[[span class="rt"]]警戒[[/span]][[/span]] ||= [[span class="ruby"]]SCP-ZH-776[[span class="rt"]]暗黑暗黑暗黑之劍[[/span]][[/span]] ||= [[span class="ruby"]]SCP-ZH-424[[span class="rt"]]S.P.I.R.I.T.[[/span]][[/span]] ||= [[span class="ruby"]]SCP-ZH-823[[span class="rt"]]距離8.50公里：[禁止應對][[/span]][[/span]] ||= [[span class="ruby"]]SCP-ZH-996[[span class="rt"]][[span class="a-container"]]見不善如襲隱以避難靜居 _
 [[span class="a-lv1"]]見不善如襲隱以避難靜居[[/span]] _
 [[span class="a-lv2"]]仲尼曰以同異難以異易易[[/span]] _
-[[/span]][[/span]][[/span]] ||= [[span class="ruby"]]SCP-ZH-403[[span class="rt"]]禁臠與終止符[[/span]][[/span]] ||= 4/5 ||
+[[/span]][[/span]][[/span]] ||= [[span class="ruby"]]SCP-ZH-403[[span class="rt"]]禁臠與終止符[[/span]][[/span]] ||~ 滿 載 ||
 ||~ [[span class="ruby"]]Danger[[span class="rt"]]危險[[/span]][[/span]] ||= [[span class="ruby"]]SCP-ZH-312[[span class="rt"]][[span class="a-container"]]仁義禮智 _
 [[span class="a-lv1"]]東南西北[[/span]] _
 [[span class="a-lv2"]]仁義禮智[[/span]] _
@@ -907,7 +907,7 @@ MSC-7「獌束」
 [[span class="a-lv1"]]海鷗為何撤退？[[/span]] _
 [[span class="a-lv2"]]公雞為何過路？[[/span]] _
 [[/span]][[/span]][[/span]] ||= [[span class="ruby"]]SCP-ZH-385[[span class="rt"]]子母巡弋飛彈MSC-7「獌束」[[/span]][[/span]] ||=  ||=  ||= 3/5 ||
-||~  ||~ 滿 載 ||~ 滿 載 ||= 3/5 ||= 2/5 ||= 2/5 ||
+||~  ||~ 滿 載 ||~ 滿 載 ||= 4/5 ||= 2/5 ||= 2/5 ||
 [[/div]]
 [[/tab]]
 [[tab 人事擷影]]
@@ -1203,6 +1203,48 @@ SCP-ZH-???「儒」：兼具孔子與阿爾伯特愛因斯坦兩種人格的活�
 [[div class="content-type-description"]]
 
 [[module ListPages order="name" prependLine="[[include component:listpages-table]]" perPage="40" appendLine="[[/table]]" category="-fragment, -prime"  separate="false" tags="+2024中元恐怖 -中心 +scp" rss="Most Recently Created"]]
+[[row]]
+[[cell style="width: 45%; vertical-align: top;"]]
+%%title_linked%%
+[[/cell]]
+[[cell style="width: 20%; vertical-align: top; text-align: justify;"]]
+%%created_at|%m/%d %H:%M|agohover%%
+[[/cell]]
+[[cell style="width: 30%; vertical-align: top; text-align: left;"]]
+[[span style="white-space:nowrap;"]]%%created_by_linked%%[[/span]]
+[[/cell]]
+[[cell style="vertical-align: top; text-align: justify;"]]
+%%rating%%
+[[/cell]]
+[[/row]]
+[[/module]]
+[[/div]]
+[[/tab]]
+[[tab 行動代號「繁星輿圖」紀錄摘要]]
+[[div class="content-type-description-2"]]
+
+[[table style="width: 100%;"]]
+[[row style="font-weight: bold; color: #fff; background-color: #666;"]]
+[[cell style="padding: 0 2px; width: 45%;"]]
+名稱
+[[/cell]]
+[[cell style="padding: 0 2px; width: 20%; text-align: center;"]]
+問世時間
+[[/cell]]
+[[cell style="padding: 0 2px; width: 30%; text-align: center;"]]
+執筆
+[[/cell]]
+[[cell style="padding: 0 2px; text-align: center;"]]
+評分
+[[/cell]]
+[[/row]]
+[[/table]]
+
+[[/div]]
+
+[[div class="content-type-description"]]
+
+[[module ListPages order="created_at" prependLine="[[include component:listpages-table]]" perPage="40" appendLine="[[/table]]" category="-fragment, -prime"  separate="false" tags="+2025中元恐怖 -中心 +scp" rss="Most Recently Created"]]
 [[row]]
 [[cell style="width: 45%; vertical-align: top;"]]
 %%title_linked%%
