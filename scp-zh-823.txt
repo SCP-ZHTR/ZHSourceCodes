@@ -884,7 +884,7 @@ SCP-ZH-823對其適用對象的無效化事件可見將會加速增長，乃至�
 [[include :scp-zh-tr:component:earthworm
 | first=false | last=false | hub=yes
 | previous-url=/SCP-ZH-596 | previous-title=距離550.65公里：太平山鼠王
-| next-url=/SCP-ZH-890 | next-title=距離3305.27公里：［禁止觀測］
+| next-url=/SCP-ZH-890 | next-title=距離3305.27公里：究竟涅槃
 | hub-url=/zhongyuan-2025 | hub-title=「繁星輿圖」
 ]]
 [[include :scp-zh-tr:component:earthworm
