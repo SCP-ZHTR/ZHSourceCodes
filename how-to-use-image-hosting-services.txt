@@ -22,7 +22,7 @@
 + 圖床
 ++ Imgur
 
-= ##red|**2025年更新：台灣地區似乎無法從Imgur上載新圖片，但仍然可以看到舊有的圖片。如欲使用類似的圖牀服務，請參閲下面Postimage的部分**##
+= ##red|**2025年更新：台灣因IP被封鎖無法從Imgur上載新圖片，但仍然可以看到舊有的圖片。如欲使用類似的圖床服務，請參閲[http://scp-zh-tr.wikidot.com/how-to-use-image-hosting-services#toc2 下面Postimage]的部分**##
 @@ @@
 @@ @@
 雖然Imgur無需註冊就能使用，但你的圖片[https://help.imgur.com/hc/en-us/articles/14415587638029-Imgur-Terms-of-Service-Update 或有機會被視為「非活躍」而刪除]，因此還是推薦乖乖辦個帳戶。
@@ -83,7 +83,9 @@ Imgur註冊/登入界面[[footnote]]筆者在英國所以有電話登入的選�
 = [#A ▼如何使用手上的圖床連結▼]
 
 ++ Postimage
-[https://postimages.org/ Postimage]跟Imgur差不多，在未登入的狀態下屬於「丟完就算」的圖牀，所以也是建議去辦個帳號。
+Postimage跟Imgur的功能和版面差不多，支援去背的PNG檔外，在未登入的情況下屬於「丟完就算」的圖床，因此建議辦理帳號。
+
+1. 請到https://postimages.org/ 按右上角「注冊」按鈕，根據指示註冊帳號。
 
 [[div class="scp-image-block block-center" style="width:70%;"]]
 [[image https://scp-sandbox-3.wikidot.com/local--files/kikunai/postimg-1 style="width:100%;"]]
@@ -92,10 +94,66 @@ Imgur註冊/登入界面[[footnote]]筆者在英國所以有電話登入的選�
 [[/div]]
 [[/div]] 
 
-（待補）
+2. 登入之後的畫面應該長這樣。這是你的上載區。
+[[div class="scp-image-block block-center" style="width:70%;"]]
+[[image https://scp-sandbox-3.wikidot.com/local--files/kikunai/postimg-2 style="width:100%;"]]
+[[div class="scp-image-caption" style="width:100%;"]]
+登入後畫面
+[[/div]]
+[[/div]] 
+
+3. 你可以選擇圖片上載後的儲存文件夾
+[[div class="scp-image-block block-center" style="width:70%;"]]
+[[image https://scp-sandbox-3.wikidot.com/local--files/kikunai/postimg-4 style="width:100%;"]]
+[[div class="scp-image-caption" style="width:100%;"]]
+選項。"test"為筆者所建立的文件夾
+[[/div]]
+[[/div]] 
+
+3.1 （非必要）按右上角的「我的圖片」即可瀏覽自己的所有圖庫。在左上角的輸入欄輸入文件夾名稱，然後按「建立新圖庫」就能建立圖片的文件夾。
+
+文件夾的名稱和圖片排序設定可在齒輪更改。
+
+[[div class="scp-image-block block-center" style="width:70%;"]]
+[[image https://scp-sandbox-3.wikidot.com/local--files/kikunai/postimg-3 style="width:100%;"]]
+[[div class="scp-image-caption" style="width:100%;"]]
+圖庫
+[[/div]]
+[[/div]] 
+
+4. 按左上角的「上載」回到上載頁面。請確保自己將刪除期限調為「不過期」，然後按「選擇圖片」上載。
+
+5. 上載成功後的頁面應該長這樣。請複製「圖片鍊接」的連結。
+
+[[div class="scp-image-block block-center" style="width:70%;"]]
+[[image https://scp-sandbox-3.wikidot.com/local--files/kikunai/postimg-5 style="width:100%;"]]
+[[div class="scp-image-caption" style="width:100%;"]]
+圖片資訊頁面
+[[/div]]
+[[/div]] 
+
+5.1 上述連結亦可在圖庫裏的「分享」按鈕（帶球三角型）取得
+
+[[div class="scp-image-block block-center" style="width:40%;"]]
+[[image https://scp-sandbox-3.wikidot.com/local--files/kikunai/postimg-6 style="width:100%;"]]
+[[div class="scp-image-caption" style="width:100%;"]]
+按鈕
+[[/div]]
+[[/div]] 
+@@ @@
+[[div class="scp-image-block block-center" style="width:70%;"]]
+[[image https://scp-sandbox-3.wikidot.com/local--files/kikunai/postimg-7 style="width:100%;"]]
+[[div class="scp-image-caption" style="width:100%;"]]
+連結清單界面
+[[/div]]
+[[/div]] 
+
+@@ @@
+= [#A ▼如何使用手上的圖床連結▼]
+
 
 ++ Meee
-https://meee.com.tw/
+https://meee.com.tw/ 
 * 台灣的圖床之一
 * 沒有帳號機制
 * 無法在上載後編輯或刪除圖片
@@ -124,6 +182,7 @@ Flickr
 上傳按鈕
 [[/div]]
 [[/div]]
+@@ @@
 [[div class="scp-image-block block-center" style="width:50%;"]]
 [[image https://scp-sandbox-3.wikidot.com/local--files/kikunai/flickr-3 style="width:100%;"]]
 [[div class="scp-image-caption" style="width:100%;"]]
@@ -138,6 +197,7 @@ Flickr
 設定
 [[/div]]
 [[/div]]
+@@ @@
 [[div class="scp-image-block block-center" style="width:30%;"]]
 [[image https://scp-sandbox-3.wikidot.com/local--files/kikunai/flickr-5 style="width:100%;"]]
 [[div class="scp-image-caption" style="width:100%;"]]
