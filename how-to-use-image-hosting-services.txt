@@ -22,7 +22,7 @@
 + 圖床
 ++ Imgur
 
-= ##red|**2025年更新：台灣地區似乎無法從Imgur上載新圖片，但仍然可以看到舊有的圖片。**##
+= ##red|**2025年更新：台灣地區似乎無法從Imgur上載新圖片，但仍然可以看到舊有的圖片。如欲使用類似的圖牀服務，請參閲下面Postimage的部分**##
 @@ @@
 @@ @@
 雖然Imgur無需註冊就能使用，但你的圖片[https://help.imgur.com/hc/en-us/articles/14415587638029-Imgur-Terms-of-Service-Update 或有機會被視為「非活躍」而刪除]，因此還是推薦乖乖辦個帳戶。
@@ -82,7 +82,29 @@ Imgur註冊/登入界面[[footnote]]筆者在英國所以有電話登入的選�
 @@ @@
 = [#A ▼如何使用手上的圖床連結▼]
 
-++ Flickr
+++ Postimage
+[https://postimages.org/ Postimage]跟Imgur差不多，在未登入的狀態下屬於「丟完就算」的圖牀，所以也是建議去辦個帳號。
+
+[[div class="scp-image-block block-center" style="width:70%;"]]
+[[image https://scp-sandbox-3.wikidot.com/local--files/kikunai/postimg-1 style="width:100%;"]]
+[[div class="scp-image-caption" style="width:100%;"]]
+主頁
+[[/div]]
+[[/div]] 
+
+（待補）
+
+++ Meee
+https://meee.com.tw/
+* 台灣的圖床之一
+* 沒有帳號機制
+* 無法在上載後編輯或刪除圖片
+* 未知圖片會否過期
+
+（待補）
+
+
+++ Flickr（不推薦）
 * 會自動將你的圖像轉為jpg檔，所以不支援去背png和gif。
 * 一個免費flickr帳號只可上傳1000張圖像
 * 提供授權標示，是發表以Creative Commons授權的靜態圖像的好平台。

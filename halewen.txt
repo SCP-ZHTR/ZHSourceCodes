@@ -5,11 +5,18 @@
     --sp_header-logo: url(https://i.meee.com.tw/PsGnEef.png);
     --sp_header-opacity: 1.0;
     --header-title: "領星者";
-    --header-subtitle: "向著星海前行";
+    --header-subtitle: "向著星辰之海";
 }
 .danger-diamond > .arrows {
      top: 0;
 }
+
+#page-title { display: none; }
+
+#header::before {
+mix-blend-mode: initial;
+}
+
 [[/module]]
 
 [[include info:start]]
