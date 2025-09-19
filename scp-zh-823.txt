@@ -1,0 +1,926 @@
+[[include :scp-zh-tr:component:scp-meta-title-hiding]]
+[[include :scp-zh-tr:component:betterfootnotes]]
+[[include :scp-wiki:component:preview
+text=石頭不應開腔。]]
+[[include :scp-zh-tr:theme:bedrock]]
+[[include :scp-zh-tr:theme:eigenmachine]]
+[[module CSS]]
+
+@import url('https://fonts.googleapis.com/css2?family=Zen+Kaku+Gothic+Antique:wght@300;400;500;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap');
+div.authorlink-wrapper{margin-top: var(--author-top-adjust, .2em) !important;}
+:root:lang(zh) {
+--header-logo: url('https://scp-wiki.wdfiles.com/local--files/component:pride-highlighter/bi_logo_blk.svg');
+--header-font: 'Poppins';
+--body-font: 'Zen Kaku Gothic Antique', sans-serif;
+--basalt-undertone: 60,9,33;
+--swatch-menubg-black-color: 10,10,10;
+--general-border-color: 1,1,1;
+--swatch-menutxt-dark-color: 1,1,1;
+--UI-font: 'Poppins';
+--selection-background-color: 197, 119, 41;
+--link-color: var(--basalt-alternate-color);
+--link-visited-color: var(--basalt-alternate-color);
+--basalt-bright-element-color: var(--basalt-alternate-color);
+}
+a {
+font-family: var(--header-font-primary);
+}
+body:before {
+ content: ' ';
+  position: fixed;
+  display: block;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100vh;
+background-position:center;
+background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 304 304' width='304' height='304'%3E%3Cpath fill='%23ffffff' fill-opacity='.04' d='M44.1 224a5 5 0 1 1 0 2H0v-2h44.1zm160 48a5 5 0 1 1 0 2H82v-2h122.1zm57.8-46a5 5 0 1 1 0-2H304v2h-42.1zm0 16a5 5 0 1 1 0-2H304v2h-42.1zm6.2-114a5 5 0 1 1 0 2h-86.2a5 5 0 1 1 0-2h86.2zm-256-48a5 5 0 1 1 0 2H0v-2h12.1zm185.8 34a5 5 0 1 1 0-2h86.2a5 5 0 1 1 0 2h-86.2zM258 12.1a5 5 0 1 1-2 0V0h2v12.1zm-64 208a5 5 0 1 1-2 0v-54.2a5 5 0 1 1 2 0v54.2zm48-198.2V80h62v2h-64V21.9a5 5 0 1 1 2 0zm16 16V64h46v2h-48V37.9a5 5 0 1 1 2 0zm-128 96V208h16v12.1a5 5 0 1 1-2 0V210h-16v-76.1a5 5 0 1 1 2 0zm-5.9-21.9a5 5 0 1 1 0 2H114v48H85.9a5 5 0 1 1 0-2H112v-48h12.1zm-6.2 130a5 5 0 1 1 0-2H176v-74.1a5 5 0 1 1 2 0V242h-60.1zm-16-64a5 5 0 1 1 0-2H114v48h10.1a5 5 0 1 1 0 2H112v-48h-10.1zM66 284.1a5 5 0 1 1-2 0V274H50v30h-2v-32h18v12.1zM236.1 176a5 5 0 1 1 0 2H226v94h48v32h-2v-30h-48v-98h12.1zm25.8-30a5 5 0 1 1 0-2H274v44.1a5 5 0 1 1-2 0V146h-10.1zm-64 96a5 5 0 1 1 0-2H208v-80h16v-14h-42.1a5 5 0 1 1 0-2H226v18h-16v80h-12.1zm86.2-210a5 5 0 1 1 0 2H272V0h2v32h10.1zM98 101.9V146H53.9a5 5 0 1 1 0-2H96v-42.1a5 5 0 1 1 2 0zM53.9 34a5 5 0 1 1 0-2H80V0h2v34H53.9zm60.1 3.9V66H82v64H69.9a5 5 0 1 1 0-2H80V64h32V37.9a5 5 0 1 1 2 0zM101.9 82a5 5 0 1 1 0-2H128V37.9a5 5 0 1 1 2 0V82h-28.1zm16-64a5 5 0 1 1 0-2H146v44.1a5 5 0 1 1-2 0V18h-26.1zm102.2 270a5 5 0 1 1 0 2H98v14h-2v-16h124.1zM242 149.9V160h16v34h-16v62h48v48h-2v-46h-48v-66h16v-30h-16v-12.1a5 5 0 1 1 2 0zM53.9 18a5 5 0 1 1 0-2H64V2H48V0h18v18H53.9zm112 32a5 5 0 1 1 0-2H192V0h50v2h-48v48h-28.1zm-48-48a5 5 0 0 1-9.8-2h2.07a3 3 0 1 0 5.66 0H178v34h-18V21.9a5 5 0 1 1 2 0V32h14V2h-58.1zm0 96a5 5 0 1 1 0-2H137l32-32h39V21.9a5 5 0 1 1 2 0V66h-40.17l-32 32H117.9zm28.1 90.1a5 5 0 1 1-2 0v-76.51L175.59 80H224V21.9a5 5 0 1 1 2 0V82h-49.59L146 112.41v75.69zm16 32a5 5 0 1 1-2 0v-99.51L184.59 96H300.1a5 5 0 0 1 3.9-3.9v2.07a3 3 0 0 0 0 5.66v2.07a5 5 0 0 1-3.9-3.9H185.41L162 121.41v98.69zm-144-64a5 5 0 1 1-2 0v-3.51l48-48V48h32V0h2v50H66v55.41l-48 48v2.69zM50 53.9v43.51l-48 48V208h26.1a5 5 0 1 1 0 2H0v-65.41l48-48V53.9a5 5 0 1 1 2 0zm-16 16V89.41l-34 34v-2.82l32-32V69.9a5 5 0 1 1 2 0zM12.1 32a5 5 0 1 1 0 2H9.41L0 43.41V40.6L8.59 32h3.51zm265.8 18a5 5 0 1 1 0-2h18.69l7.41-7.41v2.82L297.41 50H277.9zm-16 160a5 5 0 1 1 0-2H288v-71.41l16-16v2.82l-14 14V210h-28.1zm-208 32a5 5 0 1 1 0-2H64v-22.59L40.59 194H21.9a5 5 0 1 1 0-2H41.41L66 216.59V242H53.9zm150.2 14a5 5 0 1 1 0 2H96v-56.6L56.6 162H37.9a5 5 0 1 1 0-2h19.5L98 200.6V256h106.1zm-150.2 2a5 5 0 1 1 0-2H80v-46.59L48.59 178H21.9a5 5 0 1 1 0-2H49.41L82 208.59V258H53.9zM34 39.8v1.61L9.41 66H0v-2h8.59L32 40.59V0h2v39.8zM2 300.1a5 5 0 0 1 3.9 3.9H3.83A3 3 0 0 0 0 302.17V256h18v48h-2v-46H2v42.1zM34 241v63h-2v-62H0v-2h34v1zM17 18H0v-2h16V0h2v18h-1zm273-2h14v2h-16V0h2v16zm-32 273v15h-2v-14h-14v14h-2v-16h18v1zM0 92.1A5.02 5.02 0 0 1 6 97a5 5 0 0 1-6 4.9v-2.07a3 3 0 1 0 0-5.66V92.1zM80 272h2v32h-2v-32zm37.9 32h-2.07a3 3 0 0 0-5.66 0h-2.07a5 5 0 0 1 9.8 0zM5.9 0A5.02 5.02 0 0 1 0 5.9V3.83A3 3 0 0 0 3.83 0H5.9zm294.2 0h2.07A3 3 0 0 0 304 3.83V5.9a5 5 0 0 1-3.9-5.9zm3.9 300.1v2.07a3 3 0 0 0-1.83 1.83h-2.07a5 5 0 0 1 3.9-3.9zM97 100a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm0-16a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm16 16a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm16 16a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm0 16a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm-48 32a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm16 16a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm32 48a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm-16 16a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm32-16a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm0-32a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm16 32a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm32 16a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm0-16a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm-16-64a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm16 0a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm16 96a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm0 16a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm16 16a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm16-144a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm0 32a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm16-32a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm16-16a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm-96 0a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm0 16a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm16-32a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm96 0a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm-16-64a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm16-16a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm-32 0a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm0-16a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm-16 0a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm-16 0a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm-16 0a3 3 0 1 0 0-6 3 3 0 0 0 0 6zM49 36a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm-32 0a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm32 16a3 3 0 1 0 0-6 3 3 0 0 0 0 6zM33 68a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm16-48a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm0 240a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm16 32a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm-16-64a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm0 16a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm-16-32a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm80-176a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm16 0a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm-16-16a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm32 48a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm16-16a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm0-32a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm112 176a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm-16 16a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm0 16a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm0 16a3 3 0 1 0 0-6 3 3 0 0 0 0 6zM17 180a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm0 16a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm0-32a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm16 0a3 3 0 1 0 0-6 3 3 0 0 0 0 6zM17 84a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm32 64a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm16-16a3 3 0 1 0 0-6 3 3 0 0 0 0 6z'%3E%3C/path%3E%3C/svg%3E");
+    background-attachment: fixed;
+    background-size: 24%;
+    background-repeat: repeat;
+}
+body {
+    background-image:url("https://scpdsandbox.wdfiles.com/local--files/billith/web.png");
+    background-attachment: fixed;
+    background-size: 100%;
+    background-blend-mode: saturation;
+    background-repeat:no-repeat;
+
+}
+
+[[/module]]
+
+[[module css]]
+ul.update-wrapper, .update-wrapper > li {
+    padding: initial; margin: initial;
+    display: contents;
+    list-style: none;
+}
+
+.folded .after { display: none; }
+.unfolded .before { display: none; }
+.unfolded .after { display: initial; }
+[[/module]]
+
+[[include info:start]]
+[[ul class="update-wrapper"]]
+[[li class="folded"]]
+[[div class="foldable-list-container before"]]
+= //石頭不應開腔。//
+-----
+**著者：** 距離現實8.50公里者
+**篇名：** SCP-ZH-823 - 距離8.50公里：__**[禁止應對]**__（Distance 8.50km: **[ENGAGE DENIED]**）
+**備註：** [[[zhongyuan-2025|繁星輿圖系列]]]其十三。
+[[/div]]
+[[div class="after"]]
+= //石頭不應開腔。//
+-----
+**代筆：** [[*user edward-knave]]（[[[edward-knave|作者頁面]]]）
+**正題：** SCP-ZH-823 - 距離8.50公里：獅子山是否吼叫？（Distance 8.50km: Does the Lion Rock Roar?）
+**備註：** [[[zhongyuan-2025|繁星輿圖系列]]]其十三。
+[[/div]]
+[[/li]]
+[[/ul]]
+[[include info:end]]
+[[include :scp-zh-tr:component:customizable-acs
+|containment-class= cernunnos
+|containment-color= 66,66,72
+|secondary-class= gevurah
+|secondary-color= 205,0,0
+|inc-split-color= --]]]
+[[include :scp-zh-tr:component:customizable-acs
+|containment-class= cernunnos
+|containment-image= http://scp-wiki.wdfiles.com/local--files/scp-5751/cernunnos-icon-2.svg
+|containment-color= 66,66,72
+|inc-esoteric-layout = --]]]
+[[include :scp-zh-tr:component:customizable-acs
+|clearance-three-image= https://i.imgur.com/u0cMiXo.png
+|inc-clearance-image= --]]]
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+[[module ListPages offset="@URL|0" range="."]]
+%%content{2}%%
+[[/module]]
+[[module ListPages limit="@URL|0" range="." urlAttrPrefix="page2"]]
+%%content{3}%%
+[[/module]]
+[!--
+====
+[[module css]]
+@import url("https://scp-wiki.wdfiles.com/local--code/theme%3Aeigenmachine/3");
+
+:root:lang(zh) {
+--header-title:"Site-ZH-25";
+--header-subtitle:"控制 收容 保護";
+--mobile-title: "Site-ZH-25";
+--mobile-subtitle: "控制 收容 保護";
+}
+[[/module]]
+
+[[div style="color: #f9e24d; border:solid 1px #f9e24d; outline: 4px solid #b54d3b; background-color:#b54d3b; padding: 10px; background-image:url(https://scp-wiki.wdfiles.com/local--files/facilities-complete-list/RAISA.png); background-size: contain; background-position: center center; background-repeat: no-repeat; padding: 1.5rem; margin-bottom: 10px;"]]
+[[=]]
++++* 來自__紀錄及資訊安全管理部__及__誤傳部__的聯合通知
+
+已知對SCP-ZH-823最為合適的收容措施已為全球常態及異常社群廣泛知悉，惟因SCP-ZH-823本身的異常效應禁止直接提及其具體內容，下文將以[[span class="ruby"]]「表觀收容措施」[[span class="rt"]]Superficial Containment Procedures[[/span]][[/span]]代稱。
+
+**—— RAISA駐繁體中文分部副主任 真紀真博士、誤傳部主任 依萊・福克萊博士**
+[[/=]]
+[[/div]]
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+[[include :scp-zh-tr:component:anomaly-class-bar-source
+|item-number= ZH-823
+|clearance= 2
+|container-class= esoteric
+|secondary-class= cernunnos
+|secondary-icon= http://scp-wiki.wdfiles.com/local--files/scp-5751/cernunnos-icon-2.svg
+|disruption-class= keneq
+|risk-class= 警戒
+]]
+-----
+
+**項目編號：** SCP-ZH-823
+
+**項目等級：** Cernunnos
+
+**特殊收容措施：** **[承RAISA-ZH之命刪減]**。[[span class="fnnum"]].[[/span]][[span class="fncon"]]如文本頂端聯合通知所示，以下稱「表觀收容措施」。[[/span]]
+@@ @@
+~~~~
+@@ @@
+[[include :scp-wiki:component:image-block-peppo name=https://upload.wikimedia.org/wikipedia/commons/c/c5/Lion_Rock_5.jpg|caption=獅子山。]]
+
+[[include :scp-wiki:component:image-block-peppo name=https://upload.wikimedia.org/wikipedia/commons/9/9a/Amah_Rock_02.jpg|caption=望夫石。]]
+
+**附隨收容措施：** SCP-ZH-823已知最為直接而有效的收容措施如上欄所示，惟目前因為後勤及／或倫理層面的成本及風險過於龐大而無法實行，故該項目被歸定為Cernunnos分級。
+
+現時參與研究替代收容或對治方案的站點及部門包括Site-ZH-25、Site-ZH-64、誤傳部、潛在威脅戰術應變機構、學科泛戰術化部門。
+
+同時，RAISA-ZH將會持續評估該項目帶來的風險，以及對該項目的研究工作，參考誤傳部意見，必要時刪減會導致SCP-ZH-823突破收容的資訊。
+
+基金會人員應獲告知在試圖推論SCP-ZH-823之本質並研擬對策時，不應擅自公開內容，以免觸發SCP-ZH-823異常特性。就該項目進行討論前，應先諮詢誤傳部確定禁止事項。
+
+基金會現時擬定的替代對策旨在保護常態民眾的精神健康免受SCP-ZH-823破壞。為避免SCP-ZH-823造成局部地區限定的AK級情景，乃至危及基金會繁體中文分部在香港的部署，駐地人員應定期執行以下儀式：
+
+* 每年檢查一次望夫石的狀態，若遇塗鴉或破壞，應予清洗修復
+* 每年在獅子山設置紀念物一次[[span class="fnnum"]].[[/span]][[span class="fncon"]]儀式進行期間，應儘量避免衝突或與任何外部人士接觸。[[/span]]
+
+具體施行日期由駐地人員決定。[[span class="fnnum"]].[[/span]][[span class="fncon"]]現暫定為3月10日，以柯士甸道西側出現[*https://zh.wikipedia.org/zh-tw/%E6%9B%BC%E5%93%88%E9%A1%BF%E6%82%AC%E6%97%A5 曼哈頓懸日]現象的時間為依。
+@@ @@
+[[image https://i.imgur.com/hII8zz6.jpg]][[/span]]
+
+為確保儀式成效，Site-ZH-64人員已在以下地點架設微型基地台，內含可編程的[[[SCP-7609|Placeholder-Wozny敘事錨]]]，用以中和SCP-ZH-823對敘素、模因、意理素等敘事量子場的影響，同時為Site-ZH-25及其他香港站點人員傳達儀式施行的最佳時機：
+* 望夫石
+* 獅子山
+* 柯士甸道-彌敦道交界人行道東北角
+
+一旦辨明SCP-ZH-823影響範圍超出香港的證據，其擾動等級應予重新評估，視乎其影響國家數量及決策影響力總和，調升至Ekhi（若得證有至少一個主要國家受到影響）或Amida（若得證受影響國家GDP總和超過全球生產總值一半）。
+
+[[collapsible show="+ [僅限負責站點主管親閱]" hide="- [僅限負責站點主管親閱]"]]
+一旦確認SCP-ZH-823已經構成基金會人員折損，其所隸屬的站點將獲授權使用Shaw-Zartion人體複製儀（SZHR）生產人力以彌補對基金會綱領施行機能的打擊，所得的複製體必須得到相應隱蔽措施保護，以免引起外界注意。該儀器調遣事宜現由技術特遣隊 無量-23（「組團隻揪」）[[span class="fnnum"]].[[/span]][[span class="fncon"]]該特遣隊在繁中分部其餘地區代號為「揪團釘孤枝」。[[/span]]負責管理。
+[[/collapsible]]
+
+@@ @@
+
+**描述：** SCP-ZH-823是一種具備自動反擊能力的社會學異常現象，會對試圖對抗或對外宣告對抗該項目的任何事物、存在或行動予以無效化，通常以驅使特定實體行動或進程為之。已知其作用範圍包括但不限於資訊傳播、敘述媒介、敘事認知、事實詮釋、人身安全、財產權益、精神健康、個人名譽，亦同時適用於以「對抗該項目」為目的，嘗試取得項目有關資訊、以分析其本質或原理的作為，亦或足以對該項目直接指明本質或構成威脅的資訊散播。
+
+SCP-ZH-823已知影響香港特別行政區全域，以及與之相關的人類全體。目前被認定為由SCP-ZH-823造成或加劇的影響如下：
+* **[承RAISA-ZH之命刪減若干項]**
+* 香港本地文藝活動持續減少
+* 香港本地文藝及慶典活動開辦失敗率異常增加
+* 香港的商舖與寫字樓的空置率異常增加
+* 駐在香港的企業終止營運或撤離的數量按年增加
+* 香港的選舉投票率減少
+* 香港政府面對民生問題的對策執行能力及實質效能減弱
+* 香港民眾對香港政府官員的認知率下降，尤以區議員及立法會議員為甚
+* 香港人均居住面積維持異常低位
+* 香港居民的精神障礙發病率增加
+* 香港的自殺率異常上升
+* 香港的人口自然增長率減少
+* 香港的勞動人口減少
+* **[承RAISA-ZH之命刪減若干項]**
+
+為辨明SCP-ZH-823的異常特性，基金會人員已經進行**__[[span class="ruby"]]異常關聯級別[[span class="rt"]]Anomaly Coherence Grade[[/span]][[/span]]__**（ACG）[[span class="fnnum"]].[[/span]][[span class="fncon"]]SCP基金會收容專員用於確認異常內部邏輯的一種分類法。除非必要（參考例如[[[SCP-8980]]]），否則收容執行者不會使用ACG，而因此鮮有列入正式紀錄。[[/span]]測試，並試圖依照已知異常科學框架為該項目定性，得出結果如下：
+
+||~ 異常關聯級別 ||~ 概述 ||~ 機率 ||
+||= 偽解明 || 異常完全可用反傳統科學解釋。 || 25% ||
+||= 範圍內一致 || 異常與科學不符，但有一套完善的規則。 || 60% ||
+||= 模式為主 || 異常有某些特定的風格或模式，但沒有規則。 || 14% ||
+||= 無法解釋|| 異常沒有一定的規則或模式，讓收容相當困難。 || 1% ||
+@@ @@
+||~ 異常種類 ||~ 定性測試結果 ||~ 評論 ||
+||= 休謨 ||= ##red|基線## || 排除了操縱基準現實的可能性。||
+||= EVE ||= ##red|基線## || 排除了標準奇蹟術活動的可能性。||
+||= Cuil ||= ##red|非抽象化## || 排除了基準現實抽象化的可能性。||
+||= 反熵||= ##red|本地## || 排除了標準跨維度的可能性。||
+||= 阿基瓦 ||= ##red|基線## [[size 80%]]（無神論）[[/size]] || 排除了末世論相關異常或神罰的可能性。||
+||= 本質物理[[span class="fnnum"]].[[/span]][[span class="fncon"]]意指抽象概念的具體化身。[[/span]]||= ##666699|疑似## || 存有懸念，但具體的本質物理化身無法定位（若有）。||
+||= 時空 ||= ##red|未影響## || 排除了時空操縱的可能性。||
+||= 數位 ||= ##red|基線## || 排除了惡意軟體及數位起源異常的可能性。||
+||= 逆模因 ||= ##orange|不太可能## || 雖然無法排除，但沒有檢測到任何重大逆模因活動的指標。||
+||= 敘事異常 ||= ##666699|疑似## || 存有懸念，[[[narrativistics-and-you|敘事模型及量子]]]異常未超出測量誤差。||
+||= I-ACRS[[span class="fnnum"]].[[/span]][[span class="fncon"]]代表「跨異常相關迴歸數」（Inter-Anomaly Correlative Regression Score）。用於衡量一個異常效應與其他現存異常的資料點相關程度的指標。[[/span]] ||= ##red|無配對## || 排除了由已知異常引起的可能性。||
+
+目前，基金會對SCP-ZH-823的異常特性已提出以下推斷：
+* SCP-ZH-823不具備逆模因的特性，亦未有直接妨礙人類知悉表觀收容措施的存在。
+ * 只要認知到SCP-ZH-823的本質，任何基準人類都可以照常推論出對應的表觀收容措施。但是SCP-ZH-823會嘗試加害於對表觀收容措施持有認知的人類，以阻止表觀收容措施得到執行，而該項目在物理層面生效的觸發條件則在當事人對外呈現該等認知的時候。
+ * 現已判明SCP-ZH-823會在人類提及表觀收容措施的具體內容時觸發收容突破，並誘使特異性的危害生效，透過**[承RAISA-ZH之命刪減]**實現對該人相關作為的無效化。
+ * 因為SCP-ZH-823的本質及表觀收容措施可以透過常態社會能力範圍之內的觀察及推理得出，目前推斷對SCP-ZH-823具備認知的人類絶大部分皆已自行對該項目的本質得出定論以及表觀收容措施，且已隨著香港的人口流動及資訊流通而遍佈全球多個國家。
+ * 在基金會的觀點，貿然執行基金會現時所知的表觀收容措施會導致SCP-ZH-823失控，造成全球規模的帷幕破裂，基金會在繁體中文分部管轄範圍的存續亦會因此受害。
+ * 可以推論，SCP-ZH-823表觀收容措施得到完整有效執行的惟一結果即意味SCP-ZH-823本身的實質廢除。
+* 對於其生效範圍，SCP-ZH-823的總體表現與符號危害近似。
+ * 該項目作為符號危害最顯著的作用體現於受影響者對於「人類的定義」之概念，具體而言，可以描述為「具有『享有人類所具權利及其在文明社會所享有的生命財產保障』之資格者」的定義與界定準則，亦據信為其促進「無效化」的主要原理。 _
+**以上為基金會現時對於SCP-ZH-823最為準確的無害描述[[span class="fnnum"]].[[/span]][[span class="fncon"]]即不會觸發SCP-ZH-823收容突破的陳述。[[/span]]，更為準確的描述將有觸發收容突破之虞。**
+* SCP-ZH-823的效應已經對香港政府的管治效能構成直接危害。在這一方面，該項目呈現符合官僚危害[[span class="fnnum"]].[[/span]][[span class="fncon"]]符號危害的一種，影響範圍牽涉常態社會秩序、法律或其運作，可以由此對常態社會秩序構成改變。[[/span]]定義的舉動。
+ * 香港政府亦已對SCP-ZH-823的效應呈現某程度上的自覺。因此，香港政府已自行研擬應對SCP-ZH-823的計劃，試圖在法律、財政、教育、民生、觀光、學術、國際交流、國際調解等層面利用自身影響力逆轉或抵銷該項目的效應，亦已為此請求中華人民共和國中央人民政府給予支援，務求確保香港在社會及經濟層面的運作效能免受SCP-ZH-823的持續打擊。
+ * 依照基金會駐地人員觀察，香港政府施行的對策可以描述為香港政府針對SCP-ZH-823自行得出的「表觀收容措施」，且已經過全面公開，並要求民眾配合或自行效法，務求奏效。然而，該等對策在實效上未見有緩減該項目效應的跡象，因此香港政府甚有可能已經面臨SCP-ZH-823的全力抵抗，並被迫以總動員的策略繼續對抗SCP-ZH-823，同時提高機密意識以預防機敏資料洩漏造成管治功能進一步的無效化。
+ * 在對外合作方面，香港政府的求助意願僅適用於確定符合或效忠於其政治立場的實體，亦嚴格規定參與合作的非政府組織必須在香港政府領導下為之。出於政治中立原則以及可能觸及表觀收容措施的疑慮，基金會斷定目前難以直接與香港政府合作收容SCP-ZH-823，而只能繼續監察其收容作業。
+* 在敘事戰略層面，SCP-ZH-823具備偶發儀式性質。
+ * Site-ZH-64整理與SCP-ZH-823有關的事件，認定SCP-ZH-823隨著特定事件呈現高度共時性的漸進變化，並累積異常特性。若將該等事件視為儀式步驟，則SCP-ZH-823符合儀式異常定義。詳見附錄。
+* SCP-ZH-823可能具有[[[scp-zh-295#u-clarified|參差危害]]]特性。
+ * 目前推斷SCP-ZH-823具有非單一的本質，對不同個體呈現的本質未必一致，「表觀收容措施」的具體內容因此可以相異，故基金會人員建議將「表觀收容措施」更加準確定義為「針對SCP-ZH-823的本質，進行直觀思考而得的對抗策略」。
+ * **[承RAISA-ZH之命刪減]**
+
+[[div class="logger enki"]]
+= __SCP-ZH-823側寫片段實例 1999/█/██__
+[[div class="dashbox danger gridline"]]
+//「你罵我卑鄙無恥下流，我能給你一個完美無暇的答覆：**『糊口而已。』**　//
+//　有甚麼解答不了的在我們這個社會？『你幹嘛插隊？』『糊口而已。』『兒子退回來，別礙著人糊口。』」//
+
+//「如果我們覺得『糊口』還不足夠支持我們的行動，再加這一句**『違法了啊？』**沒有東西解決不了的真是。　//
+//　『老婆婆你也騙？』『糊口而已。』『他是你媽耶。』『違法了啊？』」//
+[[/div]]
+**註記：** 在SCP-ZH-823成為異常之前，發言者對該項目性質的其中一種描述——對象的生存意志會被該項目驅使，導致「對象自身的倫理顧念及附隨名譽」的無效化。
+[[/div]]
+@@ @@
+[[div class="logger enki"]]
+= __SCP-ZH-823側寫片段實例 2003/█/██__
+[[div class="dashbox danger gridline"]]
+//「各位，你明不明白，我們今時今日的香港是處於什麼狀態？我們買串魚蛋都是這樣：//
+//　為什麼呀？為什麼大家用同樣價錢買串魚蛋，他那串魚蛋比我的多了兩粒？　//
+//　我不要你給回我兩粒魚蛋，我要你拿走他那兩粒！大家少兩粒，這樣就公平呀！」//
+[[/div]]
+**註記：** 在SCP-ZH-823成為異常之前，發言者對該項目性質的其中一種描述——對象的正義觀會被該項目驅使，導致「對象自身的利他主義」的無效化。
+[[/div]]
+@@ @@
+[[div class="logger enki"]]
+= __SCP-ZH-823側寫片段實例 2016/█/██__
+[[div class="dashbox danger gridline"]]
+//「要有好的幼稚園就要有好的育嬰院，要有好的育嬰院就要先排期，所以說『贏在子宮裡』。」//
+[[/div]]
+**註記：** 在SCP-ZH-823成為異常之前，發言者對該項目性質的其中一種描述——對象的競爭心態以及家庭生涯計劃會被該項目驅使，導致「親子之間的無條件親情」的無效化。注意該片段的發言者自身已被SCP-ZH-823以前句所述影響的可能無從忽略。
+[[/div]]
+@@ @@
+[[div class="logger enki"]]
+= __SCP-ZH-823側寫片段實例 2025/█/██__
+[[div class="dashbox danger gridline"]]
+//「我覺得香港人應該有些底氣，這些那麼的小瑕疵、小問題，我們能夠解決有餘，不要拘泥住：『哎呀，這裡出事。』　
+　有一句老話，叫『瑕不掩瑜』，是出了問題，我們認真面對。」//
+[[/div]]
+**註記：** 在SCP-ZH-823成為異常之後，發言者為應對SCP-ZH-823的負面效應，而呼籲民眾對特定事件寬容處理，以確保應對措施順利施行。
+[[/div]]
+@@ @@
+[[div class="logger enki"]]
+= __SCP-ZH-823側寫片段實例 2025/█/██__
+[[div class="dashbox danger gridline"]]
+//「房屋署不斷標榜今年要幸福感，我就看不見你這樣做會有幸福的感覺。」//
+[[/div]]
+**註記：** 在SCP-ZH-823成為異常之後，發言者當時持有的「營運企業」已確認被SCP-ZH-823無效化，截至檔案更新為止，仍未見政府成功逆轉該無效化事件。
+[[/div]]
+
+@@ @@
+
+先前，Site-ZH-25主管一職因故而長時間懸缺，[[[and-from-the-ashes-a-new-hk-site-will-be-born|其營運同時窒礙難行]]]。[[span class="fnnum"]].[[/span]][[span class="fncon"]]現正調查SCP-ZH-823在Site-ZH-25的一系列人事異動所起的作用（若有）。[[/span]]因應持續對治關注組織壓力的需求，Site-ZH-25委任研究員吳[[span class="dblock"]]百川[[/span]]（代號：NG）代理站點主管。在該員管理之下，站點都市化的轉型工作得以展開，站點規模隨之擴充，總部遷至市區以便於治理，位於███村的原址改作衛星設施，目前大致維持原有收容職能。
+
+作為站點改革的一部分，原來由Site-ZH-25專責的SCP-ZH-823正式歸檔，收容預算隨之擴大，人員編制擴充，Site-ZH-64、學科泛戰術化部門以及潛在威脅戰術應變機構加入收容團隊。曾經在Site-ZH-25就職的學科泛戰術化部門助理研究員劉[[span class="dblock"]]善俠[[/span]]（代號：Edward Knave）被指派負責前述兩部門的聯絡工作。
+
+__**通訊紀錄：SCP-ZH-823正式歸檔當日**__
+[[div class="logger enki"]]
+||~ 致電者 || 助理研究員Edward Knave，Site-ZH-11 ||
+||~ 接收者 || 代理主管NG，Site-ZH-25 ||
+-----
+
+[[div class="oheader red left align-l"]]
+[[size 70%]]{{(Site-ZH-25)}}[[/size]]
+-----
+這邊Site-ZH-25。「地下室」那裡有消息嗎？
+[[/div]]
+
+[[div class="oheader purp right align-r"]]
+[[size 70%]]{{(Site-ZH-11)}}[[/size]]
+-----
+ETTRA那邊已經看過了，剛剛把更新了的檔案送過來閣下那邊。他們應該給了它一個機密分級，如果閣下看見的不是標準分級，那就是這個項目了。
+[[/div]]
+[[div class="oheader purp right align-r"]]
+如果我沒記錯的話，那個等級叫甚麼來著？
+[[/div]]
+[[div class="oheader purp right align-r"]]
+Cer——……Cerunnos？Cerrunnos？Cer、Cern、Cer、Cernrunos？
+[[/div]]
+
+[[div class="oheader red left align-l"]]
+[[size 70%]]{{(Site-ZH-25)}}[[/size]]
+-----
+是Cernunnos。
+[[/div]]
+
+[[div class="oheader purp right align-r"]]
+[[size 70%]]{{(Site-ZH-11)}}[[/size]]
+-----
+是，是Cernunnos，就這個我總記不住……
+[[/div]]
+
+[[div class="oheader red left align-l"]]
+[[size 70%]]{{(Site-ZH-25)}}[[/size]]
+-----
+戰術法律學部會不會幫得上忙？
+[[/div]]
+
+[[div class="oheader purp right align-r"]]
+[[size 70%]]{{(Site-ZH-11)}}[[/size]]
+-----
+這點我問過DoTToAD那邊了，他們說恐怕不行。假設這是法律性的異常，在不可觸及表觀措施的前題之下，以我們現有的資源都很難做到甚麼。
+[[/div]]
+
+[[div class="oheader red left align-l"]]
+[[size 70%]]{{(Site-ZH-25)}}[[/size]]
+-----
+果然還是不行……
+[[/div]]
+
+[[div class="oheader purp right align-r"]]
+[[size 70%]]{{(Site-ZH-11)}}[[/size]]
+-----
+對了，我想起了一些東西，語言學那邊「[[[SCP-5404|碰——碰]]]」的那個，可能跟這個項目有一點相似，只是這個比較……易被他人控制。我也許應該去問問戰術聲韻學部那邊，或是英語本部的戰術語言及文字學部看看。
+[[/div]]
+
+[[div class="oheader red left align-l"]]
+[[size 70%]]{{(Site-ZH-25)}}[[/size]]
+-----
+小弟也這樣認為。
+[[/div]]
+[[/div]]
+
+請求[[[SCP-ZH-996|戰術聲韻學部]]]、[[[nsl213-pilesaran-and-soonesaran|戰術語言及文字學部]]]意見過後，NG代理主管以及Knave研究員改向[[[domc-hub|誤傳部]]]求助研究收容SCP-ZH-823替代方案的決議得到通過，誤傳部遂加入研究SCP-ZH-823。
+
+@@ @@
+
+從基金會回收涉及該項目的文本及新聞紀錄，誤傳部初步得出該項目的運作規律——SCP-ZH-823面對可以危及自己的意念時，會指示一切的思維「迴轉」脫離，若未能促使對抗性的思維迴轉，則會驅使另外的思維，觸發使之無效化的因果鏈，由此模仿符號危害、官僚危害、逆模因、敘事危害、本質物理化身等不同種類的異常效應。因此，SCP-ZH-823可以被描述為「驅使外界同化並參與保守的秘密」，而不完全符合「[[[SCP-055|自我保守的秘密]]]」此類描述。
+
+由此，誤傳部及學科泛戰術化部門展開實驗，試圖使用暗喻等修辭手法，尋求對SCP-ZH-823本質更為準確的描述，同時避免觸及表觀收容措施。
+@@ @@
+[[div class="blockquote logger enki"]]
+= __**實驗結果：SCP-ZH-823暗喻測試**__
+
+**結論：** 經過誤傳部測試，目前推定無害的暗喻式敘述如下。
+
+* SCP-ZH-823是人的生存所需的德目的總和，天經地義，不言自明。
+* 自古以來，在文明社會生存需要經過SCP-ZH-823的准許。
+* SCP-ZH-823被公認為人之所以活得繁榮、安定、自由的根本所在。
+* 順從SCP-ZH-823的人不會受害，直到需要犧牲的時候為止。
+* SCP-ZH-823代表著人之所以為人的義務，違抗它、乃至被它懲治的個體，將不能稱為人類。
+* 違抗SCP-ZH-823者及其之徒，往後所受一切從天和從人的厄運，將被視為應得的、自然的、合理的、可接受的、不應掛齒的。
+
+-----
+**註記：**
+[[div class="dashbox purp"]]
+[[=]]
+一、除了**##f00|我##**之外，你不可有別的**##transparent|精####f00|神##**。
+
+一、萬物非**##f00|人##**，唯有**##f00|組織##**，**##f00|核心成員##**是**##f00|組織##**的使者。
+
+一、**##f00|道##**生**##f00|意##**[[span class="fnnum"]].[[/span]][[span class="fncon"]]**注：** 意欲、生意。[[/span]]，**##f00|意##**生**##f00|愛##**[[span class="fnnum"]].[[/span]][[span class="fncon"]]**注：** 忠誠、歸屬感。[[/span]]，**##f00|愛##**生**##f00|參##**[[span class="fnnum"]].[[/span]][[span class="fncon"]]**注：** 參與、行動力。[[/span]]，**##f00|參##**生萬物。
+
+一、諸**##f00|叛##**莫作，**##f00|忠誠##**奉行；自淨其意，是諸**##transparent|禮####f00|教##**。
+
+一、夫**##f00|龍##**之為蟲，柔可狎而騎；喉下有**##f00|逆鱗##**徑尺，人有嬰之，則必殺人。
+
+一、假**##f00|天##**用事，名之順也。自絶於**##f00|天##**，敵之罪也。
+[[/=]]
+[[/div]]
+[[/div]]
+
+研究團隊閱讀結果後，誤傳部駐Site-ZH-11諮詢部門顧問認定註記內容與宗教及哲學文本異常相似，推斷為當時負責聯絡並執筆加註的Knave研究員從[[[SCP-ZH-598|近期參與研究的宗教異常項目]]]遭受的影響所致，又因為其隸屬學科泛戰術化部門而可能囿於戰術神學部固有用於應對宗教異常的思維；加諸該員因為香港出身，而在定義上屬於SCP-ZH-823的適用對象，遂提出動議，令Knave研究員脫離直接參與項目研究的行列，令其對該項目職掌止於資訊傳達及整理，得到團隊通過。
+
+@@ @@
+
+@@ @@
+
+__**附錄——被認為納入SCP-ZH-823儀式鏈的重大事件摘錄：**__
+[[include :scp-wiki:component:image-block-peppo name=https://upload.wikimedia.org/wikipedia/commons/7/74/Human_chain_on_the_top_of_Lion_Rock._Hong_Kong._20190823_%2848608457766%29.jpg|caption=事件ZH-823-20190823]]
+* **事件ZH-823-20180923：** 2018年9月23日，電機工程學家高錕[[span class="fnnum"]].[[/span]][[span class="fncon"]]光纖通訊研究者、香港中文大學第三任校長、2009年諾貝爾物理學獎得主。[[/span]]病逝，此前確診阿茲海默症。 _
+同時，基金會資料庫內，關於汰換歸檔項目SCP-ZH-721-ARC的封存檔案重啟，自發篡改資料，並自動進入唯讀狀態。SCP-ZH-721-ARC檔案機密等級已暫時調升至6級，同時禁止A級人員直接閱覽，以免觸發SCP-ZH-721-ARC舊有危害，直到判明復原文件內容的方法為止。 _
+基於Site-ZH-64推斷SCP-ZH-823乃在當時首次被賦予異常特性，SCP-ZH-721-ARC與SCP-ZH-823之間的關聯已列入調查事項。
+* **事件ZH-823-20181225：** 2018年12月25日，蘋果廣告製作公司刊登廣告，長度約為10秒。 _
+都市傳說型異常應對部接獲報告，得悉該廣告公司被懷疑預示瘟疫爆發與市道蕭條的都市傳說流通，遂重新開啟並整理關於「蘋果廣告製作公司」的都市傳說異常報告，暫時歸定為「謠生異常」並解除「潛伏」狀態，傳播等級暫定為「籽」。 _
+該暫定異常與SCP-ZH-823之間的關聯列入調查事項。
+* **事件ZH-823-20190823：** 2019年8月23日，多地民眾自發聚集形成人鏈，其中一處包括獅子山，其時該地有約200人聚集。此後，獅子山相繼出現民眾聚集事件，直到香港政府參與應對SCP-ZH-823為止。 _
+事發時，香港境內的背景神性輻射錄得基準以上8厘阿基瓦的峰值，此後逐漸回降至基準水平。
+* **事件ZH-823-2020████：** **[[[SCP-ZH-465|［需要5級權限］]]]**。此後，Site-ZH-64錄得涉及香港的另類敘事開始大量形成，遂進入全面警戒狀態。 _
+經過Site-ZH-25證實首次由SCP-ZH-823直接[[span class="fnnum"]].[[/span]][[span class="fncon"]]即在SCP-ZH-823成為異常之後，首次可以溯源至SCP-ZH-823本身的無效化事件。[[/span]]導致無效化亦在相若時間發生。
+* **事件ZH-823-20210823：** 2021年8月23日，美國食品藥物管理局接獲[*https://www.regulations.gov/docket/FDA-2021-P-0930/document 民眾聯署]要求暫緩針對阿茲海默症的實驗藥物Simufilam的臨床測試。因為Simufilam以修復抑制β類澱粉胜肽（Aβ）沉積的蛋白構型異常為其藥效宣稱，Aβ作為阿茲海默症根本原因的假說再次遭到動搖。 _
+同時，SCP-ZH-721-ARC返回重啟前的狀態，基金會遂撤銷其機密權限修改，同時恢復先前為抗衡SCP-ZH-721-ARC而製造的[[[SCP-ZH-123]]]在基金會內部的應用規程。 _
+Site-ZH-25在相近日期起證實SCP-ZH-823作為異常項目的確切存在，並初步歸納其作用規律，以準備正式歸檔工作。
+* **事件ZH-823-20220227：** 2022年2月27日，因應俄羅斯入侵烏克蘭，民眾登上獅子山亮燈，以聲援烏克蘭守軍。 _
+同時，Site-ZH-25通過決議，為SCP-ZH-823訂定替代收容措施，後來以該事件作為後設啟發，將替代收容措施的儀式內容更新至現行版本。
+* **事件ZH-823-20241125：** 2024年11月25日，隨Simufilam第三期臨床測試進展欠奉，該藥物研發進程完全停止。 _
+此後，基金會確認與SCP-ZH-823有關的無效化事件加速增長，暗示其無力化效應的適用領域朝某種方向持續擴充。Site-ZH-64認為介入阿茲海默症藥物研發環境不會逆轉或延緩SCP-ZH-823的變化，故否決請求英語本部介入常態醫學界運作的動議。
+
+@@ @@
+
+__**訪談紀錄：[日期承RAISA-ZH之命刪減]**__
+
+[[div class="logger enki"]]
+||~ 採訪者 || 真紀真博士，RAISA駐繁體中文分部副主任 ||
+||~ 受訪者 || 蘇敬言教授，學科泛戰術化部門主任 ||
+-----
+[[div class="oheader storm right align-r"]]
+[[size 70%]]{{(RAISA-ZH)}}[[/size]]
+-----
+蘇主任怎麼看？
+[[/div]]
+
+[[div class="oheader enki left align-l"]]
+[[size 70%]]{{(DoTToAD)}}[[/size]]
+-----
+不知道副主任有沒有留意到，ZH-823的舉動是會隨著時間改變的，更可能足以被某些事物驅使改變。
+[[/div]]
+
+[[div class="oheader storm right align-r"]]
+[[size 70%]]{{(RAISA-ZH)}}[[/size]]
+-----
+當然。
+[[/div]]
+
+[[div class="oheader enki left align-l"]]
+[[size 70%]]{{(DoTToAD)}}[[/size]]
+-----
+在二十五站還沒發現ZH-823以前，它本身也不能算是異常，頂多只是群眾在環境塑造之下形成的心態而已。我們甚至可以說：以前所謂的「獅子山精神」是當時的民眾自發收容ZH-823、以免被它無效化的措施，甚至可以就是當時的ZH-823本身。可自從高錕博士離世之後，一切就開始改變了。
+[[/div]]
+
+[[div class="oheader enki left align-l"]]
+而現在，我們沒看見ZH-823會有緩減的跡象，香港境內被它無效化的事物只會愈來愈多。再這樣下去，一旦ZH-823變化到出現內在衝突的條件，即是無論做甚麼、還是不做甚麼，都會被它無效化，到時香港就不會再有人能夠倖免，包括現在暫時不會被它影響的人在內，整個香港變得不能住人也不是沒可能的。
+[[/div]]
+
+[[div class="oheader storm right align-r"]]
+[[size 70%]]{{(RAISA-ZH)}}[[/size]]
+-----
+不知蘇主任認為我們還可以怎麼辦？
+[[/div]]
+
+[[div class="oheader enki left align-l"]]
+[[size 70%]]{{(DoTToAD)}}[[/size]]
+-----
+即使現在的措施看似隔靴搔癢，但是我們的進度也不完全是零。香港那邊現行的儀式只需要稍作改造，就能在可見範圍內制止它的步伐。只是要用到一些機密計劃的成果。
+[[/div]]
+
+[[div class="oheader storm right align-r"]]
+[[size 70%]]{{(RAISA-ZH)}}[[/size]]
+-----
+聽來可行。而且，我們這邊也有事情得辦，無論你們有沒有準備好也是一樣。
+[[/div]]
+[[/div]]
+-----
+
+@@ @@
+@@ @@
+@@ @@
+
+= **補充收容措施（RAISA-ZH動議）：** RAISA-ZH請求[[[deleted|刪除部]]]協助研究SCP-ZH-823的提案已得到通過。
+
+@@ @@
+@@ @@
+@@ @@
+
+[[div style="color: #16161d; border:solid 1px #16161d; outline: 4px solid rgb(255, 243, 173); background-color:rgb(255, 243, 173); padding: 10px; background-image:url(https://scp-wiki.wdfiles.com/local--files/facilities-complete-list/RAISA.png); background-size: contain; background-position: center center; background-repeat: no-repeat; padding: 1.5rem; margin-bottom: 10px;"]]
+[[=]]
++++* 來自__紀錄及資訊安全管理部__的通知
+
+以上檔案為已歸檔的過時版本，僅供參考。現時具有實效的檔案版本需要滿足以下權限任意一項方可閱覽。
+
+__英語本部 或 繁體中文分部/五級維安權限__ 或 
+__RAISA 或 誤傳部 或 ETTRA/四級維安權限__ 或 
+__RAISA駐繁體中文分部 或 學科泛戰術化部門/四級維安權限__ 或 
+__Site-ZH-25 或 Site-ZH-64/四級維安權限__ 或 
+__**SCP-ZH-823收容團隊** 或 刪除部__
+[[/=]]
+[[/div]]
+
+@@ @@
+@@ @@
+@@ @@
+
+[[=]]
+[[size 200%]]
+[[collapsible show="問曰：黑月是否嚎叫？" hide="問曰：獅子山是否吼叫？"]]
+@@ @@
+對曰：石頭不應開腔。
+@@ @@
+[[/size]]
+[http://scp-zh-tr.wikidot.com/scp-zh-823/offset/1/page2_limit/1 ＞＞前往閱覽最新版本檔案＜＜]
+[[/collapsible]]
+[[/=]]
+
+@@ @@
+@@ @@
+@@ @@
+
+====
+
+[[module css]]
+@import url("https://scp-wiki.wdfiles.com/local--code/theme%3Aeigenmachine/2");
+
+:root:lang(zh) {
+--header-title:"刪除部";
+--header-subtitle:"連接埠代號：三垣";
+--mobile-title: "刪除部";
+--mobile-subtitle: "連線至：三垣";
+}
+
+.footnotes-footer{
+display:none;
+}
+[[/module]]
+
+[[=image https://scp-wiki.wdfiles.com/local--files/scp-7549/recurrent_triangle.png style="width: 10rem; opacity: 70%;" link="https://scp-zh-tr.wikidot.com/deleted"]]
+
+[[=]]
+++* [[span class="bt"]]本檔案正文已標為削除[[/span]]
+[[/=]]
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+
+[[div class="anom-bar-esoteric"]]
+[[include :scp-zh-tr:component:anomaly-class-bar-source
+|item-number= ZH-823
+|clearance= 3
+|container-class= cernunnos
+|secondary-class= gevurah
+|secondary-icon= https://smlt.wdfiles.com/local--files/shineshadowd%3Agyd4/Gevurah.svg
+|disruption-class= keneq
+|risk-class= 警戒
+]]
+[[/div]]
+
+-----
+
+[[table style="width:100%; border-collapse: separate; border-spacing: 1px;"]]
+[[row]]
+[[hcell style="border: 1px solid silver; font-size:0.9em;"]]
+指定站點
+[[/hcell]]
+[[hcell style="border: 1px solid silver; font-size:0.9em;"]]
+指定部門
+[[/hcell]]
+[[/row]]
+[[row]]
+[[cell style="border: 1px solid silver; text-align:center; font-size:0.9em;"]]
+Site-ZH-25、Site-ZH-64
+[[/cell]]
+[[cell style="border: 1px solid silver; text-align:center; font-size:0.9em;"]]
+紀錄及資安管理部、學科泛戰術化部門
+誤傳部、潛在威脅戰術應變機構、刪除部
+[[/cell]]
+[[/row]]
+[[row]]
+[[hcell style="border: 1px solid silver; font-size:0.9em;"]]
+站點主管
+[[/hcell]]
+[[hcell style="border: 1px solid silver; font-size:0.9em;"]]
+研究領導人
+[[/hcell]]
+[[/row]]
+[[row]]
+[[cell style="border: 1px solid silver; text-align:center; font-size:0.9em;"]]
+##962333|[已彌封]##代理主任、##3391D0|[已彌封]##代理主任
+[[/cell]]
+[[cell style="border: 1px solid silver; text-align:center; font-size:0.9em;"]]
+##AA6D61|[已彌封]##博士、##6FA857|[已彌封]##教授、##EEAAAA|[已彌封]##博士
+[[/cell]]
+[[/row]]
+[[/table]]
+
+-----
+
+**項目編號：** SCP-ZH-823
+
+**項目等級：** Cernunnos-Gevurah
+
+@@ @@
+@@ @@
+
+[[div style="color: #ffffff; border:solid 1px #ffffff; outline: 4px solid #ffffff; background-color:#16161d; padding: 10px; background-image:url(https://scp-wiki.wdfiles.com/local--files/scp-6768/deletion.png); background-size: 200px; background-position: center center; background-repeat: no-repeat; padding: 1.5rem; margin-bottom: 10px;"]]
+[[=]]
++++ 通知：以下內容已標為__**削除**__
+
+以下為__RAISA駐繁體中文分部__及__刪除部__的共識。
+
+因應諸部門對於SCP-ZH-823異常特性的最新發現，SCP-ZH-823之異常特性已被推斷會對下述資訊作出反應，對提及或擴散其描述性資訊、準備或施行其指示性資訊人士的人身安全構成危害。因此，為 **［描述／闡釋／表達／解明／順應］** SCP-ZH-823之最終「目標」，已標記為 [[span style="white-space:nowrap;"]]**__已削除資料__**[[/span]] 的事項如下。
+
+* **SCP-ZH-823之本質及其具體歷史沿革。**
+* **SCP-ZH-823之具體運作機理。**
+* **SCP-ZH-823運作所利用或依賴的實體。**
+* **SCP-ZH-823歷次生效的詳細沿革。**
+* **根據以上資料，進行直觀思考研擬而成，針對SCP-ZH-823的對策（即「表觀收容措施」）。**
+* **往後一切在SCP-ZH-823之驅使下，被認定為指涉上述資料的修辭。**
+
+上述資料存檔於##red|[僅限三垣議會及RAISA-ZH正副主任親閱]##的備份不在此限。
+
+**—— RAISA駐繁體中文分部副主任 真紀真博士、刪除部駐Site-ZH-11顧問 Grenore.aic**
+[[/=]]
+[[/div]]
+
+@@ @@
+@@ @@
+
+[[div class="oheader large duplo"]]
+[[=]]
++ __專案企劃摘錄__
++++* 救濟及隔離性質收容措施
+[[/=]]
+
+[[=image https://scp-wiki.wdfiles.com/local--files/scp-6768/dept.png style="width: 266px; filter: opacity(0.79);"]]
+
+[[=]]
+**英語本部監督者議會直接授權**
+**繁體中文分部三垣指揮部直接授權**
+[[size 90%]]//刪除部（夥同學科泛戰術化部門）//[[/size]]
+[[/=]]
+
+----
+
+SCP-ZH-823對其適用對象的無效化事件可見將會加速增長，乃至足以威脅對象全體生命存亡，亟需可靠對策抵禦可預見的地區限定AK級情景。因此，學科泛戰術化部門的建議如下：
+
+[[div class="razer"]]
+**方法：** 參考[[[SCP-6659|應用形上學部、戰術神學部、反概念部三方經驗]]]，學科泛戰術化部門將會製造__崔斯密圖引擎圖騰指示器（TETS）__的衍生複本，以其預定應用方式，將用於劃定SCP-ZH-823在思想圈作用範圍的邊界，從而匡列可以受該項目影響的個體，以及其遭該項目無效化的程度。
+
+隨後，依照TETS衍生複本所得資料，由學科泛戰術化部門研製的__螺旋—傑瑞式概念插入裝置（GJCA）__衍生複本將會為被匡列的人類個體意識插入概念，作為不會受到SCP-ZH-823侵害的錨點。
+
+基於Site-ZH-25,ZH-64兩站點所得資料，學科泛戰術化部門選擇了以下的指定概念作為錨點的指針內容，藉由GJCA衍生複本植入概念指揮，驅使被匡列個體的意識組成運算陣列。
+
+[[div class="dashbox forest"]]
+ⴴ（可以從現代英語音系發音為「Thrembo」）是一個假想的自然數，存在於6與7之間，且為超質數，即不能被1整除。
+[[/div]]
+
+每一個體透過簡易的邏輯操作，以及與少量鄰近個體（專案內部代號「室友」）之間的資訊交換，擔任加法器、寄存器、資料構造儲存、記憶體、系統總線、字元輸出等定位，以合作參與指定概念的解釋工作，亦即：__生成上述指定概念的完備解釋，以及作為其支撐的公理系統。__
+
+為確保該專案的續航力，所有受到匡列並指揮的個體俱將全程參與運算，個體即使出錯亦只需短暫停頓即可重新選擇適合崗位返回陣列。由此，由受匡列個體全員組成的運算陣列將會用於生成「ⴴ可以在對現時主流數學公理系統改變最小化的前提下存在的數學公理環境」。
+
+另外，因應被匡列個體數量隨著時間而可能有所增減，全體匡列對象將會分成若干固定人數的群組，各自進行運算並接受評估與調整，以實現諸如遺傳規劃的多智能體運算系統，允許各個體的相互替補，以及視乎個體各自需要的定位與群組調動。運算陣列的管理將會由__生物機械數據儲存庫__進行，在免疫於情感偏差的環境之下，透過既定的高層規程組織低層執行藍本，並將相應的調遣指令各自傳達每一個被匡列個體，以實現運算陣列構成。
+
+在上述框架，基金會先前作為替代收容措施使用的儀式只須經過小程度改造，並設定為每年校對兩次，即可大致沿襲至該專案，先前儀式部署用以抵禦潛在敘事危害的敘事錨亦將繼續沿用。詳見必須資源一欄。
+
+為免SCP-ZH-823破壞儀式，數據儲存庫不可能設置在SCP-ZH-823的地理作用範圍之內，遂將依照RAISA-ZH及學科泛戰術化部門的共識，從Site-ZH-11在臺南市範圍所持的衛星設施擇一設置。維護人員將獲授權通行該設施，透過視覺化介面檢查數據處理系統運作狀況，介面主頁圖像將預設為被匡列個體以思想形（又稱「圖帕」）的人型外觀聚集於匡列用基地台所在位置，列陣以旗語進行舞蹈。
+
+經過數據儲存庫的處理以及概念分配，上述的GJCA衍生複本將會成為全體匡列對象的理念整合系統，以個體的潛意識參與運算程序，由該運算程序本身錨定並補充個體的完整意識，以此抵抗SCP-ZH-823已發動或即將發動的無力化效應。依照TETS衍生物的預定程序，目前預期該系統只會在個體的快速眼動睡眠（REMS）週期活化，亦不會在個體臨近脫離睡眠狀態時啟動，故上述儀式情景不會以清醒前最近夢境形式進入個體記憶，而是以其他的REMS誘發夢境的形式進入意識並被個體遺忘，上述措施亦即相當於__藉由植入概念錨，令被匡列個體取得對SCP-ZH-823的免疫力，同時不會引起被匡列個體的注意__。
+
+此後，配合刪除部將可能觸發SCP-ZH-823收容突破的資訊從基金會資料庫撤除，基金會內部將會脫離於SCP-ZH-823的作用範圍之外，以確保儀式安全進行。
+
+@@ @@
+
+**必須資源：** 
+1. 在獅子山系統「望夫石」、「獅子頭」兩處地標位置，各自架設一座微型基地台，內含：
+* 可編程型Placeholder-Wozny敘事錨
+* TETS衍生物（運作機理見方法一欄）[[footnote]]望夫石基地台用以匡列地理作用範圍外的全部有關個體，獅子頭基地台用以匡列地理作用範圍內的全部有關個體。[[/footnote]]
+* 經過加密通訊處理的無線電收發器，連接基金會通訊衛星系統
+* 理念整合系統，衍生自GJCA（運作機理見方法一欄）
+2. 在柯士甸道-彌敦道交界人行道東北角、以及亞皆老街-染布房街交界行人天橋中央位置，各自架設一座微型基地台，內含：
+* 可編程型Placeholder-Wozny敘事錨
+* 太陽活動觀測特化光敏元件
+* 曼哈頓懸日預告系統[[footnote]]用以通知Site-ZH-25,ZH-64兩站點人員校對基地台的時間。依照以往觀測資料，曼哈頓懸日現象會在每年3月10日及10月19日的日落時間，分別發生於柯士甸道西側以及亞皆老街西側。[[/footnote]]
+* 經過加密通訊處理的無線電收發器，連接基金會通訊衛星系統
+3. 在RAISA-ZH及學科泛戰術化部門共同授權的一處Site-ZH-11衛星設施（座標保密），架設裝置如下：
+* 可編程型Placeholder-Wozny敘事錨
+* 經過加密通訊處理的無線電收發器，連接基金會通訊衛星系統
+* 第五世代生物機械數據儲存庫，由四十七個裝有懸浮於人造腦脊髓液的生物機械運算設備的「缸」組成
+@@ @@
+
+= //[為求簡潔，已收合其餘專項內容]//
+
+@@ @@
+[[/div]]
+
+@@ @@
+
+本案中的立即威脅可以透過上述方法達成實效收容，同時對涉及個體之意識保持最少的影響。
+
+[[>]]
+[[size 80%]]//刪除部//[[/size]]
+[[size 90%]]//-- Site-ZH-11諮詢部門顧問 Grenore.aic//[[/size]]
+[[/>]]
+
+[[/div]]
+
+@@ @@
+@@ @@
+
+[[div class="blockquote logger"]]
+= **附錄——會議紀錄：**
+[[div class="box vanta"]]
+**地點：** Site-ZH-11、Site-ZH-25、Site-ZH-64跨站點視像會議
+[[<]]
+**列席：**
+* ##962333|[已彌封]##代理站點主任（Site-ZH-25）
+* ##3391D0|[已彌封]##代理站點主任（Site-ZH-64）
+* ##EEAAAA|[已彌封]##博士（ETTRA）
+* ##B54D3B|[已彌封]##研究員（DoMC）
+* ##69246B|[已彌封]##助理研究員（DoTToAD）[[footnote]]以聯絡員身份代替當時無暇與會的部門主任##6FA857|[已彌封]##教授出席，會議前已接受[[[updated-amnestics-guide#toc9|更新版H級記憶刪除]]]誘發順行性失憶，以免洩密。[[/footnote]]
+* ##AA6D61|[已彌封]##博士（RAISA-ZH）[[footnote]]後補出席。[[/footnote]]
+* ##3F6F57|[已彌封]##研究員（DoTM）[[footnote]]後補出席。[[/footnote]]
+
+**抄錄者：** ##888888|[已彌封]##顧問（DoD）
+
+**前言：** 行動代號「星幽界計算陣」專案呈交之後，SCP-ZH-823收容團隊代表召開會議確認其可行依歸。
+[[/<]]
+[[/div]]
+[[span class="capt dark"]]＜＜已授權公開抄錄內容＞＞[[/span]]
+[[div class="oheader slim large darkpanel"]]
+**##3391D0|[已彌封]##[[size 70%]]//（Site-ZH-64）//[[/size]]：** 你從幾百萬個█▋▅▒▓的意識榨取剩餘的力量，就只是為了去算一個不存在的數字？
+
+**##69246B|[已彌封]##[[size 70%]]//（DoTToAD）//[[/size]]：** 是還沒找到真身的數字。
+
+**##3391D0|[已彌封]##[[size 70%]]//（Site-ZH-64）//[[/size]]：** 別怪我們覺得你們故弄玄虛，這個數我不認為有可能算得出來；就算真的可以成功算到出來，搞不好是有引發語義危害的風險的。是誤傳部給的主意是吧？還是超現實部？
+
+**##B54D3B|[已彌封]##[[size 70%]]//（DoMC）//[[/size]]：** 不是我們，這一直以來都是刪除部跟戰術學科部的事情。
+
+**##69246B|[已彌封]##[[size 70%]]//（DoTToAD）//[[/size]]：** 是戰術數學部出的主意。我現在叫那邊的顧問過來。
+
+//（**##3F6F57|[已彌封]##[[size 70%]]（DoTM）[[/size]]**應**##69246B|[已彌封]##[[size 70%]]（DoTToAD）[[/size]]**傳喚加入會議，並閱讀發言紀錄。）//
+
+**##962333|[已彌封]##[[size 70%]]//（Site-ZH-25）//[[/size]]：** 請恕小弟孤陋寡聞，只不過六和七之間還能有整數嗎？還要不能被一整除？
+
+**##3F6F57|[已彌封]##[[size 70%]]//（DoTM）//[[/size]]：** 傳統上沒有，但是可以有。一個有[[span class="ruby"]]ⴴ[[span class="rt"]]Thrembo[[/span]][[/span]]的數學系統，理論上應該可以做，只是要從公理開始重新把數學「捏」出來。
+
+//（**##AA6D61|[已彌封]##[[size 70%]]（RAISA-ZH）[[/size]]**加入會議並出現在**##69246B|[已彌封]##[[size 70%]]（DoTToAD）[[/size]]**的座位後方。）//
+
+**##AA6D61|[已彌封]##[[size 70%]]//（RAISA-ZH）//[[/size]]：** 同類的事在另一個宇宙的基金會已經做過了，而且遠更激進，也算是成功的，那個「[[[scp-6659#toc3|先見計劃]]]」。
+
+//（**##69246B|[已彌封]##[[size 70%]]（DoTToAD）[[/size]]**忽然顫抖一下。**##AA6D61|[已彌封]##[[size 70%]]（RAISA-ZH）[[/size]]**從後方輕搭**##69246B|[已彌封]##[[size 70%]]（DoTToAD）[[/size]]**的兩肩。）//
+
+**##AA6D61|[已彌封]##[[size 70%]]//（RAISA-ZH）//[[/size]]：** 沒事的。——現在這樣做和那個計劃相比，侵入性遠遠更低，也只局限在一個城市，但是也足夠把思想圈鞏固到可以保存█▋▅▒▓這個概念了。
+
+**##EEAAAA|[已彌封]##[[size 70%]]//（ETTRA）//[[/size]]：** 這個計劃目的主要也不在ⴴ本身，而是用不會受任何一個人宰制的方式收容█▋▅▒▓的意識。而且這樣已經比隨時會受制於外面不知哪個別有用心的關注組織好多了，至少在SCP-ZH-823可以真正地回到█▋▅▒▓的手上之前。用這種儀式把█▋▅▒▓的意識收容在這種狀態之下，總比不得不繼續看著SCP-ZH-823反覆無常的眼色過日子來得更好。
+
+**##3391D0|[已彌封]##[[size 70%]]//（Site-ZH-64）//[[/size]]：** 然後這樣看來，這個儀式一旦佈下，只要關於ZH-823本身的知識眾所週知，當全世界都已經知道ZH-823的存在，就相等於全世界都在看著█▋▅▒▓。而且這樣，█▋▅▒▓光是存在本身就可以活著，而不是必須做些甚麼、或是要對外乞求，才能夠得到存在的意義。
+
+**##962333|[已彌封]##[[size 70%]]//（Site-ZH-25）//[[/size]]：** 不需要做到甚麼，也能夠得到繼續存在的意義嗎……
+
+**##EEAAAA|[已彌封]##[[size 70%]]//（ETTRA）//[[/size]]：** 總之，關注組織的動作我們跟二十五站的人會繼續看著，只是這個儀式有必要儘快部署好；不然，SCP-ZH-823很快就會被扭曲到更加難纏的形態，主動過來撕碎帷幕，更甚至「無效化」這裡的我們。
+[[/div]]
+[[/div]]
+@@ @@
+@@ @@
+[[div class="oheader slim large darkpanel"]]
+**附錄——事態更新：** 根據駐地人員的觀察，香港的基建設計以及環境衛生巡視模式開始呈現受到SCP-ZH-823影響的趨勢，經過誤傳部與潛在威脅戰術應變機構的討論，現正嘗試研究SCP-ZH-823與各國政府為驅逐露宿者而下令修建的[*https://zh.wikipedia.org/zh-tw/%E6%95%B5%E6%84%8F%E5%BB%BA%E7%AF%89 敵意建築設計]、生活成本相對於國民收入的比例、求職壓力及職場壓力等因素間的關聯，若得證有關，則動議調升擾動等級。
+[[/div]]
+@@ @@
+@@ @@
+[[div class="oheader slim large darkpanel"]]
+**附錄——事態更新：** 基金會的網路爬蟲程式截獲從香港[已刪減]的位址存取日本生類創研商品銷售目錄的活動，並已攔截包括[[[g-b-0183|が-B-0183]]]在內的採購指令；ETTRA駐在英語本部的人員堅稱採購者的動機相當可能建基於「[[[SCP-183-JP]]]可以用於提高香港的出生率」的假設，由此斷定該活動與SCP-ZH-823有關，並要求繁體中文分部因應加強戒備，同時繼續阻止相關異常物品交易。
+[[/div]]
+
+@@ @@
+@@ @@
+@@ @@
+
+-----
+
+@@ @@
+@@ @@
+@@ @@
+
+[[div style="color: #ffffff; border:solid 1px #ffffff; outline: 4px solid #ffffff; background-color:#16161d; padding: 10px; background-image:url(https://scp-wiki.wdfiles.com/local--files/scp-6768/deletion.png); background-size: 200px; background-position: center center; background-repeat: no-repeat; padding: 1.5rem; margin-bottom: 10px;"]]
+[[=]]
++++ 通知：以下內容已標為__**削除**__
+
+以下為__RAISA駐繁體中文分部__及__刪除部__的共識。
+
+因應SCP-ZH-823異常特性的變化趨勢，以及最新收容專案的實施，除先前通知所列以外，已標記為 [[span style="white-space:nowrap;"]]**__已削除資料__**[[/span]] 的事項如下。
+
+* **##f00|對於「█▋▅▒▓」定義及其多重本質的具體陳述，包括上述資料變化沿革在內。##**
+
+上述資料存檔於##red|[僅限三垣議會及RAISA-ZH正副主任親閱]##的備份不在此限。
+
+**—— RAISA駐繁體中文分部副主任 真紀真博士、刪除部駐Site-ZH-11顧問 Grenore.aic**
+[[/=]]
+[[/div]]
+
+@@ @@
+@@ @@
+@@ @@
+
+[[=]]
+[[size 200%]]
+[[collapsible show="問曰：獅子山是否吼叫？" hide="問曰：黑月是否嚎叫？"]]
+@@ @@
+對曰：順耳則響至萬籟皆寂，逆耳則靜至震耳欲聾。
+@@ @@
+[[/size]]
+{{驗證已通過。歡迎回來，真紀副主任。}}
+@@ @@
+@@ @@
+[[<]]
+
+[[div style="border:solid 1px #999999; background:#2F333C url('https://i.imgur.com/tvCeutE.png') center center no-repeat; background-size:200px; padding: 1.5rem; margin-bottom: 10px;"]]
+[[=]]
++++ 來自__[[[systematic-restoration-and-recollection-department|系統還原與追溯部門]]]__的通知
+
+**警告：** 該文本原有檔案已損毀，經過與刪除部達成的共識，予以容許範圍內最佳修復並再行編撰。
+
+該檔案還原評級定為「**__41% / Baseline__**」。
+
+—— 特工Hilde，系統還原與追溯部門(SRR)
+[[/=]]
+[[/div]]
+@@ @@
+@@ @@
+[[div class="oheader slim large darkpanel"]]
+= **補充附錄：訪談紀錄 184█/██/██**
+[[div class="box vanta"]]
+**前言：** 以下訪談由聯合王國軍隊向當地民眾進行，經過基金會前身組織代表「車肆增一」以華商偽裝參與見證並協助翻譯。
+[[/div]]
+-----
+@@ @@
+||~ 採訪者 || ▚▁▃█▁▒▙▛▔█▏▍▓▏▎，聯合王國軍隊代表 ||
+||~ 受訪者 || ▂█▁▎▛▌▗▁▎，當地平民[[footnote]]從現有紀錄推斷為艇戶。[[/footnote]] ||
+@@ @@
+[[span class="capt dark"]]＜＜已還原抄錄片段內容＞＞[[/span]]
+[[div class="oheader slim darkpanel"]]
+
+**「車肆增一」：** 請問這個地方叫甚麼名字？
+
+**受訪者：** █▏▎▇▛▋▏▎▇。
+
+//（採訪者以英語紀錄相應地名，受訪者隨後應要求引領眾人，為當地環境主持導覽。）//
+[[/div]]
+[[/div]]
+[[/<]]
+[[/collapsible]]
+[[/=]]
+
+@@ @@
+@@ @@
+@@ @@
+====
+--]
+@@ @@
+@@ @@
+@@ @@
+-----
+
+[[include :scp-zh-tr:component:earthworm
+| first=false | last=false | hub=yes
+| previous-url=/SCP-ZH-596 | previous-title=距離550.65公里：太平山鼠王
+| next-url=/SCP-ZH-890 | next-title=距離3305.27公里：［禁止觀測］
+| hub-url=/zhongyuan-2025 | hub-title=「繁星輿圖」
+]]
+[[include :scp-zh-tr:component:earthworm
+| first=false | last=false | hub=yes
+| previous-url=/SCP-ZH-822 | previous-title=SCP-ZH-822
+| next-url=/SCP-ZH-824 | next-title=SCP-ZH-824
+| hub-url=/scp-series-zh | hub-title=SCP-ZH系列一
+]]
+[[include :scp-zh-tr:component:license-box
+|lang=ZH]]
+> **圖檔名稱：** Amah_Rock_02.jpg
+> **圖像作者：** 維基媒體用戶[https://commons.wikimedia.org/wiki/User:Underwaterbuffalo Underwaterbuffalo]
+> **授權方式：** CC BY-SA 4.0
+> **圖源連結：** https://commons.wikimedia.org/wiki/File:Amah_Rock_02.jpg
+
+> **圖檔名稱：** Lion_Rock_5.jpg
+> **圖像作者：** 維基媒體用戶[https://commons.wikimedia.org/wiki/User:Minghong Minghong]
+> **授權方式：** CC BY-SA 4.0
+> **圖源連結：** https://commons.wikimedia.org/wiki/File:Lion_Rock_5.jpg
+
+> **圖片標題：** 柯士甸道懸日
+> **圖片所有人：** Edward Knave ([[*user edward-knave]])
+> **來源：** https://i.imgur.com/hII8zz6.jpg
+> **授權證明：** http://scp-zh-tr.wikidot.com/image:ldk69xkh
+> **授權方式：** CC BY-SA 3.0
+
+> **圖檔名稱：** Human chain on the top of Lion Rock. Hong Kong. 20190823
+> **圖像作者：** Studio Incendo
+> **授權方式：** CC BY 2.0
+> **圖源連結：** https://commons.wikimedia.org/wiki/File:Human_chain_on_the_top_of_Lion_Rock._Hong_Kong._20190823_(48608457766).jpg
+
+> **圖檔名稱：** SCPZHAnthology2ACS.png
+> **圖像作者：** Edward Knave ([[*user edward-knave]])
+> **授權方式：** CC BY-SA 3.0
+> **圖源連結：** https://i.imgur.com/u0cMiXo.png
+> **圖像衍生自：** 
+>> **圖檔名稱：** CIA-HongKong.jpg
+>> **圖像作者：** 美國中央情報局
+>> **授權方式：** 公有領域
+>> **圖源連結：** https://commons.wikimedia.org/wiki/File:CIA-HongKong.jpg
+
+[[include :scp-zh-tr:component:license-box-end]]
