@@ -203,10 +203,10 @@ display:none;
 [http://scp-zh-tr.wikidot.com/scp-zh-751 距離105.86公里：七樹淒]
 [[/div]]
       [[div class="zone"]] 
-[http://scp-zh-tr.wikidot.com/scp-zh-596 距離550.65公里：【禁止觀測】]
+[http://scp-zh-tr.wikidot.com/scp-zh-596 距離550.65公里：太平山鼠王]
 [[/div]]
       [[div class="zone"]] 
-[http://scp-zh-tr.wikidot.com/scp-zh-823 距離8.50公里：【禁止觀測】]
+[http://scp-zh-tr.wikidot.com/scp-zh-823 距離8.50公里：【禁止應對】]
 [[/div]]
       [[div class="zone"]] 
 [http://scp-zh-tr.wikidot.com/scp-zh-890 距離3305.27公里：【禁止觀測】]
@@ -282,11 +282,11 @@ SCP-ZH-143因2024年6月1日發生於國道三號—斗六交流道路段異常�
 [[div style="border-left: 0.2rem solid; padding-left: 8px; margin-top: 12px; margin-bottom: 12px; color: #white; opacity: 0.8;"]]
 來自基金會誤傳部的通知：本檔案的內容非常**美麗**。
 [[/div]]
-* 距離550.65公里：[[[scp-zh-596 |【禁止觀測】]]]##grey|（9/19）##
+* 距離550.65公里：[[[scp-zh-596 |太平山鼠王]]]##grey|（9/19）##
 [[div style="border-left: 0.2rem solid; padding-left: 8px; margin-top: 12px; margin-bottom: 12px; color: #white; opacity: 0.8;"]]
 你們做的一切都是徒勞無功，這次的大遠征是不會失敗的。 
 [[/div]]
-* 距離8.50公里：[[[scp-zh-823 |【禁止觀測】]]]##grey|（9/19）##
+* 距離8.50公里：[[[scp-zh-823 |【禁止應對】]]]##grey|（9/19）##
 [[div style="border-left: 0.2rem solid; padding-left: 8px; margin-top: 12px; margin-bottom: 12px; color: #white; opacity: 0.8;"]]
 特殊收容措施：**[承RAISA-ZH之命刪減]**。
 [[/div]]

@@ -22,6 +22,9 @@
 + 圖床
 ++ Imgur
 
+= ##red|**2025年更新：台灣地區似乎無法從Imgur上載新圖片，但仍然可以看到舊有的圖片。**##
+@@ @@
+@@ @@
 雖然Imgur無需註冊就能使用，但你的圖片[https://help.imgur.com/hc/en-us/articles/14415587638029-Imgur-Terms-of-Service-Update 或有機會被視為「非活躍」而刪除]，因此還是推薦乖乖辦個帳戶。
 
 * 需注意網頁版Imgur才能使用此方法。

@@ -2,8 +2,10 @@
 [[module CSS]]
 
 :root:lang(zh) {
-    --header-title: "群星之下";
-    --header-subtitle: "All is Empty";
+    --sp_header-logo: url(https://i.meee.com.tw/PsGnEef.png);
+    --sp_header-opacity: 1.0;
+    --header-title: "領星者";
+    --header-subtitle: "向著星海前行";
 }
 .danger-diamond > .arrows {
      top: 0;
