@@ -204,7 +204,7 @@
 
 > 可以說是網站上meta敘事的最佳利用。其自身作為文學作品相當成功的同時，也用一份被刪除的作品列表致敬其他著名創作者。還有一些像是代號「清晰聖杯」的元素從世界觀內外看都很出色。
 
-[[[Resurrection]]] – （系列－眾多作者）
+[[[復生|Resurrection]]] – （系列－眾多作者）
 
 > 更長、更有野心的其中一個世界線，描寫了一些系列一人物的現代化形象。很可惜未完成，但有不少很棒的瞬間以及較小型的故事。
 
@@ -214,7 +214,7 @@
 -----
 [[*user NatVoltaic]]
 
-[[[SCP-1730]]] - What Happened to Site-13? by djkaktus
+[[[SCP-1730]]] - Site-13出了什麼事 by djkaktus
 
 > 這是網站上最長的SCP，也是如何寫出好故事的好例子。它提到許多其他SCP所以它不適合當作第一篇SCP。然而，我會把它放在給新成員閱讀的列表裡。它在營造氣氛上做得很好，有著有趣的動作場面，並有許多值得回憶的瞬間。我會在它如何說好故事上講得更深入，但我不想要爆雷。這篇展示了說一個好故事的同時不流於陳腔濫調的方法，好好讀它可以讓你獲益良多。
 -----
@@ -1285,7 +1285,7 @@ SCP-2000競賽挑選：
 
 -----
 
-**16.** [[[qntm-s-proposal|SCP-001/代號：qntm]]] - The Lock by qntm
+**16.** [[[qntm-s-proposal|SCP-001/代號：qntm]]] - 鎖 by qntm
 
 > 這似乎是某種魔咒或「收容咒語」。「Apakht」是用來稱呼被收容在寶石中任何事物的名稱。
 
@@ -1345,7 +1345,7 @@ SCP-2000競賽挑選：
 
 > If he hadn't turned around, I would be dead. Thank god I froze looking at him, or we would both be dead. Would all be
 
-**29.** [[[SCP-2399]]] - A Malfunctioning Destroyer by djkaktus
+**29.** [[[SCP-2399]]] - 故障的毀滅者 by djkaktus
 
 > Its weapons activated as they were intended, but it was Jupiter that experienced doomsday, not us.
 
@@ -1415,9 +1415,9 @@ SCP-2000競賽挑選：
 
 > All individuals, including those who did not die with visible injuries, exhibit variable causal synchronization with adjacent nonfatal timelines.
 
-**45.** [[[SCP-2332]]] - Thought Messenger by Zyn
+**45.** [[[SCP-2332]]] - 思想傳遞者 by Zyn
 
-> I’m from here. This place. Another side of the mirror. It has many sides, and another you wanted to reach yet another.
+> 我來自這裏。這個地方。鏡子的另一面。它有許多面，而你想觸及的另一面又有另一面。
 
 -----
 
@@ -1437,7 +1437,7 @@ SCP-2000競賽挑選：
 
 > Xander freaked out and started saying we were going to starve, until I told him he was a fucking idiot.
 
-**50.** [[[SCP-2528]]] - Panda Processors by thamuzz
+**50.** [[[SCP-2528]]] - 熊貓處理器 by thamuzz
 
 > Before the Pattern we were a minor tribe, but one with ambition.
 
@@ -1521,7 +1521,7 @@ SCP-2000競賽挑選：
 
 > Suffering. Cruelty. The currency by which the world is purchased. Everything that you are is a reflection of this. You will remember the true nature of cruelty in time.
 
-**68.** [[[SCP-3780]]] - Who Shot J.F.K.? by A Random Day
+**68.** [[[SCP-3780]]] - 誰射殺了約翰．F．甘迺迪？by A Random Day
 
 > Specifically, SCP-3780 describes the collective attempts by various individuals, third parties, and separate temporal versions of the Foundation to prevent the assassination of Kennedy by Oswald.
 
@@ -1631,13 +1631,13 @@ SCP-2000競賽挑選：
 
 -----
 
-**91.** [[[SCP-1342]]] - To the Makers of Music by FlameShirt
+**91.** [[[SCP-1342]]] - 致作曲者 by FlameShirt
 
-> To save ourselves, we could have tried to destroy you
+> 為了拯救我們自己，我們曾經想過要摧毀你們
 
-**92.** [[[SCP-1984]]] - Dead Hand by Kalinin
+**92.** [[[SCP-1984]]] - 死神之手 by Kalinin
 
-> How many will sign the death warrant of the human race and finish off what survivors there may be left?
+> 多少人會簽署人類的死刑令，並且殺死那裏可能剩下的存活者呢？
 
 **93.** [[[wjs-proposal|SCP-001/CODE NAME: WJS]]] - Normalcy by WrongJohnSilver
 
