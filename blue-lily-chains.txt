@@ -1,8 +1,11 @@
 [[div style="border:solid 2px #112211; background:#DDEEDD; padding:25px; margin-bottom: 25px;"]]
 
-[[>]]
-[[module Rate]]
-[[/>]]
+[[include info:start]]
+作者：[[*user thedeadlymoose]]
+篇名：藍百合花鏈
+原文：[https://scp-wiki.wikidot.com/blue-lily-chains] Blue Lily Chains
+譯者：[[*user Pseudopoet]]
+[[include info:end]]
 
 [[size 150%]]**藍百合花鏈**[[/size]]
 
@@ -120,3 +123,9 @@
 [[footnoteblock title=""]]
 
 [[/div]]
+
+[[include :scp-zh-tr:component:license-box
+|lang=EN
+|author=thedeadlymoose]]
+
+[[include :scp-zh-tr:component:license-box-end]]
