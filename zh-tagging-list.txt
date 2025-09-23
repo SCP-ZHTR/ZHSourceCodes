@@ -25,14 +25,17 @@
 [[/module]]
 [[/tab]]
 
-[[tab 金屬 刪除]]
-[[module ListPages separate="yes" perPage="1000" tags="+金屬" order="name" -category="_default"]]
+
+
+[[tab 感知力 刪除]]
+http://scp-zh-tr.wikidot.com/system:page-tags/tag/%E6%84%9F%E7%9F%A5%E5%8A%9B
+[[module ListPages separate="yes" perPage="1000" tags="+感知力" order="name" -category="_default"]]
 %%title_linked%% - %%created_by%%
 [[/module]]
 [[/tab]]
 
-[[tab 感知力 刪除]]
-[[module ListPages separate="yes" perPage="1000" tags="+感知力" order="name" -category="_default"]]
+[[tab 視覺性 -> 視覺影響]]
+[[module ListPages separate="yes" perPage="1000" tags="+視覺性" order="name" -category="_default"]]
 %%title_linked%% - %%created_by%%
 [[/module]]
 [[/tab]]
@@ -43,9 +46,7 @@
 [[/module]]
 [[/tab]]
 
-[[tab 1]]
 
-[[/tab]]
 
 [[tab 2]]
 
@@ -193,4 +194,13 @@
 [[/tab]]
 [[/code]]
 
+金屬
+[[code]]
+[[tab 金屬 刪除]]
+http://scp-zh-tr.wikidot.com/system:page-tags/tag/%E9%87%91%E5%B1%AC
+[[module ListPages separate="yes" perPage="1000" tags="+金屬" order="name" -category="_default"]]
+%%title_linked%% - %%created_by%%
+[[/module]]
+[[/tab]]
+[[/code]]
 [[/collapsible]]

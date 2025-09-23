@@ -214,7 +214,7 @@
 * **[*/system:page-tags/tag/睡眠 睡眠]（sleep）** -- SCP與睡眠有關。
 * **[*/system:page-tags/tag/觸覺影響 觸覺影響]（tactile）** -- SCP由觸覺觸發或啟動，或者是影響觸覺的異常。注意這裡特指「觸覺」，並非透過觸摸就能簡單引發的異常。
 * **[*/system:page-tags/tag/心靈感應 心靈感應]（telepathic）** -- SCP透過異常方式傳輸資訊。
-* **[*/system:page-tags/tag/視覺性 視覺性]（visual）** -- SCP由視覺觸發或啟動，或者是影響視覺的異常。
+* **[*/system:page-tags/tag/視覺影響 視覺影響]（visual）** -- SCP由視覺觸發或啟動，或者是影響視覺的異常。
  * //多與「認知危害」、「感知影響」標籤共同使用。//
 
 
@@ -257,7 +257,7 @@
  * //多與「時間影響」標籤共同使用。//
 * **[*/system:page-tags/tag/多面體 多面體]（polyhedral）** -- SCP是多面體：具備平面與直邊的三維形物。
 * **[*/system:page-tags/tag/門徑 門徑]（portal）** -- SCP是表現出不一致連貫性的開口或門戶（傳送門）。
- * //多與「維度外」、「空間影響」標籤共同使用。//
+ * //多與「超維度」、「空間影響」標籤共同使用。//
 * **[*/system:page-tags/tag/放射性 放射性]（radioactive）** -- SCP會放出輻射會影響輻射。
 * **[*/system:page-tags/tag/現實扭曲 現實扭曲]（reality-bending）** -- SCP能透過異常手段（即「本質促動」、「現實扭曲」、「現實歪曲」）操縱現實。
  * //取代「反熵」標籤。//

@@ -1,3 +1,5 @@
+[[include component:scp-meta-title-hiding css-style=classic]]
+
 [[include :scp-zh-tr:component:info-ayers
 |lang=zh[!-- EN/RU/KO/CN/FR/PL/ES/TH/JP/DE/IT/UA/PTBR --]
 |page=SCP-7450[!-- url of your page on the scp wiki --]
