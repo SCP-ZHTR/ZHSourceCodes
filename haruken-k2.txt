@@ -170,7 +170,9 @@ Header logo是抓半影外觀主題裡的基金會logo網址。
 |folded=1
 ]]
 [[div class="lightbox"]]
-目前空空如也。
+**2025夏季競賽《異常之局》** - [http://scp-zh-tr.wikidot.com/summer-contest-2025 活動中心頁]
+[http://scp-zh-tr.wikidot.com/parawatch-shadow 鏡子裡的怪影像]
+「真真假假，誰知真相？」
 [[/div]]
 [[include :scp-zh-tr:component:colend
 |nohide=1
