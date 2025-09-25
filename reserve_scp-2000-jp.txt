@@ -1,0 +1,5 @@
+url: 'SCP-2000-JP - 伝書使'
+user: KnifeSalmon
+date-from: '1758729600'
+date-to: '1759939200'
+language: jp
