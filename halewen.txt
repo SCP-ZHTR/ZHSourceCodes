@@ -65,7 +65,7 @@ style="width:250px;"]]
 [[collapsible show="+ 看到我多可愛了嗎？還沒？沒關係，快點開來看吧！" hide="- 看到我多可愛了嗎？還沒？沒關係，快點開來看吧！"]]
 [[div class="scp-image-block block-center"
 style="width:250px;"]]
-[[image https://live.staticflickr.com/65535/54729200926_614b089087_b.jpg]]
+[[image https://www.flickr.com/gp/203280834@N03/803C74Gr0X]]
 [[/div]]
 > 我超可愛！
 [[/collapsible]]
