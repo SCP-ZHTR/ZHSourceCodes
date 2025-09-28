@@ -92,7 +92,7 @@
 
 我能感覺到……一絲淡淡的微笑浮現於憔悴的面容。
 
-沉沒之感，永生難忘。
+沉沒[[footnote]] 原文sinking為洗手槽和沉沒的雙關 [[/footnote]]之感，永生難忘。
 
 掰掰，謝謝你們的餐點啦。
 
@@ -103,7 +103,7 @@
 [[include :scp-wiki:component:earthworm
 | first=false | last=false | hub=no
 | previous-url=http://scp-zh-tr.wikidot.com/scp-7639 | previous-title=SCP-7639
-| next-url=https://scp-wiki.wikidot.com/scp-7362 | next-title=SCP-7362
+| next-url=http://scp-zh-tr.wikidot.com/scp-7362 | next-title=SCP-7362
 | hub-url=/ | hub-title=THE APPLIANCE WAR
 ]]
 @@ @@
