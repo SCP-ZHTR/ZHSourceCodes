@@ -212,7 +212,7 @@ display:none;
 [http://scp-zh-tr.wikidot.com/scp-zh-890 距離3305.27公里：究竟涅槃]
 [[/div]]
       [[div class="zone"]] 
-[http://scp-zh-tr.wikidot.com/scp-zh-481 距離3040.02公里：【禁止觀測】]
+[http://scp-zh-tr.wikidot.com/scp-zh-481 距離3040.02公里：無菌地]
 [[/div]]
 [[/div]]
       [[div class="image-box reverse"]]
@@ -294,7 +294,7 @@ SCP-ZH-143因2024年6月1日發生於國道三號—斗六交流道路段異常�
 [[div style="border-left: 0.2rem solid; padding-left: 8px; margin-top: 12px; margin-bottom: 12px; color: #white; opacity: 0.8;"]]
 --Safe--,--Keter--,--TBD--,--Utmost--,離苦得樂
 [[/div]]
-* 距離3040.02公里：[[[scp-zh-481 |【禁止觀測】]]]##grey|（9/21）##
+* 距離3040.02公里：[[[scp-zh-481 |無菌地]]]##grey|（9/21）##
 [[div style="border-left: 0.2rem solid; padding-left: 8px; margin-top: 12px; margin-bottom: 12px; color: #white; opacity: 0.8;"]]
 由於不朔及既往原則，項目在1907年3月18日至1996年4月1日期間完全合法，非常抱歉。 
 [[/div]]
