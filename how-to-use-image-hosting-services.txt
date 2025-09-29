@@ -23,6 +23,7 @@
 ++ Imgur
 
 = ##red|**2025年更新：台灣因IP被封鎖無法從Imgur上載新圖片，但仍然可以看到舊有的圖片。如欲使用類似的圖床服務，請參閲[http://scp-zh-tr.wikidot.com/how-to-use-image-hosting-services#toc2 下面Postimage]的部分**##
+= ##red|**二更：由於兒童安全法，英國無法閲覽imgur的圖片**##
 @@ @@
 @@ @@
 雖然Imgur無需註冊就能使用，但你的圖片[https://help.imgur.com/hc/en-us/articles/14415587638029-Imgur-Terms-of-Service-Update 或有機會被視為「非活躍」而刪除]，因此還是推薦乖乖辦個帳戶。
