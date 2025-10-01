@@ -25,45 +25,48 @@
 [[include fragment:main-page-rss]]
 
 [[include fragment:new-front-page-features
-|scptitle=SCP-ZH-422 - 街談巷語
-|scpslug=scp-zh-422
-|scpby=[[user Mayaw Kacaw]] 
-|scpselector=[[user vomiter]] 
-|scpblurb=我一開始也以為是我瘋了。但我問了一圈，不只是同房間的，連同樓層的其他人都有聽到，所以我很確定不是我的問題。
+|scptitle=SCP-ZH-668 - 「廣內」
+|scpslug=scp-zh-668
+|scpby=[[user Fallen_Truth]] 
+|scpselector=[[user Kikunai]] 
+|scpblurb=SCP-ZH-668周遭250公尺的山林已由警戒線封鎖，並掛有告示牌以「地質脆弱易崩塌」為由導引民眾離開。
 
 
-|taletitle=山本研究員的ZH-922觀察日誌
-|taleslug=romiamiad-ni-cidal
-|taleby=[[user SamScript]] 
+|taletitle=謝幕的顏色
+|taleslug=color-of-take-a-bow
+|taleby=[[user Reverberate_a]] 
 |taleselector=[[user Kikunai]] 
-|taleblurb=十分之一個永恆之後，日本人眼神中的寧靜風暴止息下來，他的雙眸透露著疲累，而陽子幾乎已經知道他想要說甚麼。
+|taleblurb=畢竟美好的遠方，勢必伴隨著絕對的光亮。
 
+那裡，不會再有惡夢。
 
-|transtitle=SCP-8706 - 沒有天使的世界
-|transslug=scp-8706
+|transtitle=SCP-8513 - 不得釋放
+|transslug=scp-8513
 |transby=[[user Frederica Bernkastel]] 
-|transauthor=[[user Uncannyon]] 
-|transselector=[[user dr-v-valentine]] 
-|transblurb= 所有防止 SCP-8706-A實體自我傷害的嘗試──包括基金會的保護程序──都遭遇了接連的失敗。
+|transauthor=[[user J Dune]] 
+|transselector=[[user Frederica Bernkastel]] 
+|transblurb= 基金會沒有任何計畫能應付即將在明日復活的910億名人類，但我們相信他們中的絕大多數無法自己從墓裡逃出。
 
 
-|rstitle=項目企劃書 2025-36：《那就讓金魚活在果汁機裡吧！》
-|rsslug=project-proposal-2025-36-zh
-|rsby=[[user AbyssDream]] 
-|rsselector=[[user Frederica Bernkastel]] 
-|rsblurb=在那堂課程中，我沒有按下果汁機的開關。金魚保住了生命，卻失去了自己在這場表演中的意義。但要是我按下了開關，內臟與骨骼化為肉泥的金魚，大概會永遠留存在我的惡夢中吧。
+|rstitle=項目企劃書 2021-39：《踏入克蘇魯恐怖的世界》
+|rsslug=pot-of-greed-you-kids-love-yu-gi-oh-innit
+|rsby=[[user Adev Drafaski]] 
+|rsselector=[[user Dr V Valentine]] 
+|rsblurb=那是隻熊，這是無庸置疑的。
+
+它的臉，它的毛皮，它的四肢，它行走的方式，這跟記憶中的熊如出一轍。
 ]]
 
 [[include fragment:front-page-artist-showcase
-|artblurb=Control Z, IC 1623, Kikunai
+|artblurb=LuLu_Lucifelle, Hector-ZH-TR, Haru Ken
 
 [!-- SLIDESHOW IMAGE URLS. IF IT'S ONLY ONE IMAGE STICK IT IN ALL THREE--]
 
-|art1url= https://i.imgur.com/e77zuTM.jpg
+|art1url= https://i.imgur.com/5j0kcjg.png
 
-|art2url= https://i.imgur.com/A30ou19.png
+|art2url= https://i.imgur.com/YAW0JBm.png
 
-|art3url= https://i.imgur.com/Nj3xTwZ.png]]
+|art3url= https://i.imgur.com/hiKqGYg.jpg]]
 [[/div]]
 
 ~~~~

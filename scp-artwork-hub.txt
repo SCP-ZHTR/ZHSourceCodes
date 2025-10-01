@@ -37,15 +37,15 @@ text-align: justify;
 
 唯獨您**必須保證該創作由您原創**或是翻譯自其他分部的藝術創作，仿畫及轉載分享還請移動至[http://scp-zh-tr.wikidot.com/forum/c-6293973/ 同人藝術創作]或其他的[http://scp-zh-tr.wikidot.com/chat-guide#u-start 聊天平台]與大家討論。
 
-因應本站長久以來的圖像方針，除了部分僅由工作人員建立基礎的檔案外，我們並無開放使用站內的檔案上傳功能，如果您有圖片上傳的需求請使用外聯的[https://imgur.com/ 圖床網站]，再將圖片網址導回網站內部使用。
+因應本站長久以來的圖像方針，除了部分僅由工作人員建立基礎的檔案外，我們並無開放使用站內的檔案上傳功能，如果您有圖片上傳的需求請使用外聯的[https://postimages.org/ 圖床網站]，再將圖片網址導回網站內部使用。
 
-另外圖床方面我們推薦使用https://imgur.com/[https://imgur.com/ imgur]做為您上傳圖片所使用的網站。
+另外圖床方面我們推薦使用https://postimages.org/[https://postimages.org/ postimages]做為您上傳圖片所使用的網站。
 如果您有任何疑問會需要協助的部分歡迎您與[http://scp-zh-tr.wikidot.com/contact-staff 工作人員]聯繫。
 
 了解更多圖片使用的相關詳情請移至 [[[image-use-policy | 圖像使用政策]]]。
 
 * **[[[/scp-artwork-hub|藝術創作中心]]]**
-* **[https://imgur.com/ imgur]老牌免費的圖片空間網站**
+* **[https://postimages.org/ postimages]免費的圖片空間網站**
 
 
 
