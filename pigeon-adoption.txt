@@ -1,0 +1,136 @@
+[[include :scp-wiki:theme:bedrock]]
+[[include :scp-wiki:theme:skipos]]
+
+[[module css]]
+:root {
+    --desktop-wallpaper: url("https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Karlsruhe_Generallandesarchiv_2024-08-03_03.jpg/640px-Karlsruhe_Generallandesarchiv_2024-08-03_03.jpg");
+    --basalt-UI-opacity: 0.8;
+}
+#page-title{display:none}
+[[/module]]
+
+[[include info:start-standalone]]
+**發起者：** [[*user kikunai]]
+
+背景圖片為https://commons.wikimedia.org/wiki/File:Karlsruhe_Generallandesarchiv_2024-08-03_03.jpg，授權方式為CC BY-SA 4.0
+
+謝謝真紀的複製文
+[[include info:end]]
+
+[[div class="blockquote"]]
+同、同學好……您可以幫我寫稿嗎QvQ
+喔、喔……您、您不願意？那沒關係……
+（假笑
+沒關係的……我、我知道我是挖坑不填鴿子……我很抱歉……（眼淚滑過我的臉頰
+下、下個棄坑見……
+（邊哭邊跑離沙盒
+（等待被攔下
+（被DV撞到
+（淡笑著死去
+----
+相信各位在沙盒養着一堆鴿子的同學不樂見以上情況有朝一日發生在你的身上，但別慌張，因為鴿子保護協會^^？^^在此呈獻——
+[[/div]]
+----
+[[=]]
++* 🕊️挑戰活動 鴿子領養🕊️
+[[/=]]
+----
+[[f>toc]]
+++ 🕊️這是甚麼：
+* 本次長期挑戰活動旨在幫助大家將一直以來壓在箱底，充滿潛力的草稿重見天日，同時鼓勵繁中合著的風氣。
+* 這次接受文字類作品的原創草稿，如001、項目檔案、故事、GOI、流浪者圖書館、creepypasta、漫畫劇本也收喔。
+* 活動作品可以進行連動，在競賽及其他活動中投稿。
+* 限期為直到中心頁被遺忘為止。
+ 
+----
+ 
+++ 🕊️注意事項：
+* 這不是競賽。
+* 主辦方不太建議新手[[footnote]] 即未成功發表過一篇合格文章 [[/footnote]]參加。
+* ##darkorange|請一起開心寫作##，如果出現紛爭主辦方會傷心的。
+* ##darkorange|請一起開心寫作##。
+* 因為很重要所以要說三遍，##darkorange|請一起開心寫作##。
+
+@@ @@
+
+++++ 🕊️捐獻方：
+* 每位用戶可捐獻草稿數量不限。
+* 請在下方留言區使用以下格式填寫你希望捐獻，__不再發展__的草稿，若有多份草稿則##darkorange|分開##多個留言填寫。
+[[div class="blockquote"]]
+[[code]]
+**草稿連結：**
+**希望被領養方式（可選多項）：** 續寫/全權改寫/合寫
+**備註：**
+[[/code]]
+[[/div]]
+* 你可在備註欄或草稿內寫上草稿原先的大綱，打算發展的方向，以及卡手的地方。
+* 完成度不限——只要你比寫了「項目編號」跟「項目等級」八個字多就行[[footnote]] 打個比喻而已，請不要捐獻甚麼都沒有的草稿 [[/footnote]]
+* 注意，當你捐獻了草稿的時候，即同視為放棄你作為文章唯一作者的名銜——除非你所捐獻的草稿成功發表到網站前從未被領養，或是協作者跟你一起鴿。
+ 
+@@ @@
+ 
+++++ 🕊️領養方：
+* 每位用戶可領養的草稿數量不限，但請有##darkorange|自知之明##，不要領養過多的草稿。
+* 可多人同時領養一份草稿，但請領養方自行協調。
+* 請尊重原作者的意願。
+* 請在想領養的稿子下##darkorange|回覆##認領。
+* 主辦方鼓勵領養方多與捐獻方溝通合作。
+* 在完成一份領養的草稿後，請不要忘記加上##darkorange|原作者的用戶名稱##，以及「##darkorange|合著##」和「##darkorange|鴿子領養##」標籤。
+ 
+@@ @@
+ 
+----
+
+++ 🕊️留言區
+[[module comments]]
+
+----
+[[div class="content-panel standalone content-row"]]
+[[div class="content-type-title"]]
+++ 🕊️成果展示區
+[[/div]]
+
+[[div class="content-type-description-2"]]
+
+[[table style="width: 100%;"]]
+[[row style="font-weight: bold; color: #fff; background-color: #666;"]]
+[[cell style="padding: 0 2px; width: 50%;"]]
+頁面名稱
+[[/cell]]
+[[cell style="padding: 0 2px; width: 25%; text-align: center;"]]
+建立日期
+[[/cell]]
+[[cell style="padding: 0 2px; width: 20%; text-align: center;"]]
+創建者
+[[/cell]]
+[[cell style="padding: 0 2px; text-align: center;"]]
+評分
+[[/cell]]
+[[/row]]
+[[/table]]
+
+[[/div]]
+
+[[div class="content-type-description"]]
+
+[[module ListPages order="created_at desc" prependLine="[[include component:listpages-table]]" perPage="30" appendLine="[[/table]]" category="-fragment, -prime"  separate="false" tags="+鴿子領養 +原創 -中心" rss="Most Recently Translated"]]
+[[row]]
+[[cell style="vertical-align: top;"]]
+%%title_linked%%
+[[/cell]]
+[[cell style="vertical-align: top; text-align: justify;"]]
+%%created_at|%Y年%m月%d日 %H:%M|agohover%%
+[[/cell]]
+[[cell style="vertical-align: top; text-align: left;"]]
+%%created_by_linked%%
+[[/cell]]
+[[cell style="vertical-align: top; text-align: justify;"]]
+%%rating%%
+[[/cell]]
+[[/row]]
+[[/module]]
+[[/div]]
+[[/div]] 
+@@ @@
+@@ @@
+@@ @@
