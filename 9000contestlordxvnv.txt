@@ -370,7 +370,7 @@ E = mc^2 + AI
  後九萬代智人是SCP-9000諸時間線之內，人類在演化過程終結後的一個預期形態。雖然SCP-9000涵蓋無限深而且半徑持續擴大的時間錐，所有的後九萬代智人都具備以下經過證實或期望的特徵。
 
 * 經過遺傳工程，以追求"G"的最佳化。"G"是由SCP-9000-ΑΩ定義而成，以指稱「通用智能因子」。
-* [[span class="ruby"]]「先天機改」[[span class="rt"]]"Cybernetic native"[[/span]][[/span]]：後九萬代智人自出生起，即被裝設神經及骨骼肌系統的植入體，以為火星的低重力環境、與同種競爭的壓力、以及未預見的先天缺陷予以代償。終其一生，會經過進一步的強化，包括美容改造、[[span class="ruby"]]順性別肯認護理[[span class="rt"]]cisgender-affirming-care[[/span]][[/span]]（例如：鼻外觀整型手術、唇部填充、乳房植體、陰莖增長術等）。[[span class="ruby"]]「生物駭客」[[span class="rt"]]"Biohacking"[[/span]][[/span]]概念已被引申至納入「健康」的概念。 
+* [[span class="ruby"]]「先天機改」[[span class="rt"]]"Cybernetic native"[[/span]][[/span]]：後九萬代智人自出生起，即被裝設神經及骨骼肌系統的植入體，以為火星的低重力環境、與同種競爭的壓力、以及未預見的先天缺陷予以代償。終其一生，會經過進一步的強化，包括美容改造、[[span class="ruby"]]順性別肯認護理[[span class="rt"]]cisgender-affirming-care[[/span]][[/span]]（例如：鼻外觀整型手術、唇部填充、乳房植體、陰莖增長術等）。[[span class="ruby"]]「生物駭客」[[span class="rt"]]"Biohacking"[[/span]][[/span]]概念已被引申至納入「健康」的領域之內。 
 * 常駐連線：[[span class="ruby"]]「神經連結」[[span class="rt"]]"Neural Linkages"[[/span]][[/span]]將所有成員連接到「全銀河」（僅限火星境內）的模控網路，亦為允許成員即時通行可得資料的[[span class="ruby"]]「萬物」[[span class="rt"]]"Everything"[[/span]][[/span]]系統。情境證據指出該蜂巢式思維乃衍生自[已刪減]。一切關於該應用的資料皆反映SCP-9000-ΑΩ的個人觀點；
 * 粒線體及Y染色體標記指出，後九萬代智人發源自地球的人種世系以歐洲、東亞、印度次大陸為主；
 * 有限度的壽命延長（200年以上），惟其程度不及SCP-9000-ΑΩ（3000年以上）。
