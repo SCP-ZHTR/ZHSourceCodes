@@ -1,0 +1,5 @@
+url: 'SCP-1374-JP - 大団円'
+user: KnifeSalmon
+date-from: '1759593600'
+date-to: '1760803200'
+language: jp
