@@ -496,8 +496,20 @@ We love
 — [[*user Haru Ken]]
 [[/>]]
 [[/div]]
+
+[[div class="blockquote"]]
+我可以在這裡喊菊內嗎
++ kikunai
+[[>]]
+— [[*user ic_1623]]
+[[/>]]
+[[/div]]
+
+
 [[/tab]]
 [[/tabview]]
+
+
 
 
 @@ @@
