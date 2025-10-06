@@ -306,44 +306,53 @@ SCP-ZH-143因2024年6月1日發生於國道三號—斗六交流道路段異常�
 [[size 135%]][[span style="font-family: "Noto Serif TC", serif;"]] 星等 | MAGNITUDE[[/span]][[/size]]
 [[span style="font-family: "Noto Serif TC", serif;"]]//為耀眼的製圖者獻上宇宙的一隅。//[[/span]]
 [[/=]]
-
+@@ @@
+@@ @@
+@@ @@
 [[=]]
-++* 一等星
++* 一等星
 [[span style="font-family: "Noto Serif TC", serif;"]]//##gray| Sirius##//[[/span]]
-
+[[span style="font-family: "Noto Serif TC", serif;"]]距離現實9.90公里之星 [[*user NocturnalT]] [[/span]]
++* [[[scp-zh-881 |人去城留]]]
 [[span style="font-family: "Noto Serif TC", serif;"]]//瞧！那漆黑狼犬的鼻尖！//[[/span]]
 [[span style="font-family: "Noto Serif TC", serif;"]]//雙星相繞，災禍相倚。//[[/span]]
 [[/=]]
 @@ @@
 @@ @@
+@@ @@
 [[=]]
-++* 二等星
++* 二等星
 [[span style="font-family: "Noto Serif TC", serif;"]]//##gray| β Persei##//[[/span]]
-
+[[span style="font-family: "Noto Serif TC", serif;"]]距離現實21.87公里之星 [[*user AbyssDream]] [[/span]]
++* [[[scp-zh-906 |大都會系統]]]
 [[span style="font-family: "Noto Serif TC", serif;"]]//瞧！那戰士手握的頭顱！//[[/span]]
 [[span style="font-family: "Noto Serif TC", serif;"]]//惡魔之心，飄搖不定。//[[/span]]
 [[/=]]
 @@ @@
 @@ @@
+@@ @@
 [[=]]
-++* 三等星
++* 三等星
 [[span style="font-family: "Noto Serif TC", serif;"]]//##gray| β Cygni##//[[/span]]
-
+[[span style="font-family: "Noto Serif TC", serif;"]]距離現實3305.27公里之星 [[*user Reverberate_a]] [[/span]]
++* [[[scp-zh-890 |究竟涅槃]]]
 [[span style="font-family: "Noto Serif TC", serif;"]]//瞧！那深空天鵝的頭頂！//[[/span]]
 [[span style="font-family: "Noto Serif TC", serif;"]]//琥珀湖水，叼酌聯星。//[[/span]]
 [[/=]]
 @@ @@
 @@ @@
+@@ @@
 [[=]]
-++* 心宿二
++* 心宿二
 [[span style="font-family: "Noto Serif TC", serif;"]]//##gray| Antares##//[[/span]]
 
 [[span style="font-family: "Noto Serif TC", serif;"]]//招攬群星者[[footnote]] [[*user Frederica Bernkastel]] [[/footnote]]讚賞之作//[[/span]]
 [[/=]]
 @@ @@
 @@ @@
+@@ @@
 [[=]]
-++* 參宿二
++* 參宿二
 [[span style="font-family: "Noto Serif TC", serif;"]]//##gray| Alnilam##//[[/span]]
 
 [[span style="font-family: "Noto Serif TC", serif;"]]//蒐羅輿圖者[[footnote]] [[*user AbyssDream]] [[/footnote]]讚賞之作//[[/span]]
