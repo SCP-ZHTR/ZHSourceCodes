@@ -678,8 +678,8 @@ Fenton，你已經在Site-37工作許多年了，儘管你具備一定的資歷�
 @@ @@
 [[include :scp-zh-tr:component:earthworm
 | first=false | last=false | hub=no
-| previous-url=https://scp-wiki.wikidot.com/alight | previous-title=一燈
-| next-url= https://scp-wiki.wikidot.com/a-sinking-feeling | next-title=沉沒之感
+| previous-url=http://scp-zh-tr.wikidot.com/alight | previous-title=一燈
+| next-url= http://scp-zh-tr.wikidot.com/a-sinking-feeling | next-title=沉沒之感
 | hub-url=/ | hub-title=THE APPLIANCE WAR
 ]]
 @@ @@

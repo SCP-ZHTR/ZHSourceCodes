@@ -216,7 +216,7 @@ display:none;
 @@ @@
 [[include :scp-zh-tr:component:earthworm
 | first=false | last=false | hub=no
-| previous-url=http://scp-sandbox2-zh.wikidot.com/draft:4206567-u-mei7e6v3 | previous-title=沉沒之感
+| previous-url=http://scp-zh-tr.wikidot.com/a-sinking-feeling | previous-title=沉沒之感
 | next-url=/ | next-title=???
 | hub-url=/ | hub-title=THE APPLIANCE WAR
 ]]
