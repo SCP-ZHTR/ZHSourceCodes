@@ -12,10 +12,10 @@
 |page=component:info-ayers
 |authorPage= https://scp-wiki.wikidot.com/trouts-authorpage
 |comments=
-> 2 + 2 has been 4 for 二加二等於四已經好多年
-> So many darn years, oh lord 喔上帝，這還真是令人討厭
-> I wanna write a song 我想要為一首歌作譜
-> [*https://youtu.be/V0HCZ4YGqbw Oh, baby is that so wrong? 喔寶貝，難道這也錯得離譜？]
+> 2 + 2 has been 4 for （二加二等於四已經好多年）
+> So many darn years, oh lord （喔上帝，這還真是令人討厭）
+> I wanna write a song （我想要為一首歌作譜）
+> [*https://youtu.be/V0HCZ4YGqbw Oh, baby is that so wrong?（喔寶貝，難道這也錯得離譜？）]   
 ( La de da de da de da de day oh - Bill Wurtz )
 
 SCP-7362 - A Fatal Miscalculation]]
@@ -93,7 +93,9 @@ vertical-align: top; position: relative; top: -0.5em;
 ]]
 
 [[module CSS]]
-:root {
+:root:lang(zh){
+    --header-title: "基金會 SITE-37";
+    --header-subtitle: "我們有麻煩了";
     --one-color: 181, 99, 7;
     --four-color: 181, 99, 7;
     --five-color: 181, 99, 7;
