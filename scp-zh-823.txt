@@ -549,7 +549,7 @@ display:none;
 }
 [[/module]]
 
-[[=image https://scp-wiki.wdfiles.com/local--files/scp-7549/recurrent_triangle.png style="width: 10rem; opacity: 70%;" link="https://scp-zh-tr.wikidot.com/deleted"]]
+[[=image https://scp-wiki.wdfiles.com/local--files/scp-6768/deletion.png style="width: 10rem; opacity: 70%;" link="https://scp-zh-tr.wikidot.com/deleted"]]
 
 [[=]]
 ++* [[span class="bt"]]本檔案正文已標為削除[[/span]]

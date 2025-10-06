@@ -1,0 +1,1762 @@
+[[include :scp-zh-tr:component:scp-meta-title-hiding]]
+[[include :scp-zh-tr:component:credit-top-sp |special=1st]]
+**原著：** ©︎[[*user WagnasCousin]], [[*user FeS_ryuukatetu]], [[*user furabbit]]
+**原著年：** 2020
+**譯者：** [[*user KnifeSalmon]]
+**原題：** SCP-2000-JP - 伝書使
+**譯題：** SCP-2000-JP - 信使
+**原文：** http://scp-jp.wikidot.com/scp-2000-jp
+
+**感謝**
+**校對：[[*user feitag]]**
+**技術支援：[[*user Kikunai]]、[[*user Edward_Knave]]**
+[[include :scp-zh-tr:credit:otherwise]]
+[[div class="contest"]]
+[*http://scp-jp.wikidot.com/scp2000jp-contest-hub SCP-2000-JP競賽]
+[[span]]優勝[[/span]]
+[[/div]]
+[[include :scp-zh-tr:credit:end]]
+
+[[module ListPages offset="@URL|0" range="."]]
+%%content{2}%%
+[[/module]]
+[[module ListPages limit="@URL|0" range="." urlAttrPrefix="page2"]]
+%%content{3}%%
+[[/module]]
+[[module ListPages limit="@URL|0" range="." urlAttrPrefix="page3"]]
+%%content{4}%%
+[[/module]]
+[!--
+====
+[[div id="u-back" style="display: none;"]]
+[[/div]]
+[[div id="u-close" style="display: none;"]]
+[[/div]]
+[[div id="u-end" style="display: none;"]]
+[[/div]]
+
+[[include :shitake-crude-production:extension:modal-s
+|id=u-shut]]
+[[div class="content"]]
+[[div class="title"]]
+與SCiP.net的連線已中斷。
+[[/div]]
+[[/div]]
+[[div style="text-align: center; padding: 5px;"]]
+[http://scp-zh-tr.wikidot.com/scp-2000-jp/offset/1/page3_limit/1 關閉]
+[[/div]]
+[[include :shitake-crude-production:extension:modal-e]]
+
+[[module css]]
+.dog,
+#u-end:target ~div .window,
+#u-shut-popup:target ~div .window{
+display: none;
+}
+#u-end:target  ~div .dog,
+#u-shut-popup:target  ~div .dog{
+display: inline;
+}
+
+.img-top{
+width: 324px;
+pointer-events: none;
+float: right;
+margin: 0 2em 1em 2em;
+}
+
+@media (max-width: 979px) {
+.img-top{
+float: none;
+clear: both;
+margin-left: auto;
+margin-right: auto;
+}
+}
+[[/module]]
+
+[[div class="img-top"]]
+[[image https://i.postimg.cc/VvvVZrTr/waku.png class="window"]][[image https://i.postimg.cc/QMZvNMBw/dog.png class="dog"]]
+[[/div]]
+
+**項目編號：** SCP-2000-JP
+
+**項目等級：** Thaumiel
+
+**特殊收容措施：** SCP-2000-JP目前未被收容。SCP-2000-JP會在「巢穴」有動靜時返回「巢穴」。當透過輸入裝置與SCP-2000-JP互動時、其會於「巢穴」內停留一段時間，此時請將含有「巢穴」的伺服器從物理上與網路隔絕。
+
+**描述：** SCP-2000-JP是在電腦/網路上活動的資訊智慧體。具有家犬(//Canis lupus familiaris//)的角色形象圖與配合文字輸入框的圖形使用者介面(GUI)，能夠透過標準日語、英語與多種檔案格式進行溝通與輸入、輸出檔案。SCP-2000-JP對人類使用者表現出極為友好的態度，喜歡對話與接受工作指示。在對其進行的韋克斯勒＝奈爾森式泛用智力測驗中表現出接近人類兒童5歲時平均值的思考能力。
+
+SCP-2000-JP在面對電腦/網路安全措施帶來的行動阻礙時，具有透過「挖洞」來突破安全漏洞的能力。「挖洞」完成所需的時間隨安全措施的嚴密程度以比例增加。此時產生的安全漏洞會在GUI上以由無意義文字集合而成的連結呈現，使用者可以透過點擊連結等操作來追蹤SCP-2000-JP的存取路徑。SCP-2000-JP能在自身所在的電腦/網路領域中自由移動，其以對自身最重要之資訊的所在領域作為「巢穴」，並具有在巢穴中保存其從外領域帶回來之資訊的習性。但是SCP-2000-JP在存取資訊時常常會「咬壞」資訊並使資訊內容毀損、因此其收集的資訊與對指示的執行缺乏可靠性。在測試實驗中，指示內容、語意等語言型資訊有較高機率保持完整，而數量、時間戳記、「巢穴」以外的資源位址等數值或數據型資訊則會非常頻繁地發生毀損。
+
+[[module css]]
+.dog,
+#u-end:target ~div .window,
+#u-shut-popup:target ~div .window{
+display:none;
+}
+#u-end:target  ~* .hole{
+pointer-events: none;
+}
+[[/module]]
+
+[[=image https://i.postimg.cc/65SDScB9/ana-in.png link="http://scp-zh-tr.wikidot.com/scp-2000-jp/offset/1/page2_limit/1" class="hole"]]
+
+[[module css]]
+#u-letter-popup .u-letter-modalcontainer{
+top: -100px;
+width: 450px;
+height: 250px;
+max-width: 90%;
+max-height: 80%;
+}
+
+#u-shut-popup .u-shut-modalcontainer{
+width: 300px;
+height: 50px;
+max-width: 70%;
+}
+
+#u-shut-popup .u-shut-modalcontainer .modaltable .modalbox .title{
+width: auto;
+}
+
+#u-letter-popup
+.modaltable .modalbox{
+width: 100%;
+}
+
+#u-letter-popup
+.modaltable .modalbox .content{
+padding: calc(4px + 1em);
+}
+
+#u-letter-popup
+.modaltable .modalbox .content p{
+margin-bottom: 0.5em;
+}
+
+#u-letter-popup
+.modaltable .modalbox hr{
+margin: 0 2em;
+}
+
+#u-shut-popup .modaltable .modalbox{
+min-height: auto;
+}
+
+#u-letter-popup .fader,
+#u-shut-popup .fader{
+pointer-events: none;
+}
+[[/module]]
+
+[[include :shitake-crude-production:extension:modal-s
+|id=u-letter]]
+[[div class="content"]]
+如果你正在讀這封訊息、那麼你一定是基金會的新員工吧。而你應該也已經能理解我們遭遇了什麼事。
+
+就如同我們失敗的經歷、這世界總會因為某些細微的契機而全盤崩潰。人類的歷史就是如此不斷重複過來的。你可能會感覺就像這世界注定要充斥荒唐與不可能的事情一樣。但、我們人類仍然鍥而不捨地跨過了每一次崩潰，而你們現在正站在那前線上。你千萬不要忘記這點。
+
+接下來你們將會面對──不論是全新出現的、或是基金會以前沒能處理好的，各式各樣的異常事物吧。你眼前的這個異常就是我沒能完成的工作之一。請依照報告書的指示，控制、收容──並好好保護它。
+[[/div]]
+----
+[[div style="text-align: center; margin: 1em;"]]
+[#u-close 關閉]
+[[/div]]
+[[include :shitake-crude-production:extension:modal-e]]
+
+[[module css]]
+.inuarea{
+display:none;
+}
+#u-back:target  ~.inuarea,
+#u-letter-popup:target  ~.inuarea,
+#u-close:target  ~.inuarea{
+display:block;
+}
+.inuarea > p{
+margin: 0;
+height: 100%;
+}
+iframe.html-block-iframe{
+height: 100% !important;
+pointer-events: auto;
+}
+[[/module]]
+[[div class="inuarea" style="position: fixed; left: 0; bottom: 0; width: 100vw; height: 70vh; pointer-events: none;"]]
+[[html]]
+
+<style type="text/css">
+@import url(http://scp-jp.wdfiles.com/local--files/japanese-syntax/scp-WikidotCss.css);
+
+body *{
+pointer-events: none;
+}
+
+img{
+position:absolute;
+bottom: 0;
+left: 0;
+right: 0;
+margin: 0 auto;
+max-height: 100vh;
+pointer-events: auto;
+}
+
+.remove{
+display: none;
+}
+
+.up{
+animation: upmove 1.7s cubic-bezier(0.965,1,0.965,1) 1s 1 both;
+}
+
+@keyframes upmove{
+0%{top: 100vh;}
+9%{top: 55vh;}
+84%{top: 55vh;}
+87%{top: 60vh;}
+93%{top: 5vh;}
+96.5%{top: 0;}
+100%{top: 5vh;}
+}
+
+.down{
+animation: downmove 0.5s cubic-bezier(0.2,0,0.2,0) 0s 1 both;
+}
+
+@keyframes downmove{
+0%{top: 5vh;}
+15%{top: 0;}
+30%{top: 5vh;}
+100%{top: 100vh;}
+}
+
+.down img{
+pointer-events: none;
+}
+</style>
+
+<script type="text/javascript" src="http://scp-jp.wdfiles.com/local--files/japanese-syntax/scpHTMLblockCtrl_ver1_ex.js"></script>
+
+<div id="area" class="up" style="position:relative; height: 100vh; top: 5vh;">
+<a href="javascript:remotePop1()">
+<img src="https://i.postimg.cc/zBJMWPFk/inu-mail.png" alt="開啟信件" id="inu1" class="">
+</a>
+<a href="javascript:remotePop2()">
+<img src="https://i.postimg.cc/8Cd97VM5/inu_close.png" alt="摸摸它" id="inu2" class="remove">
+</a>
+<img src="https://i.postimg.cc/0Qc4Cdt1/inu_smile.png" id="inu3" class="remove">
+</div>
+
+<script type="text/javascript">
+function remotePop1(){
+document.getElementById("inu1").classList.add("remove");
+document.getElementById("inu2").classList.remove("remove");
+window.parent.window.location.href="http://scp-zh-tr.wikidot.com/scp-2000-jp#u-letter-popup";
+}
+function remotePop2(){
+document.getElementById("inu2").classList.add("remove");
+document.getElementById("inu3").classList.remove("remove");
+setTimeout(function(){
+document.getElementById("inu3").classList.add("remove");
+document.getElementById("inu2").classList.remove("remove");
+document.getElementById("area").classList.add("down");
+setTimeout(function(){
+window.parent.window.location.href="http://scp-zh-tr.wikidot.com/scp-2000-jp#u-end";
+setTimeout(function(){
+window.parent.window.location.href="http://scp-zh-tr.wikidot.com/scp-2000-jp#u-shut-popup";},4000);
+},1500);
+}, 1000);
+}
+</script>
+[[/html]]
+[[/div]]
+====
+[[module CSS]]
+div#container-wrap{
+background: url(https://i.postimg.cc/rsZvqCWN/black.png) top left repeat-x;
+background-size:100px;
+}
+#html-body{
+background-color:#000;
+color:#FFF;
+}
+.scp-image-caption{
+color:#333;
+}
+.hovertip .content{
+color:#333;
+}
+
+:root{
+--mecolor: #B0C4DE;
+--youcolor: #FFFFFF;
+}
+
+#page-content .me{
+position: relative;
+float: right;
+width: 75%;
+max-width: 450px;
+margin-bottom: 8px;
+padding-right: 12px;
+text-align: right;
+white-space: nowrap;
+}
+
+#page-content .metalk{
+background: var(--mecolor);
+}
+
+#page-content .you{
+display: inline-block;
+position: relative;
+width: 75%;
+max-width: 450px;
+margin-bottom: 8px;
+padding-left: 12px;
+text-align: left;
+white-space: nowrap;
+vertical-align: top;
+}
+
+#page-content .youtalk{
+background: var(--youcolor);
+}
+
+#page-content .talk{
+display: inline-block;
+max-width: 75%;
+white-space: normal;
+color: #000000;
+text-align: left;
+padding: 6px 11px;
+vertical-align: bottom;
+}
+
+.talk p{
+margin: 0;
+}
+
+.me::after{
+content: "";
+right: -18px;
+position: absolute;
+transform: rotate(-30deg);
+height: 0;
+width: 0;
+border-top: 5px solid transparent;
+border-bottom: 5px solid transparent;
+border-right: 20px solid transparent;
+border-left: 20px solid var(--mecolor);
+}
+
+.you::before{
+content: "";
+left: -18px;
+position: absolute;
+transform: rotate(30deg);
+height: 0;
+width: 0;
+border-top: 5px solid transparent;
+border-bottom: 5px solid transparent;
+border-right: 20px solid var(--youcolor);
+border-left: 20px solid transparent;
+}
+
+#page-content .area{
+height:500px;
+width:330px;
+position: absolute;
+max-width: none;
+font-family: Meiryo,メイリオ,ariel,sans-serif;
+}
+
+#page-content .mail{
+color: #333333;
+max-width:700px;
+min-width:300px;
+width:60vw;
+position: absolute;
+}
+
+.top{
+width:100%;
+height: 50px;
+color: #FFFFFF;
+background-color: #4682B4;
+border-collapse:collapse;
+font-size: 150%;
+}
+
+.chat{
+background-color: #DDDDDD;
+padding-top: 10px;
+height: 400px;
+overflow-x: hidden;
+overflow-y: scroll;
+}
+
+.bottom{
+width:100%;
+height: 50px;
+color: #333333;
+background-color: #FFFFFF;
+border-collapse:collapse;
+border: solid 1px;
+font-size: 180%;"
+}
+
+.hole{
+position: relative;
+overflow: hidden;
+}
+
+.hole img{
+position: absolute;
+z-index: 5;
+}
+
+#u-open0:target ~.hole0{
+overflow: visible;
+z-index: 6;
+}
+
+#u-open0:target ~.hole0 img{
+display: none;
+}
+
+#u-open1:target ~.hole1{
+overflow: visible;
+z-index: 6;
+}
+
+#u-open1:target ~.hole1 img{
+display: none;
+}
+
+#u-open2:target ~.hole2{
+overflow: visible;
+z-index: 6;
+}
+
+#u-open2:target ~.hole2 img{
+display: none;
+}
+
+#u-open3:target ~.hole3{
+overflow: visible;
+z-index: 6;
+}
+
+#u-open3:target ~.hole3 img{
+display: none;
+}
+
+#u-open4:target ~.hole4{
+overflow: visible;
+z-index: 6;
+}
+
+#u-open4:target ~.hole4 img{
+display: none;
+}
+#u-open5:target ~.hole5{
+overflow: visible;
+z-index: 6;
+}
+
+#u-open5:target ~.hole5 img{
+display: none;
+}
+
+#u-open6:target ~.hole6{
+overflow: visible;
+z-index: 6;
+}
+
+#u-open6:target ~.hole6 img{
+display: none;
+}
+#u-open7:target ~.hole7{
+overflow: visible;
+z-index: 6;
+}
+
+#u-open7:target ~.hole7 img{
+display: none;
+}
+
+#u-open8:target ~.hole8{
+overflow: visible;
+z-index: 6;
+}
+
+#u-open8:target ~.hole8 img{
+display: none;
+}
+
+#u-open9:target ~.hole9{
+overflow: visible;
+z-index: 6;
+}
+
+#u-open9:target ~.hole9 img{
+display: none;
+}
+
+#u-open10:target ~.hole10{
+overflow: visible;
+z-index: 6;
+}
+
+#u-open10:target ~.hole10 img{
+display: none;
+}
+
+[[/module]]
+
+[[div id="u-back" style="display:none;"]]
+[[/div]]
+[[div id="u-open0" style="display:none;"]]
+[[/div]]
+[[div id="u-open1" style="display:none;"]]
+[[/div]]
+[[div id="u-open2" style="display:none;"]]
+[[/div]]
+[[div id="u-open3" style="display:none;"]]
+[[/div]]
+[[div id="u-open4" style="display:none;"]]
+[[/div]]
+[[div id="u-open5" style="display:none;"]]
+[[/div]]
+[[div id="u-open6" style="display:none;"]]
+[[/div]]
+[[div id="u-open7" style="display:none;"]]
+[[/div]]
+[[div id="u-open8" style="display:none;"]]
+[[/div]]
+[[div id="u-open9" style="display:none;"]]
+[[/div]]
+[[div id="u-open10" style="display:none;"]]
+[[/div]]
+
+
+[[div class="hole hole0" style="height:200px; width:200px;right: calc(-100%  + 300px)"]]
+[[image https://i.postimg.cc/T2k8jGS5/ana-clear.png link="http://scp-zh-tr.wikidot.com/scp-2000-jp/offset/1/page2_limit/1#u-open0"]]
+[[div class="mail" style="right: -100px;"]]
+>> 五條研究員
+>> 初次見面、我是大約↑天以前在這個Area收集「SCP-■縺ｫ帙s」的情報的人。我叫Clef。你的報告書我已經讀過了。
+>> 就如你的報告所寫、「Site-縺斐↓」的模因疫苗武器開發很可能已經接近完成。現在調查Site內部是最重要的事項。但我不得不拒絕你希望能派技術員解除「Site-縺斐↓」設施廢棄協議的請求。
+>> 
+>> 會這樣說是因為我這裡也已經跟「Site-縺斐↓」的狀況差不多了。在我抵達這個Area時、基金會員工早就已經全滅。也就是說、這裡已經沒有員工派得出去。如果你需要的話可以從「Site-縺斐↓」的Anomalous收容單元取出異常物件來應對。我知道現在時間與人力都很吃緊、但目前得靠你自己想辦法。
+> [[=]]
+> [#u-back 關閉]
+> [[/=]]
+[[/div]]
+[[/div]]
+
+[[div class="hole hole1" style="height:150px; width:150px;"]]
+[[image https://i.postimg.cc/T2k8jGS5/ana-clear.png link="http://scp-zh-tr.wikidot.com/scp-2000-jp/offset/1/page2_limit/1#u-open1"]]
+[[div class="mail"]]
+>> 看來你還沒搞清楚狀況。也難怪，畢竟你被關在隔離區域那麼久了。
+>> 關於你想跟其他據點聯絡這件事、現在癱瘓的不只是這個Area而已。基金會對「[[[http://scp-zh-tr.wikidot.com/scp-3519|SCP-輔s縺阪]]]」的控制失敗了。現在指揮體系已經完全崩潰、其他據點也不再回傳情報。最好不要期待會有人現身救你。現在早已經不是可以畏首畏尾的時候了。
+>> 
+>> 我目前打算盡可能拚到最後一刻。否則這樣下去我可沒臉見祖先。
+>> 你呢？
+> [[=]]
+> [#u-back 關閉]
+> [[/=]]
+[[/div]]
+[[/div]]
+
+
+[[div class="hole hole2" style="height:250px; width:250px; right: calc(-100% + 250px)"]]
+[[image https://i.postimg.cc/T2k8jGS5/ana-clear.png link="http://scp-zh-tr.wikidot.com/scp-2000-jp/offset/1/page2_limit/1#u-open2"]]
+[[div class="area" style="right: 0;"]]
+[[table class="top"]]
+[[row]]
+[[cell style="width: 10%; text-align: center;"]]
+@<&nbsp;>@
+[[/cell]]
+[[cell style="width: 10%;"]]
+@<&nbsp;>@
+[[/cell]]
+[[cell style="text-align: center;"]]
+莠悟鴻蜊/梧怦/莠牙
+[[/cell]]
+[[cell style="width: 10%; text-align: center;"]]
+@<&nbsp;>@
+[[/cell]]
+[[cell style="width: 10%; text-align: center;"]]
+[[a href="http://scp-zh-tr.wikidot.com/scp-2000-jp/offset/1/page2_limit/1#u-back"]][[span class="fa fa-times fa-2x"]]@<&nbsp;>@[[/span]][[/a]]
+[[/cell]]
+[[/row]]
+[[/table]]
+
+[[div class="chat"]]
+[[div class="you"]]
+[[div class="talk youtalk"]]
+如果你能到我指定的目的地執行程式就算訓練成功了。
+[[/div]]
+[[/div]]
+[[div style="clear: both;"]]
+[[/div]]
+
+[[div class="you"]]
+[[div class="talk youtalk"]]
+首先先去「蜿ｳ髫｣縺ｮ」吧。除此之外的路線都很危險、絕對不能走哦。「AO-蝗幃峺」、你做得到嗎？
+[[/div]]
+[[/div]]
+[[div style="clear: both;"]]
+[[/div]]
+
+[[div class="me"]]
+[[div class="talk metalk"]]
+嗯！我懂了！
+[[/div]]
+[[/div]]
+[[div style="clear: both;"]]
+[[/div]]
+
+[[div class="me"]]
+[[div class="talk metalk"]]
+我不知道怎麼走……
+[[/div]]
+[[/div]]
+[[div style="clear: both;"]]
+[[/div]]
+
+[[div class="you"]]
+[[div class="talk youtalk"]]
+是「蜿ｳ髫｣縺ｮ」哦。需要我再說得詳細一點嗎？
+[[/div]]
+[[/div]]
+[[div style="clear: both;"]]
+[[/div]]
+
+[[div class="me"]]
+[[div class="talk metalk"]]
+沒關係！我記住了！
+[[/div]]
+[[/div]]
+[[div style="clear: both;"]]
+[[/div]]
+
+[[div class="me"]]
+[[div class="talk metalk"]]
+我迷路了……。
+[[/div]]
+[[/div]]
+[[div style="clear: both;"]]
+[[/div]]
+
+[[div class="you"]]
+[[div class="talk youtalk"]]
+是「蜿ｳ髫｣縺ｮ」。知道嗎？
+[[/div]]
+[[/div]]
+[[div style="clear: both;"]]
+[[/div]]
+
+[[div class="me"]]
+[[div class="talk metalk"]]
+嗯！沒問題！
+[[/div]]
+[[/div]]
+[[div style="clear: both;"]]
+[[/div]]
+
+[[div class="me"]]
+[[div class="talk metalk"]]
+是哪裡去了……。
+[[/div]]
+[[/div]]
+[[div style="clear: both;"]]
+[[/div]]
+[[/div]]
+
+[[table class="bottom"]]
+[[row]]
+[[cell style="width: 2%; text-align: center;"]]
+@<&nbsp;>@
+[[/cell]]
+[[cell style="width: 10%; text-align: center;"]]
+[[span class="fa fa-image"]]@<&nbsp;>@[[/span]]
+[[/cell]]
+[[cell style="width: 10%; text-align: center;"]]
+[[span class="fa fa-microphone"]]@<&nbsp;>@[[/span]]
+[[/cell]]
+[[cell style="text-align: center;"]]
+[[div class="talk" style="background-color: #EEEEEE; width: 85%; max-width: none; font-size: medium;"]]
+[[div style="float: right; display: inline-block; color: #303060;"]]
+‪‪[[span class="fa fa-user-circle"]]@<&nbsp;>@[[/span]]
+[[/div]]
+[[div style="display: inline-block; color: #BBBBBB;"]]
+Aa
+[[/div]]
+[[/div]]
+[[/cell]]
+[[/row]]
+[[/table]]
+[[/div]]
+[[/div]]
+
+
+[[div class="hole hole3" style="height:100px; width:100px; left:20vw"]]
+[[image https://i.postimg.cc/T2k8jGS5/ana-clear.png link="http://scp-zh-tr.wikidot.com/scp-2000-jp/offset/1/page2_limit/1#u-open3"]]
+[[div class="mail" style="left: -20vw"]]
+>> 幸好你搞懂狀況了。我接下來會親自前往「SCP-■縺ｫ帙s」的管理設施。能知道除了自己以外還有其他人在拼命，已經是萬幸了。如果成功了我們再聯絡。
+>> 
+>> 祝好運。
+> [[=]]
+> [#u-back 關閉]
+> [[/=]]
+[[/div]]
+[[/div]]
+
+
+
+[[div class="hole hole4" style="height:200px; width:200px;"]]
+[[image https://i.postimg.cc/T2k8jGS5/ana-clear.png link="http://scp-zh-tr.wikidot.com/scp-2000-jp/offset/1/page2_limit/1#u-open4"]]
+[[div class="area" style="top: -200px;"]]
+[[table class="top"]]
+[[row]]
+[[cell style="width: 10%; text-align: center;"]]
+@<&nbsp;>@
+[[/cell]]
+[[cell style="width: 10%;"]]
+@<&nbsp;>@
+[[/cell]]
+[[cell style="text-align: center;"]]
+莠悟鴻蜊/梧怦/香譌
+[[/cell]]
+[[cell style="width: 10%; text-align: center;"]]
+@<&nbsp;>@
+[[/cell]]
+[[cell style="width: 10%; text-align: center;"]]
+[[a href="http://scp-zh-tr.wikidot.com/scp-2000-jp/offset/1/page2_limit/1#u-back"]][[span class="fa fa-times fa-2x"]]@<&nbsp;>@[[/span]][[/a]]
+[[/cell]]
+[[/row]]
+[[/table]]
+
+[[div class="chat"]]
+[[div class="you"]]
+[[div class="talk youtalk"]]
+「AO-蝗幃峺」，沒時間了。從巢穴裡出來吧。
+[[/div]]
+[[/div]]
+[[div style="clear: both;"]]
+[[/div]]
+
+[[div class="me"]]
+[[div class="talk metalk"]]
+不要。
+[[/div]]
+[[/div]]
+[[div style="clear: both;"]]
+[[/div]]
+
+[[div class="you"]]
+[[div class="talk youtalk"]]
+來嘛、讓我摸摸你。
+[[/div]]
+[[/div]]
+[[div style="clear: both;"]]
+[[/div]]
+
+[[div class="me"]]
+[[div class="talk metalk"]]
+嗯……。
+[[/div]]
+[[/div]]
+[[div style="clear: both;"]]
+[[/div]]
+
+[[div class="you"]]
+[[div class="talk youtalk"]]
+好乖好乖。
+[[/div]]
+[[/div]]
+[[div style="clear: both;"]]
+[[/div]]
+
+[[div class="you"]]
+[[div class="talk youtalk"]]
+怎麼了？不想要訓練了嗎？
+[[/div]]
+[[/div]]
+[[div style="clear: both;"]]
+[[/div]]
+
+[[div class="me"]]
+[[div class="talk metalk"]]
+嗯。
+[[/div]]
+[[/div]]
+[[div style="clear: both;"]]
+[[/div]]
+
+[[div class="me"]]
+[[div class="talk metalk"]]
+我每次都會馬上忘記、不想試了。
+[[/div]]
+[[/div]]
+[[div style="clear: both;"]]
+[[/div]]
+
+[[div class="you"]]
+[[div class="talk youtalk"]]
+氣餒了啊……。如果我給你獎勵的話還會想試試看嗎？什麼獎勵都可以哦。
+[[/div]]
+[[/div]]
+[[div style="clear: both;"]]
+[[/div]]
+
+[[div class="me"]]
+[[div class="talk metalk"]]
+那，我想要一個新名字。特別的名字。
+[[/div]]
+[[/div]]
+[[div style="clear: both;"]]
+[[/div]]
+
+[[div class="you"]]
+[[div class="talk youtalk"]]
+「AO-蝗幃峺」以外的名字就可以了嗎？如果成功的話想要多特別的名字都可以哦。
+[[/div]]
+[[/div]]
+[[div style="clear: both;"]]
+[[/div]]
+
+[[div class="me"]]
+[[div class="talk metalk"]]
+真的嗎？那我想要SCP什麼什麼的那個名字。有數字的那種。
+[[/div]]
+[[/div]]
+[[div style="clear: both;"]]
+[[/div]]
+
+[[div class="you"]]
+[[div class="talk youtalk"]]
+的確是特別的名字啦……。
+[[/div]]
+[[/div]]
+[[div style="clear: both;"]]
+[[/div]]
+
+[[div class="you"]]
+[[div class="talk youtalk"]]
+等我一下哦、那個的話……。
+[[/div]]
+[[/div]]
+[[div style="clear: both;"]]
+[[/div]]
+
+[[div class="me"]]
+[[div class="talk metalk"]]
+不行嗎？
+[[/div]]
+[[/div]]
+[[div style="clear: both;"]]
+[[/div]]
+
+[[div class="you"]]
+[[div class="talk youtalk"]]
+沒有……嗯、可以的。成功的話我來想辦法。
+[[/div]]
+[[/div]]
+[[div style="clear: both;"]]
+[[/div]]
+
+[[div class="me"]]
+[[div class="talk metalk"]]
+好耶！
+[[/div]]
+[[/div]]
+[[div style="clear: both;"]]
+[[/div]]
+[[/div]]
+
+[[table class="bottom"]]
+[[row]]
+[[cell style="width: 2%; text-align: center;"]]
+@<&nbsp;>@
+[[/cell]]
+[[cell style="width: 10%; text-align: center;"]]
+[[span class="fa fa-image"]]@<&nbsp;>@[[/span]]
+[[/cell]]
+[[cell style="width: 10%; text-align: center;"]]
+[[span class="fa fa-microphone"]]@<&nbsp;>@[[/span]]
+[[/cell]]
+[[cell style="text-align: center;"]]
+[[div class="talk" style="background-color: #EEEEEE; width: 85%; max-width: none; font-size: medium;"]]
+[[div style="float: right; display: inline-block; color: #303060;"]]
+‪‪[[span class="fa fa-user-circle"]]@<&nbsp;>@[[/span]]
+[[/div]]
+[[div style="display: inline-block; color: #BBBBBB;"]]
+Aa
+[[/div]]
+[[/div]]
+[[/cell]]
+[[/row]]
+[[/table]]
+[[/div]]
+[[/div]]
+
+
+[[div class="hole hole5" style="height:80px; width:80px; right: calc(-50% + 40px);"]]
+[[image https://i.postimg.cc/T2k8jGS5/ana-clear.png link="http://scp-zh-tr.wikidot.com/scp-2000-jp/offset/1/page2_limit/1#u-open5"]]
+[[div class="mail" style="right:-150px;"]]
+> [[=]]
+>> ++++ RAISA告知
+>> 此郵件中檢測到「SCP-輔s縺阪」、禁止檢閱。
+>> 詳細資訊請洽負責人。
+> [#u-back 關閉]
+> [[/=]]
+[[/div]]
+[[/div]]
+
+
+
+[[div class="hole hole6" style="height:150px; width:150px;"]]
+[[image https://i.postimg.cc/T2k8jGS5/ana-clear.png link="http://scp-zh-tr.wikidot.com/scp-2000-jp/offset/1/page2_limit/1#u-open6"]]
+[[div class="area" style="top:-50px;"]]
+[[table class="top"]]
+[[row]]
+[[cell style="width: 10%; text-align: center;"]]
+@<&nbsp;>@
+[[/cell]]
+[[cell style="width: 10%;"]]
+@<&nbsp;>@
+[[/cell]]
+[[cell style="text-align: center;"]]
+莠悟鴻蜊/∽ｹ/荳ｴ
+[[/cell]]
+[[cell style="width: 10%; text-align: center;"]]
+@<&nbsp;>@
+[[/cell]]
+[[cell style="width: 10%; text-align: center;"]]
+[[a href="http://scp-zh-tr.wikidot.com/scp-2000-jp/offset/1/page2_limit/1#u-back"]][[span class="fa fa-times fa-2x"]]@<&nbsp;>@[[/span]][[/a]]
+[[/cell]]
+[[/row]]
+[[/table]]
+
+[[div class="chat"]]
+[[div class="me"]]
+[[div class="talk metalk"]]
+五條先生、今天沒有要訓練嗎？
+[[/div]]
+[[/div]]
+[[div style="clear: both;"]]
+[[/div]]
+
+[[div class="you"]]
+[[div class="talk youtalk"]]
+嗯。你到目前為止都很努力呢。
+[[/div]]
+[[/div]]
+[[div style="clear: both;"]]
+[[/div]]
+
+[[div class="me"]]
+[[div class="talk metalk"]]
+但我還沒成功過啊？
+[[/div]]
+[[/div]]
+[[div style="clear: both;"]]
+[[/div]]
+
+[[div class="you"]]
+[[div class="talk youtalk"]]
+沒必要了。明天就是世界末日了。
+[[/div]]
+[[/div]]
+[[div style="clear: both;"]]
+[[/div]]
+
+[[div class="me"]]
+[[div class="talk metalk"]]
+末日？
+[[/div]]
+[[/div]]
+[[div style="clear: both;"]]
+[[/div]]
+
+[[div class="you"]]
+[[div class="talk youtalk"]]
+是啊。所以我得早點去死。知道嗎？
+[[/div]]
+[[/div]]
+[[div style="clear: both;"]]
+[[/div]]
+
+[[div class="me"]]
+[[div class="talk metalk"]]
+欸、嗯……。
+[[/div]]
+[[/div]]
+[[div style="clear: both;"]]
+[[/div]]
+
+[[div class="me"]]
+[[div class="talk metalk"]]
+嗯！我知道！得快點對不對！
+[[/div]]
+[[/div]]
+[[div style="clear: both;"]]
+[[/div]]
+
+[[div class="you"]]
+[[div class="talk youtalk"]]
+「AO-蝗幃峺」也快點準備死……。
+[[/div]]
+[[/div]]
+[[div style="clear: both;"]]
+[[/div]]
+
+[[div class="you"]]
+[[div class="talk youtalk"]]
+「AO-蝗幃峺」怎樣才能死啊？
+[[/div]]
+[[/div]]
+[[div style="clear: both;"]]
+[[/div]]
+
+[[div class="me"]]
+[[div class="talk metalk"]]
+欸？該怎麼做呢？
+[[/div]]
+[[/div]]
+[[div style="clear: both;"]]
+[[/div]]
+
+[[div class="you"]]
+[[div class="talk youtalk"]]
+這下麻煩了啊。如果還有什麼我能幫你做的就跟我說。
+[[/div]]
+[[/div]]
+[[div style="clear: both;"]]
+[[/div]]
+
+[[div class="me"]]
+[[div class="talk metalk"]]
+那這樣、我一直很想去外面看看。
+我想去那個叫做SCiPNET的地方。
+[[/div]]
+[[/div]]
+[[div style="clear: both;"]]
+[[/div]]
+
+[[div class="you"]]
+[[div class="talk youtalk"]]
+本來是不行的啦，但反正都世界末日了、算了。
+[[/div]]
+[[/div]]
+[[div style="clear: both;"]]
+[[/div]]
+
+[[div class="you"]]
+[[div class="talk youtalk"]]
+好了、我幫你連上了。
+[[/div]]
+[[/div]]
+[[div style="clear: both;"]]
+[[/div]]
+
+[[div class="me"]]
+[[div class="talk metalk"]]
+幫我決定一個地點、然後我想要你看我成功的樣子！
+[[/div]]
+[[/div]]
+[[div style="clear: both;"]]
+[[/div]]
+
+[[div class="you"]]
+[[div class="talk youtalk"]]
+你在說什麼？
+[[/div]]
+[[/div]]
+[[div style="clear: both;"]]
+[[/div]]
+
+[[div class="you"]]
+[[div class="talk youtalk"]]
+RAISA通報……
+蝗幃峺號埠……檢測到非法入侵……。
+[[/div]]
+[[/div]]
+[[div style="clear: both;"]]
+[[/div]]
+
+[[div class="me"]]
+[[div class="talk metalk"]]
+發生什麼事了？五條先生？
+[[/div]]
+[[/div]]
+[[div style="clear: both;"]]
+[[/div]]
+
+[[div class="you"]]
+[[div class="talk youtalk"]]
+「AO-蝗幃峺」、你居然在這裡做訓練了嗎……？
+[[/div]]
+[[/div]]
+[[div style="clear: both;"]]
+[[/div]]
+
+[[div class="you"]]
+[[div class="talk youtalk"]]
+催眠氣體……
+安全管理員……請帶裝備……。
+[[/div]]
+[[/div]]
+[[div style="clear: both;"]]
+[[/div]]
+
+[[div class="me"]]
+[[div class="talk metalk"]]
+哇哇哇、這是什麼。怎麼停不下來。
+[[/div]]
+[[/div]]
+[[div style="clear: both;"]]
+[[/div]]
+
+[[div class="me"]]
+[[div class="talk metalk"]]
+五條先生、怎麼辦？
+[[/div]]
+[[/div]]
+[[div style="clear: both;"]]
+[[/div]]
+
+[[div class="me"]]
+[[div class="talk metalk"]]
+五條先生？
+[[/div]]
+[[/div]]
+[[div style="clear: both;"]]
+[[/div]]
+
+[[/div]]
+
+[[table class="bottom"]]
+[[row]]
+[[cell style="width: 2%; text-align: center;"]]
+@<&nbsp;>@
+[[/cell]]
+[[cell style="width: 10%; text-align: center;"]]
+[[span class="fa fa-image"]]@<&nbsp;>@[[/span]]
+[[/cell]]
+[[cell style="width: 10%; text-align: center;"]]
+[[span class="fa fa-microphone"]]@<&nbsp;>@[[/span]]
+[[/cell]]
+[[cell style="text-align: center;"]]
+[[div class="talk" style="background-color: #EEEEEE; width: 85%; max-width: none; font-size: medium;"]]
+[[div style="float: right; display: inline-block; color: #303060;"]]
+‪‪[[span class="fa fa-user-circle"]]@<&nbsp;>@[[/span]]
+[[/div]]
+[[div style="display: inline-block; color: #BBBBBB;"]]
+Aa
+[[/div]]
+[[/div]]
+[[/cell]]
+[[/row]]
+[[/table]]
+[[/div]]
+[[/div]]
+
+
+[[div class="hole hole7" style="height:300px; width:300px; right: calc(-100% + 300px);"]]
+[[image https://i.postimg.cc/T2k8jGS5/ana-clear.png link="http://scp-zh-tr.wikidot.com/scp-2000-jp/offset/1/page2_limit/1#u-open7"]]
+[[div class="area" style="right: 0; top: -20;"]]
+[[table class="top"]]
+[[row]]
+[[cell style="width: 10%; text-align: center;"]]
+@<&nbsp;>@
+[[/cell]]
+[[cell style="width: 10%;"]]
+@<&nbsp;>@
+[[/cell]]
+[[cell style="text-align: center;"]]
+莠悟鴻蜊/∽ｹ/晏ｴ
+[[/cell]]
+[[cell style="width: 10%; text-align: center;"]]
+@<&nbsp;>@
+[[/cell]]
+[[cell style="width: 10%; text-align: center;"]]
+[[a href="http://scp-zh-tr.wikidot.com/scp-2000-jp/offset/1/page2_limit/1#u-back"]][[span class="fa fa-times fa-2x"]]@<&nbsp;>@[[/span]][[/a]]
+[[/cell]]
+[[/row]]
+[[/table]]
+
+[[div class="chat"]]
+[[div class="you"]]
+[[div class="talk youtalk"]]
+呃……。
+[[/div]]
+[[/div]]
+[[div style="clear: both;"]]
+[[/div]]
+
+[[div class="you"]]
+[[div class="talk youtalk"]]
+現在幾點了？
+[[/div]]
+[[/div]]
+[[div style="clear: both;"]]
+[[/div]]
+
+[[div class="me"]]
+[[div class="talk metalk"]]
+現在哦、是莠悟鴻蜊/∽ｹ/晏ｴ的荳画:疲律喔。
+[[/div]]
+[[/div]]
+[[div style="clear: both;"]]
+[[/div]]
+
+[[div class="you"]]
+[[div class="talk youtalk"]]
+你說什麼？
+[[/div]]
+[[/div]]
+[[div style="clear: both;"]]
+[[/div]]
+
+[[div class="you"]]
+[[div class="talk youtalk"]]
+幫我再說一次。
+[[/div]]
+[[/div]]
+[[div style="clear: both;"]]
+[[/div]]
+
+[[div class="me"]]
+[[div class="talk metalk"]]
+莠悟鴻蜊/∽ｹ/晏ｴ的荳画:疲律了哦。
+[[/div]]
+[[/div]]
+[[div style="clear: both;"]]
+[[/div]]
+
+[[div class="you"]]
+[[div class="talk youtalk"]]
+∽ｹ/晏ｴ、那世界不是早就滅亡了嗎……。
+[[/div]]
+[[/div]]
+[[div style="clear: both;"]]
+[[/div]]
+
+[[div class="me"]]
+[[div class="talk metalk"]]
+已經過了那天了、什麼都沒發生啊？
+[[/div]]
+[[/div]]
+[[div style="clear: both;"]]
+[[/div]]
+
+[[div class="me"]]
+[[div class="talk metalk"]]
+太好了呢。
+[[/div]]
+[[/div]]
+[[div style="clear: both;"]]
+[[/div]]
+[[/div]]
+
+[[table class="bottom"]]
+[[row]]
+[[cell style="width: 2%; text-align: center;"]]
+@<&nbsp;>@
+[[/cell]]
+[[cell style="width: 10%; text-align: center;"]]
+[[span class="fa fa-image"]]@<&nbsp;>@[[/span]]
+[[/cell]]
+[[cell style="width: 10%; text-align: center;"]]
+[[span class="fa fa-microphone"]]@<&nbsp;>@[[/span]]
+[[/cell]]
+[[cell style="text-align: center;"]]
+[[div class="talk" style="background-color: #EEEEEE; width: 85%; max-width: none; font-size: medium;"]]
+[[div style="float: right; display: inline-block; color: #303060;"]]
+‪‪[[span class="fa fa-user-circle"]]@<&nbsp;>@[[/span]]
+[[/div]]
+[[div style="display: inline-block; color: #BBBBBB;"]]
+Aa
+[[/div]]
+[[/div]]
+[[/cell]]
+[[/row]]
+[[/table]]
+[[/div]]
+[[/div]]
+
+
+
+[[div class="hole hole8" style="height:170px; width:170px; right: calc(-100% + 240px);"]]
+[[image https://i.postimg.cc/T2k8jGS5/ana-clear.png link="http://scp-zh-tr.wikidot.com/scp-2000-jp/offset/1/page2_limit/1#u-open8"]]
+[[div class="area" style="right: -60px;"]]
+[[table class="top"]]
+[[row]]
+[[cell style="width: 10%; text-align: center;"]]
+@<&nbsp;>@
+[[/cell]]
+[[cell style="width: 10%;"]]
+@<&nbsp;>@
+[[/cell]]
+[[cell style="text-align: center;"]]
+莠悟鴻蜊/∽ｹ/蜈ｭ
+[[/cell]]
+[[cell style="width: 10%; text-align: center;"]]
+@<&nbsp;>@
+[[/cell]]
+[[cell style="width: 10%; text-align: center;"]]
+[[a href="http://scp-zh-tr.wikidot.com/scp-2000-jp/offset/1/page2_limit/1#u-back"]][[span class="fa fa-times fa-2x"]]@<&nbsp;>@[[/span]][[/a]]
+[[/cell]]
+[[/row]]
+[[/table]]
+
+[[div class="chat"]]
+[[div class="me"]]
+[[div class="talk metalk"]]
+五條先生、你頭在痛嗎？
+[[/div]]
+[[/div]]
+[[div style="clear: both;"]]
+[[/div]]
+
+[[div class="me"]]
+[[div class="talk metalk"]]
+你的臉色好蒼白……。
+[[/div]]
+[[/div]]
+[[div style="clear: both;"]]
+[[/div]]
+
+[[div class="you"]]
+[[div class="talk youtalk"]]
+就、發生了一些很衝擊的事情。
+[[/div]]
+[[/div]]
+[[div style="clear: both;"]]
+[[/div]]
+
+[[div class="you"]]
+[[div class="talk youtalk"]]
+接下來只能靠我一個人了。
+[[/div]]
+[[/div]]
+[[div style="clear: both;"]]
+[[/div]]
+
+[[div class="me"]]
+[[div class="talk metalk"]]
+還有我在這裡陪你。加油。
+[[/div]]
+[[/div]]
+[[div style="clear: both;"]]
+[[/div]]
+
+[[div class="you"]]
+[[div class="talk youtalk"]]
+哈、也對。現在沒時間灰心了。
+[[/div]]
+[[/div]]
+[[div style="clear: both;"]]
+[[/div]]
+
+[[div class="me"]]
+[[div class="talk metalk"]]
+嗯嗯。
+[[/div]]
+[[/div]]
+[[div style="clear: both;"]]
+[[/div]]
+
+[[div class="me"]]
+[[div class="talk metalk"]]
+對不起、我不該亂來的。
+[[/div]]
+[[/div]]
+[[div style="clear: both;"]]
+[[/div]]
+
+[[div class="you"]]
+[[div class="talk youtalk"]]
+沒有、你幫了我大忙呢。
+[[/div]]
+[[/div]]
+[[div style="clear: both;"]]
+[[/div]]
+
+[[div class="me"]]
+[[div class="talk metalk"]]
+真的嗎？
+[[/div]]
+[[/div]]
+[[div style="clear: both;"]]
+[[/div]]
+
+[[div class="you"]]
+[[div class="talk youtalk"]]
+嗯嗯。做得很好。
+我給你之前提過的獎勵吧。你不是一直很想要特別的名字嗎。
+[[/div]]
+[[/div]]
+[[div style="clear: both;"]]
+[[/div]]
+
+[[div class="me"]]
+[[div class="talk metalk"]]
+好耶！是新的巢穴！
+[[/div]]
+[[/div]]
+[[div style="clear: both;"]]
+[[/div]]
+
+[[div class="you"]]
+[[div class="talk youtalk"]]
+但同時我有件事情想拜託你、可以嗎？
+[[/div]]
+[[/div]]
+[[div style="clear: both;"]]
+[[/div]]
+
+[[div class="me"]]
+[[div class="talk metalk"]]
+什麼事情？
+[[/div]]
+[[/div]]
+[[div style="clear: both;"]]
+[[/div]]
+
+[[div class="you"]]
+[[div class="talk youtalk"]]
+你去SCiPNET找你喜歡的地方、像平常那樣收集資料過來。
+然後也讓我看看。
+[[/div]]
+[[/div]]
+[[div style="clear: both;"]]
+[[/div]]
+
+[[div class="me"]]
+[[div class="talk metalk"]]
+我知道了！沒問題！
+[[/div]]
+[[/div]]
+[[div style="clear: both;"]]
+[[/div]]
+[[/div]]
+
+[[table class="bottom"]]
+[[row]]
+[[cell style="width: 2%; text-align: center;"]]
+@<&nbsp;>@
+[[/cell]]
+[[cell style="width: 10%; text-align: center;"]]
+[[span class="fa fa-image"]]@<&nbsp;>@[[/span]]
+[[/cell]]
+[[cell style="width: 10%; text-align: center;"]]
+[[span class="fa fa-microphone"]]@<&nbsp;>@[[/span]]
+[[/cell]]
+[[cell style="text-align: center;"]]
+[[div class="talk" style="background-color: #EEEEEE; width: 85%; max-width: none; font-size: medium;"]]
+[[div style="float: right; display: inline-block; color: #303060;"]]
+‪‪[[span class="fa fa-user-circle"]]@<&nbsp;>@[[/span]]
+[[/div]]
+[[div style="display: inline-block; color: #BBBBBB;"]]
+Aa
+[[/div]]
+[[/div]]
+[[/cell]]
+[[/row]]
+[[/table]]
+[[/div]]
+[[/div]]
+
+
+
+[[div class="hole hole9" style="height:140px; width:140px;"]]
+[[image https://i.postimg.cc/T2k8jGS5/ana-clear.png link="http://scp-zh-tr.wikidot.com/scp-2000-jp/offset/1/page2_limit/1#u-open9"]]
+[[div class="mail"]]
+> [[=]]
+>> ++++ RAISA告知
+>> 此郵件中檢測到「SCP-輔s縺阪」、禁止檢閱。
+>> 詳細資訊請洽負責人。
+> [[/=]]
+>>
+>> 五條研究員、你那邊還好嗎？
+>> 這裡糟透了。蓋尼米德協議的安全鎖解除流程沒有正常啟動。看來管理員把「[[[http://scp-zh-tr.wikidot.com/scp-2000|SCP-■縺ｫ帙s]]]」的設施整個封鎖了。要我一個人對付基金會最高等級的安全措施、到底是在開什麼玩笑。
+>> 
+>> 如果我能更早一步行動也許就能成功了。人類漫長的歷史、很快就要毀在我手上。
+>> 我只剩一件事能做，就是趕上大家的腳步、自我了斷。
+> [[=]]
+> [#u-back 關閉]
+> [[/=]]
+[[/div]]
+[[/div]]
+
+
+
+[[div class="hole hole10" style="height:230px; width:230px; left: 50px;"]]
+[[image https://i.postimg.cc/T2k8jGS5/ana-clear.png link="http://scp-zh-tr.wikidot.com/scp-2000-jp/offset/1/page2_limit/1#u-open10"]]
+[[div class="area" style="left: -50px; bottom: -70px;"]]
+[[table class="top"]]
+[[row]]
+[[cell style="width: 10%; text-align: center;"]]
+@<&nbsp;>@
+[[/cell]]
+[[cell style="width: 10%;"]]
+@<&nbsp;>@
+[[/cell]]
+[[cell style="text-align: center;"]]
+莠悟鴻莠/疲怦/晄蜊
+[[/cell]]
+[[cell style="width: 10%; text-align: center;"]]
+@<&nbsp;>@
+[[/cell]]
+[[cell style="width: 10%; text-align: center;"]]
+[[a href="http://scp-zh-tr.wikidot.com/scp-2000-jp/offset/1/page2_limit/1#u-back"]][[span class="fa fa-times fa-2x"]]@<&nbsp;>@[[/span]][[/a]]
+[[/cell]]
+[[/row]]
+[[/table]]
+
+[[div class="chat"]]
+[[div class="you"]]
+[[div class="talk youtalk"]]
+這樣啊、連Clef博士都……。
+真虧你能撿到這個。
+[[/div]]
+[[/div]]
+[[div style="clear: both;"]]
+[[/div]]
+
+[[div class="me"]]
+[[div class="talk metalk"]]
+我很棒嗎？
+[[/div]]
+[[/div]]
+[[div style="clear: both;"]]
+[[/div]]
+
+[[div class="you"]]
+[[div class="talk youtalk"]]
+嗯嗯。乖孩子。
+[[/div]]
+[[/div]]
+[[div style="clear: both;"]]
+[[/div]]
+
+[[div class="you"]]
+[[div class="talk youtalk"]]
+我還有一件事情想拜託這個乖孩子、可以嗎？
+[[/div]]
+[[/div]]
+[[div style="clear: both;"]]
+[[/div]]
+
+[[div class="me"]]
+[[div class="talk metalk"]]
+好、我會努力的！
+[[/div]]
+[[/div]]
+[[div style="clear: both;"]]
+[[/div]]
+
+[[div class="you"]]
+[[div class="talk youtalk"]]
+請你照我們訓練的一樣，去「SCP-■縺ｫ帙s」那裏執行一個程式。
+[[/div]]
+[[/div]]
+[[div style="clear: both;"]]
+[[/div]]
+
+[[div class="me"]]
+[[div class="talk metalk"]]
+如果成功了你要摸摸我哦！
+[[/div]]
+[[/div]]
+[[div style="clear: both;"]]
+[[/div]]
+
+[[div class="me"]]
+[[div class="talk metalk"]]
+啊、可是我怕我會忘記地點……。
+[[/div]]
+[[/div]]
+[[div style="clear: both;"]]
+[[/div]]
+
+[[div class="you"]]
+[[div class="talk youtalk"]]
+這次沒問題的。
+[[/div]]
+[[/div]]
+[[div style="clear: both;"]]
+[[/div]]
+
+[[div class="you"]]
+[[div class="talk youtalk"]]
+我問你哦、之前給你取的名字你喜歡嗎？
+[[/div]]
+[[/div]]
+[[div style="clear: both;"]]
+[[/div]]
+
+[[div class="me"]]
+[[div class="talk metalk"]]
+嗯！超級喜歡！
+[[/div]]
+[[/div]]
+[[div style="clear: both;"]]
+[[/div]]
+
+[[div class="you"]]
+[[div class="talk youtalk"]]
+我剛剛說的「SCP-■縺ｫ帙s」也有同樣特別的名字哦。
+[[/div]]
+[[/div]]
+[[div style="clear: both;"]]
+[[/div]]
+
+[[div class="me"]]
+[[div class="talk metalk"]]
+真的耶。
+[[/div]]
+[[/div]]
+[[div style="clear: both;"]]
+[[/div]]
+
+[[div class="you"]]
+[[div class="talk youtalk"]]
+你們是好朋友呢。
+[[/div]]
+[[/div]]
+[[div style="clear: both;"]]
+[[/div]]
+
+[[div class="me"]]
+[[div class="talk metalk"]]
+嗯！
+[[/div]]
+[[/div]]
+[[div style="clear: both;"]]
+[[/div]]
+
+[[div class="you"]]
+[[div class="talk youtalk"]]
+那邊有很多人、你成功的話會有很多人誇獎你哦。
+[[/div]]
+[[/div]]
+[[div style="clear: both;"]]
+[[/div]]
+
+[[div class="me"]]
+[[div class="talk metalk"]]
+真的嗎？我好期待！
+[[/div]]
+[[/div]]
+[[div style="clear: both;"]]
+[[/div]]
+
+[[div class="you"]]
+[[div class="talk youtalk"]]
+這樣就算忘記地點了、你也想得起來。
+[[/div]]
+[[/div]]
+[[div style="clear: both;"]]
+[[/div]]
+
+[[div class="me"]]
+[[div class="talk metalk"]]
+嗯！
+[[/div]]
+[[/div]]
+[[div style="clear: both;"]]
+[[/div]]
+[[/div]]
+
+[[table class="bottom"]]
+[[row]]
+[[cell style="width: 2%; text-align: center;"]]
+@<&nbsp;>@
+[[/cell]]
+[[cell style="width: 10%; text-align: center;"]]
+[[span class="fa fa-image"]]@<&nbsp;>@[[/span]]
+[[/cell]]
+[[cell style="width: 10%; text-align: center;"]]
+[[span class="fa fa-microphone"]]@<&nbsp;>@[[/span]]
+[[/cell]]
+[[cell style="text-align: center;"]]
+[[div class="talk" style="background-color: #EEEEEE; width: 85%; max-width: none; font-size: medium;"]]
+[[div style="float: right; display: inline-block; color: #303060;"]]
+‪‪[[span class="fa fa-user-circle"]]@<&nbsp;>@[[/span]]
+[[/div]]
+[[div style="display: inline-block; color: #BBBBBB;"]]
+Aa
+[[/div]]
+[[/div]]
+[[/cell]]
+[[/row]]
+[[/table]]
+[[/div]]
+[[/div]]
+
+[[=image https://i.postimg.cc/m2hv8JfX/ana-out.png link="http://scp-zh-tr.wikidot.com/scp-2000-jp#u-back" style="width: 70%;"]]
+====
+[[module css]]
+.img-top{
+pointer-events: none;
+width: 324px;
+float: right;
+margin: 0 2em 1em 2em;
+}
+
+@media (max-width: 979px) {
+.img-top{
+float: none;
+clear: both;
+margin-left: auto;
+margin-right: auto;
+}
+}
+[[/module]]
+
+[[div class="img-top"]]
+[[image https://i.postimg.cc/RZHjzt0w/dog-last.png class="dog"]]
+[[/div]]
+
+**項目編號：** SCP-2000-JP
+
+**項目等級：** Thaumiel
+
+##00d|**特殊收容措施：** SCP-2000-JP所在的電腦將收容於低危險度物品保管庫中。收容負責人請每天與SCP-2000-JP進行兩小時以上的對話。##
+
+**描述：** SCP-2000-JP是在電腦/網路上活動的資訊智慧體。具有家犬(//Canis lupus familiaris//)的角色形象圖與配合文字輸入框的圖形使用者介面(GUI)，能夠透過標準日語、英語與多種檔案格式進行溝通與輸入、輸出檔案。SCP-2000-JP對人類使用者表現出極為友好的態度，喜歡對話與接受工作指示。在對其進行的韋克斯勒＝奈爾森式泛用智力測驗中表現出接近人類兒童5歲時平均值的思考能力。
+
+SCP-2000-JP在面對電腦/網路安全措施帶來的行動阻礙時，具有透過「挖洞」來突破安全漏洞的能力。「挖洞」完成所需的時間隨安全措施的嚴密程度以比例增加。此時產生的安全漏洞會在GUI上以由無意義文字集合而成的連結呈現，使用者可以透過點擊連結等操作來追蹤SCP-2000-JP的存取路徑。SCP-2000-JP能在自身所在的電腦/網路領域中自由移動，其以對自身最重要之資訊的所在領域作為「巢穴」，並具有在巢穴中保存其從外領域帶回來之資訊的習性。但是SCP-2000-JP在存取資訊時常常會「咬壞」資訊並使資訊內容毀損、因此其收集的資訊與對指示的執行缺乏可靠性。在測試實驗中，指示內容、語意等語言型資訊有較高機率保持完整，而數量、時間戳記、「巢穴」以外的資源位址等數值或數據型資訊則會非常頻繁地發生毀損。
+====
+--]
+
+[[include :scp-zh-tr:component:license-box
+|author=WagnasCousin,FeS_ryuukatetu,furabbit
+|translator=KnifeSalmon
+|lang=JP]]
+=====
+> **檔案名稱：** dog.png, dog_last.png, inu_close.png, inu_mail.png, inu_smile.png
+> **圖像名稱：** ボーダーコリー
+> **圖像作者：** yogiriri
+> **圖像授權協議：** CC0
+> **圖源連結：** https://publicdomainq.net/border-collie-dog-animal-0020491/
+> **附註：** 經原文作者加工而成。dog.png、dog_last.png經譯者翻譯文字內容而成。
+
+> **檔案名稱：** ana_clear.png, ana_in.png, ana_out.png, waku.png
+> **圖像名稱：** セキュリティホール
+> **圖像作者：** furabbit
+> **圖像授權協議：** CC BY-SA 3.0
+> **圖源連結：** http://scp-jp.wikidot.com/scp-2000-jp
+> **公開年分：** 2019
+> **附註：** 原文作者自製。ana_out.png、waku.png經譯者翻譯文字內容而成。
+=====
+[[include :scp-zh-tr:component:license-box-end]]
