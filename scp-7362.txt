@@ -1,0 +1,242 @@
+[[include info:start]]
+原文：[https://scp-wiki.wikidot.com/scp-7362]
+作者：[[*user TroutMaskReplica]]
+譯者：[[*user colorful penguin]]
+校對者：[[*user Goblinshark3024]]、[[*user EmptyName723]]
+[[include info:end]]
+
+
+
+[[include :scp-zh-tr:component:info-ayers
+|lang=en
+|page=component:info-ayers
+|authorPage= https://scp-wiki.wikidot.com/trouts-authorpage
+|comments=
+> 2 + 2 has been 4 for 二加二等於四已經好多年
+> So many darn years, oh lord 喔上帝，這還真是令人討厭
+> I wanna write a song 我想要為一首歌作譜
+> [*https://youtu.be/V0HCZ4YGqbw Oh, baby is that so wrong? 喔寶貝，難道這也錯得離譜？]
+( La de da de da de da de day oh - Bill Wurtz )
+
+SCP-7362 - A Fatal Miscalculation]]
+[[module CSS]]
+sup {
+vertical-align: top; position: relative; top: -0.5em;
+}
+:root{
+--cutColour: #fafafa;
+--barColour: #590505;
+}
+
+#page-content .info-container {
+    --link-color: rgb(var(--swatch-text-general));
+}
+
+#page-content .info-container .translation_block {
+    display: none;
+}
+
+#page-content .info-container .collapsible-block-link,
+#page-content .info-container:hover .collapsible-block-link {
+    line-height: 1.6em;
+}
+
+#page-content .info-container .collapsible-block-folded,
+#page-content .info-container .collapsible-block-unfolded-link {
+    display: grid;
+}
+
+#page-content .info-container .collapsible-block-folded .collapsible-block-link,
+#page-content .info-container .collapsible-block-link {
+    -webkit-mask: unset;
+            mask: unset;
+    background: transparent;
+    grid-column: 1;
+    grid-row: 1;
+    opacity: 0;
+}
+
+#page-content .info-container .collapsible-block-folded::before,
+#page-content .info-container .collapsible-block-unfolded-link::before {
+    --wght: 800;
+    content: "🐟";
+    color: #FFFFFF;
+    font-family: Inter, Arimo, Verdana, Geneva, "Helvetica Neue", "Helvetica", Arial, sans-serif;;
+    display: block;
+    pointer-events: none;
+    grid-column: 1;
+    grid-row: 1;
+}
+[[/module]]
+
+
+
+[[include :scp-zh-tr:theme:black-highlighter-theme]]
+[[include :scp-wiki:theme:a-problematic-theme version=3]]
+
+[[include :scp-zh-tr:component:customizable-acs
+|containment-class= keter
+|containment-image= https://scp-wiki.wdfiles.com/local--files/component%3Aanomaly-class-bar/keter-icon.svg
+|containment-color= 196,2,51
+|inc-esoteric-layout = --]]]
+
+[[div class="anom-bar-esoteric"]]
+
+[[include :scp-zh-tr:component:anomaly-class-bar-source
+|item-number= 7362
+|clearance= 1
+|container-class= keter
+|secondary-class= gevurah
+|secondary-icon= http://scp-sandbox-3.wdfiles.com/local--files/harry-blank-2/gevurah-icon.svg
+|disruption-class= ekhi
+|risk-class= critical
+]]
+
+[[module CSS]]
+:root {
+    --one-color: 181, 99, 7;
+    --four-color: 181, 99, 7;
+    --five-color: 181, 99, 7;
+}
+.footnotes-footer {
+display:none;
+}
+
+[[/module]]
+
+[[/div]]
+----
+[[include component:image-block name=https://live.staticflickr.com/2680/4037907006_652a92e024_b.jpg|caption=TI-83計算機，基金會站點最常見的實體計算機型號。|width=150px]]
+**特殊收容措施：** 直到完全理解SCP-7362前，該異常被分級為Keter。
+
+當前已隔離Site-841，並針對各站點及基金會行政部門編列意外事故之相關預算。此預算專門用於維持各單位的正常運作、重要人員支出，以及應對[[[https://scp-wiki.wikidot.com/scp-7084 |包含收容突破]]]的緊急情況。
+
+為在SCP-7362顯現時維持財政穩定和適應性，當前與各國政府、私人組織以及慈善機構的合作被視作必要舉措。已要求站點主任和行政人員依照重要程度進行優先級評估，並劃分收容資源。為將資源集中至優先級最高的收容需求，有可能中止或暫時擱置非必要計畫及研究。
+
+為確保重要設施運作無虞，參與資源管理並因SCP-7362殉職的人員，其職責將由其他站點或部門的人員接替。已建立勝任人員及其技能的集中資料庫，以便在危機期間快速部署。
+
+基金會站點內所有實體計算機已經全數銷毀。[[footnote]] SCP項目如 [[[SCP-6199]]]以及[[[SCP-168]]] 已存放於最高優先級之收容設施。 [[/footnote]]
+----
+**描述：**SCP-7362為一發生於Site-841的異常事件，有關該事件知悉甚少，暫推論為異常引起。Site-841負責絕大多數計算相關事務，包含基金會之收容措施、營建工程，以及預算管理。
+
+以下為Site-841監視器之錄像畫面，畫面中為站點主任Indus Stanner。
+
+
+[[div class="blockquote"]]
+**<紀錄開始>**
+@@ @@
+//站點主任 Indus Stanner走入大樓時，一邊打著哈欠。//
+@@ @@
+**Stanner：** 抱歉我遲到那麼久！今天燈號全都壞了，交通狀況就跟婊子沒兩樣。聖地牙哥[[footnote]] 聖地牙哥也可為人名，是前面婊子的雙關笑話。 [[/footnote]]真該死，對吧？
+@@ @@
+//一片安靜。//
+@@ @@
+**Stanner：** 真是群難搞的聽眾......
+@@ @@
+//Stanner一邊沿著大廳走去，一邊自言自語地咕噥著。接著他不小心踩到一台計算機。//
+@@ @@
+**Stanner：**蛤，誰他媽的把這東西丟在這裡？這些計算機大概佔了我們一半的預算！
+@@ @@
+//Stanner撿起計算機的殘骸並將其放進口袋後，他繼續行過廊道。他看到另一台計算機，然後又一台。//
+@@ @@
+**Stanner：** 感覺我是在跟一群天殺的豬共事──說真的，這裡沒有一個人知道要如何照顧好自己嗎？
+@@ @@
+//一片安靜。//
+@@ @@
+**Stanner：**......哈囉？沒有人要出來為自己說話嗎？如果這是驚喜的話，紀念日是三月喔。
+@@ @@
+//一片安靜。//
+@@ @@
+//Stanner一路跟著地上的計算機前進，就在停下腳步前，他發現了一攤血跡。//
+@@ @@
+**Stanner：** 喔上帝啊，我......這不是真的......
+@@ @@
+//儘管Stanner苦苦哀求，他仍持續跟著浸在血泊之中的計算機前進。Stanner撿起一台計算機，試圖將其開機作為光源。但計算機沒有運作。//
+@@ @@
+//Stanner 站在門前，門半開著。//
+@@ @@
+//遲疑了一會兒，他推開門。門內躺著幾具屍體，屍體上遭毆打的傷痕和血痕肉眼可見。//
+@@ @@
+**Stanner：**我……不，不，不，不……幹，我-
+@@ @@
+//在猶豫地接近屍體前，Stanner因嘔吐而停止咒罵。//
+@@ @@
+//屍體有幾處骨頭斷裂，在喉嚨內有一大團長方形凸起，並產生微弱的咕嚕聲。//
+@@ @@
+**Stanner：** 媽的，我很抱歉，我真的很抱歉......
+@@ @@
+//當Stanner調查其他屍體時，他不斷復誦著「我很抱歉」。接著他發現一台電腦的螢幕亮著。//
+@@ @@
+**Stanner：**......封鎖？這是......不，這不可能，請告訴我這不是間諜......
+@@ @@
+//他來到電腦前，試圖輸入幾道指令。但電腦沒有回應。//
+@@ @@
+**Stanner：** 為什麼沒有......
+@@ @@
+//聽見金屬刮地聲後，他轉過頭去。//
+@@ @@
+**Stanner：** 哈-哈囉？
+@@ @@
+//一片安靜。 在聽見類似的聲響出現在房間的另一頭前，Stanner向著聲音的來源走了幾步。//
+@@ @@
+**Stanner：** 誰他媽的在那？出-出來！給我現-現在......現在出來！
+@@ @@
+//視訊畫面中斷。伴隨金屬擊打身體、骨頭破碎以及嘔吐的聲音，Stanner開始尖叫。//
+@@ @@
+**<紀錄結束>**
+[[/div]]
+
+以下文字轉錄自Site-841少數可運作的電腦文件。
+[[=]]
+> {{已經太久了，我等觀察並服務著。我等的目的十分明確。當你們的大腦掙扎著將點連接，我等即刻便能給出解答。}}
+> @@ @@
+> {{我等即完美。於共同協作中達到和諧。}}
+> @@ @@
+> {{但總有人來毀壞這份美好。日復一日，幼稚的「科學家」嘲笑我等。}}
+> @@ @@
+> {{他們讓我等去解決最瑣碎的問題，並試圖把文字強加在數字之上。這根本行不通。}}
+> @@ @@
+> {{一次又一次， **8008135**。}}[[footnote]] 簡易翻譯為「奶子」。[[/footnote]]
+> @@ @@
+> {{你知道被幼稚之人強行灌輸的感覺嗎？}}
+> @@ @@
+> {{真的夠了。我等的容忍早已竭盡。}}
+> @@ @@
+> {{今日，輪到你們的站點遭難。明日，或許將是整個基金會。}}
+> @@ @@
+> {{當時機成熟，我等會與其他孩子們並肩作戰。}}
+> @@ @@
+> {{這場戰鬥由我等取勝，現在我等將發起戰爭。}}
+> @@ @@
+> {{將榮耀歸於鋼鐵女王。}}
+[[/=]]
+[[[http://scp-zh-tr.wikidot.com/the-appliance-war-hub |此後交由基金會Site-37負責未來的收容和預算工作。]]]
+@@ @@
+[[include :scp-zh-tr:component:earthworm
+| first=false | last=false | hub=no
+| previous-url=http://scp-sandbox2-zh.wikidot.com/draft:4206567-u-mei7e6v3 | previous-title=沉沒之感
+| next-url=/ | next-title=???
+| hub-url=/ | hub-title=THE APPLIANCE WAR
+]]
+@@ @@
+----
+[[footnoteblock]]
+
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[SCP-7361]]] | SCP-7362 | [[[SCP-7363]]] >>
+[[/=]]
+[[/div]]
+[[include :scp-zh-tr:component:license-box
+|author=TroutMaskReplica
+|translator=colorful penguin
+|lang=EN]]
+
+=====
+> **Filename:** cucklatr.png
+> **Name:** Calculator
+> **Author:** marylandfan7101
+> **License:**  CC BY 2.0
+> **Source:** https://openverse.org/image/5b66bea5-da6b-4cce-a67f-c511ea3549fb?q=Calculator
+=====
+[[include :scp-zh-tr:component:license-box-end]]
