@@ -345,7 +345,8 @@ SCP-ZH-143因2024年6月1日發生於國道三號—斗六交流道路段異常�
 [[=]]
 +* 心宿二
 [[span style="font-family: "Noto Serif TC", serif;"]]//##gray| Antares##//[[/span]]
-
+[[span style="font-family: "Noto Serif TC", serif;"]]距離現實31.23公里之星 [[*user Viken-K]] [[/span]]
++* [[[scp-zh-979|化繭]]]
 [[span style="font-family: "Noto Serif TC", serif;"]]//招攬群星者[[footnote]] [[*user Frederica Bernkastel]] [[/footnote]]讚賞之作//[[/span]]
 [[/=]]
 @@ @@
@@ -354,7 +355,8 @@ SCP-ZH-143因2024年6月1日發生於國道三號—斗六交流道路段異常�
 [[=]]
 +* 參宿二
 [[span style="font-family: "Noto Serif TC", serif;"]]//##gray| Alnilam##//[[/span]]
-
+[[span style="font-family: "Noto Serif TC", serif;"]]距離現實3040.02公里之星 [[*user ting129]] [[/span]]
++* [[[scp-zh-481|無菌地]]]
 [[span style="font-family: "Noto Serif TC", serif;"]]//蒐羅輿圖者[[footnote]] [[*user AbyssDream]] [[/footnote]]讚賞之作//[[/span]]
 [[/=]]
 
