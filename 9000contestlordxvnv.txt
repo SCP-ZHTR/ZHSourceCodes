@@ -257,7 +257,7 @@ E = mc^2 + AI
 
 ------
 
-未來本應視為無窮無盡。一切可以發生的事皆有可能會發生。一切的行動影響著時空本身，創造電磁輻射、重力沒、敘事迴響、亦或速子（超光速粒子）。
+未來本應視為無窮無盡。一切可以發生的事皆有可能會發生。一切的行動影響著時空本身，創造電磁輻射、重力波、敘事迴響、亦或速子（超光速粒子）。
 
 [[include :scp-wiki:component:image-block name=https://upload.wikimedia.org/wikipedia/commons/0/0d/Agnes_Tachyon_20081005P1.jpg?20090518212305|caption=相關脈絡示意|width=40%]]
 
