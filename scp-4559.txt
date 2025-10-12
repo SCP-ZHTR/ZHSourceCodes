@@ -1,0 +1,32 @@
+[[include component:scp-meta-title-hiding css-style=classic]]
+[[include info:start]]
+作者：[[*user Westrin]]
+篇名：SCP-4559 - 您需要收據嗎?
+原文：[https://scp-wiki.wikidot.com/scp-4559 SCP-4559 Would You Like A Receipt?]
+譯者：[[*user Red phosphorus ]]
+[[include info:end]]
+
+**項目編號：**SCP-4559
+
+**項目等級：**Thaumiel
+
+**特殊收容措施：**科學機構及其他組織內有關SCP-4559的所有資訊，都將以錯誤資訊的名義予以移除。
+
+**描述：**SCP-4559是一種發生在大多數雜貨店中、與人們在結帳時是否索取收據這一選擇行為有關的機率性異常。若有商家規定顧客須一律收取收據，或在未經顧客的同意下直接將收據交給顧客，則SCP-4559不會被觸發。
+
+若上述情況皆未發生，當顧客被詢問是否索取收據時，其選擇接受或拒絕收據的結果將無法被預測。對象的精神狀態、性別或財富狀況皆不影響結果，且兩種選擇的發生機率完全相同。
+
+目前，SCP-4559是基金會所知宇宙中唯一真正不可預測，或「隨機」的現象。舉例來說，量子力學、天氣、海洋洋流以及一般隨機數產生器的演算法皆可以被有意義地預測，但SCP-4559無法以任何有意義的方式被預測。
+
+**附錄：**根據O5議會的命令，SCP-4559因被用於多項需要隨機數產生器進行收容的異常項目，而被重新分類為Thaumiel級。Hensworth/Alice隨機數產生器利用美國境內近20000家雜貨店的監視器影像，分析來自結帳櫃檯區的影像資料，並將SCP-4559所產生的資訊來生成一個隨機整數。目前，Hensworth/Alice隨機數產生器已用於收容39個Safe級、21個Euclid級、8個Keter級及2個Thaumiel級異常。
+
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+« [[[SCP-4558]]] | SCP-4559 | [[[SCP-4560]]] »
+[[/=]]
+[[/div]]
+[[include :scp-zh-tr:component:license-box
+|author=Westrin
+|translator=Red phosphorus
+|lang=EN ]]
+[[include :scp-wiki:component:license-box-end]]

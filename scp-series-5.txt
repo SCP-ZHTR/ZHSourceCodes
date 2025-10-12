@@ -603,7 +603,7 @@
 * [[[SCP-4556]]] - Belonging
 * [[[SCP-4557]]] - Detective Fiver, Crime Solving Raccoons
 * [[[SCP-4558]]] - Bel1eve_1n_M1racles
-* [[[SCP-4559]]] - Would You Like a Receipt?
+* [[[SCP-4559]]] - 您需要收據嗎？
 * [[[SCP-4560]]] - 一切都很好
 * [[[SCP-4561]]] - An Orphaned Collector
 * [[[SCP-4562]]] - Melody of your life
