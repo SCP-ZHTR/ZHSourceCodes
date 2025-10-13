@@ -1,0 +1,79 @@
+[[include component:scp-meta-title-hiding css-style=classic]]
+[[include info:start]]
+作者：[[*user Cremo]] [[*user Uncle Nicolini]]
+篇名：SCP-5287 - 禁菸標語
+原文：[https://scp-wiki.wikidot.com/scp-5287 SCP-5287-Smoke signal]
+譯者：[[*user Jahao]]
+[[include info:end]]
+
+
+[[include :scp-zh-tr:component:anomaly-class-bar-source-alt
+|item-number= SCP-5287
+|clearance= 2
+|container-class= 2
+|secondary-class= none
+|secondary-icon= http://acsurlexample.com/image.svg
+|disruption-class= 2
+|risk-class= 1
+]]
+**特殊收容措施：**只要SCP-5287持續顯現，葛爾德研究員就需在Site-228受到基金會監視。
+
+**描述：**SCP-5287是在葛爾德研究員自願的吸食香菸或雪茄時出現的異常現象，當葛德爾研究員吐出煙霧（以下稱之為SCP-5287-1）時，通常會形成多種單字或短句並漂浮在葛爾德研究員面前。
+
+與其物理性接觸時，SCP-5287與無異常性質的煙霧一樣容易變形、消散。
+
+**值得注意之SCP5287-1事件：**
+> 停下
+
+> 抽菸會死
+
+> 失去未來
+
+> 現在就停
+
+> 想想生命
+
+
+> //SCP5287-1並沒有如常顯現，取而代之的是一團煙霧漂浮至點燃的香菸上並且停留至其熄滅。此事件為SCP-5287-1首次並未以文字或詞語顯現。//
+
+
+> 肺在顫抖
+
+> 拜託停下
+
+> 算我求你
+
+> 癌症將至
+
+> 根根致死
+
+> //SCP-5287-1再次以一小團煙霧顯現並移動至葛爾德研究員眼前，使研究員將其揮開，香菸在揮動的過程中熄滅。//
+
+> 正警告你
+
+> 真會動手
+
+> 警告過了
+
+**事故5287-1：**
+在一次實驗中，SCP-5287-1顯現出「抱歉」。實驗結束後，葛爾德研究員吐出了更多來自香菸的煙霧。SCP-5287-1並沒有形成任何短句，而是形成了一隻人類的手臂，隨後折斷了葛爾德研究員用來拿菸的右手食指與中指。
+
+為防止事故再次發生，已終止SCP-5287的相關實驗，葛爾德研究員已被要求每週訪問站點內的心理醫生，並配發一支電子菸以幫助戒菸。
+
+
+
+[[footnoteblock]]
+
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[SCP-5286]]] | SCP-5287 | [[[SCP-5288]]] >>
+[[/=]]
+[[/div]]
+
+[[include :scp-zh-tr:component:license-box
+|author=Cremo與Uncle Nicolini
+|translator=Jahao
+|lang=EN]]
+
+
+[[include :scp-zh-tr:component:license-box-end]]
