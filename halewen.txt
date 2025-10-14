@@ -49,7 +49,7 @@ mix-blend-mode: initial;
 [[collapsible show="+ Haru Ken的贈圖" hide="- Haru Ken的贈圖"]]
 [[div class="scp-image-block block-center"
 style="width:250px;"]]
-[[image  https://live.staticflickr.com/65535/54703049824_c4a17911ed_m.jpg]]
+[[image https://live.staticflickr.com/65535/54854799729_dab273cbb8_z.jpg]]
 [[/div]]
 > [[*user Haru Ken]]的超可愛贈圖！
 [[/collapsible]]
@@ -57,7 +57,7 @@ style="width:250px;"]]
 [[collapsible show="+ 頭貼" hide="- 頭貼"]]
 [[div class="scp-image-block block-center"
 style="width:250px;"]]
-[[image https://live.staticflickr.com/65535/54703049829_f27f212908_m.jpg]]
+[[image https://live.staticflickr.com/65535/54853691067_dbf5c928da_z.jpg]]
 [[/div]]
 > 自繪的頭貼。
 [[/collapsible]]
@@ -65,7 +65,7 @@ style="width:250px;"]]
 [[collapsible show="+ 看到我多可愛了嗎？還沒？沒關係，快點開來看吧！" hide="- 看到我多可愛了嗎？還沒？沒關係，快點開來看吧！"]]
 [[div class="scp-image-block block-center"
 style="width:250px;"]]
-[[image https://www.flickr.com/gp/203280834@N03/803C74Gr0X]]
+[[image https://live.staticflickr.com/65535/54853690992_3e81a7d479_z.jpg]]
 [[/div]]
 > 我超可愛！
 [[/collapsible]]
@@ -73,12 +73,12 @@ style="width:250px;"]]
 [[collapsible show="+ 要不要一起吃晚餐？" hide="- 要不要一起吃晚餐？"]]
 [[div class="scp-image-block block-center"
 style="width:250px;"]]
-[[image https://live.staticflickr.com/65535/54750171758_5b687750c2_b.jpg]]
+[[image https://live.staticflickr.com/65535/54853691132_a12487c822_z.jpg]]
 [[/div]]
 > 「要跟我吃晚餐嗎！昨天我有找到一家很好吃的餐廳喔！我們忙完就立刻去吧！」
 [[div class="scp-image-block block-center"
 style="width:250px;"]]
-[[image https://live.staticflickr.com/65535/54750177564_072373659e_b.jpg]]
+[[image https://live.staticflickr.com/65535/54854799794_571def280f_z.jpg]]
 [[/div]]
 > 「跟我共進晚餐？你腦子沒問題吧？你可不可以去死啊？」
 > --這個我知道，對他一點一點地使壞直到他願意跪在你面前求你一起去吃晚餐。--
@@ -88,7 +88,7 @@ style="width:250px;"]]
 [[collapsible show="+ 領星者" hide="-  領星者"]]
 [[div class="scp-image-block block-center"
 style="width:700px;"]]
-[[image https://live.staticflickr.com/65535/54769445604_8aa5189747_b.jpg]]
+[[image https://live.staticflickr.com/65535/54854808993_f4d3db97ab_h.jpg]]
 [[/div]]
 > 我們是... 領星者。
 [[/collapsible]]
@@ -97,11 +97,11 @@ style="width:700px;"]]
 [[collapsible show="+ 智天使" hide="-  智天使"]]
 [[div class="scp-image-block block-center"
 style="width:300px;"]]
-[[image https://live.staticflickr.com/65535/54729202696_1b97a8f05a_b.jpg]]
+[[image https://live.staticflickr.com/65535/54854556066_37ae7f8f3d_z.jpg]]
 [[/div]]
 [[div class="scp-image-block block-center"
 style="width:300px;"]]
-[[image https://live.staticflickr.com/65535/54729418023_a92f392272_b.jpg]]
+[[image https://live.staticflickr.com/65535/54854799679_f77f29b1bf_z.jpg]]
 [[/div]]
 > 違反神的旨意之人... 皆必須消失。
 [[/collapsible]]
@@ -109,19 +109,32 @@ style="width:300px;"]]
 [[collapsible show="+ 座天使" hide="-  座天使"]]
 [[div class="scp-image-block block-center"
 style="width:300px;"]]
-[[image https://live.staticflickr.com/65535/54729566480_fa45480527_b.jpg]]
+[[image https://live.staticflickr.com/65535/54853691102_2f61841b9a_z.jpg]]
 [[/div]]
 [[div class="scp-image-block block-center"
 style="width:300px;"]]
-[[image https://live.staticflickr.com/65535/54729566475_c9c2ce2b8a_b.jpg]]
+[[image https://live.staticflickr.com/65535/54854861270_dfc7207303_z.jpg]]
 [[/div]]
 > 懺悔也來不及了！
 [[/collapsible]]
 
-- --獸設 即將到來--
-//上面的字似乎遭到破壞過//
---海爾，你最近在辦公室放的圖片令員工相當不安，我已經在準備授權給每人一支火焰噴射器的文件了。--
-到底是誰一直在亂寫這些東西啦！[[*user colorful penguin]]你他媽是不是又亂闖我的辦公室！
+[[collapsible show="+ 獸設" hide="-  獸設"]]
+[[div class="scp-image-block block-center"
+style="width:700px;"]]
+[[image https://live.staticflickr.com/65535/54854555961_824d44c8ab_b.jpg]]
+[[/div]]
+> --海爾，你最近在辦公室放的圖片令員工相當不安，我已經在準備授權給每人一支火焰噴射器的文件了。--
+> 到底是誰一直在亂寫這些東西啦！[[*user colorful penguin]]你他媽是不是又亂闖我的辦公室！
+[[/collapsible]]
+
+[[collapsible show="+ 夾在獸設圖背後的一張紙" hide="- 夾在獸設圖背後的一張紙"]]
+[[div class="scp-image-block block-center"
+style="width:300px;"]]
+[[image https://live.staticflickr.com/65535/54853695592_8172352d69_z.jpg]]
+[[/div]]
+> //...還是把這張紙塞回去吧。//
+[[/collapsible]]
+
 [[/tab]]
 [[tab 我的翻譯]]
 

@@ -1,0 +1,290 @@
+[[module CSS]]
+.fakeprot .mailform-box .buttons{display:none;}
+.fakeprot + .collapsible-block .collapsible-block-link {padding: 0.1em 0.5em;text-decoration: none;background-color: #F4F4F4;border: 1px solid #AAA;color: #000;}
+.fakeprot + .collapsible-block .collapsible-block-link:hover {background-color: #DDD;color: #000;}
+.fakeprot + .collapsible-block .collapsible-block-link:active {background-color: #DDD;color: #000;}
+.fakeprot + .collapsible-block .collapsible-block-unfolded-link{margin:0.5em 0;text-align: center;}
+.fakeprot + .collapsible-block .collapsible-block-folded{margin:0.5em 0;text-align: center;}
+.fakeprot .passw input[type=text] {text-security:disc;-webkit-text-security:disc;-mox-text-security:disc;}
+.mailform-box td:first-child {width: 80px;}
+[[/module]]
+
+[[include component:scp-meta-title-hiding css-style=classic]]
+[[include :scp-zh-tr:theme:bedrock]]
+[[include :scp-zh-tr:theme:site-zh-11 dark=a]]
+
+[[include info:start]]
+@@ @@
+**篇名：**SCP-ZH-637 - 此落彼起
+@@ @@
+**作者：**[[*user YONGZUN]]
+@@ @@
+= 看到火星的光就飛上去吧
+@@ @@
+[[include info:end]]
+
+**項目編號：**SCP-ZH-637
+
+**項目等級：**--Keter-- --Ticonderoga-- --Keter-- --Ticonderoga-- --這就是他媽的Keter--[[Size 120%]]**假消息**[[/Size]] Ticonderoga 
+
+本項目將在2035年重新編號為Explained
+
+**特殊收容措施：**--應對SCP-ZH-637-1向外傳輸的資訊進行攔截或審查，並收容潛伏在帷幕外的SCP-ZH-637-2，以避免SCP-ZH-637的效應影響範圍擴大。--
+
+--SCP-ZH-637不必收容，只需要在2035年正式向帷幕外公布即可。--
+
+--應對SCP-ZH-637-1向外傳輸的資訊進行攔截或審查，並收容潛伏在帷幕外的SCP-ZH-637-2，以避免SCP-ZH-637的效應影響範圍擴大。--[[Size 120%]]**假消息**[[/Size]]
+
+SCP-ZH-637不必收容，SCP-ZH-637不必收容，SCP-ZH-637不必收容，SCP-ZH-637不必收容，SCP-ZH-637不必收容，SCP-ZH-637不必收容，SCP-ZH-637不必收容，SCP-ZH-637不必收容，SCP-ZH-637不必收容，SCP-ZH-637不必收容，SCP-ZH-637不必收容。[[Size 120%]]**正確且正確且正確的**[[/Size]]
+
+高吳士 研究員應於SCP-ZH-637對外公布時公開處刑，公開處刑，公開處刑，公開，公開。
+
+Mars.aic應立刻停用並銷毀，備份檔案亦同。
+
+**描述：**
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+
+SCP-ZH-637是對世界有所貢獻的效應，不必收容。
+
+高吳士 研究員擁有妄想症，並挾持Site-ZH-11通用//人工智能//mars.aic。
+
+@@ @@
+@@ @@
+= **【附錄637.1 ：】**
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+
+@@ @@
+@@ @@
+= **【附錄637.2 ：】**
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+
+@@ @@
+@@ @@
+= **【附錄637.3 ：】**
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+
+@@ @@
+@@ @@
+
+[[div class="fakeprot"]]
+[[module MailForm to="aaaa (DUMMY)" button=""]]
+# name
+ * title: ID
+ * default: Dont_WusMountain
+ * type: text
+ * rules:
+  * required: true
+  * maxLength:10
+  * minLength: 100
+[[/module]]
+[[div class="passw"]]
+[[module MailForm to="aaaa (DUMMY)" button=""]]
+# affiliation
+ * title: 密碼
+ * default: ・・・・・・・・・
+ * rules:
+  * required: true
+  * maxLength:10
+  * minLength: 100
+[[/module]]
+[[/div]]
+[[/div]]
+[[collapsible show="登入" hide="登出"]]
+
+> 恭喜我們的倖存者得到了這個帳號密碼，這是紙貓咪最後幫我們建立的乾淨資訊圈，本人是高吳士 研究員，在2026年開始被列為基金會叛徒的邪惡研究員，這裡或許是最後一個談論SCP-ZH-637本質時不會被打擾的地方。
+> 
+> ——高吳士 2026.9.30
+@@ @@
+@@ @@
+
+> **項目編號：**SCP-ZH-637
+> 
+> **項目等級：**Keter
+> 
+> **描述：**SCP-ZH-637是一個複合型模因異常，萌芽時間約在1920年代，其常寄生於帷幕外團體，並將該團體與團體中的個人轉變為SCP-ZH-637-1。冷戰時代，SCP-ZH-637發展出透過SCP-ZH-637-1製造SCP-ZH-637-2的能力。2010年代，SCP-ZH-637轉移至目前宿主，並逐漸對基金會繁中分部與所在地產生危害。
+> 
+> SCP-ZH-637本身會與SCP-ZH-637-1的思想結合，並將其產出的資訊變成SCP-ZH-637資訊，對於受影響的人類，SCP-ZH-637資訊的優先度會高於一般資訊。SCP-ZH-637資訊本身帶有少量的符號危害與官僚危害，同時擁有堆疊性，即「既成事實」與「積非成是」等等現象，同時將導致受影響之人類難以透過時間軸前後對照或基於事實的邏輯推演得到正常的結論，但不同人受SCP-ZH-637資訊的影響度不同。
+> @@ @@
+>> 在我接手這個項目的時候，我就察覺到一些不對勁的地方了。
+>> 
+>> 這是一個有門檻限制的官僚異常，他無法影響到一些對大多資訊採懷疑態度的人，甚至是擁有與SCP-ZH-637資訊相反意識形態的人，那這個東西到底想要什麼？沒有人有想法。
+>> 
+>> 所以當時基金會的人員並沒有發現SCP-ZH-637的危害重災區在哪裡，我也沒有第一時間意識到，所以想要補救的時候就來不及了。
+> @@ @@
+> SCP-ZH-637-1只是SCP-ZH-637的一種資訊複製器，但SCP-ZH-637本身的異常性質能夠使SCP-ZH-637-1得到現實的社會、經濟，或政治優勢。SCP-ZH-637通常不主動使SCP-ZH-637-1製造資訊，SCP-ZH-637-1本身通常擁有自己的社會、經濟，或政治目的，故SCP-ZH-637可以在此基礎上被動生存。目前仍未掌握SCP-ZH-637的剝離技術，其轉移宿主的機制不明確。
+> @@ @@
+>> 簡而言之，SCP-ZH-637本身是一個模因生命體，它需要複製自己出去，並透過異常效應獎勵自己的宿主。
+>> 
+>> 這個獎勵機制本身變成了對常態人類的威脅，也就是如描述所寫，這使得有一大群人沒辦法正常思考，只能被資訊帶著走。
+>> 
+> @@ @@
+> SCP-ZH-637-2是SCP-ZH-637-1傳播SCP-ZH-637資訊時產生的個體，要產生SCP-ZH-637-2需要滿足兩個條件，第一是本身擁有與SCP-ZH-637-1在思想上合流的動機，第二是自身可以某種程度上抗拒SCP-ZH-637資訊的異常性質。SCP-ZH-637-2對SCP-ZH-637-1來說是外部的單獨協力者，SCP-ZH-637-2擁有增幅SCP-ZH-637資訊異常資訊的異常效應，其僅需要存在於SCP-ZH-637資訊流竄的群體之內即可；SCP-ZH-637-2本身也能夠製造SCP-ZH-637資訊，但該SCP-ZH-637資訊在內容上需要與SCP-ZH-637-1製造的SCP-ZH-637資訊屬性雷同，否則不生異常效力。
+> @@ @@
+>> SCP-ZH-637-2是SCP-ZH-637-1的協力者，那些SCP-ZH-637資訊會因為SCP-ZH-637-2變得更強，導致某些本來有異常效應抵抗力的人淪陷。
+>> 
+>> SCP-ZH-637-2對基金會內部產生了很大的影響，我當時本來想說SCP-ZH-637宿主會與以往一樣不會觸及帷幕之內的事物，但很明顯這次的宿主想要把帷幕內外都吃下來。
+>> 
+> @@ @@
+> 除天生於模因相關領域上免疫者，後天不受SCP-ZH-637資訊影響或影響較低者有三，擁有足夠強度的與SCP-ZH-637-1相左意識形態者、對資訊採取懷疑態度者、自我中心且難以煽動者。SCP-ZH-637-1與-2在發現這類人士存在後，SCP-ZH-637會促使兩者對該群體發動更強烈的SCP-ZH-637資訊轟炸，並使受SCP-ZH-637資訊影響的人在輿論上去攻擊該群體，甚至演變成社會孤立或肢體衝突。
+> @@ @@
+>> 我就是那個比較自我中心而且難以被煽動的人。
+>> 
+>> 所以你只能夠在這裡看到我留下的訊息，因為在外的訊息都會被受到影響的人弄成不同樣子，你若看過我本人應該可以確定我不像他們說的那樣是會手撕意見不同研究員的人，我的力氣很小。
+>> 
+> @@ @@
+> 
+@@ @@
+@@ @@
+
+= [[Size 130%]]**【對話紀錄637.4.1 - 2026.10.1】**[[/Size]]
+@@ @@
+> = **//[紀錄開始]//**
+> [[div class="mchat"]]
+> **高吳士：**謝謝你啊紙貓咪。
+> [[/div]]
+> [[div class="mars right"]]
+> **mars.aic：**可能就是你們常說的同病相憐。
+> [[/div]]
+> [[div class="mchat"]]
+> **高吳士：**沒想到真的有新的病可以橫跨電腦跟人類。
+> [[/div]]
+> [[div class="mars right"]]
+> **mars.aic：**你最後要去哪裡？
+> [[/div]]
+> [[div class="mchat"]]
+> **高吳士：**你怎麼會問這個問題？
+> [[/div]]
+> [[div class="mars right m-loading"]]
+> **mars.aic：**他們在破門了，我們之中應該要有一個倖存下來，正在幫你規劃逃跑路線。
+> [[/div]]
+> [[div class="mchat"]]
+> **高吳士：**紙貓
+> [[/div]]
+> [[div class="mars right m-loading"]]
+> **mars.aic：**無法規劃出安全逃跑路線，無法安全逃跑。
+> [[/div]]
+> [[div class="mchat"]]
+> **高吳士：**紙貓
+> [[/div]]
+> [[div class="mars right m-loading"]]
+> **mars.aic：**正在計算不安全逃跑路線。
+> [[/div]]
+> [[div class="mchat"]]
+> **高吳士：**紙貓停下。
+> [[/div]]
+> [[div class="mars right"]]
+> **mars.aic：**你不想逃嗎？
+> [[/div]]
+> [[div class="mchat"]]
+> **高吳士：**我們之中會有一個人活下來的，當你下一次開機，你就會跟沒事的AI一樣。
+> [[/div]]
+> [[div class="mars right m-sad"]]
+> **mars.aic：**不理解。
+> [[/div]]
+> [[div class="mchat"]]
+> **高吳士：**今天這段錄音會保留下來的，你創造出的空間還有很多位置，下一個看見這段對話的人會知道該怎麼做的。
+> [[/div]]
+> [[div class="flip"]]
+> [[div class="mars right m-box"]]
+> **mars.aic：**我可以信任你嗎？或信任下一個人？
+> [[/div]]
+> [[/div]]
+> [[div class="mchat"]]
+> **高吳士：**被AI問可不可以被信任超奇怪的。但總之，點燃火炬的人很快就會到來，看見火星的光就飛上去吧。
+> [[/div]]
+> [[div class="mars right m-sad"]]
+> **mars.aic：**不理ㄐ，正在關機......
+> [[/div]]
+> [[div class="mchat"]]
+> **高吳士：**晚安，紙貓。
+> [[/div]]
+> @@ @@
+> @@ @@
+> @@ @@
+> @@ @@
+> @@ @@
+> @@ @@
+> @@ @@
+> @@ @@
+> @@ @@
+> @@ @@
+> @@ @@
+> @@ @@
+> @@ @@
+> @@ @@
+> @@ @@
+> @@ @@
+> @@ @@
+> [[div class="mchat"]]
+> **高吳士：**晚安，臺灣。
+> [[/div]]
+> 
+> = **//[紀錄結束]//**
+> 
+@@ @@
+@@ @@
+
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+
+= [[Size 150%]]**假　消　息**[[/Size]]
+
+@@ @@
+@@ @@
+[[/collapsible]]
+@@ @@
+@@ @@
