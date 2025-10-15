@@ -2,10 +2,10 @@
 [[module CSS]]
 
 :root:lang(zh) {
-    --sp_header-logo: url(https://i.meee.com.tw/PsGnEef.png);
+    --sp_header-logo: url(https://i.meee.com.tw/8Sx4ATL.png);
     --sp_header-opacity: 1.0;
     --header-title: "領星者";
-    --header-subtitle: "向著星辰之海";
+    --header-subtitle: "Ad Mare Stellarum";
 }
 .danger-diamond > .arrows {
      top: 0;
