@@ -178,20 +178,26 @@ SCP-ZH-637是對世界有所貢獻的效應，不必收容。
 > [[div class="mchat"]]
 > **高吳士：**你怎麼會問這個問題？
 > [[/div]]
-> [[div class="mars right m-loading"]]
+> [[div class="flip"]]
+> [[div class="mars right m-loadingb"]]
 > **mars.aic：**他們在破門了，我們之中應該要有一個倖存下來，正在幫你規劃逃跑路線。
 > [[/div]]
+> [[/div]]
 > [[div class="mchat"]]
 > **高吳士：**紙貓
 > [[/div]]
-> [[div class="mars right m-loading"]]
+> [[div class="flip"]]
+> [[div class="mars right m-loadingb"]]
 > **mars.aic：**無法規劃出安全逃跑路線，無法安全逃跑。
 > [[/div]]
+> [[/div]]
 > [[div class="mchat"]]
 > **高吳士：**紙貓
 > [[/div]]
-> [[div class="mars right m-loading"]]
+> [[div class="flip"]]
+> [[div class="mars right m-loadingb"]]
 > **mars.aic：**正在計算不安全逃跑路線。
+> [[/div]]
 > [[/div]]
 > [[div class="mchat"]]
 > **高吳士：**紙貓停下。
