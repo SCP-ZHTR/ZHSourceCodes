@@ -507,7 +507,6 @@ Curabitur sed dui nec libero fringilla placerat. Pellentesque imperdiet ac dolor
 
 --header-title-color: var(--redwhite);
 --search-icon-color: var(--redwhite);
---rate-module-text-color: var(--redwhite);
 --bottom-area-text-color: var(--redwhite);
 --top-bar-link-color: var(--redwhite);
 @media only screen and (max-width: 600px) {
@@ -1035,9 +1034,9 @@ span:is(.specialtext, .st) {
 --rate-module-text-color: var(--redwhite);
 --bottom-area-text-color: var(--redwhite);
 --top-bar-link-color: var(--redwhite);
-
+--top-bar-link-color: var(--redwhite);
 @media only screen and (max-width: 600px) {
- --top-bar-link-color: var(--basalt-primary-color);
+ --side-bar-button-color: var(--basalt-primary-color);
 }
 
 --tab-hover-background-color: var(--basalt-sub-text-color);
