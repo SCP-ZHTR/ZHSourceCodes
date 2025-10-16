@@ -2,8 +2,6 @@
 [[module css]]
 @import url('https://cdn.scpwiki.com/theme/en/basalt/normalize-min.css');
 @import url('https://cdn.scpwiki.com/theme/en/basalt/basalt-bedrock-min.css');
-@import url("http://scp-zh-tr.wikidot.com/theme:bedrock");
-
 [[/module]]
 
 [[include info:start]]
@@ -39,9 +37,8 @@
 {{@@[[include :scp-zh-tr:theme:bedrock]]@@
 @@[[include :scp-zh-tr:theme:site-zh-11]]@@}}
 
-（暗色模式 - [http://scp-zh-tr.wikidot.com/theme-site-zh-11-dark-demo 預覽]）
-{{@@[[include :scp-zh-tr:theme:bedrock]]@@
-@@[[include :scp-zh-tr:theme:site-zh-11 dark=a]]@@}}
+（暗色模式）
+{{@@[[include :scp-zh-tr:theme:site-zh-11 dark=a]]@@}}
 [[/div]]
 
 @@ @@
@@ -416,7 +413,14 @@ Curabitur sed dui nec libero fringilla placerat. Pellentesque imperdiet ac dolor
 [[div class="mars right m-loading"]]
 {{m-loading}}
 
-如欲將頭像水平反轉，請在mars外增加//{{@@[[div class="flip"]]@@}}//
+如欲將頭像水平反轉，請在//{{@@[[div class="mars"]]@@}}//外增加//{{@@[[div class="flip"]]@@}}//，即：
+[[div class="blockquote"]]
+{{@@[[div class="flip"]]@@}}
+{{@@[[div class="mars"]]@@}}
+內容
+{{@@[[/div]]@@}}
+{{@@[[/div]]@@}}
+[[/div]]
 [[/div]]
 [[/div]]
 [[/div]]
@@ -503,11 +507,11 @@ Curabitur sed dui nec libero fringilla placerat. Pellentesque imperdiet ac dolor
 
 --header-title-color: var(--redwhite);
 --search-icon-color: var(--redwhite);
+--rate-module-text-color: var(--redwhite);
 --bottom-area-text-color: var(--redwhite);
 --top-bar-link-color: var(--redwhite);
-
 @media only screen and (max-width: 600px) {
- --top-bar-link-color: var(--basalt-main-text-color);
+ --side-bar-button-color: var(--basalt-main-text-color);
 }
 
 --bottom-area-background-color: var(--basalt-undertone);
@@ -531,7 +535,6 @@ Curabitur sed dui nec libero fringilla placerat. Pellentesque imperdiet ac dolor
 
 
 /* 修整*/
-
 .wd-editor-toolbar-panel ul li a::after {
   background-color: rgb(var(--redwhite));
 }
@@ -736,7 +739,7 @@ div.srr_memo {
 div.te_memo {
     --memo-heading: "來自三垣的指示";
     --memo-logo: url(https://i.imgur.com/Jn1rn9H.png);
-    --memo-color: 204, 242, 255;
+    --memo-color: 193, 211, 241;
 }
 
 
@@ -1098,7 +1101,6 @@ div.srr_memo {
 }
 
 div.te_memo {
-    --memo-color: 103, 177, 233;
     --memo-logo: url(https://i.imgur.com/qyUuGHK.png);
 }
 
@@ -1122,7 +1124,7 @@ div.te_memo {
 }
 @media only screen and (max-width: 600px) {
  .mars:after, .mchat:after {
- left: -0.2rem;
+ left: -0.4rem;
  }
 }
 
@@ -1131,7 +1133,9 @@ div.te_memo {
 :is(#page-content div.mars, #page-content div.mchat):has(div.blockquote, blockquote) { 
 --blockquote-border-color: var(--mchat-bg-color);
 }
-
+.mars:after, .mchat:after {
+left: -0.1em;
+}
 
 [[/module]]
 >[[/iftags]]
