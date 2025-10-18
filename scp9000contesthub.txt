@@ -15,6 +15,15 @@
 立刻回頭！
 
 */
+/* 致譯者們：
+
+你好，譯者！
+
+為了確保品質，請透過Wikidot私訊或Discord聯繫syuzhet，以取得中心頁圖片的翻譯版本。請提供主題詞彙、左上文字的翻譯版本，右下文字則可自由選擇是否翻譯，而我會給你客製化的圖片。
+
+感謝你們！
+
+*/
 
 @import url('https://fontlibrary.org/face/fantasque-sans-mono');
 
@@ -377,10 +386,185 @@ h1, #page-options-container, .licensebox .collapsible-block-folded a, .page-watc
 [[div class="blockquote2"]]
 + 賽程：
 
-**寫作：**現在！
-**開放投稿：**北美東區時間2025年9月19日11:59 PM / 格林威治標準時間9月20日03:59 AM
-**投稿結束：**北美東區時間2025年10月3日11:59 PM / 格林威治標準時間10月4日03:59 AM
-**決定結果：**北美東區時間2025年10月17日11:59 PM / 格林威治標準時間10月18日03:59 AM
+**寫作：**結束！
+**投稿：**停止！
+**決定結果：**已決定！感謝參與
+
++ 競賽結果：
+
+[[=]]
+恭喜J Dune的作品：[http://scp-zh-tr.wikidot.com/SCP-9000 SCP-9000 - The Trench]贏得SCP-9000競賽！
+
+我以你為榮！
+
+感謝參賽的所有成員！
+
+**通知：請先不要移動你的編號！我們有一些資料異常需要處理。如果你的作品編號有誤，請讓我們知道！**
+[[/=]]
+
+[[<]]
+[!--GENERATED START--]
+# [http://scp-zh-tr.wikidot.com/9000contestjdune SCP-9000] -- **@@The Trench@@**（發表者：@@J Dune@@，最終評分：586）
+# [http://scp-zh-tr.wikidot.com/9000contestpanloque SCP-9001] -- **@@Fractal@@**（發表者：@@Croquembouche、PandoraNuker和S D Locke@@，最終評分：410）
+# [http://scp-zh-tr.wikidot.com/9000contestqueerious SCP-9900] -- **@@Single File@@**（發表者：@@Queerious@@，最終評分：380）
+# [http://scp-zh-tr.wikidot.com/9000contestdysadron SCP-9998] -- **@@A Prince Among Men@@**（發表者：@@Dysadron@@，最終評分：317）
+# [http://scp-zh-tr.wikidot.com/9000contestplaguepjp SCP-9595] -- **@@Pizza freak@@**（發表者：@@PlaguePJP@@，最終評分：241）
+# [http://scp-zh-tr.wikidot.com/9000contestmothmanuxo SCP-9002] -- **@@The Bike That Makes You Racist@@**（發表者：@@mothmanUXO@@，最終評分：238）
+# [http://scp-zh-tr.wikidot.com/9000contestblankfellowplace SCP-9500] -- **@@The Veil@@**（發表者：@@HarryBlank、MrBadFellow和Placeholder McD@@，最終評分：231）
+# [http://scp-zh-tr.wikidot.com/9000contestparenthesis SCP-9003] -- **@@Manifesto Of An Anomalous Terrorist.@@**（發表者：@@Parenthesis@@，最終評分：224）
+# [http://scp-zh-tr.wikidot.com/9000contestdaveyoufool SCP-9005] -- **@@The Hanged Man@@**（發表者：@@daveyoufool@@，最終評分：214）
+# [http://scp-zh-tr.wikidot.com/9000contestjezixo SCP-9100] -- **@@DAYDREAM@@**（發表者：@@Jezixo@@，最終評分：202）
+# [http://scp-zh-tr.wikidot.com/9000contestlocallesbiancommie SCP-9964] -- **@@I'm Still Here@@**（發表者：@@local lesbian commie@@，最終評分：197）
+# [http://scp-zh-tr.wikidot.com/9000contestnico SCP-9726] -- **@@This Land Was Made For You And Me@@**（發表者：@@Uncle Nicolini@@，最終評分：187）
+# [http://scp-zh-tr.wikidot.com/9000contestradian628 SCP-9009] -- **@@"White People"@@**（發表者：@@Intercedent、radian628和ubergoober@@，最終評分：184）
+# [http://scp-zh-tr.wikidot.com/9000contestcathyautumn SCP-9004] -- **@@Mercy@@**（發表者：@@Cathy Autumn@@，最終評分：149）
+# [http://scp-zh-tr.wikidot.com/9000contestxextyra SCP-9006] -- **@@The Breakdown Of The Egg Structure@@**（發表者：@@Tyrastafr和xexnoncores@@，最終評分：145）
+# [http://scp-zh-tr.wikidot.com/9000contestironshears SCP-9630] -- **@@l'Ortolan@@**（發表者：@@IronShears@@，最終評分：145）
+# [http://scp-zh-tr.wikidot.com/9000contestgrigorikarpin SCP-9007] -- **@@Breaking News@@**（發表者：@@Grigori Karpin@@，最終評分：139）
+# [http://scp-zh-tr.wikidot.com/9000contestseekgull SCP-9008] -- **@@This Place Sucks@@**（發表者：@@SeekGull@@，最終評分：126）
+# [http://scp-zh-tr.wikidot.com/9000contestdjkaktus SCP-9935] -- **@@One More Afternoon@@**（發表者：@@djkaktus@@，最終評分：126）
+# [http://scp-zh-tr.wikidot.com/9000contestdinotroutrosy SCP-9990] -- **@@Neglected Idylls@@**（發表者：@@Dino--Draws、Rosyfox2002和TroutMaskReplica@@，最終評分：126）
+# [http://scp-zh-tr.wikidot.com/scp-9200 SCP-9200] -- **@@SCP-9200@@**（發表者：@@Doctor Cimmerian@@，最終評分：125）
+# [http://scp-zh-tr.wikidot.com/9000contestitsabadidea SCP-9090] -- **@@Suzerain@@**（發表者：@@Its a Bad Idea@@，最終評分：122）
+# [http://scp-zh-tr.wikidot.com/9000contestralliston SCP-9600] -- **@@Fall of Icarus@@**（發表者：@@Ralliston@@，最終評分：121）
+# [http://scp-zh-tr.wikidot.com/9000contestastralnavigator SCP-9300] -- **@@Where Gods Fell@@**（發表者：@@AstralNavigator和GeminidStrix@@，最終評分：114）
+# [http://scp-zh-tr.wikidot.com/9000katyastrangelove SCP-9140] -- **@@PERESTROIKA!@@**（發表者：@@KatyaStrangelove@@，最終評分：112）
+# [http://scp-zh-tr.wikidot.com/9000contestdrbalthazaar SCP-9400] -- **@@A Brooding Taste For Violence@@**（發表者：@@Dr Balthazaar@@，最終評分：112）
+# [http://scp-zh-tr.wikidot.com/9000contestgreenwolftawny SCP-9666] -- **@@Operation AEON DAWN; Or, That Time the GOC Killed God@@**（發表者：@@GreenWolf和tawny0@@，最終評分：111）
+# [http://scp-zh-tr.wikidot.com/9000contestraddagher SCP-9320] -- **@@Treespeak@@**（發表者：@@Raddagher@@，最終評分：111）
+# [http://scp-zh-tr.wikidot.com/9000contestaldi-shopper SCP-9055] -- **@@Arachnemonic@@**（發表者：@@Aldi_Shopper@@，最終評分：105）
+# [http://scp-zh-tr.wikidot.com/9000contestbigslothonmyface SCP-9997] -- **@@Shattered Land National Park@@**（發表者：@@bigslothonmyface@@，最終評分：100）
+# [http://scp-zh-tr.wikidot.com/9000contestariadnesthread SCP-9028] -- **@@To the Fate of the Faithful@@**（發表者：@@AriadnesThread@@，最終評分：93）
+# [http://scp-zh-tr.wikidot.com/9000contestanimalhospital SCP-9010] -- **@@Lycanhaus@@**（發表者：@@Animal Hospital@@，最終評分：92）
+# [http://scp-zh-tr.wikidot.com/9000contestsoftseal SCP-9700] -- **@@SCP-9700@@**（發表者：@@softseal@@，最終評分：89）
+# [http://scp-zh-tr.wikidot.com/9000contestaftokrator SCP-9800] -- **@@Life and Death in Another World@@**（發表者：@@Aftokrator@@，最終評分：84）
+# [http://scp-zh-tr.wikidot.com/9000contestmontagueetc SCP-9555] -- **@@MEDIUM & MESSENGER@@**（發表者：@@MontagueETC@@，最終評分：84）
+# [http://scp-zh-tr.wikidot.com/9000contestwackdog SCP-9996] -- **@@The Middleman@@**（發表者：@@wackdog@@，最終評分：82）
+# [http://scp-zh-tr.wikidot.com/9000contestiamtheooga SCP-9106] -- **@@Interdimensional Real Estate Gaiden: Revengeance@@**（發表者：@@IAmTheOoga@@，最終評分：82）
+# [http://scp-zh-tr.wikidot.com/9000contestbattlecruiser12 SCP-9154] -- **@@Swing for the Bleachers@@**（發表者：@@battlecruiser12@@，最終評分：79）
+# [http://scp-zh-tr.wikidot.com/9000contestsailorenoch SCP-9991] -- **@@Lapupu@@**（發表者：@@sailorenoch@@，最終評分：78）
+# [http://scp-zh-tr.wikidot.com/9000contestmann SCP-9393] -- **@@Anomaly Means We Don't Know@@**（發表者：@@DrEverettMann@@，最終評分：76）
+# [http://scp-zh-tr.wikidot.com/9000contestj-v-g SCP-9014] -- **@@The Final Voyage of Sea Captain Peters@@**（發表者：@@cive(creative name)、JVCK和J_V_G@@，最終評分：76）
+# [http://scp-zh-tr.wikidot.com/9000contestpoufypoufson SCP-9011] -- **@@Soft White Light@@**（發表者：@@PoufyPoufson@@，最終評分：74）
+# [http://scp-zh-tr.wikidot.com/9000contestgravelenthusiast SCP-9030] -- **@@Take It On the Chin@@**（發表者：@@GravelEnthusiast@@，最終評分：73）
+# [http://scp-zh-tr.wikidot.com/9000contestanactualcrow SCP-9012] -- **@@Contents Unverified@@**（發表者：@@AnActualCrow@@，最終評分：72）
+# [http://scp-zh-tr.wikidot.com/9000contestmatthgeek SCP-9119] -- **@@Standard Containment Procedures@@**（發表者：@@Matthgeek@@，最終評分：71）
+# [http://scp-zh-tr.wikidot.com/9000contestcalibold SCP-9889] -- **@@End Of The Road@@**（發表者：@@Calibold@@，最終評分：70）
+# [http://scp-zh-tr.wikidot.com/9000contestanyar SCP-9682] -- **@@The Cheese Foundation@@**（發表者：@@Anyar@@，最終評分：69）
+# [http://scp-zh-tr.wikidot.com/9000drchandra SCP-9099] -- **@@Reverse Panopticon@@**（發表者：@@DrChandra@@，最終評分：67）
+# [http://scp-zh-tr.wikidot.com/9000contestarclund SCP-9042] -- **@@Panspermia@@**（發表者：@@Arclund@@，最終評分：66）
+# [http://scp-zh-tr.wikidot.com/9000contesttufto SCP-9799] -- **@@Woman in Grey@@**（發表者：@@Tufto@@，最終評分：66）
+# [http://scp-zh-tr.wikidot.com/9000contestuncannyon SCP-9020] -- **@@APOTHEOSIS: We Have Some Notes@@**（發表者：@@Uncannyon@@，最終評分：66）
+# [http://scp-zh-tr.wikidot.com/9000contestmaplestrip SCP-9995] -- **@@We Need To Talk About Parallel Universes@@**（發表者：@@Maplestrip@@，最終評分：65）
+# [http://scp-zh-tr.wikidot.com/9000contestsinkingotter SCP-9618] -- **@@An Argument of Skullflowers@@**（發表者：@@Sinking_Otter@@，最終評分：63）
+# [http://scp-zh-tr.wikidot.com/9000contestchoccoman SCP-9899] -- **@@REAGANPUNK@@**（發表者：@@choccoMan和DFAstillo91@@，最終評分：61）
+# [http://scp-zh-tr.wikidot.com/9000contestbaddata SCP-9102] -- **@@There is No Such Thing as the Dublin City Metro@@**（發表者：@@BAD_DATA@@，最終評分：59）
+# [http://scp-zh-tr.wikidot.com/9000contestdeadcanons SCP-9023] -- **@@The Shapeshifter@@**（發表者：@@Deadcanons@@，最終評分：59）
+# [http://scp-zh-tr.wikidot.com/9000contestblazingpie SCP-9994] -- **@@The Nonpareil Beast@@**（發表者：@@BlazingPie@@，最終評分：57）
+# [http://scp-zh-tr.wikidot.com/9000contestzyn SCP-9333] -- **@@Rich Witch Flitch Trials@@**（發表者：@@Zyn@@，最終評分：57）
+# [http://scp-zh-tr.wikidot.com/9000contestdiogenes SCP-9993] -- **@@Here From Then@@**（發表者：@@Diogene_s@@，最終評分：57）
+# [http://scp-zh-tr.wikidot.com/9000contestpumgumgum SCP-9040] -- **@@Pirates of the Cockroaches@@**（發表者：@@Pumgumgum@@，最終評分：56）
+# [http://scp-zh-tr.wikidot.com/9000contestlordxvnv SCP-9013] -- **@@Space eXpert@@**（發表者：@@LORDXVNV@@，最終評分：54）
+# [http://scp-zh-tr.wikidot.com/9000contestsonderance SCP-9101] -- **@@Makes Like a Tree@@**（發表者：@@Sonderance@@，最終評分：54）
+# [http://scp-zh-tr.wikidot.com/9000contestmerehrab SCP-9696] -- **@@Floods@@**（發表者：@@Merehrab@@，最終評分：54）
+# [http://scp-zh-tr.wikidot.com/9000contestonlineopossum SCP-9110] -- **@@Self Portrait in Red String@@**（發表者：@@OnlineOpossum@@，最終評分：53）
+# [http://scp-zh-tr.wikidot.com/9000contestethagon SCP-9341] -- **@@Containment Breach: Capacity@@**（發表者：@@Ethagon@@，最終評分：52）
+# [http://scp-zh-tr.wikidot.com/9000contestanorrack SCP-9016] -- **@@Flaming Telepaths@@**（發表者：@@Anorrack@@，最終評分：51）
+# [http://scp-zh-tr.wikidot.com/9000contestastersynth SCP-9231] -- **@@Don't Cry For Your Daughters@@**（發表者：@@AstersQuill和SynthPanda_@@，最終評分：50）
+# [http://scp-zh-tr.wikidot.com/9000contestaismallard SCP-9201] -- **@@SCP-9994@@**（發表者：@@aismallard@@，最終評分：49）
+# [http://scp-zh-tr.wikidot.com/9000contesttrintavon SCP-9699] -- **@@Universal Donor@@**（發表者：@@Trintavon@@，最終評分：49）
+# [http://scp-zh-tr.wikidot.com/9000contestharmacy SCP-9184] -- **@@THE ARCHAIC@@**（發表者：@@Harmacy@@，最終評分：47）
+# [http://scp-zh-tr.wikidot.com/9000contestsimartar SCP-9550] -- **@@Running in Place@@**（發表者：@@Simartar@@，最終評分：46）
+# [http://scp-zh-tr.wikidot.com/9000contestpenumbralchoir SCP-9559] -- **@@The Torches We Bear@@**（發表者：@@penumbralchoir@@，最終評分：44）
+# [http://scp-zh-tr.wikidot.com/9000contestfrankentropy SCP-9317] -- **@@The Montauk Machine@@**（發表者：@@FrankEntropy@@，最終評分：44）
+# [http://scp-zh-tr.wikidot.com/9000contestampyrreference SCP-9410] -- **@@THE NEVER WΔR@@**（發表者：@@Ampyrsand@@，最終評分：43）
+# [http://scp-zh-tr.wikidot.com/9000contestuncgriffin SCP-9015] -- **@@Wood to Flesh@@**（發表者：@@UNCGriffin@@，最終評分：43）
+# [http://scp-zh-tr.wikidot.com/9000contestjtdn SCP-8542] -- **@@The Swollen Head of Johann Froben@@**（發表者：@@jtdn@@，最終評分：43）
+# [http://scp-zh-tr.wikidot.com/9000contest8bitbreadbox SCP-9125] -- **@@The Memeticist@@**（發表者：@@8bitbreadbox@@，最終評分：43）
+# [http://scp-zh-tr.wikidot.com/9000contestkarathh SCP-9777] -- **@@Nitaka Miino - Imitation Is the Sincerest Form@@**（發表者：@@Karathh@@，最終評分：41）
+# [http://scp-zh-tr.wikidot.com/9000contestkothardarastrix SCP-9314] -- **@@Cracked Foundation@@**（發表者：@@Kothardarastrix@@，最終評分：39）
+# [http://scp-zh-tr.wikidot.com/9000contestindustrystandard SCP-9753] -- **@@Industry Standard@@**（發表者：@@IndustryStandard@@，最終評分：38）
+# [http://scp-zh-tr.wikidot.com/9000contestcelestialtophat SCP-9050] -- **@@EGREGORE@@**（發表者：@@Anakes和CelestialTophat@@，最終評分：38）
+# [http://scp-zh-tr.wikidot.com/9000contestawhiteboy SCP-9343] -- **@@Whispers on the Wind@@**（發表者：@@AWhiteBoy@@，最終評分：36）
+# [http://scp-zh-tr.wikidot.com/9000contestspider-jaws SCP-9060] -- **@@Shyness@@**（發表者：@@Spider_Jaws@@，最終評分：35）
+# [http://scp-zh-tr.wikidot.com/9000contestsevencix SCP-9070] -- **@@True Normalcy@@**（發表者：@@Sevencix@@，最終評分：35）
+# [http://scp-zh-tr.wikidot.com/9000contestesther619 SCP-9499] -- **@@Palingenesis@@**（發表者：@@esther619@@，最終評分：35）
+# [http://scp-zh-tr.wikidot.com/9000contestpliltdrgrimoire SCP-9663] -- **@@The Wood of Worlds@@**（發表者：@@DrGrimoire和Plilt@@，最終評分：34）
+# [http://scp-zh-tr.wikidot.com/9000contestkilerpoyo SCP-9914] -- **@@La Casa de Asterión@@**（發表者：@@Kilerpoyo@@，最終評分：33）
+# [http://scp-zh-tr.wikidot.com/9000contestfrozenfoxb SCP-9989] -- **@@Salp Chain!@@**（發表者：@@frozenFoxB@@，最終評分：33）
+# [http://scp-zh-tr.wikidot.com/9000contestfairydoctor SCP-9955] -- **@@The Fifth Congregational Church@@**（發表者：@@fairydoctor@@，最終評分：32）
+# [http://scp-zh-tr.wikidot.com/9000contestclutterarranger SCP-9966] -- **@@THE GREAT FILTER@@**（發表者：@@clutterArranger@@，最終評分：31）
+# [http://scp-zh-tr.wikidot.com/9000contestdemolitionderpy SCP-9444] -- **@@Master's Tools@@**（發表者：@@demolitionderpy@@，最終評分：31）
+# [http://scp-zh-tr.wikidot.com/9000contestdr-talcite SCP-9111] -- **@@Promise of Eden@@**（發表者：@@Dr Talcite@@，最終評分：31）
+# [http://scp-zh-tr.wikidot.com/9000booblesnoot SCP-9886] -- **@@Ersatz@@**（發表者：@@Booblesnoot@@，最終評分：31）
+# [http://scp-zh-tr.wikidot.com/9000contestdoctorlovelace SCP-9471] -- **@@The Price of Eternity@@**（發表者：@@Doctor Lovelace@@，最終評分：30）
+# [http://scp-zh-tr.wikidot.com/9000contestpuriora SCP-9017] -- **@@Pending@@**（發表者：@@Puriora@@，最終評分：30）
+# [http://scp-zh-tr.wikidot.com/9000contestkayes-eskay SCP-9022] -- **@@Street Lethal Angel@@**（發表者：@@Kayes_Eskay@@，最終評分：30）
+# [http://scp-zh-tr.wikidot.com/9000contestxhawk77x SCP-9280] -- **@@The Arena Demands a Sacrifice@@**（發表者：@@XHAWK77X@@，最終評分：30）
+# [http://scp-zh-tr.wikidot.com/9000contestdoctorscrappy SCP-9876] -- **@@Dawn of Darkness@@**（發表者：@@Doctor Scrappy@@，最終評分：28）
+# [http://scp-zh-tr.wikidot.com/9000contestdoctorzurvan SCP-9109] -- **@@It Came from the Corner-Space@@**（發表者：@@Doctor Zurvan@@，最終評分：27）
+# [http://scp-zh-tr.wikidot.com/9000contestutylike SCP-9018] -- **@@Severance and Closure@@**（發表者：@@Utylike@@，最終評分：27）
+# [http://scp-zh-tr.wikidot.com/9000contestperdoh SCP-9019] -- **@@SCP-9000 – Normal@@**（發表者：@@Perdoh@@，最終評分：26）
+# [http://scp-zh-tr.wikidot.com/9000contestsprawlingstar SCP-9222] -- **@@HOUSE OF THE RISING SUN@@**（發表者：@@sprawlingstar@@，最終評分：26）
+# [http://scp-zh-tr.wikidot.com/9000contestmister-toasty SCP-9199] -- **@@And to Think That I Saw It on Mulberry Street@@**（發表者：@@Mister_Toasty@@，最終評分：25）
+# [http://scp-zh-tr.wikidot.com/9000contestthetravllr SCP-9401] -- **@@The iForgot（發表者：Apple Incorporated@@**（發表者：@@TheTravllr@@，最終評分：25）
+# [http://scp-zh-tr.wikidot.com/9000contestshariavanilla SCP-9529] -- **@@Tripod Cat@@**（發表者：@@Sharia Vanilla@@，最終評分：24）
+# [http://scp-zh-tr.wikidot.com/9000contestsynent SCP-9021] -- **@@ANAMNESIS@@**（發表者：@@SynEnt@@，最終評分：23）
+# [http://scp-zh-tr.wikidot.com/9000contesty0ssarian SCP-9445] -- **@@Be All Our Sins Remember'd@@**（發表者：@@Y0ssarian@@，最終評分：23）
+# [http://scp-zh-tr.wikidot.com/9000contestdappleddaspletosaur SCP-9779] -- **@@A Vacuum Abhors Nature@@**（發表者：@@DappledDaspletosaur@@，最終評分：22）
+# [http://scp-zh-tr.wikidot.com/9000contestkaelicles SCP-9024] -- **@@The Undefined@@**（發表者：@@Kaelicles@@，最終評分：22）
+# [http://scp-zh-tr.wikidot.com/9000contesthenzoid SCP-9025] -- **@@The Neverlanders Reunion Tour@@**（發表者：@@Henzoid@@，最終評分：22）
+# [http://scp-zh-tr.wikidot.com/9000contestfireknight SCP-9924] -- **@@The Mad King's Tomb@@**（發表者：@@Fireknight@@，最終評分：21）
+# [http://scp-zh-tr.wikidot.com/9000contestdreadnoughtgalaxy SCP-9992] -- **@@When a Killer Falls Off the Face of the Earth...@@**（發表者：@@DreadnoughtGalaxy@@，最終評分：21）
+# [http://scp-zh-tr.wikidot.com/9000contestvilsotoast SCP-9835] -- **@@The Manticore Hotel!@@**（發表者：@@vilsolad@@，最終評分：20）
+# [http://scp-zh-tr.wikidot.com/9000contestsimpleruins SCP-9120] -- **@@The Dragon and The Castle@@**（發表者：@@SimpleRuins@@，最終評分：18）
+# [http://scp-zh-tr.wikidot.com/9000contest-shirleysterling SCP-9321] -- **@@Man-Made Decay@@**（發表者：@@Shirley Sterling@@，最終評分：17）
+# [http://scp-zh-tr.wikidot.com/9000contestdoctorlilithsophia SCP-9408] -- **@@CORPSEBALL: MONOMYTH@@**（發表者：@@DoctorLilithSophia@@，最終評分：17）
+# [http://scp-zh-tr.wikidot.com/9000contestharrietfarrar SCP-9892] -- **@@The need to feel important@@**（發表者：@@Harriet Farrar@@，最終評分：17）
+# [http://scp-zh-tr.wikidot.com/9000contestcoccolithophor SCP-9130] -- **@@Pareidolia@@**（發表者：@@Coccolithophor@@，最終評分：16）
+# [http://scp-zh-tr.wikidot.com/9000contestwaylandlaurencepan SCP-9888] -- **@@Metastructural Fission@@**（發表者：@@WaylandLaurencePan@@，最終評分：15）
+# [http://scp-zh-tr.wikidot.com/9000contestnullscape SCP-9822] -- **@@Cessation@@**（發表者：@@Nullscape@@，最終評分：15）
+# [http://scp-zh-tr.wikidot.com/9000contestfiretamer SCP-9240] -- **@@The Server Screams@@**（發表者：@@FireTamer@@，最終評分：14）
+# [http://scp-zh-tr.wikidot.com/9000contestzoempaws SCP-9173] -- **@@Seawalls@@**（發表者：@@zoempaws@@，最終評分：14）
+# [http://scp-zh-tr.wikidot.com/9000contesthikarinu SCP-9669] -- **@@Difference of Perspective@@**（發表者：@@Hikarinu@@，最終評分：14）
+# [http://scp-zh-tr.wikidot.com/9000contestfiref1y SCP-9048] -- **@@The Animals In The Pit@@**（發表者：@@Firef1y@@，最終評分：13）
+# [http://scp-zh-tr.wikidot.com/9000contestgunpowdr SCP-9026] -- **@@Remember, Remember@@**（發表者：@@Gunpowdr@@，最終評分：13）
+# [http://scp-zh-tr.wikidot.com/9000contestape5 SCP-9808] -- **@@Peace Everlasting@@**（發表者：@@Tape 5# 1987@@，最終評分：13）
+# [http://scp-zh-tr.wikidot.com/9000contestulyssesbark SCP-9033] -- **@@The Catalogue@@**（發表者：@@UlyssesBark@@，最終評分：12）
+# [http://scp-zh-tr.wikidot.com/9000contestfloorboards SCP-9433] -- **@@Statue That Doesn't Move@@**（發表者：@@FLOORBOARDS@@，最終評分：11）
+# [http://scp-zh-tr.wikidot.com/9000contestpinoccappuccino SCP-9931] -- **@@Cretaceous Nanotubes (KNTs)@@**（發表者：@@Pinoccappuccino@@，最終評分：11）
+# [http://scp-zh-tr.wikidot.com/9000contestsunnymouse SCP-9080] -- **@@Just As Was Told@@**（發表者：@@AnotherSunnyDay和mouseatemyhouse@@，最終評分：10）
+# [http://scp-zh-tr.wikidot.com/9000contestfermentating SCP-9494] -- **@@Stacking The Change@@**（發表者：@@Fermentating@@，最終評分：10）
+# [http://scp-zh-tr.wikidot.com/9000contestleplante SCP-9440] -- **@@The End@@**（發表者：@@LePlante@@，最終評分：9）
+# [http://scp-zh-tr.wikidot.com/9000contestlucas667 SCP-9027] -- **@@The Beginning Of The End@@**（發表者：@@Lucas667@@，最終評分：9）
+# [http://scp-zh-tr.wikidot.com/9000contestletova SCP-9790] -- **@@A Heart@@**（發表者：@@Letova@@，最終評分：8）
+# [http://scp-zh-tr.wikidot.com/9000contestsigyeklette SCP-9031] -- **@@The Nahani Still Live@@**（發表者：@@SigYeklette@@，最終評分：8）
+# [http://scp-zh-tr.wikidot.com/9000contesthufor SCP-9610] -- **@@Afternolife@@**（發表者：@@Hufor@@，最終評分：8）
+# [http://scp-zh-tr.wikidot.com/9000contestuniquename SCP-9029] -- **@@Corpse Cutters@@**（發表者：@@UniqueName@@，最終評分：8）
+# [http://scp-zh-tr.wikidot.com/9000contestjackike SCP-9032] -- **@@Retractare@@**（發表者：@@Jack Ike@@，最終評分：7）
+# [http://scp-zh-tr.wikidot.com/9000contestblueeyedfox SCP-9202] -- **@@The Glass Tree@@**（發表者：@@BlueEyedFox_@@，最終評分：7）
+# [http://scp-zh-tr.wikidot.com/9000contestalexdiflip SCP-9250] -- **@@Meditations in Grief@@**（發表者：@@alexdiflip@@，最終評分：7）
+# [http://scp-zh-tr.wikidot.com/9000contestmrmcguffin SCP-9034] -- **@@There's A Man-Shaped Hole in God's Heart@@**（發表者：@@Mr Mcguffin@@，最終評分：6）
+# [http://scp-zh-tr.wikidot.com/9000cakoh SCP-9747] -- **@@Secure Continere Praeservare@@**（發表者：@@Cakoh@@，最終評分：6）
+# [http://scp-zh-tr.wikidot.com/9000contestoctiron SCP-9041] -- **@@Self-Containment Protocol@@**（發表者：@@octiron@@，最終評分：5）
+# [http://scp-zh-tr.wikidot.com/9000contestjeanjacket SCP-9096] -- **@@The Lunch Thief@@**（發表者：@@JeanJacket@@，最終評分：5）
+# [http://scp-zh-tr.wikidot.com/9000contestresolver SCP-9035] -- **@@Chronesthesia II@@**（發表者：@@Resolver@@，最終評分：5）
+# [http://scp-zh-tr.wikidot.com/9000contestdmonist SCP-9678] -- **@@Stochastic field disruption@@**（發表者：@@Dmonist@@，最終評分：5）
+# [http://scp-zh-tr.wikidot.com/9000contestn1ght-scribe SCP-9225] -- **@@Everlasting, but Forgotten@@**（發表者：@@N1ght_Scribe@@，最終評分：5）
+# [http://scp-zh-tr.wikidot.com/9000contestpeter-cohen SCP-9036] -- **@@Administrative Competence@@**（發表者：@@Peter Cohen@@，最終評分：4）
+# [http://scp-zh-tr.wikidot.com/9000contestdr-lutwin SCP-9051] -- **@@Powercreep@@**（發表者：@@DrLutwin@@，最終評分：4）
+# [http://scp-zh-tr.wikidot.com/9000contestzeekyboogydoog SCP-9150] -- **@@Worn Away@@**（發表者：@@ZeekyBoogyDoog@@，最終評分：4）
+# [http://scp-zh-tr.wikidot.com/9000contestcircledot SCP-9191] -- **@@Alarm clock of normalcy@@**（發表者：@@circledot@@，最終評分：3）
+# [http://scp-zh-tr.wikidot.com/9000conteststonephish SCP-9891] -- **@@SCP-9000 – "My Name?"@@**（發表者：@@Stonephish@@，最終評分：3）
+# [http://scp-zh-tr.wikidot.com/9000contestblackmonday SCP-9229] -- **@@O Sancta Simplicitas!@@**（發表者：@@BlackMonday@@，最終評分：2）
+# [http://scp-zh-tr.wikidot.com/9000contestratseerofrattesse SCP-9037] -- **@@Theseus' Goose@@**（發表者：@@RatseerOfRattesse@@，最終評分：1）
+# [http://scp-zh-tr.wikidot.com/9000contestalphaastrox SCP-9038] -- **@@The Sybilline Paintings@@**（發表者：@@AlphaAstroX@@，最終評分：-2）
+# [http://scp-zh-tr.wikidot.com/9000contestteaanddigestives SCP-9170] -- **@@No. 17 Gorse Avenue@@**（發表者：@@TeaAndDigestives@@，最終評分：-2）
+# [http://scp-zh-tr.wikidot.com/9000contestpoltatherian SCP-9230] -- **@@In The House Of God@@**（發表者：@@poltatherian@@，最終評分：-3）
+# [http://scp-zh-tr.wikidot.com/9000contestesquirezel SCP-9601] -- **@@Daedalus Museum@@**（發表者：@@Esquire Zel@@，最終評分：-6）
+[!--GENERATED END--]
+
+[[/<]]
 
 + 參賽作品：
 
@@ -388,18 +572,170 @@ h1, #page-options-container, .licensebox .collapsible-block-folded a, .page-watc
 在投稿開放期間，也就是北美東區時間2025年9月19日11:59 PM / 格林威治標準時間9月20日03:59 AM後，參賽作品將出現在這裡。
 [[/=]]
 
-[[module ListPages category="_default adult" separate="no" tags="+en-9000 -hub -donotshowupinmodule" perPage="100" order="random"]]
-* [[size 120%]][[span style="font-weight: bold"]]%%title_linked%%[[/span]][[/size]]  [[size 105%]]//發表者：// [[span style="font-weight: bold"]]%%created_by%%[[/span]][[/size]]
+[[module css]]
+
+.entry-list {
+    display: grid;
+    margin-block: .75rem;
+    padding-inline-start: 1rem;
+    padding: 2rem;
+    background-color: #E9E6D6;
+    box-shadow: 0 1px 6px rgba(0,0,0,.25);
+    text-align: left;
+}
+
+.entry {
+    padding: .1rem;
+    transition: background-color .175s ease-out;
+}
+.entry:is(:hover,:focus-within) { background-color: rgb(var(--basalt-undertone),.175); }
+
+.entry .title {
+    font-size: 1.125em;
+}
+.entry .title  p { margin: 0; }
+.entry .title :is(a,.entry-author) { font-weight: bold; font-style: normal; }
+
+.ranked-list .title {
+    display: flex;
+    justify-content: space-between;
+}
+
+.ranked-list .title .index {
+   width: 2.5em;
+   text-align: left;
+}
+
+.ranked-list .title .rating {
+    margin-left: auto;
+}
+
+.description > :not(.preview) { display: none!important; }
+.description > .preview {
+    display: block;
+    padding-block: .125rem;
+    font-size: .875em;
+    text-align: start;
+    margin-inline-start: 1.5rem;
+}
+.preview > p {
+    margin-block: .55em;
+}
+.preview > p:first-child { margin-block-start: .25em; }
+.preview > p:last-child { margin-block-end: .25em; }
+
+.entry-list .entry::marker {
+    content: "";
+}
+
+.entry .description {
+    display: none;
+    position: absolute;
+    background: #E4E1D2;
+    box-shadow: 6px 6px 0px rgba(0,0,0,.05),
+        0 1px 6px rgba(0,0,0,.25);
+    margin-right: -20px;
+    pointer-events: none;
+}
+
+.entry .description .preview {
+    margin-left: 0;
+    margin: 0.5rem 1rem;
+}
+
+.entry:hover .description, .entry:active .description {
+    display: block;
+    animation-name: desc-bounce;
+    animation-duration: 0.1s;
+}
+
+@keyframes desc-bounce {
+    0% {
+        transform: translateY(0);
+    }
+    50% {
+        transform: translateY(-5px);
+    }
+    100% {
+        transform: translateY(0);
+    }
+}
+
+/* Co-authors */
+
+.entry [href="/9000contestastersynth"] ~ .entry-author::after { content: " and SynthPanda_" }
+.entry [href="/9000contestastralnavigator"] ~ .entry-author::after { content: " and GeminidStrix" }
+.entry [href="/9000contestblankfellowplace"] ~ .entry-author::after { content: ", MrBadFellow and Placeholder McD" }
+.entry [href="/9000contestcelestialtophat"] ~ .entry-author::after { content: " and Anakes" }
+.entry [href="/9000contestchoccoman"] ~ .entry-author::after { content: " and DFAstillo9" }
+.entry [href="/9000contestdinotroutrosy"] ~ .entry-author::after { content: ", Rosyfox2002 and TroutMaskReplica" }
+.entry [href="/9000contestgreenwolftawny"] ~ .entry-author::after { content: " and tawny0" }
+.entry [href="/9000contestj-v-g"] ~ .entry-author::after { content: ", cive(creative name) and JVCK" }
+.entry [href="/9000contestpanloque"] ~ .entry-author::after { content: ", Croquembouche and PandoraNuker" }
+.entry [href="/9000contestpliltdrgrimoire"] ~ .entry-author::after { content: " and DrGrimoire" }
+.entry [href="/9000contestradian628"] ~ .entry-author::after { content: ", Intercedent and ubergoober" }
+.entry [href="/9000contestsunnymouse"] ~ .entry-author::after { content: " and mouseatemyhouse" }
+.entry [href="/9000contestxextyra"] ~ .entry-author::after { content: " and Tyrastafr" }
+
 [[/module]]
+
+[[div class="entry-list"]]
+[[module ListPages category="_default adult" separate="no" tags="+en-9000 -中心 -donotshowupinmodule" perPage="500" order="random" wrapper="no"]]
+[[div class="entry"]]
+[[div class="title"]]
+%%title_linked%% by [[span class="entry-author"]]%%created_by%%[[/span]]
+[[/div]]
+[[div class="description"]]
+%%content{2}%%
+[[/div]]
+[[/div]]
+[[/module]]
+[[/div]]
 
 [[=]]
-[[collapsible show="+ 點這裡讓作品依投稿先後排序 +" hide="- 點這裡收起清單 -"]]
 
-[[module ListPages category="_default adult" separate="no" tags="+en-9000 -hub -donotshowupinmodule" perPage="100" order="created_at desc"]]
-* [[size 120%]][[span style="font-weight: bold"]]%%title_linked%%[[/span]][[/size]]  [[size 105%]]//發表者：// [[span style="font-weight: bold"]]%%created_by%%[[/span]][[/size]]
+[[collapsible show="+ 點這裡讓作品依排名先後排序 +" hide="- 點這裡收起清單 -"]]
+[[<]]
+[[div class="entry-list ranked-list"]]
+[[module ListPages category="_default adult" separate="no" tags="+en-9000 -中心 -donotshowupinmodule" perPage="500" order="rating desc" wrapper="no"]]
+[[div class="entry"]]
+[[div class="title"]]
+[[div class="index"]]
+%%index%%
+[[/div]]
+[[div class="name"]]
+%%title_linked%% by [[span class="entry-author"]]%%created_by%%[[/span]]
+[[/div]]
+[[div class="rating"]]
+(%%rating%%)
+[[/div]]
+[[/div]]
+[[div class="description"]]
+%%content{2}%%
+[[/div]]
+[[/div]]
 [[/module]]
-
+[[/div]]
+[[/<]]
 [[/collapsible]]
+
+[[collapsible show="+ 點這裡讓作品依投稿先後排序 +" hide="- 點這裡收起清單 -"]]
+[[<]]
+[[div class="entry-list"]]
+[[module ListPages category="_default adult" separate="no" tags="+en-9000 -中心 -donotshowupinmodule" perPage="500" order="created_at desc" wrapper="no"]]
+[[div class="entry"]]
+[[div class="title"]]
+%%title_linked%% by [[span class="entry-author"]]%%created_by%%[[/span]]
+[[/div]]
+[[div class="description"]]
+%%content{2}%%
+[[/div]]
+[[/div]]
+[[/module]]
+[[/div]]
+[[/<]]
+[[/collapsible]]
+
 [[/=]]
 
 + 參賽指示：
