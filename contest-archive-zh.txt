@@ -407,9 +407,12 @@ ZH建立網站以後所舉辦的第一場大型競賽，以平行宇宙為主題
 [[div class="item-title"]]
 [[[http://scp-zh-tr.wikidot.com/zhongyuan-2024|中元恐怖——早梅詩]]]
 [[/div]]
-|| [[*user AbyssDream]] ， [[*user Frederica Bernkastel]]|| 2024/8/04  - 2024/9/02 ||
+|| [[*user AbyssDream]] 、 _
+ [[*user Frederica Bernkastel]]|| 2024/8/04  - 2024/9/02 ||
 -----
-向20名作者徵稿的恐怖主題項目創作活動，加入了許多娛樂向的猜謎與獎項機制。
+接下來的二十日內，二十位本分部的作者將發布二十篇全新的SCP作品，訴出潛伏於你我身旁的夢魘、魅影與無法直面的恐懼。
+ 
+農曆七月，陰陽合一，門扉開啟。
 
 [[/div]]
 @@ @@
@@ -457,11 +460,33 @@ ZH建立網站以後所舉辦的第一場大型競賽，以平行宇宙為主題
 本次 2025 年夏季競賽以 關注組織（GOI）為主題。
 你可以選擇撰寫任何現有關注組織的相關作品，也可以大膽創造一個全新的組織。
 
-= 如火如荼、緊鑼密鼓
+= 「第一名」 [[*user YONGZUN]]
+= 「第二名」 [[*user Frederica Bernkastel]]
+= 「第三名」 [[*user colorful penguin]]
+= 「第四名」 [[*user AbyssDream]]
+= 「第五名」 [[*user Kikunai]]
+= 「第六名」 [[*user Lostwhat]]
+= 「第七名」 [[*user Semibreve]]
 
 [[/div]]
 @@ @@
 
+[!-- ======================================= --]
+
+[!-- ======================================= --]
+[[div class="item unofficial"]]
+[[div class="item-title"]]
+[[[http://scp-zh-tr.wikidot.com/zhongyuan-2025|中元恐怖——繁星輿圖]]]
+[[/div]]
+|| [[*user AbyssDream]] 、 _
+ [[*user Frederica Bernkastel]]|| 2025/9/08  - 2025/9/21 ||
+-----
+十五位創作者，十五個地點，十五顆已經無法被摘下的死去恆星。
+
+農曆七月，直抵此岸，遙望群星。
+
+[[/div]]
+@@ @@
 [!-- ======================================= --]
 
 
