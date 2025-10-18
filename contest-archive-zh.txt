@@ -469,7 +469,7 @@ ZH建立網站以後所舉辦的第一場大型競賽，以平行宇宙為主題
 [!-- ======================================= --]
 
 [!-- ======================================= --]
-[[div class="item unofficial"]]
+[[div class="item event"]]
 [[div class="item-title"]]
 [[[http://scp-zh-tr.wikidot.com/zhongyuan-2024|中元恐怖——早梅詩]]]
 [[/div]]
@@ -555,7 +555,7 @@ ZH建立網站以後所舉辦的第一場大型競賽，以平行宇宙為主題
 [!-- ======================================= --]
 
 [!-- ======================================= --]
-[[div class="item unofficial"]]
+[[div class="item event"]]
 [[div class="item-title"]]
 [[[http://scp-zh-tr.wikidot.com/zhongyuan-2025|中元恐怖——繁星輿圖]]]
 [[/div]]
@@ -749,6 +749,21 @@ li.unfolded .item-list h1 { margin: -5rem 0 5rem; }
     font-weight: bold;
     font-size: 1.05em;
 }
+
+.item.event{
+    background-color: #e6eeff;
+}
+.item.event::before {
+    content: "非官方活動";
+    position: absolute;
+    top: 0;
+    right: 0;
+    display: block;
+    padding: 0.25rem 0.45rem;
+    font-weight: bold;
+    font-size: 1.05em;
+}
+
 
 .item > hr {
     margin: 0.5rem -2.05rem;
