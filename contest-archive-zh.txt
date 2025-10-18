@@ -84,6 +84,10 @@ ZH建立網站以後所舉辦的第一場大型競賽，以平行宇宙為主題
 [[/div]]
 ||[[*user Dr V Valentine]] || 2019/9/10 - 2019/9/30 ||
 -----
+[[div style="border:1px solid #bbb"]]
+[[image https://i.imgur.com/xWDU6zN.png link ="Noisy-Mid-Autumn-Festival"]]
+[[/div]]
+
 歡樂的中秋節競賽、作品只要與中秋節或月亮有關連即可參賽。
 
 = 冠軍︰SCP檔案 [[[SCP-ZH-815]]] (一家烤肉萬家香) - 作者:[[*user Reverberate_a]]
@@ -99,6 +103,10 @@ ZH建立網站以後所舉辦的第一場大型競賽，以平行宇宙為主題
 [[/div]]
 || [[*user Reverberate_a]]|| 2019/11/11 - 2019/11/20 ||
 -----
+[[div style="border:1px solid #bbb"]]
+[[image http://scp-sandbox-zh.wdfiles.com/local--files/collab%3Arecommendedarticle/ZH81 link ="darkroom"]]
+[[/div]]
+
 15張照片、15個故事與15段奇妙的相遇
 
 = [http://scp-zh-tr.wikidot.com/the-non-names-town 吹響號角的無名山脈] - [[*user minmasterqw]]
@@ -113,6 +121,10 @@ ZH建立網站以後所舉辦的第一場大型競賽，以平行宇宙為主題
 [[/div]]
 || 繁中活動小組 || 2019/11/16 - 2019/12/10 ||
 -----
+[[div style="border:1px solid #bbb"]]
+[[image https://i.imgur.com/ZTPia03.png link ="2019-memories"]]
+[[/div]]
+
 回憶、蹤影、塵封舊事，以回憶為主題的作品。
 
 = **冠軍**︰[[[*scp-zh-9288-ex |SCP-ZH-9288-EX]]] - 你完全知道正在聽你說話的對座的人，不會再見面。 - [[*user Reverberate_a]]
@@ -128,6 +140,10 @@ ZH建立網站以後所舉辦的第一場大型競賽，以平行宇宙為主題
 [[/div]]
 || 繁中活動小組 || 2020/01/18 - 2020/02/11 ||
 -----
+[[div style="border:1px solid #bbb"]]
+[[image https://i.imgur.com/leiEN4q.png link ="lunar-new-year-2020"]]
+[[/div]]
+
 2020冬季競賽的主題為春節，但並不限定是除夕或者是初一的當日，只要您創作的主題與華人的春節相關，從小年夜至元宵為止的春節習俗都可以加以運用。
 
 = **冠軍** ：[[[*ambrose-isakov |安布羅斯餐廳-伊薩科夫號分店 (節日限定)]]] [[*user Reverberate_a]]
@@ -143,6 +159,10 @@ ZH建立網站以後所舉辦的第一場大型競賽，以平行宇宙為主題
 [[/div]]
 || 繁中活動小組 || 2020/7/17 - 2020/8/23 ||
 -----
+[[div style="border:1px solid #bbb"]]
+[[image https://i.imgur.com/MnlhJLm.png link ="summer-contest-2020"]]
+[[/div]]
+
 2020夏季競賽活動採取積分制，參加者須報名登錄為賞金獵人，自由的在六道懸賞題目，已解明、1200字挑戰、K級情景、無需收容、他站人物、反，當中選取自己感興趣的題目創作並且投稿。
 
 [[=]]
@@ -203,6 +223,10 @@ ZH建立網站以後所舉辦的第一場大型競賽，以平行宇宙為主題
 [[/div]]
 || 繁中活動小組 || 2021/01/18 - 2021/02/21 ||
 -----
+[[div style="border:1px solid #bbb"]]
+[[image https://i.imgur.com/q4q3JFJ.png link ="winter-ace-2021"]]
+[[/div]]
+
 這次2021冬季競賽的主題是「紅」，請以紅為出發點發想創作主題，不論是與「紅」這個字有關、顏色的紅、人氣的紅，只要是與紅聯想到的事物，都能以本次競賽限定的格式投稿參與競賽。
 
 = **冠軍**︰[[[*scp-zh-2005-ex |SCP-ZH-2005-EX]]] - 網路紅人 - [[*user AbyssDream]]
@@ -230,6 +254,10 @@ ZH建立網站以後所舉辦的第一場大型競賽，以平行宇宙為主題
 [[/div]]
 || 繁中活動小組 || 2021/06/27 - 2021/08/28 ||
 -----
+[[div style="border:1px solid #bbb"]]
+[[image https://i.imgur.com/SWOpePT.png link ="summer-contest-2021"]]
+[[/div]]
+
 所謂異聞可能憑空而生，
 然而這樣的異聞也容易變得黯淡，然後受人遺忘 。
 
@@ -245,6 +273,10 @@ ZH建立網站以後所舉辦的第一場大型競賽，以平行宇宙為主題
 [[/div]]
 || 繁中活動小組 || 2021/12/25 - 2022/02/27 ||
 -----
+[[div style="border:1px solid #bbb"]]
+[[image https://i.imgur.com/OQvG4SY.png link ="zh999-contest"]]
+[[/div]]
+
 本次2022冬季競賽的主題是「工」同時也是作為我們之前所預留的ZH-999編號的項目競賽，請以工為出發點發想創作主題，不論是與「工」這個字有關、工廠、工具、做工、工人、人工智慧、天工開物……等。只要是與工聯想到的事物，都能以本次競賽限定的格式投稿參與競賽。
 
 = [[[scp-zh-999|SCP-ZH-999]]] - 人們欠他個總統席位 - [[*user Reverberate_a]]
@@ -259,6 +291,9 @@ ZH建立網站以後所舉辦的第一場大型競賽，以平行宇宙為主題
 [[/div]]
 ||[[*user SamScript]] || 2022/02/26 - 2022/03/10 ||
 -----
+[[size 200%]]
+= **急　迫**
+[[/size]]
 繁中分部網站成立即將邁入三周年，本站的作品發布頻率已經在基金會各大官方網站中名列前茅
 因此我們即將效仿大家最熟悉的EN站，舉辦一場屬於我們——好了好了沒時間了現在開始解說規則
 
@@ -273,6 +308,10 @@ ZH建立網站以後所舉辦的第一場大型競賽，以平行宇宙為主題
 [[/div]]
 || 繁中活動小組 || 2022/07/14 - 2022/09/10 ||
 -----
+[[div style="border:1px solid #bbb"]]
+[[image https://i.imgur.com/SlkrhU6.png link ="summer-contest-2022"]]
+[[/div]]
+
 競賽將會分成兩個階段進行，一共會有兩道題目分別在今天與8/13號公布，兩個階段將分別統計分數並選出前三名的冠軍參賽者。
 
 **第一階段：X** 
@@ -293,6 +332,10 @@ ZH建立網站以後所舉辦的第一場大型競賽，以平行宇宙為主題
 [[/div]]
 ||[[*user Dr V Valentine]] || 2023/01/14 - 2023/02/11 ||
 -----
+[[div style="border:1px solid #bbb"]]
+[[image http://scp-zh-tr.wikidot.com/local--files/fragment:front-page-top-announcement/2023.webp link ="better-to-add-an-imaaage"]]
+[[/div]]
+
 這次2023冬季「此風可長」競賽的參賽作品必須附上至少一張 SCP繁中社群成員拍攝的照片，並以該照片為主題進行符合投稿格式的相關創作，將照片運用於作品中。
 
 = **冠軍**︰[[[scp-zh-429|SCP-ZH-429]]] - 青春永駐的柔卡斯塔 , [[*user vomiter]]
@@ -309,6 +352,10 @@ ZH建立網站以後所舉辦的第一場大型競賽，以平行宇宙為主題
 [[/div]]
 ||[[*user Dr V Valentine]] || 2023/07/02 - 2023/08/14 ||
 -----
+[[div style="border:1px solid #bbb"]]
+[[image http://scp-zh-tr.wikidot.com/local--files/fragment:front-page-top-announcement/%E5%A4%8F%E7%AB%B6%E8%B3%BD.webp link ="summer-contest-2023"]]
+[[/div]]
+
 「暑氣蒸騰熱血大決戰」
 炎炎夏日的暑氣與勇士們蒸騰的汗珠互相加成，遠方的高樓在熱空氣形成的蜃景中不斷扭曲，這將是一個充滿不確定性的戰場……本次的主題就是「扭曲」。
 
@@ -325,6 +372,10 @@ ZH建立網站以後所舉辦的第一場大型競賽，以平行宇宙為主題
 [[/div]]
 ||[[*user YONGZUN]] || 2023/08/15 - 2023/09/04 ||
 -----
+[[div style="border:1px solid #bbb"]]
+[[image https://i.imgur.com/3wAleW6.png link ="summer-clear-sky-contest"]]
+[[/div]]
+
 本次競賽採「一階段制」及「非強制一作雙題制」，可選擇「夏日池」和「晴空池」內的題目，並以加權後分數決定勝者。
 
 = 【盛夏行者】[[[http://scp-zh-tr.wikidot.com/underground-city-date|地下街約會]]] - [[*user AbyssDream]]
@@ -341,6 +392,10 @@ ZH建立網站以後所舉辦的第一場大型競賽，以平行宇宙為主題
 [[/div]]
 ||[[*user SamScript]] || 2023/09/15 - 2023/09/25 ||
 -----
+[[size 200%]]
+= **⚡拼落去⚡**
+[[/size]]
+
 與上次相同，本競賽為兩階段制，共三個題目。另外，今年新增了給譯者與藝術創作者的特殊區塊與榮譽獎項。
 
 = **優勝：**[[*user linrain0201]]
@@ -356,6 +411,10 @@ ZH建立網站以後所舉辦的第一場大型競賽，以平行宇宙為主題
 [[/div]]
 ||[[*user Dr V Valentine]] || 2024/01/18 - 2024/02/11 ||
 -----
+[[div style="border:1px solid #bbb"]]
+[[image https://i.imgur.com/H0edm0R.png link ="wishing-to-do-well"]]
+[[/div]]
+
 從三個時代和背景相異的虛構傳奇人物中挑選其一並進行創作，並透過七種主題的加權後決定單篇優勝和總分最高者。
 
 = **冠軍**︰[[[scp-zh-022|]]] 、[[*user Nihilmace]]
@@ -372,6 +431,10 @@ ZH建立網站以後所舉辦的第一場大型競賽，以平行宇宙為主題
 [[/div]]
 || [[*user Semibreve]] || 2024/5/03  - 2024/6/15 ||
 -----
+[[div style="border:1px solid #bbb"]]
+[[image https://i.imgur.com/ZZPNCYQ.png link ="escape-into-the-world-of-mortals"]]
+[[/div]]
+
 競賽從六張卡牌中選取一張題目，配合其他抽選的效果道具加分，加權後決定名次。
 
 = **第一名**︰[[[SCP-ZH-351|]]] 、[[*user AbyssDream]]
@@ -392,6 +455,9 @@ ZH建立網站以後所舉辦的第一場大型競賽，以平行宇宙為主題
 [[/div]]
 ||[[*user Dr V Valentine]] || 2024/07/11 - 2023/08/31 ||
 -----
+[[div style="border:1px solid #bbb"]]
+[[image https://i.imgur.com/yR2YdBN.png link ="summer-contest-2024"]]
+[[/div]]
 2024夏季競賽以「元素」為主題，創作者可以自由的選擇題目所介紹的一至三個元素作為主題進行創作。
 
 = **冠軍**︰[[[SCP-ZH-425|]]] 、[[*user Control Z]]
@@ -407,9 +473,11 @@ ZH建立網站以後所舉辦的第一場大型競賽，以平行宇宙為主題
 [[div class="item-title"]]
 [[[http://scp-zh-tr.wikidot.com/zhongyuan-2024|中元恐怖——早梅詩]]]
 [[/div]]
-|| [[*user AbyssDream]] 、 _
- [[*user Frederica Bernkastel]]|| 2024/8/04  - 2024/9/02 ||
+|| [[*user AbyssDream]] ， [[*user Frederica Bernkastel]]|| 2024/8/04  - 2024/9/02 ||
 -----
+[[div style="border:1px solid #bbb"]]
+[[image https://i.imgur.com/hzIkUwu.png link ="zhongyuan-2024"]]
+[[/div]]
 接下來的二十日內，二十位本分部的作者將發布二十篇全新的SCP作品，訴出潛伏於你我身旁的夢魘、魅影與無法直面的恐懼。
  
 農曆七月，陰陽合一，門扉開啟。
@@ -425,6 +493,10 @@ ZH建立網站以後所舉辦的第一場大型競賽，以平行宇宙為主題
 [[/div]]
 || [[*user SamScript]]|| 2024/09/25 - 2024/10/03 ||
 -----
+[[size 200%]]
+= 😆😎😬🤓😁
+[[/size]]
+
 這次將會直接一次發布三個題目，且是源自台灣車站名稱或鐵路歷史。
 
 = **優勝：**[[*user Fallen_Truth]]
@@ -441,6 +513,10 @@ ZH建立網站以後所舉辦的第一場大型競賽，以平行宇宙為主題
 [[/div]]
 ||[[*user Dr V Valentine]] || 2025/01/10 - 2025/02/15 ||
 -----
+[[div style="border:1px solid #bbb"]]
+[[image https://i.imgur.com/OA9TFJq.png link ="winter-ace-2025"]]
+[[/div]]
+
 2025年冬季競賽的主題是「絕望與希望」。參賽者可以選擇專注於「絕望」或「希望」其中一個主題來創作，也可以同時將兩個主題融入作品中，展現它們的對比或轉變。
 
 = **冠軍**︰[[[eternal-flower|]]] 、[[*user Lostwhat]]
@@ -450,6 +526,7 @@ ZH建立網站以後所舉辦的第一場大型競賽，以平行宇宙為主題
 @@ @@
 
 [!-- ======================================= --]
+
 [!-- ======================================= --]
 [[div class="item"]]
 [[div class="item-title"]]
@@ -457,6 +534,10 @@ ZH建立網站以後所舉辦的第一場大型競賽，以平行宇宙為主題
 [[/div]]
 ||[[*user Dr V Valentine]] || 2025/06/01 - 2025/08/10 ||
 -----
+[[div style="border:1px solid #bbb"]]
+[[image https://i.postimg.cc/YtZ59546/GOI.png link ="summer-contest-2025"]]
+[[/div]]
+
 本次 2025 年夏季競賽以 關注組織（GOI）為主題。
 你可以選擇撰寫任何現有關注組織的相關作品，也可以大膽創造一個全新的組織。
 
@@ -478,9 +559,12 @@ ZH建立網站以後所舉辦的第一場大型競賽，以平行宇宙為主題
 [[div class="item-title"]]
 [[[http://scp-zh-tr.wikidot.com/zhongyuan-2025|中元恐怖——繁星輿圖]]]
 [[/div]]
-|| [[*user AbyssDream]] 、 _
- [[*user Frederica Bernkastel]]|| 2025/9/08  - 2025/9/21 ||
+|| [[*user AbyssDream]] ， [[*user Frederica Bernkastel]]|| 2025/9/08  - 2025/9/21 ||
 -----
+[[div style="border:1px solid #bbb"]]
+[[image https://i.postimg.cc/13M8g2PD/5381af8fd17aa416.png link ="zhongyuan-2025"]]
+[[/div]]
+
 十五位創作者，十五個地點，十五顆已經無法被摘下的死去恆星。
 
 農曆七月，直抵此岸，遙望群星。
