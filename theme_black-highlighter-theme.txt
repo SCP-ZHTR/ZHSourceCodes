@@ -3,6 +3,7 @@
 /*THIS IS BLACK HIGHLIGHTER*/
 @import url("https://nu-scptheme.github.io/Black-Highlighter/css/min/normalize.min.css");
 @import url("https://nu-scptheme.github.io/Black-Highlighter/css/min/black-highlighter.min.css");
+@import url('https://fonts.googleapis.com/css2?family=Chocolate+Classical+Sans&display=swap');
 [[/module]]
 [[module css]]
 /*TEMPORARY FIX FOR FONT DISPLAY*/
@@ -70,7 +71,7 @@
     	--header-subtitle: "控制，收容，保護";
 
     	/* Typefaces */
-    	--body-font: Inter, "Temp Noto Sans TC", 微軟正黑體, "Microsoft JhengHei", "Microsoft JhengHei UI", “微軟雅黑”, "Microsoft YaHei", "Microsoft YaHei UI", sans-serif;
+    	--body-font: Inter, "Chocolate Classical Sans", 微軟正黑體, "Microsoft JhengHei", "Microsoft JhengHei UI", “微軟雅黑”, "Microsoft YaHei", "Microsoft YaHei UI", sans-serif;
     	--UI-font: PTRootUI, 方體, "PingFang HK", 方體, "PingFang TC", 黑體, "Heiti TC", "Microsoft JhengHei UI", "Microsoft JhengHei", Roboto, Noto, "Noto Sans CJK TC", sans-serif;
     	--header-font: var(--body-font);
     	--title-font: var(--body-font);
