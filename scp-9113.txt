@@ -1,0 +1,57 @@
+[[include component:scp-meta-title-hiding css-style=classic]]
+[[=]]
+//字數：279（閱讀時間約1分鐘）//
+[[/=]]
+
+[[include :scp-zh-tr:theme:classic]]
+
+[[include info:start]]
+**SCP-9113** - 神的造物是不可改變的
+**作者：**[[*user local lesbian commie]]
+**譯者：**[[*user Halewen]]
+**主題製作：** [[*user Lt Flops]]
+[https://scp-wiki.wikidot.com/local-lesbian-commie-s-secret-hideout local lesbian commie的作者頁]
+[[include info:end]]
+
+=====
+[[include component:preview
+text=
+//但我永遠無法接受這樣的事物。//
+]]
+=====
+
+**項目編號：**SCP-9113
+
+**項目等級：**Safe
+
+**特殊收容措施：**應對所有由失蹤畫家創造的SCP-9113實例進行分類，並將其收藏於Site-83中適當的檔案資料夾。由於SCP-9113的性質並不會對常態造成可見的威脅，因此無須進行更多收容措施。
+
+**描述：**SCP-9113為一影響視覺藝術的異常現象，當作者認知到作品完成時，任何試圖大幅改變作品內容的舉動皆會失敗。雖然仍可添加或刪去些許事物，但任何與最初製作意圖衝突的元素將無法在作品上展現。
+
+一旦SCP-9113出現在作者的作品上後，異常將會影響其之後的所有創作，並在作者的藝術創作過程中以「作品缺乏某種東西」或「作品中有無法修正的錯誤」的想法出現。此現象會導致個體長期感到悲痛。
+
+[[include component:image-block
+|name=https://scp-wiki.wdfiles.com/local--files/scp-9113/Jan_Cossiers_-_Portrait_drawing_of_a_young_man.jpg
+|caption=《一名年輕人的自畫像》（"Self-portrait of a young man"），1995。對畫作中央人物臉龐進行的任何修改皆會失敗。作者：Chloé Bernard。
+|width=50%
+|align=right]]
+
+受影響個體對SCP-9113的反應依個體變化。在記錄到的半數案例中，藝術家放棄了他們的職業，並在隨後消失。否則，最常見的結果為作者試圖適應SCP-9113的效應，並將這段壓力整合至他們的作品中，以作為一種因應機制，同時形成獨特的個人風格。
+
+雖然此舉能夠延長個體的藝術活動時間，受SCP-9113影響的個體時常將自身與未受影響的藝術家比較，並表現出長期的自卑感。有報告指出SCP-9113在作者完全接受他們作品的模樣後，異常即會消失；然而，這些案例皆尚未被徹底確認。在向這些藝術家們提出此可能性時，所有對象皆對此感到絕望。
+
+@@ @@
+@@ @@
+-----
+@@ @@
+@@ @@
+[[include :scp-zh-tr:component:license-box]]
+
+> **Filename:** Jan Cossiers - Portrait drawing of a young man.jpg
+> **Author:** Jan Cossiers
+> **License:** Public domain
+> **Source Link:** [https://upload.wikimedia.org/wikipedia/commons/5/56/Jan_Cossiers_-_Portrait_drawing_of_a_young_man.jpg Wikimedia Commons]
+
+[[include :scp-zh-tr:component:license-box-end]]
+@@ @@
+@@ @@
