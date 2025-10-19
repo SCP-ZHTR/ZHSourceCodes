@@ -28,7 +28,7 @@ text=有些世界，唯有放任儀式持續運行，才是最完好的守護─
 
 -----
 
-[[include component:image-block name=https://scp-wiki.wdfiles.com/local--files/9000contestdjkaktus/baseballbanner.jpg|align=center|width=100%|caption=SCP-9935的開球。]]
+[[include component:image-block name=https://scp-wiki.wdfiles.com/local--files/scp-9935/baseballbanner.jpg|align=center|width=100%|caption=SCP-9935的開球。]]
 
 -----
 
@@ -69,7 +69,7 @@ text=有些世界，唯有放任儀式持續運行，才是最完好的守護─
 
 由於該地點持續存在的時間異常，無須額外的混淆行動──除非越過時間異常邊界，否則要看到SCP-9935所在地點是不可能的。
 
-[[include component:image-block name=https://scp-wiki.wdfiles.com/local--files/9000contestdjkaktus/tagout.jpg|caption=山地人隊二壘手查理．巴塞特遭到國民隊捕手湯姆．戴利本壘觸殺。照片攝於第21015局的下半場。]]
+[[include component:image-block name=https://scp-wiki.wdfiles.com/local--files/scp-9935/tagout.jpg|caption=山地人隊二壘手查理．巴塞特遭到國民隊捕手湯姆．戴利本壘觸殺。照片攝於第21015局的下半場。]]
 
 **描述：** SCP-9935是一場印第安納波利斯山地人隊與華盛頓國民隊之間的棒球比賽，自1889年10月5日以降即一直持續著。由於沒有長時間兩隊平分的結束比賽規則，且自比賽開始雙方都未曾打破過平局，這場比賽已經連續進行了135年。
 
@@ -77,7 +77,7 @@ text=有些世界，唯有放任儀式持續運行，才是最完好的守護─
 
 異變區域僅在球賽進行期間開放──約自美國東部時間正午以後最遲下午2時開始，持續4-5個小時。球賽暫停後不久，異變區域將消失，直到下一輪遊戲開始。遊戲每日進行，週日及美國十一主要聯邦假日則會停賽。
 
-[[include component:image-block name=https://scp-wiki.wdfiles.com/local--files/9000contestdjkaktus/brucepark.jpg|align=left|caption=1889年與2025年前後印第安納波利斯市地圖。加上了布魯斯公園的相對位置──異常邊界相對位置以紅色標示。]]
+[[include component:image-block name=https://scp-wiki.wdfiles.com/local--files/scp-9935/brucepark.jpg|align=left|caption=1889年與2025年前後印第安納波利斯市地圖。加上了布魯斯公園的相對位置──異常邊界相對位置以紅色標示。]]
 
 邊界內面積約19000平方公尺，自布魯斯公園球場後圍欄約六公尺處開始，沿著兩側邊線向看臺延伸，直到本壘板後方看臺外延伸十公尺。這個邊界是可變的，已知變動幅度可達1.2公尺。其內部晝夜週期與外部大致相同，但並不存在季節變化，因為邊界內的每一天都是1889年10月5日。
 
@@ -96,7 +96,7 @@ SCP-9935開始於1889年10月5日東部標準時間下午2:00前後。比賽在�
 SCP-9935的異常特性很快就顯現出來──接下來的整整十二局，兩隊都一分未得。印第安納波利斯遊擊手兼球員經理傑克．格拉斯科克如此描述此一發現：
 
 [[div class="blockquote"]]
-[[include component:image-block name=https://scp-wiki.wdfiles.com/local--files/9000contestdjkaktus/glasscock.jpg|caption=傑克．「鵝卵石傑克」．格拉斯科克，1889年印第安納波利斯山地人隊球員經理。]]
+[[include component:image-block name=https://scp-wiki.wdfiles.com/local--files/scp-9935/glasscock.jpg|caption=傑克．「鵝卵石傑克」．格拉斯科克，1889年印第安納波利斯山地人隊球員經理。]]
 
 //「大概打到第二十局的時候，我們才開始意識到整件事變得多麼奇怪。那時我們已經筋疲力盡，太陽都下山了，球場上的燈光根本毫無用處，微弱的光線連草地都照不亮。我們之前聽說那天晚上肯定會有暴風雨，但暴風雨也沒有來，我們仍繼續比賽。時間一分一秒過去，我們都祈禱著趕快讓我們贏或他們贏，這樣大家就可以回家了，但兩支球隊都沒能獲勝。」//
 
@@ -110,7 +110,7 @@ SCP-9935的異常特性很快就顯現出來──接下來的整整十二局，
 比賽第二天，雙方比分都沒有增加。當時教練傑克．格拉斯科克、約翰．莫里爾，以及裁判比爾．克里格、泰德．倫肖、巴克．霍爾斯特德召開了賽前會議。莫里爾對該次會議的描述如下：
 
 [[div class="blockquote"]]
-[[include component:image-block name=https://scp-wiki.wdfiles.com/local--files/9000contestdjkaktus/morrill.jpg|align=left|caption=約翰．「誠實者約翰」．莫里爾，1889 年華盛頓國民隊經理。]]
+[[include component:image-block name=https://scp-wiki.wdfiles.com/local--files/scp-9935/morrill.jpg|align=left|caption=約翰．「誠實者約翰」．莫里爾，1889 年華盛頓國民隊經理。]]
 
 //「你可能以為我現在應該早把這事忘得一乾二淨了，但說實話，這感覺就像是昨天才剛發生過一樣。一開始，我們都覺得這場比賽不是超歹戲拖棚的棒球表演，就是史上最精彩的球賽，而這場球賽又恰好發生在兩支史上最爛的球隊之間。無論結果如何，我們都知道它都會被長久銘記。老比爾．克里格直截了當地問我們，如果比賽拖到第三天，我們該怎麼辦。現在想想還挺滑稽的，但在那一刻，我們滿腦子想的都是放我們回家找工作吧，球隊就要倒閉啦。」//
 
@@ -175,7 +175,7 @@ SCP-9935的異常特性很快就顯現出來──接下來的整整十二局，
 下一次關於該賽事的報告，是在8年後的1898年春，當時美國俄亥俄克里夫蘭邊緣超自然現象調查通訊社《上帝軍團的真相追尋者》發表了「切斯特．A．馬爾薩斯爵士，GCB」──真名「弗蘭克．威爾斯」──提交的故事。該員是個知名的流浪者，很可能有自戀傾向，喜歡給當地報紙寫信，假稱精心編造的虛構故事為真相。《真相追尋者》執行主編阿諾德．亨德里克斯在社論中將此故事描述為「透過面紗窺視之人心靈中未遭過濾的真相」：
 
 [[div class="blockquote"]]
-[[include component:image-block name=https://scp-wiki.wdfiles.com/local--files/9000contestdjkaktus/strangeman.jpg|caption=唯一已知弗蘭克．威爾斯（別名「切斯特．A．馬爾薩斯爵士，GCB」）的照片。]]
+[[include component:image-block name=https://scp-wiki.wdfiles.com/local--files/scp-9935/strangeman.jpg|caption=唯一已知弗蘭克．威爾斯（別名「切斯特．A．馬爾薩斯爵士，GCB」）的照片。]]
 
 我親眼看見了，我向全能的上帝與祂的天使發誓，我親眼看見了，他們再也無法欺騙我了。所有人都說我腦子壞了滿口胡言，但**這次**是真的，它就在那城鎮的黑暗角落，古老的田野就像沒有石頭的墳墓。我聽到了沒有球棒的球棒轟鳴，我聽到了無肺眾人的吼叫。
 
@@ -188,7 +188,7 @@ SCP-9935的異常特性很快就顯現出來──接下來的整整十二局，
 你們可能會像以前一樣嘲笑我，說我腦子不是發燒就是發神經，但是，當你們來到印第安納波利斯球場，就在霧氣瀰漫、燈光昏暗的時刻，你們也會聽到的！永無止盡的比賽，無窮無盡的吶喊，死去的球員永遠困在自己的局中。今晚我將無法入眠，其他夜晚我也不能入睡，因為我已**親眼目睹了這一切**。
 [[/div]]
 
-[[include component:image-block name=https://scp-wiki.wdfiles.com/local--files/9000contestdjkaktus/pastor.jpg|caption=安德魯．W．卡特牧師|width=33%]]
+[[include component:image-block name=https://scp-wiki.wdfiles.com/local--files/scp-9935/pastor.jpg|caption=安德魯．W．卡特牧師|width=33%]]
 
 一般認為在20世紀初，SCP-9935受到了基金會前身組織「沃巴什神學院」的控制。該神學院在1880年代末期於印第安納沃巴什成立，並於 1902年遷至印第安納波利斯。當時，該神學院主要負責當地異常造物的探測與歸定，以及在其章程範圍內評估其他異常現象。雖然該組織主要管控神學異常──其所謂「惡魔附身、禮拜儀式、任性的奇蹟」──但當發生在他們力所能及範圍內的狀況時，他們偶爾也會涉足相對世俗的異常活動。
 
@@ -358,7 +358,7 @@ SCP-9935的異常特性很快就顯現出來──接下來的整整十二局，
 
 「第十局堪稱一場嚴峻的考驗。華盛頓隊率先出擊，派出三名球員，對疲憊不堪、手臂如鉛的印第安納投手重重出擊。印第安納波利斯隊背水一戰，在自己的半場奮力創造得分機會：一人得分，另一人攻佔二壘，但當埃米特．西里輕輕打出了右外高飛球，隨後傑克．麥克吉奇被三振出局時，希望似乎已經破滅了。兩人出局，落後兩分，場上只有一名孤零零的跑者。這時，『火花』．斯內登大步走向打擊區，他是最不可能成為冠軍的人。他的專長是在球場上飛奔，從來不是揮棒的料．如今，印第安納波利斯的重擔全落在了他的肩上。」
 
-[[include component:image-block name=https://scp-wiki.wdfiles.com/local--files/9000contestdjkaktus/pappy.jpg|caption=1965年，印第安納人隊外野手吉姆．「火花」．斯內登正在SCP-9935賽前熱身。]]
+[[include component:image-block name=https://scp-wiki.wdfiles.com/local--files/scp-9935/pappy.jpg|caption=1965年，印第安納人隊外野手吉姆．「火花」．斯內登正在SCP-9935賽前熱身。]]
 
 「人群如同海濤喧鬧，幾近瘋狂。華盛頓的喬治．哈多克承受了一整天的緊張，他退後一步，開始丟球。先是一記快速的外角球，斯內登明智地觀察了一下，然後是一記凶狠的弧線球，繞過了他拼命揮棒想扳平比分的弧線。哈多克一心想結束這一切，於是再次後仰，投出又一記快速球，這次球比他預期的要高。斯內登一揮正中棒球，一聲響亮的爆響，宛如響徹雲霄的槍聲。球飛進了右外野的陰暗角落，比徹慌亂地撲了上去。傑利．丹尼立刻像子彈般奔出二壘，他輕鬆得分時球都還沒回到內野。同時，命運背叛了國民隊，球越過了懷斯，再越過了三壘的歐文，最後彈到了界外。」
 
@@ -546,7 +546,7 @@ SCP-9935的異常特性很快就顯現出來──接下來的整整十二局，
 
   --header-title: "SCP基金會";
   --header-subtitle: "構造、構築、構形部門";
-  --lgurl: url(https://scp-wiki.wikidot.com/local--files/9000contestdjkaktus/baseballlogo.png);
+  --lgurl: url(https://scp-wiki.wikidot.com/local--files/scp-9935/baseballlogo.png);
 
   --white-monochrome: 28, 22, 16;
   --pale-gray-monochrome: 54, 46, 37;
