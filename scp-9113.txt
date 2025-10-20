@@ -1,6 +1,6 @@
 [[include component:scp-meta-title-hiding css-style=classic]]
 [[=]]
-//字數：279（閱讀時間約1分鐘）//
+//字數：537（閱讀時間約1分鐘）//
 [[/=]]
 
 [[include :scp-zh-tr:theme:classic]]
