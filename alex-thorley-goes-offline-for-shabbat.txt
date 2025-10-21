@@ -1,0 +1,211 @@
+[[include :scp-zh-tr:theme:black-highlighter-theme]]
+[[include :scp-zh-tr:theme:minimalist-bhl]]
+
+[[module CSS]]
+:root:lang(zh) {
+     --header-title: "非現實部門";
+     --header-subtitle: "讓非現實成為ㅤㅤㅤㅤ";
+     --lgurl: url('http://scp-wiki.wikidot.com/local--files/unreality-hub/Unreality%20Header%20Logo.svg');
+}
+
+authorlink-wrapper,
+.authorlink-wrapper + div {
+  margin-right: 0 !important; /* needed to override inline styles */
+}
+
+
+#page-content img {
+    width: 600px;
+}
+
+
+[[/module]]
+
+[[include info:start]]
+原文：[https://scp-wiki.wikidot.com/alex-thorley-goes-offline-for-shabbat Alex Thorley Goes Offline For Shabbat]
+**作者：**[[*user xexnoncores]]
+**譯者：**[[*user Halewen]]
+[[include info:end]]
+[[include :scp-zh-tr:component:author-label-source start=--
+|name=xexnoncores]]
+Alex Thorley下線以守安息日，由[[*user xexnoncores]]創作
+[[include :scp-zh-tr:component:author-label-source end=--]]
+
+[[=]]
+時間：東部標準時間，下午6:15，日落。
+
+[[image http://scp-sandbox-3.wikidot.com/local--files/alex-thorley-goes-offline-for-shabbat/computers.jpeg]]
+@@ @@
+[[image http://scp-sandbox-3.wikidot.com/local--files/alex-thorley-goes-offline-for-shabbat/phone1.jpeg]]
+@@ @@
+[[image http://scp-sandbox-3.wikidot.com/local--files/alex-thorley-goes-offline-for-shabbat/phone2.jpeg]]
+@@ @@
+[[image http://scp-sandbox-3.wikidot.com/local--files/alex-thorley-goes-offline-for-shabbat/microwaves.jpeg]]
+@@ @@
+[[image http://scp-sandbox-3.wikidot.com/local--files/alex-thorley-goes-offline-for-shabbat/cord.jpeg]]
+@@ @@
+[[image http://scp-sandbox-3.wikidot.com/local--files/alex-thorley-goes-offline-for-shabbat/burner.jpeg]]
+@@ @@
+[[image http://scp-sandbox-3.wikidot.com/local--files/alex-thorley-goes-offline-for-shabbat/office.jpeg]]
+@@ @@
+[[image http://scp-sandbox-3.wikidot.com/local--files/alex-thorley-goes-offline-for-shabbat/squares.jpeg]]
+@@ @@
+[[image http://scp-sandbox-3.wikidot.com/local--files/alex-thorley-goes-offline-for-shabbat/sculpture.jpeg]]
+@@ @@
+[[image http://scp-sandbox-3.wikidot.com/local--files/alex-thorley-goes-offline-for-shabbat/rocks.jpeg]]
+
+
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@ 
+
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@ 
+
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@ 
+
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@ 
+
+
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@ 
+
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@ 
+
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@ 
+
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@ 
+
+[[image http://scp-sandbox-3.wikidot.com/local--files/alex-thorley-goes-offline-for-shabbat/shabbat.jpeg]]
+
+[[/=]]
+
+[[include :scp-zh-tr:component:license-box]]
+
+> **Filename:** rocks.jpeg
+> **Name:** pexels-photo-940271.jpeg
+> **Author:** Mason Slover
+> **License:** CC0 Public Domain
+> **Source Link:** [https://www.pexels.com/id-id/foto/deretan-kerikil-hitam-dan-abu-abu-yang-dipoles-di-permukaan-abu-abu-940271/ Pexels]
+> **Additional Notes:** Image edited by [[*user Xexnoncores]]
+
+> **Filename:** computers.jpeg
+> **Name:** Computerlab.JPG
+> **Author:** PittMajc
+> **License:** Creative Commons Attribution-ShareAlike 3.0
+> **Source Link:** [https://en.wikipedia.org/wiki/File:Computerlab.JPG Wikipedia]
+> **Additional Notes:** Image edited by [[*user Xexnoncores]]
+
+> **Filename:** phone1.jpeg
+> **Name:** 2018-06-29-23-04-34.jpg.JPG
+> **Author:** Pixnio
+> **License:** CC0 Public Domain
+> **Source Link:** [https://pixnio.com/objects/monochrome-hand-body-shadow-telephone-equipment-person-indoor Pixnio]
+> **Additional Notes:** Image edited by [[*user Xexnoncores]]
+
+> **Filename:** office.jpeg
+> **Name:** Empty office.JPG
+> **Author:** Ged Carroll
+> **License:** Creative Commons Attribution 2.0 Generic
+> **Source Link:** [https://commons.wikimedia.org/wiki/File:Empty_office.jpg Wikimedia Commons]
+> **Additional Notes:** Image edited by [[*user Xexnoncores]]
+
+> **Filename:** microwaves.jpeg
+> **Name:** Wall of microwaves.JPG
+> **Author:** Daniel Christensen
+> **License:** Creative Commons Attribution 3.0 Unported
+> **Source Link:** [https://commons.wikimedia.org/wiki/File:Wall_of_microwaves.JPG Wikimedia Commons]
+> **Additional Notes:** Image edited by [[*user Xexnoncores]]
+
+> **Filename:** phone2.jpeg
+> **Name:** 150829-telephone-cord-corded-vintage.jpg
+> **Author:** r. nial bradshaw
+> **License:** Creative Commons Attribution 2.0
+> **Source Link:** [https://www.flickr.com/photos/zionfiction/20983777052 Flickr]
+> **Additional Notes:** Image edited by [[*user Xexnoncores]]
+
+> **Filename:** cord.jpeg
+> **Name:** Phone Cable.jpg
+> **Author:** Jim Chute
+> **License:** Creative Commons Attribution 3.0 Unported
+> **Source Link:** [https://commons.wikimedia.org/wiki/File:Phone_Cable.jpg Wikimedia Commons]
+> **Additional Notes:** Image edited by [[*user Xexnoncores]]
+
+> **Filename:** burner.jpeg
+> **Author:** [[*user Xexnoncores]]
+> **License:** Creative Commons Attribution 3.0
+> **Source Link:** [https://scp-wiki.wikidot.com The SCP Wiki]
+
+> **Filename:** sculpture.jpeg
+> **Name:** 'Wire sculpture 2.' curving cupper wire on a wooden foot - abstract art, made by artist Fons Heijnsbroek in 2005.tif
+> **Author:** Fons Heijnsbroek
+> **License:** Creative Commons CC0 1.0 Universal Public Domain Dedication
+> **Source Link:** [https://commons.wikimedia.org/wiki/File:%27Wire_sculpture_2.%27_curving_cupper_wire_on_a_wooden_foot_-_abstract_art,_made_by_artist_Fons_Heijnsbroek_in_2005.tif Wikimedia Commons]
+> **Additional Notes:** Image edited by [[*user Xexnoncores]]
+
+> **Filename:** squares.jpeg
+> **Name:** Sharp Centre for Design - fragment of facade.jpg
+> **Author:** Maksim Sokolov
+> **License:** Creative Commons Attribution-Share Alike 4.0 International
+> **Source Link:** [https://commons.wikimedia.org/wiki/File:Sharp_Centre_for_Design_-_fragment_of_facade.jpg Wikimedia Commons]
+> **Additional Notes:** Image edited by [[*user Xexnoncores]]
+
+> **Filename:** shabbat.jpeg
+> **Name:** Shabbat Candles.jpg
+> **Author:** Olaf.herfurth
+> **License:** Creative Commons Attribution-Share Alike 3.0 Unported
+> **Source Link:** [https://commons.wikimedia.org/wiki/File:Shabbat_Candles.jpg Wikimedia Commons]
+> **Additional Notes:** Image edited by [[*user Xexnoncores]]
+[[include :scp-zh-tr:component:license-box-end]]
