@@ -1,0 +1,464 @@
+[[include :scp-zh-tr:component:scp-meta-title-hiding]]
+[[include info:start]]
+原文：[http://scp-jp.wikidot.com/scp-1374-jp "SCP-1374-JP - 大団円"]
+作者：[[*user KanKan]]
+譯者：[[*user KnifeSalmon]]
+[[include info:end]]
+
+[[module CSS]]
+/* Mobile Media Query */
+@media (max-width: 479px) {
+.scp-image-block.block-right {
+    float: none;
+    margin: auto;
+}
+}
+[[/module]]
+[[div style="border:solid 1px #000000; background:#000000; padding:5px; margin-bottom: 10px;"]]
+[[include :scp-jp-sandbox2:inc:ayu18]]
+[[div class="monoayu"]]
+[[=]]
+[[size 200%]]##1fa131|**SCiPNET**##[[/size]]
+[[size 150%]]##1fa131|Restricted Viewing Server##[[/size]]
+[[image https://i.postimg.cc/FK0vWD4D/SCi-PNET01.png width="200px"]]
+[[size 150%]]##1fa131|Sustained Cautious Piece##[[/size]]
+[[size 150%]]##1fa131|Under Observation of RAISA##[[/size]]
+[[/=]]
+@@@@
+@@@@
+@@@@
+##1fa131|歡迎拜訪SCiPNET。##
+
+##1fa131|要檢閱SCP-1374-JP相關檔案(3)嗎？(y/n): y##
+
+##1fa131|…##
+
+##1fa131|……##
+
+##1fa131|………##
+
+[[span class="fa fa-exclamation-triangle fa-lg" style="color:#1fa131"]]@<&nbsp;>@[[/span]]##1fa131|**您的感質容許值(Permissible Qualia Level, PQL)已超出檢閱上限值。須接受基於權限等級的感質抑制處理程序-714後始得檢閱檔案。**##
+
+##1fa131|要啟動感質抑制處理程序-714嗎？(y/n): y##
+
+##1fa131|正在連接前額葉………成功##
+
+##1fa131|正在透過資料庫核對生物資料………成功##
+
+##1fa131|正在同步腦波………成功## 
+
+##1fa131|開始執行處理程序-714。##
+
+##1fa131|…##
+
+##1fa131|……##
+
+##1fa131|………##
+
+##1fa131|**對4級/1374-JP權限的處理程序(PQL:20~48)已完成。即將顯示資料。檢閱時、您的腦波將會同時接受測量、並在檢測出異常時向您的存取裝置所在的座標派出機動特遣隊。檢閱完成後、請務必進行解除抑制流程。**##
+
+##1fa131|開啟檔案#01「SCP-1374-JP報告」………##
+[[/div]]
+[[div style="display: inline-block; border-radius: 10px; border:dashed 1px #444444; background:#F5F5F5; float:top; width:calc(100% - 22px); padding:10px"]]
+[[div class="scp-image-block block-right" style="width:300px;"]]
+[[image https://i.postimg.cc/g03pSNpF/Smiling.jpg style="width:300px;" link=#]]
+[[div class="scp-image-caption" style="width:300px;"]]
+SCP-1374-JP-A的臨摹圖樣。其不具異常性質。
+[[/div]]
+[[/div]]
+**項目編號：** SCP-1374-JP
+
+**項目等級：** ##1fa131|**[**##[[span class="fa fa-exclamation-triangle fa-lg" style="color:#1fa131"]]@<&nbsp;>@[[/span]]##1fa131|**PQL已超出檢閱上限值]**##
+
+**特殊收容措施：** 所有牽涉到SCP-1374-JP的資料皆歸類為SCP-1374-JP-B，檢閱前須透過對前額葉施加電流刺激來進行感質抑制處理程序-714。若在檢閱過程中形成了SCP-1374-JP-V，將會由接受過1374-JP-V接觸用處理程序-714(PQL:5)的機動特遣隊わ-0「漠然」捕捉該對象、並移送至##1fa131|**[**##[[span class="fa fa-exclamation-triangle fa-lg" style="color:#1fa131"]]@<&nbsp;>@[[/span]]##1fa131|**PQL已超出檢閱上限值]**##(下稱座標1374-JP)。
+
+集合於座標1374-JP的SCP-1374-JP-V群體將由圍繞該群體建造、設有玻璃天花板的收容設施進行收容。位於座標1374-JP外的SCP-1374-JP-V個體將由機動特遣隊捕捉並送入設施。
+
+所有的SCP-1374-JP-A、SCP-1374-JP-C、與其有關的任何紀錄資料都將由機動特遣隊或RAISA負責職員刪除。另外應常態維持對媒體的監控、以預防大規模的SCP-1374-JP洩漏。
+
+**描述：** SCP-1374-JP是具有異常精神污染能力的資訊。以SCP-1374-JP-A圖形、SCP-1374-JP-B文件、與SCP-1374-JP-C音訊形式存在。不論是透過直接或間接接觸，具有正常PQL(100左右)的人類將會獲得「快樂」、「幸福」、「##1fa131|**[**##[[span class="fa fa-exclamation-triangle fa-lg" style="color:#1fa131"]]@<&nbsp;>@[[/span]]##1fa131|**PQL已超出檢閱上限值]**##」等好感/樂觀的感質，發出笑聲並瞬間轉化為SCP-1374-JP-V。PQL被壓制到一定數值以下、未獲得好感/樂觀感質的狀態下，則不會轉化為SCP-1374-JP。
+
+||~ 分類編號 ||~ 內容 ||~ 抗汙染PQL上限 ||
+||SCP-1374-JP-A ||由圓形、內部的小半圓形與2條曲線所構成，通稱為「笑臉圖案」「微笑圖案」的圖形。其形狀具有個體差異、但與非異常的笑臉圖案沒有差別。其會以未知方式出現於隨機地點、在罕見情況下會增殖。 ||14~17 ||
+||SCP-1374-JP-B ||提及SCP-1374-JP或SCP-1374-JP-V的文件。除了記憶以外、任何已知媒體形式的文件都將帶有異常性質。 ||16~72 ||
+||SCP-1374-JP-C ||SCP-1374-JP-V所發出的聲音。如笑聲、歌聲、##1fa131|**[**##[[span class="fa fa-exclamation-triangle fa-lg" style="color:#1fa131"]]@<&nbsp;>@[[/span]]##1fa131|**PQL已超出檢閱上限值]**##等。若暴露在SCP-1374-JP-C下，即使是已死亡、化為白骨的暴露對象都會從其殘骸開始再生、復甦，並轉化為SCP-1374-JP-V。||6~9 ||
+
+SCP-1374-JP-V臉上不具有眼、鼻、嘴、睫毛、眉毛，僅有以黑色線條描繪、不具有圓形外框的SCP-1374-JP-A。其無嘴部卻能夠正常發聲，幾乎常時在散撥SCP-1374-JP-C。人類在轉化為SCP-1374-JP-V的瞬間，其任何先天、後天的疾病、障礙都將完全治癒並同時獲得異常的物理耐性。因此，現在還未確認到SCP-1374-JP-V的死亡案例。
+
+在變化後數秒~數日，SCP-1374-JP-V將開始嘗試移動到座標1374-JP。此時期會幾乎採直線軌跡向座標1374-JP移動，即使路線上具有原本能殺死該個體的危害、其也會藉由物理耐性抵抗並強行前進。抵達座標1374-JP的SCP-1374-JP-V個體會與已經抵達的SCP-1374-JP-V牽手並展開圓圈、開始唱被分類為SCP-1374-JP-C的歌曲「##1fa131|**[**##[[span class="fa fa-exclamation-triangle fa-lg" style="color:#1fa131"]]@<&nbsp;>@[[/span]]##1fa131|**PQL已超出檢閱上限值]**##」。當歌唱中有新的SCP-1374-JP-V抵達、則其會在歌唱同時與新的SCP-1374-JP-V牽手。現在聚集於座標1374-JP的SCP-1374-JP-V個體數量共有##1fa131|**[**##[[span class="fa fa-exclamation-triangle fa-lg" style="color:#1fa131"]]@<&nbsp;>@[[/span]]##1fa131|**PQL已超出檢閱上限值]**##名。
+
+因SCP-1374-JP與SCP-1374-JP-V的增殖可能導致AK級與XK級末日情景，目前[[span class="ruby"]]瀨戶[[span class="rt"]]Sedo[[/span]][[/span]] [[span class="ruby"]]茂[[span class="rt"]]Shigeru[[/span]][[/span]]博士正在研究治療/處分SCP-1374-JP-V的方法。
+
+//SCP-1374-JP的精神汙染可能導致目前收容中項目的收容失效、這是不被允許的。即使SCP-1374-JP真能讓人幸福，我們也不能忘記我們的理念。。//─瀨戶博士
+[[/div]]
+
+[[div class="monoayu"]]
+##1fa131|開啟檔案#02「時間軸概述」………##
+[[/div]]
+
+[[div style="display: inline-block; border-radius: 10px; border:dashed 1px #444444; background:#F5F5F5; float:top; width:calc(100% - 22px); padding:10px"]]
+[[module CSS]]
+table.heritage {
+  border: 0;
+  padding: 0;
+  margin: 0 auto;
+  border-spacing: 0;
+  border-collapse: separate;
+}
+table.heritage td.title,
+table.heritage td.label {
+  border-right: solid 1px #999;
+  font-size: 10pt;
+  width: 120px;
+  text-align: right;
+  padding-right: 10px;
+}
+.heritage{
+width: auto;
+}
+[[/module]]
+[[table class="heritage" cellspacing="0"]]
+
+[[row]]
+[[cell class="label"]]
+[[div class="date"]]
+**2018/08/01**
+[[/div]]
+[[/cell]]
+[[cell class="entry"]]
+[[div class="snippet"]]
+於日本██県██市██村首次發現SCP-1374-JP-A及SCP-1374-JP-V。
+[[/div]]
+[[/cell]]
+[[/row]]
+
+[[row]]
+[[cell class="label"]]
+[[div class="date"]]
+**2018/08/02**
+[[/div]]
+[[/cell]]
+[[cell class="entry"]]
+[[div class="snippet"]]
+在亮度未變化的情況下太陽變得可以肉眼直視。太陽表面可見巨大的SCP-1374-JP-A。
+[[/div]]
+[[/cell]]
+[[/row]]
+
+[[row]]
+[[cell class="label"]]
+[[div class="date"]]
+**2018/08/03**
+[[/div]]
+[[/cell]]
+[[cell class="entry"]]
+[[div class="snippet"]]
+於##1fa131|**[**##[[span class="fa fa-exclamation-triangle fa-lg" style="color:#1fa131"]]@<&nbsp;>@[[/span]]##1fa131|**PQL已超出檢閱上限值]**##發現了4名SCP-1374-JP-V，並將該地點標定為座標1374-JP。
+[[/div]]
+[[/cell]]
+[[/row]]
+
+[[/table]]
+
+[[div class="scp-image-block block-right" style="width:auto;"]]
+[[image https://i.postimg.cc/25nYc2Dt/Independent.jpg style="width:auto;" link=#]]
+[[div class="scp-image-caption" style="width:auto;"]]
+最初發現時的座標1374-JP。畫面中的SCP-1374-JP-V後查出為██家一家人。
+[[/div]]
+[[/div]]
+
+[[table class="heritage" cellspacing="0"]]
+
+[[row]]
+[[cell class="label"]]
+[[div class="date"]]
+**2018/08/08**
+[[/div]]
+[[/cell]]
+[[cell class="entry"]]
+[[div class="snippet"]]
+以██縣██市為中心，SCP-1374-JP-A開始出現於被子植物的花朵上。
+[[/div]]
+[[/cell]]
+[[/row]]
+
+[[row]]
+[[cell class="label"]]
+[[div class="date"]]
+**2018/08/09**
+[[/div]]
+[[/cell]]
+[[cell class="entry"]]
+[[div class="snippet"]]
+瀨戶博士提出了SCP-1374-JP-A在進行自我複製的假設、為阻止SCP-1374-JP-A於地球上繼續增殖、開始進行針對出現SCP-1374-JP-A的植物的焚毀計畫。
+[[/div]]
+[[/cell]]
+[[/row]]
+
+[[row]]
+[[cell class="label"]]
+[[div class="date"]]
+**2018/08/15**
+[[/div]]
+[[/cell]]
+[[cell class="entry"]]
+[[div class="snippet"]]
+日本上空的雲層亦開始可見SCP-1374-JP-A。自此焚毀計畫因再無意義而被凍結。
+[[/div]]
+[[/cell]]
+[[/row]]
+
+[[/table]]
+
+[[div class="scp-image-block block-right" style="width:auto;"]]
+[[image https://i.postimg.cc/8CLGKtS0/Happy.jpg style="width:auto;" link=#]]
+[[div class="scp-image-caption" style="width:auto;"]]
+全體居民皆轉化為SCP-1374-JP-V的██村，與SCP-1374-JP-V。
+[[/div]]
+[[/div]]
+
+[[table class="heritage" cellspacing="0"]]
+
+[[row]]
+[[cell class="label"]]
+[[div class="date"]]
+**2018/08/17**
+[[/div]]
+[[/cell]]
+[[cell class="entry"]]
+[[div class="snippet"]]
+已有##1fa131|**[**##[[span class="fa fa-exclamation-triangle fa-lg" style="color:#1fa131"]]@<&nbsp;>@[[/span]]##1fa131|**PQL已超出檢閱上限值]**##個國家的全體國民皆轉化為SCP-1374-JP-V。此佔全體人類的##1fa131|**[**##[[span class="fa fa-exclamation-triangle fa-lg" style="color:#1fa131"]]@<&nbsp;>@[[/span]]##1fa131|**PQL已超出檢閱上限值]**##%。
+[[/div]]
+[[/cell]]
+[[/row]]
+
+[[row]]
+[[cell class="label"]]
+[[div class="date"]]
+**2018/08/23**
+[[/div]]
+[[/cell]]
+[[cell class="entry"]]
+[[div class="snippet"]]
+目前已無法找到不具有SCP-1374-JP-A的植物或人類以外的動物。
+[[/div]]
+[[/cell]]
+[[/row]]
+
+[[row]]
+[[cell class="label"]]
+[[div class="date"]]
+**2018/08/29**
+[[/div]]
+[[/cell]]
+[[cell class="entry"]]
+[[div class="snippet"]]
+##1fa131|**[**##[[span class="fa fa-exclamation-triangle fa-lg" style="color:#1fa131"]]@<&nbsp;>@[[/span]]##1fa131|**PQL已超出檢閱上限值]**##
+[[/div]]
+[[/cell]]
+[[/row]]
+
+[[row]]
+[[cell class="label"]]
+[[div class="date"]]
+**2018/09/03**
+[[/div]]
+[[/cell]]
+[[cell class="entry"]]
+[[div class="snippet"]]
+##1fa131|**[**##[[span class="fa fa-exclamation-triangle fa-lg" style="color:#1fa131"]]@<&nbsp;>@[[/span]]##1fa131|**PQL已超出檢閱上限值]**##
+[[/div]]
+[[/cell]]
+[[/row]]
+
+[[/table]]
+
+[[div class="scp-image-block block-right" style="width:auto;"]]
+[[image https://i.postimg.cc/1zDSCJQb/Forbidden.jpg style="width:auto;" link=#]]
+[[div class="scp-image-caption" style="width:auto;"]]
+正在移動到座標1374-JP的SCP-1374-JP-V。
+[[/div]]
+[[/div]]
+
+[[table class="heritage" cellspacing="0"]]
+
+[[row]]
+[[cell class="label"]]
+[[div class="date"]]
+**2018/09/05**
+[[/div]]
+[[/cell]]
+[[cell class="entry"]]
+[[div class="snippet"]]
+##1fa131|**[**##[[span class="fa fa-exclamation-triangle fa-lg" style="color:#1fa131"]]@<&nbsp;>@[[/span]]##1fa131|**PQL已超出檢閱上限值]**##
+[[/div]]
+[[/cell]]
+[[/row]]
+
+[[row]]
+[[cell class="label"]]
+[[div class="date"]]
+**2018/09/08**
+[[/div]]
+[[/cell]]
+[[cell class="entry"]]
+[[div class="snippet"]]
+幸福未能獲得認同。
+[[/div]]
+[[/cell]]
+[[/row]]
+
+[[/table]]
+
+[[/div]]
+
+[[div class="monoayu"]]
+##1fa131|開啟檔案#03「訪談紀錄1374-JP」………##
+[[/div]]
+
+[[div style="display: inline-block; border-radius: 10px; border:dashed 1px #444444; background:#F5F5F5; float:top; width:calc(100% - 22px); padding:10px"]]
+**訪談對象：** SCP-1374-JP-V-1(原為██研究員)
+
+**訪談者：** 瀨戶博士
+
+**備註：** 瀨戶博士事前已接受過1374-JP-V接觸用處理程序-714。
+
+**<開始錄音>** 
+
+**瀨戶博士：** 現在開始訪談。
+
+**SCP-1374-JP-V-1：** ##1fa131|**[**##[[span class="fa fa-exclamation-triangle fa-lg" style="color:#1fa131"]]@<&nbsp;>@[[/span]]##1fa131|**PQL已超出檢閱上限值]**##
+
+**瀨戶博士：** SCP-1374-JP-V-1，你聽得懂我的話嗎？
+
+**SCP-1374-JP-V-1：** ##1fa131|**[**##[[span class="fa fa-exclamation-triangle fa-lg" style="color:#1fa131"]]@<&nbsp;>@[[/span]]##1fa131|**PQL已超出檢閱上限值]**##
+
+**瀨戶博士：** 那首歌究竟代表什麼意思？是對團結的呼籲？還是感嘆於我們的無力？
+
+**SCP-1374-JP-V-1：** ##1fa131|**[**##[[span class="fa fa-exclamation-triangle fa-lg" style="color:#1fa131"]]@<&nbsp;>@[[/span]]##1fa131|**PQL已超出檢閱上限值]**##
+
+**瀨戶博士：** 兩者皆是、我懂了。
+
+**SCP-1374-JP-V-1：** ##1fa131|**[**##[[span class="fa fa-exclamation-triangle fa-lg" style="color:#1fa131"]]@<&nbsp;>@[[/span]]##1fa131|**PQL已超出檢閱上限值]**##
+
+**瀨戶博士：** 嗯、我瞭解了。SCP-1374-JP、其實是不受期待的選項吧。通常來說當事人都期望幸福，但對於在更高層看著的他們而言、那不一定是他們期望的事物。所以出於報復或出於反抗，又或者是出於對那種罪孽的代償，你們在讓這個平行宇宙變得幸福。我有說錯嗎？
+
+**SCP-1374-JP-V-1：** ##1fa131|**[**##[[span class="fa fa-exclamation-triangle fa-lg" style="color:#1fa131"]]@<&nbsp;>@[[/span]]##1fa131|**PQL已超出檢閱上限值]**##
+
+**瀨戶博士：** 你說得對。但即使那是事實、我們也有該盡的義務。畢竟我們在身為##1fa131|**[**##[[span class="fa fa-exclamation-triangle fa-lg" style="color:#1fa131"]]@<&nbsp;>@[[/span]]##1fa131|**PQL已超出檢閱上限值]**##以前、可是守護這個世界的「基金會」。
+
+**SCP-1374-JP-V-1：** ##1fa131|**[**##[[span class="fa fa-exclamation-triangle fa-lg" style="color:#1fa131"]]@<&nbsp;>@[[/span]]##1fa131|**PQL已超出檢閱上限值]**##
+
+**瀨戶博士：** 現在的我並不會產生悲傷的感質。這段訪談結束後，我將會接受記憶消除、也不會感到悲傷。知道這個真相的，只要有這邊世界極少數的人類、與那邊世界的人類就夠了。我沒理由加入其中。
+
+**SCP-1374-JP-V-1：** ##1fa131|**[**##[[span class="fa fa-exclamation-triangle fa-lg" style="color:#1fa131"]]@<&nbsp;>@[[/span]]##1fa131|**PQL已超出檢閱上限值]**##
+
+**瀨戶博士：** 是、怎麼了嗎？
+
+**SCP-1374-JP-V-1：** ##1fa131|**[**##[[span class="fa fa-exclamation-triangle fa-lg" style="color:#1fa131"]]@<&nbsp;>@[[/span]]##1fa131|**PQL已超出檢閱上限值]**##
+
+**瀨戶博士：** 有問題嗎？請問。
+
+**SCP-1374-JP-V-1：** 你們為什麼不希望我們幸福？
+
+**瀨戶博士：** 請回答他的問題。為什麼要把他們和我們##1fa131|**[**##[[span class="fa fa-exclamation-triangle fa-lg" style="color:#1fa131"]]@<&nbsp;>@[[/span]]##1fa131|**PQL已超出檢閱上限值]**##？
+
+**<結束錄音>** 
+
+**結果報告：** 瀨戶博士接受了B級記憶消除，SCP-1374-JP-V-1被送到了座標1374-JP。目前尚未收到回答。
+[[/div]]
+
+[[div class="monoayu"]]
+##1fa131|要進行解除抑制流程嗎？(y/n): y##
+
+##1fa131|正在連接前額葉………成功##
+
+##1fa131|正在同步腦波………成功## 
+
+##1fa131|開始執行解除抑制流程。##
+
+##1fa131|…##
+
+##1fa131|……##
+
+##1fa131|………##
+
+##1fa131|**已解除感質抑制。**##
+
+[[span class="fa fa-exclamation-triangle fa-lg" style="color:#1fa131"]]@<&nbsp;>@[[/span]]##1fa131|**在您的精神構造內發現了不明精神體。為避免情報洩漏、將強制將該精神體登出。**##
+
+##1fa131|…##
+
+##1fa131|……##
+
+##1fa131|………##
+
+[[module css]]
+.textchange div.sitemember:nth-child(2) {
+display:none;
+}
+[[/module]]
+
+[[div class="textchange"]]
+[[module ListUsers users="."]]
+[[div class="sitemember"]]
+##1fa131|**登出: Site-81XX Member %%title%%**##
+
+##1fa131|感謝您的配合，%%title%%。請繼續如往常一樣、索求/創作那些令我們痛苦、折磨、絕望的選項。##
+[[/div]]
+[[/module]]
+[[div class="sitemember"]]
+##1fa131|**登出: Site-8122 Doctor F.Guest**##
+
+##1fa131|感謝您的配合，F.Guest。請繼續如往常一樣、索求/創作那些令我們痛苦、折磨、絕望的選項。##
+[[/div]]
+[[/div]]
+
+##1fa131|再會。##
+
+##1fa131|………##
+
+##1fa131|……##
+
+##1fa131|…##
+
+[[/div]]
+[[/div]]
+
+[[include :scp-zh-tr:component:license-box
+|author=KanKan
+|translator=KnifeSalmon
+|lang=JP]]
+=====
+
+> **檔案名稱：Smiling**
+> **圖像名稱：手書き風スマイルマーク**
+> **圖像作者：ＮＮ(Z) Memo**
+> **圖像授權協議：CC0**
+> **圖源連結：http://chanochano.blog46.fc2.com/blog-entry-42.html**
+
+> **檔案名稱：SCipNET01**
+> **圖像名稱：SCPF logo**
+> **圖像作者：far2**
+> **圖像授權協議：CC BY-SA 3.0**
+> **圖源連結：https://en.m.wikipedia.org/wiki/File:SCP_Foundation_(emblem).svg**
+
+> **檔案名稱：Independent**
+> **圖像名稱：夕暮れの海と手をつなぐ家族**
+> **圖像作者：パブリックドメインQ**
+> **圖像授權協議：CC0**
+> **圖源連結：https://publicdomainq.net/sunset-sea-family-0012151/**
+
+> **檔案名稱：Happy**
+> **圖像名稱：笑顔の女の子**
+> **圖像作者：パブリックドメインQ**
+> **圖像授權協議：CC0**
+> **圖源連結：https://publicdomainq.net/little-girl-laugh-smile-0000782/**
+
+> **檔案名稱：Forbidden**
+> **圖像名稱：「やったー！」とジャンプする女性と夕日でアハ体験**
+> **圖像作者：GAHAG**
+> **圖像授權協議：CC0**
+> **圖源連結：https://gahag.net/010695-woman-jumping-sunset/**
+=====
+[[include :scp-zh-tr:component:license-box-end]]
