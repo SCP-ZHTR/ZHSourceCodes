@@ -2,7 +2,7 @@
 [[include component:site-zh-02]]
 [[include info:start]]
 作者：Giga_Giga
-篇名：SCP-ZH-273 誠實的守衛又說謊的守衛
+篇名：SCP-ZH-273-誠實的守衛又說謊的守衛
 [[include info:end]]
 
 **項目編號：** SCP-ZH-273
