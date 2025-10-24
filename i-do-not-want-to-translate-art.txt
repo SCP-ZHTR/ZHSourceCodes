@@ -10,10 +10,14 @@
 .email-example a.collapsible-block-link {font-weight: bold;}
 .tofrom {margin-left: 10px; margin-top: 5px; padding: 1px 15px; border-left: solid 3px maroon}
 [[/module]]
+[[include :scp-zh-tr:theme:bedrock]]
+[[include :scp-zh-tr:theme:site-zh-11]]
 
 [[include info:start]]
 **繪者：** [[*user IC 1623]]
 網址(依順序)：
+[[collapsible show="舊版" hide="舊版"]]
+
 https://i.imgur.com/uOMHHCU.gif
 https://i.imgur.com/GlFdvtN.png
 https://i.imgur.com/d32OIK9.png
@@ -22,10 +26,24 @@ https://i.imgur.com/WRhr04H.png
 https://i.imgur.com/sflFmwu.gif
 https://i.imgur.com/jkLDcgS.gif
 https://i.imgur.com/HYTctqN.png
-授權方式：（CC BY-SA 3.0）
-版權所有者： [[*user IC 1623]]
-該aic所在站點：[http://scp-zh-tr.wikidot.com/site-zh-11 site-zh-11]
-此aic作者：[http://scp-zh-tr.wikidot.com/surprising-mars 熒惑]
+
+[[/collapsible]]
+
+[[collapsible show="新版" hide="新版"]]
+
+https://postimg.cc/bZdQngRW
+https://postimg.cc/mPhQ9jwf
+https://postimg.cc/MnXyB5YL
+https://postimg.cc/rDzS4j9P
+https://postimg.cc/ZW0rNHLG
+https://postimg.cc/K14nTf5s
+https://i.imgur.com/HYTctqN.png
+
+[[/collapsible]]
+
+**授權方式：**（CC BY-SA 3.0）
+**該aic所在站點：**[http://scp-zh-tr.wikidot.com/site-zh-11 Site-ZH-11]
+**此aic作者：**[http://scp-zh-tr.wikidot.com/surprising-mars 熒惑]
 [[include info:end]]
 
 
@@ -45,37 +63,36 @@ https://i.imgur.com/HYTctqN.png
 研發更新科的同仁你好，這是你們委託的mars.aic虛擬形象圖片。
 我這邊也一併附上使用範例供作參考。
 ++ 正常
-[[image https://i.imgur.com/uOMHHCU.gif width="200px"]]
+[[image https://i.postimg.cc/2S7TPXLk/ezgif-com-animated-gif-maker.gif width="200px"]]
 ++ 待機
-[[image https://i.imgur.com/GlFdvtN.png width="200px"]]
+[[image https://i.postimg.cc/4xQwrFHd/peper-fu-zhi-01.png width="200px"]]
 ++ 搜尋
-[[image https://i.imgur.com/d32OIK9.png width="200px"]]
+[[image https://i.postimg.cc/t4NDLmn9/peper-fu-zhi-11.png width="200px"]]
 ++ 沮喪
-[[image https://i.imgur.com/PA1xZMC.png width="200px"]]
-++ 資料庫受攻擊
-[[image https://i.imgur.com/WRhr04H.png width="200px"]]
-++ 更新中（白底版）
-[[image https://i.imgur.com/sflFmwu.gif width="200px"]]
-++ 更新中（黑底版）
-[[div style="border: double 12px #9a4040; background:#000;"]]
-[[=image https://i.imgur.com/jkLDcgS.gif width="200px"]]
-[[/div]]
+[[image https://i.postimg.cc/zGFp9PH8/peper-fu-zhi-06.png width="200px"]]
+++ 警告
+[[image https://i.postimg.cc/cLBTV5tL/peper-fu-zhi-12.png width="200px"]]
+++ 更新中/資料傳輸中/思考中
+[[image https://i.postimg.cc/zGFp9PH5/ezgif-com-animated-gif-maker-1.gif width="200px"]]
 ----
-以下是我自製的使用範例：
+**以下是我自製的使用範例：**
+[[div class="mchat"]]
+紙貓貓,幫我搜尋如何逃離地下室。我已經受不了這裡了，每天都在那翻譯翻譯，超煩。
+[[/div]]
 
-> 紙貓貓,幫我搜尋如何逃離地下室。我已經受不了這裡了，每天都在那翻譯翻譯，超煩。
+[[div class="mars m-search right"]]
+好的,幫你搜尋"如何逃離地下室"中......
+[[/div]]
 
-[[>image https://i.imgur.com/d32OIK9.png width="150px" style="margin-right: 5px;"]]
-[[>]]
-好的，幫你搜尋"如何逃離地下室"中......
-[[/>]]
+[[div class="mchat"]]
+快一wh!\÷_:xuu#÷\#dhj!&&×=&
+[[/div]]
 
-> 快一wh!\÷_:xuu#÷\#dhj!&&×=&d=:&udiejtiaj÷#;/#,_qkd÷_!&:.$-_×#
 
-[[>image https://i.imgur.com/HYTctqN.png width="100px" style="margin-right: 5px;"]]
-[[>]]
+[[>image https://i.imgur.com/HYTctqN.png width="50px" style="margin-right: 5px;"]]
+[[div class="mchat right"]]
 別想逃　：）
-[[/>]]
+[[/div]]
 
 
 [[/div]]
