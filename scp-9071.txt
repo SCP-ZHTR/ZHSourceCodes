@@ -1,0 +1,54 @@
+[[include component:scp-meta-title-hiding css-style=classic]]
+=====
+[[include component:preview
+text=所以總之呢，我把照片貼到了牆上。全都是小雞。
+]]
+=====
+
+[[module CSS]]
+
+#page-title::after {
+content: "由Cathy Autumn和FLOORBOARDS撰寫";
+font-size: 50%;
+color: #888;
+}
+
+.footnotes-footer {
+display:none;
+}
+[[/module]]
+[[include :scp-wiki:theme:scp-trans-pride |trans-pride-logo= --] |trans-pride-footer= --]]]
+[[include info:start]]
+原文：[https://scp-wiki.wikidot.com/scp-9071 SCP-9071]
+作者：[[*user Cathy Autumn]]和[[*user FLOORBOARDS]] 
+譯者：[[*user Halewen]]
+[[include info:end]]
+
+
+**項目編號：**SCP-9071
+
+**項目等級：**Safe
+
+[[include component:image-block name=https://scp-wiki.wdfiles.com/local--files/scp-9071/duck.jpg|caption={{SCP-9071。圖片由 [[span class="ruby"]]你的好友皮特寵物店[[span class="rt"]]Your Pal Pete's[[/span]][[/span]]（鳥、魚、爬蟲類）的店員拍攝。}}]]
+
+**特殊收容措施：**SCP-9071被收容於[[[but a dream |Site-433]]]中的標準Safe級置物櫃內。當放置於置物櫃時，SCP-9071應總是朝下放置，空白面朝上。在測試期間，可使用透明膠帶將SCP-9071貼附至任何表面。
+
+**描述：**SCP-9071是一張21x27公分的層壓影印紙，其中一面印著一籠小雞，另一面則是完全空白。當SCP-9071透過任何方式貼在一表面上時，任何具有感知力的生物在觀測SCP-9071時將會認定項目並非一張層壓影印紙，而是一籠真實的小雞。
+
+觀察者會對SCP-9071做出彷彿項目產生的影響為現實的反應，並能以相當生動的方式描述某特定小雞的味道、聲音、動作以及行為。若觀察者透過視覺影像（如錄製影片）間接觀察SCP-9071，觀察者仍會受到其效應影響。
+
+此幻覺與隨後產生的幻想對所有觀察者皆一致，甚至可影響對模因/認知危害異常有高認知阻抗的觀察者。SCP-9071的效應僅可透過告知對象異常的本質來避免；SCP-9071接著將會永遠失去影響此對象的能力。
+
+當透過其他方式間接觀察SCP-9071時（如圖片；見上方附圖），其效應將不會被觸發。
+
+**事件報告：**2025年10月19日，初級研究員Sarah Keele報告SCP-9071的收容櫃散發一股臭味。SCP-9071被從中移出，並在項目後方找到了一個小籠子，其大小約與項目相當。在打開籠子後，於裏頭發現了超過200具小雞的屍體，其腐爛狀態各有不同（有的已腐爛超過兩年）；此籠子被認定為是味道來源。
+
+籠子隨後由看守員工清潔。每具屍體正在接受測試，以確認其是否具有任何次要異常性質。SCP-9071已被重新分配至新的收容櫃中，並在其旁邊的牆貼上食物與水的圖片。
+
+[[footnoteblock]]
+
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[SCP-9070]]] | SCP-9071 | [[[SCP-9072]]] >>
+[[/=]]
+[[/div]]
