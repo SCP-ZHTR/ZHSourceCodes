@@ -1,3 +1,5 @@
+[[include :scp-zh-tr:theme:classic]]
+
 [[include info:start]]
 原文：[http://scp-wiki.wikidot.com/trafficresumes Traffic Resumes] 恢復通行
 作者：[[*user ObserverSeptember]]
