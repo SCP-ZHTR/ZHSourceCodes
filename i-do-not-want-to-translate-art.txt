@@ -90,8 +90,8 @@ https://i.imgur.com/HYTctqN.png
 
 
 [[>image https://i.imgur.com/HYTctqN.png width="50px" style="margin-right: 5px;"]]
-[[div class="mchat right"]]
-別想逃　：）
+[[div class="mchat right" style="--mchat-bg-color: 170, 54, 41;"]]
+##fff|別想逃　：）##
 [[/div]]
 
 
