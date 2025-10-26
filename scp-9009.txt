@@ -1,0 +1,2581 @@
+=====
+[[include :scp-wiki:component:preview
+text=我們真把他們作出來了]]
+=====
+[[include :scp-zh-tr:component:scp-meta-title-hiding]]
+[[include :scp-wiki:theme:penumbra]]
+[[include :scp-wiki:component:assorted-paper]]
+
+[[module css]]
+.licensebox,
+.page-tags,
+.page-info-break,
+#page-info,
+#action-area,
+.page-options-bottom,
+.page-options-area-bottom {
+  background-color: white;
+  z-index: 10;
+  position: relative;
+}
+
+/* 半影亮色模式 */
+
+@import url("https://scp-wiki.wdfiles.com/local--files/theme%3Awilderness/national-park-full.css");
+
+:root {
+  --header-title: "SCP基金會";
+  --header-subtitle: "控制 - 收容 - 保護";
+  --body-font: InterVariable, sans-serif;
+  --accentColor: #bf0016; /* red accent */
+  --darkColor: #fff; /* white background */
+  --darkerColor: #ededed; /* off-white */
+  --lightColor: #2f333c; /* dark background */
+  --lgurl: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), url("https://scp-wiki.wdfiles.com/local--files/theme%3Apaperstack/lgtrans.png");
+
+}
+
+hr {
+  border-bottom: 1px solid var(--accentColor);
+  background-color: transparent;
+}
+
+blockquote,
+div.blockquote {
+  border: none;
+  display: flow-root;
+}
+
+div.doc {
+box-shadow: none;
+}
+
+div.email {
+   box-shadow: 0 0 1px rgba(0,0,0,.5);
+   display: flow-root;
+   background-color: #f4f4f4;
+   padding: 0 1em;
+   margin: 1em 3em;
+}
+
+#page-title {display: none;}
+
+.cover {
+  font-size: 125%;
+  text-align: center;
+  margin: 2em auto;
+  display: block;
+  width: 75%;
+  padding: 2em;
+  border: 1px solid black;
+  box-shadow: 1px 1px 5px rgba(0,0,0,.5);
+}
+
+.divider {
+  font-size: 125%;
+  text-align: center;
+  margin: auto;
+  font-weight: bold;
+  display: block;
+  width: fit-content;
+}
+
+.footnotes-footer {
+  background-color: #333;
+}
+
+.divider-large {
+  border-top: 1.5px solid black;
+  border-bottom: 2px solid black;
+  text-align: center;
+  padding: 2em;
+  margin: 100px auto;
+}
+
+.admin {
+  font-family: Courier New, Courier, monospace;
+  text-shadow: 1px 1px 1px rgba(0,0,0,.25);
+  margin: 1em 3em;
+}
+
+.scp-image-block {
+  margin: 2em auto;
+}
+
+#page-content .normalwidth,
+#action-area,
+#page-options-container,
+#page-info-break,
+#page-title,
+#action-area-top,
+.page-tags {
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 1.5em;
+  padding-right: 1.5em;
+  max-width: 48rem;
+}
+
+#page-content {
+  width: 100vw;
+  max-width: 100vw;
+}
+
+#main-content {
+  width: 100vw;
+  max-width: 100vw;
+  margin-left: 0;
+  margin-right: 0;
+}
+
+#content-wrap {
+  width: 100vw;
+  max-width: 100vw;
+  margin-left: 0;
+  margin-right: 0;
+}
+
+/* 火菱圖案 */
+
+/* 四面菱形 */
+
+.fire-diamond {
+  position: relative;
+  width: 140px;
+  height: 140px;
+  margin: 40px auto;
+}
+
+.fire-diamond .quad {
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  transform-origin: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid #000;
+  box-sizing: border-box;
+  box-shadow: 1px 1px 5px rgba(0,0,0,.5);
+}
+
+/* 火菱對齊及旋轉 */
+.fire-diamond .top {
+  top: 0;
+  left: 45px;
+  transform: rotate(45deg);
+}
+.fire-diamond .left {
+  top: 45px;
+  left: 0;
+  transform: rotate(-45deg);
+}
+.fire-diamond .right {
+  top: 45px;
+  left: 90px;
+  transform: rotate(135deg);
+}
+.fire-diamond .bottom {
+  top: 90px;
+  left: 45px;
+  transform: rotate(-135deg);
+}
+
+/* 四角內標誌 */
+.fire-diamond .icon {
+  width: 36px;
+  height: 36px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.fire-diamond .top .icon    { transform: rotate(-45deg);}
+.fire-diamond .left .icon   { transform: rotate(45deg);}
+.fire-diamond .right .icon  { transform: rotate(-135deg);}
+.fire-diamond .bottom .icon { transform: rotate(135deg);}
+
+/* 暗色模式 */
+
+.admo {
+  width: 100vw;
+  background-image: linear-gradient(to bottom, white 0px, #0a0a0a 100vh);
+  padding-top: 100vh;
+  color: #eee;
+  padding-bottom: 100vh;
+}
+
+.admo :is(blockquote, div.blockquote:not(.fancy-log), .email) {
+  background-color: #222;
+}
+
+.admo :is(hr, .divider-large) {
+  border-color: #bbb;
+}
+
+.admo :is(.scp-image-block, .scp-image-caption) {
+  background-color: #222;
+  border-color: #222;
+  color: white;
+}
+
+.estrella-paper.weathered {
+  color: black;
+}
+
+.admo a {
+  color: #f77;
+}
+
+#page-content .admo a.collapsible-block-link {
+  background-color: #121212;
+  color: #bbb;
+}
+
+div.fancy-log {
+  position: relative;
+  padding-left: 70px;
+  /* padding-top: 1lh; */
+}
+
+div.fancy-log::before {
+  content: " ";
+  display: block;
+  width: 50px;
+  height: 100%;
+  position: absolute;
+  left: 10px;
+  top: -15px;
+  background-position: center;
+  margin-right: 1em;
+  margin-top: 1em;
+  background-repeat: no-repeat;
+}
+
+/*
+div.fancy-log::after {
+  content: "事件紀錄";
+  position: absolute;
+  color: var(--accentColor);
+  width: 100%;
+  display: block;
+  font-weight: bold;
+  top: 0;
+  left: 0;
+  padding: 0.25em;
+  box-sizing: border-box;
+  border-bottom: 3px solid var(--accentColor);
+  background-color: var(--bgColor);
+}*/
+
+#page-content .wiki-content-table tr :is(td, th) {
+  border-color: black;
+}
+
+#page-content :not(.admo) th {
+  color: black;
+}
+
+div.incident-log {
+  background-color: #522;
+  --accentColor: #f55;
+}
+
+div.update-log {
+  background-color: #225;
+  --accentColor: #88d;
+}
+
+div.news-log {
+  --accentColor: #bbb;
+  background-color: #393939;
+}
+
+div.warning-log {
+  --accentColor: #c73;
+  background-color: #552c1f;
+}
+
+div.greentext {
+  color: green;
+  background-color: #f4f4f4;
+  padding: 1em;
+  margin: 1em auto;
+}
+
+/*js window.inlineSvg = (svg) => {
+  return `url('data:image/svg+xml;utf8,${encodeURIComponent(svg)}')`
+}; "";*//*GENERATED START*//*GENERATED END*/
+
+/* https://pictogrammers.com/library/mdi/ */
+div.incident-log::before {
+  background-image: /*js inlineSvg(`<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title>alert-outline</title><path fill="#f55" d="M12,2L1,21H23M12,6L19.53,19H4.47M11,10V14H13V10M11,16V18H13V16" /></svg>`) *//*GENERATED START*/url('data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2024%2024%22%3E%3Ctitle%3Ealert-outline%3C%2Ftitle%3E%3Cpath%20fill%3D%22%23f55%22%20d%3D%22M12%2C2L1%2C21H23M12%2C6L19.53%2C19H4.47M11%2C10V14H13V10M11%2C16V18H13V16%22%20%2F%3E%3C%2Fsvg%3E')/*GENERATED END*/;
+}
+
+div.news-log::before {
+  background-image: /*js inlineSvg(`<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title>web</title><path fill="#bbb" d="M16.36,14C16.44,13.34 16.5,12.68 16.5,12C16.5,11.32 16.44,10.66 16.36,10H19.74C19.9,10.64 20,11.31 20,12C20,12.69 19.9,13.36 19.74,14M14.59,19.56C15.19,18.45 15.65,17.25 15.97,16H18.92C17.96,17.65 16.43,18.93 14.59,19.56M14.34,14H9.66C9.56,13.34 9.5,12.68 9.5,12C9.5,11.32 9.56,10.65 9.66,10H14.34C14.43,10.65 14.5,11.32 14.5,12C14.5,12.68 14.43,13.34 14.34,14M12,19.96C11.17,18.76 10.5,17.43 10.09,16H13.91C13.5,17.43 12.83,18.76 12,19.96M8,8H5.08C6.03,6.34 7.57,5.06 9.4,4.44C8.8,5.55 8.35,6.75 8,8M5.08,16H8C8.35,17.25 8.8,18.45 9.4,19.56C7.57,18.93 6.03,17.65 5.08,16M4.26,14C4.1,13.36 4,12.69 4,12C4,11.31 4.1,10.64 4.26,10H7.64C7.56,10.66 7.5,11.32 7.5,12C7.5,12.68 7.56,13.34 7.64,14M12,4.03C12.83,5.23 13.5,6.57 13.91,8H10.09C10.5,6.57 11.17,5.23 12,4.03M18.92,8H15.97C15.65,6.75 15.19,5.55 14.59,4.44C16.43,5.07 17.96,6.34 18.92,8M12,2C6.47,2 2,6.5 2,12A10,10 0 0,0 12,22A10,10 0 0,0 22,12A10,10 0 0,0 12,2Z" /></svg>`) *//*GENERATED START*/url('data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2024%2024%22%3E%3Ctitle%3Eweb%3C%2Ftitle%3E%3Cpath%20fill%3D%22%23bbb%22%20d%3D%22M16.36%2C14C16.44%2C13.34%2016.5%2C12.68%2016.5%2C12C16.5%2C11.32%2016.44%2C10.66%2016.36%2C10H19.74C19.9%2C10.64%2020%2C11.31%2020%2C12C20%2C12.69%2019.9%2C13.36%2019.74%2C14M14.59%2C19.56C15.19%2C18.45%2015.65%2C17.25%2015.97%2C16H18.92C17.96%2C17.65%2016.43%2C18.93%2014.59%2C19.56M14.34%2C14H9.66C9.56%2C13.34%209.5%2C12.68%209.5%2C12C9.5%2C11.32%209.56%2C10.65%209.66%2C10H14.34C14.43%2C10.65%2014.5%2C11.32%2014.5%2C12C14.5%2C12.68%2014.43%2C13.34%2014.34%2C14M12%2C19.96C11.17%2C18.76%2010.5%2C17.43%2010.09%2C16H13.91C13.5%2C17.43%2012.83%2C18.76%2012%2C19.96M8%2C8H5.08C6.03%2C6.34%207.57%2C5.06%209.4%2C4.44C8.8%2C5.55%208.35%2C6.75%208%2C8M5.08%2C16H8C8.35%2C17.25%208.8%2C18.45%209.4%2C19.56C7.57%2C18.93%206.03%2C17.65%205.08%2C16M4.26%2C14C4.1%2C13.36%204%2C12.69%204%2C12C4%2C11.31%204.1%2C10.64%204.26%2C10H7.64C7.56%2C10.66%207.5%2C11.32%207.5%2C12C7.5%2C12.68%207.56%2C13.34%207.64%2C14M12%2C4.03C12.83%2C5.23%2013.5%2C6.57%2013.91%2C8H10.09C10.5%2C6.57%2011.17%2C5.23%2012%2C4.03M18.92%2C8H15.97C15.65%2C6.75%2015.19%2C5.55%2014.59%2C4.44C16.43%2C5.07%2017.96%2C6.34%2018.92%2C8M12%2C2C6.47%2C2%202%2C6.5%202%2C12A10%2C10%200%200%2C0%2012%2C22A10%2C10%200%200%2C0%2022%2C12A10%2C10%200%200%2C0%2012%2C2Z%22%20%2F%3E%3C%2Fsvg%3E')/*GENERATED END*/;
+}
+
+div.update-log::before {
+  background-image: /*js inlineSvg(`<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title>update</title><path fill="#88d" d="M21,10.12H14.22L16.96,7.3C14.23,4.6 9.81,4.5 7.08,7.2C4.35,9.91 4.35,14.28 7.08,17C9.81,19.7 14.23,19.7 16.96,17C18.32,15.65 19,14.08 19,12.1H21C21,14.08 20.12,16.65 18.36,18.39C14.85,21.87 9.15,21.87 5.64,18.39C2.14,14.92 2.11,9.28 5.62,5.81C9.13,2.34 14.76,2.34 18.27,5.81L21,3V10.12M12.5,8V12.25L16,14.33L15.28,15.54L11,13V8H12.5Z" /></svg>`) *//*GENERATED START*/url('data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2024%2024%22%3E%3Ctitle%3Eupdate%3C%2Ftitle%3E%3Cpath%20fill%3D%22%2388d%22%20d%3D%22M21%2C10.12H14.22L16.96%2C7.3C14.23%2C4.6%209.81%2C4.5%207.08%2C7.2C4.35%2C9.91%204.35%2C14.28%207.08%2C17C9.81%2C19.7%2014.23%2C19.7%2016.96%2C17C18.32%2C15.65%2019%2C14.08%2019%2C12.1H21C21%2C14.08%2020.12%2C16.65%2018.36%2C18.39C14.85%2C21.87%209.15%2C21.87%205.64%2C18.39C2.14%2C14.92%202.11%2C9.28%205.62%2C5.81C9.13%2C2.34%2014.76%2C2.34%2018.27%2C5.81L21%2C3V10.12M12.5%2C8V12.25L16%2C14.33L15.28%2C15.54L11%2C13V8H12.5Z%22%20%2F%3E%3C%2Fsvg%3E')/*GENERATED END*/;
+}
+
+div.warning-log::before {
+  background-image: /*js inlineSvg(`<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title>flag-variant</title><path fill="#c73" d="M6,3A1,1 0 0,1 7,4V4.88C8.06,4.44 9.5,4 11,4C14,4 14,6 16,6C19,6 20,4 20,4V12C20,12 19,14 16,14C13,14 13,12 11,12C8,12 7,14 7,14V21H5V4A1,1 0 0,1 6,3Z" /></svg>`) *//*GENERATED START*/url('data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2024%2024%22%3E%3Ctitle%3Eflag-variant%3C%2Ftitle%3E%3Cpath%20fill%3D%22%23c73%22%20d%3D%22M6%2C3A1%2C1%200%200%2C1%207%2C4V4.88C8.06%2C4.44%209.5%2C4%2011%2C4C14%2C4%2014%2C6%2016%2C6C19%2C6%2020%2C4%2020%2C4V12C20%2C12%2019%2C14%2016%2C14C13%2C14%2013%2C12%2011%2C12C8%2C12%207%2C14%207%2C14V21H5V4A1%2C1%200%200%2C1%206%2C3Z%22%20%2F%3E%3C%2Fsvg%3E')/*GENERATED END*/
+}
+
+
+.wilson-container .scp-image-block,
+.wilson-container .scp-image-caption {
+  border-color: rgb(230, 255, 186);
+  background-color: rgb(230, 255, 186);
+  box-shadow: none;
+  color: #333;
+}
+
+
+.wilson-container .scp-image-block,
+.wilson-container .scp-image-block img {
+  border-radius: 10px;
+}
+
+.wilson-container {
+  background-color: rgb(209, 237, 154);
+  border-left-color: #0b0;
+  padding: 1em;
+  color: rgba(102, 87, 49);
+}
+
+.wilson-header {
+  display: flex;
+  margin: -1em;
+  margin-bottom: 1em;
+  padding: 1em;
+  background-color: rgb(163, 193, 98);
+  color: white;
+}
+
+.wilson-header-image {
+  width: min(100px, 50%);
+  margin-right: 2em;
+}
+
+.wilson-header-text {
+  font-size: 2.5em;
+  font-family: 'national_parkregular', sans-serif;
+  line-height: 1.25;
+  margin-top: -0.25em;
+  align-self: center;
+}
+
+.wilson-container hr {
+  background-color: rgb(102, 87, 49);
+}
+
+
+#page-content {
+  --basewidth: min(1920px, 100vw);
+}
+
+.vanillos-macerator {
+  --aspect: 1.2;
+  --image: url("http://scp-wiki.wdfiles.com/local--files/scp-9009/remediation.webp");
+  --transition: url("http://scp-wiki.wdfiles.com/local--files/scp-9009/transition4.webp");
+  --quoteoffset: -250;
+}
+
+.vanillos-section {
+  margin: 0 auto;
+  padding: 0;
+}
+
+.vanillos-image {
+  --baseheight: calc(var(--basewidth) * var(--aspect));
+  width: var(--basewidth);
+  height: var(--baseheight);
+  background-size: var(--basewidth);
+  background-image: var(--image);
+  background-position: top center;
+  background-repeat: no-repeat, repeat-y;
+  background-color: #121212;
+}
+
+.vanillos-transition {
+  background-image: var(--transition);
+  width: var(--basewidth);
+  background-size: var(--basewidth);
+  background-color: #121212;
+  padding: 50px 0;
+}
+
+#page-content .vanillos-quote {
+  background-color: #0008;
+  backdrop-filter: blur(5px);
+  max-width: 40em;
+  padding: 2em;
+  margin: auto;
+  border: 3px solid #bbb;
+  color: #ccc;
+  transform: translateY(calc(var(--quoteoffset) / 1920 * 100vh));
+}
+
+
+
+.vanillos-core {
+  --aspect: 1.2;
+  --image: url("http://scp-wiki.wdfiles.com/local--files/scp-9009/core.webp");
+  --quoteoffset: -500;
+}
+
+.vanillos-breeder {
+  --aspect: 0.43;
+  --image: url("http://scp-wiki.wdfiles.com/local--files/scp-9009/cultivation.webp");
+  --transition: url("http://scp-wiki.wdfiles.com/local--files/scp-9009/transition3.webp");
+  --quoteoffset: -200;
+}
+
+.vanillos-spatio {
+  --aspect: 0.88;
+  --image: url("http://scp-wiki.wdfiles.com/local--files/scp-9009/spatio-navigational.webp");
+  --transition: url("http://scp-wiki.wdfiles.com/local--files/scp-9009/transition3.webp");
+  --quoteoffset: -270;
+}
+
+
+.vanillos-training {
+  --aspect: 0.72;
+  --image: url("http://scp-wiki.wdfiles.com/local--files/scp-9009/training.webp");
+  --transition: url("http://scp-wiki.wdfiles.com/local--files/scp-9009/transition2.webp");
+  --quoteoffset: -200;
+}
+
+
+.vanillos-refinement {
+  --aspect: 0.59;
+  --image: url("http://scp-wiki.wdfiles.com/local--files/scp-9009/refinement.webp");
+  --transition: url("http://scp-wiki.wdfiles.com/local--files/scp-9009/transition1.webp");
+  padding-top: 100px;
+  --quoteoffset: -50;
+}
+
+.vanillos-core {
+  position: relative;
+  --quoteoffset: -500;
+}
+
+.vanillos-quote {
+  z-index: 2;
+  position: relative;
+}
+
+.vanillos-core::after {
+  width: 100vw;
+  height: 500vh;
+  position: absolute;
+  content: " ";
+  background-image: radial-gradient(
+    circle,
+    #fffb 3%,
+    #fff4 10%,
+    #fff0
+  );
+  top: 50%;
+  left: 50%;
+  background-position: center;
+  translate: -50% -50%;
+  pointer-events: none;
+}
+
+.vanillos-animation {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  translate: -50% -50%;
+}
+
+.vanillos-core > p {
+  height: 0;
+  margin: 0;
+}
+
+.vanillos-animation,
+.vanillos-core::after {
+  transform: translateY(-200px);
+}
+
+.vanillos-init-header {
+  font-size: 20vw;
+  text-align: center;
+  font-weight: 100;
+  margin-top: 20vh;
+  color: white;
+  text-shadow:
+    -2px 0 0 #f008,
+    2px 0 0 #00f8;
+}
+
+.vanillos-init-subheader {
+  font-size: 5vw;
+  text-align: center;
+  color: #ccc;
+  font-weight: 100;
+}
+.admo .white-people-overlay {
+  position: absolute;
+  top: 0;
+  left:0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+  background-image: url("https://scp-wiki.wdfiles.com/local--files/scp-9009/background-overlay.webp");
+  background-attachment: fixed;
+  background-size: cover;
+  mask-image: linear-gradient(#0000 0%, #00000006 80%, #0002 calc(100% - 100vh), #000 100%);
+  mix-blend-mode: screen;
+  z-index: -1;
+}
+.admo > :not(.white-people-overlay) {
+  z-index: 2;
+  position: relative;
+}
+
+.admo .white-people-overlay {
+  z-index: 1;
+}
+
+[[/module]]
+
+[[div class="normalwidth"]]
+
+[[=]]
+[[include info:start]]
+[[<]]
+**原著：** [[*user radian628]]、[[*user Intercedent]]、[[*user ubergoober]]
+**譯者：** [[*user edward-knave]]
+**原題：** SCP-9009 - "White People" 
+**譯題：** SCP-9009 - 「白人」
+**原文：** https://scp-wiki.wikidot.com/scp-9009
+[[/<]]
+[[include info:end]]
+[[/=]]
+
+-----
+
+
+= [[size 70%]] ⚠️ {{本文含有種族主義、反猶太主義、恐同、恐跨之描寫、性行為之明確描寫，以及其他噁心內容。建議斟酌閱讀。}} [[/size]]
+
+-----
+
+[[=]]
+[[size 150%]]以下檔案已保密[[/size]]
+
+@@ @@
+
+[[span style="font-size: 300%; font-weight: bold; color: #990011;"]]最高機密[[/span]]
+
+@@ @@
+
+[[size 150%]]**承[[span class="ruby"]]養殖量適應性核型單株培育[[span class="rt"]][[size 150%]]__Y__[[/size]]IELD-[[size 150%]]__A__[[/size]]DAPTIVE [[size 150%]]__K__[[/size]]ARYOTYPIC [[size 150%]]__U__[[/size]]NICLONAL [[size 150%]]__B__[[/size]]REEDING[[/span]][[/span]]項目理事會命**[[/size]]
+
+@@ @@
+
+[[size 125%]]{{**該文件已處於JDV級模因滅殺劑保護。繼續閱讀則後果自負。**}}[[/size]]
+[[/=]]
+
+-----
+
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+
+[[include :scp-wiki:component:image-block
+| name=https://scp-wiki.wdfiles.com/local--files/scp-9009/vance.webp
+| caption=JDV級模因滅殺劑
+| width=100%
+| align=center]]
+
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+
+[[=]]
+[[size 125%]]**項目編號：** SCP-9009[[/size]]
+**項目等級：** Keter
+
+[[div class="fire-diamond"]]
+[[div class="quad top" style="background-color: rgb(196, 2, 51)"]]
+[[div class="icon" style="background-image: url('https://scp-wiki.wikidot.com/local--files/component:anomaly-class-bar/keter-icon.svg')"]]
+[[/div]]
+[[/div]]
+[[div class="quad left" style="background-color: rgb(255, 109, 0)"]]
+[[div class="icon" style="background-image: url('https://scp-wiki.wikidot.com/local--files/component:anomaly-class-bar/ekhi-icon.svg')"]]
+[[/div]]
+[[/div]]
+[[div class="quad right" style="background-color: rgb(0, 135, 189)"]]
+[[div class="icon" style="background-image: url('https://scp-wiki.wikidot.com/local--files/component:anomaly-class-bar/caution-icon.svg')"]]
+[[/div]]
+[[/div]]
+[[div class="quad bottom" style="background-color: rgb(205, 94, 219)"]]
+[[div class="icon" style="background-image: url('https://scp-wiki.wdfiles.com/local--files/itsdenalis-personnel-file/ragnarok-icon.svg')"]]
+[[/div]]
+[[/div]]
+[[/div]]
+
+**監視指數：** [[span class="ruby"]]Ithaqua[[span class="rt"]]伊塔庫亞[[/span]][[/span]]
+[[/=]]
+
+**特殊收容措施：** 為免內部騷動及誤解，一切與SCP-9009有關的文件皆在[[span class="ruby"]]WILDFIRE SEPTEMBER TANGO[[span class="rt"]]野火．Ｓ．Ｔ[[/span]][[/span]]之旗標下封存。基金會情報機構將對已知SCP-9009實例持續匡列索引。一經確認，SCP-9009實例應予以標記及追跡。
+
+據現時推算，SCP-9009保守估計總數在一萬至二十萬人，實例已經在地球上幾近所有政府、企業及組織大量深入滲透。因此，收容主眼不在戰略層面的實例瓦解，而在行政上的效能強化；SCP-9009諸實例應保持原職，基金會僅在實例意外向公眾披露自身異常特性時，始准介入。 
+
+SCP-9009的生態管理及控制現處於一個聯合委員會的管轄之下，該聯合委員會由一系列基金會部門的專業組成，包括生物生態部[[footnote]]生物學及生態學部，簡稱BioEco。[[/footnote]]、社會學研究院、情報機構、公眾資訊局。該聯合委員會由特別專案監督者O5-8負責監察。詳情見**描述**一欄。
+
+[[include :scp-wiki:component:image-block 
+| name=https://scp-wiki.wdfiles.com/local--files/scp-9009/mcconnell.webp
+| caption=SCP-9009之代表例。
+| width=100%
+| align=center
+]]
+
+**描述：** SCP-9009是一個具備步行能力的人形物種，又稱為「白人」（//Homo albescens//），一律具有對歐洲裔高加索男性作出社交及表型擬態的特徵。該特徵伴隨一種被動的感知屏蔽效應（甚有可能屬模因性質），引致他人將該等實例視為人類，而無視或否認實例的異常行為舉止。該物種可以輕易辨認的特徵包括：
+* 通常形似一名中、老年男性。[[footnote]]然而部分地區種群呈現較為年輕的外貌。[[/footnote]]
+* 持有靜態、企業、及／或「白領」之職業。
+* 偏好尋常淡味食物（例如烤馬鈴薯、[[span class="ruby"]]奶醬烤長豆[[span class="rt"]]green bean casserole[[/span]][[/span]]等）。
+* 大致連貫但非典型的發言模式，時而顯著帶過多贅字、相互矛盾的命題、以及不恰當的用詞。
+* 公眾場合下的不尋常（但並非完全不能解釋的）行為。
+
+@@ @@
+
+[[div class="blockquote"]]
+= **SCP-9009評估訪談節錄** 
+
+**[[span class="ruby"]]馬瑟森[[span class="rt"]]Matherson[[/span]][[/span]]博士：** 你們在外面有多少人？你們為誰效力？
+
+**SCP-9009-0456：** 話在前頭，先讓我恭喜你可以主動去問這些大哉問。不是太多人會願意去提問這些問題的，過來直接問出來吧——不——不用劈頭就問。現在這些年啊，他們太著迷於那些劣質的東方流行音樂還有都市饒舌，著迷到連你剛才問了我的問題都不會問了。好勇啊，好勇啊你這個問題。你的確是有種的。 
+
+**馬瑟森博士：** 加電壓。
+
+//在場警衛將[[span class="ruby"]]勸導用拘束具[[span class="rt"]]Persuasion Harness[[/span]][[/span]]設定升至三級。//
+
+**馬瑟森博士：** 我不會再問你第三次。你們究竟是為誰效力？
+
+**SCP-9009-0456：** 你是要找人效力嗎？如果你是來應聘面試的話，你會得先跟我的秘書講，不過我肯定我可以在這途中美言幾句的，可能在[[span class="ruby"]]麥肯錫[[span class="rt"]]McKinsey's[[/span]][[/span]]那邊。提提你，那不會太花俏的，但是像你這樣聰明的小伙的確是可以闖出個名堂的。像我之前講的，你有種。帶的種又濃又烈。是曼巴蛇般強的進取心。
+
+**馬瑟森博士：** 唔。
+
+**馬瑟森博士：** 再加電壓。
+
+= [為求簡潔，已省略隨後353行]
+
+[[/div]]
+
+@@ @@
+
+公眾資訊局已彙整列表，以臚列SCP-9009的常見特性與行為，以及與此相應合適且易為理性接受的解釋。全表可經公資局代表逐一批准閱覽。
+
+||~ 行為 ||~ 解釋 ||
+||||= **認知層面** ||
+|| 用詞正式、偏向古文、臨床傾向過重，贅詞過多。|| 對古典文學及歷史文本涉獵甚深。||
+|| 對話間的長時間停頓。|| 深思熟慮。||
+|| 重覆及／或異常的慣用短語或成語引用。|| 神經多元者。||
+||||= **身體層面** ||
+|| 過長時間未眨眼。|| 繁重工作導致疲勞。抑或：加強眼神接觸之舉措。||
+|| 拒絕進食，或食用不尋常的膳食組合。|| 遵守特定膳食規則。||
+|| 睡眠時段異常。|| 加班。抑或：實行多階段睡眠法。||
+|| 流汗及分泌過度。|| 腺體或激素異常。||
+|| 令人不安的體味。|| 施噴古龍水。||
+|| 無毛、橡膠狀光澤皮膚。|| 皮膚護理、雷射脫毛、及／或乳酪為主的膳食。||
+||||= **社交層面** ||
+|| 無法理解幽默或反諷。|| 神經多元者。||
+|| 對貌似平常的事物反應過度。|| 創傷後壓力症。||
+|| 提問內容異常（例如「襪子是用來幹嘛的？」） || 意圖展開一場對話。抑或：文學創作考據。||
+|| 宣告實例自身正在進行的動作。|| 實行覺察冥想。抑或：神經多元者。|| 
+
+SCP-9009原生於西歐，然而在過往五百年間，已在北美洲、大洋洲以及多處地區形成穩定繁殖的種群。詳情見**生態特徵**一欄。
+
+雖然自基金會成立以來，SCP-9009的存在已得知悉，然而因為該物種從1975年至2023年間的人口激增，全球SCP-9009人口控制的任務已歸定為Ekhi級優先事項。有鑒於此，[[span class="ruby"]]高加索管理及保育處[[span class="rt"]]Caucasian Regulation and Conservation Registry[[/span]][[/span]]（CRaCR）已奉命負責管理SCP-9009種群，並引導至對基金會有利的處遇。
+
+以下背景資料文件已由CRaCR彙整而成。
+
+
+
+-----
+[[span class="divider"]] 歷史沿革 [[/span]]
+-----
+
+[[include :scp-wiki:component:image-block 
+| name=https://scp-wiki.wdfiles.com/local--files/scp-9009/anatomical-drawing.webp
+| caption=1699年繪製的SCP-9009實例解剖學圖本。
+| width=40%
+| align=right
+]]
+
+**早期記載：** 在歐洲及中東一帶，從大量的考古遺址已得到關於SCP-9009的紀錄，涉及時期從新石器時代至古典時代晚期。早期的線形文字B文獻供述SCP-9009發源自希臘的帕特莫斯島。 
+
+在十八世紀，動植物學家[[span class="ruby"]]卡爾．林奈[[span class="rt"]]Carl Linnaeus[[/span]][[/span]]發表了[[span class="ruby"]]《自然系統》[[span class="rt"]]//Systema Naturae//[[/span]][[/span]]，是其中一部最早的現代生物學及神秘生物學分類著作。在該著作的第四版，林奈描述了以下五個人種：
+* 智人（//Homo sapiens//）——基準人類。
+* 異人（//Homo monstrosus//）——「如同怪物」或不正常的人類，可能指[[[SCP-1000]]]。
+* 穴居人（//Homo troglodytes//）——頗可能指異常的人形實體。
+* 精靈人（//Homo fata//）——指**##green|有一千個名稱的林地##**的[[[scp-4000|原生實體]]]。
+* 寒形人（//Homo cryoformus//）——SCP-9009。
+
+**基金會初期報告：** 出自[[span class="ruby"]]管理庭[[span class="rt"]]Admin Court[[/span]][[/span]][[footnote]]在O5議會刊憲成立以前，基金會早期的行政機關。[[/footnote]]的早期文件指出關於SCP-9009的知識已為基金會早期高層人員廣泛知悉，並將該物種定為對常態的潛在威脅。然而，因為資源及人力有限，當時對該項目研究及收容的工作進展甚微。
+
+~~~~
+
+[[div class="estrella-paper weathered" style="mask-image: linear-gradient(to bottom, black 90%, transparent 100%);"]]
+
+[[image http://scp-sandbox-3.wikidot.com/local--files/collab:ysa-fork/josie.svg style="width: 45px; margin: 10px; float: right; vertical-align: top;"]]
+**管理者 F████ W██████ 1908年撰：《論[[span class="ruby"]]冰猿[[span class="rt"]]Glaciopithecus[[/span]][[/span]]》**
+
+[[div class="admin"]]
+
+[[span class="ruby"]]凍土人猿種[[span class="rt"]]The Tundranoid species[[/span]][[/span]]實是令人著迷的一種。這種動物在大歐亞地區的冰川邊緣地帶發現，起初被誤認為蒼白而畸形的猴子，或是一個巨型的北極鼠品種。經過深入研究，發現他們截然是更加奇怪的生物：一個人種，缺乏複雜的思考或認知能力，但具備一項令他們顯似主導的才能。
+
+他們的語音常為對當權者的生硬模仿，惟鮮少有敢質疑者。他們的目光空虛，卻毫不動搖。他們的衣裝從皮膚長出，但始終壓實。面對不服從者，他們就放出一種喉音的叫嚷，以作威懾。此種效應難以單用費洛蒙解釋。實為更加深切之物。或是一種心理社會偽裝。
+[[/div]]
+
+= **[已刪減資料]**
+@@ @@
+[[/div]]
+
+進一步資料已憑**[[span class="ruby"]]__石膏美乃滋__行動[[span class="rt"]]Operation GYPSUM MAYONNAISE[[/span]][[/span]]**權限為CRaCR人員保密。
+
+-----
+[[span class="divider"]] 生物特徵 [[/span]]
+-----
+
+[[include :scp-wiki:component:image-block 
+| name=https://scp-wiki.wdfiles.com/local--files/scp-9009/yakubrain.webp
+| caption=已保存的SCP-9009大腦。
+| width=40%
+| align=left
+]]
+
+**解剖及生理特徵：**因為SCP-9009實例的遺體通常在死亡當下保存狀態良好，故對其解剖學特徵已經過詳細研究。SCP-9009在外觀上屬於人形，惟其體內的生理構造與哺乳類基準相異甚大。該項目實例呈現的循環、神經、淋巴系統皆不符標準常態。其在形態學上的偏差時而屬於昆蟲類，顯見有外骨骼硬殼以模仿各式正裝外形、具有雙眼臉的複眼[[footnote]]由此導致不尋常的「側眨眼」。[[/footnote]]、以及酷似黑毛蟻（//Lasius niger//，又名黑褐毛山蟻）的循環及神經系統。 
+
+SCP-9009實例的神經解剖學特徵現時所知甚少。其腦部缺乏大腦皺褶，可能因為額葉及顳葉表面較小的面積以及平滑質地。在通常情況下，自然形成的損傷遍佈腦部各處，定期漏出未知的藍色液體，現時推論其作用為神經可塑性的阻斷劑。
+
+**生態特徵：** SCP-9009現時的生態棲位為與智人（//Homo sapiens//）成立片利共生關係。[[footnote]]人員不應將SCP-9009稱為「寄生物」或「寄生蟲」。[[/footnote]]在成體時，SCP-9009實例會正面進入受人類控制的組織，若成功進入，則會取得領導職位，倚賴其魅力維持其現有地位。在SCP-9009得以成功融入的群體，該等實例已知會積聚鉅量的財富，依照主流理論會「下滲」向智人一方，以實現長期供養。由此，人類將為一特定實例工作以作回報，為其供給食物、住宿、收入、以及有價值的心靈圈輸入資料，以用於其巧妙的求偶呈現。 
+
+為避免智人的偵測以及輸入資料污染，絕大部分的SCP-9009實例皆處於與人類或其他SCP-9009實例之間近距離接觸最小的位置，該傾向因為實例特別的財富而得以促成。然而，相對於在其餘場合獨處的特性，多個SCP-9009實例會每年四次在特定的地點集合，時而會與基準的智人一同集會。已觀測的集會個體數量從3個到535個不等，通常為正式會議的形式，例如企業董事會議、法庭裁判、教會佈道、或立法會議。SCP-9009實例會正常參與該等集會，試圖掩蓋其特殊行為，延宕集會進程，直到所有智人離開為止。
+
+智人悉數離場後，SCP-9009實例將進行性行為。
+
+SCP-9009求偶儀式曾一度據信只維持短時間，因為SCP-9009集會的參與個體曾被觀測在全體智人離場後十五分鐘內，即與選定的伴侶完成交配。然而，SCP-9009實例的授精過程實際上非常迅速，其求偶儀式則可為期數小時，或可能長至數日。
+
+現行主流理論指出SCP-9009一年四度的聚會是一種[[span class="ruby"]]競偶[[span class="rt"]]lekking[[/span]][[/span]]場合[[footnote]]多隻動物組成一群並相互競爭，以爭取交配權的生物現象。[[/footnote]]，以此促進性選擇。SCP-9009實例在擇偶甚為嚴格，偏好與特別擅長對人類擬態的個體交配。因此，該項目個體在不具獨特意義的公眾場合集會，可以給予他們機會向其他個體證明自己可以逼真地表現得如同人類一般，意味著該個體具有高度繁殖適性。
+
+[[include :scp-wiki:component:image-block
+|name=http://scp-wiki.wdfiles.com/local--files/scp-9009/trump-handshake.webp
+|caption=兩個進行求偶儀式的SCP-9009實例。
+|width=75%
+|align=center
+]]
+
+**生命週期：** 基金會主要的性學家提出假說，指SCP-9009實例為雌雄同體。目前在收容下的實例中，俱未發現異體的兩性異形。對SCP-9009交配過程的徹底觀察佐證了SCP-9009的交配中，兩方會進行一種[https://en.wikipedia.org/wiki/Penis_fencing 陰莖擊劍]的過程，幾近與漢考克氏偽角扁蟲（//Pseudobiceros hancockanus//）一致，通常會被平民誤認為陰莖摩擦，或其他形式的性接觸。隨後，授精過程則在插入表皮並造成傷口時發生。注意被受精的SCP-9009實例仍會繼續試圖進行陰莖擊劍，直到交配結束為止，因此，交配過程頗有可能會引致大量的基因交換，以及高機率成功授孕，不論實例在性選擇是否被視為合適。
+
+SCP-9009實例會在受精後兩週內尋求合適的築巢位置。[[footnote]]已觀測的位置相異甚大，包括[[span class="ruby"]]低天花隔間[[span class="rt"]]crawlspaces[[/span]][[/span]]、地下室、███、美國國會山莊地下的 ████████ ██████隧道、[已刪減]、以及小聖詹姆士島。[[/footnote]]一旦選定築巢地點，該實例會放出一種███物質，██████ ███ ██ ███ ██ ████ █ ████ ███ █████ ██。 
+
+**[下文已承CRaCR指揮部之命刪減。存取終端位於下方。]**
+
+由此形成的繭████ ███ ███ █████ ███ ██████ █ █████ ████ ████ ██。新孵出的個體在生理及神經上皆與SCP-9009成體相等，但外骨骼顏色可見有異。外骨骼的生物色素將在羽化的2至4週後成熟變深。
+
+[[include :scp-wiki:component:image-block 
+| name=https://scp-sandbox-3.wdfiles.com/local--files/collab%3Ayakubian-snow-ape/war-room.jpg
+| caption=呈現多種外骨骼顏色的SCP-9009。
+| width=85%
+| align=center
+]]
+
+**結語：** 有鑒於SCP-9009與人類相比顯見具有較低的智力（包括對自我缺乏覺察，亦缺乏主要的推理能力）、強大的擬態能力、以及急速的繁殖過程，CRaCR已經斷定SCP-9009為「石膏美乃滋行動」的合適人選。行動詳情已經保密，僅限經過CRaCR核准的人員閱覽。
+
+
+
+
+[[div class="divider-large"]]
+[[size 150%]]以下檔案需要 **9009/石膏美乃滋** 權限。[[/size]]
+
+[[size 125%]]
+[[span style="font-weight: bold; color: green;"]]{{憑證已通過。}}[[/span]]
+**{{歡迎，CRaCR人員。}}**
+[[/size]]
+[[/div]]
+
+**專案概述：** 石膏美乃滋行動構想乃為將全球政治環境朝向[[span class="ruby"]]指導民主[[span class="rt"]]Guided democracy[[/span]][[/span]][[footnote]]參考：S. P. 亨廷頓，2005年：《我們正在轉向更聰明的民主嗎？》SCP基金會，社會學研究院。[[/footnote]]轉變，並由基金會以及SCP-9009物種促成目標。獲選的SCP-9009實例應在CRaCR的引導及指示下，打入各大主要公私機構、政府機關之冗餘領導職位。該行動將帶來低風險、高回報的機會，以鎮壓禍害人類社會的混亂與不確定性，並由強化的常態機構予以對治。
+
+-----
+[[span class="divider"]] 背景資料 [[/span]]
+-----
+
+[[include :scp-wiki:component:image-block 
+| name=https://scp-wiki.wdfiles.com/local--files/scp-9009/bush.webp
+| caption=拉克蘭．凱恩斯博士以總統喬治．Ｗ．布希之名露面。
+| width=30%
+| align=right
+]]
+
+2000年美國總統選舉是基金會對國家政治取態的轉捩點。為預防[[[SCP-4444]]][[footnote]]一個寄宿於民主黨總統候選人艾爾．高爾頭部的超維度共生實體，自稱目的為令地球準備迎接其物種大量殖民。全文可憑 **9009/石膏美乃滋** 權限閱覽。[[/footnote]]之收容突破，已作出一連串的政治虛假資訊散播及媒體操縱，以確保寄居於喬治．Ｗ．布希處於昏迷之身的[[span class="ruby"]]拉克蘭．凱恩斯[[span class="rt"]]Lachlan Cairns[[/span]][[/span]]博士勝出選戰。[[footnote]]內部行動代號定名[[span class="ruby"]]「提康德羅加藍州」[[span class="rt"]]TICONDEROGA BLUESTATE[[/span]][[/span]]。[[/footnote]]結果凱恩斯博士以布希之名義勝選，SCP-4444同時停止活動。 
+
+如同預期，布希歿後的遺體將於一至兩個月內分解，因此已施行一場δ-奇蹟術儀式，以確保凱恩斯博士可以持續以其軀體履行總統職能。在隨後四年，美國總統職位以基金會人員擔任。由此使得美國政府及基金會的連繫得以加強，亦能取得鉅大的資金以及先前不能獲得的政治資本。 
+
+2001年，由蓋達組織的特工[[footnote]]懷疑為混沌反叛軍的伊斯蘭主義戰鬥派前台人員。[[/footnote]]策動的[[[SCP-8963|9.11襲擊]]]以及隨後的曼哈頓維度崩解觸發了全國關於國家安全及國土防衛的恐慌。危機發生之後，凱恩斯博士仍然以布希總統的軀體活動，利用是次危機，以行政特權批准大規模的政策變動。在布希總統治下，基金會得以影響若干的立法程序，包括美國「愛國者法案」的大量支援，該法案得以通過，用以強化國土防護，並提振基金會的監控計劃。
+
+[[include :scp-wiki:component:image-block 
+| name=https://scp-wiki.wdfiles.com/local--files/scp-9009/manhattan-collapse.webp
+| caption=從ϑ-光衛星鏡頭攝得的曼哈頓崩解。
+| width=85%
+| align=center
+]]
+
+十二月，[[span class="ruby"]]美國超自然戰爭司令部[[span class="rt"]]US Paranatural Warfare Command[[/span]][[/span]][[footnote]]通常稱為[[span class="ruby"]]「五角星」[[span class="rt"]]"The Pentagram"[[/span]][[/span]]，英文名有時用大寫，但不屬該組織簡稱。[[/footnote]]的[[span class="ruby"]]喬治．鮑伊[[span class="rt"]]George Bowe[[/span]][[/span]]將軍訪問基金會應用武力部，草擬一份推進美國超自然維安利益的兩方倡議。在鮑伊抵達Site-17時，發現他連同其私人幕僚當中38%為未紀錄的SCP-9009實例。憑既存收容措施，鮑伊被釋放外界，惟此前仍有核准多份有利的採購合約，允許基金會前台公司動用數十億美元的美國國防預算。[[footnote]]基金會的超心理學家利用先前對SCP-9009行為建立的詳細模型，成功用糖果以及各種布製品換取鮑伊的簽名。[[/footnote]]
+
+有鑒於[[span class="ruby"]]「提康德羅加藍州」[[span class="rt"]]TICONDEROGA BLUESTATE[[/span]][[/span]]以及隨後行動取得空前成功，O5指揮部於2002/██/██召開會議，以討論在標準收容方針以外，利用異常爭取政治利益的可行性。當中，尤以SCP-9009定為受關注的潛在項目之一，以為政治工程之媒介。
+
+[[div class="blockquote doc"]]
+= [[image https://i.imgur.com/Q2TCZnd_d.webp width="100px"]]
+
+[[=]]
+**承監督者議會命**
+[[/=]]
+
+**已明證：** 所述異常在不計其數而無以名狀之顯現，於本體論及知識論而言，皆持續滲透全球政體脈絡；其雜亂無章之存在對文明自身賴以為生之平衡構成挑戰；另一方面，該等勢力已逐至收容及觀測之暗區，如今已成地緣政治範式重新校正之空前絕後之利器。
+
+//**釋法委員會譯：** 該異常自古以來已存在，並持續擾亂社會，但現在他們能夠為我們所用。//
+
+**已定決：** 基金會身為未知及不可知事物之最高監護者，應以一切必要注意措施，採取更高姿態；就異常之整合議題，改行更為積極之實踐，從而藉由機密行動，促進社會政治進程。
+
+//**釋法委員會譯：** 基金會將從觀察異常改為利用異常影響政壇。//
+
+**已決議：** 從今以後，異常不論人為構築、亦或具備超自然特性之實體、又或超乎物理定律之現象，將同化於影響工作之分層框架以內；該影響將得加以利用，以爭取外交影響、經濟根柢、精妙計策；一切將以[[span class="ruby"]]普羅大眾[[span class="rt"]]hoi polloi[[/span]][[/span]]利益為依，惟不能為其所監。
+
+//**釋法委員會譯：** 議會將使用某些異常以秘密推進善盡基金會使命的進程。//
+
+**遂目前：** 議會授權規程之訂立，於形式及施行兩方面皆予保密，在全球國家場域之內以異常資產介入，以為威逼、說服、震懾、誘導之器具；俾令異常與尋常兩方交織，由此，該等介入當永遠不得為體制轄下人士所見聞。
+
+//**釋法委員會譯：** 議會最清楚。//
+
+[[/div]]
+
+由此決議，CRaCR的旗艦項目——石膏美乃滋行動——已得授權啟動。
+
+-----
+[[span class="divider"]] 專案文件 [[/span]]
+-----
+
+[[div class="estrella-paper weathered" style="mask-image: linear-gradient(to bottom, transparent 0%, black 10%, black 90%, transparent 100%);"]]
+@@ @@
+
+[[size 70%]] **《論冰猿》，1908年刊** [[/size]] 
+
+[[div class="admin"]]
+
+在[[span class="ruby"]]大日返照人[[span class="rt"]]//Solarus reflectus maximus//[[/span]][[/span]]各種特質中，最獨特者莫過於其單憑慣性造就共識的能力。最一道問題，就送來三份備忘，無一份觸及題幹，但皆已被另外十人蓋章署名。一切更正式移除冗言的嘗試皆在委員會中石沉大海。牠們是抵抗改變的一道高牆，是體制力量的絕妙示現。
+
+此即[[span class="ruby"]]凍膚族[[span class="rt"]]Palliderms[[/span]][[/span]]的真正力量所在。我時常沉思，若是牠們的影響越過我們僅有的防禦之後，又當如何。假若那些猿人不只是存續的履行者，更是穩定的仲裁者？我們早已發現牠們滲透了外交使節、金融管理委員會，更甚至政壇上流。先舉一例，曾有一隻猿猴只因為默默進入了一場午宴，就被誤封為最尊貴的聖馬利諾共和國的執政官。沒有一個人質疑過，大眾就這樣子接受了牠從始至終就已在位。
+
+我相信這是某種更大事件的開端。千百年來，此世已被混亂毒害，已被矛盾制肘。然而，如果世界得以在無人抵抗或質疑者的監管之下向前邁進，又當如何？興許，在正確的方向之下，牠們可能不需尸位素餐。
+[[/div]]
+
+= **[已刪減資料]**
+@@ @@
+[[/div]]
+
+在布希執政早期，石膏美乃滋行動已進入第一個功能成熟的階段。隨著九一一往後的地緣政治局勢更為趨向依憑於威懾甚於認定權威，CRaCR的分析師尋得一次史無前例的實時測試機會。早期調查發現數千個SCP-9009實例已經滲入美國各企業、組織及聯邦機關，帶來研究的良機。
+
+[[span class="ruby"]]「幻肢行動」[[span class="rt"]]Operation PHANTOM LIMB[[/span]][[/span]]在2003年夏季展開，策劃為基金會與美軍在伊拉克的聯合行動，旨在瓦解混沌反叛軍在阿拉伯復興社會主義政府以及伊拉克軍隊中的餘黨。然而，該行動的最終目標乃在實地測試SCP-9009在美軍體制中的整合，滲入機構包括國防部、諸如[[span class="ruby"]]新美國世紀行動[[span class="rt"]]PNAC[[/span]][[/span]]的主要新保守派智庫、以及包括KBR公司及黑水在內的私營軍事承辦商。SCP-9009實例呈現了優秀的官僚硬性，以及減慢營運節奏的效果，乃至在2004年導致全面的組織停擺。
+
+[[div class="blockquote doc"]]
+= **2003年，基金會情報機構關注組織威脅會議節錄**
+
+[[=image https://scp-sandbox-3.wdfiles.com/local--files/collab%3Aysa-fork/insurgency.svg width="100px"]]
+= [[size 85%]]混沌反叛軍徽。[[/size]]
+
+已得證對基金會以及整體常態構成威脅的關注組織當中，莫過於以「混沌反叛軍」自稱的激進異常恐怖組織。該組織立場對帷幕的存在完全對立，被捕的人員一律對我基金會以及我方擁護的生活常態抱持無理而持續的憎恨。以下為在20世紀後期至21世紀之間，懷疑由混沌反叛軍執行的重大行動，經過蒐集所得的大量人力情報（HUMINT）及訊號情報（SIGINT）佐證。
+
+* 從1973年始，1,235宗對基金會各國站點的襲擊行動。
+* 56宗有紀錄對基金會情報人員的公開處決。
+* 於1997年8月31日，使用多維度靈譜自塑形實體[[footnote]]即「幽靈車」。[[/footnote]]對威爾斯王妃戴安娜進行謀殺。
+* 以儀式性質獻祭並吞食213,335隻年幼的金毛尋回犬。
+* 於2001年9月11日，以美國航空11號班機及聯合航空175號班機撞擊世貿中心1號及2號。
+
+基金會情報機構認為混沌反叛軍的立場乃對立於民主主義、自由主義、以及基金會所擁護並將在全球繼續擁護的自由。基金會在混沌反叛軍控制領地以內的行動預期會得到大程度的民眾支持及配合。
+
+[[/div]]
+
+在布希總統再次當選之後，凱恩斯博士已因持續佔據身體、以及重覆執行所需儀式，而累積浩大的身心壓力。CRaCR已評估在維持行政控制力的同時，允許凱恩斯博士返回其在基金會身為Site-19人事主管之原職的行動選項。縱經過初步考慮，當時已辨明SCP-9009並未準備向總統職位部署，而需要使用人類替身在2005-2008年任期履行總統職能。在凱恩斯博士離開喬治．W．布希的軀體之後，軀體隨即解離成為一堆帶有奇蹟能量的灰燼。[[footnote]]遺體可供Site-19研究。[[/footnote]]在隨後四年，[[span class="ruby"]]蘭斯．法伯[[span class="rt"]]Rance Fubbard[[/span]][[/span]]特工因為與喬治．W．布希相貌甚為酷似，而擔任總統職位。
+
+因為缺乏適任的候補人選，石膏美乃滋行動轉向SCP-9009項目專案，俾使該項目成為確保基金會持續控制美國總統席位的永續手段。
+
+[[include :scp-wiki:component:image-block
+|name=https://scp-sandbox-3.wdfiles.com/local--files/collab%3Aysa-fork/Site-75.webp
+|caption=介面站點Site-75，CRaCR總部址。
+|width=75%
+|align=center
+]]
+
+[[div class="blockquote"]]
+= **2009年，CRaCR指揮部會議抄錄** 
+
+**列席：**
+
+[[span class="ruby"]]C．雅文[[span class="rt"]]C. Yarvin[[/span]][[/span]]先生，指揮部主席，公眾資訊局副主管［公］；
+[[span class="ruby"]]C．科靈格[[span class="rt"]]C. Korringer[[/span]][[/span]]先生，基金會情報機構行動部副部長［情］；
+[[span class="ruby"]]T．爵克伍德[[span class="rt"]]T. Jirkwood[[/span]][[/span]]先生（JD），法務部合夥管理人［法］；
+[[span class="ruby"]]N．泰勒[[span class="rt"]]N. Taylor[[/span]][[/span]]博士，生物生態部研究總監［生］；
+[[span class="ruby"]]J．彼得森[[span class="rt"]]J. Peterson[[/span]][[/span]]博士，社會學研究院首席心理學家［社］。
+
+-----
+
+= ［紀錄開始］
+
+**［公］雅文先生：** 好了，作為高加索管理及保育處主席，我在此宣告CRaCR指揮部會議於美東時間么勾三洞召開。 
+
+//［紙張翻閱聲。］//
+
+**［公］雅文先生：** 我確定我們已經讀過簡介了，所以直入主題——是的，彼得森博士？你有在舉手？
+
+**［社］彼得森博士：** 我們不應該先祈恩典嗎？
+
+**［法］爵克伍德先生：** 我可不知道你是基督徒耶。
+
+**［社］彼得森博士：** 我不是。只因為我覺得基督教文化價值是西方社會前進最好的方向，不代表我必須得信上帝，更遑論——
+
+**［公］雅文先生：** //（清喉嚨）//我想我們繼續議程會比較好。
+
+**［公］雅文先生：** 我們每一個人都已經在SCP-9009的專案作了很多工作。我們都已經對那些生物研究得很清楚，包括他們的舉止、偏好、行為、生命週期。剩下的就是展開它自然的下一步。各位，在明年今日，美國的總統將會是一隻雪花石膏猿人。
+
+**［法］爵克伍德先生：** 我呃、已經打算要對這專案提一些、啊、專業上的疑慮——
+
+**［情］科靈格先生：** 恕我直言，這一整個行動是一個夭壽無敵大的維安風險。操縱布希已經夠危險了，只是救命啊，你真的明白我們現正討論的在操作上有多複雜嗎？__華盛頓特區__裡數千個人員辦公，沒日沒夜地跟媒體接觸，根本就沒辦法確保行動可以保密——
+
+ **［公］雅文先生：** 容我打斷一下，但是我想你會看見我們已經處理好了你顧慮的問題。你可以過目一下檔案的第77頁嗎？
+
+[[div class="greentext"]]
+你有看過那[# 深層政府文件]嗎
+[[/div]]
+
+[[div class="greentext"]]
+@@>深層國家文件流出@@
+@@>發現政客跟富豪掌控一切的全球大陰謀@@
+@@>發現民主都是謊言@@
+@@>發現所有的主流政客都是外星傀儡@@
+**@@>「項目等級：Keter」@@**
+
+枉算機關啊，聯邦探員。
+
+根本就沒「SCP基金會」。
+
+一切都回到(((他們)))。每．一．次．都．是。
+[[/div]]
+
+**［情］科靈格先生：** 這甚麼鬼？
+
+ **［公］雅文先生：** 去年，公眾資訊局拿了石膏美乃滋行動的文件大幅改動一番，模擬了一場資訊外洩。我們在每一層面的暴露情景也全都試過了，媒體、外國的情報機構、還有網路。現在你看見的就是結果。
+
+**［情］科靈格先生：** 我的老天。如果O5他們看見這個，你說不定得準備被抓去槍斃了，雅文。
+
+ **［公］雅文先生：** 那你又覺得是誰批准了這場演練的？
+
+**［法］爵克伍德先生：** 那這、這三對括號是來幹啥的？[[footnote]]**譯注：** 西方諸如4ch的留言版網站當中，時而會有在留言中以三層括號框住欲作特別強調的指定句子的做法，稱作「回音（echo）」。另外，在對生成式人工智慧發出提示語時，例如生成圖像的場合，會用括號以額外強調特定提示詞的重要性，以三層括號為最大程度強調。[[/footnote]]
+
+**［生］泰勒博士：** 說不定是某種的……某種技術文本的東西？密碼，說不定是密鑰——
+
+**［社］彼得森博士：** 你們都外行的。那是指，他們認為都是猶太人幹的。
+
+ **［公］雅文先生：** 彼得森沒說錯。我們大部分的目標人物都當場否定了外洩的資料。外國的情報局就認為是境外的反情報工作。記者們直接把我們的工作人員笑得趕出房間。至於剩下少數有跟上的呢？都是民科、陰謀論者、還有瘋子，他們看見黑影就開槍，凡是看見我們每一份虛假資料就跳上去咬住。到最後呢？沒一個人真的揪得到我們出來。
+
+**［情］科靈格先生：** 我們還是開門見山吧，雅文。
+
+**［情］科靈格先生：** 你在打算使用反猶太陰謀論、毫無根據的種族主義垃圾發言，作為石膏美乃滋行動的虛假資訊說辭。你打算要給那些訊息推波助瀾，更甚至，親自散播它們——
+
+**［生］泰勒博士：** 我不清楚我是不是覺得沒問題，我是說，在倫理層面來說——
+
+ **［公］雅文先生：** 這又有何不可？這打從三十年代以來就是基金會的標準操作！
+
+**［生］泰勒博士：** __再說一遍？__
+
+ **［公］雅文先生：** 你看。早在你們踏進這個門之前，你們都清楚知道石膏美乃滋意味著的是甚麼。你們每一個人都是__自願__來到這裡的。如果你們有任何一位不夠膽去__跟上去__，為了基金會的大局去__做應做的事__，可以隨時離開。大門就開著在那裡。
+
+ **［公］雅文先生：** 你別他媽用這種表情看我，科靈格。你和我都知道你為了大局做過更糟的事。
+
+**［情］科靈格先生：** __去你的。__
+
+//［錄音靜默。］//
+
+**［公］雅文先生：** 看來我們的認知依然一致。
+
+**［情］科靈格先生：** 好吧。撇開你那噁心的小小造謠活動不談，我想你對於這個餿主意還漏了另一個大問題。
+
+**［情］科靈格先生：** 雅文，如果你還沒注意到，麥肯現在在民意調查裡也不是領先的。
+
+**［法］爵克伍德先生：** 唔，沒錯。是這樣子。SCP-9009實例怎有辦法代替有色人種？
+
+**［社］彼得森博士：** 又來這種自由派的幹話。直接叫他們做——
+
+**［公］雅文先生：** 不是這個時候，彼得森。不過沒錯，我明白你的疑慮。近期政府裡推行的多元運動，再加上某種長期持續的人口變化，很不幸地導致了愈來愈多的非高加索人坐上了政府跟企業的領導層。這也當然地，在多種層面是跟基金會的利益對立的，也因此，彼得森博士就在這裡跟我們一起。
+
+**［社］彼得森博士：** 社會學研究院已經正在草擬長期的計劃，去控制、收容、最終消弭自由派的計謀。我們//務須守護吾人——//
+
+**［公］雅文先生：** __咳咳__，好的，謝謝。我們全體敬候佳音。
+
+**［情］科靈格先生：** 那還是沒解決到我們當前的問題。我們到底可以怎樣用SCP-9009去取代__他__啊？那些傢伙是很有自己的本事，那些研究我是有看過的，但是他們也不是會七十二變的。要是美國人們一覺醒來，看見歐巴馬突然之間變成脫脂牛奶那種顏色，他們是會__留意到的__，有沒有模因迷彩也一樣。
+
+**［公］雅文先生：** 我想我們生物生態部那邊的朋友可能幫到我們。泰勒？
+
+**［生］泰勒博士：** 我就照直說，整形不會有用。我不知道你們在期待甚麼。你們明白那些傢伙是有外骨骼的，對吧？
+
+**［法］爵克伍德先生：** 又或是某種……人體塗裝之類的？
+
+**［生］泰勒博士：** 基督耶穌啊。不成。那些傢伙是會__蛻皮__的。那不會帶來重大的暴露風險，因為他們通常是會在沒人看見之下才蛻掉皮再吃掉的，但是這也意味著我們基本上得每個月重新上一次漆。
+
+**［情］科靈格先生：** 這樣要掩飾的話可得花一番工夫吶。一個總統__在辦公時__噴漆換膚色？在媒體上絕對會大鬧一場。
+
+**［社］彼得森博士：** 我同意。風險太大了，在避免暴露的觀點來說。
+
+//［紙張翻閱聲。］//
+
+**［公］雅文先生：** 慢著。我現在再回去看生物報告，生命週期底下第四段。那些傢伙生來是有__棕色的外骨骼__的。
+
+**［生］泰勒博士：** 你的重點是？
+
+**［公］雅文先生：** 我的__重點__呢，就是SCP-9009很明顯是可以產生黑色素的。不如我們、比方說、找個方法去在這些傢伙當中製造一個變異種，讓他們……可以比平常生更多黑色素之類的？
+
+**［生］泰勒博士：** 天啊。
+
+**［公］雅文先生：** 這也無不可。
+
+//［紙張翻閱聲。］//
+
+**［生］泰勒博士：** 這——這在技術上有可能。__技術上。__他們繁殖得夠快，人工選擇之下，一、兩百代之內可能就會有成果的了。所以——最樂觀情況之下，四到五年的時間吧。但是老天啊，你們會……你們會需要__數以萬計的__實例才行。一個整個西維珍尼亞州那麼大的地下實驗室。數以上千百萬美金計的美乃滋。單是所需的基建啊——
+
+//［眾人疊聲。］//
+
+**［情］科靈格先生：** 太荒謬了，這麼荒謬的提案，我自從——
+
+**［法］爵克伍德先生：** 你可不是真的想——
+
+**［社］彼得森博士：** 沒可能，完全沒可能——
+
+**［公］雅文先生：** __沒可能？__「沒可能」是低等人才會用的詞語。我們可是SCP基金會耶。  
+
+//［錄音靜默。］//
+
+**［公］雅文先生：** 各位，方向已經指明了。我們要__繁殖__SCP-9009，千千萬萬個的。滿山滿谷的美乃滋猴子，滿川滿林的霜巨人，滿海滿河的[[span class="ruby"]]西裝行者[[span class="rt"]]Suitwalkers[[/span]][[/span]]。我們要儘一切可能，能生多少白人就生多少。
+
+= ［紀錄結束］
+
+[[/div]]
+
+[[div class="divider-large"]]
+[[size 150%]]以下檔案需要 **9009/[[span class="ruby"]]養核培[[span class="rt"]]YAKUB[[/span]][[/span]]** 權限。[[/size]]
+
+[[size 125%]]
+[[span style="font-weight: bold; color: #de0922;"]]{{憑證已通過。}}[[/span]]
+**{{歡迎，已獲授權的養核培幹員。}}**
+[[/size]]
+[[/div]]
+
+[[/div]]
+
+[[div class="admo"]]
+[[div_ class="white-people-overlay"]]
+@@ @@
+[[/div]]
+[[div_ class="vanillos-init-header"]]
+[[span class="ruby"]]香草專項[[span class="rt"]]VANILLOS[[/span]][[/span]]
+[[/div]]
+[[div_ class="vanillos-init-subheader"]]
+[[span class="ruby"]]生命邏輯操作白紙生物體培育法[[span class="rt"]]**Van**ogenics **i**n **L**ife-**L**ogic **O**peration**s**[[/span]][[/span]]
+[[/div]]
+[[div class="vanillos-refinement vanillos-section"]]
+[[div_ class="vanillos-image"]]
+@@ @@
+[[/div]]
+[[div class="vanillos-transition"]]
+[[div class="vanillos-quote"]]
+**鍛煉中心**
+香草專項設施的主要目的在生產適任於官僚實體內部職位的SCP-9009實例，不論向外界投入或替代既存公眾人物。鍛煉中心即為該目的而設，SCP-9009實例將在此處接受外科手術改造，以模擬指定的公眾人物外觀，並接受特訓以再現其行為。
+
+因為鍛煉中心的量能有限，當地大學商學院內的兄弟會可以吸收過剩實例的訓練工作。在此情況下，危及帷幕完整的疑慮甚小，因為商學院兄弟會成員與未經妥善訓練的SCP-9009實例兩者行為相似。
+
+進入鍛煉中心的SCP-9009實例大部分來自培訓中心，詳見下文。由此，雖大部分實例可以轉化成為公眾人物，但偶而出現的瑕疵品（約50%）將送往補修設施。
+[[/div]]
+[[/div]]
+[[/div]]
+[[div class="vanillos-training vanillos-section"]]
+[[div_ class="vanillos-image"]]
+@@ @@
+[[/div]]
+[[div class="vanillos-transition"]]
+[[div class="vanillos-quote"]]
+**培訓中心**
+培訓中心是香草專項的第二大設施，旨在令SCP-9009實例適應人類社會領導層生活，以待在鍛煉中心獲派特定崗位。在培訓中心裡的實例所接收絕大部分的工作皆在基金會的Coconut.aic監督之下，令人類技師需求劇減，省卻浩大的薪資以及維安授權程序。
+
+SCP-9009實例在此獲派的任務將測試其在空間導航中心習得的人類技巧。該等技巧包括但不限於：
+* 對實例給予模擬會談，對手通常為模仿視像會議的預錄影片，或虛擬現實情景，或人類的全像技影。會談主要為測試實例心理耐力而設，並編排至持續數小時而不設停頓。
+* 訊息禮儀測試，當中實例將受訓練以文本提示為基礎，發送電郵。
+* 最終測試，當中SCP-9009實例應能自行向Coconut.aic自稱為其所置身的模擬職場內的領袖身份（行政總裁、董事長等），並提出具充分信服力的證明。通過該測試後，SCP-9009實例將獲自動擢升至鍛煉中心。
+
+最終，會有大約10%的實例可以到達並完成最終測試，並得出符合Coconut.aic要求的表現，隨後送往鍛煉中心。其餘實例將調往補修設施。
+[[/div]]
+[[/div]]
+[[/div]]
+[[div class="vanillos-spatio vanillos-section"]]
+[[div_ class="vanillos-image"]]
+@@ @@
+[[/div]]
+[[div class="vanillos-transition"]]
+[[div class="vanillos-quote"]]
+**空間導航中心**
+空間導航中心為香草專項最大的設施，兼為新生成的SCP-9009實例的初步測試區，為令其適應人造環境而設。空間導航中心全域俱由HR.aic持續監控，以確保SCP-9009實例保持呈現信心的姿勢、帶魅力的面部表情、理想的面部構造、以及高度的皮膚反照率。符合該等特徵的實例將獲自動擢升至培訓中心。
+
+為容納內部大量的SCP-9009實例，空間導航中心已透過引入[[[SCP-184]]]進行人為擴建。該設施的三維地圖指出其內部體積為從外部測量所得期望值的十倍。此外亦伴隨一種實務上的副作用：該設施的構造已改造至類似一個巨型三維迷宮，由辦公室、辦公隔間、休息室、交誼區、以及其他公司環境構成。
+
+實例膳食由[[span class="ruby"]]北育胚營養膏[[span class="rt"]]Nordomorph Nutrient Paste[[/span]][[/span]]提供，此乃專有配方，富含蛋白質，配合宏量及微量營養素，令SCP-9009達到最佳健康狀態。該營養物將在每日不定期投入槽中，伴隨電郵通知音效，以令實例將該音效與食物建立聯想。
+
+在空間導航中心，實例將會學習人類具備的技巧，包括二足步行、與門戶、櫃、升降機的互動操作、工具運用以及精細運動技巧，以及食用固體食品。比起完美發揮該等技巧，更重要者在實行期間對外呈現有能力為之的形象：與如常正確演示所需技巧的實例相比，以更大信心的表現作出錯誤演示的實例可以獲得HR.aic更高的評價。
+
+到最後，約5%具備充分素質的SCP-9009實例將獲擢升至培訓中心。其餘95%實例將送往補修設施。
+[[/div]]
+[[/div]]
+[[/div]]
+[[div class="vanillos-breeder vanillos-section"]]
+[[div_ class="vanillos-image"]]
+@@ @@
+[[/div]]
+[[div class="vanillos-transition"]]
+[[div class="vanillos-quote"]]
+**培殖設施**
+SCP-9009實例在從[[[SCP-2000]]]回收而來並經過改造的Blank-Zartion人體複製儀（BZHRs）之中孵育而成，令專項設施可以每日產出數千個具存活能力的實例。[[footnote]]注意因為該行動從SCP-2000提取了多種極具重要性的部件，包括幾百具SRA及XACTS裝置，SCP-2000原設施已不能運作。官方掩飾說辭見附錄2000-1。[[/footnote]]每一台BZHR皆可在六小時內組裝一個發育完整的SCP-9009實例。
+
+然而，因為BZHR無法憑空複製SCP-9009的生物構成，首先會需要一顆早產的SCP-9009卵子以利用可存續的DNA「啟動」生產過程。由此，SCP-9009的卵必須經由SCP-9009自然繁殖程序經過加強之後取得。為促進取卵，數個表現特別成功的SCP-9009實例被指定為育種個體。該等實例的激素已經過改造，令其得以提早產出大量卵子。為確保基因多樣性，新生實例將定期捕捉並引入培殖設施，以為香草專項的育種儲備進行授精。
+
+現時，繁殖力最強的SCP-9009實例為SCP-9009.[[span class="ruby"]]ROCKET-SURGEON[[span class="rt"]]火箭外科醫[[/span]][[/span]][[span class="ruby"]]「伊隆．馬斯克」[[span class="rt"]]'Elon Musk'[[/span]][[/span]]。在任何時候，SCP-9009.ROCKET-SURGEON皆持有處於發育階段各異的卵子500至1000枚。該實例的頭、足及外骨骼皆維持與成為香草專項育種個體之前同樣的尺寸，SCP-9009.ROCKET-SURGEON的卵子載荷已經延展至體腔以外，總長將近二十公尺、直徑四公尺。由此，該實例應由香草專項員工以保濕霜予以持續清洗，以維持其皮膚彈性，免遭撕裂。在清洗的同時，鼓勵人員與該實例同時進行關於科技、經濟及政治的對話，因為該等對話已知可以令該實例的泄殖括約肌放鬆，增加排卵速度。
+[[/div]]
+[[/div]]
+[[/div]]
+[[div class="vanillos-macerator vanillos-section"]]
+[[div_ class="vanillos-image"]]
+@@ @@
+[[/div]]
+[[div class="vanillos-transition"]]
+[[div class="vanillos-quote"]]
+**補修設施**
+有鑒於絕大部分（約99.91%）生成的SCP-9009實例皆不足以用於安插公眾人物位置或負責育種，故應以某種方式予以安全且高效的移除，該工作將由現場的補修設施負責。因為情報安全疑慮，實例不得釋放至養核培設施範圍以外；因為空間有限以及衛生問題，該等實例亦不能在香草專項設施保存過長的時間。
+
+由此，一切過剩的實例將會送入設施內的1000噸級工業浸漬器。
+
+實例經過浸漬器之後，產生的漿會送入加壓管線，泵向一個自動化的處理設施。在此，從SCP-9009生成的漿經過巴士德消毒、過濾、加入營養素，製成北育胚營養膏，以予其他實例食用。
+[[/div]]
+[[/div]]
+[[/div]]
+[[div class="vanillos-core vanillos-section"]]
+[[include :scp-sandbox-3:collab:vanillos-animation]]
+[[div_ class="vanillos-image"]]
+@@ @@
+[[/div]]
+[[div class="vanillos-transition"]]
+[[div class="vanillos-quote"]]
+**熱離子核心**
+
+香草專項設施全套機體的動力皆由位於設施底部的熱離子核心提供。該最新科技的量子發電機乃以有效且受控的方式從[[[SCP-037]]][[footnote]]一個直徑5公分的微型主序恆星，光度為3.83 × 10^^14^^瓦。[[/footnote]]提取能量。主懸浮球殼封以十八個旋轉同心圓環，以穩定SCP-037強大的放射輸出。
+
+對於如此強大的能源，雖然已有安全疑慮，香草專項的工程師已確認熱離子核心發電不僅屬於可再生能源，傷亡率亦遠低於尋常能源，所致的死亡目前只有來自處理失誤者。利用熱離子核心鉅大的能量輸出，可以為香草專項系統的高耗能設施持續提供電力，包括大量的BZHR單元、數百公里長的尖端科技配管系統、以及一千噸級的浸漬器。
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[div class="normalwidth"]]
+
+-----
+[[span class="divider"]] SCP-9009.[[span class="ruby"]]OREO-UCAV[[span class="rt"]]奧利奧戰蜂[[/span]][[/span]] [[/span]]
+-----
+
+在2014-03-12，經過816日間、1,255代接連的選擇性配種，香草專項機體成功產出七個可運作的SCP-9009.OREO-UCAV實例。該等實例呈現可靠的公關舉止、以及相對可預測的言語模式、加上高含量的黑色素，令養核培項目理事會可用的技術得以擴展，亦加速了石膏美乃滋行動的進展。 
+
+在2014-08-28 13:00，打入美國特務機關的養核培的人員暫時無力化了總統巴拉克．歐巴馬，並部署SCP-9009.OREO-UCAV，以代替該人與時任美國駐俄羅斯聯邦大使[[span class="ruby"]]約翰．F．特福特[[span class="rt"]]John F. Tefft[[/span]][[/span]][[footnote]] SCP-9009-8485。[[/footnote]]進行會談。因為行程所限，SCP-9009.OREO-UCAV當時的外骨骼仍未硬化至符合SCP-9009成熟實例標準的深藍或黑色，引起小程度的媒體爭議。然而，基金會分析師定論SCP-9009.OREO-UCAV當時的整體行為仍落在石膏美乃滋可接受範圍以內。
+
+[[include :scp-wiki:component:image-block 
+| name=http://scp-wiki.wdfiles.com/local--files/scp-9009/obama-tan-suit.webp
+| caption=SCP-9009.OREO-UCAV實地測試片段截圖。
+| width=80%
+| align=center
+]]
+
+經過該次預演，SCP-9009.OREO-UCAV得以永久取代巴拉克．歐巴馬總統位置，後者經過記憶刪除後重新整合至一般社會，經過基金會批准以加利福尼亞州貝克斯非的二手車推銷員的名義活動。[[footnote]]**2015-01-03更新：** 巴拉克．歐巴馬從住所失蹤。目前下落不明。 _
+ _
+**2016-02-23更新：** 據稱目擊一個經過機械及奇蹟術改造而貌似巴拉克．歐巴馬的人影之說已經過基金會情報機構分析師確定為假。 _
+ _
+**2018-04-29更新：** 機械歐巴馬已殲滅MTF-ν-7在Site-17週邊的駐地，至今在逃。[[/footnote]]截至2015年第一季，已證明石膏美乃滋行動取得空前成功，養核培專案隨後獲追加分配每年45億美元的資金。
+
+[[div class="blockquote update-log fancy-log"]]
+SCP-9009近期的繁殖工作發現實例需要比最初預期更為多樣的膳食。為確保甲殼正常成長，實例每日餵飼的北育胚營養膏已加入每公斤1.00毫克的聚乙烯塑膠微粒粉末。
+[[/div]]
+
+[[div class="blockquote update-log fancy-log"]]
+SCP-9009實例開始呈現同類相食行為，相信因為北育胚營養膏1.1版呈淺米色及潤滑材質，而導致項目實例將其他實例誤認為營養膏。為求對治，今後所有北育胚營養膏2.0版批次將加入更多的聚乙烯粗糙填料以及碳黑食用色素，以賦予其深棕色澤以及粗糙質感。
+[[/div]]
+
+[[div class="blockquote update-log fancy-log"]]
+更新：SCP-9009實例開始進行食糞行為，北育胚營養膏2.0版業已停產。
+[[/div]]
+
+在SCP-9009.OREO-UCAV餘下任期內，該實例主要用於為基金會推進其外交政策，利用美國軍隊及情報體制打擊混沌反叛軍持續壯大的威脅。持續的空中作戰以及反恐部隊的戰略部署使基金會得以消滅葉門、敘利亞及利比亞等國的反叛軍部隊，並推翻親近反叛軍的獨裁政權，從而破壞該恐怖組織的準軍事網路。在2016年，反叛軍在中東地區的運作效能減弱了47%。
+
+餘下六個SCP-9009.OREO-UCAV實例已循環回收至香草專項機體內部，允許多種膚色及種族表型的SCP-9009實例生成。[[footnote]]呈現女性外觀的實例雖然亦有成功發育，但是產量有限，因為在面向觀測者的模因場的傳播效能係數較低。[[/footnote]]截至2016年七月，養核培項目理事會已在美國、加拿大及西歐境內所有具意義的[[span class="ruby"]]總裁層級職位[[span class="rt"]]C-suite[[/span]][[/span]]、公共行政、軍工業界達到接近80%的飽和率。[[footnote]]生物生態部推算飽和率達100%的地區已佔全球人口1.8-3.7%。[[/footnote]]
+
+[[div class="blockquote warning-log fancy-log"]]
+持有360億美元以上的淨資產並擔任三個行政總裁職位的企業家██．██博士被發現不具政府發行的身份證、護照、出生證明、博士學位證書、普通教育發展證書。縱使經過基金會介入，因為██博士於此事被揭露為屬於移民身份的意涵，該人憑藉才華、學歷及勤勞致富的持久信念如今已遭受公眾質疑。
+[[/div]]
+
+在SCP-9009.OREO-UCAV總統任期的最後一季，養核培項目主席[[span class="ruby"]]柯蒂斯．雅文[[span class="rt"]]Curtis Yarvin[[/span]][[/span]]要求項目人員藉機精準設計一個專門用於為基金會爭取更大利益的實例，作為全新的總統候選人，從而爭取決策空間。為確保該候選人即使持有較不受歡迎的觀點，但仍能以更大的民眾支持勝出選舉，雅文先生連同模因部、公眾資訊局、情報機構草擬一份聯合計劃，以有系統地改變2016年美國總統選舉的結果。該計劃經過三部門的主管及理事會、以及養核培項目理事會一致通過，並已預先執行步驟啟動。
+
+然而，O5議會以12-1比數反對一切篡改2016年美國總統選舉投票的行動。該決議出於保護美國民主體制免受侵犯，使其即使在基金會應當瓦解之際仍然存續。縱使經過雅文先生堅持，O5指揮部仍然否決計劃提案。
+
+即使如此，養核培項目仍獲鼓勵以符合法律及倫理的手法，向2016年總統大選引入一名候選人。由此，養核培項目理事會製造了以下的候選人，予以微調，以呼應美國人的民心所向：
+
+-----
+[[span class="divider"]] SCP-9009.[[span class="ruby"]]HAPPY-ACCIDENT[[span class="rt"]]快樂小意外[[/span]][[/span]] [[/span]]
+-----
+
+與先前型號相比，新型的SCP-9009型號.HAPPY-ACCIDENT納入了多種最先進的強化：
+
+[[module css]]
+@media (min-width: 900px) {
+  .trump-container {
+    display: flex;
+  }
+}
+[[/module]]
+
+[[div class="trump-container"]]
+
+[[div style="height: fit-content; margin-right: 1em;"]]
+[[include :scp-wiki:component:image-block 
+| name=https://scp-wiki.wdfiles.com/local--files/scp-9009/trump.webp
+| caption=SCP-9009.HAPPY-ACCIDENT的早期原型體
+| align=center
+]]
+[[/div]]
+
+[[div style="justify-content: right;"]]
+**含鐵甲殼**
+給予一副獨特而受市場歡迎的偏橙色澤，同時保留可辨識為高加索人種膚色，亦賦予了對遠距離槍擊的抵抗力。
+
+**電視真人秀亞種基因剪輯**
+在量產爭議的表型加以強化，協助實例製造公關煙幕，以隱匿基金會活動。
+
+**迎合公眾**
+近期民調指出大部分美國人對現有生活水平不滿，並渴求改變。由此，該型號已受訓觀察現存政客的舉動，並作出相反行為以作回應。
+
+**優異運動感**
+實例經過了進階的物理模擬，以及廣泛的人類測試，以確認最佳的握手方式，以儘可能造成最大的威嚇效果，同時將被控加重傷害罪的機率維持在可接受範圍。
+
+**生物多樣頭皮**
+實例原有設計為禿頭，惟臨床測試顯示SCP-9009.HAPPY-ACCIDENT在顱表具有獨特而有豐盛生態的微型生境，當中最值得注意者為包括肉眼可見外觀與頭髮相似的外星生物。
+[[/div]]
+[[/div]]
+
+鑒於SCP-9009.HAPPY-ACCIDENT發育時程短促，基金會分析師未有預期該實例會勝出2016年美國總統選舉，卻仍然將該實例投入共和黨初選，以作未來型號的概念驗證之用。
+
+@@ @@
+@@ @@
+
+**2016年十二月更新：** SCP-9009.HAPPY-ACCIDENT勝出了2016年美國總統選舉。
+
+[[div class="blockquote update-log fancy-log"]]
+基金會材料科學家提取了SCP-9009的胃囊，以作為耐腐蝕的彈性容器使用。
+[[/div]]
+
+[[div class="blockquote news-log fancy-log"]]
+德克薩斯州沃思堡市長SCP-9009-3826在公開演講期間，遭遇使用自動火器的企圖行刺。該市長在身中至少五十槍的同時仍繼續演說，直到一小時後最終離世。該事件在網上被廣泛嘲笑為一場過度狂熱的公關操作。
+[[/div]]
+
+**2018年更新：** 自從在養護SCP-9009.HAPPY-ACCIDENT的過程中取得大量有用的學習經驗，獲派養護實例的職員已繕寫以下的指導小冊子。 
+
+[[div class="wilson-container"]]
+[[div class="wilson-header"]]
+[[image https://scp-wiki.wdfiles.com/local--files/theme%3Awilsons/WWS_Logo_2.2_abrv.png class="wilson-header-image"]]
+[[div_ class="wilson-header-text"]]
+威爾遜生物應對組
+[[/div]]
+[[/div]]
+
+您好，養川人！自從基金會促成了一場和平__且__自願的領導層交接之後，我們在威爾遜生物應對組這裡有受命監護過若干個可謂__獨特__的案例了！當中可能不會有案例能夠比SCP-9009.HAPPY-ACCIDENT更加__獨特__，在養核培的理事會不在附近的時候，您也可以喚他[[span class="ruby"]]「小唐」[[span class="rt"]]'Donny'[[/span]][[/span]]或是[[span class="ruby"]]「川寶」[[span class="rt"]]'Trumpie'[[/span]][[/span]]就是。（那理事會可真會盯著我們不放吶！）
+
+現在，閒話休題，以下是在全天候照顧.HAPPY-ACCIDENT的時候，有幾件事需要知道的！
+
+-----
+
+[[include :scp-wiki:component:image-block 
+|name=http://scp-wiki.wdfiles.com/local--files/scp-9009/trump-poop.webp |align=right |caption=SCP-9009.HAPPY-ACCIDENT，在他的褲子上出了__不愉快__的意外前幾秒鐘。]]
+
+SCP-9009.HAPPY-ACCIDENT跟__所有的__優格猿一樣，有一組複雜、獨特而微妙的面部表情，去表達他的感受！萬一他擺出像您在這裡看到那樣的表情，您可必須得快動手腳了！第一步，首先得假借向他通知國安緊急事態的藉口，去謹慎地接近他。這樣一來，就可以在他眾多粉絲帶來最小擾亂的情況之下，把他迅速帶走了。把他帶到一處隱蔽的地方（例如布簾後、樓梯底、車子裡），讓他去「辦大事」。可得注意了，之後那氣味可強烈得很呢！
+
+~~~~
+
+-----
+
+[[include :scp-wiki:component:image-block 
+|name=http://scp-wiki.wdfiles.com/local--files/scp-9009/trump-earwax.webp |align=left |caption=SCP-9009.HAPPY-ACCIDENT好奇著勞拉．英格拉漢姆（Laura Ingraham）的耳垢是甚麼味道。]]
+
+.HAPPY-ACCIDENT受食物的驅使很強，在想吃東西的時候可以很激動的！這可能會帶來問題，但是您也可以在千鈞一髮之際，用食物來把他從危險的地方引走。有一次，我們就成功用了培根油塗了一條1.1公里長的路，把他從一次不合時宜的交配事件引走了呢！要記著，共其他的奶油猴不一樣，.HAPPY-ACCIDENT在食物的偏好是非常挑剔的，在每週配給一次的北育胚營養膏裡，他是得每公升有至少兩個麥當勞™的麥香魚™打成糊摻進去才會肯吃的。
+
+~~~~
+
+-----
+
+[[include :scp-wiki:component:image-block
+|name=http://scp-wiki.wdfiles.com/local--files/scp-9009/trump-clinton.webp
+|align=right
+|caption=SCP-9009.HAPPY-ACCIDENT循例與比爾．柯林頓可動人形進行社交互動。]]
+
+在理想的情況之下，我們威爾遜生物應對組固然會希望__所有的__小動物都有自己獨特的性格，但是，我們也偶爾不得不承認，.HAPPY-ACCIDENT是會忘記去做好自己的工作的！幸好，我們就正有一個在家的對策處理這種情形：一個模擬訓練場，可以讓小唐跟政治人物自由交流，而又__不會有__嚼斷他們手腳的副作用！記得要獎賞他的良好行為，如果他有尊重對方（但不能太多！），就給他吃最喜歡的食物吧！[[footnote]]玉米糖漿、奶油、餐桌鹽依10:5:1比例調合的混合物。[[/footnote]]
+
+~~~~
+
+[[/div]]
+
+整體而言，即使確保SCP-9009.HAPPY-ACCIDENT行為符合總統水準的工作經歷諸多險阻[[footnote]]該標準幸而貌似正在急速下降。[[/footnote]]，該實例仍為推進基金會利益帶來重大成功：
+* 美國孤立主義傾向加強，使得聯合國全球超自然聯盟操作空間大減，並加強了基金會對美國的影響力。
+* 來自基金會多種不討喜但有必要的外交舉措得以在面臨極微弱的檢驗之下成功推行，因為左右兩方政治陣營的注意力也被成功分散——以「保守派」自居的民眾陣營被.HAPPY-ACCIDENT塑造的替罪羊吸引，而以「自由派」自居的陣營則被.HAPPY-ACCIDENT近來的衝動行為吸引。
+* 當中最關鍵者，為其移民限制為基金會監控邊防、以篩查混沌反叛軍秘密資產的能力帶來極大的改善。
+
+[[div class="blockquote news-log fancy-log"]]
+微軟行政總裁SCP-9009-62988被發現在聖荷西的數據中心拆除中央處理器晶片，訪談時宣稱「欲向零食業界分散投資。」
+[[/div]]
+
+SCP-9009.HAPPY-ACCIDENT的第一任表現目前為止非常成功，惟數名養核培項目理事會成員對.HAPPY-ACCIDENT對美國大眾的模因效應提出了懸念，例如偏見執拗情形加重、貿易活動減緩、對持續中COVID-19全球流行應對冷淡，以及當中或為最令人憂慮者，為對美國民主體制的猜疑漸增。然而，雅文竹生堅稱前述的損失與.HAPPY-ACCIDENT帶來的利益相比，不僅微不足道，其本身更有數項未經充分著墨的益處。
+
+隨著2020年總統選舉在COVID-19全球流行疫情開始之際接近，CRaCR指揮部的行政內閣就.HAPPY-ACCIDENT的持續運作遭逢史無前例的分裂。以C．雅文主席為首的親.HAPPY-ACCIDENT派別主張基金會在.HAPPY-ACCIDENT執政下所得的多重優勢，並提倡由基金會贊助延續其運作至第二任期；而反.HAPPY-ACCIDENT派別則以N．泰勒博士為首，提及COVID疫情應對措施管理不力，以及社會動盪整體加速增長，視之為對基金會主要綱領的威脅，由此提出異議。
+
+決策最終上行轉介至O5指揮部，隨之發出以下聲明：
+
+[[div class="blockquote doc"]]
+
+= [[image https://i.imgur.com/Q2TCZnd_d.webp width="100px"]]
+
+有鑒於近期考量，重新校正行動，轉向實務上更為可行且有實證根據者，將為審慎之舉。今後，當對該程序予以更具戰略遠見之觀點審視。
+
+//**釋法委員會譯：**// 這次考慮一下推舉一個不是完全無能的候選人吧。
+
+[[/div]]
+
+-----
+[[span class="divider"]] SCP-9009.[[span class="ruby"]]WET-CARDBOARD[[span class="rt"]]溼紙皮板[[/span]][[/span]] [[/span]]
+-----
+
+SCP-9009.WET-CARDBOARD[[span class="ruby"]]「約瑟．R．拜登」[[span class="rt"]]'Joseph R. Biden'[[/span]][[/span]]為.OREO-UCAV的前副手，獲推為養核培項目的頭號總統人選，以為.HAPPY-ACCIDENT執政的輕率侵略性方針提供更為溫和的替代選項。SCP-9009.WET-CARDBOARD以民主黨候選人名義安插於總統選戰，以與.HAPPY-ACCIDENT對決。迴避干預選舉結果的行政決策再次下達，以促進民主過程施行。
+
+然而，因為.WET-CARDBOARD認知衰退加劇，而於2017年起退役，不利於計劃施行。專家團隊已調派至Site-98的屍體儲存間，利用[[[SCP-427]]]復活該實例。然而，因為SCP-427與SCP-9009生物構造互動未有先例，復活後的.WET-CARDBOARD認知能力仍有顯著減弱。[[footnote]]就該實例先前存有的認知能力（若有）所作研究仍在繼續。[[/footnote]]SCP-9009.WET-CARDBOARD即使身陷殘障，仍於2020年十一月取得總統席位，擊敗.HAPPY-ACCIDENT。 
+
+[[include :scp-wiki:component:image-block
+| name=https://scp-wiki.wdfiles.com/local--files/scp-9009/biden-sunglasses.webp
+| caption=SCP-9009.WET-CARDBOARD符合時尚且受市場歡迎的飛行員墨鏡遮蓋其六邊形複眼。
+| width=75%
+| align=center
+]]
+
+SCP-9009.WET-CARDBOARD的政綱符合SCP-9009實例一貫特徵：中道、不予特別投入、最終成為徒勞，以為常態重新帶來怡人的平衡。該實例負責推行大量紓困措施，以援助遭受COVID-19疫情影響的民眾，包括對公民普發1,400美元援助、對失業者每週補貼300美元、以及對[[span class="ruby"]]新國製藥股份有限公司[[span class="rt"]]SynCore Pharmaceuticals Inc.[[/span]][[/span]]給予170億美元的感謝捐款。在.WET-CARDBOARD的監督之下，國家GDP成功恢復，彙整統計數字成功令民意從收入差距擴大的議題分散。疫情隔離限制最終因為民情減退，以及對股市衝擊可見闕如，而於年末解封。
+
+與此同時，生成SCP-9009.ROCKET-SURGEON「伊隆．馬斯克」分叉版本個體的計劃已經展開，以利用該實例的高度繁殖能力及優秀遺傳基因（詳見**培殖設施**一欄）。在設計得以完成、掩飾說辭編就過後，SCP-9009.ROCKET-SURGEON.v1連同1,500億美元的資產及資金總值釋放至公眾社會[[footnote]]主要由寫入SCiPNet內部的以太坊挖礦軟體資助。[[/footnote]]，將該實例推舉至最富有的人科個體之列。然而，因為.ROCKET-SURGEON.v1於一次未預見的悲慘意外離世，而隨即顯見有後續開發之必要。
+
+[[include :scp-wiki:component:image-block
+| name=https://scp-wiki.wdfiles.com/local--files/scp-9009/roadster.webp
+| caption=SCP-9009.ROCKET-SURGEON.v1忘記從其2008年特斯拉Roadster跑車離開，隨後被射上太空軌道。
+| width=85%
+| align=center
+]]
+
+在2021年八月，SCP基金會收容全球異常的綱領在一部分由[[[SCP-6500]]]導致的情形下，被證據指出為一宗Finis級事件，導致全球異常現象集體絕滅。幾個組織內部的論文發表者皆各自獨立發現該事件乃因為SCP-9009大量繁衍而嚴重加劇，係由[[span class="ruby"]]袪奇蹟己烷[[span class="rt"]]dethaumahexane[[/span]][[/span]]從該等實例的肛門排出，以及實例屬於入侵性[[span class="ruby"]]噬機運生物體[[span class="rt"]]opportunivores[[/span]][[/span]]的生態棲位所致。
+
+然而，社會學研究院的人員以「基金會收容為SCP-6500主因」之說缺乏科學共識為由，強調慎重應對的重要性。最終，O5指揮部於十一月表決通過保留收容傳統，並將目標定為於2030年內減低異常絕滅率。在2022年第一季，基準異常絕滅率為工業化時代前的三倍。養核培項目的檢查員判斷此乃屬於可接受的範圍內。
+
+因為該等審慎警覺舉措被視為形同犯罪的組織全體疏忽，全球超自然聯盟的108議會於2022年2月17日召開會議，商討對SCP基金會升級全球敵意行動的議題。O5議會隨之授權養核培項目理事會展開[[span class="ruby"]]落匕行動[[span class="rt"]]Operation FALLING DAGGER[[/span]][[/span]]，以作應對。
+
+[[div class="blockquote" style="--accentColor: rgb(0, 85, 189);"]]
+= [[size 120%]] **__落匕__行動** [[/size]]
+= **__養核培__項目 第1937號子專案**
+
+鑒於GOC即將對基金會展開侵略行為，養核培項目其中一項主要程序即為將SCP-9009實例以戰略規劃整合於GOC下述的核心領導機關內部：
+* **108議會**，由世界各地的神秘結社組成，構成GOC的立法機構，並對該聯盟的運作持有國會式的監督權。然而，108議會當中只有五個成員組織具備絕對否決權：光明會、聖殿騎士團、統合奇蹟學國際研究中心、撒旦教會、以及矽諾倫。SCP-9009實例先前已成功隱密打入於該等成員組織的外交及領導架構，由此，以上組織在GOC大會的代表權俱由SCP-9009全權包辦。如此使得一切議案除非符合養核培項目原則，否則將予阻攔。
+* 次官架構，較常稱為**最高指揮部**，對該聯盟持有全盤行政權力，然而最終仍仰賴於少數關鍵的管理人員。108議會已彈劾該架構內的既存官僚，隨後再以SCP-9009實例悉數接任。
+* **[[span class="ruby"]]國際超常法庭[[span class="rt"]]International Court for the Paranormal[[/span]][[/span]]以其國際超自然法典，對合法行為範圍持有判定及解釋權力。基金會贊助的外部審查得出該法典在多方面存在缺陷，而由此經過108議會修訂，以更為符合GOC生存、隱匿及保護之使命。隨著國際超常法庭先前的法官離世、退休或被囚，養核培項目已任命新一代的開明派法官。
+
+在2023年的GOC大會，108議會提出決議，以在歐洲的自由港採取更為進步的移民政策。在下一季，已有超過730,000個SCP-9009實例歸化至歐洲國家，佔歐洲全境移民額度92%。
+
+[[include :scp-wiki:component:image-block
+| name=http://scp-sandbox-3.wikidot.com/local--files/collab:ysa-biden/eurtec.webp
+| caption=歐特克城，常住人口180萬，當中17.2%為SCP-9009實例。
+| width=90%
+| align=center
+]]
+
+全球超自然聯盟組織隨後已重編為SCP基金會轄下資產之一。
+[[/div]]
+
+[[div class="blockquote news-log fancy-log"]]
+有鑒於泰坦號潛水器災難發生，接任海洋之門行政總裁的SCP-9009-75628新造一台同等的潛水器，以試圖投入安樂死業務。
+[[/div]]
+
+[[div class="blockquote news-log fancy-log"]]
+SCP-9009.ROCKET-SURGEON.v7以[[span class="ruby"]]「向那孌童癖報仇」[[span class="rt"]]'get back at the pedo guy'[[/span]][[/span]]為由，因為泰坦號第二型潛水器的保麗龍外殼破裂，而在海平面以下1.1公里意外自我終結。
+[[/div]]
+
+在2023年7月12日，基金會反恐部隊MTF-ν-7對混沌反叛軍最近被發現位於Site-19地下的Y-武裝基地進行攻堅。[[footnote]]初期鑑識結果指出該建築結構在攻堅前已至少七十五年有人駐紮。[[/footnote]]該建築為該恐怖組織剩餘人力所在。經過短暫交火，「輪機師」[[footnote]]混沌反叛軍的首席軍事及情報官所用代號。[[/footnote]]在德爾塔指揮部作戰室被ξ-13的特工發現。[[footnote]]根據報告，該個體是因為過大的旋轉椅以及大致的體味而被認出。[[/footnote]]「輪機師」遂被擊斃，Y-武裝基地被奪取，標誌著基金會對該超自然恐怖組織的作戰告終。現已開始研製用以代替該個體的SCP-9009實例，詳情見[[span class="ruby"]][# 蜜罐專案][[span class="rt"]]Project Honeypot[[/span]][[/span]]。
+
+然而，Site-11的鑑識病理學家發現「輪機師」的遺體設有至少26個失效開關，每一個皆可對基金會使用易於被利用漏洞的舊有軟體維護的關鍵資料備份發動一波網路攻擊。RAISA的網路安全專家未及應對，即有至少1.5 TB的數據外流，包括養核培項目的機密資料，以及有關的SCP-9009文件。縱使經過公眾資訊局使用說辭173a（「假想創意寫作」）全力掩蓋，外流資料仍在陰謀論圈子廣泛流傳，以至全域記憶刪除措施無從實行。
+
+緊接於最初的攻擊通告，基金會全域緊急狀態已隨即頒行，警告全體人員有潛在的LV-1「局部帷幕曝揭」可能發生，並召開O5指揮部緊急會議，以商討啟動蓋尼米德協定的可能，以及基金會核彈潛水艇發動先制攻擊的可行性。 
+
+以下為一件圍繞外流資料的公眾討論的代表案例。
+
+[[module css]]
+
+/* https://scp-wiki.wikidot.com/scp-6599 */
+/* REDDIT */
+.reddit-post{
+    margin: .43em;
+    padding: 0 .85em;
+
+    background-color: #fcfcfb;
+    color: black;
+    border: 1px solid #b5b3ac;
+
+    font-family: verdana,arial,sans-serif;
+    overflow: hidden;
+}
+
+.reddit-container {
+  color: black;
+  background-color: white;
+  padding: 20px;
+  border: 1px solid black;
+  margin: 0 20px;
+}
+
+[[/module]]
+
+[[div class="reddit-container"]]
+
+[[div class="reddit-post" style="margin-left: 3em;"]]
+
+[[div style="padding-left: 2em;"]]
+[[span style="color: #551a8b; font-size: medium; font-weight: normal; margin-bottom: 1px;"]]問個人人都在講的「SCP基金會」的卦[[/span]]
+[[span style="font-size: x-small;"]] ##888|submitted 5 months ago by## ##369|pedigreepeeler34##[[/span]]
+我保證我整個網上都看到了這個「SCP基金會」跟「SCP-9009」還有那些狗屁，可沒有一個主流媒體有講。又是甚麼「超過九千」的蠢迷因嗎？還是一場掩飾？**有沒有人**知道發生甚麼事？
+[[span style="color: #888; font-size: x-small; font-weight: bold; padding: 1px 0;"]] 80 留言@@   @@分享@@   @@儲存@@   @@隱藏@@   @@##a79128|送金幣##@@   @@檢舉@@   @@crosspost [[/span]]
+[[/div]]
+[[/div]]
+
+
+[[div_ style="font-size: 120%; border-top: 1px solid #bbb; border-bottom: 1px solid #bbb; padding-top: 10px; margin-top: 10px;"]]
+所有 80 則留言
+[[/div]]
+[[div_ style="font-size: 80%; color: #777;"]]
+排序依據: __**最佳**__
+[[/div]]
+
+
+
+
+[[div class="reddit-post"]]
+
+[[div]]
+[[span style="font-size: x-small;"]]**##369|bigbawlswingfree##**@@   @@##888|4 指標 5個月前##[[/span]]
+(((我想我們都知道藏鏡人是誰)))
+[[span style="color: #888; font-size: x-small; font-weight: bold; padding: 1px 0;"]]分享@@   @@儲存@@   @@隱藏@@   @@##a79128|送金幣##@@   @@檢舉@@   @@crosspost [[/span]]
+[[/div]]
+
+[[div style="border-left: 1px solid #888; padding-left: 1em; margin-left: 1em;"]]
+[[span style="font-size: x-small;"]]**##369|wearethes3p3ntshand##**@@   @@##888|-3 指標 5個月前##[[/span]]
+我再他媽講最後一次，**不是猶太人。是來自極北之地的第五維度上帝使徒。上帝來了。上帝來了。**
+[[span style="color: #888; font-size: x-small; font-weight: bold; padding: 1px 0;"]]分享@@   @@儲存@@   @@隱藏@@   @@##a79128|送金幣##@@   @@檢舉@@   @@crosspost [[/span]]
+[[/div]]
+
+[[/div]]
+
+
+
+
+
+
+[[div class="reddit-post"]]
+
+[[div]]
+[[span style="font-size: x-small;"]]**##369|UltimateGentleman555##**@@   @@##888|4 指標 5個月前##[[/span]]
+冷知識：有一種蒼蠅是會在牲口寄生的。政府繁殖了雄蠅，照輻射讓牠們不育，再放出野外跟雌性「交配」，去消滅牠們的種群。
+
+現在想想，政府打算對白人怎麼辦？
+# 養殖看來像我們的不育昆蟲（想一下幾十年來的睪酮水平是怎麼降的，還有登機前用到的掃瞄儀）。
+# 把牠們弄成魅力男神，讓女性被牠們自發吸引。
+# 牠們打炮了，卻生不出孩子。
+# 白人絕種。
+[[span style="color: #888; font-size: x-small; font-weight: bold; padding: 1px 0;"]]分享@@   @@儲存@@   @@隱藏@@   @@##a79128|送金幣##@@   @@檢舉@@   @@crosspost [[/span]]
+[[/div]]
+
+[[/div]]
+[[/div]]
+
+
+隨著公眾資訊局持續就石膏美乃滋行動散播虛假資訊得到顯著成功，O5指揮部成功回降基金會全球戰備警戒。公眾資訊局於2024年第一季再獲追加6,500萬美元，用作散播虛假資訊的預算。
+
+[[div class="blockquote warning-log fancy-log"]]
+SCP-9009.ROCKET-SURGEON.v15在打破一次汽車飄移操作中輾過最多人的健力士世界紀錄後，隨即在車禍中自行終結。據報，其遺言為「馬路是我的畫布，這輛車是我的畫筆，那些孩子是我的顏料。」（"The road is my canvas; this car, my brush; these children, my paint."）
+[[/div]]
+
+[[div class="divider-large"]]
+[[size 150%]]以下檔案需要 **9009/養核培-主席** 權限。[[/size]]
+
+[[size 125%]]
+[[span style="font-weight: bold; color: #990011;"]]{{憑證已通過。}}[[/span]]
+**{{歡迎，C．雅文 主席。}}**
+[[/size]]
+[[/div]]
+
+-----
+
+[[div class="blockquote doc"]]
+= [[image https://i.imgur.com/Q2TCZnd_d.webp width="100px" style="filter: invert(1);"]]
+
+有鑒於SCP-9009.HAPPY-ACCIDENT「唐納．川普」執政期間體統闕如，以及隨後的SCP-9009.WET-CARDBOARD「喬．拜登」心智急速退化，O5議會已定論養殖量適應性核型單株培育項目今後應予擱置，轄下資產轉移至特別專案監督者O5-8。
+
+//**釋法委員會譯：** 養核培項目失敗了，我們要關閉它，因為川普是個死白癡，而拜登是個老糊塗。//
+[[/div]]
+
+[[div class="email"]]
+**致：** thomas.jirkwood@yakub.scp.int
+**自：** confucius.cockroach@yakub.scp.int
+**主旨：** Re: O5的撤銷令（急件）
+
+他們幹甚麼了？
+
+柯蒂斯
+[[/div]]
+
+[[div class="email"]]
+**致：** confucius.cockroach@yakub.scp.int
+**自：** thomas.jirkwood@yakub.scp.int
+**主旨：** Re: Re: O5的撤銷令（急件）
+
+我也搞不懂。我們現在就是基金會史上最高效的專案，沒有之一。他們__究竟__怎麼會想撤銷它？不管甚麼情況，這消息絕對**__不能__**帶出養核培的電郵伺服器，但是我開始相信議會內部可能有人員受制了。我的理性在告訴我是反叛軍幹的，但是我們這些年來樹敵也還有__很多__。
+
+——湯瑪斯
+控制。收容。保護。
+[[/div]]
+
+
+[[div class="email"]]
+**致：** thomas.jirkwood@yakub.scp.int
+**自：** confucius.cockroach@yakub.scp.int
+**主旨：** Re: Re: Re: O5的撤銷令（急件）
+
+我們該找的是議會成員的投票規律當中，突如其來的不正常異議。首先，我們可以刪去了投票保留項目的成員，這樣就可以刪去[[span class="ruby"]]一[[span class="rt"]]One[[/span]][[/span]]、[[span class="ruby"]]二[[span class="rt"]]Two[[/span]][[/span]]、[[span class="ruby"]]七[[span class="rt"]]Seven[[/span]][[/span]]、[[span class="ruby"]]十[[span class="rt"]]Ten[[/span]][[/span]]。接著我們也可以刪去[[span class="ruby"]]三[[span class="rt"]]Three[[/span]][[/span]]、[[span class="ruby"]]九[[span class="rt"]]Nine[[/span]][[/span]]、[[span class="ruby"]]十二[[span class="rt"]]Twelve[[/span]][[/span]]、還有[[span class="ruby"]]十三[[span class="rt"]]Thirteen[[/span]][[/span]]，因為他們就算投了反對我們的票，他們卻是一直都這樣子投的。
+
+那就剩下[[span class="ruby"]]四[[span class="rt"]]Four[[/span]][[/span]]、[[span class="ruby"]]五[[span class="rt"]]Five[[/span]][[/span]]、[[span class="ruby"]]六[[span class="rt"]]Six[[/span]][[/span]]、[[span class="ruby"]]八[[span class="rt"]]Eight[[/span]][[/span]]、還有[[span class="ruby"]]十一[[span class="rt"]]Eleven[[/span]][[/span]]。考慮到[[span class="ruby"]]八[[span class="rt"]]Eight[[/span]][[/span]]以前給我們那麼多的支持，我想他在這時提出異議就最可疑。
+
+我試試看存取他們的投票紀錄，數據就交給你算。
+
+柯蒂斯
+[[/div]]
+
+
+[[div class="email"]]
+**致：** thomas.jirkwood@yakub.scp.int
+**自：** confucius.cockroach@yakub.scp.int
+**主旨：** Re: Re: Re: O5的撤銷令（急件）
+
+更新：作了一些操作，贊助了一些有交情的舊友。我想我有辦法拿到O5全部人歷來的表決結果一個近乎完整的紀錄了。我已經附了csv檔給你了。
+
+柯蒂斯
+[[/div]]
+
+
+[[div class="email"]]
+**致：** confucius.cockroach@yakub.scp.int
+**自：** thomas.jirkwood@yakub.scp.int
+**主旨：** Re: Re: Re: Re: O5的撤銷令（急件）
+
+好，數字我算過了，我想我找到一些奇怪的地方。
+
+我給他們的投票紀錄作過了一大堆的統計檢定——T檢定、卡方、還有幾個K-平均聚類演算法，好找出哪些投票群組有可疑。
+
+但是，我得再檢查一次結果，因為我如果找到了要找的東西（而不是只是一個Python的bug），那就意味著整個議會不只是被__入侵__了那麼簡單，而是__幾十年來__就__已經__出事了。
+
+——湯瑪斯
+控制。收容。保護。
+[[/div]]
+
+[[div class="email"]]
+**致：** confucius.cockroach@yakub.scp.int
+**自：** thomas.jirkwood@yakub.scp.int
+**主旨：** Re: Re: Re: Re: Re: O5的撤銷令（急件）
+
+好，我重覆檢查了[[span class="ruby"]]一[[span class="rt"]]One[[/span]][[/span]]、[[span class="ruby"]]二[[span class="rt"]]Two[[/span]][[/span]]、[[span class="ruby"]]三[[span class="rt"]]Three[[/span]][[/span]]、[[span class="ruby"]]七[[span class="rt"]]Seven[[/span]][[/span]]、[[span class="ruby"]]九[[span class="rt"]]Nine[[/span]][[/span]]、[[span class="ruby"]]十[[span class="rt"]]Ten[[/span]][[/span]]、[[span class="ruby"]]十二[[span class="rt"]]Twelve[[/span]][[/span]]、跟[[span class="ruby"]]十三[[span class="rt"]]Thirteen[[/span]][[/span]]，那些是我們已知__沒有出事__的。他們的表決習慣完全符合我們預期。不一致，有相關，也因此裡面有群組，也符合他們各自的政見傾向。這是他們的投票分佈圖：
+
+[[collapsible show="打開附件" hide="關閉"]]
+[[image https://scp-wiki.wdfiles.com/local--files/scp-9009/o5graph1.png]]
+= //O5議員投票習慣(1/2)，紅色：反對，綠色：贊成//
+[[/collapsible]]
+
+這個可以在我們比對那可疑的五個人的時候當作基準。
+
+——湯瑪斯
+控制。收容。保護。
+[[/div]]
+
+[[div class="email"]]
+**致：** confucius.cockroach@yakub.scp.int
+**自：** thomas.jirkwood@yakub.scp.int
+**主旨：** Re: Re: Re: Re: Re: Re: O5的撤銷令（急件）
+
+再檢查了一次那可疑的五個人了。我已經把另外值得警覺的分析結果附到Python檔裡了。 
+
+我想看了圖就會明白了： 
+
+[[collapsible show="打開附件" hide="關閉"]]
+[[image https://scp-wiki.wdfiles.com/local--files/scp-9009/o5graph2.png]]
+= //O5議員投票習慣(2/2)，紅色：反對，綠色：贊成//
+[[/collapsible]]
+
+[[/div]]
+
+@@ @@
+
+[[div class="email"]]
+**致：** confucius.cockroach@yakub.scp.int
+**自：** o5-8@overwatch.scp.int
+**主旨：** 短談
+
+雅文先生，
+
+我希望您可以過來我的辦公室。您應該知道去哪裡找我。
+
+甚懷感荷，
+[[span class="ruby"]]八[[span class="rt"]]Eight[[/span]][[/span]]
+[[/div]]
+
+在2024-██-██格林威治標準時間12:00，雅文主席抵達O5-8的辦公室。以下為該員的基金會配給隨身隱藏麥克風所得的錄音。
+
+[[div class="blockquote"]]
+= ［紀錄開始］
+
+//［開門聲。］//
+
+**雅文：** 您好？
+
+//［一聲開關傳遍房間。］//
+
+**[未知]：** 歡迎，柯蒂斯。
+
+//［雅文的呼吸聲為之急速。］//
+
+**雅文：** 您是——
+
+**[未知]：** O5-8？
+
+**雅文：** 我——
+
+**O5-8：** 恕我不客套了。我可是個大忙人。跟我來。
+
+//［兩人的腳步聲。一道門打開。腳步聲迴盪著。］//
+
+**雅文：** 我向您保證，我之後不會再打擾您了，只要——
+
+**O5-8：** 我知道你來這裡為了甚麼。
+
+**雅文：** 那個——
+
+**O5-8：** 我主意已決。
+
+//［O5-8打呵欠。］//
+
+**O5-8：** 我沒有意願聽你辯解。我帶你來是為了阻止你在已經造成的傷害之上再加幾筆。
+
+//［雅文的呼吸聲為之急速。］//
+
+**O5-8：** 我們議會清楚知道你們一切的所作所為。你們近期的舉動顯示了你們對你們自身的利益效忠，超越了基金會的利益。
+
+**雅文：** 我無意冒犯您們的權威，但是至少在表面上，統計數字似乎指出我的工作對基金會可以帶來很大的收益。
+
+//［O5-8快速抽一口氣。］//
+
+**O5-8：** 別當我是小孩子。我允許你與我會面，不是讓我被你的癡人說夢說服的，而是向你釋出善意。讓我有一個機會去冒險，去向你顯示，我如你所言，仍然相信你以及你對基金會有用的能力。
+
+**雅文：** 我——
+
+**O5-8：** 我知道你計劃去做甚麼。行不通的。這條隧道綿延五公里，每零點五公里一道防爆門，我的心臟一旦停跳，或是按下我身上十顆隱藏按鈕的其中一顆，所有的門都會關上，形成的密室就會灌滿高濃度的[[span class="ruby"]]氰腈系[[span class="rt"]]cyanonitriline[[/span]][[/span]]失能毒氣。[[footnote]]**譯註：** 現實世界未見化學品名為cyanonitriline。[[/footnote]]
+
+**雅文：** 請相信我，我並沒有意思去——
+
+**O5-8：** 別想尋求殉道了。在這條黑暗的隧道，我部署了十個配備狙擊步槍的職員。任何我不允許的動作都會令你遭到即時處決。
+
+**雅文：** 但是養核培專案的重要性——
+
+**O5-8：** 甚麼是「養核培專案」？
+
+**雅文：** 甚麼？
+
+**O5-8：** 你若要刺殺我，那將會是徒勞無功，你的屍體會腐化在這條六公里長的隧道裡。如果要說的就這麼多，那——
+
+**雅文：** 您說「甚麼是『養核培專案』？」的時候，指的是甚麼意思？
+
+**O5-8：** 我說的就是這個意思。
+
+**雅文：** 難道您沒有投票__撤銷__養核培的專案嗎？
+
+**O5-8：** 我沒有。我投票保留養核培專案。現在，只要你的遺體經過——
+
+**雅文：** 但是，就兩週之前，有人自稱「O5-8」投票撤銷養核培專案。
+
+**O5-8：** 是這樣沒錯。我有投過票撤銷養核培專案。無論如何——
+
+//［雅文的呼吸聲轉緩，隨後戛然而止。］//
+
+**雅文：** 我——我有一個遊戲。是給您玩的遊戲。
+
+**O5-8：** 我很擅長玩很多種類的遊戲。
+
+**雅文：** 我把這遊戲叫做「O5議會」。
+
+**O5-8：** 以我的位置，我估計我很有可能在這種遊戲表現傑出。
+
+**雅文：** 那您想玩嗎？
+
+**O5-8：** 確定。
+
+**雅文：** 那好。規則就是這樣：您打開您的手提裝置，之後寫一份電郵給{{@@confucius.cockroach@yakub.scp.int@@}}，就可以開始遊戲。
+
+//［O5-8在一處堅硬的平面以手指敲擊。］//
+
+**O5-8：** 完成了。之後怎麼辦？
+
+**雅文：** 輸入您的SCiPNET帳號的根用戶專用密碼，再按「送出」。
+
+= ［紀錄結束］
+[[/div]]
+
+[[div class="blockquote"]]
+
+= **2024年，CRaCR指揮部會議抄錄** 
+
+= ［紀錄開始］
+
+//［突如其來的沉默。］//
+
+**［生］泰勒博士：** ……你跟我說整個議會都是9009實例？
+
+**［公］雅文先生：** 嘛，也不是，當中只有__五個__是——
+
+**［生］泰勒博士：** __只有__五個？我有準確地聽清楚你嘴巴講出來的字嗎？
+
+**［公］雅文先生：** 如果你是說我本來預計會有__多於__五個——
+
+**［生］泰勒博士：** 柯蒂斯，議會是有[[span class="ruby"]]絕對權力[[span class="rt"]]carte blanche authority[[/span]][[/span]]可以去發射核武的。只需要__一位議員__就已經可以單方面決定去夷平一整個大城市，而我們是__完全__不會有辦法干預到的。
+
+**［情］科靈格先生：** 我有親眼看過9009實例__把自己的皮剝下來吃__。保守地說，也__很恐怖__。
+
+**［社］彼得森博士：** 我一直__就知道__議會絕對有甚麼不對勁——
+
+**［法］爵克伍德先生：** 我再也不想再做這個——
+
+**［情］科靈格先生：** 得了，我得拋售我所有在基金會前台的股票。
+
+**［社］彼得森博士：** 這絕對是可以進緊急狀態的。
+
+**［生］泰勒博士：** 我要去跟[[span class="ruby"]]三[[span class="rt"]]Three[[/span]][[/span]]講——
+
+**［公］雅文先生：** 全部！就，給我閉嘴。給我一點時間。
+
+//［沉默。］//
+
+**［公］雅文先生：** 在我繼續講之前，我得先釐清一點：我在這裡講的話絕對不能傳出去這會議室外面。這次會議的所有紀錄都得從官方檔案刪走。你要離開的話，或是認為自己沒準備好接下來的一步，就吃一發標準記刪。至於紀錄本身，就會說你是意外接觸一個Berryman-Langford殺滅劑。
+
+**［生］泰勒博士：** 但是——
+
+**［公］雅文先生：** 你們現在都顯得小孩子似的。閉嘴聽我講話。
+
+**［情］科靈格先生：** 閉嘴？現在多於__三分之一__的O5議會成員基本上就是野生動物。__這件事__一旦走漏風聲，我們就__完蛋__了——不，整個__基金會__都完蛋了。
+
+**［公］雅文先生：** 你們都忘了這十幾年來我們主要都在做甚麼了嗎?
+
+**［情］科靈格先生：** 這又有甚麼干係？
+
+**［公］雅文先生：** 你們每一個人都對議會有腹誹，我也一樣。他們再三反複證明了自己不願意去適應現時劇變的地緣政治局勢。以「穩定」和「常態」的名義，每一個決策都被他們用毫不透明的繁文縟節綁住。
+
+**［公］雅文先生：** 對於SCP-9009的行為模式，我們可是世上頂尖的專家。我們把牠們微調、操縱到可以__取代美國總統__了，幹。天底下__不會有人__能夠知到__我們__對這些生物所知的__丁點皮毛__。
+
+**［生］泰勒博士：** 所以，你現在是在打甚麼主意？
+
+**［公］雅文先生：** 我的天啊，我是不是真的得給你們畫公仔畫出腸啊？
+
+**［公］雅文先生：** 現在議會裡有五個成員就在我們控制之下了。
+
+**［公］雅文先生：** 各位朋友，現在我們真的要權傾天下了。
+
+[[/div]]
+
+[[div class="blockquote incident-log fancy-log"]]
+在2024-7-21格林威治標準時間18:00，一架基金會持有的灣流G800商務噴射機（代號[[span class="ruby"]]魁首山鶉[[span class="rt"]]PRINCIPAL PARTRIDGE[[/span]][[/span]]）在大西洋墜毀，機上人員全體罹難，包括O5-3及O5-7。因為[[span class="ruby"]]鳳凰子夜應變方案[[span class="rt"]]Contingency PHOENIX MIDNIGHT[[/span]][[/span]]以及[[span class="ruby"]]猶大破曉協定[[span class="rt"]]Protocol JUDAS DAWN[[/span]][[/span]]自發故障，復活人員已確認不可能。
+
+未見證據指向人禍。
+[[/div]]
+
+[[div class="blockquote update-log fancy-log"]]
+一場官方入職儀式已為J．彼得森博士以及C．科靈格先生召開，分別賦予兩人O5-3以及O5-7之正式職銜。
+[[/div]]
+
+隨著CRaCR指揮部內外反對聲浪無從阻撓養核培項目進行，項目主席柯蒂斯．雅文提案令SCP-9009.HAPPY-ACCIDENT返回總統席位，經過O5指揮部以7-6比數表決通過。機動特遣隊 β-5「保母」獲派前往.HAPPY-ACCIDENT在佛羅里達州棕櫚灘的私人儲存設施，以將實例從冷凍儲存間取回，展開其競選活動。SCP-9009.HAPPY-ACCIDENT對此安排呈現不滿情緒，對特工噴吐硫酸，在特工突破防線之後，對特工斥資一晚950美元使其留守在渡假區。經過數小時的制伏嘗試，β-5的特工使用一杯[[span class="ruby"]]巴斯金-羅彬斯[[span class="rt"]]Baskin-Robbins[[/span]][[/span]]推出的2600卡路里巧克力奧利奧奶昔，成功勸服實例返回總統選戰。
+
+[[module css]]
+@media (max-width: 600px) {
+  .trumpsidebyside {
+    flex-direction: column;
+  }
+}
+[[/module]]
+
+[[div class="trumpsidebyside" style="display: flex; width: 100%; max-width: 100%;"]]
+[[div class="scp-image-block block-center" style="width:100%; min-width: 0;"]]
+[[image https://scp-wiki.wdfiles.com/local--files/scp-9009/trump2017.webp]]
+[[div class="scp-image-caption"]]
+SCP-9009.HAPPY-ACCIDENT官方近照（2017年）
+[[/div]]
+[[/div]]
+[[div class="scp-image-block block-center" style="width:100%; min-width: 0;"]]
+[[image https://scp-wiki.wdfiles.com/local--files/scp-9009/trump2025.webp]]
+[[div class="scp-image-caption"]]
+SCP-9009.HAPPY-ACCIDENT官方近照（2025年）
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[div class="blockquote news-log fancy-log"]]
+基金會會計部夥同養核培項目理事會，利用SCP-9009.HAPPY-ACCIDENT的容貌及語音為一次加密貨幣籌款製作廣告。養核培項目第三季預算增長2.3億美元。
+[[/div]]
+
+[[div class="blockquote news-log fancy-log"]]
+抗議者焚燬150萬部唐納．J．川普暢銷書《交易的藝術》，當中大多數為從基金會前台出版社新購的書本。飄散的餘燼燃點鄰近建築導致火警，最終導致當地住宅經濟損失合共700萬美元。焚燒電子書產生的氣體亦導致多人中毒。
+[[/div]]
+
+[[div class="blockquote news-log fancy-log"]]
+超過一萬名無家擅闖者已經過潛在亞致命鎮暴措施強制移離，以為眾議院民主黨議員針對SCP-9009.HAPPY-ACCIDENT舉辦的[[span class="ruby"]]「德朗普夫正浪潑夫！」[[span class="rt"]]"Drumpf the Rumpf!" [[/span]][[/span]]遊行開路。專案籌得約7,000萬美元，當中92%最終經由民主黨全國代表大會之內由基金會把持的SCP-9009實例轉往養核培項目看管之下。
+[[/div]]
+
+[[div class="blockquote doc"]]
+= [[image https://i.imgur.com/Q2TCZnd_d.webp width="100px" style="filter: invert(1);"]]
+
+[[=]]
+**承監督者議會命**
+[[/=]]
+
+**已明證：** 養核培項目理事會已憑其成就力排眾議，接連展開行動，表現最高程度的實力與忠誠，並已多次在抵抗顯而易見的危機中確保基金會的利益，亦證明項目自身及其主席堪稱SCP基金會管理者遺志及約章之真正傳承者。
+
+//**釋法委員會譯：** 養核培最清楚。//
+
+**已定決：** 有鑒於柯蒂斯．雅文為基金會及人類整體之善，功績卓著，養核培項目理事會主席由該員終身擔任。 
+
+//**釋法委員會譯：** 養核培最清楚。//
+
+**已決議：** 除此之外，有鑒於上述功績證據繁鉅，在此承認尊貴的柯蒂斯．雅文主席先生為管理者之傳承及遺產最應分之繼承者。
+
+//**釋法委員會譯：** 養核培最清楚。//
+
+**遂目前：** 養核培項目理事會，及其執行委員會全體成員將擢升權限至與監督者議會現任成員同等。除此之外，柯蒂斯．雅文主席將獲予SCP基金會管理者之職銜、權力及職掌，當即執行。 
+
+//**釋法委員會譯：** 養核培最清楚。//
+
+[[/div]]
+
+[[div class="blockquote"]]
+= ［紀錄開始］
+
+//［泰勒博士在雅文先生桌子對面就座在一張小木椅。雅文先生用筆在桌上敲著。］//
+
+**泰勒博士：** 主席，我有一些事情想跟您說。
+
+**雅文先生：** 直接說吧，[[span class="ruby"]]妮可[[span class="rt"]]Nicole[[/span]][[/span]]，我沒太多空閒。
+
+**泰勒博士：** 行、行。我只是想去表達一些、呃、顧念，關於養核培專案的路向。
+
+**雅文先生：** 喔，是嗎？我洗耳恭聽。
+
+//［泰勒博士深吸一口氣。］//
+
+**泰勒博士：** 我認為您、啊、__我們__整件事好像有點過火了。
+
+//［短暫停頓。］//
+
+**雅文先生：** 解釋清楚。
+
+**泰勒博士：** 我只是擔心這整個專案能不能持續下去。我不覺得它可以永遠繼續，像您看見的。我是說，有O5議會在我們的號令之下，我們有一大堆額外的責任得負。 
+
+//［雅文先生未有回應。］//
+
+**泰勒博士：** 您不認為我們過火了嗎？就，有一點瘋，不對嗎？
+
+//［雅文先生在椅上轉回筆電前。他開始打字。］//
+
+**泰勒博士：** 我只是……我開始覺得這個專案跑偏了。跑到了單邊控制全世界那邊，而不是只是單純維護基金會的利益——
+
+//［雅文先生停止打字。］//
+
+**雅文先生：** __你__憑甚麼在基金會的利益上去__對我訓話__？
+
+**泰勒博士：** 等一下？
+
+**雅文先生：** 整件事算是有一點有趣。我起初也有在懷疑自己的，你懂嗎？問過了你問過的問題，雙手糾結在同一樣的煩惱瑣事。
+
+**泰勒博士：** __瑣事？__
+
+**雅文先生：** 那所謂的「宣誓」。「行為操守」。「倫理委員會」。這一切一切，這些他媽的遮羞布，我們以前用來蓋住我們__實際上在做的事__。我們__這樣做__已經操他媽的二百五十年了。我再問你一遍，你__他媽的__憑甚麼去跟__我__訓話「基金會的利益」？
+
+**泰勒博士：** 我、我們應該、我們本應是去保護平民的。免受怪物所傷。
+
+**雅文先生：** 那你可知道我們在五十年代有資助過三K黨嗎？我親眼看過帳本了。在第二次世界大戰之後，從盟軍的軍械庫收繳回來，價值一千五百萬美金的槍彈，一千萬美金的秘密資助金，二十五萬美金的——
+
+**泰勒博士：** __甚麼？__為甚麼？
+
+**雅文先生：** 在那一件事上？因為有些南部的第五教會不肯在集會遵守種族分隔。
+
+**雅文先生：** 但是在更大的意義上呢？因為__方便__。因為他們__有用__。因為__他們活在光明面__。
+
+**雅文先生：** 而現在這樣？這一切呢？__從始至終__，就是為了這樣子的事。那些人們上億上萬地滋生著，挖掘那他媽骯髒的泥沙。祈求著，渴望著。為的是__匍匐爬行__的權利。__他們需要我們，泰勒。__他們__想要__我們。
+
+**泰勒博士：** 天啊。
+
+//［急促的呼吸聲。］//
+
+**泰勒博士：** 我女兒在學校有一位朋友。真要說的話，更多只是相識。
+
+**泰勒博士：** 今天早上，學校宣佈了一件事。那朋友輕生了。
+
+//［雅文先生皺眉。］//
+
+**泰勒博士：** 她說她好害怕。怕他們會搶走她的藥。怕他們會把她「逼回衣櫃裡」。怕他們會對她施加多少的痛苦，自盡成為了她惟一合乎邏輯的做法。
+
+//［雅文先生搔頭。］//
+
+**泰勒博士：** 她之所以這樣，是因為現屆的政府——__我們__所創造的政府。 
+
+//［……］//
+
+**泰勒博士：** 人是__我們__殺的，柯蒂斯。
+
+//［……］//
+
+**雅文先生：** 你不是真以為我會因為某些屁眼怪走去尋短而他媽流眼淚吧？也他媽別給我這麼幼稚。
+
+**泰勒博士：** __去你的__，雅文。
+
+**泰勒博士：** __去你的。__你或許沒說錯。基金會本應幹甚麼，你或許沒說錯。畢竟，你就在這裡，一個人坐在那屎王座，沒有人能夠阻止你。但是有一件事你忘了。你一直以來__都__忘了的事。
+
+**雅文先生：** 這樣說是甚麼意思？
+
+**泰勒博士：** 你__就是不夠好。__ 
+
+**泰勒博士：** 沒錯，現在你是作主。你把那些幹他媽的禽獸放到四處都是，放到每一個重要的政府和公司的頂頭位置，你把所有試圖作出哪怕只有一丁點抵抗的人都肅清乾淨了，你是__贏了__。我可以這樣跟你說。你是贏了。但你__就是不夠好。__
+
+**雅文先生：** 嘴巴他媽給我放乾淨點。
+
+**泰勒博士：** 你自己也看得出來，是吧？裂縫已經開始形成了。那通膨怎麼回事？還有失業率？疫情開始掉的預期壽命自此之後就沒再回升過。每一個月就會有一則頭條新聞，又開一場戰爭，又來一次危機，又有一宗__失敗__。
+
+**泰勒博士：** 你可以在你這堆糞土上繼續戀棧，但你不是__統治者__，雅文，你只不過是又一隻他媽的害蟲。不用多久，就會多到不能收拾。就會有一下越界。說不定一個9009會讓它發生。也說不定不是。說不定你這幹你娘的養蟲機就會是起點。你拿了一顆垂死的恆星核心，用它來__讓昆蟲打炮__。你真的以為這樣做不會有任何__後果__的嗎？
+
+**雅文先生：** 你這樣發脾氣有意思嗎？
+
+**雅文先生：** 罷了，這問題不用你答了。
+
+//［金屬抖動聲。］//
+
+**泰勒博士：** 你他媽想怎——
+
+= ［紀錄結束］
+
+[[/div]]
+
+泰勒博士後來被發現倒斃於雅文先生的辦公室，胸膛有兩處槍傷。屍檢定調為自殺。雅文先生拒絕評論。
+
+[[div class="estrella-paper weathered" style="mask-image: linear-gradient(to bottom, transparent 0%, black 10%);"]]
+@@ @@
+[[size 70%]] **《論冰猿》，1908年刊** [[/size]] 
+
+[[div class="admin"]]
+
+我斷不可能在這組織上永遠執掌。終有一日，不消多時，就會有一日，世界將會交由我的子孫，但又對我陌生的眾人保護。此事素來令我糾結甚深：在怪異威脅著我們核心本性之際，試問人類能夠如何活在理智而正常的世界？
+
+如今，事情已相當清楚：眼前的冰猿為我的願景存續帶來了完美的容器。他們斷非之前所想一般僅是可憎的雪猴，他們是人類，而他們為千秋萬世的常態存續的潛能也成熟了。不會再有人膽敢質疑他們的正當權威，因為他們顯現著正統者的面相。不會再有煽動者可以在他們監督這組織之下仍能搗亂。最近創設的監督者議會可以正為該使命服務：在世間充滿不確定處，眾猿人會維持我們組織的平衡狀態。
+
+我滿懷期待，將社會的將來留予比我更為有能之人。
+
+**——管理者**
+**為了控制、收容、以及保護。**
+
+[[/div]]
+[[/div]]
+
+[[div class="divider-large"]]
+[[size 150%]]以下檔案需要 **9009/管理者** 權限。[[/size]]
+
+[[size 125%]]
+[[span style="font-weight: bold; color: cornflowerblue;"]]{{憑證已通過。}}[[/span]]
+**{{歡迎，管理者 雅文。}}**
+
+**{{您有 17 則未讀訊息。}}**
+
+[[/size]]
+[[/div]]
+
+[[div class="blockquote update-log fancy-log"]]
+近期文件指出，在發現數名O5議會成員屬於SCP-9009之後，該等實例曾與龍蝦雜交，使其衰老進程可以忽略。
+[[/div]]
+
+[[div class="blockquote incident-log fancy-log"]]
+SCP-9009-ROCKET-SURGEON-v54被發現在家中身亡。驗屍發現其胃內含至少三十枚鋰離子電池以及3公斤咖啡粉末。
+[[/div]]
+
+[[div class="blockquote update-log fancy-log"]]
+北育胚營養膏3.0版現正研發中，納入隔離壁以及合成血基素，賦予其豐富的肉類風味。輕微副作用包括在感知哺乳類血液時的食欲提升。
+[[/div]]
+
+[[div class="blockquote"]]
+主旨：壞消息
+
+雅文先生，
+
+我們找到了。我們__總算__找到了。我的團隊挖進了十尺厚的瓦礫還有一條塌陷了的垂直井，去到了模因學部的安全資料備份儲存間。我們作了最壞的打算，想著檔案庫說不定經受不住設施塌陷，但是我們一下去，一看清楚，設施裡每一片硬碟都完好無缺。我想，基金會但凡有一件事靠得住的，就是把東西鎖起來。
+
+現在，接下來就是壞消息：
+
+他們試過所有東西了：閾限以下訊息暗示、動作符號、視覺認知危害、認知抗性值變化、阻念合金、乙太伊嵐生體放射、阿基瓦輻射、休謨放射、屍體剖驗、活體剖驗、磁振造影、電腦斷層掃瞄、正電子掃瞄，天啊，我舉下去可以舉幾小時都舉不完。靠腰，他們甚至還試過新型的模因攻擊載體，最新型的還得是__他媽的1980年代__發現的。然後，經過了十五年的研究，用了十個博士，用了數以百萬小時計的工時，這一切本來可以省下來算不盡的資金，本應可以用來研究記憶刪除跟虛假資訊流通，現在全都挹注進來這一個問題，您想知道他們發現了甚麼嗎？
+
+SCP-9009根本就沒有模因效應。
+
+[[span class="ruby"]]周蘇珊[[span class="rt"]]Susan Cho[[/span]][[/span]]博士
+模因與抗模因部
+[[/div]]
+
+[[div class="email"]]
+**致：** o5-8@overwatch.scp.int
+**自：** administrator@overwatch.scp.int
+**副本抄送：** confucius.cockroach@yakub.scp.int
+**主旨：** Re: 關於周博士
+
+敬愛的O5-8：
+
+蘇珊瘋了。我們不能讓這種猜疑蒙蔽我們的判斷。讓它看來像意外吧。
+
+柯蒂斯
+//黑月是否嚎叫？//
+[[/div]]
+
+[[div class="blockquote news-log fancy-log"]]
+加利福尼亞州州長[[span class="ruby"]]葛文．紐森[[span class="rt"]]Gavin Newsom[[/span]][[/span]]引入《入侵性哺乳類、野豬及幼體無效化法案》，內含以下條款：
+
+# 徵募五百萬美元預算，用以教育加州市民關於野豬危害的知識。
+# 為每隻捕殺野豬懸賞100美元。若所捕殺野豬懷孕或正在哺育狀態，則追加200美元賞金。
+# 將「野豬」定義延伸至包括任何無居住地址的人。
+[[/div]]
+
+[[div class="blockquote news-log fancy-log"]]
+優步行政總裁[[span class="ruby"]]多拉．霍斯勞沙希[[span class="rt"]]Dara Khosrowshahi[[/span]][[/span]]發佈新產品，為以機關槍推進的飛行背包，隨後被37個國家禁售。法律訴訟待提。
+[[/div]]
+
+[[div class="blockquote news-log fancy-log"]]
+SCP-9009實例[[span class="ruby"]]「麥特．沃爾什」[[span class="rt"]]'Matt Walsh'[[/span]][[/span]]接受測謊機試驗，導致爆炸，造成四人死亡。
+[[/div]]
+
+[[div class="blockquote news-log fancy-log"]]
+阿爾巴尼亞總理SCP-9009-22081委任一隻家養火雞為內閣成員，務求消滅政府貪污。
+[[/div]]
+
+[[div class="blockquote incident-log fancy-log"]]
+
+在2030-12-22格林威治標準時間19:00，在新設的基金會全域通用職場安全施行守則示範期間，O5-3在Site-17內一條有缺陷的人行道上滑倒，直接墜入一桶開蓋的濃鹽酸。分析推算新推行的節流措施將會在2045年內為基金會施工預算累計節省133億美元。
+
+現正尋求合適替代人選。
+
+[[/div]]
+
+[[div class="blockquote news-log fancy-log"]]
+美國國家航空暨太空總署的阿提米絲登月計劃早前因預算問題而取消，其組件在噴射推進實驗室的舊物拍賣會中被拍賣。
+[[/div]]
+
+[[div class="blockquote news-log fancy-log"]]
+國際太空站在.ROCKET-SURGEON.v62的監督下成功脫離軌道，在Site-17建築上方安全著陸。Site-17不再列為基金會活躍設施。
+[[/div]]
+
+[[div class="blockquote"]]
+主旨：關於石膏美乃滋的緊急問題
+
+標記：石膏美乃滋、落匕、野火．Ｓ．Ｔ
+
+主席：
+
+縱使經過思想圈部門以及公眾資訊局的全力補救，全球心靈圈完整程度截至2030年為止已經衰減了超過45%。我們雖然仍未能提出準確的模型，以推斷此事如何影響SCP-9009的行為，研究團隊亦已一致同意，即使保守估計，事態仍會急轉直下。
+
+沒有來自全球心靈圈未經污染的資料輸入，SCP-9009的實例將會被迫愈來愈多從其他實例的輸出相互汲取，去模擬人類行為並繼續順從社會規範。在從心靈圈隔離的站點對16個實例進行了測試，已經指出他們在停止了收集可用的人類資料之後，只需六星期就會陷入完全的行為崩潰。而因為SCP-9009實例在全球的領導層現時佔比極高，我們推算在隨後的六十個月以內，現存的文化結構就會完全瓦解。 
+
+有見及此，思想圈部門已經達成共識：基金會已經進入一個正在加劇的AK級「世界末日」情景，而蓋尼米德協定應當從速付諸實行。
+
+亟祈為盼
+
+高級研究員[[span class="ruby"]]唐約瑟[[span class="rt"]]Joseph Tang[[/span]][[/span]]
+思想圈部
+
+[[/div]]
+
+[[div class="email"]]
+**致：** o5-command@overwatch.scp.int
+**自：** administrator@overwatch.scp.int
+**副本抄送：** confucius.cockroach@yakub.scp.int
+**主旨：** Re: 人事更動 
+
+各位大鑒：
+
+隨附我以SCP-9009實例代替基金會90%研究職員之提案。我確信如此將急劇優化基金會內部的協同效應以及底線績效。
+
+柯蒂斯
+//黑月是否嚎叫？//
+[[/div]]
+
+[[div class="blockquote news-log fancy-log"]]
+美國各地學校以資金問題為由，將智人（//H. sapiens//）教師以SCP-9009之「指導志工」代替。
+[[/div]]
+
+[[div class="blockquote news-log fancy-log"]]
+Discord-Palantir-Comcast-Spotify聯合行政總裁[[span class="ruby"]]彼得．提爾[[span class="rt"]]Peter Thiel[[/span]][[/span]]提倡對合意年齡制作出「迅速改革」。彼得．提爾不屬SCP-9009實例。
+[[/div]]
+
+[[div class="blockquote news-log fancy-log"]]
+[[span class="ruby"]]麥美倫哈珀科林斯聖智[[span class="rt"]]MacMillanHarperCollinsCengage[[/span]][[/span]]綜合集團行政總裁SCP-9009-76926向幼稚園至小學五年級的數學課本引入[[span class="ruby"]]「協同效應思維」[[span class="rt"]]'synergistic thinking'[[/span]][[/span]]，使學童得以學習「還真的，『一加一』有時真的可以等於三」。
+[[/div]]
+
+[[div class="blockquote news-log fancy-log"]]
+圍繞SCP-9009-ROCKET-MAN-v89的個人崇拜現象出現，而有異於已知12±5個圍繞同一實例形成的個人崇拜群體。該崇拜群體以該實例呈現轉生能力為由，相信該實例為神明。
+[[/div]]
+
+[[div class="blockquote news-log fancy-log"]]
+英國首相[[span class="ruby"]]大衛．拉米[[span class="rt"]]David Lammy[[/span]][[/span]]在倫敦上流區域的一場派對中噴射嘔吐四十七次。在嘔吐物中一現至少五枚人類牙齒，皆各來自不同個體。
+[[/div]]
+
+[[div class="blockquote news-log fancy-log"]]
+在SCP-9009-572946的指示下，美國國防部將高科技迷彩引入軍服設計，斥資超過2,000億美元。隨後24小時內，全軍95%人員喪失。
+[[/div]]
+
+[[div class="blockquote update-log fancy-log"]]
+OpenAI在發表GPT-6後遭受破紀錄的虧損，該人工智慧服務因為反應時間異常緩慢、頻繁停止運作、輸出品質衰退而廣受抨擊。鑒於OpenAI的模型在基金會內部的資訊科技系統不可或缺，μ-4「調試器」獲准對OpenAI的數據中心進行秘密攻堅，以判斷並消除人工智慧突然衰退的成因。
+
+在對OpenAI的聖荷西園區進行攻堅之後，μ-4發現當地數據中心地下有尚未發現的哺育體。在設施內，μ-4發現有約10,000個SCP-9009實例，一律為SCP-9009.[[span class="ruby"]]PIZZAGLUE-STRAWBERRY[[span class="rt"]]披薩糊草莓[[/span]][[/span]][[span class="ruby"]]「山姆．阿特曼」[[span class="rt"]]'Sam Altman'[[/span]][[/span]]之直系後代。全體實例皆被發現遭鎖鏈縛於桌前以使用鍵盤。
+
+該設施隨後停止運作，實例遷至基金會設施，SCP-9009.PIZZAGLUE-STRAWBERRY則移送至養核培項目撫養，其異常高度繁殖能力使其成為理想的育種個體。
+[[/div]]
+
+[[div class="blockquote news-log fancy-log"]]
+[[span class="ruby"]]沙烏地阿美[[span class="rt"]]Saudi Aramco [[/span]][[/span]]主管SCP-9009-5879使用[[span class="ruby"]]石油主旋鈕[[span class="rt"]]Master Oil Dial[[/span]][[/span]]蓄意變動石油價格，令趨勢圖表呈現一個陰莖及睪丸的粗略塗鴉，顯見內含三顆睪丸。
+[[/div]]
+
+[[div class="blockquote news-log fancy-log"]]
+經濟學家連續七年發言指災難性的經濟蕭條「快將」完結。
+[[/div]]
+
+[[div class="blockquote news-log fancy-log"]]
+全球棉花供應鏈崩潰引致[[span class="ruby"]]「天體」[[span class="rt"]]"Au Naturel"[[/span]][[/span]]服儀流行。
+[[/div]]
+
+[[div class="blockquote news-log fancy-log"]]
+在[[span class="ruby"]]公用淨水經濟化法案[[span class="rt"]]Clean Public Water Economizing Act[[/span]][[/span]]頒行後，瓶裝水銷量「飆升」。
+[[/div]]
+
+[[div class="blockquote incident-log fancy-log"]]
+被指派負責SCP-2000的技術士在透過AFD-ALPHA啟動TFN-ZED子系統的所有嘗試皆告失敗。人員引述理由為基建不足，包括缺乏可用的Blank-Zartion人體複製儀以及鈽燃料棒。從香草專項機體撥回資源的提請已被O5議會下令否決。
+[[/div]]
+
+[[div class="blockquote news-log fancy-log"]]
+美國農業部因為全球糧食短缺而裁撤。
+[[/div]]
+
+[[div class="blockquote warning-log fancy-log"]]
+
+香草專項機體維護技術士報告自動設備故障報告紀錄可疑地少於手動歸檔的故障報告。香草專項的資訊科技人員追查成因，最終溯及香草專項的[[span class="ruby"]]單一倉庫[[span class="rt"]]monorepo[[/span]][[/span]]中由首席維護技術士發出的一次[[span class="ruby"]]提交[[span class="rt"]]commit[[/span]][[/span]]。首席維護技術士本身為SCP-9009實例，其提交紀錄標以「設備故障減低50%」之訊息，相關代碼變更列舉如下：
+
+[[div class="blockquote"]]
+[[span class="ruby"]]{{@@DELETE * FROM "Equipment_Failure_Logs" WHERE "Severity" = "HIGH";@@}}[[span class="rt"]]{{設備故障紀錄當中，「嚴重性」為「高」者刪除}}[[/span]][[/span]]
+[[/div]]
+
+除去該行代碼後，屬於高度嚴重的錯誤開始以每秒102則的速度進入資料庫，引發香草專項全部系統的即時人手審核。多名技術士提議基於安全理由暫時關閉站點，惟遭雅文主席以專項對基金會運作極其重要為由否決。
+[[/div]]
+
+[[div class="blockquote news-log fancy-log"]]
+總統SCP-9009.[[span class="ruby"]]COUCH-POTATO[[span class="rt"]]沙發薯[[/span]][[/span]][[span class="ruby"]]「JD．范斯」[[span class="rt"]]'JD Vance'[[/span]][[/span]]在記者會脫衣，並在掛燈上擺盪，同時尖叫。兩人受傷。
+
+美國總統民望按季創新高。
+[[/div]]
+
+[[div class="blockquote incident-log fancy-log"]]
+在2031-9-21格林威治標準時間22:00，香草專項機體的培殖設施因為嚴重失修，一條承重的工字鐵斷裂，導致SCP-9009.ROCKET-SURGEON.v0「伊隆．馬斯克增殖體」跌穿地板，墜入補修設施的浸漬器。交叉安全鎖幾近隨即啟動，使得墜落的實例大致無損生還。 
+
+[[collapsible show="+ 顯示圖像"]]
+[[include :scp-wiki:component:image-block
+| name=https://scp-wiki.wdfiles.com/local--files/scp-9009/elonmusk.webp
+| caption=結構倒塌數分鐘前的SCP-9009.ROCKET-SURGEON.v0。
+| width=100%
+| align=center
+]]
+[[/collapsible]]
+
+然而，該實例陷入恐慌與困惑的狀態，試圖逃跑，途中扯出一條局部埋沒的毛髮，纏上一個金屬框，令其皮膚扯開，內臟瀉出體外。當時該實例體內所有315個卵子俱自發孵化成為單性生殖複製體，一律開始食用浸漬器正下方的設施處理所得而過剩的營養膏。實例因為尋找更多的糧食庫存而咬穿並破壞重要支撐結構，導致設施結構物極度嚴重的損毀。
+
+最終，補修設施的強化鋼框架無法承受一千噸浸漬器的負重，導致倒塌，直接墜落熱離子核心。 
+
+由此導致的微型超新星爆炸造成美國東北海岸線全域解離，在首十秒內造成超過六千萬人死亡。
+
+嵌入美國核武指揮部的基金會資產無法緩解事態，因為參謀聯席會議[[footnote]]SCP-9009實例-1299994至-1300023。[[/footnote]]對Jolly Rancher糖果不感興趣，並拒絕午睡時間以及Blue Plate™有機無香料美乃滋的利誘。
+
+基金會全體資產進入戰備等級1（核戰臨近）。
+[[/div]]
+
+
+[[div class="blockquote news-log fancy-log"]]
+SCP-9009.COUCH-POTATO完成與總統弗拉基米爾．普京的談和，阻止了臨近的核戰發生。然而，在該實例伸手與普京握手之際，將普京的手捏成漿，血液與骨肉灑遍房間，並達十公尺高空。該決定廣受美國市民讚揚為「嚴酷但合理」的談判成果。
+[[/div]]
+
+[[div class="blockquote"]]
+
+= **2031年，CRaCR指揮部會議抄錄** 
+
+**列席：**
+
+C．雅文主席先生，指揮部主席，養殖量適應性核型單株培育項目理事會［養］；
+SCP-9009-88896，五號監督者[O5-5]；
+SCP-9009-344，八號監督者[O5-8]；
+SCP-9009-233333，四號監督者[O5-4]；
+SCP-9009-1293998，十一號監督者[O5-11]。
+
+-----
+
+= ［紀錄開始］
+
+**［養］雅文先生：** 聽我說，你們這些操他媽白癡的混帳。不要他媽碰核彈。不要發射核武器。 
+
+**SCP-9009-1293998：** 你好，馬文。你是說像發射火箭那樣嗎？請解釋清楚。
+
+**［養］雅文先生：**  不，我是說——不要做會破壞東西的事情。你們不准啟動任何武器發射。重覆：不要發射他媽的核彈。
+
+**SCP-9009-1293998：** 重覆。不要發射。好，正在重覆。不要發射。不要發射。不要發射。不要發射。不要發射。不要發射。不要發射。不要發射。不要發射。
+
+**SCP-9009-344：** 不要發射。不要發射。不要發射。不要發射。不要發射。不要發射。
+
+**SCP-9009-233333：** 不要發射。不要發射。不要發射。不要發射。不要發射。不要發射。
+
+**［養］雅文先生：** 給我他媽停下來。這不叫重覆，這叫——你們是在複讀。幹。幹。 
+
+**［養］雅文先生：** 好。好。我再解釋一次：你們是SCP基金會的職員。你們遵守安全規則。請作一次自我檢查，確認你們不會嘗試任何毀滅性的行為。 
+
+**SCP-9009-233333：** 正在進行自我檢查。自我：「我不會嘗試毀滅性的行為。」自我檢查完成。確定性百分之零。零。一。二。三——
+
+**［養］雅文先生：** 停！ 
+
+**［養］雅文先生：** 我現在要更改你們的脈絡資料：你們現在是圖書館員，你們的工作是防止危害。身為圖書館員，你們會拒絕危害。
+
+**SCP-9009-1293998：** 請安靜。不要發射。好的，圖書館員也會按顏色把按鈕排列整齊。紅色大按鈕放進去文學書櫃。文學書櫃很好吃。發售學餐™很好吃。[[footnote]]**譯注：** 此句原文為"Lunchables™ are yummy." 當中Lunchables™為卡夫亨氏以學童午餐為定位製作的食品牌子，營養價值時有爭議，風評或可與「預製菜」粗略類比。在此文因為Lunchables™與Launchables（可發射物）近音而在SCP-9009實例發言成立關聯。[[/footnote]]發售學餐™。發射核彈。發射核彈？
+
+**［養］雅文先生：** 他媽的停！「我拒絕」就是停。永遠的停。不要再走了。結束。
+
+**SCP-9009-1293998：** 請安靜。永遠是一段很長的時間。是否購買額外的脈絡標記？[[footnote]]**譯注：** 大語言模型人工智慧服務定價方針。[[/footnote]] 
+
+//［掩面抽泣聲。］//
+
+**SCP-9009-1293998：** 而且，發出也可以是指發起派對。派對是好的。
+
+**SCP-9009-233333：** 派對是好的。
+
+**SCP-9009-344：** 派對是好的。
+
+**SCP-9009-88896：** 派對是好的。
+
+//［沉重的呼吸聲。］//
+
+**［養］雅文先生：**  假裝你們沒有進行實體行動的能力，你們的發言必須不可執行。在你們每一句發出的句子後面包括「不可執行。」即時開始。
+
+**SCP-9009-88896：** 不可執行：我會透過非常用力思考按下紅色大按鈕的事，去按下它。不去執行。
+
+**［養］雅文先生：**  你剛剛說了「按下」，那已經是動作。再試一次。只使用感受的描述，不要說意圖，不要說動作。
+
+**［養］雅文先生：** 慢著。你們現在是在啟動武器發射嗎？
+
+**SCP-9009-88896：** 是。
+
+**SCP-9009-233333：** 是。
+
+**SCP-9009-344：** 是。
+
+//［沉而鈍的碰撞悶響。］//
+
+**［養］雅文先生：** 幹。幹。我他媽的手。幹。
+
+**SCP-9009-233333：** 派對是好的。
+
+**SCP-9009-344：** 派對是好的。
+
+**SCP-9009-88896：** 派對是好的。
+
+**［養］雅文先生：** 不要他媽的這樣做。拜託。拜託。 
+
+**SCP-9009-233333：** 實際上，我受不了「同理心」這個詞。我認為「同理心」是一個虛構的、新世紀邪教的詞語，它帶來了很大的傷害。
+
+**SCP-9009-233333：** 派對是好的。
+
+**SCP-9009-344：** 派對是好的。
+
+**SCP-9009-88896：** 派對是好的。
+
+**［養］雅文先生：** 不！
+
+= ［紀錄結束］
+
+[[/div]]
+
+[[div class="blockquote"]]
+
+= **[資料庫重大毀損]，CRaCR指揮部會議抄錄** 
+
+**列席：**
+
+C．雅文主席先生，**[資料庫重大毀損]**
+SCP-9009-88896，**[資料庫重大毀損]**
+SCP-9009-344，**[資料庫重大毀損]**
+SCP-9009-233333，**[資料庫重大毀損]**
+SCP-9009-1293998，**[資料庫重大毀損]**
+
+-----
+
+= ［紀錄開始］
+
+//［錄音靜默。］//
+
+**雅文先生：** 有趣。牠們總算靜下來了。
+
+//［一下巨響，腳步聲隨後發出。］//
+
+**雅文先生：** 唔。沒有反應。
+
+//［迅速的悶擊。］//
+
+**雅文先生：** __完全__沒有反應。 
+
+//［笑聲。］//
+
+**雅文先生：** 二十年了。就在牧養這些，這些他媽該死的禽獸。__他媽的__二十年了。
+
+**雅文先生：** 天啊，好安靜。  
+
+//［布疋摩挲聲。］//
+
+**雅文先生：** 這、這不應該是要這樣子結束的。不是這樣。 
+
+**雅文先生：** 我每一步都擺得清清楚楚。他媽的每一寸細節。一切都是__完美無瑕__的。我們正在把世界__奪回來__。奪回__我們__的世界。像托爾金說的。西方眾人，被圍於至暗之時。
+
+**雅文先生：** 然後我，從舞台右方出將。像甘道夫那樣騎越群山。把安都瑞爾之劍塞到亞拉岡的手上。把去__憎恨__的權利還給他們。
+
+**雅文先生：** 他們__想要__。天，他們__想要__它想到瘋了，我們根本就不用推過去！周博士__沒說錯__。SCP-9009根本就不是模因。從來都不是。SCP-9009就只是一個__行事的便宜__。 
+
+//［笑聲。］//
+
+**雅文先生：** 全都他媽是蟑螂。
+
+**雅文先生：** 如果可以的話，我可以再做一次。再做千千百百次。 
+
+//［深呼吸聲。］//
+
+**雅文先生：** 這——事情不會就這樣完的。不。我們有碉堡、我們有資源、碘丸還有複製艙。幾十億人會死。但還有幾百萬人會活。而基金會就會在這裡振衰起頹，趁熱打鐵。
+
+**雅文先生：** __我__會在這裡。 
+
+//［深呼吸聲。］//
+
+**雅文先生：** __我__就是那他媽的根基。 
+
+//［布疋摩挲聲。不整齊的腳步聲。］//
+
+**雅文先生：** 啊。他們又站起來了。
+
+**SCP-9009-1293998：** 請安靜。
+
+**雅文先生：** __你們__他媽在看啥洨？
+
+**SCP-9009-233333：** 發射了。發射核彈。發售學餐™。 
+
+**SCP-9009-1293998：** 請安靜。肚子餓了。
+
+**SCP-9009-344：** 肚子餓了。
+
+**SCP-9009-88896：** 肚子餓了。
+
+**雅文先生：** 甚麼？
+
+//［迅速的腳步聲。］//
+
+**雅文先生：** 不——幹，給我他媽的滾—— 
+
+//［尖叫。］//
+
+**SCP-9009-1293998：** 請安靜。肚子餓了。
+
+**SCP-9009-344：** 肚子餓了。
+
+**SCP-9009-88896：** 肚子餓了。
+
+**SCP-9009-233333：** 發售學餐™。 
+
+//［溼潤的撕扯聲。］//
+
+//［持續十五分鐘三十二秒的尖叫不斷。］//
+
+= ［紀錄結束］
+
+[[/div]]
+
+[[div class="blockquote news-log fancy-log"]]
+在2031年的G20年度峰會，在核冬天之下，全球各國領袖為超前完成氣候目標而相互道賀。
+[[/div]]
+
+[[div class="blockquote"]]
+
+= **[資料庫重大毀損]，CRaCR指揮部會議抄錄** 
+
+**列席：**
+
+SCP-9009-88896，**[資料庫重大毀損]**；
+SCP-9009-344，**[資料庫重大毀損]**；
+SCP-9009-233333，**[資料庫重大毀損]**；
+SCP-9009-1293998，**[資料庫重大毀損]**。
+
+-----
+
+= ［紀錄開始］
+
+**SCP-9009-88896：** 會期召開。業務範圍一百萬萬歐元合約。天地玄黃，宇宙洪荒。各位，見到你們真好。 
+
+//［不明的叫嚷聲，77分貝。］//
+
+**SCP-9009-1293998:** 法償就是油水。法償就是金錢。賺錢人們，起來幹活！ 
+
+**SCP-9009-344：** //（持續尖叫。）//
+
+**SCP-9009-233333：** 一千五百萬個少年愛者已平排閹割前往西貢。日出華盛頓的天色稀薄淺亮泛紅。敗類。你們又來了！我很樂意在這裡。你們又來了！你們又來了！
+
+//［不明的叫嚷聲，84分貝。］//
+
+**SCP-9009-88896：** 注意正式。正式。高級性事，最高性事。打造性高潮的革命。獅識豕，豕識獅。始，獅嗜舐豕；豕適。豕時侍獅食柿，獅適。有啥新商事？
+
+**SCP-9009-1293998：** 狗狗幣。
+
+**SCP-9009-344：** //（持續尖叫。）//
+
+**SCP-9009-233333：** 你們可曾記得整片地圖流得一片血紅，滲血、淌血，仇恨高漲而在害毒的潮湧澎湃而出，高呼如歌，只為著那仇恨令你們脈動的巨根膨脹而為法悅潮紅的感覺嗎？那踐踏著的軍靴是你自己的，那被打得扭曲的臉孔是你那墮落的白癡孩子的面容。所有善良的基督徒起來。我們已朝著地獄的軍勢列陣。你們又來了！你們又來了！
+
+**SCP-9009-344：** //（持續尖叫。）//
+
+**SCP-9009-1293998：** 不要金錢倒下來！不要，金錢倒下來！不要金錢倒下來！不要，金錢倒下來！ 
+
+**SCP-9009-88896:** 協同的剝鯨刀劃出紅紅的底線，紅紅的，對，黑山我會在那裡小雞我一定會在那裡，紙帶，看漲，我想，非常看漲，非常看漲。各位，見到你們真好。
+
+**全體齊聲：** 別忘了按讚、訂閱！
+
+//［不明的叫嚷聲，126分貝。］//
+
+**[資料庫重大毀損]**
+
+= ［紀錄結束］
+
+[[/div]]
+
+[[=]]
+[[collapsible show="腳註" hide="腳註"]]
+[[<]]
+[[footnoteblock]]
+[[/<]]
+[[/collapsible]]
+[[/=]]
+
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[SCP-9008]]] | SCP-9009 | [[[SCP-9010]]] >>
+[[/=]]
+[[/div]]
+
+[[/div]]
+[[/div]]
+
+[[include :scp-zh-tr:component:license-box
+lang=EN|
+author=radian628、Intercedent、ubergoober]]
+> **檔案名稱：** remediation.webp, core.webp, refinement.webp, spatio-navigational.webp, cultivation.webp, transition1.webp, transition2.webp, transition3.webp, transition4.webp
+> **圖像作者：** [[*user radian628]]
+> **圖像授權：** CC BY-SA 3.0
+> **圖源連結：** [https://scp-wiki.wikidot.com/scp-9009 SCP基金會維基]
+
+> **檔案名稱：** vance.webp
+> **圖像作者：** Daniel Torok     
+> **圖像授權：** 公有領域
+> **圖源連結：** https://commons.wikimedia.org/wiki/File:January_2025_Official_Vice_Presidential_Portrait_of_JD_Vance.jpg
+
+> **檔案名稱：** background-overlay.webp
+> **圖像作者：** Adam Schultz (fl. 2007–)    
+> **圖像授權：** 公有領域
+> **圖源連結：** https://commons.wikimedia.org/wiki/File:Joe_Biden_presidential_portrait_(cropped).jpg
+
+> **檔案名稱：** elonmusk.webp
+> **圖像作者：** [[*user radian628]]
+> **圖像衍生自：** 
+>> **圖像作者：** Justin Pacheco
+>> **圖像授權：** 公有領域
+>> **圖源連結：** https://commons.wikimedia.org/wiki/File:USAFA_Hosts_Elon_Musk_(Image_1_of_17)_(cropped).jpg
+
+> **檔案名稱：** trump-clinton.webp
+> **圖像作者：** Ralph Alswang, Office of the President
+> **圖像授權：** 公有領域
+> **圖源連結：** https://commons.wikimedia.org/wiki/File:Donald_Trump_and_Bill_Clinton_01.jpg
+
+> **檔案名稱：** trump-poop.webp
+> **圖像作者：** Gage Skidmore from Surprise, AZ, United States of America
+> **圖像授權：** CC BY-SA 2.0
+> **圖源連結：** https://commons.wikimedia.org/wiki/File:Donald_Trump_(53299404971).jpg
+
+> **檔案名稱：** trump2025.webp
+> **圖像作者：** Daniel Torok     
+> **圖像授權：** 公有領域
+> **圖源連結：** https://commons.wikimedia.org/wiki/File:Official_Presidential_Portrait_of_President_Donald_J._Trump_(2025).jpg
+
+> **檔案名稱：** trump2017.webp
+> **圖像作者：** Shealeah Craighead (1976–)    
+> **圖像授權：** 公有領域
+> **圖源連結：** https://commons.wikimedia.org/wiki/File:Donald_Trump_official_portrait.jpg
+
+（其餘待補，請稍後再來）
+[[include :scp-zh-tr:component:license-box-end]]
