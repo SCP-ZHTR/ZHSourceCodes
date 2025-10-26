@@ -65,6 +65,7 @@ color: #dd7711 !important;
 > @@ @@ [#cryptozoology 神秘動物學部]
 > @@ @@ [#decommissioning-dept 廢除部]
 > @@ @@ [#deletions 刪除部]
+> @@ @@ [#entomology 昆蟲學部]
 > @@ @@ [#ettra 潛在威脅戰術應對機構]
 > @@ @@ [#fire-suppression-dept 火勢遏阻部]
 > @@ @@ [#miscommunications 誤傳部]
@@ -236,6 +237,21 @@ color: #dd7711 !important;
 ,,[#toc 回到頁首],,
 [[/div]]
 [[/div]]
+
+[[# entomology]]
+[[div class="content-panel standalone series" style="background-color: #FFFFFF;"]]
++ [[[*department-of-entomology-hub|昆蟲學部]]]
+[[f>image https://scp-sandbox-3.wdfiles.com/local--files/collab%3Adepartment-of-entomology/ento%20logo%20test.png width="100px"]]
+
+**概述：** 昆蟲學部收容、研究甚至運用異常昆蟲。該部門總部位於Site-95，與植物學部以及真菌學部共事。昆蟲學部規模較小，資金經常不足，但在多個分區負責人的領導下仍努力做到最好。
+
+儘管經常遭到其他部門忽視，昆蟲學部仍在處理他人不願處理的異常上發揮重大作用，而且通常還會用上非常規的手段。
+
+[[div style="text-align:right"]]
+,,[#toc 回到頁首],,
+[[/div]]
+[[/div]]
+
 
 [[# ettra]]
 [[div class="content-panel standalone series" style="background-color: #FFFFFF;"]]
