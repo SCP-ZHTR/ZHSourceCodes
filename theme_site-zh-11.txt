@@ -37,8 +37,9 @@
 {{@@[[include :scp-zh-tr:theme:bedrock]]@@
 @@[[include :scp-zh-tr:theme:site-zh-11]]@@}}
 
-（暗色模式）
-{{@@[[include :scp-zh-tr:theme:site-zh-11 dark=a]]@@}}
+（暗色模式 - [http://scp-zh-tr.wikidot.com/theme-site-zh-11-dark-demo 預覽]）
+{{@@[[include :scp-zh-tr:theme:bedrock]]@@
+@@[[include :scp-zh-tr:theme:site-zh-11 dark=a]]@@}}
 [[/div]]
 
 @@ @@
