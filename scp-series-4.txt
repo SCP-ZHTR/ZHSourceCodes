@@ -1015,7 +1015,7 @@
 * [[[SCP-3961]]] - Professor Taft
 * [[[SCP-3962]]] - Agasesdi's Gift
 * [[[SCP-3963]]] - I Contain Multitudes
-* [[[SCP-3964]]] - Suicide Staircase
+* [[[SCP-3964]]] - 自殺階梯
 * [[[SCP-3965]]] - 燭龍
 * [[[SCP-3966]]] - Falling Out
 * [[[SCP-3967]]] - Paul the Living Balloon
