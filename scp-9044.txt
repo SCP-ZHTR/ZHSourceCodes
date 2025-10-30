@@ -1,0 +1,437 @@
+[[include component:scp-meta-title-hiding css-style=classic]]
+[[include :scp-wiki:theme:dark]]
+[[module CSS]]
+
+html {
+   -webkit-filter: grayscale(1); /* Older Webkit */
+   -webkit-filter: grayscale(100%);
+   -moz-filter: grayscale(100%);
+   -ms-filter: grayscale(100%);
+   -o-filter: grayscale(100%);
+   filter: grayscale(100%);
+   background-color: white;
+}
+
+.page-tags > span::after {
+
+  content: "血濃於水";
+  color: #b01;
+}
+
+.page-tags > span:not(:has(a:hover)):hover {
+  cursor: pointer;
+  text-decoration: underline;
+  text-decoration-color: #b01;
+}
+
+[[/module]]
+[[include info:start]]
+[[=]]
+
+...
+...
+...
+...
+（[[span class="ruby"]]你唯一想做的就是回到那裡[[span class="rt"]]All You Are Going to Want to do is Get Back There[[/span]][[/span]] - The Caretaker）
+
+SCP-9044 - 有人的房子
+原文：[https://scp-wiki.wikidot.com/scp-9044 SCP-9044]
+作者：[[*user Troutmaskreplica]]
+譯者：[[*user Halewen]]
+
+[https://scp-wiki.wikidot.com/trouts-authorpage Troutmaskreplica的作者頁]
+[[/=]]
+[[include info:end]]
+
+
+[[include component:image-block | name=http://scp-sandbox-3.wikidot.com/local--files/troutmaskreplica/dark.jpg | caption={{SCP-9044}} | width=300px]]
+
+**項目編號：**SCP-9044
+
+**項目等級：**Trinity（科學上來說）
+
+**特殊收容措施：**已在SCP-9044所在的房屋周圍建立由鎖鏈連接的圍欄。
+
+**描述：**SCP-9044是一道走廊。SCP-9044位於維吉尼亞州，8541███████路的一棟郊區房屋內。目前仍未有人抵達SCP-9044的終點。打開SCP-9044尾端的門總是會出現另一間房間，連接著另一扇門。房子各處皆可聽見刮擦聲。
+
+SCP-9044最初在Lorey家族中的每位成員消失後被發現。目前認為異常在喬遷派對的過程中出現。所有27名參與者跟著成員進入。他們的交通工具仍停在房屋外面。
+
+三個月後，附近的11名居民也同樣消失。當地警方報告顯示他們已搬遷。他們的信件自那之後已被蒐集並棄置，以免導致雜亂。
+
+[[=]]
+[[div class="blockquote"]]
+
+= **探索紀錄**
+----
+**日期：**2000年4月15日
+
+**筆記：**SCP-9044內的人員在過了200公尺後便無法直接通訊。因此，一名自願者已植入心靈感應溝通裝置，並能夠從角膜直接傳遞圖片至基金會伺服器。以下圖片完全皆未修改，每張照片間隔30分鐘。
+----
+
+[開始記錄]
+
+-----
+@@ @@
+@@ @@
+[[image https://scp-sandbox-3.wdfiles.com/local--files/troutmaskreplica/entrance.png width="600px" align=center]]
+
+{{00:00}}
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+[[image https://scp-sandbox-3.wdfiles.com/local--files/troutmaskreplica/imhappytoseeyouagain width="600px" align=center]]
+
+{{00:30}}
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+[[image https://scp-sandbox-3.wdfiles.com/local--files/troutmaskreplica/followme width="600px" align=center]]
+
+{{01:00}}
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+[[image https://scp-sandbox-3.wdfiles.com/local--files/troutmaskreplica/ithasbeensolong width="600px" align=center]]
+
+{{01:30}}
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+[[image https://scp-sandbox-3.wdfiles.com/local--files/troutmaskreplica/doyourememberme width="600px" align=center]]
+
+{{02:00}}
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+[[image https://scp-sandbox-3.wdfiles.com/local--files/troutmaskreplica/irememberyou width="600px" align=center]]
+
+{{02:30}}
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+[[image https://scp-sandbox-3.wdfiles.com/local--files/troutmaskreplica/Youresocute width="600px" align=center]]
+
+{{03:00}}
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+[[image https://scp-sandbox-3.wdfiles.com/local--files/troutmaskreplica/howcozy width="600px" align=center]]
+
+{{03:30}}
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+[[image https://scp-sandbox-3.wdfiles.com/local--files/troutmaskreplica/keepgoing.png width="600px" align=center]]
+
+{{04:00}}
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+[[image https://scp-sandbox-3.wdfiles.com/local--files/troutmaskreplica/Doyouseeit width="600px" align=center]]
+
+{{04:30}}
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+[[image https://scp-sandbox-3.wdfiles.com/local--files/troutmaskreplica/turnaround width="600px" align=center]]
+
+{{05:00}}
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+[[image https://scp-sandbox-3.wdfiles.com/local--files/troutmaskreplica/sobeautiful width="600px" align=center]]
+
+{{05:30}}
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+[[image https://scp-sandbox-3.wdfiles.com/local--files/troutmaskreplica/youresoclose width="600px" align=center]]
+
+{{06:00}}
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+[[image https://scp-sandbox-3.wdfiles.com/local--files/troutmaskreplica/Itscold width="600px" align=center]]
+
+{{07:30}}
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+[[image https://scp-sandbox-3.wdfiles.com/local--files/troutmaskreplica/doyouseeme width="600px" align=center]]
+
+{{08:00}}
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+[[image https://scp-sandbox-3.wdfiles.com/local--files/troutmaskreplica/imbeautiful width="600px" align=center]]
+
+{{08:30}}
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+[[image https://scp-sandbox-3.wdfiles.com/local--files/troutmaskreplica/lookatthelights width="600px" align=center]]
+
+{{09:00}}
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+[[image https://scp-sandbox-3.wdfiles.com/local--files/troutmaskreplica/hearmyvoice width="600px" align=center]]
+
+{{09:00}}
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+[[image https://scp-sandbox-3.wdfiles.com/local--files/troutmaskreplica/Feelmyfingers width="600px" align=center]]
+
+{{09:00}}
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+[[image https://scp-sandbox-3.wdfiles.com/local--files/troutmaskreplica/yourealmosthere.png width="600px" align=center]]
+
+{{09:00}}
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+[[image https://scp-sandbox-3.wdfiles.com/local--files/troutmaskreplica/dontbeafraid width="600px" align=center]]
+
+{{09:00}}
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+[[image https://scp-sandbox-3.wdfiles.com/local--files/troutmaskreplica/welcomehome width="600px" align=center]]
+
+{{09:00}}
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+----
+
+[紀錄結束]
+
+----
+@@ @@
+@@ @@
+[[/div]]
+[[/=]]
+@@ @@
+@@ @@
+@@ @@
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[SCP-9043]]] | SCP-9044 | [[[SCP-9045]]] >>
+[[/=]]
+[[/div]]
+
+[[include :scp-zh-tr:component:license-box]]
+=====
+> **Filename:** dark.jpg
+> **Name:** The Corridor
+> **Author:** Aragonofdoros
+> **License:** Creative Commons Attribution-Share Alike 3.0
+> **Source Link:** https://commons.wikimedia.org/wiki/File:The_Corridor.jpg
+
+> **Filename:** entrance
+> **Name:** Empty Room (Unsplash)
+> **Author:** Stephen Caserta
+> **License:** Creative Commons CC0 1.0 Universal Public Domain
+> **Source Link:** https://commons.wikimedia.org/wiki/File:Empty_Room_(Unsplash).jpg
+
+> **Filename:** imhappytoseeyou
+> **Name:** Level 8,945
+> **Author:** Backrooms Guy7BOI
+> **License:** Creative Commons Attribution-Share Alike 4.0 International
+> **Source Link:** https://commons.wikimedia.org/wiki/File:Level_8,945.jpg
+
+> **Filename:** followme
+> **Name:** Liminal space flipped
+> **Author:** WyattLK
+> **License:** Creative Commons CC0 1.0 Universal Public Domain
+> **Source Link:** https://commons.wikimedia.org/wiki/File:Liminal_space_flipped.jpg
+
+> **Filename:** itsbeensolong
+> **Name:** Empty bedroom (4103505582)
+> **Author:** AnemoneProjectors
+> **License:** Creative Commons Attribution-Share Alike 2.0 Generic
+> **Source Link:** https://commons.wikimedia.org/wiki/File:Empty_bedroom_(4103505582).jpg
+
+> **Filename:** doyourememberme
+> **Name:** Vogtsbauernhof - Bedroom 02
+> **Author:** H. Zell
+> **License:** Creative Commons Attribution-Share Alike 2.0 Generic
+> **Source Link:**  https://commons.wikimedia.org/wiki/File:Vogtsbauernhof_-_Bedroom_02.JPG
+
+> **Filename:** irememberyou
+> **Name:** Washington Square Mall
+> **Author:** Miles Millhouse
+> **License:** Public Domain
+> **Source Link:** https://commons.wikimedia.org/wiki/File:Washington_Square_Mall.jpg
+
+> **Filename:** Youresocute
+> **Name:** Drying a carpet with a commercial specialty blower with built-in heater
+> **Author:** Environmental Protection Agency
+> **License:** Public Domain
+> **Source Link:** https://commons.wikimedia.org/wiki/File:Drying_a_carpet_with_a_commercial_specialty_blower_with_built-in_heater.jpg
+
+> **Filename:** howcozy
+> **Name:** Dsc00159
+> **Author:** Bill Magritz
+> **License:** Creative Commons CC0 1.0 Universal Public Domain
+> **Source Link:** https://commons.wikimedia.org/wiki/File:Dsc00159.jpg_B%E1%BB%A9c_%E1%BA%A3nh_th%E1%BB%A9_2_trong_2_b%E1%BB%A9c_%E1%BA%A3nh_ngu%E1%BB%93n_g%E1%BB%91c_c%E1%BB%A7a_The_Backrooms.jpg
+
+> **Filename:** keepgoing
+> **Name:** Fort Loupé de Rennemoulin 5438
+> **Author:** Koutto
+> **License:** Creative Commons Attribution-Share Alike 4.0 International
+> **Source Link:** https://commons.wikimedia.org/wiki/File:Fort_Loup%C3%A9_de_Rennemoulin_5438.jpg
+
+> **Filename:** keepgoing
+> **Name:** Fort Loupé de Rennemoulin 5438
+> **Author:** Koutto
+> **License:** Creative Commons Attribution-Share Alike 4.0 International
+> **Source Link:** https://commons.wikimedia.org/wiki/File:Fort_Loup%C3%A9_de_Rennemoulin_5438.jpg
+
+> **Filename:** doyouseeit
+> **Name:** Webster School Basement Corridor - DPLA
+> **Author:** Hennepin County Library
+> **License:** Public Domain
+> **Source Link:** https://commons.wikimedia.org/wiki/File:Fort_Loup%C3%A9_de_Rennemoulin_5438.jpg
+
+> **Filename:** turnaround
+> **Name:** Turn Around
+> **Author:** Taken by [[*user jackalrelated]]
+> **License:** Creative Commons Attribution-Share Alike 4.0
+
+> **Filename:** sobeautiful
+> **Name:** Tero Karppinen
+> **Author:** Antobattisti
+> **License:** Creative Commons Attribution-Share Alike 2.0
+> **Source Link:** https://www.flickr.com/photos/terokarppinen/53431267740
+
+> **Filename:** youresoclose
+> **Name:** Царева џамија, Фоча 004
+> **Author:** Afrodita1234
+> **License:** Creative Commons Attribution-Share Alike 3.0 Unported
+> **Source Link:** https://commons.wikimedia.org/wiki/File:%D0%A6%D0%B0%D1%80%D0%B5%D0%B2%D0%B0_%D1%9F%D0%B0%D0%BC%D0%B8%D1%98%D0%B0,_%D0%A4%D0%BE%D1%87%D0%B0_004.JPG
+
+> **Filename:** itscold
+> **Name:** Evening. Mozambique Channel (22154081854)
+> **Author:** Rod Waddington
+> **License:** Creative Commons Attribution-Share Alike 2.0 Generic
+> **Source Link:** https://commons.wikimedia.org/wiki/File:Evening._Mozambique_Channel_(22154081854).jpg
+
+> **Filename:** doyouseeme
+> **Name:** Pacific hagfish feeding 01
+> **Author:** National Oceanic and Atmospheric Administration
+> **License:** Public Domain
+> **Source Link:** https://commons.wikimedia.org/wiki/File:Pacific_hagfish_feeding_01.jpg
+
+> **Filename:** imbeautiful
+> **Name:** Insulin microtrees
+> **Author:** Antobattisti
+> **License:** Creative Commons Attribution-Share Alike 4.0 International
+> **Source Link:** https://commons.wikimedia.org/wiki/File:Insulin_microtrees.png
+
+> **Filename:** lookatthelights
+> **Name:** Beloplotov (Discharge in SF6 100Torr Plus)
+> **Author:** Dmitry Beloplotov
+> **License:** Creative Commons Attribution-Share Alike 4.0 International
+> **Source Link:** https://commons.wikimedia.org/wiki/File:Beloplotov_(Discharge_in_SF6_100Torr_Plus)_DSC06680.jpg
+
+> **Filename:** hearmyvoice
+> **Name:** Human voice spectrogram
+> **Author:** Dvortygirl, Mysid
+> **License:** Creative Commons Attribution-Share Alike 3.0 Unported
+> **Source Link:** https://commons.wikimedia.org/wiki/File:Human_voice_spectrogram.jpg
+
+> **Filename:** feelmyfingers
+> **Name:** NGC 205 spiral structure
+> **Author:** Giuseppe Donatiello
+> **License:** Creative Commons CC0 1.0 Universal Public Domain
+> **Source Link:** https://commons.wikimedia.org/wiki/File:NGC_205_spiral_structure_(31764939113).jpg
+
+> **Filename:** yourealmosthere
+> **Name:** DDC-SEM of cardiac tissue
+> **Author:** Sergio Bertazzo
+> **License:** Creative Commons Attribution-Share Alike 4.0 International
+> **Source Link:** https://commons.wikimedia.org/wiki/File:DDC-SEM_of_cardiac_tissue_-BW_-_3.jpg
+
+> **Filename:** dontbeafraid
+> **Name:** Sprites in stack of images from GMN camera
+> **Author:** Nikola
+> **License:** Creative Commons CC0 1.0 Universal Public Domain
+> **Source Link:** https://commons.wikimedia.org/wiki/File:Sprites_in_stack_of_images_from_GMN_camera.jpg
+
+> **Filename:** welcomehome
+> **Name:** Red Sprite
+> **Author:** Matt Heavner
+> **License:** Public Domain
+> **Source Link:** https://commons.wikimedia.org/wiki/File:Red_sprite.jpg
+=====
+[[include :scp-zh-tr:component:license-box-end]]
