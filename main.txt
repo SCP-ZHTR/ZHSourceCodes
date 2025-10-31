@@ -25,48 +25,44 @@
 [[include fragment:main-page-rss]]
 
 [[include fragment:new-front-page-features
-|scptitle=SCP-ZH-668 - 「廣內」
-|scpslug=scp-zh-668
-|scpby=[[user Fallen_Truth]] 
+|scptitle=SCP-ZH-890 - 距離3305.27公里：究竟涅槃
+|scpslug=scp-zh-890
+|scpby=[[user Reverberate_a]] 
 |scpselector=[[user Kikunai]] 
-|scpblurb=SCP-ZH-668周遭250公尺的山林已由警戒線封鎖，並掛有告示牌以「地質脆弱易崩塌」為由導引民眾離開。
+|scpblurb=苦啊，只要感受不到悲傷，人類就能快樂嗎？
 
 
-|taletitle=謝幕的顏色
-|taleslug=color-of-take-a-bow
-|taleby=[[user Reverberate_a]] 
+|taletitle=「報社」發現與調查史（2016-2018）
+|taleslug=history-of-discovery-and-investigation-of-publisher
+|taleby=[[user Frederica Bernkastel]] 
 |taleselector=[[user Kikunai]] 
-|taleblurb=畢竟美好的遠方，勢必伴隨著絕對的光亮。
+|taleblurb=我們以先前發生的那些問題──火災、死亡車禍、那些數不過來「無從查起」的線索──入手。我們強烈懷疑「報社」本身即存在異常性，它不但影響甚至產生失落媒體，它自己也在變成失落媒體。
 
-那裡，不會再有惡夢。
-
-|transtitle=SCP-8513 - 不得釋放
-|transslug=scp-8513
+|transtitle=SCP-9935 又一個下午
+|transslug=scp-9935
 |transby=[[user Frederica Bernkastel]] 
-|transauthor=[[user J Dune]] 
+|transauthor=[[user djkaktus]] 
 |transselector=[[user Frederica Bernkastel]] 
-|transblurb= 基金會沒有任何計畫能應付即將在明日復活的910億名人類，但我們相信他們中的絕大多數無法自己從墓裡逃出。
+|transblurb= 時間一分一秒過去，我們都祈禱著趕快讓我們贏或他們贏，這樣大家就可以回家了，但兩支球隊都沒能獲勝。
 
 
-|rstitle=項目企劃書 2021-39：《踏入克蘇魯恐怖的世界》
-|rsslug=pot-of-greed-you-kids-love-yu-gi-oh-innit
-|rsby=[[user Adev Drafaski]] 
+|rstitle=沙甸魚從地裏鑽了出來
+|rsslug=a-sardine-grows-from-the-soil
+|rsby=[[user Kikunai]] 
 |rsselector=[[user Dr V Valentine]] 
-|rsblurb=那是隻熊，這是無庸置疑的。
-
-它的臉，它的毛皮，它的四肢，它行走的方式，這跟記憶中的熊如出一轍。
+|rsblurb=我很久以前已經覺得燈塔只是一個海市蜃樓 —— 謬里拉在夢神開端已經存在，大家都把它當作旅程的終點，但現今為止又有多少人真的成功到達？
 ]]
 
 [[include fragment:front-page-artist-showcase
-|artblurb=LuLu_Lucifelle, Hector-ZH-TR, Haru Ken
+|artblurb=Kikunai, ting129, k1s10r0db00ne
 
 [!-- SLIDESHOW IMAGE URLS. IF IT'S ONLY ONE IMAGE STICK IT IN ALL THREE--]
 
-|art1url= https://i.imgur.com/5j0kcjg.png
+|art1url= https://i.imgur.com/WfKbub4.pngstyle=%22width:100%;%22
 
-|art2url= https://i.imgur.com/YAW0JBm.png
+|art2url= https://i.imgur.com/NR7i0Ww.jpg
 
-|art3url= https://i.imgur.com/hiKqGYg.jpg]]
+|art3url= https://imgur.com/DlCawut.png]]
 [[/div]]
 
 ~~~~
