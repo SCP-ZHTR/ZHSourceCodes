@@ -5,7 +5,6 @@
 :root:lang(zh) {
     --wanderer-green: 34, 139, 34;
     --wanderer-green-light: 184, 224, 184;
-    --header-title: "流浪者圖書館";
     --header-subtitle: " ";
     --accent-color: var(--wanderer-green);
     --bg-color2: var(--wanderer-green-light); 
@@ -24,7 +23,7 @@
 原為本人的[https://archiveofourown.org/works/66584098 AO3同名創作]
 [[include info:end]]
 
-[[image https://i.imgur.com/tIQN8QS.png]]
+[[image https://images2.imgbox.com/f9/d0/wDeKaihm_o.png]]
 
 @@ @@
 @@ @@
