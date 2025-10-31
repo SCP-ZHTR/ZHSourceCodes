@@ -15,7 +15,7 @@ html {
 .page-tags > span::after {
 
   content: "血濃於水";
-  color: #b01;
+  color: #686868;
 }
 
 .page-tags > span:not(:has(a:hover)):hover {
@@ -48,15 +48,15 @@ SCP-9044 - 有人的房子
 
 **項目編號：**SCP-9044
 
-**項目等級：**Trinity（科學上來說）
+**項目等級：**[[span class="ruby"]]Trinity[[span class="rt"]]三位一體[[/span]][[/span]]（科學上來說）
 
 **特殊收容措施：**已在SCP-9044所在的房屋周圍建立由鎖鏈連接的圍欄。
 
 **描述：**SCP-9044是一道走廊。SCP-9044位於維吉尼亞州，8541███████路的一棟郊區房屋內。目前仍未有人抵達SCP-9044的終點。打開SCP-9044尾端的門總是會出現另一間房間，連接著另一扇門。房子各處皆可聽見刮擦聲。
 
-SCP-9044最初在Lorey家族中的每位成員消失後被發現。目前認為異常在喬遷派對的過程中出現。所有27名參與者跟著成員進入。他們的交通工具仍停在房屋外面。
+SCP-9044於Lorey家族後的所有成員消失後首次被發現。目前認為異常在喬遷派對的過程中出現。所有27名參與者跟著成員進入。他們的交通工具仍停在房屋外面。
 
-三個月後，附近的11名居民也同樣消失。當地警方報告顯示他們已搬遷。他們的信件自那之後已被蒐集並棄置，以免導致雜亂。
+三個月後，附近的11名居民也同樣消失。當地警方報告顯示他們已搬遷。為防止郵件堆積，他們的信件自那之後已被收集並棄置。
 
 [[=]]
 [[div class="blockquote"]]
@@ -291,50 +291,50 @@ SCP-9044最初在Lorey家族中的每位成員消失後被發現。目前認為�
 
 [[include :scp-zh-tr:component:license-box]]
 =====
-> **檔案名稱：**[[span class="ruby"]]dark[[span class="rt"]]黑暗[[/span]][[/span]].jpg
-> **圖像名稱：**[[span class="ruby"]]The Corridor[[span class="rt"]]走廊[[/span]][[/span]]
+> **檔案名稱：**[[span class="ruby"]]dark.jpg[[span class="rt"]]黑暗.jpg[[/span]][[/span]]
+> **圖像名稱：**The Corridor
 > **圖像作者：**Aragonofdoros
 > **圖像授權：**Creative Commons Attribution-Share Alike 3.0
 > **圖像來源：** https://commons.wikimedia.org/wiki/File:The_Corridor.jpg
 
 > **檔案名稱：**[[span class="ruby"]]entrance[[span class="rt"]]入口[[/span]][[/span]]
-> **圖像名稱：**[[span class="ruby"]]Empty Room (Unsplash)[[span class="rt"]]空房（未潑出）[[/span]][[/span]]
+> **圖像名稱：**Empty Room (Unsplash)
 > **圖像作者：**Stephen Caserta
 > **圖像授權：**Creative Commons CC0 1.0 Universal Public Domain
 > **圖像來源：** https://commons.wikimedia.org/wiki/File:Empty_Room_(Unsplash).jpg
 
 > **檔案名稱：**[[span class="ruby"]]imhappytoseeyou[[span class="rt"]]很高興見到你[[/span]][[/span]]
-> **圖像名稱：**[[span class="ruby"]]Level 8,945[[span class="rt"]]8,945層[[/span]][[/span]]
+> **圖像名稱：**Level 8,945
 > **圖像作者：**Backrooms Guy7BOI
 > **圖像授權：**Creative Commons Attribution-Share Alike 4.0 International
 > **圖像來源：** https://commons.wikimedia.org/wiki/File:Level_8,945.jpg
 
 > **檔案名稱：**[[span class="ruby"]]followme[[span class="rt"]]跟著我[[/span]][[/span]]
-> **圖像名稱：**[[span class="ruby"]]Liminal space flipped[[span class="rt"]]翻轉的閾限空間[[/span]][[/span]]
+> **圖像名稱：**Liminal space flipped
 > **圖像作者：**WyattLK
 > **圖像授權：**Creative Commons CC0 1.0 Universal Public Domain
 > **圖像來源：** https://commons.wikimedia.org/wiki/File:Liminal_space_flipped.jpg
 
 > **檔案名稱：**[[span class="ruby"]]itsbeensolong[[span class="rt"]]已經過好久了[[/span]][[/span]]
-> **圖像名稱：**[[span class="ruby"]]Empty bedroom[[span class="rt"]]空臥室[[/span]][[/span]] (4103505582)
+> **圖像名稱：**Empty bedroom
 > **圖像作者：**AnemoneProjectors
 > **圖像授權：**Creative Commons Attribution-Share Alike 2.0 Generic
 > **圖像來源：** https://commons.wikimedia.org/wiki/File:Empty_bedroom_(4103505582).jpg
 
 > **檔案名稱：**[[span class="ruby"]]doyourememberme[[span class="rt"]]你記得我嗎[[/span]][[/span]]
-> **圖像名稱：**[[span class="ruby"]]Vogtsbauernhof - Bedroom 02[[span class="rt"]]福格茨農場 - 臥室02[[/span]][[/span]]
+> **圖像名稱：**Vogtsbauernhof - Bedroom 02
 > **圖像作者：**H. Zell
 > **圖像授權：**Creative Commons Attribution-Share Alike 2.0 Generic
 > **圖像來源：**  https://commons.wikimedia.org/wiki/File:Vogtsbauernhof_-_Bedroom_02.JPG
 
 > **檔案名稱：**[[span class="ruby"]]irememberyou[[span class="rt"]]我記得你[[/span]][[/span]]
-> **圖像名稱：**[[span class="ruby"]]Washington Square Mall[[span class="rt"]]華盛頓廣場[[/span]][[/span]]
+> **圖像名稱：**Washington Square Mall
 > **圖像作者：**Miles Millhouse
 > **圖像授權：**Public Domain
 > **圖像來源：** https://commons.wikimedia.org/wiki/File:Washington_Square_Mall.jpg
 
 > **檔案名稱：**[[span class="ruby"]]Youresocute[[span class="rt"]]你好可愛[[/span]][[/span]]
-> **圖像名稱：**[[span class="ruby"]]Drying a carpet with a commercial specialty blower with built-in heater[[span class="rt"]]用內建加熱器的商用專業送風機吹乾地毯[[/span]][[/span]]
+> **圖像名稱：**Drying a carpet with a commercial specialty blower with built-in heater
 > **圖像作者：**Environmental Protection Agency
 > **圖像授權：**Public Domain
 > **圖像來源：** https://commons.wikimedia.org/wiki/File:Drying_a_carpet_with_a_commercial_specialty_blower_with_built-in_heater.jpg
@@ -352,13 +352,13 @@ SCP-9044最初在Lorey家族中的每位成員消失後被發現。目前認為�
 > **圖像來源：** https://commons.wikimedia.org/wiki/File:Fort_Loup%C3%A9_de_Rennemoulin_5438.jpg
 
 > **檔案名稱：**[[span class="ruby"]]doyouseeit[[span class="rt"]]你看到了嗎[[/span]][[/span]]
-> **圖像名稱：**[[span class="ruby"]]Webster School Basement Corridor - DPLA[[span class="rt"]]韋伯斯特大學地下室走廊 - 美國數位公共圖書館[[/span]][[/span]]
+> **圖像名稱：**Webster School Basement Corridor - DPLA
 > **圖像作者：**Hennepin County Library
 > **圖像授權：**Public Domain
 > **圖像來源：** https://commons.wikimedia.org/wiki/File:Fort_Loup%C3%A9_de_Rennemoulin_5438.jpg
 
 > **檔案名稱：**[[span class="ruby"]]turnaround[[span class="rt"]]轉身[[/span]][[/span]]
-> **圖像名稱：**[[span class="ruby"]]Turn Around[[span class="rt"]]轉身[[/span]][[/span]]
+> **圖像名稱：**Turn Around
 > **圖像作者：**Taken by [[*user jackalrelated]]
 > **圖像授權：**Creative Commons Attribution-Share Alike 4.0
 
@@ -375,55 +375,55 @@ SCP-9044最初在Lorey家族中的每位成員消失後被發現。目前認為�
 > **圖像來源：** https://commons.wikimedia.org/wiki/File:%D0%A6%D0%B0%D1%80%D0%B5%D0%B2%D0%B0_%D1%9F%D0%B0%D0%BC%D0%B8%D1%98%D0%B0,_%D0%A4%D0%BE%D1%87%D0%B0_004.JPG
 
 > **檔案名稱：**[[span class="ruby"]]itscold[[span class="rt"]]好冷[[/span]][[/span]]
-> **圖像名稱：**[[span class="ruby"]]Evening. Mozambique Channel[[span class="rt"]]黃昏，莫三比克海峽[[/span]][[/span]] (22154081854) 
+> **圖像名稱：**Evening. Mozambique Channel
 > **圖像作者：**Rod Waddington
 > **圖像授權：**Creative Commons Attribution-Share Alike 2.0 Generic
 > **圖像來源：** https://commons.wikimedia.org/wiki/File:Evening._Mozambique_Channel_(22154081854).jpg
 
 > **檔案名稱：**[[span class="ruby"]]doyouseeme[[span class="rt"]]你看到我了嗎[[/span]][[/span]]
-> **圖像名稱：**[[span class="ruby"]]Pacific hagfish feeding 01[[span class="rt"]]太平洋黏盲鰻餵食 01[[/span]][[/span]] 
+> **圖像名稱：**Pacific hagfish feeding 01
 > **圖像作者：**National Oceanic and Atmospheric Administration
 > **圖像授權：**Public Domain
 > **圖像來源：** https://commons.wikimedia.org/wiki/File:Pacific_hagfish_feeding_01.jpg
 
 > **檔案名稱：**[[span class="ruby"]]imbeautiful[[span class="rt"]]我很美[[/span]][[/span]]
-> **圖像名稱：**[[span class="ruby"]]Insulin microtrees[[span class="rt"]]胰島素微型樹[[/span]][[/span]]
+> **圖像名稱：**Insulin microtrees
 > **圖像作者：**Antobattisti
 > **圖像授權：**Creative Commons Attribution-Share Alike 4.0 International
 > **圖像來源：** https://commons.wikimedia.org/wiki/File:Insulin_microtrees.png
 
 > **檔案名稱：**[[span class="ruby"]]lookatthelights[[span class="rt"]]看那些光[[/span]][[/span]]
-> **圖像名稱：**[[span class="ruby"]]Beloplotov (Discharge in SF6 100Torr Plus)[[span class="rt"]]莫洛托夫雞尾酒（以100托以上的壓力釋放六氟化硫）[[/span]][[/span]]
+> **圖像名稱：**Beloplotov (Discharge in SF6 100Torr Plus)
 > **圖像作者：**Dmitry Beloplotov
 > **圖像授權：**Creative Commons Attribution-Share Alike 4.0 International
 > **圖像來源：** https://commons.wikimedia.org/wiki/File:Beloplotov_(Discharge_in_SF6_100Torr_Plus)_DSC06680.jpg
 
 > **檔案名稱：**[[span class="ruby"]]hearmyvoice[[span class="rt"]]聽聽我的聲音[[/span]][[/span]]
-> **圖像名稱：**[[span class="ruby"]]Human voice spectrogram[[span class="rt"]]人聲聲譜圖[[/span]][[/span]]
+> **圖像名稱：**Human voice spectrogram
 > **圖像作者：**Dvortygirl, Mysid
 > **圖像授權：**Creative Commons Attribution-Share Alike 3.0 Unported
 > **圖像來源：** https://commons.wikimedia.org/wiki/File:Human_voice_spectrogram.jpg
 
 > **檔案名稱：**[[span class="ruby"]]feelmyfingers[[span class="rt"]]感受我的手指[[/span]][[/span]]
-> **圖像名稱：**[[span class="ruby"]]NGC 205 spiral structure[[span class="rt"]]NGC 205螺旋結構[[/span]][[/span]]
+> **圖像名稱：**NGC 205 spiral structure
 > **圖像作者：**Giuseppe Donatiello
 > **圖像授權：**Creative Commons CC0 1.0 Universal Public Domain
 > **圖像來源：** https://commons.wikimedia.org/wiki/File:NGC_205_spiral_structure_(31764939113).jpg
 
 > **檔案名稱：**[[span class="ruby"]]yourealmosthere[[span class="rt"]]你快到了[[/span]][[/span]]
-> **圖像名稱：**[[span class="ruby"]]DDC-SEM of cardiac tissue[[span class="rt"]]DDC掃描電子顯微鏡下的心臟組織[[/span]][[/span]]
+> **圖像名稱：**DDC-SEM of cardiac tissue
 > **圖像作者：**Sergio Bertazzo
 > **圖像授權：**Creative Commons Attribution-Share Alike 4.0 International
 > **圖像來源：** https://commons.wikimedia.org/wiki/File:DDC-SEM_of_cardiac_tissue_-BW_-_3.jpg
 
 > **檔案名稱：**[[span class="ruby"]]dontbeafraid[[span class="rt"]]別害怕[[/span]][[/span]]
-> **圖像名稱：**[[span class="ruby"]]Sprites in stack of images from GMN camera[[span class="rt"]]全球隕石監控網路的圖片疊加後出現的精靈[[/span]][[/span]]
+> **圖像名稱：**Sprites in stack of images from GMN camera
 > **圖像作者：**Nikola
 > **圖像授權：**Creative Commons CC0 1.0 Universal Public Domain
 > **圖像來源：** https://commons.wikimedia.org/wiki/File:Sprites_in_stack_of_images_from_GMN_camera.jpg
 
 > **檔案名稱：**[[span class="ruby"]]welcomehome[[span class="rt"]]歡迎回家[[/span]][[/span]]
-> **圖像名稱：**[[span class="ruby"]]Red Sprite[[span class="rt"]]紅精靈[[/span]][[/span]]
+> **圖像名稱：**Red Sprite
 > **圖像作者：**Matt Heavner
 > **圖像授權：**Public Domain
 > **圖像來源：** https://commons.wikimedia.org/wiki/File:Red_sprite.jpg
