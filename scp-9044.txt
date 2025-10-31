@@ -291,147 +291,141 @@ SCP-9044最初在Lorey家族中的每位成員消失後被發現。目前認為�
 
 [[include :scp-zh-tr:component:license-box]]
 =====
-> **Filename:** dark.jpg
-> **Name:** The Corridor
-> **Author:** Aragonofdoros
-> **License:** Creative Commons Attribution-Share Alike 3.0
-> **Source Link:** https://commons.wikimedia.org/wiki/File:The_Corridor.jpg
+> **檔案名稱：**[[span class="ruby"]]dark[[span class="rt"]]黑暗[[/span]][[/span]].jpg
+> **圖像名稱：**[[span class="ruby"]]The Corridor[[span class="rt"]]走廊[[/span]][[/span]]
+> **圖像作者：**Aragonofdoros
+> **圖像授權：**Creative Commons Attribution-Share Alike 3.0
+> **圖像來源：** https://commons.wikimedia.org/wiki/File:The_Corridor.jpg
 
-> **Filename:** entrance
-> **Name:** Empty Room (Unsplash)
-> **Author:** Stephen Caserta
-> **License:** Creative Commons CC0 1.0 Universal Public Domain
-> **Source Link:** https://commons.wikimedia.org/wiki/File:Empty_Room_(Unsplash).jpg
+> **檔案名稱：**[[span class="ruby"]]entrance[[span class="rt"]]入口[[/span]][[/span]]
+> **圖像名稱：**[[span class="ruby"]]Empty Room (Unsplash)[[span class="rt"]]空房（未潑出）[[/span]][[/span]]
+> **圖像作者：**Stephen Caserta
+> **圖像授權：**Creative Commons CC0 1.0 Universal Public Domain
+> **圖像來源：** https://commons.wikimedia.org/wiki/File:Empty_Room_(Unsplash).jpg
 
-> **Filename:** imhappytoseeyou
-> **Name:** Level 8,945
-> **Author:** Backrooms Guy7BOI
-> **License:** Creative Commons Attribution-Share Alike 4.0 International
-> **Source Link:** https://commons.wikimedia.org/wiki/File:Level_8,945.jpg
+> **檔案名稱：**[[span class="ruby"]]imhappytoseeyou[[span class="rt"]]很高興見到你[[/span]][[/span]]
+> **圖像名稱：**[[span class="ruby"]]Level 8,945[[span class="rt"]]8,945層[[/span]][[/span]]
+> **圖像作者：**Backrooms Guy7BOI
+> **圖像授權：**Creative Commons Attribution-Share Alike 4.0 International
+> **圖像來源：** https://commons.wikimedia.org/wiki/File:Level_8,945.jpg
 
-> **Filename:** followme
-> **Name:** Liminal space flipped
-> **Author:** WyattLK
-> **License:** Creative Commons CC0 1.0 Universal Public Domain
-> **Source Link:** https://commons.wikimedia.org/wiki/File:Liminal_space_flipped.jpg
+> **檔案名稱：**[[span class="ruby"]]followme[[span class="rt"]]跟著我[[/span]][[/span]]
+> **圖像名稱：**[[span class="ruby"]]Liminal space flipped[[span class="rt"]]翻轉的閾限空間[[/span]][[/span]]
+> **圖像作者：**WyattLK
+> **圖像授權：**Creative Commons CC0 1.0 Universal Public Domain
+> **圖像來源：** https://commons.wikimedia.org/wiki/File:Liminal_space_flipped.jpg
 
-> **Filename:** itsbeensolong
-> **Name:** Empty bedroom (4103505582)
-> **Author:** AnemoneProjectors
-> **License:** Creative Commons Attribution-Share Alike 2.0 Generic
-> **Source Link:** https://commons.wikimedia.org/wiki/File:Empty_bedroom_(4103505582).jpg
+> **檔案名稱：**[[span class="ruby"]]itsbeensolong[[span class="rt"]]已經過好久了[[/span]][[/span]]
+> **圖像名稱：**[[span class="ruby"]]Empty bedroom[[span class="rt"]]空臥室[[/span]][[/span]] (4103505582)
+> **圖像作者：**AnemoneProjectors
+> **圖像授權：**Creative Commons Attribution-Share Alike 2.0 Generic
+> **圖像來源：** https://commons.wikimedia.org/wiki/File:Empty_bedroom_(4103505582).jpg
 
-> **Filename:** doyourememberme
-> **Name:** Vogtsbauernhof - Bedroom 02
-> **Author:** H. Zell
-> **License:** Creative Commons Attribution-Share Alike 2.0 Generic
-> **Source Link:**  https://commons.wikimedia.org/wiki/File:Vogtsbauernhof_-_Bedroom_02.JPG
+> **檔案名稱：**[[span class="ruby"]]doyourememberme[[span class="rt"]]你記得我嗎[[/span]][[/span]]
+> **圖像名稱：**[[span class="ruby"]]Vogtsbauernhof - Bedroom 02[[span class="rt"]]福格茨農場 - 臥室02[[/span]][[/span]]
+> **圖像作者：**H. Zell
+> **圖像授權：**Creative Commons Attribution-Share Alike 2.0 Generic
+> **圖像來源：**  https://commons.wikimedia.org/wiki/File:Vogtsbauernhof_-_Bedroom_02.JPG
 
-> **Filename:** irememberyou
-> **Name:** Washington Square Mall
-> **Author:** Miles Millhouse
-> **License:** Public Domain
-> **Source Link:** https://commons.wikimedia.org/wiki/File:Washington_Square_Mall.jpg
+> **檔案名稱：**[[span class="ruby"]]irememberyou[[span class="rt"]]我記得你[[/span]][[/span]]
+> **圖像名稱：**[[span class="ruby"]]Washington Square Mall[[span class="rt"]]華盛頓廣場[[/span]][[/span]]
+> **圖像作者：**Miles Millhouse
+> **圖像授權：**Public Domain
+> **圖像來源：** https://commons.wikimedia.org/wiki/File:Washington_Square_Mall.jpg
 
-> **Filename:** Youresocute
-> **Name:** Drying a carpet with a commercial specialty blower with built-in heater
-> **Author:** Environmental Protection Agency
-> **License:** Public Domain
-> **Source Link:** https://commons.wikimedia.org/wiki/File:Drying_a_carpet_with_a_commercial_specialty_blower_with_built-in_heater.jpg
+> **檔案名稱：**[[span class="ruby"]]Youresocute[[span class="rt"]]你好可愛[[/span]][[/span]]
+> **圖像名稱：**[[span class="ruby"]]Drying a carpet with a commercial specialty blower with built-in heater[[span class="rt"]]用內建加熱器的商用專業送風機吹乾地毯[[/span]][[/span]]
+> **圖像作者：**Environmental Protection Agency
+> **圖像授權：**Public Domain
+> **圖像來源：** https://commons.wikimedia.org/wiki/File:Drying_a_carpet_with_a_commercial_specialty_blower_with_built-in_heater.jpg
 
-> **Filename:** howcozy
-> **Name:** Dsc00159
-> **Author:** Bill Magritz
-> **License:** Creative Commons CC0 1.0 Universal Public Domain
-> **Source Link:** https://commons.wikimedia.org/wiki/File:Dsc00159.jpg_B%E1%BB%A9c_%E1%BA%A3nh_th%E1%BB%A9_2_trong_2_b%E1%BB%A9c_%E1%BA%A3nh_ngu%E1%BB%93n_g%E1%BB%91c_c%E1%BB%A7a_The_Backrooms.jpg
+> **檔案名稱：**[[span class="ruby"]]howcozy[[span class="rt"]]真愜意[[/span]][[/span]]
+> **圖像名稱：**Dsc00159
+> **圖像作者：**Bill Magritz
+> **圖像授權：**Creative Commons CC0 1.0 Universal Public Domain
+> **圖像來源：** https://commons.wikimedia.org/wiki/File:Dsc00159.jpg_B%E1%BB%A9c_%E1%BA%A3nh_th%E1%BB%A9_2_trong_2_b%E1%BB%A9c_%E1%BA%A3nh_ngu%E1%BB%93n_g%E1%BB%91c_c%E1%BB%A7a_The_Backrooms.jpg
 
-> **Filename:** keepgoing
-> **Name:** Fort Loupé de Rennemoulin 5438
-> **Author:** Koutto
-> **License:** Creative Commons Attribution-Share Alike 4.0 International
-> **Source Link:** https://commons.wikimedia.org/wiki/File:Fort_Loup%C3%A9_de_Rennemoulin_5438.jpg
+> **檔案名稱：**[[span class="ruby"]]keepgoing[[span class="rt"]]繼續走[[/span]][[/span]]
+> **圖像名稱：**Fort Loupé de Rennemoulin 5438
+> **圖像作者：**Koutto
+> **圖像授權：**Creative Commons Attribution-Share Alike 4.0 International
+> **圖像來源：** https://commons.wikimedia.org/wiki/File:Fort_Loup%C3%A9_de_Rennemoulin_5438.jpg
 
-> **Filename:** keepgoing
-> **Name:** Fort Loupé de Rennemoulin 5438
-> **Author:** Koutto
-> **License:** Creative Commons Attribution-Share Alike 4.0 International
-> **Source Link:** https://commons.wikimedia.org/wiki/File:Fort_Loup%C3%A9_de_Rennemoulin_5438.jpg
+> **檔案名稱：**[[span class="ruby"]]doyouseeit[[span class="rt"]]你看到了嗎[[/span]][[/span]]
+> **圖像名稱：**[[span class="ruby"]]Webster School Basement Corridor - DPLA[[span class="rt"]]韋伯斯特大學地下室走廊 - 美國數位公共圖書館[[/span]][[/span]]
+> **圖像作者：**Hennepin County Library
+> **圖像授權：**Public Domain
+> **圖像來源：** https://commons.wikimedia.org/wiki/File:Fort_Loup%C3%A9_de_Rennemoulin_5438.jpg
 
-> **Filename:** doyouseeit
-> **Name:** Webster School Basement Corridor - DPLA
-> **Author:** Hennepin County Library
-> **License:** Public Domain
-> **Source Link:** https://commons.wikimedia.org/wiki/File:Fort_Loup%C3%A9_de_Rennemoulin_5438.jpg
+> **檔案名稱：**[[span class="ruby"]]turnaround[[span class="rt"]]轉身[[/span]][[/span]]
+> **圖像名稱：**[[span class="ruby"]]Turn Around[[span class="rt"]]轉身[[/span]][[/span]]
+> **圖像作者：**Taken by [[*user jackalrelated]]
+> **圖像授權：**Creative Commons Attribution-Share Alike 4.0
 
-> **Filename:** turnaround
-> **Name:** Turn Around
-> **Author:** Taken by [[*user jackalrelated]]
-> **License:** Creative Commons Attribution-Share Alike 4.0
+> **檔案名稱：**[[span class="ruby"]]sobeautiful[[span class="rt"]]真美[[/span]][[/span]]
+> **圖像名稱：**Tero Karppinen
+> **圖像作者：**Antobattisti
+> **圖像授權：**Creative Commons Attribution-Share Alike 2.0
+> **圖像來源：** https://www.flickr.com/photos/terokarppinen/53431267740
 
-> **Filename:** sobeautiful
-> **Name:** Tero Karppinen
-> **Author:** Antobattisti
-> **License:** Creative Commons Attribution-Share Alike 2.0
-> **Source Link:** https://www.flickr.com/photos/terokarppinen/53431267740
+> **檔案名稱：**[[span class="ruby"]]youresoclose[[span class="rt"]]你很靠近了[[/span]][[/span]]
+> **圖像名稱：**Царева џамија, Фоча 004
+> **圖像作者：**Afrodita1234
+> **圖像授權：**Creative Commons Attribution-Share Alike 3.0 Unported
+> **圖像來源：** https://commons.wikimedia.org/wiki/File:%D0%A6%D0%B0%D1%80%D0%B5%D0%B2%D0%B0_%D1%9F%D0%B0%D0%BC%D0%B8%D1%98%D0%B0,_%D0%A4%D0%BE%D1%87%D0%B0_004.JPG
 
-> **Filename:** youresoclose
-> **Name:** Царева џамија, Фоча 004
-> **Author:** Afrodita1234
-> **License:** Creative Commons Attribution-Share Alike 3.0 Unported
-> **Source Link:** https://commons.wikimedia.org/wiki/File:%D0%A6%D0%B0%D1%80%D0%B5%D0%B2%D0%B0_%D1%9F%D0%B0%D0%BC%D0%B8%D1%98%D0%B0,_%D0%A4%D0%BE%D1%87%D0%B0_004.JPG
+> **檔案名稱：**[[span class="ruby"]]itscold[[span class="rt"]]好冷[[/span]][[/span]]
+> **圖像名稱：**[[span class="ruby"]]Evening. Mozambique Channel[[span class="rt"]]黃昏，莫三比克海峽[[/span]][[/span]] (22154081854) 
+> **圖像作者：**Rod Waddington
+> **圖像授權：**Creative Commons Attribution-Share Alike 2.0 Generic
+> **圖像來源：** https://commons.wikimedia.org/wiki/File:Evening._Mozambique_Channel_(22154081854).jpg
 
-> **Filename:** itscold
-> **Name:** Evening. Mozambique Channel (22154081854)
-> **Author:** Rod Waddington
-> **License:** Creative Commons Attribution-Share Alike 2.0 Generic
-> **Source Link:** https://commons.wikimedia.org/wiki/File:Evening._Mozambique_Channel_(22154081854).jpg
+> **檔案名稱：**[[span class="ruby"]]doyouseeme[[span class="rt"]]你看到我了嗎[[/span]][[/span]]
+> **圖像名稱：**[[span class="ruby"]]Pacific hagfish feeding 01[[span class="rt"]]太平洋黏盲鰻餵食 01[[/span]][[/span]] 
+> **圖像作者：**National Oceanic and Atmospheric Administration
+> **圖像授權：**Public Domain
+> **圖像來源：** https://commons.wikimedia.org/wiki/File:Pacific_hagfish_feeding_01.jpg
 
-> **Filename:** doyouseeme
-> **Name:** Pacific hagfish feeding 01
-> **Author:** National Oceanic and Atmospheric Administration
-> **License:** Public Domain
-> **Source Link:** https://commons.wikimedia.org/wiki/File:Pacific_hagfish_feeding_01.jpg
+> **檔案名稱：**[[span class="ruby"]]imbeautiful[[span class="rt"]]我很美[[/span]][[/span]]
+> **圖像名稱：**[[span class="ruby"]]Insulin microtrees[[span class="rt"]]胰島素微型樹[[/span]][[/span]]
+> **圖像作者：**Antobattisti
+> **圖像授權：**Creative Commons Attribution-Share Alike 4.0 International
+> **圖像來源：** https://commons.wikimedia.org/wiki/File:Insulin_microtrees.png
 
-> **Filename:** imbeautiful
-> **Name:** Insulin microtrees
-> **Author:** Antobattisti
-> **License:** Creative Commons Attribution-Share Alike 4.0 International
-> **Source Link:** https://commons.wikimedia.org/wiki/File:Insulin_microtrees.png
+> **檔案名稱：**[[span class="ruby"]]lookatthelights[[span class="rt"]]看那些光[[/span]][[/span]]
+> **圖像名稱：**[[span class="ruby"]]Beloplotov (Discharge in SF6 100Torr Plus)[[span class="rt"]]莫洛托夫雞尾酒（以100托以上的壓力釋放六氟化硫）[[/span]][[/span]]
+> **圖像作者：**Dmitry Beloplotov
+> **圖像授權：**Creative Commons Attribution-Share Alike 4.0 International
+> **圖像來源：** https://commons.wikimedia.org/wiki/File:Beloplotov_(Discharge_in_SF6_100Torr_Plus)_DSC06680.jpg
 
-> **Filename:** lookatthelights
-> **Name:** Beloplotov (Discharge in SF6 100Torr Plus)
-> **Author:** Dmitry Beloplotov
-> **License:** Creative Commons Attribution-Share Alike 4.0 International
-> **Source Link:** https://commons.wikimedia.org/wiki/File:Beloplotov_(Discharge_in_SF6_100Torr_Plus)_DSC06680.jpg
+> **檔案名稱：**[[span class="ruby"]]hearmyvoice[[span class="rt"]]聽聽我的聲音[[/span]][[/span]]
+> **圖像名稱：**[[span class="ruby"]]Human voice spectrogram[[span class="rt"]]人聲聲譜圖[[/span]][[/span]]
+> **圖像作者：**Dvortygirl, Mysid
+> **圖像授權：**Creative Commons Attribution-Share Alike 3.0 Unported
+> **圖像來源：** https://commons.wikimedia.org/wiki/File:Human_voice_spectrogram.jpg
 
-> **Filename:** hearmyvoice
-> **Name:** Human voice spectrogram
-> **Author:** Dvortygirl, Mysid
-> **License:** Creative Commons Attribution-Share Alike 3.0 Unported
-> **Source Link:** https://commons.wikimedia.org/wiki/File:Human_voice_spectrogram.jpg
+> **檔案名稱：**[[span class="ruby"]]feelmyfingers[[span class="rt"]]感受我的手指[[/span]][[/span]]
+> **圖像名稱：**[[span class="ruby"]]NGC 205 spiral structure[[span class="rt"]]NGC 205螺旋結構[[/span]][[/span]]
+> **圖像作者：**Giuseppe Donatiello
+> **圖像授權：**Creative Commons CC0 1.0 Universal Public Domain
+> **圖像來源：** https://commons.wikimedia.org/wiki/File:NGC_205_spiral_structure_(31764939113).jpg
 
-> **Filename:** feelmyfingers
-> **Name:** NGC 205 spiral structure
-> **Author:** Giuseppe Donatiello
-> **License:** Creative Commons CC0 1.0 Universal Public Domain
-> **Source Link:** https://commons.wikimedia.org/wiki/File:NGC_205_spiral_structure_(31764939113).jpg
+> **檔案名稱：**[[span class="ruby"]]yourealmosthere[[span class="rt"]]你快到了[[/span]][[/span]]
+> **圖像名稱：**[[span class="ruby"]]DDC-SEM of cardiac tissue[[span class="rt"]]DDC掃描電子顯微鏡下的心臟組織[[/span]][[/span]]
+> **圖像作者：**Sergio Bertazzo
+> **圖像授權：**Creative Commons Attribution-Share Alike 4.0 International
+> **圖像來源：** https://commons.wikimedia.org/wiki/File:DDC-SEM_of_cardiac_tissue_-BW_-_3.jpg
 
-> **Filename:** yourealmosthere
-> **Name:** DDC-SEM of cardiac tissue
-> **Author:** Sergio Bertazzo
-> **License:** Creative Commons Attribution-Share Alike 4.0 International
-> **Source Link:** https://commons.wikimedia.org/wiki/File:DDC-SEM_of_cardiac_tissue_-BW_-_3.jpg
+> **檔案名稱：**[[span class="ruby"]]dontbeafraid[[span class="rt"]]別害怕[[/span]][[/span]]
+> **圖像名稱：**[[span class="ruby"]]Sprites in stack of images from GMN camera[[span class="rt"]]全球隕石監控網路的圖片疊加後出現的精靈[[/span]][[/span]]
+> **圖像作者：**Nikola
+> **圖像授權：**Creative Commons CC0 1.0 Universal Public Domain
+> **圖像來源：** https://commons.wikimedia.org/wiki/File:Sprites_in_stack_of_images_from_GMN_camera.jpg
 
-> **Filename:** dontbeafraid
-> **Name:** Sprites in stack of images from GMN camera
-> **Author:** Nikola
-> **License:** Creative Commons CC0 1.0 Universal Public Domain
-> **Source Link:** https://commons.wikimedia.org/wiki/File:Sprites_in_stack_of_images_from_GMN_camera.jpg
-
-> **Filename:** welcomehome
-> **Name:** Red Sprite
-> **Author:** Matt Heavner
-> **License:** Public Domain
-> **Source Link:** https://commons.wikimedia.org/wiki/File:Red_sprite.jpg
+> **檔案名稱：**[[span class="ruby"]]welcomehome[[span class="rt"]]歡迎回家[[/span]][[/span]]
+> **圖像名稱：**[[span class="ruby"]]Red Sprite[[span class="rt"]]紅精靈[[/span]][[/span]]
+> **圖像作者：**Matt Heavner
+> **圖像授權：**Public Domain
+> **圖像來源：** https://commons.wikimedia.org/wiki/File:Red_sprite.jpg
 =====
 [[include :scp-zh-tr:component:license-box-end]]
