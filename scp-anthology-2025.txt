@@ -1016,7 +1016,7 @@ function setHeight(d) {
   if (iframe) iframe.parentElement.removeChild(iframe);
   iframe = document.createElement("iframe");
   document.body.appendChild(iframe);
-  iframe.src = `https://${subdomain}.wikidot.com/common--javascript/resize-iframe.html#${d}/${window.location.pathname
+  iframe.src = `http://${subdomain}.wikidot.com/common--javascript/resize-iframe.html#${d}/${window.location.pathname
     .split("/")
     .at(-3)}`;
   iframe.style.display = "none";
@@ -1635,7 +1635,7 @@ function setHeight(d) {
   if (iframe) iframe.parentElement.removeChild(iframe);
   iframe = document.createElement("iframe");
   document.body.appendChild(iframe);
-  iframe.src = `https://${subdomain}.wikidot.com/common--javascript/resize-iframe.html#${d}/${window.location.pathname
+  iframe.src = `http://${subdomain}.wikidot.com/common--javascript/resize-iframe.html#${d}/${window.location.pathname
     .split("/")
     .at(-3)}`;
   iframe.style.display = "none";
