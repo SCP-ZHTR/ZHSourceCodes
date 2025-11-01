@@ -1,0 +1,137 @@
+<script>
+[[include :scp-sandbox-3:collab:thingy2
+|eng=Malkuth-王國 |hebrew=מַלְכוּת |accent=#D1670B
+|icon=url(https://scp-wiki.wikidot.com/local--files/scp-anthology-2025/malkuth_icon.webp)
+|banner=url(https://scp-wiki.wikidot.com/local--files/scp-anthology-2025/malkuth_banner.webp)
+|audio-file=https://scp-wiki.wikidot.com/local--files/scp-anthology-2025/malkuth.mp3
+|description=那些早已遭到世間眾人拋棄的神祇低語，在你的腦海中迴盪不已。那是早已逝去時代的低語，宛如風中的迴響。金銀的言詞乃是*人類*之手的產物。美酒與麵包自繁星傾瀉而下，直抵你貪婪的心靈。詩人也無法識破這些話語的空洞，唯有*先知*方可見得。而那正是*你*。
+
+但丁，仰望天國吧。天堂仍在等待著你。
+|slug=SCP-9911 | author=Aftokrator
+|nodeclass=malkuth
+|title=普世和聲
+]]
+
+[[include :scp-sandbox-3:collab:thingy2 |eng=Yesod-基礎 |hebrew=יְסוֹד |accent=#898A78
+|icon=url(https://scp-wiki.wikidot.com/local--files/scp-anthology-2025/yesod_icon.webp)
+|banner=url(https://scp-wiki.wikidot.com/local--files/scp-anthology-2025/yesod_banner.webp)
+|audio-file=https://scp-wiki.wikidot.com/local--files/scp-anthology-2025/yesod.mp3
+|description=肩負著沉重的責任。你是個*研究者*。*你的*職責是讓事物成真──將轉瞬即逝的想法，轉化為具體的行動。按照你的意願塑造世界，開闢出理性的道路。
+﻿
+然而現在是九月寒冷的夜晚。你的雙手顫抖著。牆上傳來低低的啜泣聲。你會回首往事，發現自己的人生道路一直每況愈下。或許你的生命也在如螺旋般下墜。但是你仍然需要開闢出屬於自己的道路。
+|title=雙行道
+|slug=SCP-8984 | author=psul |nodeclass=yesod]]
+
+[[include :scp-sandbox-3:collab:thingy2 |eng=Hod-宏偉 |hebrew=הוֹד |accent=#F6C403
+|icon=url(https://scp-wiki.wikidot.com/local--files/scp-anthology-2025/hod_icon.webp)
+|banner=url(https://scp-wiki.wikidot.com/local--files/scp-anthology-2025/hod_banner.webp)
+|audio-file=https://scp-wiki.wikidot.com/local--files/scp-anthology-2025/hod.mp3
+|description=就是這樣了。現實的重壓終於進到了你營養不良的海馬體深處。二十年的光陰，都在無盡的動漫手辦與令人窒息的自我厭惡虛度。你把過去埋入沾染精液的毯子下，終日跪拜於**自己**打造偶像的祭壇前。金湯匙緩緩滴落裹著天降嗎哪的毒。
+
+克里索菲勒斯．馬歇爾，你的父母會為你感到驕傲嗎？*會有誰*為你感到驕傲嗎？
+
+|slug=scp-9770
+|title=我的媽媽、我的愛人、我的金牛犢
+|author=xexnoncores
+|nodeclass=hod]]
+
+[[include :scp-sandbox-3:collab:thingy2 |eng=Netzach-勝利 |hebrew=נֶצַח |accent=#B52222
+|icon=url(https://scp-wiki.wikidot.com/local--files/scp-anthology-2025/netzach_icon.webp)
+|banner=url(https://scp-wiki.wikidot.com/local--files/scp-anthology-2025/netzach_banner.webp)
+|audio-file=https://scp-wiki.wikidot.com/local--files/scp-anthology-2025/netzach.mp3
+|description=安全屋很不安全。主管屁用沒有。保鑣比怪物都要可怕。美國與基金會間的極冷戰比以往任何時候都要劇烈。*作為*數學部主任、希德象棋大宗師、基金會第六王座大法師的阿米塔．桑穆加桑德拉姆博士，代表著你的監督者幹了許多見不得光的勾當，使你得像被逼到決定的老鼠般亡命奔逃。你得拼盡全力逃離這場惡夢，否則就得葬身於此。我們祈願你夠格迎接如此挑戰。
+|slug=scp-9660
+|title=無用狼人機械
+|author=A Random Day
+|nodeclass=netzach]]
+
+[[include :scp-sandbox-3:collab:thingy2 |eng=Tiphereth-美麗 |hebrew=תִּפְאֶרֶת |accent=#733B2D
+|icon=url(https://scp-wiki.wikidot.com/local--files/scp-anthology-2025/tiphereth_icon.webp)
+|banner=url(https://scp-wiki.wikidot.com/local--files/scp-anthology-2025/tiphereth_banner.webp)
+|audio-file=https://scp-wiki.wikidot.com/local--files/scp-anthology-2025/tiphereth.mp3
+|description="人人都說「情人眼裡出西施。」但你清楚這純粹就是胡扯。個人主義就是煙霧彈，是直接作用於源頭的濾鏡，都是*五分*、*六分*之人自欺欺人，讓他們相信自己比外表看上去更有價值的藉口。只要照照鏡子，就能粉碎這些人的幻想。納西索斯的價值僅限於他的倒影，那始終只是**水窪**而非大海。人人都心知肚明，不過是不敢說出口罷了。
+
+不過你終究會取得勝利的。只需要上天稍微幫你一把，就能讓天平傾向自己。
+
+|nodeclass=tiphereth
+|slug=scp-9490
+|title=致最美者
+|author=Queerious
+]]
+
+[[include :scp-sandbox-3:collab:thingy2 |eng=Chesed-慈悲|hebrew=חֶסֶד|accent=#D76171| nodeclass=chesed
+|icon=url(https://scp-wiki.wikidot.com/local--files/scp-anthology-2025/chesed_icon.webp)
+|banner=url(https://scp-wiki.wikidot.com/local--files/scp-anthology-2025/chesed_banner.webp)
+|audio-file=https://scp-wiki.wikidot.com/local--files/scp-anthology-2025/chesed.mp3
+|description=你出生時，大腦是無數神經元與傳導物質所構成，雜亂無章的連結體，紛亂忙碌無比。你的大腦開始超負荷運轉，試圖理解一切並從未停歇。它也永遠不會停止：直到你的血管破裂，骨頭腐爛入土，雙眼永遠闔上。
+
+如果能省去這些努力不是更好嗎？直接跳去結尾豈不是一種慈悲？
+
+|slug=scp-9220
+|title=乾性分娩
+|author=Deadcanons
+]]
+
+[[include :scp-sandbox-3:collab:thingy2 |eng=Geburah-嚴厲 |hebrew=גְּבוּרָה |accent=#3057D9|nodeclass=geburah
+|icon=url(https://scp-wiki.wikidot.com/local--files/scp-anthology-2025/geburah_icon.webp)
+|banner=url(https://scp-wiki.wikidot.com/local--files/scp-anthology-2025/geburah_banner.webp)
+|audio-file=https://scp-wiki.wikidot.com/local--files/scp-anthology-2025/geburah.mp3
+|description=場景轉換。孤島聳立於深海之中，鍍金方舟在波濤洶湧的大海上顛簸晃蕩。這裡沒有燈火，沒有地圖，也沒有指引方向的星辰。港口已不存在。船員漫無目的地掌舵，隨著風浪漂流，鹹澀而引人陶醉的海水正灼燒著他們的舌頭。你是這艘仿製忒修斯之船的最後一塊拼圖：船長。儘管你被尊為盲人之國的獨眼國王，但你已經開始懷疑自己也許只不過是被人裝上假眼了。
+
+嚴苛對在黑暗中做決定的人而言是種仁慈，諾亞。反正你也沒辦法活在光明之下啊。
+|slug=scp-9880
+|title=世界的這個角落
+|author=felixou
+]]
+
+[[include :scp-sandbox-3:collab:thingy2 |eng=Hokma-智慧 |hebrew=חָכְמָה |accent=#006cc4
+|nodeclass=hokma
+|icon=url(https://scp-wiki.wikidot.com/local--files/scp-anthology-2025/hokma_icon.webp)
+|banner=url(https://scp-wiki.wikidot.com/local--files/scp-anthology-2025/hokma_banner.webp)
+|audio-file=https://scp-wiki.wikidot.com/local--files/scp-anthology-2025/hokma.mp3
+|description=浸潤。濕透。濕潤。濡濕。溺濕。浸漬。淋濕。浸泡。沉浸。沒水。水澇。滲透。淹沒。浸水。吞沒。吞噬。窒息。下沉。下沉。下沉。下沉。下沉。
+
+薩丕爾-沃爾夫假說筆下的因紐特人有五十個詞彙來描繪雪。但是在原始語言，他們用五*千萬個*詞彙來描繪「遇溺」。
+|slug=scp-9330
+|title=靜水深流
+|author=Intercedent
+]]
+
+[[include :scp-sandbox-3:collab:thingy2 |eng=Binah-理解 |hebrew=בִּינָה |accent=#3FDE45
+|icon=url(https://scp-wiki.wikidot.com/local--files/scp-anthology-2025/binah_icon.webp)
+|banner=url(https://scp-wiki.wikidot.com/local--files/scp-anthology-2025/binah_banner.webp)
+|audio-file=https://scp-wiki.wikidot.com/local--files/scp-anthology-2025/binah.mp3
+|description=你周圍充斥著無窮無盡的數據。此刻，知識正透過無形的洪流與波浪，以你無法理解的速度散播。這些資訊你無從知曉，他們並不想讓你知道，可是你*終究*會以某種方式了解這些資訊的。
+﻿
+不要擔心，很快一切都將變得清楚明白。繼續前行即可。你的目光所及能到哪裡，你就走到哪裡。
+|slug=scp-8483
+|title=機械，學習
+|author=Tao McCawley
+|nodeclass=binah]]
+
+[[include :scp-sandbox-3:collab:thingy2 |eng=Keter-王冠 |hebrew=כֶּתֶר |accent=#F0D8EB
+|icon=url(https://scp-wiki.wikidot.com/local--files/scp-anthology-2025/keter_icon.webp)
+|banner=url(https://scp-wiki.wikidot.com/local--files/scp-anthology-2025/keter_banner.webp)
+|audio-file=https://scp-wiki.wikidot.com/local--files/scp-anthology-2025/keter.mp3
+|description=於是我們來到了這裡。最高音。*「無限」*。王冠。虛無化為萬物。耀眼地照耀著你，但你所能感受到的，只有被王冠緊緊環抱的宇宙惡寒。它的存在承諾了一切與空無。這是一張單程票，可用兩次，恕不退款。
+
+換句話說，這就是結束。或許，也是全新篇章的開始。你不知道。不過你很快就會明白：在你走後，唯一留存的記憶，只有那團潔白閃耀之火，在無垠的黑色地平線映襯下隱隱閃爍著。
+|slug=scp-9987
+|title=潔白閃亮之火
+|author=Tufto
+|nodeclass=keter
+]]
+
+[[include :scp-sandbox-3:collab:thingy2 |eng=Daat-知識 |hebrew=דַּעַת |accent=#6632C7
+|icon=url(https://scp-wiki.wikidot.com/local--files/scp-anthology-2025/daat_icon.webp)
+|banner=url(https://scp-wiki.wikidot.com/local--files/scp-anthology-2025/daat_banner.webp)
+|audio-file=https://scp-wiki.wikidot.com/local--files/scp-anthology-2025/daat.mp3
+|description=你彷彿又看到了他臉的輪廓。他朝你跑來，那畫面在你腦海中一遍遍的重現。你對那一刻的記憶完美無缺。煤油的氣味，迴盪的腳步聲。你感受到的恐懼。他尖銳的哭號，臉上惶恐的神色。黑暗。*令人窒息*的黑暗。一遍又一遍。一遍又一遍。塵歸塵，土歸土，鋼歸鋼。
+
+已經沒有任何困惑了，畢竟你很久以前就已經明白：這些言語根本毫無意義。你們都只是*演員*。無論你們是否參與，這項工作都會繼續下去，它毫不留情，對你的悲傷漠不關心。你現在想起了，他們在你第一次輪迴後跟你說了什麼：一旦你來了，就會永遠留在這裡了。
+|slug=scp-9423
+|title=卡夫卡迷宮
+|author=DrEverettMann
+|nodeclass=daat
+]]
+</script>

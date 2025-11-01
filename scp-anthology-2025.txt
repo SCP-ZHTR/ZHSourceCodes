@@ -1,0 +1,2074 @@
+[!--devops:http://localhost:6968/static/manifest.json--]
+[[include :scp-zh-tr:theme:bedrock]]
+[[include :scp-wiki:theme:eigenvector]]
+
+[[module css]]
+@import url("https://fonts.googleapis.com/css2?family=Caudex:ital,wght@0,400;0,700;1,400;1,700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Bodoni+Moda+SC:ital,opsz,wght@0,6..96,400..900;1,6..96,400..900&display=swap");
+@import url("https://api.fonts.coollabs.io/css2?family=Noto+Serif+Hebrew:wght@100..900&display=swap");
+
+@media (max-width: 768px) {
+  :root:root .emanation-menu {
+    width: 100vw;
+  }
+ 
+  :root:root .e-description {
+    padding: 1.5em;
+  }
+}
+
+:root:lang(zh) {
+  --body-font-primary: "Caudex";
+  --header-font-primary: "Bodoni Moda SC";
+  --body-font-fallback: "Noto Serif Hebrew", "Times New Roman", serif;
+  --header-font-fallback: "Noto Serif Hebrew", "Times New Roman", serif;
+  --base-font-size: 1.15rem;
+
+  --basalt-primary-color: 29, 30, 43;
+  --basalt-secondary-color: 22, 20, 30;
+  --basalt-tertiary-color: 49, 47, 63;
+  --basalt-bright-element-color: 177, 181, 211;
+  --basalt-overtone: 249, 251, 252;
+  --basalt-main-text-color: var(--basalt-overtone);
+  --modal-fader-background-color: var(--basalt-secondary-color);
+  --h-border-color: var(--basalt-tertiary-color);
+  --bottom-area-background-color: var(--basalt-secondary-color);
+  --basalt-undertone: var(--basalt-bright-element-color);
+
+  --header-title: "SCP驚選集2025";
+  --header-subtitle: "自無造有";
+  --title-size: min(calc(1.75rem + 2.5vw), 4.5rem);
+  --subtitle-size: min(calc(0.875rem + 2.25vw), 1.95rem);
+  --header-logo: unset;
+  --antho-header: url(https://smlt.wikidot.com/local--files/collab:estrellayoshte:blem2/antho25header.jpg);
+  --antho-body: url(https://smlt.wikidot.com/local--files/collab:estrellayoshte:blem2/pillars.jpg);
+  --antho-footer: url(https://radian628.wikidot.com/local--files/secret:thingy3/footer-image.png);
+
+  --base-header-height: calc(
+    (var(--title-size) + var(--subtitle-size)) * 1.875 + 20.5rem + 7.5svh
+  );
+  --header-desktop-height: calc(
+    var(--base-header-height) + var(--header-border-width) +
+      var(--top-bar-mobile-height)
+  );
+  --header-border-width: 0rem;
+  --header-mobile-height: var(--header-desktop-height);
+  --top-bar-mobile-height: calc(var(--header-UI-font-size) * 2.675);
+  --side-bar-button-width: 3rem;
+  --main-content-width: 54.5rem;
+
+  --side-bar-link-font-size: calc(var(--base-font-size) * 0.825);
+}
+
+#content-wrap {
+  position: relative;
+  padding-bottom: calc(100% / (var(--footer-aspect-ratio)) + 4rem);
+  margin-block-end: 0;
+  --footer-aspect-ratio: 11/4;
+}
+#content-wrap::before {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  aspect-ratio: var(--footer-aspect-ratio);
+  background-image: linear-gradient(
+      to bottom,
+      transparent 60%,
+      rgb(var(--bottom-area-background-color))
+    ),
+    var(--antho-footer);
+  background-size: cover;
+  background-position: bottom center;
+  z-index: -1;
+}
+
+#header {
+  position: sticky;
+  top: calc(var(--base-header-height) * -1);
+  grid-template-areas:
+    ". . search user"
+    "h-link h-link h-link h-link"
+    "open-menu top-bar top-bar top-bar";
+  grid-template-columns:
+    var(--side-bar-button-width) 1fr var(--search-button-width)
+    var(--user-button-width);
+  grid-template-rows: var(--user-button-width) 1fr var(--top-bar-mobile-height);
+  background-color: transparent;
+  z-index: 7;
+}
+
+#header h1 a {
+  flex-direction: column;
+  width: 100%;
+  height: auto;
+  justify-content: center;
+  gap: 0;
+  padding-inline: 0;
+  padding-block-start: calc(10.75vw - 2.5rem);
+  text-shadow: 0 0 0.325rem rgb(var(--basalt-bright-element-color)),
+    0 0 0.875rem rgb(var(--basalt-bright-element-color));
+}
+#header h1 a::before {
+  display: none;
+  width: min(var(--base-header-height), 100%);
+  min-width: unset;
+}
+
+#header h1 a span {
+  width: auto;
+  height: auto;
+  line-height: 1;
+  align-items: center;
+}
+
+#top-bar div[class*="top-bar"] > ul > li {
+  flex-grow: 1;
+}
+
+#top-bar div.mobile-top-bar > .open-menu {
+  visibility: visible;
+}
+
+#header::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: var(--header-final-height);
+  background-image: var(--antho-header);
+  background-size: cover;
+  background-position: center top;
+  -webkit-mask-image: linear-gradient(to bottom, black 60.5%, transparent);
+  mask-image: linear-gradient(to bottom, black 60.5%, transparent);
+  z-index: -1;
+}
+
+@media not all and (max-width: 1024px) {
+  #header {
+    position: static;
+    grid-template-areas:
+      ". search user"
+      "h-link h-link h-link"
+      "top-bar top-bar top-bar";
+    grid-template-columns: 1fr var(--search-button-width) var(
+        --user-button-width
+      );
+    contain: unset;
+  }
+  #header h1 a span::after {
+    font-weight: 700;
+    mix-blend-mode: overlay;
+  }
+}
+
+/*--------------------------------*/
+/*---SIDEBAR ---*/
+/*--------------------------------*/
+
+#side-bar {
+  padding: 0;
+}
+
+@media not all and (max-width: 1024px) {
+  #header .open-menu {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: var(--side-bar-button-width);
+    height: var(--side-bar-button-width);
+  }
+
+  #side-bar {
+    position: fixed;
+    top: 0;
+    left: calc(var(--side-bar-width) * -1);
+    height: 100%;
+    margin: 0;
+    transition: left var(--side-bar-transition);
+  }
+  #header:has(.open-menu:is(:hover, :focus-within)) ~ #content-wrap > #side-bar,
+  #side-bar:is(:hover, :focus-within) {
+    left: 0;
+  }
+
+  #main-content {
+    width: min(100%, var(--main-content-width));
+    max-width: var(--main-content-width);
+    box-sizing: border-box;
+  }
+}
+
+#extra-div-2 {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100lvh;
+  background-image: linear-gradient(
+      to right,
+      rgb(var(--basalt-background-color), 0.875),
+      rgb(var(--basalt-background-color), 0.25) 33.3%,
+      rgb(var(--basalt-background-color), 0.25) 66.6%,
+      rgb(var(--basalt-background-color), 0.875)
+    ),
+    var(--antho-body);
+
+  background-size: cover;
+  background-position: center;
+  z-index: -2;
+  pointer-events: none;
+}
+
+/*--------------------------------*/
+
+#content-wrap::after {
+  content: unset;
+}
+
+#page-title {
+  display: none;
+}
+
+/*--------------------------------*/
+/*--- CUSTOM ---*/
+/*--------------------------------*/
+
+.aria-only {
+  position: absolute;
+  border: none;
+  font-size: 0.1em;
+  opacity: 0.01;
+  color: transparent;
+  pointer-events: none;
+}
+
+.insp-quote {
+  position: relative;
+  font-size: 1.375em;
+  text-align: center;
+  width: min(90%, 32.5rem);
+  margin-inline: auto;
+  margin-block: 1.5rem 0;
+  padding-block: 0.5rem;
+  padding-inline: 0.875rem;
+  box-sizing: border-box;
+  line-height: 1.625em;
+}
+.insp-quote::before {
+  content: "“";
+  top: 1rem;
+  left: -1rem;
+}
+.insp-quote::after {
+  content: "”";
+  bottom: 1rem;
+  right: -1rem;
+}
+.insp-quote::before,
+.insp-quote::after {
+  position: absolute;
+  font-size: 2.5em;
+  font-weight: bold;
+  color: rgb(var(--basalt-undertone));
+}
+
+.insp-quote > p:first-letter {
+  font-size: 1.75em;
+  font-weight: bold;
+}
+
+.req-info {
+  text-align: center;
+}
+
+div.opener2025 {
+  isolation: isolate;
+  pointer-events: auto;
+  inset: unset;
+  margin: 1.5rem auto;
+}
+
+div.opener2025 .e-description {
+  display: block;
+  padding-inline: 2.75rem;
+}
+div.opener2025.emanation-menu .e-description::before {
+  all: unset;
+}
+div.opener2025.emanation-menu .e-description::after {
+  opacity: 0.75;
+}
+
+/*--------------------------------*/
+/*--- MOBILE QUERY ---*/
+/*--------------------------------*/
+@media all and (max-width: 1024px) {
+  :root:lang(zh) {
+    --header-title: "SCP驚選集2025";
+    --top-bar-mobile-height: calc(var(--header-UI-font-size) * 3.5);
+    --main-content-side-margin: 2.125rem;
+  }
+
+  #header::after {
+    content: "";
+    display: block;
+    grid-column: 1/-1;
+    grid-row: 3/4;
+    -webkit-backdrop-filter: blur(0.5rem);
+    backdrop-filter: blur(0.5rem);
+    z-index: -1;
+  }
+}
+
+/* rounded corners for opening paragraph */
+
+.emanation-menu {
+  --notch-size: 1.875rem;
+  --border-width: 0.4125rem;
+  position: relative;
+  top: -1rem;
+  width: min(42.5rem, calc(100% - var(--main-content-side-margin) * 2));
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  pointer-events: none;
+}
+
+.emanation-menu .e-description {
+  position: relative;
+  width: 100%;
+  box-sizing: border-box;
+  min-height: calc((var(--notch-size) + 1rem) * 2);
+  padding-inline: 2.25rem;
+  padding-block: 0 0.375rem;
+  display: grid;
+  gap: 0.875rem;
+}
+.emanation-menu .e-description::before,
+.emanation-menu .e-description::after {
+  content: "";
+  --_bg: rgb(var(--basalt-secondary-color));
+  position: absolute;
+  inset: 0;
+  background-image: radial-gradient(
+      circle at 0 0,
+      transparent var(--notch-size),
+      var(--_bg) calc(var(--notch-size) + 0.05rem),
+      var(--_bg) calc(var(--notch-size) + 1rem),
+      transparent calc(var(--notch-size) + 1rem)
+    ),
+    radial-gradient(
+      circle at 100% 0,
+      transparent var(--notch-size),
+      var(--_bg) calc(var(--notch-size) + 0.05rem),
+      var(--_bg) calc(var(--notch-size) + 1rem),
+      transparent calc(var(--notch-size) + 1rem)
+    ),
+    radial-gradient(
+      circle at 0 100%,
+      transparent var(--notch-size),
+      var(--_bg) calc(var(--notch-size) + 0.05rem),
+      var(--_bg) calc(var(--notch-size) + 1rem),
+      transparent calc(var(--notch-size) + 1rem)
+    ),
+    radial-gradient(
+      circle at 100% 100%,
+      transparent var(--notch-size),
+      var(--_bg) calc(var(--notch-size) + 0.05rem),
+      var(--_bg) calc(var(--notch-size) + 1rem),
+      transparent calc(var(--notch-size) + 1rem)
+    ),
+    linear-gradient(
+      to right,
+      transparent var(--notch-size),
+      var(--_bg) var(--notch-size),
+      var(--_bg) calc(100% - var(--notch-size)),
+      transparent calc(100% - var(--notch-size))
+    ),
+    linear-gradient(
+      to bottom,
+      transparent var(--notch-size),
+      var(--_bg) var(--notch-size),
+      var(--_bg) calc(100% - var(--notch-size)),
+      transparent calc(100% - var(--notch-size))
+    );
+  z-index: -1;
+}
+.emanation-menu .e-description::before {
+  --_bg: var(--accent);
+  --notch-size: 1.75rem;
+  inset: 0 calc(var(--border-width) * -1 + 0.1rem);
+}
+
+[[/module]]
+
+
+[[div_ class="aria-only" role="heading"]]
+SCP驚選集2025 — //自無造有//
+[[/div]]
+
+[[div class="insp-quote"]]
+世上沒有任何字能在說出口之前就被知曉。
+[[/div]]
+
+@@ @@
+@@ @@
+
+[[div_ class="req-info"]]
+[[include info:start]]
+原文：[https://scp-wiki.wikidot.com/scp-anthology-2025 SCP Anthology 2025] SCP驚選集2025
+作者：[[*user Yossipossi]]
+譯者：[[*user Frederica Bernkastel]]
+[[include info:end]]
+[[/div]]
+
+[[div class="emanation-menu opener2025"]]
+[[div class="e-description"]]
+= [[size 125%]]**生命樹**[[/size]]
+ 
+[[div_ style="text-align: justify; text-align-last: center;"]]
+生命樹，是由《光輝之書》引入卡巴拉系統中，描述神祇創世的輿圖。生命樹代表著上帝的不同屬性，這些屬性將「無限」引入我們的物質世界。每個「質點」都在維繫我們世界的存在，並分別扮演了不同的角色，每個「質點」都象徵著人類靈魂的特定屬性。
+[[/div]]
+
+= 今年的恐怖驚選集，將聚焦於人類靈魂反映神性時犯下的種種錯誤。
+
+= **十個質點。十一個故事。一個聚合。**
+[[/div]]
+[[/div]]
+
+[[html]]
+<style>
+  @import url("https://cdn.scpwiki.com/theme/en/basalt/normalize-min.css");
+  @import url("https://cdn.scpwiki.com/theme/en/basalt/basalt-bedrock-min.css");
+  @import url("https://scp-wiki.wdfiles.com/local--code/theme%3Aeigenvector/1");
+</style>
+<style>@import url("https://fonts.googleapis.com/css2?family=Caudex:ital,wght@0,400;0,700;1,400;1,700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Bodoni+Moda+SC:ital,opsz,wght@0,6..96,400..900;1,6..96,400..900&display=swap");
+@import url("https://api.fonts.coollabs.io/css2?family=Noto+Serif+Hebrew:wght@100..900&display=swap");
+
+:root:lang(zh) {
+  --body-font-primary: "Caudex";
+  --header-font-primary: "Bodoni Moda SC";
+  --body-font-fallback: "Noto Serif Hebrew", "Times New Roman", serif;
+  --header-font-fallback: "Noto Serif Hebrew", "Times New Roman", serif;
+  --base-font-size: 1.15rem;
+
+  --basalt-primary-color: 29, 30, 43;
+  --basalt-secondary-color: 22, 20, 30;
+  --basalt-tertiary-color: 49, 47, 63;
+  --basalt-bright-element-color: 177, 181, 211;
+  --basalt-overtone: 249, 251, 252;
+  --basalt-main-text-color: var(--basalt-overtone);
+  --modal-fader-background-color: var(--basalt-secondary-color);
+  --h-border-color: var(--basalt-tertiary-color);
+  --bottom-area-background-color: var(--basalt-secondary-color);
+  --basalt-undertone: var(--basalt-bright-element-color);
+
+  --header-title: "SCP驚選集2025";
+  --header-subtitle: "自無造有";
+  --title-size: min(calc(1.75rem + 2.5vw), 4.5rem);
+  --subtitle-size: min(calc(0.875rem + 2.25vw), 1.95rem);
+  --header-logo: unset;
+  --antho-header: url(https://smlt.wikidot.com/local--files/collab:estrellayoshte:blem2/antho25header.jpg);
+  --antho-body: url(https://smlt.wikidot.com/local--files/collab:estrellayoshte:blem2/pillars.jpg);
+  --antho-footer: url(https://radian628.wikidot.com/local--files/secret:thingy3/footer-image.png);
+
+  --base-header-height: calc(
+    (var(--title-size) + var(--subtitle-size)) * 1.875 + 20.5rem + 7.5svh
+  );
+  --header-desktop-height: calc(
+    var(--base-header-height) + var(--header-border-width) +
+      var(--top-bar-mobile-height)
+  );
+  --header-border-width: 0rem;
+  --header-mobile-height: var(--header-desktop-height);
+  --top-bar-mobile-height: calc(var(--header-UI-font-size) * 2.675);
+  --side-bar-button-width: 3rem;
+  --main-content-width: 54.5rem;
+
+  --side-bar-link-font-size: calc(var(--base-font-size) * 0.825);
+}
+</style> <style>/*--------------------------------*/
+/*--------------------------------*/
+/*--------------------------------*/
+
+#u-ka-tree {
+  --node-size: min(calc(4.5rem + 4.5vw), 7.75rem);
+  --_sqrt3: 1.732051;
+  position: relative;
+  width: min(25.75rem, calc(100% - var(--node-size)));
+  margin-inline: auto;
+  margin-block: var(--node-size);
+
+  aspect-ratio: calc(var(--_sqrt3) / 4);
+  display: grid;
+  grid-template-areas:
+    ". . keter . ."
+    ". . . . ."
+    "binah . . . hokma"
+    ". . . . ."
+    ". . daat . ."
+    ". . . . ."
+    "geburah . . . chesed"
+    ". . . . ."
+    ". . tiphereth . ."
+    ". . . . ."
+    "hod . . . netzach"
+    ". . . . ."
+    ". . yesod . ."
+    ". . . . ."
+    ". . . . ."
+    ". . . . ."
+    ". . malkuth .  .";
+  grid-template-columns: 0px 1fr 0px 1fr 0px;
+  grid-template-rows: 0px 1fr 0px 1fr 0px 1fr 0px 1fr 0px 1fr 0px 1fr 0px 1fr 0px 1fr 0px;
+}
+
+#u-ka-tree .node {
+  width: 0px;
+  height: 0px;
+  position: relative;
+  --_empty: linear-gradient(
+      0deg,
+      transparent 48%,
+      rgb(var(--basalt-background-color)) 48%,
+      rgb(var(--basalt-background-color)) 52%,
+      transparent 52%
+    ),
+    linear-gradient(
+      90deg,
+      transparent 50%,
+      rgb(var(--basalt-background-color)) 50%,
+      transparent
+    );
+}
+
+.daat {
+  grid-area: daat;
+}
+.keter {
+  grid-area: keter;
+}
+.binah {
+  grid-area: binah;
+}
+.hokma {
+  grid-area: hokma;
+}
+.geburah {
+  grid-area: geburah;
+}
+.chesed {
+  grid-area: chesed;
+}
+.tiphereth {
+  grid-area: tiphereth;
+}
+.netzach {
+  grid-area: netzach;
+}
+.hod {
+  grid-area: hod;
+}
+.yesod {
+  grid-area: yesod;
+}
+.malkuth {
+  grid-area: malkuth;
+}
+
+/*--------------------------------*/
+
+.node > ul,
+.node > ul > li {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+ul.emanation-container {
+  position: absolute;
+  left: calc(var(--node-size) / -2);
+  top: calc(var(--node-size) / -2);
+  width: var(--node-size);
+  height: var(--node-size);
+}
+
+ul.emanation-container::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: var(--node-size);
+  height: var(--node-size);
+  border-radius: 50%;
+
+  background-color: rgb(var(--basalt-secondary-color));
+  background-image: var(--icon);
+  background-size: cover;
+  background-position: center;
+  transition: all 0.25s ease-out 0.05s;
+}
+ul.emanation-container:is(:hover, :focus-within)::before,
+#u-ka-tree .node.empty:hover::before {
+  filter: brightness(1.25);
+  box-shadow: 0 0 1.5em var(--accent, rgb(var(--basalt-undertone), 0.5));
+}
+
+ul.emanation-container > li,
+ul.emanation-container .menu-toggle {
+  display: contents;
+}
+
+.menu-toggle > a:nth-child(1) {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+  display: grid;
+  place-items: center;
+  opacity: 0;
+}
+.menu-toggle > a:nth-child(2) {
+  display: block;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgb(var(--modal-fader-background-color), 0.75);
+  color: transparent !important;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.125s ease-out;
+  z-index: 11;
+}
+
+.node-label {
+  position: absolute;
+  top: 52.5%;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 0.25rem;
+  text-align: center;
+  font-family: var(--header-font);
+  font-size: min(calc(0.775em + 0.325vw), 1em);
+  line-height: 0.925;
+  color: var(--accent);
+  text-shadow: 0 0 0.375em rgb(var(--basalt-secondary-color));
+  transition: all 0.175s ease-out 0.05s;
+}
+.node-label .hebrew {
+  font-size: 1.675em;
+}
+.node-label .eng {
+  font-size: 0.95em;
+  font-weight: bold;
+}
+.node-label :is(.hebrew, .eng) {
+  text-shadow: 1px 1px 5px black, 1px 1px 5px black, 1px 1px 5px black;
+}
+
+/*--- if empty ---*/
+:root #u-ka-tree .node.empty::before {
+  content: "";
+  position: absolute;
+  left: calc(var(--node-size) / -2);
+  top: calc(var(--node-size) / -2);
+  width: var(--node-size);
+  height: var(--node-size);
+  border-radius: 50%;
+  /* background-color: rgb(var(--basalt-secondary-color)); */
+  /* background-image: var(--_empty); */
+  cursor: not-allowed;
+  transition: all 0.25s ease-out;
+  z-index: 999;
+  filter: saturate(0.25);
+}
+
+.node.empty .node-label {
+  display: none;
+}
+
+/*--- if preview---*/
+.preview-mode-on {
+  --icon: var(--_empty) !important;
+}
+:root ul.preview-mode-on::before {
+  background-image: radial-gradient(black, #000c),
+    radial-gradient(var(--accent), var(--accent));
+}
+
+:root .node:not(.empty) ul.preview-mode-on::before {
+  box-shadow: 0 0 1.5em var(--accent);
+}
+
+.preview-mode-on :is(.e-image, .e-destination, .e-audio) {
+  display: none;
+}
+.preview-mode-on .e-description {
+  padding-block: 0.75rem 1.25rem;
+}
+
+/*--- pathways ---*/
+#u-ka-tree .pathways {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+  pointer-events: none;
+}
+
+.pathways > br {
+  display: none;
+}
+.pathways > span {
+  --c: 1;
+  --r: 1;
+  --l: 1;
+  --angle: 0;
+  --o: 0;
+  --_width: 1.625rem;
+  --_opacity: 0;
+  position: absolute;
+  left: calc(50% * (var(--c) - 1) - var(--_width) / 2);
+  top: calc(12.5% * (var(--r) - 1));
+  width: var(--_width);
+  height: calc(12.5% * var(--l));
+  transform-origin: 50% 0;
+  transform: rotate(calc(1deg * var(--angle)));
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  place-items: center;
+  text-align: center;
+  font-size: 1.75em;
+
+  background-color: rgb(var(--basalt-undertone), calc(var(--_opacity) + 0.1));
+  color: rgb(var(--basalt-main-text-color), var(--_opacity));
+  transition: all 0.175s ease-out 0.05s;
+}
+
+.pathways > span > strong {
+  font-weight: normal;
+  display: block;
+  transform: rotate(calc(-1deg * var(--angle)));
+}
+
+/*--- pathways character offset ---*/
+
+.pathways > span::before,
+.pathways > span::after {
+  content: "";
+  display: block;
+  height: max(var(--o), 0rem);
+}
+.pathways > span::after {
+  height: calc(min(var(--o), 0rem) * -1);
+}
+
+/*--- pathways glow logic ---*/
+.malkuth:is(:hover, :focus-within) ~ .pathways > .c-malkuth,
+.yesod:is(:hover, :focus-within) ~ .pathways > .c-yesod,
+.hod:is(:hover, :focus-within) ~ .pathways > .c-hod,
+.netzach:is(:hover, :focus-within) ~ .pathways > .c-netzach,
+.tiphereth:is(:hover, :focus-within) ~ .pathways > .c-tiphereth,
+.chesed:is(:hover, :focus-within) ~ .pathways > .c-chesed,
+.geburah:is(:hover, :focus-within) ~ .pathways > .c-geburah,
+.hokma:is(:hover, :focus-within) ~ .pathways > .c-hokma,
+.binah:is(:hover, :focus-within) ~ .pathways > .c-binah,
+.keter:is(:hover, :focus-within) ~ .pathways > .c-keter {
+  --_opacity: 0.925;
+  animation: path-pulse 2.25s infinite;
+  animation-timing-function: ease-in-out;
+}
+
+.daat:is(:hover, :focus-within) ~ .pathways > span {
+  --_opacity: 0.75;
+  background-color: rgb(
+    var(--basalt-main-text-color),
+    calc(var(--_opacity) + 0.175)
+  );
+  box-shadow: 0 0 1em rgb(var(--basalt-undertone), 0.875);
+  color: rgb(var(--basalt-light-text-color));
+}
+#u-ka-tree:has(.daat:is(:hover, :focus-within))
+  > .node:where(:not(.daat))
+  .emanation-container::before {
+  filter: contrast(0.95) brightness(1.75) saturate(0.25);
+}
+#u-ka-tree:has(.daat:is(:hover, :focus-within))
+  > .node:where(:not(.daat))
+  .node-label {
+  opacity: 0;
+}
+
+@keyframes path-pulse {
+  0% {
+    filter: brightness(1);
+    box-shadow: 0 0 0 transparent;
+  }
+  45%,
+  53% {
+    filter: brightness(1.25);
+    box-shadow: 0 0 1em rgb(var(--basalt-undertone), 0.5);
+  }
+  100% {
+    filter: brightness(1);
+    box-shadow: 0 0 0 transparent;
+  }
+}
+
+/*--------------------------------*/
+/*--- MOBILE QUERY ---*/
+/*--------------------------------*/
+@media all and (max-width: 1024px) {
+  .pathways > span {
+    --_width: 1.25rem;
+  }
+}
+</style>
+<div id="page-content">
+  <div id="u-ka-tree">
+    <div class="pathways">
+      <span class="c-malkuth c-yesod" style="--c: 2; --r: 7; --l: 2"
+        ><strong>ת</strong></span
+      ><br />
+      <span class="c-yesod c-hod" style="--c: 2; --r: 7; --l: 2; --angle: 120"
+        ><strong>ל</strong></span
+      ><br />
+      <span
+        class="c-yesod c-netzach"
+        style="--c: 2; --r: 7; --l: 2; --angle: 240"
+        ><strong>נ</strong></span
+      ><br />
+      <span
+        class="c-yesod c-tiphereth"
+        style="--c: 2; --r: 7; --l: 2; --angle: 180; --o: -30.5%"
+        ><strong>ר</strong></span
+      ><br />
+      <span
+        class="c-hod c-netzach"
+        style="--c: 1; --r: 6; --l: calc(2 * var(--_sqrt3)); --angle: 270"
+        ><strong>מ</strong></span
+      ><br />
+      <span
+        class="c-hod c-tiphereth"
+        style="--c: 1; --r: 6; --l: 2; --angle: 240"
+        ><strong>ס</strong></span
+      ><br />
+      <span class="c-hod c-geburah" style="--c: 1; --r: 6; --l: 2; --angle: 180"
+        ><strong>פ</strong></span
+      ><br />
+      <span
+        class="c-netzach c-tiphereth"
+        style="--c: 3; --r: 6; --l: 2; --angle: 120"
+        ><strong>י</strong></span
+      ><br />
+      <span
+        class="c-netzach c-chesed"
+        style="--c: 3; --r: 6; --l: 2; --angle: 180"
+        ><strong>כ</strong></span
+      ><br />
+      <span
+        class="c-tiphereth c-geburah"
+        style="--c: 2; --r: 5; --l: 2; --angle: 120"
+        ><strong>צ</strong></span
+      ><br />
+      <span
+        class="c-tiphereth c-chesed"
+        style="--c: 2; --r: 5; --l: 2; --angle: 240"
+        ><strong>ח</strong></span
+      ><br />
+      <span
+        class="c-tiphereth c-binah"
+        style="
+          --c: 2;
+          --r: 5;
+          --l: calc(2 * var(--_sqrt3));
+          --angle: 150;
+          --o: 33.3%;
+        "
+        ><strong>ע</strong></span
+      ><br />
+      <span
+        class="c-tiphereth c-hokma"
+        style="
+          --c: 2;
+          --r: 5;
+          --l: calc(2 * var(--_sqrt3));
+          --angle: 210;
+          --o: 33.3%;
+        "
+        ><strong>ט</strong></span
+      ><br />
+      <span
+        class="c-geburah c-binah"
+        style="--c: 1; --r: 4; --l: 2; --angle: 180"
+        ><strong>ג</strong></span
+      ><br />
+      <span
+        class="c-geburah c-hokma"
+        style="--c: 1; --r: 4; --l: 4; --angle: 240; --o: 50%"
+        ><strong>ז</strong></span
+      ><br />
+      <span
+        class="c-chesed c-hokma"
+        style="--c: 3; --r: 4; --l: 2; --angle: 180"
+        ><strong>ב</strong></span
+      ><br />
+      <span
+        class="c-chesed c-binah"
+        style="--c: 3; --r: 4; --l: 4; --angle: 120; --o: 50%"
+        ><strong>ק</strong></span
+      ><br />
+      <span
+        class="c-tiphereth c-keter"
+        style="--c: 2; --r: 5; --l: 4; --angle: 180; --o: 33.3%"
+        ><strong>ד</strong></span
+      ><br />
+      <span
+        class="c-geburah c-chesed"
+        style="--c: 1; --r: 4; --l: calc(2 * var(--_sqrt3)); --angle: 270"
+        ><strong>א</strong></span
+      ><br />
+      <span
+        class="c-hokma c-binah"
+        style="--c: 1; --r: 2; --l: calc(2 * var(--_sqrt3)); --angle: 270"
+        ><strong>ש</strong></span
+      ><br />
+      <span class="c-keter c-binah" style="--c: 2; --r: 1; --l: 2; --angle: 60"
+        ><strong>ו</strong></span
+      ><br />
+      <span class="c-keter c-hokma" style="--c: 2; --r: 1; --l: 2; --angle: 300"
+        ><strong>ה</strong></span
+      >
+    </div>
+  </div>
+</div>
+
+<script>
+  const config = { id: 0, source: "main" };
+</script>
+
+<script>let msgid = config.id * 100_000_000;
+function send(dst, type, data, timeout) {
+  let id = msgid++;
+
+  const promise = new Promise((resolve, reject) => {
+    let resolved = false;
+    const listener = (e) => {
+      if (!e.data || e.data.id !== id || e.data.type) return;
+      window.removeEventListener("message", listener);
+      resolve(e.data.data);
+      resolved = true;
+    };
+
+    if (timeout) {
+      setTimeout(() => {
+        if (!resolved) reject();
+      }, timeout);
+    }
+
+    window.addEventListener("message", listener);
+  });
+
+  dst.postMessage({ type, data, id }, "*");
+  return promise;
+}
+
+function registerListener(type, callback) {
+  window.addEventListener("message", async (e) => {
+    if (!e.data || e.data.type !== type) return;
+    e.source.postMessage(
+      { data: await callback(e.data.data), id: e.data.id },
+      "*"
+    );
+  });
+}
+
+registerListener("identify", (d) => {
+  return config.source;
+});
+
+registerListener("print", (d) => {
+  console.log(`${config.source}: `, d);
+});
+
+const subdomain = window.location.hostname.split(".")?.[0];
+
+let iframe;
+
+function setHeight(d) {
+  console.log(config.source, "set height", d);
+  if (iframe) iframe.parentElement.removeChild(iframe);
+  iframe = document.createElement("iframe");
+  document.body.appendChild(iframe);
+  iframe.src = `https://${subdomain}.wikidot.com/common--javascript/resize-iframe.html#${d}/${window.location.pathname
+    .split("/")
+    .at(-3)}`;
+  iframe.style.display = "none";
+}
+
+registerListener("setHeight", (d) => {
+  setHeight(d);
+});
+
+function waitForFrame(name) {
+  return new Promise((resolve, reject) => {
+    let resolved = false;
+    let callback = async () => {
+      if (resolved) return;
+      for (let i = 0; i < window.parent.frames.length; i++) {
+        const f = window.parent.frames[i];
+        try {
+          const identity = await send(f, "identify", undefined, 1000);
+          if (identity == name) {
+            resolve(f);
+            clearInterval(callback);
+            resolved = true;
+            break;
+          }
+        } catch (e) {}
+      }
+      if (!resolved) setTimeout(callback, 0);
+    };
+    let interval = setInterval(callback, 200);
+  });
+}
+</script>
+
+<script>
+  const overlay = waitForFrame("overlay");
+
+  function instantiateNodeTemplate(params) {
+    const {
+      nodeclass,
+      eng,
+      hebrew,
+      accent,
+      icon,
+      banner,
+      description,
+      slug,
+      author,
+      preview,
+    } = params;
+
+    const dom = new DOMParser().parseFromString(
+      `<div class="node ${nodeclass} ${preview === "hide" ? "empty" : ""}">
+                                              <style>
+  .${nodeclass} .emanation-container::before {
+  --icon: ${icon};
+                                          
+  }
+                                              </style>
+      <ul
+        class="emanation-container ${
+          preview === "true" || preview === "hide" ? "preview-mode-on" : ""
+        }"
+        style="--icon: ${icon}; --banner: ${banner}; --accent: ${accent};"
+      >
+        <li class="folded">
+          <div class="node-label">
+            <span class="hebrew">${hebrew}</span><span class="eng">${eng}</span>
+          </div>
+          <div class="foldable-list-container menu-toggle">
+            <a href="javascript:;" id="${nodeclass}-open">open</a><a href="javascript:;">close</a>
+          </div>
+        </li>
+      </ul>
+    </div>`,
+      "text/html"
+    );
+    if (preview !== "hide") {
+      dom
+        .getElementById(nodeclass + "-open")
+        .addEventListener("click", async (e) => {
+          send(await overlay, "open", params, 1000);
+        });
+    }
+    return dom.querySelector(".node");
+  }
+
+  const NODE_TEMPLATE_LIST = [];
+</script>
+
+[[include fragment:sephirot]]
+
+<script>
+  const tree = document.getElementById("u-ka-tree");
+  const pathways = document.querySelector(".pathways");
+  for (const template of NODE_TEMPLATE_LIST) {
+    tree.insertBefore(instantiateNodeTemplate(template), pathways);
+  }
+</script>
+
+[[/html]]
+
+[[module css]]
+
+.iframe-overlay {
+  display: none;
+}
+
+.iframe-overlay[style$="1px;"] {
+  display: block;
+  top: 0;
+  left: 0;
+  width: 100vw !important;
+  height: 100vh !important;
+  position: fixed;
+  background-color: #0008;
+  z-index: 11;
+}
+[[/module]]
+
+[[html class="iframe-overlay"]]
+<style>
+  @import url("https://cdn.scpwiki.com/theme/en/basalt/normalize-min.css");
+  @import url("https://cdn.scpwiki.com/theme/en/basalt/basalt-bedrock-min.css");
+  @import url("https://scp-wiki.wdfiles.com/local--code/theme%3Aeigenvector/1");
+
+  html#html-block-html#html-block-html body {
+    width: 100vw;
+    height: 100vh;
+  }
+</style>
+<style>@import url("https://fonts.googleapis.com/css2?family=Caudex:ital,wght@0,400;0,700;1,400;1,700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Bodoni+Moda+SC:ital,opsz,wght@0,6..96,400..900;1,6..96,400..900&display=swap");
+@import url("https://api.fonts.coollabs.io/css2?family=Noto+Serif+Hebrew:wght@100..900&display=swap");
+
+:root:lang(zh) {
+  --body-font-primary: "Caudex";
+  --header-font-primary: "Bodoni Moda SC";
+  --body-font-fallback: "Noto Serif Hebrew", "Times New Roman", serif;
+  --header-font-fallback: "Noto Serif Hebrew", "Times New Roman", serif;
+  --base-font-size: 1.15rem;
+
+  --basalt-primary-color: 29, 30, 43;
+  --basalt-secondary-color: 22, 20, 30;
+  --basalt-tertiary-color: 49, 47, 63;
+  --basalt-bright-element-color: 177, 181, 211;
+  --basalt-overtone: 249, 251, 252;
+  --basalt-main-text-color: var(--basalt-overtone);
+  --modal-fader-background-color: var(--basalt-secondary-color);
+  --h-border-color: var(--basalt-tertiary-color);
+  --bottom-area-background-color: var(--basalt-secondary-color);
+  --basalt-undertone: var(--basalt-bright-element-color);
+
+  --header-title: "SCP驚選集2025";
+  --header-subtitle: "自無造有";
+  --title-size: min(calc(1.75rem + 2.5vw), 4.5rem);
+  --subtitle-size: min(calc(0.875rem + 2.25vw), 1.95rem);
+  --header-logo: unset;
+  --antho-header: url(https://smlt.wikidot.com/local--files/collab:estrellayoshte:blem2/antho25header.jpg);
+  --antho-body: url(https://smlt.wikidot.com/local--files/collab:estrellayoshte:blem2/pillars.jpg);
+  --antho-footer: url(https://radian628.wikidot.com/local--files/secret:thingy3/footer-image.png);
+
+  --base-header-height: calc(
+    (var(--title-size) + var(--subtitle-size)) * 1.875 + 20.5rem + 7.5svh
+  );
+  --header-desktop-height: calc(
+    var(--base-header-height) + var(--header-border-width) +
+      var(--top-bar-mobile-height)
+  );
+  --header-border-width: 0rem;
+  --header-mobile-height: var(--header-desktop-height);
+  --top-bar-mobile-height: calc(var(--header-UI-font-size) * 2.675);
+  --side-bar-button-width: 3rem;
+  --main-content-width: 54.5rem;
+
+  --side-bar-link-font-size: calc(var(--base-font-size) * 0.825);
+}
+</style> <style>/* audio player */
+
+#audio-volume {
+  writing-mode: vertical-rl;
+  position: absolute;
+  right: 0;
+  border-color: var(--accent);
+}
+
+.audio-controls {
+  width: 100%;
+  display: flex;
+}
+
+#audio-volume-controls {
+  width: 2.5em;
+  height: 2.5em;
+  position: relative;
+}
+
+#audio-volume {
+  bottom: 100%;
+  right: 0%;
+  position: absolute;
+  display: none;
+  z-index: 3;
+  width: 2.5em;
+  height: 4em;
+}
+
+#audio-volume-controls:hover #audio-volume {
+  display: block;
+}
+
+#audio-progress {
+  width: calc(100% - 5em);
+  height: 2.5em;
+  background-image: linear-gradient(
+    to right,
+    var(--accent) 0%,
+    var(--accent) var(--percent-done),
+    transparent var(--percent-done),
+    transparent 100%
+  );
+}
+
+.audio-controls {
+  border: 1px solid var(--accent);
+}
+
+#audio-play-pause {
+  border: none;
+  border-right: 1px solid var(--accent);
+  width: 2.5em;
+  height: 2.5em;
+}
+
+#audio-volume-controls {
+  border: none;
+  border-left: 1px solid var(--accent);
+}
+
+.audio-controls {
+  border: 1px solid var(--accent);
+  width: 75% !important;
+  margin: auto;
+}
+
+#audio-play-pause {
+  border: none;
+  border-right: 1px solid var(--accent);
+}
+
+#audio-volume-controls {
+  border: none;
+  border-left: 1px solid var(--accent);
+  cursor: pointer;
+}
+
+#audio-volume-controls-inverted {
+  height: 2.5em;
+  width: 2.5em;
+  background-color: var(--accent);
+  clip-path: polygon(
+    0% 100%,
+    100% 100%,
+    100% var(--volume-amount),
+    0% var(--volume-amount)
+  );
+}
+
+#audio-progress {
+  margin: 0.5em;
+  height: 1.5em !important;
+}
+
+/* .node {
+  animation: fadein 1.8s;
+  animation-fill-mode: both;
+  list-style: none;
+}
+
+@keyframes fadein {
+  0% {
+    transform: translateY(100vh);
+  }
+
+  100% {
+    transform: translateY(0);
+  }
+} */
+
+/* card */
+
+.emanation-menu {
+  height: 90vh;
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  width: calc(min(40em, 100vw - 2em));
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+@media (max-width: 800px) {
+  .emanation-menu {
+    height: calc(100vh + 50px);
+  }
+
+  .emanation-menu .e-content {
+    padding-left: 1em;
+    padding-right: 1em;
+  }
+}
+
+.folded .emanation-menu {
+  height: 70vh;
+}
+
+.e-scroll-contents {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  border: 0.5em solid var(--accent);
+  border-bottom: none;
+  padding-bottom: 2em;
+  background-color: #16141ecc;
+  backdrop-filter: blur(8px);
+  box-sizing: border-box;
+}
+
+.e-image {
+  flex-grow: 1;
+  background-image: var(--banner);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  min-height: 270px;
+}
+
+:root:root .e-link {
+  width: 90%;
+  display: block;
+  text-align: center;
+  font-size: 150%;
+  color: var(--accent);
+  margin: auto;
+  margin-top: 1em;
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
+  border: 2px solid var(--accent);
+  background-color: #16141ecc;
+  transition: background-color 0.5s, filter 0.5s;
+}
+
+:root:root .e-link:hover {
+  background-color: #2b273dcc;
+  filter: drop-shadow(0 0 10px var(--accent));
+  text-decoration: none;
+}
+
+.e-content {
+  padding-left: 2em;
+  padding-right: 2em;
+}
+
+.e-destination {
+  padding-left: 2em;
+  padding-right: 2em;
+}
+
+.e-audio {
+  margin-top: 1.2em;
+  margin-bottom: 0.6em;
+}
+
+.by-author {
+  text-align: center;
+  margin: auto;
+  display: block;
+}
+
+/* scroll */
+
+.e-scroll-container .e-scroll {
+  width: 155%;
+  aspect-ratio: 5;
+  background-size: cover;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: scaleY(0.7) translate(-50%, -80%);
+}
+
+.e-scroll-container {
+  position: relative;
+  width: 100%;
+  overflow: visible;
+}
+
+.emanation-container {
+  overflow: visible;
+}
+
+.e-scroll-container {
+  z-index: 2;
+  animation: scroll 2s;
+  animation-fill-mode: both;
+  position: absolute;
+  animation-timing-function: ease-out;
+  height: 0;
+}
+
+@keyframes scroll {
+  0% {
+    top: 120%;
+  }
+
+  100% {
+    top: 0;
+  }
+}
+
+.e-scroll-contents {
+  animation: scroll-contents 2s;
+  animation-fill-mode: both;
+  height: 100%;
+  animation-timing-function: ease-out;
+  overflow: auto;
+}
+
+@keyframes scroll-contents {
+  0% {
+    clip-path: polygon(0% 120%, 0% 100%, 100% 100%, 100% 120%);
+  }
+
+  100% {
+    clip-path: polygon(0% 0%, 0% 100%, 100% 100%, 100% 0%);
+  }
+}
+
+.folded .e-scroll-contents {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+}
+
+:root:root .folded .e-content {
+  text-align: center;
+}
+
+:root:root .unfolded .e-title-container {
+  background-color: var(--accent);
+  opacity: 0.9;
+  font-family: monospace;
+  text-align: right;
+  color: black;
+  font-size: 150%;
+  width: 100%;
+  padding: 0em 0.2em;
+  box-sizing: border-box;
+}
+
+:root:root h2 {
+  font-family: monospace;
+  padding: 0;
+  margin: 0;
+}
+
+:root:root .unfolded .e-title-container h2 {
+  font-size: 160%;
+}
+
+.unfolded .e-title-container .e-author {
+  font-size: 80%;
+  margin-top: -0.5em;
+}
+
+:root:root .folded h2 {
+  font-size: min(15vw, 600%);
+  color: var(--accent);
+  text-align: center;
+  margin-top: 0.6em;
+  margin-bottom: 0;
+}
+
+.folded p.timestamp {
+  font-size: 150%;
+  color: var(--accent);
+  font-weight: bold;
+}
+
+.e-sephirot-container {
+  height: 0;
+  position: relative;
+}
+
+.e-sephirot {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  font-size: 250%;
+  margin-right: 0.3em;
+  font-family: monospace;
+  color: var(--accent);
+  text-shadow: 0 0 10px #000, 0 0 10px #000;
+}
+
+/* close button */
+
+.e-close-button {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  width: 35px;
+  height: 35px;
+  border-radius: 50%;
+  background-color: black;
+  border: 2.5px solid var(--accent);
+  color: var(--accent);
+  font-size: 20px;
+}
+
+.e-close-button div {
+  top: 50%;
+  left: 50%;
+  position: absolute;
+  transform: translate(-50%, -50%);
+}
+
+/* other stuff */
+
+ul,
+li {
+  list-style: none;
+}
+
+/* timer */
+#e-timer {
+  text-align: center;
+  font-family: monospace;
+  font-size: min(450%, 12vw);
+  color: var(--accent);
+
+  margin-bottom: 0.5em;
+  border: 0.05em solid var(--accent);
+  padding: 0 0.2em;
+  background-image: linear-gradient(#000d, #000d),
+    linear-gradient(
+      45deg,
+      black 0%,
+      black 55%,
+      var(--accent) 60%,
+      var(--accent) 70%,
+      black 75%,
+      black
+    );
+  text-shadow: 0 0 10px var(--accent);
+  margin-top: 0.25em;
+}
+</style>
+<div id="root"></div>
+<script>
+  const config = { id: 1, source: "overlay" };
+</script>
+
+<script>let msgid = config.id * 100_000_000;
+function send(dst, type, data, timeout) {
+  let id = msgid++;
+
+  const promise = new Promise((resolve, reject) => {
+    let resolved = false;
+    const listener = (e) => {
+      if (!e.data || e.data.id !== id || e.data.type) return;
+      window.removeEventListener("message", listener);
+      resolve(e.data.data);
+      resolved = true;
+    };
+
+    if (timeout) {
+      setTimeout(() => {
+        if (!resolved) reject();
+      }, timeout);
+    }
+
+    window.addEventListener("message", listener);
+  });
+
+  dst.postMessage({ type, data, id }, "*");
+  return promise;
+}
+
+function registerListener(type, callback) {
+  window.addEventListener("message", async (e) => {
+    if (!e.data || e.data.type !== type) return;
+    e.source.postMessage(
+      { data: await callback(e.data.data), id: e.data.id },
+      "*"
+    );
+  });
+}
+
+registerListener("identify", (d) => {
+  return config.source;
+});
+
+registerListener("print", (d) => {
+  console.log(`${config.source}: `, d);
+});
+
+const subdomain = window.location.hostname.split(".")?.[0];
+
+let iframe;
+
+function setHeight(d) {
+  console.log(config.source, "set height", d);
+  if (iframe) iframe.parentElement.removeChild(iframe);
+  iframe = document.createElement("iframe");
+  document.body.appendChild(iframe);
+  iframe.src = `https://${subdomain}.wikidot.com/common--javascript/resize-iframe.html#${d}/${window.location.pathname
+    .split("/")
+    .at(-3)}`;
+  iframe.style.display = "none";
+}
+
+registerListener("setHeight", (d) => {
+  setHeight(d);
+});
+
+function waitForFrame(name) {
+  return new Promise((resolve, reject) => {
+    let resolved = false;
+    let callback = async () => {
+      if (resolved) return;
+      for (let i = 0; i < window.parent.frames.length; i++) {
+        const f = window.parent.frames[i];
+        try {
+          const identity = await send(f, "identify", undefined, 1000);
+          if (identity == name) {
+            resolve(f);
+            clearInterval(callback);
+            resolved = true;
+            break;
+          }
+        } catch (e) {}
+      }
+      if (!resolved) setTimeout(callback, 0);
+    };
+    let interval = setInterval(callback, 200);
+  });
+}
+</script>
+<script>
+  const scrollSvgRaw = (async () =>
+    await (
+      await fetch(
+        `https://scp-wiki.wdfiles.com/local--files/scp-anthology-2025/scroll.svg`
+      )
+    ).text())();
+
+  setHeight("10");
+
+  let currentVolume = 1.0;
+  let currentAccent;
+  let ispreview = false;
+  let targetTime;
+
+  function instantiateOverlayTemplate(params) {
+    const {
+      nodeclass,
+      eng,
+      hebrew,
+      accent,
+      icon,
+      banner,
+      description,
+      slug,
+      author,
+      audioFile,
+      preview,
+      title,
+      time,
+    } = params;
+
+    ispreview = preview === "true";
+
+    currentAccent = accent;
+    targetTime = time;
+
+    const dom =
+      preview === "true"
+        ? new DOMParser().parseFromString(
+            `<div class="node ${nodeclass}">
+                                              <style>
+  .${nodeclass} .emanation-container::before {
+  --icon: ${icon};
+  }
+                                              </style>
+      <ul
+        class="emanation-container"
+        style="--icon: ${icon}; --banner: ${banner}; --accent: ${accent};"
+      >
+        <li class="folded">
+          <div class="emanation-menu-wrapper">
+            <div class="emanation-menu">
+              <div class="e-scroll-container">
+                <div class="e-scroll"></div>
+              </div>
+              <div class="e-scroll-contents">
+                <h2>${eng.toUpperCase()}</h2>
+                <div id="e-timer"></div>
+                <div class="e-content">
+                  ${description}
+                </div>
+              </div>
+            </div>
+          </div>
+          <br />
+        </li>
+      </ul>
+    </div>`,
+            "text/html"
+          )
+        : new DOMParser().parseFromString(
+            `<div class="node ${nodeclass}">
+                                              <style>
+  .${nodeclass} .emanation-container::before {
+  --icon: ${icon};
+  }
+                                              </style>
+      <ul
+        class="emanation-container"
+        style="--icon: ${icon}; --banner: ${banner}; --accent: ${accent};"
+      >
+        <li class="unfolded">
+          <div class="emanation-menu-wrapper">
+            <div class="emanation-menu">
+              <div class="e-scroll-container">
+                <div class="e-scroll"></div>
+              </div>
+              <div class="e-scroll-contents">
+              <div class="e-image"></div>
+              <div class="e-description">
+                <div class="e-sephirot-container">
+                  <div class="e-sephirot">
+                    ${eng.toUpperCase()}
+                  </div>
+                </div>
+                <div class="e-title-container">
+                  <h2 id="toc9"><span>${title.toUpperCase()}</span></h2>
+                  <div class="e-author">
+                    by <strong>${author}</strong>
+                  </div>
+                </div>
+                <div class="e-audio">
+                  <div class="audio_iframe ${eng}">
+                    <audio id="audio" autoplay>
+                      <source src="${audioFile}" type="audio/mpeg">
+                    </audio>
+                    <div class="audio-controls">
+                      <button id="audio-play-pause"></button>
+                      <div id="audio-progress"></div>
+                      <div id="audio-volume-controls" tabindex="0">
+                        <div id="audio-volume-controls-inverted">
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="e-content">
+                  ${description}    
+                </div>
+                <div class="e-destination">
+                  <a target="_parent" class="e-link" href="/${slug}">${slug.toUpperCase()}</a
+                  >
+                </div>
+              </div>
+              </div>
+            </div>
+          </div>
+          <br />
+        </li>
+      </ul>
+    </div>`,
+            "text/html"
+          );
+
+    return dom.querySelector(".node");
+  }
+
+  let audio;
+
+  function wait(ms) {
+    return new Promise((resolve, reject) => {
+      setTimeout(resolve, ms);
+    });
+  }
+
+  let opened = false;
+
+  registerListener("open", async (data) => {
+    if (opened) return;
+    opened = true;
+    setHeight("1");
+    const root = document.querySelector("#root");
+
+    root.appendChild(instantiateOverlayTemplate(data));
+
+    const closeButton = document.createElement("button");
+    closeButton.className = "e-close-button";
+    root.appendChild(closeButton);
+    closeButton.style.setProperty("--accent", currentAccent);
+    closeButton.innerHTML = "<div>✖</div>";
+    closeButton.onclick = () => {
+      closeOverlay();
+    };
+    closeButton.ontouchstart = () => {
+      closeOverlay();
+    };
+
+    audio = document.getElementById("audio");
+
+    // (async () => {
+    const scrollElement = document.querySelector(".e-scroll");
+    const scrollWithColors = (await scrollSvgRaw)
+      .replaceAll("#aaaaaa", currentAccent)
+      .replaceAll("#e6e6e6", currentAccent)
+      .replaceAll("#333333", "#16141E");
+    scrollElement.style.backgroundImage = `url('data:image/svg+xml;base64,${btoa(
+      scrollWithColors
+    )}')`;
+    // })();
+
+    if (ispreview) {
+      const timer = document.getElementById("e-timer");
+
+      setInterval(() => {
+        const currentTime = Date.now();
+        const releaseTime = new Date(targetTime).getTime();
+
+        const timeUntilRelease = releaseTime - currentTime;
+
+        if (timeUntilRelease > 0) {
+          const seconds = Math.floor(timeUntilRelease / 1000);
+          const minutes = Math.floor(seconds / 60);
+          const hours = Math.floor(minutes / 60);
+          const days = Math.floor(hours / 24);
+          timer.innerText = `${days}:${(hours % 24)
+            .toString()
+            .padStart(2, "0")}:${(minutes % 60).toString().padStart(2, "0")}:${(
+            seconds % 60
+          )
+            .toString()
+            .padStart(2, "0")}`;
+        }
+      }, 100);
+
+      return;
+    }
+
+    const playPauseButton = document.getElementById("audio-play-pause");
+    const audioProgress = document.getElementById("audio-progress");
+    const volumeSlider = document.getElementById("audio-volume-controls");
+    const volumeSliderAmount = document.getElementById(
+      "audio-volume-controls-inverted"
+    );
+
+    function getVolumeIcon(variant, color) {
+      const svg = {
+        high: `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title>volume-high</title><path fill="${color}" d="M14,3.23V5.29C16.89,6.15 19,8.83 19,12C19,15.17 16.89,17.84 14,18.7V20.77C18,19.86 21,16.28 21,12C21,7.72 18,4.14 14,3.23M16.5,12C16.5,10.23 15.5,8.71 14,7.97V16C15.5,15.29 16.5,13.76 16.5,12M3,9V15H7L12,20V4L7,9H3Z" /></svg>`,
+        med: `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title>volume-medium</title><path fill="${color}" d="M5,9V15H9L14,20V4L9,9M18.5,12C18.5,10.23 17.5,8.71 16,7.97V16C17.5,15.29 18.5,13.76 18.5,12Z" /></svg>`,
+        low: `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title>volume-low</title><path fill="${color}" d="M7,9V15H11L16,20V4L11,9H7Z" /></svg>`,
+        off: `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title>volume-mute</title><path fill="${color}" d="M3,9H7L12,4V20L7,15H3V9M16.59,12L14,9.41L15.41,8L18,10.59L20.59,8L22,9.41L19.41,12L22,14.59L20.59,16L18,13.41L15.41,16L14,14.59L16.59,12Z" /></svg>`,
+      }[variant];
+      return `url('data:image/svg+xml,${encodeURIComponent(svg)}')`;
+    }
+
+    function getVolumeBackgroundOffset(variant) {
+      return {
+        high: "-0.02em 0",
+        med: "-0.22em 0",
+        low: "-0.45em 0",
+        off: "0 0",
+      }[variant];
+    }
+
+    function setPlayIcon() {
+      playPauseButton.style.backgroundImage = `url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title>play</title><path fill="${encodeURIComponent(
+        currentAccent
+      )}" d="M8,5.14V19.14L19,12.14L8,5.14Z" /></svg>')`;
+    }
+
+    function setPauseIcon() {
+      playPauseButton.style.backgroundImage = `url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title>pause</title><path fill="${encodeURIComponent(
+        currentAccent
+      )}" d="M14,19H18V5H14M6,19H10V5H6V19Z" /></svg>')`;
+    }
+
+    setPauseIcon();
+
+    audio.volume = currentVolume;
+
+    audio.onended = () => {
+      setPlayIcon();
+    };
+
+    let clickingVolume = false;
+
+    function updateVolumeSliderStyling() {
+      volumeSliderAmount.style.setProperty(
+        "--volume-amount",
+        `${(1 - currentVolume) * 100}%`
+      );
+
+      let volumeSliderVariant = "off";
+      if (currentVolume > 0) volumeSliderVariant = "low";
+      if (currentVolume > 0.333) volumeSliderVariant = "med";
+      if (currentVolume > 0.666) volumeSliderVariant = "high";
+      volumeSlider.style.backgroundImage = getVolumeIcon(
+        volumeSliderVariant,
+        currentAccent
+      );
+      volumeSliderAmount.style.backgroundImage = getVolumeIcon(
+        volumeSliderVariant,
+        "#16141E"
+      );
+
+      volumeSlider.style.backgroundPosition =
+        getVolumeBackgroundOffset(volumeSliderVariant);
+      volumeSliderAmount.style.backgroundPosition =
+        getVolumeBackgroundOffset(volumeSliderVariant);
+    }
+
+    updateVolumeSliderStyling();
+
+    function calculateVolumeFromOffset(offset) {
+      const rect = volumeSlider.getBoundingClientRect();
+      const fract = 1 - (offset - rect.top) / rect.height;
+      calculateVolume(fract);
+    }
+
+    function calculateVolume(fract) {
+      currentVolume = Math.min(Math.max(0, fract), 1);
+      audio.volume = currentVolume;
+      updateVolumeSliderStyling();
+    }
+
+    volumeSlider.addEventListener("keydown", (e) => {
+      // if (document.activeElement !== volumeSlider) return;
+      if (e.key === "ArrowUp") {
+        calculateVolume(currentVolume + 0.05);
+      } else if (e.key === "ArrowDown") {
+        calculateVolume(currentVolume - 0.05);
+      }
+    });
+
+    volumeSlider.onmousedown = (e) => {
+      calculateVolumeFromOffset(e.clientY);
+
+      const mousemoveListener = (e) => {
+        calculateVolumeFromOffset(e.clientY);
+      };
+
+      const mouseupListener = () => {
+        document.removeEventListener("mouseup", mouseupListener);
+        document.removeEventListener("mousemove", mousemoveListener);
+      };
+      document.addEventListener("mouseup", mouseupListener);
+      document.addEventListener("mousemove", mousemoveListener);
+    };
+
+    playPauseButton.onclick = () => {
+      if (audio.paused) {
+        setPauseIcon();
+        audio.play();
+      } else {
+        setPlayIcon();
+        audio.pause();
+      }
+    };
+
+    playPauseButton.ontouch = playPauseButton.onclick;
+
+    audio.ontimeupdate = () => {
+      const fraction = audio.currentTime / audio.duration;
+      const percentDone = fraction * 100;
+      audioProgress.style.setProperty("--percent-done", `${percentDone}%`);
+    };
+
+    audioProgress.onclick = (e) => {
+      const rect = audioProgress.getBoundingClientRect();
+      const fraction = e.offsetX / rect.width;
+      const seconds = fraction * audio.duration;
+      audio.currentTime = seconds;
+    };
+  });
+
+  function closeOverlay() {
+    opened = false;
+    setHeight("10");
+    if (audio) audio.pause();
+    document.querySelector("#root").innerHTML = "";
+  }
+
+  registerListener("close", () => {
+    closeOverlay();
+  });
+
+  document.body.addEventListener("click", (e) => {
+    if (e.target === document.body) {
+      closeOverlay();
+    }
+  });
+
+  window.onload = () => {
+    throw new Error(
+      "ignore this error; this is just to disable the normal iframe resizing behavior by deliberately making wikidot's builtin code crash."
+    );
+  };
+</script>
+
+[[/html]]
+
+
+
+
+[[include :scp-zh-tr:component:license-box
+author=Yossipossi
+]]
+[[div class="blockquote"]]
+ **Name:** Anthology 2025 Header
+**Author:** [[*user EstrellaYoshte]]
+**License:** CC BY-SA 4.0
+**Source Link:** This page
+**Derivative Of:**
+----
+ **Name:** Брокенський привид на Шпицях
+**Author:** Михайло Пецкович
+**License:** CC BY-SA 4.0
+**Source Link:** [https://commons.wikimedia.org/wiki/File:%D0%91%D1%80%D0%BE%D0%BA%D0%B5%D0%BD%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%BF%D1%80%D0%B8%D0%B2%D0%B8%D0%B4_%D0%BD%D0%B0_%D0%A8%D0%BF%D0%B8%D1%86%D1%8F%D1%85.jpg Wikimedia Commons]
+[[/div]]
+
+[[div class="blockquote"]]
+ **Name:** Opening quote
+**Author:** Moses de León
+**License:** Public Domain
+**Source:** //Zohar// Vol. II, Balak 193b
+[[/div]]
+
+[[div class="blockquote"]]
+ **Name:** Pillars of creation 2014 HST WFC3-UVIS
+**Author:** NASA, ESA, and the Hubble Heritage Team
+**License:** Public Domain
+**Source Link:** [https://en.wikipedia.org/wiki/File:Pillars_of_creation_2014_HST_WFC3-UVIS_full-res_denoised.jpg Wikimedia Commons]
+[[/div]]
+[[include :scp-zh-tr:component:license-box-end]]
