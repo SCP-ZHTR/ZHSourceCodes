@@ -401,18 +401,9 @@ Curabitur sed dui nec libero fringilla placerat. Pellentesque imperdiet ac dolor
 {{m-search}}
 [[/div]]
 
-[[div class="mars right m-defence"]]
-{{m-defence}}
-[[/div]]
-
-[[div class="mars m-sad"]]
-{{m-sad}}
-[[/div]]
-
-[[div style="background-color: #fefefe; padding: 0.8em;"]]
 [[div class="flip"]]
-[[div class="mars right m-loading"]]
-{{m-loading}}
+[[div class="mars right m-warning"]]
+{{m-warning}}
 
 如欲將頭像水平反轉，請在//{{@@[[div class="mars"]]@@}}//外增加//{{@@[[div class="flip"]]@@}}//，即：
 [[div class="blockquote"]]
@@ -424,13 +415,17 @@ Curabitur sed dui nec libero fringilla placerat. Pellentesque imperdiet ac dolor
 [[/div]]
 [[/div]]
 [[/div]]
+
+[[div class="mars m-sad"]]
+{{m-sad}}
 [[/div]]
 
-[[div style="background-color: #0f0f13; padding: 0.8em;"]]
-[[div class="mars m-loadingb"]]
-{{m-loadingb}}
+[[div class="flip"]]
+[[div class="mars right m-loading"]]
+{{m-loading}}
 [[/div]]
 [[/div]]
+
 
 @@ @@
 
@@ -851,13 +846,12 @@ span:is(.specialtext, .st) {
 :root {
  --mars-bg-color: 255, 244, 155;
  --mars-icon: var(--m-default);
- --m-default: url("https://i.imgur.com/uOMHHCU.gif");
- --m-box: url("https://i.imgur.com/GlFdvtN.png");
- --m-search: url("https://i.imgur.com/d32OIK9.png");
- --m-sad: url("https://i.imgur.com/PA1xZMC.png");
- --m-defence: url("https://i.imgur.com/WRhr04H.png");
- --m-loading: url("https://i.imgur.com/sflFmwu.gif");
- --m-loadingb: url("https://i.imgur.com/jkLDcgS.gif");
+ --m-default: url("https://i.postimg.cc/2S7TPXLk/ezgif-com-animated-gif-maker.gif");
+ --m-box: url("https://i.postimg.cc/4xQwrFHd/peper-fu-zhi-01.png");
+ --m-search: url("https://i.postimg.cc/t4NDLmn9/peper-fu-zhi-11.png");
+ --m-sad: url("https://i.postimg.cc/zGFp9PH8/peper-fu-zhi-06.png");
+ --m-warning: url("https://i.postimg.cc/cLBTV5tL/peper-fu-zhi-12.png");
+ --m-loading: url("https://i.postimg.cc/zGFp9PH5/ezgif-com-animated-gif-maker-1.gif");
 
  --mchat-bg-color: 179, 235, 242;
 }
@@ -975,17 +969,13 @@ span:is(.specialtext, .st) {
 .mars.right.m-sad {
 --mars-icon: var(--m-sad);
 }
-.mars.m-defence,
-.mars.right.m-defence {
---mars-icon: var(--m-defence);
+.mars.m-warning,
+.mars.right.m-warning{
+--mars-icon: var(--m-warning);
 }
 .mars.m-loading,
 .mars.right.m-loading {
 --mars-icon: var(--m-loading);
-}
-.mars.m-loadingb,
-.mars.right.m-loadingb {
---mars-icon: var(--m-loadingb);
 }
 
 
