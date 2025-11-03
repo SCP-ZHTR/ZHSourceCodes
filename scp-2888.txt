@@ -127,7 +127,7 @@ SCP-2888具有預知能力，能探測周圍人員任何迫在眉睫的生命威
 * 即將發生的收容突破
 
 [[div class="grid-item"]]
-[[include component:image-block name= canary.jpg |caption= 警告狀態的SCP-2888。 |width=400px|align= right]]
+[[include component:image-block name= https://scp-wiki.wdfiles.com/local--files/scp-2888/canary.jpg |caption= 警告狀態的SCP-2888。 |width=400px|align= right]]
 [[/div]]
 
 一旦偵測到威脅，SCP-2888就會進入「警告狀態」並自發復活。
