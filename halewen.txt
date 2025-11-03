@@ -43,6 +43,9 @@ mix-blend-mode: initial;
 喔不，我不要獸罰
 [[/tab]]
 [[tab 幾張畫]]
+- [[[https://scp-wiki.wikidot.com/art:the-ein-sof | The Ein Sof]]]
+> 根據[[[SCP-9987]]]繪製的作品！由偉大的[[*user Tufto]]所撰寫，推薦大家都讀看看。
+
 - [[[art:and-you-fell|而你接著墜落。]]]
 > 與[[*user Haru Ken]]的合作，[[[scp-8654|SCP-8654]]]的繪畫。沒有Ken的幫忙，這篇也不會出現在這，各位也可以去看看[[[haruken-k2|Ken的作者頁]]]，裏頭也有不少作品。
 
