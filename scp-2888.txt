@@ -1,0 +1,200 @@
+[[include component:scp-meta-title-hiding css-style=classic]]
+[[include :scp-zh-tr:component:blacklight-box-source |inc-source= --]]]
+[[include :scp-zh-tr:component:blacklight-box-source |inc-colors= --]
+|color-family=oro-red
+|bg-color=rgb(0,0,0)
+|txt-color=rgb(255,0,51)
+|border-color=rgb(255,0,51)
+|label-bg-color=rgb(255,0,51)
+|label-txt-color=rgb(0,0,0)
+]]
+
+[[module css]]
+@import url('https://scp-wiki.wdfiles.com/local--files/theme:isolated-terminal/terminus.css');
+
+.aic {
+  font-family: 'terminus_ttfmedium', sans-serif;
+  font-weight: 1000;
+  font-size: 1.15em;
+}
+
+[[/module]]
+
+[[include :scp-zh-tr:theme:basalt darkmode=a|acs-itemnum=a|centertitle=a]]
+
+[[module css]]
+:root:lang(zh) {
+
+    --header-logo: url('https://scp-wiki.wdfiles.com/local--files/dinodraws-author-page/departmentofgeology%20darkmode.png');
+ --title: "地質學部";
+  --subtitle: "正如其上，其下亦然";
+    --space-body-bg: url(https://scp-wiki.wdfiles.com/local--files/scp-8446/backgroundattempt3.jpg);
+body {
+    background-image: var(--space-body-bg);
+    background-size: 100%;
+    background-attachment: fixed;
+
+  background-size: cover;
+  background-position: center;
+
+@media only screen and (max-width: 600px){
+#content-wrap{
+background-image:none;
+}
+#content-wrap:before{
+content:"";
+display:block;
+position:fixed;
+left:0;
+top:0;
+width:100vw;
+height:100vh;
+background-size:cover;
+background:url("https://scp-wiki.wdfiles.com/local--files/scp-8446/mobilebackground.png") no-repeat 65% 20% !important;
+z-index:-1;
+}
+
+}
+}
+
+[[/module]]
+
+[[module css]]
+.edit {background-color:#2e0b0e;"}
+}
+[[/module]]
+
+[[include component:preview
+text=
+安全起見，已將遺骸與籠子全數掩埋。]]
+=====
+
+[[div style="display: none;" class="crom-thumbnail"]]
+[[include component:image-block name= https://scp-wiki.wdfiles.com/local--files/scp-2888/thumbnailc.png]]
+[[/div]]
+[[include info:start]]
+[[=]]
+原文：[https://scp-wiki.wikidot.com/scp-2888 SCP-2888] 死金絲雀
+作者：[[*user Dino--Draws]]
+譯者：[[*user Frederica Bernkastel]]
+**[https://scp-wiki.wikidot.com/dinodraws-author-page 點擊此處查看我的其他作品！]**
+⚠️ **內容警告：** 本文包含對死亡鳥類的詳細描繪，以及對動物虐待的暗示。
+[[/=]]
+[[include info:end]]
+[[include :scp-zh-tr:component:info-cw]]
+
+[[include :scp-zh-tr:component:customizable-acs
+|containment-class= safe
+|containment-color= 0,159,107
+|secondary-class= runs red
+|secondary-color= 0,0,0
+|inc-split-color= --]]]
+
+[[include :scp-zh-tr:component:customizable-acs
+|containment-class= safe
+|containment-image= https://scp-wiki.wdfiles.com/local--files/component%3Aanomaly-class-bar/safe-icon.svg
+|containment-color= 0,159,107
+|inc-esoteric-layout = --]]]
+
+[[div class="anom-bar-esoteric"]]
+
+[[include :scp-zh-tr:component:anomaly-class-bar-source
+|item-number= 2888
+|clearance= 2
+|container-class= safe
+|secondary-class= runs red
+|secondary-icon= https://scp-wiki.wdfiles.com/local--files/scp-8987/runsred.png
+|disruption-class= vlam
+|risk-class= notice
+]]
+
+[[/div]]
+
+**特殊收容措施：** 經Site-898維安部門批准，職員可使用籠子攜帶SCP-2888進行巡邏或維護作業。在不使用SCP-2888時，籠子應懸掛於Site-898的地下收容翼區內，鄰近主要安全檢查站處。[[footnote]]奔紅級異常應由Site-898逐案處理。[[/footnote]]
+
+就這個角度而言，SCP-2888可視為收容區的預警系統。
+
+**描述：** SCP-2888是約18具的家金絲雀屍體，屍體腐爛程度不一，並交混成亂麻般的鳥喙、翅膀、爪子團。在羽毛腐爛之處，可以看到SCP-2888大部分骨頭已經斷裂。SCP-2888中心部分嵌入了一團鐵渣。
+
+據信SCP-2888是頂峰無煙煤業[[footnote]] 此乃馬歇爾、卡特、達克公司的前臺公司，於紅溪礦區營運。 [[/footnote]]在開採作業早期，由[http://scp-zh-tr.wikidot.com/scp-8987 SCP-8987]演變而得──其存在於最早的礦場文件中有所記錄。更多細節參見**探索**部分。
+
+SCP-2888具有預知能力，能探測周圍人員任何迫在眉睫的生命威脅。[[footnote]] 確切範圍不明，但通常是周圍20公尺的範圍內。[[/footnote]]儘管尚未釐清SCP-2888判斷危險的方式，但項目已對以下情事做出了反應：
+
+* 有毒氣體的存在
+* 極低氧氣水準
+* 好鬥掠食動物
+* 結構坍塌
+* 即將發生的收容突破
+
+[[div class="grid-item"]]
+[[include component:image-block name= canary.jpg |caption= 警告狀態的SCP-2888。 |width=400px|align= right]]
+[[/div]]
+
+一旦偵測到威脅，SCP-2888就會進入「警告狀態」並自發復活。
+
+一旦復活，SCP-2888將自我集聚，形成近似姿勢/皺毛金絲雀的形體。[[footnote]] 家金絲雀的品種，其​​特徵為背部弓起、腿部僵硬、脖子較長。[[/footnote]]為形成上述狀態，項目會利用籠子的欄桿，將所有翅膀上翻到背上，同樣項目也會將所有四肢下翻到腹部，並將所有頭部向頸部靠攏。這些動作通常會導致項目自身的骨骼斷裂，造成更進一步的變異，但通常都能成功將殘骸調整成此形狀。
+
+項目「頭部」並不包含任何殘骸的頭部。另一方面，項目細長的頸部通常是肉質結節之狀，結節上還穿透著鐵刺。構成SCP-2888的所有屍體，都展現出獨立生命體性質，這使得該異常難以達成運動與導向偕同。一旦復活，SCP-2888就會顯現出其物種的典型行為並開始歌唱。
+
+項目的鳥鳴聲並無異常，但由於是18隻鳥屍的同時鳴叫，因此要遠比正常的金絲雀響亮。在警戒狀態期間，SCP-2888將會持續鳴叫不止。
+
+SCP-2888的警戒狀態將在威脅解除後結束，隨後其形態會崩解並坍縮回先前狀態。
+
+這將導致項目的生命立即終止。
+
+**發現：** SCP-2888的存在，最初僅在紅色金絲雀調查後期回收頂峰無煙煤業文件有所記載。據信，該紀錄最早出現於一名礦工的證詞之中，下為相關部分的文字記錄：
+
+[[div class="darkdocument"]]
+
+[……]羅辛斯還在喋喋不休地叨唸那些鳥。自從我們埋葬了最後一隻，凱許納又以費用之類的破理由拒絕再運一些過來後，他就一直這樣講個不停。我們明明沒金絲雀了，但羅辛斯一直說他能聽到牠們的叫聲。當夜裡的郊狼發出嚎叫時，或是礦井的空氣變得污濁時，他都能聽到牠們的聲音。顯然，他不是唯一一個聽到這些聲音的人。我一直問他：「你確定你聽到的不是沼澤那些黃腹鸚鵡的叫聲嗎？」他始終搖頭以對，說他是聽得出金絲雀歌聲的。
+
+我感覺撞到//鳥鬼//什麼的太荒謬了，但大夥都開始變得焦躁起來。於是我帶著幾個人徒步去了我們的垃圾場，朝沼澤開始蔓延到我們土路上的轉角走去。
+
+我們用空籠子標記了埋屍的地點，確保把牠們全埋在同一個地方。那是在垃圾場角落，離垃圾堆有點距離的地方。我們走到那裡時，空氣中還瀰漫著腐臭味。然而，那個籠子卻不見了，只剩下一個小洞。
+
+小洞是空的。
+
+周圍濺滿了泥土。我以為是郊狼幹的，但爪痕太小了，不可能是郊狼留下的。不只太小，數量也不對。就只有三道爪痕，泥裡還殘留著黃色的羽毛。
+
+是牠們把自己挖出來的。[……]
+[[/div]]
+
+與之相關的實體文件包括一張交付清單，其中指出SCP-2888已經運離了紅溪礦區。[[footnote]]礦井運出貨物均未標明確切裝運地點。但紅金絲雀調查團隊回收的部分信件暗示，部分物資被運往了北方的紐約市。[[/footnote]]由於該紀錄早於基金會介入的兩年之前，紅金絲雀調查團隊認為該線索已然斷線。
+
+1966年8月11日，SCP-2888於賓州費城里奇大道農夫市集內再度出現。此前，當地報紙開始刊登SCP-2888的廣告。廣告將SCP-2888描述為「鬧鬼的動物標本」，並詢問讀者是否有「將其喚醒的勇氣」。
+
+機動特遣隊Gamma-89「進退兩難」以常規手段購得了SCP-2888。由於鳥籠欄桿與底部都發現了焦炭與灰燼，推測先前宣傳「喚醒」SCP-2888的嘗試，是以明火帶入籠內觸發了項目的警戒狀態。
+
+此外，最初發現SCP-2888的籠子底部刻著以下文字：
+
+[[div class="blockquote"]]
+[[=]]
++++ //槍石拍賣有限公司//
+[[/=]]
+[[/div]]
+
+項目與頂峰無煙煤業可能存在關聯的調查[https://scp-zh-tr.wikidot.com/black-lungs 正待批准中]。
+
+[[=]]
+[[include :scp-zh-tr:component:license-box
+|author=Dino--Draws
+]]
+
+> **Filename:** canary.jpg
+> **License:** CC BY-SA 3.0
+> **Author:** [[*user Dino--Draws]]
+
+This image is a composite of:
+
+> **Name:** File:Cage 1.JPG
+> **Author:** Sargis Babayan
+> **License:** CC BY-SA 3.0
+> **Source Link:** https://commons.wikimedia.org/wiki/File:Cage_1.JPG
+
+> **Name:** File:Alexandria - Pompey's Pillar - underground room.JPG
+> **Author:** Daniel Mayer
+> **License:** CC BY-SA 3.0
+> **Source Link:** https://commons.wikimedia.org/wiki/File:Alexandria_-_Pompey%27s_Pillar_-_underground_room.JPG
+
+[[include :scp-zh-tr:component:license-box-end]]
+[[/=]]
