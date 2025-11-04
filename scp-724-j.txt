@@ -1,0 +1,64 @@
+[[include component:scp-meta-title-hiding css-style=classic]]
+
+[[include info:start]]
+**SCP-724-J - 壞心蟑螂**
+**原文：**[https://scp-wiki.wikidot.com/scp-724-j SCP-724-J - Bad Roach]
+作者：[[*user daveyoufool]]
+譯者：[[*user AgNH32zheng]]
+[[include info:end]]
+
+**項目編號：**SCP-724-J
+
+**項目等級：**>:3
+
+**在乎程度[[footnote]]**譯註：**原文為Fucks Given。[[/footnote]]：**n/a
+
+**特殊收容措施：**SCP-724-J須收容於一標準收容櫃中。不鼓勵人員與SCP-724-J互動、餵食，或以任何方式鼓勵SCP-724-J繼續存在。
+
+此外，--SCP-724-J應持續//loaded like a freight train, flyin' like an aeroplane, feelin' like a space brain one more time toniiyiiiight I'M ON THE NIGHTRAAAAAIN bottoms up I'M ON THE NIGHTRAIN fill mah cup I'M ON THE NIGHTRAIN ready to crash and buuuuurn I NEVER LEEEARN//--[[footnote]]**譯註：**搖滾樂團槍與玫瑰（Guns N' Roses）的歌曲《Nightrain》的部分歌詞。[[/footnote]] **SCP-724-J不再允許接近任何電腦鍵盤5公尺以內。**
+
+**描述：** SCP-724-J 為一隻//[[[SCP-006-J|Periplaneta americana]]]//（美洲大蠊），據信是[[[SCP-723-J]]]的弟弟。
+
+SCP-724-J的異常表現在其對道德、他人感受、規定與基本衛生的完全無視。他因菸癮過重導致嚴重氣喘，連續七年未進行繳稅申報，涉嫌於特克薩卡納市連環偷竊，並曾在喝了Costco自有品牌威士忌後，醉駕牠的1997年哈雷FLHR Road King重機。
+
+> █████博士：//我就直說了：他真的需要振作。我們大家都替他擔心。他哥真的要死不瞑目了。//
+ 
+> █████博士：//你知道嗎，我想他就是讓他哥那麼傷心的原因。要是他願意給傷心蟑螂一個機會，好好和唯一的家人建立點感情，也許兩個蟑螂的螂生都能過得好一點。可是724-J就是不肯對任何人敞開心房，因為他覺得這樣很沒男子氣概，真的讓我很火大。723-J值得更好的家人，而不是這種傢伙。//
+
+最初發現SCP-724-J時，其正從Site-19的「蟑螂精品汽車旅館」昆蟲誘捕器內離開，同行的還有SCP-72█-J[[footnote]]「妓女蟑螂」尚未被收容。[[/footnote]]。在經過長達五小時的交火，伴隨基金會13名人員的傷亡[[footnote]]「它到底從哪搞到一把人類尺寸的霰彈槍的？！」——O5-11[[/footnote]]，最終成功拘捕並初步收容。
+
+> **SCP-724-J收容紀錄**
+> 
+> **採訪者：**Lisle Naismith博士
+> 
+> **受訪者：**SCP-724-J
+> 
+> ＜紀錄開始＞
+> 
+> **Naismith博士：**你覺得這樣的行為，你哥哥會以你為榮嗎？
+> 
+> ［沉默］
+> 
+> **Naismith博士：**嗯？我可以在這裡坐一整天等你的回答。
+> 
+> ［沉默］
+> 
+> **Naismith博士：**等一下……你哪裡弄來那副迷你墨鏡？
+> 
+> ［D-2999進入］
+> 
+> **D-2999：**不好意思打擾，但剛剛必勝客有人送來五千美元的超大號原味披薩，要給Lisle Naismith博士？
+> 
+> **Naismith博士：**什麼……
+> 
+> **SCP-724-J：**[[size 50%]]掏錢吧，王八蛋。[[/size]]
+> 
+> **Naismith博士：**壞心蟑螂，不！
+
+[[footnoteblock]]
+
+[[include :scp-zh-tr:component:license-box
+|author=daveyoufool
+|translator=AgNH32zheng
+|lang=EN]]
+[[include :scp-zh-tr:component:license-box-end]]
