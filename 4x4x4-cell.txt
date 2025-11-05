@@ -5,7 +5,6 @@
 :root:lang(zh) {
     --wanderer-green: 34, 139, 34;
     --wanderer-green-light: 184, 224, 184;
-    --header-subtitle: " ";
     --accent-color: var(--wanderer-green);
     --bg-color2: var(--wanderer-green-light); 
     --logo-image: url("https://wanderers-library.wikidot.com/local--files/component:dustjacket-theme/wl_logo.png");
