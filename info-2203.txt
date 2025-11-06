@@ -1,40 +1,245 @@
-[!-- doopdoopdoop --]
+[[include :scp-zh-tr:theme:basalt | hidetitle=a | darkmode=a]]
+[[div style="
+  position:relative;
+  width:100vw; max-width:100vw;
+  margin-left:calc(50% - 50vw);
+  margin-right:calc(50% - 50vw);
+  overflow:hidden;
+"]]
 
-+++ Introduction
+  [[div style="position:relative;width:100vw;min-height:80vh;max-height:900px;overflow:hidden;"]]
 
-Greetings. Welcome to the Attribution Metadata page. This page is used to store user attributions in cases where they could not be stored natively by the site's software platform, or to override them if they were stored incorrectly. This includes information about authors, coauthors, rewrites, translations, and other similar things.
+    [[div style="position:absolute;inset:0;
+      background:url(https://i.postimg.cc/k4v1GVjn/122221.png) center/cover no-repeat;
+      background-attachment:fixed; filter:brightness(0.95);"]]
+    [[/div]]
 
-Please note that this page is only used to attribute original site content to past and present members of the site. Attributions for off-site materials or to individuals unaffiliated with the site, such as image attributions, are kept elsewhere
+    [[div style="position:absolute;inset:0;
+      background:url(https://i.postimg.cc/7hDL1RM0/qian-mian.png) center/cover no-repeat;"]]
+    [[/div]]
 
-+++ Usage guidelines
+    [[div style="position:absolute;inset:0;
+      background:url(https://i.postimg.cc/B6qRBXgj/qian-mian2.png) center/cover no-repeat;"]]
+    [[/div]]
 
-This page and its children are locked to edits. Please notify a staff member if you would like an entry added.
+    [[div style="position:absolute;inset:0;
+      box-shadow:inset 0 0 160px rgba(0,0,0,.55), inset 0 0 0 12px rgba(255,255,255,.06);"]]
+    [[/div]]
 
-Due to the volume of edits on this page, please remember to leave a change description before saving! This should be a simple description of the changes you have made.
+    [[div style="position:relative;z-index:5;display:flex;align-items:center;justify-content:center;min-height:80vh;text-align:center;padding:2.4rem 1rem;"]]
+      [[div]]
+        [[span style="display:block;font-size:clamp(28px,5.5vw,64px);line-height:1.05;color:#f8fafc;text-shadow:0 2px 10px rgba(0,0,0,.45);"]]
+        聖夜相守越夜耶
+        [[/span]]
+        [[div style="width:90px;height:2px;margin:1rem auto;background:linear-gradient(90deg,transparent,#C9A64C,transparent);border-radius:2px;"]]
+        [[/div]]
+        [[span style="color:rgba(255,255,255,.9);"]]　[[/span]]
+      [[/div]]
+    [[/div]]
+  [[/div]]
 
-If you think that information about a page created by another person is incorrect, please contact a staff member.
+[[/div]]
+[[module CSS]]
+:root {
+  --basalt-background-color: 192, 12, 22;
+  --basalt-primary-color: 192, 12, 22;
+  --basalt-secondary-color: 19, 93, 58;
+  --basalt-tertiary-color: 199, 191, 164;
 
-This page is split into four fragments. Add entries to the appropriate fragment, in alphabetical order:
+  --basalt-main-text-color: 243, 233, 220;
+  --basalt-sub-text-color: 243, 233, 220;
 
-* [https://scp-wiki.wikidot.com/attribution:mainlist Mainlist SCP articles].
-* [https://scp-wiki.wikidot.com/attribution:other-scp Other SCP articles]. This includes 001 proposals, -Js, -EX, -INT, etc.
-* [https://scp-wiki.wikidot.com/attribution:misc All other _default pages]. This includes tales, hubs, essays, etc. Anything that is not in a specific category.
-* [https://scp-wiki.wikidot.com/attribution:categories Special page categories]. This includes any non-default page, such as {{theme:}}s or {{component:}}s. {{fragment:}} pages should __not__ be added.
+  --basalt-bright-element-color: 255, 225, 0;
+  --basalt-dark-element-color: 27, 64, 80;
+
+  --basalt-overtone: 243, 233, 220;
+  --basalt-undertone: 243, 233, 220;
+
+  --title-border-color: 27, 64, 80;
+  --license-area-divider-color: 27, 64, 80;
+  --footer-divider-color: 27, 64, 80;
+  --search-icon-color: 243, 233, 220;
+
+  --hr-color: 243, 233, 220;
+  --general-border-color: 243, 233, 220;
+
+  --rate-module-cancel-color: 192, 12, 22;
+  --scrollbar-thumb-color: 19, 93, 58;
+}
+#side-bar {
+  background: rgb(19, 93, 58);
+  color: rgb(243, 233, 220);
+}
+
+#side-bar a {
+  color: rgb(243, 233, 220);
+}
+
+#side-bar a:hover {
+  color: rgb(255, 191, 0);
+}
+
+a {
+  color: rgb(243, 233, 220);
+}
+
+a:hover {
+  color: rgb(255, 191, 0);
+}
+
+.page-content, #page-content {
+  color: rgb(243, 233, 220);
+  background: rgb(192, 12, 22);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: rgb(243, 233, 220);
+}
+
+hr {
+  border-color: rgb(243, 233, 220);
+}
+[[/module]]
+[[module CSS]]
+#content-wrap { padding-top: 0 !important; }
+#page-content, .page-content { margin-top: 0 !important; padding-top: 0 !important; }
+
+#page-content > :first-child { margin-top: 0 !important; }
+
+
+#container-wrap-wrap,
+#container-wrap,
+#container,
+#content-wrap,
+#page-content,
+.page-content { background: transparent !important; }
+
+
+#header { margin-bottom: 0 !important; border-bottom: 0 !important; }
+}
+#top-bar, 
+#top-bar:before, 
+#top-bar:after {
+  background: transparent !important;
+  border: none !important;
+}
+
+.nav-wrapper,
+#header #top-bar {
+  background: transparent !important;
+  border: none !important;
+}
+
+#top-bar * {
+  border: none !important;
+}
+
+#header {
+  margin-bottom: 0 !important;
+  padding-bottom: 0 !important;
+}
+[[/module]]
++ 123
+++ 聖夜相守：越夜耶 / Together on the Holy Night: Yết night, yeah!
+
+[[div class="jotting"]]
+兩年前，小鴨 [[*user KirQ]] 與大鵝 [[*user SamScript]] 曾建立一個讓越南（VN）與中文（ZH）分部互動的 Discord 伺服器，促成了一次成功的跨分部交流。今年，我們將再次合作舉辦活動——這次是聖誕節的 **跨分部禮物交換活動**。
+[[/div]]
+----
+
+++ 活動簡介
+本活動形式類似 EN Wiki 的 [https://scp-wiki.wikidot.com/art-exchange-hub Art Exchange]。
+
+參加者需填寫以下兩項內容：
+- **What I Can Give**（能提供的禮物，例如插圖、故事、配音、詩歌等）
+- **What I Am Looking For**（希望收到的禮物）
+
+之後將隨機配對至另一分部的參與者，並於聖誕節前後交換禮物。數日後將公開禮物創作者名單。
 
 ----
 
-* The "name" column must match the page's slug. This includes everything after the last dash ("/") character. Where applicable, the category must be included as well. Note that the title of the page can be different from its name.
-* At present, only the following values are accepted in the "type" column:
- * **author** - to override the original creator of the page, or to indicate multiple co-authors.
- * **rewrite** -for major rewrites of the page. Specifying the date is advised to avoid disambiguations.
- * **translator** - for pages originally written on one of the translation off-shots.
-* The "date" column denotes when this particular user became associated with the page. For authors, this is identical to the page's creation date and may be omitted. For rewrites that are edits of an older page, this is the date the edit was made. For rewrites that posted a new page, this is the date the original page was posted. For translators, this is the date on which the translation was posted. _
- _
-The value of the "date" column must follow the "YYYY-MM-DD" pattern - 4-digit year, followed by 2-digit month, and 2-digit date. In cases were the value is in single digits, it must be zero-filled, e.g. 2016-01-05 for January 5, 2016.
-* Empty fields must contain at least one space (" ") character in order to display correctly. In general, only the date field should ever be empty.
+++ 如何報名
+請依下列格式 **在指定串中開新樓層**（不是回覆）或直接聯絡活動主辦：
 
-After editing the page, look at the end result and make sure that the table is displayed correctly - no rows are missing, no gaps or broken cells are present.
+請勿填寫「我什麼都可以」等無明確方向的回答，這會讓對方難以製作禮物。  
+禮物內容必須與 **SCP 或 Wanderer's Library 世界觀相關**，不得要求：
+- 現實物品
+- Steam / 禮物碼等資源
+- 與 SCP 無關的原創 OC 題材
 
-[[module ListPages category="attribution" separate="no" parent="." order="created_at" prependLine="||~ Name||~ User||~ Type||~ Date||"]]
-%%content%%
-[[/module]]
+----
+
+What I Can Give: [你能製作的內容]
+What I Am Looking For: [你想收到的內容]
+
+請勿填寫「我什麼都可以」等無明確方向的回答，這會讓對方難以製作禮物。  
+禮物內容必須與 **SCP 或 Wanderer's Library 世界觀相關**，不得要求：
+- 現實物品
+- Steam / 禮物碼等資源
+- 與 SCP 無關的原創 OC 題材
+
+----
+
+++ 時間表
+
+| 日期 | 階段 |
+|------|------|
+| 11/5 – 11/12 | 報名階段 |
+| 11/14 – 12/8 | 製作禮物 |
+| 12/9 – 12/16 | 替補階段（Pinch-hitting） |
+| 12/16 – 12/25 | 上傳禮物、Discord 聊天開放 |
+
+----
+
+[[collapsible show="+ 詳細流程" hide="- 收起"]]
+
++++ Stage 1：報名（11/5 – 11/12）
+依照上方格式填寫內容。結束時間將另行公告。
+
++++ Stage 2：製作禮物（11/14 – 12/8）
+- 11/14 起將以私訊發送配對結果
+- 你將收到一位來自另一分部的對象資料，並需為其製作禮物
+- 本活動 **匿名進行**。請使用匿名方式提交：
+  - Imgur（繪圖）
+  - 匿名 Pastebin / Sandbox（文字）
+
+匿名 Sandbox 可使用以下 CSS 隱藏歷史紀錄：
+
+@@[[module css]]@@
+@@a#history-button.btn, a#files-button.btn {@@
+@@display: none;@@
+@@}@@
+@@[[/module]]@@
+
+完成後請將禮物傳給：
+- VN 分部：[[*user KirQ]]
+- ZH 分部：[[*user Dr V Valentine]]
+
+若截至 12/8 未收到禮物草稿，將視為未提交並啟動替補機制。
+
++++ Stage 3：替補階段（12/9 – 12/16）
+若有人未完成禮物，將由 Pinch-hitter 代為製作，確保每位參與者都能收到禮物。
+
++++ Stage 4：公開與交流（12/16 – 12/25）
+- 參與者可自行將禮物發佈至各自 Wiki
+- 建議及早發佈以便翻譯至 INT 頻道
+- 活動期間將重新開放跨分部 Discord 伺服器，並舉辦小型互動活動
+
+[[/collapsible]]
+
+----
+
+++ Pinch-Hitter / 替補制度
+- 當原製作者無法交件時，由替補者製作禮物
+- 可能需於短時間內完成作品（最短 96 小時）
+- 僅建議具備快速創作能力者報名
+
+如欲擔任替補，請在報名時註明，並留下聯絡方式（Ex：Discord 帳號）。
+
+----
+
+++ 聯絡方式
+- VN 分部：[[*user KirQ]]
+- ZH 分部：[[*user Dr V Valentine]]
+
+若有任何問題，歡迎私訊詢問。祝大家度過愉快的聖誕節！
