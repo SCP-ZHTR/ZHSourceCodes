@@ -2849,6 +2849,13 @@ SCP-7000與SCP-7000-D並無任何關係。
 ----
 
 [[=]]
+<< **[[[SCP-6643]]]** | **[/on-guard-43-hub 力與毒之語]** | **[[[/bury-the-survivors-hub | 埋葬生還者]]]** >>
+
+[[div class="footer-wikiwalk-nav"]]
+<< [[[SCP-6999]]] | SCP-7000 | [[[SCP-7001]]] >>
+[[/div]]
+
+[[=]]
 [[include :scp-zh-tr:component:license-box]]
 =====
 [[<]]
