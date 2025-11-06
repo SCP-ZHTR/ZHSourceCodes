@@ -217,6 +217,8 @@
 
 * **[*/system:page-tags/tag/鈴人之詩 鈴人之詩] (bellerverse)** - 本文屬於[[[bellerverse|鈴人之詩]]]世界線或者與之相關。
 
+* **[*/system:page-tags/tag/黑鑽豪紳 黑鑽豪紳] (black-diamond-billions)** - 本文屬於[[[black-diamond-billions-hub|黑鑽豪紳]]]世界線或者與之相關。
+
 * **[*/system:page-tags/tag/黑兔公司 黑兔公司] (black-rabbit-company)** - 本文屬於[[[stealingsolidarityhub|盜取團結號]]]世界線或者與之相關。
 
 * **[*/system:page-tags/tag/毀壞假面 毀壞假面] (broken-masquerade)** - 本文屬於[[[broken-masquerade-hub|毀壞的假面舞會]]]世界線或者與之相關。
