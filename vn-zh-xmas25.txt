@@ -167,6 +167,26 @@ hr {
 
 #header { margin-bottom: 0 !important; border-bottom: 0 !important; }
 [[/module]]
+[!-- 浮動式目錄開頭 --]
+[[div class="toc-box"]]
+[[div class="pseudo-title"]]
+**目錄**
+[[/div]]
+[[collapsible show="打開" hide="收起"]]
+----
+[[toc]]
+[[/collapsible]]
+[[/div]]
+[!-- 浮動式目錄內臟 --]
+[[module CSS]]
+.toc-box {position: fixed;right: 5px;bottom: 3.2em;padding-left: 0;padding-right: 0;}.toc-box .pseudo-title {margin: 0.2em 0;padding: 0 2em;text-align: center;}.toc-box hr {margin: 0;padding: 0;background-color: transparent;border: none;border-bottom: 1px dashed gray;}.toc-box #toc {font-size: 95%;min-width: 80px;max-width: 200px;word-break: break-all;border: none!important;}.toc-box #toc .title,.toc-box #toc #toc-action-bar,.toc-box #toc #toc-action-bar a {display: none!important;}.toc-box {margin: 1em auto 1em 0;padding: 0em 0.5em;border: 1px dashed gray;background-color: #62825b;display: table;}.toc-box #toc-list div {margin-left: 0!important;}.toc-box .collapsible-block-unfolded-link,.toc-box .collapsible-block-folded {text-align: center;}@media (max-width: 767px) {.toc-box {animation-name: clear; animation-duration: 1s; animation-delay: 1s; animation-fill-mode: forwards;}.toc-box:hover {animation: none;}}@keyframes clear {to {opacity: 0.45;}}
+[[/module]]
+[!-- 浮動式目錄結尾 --]
+[[include :topia:credit:start-standalone]]
+內文來自於[[*user KirQ]]，火爐圖片來自越分
+外觀主題修改自[[*user Liryn]]&[[*user Liryn]]所創作的[http://scp-zh-tr.wikidot.com/theme:basalt Basalt 外觀主題]
+浮動式目錄來自於日分的[http://scp-jp.wikidot.com/tag-list タグリスト]頁面。
+[[include :topia:credit:end]]
 @@ @@
 @@ @@
 [[div class="document"]]
@@ -174,88 +194,58 @@ hr {
 [[/div]]
 @@ @@
 @@ @@
-++ 活動簡介
-這是一個類似 EN 舉辦的[https://scp-wiki.wikidot.com/art-exchange-hub 藝術交換]
+----
++ 活動簡介
+這是一個類似 EN 舉辦的[https://scp-wiki.wikidot.com/art-exchange-hub 藝術交換]的禮物交換活動。
 
-這是一個在聖誕節／年末假期舉辦的 禮物交換活動。
+參加的創作者需要提供：
 
-參加者可以是 畫師、作者、配音者、詩人 等創作者。
+1.**自己的創作種類**（文字創作、繪畫、音樂等等，甚至網頁都可以[[footnote]]如果不確定可以問咪呀[[*user Dr V Valentine]][[/footnote]]）
 
-參加者會填寫：
+2.**自己希望收到什麼樣的禮物**
 
-自己能提供的禮物種類（如插圖、故事、朗讀、詩）
+需求可以很模糊，也可以很具體：模糊例子：「跟我作品有關的東西就好」具體例子：「一篇包含臘腸芭樂與 SCP-106 的科幻故事」
 
-自己希望收到什麼樣的禮物
-
-需求可以很廣，也可以很具體：
-
-廣泛例子：「跟我作品有關的東西就好」
-
-精準例子：「一篇包含臘腸芭樂與 SCP-106 的科幻故事」
-
-配對方式採 秘密聖誕老人（Secret Santa）：
+配對方式採 匿名交換禮物（Secret Santa）：
 → 你不知道誰會給你禮物、你也匿名送禮給別人。
 → 聖誕節前會收到你的禮物。
 → 幾天後主辦方才會公布「誰做了哪份禮物」。
 
-參加者需填寫以下兩項內容：
-- **What I Can Give**（能提供的禮物，例如插圖、故事、配音、詩歌等）
-- **What I Am Looking For**（希望收到的禮物）
-
 之後將隨機配對至另一分部的參與者，並於聖誕節前後交換禮物。數日後將公開禮物創作者名單。
 
-----
-
-++ 如何報名
-請依下列格式 **在指定串中開新樓層**（不是回覆）或直接聯絡活動主辦：
-
-請勿填寫「我什麼都可以」等無明確方向的回答，這會讓對方難以製作禮物。  
-禮物內容必須與 **SCP 或 Wanderer's Library 世界觀相關**，不得要求：
-- 現實物品
-- Steam / 禮物碼等資源
-- 與 SCP 無關的原創 OC 題材
-
-What I Can Give: [你能製作的內容]
-What I Am Looking For: [你想收到的內容]
-
-請勿填寫「我什麼都可以」等無明確方向的回答，這會讓對方難以製作禮物。  
-禮物內容必須與 **SCP 或 Wanderer's Library 世界觀相關**，不得要求：
-- 現實物品
-- Steam / 禮物碼等資源
-- 與 SCP 無關的原創 OC 題材
+除了繪師與創作者們的活動以外，我們也將在聯合活動[https://discord.gg/gTPbn6Tdgr discord]中舉辦趣味的迷你團康遊戲，歡迎大家加入互相交流★
 
 ----
++ 活動時間表
 
-++ 時間表
+[[div class="jotting"]]
 
-| 日期 | 階段 |
-|------|------|
-| 11/7 – 11/12 | 報名階段 |
-| 11/14 – 12/8 | 製作禮物 |
-| 12/9 – 12/16 | 替補階段（Pinch-hitting） |
-| 12/16 – 12/25 | 上傳禮物、Discord 聊天開放 |
+@@ @@
+||~ 日期  ||~ 階段 ||
+|| 11/07 – 11/12 || 報名階段 ||
+|| 11/14 – 12/08 || 製作禮物 ||
+|| 12/09 – 12/16 || 替補階段 ||
+|| 12/16 – 12/25 || 上傳禮物、Discord 聊天開放 ||
+@@ @@
+[[/div]]
 
-----
-
-[[collapsible show="+ 詳細流程" hide="- 收起"]]
-
-+++ Stage 1：報名（11/5 – 11/12）
++++* Stage 1：報名（11/5 – 11/12）
 依照上方格式填寫內容。結束時間將另行公告。
 
-+++ Stage 2：製作禮物（11/14 – 12/8）
++++* Stage 2：製作禮物（11/14 – 12/8）
 - 11/14 起將以私訊發送配對結果
 - 你將收到一位來自另一分部的對象資料，並需為其製作禮物
-- 本活動 **匿名進行**。請使用匿名方式提交：
-  - Imgur（繪圖）
-  - 匿名 Pastebin / Sandbox（文字）
+- 本活動採取 **匿名進行**。請使用匿名方式提交：
+  - 繪圖作品
+  - 匿名沙盒(或你能確定個資安全的文字共享)
 
-匿名 Sandbox 可使用以下 CSS 隱藏歷史紀錄：
+匿名沙盒可使用以下 CSS 隱藏歷史紀錄：
 
-@@[[module css]]@@
-@@a#history-button.btn, a#files-button.btn {@@
-@@display: none;@@
-@@}@@
-@@[[/module]]@@
+> @@[[module css]]@@
+> @@a#history-button.btn, a#files-button.btn {@@
+> @@display: none;@@
+> @@}@@
+> @@[[/module]]@@
 
 完成後請將禮物傳給：
 - VN 分部：[[*user KirQ]]
@@ -263,32 +253,34 @@ What I Am Looking For: [你想收到的內容]
 
 若截至 12/8 未收到禮物草稿，將視為未提交並啟動替補機制。
 
-+++ Stage 3：替補階段（12/9 – 12/16）
-若有人未完成禮物，將由 Pinch-hitter 代為製作，確保每位參與者都能收到禮物。
++++* Stage 3：替補階段（12/9 – 12/16）
+若有人未完成禮物，將由 救援--投手--寫手 代為製作，確保每位參與者都能收到禮物。[[footnote]] 歡迎向咪呀應徵救援投手 [[/footnote]]
+- 當原製作者無法交件時，將由替補者製作禮物
+- 可能需於短時間內完成作品（最短 96 小時）
+- 僅建議具備快速創作能力者報名
 
-+++ Stage 4：公開與交流（12/16 – 12/25）
++++* Stage 4：公開與交流（12/16 – 12/25）
 - 參與者可自行將禮物發佈至各自 Wiki
 - 建議及早發佈以便翻譯至 INT 頻道
 - 活動期間將重新開放跨分部 Discord 伺服器，並舉辦小型互動活動
 
-[[/collapsible]]
-
 ----
++ 如何報名
 
-++ Pinch-Hitter / 替補制度
-- 當原製作者無法交件時，由替補者製作禮物
-- 可能需於短時間內完成作品（最短 96 小時）
-- 僅建議具備快速創作能力者報名
+[[div class="jotting"]]
+在下方留言板中填寫報名資訊，報名可以採取組隊形式。[[footnote]] 請盡量確保作品務必完成 [[/footnote]]
 
-如欲擔任替補，請在報名時註明，並留下聯絡方式（Ex：Discord 帳號）。
+> 1.**自己的創作種類**
+> 
+> 2.**自己希望收到什麼樣的禮物**
 
-----
+[[/div]]
 
-++ 聯絡方式
-- VN 分部：[[*user KirQ]]
-- ZH 分部：[[*user Dr V Valentine]]
-
-若有任何問題，歡迎私訊詢問。祝大家度過愉快的聖誕節！
+請不要填寫「我什麼都可以」等沒有明確指引的回答，這會讓抽中的人難以製作禮物。  
+禮物內容必須與 **SCP宇宙或流浪者圖書館世界觀相關**，不得要求：
+- 現實物品[[footnote]] 壞 [[/footnote]]
+- Steam / 禮物碼等資源[[footnote]] 壞 [[/footnote]]
+- 與 SCP 無關的原創 OC 題材[[footnote]] 你沒讀網頁說明你壞！ [[/footnote]]
 
 [[=]]
 [[div class="collapsible-block" style="background:#508c62;padding:.3em;font-size:1.5em"]]
@@ -299,3 +291,11 @@ What I Am Looking For: [你想收到的內容]
 [[/collapsible]]
 [[/div]]
 [[/=]]
+
+----
+
++ 聯絡方式
+- VN 分部：[[*user KirQ]]
+- ZH 分部：[[*user Dr V Valentine]]
+
+若有任何問題，歡迎私訊詢問。祝大家度過愉快的聖誕節！
